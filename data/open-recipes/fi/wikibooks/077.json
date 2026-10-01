@@ -1,0 +1,682 @@
+[
+  { "id": "wikibooks-macaroni-and-cheese-ii", "skip": "lähes sama kuin jo käännetyt juustomakaroniohjeet" },
+  {
+    "id": "wikibooks-macaroni-pie",
+    "title": "Karibialainen makaronipiiras",
+    "description": "Karibialainen uunimakaronilisuke juustolla, kananmunalla ja porkkanalla. Sopii haudutetun kanan tai palkokasvipatojen kanssa tai sellaisenaan.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "pasta", "uuniruoka", "karibialainen"],
+    "ingredients": [
+      "225 g makaronia",
+      "2 munaa",
+      "5 dl juustoraastetta + pinnalle",
+      "3,5 dl makeuttamatonta kondensoitua maitoa (tai kermamaitoa)",
+      "1 pieni sipuli, hienonnettuna",
+      "1 porkkana, raastettuna",
+      "1 tl suolaa",
+      "¼ tl valkopippuria",
+      "1 tl sinappia",
+      "1 rkl suolatonta voita, sulatettuna",
+      "korppujauhoja"
+    ],
+    "instructions": [
+      "Keitä makaronit suolalla maustetussa vedessä kypsiksi ja valuta.",
+      "Vatkaa munat kuohkeiksi.",
+      "Sekoita makaronit, munat, juusto, maito, sipuli, porkkana, suola, valkopippuri, sinappi ja voi.",
+      "Kaada seos voideltuun uunivuokaan ja ripottele pinnalle juustoraastetta ja korppujauhoja.",
+      "Paista 175 asteessa, kunnes piiras on hyytynyt, noin 30 minuuttia. Vuokaan pohjaan asti painettu haarukka tai tikku tulee ulos kuivana."
+    ],
+    "notes": ["Piiraaseen voi lisätä tomaattia, yrttejä, jauhelihaa tai paahdettua sipulia. Kokeile myös useamman juuston sekoitusta. Parhaimmillaan, kun pinta on ruskistunut tasaisesti."]
+  },
+  {
+    "id": "wikibooks-macaroni-salad",
+    "title": "Makaronisalaatti",
+    "description": "Amerikkalainen kylmä makaronisalaatti majoneesikastikkeella, punasipulilla ja sellerillä.",
+    "servings": 8,
+    "category": "Salaatit",
+    "tags": ["kasvis", "pasta", "amerikkalainen", "piknik"],
+    "ingredients": [
+      "1 dl majoneesia",
+      "1 tl sinappijauhetta",
+      "1 tl sokeria",
+      "2 rkl omenaviinietikkaa",
+      "suolaa",
+      "mustapippuria",
+      "450 g makaronia, keitettynä, valutettuna ja jäähdytettynä",
+      "¾ dl punasipulia, hienonnettuna",
+      "¾ dl varsiselleriä, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa pienessä kulhossa majoneesi, sinappi, sokeri ja etikka. Mausta suolalla ja pippurilla.",
+      "Sekoita isossa kulhossa makaronit, sipuli ja selleri. Kaada kastike päälle ja sekoita.",
+      "Jäähdytä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-machacado-con-huevo-eggs-with-shredded-beef",
+    "title": "Machacado con huevo – munakokkeli revityllä naudanlihalla",
+    "description": "Pohjois-Meksikon aamiaisklassikko: kuivattua, revittyä naudanlihaa munakokkelissa, tarjoiltuna tortillojen, papumuhennoksen, juuston ja salsan kanssa.",
+    "servings": 10,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["liha", "meksikolainen", "kananmuna", "nopea"],
+    "ingredients": [
+      "1 rkl voita tai margariinia",
+      "6 isoa munaa, kevyesti vatkattuna",
+      "5 dl revittyä, kypsää naudanlihaa",
+      "10 vehnätortillaa (n. 20 cm), lämmitettynä",
+      "1 tlk (450 g) papumuhennosta (refried beans), lämmitettynä",
+      "225 g cheddarjuustoa tai Monterey Jack -juustoa, raastettuna",
+      "salsaa tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna voi isossa paistinpannussa keskikorkealla lämmöllä.",
+      "Lisää munat ja kypsennä usein sekoittaen 2–3 minuuttia, kunnes ne alkavat juuri hyytyä.",
+      "Sekoita joukkoon revitty liha. Kypsennä välillä sekoittaen 2–3 minuuttia, kunnes munat ovat kypsiä ja liha on lämmennyt.",
+      "Tarjoa tortillojen, papumuhennoksen, juuston ja salsan kanssa."
+    ],
+    "notes": ["Kokkelin voi tarjota isossa kulhossa, josta jokainen kokoaa omat tacot, tai syödä ilman tortilloja."]
+  },
+  {
+    "id": "wikibooks-macho-nachos",
+    "title": "Macho nachos",
+    "description": "Uunissa gratinoidut nachot papudipillä, cheddarilla, guacamolella, smetanalla ja jalapeñoilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "meksikolainen", "nopea", "juhla"],
+    "ingredients": [
+      "1 tlk (250 g) papudippiä",
+      "chilikastiketta maun mukaan",
+      "1 ps (200 g) tortillalastuja",
+      "2 dl cheddarjuustoraastetta",
+      "1 dl guacamolea",
+      "1 dl smetanaa",
+      "jalapeñoviipaleita"
+    ],
+    "instructions": [
+      "Sekoita papudippiin chilikastiketta maun mukaan. Levitä seosta tortillalastuille ja nosta ne uunipellille.",
+      "Ripottele päälle juustoa ja paista 200 asteessa noin 2 minuuttia tai kunnes juusto sulaa.",
+      "Lisää päälle guacamole ja smetana ja koristele runsaalla määrällä jalapeñoviipaleita."
+    ]
+  },
+  {
+    "id": "wikibooks-madbucha-north-african-peppers-and-tomatoes",
+    "title": "Matbucha – pohjoisafrikkalainen paprika-tomaattimuhennos",
+    "description": "Hauduttamalla valmistettu tomaatti-paprikamuhennos, joka sopii lihan lisukkeeksi, leivän päälle tai riisin kanssa. Ohje on perheresepti ja tekee ison satsin.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "pohjoisafrikkalainen"],
+    "ingredients": [
+      "1 dl oliiviöljyä",
+      "2 sipulia, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "15 tomaattia, kuutioituna",
+      "10 paprikaa (mieluiten punaisia), pieninä paloina",
+      "5 chiliä, hienonnettuna",
+      "330 g tomaattipyreetä",
+      "suolaa",
+      "mustapippuria",
+      "1 tl juustokuminaa",
+      "1 dl persiljaa, hienonnettuna",
+      "1 tl oreganoa"
+    ],
+    "instructions": [
+      "Valitse kattila, johon kaikki ainekset mahtuvat. Peitä pohja öljyllä ja kuumenna.",
+      "Kun öljy on kuumaa, lisää sipuli ja valkosipuli.",
+      "Kun ne alkavat paistua, lisää loput kasvikset ja suola.",
+      "Sekoita ja peitä kattila kannella.",
+      "Hauduta välillä sekoittaen, kunnes nestettä on enemmän kuin kasviksia.",
+      "Kaada suurin osa (ei kaikkea) nesteestä pois.",
+      "Lisää tomaattipyree ja mausteet.",
+      "Sekoita ja anna jäähtyä."
+    ],
+    "notes": ["Pilko paprikat pieniksi, mutta ei niin pieniksi, että ne katoavat kypsennettäessä."]
+  },
+  {
+    "id": "wikibooks-madeleines",
+    "title": "Madeleine-leivokset",
+    "description": "Pienet ranskalaiset sitruunaiset kuppikakut, jotka paistetaan simpukan muotoisissa madeleine-vuoissa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "ranskalainen", "leivonnainen"],
+    "ingredients": [
+      "4 munaa",
+      "100 g sokeria",
+      "1 ripaus suolaa",
+      "100 g vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "1 sitruunan raastettu kuori",
+      "75 g voita, sulatettuna"
+    ],
+    "instructions": [
+      "Vatkaa munat, sokeri ja suola kulhossa vaahdoksi.",
+      "Sekoita jauhot, leivinjauhe ja sitruunankuori ja kääntele ne munavaahtoon. Kääntele lopuksi joukkoon voisula.",
+      "Annostele taikina voideltuihin madeleine-vuokiin. Muista, että taikina kohoaa uunissa ja täyttää vuoat.",
+      "Paista 180-asteisessa uunissa 12–15 minuuttia, kunnes leivokset ovat kimmoisia mutta eivät ruskistuneita.",
+      "Anna jäähtyä ja kumoa vuoista.",
+      "Tarjoa tuoreina."
+    ]
+  },
+  {
+    "id": "wikibooks-madras-filter-coffee",
+    "title": "Madrasin maitokahvi",
+    "description": "Eteläintialainen vaahtoava maitokahvi, joka tehdään sikurilla jatketusta kahvista. Ohjeessa käytetään helpompaa pikakahviversiota.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "kahvi", "nopea"],
+    "ingredients": [
+      "½ dl vettä",
+      "½–2 tl sikuripitoista pikakahvia",
+      "2 dl maitoa",
+      "sokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kiehuvaksi ja sekoita joukkoon kahvi niin, ettei siihen jää paakkuja.",
+      "Kuumenna maito kiehuvaksi.",
+      "Lisää kahviseos maitoon ja makeuta sokerilla maun mukaan.",
+      "Kaada kiehuvan kuuma kahvi mukiin tai mieluiten teräsmukiin nostaen kattilaa samalla hitaasti ylöspäin niin, että kahvi putoaa noin 30–45 cm:n korkeudelta. Näin kahvi vaahtoaa kuin espresso.",
+      "Halutessasi voit tiputella teelusikalla muutaman tipan kahvia vaahdon päälle.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Intiassa suodatinkahvi valmistetaan erityisessä suljetussa teräksisessä suodatinpannussa tuoreesta kahvi-sikurisekoituksesta."]
+  },
+  {
+    "id": "wikibooks-maff-west-african-peanut-stew-i",
+    "title": "Maffé – länsiafrikkalainen maapähkinäpata",
+    "description": "Senegalista, Malista ja Gambiasta tuttu täyteläinen pata, jossa liha ja kasvikset haudutetaan kermaisessa maapähkinä-tomaattikastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "pata"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "450 g naudanlihaa tai broileria, kuutioituna",
+      "1 iso sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2,5 dl maapähkinävoita",
+      "1 tl juustokuminaa",
+      "1 tl paprikajauhetta",
+      "1 tl chilijauhetta",
+      "suolaa",
+      "mustapippuria",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 l lihalientä tai kanalientä",
+      "2 porkkanaa, kuutioituna",
+      "2 perunaa, kuutioituna",
+      "1 paprika, kuutioituna",
+      "2,5 dl okraa, viipaloituna",
+      "2,5 dl pinaattia tai lehtikaalia, pilkottuna",
+      "tuoretta korianteria tai persiljaa koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa tai valurautapadassa keskikorkealla lämmöllä. Ruskista lihakuutiot joka puolelta ja nosta sivuun.",
+      "Kuullota sipuli ja valkosipuli samassa kattilassa, kunnes sipuli on läpikuultavaa.",
+      "Laske lämpö pieneksi ja lisää maapähkinävoi. Sekoita koko ajan, kunnes se sulaa ja sekoittuu sipuleihin.",
+      "Lisää juustokumina, paprikajauhe, chilijauhe, suola ja pippuri ja sekoita hyvin. Lisää tomaattimurska nesteineen.",
+      "Kaada liemi vähitellen joukkoon koko ajan sekoittaen, jotta kastikkeesta tulee tasaista. Palauta liha kattilaan.",
+      "Peitä kannella ja hauduta miedolla lämmöllä noin 30 minuuttia.",
+      "Lisää porkkanat, perunat, paprika, okra ja lehtivihannekset. Sekoita niin, että kasvikset peittyvät kastikkeella.",
+      "Peitä ja hauduta vielä 15–20 minuuttia, kunnes kasvikset ovat kypsiä.",
+      "Nosta liedeltä ja anna seistä muutama minuutti, jolloin pata sakeutuu hieman. Tarjoa kuumana korianterilla tai persiljalla koristeltuna riisin tai kuskusin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-maff-west-african-peanut-stew-ii",
+    "title": "Norsunluurannikon maapähkinäpata kasviksilla",
+    "description": "Tulinen kasvisversio maffésta: bataattia, kaalia, juureksia, munakoisoa ja okraa maapähkinä-tomaattiliemessä habanerolla maustettuna.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["afrikkalainen", "pata", "tulinen"],
+    "ingredients": [
+      "4 rkl rypsiöljyä",
+      "2 sipulia, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1,5 tl raastettua inkivääriä",
+      "5 dl tomaattimurskaa",
+      "4 kanaliemikuutiota, murennettuna",
+      "1,5 l kuumaa vettä",
+      "2,5 dl maapähkinävoita",
+      "4 pientä munakoisoa, kuorittuna ja pilkottuna",
+      "2 bataattia, kuorittuna ja pilkottuna",
+      "1 keskikokoinen valkokaali, pilkottuna",
+      "4 porkkanaa, kuutioituna",
+      "3 naurista, pilkottuna",
+      "2 habanero-chiliä, kokonaisina",
+      "15 okraa, pilkottuna",
+      "suolaa",
+      "mustapippuria",
+      "maapähkinärouhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Lisää sipulit, valkosipuli ja inkivääri ja kuullota sekoittaen noin 5 minuuttia, kunnes sipuli on läpikuultavaa.",
+      "Lisää tomaattimurska, liemikuutiot ja kuuma vesi. Hauduta miedolla lämmöllä 10 minuuttia.",
+      "Sekoita joukkoon maapähkinävoi. Lisää munakoiso, bataatti, kaali, porkkanat, nauriit ja habanerot ja sekoita varovasti, etteivät chilit rikkoudu.",
+      "Peitä ja hauduta miedolla lämmöllä noin tunti, kunnes pata on sakeutunut.",
+      "Lisää okra ja mausta suolalla ja pippurilla. Hauduta vielä noin 30 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Poista chilit ja ripottele pinnalle halutessasi maapähkinärouhetta.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Kanaliemikuutioiden tilalla kasvisliemikuutiot tekevät padasta vegaanisen."]
+  },
+  { "id": "wikibooks-maff-west-african-peanut-stew-iii", "skip": "puutteellinen ohje ja lähes sama kuin edelliset maffé-ohjeet" },
+  {
+    "id": "wikibooks-mafrum-bil-lahm-libyan-baked-meat-and-potatoes",
+    "title": "Mafrum bil lahm – libyalaiset täytetyt perunat tomaattikastikkeessa",
+    "description": "Libyalainen juhlaruoka: maustetulla jauhelihalla täytetyt perunaviipaleet haudutettuna uunissa tomaattikastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "peruna", "uuniruoka", "pohjoisafrikkalainen"],
+    "ingredients": [
+      "4 perunaa, kuorittuna ja paksuiksi viipaleiksi leikattuna",
+      "2 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "500 g naudan jauhelihaa tai lampaan jauhelihaa",
+      "1 tl juustokuminaa",
+      "1 tl paprikajauhetta",
+      "½ tl cayennepippuria",
+      "suolaa",
+      "mustapippuria",
+      "1 tlk (400 g) tomaattimurskaa",
+      "tuoretta persiljaa tai korianteria koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna isossa kattilassa vesi kiehuvaksi ja keitä perunaviipaleita noin 5 minuuttia, kunnes ne ovat hieman pehmenneet. Valuta.",
+      "Kuumenna öljy pannulla keskilämmöllä. Kuullota sipuli ja valkosipuli.",
+      "Lisää jauheliha ja ruskista se puulastalla rikkoen.",
+      "Sekoita joukkoon juustokumina, paprika, cayenne, suola ja pippuri ja paista vielä minuutti.",
+      "Nosta pannu liedeltä.",
+      "Kuumenna uuni 180 asteeseen.",
+      "Litistä perunaviipale kämmenellä, nosta keskelle lusikallinen lihaseosta ja taita reunat täytteen päälle. Toista loppujen viipaleiden kanssa.",
+      "Asettele täytetyt perunat yhteen kerrokseen uunivuokaan.",
+      "Mausta tomaattimurska suolalla, pippurilla ja mahdollisilla jäljellä olevilla mausteilla. Kaada perunoiden päälle niin, että ne peittyvät.",
+      "Peitä vuoka foliolla ja paista 45 minuuttia.",
+      "Poista folio ja paista vielä 10–15 minuuttia, kunnes perunat ovat kypsiä ja pinta kullanruskea.",
+      "Koristele persiljalla tai korianterilla ennen tarjoilua."
+    ],
+    "notes": [
+      "Tarjoa salaatin tai rapean leivän kanssa.",
+      "Pinnalle voi ripotella juustoraastetta ennen paistamista."
+    ]
+  },
+  { "id": "wikibooks-magic-brownies", "skip": "sisältää kannabista (laiton/päihde)" },
+  {
+    "id": "wikibooks-maharashtrian-baingan-bartha-south-indian-eggplant-with-chili",
+    "title": "Baingan bharta – savustettu munakoisomuhennos maharashtralaisittain",
+    "description": "Avotulella hiillostettu munakoiso survotaan ja maustetaan kevätsipulilla, herneillä ja sinapinsiemen-kumina-chiliöljyllä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "intialainen"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1–2 isoa munakoisoa",
+      "1 nippu kevätsipulia, hienonnettuna",
+      "2–3 tl valkosipulin vartta tai tuoretta valkosipulia, hienonnettuna (valinnainen)",
+      "½ dl herneitä",
+      "1 tl juustokuminan siemeniä",
+      "1 tl mustia sinapinsiemeniä",
+      "suolaa",
+      "1–2 vihreää chiliä, 2–3 palaksi murrettuna",
+      "¼ tl kurkumaa (valinnainen)",
+      "½ tl chilijauhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Pese ja kuivaa munakoisot ja sivele niiden pintaan vähän öljyä.",
+      "Hiillosta munakoisoja suoraan liekin päällä, kunnes kuori on musta. Vaihtoehtoisesti paahda ne uunin grillivastuksen alla tai nuotiolla savunmaun saamiseksi.",
+      "Kun kuori on mustunut ja irtoaa kosketettaessa, anna jäähtyä hetki ja kuori palanut kuori pois. Ota valunut neste talteen.",
+      "Survo munakoison malto käsin tasaiseksi ja siirrä isoon kulhoon.",
+      "Sekoita joukkoon kevätsipuli, mahdollinen valkosipuli, herneet ja suola.",
+      "Kuumenna öljy pannulla. Lisää ensin sinapinsiemenet, sitten kuminansiemenet ja lopuksi chilit. Paista chilejä 10–12 sekuntia.",
+      "Kaada mausteöljy munakoisoseoksen päälle, sekoita hyvin ja tarjoa.",
+      "Lämmin versio: lisää kurkuma ja chilijauhe chilien jälkeen, kaada munakoisoseos pannulle ja paista 1–2 minuuttia. Kostuta tarvittaessa talteen otetulla munakoisoliemellä. Tarjoa kuumana."
+    ],
+    "notes": ["Perinteisesti tarjotaan bhakri-leivän ja thecha-chilitahnan kanssa (10–15 vihreää chiliä ja 5–7 valkosipulinkynttä paistetaan öljyssä ja jauhetaan karkeaksi korianterin ja suolan kanssa – erittäin tulista)."]
+  },
+  {
+    "id": "wikibooks-maharashtrian-deep-fried-chickpea-dough-curry-snacks-pakoda",
+    "title": "Sipulipakorat",
+    "description": "Maharashtralaiset rapeat sipulipakorat: mausteiset sipulisuikaleet kikhernejauhotaikinassa friteerattuna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "friteerattu"],
+    "ingredients": [
+      "5–6 sipulia, kuorittuna ja ohuiksi viipaleiksi leikattuna",
+      "2–3 vihreää chiliä, hienonnettuna",
+      "1 tl suolaa",
+      "½ tl kurkumaa",
+      "½ tl chilijauhetta",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "3–4 dl kikhernejauhoja",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita sipulit ja chilit. Lisää suola ja anna seistä 10–15 minuuttia.",
+      "Sekoita joukkoon kurkuma, chilijauhe, juustokumina ja korianteri. Sipuliseos on nyt kostunut suolan ja mausteiden ansiosta; anna tarvittaessa seistä vielä 5 minuuttia.",
+      "Lisää kikhernejauhoja vähän kerrallaan vain sen verran, että ne imevät kosteuden. Seoksen tulee olla hieman tahmeaa, ei kuivaa.",
+      "Kuumenna öljy wokissa tai paistinpannussa. Ota kuumasta öljystä varovasti 2–3 rkl ja sekoita taikinaan.",
+      "Pudota taikinaa pieninä nokareina keskikuumaan öljyyn muutama kerrallaan ja paista kullanruskeiksi. Paista useassa erässä.",
+      "Tarjoa kuumina vihreän chutneyn tai ketsupin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-mahshi-egyptian-stuffed-vegetables",
+    "title": "Mahshi – egyptiläiset täytetyt kasvikset",
+    "description": "Egyptiläinen juhlaruoka: kesäkurpitsat, munakoisot, paprikat ja tomaatit täytettynä yrttisellä tomaattiriisillä ja haudutettuna uunissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "riisi", "uuniruoka"],
+    "ingredients": [
+      "noin 1,5 kg täytettäviä kasviksia, esim. 2 kesäkurpitsaa, 1 munakoiso, 2 paprikaa ja 3 tomaattia",
+      "2,5 dl puuroriisiä tai muuta keskijyväistä riisiä",
+      "1 dl tomaattipyreetä",
+      "½ dl oliiviöljyä",
+      "½ dl tuoretta persiljaa, hienonnettuna",
+      "½ dl tuoretta minttua, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "suolaa",
+      "mustapippuria",
+      "vettä"
+    ],
+    "instructions": [
+      "Leikkaa kasvisten kannet irti ja kaavi siemenet ja malto pois niin, että jäljelle jää ontot kuoret. Säästä malto.",
+      "Sekoita kulhossa riisi, tomaattipyree, öljy, persilja, minttu, valkosipuli, juustokumina, korianteri, suola ja pippuri.",
+      "Täytä kasvikset riisiseoksella tiiviisti, mutta jätä yläosaan tilaa riisin turpoamiselle.",
+      "Asettele kasvikset uunivuokaan tiiviisti toisiaan vasten.",
+      "Täytä välit säästetyllä maltolla, jotta kasvikset pysyvät paikoillaan.",
+      "Kaada vuokaan vettä niin, että kasvikset ovat osittain veden peitossa.",
+      "Peitä vuoka tiiviisti foliolla.",
+      "Paista 180-asteisessa uunissa 60–75 minuuttia, kunnes kasvikset ovat pehmeitä ja riisi kypsää.",
+      "Poista folio ja paista vielä 10–15 minuuttia, jotta pinnat ruskistuvat hieman.",
+      "Anna jäähtyä hetki ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-maitorieska-finnish-barley-flatbread",
+    "title": "Maitorieska",
+    "description": "Ylivieskan seudun perinteinen ohraleipä: ohut rieska maidosta ja ohrajauhoista, paistettuna kuumassa uunissa.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suomalainen", "rieska", "nopea"],
+    "ingredients": [
+      "2,5 dl kylmää maitoa",
+      "⅓ tl suolaa",
+      "2,5–3,5 dl ohrajauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 300 asteeseen tai niin kuumaksi kuin se lämpenee.",
+      "Sekoita maito ja suola ja lisää jauhot. Sekoita hyvin taikinaksi.",
+      "Taputtele taikinasta pyöreä, noin 0,5 cm paksu levy.",
+      "Paista pellillä noin 10 minuuttia tai kunnes pintaan tulee tummempia läikkiä. Rieskan voi myös paistaa pannulla liedellä tai avotulella.",
+      "Syö tuoreena voin ja kylmän maidon kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-maja-blanca-coconut-milk-pudding",
+    "title": "Maja blanca – filippiiniläinen kookosvanukas",
+    "description": "Filippiiniläinen hyytelömäinen kookosmaitovanukas, johon voi lisätä maissinjyviä ja paahdettuja kookoshiutaleita.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "gluteeniton", "filippiiniläinen"],
+    "ingredients": [
+      "2,5 dl maissitärkkelystä",
+      "1 l kookosmaitoa",
+      "1 tlk (400 g) makeutettua kondensoitua maitoa",
+      "1 tlk (400 ml) kookoskermaa",
+      "1,5 dl sokeria",
+      "2,5 dl maissinjyviä (valinnainen)",
+      "½ dl paahdettuja kookoshiutaleita (valinnainen)"
+    ],
+    "instructions": [
+      "Liuota maissitärkkelys kulhossa 2,5 dl:aan kookosmaitoa ja nosta sivuun.",
+      "Yhdistä kattilassa loput kookosmaidosta, kondensoitu maito, kookoskerma ja sokeri. Kuumenna keskilämmöllä hiljalleen kiehuvaksi.",
+      "Kaada tärkkelysseos vähitellen kattilaan koko ajan sekoittaen. Laske lämpöä ja jatka sekoittamista, kunnes seos sakeutuu, noin 10–15 minuuttia.",
+      "Lisää halutessasi maissinjyvät ja sekoita vielä 2–3 minuuttia.",
+      "Kaada seos voideltuun vuokaan tai muottiin. Anna jäähtyä ja hyytyä jääkaapissa vähintään tunti.",
+      "Leikkaa hyytynyt vanukas paloiksi ja ripottele pinnalle paahdetut kookoshiutaleet ennen tarjoilua."
+    ],
+    "notes": ["Alkuperäisessä ohjeessa tärkkelystä on 2 cups (n. 4,5 dl), mikä on tavallista selvästi enemmän; määrää on vähennetty."]
+  },
+  {
+    "id": "wikibooks-makizushi-maki-roll",
+    "title": "Makisushi – sushirullat",
+    "description": "Norilevyyn rullattuja sushirullia, joiden täytteenä on kalaa, kurkkua tai avokadoa. Ohje neuvoo myös nurinpäin rullatut rullat, joissa riisi on ulkopuolella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "japanilainen", "sushi", "riisi"],
+    "ingredients": [
+      "8 dl valmista sushiriisiä (maustettu, jäähdytetty)",
+      "200 g täytteitä, esim. sushilaatuista lohta tai tonnikalaa, savulohta, kurkkua tai avokadoa, suikaleina",
+      "4 norilevyä",
+      "wasabitahnaa",
+      "vettä",
+      "seesaminsiemeniä (valinnainen, nurinpäin rullattuihin)",
+      "soijakastiketta tarjoiluun",
+      "marinoitua inkivääriä tarjoiluun"
+    ],
+    "instructions": [
+      "Aseta bambumatto leikkuulaudalle. Jos teet nurinpäin rullia, kääri matto kaksinkertaiseen kelmuun, ettei riisi tartu siihen.",
+      "Aseta norilevy kiiltävä puoli alaspäin maton päälle.",
+      "Kostuta kädet ennen riisin käsittelyä. Ota kourallinen riisiä ja levitä se noin 6 mm paksuksi kerrokseksi norin päälle niin, että maton suuntaiseen reunaan jää 2 cm tyhjää. Jos norin läpi ei näy lainkaan, riisiä on liikaa.",
+      "Nurinpäin rullaa varten käännä nori ja riisi nopeasti ympäri niin, että riisi on kelmua vasten ja nori ylöspäin.",
+      "Asettele täytteet riviin keskelle ja sivele halutessasi vähän wasabia. Rullaa maton avulla hitaasti itsestäsi poispäin peukaloilla ja kämmenillä tukien. Varmista, että täyterivi jää rullan sisään eikä vain työnny eteenpäin.",
+      "Kun pääset levyn loppuun, tiivistä rullaa kevyesti maton avulla niin, että riisi liimaa sen kiinni. Älä purista sivuilta liian kovaa äläkä litistä rullaa ylhäältä.",
+      "Tasoita rullan päät painamalla niitä kevyesti kämmenellä maton reunan yli.",
+      "Nosta rulla matolta leikkuulaudalle.",
+      "Kastele terävä veitsi ennen leikkaamista. Leikkaa rulla keskeltä alkaen 6–8 palaksi: ensin keskeltä, sitten puolikkaat vierekkäin ja ne kahtia.",
+      "Kierätä nurinpäin rullien ulkopinta halutessasi seesaminsiemenissä.",
+      "Tarjoa soijakastikkeen, marinoidun inkiväärin ja wasabin kanssa."
+    ],
+    "notes": [
+      "Kosteat kädet estävät riisiä tarttumasta, mutta liika vesi heikentää riisin tarttuvuutta.",
+      "Suosittuja rullia: California (avokado, rapu tai surimi, kurkku), Philadelphia (lohi ja tuorejuusto), tulinen tonnikala (tonnikala, majoneesi ja sriracha) ja kurkkurulla."
+    ]
+  },
+  {
+    "id": "wikibooks-makki-di-roti-indian-cornmeal-flatbread",
+    "title": "Makki di roti – punjabilainen maissileipä",
+    "description": "Pohjois-Intian talviruoka: keltaiset maissijauholeivät paistetaan pannulla ja tarjotaan sarson da saagin ja lassin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "intialainen", "gluteeniton", "rieska"],
+    "ingredients": [
+      "5 dl maissijauhoja",
+      "1 rkl suolatonta voita, pehmeänä",
+      "noin 2,5 dl kädenlämpöistä vettä",
+      "voita tai gheetä pinnalle"
+    ],
+    "instructions": [
+      "Kasaa maissijauhot leveälle alustalle tai kulhoon keoksi. Tee keskelle kuoppa ja kaada siihen vähän lämmintä vettä.",
+      "Sekoita jauhot ja vesi taikinaksi lisäten vettä vähän kerrallaan. Taikinan tulee olla kosteaa mutta ei tahmeaa; ripottele tarvittaessa lisää jauhoja.",
+      "Lisää lopuksi pehmeä voi ja vaivaa vielä kerran.",
+      "Ota taikinasta kämmenen kokoinen pala ja pyöritä se palloksi. Litistä palloa vähitellen kämmenten välissä samalla pyörittäen, jotta leivästä tulee tasaisen ohut. Kastele kädet, jotta taikina venyy, ja korjaa reunojen halkeamat painelemalla.",
+      "Kun leipä on pienen lautasen kokoinen, nosta se kuumalle valurautapannulle. Anna kypsyä rauhassa, kunnes leipä irtoaa pannusta. Paina kosteilta näyttäviä kohtia kuivalla liinalla.",
+      "Käännä leipä ja paista toinen puoli. Kypsässä leivässä ei ole kosteita kohtia; pienet palaneet läikät ovat normaaleja.",
+      "Sivele valmiit leivät gheellä ja tarjoa heti."
+    ],
+    "notes": ["Maissijauhotaikina on hauraampaa kuin vehnätaikina, joten käsittele sitä varovasti."]
+  },
+  {
+    "id": "wikibooks-maklubi-rice-with-meat-and-vegetables",
+    "title": "Maklubi – jauheliha-riisipata",
+    "description": "Yksinkertainen levanttilainen riisiruoka jauhelihasta ja maustepippurilla maustetusta riisistä, tarjoiltuna jogurtin kanssa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "lähi-itä", "arkiruoka"],
+    "ingredients": [
+      "225 g naudan jauhelihaa",
+      "½ sipuli, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "2,5 dl riisiä",
+      "3,5 dl vettä",
+      "suolaa",
+      "mustapippuria",
+      "1 tl jauhettua maustepippuria",
+      "maustamatonta jogurttia tarjoiluun"
+    ],
+    "instructions": [
+      "Ruskista jauheliha ja sipuli kattilassa pienessä määrässä öljyä suolan, pippurin ja maustepippurin kanssa (maustepippuria enemmän kuin mustapippuria). Nosta liedeltä.",
+      "Lisää riisi ja vesi. Kuumenna kiehuvaksi keskilämmöllä.",
+      "Laske lämpöä hieman ja peitä kannella vinoon, jotta osa höyrystä pääsee pois.",
+      "Kun suurin osa vedestä on haihtunut ja riisin pintaan tulee kuoppia, laita kansi tiiviisti kiinni. Hauduta miedolla lämmöllä 15 minuuttia.",
+      "Nosta liedeltä ja anna seistä kannen alla 2–3 minuuttia. Tarjoa jogurtin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-malai-mixed-vegetable-curry",
+    "title": "Malai-kasviscurry paneerilla",
+    "description": "Kermainen intialainen kasviscurry paprikoista, porkkanasta, herneistä ja paneerista cashew-tomaattikastikkeessa.",
+    "servings": 10,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "curry"],
+    "ingredients": [
+      "3 vihreää paprikaa",
+      "1 oranssi, 1 keltainen ja 1 punainen paprika",
+      "2,5 dl paneeria, kuutioituna",
+      "1 dl cashewpähkinöitä + koristeluun",
+      "4 isoa tomaattia",
+      "2,5 dl porkkanaa, kuutioituna",
+      "2,5 dl herneitä",
+      "3–4 vihreää chiliä, hienonnettuna",
+      "1 tl kuivattua persiljaa",
+      "1 rkl voita tai rypsiöljyä",
+      "1–2 tl garam masalaa",
+      "½ tl chilijauhetta",
+      "suolaa",
+      "½ tl kurkumaa",
+      "9 dl kuohukermaa",
+      "1 rkl smetanaa",
+      "tuoretta korianteria koristeluun"
+    ],
+    "instructions": [
+      "Leikkaa paprikat noin 1 cm:n paloiksi.",
+      "Paista paneerikuutiot kullanruskeiksi ja nosta sivuun.",
+      "Liota cashewpähkinöitä lämpimässä vedessä.",
+      "Soseuta tomaatit ja liotetut cashewpähkinät tasaiseksi tahnaksi.",
+      "Kuullota kasvikset, chilit ja persilja voissa tai öljyssä kypsiksi. Kasvikset voi myös kypsentää ensin mikroaaltouunissa noin 10 minuuttia ilman vettä ja paistaa sitten minuutin voissa.",
+      "Lisää tomaattitahna kasviksiin ja kypsennä 5 minuuttia.",
+      "Lisää garam masala, chilijauhe, suola ja kurkuma maun mukaan ja hauduta 2 minuuttia.",
+      "Lisää kerma ja smetana ja keitä, kunnes kastike sakeutuu.",
+      "Lisää paneeri ja sekoita.",
+      "Koristele korianterilla ja cashewpähkinöillä.",
+      "Tarjoa kuumana naanin tai rotin kanssa."
+    ],
+    "notes": ["Kasviksia voi vaihtaa esimerkiksi kesäkurpitsaan tai parsakaaliin."]
+  },
+  {
+    "id": "wikibooks-malawach-flaky-flatbread",
+    "title": "Malawach – lehtevä jemeniläis-israelilainen lättyleipä",
+    "description": "Monikerroksinen, voilla siveltyä hiivataikinaa, joka kierretään spiraaliksi ja paistetaan pannulla rapeaksi.",
+    "servings": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "israelilainen", "rieska"],
+    "ingredients": [
+      "1 kg vehnäjauhoja",
+      "1 dl sokeria",
+      "2 tl kuivahiivaa",
+      "1 rkl suolaa",
+      "5–7 dl kädenlämpöistä vettä",
+      "rypsiöljyä paistamiseen ja alustalle",
+      "200 g voita tai margariinia, sulatettuna"
+    ],
+    "instructions": [
+      "Sekoita jauhot, sokeri, hiiva, suola ja aluksi 5 dl vettä. Vaivaa taikina hyvin ja lisää tarvittaessa vettä, kunnes se on pehmeää ja joustavaa.",
+      "Peitä ja anna kohota kaksinkertaiseksi.",
+      "Vaivaa taikina käsin. Jaa se 12 osaan ja nosta palat öljytylle alustalle. Anna kohota kaksinkertaisiksi ja sivele pintaa välillä öljyllä.",
+      "Öljyä työtaso. Kauli jokainen pala hyvin isoksi, lähes paperinohueksi levyksi.",
+      "Sivele levy runsaalla voisulalla. Taita se kahtia ylhäältä alas ja kääri sitten rullalle kuin makuupussi, jolloin saat nauhan. Kierrä nauha kiepiksi.",
+      "Peitä ja anna kohota kaksinkertaiseksi.",
+      "Kauli kiepit uudelleen ohuiksi levyiksi, sivele voilla ja toista rullaus ja kiertäminen.",
+      "Anna kohota vielä kerran peitettynä.",
+      "Kuumenna paistinpannussa vähän öljyä.",
+      "Painele kiepit käsin litteiksi öljytyllä alustalla.",
+      "Nosta leivät pannulle ja peitä kannella. Paista keskilämmöllä, kunnes pohja on meripihkan värinen. Käännä ja paista toinen puoli ilman kantta.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Malawach tarjotaan usein kovaksi keitetyn kananmunan ja korianterilla maustetun tomaattisalsan kanssa."]
+  },
+  {
+    "id": "wikibooks-malpua-south-asian-sweet-pancake",
+    "title": "Malpua – intialaiset makeat lätyt",
+    "description": "Kokoon keitetystä maidosta ja mannasuurimoista tehtyjä pieniä lättyjä, jotka paistetaan gheessä ja kastetaan sokeriliemeen.",
+    "servings": 10,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "intialainen", "lätyt"],
+    "ingredients": [
+      "1 l maitoa",
+      "½ dl vehnäjauhoja",
+      "½ dl mannasuurimoita",
+      "kirkastettua voita (ghee) paistamiseen",
+      "Sokeriliemi:",
+      "2,5 dl sokeria",
+      "1,5 dl vettä"
+    ],
+    "instructions": [
+      "Keitä maitoa, kunnes se on kiehunut puoleen alkuperäisestä määrästä.",
+      "Paahda mannasuurimot vaaleanruskeiksi.",
+      "Sekoita vehnäjauhot ja maito paahdettujen mannasuurimoiden joukkoon tasaiseksi, paakuttomaksi taikinaksi.",
+      "Kuumenna ghee paistinpannussa.",
+      "Kaada taikinaa pannulle kiertävin liikkein pieniksi lätyiksi.",
+      "Käännä lättyjä useaan kertaan. Varo, etteivät ne muutu rapeiksi tai koviksi.",
+      "Keitä sokeri ja vesi sakeahkoksi liemeksi. Kasta lätyt sokeriliemeen.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-maltese-almond-cookies-biskuttini-tal-lewz",
+    "title": "Biskuttini tal-lewz – maltalaiset mantelikeksit",
+    "description": "Maltalaiset sitkeän pehmeät mantelikeksit, jotka paistetaan riisipaperin päällä ja koristellaan kokonaisella mantelilla.",
+    "servings": 25,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "maltalainen", "gluteeniton", "pikkuleipä"],
+    "ingredients": [
+      "300 g mantelijauhoa",
+      "250 g sokeria",
+      "1 rkl sitruunamehua",
+      "2 kananmunan valkuaista",
+      "1–2 tippaa manteliaromia",
+      "1 tl vaniljauutetta",
+      "kokonaisia manteleita koristeluun",
+      "riisipaperia"
+    ],
+    "instructions": [
+      "Sekoita mantelijauho, sokeri, sitruunamehu, manteliaromi ja vanilja kulhossa.",
+      "Vatkaa valkuaiset kovaksi vaahdoksi ja lisää mantelin joukkoon. Sekoita hyvin taikinaksi.",
+      "Levitä riisipaperi pellille.",
+      "Ota kämmenelle ruokalusikallinen taikinaa ja pyörittele palloksi. Nosta riisipaperille ja litistä hieman.",
+      "Toista loppujen taikinan kanssa.",
+      "Paina jokaisen keksin päälle manteli ja paista 190 asteessa noin 25 minuuttia tai kunnes keksit ovat vaalean kullanruskeita."
+    ]
+  }
+]

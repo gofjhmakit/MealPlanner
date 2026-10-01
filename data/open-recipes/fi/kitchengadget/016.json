@@ -1,0 +1,648 @@
+[
+  {
+    "id": "kg-thai-green-papaya-salad-som-tum",
+    "title": "Som tum – thaimaalainen vihreä papaijasalaatti",
+    "description": "Tulinen, morttelissa survottu raakapapaijasalaatti.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["kala", "thaimaalainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "2 pientä punaista chiliä",
+      "1 rkl palmusokeria",
+      "100 g vihreitä papuja, puolitettuna",
+      "150 g kirsikkatomaatteja, puolitettuna",
+      "1 raaka vihreä papaija, suikaloituna",
+      "2 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "2 rkl paahdettuja maapähkinöitä"
+    ],
+    "instructions": [
+      "Survo chilit ja palmusokeri morttelissa.",
+      "Lisää pavut ja tomaatit ja survo kevyesti.",
+      "Lisää papaijasuikaleet, kalakastike ja limettimehu.",
+      "Survo hetki, jotta maut sekoittuvat.",
+      "Tarjoile maapähkinöillä koristeltuna."
+    ]
+  },
+  {
+    "id": "kg-thai-grilled-fish-with-herb-salad",
+    "title": "Thaimaalainen grillikala ja yrttisalaatti",
+    "description": "Kokonaisena grillattu kala raikkaan yrttisalaatin ja riisin kanssa.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "thaimaalainen", "grilli", "gluteeniton"],
+    "ingredients": [
+      "400 g kokonaista makrillia tai meribassia",
+      "3 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "1 sitruunaruohon varsi, hienonnettuna",
+      "Yrttisalaatti:",
+      "kourallinen minttua, korianteria ja tilliä",
+      "2 salottisipulia, viipaloituna",
+      "1–2 pientä punaista chiliä, hienonnettuna",
+      "Tarjoiluun:",
+      "2 dl jasmiiniriisiä, keitettynä",
+      "1 limetti"
+    ],
+    "instructions": [
+      "Viillä kalan pintaan ja marinoi kalakastikkeen, limettimehun ja sitruunaruohon seoksessa.",
+      "Grillaa tai paista uunin grillivastuksen alla noin 8 minuuttia kummaltakin puolelta.",
+      "Sekoita yrtit, salottisipuli ja chili salaatiksi.",
+      "Tarjoile kala yrttisalaatin ja riisin kanssa.",
+      "Purista päälle limettimehua."
+    ]
+  },
+  {
+    "id": "kg-thai-larb-gai-chicken",
+    "title": "Larb gai – thaimaalainen jauhelihasalaatti",
+    "description": "Raikas Isaanin alueen broilerinjauhelihasalaatti salaatinlehdissä.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "400 g broilerin jauhelihaa",
+      "3 rkl limettimehua",
+      "2 rkl kalakastiketta",
+      "2 salottisipulia, viipaloituna",
+      "1–2 pientä punaista chiliä, hienonnettuna",
+      "kourallinen minttua ja korianteria",
+      "1 rkl paahdettua riisijauhetta",
+      "1 kerä voisalaattia"
+    ],
+    "instructions": [
+      "Kypsennä jauheliha kuivalla pannulla.",
+      "Sekoita joukkoon limettimehu, kalakastike, salottisipuli ja chili.",
+      "Lisää yrtit ja riisijauhe.",
+      "Tarjoile salaatinlehtikupeissa.",
+      "Syö heti lämpimänä."
+    ],
+    "notes": ["Paahdettu riisijauhe: paahda raakaa riisiä kuivalla pannulla kullanruskeaksi ja jauha."]
+  },
+  {
+    "id": "kg-thai-larb-salad-mushroom",
+    "title": "Sieni-larb",
+    "description": "Vegaaninen Isaanin tyylinen larb osterivinokkaista.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "thaimaalainen", "sienet", "gluteeniton"],
+    "ingredients": [
+      "1 rkl raakaa riisiä",
+      "1 rkl rypsiöljyä",
+      "400 g osterivinokkaita, hienonnettuna",
+      "3 rkl limettimehua",
+      "2 rkl soijakastiketta",
+      "2 salottisipulia, viipaloituna",
+      "1–2 pientä punaista chiliä, hienonnettuna",
+      "kourallinen minttua ja korianteria",
+      "1 kerä voisalaattia"
+    ],
+    "instructions": [
+      "Paahda riisi kuivalla pannulla kullanruskeaksi ja jauha jauheeksi.",
+      "Paista sienet öljyssä kevyesti ruskeiksi ja anna jäähtyä.",
+      "Sekoita sienet limettimehun, soijakastikkeen, salottisipulin ja chilin kanssa.",
+      "Lisää yrtit ja riisijauhe.",
+      "Tarjoile salaatinlehtikupeissa."
+    ]
+  },
+  {
+    "id": "kg-thai-mango-salad",
+    "title": "Thaimaalainen mangosalaatti",
+    "description": "Makeansuolainen mango-kurkkusalaatti yrteillä ja maapähkinöillä.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "thaimaalainen", "salaatti", "nopea"],
+    "ingredients": [
+      "2 kypsää mangoa, viipaloituna",
+      "1 kurkku, viipaloituna",
+      "kourallinen minttua ja thaibasilikaa",
+      "2 rkl limettimehua",
+      "1 rkl kalakastiketta tai soijakastiketta",
+      "1 tl palmusokeria",
+      "2 rkl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Viipaloi mangot ja kurkku.",
+      "Vatkaa limettimehu, kala- tai soijakastike ja palmusokeri.",
+      "Asettele hedelmät ja yrtit lautaselle.",
+      "Valuta päälle kastike.",
+      "Ripottele pinnalle maapähkinät."
+    ],
+    "notes": ["Vegaaninen, kun käytät soijakastiketta."]
+  },
+  {
+    "id": "kg-thai-minced-beef",
+    "title": "Thaimaalainen chili-basilikajauheliha",
+    "description": "Busaba-ravintolan chilijauhelihan kopio: jauheliha, thaibasilika, rapea paistettu muna ja jasmiiniriisi.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "thaimaalainen", "nopea", "riisi"],
+    "ingredients": [
+      "Kastike:",
+      "1 thaichili, hienonnettuna",
+      "½ valkosipulinkynttä, hyvin ohuina viipaleina",
+      "1 rkl kalakastiketta",
+      "1 rkl limettimehua",
+      "1 rkl korianterinlehtiä, hienonnettuna",
+      "Jauheliha:",
+      "2 rkl rypsiöljyä",
+      "1 thaichili, hienonnettuna",
+      "½ valkosipulinkynttä, hienonnettuna",
+      "ripaus suolaa",
+      "400 g naudan jauhelihaa",
+      "1 tl sokeria",
+      "1 rkl kalakastiketta",
+      "25 g thaibasilikaa",
+      "Tarjoiluun:",
+      "2 kananmunaa",
+      "rypsiöljyä munien paistamiseen",
+      "2 dl jasmiiniriisiä, keitettynä"
+    ],
+    "instructions": [
+      "Valmista kastike: sekoita chili, valkosipuli, kalakastike, limettimehu ja korianteri ja nosta sivuun.",
+      "Kuumenna öljy wokissa kovalla lämmöllä. Lisää hienonnettu chili, valkosipuli ja ripaus suolaa ja paista pari minuuttia polttamatta.",
+      "Kuumenna toisella pannulla noin 4 cm öljyä munia varten.",
+      "Lisää jauheliha wokkiin ja paista pari minuuttia, kunnes se on juuri kypsää.",
+      "Lisää sokeri, kalakastike ja pari ruokalusikallista vettä. Laske lämpöä ja kypsennä pari minuuttia.",
+      "Hienonna basilika ja sekoita joukkoon.",
+      "Riko munat kuumaan öljyyn ja paista alle minuutti, kunnes valkuainen on rapea ja keltuainen vielä juokseva.",
+      "Tarjoile jauheliha jasmiiniriisin ja paistetun munan kanssa ja kaada kastike päälle."
+    ],
+    "notes": ["Thaibasilika on tärkein aines – sitä saa aasialaisista kaupoista. Tavallinen paistettu muna käy myös."]
+  },
+  {
+    "id": "kg-thai-pad-see-ew",
+    "title": "Pad see ew – thaimaalaiset leveät soijanuudelit",
+    "description": "Makealla soijalla paistetut leveät riisinuudelit kanan ja kiinanparsakaalin kanssa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "200 g leveitä riisinuudeleita",
+      "2 rkl rypsiöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "200 g broilerin reisifileetä, viipaloituna",
+      "2 kananmunaa",
+      "2 rkl osterikastiketta",
+      "1 rkl tummaa soijakastiketta",
+      "100 g kiinanparsakaalia tai varsiparsakaalia"
+    ],
+    "instructions": [
+      "Liota nuudelit pehmeiksi.",
+      "Paista valkosipulia ja kanaa öljyssä kypsäksi.",
+      "Työnnä sivuun ja paista munat wokissa kokkeliksi.",
+      "Lisää nuudelit, osterikastike ja tumma soija ja paista kovalla lämmöllä, kunnes nuudelit saavat paahdetta.",
+      "Lisää kaali ja sekoittele hetki."
+    ]
+  },
+  {
+    "id": "kg-thai-peanut-lime-dressing",
+    "title": "Thaimaalainen maapähkinä-limettikastike",
+    "description": "Kermainen maapähkinäkastike salaateille.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "thaimaalainen", "nopea"],
+    "ingredients": [
+      "3 rkl maapähkinävoita",
+      "2–4 rkl lämmintä vettä",
+      "2 rkl limettimehua",
+      "1 rkl soijakastiketta",
+      "1 rkl vaahterasiirappia",
+      "1 tl raastettua inkivääriä"
+    ],
+    "instructions": [
+      "Vatkaa maapähkinävoi ja lämmin vesi tasaiseksi.",
+      "Lisää limettimehu, soijakastike, vaahterasiirappi ja inkivääri.",
+      "Vatkaa silkkiseksi ja säädä makeutta siirapilla.",
+      "Käytä salaateilla ja kaalisalaateilla."
+    ]
+  },
+  {
+    "id": "kg-thai-pomelo-salad-yam-som-o",
+    "title": "Yam som o – thaimaalainen pomelosalaatti",
+    "description": "Raikas sitrussalaatti katkaravuilla, kookoksella ja maapähkinöillä.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "thaimaalainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "1 pomelo, lohkoina",
+      "100 g katkarapuja, haudutettuna",
+      "2 salottisipulia, viipaloituna",
+      "2 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "1 rkl palmusokeria",
+      "kourallinen minttua",
+      "2 rkl kookoshiutaleita, paahdettuna",
+      "2 rkl paahdettuja maapähkinöitä"
+    ],
+    "instructions": [
+      "Irrota pomelon lohkot kalvoista ja revi suupaloiksi.",
+      "Vatkaa kalakastike, limettimehu ja palmusokeri.",
+      "Sekoita pomelo, katkaravut ja salottisipuli.",
+      "Lisää kastike ja minttu.",
+      "Ripottele pinnalle kookos ja maapähkinät."
+    ]
+  },
+  {
+    "id": "kg-thai-rice-noodle-salad-yum-woon-sen",
+    "skip": "lähes sama kuin kg-thai-glass-noodle-salad-yum-woon-sen"
+  },
+  {
+    "id": "kg-thai-stir-fried-morning-glory",
+    "title": "Pad pak boong – paistettu vesikrassi",
+    "description": "Klassinen thaimaalainen wokattu vesikrassi.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "thaimaalainen", "nopea", "lisuke"],
+    "ingredients": [
+      "400 g vesikrassia (morning glory, kangkong)",
+      "2 rkl rypsiöljyä",
+      "3 valkosipulinkynttä, murskattuna",
+      "2 pientä punaista chiliä",
+      "2 rkl kasvisosterikastiketta tai osterikastiketta"
+    ],
+    "instructions": [
+      "Leikkaa vesikrassi noin 8 cm:n pituisiksi paloiksi.",
+      "Paista valkosipulia ja chiliä kuumassa öljyssä.",
+      "Lisää vesikrassi ja sekoittele kovalla lämmöllä 2 minuuttia.",
+      "Lisää osterikastike ja tilkka vettä.",
+      "Tarjoile heti, kun varret ovat vielä rapsakoita."
+    ],
+    "notes": ["Vesikrassin voi korvata pinaatilla tai pak choilla."]
+  },
+  {
+    "id": "kg-thai-tamarind-dressing",
+    "title": "Thaimaalainen tamarindikastike",
+    "description": "Hapanimelä kastike esimerkiksi papaijasalaatille.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kala", "thaimaalainen", "gluteeniton"],
+    "ingredients": [
+      "2 rkl tamarinditahnaa",
+      "2 rkl palmusokeria",
+      "3 rkl lämmintä vettä",
+      "1 rkl kalakastiketta",
+      "1 rkl limettimehua",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 pieni punainen chili, hienonnettuna"
+    ],
+    "instructions": [
+      "Liuota tamarindi ja palmusokeri lämpimään veteen.",
+      "Lisää kalakastike, limettimehu, valkosipuli ja chili.",
+      "Hauduta 3 minuuttia, kunnes kastike kiiltää.",
+      "Anna jäähtyä ennen käyttöä."
+    ]
+  },
+  {
+    "id": "kg-tofu-broccoli-in-black-bean-sauce",
+    "title": "Tofu ja parsakaali mustapapukastikkeessa",
+    "description": "Suolainen kantonilainen tofuwokki.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "tofu", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "300 g kiinteää tofua, kuutioituna",
+      "300 g parsakaalin kukintoja",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl fermentoitua mustapapukastiketta",
+      "1 rkl soijakastiketta",
+      "1 tl maissitärkkelystä + 1 rkl vettä"
+    ],
+    "instructions": [
+      "Paista tofu öljyssä kullanruskeaksi.",
+      "Ryöppää parsakaalia 2 minuuttia.",
+      "Paista valkosipulia ja mustapapukastiketta hetki.",
+      "Lisää tofu, parsakaali, soijakastike ja tilkka vettä.",
+      "Sakeuta veteen sekoitetulla maissitärkkelyksellä."
+    ]
+  },
+  {
+    "id": "kg-tom-kha-gai-coconut-chicken-soup",
+    "title": "Tom kha gai – thaimaalainen kookos-kanakeitto",
+    "description": "Kermainen ja tuoksuva kookosmaitokeitto kanalla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["kana", "thaimaalainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "5 dl kanalientä",
+      "2 sitruunaruohon vartta, murskattuna",
+      "4 kaffirlimetin lehteä",
+      "400 g broilerin reisifileitä, viipaloituna",
+      "100 g sieniä, viipaloituna",
+      "1 tlk (400 ml) kookosmaitoa",
+      "1 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "2 pientä punaista chiliä"
+    ],
+    "instructions": [
+      "Hauduta lientä sitruunaruohon ja limetinlehtien kanssa 8 minuuttia.",
+      "Lisää kana ja sienet ja kypsennä 5 minuuttia.",
+      "Sekoita joukkoon kookosmaito – älä keitä voimakkaasti.",
+      "Mausta kalakastikkeella ja limettimehulla.",
+      "Tarjoile chilien kanssa."
+    ]
+  },
+  {
+    "id": "kg-tom-yum-goong-hot-and-sour-shrimp-soup",
+    "title": "Tom yum goong – thaimaalainen hapan-tulinen katkarapukeitto",
+    "description": "Klassinen thaimaalainen kirkas katkarapukeitto.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "thaimaalainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 l kanalientä",
+      "3 sitruunaruohon vartta, murskattuna",
+      "4 kaffirlimetin lehteä",
+      "3 viipaletta galangalia",
+      "200 g sieniä",
+      "500 g katkarapuja",
+      "2 rkl kalakastiketta",
+      "3 rkl limettimehua",
+      "2–3 pientä punaista chiliä"
+    ],
+    "instructions": [
+      "Hauduta lientä sitruunaruohon, limetinlehtien ja galangalin kanssa 10 minuuttia.",
+      "Lisää sienet ja katkaravut ja kypsennä 3 minuuttia.",
+      "Mausta kalakastikkeella ja limettimehulla.",
+      "Säädä happamuus ja tulisuus chileillä.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "kg-tomato-and-basil-bruschetta",
+    "title": "Tomaatti-basilikabruschetta",
+    "description": "Klassinen italialainen alkupala.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "italialainen", "nopea", "alkuruoka"],
+    "ingredients": [
+      "4 kypsää tomaattia, kuutioituna",
+      "kourallinen tuoretta basilikaa, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "1 rkl balsamietikkaa",
+      "suolaa",
+      "4 viipaletta rapeaa leipää"
+    ],
+    "instructions": [
+      "Sekoita tomaatit, basilika, valkosipuli, öljy, etikka ja suola.",
+      "Anna maustua 10 minuuttia.",
+      "Paahda leivät.",
+      "Nosta tomaattiseos leiville ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-tomato-chutney",
+    "title": "Tomaattichutney",
+    "description": "Hyvä tapa käyttää kauden lopun tomaatit – myös hieman raa'at.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 55,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "gluteeniton"],
+    "ingredients": [
+      "250 g punasipulia",
+      "500 g tuoreita tomaatteja",
+      "1 punainen chili",
+      "75 ml punaviinietikkaa",
+      "140 g fariinisokeria",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuori ja viipaloi sipulit ohuiksi, pilko tomaatit karkeasti ja viipaloi chili ohuiksi.",
+      "Laita kaikki kattilaan, mausta ja sekoita hyvin. Hauduta 30–40 minuuttia, kunnes seos on makeaa ja tahmeaa. Kaada steriloituun purkkiin ja anna jäähtyä. Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "kg-tomato-dal-tamatar-dal",
+    "title": "Tomaattidal (tamatar dal)",
+    "description": "Yksinkertainen tomaattinen arkidal punaisista linsseistä.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "250 g punaisia linssejä",
+      "½ tl kurkumaa",
+      "2 rkl rypsiöljyä",
+      "1 tl sinapinsiemeniä",
+      "8 curryn lehteä",
+      "2 vihreää chiliä, halkaistuna",
+      "3 kypsää tomaattia, pilkottuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä linssit kurkuman kanssa vedessä pehmeiksi.",
+      "Paista sinapinsiemenet, curryn lehdet ja chilit öljyssä.",
+      "Lisää tomaatit ja kypsennä, kunnes ne hajoavat.",
+      "Sekoita linsseihin ja hauduta 10 minuuttia.",
+      "Mausta suolalla ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-toor-dal-sambar",
+    "title": "Sambar – eteläintialainen linssi-kasvispata",
+    "description": "Tamarindilla hapotettu linssi-kasvispata riisin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "200 g halkaistuja kyyhkyherneitä (toor dal)",
+      "2½ dl sekakasviksia (esim. porkkanaa, kurpitsaa, moringanpaloja)",
+      "1 pieni sipuli, kuutioituna",
+      "2 tomaattia, pilkottuna",
+      "2 rkl sambar-mausteseosta",
+      "1 rkl tamarinditahnaa",
+      "suolaa",
+      "2 rkl rypsiöljyä",
+      "1 tl sinapinsiemeniä",
+      "8 curryn lehteä",
+      "1 kuivattu punainen chili",
+      "Tarjoiluun:",
+      "3 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Keitä dal pehmeäksi ja survo kevyesti.",
+      "Keitä kasvikset, sipuli ja tomaatit vedessä sambar-mausteen ja tamarindin kanssa kypsiksi.",
+      "Lisää keitetty dal, mausta suolalla ja hauduta 10 minuuttia.",
+      "Paista sinapinsiemenet, curryn lehdet ja chili öljyssä.",
+      "Kaada mausteöljy sambarin päälle ja tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-torta-de-acelga-chard-pie",
+    "title": "Torta de acelga – mangoldipiirakka",
+    "description": "Gibraltarilainen mangoldi-munapiirakka lehtitaikinakuoressa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "piirakka", "uuniruoka"],
+    "ingredients": [
+      "1 kg mangoldin lehtiä (n. 6 nippua)",
+      "1 rkl oliiviöljyä",
+      "6 kananmunaa",
+      "1 dl korppujauhoja",
+      "1 dl juustoraastetta",
+      "2 tl hienonnettua valkosipulia",
+      "kourallinen persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "2 levyä lehtitaikinaa"
+    ],
+    "instructions": [
+      "Erota mangoldin varret (käytä muuhun) ja pese lehdet huolellisesti. Keitä lehdet pehmeiksi, valuta hyvin ja hienonna. Kuullota hetki oliiviöljyssä ja anna jäähtyä.",
+      "Vatkaa munat ja sekoita joukkoon korppujauhot, juusto, valkosipuli, persilja, suola ja pippuri. Sekoita mangoldin kanssa.",
+      "Vuoraa piirakkavuoka lehtitaikinalla, lisää täyte ja peitä toisella lehtitaikinalevyllä (tai jätä avoimeksi).",
+      "Paista 180 asteessa noin 30–35 minuuttia, kunnes pinta on kullanruskea ja täyte hyytynyt."
+    ],
+    "notes": ["Alkuperäinen paistolämpö 150 astetta on lehtitaikinalle matala; lämpöä on nostettu."]
+  },
+  {
+    "id": "kg-trail-mix",
+    "title": "Retkisekoitus",
+    "description": "Pähkinöiden, suklaan ja kuivattujen karpaloiden sekoitus välipalaksi.",
+    "servings": 12,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "eväät", "gluteeniton", "nopea"],
+    "ingredients": [
+      "5 dl manteleita",
+      "5 dl cashewpähkinöitä",
+      "2½ dl suklaarouhetta",
+      "2½ dl kuivattuja karpaloita",
+      "2½ dl kookoslastuja"
+    ],
+    "instructions": [
+      "Ota isoin kulhosi.",
+      "Kaada joukkoon mantelit, cashewpähkinät, suklaa, karpalot ja kookoslastut.",
+      "Sekoita käsin tai isolla lusikalla.",
+      "Jaa pusseihin tai rasioihin."
+    ]
+  },
+  {
+    "id": "kg-tuna-and-white-bean-salad",
+    "title": "Tonnikala-valkopapusalaatti",
+    "description": "Italialainen kaappilounas tonnikalasta ja cannellinipavuista.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kala", "italialainen", "nopea", "palkokasvit"],
+    "ingredients": [
+      "2 tlk tonnikalaa vedessä, valutettuna",
+      "1 tlk (400 g) cannellinipapuja, huuhdeltuna",
+      "1 punasipuli, ohuina viipaleina",
+      "2 rkl oliiviöljyä",
+      "1 rkl punaviinietikkaa",
+      "1 tl kuivattua oreganoa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Yhdistä tonnikala ja pavut kulhossa.",
+      "Lisää sipuli, oliiviöljy, etikka ja oregano.",
+      "Sekoita varovasti ja mausta pippurilla.",
+      "Tarjoile salaatinlehtien päällä tai leivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-turkey-meatballs-in-herbed-tomato-sauce",
+    "title": "Kalkkunalihapullat yrttisessä tomaattikastikkeessa",
+    "description": "Hyvin pakastuva arkiruoka.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "arkiruoka", "pasta"],
+    "ingredients": [
+      "500 g kalkkunan jauhelihaa",
+      "1 kananmuna",
+      "40 g korppujauhoja",
+      "20 g persiljaa, hienonnettuna",
+      "1 valkosipulinkynsi, murskattuna",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl oliiviöljyä",
+      "700 g tomaattisosetta (passata)"
+    ],
+    "instructions": [
+      "Sekoita kalkkuna, muna, korppujauhot, persilja, valkosipuli, suola ja pippuri.",
+      "Pyöritä pullia ja ruskista ne pannulla öljyssä.",
+      "Lisää tomaattisose ja hauduta, kunnes pullat ovat kypsiä.",
+      "Tarjoile kesäkurpitsanauhojen tai pastan kanssa."
+    ]
+  },
+  {
+    "id": "kg-turmeric-scrambled-eggs-with-tomatoes",
+    "title": "Kurkumamunakokkeli ja tomaatit",
+    "description": "Proteiinipitoinen aamiainen ruisleivän kanssa.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea", "gluteeniton"],
+    "ingredients": [
+      "4 kananmunaa",
+      "1 rkl maitoa",
+      "ripaus kurkumaa",
+      "suolaa",
+      "mustapippuria",
+      "1 tl voita",
+      "150 g kirsikkatomaatteja",
+      "1 rkl persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa munat, maito, kurkuma, suola ja pippuri.",
+      "Kypsennä tomaatteja voissa keskilämmöllä, kunnes ne halkeilevat.",
+      "Lisää munaseos ja sekoita varovasti, kunnes se on pehmeästi hyytynyt.",
+      "Viimeistele persiljalla."
+    ],
+    "notes": ["Tarjoile paahdetun ruisleivän kanssa."]
+  },
+  {
+    "id": "kg-tuscan-ragu",
+    "title": "Toscanalainen ragu",
+    "description": "Hitaasti punaviinissä haudutettu lihakastike pastalle.",
+    "servings": 4,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["liha", "italialainen", "pasta", "pataruoka"],
+    "ingredients": [
+      "3 rkl ekstra-neitsytoliiviöljyä",
+      "500 g luullista naudan- tai porsaanlihaa (esim. potkaa)",
+      "suolaa",
+      "mustapippuria",
+      "1 varsiselleri, hienonnettuna tai raastettuna",
+      "1 porkkana, hienonnettuna tai raastettuna",
+      "1 sipuli, hienonnettuna tai raastettuna",
+      "muutama oksa rosmariinia ja salviaa",
+      "2 laakerinlehteä",
+      "ripaus muskottipähkinää",
+      "30 g tomaattipyreetä",
+      "3 dl punaviiniä",
+      "400 g pastaa",
+      "parmesaania tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa padassa keskikovalla lämmöllä. Lisää liha, mausta suolalla ja pippurilla ja ruskista joka puolelta syvän ruskeaksi.",
+      "Laske lämpöä. Lisää selleri, porkkana ja sipuli ja sekoita rasvaan. Lisää yrtit ja laakerinlehdet (sekä halutessasi muskottipähkinä). Peitä ja hauduta kasviksia muutama minuutti.",
+      "Sekoita joukkoon tomaattipyree ja kaada päälle punaviini. Laske lämpö minimiin, peitä ja siirrä pata pienimmälle levylle.",
+      "Hauduta hyvin hiljaa noin 2 tuntia. Tarkista välillä ja lisää tilkka vettä, jos pata näyttää kuivalta.",
+      "Ragu on valmis, kun liha irtoaa luusta haarukalla. Jos se tuntuu vielä sitkeältä, jatka kypsentämistä. Revi liha ja poista luut.",
+      "Keitä pasta suolalla maustetussa vedessä. Sekoita liedeltä nostettuna raguun ja viimeistele reilulla parmesaanilla."
+    ]
+  }
+]

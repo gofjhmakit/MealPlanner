@@ -1,0 +1,527 @@
+[
+  {
+    "id": "wikibooks-alfajores-latin-american-sandwich-cookies",
+    "title": "Alfajores – dulce de leche -täytekeksit",
+    "description": "Latinalaisen Amerikan murea maissitärkkelyskeksi, jonka väliin levitetään dulce de lecheä.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "argentiinalainen"],
+    "ingredients": [
+      "115 g voita, huoneenlämpöistä",
+      "2½ dl sokeria",
+      "1 kananmuna",
+      "2 kananmunan keltuaista",
+      "2 tl vaniljasokeria",
+      "2 tl sitruunan kuorta, raastettuna",
+      "3½ dl maissitärkkelystä",
+      "1¼ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "¼ tl suolaa",
+      "dulce de lecheä täytteeksi"
+    ],
+    "instructions": [
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Lisää muna ja keltuaiset yksi kerrallaan hyvin vatkaten. Lisää vanilja ja sitruunankuori.",
+      "Siivilöi maissitärkkelys, jauhot, leivinjauhe ja suola keskenään ja sekoita taikinaan.",
+      "Nostele taikinaa pieninä nokareina hyvin voidellulle pellille.",
+      "Paista 175 asteessa noin 15 minuuttia. Nosta keksit heti pois pellistä jäähtymään.",
+      "Yhdistä keksit pareittain dulce de lechellä."
+    ]
+  },
+  {
+    "id": "wikibooks-alfredo-sauce",
+    "title": "Fettuccine Alfredo (alkuperäinen)",
+    "description": "Roomalainen alkuperäisversio: fettuccinea voissa ja parmesaanissa ilman kermaa.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "italialainen", "pasta", "nopea"],
+    "ingredients": [
+      "230 g suolatonta voita, huoneenlämpöistä",
+      "230 g parmesaania, raastettuna",
+      "450 g fettuccinea (munapastaa)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Vatkaa voi ja parmesaani kermaiseksi, melko paksuksi seokseksi.",
+      "Keitä pasta isossa kattilassa runsaassa vedessä al denteksi.",
+      "Valuta pasta ja säästä 1¼ dl keitinvettä.",
+      "Palauta pasta lämpimään kattilaan ja sekoita joukkoon voi-juustoseos reippaasti käännellen. Lisää keitinvettä, kunnes pasta on kiiltävää ja kastike tasaista.",
+      "Mausta suolalla.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Tuore munapasta pitää kastikkeen paremmin kuin kuivattu."]
+  },
+  {
+    "id": "wikibooks-algerian-baghrir",
+    "title": "Baghrir – algerialaiset mannasuurimolätyt",
+    "description": "Pienet, kuohkeat ja reikäiset lätyt, jotka paistetaan vain toiselta puolelta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "algerialainen", "lätyt"],
+    "ingredients": [
+      "6 dl mannasuurimoita (durumvehnää)",
+      "1¼ dl vehnäjauhoja",
+      "15 g kuivahiivaa",
+      "15 g sokeria",
+      "7 g suolaa",
+      "1 kananmuna",
+      "1 l lämmintä vettä",
+      "½ tl leivinjauhetta",
+      "voita tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita kulhossa mannasuurimot, jauhot, hiiva, sokeri ja suola.",
+      "Lisää vesi ja muna ja sekoita tasaiseksi taikinaksi.",
+      "Anna levätä 15–20 minuuttia, kunnes taikina on kohonnut kaksinkertaiseksi.",
+      "Ohenna tarvittaessa vedellä ja vatkaa joukkoon leivinjauhe.",
+      "Kuumenna paistinpannu keskilämmöllä ja voitele kevyesti.",
+      "Paista pieniä lettuja vain toiselta puolelta, kunnes pinta on täynnä reikiä ja kypsä. Älä käännä.",
+      "Toista, kunnes taikina on käytetty, ja tarjoa voin kanssa."
+    ]
+  },
+  { "id": "wikibooks-algerian-chakhchoukha-vegetable-and-flatbread-stew", "skip": "lihan ja leivän määrät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-algerian-couscous", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-algerian-lemonade",
+    "title": "Algerialainen limonadi (cherbet)",
+    "description": "Raikas sitruunajuoma appelsiininkukkavedellä, perinteinen ramadanin juoma.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Juomat",
+    "tags": ["kasvis", "algerialainen", "kesä"],
+    "ingredients": [
+      "5–6 sitruunaa",
+      "3 rkl maitoa",
+      "4 rkl appelsiininkukkavettä",
+      "150 g sokeria",
+      "1,5 l vettä",
+      "jääpaloja (valinnainen)",
+      "minttua (valinnainen)",
+      "sitruunaviipaleita (valinnainen)"
+    ],
+    "instructions": [
+      "Raasta yhden sitruunan kuori niin, ettei valkoista osaa tule mukaan.",
+      "Viipaloi toinen sitruuna.",
+      "Purista loppujen sitruunoiden mehu.",
+      "Kaada 5 dl vettä kattilaan, lisää sitruunaviipaleet ja sokeri ja kuumenna kiehuvaksi keskilämmöllä. Anna jäähtyä kokonaan.",
+      "Sekoita kannussa vettä, sitruunankuori, appelsiininkukkavesi, maito ja sitruunamehu.",
+      "Kaada seos puhtaaseen pulloon, lisää loppu vesi ja jäähtynyt sokeriliemi, sulje ja ravista hyvin.",
+      "Kaada kannuun ja jäähdytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "wikibooks-algerian-mint-tea",
+    "title": "Algerialainen minttutee",
+    "description": "Makea vihreä tee tuoreella mintulla, kaadetaan korkealta pieniin laseihin.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "algerialainen", "tee"],
+    "ingredients": [
+      "2 tl vihreää teetä (valinnainen)",
+      "1 nippu tuoretta minttua",
+      "10 sokeripalaa (valinnainen)",
+      "vettä"
+    ],
+    "instructions": [
+      "Kiehauta vettä kattilassa.",
+      "Laita tee teekannuun.",
+      "Kaada kannuun puoli lasillista kiehuvaa vettä, sekoita ja kaada vesi pois. Näin tee huuhtoutuu ja kitkerä sivumaku vähenee.",
+      "Täytä kannu kiehuvalla vedellä ja lisää huolellisesti huuhdotut mintunlehdet.",
+      "Lisää sokeripalat ja pidä kannua mietoa tai keskilämpöä muutama minuutti.",
+      "Tee on valmista, kun se kiehahtaa. Kaada korkealta pieniin laseihin, jolloin pintaan muodostuu vaahtoa."
+    ]
+  },
+  { "id": "wikibooks-algerian-potato-fritters-maaqouda", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-alicha-wot-mild-ethiopian-stew",
+    "title": "Alicha wot – mieto etiopialainen lihapata",
+    "description": "Aromikas mutta mieto naudanlihapata inkiväärillä, kurkumalla ja berberellä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "etiopialainen", "pata"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "2 isoa sipulia, hienonnettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 rkl berbere-maustesekoitusta",
+      "1 rkl raastettua inkivääriä",
+      "1 rkl tomaattipyreetä",
+      "1 tl kurkumaa",
+      "½ tl juustokuminaa",
+      "½ tl jauhettua korianterinsiementä",
+      "½ tl suolaa",
+      "500 g naudanlihaa, kuutioina",
+      "¼ tl mustapippuria",
+      "5 dl lihalientä tai vettä",
+      "tuoretta korianteria tai persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paksupohjaisessa kattilassa keskilämmöllä.",
+      "Kuullota sipulia, kunnes se on läpikuultavaa ja hieman ruskistunutta.",
+      "Lisää valkosipuli ja inkivääri ja kuullota vielä minuutti.",
+      "Sekoita joukkoon berbere, tomaattipyree, kurkuma, juustokumina, korianteri, suola ja pippuri.",
+      "Lisää liha ja kääntele maustesekoituksessa. Ruskista muutama minuutti joka puolelta.",
+      "Kaada joukkoon liemi niin, että liha peittyy, ja kuumenna kiehuvaksi.",
+      "Laske lämpö, peitä kannella ja hauduta noin tunti, kunnes liha on mureaa. Sekoita välillä ja lisää nestettä tarvittaessa.",
+      "Tarkista suola ja pippuri.",
+      "Anna vetäytyä muutama minuutti ja ripottele päälle korianteria tai persiljaa. Tarjoa injeran tai leivän kanssa."
+    ],
+    "notes": [
+      "Kasvisversioon korvaa liha perunalla, porkkanalla ja vihreillä pavuilla.",
+      "Pata on vielä parempaa seuraavana päivänä."
+    ]
+  },
+  { "id": "wikibooks-alkubus-nigerian-steamed-bread", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-almond-cake",
+    "title": "Mantelikakku",
+    "description": "Mehevä mantelikakku teen tai kahvin kanssa, kohoaa pelkän vatkauksen voimin.",
+    "servings": 9,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "manteli", "uuniruoka"],
+    "ingredients": [
+      "225 g suolatonta voita, huoneenlämpöistä",
+      "300 g sokeria",
+      "6 kananmunaa, huoneenlämpöisiä",
+      "2 tl vaniljasokeria",
+      "300 g mantelijauhoa",
+      "105 g vehnäjauhoja",
+      "tomusokeria koristeluun"
+    ],
+    "instructions": [
+      "Vaahdota voi ja sokeri keskinopealla kuohkeaksi. Kaavi kulhon reunat.",
+      "Vatkaa munat ja vanilja keskenään ja lisää ne vähitellen voivaahtoon, ettei taikina juoksetu.",
+      "Sekoita joukkoon mantelijauho pienellä nopeudella.",
+      "Kääntele vehnäjauhot taikinaan. Älä sekoita liikaa, ettei kakusta tule sitkeää.",
+      "Vuoraa noin 20–23 cm:n neliövuoan pohja leivinpaperilla ja voitele paperi ja reunat kevyesti.",
+      "Levitä taikina vuokaan ja tasoita pinta.",
+      "Paista 180 asteessa kullanruskeaksi, kunnes keskelle pistetty tikku tulee ulos puhtaana. Aloita kypsyyden tarkistus noin 30 minuutin kohdalla.",
+      "Anna jäähtyä vuoassa, irrota reunat veitsellä ja kumoa kakku vuoasta.",
+      "Siivilöi pinnalle halutessasi tomusokeria."
+    ],
+    "notes": ["Vaniljan lisäksi voit maustaa taikinan tilkalla manteliaromia."]
+  },
+  {
+    "id": "wikibooks-almond-fudge-brownies",
+    "title": "Manteli-suklaabrowniet",
+    "description": "Tahmeat suklaabrowniet manteliaromilla tai mantelirouheella.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "manteli", "uuniruoka"],
+    "ingredients": [
+      "120 g voita tai margariinia",
+      "2½ dl sokeria",
+      "1½ rkl rypsiöljyä",
+      "¾ dl maitoa",
+      "2 kananmunaa",
+      "6 rkl kaakaojauhetta",
+      "1¾ dl vehnäjauhoja, siivilöityinä",
+      "½ tl manteliaromia tai 1 dl mantelirouhetta",
+      "2 tl vaniljasokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Vaahdota voi ja sokeri.",
+      "Vatkaa joukkoon öljy ja maito.",
+      "Lisää munat yksi kerrallaan.",
+      "Lisää vanilja ja manteliaromi tai mantelit.",
+      "Sekoita joukkoon kaakao ja jauhot.",
+      "Levitä taikina voideltuun, noin 27 × 18 cm:n vuokaan.",
+      "Paista 28–30 minuuttia. Keskelle pistettyyn tikkuun saa tarttua vain kosteita muruja.",
+      "Anna jäähtyä kokonaan ennen leikkaamista."
+    ],
+    "notes": ["Älä paista liian kauan, muuten browniet kuivuvat."]
+  },
+  {
+    "id": "wikibooks-almond-gambols",
+    "title": "Ruusuvesi-mantelikeksit (1700-luvulta)",
+    "description": "Vanhaan käsinkirjoitettuun keittokirjaan perustuvat aromikkaat mantelimassakeksit.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "keksit", "manteli", "brittiläinen"],
+    "ingredients": [
+      "225 g kuorittuja manteleita",
+      "340 g sokeria (+ pyörittelyyn)",
+      "2–3 rkl ruusuvettä",
+      "hienoksi raastettua sitruunankuorta"
+    ],
+    "instructions": [
+      "Survo manteleita huhmareessa (tai jauha monitoimikoneessa).",
+      "Lisää sokeri vähitellen lusikallinen kerrallaan survoen, kunnes se on sekoittunut.",
+      "Lisää ruusuvesi ja sitruunankuori ja survo hienoksi tahnaksi.",
+      "Nypi massasta palloja, pyörittele ne sokerissa ja asettele leivinpaperilla vuoratulle pellille.",
+      "Kuivata 135–150 asteen uunissa, kunnes keksit ovat kuivuneet läpikotaisin."
+    ],
+    "notes": ["Alkuperäisessä ohjeessa käytetään myös myskiä ja ambraa, jotka on jätetty pois."]
+  },
+  {
+    "id": "wikibooks-almond-meringue",
+    "title": "Mantelimarenkipohjat",
+    "description": "Rapeat mantelimarengit kakkupohjiksi tai jälkiruokiin.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "gluteeniton", "manteli", "marenki"],
+    "ingredients": [
+      "3 kananmunan valkuaista (n. 120 g)",
+      "120 g hienoa sokeria",
+      "120 g mantelijauhoa"
+    ],
+    "instructions": [
+      "Vatkaa valkuaiset pehmeäksi vaahdoksi.",
+      "Lisää sokeri vähitellen ja vatkaa kiinteäksi vaahdoksi.",
+      "Kääntele mantelijauho varovasti joukkoon, ettei vaahto laske.",
+      "Vuoraa pelti leivinpaperilla.",
+      "Piirrä paperiin halutun kokoisia ympyröitä esimerkiksi lautasen avulla.",
+      "Pursota marenkia pursotinpussista keskeltä alkaen spiraalina reunoja kohti noin 1 cm paksuksi levyksi.",
+      "Paista 160 asteessa noin 25 minuuttia, kunnes marengit ovat kovia ja kuivia.",
+      "Anna jäähtyä ennen kuin irrotat ne paperista."
+    ]
+  },
+  {
+    "id": "wikibooks-almond-milk-i",
+    "title": "Mantelimaito",
+    "description": "Liotetuista manteleista tehty kasvijuoma maidon korvikkeeksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "manteli", "maidoton"],
+    "ingredients": [
+      "100 g manteleita",
+      "1 l vettä",
+      "muutama taateli (valinnainen)",
+      "ripaus suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Liota manteleita vedessä yön yli, kunnes ne turpoavat ja pehmenevät.",
+      "Soseuta mantelit liotusvesineen tehosekoittimessa. Lisää halutessasi ripaus suolaa ja muutama taateli.",
+      "Siivilöi seos harsokankaan tai pähkinämaitopussin läpi.",
+      "Käytä heti tai jäähdytä."
+    ],
+    "notes": ["Jäljelle jäävän mantelirouheen voi käyttää smoothieissa ja leivonnassa."]
+  },
+  { "id": "wikibooks-almond-milk-ii", "skip": "lähes sama resepti kuin edellinen mantelimaito" },
+  {
+    "id": "wikibooks-almond-pancakes",
+    "title": "Mantelipannukakut",
+    "description": "Kuohkeat amerikkalaiset pannukakut piimällä ja manteliaromilla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "amerikkalainen", "lätyt", "nopea"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "2 tl sokeria",
+      "½ tl suolaa",
+      "½ tl leivinjauhetta",
+      "¼ tl ruokasoodaa",
+      "1¾ dl piimää",
+      "½ dl maitoa",
+      "1 kananmuna",
+      "2 rkl suolatonta voita, sulatettuna",
+      "1 tl manteliaromia",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna iso tarttumaton pannu miedolla lämmöllä sillä aikaa kun valmistat taikinan.",
+      "Sekoita jauhot, sokeri, suola, leivinjauhe ja ruokasooda kulhossa.",
+      "Lämmitä piimä ja maito huoneenlämpöisiksi (mikrossa 20–30 sekuntia).",
+      "Vatkaa joukkoon muna, voi ja manteliaromi.",
+      "Lisää nesteet kuiviin aineisiin ja vatkaa juuri ja juuri sekaisin.",
+      "Lisää tarvittaessa teelusikallinen tai kaksi vettä, jotta taikina on paksua mutta kaadettavaa.",
+      "Nosta lämpö keskitasolle ja sivele pannu runsaalla öljyllä.",
+      "Kaada taikinaa noin ½ dl kerrallaan, älä täytä pannua liian täyteen.",
+      "Kun pohja on kullanruskea ja pinnalle nousee kuplia (2–3 minuuttia), käännä.",
+      "Paista toinenkin puoli kullanruskeaksi. Toista ja öljyä pannu välillä.",
+      "Tarjoa kuumina."
+    ],
+    "notes": ["Piimän voi korvata maidolla, johon on sekoitettu 1 rkl sitruunamehua tai etikkaa."]
+  },
+  {
+    "id": "wikibooks-almond-toffee-blondies",
+    "title": "Mantelitoffee-blondiet",
+    "description": "Vaaleat blondie-palat, joissa on rouhittua mantelitoffeeta.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "manteli", "uuniruoka"],
+    "ingredients": [
+      "3½ dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "½ tl suolaa",
+      "120 g voita",
+      "2½ dl sokeria",
+      "1¼ dl fariinisokeria",
+      "2 kananmunaa",
+      "2½ dl karkeasti rouhittua mantelitoffeeta",
+      "2 tl vaniljasokeria"
+    ],
+    "instructions": [
+      "Siivilöi jauhot, leivinjauhe ja suola keskenään.",
+      "Vaahdota voi, lisää sokerit ja vaahdota hyvin. Lisää munat ja vanilja ja vatkaa kuohkeaksi.",
+      "Sekoita joukkoon kuivat aineet ja toffeerouhe.",
+      "Levitä taikina hyvin voideltuun, noin 23 × 33 cm:n vuokaan.",
+      "Paista 180 asteessa noin 30 minuuttia. Leikkaa jäähtyneenä noin 8 × 2,5 cm:n paloiksi."
+    ],
+    "notes": ["Palat voi kuorruttaa jäähtyneinä voikreemillä ja ripotella päälle toffeemurua."]
+  },
+  { "id": "wikibooks-almond-cowitch-matcha-smoothie", "skip": "vaarallinen: sisältää myrkyllisiä samettipapuja (Mucuna)" },
+  {
+    "id": "wikibooks-aloo-tikki-spiced-potato-patties",
+    "title": "Aloo tikki – maustetut perunapihvit",
+    "description": "Intialaiset kahdesti friteeratut perunapihvit chilin ja mangojauheen kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "intialainen", "peruna", "friteerattu"],
+    "ingredients": [
+      "8 perunaa, kuorittuina ja halkaistuina",
+      "2½ tl chilijauhetta",
+      "1 tl jauhettua korianterinsiementä",
+      "1 tl mangojauhetta (amchur)",
+      "rypsiöljyä friteeraukseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Suolaa perunat.",
+      "Kuumenna öljy friteerausta varten. Friteeraa perunoita miedolla lämmöllä, kunnes ne ovat kypsiä. Anna jäähtyä.",
+      "Litistä perunat kämmenellä kevyesti laudalla.",
+      "Friteeraa uudelleen kullanruskeiksi.",
+      "Ripottele päälle hieman chilijauhetta, mangojauhetta ja korianteria."
+    ]
+  },
+  {
+    "id": "wikibooks-alsatian-chicken-fricasse",
+    "title": "Elsassilainen kanafrikassee punaviinissä",
+    "description": "Uunissa haudutettu broileri pekonin, sienten ja punaviinin kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kana", "ranskalainen", "uuniruoka", "pata"],
+    "ingredients": [
+      "2 kg broilerin paloja",
+      "250 g herkkusieniä, karkeasti pilkottuina",
+      "125 g pekonia, paloiteltuna",
+      "10 sipulia, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "45 g voita",
+      "7,5 dl punaviiniä",
+      "3 oksaa persiljaa",
+      "1 oksa timjamia",
+      "2 laakerinlehteä",
+      "2 rkl vehnäjauhoja",
+      "1 tl oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "hienonnettua persiljaa koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Poista broilerinpaloista nahka ja mausta ne suolalla ja pippurilla.",
+      "Kaada öljy ja voi liedellä käytettävään uunipataan.",
+      "Paista pekoni rapeaksi ja lisää sipulit.",
+      "Lisää valkosipuli, sienet ja broileri. Lisää viini ja yrtit.",
+      "Kypsennä uunissa noin 45 minuuttia.",
+      "Muutamaa minuuttia ennen kypsymistä sekoita jauhot ja oliiviöljy ja lisää ne liemeen. Sekoita hyvin ja kääntele palat kastikkeessa.",
+      "Ripottele päälle hienonnettua persiljaa ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-alsatian-fish-stew-matelote-de-poissons-dalsace",
+    "title": "Elsassilainen kalapata (matelote)",
+    "description": "Järvikalaa ja rapuja rieslingillä maustetussa kermakastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kala", "äyriäiset", "ranskalainen", "juhla"],
+    "ingredients": [
+      "450 g haukifileetä",
+      "450 g karppifileetä",
+      "225 g ankeriasta",
+      "450 g ahvenfileetä",
+      "6 rapua",
+      "2 salottisipulia, hienonnettuna",
+      "suolaa",
+      "Liemi:",
+      "kalojen päät ja pyrstöt",
+      "2½ dl kuivaa valkoviiniä (riesling)",
+      "1 l vettä",
+      "1 maustekimppu (bouquet garni)",
+      "1 valkosipulinkynsi",
+      "mustapippuria",
+      "Kastike:",
+      "30 g sokeria",
+      "30 g voita",
+      "30 g vehnäjauhoja",
+      "1¼ dl kuohukermaa",
+      "Lisäksi:",
+      "115 g pieniä sipuleita tai kevätsipulia",
+      "115 g herkkusieniä",
+      "krutonkeja",
+      "tuoretta persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Pese kalat ja leikkaa ne noin 50 g:n paloiksi.",
+      "Asettele kalat ja ravut voideltuun uunivuokaan. Lisää salottisipulit ja suolaa kevyesti.",
+      "Valmista fumet: keitä kalojen päitä ja pyrstöjä, viiniä, vettä, maustekimppua, valkosipulia, suolaa ja pippuria 30 minuuttia.",
+      "Siivilöi kiehuva liemi kalojen päälle ja peitä vuoka foliolla.",
+      "Kypsennä 230-asteisessa uunissa 10 minuuttia ja ota vuoka uunista.",
+      "Kaada liemi kattilaan. Sekoita voi ja jauhot keskenään ja lisää liemeen hyvin sekoittaen, ettei tule paakkuja. Keitä kastike halutun paksuiseksi.",
+      "Lisää kerma (ja sokeri) ja kuumenna varovasti kiehuvaksi. Siivilöi.",
+      "Asettele kalapalat lämmitetyille lautasille ja kaada kastike päälle.",
+      "Kuullota sipulit ja sienet ja lisää ne lautasille valkosipulilla hierottujen krutonkien kanssa.",
+      "Lisää jokaiselle lautaselle yksi rapu ja ripottele päälle persiljaa."
+    ],
+    "notes": ["Tarjoa elsassilaisten tuorenuudelien tai höyrytettyjen perunoiden kanssa."]
+  },
+  {
+    "id": "wikibooks-alsatian-fresh-noodles-nouilles-fraches-lalsacienne",
+    "title": "Elsassilaiset tuoreet munanuudelit",
+    "description": "Kotitekoiset munapastanauhat sulatetun voin kera.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "ranskalainen", "pasta"],
+    "ingredients": [
+      "8 kananmunaa",
+      "2 tl suolaa",
+      "1 tl valkoviinietikkaa",
+      "450 g vehnäjauhoja",
+      "sulatettua voita"
+    ],
+    "instructions": [
+      "Riko munat isoon kulhoon ja sekoita joukkoon suola ja etikka.",
+      "Lisää jauhot vähitellen koko ajan sekoittaen.",
+      "Vaivaa taikinaa muutama minuutti tasaiseksi.",
+      "Pyöritä taikina palloksi, kääri kuivaan liinaan ja anna levätä tunti.",
+      "Jaa taikina tennispallon kokoisiin paloihin ja kauli ne 2 mm paksuiksi levyiksi.",
+      "Anna levyjen kuivahtaa 30 minuuttia välillä käännellen.",
+      "Jauhota levyt, kääri ne rullalle ja leikkaa 3–4 mm:n viipaleiksi.",
+      "Avaa rullat nauhoiksi ja levitä ne tarjottimelle niin, etteivät ne sotkeudu.",
+      "Keitä nuudelit runsaassa suolalla maustetussa vedessä 7–8 minuuttia.",
+      "Valuta ja kääntele sulatetussa voissa."
+    ]
+  },
+  { "id": "wikibooks-amala-yoruba-yam-swallow", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-amala-with-ewedu-and-stew", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" }
+]

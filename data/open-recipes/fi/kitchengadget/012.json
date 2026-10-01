@@ -1,0 +1,704 @@
+[
+  {
+    "id": "kg-prawn-chorizo-paella",
+    "title": "Katkarapu-chorizopaella",
+    "description": "Kevyt arkipaella katkaravuista, chorizosta ja herneistä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "liha", "espanjalainen", "riisi"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "1 keskikokoinen sipuli, ohuina viipaleina",
+      "100 g chorizoa, kuutioituna",
+      "1 keskikokoinen paprika, ohuina suikaleina",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "½ tl paprikajauhetta",
+      "¼ tl sahramia liotettuna 2 tl:ssa kylmää vettä",
+      "150 g paellariisiä",
+      "5 dl kanalientä",
+      "300 g kypsiä kuorittuja katkarapuja",
+      "100 g herneitä",
+      "kourallinen tuoretta persiljaa, hienonnettuna",
+      "1 sitruuna, lohkoina"
+    ],
+    "instructions": [
+      "Voitele iso kannellinen pannu ohuelti öljyllä ja paista sipulia ja chorizoa keskilämmöllä 5 minuuttia. Lisää paprika ja paista 5 minuuttia.",
+      "Sekoita joukkoon valkosipuli, paprikajauhe, sahrami ja riisi ja paista minuutti. Kaada joukkoon liemi, kuumenna kiehuvaksi ja hauduta kannen alla 15 minuuttia.",
+      "Sekoita joukkoon katkaravut, herneet ja puolet persiljasta, peitä ja kypsennä 5 minuuttia.",
+      "Poista kansi ja kypsennä 3–4 minuuttia, kunnes liemi on imeytynyt. Mausta, ripottele päälle loput persiljasta ja tarjoile sitruunalohkojen kanssa."
+    ]
+  },
+  {
+    "id": "kg-quick-brown-sauce",
+    "title": "Nopea ruskea kastike",
+    "description": "Kotikokin oikotie klassiseen ranskalaiseen espagnole-kastikkeeseen ilman monipäiväistä liemen keittämistä.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike"],
+    "ingredients": [
+      "1 rkl voita",
+      "1 pieni sipuli, hienoksi kuutioituna",
+      "1 porkkana, hienoksi kuutioituna",
+      "1 rkl tomaattipyreetä",
+      "2 rkl vehnäjauhoja",
+      "5 dl lihalientä",
+      "1 laakerinlehti",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi ja kuullota sipulia ja porkkanaa noin 8 minuuttia pehmeiksi ja kevyesti ruskeiksi.",
+      "Sekoita joukkoon tomaattipyree ja jauhot ja paista 2 minuuttia.",
+      "Lisää liemi vähitellen vatkaten, lisää laakerinlehti ja hauduta 12 minuuttia, kunnes kastike sakenee.",
+      "Siivilöi ja paina kasvikset siivilää vasten.",
+      "Mausta suolalla ja pippurilla."
+    ],
+    "notes": ["Gluteenittomana sakeuta jauhojen sijaan maissitärkkelyksellä."]
+  },
+  {
+    "id": "kg-quick-chicken-korma",
+    "title": "Nopea kanakorma",
+    "description": "Mieto ja kermainen kanacurry mantelilla, riisin ja vihreiden papujen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "intialainen", "arkiruoka"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "640 g broilerin rintafileetä, kuutioituna",
+      "suolaa",
+      "1 iso sipuli, karkeasti pilkottuna",
+      "15 g tuoretta inkivääriä, karkeasti pilkottuna",
+      "2 valkosipulinkynttä",
+      "1 kanelitanko",
+      "1 tl kardemummankotia, murskattuna",
+      "60 g kormatahnaa",
+      "4 dl kanalientä",
+      "40 g mantelijauhetta",
+      "2 tl mangochutneyta",
+      "75 g rasvatonta kreikkalaista jogurttia",
+      "Tarjoiluun:",
+      "3 dl basmatiriisiä",
+      "300 g vihreitä papuja",
+      "2 rkl mantelilastuja"
+    ],
+    "instructions": [
+      "Voitele iso syvä pannu ohuelti öljyllä ja kuumenna kovalle lämmölle. Mausta kana ja paista usein sekoittaen 5 minuuttia kullanruskeaksi. Nosta lautaselle.",
+      "Soseuta sipuli, inkivääri ja valkosipuli monitoimikoneessa 2½ rkl:n vettä kanssa sileäksi. Lisää seos pannulle kanelin ja kardemumman kanssa ja paista 2–3 minuuttia, kunnes se tuoksuu. Sekoita joukkoon kormatahna ja paista minuutti.",
+      "Lisää liemi ja mantelijauhe ja vatkaa tasaiseksi. Palauta kana lihaliemineen pannulle ja hauduta 10 minuuttia, kunnes kana on kypsää.",
+      "Nosta liedeltä ja sekoita joukkoon chutney ja jogurtti.",
+      "Keitä pavut kiehuvassa vedessä 4–5 minuuttia pehmeiksi. Keitä riisi pakkauksen ohjeen mukaan.",
+      "Tarjoile kana riisin päällä mantelilastuilla viimeisteltynä ja pavut lisukkeena."
+    ],
+    "notes": ["Riisi, pavut ja mantelilastut puuttuivat alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-quick-cucumber-kimchi",
+    "title": "Pikakurkkukimchi",
+    "description": "Nopea ja raikas kurkkukimchi.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Lisukkeet",
+    "tags": ["kala", "korealainen", "lisuke"],
+    "ingredients": [
+      "1 kurkku (tai 4 minikurkkua), viipaloituna",
+      "1 tl suolaa",
+      "2 rkl gochugarua (korealaista chilijauhetta)",
+      "1 rkl kalakastiketta",
+      "1 rkl sokeria",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 kevätsipulia, viipaloituna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Suolaa kurkut, anna seistä 15 minuuttia ja valuta.",
+      "Sekoita gochugaru, kalakastike, sokeri ja valkosipuli.",
+      "Sekoita kurkut tahnaan.",
+      "Lisää kevätsipuli.",
+      "Jäähdytä tunti ja koristele seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-quinoa-power-salad",
+    "title": "Kvinoasalaatti fetalla ja sitruunavinegretillä",
+    "description": "Välimerellinen kvinoasalaatti kurkulla, tomaatilla, oliiveilla ja fetalla.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "gluteeniton", "eväät"],
+    "ingredients": [
+      "3½ dl kvinoaa",
+      "2 kurkkua",
+      "400 g kirsikkatomaatteja",
+      "½ punasipulia",
+      "1¼ dl kalamata-oliiveja",
+      "2½ dl fetajuustoa, murusteltuna",
+      "Vinegretti:",
+      "3 rkl sitruunamehua",
+      "½ dl ekstra-neitsytoliiviöljyä",
+      "1 rkl punaviinietikkaa",
+      "1 tl dijonsinappia",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "2 rkl tuoretta persiljaa tai tilliä, hienonnettuna"
+    ],
+    "instructions": [
+      "Keitä kvinoa pakkauksen ohjeen mukaan. Levitä uunipellille jäähtymään nopeasti (noin 10 minuuttia).",
+      "Kuutioi kurkut, puolita tomaatit, viipaloi punasipuli ohuiksi ja hienonna oliivit karkeasti.",
+      "Vatkaa vinegretin ainekset (paitsi yrtit) sekaisin.",
+      "Yhdistä isossa kulhossa jäähtynyt kvinoa, kasvikset ja oliivit.",
+      "Murustele pinnalle feta.",
+      "Kaada vinegretti päälle ja sekoita varovasti.",
+      "Tarkista maku ja koristele yrteillä."
+    ],
+    "notes": ["Punasipuli ja oliivit puuttuivat alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-quinoa-salad-with-chickpeas",
+    "title": "Kvinoa-kikhernesalaatti mintulla",
+    "description": "Hyvin säilyvä salaatti eväsrasiaan.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "eväät", "gluteeniton"],
+    "ingredients": [
+      "200 g kvinoaa",
+      "1 tlk (400 g) kikherneitä, valutettuna",
+      "1 kurkku, kuutioituna",
+      "200 g kirsikkatomaatteja, puolitettuna",
+      "4 rkl oliiviöljyä",
+      "1 sitruuna, mehuna",
+      "kourallinen tuoretta minttua, hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä kvinoa ja anna jäähtyä.",
+      "Yhdistä kikherneiden, kurkun ja tomaattien kanssa.",
+      "Mausta oliiviöljyllä, sitruunamehulla ja mintulla.",
+      "Lisää suolaa ja tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "kg-rajma-style-kidney-bean-dal",
+    "title": "Rajma – intialainen kidneypapucurry",
+    "description": "Pohjois-intialainen kidneypapucurry.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "250 g kuivattuja kidneypapuja",
+      "2 rkl rypsiöljyä",
+      "1 sipuli, kuutioituna",
+      "1 rkl inkivääri-valkosipulitahnaa",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "2 tomaattia, soseutettuna",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Liota papuja yön yli. Valuta ja keitä uudessa vedessä kypsiksi (keitä ensin vähintään 10 minuuttia voimakkaasti).",
+      "Kuullota sipuli öljyssä kullanruskeaksi.",
+      "Lisää inkivääri-valkosipulitahna ja mausteet ja paista 2 minuuttia.",
+      "Lisää tomaattisose ja hauduta 10 minuuttia.",
+      "Lisää pavut, mausta suolalla ja hauduta 15 minuuttia. Koristele korianterilla."
+    ],
+    "notes": ["Pikaversio: käytä 2 tölkkiä (à 400 g) valmiiksi keitettyjä kidneypapuja."]
+  },
+  {
+    "id": "kg-ranch-dressing",
+    "title": "Ranch-kastike",
+    "description": "Amerikkalaisten suosikkikastike ja -dippi. Ohenna tarvittaessa piimällä.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "½ dl kermaviiliä",
+      "½ dl piimää",
+      "1 rkl ruohosipulia, hienonnettuna",
+      "1 tl kuivattua tilliä",
+      "½ tl valkosipulijauhetta",
+      "½ tl sipulijauhetta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa majoneesi, kermaviili ja piimä tasaiseksi.",
+      "Sekoita joukkoon ruohosipuli, tilli, valkosipulijauhe ja sipulijauhe.",
+      "Mausta suolalla ja pippurilla.",
+      "Anna maustua jääkaapissa vähintään 20 minuuttia."
+    ]
+  },
+  {
+    "id": "kg-ratatouille",
+    "title": "Ratatouille",
+    "description": "Provencelainen kesäinen kasvispata.",
+    "servings": 4,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "ranskalainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "3 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 munakoiso, kuutioituna",
+      "2 paprikaa, suikaloituna",
+      "2 kesäkurpitsaa, viipaloituna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "tuoretta basilikaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota sipuli ja valkosipuli oliiviöljyssä.",
+      "Lisää munakoiso ja kypsennä 8 minuuttia.",
+      "Lisää paprikat, kesäkurpitsat ja tomaatit.",
+      "Hauduta 25 minuuttia, kunnes kasvikset ovat pehmeitä. Mausta.",
+      "Viimeistele basilikalla."
+    ]
+  },
+  {
+    "id": "kg-red-wine-jus",
+    "title": "Punaviinikastike (jus)",
+    "description": "Yksinkertainen pannukastike pihville tai paahtopaistille, tehty liemestä demi-glacen sijaan.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "gluteeniton"],
+    "ingredients": [
+      "1 rkl voita",
+      "1 salottisipuli, hienonnettuna",
+      "2½ dl punaviiniä",
+      "1 oksa timjamia",
+      "3 dl lihalientä",
+      "1 tl kylmää voita viimeistelyyn",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi ja kuullota salottisipulia 3 minuuttia pehmeäksi.",
+      "Lisää punaviini ja timjami ja keitä puoleen.",
+      "Lisää liemi ja keitä 15 minuuttia, kunnes kastike on siirappimaista ja peittää lusikan selän.",
+      "Siivilöi ja vatkaa joukkoon kylmä voi liedeltä nostettuna kiillon saamiseksi.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "kg-remoulade",
+    "title": "Remoulade",
+    "description": "Kirpeä ranskalais-louisianalainen kastike rapukakuille, po'boy-leiville tai ranskalaisille.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "amerikkalainen", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "1 rkl dijonsinappia",
+      "1 rkl kapriksia, hienonnettuna",
+      "1 rkl maustekurkkua (cornichon), hienonnettuna",
+      "1 tl paprikajauhetta",
+      "1 tl sitruunamehua",
+      "tilkka chilikastiketta (esim. tabasco)"
+    ],
+    "instructions": [
+      "Vatkaa majoneesi ja sinappi.",
+      "Sekoita joukkoon kaprikset, maustekurkku ja paprikajauhe.",
+      "Lisää sitruunamehu ja chilikastike.",
+      "Anna jäähtyä vähintään 20 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-rice-noodles-with-lemongrass-pork",
+    "title": "Riisinuudelit ja sitruunaruohopossu",
+    "description": "Vietnamilainen nuudelilautanen sitruunaruoholla marinoidulla porsaalla.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "nuudelit"],
+    "ingredients": [
+      "300 g porsaan lapaa, ohuina viipaleina",
+      "2 sitruunaruohon vartta, hienonnettuna",
+      "2 rkl kalakastiketta",
+      "1 rkl sokeria",
+      "2 rkl rypsiöljyä",
+      "300 g ohuita riisinuudeleita (vermiselliä)",
+      "salaatinlehtiä",
+      "tuoretta minttua",
+      "½ dl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Marinoi porsasta sitruunaruohon, kalakastikkeen ja sokerin seoksessa 20 minuuttia.",
+      "Grillaa tai paista porsas öljyssä kovalla lämmöllä, kunnes pinta saa paahdetta.",
+      "Liota nuudeleita kuumassa vedessä ja valuta.",
+      "Tarjoile nuudelit porsaan, salaatin ja yrttien kanssa.",
+      "Ripottele pinnalle maapähkinät."
+    ]
+  },
+  {
+    "id": "kg-ricotta-lemon-honey-cups",
+    "title": "Ricotta-sitruuna-hunajakupit",
+    "description": "Helppo jälkiruoka, joka on tarpeeksi hieno vieraillekin.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "250 g ricotta-juustoa",
+      "1 sitruunan kuori, raastettuna",
+      "1 rkl hunajaa",
+      "80 g mustikoita",
+      "20 g paahdettuja manteleita"
+    ],
+    "instructions": [
+      "Vatkaa ricotta, sitruunankuori ja hunaja tasaiseksi.",
+      "Lusikoi pieniin laseihin.",
+      "Lisää päälle mustikat ja mantelit."
+    ]
+  },
+  {
+    "id": "kg-roast-potatoes",
+    "title": "Uuniperunat mannasuurimokuorella",
+    "description": "Gordon Ramsayn tapaan mannasuurimolla rapeutetut paahdetut perunat.",
+    "servings": 5,
+    "totalTimeMin": 75,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "uuniruoka", "brittiläinen"],
+    "ingredients": [
+      "1,2 kg jauhoisia perunoita",
+      "suolaa",
+      "1 dl oliiviöljyä",
+      "2 rkl mannasuurimoita",
+      "sormisuolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Kaada öljy isoon uunivuokaan ja nosta vuoka uuniin kuumenemaan.",
+      "Kuori perunat, paloittele sopivan kokoisiksi ja laita kattilaan kylmään veteen. Huuhtele pari kertaa ja lisää uutta vettä niin, että perunat juuri peittyvät. Suolaa vesi parilla teelusikallisella suolaa.",
+      "Kuumenna kiehuvaksi. Kun vesi kiehuu, odota 5 minuuttia ja sammuta lämpö.",
+      "Valuta perunat siivilässä ja ravistele niitä, jotta reunat pörhistyvät. Ripottele päälle mannasuurimot ja ravistele uudelleen. Anna höyrystyä kuivaksi pari minuuttia.",
+      "Ota kuuma vuoka uunista ja lisää perunat varovasti yksi kerrallaan. Käännä jokainen öljyssä.",
+      "Paahda 45–60 minuuttia. Käännä ja valele kuumalla öljyllä 15 minuutin välein.",
+      "Sekoita valmiisiin perunoihin sormisuolaa ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-roast-salmon-with-peas-potatoes-chorizo",
+    "title": "Uunilohi, herneet, perunat ja chorizo",
+    "description": "Yhden pellin ateria lohesta, uusista perunoista ja chorizosta.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kala", "liha", "uuniruoka", "peruna"],
+    "ingredients": [
+      "600 g uusia perunoita",
+      "150 g chorizoa, hienonnettuna",
+      "3 keskikokoista punasipulia, lohkoina",
+      "1 tl kuivattua yrttisekoitusta",
+      "1 tl paprikajauhetta",
+      "1 rkl ekstra-neitsytoliiviöljyä",
+      "150 g herneitä",
+      "4 keskikokoista lohifileetä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita perunat kattilaan kylmään veteen. Kuumenna kiehuvaksi ja keitä 20–25 minuuttia kypsiksi. Valuta, anna höyrystyä 2 minuuttia ja puolita.",
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180). Sekoita uunivuoassa perunat, chorizo, sipulit, yrtit, paprikajauhe ja oliiviöljy. Mausta ja paahda 20 minuuttia, sekoittaen puolivälissä.",
+      "Ripottele päälle herneet, nosta päällimmäiseksi lohi ja mausta. Paahda 12–15 minuuttia, kunnes kala on kypsää ja irtoaa lohkoiksi.",
+      "Rouhi päälle mustapippuria ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-roasted-beet-lentil-salad",
+    "title": "Paahdettu punajuuri-linssisalaatti",
+    "description": "Maukas salaatti uunipunajuuresta, vihreistä linsseistä ja saksanpähkinöistä.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "400 g punajuuria",
+      "200 g keitettyjä vihreitä linssejä",
+      "50 g rucolaa",
+      "1 pieni punasipuli, ohuina viipaleina",
+      "40 g saksanpähkinöitä",
+      "Kastike:",
+      "2 rkl oliiviöljyä",
+      "1 rkl punaviinietikkaa",
+      "1 tl dijonsinappia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kääri punajuuret folioon ja paahda 200 asteessa pehmeiksi (noin 45–60 minuuttia). Kuori ja kuutioi.",
+      "Vatkaa öljy, etikka, sinappi, suola ja pippuri.",
+      "Yhdistä punajuuret, linssit, rucola, sipuli ja saksanpähkinät.",
+      "Kaada kastike päälle juuri ennen tarjoilua."
+    ],
+    "notes": ["Vuohenjuusto tekee salaatista täyteläisemmän."]
+  },
+  {
+    "id": "kg-roasted-carrot-hummus-dip",
+    "title": "Paahdettu porkkanahummus",
+    "description": "Makea ja maanläheinen hummus uunissa paahdetuista porkkanoista.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "lähi-itä", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "400 g porkkanoita, paloiteltuna",
+      "1 rkl oliiviöljyä",
+      "240 g keitettyjä kikherneitä",
+      "2 rkl tahinia",
+      "1 sitruuna, mehuna",
+      "1 valkosipulinkynsi",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Paahda porkkanat öljyn kanssa pehmeiksi ja kevyesti karamellisoituneiksi (noin 25 minuuttia).",
+      "Soseuta porkkanat, kikherneet, tahini, sitruunamehu, valkosipuli ja suola.",
+      "Ohenna vedellä kermaiseksi.",
+      "Tarjoile kasvistikkujen tai näkkileivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-roasted-cauliflower-tahini-pitas",
+    "title": "Paahdettu kukkakaali ja tahinijogurtti pitaleivissä",
+    "description": "Juustokuminalla paahdettua kukkakaalia täysjyväpitoissa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "lähi-itä", "uuniruoka"],
+    "ingredients": [
+      "1 kukkakaali, kukintoina",
+      "1 rkl oliiviöljyä",
+      "1 tl juustokuminaa",
+      "suolaa",
+      "mustapippuria",
+      "150 g maustamatonta jogurttia",
+      "1 rkl tahinia",
+      "4 täysjyväpitaleipää",
+      "1 kurkku, viipaloituna",
+      "tuoreita yrttejä"
+    ],
+    "instructions": [
+      "Paahda kukkakaali öljyn, juustokuminan, suolan ja pippurin kanssa 220 asteessa ruskeaksi (noin 20 minuuttia).",
+      "Sekoita jogurtti ja tahini.",
+      "Täytä lämpimät pitat kukkakaalilla, kurkulla ja kastikkeella.",
+      "Viimeistele yrteillä."
+    ],
+    "notes": ["Pikkelöity sipuli tuo raikkautta."]
+  },
+  {
+    "id": "kg-roasted-green-veg-with-burrata",
+    "title": "Paahdetut vihreät kasvikset, burrata ja chilimurut",
+    "description": "Näyttävä mutta helppo kasvisateria Mob Kitchenin reseptin pohjalta.",
+    "servings": 2,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "italialainen", "uuniruoka"],
+    "ingredients": [
+      "1 purjo",
+      "1 kesäkurpitsa",
+      "2 vihreää tai keltaista paprikaa",
+      "200 g vihreää parsaa",
+      "300 g pakasteherneitä",
+      "2 rkl oliiviöljyä",
+      "suolaa",
+      "Basilikakastike:",
+      "50 g basilikaa",
+      "4 valkosipulinkynttä",
+      "1 sitruuna, mehuna",
+      "Chilimuru:",
+      "100 g leipää",
+      "2 chiliä",
+      "Lisäksi:",
+      "2 burrataa (à 150 g)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Pese kasvikset. Viipaloi purjo ja kesäkurpitsa ohuiksi ja paloittele parsa ja paprika. Keitä herneitä pari minuuttia ja nosta sivuun.",
+      "Laita purjo, kesäkurpitsa ja paprika uunivuokaan, lisää puolet öljystä ja ripaus suolaa ja sekoita. Paahda 15 minuuttia.",
+      "Lisää parsa vuokaan ja paahda vielä 10 minuuttia.",
+      "Soseuta valkosipuli, basilika, sitruunamehu ja loput öljystä monitoimikoneessa sileäksi.",
+      "Revi leipä paloiksi, sekoita tilkkaan öljyä ja paahda uunissa noin 10 minuuttia rapeaksi. Jauha monitoimikoneessa chilin, suolan ja tilkan öljyä kanssa hienoksi muruksi.",
+      "Nosta kasvikset ja herneet isoon kulhoon ja sekoita basilikakastikkeeseen.",
+      "Kasaa kasvikset lautasille ja nosta päälle burrata. Viillä burratan pintaan risti, jotta se aukeaa kuin kukka, ja ripottele päälle chilimurua. Viimeistele sormisuolalla ja tilkalla oliiviöljyä."
+    ],
+    "notes": ["Murun voi tehdä mistä tahansa ylijääneestä leivästä."]
+  },
+  {
+    "id": "kg-roasted-pumpkin-red-lentil-soup",
+    "title": "Paahdettu kurpitsa-punalinssikeitto",
+    "description": "Samettinen keitto uunissa karamellisoidusta kurpitsasta ja punaisista linsseistä.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "syksy", "gluteeniton"],
+    "ingredients": [
+      "700 g kurpitsaa, kuutioituna",
+      "1 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "150 g punaisia linssejä",
+      "7½ dl kasvislientä",
+      "1 tl juustokuminaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paahda kurpitsa öljyn kanssa 210 asteessa karamellisoituneeksi (noin 25 minuuttia).",
+      "Kuullota sipuli ja valkosipuli kattilassa pehmeiksi.",
+      "Lisää linssit, liemi, juustokumina ja paahdettu kurpitsa.",
+      "Keitä, kunnes linssit hajoavat, ja soseuta. Mausta suolalla."
+    ],
+    "notes": ["Chilihiutaleet tuovat lämpöä."]
+  },
+  {
+    "id": "kg-roasted-tomato-pasta-sauce",
+    "title": "Paahdettu tomaattikastike pastalle",
+    "description": "Yksinkertainen kastike paahdetuista tomaateista – erinomainen puutarhan tomaateista.",
+    "servings": 2,
+    "totalTimeMin": 50,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "italialainen", "pasta", "gluteeniton"],
+    "ingredients": [
+      "400 g isoja tomaatteja",
+      "2 rkl oliiviöljyä",
+      "1 iso salottisipuli",
+      "4 valkosipulinkynttä",
+      "25 g voita",
+      "parmesaania tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni niin kuumaksi kuin se menee, noin 220–250 asteeseen.",
+      "Puolita tomaatit (isot pienemmiksi) ja asettele ne leikkuupinta alaspäin uunivuokaan. Valuta päälle oliiviöljy ja kääntele.",
+      "Paahda 30–45 minuuttia, kunnes tomaateista irronnut neste alkaa ruskistua vuoan pohjalla.",
+      "Hienonna salottisipuli ja valkosipuli sillä välin ja lisää ne vuokaan 4–5 minuutiksi, kunnes ne alkavat ruskistua.",
+      "Ota vuoka uunista ja poista tomaattien kuoret – ne irtoavat helposti.",
+      "Survo tomaatit, sipuli ja valkosipuli paksuksi kastikkeeksi ja irrota samalla vuoan pohjaan tarttunut paahde. Lisää halutessasi tilkka viiniä tai etikkaa.",
+      "Lisää voi ja sekoita, kunnes kastike on paksua ja kiiltävää.",
+      "Tarjoile pastan ja reilun parmesaaniraasteen kanssa."
+    ]
+  },
+  {
+    "id": "kg-roasted-tomatoes-with-burrata",
+    "title": "Paahdetut kirsikkatomaatit ja burrata",
+    "description": "Erinomainen alkuruoka paahdetuista tomaateista, burratasta ja basilikaöljystä.",
+    "servings": 2,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["kasvis", "italialainen", "alkuruoka", "gluteeniton"],
+    "ingredients": [
+      "1 rkl pinjansiemeniä",
+      "200 g kirsikkatomaatteja",
+      "1 valkosipulinkynsi",
+      "3 rkl oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl balsamietikkaa",
+      "1 sitruuna",
+      "1 ruukku basilikaa",
+      "2 burrataa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen. Paahda pinjansiemenet kuivalla pannulla ja nosta sivuun.",
+      "Hienonna valkosipuli ja puolita tomaatit. Laita ne pieneen uunivuokaan 1 rkl:n öljyä kanssa ja mausta suolalla ja pippurilla. Paahda 45 minuuttia. Valuta päälle balsamietikka ja anna jäähtyä.",
+      "Laita monitoimikoneeseen sitruunan raastettu kuori ja mehu, kourallinen basilikaa, loput öljystä ja ripaus suolaa ja surauta tasaiseksi.",
+      "Jaa tomaatit kahdelle lautaselle, nosta päälle burrata ja ripottele päälle pinjansiemenet ja basilikaöljy. Viimeistele basilikanlehdillä, suolalla ja mustapippurilla."
+    ]
+  },
+  {
+    "id": "kg-roasted-veg-in-yoghurt-sauce",
+    "title": "Paahdetut juurekset ja minttujogurttikastike",
+    "description": "Uunijuurekset ja kukkakaali kurkumalla sävytetyn minttujogurtin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g pieniä palsternakkoja, kuorittuna",
+      "250 g porkkanoita, kuorittuna",
+      "300 g kukkakaalia, kukintoina",
+      "2 pientä punasipulia, lohkoina",
+      "1 rkl oliiviöljyä",
+      "1 sitruuna, puolitettuna",
+      "1 tl korianterinsiemeniä",
+      "1 tl kuivattua korianteria",
+      "Kastike:",
+      "200 g rasvatonta kreikkalaista jogurttia",
+      "2 valkosipulinkynttä, murskattuna",
+      "¼ tl kurkumaa",
+      "1 tl hunajaa",
+      "20 g tuoretta minttua",
+      "Päälle:",
+      "granaattiomenan siemeniä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180). Kiehauta iso kattilallinen vettä ja keitä palsternakkoja minuutti, sitten porkkanoita minuutti ja lopuksi kukkakaalia minuutti. Valuta ja säästä kupillinen keitinvettä.",
+      "Laita palsternakat, porkkanat ja punasipuli uunivuokaan ja valuta päälle öljy. Paahda 15 minuuttia.",
+      "Lisää kukkakaali, kuivattu korianteri, korianterinsiemenet ja puolikkaan sitruunan mehu. Sekoita ja paahda 10 minuuttia.",
+      "Soseuta jogurtti, valkosipuli, kurkuma, hunaja, suurin osa mintusta ja loput sitruunamehusta sileäksi. Ohenna keitinvedellä valuvaksi ja mausta.",
+      "Nosta kasvikset vadille, valuta päälle kastike ja ripottele pinnalle minttua ja granaattiomenan siemeniä."
+    ],
+    "notes": ["Jogurtin määrä, hunaja ja granaattiomena puuttuivat alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-roasted-vegetable-soup",
+    "title": "Paahdettu juureskeitto",
+    "description": "Luonnostaan makea ja täyttävä keitto uunijuureksista.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "gluteeniton", "arkiruoka"],
+    "ingredients": [
+      "2 porkkanaa, pilkottuna",
+      "2 palsternakkaa, pilkottuna",
+      "1 bataatti, kuutioituna",
+      "1 sipuli, lohkottuna",
+      "2 rkl oliiviöljyä",
+      "1 tl timjamia",
+      "suolaa",
+      "mustapippuria",
+      "8 dl kasvislientä"
+    ],
+    "instructions": [
+      "Sekoita kasvikset öljyn, timjamin, suolan ja pippurin kanssa.",
+      "Paahda 200 asteessa 25 minuuttia.",
+      "Hauduta paahdettuja kasviksia liemessä 10 minuuttia.",
+      "Soseuta sileäksi ja tarkista maku."
+    ]
+  },
+  {
+    "id": "kg-rolitos-stuffed-veal-rolls",
+    "title": "Rolitos – täytetyt vasikanlihakääryleet",
+    "description": "Ohuet vasikanleikkeet käärittyinä kinkun, kananmunan ja oliivien ympärille ja haudutettuina kastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["liha", "espanjalainen", "pataruoka"],
+    "ingredients": [
+      "8 ohutta vasikanleikettä",
+      "4 viipaletta kinkkua, puolitettuna",
+      "2 kovaksi keitettyä kananmunaa, neljään osaan",
+      "8 täytettyä oliivia, puolitettuna",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl rypsiöljyä",
+      "1 valkosipulinkynsi, murskattuna",
+      "1 sipuli, hienonnettuna",
+      "2,4 dl lihalientä",
+      "2 tl maissitärkkelystä"
+    ],
+    "instructions": [
+      "Levitä vasikanleike ja mausta. Lisää päälle puolikas kinkkuviipale, munaneljännes ja kaksi oliivinpuolikasta. Kääri rullalle ja kiinnitä hammastikuilla. Toista.",
+      "Kuullota valkosipuli ja sipuli öljyssä pehmeiksi. Lisää liemi ja veteen sekoitettu maissitärkkelys ja kuumenna kiehuvaksi.",
+      "Lisää kääryleet ja hauduta miedolla lämmöllä, kunnes liha on kypsää ja maut sekoittuneet (noin 25–30 minuuttia). Tarkista maku.",
+      "Tarjoile perunamuusin ja kastikkeen kanssa."
+    ]
+  }
+]

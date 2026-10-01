@@ -1,0 +1,753 @@
+[
+  {
+    "id": "wikibooks-lolly-cake",
+    "title": "Lolly cake – uusiseelantilainen karkkikakku",
+    "description": "Uusiseelantilainen paistamaton kakku murskatuista maltokekseistä, kondensoidusta maidosta ja hedelmäisistä vaahtokarkeista kookoshiutaleissa pyöriteltynä.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["uusiseelantilainen", "paistamaton", "makea"],
+    "ingredients": [
+      "250 g maltokeksejä (esim. Marie-keksejä)",
+      "1 ripaus kanelia (valinnainen)",
+      "120 g voita",
+      "200 g makeutettua kondensoitua maitoa",
+      "180 g hedelmäisiä vaahtokarkkeja",
+      "1 dl kookoshiutaleita"
+    ],
+    "instructions": [
+      "Murskaa keksit. Niiden ei tarvitse olla hienoa jauhetta – muutama isompi pala antaa kakulle mukavan rakenteen.",
+      "Sekoita joukkoon kaneli, jos käytät sitä.",
+      "Lämmitä voita ja kondensoitua maitoa mikroaaltouunissa noin 30 sekuntia, kunnes voi on hyvin pehmeää. Voi saa sulaa hieman.",
+      "Halkaise vaahtokarkit halutessasi tai jätä ne kokonaisiksi.",
+      "Sekoita vaahtokarkit keksimurun joukkoon ja lisää voi-maitoseos. Sekoita hyvin.",
+      "Muotoile seoksesta tanko tai pyörittele siitä pieniä palloja.",
+      "Pyörittele tanko tai pallot kookoshiutaleissa niin, että pinta peittyy kokonaan.",
+      "Nosta vadille, peitä kelmulla ja anna jähmettyä jääkaapissa useita tunteja.",
+      "Leikkaa kakku viipaleiksi kylmänä, ennen kuin se ehtii lämmetä."
+    ],
+    "notes": ["Alkuperäinen karkki on uusiseelantilainen Fruit Puffs; tilalle käyvät pehmeät hedelmänmakuiset vaahtokarkit."]
+  },
+  {
+    "id": "wikibooks-lomo-saltado-peruvian-steak-stir-fry",
+    "title": "Lomo saltado – perulainen härkäwokki",
+    "description": "Perun suosituimpia arkiruokia: viinissä marinoitua härkää, sipulia, tomaattia ja chiliä wokattuna ranskalaisten perunoiden kanssa, tarjoiltuna riisin kera.",
+    "servings": 6,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["liha", "perulainen", "peruna"],
+    "ingredients": [
+      "900 g naudan sisäfilettä tai muuta mureaa pihvilihaa",
+      "½ dl punaviiniä",
+      "2 rkl valkosipulimurskaa",
+      "2 sipulia, suikaloituna",
+      "4 tomaattia, siemenet poistettuna ja soseutettuna",
+      "5 perunaa, kuorittuna ja suikaloituna",
+      "1 keltainen chili (ají amarillo), ohuina suikaleina",
+      "1 rkl etikkaa",
+      "2 rkl soijakastiketta",
+      "rypsiöljyä paistamiseen",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Leikkaa liha ohuiksi suikaleiksi ja marinoi niitä viinissä 1 tunti.",
+      "Kuullota valkosipulia öljyssä wokissa keskilämmöllä ja lisää liha. Ota marinadi talteen.",
+      "Lisää tomaattisose, suola ja pippuri. Kypsennä muutama minuutti.",
+      "Lisää soijakastike ja sekoita lihaa koko ajan.",
+      "Lisää sipulit, chilisuikaleet, korianteri ja etikka sekä lihan marinadi.",
+      "Paista perunasuikaleet erillisessä pannussa tai kattilassa öljyssä rapeiksi ja lisää ne muiden ainesten joukkoon.",
+      "Tarjoa valkoisen riisin kanssa."
+    ],
+    "notes": [
+      "Tomaatit voi myös viipaloida soseuttamisen sijaan.",
+      "Viinin voi jättää pois ja käyttää enemmän etikkaa.",
+      "Toinen chililaji muuttaa ruoan makua selvästi."
+    ]
+  },
+  {
+    "id": "wikibooks-london-broil",
+    "title": "London broil – maustettu kuvepaisti grillistä",
+    "description": "Dijonsinapilla ja rosmariinimausteseoksella hierottu naudan kuvepaisti grillattuna ja leikattuna ohuiksi viipaleiksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "1 tl suolaa",
+      "1 rkl vastajauhettua mustapippuria",
+      "¾ tl cayennepippuria",
+      "2,5 tl kuivattua rosmariinia",
+      "¼ tl savupaprikajauhetta",
+      "450 g naudan kuvetta (flank steak)",
+      "dijonsinappia"
+    ],
+    "instructions": [
+      "Sekoita suola, pippuri, cayennepippuri, rosmariini ja savupaprika.",
+      "Sivele pihviin runsaasti dijonsinappia. Ripottele mausteseos pintaan ja hiero se kevyesti lihaan. Anna maustua jääkaapissa vähintään 1 tunti.",
+      "Kuumenna hiiligrilli (mieluiten sytytyspiipulla ilman sytytysnestettä). Aseta ritilä paikalleen ja nosta pihvi sille. Grillaa kerran kääntäen, kunnes sisälämpö on 63 °C (medium rare).",
+      "Anna lihan levätä 10 minuuttia. Leikkaa syitä vastaan mahdollisimman ohuiksi viipaleiksi ja tarjoa lämpimänä."
+    ],
+    "notes": ["Alkuperäisessä käytetään mesquite-savujauhetta; savupaprika antaa samantyyppisen savuisen maun."]
+  },
+  {
+    "id": "wikibooks-london-fog",
+    "title": "London fog – Earl Grey -maitotee vaniljalla",
+    "description": "Kanadalainen kahvilajuoma: vahvaa Earl Grey -teetä, kuumaa maitoa ja vaniljasiirappia.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "kanadalainen", "tee"],
+    "ingredients": [
+      "1 Earl Grey -teepussi",
+      "1 dl kiehuvaa vettä",
+      "4,5 dl maitoa",
+      "2 rkl vaniljasiirappia"
+    ],
+    "instructions": [
+      "Kaada kiehuva vesi mukiin teepussin päälle ja anna hautua 2–4 minuuttia, jotta saat vahvan teetiivisteen.",
+      "Kuumenna maito, mieluiten höyryttämällä vaahdoksi. Sekoita joukkoon vaniljasiirappi.",
+      "Lisää kuumaa maitoa teen joukkoon maun mukaan. Säädä suhteita oman maun mukaan."
+    ],
+    "notes": [
+      "Muunnelmia: vaihda Earl Grey vihreään teehen, chai-sekoitukseen, rooibosiin tai matchaan; vaniljasiirapin tilalle sopii vaahterasiirappi, hunaja tai hasselpähkinäsiirappi.",
+      "Kauramaidolla tai soijamaidolla juomasta saa maidottoman."
+    ]
+  },
+  { "id": "wikibooks-long-island-iced-tea", "skip": "alkoholijuoma (cocktail)" },
+  {
+    "id": "wikibooks-long-island-roast-duckling",
+    "title": "Long Islandin uunissa paahdettu ankka",
+    "description": "Kokonainen ankka paahdettuna pystyasennossa uunissa, jolloin rasva sulaa pois ja nahka rapeutuu ilman valelua.",
+    "servings": 3,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["liha", "ankka", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "1 kokonainen ankka (1,5–3 kg)",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl voisulaa tai rypsiöljyä",
+      "1 dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen.",
+      "Huuhtele ja kuivaa ankka ja poista sisäelimet.",
+      "Anna linnun seistä ilmavassa paikassa, jotta nahka kuivuu.",
+      "Hiero vatsaonteloon suolaa ja pippuria.",
+      "Pujota ankka pystypaistotelineeseen (kuten \"kaljatölkkikanassa\") ja nosta se pystyyn.",
+      "Sivele lintu joka puolelta voisulalla tai öljyllä ja ripottele nahalle kevyesti suolaa ja pippuria.",
+      "Nosta lintu telineineen isoon uunivuokaan (ritilän päälle, jos sellainen on) ja kaada vuoan pohjalle vesi.",
+      "Paahda 30 minuuttia, laske sitten lämpö 160 asteeseen ja paahda kypsäksi. Nahkaa ei tarvitse pistellä eikä lintua valella, sillä rasva sulaa hitaasti pois ja nahka rapeutuu. Pidä vuoan pohjalla koko ajan vettä, ettei rasva ala savuta.",
+      "Kaada rasva talteen ja säästä myös paistoliemi."
+    ],
+    "notes": [
+      "Tarjoa tumman riisin, riisipilahvin tai uunibataattien kanssa.",
+      "Ankanrasvassa voi paistaa perunaviipaleita tai tehdä confit'a."
+    ]
+  },
+  {
+    "id": "wikibooks-long-island-roast-duckling-with-citrus",
+    "title": "Uunissa paahdettu ankka sitrushedelmillä",
+    "description": "Perinteisesti uunissa paahdettu kokonainen ankka, jonka sisällä sitruuna ja appelsiini maustavat lihaa.",
+    "servings": 3,
+    "category": "Pääruoat",
+    "tags": ["liha", "ankka", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 kokonainen ankka (2–2,5 kg)",
+      "1 sitruuna, neljään osaan leikattuna",
+      "1 appelsiini, neljään tai kahdeksaan osaan leikattuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata pakastettu ankka jääkaapissa.",
+      "Poista sisäelimet ja mahdolliset pussit vatsaontelosta.",
+      "Kuumenna uuni 190 asteeseen ja aseta ritilä uunin keskitasolle.",
+      "Huuhtele ankka ja taputtele se kuivaksi sisältä ja ulkoa talouspaperilla.",
+      "Pistele nahkaan reikiä haarukalla noin 1 cm:n välein niin, että piikit menevät nahan ja rasvan läpi mutta eivät lihaan. Rasva valuu reikien kautta paistamisen aikana.",
+      "Hiero nahkaan runsaasti suolaa ja vastajauhettua pippuria. Laita vatsaonteloon 2 sitruunalohkoa ja 2–4 appelsiinilohkoa.",
+      "Sido koivet yhteen paistinarulla, jotta hedelmät pysyvät sisällä.",
+      "Nosta ankka rintapuoli ylöspäin ritilälle syvän uunivuoan päälle, jotta rasva valuu vuokaan eikä uuniin.",
+      "Työnnä paistolämpömittari reiteen.",
+      "Paista uunin keskitasolla 1–1½ tuntia ankan koosta riippuen.",
+      "Ota ankka uunista 20 minuutin välein ja kaada ylimääräinen rasva pois. Käännä lintua aina uuniin palauttaessasi, jotta se ruskistuu tasaisesti. Ankka on valmis, kun nahka on kullanruskea ja rapea ja sisälämpö vähintään 74 °C.",
+      "Ota ankka uunista ja kaada vatsaontelon neste pois.",
+      "Anna levätä 10 minuuttia ennen leikkaamista."
+    ]
+  },
+  {
+    "id": "wikibooks-louis-dressing",
+    "title": "Louis-kastike",
+    "description": "Kermainen, hieman tulinen salaatinkastike äyriäissalaateille, joka sopii myös dipiksi tai voileivän levitteeksi.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "salaatinkastike"],
+    "ingredients": [
+      "2,5 dl majoneesia",
+      "½ dl mietoa salsaa",
+      "½ dl ketsuppia",
+      "1 rkl sitruunamehua",
+      "1,5 tl worcestershirekastiketta",
+      "tabascoa maun mukaan"
+    ],
+    "instructions": [
+      "Soseuta kaikki ainekset tehosekoittimessa tasaiseksi. Tavoitteena on sileä vaaleanpunainen kastike, jossa on pieniä vihreitä pilkkuja.",
+      "Kaada kastike kulhoon, peitä ja anna jäähtyä jääkaapissa vähintään 30 minuuttia ennen käyttöä."
+    ],
+    "notes": [
+      "Perinteisessä versiossa salsan ja ketsupin tilalla on 1 dl chilikastiketta sekä 3 rkl hienonnettua kevätsipulia ja vihreää chiliä; ainekset vatkataan kulhossa.",
+      "Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "wikibooks-loukoumas-greek-donuts-with-honey-i",
+    "title": "Loukoumades – kreikkalaiset hunajamunkit",
+    "description": "Kreikkalaiset friteeratut taikinapallot, joiden päälle valutetaan hunajaa ja ripotellaan kanelia.",
+    "servings": 6,
+    "totalTimeMin": 285,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kreikkalainen", "friteerattu"],
+    "ingredients": [
+      "14 dl vehnäjauhoja",
+      "½ tl suolaa",
+      "5 dl makeuttamatonta kondensoitua maitoa (tai täysmaitoa)",
+      "4 munaa",
+      "2 rkl leivinjauhetta",
+      "2,5 dl sokeria",
+      "1 tl jauhettua kanelia",
+      "1 tl vaniljauutetta",
+      "4 tl kuivahiivaa",
+      "1 dl lämmintä vettä",
+      "rypsiöljyä friteeraukseen",
+      "hunajaa",
+      "seesaminsiemeniä (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauhot, suola, maito, munat, leivinjauhe, sokeri, kaneli ja vanilja.",
+      "Liuota hiiva lämpimään veteen.",
+      "Lisää hiivaseos muiden ainesten joukkoon ja sekoita. Taikinan tulee olla tasaista kuin kakkutaikina.",
+      "Peitä kulho ja anna taikinan kohota 4 tuntia.",
+      "Kuumenna kattilassa noin 5 cm öljyä.",
+      "Pudota taikinaa ruokalusikalla kuumaan öljyyn ja pyörittele. Valmiiden pallojen tulee olla pyöreitä ja kauniin ruskeita joka puolelta.",
+      "Nosta munkit öljystä ja valuta päälle hunajaa. Mausta halutessasi kanelilla tai seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "wikibooks-loukoumas-greek-donuts-with-honey-ii",
+    "title": "Loukoumades hiivataikinasta",
+    "description": "Ilmavat kreikkalaiset hunajamunkit yksinkertaisesta hiivataikinasta, päällä hunajaa, kanelia, saksanpähkinää ja seesaminsiemeniä.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "kreikkalainen", "friteerattu"],
+    "ingredients": [
+      "4 tl kuivahiivaa",
+      "3,5 dl lämmintä vettä",
+      "5 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "rypsiöljyä friteeraukseen",
+      "hunajaa (mieluiten timjamihunajaa)",
+      "kanelia",
+      "saksanpähkinöitä, rouhittuna",
+      "seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Sekoita hiiva ja 1 dl lämmintä vettä.",
+      "Sekoita jauhot ja suola syvässä kulhossa.",
+      "Lisää hiivaseos ja loput 2,5 dl lämmintä vettä ja sekoita tasaiseksi, ohueksi taikinaksi.",
+      "Peitä ja anna kohota 1½–2 tuntia, kunnes taikina on kuplivaa.",
+      "Kuumenna syvässä pannussa tai kattilassa useita senttejä öljyä. Pudota taikinaa isoilla lusikallisilla öljyyn. Käännä palloja niiden paisuessa ja paista 3–5 minuuttia, kunnes ne ovat kauttaaltaan kullanruskeita. Älä paista liian montaa kerralla.",
+      "Nosta munkit reikäkauhalla talouspaperin päälle ja pidä lämpimänä.",
+      "Valuta päälle hunajaa.",
+      "Ripottele pinnalle kanelia, pähkinärouhetta ja/tai seesaminsiemeniä maun mukaan."
+    ],
+    "notes": ["Ilman hunajaa munkit ovat vegaanisia."]
+  },
+  {
+    "id": "wikibooks-low-country-shrimp-and-grits",
+    "title": "Katkaravut ja maissipuuro (shrimp and grits)",
+    "description": "Yhdysvaltain etelävaltioiden klassikko: pekonilla ja kermaisella kastikkeella haudutettuja katkarapuja maissipuuron päällä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "amerikkalainen", "katkarapu"],
+    "ingredients": [
+      "3–4 viipaletta paksua savupekonia, 2–3 cm:n paloina",
+      "½ sipuli, hienonnettuna",
+      "2–3 valkosipulinkynttä, hienonnettuna",
+      "450 g isoja katkarapuja, kuorittuina",
+      "suolaa",
+      "5 dl kuohukermaa",
+      "5–6 dl katkarapulientä tai kalalientä",
+      "½ dl kuivaa sherryä",
+      "voita",
+      "mustapippuria",
+      "cayennepippuria",
+      "paprikajauhetta",
+      "chilihiutaleita",
+      "limettimehua",
+      "4 annosta keitettyä maissipuuroa (polentaa)",
+      "3–4 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Paista pekoni pannulla, mutta älä liian rapeaksi. Nosta sivuun.",
+      "Kuullota sipulia ja valkosipulia pekonin rasvassa juuri pehmeiksi, noin 2–3 minuuttia.",
+      "Mausta katkaravut kevyesti suolalla ja lisää pannulle. Paista, kunnes ne ovat puolikypsiä ja alkavat muuttua vaaleanpunaisiksi. Nosta pekonin seuraksi.",
+      "Irrota paistopinta sherryllä.",
+      "Lisää 2,5 dl kermaa, kuumenna kiehuvaksi ja keitä kokoon.",
+      "Lisää 2,5 dl lientä, keitä voimakkaasti poreillen ja anna kastikkeen sakeutua. Tarvittaessa suurusta voihin vaivatuilla jauhoilla.",
+      "Mausta kastike suolalla, pippurilla, chilihiutaleilla, cayennella ja paprikajauheella. Lisää tarvittaessa loput kermasta ja liemestä.",
+      "Lisää pekoni ja katkaravut kastikkeeseen ja kuumenna miedolla lämmöllä, kunnes katkaravut ovat juuri kypsiä.",
+      "Lisää limettimehua.",
+      "Tarjoa maissipuuron päältä ja koristele kevätsipulilla."
+    ],
+    "notes": [
+      "Katkarapuliemen voi keittää katkarapujen kuorista, sipulista, porkkanasta, selleristä ja pippureista.",
+      "Kevätsipulin tilalle sopii ruohosipuli."
+    ]
+  },
+  {
+    "id": "wikibooks-low-fat-chocolate-sauce",
+    "title": "Kevyt suklaakastike",
+    "description": "Helppo ja vähärasvainen suklaakastike tuulihatuille ja muille jälkiruoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "jälkiruokakastike"],
+    "ingredients": [
+      "40 g kevytlevitettä tai voita",
+      "40 g hienoa sokeria",
+      "70 ml ranskankermaa",
+      "40 g tummaa suklaata"
+    ],
+    "instructions": [
+      "Sulata kaikki ainekset kattilassa ja anna kuplia hetki, kunnes seos tummuu hieman. Varo, ettei suklaa pala.",
+      "Nosta liedeltä ja anna jäähtyä, jolloin kastike sakeutuu."
+    ]
+  },
+  {
+    "id": "wikibooks-luciabullar-scandinavian-saffron-buns",
+    "title": "Lussekatter – sahramipullat",
+    "description": "Skandinaaviset sahramipullat, joita leivotaan Lucian päiväksi 13. joulukuuta.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "ruotsalainen", "joulu", "pulla"],
+    "ingredients": [
+      "2 ps (22 g) kuivahiivaa",
+      "½ dl kädenlämpöistä vettä",
+      "0,5 g sahramia",
+      "2 dl kädenlämpöistä ruokakermaa",
+      "120 g voita, sulatettuna",
+      "2 munaa, vatkattuna",
+      "2 dl sokeria",
+      "1 tl suolaa",
+      "10–12 dl vehnäjauhoja",
+      "rusinoita koristeluun",
+      "1 muna voiteluun"
+    ],
+    "instructions": [
+      "Sekoita hiiva lämpimään veteen.",
+      "Sekoita murskattu sahrami lämpimään kermaan ja anna seistä hetki.",
+      "Yhdistä hiiva- ja sahramiseokset. Sekoita joukkoon voisula, munat, sokeri ja suola.",
+      "Lisää puolet jauhoista ja vatkaa tasaiseksi.",
+      "Lisää jauhoja vähitellen, kunnes taikina on sileää mutta ei liian kiinteää. Vaivaa jauhotetulla alustalla 10 minuuttia.",
+      "Nosta taikina voideltuun kulhoon ja anna kohota noin 1½ tuntia, kunnes koko on kaksinkertaistunut.",
+      "Jaa taikina paloiksi. Pyörittele jokaisesta noin 18 cm pitkä tanko ja kierrä päät vastakkaisiin suuntiin S-kirjaimen muotoon. Paina kumpaankin kiemuraan rusina.",
+      "Nosta pullat voidellulle tai leivinpaperilla vuoratulle pellille, peitä ja anna kohota 45 minuuttia.",
+      "Voitele vatkatulla munalla ja paista 190–200 asteessa 10–15 minuuttia kullanruskeiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-lumanda-zambian-okra-stew",
+    "title": "Lumanda – sambialainen okrapata",
+    "description": "Maukas sambialainen kasvispata okrasta, tomaatista, sipulista ja mausteista. Tarjotaan perinteisesti nshima-maissipuuron kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "afrikkalainen", "pata"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 chili, hienonnettuna (siemenet pois, jos haluat miedompaa)",
+      "1 tl paprikajauhetta",
+      "1 tl juustokuminaa",
+      "½ tl kurkumaa",
+      "½ tl jauhettua korianteria",
+      "5 dl tuoretta okraa, viipaloituna",
+      "1 tomaatti, kuutioituna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Lisää sipuli, valkosipuli ja chili ja kuullota, kunnes sipuli on pehmeää ja läpikuultavaa.",
+      "Sekoita joukkoon paprikajauhe, juustokumina, kurkuma ja korianteri. Paista minuutti pari, jotta mausteet avautuvat.",
+      "Lisää okra ja tomaatti ja sekoita hyvin mausteseoksen kanssa.",
+      "Mausta suolalla.",
+      "Laske lämpö pieneksi, peitä kannella ja hauduta noin 15–20 minuuttia, kunnes okra on pehmeää.",
+      "Sekoita silloin tällöin, ettei pata pala pohjaan.",
+      "Nosta liedeltä ja anna seistä muutama minuutti ennen tarjoilua."
+    ],
+    "notes": [
+      "Padasta saa paksumpaa lisäämällä lusikallisen maissijauhoja kypsennyksen aikana.",
+      "Tarjoa nshiman, riisin tai leivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-lumberjacks",
+    "title": "Lumberjacks – siirappipiparit",
+    "description": "1830-luvun Uuden-Englannin keittiöstä peräisin olevat pehmeät, mausteiset siirappikeksit sokerikuorrutteella.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "amerikkalainen", "pikkuleipä"],
+    "ingredients": [
+      "2,5 dl hienoa sokeria",
+      "225 g voita tai leivontarasvaa",
+      "2,5 dl tummaa siirappia",
+      "2 munaa",
+      "10 dl vehnäjauhoja",
+      "1 tl ruokasoodaa",
+      "2 tl kanelia",
+      "1 tl inkivääriä",
+      "½ dl sokeria pyörittelyyn"
+    ],
+    "instructions": [
+      "Vaahdota sokeri ja rasva.",
+      "Lisää siirappi ja munat ja sekoita hyvin.",
+      "Siivilöi jauhot, mausteet ja sooda yhteen. Lisää rasvaseokseen ja sekoita taikinaksi.",
+      "Kaada pyörittelysokeri pieneen kulhoon.",
+      "Kastele sormet sokerissa, nipistä taikinasta pala ja pyörittele siitä saksanpähkinän kokoinen pallo.",
+      "Pyöritä pallo sokerissa ja nosta voidellulle pellille.",
+      "Toista lopuille taikinalle ja jätä keksien väliin noin 7–8 cm tilaa.",
+      "Paista 175-asteisessa uunissa 10–15 minuuttia.",
+      "Anna jäähtyä kokonaan – jäähtyneinä keksit ovat pehmeitä."
+    ],
+    "notes": ["Alkuperäisessä käytetään amerikkalaista tummaa melassia; tumma siirappi on lähin suomalainen vastine."]
+  },
+  {
+    "id": "wikibooks-lumpia-fried-filipino-spring-rolls",
+    "title": "Lumpia – filippiiniläiset kevätkääryleet",
+    "description": "Rapeiksi friteerattuja filippiiniläisiä kääryleitä, joissa on jauhelihaa, vesikastanjaa ja sipulia. Tarjotaan hapanimeläkastikkeen kanssa.",
+    "servings": 6,
+    "totalTimeMin": 1440,
+    "category": "Pääruoat",
+    "tags": ["liha", "filippiiniläinen", "friteerattu"],
+    "ingredients": [
+      "700 g broilerin tai sian jauhelihaa",
+      "¾ dl vesikastanjoita, hienonnettuna",
+      "1 dl sipulia, hienonnettuna",
+      "4 munaa",
+      "½ dl soijakastiketta",
+      "suolaa",
+      "mustapippuria",
+      "40 pientä kevätkääryleen taikinalevyä (tai wonton-levyä)",
+      "1 l rypsiöljyä friteeraukseen",
+      "hapanimeläkastiketta tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauheliha, vesikastanjat, sipuli, munat, soijakastike, suola ja pippuri. Sekoita hyvin.",
+      "Aseta taikinalevy puhtaalle, kuivalle alustalle niin, että yksi kulma osoittaa itseesi päin.",
+      "Nosta levyn keskelle noin 1 rkl täytettä.",
+      "Kastele sormet vedessä ja kostuta kaukaisin kulma.",
+      "Taita lähin kulma täytteen päälle, taita sivukulmat sen päälle ja rullaa poispäin itsestäsi. Kostea kulma sulkee kääryleen.",
+      "Toista, kunnes täyte ja levyt on käytetty.",
+      "Laita kääryleet isoihin minigrip-pusseihin ja pakasta yön yli.",
+      "Kuumenna öljy isossa kattilassa noin 175 asteeseen, kunnes se väreilee ja puikon ympärille nousee pieniä kuplia.",
+      "Nosta pakastetut kääryleet pihdeillä kuumaan öljyyn ja friteeraa ruskeiksi, noin 3–4 minuuttia. Käännä niitä, jotta ne kypsyvät tasaisesti.",
+      "Nosta talouspaperin päälle valumaan."
+    ]
+  },
+  {
+    "id": "wikibooks-luwombo-ugandan-steamed-meat-and-vegetables",
+    "title": "Luwombo – ugandalainen liha-kasvispata banaaninlehdissä",
+    "description": "Ugandalainen juhlaruoka, jossa maapähkinällä maustettua lihaa ja juureksia haudutetaan kookosmaidossa ja höyrytetään banaaninlehtinyyteissä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "pata"],
+    "ingredients": [
+      "450 g naudanlihaa tai broileria, paloiteltuna",
+      "2,5 dl punasipulia, kuutioituna",
+      "1 rkl valkosipulia, hienonnettuna",
+      "1 rkl inkivääriä, hienonnettuna",
+      "cayennepippuria",
+      "2 rkl maapähkinävoita",
+      "1 rkl maapähkinärouhetta",
+      "2 rkl palmuöljyä tai maapähkinäöljyä",
+      "2,5 dl bataattia, kuutioituna",
+      "2,5 dl maniokkia, kuutioituna",
+      "2,5 dl raakaa keittobanaania, kuutioituna",
+      "2,5 dl munakoisoa, kuutioituna",
+      "2 rkl jauhettua kuivattua katkarapua (valinnainen)",
+      "2,5 dl kookosmaitoa",
+      "2,5 dl kanalientä tai kasvislientä",
+      "suolaa",
+      "banaaninlehtiä käärimiseen"
+    ],
+    "instructions": [
+      "Marinoi lihapaloja isossa kulhossa valkosipulin, inkiväärin, maapähkinävoin, maapähkinärouheen, mahdollisen katkarapujauheen, suolan ja cayennepippurin kanssa vähintään 30 minuuttia.",
+      "Kuumenna öljy isossa kattilassa tai pannulla keskikorkealla lämmöllä. Lisää liha ja ruskista se joka puolelta.",
+      "Lisää sipuli ja kuullota pehmeäksi.",
+      "Lisää bataatti, maniokki, keittobanaani ja munakoiso.",
+      "Kaada joukkoon kookosmaito ja liemi niin, että ainekset peittyvät. Kuumenna hiljalleen kiehuvaksi.",
+      "Laske lämpö pieneksi, peitä kannella ja hauduta 1–2 tuntia, kunnes liha on mureaa.",
+      "Pehmennä banaaninlehdet sillä välin pitämällä niitä hetki avotulen päällä, jotta ne taipuvat.",
+      "Nosta annos pataa banaaninlehden keskelle ja taita lehti nyytiksi. Toista loppujen kanssa.",
+      "Nosta nyytit höyrytyskoriin tai kattilaan höyrytysritilän päälle.",
+      "Höyrytä vielä 30 minuuttia.",
+      "Tarjoa nyytit annoslautasilla."
+    ],
+    "notes": ["Tarjoa höyrytetyn riisin tai matooke-banaanimuusin kanssa."]
+  },
+  {
+    "id": "wikibooks-lngos-hungarian-fried-flatbread",
+    "title": "Lángos – unkarilainen rasvassa paistettu leipä",
+    "description": "Unkarilainen katuruoka: pehmeitä hiivataikinalättyjä paistettuna rasvassa ja tarjoiltuna valkosipulin, smetanan ja juuston kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "unkarilainen", "friteerattu"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "1 ps (11 g) kuivahiivaa",
+      "4 munaa",
+      "4 rkl jogurttia tai smetanaa",
+      "2 tl suolaa",
+      "laardia tai rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja hiiva. Lisää munat ja sekoita jogurtti joukkoon taikinaksi.",
+      "Lisää suola ja vaivaa, kunnes taikina on joustavaa eikä liian tahmeaa. Lisää tarvittaessa jauhoja tai jogurttia. Taikina on vähän pehmeämpää kuin munapastataikina.",
+      "Nosta taikina öljyttyyn kulhoon, peitä ja anna kohota yön yli viileässä, esimerkiksi jääkaapissa.",
+      "Painele taikinasta ilmat varovasti pois.",
+      "Kuumenna pannussa noin 5 cm rasvaa. Rasva on sopivan kuumaa, kun pieni taikinanpala uppoaa pohjaan ja nousee heti paistuen pintaan.",
+      "Ota taikinasta pingispalloa vähän isompi pala ja litistä se käsin kiekoksi. Venytä painelemalla ja kääntelemällä niin, että keskusta on ohut ja reunat paksummat. Tavoitteena on noin 20 cm:n kiekko. Muodon ei tarvitse olla täydellinen.",
+      "Liu'uta kiekko varovasti kuumaan rasvaan ja paista noin 30 sekuntia. Sen pitäisi alkaa kohota; jos ei, rasva ei ole tarpeeksi kuumaa tai kiekko on liian paksu.",
+      "Käännä ja paista toiselta puolelta noin 30 sekuntia. Paista tarvittaessa pidempään, kunnes molemmat puolet ovat kullanruskeita ja kuohkeita.",
+      "Nosta rasvasta ja valuta."
+    ],
+    "notes": [
+      "Perinteisesti lángosin päälle sivellään valkosipulikastiketta: hienonna useita valkosipulinkynsiä pieneen määrään öljyä ja vettä ja anna maustua hetki.",
+      "Päälle sopivat myös smetana, ranskankerma tai paksu jogurtti, juustoraaste sekä paistettu pekoni."
+    ]
+  },
+  {
+    "id": "wikibooks-mbatata-sweet-potato-and-peanut-soup",
+    "title": "M'batata – bataatti-maapähkinäkeitto",
+    "description": "Kermainen keskiafrikkalainen keitto, jossa bataatin makeus ja paahdetun maapähkinän täyteläisyys yhdistyvät.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "kasvis", "keitto", "afrikkalainen"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 isoa bataattia, kuorittuna ja kuutioituna",
+      "1 l kasvislientä",
+      "2,5 dl suolaamattomia maapähkinöitä",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "½ tl chilijauhetta (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "2,5 dl kookosmaitoa (valinnainen)",
+      "tuoretta korianteria tai persiljaa koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Lisää sipuli ja valkosipuli ja kuullota, kunnes sipuli on läpikuultavaa.",
+      "Lisää bataattikuutiot ja sekoittele pari minuuttia sipulien kanssa.",
+      "Kaada joukkoon liemi niin, että bataatit peittyvät. Kuumenna kiehuvaksi ja hauduta miedolla lämmöllä, kunnes bataatit ovat pehmeitä, noin 15–20 minuuttia.",
+      "Paahda sillä välin maapähkinät kuivalla pannulla keskilämmöllä, kunnes ne tuoksuvat ja ruskistuvat hieman.",
+      "Jauha paahdetut pähkinät tehosekoittimessa tai monitoimikoneessa tasaiseksi tahnaksi. Kaavi reunoja tarvittaessa.",
+      "Nosta keitto liedeltä ja anna jäähtyä hetki. Survo bataatit sileiksi perunasurvimella.",
+      "Palauta kattila miedolle lämmölle ja sekoita joukkoon maapähkinätahna. Keitto muuttuu paksuksi ja kermaiseksi.",
+      "Lisää juustokumina, korianteri, mahdollinen chili, suola ja pippuri. Anna makujen tasaantua muutama minuutti.",
+      "Jos käytät kookosmaitoa, sekoita se joukkoon ja hauduta vielä 5 minuuttia välillä sekoittaen.",
+      "Tarkista maku ja lisää mausteita tarvittaessa.",
+      "Annostele kulhoihin ja koristele halutessasi korianterilla tai persiljalla."
+    ],
+    "notes": ["Tarjoa kuumana rapean leivän tai salaatin kanssa."]
+  },
+  {
+    "id": "wikibooks-msemen-layered-algerian-flatbread",
+    "title": "M'semen – algerialainen kerrosleipä",
+    "description": "Algerialainen rapea, kerroksellinen lättyleipä vehnä- ja mannasuurimojauhoista, paistettuna pannulla.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "pohjoisafrikkalainen", "rieska"],
+    "ingredients": [
+      "2,5 dl vehnäjauhoja",
+      "2,5 dl durumvehnäjauhoja tai mannasuurimoita",
+      "1 tl sokeria",
+      "½ tl suolaa",
+      "¼ tl kuivahiivaa",
+      "3,5 dl lämmintä vettä",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita jauhot, sokeri, suola ja hiiva kulhossa.",
+      "Lisää lämmin vesi vähitellen, kunnes saat pehmeän taikinan. Jos taikina on liian tahmeaa, lisää vehnäjauhoja; jos liian kuivaa, lisää vettä.",
+      "Vaivaa kevyesti jauhotetulla alustalla 10 minuuttia tai kunnes taikina on sileää.",
+      "Jaa taikina pieniin paloihin ja kauli jokaisesta hyvin ohut kiekko. Öljyä kädet, jos taikina tarttuu.",
+      "Sivele jokainen kiekko öljyllä.",
+      "Taita kiekot neliön muotoisiksi kirjekuoriksi taittamalla neljä reunaa keskelle.",
+      "Paista leivät kuumalla, kevyesti rasvatulla pannulla molemmin puolin ruskeiksi."
+    ],
+    "notes": ["Leivät voi myös täyttää jauhelihalla ja kasviksilla ennen paistamista."]
+  },
+  {
+    "id": "wikibooks-maamoul-arabian-filled-pastries",
+    "title": "Ma'amoul – täytetyt arabialaiset leivokset",
+    "description": "Arabimaissa suosittuja murotaikinaleivoksia, joissa on taateli-, saksanpähkinä- tai pistaasitäyte. Ohjeessa on kolme vaihtoehtoista täytettä; valitse yksi tai tee kaikkia.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "arabialainen", "juhla", "pikkuleipä"],
+    "ingredients": [
+      "Pistaasitäyte:",
+      "250 g pistaasipähkinöitä, hienonnettuna",
+      "115 g sokeria",
+      "1 rkl ruusuvettä",
+      "Saksanpähkinätäyte:",
+      "250 g saksanpähkinöitä, hienonnettuna",
+      "115 g sokeria",
+      "1 rkl kanelia",
+      "Taatelitäyte:",
+      "500 g kivettömiä taateleita, pilkottuna",
+      "1 dl vettä",
+      "voita (valinnainen)",
+      "Taikina:",
+      "500 g vehnäjauhoja (enintään neljäsosa voi olla mannasuurimoita)",
+      "2 rkl sokeria",
+      "1 ripaus suolaa (valinnainen)",
+      "1 ripaus leivinjauhetta (valinnainen)",
+      "250 g suolatonta voita",
+      "1–2 rkl ruusuvettä tai appelsiininkukkavettä",
+      "2 rkl vettä tai maitoa",
+      "Pinnalle:",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Pistaasitäyte: sekoita hienonnetut pistaasit, sokeri ja ruusuvesi.",
+      "Saksanpähkinätäyte: sekoita hienonnetut saksanpähkinät, sokeri ja kaneli.",
+      "Taatelitäyte: kuumenna taatelit ja vesi kiehuvaksi kattilassa ja painele seosta puulusikalla kattilan reunaa vasten tasaiseksi. Sekoita joukkoon halutessasi voita. Soseuta tarvittaessa sauvasekoittimella sileämmäksi. Jäähdytä.",
+      "Siivilöi jauhot kulhoon. Sekoita joukkoon sokeri ja halutessasi ripaus suolaa ja leivinjauhetta.",
+      "Nypi voi jauhoihin mahdollisimman tasaiseksi. Voin voi myös ensin lähes sulattaa mikrossa ja sekoittaa jauhoihin muruksi. Peitä ja anna seistä huoneenlämmössä useita tunteja tai yön yli.",
+      "Murenna taikina sormin ja lisää kukkavesi sekä 2 rkl vettä tai maitoa, kunnes taikina on muovailtavaa. Vaivaa sileäksi palloksi.",
+      "Ota saksanpähkinän kokoinen taikinapala, paina peukalo sen keskelle ja muotoile siitä kuppi, jonka seinämät ovat mahdollisimman ohuet rikkoutumatta.",
+      "Täytä kuppi noin kolmeen neljäsosaan ja nipistä aukko kiinni. Taputtele varovasti palloksi.",
+      "Koristele pinta pinseteillä tai haarukan piikeillä. Vaihtoehtoisesti paina pallo puiseen ma'amoul-muottiin, tasoita pohja ja kopauta muotti ylösalaisin pöytään, jolloin leivos irtoaa.",
+      "Toista, kunnes taikina ja täyte on käytetty. Jos taikina alkaa kuivua, vaivaa joukkoon hieman vettä tai maitoa.",
+      "Nosta leivokset voitelemattomalle pellille ja paista 180-asteisessa uunissa (kiertoilmalla 160 astetta) 20 minuuttia. Leivokset eivät saa kovettua eivätkä ruskistua; uunista otettaessa ne näyttävät vielä hieman raaoilta ja kovettuvat jäähtyessään.",
+      "Anna jäähtyä ja sihtaa pinnalle tomusokeria. Säilytä tiiviissä rasiassa."
+    ],
+    "notes": ["Pistaasien tilalla voi käyttää mantelijauhetta."]
+  },
+  {
+    "id": "wikibooks-macaroni-and-cheese-baked",
+    "title": "Uunimakaronit juustokastikkeessa",
+    "description": "Amerikkalaistyylinen mac and cheese: makaronit cheddarkastikkeessa, uunissa gratinoituna rapean korppujauhopinnan alla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "225 g makaronia",
+      "3 rkl voita",
+      "3 rkl vehnäjauhoja",
+      "1 rkl sinappijauhetta",
+      "7 dl maitoa",
+      "1 punasipuli, hienonnettuna",
+      "2 tl tabascoa",
+      "1 laakerinlehti",
+      "½ tl paprikajauhetta",
+      "1 muna",
+      "340 g vahvaa cheddarjuustoa, raastettuna",
+      "1 tl suolaa",
+      "mustapippuria",
+      "Pinnalle:",
+      "3 rkl voita",
+      "2,5 dl pankokorppujauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Keitä makaronit isossa kattilassa suolalla maustetussa vedessä al denteiksi.",
+      "Sulata sillä välin voi toisessa kattilassa.",
+      "Vatkaa joukkoon jauhot ja sinappijauhe ja sekoita koko ajan noin viisi minuuttia. Varmista, ettei seokseen jää paakkuja.",
+      "Sekoita joukkoon maito, sipuli, tabasco, laakerinlehti ja paprikajauhe. Hauduta kymmenen minuuttia ja poista laakerinlehti.",
+      "Vatkaa muna kulhossa ja lisää siihen vähän kuumaa kastiketta koko ajan sekoittaen. Kaada munaseos kastikkeeseen.",
+      "Sekoita joukkoon ¾ juustosta.",
+      "Mausta suolalla ja pippurilla.",
+      "Kääntele makaronit kastikkeeseen ja kaada seos noin 2 litran uunivuokaan.",
+      "Ripottele pinnalle loput juustosta.",
+      "Sulata voi paistinpannulla, lisää korppujauhot ja sekoita, kunnes ne ovat voin peitossa.",
+      "Ripottele korppujauhot makaronien päälle.",
+      "Paista 30 minuuttia.",
+      "Anna vetäytyä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  { "id": "wikibooks-macaroni-and-cheese-microwaved", "skip": "liian puutteellinen (määrät puuttuvat eikä kypsennysaika riitä makaroneille)" },
+  {
+    "id": "wikibooks-macaroni-and-cheese-vegan",
+    "title": "Vegaaniset juustomakaronit",
+    "description": "Maidoton versio juustomakaroneista: kastikkeen juustoinen maku tulee ravintohiivahiutaleista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "pasta", "nopea"],
+    "ingredients": [
+      "450 g makaronia",
+      "115 g margariinia (maidotonta)",
+      "1 dl vehnäjauhoja",
+      "2,5 dl ravintohiivahiutaleita",
+      "8,5 dl kiehuvaa vettä tai riisijuomaa",
+      "1,5 tl suolaa",
+      "1,5 tl valkosipulijauhetta",
+      "1 ripaus kurkumaa",
+      "2 rkl soijakastiketta"
+    ],
+    "instructions": [
+      "Kuumenna noin 4 litraa vettä kiehuvaksi, lisää suolaa maun mukaan ja keitä makaronit.",
+      "Sulata margariini miedolla lämmöllä. Vatkaa joukkoon jauhot ja jatka vatkaamista keskilämmöllä, kunnes seos on tasaista ja kuplivaa.",
+      "Vatkaa joukkoon kiehuva vesi. Lisää suola, valkosipulijauhe, soijakastike ja kurkuma.",
+      "Keitä kastiketta, kunnes se sakeutuu ja kuplii. Vatkaa sitten joukkoon ravintohiiva. Jos kastike on liian paksua, lisää vettä.",
+      "Valuta kypsät makaronit ja sekoita kastikkeeseen. Tarjoa heti."
+    ],
+    "notes": ["Kastiketta voi maustaa myös sinapilla."]
+  },
+  {
+    "id": "wikibooks-macaroni-and-cheese-i",
+    "title": "Juustomakaronit liedellä",
+    "description": "Nopeat juustomakaronit: makaronit sekoitetaan cheddarilla ja parmesaanilla maustettuun valkokastikkeeseen.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "125 g voita",
+      "1 dl vehnäjauhoja",
+      "1 l maitoa, lämmitettynä",
+      "125 g cheddarjuustoa, raastettuna",
+      "125 g parmesaania tai Monterey Jack -juustoa, raastettuna",
+      "½ tl cayennepippuria",
+      "450 g makaronia, keitettynä ja valutettuna"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa ja sekoita joukkoon jauhot. Kuumenna hetki koko ajan sekoittaen.",
+      "Lisää lämmin maito ja vatkaa tasaiseksi valkokastikkeeksi.",
+      "Sekoita joukkoon juustot ja cayennepippuri.",
+      "Kääntele kastike keitettyjen makaronien joukkoon niin, että ne peittyvät hyvin."
+    ]
+  }
+]

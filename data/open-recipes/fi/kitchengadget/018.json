@@ -1,0 +1,263 @@
+[
+  {
+    "id": "kg-white-chicken-chili",
+    "title": "Kermainen valkoinen kanachili haudutuskattilassa",
+    "description": "Kermainen, miedosti tulinen ja epäilyttävän helppo lohturuoka grillibroilerista, valkoisista pavuista ja tuorejuustosta.",
+    "servings": 8,
+    "totalTimeMin": 250,
+    "category": "Pääruoat",
+    "tags": ["kana", "meksikolainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "1 grillattu broileri, revittynä",
+      "2 tlk (à 400 g) valkoisia papuja, valutettuna ja huuhdeltuna",
+      "2 tlk (à 115 g) vihreitä chilejä, kuutioituna",
+      "1 keskikokoinen sipuli, kuutioituna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 rkl juustokuminaa",
+      "1 tl oreganoa",
+      "½ tl cayennepippuria",
+      "1 l kanalientä",
+      "225 g tuorejuustoa",
+      "suolaa",
+      "mustapippuria",
+      "Tarjoiluun:",
+      "kermaviiliä, juustoraastetta, tortillalastuja"
+    ],
+    "instructions": [
+      "Laita haudutuskattilaan revitty kana, pavut, chilit, sipuli, valkosipuli, mausteet ja liemi. Sekoita.",
+      "Kypsennä kannen alla matalalla teholla 4 tuntia tai korkealla 2 tuntia.",
+      "Kuutioi tuorejuusto ja sekoita chiliin viimeisen 30 minuutin aikana. Sekoita välillä, kunnes juusto on sulanut kermaiseksi.",
+      "Mausta suolalla ja pippurilla.",
+      "Tarjoile kermaviilin, juustoraasteen ja murskattujen tortillalastujen kanssa."
+    ],
+    "notes": ["Säilöttyjen vihreiden chilien sijaan voi käyttää 2 hienonnettua tuoretta vihreää chiliä tai jalapeñoa."]
+  },
+  {
+    "id": "kg-wonton-soup",
+    "title": "Wonton-keitto",
+    "description": "Kirkas liemi porsaanlihawontoneilla ja pak choilla.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Keitot",
+    "tags": ["liha", "kiinalainen", "keitto", "nyytit"],
+    "ingredients": [
+      "Wontonit:",
+      "200 g porsaan jauhelihaa",
+      "1 tl raastettua inkivääriä",
+      "1 rkl soijakastiketta",
+      "1 tl seesamiöljyä",
+      "24 wonton-taikinalevyä",
+      "Keitto:",
+      "1 l kanalientä",
+      "2 pak choita",
+      "1 rkl soijakastiketta",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Sekoita jauheliha, inkivääri, soijakastike ja seesamiöljy.",
+      "Nosta täytettä taikinalevyille ja taita nyyteiksi.",
+      "Kuumenna liemi hiljalleen kiehuvaksi, mausta soijakastikkeella ja lisää pak choi.",
+      "Keitä wontoneita liemessä 5 minuuttia.",
+      "Tarjoile kevätsipulilla koristeltuna."
+    ]
+  },
+  {
+    "id": "kg-worcestershire-marinade-sauce",
+    "title": "Worcestershire-marinadi",
+    "description": "Monikäyttöinen suolainen marinadi pihville tai kanalle.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["amerikkalainen", "grilli", "marinadi"],
+    "ingredients": [
+      "½ dl worcestershirekastiketta",
+      "2 rkl oliiviöljyä",
+      "2 rkl soijakastiketta",
+      "1 rkl fariinisokeria",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa kaikki ainekset kulhossa.",
+      "Kaada pihvin tai kanan päälle ja marinoi vähintään 30 minuuttia.",
+      "Jos haluat käyttää marinadia sivelyyn, keitä sitä 3 minuuttia.",
+      "Hävitä raa'an lihan kanssa ollut marinadi, ellei sitä ole keitetty."
+    ]
+  },
+  {
+    "id": "kg-yaki-udon-with-mushrooms",
+    "title": "Yaki udon sienillä",
+    "description": "Nopeat japanilaiset paistetut paksut nuudelit siitakesienillä ja kaalilla.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "japanilainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "400 g pakasteudon-nuudeleita",
+      "1 rkl rypsiöljyä",
+      "200 g siitakesieniä, viipaloituna",
+      "100 g valkokaalia, suikaloituna",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "1 tl seesamiöljyä",
+      "1 nori-levy, suikaleina",
+      "säilöttyä inkivääriä"
+    ],
+    "instructions": [
+      "Kypsennä udon kiehuvassa vedessä 2 minuuttia ja valuta.",
+      "Paista sieniä ja kaalia öljyssä kovalla lämmöllä 4 minuuttia.",
+      "Lisää udon, soijakastike ja mirin ja sekoittele 3 minuuttia.",
+      "Valuta päälle seesamiöljy ja ripottele pinnalle nori.",
+      "Tarjoile säilötyn inkiväärin kanssa."
+    ]
+  },
+  {
+    "id": "kg-yakisoba",
+    "title": "Yakisoba",
+    "description": "Japanilaiset festivaalityyliset paistetut nuudelit porsaalla ja kaalilla.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "japanilainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "150 g porsaan kylkeä, ohuina viipaleina",
+      "2½ dl valkokaalia, suikaloituna",
+      "1 porkkana, suikaloituna",
+      "300 g yakisoba-nuudeleita",
+      "3 rkl yakisobakastiketta",
+      "säilöttyä inkivääriä",
+      "aonori-merilevähiutaleita"
+    ],
+    "instructions": [
+      "Paista porsas öljyssä ruskeaksi.",
+      "Lisää kaali ja porkkana ja paista 3 minuuttia.",
+      "Lisää nuudelit ja yakisobakastike ja sekoittele 4 minuuttia.",
+      "Tarjoile säilötyn inkiväärin kanssa.",
+      "Ripottele pinnalle aonoria."
+    ]
+  },
+  {
+    "id": "kg-yellow-dal-with-cumin-rice-pairing",
+    "title": "Keltainen dal ja jeera-riisi",
+    "description": "Pelkistetty arki-illan keltainen dal.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja mungpapuja (mung dal)",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl kirkastettua voita (gheetä)",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 vihreä chili, hienonnettuna",
+      "1 rkl sitruunamehua",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman ja suolan kanssa vedessä sileäksi.",
+      "Kuumenna ghee ja paahda juustokumina ja chili.",
+      "Kaada mausteöljy dalin päälle.",
+      "Lisää sitruunamehu.",
+      "Koristele korianterilla ja tarjoile jeera-riisin kanssa."
+    ],
+    "notes": ["Vegaaninen versio: korvaa ghee öljyllä."]
+  },
+  {
+    "id": "kg-yogurt-berry-frozen-bark",
+    "title": "Jäinen jogurtti-marjalevy",
+    "description": "Pakastettu jogurttilevy marjoilla ja pistaaseilla, murrettuna paloiksi.",
+    "servings": 6,
+    "totalTimeMin": 195,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "gluteeniton", "kesä"],
+    "ingredients": [
+      "300 g kreikkalaista jogurttia",
+      "1 rkl hunajaa",
+      "120 g sekamarjoja",
+      "20 g pistaasipähkinöitä, rouhittuna"
+    ],
+    "instructions": [
+      "Sekoita jogurtti ja hunaja.",
+      "Levitä leivinpaperilla vuoratulle pellille ja ripottele päälle marjat ja pistaasit.",
+      "Pakasta kiinteäksi (noin 3 tuntia) ja murra sitten paloiksi."
+    ],
+    "notes": ["Säilytä pakastimessa tarjoiluun asti."]
+  },
+  {
+    "id": "kg-yorkshire-puddings",
+    "title": "Yorkshire puddingit",
+    "description": "Brittiläiset kuohkeat uunissa kohoavat taikinakupit paahtopaistin kanssa. Ohjeesta tulee 12 isoa.",
+    "servings": 12,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "brittiläinen", "uuniruoka"],
+    "ingredients": [
+      "140 g vehnäjauhoja",
+      "4 kananmunaa",
+      "2 dl maitoa",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna uuni niin kuumaksi kuin mahdollista, noin 230 asteeseen.",
+      "Kaada yorkshire pudding- tai muffinivuoan jokaiseen koloon noin 5 mm öljyä ja kuumenna vuoka uunissa.",
+      "Vatkaa munat jauhoihin ja lisää maito vatkaten sileäksi taikinaksi. Kaada kannuun.",
+      "Kun öljy on kuumaa, ota vuoka uunista ja kaada taikina tasaisesti koloihin – älä täytä niitä liian täyteen.",
+      "Nosta heti takaisin uuniin ja paista noin 20 minuuttia, kunnes puddingit ovat kohonneet ja ruskeita. Älä avaa uunin luukkua. Tarjoile heti."
+    ],
+    "notes": ["Ohjeella saa 12 isoa puddingia, joten paista erissä tai käytä useampaa vuokaa."]
+  },
+  {
+    "id": "kg-zha-jiang-mian",
+    "title": "Zha jiang mian – pekingiläiset lihakastikenuudelit",
+    "description": "Pekingiläiset nuudelit fermentoidussa papukastikkeessa haudutetun porsaanjauhelihan kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "kiinalainen", "nuudelit", "arkiruoka"],
+    "ingredients": [
+      "400 g tuoreita vehnänuudeleita",
+      "2 rkl rypsiöljyä",
+      "300 g porsaan jauhelihaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 rkl makeaa papupastaa (tianmianjiang)",
+      "2 rkl soijakastiketta",
+      "1 rkl shaoxing-riisiviiniä",
+      "1 rkl sokeria",
+      "1 kurkku, suikaloituna"
+    ],
+    "instructions": [
+      "Keitä nuudelit, valuta ja huuhtele.",
+      "Ruskista jauheliha valkosipulin kanssa öljyssä.",
+      "Lisää papupasta, soijakastike, riisiviini ja sokeri ja hauduta 10 minuuttia.",
+      "Lusikoi lihakastike nuudeleiden päälle.",
+      "Lisää päälle kurkkusuikaleet."
+    ]
+  },
+  {
+    "id": "kg-zucchini-fritters-with-dill",
+    "title": "Kesäkurpitsaletut tillillä",
+    "description": "Fetalla ja tillillä maustetut kesäkurpitsaletut.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "kesä", "nopea"],
+    "ingredients": [
+      "2 kesäkurpitsaa",
+      "½ tl suolaa",
+      "1 kananmuna",
+      "40 g vehnäjauhoja",
+      "30 g fetajuustoa, murusteltuna",
+      "1 rkl tilliä, hienonnettuna",
+      "oliiviöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Raasta kesäkurpitsat, suolaa kevyesti ja purista ylimääräinen neste pois.",
+      "Sekoita joukkoon kananmuna, jauhot, feta ja tilli.",
+      "Paista lusikallisia pannulla tilkassa öljyä kullanruskeiksi.",
+      "Tarjoile lämpiminä."
+    ],
+    "notes": ["Sopivat jogurtin ja sitruunan kanssa."]
+  }
+]

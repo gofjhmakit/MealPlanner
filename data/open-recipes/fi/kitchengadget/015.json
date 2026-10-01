@@ -1,0 +1,649 @@
+[
+  {
+    "id": "kg-steamed-edamame-with-sea-salt",
+    "title": "Edamamepavut merisuolalla",
+    "description": "Yksinkertainen japanilainen baarinapostelu.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "japanilainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "400 g pakasteedamamepapuja paloissa",
+      "1 rkl hiutalesuolaa",
+      "1 tl paahdettua seesamiöljyä"
+    ],
+    "instructions": [
+      "Keitä pavut suolalla maustetussa vedessä 4 minuuttia.",
+      "Valuta ja sekoita merisuolan kanssa.",
+      "Valuta päälle tilkka seesamiöljyä.",
+      "Tarjoile lämpiminä paloissaan ja lisää suolaa pöydässä."
+    ]
+  },
+  {
+    "id": "kg-steamed-fish-with-ginger-and-scallion",
+    "title": "Höyrytetty kala inkiväärillä ja kevätsipulilla",
+    "description": "Kantonilainen klassikko, jonka päälle kaadetaan kuuma öljy.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kala", "kiinalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "400 g kokonaista meribassia tai kalafileitä",
+      "3 cm pala inkivääriä, ohuina suikaleina",
+      "4 kevätsipulia, ohuina suikaleina",
+      "2 rkl soijakastiketta",
+      "1 rkl shaoxing-riisiviiniä",
+      "2 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Viillä kalan pintaan ja nosta se höyrytyslautaselle.",
+      "Lisää päälle inkivääri ja puolet kevätsipulista.",
+      "Höyrytä 10–12 minuuttia, kunnes kala irtoaa lohkoiksi.",
+      "Valuta päälle soijakastike ja riisiviini.",
+      "Lisää loput kevätsipulit. Kuumenna öljy savuavaksi ja kaada se kalan päälle."
+    ]
+  },
+  {
+    "id": "kg-steamed-noodles-with-scallion-and-soy",
+    "title": "Höyrytetyt nuudelit kevätsipuli-soijakastikkeella",
+    "description": "Pelkistetyt kantonilaiset höyrytetyt nuudelit.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "300 g tuoreita vehnänuudeleita",
+      "4 kevätsipulia, hienoksi viipaloituna",
+      "2 rkl rypsiöljyä",
+      "3 rkl soijakastiketta",
+      "1 tl sokeria",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Höyrytä nuudelit juuri kypsiksi.",
+      "Kuumenna öljy savuavaksi ja kaada kevätsipulien päälle.",
+      "Lisää kevätsipuliöljyyn soijakastike ja sokeri.",
+      "Sekoita nuudelit kastikkeeseen.",
+      "Mausta valkopippurilla."
+    ]
+  },
+  {
+    "id": "kg-steamed-vegetable-bao",
+    "title": "Höyrytetyt kasvisbaot",
+    "description": "Kuohkeat höyrytetyt hiivapullat pak choi-siitaketäytteellä.",
+    "servings": 4,
+    "totalTimeMin": 105,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nyytit"],
+    "ingredients": [
+      "Taikina:",
+      "300 g vehnäjauhoja",
+      "1 tl kuivahiivaa",
+      "1 tl sokeria",
+      "1,6 dl kädenlämpöistä vettä",
+      "Täyte:",
+      "1 rkl seesamiöljyä",
+      "200 g pak choita, hienonnettuna",
+      "100 g siitakesieniä, hienonnettuna",
+      "2 rkl soijakastiketta"
+    ],
+    "instructions": [
+      "Sekoita jauhot, hiiva, sokeri ja vesi ja vaivaa pehmeäksi taikinaksi. Kohota tunti.",
+      "Paista pak choi ja sienet seesamiöljyssä ja lisää soijakastike. Anna jäähtyä.",
+      "Jaa taikina 12 palaan, kauli kiekoiksi, nosta keskelle täytettä ja nypi reunat kiinni.",
+      "Asettele baot leivinpaperinpalojen päälle höyrytyskoriin ja höyrytä 12 minuuttia.",
+      "Tarjoile lämpiminä."
+    ],
+    "notes": ["Alkuperäisestä ainesluettelosta puuttui taikinan neste; veden määrä on arvioitu."]
+  },
+  {
+    "id": "kg-sweet-potato-black-bean-tacos",
+    "title": "Bataatti-mustapaputacot",
+    "description": "Uunibataattia ja mustapapuja maissitortilloissa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "meksikolainen", "palkokasvit"],
+    "ingredients": [
+      "500 g bataattia, kuutioituna",
+      "1 rkl oliiviöljyä",
+      "1 tl juustokuminaa",
+      "1 tlk (400 g) mustapapuja, valutettuna",
+      "suolaa",
+      "8 maissitortillaa",
+      "1 avokado, viipaloituna",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Paahda bataatti öljyn ja juustokuminan kanssa 220 asteessa pehmeäksi (noin 20 minuuttia).",
+      "Lämmitä pavut ripauksen suolaa kanssa.",
+      "Täytä tortillat bataatilla, pavuilla ja avokadolla.",
+      "Tarjoile limetin kanssa."
+    ],
+    "notes": ["Suikaloitu kaali sopii täytteeksi."]
+  },
+  {
+    "id": "kg-sweet-potato-with-masala-spiced-baked-beans",
+    "title": "Uunibataatti ja masalapavut",
+    "description": "Uunissa paistetut bataatit intialaisittain maustetuilla tomaattipavuilla.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "uuniruoka", "palkokasvit"],
+    "ingredients": [
+      "4 keskikokoista bataattia",
+      "1 tl rypsiöljyä",
+      "suolaa",
+      "1 keskikokoinen sipuli, ohuina viipaleina",
+      "1 tuore chili, hienonnettuna",
+      "5 cm pala tuoretta inkivääriä, kuorittuna ja raastettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl jauhettua korianteria",
+      "1 tl juustokuminaa",
+      "1 tl kurkumaa",
+      "3 rkl tomaattipyreetä",
+      "2 tlk (à 400 g) cannellinipapuja, valutettuna ja huuhdeltuna",
+      "1 kanelitanko",
+      "4 dl vettä",
+      "Tarjoiluun:",
+      "maustamatonta jogurttia",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180). Sivele bataatit ohuelti öljyllä, mausta ja paista uunivuoassa noin 60 minuuttia, kunnes ne ovat pehmeitä.",
+      "Kuullota paistamisen puolivälissä sipulia ohuelti öljytyllä pannulla mieto-keskilämmöllä 6–8 minuuttia pehmeäksi. Lisää tilkka vettä, jos se tarttuu.",
+      "Lisää chili, inkivääri ja valkosipuli ja paista minuutti. Sekoita joukkoon korianteri, juustokumina, kurkuma ja tomaattipyree ja paista vielä minuutti.",
+      "Lisää pavut, kanelitanko ja vesi. Kuumenna kiehuvaksi ja hauduta kannen alla 10 minuuttia, kunnes kastike sakenee hieman. Poista kanelitanko.",
+      "Viillä bataatteihin risti ja purista auki. Lusikoi päälle papuja ja lisää jogurttia ja korianteria."
+    ]
+  },
+  {
+    "id": "kg-tabbouleh",
+    "title": "Tabbouleh",
+    "description": "Raikas libanonilainen yrttisalaatti bulgurilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "lähi-itä", "salaatti"],
+    "ingredients": [
+      "120 g bulguria",
+      "1 iso nippu persiljaa, hienonnettuna",
+      "1 pieni nippu minttua, hienonnettuna",
+      "4 tomaattia, kuutioituna",
+      "4 kevätsipulia, viipaloituna",
+      "2 sitruunaa, mehuna",
+      "4 rkl oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota bulguria kiehuvassa vedessä 20 minuuttia ja valuta hyvin.",
+      "Yhdistä persilja, minttu, tomaatit ja kevätsipulit.",
+      "Mausta sitruunamehulla, oliiviöljyllä ja suolalla.",
+      "Kääntele joukkoon bulgur ja jäähdytä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-tahini-broccoli-crunch-salad",
+    "title": "Rapea parsakaalisalaatti tahinikastikkeella",
+    "description": "Rapsakkana pysyvä salaatti eväsrasiaan.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "eväät", "gluteeniton"],
+    "ingredients": [
+      "300 g parsakaalia, hienoksi pilkottuna",
+      "2 porkkanaa, raastettuna",
+      "60 g punakaalia, suikaloituna",
+      "40 g kurpitsansiemeniä",
+      "30 g rusinoita",
+      "Kastike:",
+      "2 rkl tahinia",
+      "1 rkl sitruunamehua",
+      "1 tl vaahterasiirappia",
+      "2 rkl vettä"
+    ],
+    "instructions": [
+      "Höyrytä parsakaalia 2 minuuttia ja jäähdytä.",
+      "Vatkaa tahini, sitruunamehu, vaahterasiirappi ja vesi.",
+      "Sekoita parsakaali, porkkana, kaali, siemenet ja rusinat.",
+      "Kääntele kastikkeeseen ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-taiwanese-beef-noodle-soup",
+    "title": "Taiwanilainen naudanliha-nuudelikeitto",
+    "description": "Täyteläinen punahaudutettu naudanliha nuudeleiden ja pak choin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["liha", "kiinalainen", "keitto", "nuudelit"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "500 g naudan etuselkää, kuutioituna",
+      "2 rkl doubanjiangia (chilipapupastaa)",
+      "2 tomaattia, pilkottuna",
+      "2 tähtianista",
+      "3 rkl soijakastiketta",
+      "1,5 l vettä",
+      "400 g vehnänuudeleita",
+      "2 pak choita",
+      "säilöttyä sinappikaalia"
+    ],
+    "instructions": [
+      "Ruskista liha öljyssä, lisää doubanjiang, tomaatit, tähtianis, soijakastike ja vesi ja hauduta kannen alla noin 90 minuuttia mureaksi.",
+      "Keitä nuudelit erikseen.",
+      "Ryöppää pak choit.",
+      "Jaa nuudelit kulhoihin ja kaada päälle haudutusliemi ja liha.",
+      "Tarjoile säilötyn sinappikaalin kanssa."
+    ]
+  },
+  {
+    "id": "kg-tartare-sauce",
+    "title": "Tartarkastike",
+    "description": "Klassinen kastike paistetulle tai uppopaistetulle kalalle.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "kala", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "2 rkl kapriksia, hienonnettuna",
+      "2 rkl maustekurkkua, hienonnettuna",
+      "1 rkl persiljaa, hienonnettuna",
+      "1 tl sitruunamehua",
+      "1 tl dijonsinappia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita majoneesi, kaprikset, kurkku ja persilja kulhossa.",
+      "Lisää sitruunamehu ja sinappi.",
+      "Mausta suolalla ja pippurilla.",
+      "Anna jäähtyä vähintään 15 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-teriyaki-beef-stir-fry",
+    "title": "Teriyaki-naudanlihawokki",
+    "description": "Naudanlihaa, vihreitä papuja ja munanuudeleita teriyakikastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "aasialainen", "nuudelit"],
+    "ingredients": [
+      "500 g vähärasvaista naudan ulkofileetä, ohuina viipaleina",
+      "½ tl chilihiutaleita",
+      "suolaa",
+      "200 g munanuudeleita",
+      "1 rkl rypsiöljyä",
+      "4 cm pala tuoretta inkivääriä, raastettuna",
+      "300 g vihreitä papuja, 2 cm:n paloina",
+      "3 rkl teriyakikastiketta"
+    ],
+    "instructions": [
+      "Laita liha kulhoon, lisää chilihiutaleet, mausta ja sekoita.",
+      "Keitä nuudelit pakkauksen ohjeen mukaan, valuta ja nosta sivuun.",
+      "Kuumenna öljy isossa wokissa ja paista inkivääriä kovalla lämmöllä 30 sekuntia. Lisää pavut ja paista 3–5 minuuttia. Nosta sivuun.",
+      "Paista liha erissä kovalla lämmöllä 1–2 minuuttia.",
+      "Palauta pavut wokkiin ja lisää nuudelit ja teriyakikastike. Sekoittele 1–2 minuuttia, kunnes kaikki on kuumaa."
+    ]
+  },
+  {
+    "id": "kg-teriyaki-salmon-bowl",
+    "title": "Teriyakilohikulho",
+    "description": "Tasapainoinen japanilainen lohi-riisikulho.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "japanilainen", "riisi", "kulho"],
+    "ingredients": [
+      "2 lohifileetä (à 150 g)",
+      "3 rkl teriyakikastiketta",
+      "300 g keitettyä lyhytjyväistä riisiä",
+      "200 g parsakaalia",
+      "säilöttyä inkivääriä",
+      "1 tl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Paista lohta pannulla nahkapuoli alaspäin 4 minuuttia.",
+      "Käännä, sivele teriyakikastikkeella ja paista vielä 3 minuuttia.",
+      "Höyrytä parsakaali.",
+      "Tarjoile lohi riisin päällä parsakaalin kanssa.",
+      "Koristele säilötyllä inkiväärillä ja seesaminsiemenillä."
+    ],
+    "notes": ["Gluteenittomana käytä gluteenitonta teriyakikastiketta."]
+  },
+  {
+    "id": "kg-teriyaki-sauce-homemade",
+    "title": "Kotitekoinen teriyakikastike",
+    "description": "Klassinen makea soijalasite grilliin ja wokkeihin.",
+    "servings": 8,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "japanilainen"],
+    "ingredients": [
+      "4 rkl soijakastiketta",
+      "4 rkl miriniä",
+      "2 rkl sakea",
+      "1 rkl sokeria",
+      "1 tl raastettua inkivääriä",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kattilaan.",
+      "Hauduta keskilämmöllä 8 minuuttia, kunnes kastike kiiltää.",
+      "Anna jäähtyä kokonaan.",
+      "Säilytä purkissa jääkaapissa."
+    ]
+  },
+  {
+    "id": "kg-thai-basil-beef-pad-kra-pao",
+    "title": "Pad kra pao – thaibasilikajauheliha",
+    "description": "Tulinen thaimaalainen basilikajauheliha riisin ja paistetun munan kanssa.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["liha", "thaimaalainen", "nopea", "riisi"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 pientä punaista chiliä, hienonnettuna",
+      "300 g naudan jauhelihaa",
+      "3 rkl osterikastiketta",
+      "1 rkl soijakastiketta",
+      "1 rkl kalakastiketta",
+      "kourallinen thaibasilikan lehtiä",
+      "2 kananmunaa",
+      "2 dl jasmiiniriisiä, keitettynä"
+    ],
+    "instructions": [
+      "Paista valkosipulia ja chiliä öljyssä hetki.",
+      "Lisää jauheliha ja ruskista.",
+      "Mausta osterikastikkeella, soijakastikkeella ja kalakastikkeella.",
+      "Nosta liedeltä ja kääntele joukkoon basilika.",
+      "Paista kananmunat ja tarjoile riisin ja jauhelihan kanssa."
+    ]
+  },
+  {
+    "id": "kg-thai-basil-chicken-noodles",
+    "title": "Thaibasilika-kananuudelit",
+    "description": "Pad kra pao kohtaa nuudelit.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "200 g riisinuudeleita",
+      "2 rkl rypsiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 pientä punaista chiliä, hienonnettuna",
+      "250 g broilerin jauhelihaa",
+      "2 rkl kalakastiketta",
+      "1 rkl osterikastiketta",
+      "kourallinen thaibasilikan lehtiä"
+    ],
+    "instructions": [
+      "Liota riisinuudelit ja valuta.",
+      "Paista valkosipulia ja chiliä öljyssä.",
+      "Lisää jauheliha ja paista kypsäksi.",
+      "Lisää nuudelit, kalakastike ja osterikastike ja sekoittele.",
+      "Nosta liedeltä ja kääntele joukkoon basilika."
+    ]
+  },
+  {
+    "id": "kg-thai-cashew-chicken-gai-pad-med-mamuang",
+    "title": "Thaimaalainen cashewkana (gai pad med mamuang)",
+    "description": "Makeansuolainen thaimaalainen kana-cashewwokki.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "400 g broilerin reisifileitä, kuutioituna",
+      "4 kuivattua chiliä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 punainen paprika, kuutioituna",
+      "3 rkl osterikastiketta",
+      "1 rkl soijakastiketta",
+      "100 g paahdettuja cashewpähkinöitä",
+      "2 kevätsipulia, paloina"
+    ],
+    "instructions": [
+      "Paista kana öljyssä kullanruskeaksi ja nosta sivuun.",
+      "Paista kuivattuja chilejä ja valkosipulia hetki.",
+      "Palauta kana ja lisää paprika ja kastikkeet.",
+      "Nosta liedeltä ja sekoita joukkoon cashewpähkinät.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-thai-chili-garlic-sauce-nam-jim",
+    "title": "Nam jim – thaimaalainen chili-valkosipulikastike",
+    "description": "Monikäyttöinen thaimaalainen chilidippi.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "thaimaalainen"],
+    "ingredients": [
+      "2 rkl sokeria",
+      "2 rkl lämmintä vettä",
+      "4 rkl riisiviinietikkaa",
+      "2 rkl chilihiutaleita",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 rkl soijakastiketta"
+    ],
+    "instructions": [
+      "Liuota sokeri lämpimään veteen.",
+      "Sekoita joukkoon etikka, chili, valkosipuli ja soijakastike.",
+      "Anna maustua 15 minuuttia.",
+      "Lisää tarvittaessa chiliä. Säilyy jääkaapissa 2 viikkoa."
+    ]
+  },
+  {
+    "id": "kg-thai-coconut-lime-noodles",
+    "title": "Thaimaalaiset kookos-limettinuudelit",
+    "description": "Kermaisen kirpeä riisinuudelikulho.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "thaimaalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "250 g riisinuudeleita",
+      "2 dl kookosmaitoa",
+      "1 tl raastettua inkivääriä",
+      "1 rkl soijakastiketta",
+      "2 rkl limettimehua",
+      "100 g sokeriherneitä",
+      "kourallinen tuoretta basilikaa",
+      "1 punainen chili, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä riisinuudelit ja valuta.",
+      "Lämmitä kookosmaito inkiväärin kanssa.",
+      "Lisää soijakastike ja limettimehu.",
+      "Sekoita nuudelit kookos-limettikastikkeeseen.",
+      "Lisää päälle sokeriherneet, basilika ja chili."
+    ]
+  },
+  {
+    "id": "kg-thai-coconut-mushroom-soup",
+    "title": "Thaimaalainen kookos-sienikeitto",
+    "description": "Kasvipohjainen tom kha -tyylinen keitto.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "thaimaalainen", "keitto", "sienet"],
+    "ingredients": [
+      "5 dl kasvislientä",
+      "2 sitruunaruohon vartta, murskattuna",
+      "4 kaffirlimetin lehteä",
+      "300 g sekasieniä",
+      "4 dl kookosmaitoa",
+      "1 rkl soijakastiketta",
+      "2 rkl limettimehua",
+      "kourallinen thaibasilikaa"
+    ],
+    "instructions": [
+      "Hauduta lientä sitruunaruohon ja limetinlehtien kanssa.",
+      "Lisää sienet ja keitä 5 minuuttia.",
+      "Sekoita joukkoon kookosmaito varovasti.",
+      "Mausta soijakastikkeella ja limettimehulla.",
+      "Viimeistele thaibasilikalla."
+    ]
+  },
+  {
+    "id": "kg-thai-coconut-rice",
+    "title": "Thaimaalainen kookosriisi",
+    "description": "Tuoksuva kookosmaidossa keitetty jasmiiniriisi.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "thaimaalainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "300 g jasmiiniriisiä",
+      "2 dl kookosmaitoa",
+      "2 dl vettä",
+      "1 tl suolaa",
+      "1 pandaninlehti (valinnainen)"
+    ],
+    "instructions": [
+      "Huuhtele riisi, kunnes vesi on kirkasta.",
+      "Laita riisi, kookosmaito, vesi, suola ja pandaninlehti kattilaan.",
+      "Hauduta kannen alla miedolla lämmöllä 18 minuuttia.",
+      "Anna seistä liedeltä nostettuna 10 minuuttia.",
+      "Kuohkeuta ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-thai-corn-and-tomato-salad",
+    "title": "Thaimaalainen maissi-tomaattisalaatti",
+    "description": "Savuisa maissi-tomaattisalaatti thaibasilikalla.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "thaimaalainen", "salaatti", "nopea"],
+    "ingredients": [
+      "2 maissintähkää (jyvät irrotettuna)",
+      "200 g kirsikkatomaatteja, puolitettuna",
+      "1 salottisipuli, viipaloituna",
+      "2 rkl limettimehua",
+      "1 rkl soijakastiketta",
+      "1 tl palmusokeria",
+      "kourallinen thaibasilikaa"
+    ],
+    "instructions": [
+      "Paahda maissinjyviä kuivalla pannulla 3 minuuttia.",
+      "Yhdistä tomaattien ja salottisipulin kanssa.",
+      "Vatkaa limettimehu, soijakastike ja palmusokeri.",
+      "Sekoita salaattiin kastike ja thaibasilika.",
+      "Tarjoile lämpimänä tai huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "kg-thai-cucumber-relish",
+    "title": "Ajad – thaimaalainen kurkkurelissi",
+    "description": "Raikas relissi satayn ja currien kanssa.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "thaimaalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 kurkkua, pieninä kuutioina",
+      "2 rkl etikkaa",
+      "1 rkl sokeria",
+      "1 salottisipuli, hienonnettuna",
+      "1 pieni punainen chili, hienonnettuna",
+      "1 rkl korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuutioi kurkut pieniksi.",
+      "Liuota sokeri etikkaan.",
+      "Sekoita kurkut, salottisipuli ja chili etikkaliemeen.",
+      "Kääntele joukkoon korianteri.",
+      "Tarjoile satayn tai currien kanssa."
+    ]
+  },
+  {
+    "id": "kg-thai-drunken-noodles-pad-kee-mao",
+    "title": "Pad kee mao – thaimaalaiset \"humalaiset\" nuudelit",
+    "description": "Tulinen basilika-riisinuudeliwokki kanalla.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "200 g leveitä riisinuudeleita",
+      "2 rkl rypsiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 pientä punaista chiliä, hienonnettuna",
+      "200 g broilerin reisifileetä, viipaloituna",
+      "2 rkl osterikastiketta",
+      "1 rkl kalakastiketta",
+      "1 rkl soijakastiketta",
+      "kourallinen thaibasilikan lehtiä"
+    ],
+    "instructions": [
+      "Liota nuudeleita, kunnes ne taipuvat.",
+      "Paista valkosipulia ja chiliä öljyssä.",
+      "Lisää kana ja paista kypsäksi.",
+      "Lisää nuudelit ja kastikkeet ja sekoittele.",
+      "Nosta liedeltä ja kääntele joukkoon basilika."
+    ]
+  },
+  {
+    "id": "kg-thai-glass-noodle-salad-yum-woon-sen",
+    "title": "Yum woon sen – thaimaalainen lasinuudelisalaatti",
+    "description": "Kirpeä lasinuudelisalaatti katkaravuilla.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "thaimaalainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "150 g lasinuudeleita (mungpapunuudeleita)",
+      "200 g katkarapuja, haudutettuna",
+      "150 g kirsikkatomaatteja, puolitettuna",
+      "2 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "1 rkl palmusokeria",
+      "kourallinen tuoretta minttua",
+      "2 rkl paahdettuja maapähkinöitä",
+      "1 salottisipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Ryöppää lasinuudelit ja huuhtele kylmällä vedellä.",
+      "Vatkaa kalakastike, limettimehu ja palmusokeri.",
+      "Sekoita nuudelit, katkaravut ja tomaatit.",
+      "Lisää kastike ja minttu.",
+      "Viimeistele maapähkinöillä ja salottisipulilla."
+    ]
+  },
+  {
+    "id": "kg-thai-green-curry-with-chicken",
+    "title": "Thaimaalainen vihreä kanacurry",
+    "description": "Tuoksuva vihreä kookoscurry kanalla, munakoisolla ja bambunversoilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "1 tlk (400 ml) kookosmaitoa",
+      "3 rkl vihreää currytahnaa",
+      "400 g broilerin reisifileitä, kuutioituna",
+      "4 thaimaalaista munakoisoa (tai 1 tavallinen), paloina",
+      "1 tlk (225 g) bambunversoja, valutettuna",
+      "1–2 rkl kalakastiketta",
+      "1 tl palmusokeria",
+      "kourallinen thaibasilikaa",
+      "Tarjoiluun:",
+      "3 dl jasmiiniriisiä, keitettynä"
+    ],
+    "instructions": [
+      "Paista currytahnaa kookosmaidon paksussa pintakermassa 2 minuuttia.",
+      "Lisää kana ja kypsennä 5 minuuttia.",
+      "Lisää loput kookosmaidosta ja kasvikset.",
+      "Hauduta 12 minuuttia.",
+      "Mausta kalakastikkeella ja palmusokerilla ja viimeistele basilikalla. Tarjoile riisin kanssa."
+    ]
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "wikibooks-atomic-fudge-cake",
+    "title": "Mehevä suklaatäytekakku fudge-kuorrutteella",
+    "description": "Kaksikerroksinen kostea suklaakakku, joka täytetään ja kuorrutetaan suklaaganachella.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kakku", "juhla"],
+    "ingredients": [
+      "Kakku:",
+      "4½ dl sokeria",
+      "4 dl vehnäjauhoja",
+      "4 dl kaakaojauhetta",
+      "1½ tl ruokasoodaa",
+      "1½ tl leivinjauhetta",
+      "1 tl suolaa",
+      "2 kananmunaa",
+      "2½ dl maitoa",
+      "1¼ dl rypsiöljyä",
+      "2 tl vaniljauutetta",
+      "2½ dl kiehuvaa vettä",
+      "Kuorrute:",
+      "2 rkl kaakaojauhetta",
+      "200 g tummaa suklaata",
+      "2 rkl kiehuvaa vettä",
+      "1 rkl tomusokeria",
+      "1½ dl kuohukermaa"
+    ],
+    "instructions": [
+      "Sekoita kakun kuivat aineet isossa kulhossa, mieluiten siivilöiden.",
+      "Lisää munat, maito, vanilja ja öljy ja sekoita hyvin. Lisää kiehuva vesi ja sekoita, kunnes taikinassa on paljon pieniä kuplia. Taikina on hyvin ohutta.",
+      "Kaada taikina kahteen voideltuun 23 cm:n pyöreään vuokaan.",
+      "Paista 180 asteessa noin 30 minuuttia (kiertoilmalla noin 20 minuuttia), kunnes tikku tulee ulos puhtaana. Älä paista liian kauan, ettei kakku kuivu.",
+      "Anna pohjien jäähtyä kokonaan ja kumoa ne vuoista.",
+      "Sulata suklaa vesihauteessa.",
+      "Sekoita tomusokeri ja kaakao pienessä kulhossa ja lisää kiehuva vesi.",
+      "Sekoita kaakaoseos sulaneeseen suklaaseen.",
+      "Lisää kerma nopeasti ja sekoita tasaiseksi.",
+      "Täytä ja kuorruta kakku heti. Laita reilusti kuorrutetta pohjien väliin.",
+      "Anna kakun jähmettyä jääkaapissa.",
+      "Lämmitä palat halutessasi mikrossa noin 20 sekuntia, jolloin kuorrute sulaa kakkuun. Tarjoa halutessasi jäätelön kanssa."
+    ],
+    "notes": ["Laadukas suklaa ja kaakao tekevät suuren eron."]
+  },
+  { "id": "wikibooks-atropellado-de-coco-coconut-and-sweet-potato-dessert", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-atyever-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-au-jus-sandwich",
+    "title": "French dip -paahtopaistileipä liemessä",
+    "description": "Haudutuspadassa mureaksi kypsennetty naudanliha patongissa, kastettavaksi lihaliemeen.",
+    "servings": 4,
+    "totalTimeMin": 360,
+    "category": "Pääruoat",
+    "tags": ["liha", "amerikkalainen", "leipä"],
+    "ingredients": [
+      "3 rkl vehnäjauhoja",
+      "1–1,4 kg naudan paistia",
+      "1 lihaliemikuutio",
+      "5 dl lihalientä (consommé)",
+      "5 dl ranskalaista sipulikeittoa",
+      "250 g voita",
+      "5 dl olutta (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "4 patonkia tai sämpylää"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset leipiä lukuun ottamatta haudutuspataan ja hauduta vähintään 6 tuntia, jotta liha muuttuu mureaksi.",
+      "Revi tai viipaloi liha ja tarjoa halkaistuissa leivissä.",
+      "Kasta leivät liemeen etukäteen tai tarjoa liemi kulhossa leipien vieressä kastettavaksi."
+    ],
+    "notes": ["Leivät voi paahtaa ja voidella ennen lihan lisäämistä. Juusto, piparjuuri tai sinappi sopivat lisukkeiksi."]
+  },
+  {
+    "id": "wikibooks-aubergine-and-onion-vegetable-pie",
+    "title": "Munakoiso-sipulipiiras",
+    "description": "Murotaikinapiiras munakoisolla, sipulilla, sienillä ja tomaatilla juustokuorrutteella.",
+    "servings": 4,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "piirakka", "uuniruoka"],
+    "ingredients": [
+      "Pohja:",
+      "250 g vehnäjauhoja",
+      "100 g voita, pehmeänä",
+      "1 kananmuna",
+      "2–3 rkl haaleaa vettä",
+      "ripaus suolaa",
+      "Täyte:",
+      "1–2 munakoisoa",
+      "1–2 sipulia",
+      "4 tomaattia",
+      "150 g herkkusieniä",
+      "1 rkl öljyä tai voita",
+      "1 kananmunan keltuainen",
+      "½ dl maitoa",
+      "½ dl kuohukermaa",
+      "1½ dl juustoraastetta"
+    ],
+    "instructions": [
+      "Laita jauhot isoon kulhoon. Lisää voi ja nypi sormin tasaiseksi.",
+      "Lisää muna ja vettä vähitellen ja vaivaa, kunnes taikina on pehmeää ja sileää mutta ei tahmeaa.",
+      "Leikkaa kasvikset ohuiksi viipaleiksi.",
+      "Ruskista sipulit ja munakoisot öljyssä tai voissa, sitten sienet. Tomaatit jätetään raaoiksi.",
+      "Kauli taikina 3–5 mm paksuksi.",
+      "Voitele piirakkavuoka ja nosta taikina siihen. Pistele pohja haarukalla ja peitä foliolla.",
+      "Esipaista pohjaa noin 10 minuuttia 200-asteisessa uunissa.",
+      "Ota pohja uunista ja asettele kasvikset sen päälle haluamallasi tavalla.",
+      "Sekoita keltuainen, maito ja kerma ja kaada kasvisten päälle.",
+      "Ripottele pinnalle juustoraaste.",
+      "Paista 15–20 minuuttia 200 asteessa."
+    ]
+  },
+  {
+    "id": "wikibooks-austrian-apricot-dumplings-marillenkndel",
+    "title": "Marillenknödel – itävaltalaiset aprikoosimykyt",
+    "description": "Rahkataikinaan käärityt aprikoosit, jotka keitetään ja pyöritellään voissa paahdetuissa korppujauhoissa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "itävaltalainen", "aprikoosi"],
+    "ingredients": [
+      "Taikina:",
+      "250 g maitorahkaa",
+      "1 kananmuna",
+      "3–4 rkl mannasuurimoita",
+      "ripaus suolaa",
+      "vähintään 5 rkl vehnäjauhoja",
+      "Täyte:",
+      "10 pientä aprikoosia",
+      "10 sokeripalaa",
+      "Murut:",
+      "5 rkl voita",
+      "5 dl korppujauhoja",
+      "5 rkl sokeria",
+      "kanelia",
+      "Tarjoiluun:",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Sekoita rahka ja muna leveässä kulhossa. Lisää mannasuurimot ja ripaus suolaa.",
+      "Anna turvota noin 20 minuuttia. Lisää sen verran jauhoja, että taikinasta tulee sileää eikä tahmeaa. Anna levätä vielä 10 minuuttia.",
+      "Halkaise aprikoosit, poista kivet ja laita tilalle sokeripala. Painele puolikkaat takaisin yhteen.",
+      "Kiehauta isossa kattilassa suolalla maustettua vettä.",
+      "Jaa taikina 10 osaan ja taputtele niistä jauhotetuin käsin litteitä kiekkoja. Kääri jokainen aprikoosi taikinaan ja pyörittele käsien välissä pyöreäksi mykyksi. Varmista, ettei taikinaan jää reikiä.",
+      "Laske mykyt varovasti kiehuvaan veteen. Kun vesi kiehuu uudelleen, laske lämpöä ja keitä hiljalleen, kunnes mykyt nousevat pintaan. Peitä kattila ja anna hautua vielä noin 4 minuuttia.",
+      "Kuumenna sillä välin voi pannulla ja paahda korppujauhot, sokeri ja kaneli vaaleanruskeiksi.",
+      "Valuta mykyt ja pyörittele ne paahdetuissa muruissa.",
+      "Tarjoa loppujen murujen kanssa reilusti tomusokerilla siivilöitynä."
+    ]
+  },
+  {
+    "id": "wikibooks-austrian-meatloaf-faschierter-braten",
+    "title": "Itävaltalainen lihamureke (Faschierter Braten)",
+    "description": "Perinteinen sika-nautajauhelihamureke perunamuusin ja paahdettujen sipulirenkaiden kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "itävaltalainen", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "1 sämpylä, kuutioituna",
+      "1¼ dl maitoa",
+      "½ sipulia, pieneksi kuutioituna",
+      "500 g sika-nautajauhelihaa",
+      "1 kananmuna",
+      "1¼ dl korppujauhoja",
+      "5 dl lihalientä tai kasvislientä",
+      "suolaa",
+      "mustapippuria",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 tl meiramia",
+      "Tarjoiluun:",
+      "perunamuusia",
+      "paahdettuja sipulirenkaita",
+      "salaattia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Liota leipäkuutiot maidossa.",
+      "Kuullota sipuli pannulla keskilämmöllä kullankeltaiseksi ja siirrä jauhelihan joukkoon.",
+      "Lisää liotettu leipä, muna ja korppujauhot. Mausta suolalla, pippurilla, meiramilla ja valkosipulilla ja sekoita kiinteäksi massaksi.",
+      "Muotoile massasta mureke ja nosta uunivuokaan. Kaada liemi vuokaan murekkeen ympärille.",
+      "Paista noin 40 minuuttia kullanruskeaksi.",
+      "Tarjoa kuumana perunamuusin, sipulirenkaiden ja salaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-austrian-napkin-dumpling-serviettenkndel",
+    "title": "Serviettenknödel – itävaltalainen leipämykky",
+    "description": "Liinassa keitetty leipäkääryle, joka viipaloidaan paistien ja patojen lisukkeeksi.",
+    "servings": 6,
+    "totalTimeMin": 110,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "itävaltalainen", "leipä"],
+    "ingredients": [
+      "250 g kuivahtanutta vaaleaa leipää, kuutioituna",
+      "2 kananmunaa",
+      "3 dl täysmaitoa",
+      "60 g voita",
+      "1 sipuli, hienonnettuna",
+      "2 tl suolaa",
+      "½–1 nippu lehtipersiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Sekoita maito, munat ja suola. Kaada seos leipäkuutioiden ja persiljan päälle isossa kulhossa ja sekoita niin, että leipä kostuu mahdollisimman hyvin. Anna seistä.",
+      "Kuullota sipuli voissa. Anna jäähtyä hieman, ettei muna kypsy, ja sekoita leipäseokseen.",
+      "Anna seoksen seistä tunti ja sekoita kerran tai kahdesti, jotta leipä imee nesteen joka puolelta.",
+      "Kastele puhdas puuvillainen keittiöliina. Levitä se auki ja nosta leipämassa keskelle.",
+      "Muotoile massasta noin 6 cm paksu tanko. Kääri se tiukasti liinaan ja sido päät narulla. Sido halutessasi myös keskeltä.",
+      "Kiehauta iso kattila vettä ja lisää suolaa. Laske mykky veteen ja keitä 40 minuuttia.",
+      "Nosta mykky leikkuulaudalle, poista narut ja avaa liina.",
+      "Leikkaa toisesta päästä noin 1 cm:n viipaleita vain tarvittava määrä kerrallaan, ettei mykky jäähdy."
+    ],
+    "notes": ["Sopii hanhen, ankan, porsaanpaistin, gulassin ja sienimuhennoksen lisukkeeksi."]
+  },
+  {
+    "id": "wikibooks-avocado-coconut-smoothie",
+    "title": "Avokado-kookossmoothie",
+    "description": "Kermainen smoothie avokadosta, kookosmaidosta ja hunajasta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "smoothie"],
+    "ingredients": [
+      "1 kypsä avokado",
+      "1 kourallinen pinaattia (valinnainen)",
+      "1 rkl hunajaa",
+      "2½ dl kookosmaitoa",
+      "jääpaloja"
+    ],
+    "instructions": [
+      "Soseuta kookosmaito, avokado, hunaja ja pinaatti tehosekoittimessa tasaiseksi.",
+      "Lisää jäät ja tarjoa kylmänä."
+    ],
+    "notes": ["Älä käytä kookosvettä. Ohenna lisäämällä kookosmaitoa, paksunna lisäämällä jäitä."]
+  },
+  {
+    "id": "wikibooks-avocado-relish",
+    "title": "Avokadotahna",
+    "description": "Yksinkertainen survottu avokado sitruunalla ja paprikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "nopea", "avokado"],
+    "ingredients": [
+      "2–3 avokadoa",
+      "paprikajauhetta",
+      "1 tl sitruunamehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kovverra avokadojen hedelmäliha kuoresta ja poista kivet.",
+      "Survo avokado muiden ainesten kanssa.",
+      "Anna seistä 5–10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-awaze-tibs-spicy-ethiopian-meat-stir-fry",
+    "title": "Awaze tibs – tulinen etiopialainen lihapannu",
+    "description": "Ohuet liha-suikaleet paistettuina tulisessa berbere-awaze-kastikkeessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "etiopialainen", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "700 g naudan- tai lampaanlihaa, ohuina suikaleina",
+      "1 iso sipuli, ohuina viipaleina",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 rkl berbere-maustesekoitusta",
+      "1 rkl tomaattipyreetä",
+      "1 rkl paprikajauhetta",
+      "1 rkl cayennepippuria",
+      "1 rkl awaze-tahnaa",
+      "1 rkl soijakastiketta",
+      "1 rkl etikkaa",
+      "1 tl suolaa",
+      "tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa pannussa tai wokissa keskikorkealla lämmöllä.",
+      "Paista lihaa 3–4 minuuttia ruskeaksi ja kypsäksi. Nosta liha sivuun.",
+      "Kuullota samassa pannussa sipulia ja valkosipulia 2–3 minuuttia.",
+      "Lisää berbere, tomaattipyree, paprikajauhe ja cayenne ja sekoita.",
+      "Palauta liha pannulle ja sekoita.",
+      "Lisää awaze, soijakastike, etikka ja suola ja sekoita.",
+      "Paista vielä 2–3 minuuttia, kunnes kastike sakeutuu lihan pintaan.",
+      "Tarkista maku ja ripottele päälle korianteria."
+    ],
+    "notes": ["Tarjoa injeran, riisin tai leivän kanssa. Tulisuutta voi säätää cayennen ja berberen määrällä."]
+  },
+  {
+    "id": "wikibooks-ayam-goreng-mentega-fried-chicken-in-sweet-butter-sauce",
+    "title": "Ayam goreng mentega – kana makeassa voikastikkeessa",
+    "description": "Indonesialainen friteerattu kana kecap manis -voikastikkeessa.",
+    "servings": 5,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kana", "indonesialainen", "friteerattu"],
+    "ingredients": [
+      "1 keskikokoinen broileri, 12–16 palaan paloiteltuna",
+      "2 sitruunan mehu",
+      "2 tl suolaa",
+      "5 dl öljyä friteeraukseen",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "1 pieni sipuli, ohuina viipaleina",
+      "4 rkl voita",
+      "2 rkl worcestershirekastiketta",
+      "2 rkl soijakastiketta",
+      "2 rkl kiinalaista ruokaviiniä (shaoxing)",
+      "8 rkl makeaa soijakastiketta (kecap manis)",
+      "2 limettiä, lohkoina"
+    ],
+    "instructions": [
+      "Mausta broilerinpalat suolalla, kääntele sitruunamehussa ja anna marinoitua 15–20 minuuttia.",
+      "Kuumenna öljy noin 180 asteeseen ja paista broilerit kullanruskeiksi. Nosta valumaan.",
+      "Kuullota valkosipulia ja sipulia voissa minuutti tai kaksi. Lisää muut kastikkeen ainekset.",
+      "Paista sekoittaen minuutti ja lisää broilerinpalat. Kääntele kastikkeessa.",
+      "Tarjoa kuumana limettilohkojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-ayamase-jollof-rice",
+    "title": "Ayamase-jollofriisi",
+    "description": "Nigerialainen riisi vihreästä paprika-habanerokastikkeesta, lihasta ja savumakrillista.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "kala", "nigerialainen", "riisi"],
+    "ingredients": [
+      "1,5 kg sekalaista naudanlihaa (lihaa ja sisäelimiä), pieninä paloina",
+      "8 keskikokoista vihreää paprikaa, siemenet poistettuina",
+      "12 pientä habanero-chiliä, siemenet poistettuina",
+      "1 keskikokoinen sipuli",
+      "2½ dl palmuöljyä",
+      "2 rkl iru-papumaustetta (fermentoitu johanneksenleipäpapu)",
+      "3 liemikuutiota",
+      "2 rkl jauhettua kuivattua katkarapua",
+      "½ rkl suolaa",
+      "2½ dl lihalientä",
+      "6 dl riisiä, huuhdottuna",
+      "2 savumakrillifileetä, ruodottuina",
+      "naudan pötsiä (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä lihapalat mureiksi ja ruskista ne öljyssä. Pane sivuun.",
+      "Soseuta paprikat, habanerot ja sipuli karkeaksi tahnaksi.",
+      "Kuumenna palmuöljy kattilassa kovalla lämmöllä. Lisää paprikatahna ja kypsennä sekoittaen.",
+      "Lisää iru, liemikuutiot, katkarapujauhe ja suola. Keitä noin 10 minuuttia usein sekoittaen.",
+      "Lisää liemi ja sen verran vettä, että riisi kypsyy siinä. Kuumenna kiehuvaksi ja lisää riisi.",
+      "Lisää halutessasi pötsi. Peitä ja keitä, kunnes riisi on kypsää.",
+      "Sekoita joukkoon savumakrilli ja anna lämmetä muutama minuutti.",
+      "Sekoita joukkoon paistettu liha ja nosta liedeltä."
+    ]
+  },
+  { "id": "wikibooks-ayaraya-ji-nigerian-pigeon-peas-and-yam", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-ayaraya-oka-nigerian-pigeon-pea-and-corn-porridge", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-ayib-ethiopian-fresh-cheese",
+    "title": "Ayib – etiopialainen tuorejuusto",
+    "description": "Mieto, mureneva kotitekoinen raejuustomainen juusto maidosta ja sitruunamehusta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 210,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "etiopialainen", "juusto", "gluteeniton"],
+    "ingredients": [
+      "1 l täysmaitoa",
+      "½ dl sitruunamehua tai etikkaa",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Kaada maito isoon kattilaan ja kuumenna keskimiedolla lämmöllä välillä sekoittaen, ettei maito pala pohjaan.",
+      "Kuumenna, kunnes maito juuri ja juuri poreilee. Älä keitä.",
+      "Laske lämpö miedoksi ja lisää sitruunamehu tai etikka hitaasti koko ajan sekoittaen. Maito juoksettuu ja erottuu juustomassaksi ja heraksi.",
+      "Sekoita varovasti vielä muutama minuutti, kunnes hera kirkastuu ja juustomassa paakkuuntuu.",
+      "Vuoraa siivilä kaksinkertaisella harsokankaalla ja aseta se ison kulhon päälle.",
+      "Kaada juoksettunut maito siivilään ja anna heran valua.",
+      "Kokoa kankaan kulmat nyytiksi ja ripusta se valumaan noin tunniksi.",
+      "Purista nyyttiä kevyesti, jotta loppu hera valuu pois.",
+      "Siirrä juusto kulhoon, ripottele päälle suola ja sekoita.",
+      "Peitä ja jäähdytä jääkaapissa vähintään 2 tuntia."
+    ],
+    "notes": ["Säilyy peitettynä jääkaapissa 3–4 päivää. Heran voi käyttää leivontaan."]
+  },
+  {
+    "id": "wikibooks-ayran-turkish-yogurt-drink",
+    "title": "Ayran – turkkilainen jogurttijuoma",
+    "description": "Raikas, suolainen jogurttijuoma kebabin ja piiraiden kanssa.",
+    "servings": 2,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "turkkilainen", "nopea"],
+    "ingredients": [
+      "3 dl maustamatonta jogurttia",
+      "4 dl kylmää vettä",
+      "suolaa",
+      "kuivattua minttua, murskattuna (valinnainen)",
+      "jääpaloja"
+    ],
+    "instructions": [
+      "Vatkaa jogurtti kulhossa tasaiseksi. Lisää vesi ja vatkaa, kunnes seos on täysin tasainen. Voit myös sekoittaa juoman tehosekoittimessa.",
+      "Mausta suolalla ja mintulla. Jäähdytä hyvin ja tarjoa korkeista laseista jääpalojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-azteca-aztec-inspired-bean-soup",
+    "title": "Atsteekkien papukeitto",
+    "description": "Helppo ja täyttävä keitto säilykemaissista, kidney- ja mustista pavuista chilillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "meksikolainen", "keitto", "nopea"],
+    "ingredients": [
+      "1 tlk (n. 400 g) maissia",
+      "1 tlk (n. 400 g) kidneypapuja",
+      "1 tlk (n. 400 g) mustia papuja",
+      "½ sipulia, hienonnettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "6 pientä kuivattua chiliä, hienonnettuna",
+      "sinapinsiemeniä",
+      "suolaa",
+      "mustapippuria",
+      "1,2 l vettä"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset liemineen kattilaan.",
+      "Lisää vesi (kolmen tölkin verran).",
+      "Keitä noin 20 minuuttia, kunnes sipuli on pehmeää ja maut ovat sekoittuneet."
+    ]
+  },
+  {
+    "id": "wikibooks-baba-ganoush",
+    "title": "Baba ganoush",
+    "description": "Savuinen munakoiso-tahinidippi pitaleivän kanssa.",
+    "servings": 10,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "lähi-itä", "dippi", "munakoiso"],
+    "ingredients": [
+      "1 iso munakoiso (450–700 g)",
+      "2 rkl tahinia",
+      "1 limetin tai sitruunan mehu",
+      "1 valkosipulinkynsi, murskattuna",
+      "3 rkl oliiviöljyä",
+      "½ tl suolaa",
+      "paprikajauhetta tai cayennepippuria koristeluun"
+    ],
+    "instructions": [
+      "Paahda munakoiso niin, että sisus on täysin kypsä ja kuori palanut ja helposti irtoava. Pistele munakoiso ja grillaa sitä muutaman sentin päässä grillivastuksesta 3–4 minuutin välein käännellen. Hävitä valuva neste.",
+      "Kaavi kuori pois. Pienet palaneet palat eivät haittaa.",
+      "Hienonna tai soseuta munakoiso muiden ainesten kanssa tasaiseksi. Säästä hieman öljyä pinnalle. Ripottele päälle paprikaa tai cayennea."
+    ]
+  },
+  {
+    "id": "wikibooks-babi-panggang-sauce",
+    "title": "Babi pangang -kastike",
+    "description": "Hollantilais-indonesialainen makea tomaattikastike grillatulle porsaalle.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["indonesialainen", "hollantilainen", "nopea", "tomaatti"],
+    "ingredients": [
+      "1 pieni sipuli",
+      "1 valkosipulinkynsi",
+      "1 rkl öljyä",
+      "1½ dl kanalientä",
+      "2 rkl sokeria",
+      "1 rkl sherryä",
+      "1 tlk (400 g) tomaattimurskaa"
+    ],
+    "instructions": [
+      "Kuori ja hienonna sipuli ja valkosipuli. Kuumenna öljy kattilassa ja kuullota ne.",
+      "Sekoita liemi, sokeri, sherry ja tomaattimurska ja lisää kattilaan.",
+      "Keitä sekoittaen 5 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-baby-back-ribs",
+    "title": "Uunissa haudutetut savuribsit",
+    "description": "Luusta irtoavat porsaan selkäribsit uunissa savupuulastuilla tai savustimessa, makealla tomaattikastikkeella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 450,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "amerikkalainen", "uuniruoka"],
+    "ingredients": [
+      "2 laattaa porsaan selkäribsejä",
+      "Maustehieronta:",
+      "½ dl fariinisokeria",
+      "2 rkl chilijauhetta",
+      "2 rkl valkosipulijauhetta",
+      "2 rkl cayennepippuria",
+      "1 rkl suolaa",
+      "1 rkl mustapippureita, rouhittuina",
+      "Kastike:",
+      "½ dl savupaprikajauhetta",
+      "3½ dl tomaattipyreetä",
+      "½ dl tummaa siirappia (melassia)",
+      "½ dl fariinisokeria",
+      "½ dl omenaviinietikkaa",
+      "Savustukseen:",
+      "hikkori- ja omenapuulastuja"
+    ],
+    "instructions": [
+      "Sekoita maustehieronnan ainekset ja hiero ribsien lihapuolelle. Anna maustua jääkaapissa vähintään tunti.",
+      "Kuumenna kastikkeen ainekset kattilassa kovalla lämmöllä kiehuviksi ja keitä, kunnes määrä on puolittunut.",
+      "Uunissa: laita ½ dl kumpiakin savupuulastuja uunipannun pohjalle, aseta ritilä pannuun ja ribsit ritilälle.",
+      "Peitä pannu foliolla ja kypsennä 95-asteisen uunin keskitasolla 6 tuntia. Sivele kastikkeella tunnin välein.",
+      "Poista folio, sivele lihapuolelle runsaasti kastiketta ja ruskista grillivastuksen alla.",
+      "Savustimessa: lisää tulipesään puuta niin, että lämpö pysyy noin 95 asteessa, ja savusta ribsejä 6 tuntia kastikkeella tunnin välein sivellen. Ruskista lopuksi kuumassa grillissä lihapuoli alaspäin.",
+      "Leikkaa luiden välistä paloiksi ja tarjoa lopun kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bachelor-fish-stew",
+    "title": "Poikamiehen kalapata",
+    "description": "Hävyttömän helppo ja ravitseva pata säilykepavuista, tomaatista ja makrillista.",
+    "servings": 1,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kala", "nopea", "arkiruoka", "pata"],
+    "ingredients": [
+      "1 tlk (400 g) papuja (kidney-, soija-, mustasilmäpapuja tai kikherneitä)",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 tlk (120 g) makrillifileitä tomaattikastikkeessa",
+      "1 tl currya",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Avaa tölkit ja valuta pavut.",
+      "Laita kaikki ainekset kattilaan.",
+      "Kuumenna kiehuvaksi, peitä ja hauduta välillä sekoittaen 5–10 minuuttia, kunnes pata on kuumaa."
+    ],
+    "notes": [
+      "Joukkoon voi lisätä keitettäviä kasviksia tai kananmunan; hauduta silloin noin 20 minuuttia.",
+      "Makrillin voi korvata sardiineilla tai muulla rasvaisella kalalla. Tarjoa pastan kanssa, niin ruoka riittää useammalle."
+    ]
+  },
+  { "id": "wikibooks-backyard-barbecue-ribs", "skip": "lähes sama resepti kuin aiemmat savuribsit" },
+  {
+    "id": "wikibooks-backyard-bbq-chicken",
+    "title": "Grillattu BBQ-kana",
+    "description": "Maustehieronnalla maustettu broileri grillissä hunaja-tomaattikastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "4 luutonta broilerin rintafileetä ja koipia",
+      "Maustehieronta:",
+      "1 rkl cayennepippuria",
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "2 rkl sitruunapippuria",
+      "1½ tl valkosipulijauhetta",
+      "2 rkl savupaprikajauhetta",
+      "2 rkl tummaa fariinisokeria",
+      "Kastike:",
+      "3½ dl tomaattipyreetä",
+      "½ dl hunajaa",
+      "½ dl omenaviinietikkaa"
+    ],
+    "instructions": [
+      "Sekoita kuivat mausteet ja hiero broileriin.",
+      "Anna maustua jääkaapissa tunti.",
+      "Kuumenna kastikkeen ainekset kiehuviksi ja keitä, kunnes määrä on vähentynyt kolmanneksella.",
+      "Grillaa broileria keskilämmöllä usein käännellen ja kastikkeella sivellen, kunnes sisälämpö on 74 astetta.",
+      "Anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-bacon-and-egg-pie",
+    "title": "Pekoni-munapiirakka",
+    "description": "Brittiläinen kaksikuorinen piirakka, jonka sisällä on pekonia ja kananmunaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["liha", "kananmuna", "piirakka", "brittiläinen"],
+    "ingredients": [
+      "225 g murotaikinaa",
+      "225 g pekonia, kamaraton, paloiteltuna",
+      "3 kananmunaa",
+      "suolaa",
+      "mustapippuria",
+      "ripaus kuivattuja yrttejä (valinnainen)",
+      "maitoa tai vatkattua kananmunaa voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Jaa taikina kahtia, kauli ja vuoraa toisella puolikkaalla 20 cm:n uunivuoka.",
+      "Sekoita pekoni ja munat ja mausta suolalla, pippurilla ja yrteillä.",
+      "Kaada täyte vuokaan. Kostuta taikinan reuna ja peitä vuoka toisella taikinalevyllä.",
+      "Painele reunat kiinni ja tee keskelle pieni reikä höyrylle. Voitele pinta halutessasi munalla tai maidolla.",
+      "Paista 35–40 minuuttia."
+    ],
+    "notes": ["Pekonin voi paistaa etukäteen."]
+  }
+]

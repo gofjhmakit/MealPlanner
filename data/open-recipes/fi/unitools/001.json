@@ -1,0 +1,771 @@
+[
+  {
+    "id": "unitools-tiramisu",
+    "title": "Tiramisu",
+    "description": "Kahviin kastettuja savoiardi-keksejä mascarponekreemin alla. Ei paistamista, mutta kaksi kohtaa, joissa se voi epäonnistua. (Tiramisù)",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "italialainen", "juhla"],
+    "ingredients": [
+      "500 g mascarponea, kylmänä",
+      "4 kananmunan keltuaista",
+      "2 kananmunan valkuaista",
+      "1 dl sokeria (100 g)",
+      "300 g savoiardi-keksejä (naisensormia)",
+      "3,5 dl vahvaa kahvia (espressoa), jäähdytettynä",
+      "2 rkl marsalaa (valinnainen)",
+      "kaakaojauhetta"
+    ],
+    "instructions": [
+      "Vatkaa keltuaiset ja puolet sokerista kiehuvan vesikattilan päällä niin, ettei kulho kosketa veteen, kunnes seos on vaaleaa ja paksua, noin 7 minuuttia. Nosta pois ja jäähdytä huoneenlämpöiseksi.",
+      "Kääntele kylmä mascarpone jäähtyneisiin keltuaisiin lusikalla, ei vatkaimella. Vatkain rikkoo rasvan ja kreemi muuttuu rakeiseksi – tämä on ensimmäinen kohta, jossa tiramisu yleensä epäonnistuu.",
+      "Vatkaa valkuaiset lopun sokerin kanssa kovaksi vaahdoksi ja kääntele kreemiin kolmessa erässä alhaalta nostellen.",
+      "Sekoita kahvi ja marsala. Kasta jokaista keksiä sekunnin ajan kummaltakin puolelta ja asettele tiiviiksi kerrokseksi vuokaan.",
+      "Levitä päälle puolet kreemistä, tasoita ja toista keksi- ja kreemikerrokset. Peitä ja anna tekeytyä jääkaapissa vähintään 6 tuntia, mieluiten yön yli.",
+      "Sihtaa kaakaojauhe pinnalle juuri ennen tarjoilua. Etukäteen siivilöity kaakao imee kosteutta ja muuttuu läiskäiseksi."
+    ],
+    "notes": ["Ohjeessa käytetään raakoja kananmunia (valkuaiset); käytä tuoreita munia."]
+  },
+  {
+    "id": "unitools-gazpacho",
+    "title": "Gazpacho",
+    "description": "Kylmä tomaattikeitto, joka soseutetaan leivän ja öljyn kanssa emulsioksi – siksi se on paksua eikä vetistä. (Gazpacho andaluz)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "totalTimeMin": 140,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "keitto", "espanjalainen"],
+    "ingredients": [
+      "1 kg kypsiä tomaatteja",
+      "1 kurkku, kuorittuna",
+      "½ vihreää paprikaa",
+      "1 valkosipulinkynsi",
+      "80 g kuivahtanutta vaaleaa leipää (vain sisus)",
+      "0,8 dl ekstra-neitsytoliiviöljyä",
+      "2 rkl sherryetikkaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota leivän sisusta kylmässä vedessä 10 minuuttia ja purista kuivaksi.",
+      "Soseuta tomaatit, kurkku, paprika, valkosipuli ja leipä täysin sileäksi. Se vie kauemmin kuin luulisi – hyvät kaksi minuuttia täydellä teholla.",
+      "Kaada öljy ohuena nauhana tehosekoittimen käydessä. Keitto vaalenee ja paksunee: se on emulsio.",
+      "Lisää etikka ja suola, maista ja mausta uudelleen. Siivilöi halutessasi samettisemman rakenteen saamiseksi ja jäähdytä vähintään kaksi tuntia."
+    ]
+  },
+  {
+    "id": "unitools-croquetas-de-jamon",
+    "title": "Espanjalaiset kinkkukrokotit",
+    "description": "Paksua kinkkubéchamelia, joka jäähdytetään kiinteäksi, leivitetään ja friteerataan. (Croquetas de jamón)",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 25,
+    "totalTimeMin": 295,
+    "category": "Välipalat",
+    "tags": ["liha", "espanjalainen", "juhla"],
+    "ingredients": [
+      "150 g serranokinkkua, pieninä kuutioina",
+      "60 g voita",
+      "2 rkl oliiviöljyä",
+      "½ sipulia, hyvin hienoksi hienonnettuna",
+      "100 g vehnäjauhoja",
+      "7 dl maitoa, lämpimänä",
+      "ripaus muskottipähkinää",
+      "2 kananmunaa leivitykseen",
+      "150 g korppujauhoja",
+      "7 dl rypsiöljyä friteeraukseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Sulata voi oliiviöljyn kanssa, kuullota sipuli läpikuultavaksi, lisää kinkku ja lämmitä minuutti, jotta rasva sulaa pannuun.",
+      "Lisää jauhot ja kypsennä sekoittaen 4–5 minuuttia, kunnes seos tuoksuu pähkinäiseltä ja alkaa juuri saada väriä.",
+      "Lisää lämmin maito kauhallinen kerrallaan ja sekoita tasaiseksi ennen seuraavaa lisäystä. Keitä vielä 10 minuuttia, kunnes seos irtoaa kattilan reunoista.",
+      "Mausta muskottipähkinällä ja suolalla, levitä vuokaan 2 cm:n kerrokseksi, painele tuorekelmu pintaan ja jäähdytä vähintään 4 tuntia.",
+      "Muotoile märin käsin pötköjä ja kääntele ne kananmunassa ja sitten korppujauhoissa. Tukevampaa kuorta varten leivitä kahdesti.",
+      "Friteeraa 180-asteisessa öljyssä pienissä erissä 2 minuuttia. Liian täysi kattila laskee lämpötilaa, ja krokotit imevät öljyä rapeutumisen sijaan."
+    ]
+  },
+  {
+    "id": "unitools-ceviche",
+    "title": "Ceviche",
+    "description": "Raakaa kalaa limettimehussa sipulin ja ají-chilin kanssa. Kala marinoituu minuutteja, ei tunteja – pidempään se kypsyy läpi. (Cebiche)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kala", "perulainen", "gluteeniton", "nopea"],
+    "ingredients": [
+      "600 g sashimilaatuista valkoista kalaa, 2 cm:n kuutioina",
+      "10 limetin mehu",
+      "1 punasipuli, paperinohuina viipaleina",
+      "1 ají limo- tai rocoto-chili (tai muu tuore chili)",
+      "4 oksaa korianteria",
+      "1 bataatti, keitettynä",
+      "150 g maissia, keitettynä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota sipuliviipaleita jäävedessä 10 minuuttia ja kuivaa taputellen: kirpeys lähtee, maku jää.",
+      "Purista limetit käsin eikä puristimella: kuoreen kohdistuva paine vapauttaa karvaita öljyjä.",
+      "Suolaa kala, sekoita joukkoon hienonnettu chili ja korianteri, kaada päälle limettimehu ja anna olla tasan 3–5 minuuttia. Reunat muuttuvat sameiksi ja keskusta jää läpikuultavaksi.",
+      "Lisää sipuli, kääntele kerran ja tarjoa heti bataatin ja maissin kanssa. Kaada kulhon neste pieniin laseihin."
+    ]
+  },
+  {
+    "id": "unitools-lomo-saltado",
+    "title": "Lomo saltado – perulainen naudanlihawokki",
+    "description": "Wokissa ruskistettua naudanlihaa sipulin ja tomaatin kanssa, tarjoiltuna sekä ranskalaisten että riisin kera. (Lomo saltado)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "perulainen", "arkiruoka"],
+    "ingredients": [
+      "600 g naudan ulkofileetä, suikaleina",
+      "2 punasipulia, paksuina lohkoina",
+      "3 tomaattia, lohkoina",
+      "1 ají amarillo -chili (tai keltainen chili)",
+      "4 rkl soijakastiketta",
+      "2 rkl punaviinietikkaa",
+      "3 valkosipulinkynttä",
+      "600 g ranskanperunoita",
+      "400 g keitettyä riisiä",
+      "korianteria",
+      "3 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Marinoi lihaa soijassa, etikassa ja valkosipulissa 15 minuuttia ja kuivaa taputellen: märkä pinta ei ruskistu.",
+      "Kuumenna pannu savuavaksi ja ruskista liha kahdessa erässä, puolitoista minuuttia kerrallaan, koskematta siihen ensimmäisten 40 sekunnin aikana. Nosta sivuun.",
+      "Paista samalla pannulla sipulia ja chiliä puolitoista minuuttia – sipulin pitää jäädä sisältä rapeaksi.",
+      "Palauta liha pannulle, kaada joukkoon loput marinadista, lisää tomaatit ja lämmitä puoli minuuttia. Nosta liedeltä ja sekoita joukkoon korianteri.",
+      "Tarjoa kuumien ranskalaisten kanssa – osa niistä sekoitetaan pannulle imemään kastiketta – ja erikseen riisin kanssa."
+    ]
+  },
+  {
+    "id": "unitools-mapo-tofu",
+    "title": "Mapo tofu",
+    "description": "Tofua tulisessa doubanjiang-kastikkeessa sichuaninpippurin kera, joka puuduttaa eikä polta. (麻婆豆腐)",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 15,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "kiinalainen", "nopea"],
+    "ingredients": [
+      "500 g pehmeää tofua, 2 cm:n kuutioina",
+      "150 g porsaan jauhelihaa",
+      "2 rkl doubanjiang-tahnaa (chilipaputahnaa)",
+      "1 rkl fermentoituja mustia papuja, hienonnettuna",
+      "1 tl sichuaninpippuria, jauhettuna",
+      "3 valkosipulinkynttä",
+      "15 g inkivääriä",
+      "2,5 dl kanalientä",
+      "1 rkl maissitärkkelystä",
+      "3 kevätsipulia",
+      "3 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Liu'uta tofu juuri ja juuri kiehuvaan suolaveteen 3 minuutiksi ja valuta varovasti.",
+      "Paista jauheliha ruskeaksi, kunnes rasva on sulanut, ja työnnä sivuun. Lisää doubanjiang ja paista minuutti, kunnes öljy muuttuu punaiseksi.",
+      "Lisää valkosipuli, inkivääri ja mustat pavut, lämmitä puoli minuuttia ja kaada joukkoon liemi. Kiehauta.",
+      "Liu'uta tofu joukkoon ja hauduta 3 minuuttia sekoittamatta – pyörittele mieluummin pannua, muuten kuutiot hajoavat.",
+      "Sekoita maissitärkkelys kylmään veteen ja lisää kahdessa erässä antaen kastikkeen kiehahtaa joka kerta. Ripottele liedeltä nostettuna päälle sichuaninpippuri ja kevätsipuli."
+    ]
+  },
+  {
+    "id": "unitools-gong-bao-chicken",
+    "title": "Gong bao -kana",
+    "description": "Kuutioitua kanaa maapähkinöiden ja kuivattujen chilien kanssa kastikkeessa, jossa etikka on tärkeämpää kuin sokeri. (宫保鸡丁)",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 10,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "kiinalainen", "wokki"],
+    "ingredients": [
+      "500 g broilerin rintafileetä, 2 cm:n kuutioina",
+      "1 kananmunan valkuainen",
+      "2 rkl maissitärkkelystä",
+      "80 g paahdettuja maapähkinöitä",
+      "8 kokonaista kuivattua chiliä",
+      "1 tl sichuaninpippuria",
+      "3 rkl mustaa riisiviinietikkaa (Chinkiang)",
+      "2 rkl soijakastiketta",
+      "2 tl sokeria",
+      "3 valkosipulinkynttä",
+      "15 g inkivääriä",
+      "4 kevätsipulia",
+      "3 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita kana valkuaisen, lusikallisen maissitärkkelystä, lusikallisen soijaa ja ripauksen suolaa kanssa ja anna olla 20 minuuttia.",
+      "Sekoita kastike valmiiksi: etikka, loput soijasta, sokeri ja loput maissitärkkelyksestä kahden ruokalusikallisen vettä kanssa. Pidä se käden ulottuvilla – myöhemmin ei ehdi sekoittaa.",
+      "Kuumenna öljy ja paista chilejä ja sichuaninpippuria 20 sekuntia, kunnes ne tummuvat mutta eivät mustu. Palanut chili on karvasta.",
+      "Lisää kana ja anna olla minuutti koskematta, kääntele sitten ja kypsennä läpi vielä 2 minuuttia.",
+      "Lisää valkosipuli, inkivääri ja kevätsipulin valkoinen osa ja puolen minuutin kuluttua kastike. Se sakenee sekunneissa. Nosta liedeltä ja lisää maapähkinät ja kevätsipulin vihreä osa."
+    ]
+  },
+  {
+    "id": "unitools-coq-au-vin",
+    "title": "Coq au vin – kana punaviinissä",
+    "description": "Punaviinissä haudutettua kanaa pekonin, sienten ja pikkusipulien kanssa. Edellisenä päivänä tehty marinointi tekee puolet työstä. (Coq au vin)",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 90,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "ranskalainen", "juhla"],
+    "ingredients": [
+      "1,5 kg kokonainen broileri, paloiteltuna",
+      "7,5 dl kuivaa punaviiniä",
+      "150 g savupekonia, kuutioina",
+      "300 g herkkusieniä",
+      "250 g helmisipulia",
+      "2 porkkanaa",
+      "4 valkosipulinkynttä",
+      "2 rkl vehnäjauhoja",
+      "3 dl kanalientä",
+      "3 oksaa timjamia ja laakerinlehtiä",
+      "40 g voita",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Peitä kana viinillä, porkkanoilla, valkosipulilla ja yrteillä ja anna marinoitua jääkaapissa yön yli. Nosta liha aamulla pois ja kuivaa se; säästä viini.",
+      "Paista pekoni padassa rapeaksi ja nosta pois. Ruskista kanat samassa rasvassa voimakkaasti joka puolelta erissä.",
+      "Ripottele päälle jauhot, sekoita ja kypsennä 2 minuuttia. Kaada joukkoon marinadi kasviksineen ja liemi, kiehauta ja kuori vaahto.",
+      "Hauduta kannen alla miedolla lämmöllä tai 160-asteisessa uunissa tunnin ajan. Kastikkeen pitää vain hiljaa väreillä.",
+      "Paista sillä aikaa sipulit voissa kullanruskeiksi ja erikseen sienet kovalla lämmöllä, kunnes ne saavat väriä.",
+      "Lisää sipulit, sienet ja pekoni pataan, hauduta 10 minuuttia miedolla lämmöllä ja tarkista kastikkeen suola."
+    ]
+  },
+  {
+    "id": "unitools-creme-brulee",
+    "title": "Crème brûlée",
+    "description": "Vesihauteessa kypsennetty keltuaisvanukas poltetun sokerikannen alla. (Crème brûlée)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 45,
+    "totalTimeMin": 305,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "ranskalainen", "gluteeniton", "juhla"],
+    "ingredients": [
+      "5 dl kuohukermaa",
+      "5 kananmunan keltuaista",
+      "80 g sokeria vanukkaaseen",
+      "1 vaniljatanko",
+      "4 tl sokeria pinnalle"
+    ],
+    "instructions": [
+      "Halkaise vaniljatanko, kaavi siemenet kermaan ja kuumenna juuri kiehumispisteen alle. Nosta liedeltä ja anna maustua 15 minuuttia.",
+      "Sekoita keltuaiset ja sokeri vatkaamatta ilmaa sekaan – vaahtoa ei haluta. Kaada lämmin kerma ohuena nauhana koko ajan sekoittaen.",
+      "Siivilöi ja kuori mahdollinen vaahto pinnalta. Jaa annosvuokiin ja nosta ne syvälle uunipellille.",
+      "Kaada pellille kiehuvaa vettä vuokien puoliväliin asti ja kypsennä 150-asteisessa uunissa 40 minuuttia. Keskustan pitää hytkyä.",
+      "Jäähdytä kokonaan ja anna olla jääkaapissa vähintään 4 tuntia. Ripottele vasta sitten pinnalle sokeri ja polta se kaasupolttimella."
+    ]
+  },
+  {
+    "id": "unitools-kaesespaetzle",
+    "title": "Käsespätzle – juustospätzlet",
+    "description": "Švaabilaisia munanuudeleita kerrostettuna juuston kanssa ja paistetun sipulin alle haudattuna. (Käsespätzle)",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "cookTimeMin": 30,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "saksalainen", "pasta"],
+    "ingredients": [
+      "400 g vehnäjauhoja",
+      "4 kananmunaa",
+      "1,5 dl vettä tai maitoa",
+      "250 g emmentaljuustoa, raastettuna",
+      "3 sipulia, ohuina renkaina",
+      "60 g voita",
+      "ripaus muskottipähkinää",
+      "suolaa"
+    ],
+    "instructions": [
+      "Sekoita jauhot, munat, vesi, suola ja muskottipähkinä ja vatkaa taikinaa lusikalla hyvät viisi minuuttia, kunnes siihen nousee kuplia ja se alkaa venyä lusikasta.",
+      "Paista taikinan levätessä sipulit voissa keskilämmöllä syvän kullanruskeiksi. Se vie 20 minuuttia, ei viittä – sokerit tarvitsevat aikaa karamellisoitua.",
+      "Painele taikina kiehuvaan suolaveteen spätzleraastimen tai isoreikäisen siivilän läpi. Spätzlet nousevat pintaan minuutissa; nosta ne reikäkauhalla.",
+      "Kerrosta ne lämpimään vuokaan: spätzlejä, juustoa, spätzlejä, juustoa. Nuudelien lämpö sulattaa juuston, uunia ei tarvita.",
+      "Peitä paistetulla sipulilla ja tarjoa heti. Perinteinen lisuke on vihreä salaatti etikkakastikkeella – se tasapainottaa ruokaa."
+    ]
+  },
+  {
+    "id": "unitools-rinderrouladen",
+    "title": "Saksalaiset naudanlihakääryleet",
+    "description": "Ohuita naudanlihaviipaleita kääräistynä sinapin, pekonin ja suolakurkun ympärille ja haudutettuna mureiksi. (Rinderrouladen)",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 100,
+    "totalTimeMin": 130,
+    "category": "Pääruoat",
+    "tags": ["liha", "saksalainen", "juhla"],
+    "ingredients": [
+      "800 g naudan sisäpaistia, ohuina viipaleina (à 150–200 g, ohuiksi nuijittuina)",
+      "4 rkl sinappia",
+      "120 g savupekonia",
+      "4 suolakurkkua, pitkittäin neljään osaan",
+      "2 sipulia",
+      "1 porkkana",
+      "1 rkl tomaattipyreetä",
+      "2 dl kuivaa punaviiniä",
+      "5 dl lihalientä",
+      "2 laakerinlehteä",
+      "2 rkl rypsiöljyä paistamiseen",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Nuiji liha 5 mm:n paksuiseksi, mausta ja sivele sinapilla. Asettele lyhyelle reunalle pekonia, sipulisuikaleita ja kurkkua.",
+      "Kääri rullalle sivut sisään taittaen ja kiinnitä hammastikulla tai narulla. Tiukasti mutta ei liian kireälle – täyte laajenee.",
+      "Ruskista kääryleet voimakkaasti joka puolelta ja nosta pois. Paista samassa rasvassa loput sipulista ja porkkana, lisää tomaattipyree ja paista minuutti.",
+      "Kaada joukkoon viini ja keitä kokoon puoleen, lisää liemi ja laakerinlehdet. Palauta kääryleet, peitä ja hauduta miedolla lämmöllä puolitoista tuntia.",
+      "Nosta kääryleet pois ja poista tikut. Soseuta kastike kattilassa tai survo perunasurvimella ja keitä haluamasi paksuiseksi."
+    ]
+  },
+  {
+    "id": "unitools-bibimbap",
+    "title": "Bibimbap",
+    "description": "Riisiä, jonka päällä on erikseen kypsennettyjä kasviksia, lihaa ja kananmuna, sekoitettuna gochujangin kanssa juuri ennen syömistä. (비빔밥)",
+    "servings": 4,
+    "prepTimeMin": 40,
+    "cookTimeMin": 20,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "korealainen"],
+    "ingredients": [
+      "600 g keitettyä lyhytjyväistä riisiä",
+      "250 g naudanlihaa, ohuina suikaleina",
+      "200 g pinaattia",
+      "150 g soijapavun ituja",
+      "1 porkkana, ohuina tikkuina",
+      "150 g shiitakesieniä",
+      "4 kananmunaa",
+      "4 rkl gochujang-chilitahnaa",
+      "3 rkl seesamiöljyä",
+      "2 rkl soijakastiketta",
+      "3 valkosipulinkynttä",
+      "seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Marinoi lihaa soijassa, valkosipulissa ja lusikallisessa seesamiöljyä 20 minuuttia.",
+      "Ryöppää pinaattia 30 sekuntia, purista kuivaksi ja mausta seesamiöljyllä ja ripauksella suolaa. Keitä ituja 3 minuuttia ja mausta samoin, lisäksi valkosipulilla.",
+      "Paista porkkana ja sienet erikseen pari minuuttia kumpaakin, maustaen kumpikin erikseen. Pannua ei tarvitse pestä välillä.",
+      "Ruskista liha kovalla lämmöllä 2 minuuttia. Paista kananmunat erikseen niin, että keltuaiset jäävät juokseviksi.",
+      "Jaa kuuma riisi kulhoihin, asettele kasvikset ja liha lohkoiksi päälle ja lisää kananmuna ja lusikallinen gochujangia. Jokainen sekoittaa oman annoksensa."
+    ]
+  },
+  {
+    "id": "unitools-kimchi-jjigae",
+    "title": "Kimchi jjigae – kimchipata",
+    "description": "Pata ylikypsästä kimchistä, possusta ja tofusta. Mitä vanhempaa kimchi on, sitä paremmin se toimii. (김치찌개)",
+    "servings": 4,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "category": "Keitot",
+    "tags": ["keitto", "liha", "korealainen"],
+    "ingredients": [
+      "400 g hyvin hapantunutta kimchiä nesteineen",
+      "300 g porsaan kylkeä, viipaleina",
+      "300 g tofua, paksuina viipaleina",
+      "1 sipuli",
+      "1 rkl gochugaru-chilihiutaleita",
+      "1 rkl gochujang-chilitahnaa",
+      "3 valkosipulinkynttä",
+      "7 dl vettä tai anjovisilientä",
+      "3 kevätsipulia",
+      "1 rkl seesamiöljyä"
+    ],
+    "instructions": [
+      "Paista possua seesamiöljyssä keskilämmöllä, kunnes rasva on sulanut ja liha saanut väriä, noin 5 minuuttia.",
+      "Lisää kimchi ja paista 5 minuuttia, kunnes reunat tummuvat. Tämä pehmentää happamuutta ja pyöristää makua.",
+      "Sekoita joukkoon gochugaru, gochujang ja valkosipuli, kaada joukkoon kimchin neste ja vesi ja kiehauta.",
+      "Hauduta 20 minuuttia, lisää sipuli ja tofu ja keitä vielä 5 minuuttia. Älä sekoita tofua, se hajoaa.",
+      "Nosta liedeltä, ripottele päälle kevätsipuli ja tarjoa padasta riisin kanssa."
+    ]
+  },
+  {
+    "id": "unitools-souvlaki",
+    "title": "Souvlaki",
+    "description": "Porsasvartaita sitruunassa, oreganossa ja oliiviöljyssä, kypsennettynä nopeasti kovalla lämmöllä. (Σουβλάκι)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 15,
+    "totalTimeMin": 155,
+    "category": "Pääruoat",
+    "tags": ["liha", "kreikkalainen", "grilli"],
+    "ingredients": [
+      "800 g porsaan lapaa, 3 cm:n kuutioina",
+      "0,8 dl oliiviöljyä",
+      "1 sitruuna (mehu ja raastettu kuori)",
+      "2 tl kuivattua oreganoa",
+      "3 valkosipulinkynttä",
+      "4 pitaleipää",
+      "200 g turkkilaista jogurttia",
+      "½ kurkkua, raastettuna ja puristettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita öljy, sitruunamehu ja -kuori, oregano, murskattu valkosipuli, suola ja pippuri. Kääntele liha marinadissa ja anna maustua kaksi tuntia, enintään neljä.",
+      "Tee marinoinnin aikana tzatziki: jogurttia, puristettua kurkkua, yksi valkosipulinkynsi, lusikallinen öljyä ja suolaa.",
+      "Pujota liha väljästi vartaisiin – lämmön pitää päästä palojen väliin. Tiukasti pakattu varras jää keskeltä raa'aksi.",
+      "Grillaa kuumalla grillillä tai parilapannulla 3 minuuttia jokaiselta neljältä puolelta. Lihan pitää tummua eikä vaalentua.",
+      "Anna lihan levätä 5 minuuttia, lämmitä pitat 30 sekuntia puolelta ja tarjoa tzatzikin ja sitruunan kanssa."
+    ]
+  },
+  {
+    "id": "unitools-chicken-biryani",
+    "title": "Kanabiryani",
+    "description": "Riisi ja marinoitu kana kypsennetään yhdessä kannen alla: kerrokset kypsyvät höyryssä eikä niitä sekoiteta. (बिरयानी)",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "cookTimeMin": 60,
+    "totalTimeMin": 105,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "intialainen", "juhla"],
+    "ingredients": [
+      "500 g basmatiriisiä, liotettuna 30 minuuttia",
+      "1 kg luullisia broilerin paloja",
+      "250 g turkkilaista jogurttia",
+      "3 sipulia, ohuina viipaleina",
+      "30 g inkivääriä",
+      "6 valkosipulinkynttä",
+      "2 tl garam masalaa",
+      "1 tl chilijauhetta",
+      "½ tl kurkumaa",
+      "1 rkl kokonaisia mausteita (kardemumma, neilikka, kaneli, laakerinlehti)",
+      "ripaus sahramia",
+      "½ dl lämmintä maitoa",
+      "1 oksa minttua ja korianteria",
+      "60 g voisulaa (tai voita)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paista sipulit voisulassa syvän kullanruskeiksi – 20 minuuttia keskilämmöllä. Nosta puolet sivuun: se on birista, ruoan tärkein maku.",
+      "Marinoi kana jogurtissa inkiväärin, valkosipulin, mausteiden, puolen paistetusta sipulista, mintun ja suolan kanssa. Anna maustua tunti, mieluiten kolme.",
+      "Keitä riisiä runsaassa suolavedessä kokonaisten mausteiden kanssa tasan 5 minuuttia ja valuta. Jyvän pitää napsahtaa ja olla keskeltä valkoinen.",
+      "Levitä marinoitu kana paksupohjaisen kattilan pohjalle ja riisi tasaiseksi kerrokseksi päälle. Liota sahrami lämpimään maitoon, kaada se läiskittäin pinnalle ja ripottele päälle loput sipulista ja yrtit.",
+      "Peitä mahdollisimman tiiviisti, halutessasi reunat foliolla tiivistäen. 5 minuuttia kovalla lämmöllä, sitten 40 minuuttia pienimmällä. Älä nosta kantta kertaakaan.",
+      "Anna vetäytyä 10 minuuttia ja kääntele kerran pohjasta ylöspäin, nostellen kanaa riisin sekaan sekoittamatta kaikkea mössöksi."
+    ]
+  },
+  {
+    "id": "unitools-shoyu-ramen",
+    "title": "Shoyu-ramen",
+    "description": "Liemi, tare ja öljy – kolme erillistä osaa, jotka kootaan kulhoon eikä keitetä yhdessä. (醤油ラーメン)",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "cookTimeMin": 180,
+    "totalTimeMin": 210,
+    "category": "Keitot",
+    "tags": ["keitto", "liha", "japanilainen"],
+    "ingredients": [
+      "1,5 kg kanan ruhoja (luita)",
+      "500 g porsaan kylkeä",
+      "10 g kombu-levää",
+      "20 g kuivattuja shiitakesieniä",
+      "2 dl soijakastiketta",
+      "½ dl miriniä",
+      "½ dl sakea",
+      "30 g inkivääriä",
+      "4 valkosipulinkynttä",
+      "500 g ramen-nuudeleita",
+      "4 kananmunaa",
+      "4 kevätsipulia",
+      "2 rkl seesamiöljyä"
+    ],
+    "instructions": [
+      "Peitä kanan ruhot kylmällä vedellä, keitä 10 minuuttia ja kaada vesi pois. Huuhtele luut ja kattila: liemen kirkkaus riippuu siitä.",
+      "Peitä uudelleen raikkaalla vedellä, lisää inkivääri ja valkosipuli ja keitä hiljalleen kolme tuntia. Keitä porsaan kylki liemessä kypsäksi. Lisää kombu 20 minuuttia ennen loppua ja nosta pois ennen kiehumista – keitetty kombu muuttuu karvaaksi.",
+      "Tee tare keittämällä soija, mirin, sake ja shiitake kokoon kolmasosaan. Jäljelle jää paksu tumma neste – kaksi ruokalusikallista kulhoa kohden.",
+      "Keitä munia 6½ minuuttia, jäähdytä jäävedessä, kuori ja marinoi ylijääneessä taressa kaksi tuntia.",
+      "Keitä nuudelit erikseen tarkalleen pakkauksen ajan, valuta ja nosta suoraan kulhoihin, joiden pohjalla on tare.",
+      "Kaada päälle kuuma liemi, sekoita kerran, jotta tare sekoittuu, ja asettele päälle viipaloitu possu, kananmuna ja kevätsipuli. Viimeistele seesamiöljyllä."
+    ]
+  },
+  {
+    "id": "unitools-pierogi-ruskie",
+    "title": "Pierogi ruskie – puolalaiset peruna-rahkanyytit",
+    "description": "Peruna- ja rahkatäytteisiä nyyttejä paistetun sipulin ja smetanan kera. (Pierogi ruskie)",
+    "servings": 4,
+    "prepTimeMin": 50,
+    "cookTimeMin": 20,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "puolalainen", "peruna"],
+    "ingredients": [
+      "Taikina:",
+      "400 g vehnäjauhoja",
+      "2 dl kiehuvaa vettä",
+      "2 rkl rypsiöljyä",
+      "ripaus suolaa",
+      "Täyte:",
+      "500 g keitettyjä perunoita",
+      "250 g kuivaa rahkaa (tai valutettua raejuustoa)",
+      "3 sipulia",
+      "60 g voita",
+      "suolaa",
+      "mustapippuria",
+      "smetanaa tarjoiluun"
+    ],
+    "instructions": [
+      "Kaada kiehuva vesi öljyn ja suolan kanssa jauhojen päälle, sekoita lusikalla ja jäähtymisen jälkeen vaivaa käsin 8 minuuttia. Peitä ja anna levätä puoli tuntia.",
+      "Paista kaksi sipuleista voissa syvän kullanruskeiksi. Puolet menee täytteeseen ja puolet jätetään tarjoiluun.",
+      "Muussaa lämmin peruna rahkan ja paistetun sipulin kanssa ja mausta reilusti. Täytteen pitää olla niin kiinteää, että se pitää muotonsa.",
+      "Kauli taikina 2 mm:n paksuiseksi, ota lasilla kiekkoja, nosta keskelle teelusikallinen täytettä ja nipistä kuivat reunat kiinni – märkä taikina ei tartu.",
+      "Keitä erissä leveässä kattilassa suolavedessä. Nosta pois minuutti sen jälkeen, kun ne nousevat pintaan.",
+      "Tarjoa lopun paistetun sipulin ja smetanan kanssa. Monet paistavat keitetyt pierogit vielä voissa, mikä on yhtä oikein."
+    ]
+  },
+  {
+    "id": "unitools-zurek",
+    "title": "Żurek – puolalainen hapan ruiskeitto",
+    "description": "Hapan keitto ruisjuureen, valkoisen makkaran ja kananmunan kera. Happamuus tulee käymisestä eikä etikasta. (Żurek)",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 50,
+    "totalTimeMin": 70,
+    "category": "Keitot",
+    "tags": ["keitto", "liha", "puolalainen"],
+    "ingredients": [
+      "4 dl ruisjuurta (żurek-juurta, ostettu tai itse tehty)",
+      "500 g valkoista makkaraa",
+      "100 g savupekonia",
+      "1 sipuli",
+      "4 valkosipulinkynttä",
+      "2 tl kuivattua meiramia",
+      "1 l kasvis- tai lihalientä",
+      "1 dl ruokakermaa",
+      "4 kananmunaa, kovaksi keitettyinä",
+      "piparjuurta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Paista pekoni kattilassa, kuullota sipuli rasvassa pehmeäksi, lisää valkosipuli ja meirami ja lämmitä puoli minuuttia.",
+      "Kaada joukkoon liemi, laske makkara kokonaisena kattilaan ja keitä hiljalleen 30 minuuttia. Älä pistele makkaraa, ettei sen mehu karkaa liian aikaisin.",
+      "Nosta makkara pois, viipaloi se ja palauta kattilaan. Ravista juurta purkissa ja kaada se sekoittaen keittoon.",
+      "Lämmitä 5 minuuttia kiehuttamatta voimakkaasti, sekoita joukkoon kerma ja maista. Jos keitto ei ole tarpeeksi hapanta, lisää juurta; suolaa lopuksi.",
+      "Kauha kulhoihin, lisää kuhunkin puolikas keitetty muna ja tarjoa piparjuuren kanssa. Puolassa żurek tarjoillaan usein koverretussa leivässä."
+    ],
+    "notes": ["Valkoinen makkara (biała kiełbasa) on raaka, savustamaton makkara; sitä saa itäeurooppalaisista kaupoista."]
+  },
+  {
+    "id": "unitools-sauerbraten",
+    "title": "Sauerbraten – reiniläinen hapanpaisti",
+    "description": "Naudanlihaa, joka marinoituu päiviä etikassa ja haudutetaan siinä; kastike suurustetaan piparkakuilla. (Rheinischer Sauerbraten)",
+    "servings": 6,
+    "prepTimeMin": 30,
+    "cookTimeMin": 150,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["liha", "saksalainen", "juhla"],
+    "ingredients": [
+      "1,5 kg naudan paahtopaistia",
+      "4 dl punaviinietikkaa",
+      "4 dl kuivaa punaviiniä",
+      "3 sipulia",
+      "2 porkkanaa",
+      "150 g juuriselleriä",
+      "1 rkl kokonaisia mausteita (neilikka, kataja, laakerinlehti, pippuri)",
+      "80 g piparkakkuja, murskattuna",
+      "50 g rusinoita",
+      "1 rkl sokeria",
+      "2 rkl rypsiöljyä paistamiseen",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä etikka viinin, kasvisten ja mausteiden kanssa, jäähdytä kokonaan ja kaada lihan päälle. Pidä jääkaapissa 3–5 päivää ja käännä liha kerran päivässä.",
+      "Nosta liha pois, kuivaa talouspaperilla ja ruskista voimakkaasti joka puolelta kuumassa padassa. Siivilöi marinadi ja säästä kasvikset.",
+      "Paista marinadin kasvikset samassa rasvassa, lisää sokeri ja anna sen saada hieman väriä. Kaada joukkoon marinadi ja kiehauta.",
+      "Palauta liha pataan, peitä ja hauduta miedolla lämmöllä kaksi tuntia, kerran puolivälissä kääntäen. Haarukan pitää uppoutua ilman vastusta.",
+      "Nosta liha pois ja pidä lämpimänä. Sekoita murskatut piparkakut ja rusinat kastikkeeseen ja keitä 15 minuuttia: piparkakku liukenee ja suurustaa kastikkeen itsestään.",
+      "Soseuta kastike sileäksi ja maista hapan–makea-tasapaino. Leikkaa liha syitä vastaan ja kaada kastike päälle."
+    ]
+  },
+  {
+    "id": "unitools-schwaebischer-kartoffelsalat",
+    "title": "Švaabilainen perunasalaatti",
+    "description": "Perunaa lämpimässä liemessä etikan ja öljyn kera. Ei majoneesia – Etelä-Saksassa sitä ei tähän hyväksytä. (Schwäbischer Kartoffelsalat)",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "cookTimeMin": 25,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "peruna", "saksalainen"],
+    "ingredients": [
+      "800 g kiinteitä perunoita",
+      "1 sipuli, hyvin hienoksi hienonnettuna",
+      "2,5 dl kuumaa kasvislientä",
+      "3 rkl viinietikkaa",
+      "1 tl sinappia",
+      "4 rkl rypsiöljyä",
+      "ruohosipulia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä perunat kuorineen kypsiksi, noin 20 minuuttia kiehumisesta. Kokeile veitsellä: sen pitää uppoutua mutta ei pudota läpi.",
+      "Lämmitä keittämisen aikana liemi sipulin, etikan, sinapin, suolan ja pippurin kanssa kiehuttamatta.",
+      "Kuori perunat kuumina haarukan varassa pidellen ja viipaloi 3–4 mm:n viipaleiksi suoraan kulhoon.",
+      "Kaada kuuma kastike päälle ja anna olla 20 minuuttia kerran käännellen. Peruna imee lähes kaiken nesteen.",
+      "Lisää öljy, kääntele uudelleen ja maista. Salaatin pitää olla hieman kirpeämpää kuin tuntuu oikealta; maku tasaantuu seistessä. Ripottele pinnalle ruohosipulia."
+    ]
+  },
+  {
+    "id": "unitools-bucatini-all-amatriciana",
+    "title": "Bucatini all'amatriciana",
+    "description": "Guancialea, tomaattia ja pecorinoa. Ei sipulia, ei valkosipulia, ei oliiviöljyä – rasva tulee lihasta. (Bucatini all'amatriciana)",
+    "servings": 4,
+    "prepTimeMin": 10,
+    "cookTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["pasta", "liha", "italialainen", "nopea"],
+    "ingredients": [
+      "400 g bucatini-pastaa (tai spagettia)",
+      "150 g guancialea (tai pancettaa), lyhyinä tikkuina",
+      "1 tlk (400 g) kuorittuja San Marzano -tomaatteja",
+      "80 g pecorino romanoa, hienoksi raastettuna",
+      "1 kuivattu chili",
+      "½ dl kuivaa valkoviiniä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita guanciale kylmälle, kuivalle pannulle ja kuumenna keskilämmöllä. Hidas alku sulattaa rasvan kokonaan; kuuma pannu polttaa pinnan ja jättää sisustan sitkeäksi.",
+      "Kun palat ovat lasimaisia ja reunoilta kullanruskeita, nosta puolet pois pinnalle. Kaada joukkoon viini ja anna kiehua pois.",
+      "Murskaa tomaatit käsin, lisää ne chilin kanssa ja hauduta 10 minuuttia. Kastikkeen pitää sakeutua menettämättä punaista väriään.",
+      "Keitä pasta minuutin vajaaksi, siirrä se kastikkeeseen kauhallisen keitinvettä kanssa ja viimeistele liedellä puoli minuuttia.",
+      "Nosta liedeltä, sekoita joukkoon pecorino ja tarjoa. Säästetty guanciale nostetaan pinnalle pienen juustomäärän kanssa."
+    ]
+  },
+  {
+    "id": "unitools-shakshuka",
+    "title": "Shakshuka",
+    "description": "Munia haudutettuna paksussa tomaatti-paprikakastikkeessa juustokuminan ja paprikan kera. (שקשוקה)",
+    "servings": 4,
+    "prepTimeMin": 10,
+    "cookTimeMin": 30,
+    "totalTimeMin": 40,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "israelilainen", "gluteeniton", "arkiruoka"],
+    "ingredients": [
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "2 punaista paprikaa",
+      "1 sipuli",
+      "4 valkosipulinkynttä",
+      "6 kananmunaa",
+      "2 tl juustokuminaa",
+      "1 tl savupaprikajauhetta",
+      "1 tl harissaa",
+      "3 rkl oliiviöljyä",
+      "fetajuustoa",
+      "korianteria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paista sipulia ja paprikoita öljyssä 10 minuuttia, kunnes paprika on pehmeää ja makeaa.",
+      "Lisää valkosipuli, kumina, paprikajauhe ja harissa ja lämmitä minuutti – tuoksuviksi, ei palaneiksi.",
+      "Kaada joukkoon tomaatit, murskaa ne ja hauduta 15 minuuttia. Kastike on valmis, kun lusikka jättää pohjaan jäljen.",
+      "Tee lusikalla kuoppia ja riko kuhunkin kananmuna. Peitä kannella ja kypsennä 5–7 minuuttia: valkuaiset hyytyvät, keltuaiset jäävät löysiksi.",
+      "Ripottele päälle feta ja korianteri ja tarjoa pannusta leivän kanssa."
+    ]
+  },
+  {
+    "id": "unitools-hummus",
+    "title": "Hummus",
+    "description": "Kikherneitä vatkattuna tahinin, sitruunan ja jääveden kanssa kermaiseksi. Kuoret poistetaan. (חומוס)",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "cookTimeMin": 90,
+    "totalTimeMin": 110,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "israelilainen", "gluteeniton"],
+    "ingredients": [
+      "250 g kuivattuja kikherneitä, liotettuna yön yli",
+      "1 tl ruokasoodaa",
+      "150 g tahinia",
+      "1 sitruunan mehu",
+      "2 valkosipulinkynttä",
+      "0,8 dl jäävettä",
+      "1 tl juustokuminaa",
+      "oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Valuta liotetut kikherneet, peitä raikkaalla vedellä, lisää ruokasooda ja keitä 1–1,5 tuntia, kunnes ne hajoavat. Kuori pinnalle nouseva vaahto ja kelluvat kuoret.",
+      "Valuta ja säästä 2 dl keitinvettä. Hiero kikherneitä kämmenten välissä kylmän veden alla, niin loput kuoret irtoavat ja nousevat pintaan.",
+      "Soseuta tahini valkosipulin, sitruunamehun ja suolan kanssa – se vaalenee ja paksunee. Lisää jäävesi ja soseuta uudelleen: seos muuttuu kevyeksi ja ilmavaksi.",
+      "Lisää lämpimät kikherneet ja kumina ja soseuta vähintään 3 minuuttia, ohentaen keitinvedellä. Kolme minuuttia ei ole liioittelua; rakenne syntyy siitä.",
+      "Levitä lautaselle, tee lusikan selällä kouru ympäri, valuta päälle runsaasti oliiviöljyä ja ripottele kuminaa."
+    ]
+  },
+  {
+    "id": "unitools-feijoada",
+    "title": "Feijoada – brasilialainen mustapapupata",
+    "description": "Mustia papuja haudutettuna useiden savustettujen ja suolattujen porsaanosien kanssa, tarjoiltuna appelsiinin ja kaalin kera. (Feijoada)",
+    "servings": 8,
+    "prepTimeMin": 40,
+    "cookTimeMin": 180,
+    "totalTimeMin": 220,
+    "category": "Pääruoat",
+    "tags": ["liha", "brasilialainen", "juhla"],
+    "ingredients": [
+      "700 g kuivattuja mustia papuja, liotettuna yön yli",
+      "400 g suolattua porsaanlihaa, liotettuna 12 tuntia",
+      "500 g savustettuja porsaan ribsejä",
+      "300 g savumakkaraa",
+      "300 g porsaan kylkeä",
+      "2 sipulia",
+      "6 valkosipulinkynttä",
+      "3 laakerinlehteä",
+      "2 appelsiinia",
+      "300 g lehtikaalia, hienoksi suikaloituna",
+      "600 g keitettyä riisiä",
+      "2 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Keitä suolattua lihaa raikkaassa vedessä 20 minuuttia ja valuta: viimeinen vaihe suolan poistamisessa.",
+      "Peitä pavut vedellä niin, että vettä on kolmen sormen verran yläpuolella, lisää laakerinlehdet, ribsit ja suolaliha ja keitä hiljalleen puolitoista tuntia.",
+      "Lisää porsaan kylki ja makkara ja keitä vielä tunti. Papujen pitää alkaa hajota ja liemen sakeutua itsestään.",
+      "Paista sipuli ja valkosipuli kullanruskeiksi, lisää kauhallinen papuja, muussaa ja palauta kaikki pataan. Tämä sakeuttaa ja syventää muhennosta.",
+      "Paista kaalia kovalla lämmöllä 2 minuuttia valkosipulin kanssa – sen pitää jäädä kirkkaan vihreäksi ja rapeaksi.",
+      "Tarjoa pavut ja lihat riisin, kaalin ja appelsiinilohkojen kanssa. Jokainen kokoaa oman lautasensa."
+    ]
+  },
+  {
+    "id": "unitools-pao-de-queijo",
+    "title": "Pão de queijo – brasilialaiset juustopullat",
+    "description": "Tapiokatärkkelyksestä tehtyjä juustopalloja – rapea kuori ja venyvä, ontto sisus. Ei vehnää eikä hiivaa. (Pão de queijo)",
+    "servings": 6,
+    "prepTimeMin": 25,
+    "cookTimeMin": 25,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "brasilialainen", "gluteeniton", "juusto"],
+    "ingredients": [
+      "500 g tapiokajauhoja (tapiokatärkkelystä)",
+      "2,5 dl maitoa",
+      "1 dl vettä",
+      "1,2 dl rypsiöljyä",
+      "2 kananmunaa",
+      "200 g parmesaania, raastettuna",
+      "100 g mozzarellaa, raastettuna",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna maito, vesi, öljy ja suola juuri kiehumispisteen alle.",
+      "Kaada kaikki kuuma neste kerralla tärkkelyksen päälle ja sekoita lastalla. Seos näyttää paakkuiselta ja oudolta; niin kuuluukin. Anna jäähtyä lämpimäksi.",
+      "Vaivaa joukkoon munat yksi kerrallaan ja sitten molemmat juustot. Vaivaa tasaiseksi tahmeaksi massaksi – käsin se on helpompaa kuin lusikalla.",
+      "Pyörittele märin käsin saksanpähkinän kokoisia palloja ja asettele ne pellille 3 cm:n välein.",
+      "Paista 200-asteisessa uunissa 20 minuuttia kullanruskeiksi. Älä avaa uunin luukkua ensimmäisen 15 minuutin aikana: höyry karkaa ja pullat lysähtävät."
+    ]
+  }
+]

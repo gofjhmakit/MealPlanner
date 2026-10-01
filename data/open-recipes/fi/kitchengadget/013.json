@@ -1,0 +1,701 @@
+[
+  {
+    "id": "kg-romesco-sauce",
+    "title": "Romesco-kastike",
+    "description": "Katalonialainen paahdettu paprika-mantelikastike grillikasviksille ja kalalle.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "espanjalainen", "grilli"],
+    "ingredients": [
+      "2 paahdettua punaista paprikaa",
+      "1 paahdettu tomaatti",
+      "30 g paahdettuja manteleita",
+      "1 viipale paahdettua leipää, revittynä",
+      "2 valkosipulinkynttä",
+      "2 rkl sherryviinietikkaa",
+      "1 tl savupaprikajauhetta",
+      "60 ml oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita paprikat, tomaatti, mantelit, leipä ja valkosipuli monitoimikoneeseen.",
+      "Soseuta lähes sileäksi.",
+      "Lisää etikka ja paprikajauhe ja soseuta uudelleen.",
+      "Lisää oliiviöljy ohuena nauhana koneen käydessä, kunnes kastike emulgoituu.",
+      "Mausta suolalla ja tarjoile huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "kg-root-veg-crisps-with-houmous",
+    "title": "Juureslastut ja paahdettu paprikahummus",
+    "description": "Uunissa paistetut juureslastut ja tulinen paprikahummus dippinä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "palkokasvit", "uuniruoka"],
+    "ingredients": [
+      "Lastut:",
+      "1 keskikokoinen porkkana",
+      "1 keskikokoinen palsternakka",
+      "150 g bataattia",
+      "1 pieni punajuuri",
+      "1 rkl rypsiöljyä",
+      "1 tl paprikajauhetta",
+      "suolaa",
+      "Hummus:",
+      "1 tlk (400 g) kikherneitä, valutettuna (säästä liemi)",
+      "150 g paahdettuja paprikoita (purkista), valutettuna",
+      "1 tuore chili",
+      "½ tl cayennepippuria",
+      "1 rkl tahinia",
+      "1 valkosipulinkynsi",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen (kiertoilma 160). Puhdista juurekset ja leikkaa hyvin ohuiksi viipaleiksi. Kuivaa talouspaperilla.",
+      "Sekoita viipaleet öljyyn ja paprikajauheeseen. Levitä leivinpaperilla vuoratuille pelleille ja paista 16–18 minuuttia rapeiksi ja kullanruskeiksi (nosta valmiit pois sitä mukaa). Suolaa ja jäähdytä ritilällä.",
+      "Soseuta kikherneet, paahdetut paprikat, chili, cayennepippuri, tahini, valkosipuli ja sitruunamehu sileäksi. Ohenna tarvittaessa kikherneiden liemellä. Mausta.",
+      "Tarjoile hummus lastujen kanssa."
+    ]
+  },
+  {
+    "id": "kg-rosto-pork-pasta-stew",
+    "title": "Rosto – porsaanpaisti tomaattikastikkeessa ja pasta",
+    "description": "Gibraltarilainen tomaattikastikkeessa haudutettu porsaanpaisti juuresten ja sienten kanssa pastan päällä.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "pataruoka"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 valkosipulinkynsi, murskattuna",
+      "1 sipuli, hienonnettuna",
+      "500 g tuoreita tomaatteja, pilkottuna",
+      "1 kg porsaan ulkofileetä (paistina)",
+      "400 g tomaattisosetta (passata)",
+      "1 dl valkoviiniä",
+      "4 perunaa, lohkottuna",
+      "2 porkkanaa, pilkottuna",
+      "250 g herkkusieniä",
+      "ripaus sokeria",
+      "suolaa",
+      "mustapippuria",
+      "500 g penneä tai makaronia",
+      "raastettua juustoa tarjoiluun"
+    ],
+    "instructions": [
+      "Kuullota valkosipuli ja sipuli oliiviöljyssä pehmeiksi.",
+      "Lisää tuoreet tomaatit ja kypsennä 5 minuuttia. Lisää liha ja ruskista se joka puolelta.",
+      "Lisää tomaattisose, viini, perunat ja porkkanat. Hauduta kannen alla, kunnes liha ja kasvikset ovat kypsiä (noin 1–1½ tuntia).",
+      "Lisää sienet viimeiseksi 10 minuutiksi. Mausta suolalla, pippurilla ja ripauksella sokeria.",
+      "Keitä pasta erikseen al denteksi. Viipaloi liha ja tarjoile lihan, kasvisten ja kastikkeen kanssa pastan päällä juuston kera."
+    ]
+  },
+  {
+    "id": "kg-rouille",
+    "title": "Rouille",
+    "description": "Provencelainen sahrami-chilimajoneesi, bouillabaissen perinteinen lisuke.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 keltuainen",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "½ tl savupaprikajauhetta",
+      "ripaus sahramia (valinnainen)",
+      "1,5 dl oliiviöljyä",
+      "suolaa",
+      "ripaus cayennepippuria"
+    ],
+    "instructions": [
+      "Vatkaa keltuainen, valkosipuli, paprikajauhe ja halutessasi sahrami.",
+      "Lisää öljy hitaasti koko ajan vatkaten, kunnes kastike on paksua.",
+      "Mausta suolalla ja cayennepippurilla.",
+      "Tarjoile kalakeiton päällä tai paahdetun patongin päälle levitettynä."
+    ]
+  },
+  {
+    "id": "kg-salsa-golf",
+    "title": "Salsa golf",
+    "description": "Argentiinalainen ja uruguaylainen klassikko katkarapucocktailille ja ranskalaisille.",
+    "servings": 8,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "argentiinalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "2 rkl ketsuppia",
+      "1 tl sitruunamehua",
+      "tilkka worcestershirekastiketta (valinnainen)",
+      "ripaus cayennepippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Vatkaa majoneesi ja ketsuppi tasaiseksi ja vaaleanpunaiseksi.",
+      "Lisää sitruunamehu ja halutessasi worcestershirekastike.",
+      "Lisää halutessasi cayennepippuria.",
+      "Anna jäähtyä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-salsa-macha",
+    "title": "Salsa macha",
+    "description": "Hyvin umaminen meksikolainen kastike öljyssä paahdetuista kuivatuista chileistä ja maapähkinöistä – tacoihin, nachoihin ja huevos rancherosiin.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "mauste"],
+    "ingredients": [
+      "2 isoa kuivattua ancho-chiliä",
+      "2 isoa kuivattua guajillo-chiliä (tai vastaavaa)",
+      "5–6 kuivattua chile de árbol -chiliä (tai vastaavaa)",
+      "50 g maapähkinöitä",
+      "1 rkl seesaminsiemeniä",
+      "4 valkosipulinkynttä",
+      "2½ dl mietoa oliiviöljyä tai rypsiöljyä",
+      "2 rkl omenaviini- tai valkoviinietikkaa",
+      "2 tl tummaa fariinisokeria",
+      "1 tl suolaa",
+      "1 tl oreganoa"
+    ],
+    "instructions": [
+      "Poista chileistä kannat ja siemenet ja leikkaa ne noin 1 cm:n paloiksi.",
+      "Laita maapähkinät, valkosipuli, seesaminsiemenet ja öljy kattilaan ja kuumenna keskikovalla lämmöllä. Kypsennä muutama minuutti, kunnes valkosipuli alkaa rapeutua palamatta.",
+      "Lisää chilit, nosta liedeltä ja anna paahtua jäähtyvässä öljyssä 10 minuuttia.",
+      "Sekoita joukkoon etikka, sokeri, suola ja oregano ja anna jäähtyä käsiteltäväksi.",
+      "Sekoita monitoimikoneessa sykäyksittäin – tavoitteena on rapeita pähkinä- ja chilipaloja, ei sosetta.",
+      "Purkita ja säilytä jääkaapissa."
+    ],
+    "notes": ["Chilit voi korvata millä tahansa saatavilla olevilla kuivatuilla chileillä, esimerkiksi chipotleilla."]
+  },
+  {
+    "id": "kg-salsa-roja",
+    "title": "Salsa roja",
+    "description": "Kypsennetty punainen pöytäsalsa, miedompi ja savuisempi kuin pico de gallo.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 kuivattua guajillo-chiliä, kannat ja siemenet poistettuna",
+      "500 g kypsiä tomaatteja",
+      "½ sipulia",
+      "2 valkosipulinkynttä",
+      "1 rkl limettimehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paahda chilejä kuivalla pannulla minuutti ja liota kuumassa vedessä 10 minuuttia.",
+      "Hiillosta tomaatit, sipuli ja valkosipuli uunin grillivastuksen alla tai kuivalla pannulla, kunnes kuori kupruilee.",
+      "Soseuta tomaatit, sipuli, valkosipuli, valutetut chilit ja limettimehu sileäksi.",
+      "Mausta suolalla ja hauduta 5 minuuttia maun syventämiseksi."
+    ]
+  },
+  {
+    "id": "kg-salsa-verde",
+    "title": "Salsa verde – tomatillosalsa",
+    "description": "Kirpeä meksikolainen tomatillosalsa tacoille ja enchiladoille.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "500 g tomatilloja, kuoret poistettuna",
+      "1 jalapeño",
+      "½ sipulia",
+      "2 valkosipulinkynttä",
+      "½ dl korianteria",
+      "1 rkl limettimehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä tomatilloja, jalapeñoa, sipulia ja valkosipulia 8 minuuttia pehmeiksi.",
+      "Valuta ja siirrä tehosekoittimeen korianterin ja limettimehun kanssa.",
+      "Soseuta lähes sileäksi niin, että hieman rakennetta jää.",
+      "Mausta suolalla ja anna jäähtyä ennen tarjoilua."
+    ],
+    "notes": ["Tomatilloja saa purkitettuina; ne voi korvata vihreillä tomaateilla ja limetillä."]
+  },
+  {
+    "id": "kg-sardine-and-tomato-toast",
+    "title": "Sardiini-tomaattileipä",
+    "description": "Nopea omega-3-pitoinen lounas.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kala", "nopea", "leipä"],
+    "ingredients": [
+      "2 viipaletta hapanjuurileipää",
+      "1 tomaatti, viipaloituna",
+      "2 tlk sardiineja oliiviöljyssä",
+      "1 sitruuna",
+      "tuoretta persiljaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Paahda leipä.",
+      "Asettele päälle tomaattiviipaleet.",
+      "Nosta sardiinit tomaattien päälle.",
+      "Viimeistele sitruunamehulla, persiljalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "kg-sarmale",
+    "title": "Sarmale – romanialaiset hapankaalikääryleet",
+    "description": "Perinteiset romanialaiset kaalikääryleet hapankaalinlehdistä, jotka syödään jouluna, pääsiäisenä ja juhlissa. Tarjoile polentan, smetanan ja tillin kanssa. Ohjeesta tulee noin 60 pientä kääryletta.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["liha", "romanialainen", "juhla", "pataruoka"],
+    "ingredients": [
+      "Täyte:",
+      "4 sipulia",
+      "5 rkl oliiviöljyä",
+      "1 rkl paprikajauhetta",
+      "100 g tomaattipyreetä",
+      "250 g pitkäjyväistä riisiä",
+      "225 g naudan jauhelihaa",
+      "225 g porsaan jauhelihaa",
+      "2 tl suolaa",
+      "2 tl mustapippuria",
+      "25 g tuoretta tilliä",
+      "Kääreet ja pata:",
+      "1 kokonainen hapatettu kaalinpää",
+      "5 oksaa timjamia",
+      "1 tlk (400 g) tomaattimurskaa",
+      "Tarjoiluun:",
+      "smetanaa",
+      "polentaa"
+    ],
+    "instructions": [
+      "Valmista täyte: kuutioi sipulit ja kuullota öljyssä keskilämmöllä noin 10 minuuttia pehmeiksi. Sekoita joukkoon paprikajauhe ja tomaattipyree ja sammuta lämpö. Sekoita joukkoon riisi ja sitten jauhelihat, suola ja pippuri. Hienonna tilli, säästä 3–4 rkl ja lisää loput täytteeseen. Sekoita tasaiseksi.",
+      "Irrota kaalinlehdet, leikkaa paksut suonet pois ja leikkaa lehdet noin 6–7 cm:n kolmioiksi. Hienonna suonet ja muut leikkuujätteet kulhoon.",
+      "Nosta noin 1 rkl täytettä lehden alaosan keskelle, taita sivut sisään ja kääri rullaksi. Toista, kunnes täyte loppuu.",
+      "Hienonna jäljelle jääneet lehdet ja lisää kulhoon. Sekoita joukkoon säästetty tilli sekä vähän suolaa ja pippuria.",
+      "Laita timjaminoksat isoon kattilaan ja levitä päälle puolet hienonnetusta kaalista. Asettele kääryleet kattilaan ympyrää kerros kerrallaan. Levitä päälle loput hienonnetusta kaalista ja tomaattimurska.",
+      "Kaada päälle kuumaa suolalla maustettua vettä niin, että kääryleet lähes peittyvät. Kuumenna keskilämmöllä kiehuvaksi, laske lämpö ja hauduta noin tunti.",
+      "Nosta kääryleet ja hienonnettu kaali lautasille ja tarjoile smetanan, polentan ja tillin kanssa."
+    ],
+    "notes": ["Hapatettua kokonaista kaalinpäätä saa itäeurooppalaisista kaupoista (esim. kiseli kupus). Tomaattimurska puuttui alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-sauce-vierge",
+    "title": "Sauce vierge",
+    "description": "Kypsentämätön ranskalainen tomaatti-oliiviöljykastike grillatulle kalalle.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "ranskalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "3 kypsää tomaattia, siemenet poistettuna ja kuutioituna",
+      "1¼ dl oliiviöljyä",
+      "1 rkl sitruunamehua",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 rkl basilikaa, suikaloituna",
+      "1 rkl ruohosipulia, hienonnettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita tomaatit, oliiviöljy ja sitruunamehu kulhossa.",
+      "Lisää valkosipuli, basilika ja ruohosipuli.",
+      "Mausta suolalla ja pippurilla.",
+      "Anna seistä huoneenlämmössä 10 minuuttia ja tarjoile kalan päällä."
+    ]
+  },
+  {
+    "id": "kg-sauerkraut",
+    "title": "Hapankaali",
+    "description": "Itse hapatettu hapankaali – hyvä tapa käyttää ylijäänyt kaali.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "fermentoitu", "gluteeniton"],
+    "ingredients": [
+      "1 kg valkokaalia",
+      "20 g merisuolaa (n. 3 rkl hiutalesuolaa)",
+      "½ tl kuminaa",
+      "1 tl mustapippuria (kokonaisena)"
+    ],
+    "instructions": [
+      "Puhdista kulho ja hapatuspurkki huolellisesti kiehuvalla vedellä – välineiden on oltava täysin puhtaita.",
+      "Poista kaalista sitkeät tai rikkinäiset ulkolehdet, halkaise ja poista kanta. Säästä yksi iso lehti sivuun.",
+      "Suikaloi kaali hienoksi (mieluiten monitoimikoneella) ja laita isoon kulhoon. Lisää suola ja hiero sitä kaaliin käsin noin 5 minuuttia. Anna seistä 5 minuuttia ja hiero vielä 5 minuuttia, kunnes kulhossa on suolaista kaalia omassa liemessään.",
+      "Sekoita joukkoon kumina ja pippurit ja siirrä kaali liemineen purkkiin. Aseta säästetty kaalinlehti päälle kanneksi ja paina kaali painolla niin, että se on kokonaan liemen alla. Käymisessä syntyy hiilidioksidia, joten älä sulje purkkia ilmatiiviisti – peitä se harsokankaalla ja kuminauhalla.",
+      "Anna käydä huoneenlämmössä suoralta auringonvalolta suojassa noin viikko, halutessasi jopa kuukauden voimakkaamman maun saamiseksi.",
+      "Siirrä valmis hapankaali pienempiin puhtaisiin purkkeihin ja säilytä jääkaapissa enintään kuusi kuukautta."
+    ]
+  },
+  {
+    "id": "kg-sausage-bean-casserole",
+    "title": "Makkara-papupata ja valkosipulileipä",
+    "description": "Tomaattinen makkara-voipapupata grillatun hapanjuurileivän kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "brittiläinen", "pataruoka", "palkokasvit"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "8 keskikokoista kevytporsaanmakkaraa",
+      "1 pieni punasipuli, hienonnettuna",
+      "2 keltaista paprikaa, ohuina suikaleina",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "1 rkl worcestershirekastiketta",
+      "suolaa",
+      "mustapippuria",
+      "2 tlk (à 400 g) voipapuja, valutettuna ja huuhdeltuna",
+      "280 g hapanjuurileipää, viipaloituna",
+      "2 valkosipulinkynttä, puolitettuna",
+      "tuoretta persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Voitele syvä pannu ohuelti öljyllä ja kuumenna keskikovalle lämmölle. Paista makkaroita, sipulia ja paprikoita 6–8 minuuttia, kunnes makkarat ovat kypsiä ja kasvikset pehmeitä.",
+      "Sekoita joukkoon tomaatit ja worcestershirekastike ja mausta. Kuumenna kiehuvaksi ja hauduta 10 minuuttia, kunnes pata sakenee. Lisää pavut ja hauduta 2 minuuttia.",
+      "Kuumenna grillipannu kovalle lämmölle. Sivele leipäviipaleet ohuelti öljyllä ja grillaa 1–2 minuuttia puoleltaan. Hiero pinnat valkosipulinpuolikkailla.",
+      "Tarjoile pata leipien kanssa persiljalla viimeisteltynä."
+    ]
+  },
+  {
+    "id": "kg-sauteed-greens-with-garlic",
+    "title": "Valkosipulilla paistetut lehtivihannekset",
+    "description": "Yksinkertainen lisuke mihin tahansa ateriaan.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "nopea", "lisuke", "gluteeniton"],
+    "ingredients": [
+      "500 g mangoldia tai lehtikaalia",
+      "2 rkl oliiviöljyä",
+      "3 valkosipulinkynttä, viipaloituna",
+      "ripaus chilihiutaleita",
+      "1 rkl sitruunamehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Pese lehdet ja poista sitkeät varret.",
+      "Kuullota valkosipulia öljyssä, kunnes se tuoksuu.",
+      "Lisää lehdet erissä ja kypsennä, kunnes ne nuutuvat.",
+      "Mausta suolalla, chilihiutaleilla ja sitruunamehulla."
+    ]
+  },
+  {
+    "id": "kg-seitan-steak",
+    "title": "Seitanpihvit",
+    "description": "Alusta asti tehdyt lihaisat seitanpihvit, jotka sopivat esimerkiksi tacojen täytteeksi.",
+    "servings": 4,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasviproteiini"],
+    "ingredients": [
+      "200 g keitettyjä linssejä",
+      "180 g vehnägluteenia",
+      "25 g ravintohiivaa",
+      "2 rkl tomaattipyreetä",
+      "4 rkl soijakastiketta",
+      "1 tl nestesavua",
+      "1 tl valkosipulijauhetta",
+      "1 tl chilijauhetta",
+      "½ tl mustapippuria",
+      "1 dl vettä",
+      "Marinadi:",
+      "2 rkl oliiviöljyä",
+      "1 rkl vaahterasiirappia",
+      "60 ml vettä"
+    ],
+    "instructions": [
+      "Keitä linssit tarvittaessa pakkauksen ohjeen mukaan ja anna jäähtyä. Mikä tahansa linssilaji käy.",
+      "Laita gluteeni, linssit, ravintohiiva, tomaattipyree, nestesavu ja mausteet monitoimikoneeseen 1 dl:n vettä ja puolen soijakastikkeen kanssa. Sekoita sykäyksittäin tasaiseksi (onnistuu myös käsin).",
+      "Kumoa taikina pöydälle ja vaivaa. Aluksi se on kuivaa ja murenevaa, mutta muutaman minuutin kuluttua siitä tulee kireä pallo – lopeta silloin.",
+      "Jaa taikina neljään osaan ja kauli palat pihvin muotoisiksi. Taikina on kireää ja joustavaa, joten voimaa tarvitaan.",
+      "Kiehauta vettä höyrytyskorin alla. Höyrytä pihvejä kannen alla 25–30 minuuttia, käännä puolivälissä ja varo, ettei kattila kiehu kuivaksi. Pihvit noin kaksinkertaistuvat.",
+      "Sekoita isossa kulhossa loput soijakastikkeesta, vaahterasiirappi, oliiviöljy ja vesi. Nosta höyrytetyt pihvit kulhoon, kääntele ja anna marinoitua tunti tai yön yli.",
+      "Kuumenna paistinpannu tai grillipannu ja paista pihvejä pari minuuttia kummaltakin puolelta. Viipaloi ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-sesame-chicken",
+    "title": "Seesamikana",
+    "description": "Korealaistyylinen kevyesti paneroitu ja paistettu kana makean tahmeassa soijakastikkeessa – herkullinen, mutta ei joka päivän ruokaa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kana", "korealainen", "aasialainen"],
+    "ingredients": [
+      "Kastike:",
+      "1,2 dl soijakastiketta",
+      "1,2 dl kanalientä",
+      "3 rkl tummaa fariinisokeria",
+      "1 rkl maissitärkkelystä",
+      "2 rkl omenaviini- tai valkoviinietikkaa",
+      "1 tl paahdettua seesamiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "¼ tl inkiväärijauhetta",
+      "2 tl seesaminsiemeniä",
+      "2 tl chilihiutaleita",
+      "Kana:",
+      "500 g broilerin reisifileitä (luuttomia, nahattomia)",
+      "2 rkl maissitärkkelystä",
+      "½ tl suolaa",
+      "1 kananmuna",
+      "mustapippuria",
+      "3 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Valmista kastike sekoittamalla kaikki sen ainekset huolellisesti.",
+      "Vatkaa taikina maissitärkkelyksestä, suolasta ja kananmunasta ja mausta pippurilla. Leikkaa kana suupaloiksi, lisää taikinaan ja sekoita hyvin.",
+      "Kuumenna pannulla noin 1 rkl öljyä. Nosta kanapalat pannulle yksitellen niin, että ne koskettavat pohjaa ja niillä on tilaa. Paista 2–3 erässä ja lisää öljyä tarvittaessa. Käännä paloja pari kertaa, kunnes ne ovat kullanruskeita ja kypsiä.",
+      "Palauta kaikki kana pannulle, vatkaa kastike uudelleen ja kaada kanan päälle.",
+      "Hauduta miedolla lämmöllä välillä sekoittaen, kunnes kastike sakenee. Tarjoile heti."
+    ],
+    "notes": ["Alkuperäisessä luettelossa maissitärkkelys oli vain kerran, vaikka sitä käytetään sekä kastikkeeseen että taikinaan; kananmuna ja öljy puuttuivat."]
+  },
+  {
+    "id": "kg-sesame-ginger-beef-broccoli",
+    "title": "Seesami-inkivääri-naudanliha ja parsakaali",
+    "description": "Nopea wokki höyrytetyn riisin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "aasialainen", "nopea"],
+    "ingredients": [
+      "1 rkl seesamiöljyä",
+      "400 g naudanlihasuikaleita",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "15 g inkivääriä, raastettuna",
+      "1 parsakaali, kukintoina",
+      "2 rkl soijakastiketta",
+      "1 tl hunajaa"
+    ],
+    "instructions": [
+      "Ruskista liha nopeasti seesamiöljyssä.",
+      "Lisää valkosipuli, inkivääri, parsakaali ja tilkka vettä.",
+      "Sekoita joukkoon soijakastike ja hunaja ja kypsennä, kunnes pinta kiiltää.",
+      "Tarjoile heti."
+    ],
+    "notes": ["Parhaimmillaan höyrytetyn riisin kanssa."]
+  },
+  {
+    "id": "kg-shakshuka",
+    "title": "Shakshuka",
+    "description": "Maustetussa tomaattikastikkeessa haudutetut kananmunat – brunssitunnelmaa arkibudjetilla.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "lähi-itä", "kananmuna", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 keskikokoinen keltasipuli, kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tl juustokuminaa",
+      "1 tl savupaprikajauhetta",
+      "½ tl chilijauhetta",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "ripaus cayennepippuria",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "6 isoa kananmunaa",
+      "100 g fetajuustoa",
+      "tuoretta persiljaa tai korianteria",
+      "rapeaa leipää tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isolla, syvällä paistinpannulla keskilämmöllä. Kuullota sipulia 4–5 minuuttia pehmeäksi.",
+      "Lisää valkosipuli ja mausteet ja sekoita 30 sekuntia.",
+      "Lisää tomaatit, sekoita ja hauduta 5 minuuttia, kunnes kastike sakenee hieman.",
+      "Tee lusikalla kastikkeeseen kuusi kuoppaa ja riko jokaiseen kananmuna.",
+      "Peitä pannu, laske lämpöä ja kypsennä 5–7 minuuttia, kunnes valkuaiset ovat hyytyneet mutta keltuaiset vielä juoksevia.",
+      "Murustele pinnalle feta, koristele yrteillä ja tarjoile suoraan pannusta leivän kanssa."
+    ],
+    "notes": ["Oliiviöljy ja feta puuttuivat alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-shanghai-scallion-oil-noodles",
+    "title": "Shanghailaiset kevätsipuliöljynuudelit",
+    "description": "Yksinkertainen shanghailainen klassikko: nuudelit kultaiseksi paistetussa kevätsipuliöljyssä.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "300 g tuoreita vehnänuudeleita",
+      "4 rkl rypsiöljyä",
+      "6 kevätsipulia, viipaloituna",
+      "2 rkl tummaa soijakastiketta",
+      "1 rkl vaaleaa soijakastiketta",
+      "1 tl sokeria"
+    ],
+    "instructions": [
+      "Keitä nuudelit al denteksi ja valuta.",
+      "Paista kevätsipuleita öljyssä hitaasti syvän kullanruskeiksi.",
+      "Sekoita tumma ja vaalea soijakastike ja sokeri kevätsipuliöljyyn.",
+      "Sekoita kuumat nuudelit kastikkeeseen.",
+      "Tarjoile heti kiiltävinä."
+    ]
+  },
+  {
+    "id": "kg-sheet-pan-chicken-fajitas",
+    "title": "Pellillä paistetut kanafajitat",
+    "description": "Kana, paprikat ja sipuli maustettuina ja paahdettuina samalla pellillä.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "meksikolainen", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "900 g broilerin reisifileitä (luuttomia, nahattomia)",
+      "3 paprikaa",
+      "1 iso keltasipuli, viipaloituna",
+      "2 rkl oliiviöljyä",
+      "1 rkl juustokuminaa",
+      "1 rkl chilijauhetta",
+      "1 tl valkosipulijauhetta",
+      "1 tl savupaprikajauhetta",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "2 limettiä, mehuna",
+      "12 vehnätortillaa",
+      "Lisäksi halutessa:",
+      "kermaviiliä, guacamolea, juustoraastetta, salsaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Vuoraa iso uunipelti foliolla tai leivinpaperilla.",
+      "Leikkaa kana ohuiksi suikaleiksi ja paprikat ja sipuli samankokoisiksi suikaleiksi.",
+      "Sekoita kana ja kasvikset pellillä öljyn ja mausteiden kanssa. Levitä yhdeksi kerrokseksi (käytä kahta peltiä tarvittaessa – ahtaus estää rapeat reunat).",
+      "Paahda 20 minuuttia puolivälissä sekoittaen, kunnes kana on kypsää ja kasviksissa on paahdepilkkuja.",
+      "Purista päälle limettimehu. Tarjoile lämpimissä tortilloissa lempitäytteidesi kanssa."
+    ]
+  },
+  {
+    "id": "kg-sheet-pan-gnocchi-with-sausage-and-broccoli",
+    "title": "Pellillä paahdetut gnocchit, kanamakkara ja parsakaali",
+    "description": "Vähän tiskiä tuottava pellillinen.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "500 g gnocchia (säilyke- tai kylmäpakkaus)",
+      "300 g kanamakkaraa, viipaloituna",
+      "1 parsakaali, kukintoina",
+      "1 punasipuli, lohkoina",
+      "2 rkl oliiviöljyä",
+      "1 tl fenkolinsiemeniä",
+      "suolaa",
+      "mustapippuria",
+      "parmesaania (valinnainen)"
+    ],
+    "instructions": [
+      "Levitä gnocchit, makkara, parsakaali ja sipuli pellille.",
+      "Sekoita öljyn, fenkolinsiementen, suolan ja pippurin kanssa.",
+      "Paahda 220 asteessa 22–25 minuuttia, kerran sekoittaen.",
+      "Viimeistele halutessasi parmesaanilla."
+    ]
+  },
+  {
+    "id": "kg-shredded-chicken-thighs",
+    "title": "Revitty kana",
+    "description": "Perusrevitty kana paistettuun riisiin, tacoihin ja enchiladoihin – sivutuotteena saat runsaasti lientä ja kananrasvaa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "gluteeniton", "arkiruoka"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 kg broilerin reisifileitä",
+      "3 salottisipulia",
+      "4 valkosipulinkynttä",
+      "1 laakerinlehti",
+      "1 tl suolaa",
+      "1½ tl juustokuminaa",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskilämmöllä. Lisää kanat niin, että ne koskettavat pohjaa mahdollisimman hyvin. Paista koskematta muutama minuutti, kunnes ne alkavat ruskistua, käännä ja toista.",
+      "Kuori salottisipulit ja leikkaa pituussuunnassa neljään osaan. Lisää ne ja loput ainekset kattilaan. Lisää vettä niin, että kana juuri peittyy.",
+      "Kuumenna kiehuvaksi ja hauduta, kunnes kana on mureaa, noin 30 minuuttia.",
+      "Nosta kana kulhoon ja revi kahdella haarukalla. Keitä lientä kokoon noin puoleen.",
+      "Lusikoi kanan päälle pari ruokalusikallista lientä ja sekoita, jotta se pysyy mehevänä.",
+      "Säilytä kana jääkaapissa enintään kolme päivää. Säilytä myös liemi jääkaapissa – rasva erottuu pinnalle ja sen voi kaapia talteen muuhun ruoanlaittoon."
+    ]
+  },
+  {
+    "id": "kg-sichuan-hot-dry-noodles-re-gan-mian",
+    "title": "Re gan mian – wuhanilaiset kuumat kuivat nuudelit",
+    "description": "Wuhanilaiset seesami-chilinuudelit säilötyn sinappikaalin kanssa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "300 g alkalisia vehnänuudeleita (tai ramen-nuudeleita)",
+      "2 rkl seesamitahnaa",
+      "2 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "1 rkl chiliöljyä",
+      "2 rkl säilöttyjä sinappikaalin varsia, hienonnettuna",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja valuta hyvin.",
+      "Vatkaa seesamitahna, soijakastike, etikka ja chiliöljy.",
+      "Sekoita kuumat nuudelit voimakkaasti kastikkeeseen.",
+      "Lisää päälle säilötty sinappikaali.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-simple-green-salad-with-lemon-vinaigrette",
+    "title": "Vihreä salaatti sitruunavinegretillä",
+    "description": "Arkinen lisukesalaatti.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "200 g salaattisekoitusta",
+      "1 kurkku, viipaloituna",
+      "200 g kirsikkatomaatteja",
+      "Vinegretti:",
+      "3 rkl oliiviöljyä",
+      "1 rkl sitruunamehua",
+      "1 tl dijonsinappia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese ja kuivaa salaatinlehdet.",
+      "Vatkaa oliiviöljy, sitruunamehu, sinappi, suola ja pippuri.",
+      "Sekoita kasvikset kastikkeeseen juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-singapore-curry-noodles",
+    "title": "Singaporelaiset currynuudelit",
+    "description": "Curryllä maustettu riisinuudeliwokki kanalla ja katkaravuilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "äyriäiset", "aasialainen", "nuudelit"],
+    "ingredients": [
+      "300 g ohuita riisinuudeleita (vermiselliä)",
+      "2 rkl rypsiöljyä",
+      "150 g broilerin rintafileetä, suikaleina",
+      "200 g katkarapuja",
+      "2 rkl currya",
+      "1 punainen paprika, suikaloituna",
+      "2 dl kookosmaitoa",
+      "2 rkl kalakastiketta",
+      "tuoretta korianteria",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Liota nuudeleita, kunnes ne pehmenevät, ja valuta.",
+      "Paista kana ja katkaravut öljyssä kypsiksi.",
+      "Lisää curry ja paprika ja paista 2 minuuttia.",
+      "Lisää kookosmaito ja kalakastike ja hauduta 5 minuuttia.",
+      "Sekoita joukkoon nuudelit ja viimeistele korianterilla ja limetillä."
+    ]
+  }
+]

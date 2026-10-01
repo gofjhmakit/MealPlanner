@@ -1,0 +1,446 @@
+[
+  {
+    "id": "wikibooks-out-of-salad-dressing-salad-dressing",
+    "title": "Hätävarakastike salaatille",
+    "description": "Kermainen parmesaani-sitruunakastike, joka syntyy jääkaapin perusaineista.",
+    "servings": 12,
+    "totalTimeMin": 490,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "salaatti"],
+    "ingredients": [
+      "1½ sitruunan mehu",
+      "2½ dl raastettua parmesaania",
+      "2 tl valkosipulisuolaa",
+      "1¾ dl majoneesia",
+      "2½ dl maitoa"
+    ],
+    "instructions": [
+      "Sekoita sitruunamehu, parmesaani, valkosipulisuola ja majoneesi tasaiseksi.",
+      "Lisää maito. Säädä määrää tai lisää hieman vettä, kunnes kastike on halutun paksuista.",
+      "Peitä ja anna maustua jääkaapissa 8 tuntia tai yön yli."
+    ],
+    "notes": ["Valkosipulisuolan sijaan voit käyttää murskattua valkosipulinkynttä ja hieman suolaa."]
+  },
+  {
+    "id": "wikibooks-1-2-chocolate-cake",
+    "title": "Helppo suklaakakku vuoassa sekoittaen",
+    "description": "Yksinkertainen suklaakakku, joka sekoitetaan suoraan uunivuoassa.",
+    "servings": 9,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kakku", "uuniruoka"],
+    "ingredients": [
+      "¾ dl rypsiöljyä",
+      "55 g tummaa leivontasuklaata (makeuttamaton)",
+      "2½ dl sokeria",
+      "1 kananmuna",
+      "3 dl grahamjauhoja",
+      "½ tl suolaa",
+      "½ tl ruokasoodaa",
+      "1 tl vaniljasokeria",
+      "1¾ dl vettä",
+      "1¾ dl suklaarakeita",
+      "1 dl hienonnettuja pähkinöitä",
+      "115 g tuorejuustoa tai kermaviiliä (valinnainen)"
+    ],
+    "instructions": [
+      "Laita öljy ja suklaa noin 20 × 20 cm:n neliövuokaan ja nosta vuoka 180-asteiseen uuniin vain siksi aikaa, että suklaa sulaa. Lisää halutessasi tuorejuusto tai kermaviili.",
+      "Lisää vuokaan muut ainekset paitsi suklaarakeet ja pähkinät.",
+      "Vatkaa haarukalla tasaiseksi ja kuohkeaksi, noin 2 minuuttia.",
+      "Kaavi vuoan reunat ja levitä taikina tasaisesti.",
+      "Ripottele pinnalle suklaarakeet ja pähkinät ja painele niitä halutessasi hieman taikinaan.",
+      "Paista 180 asteessa 30–40 minuuttia, kunnes keskelle pistetty tikku tulee ulos puhtaana.",
+      "Anna jäähtyä vuoassa. Tarjoa lämpimänä tai jäähtyneenä."
+    ],
+    "notes": ["Sokerin määrän voi puolittaa."]
+  },
+  {
+    "id": "wikibooks-1-2-3-4-cake",
+    "title": "1-2-3-4-kakku",
+    "description": "Perinteinen amerikkalainen voikakku, jonka nimi tulee voin, sokerin, jauhojen ja munien suhteesta.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "amerikkalainen", "uuniruoka"],
+    "ingredients": [
+      "240 g voita, huoneenlämpöistä",
+      "2½ dl maitoa",
+      "2 tl vaniljasokeria",
+      "4½ dl sokeria",
+      "7 dl vehnäjauhoja",
+      "3 tl leivinjauhetta",
+      "3 ripausta suolaa",
+      "4 kananmunaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Lisää vanilja ja munat yksi kerrallaan hyvin vatkaten jokaisen lisäyksen jälkeen.",
+      "Sekoita kuivat aineet keskenään ja siivilöi ne taikinaan vähitellen vuorotellen pienten maitolisäysten kanssa.",
+      "Kaada taikina voideltuun ja jauhotettuun kakkuvuokaan.",
+      "Paista 175 asteessa, kunnes kakkuun pistetty tikku tulee ulos ilman kosteaa taikinaa."
+    ]
+  },
+  {
+    "id": "wikibooks-20-ingredient-brownies",
+    "title": "Juustokakkubrowniet suklaakuorrutteella",
+    "description": "Täyteläiset browniet, joiden päällä on tuorejuusto-mascarponekerros ja suklaaganache.",
+    "servings": 15,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "juhla", "uuniruoka"],
+    "ingredients": [
+      "Brownie:",
+      "3½ dl fariinisokeria",
+      "2½ dl sokeria",
+      "375 g voita, sulatettuna",
+      "4 kananmunaa",
+      "2 tl suolaa",
+      "2 rkl vaniljasokeria",
+      "225 g tummaa suklaata",
+      "3½ dl vehnäjauhoja",
+      "1 dl kaakaojauhetta",
+      "225 g puolimakeaa suklaata, rouhittuna",
+      "Juustokerros:",
+      "450 g tuorejuustoa",
+      "300 g mascarponea",
+      "1 dl sokeria",
+      "2 tl vaniljasokeria",
+      "1 kananmuna",
+      "2 rkl maitoa",
+      "Ganache:",
+      "310 g suklaata",
+      "3½ dl kuohukermaa, kuumennettuna",
+      "1 tl suolaa",
+      "Viimeistelyyn:",
+      "sormisuolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen. Vuoraa noin 33 × 23 cm:n vuoka leivinpaperilla.",
+      "Sulata tumma suklaa mikroaaltouunissa 30 sekunnin jaksoissa ja anna jäähtyä.",
+      "Vatkaa voi ja sokerit isossa kulhossa sekaisin.",
+      "Lisää munat, suola ja vanilja, sitten sulatettu suklaa.",
+      "Kääntele joukkoon jauhot ja kaakao, lopuksi rouhittu suklaa.",
+      "Kaada taikina vuokaan ja paista 25 minuuttia.",
+      "Vatkaa sillä välin tuorejuusto ja mascarpone pehmeäksi. Lisää sokeri ja vanilja, sitten muna ja maito.",
+      "Ota brownie uunista, kaada juustoseos sen päälle ja paista vielä 30 minuuttia.",
+      "Anna jäähtyä.",
+      "Tee ganache: sekoita suklaa, kuuma kerma ja suola kulhossa, kunnes suklaa on sulanut.",
+      "Kaada ganache browniepohjan päälle ja anna jähmettyä jääkaapissa muutama tunti.",
+      "Ripottele pinnalle hieman sormisuolaa. Tasoita reunat ja leikkaa 15 palaksi."
+    ]
+  },
+  {
+    "id": "wikibooks-20-minute-beef-stroganoff",
+    "title": "Nopea naudanliha-stroganoff",
+    "description": "Arkinen stroganoff sienillä, kermaviilillä ja nauhapastalla 20 minuutissa.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "230 g leveää munanuudelia tai nauhapastaa",
+      "1 tl oliiviöljyä",
+      "230 g herkkusieniä, viipaloituna",
+      "1 iso sipuli, karkeasti hienonnettuna",
+      "450 g naudan suikaleita",
+      "½ dl rasvatonta maitoa",
+      "1 tlk (300 g) herkkusienikeittotiivistettä",
+      "suolaa",
+      "mustapippuria",
+      "1 tl valkosipulimurskaa",
+      "¼ tl paprikajauhetta",
+      "2½ dl kermaviiliä",
+      "½ dl hienonnettua persiljaa"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan ja valuta.",
+      "Kuumenna sillä välin öljy syvässä paistinpannussa tai paksupohjaisessa kattilassa keskilämmöllä.",
+      "Ruskista lihasuikaleet ja lisää sienet ja sipuli. Paista, kunnes sipuli on pehmennyt, noin 3 minuuttia.",
+      "Lisää maito ja sienikeittotiivisteet. Mausta suolalla ja pippurilla ja sekoita hyvin.",
+      "Laske lämpöä ja sekoita joukkoon valkosipuli, paprikajauhe ja kermaviili.",
+      "Hauduta miedolla lämmöllä niin, ettei kastike kiehu (muuten se juoksettuu).",
+      "Tarjoa kastike pastan päällä ja koristele persiljalla."
+    ],
+    "notes": ["Alkuperäisessä ohjeessa käytetään valmista amerikkalaista naudanlihaa kastikkeessa; tässä se on korvattu ruskistetuilla naudan suikaleilla."]
+  },
+  {
+    "id": "wikibooks-40-cloves-in-a-roast-chicken",
+    "title": "Uunibroileri ja 40 valkosipulinkynttä",
+    "description": "Kokonainen broileri paahdettuna valkosipulin, sitruunan ja yrttien kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 kokonainen broileri (1,5–1,8 kg)",
+      "½ dl broilerin maustesekoitusta",
+      "40 valkosipulinkynttä, murskattuina",
+      "oliiviöljyä",
+      "1 iso sitruuna, ohuina viipaleina",
+      "½ nippu timjamia",
+      "5 oksaa rosmariinia",
+      "½ nippu lehtipersiljaa"
+    ],
+    "instructions": [
+      "Hiero maustesekoitus broilerin nahan alle. Anna maustua jääkaapissa vähintään tunnin.",
+      "Sido koivet yhteen ja käännä siipien kärjet selän alle.",
+      "Kuumenna valkosipuleita mikroaaltouunissa pienellä teholla 6 minuuttia.",
+      "Täytä broilerin vatsaontelo nopeasti valkosipuleilla (halutessasi paistopussissa).",
+      "Voitele broileri oliiviöljyllä. Levitä yrtit uunivuoan pohjalle ja sitruunaviipaleet niiden päälle.",
+      "Nosta broileri rintapuoli ylöspäin yrttien päälle ja paista 190 asteessa 45 minuuttia.",
+      "Nosta lämpö 220 asteeseen ja paista vielä noin 45 minuuttia, kunnes reiden ja rinnan sisälämpö on 75 astetta ja lihaneste on kirkasta.",
+      "Anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-a-nice-cup-of-tea",
+    "title": "Hyvä kupillinen teetä",
+    "description": "Perinteinen brittiläinen tapa hauduttaa tee teekannussa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["brittiläinen", "nopea", "vegaaninen"],
+    "ingredients": [
+      "1 l vettä",
+      "3–5 tl irtoteetä tai 3–5 teepussia",
+      "sokeria tai hunajaa (valinnainen)",
+      "maitoa tai sitruunamehua (valinnainen)"
+    ],
+    "instructions": [
+      "Kaada raikasta vettä vedenkeittimeen ja kuumenna haluamaasi lämpötilaan.",
+      "Lämmitä teekannu huuhtelemalla se kuumalla vedellä ja kaada vesi pois.",
+      "Laita irtotee haudutinsihtiin tai teepussit kannuun.",
+      "Kaada kuuma vesi kannuun niin, ettei se osu suoraan lehtiin (tärkeää etenkin vihreälle ja valkoiselle teelle).",
+      "Anna teen hautua sekoittamatta. Poista sihti tai pussit, kun haudutusaika on kulunut, ettei tee kitkeröidy.",
+      "Kaada tee kuppeihin ja lisää makeutusta ja maitoa tai sitruunaa maun mukaan."
+    ],
+    "notes": [
+      "Käytä yleensä ½–1 tl teetä kupillista kohden; halutessasi lisää yksi \"kannulle\".",
+      "Älä lisää samaan kuppiin maitoa ja sitruunaa, sillä maito juoksettuu."
+    ]
+  },
+  { "id": "wikibooks-aadun-nigerian-corn-flour-with-palm-oil", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-abacha-mmiri-soaked-cassava-flakes", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-abari-nigerian-steamed-corn-pudding", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-abula-nigerian-three-stews", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-accra-cassava-cameroonian-cassava-fritters",
+    "title": "Accra – kamerunilaiset maniokkipyörykät",
+    "description": "Raastetusta maniokista ja kypsästä banaanista friteeratut pyörykät aamiaiseksi tai välipalaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "afrikkalainen", "friteerattu"],
+    "ingredients": [
+      "1,4 kg raastettua maniokkia (myös pakaste)",
+      "4 isoa ylikypsää banaania (valinnainen)",
+      "1 tl suolaa",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Purista raastetusta maniokista keittiöliinan avulla mahdollisimman paljon nestettä pois. Raasteen tulee olla hyvin kuivaa.",
+      "Muussaa banaanit haarukalla tai monitoimikoneella.",
+      "Sekoita maniokki ja suola banaanimuussin joukkoon kulhossa. Seoksen tulee olla niin kiinteää, että siitä voi pyöritellä palloja.",
+      "Pyörittele noin 2 rkl seosta kerrallaan suupalan kokoisiksi palloiksi.",
+      "Kuumenna öljy syvässä pannussa tai kattilassa 190 asteeseen. Leipäkuution pitäisi ruskistua siinä noin minuutissa.",
+      "Paista pallot erissä kullanruskeiksi, älä täytä kattilaa liikaa.",
+      "Nosta pyörykät talouspaperille valumaan ja tarjoa tuoreena."
+    ]
+  },
+  {
+    "id": "wikibooks-acevichada-sauce",
+    "title": "Acevichada-kastike",
+    "description": "Perulais-japanilainen limetti-chilimajoneesi sushin ja äyriäisfriteerausten kastikkeeksi.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["perulainen", "japanilainen", "kastike"],
+    "ingredients": [
+      "1 dl limettimehua (8–10 limetistä)",
+      "20 g merisuolaa",
+      "20 g punasipulia",
+      "20 g ají amarillo -chiliä",
+      "10 g ají limo -chiliä",
+      "10 g valkosipulia",
+      "5 g korianterinlehtiä",
+      "5 g hondashi-liemijauhetta",
+      "5 g jauhettua mustapippuria",
+      "5 g togarashi-maustetta",
+      "3¾ dl soijaöljyä",
+      "2 pastöroitua kananmunaa"
+    ],
+    "instructions": [
+      "Kaada limettimehu kulhoon ja lisää suola. Maista: maun ei pidä olla liian suolainen eikä liian hapan. Tasapainota tarvittaessa suolalla tai limettimehulla.",
+      "Lisää sipuli, chilit, valkosipuli, korianteri, hondashi, mustapippuri ja togarashi.",
+      "Peitä kelmulla ja anna maustua jääkaapissa vähintään 15 minuuttia.",
+      "Riko munat tehosekoittimeen ja käynnistä pienellä nopeudella.",
+      "Lisää koneen käydessä hyvin vähitellen noin 2½ dl öljyä, kunnes seos sakeutuu majoneesiksi.",
+      "Pysäytä kone, kaada joukkoon maustettu limettiliemi ja jatka sekoittamista.",
+      "Lisää loput öljystä ohuena nauhana, kunnes seos sakeutuu uudelleen.",
+      "Maista ja lisää tarvittaessa suolaa."
+    ]
+  },
+  { "id": "wikibooks-achi-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-achicha-with-fio-fio-pigeon-peas-and-taro", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-acid-drops",
+    "title": "Happamat karkit",
+    "description": "Kovat sitruunahappokarkit, jotka ovat raikkaan happamia.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "karkki"],
+    "ingredients": [
+      "4½ dl sokeria",
+      "2½ dl vettä",
+      "½ tl viinikiveä",
+      "1 rkl sitruunahappoa",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Kuumenna sokeri, vesi ja viinikivi kiehuvaksi keskimiedolla lämmöllä. Sekoita varovasti, kunnes siirappi on 155-asteista (kova murtumisvaihe) tai vaaleanruskeaa. Kylmälle lautaselle tiputetun siirapin tulee kovettua kokonaan ja napsahtaa poikki.",
+      "Kaada massa öljytylle kuumuutta kestävälle alustalle ja ripottele päälle sitruunahappo.",
+      "Kääntele reunoja voidellulla lastalla keskelle, kunnes happo on sekoittunut tasaisesti.",
+      "Kun massa on niin jäähtynyttä, että siihen voi koskea, mutta vielä taipuisaa, pyörittele siitä tankoja ja leikkaa ne saksilla karkin kokoisiksi paloiksi.",
+      "Siivilöi päälle tomusokeria ja ravistele karkit sokeriin.",
+      "Anna jäähtyä ja kovettua täysin. Säilytä ilmatiiviissä rasiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-acorn-crusted-salmon",
+    "title": "Tammenterhokuorrutettu lohi",
+    "description": "Lohifileet jauhetussa tammenterhokuoressa uunissa tai pannulla.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea"],
+    "ingredients": [
+      "2 lohifileetä",
+      "3 dl kuorittuja tammenterhoja",
+      "2 kananmunan valkuaista",
+      "öljyä paistamiseen (valinnainen)"
+    ],
+    "instructions": [
+      "Jauha tammenterhot monitoimikoneessa tai tehosekoittimessa hienoksi jauhoksi. Paahda jauhoa halutessasi 190-asteisessa uunissa 5–7 minuuttia. Siirrä jauho lautaselle.",
+      "Laita valkuaiset matalaan astiaan ja kastele lohifileet niissä.",
+      "Kääntele fileet tammenterhojauhossa.",
+      "Uunissa: nosta fileet kevyesti voidellulle pellille ja paista 220 asteessa 10–15 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi.",
+      "Pannulla: kuumenna muutama ruokalusikallinen öljyä pannulla keskikorkealla lämmöllä ja paista fileitä 2–3 minuuttia per puoli paksuudesta riippuen.",
+      "Tarjoa esimerkiksi täysjyväriisin ja höyrytettyjen kasvisten kanssa."
+    ],
+    "notes": ["Tammenterhoista on huuhdottava kitkerät tanniinit pois ennen käyttöä (liota tai keitä useassa vedessä)."]
+  },
+  {
+    "id": "wikibooks-acorn-squash-with-orange-marmalade",
+    "title": "Uunikurpitsa appelsiinimarmeladilla",
+    "description": "Helppo, hennon makea kurpitsalisuke uunista.",
+    "servings": 2,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "kurpitsa"],
+    "ingredients": [
+      "1 keskikokoinen tammenterhokurpitsa, halkaistuna pituussuunnassa",
+      "1 rkl appelsiinimarmeladia",
+      "1 tl voita",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Poista kurpitsanpuolikkaista siemenet ja kuidut.",
+      "Leikkaa kummankin puolikkaan kuoripuolelta pieni pala, jotta ne pysyvät tasaisesti pystyssä.",
+      "Asettele puolikkaat leikkuupinta alaspäin uunivuokaan, jossa on noin ½ cm vettä. Paista 35 minuuttia.",
+      "Sekoita marmeladi ja voi pienessä kulhossa.",
+      "Käännä kurpitsat leikkuupinta ylöspäin ja suolaa kevyesti.",
+      "Levitä marmeladivoi kurpitsan reunoille niin, että ylimäärä valuu keskelle.",
+      "Grillaa uunin grillivastuksen alla noin 5 minuuttia, kunnes pinta on kevyesti ruskistunut."
+    ],
+    "notes": ["Marmeladin voi korvata fariinisokerilla."]
+  },
+  { "id": "wikibooks-adalu-bean-and-corn-porridge", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-adobo-chicken-philippine",
+    "title": "Filippiiniläinen kana-adobo",
+    "description": "Etikassa ja soijakastikkeessa haudutettu kana, Filippiinien tunnetuin ruoka.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "filippiiniläinen", "riisi"],
+    "ingredients": [
+      "6–8 broilerin paloja (koipia ja siipiä)",
+      "¾ dl kookosetikkaa tai balsamietikkaa",
+      "½ dl soijakastiketta",
+      "4 valkosipulinkynttä, murskattuina",
+      "1–2 laakerinlehteä",
+      "½ tl karkeasti murskattuja mustapippureita",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Laita broileri, valkosipuli, pippuri, soijakastike ja etikka kattilaan ja kuumenna kiehuvaksi.",
+      "Kun kana on kypsää, nosta palat siivilään valumaan. Säästä liemi kattilassa.",
+      "Kun palat ovat valuneet, paista ne kuumassa öljyssä keskilämmöllä joka puolelta ruskeiksi. Pidä kansi käden ulottuvilla roiskeiden varalta.",
+      "Palauta kanat liemeen, kuumenna hiljalleen kiehuvaksi ja lisää laakerinlehdet.",
+      "Keitä, kunnes liemi on suurimmaksi osaksi haihtunut. Halutessasi keitä niin kauan, että kastike sakeutuu ja tarttuu kanaan.",
+      "Tarjoa höyrytetyn riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-adobo-sauce",
+    "title": "Adobo-kastike chipotlesta",
+    "description": "Savuinen chipotle-chilikastike ja marinadi meksikolaiseen ruokaan.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "chili"],
+    "ingredients": [
+      "12 kuivattua chipotle-chiliä",
+      "1 l vettä",
+      "1 dl kuutioitua sipulia",
+      "¾ dl omenaviinietikkaa",
+      "½ dl ketsuppia",
+      "3 valkosipulinkynttä, murskattuina",
+      "ripaus juustokuminaa",
+      "ripaus oreganoa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset paksupohjaiseen kattilaan. Keitä hyvin miedolla lämmöllä 1–2 tuntia, kunnes chilit ovat hyvin pehmeitä ja nestettä on jäljellä noin 2½ dl. Voit myös keittää kastikkeen haudutuspadassa yön yli.",
+      "Survo huhmareessa tai soseuta tehosekoittimessa paksuksi kastikkeeksi."
+    ],
+    "notes": ["Säilyy ilmatiiviissä astiassa jääkaapissa useita viikkoja."]
+  },
+  { "id": "wikibooks-adoyo-nigerian-ogi-beverage", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-adult-macaroni-and-cheese",
+    "title": "Aikuisten makaronijuustokastike",
+    "description": "Kermainen makaroni usean juuston kastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "juusto", "nopea"],
+    "ingredients": [
+      "225 g makaronia",
+      "1¾ dl kuohukermaa",
+      "½ tl suolaa (+ keitinveteen)",
+      "60 g raastettua fontinaa",
+      "60 g raastettua gruyèrea",
+      "150 g mascarponea",
+      "150 g tuorejuustoa",
+      "4 ohutta viipaletta emmentaljuustoa, suikaleina",
+      "150 g suolatonta voita, jaettuna",
+      "2 rkl vehnäjauhoja",
+      "1 tl tabascoa"
+    ],
+    "instructions": [
+      "Keitä makaronit runsaassa suolalla maustetussa vedessä al denteksi. Valuta ja huuhtele kylmällä vedellä.",
+      "Sulata sillä välin 2 rkl voita paksupohjaisessa kattilassa keskilämmöllä. Kun kupliminen lakkaa, vatkaa joukkoon jauhot ja kuumenna koko ajan vatkaten, kunnes seos saa vaalean värin.",
+      "Lisää muut ainekset voita lukuun ottamatta. Kun juustot ovat sulaneet ja kastike on tasaista, vatkaa joukkoon voi ruokalusikallinen kerrallaan.",
+      "Kääntele makaronit kastikkeeseen ja tarjoa lämpimänä."
+    ]
+  },
+  { "id": "wikibooks-adun-nigerian-corn-meal", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-afang-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" }
+]

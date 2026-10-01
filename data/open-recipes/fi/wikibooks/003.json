@@ -1,0 +1,594 @@
+[
+  { "id": "wikibooks-amala-gd-nigerian-plantain-fufu", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-ambrosia-fruit-salad",
+    "title": "Ambrosia-hedelmäsalaatti",
+    "description": "Perinteinen amerikkalainen juhlapöydän hedelmäsalaatti mandariineista, ananaksesta, viinirypäleistä ja vaahtokarkeista kermassa.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["amerikkalainen", "juhla", "hedelmät"],
+    "ingredients": [
+      "1 l mandariineja (säilyke), valutettuina",
+      "2 tlk (à 400 g) ananaspaloja, valutettuina",
+      "5 dl viinirypäleitä",
+      "7 dl kermavaahtoa",
+      "2½ dl kermaviiliä",
+      "1,5–2 l minivaahtokarkkeja"
+    ],
+    "instructions": [
+      "Sekoita mandariinit, ananas ja viinirypäleet isossa kulhossa.",
+      "Kääntele joukkoon kermavaahto, kermaviili ja vaahtokarkit.",
+      "Anna jäähtyä vähintään tunti.",
+      "Sekoita uudelleen ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-american-alfredo-sauce",
+    "title": "Amerikkalainen Alfredo-kastike",
+    "description": "Kermainen parmesaanikastike noin 450 g:lle pastaa.",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "italialainen", "pasta", "nopea"],
+    "ingredients": [
+      "4 dl kuohukermaa, jaettuna",
+      "6 rkl suolatonta voita",
+      "240 g raastettua parmesaania tai asiagoa",
+      "1 tl suolaa",
+      "mustapippuria",
+      "ripaus muskottipähkinää",
+      "450 g pastaa"
+    ],
+    "instructions": [
+      "Laita 3 dl kermaa ja voi kattilaan, johon mahtuu myöhemmin myös pasta.",
+      "Kuumenna miedolla lämmöllä usein sekoittaen, kunnes voi on sulanut ja kerma juuri ja juuri kiehahtaa.",
+      "Nosta kattila liedeltä, kun voi on sekoittunut kermaan.",
+      "Keitä pasta ja valuta se hieman ennen al dente -vaihetta, sillä se kypsyy vielä kastikkeessa.",
+      "Lisää kattilaan pasta, loput 1 dl kermaa, juusto, suola, muskottipähkinä ja pippuria.",
+      "Kuumenna miedolla lämmöllä koko ajan käännellen 1–2 minuuttia, kunnes juusto sulaa ja kastike sakeutuu hieman. Lisää halutessasi hienonnettua persiljaa."
+    ]
+  },
+  {
+    "id": "wikibooks-american-marinara-sauce-i",
+    "title": "Amerikkalainen marinarakastike",
+    "description": "Voilla pyöristetty tomaattikastike spagetille, ravintolatyyliin.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "italialainen", "pasta", "tomaatti"],
+    "ingredients": [
+      "55 g suolatonta voita",
+      "1 rkl oliiviöljyä",
+      "2 valkosipulinkynttä, murskattuna ja hienonnettuna",
+      "¾ dl kuutioitua punasipulia",
+      "½ tl kuivattua oreganoa",
+      "½ tl chilihiutaleita",
+      "1 tlk (800 g) kokonaisia kuorittuja tomaatteja",
+      "1 tlk (150 g) tomaattipyreetä",
+      "1½ tl suolaa",
+      "1½ tl sokeria",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna iso kattila keskilämmöllä noin 5 minuuttia.",
+      "Lisää voi ja öljy ja kuumenna, kunnes kupliminen lakkaa.",
+      "Kuullota sipulia varovasti minuutti.",
+      "Laske lämpö keskimiedolle, lisää valkosipuli ja kuullota minuutti.",
+      "Lisää tomaattien mehu ja sitten tomaatit yksi kerrallaan käsin murskaten (varo roiskeita).",
+      "Lisää oregano ja chilihiutaleet ja sekoita.",
+      "Peitä, laske lämpö miedoksi ja hauduta 10–15 minuuttia.",
+      "Lisää 1 tl suolaa, sokeri, mustapippuri ja tomaattipyree ja sekoita tasaiseksi.",
+      "Hauduta kannen alla 10 minuuttia.",
+      "Maista ja mausta lopulla suolalla ja sokerilla vähitellen: kastike ei saa olla suolainen eikä makea, vain ei mauton eikä hapan.",
+      "Tarjoa al dente -spagetin kanssa esimerkiksi italialaisen makkaran tai lihapullien kera."
+    ]
+  },
+  {
+    "id": "wikibooks-american-marinara-sauce-ii",
+    "title": "Rustiikki tomaattikastike yrteillä",
+    "description": "Runsas, yrttinen tomaattikastike paprikalla ja valkoviinillä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "italialainen", "pasta", "tomaatti"],
+    "ingredients": [
+      "3 rkl oliiviöljyä",
+      "2 rkl manteliöljyä",
+      "½ valkosipulia (n. 6 kynttä), hienonnettuna",
+      "2 rkl kuivattua oreganoa",
+      "2 rkl kuivattua timjamia",
+      "1 rkl chilihiutaleita",
+      "1 ruukku tuoretta basilikaa, revittynä",
+      "2 sipulia, kuutioituna",
+      "1 keltainen paprika, suikaleina",
+      "1 tlk (800 g) + 1 tlk (400 g) kokonaisia tomaatteja, käsin murskattuina",
+      "1 tlk (800 g) tomaattimurskaa",
+      "1¼ dl valkoviiniä (+ tarvittaessa lisää)",
+      "suolaa",
+      "mustapippuria",
+      "raastettua parmesaania"
+    ],
+    "instructions": [
+      "Kuumenna öljyt isossa pannussa tai kattilassa. Lisää sipuli, valkosipuli ja paprika ja kuullota pehmeiksi.",
+      "Lisää valkoviini ja sitten tomaatit.",
+      "Jauha kuivatut yrtit ja chilihiutaleet huhmareessa ja lisää ne sekä osa basilikasta kastikkeeseen.",
+      "Hauduta ainakin tunti välillä sekoittaen.",
+      "Lisää viiniä, kunnes kastike on sopivan paksua. Mausta suolalla ja pippurilla.",
+      "Sekoita al dente -pasta kastikkeeseen ja tarjoa basilikalla ja parmesaanilla koristeltuna."
+    ],
+    "notes": ["Kastike on vielä parempaa, kun sen tekee edellisenä iltana ja lämmittää miedolla lämmöllä."]
+  },
+  {
+    "id": "wikibooks-american-potato-salad-i",
+    "title": "Amerikkalainen perunasalaatti",
+    "description": "Klassinen majoneesipohjainen perunasalaatti sellerillä ja kurkkusalaatilla.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["kasvis", "amerikkalainen", "peruna", "grilli"],
+    "ingredients": [
+      "900 g jauhoisia perunoita (3–4 kpl)",
+      "1 rkl + ½ tl suolaa",
+      "2 rkl väkiviinaetikkaa (10 %)",
+      "1 varsi lehtiselleriä",
+      "¾ tl sellerinsiemeniä",
+      "1¾ dl majoneesia",
+      "¾ tl sinappijauhetta",
+      "2 rkl hienonnettua sipulia",
+      "2 rkl hienonnettua persiljaa",
+      "¼ tl mustapippuria",
+      "3 rkl kurkkusalaattia"
+    ],
+    "instructions": [
+      "Kuori perunat ja leikkaa ne noin 2 cm:n kuutioiksi.",
+      "Peitä perunat vedellä isossa kattilassa ja kuumenna kiehuvaksi.",
+      "Lisää 1 rkl suolaa ja laske lämpö keskitasolle.",
+      "Keitä noin 8 minuuttia pari kertaa varovasti sekoittaen, kunnes perunat ovat kypsiä. Älä keitä liikaa.",
+      "Valuta perunat ja siirrä isoon kulhoon.",
+      "Kääntele perunat varovasti etikan kanssa lastalla.",
+      "Anna perunoiden jäähtyä korkeintaan haaleiksi.",
+      "Hienonna selleri.",
+      "Sekoita selleri, sellerinsiemenet, majoneesi, sinappijauhe, sipuli, persilja, pippuri, kurkkusalaatti ja ½ tl suolaa.",
+      "Kääntele kastike varovasti perunoiden joukkoon.",
+      "Peitä ja jäähdytä jääkaapissa vähintään tunti."
+    ],
+    "notes": [
+      "Sellerinsiemenet voi korvata sellerisuolalla, jolloin jätä suola pois kastikkeesta.",
+      "Joukkoon voi lisätä pari kuutioitua kovaksi keitettyä kananmunaa."
+    ]
+  },
+  {
+    "id": "wikibooks-american-potato-salad-ii",
+    "title": "Perunasalaatti sitruunakastikkeella",
+    "description": "Raikas perunasalaatti kananmunalla, maissilla ja sitruuna-oliiviöljykastikkeella.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["kasvis", "peruna", "grilli"],
+    "ingredients": [
+      "1,4 kg pieniä kiinteitä perunoita",
+      "suolaa",
+      "mustapippuria",
+      "5 isoa kovaksi keitettyä kananmunaa, pilkottuina",
+      "1 punasipuli, hienonnettuna",
+      "2 rkl hienonnettua basilikaa",
+      "2½ dl maissia",
+      "1¼ dl sitruunamehua (2–3 sitruunasta)",
+      "1¼ dl oliiviöljyä",
+      "2 rkl italialaista yrttimaustetta"
+    ],
+    "instructions": [
+      "Laita perunat ja 2 rkl suolaa isoon kattilaan vettä. Kuumenna kiehuvaksi ja keitä 15–20 minuuttia, kunnes perunat ovat kypsiä. Valuta.",
+      "Laita pilkotut kananmunat isoon kulhoon.",
+      "Kuullota sipuli vaalean kullanruskeaksi ja lisää kulhoon.",
+      "Kun perunat ovat jäähtyneet hieman, leikkaa ne neljään osaan tai pienemmiksi ja lisää kulhoon. Lisää maissi, basilika, suola, pippuri ja yrttisekoitus.",
+      "Vatkaa sitruunamehuun oliiviöljy ohuena nauhana. Kaada kastike salaattiin ja sekoita. Jäähdytä 30 minuuttia ennen tarjoilua."
+    ]
+  },
+  { "id": "wikibooks-amora-nigerian-arrowroot-porridge", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-anchovy-herb-salsa-verde",
+    "title": "Anjovis-yrttisalsa verde",
+    "description": "Yrttinen oliiviöljykastike anjoviksella grillilihalle tai sipsien dipiksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kala", "nopea", "kastike"],
+    "ingredients": [
+      "1¼ dl oliiviöljyä",
+      "9 anjovisfileetä, kuivattuina ja hienonnettuina",
+      "6 rkl hienonnettua persiljaa",
+      "3 rkl hienonnettua rosmariinia",
+      "3 rkl hienonnettua timjamia",
+      "3 rkl hienonnettua minttua",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset pienessä kulhossa.",
+      "Tarjoa sipsien tai grillatun lihan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-ancient-roman-pancakes-ova-sfongia-ex-lacte",
+    "title": "Antiikin Rooman pannukakut (ova sfongia ex lacte)",
+    "description": "Muinaisroomalainen pannukakku hunajalla, pippurilla ja taateleilla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "lätyt", "historiallinen"],
+    "ingredients": [
+      "3 kananmunaa",
+      "7 dl maitoa",
+      "1¾ dl oliiviöljyä",
+      "½ tl suolaa",
+      "9½ dl täysjyvävehnäjauhoja",
+      "2 tl hunajaa",
+      "ripaus mustapippuria",
+      "taateleita (valinnainen)"
+    ],
+    "instructions": [
+      "Vatkaa munat, maito, öljy, suola ja jauhot juoksevaksi lettutaikinaksi. Lisää tarvittaessa jauhoja.",
+      "Paista lettuja kuumalla pannulla.",
+      "Tarjoa hunajalla, ripauksella pippuria ja halutessasi taateleilla."
+    ]
+  },
+  {
+    "id": "wikibooks-angels-on-horseback-bacon-wrapped-oysters",
+    "title": "Pekoniin käärityt osterit",
+    "description": "Brittiläinen alkupala: viinissä marinoidut osterit pekonikääreessä grillattuna.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Välipalat",
+    "tags": ["äyriäiset", "liha", "alkuruoka", "juhla"],
+    "ingredients": [
+      "1¼ dl kuivaa valkoviiniä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "12 avattua osteria",
+      "6 viipaletta pekonia"
+    ],
+    "instructions": [
+      "Sekoita viini, valkosipuli, suola ja pippuri. Lisää osterit ja marinoi 10–20 minuuttia.",
+      "Kuumenna uunin grillivastus.",
+      "Halkaise pekoniviipaleet ja kääri jokainen osteri pekoninpalaan. Kiinnitä hammastikulla.",
+      "Grillaa molemmin puolin, kunnes pekoni on rapeaa. Voit myös grillata ne ulkogrillissä tai grillipannulla."
+    ]
+  },
+  {
+    "id": "wikibooks-ants-on-a-log",
+    "title": "Muurahaiset tukilla",
+    "description": "Lasten välipala: selleriä, maapähkinävoita ja rusinoita.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "vegaaninen", "lapset", "nopea"],
+    "ingredients": [
+      "4 vartta lehtiselleriä",
+      "4 rkl maapähkinävoita",
+      "2 rkl rusinoita"
+    ],
+    "instructions": [
+      "Leikkaa sellerinvarret noin 10–13 cm:n paloiksi (\"tukit\").",
+      "Levitä maapähkinävoita sellerin uurteeseen.",
+      "Painele rusinat (\"muurahaiset\") maapähkinävoin päälle."
+    ],
+    "notes": ["Tarkista lasten pähkinäallergiat ennen tarjoilua."]
+  },
+  {
+    "id": "wikibooks-anzac-biscuits-i",
+    "title": "Anzac-keksit",
+    "description": "Australialaiset ja uusiseelantilaiset kaura-kookoskeksit, jotka ovat sitkeän rapeita ja säilyvät hyvin.",
+    "servings": 25,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "australialainen", "kaura"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "2½ dl sokeria tai fariinisokeria",
+      "5 dl kaurahiutaleita",
+      "2½ dl kookoshiutaleita",
+      "4 rkl vaaleaa siirappia tai hunajaa",
+      "225 g voita tai margariinia",
+      "1 tl ruokasoodaa",
+      "2 rkl vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot, sokeri, kaurahiutaleet ja kookoshiutaleet kulhossa.",
+      "Sulata siirappi ja voi kattilassa. Lisää ruokasooda ja vesi.",
+      "Sekoita nesteet kuiviin aineisiin. Lisää tarvittaessa vettä.",
+      "Pyörittele taikinasta pieniä palloja ja litistä ne pellille.",
+      "Paista 150 asteessa noin 20 minuuttia, kunnes keksit ovat kullanruskeita."
+    ],
+    "notes": [
+      "Fariinisokeri antaa enemmän väriä ja makua.",
+      "Älä jätä ruokasoodaa ja vettä pois: ne tekevät kekseistä rapeita."
+    ]
+  },
+  { "id": "wikibooks-anzac-biscuits-ii", "skip": "lähes sama resepti kuin edellinen Anzac-keksi" },
+  {
+    "id": "wikibooks-appam-fermented-rice-pancake",
+    "title": "Appam – keralalaiset riisiohukaiset",
+    "description": "Hapatetusta riisistä ja kookoksesta tehdyt pitsireunaiset ohukaiset Etelä-Intiasta.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "intialainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "3½ dl raakaa valkoista riisiä",
+      "3½ dl kookosraastetta (mieluiten tuoretta)",
+      "1 rkl sokeria",
+      "1 tl suolaa",
+      "2 rkl keitettyä valkoista riisiä",
+      "5–6 dl vettä jauhamiseen (+ liotusvesi)",
+      "½ tl kuivahiivaa (valinnainen)",
+      "kookosöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Liota raakaa riisiä vedessä muutama tunti.",
+      "Jauha liotettua riisiä tehosekoittimessa, kunnes se on noin neljännekseltään jauhautunut.",
+      "Lisää kookosraaste ja hieman vettä ja jatka jauhamista.",
+      "Lisää sokeri, keitetty riisi ja hiiva ja jauha, kunnes seos on täysin tasaista. Sen tulee olla ohuempaa kuin lettutaikina.",
+      "Kaada taikina leveään astiaan ja anna käydä yön yli.",
+      "Lisää aamulla suola ja säilytä taikina jääkaapissa käyttöön asti.",
+      "Paista appamit pienessä kulhomaisessa pannussa, jossa on tarttumaton pinta tai hieman öljyä.",
+      "Kaada kauhallinen taikinaa pannun keskelle ja pyöräytä pannua kerran niin, että taikinaa tarttuu reunoille.",
+      "Peitä kuumalla kannella ja nosta appam pannulta 2–3 minuutin kuluttua, kun reunat ovat hieman ruskistuneet. Keskusta jää paksuksi ja reunat ohuiksi ja pitsimäisiksi."
+    ],
+    "notes": ["Tarjoa kookoksella maustetun kasvispadan kanssa."]
+  },
+  {
+    "id": "wikibooks-apple-and-almond-cake",
+    "title": "Omena-mantelikakku",
+    "description": "Luotettava ja helppo omenakakku manteliaromilla, lämpimänä tai kylmänä.",
+    "servings": 8,
+    "totalTimeMin": 110,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "uuniruoka"],
+    "ingredients": [
+      "145 g voita",
+      "2 kananmunaa",
+      "230 g sokeria",
+      "1 tl manteliaromia",
+      "230 g vehnäjauhoja",
+      "3½ tl leivinjauhetta",
+      "330 g kuorittuja happamia omenoita",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Voitele 23 cm:n irtopohjavuoka.",
+      "Sulata voi kattilassa ja kaada isoon kulhoon.",
+      "Lisää munat, sokeri ja manteliaromi ja sekoita hyvin. Lisää jauhot ja leivinjauhe ja sekoita. Taikina on jäykkää.",
+      "Levitä vajaat kaksi kolmasosaa taikinasta vuokaan.",
+      "Poista omenoista siemenkodat, viipaloi ne ja asettele taikinan päälle. Peitä omenat lopulla taikinalla. Pinta saa näyttää epätasaiselta.",
+      "Paista 160-asteisessa uunissa 1¼–1½ tuntia.",
+      "Anna jäähtyä hetki vuoassa, irrota reunat veitsellä ja siirrä kakku lautaselle jäähtymään.",
+      "Siivilöi jäähtyneen kakun päälle tomusokeria. Tarjoa lämpimänä tai kylmänä, mieluiten kerman kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-bars",
+    "title": "Omenapalat",
+    "description": "Murea pohja ja maustettu omenakerros pellillä.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "Pohja:",
+      "2½ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "½ dl fariinisokeria",
+      "1 kananmuna",
+      "30 g voita",
+      "½ tl kanelia",
+      "¼ tl inkiväärijauhetta",
+      "¼ tl muskottipähkinää",
+      "Täyte:",
+      "2 pehmeää omenaa, viipaloituna",
+      "loraus sitruuna- tai greippimehua",
+      "½ tl kanelia",
+      "¼ tl inkiväärijauhetta",
+      "¼ tl muskottipähkinää",
+      "3 rkl vehnäjauhoja",
+      "3 rkl fariinisokeria"
+    ],
+    "instructions": [
+      "Sekoita pohjan jauhot, leivinjauhe, muna, fariinisokeri ja mausteet kulhossa.",
+      "Nypi voi sormin joukkoon. Seos ei saa olla tahmeaa.",
+      "Vuoraa 20 × 20 cm:n vuoka leivinpaperilla.",
+      "Painele pohjaseos vuoan pohjalle ja hieman reunoille.",
+      "Kääntele omenaviipaleet sitruunamehussa.",
+      "Sekoita täytteen mausteet, jauhot ja fariinisokeri.",
+      "Kääntele omenat suurimmassa osassa maustesekoitusta ja jätä loput päälle.",
+      "Levitä omenat tasaiseksi kerrokseksi pohjan päälle ja ripottele loppu maustesekoitus pinnalle.",
+      "Paista 190 asteessa 30 minuuttia.",
+      "Anna jäähtyä ja nosta leivonnainen leivinpaperin kulmista vuoasta leikattavaksi."
+    ],
+    "notes": ["Alkuperäinen ohje käyttää amerikkalaista valmista leivontaseosta (baking mix); tässä se on korvattu vehnäjauhoilla ja leivinjauheella."]
+  },
+  {
+    "id": "wikibooks-apple-bbq-sauce",
+    "title": "Omena-BBQ-kastike",
+    "description": "Makea ja savuinen grillikastike ribseille ja broilerille.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "1 l ketsuppia",
+      "1¼ dl tummaa siirappia (melassia)",
+      "1¾ dl omenahyytelöä",
+      "1¾ dl omenaviinietikkaa",
+      "2 rkl chipotle-chilikastiketta"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset isoon kattilaan ja kuumenna kiehuvaksi keskikorkealla lämmöllä.",
+      "Keitä, kunnes kastiketta on noin 1 litra.",
+      "Säilytä jääkaapissa lasipurkissa tai annostelupullossa enintään 3 viikkoa."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-brown-betty",
+    "title": "Apple brown betty – omena-korppuvuoka",
+    "description": "Amerikkalainen jälkiruoka omenoista ja voissa paistetuista leivänmuruista.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "5 dl pehmeitä leivänmuruja",
+      "1¼ dl sokeria",
+      "55 g voita tai margariinia",
+      "1 tl kanelia",
+      "7 dl omenoita, viipaloituna (kuorimatta)",
+      "1¾ dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Paista leivänmuruja voissa pannulla.",
+      "Lisää omenat, kaneli, sokeri ja vesi.",
+      "Jos pannu kestää uunin, peitä se ja siirrä uuniin. Muuten siirrä seos voideltuun uunivuokaan.",
+      "Paista kannen tai folion alla 30–40 minuuttia, kunnes omenat ovat pehmeitä.",
+      "Jos seos kuivuu paistaessa, lisää ½ dl vettä."
+    ],
+    "notes": ["Tarjoa maidon tai kermavaahdon kanssa."]
+  },
+  {
+    "id": "wikibooks-apple-bundt-cake",
+    "title": "Omenakuivakakku",
+    "description": "Helppo, mehevä ja maustettu omena-rusinakakku kakkuvuoassa.",
+    "servings": 12,
+    "totalTimeMin": 120,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "uuniruoka"],
+    "ingredients": [
+      "4½ dl sokeria",
+      "1 sitruunan raastettu kuori",
+      "4 kananmunaa",
+      "2½ dl rypsiöljyä",
+      "2 tl vaniljasokeria",
+      "4½ dl vehnäjauhoja",
+      "½ tl jauhettua maustepippuria",
+      "½ tl muskottipähkinää",
+      "2 tl leivinjauhetta",
+      "2 tl ruokasoodaa",
+      "1 tl suolaa",
+      "1 tl kanelia",
+      "3 isoa hapanta omenaa, raastettuna",
+      "1 dl rusinoita"
+    ],
+    "instructions": [
+      "Sekoita sokeri ja sitruunankuori nopeasti monitoimikoneessa.",
+      "Lisää munat ja sekoita kuohkeaksi.",
+      "Lisää öljy ohuena nauhana koneen käydessä. Lisää vanilja.",
+      "Siivilöi kuivat aineet keskenään erillisessä kulhossa.",
+      "Sekoita kuivat aineet vähitellen taikinaan, kunnes se on paksua.",
+      "Lisää raastetut omenat ja sekoita nopeasti, ettei omena hienonnu liikaa.",
+      "Lisää rusinat ja sekoita muutamalla sykäyksellä.",
+      "Kaada taikina voideltuun kakkuvuokaan ja paista 160 asteessa noin 55 minuuttia, kunnes keskelle pistetty tikku tulee ulos puhtaana."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-cake",
+    "title": "Omenakakku",
+    "description": "Pieni maustettu omenakakku kermavaahdon kanssa.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "uuniruoka"],
+    "ingredients": [
+      "110 g voita",
+      "2½ dl sokeria",
+      "2 kananmunaa",
+      "2 dl vehnäjauhoja",
+      "1 tl ruokasoodaa",
+      "1 tl kanelia",
+      "½ tl muskottipähkinää",
+      "5 dl paloiteltuja omenoita (n. 230 g)",
+      "kermavaahtoa tarjoiluun"
+    ],
+    "instructions": [
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Vatkaa joukkoon munat.",
+      "Siivilöi jauhot, ruokasooda, kaneli ja muskottipähkinä ja sekoita taikinaan juuri ja juuri tasaiseksi.",
+      "Kääntele omenat joukkoon.",
+      "Kaada taikina voideltuun ja leivinpaperilla vuorattuun vuokaan.",
+      "Paista 175 asteessa 45 minuuttia.",
+      "Tarjoa lämpimänä kermavaahdon kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-cobbler",
+    "title": "Omenacobbler",
+    "description": "Paistettu omenatäyte, jonka päällä on pehmeitä teeleipämäisiä taikinanokareita.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "Täyte:",
+      "1,4 l omenoita, kuorittuina ja viipaloituina",
+      "1½ dl sokeria",
+      "6 rkl vettä, jaettuna",
+      "1 rkl maissitärkkelystä",
+      "Päällinen:",
+      "2½ dl vehnäjauhoja",
+      "2 rkl sokeria",
+      "1½ tl leivinjauhetta",
+      "55 g voita",
+      "1 kananmuna",
+      "½ dl maitoa"
+    ],
+    "instructions": [
+      "Sekoita omenat, 1½ dl sokeria ja 4 rkl vettä isossa kattilassa. Hauduta kannen alla noin 5 minuuttia, kunnes omenat ovat pehmeitä.",
+      "Lisää 2 rkl vettä ja maissitärkkelys. Keitä sekoittaen, kunnes seos sakeutuu ja kuplii.",
+      "Sekoita kulhossa jauhot, 2 rkl sokeria ja leivinjauhe.",
+      "Nypi voi joukkoon karkeaksi muruksi.",
+      "Sekoita muna ja maito ja lisää jauhoseokseen vain sen verran sekoittaen, että seos kostuu.",
+      "Siirrä täyte noin 2 litran neliönmuotoiseen uunivuokaan.",
+      "Nostele päällinen lusikalla pieninä kekoina täytteen päälle.",
+      "Paista 200 asteessa 20–25 minuuttia."
+    ],
+    "notes": ["Cobblerin voi tehdä myös persikoista, päärynöistä, aprikooseista tai marjoista."]
+  },
+  {
+    "id": "wikibooks-apple-crisp-i",
+    "title": "Omenapaistos kaurarouheella",
+    "description": "Paistettu omenatäyte rapean kaura-fariinisokerimurun alla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka", "kaura"],
+    "ingredients": [
+      "1,4 l omenoita, viipaloituna (esim. Granny Smith)",
+      "100 g vehnäjauhoja",
+      "100 g kaurahiutaleita",
+      "¾ tl kanelia",
+      "75 g kylmää voita tai margariinia",
+      "120–150 g fariinisokeria"
+    ],
+    "instructions": [
+      "Sekoita kulhossa jauhot, fariinisokeri, kaneli ja kaurahiutaleet. Jos huone on lämmin, jäähdytä seos jääkaapissa.",
+      "Valmistele omenat ennen kuin lisäät voin murutaikinaan. Laita omenat noin 23 × 23 cm:n uunivuokaan.",
+      "Lisää voi murun joukkoon leikkaamalla, niin että se jää pieniksi paloiksi eikä sula. Työskentele nopeasti.",
+      "Ripottele muru omenoiden päälle ja painele kevyesti.",
+      "Paista 190 asteessa noin 30 minuuttia, kunnes pinta on tummanruskea.",
+      "Tarjoa halutessasi vaniljajäätelön kanssa."
+    ],
+    "notes": [
+      "Paistokseen sopii mikä tahansa omenalajike, myös kolhiintuneet omenat.",
+      "Omenoiden joukkoon voi lisätä rusinoita ja ½ tl inkiväärijauhetta tai muskottipähkinää."
+    ]
+  },
+  { "id": "wikibooks-apple-crisp-ii", "skip": "lähes sama resepti kuin aiempi omenapaistos" },
+  { "id": "wikibooks-apple-crisp-iii", "skip": "lähes sama resepti kuin aiempi omenapaistos" }
+]

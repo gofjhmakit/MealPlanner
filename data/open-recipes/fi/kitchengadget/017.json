@@ -1,0 +1,676 @@
+[
+  {
+    "id": "kg-tzatziki",
+    "title": "Tzatziki",
+    "description": "Viilentävä kreikkalainen jogurttidippi gyrokselle, grilliruoalle ja pitaleivälle.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kreikkalainen", "gluteeniton"],
+    "ingredients": [
+      "1 kurkku",
+      "suolaa",
+      "250 g kreikkalaista jogurttia",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "1 rkl sitruunamehua",
+      "1 tl tuoretta tilliä, hienonnettuna"
+    ],
+    "instructions": [
+      "Raasta kurkku, suolaa kevyesti ja purista ylimääräinen neste pois puhtaassa liinassa.",
+      "Sekoita kurkku jogurtin, valkosipulin, oliiviöljyn ja sitruunamehun kanssa.",
+      "Lisää tilli ja mausta suolalla.",
+      "Anna jäähtyä vähintään 20 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-udon-in-light-curry-broth",
+    "title": "Curry-udon",
+    "description": "Lohdullinen japanilainen udon miedossa curryliemessä.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "nuudelit"],
+    "ingredients": [
+      "5 dl dashilientä",
+      "100 g sipulia, viipaloituna",
+      "1 rkl japanilaista currykastikeainesta (curry roux)",
+      "400 g pakasteudon-nuudeleita",
+      "100 g kalakakkua, viipaloituna",
+      "2 pehmeäksi keitettyä kananmunaa",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Hauduta sipulia dashissa 5 minuuttia.",
+      "Liuota currykastikeaines liemeen.",
+      "Kypsennä udon kiehuvassa vedessä ja jaa kulhoihin.",
+      "Kaada curryliemi nuudeleiden päälle.",
+      "Lisää päälle kalakakku, puolitettu muna ja kevätsipuli."
+    ]
+  },
+  {
+    "id": "kg-ultimate-roast-potatoes",
+    "title": "Täydelliset uuniperunat ankanrasvassa",
+    "description": "Brittiläiset paahtoperunat, jotka ryöpätään, karhennetaan ja paahdetaan kuumassa rasvassa rapeiksi.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "brittiläinen", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 kg jauhoisia perunoita",
+      "suolaa",
+      "100 g ankan- tai hanhenrasvaa (tai 1 dl oliiviöljyä)",
+      "2 tl vehnäjauhoja",
+      "sormisuolaa tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180) ja laita uuniin uunivuoka, johon perunat mahtuvat yhteen kerrokseen.",
+      "Kuori perunat ja leikkaa noin 5 cm:n paloiksi.",
+      "Laita perunat isoon kattilaan ja lisää vettä niin, että ne juuri ja juuri peittyvät.",
+      "Suolaa vesi, kuumenna voimakkaasti kiehuvaksi, laske lämpöä ja keitä ilman kantta 2 minuuttia.",
+      "Laita rasva kuumaan vuokaan ja palauta uuniin muutamaksi minuutiksi, kunnes se on erittäin kuumaa.",
+      "Valuta perunat siivilässä ja ravistele, jotta reunat karhenevat.",
+      "Ripottele päälle jauhot ja ravistele tasaisesti.",
+      "Lisää perunat varovasti kuumaan rasvaan, kääntele ja levitä yhdeksi kerrokseksi.",
+      "Paahda 15 minuuttia, käännä, paahda vielä 15 minuuttia ja käännä uudelleen.",
+      "Paahda vielä 10–20 minuuttia, kunnes perunat ovat kullanruskeita ja rapeita. Ripottele päälle sormisuolaa."
+    ]
+  },
+  {
+    "id": "kg-urad-dal-with-fenugreek",
+    "title": "Urddal sarviapilalla",
+    "description": "Maanläheinen dal halkaistuista urdpavuista sarviapilan siemenillä.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "200 g halkaistuja urdpapuja (urad dal)",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl rypsiöljyä",
+      "1 tl sarviapilan siemeniä",
+      "1 sipuli, kuutioituna",
+      "1 tl inkivääri-valkosipulitahnaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman kanssa vedessä kermaiseksi ja mausta suolalla.",
+      "Kuumenna öljy ja paahda sarviapilan siemeniä hetki.",
+      "Kuullota sipuli ja inkivääri-valkosipulitahna.",
+      "Yhdistä dalin kanssa ja hauduta 10 minuuttia.",
+      "Koristele korianterilla."
+    ]
+  },
+  {
+    "id": "kg-vegetable-fried-rice",
+    "title": "Kasvispaistettu riisi",
+    "description": "Paistettu riisi pakastewokkivihanneksista ja munasta – tähderiisi toimii parhaiten.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "kiinalainen", "riisi", "nopea"],
+    "ingredients": [
+      "1 l keitettyä, edellisen päivän jasmiiniriisiä",
+      "1 rkl rypsiöljyä",
+      "7 dl pakastewokkivihanneksia",
+      "3 isoa kananmunaa",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 tl raastettua inkivääriä",
+      "3 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "2 rkl seesamiöljyä",
+      "2 kevätsipulia, viipaloituna",
+      "valkopippuria",
+      "srirachaa tarjoiluun"
+    ],
+    "instructions": [
+      "Jos riisiä ei ole keitetty edellisenä päivänä, levitä vastakeitetty riisi uunipellille ja jäähdytä jääkaapissa peittämättä 30 minuuttia. Riisin on oltava kuivaa ja kylmää, muuten siitä tulee tahmeaa.",
+      "Kuumenna rypsiöljy isossa wokissa kovalla lämmöllä, kunnes se alkaa savuta. Lisää pakastevihannekset ja paista 3–4 minuuttia usein sekoittaen, kunnes ne ovat sulaneet ja neste on haihtunut. Siirrä ne wokin reunalle.",
+      "Riko munat tyhjään kohtaan ja paista nopeasti pieneksi kokkeliksi, noin minuutti. Sekoita kasvisten joukkoon.",
+      "Lisää valkosipuli ja inkivääri ja sekoita 15 sekuntia.",
+      "Lisää kylmä riisi ja riko paakut lastalla. Levitä tasaiseksi kerrokseksi ja anna olla sekoittamatta 30–45 sekuntia, jotta pohja rapeutuu. Sekoita ja toista.",
+      "Valuta päälle soijakastike ja etikka ja sekoita. Paista vielä 1–2 minuuttia.",
+      "Nosta liedeltä, valuta päälle seesamiöljy ja sekoita. Tarjoile kevätsipulin, valkopippurin ja halutessasi srirachan kanssa."
+    ]
+  },
+  {
+    "id": "kg-vegetable-stir-fry-with-tofu",
+    "title": "Kasviswokki tofulla",
+    "description": "Nopea arki-illan vegaaninen kulho.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "aasialainen", "tofu", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "400 g kiinteää tofua, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 cm pala inkivääriä, raastettuna",
+      "5 dl wokkivihanneksia",
+      "2 rkl soijakastiketta",
+      "1 rkl seesamiöljyä",
+      "Tarjoiluun:",
+      "2 dl tummaa riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Paista tofu öljyssä kullanruskeaksi ja nosta sivuun.",
+      "Paista valkosipulia ja inkivääriä öljyssä.",
+      "Lisää vihannekset ja kypsennä, kunnes ne ovat kypsiä mutta rapsakoita.",
+      "Palauta tofu ja lisää soijakastike ja seesamiöljy.",
+      "Tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-veloute-sauce",
+    "title": "Veloutékastike",
+    "description": "Yksi ranskalaisista äitikastikkeista – pohja monille kermaisille kana- ja kalaruoille.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "nopea"],
+    "ingredients": [
+      "2 rkl voita",
+      "2 rkl vehnäjauhoja",
+      "5 dl kana- tai kasvislientä",
+      "suolaa",
+      "valkopippuria",
+      "1 tl sitruunamehua (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa keskilämmöllä.",
+      "Vatkaa joukkoon jauhot ja kypsennä 2 minuuttia ruskistamatta.",
+      "Lisää liemi vähitellen vatkaten tasaiseksi.",
+      "Hauduta 10 minuuttia välillä vatkaten, kunnes kastike sakenee.",
+      "Mausta suolalla, valkopippurilla ja halutessasi sitruunamehulla."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-beef-salad-bo-luc-lac",
+    "title": "Bo luc lac – vietnamilainen \"ravisteltu\" naudanlihasalaatti",
+    "description": "Kovalla lämmöllä paistetut naudanlihakuutiot salaatin ja limetti-pippurisuolan kanssa.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "salaatti"],
+    "ingredients": [
+      "300 g naudan ulkofileetä, kuutioituna",
+      "2 rkl soijakastiketta",
+      "1 rkl kalakastiketta",
+      "1 rkl osterikastiketta",
+      "1 rkl rypsiöljyä",
+      "1 kerä salaattia",
+      "2 tomaattia, viipaloituna",
+      "½ kurkku, viipaloituna",
+      "1 punasipuli, viipaloituna",
+      "Dippisuola:",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "1 limetti, mehuna"
+    ],
+    "instructions": [
+      "Marinoi lihaa soija-, kala- ja osterikastikkeen seoksessa.",
+      "Paista lihakuutioita kovalla lämmöllä öljyssä noin 2 minuuttia pannua ravistellen.",
+      "Asettele salaatti, tomaatti ja kurkku lautaselle.",
+      "Nosta päälle liha ja sipuli.",
+      "Sekoita suola, pippuri ja limettimehu dippisuolaksi ja tarjoile lihan kanssa."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-canh-chua-sour-soup",
+    "title": "Canh chua – vietnamilainen hapan kalakeitto",
+    "description": "Mekongin suiston hapanimelä keitto ananaksella ja tamarindilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["kala", "vietnamilainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 l vettä",
+      "2 rkl tamarinditahnaa",
+      "2 tomaattia, lohkoina",
+      "150 g ananaspaloja",
+      "100 g okraa, viipaloituna",
+      "400 g vaaleaa kalafileetä, kuutioituna",
+      "2 rkl kalakastiketta",
+      "100 g idättämiä (mungpavun ituja)",
+      "kourallinen tuoreita yrttejä (rice paddy herb tai korianteri)"
+    ],
+    "instructions": [
+      "Hauduta tamarindia ja tomaatteja vedessä 10 minuuttia.",
+      "Lisää ananas ja okra.",
+      "Lisää kala ja keitä 5 minuuttia.",
+      "Mausta kalakastikkeella.",
+      "Nosta liedeltä ja lisää idut ja yrtit."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-cao-lau-style-bowl",
+    "title": "Cao lau -tyylinen nuudelikulho",
+    "description": "Hoi Anin innoittama kulho viisimausteporsaasta, paksuista nuudeleista ja yrteistä.",
+    "servings": 2,
+    "totalTimeMin": 65,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "nuudelit"],
+    "ingredients": [
+      "200 g porsaan lapaa, viipaloituna",
+      "2 rkl soijakastiketta",
+      "1 rkl viiden mausteen seosta",
+      "2 rkl rypsiöljyä",
+      "200 g paksuja riisinuudeleita",
+      "100 g idättämiä (mungpavun ituja)",
+      "kourallinen tuoretta minttua",
+      "riisikeksejä murskattuna"
+    ],
+    "instructions": [
+      "Marinoi porsasta soijakastikkeessa ja viiden mausteen seoksessa 30 minuuttia.",
+      "Grillaa tai paista porsas öljyssä, kunnes pinta saa paahdetta, ja viipaloi.",
+      "Ryöppää nuudelit.",
+      "Kokoa kulhoihin nuudelit, porsas, idut ja minttu.",
+      "Murskaa päälle riisikeksejä."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-caramelized-pork-thit-kho",
+    "title": "Thit kho – vietnamilainen karamellisoitu possu",
+    "description": "Kookosvedessä hitaasti haudutettu karamellisoitu porsaankylki kananmunilla.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "2 rkl sokeria",
+      "600 g porsaan kylkeä, kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "3 rkl kalakastiketta",
+      "2 dl kookosvettä",
+      "4 kovaksi keitettyä kananmunaa, kuorittuna",
+      "Tarjoiluun:",
+      "3 dl jasmiiniriisiä, keitettynä"
+    ],
+    "instructions": [
+      "Karamellisoi sokeri kattilassa meripihkanväriseksi.",
+      "Lisää porsas ja valkosipuli ja ruskista.",
+      "Lisää kalakastike ja kookosvesi.",
+      "Hauduta kannen alla 45 minuuttia.",
+      "Lisää munat viimeiseksi 10 minuutiksi. Tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-chicken-salad-goi-ga",
+    "title": "Goi ga – vietnamilainen kanasalaatti",
+    "description": "Raikas yrttinen kana-kaalisalaatti.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kana", "vietnamilainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "300 g broilerin rintafileetä, haudutettuna ja revittynä",
+      "200 g valkokaalia, suikaloituna",
+      "1 porkkana, suikaloituna",
+      "kourallinen minttua ja korianteria",
+      "Kastike:",
+      "3 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "1 rkl sokeria",
+      "Päälle:",
+      "2 salottisipulia, viipaloituna",
+      "2 rkl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Revi haudutettu kana lämpimänä.",
+      "Yhdistä kaali, porkkana ja yrtit.",
+      "Vatkaa kalakastike, limettimehu ja sokeri.",
+      "Sekoita kana ja kasvikset kastikkeeseen.",
+      "Lisää päälle salottisipuli ja maapähkinät."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-lemongrass-chicken",
+    "title": "Vietnamilainen sitruunaruohokana",
+    "description": "Paahteiseksi grillattu sitruunaruoholla marinoitu kana riisin ja pikkelsien kanssa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kana", "vietnamilainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "500 g broilerin reisifileitä",
+      "3 sitruunaruohon vartta, hienonnettuna",
+      "3 rkl kalakastiketta",
+      "2 rkl sokeria",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 pieni punainen chili, viipaloituna",
+      "Tarjoiluun:",
+      "3 dl jasmiiniriisiä, keitettynä",
+      "pikkelöityjä kasviksia"
+    ],
+    "instructions": [
+      "Marinoi kanaa sitruunaruohon, kalakastikkeen, sokerin ja valkosipulin seoksessa 30 minuuttia.",
+      "Grillaa tai paista pannulla, kunnes kana on kypsää ja pinta saa paahdetta.",
+      "Anna levätä ja viipaloi.",
+      "Tarjoile riisin ja pikkelsien kanssa.",
+      "Koristele chilillä."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-lemongrass-dressing",
+    "title": "Vietnamilainen sitruunaruohokastike",
+    "description": "Tuoksuva sitruunaruohovinegretti.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "vietnamilainen", "gluteeniton"],
+    "ingredients": [
+      "1 sitruunaruohon varsi, hienonnettuna",
+      "3 rkl riisiviinietikkaa",
+      "2 rkl soijakastiketta",
+      "1 rkl vaahterasiirappia",
+      "1 rkl rypsiöljyä",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Hienonna sitruunaruohon pehmeä sisäosa hyvin hienoksi.",
+      "Vatkaa se etikan, soijakastikkeen, siirapin ja öljyn kanssa.",
+      "Lisää valkosipuli.",
+      "Anna maustua 15 minuuttia.",
+      "Siivilöi halutessasi ennen salaatin maustamista."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-lotus-root-salad",
+    "title": "Vietnamilainen lootuksenjuurisalaatti",
+    "description": "Rapea lootuksenjuuri-porkkanasalaatti.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "vietnamilainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "200 g lootuksenjuurta, ohuina viipaleina",
+      "1 porkkana, suikaloituna",
+      "2 rkl riisiviinietikkaa",
+      "1 rkl sokeria",
+      "1 rkl soijakastiketta",
+      "kourallinen vietnaminkorianteria tai korianteria",
+      "2 rkl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Ryöppää lootuksenjuuriviipaleita 2 minuuttia ja jäähdytä etikkavedessä.",
+      "Yhdistä porkkanan kanssa.",
+      "Vatkaa etikka, sokeri ja soijakastike.",
+      "Sekoita salaattiin kastike ja yrtit.",
+      "Ripottele pinnalle maapähkinät."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-mi-quang",
+    "title": "Mi quang – keskivietnamilaiset kurkumanuudelit",
+    "description": "Kurkumalla maustetut nuudelit niukassa liemessä porsaan ja maapähkinöiden kanssa.",
+    "servings": 3,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "nuudelit"],
+    "ingredients": [
+      "200 g porsaan lapaa, viipaloituna",
+      "1 rkl kurkumaa",
+      "2 rkl kalakastiketta",
+      "5 dl lihalientä",
+      "300 g leveitä riisinuudeleita",
+      "2 rkl maapähkinöitä",
+      "100 g banaaninkukkaa tai kaalia, suikaloituna",
+      "kourallinen tuoreita yrttejä",
+      "riisikeksejä murskattuna"
+    ],
+    "instructions": [
+      "Hauduta porsasta liemessä kurkuman ja kalakastikkeen kanssa mureaksi.",
+      "Keitä nuudelit.",
+      "Jaa nuudelit kulhoihin ja lisää vain vähän lientä, jotta nuudelit ovat kastikemaisia.",
+      "Lisää päälle porsas, maapähkinät ja banaaninkukka.",
+      "Tarjoile yrttien ja murskattujen riisikeksien kanssa."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-nuoc-cham",
+    "title": "Nuoc cham – vietnamilainen dippikastike",
+    "description": "Vietnamilaisen keittiön peruskastike.",
+    "servings": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kala", "vietnamilainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 rkl sokeria",
+      "2 rkl lämmintä vettä",
+      "3 rkl kalakastiketta",
+      "3 rkl limettimehua",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 pieni punainen chili, viipaloituna"
+    ],
+    "instructions": [
+      "Liuota sokeri lämpimään veteen.",
+      "Vatkaa joukkoon kalakastike ja limettimehu.",
+      "Lisää valkosipuli ja chili.",
+      "Maista ja tasapainota makea, hapan ja suolainen.",
+      "Säilyy jääkaapissa 2 viikkoa."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-papaya-and-shrimp-salad",
+    "title": "Vietnamilainen papaija-katkarapusalaatti",
+    "description": "Kevyt vietnamilainen raakapapaijasalaatti katkaravuilla.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "vietnamilainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "200 g raakaa vihreää papaijaa, suikaloituna",
+      "150 g katkarapuja, haudutettuna",
+      "kourallinen tuoreita yrttejä (minttu, korianteri)",
+      "2 rkl kalakastiketta",
+      "2 rkl limettimehua",
+      "1 rkl sokeria",
+      "2 rkl maapähkinöitä, murskattuna",
+      "paahdettua sipulia"
+    ],
+    "instructions": [
+      "Suikaloi papaija ohuiksi.",
+      "Vatkaa kalakastike, limettimehu ja sokeri.",
+      "Sekoita papaija, katkaravut ja yrtit.",
+      "Mausta kastikkeella ja nosta lautasille.",
+      "Lisää päälle maapähkinät ja paahdettu sipuli."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-pho-bo",
+    "title": "Pho bo – vietnamilainen naudanliha-nuudelikeitto",
+    "description": "Klassinen hanoilainen pho: maustettu luuliemi, riisinuudelit ja ohuet raa'at naudanlihaviipaleet.",
+    "servings": 4,
+    "totalTimeMin": 180,
+    "category": "Keitot",
+    "tags": ["liha", "vietnamilainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 kg naudan luita",
+      "3 l vettä",
+      "1 sipuli, hiillostettuna",
+      "3 tähtianista",
+      "1 kanelitanko",
+      "3 rkl kalakastiketta",
+      "200 g riisinuudeleita",
+      "300 g naudan ulkofileetä, hyvin ohuina viipaleina",
+      "kourallinen thaibasilikaa",
+      "100 g idättämiä (mungpavun ituja)",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Hauduta luita vedessä hiillostetun sipulin ja mausteiden kanssa 2 tuntia. Kuori vaahto pinnalta.",
+      "Siivilöi liemi ja mausta kalakastikkeella.",
+      "Ryöppää nuudelit ja jaa kulhoihin.",
+      "Asettele päälle raa'at lihaviipaleet ja kaada päälle kiehuvan kuumaa lientä, joka kypsentää lihan.",
+      "Tarjoile yrttien, itujen ja limetin kanssa."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-pho-ga-chicken-pho",
+    "title": "Pho ga – vietnamilainen kana-nuudelikeitto",
+    "description": "Kevyt pho kokonaisesta broilerista.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["kana", "vietnamilainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 kokonainen broileri (n. 1,2 kg)",
+      "2,5 l vettä",
+      "1 sipuli, hiillostettuna",
+      "3 cm pala inkivääriä, hiillostettuna",
+      "2 tähtianista",
+      "3 rkl kalakastiketta",
+      "200 g riisinuudeleita",
+      "kourallinen korianteria ja thaibasilikaa",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Hauduta broileria vedessä hiillostetun sipulin, inkiväärin ja tähtianiksen kanssa 90 minuuttia.",
+      "Nosta broileri pois, revi liha ja siivilöi liemi.",
+      "Mausta liemi kalakastikkeella.",
+      "Ryöppää nuudelit ja kokoa kulhot.",
+      "Lisää päälle kana, yrtit ja limetti."
+    ]
+  },
+  {
+    "id": "kg-vietnamese-pickled-carrot-and-daikon",
+    "title": "Do chua – vietnamilaiset porkkana-retiisipikkelsit",
+    "description": "Banh mi -leipien klassinen pikkelssi.",
+    "servings": 6,
+    "totalTimeMin": 140,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "vietnamilainen", "lisuke", "gluteeniton"],
+    "ingredients": [
+      "1 porkkana, suikaloituna",
+      "200 g daikon-retiisiä, suikaloituna",
+      "1 tl suolaa",
+      "1¼ dl riisiviinietikkaa",
+      "½ dl sokeria"
+    ],
+    "instructions": [
+      "Hiero porkkanaa ja retiisiä suolan kanssa 15 minuuttia.",
+      "Huuhtele ja purista kuivaksi.",
+      "Liuota sokeri etikkaan.",
+      "Peitä kasvikset etikkaliemellä.",
+      "Anna maustua jääkaapissa 2 tuntia ennen käyttöä."
+    ]
+  },
+  {
+    "id": "kg-warm-halloumi-peach-salad",
+    "title": "Lämmin halloumi-persikkasalaatti",
+    "description": "Paistettu halloumi persikoiden, pistaasien ja hunajakastikkeen kanssa.",
+    "servings": 2,
+    "totalTimeMin": 18,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "180 g halloumia, viipaloituna",
+      "2 kypsää persikkaa, lohkoina",
+      "80 g salaattisekoitusta",
+      "20 g pistaasipähkinöitä",
+      "Kastike:",
+      "1 rkl oliiviöljyä",
+      "1 tl hunajaa",
+      "1 tl sitruunamehua"
+    ],
+    "instructions": [
+      "Viipaloi persikat ja halloumi.",
+      "Paista halloumi kuivalla pannulla kullanruskeaksi.",
+      "Vatkaa öljy, hunaja ja sitruunamehu.",
+      "Kerrosta salaatti, persikat, halloumi ja pistaasit ja valuta päälle kastike."
+    ],
+    "notes": ["Sesongin ulkopuolella persikat voi korvata nektariineilla."]
+  },
+  {
+    "id": "kg-warm-tomato-and-mozzarella-dip",
+    "title": "Lämmin tomaatti-mozzarelladippi",
+    "description": "Hyvin helppo ja näyttävä uunidippi.",
+    "servings": 5,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "uuniruoka", "juhla"],
+    "ingredients": [
+      "250 g tuorejuustoa",
+      "125 g mozzarellaraastetta",
+      "½ dl balsamivinegrettiä",
+      "225 g kirsikkatomaatteja",
+      "suolaa",
+      "mustapippuria",
+      "25 g parmesaania, raastettuna",
+      "rapeaa vaaleaa leipää tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Sekoita tuorejuusto, mozzarella ja puolet vinegretistä keskikokoisessa uunivuoassa. Tasoita pinta lastalla.",
+      "Puolita kirsikkatomaatit ja asettele ne leikkuupinta alaspäin dipin päälle. Valuta päälle loput vinegretistä ja mausta.",
+      "Paista 15 minuuttia, kunnes tomaatit pehmenevät ja dippi on kuumaa.",
+      "Ripottele pinnalle parmesaani ja paista, kunnes se sulaa ja ruskistuu hieman.",
+      "Tarjoile rapean leivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-white-bean-and-chicken-chilli",
+    "title": "Valkoinen kana-papuchili",
+    "description": "Nopea vaalea chili revitystä kanasta, cannellinipavuista ja jalapeñoista.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "meksikolainen", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "1 tuore jalapeño, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tl kuivattua oreganoa",
+      "1 tl juustokuminaa",
+      "200 g säilöttyjä jalapeñoviipaleita, valutettuna",
+      "500 g broilerin rintafileetä",
+      "5 dl kanalientä",
+      "2 tlk (à 400 g) cannellinipapuja, valutettuna",
+      "200 g maissinjyviä",
+      "1,5 dl kermaviiliä",
+      "suolaa",
+      "mustapippuria",
+      "Tarjoiluun:",
+      "tuoretta korianteria, juustoraastetta, tortillalastuja"
+    ],
+    "instructions": [
+      "Kuutioi sipuli ja hienonna jalapeño. Kuumenna öljy isossa kattilassa keskilämmöllä ja kuullota sipulia ja jalapeñoa noin 5 minuuttia pehmeiksi.",
+      "Lisää valkosipuli, oregano ja juustokumina ja paista minuutti. Lisää säilötyt jalapeñot.",
+      "Leikkaa fileet kolmeen osaan ja lisää kattilaan liemen kanssa. Kuumenna kiehuvaksi, laske lämpöä ja hauduta kannen alla.",
+      "Kun kana on kypsää (noin 10–12 minuuttia), nosta se lautaselle ja revi haarukoilla. Palauta kattilaan, lisää pavut ja maissi ja hauduta noin 10 minuuttia.",
+      "Survo noin neljännes pavuista lusikalla. Jos chili on vetistä, keitä vielä hetki kokoon. Sammuta lämpö ja sekoita joukkoon kermaviili.",
+      "Mausta suolalla ja pippurilla ja tarjoile korianterin, juuston ja murskattujen tortillalastujen kanssa."
+    ],
+    "notes": ["Pavut voi vaihtaa muihin, ja maissi voi olla säilyke-, pakaste- tai tuoretta. Määrät eivät ole tarkkoja."]
+  },
+  {
+    "id": "kg-white-bean-and-escarole-soup",
+    "title": "Valkopapu-endiivikeitto",
+    "description": "Rustiikki italialainen papukeitto lehtiendiivillä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["kasvis", "italialainen", "keitto", "palkokasvit"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "8 dl kasvislientä",
+      "1 tlk (400 g) cannellinipapuja, valutettuna",
+      "1 tl rosmariinia",
+      "parmesaanin kuoripala (valinnainen)",
+      "1 lehtiendiivi (escarole), pilkottuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota sipuli ja valkosipuli oliiviöljyssä.",
+      "Lisää liemi, pavut, rosmariini ja halutessasi parmesaanin kuori ja hauduta 10 minuuttia.",
+      "Sekoita joukkoon endiivi, kunnes se nuutuu.",
+      "Hauduta 8 minuuttia, mausta ja tarjoile."
+    ],
+    "notes": ["Lehtiendiivin voi korvata mangoldilla tai lehtikaalilla."]
+  }
+]

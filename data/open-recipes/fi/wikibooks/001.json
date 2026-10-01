@@ -1,0 +1,464 @@
+[
+  {
+    "id": "wikibooks-affogato",
+    "title": "Affogato",
+    "description": "Italialainen jälkiruoka: vaniljajäätelöä, jonka päälle kaadetaan kuumaa espressoa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "italialainen", "nopea", "kahvi"],
+    "ingredients": [
+      "1 dl jäätelöä (vanilja)",
+      "1–2 annosta espressoa"
+    ],
+    "instructions": [
+      "Kaada kuuma espresso jäätelön päälle ja tarjoa heti, tai tarjoa ne rinnakkain, jolloin syöjä voi yhdistää ne itse."
+    ]
+  },
+  { "id": "wikibooks-afia-efere-efik-white-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-african-cabbage-stew",
+    "title": "Afrikkalainen kaalipata",
+    "description": "Helppo ja ravitseva kaali-kasvispata perunalla ja porkkanalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["afrikkalainen", "pata", "arkiruoka"],
+    "ingredients": [
+      "2 rkl avokadoöljyä",
+      "2 keskikokoista sipulia, hienonnettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "3 vartta lehtiselleriä, hienonnettuna",
+      "1 keskikokoinen kaali, suikaloituna",
+      "2 keskikokoista perunaa, paloiteltuna",
+      "3 keskikokoista porkkanaa, paloiteltuna",
+      "2 tl italialaista yrttimaustetta",
+      "2 tl sipulijauhetta",
+      "2 tl valkosipulijauhetta",
+      "2 kanaliemikuutiota, murskattuna",
+      "1 tl savupaprikajauhetta",
+      "2½–5 dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Kuullota sipulia noin 2 minuuttia pehmeäksi.",
+      "Lisää valkosipuli ja selleri ja kuullota, kunnes ne tuoksuvat.",
+      "Lisää kaali, perunat, porkkanat, mausteet, liemikuutiot ja vesi. Peitä kannella ja kuumenna kiehuvaksi.",
+      "Laske lämpöä ja hauduta noin 20 minuuttia.",
+      "Tarkista maku ja mausta tarvittaessa lisää.",
+      "Tarjoa lämpimänä haluamasi lisukkeen kanssa."
+    ],
+    "notes": [
+      "Punakaali antaa padalle kauniin värin.",
+      "Säilyy jääkaapissa ilmatiiviissä rasiassa 3 päivää.",
+      "Proteiinia saa lisää keitetyillä pavuilla."
+    ]
+  },
+  { "id": "wikibooks-african-salad-i", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-african-salad-ii", "skip": "pääraaka-aineiden määrät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-agar-jelly",
+    "title": "Agarhyytelö (mantelihyytelö)",
+    "description": "Kasvissyöjille sopiva maitoinen mantelihyytelö hedelmäcocktailin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kiinalainen", "hyytelö"],
+    "ingredients": [
+      "5 g agar-agar-jauhetta",
+      "100 g sokeria",
+      "5 dl vettä",
+      "75 g maitoa",
+      "½ tl manteliaromia",
+      "6 rkl hedelmäcocktailia",
+      "1½ dl sokerilientä (esim. hedelmäsäilykkeen lientä)"
+    ],
+    "instructions": [
+      "Kuumenna agar, sokeri ja vesi kattilassa kiehuvaksi.",
+      "Nosta liedeltä ja kaada osa vedestä pois.",
+      "Kun seos on jäähtynyt hieman, sekoita joukkoon maito ja manteliaromi.",
+      "Kaada seos vuokaan.",
+      "Kun seos on jäähtynyt kokonaan, anna jähmettyä jääkaapissa noin 15 minuuttia.",
+      "Leikkaa hyytelö kuutioiksi.",
+      "Tarjoa lasikulhossa hedelmäcocktailin ja sokeriliemen kanssa."
+    ]
+  },
+  { "id": "wikibooks-agbalumo-smoothie", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-agbugbu-nigerian-pigeon-pea-and-yam-porridge", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-agedashi-tofu",
+    "title": "Agedashi-tofu",
+    "description": "Japanilainen friteerattu silkkitofu kuumassa dashi-soijaliemessä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "japanilainen", "tofu"],
+    "ingredients": [
+      "115–170 g pehmeää tofua",
+      "perunajauhoja tai maissitärkkelystä",
+      "öljyä friteeraukseen",
+      "Liemi:",
+      "1¼ dl dashilientä",
+      "2 rkl vaaleaa soijakastiketta",
+      "1½ rkl miriniä",
+      "Päälle:",
+      "kevätsipulia, ohuina renkaina",
+      "raastettua inkivääriä",
+      "raastettua daikon-retiisiä"
+    ],
+    "instructions": [
+      "Leikkaa tofu noin 2,5 cm paksuiksi suorakaiteen muotoisiksi paloiksi.",
+      "Asettele palat ritilälle talouspaperin päälle ja anna valua 10–15 minuuttia. Vaihda paperi ja käännä palat.",
+      "Sekoita liemen ainekset kattilassa ja kuumenna kiehuvaksi. Sammuta levy.",
+      "Ripottele tärkkelystä lautaselle, asettele tofupalat sen päälle ja ripottele lisää tärkkelystä päälle.",
+      "Kuumenna öljy 180 asteeseen.",
+      "Taputtele ylimääräinen tärkkelys pois ja laske tofupalat varovasti yksitellen öljyyn. Älä paista liikaa kerralla, jotta öljyn lämpö ei laske. Paista kullanruskeiksi kerran kääntäen.",
+      "Nosta palat talouspaperille valumaan.",
+      "Asettele tofu kulhoon ja kaada liemi päälle. Lisää päälle raastettua retiisiä, hieman inkivääriä ja kevätsipulia."
+    ]
+  },
+  { "id": "wikibooks-ager-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-agidi-jollof", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-agnolotti-pasta-soup-agnolotti-in-brodo",
+    "title": "Agnolotti liemessä",
+    "description": "Nopea italialainen keitto täytetyistä pastanyyteistä kermaisessa kanaliemessä.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["italialainen", "pasta", "keitto", "nopea"],
+    "ingredients": [
+      "250 g agnolotteja tai muita pieniä raviolinyyttejä",
+      "5 dl kanalientä (tai 5 dl vettä ja 2 kanaliemikuutiota)",
+      "1¼ dl ruokakermaa",
+      "ripaus mustapippuria",
+      "1 kourallinen lehtipersiljaa, hienonnettuna",
+      "loraus makeaa sherryä (valinnainen)",
+      "raastettua parmesaania tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna kanaliemi kiehuvaksi. Jos käytät liemikuutioita, liuota ne kiehuvaan veteen.",
+      "Lisää agnolotit ja keitä pakkauksen ohjeen mukaan.",
+      "Lisää kerma, pippuri ja persilja noin 2 minuuttia ennen kypsymistä ja laske lämpöä.",
+      "Lisää loraus sherryä juuri ennen tarjoilua. Jos tarjoat lapsille, annostele heidän annoksensa ensin.",
+      "Anna seistä muutama minuutti ja tarjoa parmesaanilla ripoteltuna."
+    ]
+  },
+  {
+    "id": "wikibooks-aj-de-gallina-peruvian-chili-chicken",
+    "title": "Ají de gallina – perulainen chilikana",
+    "description": "Perinteinen perulainen kana kermaisessa keltaisessa chili-pähkinäkastikkeessa riisin kanssa.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "perulainen", "riisi", "peruna"],
+    "ingredients": [
+      "1,3 kg kokonaista broileria",
+      "1¼ dl oliiviöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "8 valkosipulinkynttä, hienonnettuna",
+      "3 keltaista ají amarillo -chiliä, siemenet poistettuina",
+      "suolaa",
+      "mustapippuria",
+      "1 kanaliemikuutio",
+      "¼ leipää",
+      "110 g pekaanipähkinöitä, rouhittuna",
+      "110 g raastettua parmesaania",
+      "1 tlk (410 g) kondensoitua maitoa (makeuttamaton)",
+      "1,6 kg keitettyä riisiä (maustettu valkosipulilla ja suolalla)",
+      "4 kovaksi keitettyä kananmunaa",
+      "6 perunaa, keitettyinä",
+      "1¼ dl mustia oliiveja"
+    ],
+    "instructions": [
+      "Keitä broileri suolalla maustetussa vedessä liemikuution kanssa. Poista luut ja revi liha suupaloiksi. Säästä liemi.",
+      "Kuumenna öljy kattilassa ja kuullota sipuli, valkosipuli ja hienonnetut chilit. Mausta suolalla ja pippurilla ja paista, kunnes sipuli on kypsää ja kullanruskeaa.",
+      "Liota leipää noin 5 dl:ssa broilerin lientä, soseuta tehosekoittimessa ja lisää kattilaan.",
+      "Keitä hiljalleen sekoittaen noin 10 minuuttia, kunnes kastike sakeutuu.",
+      "Keitä sillä välin riisi: kuullota valkosipulia hetki, lisää riisi, suola ja kaksinkertainen määrä vettä. Kun vesi kiehuu, keitä kannen alla hyvin miedolla lämmöllä noin 20 minuuttia.",
+      "Lisää kastikkeeseen pekaanipähkinät, parmesaani ja broilerinpalat ja keitä, kunnes seos on paksua ja kermaista. Lisää maito noin 5 minuuttia ennen tarjoilua ja jatka keittämistä miedolla lämmöllä.",
+      "Tarjoa riisin päällä ja koristele perunanpuolikkailla, pituussuunnassa neljään osaan leikatuilla kananmunilla ja oliiveilla."
+    ]
+  },
+  {
+    "id": "wikibooks-akabenz-rwandan-fried-chicken",
+    "title": "Akabenz – ruandalainen paistettu kana",
+    "description": "Rapeaksi paistettuja, yrttimaustettuja broilerinpaloja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "afrikkalainen", "friteerattu"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "1 tl paprikajauhetta",
+      "1 tl valkosipulijauhetta",
+      "1 tl sipulijauhetta",
+      "1 tl kuivattua timjamia",
+      "1 tl kuivattua oreganoa",
+      "900 g broilerin paloja",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja mausteet isossa kulhossa tasaiseksi.",
+      "Kääntele broilerinpalat maustejauhoissa ja ravista ylimääräiset pois.",
+      "Kuumenna runsaasti öljyä isossa pannussa keskikorkealla lämmöllä. Öljyn tulee olla kuumaa mutta ei savuta.",
+      "Laske palat varovasti öljyyn, älä täytä pannua liikaa. Paista tarvittaessa erissä.",
+      "Paista 6–8 minuuttia per puoli, kunnes pinta on kullanruskea ja liha kypsää (sisälämpö 74 astetta).",
+      "Nosta talouspaperille valumaan ja tarjoa heti kuumana."
+    ],
+    "notes": ["Lisää makua saat marinoimalla palat muutaman tunnin piimässä, valkosipulissa ja mausteissa ennen jauhottamista."]
+  },
+  { "id": "wikibooks-akamu-nigerian-pudding", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-akarange-rwandan-tomato-sauce",
+    "title": "Akarange – ruandalainen tomaattikastike",
+    "description": "Maukas paprika-tomaattikastike pohjaksi pataruokiin, keittoihin ja grilliruoan kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "afrikkalainen", "tomaatti"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 vihreä paprika, kuutioituna",
+      "1 punainen paprika, kuutioituna",
+      "6 isoa kypsää tomaattia, kuutioituna",
+      "1 tl paprikajauhetta",
+      "½ tl juustokuminaa",
+      "½ tl jauhettua korianterinsiementä",
+      "¼ tl mustapippuria",
+      "suolaa",
+      "2½ dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Kuullota sipuli ja valkosipuli, kunnes sipuli on läpikuultavaa.",
+      "Lisää paprikat ja kuullota muutama minuutti, kunnes ne alkavat pehmetä.",
+      "Lisää tomaatit ja mausteet ja sekoita.",
+      "Lisää vesi ja suola ja sekoita.",
+      "Kuumenna kiehuvaksi, laske lämpö ja hauduta kannen alla 15–20 minuuttia, kunnes tomaatit ovat pehmenneet.",
+      "Tarkista maku ja lisää tarvittaessa suolaa tai mausteita."
+    ],
+    "notes": ["Tulisempaan versioon lisää ripaus cayennepippuria tai hienonnettu chili."]
+  },
+  {
+    "id": "wikibooks-akarubi-rwandan-grilled-banana",
+    "title": "Akarubi – ruandalaiset grillibanaanit",
+    "description": "Grillattuja, karamellisoituneita banaaneja kanelin ja hunajan kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "afrikkalainen", "nopea", "grilli"],
+    "ingredients": [
+      "4 kypsää banaania, kuorittuina",
+      "1 rkl voita tai rypsiöljyä",
+      "kanelia (valinnainen)",
+      "hunajaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna grilli tai grillipannu keskikorkealle lämmölle.",
+      "Voitele banaanit sulatetulla voilla tai öljyllä ja asettele ne grilliin.",
+      "Grillaa 2–3 minuuttia per puoli, kunnes banaanit ovat kevyesti hiiltyneitä ja pehmeitä.",
+      "Siirrä tarjoiluvadille ja ripottele halutessasi päälle kanelia.",
+      "Tarjoa kuumana, halutessasi hunajalla valeltuna."
+    ],
+    "notes": ["Sopii vaniljajäätelön tai kermavaahdon kanssa."]
+  },
+  { "id": "wikibooks-akidi-nigerian-black-bean-porridge", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-alabama-white-sauce",
+    "title": "Alabaman valkoinen grillikastike",
+    "description": "Majoneesipohjainen etikkainen grillikastike broilerille, voiteluun tai dippiin.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["amerikkalainen", "grilli", "nopea"],
+    "ingredients": [
+      "9½ dl majoneesia",
+      "7 dl omenaviinietikkaa",
+      "1¼ dl maissisiirappia",
+      "1 tl cayennepippuria",
+      "piparjuuritahnaa",
+      "sitruunamehua",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset isoon tehosekoittimeen tai monitoimikoneeseen ja sekoita noin minuutti, kunnes kastike on tasaista. Kaada kulhoon.",
+      "Sivele kastiketta broilerin tai muun lihan pintaan grillauksen viimeisinä minuutteina. Varaa osa kastikkeesta pöytään dippikastikkeeksi."
+    ]
+  },
+  {
+    "id": "wikibooks-albanian-fried-meatballs",
+    "title": "Albanialaiset paistetut lihapullat (qofte)",
+    "description": "Fetalla ja mintulla maustetut lihapihvit, jotka paistetaan jauhotettuina öljyssä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "albanialainen", "arkiruoka"],
+    "ingredients": [
+      "1 viipale kuivahtanutta leipää",
+      "450 g jauhelihaa",
+      "1 pieni sipuli, hienoksi raastettuna",
+      "2 rkl murustettua fetaa",
+      "2 rkl korppujauhoja",
+      "2 rkl öljyä tai sulatettua voita",
+      "1 rkl hienonnettua persiljaa",
+      "suolaa",
+      "mustapippuria",
+      "kuivattua minttua",
+      "oreganoa",
+      "2½ dl vehnäjauhoja",
+      "2½ dl oliiviöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Liota leipää vedessä ja purista se kuivaksi.",
+      "Sekoita leipä, jauheliha, korppujauhot, öljy tai voi, sipuli, feta, persilja, suola, pippuri ja minttu huolellisesti.",
+      "Muotoile seoksesta noin 2,5 cm paksuja pihvejä ja ripottele päälle suolaa, pippuria ja oreganoa.",
+      "Kääntele pihvit jauhoissa ja paista kuumassa öljyssä kypsiksi.",
+      "Tarjoa kuumana ranskanperunoiden tai perunamuusin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-albanian-meat-with-walnuts",
+    "title": "Albanialainen liha saksanpähkinäkastikkeessa",
+    "description": "Gjellë me arra: vasikan- tai broilerinlihaa pähkinäisessä voikastikkeessa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "albanialainen", "pata"],
+    "ingredients": [
+      "2 rkl vehnäjauhoja",
+      "15 saksanpähkinää, kuorittuina ja hienoksi murskattuina",
+      "2 kananmunan keltuaista, vatkattuina",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "115 g voita",
+      "1–1,3 kg vasikanlihaa tai broileria, 2,5 cm:n kuutioina"
+    ],
+    "instructions": [
+      "Laita liha kattilaan, lisää hieman vettä ja keitä keskilämmöllä mureaksi.",
+      "Nosta liha astiaan ja jätä keitinliemi kattilaan.",
+      "Paahda jauhoja toisessa kattilassa sekoittaen vaaleanruskeiksi, älä anna palaa. Lisää puolet voista.",
+      "Lisää pähkinät, valkosipuli ja keltuaiset koko ajan sekoittaen.",
+      "Lisää lihan keitinliemi ja sekoita, kunnes kastike sakeutuu. Nosta heti liedeltä, etteivät keltuaiset juoksetu. Kääntele liha joukkoon.",
+      "Ruskista loppu voi pannulla ja kaada ruoan päälle ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-albanian-mixed-vegetables",
+    "title": "Albanialainen kasvispata (turli perimesh)",
+    "description": "Paistetut sekakasvikset haudutettuna tomaatin ja sipulin kanssa.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "albanialainen", "pata"],
+    "ingredients": [
+      "900 g sekakasviksia (paprikaa, munakoisoa, okraa, kesäkurpitsaa, perunaa ym.)",
+      "1¼ dl öljyä, jaettuna",
+      "2½ dl hienonnettua sipulia",
+      "2½ dl tomaatteja, kuorittuina ja paloiteltuina",
+      "1 rkl hienonnettua persiljaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Poista kasvisten syömäkelvottomat päät. Pese ja paloittele ne noin 2,5 cm:n paloiksi.",
+      "Paista kasviksia puolessa öljystä ja nosta ne pannulta.",
+      "Kuullota sipuli ja tomaatit lopussa öljyssä ja mausta persiljalla, suolalla ja pippurilla.",
+      "Siirrä kaikki kattilaan, lisää 2½ dl vettä, peitä tiiviisti ja hauduta, kunnes lähes kaikki neste on haihtunut.",
+      "Tarjoa kuumana pihvin, lihapullien tai muun pääruoan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-albanian-stewed-fig-pudding",
+    "title": "Albanialainen viikunavanukas",
+    "description": "Hoshaf me fiq të thatë: maidossa kypsennetty kuivattu viikuna kanelin kera.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "albanialainen"],
+    "ingredients": [
+      "2½ dl sokeria",
+      "9 dl maitoa",
+      "2½ dl hienoksi raastettuja kuivattuja viikunoita",
+      "kanelia"
+    ],
+    "instructions": [
+      "Sekoita sokeri maitoon, kuumenna kiehuvaksi ja nosta liedeltä. Lisää viikunat vähitellen koko ajan sekoittaen.",
+      "Kaada seos uuninkestäviin annoskulhoihin ja paista 180 asteessa 10 minuuttia.",
+      "Jäähdytä ja ripottele päälle kanelia.",
+      "Tarjoa kylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-albanian-vegetable-pie",
+    "title": "Albanialainen pinaattipiirakka (byrek)",
+    "description": "Filotaikinasta tehty suolainen piiras pinaatti-fetatäytteellä.",
+    "servings": 5,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "albanialainen", "uuniruoka", "piirakka"],
+    "ingredients": [
+      "2½ dl oliiviöljyä",
+      "1½ pkt (n. 30 levyä) filotaikinaa",
+      "680 g pinaattia, hienonnettuna",
+      "2½ dl kuutioitua fetaa",
+      "1¼ dl hienonnettua kevätsipulia",
+      "2–3 kananmunaa",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Voitele keskikokoinen vuoka öljyllä ja ala latoa filolevyjä: kaksi levyä, öljyä päälle, kaksi levyä lisää ja niin edelleen, kunnes puolet levyistä on käytetty. Anna levyjen roikkua noin 2,5 cm vuoan reunojen yli.",
+      "Sekoita pinaattiin suola käsin. Lisää feta, öljy, sipuli ja munat ja levitä seos filolevyjen päälle. Peitä täyte lopuilla levyillä samalla tavalla öljyä välissä sivellen.",
+      "Kääri reunojen yli roikkuvat levyt piiraan päälle reunukseksi.",
+      "Sivele pinta öljyllä ja paista 175 asteessa noin 45 minuuttia, kunnes pinta on kullanruskea.",
+      "Tarjoa kuumana piimän tai kylmällä vedellä ohennetun jogurtin ja vihreän salaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-ale-mustard-and-winter-vegetable-pie",
+    "title": "Olut-sinappipiiras talvikasviksista",
+    "description": "Vegaaninen, lämmittävä juuresvuoka tummassa olutkastikkeessa perunamuusikuorrutteella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "uuniruoka", "juurekset", "brittiläinen"],
+    "ingredients": [
+      "Muusi:",
+      "1 peruna, paloiteltuna",
+      "½ palsternakka, paloiteltuna",
+      "½ pieni lanttu, paloiteltuna",
+      "1 rkl kasvimargariinia",
+      "Täyte:",
+      "1 rkl oliiviöljyä",
+      "2 valkosipulinkynttä, murskattuna",
+      "1 porkkana, pieniksi kuutioiksi",
+      "½ palsternakka, kuutioituna",
+      "1 purjo, ohuina renkaina",
+      "5 herkkusieniä, viipaloituna",
+      "½–1 dl soijarouhetta",
+      "½ rkl hiivauutetta (Marmite)",
+      "2 dl kiehuvaa vettä",
+      "2 kukkurallista rkl vehnäjauhoja",
+      "2 kukkurallista rkl karkeaa sinappia",
+      "2 dl tummaa olutta (esim. porter)",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita peruna, lanttu ja puolet palsternakasta kiehuvaan veteen ja keitä noin 20 minuuttia, kunnes peruna on pehmeää.",
+      "Kaada vesi pois, lisää margariini ja muussaa tasaiseksi. Pane sivuun.",
+      "Sekoita soijarouhe, kiehuva vesi ja hiivauute ja anna turvota.",
+      "Kuumenna oliiviöljy kattilassa keskilämmöllä ja kuullota purjo, valkosipuli, porkkana ja loput palsternakasta, kunnes porkkana on pehmeää.",
+      "Lisää sienet ja kuullota vielä minuutti tai kaksi.",
+      "Lisää jauhot ja sekoita reippaasti 30 sekuntia. Lisää soijarouhe liemineen koko ajan sekoittaen, jotta seos sakeutuu.",
+      "Lisää sinappi, olut ja mustapippuri ja sekoita hyvin. Hauduta noin 10 minuuttia, kunnes kastike sakeutuu.",
+      "Kaada täyte uunivuokaan, levitä juuresmuusi päälle ja tasoita pinta.",
+      "Paista 180 asteessa 20–30 minuuttia, kunnes pinta alkaa ruskistua. Anna vetäytyä hetki ennen tarjoilua."
+    ]
+  }
+]

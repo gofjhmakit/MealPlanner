@@ -1,0 +1,574 @@
+[
+  { "id": "wikibooks-apple-crumb-cake", "skip": "ainesluettelo puuttuu lähteestä (vain alaviitteet)" },
+  {
+    "id": "wikibooks-apple-crusted-ham",
+    "title": "Omenakuorrutettu kinkku",
+    "description": "Kypsä luullinen kinkku, joka kuorrutetaan colalla, maustehieronnalla ja kuivatulla omenalla.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 160,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 kypsä luullinen kinkku, kamara poistettuna",
+      "1¼ dl kuivattuja omenoita, hienonnettuina",
+      "1¼ dl grillimaustetta",
+      "1¾ dl colaa"
+    ],
+    "instructions": [
+      "Nosta kinkku isoon uunivuokaan leveä puoli alaspäin.",
+      "Paista 120 asteessa tunti.",
+      "Ota kinkku uunista ja sivele se runsaalla colalla. Taputtele pintaan maustesekoitus ja sen päälle omenat.",
+      "Paista vielä 1½ tuntia 120 asteessa.",
+      "Anna levätä 10 minuuttia, leikkaa ohuiksi viipaleiksi ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-fritters",
+    "title": "Omenamunkit",
+    "description": "Friteeratut omenapallot tomusokerilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "friteerattu"],
+    "ingredients": [
+      "2½ dl omenoita, kuorittuina ja pilkottuina",
+      "1¼ dl sokeria",
+      "2 kananmunaa, vatkattuina",
+      "vehnäjauhoja pyörittelyyn",
+      "55 g suolatonta voita",
+      "ripaus suolaa",
+      "2,5 l maapähkinä- tai rypsiöljyä friteeraukseen",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Aja omena, sokeri, munat, voi ja suola monitoimikoneessa paksuksi tahnaksi.",
+      "Pyörittele tahnasta noin 7 cm:n palloja ja kääntele ne jauhoissa. Anna seistä 2–3 minuuttia.",
+      "Kuumenna öljy 190 asteeseen ja paista pallot kullanruskeiksi ja kypsiksi.",
+      "Valuta ritilällä ja siivilöi päälle tomusokeria ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-glazed-pork-chops",
+    "title": "Omenaglaseeratut porsaankyljykset",
+    "description": "Grillatut paksut porsaankyljykset omenamehu-etikkaglaseerauksella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli"],
+    "ingredients": [
+      "4 paksua luullista porsaankyljystä",
+      "grillimaustetta",
+      "1¼ dl omenamehua",
+      "2 rkl omenaviinietikkaa",
+      "1 rkl worcestershirekastiketta"
+    ],
+    "instructions": [
+      "Hiero mauste kyljyksiin ja anna maustua jääkaapissa 30 minuuttia.",
+      "Kuumenna sillä välin muut ainekset kattilassa kiehuviksi keskilämmöllä ja keitä, kunnes määrä on vähentynyt kolmanneksella. Nosta liedeltä.",
+      "Grillaa kyljyksiä kovalla lämmöllä kannen alla 2 minuuttia. Sivele glaseerauksella, käännä 90 astetta ja grillaa 2 minuuttia. Käännä ja toista sama toisella puolella.",
+      "Anna levätä 7 minuuttia ja tarjoa lopun glaseerauksen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-jelly",
+    "title": "Omenahyytelö",
+    "description": "Mrs Beetonin klassinen sitruunainen omenahyytelö muotista.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["omena", "brittiläinen", "hyytelö"],
+    "ingredients": [
+      "450 g omenoita (4 kpl)",
+      "85 g sokeria",
+      "2½ dl vettä",
+      "1 sitruunan kuori ja mehu",
+      "2 rkl vettä",
+      "14 g liivatelehtiä"
+    ],
+    "instructions": [
+      "Kuori ja viipaloi omenat ja laita ne kattilaan sokerin, 2½ dl veden, sitruunamehun ja -kuoren kanssa.",
+      "Hauduta pehmeiksi ja paseeraa hienon siivilän läpi.",
+      "Liota liivatteet kylmässä vedessä, purista ja sulata ne 2 rkl:ssa kuumaa vettä. Sekoita omenaseokseen ja kaada vedellä huuhdeltuun muottiin.",
+      "Anna hyytyä jääkaapissa muutama tunti."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-parsnip-soup",
+    "title": "Omena-palsternakkakeitto",
+    "description": "Sileä, hennon makea sosekeitto, joka maistuu sekä kuumana että kylmänä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "juurekset"],
+    "ingredients": [
+      "1 sipuli",
+      "2 rkl oliiviöljyä",
+      "2 omenaa",
+      "1 porkkana",
+      "1 palsternakka",
+      "1 sitruuna",
+      "1 l vettä",
+      "1 tl muskottipähkinää",
+      "1 kasvisliemikuutio (valinnainen)"
+    ],
+    "instructions": [
+      "Pilko sipuli ja kuullota sitä kattilassa öljyssä kullanruskeaksi.",
+      "Pilko omenat, porkkana ja palsternakka ja lisää kattilaan.",
+      "Purista sitruunasta mehu.",
+      "Lisää kattilaan vesi, muskottipähkinä, liemikuutio ja sitruunamehu.",
+      "Keitä noin tunti, kunnes porkkanat ovat pehmeitä.",
+      "Soseuta keitto tehosekoittimessa täysin sileäksi.",
+      "Tarjoa kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-pie-i",
+    "title": "Omenapiirakka kuorella",
+    "description": "Brittiläinen kaksikuorinen omenapiirakka murotaikinasta.",
+    "servings": 6,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "piirakka", "uuniruoka"],
+    "ingredients": [
+      "Taikina:",
+      "225 g vehnäjauhoja",
+      "110 g margariinia",
+      "55 g laardia tai leivontarasvaa",
+      "ripaus suolaa",
+      "2 rkl kylmää vettä",
+      "Täyte:",
+      "500 g omenoita, viipaloituna",
+      "2 rkl sitruunamehua",
+      "30 g voita",
+      "2½ dl sokeria (+ pinnalle)",
+      "½ dl vehnäjauhoja",
+      "2½ rkl maissitärkkelystä",
+      "kanelia",
+      "muskottipähkinää",
+      "Pinnalle:",
+      "2 rkl maitoa",
+      "kanelia",
+      "sokeria"
+    ],
+    "instructions": [
+      "Nypi jauhot, margariini, laardi ja suola hienoksi muruksi.",
+      "Lisää vesi ja sekoita pehmeäksi mutta kiinteäksi taikinaksi.",
+      "Jaa taikina kahtia ja kauli jauhotetulla alustalla kaksi vuoan kokoista levyä.",
+      "Nosta toinen levy piirakkavuokaan.",
+      "Kuori ja viipaloi omenat noin 5 mm paksuiksi lohkoiksi ja pirskota päälle sitruunamehu.",
+      "Sekoita omenat käsin 1 dl:n sokeria ja kanelin kanssa.",
+      "Siirrä omenat vuokaan ilman niistä irronnutta nestettä, ettei piirakka kiehu yli.",
+      "Sekoita loppu sokeri, kaneli, muskottipähkinä, jauhot ja maissitärkkelys ja ripottele omenoiden päälle.",
+      "Nostele päälle voinokareita.",
+      "Peitä toisella taikinalevyllä ja painele reunat haarukalla tai sormin kiinni.",
+      "Leikkaa kanteen höyryaukkoja.",
+      "Sivele kansi maidolla ja ripottele päälle sokeria ja kanelia.",
+      "Paista 180 asteessa kullanruskeaksi, noin 60 minuuttia.",
+      "Anna jäähtyä hetki ja tarjoa lämpimänä jäätelön tai vaniljakastikkeen kanssa."
+    ],
+    "notes": [
+      "Eri omenalajikkeiden sekoitus antaa monipuolisemman maun.",
+      "Laardin voi korvata leivontarasvalla."
+    ]
+  },
+  { "id": "wikibooks-apple-pie-ii", "skip": "lähes sama resepti kuin edellinen omenapiirakka" },
+  {
+    "id": "wikibooks-apple-pudding",
+    "title": "Omena-pähkinävanukas",
+    "description": "Pähkinäinen omenaleivonnainen, joka paistetaan vuoassa.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "1¾ dl sokeria",
+      "1 kananmuna",
+      "½ dl vehnäjauhoja",
+      "1¼ tl leivinjauhetta",
+      "ripaus suolaa",
+      "1 tl vaniljauutetta",
+      "2½ dl saksanpähkinöitä, rouhittuina",
+      "1¼ dl omenoita, pilkottuina"
+    ],
+    "instructions": [
+      "Vatkaa sokeri ja muna tasaiseksi.",
+      "Lisää jauhot, leivinjauhe, suola ja vanilja.",
+      "Sekoita joukkoon pähkinät ja omena.",
+      "Kaada voideltuun noin 23 × 23 cm:n vuokaan.",
+      "Paista 160 asteessa 30 minuuttia."
+    ],
+    "notes": ["Tarjoa halutessasi kermavaahdon tai jäätelön kanssa."]
+  },
+  {
+    "id": "wikibooks-apple-streusel-muffins",
+    "title": "Omenamuffinit murupäällisellä",
+    "description": "Mehevät kanelimuffinit raastetulla omenalla ja rapealla murulla.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "omena", "muffinit"],
+    "ingredients": [
+      "Murupäällinen:",
+      "1¼ dl fariinisokeria",
+      "½ dl vehnäjauhoja",
+      "½ tl kanelia",
+      "55 g pehmeää voita tai margariinia",
+      "Taikina:",
+      "3½ dl vehnäjauhoja",
+      "1½ tl kanelia",
+      "1¼ dl sokeria",
+      "1 rkl leivinjauhetta",
+      "1 tl suolaa",
+      "1 kananmuna",
+      "1½ dl maitoa",
+      "½ dl rypsiöljyä",
+      "1 omena, raastettuna"
+    ],
+    "instructions": [
+      "Sekoita fariinisokeri, jauhot ja kaneli. Nypi voi joukkoon karkeaksi muruksi ja pane sivuun.",
+      "Sekoita taikinan jauhot, kaneli, sokeri, leivinjauhe ja suola kulhossa ja tee keskelle kuoppa.",
+      "Vatkaa muna, maito ja öljy pienessä kulhossa ja sekoita joukkoon omena. Kaada kuoppaan ja sekoita vain sen verran, että jauhot kostuvat.",
+      "Täytä muffinivuoat ¾-täyteen ja ripottele päälle muru.",
+      "Paista 200 asteessa 15–20 minuuttia kullanruskeiksi."
+    ],
+    "notes": ["Muffinit maistuvat parhailta lämpiminä."]
+  },
+  {
+    "id": "wikibooks-apple-stuffed-pork-chops",
+    "title": "Omenatäytteiset porsaankyljykset",
+    "description": "Hunaja-sitruunamarinoidut kyljykset, jotka täytetään omenatäytteellä ja grillataan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 1470,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "omena"],
+    "ingredients": [
+      "4 paksua luullista porsaankyljystä",
+      "½ dl sitruunamehua",
+      "2 rkl tummaa hunajaa",
+      "1½ tl suolaa",
+      "5 dl omenatäytettä (ks. erillinen ohje)",
+      "1¼ dl grillimaustetta",
+      "öljyä grillin ritilälle"
+    ],
+    "instructions": [
+      "Sekoita sitruunamehu, hunaja ja suola isossa pakastepussissa. Lisää kyljykset, purista ilma pois ja sulje pussi. Marinoi jääkaapissa 24 tuntia.",
+      "Nosta kyljykset marinadista. Tee kapealla veitsellä kyljyksen kylkeen tasku luuhun asti ja laajenna sitä hieman sisältä.",
+      "Laita omenatäyte pussiin ja leikkaa kulmaan pieni reikä. Pursota noin 2 rkl täytettä jokaiseen taskuun.",
+      "Hiero maustesekoitus kyljysten molemmille puolille.",
+      "Voitele grillin ritilä öljyllä. Grillaa kyljyksiä kovalla lämmöllä 2 minuuttia, käännä 90 astetta ja grillaa 2 minuuttia. Käännä ja toista toisella puolella.",
+      "Anna levätä 7 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-stuffed-pork-loin",
+    "title": "Omenatäytteinen porsaanselkä grillissä",
+    "description": "Luuton porsaanpaisti täytettynä omenatäytteellä ja grillattuna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "omena"],
+    "ingredients": [
+      "1 luuton porsaanselkäpaisti (n. 1 kg)",
+      "½ dl omenatäytettä (ks. erillinen ohje)",
+      "grillimaustetta",
+      "oliiviöljyä",
+      "dijonsinappia"
+    ],
+    "instructions": [
+      "Tee paistin päälle keskelle noin 3 cm syvä viilto ja täytä se omenatäytteellä. Sivele aukon reunat dijonsinapilla ja painele kiinni.",
+      "Sivele paisti oliiviöljyllä ja ripottele päälle runsaasti grillimaustetta.",
+      "Grillaa esilämmitetyssä hiiligrillissä usein käännellen, kunnes sisälämpö on 60–65 astetta.",
+      "Anna levätä 7 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-stuffing",
+    "title": "Omenatäyte",
+    "description": "Maissileipäpohjainen omenatäyte porsaankyljyksiin ja -paistiin tai kalkkunan lisukkeeksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "3½ dl maissileipää, hienoksi murennettuna",
+      "1¼ dl kuivattuja omenoita",
+      "1¼ dl omenahyytelöä",
+      "½ dl saksanpähkinöitä, karkeasti rouhittuina",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl sokeria",
+      "4 kananmunan keltuaista, vatkattuina",
+      "4 kananmunan valkuaista",
+      "ripaus viinikiveä",
+      "½ dl raastettua fontinaa"
+    ],
+    "instructions": [
+      "Vatkaa valkuaiset ja viinikivi kovaksi vaahdoksi.",
+      "Sekoita muut ainekset paitsi juusto ja valkuaisvaahto. Kääntele vaahto varovasti joukkoon muutamassa erässä.",
+      "Kaada seos uunivuokaan, ripottele päälle juusto ja paista 160 asteessa noin 30 minuuttia, kunnes pinta on ruskistunut ja kupliva.",
+      "Anna levätä 7 minuuttia. Tarjoa lämpimänä tai käytä täytteenä porsaankyljyksiin."
+    ]
+  },
+  {
+    "id": "wikibooks-apple-tapioca",
+    "title": "Uuniomenat tapiokassa",
+    "description": "Vanhanaikainen jälkiruoka: kanelilla ja sokerilla täytetyt omenat paistettuna tapiokavanukkaassa.",
+    "servings": 6,
+    "totalTimeMin": 360,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "1¾ dl helmitapiokaa tai 1¼ dl pikatapiokaa",
+      "5 dl kiehuvaa vettä",
+      "½ tl suolaa",
+      "6 hapanta omenaa",
+      "1¼ dl fariinisokeria",
+      "1 tl kanelia",
+      "1 rkl voita"
+    ],
+    "instructions": [
+      "Jos käytät helmitapiokaa, liota sitä 4–5 tuntia ja valuta. Pikatapiokaa ei tarvitse liottaa. Lisää tapioka kiehuvaan suolalla maustettuun veteen.",
+      "Keitä vesihauteessa, kunnes tapioka on täysin läpikuultavaa.",
+      "Kuori omenat ja poista siemenkodat. Asettele ne voideltuun uunivuokaan, täytä kolot sokerilla ja kanelilla ja laita jokaisen päälle voinokare.",
+      "Kaada kuuma tapioka omenoiden päälle ja paista kuumassa uunissa (200 astetta), kunnes omenat ovat pehmeitä.",
+      "Tarjoa kuumana tai kylmänä sokerin ja kerman kanssa."
+    ],
+    "notes": ["Omenoiden sijaan voi käyttää persikoita tai ananasta; säilykehedelmiä käytettäessä sokeria ja paistoaikaa tarvitaan vähemmän."]
+  },
+  {
+    "id": "wikibooks-apple-with-mustard-and-goat-cheese",
+    "title": "Omenaviipaleet sinapilla ja vuohenjuustolla",
+    "description": "Yllättävä ja helppo alkupala kylmistä omenaviipaleista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "alkuruoka", "juusto"],
+    "ingredients": [
+      "2 makeaa rapeaa omenaa (esim. Golden Delicious)",
+      "sinappia",
+      "30 g tuoretta vuohenjuustoa"
+    ],
+    "instructions": [
+      "Pese omenat ja leikkaa ne poikittain noin ½ cm paksuiksi viipaleiksi. Jääkaappikylmät omenat antavat parhaan kontrastin.",
+      "Levitä viipaleiden toiselle puolelle sinappia.",
+      "Murenna vuohenjuustoa jokaisen viipaleen päälle.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Hunajapaahdetut pähkinät sopivat juuston kaveriksi."]
+  },
+  { "id": "wikibooks-apple-pear-crumble", "skip": "lähes sama resepti kuin aiempi omenapaistos" },
+  {
+    "id": "wikibooks-applesauce-cake",
+    "title": "Omenasosekakku",
+    "description": "Mausteinen omenasose-rusinakakku vanhasta keittokirjasta.",
+    "servings": 16,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "uuniruoka"],
+    "ingredients": [
+      "125 g voita (+ vuokiin)",
+      "2½ dl sokeria",
+      "3½ dl rusinoita",
+      "4 dl vehnäjauhoja",
+      "½ tl neilikkaa",
+      "½ tl jauhettua maustepippuria",
+      "½ tl kanelia",
+      "125 g mantelijauhoa",
+      "1 tl ruokasoodaa",
+      "1 rkl kuumaa vettä",
+      "2½ dl makeuttamatonta omenasosetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen. Voitele ja vuoraa kaksi pyöreää kakkuvuokaa.",
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Sekoita joukkoon rusinat, jauhot, mausteet, mantelijauho ja omenasose.",
+      "Liuota ruokasooda kuumaan veteen ja sekoita taikinaan.",
+      "Jaa taikina vuokiin.",
+      "Paista 45 minuuttia kullanruskeiksi.",
+      "Siirrä kakut ritilälle jäähtymään."
+    ]
+  },
+  { "id": "wikibooks-applewood-bacon", "skip": "turvallisuusriski: kotisuolaus ja kylmäsavustus ilman nitriittiä tai tarkkoja ohjeita" },
+  {
+    "id": "wikibooks-apricot-chicken-salad",
+    "title": "Aprikoosi-kanasalaatti",
+    "description": "Helppo ja kevyt kanasalaatti omenalla, kuivatuilla aprikooseilla ja jogurtilla.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kana", "nopea", "salaatti"],
+    "ingredients": [
+      "150 g kypsää broileria, revittynä (n. 2 pientä koipea)",
+      "1 varsi lehtiselleriä, pilkottuna",
+      "1 keskikokoinen omena, hienonnettuna",
+      "1 rkl hunajaa",
+      "3 kuivattua aprikoosia, pilkottuna",
+      "½ dl turkkilaista jogurttia",
+      "ripaus tulista paprikajauhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita broileri, aprikoosit, omena ja selleri.",
+      "Lisää jogurtti, hunaja ja halutessasi paprikajauhe sekä muita mausteita.",
+      "Sekoita hyvin."
+    ]
+  },
+  { "id": "wikibooks-apricot-wine", "skip": "alkoholijuoma (viini)" },
+  {
+    "id": "wikibooks-arambasici-croatian-sour-cabbage-rolls",
+    "title": "Arambašići – kroatialaiset hapankaalikääryleet",
+    "description": "Sinjin erikoisuus: hapatettuihin kaalinlehtiin käärittyä veitsellä hienonnettua lihaa, haudutettuna savulihan kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["liha", "kroatialainen", "kaali", "pata"],
+    "ingredients": [
+      "600 g naudanlihaa (mieluiten niskaa), hienonnettuna",
+      "150 g savukinkkua tai pekonia, hienonnettuna",
+      "50–60 g naudan munuaisrasvaa, hienonnettuna",
+      "200 g porsaanlihaa, hienonnettuna",
+      "2 isoa sipulia, hienonnettuna",
+      "2 valkosipulinkynttä",
+      "1 sitruunan kuori, raastettuna",
+      "suolaa",
+      "mustapippuria",
+      "ripaus kanelia",
+      "2–3 neilikkaa, murskattuna",
+      "ripaus muskottipähkinää",
+      "1 kokonainen hapankaalikerä (tai tuoreita kaalin- tai viininlehtiä)",
+      "300 g savustettua porsaanlihaa tai savukinkkua",
+      "1 rkl laardia tai öljyä",
+      "lihalientä tai vettä"
+    ],
+    "instructions": [
+      "Sekoita naudanliha, kinkku, munuaisrasva ja porsaanliha kulhossa.",
+      "Lisää sipuli, valkosipuli, sitruunankuori, suola, pippuri, kaneli, neilikka ja muskottipähkinä.",
+      "Sekoita huolellisesti, halutessasi käsin vaivaten.",
+      "Irrota hapankaalikerästä lehdet ja valitse parhaat täytettäviksi.",
+      "Leikkaa lehtiruodin paksuin osa pois.",
+      "Laita jokaiselle lehdelle lusikallinen lihaseosta.",
+      "Kääri lehdet tyvestä alkaen ja taita päädyt hyvin sisään, etteivät kääryleet aukea keittäessä.",
+      "Laita syvän padan pohjalle lusikallinen rasvaa.",
+      "Lado kääryleet tiiviisti vierekkäin kerroksiksi ja laita savulihaa kerrosten väliin.",
+      "Kaada päälle lientä tai vettä. Peitä tiiviisti ja hauduta miedolla lämmöllä 3–4 tuntia.",
+      "Ravista pataa muutaman kerran, mutta älä sekoita."
+    ],
+    "notes": [
+      "Parhaan tuloksen saat esikypsentämällä kääryleet illalla ja kypsentämällä ne loppuun seuraavana päivänä.",
+      "Tuoreet kaalin- tai viininlehdet ryöpätään ennen täyttämistä."
+    ]
+  },
+  {
+    "id": "wikibooks-arancini-italian-fried-rice-balls",
+    "title": "Arancini – italialaiset riisipallot",
+    "description": "Kinkulla täytetyt, rapeiksi friteeratut juustoiset riisipallot tomaattikastikkeen kera.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "riisi", "friteerattu"],
+    "ingredients": [
+      "450 g arborio- eli risottoriisiä",
+      "115 g mozzarellaa, raastettuna",
+      "½ dl raastettua parmesaania",
+      "mustapippuria",
+      "115 g kinkkua, pilkottuna",
+      "1 rkl voita, paloiteltuna",
+      "3½ dl korppujauhoja",
+      "2½ dl vehnäjauhoja",
+      "2 kananmunaa",
+      "rypsiöljyä friteeraukseen",
+      "5 dl tomaattikastiketta (marinara)"
+    ],
+    "instructions": [
+      "Keitä riisi suolalla maustetussa vedessä pehmeäksi ja valuta hyvin.",
+      "Sekoita joukkoon juustot ja pippuri ja anna jäähtyä.",
+      "Sekoita täytteeksi kinkku ja voi.",
+      "Levitä korppujauhot yhdelle lautaselle ja vehnäjauhot toiselle. Vatkaa munat kulhossa.",
+      "Levitä lusikallinen riisiä kämmenelle, laita keskelle täytettä ja sulje riisi täytteen ympärille.",
+      "Muotoile kaikki pallot pienen sitruunan kokoisiksi.",
+      "Kääntele pallot jauhoissa, kastele munassa ja pyörittele korppujauhoissa.",
+      "Kuumenna isossa pannussa muutama sentti öljyä ja paista pallot välillä käännellen kullanruskeiksi. Öljyn tulee ulottua vähintään puoleen väliin palloja.",
+      "Nosta talouspaperille valumaan.",
+      "Lämmitä tomaattikastike, annostele lautasille ja asettele päälle 3–4 arancinia annosta kohden. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-arisa-malaysian-blended-chicken",
+    "title": "Arisa – malesialainen kana-kaurapuuro",
+    "description": "Johorin harvinainen juhlaruoka: maustetussa liemessä keitetty, soseutettu kana kaurapuurona paistetun sipulin ja gheen kera.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "malesialainen", "kaura", "juhla"],
+    "ingredients": [
+      "2 nuorta broileria (à 1,2 kg)",
+      "500 g kaurahiutaleita",
+      "4 punasipulia",
+      "15 valkosipulinkynttä",
+      "15 kardemummaa",
+      "10 kokonaista neilikkaa",
+      "5 cm kanelitanko",
+      "10 cm pala tuoretta inkivääriä",
+      "2 rkl valkopippuria",
+      "suolaa",
+      "340 g gheetä",
+      "2 sipulia, hienonnettuna",
+      "3 l vettä"
+    ],
+    "instructions": [
+      "Puhdista broilerit ja paloittele ne neljään osaan. Laita isoon kattilaan.",
+      "Soseuta inkivääri ja valkosipuli. Lohko punasipulit ja lisää ne ja sose kattilaan.",
+      "Lisää vesi, suola, kardemumma, kaneli ja neilikat.",
+      "Kuumenna kiehuvaksi ja keitä broilerit kypsiksi.",
+      "Nosta broilerit liemestä, poista luut ja soseuta liha.",
+      "Siivilöi liemi, kuumenna se uudelleen kiehuvaksi ja lisää kanasose, kaurahiutaleet, valkopippuri ja suola.",
+      "Sekoita koko ajan, kunnes seos sakeutuu. Lisää puolet gheestä ja sekoita tasaiseksi.",
+      "Kaada seos neliönmuotoiseen vuokaan ja tee keskelle kuoppa.",
+      "Paista sipulit lopussa gheessä ja laita ne kuoppaan.",
+      "Ripottele pinnalle vielä paistettua sipulia."
+    ]
+  },
+  {
+    "id": "wikibooks-arisa-pitha-fried-indian-sweet-rice-pastry",
+    "title": "Arisa pitha – intialaiset riisileivonnaiset",
+    "description": "Odishalaiset, kookostäytteiset riisitaikinaleivokset, jotka friteerataan rapeiksi.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "intialainen", "riisi", "friteerattu"],
+    "ingredients": [
+      "Taikina:",
+      "2 l vettä",
+      "500 g jaggery- tai ruokosokeria",
+      "½ tl suolaa",
+      "1 tl kanelia",
+      "1 rkl gheetä",
+      "1 kg riisijauhoja",
+      "Täyte:",
+      "2 rkl gheetä",
+      "3 dl kookosraastetta (mieluiten tuoretta)",
+      "1 dl sokeria",
+      "2 rkl seesaminsiemeniä",
+      "Paistamiseen:",
+      "200 g rypsiöljyä tai gheetä"
+    ],
+    "instructions": [
+      "Taikina: kiehauta vesi leveässä kattilassa. Sekoita joukkoon sokeri, suola, kaneli ja ghee. Lisää riisijauhot hitaasti koko ajan sekoittaen. Peitä ja kypsennä miedolla lämmöllä, kunnes vesi on imeytynyt ja taikina on chapati-taikinan paksuista. Anna jäähtyä.",
+      "Täyte: sulata ghee pannulla keskilämmöllä. Lisää kookos ja sokeri ja paista sekoittaen, kunnes kookos on kullanruskeaa.",
+      "Vaivaa jäähtynyt taikina tasaiseksi. Tee siitä pieniä palloja, litistä ne ja täytä kookosseoksella ja seesaminsiemenillä.",
+      "Friteeraa täytetyt leivokset öljyssä tai gheessä joka puolelta kullanruskeiksi."
+    ]
+  },
+  { "id": "wikibooks-arjoli-maltese-herbed-bread-dip", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" }
+]

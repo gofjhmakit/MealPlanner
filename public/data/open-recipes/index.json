@@ -1,6 +1,6 @@
 {
- "version": "2026-10-01-1hgbp",
- "generatedAt": "2026-10-01T13:10:36.625Z",
+ "version": "2026-10-01-10ws9if",
+ "generatedAt": "2026-10-01T16:42:37.974Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -10,7 +10,29 @@
    "attribution": "Hermanni Mäkitalo – KitchenGadget8000-reseptikokoelma. Osa resepteistä on Marcus Baw’n kokoelmasta pacharanero/recipes (CC BY-SA 4.0).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "kitchengadget.json",
-   "count": 294,
+   "count": 452,
+   "withImage": 0
+  },
+  {
+   "id": "unitools",
+   "name": "UniTools – maailman reseptit",
+   "homepage": "https://theunitools.com/en/data",
+   "license": "CC BY-SA 4.0",
+   "attribution": "UniTools — theunitools.com. Valokuvat Wikimedia Commonsista, kuvakohtaiset tekijät ja lisenssit reseptin kuvan yhteydessä.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "file": "unitools.json",
+   "count": 125,
+   "withImage": 121
+  },
+  {
+   "id": "wikibooks",
+   "name": "Wikibooks Cookbook",
+   "homepage": "https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents",
+   "license": "CC BY-SA 4.0",
+   "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "file": "wikibooks.json",
+   "count": 237,
    "withImage": 0
   }
  ]

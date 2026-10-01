@@ -1,0 +1,682 @@
+[
+  {
+    "id": "wikibooks-maltese-rabbit-stew-stuffat-tal-fenek",
+    "title": "Stuffat tal-fenek – maltalainen kanipata",
+    "description": "Malttalaisten kansallisruoka: kani haudutetaan hitaasti punaviini-tomaattikastikkeessa perunoiden ja herneiden kanssa.",
+    "servings": 4,
+    "totalTimeMin": 270,
+    "category": "Pääruoat",
+    "tags": ["liha", "maltalainen", "pata"],
+    "ingredients": [
+      "1 iso kani (n. 2 kg), kokonainen",
+      "2 rkl auringonkukkaöljyä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "300 g perunoita, kuorittuina",
+      "1 pieni porkkana, kuorittuna ja pilkottuna",
+      "800 g tomaattimurskaa tai kuorittuja tomaatteja (purkki)",
+      "2 dl punaviiniä",
+      "1 rkl sokeria",
+      "2–3 laakerinlehteä",
+      "tabascoa",
+      "mustapippuria",
+      "suolaa",
+      "100 g herneitä",
+      "½ tl piparkakkumaustetta"
+    ],
+    "instructions": [
+      "Paloittele kani nivelistä noin 10–12 isoksi palaksi: leikkaa kylkiosa 3–4 osaan ja jaa koivet nivelistä. Ota sisäelimet talteen erikseen.",
+      "Kuumenna öljy isossa paistinpannussa ja kuullota siinä osa valkosipulista. Lisää osa kaninpaloista ja paista ne kypsiksi.",
+      "Nosta kypsät palat isoon astiaan. Paista loput lihat samoin erissä ja lisää joka erän kanssa vähän valkosipulia. Lihan tulee kypsyä hyvin mutta ei ruskistua voimakkaasti.",
+      "Paista sisäelimet samassa öljyssä kypsiksi. Pidä ne erillään pääruoasta.",
+      "Leikkaa perunat isoiksi epäsäännöllisiksi paloiksi, hieman lihapaloja pienemmiksi.",
+      "Laita paistettu kani, perunat, porkkana, tomaatit, viini, sokeri ja laakerinlehdet isoon kattilaan. Mausta varovasti suolalla, pippurilla, maustesekoituksella ja tabascolla. Peitä ja hauduta hyvin miedolla lämmöllä 4 tuntia. Sekoita silloin tällöin ensimmäisen tunnin aikana.",
+      "Lisää lopuksi herneet ja keitä, kunnes ne ovat pehmeitä, noin 10 minuuttia."
+    ],
+    "notes": [
+      "Mitä hitaammin ja pidempään pata kypsyy, sitä parempaa siitä tulee. Kovemmalla lämmöllä kypsymisaika lyhenee noin 2 tuntiin, mutta tätä ruokaa ei kannata hoputtaa.",
+      "Maltalla padan kastike tarjotaan usein ensin spagetin kanssa ja kani perunoineen pääruokana leivän kera. Paistetut sisäelimet tarjotaan suolan, pippurin ja tuoreen leivän kanssa alkupalana."
+    ]
+  },
+  {
+    "id": "wikibooks-malvani-chicken-curry",
+    "title": "Malvani-kanacurry",
+    "description": "Maharashtran Malvanin rannikon tulinen kanacurry paahdetusta kookoksesta, sipulista ja mausteista.",
+    "servings": 4,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["kana", "intialainen", "curry", "tulinen"],
+    "ingredients": [
+      "8 vihreää chiliä, hienonnettuna",
+      "2 rkl inkivääritahnaa",
+      "2 rkl valkosipulitahnaa",
+      "800 g broilerin paloja luineen",
+      "2 rkl rypsiöljyä + paahtamiseen",
+      "1 tuore kookospähkinä, malto raastettuna (tai 3 dl kookoshiutaleita)",
+      "4 sipulia, hienonnettuna",
+      "1 tl chilijauhetta",
+      "½ tl kurkumaa",
+      "2 tl garam masalaa",
+      "2 tl malvani-maustesekoitusta",
+      "suolaa",
+      "tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Jauha puolet chileistä tahnaksi ja sekoita inkivääri- ja valkosipulitahnan kanssa.",
+      "Viillä kananpaloihin viiltoja, hiero seos niihin hyvin ja marinoi vähintään tunti.",
+      "Paahda kookosraaste pannulla pienessä määrässä öljyä vaaleanruskeaksi. Jäähdytä ja jauha tahnaksi puolen sipulimäärän kanssa.",
+      "Kuumenna öljy paksupohjaisessa kattilassa ja kuullota loput sipulit keskilämmöllä noin 2 minuuttia vaaleanruskeiksi.",
+      "Lisää loput chilit ja maustejauheet ja paista muutama sekunti. Lisää marinoidut kananpalat ja paista keskilämmöllä noin 3 minuuttia, kunnes ne ovat kevyesti ruskistuneet.",
+      "Lisää kookostahna ja suola ja sekoita hyvin. Lisää vettä halutun paksuuden mukaan ja kuumenna kiehuvaksi. Peitä ja hauduta miedolla lämmöllä noin 25 minuuttia, kunnes kana on kypsää ja mureaa.",
+      "Koristele hienonnetulla korianterilla."
+    ],
+    "notes": ["Kookoshiutaleita ei tarvitse liottaa, vaan ne paahdetaan suoraan."]
+  },
+  {
+    "id": "wikibooks-man-burgers",
+    "title": "Itse jauhetut naudanlihahampurilaiset",
+    "description": "Mehevät hampurilaiset naudan etuselästä ja ulkofileestä itse jauhettuna, grillattuna ja juustolla kruunattuna.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "hampurilainen", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "225 g naudan etuselkää, kalvot poistettuna ja 4 cm:n kuutioina",
+      "225 g naudan ulkofileetä, kalvot poistettuna ja 4 cm:n kuutioina",
+      "2 rkl pihvimaustetta",
+      "oliiviöljyä",
+      "4 hampurilaissämpylää, halkaistuna",
+      "4 viipaletta juustoa (esim. pepper jack)",
+      "lempitäytteitä, esim. salaattia, tomaattia ja sipulia"
+    ],
+    "instructions": [
+      "Jauha lihakuutiot lihamyllyn hienolla terällä. Sekoita ja muotoile neljäksi pihviksi.",
+      "Sivele pihvit oliiviöljyllä ja ripottele pinnalle runsaasti pihvimaustetta.",
+      "Grillaa kovalla lämmöllä noin 3–4 minuuttia kummaltakin puolelta (medium rare), 5–6 minuuttia (medium) tai 7–8 minuuttia (kypsä). Nosta viimeisen minuutin aikana pihvin päälle juustoviipale.",
+      "Nosta pihvit sämpylöiden pohjapuoliskoille.",
+      "Lisää täytteet ja kastikkeet ja peitä kansipuoliskolla. Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-mandarin-orange-cake",
+    "title": "Mandariinikakku ananaskuorrutteella",
+    "description": "Helppo amerikkalainen täytekakku valmiista kakkujauheesta ja mandariineista, kuorrutettu vaniljaisella ananaskermalla.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "amerikkalainen"],
+    "ingredients": [
+      "1 pkt (430 g) valmista vaniljakakkujauhetta",
+      "1 tlk (310 g) mandariinilohkoja mehussa",
+      "3 munaa",
+      "1 pkt (140 g) vaniljavanukasjauhetta",
+      "1 tlk (565 g) ananasmurskaa",
+      "340 g kasvirasvapohjaista vispikermaa, vaahdotettuna (tai 3 dl kuohukermaa vaahdotettuna)",
+      "leivontarasvaa ja jauhoja vuokien voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen. Voitele kakkuvuokien pohjat ja reunat ja jauhota ne.",
+      "Kaada kakkujauhe kulhoon. Lisää munat ja mandariinit mehuineen. Sekoita, kunnes jauhot ovat kostuneet, ja vatkaa sitten keskinopeudella noin 2 minuuttia.",
+      "Jaa taikina tasaisesti vuokiin. Paista noin 30 minuuttia tai kunnes kakun keskelle työnnetty tikku tulee ulos puhtaana.",
+      "Ota uunista ja anna pohjien jäähtyä kokonaan.",
+      "Laita vaahdotettu kerma puhtaaseen kulhoon ja sekoita joukkoon vanukasjauhe. Valuta ananasmurskasta kaikki mehu ja kääntele ananas kerman joukkoon. Jäähdytä kuorrutetta noin 30 minuuttia.",
+      "Kun pohjat ovat jäähtyneet, täytä ja kuorruta kakku ananaskermalla."
+    ]
+  },
+  {
+    "id": "wikibooks-mandazi-east-african-doughnuts",
+    "title": "Mandazi – itäafrikkalaiset munkit",
+    "description": "Ugandan, Kenian ja Tansanian suosittu katuruoka: sitruunalla ja neilikalla maustetut rasvassa paistetut munkit.",
+    "servings": 10,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["afrikkalainen", "friteerattu", "munkki"],
+    "ingredients": [
+      "9,5 dl vehnäjauhoja + leivontaan",
+      "1 tl leivinjauhetta",
+      "1 ripaus suolaa",
+      "1 tl sitruunankuorta, raastettuna",
+      "1 dl sokeria",
+      "½ tl jauhettua neilikkaa (valinnainen)",
+      "2 rkl margariinia tai voita, huoneenlämpöisenä",
+      "noin 4,5 dl vettä",
+      "1 tl vaniljauutetta",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Siivilöi jauhot ja leivinjauhe kulhoon.",
+      "Sekoita joukkoon suola, sitruunankuori, sokeri ja neilikka.",
+      "Nypi rasva jauhoihin karkeaksi muruksi.",
+      "Sekoita vanilja veteen ja lisää jauhoseokseen vähitellen, kunnes saat kiinteän taikinan.",
+      "Vaivaa noin 2 minuuttia, kunnes taikina ei enää tartu käsiin. Anna levätä 10 minuuttia.",
+      "Kauli taikina jauhotetulla alustalla noin 2,5 cm paksuksi.",
+      "Leikkaa taikina 10 yhtä suureksi neliöksi ja pyöritä jokainen palloksi.",
+      "Kuumenna öljy kattilassa keskilämmöllä. Paista munkkeja viiden erissä noin 10 minuuttia, kunnes ne ovat kohonneet, ruskeita joka puolelta ja kypsiä.",
+      "Nosta munkit talouspaperille ja nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-mandoca-fried-breaded-pepper",
+    "title": "Mandoca – friteerattu jauhotettu chilipaprika",
+    "description": "Yksinkertainen venezuelalainen välipala: miedot vahapaprikat kierrätetään jauhoissa ja friteerataan.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "venezuelalainen", "friteerattu", "nopea"],
+    "ingredients": [
+      "3 keskikokoista vahapaprikaa (banana pepper) tai muuta mietoa chiliä",
+      "2 dl vehnäjauhoja",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Kierrätä paprikat jauhoissa niin, että ne peittyvät hyvin.",
+      "Friteeraa kuumassa öljyssä noin 2 minuuttia ja valuta talouspaperilla."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-and-coconut-chutney-am-ki-chatni",
+    "title": "Mango-kookoschutney (am ki chatni)",
+    "description": "Raikas tuore chutney mangokuutioista, kookoksesta, inkivääristä ja appelsiinimehusta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "intialainen", "chutney"],
+    "ingredients": [
+      "2 lähes kypsää mangoa",
+      "1 rkl tuoretta kookosta tai kookoshiutaleita, hienonnettuna",
+      "1 tl korianteria tai minttua, hienonnettuna",
+      "1 rkl tuoretta inkivääriä, kuorittuna ja hienonnettuna",
+      "1 tl suolaa",
+      "½ tl cayennepippuria",
+      "2–3 rkl tuorepuristettua appelsiinimehua (tai appelsiini- ja limettimehua)"
+    ],
+    "instructions": [
+      "Leikkaa mangosta malto kuorineen kiven molemmilta puolilta mahdollisimman läheltä kiveä.",
+      "Aseta puolikkaat kuori alaspäin ja viillä maltoon ristikkokuvio kuoreen asti noin 1 cm:n ruuduiksi.",
+      "Käännä kuori nurin painamalla sitä sormilla alta ylöspäin, jolloin kuutiot nousevat esiin. Leikkaa kuutiot irti kuoresta terävällä veitsellä.",
+      "Laita mangokuutiot pieneen kulhoon.",
+      "Lisää kookos, korianteri, inkivääri, cayenne, mehu ja suola ja sekoita varovasti.",
+      "Anna maustua jääkaapissa 1–2 tuntia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-and-yellow-split-pea-curry",
+    "title": "Mangodaal – mango-linssicurry",
+    "description": "Eteläintialainen kasvisruoka keltaisista halkaistuista linsseistä (toor dal) ja mangosta mausteöljyllä viimeisteltynä.",
+    "servings": 2,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "curry", "linssit"],
+    "ingredients": [
+      "2,5 dl toor dal -linssejä (keltaisia halkaistuja herneitä)",
+      "2 tlk mangoviipaleita (tai 2 tuoretta mangoa), viipaloituna",
+      "1 sipuli, hienonnettuna",
+      "2 cm palaa inkivääriä tai galangalia, raastettuna",
+      "1 tl valkosipulitahnaa",
+      "1 rkl rypsiöljyä",
+      "1 tl kirkastettua voita (ghee)",
+      "1 tl asafoetidaa",
+      "3 tl kurkumaa",
+      "1 tl garam masalaa",
+      "1 tl chilijauhetta",
+      "2 tl sinapinsiemeniä",
+      "1 tl juustokuminaa",
+      "1 tl kuivattuja sarviapilanlehtiä"
+    ],
+    "instructions": [
+      "Liota linssejä yön yli.",
+      "Keitä linssit vedessä pehmeiksi. Huuhtele, valuta ja nosta sivuun.",
+      "Keitä mangoviipaleita omassa mehussaan. Lisää keitetyt linssit ja tarvittaessa vettä.",
+      "Kuullota toisessa pannussa sipuli, inkivääri ja valkosipulitahna öljyssä kullanruskeiksi.",
+      "Kuumenna kolmannessa pannussa ghee ja paista siinä asafoetida, kurkuma, garam masala, chilijauhe, sinapinsiemenet ja kumina.",
+      "Lisää sipuliseos ja mausteöljy kiehuvaan mango-linssikattilaan.",
+      "Lisää sarviapilanlehdet ja keitä vielä hetki.",
+      "Anna jäähtyä hieman ja tarjoa rotien tai naanin ja riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-atchar",
+    "title": "Mango-atchar – tulinen mangopikkelssi",
+    "description": "Etelä-Afrikan intialaisen keittiön tulinen mangopikkelssi raa'oista mangoista curryn lisukkeeksi.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "eteläafrikkalainen", "intialainen", "pikkelssi"],
+    "ingredients": [
+      "1,5 kg raakoja mangoja, pilkottuna",
+      "4 tl yrttisuolaa",
+      "3 rkl chilijauhetta",
+      "2 rkl juustokuminaa",
+      "1 rkl jauhettua korianteria",
+      "3 rkl currya",
+      "3,5 dl hunajaa tai fruktoosia",
+      "5 dl balsamietikkaa",
+      "1 dl maissitärkkelystä tai perunajauhoja",
+      "2 rkl sinapinsiemeniä",
+      "1 kourallinen curryn lehtiä",
+      "3,5 dl oliiviöljyä tai kylmäpuristettua auringonkukkaöljyä"
+    ],
+    "instructions": [
+      "Keitä kaikkia aineksia mangoja ja öljyä lukuun ottamatta hiljalleen, kunnes seos sakeutuu.",
+      "Kaada seos mangojen päälle, lisää öljy ja sekoita hyvin.",
+      "Jäähdytä ja anna maustua jääkaapissa vähintään 12 tuntia."
+    ],
+    "notes": ["Säilytä jääkaapissa."]
+  },
+  {
+    "id": "wikibooks-mango-avocado-salsa",
+    "title": "Mango-avokadosalsa",
+    "description": "Raikas salsa mangosta, avokadosta, punasipulista, jalapeñosta ja korianterista tortillalastujen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "salsa"],
+    "ingredients": [
+      "½ dl punasipulia, kuutioituna",
+      "1 jalapeño, siemenet poistettuna ja hienonnettuna",
+      "1 pieni nippu korianteria, hienonnettuna",
+      "3 avokadoa, kuorittuna ja kuutioituna",
+      "1 kypsä mango, kuorittuna ja kuutioituna",
+      "suolaa",
+      "mustapippuria",
+      "1 limetin mehu"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset keskikokoisessa kulhossa.",
+      "Sekoita lusikalla ja tarjoa tortillalastujen kanssa tai muiden ruokien täytteenä."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-chicken",
+    "title": "Mangokana",
+    "description": "Nopea pannuruoka: currylla maustettuja kananpaloja, inkivääriä ja tuoretta mangoa jasmiiniriisin päällä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea", "arkiruoka", "riisi"],
+    "ingredients": [
+      "600 g broilerin rintafileetä",
+      "2 rkl rypsiöljyä",
+      "1 mango, kuorittuna ja kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tl currya",
+      "3 cm palaa inkivääriä, kuorittuna ja suikaloituna",
+      "½ dl kuivaa sherryä tai valkoviiniä",
+      "kookoshiutaleita tai maapähkinärouhetta (valinnainen)",
+      "keitettyä jasmiiniriisiä tarjoiluun"
+    ],
+    "instructions": [
+      "Poista kanasta jänteet ja leikkaa se suupaloiksi.",
+      "Kuumenna öljy kattilassa tai pannulla keskikorkealla lämmöllä.",
+      "Kun öljy on kuumaa, lisää valkosipuli ja inkivääri ja sekoittele. Lisää minuutin päästä kana. Paista tarvittaessa useassa erässä.",
+      "Paista, kunnes kana on kypsää ja saanut kevyesti väriä joka puolelta. Ripottele curry kanan päälle paistamisen aikana.",
+      "Kun kana on melkein kypsää, lisää mango ja paista enintään minuutti.",
+      "Lisää viini, irrota paistopinta ja laske lämpöä.",
+      "Tarjoa riisin päällä ja ripottele pinnalle kookosta tai maapähkinöitä."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-chutney-chunky",
+    "title": "Mangochutney paloina",
+    "description": "Hapanimelä Andhra Pradeshin tyylinen mangochutney rusinoilla, inkiväärillä ja valkosipulilla. Säilyy jääkaapissa pitkään.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "intialainen", "chutney"],
+    "ingredients": [
+      "6 kiinteää, raakaa mangoa, kuutioituna",
+      "75 g rusinoita",
+      "2,5 dl omenaviinietikkaa",
+      "2,5 dl fariinisokeria",
+      "2 rkl valkosipulia, hienonnettuna",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "1,5 rkl tuoretta inkivääriä, kuorittuna ja hienonnettuna",
+      "2 tl suolaa",
+      "¼ tl cayennepippuria",
+      "¼ tl vastajauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Liuota sokeri ja suola etikkaan ja keitä 15 minuuttia.",
+      "Lisää mangot, rusinat ja sipuli ja kuumenna uudelleen kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta 15 minuuttia koko ajan sekoittaen, ettei seos pala pohjaan.",
+      "Lisää valkosipuli, inkivääri ja mausteet ja hauduta 5 minuuttia.",
+      "Nosta liedeltä ja anna jäähtyä ennen tarjoilua.",
+      "Runsaan sokerin ja hapon ansiosta chutney säilyy jääkaapissa jopa 6 kuukautta."
+    ],
+    "notes": ["Tarjoa riisin tai leivän kanssa, voileivän levitteenä tai jogurtin seurana."]
+  },
+  {
+    "id": "wikibooks-mango-chutney-smooth",
+    "title": "Sileä raakamangochutney",
+    "description": "Eteläintialainen tulinen chutney raa'asta mangosta, joka jauhetaan sinapinsiemenillä ja chileillä maustetun öljyn kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "intialainen", "chutney", "nopea"],
+    "ingredients": [
+      "1 iso raaka mango, kuorittuna ja 2–3 cm:n kuutioina",
+      "2 tl sinapinsiemeniä",
+      "3 rkl rypsiöljyä tai oliiviöljyä",
+      "½ tl asafoetidaa",
+      "3–4 kuivattua punaista chiliä",
+      "2–3 vihreää chiliä",
+      "1 tl limettimehua (jos mango ei ole tarpeeksi hapan)",
+      "1 tl kurkumaa",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy paistinpannussa.",
+      "Lisää sinapinsiemenet, asafoetida sekä vihreät ja punaiset chilit. Kun sinapinsiemenet alkavat poksahdella, nosta pannu liedeltä.",
+      "Jauha mausteöljy tehosekoittimessa mangon, tarvittaessa limettimehun, kurkuman ja suolan kanssa tasaiseksi."
+    ]
+  },
+  {
+    "id": "wikibooks-mango-coconut-sticky-rice",
+    "title": "Mango-kookospuuro tahmeasta riisistä",
+    "description": "Kookosvedessä ja pandaanilla maustetussa kookosmaidossa haudutettu makea tahmea riisi mangon ja nuoren kookoksen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "aasialainen", "riisi"],
+    "ingredients": [
+      "2 dl kookosmaitoa",
+      "6–7 pandaaninlehteä",
+      "suolaa",
+      "2 l kookosvettä",
+      "5 dl tahmeaa riisiä (sticky rice), hyvin huuhdottuna",
+      "250 g fariinisokeria",
+      "1–2 mangoa, kuutioituna",
+      "1 dl nuoren kookoksen maltoa, suikaloituna"
+    ],
+    "instructions": [
+      "Kuumenna kookosmaito ja pandaaninlehdet kiehuvaksi. Mausta ripauksella suolaa.",
+      "Sekoita joukkoon kookosvesi ja riisi ja hauduta miedolla lämmöllä noin 15 minuuttia.",
+      "Lisää mango ja hauduta 5 minuuttia.",
+      "Lisää sokeri ja sekoita, kunnes se on liuennut. Lisää kookosmalto ja poista pandaaninlehdet.",
+      "Tarjoa."
+    ]
+  },
+  { "id": "wikibooks-manhattan-clam-chowder-i", "skip": "liian puutteellinen (ei nestettä eikä selkeää valmistusohjetta)" },
+  {
+    "id": "wikibooks-manhattan-clam-chowder-ii",
+    "title": "Manhattan clam chowder – tomaattinen simpukkakeitto",
+    "description": "Punainen, tomaattipohjainen simpukkakeitto suolalihasta, juureksista ja perunasta, tarjoiltuna suolakeksimurun päällä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 130,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "keitto", "amerikkalainen"],
+    "ingredients": [
+      "650 g simpukanlihaa (purkissa tai pakasteena), liemi talteen",
+      "2,5 dl varsiselleriä, viipaloituna",
+      "2 rkl persiljaa, hienonnettuna",
+      "115 g suolattua sianlihaa tai pekonia, kuutioituna",
+      "1 laakerinlehti",
+      "3 keskikokoista sipulia, kuutioituna",
+      "¼ tl timjamia",
+      "5 dl tomaattia, pilkottuna",
+      "2 keskikokoista perunaa, kuutioituna",
+      "1,5 l vettä",
+      "2,5 dl porkkanaa, kuutioituna",
+      "8–10 suolakeksiä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Siivilöi simpukoiden liemi talteen.",
+      "Jauha simpukat karkeaksi lihamyllyllä tai pilko ne veitsellä.",
+      "Paista sianliha paksupohjaisessa valurautakattilassa.",
+      "Nosta liha pois ja kuullota sipulit rasvassa pehmeiksi ja kevyesti ruskistuneiksi.",
+      "Lisää tomaatit ja keitä 5 minuuttia.",
+      "Lisää vesi, porkkanat, selleri ja yrtit.",
+      "Peitä ja hauduta hiljalleen 1½ tuntia.",
+      "Lisää simpukat, siivilöity liemi ja perunat. Keitä, kunnes perunat ovat kypsiä.",
+      "Mausta suolalla ja pippurilla.",
+      "Kuumenna kiehuvaksi, kaada lautasille murennettujen suolakeksien päälle ja tarjoa heti."
+    ],
+    "notes": ["Vähärasvaisemman keiton saat käyttämällä laihaa porsaanlihaa."]
+  },
+  {
+    "id": "wikibooks-manx-smoked-salmon",
+    "title": "Mansaaren savulohirenkaat silliviipaleilla",
+    "description": "Mansaarelainen alkuruoka: savulohiviipaleilla vuorattuihin renkaisiin täytetään savusilli-kermamousse, ja annos tarjotaan kurkun ja tomaatin kanssa.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Muut",
+    "tags": ["kala", "alkuruoka", "brittiläinen"],
+    "ingredients": [
+      "450 g savusilliä (kipper)",
+      "450 g kylmäsavulohta, viipaloituna",
+      "5–6 dl kuohukermaa",
+      "20 g ruohosipulia, hienonnettuna",
+      "¼–½ kurkku, ohuina viipaleina",
+      "½ tomaatti, kuorittuna, siemenet poistettuna ja viipaloituna"
+    ],
+    "instructions": [
+      "Keitä savusillit suolalla maustetussa vedessä.",
+      "Vuoraa 6 annosrengasta savulohiviipaleilla foliolla vuoratulla pellillä niin, että viipaleet roikkuvat reunojen yli.",
+      "Jäähdytä keitetyt sillit kylmässä vedessä 3–5 minuuttia. Fileoi ja nahkoi ne ja laita tehosekoittimeen.",
+      "Lisää kerma vähitellen ja soseuta.",
+      "Sekoita joukkoon ruohosipuli.",
+      "Täytä renkaat seoksella ja ravista, jotta ilmakuplat poistuvat.",
+      "Taita lohiviipaleet täytteen päälle ja käännä renkaat ylösalaisin. Peitä kelmulla ja jäähdytä jääkaapissa.",
+      "Asettele jokaisen lautasen keskelle noin 6 kurkkuviipaletta.",
+      "Nosta renkaat pellilta ja kumoa ne kurkkuviipaleiden päälle.",
+      "Koristele kurkku- ja tomaattisuikaleilla ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-barbecue-baby-back-ribs",
+    "title": "Savustetut porsaanribsit vaahterasiirappi-BBQ-kastikkeella",
+    "description": "Matalassa lämmössä hikkori- ja omenapuusavussa kypsennetyt porsaan selkäribsit, jotka viimeistellään kuumalla grillillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "amerikkalainen", "savustus"],
+    "ingredients": [
+      "2 levyä porsaan selkäribsejä (n. 2 kg)",
+      "1 dl ribsimaustetta",
+      "5 dl vaahterasiirappi-grillikastiketta",
+      "hikkori- ja omenapuupaloja savustukseen"
+    ],
+    "instructions": [
+      "Poista ribsien alapuolen kalvo. Mausta molemmat puolet runsaalla maustesekoituksella ja anna maustua jääkaapissa vähintään tunti.",
+      "Laita savustimen tulipesään sen verran savupuupaloja, että lämpötila pysyy noin 95 asteessa.",
+      "Nosta ribsit savustimeen ja kypsennä noin 4 tuntia tai kunnes ne ovat hyvin mureita. Sivele kastikkeella 1½ tunnin välein ja lisää savupuuta tarpeen mukaan.",
+      "Sivele ribsien lihapuoli runsaalla kastikkeella ja nosta lihapuoli alaspäin erittäin kuumalle grillille, kunnes pinta on hyvin ruskistunut ja hieman hiiltynyt.",
+      "Leikkaa yhden luun annoksiksi ja tarjoa lisäkastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-barbecue-sauce",
+    "title": "Vaahterasiirappi-grillikastike",
+    "description": "Iso satsi makeaa ja hieman tulista grillikastiketta, joka sopii erityisesti kanalle ja ribseille. Sivele vasta 10–15 minuuttia ennen grillauksen loppua, ettei sokeri pala.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "1,9 l ketsuppia",
+      "3,5 dl vaahterasiirappia",
+      "2,5 dl omenaviinietikkaa",
+      "½ dl savuista grillimaustetta",
+      "2 rkl sinappia",
+      "1 dl worcestershirekastiketta",
+      "2 habanero-chiliä, kanta poistettuna"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset isossa kattilassa.",
+      "Kuumenna kovalla lämmöllä kiehuvaksi ja keitä, kunnes neste on vähentynyt kolmanneksella.",
+      "Poista chilit.",
+      "Säilytä jääkaapissa tiiviissä astiassa enintään 3 viikkoa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-beans",
+    "title": "Vaahterasiirappipavut – québeciläiset uunipavut",
+    "description": "Kanadalainen versio uunipavuista: pienet valkoiset pavut haudutetaan uunissa vaahterasiirapin, sipulin ja pekonin kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 420,
+    "category": "Lisukkeet",
+    "tags": ["liha", "kanadalainen", "pavut", "uuniruoka"],
+    "ingredients": [
+      "6 dl pieniä kuivattuja valkoisia papuja",
+      "2 l vettä",
+      "1 iso makea sipuli, hienonnettuna",
+      "2,5 dl vaahterasiirappia",
+      "2 rkl tummaa muscovadosokeria tai fariinisokeria",
+      "2 rkl voita",
+      "½ tl sinappijauhetta",
+      "½ tl jauhettua mustapippuria",
+      "1 tl suolaa",
+      "6 viipaletta pekonia (tai ½ dl pekonin paistorasvaa)"
+    ],
+    "instructions": [
+      "Huuhtele pavut ja laita ne kattilaan veden kanssa. Peitä ja kuumenna kiehuvaksi.",
+      "Kun vesi kiehuu, keitä 5 minuuttia ja nosta liedeltä. Anna seistä kannen alla 1 tunti.",
+      "Kuumenna pavut uudelleen ja hauduta kannen alla 45 minuuttia.",
+      "Kaada pavut siivilään ja ota keitinliemi talteen kulhoon.",
+      "Sekoita sipuli, suola, sinappi, pippuri ja vaahterasiirappi. Lisää 6 dl keitinlientä ja sekoita hyvin.",
+      "Suikaloi pekoni uunivuoan pohjalle, lisää pavut ja kaada nesteseos päälle.",
+      "Peitä ja paista 165 asteessa 3 tuntia. Lisää 1,25 dl keitinlientä 2½ tunnin kohdalla.",
+      "Sulata voi ja sekoita siihen sokeri. Kaada papujen päälle ja paista ilman kantta, kunnes nestettä ei enää näy."
+    ],
+    "notes": [
+      "Vaahterasiirapin tilalla voi käyttää hunajaa tai tummaa siirappia, mutta vaahtera antaa ruoalle sen tunnusomaisen maun.",
+      "Tarjoillaan usein kinkun ja makean maissileivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-cream",
+    "title": "Vaahterasiirappivoide (maple butter)",
+    "description": "Pelkästä vaahterasiirapista keittämällä ja sekoittamalla valmistettu sileä, levitettävä makea voide lettujen ja leivonnaisten päälle.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Muut",
+    "tags": ["vegaaninen", "kanadalainen", "makea", "levite"],
+    "ingredients": [
+      "1 l aitoa vaahterasiirappia",
+      "muutama tippa mietoa rypsiöljyä"
+    ],
+    "instructions": [
+      "Kaada siirappi kattilaan, joka on riittävän syvä ettei siirappi kuohu yli ja riittävän kapea, jotta siirappia on vähintään 5 cm syvyydeltä.",
+      "Jos käytät perinteistä sokerilämpömittaria, aseta se kattilaan niin, että anturi on siirapin peitossa.",
+      "Lisää muutama tippa öljyä, joka estää isojen kuplien muodostumista.",
+      "Kuumenna siirappi sekoittamatta hiljalleen kiehuvaksi ja keitä, edelleen sekoittamatta, 110–113 asteeseen.",
+      "Nosta kattila jäävesihauteeseen niin, ettei siirappiin pääse vettä. Anna jäähtyä koskematta, kunnes lämpötila on 27–38 astetta. Siirappi sakeutuu huomattavasti.",
+      "Siirrä jäähtynyt siirappi kulhoon ja sekoita sitä lusikalla tai lastalla hitaasti ja yhtäjaksoisesti noin 15–30 minuuttia. Seos sakeutuu, samenee ja menettää kiiltonsa.",
+      "Kun kiilto katoaa, lopeta sekoittaminen ja siirrä voide heti purkkiin. Jos odotat liian kauan, seosta on vaikea käsitellä."
+    ],
+    "notes": [
+      "Sekoittaminen synnyttää siirappiin pieniä kiteitä, joten jatka hitaasti ja tasaisesti.",
+      "Sähkövatkainta voi käyttää alkuvaiheessa, mutta lopussa seos on liian paksua koneelle.",
+      "Jos voide on ehtinyt jähmettyä liikaa, vaivaa sitä puhtain käsin, kunnes se pehmenee, ja painele purkkiin."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-cumin-glazed-grilled-bananas",
+    "title": "Grillatut banaanit vaahtera-kuminakuorrutteella",
+    "description": "Grillissä paahdetut banaanit, joita sivellään liekitetyn rommin, vaahterasiirapin ja juustokuminan seoksella.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "grilli", "nopea", "hedelmät"],
+    "ingredients": [
+      "4 banaania, kuorittuna ja pituussuunnassa halkaistuna",
+      "1 dl vaahterasiirappia",
+      "2 rkl tummaa rommia",
+      "½ tl juustokuminaa",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Sivele banaanit ja kylmä grilliritilä öljyllä.",
+      "Kuumenna rommi kattilassa kovalla lämmöllä ja sytytä se varovasti. Kun liekit ovat sammuneet, nosta liedeltä ja vatkaa joukkoon vaahterasiirappi ja kumina.",
+      "Nosta banaanit leikkuupinta alaspäin kuumalle grillille ja sivele rommiseoksella. Grillaa 2 minuuttia, käännä ja sivele grillattu puoli seoksella.",
+      "Grillaa toinen puoli hyvin ruskeaksi. Käännä vielä ja grillaa juuri ruskeaksi. Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-glazed-chicken-breasts",
+    "title": "Vaahterasiirapilla kuorrutetut broilerinfileet",
+    "description": "Sitruunapippurilla maustetut uunibroilerinfileet, jotka kuorrutetaan kokoon keitetyllä vaahterasiirappi-worcestershirekastikkeella ja ruskistetaan grillivastuksen alla.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "1 dl vaahterasiirappia",
+      "½ dl kanalientä",
+      "2 rkl worcestershirekastiketta",
+      "2 rkl voisulaa",
+      "1 rkl suolaa",
+      "1 rkl vastajauhettua mustapippuria",
+      "2 rkl sitruunapippuria"
+    ],
+    "instructions": [
+      "Kuumenna vaahterasiirappi, worcestershirekastike ja liemi pienessä kattilassa keskikorkealla lämmöllä kiehuvaksi ja keitä, kunnes määrä on vähentynyt kolmanneksella. Nosta sivuun.",
+      "Sekoita suola, pippuri ja sitruunapippuri. Sivele kana voisulalla ja painele mausteseos fileiden molemmille puolille.",
+      "Nosta kana matalaan uunivuokaan ja työnnä paistolämpömittari yhteen fileeseen. Paista 190 asteessa, kunnes sisälämpö on 74 °C.",
+      "Sivele fileiden pinta vaahterakastikkeella. Ota vuoka uunista siksi aikaa, kun grillivastus kuumenee.",
+      "Grillaa kanaa kuuman grillivastuksen alla, kunnes pinta on hyvin ruskistunut ja hieman hiiltynyt.",
+      "Nosta lautaselle ja peitä foliolla. Anna levätä 7 minuuttia ja tarjoa lopun kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-planked-chicken-breasts",
+    "title": "Vaahteralankulla grillatut broilerinfileet",
+    "description": "Korianterilla maustetut broilerinfileet kypsennettynä epäsuoralla lämmöllä liotetun vaahteralankun päällä grillissä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli"],
+    "ingredients": [
+      "2 broilerin rintafileetä (yht. 350–450 g)",
+      "oliiviöljyä",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "1 tl vastajauhettua korianterinsiementä",
+      "2 käsittelemätöntä vaahteralankkua, liotettuna vedessä vähintään tunti"
+    ],
+    "instructions": [
+      "Sivele kana oliiviöljyllä. Mausta molemmat puolet runsaalla suolalla, pippurilla ja korianterilla.",
+      "Nosta fileet lankuille ja työnnä paistolämpömittari toiseen fileeseen. Kuumenna grillistä yksi poltin tai siirrä hiilet toiselle puolelle ja aseta lankut viileämmälle puolelle. Kypsennä, kunnes sisälämpö on 74 °C.",
+      "Nosta kana lautaselle ja peitä foliolla. Anna levätä 5 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-maple-planked-salmon-with-rum-glaze",
+    "title": "Lankkulohi rommikuorrutteella",
+    "description": "Vaahteralankulla grillattu lohifilee, jota sivellään kokoon keitetyllä rommilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kala", "lohi", "grilli"],
+    "ingredients": [
+      "1 lohifilee (700–900 g), mieluiten punalohta",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "1 rkl oliiviöljyä",
+      "1 dl tummaa rommia",
+      "1 iso käsittelemätön vaahteralankku, liotettuna vedessä vähintään tunti"
+    ],
+    "instructions": [
+      "Sivele lohi öljyllä. Mausta runsaalla suolalla ja vastajauhetulla pippurilla.",
+      "Nosta lohi lankulle. Kuumenna grillin yksi poltin keskilämmölle.",
+      "Kuumenna rommi kattilassa kovalla lämmöllä kiehuvaksi. Nosta liedeltä ja sytytä varovasti. Keitä, kunnes määrä on puolittunut.",
+      "Aseta lankku epäsuoralle lämmölle ja kypsennä 20 minuuttia siveltäen lohta usein rommilla.",
+      "Anna levätä 5 minuuttia ja tarjoa."
+    ]
+  }
+]
