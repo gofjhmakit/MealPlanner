@@ -1,0 +1,334 @@
+/**
+ * Ingredient -> canonical ingredient -> Fineli food matching.
+ *
+ * Strategy (first hit wins; confidence reflects how much was guessed):
+ *   0. user mapping for the normalized name                               1.0  'user'
+ *   1. whole name equals a dictionary alias                              1.0  'exact'
+ *   2. alias matches after dropping leading neutral modifiers            0.95 'alias'
+ *      ("tuore basilika" -> basilika) / meaningful modifiers              0.85 'modifier-dropped'
+ *   3. Finnish compound head matches an alias                            0.8  'compound-head'
+ *      ("kirsikkatomaatti" -> tomaatti; "kesäkurpitsaraaste" -> kesäkurpitsa)
+ *      – guarded by notWithPrefixes so "kookosmaito" never becomes milk
+ *   4. Search Fineli food names directly                                 ≤0.55 'fineli-search'
+ *   5. nothing                                                            0    'none'
+ *
+ * The final nutrition confidence is multiplied by the canonical ingredient's
+ * fineliConfidence (how well the chosen Fineli food represents it).
+ */
+import { cleanIngredientName, lemmaCandidates, NEUTRAL_MODIFIERS, normalizeKey, tokenize } from './finnish'
+import { INGREDIENTS, getIngredient, type CanonicalIngredient } from './ingredients'
+import { findProduct, type ProductMatchEntry } from './products'
+import type { FineliFood, MatchMethod } from './types'
+
+export interface FineliLookup {
+  get(id: number): FineliFood | undefined
+  all(): FineliFood[]
+}
+
+export interface UserMappingLookup {
+  get(key: string): { canonicalId?: string | null; fineliId?: number | null } | undefined
+}
+
+export interface MatchContext {
+  fineli?: FineliLookup
+  userMappings?: UserMappingLookup
+  /** The user's own products (see products.ts). */
+  products?: ProductMatchEntry[]
+}
+
+export interface IngredientMatch {
+  canonicalId: string | null
+  fineliId: number | null
+  /** Overall confidence that the nutrition source represents the ingredient (0..1). */
+  confidence: number
+  method: MatchMethod
+  /** Normalized key used for user mapping overrides. */
+  key: string
+  /** Human-readable Finnish explanation for the UI. */
+  explanation: string
+}
+
+/** Words describing a physical form; in "X-raaste" the ingredient is X, not the form. */
+const FORM_WORDS = new Set([
+  'raaste', 'rouhe', 'murska', 'suikale', 'kuutio', 'pala', 'viipale', 'siivu', 'lohko', 'hiutale', 'lastu',
+  'pyree', 'sose', 'silppu', 'rengas', 'paloja', 'nauha', 'jauhe', 'filee', 'fileepala', 'pihvi', 'kuori',
+])
+
+const MAX_COMBOS = 400
+
+let aliasIndex: Map<string, CanonicalIngredient> | null = null
+
+function getAliasIndex(): Map<string, CanonicalIngredient> {
+  if (aliasIndex) return aliasIndex
+  aliasIndex = new Map()
+  for (const ing of INGREDIENTS) {
+    for (const alias of [ing.fi, ...ing.aliases]) {
+      const key = tokenize(alias.toLowerCase()).join(' ')
+      if (!key) continue
+      // first definition wins – list more specific ingredients first in the dictionary
+      if (!aliasIndex.has(key)) aliasIndex.set(key, ing)
+      const joined = key.replace(/ /g, '')
+      if (joined !== key && !aliasIndex.has(joined)) aliasIndex.set(joined, ing)
+    }
+  }
+  return aliasIndex
+}
+
+function* combinations(lists: string[][]): Generator<string[]> {
+  if (lists.length === 0) {
+    yield []
+    return
+  }
+  const [first, ...rest] = lists
+  for (const head of first) {
+    for (const tail of combinations(rest)) yield [head, ...tail]
+  }
+}
+
+function lookupPhrase(tokenCands: string[][]): CanonicalIngredient | null {
+  const index = getAliasIndex()
+  let n = 0
+  for (const combo of combinations(tokenCands)) {
+    if (++n > MAX_COMBOS) break
+    const spaced = combo.join(' ')
+    const hit = index.get(spaced) ?? (combo.length > 1 ? index.get(combo.join('')) : undefined)
+    if (hit) return hit
+  }
+  return null
+}
+
+function blockedByPrefix(ing: CanonicalIngredient, prefix: string): boolean {
+  return (ing.notWithPrefixes ?? []).some((p) => prefix.endsWith(p) || prefix.startsWith(p))
+}
+
+/** Try to match the head of a Finnish compound word ("kirsikkatomaatti" -> "tomaatti"). */
+function matchCompound(word: string): { ing: CanonicalIngredient; via: string; formOf?: string } | null {
+  const index = getAliasIndex()
+  for (const cand of lemmaCandidates(word)) {
+    for (let i = 2; i <= cand.length - 3; i++) {
+      const suffix = cand.slice(i)
+      const hit = index.get(suffix)
+      if (!hit) continue
+      const prefix = cand.slice(0, i)
+      if (FORM_WORDS.has(suffix)) {
+        // "kesäkurpitsaraaste": the prefix is the actual ingredient
+        for (const p of new Set([prefix, prefix.replace(/n$/u, ''), ...lemmaCandidates(prefix)])) {
+          const pre = index.get(p)
+          if (pre) return { ing: pre, via: p, formOf: suffix }
+        }
+      }
+      if (blockedByPrefix(hit, prefix)) continue
+      return { ing: hit, via: suffix }
+    }
+  }
+  return null
+}
+
+// --- Fineli name search ------------------------------------------------------------------------
+
+interface FineliNameEntry {
+  food: FineliFood
+  first: string
+  segments: string[]
+}
+const fineliIndexCache = new WeakMap<FineliLookup, FineliNameEntry[]>()
+
+function fineliEntries(lookup: FineliLookup): FineliNameEntry[] {
+  let entries = fineliIndexCache.get(lookup)
+  if (!entries) {
+    entries = lookup.all().map((food) => {
+      const segments = food.fi.toLowerCase().split(',').map((s) => s.trim()).filter(Boolean)
+      return { food, first: segments[0] ?? '', segments }
+    })
+    fineliIndexCache.set(lookup, entries)
+  }
+  return entries
+}
+
+/** Search Fineli foods for an ingredient name. Returns the best food and a score (0..0.55). */
+export function searchFineli(
+  lookup: FineliLookup,
+  name: string,
+): { food: FineliFood; score: number } | null {
+  const tokens = tokenize(name)
+  if (tokens.length === 0) return null
+  const head = tokens[tokens.length - 1]
+  const headCands = lemmaCandidates(head).filter((c) => c.length >= 4)
+  const otherCands = new Set(tokens.slice(0, -1).flatMap((t) => lemmaCandidates(t)).filter((c) => c.length >= 4))
+  let best: { food: FineliFood; score: number } | null = null
+  for (const e of fineliEntries(lookup)) {
+    let score = 0
+    if (headCands.includes(e.first)) score = 0.55
+    else if (e.segments.slice(1).some((s) => headCands.includes(s))) score = 0.5
+    else if (headCands.some((c) => e.segments.some((s) => s.split(' ').includes(c)))) score = 0.45
+    if (score === 0) continue
+    if ([...otherCands].some((c) => e.food.fi.toLowerCase().includes(c))) score += 0.03
+    if (e.food.type !== 'FOOD') score -= 0.05
+    if (e.food.process === 'RAW' || e.food.process === 'IND') score += 0.01
+    // shorter names are more generic ("Tomaatti" over "Tomaatti, aurinkokuivattu, öljyssä")
+    score -= Math.min(0.04, e.segments.length * 0.01)
+    if (!best || score > best.score) best = { food: e.food, score }
+  }
+  return best && best.score >= 0.4 ? { food: best.food, score: Math.min(0.55, best.score) } : null
+}
+
+// --- Public API -------------------------------------------------------------------------------
+
+function round2(n: number): number {
+  return Math.round(n * 100) / 100
+}
+
+function result(
+  ing: CanonicalIngredient,
+  matchConfidence: number,
+  method: MatchMethod,
+  key: string,
+  how: string,
+): IngredientMatch {
+  const confidence = ing.fineliId === null ? 0 : round2(matchConfidence * ing.fineliConfidence)
+  const approx = ing.approximationNote ? ` ${ing.approximationNote}` : ''
+  return {
+    canonicalId: ing.id,
+    fineliId: ing.fineliId,
+    confidence,
+    method,
+    key,
+    explanation: `${how} → ${ing.fi}.${approx}`,
+  }
+}
+
+let productIndex: { re: RegExp; name: string; ing: CanonicalIngredient }[] | null = null
+
+/** Brand/product-line names that identify an ingredient ("Apetina" -> feta), searched in the raw line. */
+function findProductName(raw: string): { name: string; ing: CanonicalIngredient } | null {
+  if (!productIndex) {
+    productIndex = INGREDIENTS.flatMap((ing) =>
+      (ing.productNames ?? []).map((name) => ({
+        name,
+        ing,
+        re: new RegExp(`(^|[^\\p{L}])${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?![\\p{L}])`, 'iu'),
+      })),
+    )
+  }
+  const hit = productIndex.find((p) => p.re.test(raw))
+  return hit ? { name: hit.name, ing: hit.ing } : null
+}
+
+/**
+ * @param name cleaned or raw ingredient name
+ * @param raw  the original line, used to recognize product names that are stripped as brands
+ */
+export function matchIngredient(name: string, ctx: MatchContext = {}, raw?: string): IngredientMatch {
+  const auto = matchIngredientAuto(name, ctx)
+  if (auto.method === 'user') return auto
+  // The user's own products come before the built-in dictionary.
+  const own = ctx.products?.length ? findProduct(ctx.products, name, raw) : null
+  if (own) {
+    return {
+      canonicalId: own.canonicalId,
+      fineliId: own.foodId,
+      confidence: 1,
+      method: 'product',
+      key: auto.key,
+      explanation: `Oma tuote → ${own.name}.`,
+    }
+  }
+  if (auto.method === 'exact' || !raw) return auto
+  const product = findProductName(raw)
+  if (!product || product.ing.id === auto.canonicalId) return auto
+  return result(product.ing, 0.9, 'alias', auto.key, `Tuotenimi "${product.name}"`)
+}
+
+function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
+  const cleaned = cleanIngredientName(name).name
+  const key = normalizeKey(name)
+
+  const user = ctx.userMappings?.get(key)
+  if (user && (user.canonicalId || user.fineliId)) {
+    const ing = getIngredient(user.canonicalId)
+    const fineliId = user.fineliId ?? ing?.fineliId ?? null
+    const food = fineliId !== null ? ctx.fineli?.get(fineliId) : undefined
+    return {
+      canonicalId: ing?.id ?? null,
+      fineliId,
+      confidence: fineliId !== null ? 1 : 0,
+      method: 'user',
+      key,
+      explanation: `Käyttäjän valitsema vastaavuus → ${food?.fi ?? ing?.fi ?? 'tuntematon'}.`,
+    }
+  }
+
+  const tokens = tokenize(cleaned)
+  if (tokens.length === 0) {
+    return { canonicalId: null, fineliId: null, confidence: 0, method: 'none', key, explanation: 'Ainesosan nimeä ei tunnistettu.' }
+  }
+  const cands = tokens.map((t) => lemmaCandidates(t))
+  const n = tokens.length
+
+  // 1–2. windows ending at the head word (last token), longest first
+  for (let s = 0; s < n; s++) {
+    const hit = lookupPhrase(cands.slice(s))
+    if (!hit) continue
+    if (s === 0) return result(hit, 1, 'exact', key, `Tunnistettu nimi "${cleaned}"`)
+    const dropped = tokens.slice(0, s)
+    const neutral = dropped.every((w) => NEUTRAL_MODIFIERS.has(w))
+    return result(
+      hit,
+      neutral ? 0.95 : 0.85,
+      neutral ? 'alias' : 'modifier-dropped',
+      key,
+      `Tunnistettu "${tokens.slice(s).join(' ')}" (ohitettu: ${dropped.join(' ')})`,
+    )
+  }
+
+  // 3. compound head of the head word ("kirsikkatomaatti" -> tomaatti)
+  const compoundResult = (t: number) => {
+    const comp = matchCompound(tokens[t])
+    if (!comp) return null
+    const conf = (comp.formOf ? 0.85 : 0.8) - (n - 1 - t) * 0.1
+    const how = comp.formOf
+      ? `Yhdyssanan alkuosa "${comp.via}" (${comp.formOf})`
+      : `Yhdyssanan perusosa "${comp.via}" sanasta "${tokens[t]}"`
+    return result(comp.ing, conf, 'compound-head', key, how)
+  }
+  const headCompound = compoundResult(n - 1)
+  if (headCompound) return headCompound
+
+  // 3b. a window that does not end at the head word (trailing descriptor we did not strip)
+  for (let e = n - 2; e >= 0; e--) {
+    for (let s = 0; s <= e; s++) {
+      const hit = lookupPhrase(cands.slice(s, e + 1))
+      if (hit) return result(hit, 0.7, 'modifier-dropped', key, `Tunnistettu "${tokens.slice(s, e + 1).join(' ')}"`)
+    }
+  }
+
+  // 3c. compound heads of earlier words
+  for (let t = n - 2; t >= 0; t--) {
+    const r = compoundResult(t)
+    if (r) return r
+  }
+
+  // 4. direct Fineli search
+  if (ctx.fineli) {
+    const found = searchFineli(ctx.fineli, cleaned)
+    if (found) {
+      return {
+        canonicalId: null,
+        fineliId: found.food.id,
+        confidence: round2(found.score),
+        method: 'fineli-search',
+        key,
+        explanation: `Ei sanakirjassa; lähin Fineli-elintarvike nimen perusteella → ${found.food.fi}.`,
+      }
+    }
+  }
+
+  return {
+    canonicalId: null,
+    fineliId: null,
+    confidence: 0,
+    method: 'none',
+    key,
+    explanation: `Ainesosalle "${cleaned}" ei löytynyt vastinetta. Valitse vastaavuus käsin.`,
+  }
+}

@@ -1,0 +1,211 @@
+@import 'tailwindcss' source('../src');
+@import '@fontsource-variable/inter';
+@import '@fontsource-variable/fraunces';
+
+/* Semantic colour tokens – redefined for dark mode below. */
+:root {
+  --c-canvas: #f7f5f0;
+  --c-surface: #ffffff;
+  --c-surface-2: #f1eee7;
+  --c-ink: #1d2621;
+  --c-ink-2: #4b564f;
+  --c-muted: #7a837d;
+  --c-line: #e4e0d6;
+  --c-brand: #2f6b4f;
+  --c-brand-strong: #245640;
+  --c-brand-soft: #e3efe8;
+  --c-accent: #d9793b;
+  --c-accent-soft: #fbeadd;
+  --c-ok: #3b8a5f;
+  --c-warn: #c28a1b;
+  --c-warn-soft: #fbf1d9;
+  --c-bad: #bf4a3a;
+  --c-bad-soft: #f8e3df;
+  --c-protein: #2f6b4f;
+  --c-carb: #d9a13b;
+  --c-fat: #d9793b;
+  --c-fibre: #6b8f3a;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --c-canvas: #141816;
+    --c-surface: #1c211e;
+    --c-surface-2: #242a26;
+    --c-ink: #ecefe9;
+    --c-ink-2: #c3cabf;
+    --c-muted: #8e978f;
+    --c-line: #2f3631;
+    --c-brand: #6fbf95;
+    --c-brand-strong: #8fd3ad;
+    --c-brand-soft: #1f3329;
+    --c-accent: #eb9a62;
+    --c-accent-soft: #3a2a1e;
+    --c-ok: #6fbf95;
+    --c-warn: #e2b451;
+    --c-warn-soft: #3a3120;
+    --c-bad: #e5806f;
+    --c-bad-soft: #3d2420;
+    --c-protein: #6fbf95;
+    --c-carb: #e2b451;
+    --c-fat: #eb9a62;
+    --c-fibre: #a7c96b;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --c-canvas: #141816;
+  --c-surface: #1c211e;
+  --c-surface-2: #242a26;
+  --c-ink: #ecefe9;
+  --c-ink-2: #c3cabf;
+  --c-muted: #8e978f;
+  --c-line: #2f3631;
+  --c-brand: #6fbf95;
+  --c-brand-strong: #8fd3ad;
+  --c-brand-soft: #1f3329;
+  --c-accent: #eb9a62;
+  --c-accent-soft: #3a2a1e;
+  --c-ok: #6fbf95;
+  --c-warn: #e2b451;
+  --c-warn-soft: #3a3120;
+  --c-bad: #e5806f;
+  --c-bad-soft: #3d2420;
+  --c-protein: #6fbf95;
+  --c-carb: #e2b451;
+  --c-fat: #eb9a62;
+  --c-fibre: #a7c96b;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
+  --color-canvas: var(--c-canvas);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-ink: var(--c-ink);
+  --color-ink-2: var(--c-ink-2);
+  --color-muted: var(--c-muted);
+  --color-line: var(--c-line);
+  --color-brand: var(--c-brand);
+  --color-brand-strong: var(--c-brand-strong);
+  --color-brand-soft: var(--c-brand-soft);
+  --color-accent: var(--c-accent);
+  --color-accent-soft: var(--c-accent-soft);
+  --color-ok: var(--c-ok);
+  --color-warn: var(--c-warn);
+  --color-warn-soft: var(--c-warn-soft);
+  --color-bad: var(--c-bad);
+  --color-bad-soft: var(--c-bad-soft);
+  --color-protein: var(--c-protein);
+  --color-carb: var(--c-carb);
+  --color-fat: var(--c-fat);
+  --color-fibre: var(--c-fibre);
+}
+
+html,
+body {
+  background: var(--c-canvas);
+  color: var(--c-ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: 'cv11', 'ss01';
+}
+
+.font-display {
+  font-variation-settings: 'opsz' 96, 'SOFT' 50;
+  letter-spacing: -0.01em;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Visible keyboard focus everywhere */
+:focus-visible {
+  outline: 2px solid var(--c-brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+dialog::backdrop {
+  background: rgb(10 14 12 / 0.45);
+  backdrop-filter: blur(2px);
+}
+
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* Installed on an iPhone home screen the app runs edge to edge (viewport-fit=cover):
+   keep the header clear of the status bar / Dynamic Island and content clear of rounded corners. */
+.safe-top {
+  padding-top: max(0.75rem, env(safe-area-inset-top));
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+}
+.safe-x {
+  padding-left: max(1rem, env(safe-area-inset-left));
+  padding-right: max(1rem, env(safe-area-inset-right));
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .fade-in {
+    animation: fade-in 180ms ease-out;
+  }
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+  }
+}
+
+/* Print: recipes, weekly menu and shopping list print without app chrome. */
+@media print {
+  :root {
+    --c-canvas: #ffffff;
+    --c-surface: #ffffff;
+    --c-surface-2: #f4f4f4;
+    --c-ink: #000000;
+    --c-ink-2: #222222;
+    --c-muted: #555555;
+    --c-line: #cccccc;
+    color-scheme: light;
+  }
+  .no-print,
+  nav,
+  aside,
+  header.sticky {
+    display: none !important;
+  }
+  main {
+    padding: 0 !important;
+  }
+  .fade-in {
+    animation: none !important;
+  }
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+  section,
+  article,
+  li {
+    break-inside: avoid;
+  }
+  .overflow-x-auto {
+    overflow: visible !important;
+  }
+  .min-w-\[980px\] {
+    min-width: 0 !important;
+  }
+}

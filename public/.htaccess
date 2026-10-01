@@ -1,0 +1,54 @@
+# Ateriasuunnittelija – Apache configuration for static hosting (copied into dist/ on build).
+# Mirrors the protections of server/static.ts. Requires mod_rewrite and mod_headers (standard on most hosts).
+
+Options -Indexes
+DirectoryIndex index.html
+
+# --- Single-page app: unknown paths (e.g. /reseptit/abc) load index.html --------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Optional: force HTTPS (offline mode / install as app need it). Uncomment if your host doesn't do it.
+  # RewriteCond %{HTTPS} !=on
+  # RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# --- Never serve dotfiles (.env, .git …) other than this file's own processing ---------------------
+<FilesMatch "^\.">
+  Require all denied
+</FilesMatch>
+
+# --- Correct types for app files -----------------------------------------------------------------
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+  AddType text/javascript .js
+  AddType font/woff2 .woff2
+</IfModule>
+
+# --- Security headers ----------------------------------------------------------------------------
+<IfModule mod_headers.c>
+  # Scripts, styles, fonts and data only from this site; recipe/product images from any https site.
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data: blob:; font-src 'self'; connect-src 'self'; worker-src 'self'; manifest-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'"
+  # The service worker caches recipe images for offline use, so only it may fetch other https sites.
+  <FilesMatch "^(sw\.js|workbox-[\w-]+\.js)$">
+    Header always set Content-Security-Policy "default-src 'self'; connect-src 'self' https:; img-src 'self' https: data: blob:; object-src 'none'"
+  </FilesMatch>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "DENY"
+  Header always set Referrer-Policy "no-referrer"
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+
+  # --- Caching: hashed build files forever, everything else revalidated --------------------------
+  <FilesMatch "\.(js|css|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <FilesMatch "^(index\.html|sw\.js|registerSW\.js|manifest\.webmanifest)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+  <FilesMatch "\.json$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>
