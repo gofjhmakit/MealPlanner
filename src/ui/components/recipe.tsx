@@ -73,8 +73,8 @@ export function RecipeImage({
   )
 }
 
-export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourceName'> }) {
-  if (recipe.origin === 'catalogue') return <Badge tone="brand">Fineli</Badge>
+export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourceName' | 'sourceId'> }) {
+  if (recipe.origin === 'catalogue') return <Badge tone="brand">{recipe.sourceId === 'fineli' ? 'Fineli' : (recipe.sourceName ?? 'Katalogi')}</Badge>
   if (recipe.origin === 'imported') return <Badge tone="accent">{recipe.sourceName ?? 'Tuotu'}</Badge>
   if (recipe.origin === 'seed') return <Badge>Esimerkki</Badge>
   return <Badge>Oma</Badge>

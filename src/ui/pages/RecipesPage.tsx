@@ -26,6 +26,7 @@ export function RecipesPage() {
   const { fineli, settings, nutritionCache, dataVersion } = useApp()
   const [params, setParams] = useSearchParams()
   const tab = (params.get('tab') as Tab) || 'omat'
+  const sourceFilter = params.get('lahde') ?? ''
   const [filters, setFilters] = useState<RecipeFilters>({ ...EMPTY_FILTERS, query: params.get('q') ?? '' })
   const [sort, setSort] = useState<Sort>('name')
   const [limit, setLimit] = useState(PAGE)
@@ -44,6 +45,13 @@ export function RecipesPage() {
     setParams(next, { replace: true })
     setLimit(PAGE)
   }
+  const setSourceFilter = (s: string) => {
+    const next = new URLSearchParams(params)
+    if (s) next.set('lahde', s)
+    else next.delete('lahde')
+    setParams(next, { replace: true })
+    setLimit(PAGE)
+  }
   const toggle = (key: keyof RecipeFilters) => setFilters((f) => ({ ...f, [key]: !f[key] }))
 
   // eslint-disable-next-line react-hooks/exhaustive-deps -- dataVersion invalidates nutrition-based filters
@@ -58,10 +66,22 @@ export function RecipesPage() {
     }
   }, [recipes, favourites])
 
+  /** Catalogue sources with recipe counts, for the source filter. */
+  const catalogueSources = useMemo(() => {
+    const bySource = new Map<string, { name: string; count: number }>()
+    for (const r of recipes ?? []) {
+      if (r.origin !== 'catalogue' || !r.sourceId) continue
+      const e = bySource.get(r.sourceId) ?? { name: r.sourceId === 'fineli' ? 'Fineli-ruokalajit (ei ohjeita)' : (r.sourceName ?? r.sourceId), count: 0 }
+      e.count++
+      bySource.set(r.sourceId, e)
+    }
+    return [...bySource.entries()].sort((a, b) => (a[0] === 'fineli' ? 1 : b[0] === 'fineli' ? -1 : b[1].count - a[1].count))
+  }, [recipes])
+
   const results = useMemo(() => {
     if (!recipes) return []
     const base = recipes.filter((r: Recipe) =>
-      tab === 'omat' ? r.inCollection : tab === 'suosikit' ? favourites.has(r.id) : r.origin === 'catalogue',
+      tab === 'omat' ? r.inCollection : tab === 'suosikit' ? favourites.has(r.id) : r.origin === 'catalogue' && (!sourceFilter || r.sourceId === sourceFilter),
     )
     const filtered = filterRecipes(base, filters, ctx)
     const kcal = (r: Recipe) => recipeNutritionCached(r, ctx).perServing.energyKcal
@@ -74,7 +94,7 @@ export function RecipesPage() {
             ? (b.rating ?? 0) - (a.rating ?? 0) || a.title.localeCompare(b.title, 'fi')
             : a.title.localeCompare(b.title, 'fi'),
     )
-  }, [recipes, tab, favourites, filters, ctx, sort])
+  }, [recipes, tab, favourites, filters, ctx, sort, sourceFilter])
 
   const showKcal = tab !== 'katalogi' || filters.lowCalorie || filters.highProtein || sort === 'kcal'
 
@@ -82,7 +102,7 @@ export function RecipesPage() {
     <div className="fade-in">
       <PageHeader
         title="Reseptit"
-        subtitle="Omat reseptisi, suosikit ja Finelin ruokalajikatalogi."
+        subtitle="Omat reseptisi, suosikit sekä katalogi: avoimesti lisensoituja reseptikokoelmia suomennettuina ja Finelin ruokalajit."
         actions={
           <>
             <Link to="/tuotteet">
@@ -103,7 +123,7 @@ export function RecipesPage() {
           [
             ['omat', 'Omat reseptit'],
             ['suosikit', 'Suosikit'],
-            ['katalogi', 'Katalogi (Fineli)'],
+            ['katalogi', 'Katalogi'],
           ] as [Tab, string][]
         ).map(([t, label]) => (
           <button
@@ -130,6 +150,14 @@ export function RecipesPage() {
             aria-label="Hae reseptejä"
           />
         </div>
+        {tab === 'katalogi' && catalogueSources.length > 1 && (
+          <Select value={sourceFilter} onChange={(e) => setSourceFilter(e.target.value)} aria-label="Lähde" className="max-w-full">
+            <option value="">Kaikki lähteet</option>
+            {catalogueSources.map(([id, s]) => (
+              <option key={id} value={id}>{s.name} ({s.count})</option>
+            ))}
+          </Select>
+        )}
         <Select value={sort} onChange={(e) => setSort(e.target.value as Sort)} aria-label="Järjestys">
           <option value="name">Nimi A–Ö</option>
           <option value="newest">Uusimmat</option>

@@ -1,0 +1,645 @@
+[
+  {
+    "id": "kg-japanese-kake-udon-clear-broth",
+    "title": "Kake udon – udon-nuudelit kirkkaassa liemessä",
+    "description": "Pelkistetty japanilainen udon-keitto.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "nopea", "nuudelit"],
+    "ingredients": [
+      "6 dl mentsuyu-lientä vedellä laimennettuna",
+      "400 g pakasteudon-nuudeleita",
+      "2 kevätsipulia, viipaloituna",
+      "shichimi togarashi -maustetta",
+      "2 rkl raastettua daikon-retiisiä"
+    ],
+    "instructions": [
+      "Kuumenna mentsuyu-liemi.",
+      "Kypsennä udon-nuudeleita kiehuvassa vedessä 2 minuuttia ja valuta.",
+      "Jaa nuudelit kulhoihin.",
+      "Kaada kuuma liemi päälle.",
+      "Viimeistele kevätsipulilla, shichimillä ja raastetulla daikonilla."
+    ]
+  },
+  {
+    "id": "kg-japanese-kitsune-udon",
+    "title": "Kitsune udon – udon-keitto friteeratulla tofulla",
+    "description": "\"Ketun udon\" makeaksi maustetun friteeratun tofun kanssa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "tofu", "nuudelit"],
+    "ingredients": [
+      "6 dl dashilientä",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "2 maustettua aburaage-tofutaskua",
+      "400 g pakasteudon-nuudeleita",
+      "2 kevätsipulia, viipaloituna",
+      "shichimi togarashi -maustetta"
+    ],
+    "instructions": [
+      "Hauduta aburaagea dashissa, soijakastikkeessa ja mirinissä 5 minuuttia.",
+      "Kypsennä udon-nuudelit kiehuvassa vedessä ja valuta.",
+      "Jaa nuudelit kulhoihin.",
+      "Kaada päälle kuuma liemi ja tofu.",
+      "Viimeistele kevätsipulilla ja shichimillä."
+    ],
+    "notes": ["Kasvisversioon käytä kombu-dashia."]
+  },
+  {
+    "id": "kg-japanese-mazesoba",
+    "title": "Mazesoba – liemettömät ramen-nuudelit",
+    "description": "Japanilaiset sekoitettavat nuudelit porsaanjauhelihalla ja täytteillä.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "japanilainen", "nuudelit"],
+    "ingredients": [
+      "200 g tuoreita ramen-nuudeleita",
+      "150 g porsaan jauhelihaa",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "2 pehmeäksi keitettyä kananmunaa",
+      "50 g menma-bambunversoja",
+      "1 nori-levy, suikaleina",
+      "2 kevätsipulia, viipaloituna",
+      "1 tl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja valuta hyvin.",
+      "Ruskista jauheliha ja lisää soijakastike ja mirin.",
+      "Jaa nuudelit kulhoihin ja lusikoi pohjalle vähän paistoliemestä.",
+      "Lisää päälle liha, puolitettu kananmuna, menma, nori, kevätsipuli ja seesaminsiemenet.",
+      "Sekoita pöydässä ennen syömistä."
+    ]
+  },
+  {
+    "id": "kg-japanese-miso-soup-with-tofu-and-wakame",
+    "title": "Misokeitto tofulla ja wakamella",
+    "description": "Japanilainen arkinen misokeitto.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "tofu", "nopea"],
+    "ingredients": [
+      "8 dl dashilientä",
+      "2 rkl kuivattua wakame-merilevää",
+      "3 rkl vaaleaa misotahnaa",
+      "200 g silkkitofua, kuutioituna",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Kuumenna dashi juuri kiehumispisteen alapuolelle.",
+      "Liota wakamea lämpimässä vedessä.",
+      "Liuota miso kauhalliseen dashia ja sekoita kattilaan.",
+      "Lisää tofu ja wakame ja lämmitä varovasti keittämättä.",
+      "Tarjoile kevätsipulin kanssa."
+    ],
+    "notes": ["Kasvisversioon käytä kombu-dashia."]
+  },
+  {
+    "id": "kg-japanese-nasu-dengaku-miso-eggplant",
+    "title": "Nasu dengaku – misolasitettu munakoiso",
+    "description": "Makealla misolla lasitettu, uunissa gratinoitu munakoiso.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "japanilainen", "lisuke"],
+    "ingredients": [
+      "2 munakoisoa, puolitettuna",
+      "1 rkl rypsiöljyä",
+      "2 rkl vaaleaa misotahnaa",
+      "1 rkl miriniä",
+      "1 rkl sokeria",
+      "1 rkl seesamiöljyä",
+      "1 tl paahdettuja seesaminsiemeniä",
+      "1 kevätsipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Viillä munakoisojen leikkuupintaan ristikko ja paista öljyssä pannulla pehmeiksi.",
+      "Vatkaa miso, mirin ja sokeri.",
+      "Levitä lasite munakoisoille ja grillaa uunin grillivastuksen alla 3 minuuttia.",
+      "Valuta päälle seesamiöljy.",
+      "Viimeistele seesaminsiemenillä ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-japanese-ozoni-new-year-mochi-soup",
+    "title": "Ozoni – japanilainen uudenvuoden mochikeitto",
+    "description": "Juhlava kirkas keitto riisikakuilla, kanalla ja juureksilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["kana", "japanilainen", "keitto", "juhla"],
+    "ingredients": [
+      "8 dl dashilientä",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "150 g broilerin reisifileetä, viipaloituna",
+      "1 porkkana, viipaloituna",
+      "100 g daikon-retiisiä, viipaloituna",
+      "4 kirimochi-riisikakkua",
+      "50 g pinaattia",
+      "yuzun tai sitruunan raastettua kuorta"
+    ],
+    "instructions": [
+      "Hauduta dashia soijakastikkeen ja mirinin kanssa.",
+      "Kypsennä kana ja juurekset liemessä.",
+      "Grillaa tai paahda mochit, kunnes ne pullistuvat.",
+      "Laita mochit kulhoihin. Ryöppää pinaatti hetki liemessä.",
+      "Kaada keitto kasviksineen päälle ja viimeistele yuzunkuorella."
+    ]
+  },
+  {
+    "id": "kg-japanese-ponzu-sauce",
+    "title": "Ponzu-kastike",
+    "description": "Raikas sitrus-soijakastike.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kala", "japanilainen"],
+    "ingredients": [
+      "4 rkl soijakastiketta",
+      "4 rkl yuzu- tai sitruunamehua",
+      "2 rkl miriniä",
+      "1 rkl riisiviinietikkaa",
+      "1 kombu-levän pala",
+      "1 rkl bonitohiutaleita"
+    ],
+    "instructions": [
+      "Lämmitä soijakastike, sitrusmehu, mirin ja etikka.",
+      "Lisää kombu ja bonitohiutaleet ja anna hautua 10 minuuttia.",
+      "Siivilöi ja jäähdytä.",
+      "Pullota ja säilytä jääkaapissa.",
+      "Käytä viikon kuluessa."
+    ]
+  },
+  {
+    "id": "kg-japanese-potato-salad-light",
+    "title": "Kevyt japanilainen perunasalaatti",
+    "description": "Kermainen japanilaistyylinen perunasalaatti kurkulla ja porkkanalla.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kasvis", "japanilainen", "peruna", "salaatti"],
+    "ingredients": [
+      "500 g jauhoisia perunoita",
+      "1 porkkana, kuutioituna",
+      "½ kurkku, ohuina viipaleina",
+      "suolaa",
+      "3 rkl japanilaista majoneesia",
+      "1 rkl riisiviinietikkaa",
+      "1 tl sinappia",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Keitä perunat kypsiksi ja kuutioi lämpiminä.",
+      "Ryöppää porkkanaa hetki.",
+      "Suolaa kurkku ja purista neste pois.",
+      "Sekoita majoneesi, etikka ja sinappi.",
+      "Kääntele kasvikset kastikkeeseen ja mausta suolalla ja valkopippurilla."
+    ]
+  },
+  {
+    "id": "kg-japanese-salmon-shioyaki",
+    "title": "Shioyaki – suolagrillattu lohi",
+    "description": "Yksinkertainen japanilainen suolalla maustettu grillilohi.",
+    "servings": 2,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kala", "japanilainen", "gluteeniton"],
+    "ingredients": [
+      "2 lohifileetä",
+      "1 tl suolaa",
+      "4 rkl raastettua daikon-retiisiä",
+      "1 sitruuna, lohkoina",
+      "Tarjoiluun:",
+      "2 dl riisiä, keitettynä",
+      "misokeittoa (valinnainen)"
+    ],
+    "instructions": [
+      "Suolaa lohi reilusti ja anna seistä 20 minuuttia.",
+      "Kuivaa talouspaperilla ja grillaa tai paista pannulla nahkapuoli alaspäin.",
+      "Kypsennä, kunnes kala on keskeltä juuri kypsää.",
+      "Tarjoile raastetun daikonin ja sitruunan kanssa.",
+      "Nauti riisin ja halutessasi misokeiton kanssa."
+    ]
+  },
+  {
+    "id": "kg-japanese-sunomono-cucumber-salad",
+    "title": "Sunomono – japanilainen kurkkusalaatti",
+    "description": "Kevyt makeahko etikkakurkkusalaatti wakamella.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "japanilainen", "salaatti", "nopea"],
+    "ingredients": [
+      "1 kurkku, ohuina viipaleina",
+      "1 tl suolaa",
+      "1 rkl kuivattua wakame-merilevää",
+      "3 rkl riisiviinietikkaa",
+      "1 rkl sokeria",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Suolaa kurkku, anna seistä 10 minuuttia ja purista kuivaksi.",
+      "Liota wakamea lämpimässä vedessä ja valuta.",
+      "Liuota sokeri etikkaan.",
+      "Sekoita kurkku ja wakame etikkaliemeen.",
+      "Jäähdytä ja koristele seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-japanese-tsukemono-quick-pickles",
+    "title": "Tsukemono – japanilaiset pikapikkelsit",
+    "description": "Raikkaat arkiset pikapikkelsit suun raikastamiseen.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "japanilainen", "lisuke"],
+    "ingredients": [
+      "1 kurkku, viipaloituna",
+      "100 g daikon-retiisiä, viipaloituna",
+      "1 tl suolaa",
+      "2 rkl riisiviinietikkaa",
+      "1 tl sokeria",
+      "1 kombu-levän pala"
+    ],
+    "instructions": [
+      "Suolaa kasvikset, anna seistä 10 minuuttia ja purista.",
+      "Sekoita etikan, sokerin ja kombun kanssa.",
+      "Anna maustua 20 minuuttia.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "kg-japanese-wafu-dressing",
+    "title": "Wafu-kastike",
+    "description": "Klassinen japanilainen länsimaistyylinen yleissalaatinkastike.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "japanilainen"],
+    "ingredients": [
+      "1 rkl raastettua sipulia",
+      "3 rkl soijakastiketta",
+      "3 rkl rypsiöljyä",
+      "2 rkl riisiviinietikkaa",
+      "1 tl sokeria",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Raasta sipuli ja purista ylimääräinen neste pois.",
+      "Vatkaa soijakastike, öljy, etikka, sokeri ja sipuli.",
+      "Mausta valkopippurilla.",
+      "Anna maustua 15 minuuttia ennen käyttöä."
+    ]
+  },
+  {
+    "id": "kg-japanese-yuzu-kosho-dressing",
+    "title": "Yuzu kosho -kastike",
+    "description": "Sitruksinen ja chilinen japanilainen kastike, erinomainen äyriäissalaateille.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "japanilainen", "nopea"],
+    "ingredients": [
+      "1 tl yuzu kosho -tahnaa",
+      "2 rkl riisiviinietikkaa",
+      "1 rkl soijakastiketta",
+      "2 rkl oliiviöljyä",
+      "1 tl hunajaa"
+    ],
+    "instructions": [
+      "Vatkaa yuzu kosho, etikka ja soijakastike.",
+      "Lisää oliiviöljy ohuena nauhana.",
+      "Makeuta kevyesti hunajalla.",
+      "Käytä säästeliäästi – kastike on hyvin aromikas."
+    ]
+  },
+  {
+    "id": "kg-khichdi-with-moong-dal",
+    "title": "Khichdi – riisi-linssipuuro",
+    "description": "Lohdullinen intialainen yhden kattilan riisi-mung dal -ruoka.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "150 g halkaistuja mungpapuja (mung dal)",
+      "150 g basmatiriisiä",
+      "1 rkl kirkastettua voita (gheetä)",
+      "1 tl juustokuminaa (kokonaisena)",
+      "2 cm pala inkivääriä, raastettuna",
+      "½ tl kurkumaa",
+      "9 dl vettä",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Huuhtele riisi ja dal yhdessä.",
+      "Kuumenna ghee ja lisää juustokumina ja inkivääri.",
+      "Lisää riisi, dal, kurkuma, vesi ja suola.",
+      "Hauduta kannen alla miedolla lämmöllä 25 minuuttia, kunnes seos on pehmeää ja puuromaista.",
+      "Anna levätä 5 minuuttia, sekoita ja koristele korianterilla."
+    ]
+  },
+  {
+    "id": "kg-kimchi-jjigae",
+    "title": "Kimchi jjigae – kimchipata",
+    "description": "Lämmittävä ja tulinen korealainen kimchi-porsaankylkipata tofulla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["liha", "korealainen", "keitto", "tofu"],
+    "ingredients": [
+      "150 g porsaan kylkeä, viipaloituna",
+      "5 dl kypsynyttä kimchiä, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "5 dl vettä tai anjovislientä",
+      "1 rkl gochugarua (korealaista chilijauhetta)",
+      "200 g kiinteää tofua, kuutioituna",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Paista porsasta, kimchiä ja valkosipulia 5 minuuttia.",
+      "Lisää liemi ja gochugaru ja hauduta 15 minuuttia.",
+      "Lisää tofukuutiot.",
+      "Hauduta vielä 5 minuuttia.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-kimchi-udon-stir-fry",
+    "title": "Kimchi-udonwokki",
+    "description": "Kirpeän tulinen paistettu udon kimchillä.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["korealainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "400 g udon-nuudeleita",
+      "2 rkl rypsiöljyä",
+      "150 g kimchiä, pilkottuna",
+      "2 rkl kimchin lientä",
+      "1 rkl gochujangia (korealaista chilitahnaa)",
+      "1 rkl soijakastiketta",
+      "1 tl seesamiöljyä",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Kypsennä udon hetki kiehuvassa vedessä ja valuta.",
+      "Paista kimchiä öljyssä 2 minuuttia.",
+      "Lisää udon, kimchin liemi, gochujang ja soijakastike.",
+      "Sekoittele kovalla lämmöllä 3 minuuttia.",
+      "Viimeistele seesamiöljyllä ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-korean-bean-sprout-salad-kongnamul-muchim",
+    "title": "Kongnamul muchim – korealainen soijanitusalaatti",
+    "description": "Arkinen korealainen banchan-lisuke soijapavun iduista.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "korealainen", "nopea", "lisuke"],
+    "ingredients": [
+      "400 g soijapavun ituja",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl soijakastiketta",
+      "1 tl seesamiöljyä",
+      "1 tl gochugarua (korealaista chilijauhetta)",
+      "1 kevätsipuli, viipaloituna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Ryöppää ituja 3 minuuttia ja valuta hyvin.",
+      "Sekoita valkosipuli, soijakastike, seesamiöljy ja gochugaru.",
+      "Sekoita lämpimät idut mausteseokseen.",
+      "Viimeistele kevätsipulilla ja seesaminsiemenillä.",
+      "Tarjoile lämpimänä tai kylmänä."
+    ]
+  },
+  {
+    "id": "kg-korean-bibim-guksu",
+    "title": "Bibim guksu – korealaiset kylmät sekanuudelit",
+    "description": "Tuliset kylmät somen-nuudelit gochujang-kastikkeessa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "korealainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "200 g somen-nuudeleita",
+      "2 rkl gochujangia (korealaista chilitahnaa)",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 tl sokeria",
+      "½ kurkku, suikaloituna",
+      "1 dl kimchiä",
+      "2 pehmeäksi keitettyä kananmunaa",
+      "1 tl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja huuhtele kylmällä vedellä.",
+      "Vatkaa gochujang, etikka, seesamiöljy ja sokeri.",
+      "Sekoita nuudelit kastikkeeseen.",
+      "Lisää päälle kurkku, kimchi ja puolitettu kananmuna.",
+      "Ripottele pinnalle seesaminsiemenet."
+    ],
+    "notes": ["Kimchissä on usein kalakastiketta; valitse kasvis-kimchi tarvittaessa."]
+  },
+  {
+    "id": "kg-korean-bibimbap",
+    "title": "Bibimbap",
+    "description": "Värikäs korealainen riisikulho kasviksilla, naudanlihalla ja paistetulla kananmunalla.",
+    "servings": 2,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "riisi", "kulho"],
+    "ingredients": [
+      "150 g pinaattia",
+      "1 porkkana, suikaloituna",
+      "100 g idättämiä (mungpavun ituja)",
+      "2 rkl seesamiöljyä",
+      "suolaa",
+      "150 g naudan sisäpaistia, ohuina viipaleina",
+      "2 rkl soijakastiketta",
+      "2 kananmunaa",
+      "300 g keitettyä riisiä",
+      "2 rkl gochujangia (korealaista chilitahnaa)"
+    ],
+    "instructions": [
+      "Ryöppää kasvikset kukin erikseen ja mausta tilkalla seesamiöljyä ja suolaa.",
+      "Paista liha soijakastikkeen kanssa.",
+      "Paista kananmunat pannulla (keltuainen ylöspäin).",
+      "Asettele riisin päälle kasvikset ja liha ja nosta muna päällimmäiseksi.",
+      "Tarjoile gochujangin ja seesamiöljyn kanssa."
+    ],
+    "notes": ["Alkuperäisessä 1 kananmuna kahdelle; ohjeessa yksi kummallekin."]
+  },
+  {
+    "id": "kg-korean-cucumber-salad-oi-muchim",
+    "title": "Oi muchim – tulinen korealainen kurkkusalaatti",
+    "description": "Tulinen kurkku-banchan.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "korealainen", "salaatti", "lisuke"],
+    "ingredients": [
+      "1 kurkku (tai 3 minikurkkua), viipaloituna",
+      "½ tl suolaa",
+      "2 rkl gochugarua (korealaista chilijauhetta)",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 tl sokeria",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Suolaa kurkut kevyesti, anna seistä 10 minuuttia ja valuta.",
+      "Sekoita gochugaru, etikka, seesamiöljy, sokeri ja valkosipuli.",
+      "Sekoita kurkut kastikkeeseen.",
+      "Jäähdytä 15 minuuttia.",
+      "Ripottele pinnalle seesaminsiemenet ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-korean-dak-galbi",
+    "title": "Dak galbi – tulinen korealainen kanapannu",
+    "description": "Tulisessa gochujang-marinadissa paistettu kana kaalin, bataatin ja riisikakkujen kanssa.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "korealainen", "arkiruoka"],
+    "ingredients": [
+      "400 g broilerin reisifileitä (luuttomia), paloiteltuna",
+      "2 rkl gochujangia (korealaista chilitahnaa)",
+      "1 rkl gochugarua (korealaista chilijauhetta)",
+      "1 rkl soijakastiketta",
+      "1 rkl sokeria",
+      "1 rkl rypsiöljyä",
+      "200 g valkokaalia, suikaloituna",
+      "1 pieni bataatti, viipaloituna",
+      "150 g tteok-riisikakkuja",
+      "perillanlehtiä tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Marinoi kana gochujangin, gochugarun, soijakastikkeen ja sokerin seoksessa.",
+      "Paista kanaa öljyssä kovalla lämmöllä.",
+      "Lisää kaali, bataatti ja riisikakut.",
+      "Kypsennä, kunnes kasvikset ovat pehmeitä.",
+      "Tarjoile halutessasi perillanlehtiin käärittynä."
+    ]
+  },
+  {
+    "id": "kg-korean-dubu-jorim-braised-tofu",
+    "title": "Dubu jorim – korealainen haudutettu tofu",
+    "description": "Tulisen makea soijakastikkeessa haudutettu tofu.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "korealainen", "tofu", "arkiruoka"],
+    "ingredients": [
+      "400 g kiinteää tofua, viipaloituna",
+      "1 rkl rypsiöljyä",
+      "3 rkl soijakastiketta",
+      "1 rkl gochugarua (korealaista chilijauhetta)",
+      "1 rkl vaahterasiirappia",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "½ sipulia, viipaloituna",
+      "1 dl vettä",
+      "1 kevätsipuli, viipaloituna",
+      "1 tl seesaminsiemeniä",
+      "Tarjoiluun:",
+      "2 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Paista tofu öljyssä kullanruskeaksi.",
+      "Lisää soijakastike, gochugaru, vaahterasiirappi, valkosipuli, sipuli ja vesi ja hauduta.",
+      "Keitä kokoon, kunnes kastike lasittaa tofun.",
+      "Viimeistele kevätsipulilla ja seesaminsiemenillä.",
+      "Tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-korean-gamja-jorim-braised-potatoes",
+    "title": "Gamja jorim – korealaiset soijaperunat",
+    "description": "Makeassa soijalasitteessa haudutetut pikkuperunat.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "korealainen", "peruna", "lisuke"],
+    "ingredients": [
+      "500 g pieniä perunoita, puolitettuna",
+      "3 rkl soijakastiketta",
+      "1 rkl vaahterasiirappia",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 dl vettä",
+      "1 rkl seesamiöljyä",
+      "1 tl paahdettuja seesaminsiemeniä",
+      "1 kevätsipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Esikeitä perunoita 5 minuuttia ja valuta.",
+      "Hauduta perunoita soijakastikkeen, siirapin, valkosipulin ja veden kanssa.",
+      "Keitä kokoon, kunnes lasite peittää perunat.",
+      "Valuta päälle seesamiöljy.",
+      "Viimeistele kevätsipulilla ja seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-korean-gochujang-vinaigrette",
+    "title": "Gochujang-vinegretti",
+    "description": "Tulinen korealainen salaatinkastike.",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "korealainen"],
+    "ingredients": [
+      "2 rkl gochujangia (korealaista chilitahnaa)",
+      "2 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 rkl soijakastiketta",
+      "1 tl sokeria",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa gochujang ja etikka tasaiseksi.",
+      "Lisää seesamiöljy, soijakastike, sokeri ja valkosipuli.",
+      "Emulgoi haarukalla tai sauvasekoittimella.",
+      "Anna maustua 10 minuuttia.",
+      "Säilyy jääkaapissa viikon."
+    ]
+  },
+  {
+    "id": "kg-korean-japchae",
+    "title": "Japchae – korealaiset bataattinuudelit",
+    "description": "Juhlava korealainen lasinuudeliruoka kasviksilla ja siitakesienillä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "korealainen", "nuudelit", "gluteeniton"],
+    "ingredients": [
+      "200 g bataattilasinuudeleita",
+      "150 g pinaattia",
+      "1 rkl rypsiöljyä",
+      "1 porkkana, suikaloituna",
+      "100 g siitakesieniä, viipaloituna",
+      "2 rkl soijakastiketta",
+      "1 rkl sokeria",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl seesamiöljyä",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Keitä nuudeleita 6 minuuttia, valuta ja leikkaa saksilla lyhyemmiksi.",
+      "Ryöppää pinaatti ja purista kuivaksi.",
+      "Paista porkkana ja sienet öljyssä kypsiksi.",
+      "Sekoita nuudelit soijakastikkeen, sokerin, valkosipulin ja seesamiöljyn kanssa.",
+      "Yhdistä kasvikset ja nuudelit ja koristele seesaminsiemenillä."
+    ],
+    "notes": ["Gluteenittomana käytä gluteenitonta soijakastiketta (tamari)."]
+  }
+]

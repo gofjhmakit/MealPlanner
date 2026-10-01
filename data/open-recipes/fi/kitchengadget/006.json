@@ -1,0 +1,687 @@
+[
+  {
+    "id": "kg-gazpacho-soup",
+    "title": "Gazpacho",
+    "description": "Espanjalainen kylmä kasviskeitto, jossa paprikat, kurkku ja leipä soseutetaan karkeaksi.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "espanjalainen", "keitto", "kesä"],
+    "ingredients": [
+      "225 g vihreää paprikaa, siemenet poistettuna",
+      "½ kurkku, kuorittuna",
+      "1 valkosipulinkynsi",
+      "muutama korianterinlehti",
+      "¼ mietoa chiliä, siemenet poistettuna",
+      "50 g päivän vanhaa vaaleaa leipää, kuoret poistettuna",
+      "½ mietoa sipulia",
+      "1 rkl balsamietikkaa",
+      "2 rkl oliiviöljyä",
+      "1,6 dl jääkylmää vettä",
+      "merisuolaa",
+      "mustapippuria",
+      "Lisukkeeksi:",
+      "2 tomaattia, kuorittuna, siemenet poistettuna ja pieninä kuutioina",
+      "kurkku- ja paprikakuutioita",
+      "krutonkeja (valinnainen)"
+    ],
+    "instructions": [
+      "Valmistele kasvikset: kuori tomaatit, poista paprikoista siemenet ja kuori kurkku. Kuutioi lisukevihannekset ja pidä ne kylmässä.",
+      "Liota leipää kylmässä vedessä 30 minuuttia ja purista kuivaksi.",
+      "Laita tehosekoittimeen paprikat, kurkku, valkosipuli, korianteri, chili, leipä, sipuli, etikka, öljy ja jäävesi. Surauta tasaisen karkeaksi niin, että rakennetta jää.",
+      "Mausta suolalla ja pippurilla ja jäähdytä hyvin. Lisää muutama jääpala, jos tarjoilet heti.",
+      "Paista halutessasi leipäkuutioita tilkassa oliiviöljyä kullanruskeiksi krutongeiksi.",
+      "Tarjoile keitto kylmänä ja anna jokaisen lisätä päälle tomaatti-, paprika- ja kurkkukuutioita sekä krutonkeja."
+    ]
+  },
+  {
+    "id": "kg-ginger-scallion-poached-chicken",
+    "title": "Inkivääri-kevätsipulikana",
+    "description": "Liemessä haudutettu broileri inkiväärin ja kevätsipulin kera jasmiiniriisin päällä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "kiinalainen", "riisi", "kevyt"],
+    "ingredients": [
+      "1 l kanalientä",
+      "20 g inkivääriä, viipaloituna",
+      "600 g broilerin rintafileetä",
+      "4 kevätsipulia, ohuina viipaleina",
+      "2 tl seesamiöljyä",
+      "250 g keitettyä jasmiiniriisiä"
+    ],
+    "instructions": [
+      "Hauduta kanaa liemessä inkivääriviipaleiden kanssa miedolla lämmöllä kypsäksi.",
+      "Revi kana ja sekoita kevätsipulin ja seesamiöljyn kanssa.",
+      "Keitä osa liemestä kokoon kastikkeeksi.",
+      "Tarjoile lämpimän riisin päällä ja lusikoi päälle lientä."
+    ],
+    "notes": ["Tarjoa rinnalla höyrytettyjä vihreitä kasviksia."]
+  },
+  {
+    "id": "kg-glass-noodle-stir-fry",
+    "title": "Lasinuudeliwokki tofulla",
+    "description": "Kevyt vegaaninen wokki lasinuudeleista, tofusta ja pak choista.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "thaimaalainen", "nuudelit", "tofu"],
+    "ingredients": [
+      "150 g lasinuudeleita (mungpapunuudeleita)",
+      "2 rkl rypsiöljyä",
+      "200 g kiinteää tofua, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "150 g pak choita",
+      "2 rkl soijakastiketta",
+      "1 rkl kasvisosterikastiketta",
+      "1 tl valkopippuria"
+    ],
+    "instructions": [
+      "Liota lasinuudeleita 10 minuuttia ja valuta.",
+      "Paista tofu öljyssä kullanruskeaksi.",
+      "Paista valkosipulia ja pak choita 3 minuuttia.",
+      "Lisää nuudelit, soijakastike ja kasvisosterikastike.",
+      "Sekoita joukkoon tofu ja valkopippuri."
+    ]
+  },
+  {
+    "id": "kg-gochujang-sauce",
+    "title": "Gochujang-kastike",
+    "description": "Tahmea ja tulinen korealainen kastike bibimbapille, bulgogille tai grillilihan lasitteeksi.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "korealainen", "nopea"],
+    "ingredients": [
+      "3 rkl gochujangia (korealaista chilitahnaa)",
+      "1 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl hunajaa",
+      "1 tl seesamiöljyä",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa gochujang, soijakastike ja etikka tasaiseksi.",
+      "Sekoita joukkoon hunaja, seesamiöljy ja valkosipuli.",
+      "Jos haluat kiiltävämmän ja paksumman kastikkeen, hauduta sitä pienessä kattilassa 3 minuuttia.",
+      "Anna jäähtyä ennen tarjoilua tai lihan sivelyä."
+    ]
+  },
+  {
+    "id": "kg-golden-carrot-ginger-soup",
+    "title": "Porkkana-inkiväärikeitto",
+    "description": "Kullankeltainen samettinen porkkanakeitto kookosmaidolla.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "2 valkosipulinkynttä",
+      "20 g tuoretta inkivääriä, raastettuna",
+      "700 g porkkanoita, pilkottuna",
+      "7½ dl kasvislientä",
+      "1 dl kookosmaitoa",
+      "suolaa",
+      "mustapippuria",
+      "1 tl sitruunan kuorta, raastettuna"
+    ],
+    "instructions": [
+      "Kuullota sipulia, valkosipulia ja inkivääriä öljyssä, kunnes ne tuoksuvat.",
+      "Lisää porkkanat ja liemi ja keitä 20 minuuttia pehmeiksi.",
+      "Soseuta sileäksi ja sekoita joukkoon kookosmaito.",
+      "Mausta suolalla, pippurilla ja sitruunankuorella."
+    ],
+    "notes": ["Ripottele pinnalle paahdettuja siemeniä."]
+  },
+  {
+    "id": "kg-greek-lemon-chicken-soup",
+    "title": "Kreikkalainen sitruunainen kanakeitto (avgolemono)",
+    "description": "Kevyt keitto, jota sakeuttavat kananmuna ja sitruuna.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["kana", "kreikkalainen", "keitto", "pasta"],
+    "ingredients": [
+      "1,2 l kanalientä",
+      "500 g broilerin rintafileetä",
+      "150 g orzo-pastaa (kritharaki)",
+      "2 kananmunaa",
+      "2 sitruunaa, mehuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Hauduta kanaa liemessä kypsäksi, revi ja palauta kattilaan.",
+      "Keitä orzo liemessä kypsäksi.",
+      "Vatkaa munat ja sitruunamehu.",
+      "Lämmitä munaseosta vatkaten muutamalla kauhallisella kuumaa lientä ja sekoita se keittoon liedeltä nostettuna.",
+      "Mausta ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-greek-style-moussaka",
+    "title": "Kevyt moussaka",
+    "description": "Kreikkalaistyylinen munakoiso-jauhelihavuoka rahka-tuorejuustokastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "kreikkalainen", "uuniruoka"],
+    "ingredients": [
+      "4 keskikokoista munakoisoa, 1 cm:n viipaleina",
+      "1 rkl rypsiöljyä",
+      "1 keskikokoinen sipuli, karkeasti pilkottuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "200 g vähärasvaista naudan jauhelihaa",
+      "1 tl worcestershirekastiketta",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "1½ tl kanelia",
+      "kourallinen tuoretta persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "Kastike:",
+      "200 g rasvatonta tuorejuustoa tai maustamatonta jogurttia",
+      "100 g maitorahkaa",
+      "1 tl sinappia",
+      "1 kananmuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180). Asettele munakoisoviipaleet pelleille, mausta, sivele ohuelti öljyllä ja paista 15–20 minuuttia, kunnes ne ovat kullanruskeita ja lähes kuivia.",
+      "Kuullota sipulia ja valkosipulia tilkassa öljyä 5 minuuttia (lisää tilkka vettä, jos ne tarttuvat). Lisää jauheliha ja ruskista murustellen.",
+      "Lisää worcestershirekastike, tomaatit, kaneli, persilja ja mausteet. Kuumenna kiehuvaksi ja hauduta ilman kantta 20 minuuttia paksuksi.",
+      "Vatkaa tuorejuusto, rahka, sinappi ja kananmuna.",
+      "Lado munakoisot ja jauhelihakastike kerroksittain uunivuokaan. Kaada päälle juustokastike.",
+      "Paista 45 minuuttia, kunnes pinta kuplii ja on kullanruskea."
+    ],
+    "notes": ["Kananmuna puuttui alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-green-curry-tofu-vegetables",
+    "title": "Vihreä curry tofulla ja kasviksilla",
+    "description": "Thaimaalaistyylinen vihreä kookoscurry tofusta ja rapeista kasviksista.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "thaimaalainen", "tofu", "riisi"],
+    "ingredients": [
+      "400 g kiinteää tofua, kuutioituna",
+      "1 rkl rypsiöljyä",
+      "2 rkl vihreää currytahnaa",
+      "4 dl kookosmaitoa",
+      "1 parsakaali, kukintoina",
+      "1 punainen paprika, suikaloituna",
+      "150 g sokeriherneitä",
+      "1 limetti",
+      "Tarjoiluun:",
+      "3 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Ruskista tofukuutiot öljyssä.",
+      "Lisää currytahna ja paista minuutti.",
+      "Sekoita joukkoon kookosmaito ja kasvikset.",
+      "Hauduta, kunnes kasvikset ovat kypsiä mutta rapsakoita. Purista päälle limettimehua ja tarjoile riisin kanssa."
+    ],
+    "notes": ["Tarkista, ettei currytahnassa ole katkaraputahnaa, jos haluat ruoasta vegaanisen."]
+  },
+  {
+    "id": "kg-green-goddess-chicken-salad",
+    "title": "Green goddess -kanasalaatti",
+    "description": "Kanasalaatti kermaisella avokado-yrttijogurttikastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "Kastike:",
+      "120 g kreikkalaista jogurttia",
+      "120 g avokadoa",
+      "30 g ruohosipulia",
+      "20 g persiljaa",
+      "1 rkl sitruunamehua",
+      "suolaa",
+      "Salaatti:",
+      "1 roomansalaatti",
+      "300 g kypsää broilerin rintafileetä, viipaloituna",
+      "100 g kurkkua, viipaloituna"
+    ],
+    "instructions": [
+      "Surauta jogurtti, avokado, yrtit, sitruunamehu, suola ja tilkka vettä kermaiseksi kastikkeeksi.",
+      "Asettele salaatti, kana ja kurkku vadille.",
+      "Lusikoi kastike päälle ja tarjoile kylmänä."
+    ],
+    "notes": ["Sopii seuraavana päivänä myös tortillarullien täytteeksi."]
+  },
+  {
+    "id": "kg-green-goddess-dressing",
+    "title": "Green goddess -kastike",
+    "description": "San Franciscon klassikko 1920-luvulta, nimetty saman aikakauden menestysnäytelmän mukaan.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "½ dl kermaviiliä",
+      "½ dl persiljaa, hienonnettuna",
+      "2 rkl ruohosipulia, hienonnettuna",
+      "1 rkl rakuunaa, hienonnettuna",
+      "1 rkl sitruunamehua",
+      "1 valkosipulinkynsi",
+      "1 anjovis (valinnainen)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen tai monitoimikoneeseen.",
+      "Surauta sileäksi ja kirkkaanvihreäksi.",
+      "Ohenna tarvittaessa tilkalla vettä.",
+      "Mausta suolalla ja anna jäähtyä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-green-kiwi-spinach-smoothie",
+    "title": "Vihreä kiivi-pinaattismoothie",
+    "description": "Raikas vihreä smoothie kiiveistä, pinaatista ja banaanista.",
+    "servings": 2,
+    "totalTimeMin": 8,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "smoothie", "nopea"],
+    "ingredients": [
+      "2 kiiviä",
+      "1 kourallinen pinaattia",
+      "1 banaani",
+      "2½ dl kylmää vettä",
+      "1 rkl chiansiemeniä",
+      "½ limetti, mehuna"
+    ],
+    "instructions": [
+      "Kuori kiivit.",
+      "Surauta kaikki ainekset tehosekoittimessa silkinpehmeäksi.",
+      "Tarjoile heti."
+    ],
+    "notes": ["Pakastettu banaani tekee smoothiesta viileämmän."]
+  },
+  {
+    "id": "kg-green-moong-dal",
+    "title": "Kokonaisista mungpavuista tehty dal",
+    "description": "Rakenteikas dal kokonaisista vihreistä mungpavuista.",
+    "servings": 4,
+    "totalTimeMin": 160,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g kokonaisia mungpapuja",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "1 tl jauhettua korianteria",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Liota mungpapuja 2 tuntia. Keitä ne kurkuman ja suolan kanssa kypsiksi.",
+      "Kuumenna öljy ja paahda juustokuminaa hetki.",
+      "Kuullota sipuli kullanruskeaksi ja lisää jauhettu korianteri.",
+      "Yhdistä papujen kanssa ja hauduta 10 minuuttia.",
+      "Viimeistele tuoreella korianterilla."
+    ]
+  },
+  {
+    "id": "kg-grilled-chicken-and-vegetable-skewers",
+    "title": "Grillatut kana-kasvisvartaat",
+    "description": "Paprikalla ja oreganolla maustetut kesäiset vartaat.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "kesä", "gluteeniton"],
+    "ingredients": [
+      "500 g broilerin rintafileetä, kuutioituna",
+      "2 paprikaa, paloiteltuna",
+      "1 kesäkurpitsa, viipaloituna",
+      "200 g kirsikkatomaatteja",
+      "2 rkl oliiviöljyä",
+      "1 tl paprikajauhetta",
+      "1 tl oreganoa",
+      "suolaa",
+      "1 sitruuna, lohkoina"
+    ],
+    "instructions": [
+      "Sekoita kana ja kasvikset öljyn ja mausteiden kanssa.",
+      "Pujota vartaisiin.",
+      "Grillaa 10–12 minuuttia käännellen, kunnes kana on kypsää.",
+      "Tarjoile sitruunalohkojen kanssa."
+    ]
+  },
+  {
+    "id": "kg-guacamole",
+    "title": "Guacamole",
+    "description": "Meksikolainen avokadodippi. Parhaimmillaan heti tarjoiltuna.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "3 kypsää avokadoa",
+      "½ sipulia, hienoksi kuutioituna",
+      "1 tomaatti, kuutioituna",
+      "1 jalapeño, hienonnettuna",
+      "2 rkl korianteria, hienonnettuna",
+      "2 rkl limettimehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Survo avokadot kulhossa haluamasi rakenteiseksi.",
+      "Kääntele joukkoon sipuli, tomaatti, jalapeño ja korianteri.",
+      "Lisää limettimehu ja suola ja sekoita.",
+      "Maista ja tarkista mausteet ennen tarjoilua."
+    ],
+    "notes": ["Jos guacamole ei mene heti syöntiin, paina sen sekaan limettimehulla sivelty avokadon kivi ruskistumisen hidastamiseksi."]
+  },
+  {
+    "id": "kg-gujarati-makai-sabji",
+    "title": "Gujaratilainen maissicurry (makai sabji)",
+    "description": "Maissintähkäcurry ilman tomaattia, sipulia tai kermaa – paahdetut maapähkinät antavat syvän maun.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "6 maissintähkää",
+      "120 g suolaamattomia maapähkinöitä (kuorellisia punaisia)",
+      "5 rkl rypsiöljyä",
+      "60 g kikhernejauhoja",
+      "3 dl täysrasvaista maustamatonta jogurttia",
+      "1 tl suolaa",
+      "2 tl kurkumaa",
+      "2 tl kashmirinchilijauhetta",
+      "2 tl sokeria",
+      "1 sitruuna, mehuna",
+      "6 dl vettä",
+      "2 tl chilihiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna iso kattilallinen vettä kiehuvaksi. Poista maisseista kuoret ja halkaise tähkät pituussuunnassa. Keitä noin 8 minuuttia kypsiksi ja valuta.",
+      "Jauha maapähkinät monitoimikoneessa hienoksi jauheeksi (säästä halutessasi vähän karkeaksi murskattuna koristeeksi).",
+      "Kuumenna öljy isolla pannulla keskilämmöllä ja lisää kikhernejauhot. Sekoita voimakkaasti, ettei synny paakkuja eikä seos pala. Kun se muuttuu 3–4 minuutin kuluttua punaruskeaksi, laske lämpö minimiin ja sekoita joukkoon maapähkinät. Kypsennä 5 minuuttia usein sekoittaen.",
+      "Lisää jogurtti, suola, kurkuma, chilijauhe, sokeri ja sitruunamehu ja sekoita paksuksi tahnaksi. Lisää vesi vähitellen koko ajan sekoittaen, kunnes kastike on sileää.",
+      "Lisää maissit, peitä ja hauduta miedolla lämmöllä noin 10 minuuttia. Jaa kulhoihin ja ripottele pinnalle chilihiutaleita ja halutessasi murskattuja maapähkinöitä."
+    ]
+  },
+  {
+    "id": "kg-gyro-bowls",
+    "title": "Gyros-kulhot",
+    "description": "Kreikkalaistyyliset kulhot gyroslihasta, basmatiriisistä, kasviksista, fetasta ja tzatzikista.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "kreikkalainen", "kulho", "nopea"],
+    "ingredients": [
+      "5 dl basmatiriisiä",
+      "1 iso kurkku",
+      "2 isoa tomaattia",
+      "1 keskikokoinen punasipuli",
+      "1 rkl oliiviöljyä",
+      "600 g valmista gyroslihaa (suikaleina)",
+      "2½ dl fetajuustoa, murusteltuna",
+      "2½ dl tzatzikia",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta tilliä tai persiljaa"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen mukaan ja kuohkeuta haarukalla.",
+      "Kuutioi kurkku ja tomaatit ja viipaloi punasipuli ohuiksi.",
+      "Kuumenna öljy paistinpannulla keskikovalla lämmöllä ja paista gyroslihaa 2–3 minuuttia kummaltakin puolelta, kunnes se on kuumaa ja reunoilta rapeaa.",
+      "Jaa riisi kuuteen kulhoon ja lisää päälle liha, tomaatit, kurkku, punasipuli ja feta.",
+      "Valuta päälle tzatzikia, mausta suolalla ja pippurilla ja koristele yrteillä."
+    ]
+  },
+  {
+    "id": "kg-hakka-noodles",
+    "title": "Hakka-nuudelit",
+    "description": "Intialais-kiinalaiset kovalla lämmöllä paistetut kasvisnuudelit.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "kiinalainen", "nuudelit"],
+    "ingredients": [
+      "400 g hakka-nuudeleita tai ohuita vehnänuudeleita",
+      "2 rkl rypsiöljyä",
+      "1 porkkana, suikaloituna",
+      "1 paprika, suikaloituna",
+      "150 g valkokaalia, suikaloituna",
+      "3 rkl soijakastiketta",
+      "1 rkl etikkaa",
+      "valkopippuria",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja huuhtele kylmällä vedellä.",
+      "Paista kasviksia öljyssä kovalla lämmöllä.",
+      "Lisää nuudelit, soijakastike ja etikka.",
+      "Sekoittele 3 minuuttia, kunnes nuudelit saavat paahteista makua.",
+      "Mausta valkopippurilla ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-ham-bchamel-croquettes",
+    "title": "Kinkkukrokettit (croquetas de jamón)",
+    "description": "Espanjalaiset rapeat krokettit, joiden sisus on kermaista kinkkubesamelia.",
+    "servings": 4,
+    "totalTimeMin": 240,
+    "category": "Välipalat",
+    "tags": ["liha", "espanjalainen", "juhla"],
+    "ingredients": [
+      "Besamel:",
+      "8 dl täysmaitoa",
+      "1 pieni sipuli, hyvin hienoksi kuutioituna",
+      "1 laakerinlehti",
+      "80 g suolatonta voita",
+      "90 g vehnäjauhoja",
+      "ripaus muskottipähkinää",
+      "150 g ilmakuivattua kinkkua, pieninä kuutioina",
+      "30 g manchegoa tai parmesaania, hienoksi raastettuna",
+      "1 tl suolaa",
+      "½ tl valkopippuria",
+      "Panerointi:",
+      "vehnäjauhoja",
+      "2 isoa kananmunaa, vatkattuna",
+      "150–200 g korppujauhoja",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Kuumenna maito, laakerinlehti ja sipuli kattilassa juuri kiehumispisteeseen. Sammuta lämpö, peitä ja anna hautua 10 minuuttia. Poista laakerinlehti (siivilöi myös sipuli, jos haluat täysin sileän sisuksen).",
+      "Sulata voi leveässä paksupohjaisessa kattilassa keskilämmöllä. Lisää jauhot ja kypsennä sekoittaen 2–3 minuuttia, kunnes seos tuoksuu paahteiselta mutta ei ruskistu.",
+      "Nosta liedeltä ja vatkaa joukkoon neljäsosa maidosta sileäksi. Palauta miedolle lämmölle ja lisää loput maidosta 3–4 erässä vatkaten paakuttomaksi joka lisäyksen välillä. Kypsennä 4–6 minuuttia lastalla sekoittaen, kunnes besamel on paksua ja kiiltävää ja lastan vetämä jälki pysyy.",
+      "Kääntele joukkoon kinkku, juusto, muskottipähkinä, pippuri ja suurin osa suolasta. Maista ja säädä – seoksen pitää olla suolaista, mutta ei liikaa.",
+      "Levitä seos 1,5–2 cm:n kerrokseksi leivinpaperilla vuorattuun vuokaan. Painele kelmu suoraan pintaan. Jäähdytä vähintään 3 tuntia, mieluiten yön yli, kunnes seos on täysin jähmettynyt.",
+      "Jauhota kädet. Leikkaa seos paloiksi tai ota noin 30 g:n annoksia ja pyöritä lieriöiksi tai soikioiksi. Jos seos pehmenee, jäähdytä palat hetkeksi uudelleen.",
+      "Kääntele jokainen kroketti jauhoissa, kastele munassa ja pyöritä korppujauhoissa. Rapeampaa kuorta varten anna levätä 5 minuuttia ja toista muna ja korppujauhot.",
+      "Kuumenna öljy 180 asteeseen. Paista krokettejä pienissä erissä 2–3 minuuttia syvän kullanruskeiksi, käännellen varovasti. Nosta talouspaperille. Pidä valmiit lämpimänä 100-asteisessa uunissa.",
+      "Tarjoile kuumina persiljalla ja halutessasi sitruunalla."
+    ]
+  },
+  {
+    "id": "kg-harissa",
+    "title": "Harissa",
+    "description": "Pohjoisafrikkalainen chilitahna mausteeksi tai patojen ja marinadien joukkoon.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "marokkolainen", "mauste", "gluteeniton"],
+    "ingredients": [
+      "6 kuivattua punaista chiliä, kannat ja siemenet poistettuna",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "1 tl kuminaa",
+      "2 valkosipulinkynttä",
+      "1 rkl sitruunamehua",
+      "2 rkl oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota chilejä kuumassa vedessä 15 minuuttia pehmeiksi ja valuta.",
+      "Paahda juustokumina, korianteri ja kumina kuivalla pannulla minuutti, kunnes ne tuoksuvat.",
+      "Soseuta chilit, valkosipuli, mausteet ja sitruunamehu tahnaksi.",
+      "Sekoita joukkoon oliiviöljy ja mausta suolalla."
+    ]
+  },
+  {
+    "id": "kg-harissa-roasted-vegetable-couscous",
+    "title": "Harissapaahdetut kasvikset ja kuskus",
+    "description": "Täysjyväkuskus uunissa paahdettujen harissakasvisten ja mintun kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "pohjoisafrikkalainen", "uuniruoka"],
+    "ingredients": [
+      "1 kesäkurpitsa, paloiteltuna",
+      "1 munakoiso, paloiteltuna",
+      "1 punainen paprika, paloiteltuna",
+      "2 rkl oliiviöljyä",
+      "1 rkl harissaa",
+      "220 g täysjyväkuskusta",
+      "3 dl kiehuvaa vettä",
+      "30 g tuoretta minttua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Sekoita kasvikset oliiviöljyn ja harissan kanssa.",
+      "Paahda pellillä, kunnes kasvikset ovat pehmeitä ja reunoilta hiiltyneitä (noin 20–25 minuuttia).",
+      "Kaada kiehuva vesi kuskuksen päälle, peitä ja anna turvota 5 minuuttia. Kuohkeuta haarukalla ja mausta suolalla.",
+      "Kääntele kasvikset ja minttu kuskuksen joukkoon."
+    ],
+    "notes": ["Kikherneet tuovat lisää proteiinia."]
+  },
+  {
+    "id": "kg-herb-roasted-salmon-with-asparagus",
+    "title": "Yrttinen uunilohi ja parsa",
+    "description": "Sitruunalla ja tillillä maustettu lohi ja parsa samalla pellillä.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea", "gluteeniton"],
+    "ingredients": [
+      "4 lohifileetä",
+      "400 g vihreää parsaa",
+      "2 rkl oliiviöljyä",
+      "1 sitruuna",
+      "1 rkl tilliä, hienonnettuna",
+      "1 valkosipulinkynsi, murskattuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Asettele lohi ja parsa pellille.",
+      "Sekoita öljy, sitruunankuori, tilli, valkosipuli, suola ja pippuri.",
+      "Sivele seos lohen ja parsan päälle.",
+      "Paahda 14–16 minuuttia. Tarjoile sitruunalohkojen kanssa."
+    ],
+    "notes": ["Sopii keitettyjen perunoiden kanssa."]
+  },
+  {
+    "id": "kg-hoisin-glazed-tuna-with-asparagus-rice-noodles",
+    "title": "Hoisin-lasitettu tonnikala, parsa ja riisinuudelit",
+    "description": "Pannulla nopeasti paistettu tonnikalapihvi hoisinlasitteella.",
+    "servings": 1,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kala", "aasialainen", "nopea"],
+    "ingredients": [
+      "60 g riisinuudeleita",
+      "2 rkl tuoretta korianteria, hienonnettuna",
+      "1 tl riisiviinietikkaa",
+      "½ tl soijakastiketta",
+      "12 vihreää parsaa",
+      "1 keskikokoinen tonnikalapihvi (n. 150 g)",
+      "1 tl rypsiöljyä",
+      "suolaa",
+      "1½ tl hoisinkastiketta",
+      "¼ tl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Valmista nuudelit pakkauksen ohjeen mukaan ja huuhtele kylmällä vedellä. Valuta ja sekoita korianterin, etikan ja soijakastikkeen kanssa.",
+      "Sivele parsat ja tonnikala ohuelti öljyllä ja mausta ripauksella suolaa. Paista kuumalla pannulla noin 4 minuuttia, käännellen parsoja välillä ja tonnikalaa kerran, kunnes parsa on kypsää ja kala keskeltä vielä punertavaa.",
+      "Sivele tonnikalan kummallekin puolelle ¼ tl hoisinkastiketta ja paista muutama sekunti puoleltaan, kunnes pinta kiiltää.",
+      "Viipaloi tonnikala, valuta päälle loput hoisinkastikkeesta ja ripottele pinnalle seesaminsiemenet. Tarjoile parsan ja nuudeleiden kanssa."
+    ],
+    "notes": ["Alkuperäinen ilmoittaa 4 annosta, mutta määrät ovat yhdelle; kerro tarvittaessa."]
+  },
+  {
+    "id": "kg-hollandaise-sauce",
+    "title": "Hollandaisekastike",
+    "description": "Klassinen ranskalainen voikastike Benedictin munille ja höyrytetylle parsalle. Ei säily eikä lämpene hyvin.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "3 kananmunan keltuaista",
+      "1 rkl vettä",
+      "1 rkl sitruunamehua",
+      "125 g suolatonta voita, sulatettuna",
+      "suolaa",
+      "ripaus cayennepippuria"
+    ],
+    "instructions": [
+      "Vatkaa keltuaiset, vesi ja sitruunamehu lämmönkestävässä kulhossa hiljalleen kiehuvan vesihauteen päällä.",
+      "Vatkaa koko ajan noin 3 minuuttia, kunnes seos on vaaleaa ja paksua.",
+      "Nosta pois lämmöltä ja lisää sulatettu voi ohuena nauhana koko ajan vatkaten.",
+      "Mausta suolalla ja ripauksella cayennepippuria.",
+      "Tarjoile heti lämpimänä."
+    ]
+  },
+  {
+    "id": "kg-homemade-tofu",
+    "title": "Kotitekoinen tofu",
+    "description": "Tofu kotitekoisesta soijamaidosta sitruunamehulla juoksutettuna.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Muut",
+    "tags": ["vegaaninen", "tofu", "gluteeniton"],
+    "ingredients": [
+      "1,2 l maustamatonta soijajuomaa (mieluiten kotitekoista)",
+      "1,2 dl vettä",
+      "22 ml sitruunamehua"
+    ],
+    "instructions": [
+      "Sekoita vesi ja sitruunamehu juoksutteeksi. Kuumenna soijamaito isossa kattilassa 71 asteeseen sekoittaen, ettei se pala pohjaan (tai kuumenna kiehuvaksi ja anna jäähtyä 2–3 minuuttia sekoittaen).",
+      "Nosta liedeltä ja sekoita joukkoon puolet juoksutteesta 1–2 minuutin ajan. Lopeta sekoittaminen, lisää loput juoksutteesta ja sekoita varovasti kahdeksikkoa piirtäen, kunnes juustomassaa alkaa muodostua.",
+      "Peitä kattila ja anna seistä 10–15 minuuttia, kunnes massa on erottunut. Heran pitää olla kellertävän kirkasta; jos se on vielä maitomaista, lisää muutama tippa sitruunamehua.",
+      "Vuoraa siivilä tai höyrytyskori useammalla kerroksella harsokangasta kulhon päälle. Nostele massa kankaalle.",
+      "Kokoa kangas ja valuta ylimääräinen neste. Muotoile massa harkoksi ja paina laudalla ja noin 1 kg:n painolla 30–60 minuuttia (pidempi puristus = kiinteämpi tofu).",
+      "Kääri tofu auki ja upota hyvin kylmään veteen kiinteytymään. Käytä heti tai säilytä veteen upotettuna jääkaapissa enintään viikon vaihtaen vedet päivittäin. Tofun voi myös pakastaa, jolloin rakenne muuttuu."
+    ],
+    "notes": ["Kaupan soijajuomat sisältävät usein sakeuttajia, eivätkä ne aina juoksetu hyvin; käytä mahdollisimman pelkistettyä soijajuomaa."]
+  },
+  {
+    "id": "kg-honey-garlic-pork",
+    "title": "Hunaja-valkosipulipossu haudutuskattilassa",
+    "description": "Mureaksi haudutettu, revitty porsaanlapa tahmeassa hunaja-soijakastikkeessa.",
+    "servings": 8,
+    "totalTimeMin": 510,
+    "category": "Pääruoat",
+    "tags": ["liha", "aasialainen", "pataruoka"],
+    "ingredients": [
+      "1,5 kg porsaan lapaa",
+      "¾ dl hunajaa",
+      "¾ dl soijakastiketta",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 rkl ketsuppia",
+      "1 rkl srirachaa tai chilihiutaleita",
+      "1 rkl maissitärkkelystä",
+      "2 rkl kylmää vettä"
+    ],
+    "instructions": [
+      "Nosta liha haudutuskattilaan rasvapuoli ylöspäin.",
+      "Vatkaa kulhossa hunaja, soijakastike, valkosipuli, ketsuppi ja sriracha ja kaada lihan päälle.",
+      "Kypsennä kannen alla matalalla teholla 8 tuntia tai korkealla 4 tuntia.",
+      "Nosta liha varovasti leikkuulaudalle ja revi se haarukoilla. Poista isot rasvapalat.",
+      "Palauta revitty liha kattilaan.",
+      "Sekoita maissitärkkelys ja kylmä vesi tasaiseksi ja sekoita liemeen.",
+      "Kypsennä korkealla teholla ilman kantta vielä 15 minuuttia, kunnes kastike sakenee.",
+      "Sekoita vielä kerran ja anna seistä kannen alla 10 minuuttia ennen tarjoilua."
+    ]
+  }
+]

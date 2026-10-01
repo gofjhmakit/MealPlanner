@@ -4,6 +4,7 @@
  *   2. load the Fineli dataset into IndexedDB if it is missing or a newer one was imported
  *   3. (re)build the Fineli dish catalogue
  *   4. add development seed recipes on first start
+ *   5. load the translated open recipe catalogue (openRecipes.ts) when a newer one was built
  * After this the app works fully offline.
  */
 import type { FineliLookup } from '../domain/matcher'
@@ -12,6 +13,7 @@ import type { FineliDish, FineliFood, Product, RecipeSource } from '../domain/ty
 import { ADAPTERS } from '../import/adapters'
 import { buildFineliCatalogue, FINELI_SOURCE } from './catalogue'
 import { db as defaultDb, DEFAULT_PLAN_ID, getSetting, setSetting, type MealPlannerDB } from './db'
+import { syncOpenRecipes } from './openRecipes'
 import { buildSeedRecipes, SEED_VERSION } from './seed'
 import { loadUserMappings } from './repo'
 
@@ -160,5 +162,8 @@ export async function bootstrap(
     await database.recipes.bulkPut(seeds.filter((s) => !existing.has(s.id)))
     await setSetting('seedVersion', SEED_VERSION, database)
   }
+
+  const products = productMatchIndex(await database.products.toArray())
+  await syncOpenRecipes(database, fetchImpl, { fineli: store, userMappings: await loadUserMappings(database), products }, progress)
   return store
 }

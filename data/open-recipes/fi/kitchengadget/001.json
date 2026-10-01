@@ -1,0 +1,670 @@
+[
+  {
+    "id": "kg-bengali-masoor-dal",
+    "title": "Bengalilainen masoor dal",
+    "description": "Tuoksuva bengalilainen punalinssidal panch phoron -mausteseoksella.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g punaisia linssejä",
+      "½ tl panch phoron -mausteseosta",
+      "1 laakerinlehti",
+      "1 kuivattu punainen chili",
+      "1 tomaatti, pilkottuna",
+      "1 tl inkivääritahnaa",
+      "2 rkl sinappiöljyä tai rypsiöljyä",
+      "tuoretta korianteria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä linssit laakerinlehden kanssa vedessä pehmeiksi.",
+      "Kuumenna öljy, kunnes se savuaa hieman, ja lisää panch phoron ja chili.",
+      "Lisää inkivääri ja tomaatti ja kypsennä 5 minuuttia.",
+      "Sekoita mausteseos linssien joukkoon, mausta suolalla ja hauduta 8 minuuttia.",
+      "Viimeistele korianterilla."
+    ]
+  },
+  {
+    "id": "kg-berry-beet-recovery-smoothie",
+    "title": "Marja-punajuurismoothie",
+    "description": "Värikäs ja miedosti makea palautussmoothie.",
+    "servings": 2,
+    "totalTimeMin": 7,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea"],
+    "ingredients": [
+      "150 g keitettyä punajuurta",
+      "150 g pakastemarjoja",
+      "1 banaani",
+      "2½ dl kefiiriä",
+      "1 rkl kaurahiutaleita"
+    ],
+    "instructions": [
+      "Surauta punajuuri, marjat, banaani, kefiiri ja kaurahiutaleet tehosekoittimessa sileäksi.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "kg-berry-biryani",
+    "title": "Karpalobiryani kanalla",
+    "description": "Dishoom-ravintolan suosikkiversioon pohjautuva uunissa kypsyvä kanabiryani karpaloilla ja sahramilla.",
+    "servings": 4,
+    "totalTimeMin": 135,
+    "category": "Pääruoat",
+    "tags": ["kana", "intialainen", "riisi", "juhla", "uuniruoka"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "2 sipulia",
+      "Riisi:",
+      "300 g basmatiriisiä",
+      "2 tl suolaa",
+      "2 rkl limettimehua",
+      "Kanapohja:",
+      "800 g broilerin reisifileitä",
+      "50 g tuoretta inkivääriä",
+      "20 g valkosipulia",
+      "3 vihreää chiliä",
+      "2 tl juustokuminaa",
+      "2 tl deggi mirch -chilijauhetta tai paprikajauhetta",
+      "1 tl garam masalaa",
+      "1 limetti, mehuna",
+      "2 dl maustamatonta jogurttia",
+      "kourallinen tuoretta korianteria ja minttua",
+      "Pinnalle:",
+      "ripaus sahramia",
+      "30 g voita",
+      "½ dl kuohukermaa",
+      "½ dl kuivattuja karpaloita"
+    ],
+    "instructions": [
+      "Kuumenna öljy keskilämmöllä. Puolita sipulit ja leikkaa ohuiksi viipaleiksi. Paista öljyssä kullanruskeiksi, nosta reikäkauhalla talouspaperille ja säästä öljy.",
+      "Huuhtele riisi kulhossa vettä vaihtaen pari kertaa, kunnes vesi on kirkasta. Peitä vedellä ja liota 1 tunti.",
+      "Kuori inkivääri ja jaa kahtia. Leikkaa toinen puolisko ohuiksi tikuiksi uuninkestävään pataan. Soseuta toinen puolisko ja valkosipuli tahnaksi ja lisää pataan.",
+      "Viipaloi chilit ja lisää pataan mausteiden, yrttien, limettimehun, paistoöljyn ja jogurtin kanssa. Lisää kaksi kolmasosaa paistetuista sipuleista.",
+      "Leikkaa kanat 3–4 palaan, lisää pataan ja sekoita huolellisesti. Anna marinoitua hetki.",
+      "Liota sahrami 30 ml:ssa kiehuvaa vettä. Sulata voi ja kerma yhdessä.",
+      "Kuumenna 2 litraa vettä kiehuvaksi ja lisää suola ja limettimehu. Kuumenna uuni 200 asteeseen ja lämmitä pataa liedellä keskilämmöllä.",
+      "Valuta liotettu riisi, lisää kiehuvaan veteen ja keitä 4–5 minuuttia, kunnes se on puolikypsää. Valuta niin, että pintaan jää hieman vettä.",
+      "Levitä riisi padan kanaseoksen päälle ja tasoita. Valuta pinnalle lämmin voi-kermaseos ja sahramivesi. Ripottele päälle karpalot ja loput sipulit.",
+      "Peitä pata tiiviisti foliolla ja kannella ja kypsennä uunissa noin 45–50 minuuttia, kunnes kana on kypsää ja riisi pehmeää."
+    ],
+    "notes": [
+      "Alkuperäisessä luettelossa oli 5000 g kanaa (ilmeinen kirjoitusvirhe) eikä jogurttia, sahramia, voita, kermaa, karpaloita tai yrttejä; määrät on arvioitu. Myös viimeinen uunivaihe on lisätty.",
+      "Kasvisversio: korvaa kana kevyesti paistetulla paneerilla tai garam masalalla maustetulla, paistetulla jakkihedelmällä."
+    ]
+  },
+  {
+    "id": "kg-berry-chia-overnight-oats",
+    "title": "Marja-chia-yökaura",
+    "description": "Illalla valmisteltava aamupala purkissa.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "yökaura", "nopea"],
+    "ingredients": [
+      "100 g kaurahiutaleita",
+      "20 g chiansiemeniä",
+      "2½ dl maitoa tai kasvijuomaa",
+      "1 rkl vaahterasiirappia",
+      "120 g sekamarjoja",
+      "80 g kreikkalaista jogurttia"
+    ],
+    "instructions": [
+      "Sekoita kaurahiutaleet, chiansiemenet, maito ja vaahterasiirappi purkissa.",
+      "Anna tekeytyä jääkaapissa yön yli.",
+      "Lisää päälle jogurtti ja marjat ennen tarjoilua."
+    ],
+    "notes": ["Paahdetut pähkinät tuovat rouskutusta."]
+  },
+  {
+    "id": "kg-berry-crumble",
+    "title": "Marjapaistos kaurakuorrutteella",
+    "description": "Pakastemarjoista tehty murupaistos, joka sopii vaniljajäätelön kanssa.",
+    "servings": 8,
+    "totalTimeMin": 55,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "marjat"],
+    "ingredients": [
+      "Täyte:",
+      "1 l pakastesekamarjoja",
+      "½ dl sokeria",
+      "2 rkl maissitärkkelystä",
+      "1 tl vaniljauutetta",
+      "Murukuorrute:",
+      "1¾ dl vehnäjauhoja",
+      "2½ dl kaurahiutaleita",
+      "1½ dl fariinisokeria",
+      "1 tl kanelia",
+      "¼ tl suolaa",
+      "85 g kylmää voita, kuutioina",
+      "Tarjoiluun:",
+      "vaniljajäätelöä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Marjoja ei tarvitse sulattaa – pakastemarjat luovuttavat mehunsa tasaisemmin.",
+      "Sekoita marjat, sokeri, maissitärkkelys ja vanilja isossa kulhossa. Tärkkelys sakeuttaa mehun siirappimaiseksi. Levitä noin 23 x 33 cm:n uunivuokaan tai valurautapannuun.",
+      "Sekoita toisessa kulhossa jauhot, kaurahiutaleet, fariinisokeri, kaneli ja suola. Nypi kylmä voi joukkoon, kunnes seos on paakkuista ja voista on näkyvissä herneen kokoisia paloja.",
+      "Ripottele murut löysästi marjojen päälle – älä painele.",
+      "Paista 35–40 minuuttia, kunnes pinta on syvän kullanruskea ja mehut kuplivat reunoilla. Jos pinta tummuu liian nopeasti, peitä kevyesti foliolla viimeiseksi 10 minuutiksi.",
+      "Anna jäähtyä vähintään 15 minuuttia, jotta mehut ehtivät sakeutua.",
+      "Tarjoile lämpimänä vaniljajäätelön kanssa."
+    ]
+  },
+  {
+    "id": "kg-berry-protein-pancakes",
+    "title": "Marjaiset proteiinipannukakut",
+    "description": "Amerikkalaiset pannukakut proteiinipannukakkujauheesta, kreikkalaisesta jogurtista ja marjoista.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakut", "nopea"],
+    "ingredients": [
+      "5 dl proteiinipannukakkujauhetta",
+      "3½ dl maitoa",
+      "2 kananmunaa",
+      "1 dl kreikkalaista jogurttia",
+      "1 tl vaniljauutetta",
+      "ripaus kanelia",
+      "2½ dl pakastesekamarjoja",
+      "1 rkl voita paistamiseen",
+      "vaahterasiirappia tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita pannukakkujauhe, maito, munat, jogurtti, vanilja ja kaneli kulhossa juuri ja juuri sekaisin. Kokkareet eivät haittaa – liika sekoittaminen tekee pannukakuista sitkeitä.",
+      "Kääntele joukkoon jäiset marjat.",
+      "Kuumenna paistinpannu keskilämmöllä ja lisää nokare voita.",
+      "Paista noin ¾ dl taikinaa kerrallaan, kunnes pintaan tulee kuplia ja reunat hyytyvät, 2–3 minuuttia.",
+      "Käännä ja paista vielä 1–2 minuuttia kullanruskeaksi.",
+      "Tarjoile pinona marjojen, jogurtin ja vaahterasiirapin kanssa."
+    ],
+    "notes": ["Proteiinipannukakkujauheen voi korvata tavallisella pannukakkujauhoseoksella."]
+  },
+  {
+    "id": "kg-berry-smoothie",
+    "title": "Marjasmoothie",
+    "description": "Kermainen marja-banaanismoothie kreikkalaisella jogurtilla.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea", "gluteeniton"],
+    "ingredients": [
+      "7 dl pakastesekamarjoja",
+      "2½ dl kreikkalaista jogurttia",
+      "2 banaania",
+      "2 rkl hunajaa",
+      "2½ dl maitoa",
+      "jääpaloja (valinnainen)"
+    ],
+    "instructions": [
+      "Laita marjat, jogurtti, banaanit, hunaja ja maito tehosekoittimeen.",
+      "Surauta täydellä teholla noin minuutti, kunnes smoothie on sileää.",
+      "Jos se on liian paksua, lisää tilkka maitoa. Jos liian ohutta, lisää jääpaloja tai marjoja.",
+      "Kaada laseihin ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "kg-beurre-blanc",
+    "title": "Beurre blanc -voikastike",
+    "description": "Hienostunut ranskalainen voikastike haudutetulle tai paistetulle kalalle.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "gluteeniton", "nopea"],
+    "ingredients": [
+      "2 rkl valkoviinietikkaa",
+      "60 ml kuivaa valkoviiniä",
+      "1 salottisipuli, hienonnettuna",
+      "150 g kylmää suolatonta voita, kuutioina",
+      "suolaa",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Keitä etikka, viini ja salottisipuli kokoon, kunnes nestettä on jäljellä noin 1 rkl.",
+      "Laske lämpö pieneksi ja vatkaa joukkoon kylmä voi muutama kuutio kerrallaan, kunnes kastike on tasainen.",
+      "Nosta liedeltä heti, kun viimeinen voi on sekoittunut.",
+      "Mausta suolalla ja valkopippurilla.",
+      "Siivilöi halutessasi sileäksi ja tarjoile heti."
+    ],
+    "notes": ["Pidä lämpö maltillisena, jotta voi ei sula öljyksi."]
+  },
+  {
+    "id": "kg-biang-biang-noodles",
+    "title": "Biang biang -nuudelit",
+    "description": "Shaanxilaiset leveät käsin venytetyt vyönuudelit chiliöljykastikkeella.",
+    "servings": 3,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nuudelit"],
+    "ingredients": [
+      "300 g durumvehnäjauhoja tai vahvaa vehnäjauhoa",
+      "1,6 dl vettä",
+      "½ tl suolaa",
+      "4 rkl chiliöljyä",
+      "3 rkl soijakastiketta",
+      "2 rkl mustaa riisietikkaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 pak choita, ryöpättynä",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Sekoita jauhot, suola ja vesi ja vaivaa sileäksi taikinaksi. Anna levätä 30 minuuttia.",
+      "Jaa taikina paloiksi, kauli ne soikioiksi ja venytä ja läimäytä pöytää vasten leveiksi nauhoiksi.",
+      "Keitä nuudeleita kiehuvassa vedessä, kunnes ne ovat kypsiä mutta sitkoisia.",
+      "Sekoita chiliöljy, soijakastike, etikka ja valkosipuli.",
+      "Sekoita nuudelit kastikkeeseen ja tarjoile pak choin ja kevätsipulin kanssa."
+    ]
+  },
+  {
+    "id": "kg-blue-cheese-dressing",
+    "title": "Sinihomejuustokastike",
+    "description": "Klassinen dippi buffalosiiville, sopii myös jäävuorisalaatille.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "100 g sinihomejuustoa, murusteltuna",
+      "1¼ dl majoneesia",
+      "½ dl kermaviiliä",
+      "2 rkl piimää",
+      "1 rkl valkoviinietikkaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Survo puolet juustosta majoneesin ja kermaviilin joukkoon lähes tasaiseksi.",
+      "Vatkaa joukkoon piimä ja etikka.",
+      "Kääntele joukkoon loput juustomurut.",
+      "Mausta suolalla ja pippurilla ja anna jäähtyä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-blue-cheese-gnocchi-bake",
+    "title": "Sinihomejuusto-gnocchivuoka parsakaalilla",
+    "description": "Gnocchit ja parsakaali uunissa juustoisessa kastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "400 g parsakaalia",
+      "200 g kevyttä tuorejuustoa",
+      "1 dl rasvatonta maitoa",
+      "50 g sinihomejuustoa (esim. stilton)",
+      "500 g gnocchia",
+      "20 g parmesaania, raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen (kiertoilma 180). Keitä parsakaalia kiehuvassa vedessä 4–5 minuuttia, kunnes se on juuri kypsää.",
+      "Sekoita tuorejuusto, maito ja sinihomejuusto kulhossa ja mausta reilusti mustapippurilla.",
+      "Nosta parsakaali reikäkauhalla pois (säästä vesi). Keitä gnocchit samassa vedessä pakkauksen ohjeen mukaan ja valuta.",
+      "Laita gnocchit ja parsakaali uunivuokaan. Kaada päälle juustoseos ja sekoita. Ripottele pinnalle parmesaani.",
+      "Paista 15–20 minuuttia, kunnes pinta kuplii ja on kullanruskea."
+    ]
+  },
+  {
+    "id": "kg-braised-red-cabbage",
+    "title": "Haudutettu punakaali",
+    "description": "Makeanhapan punakaali, joka sopii paistin kanssa ja jouluruokiin.",
+    "servings": 6,
+    "totalTimeMin": 130,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "joulu", "gluteeniton"],
+    "ingredients": [
+      "1 punakaali (n. 1 kg)",
+      "1 punasipuli",
+      "100 g fariinisokeria",
+      "1 dl omenaviinietikkaa",
+      "1½ dl punaviiniä",
+      "25 g voita",
+      "1 kanelitanko",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa kaali neljään osaan ja poista kanta. Suikaloi monitoimikoneella tai veitsellä. Kuori ja viipaloi sipuli.",
+      "Laita kaali ja sipuli isoon kattilaan muiden ainesten kanssa. Mausta ja kuumenna hiljalleen kiehuvaksi. Hauduta kannen alla noin 90 minuuttia, poista kansi ja hauduta vielä noin 30 minuuttia, kunnes kaali on pehmeää."
+    ],
+    "notes": ["Alkuperäisen 2 annosta ja 12 minuuttia eivät vastaa ohjetta; annosmäärä ja aika on korjattu."]
+  },
+  {
+    "id": "kg-broad-bean-sauce",
+    "title": "Härkäpapukastike",
+    "description": "Nuorista härkäpavuista paloiteltuina tehty pehmeä kasviskastike riisin, kuskusin tai pastan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "arkiruoka", "palkokasvit"],
+    "ingredients": [
+      "500 g nuoria härkäpapuja paloineen, säikeet poistettuna, 2–3 cm:n paloina",
+      "1 keskikokoinen sipuli, ohuina viipaleina",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "ripaus jauhettua korianteria",
+      "suolaa",
+      "mustapippuria",
+      "maustamatonta jogurttia tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy leveässä pannussa keskilämmöllä ja kuullota sipulia 4–5 minuuttia. Lisää valkosipuli ja kuullota minuutti.",
+      "Lisää pavut, korianteri, suola ja pippuri. Hauduta kannen alla miedolla lämmöllä 5–8 minuuttia välillä sekoittaen, kunnes pavut ovat pehmeitä ja seoksesta on tullut löysä kastike.",
+      "Tarkista maku. Tarjoile kuumana riisin, kuskusin tai pastan kanssa, halutessasi jogurttinokareen kera."
+    ]
+  },
+  {
+    "id": "kg-broccoli-parmesan-soup",
+    "title": "Parsakaali-parmesaanikeitto",
+    "description": "Sileä parsakaalikeitto purjolla ja parmesaanilla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "arkiruoka"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 purjo, viipaloituna",
+      "1 peruna, kuutioituna",
+      "500 g parsakaalin kukintoja",
+      "7½ dl kasvislientä",
+      "1 dl maitoa",
+      "40 g parmesaania, raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota purjoa öljyssä pehmeäksi.",
+      "Lisää peruna, parsakaali ja liemi.",
+      "Keitä, kunnes kasvikset ovat pehmeitä.",
+      "Soseuta sileäksi ja sekoita joukkoon maito ja parmesaani.",
+      "Mausta reilusti pippurilla."
+    ],
+    "notes": ["Tilkka sitruunamehua tasapainottaa makua."]
+  },
+  {
+    "id": "kg-brown-rice-and-black-bean-bowl",
+    "title": "Tumma riisi ja mustapapukulho",
+    "description": "Täysipainoinen kasvisateria riisistä, pavuista, maissista ja avokadosta.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kulho", "riisi", "meksikolainen"],
+    "ingredients": [
+      "200 g tummaa riisiä",
+      "400 g mustapapuja, valutettuna",
+      "1 tl juustokuminaa",
+      "1 maissintähkä (tai 1½ dl maissinjyviä)",
+      "1 avokado",
+      "1 limetti",
+      "tuoretta korianteria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen mukaan.",
+      "Lämmitä pavut juustokuminan ja suolan kanssa.",
+      "Irrota maissinjyvät tähkästä ja viipaloi avokado.",
+      "Kokoa kulhot riisistä, pavuista, maissista ja avokadosta. Viimeistele limettimehulla ja korianterilla."
+    ]
+  },
+  {
+    "id": "kg-buffalo-chicken-wraps",
+    "title": "Buffalokana-wrapit",
+    "description": "Tulisella buffalokastikkeella maustettua grillikanaa tortillassa salaatin, juuston ja ranch-kastikkeen kanssa.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["kana", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "½ grillattu broileri (n. 500 g lihaa)",
+      "¾ dl buffalokastiketta (esim. Frank's RedHot)",
+      "6 isoa vehnätortillaa",
+      "5 dl jäävuorisalaattia tai roomansalaattia, suikaloituna",
+      "2½ dl juustoraastetta",
+      "2 vartta varsiselleriä, pieninä kuutioina",
+      "1 avokado, viipaloituna",
+      "ranch-kastiketta"
+    ],
+    "instructions": [
+      "Irrota noin puolet grillibroilerin lihasta ja revi se kahdella haarukalla.",
+      "Sekoita kana ja buffalokastike kulhossa. Aloita ½ dl:lla ja lisää, jos haluat tulisempaa.",
+      "Lämmitä tortillat pinossa kahden kostean talouspaperin välissä mikrossa 20–30 sekuntia, jotta ne taipuvat halkeilematta.",
+      "Levitä tortillan keskelle raita salaattia jättäen reunoille noin 5 cm tyhjää.",
+      "Lisää päälle kanaa, juustoa, selleriä ja avokadoviipaleita ja valuta päälle reilusti ranch-kastiketta.",
+      "Taita sivut sisään ja kääri tiukaksi rullaksi alhaalta ylöspäin. Halkaise halutessasi vinosti."
+    ]
+  },
+  {
+    "id": "kg-bulgogi-noodle-bowl",
+    "title": "Bulgogi-nuudelikulho",
+    "description": "Korealaistyylinen marinoitu naudanliha lasinuudeleiden ja vihannesten kanssa.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "nuudelit", "kulho"],
+    "ingredients": [
+      "250 g naudan sisäpaistia, ohuina viipaleina",
+      "2 rkl soijakastiketta",
+      "1 rkl sokeria",
+      "1 rkl seesamiöljyä",
+      "300 g bataattilasinuudeleita",
+      "100 g pinaattia",
+      "1 porkkana, suikaloituna",
+      "1 rkl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Marinoi lihaa soijakastikkeen, sokerin ja seesamiöljyn seoksessa 15 minuuttia.",
+      "Paista liha kuumalla pannulla karamellisoituneeksi.",
+      "Keitä nuudelit ja valuta.",
+      "Ryöppää pinaatti ja porkkana.",
+      "Sekoita nuudelit, vihannekset ja liha ja viimeistele seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-burmese-mohinga-fish-noodle-soup",
+    "title": "Mohinga – burmalainen kalanuudelikeitto",
+    "description": "Myanmarin kansallisruoka: sitruunaruoholla ja kurkumalla maustettu kalakeitto riisinuudeleilla.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["kala", "keitto", "aasialainen"],
+    "ingredients": [
+      "300 g monnifileetä tai muuta vaaleaa kalaa",
+      "1,5 l vettä",
+      "2 sitruunaruohon vartta, murskattuna",
+      "1 rkl kurkumaa",
+      "2 rkl riisijauhoja",
+      "200 g riisinuudeleita",
+      "200 g kaalia, suikaloituna (tai banaanipuun vartta)",
+      "4 kovaksi keitettyä kananmunaa",
+      "rapeita kikhernepakoroita tarjoiluun",
+      "2 rkl kalakastiketta",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Keitä kalaa vedessä sitruunaruohon ja kurkuman kanssa, kunnes se on kypsää. Nosta kala pois ja revi lihaksi.",
+      "Sekoita riisijauhot tilkkaan kylmää vettä ja suurusta liemi. Palauta kala keittoon.",
+      "Kypsennä nuudelit kuumassa vedessä ja valuta.",
+      "Kokoa kulhoihin nuudelit, kaali ja kalaliemi. Lisää puolitetut kananmunat.",
+      "Viimeistele pakoroilla, kalakastikkeella ja limetillä."
+    ]
+  },
+  {
+    "id": "kg-burnt-garlic-dal",
+    "title": "Paahdetun valkosipulin dal",
+    "description": "Savuinen, valkosipulipainotteinen keltaherne-dal.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja kyyhkyherneitä (toor dal)",
+      "½ tl kurkumaa",
+      "3 rkl rypsiöljyä",
+      "8 valkosipulinkynttä, ohuina viipaleina",
+      "1 tl juustokuminaa (kokonaisena)",
+      "2 kuivattua punaista chiliä",
+      "tuoretta korianteria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman kanssa vedessä pehmeäksi ja kermaiseksi. Mausta suolalla.",
+      "Paista valkosipuliviipaleita öljyssä syvän kullanruskeiksi ja rapeiksi.",
+      "Nosta puolet valkosipulista sivuun. Lisää öljyyn juustokumina ja chilit.",
+      "Kaada mausteöljy dalin päälle.",
+      "Viimeistele loppujen rapeiden valkosipulien ja korianterin kanssa."
+    ],
+    "notes": ["Toor dalin voi korvata keltaisilla halkaistuilla herneillä tai punaisilla linsseillä."]
+  },
+  {
+    "id": "kg-butter-bean-tomato-basil-stew",
+    "title": "Voipapu-tomaattipata basilikalla",
+    "description": "Nopea tomaattinen papupata, joka sopii paahdetun hapanjuurileivän kanssa.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "pataruoka", "nopea", "palkokasvit"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "800 g tomaattimurskaa",
+      "400 g voipapuja, valutettuna",
+      "1 tl chilihiutaleita",
+      "20 g tuoretta basilikaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuullota sipulia ja valkosipulia öljyssä, kunnes ne ovat pehmeitä ja makeita.",
+      "Lisää tomaatit, pavut ja chili.",
+      "Hauduta 15 minuuttia, kunnes pata on sakeaa. Mausta suolalla.",
+      "Sekoita joukkoon basilika juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-butternut-squash-soup",
+    "title": "Paahdettu myskikurpitsakeitto",
+    "description": "Sileä, kermainen keitto uunissa paahdetusta myskikurpitsasta.",
+    "servings": 6,
+    "totalTimeMin": 55,
+    "category": "Keitot",
+    "tags": ["keitto", "gluteeniton", "syksy"],
+    "ingredients": [
+      "1 kg myskikurpitsaa, kuorittuna ja kuutioituna",
+      "2 rkl oliiviöljyä",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "2 rkl voita",
+      "1 iso keltasipuli, kuutioituna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 l kanalientä",
+      "1¼ dl kuohukermaa",
+      "¼ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Sekoita kurpitsakuutiot öljyyn, suolaan ja pippuriin uunipellillä.",
+      "Paahda 25–30 minuuttia, kunnes kurpitsa on pehmeää ja reunoilta karamellisoitunutta.",
+      "Sulata voi sillä välin isossa kattilassa keskilämmöllä. Kuullota sipulia 5 minuuttia, lisää valkosipuli ja kuullota vielä minuutti.",
+      "Lisää paahdettu kurpitsa ja liemi. Kuumenna kiehuvaksi ja keitä 5 minuuttia.",
+      "Soseuta keitto sauvasekoittimella täysin sileäksi.",
+      "Sekoita joukkoon kerma ja muskottipähkinä. Tarkista suola ja pippuri.",
+      "Tarjoile kuumana, halutessasi tilkka kermaa pinnalla."
+    ]
+  },
+  {
+    "id": "kg-cabbage-and-apple-slaw",
+    "title": "Kaali-omenasalaatti",
+    "description": "Rapea ja edullinen valkokaalisalaatti.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "arkiruoka"],
+    "ingredients": [
+      "400 g valkokaalia, suikaloituna",
+      "1 omena, suikaloituna",
+      "1 porkkana, raastettuna",
+      "2 rkl omenaviinietikkaa",
+      "1 rkl oliiviöljyä",
+      "1 tl hunajaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Yhdistä kaali, omena ja porkkana.",
+      "Vatkaa etikka, öljy, hunaja ja suola.",
+      "Sekoita kastike salaattiin ja anna maustua 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-caesar-dressing",
+    "title": "Caesar-kastike",
+    "description": "Ravintolatyylinen kastike klassiseen Caesar-salaattiin, joka keksittiin Tijuanassa 1920-luvulla.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kala", "amerikkalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 anjovista, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 keltuainen",
+      "1 tl dijonsinappia",
+      "2 rkl sitruunamehua",
+      "1,2 dl oliiviöljyä",
+      "30 g parmesaania, raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Survo anjovis ja valkosipuli kulhossa tahnaksi.",
+      "Vatkaa joukkoon keltuainen, sinappi ja sitruunamehu.",
+      "Lisää öljy ohuena nauhana koko ajan vatkaten, kunnes kastike emulgoituu.",
+      "Sekoita joukkoon parmesaani ja mustapippuri.",
+      "Sekoita heti roomansalaatin ja krutonkien kanssa."
+    ]
+  },
+  {
+    "id": "kg-calentita-chickpea-flour-bake",
+    "title": "Calentita – uunissa paistettu kikhernejauholeivos",
+    "description": "Gibraltarin kansallisruoka: ohut, uunissa paistettu kikhernejauholätty.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "gluteeniton", "uuniruoka"],
+    "ingredients": [
+      "250 g kikhernejauhoja",
+      "1 l vettä",
+      "1 tl suolaa",
+      "mustapippuria",
+      "3 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Vatkaa kikhernejauhot, vesi, suola ja pippuri sileäksi. Anna levätä peitettynä vähintään tunti, mieluiten yön yli. Vatkaa uudelleen ennen paistamista.",
+      "Kuumenna uuni 175 asteeseen. Kaada ohut kerros öljyä noin 23 x 15 cm:n vuokaan ja kuumenna vuoka uunissa. Levitä kuuma öljy myös reunoille.",
+      "Kaada taikina kuumaan vuokaan ja paista noin 55–65 minuuttia, kunnes keskikohta on hyytynyt ja pinta kevyesti kullanruskea.",
+      "Anna jäähtyä hetki, leikkaa paloiksi ja tarjoile lämpimänä mustapippurilla viimeisteltynä."
+    ]
+  },
+  {
+    "id": "kg-caprese-salad",
+    "title": "Caprese-salaatti",
+    "description": "Italialainen tomaatti-mozzarellasalaatti basilikalla.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kasvis", "italialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "250 g tuoretta mozzarellaa",
+      "6–8 roma-tomaattia",
+      "1 ruukku basilikaa",
+      "3 rkl ekstra-neitsytoliiviöljyä",
+      "1–2 rkl balsamietikkaa",
+      "½ tl sormisuolaa",
+      "¼ tl vastarouhittua mustapippuria"
+    ],
+    "instructions": [
+      "Viipaloi mozzarella ja tomaatit noin ½ cm:n viipaleiksi.",
+      "Asettele tomaatti- ja mozzarellaviipaleet vuorotellen vadille hieman limittäin. Lisää kokonaisia basilikanlehtiä viipaleiden väliin.",
+      "Valuta päälle reilusti oliiviöljyä.",
+      "Valuta päälle balsamietikkaa tai tarjoile se erikseen.",
+      "Viimeistele sormisuolalla ja mustapippurilla. Tarjoile heti huoneenlämpöisenä."
+    ]
+  }
+]

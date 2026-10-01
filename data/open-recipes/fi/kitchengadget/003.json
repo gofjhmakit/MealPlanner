@@ -1,0 +1,651 @@
+[
+  {
+    "id": "kg-chinese-chicken-cucumber-salad",
+    "title": "Kiinalainen kana-kurkkusalaatti",
+    "description": "Bang bang ji -henkinen salaatti haudutetusta broilerista, kurkusta ja chiliöljystä.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["kana", "kiinalainen", "nopea", "salaatti"],
+    "ingredients": [
+      "300 g broilerin rintafileetä, haudutettuna ja revittynä",
+      "2 kurkkua, suikaloituna",
+      "½ tl suolaa",
+      "2 rkl mustaa riisietikkaa",
+      "1 rkl soijakastiketta",
+      "1 rkl chiliöljyä",
+      "1 kevätsipuli, viipaloituna",
+      "tuoretta korianteria",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Revi lämmin haudutettu kana.",
+      "Sekoita kurkkuihin suola, anna seistä hetki ja valuta neste pois.",
+      "Vatkaa etikka, soijakastike ja chiliöljy.",
+      "Sekoita kana ja kurkku kastikkeeseen.",
+      "Viimeistele kevätsipulilla, korianterilla ja seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-chinese-chili-oil-homemade",
+    "title": "Kotitekoinen kiinalainen chiliöljy",
+    "description": "Tuoksuva sichuanilainen chiliöljy nuudeleille, nyyteille ja salaateille.",
+    "servings": 12,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kiinalainen", "mauste"],
+    "ingredients": [
+      "1 dl rypsiöljyä",
+      "4 tähtianista",
+      "4 valkosipulinkynttä, viipaloituna",
+      "2 cm pala inkivääriä, viipaloituna",
+      "3 rkl chilihiutaleita",
+      "1 rkl sichuaninpippuria",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljyssä tähtianis, valkosipuli ja inkivääri, kunnes valkosipuli on kullanruskeaa. Poista kiinteät ainekset.",
+      "Laita chilihiutaleet ja sichuaninpippurit lämmönkestävään kulhoon ja kaada kuuma öljy niiden päälle.",
+      "Sekoita joukkoon suola.",
+      "Anna jäähtyä kokonaan.",
+      "Säilytä purkissa huoneenlämmössä enintään kuukausi."
+    ]
+  },
+  {
+    "id": "kg-chinese-dry-fried-green-beans",
+    "title": "Kiinalaiset kuivapaistetut vihreät pavut",
+    "description": "Sichuanilainen gan bian si ji dou: kovalla lämmöllä rypyttyneiksi paistetut pavut.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kiinalainen", "lisuke"],
+    "ingredients": [
+      "400 g vihreitä papuja, kannat poistettuna",
+      "2 rkl rypsiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 kuivattua chiliä",
+      "3 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "1 tl sokeria"
+    ],
+    "instructions": [
+      "Paista pavut kuumassa öljyssä, kunnes ne rypistyvät ja saavat paahdepilkkuja.",
+      "Lisää valkosipuli ja chilit ja paista minuutti.",
+      "Lisää soijakastike, etikka ja sokeri.",
+      "Sekoittele, kunnes pavut ovat kiiltävän kuorrutteen peitossa.",
+      "Tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "kg-chinese-egg-drop-soup",
+    "title": "Kiinalainen munakukkakeitto",
+    "description": "Silkkinen klassikko, jossa kananmuna valutetaan kuumaan liemeen ohuiksi hahtuviksi.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["kiinalainen", "keitto", "nopea", "kananmuna"],
+    "ingredients": [
+      "1 l kanalientä",
+      "1 rkl maissitärkkelystä + 2 rkl vettä",
+      "3 kananmunaa, vatkattuna",
+      "1 tl seesamiöljyä",
+      "valkopippuria",
+      "suolaa",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Kuumenna liemi hiljalleen kiehuvaksi.",
+      "Sekoita maissitärkkelys veteen ja suurusta liemi kevyesti.",
+      "Sekoita keittoa ympyrää pitkin ja valuta munat ohuena nauhana liemeen.",
+      "Sammuta lämpö ja lisää seesamiöljy, valkopippuri ja tarvittaessa suolaa.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-chinese-hot-and-sour-soup",
+    "title": "Kiinalainen hapanimelä-tulinen keitto (hot and sour)",
+    "description": "Sichuanilaistyylinen ravintolakeitto tofulla ja mustilla korvasienillä.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["kiinalainen", "keitto", "tofu"],
+    "ingredients": [
+      "1 l kanalientä",
+      "100 g tofua, suikaleina",
+      "50 g kuivattuja mustia korvasieniä (puunkorvasieniä), liotettuna ja suikaloituna",
+      "3 rkl mustaa riisietikkaa",
+      "2 rkl soijakastiketta",
+      "½ tl valkopippuria",
+      "1 rkl maissitärkkelystä + 2 rkl vettä",
+      "2 kananmunaa, vatkattuna",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Hauduta sieniä ja tofua liemessä muutama minuutti.",
+      "Mausta etikalla, soijakastikkeella ja valkopippurilla.",
+      "Suurusta kevyesti veteen sekoitetulla maissitärkkelyksellä.",
+      "Valuta vatkatut munat ohuena nauhana keittoon.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-chinese-scallion-pancakes",
+    "title": "Kiinalaiset kevätsipulilätyt",
+    "description": "Rapeat, kerroksiset kevätsipulilla täytetyt rieskat.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kiinalainen", "leipä"],
+    "ingredients": [
+      "300 g vehnäjauhoja",
+      "1,8 dl kuumaa vettä",
+      "2 rkl seesamiöljyä",
+      "4 kevätsipulia, viipaloituna",
+      "suolaa",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Vaivaa jauhot ja kuuma vesi pehmeäksi taikinaksi. Anna levätä 20 minuuttia.",
+      "Jaa taikina neljään osaan. Kauli ohueksi, sivele seesamiöljyllä ja ripottele päälle kevätsipulia ja suolaa.",
+      "Kääri rullaksi, kierrä rulla etanaksi ja kauli uudelleen litteäksi.",
+      "Paista pannulla öljyssä kullanruskeiksi ja rapeiksi.",
+      "Leikkaa lohkoiksi."
+    ]
+  },
+  {
+    "id": "kg-chinese-smashed-cucumber-salad",
+    "title": "Kiinalainen murskattu kurkkusalaatti",
+    "description": "Sichuanilaistyylinen kurkkusalaatti valkosipulilla ja chiliöljyllä.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "kiinalainen", "nopea", "salaatti"],
+    "ingredients": [
+      "1 kurkku (tai 4 minikurkkua)",
+      "½ tl suolaa",
+      "3 rkl soijakastiketta",
+      "2 rkl mustaa riisietikkaa",
+      "2 rkl chiliöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 kevätsipuli, viipaloituna",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Murskaa kurkut kaulimella ja leikkaa paloiksi.",
+      "Suolaa kevyesti, anna seistä 10 minuuttia ja valuta.",
+      "Vatkaa soijakastike, etikka ja chiliöljy.",
+      "Sekoita kurkut valkosipulin ja kastikkeen kanssa.",
+      "Viimeistele kevätsipulilla ja korianterilla."
+    ]
+  },
+  {
+    "id": "kg-chinese-steamed-eggplant-with-garlic",
+    "title": "Kiinalainen höyrytetty munakoiso valkosipulilla",
+    "description": "Silkinpehmeä höyrytetty munakoiso, jonka päälle kaadetaan kuuma kastike.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kiinalainen", "lisuke"],
+    "ingredients": [
+      "2 munakoisoa, viipaloituna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "1 rkl chiliöljyä",
+      "1 kevätsipuli, viipaloituna",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Höyrytä munakoisoviipaleita noin 10 minuuttia pehmeiksi.",
+      "Kuumenna soijakastike, etikka ja chiliöljy pienessä kattilassa.",
+      "Ripottele raaka valkosipuli munakoison päälle.",
+      "Kaada kuuma kastike päälle, jolloin valkosipulin maku pehmenee.",
+      "Viimeistele kevätsipulilla ja korianterilla."
+    ]
+  },
+  {
+    "id": "kg-chinese-sweet-soy-dressing",
+    "title": "Kiinalainen makea soijakastike",
+    "description": "Makeansuolainen kastike kylmille nuudeleille ja salaateille.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kiinalainen", "nopea"],
+    "ingredients": [
+      "3 rkl soijakastiketta",
+      "2 rkl hoisinkastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 tl sokeria",
+      "1 tl raastettua inkivääriä"
+    ],
+    "instructions": [
+      "Vatkaa kaikki ainekset tasaiseksi.",
+      "Lämmitä varovasti, kunnes sokeri liukenee.",
+      "Anna jäähtyä ennen käyttöä.",
+      "Valuta kylmien nuudeleiden tai salaattien päälle.",
+      "Säilyy jääkaapissa viikon."
+    ]
+  },
+  {
+    "id": "kg-chinese-tea-eggs",
+    "title": "Kiinalaiset teekananmunat",
+    "description": "Mausteisessa teeliemessä haudutetut marmorikuvioiset kananmunat.",
+    "servings": 6,
+    "totalTimeMin": 105,
+    "category": "Välipalat",
+    "tags": ["kasvis", "kiinalainen", "kananmuna"],
+    "ingredients": [
+      "6 kananmunaa",
+      "1 l vettä",
+      "3 rkl soijakastiketta",
+      "2 tähtianista",
+      "1 kanelitanko",
+      "2 rkl mustaa irtoteetä",
+      "1 tl sichuaninpippuria"
+    ],
+    "instructions": [
+      "Keitä munat koviksi. Napauttele kuoret varovasti rikki joka puolelta kuorimatta.",
+      "Kuumenna vesi, soijakastike, mausteet ja tee kiehuvaksi.",
+      "Lisää munat ja hauduta 30 minuuttia.",
+      "Nosta liedeltä ja anna munien hautua liemessä vähintään tunti.",
+      "Kuori munat, jolloin marmorikuvio paljastuu."
+    ]
+  },
+  {
+    "id": "kg-chinese-tomato-egg-noodles",
+    "title": "Kiinalaiset tomaatti-munanuudelit",
+    "description": "Kotoisa arkiruoka: nuudelit tomaattikastikkeessa ja munakokkelia.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "kiinalainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "300 g tuoreita vehnänuudeleita",
+      "2 rkl rypsiöljyä",
+      "3 kananmunaa, vatkattuna",
+      "3 tomaattia, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl ketsuppia",
+      "1 rkl sokeria",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Paista munat öljyssä kokkeliksi ja nosta sivuun.",
+      "Kypsennä tomaatteja ja valkosipulia, kunnes niistä tulee kastike.",
+      "Lisää ketsuppi, sokeri ja tilkka vettä.",
+      "Keitä nuudelit ja sekoita ne tomaattikastikkeeseen.",
+      "Kääntele joukkoon munakokkeli ja kevätsipuli."
+    ]
+  },
+  {
+    "id": "kg-chinese-wood-ear-mushroom-salad",
+    "title": "Kiinalainen korvasienisalaatti",
+    "description": "Rapea sichuanilainen salaatti mustista korvasienistä ja kurkusta.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "kiinalainen", "salaatti"],
+    "ingredients": [
+      "50 g kuivattuja mustia korvasieniä (puunkorvasieniä)",
+      "1 kurkku, suikaloituna",
+      "2 rkl mustaa riisietikkaa",
+      "1 rkl soijakastiketta",
+      "1 rkl chiliöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Liota sieniä vedessä, kunnes ne ovat pehmenneet. Ryöppää 2 minuuttia ja suikaloi.",
+      "Sekoita sienet ja kurkku.",
+      "Vatkaa etikka, soijakastike ja chiliöljy.",
+      "Lisää valkosipuli ja kastike.",
+      "Viimeistele korianterilla."
+    ],
+    "notes": ["Huom! Suomalainen korvasieni (Gyromitra) on eri sieni ja myrkyllinen raakana – käytä aasialaisia mustia puunkorvasieniä (wood ear, mu-err)."]
+  },
+  {
+    "id": "kg-chipotle-mayo",
+    "title": "Chipotlemajoneesi",
+    "description": "Savuinen ja tulinen majoneesi tacoille, hampurilaisille ja ranskalaisille.",
+    "servings": 8,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "1 rkl chipotle-chiliä adobokastikkeessa, hienonnettuna",
+      "1 tl adobokastiketta",
+      "1 tl limettimehua",
+      "ripaus valkosipulijauhetta"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset kulhossa tasaiseksi.",
+      "Maista ja lisää chipotlea, jos haluat tulisempaa.",
+      "Anna jäähtyä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-chocolate-and-crisp-tart",
+    "title": "Suklaatorttu sipsipohjalla",
+    "description": "Nadiya Hussainin reseptiin pohjautuva täyteläinen suklaatorttu, jonka pohja tehdään murskatuista sipseistä.",
+    "servings": 12,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "juhla", "leivonnainen"],
+    "ingredients": [
+      "Pohja:",
+      "250 g paksuja, suolattuja perunalastuja",
+      "100 g voita",
+      "4 rkl vaaleaa siirappia",
+      "Täyte:",
+      "150 g voita",
+      "400 g tummaa suklaata",
+      "3 kananmunaa",
+      "3 kananmunan keltuaista",
+      "150 g sokeria",
+      "150 g paahdettuja suolapähkinöitä, karkeasti hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 160 asteeseen ja voitele piirakkavuoka.",
+      "Murskaa sipsit monitoimikoneessa karkeiksi muruiksi. Sulata voi pienessä kattilassa ja lisää siirappi. Sekoita sipsimurujen joukkoon.",
+      "Painele seos vuokaan tasaiseksi kerrokseksi myös reunoille. Peitä leivinpaperilla, täytä paistopainoilla ja paista noin 10 minuuttia. Poista paperi ja painot.",
+      "Sulata voi ja suklaa vesihauteessa varovasti sekoittaen. Anna jäähtyä hieman.",
+      "Vatkaa munat, keltuaiset ja sokeri isossa kulhossa, kunnes seos alkaa paksuuntua. Kaada joukkoon suklaaseos ja sekoita tasaiseksi. Lisää puolet pähkinöistä.",
+      "Kaada täyte pohjaan ja ripottele pinnalle loput pähkinät. Paista 20–25 minuuttia, kunnes täyte on hyytynyt mutta keskeltä vielä hieman hyllyvä. Jäähdytä ritilällä ja sitten jääkaapissa noin 4 tuntia.",
+      "Irrota torttu vuoasta ja tarjoile – hyvin pieninä paloina!"
+    ]
+  },
+  {
+    "id": "kg-chorizo-dry-cured-5-kg-batch",
+    "skip": "kuivattu ja suolattu makkara 5 kg:n erä vaatii nitriittisuolaa, makkaratarvikkeet ja kosteussäädellyn kuivatustilan; ei sovellu kotiruoan ateriasuunnitteluun"
+  },
+  {
+    "id": "kg-choucroute-garnie-lalsacienne",
+    "title": "Choucroute garnie – elsassilainen hapankaali ja lihat",
+    "description": "Valkoviinissä uunissa haudutettua hapankaalia, possua, makkaroita ja perunoita.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "ranskalainen", "uuniruoka", "pataruoka", "juhla"],
+    "ingredients": [
+      "Hapankaali:",
+      "1 kg hapankaalia, valutettuna",
+      "1 dl rypsiöljyä, laardia tai hanhenrasvaa",
+      "1 sipuli",
+      "2½ dl kuivaa valkoviiniä (esim. riesling)",
+      "1¼ dl kanalientä",
+      "2 valkosipulinkynttä",
+      "10 katajanmarjaa",
+      "2 neilikkaa",
+      "½ tl kuminaa",
+      "2 laakerinlehteä",
+      "30 ml kirsikkaviinaa (kirsch, valinnainen)",
+      "Lihat:",
+      "500 g porsaan ulkofileetä",
+      "400 g savustettua porsaan kylkeä",
+      "4 strasbourginmakkaraa tai nakkimakkaraa",
+      "suolaa",
+      "Lisäksi:",
+      "3 pientä perunaa"
+    ],
+    "instructions": [
+      "Suolaa porsaan ulkofilee jopa vuorokautta aiemmin ja säilytä jääkaapissa peittämättä.",
+      "Viipaloi sipuli ohuiksi. Murskaa valkosipulinkynnet kevyesti ja sido ne harsokankaaseen katajanmarjojen, neilikoiden, kuminan ja laakerinlehtien kanssa maustepussiksi.",
+      "Kuumenna uuni 120 asteeseen. Kuumenna kaksi kolmasosaa rasvasta valurautapadassa keskilämmöllä. Kuullota sipulia alle 10 minuuttia pehmeäksi, juuri ennen kuin se ruskistuu.",
+      "Lisää maustepussi, viini ja liemi. Upota savustettu kylki nesteeseen.",
+      "Leikkaa leivinpaperista kiekko ja aseta se suoraan padan sisällön päälle. Kypsennä uunissa noin 90 minuuttia.",
+      "Paista ulkofilee samaan aikaan uunissa toisella ritilällä kypsäksi (sisälämpö noin 65 astetta). Nosta sivuun.",
+      "Kuori ja puolita perunat ja keitä suolalla maustetussa vedessä kypsiksi.",
+      "Purista hapankaalista ylimääräinen neste. Kun pata on ollut uunissa 90 minuuttia, sekoita joukkoon hapankaali ja loput rasvasta. Peitä paperilla, nosta uunin lämpö 150 asteeseen ja kypsennä noin tunti.",
+      "Hauduta makkaroita kuumassa vedessä noin 10 minuuttia.",
+      "Poista maustepussi ja sekoita halutessasi kirsch hapankaaliin. Asettele hapankaali vadille ja sen päälle viipaloidut lihat, makkarat ja perunat."
+    ],
+    "notes": ["Alkuperäisestä ainesluettelosta puuttuivat lihat; ne on lisätty kirjoittajan mainitsemista vaihtoehdoista. Lihoja voi vaihdella saatavuuden mukaan: ajatus on kypsentää jokainen liha omalla tavallaan ja lisätä se pataan, kun se on valmis.", "Itse tehty hapankaali on selvästi kaupan hapankaalia parempaa."]
+  },
+  {
+    "id": "kg-citrus-fennel-quinoa-salad",
+    "title": "Appelsiini-fenkoli-kvinoasalaatti",
+    "description": "Raikas kvinoasalaatti, joka sopii grillatun lohen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "180 g kvinoaa",
+      "1 fenkoli, ohuina viipaleina",
+      "2 appelsiinia, lohkoina",
+      "60 g babypinaattia",
+      "40 g paahdettuja manteleita",
+      "30 g fetajuustoa",
+      "2 rkl oliiviöljyä",
+      "1 rkl sitruunamehua",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä kvinoa kypsäksi ja anna jäähtyä hieman.",
+      "Vatkaa oliiviöljy ja sitruunamehu ripauksen suolaa kanssa.",
+      "Sekoita kvinoa, fenkoli, appelsiini, pinaatti ja mantelit kastikkeeseen.",
+      "Viimeistele fetalla ja mustapippurilla."
+    ]
+  },
+  {
+    "id": "kg-classic-bbq-sauce",
+    "title": "Klassinen BBQ-kastike",
+    "description": "Amerikkalainen makea, savuinen ja kirpeä kastike ribseille, nyhtöpossulle ja grillikanalle.",
+    "servings": 10,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "amerikkalainen", "grilli", "gluteeniton"],
+    "ingredients": [
+      "2½ dl ketsuppia",
+      "½ dl omenaviinietikkaa",
+      "½ dl fariinisokeria",
+      "2 rkl melassia tai tummaa siirappia",
+      "1 rkl worcestershirekastiketta",
+      "1 tl savupaprikajauhetta",
+      "1 tl valkosipulijauhetta",
+      "½ tl cayennepippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kattilaan.",
+      "Kuumenna keskilämmöllä kiehuvaksi.",
+      "Laske lämpöä ja hauduta 15 minuuttia välillä sekoittaen, kunnes kastike sakenee.",
+      "Anna jäähtyä ennen käyttöä. Säilyy jääkaapissa kaksi viikkoa."
+    ],
+    "notes": ["Worcestershirekastike sisältää anjovista; vegaaninen versio löytyy kaupoista."]
+  },
+  {
+    "id": "kg-classic-chicken-chow-mein",
+    "title": "Kana chow mein",
+    "description": "Kantonilaistyyliset wokkinuudelit kanalla ja vihanneksilla.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "kiinalainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "400 g munanuudeleita",
+      "300 g broilerin rintafileetä, suikaleina",
+      "2 rkl rypsiöljyä",
+      "1 porkkana, suikaloituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 rkl osterikastiketta",
+      "2 rkl soijakastiketta",
+      "150 g idättämiä (mungpavun ituja)",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä nuudeleita 3 minuuttia, huuhtele ja valuta.",
+      "Paista kana öljyssä kypsäksi ja nosta sivuun.",
+      "Paista porkkanaa ja valkosipulia 2 minuuttia.",
+      "Lisää kana, nuudelit, osterikastike ja soijakastike.",
+      "Sekoita joukkoon idut ja kevätsipuli ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "kg-classic-chicken-noodle-soup",
+    "title": "Klassinen kana-nuudelikeitto",
+    "description": "Amerikkalainen kanakeitto munanuudeleilla, valmistettuna grillibroilerista.",
+    "servings": 8,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "arkiruoka", "amerikkalainen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 keskikokoinen keltasipuli, kuutioituna",
+      "2 porkkanaa, kuutioituna",
+      "2 vartta varsiselleriä, kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tl kuivattua timjamia",
+      "½ tl kuivattua rosmariinia",
+      "2 l kanalientä",
+      "2 laakerinlehteä",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "225 g leveitä munanuudeleita",
+      "1 grillattu broileri, revittynä",
+      "2 rkl tuoretta persiljaa, hienonnettuna",
+      "1 tl sitruunamehua (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Lisää sipuli, porkkanat ja selleri ja kuullota 5 minuuttia.",
+      "Lisää valkosipuli, timjami ja rosmariini ja sekoita 30 sekuntia.",
+      "Lisää liemi, laakerinlehdet, suola ja pippuri ja kuumenna kiehuvaksi.",
+      "Lisää nuudelit ja keitä 8–10 minuuttia kypsiksi.",
+      "Lisää revitty kana ja kuumenna 2–3 minuuttia.",
+      "Poista laakerinlehdet. Sekoita joukkoon persilja ja halutessasi sitruunamehu. Tarkista maku.",
+      "Tarjoile rapean leivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-classic-hummus",
+    "title": "Klassinen hummus",
+    "description": "Lähi-idän perusdippi kasvisten tai pitaleivän kanssa.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "lähi-itä", "nopea", "palkokasvit"],
+    "ingredients": [
+      "1 tlk (400 g) kikherneitä, valutettuna",
+      "3 rkl tahinia",
+      "2 valkosipulinkynttä",
+      "1 sitruuna, mehuna",
+      "1 tl juustokuminaa",
+      "suolaa",
+      "3 rkl oliiviöljyä",
+      "2–4 rkl kylmää vettä"
+    ],
+    "instructions": [
+      "Soseuta kikherneet, tahini, valkosipuli, sitruunamehu, juustokumina ja suola sileäksi.",
+      "Lisää oliiviöljy ja vesi ohuena nauhana, kunnes hummus on kermaista.",
+      "Tarkista maku ja tarjoile kasvisten tai pitaleivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-classic-smash-burgers",
+    "title": "Smash-burgerit",
+    "description": "Kuumalla pannulla ohueksi litistetyt, rapeapintaiset juustohampurilaiset.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "amerikkalainen", "grilli", "nopea"],
+    "ingredients": [
+      "900 g naudan jauhelihaa (rasvaa n. 20 %)",
+      "1 rkl worcestershirekastiketta (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "8 viipaletta vahvaa cheddarjuustoa",
+      "8 hampurilaissämpylää (esim. briossisämpylää)",
+      "Täytteet:",
+      "suolakurkkuviipaleita",
+      "salaatinlehtiä",
+      "tomaattiviipaleita",
+      "sipuliviipaleita",
+      "ketsuppia",
+      "sinappia"
+    ],
+    "instructions": [
+      "Sekoita halutessasi worcestershirekastike jauhelihaan. Jaa liha kahdeksaan noin 110 g:n palloon käsittelemättä sitä liikaa.",
+      "Kuumenna grilli tai valurautapannu todella kuumaksi.",
+      "Laita pallo pannulle ja litistä se heti tukevalla lastalla. Paina kerran voimakkaasti ja anna sitten olla.",
+      "Mausta pinta reilusti suolalla ja pippurilla, kun pohjaan muodostuu tumma kuori, noin 2–3 minuuttia.",
+      "Käännä pihvit ja nosta heti päälle juustoviipale. Paista vielä 1–2 minuuttia, kunnes juusto sulaa.",
+      "Paahda sämpylät leikkuupinta alaspäin noin 30 sekuntia – ne palavat nopeasti.",
+      "Kokoa: pohja, pihvi juustoineen, suolakurkku, sipuli, salaatti, tomaatti, ketsuppi, sinappi ja kansi."
+    ]
+  },
+  {
+    "id": "kg-classic-steak-sauce",
+    "title": "Pihvikastike",
+    "description": "Kirpeän makea pullotetun pihvikastikkeen tyylinen kastike. Parhaimmillaan päivän tekeytyneenä.",
+    "servings": 8,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["amerikkalainen", "grilli", "nopea"],
+    "ingredients": [
+      "1¼ dl ketsuppia",
+      "2 rkl worcestershirekastiketta",
+      "1 rkl dijonsinappia",
+      "1 rkl tummaa fariinisokeria",
+      "1 rkl mallasetikkaa tai omenaviinietikkaa",
+      "¼ tl maustepippuria (jauhettuna)",
+      "tilkka chilikastiketta (esim. tabasco)"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset pieneen kattilaan.",
+      "Vatkaa miedolla lämmöllä, kunnes sokeri liukenee.",
+      "Hauduta 8 minuuttia välillä sekoittaen, kunnes kastike sakenee hieman.",
+      "Anna jäähtyä ja säilytä purkissa jääkaapissa."
+    ]
+  },
+  {
+    "id": "kg-cocktail-sauce",
+    "title": "Cocktailkastike",
+    "description": "Amerikkalainen dippikastike katkarapucocktailille ja ostereille.",
+    "servings": 8,
+    "totalTimeMin": 35,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "amerikkalainen", "äyriäiset"],
+    "ingredients": [
+      "1¼ dl ketsuppia",
+      "2 rkl piparjuuritahnaa",
+      "1 rkl sitruunamehua",
+      "1 tl worcestershirekastiketta",
+      "tilkka chilikastiketta (esim. tabasco)"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset kulhossa tasaiseksi.",
+      "Maista ja säädä tulisuutta piparjuurella tai tulisella kastikkeella.",
+      "Anna jäähtyä vähintään 30 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-coconut-and-lime-chicken",
+    "title": "Kookos-limettikana",
+    "description": "Yksinkertaistettu thaimaalaistyylinen curry, alun perin kai Delia Smithin resepti.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "nopea", "arkiruoka"],
+    "ingredients": [
+      "2 broilerin rintafilettä",
+      "1 limetti",
+      "1 rkl oliiviöljyä",
+      "2 vihreää thaichiliä, hienonnettuna",
+      "2 dl kookosmaitoa",
+      "1 rkl kalakastiketta",
+      "10 g tuoretta korianteria",
+      "4 kevätsipulia",
+      "Tarjoiluun:",
+      "2 dl jasmiiniriisiä"
+    ],
+    "instructions": [
+      "Leikkaa kana suupaloiksi. Raasta limetin kuori, purista mehu ja sekoita kanan kanssa. Anna marinoitua pari tuntia (tai käytä heti).",
+      "Hienonna korianteri ja leikkaa kevätsipulit noin 3 cm:n suikaleiksi.",
+      "Kuumenna öljy wokissa ja paista kanaa 3–4 minuuttia kypsäksi ja kullanruskeaksi.",
+      "Lisää chili ja paista noin minuutti. Lisää kookosmaito, kalakastike sekä puolet korianterista ja kevätsipulista.",
+      "Kuumenna pari minuuttia ja tarjoile jasmiiniriisin kanssa loput kevätsipulit ja korianteri päällä."
+    ],
+    "notes": ["Riisin voi keittää osittain kookosmaidossa."]
+  }
+]

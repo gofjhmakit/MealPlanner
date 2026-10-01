@@ -120,6 +120,20 @@ export const recipeSchema = z.object({
   sourceUrl: httpUrl,
   sourceName: z.string().nullish(),
   author: z.string().nullish(),
+  /** Licence and credits for recipes from open datasets (shown on the recipe page). */
+  attribution: z
+    .object({
+      license: z.string(),
+      licenseUrl: httpUrl,
+      /** Title in the original language when the recipe was translated. */
+      originalTitle: z.string().nullish(),
+      /** What was changed from the original (required by CC BY-SA). */
+      changes: z.string().nullish(),
+      imageCredit: z.string().nullish(),
+      imageLicense: z.string().nullish(),
+      imageLicenseUrl: httpUrl,
+    })
+    .nullish(),
   sourceNutrition: sourceNutritionSchema.nullish(),
   importReport: importDiagnosticsSchema.nullish(),
   /** Whether the recipe is in the user's personal collection ("Omat reseptit"). */

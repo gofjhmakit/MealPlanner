@@ -1,0 +1,662 @@
+[
+  {
+    "id": "kg-honey-mustard",
+    "title": "Hunajasinappikastike",
+    "description": "Makeanhapan dippi kanasuikaleille, pretzeleille ja salaateille.",
+    "servings": 8,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "½ dl dijonsinappia",
+      "½ dl hunajaa",
+      "1 rkl majoneesia",
+      "1 tl omenaviinietikkaa",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Vatkaa sinappi ja hunaja tasaiseksi.",
+      "Sekoita joukkoon majoneesi ja etikka.",
+      "Mausta ripauksella suolaa.",
+      "Anna jäähtyä ennen tarjoilua dippinä tai salaatinkastikkeena."
+    ]
+  },
+  {
+    "id": "kg-horse-gram-dal-kollu",
+    "title": "Hevospapudal (kollu)",
+    "description": "Proteiinipitoinen eteläintialainen dal hevospavuista.",
+    "servings": 4,
+    "totalTimeMin": 290,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "200 g hevospapuja (horse gram, kulthi dal)",
+      "2 rkl kookosöljyä",
+      "1 tl sinapinsiemeniä",
+      "8 curryn lehteä",
+      "1 sipuli, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "½ tl kurkumaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota papuja 4 tuntia. Keitä ne painekattilassa tai kattilassa kypsiksi.",
+      "Kuumenna kookosöljy ja paista sinapinsiemenet ja curryn lehdet, kunnes siemenet poksahtelevat.",
+      "Kuullota sipuli ja valkosipuli pehmeiksi.",
+      "Lisää keitetyt pavut ja kurkuma ja hauduta 15 minuuttia.",
+      "Mausta suolalla ja tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-horseradish-cream",
+    "title": "Piparjuurikerma",
+    "description": "Klassinen englantilainen lisuke paahtopaistille.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "brittiläinen", "gluteeniton"],
+    "ingredients": [
+      "1½ dl kuohukermaa",
+      "3 rkl raastettua piparjuurta (tai piparjuuritahnaa)",
+      "1 tl dijonsinappia",
+      "1 tl valkoviinietikkaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa kerma pehmeäksi vaahdoksi.",
+      "Kääntele joukkoon piparjuuri, sinappi ja etikka.",
+      "Mausta suolalla ja pippurilla.",
+      "Anna jäähtyä vähintään 15 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-huli-huli-chicken",
+    "title": "Huli huli -kana",
+    "description": "Havaijilaistyylinen tahmea ananas-soijakana – sopii hyvin tacoihin ananassalsan kanssa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "havaijilainen", "nopea"],
+    "ingredients": [
+      "1,25 dl ananasmehua",
+      "125 g fariinisokeria",
+      "100 g ketsuppia",
+      "1 dl soijakastiketta",
+      "2 tl raastettua inkivääriä",
+      "2 tl hienonnettua valkosipulia",
+      "1 kg broilerin reisifileitä",
+      "1 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Sekoita kulhossa ananasmehu, fariinisokeri, ketsuppi, soijakastike, inkivääri ja valkosipuli. Ota puolet marinadista erilleen.",
+      "Leikkaa fileet kolmeen osaan ja sekoita loppuun marinadiin. Peitä ja marinoi jääkaapissa 30 minuuttia.",
+      "Kuumenna valurautapannu tai wokki keskilämmöllä ja lisää öljy. Paista kanaa 7–8 minuuttia kypsäksi ja lisää paistamisen aikana noin puolet erilleen otetusta marinadista. Kanan pitää olla tahmeaa ja kullanruskeaa ja kastikkeen alkaa sakeutua.",
+      "Nosta liedeltä ja tarjoile lopun marinadin kanssa."
+    ],
+    "notes": ["Kirjoittaja käyttää kanaa tacoihin tuoreesta ananaksesta, korianterista, tomaatista ja limettimehusta tehdyn salsan kanssa."]
+  },
+  {
+    "id": "kg-hungarian-beef-goulash",
+    "title": "Unkarilainen naudanlihagulassi",
+    "description": "Paprikalla ja kuminalla maustettu, tomaatissa haudutettu naudanlihapata.",
+    "servings": 4,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["liha", "unkarilainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "280 g sipulia, hienonnettuna",
+      "½ vihreää paprikaa, hienonnettuna",
+      "4 isoa valkosipulinkynttä, hienonnettuna",
+      "450 g naudan etuselkää tai potkaa, kuutioituna",
+      "2 rkl unkarilaista makeaa paprikajauhetta",
+      "¼ tl mustapippuria",
+      "¼ tl chilihiutaleita tai cayennepippuria",
+      "½ tl kuminaa",
+      "2 laakerinlehteä",
+      "800 g kuorittuja tomaatteja, käsin murskattuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa padassa. Lisää sipulit ja paprika, peitä ja hauduta läpikuultaviksi ruskistamatta. Lisää valkosipuli ja kypsennä minuutti.",
+      "Lisää liha, suolaa kevyesti, peitä ja hauduta muutama minuutti, kunnes pinta ei ole enää raaka.",
+      "Lisää paprikajauhe, mustapippuri, chili, kumina ja laakerinlehdet ja kypsennä miedolla lämmöllä 10–15 minuuttia, jotta liha imee mausteet.",
+      "Lisää tomaatit ja kuumenna hiljalleen kiehuvaksi. Hauduta kannen alla välillä sekoittaen, kunnes liha on mureaa (noin tunti). Tarkista maku ja poista laakerinlehdet.",
+      "Tarjoile halutessasi voideltujen munanuudeleiden kanssa."
+    ]
+  },
+  {
+    "id": "kg-hyderabadi-khatti-dal",
+    "title": "Hyderabadilainen khatti dal",
+    "description": "Kirpeä tamarindilla maustettu dal.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja kyyhkyherneitä (toor dal)",
+      "½ tl kurkumaa",
+      "2 tomaattia, pilkottuna",
+      "1 rkl tamarinditahnaa",
+      "2 rkl rypsiöljyä",
+      "1 tl sinapinsiemeniä",
+      "8 curryn lehteä",
+      "2 vihreää chiliä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman kanssa vedessä pehmeäksi.",
+      "Lisää tomaatit ja tamarindi ja keitä 10 minuuttia.",
+      "Paista sinapinsiemenet, curryn lehdet ja chilit öljyssä.",
+      "Kaada mausteöljy dalin päälle.",
+      "Säädä happamuus ja suola maun mukaan."
+    ]
+  },
+  {
+    "id": "kg-indian-aloo-gobi",
+    "title": "Aloo gobi – peruna-kukkakaalicurry",
+    "description": "Intialainen kuiva peruna-kukkakaalicurry.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "intialainen", "peruna", "gluteeniton"],
+    "ingredients": [
+      "2 perunaa, kuutioituna",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 tl kurkumaa",
+      "1 kukkakaali, kukintoina",
+      "2 tomaattia, pilkottuna",
+      "1 tl jauhettua korianteria",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Esikeitä perunoita suolalla maustetussa vedessä.",
+      "Paahda juustokumina öljyssä ja lisää kurkuma.",
+      "Lisää kukkakaali ja perunat ja kypsennä 10 minuuttia.",
+      "Lisää tomaatit ja jauhettu korianteri, mausta suolalla ja hauduta 8 minuuttia.",
+      "Viimeistele tuoreella korianterilla."
+    ]
+  },
+  {
+    "id": "kg-indian-cucumber-raita",
+    "title": "Kurkkuraita",
+    "description": "Viilentävä jogurttilisuke tulisille ruoille.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "intialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "400 g kurkkua, raastettuna",
+      "250 g maustamatonta jogurttia",
+      "1 tl paahdettua juustokuminaa, jauhettuna",
+      "2 rkl minttua, hienonnettuna",
+      "½ tl chaat masalaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Raasta kurkku ja purista ylimääräinen neste pois.",
+      "Vatkaa jogurtti sileäksi.",
+      "Kääntele joukkoon kurkku, juustokumina, minttu ja chaat masala.",
+      "Mausta suolalla.",
+      "Anna jäähtyä 15 minuuttia ja tarjoile dalin tai curryn kanssa."
+    ]
+  },
+  {
+    "id": "kg-indian-jeera-rice",
+    "title": "Jeera-riisi – juustokuminariisi",
+    "description": "Juustokuminalla maustettu basmatiriisi.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "intialainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "300 g basmatiriisiä",
+      "2 rkl kirkastettua voita (gheetä) tai rypsiöljyä",
+      "1 rkl juustokuminaa (kokonaisena)",
+      "2 laakerinlehteä",
+      "5 dl vettä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Huuhtele riisi ja liota 15 minuuttia. Valuta.",
+      "Paahda juustokuminaa gheessä, kunnes se tuoksuu.",
+      "Lisää riisi, laakerinlehdet, vesi ja suola.",
+      "Hauduta kannen alla 15 minuuttia.",
+      "Anna levätä 5 minuuttia ja kuohkeuta haarukalla."
+    ]
+  },
+  {
+    "id": "kg-indian-kachumber-salad",
+    "title": "Kachumber – intialainen tomaatti-kurkkusalaatti",
+    "description": "Raikas pilkottu salaatti dalin tai curryn rinnalle.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "intialainen", "nopea", "salaatti"],
+    "ingredients": [
+      "2 kurkkua, kuutioituna",
+      "2 tomaattia, kuutioituna",
+      "1 punasipuli, hienoksi kuutioituna",
+      "1 sitruuna, mehuna",
+      "1 tl chaat masalaa",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Kuutioi kurkku, tomaatti ja sipuli tasakokoisiksi.",
+      "Sekoita sitruunamehun ja chaat masalan kanssa.",
+      "Mausta suolalla.",
+      "Kääntele joukkoon korianteri.",
+      "Tarjoile heti dalin tai curryn kanssa."
+    ]
+  },
+  {
+    "id": "kg-indian-mint-chutney-dressing",
+    "title": "Minttuchutney-kastike",
+    "description": "Raikas intialainen yrttikastike salaateille ja grilliruoille.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "intialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl tuoreita minttulehtiä",
+      "1¼ dl tuoretta korianteria",
+      "1 vihreä chili",
+      "2 rkl limettimehua",
+      "2 rkl vettä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Surauta minttu, korianteri, chili, limettimehu ja vesi tehosekoittimessa.",
+      "Paahda juustokumina kuivalla pannulla, jauha ja sekoita joukkoon.",
+      "Mausta suolalla.",
+      "Ohenna tarvittaessa vedellä kastikemaiseksi.",
+      "Käytä salaateilla ja grillatun proteiinin kanssa."
+    ]
+  },
+  {
+    "id": "kg-indonesian-bakmi-goreng",
+    "title": "Bakmi goreng – indonesialaiset paistetut nuudelit",
+    "description": "Makealla soijalla maustetut paistetut munanuudelit kanan kanssa.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "indonesialainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "300 g tuoreita munanuudeleita",
+      "2 rkl rypsiöljyä",
+      "200 g broilerin rintafileetä, kuutioituna",
+      "2 rkl kecap manis -soijakastiketta",
+      "1 rkl osterikastiketta",
+      "2 pak choita",
+      "paahdettua sipulia",
+      "etikkakurkkua"
+    ],
+    "instructions": [
+      "Keitä nuudeleita hetki ja valuta.",
+      "Paista kana kypsäksi.",
+      "Lisää nuudelit, kecap manis ja osterikastike.",
+      "Paista kovalla lämmöllä 3 minuuttia. Kypsennä pak choi samalla.",
+      "Tarjoile pak choin, paahdetun sipulin ja etikkakurkkujen kanssa."
+    ]
+  },
+  {
+    "id": "kg-indonesian-gado-gado-salad",
+    "title": "Gado gado – indonesialainen kasvissalaatti maapähkinäkastikkeella",
+    "description": "Ryöpätyt kasvikset, tofu ja kananmuna maapähkinäkastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["kasvis", "indonesialainen", "salaatti", "tofu"],
+    "ingredients": [
+      "200 g vihreitä papuja",
+      "200 g valkokaalia, suikaloituna",
+      "150 g idättämiä (mungpavun ituja)",
+      "200 g kiinteää tofua, viipaloituna",
+      "1 rkl rypsiöljyä",
+      "2 kovaksi keitettyä kananmunaa, puolitettuna",
+      "Kastike:",
+      "4 rkl maapähkinävoita",
+      "2 rkl kecap manis -soijakastiketta",
+      "1 limetti, mehuna",
+      "lämmintä vettä",
+      "Tarjoiluun:",
+      "krupuk-katkarapulastuja"
+    ],
+    "instructions": [
+      "Ryöppää kasvikset kukin erikseen.",
+      "Paista tofu öljyssä kullanruskeaksi.",
+      "Vatkaa maapähkinävoi, kecap manis ja limettimehu kastikkeeksi ja ohenna lämpimällä vedellä.",
+      "Asettele kasvikset, tofu ja kananmunat vadille.",
+      "Valuta päälle maapähkinäkastike ja tarjoile krupukien kanssa."
+    ]
+  },
+  {
+    "id": "kg-indonesian-mie-goreng",
+    "title": "Mie goreng – indonesialaiset paistetut nuudelit",
+    "description": "Makean tuliset paistetut nuudelit kanalla ja kaalilla.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "indonesialainen", "nuudelit", "arkiruoka"],
+    "ingredients": [
+      "300 g munanuudeleita",
+      "2 rkl rypsiöljyä",
+      "2 kananmunaa",
+      "150 g broilerin rintafileetä, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "100 g valkokaalia, suikaloituna",
+      "2 rkl kecap manis -soijakastiketta",
+      "1 rkl sambal oelekia",
+      "paahdettua sipulia"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja valuta hyvin.",
+      "Paista munat wokissa kokkeliksi ja nosta sivuun.",
+      "Paista kana ja valkosipuli kypsiksi.",
+      "Lisää kaali, nuudelit, kecap manis ja sambal ja sekoittele 3 minuuttia.",
+      "Lisää päälle munakokkeli ja paahdettu sipuli."
+    ]
+  },
+  {
+    "id": "kg-indonesian-peanut-sauce",
+    "title": "Indonesialainen maapähkinäkastike",
+    "description": "Täyteläinen maapähkinäkastike gado gadolle ja satay-vartaille.",
+    "servings": 8,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "indonesialainen", "nopea"],
+    "ingredients": [
+      "4 rkl maapähkinävoita",
+      "1 dl lämmintä vettä",
+      "2 rkl kecap manis -soijakastiketta",
+      "1 rkl limettimehua",
+      "1 tl sambal oelekia",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa maapähkinävoi ja lämmin vesi tasaiseksi.",
+      "Lisää kecap manis, limettimehu, sambal ja valkosipuli.",
+      "Hauduta miedolla lämmöllä 5 minuuttia.",
+      "Anna jäähtyä huoneenlämpöiseksi.",
+      "Ohenna tarvittaessa vedellä."
+    ]
+  },
+  {
+    "id": "kg-indonesian-tempeh-stir-fry-tempe-orek",
+    "title": "Tempe orek – indonesialainen tempehwokki",
+    "description": "Makean tulinen, tahmeaksi lasitettu tempeh.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "indonesialainen", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "300 g tempehiä, kuutioituna",
+      "2 salottisipulia, viipaloituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 kaffirlimetin lehteä",
+      "3 rkl kecap manis -soijakastiketta",
+      "2 rkl sambal oelekia",
+      "Tarjoiluun:",
+      "2 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Paista tempeh öljyssä kullanruskeaksi ja rapeaksi.",
+      "Kuullota salottisipulit, valkosipuli ja limetinlehdet.",
+      "Lisää kecap manis ja sambal.",
+      "Sekoittele tempeh lasitteessa tahmeaksi.",
+      "Tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-italian-wedding-soup",
+    "title": "Italialainen hääkeitto lihapullilla",
+    "description": "Kirkas kanaliemi pikkuruisilla parmesaanilihapullilla, pastalla ja pinaatilla.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["liha", "italialainen", "keitto", "pasta"],
+    "ingredients": [
+      "Lihapullat:",
+      "450 g jauhelihaa (naudan ja porsaan sekaliha)",
+      "¾ dl korppujauhoja",
+      "1 kananmuna",
+      "½ dl parmesaania, raastettuna (+ lisää tarjoiluun)",
+      "1 tl italialaista yrttisekoitusta",
+      "suolaa",
+      "mustapippuria",
+      "Keitto:",
+      "1 rkl oliiviöljyä",
+      "1 keskikokoinen keltasipuli, hienoksi kuutioituna",
+      "2 porkkanaa, pieninä kuutioina",
+      "2 vartta varsiselleriä, pieninä kuutioina",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 l kanalientä",
+      "¼ tl chilihiutaleita",
+      "1¼ dl orzo-pastaa",
+      "100 g babypinaattia",
+      "1 kananmuna",
+      "sitruunamehua"
+    ],
+    "instructions": [
+      "Sekoita kulhossa jauheliha, korppujauhot, kananmuna, parmesaani, yrttisekoitus sekä reilusti suolaa ja pippuria.",
+      "Sekoita kevyesti käsin – liika vaivaaminen tekee pullista tiiviitä ja sitkeitä.",
+      "Pyöritä seoksesta noin 2,5 cm:n pullia, noin 30–35 kappaletta.",
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Kuullota sipulia, porkkanoita, selleriä ja valkosipulia 5–6 minuuttia, kunnes kasvikset alkavat pehmetä.",
+      "Lisää liemi ja kuumenna tasaisesti kiehuvaksi. Lisää chilihiutaleet.",
+      "Pudota lihapullat varovasti yksi kerrallaan liemeen. Älä sekoita ensimmäiseen 3 minuuttiin, jotta pullat ehtivät kiinteytyä.",
+      "Keitä pullia yhteensä 10 minuuttia, kunnes ne ovat kypsiä ja nousevat pintaan.",
+      "Lisää pasta ja keitä vielä 8–10 minuuttia kypsäksi.",
+      "Sekoita joukkoon pinaatti kourallinen kerrallaan ja anna nuutua 1–2 minuuttia.",
+      "Vatkaa kananmuna ja valuta se ohuena nauhana keittoon koko ajan ympyrää sekoittaen, jolloin syntyy ohuita munahahtuvia. Mausta sitruunamehulla, suolalla ja pippurilla ja tarjoile parmesaanin kanssa."
+    ],
+    "notes": ["Jauheliha, kananmunat, liemi ja pinaatti puuttuivat alkuperäisestä ainesluettelosta; määrät on arvioitu."]
+  },
+  {
+    "id": "kg-japanese-avocado-and-crab-salad",
+    "title": "Japanilainen avokado-rapusalaatti",
+    "description": "Kevyt japanilaistyylinen salaatti avokadosta ja ravusta.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "japanilainen", "nopea", "salaatti"],
+    "ingredients": [
+      "2 kypsää avokadoa, kuutioituna",
+      "1 rkl sitruunamehua",
+      "150 g surimia tai rapua",
+      "½ kurkku, kuutioituna",
+      "2 rkl japanilaista majoneesia",
+      "1 rkl tobikoa tai seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Sekoita avokadokuutiot sitruunamehuun.",
+      "Revi rapu ja kuutioi kurkku.",
+      "Kääntele kaikki varovasti majoneesin kanssa.",
+      "Jäähdytä 10 minuuttia.",
+      "Tarjoile tobikolla tai seesaminsiemenillä koristeltuna."
+    ]
+  },
+  {
+    "id": "kg-japanese-chawanmushi",
+    "title": "Chawanmushi – japanilainen höyrytetty munavanukas",
+    "description": "Silkinpehmeä suolainen munavanukas dashiliemestä.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["kana", "japanilainen", "kananmuna"],
+    "ingredients": [
+      "3 kananmunaa",
+      "4 dl dashilientä",
+      "1 rkl soijakastiketta",
+      "1 tl miriniä",
+      "100 g broilerin reisifilettä, kuutioituna",
+      "3 siitakesientä, viipaloituna",
+      "6 ginkgopähkinää (valinnainen)",
+      "mitsubaa tai kevätsipulia"
+    ],
+    "instructions": [
+      "Vatkaa munat, dashi, soijakastike ja mirin ja siivilöi.",
+      "Jaa kana, sienet ja ginkgopähkinät kuppeihin.",
+      "Kaada munaseos siivilän läpi kuppeihin.",
+      "Höyrytä kannen alla miedolla lämmöllä 15 minuuttia, kunnes vanukas on hyytynyt ja kana kypsää.",
+      "Koristele mitsuballa tai kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-japanese-daikon-and-carrot-salad",
+    "title": "Japanilainen retiisi-porkkanasalaatti (namasu)",
+    "description": "Etikalla maustettu, pikkelssimäinen daikon-porkkanasalaatti.",
+    "servings": 3,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "japanilainen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "300 g daikon-retiisiä, suikaloituna",
+      "1 porkkana, suikaloituna",
+      "1 tl suolaa",
+      "3 rkl riisiviinietikkaa",
+      "1 rkl sokeria",
+      "kuivattuja chilisuikaleita"
+    ],
+    "instructions": [
+      "Suolaa retiisi ja porkkana ja anna seistä 15 minuuttia. Huuhtele ja purista kuivaksi.",
+      "Liuota sokeri etikkaan.",
+      "Sekoita kasvikset etikkaliemeen.",
+      "Jäähdytä 30 minuuttia.",
+      "Koristele chilisuikaleilla."
+    ]
+  },
+  {
+    "id": "kg-japanese-goma-dressing",
+    "title": "Japanilainen seesamikastike (goma)",
+    "description": "Pähkinäinen seesamisalaatinkastike.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "japanilainen", "nopea"],
+    "ingredients": [
+      "3 rkl paahdettuja seesaminsiemeniä",
+      "2 rkl tahinia",
+      "2 rkl riisiviinietikkaa",
+      "1 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "1 tl raastettua inkivääriä",
+      "2 rkl vettä"
+    ],
+    "instructions": [
+      "Jauha puolet seesaminsiemenistä.",
+      "Surauta tahini, etikka, soijakastike, mirin ja inkivääri sekaisin.",
+      "Ohenna vedellä kaadettavaksi.",
+      "Sekoita joukkoon loput seesaminsiemenet.",
+      "Säilyy jääkaapissa viikon."
+    ]
+  },
+  {
+    "id": "kg-japanese-goma-wakame-salad",
+    "title": "Wakamesalaatti seesamilla",
+    "description": "Klassinen japanilainen merileväsalaatti.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "japanilainen", "nopea", "salaatti"],
+    "ingredients": [
+      "30 g kuivattua wakame-merilevää",
+      "2 rkl paahdettuja seesaminsiemeniä",
+      "1 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 tl seesamiöljyä",
+      "1 tl raastettua inkivääriä"
+    ],
+    "instructions": [
+      "Liota wakamea vedessä 5 minuuttia. Valuta ja purista kuivaksi.",
+      "Jauha puolet seesaminsiemenistä.",
+      "Vatkaa soijakastike, etikka, seesamiöljy ja inkivääri.",
+      "Sekoita wakame kastikkeen ja jauhettujen seesaminsiementen kanssa.",
+      "Ripottele pinnalle kokonaiset seesaminsiemenet."
+    ]
+  },
+  {
+    "id": "kg-japanese-gyoza-pan-fried",
+    "title": "Gyozat – japanilaiset paistetut nyytit",
+    "description": "Rapeapohjaiset porsas-kaalinyytit.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["liha", "japanilainen", "nyytit"],
+    "ingredients": [
+      "200 g porsaan jauhelihaa",
+      "150 g kiinankaalia, hienonnettuna",
+      "1 rkl soijakastiketta",
+      "1 tl raastettua inkivääriä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "30 gyoza-taikinalevyä",
+      "2 rkl rypsiöljyä",
+      "1,2 dl vettä"
+    ],
+    "instructions": [
+      "Sekoita jauheliha, kaali, soijakastike, inkivääri ja valkosipuli.",
+      "Nosta täytettä taikinalevyille ja poimuta reunat kiinni.",
+      "Paista öljyssä, kunnes pohjat ovat kullanruskeat.",
+      "Lisää vesi, peitä kannella ja höyrytä 5 minuuttia.",
+      "Poista kansi ja paista, kunnes pohjat rapeutuvat uudelleen."
+    ]
+  },
+  {
+    "id": "kg-japanese-gyudon-beef-bowl",
+    "title": "Gyudon – japanilainen naudanlihakulho",
+    "description": "Nopea japanilainen riisikulho makeassa soijaliemessä haudutetulla naudanlihalla.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "japanilainen", "riisi", "nopea"],
+    "ingredients": [
+      "1 sipuli, viipaloituna",
+      "3 rkl dashilientä",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "1 rkl sokeria",
+      "250 g ohuiksi leikattua naudanlihaa",
+      "4 dl keitettyä riisiä",
+      "2 onsen-kananmunaa (tai pehmeiksi keitettyjä munia)",
+      "säilöttyä inkivääriä"
+    ],
+    "instructions": [
+      "Hauduta sipulia dashissa, soijakastikkeessa, mirinissä ja sokerissa.",
+      "Lisää liha ja kypsennä 3 minuuttia.",
+      "Nosta riisin päälle.",
+      "Lisää päälle kananmuna ja säilöttyä inkivääriä.",
+      "Valuta päälle loput liemestä."
+    ]
+  },
+  {
+    "id": "kg-japanese-hijiki-seaweed-salad",
+    "title": "Japanilainen merilevälisuke (hijiki)",
+    "description": "Soijassa ja mirinissä haudutettu merilevä porkkanan ja friteeratun tofun kanssa.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "japanilainen", "lisuke"],
+    "ingredients": [
+      "30 g kuivattua arame-levää (tai hijikiä)",
+      "1 porkkana, suikaloituna",
+      "100 g aburaagea (friteerattua tofua), suikaloituna",
+      "2 rkl soijakastiketta",
+      "1 rkl miriniä",
+      "1 rkl seesamiöljyä",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Liota levää vedessä, kunnes se pehmenee, ja valuta.",
+      "Hauduta levää, porkkanaa ja aburaagea soijakastikkeen, mirinin ja tilkan vettä kanssa 10 minuuttia.",
+      "Anna jäähtyä huoneenlämpöiseksi.",
+      "Sekoita joukkoon seesamiöljy.",
+      "Ripottele pinnalle seesaminsiemenet."
+    ],
+    "notes": ["Ruokavirasto suosittelee välttämään hijiki-levää sen korkean arseenipitoisuuden vuoksi, joten ohjeessa käytetään ensisijaisesti arame-levää."]
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "kg-korean-japchae-banchan-small-batch",
+    "skip": "lähes sama kuin kg-korean-japchae (pienempi annos)"
+  },
+  {
+    "id": "kg-korean-jjajangmyeon",
+    "title": "Jjajangmyeon – korealais-kiinalaiset mustapapukastikenuudelit",
+    "description": "Vehnänuudelit paksussa, makeahkossa mustapapukastikkeessa porsaan ja kasvisten kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "nuudelit"],
+    "ingredients": [
+      "1 peruna, kuutioituna",
+      "2 rkl rypsiöljyä",
+      "200 g porsaan kylkeä, kuutioituna",
+      "4 rkl chunjang-mustapapupastaa",
+      "1 rkl sokeria",
+      "1 kesäkurpitsa, kuutioituna",
+      "3 dl vettä",
+      "1 rkl maissitärkkelystä + 2 rkl vettä",
+      "400 g tuoreita vehnänuudeleita"
+    ],
+    "instructions": [
+      "Kuutioi kasvikset ja ryöppää perunaa hetki.",
+      "Paista porsas öljyssä ja lisää chunjang ja sokeri.",
+      "Lisää kasvikset ja vesi ja hauduta 15 minuuttia.",
+      "Sakeuta veteen sekoitetulla maissitärkkelyksellä.",
+      "Keitä nuudelit ja tarjoile kastike niiden päällä."
+    ]
+  },
+  {
+    "id": "kg-korean-pan-fried-tofu-dubu-jorim-prep",
+    "title": "Korealainen paistettu tofu chilisoijalasitteella",
+    "description": "Nopea paistettu tofu tulisella soija-seesamilasitteella.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "korealainen", "tofu", "nopea"],
+    "ingredients": [
+      "400 g kiinteää tofua, viipaloituna",
+      "1 rkl rypsiöljyä",
+      "2 rkl soijakastiketta",
+      "1 rkl seesamiöljyä",
+      "1 rkl gochugarua (korealaista chilijauhetta)",
+      "1 kevätsipuli, viipaloituna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Kuivaa tofu talouspaperilla ja paista öljyssä molemmin puolin kullanruskeaksi.",
+      "Sekoita soijakastike, seesamiöljy ja gochugaru.",
+      "Sivele kastike tofuviipaleille.",
+      "Hauduta pannulla 2 minuuttia, kunnes pinta lasittuu.",
+      "Viimeistele kevätsipulilla ja seesaminsiemenillä."
+    ]
+  },
+  {
+    "id": "kg-korean-radish-salad-mu-saengchae",
+    "title": "Mu saengchae – tulinen korealainen retiisisalaatti",
+    "description": "Rapea ja tulinen retiisisuikalesalaatti.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kala", "korealainen", "salaatti", "lisuke"],
+    "ingredients": [
+      "400 g korealaista retiisiä tai daikonia, suikaloituna",
+      "1 tl suolaa",
+      "2 rkl gochugarua (korealaista chilijauhetta)",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl sokeria",
+      "1 rkl kalakastiketta",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 kevätsipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Leikkaa retiisi ohuiksi tikuiksi.",
+      "Hiero suolaa retiisiin, anna seistä 10 minuuttia ja valuta.",
+      "Sekoita gochugaru, etikka, sokeri, kalakastike ja valkosipuli.",
+      "Sekoita retiisi kastikkeeseen.",
+      "Viimeistele kevätsipulilla ja tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "kg-korean-seasoned-spinach-sigeumchi-namul",
+    "title": "Sigeumchi namul – korealainen maustettu pinaatti",
+    "description": "Korealaisen banchan-pöydän perusosa: ryöpätty, seesamilla maustettu pinaatti.",
+    "servings": 3,
+    "totalTimeMin": 12,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "korealainen", "nopea", "lisuke"],
+    "ingredients": [
+      "400 g pinaattia",
+      "1 rkl soijakastiketta",
+      "1 tl seesamiöljyä",
+      "1–2 valkosipulinkynttä, hienonnettuna",
+      "ripaus suolaa",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Ryöppää pinaattia 30 sekuntia, jäähdytä kylmässä vedessä ja purista huolellisesti kuivaksi.",
+      "Sekoita soijakastikkeen, seesamiöljyn ja valkosipulin kanssa.",
+      "Mausta kevyesti suolalla.",
+      "Muotoile pieniksi keoiksi.",
+      "Ripottele pinnalle seesaminsiemenet."
+    ]
+  },
+  {
+    "id": "kg-korean-sesame-soy-dressing",
+    "title": "Korealainen seesami-soijakastike",
+    "description": "Yksinkertainen kastike ryöpätyille kasviksille.",
+    "servings": 6,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "korealainen", "nopea"],
+    "ingredients": [
+      "2 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 tl sokeria",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Vatkaa soijakastike, etikka, seesamiöljy ja sokeri.",
+      "Lisää valkosipuli.",
+      "Ripottele pinnalle seesaminsiemenet ennen tarjoilua.",
+      "Käytä ryöpättyjen kasvisten kastikkeena. Säilyy jääkaapissa 5 päivää."
+    ]
+  },
+  {
+    "id": "kg-korean-spinach-side-salad-sigeumchi-namul",
+    "skip": "lähes sama kuin kg-korean-seasoned-spinach-sigeumchi-namul"
+  },
+  {
+    "id": "kg-kung-pao-chicken-light",
+    "title": "Kevyt kung pao -kana",
+    "description": "Klassinen sichuanilainen kanawokki kuivatuilla chileillä ja maapähkinöillä.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "kiinalainen", "nopea"],
+    "ingredients": [
+      "400 g broilerin rintafileetä, kuutioituna",
+      "1 rkl rypsiöljyä",
+      "6 kuivattua chiliä",
+      "1 tl sichuaninpippuria",
+      "1 rkl raastettua inkivääriä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "1 rkl sokeria",
+      "½ dl paahdettuja maapähkinöitä",
+      "2 kevätsipulia, paloina"
+    ],
+    "instructions": [
+      "Paista kana öljyssä kypsäksi ja nosta sivuun.",
+      "Paista chilejä, pippureita, inkivääriä ja valkosipulia hetki.",
+      "Palauta kana wokkiin ja lisää soijakastike, etikka ja sokeri.",
+      "Sekoita joukkoon maapähkinät ja kevätsipuli.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "kg-lanzhou-beef-noodle-soup",
+    "title": "Lanzhoun naudanliha-nuudelikeitto",
+    "description": "Kirkas, mausteinen kiinalainen naudanlihaliemi käsin vedetyillä nuudeleilla.",
+    "servings": 4,
+    "totalTimeMin": 180,
+    "category": "Keitot",
+    "tags": ["liha", "kiinalainen", "keitto", "nuudelit"],
+    "ingredients": [
+      "500 g naudan potkaa",
+      "2 l vettä",
+      "2 tähtianista",
+      "1 tl sichuaninpippuria",
+      "1 daikon (valkoretiisi), viipaloituna",
+      "suolaa",
+      "400 g tuoreita vehnänuudeleita",
+      "tuoretta korianteria",
+      "chiliöljyä"
+    ],
+    "instructions": [
+      "Hauduta lihaa vedessä mausteiden ja retiisin kanssa noin 2 tuntia, kunnes liha on mureaa. Mausta liemi suolalla.",
+      "Nosta liha pois ja leikkaa ohuiksi viipaleiksi.",
+      "Keitä nuudelit erikseen.",
+      "Jaa nuudelit kulhoihin ja kaada päälle kirkasta maustelientä retiisiviipaleineen.",
+      "Lisää päälle liha, korianteri ja chiliöljy."
+    ]
+  },
+  {
+    "id": "kg-lemon-chicken-orzo-soup",
+    "title": "Sitruunainen kana-orzokeitto",
+    "description": "Raikas arki-illan keitto.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "pasta", "arkiruoka"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "2 porkkanaa, kuutioituna",
+      "2 vartta varsiselleriä, kuutioituna",
+      "1,2 l kanalientä",
+      "80 g orzo-pastaa",
+      "180 g kypsää kanaa, revittynä",
+      "1 sitruuna",
+      "tuoretta persiljaa"
+    ],
+    "instructions": [
+      "Kuullota sipuli, porkkanat ja selleri öljyssä.",
+      "Lisää liemi ja kuumenna kiehuvaksi.",
+      "Keitä orzo kypsäksi ja lisää kana.",
+      "Viimeistele sitruunamehulla, raastetulla kuorella ja persiljalla."
+    ]
+  },
+  {
+    "id": "kg-lemon-coriander-dal",
+    "title": "Sitruuna-korianteridal",
+    "description": "Raikkaan hapokas arki-illan dal punaisista linsseistä.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "250 g punaisia linssejä",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "2 kuivattua punaista chiliä",
+      "1 sitruuna, mehuna",
+      "1 nippu tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Keitä linssit kurkuman ja suolan kanssa vedessä kermaisiksi.",
+      "Kuumenna öljy ja paahda juustokumina ja chilit.",
+      "Kaada mausteöljy dalin päälle.",
+      "Sekoita joukkoon sitruunamehu ja suurin osa korianterista.",
+      "Tarjoile loppujen korianterinlehtien kanssa."
+    ]
+  },
+  {
+    "id": "kg-lemongrass-tofu-rice-noodles",
+    "title": "Sitruunaruohotofu ja riisinuudelit",
+    "description": "Tuoksuva vietnamilaishenkinen vegaaninen nuudelikulho.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "vietnamilainen", "tofu", "nuudelit"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "300 g kiinteää tofua, kuutioituna",
+      "2 sitruunaruohon vartta, hienonnettuna",
+      "2 rkl soijakastiketta",
+      "1 rkl vaahterasiirappia",
+      "250 g riisinuudeleita",
+      "100 g idättämiä (mungpavun ituja)",
+      "tuoretta korianteria",
+      "½ dl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Paista tofu öljyssä kullanruskeaksi.",
+      "Paista sitruunaruohoa hetki ja lisää soijakastike ja vaahterasiirappi.",
+      "Kääntele tofu sitruunaruoholasitteessa.",
+      "Liota riisinuudelit ja valuta.",
+      "Tarjoile itujen, korianterin ja maapähkinöiden kanssa."
+    ]
+  },
+  {
+    "id": "kg-lentil-and-vegetable-soup",
+    "title": "Linssi-kasviskeitto",
+    "description": "Täyttävä ja edullinen ruskeiden linssien keitto.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "arkiruoka", "palkokasvit"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, kuutioituna",
+      "2 porkkanaa, kuutioituna",
+      "2 vartta varsiselleriä, kuutioituna",
+      "250 g ruskeita linssejä",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1,5 l kasvislientä",
+      "1 tl kuivattua timjamia",
+      "2 laakerinlehteä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota sipulia, porkkanaa ja selleriä öljyssä 8 minuuttia.",
+      "Lisää linssit, tomaatit, liemi, timjami ja laakerinlehdet.",
+      "Hauduta 30 minuuttia, kunnes linssit ovat pehmeitä.",
+      "Mausta ja tarjoile rapean leivän kanssa."
+    ]
+  },
+  {
+    "id": "kg-lentil-miso-soup",
+    "title": "Linssi-misokeitto",
+    "description": "Proteiinipitoinen fuusiokeitto punaisista linsseistä ja misosta.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "japanilainen", "keitto", "palkokasvit"],
+    "ingredients": [
+      "150 g punaisia linssejä",
+      "8 dl kasvislientä",
+      "1 porkkana, kuutioituna",
+      "2 cm pala inkivääriä, raastettuna",
+      "2 rkl vaaleaa misotahnaa",
+      "2 kevätsipulia, viipaloituna",
+      "1 nori-levy, suikaleina"
+    ],
+    "instructions": [
+      "Keitä linssit, porkkana ja inkivääri liemessä pehmeiksi.",
+      "Soseuta osittain kermaiseksi.",
+      "Liuota miso kauhalliseen lientä ja sekoita keittoon.",
+      "Lämmitä varovasti keittämättä.",
+      "Lisää päälle kevätsipuli ja nori."
+    ]
+  },
+  {
+    "id": "kg-light-miso-ramen-broth-bowl",
+    "title": "Kevyt miso-ramen",
+    "description": "Nopea kotitekoinen misoramen.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "nuudelit", "nopea"],
+    "ingredients": [
+      "8 dl dashilientä",
+      "2 rkl tummaa misotahnaa",
+      "200 g tuoreita ramen-nuudeleita",
+      "2 pehmeäksi keitettyä kananmunaa",
+      "1 dl maissinjyviä",
+      "1 nori-levy",
+      "2 kevätsipulia, viipaloituna",
+      "50 g bambunversoja"
+    ],
+    "instructions": [
+      "Kuumenna dashi ja vatkaa joukkoon miso, kun liemi ei enää kiehu.",
+      "Keitä nuudelit erikseen.",
+      "Jaa nuudelit kulhoihin.",
+      "Kaada misoliemi päälle.",
+      "Lisää päälle kananmuna, maissi, nori, kevätsipuli ja bambunversot."
+    ]
+  },
+  {
+    "id": "kg-maa-ki-dal-slow-black-dal",
+    "title": "Maa ki dal – hitaasti haudutettu musta dal",
+    "description": "Kermainen musta urddal ilman raskasta kermaa.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g kokonaisia mustia urdpapuja (urad dal)",
+      "suolaa",
+      "2 rkl voita",
+      "1 sipuli, viipaloituna",
+      "1 rkl inkivääri-valkosipulitahnaa",
+      "200 g tomaattimurskaa",
+      "1 tl garam masalaa",
+      "2 rkl kuohukermaa (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä urdpavut suolalla maustetussa vedessä hyvin pehmeiksi, noin 45 minuuttia (liotettuina nopeammin).",
+      "Kuullota sipuli voissa karamellisoituneeksi.",
+      "Lisää inkivääri-valkosipulitahna ja tomaatit ja kypsennä 10 minuuttia.",
+      "Yhdistä papujen kanssa ja hauduta 20 minuuttia.",
+      "Viimeistele garam masalalla ja kermapisaralla."
+    ]
+  },
+  {
+    "id": "kg-malaysian-ayam-goreng-berempah",
+    "title": "Ayam goreng berempah – malesialainen maustettu kana",
+    "description": "Mausteseoksessa marinoitu, kookosmaidossa haudutettu ja lopuksi rapeaksi paistettu kana.",
+    "servings": 4,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["kana", "malesialainen", "gluteeniton"],
+    "ingredients": [
+      "800 g broilerin paloja",
+      "2 rkl kurkumaa",
+      "1 rkl jauhettua korianteria",
+      "3 valkosipulinkynttä",
+      "2 cm pala inkivääriä",
+      "1 sitruunaruohon varsi",
+      "1 tl suolaa",
+      "1 dl kookosmaitoa",
+      "2 rkl rypsiöljyä",
+      "paahdettua sipulia"
+    ],
+    "instructions": [
+      "Soseuta mausteet, valkosipuli, inkivääri, sitruunaruoho ja suola tahnaksi.",
+      "Marinoi kanaa tahnassa tunnin ajan.",
+      "Hauduta kanaa kookosmaidossa kypsäksi.",
+      "Paista öljyssä pannulla tai uunissa, kunnes nahka rapeutuu.",
+      "Viimeistele paahdetulla sipulilla."
+    ]
+  },
+  {
+    "id": "kg-malaysian-hokkien-mee",
+    "title": "Hokkien mee – malesialaiset tummat soijanuudelit",
+    "description": "Tummassa soijaliemessä haudutetut seka-nuudelit porsaan ja katkarapujen kanssa.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "äyriäiset", "malesialainen", "nuudelit"],
+    "ingredients": [
+      "200 g munanuudeleita",
+      "200 g riisinuudeleita",
+      "2 rkl rypsiöljyä",
+      "200 g porsaan kylkeä, viipaloituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 rkl tummaa soijakastiketta",
+      "5 dl lihalientä",
+      "200 g katkarapuja",
+      "150 g valkokaalia, suikaloituna",
+      "Tarjoiluun:",
+      "1 limetti, lohkoina",
+      "sambalia"
+    ],
+    "instructions": [
+      "Kypsennä nuudelit pakkausten ohjeiden mukaan ja valuta.",
+      "Paista porsas ja valkosipuli öljyssä ruskeiksi.",
+      "Lisää molemmat nuudelit ja tumma soija ja sekoittele 2 minuuttia.",
+      "Lisää liemi ja hauduta, kunnes neste on imeytynyt ja nuudelit karamellisoituvat.",
+      "Lisää katkaravut ja kaali ja kypsennä 3 minuuttia. Tarjoile limetin ja sambalin kanssa."
+    ]
+  },
+  {
+    "id": "kg-malaysian-laksa-lemak-noodles",
+    "title": "Laksa lemak – malesialainen kookoscurrynuudelikeitto",
+    "description": "Kookosmaitoinen laksaliemi riisinuudeleiden, katkarapujen ja kalakakun kanssa.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "malesialainen", "keitto", "nuudelit"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2 rkl laksatahnaa",
+      "4 dl kookosmaitoa",
+      "2 dl vettä",
+      "200 g katkarapuja",
+      "250 g riisinuudeleita",
+      "100 g idättämiä (mungpavun ituja)",
+      "100 g kalakakkua, viipaloituna",
+      "tuoreita laksanlehtiä (vietnaminkorianteria)",
+      "sambalia"
+    ],
+    "instructions": [
+      "Paista laksatahnaa öljyssä 2 minuuttia.",
+      "Lisää kookosmaito ja vesi ja hauduta 10 minuuttia.",
+      "Kypsennä katkaravut liemessä.",
+      "Ryöppää riisinuudelit.",
+      "Kokoa kulhoihin liemi, nuudelit, idut, kalakakku ja laksanlehdet. Tarjoile sambalin kanssa."
+    ]
+  },
+  {
+    "id": "kg-malaysian-rojak-buah",
+    "title": "Rojak buah – malesialainen hedelmäsalaatti",
+    "description": "Trooppinen hedelmäsalaatti hapanimelällä tamarindikastikkeella ja maapähkinöillä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["malesialainen", "salaatti", "hedelmät"],
+    "ingredients": [
+      "1 mango, kuutioituna",
+      "1 ananas, kuutioituna",
+      "1 jicama (mukulapapu), kuutioituna",
+      "2 rkl tamarinditahnaa",
+      "1 rkl palmusokeria",
+      "1 rkl rojak-kastiketta (katkaraputahnakastiketta)",
+      "½ dl paahdettuja maapähkinöitä, murskattuna",
+      "1 soihtuinkiväärin nuppu, viipaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Leikkaa hedelmät suupaloiksi.",
+      "Vatkaa tamarindi, palmusokeri ja rojak-kastike.",
+      "Sekoita hedelmät varovasti kastikkeeseen.",
+      "Nosta vadille ja ripottele päälle maapähkinät.",
+      "Lisää päälle soihtuinkiväärin nuppua, jos sitä on saatavilla."
+    ],
+    "notes": ["Rojak-kastike sisältää yleensä katkaraputahnaa; jicaman voi korvata kurkulla tai vihreällä omenalla."]
+  },
+  {
+    "id": "kg-malaysian-roti-canai-simple-pan-version",
+    "title": "Roti canai – malesialainen lehtevä rieska",
+    "description": "Yksinkertaistettu pannuversio malesialaisesta kerroksellisesta leivästä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "malesialainen", "leipä"],
+    "ingredients": [
+      "300 g vehnäjauhoja",
+      "1 tl suolaa",
+      "1,8 dl lämmintä vettä",
+      "2 rkl kirkastettua voita (gheetä)",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Vaivaa jauhot, vesi, suola ja 1 rkl gheetä sileäksi taikinaksi.",
+      "Anna levätä 30 minuuttia.",
+      "Jaa taikina paloiksi ja venytä öljytyllä alustalla ohuiksi levyiksi.",
+      "Taita levyt neliöiksi.",
+      "Paista pannulla gheessä kullanruskeiksi ja lehteviksi."
+    ]
+  },
+  {
+    "id": "kg-malaysian-sambal-dressing",
+    "title": "Malesialainen sambalkastike",
+    "description": "Tulinen chilikastike nuudelisalaateille.",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "malesialainen"],
+    "ingredients": [
+      "1 rkl palmusokeria",
+      "1 rkl lämmintä vettä",
+      "2 rkl sambal oelekia",
+      "2 rkl limettimehua",
+      "1 rkl soijakastiketta",
+      "1 salottisipuli, hienonnettuna"
+    ],
+    "instructions": [
+      "Liuota palmusokeri lämpimään veteen.",
+      "Vatkaa joukkoon sambal, limettimehu ja soijakastike.",
+      "Lisää salottisipuli.",
+      "Anna maustua 10 minuuttia."
+    ]
+  },
+  {
+    "id": "kg-mango-lassi",
+    "title": "Mangolassi",
+    "description": "Kermainen intialainen mango-jogurttijuoma.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "smoothie", "gluteeniton"],
+    "ingredients": [
+      "5 dl pakastemangopaloja",
+      "2½ dl kreikkalaista jogurttia",
+      "2½ dl maitoa",
+      "2 rkl hunajaa",
+      "¼ tl kardemummaa",
+      "ripaus sahramia (valinnainen)"
+    ],
+    "instructions": [
+      "Laita mango, jogurtti, maito, hunaja ja kardemumma tehosekoittimeen.",
+      "Surauta täydellä teholla noin minuutti sileäksi ja vaahtoavaksi.",
+      "Maista ja säädä makeutta – kypsät mangot tarvitsevat vähemmän hunajaa.",
+      "Kaada laseihin ja ripottele pinnalle halutessasi hiukan kardemummaa tai sahramia."
+    ]
+  },
+  {
+    "id": "kg-mango-salsa",
+    "title": "Mangosalsa",
+    "description": "Makean tulinen salsa grillatun kalan tai possun kanssa.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 kypsää mangoa, kuutioituna",
+      "¼ punasipulia, hienoksi kuutioituna",
+      "1 punainen paprika, kuutioituna",
+      "1 jalapeño, hienonnettuna",
+      "2 rkl korianteria, hienonnettuna",
+      "2 rkl limettimehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Yhdistä mango, punasipuli, paprika ja jalapeño kulhossa.",
+      "Sekoita joukkoon korianteri ja limettimehu.",
+      "Mausta suolalla ja sekoita varovasti.",
+      "Anna jäähtyä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-mango-turmeric-lassi",
+    "title": "Mango-kurkumalassi",
+    "description": "Aurinkoinen iltapäiväjuoma.",
+    "servings": 2,
+    "totalTimeMin": 6,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "smoothie", "nopea"],
+    "ingredients": [
+      "250 g mangoa",
+      "200 g maustamatonta jogurttia",
+      "1,2 dl maitoa",
+      "ripaus kurkumaa",
+      "1 tl hunajaa",
+      "2 jääpalaa"
+    ],
+    "instructions": [
+      "Surauta mango, jogurtti, maito, kurkuma, hunaja ja jäät vaahtoavaksi.",
+      "Kaada kylmiin laseihin."
+    ]
+  }
+]

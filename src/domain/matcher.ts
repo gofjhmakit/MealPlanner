@@ -129,20 +129,31 @@ function matchCompound(word: string): { ing: CanonicalIngredient; via: string; f
 interface FineliNameEntry {
   food: FineliFood
   first: string
-  segments: string[]
+  /** Comma-separated name parts after the first ("Juusto, emmental" -> ["emmental"]). */
+  rest: Set<string>
+  /** Every word of every part. */
+  words: Set<string>
+  lower: string
 }
-const fineliIndexCache = new WeakMap<FineliLookup, FineliNameEntry[]>()
+interface FineliSearchIndex {
+  entries: FineliNameEntry[]
+  /** Results by name: recipes repeat the same ingredient names a lot. */
+  results: Map<string, { food: FineliFood; score: number } | null>
+}
+const fineliIndexCache = new WeakMap<FineliLookup, FineliSearchIndex>()
 
-function fineliEntries(lookup: FineliLookup): FineliNameEntry[] {
-  let entries = fineliIndexCache.get(lookup)
-  if (!entries) {
-    entries = lookup.all().map((food) => {
-      const segments = food.fi.toLowerCase().split(',').map((s) => s.trim()).filter(Boolean)
-      return { food, first: segments[0] ?? '', segments }
+function fineliIndex(lookup: FineliLookup): FineliSearchIndex {
+  let index = fineliIndexCache.get(lookup)
+  if (!index) {
+    const entries = lookup.all().map((food) => {
+      const lower = food.fi.toLowerCase()
+      const segments = lower.split(',').map((s) => s.trim()).filter(Boolean)
+      return { food, first: segments[0] ?? '', rest: new Set(segments.slice(1)), words: new Set(segments.flatMap((s) => s.split(' '))), lower, parts: segments.length }
     })
-    fineliIndexCache.set(lookup, entries)
+    index = { entries, results: new Map() }
+    fineliIndexCache.set(lookup, index)
   }
-  return entries
+  return index
 }
 
 /** Search Fineli foods for an ingredient name. Returns the best food and a score (0..0.55). */
@@ -150,23 +161,33 @@ export function searchFineli(
   lookup: FineliLookup,
   name: string,
 ): { food: FineliFood; score: number } | null {
+  const index = fineliIndex(lookup)
+  const cached = index.results.get(name)
+  if (cached !== undefined) return cached
+  const found = searchFineliUncached(index.entries as (FineliNameEntry & { parts: number })[], name)
+  if (index.results.size > 20000) index.results.clear()
+  index.results.set(name, found)
+  return found
+}
+
+function searchFineliUncached(entries: (FineliNameEntry & { parts: number })[], name: string): { food: FineliFood; score: number } | null {
   const tokens = tokenize(name)
   if (tokens.length === 0) return null
   const head = tokens[tokens.length - 1]
   const headCands = lemmaCandidates(head).filter((c) => c.length >= 4)
-  const otherCands = new Set(tokens.slice(0, -1).flatMap((t) => lemmaCandidates(t)).filter((c) => c.length >= 4))
+  const otherCands = [...new Set(tokens.slice(0, -1).flatMap((t) => lemmaCandidates(t)).filter((c) => c.length >= 4))]
   let best: { food: FineliFood; score: number } | null = null
-  for (const e of fineliEntries(lookup)) {
+  for (const e of entries) {
     let score = 0
     if (headCands.includes(e.first)) score = 0.55
-    else if (e.segments.slice(1).some((s) => headCands.includes(s))) score = 0.5
-    else if (headCands.some((c) => e.segments.some((s) => s.split(' ').includes(c)))) score = 0.45
+    else if (headCands.some((c) => e.rest.has(c))) score = 0.5
+    else if (headCands.some((c) => e.words.has(c))) score = 0.45
     if (score === 0) continue
-    if ([...otherCands].some((c) => e.food.fi.toLowerCase().includes(c))) score += 0.03
+    if (otherCands.some((c) => e.lower.includes(c))) score += 0.03
     if (e.food.type !== 'FOOD') score -= 0.05
     if (e.food.process === 'RAW' || e.food.process === 'IND') score += 0.01
     // shorter names are more generic ("Tomaatti" over "Tomaatti, aurinkokuivattu, öljyssä")
-    score -= Math.min(0.04, e.segments.length * 0.01)
+    score -= Math.min(0.04, e.parts * 0.01)
     if (!best || score > best.score) best = { food: e.food, score }
   }
   return best && best.score >= 0.4 ? { food: best.food, score: Math.min(0.55, best.score) } : null

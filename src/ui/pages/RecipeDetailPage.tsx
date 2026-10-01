@@ -102,7 +102,24 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
       </button>
 
       <div className="grid gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
-        <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-2xl" emojiSize="text-8xl" />
+        <figure className="min-w-0">
+          <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-2xl" emojiSize="text-8xl" />
+          {recipe.imageUrl && recipe.attribution?.imageCredit && (
+            <figcaption className="mt-1.5 text-xs text-muted">
+              Kuva: {recipe.attribution.imageCredit}
+              {recipe.attribution.imageLicense && (
+                <>
+                  {' · '}
+                  {safeHttpUrl(recipe.attribution.imageLicenseUrl) ? (
+                    <a href={safeHttpUrl(recipe.attribution.imageLicenseUrl)!} target="_blank" rel="noopener noreferrer" className="underline hover:text-brand">{recipe.attribution.imageLicense}</a>
+                  ) : (
+                    recipe.attribution.imageLicense
+                  )}
+                </>
+              )}
+            </figcaption>
+          )}
+        </figure>
         <div className="flex flex-col">
           <div className="mb-2 flex flex-wrap items-center gap-2">
             <SourceBadge recipe={recipe} />
@@ -124,7 +141,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
               }}
             />
           </div>
-          {recipe.description && <p className="mt-3 text-ink-2">{recipe.description}</p>}
+          {recipe.description && <p className="mt-3 whitespace-pre-line text-ink-2">{recipe.description}</p>}
 
           <dl className="mt-4 flex flex-wrap gap-x-6 gap-y-2 text-sm">
             {recipe.prepTimeMin ? <TimeItem label="Valmisteluaika" value={recipe.prepTimeMin} /> : null}
@@ -142,6 +159,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
               {recipe.author ? ` · ${recipe.author}` : ''}
             </p>
           )}
+          {recipe.attribution && <AttributionNote attribution={recipe.attribution} />}
 
           <div className="no-print mt-5 flex flex-wrap items-center gap-2">
             <Button icon={<CalendarPlus size={16} />} onClick={() => setPlanOpen(true)}>Lisää ruokalistalle</Button>
@@ -246,7 +264,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
             <SectionTitle>Valmistusohje</SectionTitle>
             {recipe.instructions.length === 0 ? (
               <p className="text-sm text-muted">
-                {recipe.origin === 'catalogue'
+                {recipe.sourceId === 'fineli'
                   ? 'Fineli-aineisto sisältää vain raaka-aineet ja määrät. Valmistusohjetta ei ole saatavilla.'
                   : 'Valmistusohjetta ei ole lisätty.'}
                 {sourceUrl && recipe.origin !== 'catalogue' && (
@@ -577,6 +595,24 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
           </section>
         </div>
       </div>
+    </div>
+  )
+}
+
+function AttributionNote({ attribution: a }: { attribution: NonNullable<Recipe['attribution']> }) {
+  const licenseUrl = safeHttpUrl(a.licenseUrl)
+  return (
+    <div className="mt-1 space-y-0.5 text-xs text-muted">
+      <p>
+        Lisenssi:{' '}
+        {licenseUrl ? (
+          <a href={licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-brand">{a.license}</a>
+        ) : (
+          a.license
+        )}
+        {a.originalTitle ? <> · Alkuperäinen nimi: <span lang="en">{a.originalTitle}</span></> : null}
+      </p>
+      {a.changes && <p>{a.changes}</p>}
     </div>
   )
 }

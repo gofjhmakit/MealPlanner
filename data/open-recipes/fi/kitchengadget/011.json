@@ -1,0 +1,662 @@
+[
+  {
+    "id": "kg-okinawa-soba",
+    "title": "Okinawa soba – okinawalainen nuudelikeitto",
+    "description": "Täyttävä okinawalainen vehnänuudelikeitto haudutetulla porsaankyljellä.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["liha", "japanilainen", "keitto", "nuudelit"],
+    "ingredients": [
+      "1 l dashilientä",
+      "200 g porsaan kylkeä, viipaloituna",
+      "2 rkl awamoria tai sakea",
+      "2 rkl soijakastiketta",
+      "400 g okinawa soba -nuudeleita tai udon-nuudeleita",
+      "100 g kalakakkua, viipaloituna",
+      "2 kevätsipulia, viipaloituna",
+      "säilöttyä inkivääriä"
+    ],
+    "instructions": [
+      "Hauduta porsaankylkeä dashissa awamorin kanssa 20 minuuttia.",
+      "Mausta liemi soijakastikkeella.",
+      "Keitä nuudelit erikseen ja jaa kulhoihin.",
+      "Kaada nuudeleiden päälle kuuma liemi ja porsas.",
+      "Lisää päälle kalakakku, kevätsipuli ja säilötty inkivääri."
+    ]
+  },
+  {
+    "id": "kg-olive-oil-bchamel-sauce",
+    "title": "Oliiviöljybesamel",
+    "description": "Espanjalaistyylinen valkokastike, jossa voin sijaan käytetään oliiviöljyä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "espanjalainen", "kastike"],
+    "ingredients": [
+      "1 l täys- tai kevytmaitoa",
+      "1 laakerinlehti",
+      "pala sipulia, johon on painettu 2 neilikkaa",
+      "60 ml ekstra-neitsytoliiviöljyä",
+      "60 g vehnäjauhoja",
+      "½ tl suolaa",
+      "¼ tl valkopippuria",
+      "¼ tl muskottipähkinää",
+      "1–2 rkl parmesaania tai manchegoa, hienoksi raastettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Halutessasi maustetta: kuumenna maito laakerinlehden ja neilikkasipulin kanssa juuri kiehumispisteeseen, peitä ja anna hautua 10 minuuttia. Poista mausteet. Anna maidon jäähtyä lämpimäksi.",
+      "Kuumenna öljy paksupohjaisessa kattilassa keskilämmöllä. Ripottele joukkoon jauhot ja sekoita koko ajan 2–3 minuuttia, kunnes seos vaahtoaa ja on vaalean kullankeltaista (älä ruskista).",
+      "Nosta liedeltä ja vatkaa joukkoon noin 1,5–2 dl maitoa sileäksi tahnaksi. Palauta miedolle lämmölle ja lisää loput maidosta 4–6 erässä vatkaten paakuttomaksi joka kerta.",
+      "Vaihda silikonilastaan ja kypsennä pohjaa kaapien 6–8 minuuttia, kunnes kastike peittää lusikan selän ja sormella vedetty viiva pysyy.",
+      "Mausta suolalla, pippurilla ja muskottipähkinällä. Lisää halutessasi juusto ja sekoita sulaksi. Tarkista maku.",
+      "Käytä heti tai peitä pinta leivinpaperilla tai kelmulla kalvon estämiseksi. Jäähdytä nopeasti ja säilytä jääkaapissa enintään 3 päivää."
+    ]
+  },
+  {
+    "id": "kg-one-pot-lasagna",
+    "title": "Yhden kattilan lasagne",
+    "description": "Lasagnen maut ilman kerrostamista: levyt kypsyvät suoraan jauhelihakastikkeessa.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "italialainen", "pasta", "arkiruoka"],
+    "ingredients": [
+      "700 g naudan jauhelihaa",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 prk (680 g) valmista tomaattikastiketta (marinara)",
+      "7 dl vettä",
+      "1 tl italialaista yrttisekoitusta",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "¼ tl chilihiutaleita",
+      "225 g lasagnelevyjä, paloiksi murrettuna",
+      "2½ dl ricotta-juustoa",
+      "5 dl mozzarellaraastetta",
+      "tuoretta basilikaa"
+    ],
+    "instructions": [
+      "Ruskista jauheliha isossa kattilassa keskikovalla lämmöllä murustellen. Kaada liika rasva pois.",
+      "Lisää valkosipuli ja paista 30 sekuntia.",
+      "Lisää tomaattikastike ja vesi sekä yrttisekoitus, suola, pippuri ja chilihiutaleet.",
+      "Lisää lasagnepalat ja painele ne nesteeseen. Kuumenna kiehuvaksi ja laske lämpöä. Hauduta kannen alla 15–18 minuuttia välillä sekoittaen, kunnes pasta on kypsää.",
+      "Nostele ricottaa lusikalla pinnalle ja ripottele päälle mozzarella. Peitä ja kypsennä vielä 3–4 minuuttia, kunnes juusto on sulanut.",
+      "Anna levätä 5 minuuttia ennen tarjoilua ja koristele basilikalla."
+    ]
+  },
+  {
+    "id": "kg-onion-bhaji",
+    "title": "Sipulibhajit",
+    "description": "Intialaiset rapeat sipulipakorat kikhernejauhotaikinassa. Ohjeesta tulee 10–12 kappaletta.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "100 g kikhernejauhoja",
+      "¼ tl chilijauhetta",
+      "½ tl kurkumaa",
+      "½ tl leivinjauhetta",
+      "½ tl juustokuminaa",
+      "½ tl suolaa",
+      "1 iso sipuli, puolitettuna ja ohuina viipaleina",
+      "1 vihreä chili, siemenet poistettuna ja hienonnettuna",
+      "25 g tuoretta korianteria, hienonnettuna",
+      "n. 1 dl kylmää vettä",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita kulhossa kikhernejauhot, chilijauhe, kurkuma, leivinjauhe, juustokumina ja suola.",
+      "Lisää sipuli, chili ja korianteri ja sekoita, kunnes ne ovat tasaisesti jauhojen peitossa.",
+      "Lisää kylmää vettä vähitellen sekoittaen, kunnes syntyy paksu, tarttuva taikina (ei juokseva).",
+      "Kuumenna öljy 180 asteeseen. Pudota öljyyn kukkurallisia ruokalusikallisia seosta ja paista 3–4 minuuttia käännellen syvän kullanruskeiksi.",
+      "Valuta talouspaperilla ja tarjoile kuumina chutneyn kanssa."
+    ]
+  },
+  {
+    "id": "kg-pad-thai",
+    "title": "Pad thai katkaravuilla",
+    "description": "Thaimaalaiset paistetut riisinuudelit tamarindikastikkeessa katkarapujen ja munan kera.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "thaimaalainen", "nuudelit"],
+    "ingredients": [
+      "225 g leveitä riisinuudeleita",
+      "Kastike:",
+      "3 rkl tamarinditahnaa",
+      "3 rkl kalakastiketta",
+      "2 rkl fariinisokeria",
+      "1 rkl riisiviinietikkaa",
+      "Wokki:",
+      "2 rkl rypsiöljyä",
+      "300 g kuorittuja katkarapuja",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 kananmunaa",
+      "5 dl idättämiä (mungpavun ituja)",
+      "3 kevätsipulia, viipaloituna",
+      "Tarjoiluun:",
+      "½ dl maapähkinöitä, murskattuna",
+      "tuoretta korianteria",
+      "1 limetti, lohkoina",
+      "chilihiutaleita"
+    ],
+    "instructions": [
+      "Liota nuudeleita lämpimässä vedessä 15–20 minuuttia, kunnes ne taipuvat mutta ovat vielä hieman kiinteitä – ne kypsyvät loppuun wokissa. Valuta hyvin.",
+      "Sekoita kastikkeen ainekset pienessä kulhossa. Maista: kastikkeen pitää olla kirpeän makean suolaista.",
+      "Kuumenna 1 rkl öljyä wokissa kovalla lämmöllä. Paista katkarapuja 1–2 minuuttia kummaltakin puolelta, kunnes ne juuri muuttuvat vaaleanpunaisiksi. Nosta sivuun.",
+      "Lisää loput öljystä ja valkosipuli ja paista 15 sekuntia. Työnnä sivuun, riko munat wokkiin ja paista karkeaksi kokkeliksi.",
+      "Lisää nuudelit ja kaada kastike päälle. Sekoittele koko ajan 2–3 minuuttia, kunnes nuudelit ovat kastikkeen peitossa ja kypsiä.",
+      "Palauta katkaravut wokkiin ja lisää idut ja puolet kevätsipulista. Sekoittele vielä 30 sekuntia.",
+      "Tarjoile heti maapähkinöiden, loppujen kevätsipulien, korianterin, limetin ja chilihiutaleiden kanssa."
+    ],
+    "notes": ["Katkaravut, kananmunat ja maapähkinät puuttuivat alkuperäisestä ainesluettelosta; määrät on arvioitu."]
+  },
+  {
+    "id": "kg-pad-thai-with-shrimp",
+    "skip": "lähes sama kuin kg-pad-thai"
+  },
+  {
+    "id": "kg-pan-fried-gnocchi-with-garlic-and-sage",
+    "title": "Kotitekoiset gnocchit pannulla valkosipulin ja salvian kera",
+    "description": "Perusgnocchit perunasta ja yksinkertainen tapa paistaa ne voissa salvian ja salottisipulin kanssa.",
+    "servings": 3,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "italialainen", "peruna", "pasta"],
+    "ingredients": [
+      "Gnocchit:",
+      "650 g jauhoisia perunoita",
+      "2 tl suolaa",
+      "250 g vehnäjauhoja",
+      "1 kananmuna",
+      "1 kananmunan keltuainen",
+      "Paistamiseen:",
+      "2 pitkää salottisipulia, viipaloituna",
+      "4 valkosipulinkynttä, viipaloituna",
+      "50 g voita",
+      "15 g tuoretta salviaa",
+      "1 rkl balsamietikkaa"
+    ],
+    "instructions": [
+      "Kuori perunat ja leikkaa 3–4 cm:n paloiksi.",
+      "Huuhtele perunat, laita kattilaan ja lisää vettä niin, että se peittää ne 2–3 cm:n kerroksella. Lisää 1 tl suolaa.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja keitä kannen alla 15–20 minuuttia kypsiksi.",
+      "Valuta perunat, huuhtele kylmällä vedellä, valuta uudelleen ja survo – mieluiten perunapuristimella.",
+      "Sekoita jauhot ja loput suolasta ja kumoa keoksi työtasolle. Tee keskelle kuoppa ja riko siihen kananmuna ja keltuainen. Lisää perunasose päälle.",
+      "Yhdistä ainekset sormin tasaiseksi, kuivaksi taikinaksi, joka ei tartu sormiin. Muotoile karkeaksi tangoksi.",
+      "Jauhota työtaso kevyesti ja jaa taikina kuuteen osaan. Pyöritä kukin noin 2 cm paksuksi tangoksi ja leikkaa gnocchin kokoisiksi paloiksi.",
+      "Pyöräytä paloja halutessasi haarukan selkää vasten perinteisen uurteen saamiseksi.",
+      "Keitä gnocchit erissä kiehuvassa suolalla maustetussa vedessä. Kun ne nousevat pintaan, nosta ne reikäkauhalla kulhoon.",
+      "Sulata voi isolla pannulla keskilämmöllä. Kuullota salottisipuli ja valkosipuli pehmeiksi, lisää salvianlehdet ja gnocchit ja paista käännellen, kunnes gnocchit ovat kullanruskeita. Viimeistele balsamietikalla ja tarjoile."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttui paistovaihe; se on lisätty ainesluettelon perusteella. Gnocchit sopivat myös muiden kastikkeiden kanssa."]
+  },
+  {
+    "id": "kg-panchmel-dal",
+    "title": "Panchmel dal – viiden linssin dal",
+    "description": "Rajasthanilainen viiden eri dalin sekoitus.",
+    "servings": 6,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "50 g halkaistuja mungpapuja (mung dal)",
+      "50 g punaisia linssejä",
+      "50 g halkaistuja kikherneitä (chana dal)",
+      "50 g halkaistuja kyyhkyherneitä (toor dal)",
+      "50 g halkaistuja urdpapuja (urad dal)",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl kirkastettua voita (gheetä)",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "2 tomaattia, pilkottuna",
+      "1 tl jauhettua korianteria",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Huuhtele kaikki dalit ja keitä ne yhdessä kurkuman ja suolan kanssa kermaisiksi.",
+      "Kuumenna ghee ja paahda juustokumina.",
+      "Kuullota sipuli kullanruskeaksi ja lisää tomaatit ja jauhettu korianteri.",
+      "Kypsennä mausteseosta 8 minuuttia.",
+      "Yhdistä dalin kanssa, hauduta 10 minuuttia ja koristele korianterilla."
+    ],
+    "notes": ["Vegaaninen versio: korvaa ghee öljyllä."]
+  },
+  {
+    "id": "kg-papas-a-lo-pobre-slow-cooked-potatoes",
+    "skip": "lähes sama kuin kg-patatas-a-lo-pobre-andalusian-potatoes (sama ruoka, epätarkemmat määrät)"
+  },
+  {
+    "id": "kg-paprika-chicken-with-peppers",
+    "title": "Paprikakana",
+    "description": "Savupaprikalla maustettu kana paprikoiden kanssa kermaisessa kastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "600 g broilerin rintafileetä, paloina",
+      "1 rkl oliiviöljyä",
+      "1 sipuli, viipaloituna",
+      "2 paprikaa, suikaloituna",
+      "2 tl savupaprikajauhetta",
+      "1,5 dl kanalientä",
+      "0,8 dl kuohukermaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Ruskista kanapalat oliiviöljyssä.",
+      "Lisää sipuli, paprikat ja paprikajauhe.",
+      "Lisää liemi ja hauduta, kunnes kana on kypsää.",
+      "Sekoita joukkoon kerma ja mausta."
+    ],
+    "notes": ["Tarjoile riisin tai ohran kanssa."]
+  },
+  {
+    "id": "kg-pasta-aglio-e-olio",
+    "title": "Pasta aglio e olio",
+    "description": "Klassinen roomalainen kaappipasta valkosipulista, öljystä ja chilistä.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "italialainen", "pasta", "nopea"],
+    "ingredients": [
+      "400 g spagettia",
+      "suolaa",
+      "80 ml ekstra-neitsytoliiviöljyä",
+      "6 valkosipulinkynttä, ohuina viipaleina",
+      "1 tl chilihiutaleita",
+      "kourallinen tuoretta persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Keitä spagetti runsaassa suolalla maustetussa vedessä al denteksi. Ota talteen 1,2 dl keitinvettä.",
+      "Kuullota valkosipulia ja chilihiutaleita öljyssä miedolla lämmöllä, kunnes ne tuoksuvat, mutta älä ruskista.",
+      "Sekoita valutettu pasta valkosipuliöljyyn ja lisää tilkka keitinvettä.",
+      "Viimeistele persiljalla ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "kg-pasta-bolognese",
+    "title": "Spaghetti bolognese",
+    "description": "Kevyt bolognesekastike vähärasvaisesta jauhelihasta ja fenkolinsiemenillä.",
+    "servings": 4,
+    "totalTimeMin": 65,
+    "category": "Pääruoat",
+    "tags": ["liha", "italialainen", "pasta", "arkiruoka"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "1 keskikokoinen sipuli, hienoksi kuutioituna",
+      "1 keskikokoinen porkkana, hienoksi kuutioituna",
+      "1 varsiselleri, hienoksi kuutioituna",
+      "2 tl fenkolinsiemeniä",
+      "400 g vähärasvaista naudan jauhelihaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "1 rkl tomaattipyreetä",
+      "2 tl kuivattua oreganoa",
+      "2 laakerinlehteä",
+      "1 lihaliemikuutio",
+      "3,75 dl vettä",
+      "suolaa",
+      "mustapippuria",
+      "Tarjoiluun:",
+      "320 g spagettia",
+      "parmesaania",
+      "tuoretta basilikaa"
+    ],
+    "instructions": [
+      "Voitele kattila ohuelti öljyllä ja kuumenna keskilämmöllä. Lisää sipuli, porkkana, selleri ja fenkolinsiemenet ja kuullota 6–8 minuuttia pehmeiksi.",
+      "Lisää jauheliha ja ruskista noin 5 minuuttia. Lisää valkosipuli ja paista minuutti.",
+      "Lisää tomaatit, tomaattipyree, oregano ja laakerinlehdet. Murenna joukkoon liemikuutio ja lisää vesi. Kuumenna kiehuvaksi ja hauduta kannen alla 40 minuuttia paksuksi. Mausta.",
+      "Keitä pasta pakkauksen ohjeen mukaan. Valuta ja tarjoile kastikkeen, parmesaanin ja basilikan kanssa."
+    ]
+  },
+  {
+    "id": "kg-pasta-with-salmon-and-asparagus",
+    "title": "Lohipasta parsalla",
+    "description": "Kevyt pasta lohesta, parsasta ja tuorejuustosta sitruunalla ja tillillä.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "pasta", "nopea"],
+    "ingredients": [
+      "100 g vihreää parsaa",
+      "1 tl rypsiöljyä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "¼ tl chilihiutaleita",
+      "150 g lohifileetä",
+      "110 g pastaa",
+      "suolaa",
+      "1 rkl sitruunamehua",
+      "100 g kevyttä tuorejuustoa",
+      "mustapippuria",
+      "1 tl tuoretta tilliä"
+    ],
+    "instructions": [
+      "Napsauta parsoista puiset tyvet pois ja leikkaa varret vinosti 2,5 cm:n paloiksi.",
+      "Kuumenna öljy pannulla keskikovalla lämmöllä. Kuullota valkosipulia ja chilihiutaleita 30 sekuntia. Lisää lohi ja paista 3 minuuttia kummaltakin puolelta.",
+      "Keitä pasta kevyesti suolatussa vedessä pakkauksen ohjeen mukaan ja lisää parsat 3 minuuttia ennen loppua. Valuta, palauta kattilaan, lisää sitruunamehu ja tuorejuusto ja sekoita miedolla lämmöllä minuutti.",
+      "Paloittele lohi suupaloiksi ja poista nahka ja ruodot. Sekoita varovasti pastaan ja tarjoile mustapippurilla ja tillillä."
+    ],
+    "notes": ["Alkuperäinen ilmoittaa 4 annosta, mutta määrät riittävät noin kahdelle."]
+  },
+  {
+    "id": "kg-patatas-a-lo-pobre-andalusian-potatoes",
+    "title": "Patatas a lo pobre – andalusialaiset köyhän miehen perunat",
+    "description": "Oliiviöljyssä hitaasti paistetut perunat, paprika ja sipuli.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "espanjalainen", "peruna", "gluteeniton"],
+    "ingredients": [
+      "4 isoa perunaa, ohuina viipaleina",
+      "1,2 dl oliiviöljyä",
+      "suolaa",
+      "1 vihreä paprika, pilkottuna tai paksuina suikaleina",
+      "1 sipuli, karkeasti pilkottuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy syvässä paistinpannussa keskikovalla lämmöllä. Lisää perunat ja suola ja paista 5 minuuttia käännellen.",
+      "Laske lämpö pieneksi, peitä kannella ja paista 10 minuuttia.",
+      "Lisää paprika ja sipuli, sekoita, peitä ja paista miedolla lämmöllä vielä 10 minuuttia välillä tarkistaen.",
+      "Jatka, kunnes perunat ovat pehmeitä ja reunoilta rapeita. Tarkista suola ja valuta halutessasi ylimääräinen öljy. Tarjoile kuumana."
+    ],
+    "notes": ["Hitaampi versio: kypsennä lisäksi kokonaisia valkosipulinkynsiä ja chiliä runsaassa öljyssä miedolla lämmöllä 1–2 tuntia, kunnes seos on pehmeää ja yhtenäistä."]
+  },
+  {
+    "id": "kg-peanut-butter-cookies",
+    "title": "Maapähkinävoikeksit",
+    "description": "Kolmen aineksen gluteenittomat maapähkinävoikeksit.",
+    "servings": 24,
+    "totalTimeMin": 22,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "gluteeniton", "nopea"],
+    "ingredients": [
+      "250 g maapähkinävoita (kermaista)",
+      "2½ dl sokeria",
+      "1 iso kananmuna",
+      "1 tl vaniljauutetta (valinnainen)",
+      "sormisuolaa pinnalle"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja vuoraa kaksi pellillistä leivinpaperilla.",
+      "Sekoita kulhossa maapähkinävoi, sokeri ja kananmuna tasaiseksi. Taikina näyttää öljyiseltä ja löysältä – se on normaalia. Lisää halutessasi vanilja.",
+      "Pyöritä taikinasta ruokalusikallisen kokoisia palloja ja nosta ne pelleille noin 5 cm:n välein. Keksejä tulee noin 24.",
+      "Painele palloja haarukan selällä noin 1 cm paksuiksi, käännä haarukkaa 90 astetta ja painele uudelleen ristikuvioksi.",
+      "Ripottele jokaisen pinnalle hyppysellinen sormisuolaa.",
+      "Paista 10–12 minuuttia, kunnes reunat ovat hyytyneet ja alkavat kullanruskistua. Keskusta jää hieman raa'an näköiseksi ja kiinteytyy jäähtyessä.",
+      "Anna jäähtyä pellillä 5 minuuttia ennen kuin siirrät ritilälle – kuumina keksit ovat hauraita."
+    ]
+  },
+  {
+    "id": "kg-peanut-noodles-with-cucumber",
+    "title": "Kylmät maapähkinänuudelit kurkulla",
+    "description": "Proteiinipitoiset kylmät maapähkinänuudelit, sopivat eväiksi.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nuudelit", "nopea"],
+    "ingredients": [
+      "300 g täysjyvänuudeleita",
+      "3 rkl maapähkinävoita",
+      "2 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 tl raastettua inkivääriä",
+      "3 rkl lämmintä vettä",
+      "1 kurkku, suikaloituna",
+      "2 kevätsipulia, viipaloituna",
+      "2 rkl maapähkinöitä, murskattuna"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja huuhtele kylmällä vedellä.",
+      "Vatkaa maapähkinävoi, soijakastike, etikka, inkivääri ja lämmin vesi.",
+      "Sekoita nuudelit kastikkeeseen.",
+      "Lisää päälle kurkku ja kevätsipuli.",
+      "Ripottele pinnalle murskatut maapähkinät."
+    ]
+  },
+  {
+    "id": "kg-peppercorn-sauce",
+    "title": "Pippurikastike",
+    "description": "Klassinen sauce au poivre pihville, perinteisesti liekitetty konjakilla.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 rkl voita",
+      "1 salottisipuli, hienonnettuna",
+      "2 rkl vihreitä pippureita, murskattuna",
+      "60 ml konjakkia tai brandya",
+      "2 dl lihalientä",
+      "1 dl kuohukermaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Sulata voi ja kuullota salottisipulia 3 minuuttia pehmeäksi.",
+      "Lisää murskatut pippurit ja paista minuutti.",
+      "Nosta pannu liedeltä, lisää konjakki ja palauta lämmölle. Keitä, kunnes neste on lähes haihtunut.",
+      "Lisää liemi ja keitä puoleen.",
+      "Lisää kerma ja hauduta 3 minuuttia, kunnes kastike sakenee. Mausta suolalla."
+    ]
+  },
+  {
+    "id": "kg-peruvian-aji-verde",
+    "title": "Perulainen ají verde",
+    "description": "Kermainen vihreä kastike perulaisen grillikanan (pollo a la brasa) kanssa.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "perulainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl tuoretta korianteria",
+      "2 ají amarillo -chiliä tai jalapeñoa, siemenet poistettuna",
+      "2 valkosipulinkynttä",
+      "1¼ dl majoneesia",
+      "2 rkl limettimehua",
+      "1 rkl fetajuustoa tai queso frescoa (valinnainen)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita korianteri, chilit, valkosipuli ja majoneesi tehosekoittimeen.",
+      "Lisää limettimehu ja halutessasi juusto.",
+      "Surauta sileäksi ja kirkkaanvihreäksi.",
+      "Mausta suolalla ja säilytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "kg-picada-catalana-nut-herb-paste",
+    "title": "Picada – katalonialainen pähkinä-yrttitahna",
+    "description": "Morttelissa survottu pähkinätahna, joka lisätään keittoihin, liha- ja kalaruokiin kypsennyksen puolivälissä maun syventämiseksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "espanjalainen", "mauste"],
+    "ingredients": [
+      "¼ tl sahramia",
+      "2 valkosipulinkynttä, kuorittuna",
+      "½ tl suolaa",
+      "30 g paahdettuja kuorittuja manteleita",
+      "30 g paahdettuja kuorittuja hasselpähkinöitä",
+      "½ tl kanelia",
+      "2 oksaa persiljaa, hienonnettuna",
+      "60 ml kuivaa sherryä"
+    ],
+    "instructions": [
+      "Survo morttelissa sahrami, valkosipuli, suola, mantelit, hasselpähkinät, kaneli ja persilja hienoksi tahnaksi.",
+      "Sekoita joukkoon sherryä vähitellen, kunnes tahna on lusikoitavaa. Lisää keittoihin, liha- tai kalaruokiin kypsennyksen puolivälissä."
+    ]
+  },
+  {
+    "id": "kg-pico-de-gallo",
+    "title": "Pico de gallo",
+    "description": "Tuore, kypsentämätön meksikolainen salsa – parhaimmillaan samana päivänä tehtynä.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "4 kypsää tomaattia, kuutioituna",
+      "½ sipulia, hienoksi kuutioituna",
+      "1 jalapeño, siemenet poistettuna ja hienonnettuna",
+      "½ dl korianteria, hienonnettuna",
+      "2 rkl limettimehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Yhdistä tomaatit, sipuli, jalapeño ja korianteri kulhossa.",
+      "Lisää limettimehu ja suola ja sekoita varovasti.",
+      "Anna maustua 10 minuuttia.",
+      "Valuta tarvittaessa ylimääräinen neste ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-pide",
+    "title": "Pide – turkkilainen lattea leipä",
+    "description": "Turkkilainen seesamin ja mustakuminan siemenillä koristeltu leipä, sopii esimerkiksi yoğurtlu kebabiin tai grilliruoan lisukkeeksi.",
+    "servings": 2,
+    "totalTimeMin": 150,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "turkkilainen", "leipä"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "7 g kuivahiivaa",
+      "1 tl sokeria",
+      "1 tl suolaa",
+      "3,75 dl lämmintä vettä (40-asteista)",
+      "1 kananmunan keltuainen",
+      "1 rkl oliiviöljyä",
+      "2 tl seesaminsiemeniä",
+      "1 tl mustakuminan siemeniä (nigella)"
+    ],
+    "instructions": [
+      "Sekoita kulhossa jauhot, hiiva, sokeri ja suola ja lisää vesi. Sekoita, kunnes muodostuu kostea taikina.",
+      "Kumoa taikina jauhotetulle alustalle ja vaivaa noin 15 minuuttia sileäksi.",
+      "Nosta taikina öljyttyyn kulhoon, peitä kostealla liinalla ja kohota lämpimässä 60–90 minuuttia, kunnes se on kaksinkertaistunut.",
+      "Kumoa taikina jauhotetulle alustalle ja puolita. Litistä puolikkaat hieman ja nosta kumpikin omalle jauhotetulle leivinpaperille. Peitä kostealla liinalla ja anna levätä noin 15 minuuttia.",
+      "Kuumenna uuni 230 asteeseen. Venytä taikinat suunnilleen uunipellin kokoisiksi jättäen reunoille hieman paksuutta. Peitä ja anna levätä vielä 15 minuuttia.",
+      "Sekoita keltuainen ja öljy ja sivele leipien pinnalle. Painele sormilla pieniä kuoppia pintaan ja ripottele päälle seesamin- ja mustakuminan siemenet.",
+      "Paista leivät pelleillä noin 8–10 minuuttia kypsiksi ja kullanruskeiksi. Jäähdytä hetki ritilällä ja leikkaa paloiksi."
+    ]
+  },
+  {
+    "id": "kg-pierogi",
+    "title": "Pierogit peruna-juustotäytteellä",
+    "description": "Puolalaiset taikinanyytit, jotka ensin keitetään ja sitten paistetaan sipulien kanssa – täydellistä lohturuokaa.",
+    "servings": 20,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "puolalainen", "peruna"],
+    "ingredients": [
+      "Täyte:",
+      "1 kg perunoita",
+      "20 g voita",
+      "100 g vahvaa cheddarjuustoa, raastettuna",
+      "1 rkl ruohosipulia, hienonnettuna",
+      "Taikina:",
+      "350 g vehnäjauhoja",
+      "1 dl maitoa",
+      "2 kananmunaa",
+      "7 g suolaa",
+      "10 ml rypsiöljyä",
+      "Paistamiseen ja tarjoiluun:",
+      "30 g voita",
+      "2 sipulia, ohuina viipaleina",
+      "kermaviiliä"
+    ],
+    "instructions": [
+      "Kuori perunat ja leikkaa 2 cm:n kuutioiksi. Keitä suolalla maustetussa vedessä, kunnes ne hajoavat kevyesti painettaessa.",
+      "Valuta perunat ja levitä leikkuulaudalle. Survo haarukalla ja ripottele päälle juusto, voi ja ruohosipuli. Sekoita tasaiseksi, mutta älä liikaa. Nosta sivuun.",
+      "Laita jauhot isoon kulhoon. Vatkaa munat ja maito ja kaada jauhojen päälle. Lisää öljy ja suola ja sekoita löysäksi taikinaksi. Anna levätä 10 minuuttia.",
+      "Kumoa taikina jauhotetulle alustalle ja vaivaa noin 10 minuuttia sileäksi ja kimmoisaksi.",
+      "Kauli taikina ohueksi, noin 3–4 mm:n levyksi. Ota siitä noin 5 cm:n kiekkoja esimerkiksi muotilla tai juomalasilla. Yhdistä ylijäämät, kauli uudelleen ja jatka, kunnes taikina loppuu.",
+      "Nosta jokaiselle kiekolle lusikallinen täytettä, taita taikina puolikuuksi ja painele reunat haarukalla kiinni.",
+      "Kiehauta iso kattilallinen suolalla maustettua vettä. Keitä pierogeja muutama kerrallaan. Kun ne nousevat pintaan, keitä vielä 2 minuuttia ja nosta reikäkauhalla pois.",
+      "Pierogit voi tässä vaiheessa jäähdyttää tai pakastaa. Tarjoiltaessa sulata voi isolla pannulla keskilämmöllä ja paista sipuleita noin 10 minuuttia tahmeiksi ja ruskeiksi. Lisää pierogit ja paista käännellen kevyesti ruskeiksi. Tarjoile sipulien ja reilun kermaviilinokareen kanssa."
+    ]
+  },
+  {
+    "id": "kg-pizza-bagels",
+    "title": "Pizzabagelit",
+    "description": "Nopeat uunissa gratinoidut bagelpizzat salamilla.",
+    "servings": 12,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["liha", "italialainen", "nopea"],
+    "ingredients": [
+      "6 bagelia, halkaistuna",
+      "2½ dl valmista tomaattikastiketta (marinara)",
+      "5 dl mozzarellaraastetta",
+      "72 viipaletta pepperonimakkaraa",
+      "italialaista yrttisekoitusta",
+      "chilihiutaleita"
+    ],
+    "instructions": [
+      "Siirrä ritilä uunin yläosaan ja kytke grillivastus täysille.",
+      "Asettele bagelinpuolikkaat leikkuupinta ylöspäin uunipellille.",
+      "Levitä jokaiselle noin 1 rkl tomaattikastiketta.",
+      "Lisää päälle reilusti mozzarellaa ja 5–6 viipaletta pepperonia.",
+      "Ripottele pinnalle yrttisekoitusta ja halutessasi chilihiutaleita.",
+      "Grillaa 3–5 minuuttia tarkasti seuraten, kunnes juusto kuplii ja reunat ovat kullanruskeita.",
+      "Anna jäähtyä 2 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-poached-eggs-on-spinach",
+    "title": "Uppomunat pinaatin päällä",
+    "description": "Kevyt ja proteiinipitoinen aamiainen.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "200 g pinaattia",
+      "1 rkl väkiviinaetikkaa",
+      "4 kananmunaa",
+      "2 viipaletta täysjyväleipää",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Nuuteta pinaatti oliiviöljyssä ja pidä lämpimänä.",
+      "Kuumenna vesi ja etikka hiljalleen kiehuvaksi ja kypsennä munia 3 minuuttia uppomuniksi.",
+      "Paahda leivät.",
+      "Tarjoile munat pinaatin päällä paahtoleivän kanssa. Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "kg-pork-chops-with-creamy-leeks-new-potatoes",
+    "title": "Porsaankyljykset, kermainen purjo ja uudet perunat",
+    "description": "Pannulla paistetut kyljykset sinappisen ranskankermapurjon kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "peruna", "arkiruoka"],
+    "ingredients": [
+      "700 g uusia perunoita, isot puolitettuna",
+      "1 tl rypsiöljyä",
+      "500 g porsaan ulkofileekyljyksiä, rasva poistettuna",
+      "1 valkosipulinkynsi, murskattuna",
+      "3 isoa purjoa, ohuina viipaleina",
+      "1 rkl karkeaa sinappia",
+      "2 tl dijonsinappia",
+      "200 g kevyttä ranskankermaa",
+      "1 sitruunan raastettu kuori (+ lohkoja tarjoiluun)",
+      "1 rkl tuoretta persiljaa, karkeasti hienonnettuna (+ lisää tarjoiluun)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä perunat 12–15 minuuttia juuri kypsiksi, valuta ja nosta sivuun.",
+      "Voitele iso pannu ohuelti öljyllä ja kuumenna keskilämmöllä. Paista kyljyksiä ja valkosipulia 3 minuuttia, käännä ja paista 2 minuuttia kullanruskeiksi ja kypsiksi. Nosta lautaselle.",
+      "Lisää pannulle tilkka öljyä ja purjot ja kuullota 4–5 minuuttia pehmeiksi. Sekoita joukkoon molemmat sinapit, ranskankerma ja sitruunankuori.",
+      "Mausta, kuumenna kiehuvaksi, sekoita joukkoon persilja ja nosta liedeltä.",
+      "Tarjoile kyljykset purjon, uusien perunoiden ja sitruunalohkojen kanssa persiljalla viimeisteltyinä."
+    ]
+  }
+]

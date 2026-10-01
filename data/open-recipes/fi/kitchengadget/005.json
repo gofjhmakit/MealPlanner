@@ -1,0 +1,639 @@
+[
+  {
+    "id": "kg-dal-palak",
+    "title": "Dal palak – pinaattidal",
+    "description": "Pohjois-intialainen klassikko: linssipata pinaatilla.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja kyyhkyherneitä (toor dal)",
+      "½ tl kurkumaa",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "2 vihreää chiliä, halkaistuna",
+      "300 g pinaattia, pilkottuna",
+      "1 rkl sitruunamehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman kanssa vedessä pehmeäksi.",
+      "Paista juustokumina, sipuli ja chilit öljyssä.",
+      "Lisää pinaatti ja kypsennä, kunnes se nuutuu.",
+      "Sekoita pinaattiseos daliin ja hauduta 8 minuuttia.",
+      "Viimeistele sitruunamehulla ja suolalla."
+    ]
+  },
+  {
+    "id": "kg-dal-tadka",
+    "title": "Dal tadka",
+    "description": "Intialainen arkiklassikko: keltainen linssipata mausteöljyllä.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g keltaisia halkaistuja linssejä",
+      "8 dl vettä",
+      "1 tl kurkumaa",
+      "1 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "2 cm pala inkivääriä, raastettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tomaattia, pilkottuna",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Huuhtele linssit ja keitä niitä kurkuman ja veden kanssa noin 25 minuuttia pehmeiksi.",
+      "Paista juustokumina öljyssä, lisää sipuli, inkivääri ja valkosipuli ja kuullota kullanruskeiksi.",
+      "Lisää tomaatit ja kypsennä, kunnes ne hajoavat.",
+      "Sekoita mausteseos linsseihin, mausta suolalla ja hauduta 5 minuuttia.",
+      "Viimeistele korianterilla ja tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-dan-dan-noodles",
+    "title": "Dan dan -nuudelit",
+    "description": "Tulinen sichuanilainen katuruoka: nuudelit, rapea porsaanjauheliha ja seesami-chilikastike.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "kiinalainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "250 g tuoreita vehnänuudeleita",
+      "2 rkl rypsiöljyä",
+      "150 g porsaan jauhelihaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "Kastike:",
+      "1 rkl kiinalaista seesamitahnaa tai tahinia",
+      "2 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "2 rkl chiliöljyä",
+      "3 rkl nuudelien keitinvettä",
+      "Päälle:",
+      "2 kevätsipulia, viipaloituna",
+      "1 tl sichuaninpippuria, jauhettuna"
+    ],
+    "instructions": [
+      "Keitä nuudelit al denteksi, valuta (ota talteen vähän keitinvettä) ja jaa kulhoihin.",
+      "Ruskista jauheliha valkosipulin kanssa öljyssä rapeaksi.",
+      "Vatkaa seesamitahna, soijakastike, etikka, chiliöljy ja keitinvesi.",
+      "Lusikoi kastike nuudeleille ja lisää päälle liha ja kevätsipuli.",
+      "Viimeistele jauhetulla sichuaninpippurilla."
+    ]
+  },
+  {
+    "id": "kg-dark-chocolate-chia-pudding",
+    "title": "Tumma suklaa-chiavanukas",
+    "description": "Helppo etukäteen valmistettava suklainen chiavanukas.",
+    "servings": 4,
+    "totalTimeMin": 250,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "gluteeniton"],
+    "ingredients": [
+      "45 g chiansiemeniä",
+      "3,5 dl maitoa tai kasvijuomaa",
+      "2 rkl kaakaojauhetta",
+      "1 rkl vaahterasiirappia",
+      "50 g tummaa suklaata, raastettuna"
+    ],
+    "instructions": [
+      "Vatkaa chiansiemenet, maito, kaakao ja vaahterasiirappi.",
+      "Anna seistä 10 minuuttia, vatkaa uudelleen ja jäähdytä jääkaapissa 4 tuntia.",
+      "Ripottele pinnalle raastettua tummaa suklaata."
+    ],
+    "notes": ["Vadelmat tuovat kivan kontrastin."]
+  },
+  {
+    "id": "kg-doenjang-jjigae-korean-soybean-paste-stew",
+    "title": "Doenjang jjigae – korealainen soijapapupastapata",
+    "description": "Täyttävä korealainen keittopata fermentoidusta soijapapupastasta, tofusta ja kasviksista.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "korealainen", "keitto", "tofu"],
+    "ingredients": [
+      "2 rkl doenjangia (korealaista soijapapupastaa)",
+      "5 dl vettä",
+      "100 g perunoita, kuutioituna",
+      "½ sipulia, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "150 g kesäkurpitsaa, kuutioituna",
+      "200 g kiinteää tofua, kuutioituna",
+      "1 vihreä chili, viipaloituna",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Liuota doenjang kattilassa veteen.",
+      "Lisää peruna, sipuli ja valkosipuli ja keitä 10 minuuttia.",
+      "Lisää kesäkurpitsa ja tofu.",
+      "Keitä vielä 8 minuuttia.",
+      "Viimeistele chilillä ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-dry-cured-sausage-basic-ratio",
+    "skip": "kuukausia kuivattava ilmakuivattu makkara; vaatii nitriittisuolaa ja hallitut kuivausolosuhteet, eikä ainesmääriä ole annettu"
+  },
+  {
+    "id": "kg-dumplings",
+    "title": "Brittiläiset dumplingit padan päälle",
+    "description": "Voista ja jauhoista tehdyt taikinapallot, jotka kypsyvät valmiin padan pinnalla.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "brittiläinen", "pataruoka"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "125 g hyvin kylmää voita",
+      "suolaa",
+      "mustapippuria",
+      "n. 1 dl kylmää vettä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Laita jauhot ja leivinjauhe kulhoon.",
+      "Raasta kylmä voi karkealla raastimella jauhojen joukkoon.",
+      "Lisää ripaus suolaa ja pippuria.",
+      "Hiero voi sormin jauhoihin, kunnes seos on korppujauhomaista.",
+      "Lisää tilkka kylmää vettä ja sekoita taikinaksi.",
+      "Jaa taikina 24 palaan ja pyöritä palloiksi.",
+      "Asettele pallot valmiin, kypsän padan päälle ja painele kevyesti niin, että ne ovat puoliksi nesteessä. Jos pata näyttää kuivalta, lisää noin 2½ dl kiehuvaa vettä, sillä dumplingit imevät paljon nestettä.",
+      "Kypsennä uunissa tai liedellä keskilämmöllä kannen alla 30 minuuttia."
+    ]
+  },
+  {
+    "id": "kg-edamame-and-corn-salad",
+    "title": "Edamame-maissisalaatti",
+    "description": "Värikäs japanilaishenkinen salaatti.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "japanilainen", "nopea", "salaatti"],
+    "ingredients": [
+      "300 g kuorittuja pakasteedamamepapuja",
+      "200 g maissinjyviä",
+      "1 punainen paprika, kuutioituna",
+      "2 rkl riisiviinietikkaa",
+      "1 rkl seesamiöljyä",
+      "1 rkl soijakastiketta",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Ryöppää edamamepapuja ja maissia 3 minuuttia ja jäähdytä.",
+      "Yhdistä paprikan kanssa.",
+      "Vatkaa etikka, seesamiöljy ja soijakastike.",
+      "Sekoita kastike salaattiin.",
+      "Jäähdytä ja viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-egg-fried-noodles",
+    "title": "Munapaistetut nuudelit",
+    "description": "Nopeat wokkinuudelit munalla ja kasviksilla – sopii tähdenuudeleille.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "aasialainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "250 g munanuudeleita",
+      "1 rkl rypsiöljyä",
+      "2 kananmunaa",
+      "150 g wokkivihanneksia",
+      "2 rkl soijakastiketta",
+      "1 tl seesamiöljyä",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja valuta.",
+      "Paista munat kuumassa wokissa kokkeliksi ja nosta sivuun.",
+      "Paista vihanneksia, lisää nuudelit ja soijakastike.",
+      "Palauta munat ja viimeistele seesamiöljyllä ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-egg-muffin-cups",
+    "title": "Munamuffinit kinkulla ja paprikalla",
+    "description": "Muffinivuoassa paistetut munakasannokset aamiaiseksi tai eväiksi.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "eväät", "gluteeniton"],
+    "ingredients": [
+      "10 kananmunaa",
+      "½ dl maitoa",
+      "½ tl valkosipulijauhetta",
+      "½ tl sipulijauhetta",
+      "suolaa",
+      "mustapippuria",
+      "2½ dl kinkkukuutioita",
+      "1¾ dl vahvaa cheddarjuustoa, raastettuna",
+      "2 paprikaa, pieninä kuutioina",
+      "öljyä vuoan voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Voitele 12-paikkainen muffinivuoka huolellisesti, muuten munat tarttuvat kiinni.",
+      "Kuutioi paprikat pieniksi, noin ½ cm:n paloiksi.",
+      "Jaa kinkku, paprika ja juusto tasaisesti koloihin noin puoliväliin asti.",
+      "Riko munat kaatonokalliseen kulhoon. Lisää maito, valkosipuli- ja sipulijauhe, suola ja pippuri ja vatkaa tasaiseksi.",
+      "Kaada munaseos täytteiden päälle noin kolme neljäsosaa koloista. Sekoita kevyesti haarukalla.",
+      "Paista 18–22 minuuttia, kunnes pinta on hyytynyt ja kevyesti kullanruskea.",
+      "Anna jäähtyä vuoassa 5 minuuttia, irrota reunat veitsellä ja nosta muffinit pois."
+    ]
+  },
+  {
+    "id": "kg-estonian-kringle",
+    "title": "Virolainen kringel – kanelikranssi",
+    "description": "Kanelipullamainen, palmikoitu kranssi, joka näyttää ja tuoksuu upealta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 110,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "virolainen", "pulla", "leivonnainen"],
+    "ingredients": [
+      "Taikina:",
+      "1,8 dl maitoa (40-asteista)",
+      "7 g kuivahiivaa",
+      "25 g sokeria",
+      "1 kananmunan keltuainen",
+      "30 g voita, sulatettuna",
+      "280 g vehnäjauhoja",
+      "½ tl suolaa",
+      "Täyte:",
+      "50 g pehmeää voita",
+      "50 g sokeria",
+      "3 tl kanelia",
+      "3 tl mantelijauhetta"
+    ],
+    "instructions": [
+      "Sekoita kulhossa hiiva, sokeri ja maito. Lisää keltuainen ja sulatettu voi.",
+      "Sekoita isossa kulhossa jauhot ja suola ja kaada joukkoon maitoseos. Sekoita ja vaivaa, kunnes taikina on yhtenäinen. Muotoile palloksi ja nosta öljyttyyn kulhoon. Kohota lämpimässä noin tunti, kunnes taikina on kaksinkertaistunut.",
+      "Sekoita sillä välin pehmeä voi, sokeri ja kaneli täytteeksi.",
+      "Kuumenna uuni 200 asteeseen ja vuoraa pelti leivinpaperilla. Kauli taikina jauhotetulla alustalla noin 45 x 30 cm:n levyksi.",
+      "Levitä täyte tasaisesti taikinalle, säästä 1 rkl myöhemmäksi ja jätä reunoille 1–2 cm tyhjää. Ripottele päälle mantelijauhe ja kääri levy pitkältä sivulta rullaksi.",
+      "Halkaise rulla pituussuunnassa niin, että toinen pää jää 1–2 cm:n matkalta leikkaamatta. Kierrä puolikkaat toistensa ympäri leikkuupinnat ylöspäin. Yhdistä päät ja taita ne alle kranssiksi.",
+      "Nosta kranssi pellille ja sivele pinta lopulla täytteellä. Paista 20–25 minuuttia kullanruskeaksi; laske lämpö viimeiseksi 10 minuutiksi 180 asteeseen. Jäähdytä ritilällä."
+    ],
+    "notes": ["Alkuperäisessä luettelossa koko sokerimäärä (75 g) oli yhdessä rivissä; se on jaettu taikinan ja täytteen kesken."]
+  },
+  {
+    "id": "kg-fat-knackers-stuffed-steak-rolls",
+    "title": "Karamellisoidulla sipulilla täytetyt naudanlihakääryleet",
+    "description": "Ohuet naudanpihvit käärittyinä hillomaisen sipulitäytteen ympärille ja grillattuina tai uunissa haudutettuina.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "brittiläinen"],
+    "ingredients": [
+      "2 isoa sipulia, ohuina viipaleina",
+      "2 rkl oliiviöljyä",
+      "2 rkl fariinisokeria",
+      "1 rkl punaviinietikkaa",
+      "600 g ohuita, nuijittuja naudan leikkeitä (n. 8 kpl)",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuullota sipuleita hitaasti oliiviöljyssä mieto-keskilämmöllä, kunnes ne ovat syvästi karamellisoituneita. Lisää puolivälissä fariinisokeri ja etikka ja kypsennä hillomaiseksi. Anna jäähtyä hieman.",
+      "Levitä leikkeet ja mausta kevyesti suolalla ja pippurilla. Nosta lusikallinen sipulia leikkeen toiseen päähän, kääri rullalle ja kiinnitä hammastikuilla.",
+      "Sivele öljyllä ja grillaa keskikovalla lämmöllä käännellen ruskeiksi ja kypsiksi, noin 6–8 minuuttia. Vaihtoehtoisesti kypsennä peitettynä 180-asteisessa uunissa tilkan punaviiniä kanssa 30–40 minuuttia.",
+      "Anna levätä hetki ja tarjoile kuumana. Sopivat myös kylmänä seuraavana päivänä."
+    ]
+  },
+  {
+    "id": "kg-filipino-atchara-pickled-papaya",
+    "title": "Atchara – filippiiniläinen papaijapikkels",
+    "description": "Makeahko filippiiniläinen säilyke raa'asta papaijasta ja porkkanasta.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "filippiiniläinen", "lisuke"],
+    "ingredients": [
+      "300 g raakaa vihreää papaijaa, suikaloituna",
+      "1 porkkana, suikaloituna",
+      "1 rkl suolaa vihannesten suolaamiseen",
+      "1¼ dl väkiviinaetikkaa (10 %) tai omenaviinietikkaa",
+      "½ dl sokeria",
+      "1 tl suolaa",
+      "3 ohutta viipaletta inkivääriä",
+      "2 valkosipulinkynttä, viipaloituna"
+    ],
+    "instructions": [
+      "Sekoita papaijaan ja porkkanaan suola ja anna seistä 30 minuuttia. Huuhtele ja purista kuivaksi.",
+      "Kuumenna etikka, sokeri ja suola kattilassa, kunnes ne liukenevat.",
+      "Pakkaa vihannekset, inkivääri ja valkosipuli puhtaaseen lasipurkkiin.",
+      "Kaada kuuma liemi päälle.",
+      "Anna maustua jääkaapissa vuorokausi ennen tarjoilua. Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "kg-filipino-calamansi-vinaigrette",
+    "title": "Filippiiniläinen kalamansivinegretti",
+    "description": "Raikas sitruksinen salaatinkastike trooppisille salaateille.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "filippiiniläinen", "nopea"],
+    "ingredients": [
+      "3 rkl limettimehua (tai kalamansimehua)",
+      "1 rkl kookosetikkaa tai riisiviinietikkaa",
+      "1 tl hunajaa",
+      "3 rkl oliiviöljyä",
+      "1 salottisipuli, hienonnettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa sitrusmehu, etikka ja hunaja.",
+      "Lisää oliiviöljy ohuena nauhana vatkaten.",
+      "Lisää salottisipuli, suola ja pippuri.",
+      "Anna maustua 10 minuuttia ennen käyttöä."
+    ]
+  },
+  {
+    "id": "kg-filipino-chicken-adobo",
+    "title": "Filippiiniläinen kana-adobo",
+    "description": "Soija-etikkaliemessä haudutettu kana – kirpeä ja kiiltävä kansallisruoka.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "filippiiniläinen", "pataruoka", "arkiruoka"],
+    "ingredients": [
+      "800 g broilerin koipireisiä",
+      "1¼ dl soijakastiketta",
+      "1¼ dl etikkaa (esim. riisiviinietikkaa)",
+      "8 valkosipulinkynttä, murskattuna",
+      "2 laakerinlehteä",
+      "1 tl mustapippuria (kokonaisena)",
+      "Tarjoiluun:",
+      "3 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Laita kana, soijakastike, etikka, valkosipuli, laakerinlehdet ja pippurit kattilaan.",
+      "Hauduta kannen alla 30 minuuttia.",
+      "Poista kansi ja keitä kastiketta kokoon, kunnes se on kiiltävää.",
+      "Tarjoile riisin kanssa ja lusikoi kastiketta kanan päälle."
+    ]
+  },
+  {
+    "id": "kg-filipino-ensaladang-talong",
+    "title": "Ensaladang talong – filippiiniläinen grillimunakoisosalaatti",
+    "description": "Hiiltyneeksi grillattu munakoiso tomaatin, punasipulin ja etikan kanssa.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "filippiiniläinen", "salaatti", "grilli"],
+    "ingredients": [
+      "2 munakoisoa (mieluiten ohuita aasialaisia)",
+      "2 tomaattia, kuutioituna",
+      "1 punasipuli, viipaloituna",
+      "3 rkl kookosetikkaa tai riisiviinietikkaa",
+      "1 tl suolaa",
+      "1 pieni punainen chili, hienonnettuna"
+    ],
+    "instructions": [
+      "Grillaa munakoisot, kunnes kuori hiiltyy. Kuori ja survo kevyesti.",
+      "Yhdistä tomaatit ja sipuli.",
+      "Mausta etikalla, suolalla ja chilillä.",
+      "Sekoita joukkoon munakoiso.",
+      "Tarjoile huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "kg-filipino-pancit-bihon",
+    "title": "Pancit bihon – filippiiniläiset paistetut riisinuudelit",
+    "description": "Ohuet riisinuudelit paistettuna kanan, kaalin ja porkkanan kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "filippiiniläinen", "nuudelit", "arkiruoka"],
+    "ingredients": [
+      "300 g ohuita riisinuudeleita (bihon)",
+      "2 rkl rypsiöljyä",
+      "200 g broilerin rintafileetä, suikaleina",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2½ dl valkokaalia, suikaloituna",
+      "1 porkkana, suikaloituna",
+      "3 rkl soijakastiketta",
+      "1 rkl limettimehua (tai kalamansimehua)"
+    ],
+    "instructions": [
+      "Liota nuudeleita, kunnes ne pehmenevät.",
+      "Paista kanaa ja valkosipulia öljyssä.",
+      "Lisää kasvikset ja kypsennä 3 minuuttia.",
+      "Lisää nuudelit, soijakastike ja tilkka vettä ja sekoittele.",
+      "Viimeistele kalamansimehulla."
+    ]
+  },
+  {
+    "id": "kg-flour-tortillas",
+    "title": "Vehnätortillat kookosöljyllä",
+    "description": "Epätavallinen tortillaresepti, jossa laardin sijaan käytetään kookosöljyä – ja se toimii hyvin.",
+    "servings": 24,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "leipä", "meksikolainen"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "1 tl suolaa",
+      "4 tl kookosöljyä",
+      "2½ dl vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot, suola ja leivinjauhe kulhossa. Lisää kookosöljy ja nypi sormin, kunnes seos on hienoa murua, joka pysyy koossa puristettaessa. Lisää vesi ja sekoita, kunnes taikina muodostaa yhtenäisen pallon.",
+      "Vaivaa taikinaa kevyesti jauhotetulla alustalla muutama minuutti sileäksi ja kimmoisaksi. Jaa 24 osaan ja pyöritä palloiksi. Anna levätä noin 10 minuuttia.",
+      "Kauli pallot hyvin jauhotetulla kaulimella ja alustalla ohuiksi pyöreiksi levyiksi.",
+      "Kuumenna iso paistinpannu keskikovalle lämmölle ja paista tortillat yksi kerrallaan, kunnes pintaan tulee kuplia ja ruskeita täpliä. Käännä ja paista toinen puoli. Halutessasi kärvennä tortilloja hetki kaasuliekin päällä."
+    ]
+  },
+  {
+    "id": "kg-french-toast-casserole",
+    "title": "Croissant-köyhät ritarit uunissa",
+    "description": "Yön yli tekeytyvä uunivuoka croissanteista ja kanelisesta munamaidosta brunssille.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "uuniruoka", "brunssi"],
+    "ingredients": [
+      "voita vuoan voiteluun",
+      "8 voicroissantia",
+      "8 isoa kananmunaa",
+      "2½ dl kuohukermaa",
+      "2½ dl täysmaitoa",
+      "¾ dl fariinisokeria",
+      "2 tl vaniljauutetta",
+      "1½ tl kanelia",
+      "¼ tl muskottipähkinää",
+      "ripaus suolaa",
+      "Tarjoiluun:",
+      "tomusokeria",
+      "tuoreita marjoja",
+      "vaahterasiirappia"
+    ],
+    "instructions": [
+      "Voitele noin 23 x 33 cm:n uunivuoka reilusti.",
+      "Revi croissantit noin 4 cm:n paloiksi ja levitä vuokaan.",
+      "Vatkaa munat, kerma, maito, fariinisokeri, vanilja, kaneli, muskottipähkinä ja suola tasaiseksi.",
+      "Kaada munamaito croissanttien päälle ja painele paloja lastalla, jotta ne imevät nesteen.",
+      "Peitä tiiviisti kelmulla ja anna tekeytyä jääkaapissa yön yli (vähintään 4 tuntia).",
+      "Kuumenna aamulla uuni 175 asteeseen ja anna vuoan lämmetä huoneenlämmössä sillä aikaa.",
+      "Paista ilman kantta 40–45 minuuttia, kunnes pinta on kullanruskea ja kohonnut ja keskusta hyytynyt.",
+      "Anna jäähtyä 5 minuuttia. Sihtaa pinnalle tomusokeria ja tarjoile marjojen ja vaahterasiirapin kanssa."
+    ]
+  },
+  {
+    "id": "kg-fried-mac-and-cheese-bites",
+    "title": "Friteeratut makaronijuustopallot",
+    "description": "Vähän kuin arancinit, mutta makaronijuustosta.",
+    "servings": 12,
+    "totalTimeMin": 285,
+    "category": "Välipalat",
+    "tags": ["kasvis", "amerikkalainen", "juhla"],
+    "ingredients": [
+      "500 g valmista mac and cheese -makaronijuustoa",
+      "2 kananmunaa, vatkattuna",
+      "75 g pankokorppujauhoja",
+      "rypsiöljyä friteeraukseen",
+      "2 rkl ruohosipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Jäähdytä makaronijuusto jääkaapissa kiinteäksi, noin 4 tuntia.",
+      "Kuumenna öljy isossa, syvässä kattilassa keskikovalla lämmöllä (noin 175 asteeseen).",
+      "Muotoile makaronijuustosta pienellä jäätelökauhalla noin 4 cm:n palloja, noin 12 kappaletta.",
+      "Kastele pallot yksi kerrallaan munassa ja pyöritä pankossa painellen.",
+      "Paista erissä kuumassa öljyssä tasaisen kullanruskeiksi ja rapeiksi, noin 3–4 minuuttia. Nosta talouspaperille ja ripottele pinnalle ruohosipulia."
+    ]
+  },
+  {
+    "id": "kg-gai-lan-with-oyster-sauce",
+    "title": "Kiinanparsakaali osterikastikkeessa",
+    "description": "Klassinen kantonilainen vihreä lisuke.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kiinalainen", "nopea", "lisuke"],
+    "ingredients": [
+      "400 g kiinanparsakaalia (gai lan) tai varsiparsakaalia",
+      "1 rkl rypsiöljyä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "2 rkl osterikastiketta",
+      "1 tl sokeria",
+      "1 rkl vettä"
+    ],
+    "instructions": [
+      "Ryöppää kaalia kiehuvassa vedessä 2 minuuttia ja valuta.",
+      "Kuumenna öljy ja kuullota valkosipulia 30 sekuntia.",
+      "Lisää osterikastike, sokeri ja vesi.",
+      "Hauduta kastiketta minuutti.",
+      "Kaada kaalin päälle ja tarjoile."
+    ]
+  },
+  {
+    "id": "kg-garlic-chili-oil-noodles",
+    "title": "Valkosipuli-chiliöljynuudelit",
+    "description": "Biang biang -nuudeleiden innoittamat nopeat chiliöljynuudelit.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kiinalainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "300 g ohuita vehnänuudeleita",
+      "3 rkl rypsiöljyä",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "2 rkl chilihiutaleita",
+      "2 rkl soijakastiketta",
+      "1 rkl mustaa riisietikkaa",
+      "2 kevätsipulia, viipaloituna",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Keitä nuudelit ja valuta. Ota talteen 2 rkl keitinvettä.",
+      "Kuumenna öljy ja paista valkosipulia ja chilihiutaleita, kunnes ne tuoksuvat.",
+      "Sekoita soijakastike, etikka ja keitinvesi.",
+      "Sekoita nuudelit chiliöljyn ja kastikkeen kanssa.",
+      "Viimeistele kevätsipulilla ja korianterilla."
+    ]
+  },
+  {
+    "id": "kg-garlic-dal-lehsun-dal",
+    "title": "Valkosipulidal (lehsun dal)",
+    "description": "Voimakkaan valkosipulinen mung dal.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja mungpapuja (mung dal)",
+      "½ tl kurkumaa",
+      "2 rkl kirkastettua voita (gheetä)",
+      "1 tl juustokuminaa (kokonaisena)",
+      "2 kuivattua punaista chiliä",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä dal kurkuman kanssa vedessä kermaiseksi. Mausta suolalla.",
+      "Kuumenna ghee ja lisää juustokumina, chilit ja valkosipuli.",
+      "Paista, kunnes valkosipuli tuoksuu, mutta älä polta sitä.",
+      "Kaada mausteöljy dalin päälle ja hauduta 5 minuuttia.",
+      "Tarjoile kuumana riisin tai rotin kanssa."
+    ],
+    "notes": ["Vegaaninen versio: korvaa ghee öljyllä."]
+  },
+  {
+    "id": "kg-garlic-green-beans-with-almonds",
+    "title": "Vihreät pavut valkosipulilla ja manteleilla",
+    "description": "Klassinen lisuke kalalle tai kanalle.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "nopea", "lisuke", "gluteeniton"],
+    "ingredients": [
+      "400 g vihreitä papuja",
+      "1 rkl oliiviöljyä",
+      "2 valkosipulinkynttä, viipaloituna",
+      "30 g mantelilastuja",
+      "1 tl sitruunan kuorta, raastettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Ryöppää pavut, kunnes ne ovat kypsiä mutta rapsakoita.",
+      "Kuullota valkosipuli oliiviöljyssä ja lisää mantelit.",
+      "Kääntele pavut pannulla, mausta suolalla ja viimeistele sitruunankuorella."
+    ]
+  },
+  {
+    "id": "kg-garlic-yogurt-chicken-traybake",
+    "title": "Valkosipuli-jogurttikana uunipellillä",
+    "description": "Jogurttimarinoitu kana paahdettuna perunoiden ja punasipulin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "peruna", "arkiruoka"],
+    "ingredients": [
+      "150 g kreikkalaista jogurttia",
+      "3 valkosipulinkynttä, murskattuna",
+      "1 tl juustokuminaa",
+      "suolaa",
+      "mustapippuria",
+      "700 g broilerin reisifileitä",
+      "500 g pieniä perunoita, puolitettuna",
+      "1 punasipuli, lohkoina",
+      "1 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Sekoita jogurtti, valkosipuli, juustokumina, suola ja pippuri.",
+      "Kääntele kana marinadissa ja anna maustua, kun uuni kuumenee 210 asteeseen.",
+      "Levitä kana, perunat ja sipuli pellille, valuta perunoille öljy ja paahda 35 minuuttia.",
+      "Anna levätä 5 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Tarjoa rinnalla kurkkusalaattia."]
+  }
+]

@@ -234,8 +234,14 @@ Researched options:
 - Commercial Finnish recipe sites (K-Ruoka, Valio, Yhteishyvä…): copyrighted content, so
   they're **not scraped in bulk**. They're only imported one recipe at a time on the
   user's request, for personal use.
-- Large English datasets (e.g. RecipeNLG) have non-commercial/unclear licensing and
-  aren't Finnish. Open Food Facts is a *product* database, not recipes (a candidate for
+- **Open recipe collections, translated into Finnish** – KitchenGadget8000, USDA MyPlate
+  Kitchen (public domain), UniTools, ForkRecipe and the Wikibooks Cookbook (CC BY-SA 4.0).
+  Translated to Finnish with metric units, loaded from `public/data/open-recipes/` by
+  `src/db/openRecipes.ts` and parsed with the same matcher as imports. Every recipe shows
+  its source, author, licence, changes and image credit. Pipeline and licences:
+  [`data/open-recipes/README.md`](data/open-recipes/README.md).
+- Large English datasets such as RecipeNLG have non-commercial or unclear licensing, so they
+  aren't used. Open Food Facts is a *product* database, not recipes (a candidate for
   future product matching).
 
 Also included: **15 original seed recipes** written for this project
@@ -468,6 +474,7 @@ exported.
 - **Imported recipes** (K-Ruoka, Yhteishyvä, Valio, others) are copyrighted by their publishers. The app treats them as the user's personal copies: it stores them locally with source name, author and original URL, shows attribution on the recipe page, and never republishes or bundles them. Images are hot-linked from the source rather than copied.
 - **Test fixtures** in `tests/fixtures/` are trimmed copies of two public recipe pages. The structure is kept for parser tests, and instruction prose was replaced by placeholders to avoid redistributing the text.
 - **Seed recipes** are original texts written for this project.
+- **Open recipe catalogue**: per-source licences and credits in [`data/open-recipes/README.md`](data/open-recipes/README.md). Translations of CC BY-SA recipes are CC BY-SA 4.0. Attribution comes from the source data by recipe id, never from the translation, and is shown on every recipe page and under Settings → Reseptiaineistot. Images are hot-linked with their credit shown below the picture.
 - The bundled Fineli CSV source files in `data/fineli-source/` are an unmodified CC BY 4.0 copy of the official package.
 
 ## Known limitations

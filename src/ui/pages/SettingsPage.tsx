@@ -1,8 +1,9 @@
 import { useLiveQuery } from 'dexie-react-hooks'
-import { Download, RefreshCw, Trash2, Upload } from 'lucide-react'
+import { Download, ExternalLink, RefreshCw, Trash2, Upload } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import { loadFineliData } from '../../db/bootstrap'
-import { db } from '../../db/db'
+import { db, getSetting } from '../../db/db'
+import type { OpenRecipesIndex } from '../../db/openRecipes'
 import { exportData, importData, parseExportFile } from '../../db/exportImport'
 import { deleteUserMapping, saveUserSettings } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
@@ -84,7 +85,7 @@ export function SettingsPage() {
   async function resetAll() {
     if (!confirm('Poistetaanko KAIKKI tiedot tältä laitteelta? Tätä ei voi perua. Vie tiedot ensin, jos haluat säilyttää ne.')) return
     await db.delete()
-    location.href = '/'
+    location.href = import.meta.env.BASE_URL
   }
 
   async function reloadFineli() {
@@ -199,6 +200,8 @@ export function SettingsPage() {
           <Button variant="secondary" size="sm" className="mt-3" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa aineisto uudelleen</Button>
         </Card>
 
+        <OpenRecipeSources />
+
         <Card className="p-5 lg:col-span-2">
           <SectionTitle>Yksityisyys ja tekijänoikeudet</SectionTitle>
           <ul className="list-disc space-y-1.5 pl-5 text-sm text-ink-2">
@@ -206,9 +209,38 @@ export function SettingsPage() {
             <li>Reseptin tuonti verkosta tapahtuu sovelluksen omalla hakupalvelulla, joka hakee vain tuettujen reseptisivustojen sivuja. Sivustolle välittyy tavallinen sivupyyntö; henkilötietojasi ei lähetetä.</li>
             <li>Tuotujen reseptien tekstit ja kuvat kuuluvat alkuperäisille julkaisijoille. Ne tallennetaan vain omaan käyttöösi lähdetietoineen.</li>
             <li>Ravintotiedot: Fineli, Terveyden ja hyvinvoinnin laitos, lisenssi CC BY 4.0. Katalogin ruokalajit perustuvat Finelin reseptiriveihin.</li>
+            <li>Katalogin muut reseptit ovat avoimesti lisensoiduista kokoelmista (ks. Reseptiaineistot). Jokaisen reseptin sivulla näkyvät lähde, tekijä, lisenssi ja kuvan tekijä.</li>
           </ul>
         </Card>
       </div>
     </div>
+  )
+}
+
+function OpenRecipeSources() {
+  const index = useLiveQuery(() => getSetting<OpenRecipesIndex | null>('openRecipes', null), [])
+  if (!index?.sources.length) return null
+  return (
+    <Card className="p-5 lg:col-span-2">
+      <SectionTitle>Reseptiaineistot</SectionTitle>
+      <p className="mb-3 text-sm text-ink-2">
+        Katalogin reseptit on suomennettu ja mitat muunnettu metrisiksi seuraavista avoimesti lisensoiduista kokoelmista. Kiitos tekijöille!
+        CC BY-SA -lisensoitujen reseptien suomennokset ovat saatavilla samalla lisenssillä.
+      </p>
+      <ul className="space-y-3">
+        {index.sources.map((s) => (
+          <li key={s.id} className="rounded-xl bg-surface-2 p-3 text-sm">
+            <div className="flex flex-wrap items-baseline justify-between gap-x-3">
+              <a href={s.homepage} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 font-medium hover:text-brand">
+                {s.name} <ExternalLink size={12} />
+              </a>
+              <span className="tabular text-xs text-muted">{s.count.toLocaleString('fi-FI')} reseptiä{s.withImage ? `, ${s.withImage.toLocaleString('fi-FI')} kuvalla` : ''}</span>
+            </div>
+            <p className="mt-1 text-xs text-ink-2">{s.attribution}</p>
+            <p className="mt-1 text-xs text-muted">Lisenssi: {s.license}. {s.changes}</p>
+          </li>
+        ))}
+      </ul>
+    </Card>
   )
 }

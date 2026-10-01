@@ -15,7 +15,10 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "typecheck": "tsc -b",
-    "fineli:import": "node scripts/import-fineli.ts"
+    "fineli:import": "node scripts/import-fineli.ts",
+    "recipes:fetch": "node scripts/open-recipes/fetch-sources.ts",
+    "recipes:normalize": "node scripts/open-recipes/normalize.ts",
+    "recipes:build": "node scripts/open-recipes/build.ts"
   },
   "dependencies": {
     "dexie": "^4.4.6",

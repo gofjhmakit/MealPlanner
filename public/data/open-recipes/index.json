@@ -1,0 +1,17 @@
+{
+ "version": "2026-10-01-1hgbp",
+ "generatedAt": "2026-10-01T13:10:36.625Z",
+ "sources": [
+  {
+   "id": "kitchengadget",
+   "name": "KitchenGadget8000",
+   "homepage": "https://github.com/gofjhmakit/KitchenGadget8000",
+   "license": "Apache-2.0 / CC BY-SA 4.0",
+   "attribution": "Hermanni Mäkitalo – KitchenGadget8000-reseptikokoelma. Osa resepteistä on Marcus Baw’n kokoelmasta pacharanero/recipes (CC BY-SA 4.0).",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "file": "kitchengadget.json",
+   "count": 294,
+   "withImage": 0
+  }
+ ]
+}

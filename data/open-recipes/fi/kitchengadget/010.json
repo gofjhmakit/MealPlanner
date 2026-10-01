@@ -1,0 +1,700 @@
+[
+  {
+    "id": "kg-mapo-tofu-light",
+    "title": "Kevyt mapo tofu",
+    "description": "Silkkinen ja tulinen sichuanilainen tofu porsaanjauhelihalla.",
+    "servings": 3,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "kiinalainen", "tofu", "arkiruoka"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "150 g porsaan jauhelihaa",
+      "1 rkl doubanjiangia (chilipapupastaa)",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "5 dl kanalientä",
+      "400 g pehmeää tofua, kuutioituna",
+      "1 rkl maissitärkkelystä + 2 rkl vettä",
+      "1 tl jauhettua sichuaninpippuria",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Ruskista jauheliha öljyssä doubanjiangin ja valkosipulin kanssa.",
+      "Lisää liemi ja tofu ja hauduta varovasti 5 minuuttia.",
+      "Suurusta veteen sekoitetulla maissitärkkelyksellä.",
+      "Ripottele pinnalle jauhettua sichuaninpippuria.",
+      "Viimeistele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "kg-marinara-sauce",
+    "title": "Marinarakastike",
+    "description": "Yksinkertainen italialainen tomaattikastike pastoille ja pizzoille.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "italialainen", "pasta", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "4 valkosipulinkynttä, viipaloituna",
+      "800 g tomaattimurskaa",
+      "1 tl kuivattua oreganoa",
+      "¼ tl chilihiutaleita",
+      "muutama basilikanlehti",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa ja kuullota valkosipulia minuutti.",
+      "Lisää tomaattimurska, oregano ja chilihiutaleet.",
+      "Hauduta 20 minuuttia välillä sekoittaen, kunnes kastike sakenee hieman.",
+      "Sekoita joukkoon basilika ja mausta suolalla.",
+      "Käytä heti tai jäähdytä ja säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "kg-masoor-dal-with-spinach",
+    "title": "Punalinssidal pinaatilla",
+    "description": "Proteiinipitoinen punalinssidal vihreillä.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g punaisia linssejä",
+      "½ tl kurkumaa",
+      "8 dl vettä",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "2 tomaattia, pilkottuna",
+      "1 tl jauhettua korianteria",
+      "200 g babypinaattia",
+      "suolaa",
+      "1 sitruuna, lohkoina"
+    ],
+    "instructions": [
+      "Huuhtele linssit ja keitä niitä kurkuman ja veden kanssa noin 20 minuuttia kermaisiksi.",
+      "Kuumenna öljy ja paahda juustokumina.",
+      "Kuullota sipuli pehmeäksi ja lisää tomaatit ja korianteri.",
+      "Kääntele joukkoon pinaatti, kunnes se nuutuu.",
+      "Yhdistä dalin kanssa, mausta ja tarjoile sitruunan kanssa."
+    ]
+  },
+  {
+    "id": "kg-mediterranean-baked-fish",
+    "title": "Välimerellinen uunikala",
+    "description": "Vaalea kala uunissa tomaatti-oliivikastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "välimerellinen", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, viipaloituna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "80 g oliiveja",
+      "1 tl kuivattua oreganoa",
+      "600 g vaaleaa kalaa (esim. seiti- tai turskafileetä)",
+      "tuoretta basilikaa"
+    ],
+    "instructions": [
+      "Kuullota sipuli öljyssä pehmeäksi.",
+      "Lisää tomaatit, oliivit ja oregano ja hauduta 10 minuuttia.",
+      "Kaada kastike uunivuokaan ja upota kalapalat siihen.",
+      "Paista 190 asteessa noin 15 minuuttia, kunnes kala on kypsää. Koristele basilikalla."
+    ],
+    "notes": ["Tarjoile rapean leivän kanssa."]
+  },
+  {
+    "id": "kg-mediterranean-chickpea-salad",
+    "title": "Välimerellinen kikhernesalaatti",
+    "description": "Nopea salaatti kikherneistä, tomaatista, kurkusta ja oliiveista.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "välimerellinen", "nopea", "salaatti"],
+    "ingredients": [
+      "1 tlk (400 g) kikherneitä, huuhdeltuna",
+      "200 g kirsikkatomaatteja",
+      "1 kurkku",
+      "80 g oliiveja",
+      "40 g punasipulia, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "1 rkl punaviinietikkaa",
+      "1 tl kuivattua oreganoa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Puolita tomaatit ja kuutioi kurkku.",
+      "Sekoita kikherneet, tomaatit, kurkku, oliivit ja sipuli.",
+      "Mausta oliiviöljyllä, etikalla, oreganolla, suolalla ja pippurilla.",
+      "Anna maustua 10 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Kääntele joukkoon halutessasi minttua tai persiljaa."]
+  },
+  {
+    "id": "kg-mee-siam-tangy-rice-vermicelli",
+    "title": "Mee siam – hapanimelät riisivermiselli",
+    "description": "Nyonya-keittiön hapanimelät ohuet riisinuudelit tofulla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "malesialainen", "nuudelit", "tofu"],
+    "ingredients": [
+      "300 g ohuita riisinuudeleita (vermiselliä)",
+      "3 rkl tamarinditahnaa",
+      "1 rkl sokeria",
+      "2 rkl soijakastiketta",
+      "2 dl vettä",
+      "1 rkl rypsiöljyä",
+      "200 g kiinteää tofua, kuutioituna",
+      "100 g idättämiä (mungpavun ituja)",
+      "2 kovaksi keitettyä kananmunaa",
+      "paahdettua sipulia",
+      "sambalia"
+    ],
+    "instructions": [
+      "Liota nuudelit ja valuta.",
+      "Hauduta tamarindia, sokeria, soijakastiketta ja vettä kirpeäksi kastikkeeksi.",
+      "Paista tofukuutiot öljyssä.",
+      "Sekoita nuudelit kastikkeen ja tofun kanssa.",
+      "Tarjoile kananmunan, itujen, paahdetun sipulin ja sambalin kanssa."
+    ]
+  },
+  {
+    "id": "kg-mexican-beef-rice-casserole",
+    "title": "Meksikolainen jauheliha-riisipata",
+    "description": "Yhden kattilan jauheliha-riisiruoka pavuilla, maissilla ja juustolla.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "riisi", "arkiruoka"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "500 g vähärasvaista naudan jauhelihaa",
+      "1 pieni sipuli, kuutioituna",
+      "1 ps (18 g) fajitamaustetta",
+      "225 g basmatiriisiä",
+      "1 tlk (400 g) mustasilmäpapuja, valutettuna",
+      "100 g maissinjyviä",
+      "100 g paprikaa, pilkottuna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "4 dl kanalientä",
+      "10 g tuoretta korianteria, karkeasti hienonnettuna",
+      "80 g kevyttä cheddarjuustoa, raastettuna",
+      "Tarjoiluun:",
+      "kermaviiliä",
+      "1 limetti, lohkoina"
+    ],
+    "instructions": [
+      "Voitele iso syvä pannu ohuelti öljyllä ja paista jauhelihaa ja sipulia keskikovalla lämmöllä 5 minuuttia, kunnes liha on ruskistunut.",
+      "Lisää fajitamauste ja paista sekoittaen minuutti.",
+      "Sekoita joukkoon riisi, pavut, maissi, paprika, tomaatit ja liemi. Mausta, kuumenna kiehuvaksi ja hauduta kannen alla 10 minuuttia.",
+      "Nosta liedeltä, sekoita joukkoon puolet korianterista ja ripottele pinnalle juusto. Peitä ja anna seistä 3–5 minuuttia, kunnes juusto sulaa.",
+      "Ripottele pinnalle loput korianterista ja tarjoile kermaviilin ja limettilohkojen kanssa."
+    ],
+    "notes": ["Tarkista, että riisi on kypsää; lisää tarvittaessa tilkka vettä ja hauduta vielä hetki."]
+  },
+  {
+    "id": "kg-mignonette-sauce",
+    "title": "Mignonette-kastike",
+    "description": "Klassinen ranskalainen kastike raaoille ostereille.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "ranskalainen", "äyriäiset"],
+    "ingredients": [
+      "½ dl punaviinietikkaa",
+      "1 pieni salottisipuli, hyvin hienoksi hienonnettuna",
+      "½ tl rouhittua mustapippuria",
+      "ripaus sokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita etikka ja salottisipuli pienessä kulhossa.",
+      "Lisää pippuri ja halutessasi sokeri.",
+      "Anna seistä vähintään 15 minuuttia, jotta sipuli pehmenee.",
+      "Lusikoi juuri avattujen ostereiden päälle."
+    ]
+  },
+  {
+    "id": "kg-minestra-vegetable-bean-soup",
+    "title": "Minestra – kasvis-papukeitto basilikalla",
+    "description": "Sileäksi soseutettu kasviskeitto, johon lisätään pavut, pasta ja valkosipuli-basilikatahna.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "italialainen", "keitto", "palkokasvit"],
+    "ingredients": [
+      "2 kesäkurpitsaa, kuutioituna",
+      "1 munakoiso, kuutioituna",
+      "300 g kurpitsaa, kuutioituna",
+      "1 sipuli, kuutioituna",
+      "1 kyssäkaali, kuutioituna",
+      "2 naurista, kuutioituna",
+      "6 dl kasvislientä",
+      "2 rkl oliiviöljyä",
+      "1 tlk (400 g) kidneypapuja, valutettuna",
+      "100 g pientä pastaa",
+      "Basilikatahna:",
+      "1 iso kourallinen tuoreita basilikanlehtiä",
+      "6 valkosipulinkynttä",
+      "suolaa",
+      "mustapippuria",
+      "Tarjoiluun:",
+      "parmesaania tai muuta kovaa juustoa, raastettuna"
+    ],
+    "instructions": [
+      "Laita kuutioidut kasvikset (kesäkurpitsa, munakoiso, kurpitsa, sipuli, kyssäkaali ja nauriit), liemi ja 1 rkl öljyä painekattilaan tai isoon kattilaan. Painekeitä 8–10 minuuttia tai keitä noin tunti, kunnes kasvikset ovat hyvin pehmeitä.",
+      "Soseuta kasvikset sileiksi.",
+      "Survo basilika, valkosipulinkynnet ja 1 rkl öljyä karkeaksi tahnaksi. Sekoita keittoon ja mausta suolalla ja pippurilla.",
+      "Lisää pavut keittoon. (Jos käytät kuivattuja papuja, liota ne yön yli, keitä voimakkaasti 20 minuuttia ja sitten miedosti 60–90 minuuttia kypsiksi.)",
+      "Keitä pasta erikseen al denteksi, lisää keittoon ja tarkista maku.",
+      "Tarjoile raastetun parmesaanin kanssa."
+    ],
+    "notes": ["Alkuperäisessä mainittiin myös kokonainen valkosipuli ilman käyttöohjetta; se on jätetty pois. Pastan määrä on arvioitu."]
+  },
+  {
+    "id": "kg-mint-sauce",
+    "title": "Minttukastike",
+    "description": "Perinteinen englantilainen mauste karitsanpaistille.",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "brittiläinen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl minttulehtiä, hienonnettuna",
+      "2 rkl sokeria",
+      "3 rkl kiehuvaa vettä",
+      "3 rkl mallasetikkaa tai omenaviinietikkaa"
+    ],
+    "instructions": [
+      "Hienonna minttu ja laita kulhoon sokerin kanssa.",
+      "Kaada päälle kiehuva vesi ja sekoita, kunnes sokeri liukenee.",
+      "Sekoita joukkoon etikka.",
+      "Anna seistä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-miso-ginger-dressing",
+    "title": "Miso-inkiväärikastike",
+    "description": "Suolainen misokastike vihreille salaateille ja nuudeleille.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "japanilainen", "nopea"],
+    "ingredients": [
+      "2 rkl vaaleaa misotahnaa",
+      "2 rkl riisiviinietikkaa",
+      "2 rkl vettä",
+      "1 rkl seesamiöljyä",
+      "1 tl raastettua inkivääriä",
+      "1 rkl hunajaa"
+    ],
+    "instructions": [
+      "Sekoita miso, etikka ja vesi tasaiseksi.",
+      "Vatkaa joukkoon seesamiöljy, inkivääri ja hunaja.",
+      "Säädä paksuutta vedellä.",
+      "Säilytä jääkaapissa käyttöön asti."
+    ]
+  },
+  {
+    "id": "kg-miso-glazed-salmon-rice-bowl",
+    "title": "Misolasitettu lohi riisikulhossa",
+    "description": "Uunissa misolla lasitettu lohi tumman riisin ja raikkaiden kasvisten kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "japanilainen", "kulho", "riisi"],
+    "ingredients": [
+      "2 rkl vaaleaa misotahnaa",
+      "1 rkl soijakastiketta",
+      "1 rkl hunajaa",
+      "4 lohifileetä",
+      "300 g keitettyä tummaa riisiä",
+      "1 kurkku, viipaloituna",
+      "1 porkkana, suikaloituna",
+      "1 avokado, viipaloituna",
+      "1 tl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 210 asteeseen. Vatkaa miso, soijakastike ja hunaja.",
+      "Sivele seos lohen päälle ja paista noin 12 minuuttia.",
+      "Jaa riisi kulhoihin ja lisää kasvikset.",
+      "Nosta päälle lohi ja valuta päälle paistoliemi. Ripottele pinnalle seesaminsiemenet."
+    ]
+  },
+  {
+    "id": "kg-miso-mushroom-noodle-soup",
+    "title": "Miso-sieninuudelikeitto",
+    "description": "Nopea ja lämmittävä sienikeitto soba-nuudeleilla.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "japanilainen", "keitto", "nopea"],
+    "ingredients": [
+      "1 rkl seesamiöljyä",
+      "200 g sieniä, viipaloituna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "15 g inkivääriä, raastettuna",
+      "7 dl vettä",
+      "2 rkl vaaleaa misotahnaa",
+      "120 g soba-nuudeleita",
+      "2 kevätsipulia, viipaloituna"
+    ],
+    "instructions": [
+      "Paista sieniä, valkosipulia ja inkivääriä seesamiöljyssä.",
+      "Lisää vesi ja hauduta 5 minuuttia.",
+      "Nosta liedeltä ja vatkaa joukkoon miso.",
+      "Keitä nuudelit erikseen, jaa kulhoihin ja kaada liemi päälle. Viimeistele kevätsipulilla."
+    ],
+    "notes": ["Pinaatti tuo lisää vihreää."]
+  },
+  {
+    "id": "kg-mixed-dal-with-drumstick",
+    "title": "Sekadal ja moringanpalot",
+    "description": "Eteläintialainen sambar-tyylinen dal moringapuun paloilla.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "100 g halkaistuja kyyhkyherneitä (toor dal)",
+      "100 g halkaistuja mungpapuja (mung dal)",
+      "2 moringanpaloa (drumstick), paloiteltuna",
+      "suolaa",
+      "1 tomaatti, pilkottuna",
+      "2 rkl sambar-mausteseosta",
+      "1 tl tamarinditahnaa",
+      "2 rkl rypsiöljyä",
+      "1 tl sinapinsiemeniä",
+      "8 curryn lehteä",
+      "Tarjoiluun:",
+      "3 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Keitä dalit ja moringanpalot vedessä suolan kanssa kypsiksi.",
+      "Lisää tomaatti, sambar-mauste ja tamarindi ja hauduta 10 minuuttia.",
+      "Paista sinapinsiemenet ja curryn lehdet öljyssä.",
+      "Kaada mausteöljy dalin päälle.",
+      "Tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "kg-mojo-verde",
+    "title": "Mojo verde",
+    "description": "Kanariansaarten vihreä kastike, perinteisesti ryppyperunoiden (papas arrugadas) kanssa.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "espanjalainen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl tuoretta korianteria, karkeasti hienonnettuna",
+      "2 valkosipulinkynttä",
+      "1 tl juustokuminaa",
+      "1 vihreä chili, siemenet poistettuna",
+      "2 rkl valkoviinietikkaa",
+      "1¼ dl oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita korianteri, valkosipuli, juustokumina ja chili monitoimikoneeseen.",
+      "Lisää etikka ja sekoita sykäyksittäin.",
+      "Lisää oliiviöljy ohuena nauhana koneen käydessä, kunnes kastike emulgoituu.",
+      "Mausta suolalla ja tarjoile huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "kg-mole-sauce",
+    "title": "Yksinkertaistettu mole-kastike",
+    "description": "Arki-illan versio oaxacalaisesta molesta ilman perinteisen mole negron pitkää ainesluetteloa.",
+    "servings": 8,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "gluteeniton"],
+    "ingredients": [
+      "3 kuivattua ancho-chiliä, kannat ja siemenet poistettuna",
+      "1 rkl rypsiöljyä",
+      "½ sipulia, pilkottuna",
+      "2 valkosipulinkynttä",
+      "1 tomaatti, pilkottuna",
+      "2 rkl rusinoita",
+      "1 rkl maapähkinävoita",
+      "1 tl kanelia",
+      "5 dl kasvislientä",
+      "20 g tummaa suklaata, hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paahda chilejä kuivalla pannulla minuutti ja liota sitten kuumassa vedessä 15 minuuttia.",
+      "Kuullota sipuli ja valkosipuli öljyssä pehmeiksi, lisää tomaatti ja kypsennä 5 minuuttia.",
+      "Soseuta pehmenneet chilit, sipuliseos, rusinat, maapähkinävoi ja kaneli liemen kanssa sileäksi.",
+      "Kaada takaisin kattilaan, sekoita joukkoon suklaa ja hauduta 15 minuuttia paksuksi.",
+      "Mausta suolalla ja tarjoile lämpimänä kanan tai enchiladojen kanssa."
+    ]
+  },
+  {
+    "id": "kg-moong-dal-tadka",
+    "title": "Mung dal tadka",
+    "description": "Kevyt arkinen keltainen linssidal.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja mungpapuja (mung dal)",
+      "1 tl kurkumaa",
+      "8 dl vettä",
+      "suolaa",
+      "2 rkl kirkastettua voita (gheetä) tai rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 sipuli, kuutioituna",
+      "2 cm pala inkivääriä, raastettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 tomaattia, pilkottuna",
+      "1 tl garam masalaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Huuhtele dal ja keitä sitä kurkuman, suolan ja veden kanssa noin 25 minuuttia pehmeäksi.",
+      "Kuumenna ghee ja lisää juustokumina, kunnes se poksahtelee.",
+      "Kuullota sipuli, inkivääri ja valkosipuli kullanruskeiksi.",
+      "Lisää tomaatit ja garam masala ja kypsennä 5 minuuttia.",
+      "Sekoita mausteseos daliin, hauduta 5 minuuttia ja koristele korianterilla."
+    ]
+  },
+  {
+    "id": "kg-moroccan-chickpea-stew",
+    "title": "Marokkolainen kikhernepata",
+    "description": "Mausteinen tomaattinen kikhernepata kuskusin tai leivän kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "marokkolainen", "pataruoka", "palkokasvit"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 porkkanaa, kuutioituna",
+      "1 tl juustokuminaa",
+      "1 tl kanelia",
+      "1 tl paprikajauhetta",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 tlk (400 g) kikherneitä, valutettuna",
+      "2½ dl vettä",
+      "suolaa",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Kuullota sipuli ja porkkanat öljyssä.",
+      "Lisää mausteet ja sekoita 30 sekuntia.",
+      "Lisää tomaatit, kikherneet ja vesi.",
+      "Hauduta 20 minuuttia, mausta suolalla ja viimeistele korianterilla."
+    ],
+    "notes": ["Tarjoile kuskusin tai leivän kanssa."]
+  },
+  {
+    "id": "kg-muhammara",
+    "title": "Muhammara",
+    "description": "Syyrialainen saksanpähkinä-paprikadippi, jonka granaattiomenasiirappi tekee kirpeän makeaksi.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "lähi-itä", "nopea"],
+    "ingredients": [
+      "2 paahdettua punaista paprikaa",
+      "60 g saksanpähkinöitä, paahdettuna",
+      "2 rkl korppujauhoja",
+      "1 valkosipulinkynsi",
+      "1 rkl granaattiomenasiirappia",
+      "½ tl juustokuminaa",
+      "½ tl aleppopippuria tai chilihiutaleita",
+      "2 rkl oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita paprikat, saksanpähkinät, korppujauhot ja valkosipuli monitoimikoneeseen.",
+      "Lisää granaattiomenasiirappi, juustokumina ja aleppopippuri.",
+      "Soseuta lähes sileäksi ja lisää oliiviöljy koneen käydessä.",
+      "Mausta suolalla ja anna seistä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "kg-mung-bean-dal-with-bottle-gourd",
+    "title": "Mung dal ja pullokurpitsa",
+    "description": "Kevyt ja helposti sulava kesäinen dal.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "kevyt", "gluteeniton"],
+    "ingredients": [
+      "200 g halkaistuja mungpapuja (mung dal)",
+      "300 g pullokurpitsaa (lauki) tai kesäkurpitsaa, kuorittuna ja kuutioituna",
+      "½ tl kurkumaa",
+      "suolaa",
+      "2 rkl rypsiöljyä",
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 vihreä chili, halkaistuna",
+      "tuoretta korianteria"
+    ],
+    "instructions": [
+      "Keitä dal ja kurpitsa kurkuman ja suolan kanssa vedessä, kunnes molemmat ovat pehmeitä.",
+      "Kuumenna öljy ja paahda juustokumina ja chili.",
+      "Kaada mausteöljy dalin päälle.",
+      "Hauduta vielä 5 minuuttia.",
+      "Koristele korianterilla."
+    ]
+  },
+  {
+    "id": "kg-mushroom-barley-risotto",
+    "title": "Sieni-ohrasotto",
+    "description": "Maanläheinen ja täyttävä risotto helmiohrasta.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "suomalainen", "sienet"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "300 g sieniä, viipaloituna",
+      "250 g helmiohraa (ohrasuurimoita)",
+      "9 dl kasvislientä",
+      "30 g parmesaania, raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota sipuli, valkosipuli ja sienet öljyssä.",
+      "Lisää ohra ja paahda hetki.",
+      "Lisää kuuma liemi erissä välillä sekoittaen, kunnes ohra on kypsää (noin 30–35 minuuttia).",
+      "Viimeistele parmesaanilla ja mustapippurilla."
+    ]
+  },
+  {
+    "id": "kg-mushroom-risotto",
+    "title": "Vegaaninen sienirisotto ja pikkelöidyt sienet",
+    "description": "Kermaisuus syntyy ilman juustoa, ja pikkelöidyt metsäsienet tuovat raikkautta.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "italialainen", "riisi", "sienet"],
+    "ingredients": [
+      "20 g kuivattuja herkkutatteja",
+      "6 dl kiehuvaa vettä",
+      "Pikkelöidyt sienet:",
+      "75 ml omenaviinietikkaa",
+      "50 g sokeria",
+      "50 g metsäsieniä",
+      "Risotto:",
+      "30 ml oliiviöljyä",
+      "1 sipuli",
+      "2 vartta varsiselleriä",
+      "150 g ruskeita herkkusieniä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "300 g risottoriisiä",
+      "1,5 dl valkoviiniä",
+      "3 dl kasvislientä",
+      "1 sitruuna",
+      "kourallinen persiljaa"
+    ],
+    "instructions": [
+      "Laita herkkutatit kulhoon, kaada päälle kiehuva vesi ja anna liota.",
+      "Revi metsäsienet suupaloiksi kulhoon. Kuumenna etikka ja sokeri pienessä kattilassa, kunnes sokeri liukenee, ja kaada sienten päälle.",
+      "Kuumenna öljy isolla pannulla. Hienonna sipuli ja selleri ja kuullota miedolla lämmöllä noin 10 minuuttia pehmeiksi ruskistamatta.",
+      "Lisää herkkusienet ja paista noin 10 minuuttia, kunnes neste on haihtunut ja sienet alkavat ruskistua.",
+      "Siivilöi tattien liotusvesi kannuun ja lisää kasvisliemi. Hienonna liotetut tatit.",
+      "Lisää valkosipuli ja riisi ja paista pari minuuttia, kunnes riisi muuttuu reunoilta läpikuultavaksi. Lisää viini ja keitä minuutti. Lisää liemiseosta kauhallinen kerrallaan ja anna jokaisen imeytyä ennen seuraavaa.",
+      "Kun liemi on käytetty, maista riisiä ja lisää tarvittaessa tilkka kuumaa vettä – riisin pitää olla kypsää.",
+      "Lisää sitruunan raastettu kuori ja mehu, hienonnetut tatit ja hienonnettu persilja. Peitä, nosta liedeltä ja anna seistä 5 minuuttia.",
+      "Valuta pikkelöidyt sienet ja tarjoile risoton päällä."
+    ],
+    "notes": ["Sitruuna ja persilja puuttuivat alkuperäisestä ainesluettelosta."]
+  },
+  {
+    "id": "kg-mushroom-sauce",
+    "title": "Sienikastike",
+    "description": "Täyteläinen kermainen kastike pihville, kanalle tai porsaankyljyksille.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "nopea", "sienet"],
+    "ingredients": [
+      "1 rkl voita",
+      "250 g sieniä, viipaloituna",
+      "1 salottisipuli, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 dl valkoviiniä",
+      "1,5 dl kuohukermaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi ja paista sieniä kovalla lämmöllä ruskeiksi, noin 6 minuuttia.",
+      "Lisää salottisipuli ja valkosipuli ja paista 2 minuuttia.",
+      "Lisää viini ja keitä, kunnes se on lähes haihtunut.",
+      "Lisää kerma ja hauduta 4 minuuttia, kunnes kastike sakenee.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "kg-nepali-dal-bhat-lentil-soup",
+    "title": "Nepalilainen dal (dal bhatin linssikeitto)",
+    "description": "Nepalilaisen arkiaterian dal bhatin linssiosa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "nepalilainen", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "250 g halkaistuja keltaherneitä",
+      "1 tl kurkumaa",
+      "suolaa",
+      "2 rkl kirkastettua voita (gheetä)",
+      "1 tl juustokuminaa (kokonaisena)",
+      "2 kuivattua chiliä",
+      "1 tomaatti, kuutioituna",
+      "tuoretta korianteria",
+      "Tarjoiluun:",
+      "3 dl riisiä, keitettynä"
+    ],
+    "instructions": [
+      "Keitä herneet kurkuman ja suolan kanssa vedessä sileiksi.",
+      "Kuumenna ghee ja paahda juustokumina ja chilit.",
+      "Lisää tomaatti ja kypsennä 3 minuuttia.",
+      "Sekoita mausteseos daliin ja hauduta 8 minuuttia.",
+      "Tarjoile riisin ja korianterin kanssa."
+    ],
+    "notes": ["Halkaistut keltaherneet kypsyvät hitaammin kuin linssit; liota niitä halutessasi muutama tunti."]
+  },
+  {
+    "id": "kg-no-bake-cheesecake",
+    "title": "Paistamaton juustokakku",
+    "description": "Kermainen juustokakku keksipohjalla – ei uunia.",
+    "servings": 12,
+    "totalTimeMin": 400,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "juhla", "leivonnainen"],
+    "ingredients": [
+      "Pohja:",
+      "200 g digestive-keksejä",
+      "85 g suolatonta voita, sulatettuna",
+      "2 rkl sokeria",
+      "Täyte:",
+      "675 g tuorejuustoa",
+      "2 dl sokeria",
+      "2 tl vaniljauutetta",
+      "1 rkl sitruunamehua",
+      "ripaus suolaa",
+      "3½ dl kuohukermaa"
+    ],
+    "instructions": [
+      "Murskaa keksit hienoksi muruksi. Sekoita sulatetun voin ja 2 rkl:n sokeria kanssa märän hiekan kaltaiseksi.",
+      "Painele seos tiiviisti noin 23 cm:n irtopohjavuoan pohjalle ja hieman reunoille. Nosta jääkaappiin täytteen valmistuksen ajaksi.",
+      "Vatkaa tuorejuusto sähkövatkaimella täysin sileäksi, noin 3 minuuttia. Kaavi kulhon reunat usein.",
+      "Lisää loput sokerista, vanilja, sitruunamehu ja suola ja vatkaa vielä 2 minuuttia.",
+      "Vatkaa kerma kylmässä kulhossa kovaksi vaahdoksi, noin 3–4 minuuttia.",
+      "Kääntele kolmasosa kermavaahdosta tuorejuustoseokseen ja sitten varovasti loput kuohkeutta menettämättä.",
+      "Kaada täyte pohjan päälle ja tasoita pinta.",
+      "Peitä kelmulla ja jäähdytä vähintään 6 tuntia, mieluiten yön yli.",
+      "Irrota vuoan reuna ja leikkaa kakku kuumaan veteen kastetulla veitsellä."
+    ]
+  }
+]

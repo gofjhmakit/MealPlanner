@@ -260,8 +260,8 @@ export function PlanWeekPage() {
           <Switch
             checked={catalogue}
             onChange={setIncludeCatalogue}
-            label="Käytä myös Finelin reseptikatalogia"
-            description={`Sinulla on ${ownCount} omaa reseptiä. Katalogin ruokalajeissa ei ole valmistusohjetta.`}
+            label="Käytä myös reseptikatalogia"
+            description={`Sinulla on ${ownCount} omaa reseptiä. Katalogissa on tuhansia suomennettuja reseptejä; valmistusohjeelliset suositaan.`}
           />
           <Switch checked={replace} onChange={setReplace} label="Korvaa jo suunnitellut ateriat" description="Pois päältä: täytetään vain tyhjät ateriat." />
           <div className="flex justify-between">
