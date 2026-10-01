@@ -1,0 +1,685 @@
+[
+  {
+    "id": "wikibooks-mesquite-beef-tenderloin",
+    "title": "Savugrillattu naudan sisäfilee",
+    "description": "Konjakissa marinoitu naudan sisäfilee paprika-korianterimausteella hierottuna ja savulastujen kanssa grillattuna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "juhla"],
+    "ingredients": [
+      "1 naudan sisäfileepaisti, keskipala (n. 1 kg)",
+      "2–3 dl konjakkia marinointiin",
+      "2 dl mesquite-savulastuja, liotettuna",
+      "3 rkl paprikajauhetta",
+      "1 rkl korianterinsiemeniä, karkeasti jauhettuna",
+      "1,5 tl suolaa",
+      "1,5 tl karkeaa mustapippuria",
+      "1,5 tl kuivattua rosmariinia",
+      "2 tl kuivattua sitruunankuorta"
+    ],
+    "instructions": [
+      "Laita liha isoon minigrip-pussiin. Kaada päälle konjakkia niin, että liha peittyy, ja anna marinoitua jääkaapissa vähintään 30 minuuttia.",
+      "Laita savulastut hiiligrillin kuumille hiilille.",
+      "Sekoita paprika, korianteri, suola, pippuri, rosmariini ja sitruunankuori. Hiero seos koko lihan pintaan ja anna lihan lämmetä huoneenlämpöiseksi.",
+      "Nosta liha grillin keskelle, sulje kansi ja kypsennä usein kääntäen, kunnes sisälämpö on 57 °C (medium rare), 65 °C (medium) tai 71 °C (kypsä).",
+      "Anna levätä 10 minuuttia ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-mesquite-chicken-sandwich",
+    "title": "Savugrillattu kanaleipä",
+    "description": "Savuisesti grillattu broilerinfilee, Monterey Jack -juusto ja grillikastike paahdetun ciabattasämpylän välissä.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "voileipä"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "2,5 dl mesquite-savulastuja, liotettuna vedessä 30 minuuttia",
+      "2 rkl grillimaustetta",
+      "oliiviöljyä",
+      "4 ciabattasämpylää, halkaistuna ja paahdettuna",
+      "1 dl grillikastiketta",
+      "4 viipaletta Monterey Jack -juustoa"
+    ],
+    "instructions": [
+      "Kuumenna grilli ja heitä savulastut hiilille.",
+      "Sivele kana öljyllä ja mausta runsaalla grillimausteella. Grillaa usein kääntäen, kunnes sisälämpö on 74 °C.",
+      "Nosta lautaselle ja peitä tiiviisti foliolla. Nosta jokaisen fileen päälle juustoviipale ja anna levätä 5 minuuttia.",
+      "Sivele fileiden molemmat puolet grillikastikkeella. Nosta jokainen filee sämpylän väliin ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-mesquite-chicken-wraps",
+    "title": "Savugrillatut kana-juustotortillat",
+    "description": "Savuisesti grillattua, revittyä kanaa ja sulavaa juustoa tortillaan käärittynä.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "meksikolainen"],
+    "ingredients": [
+      "2 broilerin rintafileetä",
+      "1 dl mesquite-savulastuja, liotettuna vedessä 30 minuuttia",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "4 vehnä- tai maissitortillaa",
+      "oliiviöljyä",
+      "5 dl Monterey Jack -juustoraastetta"
+    ],
+    "instructions": [
+      "Sivele kana oliiviöljyllä ja mausta molemmat puolet erittäin runsaalla suolalla ja pippurilla. Nosta sivuun.",
+      "Kuumenna hiiligrilli. Heitä savulastut hiilille ja aseta ritilä paikalleen.",
+      "Grillaa kanaa usein kääntäen, kunnes sisälämpö on 74 °C. Nosta lautaselle ja anna levätä 5–10 minuuttia.",
+      "Revi kana kahdella haarukalla. Sekoita juuston kanssa ja jaa tortilloille. Kääri pituussuunnassa rullalle ja tarjoa, kun juusto on sulanut."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-chocolate-cake-with-mocha-buttercream",
+    "title": "Meksikolainen kanelinen suklaakakku mokkavoikreemillä",
+    "description": "Kanelilla maustettu meksikolaistyylinen suklaakakku, joka leikataan kolmeen kerrokseen ja täytetään mokkavoikreemillä.",
+    "servings": 10,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "meksikolainen", "suklaa"],
+    "ingredients": [
+      "öljyä vuoan voiteluun",
+      "85 g meksikolaista suklaata (esim. Ibarra) tai tummaa suklaata",
+      "85 g makeuttamatonta leivontasuklaata",
+      "5 dl vehnäjauhoja (mieluiten kakkujauhoja)",
+      "2 tl leivinjauhetta",
+      "½ tl suolaa",
+      "1 tl kanelia (2 tl, jos käytät tummaa suklaata)",
+      "225 g voita, pehmeänä",
+      "2,5 dl + 2 rkl sokeria",
+      "1 tl vaniljauutetta",
+      "4 isoa munaa",
+      "2,5 dl maitoa",
+      "mokkavoikreemiä täyttöön ja kuorrutukseen",
+      "kanelia, kaakaojauhetta ja tomusokeria koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Voitele syvä 23 cm:n irtopohjavuoka huolellisesti.",
+      "Sulata suklaat vesihauteessa tai mikroaaltouunissa miedolla teholla.",
+      "Anna jäähtyä.",
+      "Siivilöi jauhot, leivinjauhe, suola ja kaneli keskikokoiseen kulhoon.",
+      "Vaahdota voi ja sokeri isossa kulhossa sähkövatkaimella suurella teholla.",
+      "Lisää vanilja ja munat yksitellen hyvin vatkaten.",
+      "Kaada joukkoon jäähtynyt suklaa ja vatkaa tasaiseksi.",
+      "Lisää kolmasosa jauhoseoksesta ja sekoita juuri ja juuri sekaisin. Kaada joukkoon puolet maidosta.",
+      "Sekoita lyhyesti ja toista toisella kolmanneksella jauhoja ja lopulla maidolla.",
+      "Lisää loput jauhot ja sekoita vain sen verran, että taikina on tasaista. Liika sekoittaminen tekee kakusta sitkeän.",
+      "Levitä taikina vuokaan ja paista 55 minuuttia tai kunnes keskelle työnnetty tikku tulee ulos puhtaana.",
+      "Anna jäähtyä kokonaan ennen kokoamista.",
+      "Leikkaa kakku pitkällä sahateräisellä veitsellä kolmeen yhtä paksuun kerrokseen.",
+      "Levitä mokkavoikreemiä kerrosten väliin ja pinoa ne tasaisesti.",
+      "Kuorruta reunat ja pinta voikreemillä.",
+      "Ripottele pinnalle halutessasi kanelia, kaakaota ja tomusokeria."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-habanero-hot-sauce",
+    "title": "Meksikolainen habanero-chilikastike",
+    "description": "Erittäin tulinen chilikastike habaneroista, tomaattipyreestä ja mallasetikasta.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "tulinen", "nopea"],
+    "ingredients": [
+      "1 dl tomaattipyreetä",
+      "10–15 habanero-chiliä, kannat poistettuna",
+      "½ dl mallasetikkaa",
+      "suolaa",
+      "5 tippaa punaista elintarvikeväriä (valinnainen)"
+    ],
+    "instructions": [
+      "Soseuta kaikki ainekset monitoimikoneessa tasaiseksi.",
+      "Säilytä jääkaapissa lasisessa tai muussa happoa kestävässä astiassa enintään 2 kuukautta."
+    ],
+    "notes": ["Käytä habaneroja käsitellessäsi suojakäsineitä."]
+  },
+  {
+    "id": "wikibooks-mexican-ribs",
+    "title": "Meksikolaiset savuribsit tequila-habanerokastikkeella",
+    "description": "Ancho- ja chipotlemausteella hierotut porsaan ribsit, jotka savustetaan mesquite-puulla ja lasitetaan tequilalla ja habanerolla maustetulla grillikastikkeella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 510,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "meksikolainen", "savustus"],
+    "ingredients": [
+      "1 levy porsaan kylkiribsejä (St. Louis -leikkaus)",
+      "½ dl fariinisokeria",
+      "1 rkl habanero-chilijauhetta",
+      "½ dl ancho-chilijauhetta",
+      "1 rkl kuivattua meksikolaista oreganoa",
+      "1 rkl suolaa",
+      "1 rkl vastajauhettua mustapippuria",
+      "1 rkl chipotlejauhetta",
+      "1 habanero-chili, siemenet poistettuna ja hienonnettuna",
+      "3,5 dl grillikastiketta",
+      "½ dl tequilaa",
+      "isoja mesquite-puupaloja savustukseen"
+    ],
+    "instructions": [
+      "Sekoita sokeri, chilijauheet, oregano, suola ja pippuri. Poista ribsien kalvo ja hiero seos molemmille puolille. Anna maustua jääkaapissa vähintään tunti.",
+      "Yhdistä tequila, habanero ja grillikastike kattilassa ja kuumenna keskikorkealla lämmöllä kiehuvaksi. Nosta sivuun.",
+      "Laita savustimeen sen verran puupaloja, että lämpötila pysyy noin 95 asteessa. Kypsennä ribsejä 7 tuntia ja sivele ne kastikkeella tunnin välein.",
+      "Sivele lihapuoli runsaalla kastikkeella. Nosta kastikepuoli alaspäin kuumalle grillille ja ruskista hyvin. Sivele toinen puoli ja toista vielä kerran.",
+      "Leikkaa yhden luun annoksiksi ja tarjoa lämpimänä lopun kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-rice-i",
+    "title": "Meksikolainen tomaattiriisi",
+    "description": "Kullanruskeaksi paahdettu riisi haudutettuna tomaatin, sipulin, paprikan ja juustokuminan kanssa.",
+    "servings": 5,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "meksikolainen", "riisi"],
+    "ingredients": [
+      "3 rkl rypsiöljyä",
+      "2,5 dl riisiä (pesemätöntä)",
+      "½ sipuli, hienonnettuna",
+      "½ vihreä paprika, hienonnettuna",
+      "2,5 dl tomaattia, pilkottuna (purkista valutettuna)",
+      "1 tl suolaa",
+      "½ tl juustokuminaa",
+      "5 dl vettä"
+    ],
+    "instructions": [
+      "Paista kuivaa riisiä öljyssä keskikorkealla lämmöllä usein sekoittaen, kunnes se on kullanruskeaa.",
+      "Lisää sipuli ja paprika ja kypsennä, kunnes ne hieman pehmenevät.",
+      "Lisää tomaatit, mausteet ja vesi. Peitä kannella ja hauduta miedolla lämmöllä 20 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-rice-ii",
+    "title": "Meksikolainen chiliriisi kanaliemessä",
+    "description": "Valkosipulilla, chilillä ja ancho-enchiladakastikkeella maustettu riisi, joka haudutetaan kanaliemessä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["meksikolainen", "riisi"],
+    "ingredients": [
+      "2,5 dl riisiä",
+      "1 tuore punainen chili, siemenet poistettuna ja hienonnettuna",
+      "5 rkl ancho-enchiladakastiketta, siivilöitynä",
+      "4 dl kanalientä",
+      "4 valkosipulinkynttä, kuorittuna ja murskattuna",
+      "½ pieni sipuli, hienonnettuna",
+      "1 rkl rypsiöljyä tai laardia"
+    ],
+    "instructions": [
+      "Kuullota valkosipulia, sipulia ja chiliä öljyssä keskilämmöllä noin minuutti.",
+      "Lisää riisi ja paista usein sekoittaen, kunnes riisi alkaa ruskistua.",
+      "Kuumenna liemi ja chilikastike toisessa kattilassa kiehuvaksi. Nesteen kokonaismäärän tulee olla noin 5 dl.",
+      "Kaada neste riisin päälle ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta kannen alla 25–30 minuuttia.",
+      "Poista kansi ja kuohkeuta riisi haarukalla."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-rice-pilaf",
+    "title": "Meksikolainen tomaatti-tequilapilahvi",
+    "description": "Voissa paahdettu riisi haudutettuna kanaliemessä tomaattipyreen, tequilan, meksikolaisen oreganon ja kokonaisten habanerojen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["meksikolainen", "riisi"],
+    "ingredients": [
+      "5 dl riisiä",
+      "2 rkl suolatonta voita",
+      "1,75 dl tequilaa",
+      "1,75 dl tomaattipyreetä",
+      "6 dl kanalientä",
+      "3 laakerinlehteä",
+      "¼ tl suolaa",
+      "¼ tl vastajauhettua mustapippuria",
+      "2 habanero-chiliä, kannat poistettuna",
+      "1 rkl kuivattua meksikolaista oreganoa"
+    ],
+    "instructions": [
+      "Huuhtele riisi kylmällä vedellä, kunnes vesi on kirkasta. Taputtele kuivaksi talouspaperilla.",
+      "Sulata voi isossa kattilassa keskilämmöllä. Lisää riisi ja paahda, kunnes se on kullanruskeaa.",
+      "Sekoita sillä välin tequila, liemi, tomaattipyree, suola, oregano ja pippuri. Kaada riisin päälle ja kuumenna kiehuvaksi. Lisää laakerinlehdet ja habanerot.",
+      "Keitä välillä sekoittaen noin 30 minuuttia tai kunnes riisi on sopivan kypsää.",
+      "Poista laakerinlehdet ja chilit. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-seasoning",
+    "title": "Meksikolainen mausteseos",
+    "description": "Oma chilipohjainen mausteseos tacoihin ja muihin meksikolaisiin ruokiin. Valmista etukäteen ja säilytä maustepurkissa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Muut",
+    "tags": ["vegaaninen", "meksikolainen", "mausteseos"],
+    "ingredients": [
+      "1 dl chilijauhetta",
+      "1 rkl suolaa",
+      "1–2 tl juustokuminaa (siemeninä tai jauhettuna)",
+      "1 tl valkosipulijauhetta",
+      "1 tl meksikolaista oreganoa",
+      "1 tl kuivattua basilikaa",
+      "1 tl jauhettua korianteria",
+      "1 tl sipulijauhetta",
+      "1 tl kanelia",
+      "1 tl chilihiutaleita",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset.",
+      "Säilytä viileässä ja kuivassa."
+    ],
+    "notes": ["Säädä oreganon, basilikan, korianterin, sipulin, kanelin, chilihiutaleiden ja pippurin määriä oman maun mukaan."]
+  },
+  {
+    "id": "wikibooks-mexican-tequila-marinade",
+    "title": "Meksikolainen tequila-limettimarinadi",
+    "description": "Tulinen marinadi tequilasta, hunajasta, limetistä ja habanerosta lihalle, kanalle tai kalalle.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["meksikolainen", "marinadi", "nopea"],
+    "ingredients": [
+      "1 dl tequilaa",
+      "3 rkl hunajaa",
+      "¼ tl nestemäistä savuaromia",
+      "½ dl tuorepuristettua limettimehua",
+      "1 habanero-chili, soseutettuna",
+      "1 rkl suolaa",
+      "1 rkl vastajauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset noin 2,5 dl:n kierrekorkkipurkissa. Säilytä jääkaapissa enintään 2 viikkoa ja ravista hyvin ennen käyttöä."
+    ]
+  },
+  {
+    "id": "wikibooks-mexican-tomato-soup",
+    "title": "Meksikolainen tomaatti-maissikeitto",
+    "description": "Yksinkertainen ja ravitseva kasviskeitto tomaattikastikkeesta, sipulista, paprikasta ja maissista. Tarjoillaan tortillalastujen kanssa.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "meksikolainen", "nopea"],
+    "ingredients": [
+      "5 dl tomaattikastiketta tai tomaattisosetta",
+      "2 isoa sipulia",
+      "2 punaista paprikaa",
+      "2 tomaattia",
+      "1 purjon vihreä osa tai kevätsipulin varsia",
+      "1 tlk (300 g) maissinjyviä",
+      "½ dl rypsiöljyä tai oliiviöljyä",
+      "½ tl suolaa + maun mukaan",
+      "1–2 tl sokeria",
+      "muita kasviksia maun mukaan",
+      "tortillalastuja tarjoiluun"
+    ],
+    "instructions": [
+      "Hienonna sipuli ja kuullota sitä isossa kattilassa pienessä määrässä öljyä.",
+      "Lisää pilkotut kasvikset sopivassa järjestyksessä: paprikat alussa, tomaatit myöhemmin.",
+      "Lisää noin ½ tl suolaa. Suola irrottaa kasviksista nestettä, jossa ne hautuvat nopeammin. Peitä kattila tarvittaessa kannella.",
+      "Lisää tomaattikastike ja maissit.",
+      "Mausta suolalla ja sokerilla. Tomaattikastike kaipaa reilusti suolaa ja vähintään kukkuraisen teelusikallisen sokeria.",
+      "Tarjoa tortillalastujen tai paahdetun leivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-mhadjeb-algerian-stuffed-flatbread",
+    "title": "Mhadjeb – algerialaiset täytetyt lättyleivät",
+    "description": "Ohuet, lehtevät mannasuurimoleivät, jotka täytetään haudutetulla sipuli-tomaattiseoksella ja paistetaan pannulla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "pohjoisafrikkalainen", "rieska"],
+    "ingredients": [
+      "Taikina:",
+      "2,5 dl hienoja mannasuurimoita (tai durumvehnäjauhoja)",
+      "1 dl vehnäjauhoja",
+      "½ tl suolaa",
+      "noin 1,5 dl vettä",
+      "Täyte:",
+      "2 tomaattia",
+      "3 rkl rypsiöljyä + paistamiseen",
+      "4 sipulia, ohuina viipaleina",
+      "mustapippuria",
+      "chilijauhetta",
+      "suolaa"
+    ],
+    "instructions": [
+      "Sekoita mannasuurimot, jauhot ja suola kulhossa. Lisää vettä vähitellen käsin sekoittaen, kunnes saat sileän ja pehmeän taikinan.",
+      "Kastele muovipussi lämpimässä vedessä, peitä taikina vielä märällä pussilla ja anna levätä. Vaivaa sitten kevyesti muutama minuutti.",
+      "Öljyä kädet ja muotoile taikinasta palloja vierekkäin. Peitä ja anna levätä uudelleen; lepoajat tekevät taikinasta paremman.",
+      "Kuori tomaatit ja kuutioi ne pieniksi.",
+      "Kuumenna öljy pannulla keskilämmöllä. Lisää sipulit ja kuullota säännöllisesti sekoittaen, kunnes ne ovat läpikuultavia ja pehmeitä.",
+      "Lisää tomaatit, mausteet ja suola. Peitä ja hauduta miedolla lämmöllä välillä sekoittaen.",
+      "Anna jäähtyä.",
+      "Kauli ensimmäinen pallo öljytyllä alustalla ohueksi ja sivele kevyesti öljyllä.",
+      "Nosta keskelle täytettä ja taita taikina neljältä sivulta sen päälle neliöksi.",
+      "Sivele pinta kevyesti öljyllä ja siirrä kuumalle pannulle keskilämmölle. Paista, kunnes alapuoli on hyvin ruskistunut, käännä ja ruskista toinen puoli.",
+      "Toista loppujen taikinapallojen ja täytteen kanssa.",
+      "Tarjoa kuumina."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-1-2-3-cake",
+    "title": "Mikroaaltouunin 1-2-3-kakku",
+    "description": "Nopea yhden hengen makea mukikakku kananmunasta, hunajasta, maidosta ja korppujauhoista.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "mikroaaltouuni"],
+    "ingredients": [
+      "1 muna",
+      "1 rkl hunajaa tai vaahterasiirappia + tarjoiluun",
+      "2 rkl maitoa",
+      "3 rkl korppujauhoja"
+    ],
+    "instructions": [
+      "Vatkaa muna tasaiseksi.",
+      "Lisää hunaja ja maito ja sekoita hyvin.",
+      "Lisää korppujauhot ja sekoita tasaiseksi.",
+      "Anna seistä muutama minuutti, jotta korppujauhot imevät nesteen.",
+      "Kaada seos pieneen silikonivuokaan tai mukiin.",
+      "Kuumenna mikrossa täydellä teholla noin 4 minuuttia tai hetki sen jälkeen, kun kakku lakkaa kohoamasta.",
+      "Anna jäähtyä hetki ja kumoa halutessasi lautaselle.",
+      "Valuta päälle halutessasi lisää vaahterasiirappia tai hunajaa."
+    ],
+    "notes": ["Voitele mittalusikka öljyllä ennen hunajan mittaamista, niin hunaja liukuu helposti irti."]
+  },
+  {
+    "id": "wikibooks-microwave-applesauce",
+    "title": "Mikroaaltouunin omenasose",
+    "description": "Vaivaton omenasose, joka kypsennetään mikrossa vaahterasiirapin, appelsiinimehun ja kanelin kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "omena", "nopea", "mikroaaltouuni"],
+    "ingredients": [
+      "5 omenaa, kuorittuna, siemenkodat poistettuna ja kuutioituna",
+      "3,5 dl omenahyytelöä",
+      "½ dl vaahterasiirappia",
+      "½ dl tuorepuristettua appelsiinimehua",
+      "1 kanelitanko"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset mikroaaltouunin kestävässä astiassa.",
+      "Peitä astia jättäen yksi kulma raolleen ja kuumenna täydellä teholla 7–8 minuuttia tai kunnes omenat ovat helposti survottavia.",
+      "Poista kanelitanko.",
+      "Survo perunasurvimella karkeaksi soseeksi, sähkövatkaimella hieman sileämmäksi tai sauvasekoittimella sileäksi."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-chocolate-cake-i",
+    "title": "Mikroaaltouunin suklaamukikakku",
+    "description": "Nopea yhden hengen suklaakakku mukissa, valmis muutamassa minuutissa.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "mikroaaltouuni", "suklaa"],
+    "ingredients": [
+      "4 rkl sokeria",
+      "4 rkl vehnäjauhoja",
+      "4 rkl kaakaojauhetta",
+      "1 muna",
+      "3 rkl maitoa",
+      "3 rkl rypsiöljyä",
+      "½–1 tl vaniljauutetta",
+      "3 rkl suklaarakeita (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset hyvin pienessä kulhossa tai isossa mukissa.",
+      "Lisää muna ja sekoita huolellisesti.",
+      "Kaada joukkoon maito ja öljy ja sekoita hyvin.",
+      "Lisää vanilja ja mahdolliset suklaarakeet ja sekoita uudelleen.",
+      "Jätä taikina mukiin tai kaada voideltuun pieneen vuokaan.",
+      "Kuumenna mikrossa täydellä teholla noin 3 minuuttia tai kunnes kakku lakkaa kohoamasta.",
+      "Anna jäähtyä hetki ja kumoa halutessasi lautaselle."
+    ],
+    "notes": ["Teelusikallinen kanelia antaa mukavan maun."]
+  },
+  { "id": "wikibooks-microwave-chocolate-cake-ii", "skip": "lähes sama kuin edellinen mikroaaltouunin suklaakakku" },
+  {
+    "id": "wikibooks-microwave-chocolate-chip-cookie",
+    "title": "Mikroaaltouunin jättisuklaakeksi",
+    "description": "Yksi iso suklaakeksi, joka kypsyy mikrossa parissa minuutissa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "mikroaaltouuni", "suklaa"],
+    "ingredients": [
+      "2 rkl suolatonta voita, huoneenlämpöisenä",
+      "45 g fariinisokeria",
+      "½ tl vaniljauutetta",
+      "1 muna",
+      "70 g vehnäjauhoja",
+      "1 ripaus suolaa",
+      "40 g tummia suklaarakeita"
+    ],
+    "instructions": [
+      "Vuoraa iso mikroaaltouunin kestävä lautanen leivinpaperilla.",
+      "Vaahdota voi ja sokeri pienessä kulhossa kuohkeaksi.",
+      "Vatkaa joukkoon muna ja vanilja.",
+      "Siivilöi jauhot ja suola ja kääntele ne voiseokseen. Kääntele joukkoon suurin osa suklaarakeista.",
+      "Nosta taikina lautasen keskelle ja koristele loput suklaarakeet pinnalle.",
+      "Kuumenna mikrossa 1½–2 minuuttia tehosta riippuen.",
+      "Anna keksin jäähtyä."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-chocolate-pudding",
+    "title": "Mikroaaltouunin suklaavanukas",
+    "description": "Helppo suklaavanukas sokerista, kaakaosta, maissitärkkelyksestä ja maidosta mikrossa keitettynä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "mikroaaltouuni", "gluteeniton"],
+    "ingredients": [
+      "¾ dl sokeria",
+      "½ dl kaakaojauhetta",
+      "3 rkl maissitärkkelystä",
+      "1 ripaus suolaa",
+      "5 dl maitoa tai soijajuomaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset noin litran vetoisessa mikroaaltouunin kestävässä kulhossa.",
+      "Lisää kylmä maito ja vatkaa pienellä vispilällä tai sähkövatkaimella, kunnes kaakaopaakut ovat liuenneet.",
+      "Kuumenna täydellä teholla 3 minuuttia. Sekoita hyvin.",
+      "Kuumenna vielä 4–6 minuuttia täydellä teholla ja sekoita minuutin välein.",
+      "Ota kulho mikrosta ja sekoita joukkoon vanilja.",
+      "Kaada vanukas neljään pieneen kulhoon ja jäähdytä ennen tarjoilua."
+    ],
+    "notes": ["Raolleen jätetty kansi estää vanukasta roiskumasta mikroon."]
+  },
+  {
+    "id": "wikibooks-microwave-lemon-puddings",
+    "title": "Mikroaaltouunin sitruunavanukkaat",
+    "description": "Pienet sitruunaiset sokerikakkuvanukkaat, joiden pohjalle tulee sitruunatahnaa. Kypsyvät mikrossa neljässä minuutissa.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "mikroaaltouuni", "sitruuna"],
+    "ingredients": [
+      "6 rkl sitruunatahnaa (lemon curd)",
+      "4 tl kiehuvaa vettä",
+      "80 g margariinia",
+      "75 g hienoa sokeria",
+      "1 muna",
+      "1 sitruunan raastettu kuori",
+      "½ sitruunan mehu",
+      "1,25 dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "1 rkl tomusokeria",
+      "vadelmia (valinnainen)",
+      "ranskankermaa (valinnainen)"
+    ],
+    "instructions": [
+      "Voitele neljä noin 1,5 dl:n mikroaaltouunin kestävää annosvuokaa.",
+      "Sekoita sitruunatahna ja vesi kulhossa.",
+      "Jaa seos vuokiin.",
+      "Vaahdota margariini ja sokeri toisessa kulhossa.",
+      "Vatkaa joukkoon muna ja sitruunankuori.",
+      "Sekoita jauhot ja leivinjauhe ja kääntele ne taikinaan. Sekoita lopuksi joukkoon sitruunamehu.",
+      "Jaa taikina vuokiin ja tasoita pinnat.",
+      "Nosta vuoat lautaselle ja kuumenna mikrossa 4 minuuttia. Anna seistä minuutti.",
+      "Sihtaa pinnalle tomusokeria ja tarjoa halutessasi vadelmien ja ranskankerman kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-oat-porridge",
+    "title": "Mikroaaltouunin kaurapuuro",
+    "description": "Yhden annoksen kaurapuuro mikroaaltouunissa parissa minuutissa.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "puuro", "nopea", "mikroaaltouuni"],
+    "ingredients": [
+      "2,5 dl vettä",
+      "1 dl kaurahiutaleita",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Sekoita vesi, kaurahiutaleet ja suola isossa mikroaaltouunin kestävässä kulhossa.",
+      "Kuumenna täydellä teholla 2–3 minuuttia.",
+      "Sekoita ja tarjoa heti."
+    ],
+    "notes": ["Käytä riittävän isoa kulhoa, ettei puuro kiehu yli."]
+  },
+  {
+    "id": "wikibooks-microwave-peanut-brittle",
+    "title": "Mikroaaltouunin maapähkinäkrokantti",
+    "description": "Helppo maapähkinäkrokantti, joka valmistuu mikrossa alle kymmenessä minuutissa.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "makeinen", "mikroaaltouuni", "gluteeniton"],
+    "ingredients": [
+      "2,5 dl sokeria",
+      "1,25 dl glukoosisiirappia tai vaaleaa siirappia",
+      "2,5 dl paahdettuja maapähkinöitä",
+      "1 tl voita",
+      "1 tl vaniljauutetta",
+      "1 tl ruokasoodaa"
+    ],
+    "instructions": [
+      "Voitele uunipelti kevyesti ja nosta sivuun.",
+      "Sekoita sokeri ja siirappi noin 1,5 litran mikroaaltouunin kestävässä vuoassa. Kuumenna täydellä teholla 4 minuuttia.",
+      "Sekoita joukkoon maapähkinät. Kuumenna täydellä teholla 3–5 minuuttia tai kunnes seos on vaaleanruskeaa.",
+      "Lisää voi ja vanilja ja sekoita hyvin. Kuumenna vielä 1–2 minuuttia. Pähkinät ovat kevyesti ruskistuneita ja siirappi erittäin kuumaa.",
+      "Lisää sooda ja sekoita varovasti, kunnes seos on vaaleaa ja vaahtoavaa.",
+      "Kaada seos voidellulle pellille. Anna jäähtyä ½–1 tuntia.",
+      "Riko jäähtynyt krokantti pieniksi paloiksi ja säilytä ilmatiiviissä rasiassa."
+    ],
+    "notes": [
+      "Varo kypsentämästä liikaa tai liian vähän: ylikypsä krokantti maistuu palaneelta ja alikypsä jää sitkeäksi.",
+      "Ajat riippuvat mikron tehosta. Jos seos alkaa paikoin ruskistua voimakkaasti, se on palamassa – ota heti pois."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-quesadilla",
+    "title": "Mikroaaltouunin quesadilla",
+    "description": "Nopea tortillavälipala, jossa sulavan juuston kanssa voi käyttää salsaa, papuja, kasviksia tai kypsää lihaa.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "meksikolainen", "nopea", "mikroaaltouuni"],
+    "ingredients": [
+      "2 tortillaa",
+      "1 dl sulavaa juustoraastetta (esim. Monterey Jack)",
+      "Täytteeksi yksi tai useampi:",
+      "2 rkl salsaa",
+      "chiliä",
+      "pilkottua tomaattia ja korianteria",
+      "kypsää lihaa tai äyriäisiä",
+      "avokadoa tai guacamolea",
+      "tuoretta pinaattia",
+      "huuhdottuja mustapapuja",
+      "Tarjoiluun:",
+      "salsaa, guacamolea tai smetanaa"
+    ],
+    "instructions": [
+      "Aseta yksi tortilla mikroaaltouunin kestävälle lautaselle.",
+      "Ripottele päälle puolet juustosta ja haluamasi täytteet.",
+      "Levitä loppu juusto täytteiden päälle ja nosta toinen tortilla päälle.",
+      "Kuumenna täydellä teholla 30–60 sekuntia tai kunnes juusto on sulanut ja täytteet lämpimiä.",
+      "Lisää haluamasi lisukkeet ja nauti."
+    ],
+    "notes": ["Valitse täytteitä, jotka lämpenevät läpi siinä ajassa, kun juusto sulaa."]
+  },
+  {
+    "id": "wikibooks-microwave-risotto",
+    "title": "Mikroaaltouunirisotto",
+    "description": "Vaivaton risotto, joka kypsyy mikrossa lähes ilman sekoittamista.",
+    "servings": 3,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["riisi", "italialainen", "mikroaaltouuni"],
+    "ingredients": [
+      "7,5 dl kuumaa kanalientä",
+      "½ tl suolaa",
+      "1 ripaus valko- tai mustapippuria",
+      "2 rkl voita",
+      "2 rkl oliiviöljyä",
+      "1 dl keltasipulia, hienonnettuna",
+      "2,5 dl risottoriisiä tai muuta keskijyväistä riisiä",
+      "parmesaaniraastetta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna liemi, suola ja pippuri kattilassa hiljalleen poreilevaksi ja pidä lämpimänä.",
+      "Kuumenna öljy ja voi noin 20 × 20 cm:n uuninkestävässä vuoassa mikrossa 2 minuuttia.",
+      "Lisää sipuli, sekoita ja kuumenna mikrossa 4 minuuttia.",
+      "Lisää riisi, sekoita niin että se kiiltää rasvasta, ja kuumenna vielä 4 minuuttia.",
+      "Kaada kuuma liemi vuokaan ja sekoita hyvin. Kuumenna 9 minuuttia.",
+      "Sekoita hyvin ja kuumenna vielä 9 minuuttia.",
+      "Jos haluat kermaisemman risoton, lisää ½ dl lämmintä vettä, sekoita ja kuumenna vielä 2 minuuttia. Sekoita halutessasi joukkoon parmesaania."
+    ],
+    "notes": [
+      "Käytä 750 W:n mikrossa täyttä tehoa; 1000–1500 W:n mikrossa käytä 70 %:n tehoa.",
+      "Muunnelma: korvaa 1,25 dl liemestä valkoviinillä."
+    ]
+  },
+  {
+    "id": "wikibooks-microwave-salmon-in-a-parchment-envelope",
+    "title": "Yrttilohi leivinpaperinyytissä",
+    "description": "Lohifilee kypsennetään leivinpaperisydämessä tuoreiden yrttien, sitruunan, valkoviinin ja voin kanssa mikrossa tai uunissa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kala", "lohi", "nopea", "mikroaaltouuni"],
+    "ingredients": [
+      "1 lohifilee (225 g)",
+      "¾ dl tuoretta tilliä",
+      "¾ dl tuoretta persiljaa",
+      "¾ dl tuoretta oreganoa",
+      "¾ dl tuoretta timjamia",
+      "2 oksaa tuoretta rosmariinia",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "1 tl paprikajauhetta",
+      "4 sitruunaviipaletta",
+      "2 rkl valkoviiniä",
+      "1 rkl suolatonta voita, kuutioituna"
+    ],
+    "instructions": [
+      "Taita noin 40 × 90 cm:n leivinpaperiarkki kahtia kuin kirja. Piirrä paperiin iso puolikas sydän niin, että taitos on sydämen keskiviiva. Leikkaa sydän irti ja avaa.",
+      "Levitä yrtit toiselle puoliskolle. Nosta päälle 2 sitruunaviipaletta ja niiden päälle lohi. Mausta molemmat puolet suolalla, paprikalla ja pippurilla.",
+      "Valuta lohen päälle valkoviini ja ripottele päälle voikuutiot. Peitä lopuilla sitruunaviipaleilla.",
+      "Taita sydämen toinen puoli kalan päälle ja taittele reunat sydämen yläosasta alkaen tiiviisti limittäin. Kierrä kärki useaan kertaan kiinni.",
+      "Nosta nyytti mikroaaltouunin kestävälle lautaselle ja kuumenna täydellä teholla 4 minuuttia tai kunnes sisälämpö on 55 °C. Avaa paperi ja tarjoa lämpimänä."
+    ],
+    "notes": ["Nyytin voi myös paistaa 220-asteisessa uunissa 12 minuuttia."]
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "id": "myplate-apple-slice-pancakes",
+    "title": "Omenarengaspannukakut",
+    "description": "Tavalliset amerikkalaiset pannukakut piristyvät omenalla ja kanelilla.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakut", "omena"],
+    "ingredients": [
+      "1 vihreä omena (esim. granny smith)",
+      "3 dl pannukakkujauhoseosta",
+      "½ tl kanelia",
+      "1 iso kananmuna",
+      "2 tl rypsiöljyä",
+      "2½ dl kevytmaitoa",
+      "öljyä pannulle"
+    ],
+    "instructions": [
+      "Voitele paistinpannu ohuelti öljyllä ja kuumenna keskilämmöllä.",
+      "Kuori omena, poista siemenkota ja leikkaa ohuiksi renkaiksi.",
+      "Sekoita taikinan ainekset isossa kulhossa vain sen verran, että kaikki kostuu. Pienet paakut eivät haittaa – liika sekoittaminen tekee pannukakuista sitkeitä.",
+      "Nosta pannulle omenarengas ja kaada sen päälle noin ½ dl taikinaa keskeltä alkaen niin, että omena peittyy.",
+      "Paista, kunnes pintaan tulee kuplia.",
+      "Käännä ja paista toinen puoli kevyesti ruskeaksi."
+    ]
+  },
+  {
+    "id": "myplate-apple-stuffed-squash",
+    "title": "Omenatäytteiset kurpitsat mikrossa",
+    "description": "Sesongin lisuke, joka valmistuu pelkällä mikroaaltouunilla.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "syksy", "gluteeniton"],
+    "ingredients": [
+      "4 pientä kurpitsaa (esim. tammenterhokurpitsaa)",
+      "1 rkl voita tai margariinia",
+      "2 omenaa, pilkottuna",
+      "2 tl fariinisokeria",
+      "½ tl kanelia"
+    ],
+    "instructions": [
+      "Puolita kurpitsat ja poista siemenet.",
+      "Nosta lasivuokaan, peitä kelmulla ja kypsennä mikrossa täydellä teholla 5 minuuttia.",
+      "Sulata voi erillisessä kulhossa mikrossa.",
+      "Sekoita joukkoon omenat, sokeri ja kaneli ja kypsennä mikrossa 1½ minuuttia.",
+      "Lusikoi omenatäyte kurpitsanpuolikkaisiin.",
+      "Peitä ja kypsennä täydellä teholla 3–5 minuuttia, kunnes kurpitsa ja omenat ovat pehmeitä.",
+      "Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-apple-wedges-pumpkin-almond-butter",
+    "title": "Omenalohkot ja kurpitsa-mantelivoidippi",
+    "description": "Helppo dippi, jonka voi tehdä etukäteen jääkaappiin. Sopii aamupalaksi tai välipalaksi.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "omena", "nopea", "gluteeniton"],
+    "ingredients": [
+      "Dippi:",
+      "1¼ dl kurpitsasosetta",
+      "¾ dl mantelivoita (tai rouheista maapähkinävoita)",
+      "2 rkl vaahterasiirappia",
+      "ripaus kanelia",
+      "Lisäksi:",
+      "4 omenaa, lohkottuna"
+    ],
+    "instructions": [
+      "Sekoita dipin ainekset.",
+      "Tarjoile omenalohkojen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-applesauce-cookies",
+    "title": "Omenasosekeksit",
+    "description": "Yksinkertaiset maustekeksit omenasoseella. Taikinasta voi paistaa myös kakun.",
+    "servings": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "omena", "leivonnainen"],
+    "ingredients": [
+      "2½ dl sokeria",
+      "115 g margariinia tai voita",
+      "1 kananmuna",
+      "6 dl vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "½ tl suolaa",
+      "1 tl kanelia",
+      "3½ dl makeuttamatonta omenasosetta",
+      "2½ dl rusinoita",
+      "2½ dl pähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele uunipelti.",
+      "Vatkaa sokeri ja rasva vaahdoksi ja lisää muna.",
+      "Sekoita jauhot, ruokasooda, suola ja kaneli ja lisää ne vuorotellen omenasoseen kanssa. Sekoita joukkoon rusinat ja halutessasi pähkinät.",
+      "Nostele taikinaa kukkurallisina teelusikallisina pellille reilun välimatkan päähän toisistaan.",
+      "Paista 10–12 minuuttia. Kakkuna: paista noin 20 x 20 cm:n vuoassa 175 asteessa 40 minuuttia."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttui taikinan sekoittaminen; vaihe on lisätty."]
+  },
+  {
+    "id": "myplate-applesauce-loaf-cake",
+    "title": "Omenasose-kuivakakku",
+    "description": "Kaneli, muskottipähkinä ja paahdetut saksanpähkinät tekevät kakusta yhtä hyvän kuin se tuoksuu. Ohjeesta tulee kaksi pientä kakkua.",
+    "servings": 16,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "leivonnainen"],
+    "ingredients": [
+      "1¼ dl saksanpähkinöitä, hienonnettuna",
+      "3½ dl makeuttamatonta omenasosetta",
+      "1 kananmuna",
+      "2½ dl sokeria",
+      "2 rkl rypsiöljyä",
+      "1 tl vaniljauutetta",
+      "5 dl vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "½ tl kanelia",
+      "½ tl muskottipähkinää",
+      "2½ dl rusinoita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele kaksi pientä (noin 1 l) leipävuokaa.",
+      "Paahda pähkinöitä kuivalla pannulla mieto-keskilämmöllä sekoittaen 5–7 minuuttia, kunnes ne ruskistuvat ja tuoksuvat. Anna jäähtyä.",
+      "Sekoita isossa kulhossa omenasose, muna, sokeri, öljy ja vanilja.",
+      "Sekoita pienemmässä kulhossa jauhot, ruokasooda, kaneli ja muskottipähkinä ja lisää omenaseokseen.",
+      "Sekoita joukkoon rusinat ja jäähtyneet pähkinät.",
+      "Jaa taikina vuokiin ja paista 45–55 minuuttia.",
+      "Anna jäähtyä vuoissa 10 minuuttia ja kumoa sitten jäähtymään kokonaan. Kakut ovat parhaimmillaan muutaman tunnin seisoneina."
+    ]
+  },
+  {
+    "id": "myplate-applesauce-pancakes",
+    "title": "Omenasosepannukakut",
+    "description": "Paista erä pakkaseen kiireisiä aamuja varten – lämmitä mikrossa tai leivänpaahtimessa.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakut", "omena"],
+    "ingredients": [
+      "2½ dl makeuttamatonta omenasosetta",
+      "½ dl rasvatonta maitojauhetta",
+      "2½ dl vettä",
+      "2 kananmunaa",
+      "1 rkl rypsiöljyä",
+      "5 dl vehnäjauhoja",
+      "2 rkl sokeria",
+      "½ tl kanelia",
+      "2 tl leivinjauhetta",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kulhossa omenasose, maitojauhe, vesi, munat ja öljy.",
+      "Lisää jauhot, sokeri, kaneli ja leivinjauhe ja sekoita, kunnes taikinassa on vain pieniä paakkuja.",
+      "Kuumenna iso paistinpannu keskikovalla lämmöllä ja voitele ohuelti.",
+      "Kaada pannulle noin 1 dl taikinaa.",
+      "Käännä, kun pintaan tulee kuplia.",
+      "Paista toista puolta noin minuutti kullanruskeaksi."
+    ]
+  },
+  {
+    "id": "myplate-applesauce",
+    "title": "Kotitekoinen omenasose",
+    "description": "Helppo kotitekoinen omenasose lisukkeeksi tai jälkiruoaksi.",
+    "servings": 10,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "omena", "gluteeniton"],
+    "ingredients": [
+      "7 omenaa",
+      "1¼ dl vettä",
+      "½ dl sokeria"
+    ],
+    "instructions": [
+      "Pese omenat ja leikkaa neljään osaan. Omenat voi kuoria, mutta kuidun määrä vähenee.",
+      "Laita omenat ja vesi kattilaan ja kuumenna kiehuvaksi.",
+      "Laske lämpö heti pieneksi ja hauduta 15–20 minuuttia, kunnes omenat ovat pehmeitä. Sekoita välillä, ettei sose tartu pohjaan.",
+      "Sekoita joukkoon sokeri ja kuumenna, kunnes se liukenee. Survo halutun rakenteiseksi."
+    ]
+  },
+  {
+    "id": "myplate-apricot-lemon-chicken",
+    "title": "Aprikoosi-sitruunakana",
+    "description": "Miksi odottaa jälkiruokaan? Hedelmä sopii hyvin pääruoan kastikkeeseen.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "4 broilerin rintafilettä",
+      "1 tl juustokuminaa",
+      "1 rkl rypsiöljyä",
+      "¾ dl aprikoosihilloa",
+      "1 sitruuna, mehuna",
+      "2 rkl vettä"
+    ],
+    "instructions": [
+      "Hiero juustokumina kanaan ja nosta pannulle tilkkaan öljyä.",
+      "Paista keskikovalla lämmöllä noin 6 minuuttia kummaltakin puolelta kypsäksi.",
+      "Nosta kana pannulta ja pidä lämpimänä.",
+      "Lisää pannulle aprikoosihillo, sitruunamehu ja vesi ja sekoita keskilämmöllä tasaiseksi.",
+      "Lusikoi kastike kanan päälle ja tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-argentinean-grilled-steak-salsa-criolla",
+    "title": "Argentiinalainen grillipihvi ja salsa criolla",
+    "description": "Argentiinalaistyyliset grillipihvit maukkaan kotitekoisen criolla-kastikkeen kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "argentiinalainen", "grilli", "gluteeniton"],
+    "ingredients": [
+      "Salsa criolla:",
+      "1 iso kypsä tomaatti, siemenet poistettuna ja hienonnettuna",
+      "¼ pientä punasipulia, hienonnettuna",
+      "2 rkl tuoretta persiljaa, hienonnettuna",
+      "2 tl ekstra-neitsytoliiviöljyä",
+      "2 tl punaviinietikkaa",
+      "½ tl hienonnettua valkosipulia",
+      "¼ tl kuivattua oreganoa",
+      "ripaus adobo-mausteseosta",
+      "ripaus chilihiutaleita",
+      "Pihvi:",
+      "450 g naudan kuvetta (skirt steak)",
+      "ripaus adobo-mausteseosta"
+    ],
+    "instructions": [
+      "Sekoita kastikkeen ainekset pienessä kulhossa. Peitä ja jäähdytä vähintään tunti (enintään 2 vuorokautta).",
+      "Kuumenna grilli keskikovalle lämmölle.",
+      "Ripottele adobo-mausteseosta lihan molemmille puolille.",
+      "Nosta liha kuumalle, öljytylle ritilälle.",
+      "Grillaa kerran kääntäen, kunnes pinta on ruskistunut ja sisälämpö 63 astetta (noin 6 minuuttia puolikypsälle).",
+      "Anna levätä 5 minuuttia ja leikkaa ohuiksi viipaleiksi.",
+      "Jaa liha lautasille ja lusikoi päälle salsa criollaa."
+    ],
+    "notes": ["Adobo-mausteen voi korvata seoksella valkosipulijauhetta, oreganoa, juustokuminaa ja suolaa."]
+  },
+  {
+    "id": "myplate-arroz-con-pollo-chicken-and-rice",
+    "title": "Arroz con pollo – kanaa ja riisiä",
+    "description": "Yhden pannun nopea ja maukas arki-illan ateria.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 kokonainen broileri, paloiteltuna ja nahka poistettuna",
+      "1 vihreä paprika, pilkottuna",
+      "1 sipuli, pilkottuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 tomaattia, pilkottuna",
+      "5½ dl kanalientä",
+      "1 laakerinlehti",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "2½ dl riisiä",
+      "2½ dl herneitä"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla paistinpannulla keskikovalla lämmöllä ja ruskista kanapalat molemmin puolin.",
+      "Lisää paprika, sipuli ja valkosipuli ja kypsennä noin 5 minuuttia.",
+      "Lisää tomaatti, liemi ja laakerinlehti ja mausta.",
+      "Peitä ja kypsennä 20 minuuttia.",
+      "Lisää riisi, sekoita, peitä ja hauduta vielä 20–30 minuuttia, kunnes neste on imeytynyt ja kana on mureaa.",
+      "Lisää herneet ja lämmitä.",
+      "Poista laakerinlehti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-asian-mango-chicken-wraps",
+    "title": "Aasialaiset mango-kanatortillat",
+    "description": "Makea mango tasapainottaa suolaisia makuja. Valmis 30 minuutissa, ja käy myös eväsrullaksi.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "aasialainen", "eväät"],
+    "ingredients": [
+      "2 kypsää mangoa, kuorittuna ja kuutioituna",
+      "3½ dl kypsää broilerin rintafileetä, pilkottuna",
+      "2 kevätsipulia, viipaloituna",
+      "2 rkl tuoretta basilikaa, hienonnettuna",
+      "½ punaista paprikaa, pilkottuna",
+      "3½ dl kiinankaalia (tai kurttukaalia), suikaloituna",
+      "2 porkkanaa, raastettuna",
+      "¾ dl rasvatonta tuorejuustoa",
+      "3 rkl maapähkinävoita",
+      "2 tl vähäsuolaista soijakastiketta",
+      "4 täysjyvätortillaa (20 cm)"
+    ],
+    "instructions": [
+      "Pilko mangot, kasvikset ja kana ja sekoita ne kulhossa.",
+      "Vatkaa pienessä kulhossa tuorejuusto, maapähkinävoi ja soijakastike.",
+      "Levitä tortillat pöydälle ja levitä kullekin neljännes tuorejuustoseoksesta. Lisää päälle mango-kana-kasvisseosta.",
+      "Kääri tiukasti rullaksi päät sisään taittaen ja kiinnitä hammastikuilla.",
+      "Puolita rullat tarjoiltaessa. Säilyvät jääkaapissa hyvin yön yli."
+    ]
+  },
+  {
+    "id": "myplate-asparagus-gremolata-sauce",
+    "title": "Parsa sitruuna-valkosipulivoissa (gremolata)",
+    "description": "Parsassa on folaattia, kuitua sekä A-, C-, E- ja K-vitamiinia.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "nopea", "lisuke", "gluteeniton"],
+    "ingredients": [
+      "225 g vihreää parsaa, puhdistettuna",
+      "2 rkl suolatonta voita",
+      "2 tl sitruunan kuorta, raastettuna",
+      "1 iso valkosipulinkynsi, hienonnettuna",
+      "2 rkl sitruunamehua",
+      "persiljaa koristeeksi"
+    ],
+    "instructions": [
+      "Keitä parsaa isossa kattilassa kiehuvassa vedessä noin 4 minuuttia kypsäksi.",
+      "Valuta, huuhtele kylmällä vedellä ja valuta uudelleen. Kuivaa talouspaperilla. (Parsat voi valmistella etukäteen jääkaappiin.)",
+      "Sulata voi isolla pannulla keskikovalla lämmöllä.",
+      "Lisää sitruunankuori ja valkosipuli ja sekoita 30 sekuntia.",
+      "Lisää parsa ja kääntele.",
+      "Valuta päälle sitruunamehu ja paista noin 3 minuuttia, kunnes parsa on kuumaa.",
+      "Nosta vadille, ripottele päälle persiljaa ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-asparagus-mandarin-orange-chicken-and-rice",
+    "title": "Parsa-mandariini-kanasalaatti riisillä",
+    "description": "Aasialaisvivahteinen salaatti parsasta, mandariineista, kanasta ja tummasta riisistä.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kana", "aasialainen", "salaatti", "riisi"],
+    "ingredients": [
+      "Kastike:",
+      "2 rkl ekstra-neitsytoliiviöljyä",
+      "2 rkl riisiviinietikkaa",
+      "3 rkl mandariinien säilöntälientä",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "Salaatti:",
+      "8 dl vihreää parsaa, puhdistettuna",
+      "2 tlk (à 310 g) mandariininlohkoja, valutettuna (säästä liemi)",
+      "340 g kypsää broilerin rintafileetä, paloina",
+      "7 dl keitettyä tummaa riisiä"
+    ],
+    "instructions": [
+      "Vatkaa kastikkeen ainekset pienessä kulhossa.",
+      "Keitä riisi pakkauksen ohjeen mukaan.",
+      "Laita kokonaiset parsat isolle pannulle, jossa on noin 4 cm vettä. Kuumenna kiehuvaksi ja keitä ilman kantta 2–5 minuuttia.",
+      "Huuhtele viileällä vedellä ja leikkaa 2–3 cm:n paloiksi.",
+      "Sekoita kaikki ainekset kulhossa."
+    ]
+  },
+  {
+    "id": "myplate-au-gratin-potatoes",
+    "title": "Juustoinen perunagratiini",
+    "description": "Kermainen perunalisuke juustokastikkeessa. Ohjeessa kaksi tapaa: nopein ja kermaisin.",
+    "servings": 8,
+    "totalTimeMin": 80,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "uuniruoka"],
+    "ingredients": [
+      "6 keskikokoista jauhoista perunaa, kuorittuna ja ½ cm:n viipaleina",
+      "2½ dl sipulia, pilkottuna",
+      "3½ dl kevytcheddarjuustoa, raastettuna",
+      "2 rkl margariinia",
+      "4 rkl vehnäjauhoja",
+      "½ tl suolaa",
+      "ripaus mustapippuria",
+      "5 dl rasvatonta maitoa"
+    ],
+    "instructions": [
+      "Voitele noin 23 x 33 cm:n uunivuoka ohuelti ja kuumenna uuni 175 asteeseen.",
+      "Kermaisin tapa: sulata margariini kattilassa ja sekoita joukkoon jauhot. Lisää maito vähitellen koko ajan sekoittaen ja keitä, kunnes kastike sakenee hieman. Nosta liedeltä, sekoita joukkoon juusto sulaksi ja mausta suolalla ja pippurilla.",
+      "Lado vuokaan neljännes perunoista ja sipulista ja levitä päälle noin 1 dl kastiketta. Toista, kunnes kerroksia on neljä.",
+      "Nopein tapa: lado vuokaan kerroksittain perunaa ja ripottele jokaisen kerroksen päälle neljännes sipulista ja juustosta, ½ rkl margariinia nokareina, 1 rkl jauhoja, ripaus suolaa ja pippuria. Lämmitä maito ja kaada vuokaan.",
+      "Paista tunti. Säilytä tähteet jääkaapissa kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-autumn-vegetable-succotash",
+    "title": "Syksyinen kasvissuccotash",
+    "description": "Nopea kasvislisuke tuoreista ja pakastetuista kasviksista.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "amerikkalainen", "lisuke", "gluteeniton"],
+    "ingredients": [
+      "½ dl oliiviöljyä",
+      "2½ dl sipulia, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "5 dl punaista paprikaa, kuutioituna",
+      "5 dl kesäkurpitsaa, kuutioituna",
+      "5 dl keltaista kesäkurpitsaa, kuutioituna",
+      "7 dl pakastettuja limapapuja (tai härkäpapuja)",
+      "7 dl pakastemaissia",
+      "2 tl kuivattua salviaa (tai 2 rkl tuoretta)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla, syvällä pannulla keskikovalla lämmöllä.",
+      "Kuullota sipulia läpikuultavaksi, noin 2 minuuttia.",
+      "Lisää valkosipuli, paprika, kesäkurpitsat, pavut ja maissi.",
+      "Mausta ja kypsennä sekoittaen, kunnes kasvikset ovat pehmeitä (10 minuuttia tai pidempään).",
+      "Sekoita joukkoon salvia ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-avocado-and-corn-salsa",
+    "title": "Avokado-maissisalsa",
+    "description": "Korianterilla ja limetillä maustettu avokado-maissisalsa esimerkiksi uunikanan kanssa.",
+    "servings": 5,
+    "totalTimeMin": 70,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "gluteeniton"],
+    "ingredients": [
+      "1 avokado, kuutioituna",
+      "1¾ dl pakastemaissia, sulatettuna",
+      "1¼ dl minitomaatteja, neljään osaan",
+      "1 rkl tuoretta korianteria, hienonnettuna",
+      "2 tl limettimehua",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Sekoita avokado, maissi, tomaatit, korianteri, limettimehu ja suola kulhossa.",
+      "Jäähdytä tunti ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-avocado-black-bean-taquitos",
+    "title": "Avokado-mustapaputaquitot ilmakeittimessä",
+    "description": "Rapeiksi rullatut maissitortillat avokado-papu-täytteellä, pico de gallon ja jogurtin kanssa.",
+    "servings": 5,
+    "totalTimeMin": 25,
+    "category": "Välipalat",
+    "tags": ["kasvis", "meksikolainen", "palkokasvit"],
+    "ingredients": [
+      "1 kypsä avokado, survottuna",
+      "1¼ dl mustapapuja (säilyke), huuhdeltuna",
+      "½ rkl juustokuminaa",
+      "1 tl valkosipulijauhetta",
+      "½ tl suolaa",
+      "10 pientä maissitortillaa (15 cm)",
+      "Pico de gallo:",
+      "2½ dl kirsikkatomaatteja, pilkottuna",
+      "1¼ dl paprikaa (punaista tai keltaista), kuutioituna",
+      "1 rkl jalapeñoa, hienonnettuna",
+      "1 rkl sipulia, hienonnettuna",
+      "1 rkl limettimehua",
+      "2 rkl tuoretta korianteria, hienonnettuna",
+      "Lisäksi:",
+      "1¼ dl maustamatonta rasvatonta kreikkalaista jogurttia"
+    ],
+    "instructions": [
+      "Survo avokado ja pavut haarukalla kulhossa.",
+      "Sekoita joukkoon juustokumina, valkosipulijauhe ja suola.",
+      "Levitä noin 2 rkl seosta jokaiselle tortillalle.",
+      "Kääri tiukoiksi rulliksi.",
+      "Paista ilmakeittimessä 200 asteessa 5 minuuttia, käännä ja paista vielä 5 minuuttia (laitteesta riippuen 3–4 minuuttia puoleltaan riittää).",
+      "Sekoita sillä aikaa pico de gallon ainekset.",
+      "Tarjoile rapeat taquitot pico de gallon ja jogurtin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-avocado-breakfast-bruschetta",
+    "title": "Avokado-aamiaisbruschetta",
+    "description": "Aamiaisversio bruschettasta: avokadoa, tomaattia, keitettyä munaa ja ricottaa basilikalla täysjyväpatongin päällä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea"],
+    "ingredients": [
+      "1 kypsä avokado",
+      "2 tomaattia",
+      "1 kevätsipuli",
+      "1¼ dl tuoretta basilikaa, hienonnettuna (+ 2 rkl koristeeksi)",
+      "4 kovaksi keitettyä kananmunaa",
+      "12 viipaletta täysjyväpatonkia",
+      "½ dl kevytricottaa",
+      "rouhittua mustapippuria"
+    ],
+    "instructions": [
+      "Kuutioi avokado, tomaatit ja kevätsipuli.",
+      "Kuori ja pilko kananmunat.",
+      "Sekoita varovasti avokado, tomaatti, kevätsipuli, basilika ja munat. Mausta pippurilla.",
+      "Paahda patonkiviipaleet ja levitä niille ricottaa.",
+      "Lisää päälle avokadoseosta ja koristele basilikalla."
+    ]
+  },
+  {
+    "id": "myplate-avocado-melon-breakfast-smoothie",
+    "title": "Avokado-melonismoothie",
+    "description": "Vihreä aamiaissmoothie, jonka voi tehdä edellisenä päivänä – säilyy jääkaapissa vuorokauden.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 iso kypsä avokado",
+      "2½ dl hunajamelonia paloina",
+      "1½ tl limettimehua",
+      "2½ dl rasvatonta maitoa",
+      "2½ dl maustamatonta rasvatonta jogurttia",
+      "1¼ dl omena- tai valkorypälemehua",
+      "1 rkl hunajaa"
+    ],
+    "instructions": [
+      "Halkaise avokado ja poista kivi.",
+      "Kaavi hedelmäliha tehosekoittimeen.",
+      "Lisää loput ainekset ja surauta tasaiseksi.",
+      "Tarjoile kylmänä. Jos teet etukäteen, sekoita varovasti ennen kaatamista laseihin."
+    ]
+  },
+  {
+    "id": "myplate-avocado-pita-pockets",
+    "title": "Avokadopitat",
+    "description": "Nopea välipala nälän pitämiseksi loitolla.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "palkokasvit"],
+    "ingredients": [
+      "1 kypsä avokado, kuutioituna",
+      "2 täysjyväpitaleipää, puolitettuna",
+      "½ dl kikherneitä (säilyke), huuhdeltuna",
+      "2 rkl fetajuustoa, murusteltuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Täytä pitanpuolikkaat avokadolla, kikherneillä ja juustolla.",
+      "Lämmitä halutessasi mikrossa 15–20 sekuntia.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "myplate-avocado-potato-and-grilled-chicken-salad",
+    "title": "Avokado-peruna-grillikanasalaatti",
+    "description": "Pääruokasalaatti avokadosta, punaisista perunoista ja kanasta sitruuna-jogurttikastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "peruna", "gluteeniton"],
+    "ingredients": [
+      "3 keskikokoista punakuorista perunaa",
+      "1 kypsä avokado",
+      "1 tl sitruunamehua",
+      "4 kevätsipulia, pilkottuna",
+      "½ punaista paprikaa, pilkottuna",
+      "225 g kypsiä grillattuja broilerisuikaleita, suupaloina",
+      "Kastike:",
+      "1 rkl oliiviöljyä",
+      "1 rkl omenaviinietikkaa",
+      "1¼ dl rasvatonta sitruunajogurttia",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Keitä perunoita noin 20 minuuttia juuri kypsiksi. Jäähdytä kylmän veden alla ja paloittele.",
+      "Kuori avokado, paloittele ja sekoita sitruunamehuun.",
+      "Vatkaa öljy, etikka, jogurtti ja pippuri pienessä kulhossa.",
+      "Laita kaikki ainekset isoon kulhoon ja sekoita varovasti."
+    ]
+  },
+  {
+    "id": "myplate-avocado-veggie-bake",
+    "title": "Uunikasvikset avokadolla ja mustapavuilla",
+    "description": "Nachojen hengessä, mutta lastujen sijaan pohjana paahdetut kasvikset.",
+    "servings": 8,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "meksikolainen", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 rkl chilijauhetta",
+      "½ tl valkosipulijauhetta",
+      "1 tl juustokuminaa",
+      "¼ tl suolaa",
+      "½ kukkakaalia (n. 225 g), viipaleina ja paloiteltuna",
+      "1 kesäkurpitsa, 1 cm:n viipaleina",
+      "1 tlk (400 g) mustapapuja, valutettuna ja huuhdeltuna",
+      "2½ dl maissia (säilyke), valutettuna",
+      "2½ dl kevytjuustoraastetta",
+      "2½ dl kirsikkatomaatteja, puolitettuna",
+      "1 kypsä avokado, kuutioituna",
+      "2 kevätsipulia, viipaloituna",
+      "1 jalapeño, siemenet poistettuna ja viipaloituna",
+      "2 rkl korianterinlehtiä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Sekoita öljy, chilijauhe, juustokumina, valkosipulijauhe ja suola.",
+      "Sivele puolet öljyseoksesta matalareunaisen uunipellin (n. 38 x 25 cm) pohjalle.",
+      "Asettele kukkakaali ja kesäkurpitsa pellille yhdeksi kerrokseksi ja sivele loppu öljyseos niiden päälle.",
+      "Paahda 20 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Lisää päälle pavut, maissi ja juusto ja paahda vielä 5 minuuttia, kunnes juusto sulaa.",
+      "Lisää päälle tomaatit, avokado, kevätsipuli, jalapeño ja korianteri."
+    ]
+  },
+  {
+    "id": "myplate-baked-apples-and-sweet-potatoes",
+    "title": "Uunissa paistetut omenat ja bataatit",
+    "description": "Kerroksittain ladottu makea ja lämmin bataatti-omenalisuke.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "juhla", "gluteeniton"],
+    "ingredients": [
+      "5 bataattia",
+      "4 omenaa",
+      "1¼ dl fariinisokeria",
+      "½ tl suolaa",
+      "½ dl margariinia",
+      "1 tl muskottipähkinää",
+      "½ dl kuumaa vettä",
+      "2 rkl hunajaa"
+    ],
+    "instructions": [
+      "Keitä bataatteja vedessä, kunnes ne ovat lähes kypsiä. Anna jäähtyä, kuori ja viipaloi.",
+      "Kuori omenat, poista siemenkodat ja viipaloi.",
+      "Kuumenna uuni 200 asteeseen ja voitele uunivuoka.",
+      "Lado vuoan pohjalle kerros bataattia ja sen päälle kerros omenaa. Ripottele omenoille sokeria, suolaa ja pieniä margariininokareita.",
+      "Toista kerroksia. Ripottele ylimmälle omenakerrokselle loput sokerista ja margariinista sekä muskottipähkinä.",
+      "Sekoita kuuma vesi ja hunaja ja kaada pinnalle.",
+      "Paista noin 30 minuuttia, kunnes omenat ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-baked-bananas",
+    "title": "Uunibanaanit",
+    "description": "Banaanit muuttuvat jälkiruoaksi fariinisokerin, rusinoiden ja pekaanipähkinöiden kanssa.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "6 banaania, halkaistuna pituussuunnassa",
+      "3 rkl fariinisokeria",
+      "4 rkl suolatonta margariinia tai voita",
+      "1¼ dl rusinoita tai muita kuivattuja hedelmiä",
+      "¾ dl pekaanipähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele noin 23 x 33 cm:n vuoka.",
+      "Asettele halkaistut banaanit vuokaan.",
+      "Ripottele päälle tasaisesti fariinisokeri, rasvanokareet, rusinat ja pekaanipähkinät.",
+      "Paista 30 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-baked-beans",
+    "title": "Uunipavut",
+    "description": "Helppo ohje, joka on helppo tuplata isommalle joukolle – sopii piknikille ja nyyttikesteihin.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "amerikkalainen", "palkokasvit", "uuniruoka"],
+    "ingredients": [
+      "3½ dl kuivattuja valkoisia papuja (tai kidney- tai limapapuja), huuhdeltuna",
+      "5 dl vettä",
+      "5 dl omenamehua",
+      "1 tl suolaa",
+      "2 rkl melassia tai tummaa siirappia",
+      "1¼ dl ketsuppia",
+      "2 tl etikkaa",
+      "1 tl sinappijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna omenamehu ja vesi kiehuvaksi.",
+      "Lisää pavut ja hauduta noin 2½ tuntia pehmeiksi.",
+      "Valuta pavut ja säästä keitinliemi.",
+      "Laita pavut ja loput ainekset voideltuun uunivuokaan.",
+      "Paista kannen alla 120 asteessa 3–4 tuntia.",
+      "Poista kansi viimeiseksi tunniksi ja lisää keitinlientä, jos pavut kuivuvat."
+    ],
+    "notes": ["Papujen kypsyminen nopeutuu, jos ne liotetaan yön yli."]
+  }
+]

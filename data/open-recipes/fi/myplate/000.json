@@ -1,0 +1,670 @@
+[
+  {
+    "id": "myplate-2-step-chicken",
+    "title": "Kana kermaisessa kastikkeessa",
+    "description": "Erittäin yksinkertainen arkiruoka: pannulla paistettua broileria kermaisessa kanakastikkeessa. Tarjoa salaatin tai paahdettujen kasvisten kanssa.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "arkiruoka", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2 broilerin rintafilettä",
+      "2 dl ruokakermaa",
+      "1 kanaliemikuutio",
+      "1 dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna öljy paistinpannulla keskikovalla lämmöllä.",
+      "Paista fileitä 10 minuuttia käännellen.",
+      "Nosta kana pannulta sivuun.",
+      "Lisää pannulle kerma, murennettu liemikuutio ja vesi ja kuumenna kiehuvaksi.",
+      "Palauta kana pannulle.",
+      "Laske lämpöä ja hauduta vielä noin 10 minuuttia, kunnes kanan sisälämpö on 74 astetta."
+    ],
+    "notes": ["Alkuperäisessä käytetään tölkillistä amerikkalaista kanakeittotiivistettä (cream of chicken soup); ruokakerma ja liemikuutio ajavat saman asian."]
+  },
+  {
+    "id": "myplate-20-minute-chicken-creole",
+    "title": "Kreolikana 20 minuutissa",
+    "description": "Kreolihenkinen kanapata chilikastikkeella ja cayennepippurilla, tomaatin, paprikan, sellerin ja sipulin kera.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "arkiruoka", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "450 g broilerin rintafileetä, paloiteltuna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "2½ dl chilikastiketta",
+      "1 iso vihreä paprika, pilkottuna",
+      "2 vartta varsiselleriä, pilkottuna",
+      "1 keskikokoinen sipuli, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl kuivattua basilikaa",
+      "1 tl kuivattua persiljaa",
+      "¼ tl cayennepippuria",
+      "Tarjoiluun:",
+      "keitettyä riisiä tai täysjyväpastaa"
+    ],
+    "instructions": [
+      "Kuumenna pannu keskikovalla lämmöllä.",
+      "Lisää öljy ja kana ja paista, kunnes kana on kypsää (3–5 minuuttia).",
+      "Laske lämpö keskitasolle.",
+      "Lisää tomaatit nesteineen, chilikastike, paprika, selleri, sipuli, valkosipuli, basilika, persilja ja cayennepippuri.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja hauduta kannen alla 10–15 minuuttia.",
+      "Tarjoile kuuman riisin tai täysjyväpastan kanssa."
+    ],
+    "notes": ["Chilikastikkeella tarkoitetaan ketsuppimaista mietoa chilikastiketta (esim. Heinz chili sauce), ei tulista thaichilikastiketta."]
+  },
+  {
+    "id": "myplate-3-can-chili",
+    "title": "Kolmen tölkin chili",
+    "description": "Lähes kypsentämätön chili: avaa tölkit papuja, maissia ja tomaattia ja lämmitä yhdessä.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "meksikolainen", "nopea", "palkokasvit"],
+    "ingredients": [
+      "1 tlk (400 g) mustapapuja nesteineen (tai pinto- tai kidneypapuja)",
+      "1 tlk (340 g) maissia, valutettuna (tai 300 g pakastemaissia)",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 tl chilijauhetta (tai maun mukaan)"
+    ],
+    "instructions": [
+      "Kaada kaikkien kolmen tölkin sisältö kattilaan.",
+      "Lisää chilijauhe maun mukaan ja sekoita.",
+      "Kuumenna keskilämmöllä sekoittaen, kunnes chili on kuumaa.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-5-day-salad",
+    "title": "Viiden kasviksen päivä -salaatti",
+    "description": "Ravintorikas salaatti kymmenestä eri kasviksesta – jokainen annos vastaa runsasta päivän kasvisannosta.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 l tuoretta pinaattia",
+      "1 l roomansalaattia",
+      "5 dl paprikaa, pilkottuna",
+      "5 dl kirsikkatomaatteja",
+      "2½ dl parsakaalia, pilkottuna",
+      "2½ dl kukkakaalia, pilkottuna",
+      "2½ dl keltaista kesäkurpitsaa, viipaloituna",
+      "2½ dl kurkkua, viipaloituna",
+      "5 dl porkkanaa, pilkottuna",
+      "2½ dl kesäkurpitsaa, viipaloituna",
+      "kevyttä salaatinkastiketta"
+    ],
+    "instructions": [
+      "Pese kasvikset ja sekoita ne isossa kulhossa.",
+      "Tarjoile haluamasi rasvattoman tai kevyen salaatinkastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-ambrosia",
+    "title": "Ambrosia-hedelmäsalaatti",
+    "description": "Jälkiruoka tuoreista ja säilötyistä hedelmistä, jogurtista ja kookoksesta pienten vaahtokarkkien kera. Ei vaadi kypsennystä.",
+    "servings": 8,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 tlk (565 g) ananaspaloja mehussa, valutettuna",
+      "3 dl säilöttyjä mandariininlohkoja, valutettuna",
+      "1 banaani, viipaloituna",
+      "3½ dl siemenettömiä viinirypäleitä",
+      "1¾ dl minivaahtokarkkeja",
+      "¾ dl kookoshiutaleita",
+      "2½ dl kevyttä vaniljajogurttia"
+    ],
+    "instructions": [
+      "Valuta ananakset ja mandariinit. Mehun voi juoda.",
+      "Sekoita hedelmät, vaahtokarkit ja kookos.",
+      "Kääntele joukkoon jogurtti.",
+      "Jäähdytä ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-angel-food-cake",
+    "title": "Enkelikakku",
+    "description": "Klassinen kuohkea amerikkalainen valkuaiskakku.",
+    "servings": 12,
+    "totalTimeMin": 95,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "leivonnainen"],
+    "ingredients": [
+      "12 isoa kananmunan valkuaista (n. 3½ dl)",
+      "1 tl viinikiveä",
+      "3½ dl sokeria",
+      "1 tl vaniljauutetta",
+      "¼ tl suolaa",
+      "2½ dl vehnäjauhoja, siivilöitynä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 165 asteeseen. Vatkaa valkuaiset isossa kulhossa vaahdoksi.",
+      "Lisää viinikivi ja vatkaa kovaksi, mutta ei kuivaksi vaahdoksi.",
+      "Lisää sokeri vähitellen vatkaten. Lisää vanilja ja suola ja kääntele jauhot varovasti joukkoon.",
+      "Kaada taikina voitelemattomaan, noin 25 cm:n kruunuvuokaan ja paista 1 tunti 15 minuuttia, kunnes pinta on kauniin ruskea."
+    ],
+    "notes": ["Viinikiven voi korvata 1 tl:lla sitruunamehua."]
+  },
+  {
+    "id": "myplate-anytime-pizza",
+    "title": "Pikapizza patongilla",
+    "description": "Tee oma pizza patongille tai englantilaisille muffineille ja täytä paprikalla, sienillä tai muilla kasviksilla.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pizza", "nopea"],
+    "ingredients": [
+      "¼ patonkia (n. 23 cm), halkaistuna (tai 2 englantilaista muffinia)",
+      "1¼ dl pizzakastiketta",
+      "1¼ dl kevytmozzarellaa tai cheddarjuustoa, raastettuna",
+      "½ dl vihreää paprikaa, pilkottuna",
+      "½ dl herkkusieniä, viipaloituna",
+      "muita kasviksia (valinnainen)",
+      "italialaista yrttisekoitusta (valinnainen)"
+    ],
+    "instructions": [
+      "Paahda leipä kevyesti ruskeaksi.",
+      "Levitä päälle pizzakastike, kasvikset ja juusto.",
+      "Ripottele pinnalle halutessasi yrttisekoitusta.",
+      "Lämmitä 175-asteisessa uunissa, kunnes juusto sulaa."
+    ]
+  },
+  {
+    "id": "myplate-apple-banana-salad-peanuts",
+    "title": "Omena-banaanisalaatti maapähkinöillä",
+    "description": "Raikas ja yllättävä salaatti lehtivihanneksista, omenasta ja banaanista paprikalla maustetulla kastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "340 g salaattisekoitusta",
+      "2 kypsää banaania",
+      "2½ omenaa, viipaloituna (n. 400 g)",
+      "1¾ dl suolaamattomia paahdettuja maapähkinöitä",
+      "Kastike:",
+      "¾ dl maustamatonta kevytjogurttia",
+      "2 rkl kevytmajoneesia",
+      "1 rkl hunajaa",
+      "2 tl paprikajauhetta"
+    ],
+    "instructions": [
+      "Vatkaa kastikkeen ainekset sekaisin.",
+      "Viipaloi banaanit.",
+      "Sekoita isossa kulhossa salaatti, banaani- ja omenaviipaleet, maapähkinät ja kastike."
+    ]
+  },
+  {
+    "id": "myplate-apple-cake",
+    "title": "Omenakakku aprikoosilasitteella",
+    "description": "Omenaviipaleilla ja aprikoosihillolasitteella koristeltu kakku juhlaan.",
+    "servings": 12,
+    "totalTimeMin": 80,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "leivonnainen"],
+    "ingredients": [
+      "140 g suolatonta voita",
+      "1¾ dl sokeria",
+      "3 isoa kananmunaa",
+      "4 dl vehnäjauhoja, siivilöitynä",
+      "2 tl leivinjauhetta",
+      "1 rkl sitruunan kuorta, raastettuna",
+      "2 omenaa, kuorittuna ja viipaloituna",
+      "2 tl sokeria",
+      "1¼ dl aprikoosihilloa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vatkaa voi ja sokeri vaahdoksi.",
+      "Lisää munat yksi kerrallaan hyvin vatkaten.",
+      "Lisää jauhot, leivinjauhe ja sitruunankuori ja vatkaa 4 minuuttia.",
+      "Kaada taikina voideltuun, noin 23 cm:n irtopohjavuokaan.",
+      "Asettele omenaviipaleet taikinan päälle ja ripottele päälle 2 tl sokeria.",
+      "Paista tunti.",
+      "Irrota kakku vuoasta, sivele omenat hillolla ja anna jäähtyä."
+    ]
+  },
+  {
+    "id": "myplate-apple-carrot-soup",
+    "title": "Omena-porkkanakeitto porsaalla",
+    "description": "Kiinalaistyylinen kirkas porsas-omena-porkkanakeitto, jonka salaisuus on inkivääri ja appelsiininkuori.",
+    "servings": 8,
+    "totalTimeMin": 240,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "gluteeniton"],
+    "ingredients": [
+      "450 g vähärasvaista porsaanlihaa, paloiteltuna",
+      "4 omenaa, siemenkodat poistettuna ja lohkottuna (kuorineen)",
+      "4 isoa porkkanaa, kuorittuna ja paloiteltuna",
+      "4 viipaletta inkivääriä",
+      "1 tl kuivattua appelsiininkuorta (valinnainen)",
+      "½ tl suolaa",
+      "5 l vettä"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset isoon kattilaan ja kuumenna kovalla lämmöllä kiehuvaksi.",
+      "Laske lämpö keskitasolle ja keitä, kunnes nestettä on jäljellä noin 2 litraa, noin 3–4 tuntia.",
+      "Kuori rasva pinnalta ja tarjoile.",
+      "Säilytä tähteet peitettynä jääkaapissa enintään 3 päivää."
+    ]
+  },
+  {
+    "id": "myplate-apple-chicken-salad",
+    "title": "Omena-kanasalaatti",
+    "description": "Rapeaa omenaa, selleriä, rusinoita ja broileria kreikkalaisella jogurtilla ja majoneesilla, salaatinlehtien päällä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 punaista omenaa",
+      "2 vartta varsiselleriä, kuutioituna",
+      "5 dl kypsää broilerin rintafileetä, kuutioituna (2 filettä)",
+      "½ dl maustamatonta rasvatonta kreikkalaista jogurttia",
+      "½ dl majoneesia",
+      "1¼ dl rusinoita",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "16 salaatinlehteä"
+    ],
+    "instructions": [
+      "Leikkaa omenat neljään osaan, poista siemenkodat ja pilko.",
+      "Sekoita kulhossa kaikki ainekset salaatinlehtiä lukuun ottamatta.",
+      "Asettele salaatinlehdet lautasille ja nosta päälle omena-kanasalaatti."
+    ]
+  },
+  {
+    "id": "myplate-apple-chunk-cake",
+    "title": "Omenapalakakku",
+    "description": "Mehevä kanelikakku omenapaloilla ja tuoreilla omenaviipaleilla koristeltuna.",
+    "servings": 12,
+    "totalTimeMin": 75,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "leivonnainen"],
+    "ingredients": [
+      "3 dl sokeria",
+      "½ dl rypsiöljyä",
+      "2 isoa kananmunaa",
+      "5 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "1 tl kanelia",
+      "1 tl ruokasoodaa",
+      "5 dl omenaa paloiksi pilkottuna",
+      "½ dl makeuttamatonta omenasosetta",
+      "5 dl omenaviipaleita koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vatkaa sokeri, öljy ja munat hyvin sekaisin.",
+      "Sekoita toisessa kulhossa jauhot, suola, kaneli ja ruokasooda.",
+      "Lisää kuivat aineet munaseokseen ja sekoita tasaiseksi.",
+      "Lisää omenapalat ja omenasose ja sekoita.",
+      "Voitele noin 20 x 20 cm:n vuoka ja kaada taikina siihen.",
+      "Paista kypsäksi, noin tunti.",
+      "Asettele omenaviipaleet kakun päälle ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-apple-cinnamon-bars",
+    "title": "Omena-kanelipalat",
+    "description": "Omenaviipaleet kahden kanelisen murukerroksen välissä.",
+    "servings": 24,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "¼ tl suolaa",
+      "½ tl ruokasoodaa",
+      "½ tl kanelia",
+      "1¼ dl fariinisokeria",
+      "2½ dl kaurahiutaleita",
+      "115 g margariinia tai voita",
+      "öljyä vuoan voiteluun",
+      "4 omenaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sekoita kulhossa jauhot, suola, ruokasooda, kaneli, fariinisokeri ja kaurahiutaleet.",
+      "Lisää rasva ja nypi tai leikkaa se kahdella veitsellä muruksi.",
+      "Voitele uunivuoka (n. 23 x 33 cm) ohuelti.",
+      "Levitä puolet murusta vuoan pohjalle.",
+      "Poista omenoista siemenkodat, viipaloi ja levitä murun päälle.",
+      "Peitä lopulla murulla.",
+      "Paista 40–45 minuuttia.",
+      "Leikkaa paloiksi – ne murenevat helposti."
+    ]
+  },
+  {
+    "id": "myplate-apple-coffee-cake",
+    "title": "Omenapiirakkakakku rusinoilla ja pekaanipähkinöillä",
+    "description": "Kahvikakku omenoista, rusinoista ja pekaanipähkinöistä.",
+    "servings": 20,
+    "totalTimeMin": 80,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "omena", "leivonnainen"],
+    "ingredients": [
+      "1,2 l happamia omenoita, kuorittuna ja pilkottuna",
+      "2½ dl sokeria",
+      "2½ dl rusinoita",
+      "1¼ dl pekaanipähkinöitä, hienonnettuna",
+      "½ dl rypsiöljyä",
+      "2 tl vaniljauutetta",
+      "1 kananmuna, vatkattuna",
+      "6 dl vehnäjauhoja",
+      "1½ tl ruokasoodaa",
+      "2 tl kanelia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja öljyä noin 23 x 33 cm:n vuoka.",
+      "Sekoita isossa kulhossa omenat, sokeri, rusinat ja pekaanipähkinät.",
+      "Anna seistä 30 minuuttia.",
+      "Sekoita joukkoon öljy, vanilja ja muna.",
+      "Siivilöi jauhot, ruokasooda ja kaneli ja sekoita omenaseokseen kolmessa erässä vain sen verran, että jauhot kostuvat.",
+      "Kaada taikina vuokaan.",
+      "Paista 35–40 minuuttia.",
+      "Anna jäähtyä hieman ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-apple-coleslaw",
+    "title": "Omena-kaalisalaatti",
+    "description": "Makea ja rapea kaalisalaatti omenalla, porkkanalla ja paprikalla.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "5 dl valkokaalia, suikaloituna",
+      "1 porkkana, raastettuna",
+      "½ vihreää paprikaa, pilkottuna",
+      "1 omena, pilkottuna",
+      "Kastike:",
+      "5 rkl maustamatonta kevytjogurttia",
+      "1 rkl kevytmajoneesia",
+      "1 tl sitruunamehua",
+      "¼ tl kuivattua tilliä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese ja suikaloi kaali hienoksi.",
+      "Kuori ja raasta porkkana.",
+      "Pilko paprika pieniksi paloiksi ja omena siemenkodat poistettuna.",
+      "Sekoita kaali, porkkana, paprika ja omena isossa kulhossa.",
+      "Sekoita jogurtti, majoneesi, sitruunamehu ja tilli pienessä kulhossa kastikkeeksi.",
+      "Kaada kastike salaatin päälle ja sekoita.",
+      "Mausta suolalla ja pippurilla."
+    ],
+    "notes": ["Salaatin voi tehdä myös ilman majoneesia."]
+  },
+  {
+    "id": "myplate-apple-corn-chili",
+    "title": "Omena-maissichili kanalla",
+    "description": "Paksu ja maukas chili, jonka pohjana on paistettu ja soseutettu omena ja maissi. Kasvisversiossa kana jätetään pois ja liemenä käytetään kasvislientä.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["kana", "meksikolainen", "keitto", "palkokasvit"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "225 g broilerin rintafileetä, 1 cm:n kuutioina",
+      "1 sipuli, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tlk (340 g) maissia, valutettuna",
+      "2 punaista omenaa, pilkottuna kuorineen",
+      "½ rkl juustokuminaa",
+      "ripaus cayennepippuria (valinnainen)",
+      "1 tlk (400 g) mustapapuja, valutettuna ja huuhdeltuna",
+      "1 tlk (115 g) vihreitä chilejä, valutettuna",
+      "2 tl kanaliemijauhetta",
+      "5 dl vettä",
+      "Päälle:",
+      "½ dl kevytkermaviiliä",
+      "½ dl tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna 1 rkl öljyä kattilassa ja ruskista kana (noin 5 minuuttia). Nosta sivuun.",
+      "Kuumenna loput öljystä samassa kattilassa ja kuullota sipuli ja valkosipuli pehmeiksi.",
+      "Lisää maissi ja paista kullanruskeaksi.",
+      "Lisää omena, juustokumina ja halutessasi cayenne ja kypsennä 3–4 minuuttia. Anna jäähtyä noin 5 minuuttia.",
+      "Ota noin 2½ dl seosta sivuun. Soseuta loput monitoimikoneessa tai tehosekoittimessa (lisää tarvittaessa osa vedestä) ja kaada takaisin kattilaan.",
+      "Lisää kana, pavut, chilit, liemijauhe ja vesi. Kuumenna kiehuvaksi ja hauduta noin 15 minuuttia, kunnes kana on kypsää.",
+      "Annostele kulhoihin ja lisää päälle sivuun otettua omena-maissiseosta, kermaviiliä ja korianteria."
+    ]
+  },
+  {
+    "id": "myplate-apple-cranberry-salad-toss",
+    "title": "Omena-karpalosalaatti",
+    "description": "Syksyinen makeanhapan vihreä salaatti omenalla, saksanpähkinöillä ja kuivatuilla karpaloilla.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "nopea", "syksy"],
+    "ingredients": [
+      "1 keskikokoinen salaatti (n. 2,5 l revittynä)",
+      "2 omenaa, viipaloituna",
+      "1¼ dl saksanpähkinöitä, hienonnettuna",
+      "2½ dl kuivattuja karpaloita",
+      "1¼ dl kevätsipulia, viipaloituna",
+      "1¾ dl öljy-etikkakastiketta"
+    ],
+    "instructions": [
+      "Sekoita salaatti, omenat, saksanpähkinät, karpalot ja kevätsipuli isossa kulhossa.",
+      "Lisää kastike ja sekoita.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-apple-crisp-0",
+    "title": "Omenapaistos kaurakuorrutteella",
+    "description": "Herkullinen jälkiruoka syksyn omenoista.",
+    "servings": 8,
+    "totalTimeMin": 35,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "4 omenaa",
+      "½ dl margariinia",
+      "½ dl kaurahiutaleita",
+      "½ dl vehnäjauhoja",
+      "1¼ dl fariinisokeria",
+      "1 rkl kanelia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele noin 23 x 23 cm:n vuoka.",
+      "Poista omenoista siemenkodat, viipaloi ja levitä vuoan pohjalle.",
+      "Pilko margariini pieniksi paloiksi kulhoon.",
+      "Lisää kaurahiutaleet, jauhot, fariinisokeri ja kaneli ja leikkaa kahdella veitsellä muruksi.",
+      "Ripottele murut omenoiden päälle.",
+      "Paista noin 20 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-apple-fennel-chicken-salad-couscous",
+    "title": "Omena-fenkoli-kanasalaatti kuskusilla",
+    "description": "Raikas makeansuolainen salaatti omenasta, fenkolista ja broilerista täysjyväkuskusin ja pinaatin kera, balsamico-sitruunakastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "eväät"],
+    "ingredients": [
+      "340 g broilerin rintafileetä",
+      "3 rkl oliiviöljyä",
+      "2½ dl täysjyväkuskusta",
+      "2 punaista omenaa",
+      "1 rkl sitruunamehua",
+      "1 fenkoli",
+      "1 rkl balsamietikkaa",
+      "1 rkl sokeria",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "8 dl babypinaattia",
+      "2 rkl saksanpähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Leikkaa fileet poikittain 1 cm:n suikaleiksi.",
+      "Kuumenna 1 rkl öljyä isolla pannulla keskilämmöllä ja paista kanaa 8–10 minuuttia välillä sekoittaen kypsäksi.",
+      "Valmista kuskus sillä välin pakkauksen ohjeen mukaan ja anna jäähtyä.",
+      "Poista omenoista siemenkodat, pilko ne isoon kulhoon ja sekoita puoleen sitruunamehusta.",
+      "Pilko fenkoli (ilman vartta ja lehtiä) ja lisää kulhoon.",
+      "Vatkaa pienessä kulhossa loput öljystä ja sitruunamehusta, balsamietikka, sokeri, suola ja pippuri.",
+      "Lisää kana, kuskus, pinaatti ja pähkinät omenien ja fenkolin joukkoon.",
+      "Valuta päälle kastike, sekoita ja tarjoile. Salaatin voi tehdä muutamaa tuntia etukäteen."
+    ]
+  },
+  {
+    "id": "myplate-apple-oatmeal-muffins",
+    "title": "Omena-kaurakuppikakut",
+    "description": "Tee omenasesongin aikaan useampi erä ja pakasta. Vehnäjauhot voi korvata täysjyväjauhoilla.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinit", "omena", "leivonnainen"],
+    "ingredients": [
+      "1¼ dl rasvatonta maitoa",
+      "¾ dl makeuttamatonta omenasosetta",
+      "1¼ dl vehnäjauhoja",
+      "1¼ dl kaurahiutaleita",
+      "2½ dl sokeria",
+      "½ rkl leivinjauhetta",
+      "½ tl kanelia",
+      "1 hapan omena, kuutioituna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen ja asettele 6 muffinivuokaa pellille tai muffinipeltiin.",
+      "Sekoita kulhossa maito ja omenasose.",
+      "Lisää jauhot, kaurahiutaleet, sokeri, leivinjauhe ja kaneli ja sekoita vain sen verran, että kaikki kostuu.",
+      "Kääntele joukkoon omenakuutiot.",
+      "Lusikoi taikina vuokiin.",
+      "Paista 15–20 minuuttia, kunnes keskelle pistetty tikku tulee puhtaana ulos.",
+      "Anna jäähtyä vuoassa 5 minuuttia. Säilytä ilmatiiviissä rasiassa."
+    ]
+  },
+  {
+    "id": "myplate-apple-pistachio-crisp",
+    "title": "Omena-pistaasipaistos",
+    "description": "Makeista Honeycrisp-omenoista tehty paistos, jossa lisättyä sokeria on tavallista vähemmän.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "uuniruoka"],
+    "ingredients": [
+      "3 omenaa kuorineen, 2–3 cm:n paloina",
+      "1¼ dl rusinoita",
+      "½ sitruuna, mehuna",
+      "1¼ dl kaurahiutaleita",
+      "½ dl täysjyvävehnäjauhoja",
+      "1 tl kanelia",
+      "3 rkl fariinisokeria",
+      "½ dl suolaamattomia pistaasipähkinöitä, hienonnettuna",
+      "2 rkl margariinia tai voita, sulatettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sekoita omenat, rusinat ja sitruunamehu noin 20 x 20 cm:n uunivuoassa.",
+      "Sekoita kulhossa loput ainekset sulatettua rasvaa lukuun ottamatta.",
+      "Lisää sulatettu rasva ja sekoita tasaiseksi.",
+      "Ripottele omenoiden päälle.",
+      "Paista ilman kantta 45–50 minuuttia, kunnes omenat ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-apple-sage-wild-rice-stuffing",
+    "title": "Omena-salvia-villiriisitäyte",
+    "description": "Lisuke villiriisistä ja tummasta riisistä, omenasta, karpaloista, paahdetuista pekaanipähkinöistä ja salviasta.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "riisi", "juhla", "gluteeniton"],
+    "ingredients": [
+      "115 g suolaamattomia pekaanipähkinöitä, hienonnettuna",
+      "4 tl rypsiöljyä",
+      "3½ dl varsiselleriä, kuutioituna",
+      "3½ dl sipulia, kuutioituna",
+      "1 punainen omena, kuutioituna",
+      "5 dl kuumaa keitettyä tummaa riisiä",
+      "2½ dl kuumaa keitettyä villiriisiä",
+      "1¼ dl kuivattuja karpaloita",
+      "1 jalapeño, hienonnettuna (tai ¼ tl chilihiutaleita)",
+      "1½ rkl tuoretta salviaa, hienonnettuna (tai 1½ tl kuivattua)",
+      "¾ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna iso paistinpannu keskikovalle lämmölle.",
+      "Paahda pekaanipähkinöitä 2–3 minuuttia usein sekoittaen, kunnes ne alkavat ruskistua. Nosta lautaselle.",
+      "Kuumenna 1 tl öljyä keskilämmöllä.",
+      "Kuullota selleriä ja sipulia noin 8 minuuttia, kunnes reunat alkavat ruskistua.",
+      "Lisää omena ja kypsennä 4 minuuttia, kunnes se on kypsää mutta rapeaa.",
+      "Sekoita joukkoon pähkinät ja loput ainekset ja lämmitä 3–4 minuuttia välillä sekoittaen."
+    ]
+  },
+  {
+    "id": "myplate-apple-salad-sweet-tangy-yogurt-dressing",
+    "title": "Omenasalaatti vaniljajogurtilla",
+    "description": "Raikas salaatti omenasta, selleristä, porkkanasta ja rusinoista jogurttikastikkeella.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "2½ dl omenaa, kuutioituna",
+      "1 tl sitruunamehua",
+      "1¼ dl varsiselleriä, kuutioituna",
+      "1¼ dl porkkanaa, raastettuna",
+      "1¼ dl rusinoita",
+      "1¼ dl kevyttä vaniljajogurttia"
+    ],
+    "instructions": [
+      "Sekoita omenakuutiot sitruunamehuun.",
+      "Lisää selleri, porkkana ja rusinat.",
+      "Kääntele joukkoon jogurtti.",
+      "Peitä ja jäähdytä vähintään tunti ennen tarjoilua. Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-apple-salad",
+    "title": "Omena-sellerisalaatti",
+    "description": "Yksinkertainen sesonkisalaatti omenasta, selleristä, rusinoista ja pähkinöistä.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 rkl kevytmajoneesia",
+      "1 rkl appelsiinimehua",
+      "5 dl omenaa, kuutioituna",
+      "2½ dl varsiselleriä, kuutioituna",
+      "1¼ dl rusinoita",
+      "1¼ dl pähkinöitä"
+    ],
+    "instructions": [
+      "Sekoita appelsiinimehu ja majoneesi.",
+      "Sekoita omenat, selleri, rusinat ja pähkinät kastikkeeseen."
+    ]
+  },
+  {
+    "id": "myplate-apple-sandwiches",
+    "title": "Omenaleivät maapähkinävoilla",
+    "description": "Omenaviipaleista tehdyt \"voileivät\" – vaihtele pähkinävoita ja kuivattuja hedelmiä.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 omena",
+      "2 rkl maapähkinävoita",
+      "1 rkl rusinoita"
+    ],
+    "instructions": [
+      "Halkaise omena kannan kohdalta ja aseta puolikkaat leikkuupinta alaspäin leikkuulaudalle.",
+      "Leikkaa kumpikin puolikas kuuteen puolikuun muotoiseen viipaleeseen ja poista siemenkota.",
+      "Levitä jokaisen viipaleen toiselle puolelle ½ tl maapähkinävoita.",
+      "Asettele 4–6 rusinaa joka toisen viipaleen päälle.",
+      "Peitä toisella viipaleella maapähkinävoipuoli alaspäin ja purista kevyesti."
+    ]
+  }
+]

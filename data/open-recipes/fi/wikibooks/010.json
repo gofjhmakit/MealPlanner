@@ -1,0 +1,666 @@
+[
+  {
+    "id": "wikibooks-barbecued-spare-ribs",
+    "title": "Uuniribsit aasialaisella marinadilla",
+    "description": "Soija-hunaja-hoisinmarinadissa yön yli maustetut porsaanribsit uunissa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "aasialainen"],
+    "ingredients": [
+      "900 g porsaan kylkiribsejä",
+      "½ dl soijakastiketta",
+      "2 rkl hunajaa",
+      "2 rkl hoisinkastiketta",
+      "2 rkl väkiviinaetikkaa",
+      "1 rkl sakea",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl sokeria",
+      "¼ tl valkopippuria",
+      "2 rkl lihalientä",
+      "suolaa",
+      "mustapippuria",
+      "2 tl juustokuminaa (valinnainen)"
+    ],
+    "instructions": [
+      "Asettele ribsit yhteen kerrokseen isoon vuokaan. Sekoita muut ainekset ja kaada ribsien päälle, kääntele. Marinoi yön yli ja valele välillä.",
+      "Kuumenna uuni 190 asteeseen. Laita uunin pohjalle matala pannu, jossa on noin 1 cm vettä. Nosta ribsit ritilälle.",
+      "Paista 45 minuuttia.",
+      "Nosta lämpö 230 asteeseen ja paista vielä 15 minuuttia.",
+      "Tarjoa kuumana tai kylmänä."
+    ],
+    "notes": ["Mureampaan lopputulokseen paista 20 minuuttia 190 asteessa ja sitten tunti 165 asteessa."]
+  },
+  {
+    "id": "wikibooks-basbousa-egyptian-semolina-cake",
+    "title": "Basbousa – egyptiläinen mannakakku",
+    "description": "Mehevä manna-kookoskakku, joka kostutetaan sitruunaisella sokeriliemellä.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "egyptiläinen", "kakku"],
+    "ingredients": [
+      "Kakku:",
+      "2½ dl hienoja mannasuurimoita",
+      "1¼ dl kookoshiutaleita",
+      "115 g suolatonta voita, sulatettuna",
+      "1¾ dl sokeria",
+      "2½ dl maustamatonta jogurttia",
+      "1 tl leivinjauhetta",
+      "½ tl vaniljauutetta",
+      "manteleita tai pistaasipähkinöitä, rouhittuina",
+      "Sokeriliemi:",
+      "2½ dl vettä",
+      "2½ dl sokeria",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Sekoita mannasuurimot, kookos, voi, sokeri, jogurtti, leivinjauhe ja vanilja tasaiseksi taikinaksi.",
+      "Voitele noin 23 × 23 cm:n vuoka ja levitä taikina siihen.",
+      "Viillä pintaan veitsellä vinoneliöitä tai neliöitä.",
+      "Paista 30–35 minuuttia, kunnes pinta on kullanruskea ja tikku tulee ulos puhtaana.",
+      "Kiehauta sillä välin sokeriliemen ainekset ja sekoita, kunnes sokeri on liuennut. Anna jäähtyä.",
+      "Anna kakun jäähtyä muutama minuutti.",
+      "Kaada sokeriliemi tasaisesti lämpimän kakun päälle.",
+      "Ripottele päälle pähkinät.",
+      "Anna jäähtyä kokonaan ennen leikkaamista."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-chai",
+    "title": "Chai-tee",
+    "description": "Yksinkertainen maustettu maitotee kardemummalla, kanelilla ja inkiväärillä.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "tee", "nopea"],
+    "ingredients": [
+      "3½ dl vettä",
+      "4 kardemummankotaa, murskattuina",
+      "1 pieni kanelitanko",
+      "1 tl raastettua inkivääriä",
+      "2 tl mustaa irtoteetä",
+      "1¼ dl maitoa",
+      "sokeria"
+    ],
+    "instructions": [
+      "Kiehauta vesi, lisää mausteet ja keitä minuutti.",
+      "Lisää tee, peitä ja anna hautua 3–5 minuuttia.",
+      "Kiehauta maito.",
+      "Siivilöi tee.",
+      "Lisää maito ja sokeri ja tarjoa kuumana esimerkiksi samosojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-cobbler",
+    "title": "Helppo hedelmäcobbler",
+    "description": "Voin päälle kaadettu taikina ja tuoreet hedelmät tai marjat paistettuna yhdessä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "marjat", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "115 g voita",
+      "ripaus suolaa (jos voi on suolatonta)",
+      "2½ dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "2½ dl maitoa",
+      "2½ dl sokeria",
+      "2½ dl tuoreita hedelmiä tai marjoja (esim. persikkaa, karhunvatukoita, kirsikoita)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Laita voi syvään noin 24 × 30 cm:n vuokaan ja nosta uuniin sulamaan. Lisää ripaus suolaa, jos voi on suolatonta.",
+      "Siivilöi jauhot, leivinjauhe ja sokeri kulhoon. Tee keskelle kuoppa, kaada maito siihen ja vatkaa tasaiseksi.",
+      "Ota vuoka uunista ja kaada taikina sulaneen voin päälle sekoittamatta. Levitä hedelmät tasaisesti päälle, älä sekoita.",
+      "Paista ilman kantta kullanruskeaksi, noin 40 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-flapjacks",
+    "title": "Brittiläiset flapjack-kaurapalat",
+    "description": "Rapeat kaura-siirappipalat eväsrasiaan.",
+    "servings": 10,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kaura", "brittiläinen"],
+    "ingredients": [
+      "110 g vaaleaa fariinisokeria",
+      "175 g voita",
+      "1 rkl vaaleaa siirappia",
+      "175 g kaurahiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen.",
+      "Kuumenna sokeri, voi ja siirappi kattilassa, kunnes voi on sulanut.",
+      "Nosta liedeltä ja sekoita joukkoon kaurahiutaleet.",
+      "Painele seos kevyesti voidellun, noin 19 × 19 cm:n vuoan pohjalle.",
+      "Paista uunin keskitasolla 40 minuuttia.",
+      "Anna jäähtyä vuoassa 10–15 minuuttia ja leikkaa pitkulaisiksi paloiksi.",
+      "Anna jäähtyä kokonaan ennen kuin nostat palat vuoasta. Säilytä ilmatiiviissä rasiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-indian-tomato-gravy",
+    "title": "Intialainen tomaattikastikepohja",
+    "description": "Mausteinen tomaattikastike curryn pohjaksi kasviksille, kananmunille, paneerille tai lihalle.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "intialainen", "curry", "nopea"],
+    "ingredients": [
+      "5 tomaattia, isoina kuutioina",
+      "1 sipuli, pieneksi kuutioituna",
+      "1 rkl gheetä",
+      "½ tl inkiväärimurskaa",
+      "5 valkosipulinkynttä, murskattuina",
+      "1 tl chilijauhetta",
+      "½ tl jauhettua korianterinsiementä",
+      "½ tl juustokuminaa",
+      "¼ tl kurkumaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paista sipulia kuumassa gheessä, kunnes se alkaa ruskistua.",
+      "Lisää inkivääri ja valkosipuli ja sekoita. Lisää jauhetut mausteet ja sekoita hyvin.",
+      "Lisää tomaatit ja suola.",
+      "Laske lämpö keskitasolle ja hauduta kannen alla 10 minuuttia. Kastikkeeseen voi lisätä kasviksia, keitettyjä kananmunia, paistettua kalaa tai lihaa."
+    ],
+    "notes": [
+      "Lihaa käytettäessä ruskista marinoitu liha mausteiden jälkeen 10–15 minuuttia ennen tomaattien lisäämistä.",
+      "Vegaaniseen versioon korvaa ghee kookos- tai rypsiöljyllä."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-lasagna",
+    "title": "Kuohkea juustolasagne",
+    "description": "Lasagnelevyjä, tomaattikastiketta ja vaahdotetuilla valkuaisilla kevennettyä juustotäytettä.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "uuniruoka"],
+    "ingredients": [
+      "6 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+      "5 dl ricottaa tai raastettua mozzarellaa tai cheddaria",
+      "ripaus suolaa",
+      "¼ tl valkopippuria",
+      "1¼ dl kuohukermaa",
+      "n. 1 kg keitettyjä lasagnelevyjä",
+      "3½ dl tomaattikastiketta"
+    ],
+    "instructions": [
+      "Vatkaa valkuaiset puhtaassa teräskulhossa kovaksi vaahdoksi.",
+      "Sekoita keltuaiset, juusto, suola, pippuri ja kerma.",
+      "Kääntele valkuaisvaahto varovasti juustoseokseen.",
+      "Laita puolet levyistä uunivuoan pohjalle, levitä päälle tomaattikastiketta ja sitten juustoseosta. Toista. Viimeisenä kerroksena on juustoseos.",
+      "Peitä foliolla ja paista 190 asteessa 15 minuuttia. Poista folio ja paista vielä 20 minuuttia.",
+      "Anna vetäytyä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-mayonnaise",
+    "title": "Kotitekoinen majoneesi",
+    "description": "Perusmajoneesi keltuaisista, sitruunasta, sinapista ja öljystä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "gluteeniton", "kastike"],
+    "ingredients": [
+      "2 kananmunan keltuaista",
+      "2½ tl sitruunamehua tai etikkaa",
+      "½ tl dijonsinappia",
+      "¼ tl suolaa",
+      "1¾ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Vatkaa keltuaisia isossa kulhossa vispilällä noin minuutti.",
+      "Lisää sinappi, suola ja puolet sitruunamehusta ja vatkaa vielä minuutti, kunnes seos sakeutuu hieman.",
+      "Lisää puolet öljystä hyvin hitaasti koko ajan vatkaten: aloita tippa kerrallaan ja siirry vähitellen ohueen nauhaan.",
+      "Lisää loppu sitruunamehu ja vatkaa.",
+      "Lisää loppu öljy samalla tavalla.",
+      "Mausta halutessasi valkosipulilla tai käytä pohjana muille kastikkeille."
+    ],
+    "notes": [
+      "Kosteasta pyyherenkaasta kulhon alla saa tukevan alustan. Sauvasekoittimella vatkaaminen on helpompaa.",
+      "Juoksettunut majoneesi pelastuu valuttamalla sitä hitaasti uuteen keltuaiseen koko ajan vatkaten.",
+      "Raakoja keltuaisia ei kypsennetä, joten käytä halutessasi pastöroituja munia."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-mulling-spice",
+    "title": "Glögimausteseos",
+    "description": "Kaneli-, neilikka-, maustepippuri- ja appelsiinimauste glögiin ja lämpimiin juomiin.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Muut",
+    "tags": ["vegaaninen", "mausteseos", "joulu"],
+    "ingredients": [
+      "6 kanelitankoa",
+      "1 pieni kokonainen muskottipähkinä",
+      "1¼ dl kokonaisia neilikoita",
+      "1¼ dl kokonaisia maustepippureita",
+      "1 appelsiinin kuori, raastettuna"
+    ],
+    "instructions": [
+      "Laita kanelitangot ja muskottipähkinä isoon minigrip-pussiin.",
+      "Murskaa mausteet vasaralla karkeiksi paloiksi.",
+      "Sekoita joukkoon neilikat, maustepippurit ja appelsiininkuori.",
+      "Säilytä ilmatiiviissä purkissa."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-omelet",
+    "title": "Perusmunakas",
+    "description": "Ohje täytetyn munakkaan paistamiseen ja täyteideoita.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea"],
+    "ingredients": [
+      "2 kananmunaa",
+      "2 kananmunan valkuaista",
+      "1 rkl maitoa (valinnainen)",
+      "1 tl öljyä tai voita",
+      "1 dl täytettä (esim. paistettuja sieniä, pinaattia, tomaattia, juustoa tai kinkkua)"
+    ],
+    "instructions": [
+      "Pilko täyte. Kypsennä etukäteen ainekset, jotka eivät ehdi kypsyä munakkaassa.",
+      "Vatkaa munat ja valkuaiset hyvin. Lisää halutessasi maitoa.",
+      "Kaada munat huoneenlämpöiselle, öljytylle pannulle (noin 15 cm).",
+      "Kuumenna pannu koko ajan sekoittaen ja lopeta sekoittaminen heti, kun muna alkaa hyytyä.",
+      "Irrota hyytyvä muna reunoilta. Kallista tarvittaessa pannua, jotta raaka muna valuu alle.",
+      "Kun munakas liikkuu pannulla, käännä se leveällä lastalla tai heittämällä.",
+      "Lisää täyte toiselle puolelle.",
+      "Kun muna on kypsä, taita se täytteen päälle ja tarjoa."
+    ],
+    "notes": [
+      "Kahden munan ja kahden valkuaisen sijaan voi käyttää kolmea munaa ja tilkan maitoa tai kermaa.",
+      "Taitetun munakkaan päälle voi raastaa cheddaria ja gratinoida sen grillivastuksen alla.",
+      "Täyteideoita: pekoni, parsakaali, oliivit, tomaatti, sienet, kesäkurpitsa, purjo, vuohenjuusto, sinihomejuusto, savulohi, brie, katkaravut tai feta."
+    ]
+  },
+  { "id": "wikibooks-basic-pizza-sauce", "skip": "määrät jätetty arvioitaviksi, liian epämääräinen valmistettavaksi" },
+  {
+    "id": "wikibooks-basic-polenta",
+    "title": "Polenta",
+    "description": "Pehmeä maissipuuro voin ja parmesaanin kera.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "italialainen", "gluteeniton"],
+    "ingredients": [
+      "7½ dl vettä tai maitoa (tai molempia)",
+      "2½ dl karkeaa maissijauhoa (polentaa)",
+      "1–2 rkl voita tai oliiviöljyä",
+      "suolaa",
+      "raastettua parmesaania"
+    ],
+    "instructions": [
+      "Kiehauta neste paksupohjaisessa kattilassa. Maitoa käytettäessä varo, ettei se kiehu yli.",
+      "Lisää ripaus suolaa ja polenta usein sekoittaen, ettei synny paakkuja.",
+      "Peitä kattila ja laske lämpö miedoksi. Sekoita välillä ja lisää nestettä tarvittaessa. Polenta on valmis noin 45 minuutissa.",
+      "Sekoita joukkoon voi tai öljy ja parmesaani. Polentaa voi pitää miedolla lämmöllä 20 minuuttia tai jäähdyttää myöhempää käyttöä varten."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-scones",
+    "title": "Teeleivät (scones)",
+    "description": "Nopeat brittiläiset teeleivät voin, kermavaahdon ja hillon kanssa.",
+    "servings": 16,
+    "totalTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "brittiläinen", "nopea"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "ripaus suolaa",
+      "30 g voita",
+      "1 rkl sokeria",
+      "1¼ dl maitoa (+ voiteluun)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 225 asteeseen.",
+      "Siivilöi jauhot, leivinjauhe ja suola kulhoon. Nypi voi joukkoon. Lisää sokeri. Lisää maito ja sekoita veitsellä pehmeäksi, ei tahmeaksi taikinaksi.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle ja vaivaa nopeasti sileäksi.",
+      "Kauli noin 1 cm paksuksi. Ota 5 cm:n muotilla 16 pyöreää leipää ja nosta ne voidellulle pellille. Voitele pinnat maidolla.",
+      "Paista uunin yläosassa 8–10 minuuttia, kunnes leivät ovat kohonneet ja kullanruskeita.",
+      "Jäähdytä ritilällä.",
+      "Tarjoa voin, kermavaahdon ja hillon kanssa."
+    ],
+    "notes": ["Muunnelmia: lisää sokerin kanssa 1–2 rkl rusinoita, raastettua sitruunan- tai appelsiininkuorta, taateleita ja saksanpähkinöitä tai suklaarouhetta; tai siivilöi jauhojen kanssa 1 tl kanelia tai ½ tl inkivääriä."]
+  },
+  {
+    "id": "wikibooks-basic-scrambled-eggs",
+    "title": "Munakokkeli",
+    "description": "Pehmeä munakokkeli voissa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea", "gluteeniton"],
+    "ingredients": [
+      "3 kananmunaa",
+      "2–3 rkl maitoa (valinnainen)",
+      "2 rkl voita",
+      "¼ tl suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Riko munat mittakannuun ja lisää maito ja suola.",
+      "Vatkaa vispilällä tai haarukalla vaahtoavaksi.",
+      "Sulata voi pannulla keskilämmöllä ja kaada munat pannulle.",
+      "Sekoita, jotta muna hajoaa kypsyessään. Nopea sekoittaminen tekee pieniä rakeita, hidas isompia.",
+      "Nosta pois juuri ennen kuin kokkeli tuntuu valmiilta, sillä se kypsyy vielä lautasella. Kiilto häviää, kun muna on kypsää.",
+      "Siirrä lautaselle ja mausta mustapippurilla (pippuri kitkeröityy, jos se lisätään ennen kypsennystä).",
+      "Syö sellaisenaan tai paahtoleivän, salsan tai ketsupin kanssa."
+    ],
+    "notes": ["Kokkeliin voi lisätä juustoraastetta, kermaviiliä maidon sijaan tai paistettua pekonia, makkaraa, sieniä tai paprikaa."]
+  },
+  {
+    "id": "wikibooks-basic-vinaigrette",
+    "title": "Perusvinegretti",
+    "description": "Punaviinietikka-dijonkastike vihreälle salaatille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "nopea", "salaatti", "ranskalainen"],
+    "ingredients": [
+      "2 rkl punaviinietikkaa",
+      "6 rkl oliiviöljyä",
+      "2 tl dijonsinappia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa etikka ja sinappi keskenään.",
+      "Lisää öljy ohuena nauhana koko ajan vatkaten.",
+      "Maista ja mausta suolalla ja pippurilla.",
+      "Kääntele salaatin joukkoon ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-basic-whipped-cream",
+    "title": "Kermavaahto",
+    "description": "Vaiheittainen ohje kotitekoiseen kermavaahtoon.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl kylmää kuohukermaa",
+      "1–2 rkl sokeria tai tomusokeria (valinnainen)",
+      "1 tl vaniljasokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Jäähdytä kulho ja vatkaimen vispilät jääkaapissa vähintään 10 minuuttia.",
+      "Kaada kylmä kerma kulhoon ja vatkaa keskinopeudella vaahtoavaksi.",
+      "Jatka, kunnes kerma sakeutuu ja vispilät jättävät siihen jälkiä. Seuraa nyt tarkasti, ettei kerma ylivatkaannu.",
+      "Vatkaa 10–30 sekunnin jaksoissa, kunnes vaahto on halutun kiinteää. Lopeta heti, jos vaahtoon alkaa tulla rakeita. Lisää lopuksi sokeri ja vanilja.",
+      "Säilytä jääkaapissa käyttöön asti."
+    ],
+    "notes": ["Kerman rasvapitoisuuden on oltava vähintään 30 %. Käsin vatkaamalla ylivatkaaminen on epätodennäköisempää."]
+  },
+  {
+    "id": "wikibooks-basin-ki-kadi-sindhi-chickpea-flour-curry",
+    "title": "Besan kadhi – sindhiläinen kikhernejauhocurry",
+    "description": "Paahdetusta kikhernejauhosta ja tomaatista tehty mausteinen curry riisin kanssa.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "intialainen", "curry"],
+    "ingredients": [
+      "2 rkl öljyä",
+      "½ rkl juustokuminaa (kokonaisena)",
+      "½ rkl sinapinsiemeniä",
+      "1 oksa curryn lehtiä",
+      "4–5 vihreää chiliä, hienonnettuna",
+      "200 g kikhernejauhoja (besan)",
+      "5 dl vettä",
+      "2 rkl hienonnettua korianteria",
+      "3 keskikokoista tomaattia, pilkottuna",
+      "suolaa",
+      "½ tl chilijauhetta",
+      "½ tl kurkumaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy pannulla ja lisää juustokumina, sinapinsiemenet, curryn lehdet ja chilit. Paista muutama minuutti.",
+      "Lisää kikhernejauhot ja paahda sekoittaen kullanruskeiksi.",
+      "Lisää vesi ja sekoita vähintään 5 minuuttia.",
+      "Lisää korianteri, tomaatit, suola, chilijauhe ja kurkuma. Hauduta, kunnes curry on paksua.",
+      "Tarjoa kuumana riisin ja paistettujen perunoiden kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bassi-salt-senegalese-couscous-with-meat-and-vegetables",
+    "title": "Bassi salté – senegalilainen hirssikuskus lihalla",
+    "description": "Hirssikuskus mehevän liha-kasviskastikkeen, papujen ja rusinoiden kera.",
+    "servings": 5,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "senegalilainen", "afrikkalainen"],
+    "ingredients": [
+      "500 g pikahirssikuskusta",
+      "1,5 l vettä, jaettuna",
+      "1½ dl rypsiöljyä",
+      "500 g naudanlihaa tai lampaanlihaa, isoina paloina",
+      "250 g tomaatteja, kuutioituna",
+      "3 sipulia, hienonnettuna",
+      "100 g tomaattipyreetä",
+      "suolaa",
+      "150 g maniokkia, kuorittuna ja kuutioituna",
+      "3 porkkanaa, kuorittuina ja kuutioituna",
+      "1 rkl hienonnettua vihreää chiliä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 rkl mustapippuria",
+      "100 g kuivattuja kidneypapuja, liotettuina",
+      "50 g rusinoita"
+    ],
+    "instructions": [
+      "Kiehauta 5 dl vettä ja kaada se kuskuksen päälle kulhossa. Peitä ja anna turvota.",
+      "Kuumenna öljy kattilassa ja ruskista liha kullanruskeaksi.",
+      "Lisää tomaatit, sipulit, suola ja tomaattipyree ja sekoita.",
+      "Lisää 1 l vettä ja kuumenna kiehuvaksi.",
+      "Lisää maniokki, porkkanat, chili ja valkosipuli ja mausta mustapippurilla. Hauduta miedolla lämmöllä, kunnes kastike on tasaisen paksua ja liha mureaa.",
+      "Keitä liotetut pavut erikseen reippaasti pehmeiksi ja valuta.",
+      "Sekoita rusinat kastikkeeseen ja mausta suolalla.",
+      "Kuohkeuta kuskus ja tarjoa papujen ja kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-basted-egg",
+    "title": "Höyrytetty paistettu kananmuna",
+    "description": "Pohjasta paistettu ja pinnalta höyryssä kypsynyt kananmuna.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 kananmuna",
+      "1 tl voita tai öljyä",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "1 rkl vettä"
+    ],
+    "instructions": [
+      "Kuumenna tarttumaton pannu keskilämmöllä ja lisää hieman voita tai öljyä.",
+      "Riko muna pannulle ja mausta halutessasi.",
+      "Paista hetki ja lisää noin 1 rkl vettä. Peitä pannu heti kannella ja kypsennä 2–3 minuuttia halutusta kypsyydestä riippuen.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-bazeen-bil-lahm-libyan-meat-bazeen",
+    "title": "Libyalainen liha-kasvispata bazeenin kanssa",
+    "description": "Mausteinen liha-kasvispata, joka tarjotaan perinteisen bazeen-taikinapallon kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 140,
+    "category": "Pääruoat",
+    "tags": ["liha", "libyalainen", "pata"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "500 g naudanlihaa tai lampaanlihaa, pieninä kuutioina",
+      "2 tomaattia, kuutioituna",
+      "2 porkkanaa, kuorittuina ja viipaloituina",
+      "2 perunaa, kuorittuina ja kuutioituna",
+      "2 paprikaa, kuutioituna",
+      "1 rkl tomaattipyreetä",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianterinsiementä",
+      "1 tl kurkumaa",
+      "½ tl cayennepippuria (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "1 l vettä",
+      "bazeen-taikinaa tarjoiluun (ohrajauhoista, vedestä ja suolasta)"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paksupohjaisessa kattilassa keskilämmöllä.",
+      "Kuullota sipuli ja valkosipuli.",
+      "Lisää liha ja ruskista se joka puolelta.",
+      "Lisää tomaatit, porkkanat, perunat ja paprikat.",
+      "Lisää tomaattipyree ja mausteet ja sekoita.",
+      "Lisää vesi ja kuumenna kiehuvaksi.",
+      "Laske lämpö, peitä ja hauduta 1½–2 tuntia, kunnes liha on mureaa.",
+      "Valmista sillä välin bazeen-taikina.",
+      "Muotoile taikinasta pieniä palloja ja laita ne tarjoilukulhoihin.",
+      "Kaada liha-kasvispata taikinan päälle ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-bbq-pork-fried-rice",
+    "title": "Paistettu riisi BBQ-porsaalla",
+    "description": "Marinoitua uunipossua ja paistettua riisiä kananmunalla, chilillä ja inkiväärillä.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "aasialainen"],
+    "ingredients": [
+      "Possu:",
+      "750 g luutonta porsaan ulkofileetä, 30 palana",
+      "50 ml barbecuekastiketta",
+      "1 rkl vaaleaa soijakastiketta",
+      "2 rkl hoisinkastiketta",
+      "2 rkl sokeria",
+      "1 tl suolaa",
+      "Riisi:",
+      "4 rkl oliiviöljyä",
+      "2 rkl seesamiöljyä",
+      "7 valkosipulinkynttä, hienonnettuna",
+      "5 cm pala inkivääriä, hienonnettuna",
+      "2–5 punaista chiliä, hienonnettuna",
+      "6 kevätsipulia, 2 cm:n paloina",
+      "4 kananmunaa, vatkattuina",
+      "1 kg keitettyä riisiä",
+      "3 rkl soijakastiketta",
+      "1 rkl kanaliemijauhetta",
+      "1½ rkl osterikastiketta",
+      "20 g jalapeñoa",
+      "Tarjoiluun:",
+      "kaalia ja salaattia, suikaleina",
+      "tomaattia ja kurkkua",
+      "3 kananmunan munakas, suikaleina"
+    ],
+    "instructions": [
+      "Sekoita barbecuekastike, soijakastike, hoisinkastike, sokeri ja suola marinadiksi.",
+      "Kääntele porsaanpalat marinadissa, peitä ja anna marinoitua jääkaapissa 25 minuuttia.",
+      "Siirrä palat uunivuokaan ja paista 200 asteessa 20 minuuttia.",
+      "Kuumenna öljyt wokissa. Paista valkosipulia, chiliä, inkivääriä ja kevätsipulia minuutti. Lisää munat ja riisi.",
+      "Lisää possu, soijakastike, liemijauhe, osterikastike ja jalapeño. Paista sekoittaen, kunnes kaikki on sekoittunut. Maista ja lisää suolaa tarvittaessa.",
+      "Tarjoa kuumana lisukkeiden kanssa."
+    ],
+    "notes": ["Alkuperäisen ohjeen suolamäärät (yli 4 rkl) on kohtuullistettu."]
+  },
+  {
+    "id": "wikibooks-beach-tropicana",
+    "title": "Trooppinen mango-ananasjuoma",
+    "description": "Raikas sekoitus mango- ja ananasmehua sekä banaania murskajään kanssa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "nopea", "hedelmät"],
+    "ingredients": [
+      "1¾ dl mangomehua",
+      "1¾ dl ananasmehua",
+      "1 banaani, viipaloituna",
+      "1 rkl sokeria (valinnainen)",
+      "1½ dl vettä",
+      "murskattua jäätä"
+    ],
+    "instructions": [
+      "Sekoita muut ainekset paitsi jää tehosekoittimessa.",
+      "Tarjoa murskajään kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bean-and-bacon-bake",
+    "title": "Vihreät pavut pekonilla ja perunalla",
+    "description": "Mikrossa valmistuva papu-pekoni-perunalisuke mantelilastuilla.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["liha", "nopea", "pavut"],
+    "ingredients": [
+      "1 keskikokoinen peruna (280–340 g)",
+      "6 viipaletta pekonia, rapeaksi paistettuna",
+      "1 tlk (n. 800 g) vihreitä papuja",
+      "½ tl suolaa",
+      "½ tl sipulijauhetta",
+      "2 rkl mantelilastuja"
+    ],
+    "instructions": [
+      "Kuori ja kuutioi peruna.",
+      "Murenna pekoni pieniksi paloiksi.",
+      "Valuta pavut ja säästä 1¼ dl lientä.",
+      "Laita pavut, liemi, pekoni ja peruna mikronkestävään vuokaan.",
+      "Ripottele päälle sipulijauhe ja suola ja peitä kelmulla.",
+      "Kypsennä mikroaaltouunissa 5 minuuttia, sekoita ja kypsennä toiset 5 minuuttia.",
+      "Anna seistä 5 minuuttia ja ripottele päälle mantelilastut."
+    ]
+  },
+  { "id": "wikibooks-bean-and-green-chili-soup", "skip": "perustuu amerikkalaisiin valmistuotteisiin (kuivattu papukeittoaines)" },
+  {
+    "id": "wikibooks-bean-and-rice-bake",
+    "title": "Uunissa haudutettu papu-riisipata punaviinissä",
+    "description": "Hitaasti uunissa kypsyvä curryllä maustettu kasvis-riisipata.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "riisi", "uuniruoka", "pavut"],
+    "ingredients": [
+      "¾ dl oliiviöljyä, jaettuna",
+      "2 sipulia, lohkoina",
+      "3 tomaattia, isoina paloina",
+      "3 porkkanaa, isoina paloina",
+      "1 tlk (400 g) kikherneitä tai mustia papuja, valutettuina",
+      "1 kesäkurpitsa tai paprika, paloiteltuna",
+      "1 rkl currya",
+      "5–10 valkosipulinkynttä",
+      "1 tl paprikajauhetta",
+      "1 tl juustokuminaa",
+      "½ tl chilijauhetta",
+      "½ tl oreganoa",
+      "2½ dl basmatiriisiä",
+      "7½ dl punaviiniä (tai osittain vettä)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 120 asteeseen.",
+      "Kuumenna 1 rkl öljyä kattilassa. Lisää curry ja riisi ja paahda sekoittaen noin 5 minuuttia, kunnes riisi on vaaleanruskeaa.",
+      "Laita kasvikset, mausteet ja valkosipuli kannelliseen uunivuokaan. Sekoita joukkoon riisi, pavut ja puolet viinistä. Varmista, että osa riisistä on pinnalla.",
+      "Lisää loppu öljy ja niin paljon viiniä tai vettä, että kaikki on nesteen peitossa.",
+      "Peitä ja kypsennä uunissa pari tuntia. Tarkista välillä, onko riisi pehmeää.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Korkeammassa lämmössä pata kypsyy nopeammin. Onnistuu myös nuotiolla."]
+  }
+]

@@ -1,0 +1,670 @@
+[
+  {
+    "id": "wikibooks-molasses-cookies",
+    "title": "Pehmeät siirappikeksit",
+    "description": "Mietosti maustetut, pehmeät siirappikeksit, jotka voi tehdä nokareina tai kaulita ja leikata muotilla.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "amerikkalainen", "pikkuleipä"],
+    "ingredients": [
+      "½ rkl etikkaa",
+      "1 dl maitoa",
+      "1 dl sokeria",
+      "115 g leivontarasvaa tai voita",
+      "1 muna",
+      "2,5 dl tummaa siirappia",
+      "6–9,5 dl vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "¼ tl kanelia",
+      "¼ tl inkivääriä",
+      "koristeeksi saksanpähkinöitä, rusinoita tms."
+    ],
+    "instructions": [
+      "Voitele pellit tai vuoraa ne leivinpaperilla.",
+      "Sekoita etikka maitoon.",
+      "Sekoita sooda, kaneli, inkivääri ja 6 dl jauhoja.",
+      "Vaahdota sokeri ja rasva, vatkaa sitten joukkoon siirappi ja muna tasaiseksi.",
+      "Lisää jauhoseos ja maito vuorotellen, aloittaen ja lopettaen jauhoilla.",
+      "Lisää tarvittaessa jauhoja vähitellen. Nokarekekseihin ei välttämättä tarvita lisää; kaulittaviin keksiin tarvitaan yhteensä noin 9,5 dl.",
+      "Jäähdytä taikinaa jääkaapissa vähintään tunti.",
+      "Nokarekeksit: nostele taikinaa pellille, litistä lasilla (pohja sokeroituna, ettei tartu) ja paina pintaan koristeet.",
+      "Kaulittavat keksit: kauli taikina jauhotetulla alustalla ja ota muotilla keksejä pellille.",
+      "Paista 190 asteessa 8–10 minuuttia."
+    ],
+    "notes": ["Leivontarasvan tilalla voi käyttää pehmeää suolatonta voita tai laardia."]
+  },
+  {
+    "id": "wikibooks-molasses-taffy",
+    "title": "Vedetyt siirappitoffeet",
+    "description": "Vanhanaikaiset siirappitoffeet, joita vedetään ja kierretään käsin, kunnes ne vaalenevat ja muuttuvat ilmaviksi.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "makeinen", "gluteeniton"],
+    "ingredients": [
+      "1 dl tummaa siirappia",
+      "3,5 dl sokeria",
+      "1,5 rkl etikkaa",
+      "1 dl vettä",
+      "¼ tl viinikiveä",
+      "4 rkl voita + käsiin ja vuokaan",
+      "1 ripaus ruokasoodaa"
+    ],
+    "instructions": [
+      "Yhdistä siirappi, sokeri, etikka ja vesi paksupohjaisessa kattilassa keskilämmöllä.",
+      "Keitä 124–132 asteeseen. Mitä kuumemmaksi keität, sitä kovempaa toffeesta tulee.",
+      "Nosta liedeltä ja sekoita joukkoon voi, viinikivi ja sooda.",
+      "Kaada voideltuun vuokaan tai marmorilevylle ja anna jäähtyä hieman.",
+      "Kun massa on jäähtynyt käsiteltäväksi, voitele kädet. Ota massa molempiin käsiin ja vedä se pitkäksi hieman kiertäen. Toista vetämistä ja kiertämistä, kunnes massa vaalenee ja siihen sekoittuu ilmaa.",
+      "Leikkaa noin 2–3 cm:n paloiksi ja kääri voipaperiin."
+    ],
+    "notes": ["Varo, sokerimassa on aluksi hyvin kuumaa."]
+  },
+  {
+    "id": "wikibooks-molasses-glazed-pork-chops",
+    "title": "Siirappilasitetut grillikyljykset",
+    "description": "Siirappi-limettimarinadissa maustetut paksut porsaankyljykset grillattuna kovalla lämmöllä ja lasitettuna keitetyllä marinadilla.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "grilli"],
+    "ingredients": [
+      "4 paksua porsaan kyljystä luineen",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "2 tl kuivattua rosmariinia",
+      "½ tl jauhettua inkivääriä",
+      "170 g tummaa siirappia",
+      "1 tl valkosipulijauhetta",
+      "¾ tl cayennepippuria",
+      "2 rkl omenaviinietikkaa",
+      "2 limetin mehu"
+    ],
+    "instructions": [
+      "Laita kyljykset isoon minigrip-pussiin. Sekoita siirappi, etikka ja limettimehu ja kaada pussiin. Marinoi jääkaapissa vähintään 30 minuuttia.",
+      "Nosta liha marinadista. Sekoita kuivat mausteet ja hiero ne lihaan. Kuumenna grilli niin kuumaksi kuin mahdollista.",
+      "Keitä marinadia 10 minuuttia.",
+      "Grillaa kyljyksiä 2 minuuttia marinadilla siveltäen, käännä 90 astetta grilliraitojen saamiseksi ja grillaa vielä 2 minuuttia siveltäen.",
+      "Käännä toisin päin ja toista. Anna levätä 10 minuuttia ja tarjoa lopun keitetyn marinadin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-molokhia-egyptian-jute-mallow-soup",
+    "title": "Molokhia – egyptiläinen juuttimalvakeitto",
+    "description": "Egyptiläinen lohturuoka: juuttimalvan lehdistä valmistettu samettinen keitto valkosipulilla ja kuminalla, tarjoiltuna riisin tai leivän kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "egyptiläinen", "keitto"],
+    "ingredients": [
+      "5 dl tuoreita tai pakastettuja molokhia-lehtiä (juuttimalvaa)",
+      "1 l kasvislientä tai kanalientä",
+      "2 rkl oliiviöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tl juustokuminaa",
+      "suolaa",
+      "mustapippuria",
+      "1 sitruunan mehu (valinnainen)",
+      "keitettyä riisiä tai leipää tarjoiluun"
+    ],
+    "instructions": [
+      "Jos käytät tuoreita lehtiä, poista sitkeät varret ja pese lehdet huolellisesti. Sulata pakastettu molokhia pakkauksen ohjeen mukaan.",
+      "Kuumenna öljy kattilassa keskilämmöllä. Kuullota sipuli ja valkosipuli.",
+      "Lisää molokhia-lehdet ja sekoita sipuliseoksen kanssa.",
+      "Kaada joukkoon liemi niin, että lehdet ovat kokonaan nesteen peitossa.",
+      "Mausta kuminalla, suolalla ja pippurilla.",
+      "Kuumenna hiljalleen kiehuvaksi, laske lämpö pieneksi ja hauduta 20–30 minuuttia.",
+      "Nosta liedeltä ja purista halutessasi joukkoon sitruunamehu.",
+      "Tarjoa kuumana riisin tai leivän kanssa."
+    ],
+    "notes": ["Keittoon voi lisätä kanaa tai lihaa. Kanaliemellä keitto ei ole vegaaninen."]
+  },
+  {
+    "id": "wikibooks-monkey-bread-i",
+    "title": "Apinanleipä – kanelisokeriset nyppypullat",
+    "description": "Amerikkalainen makea nyppyleipä: kanelisokerissa pyöritellyt taikinapalat paistetaan kakkuvuoassa kinuskikastikkeen kanssa.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 70,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "amerikkalainen", "pulla"],
+    "ingredients": [
+      "1 kg valmista pullataikinaa (tai 4 tölkkiä amerikkalaista biscuit-taikinaa)",
+      "Kanelisokeri:",
+      "1,75 dl sokeria",
+      "1 tl kanelia",
+      "Kastike:",
+      "175 g voita tai margariinia",
+      "1,75 dl fariinisokeria",
+      "½ dl sokeria",
+      "1,5 tl kanelia"
+    ],
+    "instructions": [
+      "Sekoita kaneli ja sokeri pyörittelyä varten.",
+      "Jaa taikina noin 2–3 cm:n paloiksi. Pyörittele palat kanelisokerissa ja asettele väljästi voideltuun kuglof- tai korkeareunaiseen kakkuvuokaan.",
+      "Kuumenna kastikkeen ainekset kiehuvaksi ja kaada taikinan päälle vuokaan.",
+      "Paista 175 asteessa 40–50 minuuttia.",
+      "Kumoa lautaselle ja tarjoa lämpimänä."
+    ],
+    "notes": ["Pullataikinaa käytettäessä anna palojen kohota vuoassa noin 30 minuuttia ennen kastikkeen lisäämistä."]
+  },
+  { "id": "wikibooks-monkey-bread-ii", "skip": "lähes sama kuin edellinen apinanleipäohje" },
+  {
+    "id": "wikibooks-monkey-butter",
+    "title": "Banaani-maapähkinälevite",
+    "description": "Nopea makea levite banaanista, maapähkinävoista ja vaniljajogurtista ranskalaisten paahtoleipien päälle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "banaani"],
+    "ingredients": [
+      "1 banaani, muussattuna",
+      "2 rkl maapähkinävoita",
+      "2,5 dl vaniljajogurttia",
+      "2 tl kanelisokeria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset tasaiseksi."
+    ],
+    "notes": ["Sopii erinomaisesti köyhien ritarien päälle."]
+  },
+  {
+    "id": "wikibooks-monte-cristo-burgers",
+    "title": "Monte Cristo -hampurilaiset",
+    "description": "Hampurilainen, jonka sämpylä paistetaan munakermaan kastettuna kuin köyhä ritari.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "hampurilainen", "grilli"],
+    "ingredients": [
+      "450 g naudan jauhelihaa (rasvaa 20 %)",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "oliiviöljyä",
+      "4 hampurilaissämpylää, halkaistuna",
+      "muutama tippa chilikastiketta",
+      "1 muna, vatkattuna",
+      "2 rkl kuohukermaa",
+      "4 viipaletta juustoa",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna uuni 95 asteeseen.",
+      "Sekoita muna, chilikastike ja kerma matalassa vuoassa. Kasta sämpylöiden leikkuupinnat seokseen ja nosta ritilälle 10 minuutiksi.",
+      "Kuumenna keskikokoinen tarttumaton pannu keskilämmöllä ja voitele se öljyllä.",
+      "Paista sämpylät yksi kerrallaan leikkuupinta alaspäin ruskeiksi. Pidä ne lämpiminä uunissa.",
+      "Muotoile liha neljäksi pihviksi. Sivele pihvit oliiviöljyllä ja mausta runsaalla suolalla ja pippurilla.",
+      "Kuumenna noin 28 grillibrikettiä sytytyspiipussa. Levitä ne grillin pohjalle ja aseta ritilä paikalleen. Grillaa pihvejä usein kääntäen, kunnes sisälämpö on 63 °C (medium rare), 71 °C (medium) tai 77 °C (kypsä).",
+      "Nosta lautaselle, lisää päälle juusto ja peitä foliolla. Anna levätä 3 minuuttia.",
+      "Nosta pihvit sämpylöiden väliin ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-monte-cristo-sandwich",
+    "title": "Monte Cristo -voileipä",
+    "description": "Kolmikerroksinen kinkku-kana-emmentalvoileipä, joka kastetaan munataikinaan ja paistetaan voissa kullanruskeaksi.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["liha", "kana", "voileipä", "nopea"],
+    "ingredients": [
+      "1 rkl voita + paistamiseen",
+      "3 viipaletta vaaleaa paahtoleipää",
+      "2 viipaletta vähärasvaista kinkkua",
+      "2 viipaletta kypsää kananrintaa",
+      "2 ohutta viipaletta emmentaljuustoa",
+      "1 muna",
+      "2 rkl maitoa",
+      "herukkahyytelöä, mansikkahilloa tai karpalokastiketta tarjoiluun"
+    ],
+    "instructions": [
+      "Voitele ensimmäinen leipäviipale ja nosta sen päälle kinkku ja kana.",
+      "Voitele keskimmäinen viipale molemmin puolin, nosta lihojen päälle ja peitä juustolla.",
+      "Voitele kolmas viipale ja nosta voipuoli alaspäin juuston päälle.",
+      "Leikkaa kuoret pois, halkaise leipä ja kiinnitä puolikkaat cocktailtikuilla.",
+      "Vatkaa muna ja maito. Kasta voileivät munaseokseen ja paista voissa joka puolelta kullanruskeiksi.",
+      "Poista tikut ja tarjoa herukkahyytelön, mansikkahillon tai karpalokastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-monterey-jack-chicken-breasts",
+    "title": "Juustokuorrutetut kuminabroilerinfileet",
+    "description": "Helppo arkiruoka lapsille: juustokuminalla maustetut uunibroilerinfileet Monterey Jack -juustokuorrutteella.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "arkiruoka", "lapset"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "oliiviöljyä",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "4 ripausta jauhettua juustokuminaa",
+      "1 dl Monterey Jack -juustoraastetta tai muuta sulavaa juustoa"
+    ],
+    "instructions": [
+      "Sivele fileet molemmin puolin oliiviöljyllä. Mausta runsaalla suolalla, pippurilla ja ripauksella kuminaa.",
+      "Nosta fileet uunivuokaan ja työnnä paistolämpömittari yhteen fileeseen. Paista uunin keskitasolla 200 asteessa, kunnes sisälämpö on 74 °C.",
+      "Ota vuoka uunista ja ripottele juusto fileiden päälle. Palauta uuniin, kunnes juusto on sulanut.",
+      "Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-montreal-russian-borscht",
+    "title": "Montrealilainen venäläinen borssikeitto",
+    "description": "Montrealin venäläisyhteisön palkittu punajuuri-kaalikeitto, joka paranee seistessään – parhaimmillaan parin päivän kuluttua.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "venäläinen", "punajuuri"],
+    "ingredients": [
+      "7 l vettä",
+      "1 tlk (400 g) kuorittuja tomaatteja tai vastaava määrä tuoreita",
+      "1 pieni tlk (70 g) tomaattipyreetä",
+      "sokeria",
+      "suolaa",
+      "1 iso sipuli, ohuina viipaleina",
+      "1–2 valkosipulinkynttä",
+      "5–6 keskikokoista punajuurta, kuorittuna ja suikaloituna",
+      "3 keskikokoista porkkanaa, kuorittuna ja suikaloituna",
+      "1 peruna, suikaloituna (valinnainen)",
+      "½ iso valkokaali, suikaloituna"
+    ],
+    "instructions": [
+      "Täytä iso kattila vedellä. Lisää tomaatit, tomaattipyree, sokeri, suola, sipuli, valkosipuli ja punajuuret ja keitä 20 minuuttia.",
+      "Lisää porkkanat, kaali ja peruna.",
+      "Kuumenna uudelleen kiehuvaksi ja keitä 1½ tuntia."
+    ],
+    "notes": ["Keitto paranee vanhetessaan kuin viini: anna sen seistä jääkaapissa vähintään kaksi päivää ennen tarjoilua. Ero on huomattava."]
+  },
+  {
+    "id": "wikibooks-montreal-steak-seasoning",
+    "title": "Montreal-pihvimauste",
+    "description": "Kanadalaistyylinen karkea pihvimausteseos valkosipulista, korianterista, tillistä, paprikasta ja pippurista.",
+    "servings": 15,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Muut",
+    "tags": ["vegaaninen", "mausteseos", "kanadalainen"],
+    "ingredients": [
+      "2 tl valkosipulijauhetta",
+      "4 tl karkeaksi jauhettuja korianterinsiemeniä",
+      "2 rkl karkeaa merisuolaa",
+      "4 tl kuivattua tilliä",
+      "4 tl paprikajauhetta",
+      "4 tl chilihiutaleita (tai cayennepippuria)",
+      "4 tl karkeaksi jauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita ainekset ja käytä pihvien maustamiseen. Säilyy ilmatiiviissä purkissa useita kuukausia."
+    ]
+  },
+  {
+    "id": "wikibooks-moqueca-de-peixe-brazilian-seafood-stew",
+    "title": "Moqueca de peixe – brasilialainen kalapata",
+    "description": "Bahian alkuperäinen moqueca: sitruunalla marinoitua valkoista kalaa, sipulia, paprikaa ja tomaattia haudutettuna dendê-palmuöljyssä ja kookosmaidossa.",
+    "servings": 5,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kala", "brasilialainen", "pata"],
+    "ingredients": [
+      "1 kg tuoretta valkoista kalaa, kahden sormen levyisinä paloina",
+      "1 sitruunan mehu",
+      "2 keskikokoista sipulia, renkaina",
+      "2 paprikaa (punainen ja vihreä), renkaina",
+      "1 valkosipulinkynsi, puristettuna",
+      "4 kypsää tomaattia, halutessasi kuorittuna, pilkottuna",
+      "4 korianterinvartta lehtineen, hienonnettuna",
+      "12 rkl dendê-palmuöljyä",
+      "2 dl kookosmaitoa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Marinoi kalaa sitruunamehun ja hienon pippurin seoksessa vähintään tunti.",
+      "Lado kala, sipulit, paprikat, valkosipuli, tomaatit ja korianteri useaksi kerrokseksi kattilaan.",
+      "Kaada palmuöljy ja kookosmaito päälle ja keitä kaikkea 20 minuuttia. Nostele välillä nestettä kauhalla pohjalta pinnalle, mutta varo rikkomasta kalaa.",
+      "Mausta suolalla.",
+      "Tarjoa valkoisen riisin kanssa."
+    ],
+    "notes": ["Parhaan maun saat lisäämällä suolaa reilummin kuin luulisit. Seiti sopii hyvin."]
+  },
+  {
+    "id": "wikibooks-morel-mushroom-sauce",
+    "title": "Huhtasienikastike",
+    "description": "Ylellinen kermakastike voissa rapeiksi paistetuista huhtasienistä, valkoviinistä ja dijonsinapista.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "sienet", "juhla"],
+    "ingredients": [
+      "3 rkl voita",
+      "7 dl huhtasieniä, alle 2,5 cm:n paloina",
+      "½ dl kevätsipulin vihreitä osia, ohuina viipaleina",
+      "½ rkl kuivattua persiljaa",
+      "¼ tl muskottipähkinää",
+      "¼ tl mustapippuria",
+      "1 tl suolaa",
+      "1 dl kuivaa valkoviiniä",
+      "5 dl kuohukermaa",
+      "½ tl dijonsinappia"
+    ],
+    "instructions": [
+      "Kuumenna voi isossa tarttumattomassa paistinpannussa keskikorkealla lämmöllä, kunnes se vaahtoaa.",
+      "Lisää sienet ja paista välillä sekoittaen 15–20 minuuttia, kunnes ne ovat hieman rapeita.",
+      "Lisää kevätsipuli, persilja, muskotti, pippuri ja suola ja paista muutama minuutti.",
+      "Nosta lämpöä, lisää viini ja keitä lähes kokonaan pois.",
+      "Laske lämpö keskitasolle ja lisää kerma ja sinappi. Keitä hiljalleen, kunnes kastike sakeutuu, noin 10–12 minuuttia.",
+      "Tarjoa."
+    ],
+    "notes": ["Huhtasienet on aina ryöpättävä ennen käyttöä, sillä raakana ne ovat myrkyllisiä. Ryöppää tuoreet huhtasienet kahdesti runsaassa vedessä 5 minuuttia kerrallaan ja huuhtele välillä. Juhlavampaan annokseen lisää 20–24 isoa keitettyä katkarapua."]
+  },
+  {
+    "id": "wikibooks-moroccan-couscous",
+    "title": "Marokkolainen sitruunakuskus",
+    "description": "Paahdettu kuskus kanaliemessä sitruunan, chilitahnan, korianterin ja säilötyn sitruunan kanssa, lampaan lisukkeeksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["marokkolainen", "kuskus", "nopea"],
+    "ingredients": [
+      "280 g pikakuskusia",
+      "6,5 dl kanalientä",
+      "½ dl tuorepuristettua sitruunamehua",
+      "2 rkl chilitahnaa (esim. harissaa)",
+      "1,5 tl suolaa",
+      "1,5 tl vastajauhettua korianterinsiementä",
+      "¼ tl vastajauhettua juustokuminaa",
+      "2 rkl oliiviöljyä",
+      "4 lohkoa säilöttyä sitruunaa",
+      "2 laakerinlehteä"
+    ],
+    "instructions": [
+      "Sekoita nesteet kulhossa ja nosta sivuun.",
+      "Kuumenna iso kattila keskikorkealla lämmöllä. Lisää öljy ja kuskus ja paahda, kunnes kuskus on kevyesti ruskistunut.",
+      "Lisää nesteseos ja loput ainekset. Kuumenna kiehuvaksi, peitä, nosta liedeltä ja anna seistä noin 5 minuuttia, kunnes kuskus on pehmeää ja neste imeytynyt.",
+      "Poista laakerinlehdet ja kuohkeuta kuskus huolellisesti haarukalla. Tarjoa heti lampaan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-moroccan-salad",
+    "title": "Marokkolainen tomaattisalaatti",
+    "description": "Raikas ja helppo salaatti tomaatista, vihreästä paprikasta, sipulista, korianterista ja kuminasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "marokkolainen", "tomaatti", "gluteeniton"],
+    "ingredients": [
+      "3 isoa kypsää tomaattia",
+      "1 vihreä paprika",
+      "1 pienehkö sipuli",
+      "1 kourallinen tuoretta korianteria, hienonnettuna",
+      "1 tl juustokuminaa",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl etikkaa tai sitruunamehua"
+    ],
+    "instructions": [
+      "Kuutioi tomaatit, paprika ja sipuli pieniksi.",
+      "Lisää korianteri, kumina, suola, pippuri ja etikka.",
+      "Laita kaikki kannelliseen rasiaan, sulje kansi tiiviisti ja ravista hyvin.",
+      "Anna maustua 30 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Tomaatit voi halutessaan kuoria."]
+  },
+  {
+    "id": "wikibooks-moroccan-soup",
+    "title": "Marokkolainen lammas-aprikoosikeitto",
+    "description": "Mausteinen keitto lampaasta tai kanasta, tomaatista ja kuivatuista aprikooseista kanelilla ja korianterilla maustettuna.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["liha", "marokkolainen", "keitto"],
+    "ingredients": [
+      "1 sipuli, kuutioituna",
+      "350 g lampaanlihaa tai 4 broilerin rintafileetä, pilkottuna",
+      "1 l lihalientä tai kanalientä",
+      "3 tl oliiviöljyä",
+      "400 g tomaattimurskaa (mieluiten valkosipulilla)",
+      "200 g kuivattuja aprikooseja, kahdeksaan osaan leikattuna",
+      "1 tl paprikajauhetta",
+      "1 tl jauhettua korianteria",
+      "1 tl kanelia",
+      "suolaa",
+      "mustapippuria",
+      "cayennepippuria",
+      "2 porkkanaa, kuutioituna (valinnainen)",
+      "1 bataatti, kuutioituna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuullota sipuli kevyesti öljyssä.",
+      "Lisää mausteet ja loput ainekset ja keitä, kunnes liha ja kasvikset ovat kypsiä. Kanalla noin 20 minuuttia, lampaalla noin 45–60 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-moussaka-bulgarian",
+    "title": "Bulgarialainen musaka",
+    "description": "Bulgarialainen jauheliha-perunavuoka, joka kuorrutetaan munan, jogurtin ja jauhojen seoksella. Tarjoillaan kylmän jogurtin kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "jauheliha", "peruna", "uuniruoka"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "500 g sian jauhelihaa",
+      "1 kg perunoita, kuorittuna ja pieninä kuutioina",
+      "2 tomaattia, hienonnettuna",
+      "¾ dl persiljaa, hienonnettuna",
+      "3 munaa, vatkattuna",
+      "2,5 dl maustamatonta jogurttia",
+      "2 rkl vehnäjauhoja",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Paista sipuli ja jauheliha pienessä määrässä öljyä kypsiksi. Mitä rasvaisempaa liha on, sitä vähemmän öljyä tarvitaan.",
+      "Sekoita liha-sipuliseos perunoiden, tomaattien ja persiljan kanssa. Mausta suolalla ja pippurilla.",
+      "Siirrä uunivuokaan. Paista 200 asteessa noin tunti tai kunnes perunat ovat kypsiä.",
+      "Sekoita munat, jogurtti ja jauhot ja kaada vuoan päälle. Paista vielä 10 minuuttia."
+    ],
+    "notes": ["Tarjoa kylmän jogurtin kanssa."]
+  },
+  {
+    "id": "wikibooks-mozzarella-sticks",
+    "title": "Friteeratut mozzarellatikut",
+    "description": "Kahteen kertaan korppujauhotetut mozzarellatikut friteerattuna rapeiksi.",
+    "servings": 1,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["kasvis", "friteerattu", "juusto", "nopea"],
+    "ingredients": [
+      "115 g mozzarellaa",
+      "1 dl maustettuja korppujauhoja",
+      "1 iso muna",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Kuumenna friteerausöljy 175 asteeseen.",
+      "Leikkaa mozzarella 1–3 cm paksuiksi tikuiksi.",
+      "Vatkaa muna pienessä kulhossa.",
+      "Kaada korppujauhot toiseen pieneen kulhoon.",
+      "Kasta 3–4 tikkua kerrallaan munaan.",
+      "Ravista ylimääräinen muna pois ja nosta tikut korppujauhoihin.",
+      "Ravista kulhoa, jotta tikut peittyvät tasaisesti. Lisää korppujauhoja tarvittaessa.",
+      "Nosta jauhotetut tikut sivuun ja toista lopuille.",
+      "Kun kaikki tikut on jauhotettu, kasta ne vielä kerran munaan ja korppujauhoihin.",
+      "Laske tikut friteerauskorissa 175-asteiseen öljyyn.",
+      "Friteeraa 30 sekuntia koria välillä kevyesti heilutellen.",
+      "Nosta kori ja anna jäähtyä muutama sekunti. Jos juusto ei ala tihkua puolesta tikuista, upota vielä 10–15 sekunniksi. Toista, kunnes juusto juuri alkaa tihkua.",
+      "Kaada talouspaperille ja taputtele ylimääräinen öljy pois.",
+      "Tarjoa kuumina."
+    ],
+    "notes": ["Mozzarellapaloja varten leikkaa juusto 2–3 cm:n kuutioiksi."]
+  },
+  {
+    "id": "wikibooks-mozzarella-tuna-melts",
+    "title": "Lämpimät tonnikala-mozzarellasämpylät",
+    "description": "Tonnikalasalaatilla, mozzarellalla ja tomaatilla täytetyt sämpylät uunissa lämmitettyinä.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["kala", "voileipä", "nopea"],
+    "ingredients": [
+      "1 tlk (170 g) tonnikalaa vedessä, valutettuna ja hienonnettuna",
+      "½ dl varsiselleriä, hienonnettuna",
+      "½ dl sipulia, hienonnettuna",
+      "½ dl majoneesia",
+      "4 hampurilaissämpylää, halkaistuna",
+      "4 viipaletta mozzarellaa",
+      "4 tomaattiviipaletta",
+      "4 salaatinlehteä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita pienessä kulhossa tonnikala, selleri, sipuli ja majoneesi.",
+      "Levitä seos sämpylöiden pohjapuoliskoille.",
+      "Nosta päälle juustoviipale ja tomaattiviipale.",
+      "Asettele voitelemattomalle uunipellille.",
+      "Paista 12–15 minuuttia tai kunnes täyte on lämmennyt ja juusto sulanut.",
+      "Lisää salaatinlehti ja peitä sämpylän kansipuoliskolla."
+    ]
+  },
+  { "id": "wikibooks-mpoto-mpoto-yam-pottage", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-mpt-mozzarella-pasta-with-tomato-and-basil",
+    "title": "Mozzarella-tomaattipasta basilikalla",
+    "description": "Nopea kesäinen pasta: mozzarella, tomaatti, basilika ja oliiviöljy saavat maustua yhdessä, ja kuuma tuore munapasta sekoitetaan joukkoon.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "kesä"],
+    "ingredients": [
+      "2 palloa mozzarellaa (lehmän- tai puhvelinmaidosta)",
+      "10–15 kirsikkatomaattia tai 4–5 isompaa tomaattia",
+      "1 kourallinen basilikanlehtiä (15–20 lehteä)",
+      "3 rkl oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "250 g tuoretta munapastaa"
+    ],
+    "instructions": [
+      "Pilko mozzarella ja tomaatit karkeasti isoon kulhoon.",
+      "Revi basilika ja ripottele päälle.",
+      "Valuta päälle runsaasti oliiviöljyä (vähintään 3 rkl).",
+      "Lisää reilusti suolaa ja vähän mustapippuria. Suola irrottaa aineksista nestettä, josta muodostuu kastike.",
+      "Anna maustua vähintään 30 minuuttia. Kulhon voi nostaa kuumaan vesihauteeseen, jolloin mozzarella alkaa pehmetä.",
+      "Keitä pasta al denteksi ja valuta.",
+      "Lisää kuuma pasta kulhoon ja sekoita hyvin. Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-muboora-zimbabwean-pumpkin-leaves-stew",
+    "title": "Muboora – zimbabwelainen kurpitsanlehtipata",
+    "description": "Zimbabwelainen pata, jossa kurpitsanlehdet haudutetaan kermaisessa maapähkinä-tomaattikastikkeessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "afrikkalainen", "pata"],
+    "ingredients": [
+      "1 nippu tuoreita kurpitsanlehtiä (tai 300 g pinaattia)",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2–3 valkosipulinkynttä, hienonnettuna",
+      "2–3 kypsää tomaattia, pilkottuna",
+      "2,5 dl maapähkinävoita",
+      "2–3 rkl rypsiöljyä",
+      "1 tl currya (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "vettä"
+    ],
+    "instructions": [
+      "Pese lehdet huolellisesti ja poista sitkeät varret ja suonet. Pilko lehdet pieniksi.",
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Kuullota sipuli ja valkosipuli.",
+      "Lisää tomaatit ja curry. Kypsennä välillä sekoittaen, kunnes tomaatit hajoavat paksuksi kastikkeeksi.",
+      "Laske lämpö pieneksi. Lisää maapähkinävoi lusikallinen kerrallaan koko ajan sekoittaen, kunnes kastike on kermaista ja paksua.",
+      "Lisää lehdet erissä ja anna jokaisen erän nuutua ennen seuraavaa.",
+      "Lisää vettä niin, että seos on padan paksuista. Mausta suolalla ja pippurilla ja sekoita.",
+      "Peitä ja hauduta miedolla lämmöllä 20–30 minuuttia välillä sekoittaen, kunnes lehdet ovat pehmeitä. Lisää tarvittaessa vettä.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-muceere-ugandan-pumpkin-stew",
+    "title": "Ugandalainen kurpitsa-kookospata",
+    "description": "Lämmin ja mausteinen kasvispata kurpitsasta, paprikoista ja kookosmaidosta curryn, kuminan ja korianterin kera.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "afrikkalainen", "pata", "kurpitsa"],
+    "ingredients": [
+      "5 dl kurpitsaa, kuorittuna ja kuutioituna",
+      "2,5 dl kookosmaitoa",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 punainen paprika, kuutioituna",
+      "1 vihreä paprika, kuutioituna",
+      "1 tomaatti, pilkottuna",
+      "1 rkl rypsiöljyä",
+      "1 tl currya",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "½ tl kurkumaa",
+      "½ tl paprikajauhetta",
+      "1 ripaus suolaa",
+      "1 ripaus mustapippuria",
+      "tuoretta korianteria tai persiljaa koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskilämmöllä.",
+      "Kuullota sipuli ja valkosipuli.",
+      "Lisää paprikat ja tomaatti ja kypsennä muutama minuutti, kunnes ne pehmenevät.",
+      "Lisää mausteet ja sekoita hyvin.",
+      "Kaada joukkoon kookosmaito ja sekoita.",
+      "Lisää kurpitsa ja sekoita varovasti.",
+      "Mausta suolalla ja pippurilla.",
+      "Peitä ja hauduta miedolla lämmöllä noin 15–20 minuuttia, kunnes kurpitsa on pehmeää. Sekoita välillä.",
+      "Nosta liedeltä.",
+      "Tarjoa kuumana korianterilla tai persiljalla koristeltuna riisin tai leivän kanssa."
+    ],
+    "notes": ["Pataan voi lisätä porkkanaa tai vihreitä papuja. Kookoskermalla padasta tulee kermaisempi."]
+  },
+  {
+    "id": "wikibooks-muffuletta-sandwich",
+    "title": "Muffuletta – New Orleansin oliivivoileipä",
+    "description": "New Orleansin italialaisyhteisön kuuluisa iso voileipä: pyöreä leipä täytettynä leikkeleillä, juustoilla ja oliivitahnalla.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["liha", "voileipä", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "1 pyöreä leipä (n. 25 cm halkaisijaltaan)",
+      "2 dl oliivitahnaa (oliivisalaattia)",
+      "100 g kinkkua, viipaloituna",
+      "100 g mortadellaa, viipaloituna",
+      "150 g salamia, viipaloituna",
+      "100 g emmentaljuustoa, viipaloituna",
+      "100 g provolonea, viipaloituna"
+    ],
+    "instructions": [
+      "Halkaise leipä vaakasuunnassa ja levitä molemmille leikkuupinnoille oliivitahnaa.",
+      "Lado alapuoliskolle salami, kinkku, emmental, provolone, mortadella ja toinen kerros salamia.",
+      "Peitä yläpuoliskolla ja paina tiiviiksi.",
+      "Leikkaa neljään osaan ja tarjoa, tai kääri tiiviisti kelmuun myöhempää varten."
+    ]
+  }
+]

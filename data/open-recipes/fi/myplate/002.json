@@ -1,0 +1,636 @@
+[
+  {
+    "id": "myplate-baked-cauliflower-tots",
+    "title": "Uunissa paistetut kukkakaalipötköt",
+    "description": "Juustoinen maku tekee kukkakaaliriisistä herkullisen tuntuisen.",
+    "servings": 3,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "lapsille"],
+    "ingredients": [
+      "5 dl kukkakaalia, raastettuna tai hienoksi hienonnettuna (n. ½ kukkakaalia)",
+      "1 kananmuna",
+      "3 rkl vehnäjauhoja",
+      "½ dl cheddarjuustoa, raastettuna",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen ja voitele uunipelti ohuelti.",
+      "Sekoita kaikki ainekset kulhossa hyvin.",
+      "Painele seoksesta noin 15 pientä palloa tai pötköä ja asettele ne pellille väljästi.",
+      "Paista 20 minuuttia kypsiksi.",
+      "Rapeampia varten grillaa vielä 2 minuuttia grillivastuksen alla tarkasti seuraten."
+    ]
+  },
+  {
+    "id": "myplate-baked-chicken-nuggets",
+    "title": "Uunissa paistetut kananuggetit",
+    "description": "Kotitekoiset kananuggetit maissihiutalekuorrutteella – uunissa tai mikrossa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "lapsille", "uuniruoka"],
+    "ingredients": [
+      "700 g broilerin reisifileitä (luuttomia, nahattomia)",
+      "2½ dl maissihiutaleita",
+      "1 tl paprikajauhetta",
+      "½ tl italialaista yrttisekoitusta",
+      "¼ tl valkosipulijauhetta",
+      "¼ tl sipulijauhetta"
+    ],
+    "instructions": [
+      "Leikkaa kana suupaloiksi.",
+      "Laita maissihiutaleet muovipussiin ja murskaa kaulimella.",
+      "Lisää mausteet pussiin, sulje ja ravista sekaisin.",
+      "Lisää kanapaloja muutama kerrallaan ja ravista, kunnes ne ovat tasaisesti kuorrutteen peitossa.",
+      "Uunissa: kuumenna uuni 200 asteeseen ja voitele pelti ohuelti. Asettele palat pellille niin, etteivät ne kosketa toisiaan, ja paista kullanruskeiksi, noin 12–14 minuuttia.",
+      "Mikrossa: voitele noin 20 x 30 cm:n vuoka, asettele palat väljästi ja peitä leivinpaperilla. Kypsennä täydellä teholla 6–8 minuuttia ja käännä paloja 2–3 minuutin välein."
+    ]
+  },
+  {
+    "id": "myplate-baked-chicken-vegetables",
+    "title": "Uunikana ja juurekset",
+    "description": "Porkkanat, perunat ja sipulit paahtuvat kanan kanssa – koko ateria samasta vuoasta.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "peruna", "gluteeniton"],
+    "ingredients": [
+      "4 keskikokoista perunaa, viipaloituna",
+      "6 porkkanaa, viipaloituna",
+      "1 iso sipuli, neljään osaan",
+      "1 kokonainen broileri, paloiteltuna ja nahka poistettuna",
+      "1¼ dl vettä",
+      "1 tl timjamia",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Laita perunat, porkkanat ja sipulit isoon uunivuokaan.",
+      "Nosta kanapalat kasvisten päälle.",
+      "Sekoita vesi, timjami ja pippuri ja kaada kanan ja kasvisten päälle.",
+      "Paista vähintään tunti, kunnes kana on ruskistunut ja kypsää. Valele kanaa paistoliemellä kerran tai kahdesti."
+    ]
+  },
+  {
+    "id": "myplate-baked-chicken",
+    "title": "Yksinkertainen uunikana",
+    "description": "Uunikana ilman kikkailua – valkosipulijauhe ja pippuri riittävät mausteeksi.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "450 g broilerin fileitä (luuttomia, nahattomia)",
+      "1 tl valkosipulijauhetta",
+      "1 tl mustapippuria",
+      "suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja laita kana uunivuokaan.",
+      "Ripottele päälle valkosipulijauhetta ja pippuria maun mukaan.",
+      "Paista, kunnes kana on kypsää (sisälämpö 74 astetta) – fileillä noin 25–35 minuuttia."
+    ],
+    "notes": ["Alkuperäinen ohje neuvoo paistamaan tunnin, mikä kuivattaa luuttomat fileet; tarkista kypsyys lämpömittarilla."]
+  },
+  {
+    "id": "myplate-baked-eggs-cheese",
+    "title": "Uunimunakas juustolla",
+    "description": "Tuunaa munakasta lempikasviksillasi tai tarjoa tuoreen salsan kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "6 kananmunaa",
+      "1¼ dl rasvatonta maitoa",
+      "1¼ dl kevytjuustoraastetta",
+      "1 tl valkosipulijauhetta",
+      "1½ tl oreganoa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Kaada öljy keskikokoiseen uunivuokaan ja kuumenna vuokaa uunissa muutama minuutti.",
+      "Vatkaa munat kulhossa ja sekoita joukkoon loput ainekset.",
+      "Kaada kuumaan vuokaan.",
+      "Paista noin 20 minuuttia, kunnes munat ovat hyytyneet. Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-baked-fish-0",
+    "title": "Yrttinen uunikala",
+    "description": "Yrtit ja mausteet antavat turskalle makua helpossa arkiruoassa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "450 g turskafileetä (tuoretta tai pakastettua)",
+      "¼ tl paprikajauhetta",
+      "¼ tl valkosipulijauhetta",
+      "¼ tl sipulijauhetta",
+      "ripaus mustapippuria",
+      "¼ tl kuivattua oreganoa",
+      "¼ tl kuivattua timjamia",
+      "1 rkl sitruunamehua",
+      "1½ rkl margariinia, sulatettuna"
+    ],
+    "instructions": [
+      "Sulata pakastekala pakkauksen ohjeen mukaan.",
+      "Kuumenna uuni 175 asteeseen. Jaa kala neljään osaan ja asettele voitelemattomaan uunivuokaan.",
+      "Sekoita mausteet pienessä kulhossa.",
+      "Ripottele mausteseos ja sitruunamehu tasaisesti kalan päälle ja valuta päälle sulatettu margariini.",
+      "Paista noin 20–25 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi."
+    ]
+  },
+  {
+    "id": "myplate-baked-fish-and-vegetables",
+    "title": "Folionyytissä paistettu kala ja kasvikset",
+    "description": "Pakastekala on nopea vaihtoehto: kääri se kasvisten kanssa folioon ja paista.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "450 g vaaleaa kalafileetä (4 palaa, esim. turska tai ahven, pakaste käy)",
+      "5 dl pakastekasviksia",
+      "1 pieni sipuli, kuutioituna",
+      "1 tl sitruunamehua tai ohuita sitruunaviipaleita",
+      "1 rkl kuivattua persiljaa (tai tuoretta hienonnettuna)",
+      "sitruunankuorta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen. Leikkaa neljä noin 25 x 30 cm:n foliopalaa ja nosta kalafilee kunkin keskelle.",
+      "Sekoita kasvikset ja sipuli ja lusikoi ne kalan ympärille.",
+      "Valuta päälle sitruunamehu tai lisää sitruunaviipaleet tai -kuorta.",
+      "Ripottele päälle persilja tai muita yrttejä.",
+      "Taita folion reunat tiiviisti yhteen.",
+      "Paista 20 minuuttia ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-baked-fish-creole-sauce",
+    "title": "Uunikala kreolikastikkeessa",
+    "description": "Tomaattipohjainen kreolikastike sipulilla, paprikalla ja mausteilla piristää kalan kuin kalan.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "amerikkalainen", "gluteeniton"],
+    "ingredients": [
+      "450 g kalafileetä (tuoretta tai pakastettua)",
+      "½ sipulia, ohuina viipaleina",
+      "½ vihreää paprikaa, ohuina suikaleina",
+      "2 dl tomaattisosetta (passata)",
+      "1 tl chilijauhetta",
+      "ripaus mustapippuria",
+      "¼ tl suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata pakastekala jääkaapissa yön yli.",
+      "Kuumenna uuni 190 asteeseen. Asettele kala yhteen kerrokseen uunivuokaan.",
+      "Lisää päälle sipuli- ja paprikaviipaleet.",
+      "Sekoita tomaattisose, chilijauhe, suola ja pippuri ja kaada kalan päälle.",
+      "Peitä vuoka ja paista 20–30 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi."
+    ]
+  },
+  {
+    "id": "myplate-baked-fish-tomatoes-peppers-onions",
+    "title": "Uunikala tomaatin, paprikan ja sipulin kanssa",
+    "description": "Nopea ja helppo kala kiireiseen iltaan. Tarjoa vihersalaatin ja täysjyväsämpylän tai tumman riisin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea", "gluteeniton"],
+    "ingredients": [
+      "450 g turskafileetä tai muuta vaaleaa kalaa (sulatettuna)",
+      "½ dl vihreää paprikaa, pilkottuna",
+      "200 g tomaattimurskaa (½ tlk)",
+      "½ dl sipulia, pilkottuna",
+      "¼ tl oreganoa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele noin 23 x 33 cm:n uunivuoka.",
+      "Leikkaa kala neljään osaan ja nosta vuokaan.",
+      "Lisää päälle paprika, tomaatit, sipuli ja oregano.",
+      "Paista noin 20 minuuttia, kunnes kala irtoaa lohkoiksi."
+    ]
+  },
+  {
+    "id": "myplate-baked-fish",
+    "title": "Foliokala sipulilla",
+    "description": "Folionyytissä paistettu kala vihannesten ja riisin, pastan tai perunoiden kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "öljyä folion voiteluun",
+      "450 g kalafileetä (esim. siika, taimen tai tilapia)",
+      "1 sipuli, viipaloituna",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "2 tl rypsiöljyä",
+      "¼ tl sitruunapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Levitä pöydälle noin 30 cm:n foliopala ja voitele se.",
+      "Nosta fileet folion keskelle, nahkapuoli alaspäin.",
+      "Levitä päälle sipuli, suola, pippuri ja öljy sekä halutessasi sitruunapippuri.",
+      "Taita folio kalan päälle nyytiksi ja nosta uunipellille.",
+      "Paista 15–20 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi.",
+      "Jaa neljään annokseen ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-baked-lemon-chicken",
+    "title": "Uunissa paistettu sitruunakana",
+    "description": "Sitruunalla, sipulilla ja timjamilla maustettu uunikana.",
+    "servings": 5,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "1,6 kg kokonainen broileri, nahka poistettuna ja 10 palaan paloiteltuna",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "1½ valkosipulinkynttä, ohuina viipaleina",
+      "4 tl tuoretta timjamia (tai 1 tl kuivattua)",
+      "7 dl sipulia, ohuina viipaleina",
+      "3½ dl kanalientä (tai vettä)",
+      "½ dl sitruunamehua",
+      "1 sitruuna, 10 viipaleena"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Sekoita suola, pippuri, valkosipuli ja timjami.",
+      "Asettele kanapalat uunivuokaan ja ripottele mausteet päälle.",
+      "Kuumenna sipulit, liemi ja sitruunamehu kattilassa kiehuvaksi.",
+      "Kaada kuuma sitruunaliemi kanan ympärille.",
+      "Nosta jokaisen kanapalan päälle sitruunaviipale.",
+      "Paista noin 30 minuuttia, kunnes kana on kullanruskeaa ja lihaneste kirkasta."
+    ]
+  },
+  {
+    "id": "myplate-baked-lentils-casserole",
+    "title": "Uunilinssivuoka",
+    "description": "Linssit, kasvikset ja juusto uunissa – täydellinen kasvisateria yhdestä vuoasta.",
+    "servings": 5,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "uuniruoka", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "2½ dl linssejä (vihreitä tai ruskeita), huuhdeltuna",
+      "1¾ dl vettä",
+      "½ tl suolaa",
+      "¼ tl mustapippuria (valinnainen)",
+      "¼ tl valkosipulijauhetta (valinnainen)",
+      "1¼ dl sipulia, pilkottuna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "2 porkkanaa, ohuina viipaleina",
+      "1¼ dl cheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sekoita linssit, vesi, mausteet, sipuli ja tomaatit.",
+      "Kaada noin 2 litran uunivuokaan ja peitä tiiviisti kannella tai foliolla.",
+      "Paista 30 minuuttia.",
+      "Ota vuoka uunista, lisää porkkanat ja sekoita.",
+      "Peitä ja paista vielä 30 minuuttia.",
+      "Poista kansi, ripottele päälle juusto ja paista ilman kantta 5 minuuttia, kunnes juusto sulaa."
+    ]
+  },
+  {
+    "id": "myplate-baked-meatballs",
+    "title": "Uunilihapullat",
+    "description": "Tee lihapullat heti syötäviksi tai pakasta myöhempää pikaillallista varten. Ohjeesta tulee noin 24 pullaa.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa (tai kalkkunan jauhelihaa)",
+      "1 kananmuna",
+      "½ tl kuivattua persiljaa",
+      "1¼ dl korppujauhoja",
+      "1¼ dl kevytmaitoa",
+      "¼ tl mustapippuria",
+      "1 tl sipulijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Sekoita kaikki ainekset ja pyöritä noin 24 pullaa.",
+      "Asettele pullat voidelluille uunipelleille.",
+      "Paista 12–15 minuuttia. Tarkista kypsyys lämpömittarilla: naudanlihan 71 astetta, kalkkunan 74 astetta.",
+      "Jos säästät pullia myöhemmäksi, jäähdytä ne nopeasti, pakkaa ateriakohtaisiin annoksiin ja pakasta heti."
+    ]
+  },
+  {
+    "id": "myplate-baked-parmesan-fish",
+    "title": "Parmesaanikuorrutettu uunikala sienikastikkeella",
+    "description": "Parmesaanilla kuorrutettu vaalea kala sieni-sipulipaistoksen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "sienet"],
+    "ingredients": [
+      "¾ dl parmesaania, raastettuna",
+      "1 tl vehnäjauhoja",
+      "1 tl timjaminlehtiä, murskattuna",
+      "4 tilapia- tai muuta vaaleaa kalafilettä (à 170 g)",
+      "1 sipuli, pilkottuna",
+      "2½ dl herkkusieniä, puolitettuna",
+      "1¼ dl kevätsipulia, ohuina viipaleina",
+      "1 valkosipulinkynsi, murskattuna",
+      "1 tl rypsiöljyä",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Laita juusto, jauhot ja timjami paperipussiin.",
+      "Ravista kalat yksitellen kevyesti pussissa kuorrutteeseen.",
+      "Asettele fileet ritilälle uunivuoan päälle.",
+      "Paista 20 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi.",
+      "Kuumenna paistinpannu keskikovalla lämmöllä tilkassa öljyä ja paista sipulia, sieniä, kevätsipulia ja valkosipulia usein sekoittaen, kunnes sipulit ovat pehmeitä. Mausta mustapippurilla.",
+      "Tarjoile kala sieniseoksen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-baked-pork-chops",
+    "title": "Uunissa paistetut porsaankyljykset paprikoilla",
+    "description": "Vihreät ja punaiset paprikat juhlistavat kyljyksiä.",
+    "servings": 6,
+    "totalTimeMin": 115,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "6 porsaan ulkofileekyljystä (1 cm paksuja)",
+      "1 sipuli, ohuina viipaleina",
+      "1¼ dl vihreää paprikaa, pilkottuna",
+      "1¼ dl punaista paprikaa, pilkottuna",
+      "ripaus mustapippuria",
+      "¼ tl suolaa",
+      "tuoretta persiljaa koristeeksi"
+    ],
+    "instructions": [
+      "Poista kyljyksistä ylimääräinen rasva ja asettele ne noin 23 x 33 cm:n uunivuokaan.",
+      "Levitä päälle sipuli ja paprikat ja mausta pippurilla ja suolalla.",
+      "Jäähdytä tunti.",
+      "Kuumenna uuni 190 asteeseen. Peitä vuoka ja paista 30 minuuttia.",
+      "Poista kansi, käännä kyljykset, levitä sipulit ja paprikat takaisin päälle, peitä ja paista vielä 15 minuuttia, kunnes sisälämpö on 63 astetta. Koristele persiljalla."
+    ]
+  },
+  {
+    "id": "myplate-baked-potatoes-primavera",
+    "title": "Uuniperunat kasvistäytteellä",
+    "description": "Yksinkertainen yrttinen kermaviilikastike ja pakastekasvikset nostavat uuniperunat uudelle tasolle.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "peruna", "nopea", "gluteeniton"],
+    "ingredients": [
+      "4 keskikokoista perunaa",
+      "1 l pakastekasviksia",
+      "2½ dl rasvatonta kermaviiliä",
+      "½ tl kuivattua oreganoa",
+      "½ tl kuivattua basilikaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pistele perunat haarukalla useasta kohdasta.",
+      "Kypsennä mikrossa täydellä teholla pehmeiksi, noin 3–4 minuuttia perunaa kohden.",
+      "Höyrytä kasvikset kuumiksi.",
+      "Sekoita kermaviili, yrtit ja pippuri.",
+      "Halkaise perunat ja täytä höyrytetyillä kasviksilla.",
+      "Lisää päälle kermaviiliä ja tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-baked-rice-spinach",
+    "title": "Pinaatti-riisivuoka",
+    "description": "Lehtivihanneksia ja kuitupitoista tummaa riisiä – lisukkeeksi tai täyttäväksi pääruoaksi.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "uuniruoka", "riisi", "gluteeniton"],
+    "ingredients": [
+      "öljyä vuoan voiteluun",
+      "1 ps (300 g) pakastepinaattia, sulatettuna",
+      "2½ dl keitettyä tummaa riisiä",
+      "2 rkl oliiviöljyä",
+      "7 kananmunan valkuaista (n. 2½ dl)",
+      "1¾ dl kevytmozzarellaa, raastettuna",
+      "2½ dl rasvatonta maitoa",
+      "½ sipulia, pilkottuna",
+      "½ tl worcestershirekastiketta",
+      "¼ tl kuivattua meiramia",
+      "¼ tl kuivattua timjamia",
+      "¼ tl kuivattua rosmariinia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele noin 2 litran uunivuoka.",
+      "Laita sulanut pinaatti siivilään ja purista ylimääräinen vesi pois.",
+      "Laita pinaatti isoon kulhoon ja lisää loput ainekset. Sekoita.",
+      "Kaada seos vuokaan ja paista 30 minuuttia.",
+      "Leikkaa kahdeksaan palaan ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-baked-salmon-herbs-lemon",
+    "title": "Uunilohi yrteillä ja sitruunalla",
+    "description": "Paahda sesongin kasviksia samalla, kun lohi kypsyy uunissa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "450 g lohifileetä (tuoretta tai pakastettua)",
+      "¼ tl paprikajauhetta",
+      "¼ tl sipulijauhetta",
+      "¼ tl valkosipulijauhetta",
+      "ripaus mustapippuria",
+      "ripaus kuivattua oreganoa",
+      "ripaus kuivattua timjamia",
+      "1 rkl sitruunamehua",
+      "1½ rkl margariinia, sulatettuna"
+    ],
+    "instructions": [
+      "Sulata pakastekala jääkaapissa pakkauksen ohjeen mukaan.",
+      "Kuumenna uuni 175 asteeseen. Jaa kala neljään osaan ja nosta uunivuokaan.",
+      "Sekoita mausteet pienessä kulhossa.",
+      "Ripottele mausteet ja sitruunamehu kalan päälle ja valuta päälle sulatettu margariini.",
+      "Paista noin 20–25 minuuttia, kunnes kala irtoaa haarukalla lohkoiksi."
+    ]
+  },
+  {
+    "id": "myplate-baked-squash-apple-spices",
+    "title": "Uunikurpitsa omenalla ja mausteilla",
+    "description": "Herkullinen syksyinen lisuke lempiomenoistasi ja talvikurpitsasta.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "syksy", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "6 dl talvikurpitsaa (esim. myskikurpitsaa), viipaloituna",
+      "3½ dl omenaa, viipaloituna",
+      "½ tl muskottipähkinää",
+      "1 tl kanelia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Pese ja käsittele kurpitsa ja omenat (omenoihin voi jättää kuoren).",
+      "Viipaloi kurpitsa ja omenat.",
+      "Lado kurpitsa- ja omenaviipaleet vuorotellen noin 20 x 20 cm:n vuokaan; viimeiseksi omenaa.",
+      "Ripottele mausteet päälle ja peitä foliolla.",
+      "Paista 45–60 minuuttia, kunnes kurpitsa on pehmeää."
+    ]
+  },
+  {
+    "id": "myplate-baked-tofu",
+    "title": "Uunitofu soija-inkiväärimarinadissa",
+    "description": "Inkivääri, soija ja valkosipuli maustavat proteiinipitoisen tofun.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "tofu", "uuniruoka"],
+    "ingredients": [
+      "1 pkt (400 g) kiinteää tofua",
+      "2 rkl vähäsuolaista soijakastiketta",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 tl tuoretta inkivääriä, hienonnettuna",
+      "1 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja vuoraa reunallinen uunipelti foliolla.",
+      "Valuta tofu, kääri talouspaperiin ja anna seistä noin 5 minuuttia.",
+      "Sekoita sillä välin soijakastike, valkosipuli, inkivääri ja öljy.",
+      "Leikkaa tofu 1 cm:n viipaleiksi ja asettele pellille.",
+      "Kaada soijaseos päälle ja käännä viipaleita varovasti lastalla, jotta molemmat puolet maustuvat.",
+      "Paista 15 minuuttia, käännä ja paista vielä 15 minuuttia, kunnes tofu on kevyesti kullanruskeaa ja kiinteää.",
+      "Tarjoile lihan sijaan tai lisää paloina wokkiin, paistettuun riisiin, keittoon tai salaattiin."
+    ]
+  },
+  {
+    "id": "myplate-baked-tortilla-chips",
+    "title": "Uunissa paistetut tortillalastut",
+    "description": "Tee omat tortillalastut täysjyvä- tai maissitortilloista.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "meksikolainen", "nopea"],
+    "ingredients": [
+      "3 isoa täysjyvätortillaa (25 cm)",
+      "1 tl rypsiöljyä",
+      "suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen ja voitele uunipelti ohuelti.",
+      "Leikkaa tortillat pizzan tapaan kahdeksaan osaan ja asettele pellille.",
+      "Sivele pinnat ohuelti öljyllä ja suolaa halutessasi.",
+      "Paista noin 10 minuuttia rapeiksi ja vaalean ruskeiksi tarkasti seuraten, etteivät lastut pala."
+    ]
+  },
+  {
+    "id": "myplate-baked-trout",
+    "title": "Uunitaimen limetillä ja tomaatilla",
+    "description": "Kirpeä limetti, makea tomaatti ja sipuli tekevät taimenesta värikkään ja maukkaan.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea", "gluteeniton"],
+    "ingredients": [
+      "900 g taimenfileetä, kuuteen palaan (tai muuta kalaa)",
+      "3 rkl limettimehua (2–3 limettiä)",
+      "1 tomaatti, pilkottuna",
+      "½ sipulia, pilkottuna",
+      "1¼ dl punaista paprikaa, pilkottuna",
+      "3 rkl korianteria, hienonnettuna",
+      "½ tl oliiviöljyä",
+      "¼ tl mustapippuria",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Kuivaa kala ja nosta uunivuokaan.",
+      "Sekoita loput ainekset ja kaada kalan päälle.",
+      "Paista 15–20 minuuttia, kunnes kala on kypsää."
+    ]
+  },
+  {
+    "id": "myplate-banana-berry-muffins",
+    "title": "Banaani-marjamuffinit",
+    "description": "Mehevät täysjyvämuffinit banaanilla ja marjoilla – sopivat milloin vain.",
+    "servings": 12,
+    "totalTimeMin": 45,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinit", "leivonnainen"],
+    "ingredients": [
+      "öljyä vuoan voiteluun",
+      "½ dl omenasosetta",
+      "½ dl sokeria",
+      "1 kananmuna",
+      "2 kypsää banaania, survottuna",
+      "2 rkl vettä",
+      "½ dl vehnäjauhoja",
+      "½ dl täysjyvävehnäjauhoja",
+      "½ dl kaurahiutaleita",
+      "½ tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "½ dl mustikoita tai mansikoita (tuoreita tai pakastettuja)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele 12-paikkainen muffinivuoka.",
+      "Sekoita kulhossa omenasose, sokeri, muna, banaani ja vesi.",
+      "Sekoita isossa kulhossa jauhot, kaurahiutaleet, leivinjauhe, ruokasooda ja suola.",
+      "Lisää banaaniseos kuiviin aineksiin ja sekoita vain sen verran, että taikina kostuu.",
+      "Kääntele marjat varovasti joukkoon.",
+      "Täytä vuoan kolot noin kolmen neljäsosan korkeudelle.",
+      "Paista 25–30 minuuttia kevyesti ruskeiksi.",
+      "Anna jäähtyä 10 minuuttia ja irrota vuoasta."
+    ]
+  },
+  {
+    "id": "myplate-banana-bread",
+    "title": "Banaanileipä",
+    "description": "Peräti kolme banaania leipää kohden – oiva tapa käyttää ylikypsät banaanit.",
+    "servings": 12,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "leivonnainen"],
+    "ingredients": [
+      "3 isoa ylikypsää banaania",
+      "1 kananmuna",
+      "2 rkl rypsiöljyä",
+      "¾ dl rasvatonta maitoa",
+      "¾ dl sokeria",
+      "1 tl suolaa",
+      "1 tl ruokasoodaa",
+      "½ tl leivinjauhetta",
+      "3½ dl vehnäjauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Kuori banaanit ja survo ne kulhossa haarukalla.",
+      "Lisää muna, öljy, maito, sokeri, suola, ruokasooda ja leivinjauhe ja sekoita hyvin.",
+      "Sekoita jauhot joukkoon vähitellen noin 20 sekunnin ajan, kunnes ne ovat kostuneet.",
+      "Voitele noin 1,5 litran leipävuoka tai vuoraa se leivinpaperilla.",
+      "Kaada taikina vuokaan.",
+      "Paista 45 minuuttia, kunnes keskelle pistetty tikku tulee puhtaana ulos.",
+      "Anna jäähtyä 5 minuuttia ennen kuin kumoat leivän vuoasta."
+    ]
+  },
+  {
+    "id": "myplate-banana-cocoa-yogurt-pops",
+    "title": "Banaani-kaakaojogurttijäätelöt",
+    "description": "Kermaiset jogurttipuikot banaanista, kaakaosta ja jogurtista.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "lapsille", "gluteeniton", "kesä"],
+    "ingredients": [
+      "1 banaani",
+      "2½ dl kevyttä vaniljajogurttia",
+      "2 tl kaakaojauhetta",
+      "pieniä muffinivuokia tai paperimukeja",
+      "jäätelötikkuja tai paperipillejä"
+    ],
+    "instructions": [
+      "Survo banaani haarukalla.",
+      "Lisää jogurtti ja sekoita hyvin.",
+      "Sekoita joukkoon kaakaojauhe.",
+      "Jaa seos kahdeksaan pieneen muffinivuokaan tai neljään paperimukiin.",
+      "Työnnä joukkoon tikut tai lyhennetyt pillit.",
+      "Pakasta kiinteiksi ja nauti!"
+    ]
+  }
+]

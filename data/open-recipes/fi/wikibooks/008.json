@@ -1,0 +1,501 @@
+[
+  { "id": "wikibooks-baklava-with-pistachio-nuts", "skip": "lähes sama resepti kuin aiempi baklava" },
+  { "id": "wikibooks-balangu-nigerian-spiced-ram-meat", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-balangu-jollof-nigerian-ram-and-seasoned-rice", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-baloney-sandwich",
+    "title": "Mortadellasämpylä",
+    "description": "Yksinkertainen amerikkalainen leikkelesämpylä sinapilla.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["liha", "nopea", "leipä", "amerikkalainen"],
+    "ingredients": [
+      "16 viipaletta mortadellaa tai lauantaimakkaraa",
+      "2 rkl sinappia",
+      "1 sämpylä, halkaistuna"
+    ],
+    "instructions": [
+      "Kasaa makkaraviipaleet sämpylän alaosalle limittäin niin, että ne roikkuvat hieman reunojen yli.",
+      "Levitä sinappia sämpylän yläosan sisäpuolelle ja nosta se täytteen päälle."
+    ],
+    "notes": ["Täytteeksi sopivat myös tomaatti, salaatti, majoneesi ja juusto."]
+  },
+  {
+    "id": "wikibooks-balsamic-dressing",
+    "title": "Balsamicokastike",
+    "description": "Klassinen balsamietikka-oliiviöljykastike vihreälle salaatille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "nopea", "salaatti", "italialainen"],
+    "ingredients": [
+      "2 rkl balsamietikkaa",
+      "6 rkl oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "salaattisekoitusta tarjoiluun"
+    ],
+    "instructions": [
+      "Vatkaa etikka, suola ja pippuri keskenään.",
+      "Vatkaa öljy joukkoon ohuena nauhana.",
+      "Tarjoa salaattisekoituksen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-balsamic-glaze",
+    "title": "Balsamicokastike kasviksille",
+    "description": "Makeahko balsamico-tomaattikastike lämpimien kaalikasvisten päälle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "kastike"],
+    "ingredients": [
+      "½ dl balsamietikkaa",
+      "1 rkl hunajaa",
+      "1 tl hienonnettua valkosipulia",
+      "1 tl hienonnettua inkivääriä",
+      "1 tl oliiviöljyä",
+      "1 tomaatti, siemenet poistettuina ja pilkottuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Soseuta ainekset tehosekoittimessa juuri ja juuri soseeksi.",
+      "Siirrä tarttumattomaan kattilaan.",
+      "Kuumenna kiehuvaksi ja laske heti lämpö keskitasolle.",
+      "Keitä usein sekoittaen, kunnes kastike on hieman siirappimaista.",
+      "Maista ja lisää hunajaa, jos kastike on liian hapanta. Mausta suolalla ja pippurilla.",
+      "Valuta kuumien kypsien kasvisten päälle ja tarjoa heti. Säilyy peitettynä jääkaapissa 3 päivää."
+    ]
+  },
+  {
+    "id": "wikibooks-balsamic-marinade",
+    "title": "Balsamicomarinadi",
+    "description": "Tulinen balsamietikka-oliiviöljymarinadi lihalle tai kasviksille.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 2,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "nopea", "marinadi", "grilli"],
+    "ingredients": [
+      "2½ dl balsamietikkaa",
+      "1 rkl suolaa",
+      "2 rkl cayennepippuria",
+      "2½ dl oliiviöljyä",
+      "1 rkl mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa pakastepussissa. Lisää marinoitava ja marinoi tavalliseen tapaan."
+    ]
+  },
+  {
+    "id": "wikibooks-balsamic-steak-and-brie-paninis",
+    "title": "Balsamicopihvi-brie-panini",
+    "description": "Grillatut paninit ohuiksi leikatulla balsamicoentrecôtella ja briellä.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "leipä", "grilli"],
+    "ingredients": [
+      "2 luutonta entrecôtepihviä (yht. 340–450 g)",
+      "balsamietikkaa",
+      "suolaa",
+      "mustapippuria",
+      "sulatettua voita",
+      "12 viipaletta (1 cm) vaaleaa leipää",
+      "6 ohutta viipaletta brietä, kuori poistettuna"
+    ],
+    "instructions": [
+      "Sivele pihvit balsamietikalla ja mausta reilusti suolalla ja pippurilla.",
+      "Grillaa kannen alla usein käännellen haluttuun kypsyyteen (sisälämpö 60 astetta = puolikypsä, 68 astetta = lähes kypsä).",
+      "Anna levätä 10 minuuttia. Leikkaa ohuiksi viipaleiksi syitä vastaan vinosti ja pirskota päälle balsamietikkaa.",
+      "Laita juustoviipale puoleen leipäviipaleista, peitä pihvisuikaleilla ja nosta päälle toinen leipäviipale.",
+      "Sivele leipien ulkopinnat sulatetulla voilla.",
+      "Kuumenna grillipannu keskikorkealla lämmöllä 4–5 minuuttia. Paista leivät erissä molemmin puolin ruskeiksi, kunnes juusto sulaa. Tarjoa lämpiminä."
+    ]
+  },
+  { "id": "wikibooks-balsamic-vinaigrette-salad-dressing", "skip": "lähes sama resepti kuin edellinen balsamicokastike" },
+  {
+    "id": "wikibooks-banana-and-pear-cake-vegan",
+    "title": "Vegaaninen banaani-päärynäkakku",
+    "description": "Banaanikakku kookoskermalla, ruusuhillolla, päärynällä ja tummalla suklaalla.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kakku", "banaani"],
+    "ingredients": [
+      "Pohja:",
+      "3 banaania, soseutettuna",
+      "2½ dl fariinisokeria",
+      "1¼ dl oliiviöljyä",
+      "2½ dl riisijuomaa tai kookosmaitoa",
+      "5–6 dl vehnäjauhoja",
+      "1¼ dl riisijauhoja",
+      "10 g leivinjauhetta",
+      "Täyte ja koristelu:",
+      "500 g kookoskermaa",
+      "250 g ruusuhilloa",
+      "1 banaani, viipaloituna",
+      "1–2 päärynää, kuorittuina ja viipaloituina",
+      "100 g tummaa suklaata",
+      "1¼ dl kookoslastuja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Sekoita banaanisose, fariinisokeri, oliiviöljy ja riisi- tai kookosjuoma.",
+      "Sekoita jauhot ja leivinjauhe ja lisää ne vähitellen taikinaan.",
+      "Levitä taikina tarttumattomaan kakkuvuokaan.",
+      "Paista 40–45 minuuttia, kunnes kakku on ruskistunut ja tikku tulee ulos puhtaana.",
+      "Leikkaa jäähtynyt kakku vaakasuunnassa 2–3 levyksi.",
+      "Vatkaa kookoskerma kuohkeaksi.",
+      "Levitä ruusuhilloa ja kookoskermaa levyjen väliin ja jätä osa kermasta pinnalle.",
+      "Koristele kakku lopulla kookoskermalla, banaani- ja päärynäviipaleilla.",
+      "Raasta pinnalle halutessasi tummaa suklaata ja painele kookoslastuja reunoille.",
+      "Anna kakun jähmettyä jääkaapissa 15 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-bread-with-walnuts",
+    "title": "Banaanileipä saksanpähkinöillä",
+    "description": "Tiivis ja mehevä banaanikakku, jossa on runsaasti saksanpähkinöitä. Ohje tekee kaksi kakkua.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 100,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "banaani", "kakku", "uuniruoka"],
+    "ingredients": [
+      "490 g vehnäjauhoja",
+      "5½ tl leivinjauhetta",
+      "ripaus suolaa",
+      "225 g voita, pehmeänä",
+      "320 g ruokosokeria (+ pinnalle)",
+      "4 kananmunaa",
+      "950 g banaaneja, soseutettuna (n. 8–9 kpl)",
+      "6 dl saksanpähkinöitä, karkeasti rouhittuina"
+    ],
+    "instructions": [
+      "Sekoita jauhot, leivinjauhe ja suola.",
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Vatkaa munat ja lisää ne vähitellen voivaahtoon.",
+      "Lisää kolmannes jauhoseoksesta ja sitten puolet banaanisoseesta. Jatka vuorotellen, kunnes kaikki on sekoitettu.",
+      "Sekoita joukkoon saksanpähkinät.",
+      "Voitele ja vuoraa kaksi leipävuokaa. Jaa taikina vuokiin ja ripottele pinnalle ruokosokeria.",
+      "Paista 175 asteessa vähintään tunti. Tarkista sen jälkeen noin 10 minuutin välein: kypsään kakkuun pistetty tikku tulee ulos puhtaana tai vain kosteiden murujen kanssa.",
+      "Anna jäähtyä huoneenlämpöiseksi vuoissa ja kumoa."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-cake",
+    "title": "Banaanikakku",
+    "description": "Kostea ja kanelinen banaanikakku piimällä pyöreässä vuoassa.",
+    "servings": 8,
+    "totalTimeMin": 120,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "banaani", "kakku", "uuniruoka"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "1½ tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "½ tl suolaa",
+      "½ tl kanelia",
+      "115 g suolatonta voita, pehmeänä",
+      "2½ dl sokeria",
+      "2 kananmunaa",
+      "1½ tl vaniljauutetta",
+      "3 kypsää banaania, soseutettuna",
+      "1¼ dl piimää"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele ja jauhota 23 cm:n pyöreä vuoka.",
+      "Sekoita jauhot, leivinjauhe, ruokasooda, suola ja kaneli.",
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Lisää munat yksi kerrallaan ja sitten vanilja.",
+      "Sekoita joukkoon banaanisose.",
+      "Lisää kuivat aineet vuorotellen piimän kanssa, aloittaen ja lopettaen kuiviin aineisiin. Sekoita vain sen verran, että taikina on tasaista.",
+      "Kaada taikina vuokaan ja tasoita pinta.",
+      "Paista 45–50 minuuttia, kunnes tikku tulee ulos puhtaana.",
+      "Anna jäähtyä vuoassa 10 minuuttia ja siirrä ritilälle jäähtymään kokonaan.",
+      "Kuorruta halutessasi tuorejuustokuorrutteella tai tomusokerilla."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-caramel-dessert",
+    "title": "Banaani-kinuskileivokset",
+    "description": "Nopeat lehtitaikinaleivokset banaanilla, kanelilla ja kinuskikastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "banaani", "nopea"],
+    "ingredients": [
+      "2 banaania, kuorittuina ja viipaloituina",
+      "1 rkl vaniljauutetta",
+      "2 rkl voita, sulatettuna",
+      "1 pkt (n. 400 g) lehtitaikinaa",
+      "1 rkl kanelisokeria",
+      "2½ dl kinuskikastiketta",
+      "5–7 dl vaniljajäätelöä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Kääntele banaanit pienessä kulhossa vaniljan ja sulatetun voin kanssa.",
+      "Leikkaa taikinasta neljä neliötä pellille ja ripottele niille kanelisokeria. Nosta neljäsosa banaaniseoksesta jokaisen keskelle.",
+      "Paista 11–13 minuuttia, kunnes taikina on kullanruskea.",
+      "Lämmitä kinuskikastike ja valuta leivosten päälle. Tarjoa lämpiminä, halutessasi jäätelön kanssa."
+    ],
+    "notes": ["Alkuperäinen ohje käyttää amerikkalaista valmista kanelikierretaikinaa; tässä se on korvattu lehtitaikinalla ja kanelisokerilla."]
+  },
+  {
+    "id": "wikibooks-banana-chip-muffins",
+    "title": "Banaani-suklaamuffinit",
+    "description": "Kakkumaisen pehmeät banaanimuffinit suklaarakeilla.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "banaani", "muffinit", "suklaa"],
+    "ingredients": [
+      "4 dl vehnäjauhoja",
+      "1¼ dl sokeria",
+      "1 rkl leivinjauhetta",
+      "ripaus suolaa",
+      "1 dl suklaarouhetta",
+      "1 kananmuna",
+      "½ dl rypsiöljyä",
+      "½ dl maitoa",
+      "3 banaania, soseutettuna (n. 2½ dl)"
+    ],
+    "instructions": [
+      "Mittaa jauhot, sokeri, leivinjauhe, suola ja suklaa kulhoon ja tee keskelle kuoppa.",
+      "Vatkaa muna pienessä kulhossa vaahtoavaksi. Sekoita joukkoon öljy, maito ja banaani.",
+      "Kaada seos kuoppaan ja sekoita vain sen verran, että jauhot kostuvat. Taikina jää kokkareiseksi.",
+      "Täytä voidellut muffinivuoat ¾-täyteen ja paista 200 asteessa 15–20 minuuttia."
+    ],
+    "notes": ["Maistuvat parhailta lämpiminä."]
+  },
+  {
+    "id": "wikibooks-banana-chocolate-bread-pudding",
+    "title": "Banaani-suklaaleipävanukas",
+    "description": "Brittiläinen leipävanukas karamellisoiduilla banaaneilla, suklaalla ja maustetulla rommilla.",
+    "servings": 6,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "banaani", "suklaa", "uuniruoka"],
+    "ingredients": [
+      "½ dl suklaarouhetta",
+      "¾ dl maustettua rommia",
+      "4 kananmunaa",
+      "4½ dl kuohukermaa",
+      "1 tl vaniljauutetta",
+      "¾ dl sokeria",
+      "1 vaalea leipä (n. 450 g), mieluiten kuivahtanut",
+      "2 rkl voita",
+      "3 banaania"
+    ],
+    "instructions": [
+      "Liota suklaarouhetta 2 rkl:ssa rommia.",
+      "Vatkaa kulhossa munat, kerma, vanilja, loppu rommi ja 3 rkl sokeria.",
+      "Viipaloi leipä, poista kuoret ja leikkaa suikaleiksi. Jaa suikaleet kolmeen osaan.",
+      "Voitele leipävuoka.",
+      "Halkaise banaanit poikittain ja pituussuunnassa.",
+      "Sulata voi pannulla keskilämmöllä ja lisää banaanit ja loppu sokeri. Paista 2 minuuttia, käännä ja paista toiset 2 minuuttia.",
+      "Peitä vuoan pohja kolmanneksella leipäsuikaleista. Levitä päälle puolet banaaneista ja puolet suklaasta.",
+      "Lisää toinen kerros leipää ja kaada päälle puolet munaseoksesta. Anna imeytyä minuutti.",
+      "Lisää loput banaanit, suklaa ja leipä ja kaada päälle loppu munaseos.",
+      "Anna seistä noin 15 minuuttia sillä aikaa, kun uuni kuumenee 175 asteeseen.",
+      "Paista 50 minuuttia ja anna jäähtyä 10–15 minuuttia.",
+      "Tarjoa kermavaahdon tai vaniljajäätelön kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-coffee-frappe",
+    "title": "Banaani-kahvifrappé",
+    "description": "Vaahtoava jäinen kahvijuoma banaanista ja vaniljajäätelöstä.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "kahvi", "banaani"],
+    "ingredients": [
+      "1 dl jäätelöä (vanilja)",
+      "1 tl pikakahvijauhetta",
+      "½ banaania, paloiteltuna",
+      "6 jääpalaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Sekoita tasaiseksi ja vaahtoavaksi.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-cream-i",
+    "title": "Banaanikermahyytelö",
+    "description": "Mrs Beetonin kermainen banaanihyytelö liköörillä maustettuna.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["banaani", "brittiläinen", "hyytelö", "juhla"],
+    "ingredients": [
+      "3 keskikokoista tai 2 isoa banaania",
+      "2½ dl kuohukermaa",
+      "45 g sokeria",
+      "21 g liivatelehtiä",
+      "1 rkl lämmintä vettä",
+      "1¾ dl Bénédictine- tai maraschinolikööriä",
+      "punaista elintarvikeväriä"
+    ],
+    "instructions": [
+      "Vatkaa kerma kulhossa kovaksi vaahdoksi.",
+      "Paseeraa banaanit hienon siivilän läpi toiseen kulhoon. Lisää kermavaahto ja likööri ja sekoita kevyesti.",
+      "Liota liivatteet kylmässä vedessä, purista ja liuota lämpimään veteen. Sekoita joukkoon sokeri. Kun seos on hieman jäähtynyt, sekoita se kevyesti kermaseokseen ja lisää väriä tippa kerrallaan, kunnes väri on vaaleanpunainen.",
+      "Kaada vedellä huuhdeltuun muottiin ja anna hyytyä jääkaapissa."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-cream-ii",
+    "title": "Banaanivanukas",
+    "description": "Mrs Beetonin maitopohjainen vaniljavanukas banaaniviipaleilla.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "banaani", "brittiläinen", "gluteeniton"],
+    "ingredients": [
+      "57 g maissitärkkelystä",
+      "9½ dl maitoa",
+      "57 g sokeria",
+      "2 kananmunan keltuaista, vatkattuina",
+      "½ tl vaniljauutetta",
+      "2 banaania, ohuina viipaleina"
+    ],
+    "instructions": [
+      "Sekoita maissitärkkelys tilkkaan maitoa tasaiseksi tahnaksi.",
+      "Kuumenna loppu maito ja sokeri kattilassa. Kun maito kiehuu, lisää tärkkelystahna ja keitä noin 10 minuuttia sekoittaen.",
+      "Anna jäähtyä hieman, lisää keltuaiset ja sekoita, kunnes seos sakeutuu.",
+      "Lisää vanilja ja banaanit. Kaada jäähtynyt seos muottiin.",
+      "Anna jähmettyä jääkaapissa muutama tunti."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-cream-pie-i",
+    "title": "Banaanikermapiirakka",
+    "description": "Amerikkalainen piirakka: banaaneja vaniljakreemissä paistetussa pohjassa, päällä kermavaahtoa.",
+    "servings": 6,
+    "totalTimeMin": 100,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "banaani", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "1 esipaistettu piirakkapohja (23 cm)",
+      "Täyte:",
+      "1¼ dl sokeria",
+      "6 rkl vehnäjauhoja",
+      "¼ tl suolaa",
+      "6 dl maitoa",
+      "1 kananmuna, vatkattuna",
+      "1 rkl voita",
+      "½ tl vaniljauutetta",
+      "4 kypsää banaania, viipaloituna",
+      "½ dl sitruunamehua",
+      "Kermavaahto:",
+      "1¼ dl kuohukermaa",
+      "½ tl vaniljauutetta",
+      "1½ tl tomusokeria"
+    ],
+    "instructions": [
+      "Vatkaa vesihauteen yläosassa sokeri, jauhot, suola ja maito paakuttomaksi.",
+      "Kuumenna vesi alaosassa kiehuvaksi ja sekoita koko ajan, kunnes seos sakeutuu, noin 5 minuuttia.",
+      "Peitä kannella ja kypsennä vielä 10 minuuttia välillä sekoittaen.",
+      "Sekoita noin 1 dl kuumaa kreemiä vatkattuun munaan ja kaada seos takaisin kreemiin. Kypsennä koko ajan sekoittaen 2 minuuttia.",
+      "Nosta liedeltä ja sekoita joukkoon voi ja vanilja.",
+      "Kastele kahden banaanin viipaleet sitruunamehussa ja levitä piirakkapohjalle.",
+      "Kaada puolet kreemistä banaanien päälle niin, että ne peittyvät.",
+      "Kastele loput banaaniviipaleet sitruunamehussa, asettele kreemin päälle ja peitä lopulla kreemillä.",
+      "Jäähdytä noin tunti.",
+      "Vatkaa kerma, lisää vanilja ja tomusokeri ja vatkaa kuohkeaksi vaahdoksi. Älä vatkaa liikaa.",
+      "Levitä kermavaahto jäähtyneen piirakan päälle. Säilytä kylmässä tarjoiluun asti."
+    ]
+  },
+  { "id": "wikibooks-banana-cream-pie-ii", "skip": "lähes sama resepti kuin edellinen banaanikermapiirakka" },
+  { "id": "wikibooks-banana-cream-crunch-pie", "skip": "perustuu amerikkalaisiin valmistuotteisiin; lähes sama kuin aiempi banaanikermapiirakka" },
+  {
+    "id": "wikibooks-banana-curry",
+    "title": "Banaanicurry",
+    "description": "Intialaistyylinen kermainen curry hieman raaoista banaaneista.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "intialainen", "curry", "banaani"],
+    "ingredients": [
+      "750 g hieman raakoja banaaneja",
+      "½ tl juustokuminaa (kokonaisena)",
+      "½ tl kurkumaa",
+      "½ tl garam masalaa tai currya",
+      "2 tl sitruunamehua",
+      "1 dl maitoa",
+      "4 rkl kuohukermaa",
+      "½ tl chilijauhetta",
+      "30 g voita",
+      "suolaa"
+    ],
+    "instructions": [
+      "Leikkaa banaanit 2 cm:n viipaleiksi.",
+      "Lisää banaaneihin maito, kerma, garam masala, chili, sitruunamehu ja suola.",
+      "Sulata voi, lisää juustokumina ja kurkuma ja kuumenna keskimiedolla lämmöllä pari minuuttia, kunnes ne tuoksuvat.",
+      "Lisää banaanit kastikkeineen.",
+      "Kypsennä miedolla lämmöllä, kunnes banaanit ovat kypsiä (aika riippuu kypsyysasteesta). Älä keitä liikaa."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-milkshake",
+    "title": "Banaanipirtelö",
+    "description": "Kermainen pirtelö banaanista, vaniljajäätelöstä ja maidosta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "banaani"],
+    "ingredients": [
+      "1 iso tai 2 pientä banaania",
+      "3 dl jäätelöä (vanilja)",
+      "2 dl maitoa",
+      "1 tl sokeria",
+      "ripaus kanelia (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita banaani, jäätelö, sokeri ja maito tehosekoittimessa tasaiseksi ja kermaiseksi.",
+      "Lisää halutessasi ripaus kanelia."
+    ]
+  },
+  {
+    "id": "wikibooks-banana-nut-muffins",
+    "title": "Banaani-pähkinämuffinit",
+    "description": "Täysjyväiset banaanimuffinit pähkinöillä, vähän makeutettuina.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "banaani", "muffinit", "täysjyvä"],
+    "ingredients": [
+      "2 kananmunaa",
+      "1 rkl hunajaa tai sokeria",
+      "2½ dl maitoa tai soijajuomaa",
+      "½ dl rypsiöljyä",
+      "2–3 banaania, soseutettuna",
+      "1½ dl vehnäjauhoja",
+      "3 dl täysjyvävehnäjauhoja",
+      "½ tl suolaa",
+      "2 tl leivinjauhetta",
+      "1¼ dl saksanpähkinöitä, rouhittuina"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Voitele muffinipelti.",
+      "Sekoita munat, hunaja, maito, öljy ja banaanit.",
+      "Sekoita kuivat aineet ja kääntele ne varovasti nesteisiin. Taikina jää kokkareiseksi.",
+      "Paista 20–25 minuuttia.",
+      "Anna jäähtyä."
+    ]
+  },
+  { "id": "wikibooks-banana-nutmeg-pancakes", "skip": "lähes sama resepti kuin aiemmat mantelipannukakut" }
+]

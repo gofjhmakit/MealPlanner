@@ -1,0 +1,703 @@
+[
+  {
+    "id": "myplate-broccoli-baked-potatoes",
+    "title": "Täytetyt uuniperunat parsakaalilla",
+    "description": "Hyödynnä parsakaalin varret – maukas lisuke, välipala tai kevyt ateria.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "6 keskikokoista perunaa",
+      "3 parsakaalin vartta",
+      "½ dl kevytmaitoa",
+      "2½ dl kevytcheddarjuustoa, raastettuna",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Harjaa perunat ja pistele kuoret haarukalla.",
+      "Paista perunoita koosta riippuen 30–60 minuuttia, kunnes ne ovat pehmeitä.",
+      "Kuori parsakaalin varret, höyrytä juuri kypsiksi ja pilko pieniksi.",
+      "Halkaise perunat ja kaavi sisus kulhoon parsakaalin kanssa.",
+      "Lisää maito, ¾ juustosta, suola ja pippuri ja survo vaalean vihreäksi seokseksi.",
+      "Täytä perunankuoret seoksella ja ripottele päälle loput juustosta.",
+      "Lämmitä mikrossa tai uunissa läpikotaisin kuumiksi."
+    ]
+  },
+  {
+    "id": "myplate-broccoli-cheddar-frittata",
+    "title": "Parsakaali-cheddarfrittata",
+    "description": "Aamiaisen munaruoka, josta saa kasviksia kevytjuuston ja rasvattoman maidon kera.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "gluteeniton"],
+    "ingredients": [
+      "1 ps (300 g) pakasteparsakaalia, hienonnettuna",
+      "1 pieni porkkana, kuutioituna",
+      "½ dl vettä",
+      "8 kananmunaa",
+      "½ dl rasvatonta maitoa",
+      "2 tl sinappia",
+      "¾ tl maustesuolaa",
+      "ripaus mustapippuria",
+      "1¾ dl kevytcheddarjuustoa, raastettuna",
+      "1 rkl kevätsipulia, hienonnettuna",
+      "1 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Laita parsakaali, porkkana ja vesi noin 25 cm:n tarttumattomaan paistinpannuun.",
+      "Kypsennä keskilämmöllä noin 10 minuuttia välillä sekoittaen ja parsakaalia rikkoen. Valuta hyvin.",
+      "Vatkaa munat, maito, sinappi, suola ja pippuri isossa kulhossa.",
+      "Lisää kasvikset, juusto ja kevätsipuli ja sekoita.",
+      "Voitele sama pannu ohuelti öljyllä, kaada seos pannulle ja kypsennä keskilämmöllä, kunnes munat ovat melkein hyytyneet, 8–10 minuuttia.",
+      "Nosta liedeltä, peitä ja anna seistä 8–10 minuuttia, kunnes munat ovat täysin hyytyneet.",
+      "Leikkaa lohkoiksi."
+    ]
+  },
+  {
+    "id": "myplate-broccoli-omelet",
+    "title": "Parsakaalimunakkaat",
+    "description": "Tavallista kevyemmät munakkaat parsakaalilla, paprikalla, sienillä ja ricottalla.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "gluteeniton"],
+    "ingredients": [
+      "7 dl parsakaalin kukintoja",
+      "1 iso punainen paprika, suikaleina",
+      "16 herkkusientä, viipaloituna",
+      "1 rkl rypsiöljyä",
+      "4 kananmunaa",
+      "8 kananmunan valkuaista",
+      "½ dl rasvatonta maitoa",
+      "1¼ dl ricotta-juustoa",
+      "2 rkl parmesaania, raastettuna",
+      "ripaus suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Pilko kasvikset.",
+      "Vatkaa munat, valkuaiset ja maito kulhossa.",
+      "Voitele noin 25 cm:n tarttumaton pannu ohuelti öljyllä ja kuumenna.",
+      "Paista parsakaalia, paprikaa ja sieniä 3–5 minuuttia ja nosta pannulta.",
+      "Paista munakkaat yksi kerrallaan: kaada pannulle neljännes munaseoksesta ja anna levitä pohjalle.",
+      "Kun pinta alkaa hyytyä, ripottele päälle neljännes parmesaanista. Levitä munakkaan toiselle puoliskolle ricottaa ja osa kasviksista.",
+      "Taita toinen puoli kasvisten päälle ja paista vielä noin minuutti.",
+      "Liu'uta lautaselle ja mausta kevyesti suolalla ja pippurilla. Toista loppujen kanssa.",
+      "Koristele munakkaat jäljelle jääneillä kasviksilla."
+    ]
+  },
+  {
+    "id": "myplate-broccoli-potato-soup",
+    "title": "Parsakaali-perunakeitto",
+    "description": "Maukas alusta asti tehty keitto, joka valmistuu nopeasti perunamuusijauheen avulla.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "nopea"],
+    "ingredients": [
+      "1 l parsakaalia, pilkottuna",
+      "1 pieni sipuli, pilkottuna",
+      "1 l kana- tai kasvislientä",
+      "2½ dl kevytmaitoa",
+      "1¼ dl perunamuusijauhetta (tai 2½ dl valmista perunamuusia)",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "½ dl cheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Laita parsakaali, sipuli ja liemi isoon kattilaan ja kuumenna kiehuvaksi.",
+      "Laske lämpöä, peitä ja hauduta noin 10 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Lisää maito ja sekoita perunamuusijauhe joukkoon vähitellen.",
+      "Kuumenna koko ajan sekoittaen, kunnes keitto kuplii ja sakenee.",
+      "Mausta suolalla ja pippurilla. Ohenna tarvittaessa maidolla tai vedellä.",
+      "Annostele kulhoihin ja ripottele päälle noin 1 rkl juustoa annosta kohden."
+    ]
+  },
+  {
+    "id": "myplate-broccoli-rice-casserole",
+    "title": "Parsakaali-riisivuoka",
+    "description": "Kaapin perusaineksista ja pakastekasviksista syntyy täyttävä kotitekoinen pääruoka.",
+    "servings": 12,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "uuniruoka", "riisi"],
+    "ingredients": [
+      "3½ dl riisiä",
+      "ripaus suolaa",
+      "8½ dl vettä",
+      "3 rkl margariinia tai voita",
+      "1 sipuli, pilkottuna",
+      "2½ dl ruokakermaa",
+      "1 kasvisliemikuutio",
+      "3½ dl kevytmaitoa",
+      "1,8 l pakasteparsakaalia, -kukkakaalia tai -kasviksia",
+      "225 g kevytcheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele noin 30 x 23 cm:n uunivuoka.",
+      "Kuumenna riisi, suola ja 7½ dl vettä kattilassa kiehuvaksi. Peitä ja hauduta 15 minuuttia. Nosta liedeltä ja anna seistä vielä 15 minuuttia.",
+      "Kuullota sipuli rasvassa pehmeäksi.",
+      "Sekoita kerma, murennettu liemikuutio, maito, loput vedestä (1 dl), sipuli ja riisi.",
+      "Lusikoi seos vuokaan.",
+      "Sulata ja valuta kasvikset ja levitä riisin päälle.",
+      "Ripottele juusto tasaisesti pinnalle ja paista 25–30 minuuttia, kunnes juusto on sulanut ja riisi kuplii."
+    ],
+    "notes": ["Alkuperäisessä käytetään sienikeittotiivistettä (cream of mushroom soup); ruokakerma ja liemikuutio korvaavat sen."]
+  },
+  {
+    "id": "myplate-broccoli-salad",
+    "title": "Parsakaalisalaatti rusinoilla ja pekonilla",
+    "description": "Värikäs parsakaalisalaatti rusinoista, punasipulista ja halutessasi pekonista.",
+    "servings": 8,
+    "totalTimeMin": 90,
+    "category": "Salaatit",
+    "tags": ["salaatti", "amerikkalainen", "gluteeniton"],
+    "ingredients": [
+      "1,5 l parsakaalia, pilkottuna",
+      "2½ dl rusinoita",
+      "1 punasipuli, kuutioituna",
+      "2 rkl sokeria",
+      "8 viipaletta pekonia, paistettuna ja murusteltuna (valinnainen)",
+      "2 rkl sitruunamehua",
+      "1¾ dl kevytmajoneesia"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset kulhossa hyvin.",
+      "Jäähdytä 1–2 tuntia ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-broccoli-strawberry-orzo-salad",
+    "title": "Parsakaali-mansikka-orzosalaatti",
+    "description": "Raikas kesäinen pastasalaatti parsakaalista ja mansikoista sitruuna-unikonsiemenkastikkeella.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "pasta", "kesä"],
+    "ingredients": [
+      "1¾ dl orzo-pastaa",
+      "5 dl tuoretta parsakaalia, pilkottuna",
+      "5 dl tuoreita mansikoita, kuutioituna",
+      "½ dl auringonkukansiemeniä",
+      "Kastike:",
+      "1 rkl sitruunamehua",
+      "2 rkl omenaviinietikkaa",
+      "2 rkl oliiviöljyä",
+      "1 tl sokeria tai hunajaa",
+      "1 tl unikonsiemeniä (valinnainen)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä orzo pakkauksen ohjeen mukaan, valuta ja huuhtele kylmällä vedellä.",
+      "Yhdistä isossa kulhossa orzo, parsakaali, mansikat ja auringonkukansiemenet.",
+      "Vatkaa kastikkeen ainekset, valuta salaatin päälle ja sekoita.",
+      "Mausta suolalla ja pippurilla.",
+      "Jäähdytä tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-broiled-tomatoes-and-cheese",
+    "title": "Gratinoidut tomaatit raejuustolla",
+    "description": "Erityisen hyvää puutarhan tai torin tuoreista tomaateista.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "nopea", "lisuke"],
+    "ingredients": [
+      "3 isoa kiinteää tomaattia",
+      "225 g kevytraejuustoa",
+      "½ tl kuivattua basilikaa",
+      "ripaus mustapippuria",
+      "3 rkl korppujauhoja",
+      "1 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Pese ja puolita tomaatit.",
+      "Sekoita raejuusto, basilika ja pippuri.",
+      "Levitä seos tomaatinpuolikkaiden päälle.",
+      "Ripottele päälle korppujauhot ja sivele ohuelti öljyllä.",
+      "Nosta voidellulle pellille ja grillaa uunin grillivastuksen alla noin 10 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-bronco-beans",
+    "title": "Maustettu neljän pavun pata",
+    "description": "Monipuolinen papupata mustista pavuista, kidneypavuista, valkoisista pavuista ja kikherneistä chilin kera.",
+    "servings": 8,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "meksikolainen", "pataruoka", "palkokasvit"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2 keltasipulia, pilkottuna",
+      "1 paprika, pilkottuna",
+      "2 jalapeñoa, hienonnettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 rkl kuivattua oreganoa",
+      "1 rkl kuivattua timjamia",
+      "1 tl chilijauhetta",
+      "4 tlk (à 400 g) eri papuja (mustia, kidney-, valkoisia papuja ja kikherneitä), valutettuna ja huuhdeltuna",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "3½–5 dl vettä",
+      "Tarjoiluun:",
+      "korianteria ja/tai maustamatonta jogurttia"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskilämmöllä.",
+      "Lisää sipulit, valkosipuli, paprika, jalapeñot, oregano, timjami ja chilijauhe ja kuullota noin 15 minuuttia pehmeiksi.",
+      "Lisää pavut, tomaatit ja 3½ dl vettä, nosta lämpö ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta osittain kannen alla 1½ tuntia. Lisää vettä, jos pata sakenee liikaa.",
+      "Tarjoile heti tai jäähdytä ja säilytä jääkaapissa enintään 2 päivää. Koristele korianterilla tai jogurtilla."
+    ]
+  },
+  {
+    "id": "myplate-brown-rice-pilaf-sage-walnuts-and-dried",
+    "title": "Tumma riisipilahvi salvialla, saksanpähkinöillä ja kuivatuilla hedelmillä",
+    "description": "Kuivatut hedelmät ja salvia tuovat täysjyväriisiin syksyn makua – sopii mihin vuodenaikaan tahansa.",
+    "servings": 8,
+    "totalTimeMin": 65,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "riisi", "juhla", "gluteeniton"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "1 sipuli, pilkottuna",
+      "1 varsiselleri, pilkottuna",
+      "5 dl tummaa riisiä",
+      "6 dl vettä",
+      "5 dl kasvislientä",
+      "½ dl rusinoita",
+      "½ dl kuivattuja aprikooseja, pilkottuna",
+      "½ dl saksanpähkinöitä, hienonnettuna (valinnainen)",
+      "1 tl kuivattua salviaa",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "2 tl tuoretta salviaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Voitele iso paistinpannu ohuelti öljyllä ja kuumenna keskilämmöllä.",
+      "Kuullota sipulia ja selleriä noin 5 minuuttia pehmeiksi.",
+      "Lisää riisi ja paista 5 minuuttia.",
+      "Lisää vesi, liemi, rusinat ja aprikoosit ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi, peitä ja hauduta noin 50 minuuttia, kunnes riisi on kypsää ja neste imeytynyt.",
+      "Sekoita joukkoon kuivattu salvia ja halutessasi saksanpähkinät. Mausta suolalla ja pippurilla.",
+      "Siirrä tarjoiluastiaan, koristele tuoreella salvialla ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-brown-rice-pilaf",
+    "title": "Tumma riisipilahvi manteleilla",
+    "description": "Persilja, mantelit ja mausteet piristävät tummaa riisiä. Valmistetaan riisinkeittimessä.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "3½ dl tummaa riisiä",
+      "7 dl vettä",
+      "½ dl mantelilastuja",
+      "1 tl kuivattua persiljaa",
+      "½ tl valkosipulijauhetta",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset riisinkeittimeen ja keitä, kunnes vesi on imeytynyt, noin 30 minuuttia (kattilassa noin 40 minuuttia kannen alla).",
+      "Kuohkeuta riisi haarukalla."
+    ]
+  },
+  {
+    "id": "myplate-brown-rice-sizzling-chicken-and-vegetables",
+    "title": "Kana-kasviswokki tumman riisin kanssa",
+    "description": "Helppo riisikulho kanasta ja kasviksista, josta pitävät niin lapset kuin aikuiset.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "aasialainen", "riisi", "arkiruoka"],
+    "ingredients": [
+      "Kastike:",
+      "3 rkl vähäsuolaista soijakastiketta",
+      "½ dl vettä",
+      "1 rkl hunajaa",
+      "1 rkl maissitärkkelystä",
+      "Wokki:",
+      "1½ rkl rypsiöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "450 g broilerin rintafileetä, 2–3 cm:n kuutioina",
+      "1 pieni sipuli, ohuina lohkoina",
+      "3 porkkanaa, kuorittuna ja ohuina viipaleina",
+      "3½ dl pieniä parsakaalin kukintoja",
+      "1 punainen paprika, paloiteltuna",
+      "Tarjoiluun:",
+      "7 dl kuumaa keitettyä tummaa riisiä"
+    ],
+    "instructions": [
+      "Sekoita kastikkeen ainekset pienessä kulhossa.",
+      "Kuumenna öljy wokissa tai isolla pannulla ja paista valkosipulia noin minuutti kullanruskeaksi.",
+      "Lisää kana ja paista 5–6 minuuttia. Työnnä kana reunalle.",
+      "Paista sipulia pannun keskellä, kunnes se hieman pehmenee, ja työnnä reunalle.",
+      "Toista porkkanoilla, parsakaalilla ja paprikalla.",
+      "Kaada kastike pannun keskelle ja sekoita, kunnes se sakenee.",
+      "Sekoita kanan ja kasvisten joukkoon ja tarjoile heti riisin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-brown-rice-tabbouleh",
+    "title": "Tummariisitabbouleh",
+    "description": "Välimerellinen salaatti tummasta riisistä, tomaatista ja kurkusta mintulla ja persiljalla. Valmis alle 30 minuutissa.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "riisi", "gluteeniton"],
+    "ingredients": [
+      "7 dl keitettyä tummaa riisiä",
+      "1¾ dl kurkkua, pilkottuna",
+      "1¾ dl tomaattia, pilkottuna",
+      "1¼ dl tuoretta persiljaa, hienonnettuna",
+      "½ dl tuoretta minttua, hienonnettuna",
+      "½ dl kevätsipulia, viipaloituna",
+      "½ dl oliiviöljyä",
+      "½ dl sitruunamehua",
+      "½ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa kulhossa.",
+      "Sekoita hyvin ja jäähdytä."
+    ]
+  },
+  {
+    "id": "myplate-brunswick-stew",
+    "title": "Brunswick-pata",
+    "description": "Täyttävä amerikkalainen kana-kasvispata, jonka voi tuplata isommalle joukolle. Käytä tähdekanaa tai -kalkkunaa.",
+    "servings": 8,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 sipuli, pilkottuna",
+      "5 dl kanalientä",
+      "5 dl kypsää kanaa tai kalkkunaa, kuutioituna",
+      "5 dl tomaattimurskaa",
+      "5 dl keitettyjä limapapuja (tai härkäpapuja)",
+      "5 dl maissinjyviä"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa ja kuullota sipuli pehmeäksi.",
+      "Lisää loput ainekset.",
+      "Hauduta mieto-keskilämmöllä 30 minuuttia. Annoksia tulee kahdeksan, kukin noin 2½ dl."
+    ]
+  },
+  {
+    "id": "myplate-brussel-sprouts-cranberry-and-bulgur-salad",
+    "title": "Ruusukaali-karpalo-bulgursalaatti",
+    "description": "Raaka ruusukaalisalaatti bulgurilla, karpaloilla ja pähkinöillä – juhliin tai lounaaksi.",
+    "servings": 5,
+    "totalTimeMin": 40,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "juhla"],
+    "ingredients": [
+      "¾ dl bulguria",
+      "2½ dl kiehuvaa vettä",
+      "5 dl ruusukaaleja (n. 225 g)",
+      "1¼ dl kuivattuja karpaloita",
+      "½ dl pähkinöitä, hienonnettuna",
+      "Kastike:",
+      "½ dl appelsiinimehua",
+      "2 rkl rypsiöljyä",
+      "2 rkl etikkaa",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kaada kiehuva vesi bulgurin päälle ja anna seistä noin 30 minuuttia pehmeäksi. Kaada ylimääräinen vesi pois.",
+      "Huuhtele ja puhdista ruusukaalit. Halkaise pituussuunnassa ja leikkaa poikittain ohuiksi suikaleiksi.",
+      "Yhdistä isossa kulhossa bulgur, ruusukaalit, karpalot ja pähkinät.",
+      "Sekoita kastikkeen ainekset kannellisessa purkissa ravistellen.",
+      "Kaada kastike salaatin päälle ja tarjoile."
+    ],
+    "notes": ["Pähkinät voi korvata auringonkukan- tai kurpitsansiemenillä."]
+  },
+  {
+    "id": "myplate-brussels-sprouts-mushroom-sauce",
+    "title": "Ruusukaalit sienikastikkeessa",
+    "description": "Lisuke ruusukaaleista – myös parsakaali, kaali, lehtikaali tai nauris käyvät.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "sienet", "gluteeniton"],
+    "ingredients": [
+      "5 dl ruusukaaleja",
+      "1¼ dl kanalientä",
+      "1 tl sitruunamehua",
+      "1 tl karkeaa sinappia",
+      "½ tl kuivattua timjamia",
+      "1¼ dl herkkusieniä, viipaloituna"
+    ],
+    "instructions": [
+      "Puhdista ja puolita ruusukaalit.",
+      "Höyrytä ne pehmeiksi, noin 6–10 minuuttia (tai mikrossa täydellä teholla 3–4 minuuttia).",
+      "Kuumenna liemi kiehuvaksi tarttumattomassa kattilassa.",
+      "Sekoita joukkoon sitruunamehu, sinappi ja timjami.",
+      "Lisää sienet ja keitä, kunnes liemi on vähentynyt puoleen, noin 5–8 minuuttia.",
+      "Lisää ruusukaalit ja sekoita kastikkeeseen."
+    ]
+  },
+  {
+    "id": "myplate-bugs-log",
+    "title": "Ötökät tukilla – selleriherkut",
+    "description": "Hauska välipalapuuha: lapset ja aikuiset kokoavat omat yhdistelmänsä.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "lapsille", "nopea"],
+    "ingredients": [
+      "Tukit:",
+      "1 varsiselleri, kolmeen osaan",
+      "omenaviipaleita",
+      "1 porkkana, 7 cm:n paloina",
+      "Levite:",
+      "1 rkl kevyttä tuorejuustoa",
+      "Ötökät:",
+      "1 rkl rusinoita",
+      "makeuttamattomia täysjyvämuroja",
+      "maapähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Valitse \"tukki\" ja levitä päälle tuorejuustoa.",
+      "Ripottele päälle \"ötököitä\"."
+    ]
+  },
+  {
+    "id": "myplate-bulgur-chickpea-salad",
+    "title": "Bulgur-kikhernesalaatti",
+    "description": "Hyvä tapa lisätä ateriaan täysjyvää, hedelmiä, kasviksia ja kikherneitä.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit"],
+    "ingredients": [
+      "3 dl vettä",
+      "2½ dl bulguria",
+      "1 tl kuivattua persiljaa",
+      "1 tl sipulia, hienonnettuna",
+      "1 tl vähäsuolaista soijakastiketta",
+      "1¼ dl kevätsipulia, pilkottuna",
+      "1¼ dl rusinoita",
+      "1¼ dl porkkanaa, pilkottuna",
+      "1¾ dl kikherneitä (säilyke), valutettuna ja huuhdeltuna",
+      "Kastike:",
+      "2 rkl rypsiöljyä",
+      "2 rkl sitruunamehua",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kiehuvaksi kattilassa.",
+      "Sekoita joukkoon bulgur, persilja, sipuli ja soijakastike.",
+      "Peitä, laske lämpöä ja hauduta 15–20 minuuttia, kunnes vesi on imeytynyt ja bulgur ei ole liian kovaa. Älä ylikypsennä.",
+      "Nosta liedeltä, anna jäähtyä ja kuohkeuta haarukalla.",
+      "Sekoita kastikkeen ainekset ja kaada bulgurin päälle.",
+      "Sekoita joukkoon kevätsipuli, rusinat, porkkanat ja kikherneet.",
+      "Peitä ja jäähdytä useita tunteja. Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-bulgur-wheat-veggie-chickpea-salad",
+    "title": "Bulgur-kasvis-kikhernesalaatti",
+    "description": "Bulgur on tämän yksinkertaisen ja värikkään salaatin tähti.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["salaatti", "palkokasvit", "eväät"],
+    "ingredients": [
+      "1 tl rypsiöljyä",
+      "1 sipuli, pilkottuna",
+      "3½ dl bulguria",
+      "5 dl kanalientä",
+      "2½ dl parsakaalia, pilkottuna",
+      "2½ dl porkkanaa, raastettuna",
+      "1 pieni paprika, pilkottuna",
+      "2½ dl kikherneitä (säilyke), valutettuna",
+      "¾ dl tuoretta persiljaa, hienonnettuna (tai 2 rkl kuivattua)"
+    ],
+    "instructions": [
+      "Pese ja pilko sipuli, parsakaali, porkkanat, paprika ja persilja.",
+      "Kuumenna öljy isolla pannulla keskikovalla lämmöllä ja kuullota sipuli pehmeäksi.",
+      "Lisää bulgur ja sekoita öljyyn.",
+      "Lisää liemi ja kuumenna kiehuvaksi.",
+      "Laske lämpöä ja lisää loput kasvikset ja kikherneet.",
+      "Kypsennä 10 minuuttia, kunnes neste on imeytynyt.",
+      "Sekoita joukkoon persilja ja tarjoile lämpimänä tai kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-butterfly-bite",
+    "title": "Perhosvälipalat",
+    "description": "Lapsille suunniteltu hauska välipala sellerista, maapähkinävoista ja pretzeleistä.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "lapsille", "nopea"],
+    "ingredients": [
+      "3 vartta varsiselleriä",
+      "12 isoa pretzel-kierrettä",
+      "6 rkl kermaista maapähkinävoita",
+      "3 rkl rusinoita"
+    ],
+    "instructions": [
+      "Puhdista selleri harjalla viileän juoksevan veden alla.",
+      "Puolita varret poikittain.",
+      "Täytä jokaisen varren kouru ruokalusikallisella maapähkinävoita – se on perhosen vartalo.",
+      "Painele kaksi pretzeliä siiviksi.",
+      "Käytä pretzelinpaloja tuntosarviksi ja rusinoita koristeeksi."
+    ]
+  },
+  {
+    "id": "myplate-buttermilk-scones",
+    "title": "Piimäteeleivät rusinoilla",
+    "description": "Paremmat kuin leipomon – ja ne voi tehdä aamutakissa. Parhaimmillaan paistopäivänä.",
+    "servings": 9,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leipä", "brittiläinen"],
+    "ingredients": [
+      "2½ dl täysjyvävehnäjauhoja",
+      "1¾ dl vehnäjauhoja",
+      "¾ dl sokeria",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "2½ dl rusinoita",
+      "60 g voita, sulatettuna",
+      "1½ dl piimää"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Sekoita kulhossa jauhot, sokeri, leivinjauhe, ruokasooda ja suola.",
+      "Lisää rusinat ja sekoita kevyesti.",
+      "Sekoita pienessä kulhossa sulatettu voi ja piimä.",
+      "Lisää neste jauhoseokseen ja sekoita varovasti.",
+      "Nostele taikina yhdeksäksi keoksi voidellulle pellille.",
+      "Paista 18–20 minuuttia, kunnes teeleivät ovat ruskeita.",
+      "Tarjoile kuumina tai huoneenlämpöisinä."
+    ]
+  },
+  {
+    "id": "myplate-butternut-squash-apple-soup",
+    "title": "Myskikurpitsa-omenakeitto",
+    "description": "Sileä syksyinen keitto myskikurpitsasta ja happamasta omenasta lämpimin mausten.",
+    "servings": 4,
+    "totalTimeMin": 50,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "syksy", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 sipuli, pilkottuna",
+      "1 varsiselleri, pilkottuna",
+      "1 porkkana, pilkottuna",
+      "1 l vettä",
+      "1 myskikurpitsa, kuorittuna ja paloiteltuna",
+      "1 hapan omena, kuorittuna ja paloiteltuna",
+      "1 rkl kasvisliemijauhetta",
+      "ripaus cayennepippuria",
+      "ripaus mustapippuria",
+      "ripaus kanelia",
+      "ripaus muskottipähkinää",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuullota sipulia, selleriä ja porkkanaa öljyssä isossa kattilassa noin 5 minuuttia pehmeiksi.",
+      "Lisää vesi, kurpitsa, omena ja liemijauhe ja kuumenna kiehuvaksi.",
+      "Laske lämpö, peitä ja hauduta noin 30 minuuttia, kunnes kurpitsa ja porkkanat ovat pehmeitä.",
+      "Soseuta keitto tehosekoittimessa tai sauvasekoittimella.",
+      "Lisää mausteet ja tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-butternut-squash-black-beans",
+    "title": "Myskikurpitsa ja mustapavut",
+    "description": "Täyttävä, kuitu- ja proteiinipitoinen lisuke.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "1 pieni myskikurpitsa (n. 450 g)",
+      "1 pieni sipuli, pilkottuna",
+      "1 tl rypsiöljyä",
+      "¼ tl valkosipulijauhetta",
+      "½ dl punaviinietikkaa",
+      "½ dl vettä",
+      "2 tlk (à 400 g) mustapapuja, huuhdeltuna ja valutettuna",
+      "½ tl oreganoa"
+    ],
+    "instructions": [
+      "Lämmitä kurpitsaa mikrossa täydellä teholla 1–2 minuuttia, jotta kuori pehmenee.",
+      "Kuori kurpitsa varovasti ja leikkaa noin 1 cm:n kuutioiksi.",
+      "Kuori ja pilko sipuli.",
+      "Kuumenna öljy isolla pannulla ja lisää sipuli, valkosipulijauhe ja kurpitsa. Paista keskilämmöllä 5 minuuttia.",
+      "Lisää etikka ja vesi ja kypsennä miedolla lämmöllä, kunnes kurpitsa on pehmeää, noin 10 minuuttia.",
+      "Lisää pavut ja oregano ja lämmitä."
+    ]
+  },
+  {
+    "id": "myplate-butternut-squash-pasta-bake",
+    "title": "Myskikurpitsa-pastavuoka",
+    "description": "Tomaatin sijaan kermainen ricotta ja makea uunikurpitsa – arki-illan pastavuoka.",
+    "servings": 2,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "uuniruoka"],
+    "ingredients": [
+      "1 pieni myskikurpitsa (n. 6 dl kypsää kurpitsaa)",
+      "115 g täysjyväsimpukkapastaa",
+      "3 rkl salottisipulia, kuutioituna",
+      "1 rkl salviaa, hienonnettuna",
+      "1 valkosipulinkynsi",
+      "ripaus suolaa",
+      "¼ tl mustapippuria",
+      "1¼ dl kasvislientä",
+      "1¾ dl kevytricotta-juustoa",
+      "55 g kevytmozzarellaa, raastettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Halkaise kurpitsa ja poista siemenet.",
+      "Aseta puolikkaat leikkuupinta alaspäin uunivuokaan ja kaada vuokaan noin ½ cm vettä.",
+      "Paista kurpitsaa noin 45 minuuttia pehmeäksi ja anna jäähtyä hieman.",
+      "Keitä pasta sillä aikaa juuri kypsäksi ja valuta.",
+      "Laske uunin lämpö 190 asteeseen. Mittaa kurpitsasta 5 dl.",
+      "Soseuta kurpitsa monitoimikoneessa salottisipulin, salvian, valkosipulin, suolan ja pippurin kanssa sileäksi. Lisää liemi ja sekoita.",
+      "Levitä pieneen uunivuokaan kolmannes kurpitsasoseesta, sitten puolet pastasta ja ricotta. Lisää toinen kolmannes kastiketta ja loput pastasta.",
+      "Peitä lopulla kastikkeella ja ripottele päälle mozzarella.",
+      "Paista 25 minuuttia, kunnes juusto on ruskistunut. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-cabbage-roll-casserole",
+    "title": "Kaalikääryleiden maut padassa",
+    "description": "Pikariisi ja säilyketomaatit tekevät kaalipadasta nopean, helpon ja terveellisen.",
+    "servings": 8,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "pataruoka", "suomalainen", "gluteeniton"],
+    "ingredients": [
+      "225 g vähärasvaista naudan jauhelihaa",
+      "1 sipuli, pilkottuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "3½ dl vettä",
+      "1 tlk (400 g) tomaattimurskaa",
+      "3½ dl tomaattisosetta (passata) tai tomaattimehua",
+      "1 pieni tai keskikokoinen valkokaali, suupaloina",
+      "½ dl tummaa pikariisiä"
+    ],
+    "instructions": [
+      "Ruskista jauheliha pannulla sipulin ja valkosipulin kanssa ja kaada rasva pois.",
+      "Siirrä liha isoon kattilaan ja lisää vesi, tomaatit, tomaattisose ja kaali.",
+      "Keitä, kunnes kaali on melkein pehmeää.",
+      "Lisää pikariisi ja keitä vielä viisi minuuttia (tavallisella riisillä noin 20 minuuttia).",
+      "Tarjoile."
+    ]
+  }
+]

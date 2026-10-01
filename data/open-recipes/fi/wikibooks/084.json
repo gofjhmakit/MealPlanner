@@ -1,0 +1,479 @@
+[
+  {
+    "id": "wikibooks-miso-soup",
+    "title": "Helppo misokeitto",
+    "description": "Nopea japanilainen misokeitto, johon voi lisätä tofua, sieniä, katkarapuja ja merilevää.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "nopea", "tofu"],
+    "ingredients": [
+      "½ tl seesamiöljyä",
+      "7 dl vettä",
+      "2 rkl misotahnaa",
+      "2 kevätsipulia, hienonnettuna (valinnainen)",
+      "½ pkt (n. 200 g) tofua, 1 cm:n kuutioina (valinnainen)",
+      "2–3 tuoretta herkkusientä, ohuina viipaleina (valinnainen)",
+      "5–6 katkarapua, pilkottuna (valinnainen)",
+      "muutama pala kuivattua merilevää, esim. wakamea (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy pienessä kattilassa.",
+      "Lisää kevätsipuli ja kuullota muutama minuutti usein sekoittaen.",
+      "Lisää 6 dl vettä ja kuumenna kiehuvaksi.",
+      "Liuota miso loppuun 1 dl:aan vettä ja lisää kattilaan.",
+      "Laske lämpöä ja lisää halutessasi sienet, merilevä, tofu ja katkaravut. Kuumenna, kunnes ne ovat lämmenneet ja katkaravut kypsyneet, mutta älä anna keiton kiehua voimakkaasti.",
+      "Nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-miso-soup-traditional",
+    "title": "Perinteinen misokeitto dashiin",
+    "description": "Perinteinen japanilainen misokeitto dashi-liemeen, klassisena yhdistelmänä silkkitofu, wakame ja kevätsipuli.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["japanilainen", "keitto", "nopea", "tofu"],
+    "ingredients": [
+      "9 dl dashi-lientä (myös pikadashista)",
+      "4–6 rkl misotahnaa (punaista, valkoista tai sekoitus)",
+      "200 g silkkitofua, kuutioituna",
+      "1 rkl kuivattua wakame-merilevää",
+      "2 kevätsipulia, viipaloituna",
+      "Muita mahdollisia lisäyksiä:",
+      "friteerattua tofua, pinaattia, raastettua daikonia, keitettyä perunaa, simpukoita, katkarapuja tai sieniä"
+    ],
+    "instructions": [
+      "Kaada dashi kattilaan.",
+      "Lisää lisäkkeet, jotka tarvitsevat kypsentämistä (esim. peruna, simpukat, sienet).",
+      "Kuumenna dashi ja anna sen hiljalleen poreilla, kunnes lisäkkeet ovat kypsiä. Älä anna kiehua voimakkaasti, sillä maku kärsii.",
+      "Lisää kypsentämistä vaativat lisäkkeet (tofu, wakame, kevätsipuli) ja nosta kattila liedeltä.",
+      "Liuota miso keittoon. Älä keitä misoa, sillä osa sen aromeista katoaa."
+    ],
+    "notes": ["Modernimpi versio: paista keittoon pekonin rasvassa karamellisoitua sipulia ja kaalia ja viimeistele mustapippurilla."]
+  },
+  {
+    "id": "wikibooks-misro-indonesian-palm-sugar-cassava-fritters",
+    "title": "Misro – indonesialaiset maniokkipallot palmusokeritäytteellä",
+    "description": "Raastetusta maniokista ja kookoksesta tehdyt rapeat pallot, joiden sisällä sulaa palmusokeria.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "indonesialainen", "friteerattu", "gluteeniton"],
+    "ingredients": [
+      "250 g hienoksi raastettua tuoretta maniokkia",
+      "75 g raastettua kookosta",
+      "suolaa",
+      "25 g palmusokeria (gula melaka), pieninä paloina",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita maniokki, kookos ja suola taikinaksi.",
+      "Ota taikinaa pieni kauhallinen ja pyöritä käsin palloksi.",
+      "Paina peukalolla palloon kuoppa ja nipistele reunoja, jotta saat taskun.",
+      "Laita taskuun pala sokeria ja nipistele taikina sen ympärille umpeen.",
+      "Pyöritä valmis pallo käsissä uudelleen pyöreäksi.",
+      "Kuumenna paistinpannussa tai kattilassa öljyä noin 180 asteeseen keskilämmöllä.",
+      "Laske pallot varovasti öljyyn erissä, jotta ne eivät ole liian ahtaasti. Paista joka puolelta käännellen kullanruskeiksi ja kypsiksi.",
+      "Nosta pallot reikäkauhalla ritilälle tai talouspaperille valumaan."
+    ],
+    "notes": ["Maniokin ja kookoksen tulee olla hyvin hienoksi raastettuja, jotta niistä saa taikinan – isot hiutaleet eivät toimi."]
+  },
+  {
+    "id": "wikibooks-mixed-pickled-vegetables-acar-campur",
+    "title": "Acar campur – indonesialainen kasvispikkelssi",
+    "description": "Yksinkertainen indonesialainen pikkelssisalaatti, jossa rapeat kasvikset kypsyvät kurkuma-mausteliemessä ja saavat päälleen maapähkinärouhetta.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["indonesialainen", "pikkelssi", "kasvikset"],
+    "ingredients": [
+      "Maustetahna:",
+      "1 tuore punainen chili, siemenet poistettuna ja viipaloituna",
+      "1 keskikokoinen sipuli, lohkoina",
+      "2 valkosipulinkynttä, murskattuna",
+      "1 cm:n pala katkaraputahnaa (terasi)",
+      "4 makadamiapähkinää tai 8 mantelia",
+      "2 cm:n pala tuoretta kurkumaa tai 1 tl jauhettua kurkumaa",
+      "½ dl rypsiöljyä",
+      "Liemi:",
+      "5 dl etikkaa (5 %) tai 2,5 dl etikkaa (10 %) + 2,5 dl vettä",
+      "2,5 dl vettä",
+      "½ dl sokeria",
+      "1 tl suolaa",
+      "Kasvikset:",
+      "3 keskikokoista porkkanaa",
+      "100 g vihreitä papuja",
+      "1 pieni kukkakaali",
+      "1 keskikokoinen kurkku",
+      "2,5 dl valkokaalia",
+      "2,5 dl kuivapaahdettuja maapähkinöitä, karkeasti murskattuna"
+    ],
+    "instructions": [
+      "Soseuta chili, sipuli, valkosipuli, katkaraputahna, pähkinät ja kurkuma monitoimikoneessa tahnaksi.",
+      "Kuumenna tahnaa öljyssä 2 minuuttia. Lisää etikka, vesi, sokeri ja suola. Kuumenna sekoittaen kiehuvaksi ja hauduta 10 minuuttia välillä sekoittaen kasvisten valmistelun ajan.",
+      "Leikkaa porkkanat suupaloiksi ja pavut lyhyiksi, tasamittaisiksi paloiksi. Jaa kukkakaali pieniksi kukinnoiksi. Kuori kurkku, poista siemenet ja kuutioi. Pilko kaali suupaloiksi.",
+      "Ryöppää jokaista kasvista erikseen kiehuvassa vedessä 1 minuutti. Huuhtele kylmällä vedellä ja valuta hyvin.",
+      "Lisää kasvikset kiehuneeseen liemeen. Kuumenna hitaasti kiehuvaksi ja keitä 5–10 minuuttia. Älä kypsennä liikaa – kasvisten tulee jäädä rapeiksi.",
+      "Nosta liedeltä, lisää maapähkinät ja anna jäähtyä.",
+      "Peitä ja anna maustua jääkaapissa vähintään 3 vuorokautta ennen tarjoilua."
+    ],
+    "notes": ["Pikkelssiin sopivat myös minimaissit, pavunidut, inkivääri sekä hasselpähkinät, pistaasit tai pekaanipähkinät."]
+  },
+  { "id": "wikibooks-miyan-gyada-nigerian-groundnut-soup-i", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-miyan-gyada-nigerian-groundnut-soup-ii", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-miyan-karkashi-nigerian-sesame-leaf-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-miyan-kuka-baobab-leaf-soup",
+    "title": "Miyan kuka – nigerialainen baobabinlehtikeitto",
+    "description": "Pohjois-Nigerian keitto kuivatuista, jauhetuista baobabinlehdistä, naudan kylkiluista ja kuivatusta kalasta. Tarjotaan tuwo-riisipuuron kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["liha", "nigerialainen", "keitto"],
+    "ingredients": [
+      "2 isoa kuivattua monnia",
+      "1 iso pala dawadawaa (hapatettuja johanneksenleipäpuun siemeniä)",
+      "2 kourallista jauhettua kuivattua katkarapua",
+      "1–2 habanero-chiliä",
+      "1 kg naudan kylkiluita",
+      "2 isoa lihaliemikuutiota",
+      "suolaa",
+      "1 sipuli, paloiteltuna",
+      "3 rkl baobabinlehtijauhetta (kuka)",
+      "4 rkl palmuöljyä"
+    ],
+    "instructions": [
+      "Liota kuivattua kalaa kylmässä vedessä. Poista ruodot, kun kala on pehmennyt.",
+      "Jauha katkarapujauhe ja dawadawa yhteen. Survo chili.",
+      "Keitä kylkiluita vedessä liemikuutioiden, suolan ja sipulin kanssa, kunnes liha on mureaa. Poista sipulit ja liha ja jätä liemi kattilaan.",
+      "Sekoita baobabjauhe liemeen tasaiseksi ilman paakkuja.",
+      "Sekoita joukkoon survottu chili, katkarapu-dawadawaseos ja palmuöljy.",
+      "Lisää ruodoton kala, peitä ja keitä keskilämmöllä 5 minuuttia.",
+      "Lisää liha ja mausta suolalla. Keitä vielä 2 minuuttia.",
+      "Tarjoa tuwo shinkafan tai tuwo masaran kanssa."
+    ]
+  },
+  { "id": "wikibooks-miyan-lalo-hausa-jute-leaf-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-miyan-ridi-nigerian-sesame-soup",
+    "title": "Miyan ridi – nigerialainen seesamikeitto",
+    "description": "Pohjois-Nigerian paksu keitto paahdetuista, jauhetuista seesaminsiemenistä, naudanlihasta, savukalasta ja pinaatista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["liha", "nigerialainen", "keitto"],
+    "ingredients": [
+      "700 g naudanlihaa, paloiteltuna",
+      "1 iso sipuli, hienonnettuna",
+      "1 lihaliemikuutio",
+      "2 punaista paprikaa, soseutettuna",
+      "5 dl paahdettuja seesaminsiemeniä",
+      "4 rkl palmuöljyä",
+      "1 sipuli, viipaloituna",
+      "2 keskikokoista kuivattua savukalaa",
+      "200 g pinaattia"
+    ],
+    "instructions": [
+      "Keitä liha vedessä hienonnetun sipulin ja liemikuution kanssa mureaksi.",
+      "Jauha paahdetut seesaminsiemenet tehosekoittimessa tasaiseksi.",
+      "Kuumenna palmuöljy kattilassa ja lisää sipuliviipaleet ja paprikasose. Paista, kunnes sipuli on pehmennyt.",
+      "Lisää liha ja sen liemi. Lisää kala, peitä ja hauduta, kunnes kastike sakeutuu.",
+      "Sekoita joukkoon jauhetut seesaminsiemenet. Keitä sekoittaen 10 minuuttia. Lisää vähän vettä, jos keitto on liian paksua.",
+      "Lisää pinaatti ja nosta liedeltä.",
+      "Tarjoa tuwo shinkafan, jamssimuusin tai muun lisukkeen kanssa."
+    ],
+    "notes": ["Lihan ja pinaatin määrät on arvioitu; alkuperäisessä niitä ei annettu."]
+  },
+  { "id": "wikibooks-miyan-shuwaka-hausa-bitter-leaf-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-miyan-taushe-nigerian-pumpkin-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-miyan-yakuwa-nigerian-hibiscus-leaf-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-miyan-zogale-nigerian-moringa-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-moambe-palm-nut-soup",
+    "title": "Moambe – keskiafrikkalainen palmupähkinäkeitto",
+    "description": "Täyteläinen Keski- ja Länsi-Afrikan keitto palmupähkinöistä, lihasta, okrasta ja lehtivihanneksista. Tarjotaan fufun, riisin tai keittobanaanin kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 100,
+    "category": "Keitot",
+    "tags": ["liha", "afrikkalainen", "keitto"],
+    "ingredients": [
+      "5 dl palmupähkinöitä (tuoreita, pakaste tai purkki) tai 1 tlk (400 g) palmupähkinäkonsentraattia",
+      "2–3 rkl punaista palmuöljyä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2–3 valkosipulinkynttä, hienonnettuna",
+      "700 g lihaa (broileria, naudanlihaa tai vuohta), suupaloina",
+      "1 tl jauhettua inkivääriä",
+      "1 tl valkosipulijauhetta",
+      "1 tl mustapippuria",
+      "suolaa",
+      "2,5 dl okraa, pilkottuna",
+      "2,5–5 dl pinaattia tai kurpitsanlehtiä, pilkottuna",
+      "1 savukala, ruodottuna ja revittynä (valinnainen)",
+      "1–2 scotch bonnet- tai habanero-chiliä, siemenet poistettuna ja hienonnettuna",
+      "1 tl jauhettua kuivattua katkarapua (valinnainen)"
+    ],
+    "instructions": [
+      "Jos käytät tuoreita palmupähkinöitä, riko ne ja ota sisukset talteen.",
+      "Laita pähkinät kattilaan, peitä vedellä ja kuumenna kiehuvaksi. Keitä 30 minuuttia pehmeiksi.",
+      "Valuta pähkinät ja soseuta ne tehosekoittimessa 2,5 dl:n vettä kanssa. Siivilöi hienon siivilän läpi. Nosta sivuun. (Purkkikonsentraatti käytetään sellaisenaan.)",
+      "Kuumenna palmuöljy samassa kattilassa keskilämmöllä. Kuullota sipuli ja valkosipuli.",
+      "Lisää liha ja ruskista joka puolelta.",
+      "Mausta inkiväärillä, valkosipulijauheella, pippurilla ja suolalla. Sekoita hyvin.",
+      "Kaada joukkoon palmupähkinäseos ja sekoita. Lisää vettä halutun paksuuden mukaan; moambe on yleensä paksua.",
+      "Peitä ja hauduta miedolla lämmöllä noin 30 minuuttia.",
+      "Lisää okra, lehtivihannekset ja mahdollinen savukala. Sekoita varovasti.",
+      "Lisää chili maun mukaan.",
+      "Ripottele joukkoon mahdollinen katkarapujauhe ja hauduta vielä 10–15 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Tarkista suola ja mausteet ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-mocha-buttercream",
+    "title": "Mokkavoikreemi",
+    "description": "Kuohkea kahvilla ja kaakaolla maustettu voikreemi kakkujen täyttöön ja kuorruttamiseen.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kuorrute", "kahvi"],
+    "ingredients": [
+      "225 g voita, pehmeänä",
+      "8,5 dl tomusokeria (tarvittaessa hieman enemmän)",
+      "1 dl kaakaojauhetta",
+      "1 tl vaniljauutetta",
+      "1 dl hyvin vahvaa kahvia"
+    ],
+    "instructions": [
+      "Yhdistä voi, tomusokeri, kaakao, vanilja ja kahvi keskikokoisessa kulhossa ja sekoita hitaasti, kunnes kaikki on kostunut.",
+      "Vatkaa sähkövatkaimella suurella teholla tasaiseksi ja kuohkeaksi.",
+      "Jos kreemi on liian löysää levitettäväksi, vatkaa joukkoon enintään 1 dl lisää tomusokeria."
+    ]
+  },
+  {
+    "id": "wikibooks-mocha-delight",
+    "title": "Mokkabrowniekakku",
+    "description": "Keksipohjainen browniekakku, joka kuorrutetaan sveitsiläisellä espressovoikreemillä ja koristellaan kermavaahdolla ja suklaasydämillä.",
+    "servings": 16,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "suklaa", "kahvi"],
+    "ingredients": [
+      "Pohja:",
+      "4 rkl voita, sulatettuna",
+      "2,5 dl digestive-keksimurua",
+      "1 pkt (640 g) browniejauhetta (ja pakkauksen ohjeen mukaiset lisäainekset)",
+      "Kuorrute:",
+      "3 kananmunan valkuaista",
+      "1 dl sokeria",
+      "225 g voita, pehmeänä",
+      "2 rkl espressojauhetta (pikakahvi)",
+      "2 rkl lämmintä vettä",
+      "Koristeluun:",
+      "1 pss tummia suklaasydämiä",
+      "2,5 dl kermavaahtoa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Vuoraa 23 cm:n irtopohjavuoan pohja leivinpaperilla ja voitele.",
+      "Sekoita voisula keksimuruun ja painele vuoan pohjalle.",
+      "Valmista browniejauheesta taikina pakkauksen ohjeen mukaan ja levitä se keksipohjan päälle.",
+      "Paista, kunnes kakku on kiinteä ja keskelle työnnetty tikku tulee ulos puhtaana, noin 35–50 minuuttia.",
+      "Nosta ritilälle, anna jäähtyä kokonaan ja irrota vuoasta.",
+      "Vatkaa valkuaisia ja sokeria kulhossa kiehuvan vesihauteen päällä, kunnes sokeri on liuennut.",
+      "Nosta pois hauteelta ja vatkaa sähkövatkaimella kuohkeaksi ja jäähtyneeksi.",
+      "Lisää voi nokare kerrallaan koko ajan vatkaten.",
+      "Liuota espressojauhe lämpimään veteen.",
+      "Vatkaa espresso kuorrutteeseen.",
+      "Kuorruta kakun pinta ja reunat.",
+      "Laita kermavaahto pursotinpussiin tai muovipussiin, jonka kulman leikkaat auki.",
+      "Pursota kakun reunoille ruusukkeita.",
+      "Nosta jokaisen ruusukkeen päälle suklaasydän.",
+      "Laita 8 suklaasydäntä pieneen muovipussiin.",
+      "Sulata mikrossa noin 15 sekuntia.",
+      "Leikkaa pussin kulma auki ja pirskottele suklaata jälkiruokalautasille.",
+      "Nosta jokaiselle lautaselle kakkupala."
+    ]
+  },
+  {
+    "id": "wikibooks-mocha-icing",
+    "title": "Mokkakuorrute",
+    "description": "Helppo kahvi-kaakaokuorrute kuumamaitokakun tai muiden kakkujen päälle.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kuorrute", "kahvi"],
+    "ingredients": [
+      "90 g voita, huoneenlämpöisenä",
+      "4 rkl kaakaojauhetta",
+      "3 rkl vahvaa kahvia",
+      "1 rkl vaniljauutetta",
+      "noin 5 dl tomusokeria"
+    ],
+    "instructions": [
+      "Ota voi jääkaapista tuntia ennen, jotta se on huoneenlämpöistä.",
+      "Vaahdota voi.",
+      "Lisää kaakao ja nesteet vuorotellen. Lisää sitten tomusokeri vuorotellen nesteiden kanssa.",
+      "Lopeta, kun kuorrute on levitettävää, vaikka sokeria jäisi yli.",
+      "Levitä kuuman maitokakun tai muun kakun päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-mock-barnaise-sauce",
+    "title": "Pikabearnaisekastike majoneesista",
+    "description": "Nopea béarnaise-tyylinen kastike, jossa voi vatkataan lämmitettyyn majoneesiin ja maustetaan rakuunalla ja salottisipulilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "ranskalainen"],
+    "ingredients": [
+      "1 salottisipuli tai pieni sipuli, hyvin hienoksi hienonnettuna (tai ¼ tl sipulijauhetta)",
+      "1 rkl tuoretta rakuunaa, hienonnettuna (tai ½ tl kuivattua)",
+      "6 rkl voita, pehmeänä",
+      "4 rkl majoneesia",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Jos käytät sipulijauhetta ja kuivattua rakuunaa, sekoita ne 2 rkl:aan vettä mikroaaltouunin kestävässä astiassa. Kuumenna mikrossa noin 6 sekuntia ja nosta sivuun.",
+      "Pehmennä voi mikrossa 5 sekunnin jaksoissa välillä survoen ja sekoittaen, kunnes se on hyvin pehmeää mutta ei sulaa.",
+      "Lämmitä majoneesia pienessä kulhossa mikrossa 5 sekuntia.",
+      "Vatkaa voi majoneesiin teelusikallinen kerrallaan.",
+      "Sekoita joukkoon sipuli, rakuuna ja pippuri.",
+      "Jos kastike ei ole tarpeeksi lämmintä, kuumenna 6 sekuntia kerrallaan välillä sekoittaen. Älä ylikuumenna, ettei kastike juoksetu – sen tulee olla lämmintä, ei kuumaa."
+    ],
+    "notes": ["Samalla tavalla saa pikahollandaisekastikkeen: jätä yrtit pois ja lisää teelusikallinen sitruunamehua."]
+  },
+  {
+    "id": "wikibooks-mock-hollandaise-sauce-i",
+    "title": "Helppo hollandaisekastike kirkastetusta voista",
+    "description": "Lähes epäonnistumaton hollandaisekastike, joka valmistetaan suoraan kattilassa miedolla lämmöllä ilman vesihaudetta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "gluteeniton"],
+    "ingredients": [
+      "170 g voita, pieninä paloina",
+      "2 kananmunan keltuaista",
+      "1 rkl sitruunamehua",
+      "1 rkl vettä",
+      "¼ tl suolaa",
+      "¼ tl cayennepippuria",
+      "1 tl persiljaa, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata voi polttamatta. Anna jäähtyä, kunnes maitoproteiinit nousevat pinnalle.",
+      "Kuori maitoproteiinit pois ja pidä kirkastettu voi lämpimänä ja juoksevana.",
+      "Laita keltuaiset, sitruunamehu, vesi, suola ja cayenne teräs- tai emalikattilaan ja vatkaa tasaiseksi.",
+      "Kuumenna hyvin miedolla lämmöllä koko ajan vatkaten. Jos keltuaiset alkavat hyytyä, nosta kattila liedeltä mutta jatka vatkaamista.",
+      "Kun vispilä jättää pohjaan juovia (noin 8 minuutin kuluttua), lisää kirkastettu voi aluksi teelusikallinen kerrallaan ja sitten enemmän, kun se sekoittuu. Liian nopeasti lisätty voi juoksettaa kastikkeen. Kastike sakeutuu voin myötä; nosta liedeltä, kun se on sopivan paksua.",
+      "Lisää halutessasi persilja ja tarjoa."
+    ],
+    "notes": [
+      "Älä käytä alumiiniastioita tai -välineitä, sillä ne reagoivat sitruunamehun kanssa.",
+      "Jos kastike alkaa palaa, nosta kattila liedeltä ja vatkaa nopeasti; tarvittaessa upota kattilan pohja kylmään veteen."
+    ]
+  },
+  { "id": "wikibooks-mock-hollandaise-sauce-ii", "skip": "lähes sama kuin edellinen hollandaisekastikkeen ohje" },
+  {
+    "id": "wikibooks-modern-reuben-sandwich",
+    "title": "Reuben-leipä",
+    "description": "Klassinen amerikkalainen lämmin voileipä: suolalihaa tai pastramia, emmentaljuustoa, hapankaalia ja Thousand Island -kastiketta ruisleivän välissä pannulla paistettuna.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "voileipä", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "340 g ohuiksi viipaloitua suolalihaa tai pastramia",
+      "2 rkl voita, pehmeänä",
+      "8 viipaletta ruisleipää tai hapanjuurileipää",
+      "8 viipaletta emmentaljuustoa",
+      "3,5 dl hapankaalia, hyvin valutettuna",
+      "½ dl Thousand Island -kastiketta + tarjoiluun"
+    ],
+    "instructions": [
+      "Voitele leipäviipaleiden toinen puoli ohuesti.",
+      "Kuumenna iso tarttumaton paistinpannu keskilämmöllä.",
+      "Nosta pannulle 2 leipäviipaletta voipuoli alaspäin.",
+      "Nosta kummankin päälle 2 viipaletta juustoa, 1 rkl kastiketta, 85 g lihaa ja neljäsosa hapankaalista.",
+      "Peitä leipäviipaleella voipuoli ylöspäin.",
+      "Paista 4–6 minuuttia kerran kääntäen, kunnes leipä on kullanruskea ja juusto sulanut.",
+      "Toista loppujen leipien kanssa.",
+      "Tarjoa halutessasi lisäkastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-mofletta-maghrebi-pancake",
+    "title": "Mofletta – pohjoisafrikkalaiset ohukaiset",
+    "description": "Ohuet, krepin kaltaiset hiivataikinaleivät, jotka tarjotaan voin ja hunajan kanssa. Tuttu marokonjuutalaisten Mimouna-juhlasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "pohjoisafrikkalainen", "lätyt"],
+    "ingredients": [
+      "1 tl kuivahiivaa",
+      "1 ripaus sokeria",
+      "1 dl lämmintä vettä",
+      "250 g vehnäjauhoja",
+      "½ tl merisuolaa",
+      "2 rkl oliiviöljyä + paistamiseen",
+      "voita tarjoiluun",
+      "hunajaa tarjoiluun"
+    ],
+    "instructions": [
+      "Liuota hiiva ja sokeri veteen. Anna seistä lämpimässä 10–15 minuuttia.",
+      "Sekoita kulhossa jauhot, suola ja 1 rkl öljyä. Lisää hiivaseos ja sekoita taikinaksi. Lisää tarvittaessa tilkka vettä.",
+      "Vaivaa taikinaa jauhotetulla alustalla sileäksi ja kimmoisaksi.",
+      "Palauta taikina kulhoon, kaada päälle loppu öljy ja pyöritä taikinaa kulhossa, kunnes se on öljyn peitossa.",
+      "Peitä liinalla ja anna kohota lämpimässä.",
+      "Jaa taikina tasakokoisiin palloihin ja kauli ne öljytyllä alustalla mahdollisimman ohuiksi.",
+      "Kuumenna paistinpannu keskilämmöllä ja voitele pohja ohuesti öljyllä.",
+      "Paista levyt yksi kerrallaan, kunnes alapuoli on kevyesti ruskistunut. Käännä ja paista toinen puoli.",
+      "Pinoa valmiit leivät ja peitä liinalla, jotta ne pysyvät lämpiminä ja pehmeinä.",
+      "Tarjoa voin ja hunajan kanssa."
+    ]
+  },
+  { "id": "wikibooks-mohingha-burmese-fish-noodle-soup", "skip": "ei uskottava resepti (vitsinomainen ohje valmiista keittojauheesta, limonadista ja ketsupista)" },
+  {
+    "id": "wikibooks-moin-moin-nigerian-bean-pudding",
+    "title": "Moin moin – nigerialainen höyrytetty papuvanukas",
+    "description": "Länsiafrikkalainen höyrytetty tai uunissa haudutettu vanukas kuorituista mustasilmäpavuista, paprikasta, chilistä ja sipulista. Joukkoon voi lisätä keitettyä kananmunaa, kalaa tai lihaa.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "nigerialainen", "pavut", "gluteeniton"],
+    "ingredients": [
+      "4 dl kuivattuja mustasilmäpapuja",
+      "vettä",
+      "1 punainen paprika, kuutioituna",
+      "1 scotch bonnet -chili, kuutioituna",
+      "1 sipuli, kuutioituna",
+      "2–3 rkl palmuöljyä tai rypsiöljyä",
+      "suolaa",
+      "1 liemikuutio, murennettuna",
+      "2 kovaksi keitettyä munaa, neljään osaan leikattuna (valinnainen)",
+      "100 g kalaa tai lihaa (valinnainen)"
+    ],
+    "instructions": [
+      "Laita pavut isoon astiaan, peitä vedellä ja liota noin tunti.",
+      "Soseuta paprika, chili ja sipuli tasaiseksi tahnaksi.",
+      "Valmistele muotit: voitele puhtaat tyhjät säilyketölkit tai muffinivuoat, tai taittele foliosta taskuja (taita noin 30 cm:n arkki kahtia ja rullaa kaksi reunaa tiukasti kiinni niin, että vain yksi reuna jää auki).",
+      "Hankaa papuja käsien välissä, jolloin kuoret irtoavat ja nousevat pintaan. Kaada kuoret pois ja jatka, kunnes suurin osa kuorista on poistettu.",
+      "Jauha kuoritut pavut tehosekoittimessa pienen vesimäärän kanssa hyvin sileäksi, lähes juoksevaksi tahnaksi.",
+      "Sekoita joukkoon paprika-chilitahna, öljy, suola, liemikuutio ja halutessasi muna, kala tai liha.",
+      "Höyrytys: kaada taikinaa muotteihin tai foliotaskuihin niin, että tilaa jää kohoamiselle, ja sulje taskut rullaamalla. Kiehauta kattilassa vettä niin, että pohja peittyy, nosta muotit kattilaan ja höyrytä kannen alla vähintään 30 minuuttia, kunnes vanukas on hyytynyt.",
+      "Uunissa: kuumenna uuni 200 asteeseen. Kaada taikina öljyttyihin muffinivuokiin ja peitä foliolla. Nosta vuoat vesihauteeseen uunipellille ja paista 45 minuuttia. Lisää tarvittaessa vettä.",
+      "Irrota moin moin muoteista ja tarjoa riisin, lihan tai maissipuuron kanssa."
+    ],
+    "notes": ["Höyrytetty versio on perinteinen ja mehevämpi; uunissa vanukkaasta tulee tiiviimpi."]
+  }
+]

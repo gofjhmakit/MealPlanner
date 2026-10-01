@@ -1,0 +1,616 @@
+[
+  {
+    "id": "wikibooks-beef-skewers-with-baguette-slices",
+    "title": "Jauhelihavartaat patongin kanssa",
+    "description": "Chilillä ja persiljalla maustetut grillatut lihapullavartaat tomaatin ja patongin kera.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "vartaat"],
+    "ingredients": [
+      "1 kuivahtanut vaalea sämpylä",
+      "2 punaista chiliä",
+      "2 salottisipulia, kuorittuina ja hienonnettuina",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "5 rkl oliiviöljyä",
+      "2 rkl hienonnettua persiljaa",
+      "800 g naudan jauhelihaa",
+      "2 kananmunaa",
+      "suolaa",
+      "cayennepippuria",
+      "4 keskikokoista tomaattia, viipaloituna",
+      "2 patonkia"
+    ],
+    "instructions": [
+      "Liota sämpylää haaleassa vedessä ja purista se kuivaksi.",
+      "Halkaise chilit, poista siemenet ja hienonna.",
+      "Kuumenna pannulla tilkka öljyä ja kuullota salottisipuli ja valkosipuli läpikuultaviksi.",
+      "Lisää persilja ja chili, sekoita ja nosta liedeltä.",
+      "Sekoita kuullotettu seos jauhelihan, munien ja leivän kanssa. Mausta suolalla ja cayennella.",
+      "Muotoile seoksesta pieniä pitkulaisia pullia ja pujota ne puuvartaisiin.",
+      "Sivele lopulla öljyllä ja grillaa kuumassa grillissä usein käännellen, kunnes vartaat ovat kauttaaltaan ruskeita ja kypsiä.",
+      "Leikkaa patongit 8–10 cm:n paloiksi.",
+      "Tarjoa vartaat leivän ja tomaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-beef-stew-i",
+    "title": "Naudanlihapata tomaattiliemessä",
+    "description": "Amerikkalainen naudanlihapata juureksineen tomaattimehussa haudutettuna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "amerikkalainen"],
+    "ingredients": [
+      "900 g naudan lapaa",
+      "1¼ dl vehnäjauhoja",
+      "½ dl rypsiöljyä",
+      "1 laakerinlehti",
+      "1 tl meiramia",
+      "1 tl oreganoa",
+      "1,4 l tomaattimehua",
+      "3 dl väkevää lihalientä",
+      "2–4 isoa jauhoista perunaa",
+      "4 isoa porkkanaa",
+      "4 vartta lehtiselleriä"
+    ],
+    "instructions": [
+      "Leikkaa liha noin 2,5 cm:n paloiksi.",
+      "Laita liha ja jauhot pussiin ja ravista, kunnes liha on jauhojen peitossa. Enemmän jauhoja tekee padasta paksumman.",
+      "Kuumenna öljy leveässä kattilassa ja ruskista liha useassa erässä.",
+      "Palauta liha kattilaan ja lisää mausteet, tomaattimehu ja liemi.",
+      "Peitä ja hauduta vähintään tunti, kunnes liha pehmenee. Sekoita välillä, ettei liha pala pohjaan.",
+      "Kuori porkkanat ja leikkaa ne lihan kokoisiksi paloiksi. Lisää pataan ja hauduta hetki sekoitellen.",
+      "Paloittele perunat ja selleri samoin, lisää pataan ja hauduta.",
+      "Kun kasvikset ovat pehmeitä mutta eivät hajoa, poista laakerinlehti ja tarjoa."
+    ],
+    "notes": ["Pataan sopivat myös nauris, palsternakka ja pakastemaissi."]
+  },
+  { "id": "wikibooks-beef-stew-ii", "skip": "lähes sama resepti kuin edellinen naudanlihapata" },
+  {
+    "id": "wikibooks-beef-stir-fry",
+    "title": "Naudanlihawokki hunajalla ja seesamilla",
+    "description": "Nopea wokki ohuista entrecôtesuikaleista, porkkanasta ja kevätsipulista.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "aasialainen", "nopea", "wokki"],
+    "ingredients": [
+      "170–225 g naudan entrecôtea, ohuina viipaleina",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl soijakastiketta",
+      "1–2 thaimaalaista chiliä, hienonnettuna",
+      "1 rkl hienonnettua valkosipulia",
+      "½ isoa sipulia, hienoksi kuutioituna",
+      "1 rkl maapähkinäöljyä",
+      "½ isoa porkkanaa, kuorittuna ja suikaloituna",
+      "½ dl kevätsipulia, suikaleina",
+      "2 rkl hunajaa",
+      "1 rkl riisiviinietikkaa",
+      "1 rkl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Öljyä kevyesti keskikorkealla lämmöllä kuumennettu wokki tai iso pannu. Paista sipulia ja valkosipulia sekoittaen, kunnes valkosipuli on kullanruskea. Nosta sivuun lämpimään.",
+      "Mausta liha reilusti suolalla ja pippurilla. Paista muutama viipale kerrallaan ruskeiksi ja nosta sivuun.",
+      "Lisää wokkiin chili, porkkana, soijakastike, hunaja, etikka ja kevätsipuli. Paista sekoittaen, kunnes kasvisten reunat ruskistuvat hieman.",
+      "Lisää sipuli, valkosipuli ja liha ja kääntele kuumiksi. Ripottele päälle seesaminsiemenet ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-beef-stock",
+    "title": "Naudanliemi",
+    "description": "Perusliemi naudan luista ja lihasta; tumma versio paahdetaan ensin uunissa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 540,
+    "category": "Keitot",
+    "tags": ["liha", "liemi", "pakaste"],
+    "ingredients": [
+      "1,4 kg naudan säären luita, 5 cm:n paloina",
+      "1,4 kg naudan ydinluita, 5 cm:n paloina",
+      "900 g naudan luullista kylkeä, paloina",
+      "900 g vasikan potkaa, paloina",
+      "450 g broilerin ruhoja",
+      "225 g sipulia, kuutioituna",
+      "2 purjoa, huolellisesti pestyinä",
+      "60 g porkkanaa, kuutioituna",
+      "6 persiljanvartta",
+      "2 oksaa tuoretta timjamia tai ½ tl kuivattua",
+      "1 laakerinlehti",
+      "½ tl kokonaisia mustapippureita",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Laita liha ja luut isoon kattilaan ja lisää vettä niin, että ne peittyvät noin 5 cm:llä.",
+      "Kuumenna keskilämmöllä hiljalleen kiehuvaksi ja kuori pinnalle nouseva vaahto.",
+      "Laske lämpöä ja hauduta kannetta ja sekoittamatta 30 minuuttia. Älä anna kiehua voimakkaasti.",
+      "Kuori tarvittaessa ja lisää kasvikset, yrtit, mausteet ja suola.",
+      "Sekoita, peitä osittain ja hauduta 6–8 tuntia.",
+      "Nosta luut pois ja hävitä ne.",
+      "Siivilöi liemi ja hävitä kasvikset. Siivilöi vielä kostutetun kaksinkertaisen harsokankaan läpi puhtaaseen kattilaan.",
+      "Jäähdytä kattila nopeasti kylmässä vesihauteessa ja siirrä jääkaappiin.",
+      "Poista jähmettynyt rasva pinnalta.",
+      "Jaa liemi sopiviin annoksiin ja pakasta."
+    ],
+    "notes": [
+      "Tumma liemi: paahda luita ensin 200-asteisessa uunissa välillä käännellen. Ruskista sipulit ja porkkanat uunipellillä liedellä, huuhdo pelti vedellä ja lisää kaikki kattilaan. Jatka kuten yllä.",
+      "Jääkaapissa liemi säilyy 3–4 päivää."
+    ]
+  },
+  {
+    "id": "wikibooks-beef-tenderloin-steak",
+    "title": "Naudan sisäfileepihvit punaviinikastikkeella",
+    "description": "Valkosipuli-pippurimaustetut sisäfileepihvit, paahdettu sipuli ja punaviinikastike.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "nopea", "juhla"],
+    "ingredients": [
+      "2 tl karkeaa mustapippuria",
+      "½ tl suolaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "4 naudan sisäfileepihviä (2,5 cm paksuja)",
+      "öljyä paistamiseen",
+      "2½ dl ohuita sipulirenkaita",
+      "1½ dl kuivaa punaviiniä",
+      "2 rkl pihvikastiketta"
+    ],
+    "instructions": [
+      "Sekoita pippuri, suola ja valkosipuli ja hiero seos pihvien molemmille puolille.",
+      "Asettele pihvit kevyesti öljytylle uunipellille ja grillaa grillivastuksen alla noin 5 minuuttia per puoli tai haluttuun kypsyyteen. Pidä lämpimänä.",
+      "Kuumenna kevyesti öljytty tarttumaton pannu keskikorkealla lämmöllä. Lisää sipuli, peitä ja kypsennä 5 minuuttia välillä sekoittaen.",
+      "Nosta sipulit pannulta ja pidä lämpimänä.",
+      "Kaada viini pannulle ja irrota paistojäämät. Keitä keskikorkealla lämmöllä, kunnes viiniä on jäljellä noin ¾ dl, ja sekoita joukkoon pihvikastike.",
+      "Valuta kastike pihvien päälle ja lisää sipulit. Tarjoa ranskanperunoiden kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-beef-tongue-with-chiles-corn-and-tomato-lengua-de-res",
+    "title": "Lengua de res – naudankieli chilin, maissin ja tomaatin kanssa",
+    "description": "Venezuelalainen ruoka keitetystä naudankielestä paahdettujen chilien ja maissin kera.",
+    "servings": 10,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["liha", "venezuelalainen"],
+    "ingredients": [
+      "1 naudankieli (n. 1,5 kg)",
+      "5 tuoretta vihreää chiliä",
+      "1 rkl oliiviöljyä",
+      "1 valkosipuli, ohuina viipaleina",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "4 pientä tomaattia, halkaistuina ja viipaloituina",
+      "2 tlk (à 425 g) maissia, valutettuina",
+      "suolaa"
+    ],
+    "instructions": [
+      "Pese kieli ja laita se isoon kattilaan veden peittoon. Keitä hiljalleen kypsäksi (noin 50 minuuttia puolta kiloa kohden). Nosta pois ja anna jäähtyä niin, että sitä voi käsitellä. Kuori, poista rustot ja leikkaa 1 cm:n viipaleiksi.",
+      "Paahda chilit kokonaisina pannulla keskikorkealla lämmöllä, kunnes ne ovat hiiltyneet joka puolelta. Anna jäähtyä ja hiero kuoret pois. Poista kannat ja siemenet.",
+      "Kuumenna öljy isossa pannussa keskilämmöllä. Kuullota chilit, sipuli ja valkosipuli, kunnes sipuli on läpikuultavaa.",
+      "Lisää kieli ja paista, kunnes se ruskistuu, 5–10 minuuttia. Lisää tomaatit ja kypsennä, kunnes ne pehmenevät, noin 5 minuuttia. Lisää maissi ja kuumenna 2–5 minuuttia.",
+      "Mausta suolalla ja tarjoa."
+    ],
+    "notes": ["Ohjeessa sipuli on valkoinen sipuli, ei valkosipuli."]
+  },
+  { "id": "wikibooks-beef-with-suya-sauce", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-beef-yakiniku-pizza", "skip": "taikinan nestemäärä lähteessä virheellinen, ei valmistettavissa sellaisenaan" },
+  {
+    "id": "wikibooks-beer-and-rye-bread-porridge-llebrd",
+    "title": "Øllebrød – tanskalainen ruisleipäpuuro",
+    "description": "Perinteinen tanskalainen puuro kuivahtaneesta ruisleivästä ja tummasta mallasjuomasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "tanskalainen", "puuro", "ruis"],
+    "ingredients": [
+      "500 g kuivahtanutta ruisleipää",
+      "1 l tummaa mallasjuomaa tai kotikaljaa",
+      "2–4 rkl sokeria tai hunajaa",
+      "1 rkl sitruunamehua (valinnainen)",
+      "kermavaahtoa tai maitoa tarjoiluun"
+    ],
+    "instructions": [
+      "Poista leivästä kuoret, kuutioi ja liota mallasjuomassa 6–12 tuntia (esimerkiksi yön yli).",
+      "Kuumenna kiehuvaksi ja keitä hiljalleen noin tunti sekoittaen. Lisää juomaa tai vettä, jos puuro on liian paksua; sen tulee olla kaurapuuron paksuista.",
+      "Makeuta halutessasi ja lisää raikkautta tilkalla sitruunaa.",
+      "Tarjoa kuumana maidon tai kermavaahdon kanssa."
+    ],
+    "notes": ["Mallasjuoman voi korvata kokonaan vedellä."]
+  },
+  {
+    "id": "wikibooks-beer-batter",
+    "title": "Oluttaikina friteeraukseen",
+    "description": "Rapea taikina sipulirenkaille, kalalle, katkaravuille ja kasviksille.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Muut",
+    "tags": ["kasvis", "friteerattu", "nopea"],
+    "ingredients": [
+      "2½ dl maissitärkkelystä",
+      "1¼ dl vehnäjauhoja",
+      "⅓ tl valkosipulisuolaa",
+      "⅓ tl paprikajauhetta",
+      "ripaus suolaa",
+      "ripaus mustapippuria",
+      "2¼ dl olutta"
+    ],
+    "instructions": [
+      "Sekoita kuivat aineet.",
+      "Lisää olut.",
+      "Sekoita tasaiseksi."
+    ]
+  },
+  {
+    "id": "wikibooks-beer-cheese-risotto",
+    "title": "Olut-juustorisotto",
+    "description": "Täyteläinen risotto maltaisella oluella, parmesaanilla ja cheddarilla.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "riisi", "italialainen", "juusto"],
+    "ingredients": [
+      "½ isoa sipulia, kuutioituna",
+      "1 rkl oliiviöljyä",
+      "2½ dl arborio-riisiä",
+      "3½ dl kuumaa kasvislientä",
+      "1¼ dl olutta (mieluiten maltaista)",
+      "½ dl raastettua parmesaania",
+      "½ dl raastettua vahvaa cheddarjuustoa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna liemi lähes kiehuvaksi ja pidä kuumana.",
+      "Kuullota sipuli öljyssä paksupohjaisessa kattilassa reilun suolaripauksen kanssa. Kun sipuli on pehmeää, lisää riisi ja kääntele, kunnes jokainen jyvä kiiltää.",
+      "Lisää olut ja kuumenna koko ajan sekoittaen. Kun olut on lähes imeytynyt, lisää ¾–1 dl kuumaa lientä ja jatka sekoittamista. Toista noin 20 minuuttia, kunnes liemi on lähes käytetty ja riisi kypsää.",
+      "Nosta liedeltä ja sekoita joukkoon parmesaani. Kun se on sulanut, lisää cheddar ja sekoita."
+    ]
+  },
+  {
+    "id": "wikibooks-beer-marinated-shrimp",
+    "title": "Oluessa marinoidut katkaravut",
+    "description": "Yön yli oluessa, valkosipulissa ja tabascossa marinoidut voissa paistetut katkaravut.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "nopea"],
+    "ingredients": [
+      "900 g kuorittuja raakoja katkarapuja",
+      "1 sipuli, viipaloituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "3½ dl olutta",
+      "1 rkl tabascoa",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl voita"
+    ],
+    "instructions": [
+      "Sekoita sipuli, valkosipuli, katkaravut ja olut muovi- tai lasikulhossa.",
+      "Lisää tabasco sekä suolaa ja pippuria maun mukaan.",
+      "Peitä ja marinoi jääkaapissa yön yli.",
+      "Nosta katkaravut marinadista ja hävitä marinadi.",
+      "Sulata voi pannulla ja paista katkarapuja, kunnes ne ovat vaaleanpunaisia ja kypsiä. Älä paista liikaa. Ravut voi myös grillata."
+    ]
+  },
+  {
+    "id": "wikibooks-beer-can-chicken",
+    "title": "Olutpullokana",
+    "description": "Pystyssä oluttölkin päällä paistettu mehevä broileri uunissa tai grillissä.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "uuniruoka"],
+    "ingredients": [
+      "3 rkl grillimaustetta",
+      "2 laakerinlehteä, murennettuna",
+      "1 tlk (330 ml) olutta",
+      "1 kokonainen broileri (1,5–2 kg)"
+    ],
+    "instructions": [
+      "Pistele broilerin nahkaan reikiä, jotta rasva valuu pois.",
+      "Hiero mauste huolellisesti broilerin sisä- ja ulkopuolelle ja nahan alle niin pitkälle kuin ylettyy.",
+      "Poista uunista ylemmät ritilät ja kuumenna uuni 180 asteeseen.",
+      "Kaada tölkistä noin neljännes pois, niin että jäljelle jää noin 2½ dl.",
+      "Murenna laakerinlehdet tölkkiin.",
+      "Työnnä tölkki tukevasti broilerin vatsaonteloon.",
+      "Nosta broileri pystyyn matalaan uunivuokaan.",
+      "Paista 1–1½ tuntia, kunnes paksuimman kohdan sisälämpö on 73 astetta.",
+      "Pidä broileri pystyssä uunista ottaessa ja anna levätä 15 minuuttia ennen kuin poistat tölkin."
+    ],
+    "notes": ["Parhaimmillaan hiiligrillissä keskilämmöllä. Kertakäyttöinen valumisastia helpottaa siivousta."]
+  },
+  {
+    "id": "wikibooks-beet-and-cabbage-stew",
+    "title": "Punajuuri-kaalipata lihalla",
+    "description": "Borssimainen pata naudanlihasta, kaalista, punajuuresta ja tomaatista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "punajuuri", "kaali"],
+    "ingredients": [
+      "3 isoa keitettyä punajuurta (tai 2 tlk), kuutioituna",
+      "1 kaali, pilkottuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "5 isoa porkkanaa, pilkottuna",
+      "1 iso sipuli, pilkottuna",
+      "4 vartta lehtiselleriä, pilkottuna",
+      "900 g naudanlihaa, kuutioina",
+      "450 g luita",
+      "3 sitruunan mehu (valinnainen)",
+      "1,4 l tomaattimurskaa",
+      "1,4 l vettä",
+      "1¼ dl sokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Jos käytät raakoja punajuuria, keitä niitä 1½–2 tuntia tai paahda 175-asteisessa uunissa 90 minuuttia, kunnes haarukka uppoaa helposti. Jäähdytä kylmässä vedessä ja kuori.",
+      "Laita liha ja luut isoon kattilaan. Lisää tomaattimurska ja yhtä paljon vettä, sekoita ja kuumenna kiehuvaksi.",
+      "Kun liha on kiehunut 1–1½ tuntia, lisää kaali, valkosipuli, porkkanat, sipuli ja selleri. Keitä, kunnes kasvikset ovat pehmeitä.",
+      "Lisää punajuuret ja sekoita.",
+      "Mausta sitruunamehulla ja sokerilla oman maun mukaan. Keitä vielä 5 minuuttia ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-beet-pickled-eggs",
+    "title": "Punajuurimarinoidut kananmunat",
+    "description": "Kovaksi keitetyt kananmunat marinoituna punajuuri-etikkaliemessä jääkaapissa.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "kananmuna", "punajuuri"],
+    "ingredients": [
+      "12 kananmunaa",
+      "2 tlk (yht. n. 900 g) punajuuria",
+      "1 l väkiviinaetikkaa",
+      "1¾ dl sokeria",
+      "2 rkl srirachaa",
+      "1 rkl suolaa"
+    ],
+    "instructions": [
+      "Laita munat isoon kattilaan veden peittoon ja kuumenna kiehuvaksi.",
+      "Keitä ilman kantta 12 minuuttia.",
+      "Kaada vesi pois ja jäähdytä munat jääkylmässä vedessä. Kuori.",
+      "Laita munat kattilaan etikan, sokerin, srirachan ja suolan kanssa.",
+      "Lisää yhden tölkin punajuurien liemi ja pane punajuuret sivuun. Hävitä ylimääräinen liemi.",
+      "Hauduta 2–3 minuuttia.",
+      "Lisää punajuuret ja kaada kaikki isoon astiaan.",
+      "Säilytä jääkaapissa viikon tai kaksi ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-behari-kabab",
+    "title": "Behari kabab – pakistanilaiset lihavartaat",
+    "description": "Paahdetuilla mausteilla ja jogurtilla marinoidut naudan- tai lampaanlihavartaat.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 270,
+    "category": "Pääruoat",
+    "tags": ["liha", "pakistanilainen", "grilli", "vartaat"],
+    "ingredients": [
+      "1 tl juustokuminaa (kokonaisena)",
+      "1 tl korianterinsiemeniä",
+      "1 tl fenkolinsiemeniä",
+      "1 tl sinapinsiemeniä",
+      "1 rkl inkiväärimurskaa",
+      "1 rkl valkosipulimurskaa",
+      "1 tl garam masalaa",
+      "1 tl paprikajauhetta",
+      "1 tl chilihiutaleita",
+      "1 tl kurkumaa",
+      "1 tl suolaa",
+      "2 rkl maustamatonta jogurttia",
+      "2 rkl sitruunamehua",
+      "2 rkl öljyä",
+      "450 g naudanlihaa tai lampaanlihaa, pieninä paloina"
+    ],
+    "instructions": [
+      "Paahda kokonaiset mausteet kuivalla pannulla keskilämmöllä, kunnes ne tuoksuvat. Jauha ne maustemyllyssä tai huhmareessa.",
+      "Sekoita jauhetut mausteet, inkivääri, valkosipuli, garam masala, paprika, chili, kurkuma, suola, jogurtti, sitruunamehu ja öljy marinadiksi.",
+      "Kaada marinadi lihan päälle ja sekoita. Peitä ja marinoi jääkaapissa vähintään 4 tuntia tai yön yli.",
+      "Kuumenna grilli keskikorkealle lämmölle. Pujota liha vartaisiin ja grillaa 8–10 minuuttia välillä käännellen, kunnes liha on kypsää. Vaihtoehtoisesti paista 200-asteisessa uunissa 15–20 minuuttia.",
+      "Tarjoa kuumana riisin tai naanin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bell-pepper-chili",
+    "title": "Paprika-jauhelihachili",
+    "description": "Iso satsi jauhelihachiliä sipulilla, paprikalla ja kidneypavuilla riisin kanssa.",
+    "servings": 12,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "amerikkalainen", "riisi"],
+    "ingredients": [
+      "1,4–1,6 kg naudan jauhelihaa",
+      "6–8 sipulia, karkeasti pilkottuna",
+      "2–3 paprikaa, karkeasti pilkottuna",
+      "2 rkl chilijauhetta",
+      "1–2 tl valkosipulisuolaa",
+      "1 tlk (400 g) kidneypapuja",
+      "1,8 l tomaattimurskaa",
+      "keitettyä riisiä tarjoiluun",
+      "cheddarjuustoraastetta (valinnainen)"
+    ],
+    "instructions": [
+      "Laita jauheliha isoon kattilaan ja ruskista keskilämmöllä murustellen. Kaada ylimääräinen rasva pois.",
+      "Lisää paprikat ja sipulit ja paista, kunnes sipuli on läpikuultavaa. Kaada rasva tarvittaessa pois.",
+      "Lisää tomaattimurska ja hauduta tunti välillä sekoittaen.",
+      "Lisää pavut ja hauduta vielä 10 minuuttia.",
+      "Mausta chilijauheella ja valkosipulisuolalla.",
+      "Tarjoa riisin päällä, halutessasi cheddarraasteella."
+    ]
+  },
+  {
+    "id": "wikibooks-benachin-gambian-rice-with-meat-and-vegetables",
+    "title": "Benachin – gambialainen yhden padan riisi",
+    "description": "Värikäs riisiruoka lihasta tai kalasta, tomaatista ja kasviksista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kana", "gambialainen", "riisi", "afrikkalainen"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "500 g broileria, naudanlihaa tai kalaa, paloina",
+      "2 rkl tomaattipyreetä",
+      "1 tl paprikajauhetta",
+      "1 tl timjamia",
+      "1 tl currya",
+      "1 punainen paprika, kuutioituna",
+      "1 vihreä paprika, kuutioituna",
+      "1 porkkana, kuorittuna ja kuutioituna",
+      "2½ dl kasviksia (vihreitä papuja, herneitä tai maissia)",
+      "5 dl pitkäjyväistä riisiä",
+      "5–6 dl kana- tai kasvislientä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Kuullota sipuli ja valkosipuli.",
+      "Lisää liha tai kala ja ruskista joka puolelta.",
+      "Lisää tomaattipyree, paprikajauhe, timjami ja curry ja paista muutama minuutti.",
+      "Lisää paprikat, porkkana ja muut kasvikset ja sekoita.",
+      "Huuhtele riisi kylmällä vedellä, kunnes vesi on kirkasta, ja valuta.",
+      "Lisää riisi kattilaan ja sekoita.",
+      "Lisää liemi ja kuumenna kiehuvaksi. Laske lämpö, peitä ja kypsennä sekoittamatta noin 20 minuuttia, kunnes riisi on kypsää.",
+      "Kuohkeuta riisi haarukalla ja mausta suolalla ja pippurilla.",
+      "Tarjoa kuumana pääruokana tai grillatun lihan tai kalan lisukkeena."
+    ]
+  },
+  {
+    "id": "wikibooks-benechin-kunkujang-gambian-seasoned-rice-and-lamb",
+    "title": "Benechin kunkujang – maustettu riisi ja lammas",
+    "description": "Gambialainen yhden padan lammasriisi inkiväärillä, korianterilla ja paprikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "gambialainen", "riisi", "afrikkalainen"],
+    "ingredients": [
+      "5 dl pitkäjyväistä riisiä",
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "450 g lampaanlihaa, kuutioina",
+      "1 punainen paprika, kuutioituna",
+      "1 vihreä paprika, kuutioituna",
+      "2 tomaattia, pilkottuna",
+      "2½ dl tomaattipyreetä",
+      "2 tl inkiväärijauhetta",
+      "2 tl mustapippuria",
+      "1 tl jauhettua korianterinsiementä",
+      "1 tl paprikajauhetta",
+      "1 tl cayennepippuria",
+      "suolaa",
+      "1 l vettä tai lientä",
+      "tuoretta persiljaa tai korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Huuhtele riisi kylmällä vedellä, kunnes vesi on kirkasta.",
+      "Kuumenna öljy isossa kattilassa keskilämmöllä ja kuullota sipuli ja valkosipuli.",
+      "Lisää lammas ja ruskista joka puolelta.",
+      "Lisää paprikat ja kuullota muutama minuutti.",
+      "Lisää tomaatit ja tomaattipyree ja sekoita.",
+      "Lisää mausteet ja suola ja sekoita.",
+      "Lisää vesi tai liemi ja kuumenna kiehuvaksi.",
+      "Lisää riisi, sekoita ja laske lämpö miedoksi.",
+      "Peitä ja hauduta 20–25 minuuttia avaamatta kantta, kunnes riisi on kypsää ja neste imeytynyt.",
+      "Anna seistä peitettynä 5–10 minuuttia.",
+      "Kuohkeuta haarukalla ja ripottele päälle yrttejä. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-bengal-potatoes",
+    "title": "Bengalilaiset maustetut perunat",
+    "description": "Panch phoron -mausteilla, kurkumalla ja chilillä kypsennetyt kuoriperunat.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "intialainen", "peruna"],
+    "ingredients": [
+      "2 rkl gheetä tai öljyä",
+      "2 tl panch phoron -maustesekoitusta",
+      "900 g perunoita, kuorimattomina ja paloiteltuina",
+      "½ tl kurkumaa",
+      "½ tl mietoa chilijauhetta (esim. kashmirilaista)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna ghee isossa paksupohjaisessa kannellisessa kattilassa keskilämmöllä.",
+      "Lisää panch phoron ja kuumenna, kunnes siemenet alkavat poksahdella.",
+      "Lisää perunat ja kääntele, jotta siemenet jakautuvat tasaisesti.",
+      "Lisää kurkumaa sen verran, että perunoiden leikkuupinnat värjäytyvät.",
+      "Lisää chilijauhe maun mukaan ja sekoita hyvin. Mausta suolalla.",
+      "Peitä, laske lämpö ja anna perunoiden kypsyä omassa höyryssään. Lisää tarvittaessa hyvin vähän vettä; perunat eivät saa kiehua. Vaihtoehtoisesti paista maustetut perunat pellillä kuumassa uunissa kypsiksi."
+    ]
+  },
+  { "id": "wikibooks-beniseed-or-sesame-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-beske-nigerian-soy-curds", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-bessara-moroccan-fava-bean-pure",
+    "title": "Bessara – marokkolainen härkäpapusose",
+    "description": "Mausteinen härkäpapusose tai -keitto oliiviöljyn ja juustokuminan kera.",
+    "servings": 2,
+    "totalTimeMin": 780,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "marokkolainen", "pavut", "keitto"],
+    "ingredients": [
+      "250 g kuivattuja kuorittuja halkaistuja härkäpapuja",
+      "3 valkosipulinkynttä",
+      "1 tl paprikajauhetta",
+      "1 tl juustokuminaa (+ tarjoiluun)",
+      "½ dl oliiviöljyä (+ tarjoiluun)",
+      "vettä",
+      "1 sitruunan mehu",
+      "suolaa",
+      "cayennepippuria tai harissaa tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Peitä pavut runsaalla kylmällä vedellä ja liota 8–12 tuntia. Valuta.",
+      "Laita pavut kattilaan valkosipulin, paprikan, juustokuminan ja öljyn kanssa ja peitä vedellä.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja hauduta osittain peitettynä, kunnes pavut ovat pehmeitä, noin tunti.",
+      "Valuta pavut siivilässä ja säästä keitinliemi.",
+      "Soseuta pavut sauvasekoittimella tai tehosekoittimessa sileiksi ja lisää lientä, kunnes sose on halutun paksuista.",
+      "Lisää sitruunamehu ja mausta suolalla.",
+      "Lämmitä tarjoiltaessa keskimiedolla lämmöllä. Tarjoa dippinä tai keittona oliiviöljyn, juustokuminan, suolan ja halutessasi cayennen tai harissan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bettys-salad",
+    "title": "Bettyn pinaattisalaatti",
+    "description": "Ohiolainen pinaattisalaatti kananmunalla, pekonilla ja makealla ketsuppikastikkeella.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["liha", "salaatti", "amerikkalainen"],
+    "ingredients": [
+      "Salaatti:",
+      "½ pss (n. 150 g) tuoretta pinaattia",
+      "6 kovaksi keitettyä kananmunaa, viipaloituna",
+      "1 tlk (400 g) idätettyjä papuja, valutettuina",
+      "1–2 tlk vesikastanjoita, valutettuina ja viipaloituina (valinnainen)",
+      "450 g pekonia, paistettuna ja murennettuna",
+      "Kastike:",
+      "2½ dl rypsiöljyä",
+      "1¾ dl sokeria",
+      "¼ tl suolaa",
+      "¾ dl ketsuppia",
+      "½ dl väkiviinaetikkaa",
+      "1 rkl worcestershirekastiketta",
+      "1 pieni tai keskikokoinen sipuli, hienonnettuna"
+    ],
+    "instructions": [
+      "Kerrosta salaatin ainekset kulhoon luettelon järjestyksessä.",
+      "Sekoita kastikkeen ainekset tehosekoittimessa ja kaada salaatin päälle.",
+      "Säilytä salaatti jääkaapissa."
+    ]
+  }
+]

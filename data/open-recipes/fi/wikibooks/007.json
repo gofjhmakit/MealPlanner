@@ -1,0 +1,689 @@
+[
+  {
+    "id": "wikibooks-bacon-and-egg-stuffed-tomatoes",
+    "title": "Pekoni-munatäytteiset tomaatit",
+    "description": "Isot tomaatit täytettyinä pekoni-munasalaatilla.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Välipalat",
+    "tags": ["liha", "kananmuna", "tomaatti", "nopea"],
+    "ingredients": [
+      "6 isoa tomaattia",
+      "suolaa",
+      "mustapippuria",
+      "6 viipaletta pekonia, paistettuna ja murennettuna",
+      "1¾ dl lehtiselleriä, kuutioituna",
+      "6 kovaksi keitettyä kananmunaa, pilkottuina",
+      "¾ dl majoneesia",
+      "2 tl hienonnettua persiljaa",
+      "paprikajauhetta"
+    ],
+    "instructions": [
+      "Leikkaa tomaateista kannet.",
+      "Kaavi sisukset pois niin, että kuoret jäävät ehjiksi. Hienonna sisukset.",
+      "Valuta tomaattikupit ja mausta sisäpuolet suolalla ja pippurilla.",
+      "Sekoita tomaatinsisus, pekoni, selleri, kananmunat, majoneesi, persilja sekä ¼ tl suolaa ja ¼ tl pippuria.",
+      "Täytä tomaatit seoksella ja ripottele päälle paprikajauhetta."
+    ]
+  },
+  {
+    "id": "wikibooks-bacon-cheese-omelet",
+    "title": "Pekoni-juustomunakas",
+    "description": "Nopea munakas sulavalla juustolla ja pekonilla.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "nopea", "juusto"],
+    "ingredients": [
+      "3 kananmunaa",
+      "2 viipaletta paistettua pekonia",
+      "2 viipaletta sulatejuustoa",
+      "1 rkl voita"
+    ],
+    "instructions": [
+      "Paloittele pekoni ja juusto noin 2,5 cm:n paloiksi.",
+      "Sulata voi pannulla kovalla lämmöllä niin, että se peittää pohjan tasaisesti. Kun voi on puoliksi sulanut, laske lämpö keskitasolle.",
+      "Vatkaa munat tasaisen värisiksi.",
+      "Kaada munat pannulle ja kallistele pannua, jotta muna peittää koko pohjan.",
+      "Kun reunat hyytyvät, nosta niitä lastalla, jotta raaka muna valuu alle. Jatka, kunnes suurin osa munasta on hyytynyt.",
+      "Asettele juusto munakkaan toiselle puoliskolle ja pekoni sen päälle.",
+      "Käännä tyhjä puolisko täytteen päälle.",
+      "Laske lämpö miedoksi ja paista, kunnes juusto on sulanut. Tarjoa kasvisten tai salaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bacon-wrapped-scallops",
+    "title": "Pekoniin käärityt kampasimpukat",
+    "description": "Friteeratut pekonikääreiset kampasimpukat teriyaki-soijakastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Välipalat",
+    "tags": ["äyriäiset", "liha", "alkuruoka", "friteerattu"],
+    "ingredients": [
+      "1 l rypsiöljyä friteeraukseen",
+      "2½ dl teriyakikastiketta",
+      "1¼ dl soijakastiketta",
+      "2 rkl sokeria",
+      "225 g pekonia",
+      "450 g kampasimpukoita (20–30 kpl)"
+    ],
+    "instructions": [
+      "Kuumenna öljy friteerauskeittimessä tai kattilassa 180 asteeseen. Öljy saa täyttää kattilasta enintään puolet.",
+      "Sekoita teriyakikastike, soijakastike ja sokeri kulhossa.",
+      "Halkaise pekoniviipaleet pituussuunnassa.",
+      "Kääri jokainen simpukka pekonisuikaleeseen ja kiinnitä puutikulla.",
+      "Friteeraa erissä kullanruskeiksi, noin 4 minuuttia.",
+      "Nosta öljystä, valuta hetki ja kääntele kastikkeessa.",
+      "Tarjoa heti. Muista poistaa tikut!"
+    ]
+  },
+  {
+    "id": "wikibooks-bagel-toast",
+    "title": "Israelilainen bagelpaahtoleipä",
+    "description": "Rapeaksi grillattu täytetty seesamibagel juustoilla, oliiveilla ja kasviksilla.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "israelilainen", "nopea", "leipä"],
+    "ingredients": [
+      "1 seesamibagel",
+      "2 rkl fetaa tai muuta tuorejuustoa",
+      "2 viipaletta kovaa juustoa",
+      "1 rkl vihreitä oliiveja, viipaloituna",
+      "2 rkl maissia",
+      "1 tomaatti, viipaloituna",
+      "½ sipulia, viipaloituna",
+      "1 rkl ketsuppia",
+      "2 rkl Thousand Island -salaattikastiketta"
+    ],
+    "instructions": [
+      "Halkaise bageli.",
+      "Levitä alaosaan fetaa ja peitä se juustoviipaleilla.",
+      "Lisää maissi ja oliivit, sitten tomaatti- ja sipuliviipaleet.",
+      "Valuta päälle ketsuppia ja salaattikastiketta ja peitä bagelin yläpuoliskolla.",
+      "Valuta pinnalle vielä kastiketta ja paista leipägrillissä noin 2 minuuttia, kunnes juusto on sulanut ja pinta rapea ja tummanruskea.",
+      "Syö heti tomaatin, kurkun tai suolakurkun kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-baingan-bartha-south-indian-eggplant-with-chili-ii",
+    "title": "Baingan bharta – munakoisomuhennos tomaatilla",
+    "description": "Intialainen höyrytetty ja survottu munakoiso mausteisessa sipuli-tomaattikastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "intialainen", "munakoiso"],
+    "ingredients": [
+      "2 keskikokoista munakoisoa",
+      "2 rkl öljyä (mieluiten sinappiöljyä)",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl inkivääriä, hienonnettuna",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "¼ tl sinapinsiemeniä",
+      "⅓ tl juustokuminaa (kokonaisena)",
+      "¼ tl kurkumaa",
+      "100 g tomaattipyreetä tai 4 kypsää tomaattia, hienoksi kuutioituna",
+      "2–3 korianterinvartta, hienonnettuna (lehdet koristeluun)",
+      "1–2 vihreää chiliä, hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuori ja höyrytä munakoisot pehmeiksi. Survo ja pane sivuun.",
+      "Kuumenna öljy pannulla ja lisää sinapin- ja juustokuminansiemenet. Paista 10 sekuntia ja lisää valkosipuli ja inkivääri. Kuullota, kunnes ne kellertävät.",
+      "Lisää sipuli ja kuullota läpikuultavaksi.",
+      "Lisää munakoisosose, kurkuma, korianterinvarret, chili, tomaatti ja suola. Kypsennä keskilämmöllä 20 minuuttia.",
+      "Koristele korianterinlehdillä ja tarjoa."
+    ],
+    "notes": ["Savuisen maun saat laittamalla valmiin ruoan keskelle folionpalan päälle hehkuvan hiilen, kaatamalla sen päälle ¼ tl öljyä ja sulkemalla kannen hetkeksi."]
+  },
+  {
+    "id": "wikibooks-baingan-bartha-south-indian-eggplant-with-coconut-and-chili-i",
+    "title": "Eteläintialainen munakoiso-kookosbharta",
+    "description": "Liekillä paahdettu munakoiso kookos-chili-korianteritahnan ja jogurtin kera.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "intialainen", "munakoiso", "kookos"],
+    "ingredients": [
+      "1 munakoiso (n. 450 g)",
+      "2–6 vihreää chiliä",
+      "2½ dl kookosraastetta (mieluiten tuoretta)",
+      "2½ dl tuoretta korianteria, hienonnettuna",
+      "5 dl maustamatonta jogurttia tai paneeria (valinnainen)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paahda munakoisoa suoraan kaasuliekillä tai grillissä säännöllisesti käännellen, kunnes kuori on musta ja hauras ja sisus pehmeä (15–20 minuuttia).",
+      "Anna jäähtyä.",
+      "Jauha chilit, kookos ja korianteri monitoimikoneessa tahnaksi.",
+      "Kuori munakoiso ja survo hedelmäliha tasaiseksi.",
+      "Sekoita joukkoon kookostahna, jogurtti tai paneeri sekä suola.",
+      "Tarjoa chapatien, dosan tai riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-beans",
+    "title": "Uunipavut pekonilla",
+    "description": "Amerikkalaiset hitaasti uunissa haudutetut makeat pavut pekonin ja melassin kera.",
+    "servings": 8,
+    "totalTimeMin": 165,
+    "category": "Lisukkeet",
+    "tags": ["liha", "pavut", "amerikkalainen", "uuniruoka"],
+    "ingredients": [
+      "900 g kuivattuja valkoisia papuja (tai 4 tlk keitettyjä papuja)",
+      "450 g pekonia, kuutioituna",
+      "2 isoa sipulia, hienonnettuna",
+      "3½ dl fariinisokeria",
+      "1¾ dl tummaa siirappia (melassia)",
+      "vettä tai lientä"
+    ],
+    "instructions": [
+      "Liota kuivatut pavut yön yli.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita kaikki ainekset ja kaada uunipataan tai paksupohjaiseen kattilaan.",
+      "Lisää liotusvettä, lientä tai vettä niin, että pavut juuri ja juuri peittyvät. Säilykepavut tarvitsevat vähemmän nestettä.",
+      "Paista kannen alla 2½ tuntia. Tarkista kosteus tunnin kuluttua ja lisää vettä tarvittaessa. Jos nestettä on liikaa, kypsennä lopuksi ilman kantta."
+    ],
+    "notes": ["Haudutuspadassa: 2½ tuntia suurella teholla tai 5 tuntia pienellä."]
+  },
+  {
+    "id": "wikibooks-baked-brie-in-puff-pastry",
+    "title": "Lehtitaikinassa paistettu brie",
+    "description": "Juhlava alkupala: brie-juusto lehtitaikinakuoressa uunista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Välipalat",
+    "tags": ["kasvis", "juusto", "juhla", "alkuruoka"],
+    "ingredients": [
+      "1 brie-juusto (n. 280 g), kuori poistettuna ja huoneenlämpöinen",
+      "1 levy lehtitaikinaa, sulatettuna",
+      "1 kananmuna, vatkattuna",
+      "1 tl suolaa",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Nosta juusto taikinalevyn keskelle ja mausta suolalla ja pippurilla.",
+      "Leikkaa taikinan reunoista noin 1 cm pois ja taittele taikina juuston päälle. Voitele viimeinen taitos munalla, jotta kuori pysyy kiinni.",
+      "Voitele pinta munalla ja paista 190 asteessa 15 minuuttia.",
+      "Anna jäähtyä 10 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Lämmitä tähteet foliopussissa 95-asteisessa uunissa."]
+  },
+  {
+    "id": "wikibooks-baked-brunch-omelet",
+    "title": "Uunimunakas leivällä, kinkulla ja juustolla",
+    "description": "Brunssipöydän täyttävä leipä-kinkku-juustovuoka.",
+    "servings": 8,
+    "totalTimeMin": 75,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "juusto", "uuniruoka"],
+    "ingredients": [
+      "450 g vaaleaa leipää, kuutioituna",
+      "680 g cheddarjuustoa, raastettuna",
+      "135 g kypsää kinkkua, kuutioituna",
+      "8 kananmunaa",
+      "4¾ dl maitoa",
+      "ripaus suolaa",
+      "tilkka tulista kastiketta",
+      "25 g kevätsipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele kevyesti 23 × 33 cm:n vuoka.",
+      "Levitä puolet leipäkuutioista vuoan pohjalle. Ripottele päälle puolet kinkusta ja puolet juustosta. Toista.",
+      "Vatkaa isossa kulhossa munat, maito, suola, tulinen kastike ja kevätsipuli. Kaada vuokaan.",
+      "Aseta vuoka reunalliselle uunipellille, kaada pellille vettä ja paista 60 minuuttia, kunnes muna on hyytynyt."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-cabbage-and-bacon",
+    "title": "Uunikaali pekonilla",
+    "description": "Keitetty kaali paistettuna pekonin, juuston ja kananmunan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["liha", "kaali", "uuniruoka"],
+    "ingredients": [
+      "1 keräkaali, suikaloituna tai kuutioituna",
+      "150 g pekonia, paloiteltuna",
+      "1 rkl voita",
+      "2 rkl hienonnettua persiljaa",
+      "1 kananmuna",
+      "1½ dl juustoraastetta",
+      "ripaus cayennepippuria",
+      "½ sipulia, karkeasti hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä kaali pehmeäksi ja valuta.",
+      "Paista pekoni voissa.",
+      "Sekoita kaali, pekoni, persilja, muna, juusto, cayenne ja sipuli. Mausta suolalla.",
+      "Siirrä seos lasiseen uunivuokaan ja paista 180 asteessa 15 minuuttia.",
+      "Tarjoa paahtoleivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-chicken-breasts",
+    "title": "Uunissa paistetut broilerin rintafileet",
+    "description": "Helppo perusohje sitruunalla ja pippurilla maustetuille broilerinfileille.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "arkiruoka", "helppo"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "suolaa",
+      "mustapippuria",
+      "oliiviöljyä",
+      "1 sitruunan kuori, hienoksi raastettuna"
+    ],
+    "instructions": [
+      "Sivele fileiden molemmat puolet oliiviöljyllä. Mausta reilusti suolalla, pippurilla ja sitruunankuorella.",
+      "Asettele fileet noin 23 × 33 cm:n uunivuokaan. Työnnä paistolämpömittari yhteen fileeseen ja paista 200-asteisen uunin keskitasolla, kunnes sisälämpö on 75 astetta.",
+      "Nosta lautaselle ja anna levätä 5 minuuttia. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-chicken-with-onions-sumac-and-allspice-musakhan",
+    "title": "Musakhan – palestiinalainen sumakkikana",
+    "description": "Sipulin, sumakin ja maustepippurin kanssa paistettu kana arabialaisen leivän päällä, pinjansiemenillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 160,
+    "category": "Pääruoat",
+    "tags": ["kana", "lähi-itä", "uuniruoka"],
+    "ingredients": [
+      "1 kokonainen broileri (n. 1,5 kg)",
+      "suolaa",
+      "mustapippuria",
+      "1¼ dl oliiviöljyä, jaettuna",
+      "1,5 kg sipulia, ohuina viipaleina",
+      "½ dl sumakkia",
+      "½ tl jauhettua maustepippuria",
+      "2 isoa arabialaista leipää tai pitaa, halkaistuina",
+      "pinjansiemeniä koristeluun",
+      "maustamatonta jogurttia tarjoiluun"
+    ],
+    "instructions": [
+      "Paloittele broileri (rinnat, reidet, koivet ja siivet). Mausta suolalla ja pippurilla.",
+      "Kuumenna puolet öljystä isossa syvässä kattilassa ja ruskista palat kevyesti keskilämmöllä joka puolelta, noin 20 minuuttia. Nosta sivuun.",
+      "Lisää loppu öljy ja kypsennä sipulit läpikuultaviksi välillä sekoittaen, noin 35 minuuttia.",
+      "Lisää sumakki ja maustepippuri ja kypsennä 2 minuuttia.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Peitä noin 23 × 30 cm:n vuoan pohja leivällä. Levitä päälle puolet sipuleista, asettele broilerit niiden päälle ja peitä lopuilla sipuleilla ja kattilan liemellä.",
+      "Paista noin 1½ tuntia, kunnes broileri on kullanruskea ja liha irtoaa luusta.",
+      "Paahda pinjansiemenet pannulla tilkassa oliiviöljyä kullanruskeiksi.",
+      "Ripottele pinjansiemenet päälle ja tarjoa jogurtin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-custard",
+    "title": "Uunissa paistettu vaniljavanukas",
+    "description": "Pehmeä munamaitovanukas vesihauteessa paistettuna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kananmuna", "gluteeniton"],
+    "ingredients": [
+      "4 kananmunaa",
+      "1¼ dl sokeria",
+      "¼ tl suolaa",
+      "1 tl vaniljauutetta",
+      "9½ dl maitoa",
+      "voita vuoan voiteluun"
+    ],
+    "instructions": [
+      "Vatkaa munat, sokeri, suola ja vanilja keskenään.",
+      "Kuumenna maito kiehumispisteeseen ja lisää se munaseokseen hyvin hitaasti koko ajan sekoittaen.",
+      "Kaada seos voideltuun uunivuokaan tai useampaan annosvuokaan.",
+      "Aseta vuoat vesihauteeseen ja paista 150–160 asteessa 30–40 minuuttia.",
+      "Vanukas on kypsää, kun siihen pistetty veitsi tulee ulos puhtaana."
+    ],
+    "notes": ["Karamellivanukkaaseen lisää munaseokseen 4 rkl kinuskikastiketta. Vuoan pohjalle voi laittaa omenasosetta tai kvittenihilloa."]
+  },
+  {
+    "id": "wikibooks-baked-eggplant",
+    "title": "Täytetyt uunimunakoisot",
+    "description": "Munakoisonkuoret täytettyinä sieni-tomaatti-saksanpähkinäseoksella kapristen ja kanelin kera.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "munakoiso", "uuniruoka"],
+    "ingredients": [
+      "2 keskikokoista munakoisoa (yht. 900 g)",
+      "115 g herkkusieniä, viipaloituna",
+      "225 g tomaatteja, pilkottuna",
+      "2½ dl hienonnettua sipulia",
+      "4 isoa valkosipulinkynttä, hienonnettuna",
+      "1 tl suolaa",
+      "½ tl kanelia",
+      "mustapippuria",
+      "2 tl oliiviöljyä (+ kuorten voiteluun)",
+      "80 g saksanpähkinöitä",
+      "3 kukkurallista rkl kapriksia, valutettuina",
+      "1 tlk (170 g) tomaattipyreetä",
+      "2–3 pientä tomaattia, viipaloituna"
+    ],
+    "instructions": [
+      "Halkaise munakoisot pituussuunnassa ja kaavi hedelmäliha pois niin, että kuoreen jää noin ½ cm reunus. Pilko hedelmäliha karkeasti.",
+      "Laita pilkottu munakoiso isoon syvään pannuun tai wokkiin.",
+      "Sivele kuorten sisäpuoli oliiviöljyllä ja nosta pellille.",
+      "Lisää pannulle sienet, tomaatit, sipuli, valkosipuli, suola, kaneli, pippuri ja öljy ja kuullota 5–10 minuuttia pehmeäksi mutta vielä paloiksi.",
+      "Grillaa munakoisonkuoria noin 7 cm:n päässä grillivastuksesta 8–12 minuuttia, kunnes ne ovat pehmeitä. Varo polttamasta.",
+      "Rouhi saksanpähkinät ja lisää ne pannulle kapristen ja tomaattipyreen kanssa. Sekoita hyvin.",
+      "Täytä kuoret seoksella ja peitä tomaattiviipaleilla. Mausta suolalla ja pippurilla.",
+      "Paista ilman kantta 190 asteessa 25–35 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-lamb-and-yogurt",
+    "title": "Tavë kosi – albanialainen lammas-jogurttivuoka",
+    "description": "Uunissa paistettu lammas ja riisi kuohkean jogurtti-munakastikkeen alla.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["liha", "albanialainen", "uuniruoka"],
+    "ingredients": [
+      "680 g lampaanlihaa",
+      "50 g voita",
+      "2 rkl riisiä",
+      "suolaa",
+      "mustapippuria",
+      "Kastike:",
+      "1 rkl vehnäjauhoja",
+      "50 g voita",
+      "900 g maustamatonta jogurttia",
+      "5 kananmunaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa liha neljäksi annospalaksi ja mausta suolalla ja pippurilla. Paista keskilämpöisessä uunissa (175 astetta) voin kanssa ja valele välillä paistinliemellä.",
+      "Kun liha on puolikypsää, lisää riisi. Ota vuoka uunista sillä aikaa, kun valmistat kastikkeen.",
+      "Kuumenna jauhot voissa tasaiseksi seokseksi. Sekoita jogurtti, suola, pippuri ja munat tasaiseksi ja lisää lopuksi voi-jauhoseos. Kaada kastike vuokaan ja sekoita lihapalojen kanssa.",
+      "Paista 190 asteessa noin 45 minuuttia. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-leeks",
+    "title": "Albanialainen purjo-jauhelihavuoka",
+    "description": "Tavë me presh: paistettu purjo uunissa jauheliha-tomaattikastikkeen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["liha", "albanialainen", "uuniruoka", "purjo"],
+    "ingredients": [
+      "900 g purjoa",
+      "1¼ dl öljyä",
+      "1¾ dl hienonnettua sipulia",
+      "225 g jauhelihaa",
+      "1¼ dl lihalientä",
+      "1 rkl tomaattikastiketta",
+      "1 tl mietoa paprikajauhetta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa purjoista vihreät lehdet pois. Pese ja leikkaa purjot vinottain noin 2,5 cm paksuiksi paloiksi.",
+      "Kuullota purjot pienessä määrässä öljyä ja siirrä uunivuokaan.",
+      "Ruskista sipuli ja jauheliha lopussa öljyssä.",
+      "Lisää liemi, tomaattikastike, paprikajauhe, suola ja pippuri ja kiehauta.",
+      "Kaada lihaseos purjojen päälle.",
+      "Paista 190 asteessa tunti.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-lemon-thyme-halibut",
+    "title": "Uunipallas sitruunalla ja timjamilla",
+    "description": "Leivinpaperin alla mehevästi kypsennetty ruijanpallas.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "nopea", "uuniruoka"],
+    "ingredients": [
+      "450 g ruijanpallasfileetä",
+      "1 rkl oliiviöljyä",
+      "4 oksaa tuoretta timjamia",
+      "1 sitruuna, viipaloituna",
+      "½ dl kalalientä",
+      "1 rkl mustapippuria"
+    ],
+    "instructions": [
+      "Nosta kala uunivuoan keskelle.",
+      "Valuta päälle oliiviöljy ja kalaliemi. Lisää timjami ja sitruunaviipaleet ja ripottele päälle pippuri. Peitä leivinpaperilla ja foliolla.",
+      "Paista 200 asteessa 15–20 minuuttia, kunnes kala irtoaa lohkoiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-oatmeal",
+    "title": "Uunikaurapuuro",
+    "description": "Makea uunissa paistettu kaurapuuro aamiaiseksi tai välipalaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kaura", "uuniruoka"],
+    "ingredients": [
+      "7 dl kaurahiutaleita",
+      "2½ dl fariinisokeria",
+      "2 tl leivinjauhetta",
+      "1 tl kanelia",
+      "1 tl suolaa",
+      "2½ dl maitoa",
+      "120 g voita, sulatettuna",
+      "2 kananmunaa"
+    ],
+    "instructions": [
+      "Sekoita ainekset ja kaada noin 20 × 20 cm:n uunivuokaan.",
+      "Paista 175 asteessa 40–45 minuuttia.",
+      "Tarjoa lämpimänä tai kylmänä, maidon kanssa tai ilman."
+    ],
+    "notes": ["Muunnelma: lisää 1 dl vehnähiutaleita, käytä fariinisokerin sijaan 1 dl sokeria ja 1 rkl tummaa siirappia, maidon sijaan 3½ dl soijajuomaa, voin sijaan 1 dl öljyä ja lisää yksi kananmuna."]
+  },
+  {
+    "id": "wikibooks-baked-penne",
+    "title": "Uunipenne ricotalla",
+    "description": "Kuohkea penne-vuoka ricotasta, tomaatista ja vaahdotetuista valkuaisista.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "uuniruoka"],
+    "ingredients": [
+      "125 g pennepastaa",
+      "300 g ricottaa",
+      "4 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+      "60 g suolatonta voita, sulatettuna",
+      "ripaus viinikiveä",
+      "ripaus suolaa",
+      "¼ tl mustapippuria",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 rkl lehtipersiljaa, hienonnettuna",
+      "60 g mozzarellaa, raastettuna",
+      "400 g tomaattipyreetä",
+      "4 basilikanlehteä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Keitä pasta suolalla maustetussa vedessä al denteksi. Valuta ja huuhtele kylmällä vedellä.",
+      "Sekoita ricotta, keltuaiset, voi, suola, pippuri, valkosipuli, persilja ja tomaattipyree. Kääntele pasta joukkoon.",
+      "Vatkaa valkuaiset ja viinikivi puhtaassa metallikulhossa kovaksi vaahdoksi. Kääntele varovasti pastaseokseen.",
+      "Kaada leivinpaperilla vuorattuun korkeareunaiseen vuokaan. Ripottele päälle mozzarella ja peitä foliolla. Paista uunin keskitasolla 15 minuuttia.",
+      "Poista folio ja laske lämpö 175 asteeseen. Paista vielä noin 30 minuuttia, kunnes pinta on ruskistunut ja kupliva.",
+      "Annostele lautasille ja koristele basilikalla. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-pork-chops",
+    "title": "Uunissa haudutetut porsaankyljykset omenalla",
+    "description": "Helpot ja maukkaat kyljykset omenan, sipulin, hunajan ja kuminan kanssa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "omena", "arkiruoka"],
+    "ingredients": [
+      "3–4 ohutta luullista porsaankyljystä",
+      "1 omena, ohuina viipaleina",
+      "1 sipuli, ohuina viipaleina",
+      "1 rkl hunajaa",
+      "1 rkl kuminaa",
+      "valkosipulisuolaa",
+      "mustapippuria",
+      "dijonsinappia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Kerrosta sipuli- ja omenaviipaleet kannelliseen uunivuokaan. Valuta päälle hunaja ja ripottele puolet kuminasta.",
+      "Mausta kyljykset valkosipulisuolalla ja pippurilla ja sivele päälle dijonsinappia. Nosta ne omenoiden päälle.",
+      "Ripottele päälle loput kuminasta.",
+      "Paista kannen alla tunti."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-potato-halves",
+    "title": "Uuniperunanpuolikkaat",
+    "description": "Kuorimattomat perunanpuolikkaat, joiden leikkuupintaan paistuu rapea kuori.",
+    "servings": 2,
+    "totalTimeMin": 50,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "uuniruoka", "helppo"],
+    "ingredients": [
+      "4 samankokoista perunaa (à n. 250 g)",
+      "1 rkl öljyä tai laardia pellin voiteluun",
+      "1–2 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Pese perunat hyvin ja poista huonot kohdat. Älä kuori.",
+      "Halkaise perunat niin, että puolikkaista tulee mahdollisimman ohuita.",
+      "Laita ¼–½ tl suolaa toisen puolikkaan leikkuupinnalle ja hiero puolikkaita yhteen, niin että molemmat suolautuvat.",
+      "Asettele perunat voidellulle pellille leikkuupinta alaspäin ja paista noin 45 minuuttia, kunnes leikkuupintaan on muodostunut oranssinruskea kuori.",
+      "Tarjoa kuumana. Perunat voi kuoria syödessä tai syödä kuorineen."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-potatoes",
+    "title": "Uuniperunat (nuotiolla, mikrossa tai uunissa)",
+    "description": "Kokonaisena kypsennetyt perunat kolmella tavalla.",
+    "servings": 1,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "retkiruoka"],
+    "ingredients": [
+      "1 iso uuniperuna",
+      "1 tl öljyä",
+      "suolaa",
+      "voita tai kermaviiliä (valinnainen)"
+    ],
+    "instructions": [
+      "Harjaa peruna puhtaaksi ja pistele kuori haarukalla joka puolelta.",
+      "Nuotiolla: kääri peruna kevyesti öljyttyyn paksuun folioon ja kypsennä keskikuumilla hiilillä noin 45 minuuttia, kunnes se on pehmeä.",
+      "Mikrossa: kääri peruna leivinpaperiin, aseta talouspaperin päälle ja kypsennä täydellä teholla noin 8 minuuttia. Peruna on erittäin kuuma.",
+      "Uunissa: paista 190 asteessa noin tunti.",
+      "Halkaise peruna ja tarjoa suolan ja voin tai kermaviilin kanssa."
+    ],
+    "notes": ["Täytteeksi sopivat myös papupata, avokado, salsa, sienet tai juustoraaste."]
+  },
+  {
+    "id": "wikibooks-baked-tilapia-with-white-wine",
+    "title": "Uunitilapia valkoviinissä",
+    "description": "Kokonaiset tilapiat valkoviinissä, yrteissä ja kevätsipulissa ranskankermakastikkeen kera.",
+    "servings": 2,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka"],
+    "ingredients": [
+      "2 kokonaista tilapiaa (à 225–280 g), perattuina ja suomustettuina",
+      "1½ dl valkoviiniä",
+      "1–2 valkosipulinkynttä, hienonnettuna",
+      "4 rkl hienonnettuja tuoreita yrttejä",
+      "6 kevätsipulia, vinoina viipaleina",
+      "suolaa",
+      "mustapippuria",
+      "15 g voita",
+      "1 tl maissitärkkelystä, sekoitettuna tilkkaan kylmää vettä",
+      "2 rkl ranskankermaa"
+    ],
+    "instructions": [
+      "Asettele kalat vierekkäin kevyesti öljyttyyn uunivuokaan.",
+      "Kaada viini kalojen päälle ja ripottele päälle valkosipuli, suurin osa yrteistä, kevätsipuli sekä suola ja pippuri. Laita kummankin kalan päälle puolet voista.",
+      "Peitä kevyesti öljytyllä foliolla ja paista 175-asteisessa uunissa 30–35 minuuttia.",
+      "Siirrä kalat tarjoiluvadille lämpimään. Kaada paistoliemi kattilaan, sekoita joukkoon maissitärkkelysseos ja keitä 2 minuuttia. Sekoita joukkoon ranskankerma.",
+      "Kaada kastike kalojen päälle, ripottele päälle loput yrtit ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-baked-ziti",
+    "title": "Uunipasta kolmella juustolla (baked ziti)",
+    "description": "Italialais-amerikkalainen pastavuoka tomaattikastikkeessa ricotan, mozzarellan ja parmesaanin kera.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "uuniruoka"],
+    "ingredients": [
+      "450 g ziti- tai muuta putkipastaa",
+      "3½ dl tomaattikastiketta (marinara)",
+      "450 g mozzarellaa, raastettuna",
+      "225 g ricottaa",
+      "110 g parmesaania, raastettuna",
+      "1 kananmuna, vatkattuna",
+      "3 rkl basilikaa, hienonnettuna",
+      "2 rkl tuoretta oreganoa, hienonnettuna",
+      "3 rkl lehtipersiljaa, hienonnettuna",
+      "1¼ dl korppujauhoja",
+      "ripaus chilihiutaleita (valinnainen)",
+      "suolaa",
+      "mustapippuria",
+      "oliiviöljyä vuoan voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 225 asteeseen. Voitele iso uunivuoka oliiviöljyllä.",
+      "Sekoita isossa kulhossa ricotta, muna, yrtit sekä noin puolet mozzarellasta ja parmesaanista. Mausta suolalla ja pippurilla.",
+      "Keitä pasta suolalla maustetussa vedessä al denteksi ja valuta hyvin.",
+      "Sekoita pasta, tomaattikastike ja chilihiutaleet. Lisää ricottaseos ja kääntele, kunnes se alkaa sulaa. Levitä seos vuokaan.",
+      "Ripottele päälle loput mozzarellasta ja parmesaanista ja niiden päälle korppujauhot.",
+      "Paista 225 asteessa noin 20 minuuttia, kunnes juusto on kullanruskeaa ja kuplivaa."
+    ]
+  },
+  {
+    "id": "wikibooks-baklava",
+    "title": "Baklava",
+    "description": "Voiset filotaikinakerrokset saksanpähkinätäytteellä ja sitruunaisella sokeriliemellä.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 130,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kreikkalainen", "turkkilainen", "juhla"],
+    "ingredients": [
+      "450 g filotaikinaa",
+      "Täyte:",
+      "1–1,2 l saksanpähkinöitä, karkeasti rouhittuina",
+      "1¼ dl sokeria",
+      "¼ tl neilikkaa",
+      "1 tl kanelia",
+      "340 g suolatonta voita",
+      "Sokeriliemi:",
+      "6 dl vettä",
+      "7 dl sokeria",
+      "3 tl sitruunamehua",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Sekoita pähkinät, kaneli, neilikka ja sokeri. Sulata voi kattilassa.",
+      "Voitele noin 36 × 27 cm:n vuoka sulatetulla voilla.",
+      "Nosta vuoan pohjalle filolevy ja taita ylimenevä osa alle.",
+      "Lisää levyjä vuorotellen eri suuntiin ja voitele jokainen kerros voilla. Tee näin 5 kerrosta.",
+      "Ripottele kuudennelle levylle tasaisesti pähkinäseosta.",
+      "Jatka kerroksia, kunnes pähkinäseos on käytetty, ja tee pinta kuudesta voidellusta filolevystä.",
+      "Leikkaa terävällä veitsellä vinoneliöiksi.",
+      "Paista 150 asteessa noin 1½ tuntia, kunnes pinta on vaaleanruskea.",
+      "Keitä sokeriliemen ainekset noin 10 minuuttia ja anna jäähtyä.",
+      "Kaada jäähtynyt liemi kuuman baklavan päälle."
+    ]
+  }
+]

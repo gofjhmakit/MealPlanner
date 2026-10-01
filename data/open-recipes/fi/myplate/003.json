@@ -1,0 +1,660 @@
+[
+  {
+    "id": "myplate-banana-cupcakes",
+    "title": "Banaanikuppikakut",
+    "description": "Kuppikakut saavat makua ja kaliumia banaanista.",
+    "servings": 12,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinit", "leivonnainen"],
+    "ingredients": [
+      "100 g leivontarasvaa tai margariinia",
+      "1¾ dl sokeria",
+      "2 isoa kananmunaa",
+      "1 tl vaniljauutetta",
+      "3½ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "½ tl suolaa",
+      "2½ dl banaania, survottuna (n. 2 banaania)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vatkaa rasva ja sokeri sähkövatkaimella vaahdoksi.",
+      "Lisää munat ja vanilja ja sekoita hyvin.",
+      "Sekoita toisessa kulhossa jauhot, leivinjauhe, ruokasooda ja suola.",
+      "Lisää jauhoseos ja banaani munaseokseen ja sekoita tasaiseksi.",
+      "Asettele muffinipeltiin paperivuoat tai voitele kolot ohuelti.",
+      "Täytä vuoat kahden kolmasosan korkeudelle.",
+      "Paista 20–22 minuuttia kullanruskeiksi.",
+      "Nosta kuppikakut ritilälle jäähtymään."
+    ]
+  },
+  {
+    "id": "myplate-banana-oat-cookies",
+    "title": "Banaani-kaurakeksit",
+    "description": "Täysjyvää ja hedelmää ilman lisättyä sokeria – terveellinen ja maukas herkku.",
+    "servings": 25,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "lapsille"],
+    "ingredients": [
+      "2½ dl ylikypsää banaania, survottuna",
+      "1¼ dl maustamatonta kevytjogurttia",
+      "½ dl vettä",
+      "2½ dl kaurahiutaleita",
+      "1¼ dl rusinoita (valinnainen)",
+      "1¼ dl auringonkukansiemeniä (valinnainen)",
+      "kanelia (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Sekoita banaani, jogurtti ja vesi.",
+      "Lisää kaurahiutaleet ja sekoita hyvin.",
+      "Lisää halutessasi rusinat, siemenet ja kaneli. Taikinan pitää olla paksua ja helposti lusikoitavaa.",
+      "Voitele uunipelti. Nosta pellille ruokalusikallinen taikinaa kerrallaan ja painele kevyesti litteäksi.",
+      "Paista 20 minuuttia, käännä keksit ja paista vielä noin 15 minuuttia, kunnes ne ovat rapeita."
+    ]
+  },
+  {
+    "id": "myplate-banana-oatmeal-pancakes-lentils",
+    "title": "Banaani-kaurapannukakut linsseillä",
+    "description": "Herkullinen aamupala, joka tuo pöytään täysjyvää, proteiinia ja kuitua.",
+    "servings": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakut", "palkokasvit"],
+    "ingredients": [
+      "½ dl punaisia linssejä",
+      "2½ dl kaurahiutaleita",
+      "2½ dl vehnäjauhoja",
+      "½ dl fariinisokeria",
+      "1 tl kanelia",
+      "2 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "1¾ dl maustamatonta kevytjogurttia",
+      "1¾ dl kevytmaitoa",
+      "½ dl rypsiöljyä (tai sulatettua voita)",
+      "2 isoa kananmunaa",
+      "1 tl vaniljauutetta",
+      "2 ylikypsää banaania, survottuna",
+      "öljyä paistamiseen",
+      "vaahterasiirappia tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä linssejä kiehuvassa vedessä 15–20 minuuttia pehmeiksi. Valuta hyvin.",
+      "Sekoita isossa kulhossa kaurahiutaleet, jauhot, fariinisokeri, kaneli, leivinjauhe, ruokasooda ja suola.",
+      "Vatkaa pienemmässä kulhossa jogurtti, maito, öljy, munat ja vanilja.",
+      "Lisää nesteet kuiviin aineksiin banaanin ja linssien kanssa ja sekoita juuri ja juuri sekaisin.",
+      "Kuumenna paksupohjainen pannu keskikovalla lämmöllä ja pyyhi pohjalle tilkka öljyä.",
+      "Paista noin 1 dl taikinaa kerrallaan ja levitä sitä tarvittaessa lusikalla (taikina on paksua). Paista pari minuuttia, kunnes pintaan tulee kuplia ja pohja on kullanruskea. Pidä lämpö keskitasolla, sillä nämä kypsyvät tavallista hitaammin.",
+      "Käännä ja paista toinen puoli kullanruskeaksi ja joustavaksi.",
+      "Pidä valmiit pannukakut lämpimänä 120-asteisessa uunissa ritilällä. Tarjoile halutessasi vaahterasiirapin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-banana-oatmeal-raisin-cookies",
+    "title": "Banaani-kaura-rusinakeksit",
+    "description": "Kukaan ei arvaa, ettei näissä kekseissä ole lisättyä sokeria.",
+    "servings": 15,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "lapsille"],
+    "ingredients": [
+      "3 kypsää banaania, survottuna",
+      "75 g margariinia tai voita",
+      "5 dl kaurahiutaleita",
+      "½ dl kevyt- tai rasvatonta maitoa",
+      "1¼ dl rusinoita",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sulata rasva pienessä kattilassa miedolla lämmöllä.",
+      "Sekoita kaikki ainekset kulhossa hyvin.",
+      "Anna seistä noin 5 minuuttia, kunnes kaurahiutaleet ovat kostuneet.",
+      "Voitele uunipelti ohuelti ja nostele taikinaa ruokalusikallinen kerrallaan pellille.",
+      "Paista 15–20 minuuttia.",
+      "Anna jäähtyä pellillä minuutti ja siirrä ritilälle jäähtymään kokonaan."
+    ]
+  },
+  {
+    "id": "myplate-banana-pancakes-apple-topping",
+    "title": "Banaanipannukakut omenatäytteellä",
+    "description": "Tuore banaani ja omenahillo piristävät pannukakkuja; täysjyväjauho ja hedelmät tuovat kuitua.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakut", "omena"],
+    "ingredients": [
+      "Omenatäyte:",
+      "3 omenaa",
+      "3 rkl sokeria",
+      "1 tl kanelia",
+      "½ dl vettä",
+      "Pannukakut:",
+      "2 kananmunaa",
+      "3½ dl kevytmaitoa",
+      "1 rkl hunajaa",
+      "3 rkl rypsiöljyä",
+      "1¾ dl täysjyvävehnäjauhoja",
+      "1¾ dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "2 banaania",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Pese omenat, poista siemenkodat ja viipaloi ohuiksi kuorineen.",
+      "Sekoita omenat sokerin, kanelin ja veden kanssa ja kypsennä pannulla 10 minuuttia. Nosta sivuun.",
+      "Vatkaa munat ja lisää maito, hunaja ja öljy.",
+      "Lisää jauhot ja leivinjauhe. Viipaloi banaanit ja sekoita taikinaan.",
+      "Voitele iso tarttumaton pannu ja kuumenna keskilämmöllä 2 minuuttia.",
+      "Paista noin ½ dl taikinaa pannukakkua kohden, kunnes pinta kuplii ja reunat ovat kuivia.",
+      "Käännä ja paista 2–3 minuuttia kullanruskeaksi. Pidä valmiit lämpimänä ja toista, kunnes taikina loppuu.",
+      "Tarjoile pannukakut omenatäytteen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-banana-pudding",
+    "title": "Banaanivanukas",
+    "description": "Pikavanukasjauhe muuttuu herkulliseksi jälkiruoaksi jogurtin ja banaanin kanssa.",
+    "servings": 8,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "lapsille"],
+    "ingredients": [
+      "1 ps (n. 100 g) vanilja- tai banaanivanukasjauhetta",
+      "5 dl rasvatonta maitoa",
+      "250 g maustamatonta rasvatonta jogurttia",
+      "2 banaania, viipaloituna (tai muita hedelmiä)"
+    ],
+    "instructions": [
+      "Sekoita vanukasjauhe ja maito kulhossa ja vatkaa 2 minuuttia.",
+      "Kääntele joukkoon jogurtti.",
+      "Jäähdytä 30 minuuttia.",
+      "Lado banaaniviipaleita kahdeksan jälkiruokakulhon pohjalle.",
+      "Kaada vanukas hedelmien päälle ja lisää päälle hedelmiä.",
+      "Säilytä jääkaapissa tarjoiluun asti – maku paranee pidempään jäähtyessä."
+    ]
+  },
+  {
+    "id": "myplate-banana-split-oatmeal",
+    "title": "Banana split -kaurapuuro",
+    "description": "Pakastejogurtti ja banaani muuttavat kaurapuuron jälkiruoaksi tai välipalaksi.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "puuro", "nopea"],
+    "ingredients": [
+      "¾ dl kaurahiutaleita",
+      "ripaus suolaa",
+      "1¾ dl vettä",
+      "½ banaania, viipaloituna",
+      "1¼ dl kevyttä pakastejogurttia tai jäätelöä",
+      "3 minttulehteä (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita kaurahiutaleet ja suola mikronkestävässä kulhossa ja lisää vesi.",
+      "Kypsennä mikrossa täydellä teholla minuutti ja sekoita.",
+      "Kypsennä vielä minuutti, sekoita ja tarvittaessa vielä 30–60 sekuntia, kunnes puuro on sopivan paksua.",
+      "Lisää päälle banaani, pakastejogurtti ja halutessasi minttua."
+    ]
+  },
+  {
+    "id": "myplate-banana-walnut-oatmeal",
+    "title": "Banaani-saksanpähkinäpuuro",
+    "description": "Kermainen kaurapuuro banaanilla, vaahterasiirapilla ja saksanpähkinöillä. Ylikypsät banaanit voi pakastaa puuroa varten.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "puuro", "nopea"],
+    "ingredients": [
+      "5 dl rasvatonta tai kevytmaitoa",
+      "7 dl vettä",
+      "ripaus suolaa (valinnainen)",
+      "5 dl kaurahiutaleita",
+      "2 kypsää banaania, survottuna",
+      "2 rkl vaahterasiirappia",
+      "2 rkl saksanpähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna maito, vesi ja suola kattilassa keskilämmöllä höyryäväksi, mutta älä keitä.",
+      "Lisää kaurahiutaleet ja keitä sekoittaen kermaiseksi, 1–2 minuuttia.",
+      "Nosta liedeltä ja sekoita joukkoon banaani ja vaahterasiirappi.",
+      "Jaa neljään kulhoon ja koristele saksanpähkinöillä."
+    ]
+  },
+  {
+    "id": "myplate-bananas-with-caramel-sauce",
+    "title": "Uunibanaanit karamellikastikkeella",
+    "description": "Makea banaanijälkiruoka koko perheelle – sopii hyvin myös juhliin.",
+    "servings": 12,
+    "totalTimeMin": 25,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "6 isoa banaania kuorineen",
+      "6 rkl voita",
+      "2½ dl sokeria",
+      "2 rkl vettä",
+      "1¼ dl kahvikermaa (tai makeuttamatonta maitotiivistettä)",
+      "2 tl maissitärkkelystä + 2 tl vettä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Asettele kuorelliset banaanit pellille ja pistele kuoret haarukalla.",
+      "Paista noin 8 minuuttia, kunnes kuoret mustuvat.",
+      "Keitä voi, vesi ja sokeri keskilämmöllä keskiruskeaksi karamelliksi.",
+      "Nosta liedeltä. Sekoita kerma ja maissitärkkelysseos karamelliin.",
+      "Palauta lämmölle ja kuumenna koko ajan sekoittaen kiehuvaksi.",
+      "Nosta liedeltä ja anna jäähtyä hieman.",
+      "Kuori banaanit, halkaise pituussuunnassa ja tarjoile kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-barley-jambalaya",
+    "title": "Ohrajambalaya",
+    "description": "Cajun-henkinen jambalaya, jossa riisin sijaan on helmiohraa ja kalkkunan jauhelihaa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "amerikkalainen", "pataruoka"],
+    "ingredients": [
+      "2½ dl pikahelmiohraa (ohrasuurimoita)",
+      "1 l vettä",
+      "2 laakerinlehteä",
+      "3 sipulia",
+      "2 pientä vartta varsiselleriä",
+      "2½ dl paprikaa, kuutioituna",
+      "2 valkosipulinkynttä",
+      "1 rkl rypsiöljyä",
+      "115 g kalkkunan jauhelihaa",
+      "2 tlk (à 400 g) tomaattimurskaa",
+      "1 tl suolaa",
+      "½ tl cayennepippuria",
+      "1½ tl kuivattua oreganoa",
+      "1 tl mustapippuria"
+    ],
+    "instructions": [
+      "Huuhtele ohra siivilässä kylmällä vedellä. Kuumenna ohra, vesi ja laakerinlehdet kattilassa kiehuvaksi, laske lämpöä ja keitä kannen alla 20–30 minuuttia, kunnes ohra on pehmeää. Valuta ja nosta sivuun.",
+      "Kuori ja kuutioi sipulit, kuutioi selleri ja paprika ja hienonna valkosipuli.",
+      "Kuumenna öljy isossa kattilassa keskikovalla lämmöllä. Lisää sipulit, selleri, paprika ja valkosipuli ja kuullota noin 5 minuuttia pehmeiksi.",
+      "Lisää jauheliha ja paista noin 5 minuuttia kypsäksi.",
+      "Lisää tomaatit nesteineen ja kuumenna kiehuvaksi. Lisää mausteet ja sekoita.",
+      "Peitä, laske lämpöä ja hauduta hiljaa 15 minuuttia.",
+      "Sekoita joukkoon keitetty ohra ja lisää tarvittaessa vettä tai lientä. Hauduta vielä 5–10 minuuttia.",
+      "Poista laakerinlehdet ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-barley-pilaf",
+    "title": "Ohrapilahvi sienillä",
+    "description": "Helmiohrapilahvi sienillä, sipulilla ja sellerillä. Pikaohralla valmistusaika puolittuu.",
+    "servings": 8,
+    "totalTimeMin": 75,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "suomalainen", "lisuke"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2½ dl sipulia, pilkottuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "1¼ dl vihreää tai punaista paprikaa, pilkottuna (valinnainen)",
+      "2½ dl herkkusieniä, viipaloituna",
+      "2½ dl helmiohraa (ohrasuurimoita)",
+      "6 dl vettä",
+      "1 tl kasvisliemijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskilämmöllä ja kuullota sipulia ja selleriä usein sekoittaen, kunnes sipuli on pehmeää.",
+      "Lisää paprika, sienet ja ohra ja sekoita.",
+      "Lisää vesi ja liemijauhe ja sekoita, kunnes jauhe liukenee.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja peitä. Keitä 50–60 minuuttia, kunnes ohra on pehmeää ja neste imeytynyt."
+    ]
+  },
+  {
+    "id": "myplate-basic-custard",
+    "title": "Munavanukas (vaniljakreemi)",
+    "description": "Kananmunasta, maidosta ja ripauksesta sokeria syntyy kaiken ikäisille sopiva jälkiruoka – liedellä tai uunissa.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kananmuna", "gluteeniton"],
+    "ingredients": [
+      "1 kananmuna",
+      "2 rkl sokeria",
+      "2½ dl rasvatonta maitoa",
+      "½ tl vaniljauutetta (valinnainen)"
+    ],
+    "instructions": [
+      "Liedellä: vatkaa muna ja sokeri kattilassa ja lisää maito.",
+      "Nosta kattila toiseen kattilaan, jossa on 2–5 cm kiehuvaa vettä. Kypsennä koko ajan sekoittaen, kunnes vaahto häviää ja seos peittää lusikan.",
+      "Nosta pois lämmöltä ja sekoita joukkoon halutessasi vanilja. Kaada annosmaljoihin ja jäähdytä jääkaapissa. Vanukas jää pehmeäksi.",
+      "Uunissa: vatkaa muna ja sokeri uunivuoassa, lisää maito ja vanilja ja sekoita hyvin.",
+      "Nosta vuoka matalaan vuokaan, jossa on kuumaa vettä. Paista 175 asteessa 50–60 minuuttia, kunnes keskelle pistetty veitsenkärki tulee puhtaana ulos. Älä ylikypsennä.",
+      "Syö lämpimänä tai jäähdytä myöhemmäksi."
+    ]
+  },
+  {
+    "id": "myplate-basic-muffins",
+    "title": "Perusmuffinit omenasoseella",
+    "description": "Monipuoliset perusmuffinit, joihin voi lisätä porkkanaa, rusinoita tai saksanpähkinöitä.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinit", "leivonnainen"],
+    "ingredients": [
+      "½ dl rypsiöljyä",
+      "2½ dl sokeria",
+      "1 kananmuna",
+      "3 dl makeuttamatonta omenasosetta",
+      "1½ tl kanelia",
+      "1 tl ruokasoodaa",
+      "¼ tl suolaa",
+      "2½ dl vehnäjauhoja",
+      "2½ dl täysjyvävehnäjauhoja",
+      "raastettua porkkanaa, rusinoita ja/tai saksanpähkinöitä (valinnainen)",
+      "1¼ dl rasvatonta maitoa (vain jos lisäät porkkanaa, rusinoita tai pähkinöitä)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vuoraa muffinipelti paperivuoilla tai voitele kolot.",
+      "Vatkaa öljy ja sokeri.",
+      "Lisää muna ja omenasose ja sekoita hyvin.",
+      "Sekoita joukkoon kaneli, ruokasooda, suola ja jauhot.",
+      "Lisää halutessasi porkkanaa, rusinoita tai pähkinöitä – jos lisäät, lisää myös maito.",
+      "Täytä vuoat kahden kolmasosan korkeudelle ja paista 15–18 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-basic-quiche",
+    "title": "Peruspiiras (kasvisquiche)",
+    "description": "Vaihtele piirasta kulloinkin käsillä olevilla kasviksilla – tuoreilla, pakastetuilla tai säilötyillä.",
+    "servings": 6,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "piirakka", "kananmuna", "uuniruoka"],
+    "ingredients": [
+      "1 esipaistettu piirakkapohja (23 cm)",
+      "2½ dl kasviksia, pilkottuna (parsakaalia, kesäkurpitsaa tai sieniä)",
+      "1¼ dl juustoraastetta",
+      "3 isoa kananmunaa, vatkattuna",
+      "2½ dl rasvatonta maitoa",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "½ tl valkosipulijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Raasta juusto.",
+      "Pilko kasvikset ja kypsennä ne, kunnes ne ovat kypsiä mutta rapsakoita.",
+      "Levitä kasvikset ja juusto piirakkapohjaan.",
+      "Sekoita munat, maito, suola, pippuri ja valkosipulijauhe ja kaada juuston ja kasvisten päälle.",
+      "Paista 30–40 minuuttia, kunnes keskelle pistetty veitsi tulee puhtaana ulos.",
+      "Anna jäähtyä 5 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-basic-soup-and-sauce-mix",
+    "title": "Kermakeitto- ja kastikepohja (kuivaseos)",
+    "description": "Kaappiin säilöttävä kuivaseos, jolla korvaat kermaiset keittotiivisteet vuokaruoissa, keitoissa ja dipeissä. Seosta tulee noin 7 dl, mikä vastaa yhdeksää tölkkiä keittotiivistettä.",
+    "servings": 9,
+    "totalTimeMin": 5,
+    "category": "Muut",
+    "tags": ["kastike", "kaappiruoka"],
+    "ingredients": [
+      "5 dl rasvatonta maitojauhetta",
+      "1¾ dl maissitärkkelystä",
+      "4 rkl kanaliemijauhetta",
+      "2 rkl kuivattua sipulirouhetta",
+      "2 tl italialaista yrttisekoitusta"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset huolellisesti.",
+      "Säilytä suljetussa pussissa tai ilmatiiviissä rasiassa. Seos ei tarvitse jääkaappia.",
+      "Yhden keittotiivistetölkin korvaamiseksi: sekoita ¾ dl seosta ja 3 dl kylmää vettä kattilassa ja kuumenna koko ajan sekoittaen, kunnes seos sakenee. Käytä kuten keittotiivistettä."
+    ],
+    "notes": ["Alkuperäisestä puuttui käyttöohje; laimennussuhde on USDA:n vastaavan ohjeen mukainen."]
+  },
+  {
+    "id": "myplate-basic-steamed-collards",
+    "title": "Höyrytetty lehtikaali",
+    "description": "Yksinkertainen tapa lisätä lehtivihanneksia ateriaan.",
+    "servings": 5,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "lisuke", "nopea", "gluteeniton"],
+    "ingredients": [
+      "7 dl kauluskaalia tai lehtikaalia (n. 5 isoa lehteä)",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Pese lehdet, poista paksut varret ja leikkaa paloiksi.",
+      "Laita lehdet kattilaan noin 2–3 cm:n vesikerroksen kanssa, peitä kannella ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja höyrytä 3–5 minuuttia.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "myplate-batido-smoothie",
+    "title": "Batido – papaija-banaanismoothie",
+    "description": "Raikas papaijan, banaanin ja jogurtin sekoitus aamiaiseksi tai välipalaksi.",
+    "servings": 4,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea", "gluteeniton"],
+    "ingredients": [
+      "5 dl papaijaa paloina (tuoretta tai pakastettua)",
+      "2 ylikypsää banaania, viipaloituna",
+      "2½ dl maustamatonta kevytjogurttia",
+      "2½ dl jääpaloja"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen ja sulje kansi tiiviisti.",
+      "Surauta keskiteholla noin minuutti, kunnes jäät ovat murskautuneet ja juoma on sileää.",
+      "Tarjoile heti tai säilytä peitettynä jääkaapissa enintään 4 tuntia."
+    ]
+  },
+  {
+    "id": "myplate-bbq-chicken-pizza",
+    "title": "BBQ-kanapizzat muffinipohjalla",
+    "description": "Grillikastike, kana ja paprika piristävät englantilaisista muffineista tehtyjä minipizzoja.",
+    "servings": 12,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["kana", "pizza", "nopea", "lapsille"],
+    "ingredients": [
+      "6 täysjyväistä englantilaista muffinia",
+      "1¾ dl grillikastiketta",
+      "3½ dl kypsää broileria, revittynä tai pilkottuna",
+      "1¾ dl savustettua tai tavallista cheddarjuustoa, raastettuna",
+      "1 paprika, pilkottuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen. Halkaise muffinit ja asettele ne voitelemattomalle uunipellille.",
+      "Pilko paprika.",
+      "Levitä grillikastike muffineille melkein reunoille asti.",
+      "Lisää päälle kana, juusto ja paprika.",
+      "Paista 7–12 minuuttia, kunnes juusto on sulanut."
+    ]
+  },
+  {
+    "id": "myplate-bean-and-rice-burritos",
+    "title": "Papu-riisiburritot",
+    "description": "Uunissa paistetut burritot ovat hyvä tapa käyttää tähderiisi. Tummalla riisillä saat lisää täysjyvää.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "meksikolainen", "riisi", "palkokasvit"],
+    "ingredients": [
+      "5 dl keitettyä riisiä",
+      "1 pieni sipuli, hienonnettuna",
+      "1 tlk (400 g) kidneypapuja, valutettuna",
+      "8 keskikokoista vehnätortillaa",
+      "1¼ dl salsaa",
+      "1¼ dl juustoraastetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen. Kuori ja hienonna sipuli.",
+      "Valuta pavut.",
+      "Sekoita riisi, sipuli ja pavut kulhossa.",
+      "Nosta jokaisen tortillan keskelle noin 1 dl riisi-papuseosta ja taita sivut täytteen päälle.",
+      "Nosta burritot uunivuokaan ja paista 15 minuuttia.",
+      "Kaada salsa burritojen päälle ja ripottele pinnalle juusto. Tarjoile lämpiminä."
+    ]
+  },
+  {
+    "id": "myplate-bean-and-vegetable-salad",
+    "title": "Papu-kasvissalaatti",
+    "description": "Rapea ja värikäs salaatti täynnä kasviksia, makua sekä C- ja A-vitamiinia.",
+    "servings": 12,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "½ punakaalia",
+      "½ roomansalaattia",
+      "3 porkkanaa",
+      "1 kurkku",
+      "1 vihreä paprika",
+      "2 parsakaalin vartta",
+      "3 tomaattia",
+      "3 tlk (à 400 g) kidneypapuja tai kikherneitä, valutettuna",
+      "170 g kevytcheddarjuustoa, raastettuna",
+      "½ dl rasvatonta salaatinkastiketta"
+    ],
+    "instructions": [
+      "Pese kasvikset.",
+      "Suikaloi punakaali paksuiksi suikaleiksi, revi salaatti, kuori ja raasta tai viipaloi porkkanat ja kurkku. Kuutioi paprika.",
+      "Leikkaa parsakaali kukinnoiksi ja tomaatit lohkoiksi.",
+      "Yhdistä kaikki ainekset kulhossa.",
+      "Lisää kastike ja sekoita kevyesti juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-bean-dip",
+    "title": "Papu-juustodippi",
+    "description": "Helppo papu-juustodippi juhliin tai koulun jälkeiseksi välipalaksi.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "meksikolainen", "nopea", "palkokasvit"],
+    "ingredients": [
+      "5 dl kidneypapuja (säilyke)",
+      "1 rkl etikkaa",
+      "¾ tl chilijauhetta",
+      "ripaus juustokuminaa",
+      "2 rkl sipulia, hienonnettuna",
+      "2½ dl kevytcheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Valuta pavut ja säästä liemi pieneen kulhoon.",
+      "Laita pavut, etikka, chilijauhe ja juustokumina tehosekoittimeen ja soseuta sileäksi.",
+      "Lisää säästettyä lientä sen verran, että dippi on helposti levitettävää.",
+      "Sekoita joukkoon sipuli ja juusto.",
+      "Säilytä tiiviissä rasiassa jääkaapissa. Tarjoile kasvistikkujen tai keksien kanssa."
+    ]
+  },
+  {
+    "id": "myplate-bean-enchiladas",
+    "title": "Papuenchiladat",
+    "description": "Helppo ja nopea enchiladaillallinen. Tarjoile esimerkiksi brasilialaisen riisin kanssa.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "meksikolainen", "uuniruoka", "palkokasvit"],
+    "ingredients": [
+      "2 tlk (à 400 g) pintopapuja, valutettuna",
+      "1 rkl chilijauhetta",
+      "8 pientä vehnätortillaa (15 cm)",
+      "1¼ dl kevytjuustoraastetta (esim. Monterey Jack)",
+      "öljyä vuoan voiteluun",
+      "salsaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Survo pavut isossa kulhossa haarukalla karkeaksi ja sekoita joukkoon chilijauhe.",
+      "Kääri tortillat kosteaan talouspaperiin ja lämmitä mikrossa täydellä teholla noin 45 sekuntia, kunnes ne ovat pehmeitä.",
+      "Jaa papuseos tortilloille ja levitä keskelle. Ripottele päälle juusto.",
+      "Kääri tortillat rullalle.",
+      "Voitele noin 23 x 33 cm:n vuoka ja asettele enchiladat sauma alaspäin vuokaan.",
+      "Peitä foliolla ja paista 20 minuuttia, kunnes ne ovat läpikotaisin kuumia.",
+      "Tarjoile lämpiminä salsan kanssa."
+    ]
+  },
+  {
+    "id": "myplate-beef-and-bean-chile-verde",
+    "title": "Naudanliha-papu chile verde",
+    "description": "Vihreä tomatillochili jauhelihasta ja pavuista – hyvä raudan, C-vitamiinin ja kuidun lähde.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "300 g vähärasvaista naudan jauhelihaa",
+      "1 iso paprika, pilkottuna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 iso sipuli, pilkottuna",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "1 rkl chilijauhetta",
+      "2 tl juustokuminaa",
+      "5 dl tuoreita tomatilloja, pilkottuna (tai 450 g enchiladakastiketta)",
+      "1¼ dl väkiviinaetikkaa",
+      "1 tlk (400 g) pinto- tai kidneypapuja, huuhdeltuna ja valutettuna"
+    ],
+    "instructions": [
+      "Laita jauheliha, paprika, tomaatit ja sipuli isoon kattilaan.",
+      "Kypsennä keskilämmöllä usein sekoittaen 8–10 minuuttia, kunnes liha on ruskistunut. Kaada rasva pois.",
+      "Lisää valkosipuli, chilijauhe ja juustokumina ja kypsennä 15 sekuntia, kunnes ne tuoksuvat.",
+      "Sekoita joukkoon tomatillot ja etikka ja kuumenna kiehuvaksi.",
+      "Laske lämpöä, peitä ja hauduta 10–15 minuuttia välillä sekoittaen.",
+      "Lisää pavut ja lämmitä."
+    ],
+    "notes": ["Väkiviinaetikka tarkoittaa tässä mietoa (n. 5 %) etikkaa; jos käytät 10-prosenttista, käytä puolet."]
+  },
+  {
+    "id": "myplate-beef-and-cabbage-dinner-tonight",
+    "title": "Jauheliha-kaalipannu",
+    "description": "Yksinkertainen pannuruoka, jossa kaali tuo C-vitamiinia ja kuitua.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "arkiruoka", "suomalainen", "gluteeniton"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa",
+      "1 tl rypsiöljyä",
+      "1 sipuli, pilkottuna",
+      "1 valkokaali, suupaloina",
+      "1 tl valkosipulijauhetta",
+      "¼ tl mustapippuria",
+      "suolaa (valinnainen)",
+      "chilihiutaleita (valinnainen)"
+    ],
+    "instructions": [
+      "Pilko kaali ja sipuli.",
+      "Ruskista jauheliha isolla pannulla keskilämmöllä. Kaada rasva pois ja nosta liha sivuun.",
+      "Voitele pannu ohuelti öljyllä ja kuullota sipuli pehmeäksi.",
+      "Lisää kaali ja paista, kunnes se alkaa ruskistua.",
+      "Sekoita joukkoon jauheliha.",
+      "Mausta valkosipulijauheella, pippurilla ja halutessasi suolalla ja chilihiutaleilla."
+    ]
+  },
+  {
+    "id": "myplate-beef-and-vegetable-soup",
+    "title": "Jauheliha-kasviskeitto makaronilla",
+    "description": "Täyttävä keitto yhdessä isossa kattilassa noin tunnissa – lounaaksi tai päivälliseksi.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "arkiruoka", "pasta"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "1½ tlk (à 340 g) maissia (n. 650 g)",
+      "1 tlk (400 g) porkkanoita tai 3 tuoretta porkkanaa, viipaloituna",
+      "1 tlk (400 g) perunoita tai 3 tuoretta perunaa, viipaloituna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 pieni sipuli, kuutioituna",
+      "1¼ dl makaronia",
+      "1 tl valkosipulijauhetta",
+      "1 tl sipulijauhetta"
+    ],
+    "instructions": [
+      "Ruskista jauheliha isossa kattilassa keskilämmöllä 8–10 minuuttia. Kaada rasva pois.",
+      "Lisää maissi, porkkanat, perunat, tomaatit ja sipuli nesteineen.",
+      "Keitä keskilämmöllä 25 minuuttia ja sekoita 10 minuutin välein.",
+      "Lisää makaroni, valkosipulijauhe ja sipulijauhe.",
+      "Keitä vielä 20 minuuttia välillä sekoittaen. Lisää tarvittaessa vettä."
+    ],
+    "notes": ["Tuoreita porkkanoita ja perunoita käytettäessä lisää noin 5 dl vettä."]
+  }
+]

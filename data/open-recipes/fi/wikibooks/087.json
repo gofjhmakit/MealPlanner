@@ -1,0 +1,602 @@
+[
+  {
+    "id": "wikibooks-naan-yeasted",
+    "title": "Hiivalla kohotetut naan-leivät",
+    "description": "Pehmeät naan-leivät hiivasta, jogurtista ja maidosta, maustettuna mustakuminalla (nigellalla).",
+    "servings": 4,
+    "totalTimeMin": 75,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "intialainen", "rieska"],
+    "ingredients": [
+      "1 tl kuivahiivaa",
+      "1 tl sokeria",
+      "1 rkl lämmintä vettä",
+      "200 g vehnäjauhoja (erikois- tai leipäjauhoja)",
+      "1 ripaus nigellansiemeniä (mustakuminaa)",
+      "¼ tl suolaa",
+      "½ tl leivinjauhetta",
+      "1 rkl rypsiöljyä",
+      "2 rkl maustamatonta jogurttia",
+      "2 rkl maitoa",
+      "voita voiteluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 140 asteeseen.",
+      "Sekoita hiiva pienessä kulhossa lämpimään veteen. Lisää sokeri ja anna seistä lämpimässä 5 minuuttia, kunnes pintaan nousee vaahtoa.",
+      "Sekoita jauhot, nigellansiemenet, suola ja leivinjauhe. Sekoita joukkoon öljy, jogurtti ja maito ja lopuksi hiivaseos.",
+      "Vaivaa taikinaa kostutetuilla rystysillä painellen noin 10 minuuttia, kunnes se on pehmeää ja taipuisaa. Anna levätä 10 minuuttia ja vaivaa vielä 5 minuuttia.",
+      "Laita taikina kulhoon, peitä kelmulla ja anna kohota lämpimässä 20–30 minuuttia.",
+      "Jaa taikina neljään palloon ja kauli jauhotetulla alustalla pitkänomaisiksi, noin 0,5 cm paksuiksi levyiksi.",
+      "Nosta voidellulle pellille ja paista uunin keskitasolla 10–15 minuuttia, kunnes leivät ovat hieman kohonneet. Tarjoa uunituoreina."
+    ],
+    "notes": ["Rapeamman pinnan saat pitämällä leipiä 30 sekuntia kuuman grillivastuksen alla ennen voitelua. Voihin voi lisätä hienonnettua valkosipulia ja korianteria."]
+  },
+  {
+    "id": "wikibooks-nachos",
+    "title": "Juustonachot",
+    "description": "Helpot uunissa gratinoidut nachot cheddarjuustolla, vihreällä chilillä ja sipulilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "meksikolainen", "nopea", "juhla"],
+    "ingredients": [
+      "350 g tortillalastuja",
+      "450 g cheddarjuustoa, raastettuna",
+      "¾ dl säilöttyä vihreää chiliä, pilkottuna (valinnainen)",
+      "1 dl sipulia, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Levitä tortillalastut uunipellille.",
+      "Sekoita juusto, chilit ja sipuli ja ripottele lastujen päälle.",
+      "Paista noin 2 minuuttia, kunnes juusto on sulanut.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-nam-phrik-ong-thai-pork-and-tomato-dip",
+    "title": "Nam phrik ong – pohjoisthaimaalainen porsas-tomaattidippi",
+    "description": "Thaimaalainen \"bolognese\": jauhettu porsas ja tomaatit haudutettuna chili-salottitahnassa. Tarjotaan tuoreiden kasvisten dippinä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["liha", "thaimaalainen", "tulinen"],
+    "ingredients": [
+      "20 kuivattua mietoa punaista chiliä",
+      "20 salottisipulia",
+      "10 valkosipulinkynttä",
+      "1 rkl katkaraputahnaa",
+      "½ tl suolaa",
+      "1 rkl korianterinlehtiä, hienonnettuna",
+      "1 rkl sipulia, hienonnettuna",
+      "2 rkl rypsiöljyä",
+      "400 g sian jauhelihaa",
+      "20 pientä tomaattia (kirsikkatomaattia)",
+      "salaatinlehtiä, kaalia ja vihreitä papuja dippaukseen"
+    ],
+    "instructions": [
+      "Survo chilit, salottisipulit ja valkosipuli morttelissa.",
+      "Lisää katkaraputahna ja suola ja jatka survomista.",
+      "Kuumenna öljy pannulla ja lisää tahna. Sekoita joukkoon korianteri ja sipuli. Paista, kunnes seos tuoksuu.",
+      "Lisää jauheliha ja paista sekoittaen kypsäksi. Lisää vähän vettä, jos seos kuivuu.",
+      "Kuumenna seos kiehuvaksi.",
+      "Lisää tomaatit ja sekoittele, kunnes ne ovat kypsiä.",
+      "Tarjoa tuoreiden kasvisten, kuten salaatinlehtien, kaalin tai vihreiden papujen, kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-nasi-goreng-indonesian-fried-rice",
+    "title": "Nasi goreng – indonesialainen paistettu riisi",
+    "description": "Indonesian kansallisruoka: eilen keitetty riisi paistetaan kanan tai katkarapujen, kananmunan, chilin ja makean soijakastikkeen kanssa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "äyriäiset", "indonesialainen", "riisi", "nopea"],
+    "ingredients": [
+      "6 dl keitettyä riisiä (mieluiten edellisen päivän)",
+      "2 munaa",
+      "1 valkosipulinkynsi",
+      "2 salottisipulia",
+      "1 punainen chili",
+      "1 rkl kalakastiketta",
+      "2 tl kookosöljyä",
+      "2 rkl makeaa soijakastiketta (kecap manis)",
+      "1 rkl soijakastiketta tai suolaa",
+      "mustapippuria",
+      "20 vihreää papua (tai petai-papuja)",
+      "100 g broilerin fileetä, pieninä paloina",
+      "100 g pieniä katkarapuja",
+      "1 kevätsipuli, viipaloituna",
+      "kurkkuviipaleita tai tomaattia koristeluun"
+    ],
+    "instructions": [
+      "Leikkaa salottisipulit ja chili ohuiksi viipaleiksi.",
+      "Murskaa, kuori ja hienonna valkosipuli.",
+      "Halkaise pavut tai pilko ne haluamallasi tavalla.",
+      "Kuumenna öljy wokissa, lisää kana tai katkaravut ja paista sekoittaen kypsiksi.",
+      "Lisää salottisipuli, chili, valkosipuli ja pavut. Sekoita, kunnes valkosipuli on kullankeltaista.",
+      "Riko munat wokkiin ja paista sekoittaen puolikypsiksi.",
+      "Lisää riisi ja sekoita, kunnes kaikki on sekaisin. Lisää kevätsipuli.",
+      "Mausta soijakastikkeilla, kalakastikkeella, suolalla ja pippurilla.",
+      "Tarjoa lautasilta kurkkuviipaleiden tai tomaatin kanssa."
+    ],
+    "notes": [
+      "Käytä kylmää, mieluiten edellisenä päivänä keitettyä riisiä.",
+      "Muunnelmia: lisää kalapullia, makkaraa, kananmaksaa, kukkakaalia tai suolakalaa. Suolakalan tai suolalihan kanssa jätä makea soijakastike pois.",
+      "Tarjoa halutessasi paistetun kananmunan ja katkarapulastujen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-native-jollof-rice",
+    "title": "Native jollof -riisi palmuöljyllä",
+    "description": "Nigerialainen perinneversio jollof-riisistä: riisi kypsennetään palmuöljyllä, iru-mausteella ja kuivatulla katkarapujauheella maustetussa tomaatti-chililiemessä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["nigerialainen", "riisi", "tulinen"],
+    "ingredients": [
+      "3 tomaattia",
+      "2 sipulia",
+      "2–3 scotch bonnet- tai habanero-chiliä",
+      "1 dl jauhettua kuivattua katkarapua",
+      "1 rkl hapatettuja johanneksenleipäpuun siemeniä (iru)",
+      "1 dl palmuöljyä",
+      "1 l lihalientä tai vettä",
+      "suolaa",
+      "4 liemikuutiota",
+      "7 dl riisiä",
+      "2 tlk savustettua makrillia (valinnainen)",
+      "keitettyä nautaa, kalkkunaa tai kanaa (valinnainen)",
+      "viipaloitua afrikkalaista basilikaa (valinnainen)"
+    ],
+    "instructions": [
+      "Soseuta tomaatit, sipulit, chilit ja katkarapujauhe tasaiseksi tahnaksi.",
+      "Kaada tahna kuivaan kattilaan liedelle ja keitä, kunnes ylimääräinen neste on haihtunut.",
+      "Kun neste on haihtunut, lisää iru ja palmuöljy. Kypsennä 10 minuuttia.",
+      "Lisää liemi tai vesi ja kuumenna kiehuvaksi. Mausta suolalla ja liemikuutioilla.",
+      "Pese riisi huolellisesti kylmällä vedellä.",
+      "Lisää riisi kiehuvaan liemeen ja sekoita hyvin. Lisää tarvittaessa nestettä ja kypsennä, kunnes riisi on lähes kypsää.",
+      "Lisää lopuksi kala tai liha ja halutessasi basilika.",
+      "Tarjoa kuumana paistettujen keittobanaanien (dodo) kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-native-jollof-spaghetti",
+    "title": "Native jollof -spagetti",
+    "description": "Nigerialainen spagettiruoka palmuöljyllä, lihalla, savukalalla ja tulisella chilitahnalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "nigerialainen", "pasta", "tulinen"],
+    "ingredients": [
+      "300 g spagettia",
+      "1 dl palmuöljyä",
+      "500 g keitettyä lihaa (sekalaisia paloja)",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2 rkl hapatettuja johanneksenleipäpuun siemeniä (iru)",
+      "3,5 dl tuoretta chili-paprikatahnaa (soseutettua paprikaa, chiliä ja sipulia)",
+      "2 liemikuutiota",
+      "1 rkl jauhettua kuivattua katkarapua",
+      "1 keskikokoinen savustettu monni tai makrilli, ruodottuna",
+      "suolaa",
+      "1 kourallinen afrikkalaista basilikaa tai tavallista basilikaa"
+    ],
+    "instructions": [
+      "Kuumenna keskikokoisessa kattilassa vesi kiehuvaksi. Keitä spagettia 5 minuuttia, valuta ja huuhtele kylmällä vedellä.",
+      "Kuumenna palmuöljy kattilassa keskikorkealla lämmöllä. Lisää liha ja ruskista noin 5 minuuttia. Nosta sivuun.",
+      "Lisää samaan kattilaan sipuli, iru ja chilitahna. Sekoita ja kypsennä noin 20 minuuttia.",
+      "Sekoita joukkoon liemikuutiot, katkarapujauhe, kala ja suola. Kypsennä, kunnes neste on lähes haihtunut.",
+      "Lisää vettä, sekoita ja kuumenna kiehuvaksi. Lisää esikypsennetty spagetti ja keitä, kunnes spagetti on pehmeää ja neste lähes haihtunut.",
+      "Sekoita joukkoon paistettu liha ja basilika.",
+      "Nosta liedeltä ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-natto-japanese-fermented-soybeans",
+    "title": "Natto – japanilaiset hapatetut soijapavut",
+    "description": "Japanilainen aamiaisruoka: keitetyt soijapavut hapatetaan natto-bakteeriviljelmällä noin 38 asteessa vuorokauden ajan.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["vegaaninen", "japanilainen", "soija", "hapatettu"],
+    "ingredients": [
+      "900 g kuivattuja soijapapuja (n. 1 l)",
+      "2 tl keitettyä (steriiliä) vettä",
+      "1 mittalusikka nattomoto-hapatejauhetta"
+    ],
+    "instructions": [
+      "Pese pavut ja liota niitä 9–12 tuntia (kylmänä vuodenaikana pidempään). Käytä noin 3 osaa vettä yhtä osaa papuja kohti, sillä pavut turpoavat.",
+      "Valuta pavut. Laita ne isoon kattilaan, täytä vedellä ja keitä hyvin pehmeiksi, jopa 9 tuntia (painekattilassa huomattavasti nopeammin).",
+      "Valuta keitetyt pavut ja siirrä steriloituun kattilaan. Liuota nattomoto-jauhe steriiliin veteen.",
+      "Kaada liuos heti lämpimien papujen päälle ja sekoita varovasti steriloidulla lusikalla.",
+      "Levitä pavut ohueksi kerrokseksi 3–4 steriloituun astiaan. Hävitä pöydälle putoavat pavut, sillä ne voivat saastuttaa koko erän.",
+      "Peitä astiat steriloidulla harsokankaalla ja tiiviillä kannella. Esilämmitä uuni tai kuivuri 38 asteeseen.",
+      "Hapata natto astioissa 22–24 tuntia ja pidä lämpötila tasaisesti 38 asteessa.",
+      "Anna jäähtyä pari tuntia, poista kansi ja harso, laita kansi takaisin ja säilytä jääkaapissa vähintään yön yli. Natto on valmis syötäväksi seuraavana aamuna."
+    ],
+    "notes": [
+      "Kaikkien välineiden tulee olla mahdollisimman steriilejä; keitä ne tarvittaessa 5 minuuttia ennen käyttöä.",
+      "Natto säilyy jääkaapissa 3–4 päivää. Pieninä annoksina sen voi pakastaa."
+    ]
+  },
+  { "id": "wikibooks-ndamb-senegalese-black-eyed-pea-stew", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-ndizi-na-nyama-tanzanian-green-bananas-with-beef",
+    "title": "Ndizi na nyama – tansanialainen keittobanaani-lihapata",
+    "description": "Itä-Afrikan suosittu pata, jossa naudanliha ja raa'at keittobanaanit haudutetaan tomaatin ja kookosmaidon kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "pata"],
+    "ingredients": [
+      "450 g vähärasvaista naudanlihaa, pieninä paloina",
+      "3 cm palaa inkivääriä, hienonnettuna",
+      "1,5 tl suolaa",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 rkl rypsiöljyä",
+      "1 rkl tomaattipyreetä",
+      "1 sipuli, viipaloituna",
+      "2 tomaattia, pilkottuna",
+      "2 raakaa keittobanaania, kuorittuna ja neljään osaan leikattuna",
+      "2,5 dl kookosmaitoa"
+    ],
+    "instructions": [
+      "Kuumenna kattilassa noin 5 dl vettä kiehuvaksi.",
+      "Lisää liha, inkivääri, suola ja valkosipuli. Peitä ja keitä keskilämmöllä 15 minuuttia.",
+      "Kun liha on lähes kypsää, lisää öljy, tomaattipyree, sipuli ja tomaatit. Keitä 5 minuuttia.",
+      "Lisää banaanit, peitä ja keitä 10–12 minuuttia, kunnes ne ovat hieman pehmenneet.",
+      "Sekoita joukkoon kookosmaito ja laske lämpö pieneksi. Hauduta vielä 15 minuuttia, kunnes haarukka uppoaa banaaniin helposti ja liha on hyvin mureaa.",
+      "Mausta suolalla ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-ndole-cameroonian-bitter-leaf-and-peanut-soup",
+    "title": "Ndolé – kamerunilainen maapähkinä-lehtikeitto",
+    "description": "Kamerunin juhlaruoka: naudanlihaa, maapähkinätahnaa, katkarapuja ja kitkerälehteä tai pinaattia paksuksi keitoksi haudutettuna.",
+    "servings": 5,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["liha", "äyriäiset", "afrikkalainen", "keitto"],
+    "ingredients": [
+      "225 g naudan patalihaa, kuutioituna",
+      "suolaa",
+      "2 liemikuutiota",
+      "3 isoa sipulia, viipaloituna",
+      "225 g kuivattua turskaa (valinnainen)",
+      "5 dl kuorittuja maapähkinöitä",
+      "4–5 valkosipulinkynttä",
+      "1,75 dl jauhettua kuivattua katkarapua",
+      "450 g kitkerälehteä tai pinaattia",
+      "1–2 dl rypsiöljyä",
+      "225 g katkarapuja, kuorittuina"
+    ],
+    "instructions": [
+      "Mausta liha isossa kattilassa suolalla, liemikuutioilla ja kolmasosalla sipuleista. Lisää vettä ja keitä, kunnes liha on mureaa.",
+      "Keitä sillä välin turska suolalla maustetussa vedessä ja lisää lihan joukkoon. Liemeä tulisi olla noin 7 dl.",
+      "Keitä maapähkinöitä kattilassa noin 10 minuuttia. Anna jäähtyä ja jauha tehosekoittimessa. Lisää liha-kalaseokseen.",
+      "Jauha puolet jäljellä olevista sipuleista ja valkosipuli tahnaksi ja sekoita keittoon.",
+      "Lisää katkarapujauhe ja keitä 10 minuuttia usein sekoittaen, ettei keitto pala pohjaan. Mausta suolalla ja liemikuutiolla.",
+      "Lisää pinaatti tai kitkerälehti, sekoita ja hauduta muutama minuutti.",
+      "Kuumenna öljy paistinpannussa keiton hautuessa. Lisää katkaravut ja sekoita, kunnes ne alkavat muuttua vaaleanpunaisiksi. Lisää loput sipulit ja paista vielä muutama minuutti.",
+      "Kaada katkarapu-sipuliseos keittoon ja sekoita noin 2 minuuttia.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Alkuperäisessä paistetaan katkaravut 5–7 dl:ssa öljyä; määrää on vähennetty."]
+  },
+  { "id": "wikibooks-neapolitan-anchovy-sauce", "skip": "vanhanaikainen ja epäselvä ohje (kalanruodot kastikkeen aineksena, määrät puutteelliset)" },
+  { "id": "wikibooks-neapolitan-sauce", "skip": "puutteellinen (vaatii useita pohjakastikkeita, määrät puuttuvat)" },
+  { "id": "wikibooks-neapolitan-soup", "skip": "liian puutteellinen (määrät ja pohjaohjeet puuttuvat)" },
+  { "id": "wikibooks-nem-chua-rn-vietnamese-pork-spring-roll", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-nesquik-la-caf",
+    "title": "Kaakaojuoma kahvilan tapaan",
+    "description": "Pikakaakao kahvikermajauheella – kuumana aamupalaksi tai jäillä viilennettynä.",
+    "servings": 1,
+    "totalTimeMin": 2,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "kaakao"],
+    "ingredients": [
+      "2 rkl kaakaojuomajauhetta",
+      "1,5 rkl kahvikermajauhetta",
+      "3 tl sokeria",
+      "2,5 dl kuumaa vettä"
+    ],
+    "instructions": [
+      "Laita kaikki jauheet lasiin tai kuppiin.",
+      "Sekoita joukkoon kuuma vesi halutun vahvuuden mukaan."
+    ],
+    "notes": ["Kylmä versio: käytä ¾ kuumaa ja ¼ kylmää vettä ja lisää jääpaloja."]
+  },
+  {
+    "id": "wikibooks-nettle-pesto",
+    "title": "Nokkospesto",
+    "description": "Nuorista nokkosista basilikan sijaan valmistettu pesto pähkinöillä, valkosipulilla ja parmesaanilla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nokkonen", "pesto", "villiyrtit"],
+    "ingredients": [
+      "1,2 l tuoreita nokkosenlehtiä (n. 100 g)",
+      "¾ dl hasselpähkinöitä, saksanpähkinöitä tai pinjansiemeniä",
+      "3 valkosipulinkynttä",
+      "¾ dl oliiviöljyä",
+      "½ dl parmesaaniraastetta",
+      "2 tl sitruunamehua",
+      "1 tl mustapippuria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Paahda pähkinät kuivalla pannulla tai uunissa kevyesti ruskeiksi.",
+      "Upota nokkoset paksut käsineet kädessä kiehuvaan veteen minuutiksi. Valuta ja jäähdytä jäävedessä. Valuta ja purista kuiviksi.",
+      "Soseuta kaikki ainekset tehosekoittimessa tasaiseksi tai survo morttelissa karkeammaksi."
+    ],
+    "notes": [
+      "Kerää nokkoset puhtaalta paikalta kaukana teistä ja ruiskutuksista, käsineet kädessä.",
+      "Pesto sopii pastaan, lihan ja kalan maustamiseen. Pähkinöitä voi käyttää yksinään tai sekaisin."
+    ]
+  },
+  {
+    "id": "wikibooks-never-fail-pie-crust",
+    "title": "Varma piirakkataikina",
+    "description": "Helppo ja pettämätön murotaikina piirakoihin, josta riittää kolmeen pohjaan. Taikinan voi pakastaa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "piirakka", "taikina"],
+    "ingredients": [
+      "7 dl vehnäjauhoja",
+      "250 g leivontarasvaa tai kylmää voita",
+      "1 tl suolaa",
+      "1 muna, vatkattuna",
+      "¾ dl kylmää vettä",
+      "1 rkl etikkaa"
+    ],
+    "instructions": [
+      "Yhdistä jauhot ja suola. Nypi tai leikkaa rasva haarukalla tai taikinasekoittimella jauhoihin, kunnes seos on hienoa murua.",
+      "Sekoita vesi ja etikka vatkatun munan kanssa. Lisää jauhoseokseen vähitellen, kunnes muodostuu pehmeä taikina.",
+      "Jaa taikina kolmeen kiekkoon ja käytä heti tai pakasta erikseen. Pidä taikina hyvin käärittynä.",
+      "Kauli käytettäessä jauhotetulla alustalla haluttuun kokoon."
+    ],
+    "notes": ["Jos paistat kaksi piirakkaa yhtä aikaa, käännä niitä 180 astetta 15 ja 45 minuutin kohdalla, ettei pohja pala uunin seinien lähellä."]
+  },
+  { "id": "wikibooks-new-england-chowder", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-new-england-clam-chowder",
+    "title": "New England clam chowder – kermainen simpukkakeitto",
+    "description": "Yhdysvaltain koillisosan klassinen maitopohjainen simpukkakeitto suolalihalla, perunalla ja sipulilla.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "keitto", "amerikkalainen"],
+    "ingredients": [
+      "450 g simpukanlihaa (purkki tai pakaste), hienonnettuna, liemi talteen",
+      "2 rkl vehnäjauhoja",
+      "1 keskikokoinen peruna, kuutioituna",
+      "1 keskikokoinen sipuli, kuutioituna",
+      "2,5 dl kiehuvaa vettä",
+      "85 g suolattua sianlihaa tai pekonia, kuutioituna",
+      "1,4 l maitoa, kuumennettuna",
+      "1 rkl voita",
+      "suolaa",
+      "mustapippuria",
+      "suolakeksejä tarjoiluun"
+    ],
+    "instructions": [
+      "Jos käytät pakastesimpukoita, valuta ja ota liemi talteen.",
+      "Leikkaa simpukoista kovat osat erilleen.",
+      "Paista sianliha paksupohjaisessa kattilassa ruskeaksi ja rapeaksi.",
+      "Nosta liha pois ja kuullota simpukoiden kovat osat ja sipuli rasvassa, kunnes sipuli on vaaleanruskeaa.",
+      "Sekoita joukkoon jauhot ja lisää sitten hitaasti kiehuva vesi, suola, pippuri ja peruna.",
+      "Peitä ja hauduta hiljalleen noin 10 minuuttia, kunnes peruna on kypsää.",
+      "Lisää simpukoiden pehmeät osat ja liemi.",
+      "Sekoita juuri ennen tarjoilua joukkoon kuuma maito ja voi.",
+      "Kuumenna hyvin, mutta älä keitä.",
+      "Tarjoa kuumana suolakeksien kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-new-england-potato-salad",
+    "title": "New Englandin perunasalaatti",
+    "description": "Klassinen majoneesiperunasalaatti kananmunalla, sipulilla ja makealla kurkkuliemellä. Pieniksi kuutioidut perunat imevät kastikkeen hyvin.",
+    "servings": 10,
+    "totalTimeMin": 60,
+    "category": "Salaatit",
+    "tags": ["kasvis", "peruna", "amerikkalainen", "piknik"],
+    "ingredients": [
+      "1,4 kg kiinteitä perunoita",
+      "3 kovaksi keitettyä munaa, pilkottuna",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "1,75 dl majoneesia",
+      "½ dl maustekurkkujen lientä",
+      "1 rkl kuivattua persiljaa",
+      "½ tl sellerinsiemeniä",
+      "¾ rkl sokeria",
+      "suolaa",
+      "mustapippuria",
+      "paprikajauhetta"
+    ],
+    "instructions": [
+      "Halkaise kuorimattomat perunat ja keitä ne kypsiksi. Älä keitä liikaa.",
+      "Kuori perunat raaputtamalla veitsellä ja leikkaa noin 1 cm:n kuutioiksi.",
+      "Laita perunat isoon kulhoon ja anna jäähtyä huoneenlämpöisiksi.",
+      "Sekoita pienessä kulhossa majoneesi, kurkkuliemi ja sokeri tasaiseksi.",
+      "Lisää majoneesiseos, sipuli, persilja, sellerinsiemenet ja munat perunoihin.",
+      "Mausta suolalla ja pippurilla ja sekoita kevyesti.",
+      "Siirrä tarjoilukulhoon ja ripottele pinnalle paprikajauhetta.",
+      "Peitä ja säilytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "wikibooks-new-mexico-chili-verde",
+    "title": "New Mexicon chili verde – vihreä chilipata",
+    "description": "New Mexicon suosituin chili: miedot vihreät chilit, sianliha, tomaatti, oregano ja kumina haudutettuna ohueksi padaksi.",
+    "servings": 5,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "pata"],
+    "ingredients": [
+      "2 vihreää paprikaa, pilkottuna",
+      "4 isoa mietoa vihreää chiliä (esim. Anaheim)",
+      "1,2 l vettä",
+      "1 tlk (450 g) kuorittuja tomaatteja",
+      "2 lihaliemikuutiota",
+      "1 rkl kuivattua oreganoa",
+      "1 rkl juustokuminan siemeniä",
+      "1 rkl jauhettua korianteria",
+      "225 g sian jauhelihaa",
+      "1 iso sipuli, hienonnettuna",
+      "6 rkl voita tai margariinia",
+      "¾ dl vehnäjauhoja"
+    ],
+    "instructions": [
+      "Yhdistä paprikat, chilit, vesi, tomaatit, liemikuutiot, oregano, kumina ja korianteri isossa kattilassa. Keitä keskilämmöllä, kunnes paprikat ovat pehmeitä.",
+      "Paista sillä välin jauheliha ja sipuli paistinpannussa keskilämmöllä välillä sekoittaen noin 10 minuuttia, kunnes liha on ruskistunut ja murumaista. Valuta rasva ja lisää liha chilikattilaan. Hauduta 20 minuuttia.",
+      "Kuumenna voi pannulla keskilämmöllä. Lisää jauhot ja paista usein sekoittaen, kunnes jauhot ruskistuvat, noin 2 minuuttia.",
+      "Lisää jauhoseos chiliin. Keitä sekoittaen, kunnes pata on sopivan paksua."
+    ],
+    "notes": ["Chili verdeä syödään kulhosta (pintopapujen tai perunan kanssa) tai kastikkeena burritojen, enchiladojen ja paistettujen kananmunien päällä."]
+  },
+  {
+    "id": "wikibooks-new-mexico-pork-tamales",
+    "title": "New Mexicon porsastamalet",
+    "description": "Maissilehtiin käärityt ja höyrytetyt maissitaikinanyytit, joiden sisällä on mausteista porsaan- ja kananlihaa.",
+    "servings": 24,
+    "totalTimeMin": 270,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "juhla"],
+    "ingredients": [
+      "Täyte:",
+      "2,5 dl revittyä kypsää porsaanlihaa",
+      "2,5 dl revittyä kypsää kanaa",
+      "1 tlk (400 g) papuja sisältämätöntä chili con carnea",
+      "2 rkl rypsiöljyä",
+      "1 rkl chilijauhetta",
+      "1 rkl valkosipulijauhetta",
+      "2 tl juustokuminaa",
+      "¼ tl suolaa",
+      "1 ripaus mustapippuria",
+      "Taikina:",
+      "1 pkt (230 g) kuivattuja maissinlehtiä (n. 100 kpl)",
+      "900 g masa harina -maissijauhoja",
+      "3 rkl paprikajauhetta",
+      "3 rkl chilijauhetta",
+      "3 rkl valkosipulijauhetta",
+      "1 rkl juustokuminaa",
+      "2 rkl suolaa",
+      "450 g leivontarasvaa",
+      "2 l lämmintä kanalientä"
+    ],
+    "instructions": [
+      "Sekoita täytteen ainekset ja säilytä jääkaapissa käyttöön asti.",
+      "Liota maissinlehtiä lämpimässä vedessä vähintään kaksi tuntia. Pidä ne veden alla esimerkiksi lautasella painaen.",
+      "Sekoita masa-jauhot, paprika, chilijauhe, valkosipulijauhe, kumina ja suola tasaisesti.",
+      "Nypi rasva jauhoseokseen taikinasekoittimella, kunnes seos on pienten herneiden kokoista murua.",
+      "Lisää liemi vähitellen 2,5 dl kerrallaan ja sekoita hyvin sähkövatkaimella. Seoksen tulee olla maapähkinävoin paksuista.",
+      "Jatka vatkaamista, jotta taikinaan sekoittuu ilmaa. Taikina on valmis, kun teelusikallinen taikinaa kelluu vedessä.",
+      "Käytä yksi maissinlehti tamalea kohti. Aseta lehti tasaiseksi pöydälle.",
+      "Levitä lehdelle noin 1 dl taikinaa niin, että pitkälle sivulle ja kapeaan päähän jää 2,5 cm tyhjää.",
+      "Levitä taikinan keskelle pitkittäin kapea nauha (noin 1 rkl) täytettä.",
+      "Rullaa lehti pitkältä sivulta niin, että taikinan reunat kohtaavat ja täyte jää keskelle. Tyhjä reuna jää ulkopuolelle.",
+      "Taita kapea pää noin 2,5 cm ylöspäin. Tamale muistuttaa nyt tötteröä, jonka toinen pää on taitettu ja toinen avoin.",
+      "Nosta tamalet pystyyn höyrytyskoriin avoin pää ylöspäin ja peitä kori.",
+      "Höyrytä kiehuvan veden yllä 2 tuntia. Tamalet eivät saa seistä vedessä.",
+      "Avaa yksi tamale ja varmista, että taikina on kypsää eikä tahmeaa.",
+      "Anna tamalejen levätä 30 minuuttia ennen tarjoilua, jotta taikina ei tartu lehteen."
+    ],
+    "notes": ["Ylijääneet tamalet voi pakastaa pusseissa. Lämmitä pakastetut tamalet mikrossa – höyryttäen ne voivat muuttua veltoiksi."]
+  },
+  {
+    "id": "wikibooks-new-orleans-style-chicken-wing-dipping-sauce",
+    "title": "New Orleansin sinihomejuustodippi siiville",
+    "description": "Sinihomejuustokastikkeesta, kreolisinapista ja kevätsipulista sekoitettu dippi broilerinsiiville ja sellerinvarsille.",
+    "servings": 8,
+    "totalTimeMin": 125,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "amerikkalainen"],
+    "ingredients": [
+      "340 g paksua sinihomejuustokastiketta",
+      "1,75 dl kreolisinappia tai karkeaa dijonsinappia",
+      "¾ dl kevätsipulia, hienonnettuna",
+      "1 tl kreolimaustetta (cajun-maustetta)"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset (säästä teelusikallinen kevätsipulin vihreää osaa koristeluun) ja jäähdytä vähintään 2 tuntia, mieluiten yön yli.",
+      "Koristele säästetyllä kevätsipulilla."
+    ],
+    "notes": ["Määrä riittää noin 24 siipipalalle. Sopii myös sellerinvarsien ja muiden raakojen kasvisten dipiksi."]
+  },
+  {
+    "id": "wikibooks-new-world-affogato",
+    "title": "Kanelinen affogato",
+    "description": "Vaniljajäätelöpallo kuuman makeutetun kahvin ja tilkan brandyn kanssa, kanelilla viimeisteltynä.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "nopea", "kahvi", "jäätelö"],
+    "ingredients": [
+      "1 pallo vaniljajäätelöä",
+      "½ dl vettä",
+      "1 tl pikakahvijauhetta",
+      "1 tl brandyä (valinnainen)",
+      "1,5 tl sokeria",
+      "1 ripaus kanelia koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Laita jäätelö kahvikuppiin.",
+      "Kuumenna vesi kattilassa kiehuvaksi, lisää kahvi ja sokeri ja sekoita hyvin.",
+      "Lisää brandy kahviin.",
+      "Kaada kahvi jäätelön päälle.",
+      "Tarjoa heti kanelilla koristeltuna."
+    ]
+  },
+  {
+    "id": "wikibooks-new-york-cheesecake",
+    "title": "New York -juustokakku",
+    "description": "Tiivis ja kermainen klassinen New York -juustokakku keksipohjalla, paistettuna ensin kuumassa ja sitten matalassa lämmössä.",
+    "servings": 12,
+    "totalTimeMin": 240,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "juustokakku", "amerikkalainen"],
+    "ingredients": [
+      "Pohja:",
+      "140 g digestive-keksejä",
+      "3 rkl sokeria",
+      "4 rkl voita, sulatettuna",
+      "Täyte:",
+      "1,1 kg tuorejuustoa, huoneenlämpöisenä",
+      "4 dl sokeria",
+      "1 rkl maissitärkkelystä",
+      "3 rkl vehnäjauhoja",
+      "1 sitruunan raastettu kuori",
+      "1 tl vaniljauutetta",
+      "5 isoa munaa",
+      "2 isoa kananmunan keltuaista",
+      "½ dl kuohukermaa"
+    ],
+    "instructions": [
+      "Voitele 25 cm:n irtopohjavuoan pohja ja reunat.",
+      "Murskaa keksit hienoksi muruksi ja sekoita 3 rkl:n sokeria kanssa.",
+      "Lisää voisula ja sekoita haarukalla.",
+      "Painele seos vuoan pohjalle ja noin kolmasosan matkaa reunoille.",
+      "Jäähdytä jääkaapissa tunti.",
+      "Ota kaikki ainekset huoneenlämpöön.",
+      "Kuumenna uuni 250 asteeseen.",
+      "Sekoita sokeri, jauhot ja maissitärkkelys.",
+      "Sekoita tuorejuusto, sokeriseos, sitruunankuori ja vanilja puulusikalla tasaiseksi. Älä vatkaa liikaa.",
+      "Lisää munat ja keltuaiset yksi kerrallaan ja sekoita kevyesti jokaisen jälkeen. Liika vatkaaminen saa kakun halkeilemaan.",
+      "Sekoita varovasti joukkoon kerma.",
+      "Kaada seos vuokaan ja nosta vuoka uunipellille vuotojen varalta.",
+      "Paista 250 asteessa 15 minuuttia.",
+      "Laske lämpö 110 asteeseen ja paista tunti.",
+      "Nosta lämpö 120 asteeseen ja paista vielä noin 15 minuuttia.",
+      "Siirrä heti jääkaappiin vähintään tunniksi. Peitä ensin liinalla ja pellillä (liina alimmaisena), kunnes kondenssivettä ei enää muodostu – kelmun alle tiivistyvä vesi tippuisi kakulle."
+    ],
+    "notes": ["Vaniljan voi korvata sitruunamehulla."]
+  }
+]
