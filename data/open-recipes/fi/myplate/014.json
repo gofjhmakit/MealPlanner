@@ -1,0 +1,736 @@
+[
+  {
+    "id": "myplate-english-muffin-veggie-pizza",
+    "title": "Kasvispizzat englantilaisilla muffineilla",
+    "description": "Tee oma pieni pizza ja lisää päälle suosikkikasvikset. Täysjyvämuffinit tekevät siitä vielä paremman.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pizza", "nopea", "lapsille"],
+    "ingredients": [
+      "2½ dl parsakaalia, keitettynä ja pilkottuna",
+      "4 englantilaista muffinia",
+      "2½ dl pizzakastiketta (tai spagettikastiketta)",
+      "1¼ dl raastettua kevytmozzarellaa",
+      "¾ dl porkkanaa, raastettuna",
+      "1 tl parmesaania, raastettuna"
+    ],
+    "instructions": [
+      "Pilko parsakaali. Keitä se kattilassa vedessä keskilämmöllä pehmeäksi, valuta ja anna jäähtyä.",
+      "Halkaise muffinit ja paahda kaikki 8 puolikasta.",
+      "Raasta mozzarella ja kuori ja raasta porkkana.",
+      "Levitä jokaiselle muffinipuolikkaalle 2 rkl pizzakastiketta.",
+      "Ripottele jokaisen päälle 1 rkl mozzarellaa.",
+      "Lisää jokaiselle 2 rkl parsakaalia ja 1 tl raastettua porkkanaa.",
+      "Ripottele jokaiselle puolikkaalle 1 tl parmesaania.",
+      "Paahda pienessä uunissa 2 minuuttia, kunnes juusto sulaa."
+    ]
+  },
+  {
+    "id": "myplate-european-salad",
+    "title": "Kanasalaatti vadelmavinegretillä",
+    "description": "Tuoreita salaattiaineksia paistetun kanan kera ja kevyt vadelmavinegretti. Vinegretin voi tehdä tehosekoittimella ja salaatin valmiista aineksista.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea"],
+    "ingredients": [
+      "340 g broilerin rintafileesuikaleita",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "2 tl oliiviöljyä",
+      "3 kevätsipulia, viipaloituna",
+      "1 iso keltainen paprika, suikaleina",
+      "16 kirsikkatomaattia",
+      "1 pussi (n. 280 g) salaattisekoitusta",
+      "3½ dl krutonkeja (täysjyvä, jos saatavilla)",
+      "myllystä pippuria",
+      "Vinegretti:",
+      "1¾ dl pakastevadelmia, sulatettuina",
+      "1 rkl oliiviöljyä",
+      "2 rkl omenaviinietikkaa",
+      "1 tl sokeria",
+      "¼ tl valkosipulisuolaa",
+      "¼ tl oreganoa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Soseuta kaikki vinegretin ainekset tehosekoittimessa sileäksi ja laita sivuun. Vinegretin voi tehdä etukäteen ja säilyttää jääkaapissa.",
+      "Mausta kana suolalla ja pippurilla.",
+      "Kuumenna oliiviöljy isolla pannulla ja paista kana kypsäksi. Nosta pannulta ja anna jäähtyä.",
+      "Viipaloi sipulit.",
+      "Sekoita pilkotut kasvikset salaattisekoituksen joukkoon.",
+      "Aseta salaatti lautasille, lisää päälle kana ja krutongit, valuta päälle kastiketta ja viimeistele halutessasi myllystä pippurilla."
+    ]
+  },
+  {
+    "id": "myplate-eves-tasty-turkey-tetrazzini",
+    "title": "Kalkkunatetrazzini",
+    "description": "Kalkkunapäivällisen tähteistä syntyy helppo uunipasta. Tässä versiossa on puolet vähemmän natriumia ja enemmän kasviksia kuin alkuperäisessä.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "pasta", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "225 g täysjyvä-fettuccinea, spagettia tai makaroneja",
+      "4 rkl voita (suolatonta)",
+      "5 dl herkkusieniä, viipaloituna (tuoreita tai säilyke)",
+      "1 tl kuivattua timjamia",
+      "1¼ dl vehnäjauhoja",
+      "5 dl vähäsuolaista kanalientä",
+      "3½ dl rasvatonta maitoa",
+      "10 dl kypsää kalkkunaa, pilkottuna",
+      "1¼ dl mantelilastuja, paahdettuna",
+      "2½ dl pakasteherneitä",
+      "2 rkl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Voitele kevyesti noin 23 x 23 cm:n vuoka.",
+      "Keitä pasta isossa kattilassa kiehuvassa vedessä. Ota pasta pois noin 2 minuuttia ennen pakkauksen ilmoittamaa aikaa. Sulata sillä välin voi kattilassa keskilämmöllä.",
+      "Lisää sienet ja timjami.",
+      "Sekoita ja kypsennä, kunnes sienet pehmenevät, noin 5 minuuttia.",
+      "Sekoita joukkoon jauhot tasaiseksi. Lisää kanaliemi ja maito hitaasti vispaten.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja hauduta, kunnes kastike on sakeaa ja sileää, noin 5 minuuttia.",
+      "Lisää kalkkuna, mantelit, herneet ja keitetty pasta.",
+      "Sekoita varovasti.",
+      "Kaada vuokaan ja ripottele päälle parmesaani.",
+      "Paista, kunnes kastike kuplii ja juusto on kullanruskeaa, 25–35 minuuttia.",
+      "Anna jäähtyä 15 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Aloita ½ dl:lla jauhoja ja lisää tarvittaessa."]
+  },
+  {
+    "id": "myplate-fabulous-fruit-muffins",
+    "title": "Hedelmämuffinit",
+    "description": "Sopivat aamiaiseksi tai välipalaksi. Käytä sesongin tuoreita hedelmiä, myös pakaste ja säilyke käyvät.",
+    "servings": 9,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinit", "marjat", "leivonnainen"],
+    "ingredients": [
+      "3 dl vehnäjauhoja",
+      "½ dl sokeria",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "1¾ dl vähärasvaista piimää",
+      "2 rkl margariinia, sulatettuna",
+      "1 kananmuna, kevyesti vatkattuna",
+      "½ tl vaniljauutetta",
+      "2½ dl pakastemansikoita, makeuttamattomia, karkeasti pilkottuina (tai muita hedelmiä)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Voitele muffinipelti.",
+      "Sekoita isossa kulhossa jauhot, sokeri, leivinjauhe ja ruokasooda.",
+      "Sekoita toisessa kulhossa piimä, margariini, muna ja vanilja.",
+      "Kaada nesteseos kuiviin aineisiin.",
+      "Sekoita lusikalla vain sen verran, että aineet kostuvat (älä sekoita liikaa).",
+      "Lisää hedelmät ja sekoita varovasti.",
+      "Jaa taikina tasan 9 muffinivuokaan.",
+      "Paista 20–25 minuuttia, kunnes muffinit ovat kullanruskeita.",
+      "Tarjoile kuumina tai kylminä. Muffinit voi pakastaa."
+    ]
+  },
+  {
+    "id": "myplate-falafel-yogurt-sandwich",
+    "title": "Falafelit ja jogurttikastike pitaleivässä",
+    "description": "Falafel on paistettu kikhernepihvi lähi-idän mausteilla. Tarjoile täysjyväpitaleivässä mausteisen jogurtin ja tuoreen sipulin kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "palkokasvit", "lähi-itäinen", "lounas"],
+    "ingredients": [
+      "2½ dl kuivia kikherneitä, huuhdeltuna",
+      "7 dl vettä",
+      "½ dl öljyä",
+      "1 valkosipulinkynsi, murskattuna",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "1 tl persiljaa, hienonnettuna",
+      "¼ tl suolaa",
+      "2 tl sitruunamehua",
+      "ripaus tulista kastiketta",
+      "½ dl vehnäjauhoja (tarvittaessa)",
+      "korppujauhoja (valinnainen)",
+      "Tarjoiluun:",
+      "2½ dl maustamatonta vähärasvaista jogurttia",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "4 täysjyväpitaleipää",
+      "tomaattiviipaleita (valinnainen)",
+      "salaattia (valinnainen)"
+    ],
+    "instructions": [
+      "Laita kikherneet ja vesi isoon kattilaan ja liota yön yli tai pikaliotuksella.",
+      "Keitä pehmeiksi, noin 2 tuntia. Lisää vettä tarvittaessa. Valuta.",
+      "Kuumenna öljy hitaasti ja kuullota valkosipuli ja 1 sipuli pehmeiksi (5–7 minuuttia).",
+      "Soseuta keitetyt kikherneet, kuullotetut kasvikset, persilja, suola, sitruunamehu ja tulinen kastike sileäksi.",
+      "Muotoile jauhotetuin käsin seoksesta soikeita pihvejä (noin ½ dl kukin).",
+      "Pyörittele pihvit jauhoissa.",
+      "Paista falafelit pannulla jäljelle jääneessä öljyssä kullanruskeiksi.",
+      "Valuta talouspaperilla.",
+      "Sekoita jogurtti ja loppu sipuli.",
+      "Tarjoile falafelit pitaleivässä jogurttikastikkeen kanssa."
+    ],
+    "notes": ["Jos massa on liian löysää, lisää joukkoon korppujauhoja."]
+  },
+  {
+    "id": "myplate-fall-veggie-casserole",
+    "title": "Syksyn kasvispata",
+    "description": "Tuoreesta munakoisosta ja tomaateista tehty kasvispata, jonka päälle ripotellaan parmesaania.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "munakoiso", "kasvikset", "gluteeniton"],
+    "ingredients": [
+      "1 keskikokoinen munakoiso (n. 1,3 l kuutioina)",
+      "4 tomaattia",
+      "1 vihreä paprika",
+      "1 sipuli",
+      "1 valkosipulinkynsi",
+      "1 tl suolaa",
+      "¼ tl mustapippuria",
+      "3 rkl rypsiöljyä",
+      "2 rkl parmesaania, raastettuna"
+    ],
+    "instructions": [
+      "Kuori munakoiso ja leikkaa kuutioiksi.",
+      "Pilko tomaatit pieniksi paloiksi.",
+      "Halkaise paprika, poista siemenet ja pilko pieniksi paloiksi.",
+      "Pilko sipuli ja hienonna valkosipuli.",
+      "Laita kaikki ainekset juustoa lukuun ottamatta isolle pannulle ja kypsennä keskilämmöllä pehmeiksi.",
+      "Ripottele päälle parmesaani ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-fantastic-french-toast",
+    "title": "Ranskalainen leipä",
+    "description": "Klassinen aamiainen, jonka kanssa sopii tarjoilla tuoreita hedelmiä tai hilloa.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "nopea", "arkiruoka"],
+    "ingredients": [
+      "2 kananmunaa",
+      "1¼ dl rasvatonta maitoa",
+      "½ tl vaniljauutetta",
+      "6 viipaletta täysjyväleipää",
+      "siirappia tai muita lisukkeita (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna paistinpannu keskilämmölle. Vatkaa munat, maito ja vanilja haarukalla matalassa kulhossa tasaiseksi.",
+      "Voitele pannu ohuelti öljyllä.",
+      "Kasta leipäviipaleet yksi kerrallaan molemmilta puolilta munaseokseen ja paista kuumalla pannulla.",
+      "Paista toinen puoli kullanruskeaksi.",
+      "Käännä leipä ja paista toinen puoli.",
+      "Kummallakin puolella kestää noin 4 minuuttia.",
+      "Tarjoile halutessasi siirapin, omenasoseen, hedelmäviipaleiden tai hillon kanssa."
+    ]
+  },
+  {
+    "id": "myplate-farmers-market-gazpacho",
+    "title": "Gazpacho",
+    "description": "Valkosipuli, juustokumina ja sitruunamehu antavat raikkaan maun tähän kylmään kasviskeittoon. Korianteri tuo lopuksi raikkautta.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "kasvikset", "espanjalainen"],
+    "ingredients": [
+      "2 keskikokoista kurkkua, ½ cm:n kuutioina",
+      "3 keskikokoista punaista paprikaa, siemenet poistettuna, ½ cm:n kuutioina",
+      "3 keskikokoista vihreää paprikaa, siemenet poistettuna, ½ cm:n kuutioina",
+      "4 vartta varsiselleriä, ½ cm:n kuutioina",
+      "2 keskikokoista tomaattia, ½ cm:n kuutioina",
+      "1 keskikokoinen sipuli, ½ cm:n kuutioina",
+      "5 dl tomaattimehua",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 rkl juustokuminaa",
+      "2½ dl tuoretta korianteria, hienonnettuna",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "2 sitruunan mehu"
+    ],
+    "instructions": [
+      "Sekoita kulhossa kaikki ainekset paitsi suola, pippuri, sitruunat ja puolet korianterista.",
+      "Ota 5 dl seosta sivuun.",
+      "Soseuta loppu seos tehosekoittimella tai monitoimikoneella.",
+      "Lisää sivuun otettu seos soseen joukkoon.",
+      "Mausta suolalla, pippurilla ja sitruunamehulla.",
+      "Peitä ja jäähdytä jääkaapissa vähintään 2 tuntia.",
+      "Tarjoile kylmänä ja koristele loppu korianterilla."
+    ]
+  },
+  {
+    "id": "myplate-farmers-market-salsa",
+    "title": "Mustapapu-maissisalsa",
+    "description": "Lime, valkosipuli ja tuoreet kasvikset antavat tälle mustapapu-maissisalsalle potkua.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "dippi", "nopea"],
+    "ingredients": [
+      "1¼ dl maissia, keitettynä (tai pakastemaissia)",
+      "1 tlk (400 g) vähäsuolaisia mustapapuja, valutettuna ja huuhdeltuna",
+      "2½ dl tomaattia, kuutioituna",
+      "1¼ dl sipulia, kuutioituna (keltainen tai punainen)",
+      "1¼ dl vihreää paprikaa, kuutioituna",
+      "2 rkl limemehua",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1¼ dl salsakastiketta"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa kulhossa.",
+      "Jäähdytä tarjoiluun asti.",
+      "Valuta ylimääräinen neste pois ennen tarjoilua.",
+      "Tarjoile vähärasvaisten tortillasipsien tai tuoreiden kasvisten kanssa."
+    ]
+  },
+  {
+    "id": "myplate-fat-free-apple-crumb-dessert",
+    "title": "Rasvaton omenamurupaistos",
+    "description": "Kaurahiutaleet, kaneli ja fariinisokeri ovat maukas kuorrute uunissa kypsennetylle omenajälkiruoalle.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "omena", "uuniruoka", "kaura"],
+    "ingredients": [
+      "4 keskikokoista kypsennysomenaa",
+      "1¼ dl pikakaurahiutaleita",
+      "½ dl fariinisokeria",
+      "2 tl kanelia",
+      "¾ dl omenamehua (100 %)",
+      "paistosprayta vuoan voiteluun"
+    ],
+    "instructions": [
+      "Siirrä uuniritilä uunin keskelle ja kuumenna uuni 175 asteeseen. Voitele noin 23 x 23 cm:n vuoka.",
+      "Pese ja kuori omenat.",
+      "Viipaloi ne ohuiksi.",
+      "Levitä omenaviipaleet tasaisesti vuoan pohjalle.",
+      "Sekoita pienessä kulhossa haarukalla kaurahiutaleet, fariinisokeri ja kaneli.",
+      "Levitä kaurahiutaleseos tasaisesti omenoiden päälle.",
+      "Kaada omenamehu kevyesti seoksen päälle.",
+      "Peitä vuoka ja paista 20–30 minuuttia, kunnes omenat alkavat pehmetä.",
+      "Poista kansi ja paista vielä 15–20 minuuttia, kunnes omenat ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-feather-rolls",
+    "title": "Kevyet täysjyväsämpylät",
+    "description": "Täysjyvävehnäjauho lisää sämpylöiden kuitua. Taikinan voi käyttää heti tai säilyttää jääkaapissa useita päiviä.",
+    "servings": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "sämpylät", "leivonnainen", "täysjyvä"],
+    "ingredients": [
+      "9½ dl täysjyvävehnäjauhoja",
+      "1¾ dl vehnäjauhoja",
+      "1 pkt (11 g) kuivahiivaa",
+      "2½ dl rasvatonta maitojauhetta",
+      "3½ dl lämmintä vettä",
+      "¾ dl rypsiöljyä",
+      "3 rkl sokeria (tai hunajaa)",
+      "2 kananmunaa (tai 4 valkuaista)",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Sekoita 6 dl täysjyvävehnäjauhoja, kuivahiiva ja maitojauhe isossa vatkauskulhossa.",
+      "Lisää vesi, öljy ja sokeri.",
+      "Sekoita hyvin 1–2 minuuttia.",
+      "Sammuta kone, peitä kulho ja anna taikinan levätä 10 minuuttia.",
+      "Lisää munat ja suola.",
+      "Käynnistä kone.",
+      "Lisää loput jauhot 2½ dl kerrallaan, kunnes taikina alkaa muodostua palloksi.",
+      "Vaivaa 5–6 minuuttia.",
+      "Taikinan pitää olla hyvin pehmeää ja helppo käsitellä.",
+      "Jäykästä taikinasta tulee raskaita ja kuivia sämpylöitä.",
+      "Jos taikina jäykistyy vaivattaessa, lisää vähän haaleaa vettä.",
+      "Taikinan voi käyttää heti tai peittää ja säilyttää jääkaapissa useita päiviä.",
+      "Öljyä tarvittaessa kätesi ja työtaso kevyesti.",
+      "Muotoile taikina heti sämpylöiksi.",
+      "Anna kohota kuohkeaksi.",
+      "Paista 175 asteessa 18–20 minuuttia.",
+      "Älä paista liian pitkään."
+    ]
+  },
+  {
+    "id": "myplate-festive-microwave-baked-apples",
+    "title": "Mikrossa kypsennetty täytetty omena",
+    "description": "Kiire? Täytä ytimetön omena kanelilla, muskottipähkinällä ja rusinoilla ja kypsennä mikrossa nopeaksi jälkiruoaksi.",
+    "servings": 1,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "nopea", "mikro"],
+    "ingredients": [
+      "1 keskikokoinen omena, kuorittuna ja ytimet poistettuna (ei paloiteltuna)",
+      "1 tl fariinisokeria",
+      "½ tl muskottipähkinää",
+      "1 tl kanelia",
+      "2 rkl rusinoita",
+      "1 tl voita"
+    ],
+    "instructions": [
+      "Aseta omena lautaselle aukko ylöspäin (pohjan tulee jäädä ehjäksi).",
+      "Sekoita sokeri, muskotti ja kaneli erillisessä kupissa ja ripottele omenan sisään ja päälle.",
+      "Ripottele rusinat omenan päälle ja ympärille.",
+      "Lisää voi omenan päälle ja peitä kelmulla tai leivinpaperilla.",
+      "Kuumenna mikrossa täydellä teholla 2½–3 minuuttia.",
+      "Anna seistä mikron ulkopuolella vähintään 30 sekuntia ennen syömistä.",
+      "Omena on kuuma!"
+    ],
+    "notes": ["Alkuperäisessä oli rkl-mitoilla kanelia ja muskottia; määrät on pienennetty maultaan sopiviksi."]
+  },
+  {
+    "id": "myplate-fiesta-hummus",
+    "title": "Mausteinen hummus",
+    "description": "Proteiinipitoinen dippi kasvisten tai täysjyväpitaleivän kanssa. Tulisuutta voi säätää cayennella ja jalapeñolla.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "palkokasvit", "nopea"],
+    "ingredients": [
+      "1 tlk (400 g) kikherneitä, vähäsuolaisia",
+      "½ tl juustokuminaa",
+      "¼ tl suolaa",
+      "ripaus cayennepippuria",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1¼ dl maustamatonta rasvatonta jogurttia",
+      "1 rkl limemehua",
+      "1 rkl seesamiöljyä",
+      "1 jalapeño, hienonnettuna",
+      "2 rkl tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Valuta kikherneet ja muussaa ne tehosekoittimessa, monitoimikoneessa tai haarukalla.",
+      "Lisää loput ainekset.",
+      "Sekoita sileäksi.",
+      "Jäähdytä tunti tai yön yli.",
+      "Tarjoile keksien tai tortillasipsien kanssa.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-fiesta-lettuce-wraps-and-pepper-boats",
+    "title": "Tilapia-salaattikääreet ja paprikaveneet",
+    "description": "Paprikat ja salaatinlehdet kääreinä lisäävät kasvisten määrää. Sopii itse koottavaksi lounaisamerikkalaiseksi aterioksi tai alkupaloiksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "riisi", "meksikolainen", "salaatti"],
+    "ingredients": [
+      "6 makeaa minipaprikaa",
+      "8 salaatinlehteä",
+      "2½ dl pikaruskeaa riisiä (kuivana)",
+      "450 g tilapiafileetä, tuoretta tai sulatettua",
+      "2 tl chipotle-mausteseosta (suolatonta)",
+      "2 rkl rypsiöljyä, jaettuna",
+      "¼ tl suolaa",
+      "2 limeä, jaettuna",
+      "½ dl kevytkermaviiliä",
+      "Salsa fresca:",
+      "1¼ dl maissia (pakaste tai säilyke, suolaton)",
+      "1 keskikokoinen tomaatti",
+      "1 pieni sipuli",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 jalapeño, hienonnettuna",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Halkaise paprikat pituussuunnassa.",
+      "Aseta salaatinlehdet ja 8 paprikapuolikasta tarjoiluvadille.",
+      "Keitä riisi pakkauksen ohjeen mukaan.",
+      "Tee salsa: pilko loput paprikapuolikkaat, tomaatti ja sipuli ja sekoita maissin, valkosipulin, jalapeñon ja ¼ tl:n suolan kanssa.",
+      "Ripottele tilapiafileiden molemmille puolille chipotle-mausteseosta.",
+      "Kuumenna 1½ rkl öljyä isolla pannulla keskikovalla lämmöllä.",
+      "Paista kalaa 3 minuuttia kummaltakin puolelta (kunnes kala on läpikuultamatonta, sisälämpö 63 astetta). Revi haarukalla ja nosta tarjoiluastiaan.",
+      "Kun riisi on valmista, sekoita joukkoon loput ½ rkl öljyä, toisen limen mehu ja ¼ tl suolaa.",
+      "Leikkaa toinen lime lohkoiksi.",
+      "Tarjoile paprika-salaattivati, riisi, kala, salsa, kermaviili ja lime, ja anna ruokailijoiden koota omat veneensä ja käärönsä."
+    ]
+  },
+  {
+    "id": "myplate-fiesta-mix",
+    "title": "Murumix",
+    "description": "Muromix hiutaleista, rusinoista, pähkinöistä ja kookoksesta pitoihin tai välipalaksi.",
+    "servings": 4,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "eväät", "lapsille"],
+    "ingredients": [
+      "2½ dl hedelmähiutaleita (esim. rusinahiutaleita)",
+      "2½ dl lesemuroja tai vehnäneliöitä",
+      "2½ dl rinkilämuroja",
+      "½ dl rusinoita",
+      "½ dl maapähkinöitä",
+      "½ dl kookoshiutaleita"
+    ],
+    "instructions": [
+      "Sekoita murot isossa kulhossa.",
+      "Lisää rusinat, maapähkinät ja kookos ja sekoita hyvin.",
+      "Syö sellaisenaan tai maidon kanssa."
+    ]
+  },
+  {
+    "id": "myplate-fiesta-rice-salad",
+    "title": "Riisisalaatti kidneypavuilla",
+    "description": "Raikas ja viileä salaatti, jolla jäännösriisi muuttuu kuumana kesäiltana päivälliseksi.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "riisi", "salaatti", "palkokasvit"],
+    "ingredients": [
+      "2½ dl keitettyä ruskeaa riisiä",
+      "1 porkkana, raastettuna",
+      "2½ dl parsakaalia, hienoksi pilkottuna",
+      "1 pieni punasipuli, pilkottuna",
+      "2½ dl tomaattia, pilkottuna",
+      "1 paprika (vihreä, punainen tai keltainen), pilkottuna",
+      "1 tlk (400 g) vähäsuolaisia kidneypapuja, valutettuna ja huuhdeltuna",
+      "2 rkl tuoretta korianteria (tai muita yrttejä), hienonnettuna",
+      "2 rkl punaviinietikkaa (tai valkoviini- tai omenaviinietikkaa)",
+      "1 rkl rypsiöljyä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese ja pilko kasvikset ja sekoita ne keitettyyn riisiin.",
+      "Sekoita pienessä kulhossa etikka, öljy, suola ja pippuri (tai käytä suosikkikastiketta). Kaada riisiseoksen päälle.",
+      "Lisää pavut ja sekoita hyvin.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-fiesta-stuffed-avocado",
+    "title": "Täytetty avokado",
+    "description": "Piristä välipalaa raikkaalla täytteellä. Vain viisi ainesta.",
+    "servings": 1,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "avokado", "nopea", "meksikolainen"],
+    "ingredients": [
+      "¾ dl vähäsuolaisia mustapapuja",
+      "1 tomaatti, kuutioituna (n. 2 rkl)",
+      "1 rkl sipulia, hienonnettuna",
+      "1 tl sitruunamehua",
+      "½ kypsää avokadoa, kivi poistettuna ja kuorittuna"
+    ],
+    "instructions": [
+      "Sekoita kulhossa mustapavut, tomaatti ja sipuli.",
+      "Purista joukkoon sitruunamehua.",
+      "Tarjoile avokadopuolikkaassa."
+    ]
+  },
+  {
+    "id": "myplate-fig-bars",
+    "title": "Viikunapalat",
+    "description": "Hyvä eväs matkaan. Makea ja pähkinäinen täyte maistuu kaiken ikäisille.",
+    "servings": 24,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leivonnainen", "eväät", "kaura"],
+    "ingredients": [
+      "4¾ dl kuivattuja viikunoita, pilkottuna (450 g)",
+      "1¼ dl saksanpähkinöitä, pilkottuna",
+      "¾ dl sokeria",
+      "½ dl appelsiinimehua (½ appelsiinin mehu)",
+      "2 rkl kuumaa vettä",
+      "1¼ dl pehmeää margariinia tai voita",
+      "2½ dl fariinisokeria",
+      "1 kananmuna",
+      "3½ dl vehnäjauhoja",
+      "½ tl ruokasoodaa",
+      "3 dl isoja kaurahiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele kevyesti noin 23 x 33 cm:n uunivuoka.",
+      "Sekoita viikunat, saksanpähkinät, sokeri, appelsiinimehu ja kuuma vesi kulhossa ja laita sivuun.",
+      "Vatkaa margariini ja fariinisokeri vaahdoksi.",
+      "Lisää muna ja sekoita tasaiseksi.",
+      "Sekoita jauhot ja ruokasooda.",
+      "Sekoita munaseokseen.",
+      "Lisää kaurahiutaleet, jolloin saat pehmeän taikinan.",
+      "Ota 2½ dl taikinaa sivuun päällystä varten.",
+      "Painele loput taikinasta jauhotetuin sormin ohueksi kerrokseksi vuoan pohjalle.",
+      "Levitä viikunaseos tasaisesti taikinan päälle.",
+      "Murenna sivuun otettu taikina päälle niin, että viikunaseos näkyy.",
+      "Paista 30 minuuttia, kunnes pinta on kullanruskea.",
+      "Jäähdytä kokonaan vuoassa.",
+      "Leikkaa 24 palaksi (noin 6 x 5 cm)."
+    ]
+  },
+  {
+    "id": "myplate-fish-spinach",
+    "title": "Kala ja pinaatti tomaattikastikkeessa",
+    "description": "Kullanruskeaksi paistettu turska, tomaatti-pinaattikastike ja oliivit nopeaksi kalaruoaksi. Tarjoa lempilisukkeen kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "arkiruoka", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "450 g nahatonta turskafileetä",
+      "1 keltasipuli, ½ cm:n paloina",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "5 dl vähäsuolaisia tomaattipaloja (tai tuoreita tomaatteja)",
+      "1¼ dl vettä",
+      "5 dl pakastepinaattia, karkeasti pilkottuna",
+      "½ dl kalamata-oliiveja (tai muita kreikkalaisia oliiveja), kivettömiä ja karkeasti pilkottuja"
+    ],
+    "instructions": [
+      "Kuumenna pannu kovalla lämmöllä.",
+      "Kun pannu on kuuma, lisää 1½ tl öljyä.",
+      "Lisää kala.",
+      "Paista noin 5 minuuttia kummaltakin puolelta, kunnes kala on tummanruskeaa.",
+      "Nosta kala lautaselle ja peitä.",
+      "Kuumenna pannu uudelleen keskilämmölle.",
+      "Lisää loput 1½ tl öljyä, sipuli ja valkosipuli.",
+      "Kypsennä noin 7 minuuttia.",
+      "Lisää tomaatit ja vesi.",
+      "Kypsennä noin 10 minuuttia, kunnes seos sakenee ja muuttuu kirkkaanpunaisesta oranssiksi.",
+      "Palauta kala pannulle tomaattiseoksen sekaan.",
+      "Peitä pinaatilla ja ripottele päälle oliivit.",
+      "Laita kansi päälle.",
+      "Kypsennä miedolla lämmöllä noin 2 minuuttia, kunnes pinaatti on höyrystynyt.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-fish-tacos",
+    "title": "Kalatacot",
+    "description": "Hauska tapa lisätä kalaa ruokavalioon. Valkokaali tuo rouskuvuutta ja lisää ravintoaineita.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "meksikolainen", "uuniruoka", "nopea"],
+    "ingredients": [
+      "1 punasipuli, hienonnettuna",
+      "1¼ dl tuoretta korianteria, hienonnettuna",
+      "2½ dl valkokaalia, suikaloituna ja pilkottuna",
+      "4 tilapiafileetä (à n. 115 g) tai muuta valkoista kalaa",
+      "1 tl chilijauhetta (maun mukaan)",
+      "8 pientä maissitortillaa",
+      "paistosprayta tai öljyä pellin voiteluun",
+      "salsaa ja sitrusviipaleita tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Pese ja pilko sipuli, korianteri ja kaali.",
+      "Sekoita kulhossa ja laita sivuun.",
+      "Voitele uunipelti.",
+      "Ripottele kalafileille kevyesti chilijauhetta ja aseta pellille.",
+      "Laita noin 15 cm:n päähän grillivastuksesta ja grillaa uunissa noin 3–4 minuuttia, kunnes kala on kypsää.",
+      "Kala on valmista, kun se hajoaa helposti haarukalla.",
+      "Paista tortillat kevyesti öljytyllä pannulla tai lämmitä mikrossa muutama sekunti pehmeiksi ja kuumiksi.",
+      "Täytä tortillat kalalla, kaalilla, sipulilla ja korianterilla ja taita kaksinkerroin.",
+      "Tarjoile halutessasi salsan ja sitrusviipaleiden kanssa."
+    ]
+  },
+  {
+    "id": "myplate-five-happiness-fried-noodles",
+    "title": "Paistetut nuudelit viidellä kasviksella",
+    "description": "Porkkana, bambunversot, sienet, soijantaimet ja kevätsipuli paistettujen nuudeleiden kera yksinkertaisessa kastikkeessa.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "kiinalainen", "kasvikset"],
+    "ingredients": [
+      "2,4 l vettä",
+      "450 g kananmunanuudeleita",
+      "1 rkl oliiviöljyä (tai muuta öljyä), jaettuna",
+      "7 dl soijantaimia",
+      "2½ dl bambunversoja, ohuina suikaleina",
+      "1¼ dl porkkanaa, raastettuna",
+      "2 kuivattua shiitake-sientä (liotettuna, ilman jalkoja, suikaleina)",
+      "2 kevätsipulia",
+      "½ tl suolaa",
+      "1 tl sokeria",
+      "1 rkl vähäsuolaista soijakastiketta"
+    ],
+    "instructions": [
+      "Kuumenna iso kattila vettä kiehuvaksi.",
+      "Keitä nuudelit kiehuvassa vedessä al denteksi, noin 5–7 minuuttia. Valuta ja laita sivuun.",
+      "Kuumenna paistumaton wokki tai pannu kovalla lämmöllä.",
+      "Lisää ½ rkl öljyä ja kierrä pannussa. Lisää nuudelit ja paista kullanruskeiksi, noin 7–10 minuuttia.",
+      "Nosta nuudelit pois wokista.",
+      "Lisää wokkiin loput ½ rkl öljyä ja kasvikset ja paista juuri kypsiksi, noin 5–7 minuuttia.",
+      "Palauta nuudelit wokkiin ja lisää suola, sokeri ja soijakastike.",
+      "Sekoita ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-flavored-water",
+    "title": "Hedelmävesi",
+    "description": "Raikas vesimeloni-limeyhdistelmä, tai keksi oma makuyhdistelmäsi.",
+    "servings": 8,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "hedelmät", "kesä", "gluteeniton"],
+    "ingredients": [
+      "1 lime",
+      "2½ dl vesimelonia",
+      "2 l kylmää vettä (tai vähemmän, riippuen hedelmien määrästä)"
+    ],
+    "instructions": [
+      "Pese kaikki hedelmät.",
+      "Viipaloi lime.",
+      "Leikkaa vesimeloni 2,5 cm:n kuutioiksi.",
+      "Laita lime ja vesimeloni 2 litran kannuun ja täytä kannu kylmällä vedellä.",
+      "Anna maun tulla esiin jääkaapissa yön yli ja säilytä jääkaapissa juomiseen asti.",
+      "Hedelmät pysyvät tuoreina vedessä enintään 48 tuntia.",
+      "Juomisen jälkeen hedelmät voi syödä tai tehdä niistä smoothien."
+    ]
+  },
+  {
+    "id": "myplate-flavorful-fried-rice",
+    "title": "Paistettu riisi kananmunalla",
+    "description": "Lisää päivälliseen proteiinia ja viljaa tällä riisiruoalla. Käytä ruskeaa riisiä lisäkuidun vuoksi.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "kananmuna", "kiinalainen"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "2½ dl valkoista riisiä, keittämätöntä",
+      "3 rkl sipulia, hienonnettuna",
+      "1¼ dl porkkanaa, hienonnettuna tai raastettuna",
+      "5 dl vettä",
+      "4 kananmunaa, vatkattuna",
+      "4 kananmunan valkuaista, vatkattuna",
+      "½ dl rasvatonta maitoa",
+      "1¼ dl herneitä",
+      "2 rkl vähäsuolaista soijakastiketta"
+    ],
+    "instructions": [
+      "Paista riisiä, sipulia ja porkkanaa öljyssä isolla pannulla keskilämmöllä usein sekoittaen kevyesti ruskeiksi.",
+      "Lisää vesi hitaasti.",
+      "Laske lämpöä, peitä ja hauduta, kunnes neste on imeytynyt ja riisi on pehmeää, noin 20 minuuttia.",
+      "Vatkaa munat ja valkuaiset kulhossa.",
+      "Lisää maito, herneet ja soijakastike.",
+      "Kaada kuuman riisiseoksen päälle pannulle.",
+      "Kypsennä keskilämmöllä.",
+      "Kun seos alkaa hyytyä, vedä lastalla pannun pohjalta ja reunoilta.",
+      "Näin munaseos kypsyy.",
+      "Jatka, kunnes muna on kiinteää."
+    ]
+  },
+  {
+    "id": "myplate-flour-tortillas",
+    "title": "Vehnätortillat",
+    "description": "Jätä kaupan tortillat väliin ja tee omat tällä helpolla ohjeella. Osan vehnäjauhoista voi korvata täysjyvävehnäjauhoilla.",
+    "servings": 10,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "tortillat", "leipä", "meksikolainen"],
+    "ingredients": [
+      "4¾ dl vehnäjauhoja (tai 3½ dl vehnäjauhoja ja 1¼ dl täysjyvävehnäjauhoja)",
+      "1 tl leivinjauhetta",
+      "½ tl suolaa",
+      "2 rkl rypsiöljyä",
+      "1¼ dl lämmintä vettä (40–43 °C)"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauhot, leivinjauhe ja suola.",
+      "Lisää öljy ja sekoita murumaiseksi.",
+      "Aloita 1¼ dl:lla vettä ja lisää 1 rkl kerrallaan, kunnes seos muodostaa löyhän, murumaisen pallon.",
+      "Kumoa kevyesti jauhotetulle alustalle ja vaivaa 6–8 kertaa sileäksi.",
+      "Jaa 10 palloon.",
+      "Kaulitse jokainen noin 20 cm:n pyöreäksi levyksi.",
+      "Kuumenna kuiva, noin 30 cm:n paistinpannu keskikovalla lämmöllä.",
+      "Paista yksi tortilla kerrallaan, kunnes pohjaan tulee vaaleanruskeita läikkiä.",
+      "Käännä ja paista toinen puoli kevyesti ruskeaksi."
+    ]
+  },
+  {
+    "id": "myplate-food-group-funny-face",
+    "title": "Hauska naama -välipala",
+    "description": "Lapset voivat tehdä oman hauskan naamansa kaikista viidestä ruokaryhmästä.",
+    "servings": 1,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "lapsille"],
+    "ingredients": [
+      "1 rkl maapähkinävoita",
+      "1 iso grahamkeksi (tai täysjyväkeksi tai suolakeksi)",
+      "1 rkl cheddarjuustoa, raastettuna",
+      "3 rusinaa",
+      "2 isoa vihreää herneenpalkoa tai herneitä",
+      "½ viinirypälettä, halkaistuna"
+    ],
+    "instructions": [
+      "Levitä maapähkinävoi keksille kasvon muotoon.",
+      "Ripottele raastettua juustoa yläreunaan hiuksiksi.",
+      "Aseta rusinat keksille suuksi.",
+      "Käytä herneitä silmiksi ja viinirypäleen puolikasta nenäksi."
+    ]
+  }
+]

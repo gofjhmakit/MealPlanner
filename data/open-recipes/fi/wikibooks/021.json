@@ -1,0 +1,497 @@
+[
+  {
+    "id": "wikibooks-caramelized-pineapple",
+    "title": "Karamellisoitu ananas",
+    "description": "Ulkopinnalta rapea, makea ja hedelmäinen ananas vaniljaisessa kermakaramellissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmä", "juhla"],
+    "ingredients": [
+      "500 g ananasta, kuutioituna",
+      "1,2 dl tummaa fariinisokeria, jaettuna",
+      "1,2 dl kuohukermaa",
+      "3 rkl tummaa rommia",
+      "1 vaniljatanko, halkaistuna ja siemenet kaapittuna"
+    ],
+    "instructions": [
+      "Laita kattilaan vaniljatanko ja siemenet, kerma ja ½ dl fariinisokeria.",
+      "Kuumenna keskilämmöllä, kunnes sokeri on liuennut ja seos on sakeutunut hieman, 15–30 minuuttia.",
+      "Poista vaniljatanko ja anna sokeriseoksen seistä huoneenlämmössä 30 minuuttia.",
+      "Kasta ananaspalat sokeriseokseen ja pyöritä sitten jäljellä olevassa sokerissa. Lisää sokeria tarvittaessa.",
+      "Aseta ananas voidellulle pellille ja paahda uunin grillivastuksen alla pellin jatkuvasti ravistaen, kunnes palat ovat hyvin ruskistuneita.",
+      "Ota ananas pois ja pidä lämpimänä.",
+      "Kuumenna pelti liedellä kahden levyn päällä korkealla lämmöllä. Lisää rommi (varo, se voi leimahtaa palamaan). Kaavi ruskistuneet jäänteet irti ja keitä rommia, kunnes se on puolittunut.",
+      "Sekoita rommi loppuun sokeriseokseen. Tarjoa ananas ja sokeriseos erikseen."
+    ]
+  },
+  {
+    "id": "wikibooks-caramelized-raspberry-sauce",
+    "title": "Karamellisoitu vadelmakastike",
+    "description": "Uunissa ruskistetuista vadelmista keitetty kermainen jälkiruokakastike.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "jälkiruokakastike"],
+    "ingredients": [
+      "2,4 dl pakastevadelmia, sulatettuina",
+      "½ dl sokeria",
+      "½ dl kuohukermaa",
+      "1 ripaus suolaa (valinnainen)",
+      "55 g suolatonta voita",
+      "1 rkl vaniljasokeria",
+      "jäätelöä tai hedelmiä tarjoiluun"
+    ],
+    "instructions": [
+      "Levitä marjat pellille ja ripottele päälle puolet sokerista. Paahda uunin grillivastuksen alla noin 13–15 cm:n etäisyydellä, kunnes marjat ovat hyvin ruskistuneita.",
+      "Ota pois ja anna jäähtyä.",
+      "Laita kerma, suola ja loput sokerista paksupohjaiseen kattilaan keski- tai korkeahkolle lämmölle. Lisää vadelmat ja keitä, kunnes marjat hajoavat helposti.",
+      "Ota pois lämmöltä ja anna jäähtyä. Soseuta tehosekoittimessa tai sauvasekoittimella tasaiseksi.",
+      "Kaada seos takaisin kattilaan, kuumenna kiehuvaksi ja keitä, kunnes neste on vähentynyt kolmannekseen.",
+      "Sekoita joukkoon voi ja vanilja tasaiseksi. Anna jäähtyä.",
+      "Kaada kastike jäätelön tai hedelmien päälle ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-caramelized-sweet-and-sour-onion-marmalade",
+    "title": "Karamellisoitu sipulihilloke",
+    "description": "Makeanhapan sipulihilloke, joka sopii lihan ja juustojen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "sipuli", "lisuke"],
+    "ingredients": [
+      "4 rkl oliiviöljyä tai rypsiöljyä",
+      "4 isoa sipulia, ohuina suikaleina",
+      "1,2 dl sokeria",
+      "½ dl balsamietikkaa",
+      "¼ tl suolaa",
+      "ripaus karkeaa mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla paistinpannulla keskilämmöllä. Lisää sipulit ja paista sekoitellen noin 15 minuuttia, kunnes ne alkavat ruskistua. Älä käytä kovaa lämpöä, sillä sipulien pinta palaa ennen kuin sisus on pehmennyt ja makeutunut.",
+      "Kun sipulit ovat pehmenneet ja vaalean kullanruskeita, lisää sokeri. Sekoita, kunnes sokeri sulaa ja alkaa kuplia.",
+      "Kun sipulit ruskistuvat syvemmin, tee pannun keskelle tyhjä kohta. Kaada balsamietikka suoraan kuumalle pannulle ja sekoita sipuleihin.",
+      "Kun etikka on vähentynyt ja sipuleiden pinnalle jää siirappinen kuorrute, sammuta lämpö.",
+      "Sekoita joukkoon suola ja pippuri ja anna jäähtyä."
+    ]
+  },
+  {
+    "id": "wikibooks-carbonara-pasta",
+    "title": "Carbonara-pasta",
+    "description": "Helppo pasta, jonka kastike valmistuu munankeltuaisista ja pancettasta kuuman pastan lämmöllä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "italialainen", "nopea"],
+    "ingredients": [
+      "4 vapaan kanan munaa (isoja keltuaisia)",
+      "65 g tuoretta italialaista pancettaa, ½–1 cm:n kuutioina",
+      "1 oksa tuoretta timjamia, hienonnettuna",
+      "¼ pientä sipulia, hienonnettuna",
+      "½ sitruunan hienonnettu kuori",
+      "suolaa",
+      "mustapippuria",
+      "raastettua parmesaania ja/tai pecorino romanoa",
+      "340 g pastaa (esim. spagettia tai penneä)"
+    ],
+    "instructions": [
+      "Laita pasta kypsymään.",
+      "Erottele munien keltuaiset valkuaisista. Pidä keltuaiset isossa kulhossa ja käytä valkuaiset muuhun. Poista keltuaisesta valkuaisen jäänteet.",
+      "Paista pancetta miedolla lämmöllä kuivalla pannulla rapeaksi.",
+      "Valuta pancetta ja anna jäähtyä muutama minuutti ennen kuin sekoitat sen keltuaisten joukkoon. Jäähdytys estää munien kypsymisen.",
+      "Lisää keltuaisseokseen ripaus suolaa ja reilusti mustapippuria.",
+      "Lisää sitruunankuori, timjami, sipuli ja hieman parmesaania.",
+      "Valuta pasta, odota hetki, jotta se jäähtyy hieman, ja lisää se kulhoon keltuaisseoksen joukkoon.",
+      "Sekoita puulusikalla ja tarjoa heti. Ripottele päälle loput juustosta."
+    ],
+    "notes": [
+      "Resepti sisältää raakoja keltuaisia. Raskaana olevien ei pidä syödä raakoja munia.",
+      "Pancettan voi korvata savupekonilla.",
+      "Lisukkeeksi sopii yksinkertainen vihersalaatti."
+    ]
+  },
+  {
+    "id": "wikibooks-carpetbag-steak",
+    "title": "Carpetbag-pihvi",
+    "description": "Australialainen pihvi, jonka taskuun on täytetty osterit.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "australialainen"],
+    "ingredients": [
+      "1 paksu entrecôte (n. 250 g)",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "cayennepippuria (valinnainen)",
+      "sitruunamehua (valinnainen)",
+      "oliiviöljyä (valinnainen)",
+      "3–4 osteria",
+      "worcestershirekastiketta",
+      "limettiä (valinnainen)",
+      "raastettua juustoa (valinnainen)"
+    ],
+    "instructions": [
+      "Leikkaa paksun pihvin reunaan noin 6 cm pitkä ja yhtä syvä tasku.",
+      "Mausta taskun sisäpuoli halutessasi suolalla, pippurilla, cayennella, sitruunamehulla ja oliiviöljyllä.",
+      "Kasta osterit worcestershirekastikkeeseen ja työnnä ne pihvin taskuun.",
+      "Lisää halutessasi taskuun limetin lihaa tai raastettua juustoa.",
+      "Sulje tasku kostutetulla vartaalla tai hammastikulla.",
+      "Kypsennä pihvi grillissä, uunin grillivastuksen alla tai keskilämmöllä paksupohjaisella pannulla haluamaasi kypsyyteen."
+    ],
+    "notes": ["Osterien tilalle sopivat sienet tai katkaravut."]
+  },
+  {
+    "id": "wikibooks-carquinyoli-catalan-almond-cookies",
+    "title": "Carquinyoli – katalonialaiset mantelikeksit",
+    "description": "Biscottien tapaan kahdesti paistetut katalonialaiset mantelikeksit.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "espanjalainen", "keksit", "uuniruoka"],
+    "ingredients": [
+      "150 g vehnäjauhoja",
+      "1 tl kanelia",
+      "1 tl leivinjauhetta",
+      "1 kananmuna",
+      "100 g sokeria",
+      "1 sitruunan raastettu kuori",
+      "125 g kuorimattomia manteleita",
+      "1 kananmuna, vatkattuna (voiteluun)"
+    ],
+    "instructions": [
+      "Sekoita jauhot, kaneli ja leivinjauhe.",
+      "Vatkaa muna, sokeri ja sitruunankuori hyvin vaahtoiseksi.",
+      "Sekoita jauhoseos ja mantelit munaseoksen joukkoon taikinaksi.",
+      "Muotoile taikinasta kaksi litteää, noin 6 × 3 cm:n tankoa leivinpaperilla vuoratulle pellille.",
+      "Sivele taikina vatkatulla munalla.",
+      "Paista 180 asteessa 25 minuuttia.",
+      "Leikkaa kuumana tangot alle sentin paksuisiksi viipaleiksi. Levitä viipaleet pelleille niin, etteivät ne kosketa toisiaan.",
+      "Paista vielä 5 minuuttia, jotta pinnat ruskistuvat.",
+      "Anna jäähtyä ennen syömistä."
+    ]
+  },
+  {
+    "id": "wikibooks-carrot-and-coriander-soup",
+    "title": "Porkkana-korianterikeitto",
+    "description": "Klassinen kevyt porkkanakeitto, jossa on sekä jauhettua että tuoretta korianteria.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "porkkana"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 iso sipuli, kuutioituna",
+      "500 g porkkanoita, kuutioituna",
+      "1 tl jauhettua korianteria",
+      "1,2 l kasvislientä",
+      "1 iso nippu tuoretta korianteria, karkeasti hienonnettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy pannussa keskilämmölle.",
+      "Lisää sipuli ja porkkanat. Kypsennä noin 5 minuuttia, kunnes ne alkavat pehmetä.",
+      "Lisää jauhettu korianteri, suola ja pippuri. Kypsennä vielä minuutti.",
+      "Lisää kasvisliemi ja kuumenna kiehuvaksi. Hauduta 10–15 minuuttia, kunnes porkkanat ovat hyvin pehmeitä.",
+      "Soseuta tasaiseksi.",
+      "Lisää tuore korianteri ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-carrot-and-raisin-salad",
+    "title": "Porkkana-rusinasalaatti",
+    "description": "Raikas ja makea raastettu porkkanasalaatti sitrushedelmillä.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "porkkana"],
+    "ingredients": [
+      "250 g porkkanoita, raastettuina",
+      "1 dl rusinoita",
+      "1 sitruuna, raastettu kuori ja mehu",
+      "1 appelsiini, raastettu kuori ja mehu",
+      "sokeria tai hunajaa maun mukaan"
+    ],
+    "instructions": [
+      "Sekoita porkkanat ja rusinat kulhossa.",
+      "Lisää noin 1 tl hienoksi raastettua sitruunan- ja appelsiinin kuorta ja sitten mehut.",
+      "Lisää sokeria tai hunajaa maun mukaan ja sekoita kaikki hyvin.",
+      "Jäähdytä jääkaapissa ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-carrot-cake-i",
+    "title": "Porkkanakakku ja tuorejuustokuorrute",
+    "description": "Mehevä porkkanakakku, jonka päälle levitetään tuorejuustokuorrute.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 70,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "porkkana", "uuniruoka"],
+    "ingredients": [
+      "Kakku:",
+      "225 g vehnäjauhoja",
+      "225 g porkkanaraastetta",
+      "150 g margariinia tai voita",
+      "250 g fariinisokeria",
+      "2 tl kanelia",
+      "1 rkl sitruunamehua",
+      "1½ tl leivinjauhetta",
+      "1 kananmuna",
+      "rusinoita (valinnainen)",
+      "pähkinöitä (valinnainen)",
+      "Kuorrute:",
+      "100 g tomusokeria",
+      "50 g tuorejuustoa tai maitorahkaa",
+      "25 g margariinia tai voita",
+      "½ tl vaniljasokeria"
+    ],
+    "instructions": [
+      "Sulata voi ja sokeri yhdessä ja sekoita joukkoon kuivat aineet (jauhot, kaneli, leivinjauhe).",
+      "Vatkaa muna ja lisää taikinaan. Lisää porkkanaraaste ja sitruunamehu.",
+      "Sekoita joukkoon rusinat ja pähkinät, kunnes kaikki on hyvin sekoittunut.",
+      "Kaada taikina voideltuun vuokaan, jonka pohjalla on leivinpaperi. Paista 180 asteessa noin 50 minuuttia.",
+      "Valmista kuorrute vatkaamalla ainekset tasaiseksi. Levitä jäähtyneen kakun päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-carrot-cake-ii",
+    "title": "Porkkanakakku saksanpähkinöillä",
+    "description": "Kosteaa öljypohjaista porkkanakakkua saksanpähkinöillä ja pehmeällä tuorejuustokuorrutteella.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "porkkana", "uuniruoka"],
+    "ingredients": [
+      "Kakku:",
+      "4,5 dl rypsiöljyä",
+      "400 g vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "570 g sokeria",
+      "5 kananmunaa",
+      "1 ripaus suolaa",
+      "4 tl jauhettua kanelia",
+      "530 g porkkanoita, kuorittuina ja raastettuina",
+      "150 g saksanpähkinöitä, hienonnettuina",
+      "Kuorrute:",
+      "200 g tuorejuustoa",
+      "150 g sokeria",
+      "100 g voita"
+    ],
+    "instructions": [
+      "Sekoita kakun ainekset monitoimikoneessa 5 minuuttia.",
+      "Kaada taikina halkaisijaltaan 26 cm:n kakkuvuokaan.",
+      "Paista 160 asteessa 45 minuuttia.",
+      "Tarkista kypsyys, ota pois uunista ja anna jäähtyä vuoassa 10 minuuttia.",
+      "Kumoa kakku jäähtymään ritilälle.",
+      "Vatkaa kuorrutetta varten tuorejuusto, sokeri ja voi kulhossa tasaiseksi ja pehmeäksi.",
+      "Levitä kuorrute kakun päälle palettiveitsellä."
+    ]
+  },
+  { "id": "wikibooks-carrot-fufu", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-carrot-jam",
+    "title": "Porkkanahillo",
+    "description": "Tanskalainen yksinkertainen porkkanahillo sitruunalla.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "hillo", "tanskalainen"],
+    "ingredients": [
+      "1 kg porkkanoita, kuorittuina ja hienoksi raastettuina",
+      "2,5 dl vettä",
+      "4 sitruunan mehu",
+      "500 g sokeria"
+    ],
+    "instructions": [
+      "Keitä vesi ja porkkanat pehmeiksi.",
+      "Lisää mehu ja sokeri ja keitä vielä 15–20 minuuttia.",
+      "Täytä hillo puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä jääkaapissa."
+    ]
+  },
+  { "id": "wikibooks-carrot-jollof-rice", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-carrot-kugel",
+    "title": "Porkkanakugel",
+    "description": "Perinteinen juutalainen porkkana-omenavuoka.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "porkkana", "uuniruoka", "juutalainen"],
+    "ingredients": [
+      "4 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+      "75 g sokeria",
+      "25 g voita",
+      "1 pieni keittoomena",
+      "1 appelsiinin raastettu kuori",
+      "225 g porkkanoita",
+      "1 appelsiinin mehu",
+      "1 tl sitruunamehua",
+      "50 g perunajauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Voitele 1 litran uunivuoka.",
+      "Vatkaa keltuaiset ja sokeri kulhossa vaaleaksi ja kuohkeaksi vaahdoksi.",
+      "Raasta porkkana ja omena hyvin hienoksi ja purista neste pois.",
+      "Sekoita porkkana, omena, appelsiinin kuori, appelsiini- ja sitruunamehu ja perunajauho.",
+      "Sekoita muna- ja porkkanaseos yhteen.",
+      "Vatkaa valkuaiset hyvin kiinteäksi vaahdoksi ja käännä porkkanaseoksen joukkoon.",
+      "Kaada seos voideltuun vuokaan.",
+      "Paista 35 minuuttia tai kunnes pinta on kullanruskea."
+    ]
+  },
+  { "id": "wikibooks-carrot-paprika-spread", "skip": "ainesmäärät puutteellisia, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-carrot-pudding",
+    "title": "Porkkanapuding",
+    "description": "Kakkumainen porkkanapuding, joka kypsennetään rengasvuoassa vesihauteessa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "porkkana", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "1,25 kg porkkanoita (4–5 isoa)",
+      "3 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "½ tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "225 g leivontarasvaa, voita tai margariinia",
+      "2 kananmunan keltuaista",
+      "¾ dl fariinisokeria",
+      "1 rkl kylmää vettä",
+      "1 rkl sitruunamehua",
+      "½ tl vaniljasokeria",
+      "2 kananmunan valkuaista"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen.",
+      "Keitä porkkanat pehmeiksi, valuta ja muussaa. Aseta sivuun.",
+      "Siivilöi yhteen jauhot, suola, leivinjauhe ja ruokasooda.",
+      "Vaahdota rasva ja keltuaiset.",
+      "Vatkaa joukkoon fariinisokeri, vesi, sitruunamehu ja vanilja. Sekoita joukkoon porkkanamuussi ja sitten kuivat aineet.",
+      "Vatkaa valkuaiset kovaksi vaahdoksi ja käännä porkkanataikinan joukkoon.",
+      "Kaada taikina hyvin voideltuun rengasvuokaan (jossa on pohja).",
+      "Laita uuniin iso matala pelti, jossa on noin 2,5 cm vettä, ja aseta vuoka siihen.",
+      "Paista 1 tunti. Kumoa tarjoiluvadille vielä hieman lämpimänä."
+    ],
+    "notes": [
+      "Tarvittaessa voi käyttää minipäräkäitä porkkanoita.",
+      "Halutessasi voit lisätä muita pilkottuja kasviksia (herneitä, pavunpalkoja).",
+      "Jos vesihaudetta ei voi tehdä, paista ilman sitä."
+    ]
+  },
+  {
+    "id": "wikibooks-carrot-salad",
+    "title": "Porkkanasalaatti pinjansiemenillä",
+    "description": "Nopea porkkanasalaatti mantelioljyllä ja valkoisella balsamietikalla.",
+    "servings": 2,
+    "totalTimeMin": 5,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "porkkana", "nopea"],
+    "ingredients": [
+      "4 keskikokoista porkkanaa",
+      "1–2 rkl mantelioljyä",
+      "1 rkl valkoista balsamietikkaa (tai 2 osaa punaviinietikkaa ja 1 osa balsamietikkaa)",
+      "karkeaa suolaa",
+      "vastajauhettua mustapippuria",
+      "½ dl pinjansiemeniä",
+      "tuoreita vihreitä salaatinlehtiä (valinnainen)",
+      "ruohosipulia (valinnainen)"
+    ],
+    "instructions": [
+      "Leikkaa porkkanat ohuiksi tikuiksi (tai raasta).",
+      "Kääntele mantelioljyssä.",
+      "Ripottele reilusti etikkaa, suolaa ja pippuria.",
+      "Lisää reilusti pinjansiemeniä."
+    ],
+    "notes": ["Tarjoa pieninä käärönyytteinä: laita hieman salaattia salaatinlehden päälle, kääri ja sido ruohosipulilla."]
+  },
+  {
+    "id": "wikibooks-carrots-cooked-kinpira-style",
+    "title": "Kinpira-porkkanat",
+    "description": "Japanilaiseen tapaan paistettuja ja haudutettuja porkkanatikkuja, joissa maku ja ravinteet säilyvät.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "japanilainen", "porkkana", "nopea"],
+    "ingredients": [
+      "250 g porkkanoita, tikkuina",
+      "1 rkl rypsiöljyä, mieluiten seesamiöljyä",
+      "vettä",
+      "soijakastiketta (tamari tai shoyu) maun mukaan"
+    ],
+    "instructions": [
+      "Leikkaa porkkanat ohuiksi tikuiksi.",
+      "Kaada kattilaan hieman öljyä ja kuullota porkkanatikkuja lyhyesti.",
+      "Lisää vettä juuri sen verran, että se peittää porkkanat puoliksi.",
+      "Laita kansi päälle ja hauduta porkkanoita hetki keskipienellä lämmöllä.",
+      "Lisää hieman soijakastiketta maun vahvistamiseksi. Tarjoa."
+    ]
+  },
+  { "id": "wikibooks-cashew-chicken", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cashew-gravy",
+    "title": "Cashewkastike",
+    "description": "Paksu cashewvoihin perustuva kastike vihanneksille, voi tehdä vegaaniseksi soijamaidolla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "pähkinä", "nopea"],
+    "ingredients": [
+      "½ sipulia, ohuina viipaleina",
+      "½ paprikaa, ohuina viipaleina",
+      "2 rkl maapähkinäöljyä",
+      "suolaa",
+      "mustapippuria",
+      "2 tl valkoviiniä",
+      "3,6 dl maitoa tai makeuttamatonta soijamaitoa",
+      "1,2 dl cashewpähkinävoita",
+      "1 ripaus cayennepippuria"
+    ],
+    "instructions": [
+      "Anna cashewvoin lämmetä huoneenlämpöiseksi, jos se on ollut jääkaapissa.",
+      "Kuullota sipulia ja paprikaa maapähkinäöljyssä miedolla tai keskilämmöllä suolan ja pippurin kanssa, kunnes sipuli alkaa kirkastua ja paprika on pehmeää.",
+      "Lisää viini ja irrota pohjaan tarttuneet palat.",
+      "Lisää cayennepippuri ja maito ja kuumenna läpi.",
+      "Lisää cashewvoi ruokalusikka kerrallaan ja sekoita, kunnes se on sekoittunut tasaiseksi. Kastike näyttää aluksi paakkuuntuneelta, mutta tasoittuu muutaman minuutin sekoituksen ja hauduttamisen jälkeen. Säädä maidon tai cashewvoin määrää halutun paksuuden mukaan.",
+      "Maista ja lisää tarvittaessa suolaa.",
+      "Tarjoa kastike vihreiden papujen tai muiden kasvisten tai täysjyväriisin kanssa."
+    ]
+  },
+  { "id": "wikibooks-cassava-salad", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-cassoulet", "skip": "mausteiden määrät puuttuvat ja pavut kypsennetään vain 90 asteessa (ei kiehuvassa), mikä ei ole turvallista" },
+  { "id": "wikibooks-catfish-and-plantain-pepper-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-catfish-pepper-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cauliflower-cheese",
+    "title": "Kukkakaali-juustovuoka",
+    "description": "Perinteinen brittiläinen uuniruoka: kukkakaalta valkokastikkeessa ja parmesaanin kuorruttamana.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "brittiläinen", "juusto", "uuniruoka"],
+    "ingredients": [
+      "1 iso kukkakaali",
+      "3 dl valkokastiketta",
+      "100 g parmesaania, raastettuna",
+      "30 g suolatonta voita",
+      "1 rkl korppujauhoja",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa kukkakaali pieniksi nuppuiksi ja laita ne kukinnot alaspäin suolaveteen tunniksi.",
+      "Valuta nuput ja lisää ne kiehuvaan suolattuun veteen. Keitä kannettomana ja tarkista veitsellä, milloin ovat valmiita. Veitsen tulee mennä kevyesti läpi, mutta kaalin tulee olla vielä hieman napakkaa.",
+      "Kuumenna uuni 200 asteeseen.",
+      "Valuta kypsät nuput ja laita ne vuokaan. Sekoita valkokastike ja ⅔ parmesaanista ja kaada kukkakaalin päälle. Ripottele päälle korppujauhot ja loppu juusto. Lisää voinokareita.",
+      "Paista uunissa noin 20 minuuttia, kunnes pinta on kullanruskea.",
+      "Tarjoa heti."
+    ]
+  }
+]

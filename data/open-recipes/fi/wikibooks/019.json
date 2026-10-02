@@ -1,0 +1,585 @@
+[
+  {
+    "id": "wikibooks-bchamel-sauce-louisiannaise",
+    "title": "Béchamelkastike (louisianalainen)",
+    "description": "Perinteinen ranskalainen valkokastike, jota Louisianassa käytetään meren antimien, etenkin rapuruokien kanssa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "kastike"],
+    "ingredients": [
+      "2,4 dl maitoa",
+      "¼ sipulia tai 2 valkosipulinkynttä",
+      "1 laakerinlehti",
+      "1–2 rkl voita",
+      "1–2 rkl vehnäjauhoja",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Lämmitä maito, lisää sipuli ja laakerinlehti ja anna uuttua 15 minuuttia.",
+      "Sulata voi kattilassa.",
+      "Vatkaa joukkoon jauhot ja kypsennä keskilämmöllä tai hieman kovemmalla, kunnes saat vaalean mehevän jauhoseoksen (roux).",
+      "Vatkaa maito vähitellen joukkoon.",
+      "Keitä jatkuvasti sekoittaen, kunnes kastike sakenee.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "wikibooks-bte-noire-flourless-chocolate-cake",
+    "title": "Bête Noire -jauhoton suklaakakku",
+    "description": "Täyteläinen, jauhoton suklaakakku.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "kakku", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1,2 dl vettä",
+      "3,2 dl sokeria",
+      "120 g tummaa suklaata, hienonnettuna",
+      "230 g makeuttamatonta leivontasuklaata, hienonnettuna",
+      "225 g voita",
+      "5 kananmunaa, vatkattuina"
+    ],
+    "instructions": [
+      "Kuumenna vesi ja sokeri, kunnes sokeri on kokonaan liuennut.",
+      "Sulata voi isossa kattilassa miedolla lämmöllä.",
+      "Lisää hienonnettu suklaa sulaneeseen voihin ja vatkaa tasaiseksi.",
+      "Vatkaa joukkoon sokerisiirappi ja anna jäähtyä hieman.",
+      "Lisää munat ja vatkaa, kunnes seos on sekoittunut tasaiseksi.",
+      "Kaada taikina voideltuun ja leivinpaperilla vuorattuun irtopohjavuokaan (halkaisija 23 cm).",
+      "Paista vesihauteessa 180 asteessa 25–30 minuuttia."
+    ]
+  },
+  { "id": "wikibooks-brek-turkish-filled-pastries", "skip": "täytteiden ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-cabbage-fried-rice", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-cabbage-fufu", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cabbage-kimchi",
+    "title": "Kaalikimchi",
+    "description": "Perinteinen korealainen hapatettu kiinankaali (baechu kimchi), jota tarjotaan lisukkeena.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["korealainen", "fermentoitu", "lisuke"],
+    "ingredients": [
+      "1 kiinankaali",
+      "1,2 dl karkeaa merisuolaa",
+      "2,4 dl vettä",
+      "2 rkl hienonnettua valkosipulia",
+      "1 tl hienonnettua inkivääriä",
+      "1,2 dl gochugaru-chilihiutaleita (korealaisia)",
+      "2 tl suolaa",
+      "1 rkl sokeria",
+      "½ dl korealaista kalakastiketta (jeotgal)",
+      "½ sipulia, ohuina viipaleina",
+      "¼ porkkanaa, ohuina suikaleina",
+      "¼ korealaista retikkaa (muu), ohuina suikaleina",
+      "4 kevätsipulia, 3 cm:n paloina"
+    ],
+    "instructions": [
+      "Jaa kiinankaali neljään osaan, pese ja valuta.",
+      "Sekoita karkea merisuola ja vesi.",
+      "Kasta kaalinlohkot suolaveteen yksi kerrallaan, jotta suola pääsee lehtien väliin.",
+      "Laita kaalit astiaan ja kaada suolavesi päälle. Anna olla vähintään 6–8 tuntia (yön yli). Kaalin tulee olla taipuisaa.",
+      "Huuhdo kaalit ja valuta hyvin.",
+      "Sekoita keskenään chilihiutaleet, suola, sokeri, kalakastike, valkosipuli ja inkivääri.",
+      "Sekoita sipuli, porkkana, retikka ja kevätsipuli chilitahnaan.",
+      "Ota yksi kaalinlohko ja täytä jokaisen lehden väli seoksella.",
+      "Taita kaali kaksinkerroin ja kääri se tiiviisti kahdella uloimmalla lehdellä.",
+      "Laita kaalit ilmatiiviiseen astiaan ja anna olla huoneenlämmössä yön yli.",
+      "Säilytä jääkaapissa vähintään 2–3 päivää. Muutaman päivän jälkeen astiaan kertyy nestettä, mikä on normaalia ja kertoo kimchin kypsymisestä."
+    ],
+    "notes": [
+      "Korealaiset retikat ovat isoja (n. ½–1 kg). Tilalle käy daikon tai suurempi määrä pieniä retikoita.",
+      "Kalakastikkeen voi korvata suolatuilla pienillä katkaravuilla tai jättää pois, jolloin lisää suolaa."
+    ]
+  },
+  {
+    "id": "wikibooks-cabbage-rolls-in-tomato-sauce-holubtsi",
+    "title": "Kaalikääryleet tomaattikastikkeessa (holubtsi)",
+    "description": "Ukrainalaiset kaalikääryleet, jotka kypsyvät uunissa makeahkossa tomaattikastikkeessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "ukrainalainen", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "12 kaalinlehteä",
+      "1,2 dl hienonnettua sipulia",
+      "2 tl suolaa",
+      "1 tl pippuria",
+      "1,2 dl maitoa",
+      "500 g naudan jauhelihaa",
+      "1¾ dl keitettyä riisiä",
+      "1 kananmuna",
+      "Kastike:",
+      "1 tlk (140 g) tomaattipyreetä",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1,2 dl vettä",
+      "2 rkl etikkaa",
+      "3 rkl sokeria",
+      "2 rkl maissitärkkelystä",
+      "1,2 dl kylmää vettä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Laita kaalinlehdet kiehuvaan veteen, peitä ja anna olla kolme minuuttia. Valuta.",
+      "Sekoita jauheliha, maito, kananmuna, riisi, sipuli, pippuri ja suola. Jaa seos kahteentoista osaan.",
+      "Aseta yksi lihapallo kunkin kaalinlehden päälle.",
+      "Kääri lehti täytteen ympärille ja kiinnitä hammastikulla.",
+      "Aseta kääryleet uunivuokaan.",
+      "Sekoita tomaattipyree, tomaattimurska, sokeri, vesi ja etikka ja kaada kääryleiden päälle.",
+      "Peitä vuoka ja paista 175 asteessa 40 minuuttia.",
+      "Nosta kääryleet vuoasta tarjoiluvadille ja poista hammastikut.",
+      "Sekoita maissitärkkelys kylmään veteen ja lisää kastikkeeseen. Kuumenna tarvittaessa, jotta kastike sakenee.",
+      "Kaada valmis kastike kääryleiden päälle ja koristele halutessasi. Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-cabbage-rolls-in-yogurt-sauce-sarmi",
+    "title": "Kaalikääryleet jogurttikastikkeessa (sarmi)",
+    "description": "Bulgarialaiset täytetyt kaali- tai viinirypäleenlehtikääryleet, joissa näkyy kreikkalainen vaikutus.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "bulgarialainen", "riisi"],
+    "ingredients": [
+      "500 g vasikan tai naudan jauhelihaa",
+      "300 g possun jauhelihaa",
+      "1 nippu kevätsipulia, hienonnettuna",
+      "1,2 dl raakaa riisiä",
+      "2,4 dl jogurttia",
+      "persiljaa, hienonnettuna",
+      "minttua",
+      "paprikajauhetta (valinnainen)",
+      "mustapippuria",
+      "30–40 viinirypäleen- tai kaalinlehteä (lehden koosta riippuen tarvitaan vähemmän)",
+      "100 g voita tai 1,2 dl auringonkukkaöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä viinirypäle- tai kaalinlehdet suolavedessä, kunnes ne ovat juuri sen verran pehmeitä, että niitä voi rullata. Valuta ja anna jäähtyä muiden vaiheiden aikana.",
+      "Paista hienonnettu sipuli kevyesti pienessä määrässä öljyä ja sekoita joukkoon teelusikallinen tai enemmän paprikajauhetta.",
+      "Lisää liha, riisi, pippuri, minttu ja hienonnettu persilja ja kypsennä, kunnes liha on lähes kypsää.",
+      "Lisää 1,8 dl vettä, kuumenna kiehuvaksi, peitä heti kannella ja laske lämpö minimiin 10 minuutiksi, kunnes riisi on imenyt veden. Pöyhi tarvittaessa. Anna jäähtyä käsiteltävän lämpöiseksi.",
+      "Laita lehden päälle teelusikallinen täytettä ja rullaa se tiiviiksi kääryleeksi pienen kiinalaisen kevätrullan tapaan. Isoihin kaalinlehtiin voi laittaa hieman enemmän täytettä, mutta tee kääryleistä suunnilleen saman kokoisia.",
+      "Aseta kääryleet kattilaan, lisää 3,6 dl lämmintä vettä, peitä ja hauduta miedolla lämmöllä.",
+      "Sekoita sillä välin jogurtti ja hieman paprikaa väriksi (tai jätä pois, jos haluat pitää ruoan valkoisena) sekä halutessasi muita mausteita.",
+      "Kun kääryleet ovat kypsiä, anna jäähtyä hieman, siirrä varovasti vadille ja kaada jogurttiseos päälle.",
+      "Tarjoa valitsemiesi kasvisten kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-cabbage-salad",
+    "title": "Kaalisalaatti",
+    "description": "Yksinkertainen kaalisalaatti, joka sopii hyvin pizzan kanssa.",
+    "servings": 8,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "kasvis", "salaatti"],
+    "ingredients": [
+      "½ valkokaalia (500 g)",
+      "1 dl rypsiöljyä",
+      "2 rkl valkoviinietikkaa",
+      "1 ripaus suolaa",
+      "1 ripaus karkeaa mustapippuria"
+    ],
+    "instructions": [
+      "Viipaloi kaali hienoksi (noin 1–2 mm:n paksuisiksi suikaleiksi).",
+      "Valmista kastike öljystä, etikasta, suolasta ja pippurista. Kääntele kaali kastikkeessa.",
+      "Anna maustua jääkaapissa yön yli."
+    ]
+  },
+  { "id": "wikibooks-cabbie-claw-scottish-whitefish-with-egg-and-potato", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cachapa-venezuelan-corn-pancakes",
+    "title": "Cachapa – venezuelalaiset maissilätyt",
+    "description": "Kermamaissista ja lättyjauhoista tehdyt nopeat maissilätyt, joiden kanssa tarjotaan juustoa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["kasvis", "venezuelalainen", "maissi", "nopea"],
+    "ingredients": [
+      "1 tlk (400 g) kermamaissia",
+      "1¾ dl lättyjauhoseosta",
+      "½ dl vehnäjauhoja",
+      "1 kananmuna",
+      "2 rkl sulatettua voita tai margariinia",
+      "2 rkl sokeria tai maun mukaan",
+      "juustoa tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset tehosekoittimessa. Taikinan tulee olla paksua ja raskasta. Jos ei ole, lisää maissia.",
+      "Muotoile taikinasta pieniä noin 1,5 cm paksuja ja 13 cm:n läpimittaisia lättyjä. Paista keskilämmöllä noin minuutti per puoli, kunnes pintaan nousee pieniä kuplia.",
+      "Tarjoa kuumana juuston kanssa (esimerkiksi fetaa tai queso blancoa)."
+    ]
+  },
+  {
+    "id": "wikibooks-cachupa-cape-verdean-corn-stew",
+    "title": "Cachupa – Kap Verden maissipata",
+    "description": "Pitkään haudutettu Kap Verden kansallisruoka maississa, pavuissa ja lihassa.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "pata", "juhla"],
+    "ingredients": [
+      "900 g suolattua naudan rintaa (corned beef), kuutioituna",
+      "700 g suolattua porsaan lihaa (suolakylki), isoina paloina",
+      "1 rkl omenaviinietikkaa tai valkoviinietikkaa",
+      "2 laakerinlehteä",
+      "2 tl savupaprikajauhetta",
+      "1 tl suolaa tai maun mukaan",
+      "½ tl mustapippuria tai maun mukaan",
+      "3 rkl murskattua valkosipulia, jaettuna",
+      "2,4 dl kuivattuja pavuja (feijão Pedro / rock beans)",
+      "3 rkl oliiviöljyä",
+      "2 keskikokoista sipulia, hienonnettuna",
+      "2 isoa naudanlihaliemikuutiota",
+      "3 tl tomaattipyreetä",
+      "n. 4,3 l vettä",
+      "4,8 dl kuivattua keltaista hominy-maissia, huuhdottuna",
+      "2,4 dl kirjopapuja (cranberry beans)",
+      "3 dl isoja valkoisia härkäpapuja",
+      "1 keskikokoinen maniokki",
+      "1 l lehtikaalia, huuhdeltuna ja pilkottuna",
+      "900 g chorizoa tai linguiça-makkaraa, huuhdeltuna ja viipaloituna"
+    ],
+    "instructions": [
+      "Mausta suolattu naudanliha ja suolaliha edellisenä iltana etikalla, laakerinlehdillä, savupaprikalla, suolalla, pippurilla ja 2 rkl:lla valkosipulia. Anna marinoitua jääkaapissa yön yli.",
+      "Liota pavut myös yön yli.",
+      "Kuumenna öljy kattilassa keskilämmöllä ja lisää sipuli ja loput valkosipulista. Siirrä laakerinlehdet lihoista kattilaan. Kuullota sipulia, kunnes se tuoksuu.",
+      "Lisää marinoitu liha ja ruskista noin 10 minuuttia (5 minuuttia per puoli). Nosta liha pois.",
+      "Lisää tomaattipyree ja murskattuja liemikuutioita ja vatkaa tasaiseksi.",
+      "Palauta liha kattilaan ja lisää vesi. Peitä ja kuumenna kiehuvaksi.",
+      "Sekoita joukkoon hominy, kuumenna kiehuvaksi ja laske lämpö pieneksi. Peitä ja hauduta noin tunti. Varmista, että vettä on riittävästi, ja sekoita hominya noin 20 minuutin välein.",
+      "Nosta liha pois ja suikaloi se haarukalla. Tämä vaihe on valinnainen, mutta vapauttaa tilaa kattilassa.",
+      "Palauta liha kattilaan, sekoita ja lisää liotetut pavut, härkäpavut, maniokki ja kaali. Jos ainekset ovat liian tilaa vieviä, lisää ensin puolet kaalista ja loput noin 5 minuutin kuluttua. Anna kypsyä noin 50 minuuttia.",
+      "Lisää makkara ja anna kypsyä noin 20 minuuttia.",
+      "Sekoita, maista ja säädä maustetta. Anna hautua vielä 10–15 minuuttia.",
+      "Ota pois lämmöltä ja anna vetäytyä peitettynä 20 minuuttia.",
+      "Tarjoa haluamiesi lisukkeiden kanssa."
+    ],
+    "notes": [
+      "Pidä vedenkeitin kiehuvana lähettyvillä, jotta voit lisätä kuumaa vettä tarvittaessa. Älä käytä kylmää vettä.",
+      "Keltaisen hominyn tilalla voi käyttää valkoista."
+    ]
+  },
+  {
+    "id": "wikibooks-caesar-salad",
+    "title": "Caesar-salaatti",
+    "description": "Perinteinen amerikkalaisravintoloiden salaatti, joka usein valmistetaan pöydän ääressä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "amerikkalainen", "salaatti", "nopea"],
+    "ingredients": [
+      "1 romainesalaatti, karkeasti pilkottuna",
+      "½ dl ekstra-neitsytoliiviöljyä, jaettuna",
+      "reilu ripaus merisuolaa",
+      "mustapippuria",
+      "hieman punaviinietikkaa",
+      "3 roiskausta worcestershirekastiketta",
+      "2 pehmeäksi keitettyä kananmunaa",
+      "valkosipulikrutonkeja"
+    ],
+    "instructions": [
+      "Valuta salaatin päälle 2 rkl oliiviöljyä. Kääntele.",
+      "Lisää suola ja pippuri. Kääntele.",
+      "Lisää etikka ja kääntele.",
+      "Valuta päälle worcestershirekastike. Kääntele.",
+      "Riko munat salaatin päälle. Kääntele.",
+      "Lisää päälle krutongit ja tarjoa."
+    ],
+    "notes": ["Salaatin pilkkominen ei tummenna reunoja romainesalaatilla; hennompia lehtiä, kuten radicchiota, kannattaa repiä."]
+  },
+  {
+    "id": "wikibooks-caf-au-lait",
+    "title": "Café au lait",
+    "description": "Kahvin ja kuumennetun maidon suhteessa 1:1 valmistettu juoma, Ranskan Louisianan perusjuoma.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Juomat",
+    "tags": ["kasvis", "kahvi", "juoma", "nopea"],
+    "ingredients": [
+      "1 l keitettyä kahvia tai 3,5–4,5 dl kylmää kahvitiivistettä",
+      "1 l maitoa"
+    ],
+    "instructions": [
+      "Jos käytät kahvitiivistettä, lisää kuumaa vettä, kunnes saat 1 litran kahvia.",
+      "Kuumenna samaan aikaan maito miedolla tai keskilämmöllä kuumaksi.",
+      "Kaada yhtä paljon kahvia ja kuumaa maitoa kulhoihin tai kuppeihin."
+    ],
+    "notes": ["Kuumennetun maidon tilalla voi käyttää höyrytettyä maitoa."]
+  },
+  {
+    "id": "wikibooks-cajun-burger",
+    "title": "Cajun-hampurilainen",
+    "description": "Cajun-mausteinen hampurilainen mausteisella majoneesilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "amerikkalainen", "grilli", "nopea"],
+    "ingredients": [
+      "1,2 dl majoneesia",
+      "cajun-mausteseosta (1 rkl majoneesiin + pinnalle)",
+      "450 g naudan jauhelihaa",
+      "4 viipaletta pippurijuustoa (pepper jack)",
+      "4 hampurilaissämpylää, halkaistuina"
+    ],
+    "instructions": [
+      "Sekoita majoneesi ja 1 rkl cajun-mausteseosta. Laita jääkaappiin odottamaan.",
+      "Muotoile liha neljäksi yhtä suureksi noin 1,25 cm paksuksi pihviksi. Ripottele reilusti mausteseosta molemmille puolille.",
+      "Kuumenna grilli. Grillaa pihvejä usein kääntäen halutun kypsyyteen (sisälämpö 74 °C).",
+      "Levitä majoneesi sämpylöihin ja aseta pihvit väliin."
+    ]
+  },
+  {
+    "id": "wikibooks-cajun-red-beans-and-rice",
+    "title": "Cajun-punaiset pavut ja riisi",
+    "description": "Louisianalainen klassikko: kinkunnilkoissa haudutetut punaiset pavut riisin kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "cajun", "amerikkalainen"],
+    "ingredients": [
+      "450 g kuivattuja punaisia kidneypapuja",
+      "6 isoa kinkunnilkkaa (yhteensä 1,5–2 kg)",
+      "5 dl hienonnettua selleriä",
+      "5 dl hienonnettua sipulia (1 sipuli)",
+      "5 dl hienonnettua paprikaa (1 paprika)",
+      "5 laakerinlehteä",
+      "3 rkl cajun-mausteseosta (esim. Seafood Magic)",
+      "1 rkl tabascoa tai muuta tulista kastiketta",
+      "10 dl keitettyä riisiä",
+      "n. 2,4 l vettä"
+    ],
+    "instructions": [
+      "Peitä pavut vedellä ja liota yön yli. Valuta.",
+      "Laita kinkunnilkat, selleri, sipuli, paprika, laakerinlehdet ja mausteet isoon kattilaan 2,4 litran kanssa vettä. Peitä ja kuumenna kiehuvaksi.",
+      "Hauduta, kunnes liha on haarukalla pehmeää, noin tunti kiehumisen alkamisesta. Sekoita välillä.",
+      "Nosta kinkunnilkat sivuun. Kuori rasva liemen pinnalta ja heitä pois.",
+      "Poista suurin osa liemestä, lisää valutetut pavut ja palauta vain sen verran liemeä, että se peittää pavut. Hauduta, kunnes pavut alkavat hajota ja liemi muuttuu kermaiseksi, noin 45 minuuttia. Sekoita usein ja lisää nestettä tarvittaessa. Jos pavut alkavat palaa pohjaan, älä sekoita: siirrä seos toiseen kattilaan raaputtamatta palanutta mukaan.",
+      "Lisää kinkunnilkat ja kypsennä vielä 45 minuuttia. Tarjoa heti.",
+      "Kasaa lämmitetylle vadille yhteen päähän noin 1¾ dl riisiä annosta kohden, toiseen päähän kinkunnilkat ja keskelle noin 2,4 dl papuja annosta kohden."
+    ]
+  },
+  {
+    "id": "wikibooks-cake-brownies",
+    "title": "Kakkubrowniet",
+    "description": "Kuohkeat, lähes kakkumaiset browniet, jotka ovat kevyempiä kuin valmisseoksista tehdyt.",
+    "servings": 20,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "uuniruoka"],
+    "ingredients": [
+      "2 kananmunaa",
+      "2,4 dl sokeria",
+      "120 g sulatettua voita",
+      "4 rkl kaakaojauhetta",
+      "1,8 dl vehnäjauhoja",
+      "½ tl suolaa",
+      "½ tl leivinjauhetta",
+      "1 tl vaniljasokeria",
+      "1,2 dl hienonnettuja saksanpähkinöitä tai muita pähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele neliönmuotoinen vuoka (23 × 23 cm).",
+      "Vatkaa munat vaahdoksi keskikokoisessa kulhossa.",
+      "Lisää sokeri, sulatettu voi ja kaakao. Sekoita hyvin.",
+      "Lisää jauhot, suola, leivinjauhe, vanilja ja pähkinät. Sekoita hyvin joustavalla lastalla.",
+      "Kaada vuokaan. Paista 175 asteessa 20 minuuttia.",
+      "Jäähdytä."
+    ]
+  },
+  { "id": "wikibooks-calabash-noodle-soup-hulu-mian", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-calamansi-juice-drink",
+    "title": "Kalamansimehujuoma",
+    "description": "Filippiiniläinen sitruunamehun vastine, joka valmistetaan kalamansisitrushedelmistä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "filippiiniläinen", "juoma", "nopea"],
+    "ingredients": [
+      "3–4 kalamansia (tai limettiä)",
+      "2,5 dl kylmää vettä",
+      "½ rkl sokeria",
+      "jääpaloja (valinnainen)"
+    ],
+    "instructions": [
+      "Halkaise kalamansit terävällä veitsellä.",
+      "Purista mehu käsin.",
+      "Sekoita mehu kylmään veteen lasissa.",
+      "Sekoita joukkoon sokeri, kunnes se liukenee.",
+      "Lisää jääpalat."
+    ],
+    "notes": ["Juoman voi tarjoilla myös kuumana.", "Hyvä C-vitamiinin lähde."]
+  },
+  { "id": "wikibooks-caldo-de-peixe-cape-verdean-fish-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-california-curry-chicken",
+    "title": "Kalifornialainen currykana",
+    "description": "Kana-perunacurry, joka jäljittelee Kalifornian intialaisravintoloiden makuja.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "peruna", "curry", "amerikkalainen"],
+    "ingredients": [
+      "4 rkl rypsiöljyä",
+      "2,4 dl kuutioitua keltasipulia",
+      "2 tl hienonnettua valkosipulia",
+      "450 g broilerin rintafileetä tai luutonta koipilihaa, kuutioituna",
+      "6 pientä perunaa, kuorittuna, neljään osaan leikattuna ja kypsennettynä",
+      "4 rkl miedosti mausteista currya",
+      "1 rkl chilijauhetta",
+      "1 rkl paprikajauhetta",
+      "1 tl jauhettua juustokuminaa",
+      "1 tl valkosipulijauhetta",
+      "2 tl kardemummaa",
+      "1 tl kurkumaa",
+      "1 tl sinapinjauhetta",
+      "¼ tl jauhettua kanelia",
+      "1 laakerinlehti",
+      "Kastike:",
+      "1 tlk (400 ml) kookosmaitoa",
+      "7 dl vettä",
+      "2,4 dl jogurttia",
+      "1 tlk (340 g) tomaattipaloja nesteineen",
+      "4 rkl voita",
+      "½–1 dl perunamuusijauhetta (hiutaleita)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa.",
+      "Lisää sipuli ja valkosipuli ja paista noin minuutti.",
+      "Lisää kana ja paista sekoitellen noin 5 minuuttia.",
+      "Lisää kypsennetyt perunat.",
+      "Lisää kaikki mausteet ja sekoita, jotta ne peittävät kanan ja perunat. Kypsennä vielä noin 5 minuuttia.",
+      "Lisää kastikkeen ainekset, sekoita hyvin, kuumenna hiljalleen kiehuvaksi ja keitä 10 minuuttia.",
+      "Lisää ½ dl perunamuusijauhetta ja sekoita, kunnes curry sakenee. Jos haluat paksumman currya, lisää jauhetta ruokalusikka kerrallaan.",
+      "Mausta suolalla ja pippurilla."
+    ],
+    "notes": ["Tarjoa höyrytetyn riisin kanssa."]
+  },
+  {
+    "id": "wikibooks-california-fusion-peach-salsa",
+    "title": "Persikkasalsa",
+    "description": "Makea ja tulinen persikkasalsa aasialaisilla mausteilla.",
+    "servings": 6,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "salsa", "nopea"],
+    "ingredients": [
+      "2 tlk (à 850 g) persikoita, valutettuina ja pilkottuina",
+      "2 kevätsipulia, ohuiksi viipaloituna varsineen",
+      "2 rkl limettimehua",
+      "2 tl hienonnettua tuoretta korianteria",
+      "2 tl valkosipulichilikastiketta",
+      "½ tl viiden mausteen jauhetta",
+      "¼ tl valkopippuria"
+    ],
+    "instructions": [
+      "Sekoita kulhossa valutetut persikat, kevätsipuli, korianteri, chilikastike, limettimehu, viiden mausteen jauhe ja valkopippuri.",
+      "Sekoita hyvin.",
+      "Jäähdytä ennen tarjoilua.",
+      "Tarjoa salsana tortillalastujen kanssa tai lihan koristeena."
+    ],
+    "notes": ["Kalifornialaiseen tapaan voit käyttää tuoreita persikoita."]
+  },
+  {
+    "id": "wikibooks-callaloo-caribbean-stewed-greens",
+    "title": "Callaloo – karibialainen lehtikeitto",
+    "description": "Tarokasvin lehdistä, okrasta ja kookosmaidosta keitetty muhennos, joka tarjotaan keittona tai riisin kanssa.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "karibialainen", "keitto"],
+    "ingredients": [
+      "12 tarolehteä (dasheen / callaloo)",
+      "115 g suolattua naudanlihaa tai suolaporsaanlihaa (valinnainen)",
+      "8 okraa",
+      "4 ruohosipulin vartta",
+      "2 oksaa timjamia",
+      "1,2 dl hienonnettua sipulia",
+      "1 tl hienonnettua valkosipulia",
+      "2 rapua, puhdistettuina ja paloiteltuina",
+      "4,8 dl kookosmaitoa",
+      "4,8 dl kuumaa vettä",
+      "1 tl voita",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Poista tarolehdistä varret ja keskiruodit.",
+      "Pese ja pilko lehdet ja pehmeät varret, loput heitetään pois.",
+      "Liota suolaliha ja leikkaa se suupaloiksi.",
+      "Pilko okra, ruohosipuli ja timjami pieniksi paloiksi.",
+      "Laita isoon kattilaan tarolehdet, suolaliha, okra, ruohosipuli, timjami, sipuli, valkosipuli, rapu, kookosmaito ja vesi.",
+      "Kuumenna kiehuvaksi, laske lämpö, peitä ja hauduta 30 minuuttia tai kauemmin, kunnes kaikki on pehmeää ja kypsää.",
+      "Vispaa tai soseuta sauvasekoittimella tai vispilällä.",
+      "Lisää voi ja sekoita hyvin.",
+      "Mausta suolalla ja pippurilla."
+    ],
+    "notes": [
+      "Suolalihan tilalle voi laittaa noin 225 g maustettuja kananjalkoja.",
+      "Kattilaan voi lisätä kiehumisen ajaksi kokonaisen chilin. Poista se ennen tarjoilua rikkomatta sitä."
+    ]
+  },
+  {
+    "id": "wikibooks-calzone",
+    "title": "Calzone",
+    "description": "Italialainen täytetty pizzataikinatasku, jonka nimi tarkoittaa sukkaa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "juusto", "uuniruoka"],
+    "ingredients": [
+      "2,4 dl ricottaa",
+      "2,4 dl raastettua mozzarellaa",
+      "115 g kinkkua, pekonia, salamia, pepperonia tai makkaraa (valinnainen)",
+      "2 tl oreganoa",
+      "1 pkt valmista pizzataikinaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Sekoita ricotta, mozzarella, lihatäyte ja oregano.",
+      "Kaulitse pizzataikina kahden leivinpaperin välissä.",
+      "Levitä juustoseos taikinan keskelle.",
+      "Kostuta taikinan reunat hieman. Taita taikina kaksinkerroin ja sulje reunat painamalla haarukalla.",
+      "Paista kullanruskeaksi, noin 10–12 minuuttia.",
+      "Tarjoa marinarakastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-cameroon-koki-corn",
+    "title": "Kamerunilainen koki-maissi",
+    "description": "Tuoreesta maissista ja palmuöljystä valmistettu, banaaninlehdissä höyrytetty kamerunilainen keltainen maissivuoka.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["afrikkalainen", "maissi", "höyrytetty"],
+    "ingredients": [
+      "¾–1 dl palmuöljyä",
+      "1 l tuoretta maissia (jyviä)",
+      "½ sipulia",
+      "2,4 dl keltaista maissijauhoa",
+      "1 tl suolaa",
+      "1 liemikuutio",
+      "5 banaaninlehteä",
+      "1 chili (valinnainen)"
+    ],
+    "instructions": [
+      "Lämmitä palmuöljyä paistinpannulla 2–3 minuuttia haalistamatta sitä.",
+      "Laita maissi, sipuli ja chili tehosekoittimeen. Lisää ½ dl vettä ja soseuta karkeaksi massaksi. Älä soseuta liian hienoksi: maissin palasten pitää olla vielä näkyvissä.",
+      "Siirrä seos kulhoon ja lisää maissijauho. Kaada kuumennettu öljy joukkoon ja sekoita hyvin. Lisää suola ja liemikuutio ja sekoita edelleen.",
+      "Lisää seokseen pilkotut banaaninlehdet, jos käytät niitä myös seoksessa, ja sekoita.",
+      "Vuoraa kattilan pohja kuoritulla maissintähkillä. Se muodostaa korotetun pohjan, joka estää veden pääsyn koki-maissiin. Kaada kattilaan noin 1,2 dl vettä ja kuumenna hiljalleen kiehuvaksi samalla kun käärit koki-maissin.",
+      "Kääri maissiseos banaaninlehtiin pieniksi nyytteiksi. Laita ne kattilaan ja peitä revityillä tai käyttämättömillä banaaninlehdillä (tai alumiinifoliolla), jotta höyry pysyy sisällä.",
+      "Laita kansi kattilaan ja höyrytä noin 30 minuuttia. Avaa kattila 5–10 minuutin välein ja lisää 1,2 dl vettä, ettei se kuivu.",
+      "Anna levätä noin 10 minuuttia. Avaa nyytit ja tarjoa lämpimänä."
+    ]
+  }
+]

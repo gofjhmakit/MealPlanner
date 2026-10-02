@@ -1,0 +1,590 @@
+[
+  { "id": "wikibooks-palm-oil-stew-with-meat-and-fish", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-pan-de-jamn",
+    "title": "Pan de jamón – venezuelalainen kinkkuleipä",
+    "description": "Venezuelalainen joulun aikaan leivottu voinen, hieman makea kääretorttu, jonka sisällä on kinkkua, rusinoita ja täytettyjä oliiveja.",
+    "servings": 12,
+    "totalTimeMin": 210,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["liha", "venezuelalainen", "joulu", "leipä"],
+    "ingredients": [
+      "½ dl haaleaa vettä",
+      "1 tl (4 g) kuivahiivaa",
+      "6 tl fariinisokeria",
+      "5 rkl voita, sulatettuna",
+      "2 munaa",
+      "4,8 dl vehnäjauhoja ja lisää taikinan käsittelyyn",
+      "220 g ohuiksi viipaloitua kypsää kinkkua",
+      "2 tl oliiviöljyä",
+      "½ dl maitoa",
+      "½ tl suolaa",
+      "½ dl rusinoita",
+      "½ dl paprikatäytteisiä oliiveja"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa 1 tl fariinisokeria veteen ja ripottele hiiva päälle. Anna seistä 5–8 minuuttia, kunnes hiiva vaahtoaa.",
+      "Hienonna rusinat ja oliivit karkeasti tai pulssaa monitoimikoneessa. Valuta oliivit hyvin ensin. Laita pieneen kulhoon sivuun.",
+      "Kun hiiva vaahtoaa, lisää 2,4 dl jauhoja, 1 muna ja 4 rkl voita. Sekoita huolellisesti haarukalla tai taikinakoukuilla.",
+      "Lisää loput jauhot, maito, 4 tl fariinisokeria, oliiviöljy ja suola. Sekoita tasaiseksi. Vaivaa käsin tai taikinakoukuilla 5–6 minuuttia. Taikinan tulee olla sileää ja hieman tahmeaa.",
+      "Nosta taikina öljyttyyn kulhoon ja suihkuta pinta kevyesti öljyllä. Anna kohota lämpimässä noin 90 minuuttia.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle ja kauli noin 30 cm:n neliöksi. Sivele loppu voi pinnalle.",
+      "Aseta kinkkuviipaleet taikinan päälle jättäen noin 2,5 cm:n kaistale toiselle sivulle paljaaksi. Tämä on rullan ulkoreuna.",
+      "Levitä rusina-oliiviseos tasaisesti kinkun päälle.",
+      "Rullaa taikina tiukaksi rullaksi aloittaen sisäreunalta. Rullalle tulee 3–4 kierrosta.",
+      "Kostuta paljas taikinakaistale ja rullaa leipä niin, että reuna on suoraan alla. Se liimautuu kiinni. Nipistä ja kierrä päät kosteilla sormilla kiinni.",
+      "Nosta leipä leivinpaperin päälle isolle pellille.",
+      "Vatkaa jäljellä oleva muna ja loput 1 tl fariinisokeria. Sivele leivän pinta tasaisesti ja pyyhi pois mahdolliset lammikot.",
+      "Anna kohota lämpimässä vielä noin 40 minuuttia.",
+      "Kuumenna uuni 175 asteeseen. Paista leipää 30–40 minuuttia.",
+      "Jäähdytä ritilällä.",
+      "Leikkaa sormenpaksuisiksi viipaleiksi."
+    ]
+  },
+  { "id": "wikibooks-pan-fried-beef-steak", "skip": "liian puutteellinen (lihan ja maustemäärät puuttuvat)" },
+  {
+    "id": "wikibooks-pan-fried-ravioli",
+    "title": "Paistetut ravioli",
+    "description": "Pakasteravioleista tehdyt rapeat paneroidut ja friteeratut raviolit marinarakastikkeella.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Välipalat",
+    "tags": ["pasta", "italialainen", "friteerattu", "alkupala"],
+    "ingredients": [
+      "2 rkl täysmaitoa",
+      "1 muna",
+      "1,8 dl maustettuja korppujauhoja (italialaisia)",
+      "½ tl suolaa (valinnainen)",
+      "350 g pakasteraviolia, sulatettuna",
+      "7 dl rypsiöljyä friteeraukseen",
+      "1 rkl raastettua parmesaania",
+      "1 purkki (450 g) marinarakastiketta"
+    ],
+    "instructions": [
+      "Sekoita maito ja muna pienessä kulhossa.",
+      "Laita korppujauhot ja suola matalaan kulhoon.",
+      "Kasta raviolit maitoseokseen ja pyöritä korppujauhoissa.",
+      "Kuumenna marinarakastike isossa kattilassa keskilämmöllä kuplivaksi, 5–10 minuuttia. Laske lämpö miedoksi.",
+      "Kaada paksupohjaiseen kattilaan öljyä 5 cm:n syvyydelle ja kuumenna keskilämmöllä 190 asteeseen.",
+      "Paista raviolit kuumassa öljyssä muutama kerrallaan noin minuutti per puoli kullanruskeiksi.",
+      "Valuta talouspaperilla.",
+      "Ripottele päälle parmesaania ja tarjoa heti kuuman marinarakastikkeen kanssa."
+    ],
+    "notes": ["Voi käyttää juusto- tai liharavioleja; perinteinen on neliönmuotoinen liharavioli."]
+  },
+  {
+    "id": "wikibooks-pan-fried-shanghai-noodles",
+    "title": "Paistetut Shanghai-nuudelit",
+    "description": "Vegaaniset paksut Shanghai-nuudelit paistettuna shiitakesienten ja pak choin kanssa soijalla maustaen.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "nuudeli", "kiinalainen", "nopea"],
+    "ingredients": [
+      "450 g Shanghai-nuudeleita (paksuja)",
+      "3 rkl seesamiöljyä",
+      "10 shiitake-sientä, viipaloituna",
+      "170 g pak choita, puhdistettuna ja neljäsosiksi leikattuna",
+      "2 rkl tummaa soijakastiketta",
+      "1 rkl kookos-aminoja tai soijakastiketta"
+    ],
+    "instructions": [
+      "Kuumenna kattilassa noin 2 litraa vettä kiehuvaksi. Lisää nuudelit ja keitä noin 3 minuuttia. Nuudelien ulkopinnan tulee olla pehmeä mutta sisus vielä hieman napakka.",
+      "Valuta nuudelit ja huuhdo kylmällä vedellä. Sekoita joukkoon muutama tippa öljyä, ettei nuudelit tartu yhteen.",
+      "Kuumenna seesamiöljy isossa pinnoitetussa pannussa, wokissa tai valurautapannussa kovalla lämmöllä. Lisää sienet ja pak choi. Paista, kunnes pak choi alkaa lakastua, noin 2 minuuttia.",
+      "Laske lämpö keskilämmölle. Lisää keitetyt nuudelit, tumma soijakastike ja kookos-aminot. Paista sekoittaen, kunnes nuudelit ruskistuvat tasaisesti.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-pan-fried-white-brined-cheese-saganaki",
+    "title": "Saganaki – paistettu kreikkalainen juusto",
+    "description": "Kuumalla pannulla oliiviöljyssä paistettu suolalakeinen valkoinen juusto sitruunalla.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "kreikkalainen", "juusto", "nopea"],
+    "ingredients": [
+      "1 iso viipale suolalakeista valkoista juustoa (esim. feta)",
+      "1 rkl oliiviöljyä (ei extra virgin)",
+      "1 iso sitruunalohko",
+      "hieman vehnäjauhoja (valinnainen)",
+      "pitaleipää tai muuta leipää (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna pieni paistinpannu keskikorkealla lämmöllä.",
+      "Leikkaa juusto haluamasi kokoisiksi viipaleiksi. Paksut viipaleet sulavat hitaammin ja voivat palaa, ohuet eivät ehdi ruskistua.",
+      "Pyörittele viipaleet halutessasi jauhoissa, jolloin pinta on tummempi ja rapeampi ja roiskuu vähemmän.",
+      "Lisää öljy kuumalle pannulle ja kierrä sitä. Kun öljy kimmeltää ja muuttuu juoksevammaksi, lisää juusto ja astu taaksepäin, sillä lake roiskuu.",
+      "Käännä juusto minuutin tai kahden kuluttua. ¾ cm:n viipale tarvitsee 1–2 minuuttia per puoli.",
+      "Tarjoa heti sitruunan ja halutessasi leivän kanssa."
+    ],
+    "notes": ["Parasta on fetaa, kefalograviera-, kasseri- tai kefalotyrijuustoa."]
+  },
+  {
+    "id": "wikibooks-pan-seared-chicken-breast",
+    "title": "Pannulla ruskistettu broilerin rintafile valkosipuliöljyllä",
+    "description": "Hitaasti valkosipulilla maustetussa öljyssä ruskistettu ja uunissa kypsennetty broilerin rintafile.",
+    "servings": 2,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka"],
+    "ingredients": [
+      "2 broilerin rintafileetä",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "½ dl oliiviöljyä",
+      "6–8 valkosipulinkynttä, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa hyvin miedolla lämmöllä. Lisää valkosipuli ja kypsennä 45 minuuttia.",
+      "Siivilöi ja ota öljy talteen. Hävitä valkosipuli.",
+      "Sivele broilerin molemmille puolille valkosipuliöljyä. Mausta runsaasti suolalla ja vastajauhetulla pippurilla. Aseta sivuun.",
+      "Voitele 25 cm:n valurautapannu valkosipuliöljyllä. Kuumenna kovalla lämmöllä ja lisää broileri. Paista, kunnes se on molemmin puolin ruskea ja hieman kärähtänyt.",
+      "Työnnä lihamittari yhteen rintafileeseen. Nosta pannu 190-asteisen uunin keskitasolle ja kypsennä, kunnes sisälämpö on 74 °C.",
+      "Nosta lautaselle ja peitä foliolla. Anna levätä 7 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-pan-seared-duck-breast-with-cabernet-reduction",
+    "title": "Pannulla paistettu ankanrinta ja punaviinireduktio",
+    "description": "Ranskalaisten bistrojen klassikko: rapeaksi paistettu ankanrinta ja kiehuvaksi keitetty punaviinikastike.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "ankka", "ranskalainen", "juhla"],
+    "ingredients": [
+      "2 ankanrintaa, luuttomia",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "2,4 dl Cabernet Sauvignon -punaviiniä",
+      "1 salottisipuli, hyvin hienonnettuna",
+      "1 rkl hienonnettua valkosipulia"
+    ],
+    "instructions": [
+      "Viillä ankan nahkaan ruudukko ja mausta runsaasti suolalla ja pippurilla. Aseta sivuun.",
+      "Kuumenna 30 cm:n valurautapannu keskikorkealla lämmöllä. Lisää ankanrinnat nahkapuoli alaspäin ja paista 10 minuuttia. Käännä ja paista 3 minuuttia.",
+      "Siirrä pannu 200-asteiseen uuniin ja kypsennä 12 minuuttia. Nosta ankka pannulta ja pidä lämpimänä.",
+      "Kaada ylimääräinen rasva pois. Laita 1 rkl takaisin pannuun ja lisää salottisipuli ja valkosipuli. Kuullota keskikorkealla, kunnes valkosipuli on kullanruskeaa.",
+      "Kaada viini pannuun ja keitä keskikorkealla lämmöllä puoleen.",
+      "Valuta kastike ankan päälle ja tarjoa lämpimänä."
+    ],
+    "notes": ["Ota ankan rasva talteen: sillä paistetut kananmunat ovat erinomaisia."]
+  },
+  {
+    "id": "wikibooks-pan-seared-filet-mignon",
+    "title": "Pannulla ruskistettu sisäfilepihvi mausteseoksella",
+    "description": "Murea sisäfilepihvi mausteseoksessa, ruskistettuna valurautapannulla ja viimeisteltynä konjakkikastikkeella.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "pihvi", "juhla"],
+    "ingredients": [
+      "4 sisäfilepihviä (yht. 700–900 g), 4 cm paksuja",
+      "½ tl suolaa",
+      "1 tl vastajauhettua mustapippuria",
+      "1 rkl savupaprikajauhetta",
+      "1 rkl cayennepippuria",
+      "dijonsinappia",
+      "2 tl kuivattua rosmariinia",
+      "1 rkl kuivattua timjamia",
+      "1 rkl oliiviöljyä",
+      "2,4 dl konjakkia"
+    ],
+    "instructions": [
+      "Kuumenna 25 cm:n valurautapannu kovalla lämmöllä 7–10 minuuttia.",
+      "Sivele sillä välin pihvit dijonsinapilla. Sekoita mausteet ja paina lihan pintaan. Sivele öljyllä.",
+      "Laita pihvit pannulle ja paista 2 minuuttia per puoli. Työnnä lihamittari yhteen pihviin.",
+      "Siirrä pannu 190-asteiseen uuniin ja kypsennä, kunnes sisälämpö on 60 °C.",
+      "Nosta pihvit pannulta ja pidä lämpiminä.",
+      "Kuumenna pannu kovalla lämmöllä 4 minuuttia. Sammuta lämpö ja lisää konjakki varovasti. Varo roiskeita ja liekkejä.",
+      "Palauta pannu kovalle lämmölle ja keitä puoleen.",
+      "Valuta kastike pihvien päälle ja tarjoa lämpimänä."
+    ]
+  },
+  { "id": "wikibooks-pan-seared-pork-chops", "skip": "liian puutteellinen (mausteseoksen ohje puuttuu)" },
+  {
+    "id": "wikibooks-pan-seared-scallops-with-cayenne-chocolate-sauce",
+    "title": "Pannulla paistetut kampasimpukat cayenne-suklaakastikkeella",
+    "description": "Nopeasti voissa paistetut kampasimpukat ja tulinen suklaakastike.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "nopea", "juhla"],
+    "ingredients": [
+      "450 g kampasimpukoita",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl voita",
+      "55 g tummaa suklaata, sulatettuna",
+      "1 rkl cayennepippuria (säädä maun mukaan)",
+      "persiljaa koristeluun"
+    ],
+    "instructions": [
+      "Ripottele kampasimpukoille suolaa ja mustapippuria.",
+      "Sulata voi ison pannun keskilämmöllä. Lisää simpukat ja paista 30 sekuntia per puoli. Nosta vadille.",
+      "Vispaa sulatettu suklaa ja cayennepippuri yhteen. Valuta annoslautasille, nosta simpukat päälle, koristele persiljalla ja tarjoa."
+    ]
+  },
+  { "id": "wikibooks-panamanian-ropa-vieja", "skip": "liian puutteellinen (monien ainesten määrät puuttuvat)" },
+  {
+    "id": "wikibooks-pancakes-north-american",
+    "title": "Pannukakut (pohjoisamerikkalaiset)",
+    "description": "Paksut, kuohkeat pannulla paistetut pannukakut vehnäjauhoista, maidosta ja kuohkeaksi vatkatusta munanvalkuaisesta.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakku", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "2 dl (120 g) vehnäjauhoja",
+      "1½ tl leivinjauhetta",
+      "1 ripaus suolaa",
+      "2,5 dl maitoa (tai piimää)",
+      "1 muna, valkuainen ja keltuainen erotettuna",
+      "1 rkl sokeria (valinnainen)",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset isossa kulhossa tasaisiksi.",
+      "Lisää maito ja sekoita tasaiseksi.",
+      "Erota muna: valkuainen keskikokoiseen kulhoon ja keltuainen taikinaan. Sekoita taikina hyvin.",
+      "Vaahdota valkuainen kiinteäksi vaahdoksi ja sekoita se varovasti taikinaan (jätä väliin, jos haluat raskaamman pannukakun tai käytät piimää).",
+      "Kaada taikinaa pinnoitetulle pannulle kauhallinen kerrallaan.",
+      "Paista, kunnes reunat ovat kuivat ja pintaan nousee kuplia. Käännä ja paista kullanruskeiksi."
+    ],
+    "notes": ["Tarjoa voin, vaahterasiirapin, hedelmien, suklaalevitteen tai hillon kanssa."]
+  },
+  {
+    "id": "wikibooks-pancakes-vegan",
+    "title": "Vegaaniset pannukakut",
+    "description": "Maidottomat ja munattomat pannukakut soijajuomalla.",
+    "servings": 5,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kasvis", "pannukakku", "nopea"],
+    "ingredients": [
+      "2,4 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "2 tl sokeria",
+      "1 tl suolaa",
+      "2,4 dl soijajuomaa",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset: jauhot, leivinjauhe, sokeri ja suola.",
+      "Sekoita soijajuoma kuivien aineiden joukkoon.",
+      "Kuumenna paistolevy tai pannu, kunnes vesipisara haihtuu heti. Levitä ohut kerros öljyä.",
+      "Kaada taikinaa 10–13 cm:n lätyiksi. Pintaan alkaa nousta kuplia.",
+      "Kun alapuoli on vaaleanruskea, käännä.",
+      "Kun toinen puoli on vaaleanruskea, tarjoa."
+    ],
+    "notes": [
+      "Älä sekoita liikaa, jotta pannukakut eivät muutu kumisiksi.",
+      "Banaani: lisää taikinaan hyvin muussattu banaani. Suklaa: lisää 1 dl suklaahippuja. Saksanpähkinä: lisää 1 dl hienonnettuja saksanpähkinöitä."
+    ]
+  },
+  {
+    "id": "wikibooks-pancakes-with-honey",
+    "title": "Hunajapannukakut",
+    "description": "Kevyet ja kuohkeat hieman makeat pannukakut, joiden päälle valutetaan hunajaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakku", "hunaja"],
+    "ingredients": [
+      "4,8 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "¼ tl suolaa",
+      "2 rkl sokeria",
+      "4,8 dl maitoa",
+      "2 munaa",
+      "2 rkl voita, sulatettuna",
+      "hunajaa valutettavaksi",
+      "paahdettuja seesaminsiemeniä koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Vispaa jauhot, leivinjauhe, suola ja sokeri kulhossa.",
+      "Vispaa toisessa kulhossa maito, munat ja voisula.",
+      "Kaada märät ainekset vähitellen kuiviin ja vispaa tasaiseksi.",
+      "Kuumenna pinnoitettu pannu tai paistolevy keskilämmöllä ja voitele kevyesti voilla.",
+      "Kaada pannulle ½ dl taikinaa kutakin pannukakkua kohti. Paista, kunnes pintaan nousee kuplia, käännä ja paista vielä 1–2 minuuttia kullanruskeaksi.",
+      "Toista loppujen kanssa ja lisää tarvittaessa voita.",
+      "Kasaa pannukakut lautaselle ja valuta runsaasti hunajaa päälle.",
+      "Koristele halutessasi seesaminsiemenillä."
+    ],
+    "notes": ["Pidä pannukakut lämpiminä pellillä 95-asteisessa uunissa."]
+  },
+  {
+    "id": "wikibooks-pancetta-fusilli-with-herb-shallot-cream",
+    "title": "Pancetta-fusilli yrtti-salottisipulikermalla",
+    "description": "Pasta, jonka kastikkeessa on karamellisoituja salottisipuleita, pancettaa, tuoreita yrttejä ja parmesaania.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "italialainen"],
+    "ingredients": [
+      "250 g pancettaa",
+      "1 rkl voita",
+      "1 tl hienonnettua valkosipulia",
+      "450 g salottisipulia (12–15 kpl)",
+      "½ tl sokeria",
+      "suolaa",
+      "mustapippuria",
+      "3,6 dl kanalientä",
+      "½ dl kuohukermaa",
+      "2,4 dl tiiviisti pakattuja yrttejä (rosmariinia, salviaa, timjamia, meiramia, persiljaa, basilikaa)",
+      "500 g fusilli-pastaa",
+      "1 tl oliiviöljyä",
+      "3,6 dl raastettua parmigiano reggianoa"
+    ],
+    "instructions": [
+      "Laita pancetta isoon paistinpannuun ja paista miedolla lämmöllä silloin tällöin sekoittaen rapeaksi (noin 15 minuuttia). Nosta reikälusikalla talouspaperille. Kaada rasvasta pois kaikki paitsi 1 rkl.",
+      "Lisää pannun rasvaan voi. Lisää valkosipuli, salottisipulit ja sokeri ja mausta kevyesti suolalla ja pippurilla. Laske lämpö pienimmälle ja kypsennä kannen alla, kunnes sipulit ovat pehmeitä ja läpikuultavia, noin 15 minuuttia. Ota kansi pois, nosta lämpö keskikorkeaksi ja paista jatkuvasti sekoittaen, kunnes sipulit ovat syvän kullanruskeita, noin 10 minuuttia. Älä anna palaa.",
+      "Lisää liemi ja hauduta kolmannekseen pienemmäksi, irrottaen pannun pohjalle kiinnittyneet palat (noin 7 minuuttia). Kastikkeen voi valmistaa tähän asti useita tunteja etukäteen ja säilyttää peitettynä jääkaapissa.",
+      "Kuumenna pastalle iso kattila vettä kiehuvaksi. Lämmitä salottisipuliseos uudelleen, jos se tehtiin etukäteen. Lisää kerma sipuleiden joukkoon ja hauduta kovalla lämmöllä 2 minuuttia, kunnes kastike sakenee hieman. Pidä lämpimänä. Hienonna yrtit karkeasti pois lukien pieni kourallinen.",
+      "Keitä pasta pakkauksen ohjeen mukaan. Valuta ja palauta kattilaan. Lisää hienonnetut yrtit kastikkeeseen ja kypsennä vielä minuutti. Mausta suolalla ja pippurilla.",
+      "Lisää pasta kastikkeeseen ja sekoita miedolla lämmöllä minuutti. Kun pasta ja kastike kuumenevat, paista loput yrtit ½ tl:ssa oliiviöljyä rapeiksi koristeeksi. Sekoita joukkoon pancetta ja 1,2 dl juustoa.",
+      "Jaa pasta neljään kulhoon. Koristele paistetuilla yrteillä. Tarjoa loput juustosta erikseen."
+    ]
+  },
+  {
+    "id": "wikibooks-paneer-butter-masala",
+    "title": "Paneer butter masala",
+    "description": "Intialainen kasvisruoka, jossa paneerjuusto on kermaisessa jogurttipohjaisessa tomaattikastikkeessa.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "juusto"],
+    "ingredients": [
+      "gheetä tai öljyä paistamiseen",
+      "200 g paneeria",
+      "1 sipuli, kuutioituna",
+      "1 tl inkiväärahmetta",
+      "5 tl valkosipulitahnaa",
+      "1 paprika, kuutioituna",
+      "2 tomaattia, kuutioituna",
+      "1 tl gheetä",
+      "1 ripaus hingiä (asafoetida)",
+      "1 tl kardemummaa",
+      "1 tl kurkumaa",
+      "1 tl garam masalaa",
+      "1 tl chilijauhetta",
+      "1 tl juustokuminaa",
+      "1 tl sitruunamehua",
+      "500 g maustamatonta jogurttia"
+    ],
+    "instructions": [
+      "Paista paneeri gheessä tai öljyssä ja nosta kulhoon.",
+      "Kuullota sipuli öljyssä valkosipuli- ja inkiväärahmetahnan kanssa kullanruskeaksi.",
+      "Lisää paprika ja tomaatit.",
+      "Yhdistä toisessa pannussa ghee, hing, kardemumma, kurkuma, garam masala, chilijauhe, sitruunamehu ja juustokumina.",
+      "Paista 2 minuuttia ja lisää jogurtti.",
+      "Keitä keskilämmöllä viisi minuuttia.",
+      "Lisää sipulit, paprika, tomaatit ja paneeri.",
+      "Kypsennä miedolla lämmöllä 15 minuuttia silloin tällöin sekoittaen.",
+      "Tarjoa rotin tai naanin ja riisin kanssa."
+    ],
+    "notes": ["Paksumpaa kastiketta varten vähennä jogurttia ja lisää täysmaitoa ja lusikallinen maissitärkkelystä."]
+  },
+  {
+    "id": "wikibooks-panna-cotta-basic",
+    "title": "Panna cotta",
+    "description": "Perusohje italialaiselle kermavanukkaalle vaniljalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 270,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "italialainen", "kerma"],
+    "ingredients": [
+      "¾ tl liivatejauhetta",
+      "4,8 dl kuohukermaa",
+      "½ dl sokeria",
+      "1½ tl vaniljauutetta tai 1 pieni vaniljatanko",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Anna liivatteen turvota 1 rkl:ssa kermaa noin 5 minuuttia.",
+      "Yhdistä loput ainekset keskikokoisessa kattilassa keskilämmöllä ja sekoita silloin tällöin, kunnes sokeri liukenee ja reunoille nousee pieniä kuplia.",
+      "Ota pois liedeltä, lisää liivate ja sekoita täysin tasaiseksi.",
+      "Kaada kermaseos pieniin vuokiin ja anna hyytyä jääkaapissa vähintään 4 tuntia tai yön yli.",
+      "Tarjoa tuoreiden hedelmien, balsamicoetikan, portviinin tai makean kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-panna-cotta-with-red-fruit-sauce",
+    "title": "Panna cotta punaisella marjakastikkeella",
+    "description": "Italialainen kermavanukas, joka hyydytetään liivatteella ja tarjoillaan marjakastikkeen kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 180,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "italialainen", "kerma", "marjat"],
+    "ingredients": [
+      "15 g liivatejauhetta",
+      "5 dl kylmää vettä",
+      "5 dl kuohukermaa",
+      "200 g sokeria",
+      "5 dl maitoa",
+      "Marjakastike:",
+      "100 g marjoja (esim. mansikoita, vadelmia, mustikoita)",
+      "100 g sokeria"
+    ],
+    "instructions": [
+      "Sekoita liivate veteen ja anna turvota noin 5 minuuttia.",
+      "Laita maito, kerma, sokeri ja turvonnut liivate kattilaan. Kuumenna hiljaa kiehuvaksi (sekoita säännöllisesti, ettei pala pohjaan) ja ota pois liedeltä.",
+      "Kaada seos pienille annosmuoteille sopiviin vuokiin ja jäähdytä jääkaapissa 2–3 tuntia.",
+      "Soseuta sillä välin marjat sokerin kanssa marjakastikkeeksi.",
+      "Kumoa jälkiruoka tarjoiluvaiheessa lautaselle ja koristele marjakastikkeella."
+    ]
+  },
+  {
+    "id": "wikibooks-panocha-sprouted-wheat-pudding",
+    "title": "Panocha – itäneestä vehnästä tehty vanukas",
+    "description": "Karamellisoidusta sokerista, voista ja itäneen vehnän jauhoista hitaasti kypsytetty makea vanukas.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 180,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "amerikkalainen", "vanukas"],
+    "ingredients": [
+      "4,8 dl idätettyä vehnäjauhoa",
+      "3,6 dl vehnäjauhoja",
+      "3 ripausta suolaa",
+      "115 g voita",
+      "4,8 dl sokeria",
+      "7 dl kiehuvaa vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola.",
+      "Sulata voi keskikokoisessa kattilassa ja sekoita joukkoon sokeri. Anna karamellisoitua hiljalleen miedolla lämmöllä.",
+      "Vispaa varovasti joukkoon kiehuva vesi ja sitten jauhoseos. Sekoita, kunnes ei ole paakkuja.",
+      "Kypsennä miedolla lämmöllä 2–3 tuntia."
+    ]
+  },
+  { "id": "wikibooks-papadam-black-gram-flatbread", "skip": "epäjohdonmukaiset määrät (8 kuppia jauhoja ja ¼ kuppia vettä)" },
+  {
+    "id": "wikibooks-papaya-lassi",
+    "title": "Papaijalassi",
+    "description": "Jogurtti, papaija ja hunaja sekoitettuna kermaiseksi lassiksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "nopea", "juoma"],
+    "ingredients": [
+      "1,2 dl vettä",
+      "9,6 dl maustamatonta jogurttia",
+      "1,6 dl hunajaa",
+      "½ tl suolaa",
+      "2,4 dl papaijasosetta",
+      "½ tl jauhettua kanelia"
+    ],
+    "instructions": ["Laita kaikki ainekset tehosekoittimeen.", "Sekoita tasaiseksi."]
+  },
+  {
+    "id": "wikibooks-papri-chaat-crispy-indian-snack-with-potato",
+    "title": "Papri chaat – rapea intialainen välipala perunalla",
+    "description": "Rapeat friteeratut jauhokiekot, joiden päälle tulee perunaa, kikherneitä, tamarindichutneya ja jogurttia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["kasvis", "intialainen", "chaat", "friteerattu"],
+    "ingredients": [
+      "Papri:",
+      "4,8 dl vehnäjauhoja",
+      "2 tl ajwan-siemeniä",
+      "rypsiöljyä taikinaan ja friteeraukseen",
+      "suolaa",
+      "Täyte:",
+      "3 rkl tamarindichutneya",
+      "25 ml sitruunamehua",
+      "1 rkl sokeria (jos tamarindichutney on tulinen)",
+      "1 tl punaisia chilihiutaleita (tai maun mukaan)",
+      "juustokuminaa",
+      "chaat masalaa",
+      "1 sipuli, hienonnettuna",
+      "tomaatti, pilkottuna",
+      "keitettyä perunaa, kuutioituna",
+      "keitettyjä kikherneitä, valutettuina",
+      "mustapippuria",
+      "jogurttia, maidolla tai vedellä ohennettuna"
+    ],
+    "instructions": [
+      "Sekoita jauhot, ajwan, hieman öljyä, suola ja sen verran vettä, että taikinasta tulee kiinteä.",
+      "Vaivaa hyvin ja kauli ohuiksi, noin 4 cm:n kiekoiksi, mielellään ilman jauhoja. Pistele haarukalla.",
+      "Friteeraa kuumassa öljyssä keskilämmöllä kullanruskeiksi ja rapeiksi.",
+      "Jäähdytä ja säilytä ilmatiiviissä rasiassa tarvittaessa.",
+      "Sekoita tamarindichutney ja sitruunamehu kulhossa.",
+      "Sekoita joukkoon sokeri, chilihiutaleet, juustokumina ja chaat masala.",
+      "Sekoita joukkoon sipuli, tomaatti, peruna ja kikherneet. Mausta suolalla ja pippurilla.",
+      "Tarjoa asettamalla papri-kiekot päälle ohennettu jogurtti ja vähän lisää tamarindichutneya."
+    ],
+    "notes": ["Papri-kiekkojen tilalla voi käyttää suolaisia lastuja tai muuta rapeaa."]
+  },
+  {
+    "id": "wikibooks-paprika-chicken",
+    "title": "Paprikakana (paprikash)",
+    "description": "Unkarilaistyylinen kanapata paprikassa ja smetanassa. Tarjotaan pastan, riisin tai perunamuusin kanssa.",
+    "servings": 6,
+    "totalTimeMin": 65,
+    "category": "Pääruoat",
+    "tags": ["kana", "unkarilainen", "pata"],
+    "ingredients": [
+      "1 kokonainen broileri (1–1,5 kg)",
+      "2 sipulia, hienonnettuna",
+      "2–4 rkl makeaa (ei tulista) paprikajauhetta",
+      "5–7 rkl oliiviöljyä",
+      "2,4 dl kermaviiliä",
+      "½–1 dl kuohukermaa",
+      "suolaa",
+      "tuoretta persiljaa",
+      "6–7 mustapippurin jyvää",
+      "1 vihreä paprika (valinnainen)",
+      "½ punainen paprika (valinnainen)",
+      "1 porkkana, ohuesti viipaloituna (valinnainen)",
+      "1 sipuli, ohuesti viipaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Paloittele broileri kahdeksaan osaan.",
+      "Kuumenna öljy keskikokoisessa paistinpannussa. Kuullota sipulit 3–4 minuuttia keltaisiksi.",
+      "Lisää broileri, pippurinjyvät, suola ja paprikajauhe ja sekoita nopeasti. Paprikaa on paljon, mutta se on mietoa. Lisää heti vettä niin, että liha peittyy.",
+      "Hauduta miedolla lämmöllä. Lisää mahdolliset paprikat ja porkkana 10 minuutin kuluttua. Sekoita silloin tällöin, kunnes broileri on kypsää. Lisää tarvittaessa hyvin säästeliäästi vettä. Älä keitä kanaa – sen pitäisi lopulta olla melkein paistettua. Kypsyy noin 45–50 minuutissa. Viimeisten 15 minuutin aikana älä lisää vettä vaan anna nesteen haihtua lähes kokonaan. Jätä pohjalle noin puolen sormen paksuinen kerros kastiketta.",
+      "Lisää kermaviili ja kuohukerma kastikkeeseen ja sekoita. Lisää päälle hienonnettua persiljaa.",
+      "Tarjoa nyhtiäisten, riisin tai perunamuusin ja salaatin kanssa."
+    ],
+    "notes": ["Älä käytä tulista paprikaa, sillä se tekisi ruoasta liian tulisen.", "Jos haluat välttää kuohukerman, käytä enemmän kermaviiliä."]
+  },
+  {
+    "id": "wikibooks-parmesan-cheese-souffl",
+    "title": "Parmesaanisuffeli",
+    "description": "Kuohkea parmesaanisuffeli, joka maustetaan cayennella ja ruohosipulilla.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "juusto", "uuniruoka", "ranskalainen"],
+    "ingredients": [
+      "1 rkl suolatonta voita",
+      "7 dl vastaraastettua parmesaania",
+      "4,8 dl kevytkermaviiliä",
+      "1 dl vehnäjauhoja",
+      "5 ison munan keltuaista",
+      "7 ison munan valkuaista",
+      "1 tl suolaa",
+      "½ tl cayennepippuria",
+      "2 rkl hienonnettua tuoretta ruohosipulia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Voitele 2 litran suffeevuoka.",
+      "Lisää vuokaan 2,4 dl juustoa ja kallista vuokaa niin, että pohja ja reunat peittyvät. Ravista ylimääräinen pois. Aseta vuoka jääkaappiin.",
+      "Laita kermaviili isoon kulhoon.",
+      "Siivilöi jauhot kermaviiliin ja vispaa tasaiseksi.",
+      "Lisää keltuaiset yksi kerrallaan ja vispaa jokaisen jälkeen.",
+      "Sekoita joukkoon suola, cayenne, ruohosipuli ja loput 4,8 dl juustoa.",
+      "Vaahdota valkuaiset isossa puhtaassa kulhossa kovaksi vaahdoksi.",
+      "Sekoita valkuaisvaahto varovasti kermaviiliseokseen.",
+      "Kaada taikina valmisteltuun vuokaan ja paista, kunnes suffeli on noussut 5–7 cm reunan yläpuolelle ja pinta on kullanruskea (1–1½ tuntia).",
+      "Tarjoa heti."
+    ]
+  }
+]

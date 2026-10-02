@@ -1,0 +1,253 @@
+[
+  { "id": "wikibooks-ofe-owerri-meat-and-taro-soup-with-dried-seafood", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-ugba-nigerian-okra-and-ugba-soup", "skip": "liian puutteellinen (määrät puuttuvat)" },
+  { "id": "wikibooks-ofe-ugu-nigerian-ugu-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-ujuju-nigerian-ujuju-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-utazi-nigerian-utazi-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ogbono-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ogolale-mashed-yam-and-plantain", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-oha-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ojojo-water-yam-fritters", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-okazi-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-okoho-soup", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-okonomiyaki-japanese-savory-pancake",
+    "title": "Okonomiyaki – japanilainen suolainen lettu",
+    "description": "Japanilainen kaali-kevätsipulilettu, jonka päälle laitetaan haluttuja täytteitä ja okonomiyakikastiketta.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "japanilainen", "lettu"],
+    "ingredients": [
+      "2,4 dl vehnäjauhoja",
+      "2,4 dl vettä tai lientä",
+      "2 munaa",
+      "1,8 dl hienoksi suikaloitua kaalia",
+      "2–3 kevätsipulia, pieninä renkaina",
+      "½ dl mozzarellaa (valinnainen)",
+      "10 ohutta viipaletta broileria, pekonia tai naudanlihaa",
+      "rypsiöljyä paistamiseen",
+      "okonomiyakikastiketta",
+      "katsuobushi-hiutaleita",
+      "jauhettua noria"
+    ],
+    "instructions": [
+      "Sekoita jauhot, vesi ja munat sileäksi (noin 25–30 sekoitusta lusikalla tai vispilällä; älä sekoita liikaa).",
+      "Sekoita varovasti joukkoon kaali, kevätsipuli ja juusto.",
+      "Kuumenna paistolevy tai pinnoitettu pannu keskilämmölle. Lisää 1 rkl öljyä.",
+      "Lisää ⅓ taikinasta (noin ¾ dl) ja litistä hieman. Paista 2–3 minuuttia.",
+      "Kun lettu on pohjalta kullanruskea, lisää päälle lihaviipaleet ja painele ne taikinaan. Käännä ja paista toista puolta 5 minuuttia kullanruskeaksi.",
+      "Käännä vielä kerran ja paista täytepuoli ylöspäin minuutti.",
+      "Nosta lautaselle ja lisää päälle kastiketta, noria ja/tai bonitohiutaleita."
+    ]
+  },
+  {
+    "id": "wikibooks-okpa-boiled-bambara-bean-pudding",
+    "title": "Okpa – keitetty bambarapapupuuro",
+    "description": "Nigerialainen höyrytetty tai keitetty pähkinäinen vanukas bambarapapujauhosta, palmuöljystä ja habanerosta.",
+    "servings": 12,
+    "category": "Muut",
+    "tags": ["vegaaninen", "kasvis", "afrikkalainen", "nigerialainen"],
+    "ingredients": [
+      "450 g okpa-jauhoa (jauhettua bambarapapua)",
+      "4 pientä liemikuutiota, murskattuna",
+      "suolaa",
+      "15 rkl palmuöljyä",
+      "habanero-chiliä maun mukaan",
+      "1,2 l haaleaa vettä",
+      "banaaninlehtiä tai kuumuutta kestäviä muovipusseja"
+    ],
+    "instructions": [
+      "Pese banaaninlehdet huolellisesti vedellä ja suolalla.",
+      "Siivilöi okpa-jauho isoon kulhoon ja sekoita joukkoon liemikuutiot ja suola. Lisää palmuöljy ja sekoita hyvin puulusikalla.",
+      "Lisää haalea vesi vähitellen ja sekoita hyvin, kunnes ei ole paakkuja. Lisää vettä niin paljon, ettei okpa kovetu kivenkovaksi valmistuessaan.",
+      "Sekoita joukkoon viipaloitu habanero ja korjaa maku.",
+      "Nosta taikinaa banaaninlehtiin tai läpinäkyviin pusseihin (älä täytä liikaa) ja sido kiinni.",
+      "Kuumenna suuressa kattilassa vesi kiehuvaksi ennen kuin laitat nyytit veteen.",
+      "Keitä noin 1 tunti ennen tarkistamista. Okpa on kiinteää kun se on kypsää.",
+      "Tarjoa vanukkaan, kaurapuuron tai maissipuuron (pap) kanssa."
+    ],
+    "notes": ["Okpa ei tarvitse paljon mausteita. Ravunjauhetta tai sipulia ei tarvita."]
+  },
+  { "id": "wikibooks-okpo-ogede-plantain-moi-moi", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-okra-green-vegetable-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-okra-plantain-porridge", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-olive-ascolane-stuffed-fried-olives",
+    "title": "Olive ascolane – täytetyt friteeratut oliivit",
+    "description": "Ascoli Picenon alueen alkupala: lihatäytteellä täytettyjä, paneroituja ja paistettuja vihreitä oliiveja.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["liha", "italialainen", "alkupala", "friteerattu"],
+    "ingredients": [
+      "tomaattikastiketta keittämiseen",
+      "700 g sianlihaa",
+      "700 g broilerin rintafileetä",
+      "1 dl vihreitä oliiveja, hienonnettuna",
+      "1,6 dl parmesaania, raastettuna",
+      "1 sitruunan kuori, raastettuna",
+      "1 tl vastaraastettua muskottipähkinää",
+      "1 tl kanelia",
+      "½ tl maustepippuria",
+      "suolaa",
+      "n. 50 isoa kivetöntä vihreää oliivia, puolitettuna",
+      "2 munaa, vatkattuina",
+      "vehnäjauhoja",
+      "korppujauhoja",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kypsennä sianliha ja broileri tomaattikastikkeessa.",
+      "Ota kypsät, jäähtyneet lihat kastikkeesta ja jauha ne lihamyllyllä tai monitoimikoneessa.",
+      "Lisää muut täytteen ainekset jauhelihaan (älä jauha liikaa). Sekoita ja jäähdytä jääkaapissa vähintään tunti.",
+      "Pyörittele seoksesta pieniä saksanpähkinän kokoisia palloja. Paina kummallekin puolelle puolikas oliivi.",
+      "Pyöritä pallot jauhoissa, kasta munaan ja pyöritä korppujauhoissa.",
+      "Nosta pallot tarjottimelle. Paista nopeasti noin 1 cm:n öljykerroksessa kullanruskeiksi.",
+      "Valuta ja tarjoa."
+    ],
+    "notes": [
+      "Täytetyt oliivit voi pakastaa paistamattomina. Sulata ne kokonaan ennen paistamista.",
+      "Täytteen lihat on jo kypsennetty, joten niiden ei tarvitse kypsyä paistaessa."
+    ]
+  },
+  {
+    "id": "wikibooks-olive-oil-bread",
+    "title": "Oliiviöljyleipä",
+    "description": "Nopea ja helppo leipä, joka sopii italialaisten ruokien ja pastan kanssa. Taikinasta voi muotoilla pyöreän tai pitkän leivän.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "leipä", "italialainen"],
+    "ingredients": [
+      "1,2 dl haaleaa vettä (45 °C)",
+      "1 pkt (7 g) kuivahiivaa",
+      "1 tl sokeria",
+      "1 tl suolaa",
+      "4 rkl oliiviöljyä",
+      "6 dl vehnäjauhoja",
+      "1 munanvalkuainen ja 1 rkl vettä voiteluun (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa vesi, hiiva, sokeri, suola ja oliiviöljy.",
+      "Sekoita joukkoon 5 dl jauhoja pehmeäksi palloksi.",
+      "Vaivaa lisää jauhoja, kunnes taikina on pehmeää mutta ei tahmeaa.",
+      "Nosta taikina voideltuun kulhoon, peitä ja anna kohota kaksinkertaiseksi.",
+      "Painele ilmat pois ja muotoile palloksi tai pitkäksi leiväksi.",
+      "Nosta voidellulle pellille, peitä ja anna kohota 15–20 minuuttia.",
+      "Kuumenna uuni 190 asteeseen.",
+      "Paista 30–40 minuuttia kullanruskeaksi.",
+      "Kiiltävää pintaa varten sivele leipä 5 minuuttia ennen paiston loppua sekoitetulla munanvalkuaisella ja vedellä."
+    ]
+  },
+  {
+    "id": "wikibooks-omelette-of-breadcrumbs",
+    "title": "Korppujauhoomelette (tortilla de pan rallado)",
+    "description": "Perinteinen malagalainen munakas, jossa korppujauhot, valkosipuli ja persilja antavat tuhdin rakenteen.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "espanjalainen", "nopea", "muna"],
+    "ingredients": [
+      "4 munaa",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "persiljaa, hienonnettuna",
+      "25 g korppujauhoja",
+      "suolaa",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Vatkaa munat ja lisää joukkoon hienonnettu valkosipuli ja persilja.",
+      "Lisää korppujauhot ja sekoita tasaiseksi.",
+      "Paista munakas miedolla lämmöllä muutamassa tipassa öljyä, ettei se tartu pohjaan."
+    ],
+    "notes": [
+      "Korppujauhojen määrää voi muuttaa: enemmän tekee paksumman, vähemmän kevyemmän munakkaan.",
+      "Vatkaa valkuaiset erikseen ja lisää keltuaiset, niin munakkaasta tulee kuohkeampi."
+    ]
+  },
+  { "id": "wikibooks-omi-ukpoka-nigerian-corn-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-omisagwe-nigerian-groundnut-soup", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-omu-tuo-ghanian-mashed-rice",
+    "title": "Omu tuo – ghanalainen survottu riisi",
+    "description": "Pehmeäksi keitetty riisi survotaan tahmeiksi palloiksi ja tarjotaan maapähkinä- tai muun keiton kanssa.",
+    "servings": 2,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "afrikkalainen", "ghanalainen"],
+    "ingredients": ["2,4 dl pitkäjyväistä valkoista riisiä", "1 ripaus suolaa", "1–2 rkl voita", "4,8 dl vettä"],
+    "instructions": [
+      "Huuhtele riisi halutessasi liiasta tärkkelyksestä. Vaihe on valinnainen, sillä tärkkelys auttaa tahmeuteen.",
+      "Laita riisi, voi ja suola kattilaan veden kanssa. Hauduta miedolla lämmöllä, kunnes kaikki vesi on imeytynyt ja riisi on pehmeää.",
+      "Survo riisiä kattilassa puulusikalla puolelta toiselle, kunnes siitä tulee sosemaista.",
+      "Nosta survottu riisi kostutettuun kulhoon ja pyörittele kulhon muotoiseksi.",
+      "Tarjoa maapähkinäkeiton tai muun keiton kanssa."
+    ],
+    "notes": ["Veden ja suolan suhde on tärkeä.", "Halutessasi lisää mausteita."]
+  },
+  {
+    "id": "wikibooks-one-cup-chai",
+    "title": "Chai yhdelle",
+    "description": "Yksinkertainen ohje yhden kupillisen maustetee chain valmistamiseen hunajalla ja maidolla.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["kasvis", "intialainen", "tee", "nopea"],
+    "ingredients": [
+      "1,8 dl vettä",
+      "1 rkl maitoa",
+      "1 rkl hunajaa",
+      "1 tl Earl Grey -teelehtiä",
+      "6 kardemummansiementä",
+      "8 maustenegilikkaa",
+      "3 mustapippuria",
+      "1 kanelitanko (tai ½ tl kanelisokeria)"
+    ],
+    "instructions": [
+      "Laita vesi kattilaan liedelle pienimmälle lämmölle tai juuri alle kiehumispisteen. Mitä enemmän haihtuu, sitä vahvemmaksi chai tulee.",
+      "Murskaa kardemumma, neilikat ja pippurit huhmareessa. Ilman huhmaretta kuori kardemumman siemenet ja käytä pippurimyllyä. Katkaise kanelitanko neljään osaan tai lisää kanelisokeri veteen. Laita kaikki mausteet ja hunaja veteen ja sekoita, että hunaja liukenee.",
+      "Sekoita ja maistele aika ajoin. Jos mausteet eivät ole tarpeeksi vahvoja, anna hautua pidempään tai lisää mausteita. Yleensä mausteiden maku irtoaa 5–10 minuutissa.",
+      "Kun maku on sopiva, lisää teelehdet. Mitä pidempään tee on liemessä, sitä vahvempaa siitä tulee.",
+      "Kuumenna hauduttaen, ettei maito jäähdytä juomaa liikaa. Älä keitä liikaa, ettei neste haihdu tai mausteet vie voittoa.",
+      "Ota kattila liedeltä. Aseta siivilä tyhjän kattilan päälle ja kaada seos siivilän läpi. Palauta kuuma kattila liedelle.",
+      "Kaada maito mukiin ja kaada siivilöity tee maidon päälle, jotta maito ei kuumene liikaa.",
+      "Jos chai on liian karvasta, lisää hunajaa."
+    ]
+  },
+  { "id": "wikibooks-one-hour-thanksgiving-dinner", "skip": "ei varsinainen resepti (yhdysvaltalaisten valmistuotteiden kokoaminen)" },
+  {
+    "id": "wikibooks-onigiri",
+    "title": "Onigiri – japanilainen riisipallo",
+    "description": "Japanilaisesta lyhytjyväisestä riisistä muotoiltu pallo tai kolmio täytteellä, usein noriin käärittynä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["japanilainen", "riisi", "eväs"],
+    "ingredients": [
+      "1 dl japanilaista lyhytjyväistä riisiä (keittämätöntä)",
+      "Täytteeksi valitsemasi:",
+      "umeboshi-luumuja, kivet poistettuna",
+      "tonnikalaa säilykkeestä, majoneesilla, hienonnetulla purjolla, soijakastikkeella tai chilillä maustettuna",
+      "kypsää lohta",
+      "kypsää kananmunaa",
+      "katsuobushia, soijakastikkeella kostutettuna",
+      "noriarkkeja",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen tai riisinkeittimen mukaan. Anna jäähtyä juuri sen verran, että sitä voi käsitellä käsin.",
+      "Valmistele täytteet riisin kypsyessä.",
+      "Täytä kulho suolavedellä sormien kastelua ja onigirien maustamista varten.",
+      "Tapa 1: Kastele kädet suolavedessä. Ota käteen kaksi isoa lusikallista riisiä (varo, riisi on kuumaa) ja litistä toisella kädellä. Tee keskelle kuoppa ja laita täytettä keskelle, ei koko pallon pinnalle, sillä se vähentää tahmeutta. Taita riisi täytteen ympärille. Puristele kevyesti ja muotoile kolmioksi käsien kämmenillä sormet suorina.",
+      "Tapa 2: Aseta kulhoon kelmu. Laita noin ⅔ riisistä kelmun keskelle, lisää noin 2 tl täytettä ja peitä loppu ⅓ riisiä. Muotoile onigiri kelmun sisällä. Tämä on siistimpää ja lapsiystävällisempää.",
+      "Kun pallot ovat jäähtyneet, suojaa ne kuivumiselta kelmuun tai ilmatiiviiseen rasiaan. Syötäessä kääri riisipallo noripalaan. Jos et pelkää pehmeää noria, voit kääriä pallot noriin etukäteen."
+    ],
+    "notes": [
+      "Käytä japanilaista lyhytjyväistä riisiä. Jos riisi ei ole tahmeaa, onigiri ei pysy koossa.",
+      "Riisinkeitin on helpoin, ja jättää enemmän aikaa täytteille.",
+      "Älä käytä jääkaappikylmää riisiä. Älä säilytä valmiita onigireita jääkaapissa, vaan eväslaukussa."
+    ]
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "id": "wikibooks-parmesan-encrusted-tilapia",
+    "title": "Parmesaanipanerointi-tilapia",
+    "description": "Uunissa paistettu tilapiafile krutonki-parmesaanipanerduksessa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea"],
+    "ingredients": [
+      "3 tilapiafileetä",
+      "1 dl valkosipulikrutonkeja, hienoksi murskattuna",
+      "sulatettua voita",
+      "2 rkl raastettua parmesaania",
+      "1 rkl suolaa",
+      "1 rkl vastajauhettua mustapippuria",
+      "1 rkl cayennepippuria",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Sekoita suola, cayenne, pippuri, krutongit ja juusto. Aseta sivuun.",
+      "Sivele kala sulatetulla voilla. Pyörittele molemmat puolet juustoseoksessa. Anna levätä 2–3 minuuttia.",
+      "Kasta kala oliiviöljyyn. Aseta matalalle uunipellille ja paista 200 asteessa 11–12 minuuttia, kunnes kala on läpikuultamatonta ja hajoaa haarukalla helposti.",
+      "Tarjoa lämpimänä."
+    ]
+  },
+  { "id": "wikibooks-parsons-sauce-hartshorne", "skip": "liian puutteellinen (kastikkeessa ei nestettä, ohje epäselvä)" },
+  {
+    "id": "wikibooks-party-mix",
+    "title": "Party mix – maustettu aamiaishiutale-pähkinäsnack",
+    "description": "Amerikkalainen juhlasnack, jossa viljahiutaleet, pähkinät ja suolakeksit maustetaan voilla ja worcestershirekastikkeella ja kuivataan uunissa.",
+    "servings": 24,
+    "totalTimeMin": 75,
+    "category": "Välipalat",
+    "tags": ["kasvis", "amerikkalainen", "juhla", "naposteltava"],
+    "ingredients": [
+      "90 g voita tai margariinia",
+      "2 rkl worcestershirekastiketta",
+      "1½ tl maustettua suolaa",
+      "¾ tl valkosipulijauhetta",
+      "½ tl sipulijauhetta",
+      "360 g maissikakkulaneliöitä (maissihiutalenelikkoja)",
+      "360 g riisikakkulaneliöitä",
+      "360 g vehnäkakkulaneliöitä",
+      "100 g sekapähkinöitä",
+      "120 g pieniä suolapretzeleitä",
+      "120 g valkosipulin makuisia bageliohukaisia, murrettuina 2,5 cm:n paloiksi"
+    ],
+    "instructions": [
+      "Kuumenna uuni 120 asteeseen.",
+      "Sulata voi voitelemattomassa isossa uunipannussa uunissa.",
+      "Sekoita joukkoon mausteet.",
+      "Sekoita joukkoon vähitellen loput ainekset, kunnes ne ovat tasaisesti voiteen peitossa.",
+      "Paista 1 tunti ja sekoita 15 minuutin välein.",
+      "Levitä talouspaperille jäähtymään, noin 15 minuuttia.",
+      "Säilytä ilmatiiviissä rasiassa."
+    ],
+    "notes": ["Mikroaaltouunissa: sulata voi isossa kulhossa kovalla teholla noin 40 sekuntia, sekoita mausteet ja muut ainekset, kuumenna 5–6 minuuttia kovalla teholla ja sekoita huolellisesti 2 minuutin välein. Jäähdytä talouspaperilla."]
+  },
+  {
+    "id": "wikibooks-pashofa-chickasaw-pork-and-corn",
+    "title": "Pashofa – chickasaw-intiaanien sianliha-maissipata",
+    "description": "Chickasaw-heimon perinneruoka: kuivattu hominy-maissi haudutetaan sianlihan kanssa useita tunteja.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": ["liha", "sianliha", "pata", "amerikkalainen"],
+    "ingredients": ["900 g kuivattua hominy-maissia (pashofa)", "450 g porsaankyljyksiä, kuutioituna"],
+    "instructions": [
+      "Huuhtele maissi useita kertoja ja poista pinnalle nousseet kuoret.",
+      "Laita huuhdeltu maissi isoon kattilaan ja lisää vettä niin, että se peittää maissin 7,5–10 cm.",
+      "Kuumenna kiehuvaksi ja lisää sianliha.",
+      "Laske lämpö keskimiedoksi ja hauduta 2–3 tuntia. Sekoita silloin tällöin, ettei pala pohjaan. Lisää vettä tarvittaessa."
+    ],
+    "notes": [
+      "Paksuus on makuasia: jotkut haluavat sen stew-mäisenä, toiset liemisempänä.",
+      "Ruoka on suolatonta. Lisää suola ja pippuri keittämisen jälkeen.",
+      "Porsaankyljysten sijaan voi käyttää pekonia rasvoineen."
+    ]
+  },
+  {
+    "id": "wikibooks-passover-apple-cake",
+    "title": "Pääsiäisomenakakku (jauhoton)",
+    "description": "Kahvikakun tapainen omenakakku, jossa vehnäjauhojen tilalla on matsojauhoa, joten se sopii juutalaiseen pääsiäiseen.",
+    "servings": 9,
+    "servingsEstimated": true,
+    "totalTimeMin": 100,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "omena", "juutalainen"],
+    "ingredients": [
+      "3 munaa",
+      "1,8 dl sokeria",
+      "¾ dl rypsiöljyä",
+      "1,8 dl matsojauhoa (matzo cake meal)",
+      "5 omenaa (mieluiten Granny Smith), kuorittuna ja viipaloituna",
+      "Pinnalle:",
+      "¾ dl hienonnettuja saksanpähkinöitä",
+      "1,2 dl sokeria",
+      "2 tl jauhettua kanelia"
+    ],
+    "instructions": [
+      "Vatkaa munat, sokeri ja öljy keskikokoisessa kulhossa vaaleaksi.",
+      "Lisää matsojauho ja sekoita hyvin.",
+      "Kaada puolet taikinasta kevyesti voideltuun 20–23 cm:n neliönmuotoiseen vuokaan.",
+      "Levitä puolet omenoista taikinan päälle.",
+      "Kaada loput taikinasta omenoiden päälle ja peitä loppujen omenoiden kanssa.",
+      "Sekoita pinnan ainekset pienessä kulhossa ja ripottele omenoiden päälle.",
+      "Paista 175 asteessa noin 1½ tuntia."
+    ]
+  },
+  {
+    "id": "wikibooks-passover-carrot-almond-cake",
+    "title": "Pääsiäisen porkkana-mantelikakku",
+    "description": "Jauhoton porkkana-mantelikakku, jossa on matsojauhoa vehnäjauhojen sijasta.",
+    "servings": 12,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "porkkana", "juutalainen"],
+    "ingredients": [
+      "matsojauhoa vuoan pölyttämiseen",
+      "4 munaa, keltuaiset ja valkuaiset erotettuina, huoneenlämpöisiä",
+      "1,2 dl vaaleaa fariinisokeria",
+      "3,6 dl hienoksi raastettua porkkanaa",
+      "1 tl vaniljaa (valinnainen)",
+      "¼ tl suolaa",
+      "1,2 dl sokeria",
+      "2,4 dl paahdettuja mantelirouheita, hienoksi jauhettuina",
+      "3 rkl hienoksi jauhettua matsojauhoa",
+      "½ tl kanelia"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Voitele 20 cm:n irtopohjavuoan pohja ja pölytä kevyesti mantelijauheella.",
+      "Vatkaa keltuaiset ja fariinisokeri isossa kulhossa sähkövatkaimella paksuksi ja vaaleaksi (noin 5 minuuttia). Vatkaimen noustessa seoksesta tulee hitaasti häviävä nauha.",
+      "Sekoita joukkoon porkkana ja vanilja.",
+      "Puhdista ja kuivaa vatkain. Vaahdota valkuaiset suolan kanssa pehmeäksi vaahdoksi.",
+      "Lisää sokeri vähitellen ja vatkaa vaahto kiinteäksi.",
+      "Sekoita valkuaisvaahto varovasti keltuaisseokseen.",
+      "Sekoita mantelit, matsojauho ja kaneli. Sekoita varovasti muna-seokseen.",
+      "Kaada taikina vuokaan ja tasoita pinta.",
+      "Paista, kunnes hammastikku tulee puhtaana ulos (noin 1 tunti).",
+      "Kierrä veitsi heti reunojen ympäri ja jäähdytä vuoassa ritilällä.",
+      "Irrota kakku irtopohjavuoasta."
+    ]
+  },
+  {
+    "id": "wikibooks-passover-hazelnut-chocolate-loaf",
+    "title": "Pääsiäisen hasselpähkinä-suklaaleipä",
+    "description": "Jauhoton suklaa-hasselpähkinäkakku vuoassa, joka sopii pääsiäiseen.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "suklaa", "juutalainen"],
+    "ingredients": [
+      "2,4 dl hasselpähkinöitä",
+      "170 g puolimakeaa tai tummaa suklaata",
+      "125 g maidotonta margariinia",
+      "½ rkl perunajauhoja tai riisijauhoja",
+      "4 munaa, huoneenlämpöisiä",
+      "1 munanvalkuainen, huoneenlämpöinen",
+      "1,2 dl sokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja paahda hasselpähkinöitä noin 15 minuuttia.",
+      "Hiero kuoret pois ja anna pähkinöiden jäähtyä.",
+      "Hienonna pähkinät karkeasti ja 55 g suklaata pieniksi hiutaleiksi. Aseta sivuun.",
+      "Voitele 23 x 13 cm:n leipävuoka ½ rkl:lla margariinia ja pölytä kevyesti perunajauholla.",
+      "Laita loput suklaasta paloiksi vesihauteen yläkulhoon.",
+      "Peitä ja sulata simmerivän veden päällä.",
+      "Vispaa joukkoon vähitellen margariini tasaiseksi. Aseta sivuun.",
+      "Vatkaa keltuaiset lisäten sokeri hitaasti vaaleaksi ja paksuksi (noin 10 minuuttia).",
+      "Kaada jäähtynyt suklaa joukkoon ja vatkaa tasaiseksi. Aseta sivuun.",
+      "Vaahdota 5 munanvalkuaista kovalla nopeudella kiinteäksi.",
+      "Sekoita kuminuolalla suklaaseokseen puolet pähkinöistä, suklaahiutaleet ja neljäsosa valkuaisvaahdosta.",
+      "Toista vielä neljäsosalla valkuaisvaahtoa ja loput pähkinät.",
+      "Käännä prosessi: kaada suklaa jäljellä olevan valkuaisvaahdon päälle.",
+      "Sekoita seokset varovasti tasaiseksi.",
+      "Kaada taikina vuokaan.",
+      "Paista uunin keskitasolla noin 55 minuuttia, kunnes hammastikku tulee kuivana ulos.",
+      "Anna jäähtyä. Irrota reunat veitsellä ennen kakun poistamista."
+    ]
+  },
+  {
+    "id": "wikibooks-passover-hazelnut-loaf-cake",
+    "title": "Pääsiäisen hasselpähkinäkakku",
+    "description": "Jauhoton, kolmen ainesosan kakku jauhetuista hasselpähkinöistä, munista ja sokerista.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "hasselpähkinä", "juutalainen"],
+    "ingredients": [
+      "5 munaa, keltuaiset ja valkuaiset erotettuina",
+      "225 g kuorittuja ja kuorettomia hasselpähkinöitä",
+      "2,2 dl sokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Jauha hasselpähkinät hienoksi monitoimikoneessa. Jauhetta tulee noin 8 dl.",
+      "Vatkaa sokeri ja keltuaiset vaaleankeltaiseksi.",
+      "Vaahdota valkuaiset pehmeäksi vaahdoksi.",
+      "Sekoita jauhetut pähkinät ja valkuaisvaahto varovasti keltuaisseokseen.",
+      "Kaada matalaan, leveään uuninkestävään vuokaan.",
+      "Paista 30 minuuttia, kunnes pinta on kullanruskea."
+    ]
+  },
+  {
+    "id": "wikibooks-passover-orange-walnut-cake",
+    "title": "Pääsiäisen appelsiini-saksanpähkinäkakku",
+    "description": "Matsojauhosta, öljystä ja jauhetuista saksanpähkinöistä valmistettu appelsiinintuoksuinen kakku.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "appelsiini", "juutalainen"],
+    "ingredients": [
+      "5 munaa",
+      "2,4 dl sokeria",
+      "2,4 dl rypsiöljyä",
+      "2,4 dl matsojauhoa",
+      "appelsiiniuutetta tai -aromia",
+      "2,4 dl jauhettuja saksanpähkinöitä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Vatkaa munat ja lisää sokeri, sekoita.",
+      "Sekoita joukkoon öljy ja lisää matsojauho.",
+      "Lisää saksanpähkinät ja sekoita.",
+      "Lisää runsaasti appelsiiniuutetta ja sekoita.",
+      "Kaada 23 cm:n kakkuvuokaan.",
+      "Paista esilämmitetyssä uunissa 30–40 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-alla-gricia-pasta-with-guanciale",
+    "title": "Pasta alla gricia",
+    "description": "Roomalainen yksinkertainen pasta, jossa on paistettua guancialea, pecorino romanoa ja mustapippuria.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "italialainen", "nopea"],
+    "ingredients": [
+      "3 rkl suolaa keittoveteen",
+      "400 g pastaa (rigatonia tai spagettia)",
+      "200–300 g guancialea, hienonnettuna",
+      "pecorino romanoa, raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna vesi ja suola kattilassa kiehuvaksi.",
+      "Lisää pasta ja keitä al denteksi.",
+      "Paista guanciale pannulla, kunnes rasva sulaa lähes kokonaan.",
+      "Lisää keitetty pasta guancialepannulle ja paista 2 minuuttia.",
+      "Lisää raastettu pecorino romano ja mustapippuri pannulle ja sekoita."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-and-bean-soup",
+    "title": "Pasta-papukeitto",
+    "description": "Maalaismainen italialainen pasta-papukeitto borlotti-pavuilla, tomaatilla ja rosmariinilla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "italialainen", "pasta"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 dl kuivaa valkoviiniä",
+      "5 valkosipulinkynttä, hienonnettuna",
+      "1 sipuli, hienonnettuna",
+      "1 tlk (400 g) tomaattimurskaa tai 4 kypsää tomaattia, hienonnettuna",
+      "3 rkl tomaattipyreetä",
+      "2 tlk (à 235 g) borlotti-papuja",
+      "1 kourallinen tuoretta pinaattia, hienonnettuna (valinnainen)",
+      "1 rosmariinin oksa (n. 8 cm)",
+      "1 iso kourallinen hienonnettua persiljaa",
+      "1,5 l vettä",
+      "2 kanaliemikuutiota",
+      "1 ripaus suolaa",
+      "1 iso ripaus mustapippuria",
+      "1 iso ripaus cayennepippuria",
+      "300 g pastakuoria tai penneä",
+      "1 dl kuohukermaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy kattilassa, lisää valkosipuli ja sipuli ja kuullota miedolla lämmöllä noin 3 minuuttia läpikuultavaksi mutta ei värjäytyneeksi. Lisää cayennepippuri ja sekoita.",
+      "Lisää valkoviini ja anna haihtua hieman.",
+      "Lisää vesi, liemikuutiot, tomaattipyree, tomaatit, pippuri, suola, pasta ja pavut ja hauduta hiljalleen niin kauan kuin pasta tarvitsee kypsyäkseen, silloin tällöin sekoittaen.",
+      "Kun pasta on al dente, lopeta kypsennys, lisää hienonnettu persilja ja kerma ja sekoita.",
+      "Lisää rosmariinin oksa ja anna maustua noin 2 tuntia."
+    ],
+    "notes": [
+      "Lisää keittoon pala parmesaanin kuorta ja poista se ennen tarjoilua.",
+      "Jos keitto ei ole tarpeeksi paksua, ota osa keitosta (mieluiten ilman pastaa) ja soseuta, ja palauta kattilaan."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-and-bean-soup-pasta-e-fagioli",
+    "title": "Pasta e fagioli – pasta-papupata",
+    "description": "Lihaton tuhti papupata makaronilla, oliiviöljyllä ja chilillä. Pataa on syöty Brooklynissa perjantaisin.",
+    "servings": 6,
+    "totalTimeMin": 180,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "kasvis", "italialainen", "pasta", "pata"],
+    "ingredients": [
+      "450 g kuivattuja valkoisia papuja",
+      "2,4 dl oliiviöljyä",
+      "1 kokonainen valkosipulinkynsi kuorineen",
+      "1 laakerinlehti",
+      "1 tl tai enemmän murskattua tai jauhettua tulista punaista chiliä",
+      "tuoretta persiljaa",
+      "225 g pientä makaronia (mieluiten täysjyvää)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita pestyt pavut suolattuun veteen (3 osaa vettä 1 osaan papuja).",
+      "Liota yön yli TAI kuumenna kiehuvaksi, keitä 2 minuuttia ja anna seistä peitettynä 1 tunti.",
+      "Älä valuta papuja, vaan kuumenna kiehuvaksi.",
+      "Kuori vaahto pois ja lisää öljy, valkosipuli ja laakerinlehti.",
+      "Hauduta noin 2 tuntia, kunnes pavut ovat pehmeitä.",
+      "Keitä makaroni 6–7 minuuttia niin, ettei se pehmene liikaa.",
+      "Valuta makaroni ja säästä hieman keitinvettä.",
+      "Sekoita makaroni ja chili papujen joukkoon ja hauduta, kunnes makaroni on al dente. Lisää tarvittaessa keitinvettä.",
+      "Koristele chilillä ja persiljalla."
+    ],
+    "notes": ["Käytä paikallisesti suosittua papulajia, esimerkiksi pinto-papuja, mustasilmäpapuja tai kikherneitä.", "Kelpaa seuraavana päivänä kylmänä tai lämmitettynä."]
+  },
+  {
+    "id": "wikibooks-pasta-casserole-pastitsio",
+    "title": "Pastitsio – kreikkalainen makaronilaatikko",
+    "description": "Kreikkalainen kerrosruoka: makaroni, kanelilla maustettu lihakastike ja béchamel-kastike gratinoituna uunissa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "uuniruoka", "kreikkalainen"],
+    "ingredients": [
+      "Lihakastike:",
+      "2 rkl oliiviöljyä",
+      "2 sipulia, hienonnettuna",
+      "750 g jauhelihaa",
+      "1 tlk (400–450 g) tomaattimurskaa",
+      "¾ dl tomaattipyreetä",
+      "1,2 dl vettä",
+      "½ dl kuivaa valkoviiniä",
+      "1 rkl lihaliemijauhetta",
+      "½ tl kanelia",
+      "1 muna, kevyesti vatkattuna",
+      "Béchamel:",
+      "100 g voita",
+      "1,2 dl vehnäjauhoja",
+      "8 dl maitoa",
+      "2,4 dl raastettua parmesaania",
+      "2 munankeltuaista",
+      "Pasta:",
+      "250 g makaronia",
+      "2 munaa, kevyesti vatkattuina",
+      "1,8 dl raastettua parmesaania tai fetaa",
+      "2 rkl kuivahtanutta korppujauhoa"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy pannussa. Lisää sipulit ja kuullota läpikuultaviksi.",
+      "Lisää jauheliha ja ruskista hyvin.",
+      "Lisää tomaattimurska nesteineen.",
+      "Lisää tomaattipyree, vesi, viini, lihaliemijauhe ja kaneli. Hauduta kansi auki sakeaksi.",
+      "Siirrä sakea kastike kulhoon jäähtymään.",
+      "Kun kastike on jäähtynyt, sekoita joukkoon muna.",
+      "Sulata voi kattilassa.",
+      "Lisää jauhot ja sekoita hyvin lämmön päällä, kunnes kuplii.",
+      "Ota kattila liedeltä ja lisää maito vähitellen. Seos paksuuntuu ja ohenee uudelleen.",
+      "Palauta kattila liedelle ja kuumenna, kunnes kastike kuplii ja sakenee.",
+      "Sekoita joukkoon parmesaani, kunnes se on sulanut ja kastike on sileää.",
+      "Siirrä kulhoon ja jäähdytä hieman.",
+      "Sekoita joukkoon keltuaiset.",
+      "Keitä pasta pakkauksen ohjeen mukaan kypsäksi.",
+      "Valuta pasta ja siirrä kulhoon.",
+      "Sekoita kuuma pasta parmesaanin ja munien kanssa.",
+      "Voitele uunivuoka.",
+      "Painele pastaseos vuoan pohjalle.",
+      "Levitä lihakastike pastan päälle.",
+      "Kaada béchamel lihakastikkeen päälle ja tasoita pinta.",
+      "Ripottele päälle korppujauhot.",
+      "Paista esilämmitetyssä uunissa 180 asteessa tunti, kunnes pinta on kullanruskea.",
+      "Anna levätä vähintään 10 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Aloita lihakastikkeesta, koska sen pitää jäähtyä ennen kokoamista.", "Ylijäämä pakastuu hyvin."]
+  },
+  {
+    "id": "wikibooks-pasta-in-gorgonzola-cheese-sauce-pasta-alla-gorgonzola",
+    "title": "Pasta gorgonzolakastikkeessa",
+    "description": "Kermainen gorgonzola-ricottakastike, joka sekoitetaan keitettyyn pastaan.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "juusto"],
+    "ingredients": [
+      "500 g vahvaa gorgonzolaa",
+      "muutama tippa oliiviöljyä",
+      "150 g ricottaa",
+      "1 ripaus yrttiseosta",
+      "vastaraastettua muskottipähkinää",
+      "1 sitruunan kuori, raastettuna",
+      "1–2 dl maitoa",
+      "500 g penneä tai muuta pastaa"
+    ],
+    "instructions": [
+      "Laita pasta kypsymään runsaaseen suolattuun veteen.",
+      "Laita oliiviöljytipat mieluiten valurautakattilaan ja murusta gorgonzola siihen HYVIN miedolla lämmöllä. Kun juusto sulaa juoksevaksi, lisää ricotta ja sulata, kunnes koko seos on kastiketta.",
+      "Jos kastike on liian paksua, lisää hieman maitoa ja kuumenna uudelleen.",
+      "Raasta joukkoon runsaasti muskottipähkinää, lisää yrtit ja sitruunankuori ja anna seistä hetki.",
+      "Kun pasta on kypsää, valuta hyvin ja nosta kulhoon.",
+      "Lisää gorgonzolakastike ja sekoita hyvin puulusikalla.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Gorgonzolaa tarvitaan, muu juusto ei käy.", "Uurteinen pasta sopii parhaiten."]
+  },
+  {
+    "id": "wikibooks-pasta-marinata",
+    "title": "Pasta marinata – italialainen friteerauspannukakkutaikina",
+    "description": "Semolinasta ja munasta tehty kevyt taikina, jolla voi paneroida lihaa, kalaa, kasviksia ja makeita herkkuja ennen friteerausta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "italialainen", "taikina"],
+    "ingredients": [
+      "55 g mannasuurimoita tai durumjauhoa",
+      "2 munaa, keltuaiset ja valkuaiset erotettuina",
+      "suolaa",
+      "55 g voita tai oliiviöljyä, sulatettuna",
+      "2,4 dl vettä"
+    ],
+    "instructions": [
+      "Sekoita mannasuurimot, keltuaiset, hieman suolaa ja voisula.",
+      "Lisää vesi niin, että seoksesta tulee juokseva.",
+      "Vatkaa valkuaiset pehmeäksi vaahdoksi ja sekoita varovasti taikinaan."
+    ],
+    "notes": ["Lihalle tai kasviksille lisää muutama tippa etikkaa tai hieman sitruunamehua."]
+  },
+  { "id": "wikibooks-pasta-romanov", "skip": "liian puutteellinen (määrät puuttuvat)" },
+  { "id": "wikibooks-pasta-salad-with-chicken", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-pasta-soup-for-kids",
+    "title": "Pastakeitto lapsille",
+    "description": "Kasvislientä, pieniä kasviskuutioita, tofua ja pientä pastaa – sopii lapsille pienissä kulhoissa.",
+    "servings": 6,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "pasta", "lapsille"],
+    "ingredients": [
+      "1 l kasvislientä",
+      "1,2 dl porkkanaa, pieninä kuutioina",
+      "1,2 dl kesäkurpitsaa, kuutioituna",
+      "1,2 dl keltaista kesäkurpitsaa, kuutioituna",
+      "1,2 dl baby-maissia, 6 mm:n paloina (tai ½ dl pakastemaissia)",
+      "1,2 dl pieniä herneitä (pakaste)",
+      "1,2 dl kiinteää tofua, hienonnettuna",
+      "2,5–3,5 dl keitettyä pientä pastaa"
+    ],
+    "instructions": [
+      "Kuumenna liemi kiehuvaksi keskikokoisessa kattilassa.",
+      "Lisää porkkana ja laske lämpö hauduttavaksi.",
+      "Keitä 5 minuuttia tai kunnes porkkanat ovat juuri pehmeitä.",
+      "Lisää kesäkurpitsat ja maissi.",
+      "Hauduta 5 minuuttia ja sekoita sitten joukkoon herneet, tofu ja keitetty pasta.",
+      "Hauduta vielä pari minuuttia.",
+      "Tarjoa kuumana tai hyvin lämpimänä pienissä kulhoissa pienillä lusikoilla."
+    ],
+    "notes": [
+      "Käytä pientä pastaa (aakkoset, pienet renkaat, tähdet tai orzo), joka ilahduttaa lapsia.",
+      "Keitä pasta etukäteen ja säilytä vedessä jääkaapissa. Valuta hyvin ennen lisäämistä.",
+      "Pakastekasvikset voi lisätä pakastettuina."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-with-corn-and-tuna",
+    "title": "Pasta, maissi ja tonnikala",
+    "description": "Nopea pastaruoka, jossa tuorejuusto, maissi, tonnikala ja pesto sekoitetaan keitetyn pastan joukkoon. Sopii myös kylmänä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "400 g pastaa",
+      "400 g luonnollista tuorejuustoa",
+      "1 tlk (410 g) maissia",
+      "1 tlk tonnikalaa (samankokoinen kuin maissitölkki)",
+      "3 tl pestoa",
+      "hieman mustapippuria",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Keitä pasta runsaassa vedessä, johon on lisätty vähän suolaa ja tippa oliiviöljyä.",
+      "Sekoita kaikki muut ainekset kulhossa.",
+      "Kun pasta on kypsää, valuta ja lisää kulhoon.",
+      "Sekoita, jotta kaikki peittyy tasaisesti.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Sopii myös kylmänä pastasalaattina."]
+  },
+  {
+    "id": "wikibooks-pasta-with-hot-dogs",
+    "title": "Pasta-nakkivuoka",
+    "description": "Pasta ja nakit uunissa munamaitoseoksessa, purjolla ja paprikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "200 g pastaa",
+      "300 g nakkeja, pilkottuna",
+      "1 purjo, hienonnettuna",
+      "1 punainen paprika, hienonnettuna",
+      "350 g maissia (valinnainen)",
+      "4 munaa",
+      "2 dl maitoa",
+      "1 tl suolaa",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan ja valuta.",
+      "Sekoita pasta, nakit, purjo, paprika ja maissi uunivuoassa.",
+      "Vatkaa munat ja maito yhteen ja mausta suolalla ja pippurilla.",
+      "Kaada munaseos muiden ainesten päälle ja paista uunissa 200–225 asteessa 25–35 minuuttia."
+    ],
+    "notes": ["Tuoreelle pastalle tarvitaan kaksinkertainen määrä."]
+  },
+  {
+    "id": "wikibooks-pasta-with-pancetta-and-cauliflower",
+    "title": "Pasta, pancetta ja kukkakaali",
+    "description": "Pasta pancettan, kukkakaalin ja tomaattien kera, kermaisena munankeltuais-pecorinoseoksessa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "italialainen"],
+    "ingredients": [
+      "450 g pastaa",
+      "170 g pancettaa, pieninä kuutioina",
+      "1 kukkakaali (n. 500 g), kukinnoiksi pilkottuna",
+      "4 valkosipulinkynttä, ohuesti viipaloituna",
+      "1 tlk (400 g) tomaattimurskaa, valutettuna",
+      "chilihiutaleita",
+      "3 munankeltuaista",
+      "1 dl raastettua pecorino romanoa",
+      "hienonnettua persiljaa",
+      "lisää raastettua pecorino romanoa",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Kuumenna 4 litraa vettä kiehuvaksi. Lisää kukkakaali ja keitä 4 minuuttia. Siirrä kukkakaali jääveteen, mutta älä kaada keitinvettä pois.",
+      "Kuumenna 2 rkl oliiviöljyä isossa pannussa keskikorkealla lämmöllä. Lisää pancetta ja ala ruskistaa.",
+      "Kun pancetta alkaa ruskistua, lisää pasta kiehuvaan veteen.",
+      "Kun pancetta on lähes kokonaan ruskistunut, laske lämpö keskilämmölle ja lisää valkosipuli ja chilihiutaleet. Kuullota, kunnes valkosipuli alkaa kullertaa, ja lisää kukkakaali ja valutetut tomaatit ja sekoita lämpimiksi. Lisää ½ dl pastavettä sekä suola ja pippuri.",
+      "Vatkaa pastan viimeistellessä keltuaiset, juusto, suola ja pippuri tasaiseksi.",
+      "Kun pastan al dente -aikaan on noin 2 minuuttia, valuta se.",
+      "Laske kastikkeen lämpö pieneksi, lisää pasta kastikkeeseen ja sekoita. Kaada keltuaisseos pastan päälle ja sekoita nopeasti niin, että keltuaiset peittävät pastan (ne eivät saa munakokkelottua).",
+      "Kun pasta on lämmintä, siirrä tarjoilukulhoon tai annoslautasille ja koristele persiljalla ja lisäjuustolla."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-with-red-pepper-and-goat-cheese",
+    "title": "Pasta punaisella paprikalla ja vuohenjuustolla",
+    "description": "Kevyt pastakastike hauduttamalla kuorituista paprikoista, viinistä ja yrteistä, johon sulatetaan vuohenjuustoa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "juusto", "italialainen"],
+    "ingredients": [
+      "2 isoa punaista paprikaa",
+      "2 tl oliiviöljyä",
+      "½ dl punaviiniä",
+      "1–2 valkosipulinkynttä",
+      "basilikaa maun mukaan",
+      "oreganoa maun mukaan",
+      "115 g vuohenjuustoa",
+      "450 g pastaa",
+      "tabascoa maun mukaan"
+    ],
+    "instructions": [
+      "Kuori paprikat ja hienonna ne hienoksi tai soseuta.",
+      "Laita hienonnetut paprikat kattilaan ja peitä vedellä. Murskaa valkosipuli ja lisää.",
+      "Peitä kattila ja kuumenna hauduttavaksi. Sekoita joukkoon viini ja oliiviöljy.",
+      "Lisää basilika, oregano ja tabasco ja sekoita silloin tällöin hauduttaessa. Anna kastikkeen alkaa tiivistyä.",
+      "Keitä sillä välin pasta suolatussa vedessä. Kastikkeen tarvitsee hautua rauhassa.",
+      "Poista vuohenjuuston kuori, tarvitaan vain sisäosa.",
+      "Heti kun pasta ja kastike ovat valmiita, sekoita ne ja vuohenjuusto tarjoiluvuoassa. Tee se nopeasti, jotta juusto sulaa kastikkeeseen ja pastan päälle. Juuston sekoittaminen kastikkeeseen liedellä voi polttaa kastikkeen."
+    ],
+    "notes": ["Tabascon voi korvata soseuttamalla kuorittua tulista chiliä paprikan joukkoon.", "Kokeile lisätä balsamicoetikkaa viinin kanssa."]
+  },
+  { "id": "wikibooks-pasta-with-sausage", "skip": "epävarma kypsyys (raa'at makkarat keitetään vain 5 minuuttia)" },
+  {
+    "id": "wikibooks-pasta-with-vegetables",
+    "title": "Pasta ja tuoreet kasvikset",
+    "description": "Yksinkertainen spagetti, jonka joukkoon keitetään tomaatti ja kurkku ja lisätään sipuli ja pastakastike.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "¼ tl suolaa",
+      "150 g spagettia",
+      "2 tomaattia, pilkottuna",
+      "1 kurkku, pilkottuna",
+      "½ sipuli, hienonnettuna",
+      "1 rkl voita tai öljyä",
+      "3–5 rkl pastakastiketta tai ketsuppia"
+    ],
+    "instructions": [
+      "Kuumenna 2 litraa vettä kiehuvaksi suolan kanssa.",
+      "Lisää spagetti kiehuvaan veteen. Keitä 4 minuuttia.",
+      "Lisää pilkotut tomaatit ja kurkku kiehuvaan pastaan. Keitä vielä 5 minuuttia.",
+      "Valuta vesi, lisää voi tai öljy ja sekoita joukkoon hienonnettu sipuli.",
+      "Sekoita joukkoon kastike tai ketsuppi ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-pasta-meat-and-cheese-casserole-mostaccioli",
+    "title": "Mostaccioli-pastavuoka lihalla ja juustolla",
+    "description": "Pasta, jauheliha- ja makkarakastike sekä ricotta-parmesaanikerros uunivuoassa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "2,4 dl mostaccioli- tai penne-pastaa (keittämätöntä)",
+      "225 g naudan jauhelihaa",
+      "2 italialaista makkaraa, kuoret poistettuina",
+      "2 rkl hienonnettua sipulia",
+      "2 rkl hienonnettua vihreää paprikaa",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "2,4 dl tomaattimurskaa",
+      "85 g tomaattipyreetä",
+      "1,2 dl vettä",
+      "1 tl kuivattua basilikaa",
+      "½ rkl chilijauhetta",
+      "½ tl punaista pippuria",
+      "½ tl suolaa",
+      "½ tl kuivattua oreganoa",
+      "1 ripaus sokeria",
+      "1 ripaus mustapippuria",
+      "1 muna, kevyesti vatkattuna",
+      "225 g ricottaa",
+      "½ dl parmesaania"
+    ],
+    "instructions": [
+      "Keitä pasta al denteksi kiehuvassa suolavedessä. Valuta ja aseta sivuun.",
+      "Yhdistä jauheliha, makkarat, sipuli, paprika ja valkosipuli paistinpannussa. Paista lihaa murusteleiden, kunnes ruskeaa. Kaada rasva pois.",
+      "Lisää lihan joukkoon kaikki muut ainekset paitsi muna ja juustot. Kuumenna kiehuvaksi ja laske lämpö.",
+      "Peitä ja hauduta 15–20 minuuttia silloin tällöin sekoittaen.",
+      "Sekoita muna ja juustot. Kokoa sekoittamalla keitetty pasta lihakastikkeeseen. Nosta puolet voideltuun 1 litran uunivuokaan.",
+      "Levitä juustoseos tasaisesti päälle. Peitä loppu pastalla.",
+      "Paista peitettynä 175 asteessa 30–35 minuuttia, kunnes läpikypsää."
+    ]
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "wikibooks-onion-chutney",
+    "title": "Sipulichutney",
+    "description": "Eteläintialainen hapanimeläinen chutney, joka tarjotaan välipalojen ja aamiaisruokien kanssa, esimerkiksi masala dosan osana.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "chutney"],
+    "ingredients": [
+      "2 tl öljyä",
+      "2 rkl chana dalia (kuorittuja kikherneen halkaistuja jyviä)",
+      "2 punasipulia, karkeasti hienonnettuna",
+      "3 pala tuoretta kookosta (2,5 cm:n kuutio)",
+      "1 tl tamarindi-tahnaa",
+      "4–6 kuivattua punaista chiliä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy matalassa pannussa. Lisää chana dal ja paahda sekoittaen.",
+      "Lisää sipulit ja paista sekoittaen, kunnes ne ovat läpikuultavia ja reunat kullanruskeita. Sammuta lämpö ja anna jäähtyä hetki.",
+      "Soseuta sipuliseos, kookos, chilit, tamarindi ja suola tasaiseksi tahnaksi. Lisää tarvittaessa muutama tl vettä."
+    ]
+  },
+  {
+    "id": "wikibooks-onion-confit",
+    "title": "Sipulikonfit",
+    "description": "Hitaasti voissa haudutettu sipuli, joka sopii piiraiden täytteeksi tai kaalin kanssa pannulle.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 140,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "ranskalainen", "sipuli"],
+    "ingredients": [
+      "8 timjamin oksaa",
+      "2 persiljan oksaa",
+      "2 laakerinlehteä",
+      "½ tl mustapippurin jyviä",
+      "purjoa (valinnainen)",
+      "½ dl vettä",
+      "115 g suolatonta voita",
+      "3 isoa sipulia",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Kääri yrtit, laakerinlehdet ja pippurit harsoon ja sido keittiönarulla kimpuksi.",
+      "Kuori sipulit ja leikkaa 2,5 cm:n lohkoiksi sipulin syiden suuntaan.",
+      "Lämmitä vesi kattilassa, johon kaikki sipulit mahtuvat.",
+      "Sulata voi veteen ja sekoita emulsioksi. Lisää sipulit ja sekoita. Laske lämpö niin, että seos kuplii hiljalleen. Sipulit eivät saa ruskistua lainkaan.",
+      "Lisää yrttikimppu ja peitä kattila (leivinpaperikansi toimii hyvin).",
+      "Kypsennä 2 tuntia, kunnes sipulit ovat pehmeitä mutta eivät hajoa. Jos nestettä on liikaa, nosta lämpöä loppuvaiheessa.",
+      "Poista yrttikimppu ja anna jäähtyä huoneenlämpöiseksi.",
+      "Käytä tai säilytä jääkaapissa enintään viikko. Valuta neste ennen käyttöä (sen voi käyttää erikseen)."
+    ],
+    "notes": ["Maidoton: käytä voin sijaan margariinia tai öljyä."]
+  },
+  {
+    "id": "wikibooks-onion-dip",
+    "title": "Sipulidippi",
+    "description": "Tuoreempi ja maukkaampi versio kermaviili-sipulidipistä, jossa sipuli on ruskistettu ja liemikuutiolla maustettu.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "amerikkalainen"],
+    "ingredients": [
+      "½ sipuli, hienonnettuna",
+      "1 rkl rypsiöljyä",
+      "1 kasvisliemikuutio, murskattuna",
+      "½ dl vettä",
+      "2,4 dl kermaviiliä",
+      "½ tl sipulijauhetta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuullota sipulia pienessä kattilassa miedolla lämmöllä ripauksen suolaa ja pippuria kanssa läpikuultavaksi.",
+      "Nosta lämpöä ja paista kullanruskeaksi ja tahmeaksi massaksi.",
+      "Lisää vesi ja murskattu liemikuutio ja kiehauta, kunnes neste on sakeaa.",
+      "Ota pois liedeltä ja sekoita joukkoon kermaviili tasaiseksi.",
+      "Lisää sipulijauhe ja maista. Lisää tarvittaessa suolaa ja pippuria.",
+      "Jäähdytä jääkaapissa ennen tarjoilua."
+    ],
+    "notes": ["Tarjoa perunalastujen kanssa."]
+  },
+  { "id": "wikibooks-onion-pakoras", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-onion-rings",
+    "title": "Sipulirenkaat",
+    "description": "Maito-munaseoksessa liotetut ja jauhoihin pyöritetyt friteeratut sipulirenkaat.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["kasvis", "friteerattu", "amerikkalainen"],
+    "ingredients": [
+      "5 keskikokoista valkosipulia, renkaiksi viipaloituna",
+      "2,4 dl maitoa",
+      "3 munaa, vatkattuna",
+      "suolaa",
+      "5 dl vehnäjauhoja ja 1 tl leivinjauhetta (tai pannukakkujauhoseosta)",
+      "rypsiöljyä friteeraukseen",
+      "persiljaa koristeluun"
+    ],
+    "instructions": [
+      "Erottele sipuliviipaleet renkaiksi.",
+      "Sekoita maito, munat ja suola kulhossa.",
+      "Liota sipulirenkaita seoksessa 30 minuuttia.",
+      "Laita jauhot matalaan kulhoon.",
+      "Nosta renkaat maitoseoksesta ja pyöritä jauhoissa.",
+      "Friteeraa 190-asteisessa öljyssä kullanruskeiksi.",
+      "Nosta talouspaperille."
+    ],
+    "notes": ["Sipulileipä: pakkaa friteeratut renkaat löyhästi 20 x 10 cm:n leipävuokaan, paista 200 asteessa 10–15 minuuttia, käännä tarjoiluvadille ja koristele persiljalla."]
+  },
+  {
+    "id": "wikibooks-onion-salt",
+    "title": "Sipulisuola",
+    "description": "Kuivatusta sipulista ja suolasta tehty mauste, joka antaa sipulin makua ilman tuoretta sipulia.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["vegaaninen", "kasvis", "mauste"],
+    "ingredients": ["2,4 dl kuivattuja sipulihiutaleita", "1,2 dl suolaa"],
+    "instructions": [
+      "Laita sipulihiutaleet tehosekoittimeen tai monitoimikoneeseen.",
+      "Jauha hiutaleet hienoksi jauheeksi.",
+      "Sekoita sipulijauhe ja suola kulhossa tasaiseksi.",
+      "Säilytä ilmatiiviissä rasiassa viileässä ja kuivassa. Merkitse valmistuspäivä."
+    ],
+    "notes": ["Sipulin ja suolan suhdetta voi muuttaa maun mukaan."]
+  },
+  {
+    "id": "wikibooks-onion-soup",
+    "title": "Ranskalainen sipulikeitto",
+    "description": "Klassinen sipulikeitto, jossa kuullotettu sipuli haudutetaan lihaliemessä ja päälle sulatetaan gruyère-juustoa leipäviipaleen kanssa.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["ranskalainen", "keitto", "sipuli", "juusto"],
+    "ingredients": [
+      "7 dl sipulia, hienonnettuna",
+      "25 g voita",
+      "1 rkl vehnäjauhoja",
+      "1,5 l lihalientä (tai kana- tai kasvislientä)",
+      "1 yrttikimppu (laakerinlehti, tuoretta timjamia ja provencen yrttejä)",
+      "6 viipaletta kuivahtanutta ranskanleipää (tai paahdettua tuoretta)",
+      "3 rkl punaista portviiniä",
+      "2,4 dl raastettua gruyère-juustoa",
+      "muskottipähkinää",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi isossa kattilassa. Lisää sipulit ja kuullota keskilämmöllä vaaleankullanruskeiksi ja läpikuultaviksi, mutta älä anna karamellisoitua tummiksi.",
+      "Lisää jauhot sipulien joukkoon. Sekoita varovasti 3–4 minuuttia. Kaavi pohjalle tarttunut ruskea kerros irti, se antaa keittoon makua.",
+      "Kaada ⅔ liemestä sipulien päälle ja sekoita. Lisää yrttikimppu. Kuumenna kiehuvaksi sekoittaen.",
+      "Mausta suolalla, pippurilla ja vähän muskotilla. Lisää loput liemestä ja hauduta 10–15 minuuttia.",
+      "Jos leipä on tuoretta, paahda se nyt miedolla lämmöllä.",
+      "Ota keitto liedeltä ja poista yrttikimppu. Lisää portviini ja sekoita.",
+      "Jaa keitto 6 uunin kestävään kulhoon. Paina leipäviipale kunkin keiton päälle. Ripottele runsaasti gruyèrea. Grillaa uunissa 10 minuuttia, kunnes juusto on sulanut ja ruskistunut.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Veden voi korvata lientä käytettäessä, mutta keitosta tulee mauttomampaa."]
+  },
+  { "id": "wikibooks-onunu-with-fish-sauce", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-opencola", "skip": "ei käytännöllinen kotiresepti (eteeriset öljyt, fosforihappo, kofeiinijauhe)" },
+  { "id": "wikibooks-ora-soup-i", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ora-soup-ii", "skip": "liian puutteellinen (ohje keskeneräinen)" },
+  {
+    "id": "wikibooks-orange-brule",
+    "title": "Appelsiinibrûlée",
+    "description": "Uunissa grillattuja appelsiinirenkaita fariinisokeri-kanelivoissa, jogurtin kanssa tarjoiltuna.",
+    "servings": 2,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "appelsiini", "nopea"],
+    "ingredients": [
+      "1 iso appelsiini",
+      "1 iso verappelsiini (Cara Cara) tai toinen appelsiini",
+      "1 rkl suolatonta voita, sulatettuna",
+      "2 rkl fariinisokeria",
+      "1 ripaus kanelia",
+      "vaniljajogurttia",
+      "minttua koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni grillivastukselle ja nosta ritilä toiseksi ylimmälle tasolle.",
+      "Leikkaa appelsiinien päät pois ja kuori ne veitsellä niin, ettei kitkerää valkoista kuorta jää.",
+      "Leikkaa kukin appelsiini poikittain kolmeen osaan ja aseta uunivuokaan.",
+      "Sekoita sulatettu voi ja fariinisokeri ja levitä appelsiinirenkaiden päälle.",
+      "Ripottele päälle kanelia.",
+      "Grillaa uunissa muutama minuutti, kunnes appelsiinit ovat kuumia ja pintaan tulee ruskeita läikkiä.",
+      "Asettele jalallisiin laseihin, valuta päälle paistoneste ja lisää kauha jogurttia ja mintunlehti."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-cardamom-pancakes",
+    "title": "Appelsiini-kardemummapannukakut",
+    "description": "Piimällä kohotetut amerikkalaiset pannukakut, joissa on appelsiininkuorta ja kardemummaa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "pannukakku", "amerikkalainen"],
+    "ingredients": [
+      "2,4 dl vehnäjauhoja",
+      "2 tl sokeria",
+      "½ tl suolaa",
+      "½ tl leivinjauhetta",
+      "¼ tl ruokasoodaa",
+      "1 tl hienoksi raastettua appelsiininkuorta",
+      "¼ tl jauhettua kardemummaa",
+      "1,8 dl piimää",
+      "½ dl maitoa",
+      "1 iso muna",
+      "2 rkl suolatonta voita, sulatettuna",
+      "1 tl vaniljauutetta",
+      "rypsiöljyä pannun voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna iso pinnoitettu paistinpannu tai paistolevy miedolla lämmöllä valmistellessasi aineksia.",
+      "Sekoita jauhot, sokeri, suola, leivinjauhe ja ruokasooda kulhossa.",
+      "Vispaa joukkoon appelsiininkuori ja kardemumma.",
+      "Lämmitä piimä ja maito mikrossa huoneenlämpöisiksi, 20–30 sekuntia.",
+      "Vispaa joukkoon muna, voi ja vanilja.",
+      "Lisää märät ainekset kuiviin ja vispaa vain sekaisin.",
+      "Lisää tarvittaessa tl tai kaksi vettä, jotta taikina on paksua mutta valuvaa.",
+      "Nosta lämpö keskiasentoon ja voitele pannu runsaasti öljyllä.",
+      "Kaada taikinaa noin ½ dl kerrallaan pannulle. Paista erissä.",
+      "Kun pohjat ovat kullanruskeat ja pinnalle nousee kuplia (2–3 minuuttia), käännä.",
+      "Paista kullanruskeiksi toiselta puolelta. Toista ja tarjoa kuumina."
+    ],
+    "notes": ["Maidon ja sitruunamehun (1 rkl) seoksen voi käyttää piimän tilalla."]
+  },
+  {
+    "id": "wikibooks-orange-chocolate-chip-muffins",
+    "title": "Appelsiini-suklaamuffinssit",
+    "description": "Appelsiinimehulla ja -kuorella maustetut muffinssit, joissa on maito- ja valkosuklaahippuja.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinssi", "suklaa", "appelsiini"],
+    "ingredients": [
+      "400 g itsestään kohoavia vehnäjauhoja",
+      "60 g voita",
+      "120 g sokeria",
+      "1,2 dl maitosuklaahiutaleita",
+      "1,2 dl valkosuklaahiutaleita",
+      "2 munaa, kevyesti vatkattuina",
+      "1,2 dl maitoa",
+      "1,2 dl appelsiinimehua",
+      "1 rkl appelsiininkuorta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Siivilöi jauhot kulhoon ja nypi voi joukkoon.",
+      "Lisää sokeri, suklaa, munat, maito, appelsiinimehu ja appelsiininkuori.",
+      "Sekoita hyvin.",
+      "Nostele kasaantuneita ruokalusikallisia taikinaa voideltuihin muffinssivuokiin.",
+      "Paista 15–20 minuuttia kypsiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-french-toast",
+    "title": "Appelsiiniranskanleipä",
+    "description": "Appelsiinimehulla ja ruokakermalla maustettu yön yli jääkaapissa imeytetty uunifrencht toast kanelileivästä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "uuniruoka", "appelsiini", "ranskanleipä"],
+    "ingredients": [
+      "6 munaa, kevyesti vatkattuina",
+      "1,8 dl appelsiinimehua",
+      "1,2 dl ruokakermaa",
+      "2 rkl sokeria",
+      "1 tl vaniljauutetta",
+      "½ tl raastettua appelsiininkuorta",
+      "8 paksua viipaletta kanelileipää",
+      "½ dl voita, sulatettuna"
+    ],
+    "instructions": [
+      "Sekoita matalassa kulhossa munat, appelsiinimehu, ruokakerma, sokeri, vanilja ja appelsiininkuori.",
+      "Kasta leipäviipaleiden molemmat puolet munaseokseen ja anna imeytyä 5 minuuttia.",
+      "Nosta voideltuun uunipannuun (noin 38 x 25 cm).",
+      "Peitä ja jäähdytä yön yli jääkaapissa.",
+      "Poista kansi ja valuta päälle voisula.",
+      "Paista 160 asteessa 35–40 minuuttia ruskeiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-julius",
+    "title": "Orange Julius – appelsiinimaitoshake",
+    "description": "Appelsiinimehutiivisteestä, maidosta ja jäistä sekoitettu vaahtoava juoma.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "appelsiini", "juoma"],
+    "ingredients": [
+      "1 tlk (180 ml) appelsiinimehutiivistettä",
+      "2,4 dl maitoa",
+      "2,4 dl vettä",
+      "½ dl sokeria (tai vähemmän maun mukaan)",
+      "1 tl vaniljauutetta",
+      "12 jääpalaa"
+    ],
+    "instructions": ["Laita kaikki ainekset tehosekoittimeen.", "Sekoita perusteellisesti ja tarjoa heti."]
+  },
+  {
+    "id": "wikibooks-orange-lemon-lime-soda-float",
+    "title": "Appelsiinijäätelöfloat",
+    "description": "Appelsiinimehusta ja vaniljajäätelöstä sekoitettu juoma, jonka päälle kaadetaan sitruunalimettilimonadia.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "juoma", "jäätelö"],
+    "ingredients": ["2,4 dl appelsiinimehua", "130 g vaniljajäätelöä", "2,4 dl sitruuna-limettilimonadia"],
+    "instructions": [
+      "Laita appelsiinimehu ja jäätelö tehosekoittimeen.",
+      "Sekoita tasaiseksi.",
+      "Sekoita joukkoon limonadi.",
+      "Kaada laseihin."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-sherbet-smoothie",
+    "title": "Appelsiinisorbettismoothie",
+    "description": "Appelsiinisorbetista, vaniljajäätelöstä ja limonadista sekoitettu makea juoma.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "juoma", "jäätelö"],
+    "ingredients": [
+      "2 ison kauhallista appelsiinisorbettia",
+      "1 iso kauhallinen vaniljajäätelöä",
+      "1,7 dl kolajuomaa",
+      "1 rkl suklaasiirappia",
+      "ripaus limettimehua",
+      "1 ripaus suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Sekoita, kunnes seos on niin ohutta, että sen voi kaataa lasiin.",
+      "Nauti lusikalla ja/tai pillillä."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-soda",
+    "title": "Kotitekoinen appelsiinilimonadi",
+    "description": "Nopea appelsiinisiirappi, joka sekoitetaan kylmään kivennäisveteen.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "kasvis", "juoma", "appelsiini"],
+    "ingredients": [
+      "5,6 dl vettä, haaleaa tai huoneenlämpöistä",
+      "625 g sokeria",
+      "28 g appelsiinimehutiivistettä tai -siirappia",
+      "kylmää kivennäisvettä (hiilihapollista)"
+    ],
+    "instructions": [
+      "Kaada vesi vähintään 2 litran kattilaan.",
+      "Lisää sokeri ja sekoita, kunnes se liukenee.",
+      "Lisää appelsiinitiiviste ja sekoita.",
+      "Kaada siirappi suppilolla tyhjään pulloon ja sulje korkki. Jäähdytä jääkaapissa kylmäksi.",
+      "Täytä lasi puoliksi kivennäisvedellä. Lisää siirappi pullosta ja sekoita."
+    ]
+  },
+  {
+    "id": "wikibooks-orange-glazed-sweet-potatoes",
+    "title": "Appelsiinilla kuorrutetut bataatit",
+    "description": "Uunissa appelsiinimehussa ja fariinisokerissa kypsytetyt bataattiviipaleet.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "bataatti"],
+    "ingredients": [
+      "450 g bataattia",
+      "1,8 dl appelsiinimehua",
+      "1,2 dl fariinisokeria, tiiviisti mitattuna",
+      "¼ rkl vehnänalkioita",
+      "1 rkl margariinia",
+      "2 rkl raastettua appelsiininkuorta",
+      "1 tl kanelia",
+      "¼ tl vastaraastettua muskottipähkinää"
+    ],
+    "instructions": [
+      "Viipaloi bataatit noin 3 mm:n paksuisiksi ja levitä tasaisesti 20 cm:n neliönmuotoiseen uunivuokaan.",
+      "Sekoita appelsiinimehu, fariinisokeri, vehnänalkiot, margariini, appelsiininkuori, kaneli ja muskotti kulhossa.",
+      "Kaada neste bataattien päälle.",
+      "Peitä vuoka foliolla tai kannella. Paista 175 asteessa 1 tunti, kunnes bataatit ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "wikibooks-oreo-milkshake",
+    "title": "Oreo-pirtelö",
+    "description": "Vaniljajäätelöstä, maidosta ja murskatuista Oreo-keksistä tehty paksu pirtelö.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "juoma", "jäätelö"],
+    "ingredients": ["5 dl vaniljajäätelöä", "2,5 dl maitoa", "6–8 Oreo-keksiä, murskattuna"],
+    "instructions": [
+      "Laita jäätelö kuppiin ja lisää vähän maitoa (paksumpaa) tai enemmän maitoa (ohuempaa).",
+      "Sekoita lusikalla tasaiseksi. Jos kuppi ei ole tarpeeksi täynnä, lisää jäätelöä ja maitoa.",
+      "Sekoita joukkoon Oreo-keksit.",
+      "Lisää päälle halutessasi suklaakuorrutetta tai kermavaahtoa ja koristerakeita."
+    ]
+  },
+  {
+    "id": "wikibooks-oreo-pie",
+    "title": "Oreo-jäätelöpiiras",
+    "description": "Jäätelöstä, vaahtokermasta ja murskatuista Oreo-keksistä pakastettu jäätelöpiirakka keksipohjalla.",
+    "servings": 18,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "jäätelö", "pakastettu", "amerikkalainen"],
+    "ingredients": [
+      "1,9 l vaniljajäätelöä",
+      "340 g vaahtokermaa (valmiiksi vatkattua tai kuohukerma vatkattuna)",
+      "1 pkt Oreo-keksejä",
+      "3 keksipiirakkapohjaa (mieluiten Graham-keksi- tai suklaapohja)"
+    ],
+    "instructions": [
+      "Anna jäätelön pehmetä sen verran, että sen voi levittää.",
+      "Sekoita pehmeä jäätelö ja vaahtokerma.",
+      "Murskaa Oreo-keksit laittamalla ne muovipussiin ja survomalla kaulimella.",
+      "Sekoita keksimurska jäätelöseokseen.",
+      "Levitä seos tasaisesti kolmeen piirakkapohjaan.",
+      "Pakasta vähintään 2 tuntia."
+    ],
+    "notes": ["Alkuperäisessä käytetään amerikkalaista Cool Whip -vaahtoa."]
+  },
+  {
+    "id": "wikibooks-original-texas-style-chili",
+    "title": "Texasilainen chili con carne",
+    "description": "Perinteinen texasilainen chili con carne, jossa ei ole lainkaan kasviksia chilin lisäksi. Liha haudutetaan pitkään ja sakeutetaan masa harinalla.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "texasilainen", "pata"],
+    "ingredients": [
+      "1,3 kg naudanlihaa tai muuta lihaa, pieninä paloina",
+      "55 g naudan munuaisrasvaa (valinnainen)",
+      "4 kuivattua chilipalkoa, liotettuina ja pilkottuina",
+      "1 rkl kuivattua oreganoa",
+      "1 rkl murskattuja juustokuminan siemeniä",
+      "1 rkl suolaa",
+      "1 tl cayennepippuria",
+      "1 rkl tabascoa (valinnainen)",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 kasaantunutta rkl masa harinaa (maissijauhoja)",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Ruskista liha vähässä öljyssä (ei laardissa) kevyesti.",
+      "Laita liha, rasva ja chilit isoon valurautapataan (vähintään 4 litraa) ja lisää vettä (chilien liotusvettä) sen verran, ettei liha pala pohjaan. Kuumenna kiehuvaksi, laske lämpö, peitä ja hauduta noin 30 minuuttia.",
+      "Ota pata liedeltä ja lisää mausteet ja valkosipuli. Palauta liedelle, kuumenna kiehuvaksi, laske lämpö ja hauduta vielä tunti kansi mahdollisimman paljon päällä. Sekoita tarvittaessa, mutta liiallinen sekoittaminen rikkoo lihan. Lisää tarvittaessa hieman vettä.",
+      "Ota pata liedeltä ja kuori pois rasva.",
+      "Sekoita joukkoon masa harina, joka sakeuttaa chilin ja antaa tamalen tyyppisen maun. Hauduta vielä noin 30 minuuttia, kunnes liha on kypsää. Maistele ja säädä mausteet."
+    ],
+    "notes": [
+      "Määriä voi muuttaa maun mukaan.",
+      "Sopivaa lihaa on kypsä naudan liha tai riistan liha, esimerkiksi paisti. Nuorta naudanlihaa tai vasikanlihaa ei kannata käyttää."
+    ]
+  },
+  { "id": "wikibooks-orunla-nigerian-okra-soup", "skip": "liian puutteellinen (määrät puuttuvat)" },
+  {
+    "id": "wikibooks-ossobuco-alla-milanese",
+    "title": "Ossobuco alla milanese",
+    "description": "Milanolainen klassikko: vasikan koivet haudutetaan lihaliemessä ja valkoviinissä uunissa niin mureiksi, että luuydin sulaa kastikkeeseen.",
+    "servings": 4,
+    "totalTimeMin": 165,
+    "category": "Pääruoat",
+    "tags": ["liha", "vasikka", "italialainen", "uuniruoka"],
+    "ingredients": [
+      "4 viipaletta vasikan takakoipea (2,5–4 cm paksuja)",
+      "1 sipuli, hienonnettuna",
+      "3 sellerinvartta lehtineen, hienonnettuna",
+      "1 porkkana, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 rkl voita",
+      "4 rkl rypsiöljyä",
+      "2,4 dl kuivaa valkoviiniä tai valkoista vermuttia",
+      "4,8 dl lihalientä",
+      "3 rkl tomaattipyreetä",
+      "6 sardellifileetä, survottuina",
+      "½ tl kuivattua timjamia",
+      "2–3 laakerinlehteä",
+      "2 suikaletta sitruunankuorta",
+      "suolaa",
+      "mustapippuria",
+      "vehnäjauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sido koipiviipaleet keskeltä keittiönarulla, ettei ne hajoa kypsyessään.",
+      "Valitse paksupohjainen, kannellinen pata tai valurautapata, johon koipipalat mahtuvat yhteen kerrokseen. Laita siihen voi, 2 rkl öljyä, sipuli, selleri ja porkkana ja kuullota keskilämmöllä pehmeiksi, noin 8 minuuttia. Lisää valkosipuli ja sitruunankuori ja kuullota vielä 2 minuuttia. Ota pois liedeltä.",
+      "Kuumenna sillä välin loppu öljy paistinpannulla lähes savuamispisteeseen. Pyöritä koipipalat kevyesti jauhoissa ja ruskista runsaasti molemmilta leikkuupinnoilta. Nosta pataan kasvisten päälle.",
+      "Kaada viini pannulle ja keitä puoleen irrottaen pohjan paistopinta. Kaada koipien päälle.",
+      "Kuumenna liemi pannulla kiehuvaksi ja vispaa joukkoon tomaattipyree ja sardellit. Lisää koipien joukkoon yrttien, pippurin ja suuren suolaripauksen kanssa. Nesteen tulisi peittää kolme neljäsosaa koivista. Lisää tarvittaessa vettä.",
+      "Kuumenna kiehuvaksi, peitä ja nosta uuniin. Kypsennä noin 2 tuntia, käännä ja valele koipia puolen tunnin välein. Jos neste haihtuu lähes kokonaan, lisää kuumaa vettä noin ½ dl kerrallaan. Liha on kypsää, kun se on haarukalla pehmeää ja irtoaa luusta.",
+      "Nosta koipipalat vadille, poista narut ja peitä pitääksesi lämpimänä. Jos kastike on vetinen (todennäköistä), keitä kovalla lämmöllä sakeaksi ja kermaiseksi. Kaada kastike koipien päälle ja tarjoa."
+    ],
+    "notes": [
+      "Sardellit rikastavat kastiketta eivätkä maistu kalalle, joten älä jätä niitä pois.",
+      "Perinteisesti päälle ripotellaan gremolataa: raastettua sitruunankuorta, hienonnettua valkosipulia ja persiljaa."
+    ]
+  }
+]

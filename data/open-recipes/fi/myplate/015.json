@@ -1,0 +1,623 @@
+[
+  {
+    "id": "myplate-four-layer-casserole",
+    "title": "Nelikerroksinen jauhelihavuoka",
+    "description": "Vuoan voi kypsentää uunissa tai kiireessä mikrossa. Käytä lempipakastekasviksia tai säilykekasviksia.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "peruna", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "4 perunaa",
+      "1 pkt (300 g) pakastekasvissekoitusta (tai vähäsuolaisia säilykekasviksia)",
+      "½ dl raastettua vähärasvaista juustoa (cheddar tai colby jack)",
+      "½ dl kevytmaitoa",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Ruskista jauheliha paistinpannulla.",
+      "Huuhtele lämpimällä vedellä ja valuta, jotta ylimääräinen rasva lähtee.",
+      "Harjaa perunat ja viipaloi ne kuorineen.",
+      "Laita perunat isoon uuni- tai kaseroolivuokaan.",
+      "Lisää päälle kasvikset, jauheliha ja juusto.",
+      "Kaada maito vuoan päälle.",
+      "Mausta halutessasi suolalla ja pippurilla.",
+      "Peitä kannella tai foliolla.",
+      "Paista 175 asteessa tunti tai kypsennä mikrossa metallittomassa vuoassa täydellä teholla 19–23 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-french-salad-dressing",
+    "title": "Ranskalainen salaatinkastike",
+    "description": "Makea ja hapan kastike salaatille tai kasvisdipiksi.",
+    "servings": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kastike", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "½ dl ketsuppia",
+      "1 tl sokeria",
+      "1 rkl etikkaa",
+      "½ tl paprikajauhetta",
+      "1 rkl sipulia, raastettuna",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kannelliseen purkkiin tai pulloon.",
+      "Sulje kansi.",
+      "Ravista hyvin.",
+      "Jäähdytä jääkaapissa vähintään tunti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-french-spinach-frittata",
+    "title": "Pinaatti-fetafrittata",
+    "description": "Kevätsipuli, pinaatti ja fetajuusto täydentävät uunissa kypsennetyn klassisen munaruoan. Fetan voi korvata cheddarilla, emmentalilla tai ricottalla.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "uuniruoka", "pinaatti"],
+    "ingredients": [
+      "8 kananmunaa",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "5 dl pinaattia, hienoksi pilkottuna (pakastepinaatti sulatettuna ja puristettuna)",
+      "4 kevätsipulia, ½ cm:n paloina",
+      "½ dl fetajuustoa, murennettuna",
+      "2 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sekoita munat, suola ja pippuri kulhossa haarukalla tasaiseksi.",
+      "Lisää kevätsipuli, pinaatti ja fetajuusto ja sekoita hyvin.",
+      "Kuumenna noin 20 cm:n uuninkestävä pannu keskilämmöllä ja lisää öljy.",
+      "Kaada munaseos pannulle ja siirrä varovasti uuniin.",
+      "Paista, kunnes muna on hyytynyt ja pinta kullanruskea, noin 30 minuuttia.",
+      "Tarjoile heti tai peitä ja jäähdytä yön yli."
+    ]
+  },
+  {
+    "id": "myplate-fresh-fruit-cinnamon-yogurt-dip",
+    "title": "Tuoreet hedelmät ja kanelijogurttidippi",
+    "description": "Vaniljajogurtti ja kaneli sopivat dipiksi suosikkihedelmille. Käytä vähärasvaista jogurttia.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "dippi", "nopea"],
+    "ingredients": [
+      "1 omena",
+      "1 banaani",
+      "1 appelsiini",
+      "½ dl appelsiinimehua",
+      "2½ dl vähärasvaista vaniljajogurttia",
+      "½ tl kanelia"
+    ],
+    "instructions": [
+      "Poista omenasta siemenkota ja viipaloi.",
+      "Viipaloi banaani ohuiksi rondelleiksi.",
+      "Kuori appelsiini ja jaa lohkoihin.",
+      "Kaada appelsiinimehu pieneen kulhoon.",
+      "Kastele hedelmäpalat mehussa, jotta ne eivät tummu.",
+      "Asettele lautaselle.",
+      "Sekoita jogurtti ja kaneli pienessä kulhossa.",
+      "Aseta kulho hedelmien viereen.",
+      "Käytä jogurttia hedelmien dippinä."
+    ]
+  },
+  {
+    "id": "myplate-fresh-salsa",
+    "title": "Tuore tomaattisalsa",
+    "description": "Tuoreet tomaatit, jalapeñot, korianteri, sipuli ja lime tekevät kevyen kesäisen salsan. Tarjoa kanan ja riisin kanssa.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "meksikolainen", "dippi", "nopea"],
+    "ingredients": [
+      "2 keskikokoista tomaattia, pilkottuna",
+      "½ sipulia, pilkottuna",
+      "3 jalapeñoa, hienonnettuna (siemenet voi poistaa)",
+      "½ dl tuoretta korianteria, hienonnettuna",
+      "¼ tl suolaa",
+      "1 limen mehu"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskikokoisessa kulhossa.",
+      "Tarjoile tai säilytä jääkaapissa kannellisessa muovi- tai lasirasiassa enintään kolme päivää."
+    ]
+  },
+  {
+    "id": "myplate-fresh-tomato-salsa",
+    "title": "Tomaatti-omenasalsa",
+    "description": "Raikas salsa sopii ruoan ja välipalan lisäksi salaatteihin, uunikalan ja tacojen kanssa.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "dippi", "nopea", "meksikolainen"],
+    "ingredients": [
+      "2½ dl tomaattia, hienoksi pilkottuna (tai ½ tlk (200 g) vähäsuolaisia tomaattipaloja)",
+      "1¼ dl omenaa, kuorittuna ja hienoksi pilkottuna",
+      "½ dl sipulia, hienonnettuna",
+      "2 rkl lime- tai sitruunamehua",
+      "1 tl valkosipulia, hienonnettuna",
+      "½ tl rypsiöljyä",
+      "¼ tl suolaa",
+      "1 tl tuoretta persiljaa tai korianteria, hienonnettuna (valinnainen)",
+      "1 rkl cayennepippuria tai jalapeñoa, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita keskikokoisessa kulhossa tomaatti, omena, sipuli ja limemehu (tai sitruunamehu).",
+      "Sekoita hyvin.",
+      "Lisää valkosipuli, öljy ja suola.",
+      "Lisää halutessasi persilja, korianteri, cayenne tai jalapeño.",
+      "Sekoita hyvin.",
+      "Peitä kulho ja jäähdytä 15 minuuttia.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-fresh-tomato-sauce",
+    "title": "Tuore tomaattikastike",
+    "description": "Tuoreet kasvikset ja yrtit keitetään maukkaaksi kastikkeeksi pastalle ja muille ruoille.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kastike", "pasta", "italialainen"],
+    "ingredients": [
+      "8 kypsää tomaattia",
+      "1 rkl rypsiöljyä",
+      "1¼ dl sipulia, hienonnettuna",
+      "1¼ dl vihreää paprikaa, hienonnettuna",
+      "½ dl porkkanaa, ohuina viipaleina tai raastettuna",
+      "2 tl valkosipulia, hienonnettuna (tai ½ tl valkosipulijauhetta)",
+      "½ tl kuivattua oreganoa",
+      "1 tl kuivattua basilikaa",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Pese tomaatit.",
+      "Leikkaa kannat pois.",
+      "Pilko tomaatit pieniksi paloiksi ja laita isoon kulhoon.",
+      "Kuumenna öljy isossa pannussa keskikovalla lämmöllä.",
+      "Lisää sipuli, paprika, porkkana ja valkosipuli.",
+      "Kypsennä pehmeiksi noin 3 minuuttia.",
+      "Lisää mausteet ja tomaatit.",
+      "Kuumenna kevyesti kiehuvaksi.",
+      "Laske lämpöä ja hauduta ilman kantta, kunnes tomaatit ovat muuttuneet kastikkeeksi, noin 40 minuuttia.",
+      "Tarjoile vastakeitetyn pastan päällä."
+    ]
+  },
+  {
+    "id": "myplate-fried-rice-chicken-vegetables",
+    "title": "Paistettu riisi kanalla ja kasviksilla",
+    "description": "Vähäsuolainen soijakastike ja valkosipulijauhe antavat makua tälle ruskean riisin, kasvisten ja kanan ruoalle.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "kiinalainen", "arkiruoka"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "7 dl keitettyä ruskeaa riisiä",
+      "1 porkkana, ½ cm:n viipaleina",
+      "½ paprikaa, pilkottuna",
+      "1¼ dl sipulia, pilkottuna",
+      "1¼ dl parsakaalia, pilkottuna",
+      "2 rkl vähäsuolaista soijakastiketta",
+      "½ tl mustapippuria",
+      "1 tl valkosipulijauhetta",
+      "2 kananmunaa, vatkattuna",
+      "1¾ dl kypsää kanaa, suupaloina"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla pannulla keskilämmöllä.",
+      "Lisää riisi ja sekoita 5 minuuttia.",
+      "Lisää porkkana, paprika, sipuli, parsakaali, soijakastike, pippuri ja valkosipulijauhe.",
+      "Kypsennä, kunnes kasvikset ovat pehmeitä.",
+      "Nosta seos pois pannulta.",
+      "Kaada munat pannulle ja sekoittele munakokkeliksi.",
+      "Palauta kasvis-riisiseos pannulle ja sekoita munan joukkoon.",
+      "Lisää kana ja kuumenna läpikotaisin.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-fried-rice",
+    "title": "Paistettu riisi kanalla ja kananmunalla",
+    "description": "Proteiinia, kasviksia ja täysjyvää sisältävä riisiruoka.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "kiinalainen", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä, jaettuna",
+      "2 kananmunaa, vatkattuna",
+      "8 dl keitettyä ruskeaa riisiä",
+      "2½ dl kypsää broilerin rintafilettä, pilkottuna (tai kinkkua tai porsasta)",
+      "2½ dl pakastekasvissekoitusta",
+      "2 kevätsipulia",
+      "soijakastiketta tai tulista kastiketta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna pannu.",
+      "Lisää 1 tl öljyä.",
+      "Lisää munat ja sekoita munakokkeliksi.",
+      "Nosta kypsä muna sivuun.",
+      "Lisää loput öljystä (2 tl) ja riisi pannulle.",
+      "Paista riisiä sekoittaen ja murenna möykyt painamalla riisiä pannun pohjaa vasten.",
+      "Lisää kypsä liha ja kasvikset.",
+      "Paista, kunnes kuumaa.",
+      "Lisää kevätsipuli, muna ja kastike maun mukaan.",
+      "Tarjoile kuumana. Peitä tähteet ja laita jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-frosted-cake",
+    "title": "Suklaakuorrutettu kakku",
+    "description": "Vanilja ja appelsiinin kuori tekevät tästä suklaakuorrutteisesta kakusta herkullisen. Tarjoa juhlissa.",
+    "servings": 16,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "juhla", "suklaa"],
+    "ingredients": [
+      "5½ dl vehnäjauhoja",
+      "2¼ tl leivinjauhetta",
+      "4 rkl pehmeää margariinia",
+      "3 dl sokeria",
+      "4 kananmunaa",
+      "1 tl vaniljauutetta",
+      "1 rkl appelsiininkuorta, raastettuna",
+      "1¾ dl rasvatonta maitoa",
+      "öljyä tai paistosprayta vuoan voiteluun",
+      "Kuorrute:",
+      "2 rkl rasvatonta maitoa",
+      "85 g vähärasvaista tuorejuustoa",
+      "6 rkl makeuttamatonta kaakaojauhetta",
+      "4¾ dl tomusokeria, siivilöitynä",
+      "½ tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 165 asteeseen. Voitele noin 25 cm:n pyöreä, vähintään 6 cm korkea vuoka ja jauhota se. Ravista ylimääräiset jauhot pois.",
+      "Siivilöi jauhot ja leivinjauhe yhteen.",
+      "Vatkaa toisessa kulhossa margariini ja sokeri pehmeäksi vaahdoksi.",
+      "Vatkaa joukkoon munat, vanilja ja appelsiininkuori.",
+      "Lisää jauhoseos vuorotellen maidon kanssa, aloittaen ja lopettaen jauhoilla.",
+      "Kaada taikina vuokaan.",
+      "Paista 40–45 minuuttia, kunnes kakku on kypsä.",
+      "Anna jäähtyä 5–10 minuuttia ennen kuin kumoat sen vuoasta. Jäähdytä kokonaan ennen kuorrutusta.",
+      "Kuorrute: vatkaa tuorejuusto ja maito sileäksi.",
+      "Lisää kaakao.",
+      "Sekoita hyvin.",
+      "Lisää tomusokeri vähitellen, kunnes kuorrute on sileää.",
+      "Sekoita joukkoon vanilja.",
+      "Levitä kuorrute jäähtyneen kakun pinnalle ja sivuille."
+    ]
+  },
+  {
+    "id": "myplate-frozen-banana-pops",
+    "title": "Jäädytetyt banaanitikut",
+    "description": "Lapset voivat viipaloida banaanit, kastaa ne appelsiini- tai sitruunamehuun ja pakastaa välipalaksi tai jälkiruoaksi.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "lapsille", "jäätelö"],
+    "ingredients": [
+      "2 kypsää banaania",
+      "2 rkl appelsiini- tai sitruunamehua",
+      "puutikkuja",
+      "alumiinifoliota"
+    ],
+    "instructions": [
+      "Kuori banaanit ja leikkaa ne poikki.",
+      "Työnnä puutikku jokaisen banaanipuolikkaan pohjaan.",
+      "Kastele banaanipuolikkaat mehussa.",
+      "Kääri foliolle ja pakasta vähintään kaksi tuntia."
+    ]
+  },
+  {
+    "id": "myplate-frozen-fruit-cups",
+    "title": "Pakastetut hedelmäkupit",
+    "description": "Tee oma yhdistelmä tuoreista, pakastetuista tai säilykehedelmistä. Sopii kesäpäivään.",
+    "servings": 18,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "jäätelö", "kesä"],
+    "ingredients": [
+      "3 keskikokoista banaania",
+      "680 g rasvatonta mansikkajogurttia",
+      "2½ dl pakastemansikoita, makeuttamattomia (sulatettuna nesteineen)",
+      "2½ dl ananassurvosta mehussa (säilyke, nesteineen)"
+    ],
+    "instructions": [
+      "Aseta 18 paperivuokaa muffinipeltiin.",
+      "Pilko tai muussaa banaanit isoon kulhoon.",
+      "Sekoita joukkoon loput ainekset.",
+      "Lusikoi vuokiin ja pakasta vähintään 3 tuntia, kunnes kiinteää.",
+      "Ota pakastetut kupit pois ja säilytä muovipussissa pakastimessa.",
+      "Ennen tarjoilua poista paperit ja anna seistä 10 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-frozen-fruit-pops",
+    "title": "Hedelmäjäätelötikut",
+    "description": "Hedelmää, mehua ja vähärasvaista jogurttia sisältävät jäädykkeet virkistävät kesäpäivänä.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "jäätelö", "kesä"],
+    "ingredients": [
+      "2½ dl ananassurvosta mehussa (säilyke)",
+      "2½ dl vähärasvaista hedelmäjogurttia",
+      "1¾ dl appelsiinimehutiivistettä, sulatettuna"
+    ],
+    "instructions": [
+      "Sekoita ainekset keskikokoisessa kulhossa.",
+      "Jaa 4 paperikuppiin.",
+      "Pakasta, kunnes seos on sosemaista, noin 60 minuuttia.",
+      "Työnnä puutikku puoliväliin kunkin jäädykkeen keskelle.",
+      "Pakasta kovaksi, vähintään 4 tuntia.",
+      "Kuori paperikuppi pois ennen syömistä."
+    ]
+  },
+  {
+    "id": "myplate-frozen-pear-pops",
+    "title": "Päärynäjäätelötikut",
+    "description": "Makeat päärynät, appelsiinimehu ja jogurtti ovat virkistävä välipala.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "jäätelö", "lapsille"],
+    "ingredients": [
+      "2½ dl säilöttyjä päärynöitä, valutettuna",
+      "2½ dl vähärasvaista jogurttia",
+      "1¾ dl appelsiinimehutiivistettä, sulatettuna",
+      "jääpalamuotti tai pieniä paperikuppeja",
+      "pillejä tai jäätelötikkuja"
+    ],
+    "instructions": [
+      "Pilko päärynät pieniksi paloiksi.",
+      "Lisää jogurtti ja appelsiinimehu päärynöihin ja sekoita hyvin.",
+      "Jaa 8 jääpalamuotin lokeroon (tai 4 pieneen paperikuppiin).",
+      "Aseta joukkoon pillinpätkät tai jäätelötikut.",
+      "Pakasta ja nauti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-and-peanut-butter-dip",
+    "title": "Hedelmät ja maapähkinävoidippi",
+    "description": "Jogurtista, maapähkinävoista ja vaniljasta tehty dippi lempihedelmille.",
+    "servings": 6,
+    "category": "Välipalat",
+    "tags": ["kasvis", "hedelmät", "dippi", "nopea"],
+    "ingredients": [
+      "2½ dl omenaviipaleita",
+      "2½ dl banaaniviipaleita",
+      "2½ dl päärynäviipaleita",
+      "2½ dl viinirypäleitä",
+      "2½ dl mansikoita",
+      "2½ dl meloniviipaleita",
+      "Dippi:",
+      "1¼ dl maustamatonta rasvatonta jogurttia",
+      "½ tl vaniljaa",
+      "¾ dl maapähkinävoita"
+    ],
+    "instructions": [
+      "Pese hedelmät ja viipaloi tarvittaessa.",
+      "Asettele hedelmät lautaselle pienen kulhon ympärille.",
+      "Sekoita dippiä varten jogurtti, vanilja ja maapähkinävoi pienessä kulhossa.",
+      "Sekoita hyvin.",
+      "Jäähdytä dippi jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-and-yogurt-breakfast-shake",
+    "title": "Hedelmä-jogurttismoothie",
+    "description": "Nopea ja helppo aamiainen, jonka voi tehdä mistä tahansa lempihedelmistä, etenkin sesongin aikaan.",
+    "servings": 2,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "aamiainen", "nopea"],
+    "ingredients": [
+      "1 keskikokoinen, hyvin kypsä banaani, kuorittuna",
+      "1¾ dl ananasmehua",
+      "1¼ dl vähärasvaista vaniljajogurttia",
+      "1¼ dl mansikoita, huuhdeltuna ja perattuna"
+    ],
+    "instructions": [
+      "Sekoita banaani, ananasmehu, jogurtti ja mansikat tehosekoittimessa.",
+      "Sekoita sileäksi.",
+      "Jaa kahteen lasiin ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-cole-slaw",
+    "title": "Hedelmäinen kaalisalaatti",
+    "description": "Hunaja ja etikka tuovat hapanimelää makua hedelmä-kaalisalaattiin.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "kaali", "hedelmät"],
+    "ingredients": [
+      "½ valkokaalia, suikaloituna (n. 2 l)",
+      "1 tlk (425 g) hedelmäcocktailia mehussa, valutettuna",
+      "2½ dl maustamatonta rasvatonta jogurttia",
+      "1 sitruuna, mehuna",
+      "1¼ dl hunajaa",
+      "½ dl etikkaa",
+      "1 banaani, viipaloituna",
+      "½ tl suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Suikaloi kaali.",
+      "Sekoita kaikki ainekset isossa kulhossa."
+    ]
+  },
+  {
+    "id": "myplate-fruit-compote",
+    "title": "Hedelmäkompotti",
+    "description": "Paksu ja makea mehukastike sekoitetaan hedelmien kanssa jälkiruoaksi.",
+    "servings": 5,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "kompotti", "gluteeniton"],
+    "ingredients": [
+      "1 tlk (225 g) ananaspaloja mehussa",
+      "3½ dl appelsiinimehua",
+      "1 rkl maissitärkkelystä",
+      "1 keskikokoinen banaani, kuorittuna ja viipaloituna",
+      "1 päärynä, kuutioituna",
+      "2 persikkaa, kuutioituna"
+    ],
+    "instructions": [
+      "Valuta ananaksen mehu pieneen kattilaan.",
+      "Sekoita joukkoon appelsiinimehu ja maissitärkkelys.",
+      "Sekoita sileäksi.",
+      "Kuumenna keskilämmöllä kiehuvaksi jatkuvasti sekoittaen.",
+      "Anna mehuseoksen jäähtyä huoneenlämpöiseksi.",
+      "Kuori ja viipaloi banaani sillä aikaa.",
+      "Pese päärynä ja persikat ja leikkaa kuutioiksi.",
+      "Kaada jäähtynyt mehuseos isoon kulhoon.",
+      "Lisää ananas, banaani, päärynä ja persikat.",
+      "Sekoita."
+    ]
+  },
+  {
+    "id": "myplate-fruit-crisp",
+    "title": "Omenapaistos kaura-täysjyväkuorrutteella",
+    "description": "Lievästi makeutetut omenat ja jauho-kaura-fariinisokerimuru uunissa kullanruskeaksi. Omenat voi korvata marjoilla, persikoilla tai muilla suosikeilla.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "omena", "uuniruoka", "kaura"],
+    "ingredients": [
+      "Täyte:",
+      "14 dl omenaa, kuorittuna ja kuutioituna",
+      "1 rkl täysjyvävehnäjauhoja",
+      "3 rkl sokeria",
+      "Kuorrute:",
+      "1¾ dl isoja kaurahiutaleita",
+      "3 rkl sokeria",
+      "1¾ dl täysjyvävehnäjauhoja",
+      "½ tl suolaa",
+      "½ dl fariinisokeria",
+      "¾ dl rypsiöljyä (tai sulatettua suolatonta voita)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele uunivuoka kevyesti voilla tai öljyllä.",
+      "Sekoita omenat, jauho ja sokeri täytteeksi.",
+      "Sekoita kuorrutetta varten kaurahiutaleet, täysjyvävehnäjauhot, sokeri, fariinisokeri ja suola.",
+      "Lisää öljy (tai voi) ja sekoita kuiviin aineisiin.",
+      "Levitä hedelmäseos vuokaan ja peitä muruseoksella.",
+      "Paista uunissa, kunnes hedelmät ovat pehmeitä ja pinta kullanruskea, noin 45 minuuttia.",
+      "Tarjoile heti tai peitä ja säilytä jääkaapissa enintään 2 päivää."
+    ]
+  },
+  {
+    "id": "myplate-fruit-dip",
+    "title": "Hedelmädippi",
+    "description": "Limemehu ja appelsiinitiiviste tekevät jogurttidipistä raikkaan ja makean. Tarjoa suosikkihedelmien kanssa.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "hedelmät", "dippi", "nopea"],
+    "ingredients": [
+      "2½ dl vähärasvaista vaniljajogurttia",
+      "1 rkl appelsiinimehutiivistettä, sulatettuna",
+      "1 rkl limemehua",
+      "1½ tl fariinisokeria",
+      "2 punaista omenaa, siemenkodat poistettuna ja viipaloituna",
+      "1 päärynä, siemenkota poistettuna ja viipaloituna",
+      "1 persikka, kivi poistettuna ja viipaloituna"
+    ],
+    "instructions": [
+      "Sekoita pienessä kulhossa jogurtti, appelsiinitiiviste, limemehu ja fariinisokeri.",
+      "Sekoita hyvin.",
+      "Aseta dippikulho isolle lautaselle ja asettele hedelmät sen ympärille."
+    ]
+  },
+  {
+    "id": "myplate-fruit-dippers",
+    "title": "Hedelmäpalat jogurtti-maapähkinäpäällysteessä",
+    "description": "Vain kolme ainesta ja kolme vaihetta – sopii lapsille ja aloitteleville kokeille.",
+    "servings": 4,
+    "category": "Välipalat",
+    "tags": ["kasvis", "hedelmät", "nopea", "lapsille"],
+    "ingredients": [
+      "1¼ dl vähärasvaista vaniljajogurttia",
+      "4¾ dl maapähkinöitä, hienonnettuna",
+      "4¾ dl hedelmiä (viinirypäleitä, banaaniviipaleita, omenalohkoja, mansikoita)"
+    ],
+    "instructions": [
+      "Sekoita jogurtti ja maapähkinät.",
+      "Sekoita lusikalla.",
+      "Työnnä hammastikku jokaisen hedelmäpalan keskelle.",
+      "Kasta hedelmä jogurtti-maapähkinäseokseen."
+    ]
+  },
+  {
+    "id": "myplate-fruit-feta-salad",
+    "title": "Hedelmä-fetasalaatti",
+    "description": "Erittäin nopea ja virkistävä salaatti meloneista ja fetasta. Hedelmät voi vaihtaa vapaasti, esimerkiksi viinirypäleisiin tai mangoon.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "kesä"],
+    "ingredients": [
+      "Vinegretti:",
+      "2 rkl balsamietikkaa",
+      "1½ rkl oliiviöljyä",
+      "ripaus mustapippuria",
+      "Salaatti:",
+      "4¾ dl vesimelonipaloja",
+      "4¾ dl cantaloupe-melonipaloja",
+      "½ dl punasipulia, ohuina viipaleina",
+      "14 dl tuoretta pinaattia tai rucolaa",
+      "1¼ dl vähärasvaista fetajuustoa, murennettuna",
+      "½ dl pinjansiemeniä"
+    ],
+    "instructions": [
+      "Vispaa vinegretin ainekset yhteen.",
+      "Sekoita muiden ainesten joukkoon ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-fruit-juice-slush",
+    "title": "Hedelmämehuslush",
+    "description": "Hedelmämehutiiviste, jää ja vesi tehosekoittimessa tekevät nopean ja virkistävän juoman lämpimälle päivälle.",
+    "servings": 6,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "slush", "kesä", "nopea"],
+    "ingredients": [
+      "3½ dl 100-prosenttista hedelmämehutiivistettä",
+      "3½ dl vettä",
+      "7 dl jäitä"
+    ],
+    "instructions": [
+      "Laita mehutiiviste, vesi ja puolet jäistä tehosekoittimeen.",
+      "Älä täytä sekoitinta yli ylärajan, jotta ei läikkyisi.",
+      "Sekoita ja lisää loput jäät vähitellen.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-fruit-kabob",
+    "title": "Hedelmävartaat",
+    "description": "Luova ja helppo tapa nauttia suosikkihedelmistä. Tarjoa vartaat jälkiruoaksi tai välipalaksi.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "nopea", "lapsille"],
+    "ingredients": [
+      "3½ dl banaaniviipaleita (n. 16 viipaletta)",
+      "3½ dl vesimelonikuutioita (n. 16 kuutiota)",
+      "2½ dl klementiinilohkoja (n. 16 lohkoa)"
+    ],
+    "instructions": [
+      "Pujota hedelmät vartaisiin vuorotellen haluamassasi järjestyksessä.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-kabobs-yogurt-dip",
+    "title": "Hedelmävartaat ja jogurttidippi",
+    "description": "Värikkäät hedelmävartaat ovat hauska välipala, jonka valmistukseen lapset voivat osallistua.",
+    "servings": 8,
+    "category": "Välipalat",
+    "tags": ["kasvis", "hedelmät", "dippi", "lapsille"],
+    "ingredients": [
+      "2½ dl vesimelonipaloja",
+      "2½ dl ananaspaloja",
+      "2½ dl siemenettömiä viinirypäleitä (punaisia tai vihreitä)",
+      "2½ dl mansikoita, perattuina",
+      "2 kiiviä, kuorittuna ja neljään osaan leikattuna",
+      "2½ dl vähärasvaista mansikkajogurttia",
+      "15 cm:n bambuvartaita"
+    ],
+    "instructions": [
+      "Pujota hedelmäpalat bambuvartaisiin.",
+      "Aseta vartaat tarjoiluvadille.",
+      "Kaada mansikkajogurtti kulhoon.",
+      "Tarjoile vartaat ja jogurtti sivuun."
+    ]
+  }
+]

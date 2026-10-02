@@ -1,0 +1,413 @@
+[
+  { "id": "wikibooks-oat-fufu", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-oat-milk-homemade",
+    "title": "Kotitekoinen kauramaito",
+    "description": "Helppo kauramaito kotona vain kaurahiutaleista ja vedestä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "kasvis", "nopea", "maidoton"],
+    "ingredients": ["1,2 dl kaurahiutaleita", "2 l vettä"],
+    "instructions": [
+      "Laita kaurahiutaleet tehosekoittimeen ja jauha mahdollisimman hienoksi jauheeksi.",
+      "Lisää veteen niin paljon kuin sekoittimeen mahtuu ja sekoita vielä.",
+      "Siivilöi seos kannuun ja lisää loput vedestä."
+    ],
+    "notes": [
+      "Sekoita maito ennen juomista.",
+      "Säilyy jääkaapissa vähintään viikon.",
+      "Siivilöidyn kaurasoseen voi käyttää puuron keittämiseen."
+    ]
+  },
+  {
+    "id": "wikibooks-oat-porridge",
+    "title": "Kaurapuuro",
+    "description": "Yksinkertainen puuro, joka keitetään kaurahiutaleista vedessä ja maidossa.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "puuro", "suomalainen", "nopea"],
+    "ingredients": ["½ dl (45 g) kaurahiutaleita tai muuta viljaa", "1,8 dl vettä", "1,8 dl maitoa"],
+    "instructions": [
+      "Sekoita kaurahiutaleet ja vesi kattilassa ja kuumenna kiehuvaksi kansi päällä.",
+      "Kun seos kuplii, sekoita ja laske lämpö pienimmälle, jotta puuro hautuu. Pidä kansi paikallaan ja varo, ettei puuro kiehu yli.",
+      "Sekoita noin minuutin välein. Viiden minuutin kuluttua ota kansi pois, sekoita huolellisesti ja lisää maito.",
+      "Sekoita tasaiseksi ja jatka sekoittamista, kunnes puuro on valmista.",
+      "Tarjoa ja lisää maun mukaan rusinoita, sokeria, fariinisokeria, vaahterasiirappia, ripaus suolaa tai hunajaa."
+    ],
+    "notes": [
+      "Kokonaiset jyvät kannattaa liottaa yön yli ja vaihtaa vesi. Kokonaiset kaurajyvät tarvitsevat silti 45–60 minuutin hauduttamisen, jyvähiutaleet 20–30 minuuttia.",
+      "Puuron voi keittää vedessä, maidossa tai niiden seoksessa. Vaihtoehtoisesti maidon voi korvata soijajuomalla."
+    ]
+  },
+  {
+    "id": "wikibooks-oat-rice",
+    "title": "Kauramaitoriisi",
+    "description": "Riisi keitetään veden sijaan kauramaidossa, jolloin siitä tulee ravitsevampaa ja makeahkoa.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "riisi"],
+    "ingredients": ["5 dl keittämätöntä riisiä", "8,5 dl kauramaitoa"],
+    "instructions": [
+      "Huuhtele riisi ja valuta.",
+      "Kaada kauramaito ja riisi kattilaan.",
+      "Kuumenna keskilämmöllä noin 5 minuuttia, kunnes pintaan nousee vaahtoa.",
+      "Sekoita lusikalla ja jatka sekoittamista, kunnes seos kiehuu.",
+      "Laske lämpö pieneksi ja hauduta sekoitellen, kunnes lähes kaikki neste on imeytynyt.",
+      "Ota liedeltä ja tarjoa."
+    ],
+    "notes": ["Kattilan pohjalle jää hieman kauramaitojäämiä.", "Sopii korvaamaan keitetyn riisin missä tahansa ruoassa."]
+  },
+  {
+    "id": "wikibooks-oaties",
+    "title": "Kaurapalat siirapilla",
+    "description": "Pehmeät brittiläiset kaurapalat, jotka paistetaan kakkuvuoassa ja leikataan lämpiminä paloiksi.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "brittiläinen", "kaura", "leivonnainen"],
+    "ingredients": [
+      "225 g itsestään kohoavia vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "225 g kaurahiutaleita",
+      "115 g sokeria",
+      "170 g tummaa siirappia",
+      "225 g voita tai margariinia"
+    ],
+    "instructions": [
+      "Laita voi, sokeri ja siirappi kattilaan. Kuumenna miedolla lämmöllä sekoittaen, kunnes rasva ja sokeri ovat sulaneet.",
+      "Lisää kaurahiutaleet, jauhot ja leivinjauhe ja sekoita tasaiseksi.",
+      "Painele taikina kahteen hyvin voideltuun 18 cm:n pyöreään kakkuvuokaan.",
+      "Paista uunin keskitasolla 180 asteessa 20–25 minuuttia, kunnes kypsä (testaa puikolla).",
+      "Merkitse paloiksi vielä lämpimänä.",
+      "Anna jäähtyä melkein kylmäksi vuoassa ennen irrottamista."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-banana-waffle",
+    "title": "Kaurabanaanivohvelit",
+    "description": "Kaurahiutaleista, vedestä ja banaanista sekoitetut vohvelit.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kaura", "vohveli", "banaani"],
+    "ingredients": [
+      "4,8 dl kaurahiutaleita",
+      "4,8 dl vettä",
+      "½ banaani",
+      "2 rkl maitojauhetta",
+      "2 rkl oliiviöljyä",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna vohveliraudan teho korkealle.",
+      "Laita kaikki ainekset tehosekoittimeen ja sekoita tasaiseksi. Anna taikinan levätä 10–15 minuuttia.",
+      "Voitele vohveliraudan pinta.",
+      "Kaada taikinaa vohveliraudalle ja paista noin 10 minuuttia. Toista, kunnes taikina on käytetty."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-chocolate-chip-cookies-i",
+    "title": "Kaurasuklaakeksit I",
+    "description": "Kaurahiutaleille suunnitellut suklaahippukeksit, joissa on kanelia ja saksanpähkinää.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "kaura", "amerikkalainen"],
+    "ingredients": [
+      "2 munaa",
+      "150 g leivontarasvaa",
+      "240 g fariinisokeria",
+      "2 rkl maitoa",
+      "vaniljauutetta",
+      "1 ripaus suolaa",
+      "350 g vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "1 tl kanelia",
+      "240 g kaurahiutaleita",
+      "60 g suklaahiutaleita",
+      "60 g saksanpähkinöitä"
+    ],
+    "instructions": [
+      "Vatkaa munat kulhossa kevyesti rikki ja sekoita joukkoon rasva, kunnes seos on löysää.",
+      "Sekoita joukkoon fariinisokeri, maito, vanilja ja suola.",
+      "Sekoita jauhot, leivinjauhe, sooda, kaneli ja kaurahiutaleet toisessa kulhossa.",
+      "Yhdistä märät ja kuivat ainekset pehmeäksi taikinaksi.",
+      "Lisää suklaahiutaleet ja saksanpähkinät.",
+      "Pyörittele taikinasta palloja ja nosta ne voidellulle tai leivinpaperilla vuoratulle pellille. Paista 180 asteessa 15–20 minuuttia."
+    ],
+    "notes": ["Suklaan ja pähkinöiden määrää voi muuttaa maun mukaan.", "Pyörittele pähkinät ja suklaa kevyesti jauhoissa ennen taikinaan lisäämistä."]
+  },
+  {
+    "id": "wikibooks-oatmeal-chocolate-chip-cookies-ii",
+    "title": "Kaurasuklaakeksit II (iso satsi)",
+    "description": "Iso satsi tahmeita kaurasuklaahippukeksejä, joiden taikinan tulee olla hyvin jäykkää.",
+    "servings": 10,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "kaura", "amerikkalainen"],
+    "ingredients": [
+      "340 g voita, huoneenlämpöistä",
+      "450 g fariinisokeria",
+      "2,4 dl sokeria",
+      "1,2 dl vettä",
+      "2 munaa",
+      "1 tl vaniljaa",
+      "4,8 dl vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "340 g suklaahiutaleita tai -rouhetta (puolimakeaa)",
+      "19 dl kaurahiutaleita"
+    ],
+    "instructions": [
+      "Vaahdota voi ja molemmat sokerit sähkövatkaimella tasaiseksi.",
+      "Sekoita vesi, munat ja vanilja erillisessä astiassa.",
+      "Vatkaa munaseos vähitellen voiseokseen tasaiseksi.",
+      "Sekoita jauhot ja sooda ja siivilöi voiseokseen. Sekoita taikinaksi.",
+      "Sekoita vahvalla lusikalla joukkoon suklaa ja 14,5 dl kaurahiutaleita.",
+      "Lisää loput kaurahiutaleet, kunnes taikina on jäykkää ja lähes murumaista.",
+      "Halutessasi jäähdytä taikina jääkaapissa leivontaan asti.",
+      "Nostele teelusikallisia taikinaa voidellulle tai leivinpaperilla vuoratulle pellille.",
+      "Paista 175 asteessa noin 10 minuuttia, kunnes keksiin työnnetty hammastikku tulee puhtaana ulos."
+    ],
+    "notes": [
+      "Koko ohjeen voi puolittaa.",
+      "Vanilja- ja soodamäärät ovat arvioita, joten niitä voi joutua säätämään.",
+      "Uunista ja pellistä riippuen lämpötilaa ja aikaa voi joutua säätämään.",
+      "Pidä taikina aina hyvin jäykkänä, jolloin keksit tulevat sitkeän pehmeiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-chocolate-chip-cookies-iii",
+    "title": "Kaurasuklaakeksit III",
+    "description": "Perinteiset sitkeät suklaahippukeksit, joissa on kaurahiutaleita antamassa purtavaa.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "kaura", "amerikkalainen"],
+    "ingredients": [
+      "115 g voita, pehmeää",
+      "¾ dl sokeria",
+      "1,2 dl fariinisokeria",
+      "1 muna",
+      "½ tl vaniljauutetta",
+      "½ tl suolaa",
+      "½ tl ruokasoodaa",
+      "3 dl vehnäjauhoja ja 2 rkl lisää",
+      "½ dl kaurahiutaleita",
+      "1,2 dl suklaahiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Vaahdota voi ja sokerit.",
+      "Lisää muna ja vanilja ja sekoita.",
+      "Lisää suola, sooda ja jauhot ja sekoita.",
+      "Sekoita joukkoon kaurahiutaleet ja sitten suklaahiutaleet.",
+      "Nostele taikina lusikalla voidellulle tai leivinpaperilla vuoratulle pellille.",
+      "Paista 190 asteessa 9–11 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-cookies-i",
+    "title": "Kaurakeksit I",
+    "description": "Maukkaat kaurakeksit, joita muistaa lapsuudesta.",
+    "servings": 20,
+    "totalTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "kaura", "amerikkalainen"],
+    "ingredients": [
+      "180 g leivontarasvaa",
+      "240 g fariinisokeria",
+      "120 g sokeria",
+      "1 muna",
+      "½ dl vettä",
+      "1 tl vaniljaa",
+      "700 g kaurahiutaleita",
+      "240 g vehnäjauhoja",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "2,4 dl rusinoita (valinnainen)"
+    ],
+    "instructions": [
+      "Vaahdota rasva, sokerit, muna, vesi ja vanilja vatkaimella vaaleaksi ja kuohkeaksi.",
+      "Sekoita kaurahiutaleet, jauhot, sooda ja suola toisessa kulhossa.",
+      "Lisää kuivat ainekset märkien joukkoon ja sekoita hyvin vatkaimella.",
+      "Lisää rusinat, jos käytät niitä.",
+      "Annostele taikina 20 osaan pellille.",
+      "Paista 180 asteessa 8–10 minuuttia."
+    ],
+    "notes": ["Parhaita vielä lämpiminä."]
+  },
+  {
+    "id": "wikibooks-oatmeal-cookies-ii",
+    "title": "Kaurakeksit II",
+    "description": "Hyvin yksinkertaiset kaurakeksit, joihin ei tarvita erikoisaineksia.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "keksi", "kaura"],
+    "ingredients": [
+      "1,8 dl rypsiöljyä",
+      "3,6 dl (300 g) fariinisokeria",
+      "¾ dl vettä",
+      "1 tl vaniljauutetta",
+      "275 g kaurahiutaleita",
+      "145 g vehnäjauhoja",
+      "1 tl suolaa",
+      "½ tl ruokasoodaa"
+    ],
+    "instructions": [
+      "Sekoita öljy, sokeri, vesi ja vanilja kulhossa hyvin.",
+      "Lisää kaurahiutaleet, jauhot, suola ja sooda.",
+      "Nostele taikina voidellulle pellille noin 2,5 cm:n kokoisina kasoina noin 7 cm:n välein.",
+      "Paista 190 asteessa 10–12 minuuttia. Tarjoa, kun keksit ovat alkaneet ruskistua."
+    ],
+    "notes": [
+      "Taikinaan voi lisätä ½ dl:n verran pähkinöitä, kuivattuja hedelmiä tai suklaahippuja. Taikina muuttuu silloin löysemmäksi.",
+      "Ylijäämätaikinan voi levittää ohueksi kerrokseksi pellille ja paistaa 4–5 minuutin välein kääntäen rapeaksi myslin.",
+      "Ohjeen voi helposti puolittaa tai tuplata."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-muffins",
+    "title": "Kauramuffinssit",
+    "description": "Pehmeät piimällä ja kookoksella maustetut kauramuffinssit aamiaiselle.",
+    "servings": 12,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "muffinssi", "kaura"],
+    "ingredients": [
+      "2,4 dl kaurahiutaleita",
+      "2,4 dl piimää",
+      "1 muna",
+      "½ dl margariinia, sulatettuna",
+      "2,4 dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "1,8 dl fariinisokeria",
+      "½ dl kookoshiutaleita"
+    ],
+    "instructions": [
+      "Sekoita kaurahiutaleet ja piimä kulhossa.",
+      "Sekoita jauhot, kookos, fariinisokeri, leivinjauhe, sooda ja suola toisessa kulhossa. Tee keskelle kuoppa.",
+      "Lisää muna ja margariini kaurahiutaleseokseen ja sekoita hyvin.",
+      "Kaada kerralla jauhoseokseen ja sekoita vain, kunnes ainekset ovat kostuneet.",
+      "Täytä muffinssivuoat ¾ täyteen.",
+      "Paista 200 asteessa 15–20 minuuttia."
+    ],
+    "notes": [
+      "Rusinamuffinssit: lisää 1 dl rusinoita.",
+      "Mustikkamuffinssit: jätä kookos pois ja lisää taikinaan 2,4 dl pakastemustikoita ennen vuokiin kaatamista."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-raisin-cookies",
+    "title": "Kaurarusinakeksit",
+    "description": "Kaurahiutaleista, rusinoista ja saksanpähkinöistä leivotut keksit.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "kaura", "amerikkalainen"],
+    "ingredients": [
+      "1,8 dl voita, omenasosetta, voin ja rypsiöljyn seosta tai leivontarasvaa",
+      "3 dl fariinisokeria, tiiviisti mitattuna",
+      "1 muna",
+      "¾ dl vettä tai maitoa",
+      "1½ tl vaniljaa",
+      "7 dl kaurahiutaleita",
+      "2,4 dl vehnäjauhoja",
+      "½ tl ruokasoodaa",
+      "½ tl suolaa",
+      "¼ tl kanelia",
+      "2,4 dl rusinoita",
+      "1,8 dl saksanpähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Voitele pelti kevyesti öljyllä, rasvalla tai voilla.",
+      "Vaahdota valitsemasi rasva, fariinisokeri, muna, maito ja vanilja sähkövatkaimella.",
+      "Sekoita kaurahiutaleet, jauhot, sooda, suola ja kaneli ja lisää rasvaseokseen. Sekoita vain tasaiseksi.",
+      "Lisää rusinat ja pähkinät.",
+      "Nostele pyöreitä ruokalusikallisia taikinaa voidellulle pellille noin 5 cm:n välein.",
+      "Paista 10–13 minuuttia, kunnes keksit ovat kevyesti ruskistuneet."
+    ]
+  },
+  {
+    "id": "wikibooks-oatmeal-stout-brownies",
+    "title": "Stout-browniet",
+    "description": "Tummaa suklaata ja kaurastout-olutta sisältävät browniet, joiden päällä on tuorejuustomarmorointi.",
+    "servings": 18,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "brownie", "suklaa", "amerikkalainen"],
+    "ingredients": [
+      "2,4 dl vehnäjauhoja",
+      "1,8 dl kaakaojauhetta",
+      "¼ tl suolaa",
+      "90 g voita, huoneenlämpöistä, kuutioituna",
+      "225 g tummaa suklaata, hienonnettuna",
+      "1,8 dl valkosuklaahiutaleita",
+      "4 isoa munaa, huoneenlämpöisiä",
+      "3,6 dl sokeria",
+      "3 dl kaurastout-olutta, huoneenlämpöistä",
+      "2,4 dl tummaa suklaata tai suklaahiutaleita",
+      "Tuorejuustokerros:",
+      "225 g tuorejuustoa, pehmeänä",
+      "¾ dl sokeria",
+      "½ tl vaniljauutetta",
+      "1 iso muna",
+      "tomusokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Vuoraa 23 x 33 cm:n uunipelti tai vuoka leivinpaperilla.",
+      "Sekoita jauhot, kaakao ja suola keskikokoisessa kulhossa. Aseta sivuun.",
+      "Sulata voi, tumma suklaa ja valkosuklaahiutaleet vesihauteessa hyvin miedolla lämmöllä jatkuvasti sekoittaen. Ota pois liedeltä.",
+      "Vatkaa munat ja sokeri isossa kulhossa kovalla nopeudella vaaleaksi ja kuohkeaksi, noin 3 minuuttia. Lisää sulatettu suklaaseos ja vatkaa sekaisin.",
+      "Vatkaa jauhoseos suklaaseokseen. Vatkaa joukkoon olut. Taikina on melko löysää. Kaada vuokaan. Ripottele suklaahiutaleet tasaisesti pinnalle.",
+      "Vatkaa tuorejuusto sähkövatkaimella keskinopeudella sileäksi. Lisää sokeri vähitellen. Lisää vanilja ja muna, vatkaa vain sekaisin.",
+      "Kaada tuorejuustoseos taikinan päälle ja vedä veitsellä muutaman kerran läpi marmoroiden.",
+      "Paista uunin keskitasolla 25–35 minuuttia, kunnes keskelle työnnetty hammastikku tulee lähes puhtaana ulos.",
+      "Anna jäähtyä huoneenlämpöiseksi. Ripottele halutessasi pinnalle tomusokeria."
+    ],
+    "notes": ["Riittää 18–24 palaan. Pienistä paloista saa 36–48 kpl."]
+  },
+  { "id": "wikibooks-obe-eja-kika-nigerian-smoked-fish-stew", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-obe-ishapa-nigerian-hibiscus-soup", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-obuwunga-ugandan-traditional-bread",
+    "title": "Obuwunga – ugandalainen höyrytetty leipä",
+    "description": "Hirssi- tai maissijauhoista höyrytetty yksinkertainen ja täyttävä leipä, jolla syödään pataruokia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "afrikkalainen", "höyrytetty"],
+    "ingredients": ["4,8 dl hirssijauhoja tai maissijauhoja", "½ tl suolaa", "vettä tarpeen mukaan", "banaaninlehtiä (valinnainen)"],
+    "instructions": [
+      "Sekoita jauhot ja suola kulhossa.",
+      "Lisää vettä vähitellen ja sekoita lusikalla tai puikolla sileäksi, paksuksi taikinaksi. Veden tarve vaihtelee, joten lisää vähitellen.",
+      "Muotoile taikinasta pyöreä tai soikea möykky ja tasoita pinta märillä käsillä.",
+      "Laita kattilaan vettä ja aseta pohjalle höyrytysritilä. Vaihtoehtoisesti vuoraa kattila banaaninlehdillä.",
+      "Nosta taikina ritilälle tai banaaninlehdille.",
+      "Peitä kannella ja höyrytä keskilämmöllä noin 30–40 minuuttia, kunnes leipä on kypsää ja kiinteää.",
+      "Ota leipä kattilasta ja anna jäähtyä hetki.",
+      "Tarjoa pataruokien kanssa ja kauho leivällä kastiketta."
+    ],
+    "notes": [
+      "Taikinan kiinteyttä voi säätää lisäämällä vettä tai jauhoja.",
+      "Leivän voi kypsentää myös suoraan kuumilla hiilillä tai kuumalla pannulla, jolloin se saa hieman savuisen maun.",
+      "Pehmeämpään rakenteeseen taikinaan voi lisätä hieman öljyä tai voita ennen höyryttämistä."
+    ]
+  },
+  { "id": "wikibooks-ofada-fried-rice", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofada-jollof-rice", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofada-rice", "skip": "liian puutteellinen (riisin määrä puuttuu)" },
+  { "id": "wikibooks-ofada-stew", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofada-vegetable-rice", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-akparata-nigerian-mahogany-seed-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-awa-nigerian-awa-leaf-soup", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-ofe-okporoko-stockfish-pepper-soup", "skip": "liian puutteellinen (ei määriä)" }
+]

@@ -1,0 +1,630 @@
+[
+  {
+    "id": "myplate-fruit-milk-shakes",
+    "title": "Hedelmämilkshake",
+    "description": "Hyvä tapa aloittaa päivä. Minuutti tehosekoittimessa ja olet valmis lähtemään.",
+    "servings": 2,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "aamiainen", "nopea"],
+    "ingredients": [
+      "2½ dl rasvatonta maitoa (tai vettä)",
+      "1¼ dl rasvatonta maitojauhetta",
+      "2 kypsää banaania (tai ¾ dl appelsiinimehutiivistettä)",
+      "½ tl vaniljaa",
+      "10 isoa jääpalaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset yhdessä tehosekoittimeen.",
+      "Sekoita 30 sekunnista minuuttiin."
+    ]
+  },
+  {
+    "id": "myplate-fruit-pizza-go",
+    "title": "Hedelmäpizza muffinilla",
+    "description": "Paahdettu täysjyväenglantilainen muffini, rasvaton tuorejuusto ja hedelmät muodostavat nopean aamiaisen tai välipalan.",
+    "servings": 1,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "nopea", "hedelmät", "lapsille"],
+    "ingredients": [
+      "1 täysjyväenglantilainen muffini",
+      "2 rkl vaahdotettua rasvatonta mansikkatuorejuustoa",
+      "2 mansikkaa, viipaloituna",
+      "2 viinirypälettä, viipaloituna",
+      "2 mandariinilohkoa"
+    ],
+    "instructions": [
+      "Paahda muffini kullanruskeaksi.",
+      "Levitä tuorejuusto paahdetulle muffinille.",
+      "Asettele mansikat, viinirypäleet ja appelsiinilohkot tuorejuuston päälle."
+    ]
+  },
+  {
+    "id": "myplate-fruit-pizza",
+    "title": "Hedelmäpizza",
+    "description": "Jälkiruoan keksipohja paistetaan uunissa ja päälle levitetään tuorejuustoseos ja mansikat. Hedelmiksi sopii mikä tahansa värikäs yhdistelmä.",
+    "servings": 12,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "leivonnainen", "juhla"],
+    "ingredients": [
+      "Keksipohja:",
+      "1¼ dl margariinia",
+      "1¼ dl sokeria",
+      "1 tl vaniljauutetta",
+      "1 kananmuna",
+      "4¾ dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "Tuorejuustotäyte:",
+      "225 g rasvatonta tuorejuustoa (tai kevyttä)",
+      "1¼ dl sokeria",
+      "1 tl vaniljauutetta",
+      "Päälle:",
+      "hedelmiä (esim. mansikoita)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Vaahdota pohjaa varten margariini, sokeri, vanilja ja muna kuohkeaksi.",
+      "Lisää jauhot ja leivinjauhe ja sekoita hyvin.",
+      "Levitä taikina noin 3 mm:n paksuudelta pizzapellille, uunipellille tai noin 23 x 33 cm:n vuokaan.",
+      "Paista 10–12 minuuttia, kunnes pinta on kevyesti ruskea.",
+      "Jäähdytä.",
+      "Sekoita täytettä varten tuorejuusto, sokeri ja vanilja.",
+      "Levitä täyte jäähtyneelle keksipohjalle.",
+      "Asettele hedelmät pizzan päälle.",
+      "Jäähdytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-salad-jicama",
+    "title": "Hedelmäsalaatti jicamalla",
+    "description": "Mango ja papaija tuovat trooppista makua ja chilijauhe potkua. Jicama antaa raikasta rapeutta.",
+    "servings": 7,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "hedelmät", "gluteeniton"],
+    "ingredients": [
+      "7 dl jicamaa, pieninä viipaleina",
+      "4¾ dl vesimelonia, paloiteltuna",
+      "1 mango",
+      "1 pieni papaija",
+      "1 limen mehu",
+      "2 kiiviä",
+      "1 tl lime- tai appelsiinimehua",
+      "¼ tl suolaa",
+      "¼ tl chilijauhetta"
+    ],
+    "instructions": [
+      "Pese, kuori ja leikkaa jicama ohuiksi viipaleiksi.",
+      "Pese, kuori ja leikkaa muut hedelmät viipaleiksi tai pieniksi paloiksi.",
+      "Asettele hedelmät isolle lautaselle.",
+      "Ripottele hedelmien päälle lime- tai appelsiinimehu.",
+      "Sekoita suola ja chilijauhe pienessä kulhossa.",
+      "Ripottele hedelmien päälle ja tarjoile.",
+      "Laita tähteet jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-fruit-salad-yogurt",
+    "title": "Hedelmäsalaatti jogurtilla",
+    "description": "Värikäs salaatti mansikoista, ananaksesta ja mustikoista ananasmehussa. Päälle vähärasvaista jogurttia ja mantelilastuja.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "salaatti", "nopea"],
+    "ingredients": [
+      "4¾ dl mansikoita, viipaloituna",
+      "2½ dl mustikoita, huuhdeltuna",
+      "2½ dl ananaspaloja (säilyke tai tuore)",
+      "3 rkl ananasmehua",
+      "4¾ dl maustamatonta vähärasvaista jogurttia",
+      "2 rkl mantelilastuja"
+    ],
+    "instructions": [
+      "Laita hedelmät isoon kulhoon ja sekoita ananasmehun kanssa.",
+      "Anna seistä huoneenlämmössä 15 minuuttia.",
+      "Laita 2½ dl hedelmäsalaattia pieneen kulhoon ja lisää päälle 1¼ dl jogurttia.",
+      "Ripottele jokaisen annoksen päälle mantelilastuja.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-salad",
+    "title": "Hedelmäsalaatti piña colada -jogurtilla",
+    "description": "Puolivalmis hedelmäsalaatti, jossa säilykehedelmäcocktail yhdistyy tuoreisiin hedelmiin ja jogurttiin.",
+    "servings": 14,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "salaatti", "nopea"],
+    "ingredients": [
+      "1 tlk (425 g) hedelmäcocktailia, valutettuna",
+      "2 banaania, viipaloituna",
+      "2 appelsiinia, suupaloiksi pilkottuna",
+      "2 omenaa, suupaloiksi pilkottuna",
+      "1 purkki (225 g) vähärasvaista piña colada -jogurttia (tai ananasjogurttia)"
+    ],
+    "instructions": [
+      "Sekoita hedelmät isossa kulhossa.",
+      "Lisää jogurtti ja sekoita hyvin.",
+      "Jäähdytä jääkaapissa ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-fruit-salsa",
+    "title": "Hedelmäsalsa",
+    "description": "Tavallisesta poikkeava salsa. Sopii myös isommille lapsille ja nuorille veitsitaitojen harjoitteluun.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "hedelmät", "dippi", "nopea"],
+    "ingredients": [
+      "2½ dl mansikoita, kuutioituna",
+      "1 banaani, kuutioituna",
+      "1 kiivi, kuorittuna ja kuutioituna",
+      "1 omena, siemenkota poistettuna ja kuutioituna",
+      "2 rkl sitruunamehua",
+      "½ dl sokeria",
+      "¼ tl muskottipähkinää",
+      "¼ tl kanelia"
+    ],
+    "instructions": [
+      "Sekoita hedelmät keskikokoisessa kulhossa ja lisää sitruunamehu.",
+      "Sekoita joukkoon sokeri, muskotti ja kaneli.",
+      "Sekoita hyvin.",
+      "Jäähdytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-slush",
+    "title": "Meloni-kiivislush",
+    "description": "Tarjoile juomana tai jälkiruokana ja säilytä tähteet jääkaapissa. Kaada jääpalojen päälle tarjoiltaessa.",
+    "servings": 4,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "hedelmät", "kesä", "gluteeniton"],
+    "ingredients": [
+      "7 dl cantaloupe- tai vesimelonia, karkeasti pilkottuna, siemenet ja kuori poistettuna",
+      "2 pientä kiiviä, karkeasti pilkottuna (valinnainen)",
+      "sokeria (valinnainen)",
+      "2 rkl limemehua",
+      "5 dl vettä",
+      "jäitä"
+    ],
+    "instructions": [
+      "Soseuta hedelmät ja limemehu sileäksi tehosekoittimessa.",
+      "Lisää halutessasi sokeria.",
+      "Sekoita hedelmäsose ja vesi isossa kannussa.",
+      "Hedelmälihan voi siivilöidä pois (valinnainen).",
+      "Peitä ja säilytä jääkaapissa enintään viikko.",
+      "Sekoita hyvin ja kaada pitkiin jäällä täytettyihin laseihin."
+    ]
+  },
+  {
+    "id": "myplate-fruit-smoothie-ii",
+    "title": "Mansikka-banaanismoothie",
+    "description": "Nopea ja helppo smoothie, jonka voi tehdä mistä tahansa pakastehedelmistä. Riittää neljälle.",
+    "servings": 4,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea", "marjat"],
+    "ingredients": [
+      "7 dl pakastemansikoita, makeuttamattomia (tai muita pakastehedelmiä)",
+      "5 dl kevytmaitoa",
+      "1 keskikokoinen banaani",
+      "2½ dl maustamatonta vähärasvaista jogurttia"
+    ],
+    "instructions": [
+      "Sulata pakastehedelmiä juuri sen verran, että ne sekoittuvat helposti.",
+      "Kaada maito tehosekoittimeen.",
+      "Lisää pakastehedelmäpalat maidon joukkoon.",
+      "Lisää banaani ja jogurtti.",
+      "Sekoita sileäksi, noin 30–45 sekuntia."
+    ]
+  },
+  {
+    "id": "myplate-fruit-smoothie",
+    "title": "Hedelmäsmoothie",
+    "description": "Kokeile eri hedelmiä ja mehuja tässä herkullisessa smoothiessa.",
+    "servings": 2,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "nopea", "hedelmät"],
+    "ingredients": [
+      "1 keskikokoinen banaani",
+      "2½ dl tuoreita persikoita (tai mansikoita)",
+      "1 purkki (225 g) vähärasvaista vaniljajogurttia",
+      "1¼ dl 100-prosenttista hedelmämehua"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Sekoita kovalla teholla sileäksi.",
+      "Kaada kahteen lasiin.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-fruit-snake",
+    "title": "Banaanikäärme",
+    "description": "Ilahduta perheen pienimpiä tällä söpöllä välipalalla aamupäivään tai koulun jälkeen.",
+    "servings": 2,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "hedelmät", "nopea", "lapsille"],
+    "ingredients": [
+      "2 keskikokoista banaania",
+      "4 rusinaa"
+    ],
+    "instructions": [
+      "Kuori banaani ja halkaise se pituussuunnassa voiveitsellä.",
+      "Aseta kaksi banaanipuolikasta päittäin pienelle lautaselle s-kirjaimen muotoon.",
+      "Laita rusinat banaanin päälle silmiksi.",
+      "Nauti banaanikäärme."
+    ]
+  },
+  {
+    "id": "myplate-fruit-sorbet",
+    "title": "Persikkasorbetti",
+    "description": "Raikas persikkasorbetti, jonka voi tehdä myös omalla makuyhdistelmällä.",
+    "servings": 7,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "jäätelö", "gluteeniton"],
+    "ingredients": [
+      "2 tlk (à 425 g) persikkaviipaleita 100-prosenttisessa mehussa",
+      "1 banaani, kuorittuna (valinnainen)"
+    ],
+    "instructions": [
+      "Pakasta persikkatölkit vähintään 3 tuntia (tölkit voi pakastaa myös yön yli, ne eivät räjähdä).",
+      "Ota ulos, kun sisältö on kokonaan jäätynyt.",
+      "Pidä jäisiä tölkkejä hetki kuuman veden alla tai anna seistä pöydällä 30 minuuttia, jotta sisältö irtoaa.",
+      "Ota hedelmät tölkeistä ja leikkaa terävällä veitsellä pieniksi paloiksi.",
+      "Jos käytät banaania, kuori ja viipaloi se. Banaania ei tarvitse pakastaa.",
+      "Laita jäiset, pilkotut hedelmät (ja banaani) tehosekoittimeen ja sekoita kermaiseksi.",
+      "Tarjoile heti.",
+      "Pakasta tähteet pakastusrasiassa tai pakastepussissa."
+    ]
+  },
+  {
+    "id": "myplate-fruit-yogurt-parfait",
+    "title": "Hedelmäjogurttiparfait",
+    "description": "Kerrostettuja viinirypäleitä, jogurttia, banaania ja murumysliä makeaksi ja rapeaksi välipalaksi.",
+    "servings": 1,
+    "category": "Välipalat",
+    "tags": ["kasvis", "jogurtti", "hedelmät", "nopea"],
+    "ingredients": [
+      "1¼ dl vähärasvaista hedelmäjogurttia",
+      "½ keskikokoista banaania",
+      "1¼ dl siemenettömiä viinirypäleitä",
+      "½ dl rapeaa myslia tai granolaa"
+    ],
+    "instructions": [
+      "Kuori ja viipaloi banaani.",
+      "Lusikoi viinirypäleet korkeaan kuppiin.",
+      "Lisää viinirypäleiden päälle 3 lusikallista jogurttia.",
+      "Lisää jogurtin päälle banaaniviipaleet.",
+      "Lisää loput jogurtista.",
+      "Ripottele päälle mysli."
+    ]
+  },
+  {
+    "id": "myplate-fruit-yogurt-pops",
+    "title": "Hedelmäjogurttijäätelötikut",
+    "description": "Hauska lämpimän sään herkku vain kahdesta aineksesta. Ei kypsennystä, leikkaamista tai erikoisvälineitä, joten lapset voivat tehdä itse.",
+    "servings": 14,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "jäätelö", "lapsille", "kesä"],
+    "ingredients": [
+      "1 purkki (225 g) vähärasvaista hedelmäjogurttia",
+      "6 dl viipaloituja pakastemansikoita, sulatettuna"
+    ],
+    "instructions": [
+      "Sekoita ainekset.",
+      "Kaada 1 dl:n paperikuppeihin.",
+      "Pakasta noin 30 minuuttia ja työnnä sitten puutikku kunkin kupin keskelle.",
+      "Pakasta yön yli kiinteiksi.",
+      "Kuori paperikuppi pois ennen syömistä."
+    ],
+    "notes": ["Kokeile muita hedelmäjogurtteja ja pakastehedelmiä tai hedelmämehutiivisteitä."]
+  },
+  {
+    "id": "myplate-fruity-homemade-oatmeal",
+    "title": "Omena-kaurapuuro",
+    "description": "Lämmin omena-kaneli-kaurapuuro sopii viileän aamun aloitukseksi.",
+    "servings": 2,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kaura", "puuro", "omena"],
+    "ingredients": [
+      "1 omena, siemenkota poistettuna ja pilkottuna",
+      "1 tl kanelia",
+      "2 rkl rusinoita tai korinttejä",
+      "1¾ dl isoja kaurahiutaleita",
+      "3½ dl vettä"
+    ],
+    "instructions": [
+      "Kuori omena kuorimaveitsellä.",
+      "Poista omenan siemenkota.",
+      "Pilko omena pieniksi paloiksi.",
+      "Laita vesi kattilaan.",
+      "Kuumenna vesi keskilämmöllä kiehuvaksi.",
+      "Sekoita joukkoon kaurahiutaleet, rusinat, omena ja kaneli.",
+      "Laske lämpö pieneksi.",
+      "Keitä 5 minuuttia usein sekoittaen."
+    ]
+  },
+  {
+    "id": "myplate-fruity-thai-pita-pockets",
+    "title": "Thaihenkiset hedelmäpitataskut",
+    "description": "Pirteytä eväsleipä: yllättävä yhdistelmä hedelmiä, pinaattia ja maapähkinäkastiketta kulkee helposti mukana pitataskussa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "eväät", "lounas", "thaimaalainen"],
+    "ingredients": [
+      "1 tlk (425 g) trooppista hedelmäsalaattia 100-prosenttisessa mehussa",
+      "4 täysjyväpitaleipää",
+      "9½ dl tuoretta pinaattia, revittynä",
+      "½ dl tuoretta korianteria (valinnainen)",
+      "Levite:",
+      "3 rkl hedelmäsalaatin mehua",
+      "1¼ dl maapähkinävoita (karkeaa)",
+      "3 rkl rasvatonta tuorejuustoa",
+      "1 rkl vähäsuolaista soijakastiketta"
+    ],
+    "instructions": [
+      "Valuta hedelmäsalaatti hyvin siivilässä kulhon päällä ja ota talteen 3 rkl mehua.",
+      "Vispaa pienessä kulhossa talteen otettu mehu, maapähkinävoi, tuorejuusto ja soijakastike.",
+      "Sekoita valutetut hedelmät, pinaatti ja korianteri kulhossa varovasti.",
+      "Lisää kastike ja sekoita.",
+      "Leikkaa jokaisesta pitaleivästä pieni siivu pois.",
+      "Aseta siivu pitataskun pohjalle.",
+      "Täytä pitataskut hedelmä-pinaattiseoksella.",
+      "Kääri jokainen erikseen kelmuun ja säilytä jääkaapissa. Säilyvät hyvin yön yli."
+    ]
+  },
+  {
+    "id": "myplate-fudgy-fruit",
+    "title": "Suklaahedelmät",
+    "description": "Hedelmiä, pähkinöitä ja suklaata – siinä kaikki.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "suklaa", "nopea"],
+    "ingredients": [
+      "2 rkl suklaaraetta (tai puolimaitosuklaata)",
+      "2 isoa banaania, kuorittuna ja neljään osaan leikattuna",
+      "8 isoa mansikkaa",
+      "½ dl suolattomia maapähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Laita suklaa pieneen mikrokestävään kulhoon.",
+      "Kuumenna täydellä teholla 10 sekuntia ja sekoita.",
+      "Toista, kunnes suklaa on sulanut, noin 30 sekuntia.",
+      "Aseta hedelmät pienelle tarjottimelle leivinpaperin päälle.",
+      "Valuta sulatettu suklaa lusikalla hedelmien päälle.",
+      "Ripottele päälle hienonnetut pähkinät.",
+      "Peitä hedelmät ja jäähdytä jääkaapissa 10 minuuttia tai kunnes suklaa kovettuu.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-full-beans-hot-dish",
+    "title": "Papuvuoka jauhelihalla",
+    "description": "Pavut voi laskea joko kasvikseksi tai proteiiniksi. Vuoka valmistuu nopeasti säilykepavuista, mutta onnistuu myös kuivatuilla pavuilla.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["liha", "palkokasvit", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa",
+      "1 iso sipuli, hienonnettuna",
+      "½ dl fariinisokeria",
+      "1¼ dl ketsuppia",
+      "2 rkl etikkaa",
+      "½ tl mustapippuria",
+      "2 tlk (à 400 g) vähäsuolaisia kidneypapuja",
+      "1 tlk (425 g) papuja tomaattikastikkeessa",
+      "2 tlk (à 400 g) vähäsuolaisia valkoisia papuja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Paista jauheliha ja sipuli.",
+      "Valuta rasva pois.",
+      "Lisää loput ainekset ja sekoita.",
+      "Laita uunivuokaan.",
+      "Paista uunissa 175 asteessa 30 minuuttia."
+    ],
+    "notes": ["Pavut: valuta kidney- ja valkoiset pavut tarvittaessa; papuja tomaattikastikkeessa ei valuteta."]
+  },
+  {
+    "id": "myplate-garden-barley-soup",
+    "title": "Ohra-kasviskeitto",
+    "description": "Lohdullinen kasviskeitto ohrasuurimoilla kylmälle tai sateiselle päivälle.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "ohra", "kasvikset"],
+    "ingredients": [
+      "1,4 l vähäsuolaista tomaattimehua",
+      "1 tlk (425 ml) vähäsuolaista naudanlientä (tai liemikuutio + vettä)",
+      "2½ dl ohrasuurimoita",
+      "½ dl sokeria",
+      "1 rkl worcestershirekastiketta",
+      "1 laakerinlehti",
+      "½ tl timjamia, tuoretta tai kuivattua, murennettuna",
+      "¼ tl suolaa (valinnainen)",
+      "5 dl kesäkurpitsaa, karkeasti pilkottuna",
+      "1 keskikokoinen tomaatti, pilkottuna",
+      "1¼ dl vihreää paprikaa, pilkottuna"
+    ],
+    "instructions": [
+      "Sekoita valurautapadassa tai isossa kattilassa tomaattimehu, lientä, ohrasuurimot, sokeri, worcestershirekastike, laakerinlehti, timjami ja suola.",
+      "Kuumenna kiehuvaksi ja laske lämpöä.",
+      "Peitä ja hauduta 1 tunti.",
+      "Lisää kesäkurpitsa, tomaatti ja paprika.",
+      "Kuumenna uudelleen kiehuvaksi ja laske lämpöä.",
+      "Peitä ja hauduta 15–20 minuuttia, kunnes kasvikset ja ohra ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-garden-cannellini-bean-salad",
+    "title": "Valkopapusalaatti kasviksilla",
+    "description": "Tomaatti, paprika ja kurkku yhdistyvät valkoisiin papuihin, manteleihin ja yksinkertaiseen vinegrettiin täyttäväksi salaatiksi.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit", "kasvikset"],
+    "ingredients": [
+      "Kastike:",
+      "1 rkl oliiviöljyä",
+      "2 tl valkoviinietikkaa",
+      "1¼ dl omenamehua",
+      "1 rkl suolatonta tomaatti-basilika-valkosipulimausteseosta",
+      "Papusalaatti:",
+      "1¼ dl mantelilastuja",
+      "2 tomaattia, karkeasti pilkottuna",
+      "½ keltaista paprikaa, pilkottuna",
+      "½ kurkkua, kuorittuna ja pilkottuna",
+      "3 kevätsipulia, viipaloituna",
+      "2 tlk (à 440 g) vähäsuolaisia cannellini-papuja (valkoisia papuja), valutettuina ja huuhdeltuina",
+      "isoja salaatinlehtiä"
+    ],
+    "instructions": [
+      "Vispaa kastikkeen ainekset pienessä kulhossa.",
+      "Paahda mantelilastuja pienellä pannulla kullanruskeiksi.",
+      "Nosta pannulta ja anna jäähtyä.",
+      "Sekoita keskikokoisessa kulhossa kastike ja kaikki ainekset salaatinlehtiä lukuun ottamatta.",
+      "Jäähdytä jääkaapissa tarjoiluun asti.",
+      "Tarjoile asettamalla salaatinlehdet lautasille ja nostamalla salaatti niiden päälle."
+    ]
+  },
+  {
+    "id": "myplate-garden-chili",
+    "title": "Kasvischili jauhelihalla",
+    "description": "Nopea ja helppo yhden pannun ruoka täynnä kasviksia ja mausteita. Lapset voivat osallistua pesemällä kasvikset.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["liha", "meksikolainen", "arkiruoka", "palkokasvit"],
+    "ingredients": [
+      "340 g vähärasvaista naudan jauhelihaa",
+      "1¼ dl vihreää paprikaa, pilkottuna",
+      "½ isoa sipulia, pilkottuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "1½ dl vähäsuolaisia kidneypapuja, valutettuna ja huuhdeltuna",
+      "1¼ dl maissia",
+      "1 pieni tlk (225 g) vähäsuolaista tomaattikastiketta tai tomaattisosetta",
+      "2½ dl tuoretta tomaattia, pilkottuna",
+      "ripaus mustapippuria",
+      "½ tl valkosipulijauhetta",
+      "2 tl chilijauhetta"
+    ],
+    "instructions": [
+      "Laita jauheliha paistinpannulle. Ruskista keskikovalla lämmöllä välillä sekoittaen ja murentaen.",
+      "Valuta rasva ja kuivaa liha talouspaperilla.",
+      "Siirrä liha siivilään ja huuhtele kuumalla vedellä, jotta rasva lähtee lisää.",
+      "Lisää paprika, sipuli ja selleri.",
+      "Kypsennä pehmeiksi.",
+      "Lisää pavut, maissi, tomaattikastike, tomaatit, pippuri, valkosipulijauhe ja chilijauhe.",
+      "Kypsennä seosta miedolla lämmöllä 20 minuuttia.",
+      "Tarjoile kuumana kulhoista.",
+      "Tai tarjoile dippinä uunitortillasipsien kanssa tai hampurilaissämpylässä.",
+      "Peitä tähteet ja laita jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-garden-frittata",
+    "title": "Kasvisfrittata",
+    "description": "Värikkäät kasvikset ja tuoreet munat muodostavat maukkaan ja ravitsevan yhden vuoan aterian aamiaiseksi, brunssiksi tai illalliseksi.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "kasvikset", "uuniruoka"],
+    "ingredients": [
+      "4 kananmunaa",
+      "¼ tl mustapippuria",
+      "¼ tl suolaa",
+      "2 keskikokoista punaista perunaa kuorineen",
+      "1 tl oliiviöljyä",
+      "1 l lehtikaalia (esim. toscanankaali)",
+      "½ dl sipulia, hienonnettuna",
+      "½ punaista paprikaa, pilkottuna"
+    ],
+    "instructions": [
+      "Vatkaa munat, pippuri ja suola isossa kulhossa ja laita sivuun.",
+      "Kypsennä perunat mikrossa hieman pehmeiksi, mutta ei täysin kypsiksi, ja kuutioi. (Vaihtoehto: kuutioi perunat ja keitä 5 minuuttia hieman pehmeiksi; valuta.) Pilko muut kasvikset perunoiden jäähtyessä.",
+      "Sekoita kasvikset keskenään.",
+      "Kuumenna öljy noin 25 cm:n pinnoitetulla pannulla.",
+      "Kuullota kasviksia 5–8 minuuttia ja lisää ne munien joukkoon. Sekoita hyvin.",
+      "Kaada muna-kasviseos samalle pannulle.",
+      "Kypsennä miedolla–keskilämmöllä, kunnes muna on lähes hyytynyt, noin 8–10 minuuttia.",
+      "Peitä ja anna seistä, kunnes muna on täysin hyytynyt, noin 5 minuuttia.",
+      "Munaruoka tulee kypsentää 70 asteen sisälämpöön."
+    ]
+  },
+  {
+    "id": "myplate-garden-orchard-salad",
+    "title": "Kasvis-omenasalaatti vaniljajogurtilla",
+    "description": "Tuoreet kasvikset, maapähkinät ja omena tekevät rapean salaatin, jota rasvaton vaniljajogurtti kermaistaa.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "omena", "nopea"],
+    "ingredients": [
+      "3½ dl parsakaalin nuppuja, karkeasti pilkottuna",
+      "1¼ dl porkkanaa, raastettuna",
+      "1¼ dl kukkakaalia, karkeasti pilkottuna",
+      "1¼ dl omenaa, kuutioituna kuorineen",
+      "½ dl kevätsipulia, viipaloituna",
+      "1¼ dl rasvatonta vaniljajogurttia",
+      "½ dl suolattomia paahdettuja maapähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset tarjoilukulhossa.",
+      "Peitä ja jäähdytä jääkaapissa vähintään 2 tuntia, jotta maut yhdistyvät.",
+      "Tarjoile kylmänä.",
+      "Peitä tähteet ja laita jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-garden-pan-bread",
+    "title": "Banaani-maissipannuleipä",
+    "description": "Banaani tekee leivästä mehevän ja lisää makua. Tarjoa salaatin tai pääruoan kanssa tai syö milloin vain.",
+    "servings": 4,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leipä", "banaani", "leivonnainen"],
+    "ingredients": [
+      "1¼ dl maissijauhoa",
+      "1¼ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "¼ tl suolaa",
+      "2 kypsää banaania, muussattuna",
+      "1¼ dl vettä",
+      "1 kananmuna",
+      "½ dl rusinoita",
+      "½ dl saksanpähkinöitä, hienonnettuna",
+      "öljyä tai paistosprayta vuoan voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Sekoita keskikokoisessa kulhossa maissijauho, vehnäjauho, leivinjauhe ja suola.",
+      "Laita sivuun.",
+      "Sekoita pienessä kulhossa banaanit, vesi ja muna.",
+      "Sekoita tasaiseksi.",
+      "Sekoita banaaniseos kuivien aineiden joukkoon.",
+      "Sekoita, kunnes kuivat aineet kostuvat.",
+      "Sekoita varovasti joukkoon rusinat ja saksanpähkinät.",
+      "Voitele keskikokoinen paistinpannu tai uunivuoka kevyesti.",
+      "Lusikoi taikina pannuun tai vuokaan.",
+      "Paista 18–20 minuuttia, kunnes leipä on kullanruskea ja irtoaa reunoista.",
+      "Puutikun tai haarukan tulee tulla puhtaana keskeltä.",
+      "Leikkaa neljään yhtä suureen viipaleeseen ja tarjoile kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-garden-pasta-salad",
+    "title": "Kasvispastasalaatti",
+    "description": "Viileä pastasalaatti sopii lounaan tai päivällisen lisäksi keiton tai voileivän kanssa.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "pasta", "salaatti", "nopea"],
+    "ingredients": [
+      "1¼ dl keitettyjä makaroneja",
+      "½ dl sipulia, hienonnettuna",
+      "1¼ dl kurkkua, hienonnettuna",
+      "½ dl vihreää paprikaa, kuutioituna",
+      "1 rkl etikkaa",
+      "½ rkl rypsiöljyä",
+      "¼ tl suolaa",
+      "¼ tl pippuria",
+      "1 tl persiljaa, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita keskikokoisessa kulhossa makaronit, sipuli, kurkku ja paprika.",
+      "Sekoita hyvin.",
+      "Sekoita erillisessä kulhossa etikka, öljy, suola ja pippuri.",
+      "Lisää persilja, jos käytät.",
+      "Kaada kastike pastan päälle.",
+      "Sekoita hyvin.",
+      "Peitä kulho ja jäähdytä jääkaapissa 30–45 minuuttia.",
+      "Tarjoile kylmänä."
+    ]
+  }
+]

@@ -1,0 +1,635 @@
+[
+  {
+    "id": "myplate-delicious-lentil-stew",
+    "title": "Linssipata",
+    "description": "Linssit kypsyvät nopeasti eikä niitä tarvitse liottaa. Täyttävä pata lounaaksi tai päivälliseksi.",
+    "servings": 8,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "2 rkl voita",
+      "2½ dl sipulia, hienonnettuna",
+      "1,4 l vettä",
+      "4½ dl kuivia linssejä, huuhdeltuna",
+      "1 tl worcestershirekastiketta",
+      "½ tl oreganoa",
+      "¼ tl valkosipulijauhetta",
+      "6 isoa porkkanaa, 1 cm:n paloina",
+      "8 varsiselleriä, pilkottuna",
+      "1 tl suolaa",
+      "1 tlk (400 g) kokonaisia tomaatteja, pilkottuna (tai 3–4 tuoretta tomaattia lohkoina)"
+    ],
+    "instructions": [
+      "Sulata voi isossa paistinpannussa tai kattilassa.",
+      "Kuullota sipuli pehmeäksi.",
+      "Lisää vesi, linssit, worcestershirekastike, oregano ja valkosipulijauhe.",
+      "Peitä ja kuumenna kiehuvaksi.",
+      "Laske lämpöä ja hauduta 45 minuuttia.",
+      "Lisää porkkanat, selleri ja suola.",
+      "Peitä ja hauduta vielä 30 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Lisää tomaatit, kuumenna läpikotaisin ja tarjoile."
+    ],
+    "notes": ["Voin voi korvata margariinilla."]
+  },
+  {
+    "id": "myplate-delicious-oven-french-fries",
+    "title": "Uuniranskalaiset",
+    "description": "Rapeat uuniperunat maustettuna valkopippurilla, maustepippurilla, valkosipuli- ja sipulijauheella.",
+    "servings": 5,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "2 isoa perunaa (n. 900 g)",
+      "2 l jääkylmää vettä",
+      "1 tl valkosipulijauhetta",
+      "1 tl sipulijauhetta",
+      "¼ tl suolaa",
+      "1 tl valkopippuria",
+      "¼ tl maustepippuria",
+      "1 tl chilihiutaleita",
+      "1 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Harjaa perunat ja leikkaa ne 1 cm:n paksuisiksi tikuiksi.",
+      "Laita perunatikut jääkylmään veteen, peitä ja jäähdytä jääkaapissa vähintään tunti.",
+      "Kuumenna uuni 245 asteeseen. Nosta perunat vedestä ja kuivaa ne huolellisesti.",
+      "Laita mausteet muovipussiin ja pyöräytä perunat mausteseoksessa.",
+      "Sivele perunat öljyllä ja levitä ne uunipellille tai matalaan vuokaan.",
+      "Peitä alumiinifoliolla ja paista kuumassa uunissa 15 minuuttia.",
+      "Poista folio ja paista vielä 15–20 minuuttia, kunnes perunat ovat kullanruskeita. Käännä välillä, jotta ne ruskistuvat joka puolelta."
+    ]
+  },
+  {
+    "id": "myplate-deviled-eggs",
+    "title": "Täytetyt kananmunat",
+    "description": "Juhlien ja pitojen suosikki, joka sopii myös proteiinipitoiseksi välipalaksi.",
+    "servings": 6,
+    "category": "Välipalat",
+    "tags": ["kasvis", "kananmuna", "juhla", "gluteeniton"],
+    "ingredients": [
+      "6 kananmunaa, kovaksi keitettynä ja kuorittuna",
+      "½ dl majoneesia",
+      "ripaus suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Keitä munat: laita ne kattilaan ja peitä vedellä. Kuumenna kiehuvaksi, laske lämpöä ja keitä 15 minuuttia.",
+      "Huuhtele heti kylmällä vedellä, jotta kypsyminen pysähtyy ja kuoret irtoavat helposti.",
+      "Säilytä kuoritut munat jääkaapissa käyttöön asti.",
+      "Halkaise munat pituussuunnassa ja poista keltuaiset. Säästä valkuaiset.",
+      "Laita keltuaiset pakastepussiin muiden ainesten kanssa (valkuaisia lukuun ottamatta), purista ilma pois ja sulje pussi.",
+      "Muussaa pussia painelemalla, kunnes seos on tasaista. Seoksen voi myös sekoittaa kulhossa tahnaksi.",
+      "Työnnä seos pussin kulmaan ja leikkaa kulmasta noin 1 cm pois.",
+      "Purista seos valkuaisten koloihin. Kulhossa tehdyn seoksen voi lusikoida koloihin.",
+      "Anna maun tasaantua kylmässä."
+    ]
+  },
+  {
+    "id": "myplate-dilled-fish-fillets",
+    "title": "Tillikalafileet",
+    "description": "Pakastekalafileistä saa nopean arki-illan kalaruoan.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "arkiruoka", "nopea", "gluteeniton"],
+    "ingredients": [
+      "450 g pakastettua koljaa tai turskafileetä",
+      "1 rkl sitruunamehua",
+      "ripaus kuivattua tilliä",
+      "ripaus suolaa",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata kala jääkaapissa yön yli tai mikrossa. Jaa 4 fileeksi tai palaksi.",
+      "Mikrovaihtoehto: laita kala lasivuokaan ja peitä leivinpaperilla. Kypsennä keskiteholla 3 minuuttia.",
+      "Poista peite, käännä kala ja ripottele päälle sitruunamehu ja mausteet. Peitä ja kypsennä keskiteholla vielä 3 minuuttia, kunnes kala hajoaa haarukalla.",
+      "Pannuvaihtoehto: laita kala kuumalle pannulle ja ripottele päälle sitruunamehu ja mausteet.",
+      "Peitä ja paista keskilämmöllä noin 5 minuuttia, kunnes kala hajoaa haarukalla."
+    ]
+  },
+  {
+    "id": "myplate-dirty-rice",
+    "title": "Likainen riisi",
+    "description": "Maukas riisiruoka naudan jauhelihalla, herneillä ja kidneypavuilla. Hyvä tapa käyttää tähteet; jauhelihan voi korvata kypsällä kanalla tai kinkulla.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "arkiruoka", "amerikkalainen"],
+    "ingredients": [
+      "1 kananmuna",
+      "1 rkl vettä",
+      "115 g naudan jauhelihaa",
+      "½ sipulia, hienonnettuna",
+      "½ vihreää paprikaa, pilkottuna",
+      "2 rkl rypsiöljyä",
+      "½ tlk (n. 200 g) herneitä, valutettuna",
+      "½ tlk (n. 200 g) kidneypapuja, valutettuna",
+      "10 dl keitettyä riisiä, kylmänä",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa muna ja vesi pienessä kulhossa. Laita sivuun.",
+      "Paista jauheliha, sipuli ja paprika öljyssä isolla pannulla keskilämmöllä noin 10 minuuttia.",
+      "Lisää munaseos ja sekoittele keskilämmöllä noin 5 minuuttia, kunnes muna hyytyy.",
+      "Lisää herneet ja pavut ja kypsennä noin 5 minuuttia.",
+      "Lisää riisi ja pippuri ja murenna riisimöykyt sekoittaen.",
+      "Kypsennä noin 5 minuuttia ja tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-dried-bananas",
+    "title": "Kuivatut banaanit",
+    "description": "Terveellinen ja rapea välipala, jota voi tehdä isomman erän etukäteen.",
+    "servings": 2,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "hedelmät", "gluteeniton"],
+    "ingredients": [
+      "1 banaani",
+      "sitrushedelmän mehua (sitruuna, lime, appelsiini tai ananas) tummumisen estämiseksi (valinnainen)",
+      "kanelia tai muita mausteita (valinnainen)"
+    ],
+    "instructions": [
+      "Viipaloi banaani 3–6 mm:n viipaleiksi. Kastele viipaleet halutessasi hedelmämehussa, jotta ne eivät tummu.",
+      "Ripottele päälle halutessasi kanelia tai muita mausteita.",
+      "Kuivata, kunnes viipaleet taipuvat kuin paksu nahka eivätkä tunnu enää tahmeilta.",
+      "Uunissa: aseta uuni pienimmälle mahdolliselle lämpötilalle (80–95 °C), mieluiten kiertoilmalle.",
+      "Levitä banaaniviipaleet yhteen kerrokseen jäähdytysritilälle tai uunipellille. Ritilällä kuivuminen on nopeampaa, pellillä viipaleet on käännettävä välillä.",
+      "Kuivuminen kestää uunissa 1–3 tuntia.",
+      "Kuivurissa: levitä viipaleet yhteen kerrokseen kuivurin ritilöille ja kuivaa 57 asteessa 6–12 tuntia.",
+      "Anna jäähtyä ja säilytä ilmatiiviissä rasiassa tai pussissa."
+    ]
+  },
+  {
+    "id": "myplate-drop-biscuits-better-baking-mix",
+    "skip": "ei täydellinen resepti (pohjana erillinen 'Better Baking Mix' -leivontaseos, jonka ohje puuttuu)"
+  },
+  {
+    "id": "myplate-dutch-apple-yogurt-dessert",
+    "title": "Omenajogurttijälkiruoka",
+    "description": "Viileä, raikas jogurtti yhdistyy omenasoseen ja mausteisiin sileäksi jälkiruoaksi tai välipalaksi.",
+    "servings": 2,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "jogurtti", "nopea"],
+    "ingredients": [
+      "1¼ dl rasvatonta vaniljajogurttia",
+      "1¼ dl makeuttamatonta omenasosetta",
+      "1 rkl siemenettömiä rusinoita",
+      "ripaus kanelia",
+      "1 tl fariinisokeria",
+      "1 rkl pähkinöitä tai rapeaa myslia päälle"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset pienessä kulhossa.",
+      "Peitä ja jäähdytä jääkaapissa.",
+      "Nauti välipalana tai jälkiruokana."
+    ]
+  },
+  {
+    "id": "myplate-dutch-green-beans",
+    "title": "Hollantilaiset vihreät pavut",
+    "description": "Säilykepavuista ja kaapin perusaineksista syntyy nopea lisuke. Sipuli lisätään lopuksi, jolloin maku on raikkaampi.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "nopea", "kasvikset"],
+    "ingredients": [
+      "1 tlk (400 g) vihreitä papuja",
+      "1 tl maissitärkkelystä",
+      "¾ dl etikkaa",
+      "½ dl fariinisokeria",
+      "1 pieni sipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Valuta pavut ja säästä purkin neste kulhoon.",
+      "Kaada 1,2 dl papujen nestettä kattilaan.",
+      "Sekoita joukkoon maissitärkkelys.",
+      "Lisää etikka ja fariinisokeri.",
+      "Kuumenna keskilämmöllä kiehuvaksi.",
+      "Laske lämpö pieneksi.",
+      "Lisää pavut ja sipuli.",
+      "Lämmitä ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-eagle-nest",
+    "title": "Kotkanpesä",
+    "description": "Lasten kiva ja helppo välipala persikasta, raejuustosta ja rusinoista.",
+    "servings": 1,
+    "category": "Välipalat",
+    "tags": ["kasvis", "hedelmät", "nopea", "lapsille"],
+    "ingredients": [
+      "2 säilöttyä persikanpuolikasta (omassa mehussa)",
+      "2 rkl vähärasvaista raejuustoa",
+      "1 rkl rusinoita"
+    ],
+    "instructions": [
+      "Aseta yksi persikanpuolikas leikkuupinta ylöspäin lautasen keskelle pesäksi.",
+      "Laita pesän keskelle 1 rkl raejuustoa.",
+      "Aseta rusinat raejuuston päälle munien jäljiksi.",
+      "Nauti kotkanpesä."
+    ]
+  },
+  {
+    "id": "myplate-easiest-banana-ice-cream",
+    "title": "Helpoin banaanijäätelö",
+    "description": "Ylikypsät banaanit kannattaa pakastaa ja tehosekoittaa kermaiseksi jäädykkeeksi.",
+    "servings": 3,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "jäätelö", "gluteeniton"],
+    "ingredients": [
+      "2–3 banaania (hyvin kypsiä)",
+      "3 rkl kevytmaitoa",
+      "suklaakastiketta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuori hyvin kypsät banaanit ja viipaloi ne keskikokoisiksi rondelleiksi.",
+      "Levitä pellille muovikelmun päälle ja pakasta yön yli.",
+      "Laita jäiset banaanit monitoimikoneeseen tai tehosekoittimeen pienen maitoroiskeen kanssa (enintään 6 rkl yhteensä).",
+      "Surauta, kunnes banaanit alkavat hajota pieniksi palloiksi.",
+      "Kaavi seos lastalla alas astian reunoilta.",
+      "Jatka koneen käyttöä, kunnes seos on sileää ja kermaista, mikä voi kestää muutaman minuutin.",
+      "Valmis jäätelö näyttää ja maistuu pehmytjäätelöltä.",
+      "Tarjoile jäätelötuutissa tai pienessä kulhossa. Päälle voi laittaa suklaakastiketta."
+    ]
+  },
+  {
+    "id": "myplate-easy-baked-acorn-squash",
+    "title": "Uunissa kypsennetty tammikurpitsa",
+    "description": "Makea ja pähkinäinen kurpitsa sopii hyvin lihan ja muiden pääruokien lisukkeeksi.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "kurpitsa", "gluteeniton"],
+    "ingredients": [
+      "2 tammikurpitsaa",
+      "4 rkl vaahterasiirappia tai hunajaa (suolaisempaan makuun ¼ tl mustapippuria puolikasta kohden)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Halkaise kurpitsat ja kaavi siemenet pois.",
+      "Kaada uunivuokaan noin 1 cm vettä.",
+      "Aseta kurpitsat vuokaan leikkuupinta ylöspäin. Jos ne keikkuvat, leikkaa pohjasta ohut siivu, jotta ne pysyvät tasaisesti.",
+      "Lisää jokaiseen puolikkaaseen 1 rkl siirappia tai hunajaa (tai pippuria suolaista versiota varten) ja levitä tasaisesti.",
+      "Paista noin tunti, kunnes malto on pehmeää.",
+      "Tarjoile lisukkeena lihan tai muun pääruoan kanssa."
+    ]
+  },
+  {
+    "id": "myplate-easy-beef-supper",
+    "title": "Helppo jauhelihapata",
+    "description": "Lounaisamerikkalaishenkinen jauhelihapata makaronilla ja kidneypavuilla. Tarjoa kasvisten kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "arkiruoka", "meksikolainen"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "1 pieni sipuli, pilkottuna",
+      "1 paprika, pilkottuna",
+      "2 tlk (à 400 g) tomaattipaloja, valutettuna",
+      "2½ dl makaronia, keittämätöntä",
+      "6 dl tomaattimehua",
+      "¼ tl mustapippuria",
+      "½ tl chilijauhetta",
+      "1 tl oreganoa (valinnainen)",
+      "1 tlk (400 g) kidneypapuja, valutettuna"
+    ],
+    "instructions": [
+      "Kypsennä jauheliha isossa pannussa keskilämmöllä 8–10 minuuttia.",
+      "Kaada rasva pois.",
+      "Lisää sipuli, paprika ja tomaatit ja kypsennä, kunnes sipuli on vaaleanruskeaa.",
+      "Laske lämpö miedoksi.",
+      "Lisää makaroni, tomaattimehu, mausteet ja pavut.",
+      "Sekoita hyvin.",
+      "Peitä ja hauduta noin 20 minuuttia.",
+      "Ota pannu liedeltä, sekoita ja tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-easy-mix-pizza-better-baking-mix",
+    "skip": "ei täydellinen resepti (pohjana erillinen 'Better Baking Mix' -leivontaseos, jonka ohje puuttuu)"
+  },
+  {
+    "id": "myplate-easy-oven-fish-spinach-basil-dipping-sauce-spiced-apples",
+    "title": "Uunikalatikut pinaatti-basilikadipillä ja mausteisilla omenoilla",
+    "description": "Klassinen lohturuoka moderniin tapaan: helpot uunikalatikut ja mausteiset omenat miellyttävät nirsoakin.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "lapsille", "omena"],
+    "ingredients": [
+      "Pinaatti-basilikadippi:",
+      "2½ dl pakastepinaattia, sulatettuna ja valutettuna",
+      "1¼ dl tuoretta basilikaa, hienonnettuna",
+      "1 valkosipulinkynsi",
+      "1¾ dl rasvatonta maustamatonta jogurttia",
+      "2 rkl etikkaa",
+      "2 tl hunajaa",
+      "Kalatikut:",
+      "paistosprayta tai öljyä pellin voiteluun",
+      "450 g pakastettua seitiä tai muuta valkoista kalaa (esim. kolja tai turska), osittain sulatettuna",
+      "1 dl vehnäjauhoja",
+      "2 kananmunan valkuaista, vatkattuina",
+      "1¾ dl korppujauhoja (täysjyvä, jos saatavilla)",
+      "2 rkl raastettua parmesaania",
+      "ripaus mustapippuria",
+      "Mausteiset omenat:",
+      "3 omenaa",
+      "1¼ dl rusinoita",
+      "½ dl pekaanipähkinöitä, hienonnettuna",
+      "½ tl kanelia",
+      "2 tl suolatonta voita"
+    ],
+    "instructions": [
+      "Aseta uuniritilä keskitasolle ja kuumenna uuni 230 asteeseen. Voitele uunipelti.",
+      "Tee dippi: sekoita kaikki dipin ainekset tehosekoittimessa tai monitoimikoneessa sileäksi.",
+      "Leikkaa kala 2,5 cm:n levyisiksi suikaleiksi (helpointa, kun kala on vielä osittain jäässä) ja aseta uunipellille.",
+      "Sekoita korppujauho, parmesaani ja pippuri matalassa astiassa. Laita jauhot ja valkuaiset omiin astioihinsa.",
+      "Kasta kalatikut ensin jauhoihin, sitten valkuaiseen ja lopuksi korppujauhoseokseen niin, että pinta peittyy tasaisesti.",
+      "Aseta kalatikut takaisin pellille tasaisin välein.",
+      "Paista noin 10–12 minuuttia, kunnes kala on kullanruskeaa ja sen sisälämpö on 63 astetta. Käännä tarvittaessa.",
+      "Leikkaa omenat neljään osaan, poista siemenkodat ja viipaloi lohkoiksi (noin 12 per omena).",
+      "Sekoita omenoihin rusinat, pekaanipähkinät ja kaneli.",
+      "Kuumenna voi keskikokoisessa kattilassa.",
+      "Lisää hedelmäseos.",
+      "Kuullota kevyesti 3–5 minuuttia.",
+      "Omenoiden tulee jäädä vielä hieman rapeiksi."
+    ]
+  },
+  {
+    "id": "myplate-easy-oven-packet-caribbean-tilapia-pears-and-carnival-roasted-potatoes",
+    "title": "Karibialaista tilapiaa ja päärynää uunipaketeissa sekä paahdetut perunat",
+    "description": "Maista Karibiaa: mausteiset kasvikset, tilapia ja päärynät kypsyvät vaivattomasti foliossa tai leivinpaperipaketeissa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "peruna", "karibialainen"],
+    "ingredients": [
+      "Paahdetut perunat:",
+      "2 pientä punaista perunaa",
+      "2 pientä keltaista perunaa",
+      "½ keltaista paprikaa, 2,5 cm:n paloina",
+      "2½ dl vihreitä papuja (tuoreita, pakaste- tai säilykepapuja)",
+      "1 luumutomaatti, lohkoina",
+      "2 rkl valkosipulia hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "½ tl juustokuminaa",
+      "¼ tl suolaa (valinnainen)",
+      "1 rkl oliiviöljyä",
+      "Tilapiapaketit:",
+      "450 g tilapiafileetä, tuoretta tai pakastettua (4 fileetä, à n. 115 g)",
+      "1 rkl suolatonta karibialaista sitrusmausteseosta",
+      "2 tl oliiviöljyä",
+      "3 keskikokoista päärynää",
+      "alumiinifoliota"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Harjaa perunat juoksevan veden alla ja leikkaa 2,5 cm:n paloiksi.",
+      "Sekoita isossa kulhossa perunat, muut kasvikset, mausteet ja oliiviöljy.",
+      "Levitä seos noin 2 litran uunivuokaan ja laita uuniin.",
+      "Paahda, kunnes perunat ja kasvikset ovat pehmeitä, 30–40 minuuttia.",
+      "Noin 15 minuuttia perunoiden jälkeen laita uuniin pelti kalapaketteineen: sivele kala oliiviöljyllä ja pyörittele mausteseoksessa.",
+      "Aseta jokainen fileepala foliosuikaleen (tai leivinpaperin) keskelle.",
+      "Leikkaa päärynät neljään osaan, poista siemenkodat ja viipaloi ohuiksi lohkoiksi (8–12 per päärynä). Aseta lohkot kalan päälle.",
+      "Nosta folio kalan ja hedelmien päälle.",
+      "Taita ja purista saumat kiinni.",
+      "Aseta paketit uunipellille.",
+      "Paista noin 20 minuuttia, kunnes kalan sisälämpö on 63 astetta ja hedelmät ovat pehmeitä.",
+      "Avaa paketit varovasti, liu'uta sisältö lautasille ja lisää paahdetut kasvikset."
+    ]
+  },
+  {
+    "id": "myplate-eating-smart-seasoning-mix",
+    "title": "Suolaton mausteseos",
+    "description": "Pidä tätä mausteseosta varastossa, kun haluat lisätä makua ilman suolaa.",
+    "servings": 10,
+    "category": "Muut",
+    "tags": ["kasvis", "mausteseos", "suolaton"],
+    "ingredients": [
+      "1¼ tl mustapippuria",
+      "1 rkl valkosipulijauhetta",
+      "2 rkl kuivattua persiljaa",
+      "1¾ dl kuivattua sipulisilppua",
+      "4¾ dl rasvatonta maitojauhetta"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskenään.",
+      "Säilytä ilmatiiviissä rasiassa.",
+      "Käytä resepteissä ohjeen mukaan."
+    ]
+  },
+  {
+    "id": "myplate-egg-foo-young",
+    "title": "Egg foo young -munakkaat",
+    "description": "Kiinalaistyyliset munapihvit kanalla tai naudalla ja kotitekoisella kastikkeella. Tarjoa täysjyväriisin ja salaatin kanssa.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["kana", "kananmuna", "kiinalainen", "arkiruoka"],
+    "ingredients": [
+      "2 kananmunaa",
+      "2½ dl soijantaimia",
+      "1¼ dl kypsää kanaa, kuutioituna (tai naudanlihaa)",
+      "1 tl kuivattua sipulisilppua",
+      "2½ dl tuoreita tai säilykesieniä",
+      "2 tl ruokaöljyä",
+      "Kastike:",
+      "1¼ dl vettä",
+      "2 tl vähäsuolaista soijakastiketta",
+      "2 tl maissitärkkelystä"
+    ],
+    "instructions": [
+      "Vatkaa munat sähkövatkaimella (tai käsin) paksuksi ja vaaleaksi vaahdoksi, noin 5 minuuttia.",
+      "Kääntele joukkoon soijantaimet, liha, sienet ja sipuli.",
+      "Kuumenna öljy paistinpannulla keskilämmöllä.",
+      "Kaada munaseos pannulle ½ dl:n erissä.",
+      "Ruskista toinen puoli, käännä ja ruskista toinen puoli.",
+      "Pidä lämpimänä kastiketta tehdessä.",
+      "Sekoita kastikkeen ainekset pienessä kattilassa tasaiseksi.",
+      "Kypsennä miedolla lämmöllä jatkuvasti sekoittaen, kunnes kastike sakenee.",
+      "Tarjoile kastike munapihvien päällä."
+    ]
+  },
+  {
+    "id": "myplate-egg-salad",
+    "title": "Munasalaatti",
+    "description": "Kermainen munasalaatti salaatinlehtien päällä tai täysjyväleivällä sopii nopeaksi lounaaksi.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "kananmuna", "nopea", "eväät"],
+    "ingredients": [
+      "4 kovaksi keitettyä kananmunaa, hienonnettuna",
+      "2 tl pikkelssiä tai maustekurkkusilppua",
+      "½ tl suolaa",
+      "1 tl sinappia",
+      "½ dl majoneesia"
+    ],
+    "instructions": [
+      "Laita munat kylmään veteen.",
+      "Keitä kiehumisesta 10–12 minuuttia.",
+      "Jäähdytä heti kylmässä vedessä ja sitten jääkaapissa, jotta kuoriminen on helppoa.",
+      "Kuori munat ja hienonna ne.",
+      "Sekoita kaikki ainekset keskenään."
+    ]
+  },
+  {
+    "id": "myplate-eggplant-and-pepper-dip",
+    "title": "Munakoiso-paprikadippi",
+    "description": "Uunissa paahdetuista kasviksista tehosekoittimella valmistettu kermainen ja vähärasvainen dippi.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "dippi", "uuniruoka", "kasvikset"],
+    "ingredients": [
+      "1 keskikokoinen munakoiso",
+      "2 keskikokoista punaista paprikaa",
+      "1 pieni sipuli",
+      "¼ tl valkosipulijauhetta",
+      "2 rkl rypsiöljyä",
+      "1 tl oreganoa",
+      "1 tl kuivattua basilikaa",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Kuori munakoiso kuorimaveitsellä.",
+      "Pilko munakoiso 2,5 cm:n kuutioiksi.",
+      "Pilko paprikat.",
+      "Kuori ja pilko sipuli.",
+      "Laita kaikki ainekset isoon kulhoon ja sekoita.",
+      "Levitä ainekset uunipellille.",
+      "Paista 200 asteessa 45 minuuttia ja sekoita välillä.",
+      "Kun munakoiso on kevyesti ruskistunut ja pehmeää, ota kasvikset uunista.",
+      "Anna jäähtyä vähintään 10 minuuttia.",
+      "Soseuta tehosekoittimessa sileäksi.",
+      "Tarjoile dippi kylmänä tai huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "myplate-eggplant-stir-fry",
+    "title": "Munakoisowokki",
+    "description": "Tuoreet kasvikset kypsyvät yhdessä pannussa maukkaaksi ruoaksi. Tarjoa ruskean riisin kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "riisi", "kasvikset", "arkiruoka"],
+    "ingredients": [
+      "2 munakoisoa, kuorittuna ja kuutioituna",
+      "1 kesäkurpitsa, ohuina viipaleina",
+      "2½ dl vihreää paprikaa, suikaleina",
+      "2 sipulia, viipaloituna",
+      "3 rkl kevyttä italialaista salaatinkastiketta",
+      "5 dl kirsikkatomaatteja",
+      "5 dl keitettyä ruskeaa riisiä"
+    ],
+    "instructions": [
+      "Laita munakoiso, kesäkurpitsa, paprika, sipulit ja salaatinkastike paistinpannulle.",
+      "Sekoita kevyesti ja kypsennä miedolla lämmöllä, kunnes kasvikset ovat pehmeitä.",
+      "Lisää kirsikkatomaatit ja kypsennä 3–5 minuuttia.",
+      "Tarjoile keitetyn ruskean riisin päällä."
+    ]
+  },
+  {
+    "id": "myplate-eggs-over-kale-and-sweet-potato-grits",
+    "title": "Uunimunat lehtikaalilla ja bataattipuurolla",
+    "description": "Moderni versio eteläisestä klassikosta: uunissa kypsennetty aamiaisruoka kananmunista, maissipuurosta, bataatista ja lehtikaalista.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "1 iso bataatti",
+      "5 dl tuoretta lehtikaalta, pilkottuna",
+      "1 rkl rypsiöljyä, jaettuna",
+      "3½ dl vettä",
+      "2½ dl rasvatonta maitoa",
+      "1¾ dl pikamaissipuuroa (grits)",
+      "¼ tl suolaa",
+      "4 kananmunaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele 4 yksittäistä vuokaa 1 tl:lla öljyä.",
+      "Tee bataatteihin 3–4 viiltoa ja kypsennä mikrossa juuri pehmeiksi.",
+      "Kun bataatti on jäähtynyt, kuori se, pilko paloiksi ja soseuta monitoimikoneessa.",
+      "Kuumenna loput öljystä kattilassa ja kuullota lehtikaalia noin 5 minuuttia.",
+      "Kuumenna toisessa kattilassa vesi ja maito kiehuviksi, lisää maissipuuro ja bataattisose ja keitä 5 minuuttia.",
+      "Ota pois liedeltä ja sekoita joukkoon kuullotettu lehtikaali.",
+      "Jaa puuro tasan neljään vuokaan (tai yhteen uunivuokaan).",
+      "Tee puuroon 4 kuoppaa ison lusikan selällä.",
+      "Riko jokaiseen kuoppaan varovasti yksi kananmuna.",
+      "Paista kannettomana 30 minuuttia, kunnes munat ovat kypsiä.",
+      "Anna jäähtyä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-elaines-green-mash-potatoes",
+    "title": "Vihreä perunamuusi",
+    "description": "Herneet tuovat muusiin mietoa makeutta ja valkosipuli potkua. Lapset ihastuvat vihreään väriin.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "juhla", "lapsille"],
+    "ingredients": [
+      "7 keskikokoista perunaa (n. 1,2 kg)",
+      "2½ dl rasvatonta maitoa, jaettuna",
+      "2 valkosipulinkynttä, kuorittuna",
+      "2½ dl pakasteherneitä",
+      "2 rkl pehmeää margariinia",
+      "ripaus valkopippuria (valinnainen)",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Keitä kuoritut, pilkotut perunat noin 10 minuuttia, kunnes ne ovat haarukalla pehmeitä.",
+      "Kypsennä herneet mikrossa noin 3 minuuttia, valuta ja pidä sivussa.",
+      "Kuumenna maito kuumaksi.",
+      "Lisää valkosipulinkynnet maitoon ja anna seistä 5 minuuttia.",
+      "Soseuta herneet, ½ dl maitoa ja valkosipuli tehosekoittimessa.",
+      "Valuta perunat ja aloita muussaaminen.",
+      "Lisää hitaasti loput maidosta muussatessasi.",
+      "Sekoita muusiin hernesose, margariini ja valkopippuri.",
+      "Laita muusi tarjoiluvuokaan ja pidä lämpimänä.",
+      "Ripottele suola pinnalle juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-enchilada-bake",
+    "title": "Enchilada-vuoka",
+    "description": "Mustapapu-juustokumina-sipulitäytteiset kasvisenchiladat uunissa juuston alla.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "meksikolainen", "uuniruoka", "palkokasvit"],
+    "ingredients": [
+      "1 rkl öljyä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "4½ dl mustapapuja, keitettyinä (tai vähäsuolaisia säilykepapuja)",
+      "2½ dl maissia (½ tlk, valutettuna ja huuhdeltuna)",
+      "1 tl juustokuminaa",
+      "5 dl valmista salsaa, jaettuna",
+      "8 maissitortillaa",
+      "1¼ dl Monterey Jack -juustoa tai cheddaria, raastettuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla pannulla keskikovalla lämmöllä ja kuullota sipulia ja valkosipulia 2–3 minuuttia.",
+      "Lisää pavut, maissi, juustokumina ja 1¼ dl salsaa.",
+      "Kypsennä 3–4 minuuttia ja muussaa papuja karkeasti lusikan selällä.",
+      "Lusikoi noin 0,8 dl täytettä jokaiselle tortillalle ja rullaa.",
+      "Kaada 1¼ dl salsaa noin 28 x 18 cm:n uunivuokaan.",
+      "Aseta tortillarullat vuokaan sauma alaspäin ja kaada päälle loput salsasta.",
+      "Peitä ja paista 175-asteisessa uunissa 15–20 minuuttia.",
+      "Poista kansi ja ripottele päälle juusto.",
+      "Paista vielä 2 minuuttia, kunnes juusto on sulanut."
+    ]
+  },
+  {
+    "id": "myplate-enchilada-rice",
+    "title": "Enchilada-riisi",
+    "description": "Lisää suosikkikasvikset ja mikä tahansa vähärasvainen jauheliha helppoon riisiruokaan.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "riisi", "meksikolainen", "arkiruoka"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa (tai muuta jauhelihaa)",
+      "1¼ dl sipulia, hienonnettuna",
+      "1 tlk (430 g) maissia, valutettuna (tai muita säilyketyvikasviksia)",
+      "4 rkl tacomausteseosta",
+      "5 dl keitettyä ruskeaa riisiä",
+      "1¼ dl raastettua juustoa",
+      "sieniä, oliiveja tai muita lempikasviksia, viipaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Kypsennä liha ja sipuli, kunnes sipulin neste on kirkasta.",
+      "Valuta neste ja rasva pois.",
+      "Lisää maissi, tacomauste ja riisi.",
+      "Hauduta 10 minuuttia.",
+      "Ripottele päälle juusto, peitä ja anna seistä 5 minuuttia.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  }
+]
