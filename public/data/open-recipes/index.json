@@ -1,6 +1,6 @@
 {
- "version": "2026-10-01-10ws9if",
- "generatedAt": "2026-10-01T16:42:37.974Z",
+ "version": "2026-10-02-dddlmm",
+ "generatedAt": "2026-10-02T05:33:11.442Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -14,6 +14,17 @@
    "withImage": 0
   },
   {
+   "id": "myplate",
+   "name": "USDA MyPlate Kitchen",
+   "homepage": "https://myplate.food/recipes",
+   "license": "Public domain (U.S. federal work)",
+   "attribution": "U.S. Department of Agriculture, Center for Nutrition Policy and Promotion – MyPlate Kitchen. Kuvat ja säilytetty kokoelma: MyPlate.food.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "file": "myplate.json",
+   "count": 175,
+   "withImage": 175
+  },
+  {
    "id": "unitools",
    "name": "UniTools – maailman reseptit",
    "homepage": "https://theunitools.com/en/data",
@@ -21,8 +32,8 @@
    "attribution": "UniTools — theunitools.com. Valokuvat Wikimedia Commonsista, kuvakohtaiset tekijät ja lisenssit reseptin kuvan yhteydessä.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "unitools.json",
-   "count": 125,
-   "withImage": 121
+   "count": 275,
+   "withImage": 246
   },
   {
    "id": "wikibooks",
@@ -32,7 +43,7 @@
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "wikibooks.json",
-   "count": 237,
+   "count": 537,
    "withImage": 0
   }
  ]
