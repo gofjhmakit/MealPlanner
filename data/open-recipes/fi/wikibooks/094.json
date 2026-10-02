@@ -1,0 +1,605 @@
+[
+  { "id": "wikibooks-nni-ede-nigerian-pounded-cocoyam", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  {
+    "id": "wikibooks-no-bake-cheesecake",
+    "title": "Paistamaton juustokakku",
+    "description": "Helppo juustokakku keksipohjalla: tuorejuusto, makeutettu kondensoitu maito ja sitruuna hyytyvät jääkaapissa ilman liivatetta.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "juustokakku", "paistamaton"],
+    "ingredients": [
+      "75 g voita, sulatettuna",
+      "200 g digestive-keksejä, hienoksi murskattuna",
+      "540 g tuorejuustoa, huoneenlämpöisenä",
+      "750 g makeutettua kondensoitua maitoa",
+      "2 tl sitruunamehua"
+    ],
+    "instructions": [
+      "Sekoita voisula keksimuruun. Painele piirasvuokaan pohjaksi.",
+      "Vatkaa tuorejuusto sileäksi ja kuohkeaksi.",
+      "Vatkaa sitruunamehu ja kondensoitu maito keskenään.",
+      "Sekoita maitoseos huolellisesti tuorejuustoon.",
+      "Kaada täyte pohjan päälle.",
+      "Anna hyytyä jääkaapissa vähintään vuorokausi."
+    ]
+  },
+  {
+    "id": "wikibooks-no-bake-chocolate-cake",
+    "title": "Paistamaton suklaakeksikakku",
+    "description": "Helppo jääkaapissa jähmettyvä kakku murskatuista kekseistä, kaakaosta, sokerista ja margariinista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 80,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "paistamaton", "suklaa"],
+    "ingredients": [
+      "1 muna (mieluiten pastöroitu)",
+      "340 g margariinia",
+      "450 g hienoa sokeria",
+      "2 tl vaniljauutetta",
+      "1 dl kaakaojauhetta",
+      "400 g digestive-keksejä tai muita kaurakeksejä, murennettuna"
+    ],
+    "instructions": [
+      "Sulata margariini.",
+      "Sekoita sokeri ja muna.",
+      "Lisää sula margariini muna-sokeriseokseen.",
+      "Lisää kaakao ja vanilja.",
+      "Lisää keksimurut ja sekoita, kunnes kaikki murut ovat seoksen peitossa.",
+      "Vuoraa kakkuvuoka foliolla ja kaada seos vuokaan.",
+      "Anna jähmettyä jääkaapissa vähintään tunti, mieluiten pidempään.",
+      "Kumoa ja tarjoa."
+    ],
+    "notes": ["Kananmuna jää kypsentämättä; käytä pastöroitua munaa tai jätä muna pois ja lisää tilkka maitoa."]
+  },
+  {
+    "id": "wikibooks-no-bake-chocolate-chip-cookie-pie",
+    "title": "Paistamaton suklaakeksipiiras",
+    "description": "Kerroksittain maitoon kastettuja suklaakeksejä ja kermavaahtoa valmiissa keksipohjassa, jääkaapissa pehmenneinä.",
+    "servings": 8,
+    "totalTimeMin": 495,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "paistamaton", "helppo"],
+    "ingredients": [
+      "26 suklaahippukeksiä (n. 450 g)",
+      "2,5 dl maitoa",
+      "1 valmis keksipiirakkapohja (n. 270 g) tai itse painettu keksipohja",
+      "3 dl kuohukermaa, vaahdotettuna"
+    ],
+    "instructions": [
+      "Kasta 8 keksiä maitoon ja asettele ne yhdeksi kerrokseksi pohjaan. Levitä päälle kolmasosa kermavaahdosta.",
+      "Toista, kunnes kerroksia on yhteensä kolme.",
+      "Murenna 2 keksiä ja ripottele piiraan päälle.",
+      "Peitä ja jäähdytä 8 tuntia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-no-bake-chocolate-oatmeal-cookies",
+    "title": "Paistamattomat suklaa-kaurakeksit",
+    "description": "Nopeat ja helposti muunneltavat keksit: kaakao-sokeriseos keitetään, sekoitetaan maapähkinävoin ja kaurahiutaleiden kanssa ja annetaan jähmettyä.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "paistamaton", "pikkuleipä"],
+    "ingredients": [
+      "1 dl kaakaojauhetta",
+      "1 dl maitoa",
+      "7 dl kaurahiutaleita",
+      "4,5 dl sokeria",
+      "115 g voita",
+      "2 tl vaniljauutetta",
+      "1 dl maapähkinävoita"
+    ],
+    "instructions": [
+      "Sekoita sokeri ja kaakao kattilassa.",
+      "Lisää maito ja sekoita. Lisää voi ja kuumenna keskikorkealla lämmöllä.",
+      "Kuumenna kiehuvaksi. Kun seos kiehuu voimakkaasti, keitä sekoittaen tasan minuutti.",
+      "Nosta liedeltä ja lisää maapähkinävoi ja vanilja. Sekoita, kunnes seos on tasaista.",
+      "Lisää kaurahiutaleet ja sekoita. Nostele seosta heti lusikalla leivinpaperille väljästi.",
+      "Anna jähmettyä pöydällä vähintään 20 minuuttia tai jääkaapissa nopeammin."
+    ],
+    "notes": ["Maapähkinävoin voi korvata Nutellalla. Seoksen voi myös kaataa keksipohjaan ja koristella kermavaahdolla ja hedelmillä."]
+  },
+  {
+    "id": "wikibooks-no-bake-chocolate-pie",
+    "title": "Hollantilainen keksi-suklaapiiras",
+    "description": "Vanha hollantilainen ohje: kahviin kastettuja Marie-keksejä ja voi-kaakaokreemiä kerroksittain, päällä suklaarakeita.",
+    "servings": 10,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "paistamaton", "suklaa", "hollantilainen"],
+    "ingredients": [
+      "150–200 g kaakaojauhetta",
+      "150–200 g sokeria",
+      "250–500 g voita",
+      "2,5 dl maitoa (valinnainen)",
+      "400–600 g Marie-keksejä",
+      "2 dl kylmää kahvia (valinnainen)",
+      "suklaarakeita koristeluun"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa ja sekoita joukkoon sokeri.",
+      "Sekoita joukkoon kaakao ja maito.",
+      "Kasta keksit kahviin ja asettele ne vuoan pohjalle yhdeksi kerrokseksi. Levitä päälle suklaaseosta. Toista, kunnes keksit ja suklaaseos on käytetty.",
+      "Ripottele pinnalle suklaarakeet ja anna jähmettyä jääkaapissa.",
+      "Leikkaa paloiksi ja tarjoa."
+    ],
+    "notes": [
+      "Määrät ovat suuntaa antavia; säädä oman maun mukaan. Maito tekee piiraasta pehmeämmän.",
+      "Vegaaninen versio: jätä maito ja suklaarakeet pois ja käytä voin tilalla maidotonta margariinia."
+    ]
+  },
+  {
+    "id": "wikibooks-no-bake-matsa-cake",
+    "title": "Paistamaton matsa-suklaakakku",
+    "description": "Pääsiäisjuhlan helppo kakku murennetusta matsasta, fariinisokerista, kaakaosta, voista ja viinissä liotetuista rusinoista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "juutalainen", "paistamaton"],
+    "ingredients": [
+      "200 g fariinisokeria",
+      "55 g kaakaojauhetta",
+      "55 g rusinoita, liotettuna 1 rkl:ssa makeaa punaviiniä",
+      "225 g voita, sulatettuna ja hieman jäähdytettynä",
+      "7 matsalevyä, murennettuna"
+    ],
+    "instructions": [
+      "Sekoita fariinisokeri, kaakao, liotetut rusinat ja voisula.",
+      "Sekoita seos murennettuun matsaan.",
+      "Jaa seos kahteen noin 23 cm:n irtopohjavuokaan.",
+      "Painele pinta tasaiseksi ja sileäksi.",
+      "Anna jähmettyä jääkaapissa useita tunteja."
+    ]
+  },
+  {
+    "id": "wikibooks-nonpareil-sauce-hartshorne",
+    "title": "Nonpareil-kastike",
+    "description": "Vanhan keittokirjan kirpeä kastike lihalle ja kalalle: kinkkua, kanaa, suolakurkkua, keltuaista ja anjovista ketsupissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["liha", "brittiläinen", "kastike"],
+    "ingredients": [
+      "1 viipale kinkkua, hienonnettuna",
+      "1 paahdettu broilerin rintafilee, hienonnettuna",
+      "1 suolakurkku, hienonnettuna",
+      "1 kovaksi keitetyn munan keltuainen, hienonnettuna",
+      "1 anjovisfilee, hienonnettuna",
+      "1 tl persiljaa, hienonnettuna",
+      "1 salottisipuli, hienonnettuna",
+      "2 dl ketsuppia"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset.",
+      "Kuumenna seos lämpimäksi ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-noodles-for-soup",
+    "title": "Kotitekoiset keittonuudelit",
+    "description": "Vanha ohje: kananmunasta ja jauhoista vaivattu jäykkä taikina kaulitaan, rullataan ja leikataan ohuiksi nuudeleiksi keittoon.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Muut",
+    "tags": ["kasvis", "pasta", "keitto"],
+    "ingredients": [
+      "1 muna",
+      "noin 1,5 dl vehnäjauhoja + jauhotukseen"
+    ],
+    "instructions": [
+      "Vatkaa muna. Sekoita ja vaivaa joukkoon jauhoja, kunnes taikina on hyvin jäykkää.",
+      "Kauli taikina ohueksi levyksi.",
+      "Ripottele levylle reilusti jauhoja, ettei se tartu itseensä, ja rullaa tiiviiksi rullaksi.",
+      "Leikkaa rulla terävällä veitsellä poikittain ohuiksi viipaleiksi. Avaa nuudelit ja kääntele jauhoissa.",
+      "Lisää nuudelit kiehuvaan keittoon ja keitä 10 minuuttia."
+    ],
+    "notes": ["Jauhojen määrä on arvioitu."]
+  },
+  {
+    "id": "wikibooks-north-carolina-style-bbq-chicken",
+    "title": "Pohjois-Carolinan grillikana etikkakastikkeella",
+    "description": "Itä-Pohjois-Carolinan tapaan grillattua kanaa, jota sivellään ohuella hunaja-etikkakastikkeella (mop) paksun tomaattikastikkeen sijaan.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "amerikkalainen"],
+    "ingredients": [
+      "3 nahatonta broilerin reisipalaa luineen",
+      "3 nahatonta broilerin koipea",
+      "2 rkl grillimaustetta",
+      "1 dl omenaviinietikkaa",
+      "½ dl hunajaa",
+      "2 rkl worcestershirekastiketta",
+      "2,5 dl hikkorilastuja, liotettuna"
+    ],
+    "instructions": [
+      "Mausta kana runsaalla grillimausteella. Hiero kevyesti lihaan ja anna maustua jääkaapissa vähintään tunti.",
+      "Sekoita sillä välin etikka, hunaja ja worcestershirekastike.",
+      "Sytytä sytytyspiipullinen hiiliä (esim. öljyyn kostutetulla sanomalehdellä) ja odota 15 minuuttia.",
+      "Levitä kuumat hiilet grillin pohjalle, ripottele päälle savulastut ja aseta ritilä paikalleen.",
+      "Grillaa kanaa keskimiedolla lämmöllä usein kääntäen ja etikkaseoksella siveltäen, kunnes sisälämpö on 74 °C.",
+      "Anna levätä 7 minuuttia.",
+      "Keitä loput etikkaseoksesta kovalla lämmöllä 5 minuuttia. Valuta kanan päälle ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-north-carolina-style-bbq-ribs",
+    "title": "Pohjois-Carolinan savuribsit etikkasuihkeella",
+    "description": "Hitaasti savustetut porsaan kylkiribsit, joita suihkutetaan usein hunaja-etikkaseoksella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 450,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "amerikkalainen", "savustus"],
+    "ingredients": [
+      "1 levy porsaan kylkiribsejä (n. 1,5 kg)",
+      "6 rkl ribsimaustetta",
+      "2,5 dl omenaviinietikkaa",
+      "¾ dl hunajaa",
+      "2 rkl worcestershirekastiketta"
+    ],
+    "instructions": [
+      "Mausta ribsit maustesekoituksella ja anna maustua jääkaapissa vähintään tunti.",
+      "Sekoita loput ainekset ja kaada suihkepulloon.",
+      "Nosta ribsit 120-asteiseen savustimeen tai epäsuoralle lämmölle säädettyyn hiiligrilliin.",
+      "Kypsennä 5–6 tuntia ja suihkuta usein etikkaseoksella.",
+      "Suihkuta runsaasti ja nosta kuumalle grillille. Käännä ja suihkuta jatkuvasti, kunnes pinta on hyvin ruskistunut.",
+      "Anna levätä 15 minuuttia ja tarjoa."
+    ],
+    "notes": ["Etikkaseosta jää yli; se sopii esimerkiksi naudan rintapalalle."]
+  },
+  {
+    "id": "wikibooks-north-indian-fermented-bread-batooru",
+    "title": "Batooru – himachalilainen hapatettu leipä",
+    "description": "Pohjois-Intian Himachal Pradeshin perinneleipä: yön yli kankaan alla hapattuneet paksut taikinalevyt paistetaan pannulla kuin parathat.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "intialainen", "rieska"],
+    "ingredients": [
+      "6 dl täysjyvävehnäjauhoja",
+      "1 tl suolaa",
+      "2 tl voiöljyä (ghee) + paistamiseen",
+      "noin 2,5 dl vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola. Lisää ghee ja sekoita, kunnes paakkuja ei ole ja rasva on imeytynyt tasaisesti.",
+      "Lisää vettä vähän kerrallaan ja vaivaa, kunnes taikina on pehmeää ja taipuisaa.",
+      "Muotoile taikinasta palloja ja kauli ne litteiksi mutta hieman paksuiksi. Nosta levyt puhtaalle liinalle, peitä kostealla liinalla ja anna olla yön yli.",
+      "Paista levyt aamulla pannulla gheessä molemmin puolin kuten parathat.",
+      "Tarjoa kuumina mausteisten kasvisten, lassin ja mangopikkelssin kanssa."
+    ],
+    "notes": ["Jauhojen ja veden määrä on arvioitu."]
+  },
+  {
+    "id": "wikibooks-north-staffordshire-oatcakes",
+    "title": "Pohjois-Staffordshiren kauraletut",
+    "description": "Stoke-on-Trentin alueen paikallisherkku: hiivalla kohotetut ohuet kaura-vehnäletut, jotka täytetään juustolla, pekonilla, makkaralla tai kananmunalla.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "brittiläinen", "lätyt"],
+    "ingredients": [
+      "220 g hienoa kaurajauhoa",
+      "220 g täysjyvä- tai vehnäjauhoja",
+      "1 tl suolaa",
+      "14 g tuorehiivaa",
+      "8,5 dl lämmintä maidon ja veden seosta (puoliksi)",
+      "1 tl sokeria",
+      "rypsiöljyä tai voita paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita suola jauhoihin.",
+      "Liuota hiiva pieneen määrään lämmintä nestettä ja lisää sokeri. Anna vaahtoutua.",
+      "Sekoita kuivat ainekset, hiivaseos ja loput nesteestä taikinaksi.",
+      "Peitä puhtaalla liinalla ja anna seistä lämpimässä tunti.",
+      "Paista letut hyvin voidellulla pannulla tai paistolevyllä. Kaada pannulle taikinaa niin, että letusta tulee noin 20–23 cm:n kokoinen. Pintaan muodostuu reikiä paistuessa.",
+      "Käännä lettu 2–3 minuutin kuluttua, kun pinta näyttää kuivalta ja pohja on kullanruskea. Paista vielä 2–3 minuuttia."
+    ],
+    "notes": ["Letut voi lämmittää myöhemmin voissa paistaen tai grillivastuksen alla."]
+  },
+  {
+    "id": "wikibooks-not-quite-eggs-benedict",
+    "title": "Munanvalkuaismunakas pekonilla ja hollandaisekastikkeella",
+    "description": "Muunnelma Benedictin munista: yrttinen valkuaismunakas, rapea pekoni ja keltuaisista tehty kevennetty hollandaisekastike leivän kanssa.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "brunssi"],
+    "ingredients": [
+      "2 munaa",
+      "2 rkl maitoa",
+      "1 rkl persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "4 viipaletta pekonia",
+      "60 g voita, sulatettuna",
+      "1 rkl kylmää vettä",
+      "2–3 tl sitruunamehua",
+      "1 ripaus cayennepippuria",
+      "rapeakuorista leipää",
+      "1 rkl vaahterasiirappia (valinnainen)"
+    ],
+    "instructions": [
+      "Erottele munat. Sekoita valkuaiset maidon ja persiljan kanssa ja mausta suolalla ja pippurilla. Vatkaa haarukalla hieman kuohkeaksi. Nosta sivuun.",
+      "Paista pekoni isolla tarttumattomalla pannulla keskikorkealla lämmöllä ja nosta talouspaperille. Kaada pois kaikki paitsi 1–2 rkl rasvaa. Laske lämpö keskimiedolle ja lisää valkuaiset.",
+      "Valkuaisten kypsyessä sekoita keltuaiset ja vesi vesihauteessa keskilämmöllä. Veden tulee poreilla, ei kiehua. Sekoita jatkuvasti haarukalla, kunnes keltuaiset paksuuntuvat ja muuttuvat vaalean läpikuultamattomiksi.",
+      "Nosta pois hauteelta ja sekoita voisula hitaasti joukkoon. Lisää sitruunamehu, suola ja cayenne maun mukaan.",
+      "Nosta kypsä valkuaismunakas lautaselle, päälle pekoni ja kaada kaiken päälle kastike. Tarjoa lämpimän leivän kanssa."
+    ],
+    "notes": ["Voita on tavallista hollandaisekastiketta vähemmän; täyteläisempään kastikkeeseen käytä 80–115 g. Nosta valkuaiset sivuun, jos ne kypsyvät ennen kastiketta."]
+  },
+  { "id": "wikibooks-nsala-soup", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  {
+    "id": "wikibooks-nsima-cornmeal-swallow",
+    "title": "Nsima – maissipuuro",
+    "description": "Malawin, Sambian ja naapurimaiden perusruoka: maissijauhoista keitetty jäykkä puuro, jota syödään käsin muotoiltuna lihan, kalan tai kasvisten kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "afrikkalainen", "gluteeniton"],
+    "ingredients": [
+      "5 dl hienoa valkoista maissijauhoa",
+      "1 l vettä"
+    ],
+    "instructions": [
+      "Mittaa maissijauhot valmiiksi.",
+      "Kuumenna vesi isossa kattilassa kiehuvaksi.",
+      "Laske lämpö pieneksi ja lisää jauhot ohuena nauhana koko ajan puulusikalla tai jäykällä vispilällä sekoittaen.",
+      "Sekoita voimakkaasti noin 5 minuuttia, ettei puuroon tule paakkuja, kunnes se alkaa sakeutua.",
+      "Nosta lämpö keskimiedoksi, peitä kannella ja kypsennä 10–15 minuuttia, jotta jauhot kypsyvät eikä raaka maku jää.",
+      "Poista kansi ja sekoita kaapien reunat ja pohja, ettei puuro tartu.",
+      "Kypsennä usein sekoittaen vielä 10–15 minuuttia, kunnes puuro on paksua ja sileää kuin muusi. Lisää tarvittaessa vettä.",
+      "Nosta liedeltä ja anna jäähtyä hetki.",
+      "Tarjoa kuumana lihapadan, kalan tai lehtivihannesten kanssa."
+    ],
+    "notes": ["Nsima muotoillaan perinteisesti kostein käsin palloksi, jolla poimitaan lisukkeita."]
+  },
+  { "id": "wikibooks-nuked-nachos", "skip": "lähes sama kuin jo käännetty nachojen ohje" },
+  { "id": "wikibooks-nune-soup", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  {
+    "id": "wikibooks-nuremberg-gingerbread",
+    "title": "Nürnbergin piparkakut (Lebkuchen)",
+    "description": "Saksalaiset hunajaiset maustekakut hasselpähkinällä, sukaatilla ja appelsiininkuorella, paistettuna oblaattipohjien päällä.",
+    "servings": 15,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "saksalainen", "joulu", "pikkuleipä"],
+    "ingredients": [
+      "500 g hunajaa",
+      "250 g sokeria",
+      "150 g vehnäjauhoja",
+      "1 tl jauhettua neilikkaa",
+      "1 tl muskottipähkinää",
+      "1 tl kardemummaa",
+      "1 rkl kanelia",
+      "1 ripaus jauhettua inkivääriä",
+      "1 appelsiinin raastettu kuori",
+      "1 sitruunan raastettu kuori",
+      "200 g hasselpähkinöitä, rouhittuna",
+      "50 g sukaattia",
+      "50 g kandeerattua appelsiininkuorta",
+      "15 oblaattipohjaa (Lebkuchen-oblaatteja)",
+      "1 pss (15 g) leivinjauhetta",
+      "manteleita koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna hunaja ja sokeri kattilassa kiehuvaksi sekoittaen. Nosta liedeltä ja anna jäähtyä.",
+      "Siivilöi jauhot kulhoon.",
+      "Sekoita joukkoon mausteet, kuoriraasteet, pähkinät, sukaatti ja appelsiininkuori.",
+      "Kaada joukkoon hunajaseos ja sitten leivinjauhe. Sekoita ja vaivaa taikinaa, kunnes se jäähtyy.",
+      "Kauli taikina.",
+      "Leikkaa taikinasta paloja ja nosta ne oblaattien päälle.",
+      "Koristele manteleilla ja siirrä pellille.",
+      "Anna seistä noin vuorokausi.",
+      "Paista 180 asteessa 15–20 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-nut-roast",
+    "title": "Pähkinäpaisti lehtitaikinassa",
+    "description": "Brittiläinen jouluinen kasvisruoka: parapähkinä-korppujauhopaisti ja persiljatäyte käärittynä lehtitaikinaan.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "brittiläinen", "joulu", "juhla"],
+    "ingredients": [
+      "Pähkinäpaisti:",
+      "1 iso sipuli, hienonnettuna",
+      "30 g margariinia",
+      "225 g parapähkinöitä, jauhettuna",
+      "115 g korppujauhoja",
+      "1,5 rkl sitruunamehua",
+      "¼ tl kuivattua timjamia",
+      "¼ tl piparkakkumaustetta",
+      "1 muna",
+      "suolaa",
+      "mustapippuria",
+      "Täyte:",
+      "115 g korppujauhoja",
+      "1 rkl sipulia, hienonnettuna",
+      "15 g persiljaa, hienonnettuna",
+      "2 tl sitruunamehua",
+      "45 g margariinia, sulatettuna",
+      "suolaa",
+      "mustapippuria",
+      "Kuori:",
+      "225 g lehtitaikinaa"
+    ],
+    "instructions": [
+      "Paista sipulia margariinissa 10 minuuttia pehmeäksi.",
+      "Laita sipuli kulhoon pähkinäpaistin muiden ainesten kanssa ja sekoita.",
+      "Sekoita täytteen ainekset toisessa kulhossa pehmeäksi, koossa pysyväksi seokseksi.",
+      "Mausta suolalla.",
+      "Kuumenna uuni 200 asteeseen.",
+      "Kauli lehtitaikina kevyesti jauhotetulla alustalla.",
+      "Muotoile täytteestä noin 13 cm pitkä makkara ja nosta se taikinan keskelle.",
+      "Kasaa pähkinäseos täytteen päälle.",
+      "Taita taikina kokonaan seoksen ympärille ja taita päät alle.",
+      "Koristele taikinasta leikatuilla lehdillä ja viillä pintaan ristikkokuvio.",
+      "Nosta kostutetulle pellille sauma alaspäin.",
+      "Paista 30 minuuttia rapeaksi."
+    ]
+  },
+  {
+    "id": "wikibooks-nutella-crepes",
+    "title": "Nutellakrepit banaanilla",
+    "description": "Ohuet vaniljaiset krepit täytettynä kermalla kevennetyllä Nutellalla, tarjoiltuna banaanin, hasselpähkinöiden ja tomusokerin kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "ranskalainen", "lätyt", "suklaa"],
+    "ingredients": [
+      "Krepit:",
+      "2,5 dl vehnäjauhoja",
+      "2 munaa",
+      "½ dl sokeria",
+      "1,75 dl maitoa",
+      "1,25 dl vettä",
+      "1 rkl vaniljauutetta",
+      "3 rkl voita, sulatettuna",
+      "noin 8 rkl voita paistamiseen",
+      "Täyte:",
+      "450 g suklaa-hasselpähkinälevitettä (Nutella)",
+      "¾ dl kermavaahtoa",
+      "Tarjoiluun:",
+      "2–3 banaania, viipaloituna",
+      "½ dl hasselpähkinöitä, rouhittuna",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Surauta jauhot, munat, sokeri, maito, vesi, vanilja ja voisula tehosekoittimessa tasaiseksi. Siirrä astiaan ja jäähdytä tunti.",
+      "Kuumenna pieni tarttumaton pannu keskilämmöllä ja sulata siinä nokare voita. Kaada pannun keskelle noin ½ dl taikinaa ja levitä se pannua kallistelemalla ohueksi kreppiksi.",
+      "Paista 30 sekuntia, käännä ja paista vielä noin 10 sekuntia. Nosta tasaiseksi jäähtymään.",
+      "Paista loput krepit samoin ja anna jäähtyä.",
+      "Kääntele kermavaahto varovasti Nutellan joukkoon.",
+      "Levitä jokaisen krepin toiselle puolelle noin ½ dl täytettä jättäen reunoille 2–3 cm tyhjää. Taita kreppi kahtia ja vielä kahtia.",
+      "Lämmitä loppua Nutellaa mikrossa hieman juoksevammaksi ja valuta krepeille. Asettele lautasille banaaniviipaleita, ripottele päälle hasselpähkinät ja sihtaa tomusokeria. Koristele halutessasi kermavaahdolla ja mintulla.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Jäähtyneet krepit säilyvät pinottuina pusseissa jääkaapissa useita päiviä tai pakastimessa kaksi kuukautta."]
+  },
+  {
+    "id": "wikibooks-nutty-brownie-bars",
+    "title": "Pähkinäiset browniepalat",
+    "description": "Valmiista browniejauheesta leivotut palat, joiden päällä on kondensoitua maitoa, manteleita, saksanpähkinöitä ja kookossuklaapatukoita.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "helppo"],
+    "ingredients": [
+      "1 pkt browniejauhetta (ja pakkauksen ohjeen mukaiset lisäainekset)",
+      "3 rkl rypsiöljyä",
+      "2,5 dl makeutettua kondensoitua maitoa",
+      "1 dl manteleita, rouhittuna",
+      "½ dl saksanpähkinöitä, rouhittuna",
+      "10 pientä kookos-suklaapatukkaa, pilkottuna"
+    ],
+    "instructions": [
+      "Valmista browniejauheesta taikina pakkauksen ohjeen mukaan, mutta käytä öljyä vain 3 rkl.",
+      "Kaada kevyesti voideltuun noin 23 × 33 cm:n vuokaan.",
+      "Levitä kondensoitu maito taikinan päälle.",
+      "Ripottele päälle pähkinät ja suklaapatukat.",
+      "Paista 175 asteessa 35–38 minuuttia tai kunnes kypsä.",
+      "Anna jäähtyä kokonaan ja leikkaa paloiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-nutty-buddy-chocolate-cookie-bars",
+    "title": "Suklaa-pähkinäpalat keksipohjalla",
+    "description": "Helpot uunipalat: keksimurupohja, kondensoitu maito, suklaarakeet, pekaanipähkinät ja mantelit.",
+    "servings": 30,
+    "totalTimeMin": 150,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "juhla"],
+    "ingredients": [
+      "170 g voita",
+      "7 dl digestive-keksimurua",
+      "2 tlk (à 400 g) makeutettua kondensoitua maitoa",
+      "340 g suklaarakeita",
+      "2,5 dl pekaanipähkinöitä, rouhittuna",
+      "¾ dl mantelilastuja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sulata voi mikrossa paperin alla noin 45 sekuntia ja sekoita.",
+      "Laita keksimurut noin 23 × 33 cm:n metallivuokaan.",
+      "Kaada voisula murujen päälle ja sekoita, kunnes kaikki murut ovat kostuneet. Painele tiiviisti ja tasaisesti vuoan pohjalle.",
+      "Kaada kondensoitu maito pohjan päälle ja levitä reunoille lusikan selällä.",
+      "Ripottele päälle tasaisesti suklaarakeet, pekaanipähkinät ja mantelit. Painele haarukalla.",
+      "Paista ilman kantta 25–35 minuuttia, kunnes reunat kuplivat hieman.",
+      "Ota uunista ja anna jäähtyä huoneenlämpöiseksi.",
+      "Jähmetä jääkaapissa 1–2 tuntia ennen paloittelua.",
+      "Säilytä huoneenlämmössä foliolla peitettynä."
+    ]
+  },
+  {
+    "id": "wikibooks-nyama-choma-tanzanian-barbecue",
+    "title": "Nyama choma – tansanialainen grilliliha",
+    "description": "Itä-Afrikan suosittu grilliruoka: limetti-soija-mausteseoksessa marinoitu liha grillataan hiilillä ja tarjoillaan ugalin, kachumbari-salaatin ja piri piri -kastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 360,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "grilli"],
+    "ingredients": [
+      "1 kg vuohen-, lampaan- tai naudanlihaa tai broileria, paksuina paloina",
+      "½ dl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "1 kukkurallinen rkl tuoretta inkivääriä, murskattuna",
+      "1 kukkurallinen rkl valkosipulia, murskattuna",
+      "1 kukkurallinen rkl raakaa papaijaa, raastettuna",
+      "½ dl vaaleaa soijakastiketta",
+      "2 limetin mehu",
+      "2 tl vastamurskattua mustapippuria",
+      "1 dl tuoretta persiljaa, hienonnettuna",
+      "1 tl paprikajauhetta",
+      "½ tl kurkumaa",
+      "1 tl currya",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Puhdista liha, mutta jätä siihen rasvaa, jotta se pysyy mehevänä. Laita liha lasi- tai muoviastiaan.",
+      "Soseuta muut ainekset ja kaada seos lihan päälle.",
+      "Hiero marinadi huolellisesti lihaan. Peitä ja marinoi jääkaapissa vähintään 4–5 tuntia.",
+      "Ota liha jääkaapista noin tuntia ennen kypsentämistä.",
+      "Sytytä hiiligrilli ja anna hiilten palaa, kunnes ne ovat kokonaan valkoisen tuhkan peitossa.",
+      "Nosta liha ritilälle ja grillaa, kunnes se saa väriä ja hieman kärähtää. Käännä usein ja sivele välillä öljyllä tai marinadilla, ettei liha kuivu.",
+      "Jos haluat lihan kypsyvän sisältä tasaisesti, kääri se folioon ja anna kypsyä grillin reunalla, tai grillaa haluttuun kypsyyteen.",
+      "Leikkaa kypsä liha suupaloiksi terävällä veitsellä.",
+      "Tarjoa."
+    ],
+    "notes": ["Papaija mureuttaa lihaa; jos sitä ei saa, sen voi jättää pois."]
+  },
+  {
+    "id": "wikibooks-oat-bran-cereal",
+    "title": "Kauraleseväpuuro",
+    "description": "Nopea ja kevyt aamupuuro kauraleseistä.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "puuro", "nopea"],
+    "ingredients": [
+      "½ dl kauraleseitä",
+      "2,5 dl vettä",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuumenna vesi kiehuvaksi.",
+      "Sekoita joukkoon leseet ja suola.",
+      "Laske lämpöä ja keitä 4–6 minuuttia."
+    ],
+    "notes": ["Vaahterasiirappi ja banaaniviipaleet sopivat puuron kanssa erinomaisesti. Alkuperäisessä leseitä on vain 2 rkl; määrää on lisätty paksumman puuron saamiseksi."]
+  }
+]

@@ -1,0 +1,679 @@
+[
+  {
+    "id": "myplate-chicken-and-broccoli-bake",
+    "title": "Kana-parsakaalivuoka riisillä",
+    "description": "Vuokaruoka vastakypsennetystä tai tähdekanasta – säästää aikaa.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "riisi", "arkiruoka"],
+    "ingredients": [
+      "2½ dl riisiä",
+      "2 rkl margariinia tai voita",
+      "½ dl vehnäjauhoja",
+      "5 dl kanalientä",
+      "½ dl parmesaania, raastettuna (valinnainen)",
+      "1 ps (300 g) pakasteparsakaalia, sulatettuna",
+      "7 dl kypsää kanaa, paloiteltuna"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen mukaan.",
+      "Sulata rasva isossa kattilassa ja sekoita joukkoon jauhot (seos on paakkuista).",
+      "Lisää liemi vähitellen sekoittaen, kunnes kastike on tasaista ja sakeaa.",
+      "Lisää juusto ja sekoita.",
+      "Lisää riisi, parsakaali ja kana ja sekoita.",
+      "Kaada uunivuokaan ja paista 175 asteessa 30 minuuttia, kunnes vuoka on läpikotaisin kuuma."
+    ]
+  },
+  {
+    "id": "myplate-chicken-and-cranberry-salad",
+    "title": "Kana-karpalosalaatti",
+    "description": "Yksinkertainen salaatti manteleilla ja kuivatuilla karpaloilla.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "340 g kypsää kanaa, kuutioituna",
+      "1¼ dl öljy-etikkakastiketta",
+      "1¼ dl kuivattuja karpaloita (tai kirsikoita)",
+      "2 rkl mantelilastuja",
+      "1 kerä salaattia, pilkottuna"
+    ],
+    "instructions": [
+      "Sekoita kana, karpalot ja mantelit kastikkeen kanssa.",
+      "Tarjoile pilkotun salaatin päällä."
+    ]
+  },
+  {
+    "id": "myplate-chicken-and-dumpling-soup",
+    "title": "Kanakeitto täysjyvämykyillä",
+    "description": "Versio klassisesta kanakeitosta mykyillä – helppo yhden kattilan ateria perheelle tai isommalle joukolle.",
+    "servings": 8,
+    "totalTimeMin": 55,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "arkiruoka"],
+    "ingredients": [
+      "Keitto:",
+      "2 rkl rypsiöljyä",
+      "5 dl porkkanaa, pilkottuna",
+      "2½ dl sipulia, pilkottuna",
+      "2½ dl varsiselleriä lehtineen, pilkottuna",
+      "2 l kanalientä",
+      "5 dl kypsää broilerin rintafileetä, revittynä",
+      "½ tl mustapippuria (kokonaisena)",
+      "1 tl kuivattua timjamia",
+      "2 laakerinlehteä",
+      "5 dl tuoretta pinaattia, karkeasti pilkottuna",
+      "Mykyt:",
+      "2½ dl täysjyvävehnäjauhoja",
+      "2½ dl vehnäjauhoja",
+      "1¾ dl rasvatonta maitoa",
+      "1 iso kananmuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskikovalla lämmöllä.",
+      "Kuullota porkkanaa, sipulia ja selleriä 5 minuuttia. Lisää liemi, kana, pippurit, timjami ja laakerinlehdet.",
+      "Laske lämpöä ja hauduta osittain kannen alla 20 minuuttia.",
+      "Sekoita mykyjen ainekset sillä välin tasaiseksi taikinaksi.",
+      "Pudota taikinaa pieninä lusikallisina hiljalleen kiehuvaan keittoon.",
+      "Peitä ja keitä noin 20 minuuttia – mykyt nousevat pintaan kypsyessään.",
+      "Sekoita joukkoon pinaatti ja poista laakerinlehdet ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-chicken-and-dumplings",
+    "title": "Kanaa ja mykyjä",
+    "description": "Helpot mykyt neljästä aineksesta keitetään kuumassa kanakastikkeessa 15 minuuttia.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "2 rkl vehnäjauhoja",
+      "2 rkl vettä",
+      "2½ dl kanalientä",
+      "2½ dl kypsää kanaa, kuutioituna",
+      "¼ tl suolaa (valinnainen)",
+      "ripaus mustapippuria",
+      "Mykyt:",
+      "¾ dl vehnäjauhoja",
+      "½ tl leivinjauhetta",
+      "¼ tl suolaa",
+      "2 rkl rasvatonta maitoa"
+    ],
+    "instructions": [
+      "Sekoita 2 rkl jauhoja ja vesi kattilassa tasaiseksi.",
+      "Lisää liemi vähitellen sekoittaen ja kuumenna keskilämmöllä, kunnes kastike sakenee.",
+      "Lisää kana, suola ja pippuri.",
+      "Sekoita mykkyjä varten jauhot, leivinjauhe ja suola pienessä kulhossa ja sekoita joukkoon maito taikinaksi.",
+      "Pudota taikinaa ruokalusikalla hiljalleen kiehuvan kanaseoksen päälle neljäksi mykyksi.",
+      "Peitä kattila tiiviisti ja keitä miedolla lämmöllä 15 minuuttia kantta nostamatta."
+    ]
+  },
+  {
+    "id": "myplate-chicken-and-spanish-rice",
+    "title": "Kana ja espanjalainen riisi",
+    "description": "Pannuruoka kypsästä kanasta – hyvä tapa käyttää tähdekana.",
+    "servings": 5,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 tl rypsiöljyä",
+      "2½ dl sipulia, pilkottuna",
+      "½ dl vihreää paprikaa, pilkottuna",
+      "2 dl tomaattisosetta (passata)",
+      "1 tl persiljaa, hienonnettuna",
+      "½ tl mustapippuria",
+      "1¼ tl valkosipulia, hienonnettuna",
+      "1,2 l keitettyä tummaa riisiä",
+      "8 dl kypsää broilerin rintafileetä, kuutioituna"
+    ],
+    "instructions": [
+      "Kuullota sipulit ja paprika öljyssä isolla pannulla keskilämmöllä 5 minuuttia.",
+      "Lisää tomaattisose ja mausteet ja lämmitä.",
+      "Lisää riisi ja kana ja lämmitä läpikotaisin."
+    ]
+  },
+  {
+    "id": "myplate-chicken-apple-salad-sandwich",
+    "title": "Kana-omenasalaattileivät",
+    "description": "Selleri ja omena tuovat rapeutta helppoon voileipätäytteeseen.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kana", "leipä", "nopea", "eväät"],
+    "ingredients": [
+      "115 g kypsää kanaa, revittynä",
+      "1 varsiselleri, pilkottuna",
+      "1 omena, pilkottuna",
+      "¾ dl kevytmajoneesia",
+      "1 sitruuna, mehuna",
+      "40 g rusinoita",
+      "2½ dl saksanpähkinöitä, hienonnettuna (valinnainen)",
+      "8 viipaletta täysjyväleipää"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset leipää lukuun ottamatta kulhossa.",
+      "Tee täytteestä neljä voileipää."
+    ]
+  },
+  {
+    "id": "myplate-chicken-broccoli-alfredo",
+    "title": "Kana-parsakaali-alfredo",
+    "description": "Parsakaali tuo raikkautta ja kermainen kastike täyteläisyyttä fettuccinelle.",
+    "servings": 5,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "italialainen"],
+    "ingredients": [
+      "225 g fettuccinea",
+      "2½ dl parsakaalia (tuoretta tai pakastettua), pilkottuna",
+      "2 rkl voita",
+      "450 g broilerin rintafileetä, suikaleina",
+      "Kastike:",
+      "2 dl ruokakermaa",
+      "1 tl kanaliemijauhetta",
+      "1 rkl maissitärkkelystä",
+      "1¼ dl rasvatonta maitoa",
+      "1¼ dl parmesaania, raastettuna (+ lisää tarjoiluun)",
+      "¼ tl mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä fettuccine pakkauksen ohjeen mukaan ja lisää parsakaali viimeiseksi 4 minuutiksi. Valuta.",
+      "Kuumenna voi pannulla ja paista kana usein sekoittaen ruskeaksi ja kypsäksi.",
+      "Sekoita kerma, liemijauhe, maissitärkkelys ja maito kattilassa ja kuumenna kiehuvaksi koko ajan sekoittaen, kunnes kastike sakenee.",
+      "Lisää juusto, pippuri, kana ja pasta ja lämmitä.",
+      "Tarjoile lisäparmesaanin kanssa."
+    ],
+    "notes": ["Alkuperäisessä käytetään erillistä kuivakastikepohjaa (Basic Soup and Sauce Mix); kerma, liemijauhe ja maissitärkkelys korvaavat sen."]
+  },
+  {
+    "id": "myplate-chicken-cacciatore",
+    "title": "Kana cacciatore",
+    "description": "Tomaattikastikkeessa haudutettu kana – helppo ja maukas klassikko.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Pääruoat",
+    "tags": ["kana", "italialainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "1 sipuli, pilkottuna",
+      "2½ dl tomaattimurskaa",
+      "1¼ dl tomaattisosetta (passata)",
+      "ripaus valkosipulijauhetta",
+      "1 tl oreganoa",
+      "ripaus mustapippuria",
+      "4 broilerin palaa ilman nahkaa (reisiä, rintoja tai koipia)"
+    ],
+    "instructions": [
+      "Kuori ja pilko sipuli ja laita kattilaan.",
+      "Lisää tomaatit, tomaattisose, valkosipulijauhe, oregano ja pippuri.",
+      "Hauduta miedolla lämmöllä 3 minuuttia.",
+      "Poista kanasta tarvittaessa nahka.",
+      "Lisää kana kastikkeeseen, peitä ja hauduta miedolla lämmöllä noin tunti, kunnes kana on mureaa."
+    ]
+  },
+  {
+    "id": "myplate-chicken-casserole",
+    "title": "Kana-pastavuoka",
+    "description": "Yksinkertainen ja täyttävä vuokaruoka lounaaksi tai päivälliseksi.",
+    "servings": 8,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "450 g kierrepastaa tai makaronia",
+      "340 g kypsää kanaa, revittynä (säilyke tai tähde)",
+      "4 dl tomaattisosetta (passata)",
+      "225 g herneitä",
+      "3 viipaletta sulatejuustoa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Keitä pasta pakkauksen ohjeen mukaan ja valuta hyvin.",
+      "Sekoita isossa uunivuoassa kana, tomaattisose, herneet ja pasta.",
+      "Asettele juustoviipaleet pinnalle.",
+      "Paista 30–40 minuuttia ja tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-chicken-club-salad",
+    "title": "Kana-pastasalaatti",
+    "description": "Värikäs kana-pastasalaatti salaatinlehtien tai pinaatin päällä. Valitse kasvikset mieltymyksesi mukaan.",
+    "servings": 4,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "pasta"],
+    "ingredients": [
+      "2½ dl täysjyväpastaa (makaronia tai kierrepastaa)",
+      "1,5 l roomansalaattia tai pinaattia, revittynä",
+      "5 dl paprikaa (tai sellerin, kukkakaalin, kurkun ja porkkanan sekoitusta), pilkottuna",
+      "5 dl tomaattia, pilkottuna",
+      "3½ dl kypsää kanaa, kuutioituna (225 g)",
+      "1 dl kevyttä italialaista salaatinkastiketta",
+      "1 kovaksi keitetty kananmuna (valinnainen)",
+      "½ dl juustoraastetta"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan, valuta ja jäähdytä.",
+      "Jaa salaatti neljälle lautaselle.",
+      "Sekoita kasvikset, kana ja pasta.",
+      "Lisää kastike ja sekoita kevyesti.",
+      "Jaa seos lautasille.",
+      "Lisää päälle halutessasi munaviipaleita ja 1 rkl juustoraastetta annosta kohden."
+    ]
+  },
+  {
+    "id": "myplate-chicken-mole",
+    "title": "Kana mole",
+    "description": "Chilijauhe, kaakao ja maapähkinävoi maustavat perinteisen meksikolaisen kanaruoan. Tarjoa tumman riisin kanssa.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kana", "meksikolainen", "pataruoka"],
+    "ingredients": [
+      "1 broileri, paloiteltuna, nahka ja rasva poistettuna",
+      "½ dl vettä",
+      "4 rkl chilijauhetta",
+      "1 tl oreganoa",
+      "1 tl makeuttamatonta kaakaojauhetta",
+      "1½ dl vehnäjauhoja",
+      "1 tl mustapippuria",
+      "1 tl valkosipulijauhetta",
+      "2½ dl vettä",
+      "1 rkl kermaista maapähkinävoita",
+      "1,2 l vettä"
+    ],
+    "instructions": [
+      "Laita kana isoon kattilaan ½ dl:n vettä kanssa.",
+      "Peitä ja hauduta noin 45 minuuttia mureaksi.",
+      "Sekoita kulhossa chilijauhe, oregano, kaakao, jauhot, pippuri, valkosipulijauhe ja 2½ dl vettä.",
+      "Lisää seos kanan joukkoon ja sekoita hyvin.",
+      "Lisää maapähkinävoi ja loput vedestä ja sekoita.",
+      "Kuumenna kiehuvaksi, laske lämpö keskitasolle ja keitä 10–15 minuuttia.",
+      "Sekoita ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-chicken-noodle-soup",
+    "title": "Kana-nuudelikeitto alusta asti",
+    "description": "Täyttävä keitto kanasta, kasviksista ja munanuudeleista.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "arkiruoka"],
+    "ingredients": [
+      "900 g broilerin paloja, nahka poistettuna",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "1 sipuli, pilkottuna",
+      "2½ dl varsiselleriä, pilkottuna",
+      "3 isoa porkkanaa, ohuina viipaleina",
+      "1 l munanuudeleita (kuivina)",
+      "timjamia tai salviaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata pakastettu kana jääkaapissa (noin vuorokausi).",
+      "Laita kanapalat isoon kattilaan ja peitä vedellä.",
+      "Peitä, kuumenna kiehuvaksi ja hauduta 2–3 tuntia. Pese kädet ja raakaa kanaa koskeneet pinnat ja välineet huolellisesti.",
+      "Nosta kanapalat liemestä ja anna jäähtyä 10–15 minuuttia. Irrota liha luista ja revi suupaloiksi.",
+      "Poista liemestä luut ja kuori rasva pinnalta.",
+      "Lisää liemeen kana, mausteet ja kasvikset.",
+      "Kuumenna kiehuvaksi, peitä ja keitä keskilämmöllä noin 15–20 minuuttia, kunnes porkkanat ovat kypsiä mutta rapsakoita.",
+      "Lisää nuudelit ja keitä ilman kantta noin 6–7 minuuttia välillä sekoittaen.",
+      "Jäähdytä tai pakasta tähteet kahden tunnin kuluessa. Jääkaapissa säilyy 2 päivää; kuumenna kiehuvaksi lämmittäessä."
+    ]
+  },
+  {
+    "id": "myplate-chicken-pasta-salad",
+    "title": "Kana-papu-pastasalaatti",
+    "description": "Värikkäät kasvikset, mustapavut ja pasta tekevät salaatista terveellisen ja täyttävän. Anna maustua jääkaapissa muutama tunti.",
+    "servings": 7,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "pasta", "palkokasvit"],
+    "ingredients": [
+      "5 dl keitettyä pientä pastaa",
+      "3½ dl kypsää kanaa, revittynä",
+      "2½ dl paprikaa, kuutioituna",
+      "1¼ dl kevätsipulia, viipaloituna",
+      "2½ dl keltaista kesäkurpitsaa, raastettuna",
+      "1¼ dl maissinjyviä",
+      "1¼ dl pakasteherneitä, sulatettuna",
+      "1 tlk (400 g) mustapapuja, huuhdeltuna ja valutettuna",
+      "1¼ dl rasvatonta italialaista salaatinkastiketta"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan, valuta ja huuhtele.",
+      "Yhdistä pasta, kana, kasvikset ja pavut isossa kulhossa.",
+      "Sekoita kevyesti kastikkeen kanssa.",
+      "Jäähdytä useita tunteja, jotta maut sekoittuvat."
+    ]
+  },
+  {
+    "id": "myplate-chicken-pot-pie",
+    "title": "Kanapiiras kasviksilla",
+    "description": "Tähdekana ja pakastekasvikset tekevät piiraasta nopean.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "piirakka", "uuniruoka"],
+    "ingredients": [
+      "4 dl pakastekasvissekoitusta, sulatettuna",
+      "2½ dl kypsää kanaa, kuutioituna",
+      "2 dl ruokakermaa",
+      "1 kanaliemikuutio",
+      "Kuori:",
+      "2½ dl vehnäjauhoja",
+      "1½ tl leivinjauhetta",
+      "1 rkl rypsiöljyä",
+      "1¼ dl rasvatonta maitoa",
+      "1 kananmuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Sekoita kasvikset, kana, kerma ja murennettu liemikuutio noin 23 cm:n piirakkavuoassa.",
+      "Sekoita jauhot, leivinjauhe, öljy, maito ja muna haarukalla tasaiseksi taikinaksi.",
+      "Kaada taikina kanaseoksen päälle.",
+      "Paista 30 minuuttia kullanruskeaksi.",
+      "Anna jäähtyä 5 minuuttia ja tarjoile."
+    ],
+    "notes": ["Alkuperäisessä käytetään kanakeittotiivistettä ja valmista leivontaseosta; ne on korvattu ruokakermalla, liemikuutiolla sekä jauhoilla ja leivinjauheella."]
+  },
+  {
+    "id": "myplate-chicken-pozole-soup",
+    "title": "Kanapozole",
+    "description": "Perinteinen meksikolainen keitto kokonaisesta broilerista ja hominy-maissista syvällä maulla.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["kana", "meksikolainen", "keitto", "gluteeniton"],
+    "ingredients": [
+      "1 broileri, nahka poistettuna ja paloiteltuna",
+      "2 l vettä",
+      "1¼ dl sipulia, pilkottuna",
+      "¼ tl mustapippuria",
+      "4 rkl chilijauhetta",
+      "2 dl tomaattisosetta (passata)",
+      "½ tl kuivattua oreganoa",
+      "2 tlk (à 400 g) hominy-maissia (tai maissinjyviä), huuhdeltuna",
+      "7 dl jäävuorisalaattia, suikaloituna",
+      "1 limetti, kuuteen lohkoon"
+    ],
+    "instructions": [
+      "Laita kanapalat isoon kattilaan ja peitä vedellä.",
+      "Hauduta keskilämmöllä tunti.",
+      "Lisää sipuli, pippuri, chilijauhe, tomaattisose ja oregano.",
+      "Kun kana on kypsää, nosta palat pois ja poista luut kanasta ja kattilasta.",
+      "Palauta liha kattilaan.",
+      "Lisää maissi ja hauduta vielä 45 minuuttia.",
+      "Tarjoile salaatin ja limettilohkon kanssa."
+    ]
+  },
+  {
+    "id": "myplate-chicken-ratatouille",
+    "title": "Kanaratatouille",
+    "description": "Perinteiseen tomaatti-kesäkurpitsa-munakoisoruokaan lisätty kana tekee siitä täyttävän aterian.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "ranskalainen", "pataruoka", "gluteeniton"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2 broilerin rintafilettä, 2–3 cm:n paloina",
+      "2 kesäkurpitsaa kuorineen, viipaloituna",
+      "1 pieni munakoiso, kuorittuna ja 2–3 cm:n kuutioina",
+      "1 sipuli, viipaloituna",
+      "1 paprika, paloiteltuna",
+      "225 g herkkusieniä, viipaloituna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 rkl tuoretta basilikaa, hienonnettuna",
+      "1 rkl tuoretta persiljaa, hienonnettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla tarttumattomalla pannulla ja paista kanaa noin 3 minuuttia kevyesti ruskeaksi.",
+      "Lisää kesäkurpitsa, munakoiso, sipuli, paprika ja sienet.",
+      "Kypsennä noin 15 minuuttia välillä sekoittaen.",
+      "Lisää tomaatit, valkosipuli, basilika, persilja ja pippuri ja kypsennä vielä noin 5 minuuttia, kunnes kana on kypsää."
+    ]
+  },
+  {
+    "id": "myplate-chicken-rice-and-fruit-salad",
+    "title": "Kana-riisi-hedelmäsalaatti",
+    "description": "Tähderiisi saa uuden elämän hedelmäisessä kanasalaatissa salaatinlehtien päällä.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "riisi", "gluteeniton"],
+    "ingredients": [
+      "2½ dl keitettyä tummaa riisiä, jäähdytettynä",
+      "2 tl kuivattua persiljaa (tai 2 rkl tuoretta)",
+      "½ tl mustapippuria",
+      "¼ valkosipulinkynttä, hienonnettuna",
+      "1 rkl rasvatonta ranch-kastiketta",
+      "2 rkl rasvatonta majoneesia",
+      "2½ dl omenaa tai melonia, paloina",
+      "¾ dl punaisia viinirypäleitä, puolitettuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "3 dl kypsää kanaa, suupaloina",
+      "6 salaatinlehteä"
+    ],
+    "instructions": [
+      "Jos sinulla ei ole valmista riisiä, keitä se pakkauksen ohjeen mukaan ilman suolaa ja jäähdytä.",
+      "Sekoita tarjoilukulhossa persilja, pippuri, valkosipuli, kastike ja majoneesi.",
+      "Lisää jäähtynyt riisi, omena, rypäleet, selleri ja kana ja sekoita varovasti.",
+      "Tarjoile kylmänä salaatinlehtien päällä. Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-chicken-rice-salad",
+    "title": "Kana-riisisalaatti",
+    "description": "Tähdekana ja -riisi muuttuvat nopeasti raikkaaksi salaatiksi tuoreiden kasvisten kanssa.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "riisi", "nopea"],
+    "ingredients": [
+      "1 l salaattia",
+      "5 dl keitettyä tummaa riisiä",
+      "5 dl kypsää broilerin rintafileetä, paloiteltuna",
+      "1 tomaatti, kuutioituna",
+      "1 vihreä paprika, kuutioituna",
+      "1 rkl oliiviöljyä",
+      "1 sitruuna, mehuna",
+      "2 rkl maustettua etikkaa (esim. yrttietikkaa)",
+      "chilikastiketta (valinnainen)",
+      "italialaista yrttisekoitusta ja mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa salaattikulhossa.",
+      "Mausta oman maun mukaan.",
+      "Tarjoile heti, mieluiten isolta vadilta muutamalla mausteella koristeltuna."
+    ]
+  },
+  {
+    "id": "myplate-chicken-rice-soup",
+    "title": "Kana-riisikeitto kasviksilla",
+    "description": "Lempikasvikset ja riisi kanakeitossa – lämmittävä ateria kylmään iltaan.",
+    "servings": 8,
+    "totalTimeMin": 40,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "riisi", "gluteeniton"],
+    "ingredients": [
+      "2½ dl kypsää kanaa, kuutioituna",
+      "1,5 l kanalientä",
+      "2½ dl riisiä",
+      "1 sipuli, pilkottuna",
+      "4 dl kasvissekoitusta (pakaste käy)",
+      "½ tl valkosipulijauhetta",
+      "¼ tl mustapippuria",
+      "¼ tl suolaa",
+      "1 rkl kuivattua persiljaa"
+    ],
+    "instructions": [
+      "Laita kypsä kana isoon kattilaan ja lisää liemi ja riisi.",
+      "Peitä ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta 15 minuuttia välillä sekoittaen.",
+      "Lisää sipuli, kasvikset ja mausteet.",
+      "Hauduta 10–15 minuuttia, kunnes kasvikset ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-chicken-salad-and-peach-sandwich",
+    "title": "Kana-persikkasalaattileipä",
+    "description": "Rapea selleri, omena ja punasipuli sekä makea persikka kanasalaatissa täysjyväleivällä.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kana", "leipä", "nopea", "eväät"],
+    "ingredients": [
+      "1¼ dl kypsää kanaa, kuutioituna",
+      "1¼ dl säilykepersikkaa, valutettuna ja kuutioituna",
+      "1 varsiselleri, hienonnettuna",
+      "1¼ dl omenaa, kuutioituna",
+      "1 pieni sipuli, hienonnettuna",
+      "1½ rkl rasvatonta majoneesia",
+      "1 rkl saksanpähkinöitä, hienonnettuna",
+      "4 viipaletta täysjyväleipää"
+    ],
+    "instructions": [
+      "Sekoita kana, omena, persikka, selleri, sipuli, pähkinät ja majoneesi pienessä kulhossa.",
+      "Lusikoi seos kahdelle leipäviipaleelle ja peitä toisilla."
+    ]
+  },
+  {
+    "id": "myplate-chicken-salad-ramen-noodles",
+    "title": "Kana-kaalisalaatti ramen-nuudeleilla",
+    "description": "Iso kaalinpää kuluu tässä salaatissa; paprika ja kevätsipuli tuovat väriä ja nuudelit rouskutusta.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "aasialainen"],
+    "ingredients": [
+      "1 ps (85 g) ramen-pikanuudeleita",
+      "2½ dl paprikaa, pilkottuna",
+      "½ dl kevätsipulia, hienonnettuna",
+      "1¼ dl suolaamattomia paahdettuja maapähkinöitä",
+      "2 kypsää broilerin rintafilettä, jäähdytettynä ja kuutioituna",
+      "2 l valkokaalia, suikaloituna",
+      "Kastike:",
+      "2 tl sokeria",
+      "2 rkl oliiviöljyä",
+      "1¼ dl riisiviini- tai valkoviinietikkaa",
+      "1 tl nuudelien maustejauhetta"
+    ],
+    "instructions": [
+      "Murra nuudelit paloiksi ja nosta sivuun.",
+      "Laita isoon kulhoon paprika, kevätsipuli, maapähkinät ja halutessasi muita kasviksia.",
+      "Lisää kana ja kaali.",
+      "Sekoita kastikkeen ainekset pienessä kulhossa.",
+      "Kaada kastike salaatin päälle ja sekoita.",
+      "Ripottele nuudelit pinnalle ja tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-chicken-salad",
+    "title": "Kanasalaatti kurkkusalaatilla",
+    "description": "Sipuli ja kurkkusalaatti piristävät perinteistä kanasalaattia.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "6 dl kypsää broilerin rintafileetä, kuutioituna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "½ dl sipulia, pilkottuna",
+      "2 rkl kurkkusalaattia",
+      "1¼ dl kevytmajoneesia"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset.",
+      "Säilytä jääkaapissa tarjoiluun asti ja käytä 1–2 päivän kuluessa. Kanasalaatti ei pakastu hyvin.",
+      "Käytä voileipien täytteenä, sekoita 5 dl:aan keitettyä pastaa pastasalaatiksi tai tarjoile tomaatti- tai kurkkuveneissä."
+    ]
+  },
+  {
+    "id": "myplate-chicken-soup-chiles",
+    "title": "Kanakeitto chileillä ja pavuilla",
+    "description": "Maukas ja täyttävä proteiinipitoinen keitto. Lisää chiliä, jos pidät tulisesta.",
+    "servings": 6,
+    "totalTimeMin": 50,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "meksikolainen", "gluteeniton"],
+    "ingredients": [
+      "1,4 kg broilerin paloja, nahka poistettuna",
+      "5 dl tomaattia, pilkottuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1¼ dl sipulia, pilkottuna",
+      "½ dl mietoja vihreitä chilejä (säilyke), kuutioituna",
+      "5 dl keitettyjä pintopapuja tai kikherneitä",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Laita kanapalat isoon kattilaan ja lisää vettä niin, että ne peittyvät.",
+      "Keitä keskikovalla lämmöllä, kunnes kana on kypsää, noin 25 minuuttia.",
+      "Nosta kanapalat liemestä.",
+      "Lisää liemeen tomaatit, valkosipuli, sipuli ja chilit.",
+      "Irrota liha luista ja palauta liemeen.",
+      "Lisää pavut, mausta suolalla ja pippurilla ja hauduta noin 15 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-chicken-soup-soul",
+    "title": "Sielun kanakeitto",
+    "description": "Herneet ja porkkanat tuovat väriä perinteiseen kanakeittoon.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "arkiruoka"],
+    "ingredients": [
+      "1 varsiselleri, pilkottuna",
+      "1 porkkana, pilkottuna",
+      "1 sipuli, pilkottuna",
+      "2½ dl pakasteherneitä",
+      "1,3 l kanalientä",
+      "2½ dl kypsää kanaa, kuutioituna",
+      "1¼ dl riisiä, makaronia tai pieniä nuudeleita"
+    ],
+    "instructions": [
+      "Laita selleri, porkkana, sipuli, herneet ja liemi kattilaan.",
+      "Kuumenna kiehuvaksi.",
+      "Lisää kana ja laske lämpöä.",
+      "Lisää riisi, makaroni tai nuudelit.",
+      "Hauduta miedolla lämmöllä, kunnes ne ovat kypsiä. Kanan sisälämmön tulee olla vähintään 74 astetta ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-chicken-spaghetti",
+    "title": "Kana-spagettivuoka",
+    "description": "Värikäs vuoka, jossa on kasviksia, täysjyvää, proteiinia ja maitotuotteita samassa ruoassa.",
+    "servings": 4,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "uuniruoka"],
+    "ingredients": [
+      "öljyä vuoan voiteluun",
+      "115 g täysjyväspagettia",
+      "1 tl oliiviöljyä",
+      "1 punainen paprika, ohuina suikaleina",
+      "1 vihreä paprika, ohuina suikaleina",
+      "1 sipuli, pilkottuna",
+      "5 dl kypsää broilerin rintafileetä, kuutioituna (225 g)",
+      "1 tlk (400 g) tomaattimurskaa",
+      "2 dl ruokakermaa",
+      "1 kanaliemikuutio",
+      "1¼ dl kevytcheddarjuustoa, raastettuna",
+      "½ dl parmesaania, raastettuna",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele noin 20 x 20 cm:n vuoka.",
+      "Keitä spagetti pakkauksen ohjeen mukaan ilman suolaa ja öljyä. Valuta hyvin.",
+      "Kuumenna öljy isolla pannulla keskilämmöllä ja kuullota paprikoita ja sipulia 4–5 minuuttia pehmeiksi.",
+      "Kaada isoon kulhoon ja sekoita joukkoon loput ainekset (liemikuutio murennettuna) ja spagetti.",
+      "Kaada vuokaan.",
+      "Paista peitettynä 20 minuuttia ja ilman kantta 10 minuuttia, kunnes vuoka on kuuma ja pinta kevyesti kullanruskea."
+    ],
+    "notes": ["Alkuperäisessä käytetään kanakeittotiivistettä; ruokakerma ja liemikuutio korvaavat sen."]
+  }
+]

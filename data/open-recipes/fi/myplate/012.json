@@ -1,0 +1,671 @@
+[
+  {
+    "id": "myplate-crunchy-chicken-salad",
+    "title": "Rapea kana-hedelmäsalaatti",
+    "description": "Kanaa, kasviksia ja hedelmiä – kylmänä salaattina tai voileivän ja tortillan täytteenä.",
+    "servings": 5,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "nopea", "gluteeniton"],
+    "ingredients": [
+      "5 dl kypsää kanaa, paloiteltuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "½ dl vihreää paprikaa, pilkottuna",
+      "¼ sipulia, pilkottuna",
+      "½ kurkkua, kuorittuna ja pilkottuna",
+      "1¼ dl siemenettömiä viinirypäleitä, puolitettuna",
+      "1 pieni omena kuorineen, kuutioituna",
+      "½ dl maustamatonta kevytjogurttia"
+    ],
+    "instructions": [
+      "Käytä tähdekanaa tai kypsennä kanaa noin 5 dl:n verran.",
+      "Pilko selleri, paprika, sipuli, kurkku ja omena pieniksi paloiksi ja puolita rypäleet.",
+      "Sekoita kaikki ainekset isossa kulhossa."
+    ]
+  },
+  {
+    "id": "myplate-crunchy-vegetable-wraps",
+    "title": "Rapeat kasvisrullat",
+    "description": "Tuoreilla ja värikkäillä kasviksilla täytetyt rullat – helppo tapa täyttää puolet lautasesta kasviksilla.",
+    "servings": 4,
+    "category": "Välipalat",
+    "tags": ["kasvis", "eväät", "lapsille"],
+    "ingredients": [
+      "4 rkl kevyttä tuorejuustoa",
+      "1 tl ranch-kastiketta",
+      "½ dl parsakaalia, pilkottuna",
+      "½ dl porkkanaa, raastettuna",
+      "½ dl kesäkurpitsaa, ohuina tikkuina",
+      "½ dl keltaista kesäkurpitsaa, ohuina tikkuina",
+      "½ tomaatti, kuutioituna",
+      "2 rkl vihreää paprikaa, kuutioituna",
+      "2 rkl ruohosipulia, hienonnettuna",
+      "2 vehnätortillaa"
+    ],
+    "instructions": [
+      "Sekoita ranch-kastike tuorejuustoon ja jäähdytä.",
+      "Pese ja pilko kasvikset.",
+      "Kypsennä parsakaalia mikrossa 1 rkl:n vettä kanssa minuutti.",
+      "Levitä tuorejuusto tortilloille jättäen reunoille 2–3 cm tyhjää.",
+      "Ripottele kasvikset tuorejuuston päälle.",
+      "Kääri tortillat tiukasti rullalle.",
+      "Jäähdytä 1–2 tuntia, jotta rullat pitävät muotonsa.",
+      "Leikkaa terävällä veitsellä viipaleiksi ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-crustless-pumpkin-pie",
+    "title": "Pohjaton kurpitsapiirakka",
+    "description": "Amerikkalainen kurpitsapiiras ilman pohjaa – taikinaan riittää ripaus leivontaseosta.",
+    "servings": 8,
+    "totalTimeMin": 65,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "amerikkalainen", "juhla", "syksy"],
+    "ingredients": [
+      "1¾ dl sokeria",
+      "1¼ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "2 rkl rypsiöljyä",
+      "3½ dl rasvatonta maitoa (tai maitotiivistettä)",
+      "2 kananmunaa",
+      "425 g kurpitsasosetta",
+      "3½ tl piirakkamaustetta (kanelia, inkivääriä, muskottia, neilikkaa)",
+      "2 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen ja voitele 23–25 cm:n piirakkavuoka.",
+      "Laita kaikki ainekset kulhoon tai tehosekoittimeen.",
+      "Vatkaa sähkövatkaimella 2 minuuttia tasaiseksi tai surauta tehosekoittimessa minuutti.",
+      "Kaada vuokaan.",
+      "Paista 50–55 minuuttia, kunnes keskelle pistetty veitsi tulee puhtaana ulos.",
+      "Anna jäähtyä hieman ja säilytä jääkaapissa. Tarjoile kermavaahdon tai jäätelön kanssa."
+    ],
+    "notes": ["Alkuperäinen valmis leivontaseos on korvattu vehnäjauhoilla ja leivinjauheella."]
+  },
+  {
+    "id": "myplate-crusty-rice-tofu-and-vegetables",
+    "title": "Rapea riisi-tofupannu kasviksilla",
+    "description": "Tofu, riisi, maissi, herneet ja porkkana painetaan pannuun ja paistetaan rapeaksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "riisi", "tofu", "gluteeniton"],
+    "ingredients": [
+      "Riisi:",
+      "5 dl vettä",
+      "2½ dl tummaa riisiä",
+      "Pannu:",
+      "450 g tofua, murusteltuna",
+      "2½ dl pakastemaissia (sulattamatta)",
+      "2½ dl pakasteherneitä (sulattamatta)",
+      "6 kevätsipulia, viipaloituna",
+      "1 porkkana, raastettuna",
+      "½ dl tuoreita basilikanlehtiä",
+      "¼ tl suolaa",
+      "2 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen mukaan ja anna jäähtyä ja kuivahtaa.",
+      "Sekoita kulhossa tofu, maissi, herneet, kevätsipuli, porkkana, basilika ja suola.",
+      "Kun riisi on jäähtynyt, sekoita se tofuseokseen.",
+      "Kuumenna pannu keskikovalla lämmöllä ja lisää öljy.",
+      "Lisää seos pannulle, laske lämpö pieneksi ja painele lastalla tiiviiksi.",
+      "Peitä ja paista 10 minuuttia.",
+      "Painele uudelleen kuoren muodostamiseksi ja käännä osia, jotta saat rapeita paloja.",
+      "Paista, kunnes riisi on rapeaa, enintään 20 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-cuban-beans-and-rice",
+    "title": "Kuubalaiset pavut ja riisi",
+    "description": "Etikka, oregano, valkosipuli ja sipuli maustavat klassisen papu-riisiruoan.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kuubalainen", "riisi", "palkokasvit", "nopea"],
+    "ingredients": [
+      "1 tl oliiviöljyä",
+      "1 rkl valkosipulia, hienonnettuna",
+      "2½ dl sipulia, pilkottuna",
+      "2½ dl vihreää paprikaa, kuutioituna",
+      "7 dl mustapapuja (säilyke tai keitetty)",
+      "5 dl kanalientä",
+      "1 rkl etikkaa",
+      "½ tl kuivattua oreganoa",
+      "mustapippuria",
+      "7 dl keitettyä tummaa riisiä"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla tarttumattomalla pannulla.",
+      "Kuullota valkosipulia, sipulia ja paprikaa kullankeltaisiksi, noin 3 minuuttia.",
+      "Lisää pavut, liemi, etikka ja mausteet ja kuumenna kiehuvaksi. Laske lämpöä.",
+      "Hauduta kannen alla 5 minuuttia.",
+      "Lusikoi riisin päälle ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-cuban-salad",
+    "title": "Kuubalainen salaatti",
+    "description": "Klassinen salaatti roomansalaatista, tomaatista, sipulista ja retiisistä raikkaalla limettikastikkeella.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "kuubalainen", "salaatti", "nopea"],
+    "ingredients": [
+      "Kastike:",
+      "3 rkl rypsiöljyä",
+      "½ dl limettimehua (1 iso tai 2 pientä limettiä)",
+      "1 tl valkosipulia, hienonnettuna",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "Salaatti:",
+      "1 roomansalaatti, revittynä",
+      "2 isoa tomaattia, kuutioituna",
+      "1 punasipuli, hienoksi kuutioituna",
+      "6 retiisiä, ohuina viipaleina"
+    ],
+    "instructions": [
+      "Sekoita kastikkeen ainekset pienessä kulhossa. Limetin voi korvata sitruunalla.",
+      "Sekoita salaatti, tomaatit, sipuli ja retiisit kulhossa. Punasipulin voi korvata tavallisella.",
+      "Kaada kastike päälle, sekoita ja tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-cucumber-blueberry-salad",
+    "title": "Kurkku-mustikkasalaatti",
+    "description": "Nopea ja raikas salaatti mustikoista, kurkusta, fetasta ja rucolasta limettivinegretillä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "marjat", "nopea"],
+    "ingredients": [
+      "Vinegretti:",
+      "1½ rkl ekstra-neitsytoliiviöljyä",
+      "2 rkl valkoista balsamietikkaa",
+      "1 rkl limettimehua",
+      "1 tl sokeria",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "Salaatti:",
+      "2½ dl tuoreita mustikoita",
+      "1 kurkku, pieninä paloina",
+      "1 l rucolaa",
+      "¼ punasipulia, ohuina viipaleina",
+      "½ dl kevytfetaa, murusteltuna",
+      "2 rkl saksanpähkinöitä, karkeasti hienonnettuna",
+      "4 viipaletta täysjyväleipää"
+    ],
+    "instructions": [
+      "Vatkaa vinegretin ainekset pienessä kulhossa.",
+      "Sekoita salaatin ainekset isossa kulhossa leipää lukuun ottamatta.",
+      "Lisää vinegretti juuri ennen tarjoilua ja sekoita.",
+      "Paahda leivät ja leikkaa neljään osaan."
+    ]
+  },
+  {
+    "id": "myplate-cucumber-salad-tomatoes",
+    "title": "Kurkku-tomaatti-kuskussalaatti",
+    "description": "Tuoreet tomaatit ja kurkut tekevät kuskussalaatista kesäherkun.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "kesä"],
+    "ingredients": [
+      "5 dl kurkkua, kuutioituna",
+      "2½ dl tomaattia, siemenet poistettuna ja kuutioituna",
+      "½ dl makeaa sipulia, pilkottuna",
+      "5 dl keitettyä kuskusta (tai riisiä)",
+      "2 tl tilliä, hienonnettuna",
+      "1¼ dl kevyttä italialaista salaatinkastiketta"
+    ],
+    "instructions": [
+      "Sekoita kurkku, tomaatit, sipuli, kuskus, tilli ja kastike.",
+      "Jäähdytä tunti ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-cucumber-salad",
+    "title": "Kermainen kurkkusalaatti",
+    "description": "Kevyt kermainen kurkkusalaatti, jonka voi tehdä etukäteen.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "suomalainen", "gluteeniton"],
+    "ingredients": [
+      "1 iso kurkku",
+      "2 rkl kevytjogurttia",
+      "1 rkl etikkaa",
+      "1 rkl rypsiöljyä",
+      "1 rkl vettä",
+      "1 tl tilliä",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Kuori ja viipaloi kurkku ohuiksi.",
+      "Sekoita muut ainekset kulhossa.",
+      "Lisää kurkkuviipaleet ja sekoita.",
+      "Jäähdytä tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-cucumber-yogurt-and-cream-cheese-dip",
+    "title": "Kurkku-jogurtti-tuorejuustodippi",
+    "description": "Viileä ja kirpeä kevyt jogurttidippi lempikasviksille.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl maustamatonta kevytjogurttia",
+      "115 g kevyttä tuorejuustoa, pehmenneenä",
+      "2½ dl kurkkua",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "suolaa ja sitruunapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita jogurtti ja tuorejuusto tasaiseksi.",
+      "Huuhtele kurkku, halkaise pituussuunnassa ja kaavi siemenet lusikalla pois.",
+      "Pilko kurkku pieniksi paloiksi.",
+      "Sekoita kurkku, valkosipuli ja mausteet jogurttiseokseen."
+    ]
+  },
+  {
+    "id": "myplate-cucumber-yogurt-and-herb-dip",
+    "title": "Kurkku-tillijogurttidippi ja kasvikset",
+    "description": "Sitruuna ja tilli tekevät kevytjogurttidipistä maukkaan ja terveellisen.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "gluteeniton"],
+    "ingredients": [
+      "2 kurkkua",
+      "5 dl maustamatonta kevytjogurttia",
+      "1¼ dl rasvatonta kermaviiliä",
+      "1 rkl sitruunamehua",
+      "1 rkl tuoretta tilliä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "2½ dl kirsikkatomaatteja",
+      "2½ dl parsakaalin kukintoja",
+      "2½ dl minipork­kanoita"
+    ],
+    "instructions": [
+      "Kuori, poista siemenet ja raasta toinen kurkku. Viipaloi toinen ja nosta sivuun.",
+      "Sekoita jogurtti, raastettu kurkku, kermaviili, sitruunamehu, tilli ja valkosipuli tarjoilukulhossa.",
+      "Jäähdytä tunti.",
+      "Asettele kurkkuviipaleet, tomaatit, parsakaali ja porkkanat värikkäälle vadille ja tarjoile dipin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-cumin-lime-shrimp-over-creamy-cauliflower-risotto",
+    "title": "Limetti-juustokuminakatkaravut ja kermainen kukkakaaliristto",
+    "description": "Nopea ja kevyt kukkakaaliristto, jonka kermaisuus tulee avokadosta.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 rkl oliiviöljyä, jaettuna",
+      "8 keskikokoista katkarapua, kuorittuna",
+      "1 tl juustokuminaa",
+      "1 limetti (raastettu kuori ja mehu)",
+      "¼ tl suolaa",
+      "1 ps (250 g) pakastettua kukkakaaliriisiä",
+      "1¼ dl sipulia, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 kypsä avokado, kuutioituna"
+    ],
+    "instructions": [
+      "Kypsennä kukkakaaliriisi mikrossa pakkauksen ohjeen mukaan (noin 5–6 minuuttia) ja nosta sivuun.",
+      "Kuumenna 1 rkl öljyä tarttumattomalla pannulla keskilämmöllä ja paista katkarapuja 2–3 minuuttia puoleltaan vaaleanpunaisiksi.",
+      "Nosta katkaravut kulhoon ja mausta juustokuminalla, limetinkuorella ja suolalla.",
+      "Lisää pannulle loput öljystä ja kuullota sipulia noin 2 minuuttia pehmeäksi.",
+      "Lisää valkosipuli ja avokado ja lämmitä minuutti.",
+      "Soseuta avokado-sipuliseos tehosekoittimessa limettimehun kanssa sileäksi.",
+      "Laita kukkakaaliriisi pannulle ja lisää avokadosose. Lämmitä keskilämmöllä varovasti sekoittaen, kunnes kukkakaali on kauniin vihreää.",
+      "Jaa kahteen kulhoon ja lisää päälle katkaravut."
+    ]
+  },
+  {
+    "id": "myplate-curried-brown-rice-pumpkin-seeds-apricots",
+    "title": "Curryriisi kurpitsansiemenillä, aprikooseilla ja pinaatilla",
+    "description": "Curry, sipuli ja kuivatut aprikoosit maustavat tumman riisin; paahdetut kurpitsansiemenet tuovat rouskutusta.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "riisi", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "2½ dl lyhytjyväistä tummaa riisiä",
+      "1 rkl oliiviöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 punasipuli, hienonnettuna",
+      "1 rkl currya",
+      "5 dl kasvislientä",
+      "2½ dl kuivattuja aprikooseja, pilkottuna",
+      "5 dl tuoretta pinaattia, pilkottuna",
+      "1¼ dl paahdettuja kurpitsansiemeniä",
+      "suolaa ja mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Huuhtele riisi hyvin.",
+      "Kuumenna öljy isossa paksupohjaisessa kattilassa keskilämmöllä ja kuullota sipulia ja valkosipulia 3–4 minuuttia. Sekoita joukkoon curry.",
+      "Lisää riisi ja liemi ja kuumenna kiehuvaksi.",
+      "Laske lämpöä, peitä ja hauduta 30–45 minuuttia, kunnes neste on imeytynyt.",
+      "Nosta liedeltä ja sekoita joukkoon aprikoosit ja pinaatti.",
+      "Peitä ja anna seistä 10 minuuttia.",
+      "Lisää kurpitsansiemenet, suola, pippuri (ja halutessasi lisää currya) ja kuohkeuta haarukalla. Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-curried-chicken-raisins-and-mushrooms",
+    "title": "Currykana rusinoilla ja sienillä",
+    "description": "Kana ja sienet sekä rusinoiden ja paprikan makeus tekevät tästä yhden pannun currysta perheen suosikin.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "sienet", "arkiruoka"],
+    "ingredients": [
+      "1½ tl oliiviöljyä",
+      "2 broilerin rintafilettä (n. 340 g), 2–3 cm:n kuutioina",
+      "5 dl herkkusieniä, viipaloituna",
+      "5 dl ruskeita herkkusieniä, viipaloituna",
+      "½ punaista paprikaa, paloiteltuna",
+      "5 dl kanalientä",
+      "2½ dl rusinoita",
+      "5 dl täysjyväpikariisiä",
+      "1½ rkl currya"
+    ],
+    "instructions": [
+      "Kuumenna öljy isolla pannulla.",
+      "Paista kanaa kannen alla keskikovalla lämmöllä noin 5 minuuttia.",
+      "Lisää sienet ja paprika ja paista 3–4 minuuttia.",
+      "Lisää liemi.",
+      "Sekoita joukkoon rusinat, riisi ja curry, kuumenna kiehuvaksi, laske lämpöä ja peitä.",
+      "Hauduta, kunnes riisi on kypsää. Kuohkeuta haarukalla ja anna seistä 3–5 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-curried-chicken-salad",
+    "title": "Currykanasalaatti",
+    "description": "Revitty kana jogurtissa, currylla ja korianterilla rapean sellerin ja omenan kanssa.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "4 kypsää broilerin reittä, jäähdytettynä ja revittynä (n. 7 dl)",
+      "2 rkl rypsiöljyä",
+      "2 rkl kevytjogurttia",
+      "1 rkl currya (tai enemmän)",
+      "2 vartta varsiselleriä, kuutioituna",
+      "1 omena, kuutioituna",
+      "½ dl säilykemandariineja, valutettuna",
+      "½ dl tuoretta korianteria ja/tai basilikaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Laita kana kulhoon ja lisää muut ainekset.",
+      "Sekoita.",
+      "Peitä ja jäähdytä vähintään tunti; säilyy jääkaapissa kolme päivää."
+    ]
+  },
+  {
+    "id": "myplate-curried-chickpea-salad",
+    "title": "Curryinen kikhernetäyte",
+    "description": "Tarjoa täysjyväleivällä, salaatinlehtien päällä tai dippinä kasvisten kanssa.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Salaatit",
+    "tags": ["kasvis", "palkokasvit", "eväät", "gluteeniton"],
+    "ingredients": [
+      "2 tlk (à 400 g) kikherneitä, huuhdeltuna ja valutettuna",
+      "1¼ dl varsiselleriä, kuutioituna",
+      "1¼ dl omenaa, kuutioituna",
+      "½ dl punasipulia, kuutioituna",
+      "½ dl kuivattuja karpaloita",
+      "½ dl kevytmajoneesia",
+      "1 tl dijonsinappia",
+      "2 tl currya",
+      "¼ tl kuivattua timjamia",
+      "ripaus mustapippuria",
+      "½ tl suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Survo kikherneet isossa kulhossa perunasurvimella haluamasi rakenteisiksi.",
+      "Lisää loput ainekset ja sekoita."
+    ]
+  },
+  {
+    "id": "myplate-curried-potatoes",
+    "title": "Curryperunat",
+    "description": "Maukkaat perunat paahdetun kanan ja salaatin kanssa.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "7 dl perunaa, kuorittuna ja 2–3 cm:n kuutioina",
+      "1 pieni sipuli, hienonnettuna",
+      "½ dl margariinia tai voita",
+      "1¾ dl kanalientä",
+      "½ rkl currya",
+      "½ rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Keitä perunakuutiot pehmeiksi. Valuta ja peitä jääkylmällä vedellä.",
+      "Sulata rasva paistinpannulla keskilämmöllä ja kuullota sipuli keltaiseksi.",
+      "Valuta perunat, lisää pannulle ja paista sekoittaen, kunnes ne ovat imeneet rasvan.",
+      "Lisää liemi, curry ja sitruunamehu ja kypsennä, kunnes perunat ovat imeneet liemen."
+    ]
+  },
+  {
+    "id": "myplate-curried-quinoa-and-cauliflower",
+    "title": "Curryinen kvinoa ja kukkakaali",
+    "description": "Maukas ruoka, jossa on proteiinia, kasviksia, maitotuotteita ja runsaasti yrttejä ja mausteita.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "gluteeniton"],
+    "ingredients": [
+      "2½ dl kvinoaa, huuhdeltuna",
+      "2 rkl oliiviöljyä",
+      "4 tl currya",
+      "½ tl juustokuminaa",
+      "2½ dl kasvislientä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 kukkakaali (n. 700 g), pieninä kukintoina",
+      "2½ dl pakasteherneitä",
+      "¾ dl maustamatonta kevytjogurttia",
+      "1¼ dl suolaamattomia paahdettuja cashewpähkinöitä",
+      "½ dl tuoretta korianteria, hienonnettuna",
+      "2 rkl kevätsipulia, hienonnettuna",
+      "2 rkl limettimehua",
+      "ripaus suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä kvinoa pakkauksen ohjeen mukaan juuri kypsäksi.",
+      "Kuumenna öljy kattilassa keskikovalla lämmöllä ja paahda curryä ja juustokuminaa noin 30 sekuntia.",
+      "Lisää liemi ja valkosipuli ja kuumenna kiehuvaksi.",
+      "Lisää kukkakaali, peitä ja kuumenna uudelleen kiehuvaksi. Hauduta keskilämmöllä 3 minuuttia.",
+      "Lisää herneet ja kypsennä välillä sekoittaen, kunnes kukkakaali on juuri kypsää. Nosta liedeltä.",
+      "Sekoita 2 rkl kukkakaalin lientä jogurttiin ja lisää seos kukkakaaliin.",
+      "Kääntele joukkoon kvinoa, cashewpähkinät ja korianteri.",
+      "Ripottele päälle kevätsipuli ja valuta päälle limettimehua. Mausta halutessasi ripauksella suolaa."
+    ]
+  },
+  {
+    "id": "myplate-curried-squash-stew",
+    "title": "Curryinen kurpitsapata",
+    "description": "Curry ja kaneli antavat erityisen maun kesäkurpitsa-, myskikurpitsa-, tomaatti- ja papupadalle.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "pataruoka", "palkokasvit", "gluteeniton"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 keltasipuli, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 varsiselleri lehtineen, pilkottuna",
+      "½ tl kanelia",
+      "1 iso kesäkurpitsa (tai 2 pientä), kuutioituna",
+      "2 rkl currya",
+      "7 dl myskikurpitsaa, kuutioituna",
+      "1 tlk (400 g) tomaattimurskaa",
+      "1 tlk (400 g) valkoisia papuja tai kikherneitä, valutettuna ja huuhdeltuna"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Kuullota sipulia, valkosipulia ja selleriä noin 10 minuuttia, kunnes sipuli on pehmeää. Lisää kaneli.",
+      "Lisää kesäkurpitsa ja curry ja kypsennä 10 minuuttia välillä sekoittaen.",
+      "Lisää myskikurpitsa, tomaatit ja pavut ja peitä.",
+      "Kypsennä noin 10 minuuttia, kunnes kurpitsa on pehmeää.",
+      "Tarjoile tumman riisin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-curry-dip",
+    "title": "Currydippi",
+    "description": "Curry tekee kasvisdipistä maukkaan – tarjoa kasvisten tai täysjyväpitan kanssa.",
+    "servings": 16,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl rasvatonta kermaviiliä",
+      "2½ dl maustamatonta rasvatonta jogurttia",
+      "1 rkl currya"
+    ],
+    "instructions": [
+      "Sekoita kermaviili, jogurtti ja curry.",
+      "Säilytä kannellisessa rasiassa jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-curry-vegetable-dip",
+    "title": "Curry-porkkanadippi",
+    "description": "Tulisella currylla dipistä tulee potkua, tavallisella miedompi.",
+    "servings": 16,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2½ dl maustamatonta kevytjogurttia",
+      "½ dl porkkanaa, raastettuna",
+      "2 rkl kevätsipulia, hienonnettuna",
+      "1 rkl majoneesia",
+      "1 tl sokeria",
+      "¼ tl currya",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita ainekset kulhossa.",
+      "Jäähdytä.",
+      "Tarjoile rapeiden kasvistikkujen, kuten sellerin, porkkanan tai kesäkurpitsan, kanssa."
+    ]
+  },
+  {
+    "id": "myplate-curtido-salvadoreno-cabbage-salad",
+    "title": "Curtido – salvadorilainen kaalisalaatti",
+    "description": "Hapan kaalisalaatti, joka sopii grillijuhlien lisukkeeksi.",
+    "servings": 8,
+    "totalTimeMin": 135,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "gluteeniton"],
+    "ingredients": [
+      "1 valkokaali, pilkottuna",
+      "2 porkkanaa, raastettuna",
+      "1 pieni sipuli, viipaloituna",
+      "½ tl chilihiutaleita (valinnainen)",
+      "½ tl oreganoa",
+      "1 tl oliiviöljyä",
+      "½ tl suolaa",
+      "1 tl fariinisokeria",
+      "½ dl etikkaa",
+      "1¼ dl vettä"
+    ],
+    "instructions": [
+      "Kaada kaalin päälle kiehuvaa vettä ja anna seistä minuutti. Valuta.",
+      "Laita kaali isoon kulhoon ja lisää porkkana, sipuli, chili, oregano, öljy, suola, sokeri, etikka ja vesi.",
+      "Anna maustua jääkaapissa vähintään 2 tuntia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-daves-herb-stuffed-mushrooms",
+    "title": "Yrttitäytteiset herkkusienet",
+    "description": "Isot herkkusienet täytettynä kikherneillä, aurinkokuivatuilla tomaateilla ja yrteillä.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "sienet", "uuniruoka"],
+    "ingredients": [
+      "8 isoa herkkusientä (n. 7 cm)",
+      "4 valkosipulinkynttä",
+      "1¾ dl sipulia",
+      "3 tl oliiviöljyä",
+      "½ tl kuivattua persiljaa",
+      "½ tl kuivattua salviaa",
+      "½ tl kuivattua rosmariinia",
+      "½ tl kuivattua timjamia",
+      "½ dl täysjyväkorppujauhoja",
+      "½ dl aurinkokuivattuja tomaatteja, hienonnettuna",
+      "1¾ dl kikherneitä (säilyke), valutettuna",
+      "1 tl sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Puhdista sienet talouspaperilla tai harjalla ja irrota jalat täytettä varten.",
+      "Paista sienten lakkeja avoin puoli alaspäin uunissa 10 minuuttia uunin lämmetessä.",
+      "Hienonna valkosipuli ja sipuli ja kuullota 1 tl:ssa öljyä. Lisää yrtit minuuttia ennen kuin kuullotus on valmis ja nosta liedeltä minuutin päästä.",
+      "Survo isossa kulhossa sienten jalat ja kikherneet.",
+      "Lisää loput ainekset (myös loput öljystä) ja sekoita hyvin.",
+      "Voitele uunipelti ja sienten lakit ohuelti öljyllä.",
+      "Täytä sienet ja nosta pellille.",
+      "Paista 15–18 minuuttia, kunnes täyte on kullanruskeaa. Ripottele päälle haluamaasi yrttiä."
+    ]
+  },
+  {
+    "id": "myplate-deep-dish-apple-cranberry-pie",
+    "title": "Syvä omena-karpalopiirakka",
+    "description": "Karpalot ja omenat ovat täydellinen yhdistelmä kotitekoisessa piirakassa.",
+    "servings": 10,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "piirakka", "omena", "marjat"],
+    "ingredients": [
+      "4 isoa omenaa, kuorittuna ja viipaloituna",
+      "6 dl karpaloita (tuoreita tai pakastettuja)",
+      "1¾ dl sokeria",
+      "½ dl vehnäjauhoja",
+      "1 tl omenapiirakkamaustetta (kanelia, muskottia, maustepippuria)",
+      "1 valmis piirakkataikinalevy"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset taikinaa lukuun ottamatta ja kaada noin 25 cm:n syvään piirakkavuokaan.",
+      "Peitä täyte taikinalevyllä.",
+      "Viillä kanteen 3–4 höyryaukkoa.",
+      "Paista 190 asteessa noin tunti.",
+      "Tarjoile lämpimänä ja säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-delicious-greens",
+    "title": "Lehtivihannekset valkosipulilla",
+    "description": "Perinteiset lehtivihannekset yhdistettyinä kaaliin, valkosipuliin ja sipuliin – maukas ja ravitseva lisuke.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "lisuke", "nopea", "gluteeniton"],
+    "ingredients": [
+      "8 dl sinappikaalia tai lehtikaalia (n. 225 g)",
+      "5 dl valkokaalia, suikaloituna",
+      "1 rkl oliiviöljyä",
+      "2 rkl valkosipulia, hienonnettuna",
+      "1 sipuli, pilkottuna",
+      "1 rkl etikkaa"
+    ],
+    "instructions": [
+      "Huuhtele lehdet, poista varret ja revi pieniksi.",
+      "Kiehauta isossa kattilassa noin 3 l vettä.",
+      "Lisää lehtikaali, kuumenna uudelleen kiehuvaksi ja keitä 3 minuuttia.",
+      "Lisää valkokaali ja keitä vielä minuutti. Valuta.",
+      "Kuumenna öljy isolla tarttumattomalla pannulla keskikovalla lämmöllä ja kuullota valkosipulia ja sipulia kevyesti ruskeiksi, noin 3 minuuttia.",
+      "Lisää kaalit ja etikka ja kypsennä noin 3 minuuttia. Tarjoile kuumana."
+    ]
+  }
+]

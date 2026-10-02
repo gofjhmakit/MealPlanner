@@ -1,0 +1,675 @@
+[
+  {
+    "id": "wikibooks-brazilian-black-bean-soup",
+    "title": "Brasilialainen mustapapukeitto",
+    "description": "Paksu, mausteinen papukeitto limetillä ja kevätsipulilla.",
+    "servings": 4,
+    "totalTimeMin": 300,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "brasilialainen", "pavut", "keitto"],
+    "ingredients": [
+      "5 dl kuivattuja mustia papuja",
+      "2 l vettä",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "½ dl kuutioitua sipulia",
+      "½ dl hienonnettua kevätsipulia",
+      "2 kokonaista neilikkaa",
+      "½ tl juustokuminaa",
+      "1 rkl tulista chilijauhetta",
+      "1 limetin mehu (+ lohkoja tarjoiluun)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita pavut isoon kattilaan ja peitä vedellä. Kiehauta, nosta liedeltä ja anna seistä kannen alla tunti. Keitä hiljalleen 2 tuntia ja valuta.",
+      "Laita pavut kattilaan ja lisää 2 l vettä, valkosipuli, suola, sipuli, juustokumina, chili ja limettimehu. Lisää neilikat (halutessasi harsopussissa). Kiehauta, laske lämpö ja hauduta kannen alla noin 2 tuntia, kunnes pavut ovat pehmeitä ja keitto paksua.",
+      "Sekoita joukkoon kevätsipuli, mausta pippurilla ja tarjoa limettilohkon kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-brazilian-feijoada",
+    "title": "Brasilialainen feijoada",
+    "description": "Brasilian kansallisruoka: mustapapupata usealla lihalla, riisi, farofa, kaali ja appelsiini.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["liha", "brasilialainen", "pavut", "juhla"],
+    "ingredients": [
+      "Pata:",
+      "225 g porsaan kylkiluita",
+      "2 naudan sisäfileemedaljonkia (n. 300 g)",
+      "1 savumakkara",
+      "115 g kinkkua",
+      "400 g savustettuja porsaankyljyksiä",
+      "2½ dl pekonia, kuutioina",
+      "½ dl oliiviöljyä",
+      "1 sipuli, viipaloituna",
+      "2 rkl hienonnettua persiljaa",
+      "2 rkl ruohosipulia",
+      "2–3 tlk (à 400 g) mustia papuja",
+      "suolaa",
+      "Riisi:",
+      "7 dl riisiä",
+      "¼ sipulia, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "1,4 l vettä",
+      "Farofa:",
+      "2½ dl pekonia, kuutioina",
+      "½ dl mustia oliiveja",
+      "½ dl oliiviöljyä",
+      "¼ sipulia, hienonnettuna",
+      "5 dl paahdettua maniokkijauhoa (farofa)",
+      "Kaali:",
+      "1 nippu lehtikaalia, ohuina suikaleina",
+      "1 sipuli, viipaloituna",
+      "1 rkl oliiviöljyä",
+      "ripaus suolaa ja sokeria",
+      "Tarjoiluun:",
+      "4–8 appelsiinia, viipaloituina",
+      "tulista kastiketta"
+    ],
+    "instructions": [
+      "Edellisenä päivänä tai aiemmin: halutessasi suolaa kylkiluut perinteiseen tapaan ja liota suola pois vaihtamalla vesi kolme kertaa. Muuten mausta kylkiluut suolalla.",
+      "Leikkaa sisäfilee, kinkku ja kyljykset noin 2,5 cm:n paloiksi ja makkara viipaleiksi. Jätä luihin hieman lihaa.",
+      "Kuumenna oliiviöljy isossa kattilassa ja lisää pekoni ja kylkiluut. Kypsennä kannen alla keskilämmöllä 10–15 minuuttia välillä sekoittaen.",
+      "Lisää sipuli, persilja, ruohosipuli ja loput lihat ja kypsennä 15 minuuttia.",
+      "Lisää pavut liemineen ja yksi tölkillinen vettä. Kun pata kiehuu, laske lämpö keskimiedoksi ja keitä noin 30 minuuttia, kunnes liha on pehmeää ja irtoaa luista. Lisää kuumaa vettä tarvittaessa ja tarkista suola varovasti.",
+      "Riisi: huuhtele ja valuta riisi. Kuullota sipuli ja valkosipuli öljyssä, lisää riisi ja ripaus suolaa, sekoita ja lisää kuuma vesi. Kun kiehuu, laske lämpö, peitä ja keitä kypsäksi.",
+      "Farofa: paista pekoni kullanruskeaksi, lisää oliivit, oliiviöljy ja sipuli ja kypsennä pehmeäksi. Lisää maniokkijauho ja sekoita halutun koostumuksen saamiseksi, varo polttamasta.",
+      "Kaali: kuullota sipuli oliiviöljyssä, lisää kaali, suola ja sokeri, peitä ja kypsennä 15 minuuttia välillä sekoittaen.",
+      "Kuori ja viipaloi appelsiinit.",
+      "Tarjoa papupata riisin, farofan, kaalin, appelsiiniviipaleiden ja tulisen kastikkeen kanssa."
+    ],
+    "notes": ["Feijoada on vielä maukkaampaa seuraavana päivänä."]
+  },
+  {
+    "id": "wikibooks-brazilian-shrimp-and-cassava-sauce-bob-de-camarao",
+    "title": "Bobó de camarão – brasilialainen katkarapu-maniokkipata",
+    "description": "Katkaravut kermaisessa maniokki-kookoskastikkeessa palmuöljyn kera.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "brasilialainen", "kookos"],
+    "ingredients": [
+      "1,2 kg keskikokoisia katkarapuja",
+      "1,2 kg maniokkia",
+      "5 dl hienonnettua sipulia",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1¼ dl oliiviöljyä",
+      "6 keskikokoista tomaattia, kuorittuina ja siemenet poistettuina",
+      "½ dl hienonnettua korianteria",
+      "5 dl kookosmaitoa",
+      "½ dl palmuöljyä (dendê)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuori ja paloittele maniokki ja laita kattilaan kylmän veden ja suolan kanssa.",
+      "Keitä pehmeäksi, valuta ja säästä sekä maniokki että keitinliemi.",
+      "Poista maniokin kuidut.",
+      "Survo maniokki kuumana haarukalla tasaiseksi lisäten hieman keitinlientä. Älä käytä tehosekoitinta.",
+      "Kuori katkaravut ja poista suolet.",
+      "Kuullota sipuli ja valkosipuli oliiviöljyssä pehmeiksi.",
+      "Lisää puolet korianterista ja tomaatit ja sekoita.",
+      "Lisää katkaravut ja kypsennä noin 15 minuuttia.",
+      "Lisää maniokkisose ja ohenna tarvittaessa keitinliemellä.",
+      "Lisää kookosmaito, loput korianterista ja palmuöljy.",
+      "Mausta suolalla ja pippurilla.",
+      "Tarjoa valkoisen riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-bread-filled-with-potato-curry-pani-puri",
+    "title": "Pani puri – täytetyt puri-leivät",
+    "description": "Rapeat puri-pallot perunalla, mungpavuilla ja mausteisella vedellä täytettyinä.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "intialainen", "katuruoka"],
+    "ingredients": [
+      "Maustevesi:",
+      "1 rkl chaat masalaa",
+      "1 rkl mangojauhetta (amchur)",
+      "1 rkl chilijauhetta",
+      "1 rkl jauhettua korianterinsiementä",
+      "1 rkl juustokuminaa",
+      "ripaus asafoetidaa",
+      "½ rkl mustapippuria",
+      "2 rkl sitruunamehua",
+      "mustaa suolaa",
+      "5 dl kylmää vettä",
+      "Täyte:",
+      "2 perunaa",
+      "100 g mungpapuja (moong dal)",
+      "50 g tamarinditahnaa",
+      "100 g sokeria",
+      "50 g boondi-kikhernepalloja",
+      "1 rkl hienonnettua korianteria",
+      "15 pientä puri-leipää"
+    ],
+    "instructions": [
+      "Sekoita mangojauhe, chaat masala, juustokumina, korianteri, asafoetida, pippuri, sitruunamehu, musta suola, chilijauhe ja vesi ja jäähdytä.",
+      "Keitä perunat ja mungpavut erikseen. Kuori perunat ja survo karkeasti.",
+      "Keitä tamarindista, sokerista ja tilkasta vettä chutney ja jäähdytä.",
+      "Riko purien yläosa, täytä perunalla, mungpavuilla, boondilla, korianterilla ja chutneylla ja kaada sisään kylmää maustevettä.",
+      "Koristele korianterilla ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-bread-pudding",
+    "title": "Leipävanukas",
+    "description": "Helppo uunissa paistettu leipävanukas kanelilla ja rusinoilla.",
+    "servings": 12,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "hävikki"],
+    "ingredients": [
+      "6 viipaletta leipää",
+      "30 g voita, sulatettuna",
+      "80 g rusinoita (valinnainen)",
+      "4 kananmunaa",
+      "150 g sokeria",
+      "4¾ dl maitoa",
+      "1 tl kanelia",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Revi tai kuutioi leipä uunivuokaan ja sekoita joukkoon rusinat.",
+      "Valuta sulatettu voi leivän päälle.",
+      "Vatkaa munat kevyesti ja lisää sokeri, maito, kaneli ja vanilja.",
+      "Kaada seos leivän päälle ja painele leipää, jotta kaikki kostuu.",
+      "Paista 45 minuuttia.",
+      "Anna jäähtyä ja tarjoa kylmänä tai lämpimänä lusikalla tai paloiksi leikattuna."
+    ]
+  },
+  {
+    "id": "wikibooks-bread-with-tomato-sauce-pappa-al-pomodoro",
+    "title": "Pappa al pomodoro – toscanalainen leipä-tomaattikeitto",
+    "description": "Paksu keitto kuivasta leivästä, tomaatista, valkosipulista ja basilikasta.",
+    "servings": 2,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "italialainen", "keitto", "hävikki"],
+    "ingredients": [
+      "½ kuivaa leipää",
+      "7½ dl tomaattisosetta (passata)",
+      "1–2 valkosipulinkynttä, murskattuna ja hienonnettuna",
+      "3 rkl oliiviöljyä (+ tarjoiluun)",
+      "1 kourallinen basilikanlehtiä, revittyinä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kasta leipää hetki vedessä, niin että sen voi murskata käsin. Leipä ei saa liota.",
+      "Paista valkosipulia öljyssä isossa pannussa, kunnes se alkaa muuttaa väriä.",
+      "Lisää tomaattisose ja suola ja kuumenna keskilämmöllä kiehuvaksi.",
+      "Purista leivästä vesi ja lisää se pähkinän kokoisina tai isompina paloina. Sekoita, kunnes leipä on täysin punaista. Tomaatin tulee vielä tuoksua raikkaalta.",
+      "Tarjoa kuumana kulhoissa oliiviöljyllä, pippurilla ja basilikalla viimeisteltynä."
+    ]
+  },
+  {
+    "id": "wikibooks-breaded-chicken-livers",
+    "title": "Jauhotetut paistetut broilerinmaksat",
+    "description": "Nopeasti pannulla paistetut maksat, pinnalta rapeat ja sisältä punertavat.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "sisäelimet", "nopea"],
+    "ingredients": [
+      "500 g broilerin maksoja",
+      "1 dl vehnäjauhoja",
+      "suolaa",
+      "mustapippuria",
+      "ripaus cayennepippuria (valinnainen)",
+      "2 rkl öljyä"
+    ],
+    "instructions": [
+      "Poista maksoista jänteet.",
+      "Mausta jauhot suolalla, pippurilla ja halutessasi cayennella. Kääntele maksat jauhoissa ja ravista ylimäärä pois.",
+      "Laske maksat varovasti kuumalle öljytylle pannulle.",
+      "Paista 2–3 minuuttia per puoli, kunnes pinta on kullanruskea ja sisus vielä hieman punertava.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-breaded-fried-oysters",
+    "title": "Korppujauhopaistetut osterit",
+    "description": "Kerma-munaseokseen ja korppuihin kastetut, nopeasti paistetut osterit.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["äyriäiset", "friteerattu", "alkuruoka"],
+    "ingredients": [
+      "5 dl isoja avattuja ostereita, puhdistettuina ja kuivattuina",
+      "2 kananmunaa",
+      "½ dl kuohukermaa",
+      "5 dl hienoja korppujauhoja tai keksimuruja",
+      "suolaa",
+      "mustapippuria",
+      "cayennepippuria",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuivaa osterit puhtaan pyyhkeen päällä.",
+      "Vatkaa munat ja kerma ja kaada matalaan kulhoon.",
+      "Sekoita korppujauhot, suola, pippuri ja cayenne lautasella.",
+      "Kasta osterit yksitellen haarukalla munaseokseen ja sitten korppuihin. Painele korput kiinni lusikan selällä.",
+      "Kuumenna öljy pannussa.",
+      "Paista osterit erissä nopeasti molemmin puolin vaaleanruskeiksi, 1–2 minuuttia per puoli.",
+      "Tarjoa kuumina."
+    ]
+  },
+  {
+    "id": "wikibooks-breaded-potato-wedges",
+    "title": "Rapeat maissihiutale-perunalohkot",
+    "description": "Mausteiset perunalohkot maissihiutalekuoressa kahdesti friteerattuina.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "friteerattu"],
+    "ingredients": [
+      "900 g jauhoisia perunoita, 10 lohkoon leikattuina",
+      "2 tl suolaa",
+      "1 rkl mustapippuria",
+      "1 rkl cayennepippuria",
+      "1 rkl savupaprikajauhetta",
+      "1¼ dl murskattuja maissihiutaleita",
+      "3 kananmunaa, vatkattuina",
+      "2 rkl hienonnettua valkosipulia",
+      "öljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita munat ja mausteet. Kastele perunalohkot munaseoksessa ja kääntele maissihiutaleissa. Anna seistä 2–3 minuuttia.",
+      "Kuumenna öljy 175 asteeseen. Friteeraa lohkoja erissä 3–4 minuuttia, kunnes ne pehmenevät. Valuta ritilällä.",
+      "Kuumenna öljy 190 asteeseen ja friteeraa lohkot uudelleen kullanruskeiksi ja rapeiksi. Valuta ja tarjoa lämpiminä."
+    ],
+    "notes": ["Alkuperäisen ohjeen suolamäärää on vähennetty."]
+  },
+  {
+    "id": "wikibooks-breakfast-burrito",
+    "title": "Aamiaisburrito",
+    "description": "Tortillaan käärittyjä kananmunia, pekonia, rösti-perunaa ja juustoa.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "meksikolainen"],
+    "ingredients": [
+      "8 kananmunaa (munakokkelina, paistettuina tai uppomunina)",
+      "4 isoa vehnätortillaa",
+      "8 viipaletta paistettua pekonia tai 400 g paistettua aamiaismakkaraa",
+      "4 annosta perunaröstiä",
+      "1 dl juustoraastetta",
+      "suolaa",
+      "mustapippuria",
+      "hollandaisekastiketta (valinnainen)"
+    ],
+    "instructions": [
+      "Laita neljännes röstistä tortillalle.",
+      "Lisää päälle 2 viipaletta pekonia tai neljännes makkarasta.",
+      "Lisää kaksi kananmunaa, juustoa, suolaa ja pippuria.",
+      "Kääri tortilla täytteen ympärille. Paistettuja munia käytettäessä voit puristaa burritoa niin, että keltuainen levittyy kastikkeeksi."
+    ]
+  },
+  {
+    "id": "wikibooks-breakfast-casserole",
+    "title": "Aamiaisvuoka makkaralla ja pekonilla",
+    "description": "Kerrosvuoka maissileivästä, ricotasta, makkarasta ja pekonista juustokuorrutteella.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Aamiainen",
+    "tags": ["liha", "kananmuna", "uuniruoka"],
+    "ingredients": [
+      "5 pientä nakkimakkaraa, kypsennettyinä ja hienonnettuina",
+      "8 viipaletta paistettua pekonia, murennettuna",
+      "4 kananmunaa, vatkattuina",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "5 dl hienoksi murennettua maissileipää",
+      "2½ dl ricottaa",
+      "55 g suolatonta voita, sulatettuna",
+      "2½ dl raastettua juustoa (esim. Monterey Jack)",
+      "1¼ dl korppujauhoja"
+    ],
+    "instructions": [
+      "Sekoita makkara ja pekoni. Sekoita toisessa kulhossa ricotta, munat, voi, suola, pippuri ja maissileipä.",
+      "Levitä voidellun ison vuoan pohjalle ohut kerros maissileipäseosta ja sen päälle kerros lihaseosta. Toista, kunnes seokset on käytetty.",
+      "Sekoita juusto ja korppujauhot ja ripottele pinnalle. Paista 190 asteessa 30–35 minuuttia, kunnes pinta on ruskistunut ja kupliva.",
+      "Tarjoa lämpimänä."
+    ]
+  },
+  { "id": "wikibooks-breakfast-sludge", "skip": "vitsiresepti, ei varsinainen ruokaohje" },
+  {
+    "id": "wikibooks-breakfast-waffles",
+    "title": "Aamiaisvohvelit",
+    "description": "Kuohkeat vohvelit vaahdotetuilla valkuaisilla, valmiina 15 minuutissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "vohvelit", "nopea"],
+    "ingredients": [
+      "3 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+      "3½ dl maitoa",
+      "225 g vehnäjauhoja (n. 4 dl)",
+      "2 tl leivinjauhetta",
+      "1 rkl sokeria",
+      "½ tl suolaa",
+      "½ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita keltuaiset ja maito.",
+      "Lisää jauhot, leivinjauhe, sokeri ja suola ja sekoita hyvin.",
+      "Lisää öljy.",
+      "Vatkaa valkuaiset kovaksi vaahdoksi ja kääntele taikinaan.",
+      "Kuumenna vohvelirauta.",
+      "Paista kauhallinen taikinaa kerrallaan ruskeaksi ja kypsäksi.",
+      "Toista lopulla taikinalla."
+    ]
+  },
+  { "id": "wikibooks-breakfast-waffles-gluten-free", "skip": "lähes sama resepti kuin edelliset vohvelit" },
+  { "id": "wikibooks-bredie-south-african-mutton-stew", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-brigadeiro-brazilian-chocolate-fudge",
+    "title": "Brigadeiro – brasilialaiset suklaakonvehdit",
+    "description": "Kondensoidusta maidosta ja kaakaosta keitetyt suklaapallot nonparelleissa.",
+    "servings": 25,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "brasilialainen", "karkki", "suklaa"],
+    "ingredients": [
+      "1 tlk (395 g) makeutettua kondensoitua maitoa",
+      "1 rkl voita",
+      "3 rkl kaakaojauhetta",
+      "1–2 dl suklaarakeita koristeluun"
+    ],
+    "instructions": [
+      "Sekoita kondensoitu maito, kaakao ja voi paksupohjaisessa kattilassa.",
+      "Kuumenna miedolla lämmöllä koko ajan sekoittaen, ettei synny paakkuja.",
+      "Sekoita 10–12 minuuttia, kunnes kattilan pohja näkyy hetken, kun vedät lusikan sen poikki. Mitä pidempään keität, sitä kovempia konvehdeista tulee.",
+      "Anna seoksen jäähtyä.",
+      "Voitele kädet ja pyörittele seoksesta noin 2 cm:n palloja. Pyöritä pallot suklaarakeissa."
+    ],
+    "notes": ["Kaakaon voi korvata 100 g:lla leivontasuklaata. Pallojen sisään voi laittaa rusinan tai pähkinän."]
+  },
+  {
+    "id": "wikibooks-brioche-stuffing",
+    "title": "Briossi-omenatäyte uunissa",
+    "description": "Makeahko lisuke briossista, saksanpähkinöistä, kuivatusta omenasta ja salviasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "juhla"],
+    "ingredients": [
+      "5 dl briossia, karkeasti paloiteltuna",
+      "1¼ dl saksanpähkinöitä, hienonnettuna",
+      "½ dl kuivattuja omenoita, karkeasti pilkottuna",
+      "suolaa",
+      "mustapippuria",
+      "½ dl hunajaa",
+      "55 g suolatonta voita, pieninä kuutioina",
+      "2 rkl fariinisokeria",
+      "½ dl kuutioitua punasipulia",
+      "2 valkosipulinkynttä, murskattuna ja hienonnettuna",
+      "½ tl kuivattua salviaa",
+      "½ dl kuutioitua lehtiselleriä"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset syvässä uunivuoassa ja painele löyhäksi tasaiseksi kerrokseksi.",
+      "Paista 190 asteessa 25 minuuttia.",
+      "Nosta lämpö 220 asteeseen ja paista vielä 10 minuuttia. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-british-christmas-pudding",
+    "title": "Brittiläinen jouluvanukas",
+    "description": "Moderni, helppo versio höyrytetystä jouluvanukkaasta kuivatuilla hedelmillä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 240,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "brittiläinen", "joulu"],
+    "ingredients": [
+      "450 g kuivattuja hedelmiä (rusinoita, korintteja)",
+      "55 g vehnäjauhoja",
+      "100 g fariinisokeria",
+      "½ sitruunan raastettu kuori ja mehu",
+      "½ appelsiinin raastettu kuori ja mehu",
+      "40 g tuoreita vaaleita leivänmuruja",
+      "40 g rouhittuja manteleita",
+      "2 kananmunaa",
+      "75 g voita, sulatettuna",
+      "1 pieni omena, raastettuna"
+    ],
+    "instructions": [
+      "Sekoita kuivatut hedelmät isossa kulhossa.",
+      "Sekoita joukkoon jauhot, sitten sokeri, sitrushedelmät, leivänmurut, mantelit, raastettu omena ja sulatettu voi.",
+      "Vatkaa munat erillisessä kulhossa ja sekoita joukkoon.",
+      "Kaada seos voideltuun vanukasvuokaan, peitä leivinpaperilla ja foliolla ja höyrytä useita tunteja (noin 3–4 tuntia). Säilytä viileässä.",
+      "Tarjoa voin, kerman, vaniljakastikkeen tai konjakkivoin kanssa."
+    ],
+    "notes": ["Vanukkaan voi valmistaa jopa kuusi viikkoa ennen joulua ja säilyttää leivinpaperiin käärittynä viileässä."]
+  },
+  {
+    "id": "wikibooks-broccoli-burgers",
+    "title": "Parsakaalipihvit",
+    "description": "Uunissa paistetut kasvispihvit parsakaalista, manteleista ja kananmunasta.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pihvit", "uuniruoka"],
+    "ingredients": [
+      "2 kananmunaa",
+      "2½ dl hienonnettua parsakaalia",
+      "1¼ dl paahdettuja manteleita, rouhittuina",
+      "2 dl hienonnettua punasipulia",
+      "1¼ dl maustettuja korppujauhoja",
+      "¾ dl vettä",
+      "suolaa",
+      "mustapippuria",
+      "4 paahdettua sämpylää",
+      "majoneesia",
+      "salaattia"
+    ],
+    "instructions": [
+      "Vatkaa munat kulhossa.",
+      "Sekoita joukkoon parsakaali, mantelit, sipuli, korppujauhot ja vesi.",
+      "Mausta suolalla ja pippurilla.",
+      "Muotoile öljytylle pellille neljä noin 2 cm paksua pihviä.",
+      "Paista 190 asteessa yhteensä noin 25 minuuttia, käännä puolivälissä, kunnes molemmat puolet ovat kullanruskeita.",
+      "Tarjoa sämpylöissä majoneesin ja salaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-broccoli-kugel",
+    "title": "Parsakaalikugel",
+    "description": "Juutalainen parsakaalivuoka kananmunalla ja majoneesilla, maidoton.",
+    "servings": 8,
+    "totalTimeMin": 75,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "juutalainen", "uuniruoka"],
+    "ingredients": [
+      "1,4 kg pakastettua parsakaalia, sulatettuna",
+      "115 g margariinia",
+      "1¼ dl vehnäjauhoja",
+      "1 rkl kasvisliemijauhetta",
+      "2½ dl vettä",
+      "2½ dl majoneesia",
+      "2 rkl sipulikeittoainesta",
+      "6 kananmunaa",
+      "½ tl mustapippuria",
+      "4 tl pinjansiemeniä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sulata margariini ja sekoita joukkoon jauhot.",
+      "Lisää vesi, liemijauhe ja majoneesi ja sekoita, kunnes seos sakeutuu.",
+      "Nosta liedeltä ja lisää loput ainekset.",
+      "Kaada noin 22 × 33 cm:n vuokaan ja paista noin tunti, kunnes keskusta on kiinteä."
+    ]
+  },
+  {
+    "id": "wikibooks-broccoli-salad",
+    "title": "Parsakaalisalaatti pekonilla",
+    "description": "Nyyttäreiden suosikki: parsakaali, pekoni, rusinat ja makea majoneesikastike.",
+    "servings": 12,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["liha", "salaatti", "amerikkalainen"],
+    "ingredients": [
+      "700–800 g parsakaalin kukintoja",
+      "7–8 viipaletta rapeaksi paistettua pekonia, murennettuna",
+      "1 punasipuli, hienonnettuna",
+      "1 omena, pilkottuna (valinnainen)",
+      "2½ dl rusinoita, liotettuina kiehuvassa vedessä",
+      "2½ dl majoneesia",
+      "1¼ dl sokeria",
+      "1¼ dl pekaanipähkinöitä tai auringonkukansiemeniä",
+      "tilkka omenaviinietikkaa tai sitruunamehua"
+    ],
+    "instructions": [
+      "Vatkaa majoneesi, sokeri ja etikka keskenään.",
+      "Sekoita muut ainekset isossa kulhossa ja kääntele kastike joukkoon.",
+      "Peitä.",
+      "Anna maustua jääkaapissa yön yli ennen tarjoilua."
+    ],
+    "notes": ["Säilytä jääkaapissa. Pinnalle voi ripotella lisää pähkinöitä tai siemeniä."]
+  },
+  {
+    "id": "wikibooks-broccoli-stir-fry",
+    "title": "Parsakaali-kanawokki",
+    "description": "Yksinkertainen wokki broilerista, parsakaalista, soijasta ja seesaminsiemenistä.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "wokki", "aasialainen", "nopea"],
+    "ingredients": [
+      "400 g broilerin fileetä tai muuta lihaa",
+      "1 iso parsakaali",
+      "¼ tl inkiväärijauhetta (valinnainen)",
+      "1–2 rkl soijakastiketta",
+      "2 rkl öljyä (osittain seesamiöljyä)",
+      "2 rkl seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Leikkaa liha pieniksi paloiksi.",
+      "Pilko parsakaali noin 3 cm:n kukinnoiksi ja varsi ohuiksi kiekoiksi.",
+      "Kuumenna öljy wokissa. Kovalla lämmöllä tulos on parempi, mutta silloin pitää sekoittaa nopeasti. Paista tarvittaessa erissä.",
+      "Paahda seesaminsiemenet kullanruskeiksi ja nosta sivuun.",
+      "Paista liha kypsäksi. Valuta liemi ja lisää öljyä tarvittaessa.",
+      "Lisää soijakastike, seesaminsiemenet ja inkivääri.",
+      "Lisää parsakaali, varret ensin. Paista, kunnes parsakaali on kirkkaanvihreää ja hieman pehmennyt."
+    ],
+    "notes": ["Loppuvaiheessa voi lisätä oljensieniä, vesikastanjoita tai papuituja."]
+  },
+  {
+    "id": "wikibooks-broiled-sirloin-steak",
+    "title": "Uunissa grillattu ulkofileepihvi",
+    "description": "Mehevä ulkofileepihvi uunin grillivastuksen alla paistolämpömittarin avulla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "nopea", "uuniruoka"],
+    "ingredients": [
+      "1 naudan ulkofileepihvi (n. 400 g)",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Aseta ritilä uunin yläosaan ja toinen sen alle. Laita alemmalle ritilälle foliolla vuorattu pelti. Kuumenna grillivastus.",
+      "Sivele pihvi molemmin puolin öljyllä ja mausta reilusti suolalla ja pippurilla.",
+      "Nosta pihvi ylemmälle ritilälle ja työnnä paistolämpömittari paksuimpaan kohtaan. Pidä uunin luukku raollaan ja kypsennä, kunnes sisälämpö on 60 astetta (punertava) tai 68 astetta (keskikypsä).",
+      "Siirrä lautaselle, peitä foliolla ja anna levätä 7 minuuttia. Leikkaa vinosti syitä vastaan ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-butter-biscuits",
+    "title": "Ruskistetun voin keksit",
+    "description": "Helpot pähkinäisen makuiset voikeksit.",
+    "servings": 20,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit"],
+    "ingredients": [
+      "125 g voita",
+      "110 g hienoa sokeria",
+      "1 kananmuna",
+      "1 tl vaniljauutetta",
+      "350 g vehnäjauhoja",
+      "3 tl leivinjauhetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen ja vuoraa kaksi peltiä.",
+      "Ruskista voi kattilassa keskilämmöllä 3–5 minuuttia, kunnes pinta vaahtoaa.",
+      "Anna jäähtyä 5 minuuttia.",
+      "Vatkaa joukkoon sokeri, kunnes se liukenee.",
+      "Anna jäähtyä haaleaksi 10–15 minuuttia.",
+      "Vatkaa joukkoon muna ja vanilja.",
+      "Sekoita jauhot ja leivinjauhe ja kääntele taikinaan.",
+      "Pyörittele taikinasta 20 palloa ja asettele pelleille.",
+      "Litistä keksit haarukalla.",
+      "Paista 12–14 minuuttia kullanruskeiksi.",
+      "Siirrä ritilälle jäähtymään."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-butter-toffee-chocolate-chip-cookies",
+    "title": "Ruskistetun voin toffee-suklaakeksit",
+    "description": "Isot toffee-suklaakeksit, joiden taikina kypsyy jääkaapissa 48 tuntia.",
+    "servings": 9,
+    "totalTimeMin": 2940,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "suklaa"],
+    "ingredients": [
+      "Toffee:",
+      "90 g suolatonta voita",
+      "140 g vaaleaa fariinisokeria",
+      "1 tl suolaa",
+      "vettä tarvittaessa",
+      "Taikina:",
+      "250 g suolatonta voita",
+      "4 jääpalaa",
+      "160 g sokeria",
+      "270 g vaaleaa fariinisokeria",
+      "2 tl espressojauhetta",
+      "2 tl suolaa",
+      "½ tl ruokasoodaa",
+      "2 kananmunaa",
+      "2 tl vaniljauutetta",
+      "350 g vehnäjauhoja",
+      "170 g tummaa suklaata (50–70 %), rouhittuna",
+      "sormisuolaa pinnalle"
+    ],
+    "instructions": [
+      "Vuoraa pelti leivinpaperilla.",
+      "Kuumenna voi, fariinisokeri ja suola kattilassa keskilämmöllä. Lisää tarvittaessa vettä, ettei rasva erotu. Keitä 150 asteeseen, kunnes veteen tiputettu seos muodostaa hauraita lankoja.",
+      "Kaada toffee pellille ja pakasta noin 30 minuuttia.",
+      "Vuoraa toinen pelti leivinpaperilla.",
+      "Ruskista voi kattilassa tummanruskeaksi ja nosta liedeltä.",
+      "Lisää jääpala ja anna sen sulaa. Toista lopuilla jääpaloilla.",
+      "Sekoita sokerit, espressojauhe, suola ja ruokasooda isossa kulhossa.",
+      "Kaada ruskistettu voi sokeriseokseen ja vatkaa.",
+      "Vatkaa joukkoon munat ja vanilja.",
+      "Kääntele joukkoon jauhot.",
+      "Murskaa toffee pussissa kaulimella pieniksi paloiksi.",
+      "Kääntele toffee ja suklaa taikinaan.",
+      "Annostele taikina pellille ja anna kypsyä jääkaapissa 48 tuntia.",
+      "Kuumenna uuni 165 asteeseen ja vuoraa kaksi peltiä.",
+      "Asettele keksit pelleille vähintään 5 cm:n välein.",
+      "Paista 18–20 minuuttia kullanruskeiksi.",
+      "Ripottele päälle hieman sormisuolaa ja anna jäähtyä."
+    ]
+  }
+]

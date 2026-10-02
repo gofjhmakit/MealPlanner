@@ -1,0 +1,582 @@
+[
+  {
+    "id": "wikibooks-brown-gravy",
+    "title": "Ruskea kastike",
+    "description": "Perusruskea kastike paistetusta jauhoseoksesta ja liemestä, hiivauutteella syvennettynä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kastike", "nopea"],
+    "ingredients": [
+      "2 rkl hienonnettua sipulia",
+      "2 rkl rypsiöljyä",
+      "1 tl suolaa",
+      "mustapippuria",
+      "2 rkl vehnäjauhoja",
+      "3½ dl kasvis-, liha- tai sienilientä",
+      "1 tl hiivauutetta (Marmite)"
+    ],
+    "instructions": [
+      "Kuullota sipuli öljyssä keskilämmöllä suolan ja pippurin kanssa, kunnes se alkaa kullanruskistua. Lisää jauhot ja sekoita. Paista muutama minuutti, kunnes seos alkaa tummua.",
+      "Lisää liemi ja sekoita tasaiseksi. Lisää hiivauute, joka sekoittuu kastikkeen lämmetessä. Tarkista maku. Kastike on valmis, kun se poreilee.",
+      "Siivilöi kastikekulhoon ja anna jäähtyä hetki ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-rice-breakfast-bowl",
+    "title": "Tumma riisi -aamiaiskulho",
+    "description": "Nopea aamiainen keitetystä tummasta riisistä, kaurajuomasta, taateleista ja kurpitsansiemenistä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "riisi", "nopea"],
+    "ingredients": [
+      "1¼ dl kaurajuomaa",
+      "3½ dl keitettyä tummaa riisiä",
+      "4 taatelia, pilkottuna",
+      "2 ripausta kanelia",
+      "½ dl suolaamattomia kurpitsansiemeniä"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-rice-casserole",
+    "title": "Tumma riisi -juustovuoka",
+    "description": "Helppo vuoka tummasta riisistä, sienistä, herneistä ja sulatejuustosta.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "uuniruoka"],
+    "ingredients": [
+      "225 g sulatejuustoa, kuutioina",
+      "1 tlk (115 g) herkkusieniä, valutettuina",
+      "1 tlk (425 g) herneitä, valutettuina",
+      "7 dl keitettyä tummaa riisiä",
+      "öljyä vuoan voiteluun",
+      "1¼ dl mantelilastuja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita juusto, sienet, herneet ja riisi isossa kulhossa.",
+      "Öljyä noin 1½ litran uunivuoka ja siirrä seos siihen.",
+      "Peitä ja paista 20–25 minuuttia.",
+      "Ripottele päälle mantelit ja paista vielä 5 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-rice-with-ground-turkey",
+    "title": "Tumma riisi ja kalkkunajauheliha",
+    "description": "Nopea pannuruoka kalkkunajauhelihasta, chilitomaatista ja teriyakimaustetusta riisistä.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "riisi", "nopea", "arkiruoka"],
+    "ingredients": [
+      "5 dl keitettyä tummaa riisiä",
+      "570 g kalkkunan jauhelihaa",
+      "1 tlk (340 g) tomaattikuutioita chilillä",
+      "2 rkl rypsiöljyä",
+      "1 rkl teriyakikastiketta",
+      "1 tl valkosipulijauhetta",
+      "1 tl jauhettua maustepippuria",
+      "1 tl sitruunapippuria"
+    ],
+    "instructions": [
+      "Öljyä paistinpannu kevyesti ja ripottele siihen valkosipulijauhe ja sitruunapippuri. Lisää jauheliha ja murustele paistaessa. Lisää tomaatit ja paista, kunnes liha on kypsää.",
+      "Kuumenna öljy wokissa tai syvässä pannussa ja lisää maustepippuri.",
+      "Lisää riisi varovasti (öljy voi roiskua). Kun riisi on lämmennyt, lisää teriyakikastike ja sekoita.",
+      "Lisää kypsä jauheliha riisiin, sekoita hyvin ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-rice-with-other-starches-and-vegetables-pandoras-feast",
+    "title": "Riisikeittimen kasvisateria (Pandoran juhla)",
+    "description": "Vegaaninen kokonainen ateria tummasta riisistä, pavuista, juureksista ja lehtikaalista riisikeittimessä.",
+    "servings": 1,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "riisi", "pavut", "helppo"],
+    "ingredients": [
+      "2½ dl tummaa riisiä",
+      "5 dl vettä",
+      "2½ dl keitettyjä mustia, pinto- tai kidneypapuja",
+      "2½ dl perunaa, kuutioina",
+      "2½ dl bataattia, kuutioina",
+      "2½ dl kurpitsaa, kuutioina",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "2½ dl punajuurta, kuutioina",
+      "2½ dl lehtikaalia, pilkottuna",
+      "1 rkl oliivi- tai rypsiöljyä",
+      "1 rkl ravintohiivahiutaleita",
+      "1 rkl soijakastiketta",
+      "1 tl mustia seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Laita riisi ja vesi riisikeittimeen.",
+      "Valuta ja huuhtele pavut ja lisää keittimeen.",
+      "Lisää valkosipuli.",
+      "Lisää bataatti, kurpitsa, punajuuri ja peruna.",
+      "Valitse ohjelmoitavassa keittimessä tumman riisin ohjelma tai käynnistä tavallinen keitin.",
+      "Kun riisi on kypsää (20–40 minuuttia), lisää lehtikaali, sulje kansi ja odota minuutti tai kaksi.",
+      "Tarjoa öljyn, ravintohiivan, soijakastikkeen ja seesaminsiementen kanssa."
+    ],
+    "notes": [
+      "Kuivatut kidneypavut on liotettava ja keitettävä reippaasti vähintään 20 minuuttia ennen käyttöä, sillä raa'at pavut sisältävät myrkyllistä lektiiniä. Säilykepavut ovat turvallisia sellaisenaan.",
+      "Leikkaa kasvikset noin 1 cm:n kuutioiksi."
+    ]
+  },
+  { "id": "wikibooks-brown-sauce-hartshorne", "skip": "suola- ja pippurimäärät epäuskottavat, ei luotettava ohje" },
+  {
+    "id": "wikibooks-brown-sugar-brownies",
+    "title": "Fariinisokeribrowniet",
+    "description": "Pehmeät suklaabrowniet fariinisokerilla ja saksanpähkinöillä.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "uuniruoka"],
+    "ingredients": [
+      "2½ dl vaaleaa fariinisokeria",
+      "115 g voita tai margariinia, pehmeänä",
+      "2 kananmunaa",
+      "55 g tummaa leivontasuklaata (makeuttamaton), sulatettuna",
+      "1¼ dl vehnäjauhoja",
+      "2½ dl karkeasti rouhittuja saksanpähkinöitä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 160 asteeseen.",
+      "Voitele noin 20 × 20 cm:n vuoka.",
+      "Vaahdota sokeri ja voi kuohkeaksi.",
+      "Vatkaa joukkoon munat.",
+      "Vatkaa joukkoon sulatettu suklaa.",
+      "Sekoita joukkoon jauhot ja sitten pähkinät.",
+      "Kaada vuokaan.",
+      "Paista noin 25 minuuttia.",
+      "Anna jäähtyä vuoassa ja leikkaa paloiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-sugar-icing",
+    "title": "Fariinisokerikuorrute",
+    "description": "Kinuskimainen keitetty kuorrute kakkujen päälle.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kuorrute", "gluteeniton"],
+    "ingredients": [
+      "4½ dl fariinisokeria",
+      "1 tl vaniljauutetta",
+      "1½ dl kuohukermaa",
+      "1 rkl voita"
+    ],
+    "instructions": [
+      "Keitä sokeri ja kerma, kunnes kylmään veteen tiputettu tippa muodostaa pehmeän pallon.",
+      "Anna jäähtyä noin 52-asteiseksi.",
+      "Lisää vanilja ja voi ja vatkaa, kunnes kuorrute on levitettävän paksua."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-sugar-mulling-spice-mix",
+    "title": "Glögimauste fariinisokerilla",
+    "description": "Valmis mauste-sokeriseos lämpimän mehun tai glögin maustamiseen.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Muut",
+    "tags": ["vegaaninen", "mausteseos", "joulu"],
+    "ingredients": [
+      "2½ dl fariinisokeria",
+      "2 tl kanelia",
+      "1 tl jauhettua neilikkaa",
+      "1 tl kuivattua appelsiininkuorta, jauhettuna",
+      "1 tl jauhettua maustepippuria",
+      "½ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset keskikokoiseen kulhoon.",
+      "Vatkaa vispilällä tasaiseksi.",
+      "Säilytä ilmatiiviissä purkissa viileässä."
+    ]
+  },
+  {
+    "id": "wikibooks-brown-sugar-nutmeg-cookies",
+    "title": "Fariinisokeri-muskottikeksit",
+    "description": "Jääkaappikeksit tangosta leikattuina, muskottipähkinällä maustettuina.",
+    "servings": 50,
+    "servingsEstimated": true,
+    "totalTimeMin": 270,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit"],
+    "ingredients": [
+      "375 g vehnäjauhoja",
+      "1 tl viinikiveä",
+      "½ tl ruokasoodaa",
+      "ripaus muskottipähkinää",
+      "205 g leivontarasvaa, sulatettuna ja hieman jäähdytettynä",
+      "440 g fariinisokeria",
+      "2 kananmunaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Sekoita jauhot, viinikivi, ruokasooda ja muskottipähkinä.",
+      "Vatkaa isossa kulhossa sulatettu rasva ja fariinisokeri. Lisää munat ja vanilja. Sekoita kuivat aineet vähitellen joukkoon.",
+      "Muotoile taikinasta noin 4 cm paksu tanko, kääri leivinpaperiin ja jäähdytä 4 tuntia tai yön yli.",
+      "Kuumenna uuni 180 asteeseen ja voitele kevyesti kaksi peltiä.",
+      "Leikkaa tanko noin ½ cm:n viipaleiksi ja asettele pelleille 2–3 cm:n välein.",
+      "Paista 8–10 minuuttia vaaleiksi. Jäähdytä ritilällä."
+    ]
+  },
+  { "id": "wikibooks-brown-windsor-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-browned-rice",
+    "title": "Uunissa haudutettu liemiriisi",
+    "description": "Helppo riisilisuke lihaliemessä ja kuullotetussa sipulissa uunissa.",
+    "servings": 4,
+    "totalTimeMin": 70,
+    "category": "Lisukkeet",
+    "tags": ["riisi", "uuniruoka", "helppo"],
+    "ingredients": [
+      "1¼ dl riisiä",
+      "3 dl lihalientä (consommé)",
+      "55 g margariinia",
+      "1 pieni sipuli, hienonnettuna",
+      "1½ dl vettä"
+    ],
+    "instructions": [
+      "Kuullota sipuli margariinissa keskilämmöllä.",
+      "Sekoita riisi ja liemi uunivuoassa. Kaada sipuli ja margariini päälle ja sekoita.",
+      "Paista kannen alla 30 minuuttia 180 asteessa.",
+      "Ota uunista ja lisää vesi.",
+      "Peitä ja paista vielä 30 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-bruschetta",
+    "title": "Bruschetta",
+    "description": "Paahdetut valkosipulilla hierotut leipäviipaleet oliiviöljyllä ja kausitäytteillä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "italialainen", "alkuruoka", "nopea"],
+    "ingredients": [
+      "1 patonki tai italialainen leipä, 1 cm:n vinoina viipaleina",
+      "½ valkosipulia",
+      "sormisuolaa tai merisuolaa",
+      "mustapippuria",
+      "oliiviöljyä",
+      "täytteeksi esim. 4 tomaattia hienonnettuna ja basilikaa"
+    ],
+    "instructions": [
+      "Paahda leipäviipaleet leivänpaahtimessa, uunin grillivastuksen alla tai grillissä kullanruskeiksi.",
+      "Hiero viipaleet heti valkosipulin leikkuupinnalla. Mausta suolalla ja pippurilla ja valuta päälle reilusti oliiviöljyä.",
+      "Tarjoa lämpimänä haluamillasi kausitäytteillä."
+    ],
+    "notes": ["Täyteideoita: tomaatti ja rucola tai basilika, valkoiset pavut ja lehtikaali, paistetut metsäsienet, anjovis yrteillä ja etikalla, rapea pancetta tai pugliesilainen kasvissekoitus."]
+  },
+  {
+    "id": "wikibooks-bryndzov-haluky-slovak-dumplings-with-cheese",
+    "title": "Bryndzové halušky – slovakialaiset perunamykyt lammasjuustolla",
+    "description": "Slovakian kansallisruoka: raastetusta perunasta tehdyt mykyt, lammasjuusto ja rapea pekoni.",
+    "servings": 2,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "slovakialainen", "peruna", "juusto"],
+    "ingredients": [
+      "750 g perunoita, kuorittuina ja hienoksi raastettuina",
+      "suolaa",
+      "250 g vehnäjauhoja",
+      "250 g bryndza-lammasjuustoa (tai fetaa), pieninä paloina",
+      "100 g savupekonia, paistettuna ja paloiteltuna"
+    ],
+    "instructions": [
+      "Sekoita raastetut perunat, jauhot ja suola taikinaksi.",
+      "Muotoile taikinasta alle 3 cm:n pieniä paloja.",
+      "Laske mykyt kiehuvaan suolattuun veteen. Kun ne nousevat pintaan, tarkista kypsyys yhdestä.",
+      "Nosta mykyt reikäkauhalla lämmitetylle lautaselle.",
+      "Ripottele juusto heti päälle ja anna sen sulaa. Sekoita halutessasi.",
+      "Ripottele päälle rapea pekoni.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Kiireessä mykyt voi korvata valmiilla perunagnoceilla. Bryndzan voi korvata vuohenjuustolla tai voimakkaalla fetalla."]
+  },
+  {
+    "id": "wikibooks-bua-loi-rice-balls-in-sweet-coconut-milk",
+    "title": "Bua loi – riisipallot makeassa kookosmaidossa",
+    "description": "Thaimaalainen jälkiruoka taarojuuresta ja tahmeasta riisijauhosta tehdyistä palloista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "thaimaalainen", "kookos", "gluteeniton"],
+    "ingredients": [
+      "5 dl tahmeaa riisijauhoa (+ pyörittelyyn)",
+      "2½ dl höyrytettyä ja soseutettua taarojuurta",
+      "½ dl vettä",
+      "4 dl kookosmaitoa",
+      "2 rkl palmusokeria tai sokeria"
+    ],
+    "instructions": [
+      "Sekoita riisijauho, taarosose ja vesi taikinaksi.",
+      "Pyörittele taikinasta pieniä palloja, käytä riisijauhoa tarttumisen estämiseen.",
+      "Kiehauta iso kattilallinen vettä ja lisää pallot. Ne vajoavat ensin pohjaan ja nousevat pintaan kypsyttyään.",
+      "Nosta pallot vedestä ja valuta.",
+      "Lämmitä kookosmaito sokerin kanssa ja tarjoa pallot siinä kuumina."
+    ],
+    "notes": ["Palloihin voi lisätä kurpitsaa (keltainen) tai pandania (vihreä) väriksi."]
+  },
+  {
+    "id": "wikibooks-bubble-and-squeak",
+    "title": "Bubble and squeak – paistetut kasvistähteet",
+    "description": "Englantilainen pannuruoka sunnuntaipaistin perunoista ja kaalista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "brittiläinen", "peruna", "hävikki"],
+    "ingredients": [
+      "1 keskikokoinen sipuli, hienonnettuna (valinnainen)",
+      "1 rkl öljyä tai rasvaa",
+      "700 g keitettyjä kasviksia (perunaa, kaalia, porkkanaa, herneitä, ruusukaalia)"
+    ],
+    "instructions": [
+      "Paista sipuli öljyssä.",
+      "Pilko kasvikset ja lisää pannulle.",
+      "Paista keskilämmöllä, kunnes pohja on kullanruskea ja rapea. Käännä ja kaavi rapeat palat sekaan. Toista muutaman kerran, kunnes kaikki on ruskistunut ja kuumaa.",
+      "Tarjoa kuumana, usein rapean paahtoleivän päällä."
+    ]
+  },
+  {
+    "id": "wikibooks-bubble-tea",
+    "title": "Kuplatee (bubble tea)",
+    "description": "Vahva maitotee mustien tapiokahelmien kanssa.",
+    "servings": 1,
+    "totalTimeMin": 30,
+    "category": "Juomat",
+    "tags": ["kasvis", "taiwanilainen", "tee"],
+    "ingredients": [
+      "1¼ dl keitettyjä tapiokahelmiä",
+      "2½ dl murskattua jäätä",
+      "2½ dl hyvin vahvaa jäähdytettyä mustaa teetä",
+      "2½ dl maitoa",
+      "1–2 rkl hunajaa tai sokeria"
+    ],
+    "instructions": [
+      "Laita helmet isoon lasiin.",
+      "Ravista muita aineksia shakerissa voimakkaasti, kunnes seos vaahtoaa.",
+      "Kaada lasiin ja tarjoa paksulla pillillä."
+    ],
+    "notes": ["Jos et halua juomaa vaahtoavaksi, sekoita ainekset ravistamisen sijaan."]
+  },
+  {
+    "id": "wikibooks-bubur-candil-sweet-glutinous-rice-balls-in-coconut-sauce",
+    "title": "Bubur candil – riisipallot palmusokeri-kookoskastikkeessa",
+    "description": "Indonesialaiset tahmeat riisipallot makeassa pandanilla maustetussa kastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "indonesialainen", "kookos", "gluteeniton"],
+    "ingredients": [
+      "Pallot:",
+      "225 g tahmeaa riisijauhoa",
+      "120 g tapiokajauhoa",
+      "1¾ dl vettä",
+      "¼ tl suolaa",
+      "Kastike:",
+      "7½ dl vettä",
+      "2½ dl kookosmaitoa",
+      "1¼ dl liuotettua palmusokeria (gula jawa)",
+      "1 pandaaninlehti",
+      "¼ tl suolaa",
+      "Tarjoiluun:",
+      "3 dl kookosmaitoa, keitettynä muutama minuutti"
+    ],
+    "instructions": [
+      "Sekoita riisi- ja tapiokajauhot. Tee keskelle kuoppa ja lisää vähitellen vesi ja suola. Vaivaa käsin pehmeäksi taikinaksi; lisää tarvittaessa vettä.",
+      "Pyörittele taikinasta noin 1 cm:n palloja.",
+      "Kiehauta isossa kattilassa runsaasti vettä ja laske pallot siihen yksitellen. Keitä noin 5 minuuttia, kunnes ne nousevat pintaan. Nosta ja valuta.",
+      "Sekoita kastikkeen ainekset kattilassa ja kuumenna poreilevaksi.",
+      "Lisää pallot kastikkeeseen ja keitä vielä 20 minuuttia.",
+      "Tarjoa kuumana kookosmaito päälle kaadettuna."
+    ]
+  },
+  {
+    "id": "wikibooks-bubur-ketan-hitam-sweet-black-rice-with-coconut-milk",
+    "title": "Bubur ketan hitam – musta riisipuuro kookosmaidolla",
+    "description": "Indonesialainen makea musta tahmeariisipuuro suolaisen kookoskastikkeen kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "indonesialainen", "riisi", "kookos"],
+    "ingredients": [
+      "250 g mustaa tahmeaa riisiä",
+      "1,5 l vettä",
+      "4 pandaaninlehteä, jaettuna",
+      "250 g kookos- tai palmusokeria",
+      "ripaus suolaa",
+      "3½ dl paksua kookosmaitoa",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Liota riisiä vedessä yön yli.",
+      "Valuta riisi ja keitä se veden ja kahden pandaaninlehden kanssa pehmeäksi ja paksuksi puuroksi.",
+      "Lisää sokeri ja ripaus suolaa ja keitä, kunnes sokeri on liuennut ja neste imeytynyt.",
+      "Keitä kookosmaitoa ¼ tl:n suolaa ja kahden pandaaninlehden kanssa muutama minuutti.",
+      "Annostele puuro kulhoihin ja kaada kookoskastike päälle."
+    ],
+    "notes": ["Päälle sopii paahdettu banaani, fariinisokeri tai kaneli."]
+  },
+  {
+    "id": "wikibooks-buckeyes",
+    "title": "Maapähkinävoikonvehdit suklaakuorrutteella",
+    "description": "Ohiolaiset buckeye-pallot: maapähkinävoi-tomusokerimassa osittain suklaaseen kastettuna.",
+    "servings": 25,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "amerikkalainen", "karkki", "maapähkinä"],
+    "ingredients": [
+      "2½ dl maapähkinävoita",
+      "2 rkl voita, sulatettuna",
+      "1 tl vaniljauutetta",
+      "7 dl tomusokeria",
+      "100 g tummaa suklaata"
+    ],
+    "instructions": [
+      "Sekoita maapähkinävoi, sulatettu voi, vanilja ja tomusokeri kulhossa.",
+      "Pyörittele seoksesta noin 2,5 cm:n palloja.",
+      "Työnnä jokaiseen palloon hammastikku.",
+      "Jäähdytä jääkaapissa tai pakastimessa tunti.",
+      "Sulata suklaa vesihauteessa.",
+      "Kasta pallot suklaaseen niin, että yläosaan jää pieni peittämätön ympyrä.",
+      "Nosta leivinpaperille ja poista tikku.",
+      "Säilytä jääkaapissa tai pakastimessa."
+    ]
+  },
+  {
+    "id": "wikibooks-buffalo-chicken-sandwich",
+    "title": "Buffalo-kanaleipä",
+    "description": "Friteerattu, tulisessa kastikkeessa käännelty broileri sämpylässä sinihomejuustokastikkeen kanssa.",
+    "servings": 1,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "friteerattu"],
+    "ingredients": [
+      "öljyä friteeraukseen",
+      "1¼ dl vehnäjauhoja",
+      "½ tl suolaa",
+      "1¼ dl maitoa",
+      "1 broilerin rintafilee, ohueksi nuijittuna",
+      "1 hampurilaissämpylä",
+      "1 salaatinlehti",
+      "2 tomaattiviipaletta",
+      "muutama punasipulirengas",
+      "2 rkl tulista chilikastiketta",
+      "sinihomejuustokastiketta tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy 175 asteeseen isossa pannussa tai friteerauskeittimessä.",
+      "Sekoita jauhot ja suola. Kastele broileri maidossa, kääntele jauhoissa, uudelleen maidossa ja jauhoissa. Jäähdytä 10–15 minuuttia.",
+      "Friteeraa noin 10 minuuttia kullanruskeaksi ja kypsäksi. Valuta ritilällä.",
+      "Paahda sämpylän leikkuupinnat.",
+      "Laita broileri kannelliseen kulhoon, lisää tulinen kastike ja ravista varovasti.",
+      "Nosta broileri sämpylälle ja lisää salaatti, tomaatti ja sipuli. Tarjoa avoleipänä sinihomejuustokastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-buffalo-wings",
+    "title": "Buffalo-siivet",
+    "description": "Friteeratut broilerinsiivet voisessa chipotle-chilikastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "friteerattu"],
+    "ingredients": [
+      "48 broilerin siipipalaa",
+      "öljyä friteeraukseen",
+      "2–3 rkl broilerin maustetta",
+      "115 g suolatonta voita, sulatettuna",
+      "1¼ dl savuista chipotle-chilikastiketta",
+      "½ dl tomaattipyreetä",
+      "1 rkl soijakastiketta"
+    ],
+    "instructions": [
+      "Mausta siivet broilerin mausteella.",
+      "Kuumenna öljy 180 asteeseen. Friteeraa siipiä 11 minuuttia ja valuta ritilällä.",
+      "Sekoita sillä välin voi, chilikastike, tomaattipyree ja soijakastike. Kääntele siivet kastikkeessa ja tarjoa."
+    ]
+  },
+  { "id": "wikibooks-buka-stew-with-assorted-meats", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-bulgarian-fresh-sausage-kebapcheta",
+    "title": "Kebapcheta – bulgarialaiset grillimakkarat",
+    "description": "Kuorettomat juustokuminalla maustetut sika-nautamakkarat, joiden massa kypsyy jääkaapissa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 2900,
+    "category": "Pääruoat",
+    "tags": ["liha", "bulgarialainen", "grilli"],
+    "ingredients": [
+      "1 kg sika-nautajauhelihaa (n. 60 % porsasta)",
+      "1½ tl suolaa",
+      "½ tl juustokuminaa",
+      "½ tl mustapippuria",
+      "2–3 rkl vettä"
+    ],
+    "instructions": [
+      "Suolaa jauheliha ja sekoita hyvin mausteiden ja veden kanssa.",
+      "Peitä ja anna maustua jääkaapissa 1–2 vuorokautta.",
+      "Muotoile massasta pitkulaisia kuorettomia makkaroita.",
+      "Grillaa keskikorkealla lämmöllä ja käännä vain kerran, jotta makkarat pysyvät mehukkaina.",
+      "Tarjoa kuumana esimerkiksi ranskanperunoiden kanssa."
+    ],
+    "notes": ["Jos jauheliha on hyvin vähärasvaista, käytä enemmän porsasta (75 %). Rasvaa tulisi olla noin 30 %."]
+  },
+  {
+    "id": "wikibooks-bulgarian-meatball-soup-supa-topcheta",
+    "title": "Supa topcheta – bulgarialainen lihapullakeitto",
+    "description": "Riisillä täytetyt lihapullat kasvisliemessä, viimeistelty muna-sitruunaseoksella.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 110,
+    "category": "Keitot",
+    "tags": ["liha", "bulgarialainen", "keitto"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "6 rkl riisiä",
+      "1 tl paprikajauhetta",
+      "1 tl kuivattua kynteliä",
+      "suolaa",
+      "mustapippuria",
+      "vehnäjauhoja pyörittelyyn",
+      "1,4 l vettä",
+      "2 lihaliemikuutiota",
+      "½ nippu kevätsipulia, viipaloituna",
+      "1 vihreä paprika, pilkottuna",
+      "2 porkkanaa, kuorittuina ja ohuina viipaleina",
+      "3 tomaattia, kuorittuina ja pilkottuina",
+      "1 vihreä chili, hienonnettuna (valinnainen)",
+      "½ nippu persiljaa, hienonnettuna",
+      "1 kananmuna",
+      "1 sitruunan mehu"
+    ],
+    "instructions": [
+      "Sekoita jauheliha, riisi, paprika ja kynteli.",
+      "Mausta suolalla ja pippurilla ja sekoita kevyesti mutta huolellisesti.",
+      "Muotoile 2,5 cm:n pyöryköitä ja pyörittele ne jauhoissa.",
+      "Laita isoon kattilaan vesi, liemikuutiot, 1 tl suolaa, ½ tl pippuria, kevätsipuli, paprika, porkkanat ja tomaatit. Peitä, kiehauta ja hauduta 30 minuuttia.",
+      "Lisää lihapullat, kiehauta uudelleen ja hauduta 20 minuuttia.",
+      "Lisää chili ja hauduta kannen alla, kunnes riisi on kypsää, noin 40 minuuttia.",
+      "Lisää persilja viimeisen 5 minuutin aikana. Tarkista maku.",
+      "Vatkaa juuri ennen tarjoilua muna ja sitruunamehu. Sekoita joukkoon 1–2 rkl kuumaa keittoa ja sitten seos keittoon.",
+      "Lämmitä varovasti sekoittaen, kunnes keitto sakeutuu hieman, mutta älä anna kiehua."
+    ]
+  }
+]

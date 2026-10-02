@@ -1,0 +1,453 @@
+[
+  {
+    "id": "wikibooks-nigerian-doughnut",
+    "title": "Nigerialaiset rinkilämunkit",
+    "description": "Maidolla, voilla ja kananmunalla rikastetusta hiivataikinasta leikatut munkkirenkaat, friteerattuna ja tarjoiltuna hillon tai marmeladin kanssa.",
+    "servings": 15,
+    "servingsEstimated": true,
+    "totalTimeMin": 170,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "nigerialainen", "munkki", "friteerattu"],
+    "ingredients": [
+      "1 ps (11 g) kuivahiivaa",
+      "2,5 dl kädenlämpöistä maitoa",
+      "60 g voita, sulatettuna ja jäähdytettynä",
+      "8 dl vehnäjauhoja",
+      "1 dl sokeria",
+      "½ tl suolaa",
+      "1 muna",
+      "rypsiöljyä friteeraukseen",
+      "hilloa tai marmeladia tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita hiiva lämpimään maitoon ja nosta sivuun.",
+      "Siivilöi puolet jauhoista isoon kuivaan kulhoon.",
+      "Sekoita joukkoon sokeri ja suola.",
+      "Sekoita lastalla joukkoon muna ja sitten jäähtynyt voisula, kunnes irtonaisia jauhoja ei ole.",
+      "Sekoita joukkoon maito-hiivaseos paakuttomaksi.",
+      "Lisää loput jauhot ja sekoita sileäksi taikinaksi.",
+      "Vaivaa taikinaa kuivalla pöydällä sileäksi ja joustavaksi.",
+      "Palauta taikina kulhoon ja peitä kelmulla.",
+      "Anna kohota lämpimässä noin tunti kaksinkertaiseksi.",
+      "Kauli taikina noin 1 cm paksuksi.",
+      "Ota taikinasta noin 7–8 cm:n muotilla ympyröitä ja leikkaa niiden keskelle noin 2,5 cm:n reikä.",
+      "Siirrä renkaat tasaiselle alustalle. Kauli taikinanjämät uudelleen ja leikkaa lisää renkaita.",
+      "Peitä liinalla ja anna kohota vielä tunti lämpimässä kuohkeiksi.",
+      "Kaada kattilaan öljyä vähintään 7–8 cm:n kerros ja kuumenna 175–190 asteeseen.",
+      "Paista munkkeja kuumassa öljyssä molemmin puolin kullanruskeiksi. Nosta ritilälle valumaan.",
+      "Tarjoa hillon tai marmeladin kanssa."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu tavallisen munkkitaikinan mukaan."]
+  },
+  { "id": "wikibooks-nigerian-dry-fish-pepper-soup", "skip": "liian puutteellinen (määrät puuttuvat, erikoismausteet)" },
+  { "id": "wikibooks-nigerian-dryfish-and-pumpkin-leaf", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  { "id": "wikibooks-nigerian-dryfish-stew", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-nigerian-editan-soup", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  { "id": "wikibooks-nigerian-efo-igbo-soup", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  {
+    "id": "wikibooks-nigerian-egg-fried-rice",
+    "title": "Nigerialainen munapaistettu riisi",
+    "description": "Nopea arkiruoka: keitetty riisi paistetaan sipulin, chilin ja timjamin kanssa ja sekoitetaan liemikuutiolla maustettuun kananmunaan.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "nigerialainen", "riisi", "nopea"],
+    "ingredients": [
+      "3 munaa",
+      "1 liemikuutio, murennettuna",
+      "½ tl timjamia",
+      "1 sipuli, hienonnettuna",
+      "½ chili, hienonnettuna",
+      "suolaa",
+      "2 rkl maapähkinäöljyä",
+      "6 dl keitettyä riisiä"
+    ],
+    "instructions": [
+      "Riko munat kulhoon ja vatkaa. Sekoita joukkoon liemikuutio.",
+      "Sekoita timjami, sipuli, chili ja suola.",
+      "Kuumenna pannulla ohut kerros öljyä. Lisää sipuliseos ja kuullota hieman pehmeäksi.",
+      "Lisää riisi ja sekoita, kunnes riisi on lämmennyt.",
+      "Lisää munaseos ja sekoita, kunnes muna peittää riisin ja on kypsää.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  },
+  {
+    "id": "wikibooks-nigerian-egg-pepper-soup",
+    "title": "Nigerialainen tulinen munakeitto",
+    "description": "Nopea ja lämmittävä keitto paprikasta, tomaatista ja mausteista, johon valutetaan munaa ohuiksi suikaleiksi.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["kasvis", "nigerialainen", "keitto", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 paprikaa, ohuina suikaleina",
+      "2 tomaattia, pilkottuna",
+      "4 munaa",
+      "5 dl kasvislientä tai kanalientä",
+      "1 tl cayennepippuria",
+      "1 tl paprikajauhetta",
+      "1 tl juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "suolaa",
+      "tuoretta korianteria tai persiljaa koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskilämmöllä. Kuullota sipuli ja valkosipuli läpikuultaviksi.",
+      "Lisää paprikat ja tomaatit ja kypsennä muutama minuutti, kunnes ne alkavat pehmetä.",
+      "Riko munat erilliseen kulhoon ja vatkaa hyvin.",
+      "Lisää liemi kasvisten joukkoon. Sekoita joukkoon mausteet ja mausta suolalla. Kuumenna hiljalleen kiehuvaksi.",
+      "Valuta munaseos hitaasti poreilevaan keittoon samalla yhteen suuntaan sekoittaen, jolloin muna hyytyy ohuiksi suikaleiksi.",
+      "Keitä vielä 3–4 minuuttia, kunnes muna on kypsää.",
+      "Tarkista maku.",
+      "Nosta liedeltä.",
+      "Tarjoa kuumana korianterilla tai persiljalla koristeltuna."
+    ]
+  },
+  {
+    "id": "wikibooks-nigerian-egg-roll",
+    "title": "Nigerialaiset munarullat",
+    "description": "Suosittu nigerialainen välipala: kovaksi keitetty kananmuna käärittynä makeaan muskottitaikinaan ja friteerattuna.",
+    "servings": 6,
+    "totalTimeMin": 40,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nigerialainen", "friteerattu", "kananmuna"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "1 tl muskottipähkinää",
+      "¼ tl suolaa",
+      "3 rkl sokeria",
+      "1 rkl suolatonta voita",
+      "1 iso muna",
+      "1 dl makeuttamatonta kondensoitua maitoa tai täysmaitoa",
+      "rypsiöljyä friteeraukseen",
+      "6 kovaksi keitettyä munaa, kuorittuna"
+    ],
+    "instructions": [
+      "Sekoita kulhossa jauhot, leivinjauhe, muskotti, suola ja sokeri. Nypi voi joukkoon muruksi. Sekoita joukkoon muna ja maito taikinaksi.",
+      "Peitä taikina kelmulla ja anna levätä 5–10 minuuttia.",
+      "Kuumenna sillä välin kattilassa useita senttejä öljyä 175–190 asteeseen.",
+      "Jaa taikina kuuteen osaan. Jauhota kämmenet, ettei taikina tartu.",
+      "Litistä taikinapala käsin. Nosta keskelle keitetty muna ja kääri taikina sen ympärille kokonaan. Nipistä saumat tiiviisti kiinni. Toista kaikille munille.",
+      "Laske rullat varovasti kuumaan öljyyn ja paista kullanruskeiksi.",
+      "Nosta talouspaperille valumaan.",
+      "Tarjoa haluamasi juoman kanssa."
+    ],
+    "notes": ["Alkuperäisessä on muskottia 1 rkl, mikä on erittäin paljon; määrää on vähennetty."]
+  },
+  {
+    "id": "wikibooks-nigerian-egg-stew",
+    "title": "Nigerialainen munakokkeli palmuöljyssä",
+    "description": "Nopea munakokkelin kaltainen ruoka chilin ja sipulin kanssa, tarjoiltuna keitetyn jamssin, taron tai perunan kanssa.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "nigerialainen", "kananmuna", "nopea"],
+    "ingredients": [
+      "2 rkl palmuöljyä",
+      "½–1 tl jauhettua chiliä",
+      "1 sipuli, hienonnettuna",
+      "1 liemikuutio, murennettuna",
+      "suolaa",
+      "6 munaa"
+    ],
+    "instructions": [
+      "Kuumenna palmuöljy paistinpannussa.",
+      "Lisää chili, sipuli, liemikuutio ja suola maun mukaan.",
+      "Vatkaa munat, kaada pannulle ja kypsennä sekoittaen muutama minuutti.",
+      "Tarjoa keitetyn jamssin, taron tai perunan kanssa."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  },
+  {
+    "id": "wikibooks-nigerian-eggplant-fufu",
+    "title": "Munakoisofufu",
+    "description": "Vähähiilihydraattinen fufu munakoisosta ja psylliumista. Kypsennettynä se muuttuu harmahtavaksi kuin amala.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "nigerialainen", "gluteeniton"],
+    "ingredients": [
+      "2 pientä tai keskikokoista munakoisoa (n. 500 g)",
+      "2 rkl psylliumia"
+    ],
+    "instructions": [
+      "Pilko munakoisot pieniksi paloiksi ja keitä ne pehmeiksi. Valuta hyvin.",
+      "Imeytä ylimääräinen vesi talouspaperiin ja soseuta monitoimikoneessa.",
+      "Kaada sose kattilaan ja sekoita keskilämmöllä 2 minuuttia.",
+      "Lisää psyllium ja sekoita vielä 3 minuuttia.",
+      "Muotoile annospaloiksi."
+    ],
+    "notes": ["Valitse pieniä tai keskikokoisia munakoisoja, joissa on vähemmän siemeniä ja jotka ovat makeampia."]
+  },
+  { "id": "wikibooks-nigerian-fish-cake-flour-based", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-nigerian-fish-pie", "skip": "liian puutteellinen (määrät puuttuvat kokonaan)" },
+  { "id": "wikibooks-nigerian-fisherman-soup-efere-ndek-iyak", "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)" },
+  {
+    "id": "wikibooks-nigerian-fried-beans",
+    "title": "Nigerialaiset paistetut pavut kasviksilla",
+    "description": "Keitetyt ruskeat pavut paistetaan tomaatin, sipulin, porkkanan, vihreiden papujen ja herneiden kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["nigerialainen", "pavut", "kasvis"],
+    "ingredients": [
+      "4 dl kuivattuja ruskeita papuja tai mustasilmäpapuja",
+      "3 rkl rypsiöljyä",
+      "3 tomaattia, pilkottuna",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl jauhettua kuivattua katkarapua",
+      "2 liemikuutiota",
+      "suolaa",
+      "½ tl chilijauhetta",
+      "1 porkkana, kuutioituna",
+      "100 g vihreitä papuja, paloiteltuna",
+      "1 dl herneitä",
+      "2 kevätsipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Levitä pavut alustalle ja poimi pois kivet ja roskat.",
+      "Liota papuja kylmässä vedessä useita tunteja, mieluiten yön yli. Kaada ruskea liotusvesi pois.",
+      "Peitä pavut tuoreella vedellä ja kuumenna kiehuvaksi. Keitä pehmeiksi ja lisää tarvittaessa vettä.",
+      "Nosta liedeltä ja valuta.",
+      "Kuumenna öljy kattilassa. Lisää tomaatit ja paista minuutti.",
+      "Lisää sipuli ja valkosipuli ja kypsennä, kunnes tomaatit ja sipulit ovat pehmeitä.",
+      "Lisää katkarapujauhe, liemikuutiot, suola ja chili. Kypsennä muutama minuutti.",
+      "Lisää porkkana, vihreät pavut, herneet ja kevätsipuli. Kypsennä minuutti pari.",
+      "Lisää keitetyt pavut ja sekoita. Peitä ja hauduta miedolla lämmöllä noin 10 minuuttia.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu. Ilman katkarapujauhetta ruoka on vegaaninen."]
+  },
+  {
+    "id": "wikibooks-nigerian-fried-cheese-curds-wara",
+    "title": "Wara – nigerialainen paistettu tuorejuusto",
+    "description": "Maidosta limetinmehulla juoksutettu tuorejuusto, joka paloitellaan ja paistetaan rasvassa välipalaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nigerialainen", "juusto", "gluteeniton"],
+    "ingredients": [
+      "2 l täysmaitoa",
+      "1 dl limettimehua",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Siivilöi maito isoon kattilaan.",
+      "Kuumenna maito keskilämmöllä kiehuvaksi usein sekoittaen.",
+      "Laske lämpöä ja lisää limettimehu. Älä sekoita. Juustomassa erottuu herasta.",
+      "Painele juustomassa siivilään ja anna ylimääräisen nesteen valua pois.",
+      "Leikkaa juusto haluamasi muotoisiksi paloiksi ja friteeraa kuumassa öljyssä kullanruskeiksi."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  },
+  {
+    "id": "wikibooks-nigerian-fried-fish",
+    "title": "Nigerialainen taikinassa paistettu kala",
+    "description": "Nopea katuruoka: kalapalat mausteisessa taikinassa paistettuina, tarjoiltuna tomaattikastikkeen, salaatin tai jollof-riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "nigerialainen", "nopea"],
+    "ingredients": [
+      "1,5 dl vehnäjauhoja",
+      "½ tl jauhettua chiliä",
+      "½ tl suolaa",
+      "1 liemikuutio, murennettuna",
+      "1 ripaus muskottipähkinää",
+      "1 rkl inkivääri-valkosipulitahnaa",
+      "noin 1,5 dl vettä",
+      "1 iso kala (n. 1 kg), perattuna ja paloiteltuna",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauhot, chili, suola, liemikuutio, muskotti ja inkivääri-valkosipulitahna. Lisää vettä sen verran, että saat ohuen taikinan.",
+      "Kasta kalapalat taikinaan niin, että ne peittyvät kokonaan.",
+      "Kuumenna tarttumattomassa pannussa 2–5 cm öljyä keskikorkealla lämmöllä. Paista kalaa erissä noin 3 minuuttia kummaltakin puolelta kullanruskeaksi ja kypsäksi. Käännä metallilastalla.",
+      "Nosta talouspaperille tai siivilään valumaan.",
+      "Tarjoa kuumana tai käytä muissa ruoissa."
+    ],
+    "notes": ["Älä paista liian montaa palaa kerralla, jotta kala kypsyy kunnolla. Määrät on arvioitu."]
+  },
+  { "id": "wikibooks-nigerian-fried-fish-stew", "skip": "liian puutteellinen (määrät puuttuvat, vaatii erillisen pohjakastikkeen)" },
+  {
+    "id": "wikibooks-nigerian-fried-noodles",
+    "title": "Nigerialaiset paistetut pikanuudelit",
+    "description": "Nigeriassa kaikkien suosima arkiruoka: pikanuudelit paistettuna paprikan, porkkanan ja lehtivihannesten kanssa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "nigerialainen", "nopea", "nuudelit"],
+    "ingredients": [
+      "2 pkt (à 70 g) pikanuudeleita",
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "1 paprika, kuutioituna",
+      "1 porkkana, ohuina viipaleina",
+      "1 kourallinen pinaattia tai muita lehtivihanneksia",
+      "1 liemikuutio (tai nuudelien maustepussi)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kiehuvaksi. Keitä nuudeleita, kunnes ne ovat pehmenneet mutta vielä hieman kiinteitä.",
+      "Valuta nuudelit.",
+      "Kuumenna pannulla ohut kerros öljyä. Lisää sipuli, paprika, porkkana ja lehtivihannekset ja paista sekoittaen 2 minuuttia.",
+      "Mausta liemikuutiolla tai nuudelien maustejauheella.",
+      "Lisää nuudelit ja paista sekoittaen.",
+      "Laske lämpöä ja paista vielä muutama minuutti.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  },
+  {
+    "id": "wikibooks-nigerian-fried-yam",
+    "title": "Nigerialaiset jamssiranskalaiset",
+    "description": "Jamssitikut paistettuna kullanruskeiksi, tarjoiltuna tulisen kastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "nigerialainen", "friteerattu"],
+    "ingredients": [
+      "1 kg jamssia, kuorittuna ja tikuiksi leikattuna",
+      "1 tl suolaa",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Huuhtele jamssitikut ja laita kulhoon. Mausta suolalla.",
+      "Kuumenna öljy pannussa tai kattilassa. Lisää jamssia vähän kerrallaan, ettei pannu täyty liikaa.",
+      "Paista sekoittaen, kunnes jamssi on kullanruskeaa joka puolelta.",
+      "Nosta pannulta ja valuta ylimääräinen öljy."
+    ]
+  },
+  {
+    "id": "wikibooks-nigerian-fruit-skewer",
+    "title": "Hedelmävartaat",
+    "description": "Raikas välipala: ananasta, päärynää, omenaa, papaijaa, vesimelonia ja banaania vartaissa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "hedelmät", "nopea", "lapset"],
+    "ingredients": [
+      "½ ananas, kuorittuna",
+      "1 päärynä, kuorittuna",
+      "1 omena, kuorittuna",
+      "½ papaija, kuorittuna",
+      "1 viipale vesimelonia",
+      "1 banaani, kuorittuna"
+    ],
+    "instructions": [
+      "Leikkaa kaikki hedelmät pieniksi paloiksi.",
+      "Pujota hedelmäpalat vartaisiin."
+    ]
+  },
+  {
+    "id": "wikibooks-nigerian-grilled-chicken",
+    "title": "Nigerialainen jogurttimarinoitu uunikana",
+    "description": "Jogurtissa ja mausteissa marinoitu kana uunissa grillattuna, tarjoiltuna salaatin tai jollof-riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kana", "nigerialainen", "uuniruoka"],
+    "ingredients": [
+      "1,2 kg broilerin paloja",
+      "2 dl paksua maustamatonta jogurttia (esim. turkkilaista)",
+      "1 rkl inkivääritahnaa",
+      "1 rkl valkosipulitahnaa",
+      "1 tl chilijauhetta",
+      "1 tl jauhettua korianteria",
+      "1 tl juustokuminaa",
+      "1 tl suolaa",
+      "1 tl garam masalaa"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jogurtti, inkivääri- ja valkosipulitahna, chili, korianteri, kumina, suola ja garam masala tasaiseksi.",
+      "Hiero seos kanan pintaan ja marinoi jääkaapissa enintään 8 tuntia.",
+      "Kuumenna uuni 190 asteeseen.",
+      "Nosta kana ritilälle tai uunipellille. Paista noin tunti ja käännä palat 30 minuutin välein, kunnes kana on kypsää (sisälämpö 74 °C).",
+      "Tarjoa salaatin tai jollof-riisin kanssa."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  },
+  {
+    "id": "wikibooks-nigerian-jollof-rice",
+    "title": "Nigerialainen jollof-riisi",
+    "description": "Nigerian kansallisruoka: riisi kypsennetään tomaatista, paprikasta, chilistä ja sipulista soseutetussa mausteisessa liemessä ja tarjoillaan paistetun lihan kanssa.",
+    "servings": 5,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "nigerialainen", "riisi", "juhla"],
+    "ingredients": [
+      "5 isoa tomaattia",
+      "4 isoa paprikaa",
+      "2–4 scotch bonnet -chiliä",
+      "2 isoa sipulia",
+      "600 g naudanlihaa tai broilerin paloja",
+      "3 dl maapähkinäöljyä",
+      "1 keskikokoinen sipuli, kuutioituna",
+      "150 g tomaattipyreetä",
+      "2–4 liemikuutiota",
+      "4 laakerinlehteä",
+      "½ tl currya",
+      "⅓ tl timjamia",
+      "1 ripaus kanelia",
+      "½ tl jauhettua inkivääriä",
+      "1 tl valkosipulijauhetta",
+      "1 rkl jauhettua kuivattua katkarapua",
+      "500 g riisiä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Soseuta tomaatit, paprikat, chilit ja isot sipulit ja nosta sivuun.",
+      "Keitä liha (ota liemi talteen) ja paista se sitten öljyssä rapeaksi. Nosta sivuun.",
+      "Kuumenna noin 2 litran kattila kuivaksi. Lisää öljy ja anna kuumentua.",
+      "Lisää kuutioitu sipuli ja tomaattipyree. Sekoita koko ajan 3–5 minuuttia ja lisää sitten soseutettu paprikaseos.",
+      "Lisää noin 2 dl lihan keitinlientä, liemikuutiot, laakerinlehdet, curry, timjami, kaneli, inkivääri, valkosipuli ja katkarapujauhe. Sekoita noin 10 minuuttia.",
+      "Lisää noin 1,2 l vettä ja kuumenna kiehuvaksi.",
+      "Pese riisi sillä välin 3–4 kertaa, kunnes vesi on kirkasta, ja valuta.",
+      "Lisää riisi kiehuvaan liemeen ja mausta suolalla. Sekoita puulastalla niin, ettei riisi jää yhteen kohtaan. Lisää tarvittaessa vettä ja sekoita säännöllisesti, ettei riisi pala pohjaan.",
+      "Kun riisi on sopivan kypsää, laske lämpöä, jotta loppu neste imeytyy.",
+      "Tarjoa paistetun lihan kanssa."
+    ],
+    "notes": ["Alkuperäisessä ohjeessa chilejä on 4 isoa scotch bonnetia, mikä on erittäin tulista; aloita pienemmällä määrällä."]
+  },
+  { "id": "wikibooks-nigerian-kpomo-sauce", "skip": "liian puutteellinen (määrät puuttuvat, erikoisaines naudan nahka)" },
+  {
+    "id": "wikibooks-nigerian-lentil-porridge",
+    "title": "Nigerialainen linssipuuro palmuöljyllä",
+    "description": "Helppo linssiruoka: linssit keitetään pehmeiksi ja maustetaan palmuöljyllä, chilillä ja sipulilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "nigerialainen", "linssit"],
+    "ingredients": [
+      "4 dl ruskeita tai vihreitä linssejä",
+      "1 l vettä",
+      "3 rkl palmuöljyä",
+      "1 punainen chili tai paprika, soseutettuna",
+      "1 sipuli, hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Poimi linsseistä roskat ja huuhtele ne.",
+      "Laita linssit kattilaan ja peitä vedellä. Kuumenna kiehuvaksi ja keitä pehmeiksi.",
+      "Sekoita joukkoon palmuöljy, chili ja sipuli. Keitä muutama minuutti.",
+      "Mausta suolalla ja tarjoa."
+    ],
+    "notes": ["Alkuperäisestä ohjeesta puuttuivat määrät; ne on arvioitu."]
+  }
+]

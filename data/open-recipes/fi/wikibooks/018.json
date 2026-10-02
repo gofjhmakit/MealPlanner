@@ -1,0 +1,609 @@
+[
+  {
+    "id": "wikibooks-bulgogi",
+    "title": "Bulgogi – korealainen marinoitu grilliliha",
+    "description": "Ohuet naudanlihasuikaleet makeassa soija-seesamimarinadissa grillattuna tai pannulla paistettuna.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "grilli", "riisi"],
+    "ingredients": [
+      "450 g naudanlihaa (esim. ulkofileetä), mahdollisimman ohuina viipaleina",
+      "3 kevätsipulia, vinoina viipaleina",
+      "4 herkkusientä, viipaloituna (valinnainen)",
+      "½ sipulia, ohuina viipaleina (valinnainen)",
+      "1¾ dl soijakastiketta",
+      "½ dl sokeria",
+      "4 rkl seesamiöljyä",
+      "1 tl mustapippuria",
+      "1–2 rkl hienonnettua valkosipulia",
+      "1 rkl miriniä (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa kulhossa. Marinoi vähintään 30 minuuttia, mieluiten jääkaapissa yön yli.",
+      "Grillaa tai paista liha keskikorkealla lämmöllä.",
+      "Tarjoa riisin kanssa ja kaada lihan ja kasvisten mehut riisin päälle."
+    ],
+    "notes": ["Jos marinoit yön yli, vähennä soijakastiketta. Sokerin voi korvata raastetulla aasialaisella päärynällä, joka myös mureuttaa lihaa."]
+  },
+  {
+    "id": "wikibooks-bulgur-burgers",
+    "title": "Bulgurpihvit",
+    "description": "Maukkaat kasvispihvit bulgurista, porkkanasta, tahinista ja soijasta.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "pihvit", "bulgur"],
+    "ingredients": [
+      "7 dl vettä",
+      "2 valkosipulinkynttä",
+      "3½ dl bulguria",
+      "2 rkl rypsiöljyä",
+      "1¼ dl kevätsipulia, hienonnettuna",
+      "1¼ dl porkkanaa, raastettuna",
+      "½ dl persiljaa, hienonnettuna",
+      "½ dl tahinia",
+      "2 rkl tomaattipyreetä",
+      "2 rkl soijakastiketta",
+      "1 tl dijonsinappia",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Kiehauta vesi.",
+      "Kuullota sillä välin valkosipulia ja bulguria öljyssä paksupohjaisessa pannussa keskikorkealla lämmöllä 2 minuuttia sekoittaen.",
+      "Lisää kiehuva vesi, kiehauta, peitä ja laske lämpö miedoksi.",
+      "Hauduta 15–20 minuuttia, kunnes vesi on imeytynyt ja bulgur pehmeää mutta napakkaa.",
+      "Sekoita joukkoon kevätsipuli, porkkana, persilja, tahini, tomaattipyree, soijakastike, sinappi ja pippuri. Muotoile kostein käsin 6–8 pihviä.",
+      "Paista kevyesti öljytyssä pannussa keskimiedolla lämmöllä noin 10 minuuttia, käännä kerran, tai paista öljytyllä pellillä 190 asteessa 20 minuuttia."
+    ],
+    "notes": ["Lisää proteiinia: sekoita joukkoon 2½ dl survottuja keitettyjä kikherneitä."]
+  },
+  { "id": "wikibooks-bumbleberry-souffle", "skip": "kananmunien määrä puuttuu, liian puutteellinen valmistettavaksi" },
+  { "id": "wikibooks-bunny-chow-south-african-bread-with-salad-dish", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-burgoo",
+    "title": "Burgoo – kentuckylainen liha-kasvispata",
+    "description": "Perinteinen pata sekalaisista kypsistä lihoista ja kasviksista, mieluiten grillilihasta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 140,
+    "category": "Keitot",
+    "tags": ["liha", "amerikkalainen", "pata", "keitto"],
+    "ingredients": [
+      "450 g sekalaisia kypsiä lihoja (naudan-, lampaan-, porsaan-, broilerinlihaa)",
+      "2 l kanalientä",
+      "2 l lihalientä",
+      "2 rkl worcestershirekastiketta",
+      "2½ dl tomaatteja, kuutioituna",
+      "1 iso sipuli, kuutioituna",
+      "1 varsi lehtiselleriä, kuutioituna",
+      "1 pieni vihreä paprika, kuutioituna",
+      "1 iso peruna, kuutioituna",
+      "2 isoa porkkanaa, kuutioituna",
+      "½ dl herneitä",
+      "1¼ dl okraa",
+      "½ dl limapapuja",
+      "1¼ dl maissia",
+      "2 tl hienonnettua valkosipulia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kattilaan ja kuumenna kiehuvaksi.",
+      "Laske lämpö ja hauduta 2 tuntia, kuori pinta tarvittaessa."
+    ],
+    "notes": ["Perinteisesti burgoo keitetään ulkona valurautapadassa nuotiolla."]
+  },
+  {
+    "id": "wikibooks-burmese-pork-curry",
+    "title": "Burmalainen porsascurry",
+    "description": "Kevyt ja maukas porsascurry itse tehdyllä currytahnalla, tamarindilla ja vihreillä pavuilla.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["liha", "burmalainen", "curry"],
+    "ingredients": [
+      "Currytahna:",
+      "8 kuivattua punaista chiliä",
+      "2,5 cm pala inkivääriä, murskattuna",
+      "2 sitruunaruohonvartta, hienonnettuna",
+      "1 rkl tuoretta galangalia, hienonnettuna",
+      "1 rkl katkaraputahnaa",
+      "2 rkl hienoa fariinisokeria",
+      "Curry:",
+      "675 g porsaanlihaa, kuutioina",
+      "6 dl vettä",
+      "2 tl kurkumaa",
+      "1 tl tummaa soijakastiketta",
+      "200 g vihreitä papuja",
+      "1 tl fariinisokeria",
+      "3 rkl tamarindimehua (tai 1 tl tamarinditiivistettä)",
+      "1 rkl hienonnettua valkosipulia",
+      "4 salottisipulia, hienonnettuna",
+      "1 rkl kalakastiketta",
+      "tuoreita punaisia chilejä koristeluun"
+    ],
+    "instructions": [
+      "Liota kuivattuja chilejä lämpimässä vedessä 20 minuuttia.",
+      "Survo inkivääri, chili, sitruunaruoho ja galangal huhmareessa karkeaksi tahnaksi.",
+      "Lisää katkaraputahna ja sokeri ja survo tummaksi rakeiseksi tahnaksi.",
+      "Laita liha wokkiin tai isoon pannuun keskilämmölle ja sekoita joukkoon currytahna.",
+      "Kypsennä miedolla lämmöllä välillä sekoittaen, kunnes liha muuttaa väriä, rasvaa sulaa ja curry tuoksuu.",
+      "Lisää kurkuma, vesi ja soijakastike ja hauduta ilman kantta 40 minuuttia, kunnes liha on mureaa.",
+      "Höyrytä pavut erikseen noin 10 minuuttia.",
+      "Sekoita curryyn sokeri, tamarindi, valkosipuli, salottisipulit ja kalakastike, kunnes sokeri on liuennut.",
+      "Koristele chileillä ja pavuilla ja tarjoa heti."
+    ],
+    "notes": ["Galangalin voi korvata inkiväärillä. Lihaan kannattaa jättää hieman rasvaa kastikkeen makua varten."]
+  },
+  { "id": "wikibooks-burple-nurples", "skip": "vitsiresepti piirrossarjasta, ei varsinainen ruokaohje" },
+  { "id": "wikibooks-burrito", "skip": "yleinen tekniikkaohje ilman ainesmääriä" },
+  {
+    "id": "wikibooks-burrito-mix",
+    "title": "Burritotäyte",
+    "description": "Jauheliha-papu-maissitäyte riisillä ja salsalla tortilloihin.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "arkiruoka"],
+    "ingredients": [
+      "450–900 g naudan jauhelihaa",
+      "1 sipuli, kuutioituna",
+      "1 tlk (400 g) mustia papuja, huuhdeltuina",
+      "1 tlk (340 g) maissia liemineen",
+      "1 tlk (400 g) tomaattimurskaa",
+      "2½ dl salsaa",
+      "2½ dl pikariisiä",
+      "2½ dl vettä",
+      "1 pss taco-mausteseosta",
+      "tortilloja tarjoiluun"
+    ],
+    "instructions": [
+      "Ruskista jauheliha ja sipuli kattilassa.",
+      "Sekoita joukkoon pavut, maissi, tomaatit, salsa, riisi, vesi ja taco-mauste. Hauduta, kunnes riisi on kypsää.",
+      "Käytä täytteenä burritoissa."
+    ]
+  },
+  {
+    "id": "wikibooks-butter-tart",
+    "title": "Kanadalaiset voitortut",
+    "description": "Pienet murotaikinatortut tahmealla fariinisokeri-rusinatäytteellä.",
+    "servings": 24,
+    "totalTimeMin": 70,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kanadalainen", "torttu"],
+    "ingredients": [
+      "Taikina:",
+      "200 g leivontarasvaa",
+      "1 rkl voita",
+      "1¾ dl kiehuvaa vettä",
+      "7 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "¼ tl suolaa",
+      "Täyte:",
+      "2 kananmunaa",
+      "3½ dl fariinisokeria",
+      "1¼ dl maissisiirappia tai vaaleaa siirappia",
+      "3 rkl voita, sulatettuna",
+      "2½ dl korintteja tai rusinoita",
+      "1¼ dl saksanpähkinöitä, rouhittuina",
+      "2 tl etikkaa",
+      "ripaus suolaa",
+      "½ tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Vatkaa rasva, voi ja kuuma vesi kermaiseksi.",
+      "Siivilöi lämpimään seokseen jauhot, leivinjauhe ja suola ja sekoita kevyesti taikinaksi. Muotoile palloksi vaivaamatta.",
+      "Jaa taikina kahtia ja jäähdytä 20–40 minuuttia.",
+      "Jaa taikina 24 palloon ja kauli jokaisesta ohut kiekko.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Vatkaa munat hyvin. Lisää sokeri, siirappi ja sulatettu voi ja vatkaa.",
+      "Lisää korintit, pähkinät, etikka, suola ja vanilja ja sekoita reippaasti.",
+      "Painele taikinakiekot pieniin torttuvuokiin tai muffinivuokiin.",
+      "Täytä ⅔-täyteen täytteellä.",
+      "Paista noin 20 minuuttia, kunnes taikina on vaaleanruskea.",
+      "Anna jäähtyä."
+    ],
+    "notes": ["Juoksevampaan täytteeseen paista 15–17 minuuttia. Korintit voi korvata kookoksella ja saksanpähkinät pekaanipähkinöillä."]
+  },
+  {
+    "id": "wikibooks-butter-tea",
+    "title": "Tiibetiläinen voitee (po cha)",
+    "description": "Lämmittävä suolainen maitotee voilla.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Juomat",
+    "tags": ["kasvis", "tiibetiläinen", "tee"],
+    "ingredients": [
+      "1 rkl mustaa irtoteetä",
+      "7 dl täysmaitoa",
+      "2 rkl suolatonta voita",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä teetä maidossa 2–10 minuuttia halutusta vahvuudesta riippuen.",
+      "Siivilöi kuppeihin.",
+      "Lisää voi ja suola ja sekoita huolellisesti, mieluiten varovasti sauvasekoittimella, ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-butterbeer",
+    "title": "Kermakalja (butterbeer) – alkoholiton",
+    "description": "Harry Potter -kirjoista tuttu makea lämmin juoma jäätelöstä, voista ja omenamehusta.",
+    "servings": 8,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["kasvis", "lapset", "nopea"],
+    "ingredients": [
+      "5 dl vaniljajäätelöä, pehmeänä",
+      "55 g voita, pehmeänä",
+      "¾ dl fariinisokeria",
+      "2 tl kanelia",
+      "1 tl muskottipähkinää",
+      "1 l omenamehua"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset kulhossa huolellisesti.",
+      "Jaa mukeihin.",
+      "Lämmitä halutessasi ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-buttered-popcorn",
+    "title": "Voipopcorn",
+    "description": "Paukkumaissit sulatetulla voilla ja suolalla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "gluteeniton"],
+    "ingredients": [
+      "2 l valmiiksi paukautettua popcornia",
+      "2 rkl voita, sulatettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kääntele popcorn sulatetussa voissa.",
+      "Ripottele päälle suolaa."
+    ]
+  },
+  {
+    "id": "wikibooks-buttermilk-curry-soup-kadi-pakora",
+    "title": "Kadhi pakora – piimäcurry pakoroilla",
+    "description": "Intialainen hapan piimäcurry friteerattujen kikhernejauhopakoroiden kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "intialainen", "curry"],
+    "ingredients": [
+      "Pakorat:",
+      "2½ dl kikhernejauhoja (besan)",
+      "1–1½ dl vettä",
+      "½ tl suolaa",
+      "¼ tl kurkumaa",
+      "öljyä friteeraukseen",
+      "Curry:",
+      "5 dl piimää",
+      "1 rkl kikhernejauhoja",
+      "½ tl kurkumaa",
+      "ripaus asafoetidaa",
+      "½ tl suolaa",
+      "1 rkl öljyä",
+      "1 tl mustia sinapinsiemeniä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "½ cm pala inkivääriä, kuorittuna ja hienonnettuna",
+      "4–5 curryn lehteä",
+      "1 pieni sipuli, hienonnettuna"
+    ],
+    "instructions": [
+      "Sekoita kikhernejauhot, vesi, suola ja kurkuma paksuksi taikinaksi.",
+      "Kuumenna öljy isossa kattilassa.",
+      "Pudota taikinaa pyöreällä lusikalla öljyyn, jotta pakoroista tulee pyöreitä ja kuohkeita.",
+      "Paista kullanruskeiksi ja nosta öljystä.",
+      "Vatkaa piimä, 1 rkl kikhernejauhoja, kurkuma, asafoetida ja suola tasaiseksi.",
+      "Kuumenna öljy pannulla ja paista sinapinsiemeniä, valkosipulia, inkivääriä, curryn lehtiä ja sipulia, kunnes ne saavat hieman väriä.",
+      "Sekoita piimäseos ja lisää sipuleihin. Sekoita keskilämmöllä, kunnes se alkaa poreilla.",
+      "Lisää pakorat, laske lämpöä ja hauduta hetki. Peitä ja sammuta levy.",
+      "Tarjoa kuumana riisin tai rotin kanssa."
+    ],
+    "notes": ["Tulisempaan versioon lisää garam masalaa ja chilijauhetta sekä pakoroihin että curryyn."]
+  },
+  {
+    "id": "wikibooks-buttermilk-fried-chicken-with-pan-gravy",
+    "title": "Piimämarinoitu friteerattu kana ja pannukastike",
+    "description": "Etelävaltioiden klassikko: maustetussa piimässä marinoitu, kahdesti jauhotettu paistettu broileri.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": ["kana", "amerikkalainen", "friteerattu"],
+    "ingredients": [
+      "Kana:",
+      "1 kokonainen broileri, 8–10 palaksi paloiteltuna",
+      "5 dl piimää",
+      "1 tl sinappijauhetta",
+      "1 tl cayennepippuria",
+      "2 tl karkeaa mustapippuria",
+      "1 tl kanelia",
+      "1 rkl oreganoa",
+      "1 rkl kuivattua persiljaa",
+      "1 tl paprikajauhetta",
+      "3 dl vehnäjauhoja maustettuna suolalla, pippurilla, korianterilla ja timjamilla",
+      "maapähkinä- tai maissiöljyä paistamiseen",
+      "Kastike:",
+      "1 pieni sipuli tai salottisipuli, hienonnettuna",
+      "1 valkosipulinkynsi",
+      "3–4 rkl vehnäjauhoja",
+      "7 dl kanalientä (tai 5 dl lientä ja 2½ dl kermaa)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita piimä ja mausteet ja marinoi broilerinpaloja siinä 4 tuntia.",
+      "Nosta palat marinadista, anna valua hetki ja kääntele maustetuissa jauhoissa (esim. pussissa ravistellen).",
+      "Anna palojen levätä erillään noin 10 minuuttia ja jauhota uudelleen.",
+      "Kuumenna öljy syvässä leveässä pannussa savuavan kuumaksi. Paista palat erissä niin, etteivät ne kosketa toisiaan. Käännä 3–4 minuutin kuluttua ja laske lämpöä. Paista 20–25 minuuttia muutaman minuutin välein käännellen, kunnes pinta on syvän kullanruskea ja lihaneste kirkasta.",
+      "Valuta talouspaperilla. Pidä tarvittaessa lämpimänä uunissa erillään.",
+      "Kaada pannulta öljy pois ja jätä 3–4 rkl sekä paistojäämät. Kuullota sipuli ja valkosipuli keskilämmöllä. Vatkaa joukkoon jauhot ja ruskista vaalean- tai keskiruskeaksi.",
+      "Vatkaa joukkoon liemi ja hauduta peitettynä miedolla lämmöllä 15 minuuttia. Mausta suolalla ja pippurilla.",
+      "Tarjoa riisin ja vihreiden kasvisten kanssa ja valuta kastiketta päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-buttermilk-ranch-dressing",
+    "title": "Ranch-kastike piimästä",
+    "description": "Amerikkalainen kermainen yrttikastike salaateille, voileipiin ja kasvisdipiksi.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "amerikkalainen", "kastike", "nopea"],
+    "ingredients": [
+      "2 rkl sitruunamehua",
+      "2½ dl piimää",
+      "2½ dl majoneesia",
+      "1¾ dl kermaviiliä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl oreganoa",
+      "2 tl sipulijauhetta",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita ainekset tasaiseksi."
+    ]
+  },
+  {
+    "id": "wikibooks-butternut-squash-soup",
+    "title": "Myskikurpitsakeitto",
+    "description": "Uunissa paahdetusta myskikurpitsasta ja sipulista soseutettu keitto muskottipähkinällä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "kurpitsa"],
+    "ingredients": [
+      "1 keskikokoinen myskikurpitsa",
+      "2 keskikokoista sipulia, kuorittuina ja halkaistuina",
+      "2 rkl oliiviöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 l kana- tai kasvislientä",
+      "½ dl makeaa sherryä",
+      "1 tl muskottipähkinää",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Halkaise kurpitsa pituussuunnassa ja poista siemenet.",
+      "Sivele sipulit ja kurpitsa oliiviöljyllä. Paista ilman kantta noin tunti, kunnes kypsiä. Anna jäähtyä hieman.",
+      "Kaavi kurpitsan hedelmäliha monitoimikoneeseen, lisää sipulit ja 2½–5 dl lientä ja soseuta tasaiseksi.",
+      "Kaada kattilaan, lisää valkosipuli, sherry ja muskottipähkinä ja sekoita keskilämmöllä.",
+      "Lisää loppu liemi ja kuumenna. Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "wikibooks-butterscotch-sauce",
+    "title": "Toffeekastike (butterscotch)",
+    "description": "Täyteläinen fariinisokeri-kermakastike jälkiruokien päälle.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kastike", "gluteeniton"],
+    "ingredients": [
+      "300 g fariini- tai muscovadosokeria",
+      "150 g suolatonta voita",
+      "1 tl vaniljauutetta",
+      "1 rkl tummaa siirappia (valinnainen)",
+      "3 dl kuohukermaa"
+    ],
+    "instructions": [
+      "Laita sokeri, voi, vanilja ja siirappi kattilaan miedolle lämmölle ja sekoita varovasti, kunnes kaikki on sulanut. Mieto lämpö estää sokeria palamasta ja kermaa juoksettumasta.",
+      "Lisää kerma hitaasti varovasti sekoittaen.",
+      "Nosta lämpö keskitasolle ja sekoita, kunnes kastike poreilee ja on kuumaa. Nosta liedeltä.",
+      "Käytä haluamaasi jälkiruokaan tai tarjoa lämpimänä kannusta."
+    ]
+  },
+  {
+    "id": "wikibooks-buttery-noodles-with-cheese",
+    "title": "Voinen juustopasta",
+    "description": "Nopea pasta voissa, vuohenjuustossa ja valkosipulissa liemessä keitettynä.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "nopea"],
+    "ingredients": [
+      "200 g linguinea tai spagettia",
+      "1 kasvisliemikuutio",
+      "1–2 rkl voita",
+      "50 g vuohenjuustoa tai parmesaania",
+      "3–5 valkosipulinkynttä (valinnainen)",
+      "1 tl kuivattuja yrttejä (basilika, oregano)",
+      "1 tomaatti, kuutioituna (valinnainen)"
+    ],
+    "instructions": [
+      "Täytä kattila vedellä kahden annoksen pastaa varten.",
+      "Kuumenna kovalla lämmöllä ja lisää liemikuutio.",
+      "Kun vesi kiehuu, lisää pasta.",
+      "Kun pasta on kypsää, kaada suurin osa vedestä pois niin, että pohjalle jää noin 2–3 cm.",
+      "Lisää voi, juusto, tomaatti ja yrtit.",
+      "Purista joukkoon valkosipulit.",
+      "Sekoita usein, kunnes kastike on halutun paksuista."
+    ]
+  },
+  {
+    "id": "wikibooks-buuz-mongolian-meat-dumplings",
+    "title": "Buuz – mongolialaiset höyrytetyt lihanyytit",
+    "description": "Pehmeään taikinaan käärityt naudanlihatäytteiset höyrynyytit.",
+    "servings": 2,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "mongolialainen", "nyytit"],
+    "ingredients": [
+      "Taikina:",
+      "300 g vehnäjauhoja",
+      "2–3 dl kylmää vettä",
+      "Täyte:",
+      "400 g naudan jauhelihaa",
+      "20 g sipulia, hienonnettuna",
+      "½ tl suolaa",
+      "¼ tl mustapippuria (valinnainen)",
+      "5 rkl vettä",
+      "öljyä höyrytysalustalle"
+    ],
+    "instructions": [
+      "Sekoita jauheliha, suola, sipuli, pippuri ja vesi huolellisesti. Pidä peitettynä taikinan valmistuksen ajan.",
+      "Sekoita jauhot ja kylmä vesi hyvin pehmeäksi taikinaksi. Peitä ja anna levätä 5 minuuttia.",
+      "Vaivaa taikinaa puoli minuuttia. Jaa se 10 osaan ja litistä kiekoiksi.",
+      "Laita jokaiselle kiekolle reilusti täytettä ja kokoa reunat yhteen niin, että täyte peittyy.",
+      "Kiehauta vesi höyrytyskattilassa ja öljyä höyrytysalusta.",
+      "Asettele nyytit alustalle noin 1 cm:n välein. Peitä tiiviisti ja höyrytä 15 minuuttia.",
+      "Nosta alusta pois ja leyhyttele nyyttejä 30 sekuntia.",
+      "Tarjoa kaalisalaatin tai kurkkujen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-buuelos-sweet-fried-pastry",
+    "title": "Buñuelos – friteeratut kanelisokerileivät",
+    "description": "Latinalaisen Amerikan ohuet rapeat paistetut taikinakiekot kanelisokerilla.",
+    "servings": 16,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "meksikolainen", "friteerattu"],
+    "ingredients": [
+      "5 kananmunaa",
+      "½ dl sokeria",
+      "1 tl rypsiöljyä",
+      "5 dl vehnäjauhoja, jaettuna",
+      "1 tl leivinjauhetta",
+      "1 tl suolaa",
+      "2½ dl sokeria",
+      "1 tl kanelia",
+      "2½ dl rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Vatkaa munat ja ½ dl sokeria isossa kulhossa paksuksi ja vaaleaksi vaahdoksi. Lisää öljy.",
+      "Sekoita 3½ dl jauhoja, leivinjauhe ja suola. Lisää vähitellen munaseokseen ja vatkaa hyvin.",
+      "Kumoa taikina loppujen jauhojen kanssa jauhotetulle alustalle ja vaivaa sileäksi.",
+      "Jaa taikina 16 palloon ja kauli jokaisesta noin 13 cm:n kiekko. Anna kuivahtaa leivinpaperilla 10 minuuttia.",
+      "Kuumenna öljy syvässä pannussa 175 asteeseen. Paista kiekot kullanruskeiksi kerran kääntäen. Valuta talouspaperilla.",
+      "Sekoita kaneli ja sokeri ja ripottele paistettujen leipien päälle. Säilytä ilmatiiviissä rasiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-bnh-m",
+    "title": "Bánh mì – vietnamilainen patonkileipä",
+    "description": "Rapea patonki pikkelöidyillä kasviksilla, lihalla, korianterilla ja tulisella majoneesilla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["liha", "vietnamilainen", "leipä"],
+    "ingredients": [
+      "Pikkelöidyt kasvikset:",
+      "1 porkkana, suikaloituna",
+      "½ daikon-retiisiä, suikaloituna",
+      "½ tl suolaa",
+      "½ dl vettä",
+      "½ dl kookos- tai väkiviinaetikkaa",
+      "2 rkl sokeria",
+      "Leipä:",
+      "1 patonki",
+      "2 rkl majoneesia",
+      "1 tl srirachaa",
+      "200 g grillattua porsasta, kanaa tai tofua, viipaloituna",
+      "4 viipaletta maksapasteijaa (valinnainen)",
+      "korianterinlehtiä ja -varsia",
+      "1 jalapeño, hyvin ohuina viipaleina",
+      "½ kurkku, viipaloituna"
+    ],
+    "instructions": [
+      "Ripottele porkkana- ja retiisisuikaleille hieman suolaa, anna seistä 5 minuuttia ja huuhtele kylmällä vedellä.",
+      "Kiehauta vesi, etikka ja sokeri, anna jäähtyä ja kaada kasvisten päälle.",
+      "Säilytä kasvikset jääkaapissa vähintään vuorokausi ennen käyttöä.",
+      "Halkaise patongin pala pituussuunnassa ja painele tai kaavi sisustaan kuoppa täytteelle.",
+      "Paahda leipä halutessasi.",
+      "Sekoita majoneesi ja sriracha ja levitä leivän molemmille puolille.",
+      "Täytä lihalla, pasteijalla, pikkelöidyillä kasviksilla, kurkulla, jalapeñolla ja korianterilla.",
+      "Tarjoa."
+    ],
+    "notes": ["Täytteeksi sopivat myös lihapullat, kiinalainen makkara, sardiinit, savulohi tai paistettu kala."]
+  },
+  {
+    "id": "wikibooks-barnaise-sauce",
+    "title": "Bearnaisekastike",
+    "description": "Rakuunalla maustettu keltuais-voiemulsiokastike pihveille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "kastike", "gluteeniton"],
+    "ingredients": [
+      "2 rkl rakuunaetikkaa",
+      "2 rkl sherryetikkaa tai kuivaa valkoviiniä",
+      "1 salottisipuli, hienonnettuna",
+      "1 rkl tuoretta rakuunaa, hienonnettuna",
+      "1 rkl tuoretta persiljaa, hienonnettuna",
+      "2 kananmunan keltuaista",
+      "75–100 g sulatettua voita (lämmintä, ei kuumaa)",
+      "suolaa",
+      "cayennepippuria"
+    ],
+    "instructions": [
+      "Keitä etikat, salottisipuli ja yrtit pienessä kattilassa, kunnes nestettä on jäljellä 1 rkl. Siivilöi ja anna jäähtyä.",
+      "Lisää keltuaiset ja vatkaa pallovispilällä vaaleaksi vaahdoksi.",
+      "Aseta kulho kuuman vesihauteen päälle ja jatka vatkaamista. Lisää sulatettu voi vähitellen vatkaten, kunnes kastike sakeutuu.",
+      "Mausta ja tarjoa."
+    ],
+    "notes": ["Älä käytä kuivattua rakuunaa. Kulhon tulee olla niin lämmin, että siihen voi vielä koskea."]
+  },
+  {
+    "id": "wikibooks-bchamel-sauce-basic",
+    "title": "Bechamelkastike",
+    "description": "Ranskalainen valkoinen peruskastike, monen kastikkeen pohja.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "ranskalainen", "kastike"],
+    "ingredients": [
+      "50 g voita",
+      "50 g vehnäjauhoja",
+      "1 l täysmaitoa",
+      "1 pieni sipuli",
+      "1 tuore laakerinlehti",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa keskimiedolla lämmöllä ja vatkaa joukkoon jauhot.",
+      "Kypsennä miedolla lämmöllä 3–5 minuuttia ruskistamatta, jotta jauhon maku häviää.",
+      "Kuumenna maitoa toisessa kattilassa. Kuori sipuli mutta älä leikkaa sitä.",
+      "Lisää sipuli ja laakerinlehti maitoon ja sekoita, kunnes maito on noin 80-asteista. Älä anna palaa pohjaan.",
+      "Poista sipuli ja laakerinlehti.",
+      "Vatkaa kuuma maito vähitellen voi-jauhoseokseen. Mausta suolalla ja pippurilla.",
+      "Keitä sekoittaen 15 minuuttia, kunnes kastike on paksua ja paakutonta."
+    ]
+  },
+  { "id": "wikibooks-bchamel-sauce-beeton", "skip": "lähes sama resepti kuin edellinen bechamelkastike" }
+]
