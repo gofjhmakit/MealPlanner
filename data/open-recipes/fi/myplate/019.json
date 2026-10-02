@@ -1,0 +1,646 @@
+[
+  {
+    "id": "myplate-herb-broiled-beef",
+    "title": "Yrttimarinoitu grillattu naudanliha",
+    "description": "Marinoi liha edellisenä iltana, niin päivällinen on pöydässä alle puolessa tunnissa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "arkiruoka", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "½ dl sipulia, hienonnettuna",
+      "2 rkl persiljaa",
+      "2 rkl väkiviinaetikkaa",
+      "3 tl sinappia",
+      "¼ tl valkosipulijauhetta",
+      "¼ tl kuivattua basilikaa (tai timjamia)",
+      "450 g luutonta naudan olkapäätä, 2,5 cm:n paksuisena pihvinä"
+    ],
+    "instructions": [
+      "Sekoita sipuli, persilja, etikka, sinappi, valkosipulijauhe ja basilika tai timjami.",
+      "Laita liha muovipussiin ja kaada marinadi päälle.",
+      "Sulje pussi tiiviisti, laita kulhoon ja marinoi jääkaapissa 6–8 tuntia tai yön yli. Käännä vähintään kerran.",
+      "Kaada marinadi pois.",
+      "Aseta liha uunin ritilälle.",
+      "Grillaa uunin grillivastuksella 15–20 minuuttia haluttuun kypsyyteen ja käännä kerran.",
+      "Leikkaa ohuiksi viipaleiksi tarjoiltaessa."
+    ]
+  },
+  {
+    "id": "myplate-herb-potato-salad",
+    "title": "Yrttiperunasalaatti",
+    "description": "Kuivatut yrtit ja mausteet tekevät tästä pirteästä lisukkeesta perheen suosikin.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "peruna", "salaatti", "lisuke"],
+    "ingredients": [
+      "1 tl suolaa",
+      "5 pientä perunaa (450 g)",
+      "retiisejä, ½ viipaloituna (valinnainen)",
+      "½ tl kuivattua basilikaa",
+      "¼ tl kuivattua timjamia",
+      "¼ tl sipulijauhetta",
+      "3 rkl rasvatonta maustamatonta jogurttia",
+      "1 rkl kevytmajoneesia",
+      "1½ tl sinappia",
+      "½ tl valkosipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Harjaa perunat ja leikkaa kuutioiksi.",
+      "Laita keskikokoiseen kattilaan ja peitä vedellä.",
+      "Kuumenna kiehuvaksi.",
+      "Peitä, laske lämpöä ja hauduta 12 minuuttia tai kunnes perunat ovat kypsiä.",
+      "Valuta.",
+      "Sekoita kastikkeen ainekset.",
+      "Sekoita kuumat perunat, kastike, retiisit, basilika, timjami ja sipulijauhe.",
+      "Tarjoile kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-herb-spinach-bake",
+    "title": "Yrttinen pinaattivuoka",
+    "description": "Nopea ja helppo tapa käyttää tähderiisi!",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "uuniruoka", "pinaatti"],
+    "ingredients": [
+      "1 tlk (440 g) pinaattia (n. 2½ dl valutettuna) tai sulatettua pakastepinaattia",
+      "5 dl keitettyä ruskeaa riisiä",
+      "1¾ dl raastettua vähärasvaista cheddarjuustoa",
+      "1½ dl kevytmaitoa",
+      "3 rkl pehmeää voita (tai margariinia)",
+      "1 tl suolaa (valinnainen)",
+      "½ tl worcestershirekastiketta",
+      "½ tl kuivattua timjamia",
+      "½ dl sipulia, kuutioituna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Valuta säilykepinaatti nesteestä.",
+      "Sekoita pinaatti ja muut ainekset isossa kulhossa.",
+      "Laita noin 20 x 20 cm:n uunivuokaan. Voit käyttää myös suurempaa vuokaa, mutta vuoka jää ohuemmaksi.",
+      "Peitä foliolla ja paista 20 minuuttia.",
+      "Poista folio ja paista vielä 5 minuuttia tai kunnes seos on hyytynyt."
+    ]
+  },
+  {
+    "id": "myplate-herbed-dip",
+    "title": "Yrttidippi",
+    "description": "Kermainen ja maukas dippi, joka valmistuu alle viidessä minuutissa.",
+    "servings": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "nopea", "raejuusto"],
+    "ingredients": [
+      "2½ dl vähärasvaista raejuustoa",
+      "½ dl vähärasvaista maustamatonta jogurttia",
+      "1 rkl sipulia tai ruohosipulia, hienonnettuna",
+      "1 tl kuivattua persiljaa",
+      "¼ tl kuivattua tilliä"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Sekoita tasaiseksi.",
+      "Kaada seos puhtaaseen astiaan.",
+      "Peitä ja jäähdytä."
+    ]
+  },
+  {
+    "id": "myplate-herbed-lentils-and-rice-casserole",
+    "title": "Yrttinen linssi-riisivuoka",
+    "description": "Linssit ja ruskea riisi yhdistetään yrtteihin ja sipuliin ja päälle tulee juustoa. Maukas lisuke.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "palkokasvit", "uuniruoka"],
+    "ingredients": [
+      "6½ dl vähäsuolaista kanalientä",
+      "1¾ dl kuivia linssejä, huuhdeltuina",
+      "1¾ dl sipulia, hienonnettuna",
+      "1¼ dl ruskeaa riisiä, kuivana",
+      "½ dl vettä",
+      "½ tl basilikaa (tuoretta tai kuivattua)",
+      "½ tl oreganoa",
+      "½ tl timjamia",
+      "1¼ dl kevytmozzarellaa, jaettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Laita noin 2,5 litran uunivuokaan liemi, linssit, sipuli, riisi, vesi, mausteet ja ½ dl mozzarellaa.",
+      "Sekoita.",
+      "Peitä foliolla ja paista 175 asteessa 2 tuntia. Tarkista vuoka tunnin kuluttua ja lisää lientä, jos se näyttää kuivalta.",
+      "Poista folio ja ripottele päälle loppu juusto.",
+      "Paista vielä 2–3 minuuttia, kunnes juusto on sulanut."
+    ]
+  },
+  {
+    "id": "myplate-herbed-spinach-quiche-portabella-caps",
+    "title": "Pinaattipiiras portobellosienissä",
+    "description": "Maukas, terveellinen ja aikaa säästävä versio aamiaispiirakasta. Käytä portobellosienen hattuja runsasrasvaisen piirakkataikinan sijaan yksittäisiin annoksiin.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "sienet", "uuniruoka"],
+    "ingredients": [
+      "4 portobellosientä (halkaisija n. 8 cm)",
+      "öljyä tai paistosprayta",
+      "3 kananmunaa",
+      "6 kananmunan valkuaista",
+      "1¼ dl korppujauhoja (täysjyvä, jos saatavilla)",
+      "½ dl rasvatonta maitoa",
+      "1 tl vähäsuolaista valkosipuli-yrttimausteseosta",
+      "2½ dl pakastepinaattia, kypsennettynä ja valutettuna",
+      "½ dl vähärasvaista parmesaania, jaettuna"
+    ],
+    "instructions": [
+      "Aseta uuniritilä uunin keskelle ja kuumenna uuni 190 asteeseen. Poista portobellosienten jalat ja pyyhi sienet puhtaiksi kostealla talouspaperilla.",
+      "Voitele uunipelti ja aseta sienenhatut sille.",
+      "Vatkaa kulhossa yhteen kaikki muut ainekset paitsi 1 rkl parmesaania.",
+      "Voitele noin 25 cm:n pinnoitettu pannu ja kuumenna keskilämmöllä.",
+      "Kypsennä ja sekoita munaseosta, kunnes se vasta alkaa sakeutua.",
+      "Ota pois liedeltä.",
+      "Lusikoi osittain kypsä, kuuma munaseos sienenhattuihin ison lusikan avulla.",
+      "Ripottele päälle loppu parmesaani.",
+      "Paista noin 20 minuuttia.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-herbed-vegetables",
+    "title": "Yrttikasvikset",
+    "description": "Tarjoa tämä maukas lisuke suosikkipääruoan kanssa. Valmistuu minuuteissa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "kasvikset", "nopea", "lisuke"],
+    "ingredients": [
+      "5 dl kasviksia (tuoreita, pakaste- tai säilykekasviksia, mitä tahansa yhdistelmää)",
+      "½ dl sipulia, hienonnettuna",
+      "½ tl italialaisia yrttejä, basilikaa tai rosmariinia (kuivattua, murennettua)",
+      "1 rkl margariinia tai voita"
+    ],
+    "instructions": [
+      "Jos käytät vähäsuolaisia säilykekasviksia, valuta ne ja säästä 2 rkl nestettä.",
+      "Kypsennä sipuli ja yrtit margariinissa tai voissa pienessä kattilassa, kunnes sipuli on pehmeää.",
+      "Sekoita joukkoon kasvikset ja neste tai lisää vettä tarvittaessa.",
+      "Kypsennä ja sekoita, kunnes lämmintä läpikotaisin."
+    ]
+  },
+  {
+    "id": "myplate-hiding-rabbits",
+    "title": "Piilossa olevat kaniinit",
+    "description": "Söpö ja helppo tapa saada lapset innostumaan kasviksista!",
+    "servings": 2,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "kasvikset", "lapsille", "nopea"],
+    "ingredients": [
+      "2 varsiselleriä (kukin pala pituussuunnassa puoliksi leikattuna)",
+      "4 pientä kukkakaalin nuppua (puolitettuna)",
+      "2 rkl maapähkinävoita"
+    ],
+    "instructions": [
+      "Aseta yksi sellerinpala lautasen keskelle kuoppapuoli ylöspäin.",
+      "Levitä voiveitsellä maapähkinävoita reunoille.",
+      "Aseta toinen sellerinpala päälle, jolloin muodostuu tukki.",
+      "Leikkaa tukki kahtia.",
+      "Toista vaiheet 1–3 muiden kahden sellerinpalan kanssa.",
+      "Aseta kukkakaalinuput tukkien päihin ja kiinnitä ne maapähkinävoilla.",
+      "Nauti piilossa olevat kaniinit."
+    ]
+  },
+  {
+    "id": "myplate-homemade-bagels",
+    "title": "Kotitekoiset bagelit",
+    "description": "Voit tehdä itse tuoreita täysjyväbageleita kotona. Reseptistä riittää jaettavaksi tai pakastettavaksi.",
+    "servings": 16,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "leipä", "täysjyvä", "leivonnainen"],
+    "ingredients": [
+      "2 rkl sokeria",
+      "1 rkl kuivahiivaa",
+      "3½ dl lämmintä vettä",
+      "4¾ dl täysjyvävehnäjauhoja",
+      "3 dl vehnäjauhoja",
+      "1 tl rypsiöljyä",
+      "kanelia (valinnainen)",
+      "sokeria (valinnainen)",
+      "suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita kulhossa sokeri, hiiva, vesi ja jauhot taikinaksi.",
+      "Voitele toisen kulhon sisäpinta öljyllä.",
+      "Laita taikina kulhoon ja käännä, jotta se peittyy öljyllä.",
+      "Anna kohota 30 minuuttia.",
+      "Kumoa taikina ja jaa 16 osaan.",
+      "Muotoile palloksi ja tee sormilla reikä keskelle.",
+      "Aseta hyvin voideltulle pellille ja peitä puhtaalla liinalla. Anna kohota uudelleen 15–20 minuuttia.",
+      "Kuumenna kattilassa 5 cm vettä kiehuvaksi.",
+      "Laita reikäleivät reikälusikalla varovasti kiehuvaan veteen minuutiksi molemmin puolin.",
+      "Nosta ja kuivaa liinalla.",
+      "Aseta takaisin pellille.",
+      "Ripottele halutessasi pinnalle kaneli-sokeria tai suolaa.",
+      "Paista 245 asteessa 8–12 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-homemade-cranberry-sauce",
+    "title": "Kotitekoinen karpalokastike",
+    "description": "Hapan ja maukas karpalokastike valmistuu hetkessä.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kastike", "juhla", "karpalo"],
+    "ingredients": [
+      "7 dl tuoreita karpaloita (350 g, myös pakaste käy)",
+      "1 appelsiini",
+      "2½ dl sokeria"
+    ],
+    "instructions": [
+      "Kuori appelsiini ja poista siemenet.",
+      "Laita kaikki ainekset tehosekoittimeen ja sekoita tasaiseksi.",
+      "Lämmitä ja tarjoile kalkkunan kanssa.",
+      "Jos haluat paksumman kastikkeen, älä soseuta vaan lämmitä ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-homemade-mashed-potatoes",
+    "title": "Kotitekoinen perunamuusi",
+    "description": "Kermainen lohturuoka, joka valmistuu nopeasti ja helposti.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "arkiruoka", "nopea"],
+    "ingredients": [
+      "900 g perunoita (6 keskikokoista)",
+      "2½ dl kevytmaitoa",
+      "3 rkl margariinia tai voita",
+      "1 tl suolaa",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuori perunat ja leikkaa paloiksi.",
+      "Laita perunat keskikokoiseen kattilaan ja peitä vedellä.",
+      "Keitä keskilämmöllä 15 minuuttia tai kunnes perunat ovat pehmeitä.",
+      "Ota kattila liedeltä.",
+      "Valuta vesi.",
+      "Muussaa perunat haarukalla tai perunamuussaimella.",
+      "Sekoita joukkoon sen verran maitoa, että muusi on sileää ja kermaista.",
+      "Lisää voi, suola ja pippuri."
+    ]
+  },
+  {
+    "id": "myplate-homemade-pizza-crust",
+    "title": "Kotitekoinen pizzapohja",
+    "description": "Nauti tuoreesta kotitekoisesta pizzapohjasta ja ihanista tuoksuista, jotka täyttävät keittiön paistamisen aikana.",
+    "servings": 4,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "pizza", "leipä", "italialainen"],
+    "ingredients": [
+      "1 tl pikahiivaa",
+      "1¼ dl haaleaa vettä",
+      "¼ tl suolaa",
+      "1 tl öljyä",
+      "2½ dl vehnäjauhoja (suunnilleen)"
+    ],
+    "instructions": [
+      "Sekoita hiiva, vesi, suola ja öljy.",
+      "Lisää noin 2½ dl jauhoja, jolloin taikinasta tulee jäykkä. Jauhojen määrä voi vaihdella hieman.",
+      "Vaivaa taikinaa, kunnes se on hyvin kimmoisaa (venyy eikä repeä).",
+      "Kaulitse tasaisen paksuiseksi kaulimella tai puhtaalla pullolla.",
+      "Aseta voidellulle pellille kohoamaan pizzan täytteitä valmistaessasi.",
+      "Paista 200 asteessa täytteiden kanssa, kunnes pohja on ruskea ja pinta kuplii."
+    ]
+  },
+  {
+    "id": "myplate-homemade-ranch-dressing",
+    "title": "Kotitekoinen ranch-kastike",
+    "description": "Mikä on parempaa kuin ranch-kastike? Tuore kotitekoinen ranch-kastike! Täydellinen salaatille, kasviksille tai kaikelle dipattavalle.",
+    "servings": 16,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "dippi", "amerikkalainen"],
+    "ingredients": [
+      "2 tl kuivattua sipulisilppua",
+      "½ tl suolaa",
+      "ripaus valkosipulijauhetta",
+      "1 rkl kuivattua persiljaa",
+      "2½ dl rasvatonta maustamatonta kreikkalaista jogurttia",
+      "2½ dl piimää"
+    ],
+    "instructions": [
+      "Mittaa kaikki ainekset valmiiksi.",
+      "Laita kuivattu sipuli, suola, valkosipulijauhe ja persilja kulhoon ja sekoita kevyesti.",
+      "Lisää kreikkalainen jogurtti ja piimä ja sekoita, kunnes mausteet ovat tasaisesti sekoittuneet.",
+      "Jäähdytä ennen tarjoilua.",
+      "Säilytä tähteet jääkaapissa ja käytä viikon sisällä."
+    ]
+  },
+  {
+    "id": "myplate-homestyle-biscuits",
+    "title": "Kotitekoiset piimäbiskuiitit",
+    "description": "Kevyet ja murenevat biskuiitit sopivat loistavasti juhlapöytään ja perhetapaamisiin.",
+    "servings": 15,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leivonnainen", "juhla", "amerikkalainen"],
+    "ingredients": [
+      "4¾ dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "¼ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "2 rkl sokeria",
+      "1½ dl vähärasvaista piimää",
+      "3½ rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen. Sekoita keskikokoisessa kulhossa jauhot, leivinjauhe, ruokasooda, suola ja sokeri.",
+      "Sekoita pienessä kulhossa piimä ja öljy.",
+      "Kaada jauhoseoksen päälle ja sekoita hyvin.",
+      "Vaivaa taikinaa kevyesti 10–12 kertaa kevyesti jauhotetulla alustalla.",
+      "Kaulitse tai painele taikina 2 cm:n paksuiseksi.",
+      "Leikkaa 5 cm:n pyöreällä muotilla tai keksimuotilla ja kasta muotti jauhoihin leikkausten välillä.",
+      "Siirrä biskuiitit voitelemattomalle pellille.",
+      "Paista 12 minuuttia tai kunnes kullanruskeita.",
+      "Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-honey-baked-lentils",
+    "title": "Hunajauunilinssit",
+    "description": "Makea ja suolainen pääruoka, joka on täynnä kuitua, proteiinia ja kaliumia.",
+    "servings": 7,
+    "category": "Pääruoat",
+    "tags": ["liha", "palkokasvit", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "4¾ dl linssejä, keittämättöminä (450 g)",
+      "1 pieni laakerinlehti (valinnainen)",
+      "12 dl vettä",
+      "2½ dl porkkanaa, pilkottuna",
+      "1¼ dl sipulia, pilkottuna",
+      "2½ dl vettä",
+      "225 g vähärasvaista naudan jauhelihaa",
+      "¾ dl hunajaa",
+      "1 tl yrttejä (tuoreita tai kuivattuja)"
+    ],
+    "instructions": [
+      "Laita huuhdellut linssit, laakerinlehti ja 12 dl vettä isoon kattilaan.",
+      "Kuumenna kiehuvaksi.",
+      "Peitä tiiviisti ja laske lämpöä.",
+      "Hauduta 30 minuuttia.",
+      "Älä valuta.",
+      "Poista kypsennyksen jälkeen laakerinlehti.",
+      "Pilko sipuli.",
+      "Sekoita sipuli ja porkkanat 2½ dl:aan vettä.",
+      "Lisää linsseihin ja sekoita noin 23 x 33 cm:n uunivuokaan.",
+      "Ruskista jauheliha (jos käytät).",
+      "Valuta ja heitä rasva pois.",
+      "Lisää liha linssiseokseen.",
+      "Kaada hunaja koko vuoan päälle.",
+      "Lisää halutessasi yrtit.",
+      "Peitä tiiviisti foliolla ja paista tunti 175 asteessa."
+    ],
+    "notes": ["Lapsille alle 1-vuotiaille ei sovi hunaja."]
+  },
+  {
+    "id": "myplate-honey-glazed-turnips",
+    "title": "Hunajalla glaseeratut nauriit",
+    "description": "Kypsennä nauriit ja hunaja liedellä helpoksi ja terveelliseksi päivällislisukkeeksi.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "juurekset", "kasvikset", "arkiruoka"],
+    "ingredients": [
+      "3 keskikokoista naurista (n. 700 g), viipaloituna tai kuutioituna",
+      "2 rkl hunajaa",
+      "2 rkl rypsiöljyä",
+      "½ dl vettä",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Kuori nauriit.",
+      "Viipaloi tai kuutioi nauriit 1 cm:n paloiksi.",
+      "Yhdistä hunaja, öljy ja vesi keskikokoisessa kattilassa ja kuumenna kiehuvaksi.",
+      "Lisää nauriit, suola ja pippuri, peitä ja kuumenna kiehuvaksi.",
+      "Laske lämpö miedoksi ja kypsennä noin 10 minuuttia.",
+      "Poista kansi ja jatka kypsennystä, kunnes nauriit ovat kullanruskeita ja glaseerattuja, noin 10 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-honey-lemon-chicken",
+    "title": "Hunaja-sitruunakana",
+    "description": "Hunaja tuo makeutta tähän raikkaaseen kanaruokaan. Nauti höyrytettyjen kasvisten ja ruskean riisin kanssa.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "arkiruoka", "juhla"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "450 g kanaa (8 palaa)",
+      "1 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "½ dl hunajaa",
+      "½ dl sitruunamehua",
+      "1 tl rosmariinia (tuoretta tai kuivattua)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Vuoraa uunipelti foliolla, jolloin siivous on helppoa.",
+      "Voitele folio kevyesti öljyllä.",
+      "Sekoita jauhot ja suola muovipussissa.",
+      "Pyöräytä kanapalat jauhoseoksessa pussissa, nosta pois ja aseta valmistellulle pellille.",
+      "Paista 45 minuuttia.",
+      "Sekoita hunaja, sitruuna ja rosmariini.",
+      "Lusikoi seos kanan päälle glaseeraukseksi.",
+      "Paista vielä 15 minuuttia."
+    ],
+    "notes": ["Öljy voitelee folion."]
+  },
+  {
+    "id": "myplate-honey-milk-balls",
+    "title": "Hunaja-maitopallot",
+    "description": "Hunaja-maitopallot ovat hyvä iltapäivän välipala, täynnä proteiinia ja kalsiumia. Maistuvat herkulta, joten säästä muutama itsellesi.",
+    "servings": 20,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "lapsille", "eväät"],
+    "ingredients": [
+      "½ dl hunajaa",
+      "½ dl maapähkinävoita",
+      "1¼ dl rasvatonta maitojauhetta",
+      "1¼ dl murskattuja muroja tai hiutaleita"
+    ],
+    "instructions": [
+      "Sekoita hunaja ja maapähkinävoi.",
+      "Lisää maitojauhe vähitellen ja sekoita hyvin.",
+      "Jäähdytä, jolloin seoksen käsittely on helpompaa.",
+      "Muotoile voidelluin käsin pieniksi palloiksi.",
+      "Pyörittele murskatuissa hiutaleissa.",
+      "Jäähdytä kiinteiksi.",
+      "Laita tähteet jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-honey-mustard-dressing",
+    "title": "Hunaja-sinappikastike",
+    "description": "Tee lempisalaatinkastike kotona minuuteissa.",
+    "servings": 7,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "nopea", "salaatinkastike"],
+    "ingredients": [
+      "½ dl rypsiöljyä",
+      "½ dl etikkaa",
+      "2 rkl hunajaa",
+      "2 rkl dijon-sinappia",
+      "2 tl sitruunamehua",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kannelliseen purkkiin tai pulloon.",
+      "Sulje kansi.",
+      "Ravista hyvin.",
+      "Jäähdytä jääkaapissa vähintään tunti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-honey-mustard-pork-chops",
+    "title": "Hunaja-sinappi-porsaankyljykset",
+    "description": "Perheen suosikki valmistuu minuuteissa. Nauti lisukesalaatin ja täysjyväsämpylän kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "arkiruoka", "nopea", "amerikkalainen"],
+    "ingredients": [
+      "4 porsaan ulkofileekyljystä",
+      "¾ dl appelsiinimehua",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "2 rkl kevyttä hunaja-sinappikastiketta"
+    ],
+    "instructions": [
+      "Laita porsaankyljykset isolle pinnoitetulle pannulle.",
+      "Ruskista kyljyksiä keskikovalla lämmöllä toiselta puolelta.",
+      "Käännä kyljykset lastalla.",
+      "Lisää loput ainekset ja sekoita.",
+      "Peitä pannu ja laske lämpöä.",
+      "Hauduta 6–8 minuuttia, kunnes kyljykset ovat kypsiä."
+    ]
+  },
+  {
+    "id": "myplate-honey-pumpkin-bar",
+    "title": "Hunaja-kurpitsapalat",
+    "description": "Nauti syksyn tuoksuista ja mauista ympäri vuoden tällä herkullisella leivonnaisella.",
+    "servings": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kurpitsa", "leivonnainen", "syksy"],
+    "ingredients": [
+      "¾ dl rasvatonta maitojauhetta",
+      "4¾ dl vehnäjauhoja",
+      "1 tl ruokasoodaa",
+      "2½ tl kanelia",
+      "½ tl neilikkaa",
+      "½ tl maustepippuria",
+      "½ tl muskottipähkinää",
+      "¾ dl rypsiöljyä",
+      "1½ dl hunajaa",
+      "1¼ dl appelsiinimehua",
+      "2 rkl appelsiininkuorta, raastettuna",
+      "2 kananmunaa",
+      "2½ dl kurpitsasosetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele kevyesti noin 30 x 38 cm:n reunallinen uunipelti.",
+      "Sekoita pienessä kulhossa maitojauhe, jauhot, ruokasooda ja mausteet.",
+      "Laita sivuun.",
+      "Sekoita isossa kulhossa öljy, hunaja, mehu, appelsiininkuori, munat ja kurpitsa huolellisesti.",
+      "Lisää jauhoseos vähitellen kurpitsaseokseen sekoittaen tasaiseksi.",
+      "Levitä taikina valmistellulle pellille.",
+      "Paista 15–20 minuuttia kullanruskeiksi, kunnes kakku painuu takaisin kevyesti sormella painettaessa.",
+      "Jäähdytä.",
+      "Leikkaa neliöiksi."
+    ],
+    "notes": ["Hunaja ei sovellu alle 1-vuotiaille."]
+  },
+  {
+    "id": "myplate-hooked-salmon-sticks",
+    "title": "Lohitikut",
+    "description": "Nopea ja helppo lasten suosikki, luova tapa käyttää lohisäilykettä ja suolakeksejä.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kala", "lapsille", "nopea", "arkiruoka"],
+    "ingredients": [
+      "1 tlk (450 g) vaaleanpunaista lohta, valutettuna",
+      "16 suolakeksiä, murskattuna (n. 1¼ dl)",
+      "1 kananmuna",
+      "1 rkl rypsiöljyä",
+      "öljyä tai paistosprayta pannun voiteluun"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa lohi, keksimurut ja muna.",
+      "Jaa seos 8 palloksi ja muotoile noin 10 cm:n pituisiksi tikuiksi.",
+      "Voitele paistinpannu kevyesti.",
+      "Lisää öljy ja kuumenna pannua keskilämmöllä 1–2 minuuttia.",
+      "Lisää kalatikut ja paista 3 minuuttia.",
+      "Käännä ja paista noin 3 minuuttia, kunnes kullanruskeita."
+    ]
+  },
+  {
+    "id": "myplate-hoppin-john-sausage-black-eyed-peas-and-rice",
+    "title": "Hoppin' John (makkara, mustasilmäpavut ja riisi)",
+    "description": "Mausteinen ja täyttävä resepti, jonka voi helposti kaksinkertaistaa tähteiksi seuraavalle päivälle.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["riisi", "palkokasvit", "amerikkalainen", "arkiruoka"],
+    "ingredients": [
+      "1¼ dl pikaruskeaa riisiä, keittämätöntä (tai valkoista riisiä)",
+      "1 tl rypsiöljyä",
+      "85 g vähärasvaista savukalkkunamakkaraa, pituussuunnassa neljään osaan leikattuna ja ½ cm:n paloiksi",
+      "½ keskikokoista punaista paprikaa, pilkottuna",
+      "1 keskikokoinen jalapeño, siemenet poistettuna ja hienonnettuna",
+      "1 tlk (400 g) vähäsuolaisia mustasilmäpapuja, huuhdeltuina ja valutettuina",
+      "1¼ dl vettä",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Valmista riisi pakkauksen ohjeen mukaan ilman suolaa ja voita.",
+      "Kuumenna sillä välin öljy keskikokoisella pinnoitetulla pannulla keskikovalla lämmöllä ja kierrä, jotta pohja peittyy.",
+      "Kypsennä makkaraa 3 minuuttia, kunnes se on rikkaan ruskeaa, ja sekoita usein.",
+      "Sekoita joukkoon paprika ja jalapeño.",
+      "Kypsennä 1 minuutti.",
+      "Sekoita joukkoon pavut, vesi ja suola.",
+      "Kypsennä 2 minuuttia, kunnes seos on hieman sakeutunut mutta nestettä on vielä jäljellä.",
+      "Ota liedeltä.",
+      "Anna seistä peitettynä 5 minuuttia, jotta maut yhdistyvät.",
+      "Sekoita joukkoon riisi.",
+      "Siirrä tarjoilukulhoon."
+    ]
+  },
+  {
+    "id": "myplate-horchata",
+    "title": "Horchata",
+    "description": "Makea ja kermainen juoma, joka sopii hyvin mausteisen ruoan kanssa.",
+    "servings": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "juoma", "meksikolainen", "riisi"],
+    "ingredients": [
+      "2½ dl pitkäjyväistä valkoista riisiä, keittämätöntä",
+      "12 dl vettä",
+      "1¼ dl kevytmaitoa",
+      "½ rkl vaniljauutetta",
+      "½ rkl kanelia",
+      "1½ dl sokeria"
+    ],
+    "instructions": [
+      "Kaada riisi ja vesi tehosekoittimeen; sekoita, kunnes riisi vasta alkaa hajota, noin minuutin ajan.",
+      "Anna riisin ja veden seistä huoneenlämmössä noin kolme tuntia.",
+      "Siivilöi riisivesi kannuun ja heitä riisi pois.",
+      "Sekoita riisiveteen maito, vanilja, kaneli ja sokeri.",
+      "Jäähdytä ja sekoita ennen tarjoilua jäiden päällä."
+    ]
+  },
+  {
+    "id": "myplate-hot-cornmeal-cereal",
+    "title": "Kuuma maissipuuro",
+    "description": "Lämmin, täyttävä ja suolainen aamiaispuuro, josta koko perhe pitää.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "puuro", "maissi", "arkiruoka"],
+    "ingredients": [
+      "2½ dl maissijauhoa",
+      "1 tl suolaa",
+      "7 dl kylmää vettä",
+      "7 dl kiehuvaa vettä"
+    ],
+    "instructions": [
+      "Sekoita maissijauho, suola ja kylmä vesi.",
+      "Kaada kiehuvaan veteen ja sekoita silloin tällöin.",
+      "Keitä, kunnes sakenee, ja sekoita usein.",
+      "Peitä ja keitä miedolla lämmöllä noin 15 minuuttia.",
+      "Tarjoile kuumana maidon ja sokerin kanssa."
+    ]
+  }
+]

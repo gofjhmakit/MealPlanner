@@ -1,0 +1,458 @@
+[
+  {
+    "id": "wikibooks-cheescake-cups",
+    "title": "Juustokakkukupit",
+    "description": "Tiiviit pienet juustokakut suklaarakeilla, yksi per iltapäivä riittää.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "juustokakku", "uuniruoka"],
+    "ingredients": [
+      "450 g tuorejuustoa",
+      "2 kananmunaa",
+      "1,8 dl sokeria",
+      "puolimakeita suklaarakeita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Pehmitä tuorejuusto kulhossa mikrossa. 30 sekuntia keskiteholla riittää.",
+      "Sekoita tuorejuusto, munat ja sokeri.",
+      "Aseta muffinssivuokiin paperit.",
+      "Laita suklaarakeita muffinssivuokien pohjalle, ei kokonaista kerrosta, älä peitä pohjaa kokonaan.",
+      "Täytä vuoat tuorejuustoseoksella ja nosta uuniin.",
+      "Paista noin 15 minuuttia. Suklaa sulaa ja muodostaa kakkujen pohjan, ja osa suklaasta kuplii juuston läpi.",
+      "Ota pois ja anna jäähtyä 20 minuuttia, kunnes suklaa kovettuu pohjalla ja muuttuu rapeaksi."
+    ],
+    "notes": ["Kakut voi koristella vesihauteessa sulatetulla suklaalla."]
+  },
+  { "id": "wikibooks-cheese-and-crackers", "skip": "ainesmäärät puuttuvat, liian triviaali ohje" },
+  {
+    "id": "wikibooks-cheese-crisps",
+    "title": "Juustokeksit riisihiutaleilla",
+    "description": "Cheddarilla ja cayennella maustetut rapeat keksit puffatulla riisillä.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Välipalat",
+    "tags": ["kasvis", "juusto", "keksit", "uuniruoka"],
+    "ingredients": [
+      "225 g pehmeää margariinia",
+      "4,8 dl raastettua vahvaa cheddaria",
+      "4,8 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "¾ tl cayennepippuria",
+      "4,8 dl puffattua riisiä (riisihiutaleita)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen.",
+      "Sekoita margariini ja cheddar isossa kulhossa.",
+      "Lisää jauhot, suola ja cayennepippuri.",
+      "Sekoita joukkoon puffattu riisi tasaiseksi.",
+      "Muotoile pieniksi palloiksi ja litistä haarukalla. Aseta voitelemattomalle pellille.",
+      "Paista 150 asteessa 20 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-cheese-dumplings",
+    "title": "Juustoknöödelit (Kaspressknödel)",
+    "description": "Itävaltalaiset paistetut juusto-leipäknöödelit, tarjotaan lihaliemessä tai hapankaalin kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "itävaltalainen", "juusto"],
+    "ingredients": [
+      "250 g vaaleaa kuoretonta leipää, hienoksi kuutioituna",
+      "2,5 dl maitoa",
+      "2–3 kananmunaa",
+      "250 g raastettua juustoa",
+      "50 g voita",
+      "1 sipuli, ohuina viipaleina",
+      "ripaus suolaa",
+      "ripaus pippuria",
+      "ripaus persiljaa",
+      "ripaus kuminaa",
+      "2–3 rkl vehnäjauhoja",
+      "voita tai öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita munat ja maito.",
+      "Liota vaalea leipä munaseoksessa. Vaivaa ja anna levätä.",
+      "Ruskista sipulit voissa pannulla.",
+      "Lisää kypsennetyt sipulit, suola, pippuri, persilja, kumina ja raastettu juusto leipäseokseen. Lisää jauhot ja anna seoksen levätä vielä 10 minuuttia.",
+      "Muotoile golfpallon kokoisia palloja ja paina ne litteiksi (noin 2–3 cm paksuiksi). Muotoilu onnistuu parhaiten hieman märillä käsillä.",
+      "Kuumenna pannulla voita tai öljyä ja paista juustoknöödelit kullanruskeiksi molemmilta puolilta.",
+      "Nosta talouspaperille valumaan.",
+      "Tarjoa naudanlihaliemessä, hapankaalin tai vihersalaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-cheese-egg-toast",
+    "title": "Juusto-munapaahtoleipä",
+    "description": "Munaseoksessa paistettu juustoleipä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "juusto", "kananmuna", "nopea"],
+    "ingredients": [
+      "4 viipaletta leipää",
+      "2 viipaletta juustoa",
+      "2 kananmunaa",
+      "suolaa",
+      "mustapippuria",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Riko munat kulhoon ja vatkaa. Sekoita joukkoon suola ja pippuri.",
+      "Aseta juustoviipale leipäviipaleen päälle ja ripottele pippuria. Laita toinen leipäviipale päälle ja leikkaa voileipä vinosti kahtia.",
+      "Sulata voi pannulla keskilämmöllä.",
+      "Kasta voileivät munaseokseen ja paista pannulla. Käännä puolivälissä, kunnes molemmat puolet ovat kullanruskeita.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-cheese-enchilada",
+    "title": "Juustoenchiladat",
+    "description": "Tex-Mex-enchiladat cheddarilla ja chilikastikkeessa, perheresepti.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "juusto", "meksikolainen", "uuniruoka"],
+    "ingredients": [
+      "3 rkl vehnäjauhoja",
+      "3 rkl chilijauhetta",
+      "3 rkl rypsiöljyä",
+      "7 dl vettä",
+      "680 g raastettua cheddarjuustoa",
+      "1 iso sipuli, hienonnettuna",
+      "n. 20 maissitortillaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Paista chilijauhetta ja jauhoja öljyssä 25–30 cm:n paistinpannulla, kunnes seos on tasaista. Lisää vesi, kuumenna hiljalleen kiehuvaksi ja sekoita noin 5 minuuttia, kunnes se sakenee hieman. Laske lämpö pieneksi.",
+      "Kastele yksi tortilla chilikastikkeessa pehmeäksi (20–30 sekuntia). Nosta tortilla lautaselle, lisää keskelle noin 1 rkl juustoa ja noin 1 rkl sipulia. Rullaa ja aseta saumapuoli alaspäin 23 × 30 cm:n uunivuokaan. Toista, kunnes kaikki tortillat on käytetty. Jos kastike loppuu, lisää ½–1 dl vettä.",
+      "Peitä enchiladat loppujuustolla, sipulilla ja chilikastikkeella.",
+      "Paista uunissa noin 5 minuuttia. Pidempi paistoaika kovettaa juuston.",
+      "Tarjoa kuumana."
+    ],
+    "notes": [
+      "Sopii pakastettavaksi, mutta sulata kokonaan ennen lämmittämistä.",
+      "Tex-Mex-keittiössä tarjotaan usein meksikolaisen riisin, pintopapujen ja guacamolen kanssa."
+    ]
+  },
+  { "id": "wikibooks-cheese-filling-for-peynirli-brek", "skip": "pelkkä täyte toiseen reseptiin, ei itsenäinen ruokaresepti" },
+  {
+    "id": "wikibooks-cheese-omelette",
+    "title": "Juustoomeletti",
+    "description": "Kolmen juuston omeletti paistinpannulla.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "juusto", "kananmuna", "nopea"],
+    "ingredients": [
+      "2 kananmunaa, huoneenlämpöisinä ja vatkattuina",
+      "1 ripaus hienoa suolaa",
+      "2,4 dl raastettua Monterey Jack -juustoa, huoneenlämpöistä",
+      "1,2 dl raastettua mozzarellaa, huoneenlämpöistä",
+      "½ dl raastettua miedonpuoleista cheddaria",
+      "2½ viipaletta pippurijuustoa (pepper jack), erittäin hienoksi kuutioituna",
+      "voita"
+    ],
+    "instructions": [
+      "Kuumenna pieni tarttumaton paistinpannu keskikorkealle lämmölle, kunnes voi kuplii kauniisti pannua kallisteltaessa.",
+      "Jos et ole vielä kierrellyt voita pannulla, tee se nyt. Lisää munat ja suola ja kypsennä, kunnes pannua vasten oleva puoli on ruskistunut.",
+      "Ripottele juustot puolelle raakaa puolta. Taita omeletti kahtia ja kypsennä vain, kunnes juusto on sulanut ja lämmennyt läpi. Tarjoa."
+    ]
+  },
+  { "id": "wikibooks-cheese-on-toast", "skip": "ainesmäärät puuttuvat, liian triviaali ohje" },
+  { "id": "wikibooks-cheese-pierogi-filling", "skip": "pelkkä täyte toiseen reseptiin, ei itsenäinen ruokaresepti" },
+  {
+    "id": "wikibooks-cheese-puffs-po-de-queijo",
+    "title": "Pão de queijo – brasilialaiset juustopullat",
+    "description": "Tapiokatärkkelyksestä ja juustosta tehdyt gluteenittomat brasilialaiset juustopullat.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 55,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "brasilialainen", "juusto", "uuniruoka"],
+    "ingredients": [
+      "1,6 dl maitoa",
+      "¾ dl öljyä (esim. rypsiöljyä)",
+      "4,8 dl tapiokatärkkelystä (hapanta tai makeaa maniokkijauhoa, hienoa)",
+      "170 g raastettua kovaa juustoa (cheddarin ja parmesaanin sekoitus sopii)",
+      "2 kananmunaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita maito ja öljy kattilassa ja kuumenna kiehuvaksi, kunnes pintaan nousee valkoista vaahtoa.",
+      "Lisää jauho vähitellen kuumaan seokseen ja sekoita hyvin tiiviiksi, paakuttomaksi taikinaksi.",
+      "Anna taikinan levätä 15 minuuttia.",
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita munat, juusto, suola ja pippuri taikinaan. Taikina muuttuu tahmeaksi ja märäksi. Jos se on liian märkää, lisää jauhoa ja juustoa, jotta saat tiiviimpiä palloja.",
+      "Voitele kätesi ja muotoile 2,5–5 cm:n läpimittaisia palloja.",
+      "Aseta pallot voidellulle pellille. Paista 15–20 minuuttia, kunnes pinta alkaa ruskistua.",
+      "Jäähdytä hieman."
+    ],
+    "notes": ["Käytä hienoa jauhoa, ei farofaan käytettävää karkeaa rouhetta."]
+  },
+  { "id": "wikibooks-cheese-ravioli-filling", "skip": "pelkkä täyte toiseen reseptiin, ei itsenäinen ruokaresepti" },
+  {
+    "id": "wikibooks-cheese-sauce-i",
+    "title": "Juustokastike",
+    "description": "Béchamel-kastikkeen variaatio kolmella juustolla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "juusto", "kastike"],
+    "ingredients": [
+      "2½ rkl voita",
+      "1½ rkl vehnäjauhoja",
+      "2,4 dl kuohukermaa, kuumennettuna",
+      "2,4 dl tuorejuustoa",
+      "1,2 dl raastettua cheddaria",
+      "¾ dl raastettua mozzarellaa",
+      "½ tl sinappia (valinnainen)",
+      "1½–2 ripausta suolaa"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa. Lisää jauhot ja vatkaa keskilämmöllä 2–3 minuuttia vaaleaksi jauhoseokseksi (roux). Älä anna ruskistua. Ota pois lämmöltä ja anna jäähtyä lähes huoneenlämpöiseksi.",
+      "Lisää kuuma kerma vähitellen jauhoseokseen vatkaten. Toimii myös kuuman jauhoseoksen ja huoneenlämpöisen kerman kanssa.",
+      "Lisää suola, juustot ja sinappi ja lämmitä, kunnes seos juuri kiehuu ja juusto on sulanut."
+    ],
+    "notes": [
+      "Halutessasi kastikkeen voi antaa kiehua hyvin hiljaa noin 45 minuuttia ajoittain sekoittaen. Älä anna ruskistua.",
+      "Mitä kauemmin kastike kiehuu, sitä sileämpää se on."
+    ]
+  },
+  { "id": "wikibooks-cheese-spaetzle", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cheese-spread-on-french-bread",
+    "title": "Juustotahna patongille",
+    "description": "Cheddarista ja tuorejuustosta tehty maustettu juustotahna, joka levitetään patongin päälle.",
+    "servings": 8,
+    "totalTimeMin": 240,
+    "category": "Välipalat",
+    "tags": ["kasvis", "juusto", "tahna"],
+    "ingredients": [
+      "½ rkl dijon-sinappia",
+      "1 rkl voita, huoneenlämpöistä",
+      "2 tl kuivattua salviaa",
+      "½ dl omenamehua",
+      "4,8 dl raastettua vahvaa cheddaria",
+      "½ tl pippuria",
+      "225 g tuorejuustoa, pehmeää",
+      "1 patonki, pieninä viipaleina"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa sinappi, voi ja salvia.",
+      "Lisää omenamehu, cheddar ja pippuri ja sekoita hyvin.",
+      "Lisää tuorejuusto ja sekoita tasaiseksi.",
+      "Peitä ja jäähdytä jääkaapissa 3 tuntia.",
+      "Ota jääkaapista ja anna seistä puoli tuntia.",
+      "Levitä leivän päälle ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-cheese-stuffed-tomatoes",
+    "title": "Juustotäytteiset kirsikkatomaatit",
+    "description": "Tuorejuusto-ricotta-täytteiset kirsikkatomaatit juhlien alkupalaksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["kasvis", "tomaatti", "juusto", "juhla"],
+    "ingredients": [
+      "½ dl tuorejuustoa",
+      "1 rkl basilikasuikaleita",
+      "1 rkl hienonnettua valkosipulia",
+      "2 rkl suolatonta voita",
+      "½ tl suolaa",
+      "½ tl vastajauhettua mustapippuria",
+      "½ dl ricottaa",
+      "30 kirsikkatomaattia, pää leikattuna pois"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset tomaatteja lukuun ottamatta täytteeksi.",
+      "Laita täyte pakastepussiin ja leikkaa pussin alakulmaan pieni reikä.",
+      "Täytä tomaatit noin ¾ täyteen.",
+      "Tarjoa kylmänä alkupalana."
+    ]
+  },
+  { "id": "wikibooks-cheese-tart", "skip": "vaatii pohjataikinan toisesta reseptistä, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cheese-stuffed-chicken-breasts",
+    "title": "Juustotäytteiset broilerinrintafileet",
+    "description": "Maissileipätäytteiset broilerinrinnat karpalolla, omenahyytelöllä ja tuorejuustolla.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "juhla"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "1 rkl suolaa, jaettuna",
+      "1 rkl vastajauhettua mustapippuria, jaettuna",
+      "2,4 dl murennettua maissileipää",
+      "½ dl kuivattuja karpaloita, karkeasti hienonnettuina",
+      "1,2 dl omenahyytelöä",
+      "3 kuivattua omenarengasta, hienoksi silputtuina",
+      "1,2 dl tuorejuustoa",
+      "oliiviöljyä",
+      "hunajaa"
+    ],
+    "instructions": [
+      "Sekoita ¼ tl suolaa, ¼ tl pippuria, maissileipä, hedelmät, hyytelö ja juusto. Laita pakastepussiin ja leikkaa pussin alakulmaan pieni reikä.",
+      "Leikkaa kapealla veitsellä jokaisen rintafileen kylkeen viilto, mutta älä läpi asti.",
+      "Täytä viillot ⅔ täyteen maissileipäseoksella. Sivele reunat hunajalla ja paina yhteen. Sido keittiönarulla.",
+      "Aseta broilerit isoon uunivuokaan. Sivele oliiviöljyllä ja mausta jokainen reilusti loppusuolalla ja -pippurilla.",
+      "Työnnä lämpömittari yhteen fileeseen koskematta täytteeseen. Aseta vuoka uunin keskelle 205 asteeseen ja kypsennä, kunnes sisälämpö on 74 °C.",
+      "Nosta lautaselle ja peitä foliolla. Anna levätä 7 minuuttia ennen lämpömittarin poistamista ja naruista irrottamista. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-cheese-stuffed-crust-pizza",
+    "title": "Juustoreunapizza",
+    "description": "Pizza, jonka reunaan on kääritty juustotikkuja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["liha", "pizza", "juusto", "uuniruoka"],
+    "ingredients": [
+      "öljysuihketta",
+      "maissijauhoa",
+      "1 pkt valmista pizzataikinaa (n. 400 g)",
+      "7 köynnösjuustotikun palaa (2,5 cm)",
+      "1,2 dl pizzakastiketta",
+      "24 viipaletta pepperonia",
+      "150 g kypsää italialaista makkaraa, murennettuna",
+      "4,8 dl raastettua italialaista juustosekoitusta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Suihkuta 30 cm:n pizzavuoka öljyllä. Ripottele halutessasi kevyesti maissijauhoa.",
+      "Paina pizzataikina keskeltä alkaen vuokaan niin, että se ylittää reunat noin 2,5 cm.",
+      "Taita ylitse roikkuva reuna takaisin keskelle ja laita juustotikut taskuun kaikkialle ympyrän ympärille.",
+      "Purista taikina kiinni juuston ympärille.",
+      "Paista pohjaa 8–10 minuuttia, kunnes reunat ovat vaaleanruskeita ja taikina on alkanut jämäköityä.",
+      "Ota pois uunista ja levitä kastike pohjalle lusikan selällä.",
+      "Ripottele kastikkeen päälle pepperoni, makkara ja juusto.",
+      "Laita takaisin uuniin ja paista, kunnes reuna on syvän kullanruskea ja juusto sulanut.",
+      "Leikkaa 6–8 viipaleeksi."
+    ]
+  },
+  {
+    "id": "wikibooks-cheesy-chicken-pasta",
+    "title": "Juustoinen kanapasta",
+    "description": "Nopea kermainen pasta, jossa on kolmea juustoa, kanaa ja hoisinkastiketta.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "juusto", "nopea"],
+    "ingredients": [
+      "85 g kuivattua pastaa (mitä muotoa haluat)",
+      "75 g tuorejuustoa",
+      "75 g raastettua mozzarellaa",
+      "75 g raastettua cheddaria",
+      "2½–3½ rkl hoisinkastiketta maun mukaan",
+      "125 g pilkottua kypsää kanaa",
+      "1,2 dl kuohukermaa"
+    ],
+    "instructions": [
+      "Kuumenna kattilassa vesi kiehuvaksi. Lisää pasta ja keitä noin 10 minuuttia (tai kunnes pasta on pehmeää).",
+      "Valuta pasta kokonaan ja palauta kattilaan.",
+      "Lisää pastan joukkoon kerma, juustot, kana ja hoisinkastike.",
+      "Kypsennä muutama minuutti, kunnes kaikki on lämmennyt läpi.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-cheesy-mascarpone-cornbread-stuffing",
+    "title": "Maissileipätäyte mascarponella",
+    "description": "Juustoinen maissileipätäyte salvialla ja mascarponella, sopii juhlaruoan lisukkeeksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "juusto", "uuniruoka", "juhla"],
+    "ingredients": [
+      "6 dl murennettua maissileipää",
+      "1,8 dl mascarponea, jaettuna",
+      "4,8 dl kuohukermaa, vaahdotettuna pehmeäksi vaahdoksi",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "1 rkl salviaa, ohuina viipaleina",
+      "4 kananmunan keltuaista, vatkattuina",
+      "55 g voita, sulatettuna"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset paitsi kerma ja ½ dl mascarponea.",
+      "Käännä kermavaahto varovasti joukkoon.",
+      "Paista 175 asteessa 30–35 minuuttia.",
+      "Levitä loput juustosta päälle ja ruskista esilämmitetyn grillivastuksen alla, kunnes pinta on ruskea ja kuplii.",
+      "Anna jäähtyä 10 minuuttia ja tarjoa."
+    ]
+  },
+  { "id": "wikibooks-cheesy-potato-soup", "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi" },
+  {
+    "id": "wikibooks-cherbet-mazhar-algerian-flower-water-drink",
+    "title": "Cherbet mazhar – algerialainen appelsiininkukkavesijuoma",
+    "description": "Raikas algerialainen juoma appelsiininkukkavedestä ja kanelista, tarjotaan kosinnan yhteydessä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "algerialainen", "juoma", "nopea"],
+    "ingredients": [
+      "1 l vettä",
+      "2 dl appelsiininkukkavettä",
+      "2–3 rkl sokeria maun mukaan",
+      "1 tl kanelijauhetta",
+      "1 kanelitanko"
+    ],
+    "instructions": [
+      "Sekoita vesi ja appelsiininkukkavesi isossa kattilassa keskilämmöllä puulusikalla sekoittaen.",
+      "Lisää kanelijauhe ja sekoita, kunnes se liukenee kokonaan. Lisää sokeri ja sekoita hyvin.",
+      "Kun sokeri on liuennut kokonaan, kaada juoma kannuun ja jäähdytä jääkaapissa. Tarjoa viininmarjahillon tai kauden hedelmien kanssa."
+    ]
+  },
+  { "id": "wikibooks-cherbet-meliana-algerian-cherry-beverage", "skip": "sisältää murskattuja kirsikankiviä, jotka sisältävät myrkyllistä amygdaliinia" },
+  {
+    "id": "wikibooks-chereh-tamba-gambian-groundnut-stew",
+    "title": "Chereh tamba – gambialainen maapähkinäpata",
+    "description": "Maapähkinätahnalla sakeutettu täyteläinen gambialainen kanapata, tarjotaan riisin tai couscousin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kana", "afrikkalainen", "pata", "pähkinä"],
+    "ingredients": [
+      "2,4 dl maapähkinöitä",
+      "2 rkl rypsiöljyä",
+      "2 isoa sipulia, hienonnettuina",
+      "4 valkosipulinkynttä, hienonnettuina",
+      "2 tomaattia, kuutioituina",
+      "1 paprika, kuutioituna",
+      "1 tl inkiväärijauhetta",
+      "1 tl paprikajauhetta",
+      "1 tl cayennepippuria (valinnainen)",
+      "2 rkl tomaattipyreetä",
+      "500 g kanaa, paloina",
+      "vettä tai lientä (n. 6 dl)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Levitä maapähkinät pellille. Paahda 10–15 minuuttia, kunnes ne ovat kullanruskeita ja tuoksuvia.",
+      "Ota paahdetut pähkinät uunista ja anna jäähtyä.",
+      "Jäähdyttyään siirrä pähkinät monitoimikoneeseen tai tehosekoittimeen ja jauha sileäksi tahnaksi. Aseta sivuun.",
+      "Kuumenna öljy isossa kattilassa keskilämmöllä. Lisää sipulit ja valkosipuli ja kuullota pehmeiksi ja läpikuultaviksi.",
+      "Lisää tomaatit, paprika, inkivääri, paprikajauhe ja cayenne ja sekoita hyvin.",
+      "Sekoita joukkoon tomaattipyree ja maapähkinätahna tasaisesti.",
+      "Lisää kana ja sekoita, jotta kastike peittää palat. Kaada kattilaan vettä tai lientä niin, että kana peittyy ja saat pataruoan koostumuksen. Kuumenna kiehuvaksi, laske lämpö pieneksi ja peitä kannella.",
+      "Hauduta noin 30–40 minuuttia, kunnes kana on kypsää ja pehmeää. Sekoita välillä, ettei tartu pohjaan.",
+      "Maista ja säädä mausteita suolalla, pippurilla ja lisämausteilla.",
+      "Tarjoa kuumana riisin tai couscousin kanssa."
+    ]
+  }
+]

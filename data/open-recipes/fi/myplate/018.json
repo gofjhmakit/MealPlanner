@@ -1,0 +1,747 @@
+[
+  {
+    "id": "myplate-green-beans-and-new-potatoes",
+    "title": "Vihreät pavut ja uudet perunat",
+    "description": "Pakastetut vihreät pavut ja perunat keitetään kattilassa sipulin ja suolan kanssa helpoksi päivällislisukkeeksi.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "kasvikset", "arkiruoka"],
+    "ingredients": [
+      "8 dl pakastettuja vihreitä papuja (450 g pussi)",
+      "8 pientä perunaa, pestynä, kuorittuna ja halkaistuna",
+      "1 keskikokoinen kevätsipuli, pilkottuna",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset isoon kattilaan ja peitä vedellä.",
+      "Kuumenna kiehuvaksi ja laske lämpö keskitasolle.",
+      "Keitä, kunnes pavut ja perunat ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-green-beans-tomatoes-and-basil",
+    "title": "Vihreät pavut tomaatilla ja basilikalla",
+    "description": "Tuore tai kuivattu persilja ja basilika, säilyketomaatit ja sipuli antavat vihreille pavuille makua.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvikset", "papu", "italialainen"],
+    "ingredients": [
+      "450 g vihreitä papuja, päät katkaistuina",
+      "1 rkl oliiviöljyä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "1 tlk (400 g) vähäsuolaisia tomaattipaloja, valutettuna ja pilkottuna",
+      "1 rkl tuoretta basilikaa (tai ½ tl kuivattua)",
+      "1 rkl tuoretta persiljaa (tai ½ tl kuivattua)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä pavut isossa kattilassa kiehuvassa vedessä 5 minuuttia; niiden tulee jäädä vielä napakoiksi.",
+      "Valuta ja huuhtele kylmällä vedellä.",
+      "Laita sivuun.",
+      "Kuumenna oliiviöljy isolla pannulla keskilämmöllä.",
+      "Lisää sipuli ja kypsennä 2–3 minuuttia pehmeäksi.",
+      "Lisää tomaatit, basilika ja persilja.",
+      "Kypsennä 3 minuuttia, jotta maut yhdistyvät.",
+      "Sekoita pavut pannulle ja kypsennä 5–6 minuuttia.",
+      "Mausta suolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "myplate-green-onion-omelet",
+    "title": "Kevätsipulimunakas perunalla ja kinkulla",
+    "description": "Keväällä villisipulia voi käyttää kevätsipulin tilalla. Myös keltainen tai valkoinen sipuli käy.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "peruna", "kinkku", "arkiruoka"],
+    "ingredients": [
+      "1 tlk (425 g) vähäsuolaisia perunaviipaleita, valutettuna",
+      "1 rkl rypsiöljyä",
+      "1 kananmuna",
+      "3 kananmunan valkuaista",
+      "3 rkl kevytmaitoa",
+      "¼ tl suolaa",
+      "1¼ dl kinkkua, kuutioituna",
+      "½ tlk (n. 200 g) suolattomia tomaattipaloja, valutettuna",
+      "1 rkl kevätsipulia (tai villisipulia), hienonnettuna"
+    ],
+    "instructions": [
+      "Avaa ja valuta perunaviipaleet.",
+      "Leikkaa viipaleet suikaleiksi.",
+      "Ruskista perunat kevyesti öljyssä isolla pannulla keskilämmöllä 5–10 minuuttia.",
+      "Sekoita kulhossa muna, valkuaiset, maito ja suola.",
+      "Sekoita hyvin.",
+      "Sekoita joukkoon kinkku, tomaatit ja kevätsipuli.",
+      "Kaada munaseos pannulla olevien perunoiden päälle.",
+      "Peitä pannu ja kypsennä keskilämmöllä, kunnes muna on kiinteää eikä enää valu (noin 8 minuuttia).",
+      "Leikkaa munakas neljään osaan ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-green-tea-berry-banana-smoothie",
+    "title": "Vihreä tee -marja-banaanismoothie",
+    "description": "Pienellä määrällä aineksia saa aikaan paljon. Smoothie on syvän violetti, mutta vahvasta teestä tuleva vihreän teen maku erottuu selvästi. Sopii aamiaiseksi matkaan, välipalaksi tai jälkiruoaksi.",
+    "servings": 4,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "marjat", "banaani"],
+    "ingredients": [
+      "7 dl vettä",
+      "8 pussia vihreää teetä",
+      "7 dl pakastemarjoja (n. 450 g)",
+      "2 keskikokoista banaania, kuorittuna, puolitettuna ja pakastettuna",
+      "2½ dl rasvatonta maustamatonta kreikkalaista jogurttia",
+      "2 tl tuoretta inkivääriä, kuorittuna ja raastettuna (valinnainen)",
+      "2 tl vaniljauutetta (valinnainen)",
+      "2 tl chia- tai pellavansiemeniä (valinnainen)"
+    ],
+    "instructions": [
+      "Kaada vesi pieneen kattilaan.",
+      "Kuumenna vesi kiehuvaksi kovalla lämmöllä.",
+      "Ota kattila liedeltä.",
+      "Lisää teepussit (varmista, että ne ovat kokonaan veden alla) ja anna hautua 4 minuuttia.",
+      "Poista teepussit.",
+      "Anna teen jäähtyä 30 minuuttia.",
+      "Kaada kannuun.",
+      "Jäähdytä jääkaapissa 2 tuntia tai kunnes kylmää.",
+      "Sekoita tee, marjat, banaanit, jogurtti, inkivääri ja vanilja tehosekoittimessa tai monitoimikoneessa sileäksi.",
+      "Kaada neljään lasiin.",
+      "Ripottele päälle chiansiemenet."
+    ]
+  },
+  {
+    "id": "myplate-grilled-asparagus-and-shrimp-quinoa-salad-lemon-vinaigrette",
+    "title": "Grillattu parsa-katkarapukvinoasalaatti sitruunavinegretillä",
+    "description": "Grillaus tuo esiin tuoreiden kasvisten, kuten parsan, maun. Lisää katkaravut, kvinoa ja raikas sitruunavinegretti, ja saat herkullisen kevät- tai kesäsalaatin.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "salaatti", "kvinoa", "grilli"],
+    "ingredients": [
+      "4¾ dl tuoretta parsaa, isoina varsina, 2,5 cm:n paloiksi leikattuna",
+      "½ keltaista tai punaista paprikaa, 1 cm:n paloina",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 tlk (400 g) artisokansydämiä, neljään osaan leikattuina, valutettuina",
+      "340 g tuoreita tai pakastettuja isoja raakoja katkarapuja, kuorittuina ja suolistettuina",
+      "3½ dl kvinoaa (kypsennettynä pakkauksen ohjeen mukaan)",
+      "Vinegretti:",
+      "1 tl raastettua sitruunankuorta (valinnainen)",
+      "3 rkl sitruunamehua",
+      "3 rkl oliiviöljyä",
+      "1 tl dijon-sinappia",
+      "½ tl kuivattua timjamia",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Vispaa vinegretin ainekset pienessä kulhossa ja laita sivuun.",
+      "Leikkaa kasvikset ohjeen mukaan.",
+      "Kuumenna grilli ja grillauspelti.",
+      "Laita kasvikset ja katkaravut isoon kulhoon, lisää noin kolmannes vinegretistä (n. 3 rkl) ja sekoita.",
+      "Levitä katkarapu-kasviseos kuumalle grillipellille.",
+      "Grillaa ja käännä katkarapuja ja kasviksia, kunnes katkarapujen liha on läpikuultamatonta (noin 5–6 minuuttia). Ota pois grillistä.",
+      "Tarjoile grillattu seos keitetyn kvinoan päällä ja valuta päälle loput vinegretistä."
+    ]
+  },
+  {
+    "id": "myplate-grilled-cheese-peaches",
+    "title": "Grillattu juustovoileipä persikalla",
+    "description": "Säilykepersikan makeus tuo yllättävän käänteen tähän juustovoileipään. Nopea lounas, jolla saa lisää hedelmiä ja kasviksia päivään.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "voileipä", "nopea", "lounas"],
+    "ingredients": [
+      "8 ohutta viipaletta täysjyväleipää",
+      "1 tlk (425 g) persikoita, valutettuna",
+      "8 viipaletta vähärasvaista cheddarjuustoa",
+      "1 pussi (n. 280 g) pinaattia",
+      "4 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna 4 tl öljyä isolla pinnoitetulla pannulla keskilämmöllä.",
+      "Aseta 4 leipäviipaletta pannulle.",
+      "Lisää jokaisen leivän päälle tässä järjestyksessä: juustoviipale, kourallinen pinaattia, 4–6 persikkaviipaletta, toinen juustoviipale ja leipäviipale.",
+      "Paista 4–5 minuuttia, käännä voileivät ja paista toiset 4–5 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-grilled-chicken-and-avocado-quinoa-pilaf",
+    "title": "Grillattu kana ja avokado-kvinoapilahvi",
+    "description": "Avokado ja paprika yhdistyvät punaiseen kvinoaan ja grillattuun kanaan täyttäväksi ja värikkääksi ateriaksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "kvinoa", "grilli", "avokado"],
+    "ingredients": [
+      "2 rkl sitruunamehua",
+      "½ dl tuoretta basilikaa",
+      "¾ tl mustapippuria, jaettuna",
+      "1 avokado, paloiteltuna",
+      "1 rkl oliiviöljyä, jaettuna",
+      "¼ tl suolaa",
+      "2 broilerin rintafilettä (n. 450 g)",
+      "1 iso punainen paprika",
+      "½ keskikokoista sipulia, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "7 dl vettä",
+      "3 tl vähäsuolaista kanaliemijauhetta",
+      "3½ dl punaista kvinoaa, keittämätöntä"
+    ],
+    "instructions": [
+      "Kuumenna grilli.",
+      "Kuori ja pilko avokado paloiksi ja laita keskikokoiseen kulhoon.",
+      "Sekoita sitruunamehu, basilika ja ½ tl mustapippuria.",
+      "Valuta avokadopalojen päälle, sekoita ja laita sivuun.",
+      "Leikkaa kanafileet poikki puoliksi.",
+      "Sekoita ½ rkl oliiviöljyä, suola ja loppu mustapippuri.",
+      "Sivele seos kanan ja paprikan päälle.",
+      "Grillaa kana ja paprika kypsiksi.",
+      "Laita kana sivuun.",
+      "Leikkaa paprika ohuiksi suikaleiksi.",
+      "Kuumenna sillä aikaa loput oliiviöljystä isossa pannussa, lisää valkosipuli ja sipuli ja kypsennä pehmeiksi, noin 5 minuuttia.",
+      "Lisää vesi, liemijauhe ja kvinoa; kuumenna kiehuvaksi, peitä, laske lämpöä ja hauduta, kunnes neste on imeytynyt ja kvinoa on kypsää (noin 15–20 minuuttia).",
+      "Laita kvinoapilahvi isoon kulhoon ja lisää kana, paprika ja avokado.",
+      "Sekoita varovasti."
+    ]
+  },
+  {
+    "id": "myplate-grilled-fish-tacos-peach-salsa",
+    "title": "Grillatut kalatacot persikkasalsalla",
+    "description": "Terveelliset kalatacot persikkasalsalla ovat täydelliset kesäiseen tacoiltaan.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "meksikolainen", "grilli", "kesä"],
+    "ingredients": [
+      "Salsa:",
+      "1 tlk (430 g) persikanpuolikkaita, valutettuna ja pilkottuna (n. 2½ dl)",
+      "½ punaista paprikaa, hienonnettuna",
+      "¼ punasipulia, hienonnettuna",
+      "1 jalapeño, siemenet poistettuna ja hienonnettuna",
+      "1 rkl tuoretta korianteria, hienonnettuna",
+      "2 tl sitruunamehua",
+      "Kala:",
+      "4 tilapiafileetä (n. 450 g)",
+      "1 rkl chilijauhetta",
+      "¼ tl vähäsuolaista adobo-mausteseosta",
+      "1 pussi vähäsuolaista sazón-mausteseosta",
+      "8 vehnätortillaa (n. 15 cm), lämmitettyinä"
+    ],
+    "instructions": [
+      "Tee salsa: sekoita keskikokoisessa kulhossa persikat, paprika, sipuli, jalapeño, korianteri ja sitruunamehu.",
+      "Peitä ja jäähdytä jääkaapissa käyttöön asti.",
+      "Kala: kuumenna grilli tai grillipannu keskikovalle lämmölle.",
+      "Taputtele kala kuivaksi talouspaperilla ja siirrä lautaselle.",
+      "Sekoita pienessä kulhossa chilijauhe, adobo ja sazón.",
+      "Hiero mausteseos kalan pinnalle.",
+      "Laita kala kuumalle, öljytylle grillille.",
+      "Kypsennä ja käännä kerran, kunnes kala on läpikuultamatonta ja hajoaa haarukalla (sisälämpö 63 astetta), noin 8 minuuttia.",
+      "Viipaloi kala ohuiksi.",
+      "Täytä jokainen tortilla ½ kalafileellä ja noin 0,8 dl:lla salsaa."
+    ]
+  },
+  {
+    "id": "myplate-grilled-fruit",
+    "title": "Grillatut hedelmävartaat",
+    "description": "Grillillä kypsennetyt hedelmävartaat ovat maukas ja terveellinen jälkiruoka.",
+    "servings": 3,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "grilli", "nopea"],
+    "ingredients": [
+      "2½ dl ananaspaloja (tuoretta tai säilykettä)",
+      "1 persikka, kuutioituna",
+      "1 banaani, viipaloituna"
+    ],
+    "instructions": [
+      "Pujota hedelmäpalat vartaisiin.",
+      "Grillaa tai kypsennä uunin grillivastuksen alla miedolla lämmöllä, kunnes hedelmät ovat kuumia ja hieman kullanruskeita."
+    ]
+  },
+  {
+    "id": "myplate-grilled-lamb-salad",
+    "title": "Grillattu lammassalaatti",
+    "description": "Grillattu lammas sopii hyvin mihin tahansa vihersalaattiin, etenkin tähän aasialaisvaikutteiseen versioon.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["liha", "salaatti", "grilli", "aasialainen"],
+    "ingredients": [
+      "3 kevätsipulia, viipaloituna",
+      "340 g luutonta lampaan paistia, 2,5 cm:n kuutioina",
+      "bambuvartaita",
+      "14 dl suikaloitua savoijinkaalia, kiinankaalia tai valkokaalia",
+      "2 porkkanaa, raastettuna",
+      "2 rkl mustia tai valkoisia seesaminsiemeniä",
+      "1 pieni jicama, suikaleina (valinnainen)",
+      "Marinadi ja kastike:",
+      "2 rkl sokeria",
+      "2 rkl riisietikkaa",
+      "3 rkl vähäsuolaista soijakastiketta",
+      "½ dl vettä",
+      "1 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita marinadin ja kastikkeen ainekset ja jaa kahtia.",
+      "Laita lampaankuutiot lasivuokaan ja kaada puolet marinadista lihan päälle.",
+      "Peitä ja jäähdytä jääkaapissa vähintään kaksi tuntia.",
+      "Sekoita isossa kulhossa kaali, porkkana, jicama (valinnainen), kevätsipuli ja seesaminsiemenet.",
+      "Nosta liha pois ja heitä marinadi pois.",
+      "Liota bambuvartaita vedessä 30 minuuttia ja jaa lammas neljälle vartaalle.",
+      "Grillaa lammasvartaita kuumalla grillillä 5–6 minuuttia kummaltakin puolelta (tai haluttuun kypsyyteen).",
+      "Poista liha vartaista, lisää salaattiin ja sekoita.",
+      "Jaa salaatti neljälle lautaselle.",
+      "Valuta päälle loppu kastike."
+    ]
+  },
+  {
+    "id": "myplate-grilled-pineapple-ginger-glazed-chicken-zucchini-and-peppers",
+    "title": "Ananas-inkiväärikanaa kesäkurpitsalla ja paprikalla",
+    "description": "Tuoreet ananaspalat ja ananasmehusta tehty helppo glasyyri tuovat trooppista potkua grillattuun kanaan.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilli", "kuskus", "kesä"],
+    "ingredients": [
+      "Glasyyri:",
+      "3½ dl ananasmehua",
+      "½ dl omenaviinietikkaa",
+      "3 rkl fariinisokeria",
+      "1½ rkl vähäsuolaista soijakastiketta",
+      "1 rkl hienonnettua inkivääriä",
+      "1 rkl dijon-sinappia",
+      "Ruoka:",
+      "2½ dl täysjyväkuskusta, kuivana",
+      "450 g broilerin rintafileetä (4 annosta)",
+      "1 rkl oliiviöljyä",
+      "ripaus suolaa",
+      "¼ tl pippuria",
+      "1 makea keltasipuli, lohkoina",
+      "2 isoa kesäkurpitsaa, paloina",
+      "1 punainen paprika, 8 suikaleena",
+      "1 oranssi paprika, 8 suikaleena",
+      "8 ananastikkua (n. 6 x 3 cm)",
+      "1 kevätsipuli, viipaloituna"
+    ],
+    "instructions": [
+      "Tee glasyyri: sekoita ananasmehu, etikka, fariinisokeri, soijakastike, inkivääri ja sinappi keskikokoisessa kattilassa keskikovalla lämmöllä.",
+      "Kuumenna kiehuvaksi ja keitä noin 15 minuuttia.",
+      "Kuumenna grilli keskilämmölle.",
+      "Valmista kuskus pakkauksen ohjeen mukaan.",
+      "Sekoita kuskusin kypsyessä kana öljyn, suolan ja pippurin kanssa.",
+      "Grillaa kanaa 2 minuuttia kummaltakin puolelta tai kunnes grillijäljet ovat näkyvissä.",
+      "Jatka grillausta ja sivele ja käännä kanaa ananas-inkiväärilasyyrillä 5–6 minuuttia, kunnes se on kypsää.",
+      "Grillaa sipuli, kesäkurpitsa, paprikat ja ananastikut ja sivele ne lasyyrillä 3–5 minuuttia, kunnes grillijäljet näkyvät ja ne ovat pehmeitä.",
+      "Tarjoile kana, kasvikset ja ananas kuskusin päällä.",
+      "Koristele kevätsipulilla."
+    ]
+  },
+  {
+    "id": "myplate-grilled-shrimp-cantaloupe-avocado-salsa",
+    "title": "Grillatut katkaravut meloni-avokadosalsalla",
+    "description": "Meloni ja avokado muodostavat suolaisenmakean salsan, joka sopii täydellisesti grillatuille katkaravuille.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "grilli", "salsa", "kesä"],
+    "ingredients": [
+      "Salsa:",
+      "1 lime (puolikas salsaan ja puolikas koristeluun)",
+      "1 avokado, kuutioituna",
+      "4¾ dl cantaloupe-melonia, kuutioituna",
+      "½ dl punasipulia, hienonnettuna",
+      "2½ dl vähäsuolaisia mustapapuja, valutettuna ja huuhdeltuna",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "2 rkl tuoretta korianteria, hienonnettuna",
+      "Katkaravut:",
+      "450 g isoja raakoja katkarapuja",
+      "1 rkl rypsiöljyä",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "bambuvartaita"
+    ],
+    "instructions": [
+      "Kuumenna grilli.",
+      "Leikkaa lime kahtia.",
+      "Purista pienessä kulhossa toisen puolikkaan mehu; säästä toinen puolikas koristeluun.",
+      "Lisää muut salsan ainekset ja sekoita varovasti.",
+      "Kuori katkaravut ja jätä pyrstöt paikoilleen.",
+      "Pujota katkaravut bambuvartaisiin.",
+      "Sekoita pienessä astiassa öljy ja valkosipuli.",
+      "Sivele katkaravut öljy-valkosipuliseoksella.",
+      "Grillaa 4–5 minuuttia, kunnes ovat kypsiä.",
+      "Tarjoile katkaravut salsan kera ja koristele limelohkoilla."
+    ]
+  },
+  {
+    "id": "myplate-grilled-steak-and-peppers-salad-pears",
+    "title": "Grillattu pihvi-paprikasalaatti päärynällä",
+    "description": "Grillaa kokonaiset paprikat pihvin kanssa, lisää päärynäviipaleet, niin saat pohjan herkulliselle, värikkäälle ja italialaisvaikutteiselle salaatille.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["liha", "salaatti", "pasta", "grilli"],
+    "ingredients": [
+      "4¾ dl täysjyväfusilleja, keittämättöminä (n. 115 g)",
+      "1 keltainen paprika",
+      "1 punainen paprika",
+      "½ tl oliiviöljyä",
+      "340 g luutonta naudan ulkofileetä tai paistia",
+      "2 päärynää",
+      "7 dl rucolaa",
+      "½ dl gorgonzolaa, murennettuna",
+      "Vinegretti:",
+      "1 rkl oliiviöljyä",
+      "3 rkl etikkaa",
+      "½ dl valkoista rypälemehua tai omenamehua (100 %)",
+      "¼ tl suolaa (valinnainen)",
+      "1 rkl suolatonta italialaista yrttisekoitusta"
+    ],
+    "instructions": [
+      "Vispaa pienessä kulhossa oliiviöljy, etikka, rypälemehu tai omenamehu, suola ja yrttisekoitus.",
+      "Keitä pasta kiehuvassa vedessä pakkauksen ohjeen mukaan.",
+      "Valuta pasta ja huuhtele viileällä vedellä.",
+      "Kuumenna grilli ja hiero paprikat ½ tl:lla oliiviöljyä.",
+      "Grillaa kokonaisia paprikoita käännellen, kunnes kuori alkaa ruskistua ja kuplia.",
+      "Grillaa samalla naudanliha 63 asteen sisälämpöön ja käännä kerran.",
+      "Ota pois grillistä ja anna jäähtyä hieman.",
+      "Viipaloi paprikat suikaleiksi ja poista siemenet ja kannat.",
+      "Leikkaa liha poikittain ohuiksi viipaleiksi.",
+      "Viipaloi päärynät ohuiksi lohkoiksi.",
+      "Sekoita rucola ja pasta isossa kulhossa.",
+      "Jaa pasta-rucola neljälle lautaselle, asettele päälle liha, paprikat ja päärynät, valuta päälle vinegretti ja ripottele päälle gorgonzola."
+    ]
+  },
+  {
+    "id": "myplate-grilled-vegetable-packets",
+    "title": "Grillatut kasvispaketit",
+    "description": "Kasvikset käärittynä foliopaketteihin ja grillissä kypsennettynä ovat helppo lisuke grillijuhliin. Ei grilliä? Ohjeen voi tehdä myös uunissa.",
+    "servings": 5,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "grilli", "kasvikset", "peruna"],
+    "ingredients": [
+      "2 pientä kesäkurpitsaa, viipaloituna",
+      "2 pientä keltaista kurpitsaa, viipaloituna",
+      "4 pientä punaista perunaa, harjattuna ja viipaloituna",
+      "½ punasipulia, viipaloituna",
+      "½ punaista tai vihreää paprikaa, viipaloituna",
+      "½ dl kevyttä italialaista salaatinkastiketta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna grilli keskilämmölle tai uuni 175 asteeseen. Pese ja viipaloi kasvikset.",
+      "Sekoita isossa kulhossa.",
+      "Lisää kastike ja sekoita, kunnes kaikki kasvikset ovat kastikkeessa.",
+      "Revi 2 isoa foliopalaa ja aseta puolet kasvisseoksesta kummallekin.",
+      "Aseta samankokoinen foliopala kasvisten päälle ja taita reunat yhteen paketiksi.",
+      "Laita kuumalle grillille 20–30 minuutiksi tai kunnes perunat ovat pehmeitä.",
+      "Jos grilliä ei ole, paista kasvispaketteja uunissa 200 asteessa 20–30 minuuttia.",
+      "Ennen kuin avaat paketit, puhkaise folioon reikiä haarukalla.",
+      "Avaa folio varovasti, sillä höyry on kuumaa ja voi polttaa!",
+      "Kaada kasvikset tarjoiluvadille tai tarjoile foliopaketeista."
+    ]
+  },
+  {
+    "id": "myplate-grilled-vegetables",
+    "title": "Grillatut kasvikset",
+    "description": "Grillaatko tänään? Kokeile öljyssä ja valkosipulissa kääntelyä grillattuja kasviksia herkulliseksi lisukkeeksi. Ilman grilliä kasvikset voi tehdä uunissa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "grilli", "kasvikset", "bataatti"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 bataattia, 2,5 cm:n viipaleina",
+      "3 maissintähkää, 5 cm:n paloina",
+      "1 munakoiso, 1 cm:n viipaleina",
+      "12 kevätsipulia, päät siistittyinä"
+    ],
+    "instructions": [
+      "Sekoita öljy ja valkosipuli isossa kulhossa.",
+      "Lisää kasvikset ja sekoita.",
+      "Aseta kasvikset uunipannulle tai grilliin.",
+      "Kypsennä 10 minuuttia ja käännä kaksi kertaa, kunnes kasvikset ovat pehmeitä.",
+      "Nosta kasvikset tarjoiluvadille.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-ground-beef-stew",
+    "title": "Jauhelihapata",
+    "description": "Naudan jauheliha ja tomaattikeittotiiviste muodostavat maukkaan pohjan kasviksille tässä täyttävässä padassa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "arkiruoka", "peruna", "keitto"],
+    "ingredients": [
+      "225 g vähärasvaista naudan jauhelihaa (tai kalkkunaa tai hirven jauhelihaa)",
+      "ripaus suolaa (valinnainen)",
+      "ripaus mustapippuria (valinnainen)",
+      "1 tlk (300 g) vähäsuolaista tomaattikeittotiivistettä",
+      "3 dl vettä",
+      "6 keskikokoista porkkanaa, kuutioituna tai viipaloituna",
+      "2 keskikokoista perunaa, kuutioituna tai viipaloituna",
+      "2½ dl sipulia, kuutioituna"
+    ],
+    "instructions": [
+      "Ruskista liha.",
+      "Valuta mahdollinen rasva.",
+      "Mausta kevyesti suolalla ja pippurilla (valinnainen).",
+      "Lisää keittotiiviste ja vesi pannulle.",
+      "Lisää kasvikset.",
+      "Kuumenna kiehuvaksi ja hauduta sitten kannen alla noin 25 minuuttia, kunnes pehmeää.",
+      "Ota liedeltä ja anna seistä kannen alla vielä 10 minuuttia, jotta sakenee.",
+      "Tarjoile.",
+      "Säilytä tähteet jääkaapissa."
+    ],
+    "notes": ["Tomaattikeittotiiviste vastaa amerikkalaista tomaattikeittotölkkiä; tarvittaessa käytä tomaattisosetta ja vettä."]
+  },
+  {
+    "id": "myplate-harvest-vegetable-salad",
+    "title": "Juuresjuuressalaatti",
+    "description": "Chilijauhe ja limemehu antavat raikkaan kastikkeen tälle juureksia pursuavalle salaatille.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "juurekset", "syksy"],
+    "ingredients": [
+      "5 dl romaanisalaattia, pestynä",
+      "2½ dl tuoreita korianterinlehtiä, pestyinä",
+      "2½ dl palsternakkaa, kuorittuna",
+      "2½ dl porkkanaa, kuorittuna",
+      "2½ dl nauriita, kuorittuna",
+      "Kastike:",
+      "½ dl limemehua",
+      "½ tl raastettua limen kuorta",
+      "1 tl sokeria",
+      "¼ tl chilijauhetta",
+      "1 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Sekoita salaatti ja korianteri ja jaa neljälle lautaselle.",
+      "Laita palsternakat, porkkanat ja naurit 1 litraan kiehuvaa vettä.",
+      "Kun vesi kiehuu uudelleen, keitä kasviksia 2 minuuttia.",
+      "Valuta siivilässä.",
+      "Sekoita kastikkeen ainekset juuri ennen käyttöä.",
+      "Aseta kuumat kasvikset vihreiden päälle ja lisää päälle kotitekoinen kastike."
+    ]
+  },
+  {
+    "id": "myplate-healthy-black-bean-soup",
+    "title": "Mustapapukeitto",
+    "description": "Maukas ja helppo keitto säilykepavuista ja salsasta, juustokuminalla ja korianterilla. Päivällinen valmistuu minuuteissa.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["palkokasvit", "keitto", "meksikolainen", "nopea"],
+    "ingredients": [
+      "2 tlk (à 400 g) vähäsuolaisia mustapapuja, valutettuina ja huuhdeltuina",
+      "5 dl vähäsuolaista kanalientä (tai kasvislientä)",
+      "2½ dl tuoretta salsaa",
+      "1 tl juustokuminaa",
+      "4 rkl kevytkermaviiliä (tai rasvatonta)",
+      "2 rkl tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Soseuta kevyesti yksi tölkillinen mustapapuja liemen, salsan ja juustokuminan kanssa tehosekoittimessa.",
+      "Yhdistä keskikokoisessa kattilassa papusose ja loput pavut ja lämmitä läpikotaisin.",
+      "Kauho keitto neljään kulhoon.",
+      "Lisää jokaiseen kulhoon 1 rkl kermaviiliä ja koristele korianterilla."
+    ]
+  },
+  {
+    "id": "myplate-hearty-beef-soup",
+    "title": "Täyttävä naudanlihakeitto",
+    "description": "Maukas ja ravitseva keitto lounaaksi tai päivälliseksi. Tähteet voi pakastaa.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "arkiruoka", "pasta"],
+    "ingredients": [
+      "115 g naudan paistia, pilkottuna",
+      "1 rkl rypsiöljyä",
+      "7 dl vettä",
+      "5 dl talvikurpitsaa, pilkottuna (tai 5 dl hienoksi pilkottua kaalia)",
+      "1¼ dl sipulia, pilkottuna",
+      "1 varsiselleri, hienonnettuna",
+      "1 tl valkosipulia, hienonnettuna",
+      "½ tl kuivattua oreganoa",
+      "1 rkl persiljaa, hienonnettuna (valinnainen)",
+      "½ dl makaronia, kuivana",
+      "1 iso tomaatti, pilkottuna (tai 1 tlk (400 g) vähäsuolaisia tomaattipaloja)",
+      "1¼ dl vihreää paprikaa, hienonnettuna",
+      "½ tl suolaa",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Ruskista liha öljyssä isossa kattilassa keski- tai kovalla lämmöllä 8–10 minuuttia.",
+      "Valuta rasva.",
+      "Lisää vesi, kurpitsa, sipuli, selleri, valkosipuli ja oregano.",
+      "Lisää myös persilja, jos käytät.",
+      "Sekoita hyvin.",
+      "Kuumenna kattila kiehuvaksi.",
+      "Laske lämpöä ja keitä 20 minuuttia.",
+      "Lisää makaroni, tomaatit, paprika, suola ja pippuri.",
+      "Keitä miedolla lämmöllä vielä 20 minuuttia.",
+      "Tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-hearty-mashed-potatoes",
+    "title": "Kikhernemuusi",
+    "description": "Nosta tavallinen perunamuusi uudelle tasolle kikherneillä, jotka lisäävät proteiinia ja kuitua.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "4 jauhoista perunaa, kuorittuna ja paloiteltuna (n. 900 g)",
+      "1 tlk (400 g) vähäsuolaisia kikherneitä, valutettuna",
+      "1¼ dl rasvatonta maitoa (tai kalkitettua soijamaitoa)",
+      "½ dl parmesaania",
+      "½ tl valkosipulijauhetta",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita perunat isoon kattilaan ja peitä vedellä.",
+      "Kuumenna kovalla lämmöllä kiehuvaksi ja laske lämpö miedoksi.",
+      "Lisää kikherneet 10 minuuttia perunoiden kiehumisen alkamisen jälkeen.",
+      "Keitä, kunnes perunat ovat haarukalla pehmeitä, noin 20 minuuttia.",
+      "Valuta vesi ja laita kattila takaisin levylle.",
+      "Muussaa pavut ja perunat perunamuhennuspuristimella tai sähkövatkaimella.",
+      "Lisää maito, juusto ja mausteet.",
+      "Lämmitä tarvittaessa uudelleen.",
+      "Tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-hearty-mexican-soup",
+    "title": "Meksikolainen mustapapukeitto",
+    "description": "Helppo tehdä ja herkullinen syödä, valmistuu alle tunnissa! Purista toinen limepuolikas keiton päälle ennen tarjoilua.",
+    "servings": 5,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "meksikolainen", "palkokasvit"],
+    "ingredients": [
+      "1 pieni sipuli, pilkottuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 tlk (400 g) vähäsuolaisia tomaattipaloja",
+      "2 tlk (à 400 g) vähäsuolaisia mustapapuja, valutettuina ja huuhdeltuina",
+      "2 isoa perunaa, kuorittuna ja kuutioituna",
+      "9½ dl vettä",
+      "1¼ dl tuoretta korianteria, hienonnettuna",
+      "½ limen mehu",
+      "ripaus juustokuminaa"
+    ],
+    "instructions": [
+      "Kypsennä sipuli, valkosipuli ja tomaatit isossa kattilassa keskikovalla lämmöllä 3 minuuttia.",
+      "Sekoita usein.",
+      "Lisää pavut, perunat ja vesi.",
+      "Kuumenna kiehuvaksi ja laske lämpö keskipienelle.",
+      "Peitä ja kypsennä hiljakseen 20 minuuttia.",
+      "Lisää korianteri, juustokumina ja limemehu.",
+      "Sekoita ja hauduta vielä 10 minuuttia.",
+      "Tarjoile lämpimänä ja ripottele päälle korianteria."
+    ]
+  },
+  {
+    "id": "myplate-hearty-salmon-skewers-over-brown-rice",
+    "title": "Lohivartaat ruskean riisin päällä",
+    "description": "Nuorille kokeille suunniteltu yksinkertainen ja herkullinen resepti, jossa vartaaseen pujotetaan vain kolme ainesta: omega-3-rikasta lohta, kirsikkatomaatteja ja ananasta. Tarjoa täysjyvä ruskean riisin kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "riisi", "lapsille", "nopea"],
+    "ingredients": [
+      "450 g lohta",
+      "suolaa, myllystä pippuria ja paprikajauhetta maun mukaan",
+      "3 kirsikkatomaattia (n. 55 g)",
+      "2½ dl ananasta, kuutioituna",
+      "5 dl keitettyä ruskeaa riisiä",
+      "1 sitruuna",
+      "vartaita",
+      "1 rkl rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Keitä riisi pakkauksen ohjeen mukaan ja laita sivuun.",
+      "Leikkaa lohi 24 palaan (n. 1 cm:n kuutioita) ja pyörittele ne suolassa, pippurissa, paprikassa tai muussa halutussa mausteessa.",
+      "Leikkaa hedelmä kuutioiksi ja tomaatit puoliksi.",
+      "Laita sivuun.",
+      "Pujota vartaaseen lohipala, sitten tomaatti ja sitten hedelmä.",
+      "Toista 3 kertaa jokaisessa vartaassa (tai kunnes varras on täynnä).",
+      "Kuumenna öljy isolla pannulla keskikovalla lämmöllä minuutin ajan.",
+      "Laita vartaat pannulle ja käännä 2 minuutin välein.",
+      "Purista sitruunaa vartaiden päälle paiston aikana.",
+      "Tarjoile asettamalla lautaselle 1¼ dl riisiä ja päälle 2 vartaata.",
+      "Purista päälle halutessasi hieman sitruunaa."
+    ],
+    "notes": ["Alkuperäisessä öljyä oli 1/2 kuppia; paistamiseen riittää 1 rkl."]
+  },
+  {
+    "id": "myplate-hearty-vegetable-beef-soup",
+    "title": "Kasvis-naudanlihakeitto nuudeleilla",
+    "description": "Pakastekasviksista, säilyketomaateista ja kanaliemestä syntyy helppo keitto kylmään arki-iltaan. Nuudelit ja naudanliha tekevät siitä entistä täyttävämmän.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "arkiruoka", "pasta"],
+    "ingredients": [
+      "3 dl vähäsuolaista kanalientä",
+      "1¼ dl vettä",
+      "5 dl pakastekeittokasviksia",
+      "1 tlk (400 g) vähäsuolaisia tomaattipaloja, pilkottuna",
+      "115 g kypsää naudanlihaa, kuutioituna",
+      "1 tl timjamia, murennettuna",
+      "ripaus mustapippuria",
+      "¼ tl suolaa",
+      "1 laakerinlehti",
+      "3 dl ohuita nuudeleita tai pastaa, keittämättöminä"
+    ],
+    "instructions": [
+      "Kuumenna liemi ja vesi.",
+      "Lisää kasvikset, liha ja mausteet.",
+      "Kuumenna kiehuvaksi.",
+      "Laske lämpöä ja keitä miedolla lämmöllä ilman kantta 15 minuuttia.",
+      "Lisää nuudelit.",
+      "Kypsennä, kunnes nuudelit ovat pehmeitä, noin 10 minuuttia. Poista laakerinlehti.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-hearty-vegetable-salad-herb-dressing",
+    "title": "Runsas kasvissalaatti yrttikastikkeella",
+    "description": "Tee salaatti etukäteen ja anna makujen tasaantua jääkaapissa muutama tunti ennen tarjoilua.",
+    "servings": 8,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit", "kasvikset"],
+    "ingredients": [
+      "7 dl kukkakaalin nuppuja (tuoreita tai pakasteita, sulatettuja)",
+      "5 dl parsakaalin nuppuja (tuoreita tai pakasteita, sulatettuja)",
+      "1 tlk (400 g) vähäsuolaisia kidneypapuja, valutettuna",
+      "2 porkkanaa, viistoon viipaloituna",
+      "2½ dl isoja kivettömiä oliiveja, viipaloituna",
+      "2 kevätsipulia, viipaloituna",
+      "½ dl punaviinietikkaa",
+      "½ dl rypsiöljyä (tai oliiviöljyä)",
+      "1 rkl korianteria tai persiljaa, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 tl sokeria",
+      "½ tl kuivattua basilikaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa kaikki salaatin ainekset.",
+      "Laita kastikkeen ainekset pieneen tiiviskantiseen purkkiin ja ravista hyvin.",
+      "Kaada kastike kasvisten päälle ja sekoita, kunnes kasvikset peittyvät.",
+      "Peitä ja jäähdytä jääkaapissa 1–4 tuntia marinoituen. Sekoita välillä."
+    ]
+  },
+  {
+    "id": "myplate-heavenly-deviled-eggs",
+    "title": "Täytetyt kananmunat sinapilla",
+    "description": "Monipuolinen ja helppo, sopii alkupalaksi, lisukkeeksi tai välipalaksi.",
+    "servings": 6,
+    "category": "Välipalat",
+    "tags": ["kasvis", "kananmuna", "juhla", "gluteeniton"],
+    "ingredients": [
+      "6 kananmunaa (kuorineen)",
+      "2 rkl kevytmajoneesia",
+      "1 tl sinappia"
+    ],
+    "instructions": [
+      "Laita munat kattilaan.",
+      "Peitä kylmällä vedellä.",
+      "Kuumenna kiehuvaksi (pieniä kuplia) ja keitä 12 minuuttia.",
+      "Ota liedeltä ja valuta.",
+      "Halkaise munat kylmän veden alla ja anna jäähtyä.",
+      "Kuori munat.",
+      "Halkaise munat pituussuunnassa ja poista keltuaiset.",
+      "Laita keltuaiset, majoneesi ja sinappi pieneen pakastepussiin sekoitettavaksi.",
+      "Leikkaa pussin alakulmaan pieni reikä.",
+      "Purista seos valkuaispuolikkaisiin.",
+      "Koristele halutessasi."
+    ]
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "wikibooks-paste-for-tarts",
+    "title": "Piiraspohjataikina kuumalla kermalla",
+    "description": "Vanha englantilainen kiinteä piirastaikina, joka tehdään vehnäjauhoista, sokerista, voista ja kiehuvasta kermasta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "taikina", "piirakka", "brittiläinen"],
+    "ingredients": ["30 g sokeria", "450 g vehnäjauhoja", "85 g voita", "1,2 dl kiehuvaa kuohukermaa"],
+    "instructions": [
+      "Sekoita sokeri ja jauhot.",
+      "Tee seoksesta kiinteä taikina kiehuvalla kermalla ja voilla.",
+      "Työstä taikinaa hyvin ja kauli se hyvin ohueksi."
+    ]
+  },
+  {
+    "id": "wikibooks-pasties",
+    "title": "Cornish pasty – lihapiirakat",
+    "description": "Cornwallin perinteiset puolikuunmuotoiset piirakat, joiden täytteenä on raakaa naudanlihaa, lanttua, perunaa ja sipulia.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "piirakka", "uuniruoka", "brittiläinen"],
+    "ingredients": [
+      "1 keskikokoinen lanttu (tai muu juures), kuorittuna ja ohuiksi viipaleiksi leikattuna",
+      "4 isoa perunaa, valmisteltuna kuten lanttu",
+      "4 sipulia, puolitettuna ja ohuiksi viipaleiksi leikattuna",
+      "900 g naudan paistia, leikattuna syitä vastaan noin 1 x 2 cm:n suikaleiksi",
+      "Cornish pasty -taikina (ks. erillinen ohje: 450 g jauhoja, 225 g rasvaa, suolaa, vettä)",
+      "1 rkl vehnäjauhoja (valinnainen)",
+      "1 rkl maitoa (valinnainen)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Pyörittele liha halutessasi maustetuissa jauhoissa (paksuntaa kastiketta).",
+      "Jaa taikina 4 yhtä suureen osaan. Kauli kukin pyöreäksi levyksi.",
+      "Kerrosta liha ja kasvikset toiselle puoliskolle kutakin levyä noin 2,5 cm:n päähän reunasta. Mausta runsaasti.",
+      "Sivele reunat halutessasi maidolla.",
+      "Taita toinen puoli taikinaa täytteen päälle.",
+      "Nipistä ja kierrä reunat kiinni.",
+      "Tee päälle pari pientä viiltoa höyryn poistumiselle.",
+      "Sivele pasty halutessasi maidolla.",
+      "Tee taikinan tähteistä pastyn päälle syöjän nimikirjaimet. Perinteisesti näin tunnistettiin kunkin perheenjäsenen oma pasty.",
+      "Nosta pastyt kevyesti voidellulle pellille.",
+      "Paista uunin keskitasolla noin 45 minuuttia."
+    ],
+    "notes": [
+      "Sopii maissilla tai papuilla maustettuna.",
+      "Lämmitä uudelleen pellillä uunissa foliotelttaa käyttäen.",
+      "Käytä taikinaa, joka ei murene helposti."
+    ]
+  },
+  {
+    "id": "wikibooks-pastries-filled-with-jam-marmeladetascherl",
+    "title": "Marmeladetascherl – hillolla täytetyt itävaltalaiset taskut",
+    "description": "Itävaltalaiset makeat täytetyt rahkataikinataskut, joissa on hilloa.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "itävaltalainen", "leivonnainen", "hillo"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "250 g voita",
+      "250 g rahkaa tai tuorejuustoa",
+      "1 ripaus suolaa",
+      "1 munanvalkuainen",
+      "hilloa (tai pähkinätahnaa)",
+      "sokeria pinnalle"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja leivinjauhe ja nypi voi joukkoon. Lisää rahka ja suola ja vaivaa taikinaksi.",
+      "Anna taikinan levätä jääkaapissa 1 tunti.",
+      "Kauli taikina noin 2 mm:n paksuiseksi ja leikkaa 10 cm:n neliöiksi.",
+      "Laita hillokökkäre keskelle kutakin neliötä ja taita vinosti kolmioksi. Paina reunat kiinni.",
+      "Sivele kunkin tasku munanvalkuaisella ja nosta pellille.",
+      "Kuumenna uuni 180 asteeseen ja paista taskuja noin 20 minuuttia.",
+      "Ripottele ennen tarjoilua pinnalle sokeria."
+    ]
+  },
+  {
+    "id": "wikibooks-pastry-dough-recipe",
+    "title": "Murotaikina",
+    "description": "Tomusokerilla ja munilla tehty makea murotaikina piirakoille ja kakuille.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "taikina", "murotaikina"],
+    "ingredients": [
+      "350 g vehnäjauhoja",
+      "260 g voita (mieluiten eurooppalaista, rasvapitoisempaa)",
+      "220 g tomusokeria",
+      "2 munaa",
+      "1 munankeltuainen"
+    ],
+    "instructions": [
+      "Sekoita jauhot, voi ja sokeri vatkaimella, kunnes seos on pienten herneiden kokoisia muruja.",
+      "Lisää alhaisella nopeudella munat ja keltuainen ja sekoita vain sekaisin, noin 25 sekuntia.",
+      "Kääri taikina tiiviisti kelmuun ja jäähdytä vähintään 30 minuuttia ennen kaulimista."
+    ]
+  },
+  {
+    "id": "wikibooks-pastry-for-cornish-pasties",
+    "title": "Cornish pasty -taikina",
+    "description": "Hieman kiinteä, ei liian murea eikä kerroksellinen taikina Cornwallin lihapiiraiden kuoreksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["taikina", "brittiläinen", "piirakka"],
+    "ingredients": [
+      "450 g vehnäjauhoja",
+      "225 g laardin, voin ja/tai suetin (naudan munuaisrasvan) seosta samassa suhteessa",
+      "1 ripaus suolaa",
+      "vettä"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset ja lisää vähitellen sen verran vettä, että saat jäykän taikinan.",
+      "Kauli taikina noin 6 mm:n paksuiseksi.",
+      "Leikkaa pyöreitä levyjä teelautasen avulla.",
+      "Aseta levy työtasolle niin, että puolet on kaulimen päällä. Lisää täyte ja taita taikina täytteen päälle.",
+      "Kostuta reunat vedellä ja paina kiinni. Poimuta reunat ja tee kunkin pastyn keskelle viilto.",
+      "Nosta pellille ja paista kuumassa uunissa kullanruskeiksi."
+    ],
+    "notes": ["Rasvat voi korvata kasvisrasvoilla.", "Jätä suola pois, jos haluat vähäsuolaisen."]
+  },
+  { "id": "wikibooks-pate-nigerian-braised-maize-porridge", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-pate-acha-nigerian-fonio-porridge", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-pattaya-fried-rice",
+    "title": "Pattaya-paistettu riisi (nasi goreng pattaya)",
+    "description": "Malesialainen kana-paistettu riisi, joka kääritään munakkaaseen.",
+    "servings": 3,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "malesialainen", "nopea"],
+    "ingredients": [
+      "3 rkl oliiviöljyä (2 rkl paistamiseen ja 1 rkl munakkaaseen)",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 punaista chiliä, 1 cm:n kuutioiksi",
+      "2 salottisipulia, ohuesti viipaloituna",
+      "2 broilerin rintafileetä, 1,5 cm:n paloiksi",
+      "1,5 dl vihreitä herneitä",
+      "1 porkkana, kuutioituna",
+      "1 kevätsipuli, 1 cm:n paloiksi",
+      "5 dl keitettyä riisiä",
+      "2 rkl tomaattikastiketta",
+      "2 rkl kalakastiketta",
+      "1 tl suolaa",
+      "1½ tl pippuria",
+      "1 pieni jalapeño, hienonnettuna",
+      "2 munaa munakkaaseen"
+    ],
+    "instructions": [
+      "Kuumenna öljy pinnoitetussa pannussa. Kun öljy on kuumaa, paista valkosipuli ja salottisipulit sekoittaen ruskeiksi ja tuoksuviksi.",
+      "Lisää broilerinpalat, porkkana, herneet ja punainen chili. Paista 2 minuuttia sekoittaen.",
+      "Lisää riisi, kalakastike, tomaattikastike, suola ja pippuri. Sekoita tasaiseksi.",
+      "Munakasta varten kuumenna öljy toisella pannulla. Vatkaa munat ja kaada pannulle. Paista, kunnes munan pohja on ruskea.",
+      "Käännä muna ja paista toiselta puolelta.",
+      "Aseta riisipallo munakkaan keskelle. Taita munakkaan neljä reunaa riisin päälle ja käännä tarjoilulautaselle.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-pavlova",
+    "title": "Pavlova",
+    "description": "Kevyt ja kuohkea marenkijälkiruoka kermavaahdolla ja hedelmillä, nimetty balettitanssija Anna Pavlovan mukaan.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "marenki", "uusiseelantilainen", "hedelmä"],
+    "ingredients": [
+      "3 munanvalkuaista",
+      "3 rkl vettä",
+      "250 g hienoa sokeria",
+      "1 ripaus suolaa",
+      "1 tl etikkaa",
+      "1 tl vaniljauutetta",
+      "1 tl maissitärkkelystä (valinnainen)",
+      "kuohukermaa",
+      "tomusokeria maun mukaan",
+      "pilkottuja hedelmiä ja/tai marjoja"
+    ],
+    "instructions": [
+      "Vaahdota munanvalkuaiset ja suola hyvin kiinteäksi vaahdoksi. Lisää vesi ja vatkaa uudelleen ennen kuin sekoitat joukkoon sokerin, vanilja ja etikan. Vatkaa, kunnes seos pysyy koossa ja muodostaa teräviä huippuja.",
+      "Levitä seos leivinpaperilla vuoratulle pellille.",
+      "Kuivata marenkia matalassa 150 asteen lämmössä noin 45 minuuttia. Ulkopinnasta tulee rapea kuori, sisus pysyy pehmeänä. Anna jäähtyä.",
+      "Vatkaa kerma ja tomusokeri keskikiinteäksi vaahdoksi. Levitä kermavaahto marenkipohjan päälle.",
+      "Asettele hedelmät kermavaahdon päälle. Tarjoa heti."
+    ],
+    "notes": [
+      "Käännä marenkipohja ylösalaisin ennen koristelua, koska pohja on paiston jälkeen vähemmän rapea.",
+      "Anna marenkin jäähtyä uunissa uuni sammutettuna, jolloin keskikohta ei romahda."
+    ]
+  },
+  {
+    "id": "wikibooks-peach-and-tomato-gazpacho",
+    "title": "Persikka-tomaattigazpacho",
+    "description": "Kylmä keitto tomaatista ja persikasta, joka on helppo tehdä tehosekoittimella.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "kasvis", "keitto", "kylmä", "espanjalainen"],
+    "ingredients": [
+      "630 g tomaatteja",
+      "454 g kivettömiä persikoita",
+      "½ dl murskattua jäätä",
+      "2 rkl hienonnettua salottisipulia",
+      "2 rkl oliiviöljyä",
+      "1½ tl valkoviinietikkaa",
+      "1 rkl hienonnettua tuoretta rakuunaa",
+      "1 tl suolaa",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa tomaatit osiin, laita ⅔ tehosekoittimeen ja ⅓ pieneen kulhoon sivuun.",
+      "Soseuta tomaatit tehosekoittimessa kovalla nopeudella.",
+      "Leikkaa persikat osiin, laita puolet tehosekoittimeen ja puolet kulhoon sivuun.",
+      "Lisää persikat tomaattisoseeseen ja soseuta.",
+      "Pilko salottisipuli, lisää seokseen ja soseuta.",
+      "Hienonna rakuuna, poista isot varret, lisää lehdet seokseen ja soseuta.",
+      "Lisää oliiviöljy, etikka, suola ja pippuri ja sekoita hyvin.",
+      "Lisää jää ja soseuta 30 sekuntia täydellä teholla.",
+      "Lisää kulhon sisältö tehosekoittimeen ja pulssaa lyhyesti pienimmällä nopeudella (jotta keittoon jää pieniä tomaatti- ja persikkapaloja).",
+      "Tarjoa heti kylmänä."
+    ],
+    "notes": ["Koristele rakuunanlehdillä tai lusikallisella kreikkalaista jogurttia tai kermaviiliä.", "Salottisipulin tilalle käy punasipuli."]
+  },
+  {
+    "id": "wikibooks-peach-chutney",
+    "title": "Persikkachutney",
+    "description": "Persikoista, rusinoista ja mausteista valmistettu pitkään kypsytetty chutney, joka sopii porsaankyljysten ja currien kanssa.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "chutney", "säilyke", "persikka"],
+    "ingredients": [
+      "3 kg persikoita",
+      "2,4 dl tummia rusinoita",
+      "4,8 dl sitruunamehua",
+      "2,4 dl vaaleita rusinoita",
+      "4,8 dl fariinisokeria",
+      "1 rkl säilöntäsuolaa",
+      "1,8 dl hienonnettua inkivääriä",
+      "1 rkl sinapinsiemeniä",
+      "1 tl hingiä (asafoetida)",
+      "2 rkl selleriensiemeniä",
+      "1 tulinen banaanipaprika, siemenet poistettuna ja hienonnettuna",
+      "2 tl garam masalaa",
+      "2 vihreää paprikaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna persikat kiehuvassa vedessä, kuori ja poista kivet.",
+      "Pilko persikat karkeasti ja yhdistä sitruunamehun kanssa isossa ruostumattomassa tai emaloidussa kattilassa. Sekoita joukkoon sokeri.",
+      "Kuumenna kiehuvaksi ja keitä usein sekoittaen, kunnes persikat ovat pehmeitä (noin 15 minuuttia).",
+      "Lisää loput ainekset. Keitä keskikovalla lämmöllä noin 45 minuuttia sekoittaen usein, kunnes seos on paksua.",
+      "Kaada chutney kuuman steriloituihin 5 dl:n säilöntälasipurkkeihin ja jätä 1 cm tyhjää tilaa. Pyyhi reunat puhtaiksi ja sulje valmistajan ohjeen mukaan.",
+      "Kypsennä purkkeja 15 minuuttia kiehuvassa vesihauteessa. Anna chutneyn kypsyä vähintään kuukauden ennen käyttöä."
+    ],
+    "notes": ["Chutney sisältää runsaasti happoa (sitruunamehu), jonka ansiosta vesihaude riittää. Älä vähennä sitruunamehun määrää."]
+  },
+  {
+    "id": "wikibooks-peach-cobbler",
+    "title": "Persikkacobbler",
+    "description": "Persikoiden päälle kaulittu voitaikinakansi, joka paistetaan uunissa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 80,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "persikka", "amerikkalainen"],
+    "ingredients": [
+      "2,4 dl vehnäjauhoja",
+      "115 g voita",
+      "½ dl maitoa",
+      "2 tlk (à 425 g) persikoita",
+      "1,2 dl sokeria"
+    ],
+    "instructions": [
+      "Sekoita jauhot, voi ja maito ja leikkaa yhteen taikinaksi. Aseta sivuun.",
+      "Kaada persikat 23 x 33 cm:n uunivuokaan. Ripottele sokeri päälle.",
+      "Kauli taikina levyksi ja aseta persikoiden päälle.",
+      "Paista 175 asteessa, kunnes pinta on kevyesti ruskistunut (noin tunti)."
+    ]
+  },
+  { "id": "wikibooks-peach-curry-chutney", "skip": "epäselvä määrä (siiderin määrä puuttuu)" },
+  {
+    "id": "wikibooks-peach-pie",
+    "title": "Persikkapiirakka",
+    "description": "Perinteinen amerikkalainen persikkapiirakka murotaikinakuorella ja mantelinmakuisella täytteellä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 180,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "piirakka", "persikka", "amerikkalainen"],
+    "ingredients": [
+      "Taikina (riittää 1–2 piirakkaan):",
+      "9,6 dl vehnäjauhoja",
+      "1 rkl sokeria",
+      "2 tl suolaa",
+      "400 g leivontarasvaa",
+      "1,2 dl jääkylmää vettä",
+      "1 tl etikkaa",
+      "1 muna",
+      "Täyte:",
+      "2,3 kg persikoita",
+      "1 tl sitruunamehua",
+      "¼ tl manteliuutetta",
+      "2 rkl vehnäjauhoja",
+      "½ tl kanelia",
+      "¼ tl suolaa",
+      "4 rkl voita"
+    ],
+    "instructions": [
+      "Sekoita jauhot, sokeri ja suola.",
+      "Lisää rasva ja sekoita muruiseksi.",
+      "Vatkaa jääkylmä vesi, etikka ja muna yhteen ja leikkaa jauhoseokseen.",
+      "Jaa taikina neljään palloon.",
+      "Kääri ja jäähdytä jääkaapissa ½ tuntia ennen kaulimista.",
+      "Vuoraa piirakkavuoka kaulitulla taikinalla ja poimuta reunat.",
+      "Kuumenna uuni 230 asteeseen.",
+      "Kuori ja viipaloi persikat.",
+      "Nosta kulhoon ja sekoita joukkoon sitruunamehu ja manteliuute.",
+      "Sekoita toisessa kulhossa kuivat ainekset ja lisää persikoiden joukkoon.",
+      "Kaada täyte kuoreen ja ripottele pinnalle voinokareita.",
+      "Paista 230 asteessa 15 minuuttia, sitten 175 asteessa 35–40 minuuttia."
+    ],
+    "notes": ["Taikinasta riittää useampaan piirakkaan; ylimääräisen voi pakastaa."]
+  },
+  {
+    "id": "wikibooks-peach-strawberry-and-ice-cream-smoothie",
+    "title": "Persikka-mansikka-jäätelösmoothie",
+    "description": "Jogurtin ja jäätelön ansiosta täyteläinen persikka-mansikkasmoothie.",
+    "servings": 4,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "juoma", "smoothie"],
+    "ingredients": ["1,2 dl maustamatonta jogurttia", "1,2 dl vaniljajäätelöä", "1,2 dl viipaloituja persikoita", "1,2 dl viipaloituja mansikoita"],
+    "instructions": ["Sekoita persikat, mansikat, jogurtti ja jäätelö tehosekoittimessa tasaiseksi."],
+    "notes": ["Persikoiden tilalla voi käyttää banaaniviipaleita."]
+  },
+  {
+    "id": "wikibooks-peanut-brittle",
+    "title": "Maapähkinäkrokantti",
+    "description": "Sokerista ja siirapista keitetty kova karamelli, jossa on maapähkinöitä.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "karkki", "maapähkinä", "amerikkalainen"],
+    "ingredients": [
+      "2,4 dl sokeria",
+      "1,2 dl vaaleaa siirappia",
+      "¼ tl suolaa (jätä pois, jos käytät suolattuja pähkinöitä)",
+      "½ dl vettä",
+      "2,4 dl kuorittuja raakoja maapähkinöitä (mieluiten kuorettomia)",
+      "2 rkl voita, pehmeää",
+      "1 tl vaniljauutetta (valinnainen)",
+      "1 tl ruokasoodaa (valinnainen)"
+    ],
+    "instructions": [
+      "Voitele 23 x 30 cm:n pelti. Aseta sivuun.",
+      "Kuumenna paksupohjaisessa 2 litran kattilassa keskilämmöllä sokeri, siirappi, suola ja vesi kiehuvaksi.",
+      "Aseta karamellilämpömittari kattilaan niin, että kärki on seoksessa.",
+      "Jatka kuumennusta silloin tällöin sekoittaen, kunnes seos saavuttaa 120 °C.",
+      "Lisää raa'at maapähkinät. Jatka kuumentamista ja sekoita varovasti, kunnes lämpötila on 150 °C.",
+      "Jos käytät paahdettuja maapähkinöitä (ei suositeltavaa), sekoita ne joukkoon nyt.",
+      "Ota pois liedeltä. Lisää voi ja vanilja ja sekoita nopeasti.",
+      "Lisää ruokasooda ja sekoita hyvin nopeasti. Seoksen tilavuus kaksinkertaistuu kuplien muodostuessa. Varmista, että sooda sekoittuu tasaisesti.",
+      "Kaada seos pellille.",
+      "Levitä haarukalla tai puulusikalla tasaisesti koko pellin pinnalle.",
+      "Anna jäähtyä huoneenlämpöiseksi.",
+      "Riko krokantti suupalan kokoisiksi paloiksi."
+    ],
+    "notes": ["Karamellilämpömittari takaa tasaisen lopputuloksen.", "Ruokasooda tekee krokantista helpommin purtavan."]
+  },
+  {
+    "id": "wikibooks-peanut-butter-and-jelly-sandwich",
+    "title": "Maapähkinävoi-hillovoileipä (PB&J)",
+    "description": "Amerikkalainen klassikkovoileipä maapähkinävoista ja hillosta.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["kasvis", "voileipä", "nopea", "amerikkalainen"],
+    "ingredients": ["2 viipaletta vaaleaa leipää", "maapähkinävoita", "hilloa tai marmeladia"],
+    "instructions": [
+      "Levitä veitsellä tasainen kerros maapähkinävoita kummankin leipäviipaleen yhdelle puolelle.",
+      "Levitä toisen viipaleen maapähkinävoin päälle tasainen kerros hilloa.",
+      "Nosta hilloviipale lautaselle hillopuoli ylöspäin ja aseta toinen viipale päälle maapähkinävoipuoli alaspäin."
+    ],
+    "notes": ["Leipä voi olla myös täysjyväleipää. Banaaniviipaleet sopivat hyvin täytteeseen."]
+  },
+  {
+    "id": "wikibooks-peanut-butter-banana-oatmeal",
+    "title": "Maapähkinävoi-banaanipuuro",
+    "description": "Kaurapuuro, johon on lisätty maapähkinävoita, banaania ja hunajaa.",
+    "servings": 1,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "puuro", "kaura", "banaani"],
+    "ingredients": ["2,4 dl kaurahiutaleita tai pikakaurahiutaleita", "1,2 dl maitoa", "1 banaani, kuorittuna ja viipaloituna", "1–2 rkl maapähkinävoita", "½ rkl tai enemmän hunajaa maun mukaan"],
+    "instructions": [
+      "Keitä kaurahiutaleet vedessä. Tavallisilla kauroilla menee noin 10 minuuttia, pikakauroilla vähemmän.",
+      "Nosta keitetyt kaurahiutaleet kulhoon.",
+      "Lisää maito, maapähkinävoi, hunaja ja banaaniviipaleet.",
+      "Muussaa, kunnes banaani ja ainekset ovat sekoittuneet.",
+      "Valuta päälle hunajaa ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-peanut-butter-banana-smoothie",
+    "title": "Maapähkinävoi-banaanismoothie",
+    "description": "Mantelijuomasta, banaanista, maapähkinävoista ja hunajasta sekoitettu smoothie.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "nopea", "juoma", "smoothie"],
+    "ingredients": ["2,4 dl makeuttamatonta mantelijuomaa", "1 banaani, kuorittuna", "2 rkl hunajaa (tai agavesiirappia vegaaniseen versioon)", "2 rkl maapähkinävoita", "n. 4,8 dl jäitä"],
+    "instructions": ["Laita kaikki ainekset tehosekoittimeen.", "Sekoita tasaiseksi. Tarjoa heti."]
+  },
+  {
+    "id": "wikibooks-peanut-butter-cookies",
+    "title": "Maapähkinävoikeksit",
+    "description": "Yksi suosituimmista keksilajeista, johon voi lisätä sitruunankuorta maun tuomiseksi.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "maapähkinä", "amerikkalainen"],
+    "ingredients": [
+      "110 g maapähkinävoita",
+      "110 g sokeria",
+      "110 g fariinisokeria",
+      "110 g voita tai margariinia, sulatettuna",
+      "1 muna",
+      "½ tl vaniljauutetta",
+      "280 g vehnäjauhoja",
+      "¼ tl suolaa",
+      "¾ tl ruokasoodaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Vaahdota sokerit, voisula, muna ja vanilja tasaiseksi ja kermaiseksi.",
+      "Lisää jauhot, maapähkinävoi, suola ja ruokasooda vaahdon joukkoon.",
+      "Litistä taikinasta pieniä paloja haarukalla keksin muotoon voitelemattomalle pellille vähintään 5 cm:n välein.",
+      "Paista esilämmitetyssä uunissa 8–10 minuuttia kullanruskeiksi.",
+      "Ota uunista ja anna jäähtyä."
+    ],
+    "notes": ["Sileä maapähkinävoi toimii paremmin kuin rouheinen.", "Jos fariinisokeria ei ole, käytä sokeria ja 1 rkl melassia."]
+  },
+  {
+    "id": "wikibooks-peanut-butter-cookies-egg-free",
+    "title": "Munattomat maapähkinävoikeksit",
+    "description": "Maapähkinävoikeksit ilman munaa ja ruokasoodaa, öljyllä ja hunajalla.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "maapähkinä", "munaton"],
+    "ingredients": [
+      "1,2 dl maapähkinävoita",
+      "½ dl hunajaa",
+      "¼ tl suolaa",
+      "½ dl rypsiöljyä",
+      "½ dl fariinisokeria",
+      "1 tl vaniljaa",
+      "3 dl täysjyvävehnän leivontajauhoja (tai muita jauhoja)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita kaikki ainekset jauhoja lukuun ottamatta kermaiseksi.",
+      "Lisää jauhot ja sekoita säästeliäästi. Taikinan tulee olla niin kuivaa, että siitä voi muotoilla palloja käsin tarttumatta.",
+      "Muotoile saksanpähkinän kokoisia palloja ja nosta voitelemattomalle pellille.",
+      "Litistä haarukalla painamalla piikit keksin poikki ja toista toiseen suuntaan ristikkokuvioksi.",
+      "Paista noin 8–10 minuuttia."
+    ],
+    "notes": ["Jos fariinisokeria ei ole, käytä sokeria ja 1 rkl melassia."]
+  },
+  { "id": "wikibooks-peanut-butter-fudge", "skip": "liian puutteellinen (sokerien määrät puuttuvat)" },
+  {
+    "id": "wikibooks-peanut-butter-pie",
+    "title": "Maapähkinävoipiiras",
+    "description": "Maapähkinävoi-tuorejuustotäytteinen jääkaappipiirakka suklaakeksipohjalla ja suklaakastikkeella.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "piirakka", "maapähkinä", "jääkaappikakku"],
+    "ingredients": [
+      "225 g tuorejuustoa, huoneenlämpöistä",
+      "2,7 dl sileää maapähkinävoita ja 2 rkl lisää",
+      "1,2 dl sokeria",
+      "340 g valmista kermavaahtoa (n. 11 dl)",
+      "1 valmis suklaakeksipiiraskuori",
+      "1 purkki (330 g) suklaakastiketta ja 2 rkl lisää"
+    ],
+    "instructions": [
+      "Sekoita keskikokoisessa kulhossa tuorejuusto, maapähkinävoi ja sokeri.",
+      "Sekoita varovasti joukkoon 7 dl kermavaahtoa.",
+      "Lusikoi piirakkapohjaan.",
+      "Levitä seos kevyesti pohjan reunoihin asti.",
+      "Laita kaikki paitsi 2 rkl suklaakastiketta mikrokestävään astiaan ja kuumenna mikrossa 60 sekuntia.",
+      "Levitä lämmin suklaakastike maapähkinäseoksen päälle peittämään.",
+      "Jäähdytä jääkaapissa 2 tuntia.",
+      "Levitä loput noin 4 dl kermavaahtoa varovasti jäähtyneen piirakan päälle.",
+      "Puristele viimeinen suklaakastike muovipussissa, leikkaa kulma ja valuta piirakan päälle.",
+      "Tee sama viimeisellä 2 rkl maapähkinävoilla ja valuta koristeellisesti päälle."
+    ],
+    "notes": ["Alkuperäisessä käytetään yhdysvaltalaista kasvirasvapohjaista vaahtoa; kermavaahto käy tilalle."]
+  },
+  { "id": "wikibooks-peanut-butter-sandwich", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-peanut-chicken-stir-fry",
+    "title": "Maapähkinä-kanawokki",
+    "description": "Nopea wokki keitetystä kanasta, sellerinvarresta, sienistä ja maapähkinöistä soijakastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea", "wokki", "riisi"],
+    "ingredients": [
+      "2 rkl voita",
+      "1,8 dl hienonnettua selleriä",
+      "½ dl sipulia, hienonnettuna",
+      "4,8 dl keitettyä kanaa tai kalkkunaa",
+      "1 pieni tölkki (230 g) sieniä, valutettuina",
+      "1 rkl maissitärkkelystä",
+      "3 rkl soijakastiketta",
+      "2,4 dl kirkasta kanalientä",
+      "2,4 dl maapähkinöitä",
+      "keitettyä riisiä"
+    ],
+    "instructions": [
+      "Sulata voi wokissa tai pannussa.",
+      "Paista selleri ja sipuli sekoittaen.",
+      "Lisää kana ja sienet ja sekoita miedommalla lämmöllä 5 minuuttia.",
+      "Sekoita erillisessä kulhossa maissitärkkelys, soijakastike ja liemi. Lisää hitaasti kuumaan seokseen ja kypsennä 5 minuuttia.",
+      "Sekoita joukkoon maapähkinät.",
+      "Tarjoa kuuman riisin kanssa."
+    ],
+    "notes": ["Maapähkinöiden tilalla voi käyttää cashewpähkinöitä."]
+  }
+]
