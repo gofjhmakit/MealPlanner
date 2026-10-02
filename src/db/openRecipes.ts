@@ -110,6 +110,7 @@ export async function syncOpenRecipes(
   fetchImpl: typeof fetch,
   ctx: MatchContext,
   progress: (message: string) => void = () => {},
+  force = false,
 ): Promise<OpenRecipesIndex | null> {
   let index: OpenRecipesIndex
   try {
@@ -120,7 +121,12 @@ export async function syncOpenRecipes(
     return getSetting<OpenRecipesIndex | null>('openRecipes', null, database)
   }
   const stored = await getSetting<OpenRecipesIndex | null>('openRecipes', null, database)
-  if (stored?.version === index.version) return stored
+  if (!force && stored?.version === index.version) {
+    // Same dataset version: reload only if recipes have gone missing (e.g. storage was partly cleared).
+    const expected = index.sources.reduce((s, x) => s + x.count, 0)
+    const present = await database.recipes.where('sourceId').anyOf(index.sources.map((s) => s.id)).count()
+    if (present >= expected) return stored
+  }
 
   const now = new Date().toISOString()
   const total = index.sources.reduce((s, x) => s + x.count, 0)

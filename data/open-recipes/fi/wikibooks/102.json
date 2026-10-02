@@ -1,0 +1,596 @@
+[
+  {
+    "id": "wikibooks-peanut-curry-sauce",
+    "title": "Maapähkinä-currykastike",
+    "description": "Kookosmaitopohjainen maapähkinäcurrykastike grillatun lihan kastikkeeksi tai dipiksi. Ohennettuna sopii marinadiksi tai salaatinkastikkeeksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "thaimaalainen", "maapähkinä", "kookos"],
+    "ingredients": [
+      "1,7 dl paahdettuja suolattomia maapähkinöitä",
+      "10 dl makeuttamatonta kookosmaitoa",
+      "2 rkl punaista currytahnaa",
+      "2 rkl sokeria",
+      "3 rkl sitruunamehua",
+      "1 rkl kalakastiketta"
+    ],
+    "instructions": [
+      "Hienonna tai jauha maapähkinät hienoksi jauheeksi.",
+      "Kuumenna puolet kookosmaidosta keskikokoisessa kattilassa kovalla lämmöllä ja lisää currytahna. Sekoita, kunnes tahna liukenee, ja jatka kuumentamista kovalla lämmöllä 10–12 minuuttia sekoittamatta, kunnes kookosmaidon öljy on noussut pinnalle.",
+      "Laske lämpö keskikovaksi ja lisää jauhetut maapähkinät. Sekoita ja lisää loppu kookosmaito, kuumenna täyteen kiehuvaksi, laske lämpö ja lisää sokeri, sitruunamehu ja kalakastike.",
+      "Kypsennä silloin tällöin sekoittaen 15–20 minuuttia, kunnes kastike on sakeutunut ja öljy noussut pinnalle uudelleen.",
+      "Ota pois liedeltä ja anna seistä noin ½ tuntia. Sekoita pinnalle noussut öljy kastikkeeseen. Kastikkeen pitäisi olla hieman maapähkinävoita löysempää. Jos se on liian paksua, lisää noin tl vettä tai kookosmaitoa."
+    ]
+  },
+  { "id": "wikibooks-peanut-milk", "skip": "epäjohdonmukaiset määrät (100 ml pähkinöitä ja 10 l vettä)" },
+  { "id": "wikibooks-peanut-sauce-saus-kacang", "skip": "liian puutteellinen (vain osa määristä)" },
+  {
+    "id": "wikibooks-peanut-sauce-vegan",
+    "title": "Vegaaninen maapähkinäkastike",
+    "description": "Maapähkinäkastike, joka sopii paistetun tofun, vihreiden kasvisten ja höyrytettyjen kasvisten kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "kastike", "maapähkinä", "nopea"],
+    "ingredients": [
+      "1,2 dl maapähkinävoita",
+      "1–2 valkosipulinkynttä",
+      "3 rkl soijakastiketta",
+      "2 rkl etikkaa (riisi- tai siideri-)",
+      "1 rkl fariinisokeria",
+      "¼ tl suolaa",
+      "1 ripaus cayennepippuria (valinnainen)",
+      "1,2 dl kuumaa vettä"
+    ],
+    "instructions": ["Sekoita kaikki ainekset yhteen lisäten vesi viimeisenä."]
+  },
+  {
+    "id": "wikibooks-pear-and-almond-smoothie-vegan",
+    "title": "Päärynä-mantelismoothie",
+    "description": "Yksinkertainen vegaaninen smoothie ilman lisättyä sokeria.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "kasvis", "nopea", "juoma", "smoothie"],
+    "ingredients": ["4,8 dl makeuttamatonta vaniljamantelijuomaa", "1 iso kypsä päärynä", "1 sitruunalohko"],
+    "instructions": [
+      "Leikkaa päärynä paloiksi ja poista siemenkota. Laita palat tehosekoittimeen.",
+      "Purista sitruunalohkon mehu päärynän päälle.",
+      "Lisää mantelijuoma. Sekoita ja tarjoa heti."
+    ],
+    "notes": ["Kanelilla ja muskotilla maustettuna toimii vegaanisena munakoison vastineena, mutta ei ole yhtä paksua."]
+  },
+  { "id": "wikibooks-pear-chutney", "skip": "epävarma säilöntäohje (purkit suljetaan ilman kuumennuskäsittelyä)" },
+  {
+    "id": "wikibooks-pear-pie",
+    "title": "Päärynäpiirakka",
+    "description": "Päärynöistä ja sokerisiirapista tehty täyte kahden piirakkakuoren välissä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "piirakka", "päärynä", "amerikkalainen"],
+    "ingredients": [
+      "2 valmista piirakkataikinaa (kuorta)",
+      "4 tuoretta päärynää",
+      "½ tl kanelia",
+      "4,8 dl sokeria",
+      "½ dl vehnäjauhoja",
+      "3,6 dl vettä",
+      "1,2 dl fariinisokeria",
+      "2½ rkl maissitärkkelystä",
+      "½ sitruunan mehu",
+      "¼ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Poista päärynöistä siemenkodat, kuori ja viipaloi 3–6 mm:n viipaleiksi.",
+      "Lisää sitruunamehu päärynäviipaleisiin.",
+      "Keitä erillisessä kattilassa vesi, sokeri ja fariinisokeri sokerisiirapiksi.",
+      "Sekoita kulhossa kaneli, muskotti, jauhot ja maissitärkkelys.",
+      "Kun siirappi on kiehunut, yhdistä kaikki ainekset.",
+      "Aseta toinen piirakkataikina piirakkavuokaan.",
+      "Kaada päärynätäyte vuokaan, myös ylimääräinen neste.",
+      "Peitä täyte toisella taikinalla ja tee päälle kolme viiltoa.",
+      "Paista 175 asteessa 60 minuuttia tai kunnes pinta on kullanruskea.",
+      "Ota uunista ja anna jäähtyä.",
+      "Tarjoa halutessasi lämpimänä jäätelön kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-pear-cranberry-crisp",
+    "title": "Päärynä-karpalo-crisp",
+    "description": "Uunissa kypsytetty päärynä-karpalotäyte, jonka päällä on kaura-mantelimurupinta.",
+    "servings": 16,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "päärynä", "karpalo"],
+    "ingredients": [
+      "1,1 kg kiinteitä kypsiä päärynöitä (4 kpl), kuorittuna, siemenkodat poistettuna ja viipaloituna",
+      "340 g karpaloita",
+      "¾ dl sokeria",
+      "½ tl kanelia (jaettuna)",
+      "1,8 dl kaurahiutaleita",
+      "1,6 dl mantelilastuja",
+      "1,6 dl fariinisokeria, tiiviisti mitattuna",
+      "115 g voita, paloiteltuna",
+      "2,4 dl vehnäjauhoja"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita päärynät, karpalot, sokeri ja ¼ tl kanelia 23 x 23 cm:n vuoassa.",
+      "Sekoita kaurahiutaleet, mantelit, fariinisokeri, voi, jauhot ja loppu ¼ tl kanelia isossa kulhossa sormenpäillä murumaiseksi.",
+      "Ripottele muru hedelmien päälle ja paina kevyesti.",
+      "Paista, kunnes päärynät ovat pehmeitä ja pinta kullanruskea, noin 45 minuuttia.",
+      "Tarjoa kuumana tai lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-peas-supreme",
+    "title": "Herneet ja sienet uunissa",
+    "description": "Pakasteherneet, sienet ja vesikastanjat voikastikkeessa, uunissa kuumennettuna.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "herne"],
+    "ingredients": [
+      "450 g pakasteherneitä",
+      "2 rkl voita",
+      "1 tlk (115 g) viipaloituja sieniä, liemi talteen",
+      "1 rkl vehnäjauhoja",
+      "1 tlk (230 g) vesikastanjoita",
+      "öljysuihketta tai öljyä vuoan voiteluun",
+      "½ dl korppujauhoja (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Keitä herneet pakkauksen ohjeen mukaan ja valuta.",
+      "Sulata voi erillisessä pannussa.",
+      "Lisää sienien liemi ja jauhot voisulaan. Sekoita sakeaksi.",
+      "Lisää seos herneiden joukkoon ja lisää vesikastanjat ja sienet.",
+      "Nosta voideltuun uunivuokaan.",
+      "Ripottele halutessasi päälle korppujauhoja.",
+      "Paista 12–15 minuuttia, kunnes kuumaa."
+    ]
+  },
+  {
+    "id": "wikibooks-pease-pudding",
+    "title": "Pease pudding – englantilainen hernepuuro",
+    "description": "Perinteinen englantilainen hernesose kuivatuista keltaisista herneistä ja kinkunkoivesta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["liha", "brittiläinen", "herne"],
+    "ingredients": [
+      "1 raaka kinkunkoipi tai kinkkupaisti (teurastajalta)",
+      "250–375 g kuivattuja keltaisia herneitä",
+      "1 nokare voita"
+    ],
+    "instructions": [
+      "Laita kinkunkoipi painekattilaan ja peitä vedellä.",
+      "Kuumenna kansi päällä kiehuvaksi (täydelle paineelle).",
+      "Laske lämpö ja hauduta 30–40 minuuttia.",
+      "Ota pois liedeltä ja laske paine. Nosta koipi sivuun.",
+      "Lisää herneet.",
+      "Kuumenna kansi päällä uudelleen kiehuvaksi.",
+      "Laske lämpö taas mahdollisimman pieneksi.",
+      "Hauduta 25–30 minuuttia.",
+      "Ota pois liedeltä ja laske paine.",
+      "Laita sisältö kulhoon voin kanssa ja sekoita vispilällä.",
+      "Anna jäähtyä.",
+      "Tarjoa vaalealla leivällä, yksin tai koivesta irrotetun kinkun kanssa. Säilytä jäähdyttyä jääkaapissa."
+    ],
+    "notes": ["Herneiden määrä vaikuttaa koostumukseen ja hyytymisaikaan."]
+  },
+  {
+    "id": "wikibooks-pecan-blondies",
+    "title": "Pekaanipähkinäblondiet",
+    "description": "Brownien vaalea serkku: tummaan fariinisokeriin ja vaniljaan perustuvat pekaanipähkinäpalat.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leivonnainen", "pekaanipähkinä", "amerikkalainen"],
+    "ingredients": [
+      "2 dl (125 g) vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "¾ tl suolaa",
+      "120 g suolatonta voita, sulatettuna",
+      "240 g tummaa fariinisokeria, tiiviisti mitattuna",
+      "1 rkl vaniljauutetta",
+      "1 muna",
+      "180 g hienonnettuja pekaanipähkinöitä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 170 asteeseen.",
+      "Paahda pekaanipähkinät kuivalla pannulla keskikovalla lämmöllä usein sekoittaen tuoksuviksi ja hieman värjäytyneiksi tai paahda ne uunipellillä. Pähkinöiden tulee olla rapeita ja pähkinäisiä, ei karstoja.",
+      "Sekoita pienessä kulhossa jauhot, leivinjauhe ja suola. Aseta sivuun.",
+      "Sekoita isossa kulhossa voisula, fariinisokeri ja vanilja tasaiseksi ja murskaa isot sokeripaakut.",
+      "Vatkaa joukkoon muna kermaiseksi.",
+      "Sekoita varovasti joukkoon jauhoseos. Kun jauho on lähes sekoittunut, lisää paahdetut pekaanit. Älä sekoita liikaa.",
+      "Levitä taikina voideltuun 20 x 20 cm:n vuokaan.",
+      "Paista 170 asteessa 30 minuuttia tai halutun kypsyyden mukaan.",
+      "Anna jäähtyä ja leikkaa paloiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-pecan-pie",
+    "title": "Pekaanipähkinäpiirakka (pecan pie)",
+    "description": "Eteläisten Yhdysvaltain joulun ja kiitospäivän klassikko: karamellimainen pekaanitäyte voitaikinakuoressa.",
+    "servings": 8,
+    "totalTimeMin": 240,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "piirakka", "pekaanipähkinä", "juhla"],
+    "ingredients": [
+      "Pohja:",
+      "240 g vehnäjauhoja",
+      "1 tl suolaa",
+      "2 tl sokeria",
+      "115 g suolatonta voita",
+      "50 g leivontarasvaa (tai laardia)",
+      "90 ml hyvin kylmää vettä",
+      "2 tl etikkaa (valinnainen)",
+      "Täyte:",
+      "85 g suolatonta voita",
+      "2,4 dl tummaa fariinisokeria, tiiviisti mitattuna",
+      "½ tl suolaa",
+      "2,4 dl vaaleaa siirappia",
+      "1 rkl vaniljauutetta",
+      "1 rkl bourbon-viskiä tai tummaa rommia (valinnainen)",
+      "4,8 dl pekaanipähkinöitä",
+      "3 isoa munaa"
+    ],
+    "instructions": [
+      "Levitä kokonaiset pekaanit pellille ja paahda 175 asteessa 10 minuuttia.",
+      "Anna pähkinöiden jäähtyä ja hienonna sitten karkeasti.",
+      "Kuutioi voi ja laita voi ja leivontarasva pakastimeen 20–30 minuutiksi.",
+      "Sekoita jauhot, sokeri ja suola monitoimikoneessa pulssaten.",
+      "Lisää voi ja rasva ja pulssaa 8–12 kertaa, kunnes voi on herneen kokoisia paloja.",
+      "Sekoita vesi ja etikka.",
+      "Kaada vesi-etikkaseos koneen käydessä syöttöputkesta ja pulssaa, kunnes seos alkaa muodostaa taikinaa.",
+      "Kumoa taikina laudalle ja paina yhteen kiekoksi.",
+      "Kääri kelmuun ja jäähdytä jääkaapissa noin 30 minuuttia.",
+      "Kauli taikina hyvin jauhotetulla laudalla ympyräksi keskeltä ulospäin, käännä ja jauhota, ettei se tartu.",
+      "Nosta taikina kaulimen ympärille ja siirrä 23 cm:n piirakkavuokaan.",
+      "Muotoile taikina vuokaan ja paina nurkkiin.",
+      "Pistele pohja haarukalla, ettei se kohoa paistaessa.",
+      "Laita pohja pakastimeen 30 minuutiksi.",
+      "Vuoraa pohja leivinpaperilla ja täytä kuivilla pavuilla.",
+      "Aseta vuoka pellille ja esipaista 190 asteessa uunin keskitasolla 20 minuuttia.",
+      "Nosta pavut ja paperi pois. Paista pohjaa vielä 10 minuuttia.",
+      "Valmista täyte pohjan paistuessa:",
+      "Sulata voi keskikokoisessa kattilassa keskilämmöllä.",
+      "Sekoita joukkoon fariinisokeri ja suola.",
+      "Lisää siirappi ja kuumenna kiehuvaksi sekoittaen silloin tällöin, ettei pala pohjaan.",
+      "Anna kiehua minuutti jatkuvasti sekoittaen ja ota sitten pois liedeltä.",
+      "Sekoita joukkoon bourbon, vanilja ja hienonnetut pekaanit.",
+      "Anna jäähtyä 5 minuuttia silloin tällöin sekoittaen.",
+      "Vatkaa munat ja sekoita ne vähitellen jäähtyneeseen seokseen.",
+      "Laske uunin lämpö 175 asteeseen.",
+      "Kaada täyte kuumaan pohjaan.",
+      "Nosta vuoka pellillä takaisin uunin alaosaan ja suojaa reunat tarvittaessa.",
+      "Paista 175 asteessa 45 minuuttia. Täytteen tulee vielä väristä hieman.",
+      "Jäähdytä ritilällä 2–4 tuntia. Piiras kypsyy jäähtyessään.",
+      "Tarjoa lämpimänä kermavaahdon tai vaniljajäätelön kanssa."
+    ],
+    "notes": ["Älä jätä pekaanien paahtamista väliin, se parantaa makua ja rakennetta.", "Vaaleamman täytteen saa käyttämällä vaaleaa fariinisokeria."]
+  },
+  {
+    "id": "wikibooks-pecan-spinach-pasta",
+    "title": "Pekaani-pinaattipasta",
+    "description": "Pasta paistetussa sipulissa, valkosipulissa, pekaanipähkinöissä ja pinaatissa, fetan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "nopea", "pähkinä"],
+    "ingredients": [
+      "500 g pastaa (mieluiten penneä)",
+      "3 rkl oliiviöljyä",
+      "2 isoa valkosipulinkynttä, hienonnettuna",
+      "1 sipuli (mieluiten punainen), viipaloituna",
+      "1,8 dl pekaanipähkinän puolikkaita",
+      "1 pkt pakastepinaattia tai kohtuullinen määrä tuoretta pinaattia",
+      "murskattuja chilihiutaleita maun mukaan",
+      "suolaa",
+      "2,4 dl fetajuustoa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kattilassa kiehuvaksi ja lisää pasta. Alat maistella sitä 2 minuuttia ennen pakkauksen aikaa. Pasta tulee keittää al denteksi eli hieman vajaaksi, mutta ei raa'aksi. Valuta, kun pasta on valmista.",
+      "Laita pastan kypsyessä oliiviöljy, chilihiutaleet ja valkosipuli kylmälle pannulle. Kuumenna keskilämmöllä.",
+      "Hetken kuluttua lisää sipuliviipaleet.",
+      "Kun sipuli on hieman ruskistunut, lisää pekaanipähkinät ja paista kaksi minuuttia.",
+      "Lisää pinaatti.",
+      "Kun pinaatti on kypsää, lisää suola.",
+      "Nosta kastike valutetun pastan päälle ja tarjoa. Lisää fetaa halutessasi."
+    ],
+    "notes": ["Pakastepinaatti kannattaa höyryttää nopeasti ennen käyttöä."]
+  },
+  {
+    "id": "wikibooks-pecan-sweet-potatoes",
+    "title": "Pekaani-bataattivuoka",
+    "description": "Bataattisose-vuoka, jonka päällä on makea pekaani-fariinisokerimuru.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "bataatti", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "Pohja:",
+      "7 dl keitettyä ja muussattua bataattia",
+      "55 g margariinia, sulatettuna",
+      "2 munaa, vatkattuina",
+      "1,2 dl maitoa",
+      "¾–2,4 dl sokeria",
+      "1 tl vaniljauutetta",
+      "½ tl manteliuutetta",
+      "Pinta:",
+      "2,4 dl fariinisokeria",
+      "55 g margariinia, sulatettuna",
+      "½ dl vehnäjauhoja",
+      "1 ripaus leivinjauhetta",
+      "1 ripaus suolaa",
+      "1,2 dl hienonnettuja pekaanipähkinöitä"
+    ],
+    "instructions": [
+      "Sekoita pohjan ja pinnan ainekset erillisissä kulhoissa.",
+      "Kaada bataattiseos 23 x 30 cm:n vuokaan.",
+      "Ripottele pinta päälle ja paista 175 asteessa 45 minuuttia."
+    ],
+    "notes": ["Pinnalle sopii myös manteli tai maapähkinä.", "Säilyy hyvin pakastettuna."]
+  },
+  {
+    "id": "wikibooks-pedernales-river-chili",
+    "title": "Pedernales River -chili",
+    "description": "Presidentti Lyndon Johnsonin lempichili con carne: karkeaksi jauhettua lihaa, tomaattia ja sipulia ilman suettia.",
+    "servings": 10,
+    "category": "Pääruoat",
+    "tags": ["liha", "chili", "texasilainen", "pata"],
+    "ingredients": [
+      "1,8 kg karkeaa jauhelihaa (mieluiten riistaa, esim. hirveä, tai nautaa)",
+      "1 iso sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl kuivattua oreganoa",
+      "1 tl jauhettua juustokuminaa",
+      "6 tl chilijauhetta (tai enemmän maun mukaan)",
+      "2 tlk (à 500 g) kokonaisia kuorittuja tomaatteja",
+      "suolaa",
+      "4,8 dl kuumaa vettä"
+    ],
+    "instructions": [
+      "Ruskista liha, sipuli ja valkosipuli isossa pannussa.",
+      "Lisää loput ainekset ja kuumenna kiehuvaksi. Laske lämpö, peitä ja hauduta noin tunti.",
+      "Kuori rasva pois."
+    ]
+  },
+  { "id": "wikibooks-peeled-beans-porridge", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-pekere-nigerian-corn-cake", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-penne-alla-casa-penne-in-creamy-tomato-sauce",
+    "title": "Penne alla casa – penne kermaisessa tomaattikastikkeessa",
+    "description": "Penne, kermainen marinara-kastike, aurinkokuivatut tomaatit, pinaatti ja pecorino.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "italialainen", "kerma"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "½ dl hienonnettua tuoretta valkosipulia",
+      "4,8 dl kuohukermaa",
+      "½ dl aurinkokuivattuja tomaatteja, suikaloituna",
+      "3,6 dl marinarakastiketta",
+      "suolaa",
+      "mustapippuria",
+      "valkosipulirouhetta",
+      "225 g tuoretta pinaattia",
+      "1,2 dl raastettua pecorino romanoa",
+      "450 g penne-pastaa, al denteksi keitettynä ja valutettuna"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa kattilassa kovalla lämmöllä.",
+      "Lisää valkosipuli ja kuullota juuri ruskistumaan (varo polttamasta), noin 1 minuutti.",
+      "Lisää kerma ja aurinkokuivatut tomaatit ja kuumenna kiehuvaksi.",
+      "Lisää marinarakastike.",
+      "Kypsennä silloin tällöin sekoittaen, kunnes kastike sakenee ja on vähentynyt neljänneksen.",
+      "Mausta suolalla, pippurilla ja valkosipulirouheella.",
+      "Sekoita joukkoon pinaatti ja pecorino ja kuumenna, kunnes pinaatti lakastuu ja juusto sulaa.",
+      "Sekoita pastan kanssa ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-penne-with-hearty-meat-sauce",
+    "title": "Penne tuhdilla lihakastikkeella",
+    "description": "Nopea pasta, jossa on makkara, valmis lihakastike ja tomaattipyree.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "570 g italialaista makkaraa",
+      "750 g valmista lihaista pastakastiketta",
+      "170 g tomaattipyreetä",
+      "1,2 dl kuumaa vettä",
+      "225 g kuivaa penne-pastaa, keitettynä pakkauksen ohjeen mukaan",
+      "2 rkl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Poista makkaroiden kuoret.",
+      "Paista makkara isossa pannussa keskilämmöllä ruskeaksi ja murusteltuna. Valuta rasva.",
+      "Sekoita joukkoon pastakastike, tomaattipyree ja vesi.",
+      "Lisää pasta ja sekoita, kunnes se peittyy.",
+      "Kuumenna kiehuvaksi.",
+      "Laske lämpö ja hauduta miedolla lämmöllä 10 minuuttia, kunnes kuumaa.",
+      "Ripottele päälle juustoa."
+    ]
+  },
+  {
+    "id": "wikibooks-pennsylvania-pot-pie",
+    "title": "Pennsylvania pot pie – kanakeitto nuudelitaikinaneliöillä",
+    "description": "Pennsylvanian hollantilaisten keitto, jossa on kanaa, vihreitä papuja ja taikinaneliöitä.",
+    "servings": 6,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "amerikkalainen"],
+    "ingredients": [
+      "6 dl vehnäjauhoja",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "240 g leivontarasvaa",
+      "1 dl ja 1 rkl kylmää vettä",
+      "2 l vettä",
+      "1 tlk vihreitä papuja",
+      "500–1400 g keittokanaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä kana vedessä pehmeäksi.",
+      "Valmista sillä välin taikina: sekoita jauhot, suola, pippuri ja rasva muruiksi, lisää kylmä vesi ja sekoita taikinaksi.",
+      "Kauli taikina jauhotetulla alustalla noin kaksi kertaa tavallista piirakkapohjaa paksummaksi (noin 23 cm:n ympyrä tai 20 x 25 cm:n suorakaide).",
+      "Leikkaa taikina noin 5 cm:n neliöiksi.",
+      "Ota kana liemestä. Revi kana palasiksi ja hävitä luut ja nahka.",
+      "Lisää taikinaneliöt kiehuvaan liemeen muutama kerrallaan niin, etteivät ne tartu yhteen. Hauduta 6 minuuttia.",
+      "Lisää kana ja vihreät pavut. Hauduta 10–15 minuuttia.",
+      "Ota pois liedeltä. Anna seistä 5 minuuttia ennen tarjoilua."
+    ],
+    "notes": [
+      "Taikinaneliöt liukenevat reunoilta liemeen, mutta keskeltä pysyvät kiinteinä. Se on normaalia.",
+      "Voit lisätä tuoreita kasviksia, kuten perunaa, porkkanaa ja sipulia kanan jälkeen."
+    ]
+  },
+  {
+    "id": "wikibooks-pepes-ikan-indonesian-steamed-fish",
+    "title": "Pepes ikan – indonesialainen höyrytetty kala",
+    "description": "Banaaninlehteen tai folioon käärittyä mausteilla marinoitua kalaa, höyrytettynä ja grillattuna.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kala", "indonesialainen", "höyrytetty", "grilli"],
+    "ingredients": [
+      "Mausteseos:",
+      "2 valkosipulinkynttä",
+      "4 salottisipulia",
+      "2 cm tuoretta inkivääriä",
+      "2 cm tuoretta kurkumaa",
+      "50 g tuoretta chiliä",
+      "5 kukuinpähkinää (candlenut)",
+      "5 g tamarindia",
+      "½ tl suolaa",
+      "25 ml vettä",
+      "Kala:",
+      "1 kg kokonaista kalaa (karppi tai punasnapper)",
+      "1 tomaatti, hienonnettuna",
+      "1 kevätsipulin varsi",
+      "1 sitruunaruohon varsi",
+      "5 salam-lehteä (tai laakerinlehteä)",
+      "50 g kemangi-lehtiä (makeaa basilikaa; valinnainen)",
+      "suolaa",
+      "1 tl sokeria",
+      "2 rkl öljyä",
+      "banaaninlehtiä tai alumiinifoliota käärimiseen"
+    ],
+    "instructions": [
+      "Jauha kaikki mausteseoksen ainekset yhteen.",
+      "Suomusta ja puhdista kala. Poista sisälmykset, mutta ei mätiä.",
+      "Tee kalan kummallekin puolelle kolme vinoa viiltoa, jotta mauste pääsee sisään.",
+      "Marinoi kalaa suolalla ja tamarindilla 15 minuuttia ja huuhtele sitten vedellä liiallinen suola pois.",
+      "Sekoita öljy mausteseokseen.",
+      "Hiero kala mausteseoksella.",
+      "Laita päälle kemangi-lehdet, salam-lehdet ja viipaloitu sitruunaruoho.",
+      "Kääri kala banaaninlehteen tai folioon.",
+      "Höyrytä keskilämmöllä 30 minuuttia. Painekattila nopeuttaa ja parantaa makua.",
+      "Anna jäähtyä ja grillaa käärö hiiligrillillä."
+    ]
+  },
+  {
+    "id": "wikibooks-pepper-crusted-flank-steak",
+    "title": "Pippuripäällysteinen kuvepihvi",
+    "description": "Grillattu pihvi, jossa on murskattua pippuria, savupaprikaa ja dijonsinappia. Muistuttaa steak au poivrea ilman pannukastiketta.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "grilli", "pihvi"],
+    "ingredients": [
+      "½ dl pippurinjyviä, murskattuna",
+      "suolaa",
+      "¾ tl cayennepippuria",
+      "1½ rkl savupaprikajauhetta",
+      "450 g naudan kuvetta (flank steak)",
+      "dijonsinappia"
+    ],
+    "instructions": [
+      "Sekoita pippurit, suola, cayenne ja paprika. Aseta sivuun.",
+      "Sivele pihvi sinapilla. Levitä mausteseos ja hiero kevyesti lihaan.",
+      "Grillaa kovalla lämmöllä, kunnes molemmat puolet ovat ruskeat. Laske lämpö keskilämmölle ja kypsennä usein kääntäen, kunnes sisälämpö on 60 °C (medium rare).",
+      "Ota pois ja anna levätä peittämättä 7 minuuttia.",
+      "Leikkaa mahdollisimman ohuiksi viipaleiksi syitä vastaan ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-pepper-crusted-chicken",
+    "title": "Pippuripäällysteinen broileri",
+    "description": "Murskatulla mustapippurilla paneroitu pannulla paistettu ja uunissa kypsennetty broilerin rintafile sitruunamehulla.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "nopea"],
+    "ingredients": [
+      "4 broilerin rintafileetä",
+      "oliiviöljyä",
+      "suolaa",
+      "1,2 dl murskattuja mustapippurin jyviä",
+      "½ dl vastapuristettua sitruunamehua"
+    ],
+    "instructions": [
+      "Sivele broileri oliiviöljyllä. Ripottele molemmille puolille runsaasti suolaa.",
+      "Laita pippuri piirakkavuokaan. Pyörittele broileri pippurissa. Anna levätä 2–3 minuuttia.",
+      "Kuumenna iso valurautapannu kovalla lämmöllä. Kaada pannulle noin 2 rkl oliiviöljyä.",
+      "Lisää broileri ja paista 2 minuuttia per puoli ruskeaksi.",
+      "Työnnä uunin kestävä lihamittari yhteen rintafileeseen. Paista pannun kanssa 190 asteessa, kunnes sisälämpö on 74 °C.",
+      "Nosta broileri pannulta ja pidä lämpimänä. Irrota pannun pohjalta paistopinta sitruunamehulla ja valuta broilerin päälle. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-peppercorn-strip-steaks-with-cognac-cream-sauce",
+    "title": "Pippuripihvit konjakkikermakastikkeella",
+    "description": "Pippurilla päällystetyt ulkofilepihvit ja kotitekoinen konjakki-kermakastike.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "pihvi", "juhla"],
+    "ingredients": [
+      "2 valkosipulinkynttä, murskattuna ja hienonnettuna",
+      "suolaa",
+      "oliiviöljyä",
+      "½ dl mustapippurin jyviä, murskattuna",
+      "4 ulkofilepihviä (yht. n. 700 g), liika rasva poistettuna",
+      "½ dl konjakkia",
+      "3 rkl kuohukermaa",
+      "55 g suolatonta voita, pieninä paloina"
+    ],
+    "instructions": [
+      "Ripottele valkosipulin päälle suolaa. Hiero veitsen kyljellä toistuvasti, kunnes valkosipulista tulee paksu tahna.",
+      "Hiero pihvit öljyllä. Mausta molemmin puolin suolalla ja paina pippurit pihvien molempiin pintoihin. Anna olla huoneenlämpöistä noin 30 minuuttia.",
+      "Kuumenna pihvit mahtuva ruostumattomasta teräksestä valmistettu paistinpannu kovalla lämmöllä. Kaada pannulle hieman öljyä ja lisää pihvit. Paista 4 minuuttia per puoli medium rare -kypsyyteen. Ota pois ja pidä lämpimänä.",
+      "Kaada ylimääräinen rasva pois, mutta älä kaavi pannua. Irrota paistopinta konjakilla ja kuumenna kiehuvaksi varoen liekkejä.",
+      "Keitä, kunnes neste on vähentynyt puoleen, ja vispaa joukkoon kerma ja valkosipulitahna.",
+      "Vispaa joukkoon voi. Kun voi on sulanut kokonaan, lusikoi kastike pihvien päälle. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-pepperoni-pasta-salad",
+    "title": "Pepperoni-pastasalaatti",
+    "description": "Orzo-pastasta, pepperonista, mozzarellasta ja tomaatista tehty nopea pastasalaatti.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Salaatit",
+    "tags": ["liha", "pasta", "salaatti", "nopea"],
+    "ingredients": [
+      "170 g orzo-pastaa, keitettynä ja hyvin valutettuna",
+      "1,2 dl italialaista salaatinkastiketta",
+      "115 g raastettua mozzarellaa",
+      "115 g viipaloitua pepperonia",
+      "2 tomaattia, kuutioituna"
+    ],
+    "instructions": ["Sekoita kaikki ainekset isossa kulhossa tasaiseksi.", "Tarjoa lämpimänä tai jäähdytä ennen tarjoilua."]
+  }
+]

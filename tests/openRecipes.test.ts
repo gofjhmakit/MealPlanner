@@ -1,7 +1,10 @@
 // @vitest-environment jsdom
 import 'fake-indexeddb/auto'
+import { readFileSync } from 'node:fs'
+import { join } from 'node:path'
 import { afterEach, beforeEach, describe, expect, it } from 'vitest'
 import { MealPlannerDB } from '../src/db/db'
+import { loadFineliData } from '../src/db/bootstrap'
 import { syncOpenRecipes, type OpenRecipesIndex } from '../src/db/openRecipes'
 import { fineliLookup } from './helpers'
 
@@ -92,11 +95,11 @@ describe('open recipe catalogue', () => {
   })
 
   it('skips work when the version is unchanged and tolerates a missing catalogue', async () => {
-    const files = { 'index.json': { version: 'v1', generatedAt: '', sources: [source] }, 'unitools.json': { recipes: [carbonara] } }
+    const files = { 'index.json': { version: 'v1', generatedAt: '', sources: [{ ...source, count: 1 }] }, 'unitools.json': { recipes: [carbonara] } }
     await syncOpenRecipes(db, fakeFetch(files), ctx())
-    await db.recipes.delete('unitools-spaghetti-carbonara')
+    await db.recipes.update('unitools-spaghetti-carbonara', { title: 'koskematon' })
     await syncOpenRecipes(db, fakeFetch(files), ctx())
-    expect(await db.recipes.get('unitools-spaghetti-carbonara')).toBeUndefined() // not reloaded: same version
+    expect((await db.recipes.get('unitools-spaghetti-carbonara'))!.title).toBe('koskematon') // not reloaded: same version, nothing missing
 
     const fresh = new MealPlannerDB(`open-missing-${n++}`)
     expect(await syncOpenRecipes(fresh, fakeFetch({}), ctx())).toBeNull()
@@ -110,4 +113,30 @@ describe('open recipe catalogue', () => {
     await syncOpenRecipes(db, fakeFetch({ 'index.json': index, 'unitools.json': { recipes: [carbonara] } }), ctx())
     expect(await db.recipes.count()).toBe(1)
   })
+
+  it('reloading Fineli keeps open recipes, and missing recipes are restored even when the version is unchanged', async () => {
+    const files = { 'index.json': { version: 'v1', generatedAt: '', sources: [{ ...source, count: 2 }] }, 'unitools.json': { recipes: [carbonara, soup] } }
+    await syncOpenRecipes(db, fakeFetch(files), ctx())
+
+    // Fineli reload (Settings button) must only refresh Fineli dishes
+    const fineliFiles: Record<string, string> = {
+      'fineli-meta.json': readFileSync(join(import.meta.dirname, '..', 'public', 'data', 'fineli-meta.json'), 'utf8'),
+      'fineli-foods.json': readFileSync(join(import.meta.dirname, '..', 'public', 'data', 'fineli-foods.json'), 'utf8'),
+      'fineli-dishes.json': readFileSync(join(import.meta.dirname, '..', 'public', 'data', 'fineli-dishes.json'), 'utf8'),
+    }
+    const fineliFetch = (async (url: string) => new Response(fineliFiles[String(url).split('/').pop()!] ?? 'x', { status: String(url).split('/').pop()! in fineliFiles ? 200 : 404 })) as typeof fetch
+    await loadFineliData(db, fineliFetch, () => {}, true)
+    expect(await db.recipes.where('sourceId').equals('unitools').count()).toBe(2)
+    expect(await db.recipes.where('sourceId').equals('fineli').count()).toBeGreaterThan(1000)
+
+    // Recipes lost some other way come back on the next start despite the same version
+    await db.recipes.delete('unitools-borscht')
+    await syncOpenRecipes(db, fakeFetch(files), ctx())
+    expect(await db.recipes.get('unitools-borscht')).toBeDefined()
+
+    // force reloads regardless
+    await db.recipes.update('unitools-borscht', { title: 'muutettu' })
+    await syncOpenRecipes(db, fakeFetch(files), ctx(), () => {}, true)
+    expect((await db.recipes.get('unitools-borscht'))!.title).toBe('Borssikeitto')
+  }, 30000)
 })

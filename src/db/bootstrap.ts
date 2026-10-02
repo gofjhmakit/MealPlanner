@@ -110,7 +110,8 @@ export async function loadFineliData(
   const foodMap = new Map(foodsFile.foods.map((f) => [f.id, f]))
   const catalogue = buildFineliCatalogue(dishFile.dishes, foodMap, dishFile.classes.fuClass)
   await database.transaction('rw', database.recipes, async () => {
-    const existing = await database.recipes.where('origin').equals('catalogue').toArray()
+    // Only the Fineli dishes: other catalogue sources (open recipes) are refreshed by openRecipes.ts.
+    const existing = (await database.recipes.where('origin').equals('catalogue').toArray()).filter((r) => r.sourceId === 'fineli')
     const inCollection = new Set(existing.filter((r) => r.inCollection).map((r) => r.id))
     const notes = new Map(existing.filter((r) => r.notes).map((r) => [r.id, r.notes]))
     const ratings = new Map(existing.filter((r) => r.rating).map((r) => [r.id, r.rating]))

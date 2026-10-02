@@ -1,6 +1,6 @@
 {
- "version": "2026-10-02-dddlmm",
- "generatedAt": "2026-10-02T05:33:11.442Z",
+ "version": "2026-10-02-1mvcl6",
+ "generatedAt": "2026-10-02T10:53:13.835Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -21,8 +21,8 @@
    "attribution": "U.S. Department of Agriculture, Center for Nutrition Policy and Promotion – MyPlate Kitchen. Kuvat ja säilytetty kokoelma: MyPlate.food.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "myplate.json",
-   "count": 175,
-   "withImage": 175
+   "count": 548,
+   "withImage": 548
   },
   {
    "id": "unitools",
@@ -32,8 +32,19 @@
    "attribution": "UniTools — theunitools.com. Valokuvat Wikimedia Commonsista, kuvakohtaiset tekijät ja lisenssit reseptin kuvan yhteydessä.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "unitools.json",
-   "count": 275,
-   "withImage": 246
+   "count": 501,
+   "withImage": 406
+  },
+  {
+   "id": "forkrecipe",
+   "name": "ForkRecipe",
+   "homepage": "https://github.com/futurechef/forkrecipe-recipes",
+   "license": "CC BY-SA 4.0",
+   "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.",
+   "file": "forkrecipe.json",
+   "count": 68,
+   "withImage": 0
   },
   {
    "id": "wikibooks",
@@ -43,7 +54,7 @@
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "wikibooks.json",
-   "count": 537,
+   "count": 1032,
    "withImage": 0
   }
  ]

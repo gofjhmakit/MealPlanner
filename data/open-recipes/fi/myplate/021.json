@@ -1,0 +1,683 @@
+[
+  {
+    "id": "myplate-leaf-finger-salad",
+    "title": "Salaattikääryleet",
+    "description": "Kevyt ja maukas salaatti, jonka voi helposti kaksinkertaistaa vieraille tai uusiin kasviksiin tutustumiseen lapsille. Värikäs punajuuri, rapea porkkana, kurkku ja auringonkukansiemenet sopivat alkupalaksi tai lisukkeeksi.",
+    "servings": 2,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "nopea", "lapsille"],
+    "ingredients": [
+      "4 isoa jäävuorisalaatin lehteä",
+      "1 kurkku, viipaloituna",
+      "1 punajuuri, raastettuna",
+      "1 keskikokoinen porkkana, raastettuna",
+      "6 rkl auringonkukansiemeniä",
+      "2 tl oliiviöljyä",
+      "2 tl balsamietikkaa"
+    ],
+    "instructions": [
+      "Aseta salaatinlehdet tasaiselle alustalle.",
+      "Lisää jokaiselle lehdelle kurkku, porkkana, punajuuri ja auringonkukansiemenet.",
+      "Valuta jokaisen lehden päälle oliiviöljyä ja balsamietikkaa.",
+      "Kääri lehti hitaasti rullalle täytteineen."
+    ]
+  },
+  {
+    "id": "myplate-leafy-tofu",
+    "title": "Tofu ja pinaatti",
+    "description": "Pinaatti, tofu ja seesamit ovat hauska ja herkullinen yhdistelmä, joka valmistuu minuuteissa. Nopea lisuke!",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "tofu", "pinaatti", "nopea"],
+    "ingredients": [
+      "1 pkt (400 g) kiinteää tofua",
+      "1 rkl öljyä",
+      "10 dl tuoretta pinaattia (2 nippua)",
+      "2 rkl vähäsuolaista soijakastiketta",
+      "1 tl seesaminsiemeniä, paahdettuina"
+    ],
+    "instructions": [
+      "Valuta tofu.",
+      "Kuutioi tofu 2,5 cm:n kuutioiksi.",
+      "Revi pinaatti suupaloiksi.",
+      "Kuumenna öljy isolla pannulla ja paista tofukuutioita muutama minuutti.",
+      "Siirrä tofu pannun keskelle.",
+      "Lisää pinaatti ja soijakastike.",
+      "Sekoita.",
+      "Peitä pannu ja kypsennä, kunnes pinaatti on lakastunut.",
+      "Ripottele päälle paahdetut seesaminsiemenet."
+    ]
+  },
+  {
+    "id": "myplate-leftover-turkey-casserole",
+    "title": "Kalkkunavuoka tähteistä",
+    "description": "Tähdekalkkuna saa uutta makua juustosta, sienikeittotiivisteestä ja sellerista tässä täyttävässä vuoassa. Käytä asianmukaisesti käsiteltyä ja säilytettyä tähdekalkkunaa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "uuniruoka", "tähteet", "amerikkalainen"],
+    "ingredients": [
+      "6 viipaletta täysjyväleipää",
+      "115 g kypsää kalkkunaa, kuutioituna tai revittynä",
+      "1¼ dl sipulia, hienonnettuna",
+      "1¼ dl varsiselleriä, hienonnettuna",
+      "½ tl mustapippuria",
+      "2 kananmunaa, kevyesti vatkattuna",
+      "3½ dl kevytmaitoa",
+      "1 tlk (300 g) vähäsuolaista sienikeittotiivistettä (tai 1½ dl ruokakermaa + sienikeittoa)",
+      "2 viipaletta täysjyväleipää",
+      "2 tl suolatonta voita",
+      "1¼ dl raastettua vähärasvaista cheddarjuustoa",
+      "1¼ dl kevytmajoneesia",
+      "öljyä tai paistosprayta vuoan voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 165 asteeseen. Voitele noin 23 x 23 cm:n uunivuoka kevyesti.",
+      "Leikkaa 6 viipaletta leipää (tuoretta tai edellispäivän) 2,5 cm:n kuutioiksi ja laita puolet vuoan pohjalle.",
+      "Sekoita kulhossa kalkkuna, sipuli, selleri, majoneesi ja pippuri.",
+      "Lusikoi seos leipäkuutioiden päälle.",
+      "Aseta loput leipäkuutiot kalkkunaseoksen päälle ja painele lusikalla kevyesti.",
+      "Sekoita munat ja maito ja kaada kuutioiden päälle.",
+      "Peitä ja jäähdytä jääkaapissa yön yli.",
+      "Kun olet valmis paistamaan, kuumenna uuni 165 asteeseen. Lusikoi keittotiiviste vuoan päälle.",
+      "Levitä jokaisen leipäviipaleen toiselle puolelle 1 tl voita.",
+      "Leikkaa voideltu leipä 1 cm:n kuutioiksi ja ripottele vuoan päälle.",
+      "Paista 60 minuuttia, kunnes keskelle työnnetty veitsi tulee puhtaana ulos.",
+      "Ota uunista ja ripottele päälle juusto.",
+      "Anna seistä 15 minuuttia ennen leikkaamista ja tarjoilua."
+    ],
+    "notes": ["Amerikkalaisen sienikeittotiivisteen voi korvata ruokakermalla ja sienikeitolla tai sienikeittojauheella."]
+  },
+  {
+    "id": "myplate-lemon-corn-cake",
+    "title": "Sitruuna-maissikakku",
+    "description": "Kevyt ja maukas kakku, täynnä makeaa ja raikasta sitruunan makua! Sitruunakuorrute vie kakun uudelle tasolle.",
+    "servings": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "sitruuna", "leivonnainen"],
+    "ingredients": [
+      "2½ dl keltaista maissijauhoa",
+      "2½ dl vehnäjauhoja",
+      "1¼ dl sokeria",
+      "1 rkl leivinjauhetta",
+      "1 tl suolaa",
+      "1¾ dl vähärasvaista sitruunajogurttia (n. 170 g)",
+      "2 tl sitruunankuorta, hienoksi raastettuna",
+      "1 rkl öljyä",
+      "1 kananmunan keltuainen",
+      "1⅔ dl rasvatonta maitoa",
+      "3 kananmunan valkuaista",
+      "öljyä tai paistosprayta vuoan voiteluun",
+      "Kuorrute:",
+      "3 rkl sitruunamehua",
+      "1¼ dl tomusokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Sekoita viisi ensimmäistä ainesta keskenään kulhossa.",
+      "Sekoita jogurtti, sitruunankuori, öljy, keltuainen ja maito ja sekoita kuivien aineiden joukkoon vain sen verran, että ainekset yhdistyvät.",
+      "Vatkaa valkuaiset sähkövatkaimella kovaksi vaahdoksi.",
+      "Kääntele maissiseoksen joukkoon.",
+      "Kaada noin 23 cm:n pyöreään kakkuvuokaan, joka on voideltu.",
+      "Paista 20–25 minuuttia, kunnes kakku on kypsä.",
+      "Valinnainen sitruunakuorrute: sekoita sitruunamehu ja tomusokeri miedolla lämmöllä.",
+      "Pistele kakun pinta haarukalla useasta kohdasta.",
+      "Kaada kuorrute hitaasti tasaisesti kakun päälle."
+    ]
+  },
+  {
+    "id": "myplate-lemon-dill-brussels-sprouts",
+    "title": "Ruusukaali sitruunalla ja tillillä",
+    "description": "Kokeile eri tapaa syödä ruusukaalia. Kreikkalainen jogurtti ja tilli tekevät tästä täydellisen kermaisen ja raikkaan kasvisruoan.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "ruusukaali", "kasvikset", "nopea"],
+    "ingredients": [
+      "2½ dl rasvatonta kreikkalaista jogurttia (tai vähärasvaista)",
+      "1 tl kuivattua tilliä",
+      "1 tl sitruunamehua",
+      "½ tl suolaa",
+      "450 g ruusukaalia, siistittynä ja pituussuunnassa halkaistuna",
+      "2 tl margariinia tai voita",
+      "½ dl vettä"
+    ],
+    "instructions": [
+      "Sekoita pienessä kulhossa jogurtti, tilli, sitruunamehu ja suola.",
+      "Laita sivuun.",
+      "Paista ruusukaaleja (leikkuupinta alaspäin) margariinissa tai voissa isolla pannulla keskikovalla lämmöllä, kunnes ne alkavat ruskistua.",
+      "Sekoita ja lisää vesi.",
+      "Peitä pannu ja höyrytä, kunnes vesi on haihtunut ja ruusukaalit ovat pehmeitä mutta napakoita, noin 3–5 minuuttia.",
+      "Sekoita ruusukaalit sitruuna-tillikastikkeen joukkoon.",
+      "Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-lemon-pepper-salmon-patties",
+    "title": "Sitruunapippurilohipihvit",
+    "description": "Lohihiutaleet, korppujauhot, majoneesi ja muna muuttavat yksinkertaisen filee maukkaiksi paistetuiksi pihveiksi!",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kala", "arkiruoka", "nopea", "kananmuna"],
+    "ingredients": [
+      "1¾ dl korppujauhoja",
+      "½ dl kevytmajoneesia",
+      "1 kananmuna, kevyesti vatkattuna",
+      "½ tl sitruunapippuria",
+      "200 g pakastelohta, sulatettuna, valutettuna ja hienoksi pilkottuna (nahka voi jättää pois)",
+      "öljyä tai paistosprayta pannun voiteluun"
+    ],
+    "instructions": [
+      "Sekoita korppujauhot, majoneesi, muna ja sitruunapippuri keskikokoisessa kulhossa.",
+      "Lisää lohi ja sekoita.",
+      "Mittaa ¾ dl lohiseosta (tiiviisti pakattuna) ja muotoile pyöreäksi pihviksi.",
+      "Toista, kunnes sinulla on viisi lohipihviä.",
+      "Voitele paistinpannu ja kuumenna keskilämmölle.",
+      "Laita lohipihvit pannulle ja paista kevyen ruskeiksi, 5–7 minuuttia.",
+      "Käännä pihvit ja paista toinen puoli ruskeaksi.",
+      "Lohen sisälämmön tulee olla 63 astetta ruoanvalmistuslämpömittarilla mitattuna ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-lemon-potatoes",
+    "title": "Sitruunaperunat",
+    "description": "Perunat paloitellaan ja kastellaan sitruunamehun, valkosipulin ja öljyn seoksessa ja paistetaan uunissa kullanruskeiksi. Sivele perunat lopuksi jäljellä olevalla seoksella ja tarjoile lämpiminä.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "uuniruoka", "sitruuna"],
+    "ingredients": [
+      "3 keskikokoista perunaa",
+      "1 sitruunan mehu (n. ½ dl)",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "2 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Sekoita sitruunamehu, valkosipuli ja öljy.",
+      "Ota 1 rkl seosta sivuun.",
+      "Kuori perunat ja leikkaa 2,5 cm:n paloiksi.",
+      "Kaada sitruunamehuseos uunivuokaan tai pieneen pelliin niin, että se peittää vuoan pohjan.",
+      "Laita perunat vuokaan ja kasta ne seoksessa.",
+      "Paista noin 30 minuuttia, kunnes perunat ovat pehmeitä.",
+      "Sivele uunista ottamisen jälkeen perunoiden päälle loppu sitruunamehuseos.",
+      "Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-lemon-spinach",
+    "title": "Sitruunapinaatti",
+    "description": "Raikas pinaattilisuke valmistuu hetkessä. Sitruunamehu tuo lisää makua. Nauti suosikkipääruoan lisukkeena.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "pinaatti", "nopea", "kasvikset"],
+    "ingredients": [
+      "450 g tuoretta pinaattia (n. 20 dl)",
+      "¼ tl mustapippuria",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Pese pinaatti.",
+      "Leikkaa varret pois.",
+      "Laita pinaatti, pippuri ja sitruunamehu pannulle.",
+      "Kypsennä keskilämmöllä.",
+      "Anna pinaatin kiehua noin 3 minuuttia, kunnes se on juuri pehmeää."
+    ]
+  },
+  {
+    "id": "myplate-lemon-velvet-supreme",
+    "title": "Sitruunavanukasjälkiruoka",
+    "description": "Kevyt ja virkistävä jälkiruoka vaniljajogurtista, grahamkekseistä ja mandariineista valmistuu minuuteissa. Resepti kaksinkertaistuu helposti.",
+    "servings": 6,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "jogurtti", "nopea", "hedelmät"],
+    "ingredients": [
+      "4¾ dl rasvatonta vaniljajogurttia",
+      "1 pkt (28 g) sitruunapikavanukasjauhetta (n. 3 rkl)",
+      "8 grahamkeksiä, murskattuna",
+      "2½ dl mandariinilohkoja (säilyke, valutettuna) tai lempihedelmiä"
+    ],
+    "instructions": [
+      "Sekoita vaniljajogurtti ja vanukasjauhe varovasti yhteen.",
+      "Laita yksittäisten annoskulhojen pohjalle murskattuja grahamkeksejä.",
+      "Säästä hieman murusia päälle ripoteltavaksi.",
+      "Kaada vanukasseos keksimurujen päälle.",
+      "Lisää päälle mandariinilohkoja tai lempihedelmiä.",
+      "Ripottele päälle loput murut."
+    ]
+  },
+  {
+    "id": "myplate-lemonade",
+    "title": "Sitruunalimonadi",
+    "description": "Tuore annoksen kokoinen limonadi kuumalle kesäpäivälle. Tarvitset vain yhden sitruunan.",
+    "servings": 1,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "juoma", "kesä", "nopea"],
+    "ingredients": [
+      "1 sitruuna",
+      "1¾ dl vettä",
+      "1 rkl sokeria"
+    ],
+    "instructions": [
+      "Leikkaa sitruuna poikki.",
+      "Aseta sitruunapuolikas mehupuristimelle.",
+      "Paina ja väännä, jotta mehu puristuu ulos.",
+      "Kaada mehu lasiin.",
+      "Lisää noin 1¾ dl vettä.",
+      "Lisää sokeri ja sekoita.",
+      "Makuvaihtoehtoja: purista puolikas sitruunaa ja puolikas limeä; tai puolikas sitruunaa ja puolikas appelsiinia; tai lisää ½ dl omenamehutiivistettä ja jätä sokeri pois; tai käytä ½ dl kivennäisvettä ja 1 dl vettä."
+    ]
+  },
+  {
+    "id": "myplate-lentil-barley-soup",
+    "title": "Linssi-ohrasuurimokeitto",
+    "description": "Iso kattila linssejä, tomaatteja ja helmiohraa muuttuu täyttäväksi keitoksi. Hyvä etukäteen valmistettava ateria, jonka jälkeen on vähän tiskattavaa.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "palkokasvit", "ohra"],
+    "ingredients": [
+      "4¾ dl kuivia linssejä, huuhdeltuina",
+      "4 kevätsipulia",
+      "5 porkkanaa, pilkottuna",
+      "2 varsiselleriä, pilkottuna",
+      "2 tl kuivattua oreganoa",
+      "1¼ dl helmiohraa",
+      "2,8 l vettä",
+      "1 tlk (400 g) vähäsuolaisia kuorittuja kokonaisia tomaatteja, karkeasti pilkottuina",
+      "1 rkl punaviinietikkaa",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Laita iso keittokattila liedelle ja lisää linssit, kevätsipulit, porkkanat, selleri, oregano, ohra ja vesi.",
+      "Kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta ilman kantta tunti.",
+      "Lisää tomaatit ja jatka kypsennystä noin 45 minuuttia.",
+      "Lisää etikka juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-lentil-chili",
+    "title": "Linssichili",
+    "description": "Linssit, tomaatit ja naudan jauheliha ovat voittava yhdistelmä linssichilissä. Annos sisältää 9 grammaa kuitua. Maukas ja täyttävä.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["liha", "palkokasvit", "meksikolainen", "arkiruoka"],
+    "ingredients": [
+      "225 g naudan jauhelihaa",
+      "3½ dl sipulia, hienonnettuna",
+      "1 valkosipulinkynsi, murskattuna",
+      "4¾ dl keitettyjä linssejä, valutettuina",
+      "2 tlk (à 400 g) vähäsuolaisia tomaattipaloja tai tomaattimurskaa",
+      "1 rkl chilijauhetta",
+      "½ tl juustokuminaa (valinnainen)"
+    ],
+    "instructions": [
+      "Ruskista jauheliha isossa kattilassa keskikovalla lämmöllä ja murenna se pieniksi paloiksi.",
+      "Valuta rasva.",
+      "Lisää sipuli ja valkosipuli ja kypsennä pehmeiksi.",
+      "Lisää linssit, tomaatit, chilijauhe ja juustokumina.",
+      "Kypsennä noin tunti, kunnes maut ovat yhdistyneet.",
+      "Tarjoile kuumana ja lisää päälle suosikkichilitäytteet."
+    ]
+  },
+  {
+    "id": "myplate-lentil-minestrone",
+    "title": "Linssiminestrone",
+    "description": "Keitto alkaa runsaasta määrästä kasviksia – porkkanaa, selleriä, bataattia, kesäkurpitsaa ja tomaatteja – ja täyttävistä linsseistä. Rikas ja maukas ateria nälkäiselle perheelle.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "palkokasvit", "kasvikset"],
+    "ingredients": [
+      "1 rkl oliiviöljyä tai rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "3 porkkanaa, ½ cm:n kuutioina",
+      "1 varsiselleri, ½ cm:n kuutioina",
+      "1 bataatti, kuorittuna ja ½ cm:n kuutioina",
+      "1 kesäkurpitsa, ½ cm:n kuutioina (tai 2½ dl pakastekesäkurpitsaa)",
+      "5 dl vähäsuolaisia tomaattipaloja (tai tuoreita tomaatteja)",
+      "1¼ dl ruskeita tai punaisia linssejä",
+      "1,9 l vettä",
+      "1 vähäsuolainen kanaliemikuutio",
+      "10 dl lehtikaalia, pilkottuna"
+    ],
+    "instructions": [
+      "Laita keittokattila keskikovalle lämmölle.",
+      "Kun kattila on kuuma, lisää öljy.",
+      "Lisää sipuli ja valkosipuli ja kypsennä noin 7 minuuttia kullanruskeiksi.",
+      "Lisää porkkanat, selleri, bataatti ja kesäkurpitsa ja kypsennä noin 10 minuuttia, kunnes ovat hieman pehmeitä.",
+      "Lisää tomaatit, linssit, vesi ja liemikuutio ja kuumenna kovalla lämmöllä kiehuvaksi.",
+      "Laske lämpö pieneksi, peitä ja keitä 40 minuuttia.",
+      "Lisää lehtikaali ja keitä vielä 20 minuuttia.",
+      "Tarjoile heti tai peitä ja säilytä jääkaapissa enintään 3 päivää."
+    ]
+  },
+  {
+    "id": "myplate-lentil-soup",
+    "title": "Linssikeitto",
+    "description": "Ravitseva linssikeitto on yksinkertainen mutta täyttävä. Kasvisliemellä tehtynä siitä tulee herkullinen kasvisvaihtoehto.",
+    "servings": 10,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "2 rkl oliiviöljyä (tai muuta öljyä)",
+      "1 iso punainen, keltainen tai valkoinen sipuli, hienonnettuna",
+      "3 keskikokoista porkkanaa, hienoksi kuutioituna",
+      "¼ tl chilihiutaleita",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tlk (400 g) tomaattipaloja",
+      "1 laakerinlehti",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "4¾ dl linssejä, huuhdeltuina (450 g)",
+      "1,9 l vähäsuolaista kana- tai kasvislientä"
+    ],
+    "instructions": [
+      "Kuullota sipulit, porkkanat, chilihiutaleet ja valkosipuli öljyssä pehmeiksi.",
+      "Lisää tomaatit, laakerinlehti, suola ja pippuri ja sekoita hyvin.",
+      "Lisää huuhdellut linssit ja liemi ja hauduta, kunnes linssit ovat pehmeitä, noin 30 minuuttia.",
+      "Tarkista linssien kypsyys ajoittain.",
+      "Mausta halutessasi lisäsuolalla ja pippurilla."
+    ]
+  },
+  {
+    "id": "myplate-lentil-spaghetti-sauce",
+    "title": "Linssispagettikastike",
+    "description": "Täyttävä spagettikastike lempipastan päälle nopeaan, helppoon ja herkulliseen päivälliseen!",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["liha", "pasta", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "2½ dl sipulia, hienonnettuna",
+      "1 valkosipulinkynsi, murskattuna (tai ½ tl valkosipulijauhetta)",
+      "3½ dl keitettyjä linssejä, valutettuina",
+      "1 purkki (800 g) vähäsuolaista spagettikastiketta",
+      "keitettyä spagettia tarjoiluun"
+    ],
+    "instructions": [
+      "Ruskista liha isossa kattilassa.",
+      "Valuta.",
+      "Lisää sipuli ja valkosipuli valutettuun lihaan.",
+      "Kypsennä, kunnes sipulit ovat pehmeitä mutta eivät ruskeita.",
+      "Lisää keitetyt linssit ja spagettikastike ja kuumenna kiehuvaksi.",
+      "Laske lämpöä ja hauduta hiljalleen 15 minuuttia.",
+      "Tarjoile kastike kuuman keitetyn spagetin päällä."
+    ]
+  },
+  {
+    "id": "myplate-lentil-stew",
+    "title": "Linssi-tomaattipata",
+    "description": "Linssit, porkkanat ja tomaatit ovat maukas ja täyttävä yhdistelmä tässä helpossa padassa. Nauti sitrushedelmien kera.",
+    "servings": 10,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "2 tl oliiviöljyä (tai rypsiöljyä)",
+      "1 iso sipuli, hienonnettuna",
+      "1 tl valkosipulijauhetta",
+      "1 pkt (n. 450 g) pakastettuja porkkanaviipaleita",
+      "2½ dl kuivia linssejä, huuhdeltuina ja valutettuina",
+      "3 tlk (à 400 g) vähäsuolaisia tomaattipaloja",
+      "7 dl vettä",
+      "1 tl chilijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Lisää sipuli.",
+      "Kypsennä 3 minuuttia, kunnes pehmeää.",
+      "Sekoita joukkoon valkosipulijauhe, porkkanat, linssit, tomaatit, vesi ja chilijauhe.",
+      "Hauduta ilman kantta noin 20 minuuttia, kunnes linssit ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-lentil-tacos",
+    "title": "Linssitacot",
+    "description": "Linssit ja rusinat ovat yllättävä ja herkullinen kaksikko näissä makeissa ja suolaisissa tacoissa. Vihreä paprika lisää makua ja rakennetta. Nauti salaatin kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "meksikolainen", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "3½ dl kuivia linssejä, lajiteltuina ja huuhdeltuina",
+      "9½ dl vettä",
+      "½ vihreää paprikaa, pilkottuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "½ tl chilihiutaleita (valinnainen)",
+      "1 tl chilijauhetta",
+      "1 tl juustokuminaa",
+      "½ tl basilikaa",
+      "1½ dl vähäsuolaista tomaattipyreetä",
+      "½ dl rusinoita (valinnainen)",
+      "maissitortilloja tarjoiluun"
+    ],
+    "instructions": [
+      "Keitä linssejä 7 dl:ssa vettä 10 minuuttia.",
+      "Lisää loput ainekset ja hauduta 30 minuuttia.",
+      "Lisää tarvittaessa vettä.",
+      "Tarjoile maissitortillojen kanssa.",
+      "Voi tarjoilla myös riisin tai nuudeleiden päällä."
+    ]
+  },
+  {
+    "id": "myplate-lentil-vegetable-salad",
+    "title": "Linssi-kasvissalaatti",
+    "description": "Linssit, perunat, porkkanat ja herneet yhdistyvät mausteisiin ja oliiviöljyyn maukkaaksi lisukkeeksi. Sopii hyvin uuni- tai grillilihan, kalan tai tofun kanssa.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit", "peruna"],
+    "ingredients": [
+      "1¼ dl linssejä, huuhdeltuina",
+      "5 dl keitettyjä perunoita, viipaloituna (tai 1 tlk (425 g) vähäsuolaisia perunoita)",
+      "2½ dl pakasteherneitä",
+      "2 isoa porkkanaa, raastettuna",
+      "1 rkl persiljaa",
+      "2 rkl punaviinietikkaa",
+      "3 tl sinappia",
+      "½ dl oliiviöljyä"
+    ],
+    "instructions": [
+      "Kuumenna 2½ dl vettä kattilassa kiehuvaksi.",
+      "Lisää linssit.",
+      "Keitä miedolla lämmöllä 20 minuuttia pehmeiksi ja valuta.",
+      "Keitä herneitä toisessa kattilassa 3 minuuttia.",
+      "Ota sitten liedeltä.",
+      "Huuhtele ja valuta herneet.",
+      "Pese, kuori ja raasta porkkanat.",
+      "Laita keitetyt linssit, viipaloidut perunat, herneet ja raastetut porkkanat kulhoon.",
+      "Laita persilja, etikka, sinappi ja oliiviöljy toiseen kulhoon.",
+      "Sekoita hyvin.",
+      "Kaada kastike linssi-kasvissalaatin päälle."
+    ]
+  },
+  {
+    "id": "myplate-lentil-vegetable-soup",
+    "title": "Linssi-kasviskeitto",
+    "description": "Nauti tästä runsaasta kasvis-linssikeitosta, jossa on linssejä, selleriä, sipulia ja tomaattikastiketta, kylmänä talvi-iltana.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "palkokasvit", "talvi"],
+    "ingredients": [
+      "2½ dl kuivia linssejä",
+      "12 dl vettä",
+      "2 rkl rypsiöljyä",
+      "1 rkl sipulia, hienonnettuna",
+      "2½ dl vähäsuolaista tomaattikastiketta tai tomaattisosetta",
+      "½ tl valkosipulijauhetta (tai 1 valkosipulinkynsi)",
+      "1 tl suolaa",
+      "¼ tl mustapippuria",
+      "1 laakerinlehti",
+      "1 varsiselleri, pilkottuna",
+      "2 rkl etikkaa"
+    ],
+    "instructions": [
+      "Lajittele linssit.",
+      "Laita linssit syvään kattilaan veden kanssa.",
+      "Kuumenna kiehuvaksi ja lisää kaikki ainekset paitsi etikka.",
+      "Laske lämpöä ja peitä.",
+      "Keitä hitaasti tunti ja lisää tarvittaessa vettä.",
+      "Lisää etikka.",
+      "Poista valkosipulinkynsi ja laakerinlehti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-lickety-split-banana-split",
+    "title": "Pikabanaanisplitti",
+    "description": "Hauska ja lapsiystävällinen aamiainen on terveellinen tulkinta jäätelöklassikosta.",
+    "servings": 1,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "banaani", "jogurtti", "lapsille"],
+    "ingredients": [
+      "1 banaani",
+      "1¼ dl rasvatonta mansikkajogurttia",
+      "1¼ dl täysjyvämuroja",
+      "½ dl siemenettömiä viinirypäleitä, halkaistuina",
+      "½ dl mansikoita, viipaloituna"
+    ],
+    "instructions": [
+      "Kuori banaani ja leikkaa pituussuunnassa kahtia.",
+      "Aseta banaani lautaselle.",
+      "Lisää banaanin päälle jogurtti ja ripottele päälle murot ja hedelmät."
+    ]
+  },
+  {
+    "id": "myplate-light-feather-whole-wheat-pancakes",
+    "title": "Kevyet täysjyväpannukakut",
+    "description": "Täysjyvän lisääminen ruokavalioon on helppoa tällä herkullisella pannukakkuohjeella.",
+    "servings": 12,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kananmuna", "täysjyvä", "arkiruoka"],
+    "ingredients": [
+      "3¼ dl täysjyvävehnäjauhoja",
+      "1½ tl leivinjauhetta",
+      "¼ tl suolaa",
+      "¼ tl ruokasoodaa",
+      "1 kananmuna",
+      "1 rkl fariinisokeria",
+      "3¼ dl vähärasvaista piimää",
+      "1 rkl öljyä",
+      "öljyä tai paistosprayta paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna paistolevy tai pannu.",
+      "Sekoita tai siivilöi kuivat aineet keskikokoisessa kulhossa.",
+      "Vatkaa toisessa kulhossa yhteen muna, piimä, fariinisokeri ja öljy.",
+      "Sekoita kuivien aineiden joukkoon vain sen verran, että ainekset kostuvat; taikinan tulee olla hieman paakkuista.",
+      "Kaada ½ dl taikinaa jokaista pannukakkua varten voidellulle kuumalle paistolevylle.",
+      "Käännä pannukakku, kun pintaan ilmestyy kuplia; käännä vain kerran."
+    ]
+  },
+  {
+    "id": "myplate-lime-marinated-flank-steak-stuffed-poblano-peppers",
+    "title": "Limemarinoitu naudan paisti ja täytetyt poblano-paprikat",
+    "description": "Yksinkertaisesti marinoitu vähärasvainen naudanliha grillataan poblano-paprikoiden kanssa, jotka on täytetty täysjyvä-ruskealla riisillä, mustilla pavuilla ja tomaateilla. Maukas, täydellinen ateria grillissä tai pannulla.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "meksikolainen", "riisi"],
+    "ingredients": [
+      "700 g naudan flank-paistia (tai muuta ohutta pihvilihaa)",
+      "1½ tlk (à 400 g) tomaattipaloja ja vihreitä chilejä",
+      "1¾ dl tuoretta korianteria, hienonnettuna, jaettuna",
+      "¾ dl tuoretta limemehua marinadiin",
+      "2 rkl oliiviöljyä marinadiin",
+      "5 dl keitettyä ruskeaa riisiä",
+      "1 tlk (400 g) vähäsuolaisia mustapapuja, valutettuina ja huuhdeltuina",
+      "6 keskikokoista poblano-chilipippuria (n. 10 cm pitkiä)",
+      "suolaa",
+      "pippuria",
+      "Tarjoiluun (valinnainen):",
+      "paahdettuja kurpitsansiemeniä",
+      "limelohkoja",
+      "murennettua queso frescoa"
+    ],
+    "instructions": [
+      "Valuta tomaatit ja säästä neste marinadia varten.",
+      "Laita tomaatit ja chilit sivuun.",
+      "Sekoita keskikokoisessa kulhossa tomaattineste, ½ dl:aa korianteria, limemehu ja oliiviöljy.",
+      "Peitä ja ota ¾ dl marinadia sivuun riisiä varten.",
+      "Laita liha ja loppu marinadi muovipussiin ja käännä, kunnes liha on peittynyt.",
+      "Sulje pussi tiiviisti ja marinoi jääkaapissa 6 tuntia tai yön yli ja käännä silloin tällöin.",
+      "Sekoita keskikokoisessa kulhossa riisi, sivuun otettu ¾ dl marinadia, tomaatit, mustapavut ja loppu korianteri.",
+      "Mausta suolalla ja pippurilla.",
+      "Laita sivuun.",
+      "Vinkki: riisin voi korvata 5 dl:lla tähderiisiä tai pakkauksella (250 g) valmista täysjyväriisiä.",
+      "Leikkaa jokaiseen poblano-paprikaan viilto pituussuunnassa yhdelle sivulle taskun tekemiseksi niin, että varsi ja kärki jäävät ehjiksi.",
+      "Tee toinen pieni poikittaisviilto juuri varren alapuolelle T:n muotoisen aukon muodostamiseksi.",
+      "Poista siemenet ja kalvot varoen, jotta paprikat pysyvät ehjinä.",
+      "Lusikoi riisiseos tasaisesti paprikoihin.",
+      "Kääri jokainen tiiviisti alumiinifoliolla.",
+      "Nosta liha marinadista ja heitä marinadi pois.",
+      "Aseta liha grillin keskelle keskikuumien hiilien päälle ja asettele paprikat lihan ympärille.",
+      "Grillaa lihaa kansi kiinni 11–16 minuuttia (kaasugrillissä keskilämmöllä 16–21 minuuttia) medium rare- tai medium-kypsyyteen ja käännä silloin tällöin.",
+      "Grillaa paprikoita kansi kiinni 25–30 minuuttia (kaasugrillissä 20–25 minuuttia), kunnes paprikat ovat pehmeitä ja täyte kuumaa, ja käännä silloin tällöin.",
+      "Leikkaa liha viistosti syitä vasten ohuiksi viipaleiksi.",
+      "Poista paprikat foliosta.",
+      "Tarjoile paprikat lihan ja halutessasi lisukkeiden kanssa."
+    ]
+  },
+  {
+    "id": "myplate-lite-fried-okra",
+    "title": "Kevyt paistettu okra",
+    "description": "Kokeile tätä terveellisempää versiota soul food -suosikista.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "okra", "kasvikset", "amerikkalainen"],
+    "ingredients": [
+      "4¾ dl tuoretta okraa, viipaloituna",
+      "¾ tl rypsiöljyä",
+      "ripaus suolaa",
+      "ripaus mustapippuria",
+      "paistosprayta tarvittaessa"
+    ],
+    "instructions": [
+      "Sekoita kulhossa okra, öljy, suola ja pippuri.",
+      "Voitele iso paistinpannu.",
+      "Kuumenna keskilämmöllä ja lisää okraseos. Käännä usein puulastalla tai lastalla.",
+      "Kypsennä, kunnes okra on ruskeaa, noin 10 minuuttia.",
+      "Tarjoile tulisen kastikkeen tai suosikkikastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-lite-italian-dressing",
+    "title": "Kevyt italialainen salaatinkastike",
+    "description": "Omien salaatinkastikkeiden tekeminen on helppo tapa lisätä tuoretta kotitekoista makua. Kokeile tätä jo tänään!",
+    "servings": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "nopea", "italialainen"],
+    "ingredients": [
+      "½ tl valkosipulijauhetta (tai 1 tuore valkosipulinkynsi, hienonnettuna)",
+      "1 tl italialaista yrttisekoitusta",
+      "1 rkl parmesaania",
+      "¼ tl mustapippuria",
+      "½ tl sellerisuolaa",
+      "1¼ dl etikkaa",
+      "½ dl rypsiöljyä",
+      "1¼ dl vettä"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset puolen litran purkkiin, jossa on tiivis kansi.",
+      "Ravista voimakkaasti, jotta ainekset sekoittuvat.",
+      "Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-louisiana-green-beans",
+    "title": "Louisianan vihreät pavut",
+    "description": "Piristä säilykepavut paprikalla, sipulilla ja tomaateilla!",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvikset", "papu", "nopea"],
+    "ingredients": [
+      "½ dl sipulia, hienonnettuna",
+      "½ dl vihreää paprikaa, hienonnettuna",
+      "1¼ dl varsiselleriä, hienonnettuna",
+      "2 tlk (à 400 g) vähäsuolaisia vihreitä papuja, valutettuina",
+      "1 tlk (400 g) vähäsuolaisia tomaatteja"
+    ],
+    "instructions": [
+      "Kuori ja pilko sipuli.",
+      "Pilko paprika ja selleri.",
+      "Valuta pavuista neste.",
+      "Huuhtele vedellä.",
+      "Laita pavut kattilaan.",
+      "Lisää sen verran vettä, että pavut peittyvät, ja kypsennä miedolla lämmöllä pehmeiksi.",
+      "Valuta sitten vesi pois.",
+      "Laita kaikki ainekset pannulle.",
+      "Kypsennä keskilämmöllä 15 minuuttia, kunnes selleri on pehmeää ja ruoka kuumaa."
+    ]
+  }
+]

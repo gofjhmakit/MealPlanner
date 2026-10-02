@@ -3,9 +3,9 @@ import { Download, ExternalLink, RefreshCw, Trash2, Upload } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import { loadFineliData } from '../../db/bootstrap'
 import { db, getSetting } from '../../db/db'
-import type { OpenRecipesIndex } from '../../db/openRecipes'
+import { syncOpenRecipes, type OpenRecipesIndex } from '../../db/openRecipes'
 import { exportData, importData, parseExportFile } from '../../db/exportImport'
-import { deleteUserMapping, saveUserSettings } from '../../db/repo'
+import { deleteUserMapping, matchContext, saveUserSettings } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
 import type { NutritionTargets, UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
@@ -91,8 +91,11 @@ export function SettingsPage() {
   async function reloadFineli() {
     setReloading(true)
     try {
-      await loadFineliData(db, fetch.bind(globalThis), () => {}, true)
-      toast('Fineli-aineisto ladattu uudelleen – päivitä sivu')
+      const fetchImpl = fetch.bind(globalThis)
+      await loadFineliData(db, fetchImpl, () => {}, true)
+      const open = await syncOpenRecipes(db, fetchImpl, await matchContext(fineli), () => {}, true)
+      const count = open?.sources.reduce((s, x) => s + x.count, 0) ?? 0
+      toast(`Ravintotiedot${count ? ` ja ${count.toLocaleString('fi-FI')} katalogireseptiä` : ''} ladattu uudelleen – päivitä sivu`)
     } catch (e) {
       toast((e as Error).message, 'error')
     }
@@ -197,7 +200,7 @@ export function SettingsPage() {
             <dd>{fineli.meta?.license ?? 'CC BY 4.0'}</dd>
           </dl>
           <p className="mt-3 text-xs text-muted">{fineli.meta?.attribution ?? 'Fineli – Terveyden ja hyvinvoinnin laitos (THL)'}. THL ei vastaa tietojen tulkinnasta. Ravintoarvot ovat arvioita.</p>
-          <Button variant="secondary" size="sm" className="mt-3" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa aineisto uudelleen</Button>
+          <Button variant="secondary" size="sm" className="mt-3" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa ravintotiedot ja katalogireseptit uudelleen</Button>
         </Card>
 
         <OpenRecipeSources />

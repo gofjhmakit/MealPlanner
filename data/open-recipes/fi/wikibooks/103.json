@@ -1,0 +1,554 @@
+[
+  {
+    "id": "wikibooks-percolator-punch",
+    "title": "Kuuma mausteinen mehujuoma (percolator punch)",
+    "description": "Ananas- ja karpalomehusta valmistettu kuuma mausteinen juoma, joka perinteisesti valmistetaan kahvin suodatinpannussa (percolator).",
+    "servings": 10,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "kasvis", "juoma", "kuuma", "juhla"],
+    "ingredients": [
+      "5,4 dl ananasmehua",
+      "4,8 dl karpalomehua",
+      "4,2 dl vettä",
+      "¼ tl suolaa",
+      "1,2 dl fariinisokeria",
+      "1 rkl maustenegilikkaa",
+      "1 rkl maustepippuria",
+      "3 kanelitankoa"
+    ],
+    "instructions": [
+      "Laita ananasmehu, karpalomehu, vesi ja suola percolatorin alaosaan.",
+      "Laita fariinisokeri, neilikat, maustepippuri ja kaneli ylempään koriin.",
+      "Kuumenna 10 minuuttia.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Ilman percolatoria: kuumenna kaikki ainekset kattilassa miedolla lämmöllä 10 minuuttia ja siivilöi mausteet pois."]
+  },
+  {
+    "id": "wikibooks-peri-peri-chicken",
+    "title": "Peri-peri-kana",
+    "description": "Tulinen afrikkalaistyylinen uunikana paprika-chilimarinadissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "afrikkalainen", "uuniruoka", "tulinen"],
+    "ingredients": [
+      "2 pientä punaista paprikaa",
+      "5 pientä bird's eye -chiliä (säädä maun mukaan)",
+      "5 valkosipulinkynttä",
+      "1 sipuli",
+      "2 rkl kuivattua timjamia",
+      "2 rkl mustapippuria",
+      "3 tl suolaa tai maun mukaan",
+      "3 rkl paprikajauhetta",
+      "1,2 dl etikkaa",
+      "1 sitruunan mehu",
+      "1,8 dl oliiviöljyä",
+      "2 kanaliemikuutiota, murskattuina",
+      "1,1 kg broilerin koipipaloja"
+    ],
+    "instructions": [
+      "Soseuta paprika, chilit, valkosipuli, sipuli, timjami, pippuri, suola, paprikajauhe, etikka, sitruunamehu, oliiviöljy ja liemikuutiot marinadiksi.",
+      "Kaada marinadi broilerin päälle isossa kulhossa. Hiero marinadi käsin lihaan, peitä kulho ja anna maustua jääkaapissa vähintään 1 tunti ja enintään yön yli.",
+      "Aseta broileri uunivuokaan ja kaada marinadi päälle.",
+      "Paista esilämmitetyssä 175 asteen uunissa 30 minuuttia ja valele silloin tällöin. Käännä broileri ja paista vielä 30 minuuttia.",
+      "Kytke uunin grillivastus päälle ja grillaa 3–5 minuuttia pinnan ruskistamiseksi.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Käytä kertakäyttökäsineitä, jos kätesi ovat herkät chilille.", "Kanan voi kypsentää myös grillissä."]
+  },
+  {
+    "id": "wikibooks-persian-apple-dessert",
+    "title": "Persialainen omenajälkiruoka",
+    "description": "Raaka omenasose ruusuvedellä, sitruunalla ja hieman sokerilla.",
+    "servings": 3,
+    "totalTimeMin": 10,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "kasvis", "persialainen", "omena", "nopea"],
+    "ingredients": [
+      "3 omenaa, kuorittuna ja pilkottuna",
+      "2–3 rkl sokeria",
+      "2 rkl sitruunamehua",
+      "1 rkl ruusuvettä tai appelsiininkukkavettä",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Laita puolet omenoista ja loput ainekset tehosekoittimeen.",
+      "Peitä ja sekoita karkeaksi, 20–30 sekuntia.",
+      "Lisää loput omenat ja sekoita karkeaksi."
+    ]
+  },
+  {
+    "id": "wikibooks-persian-rice-with-pistachio-sauce",
+    "title": "Persialainen riisi pistaasikastikkeella",
+    "description": "Ruskeaa basmatiriisiä korinttien, paistettujen kasvisten ja soijamaitopohjaisen pistaasikastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "persialainen", "riisi"],
+    "ingredients": [
+      "3,6 dl ruskeaa basmatiriisiä",
+      "9 dl vettä",
+      "1½ tl suolaa",
+      "¾ dl korinttia",
+      "paistettuja kasviksia tarpeen mukaan",
+      "Pistaasikastike:",
+      "2,4 dl raakoja suolattomia jauhettuja pistaasipähkinöitä",
+      "7 dl makeuttamatonta soijajuomaa",
+      "1¼ tl suolaa",
+      "vastajauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna soijajuoma kattilassa ja hauduta sekoittaen pistaasit joukkoon, kunnes seos sakenee.",
+      "Mausta suolalla ja pippurilla.",
+      "Keitä riisi veden ja suolan kanssa. Lisää korintit, kun riisi on lähes kypsää.",
+      "Aseta riisi kasaksi lautasille jättäen reunaan noin 2,5 cm:n tyhjä kaistale.",
+      "Lisää päälle paistetut kasvikset.",
+      "Kaada päälle pistaasikastiketta.",
+      "Koristele hienonnetuilla pistaaseilla ja korinteilla.",
+      "Tarjoa loput kastikkeesta kastikekulhossa pöytään."
+    ]
+  },
+  {
+    "id": "wikibooks-peruvian-molded-rice-arroz-tapado",
+    "title": "Arroz tapado – perulainen riisikupu jauhelihalla",
+    "description": "Perulainen lasten suosikki: riisi muotoillaan kupin avulla ja sen sisään piilotetaan rusinoilla ja oliiveilla maustettu jauheliha.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "perulainen", "riisi"],
+    "ingredients": [
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "muutama tippa sitruunamehua",
+      "suolaa",
+      "1 l vettä",
+      "450 g pestyä riisiä",
+      "1 sipuli, hienonnettuna",
+      "900 g naudan jauhelihaa",
+      "2 tomaattia, hienonnettuna",
+      "1 rkl tomaattipyreetä",
+      "4 rkl rusinoita",
+      "5 mustaa oliivia, hienonnettuna",
+      "3 kovaksi keitettyä munaa; 2 hienonnettuna, 1 kokonaisena",
+      "1 rkl hienonnettua persiljaa",
+      "öljyä kupin voiteluun"
+    ],
+    "instructions": [
+      "Kuullota valkosipuli öljyssä, lisää muutama tippa sitruunamehua, suola ja vesi ja kuumenna kiehuvaksi.",
+      "Lisää riisi ja keitä pehmeäksi, 20–25 minuuttia.",
+      "Kuullota toisessa pannussa sipuli.",
+      "Lisää liha, tomaatit, tomaattipyree, rusinat, oliivit, hienonnetut munat ja persilja.",
+      "Voitele 2,4 dl:n mitta-astia hieman öljyllä. Täytä puoliksi riisillä, lisää lihatäytettä ja lisää päälle riisiä. Käännä lautaselle ja irrota astia varovasti.",
+      "Leikkaa jäljellä oleva muna puoliksi ja tarjoa puolikkaat arroz tapadon vieressä."
+    ],
+    "notes": ["Kevyempi versio: käytä vain keitettyjen munien valkuaiset ja vähärasvaista jauhelihaa."]
+  },
+  {
+    "id": "wikibooks-pesto-i",
+    "title": "Pesto alla genovese",
+    "description": "Genovalainen basilikakastike, jota käytetään pastan, lihan ja leivän kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "italialainen", "pesto", "kastike"],
+    "ingredients": [
+      "100 g tuoretta basilikaa",
+      "n. 200 g (2,5 dl) extra virgin -oliiviöljyä",
+      "¾ dl vastaraastettua pecorino romanoa tai parmigiano reggianoa tai niiden seosta",
+      "½ dl pinjansiemeniä tai muuta pähkinää (valinnainen)",
+      "4 valkosipulinkynttä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Jos käytät pinjansiemeniä, paahda ne uunin kestävässä pannussa 10–15 minuuttia ja tarkista 5 minuutin välein, ettei ne ruskistu liikaa.",
+      "Kuumenna pienessä pannussa 2 rkl oliiviöljyä keskilämmöllä.",
+      "Murskaa valkosipuli ja kuullota öljyssä pehmeäksi, noin 2–3 minuuttia.",
+      "Yhdistä basilika, valkosipuli, juusto, pinjansiemenet ja öljy huhmareessa sileäksi tahnaksi tai hienonna monitoimikoneessa tai tehosekoittimessa lisäten öljyä vähitellen tahnaksi."
+    ],
+    "notes": [
+      "Pestoa voi käyttää heti tai peittää ohuella oliiviöljykerroksella ja säilyttää ilmatiiviissä rasiassa jääkaapissa viikon, pakastettuna useita kuukausia.",
+      "Juuston voi jättää pois pidemmän säilyvyyden vuoksi ja lisätä käyttöhetkellä."
+    ]
+  },
+  { "id": "wikibooks-pesto-ii", "skip": "liian puutteellinen (määrät puuttuvat)" },
+  { "id": "wikibooks-pezzetti-di-cavallo-italian-horse-and-tomato", "skip": "hevosenliha ei sovellu tavalliseen kotiruokaan (ohje liian epätarkka)" },
+  {
+    "id": "wikibooks-philly-cheesesteak",
+    "title": "Philly cheesesteak",
+    "description": "Philadelphialainen pihvisämpylä: ohuiksi viipaloitu naudan sisäfile, paistettu sipuli ja sulatettu juusto pitkässä sämpylässä.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "amerikkalainen", "voileipä"],
+    "ingredients": [
+      "450 g naudan sisäfileetä, litistettynä",
+      "oliiviöljyä",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "1 pieni sipuli, ohuiksi suikaleiksi",
+      "3 pitkää sämpylää (hoagie), melkein puolitettuina",
+      "juustoviipaleita, revittyinä"
+    ],
+    "instructions": [
+      "Valuta filepihville oliiviöljyä ja mausta suolalla ja pippurilla. Ruskista valurautapannulla keskilämmöllä 6 minuuttia per puoli. Ota pois ja anna levätä 7 minuuttia ennen suupalaviipaloiksi leikkaamista. Pidä lämpimänä.",
+      "Pyörittele sipuli vähässä oliiviöljyssä ja kuullota samassa pannussa reunoilta kevyesti ruskeaksi.",
+      "Tarjoa asettamalla iso kauhallinen lihaa sämpylään. Lisää päälle sipuli ja revitty juusto."
+    ]
+  },
+  {
+    "id": "wikibooks-philosophers-stew",
+    "title": "Filosoof – hollantilainen peruna-lihavuoka",
+    "description": "Hollantilainen uunivuoka kylmästä haudutetusta naudanlihasta, perunasta, sipulista ja omenasoseesta.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "uuniruoka", "hollantilainen", "peruna"],
+    "ingredients": [
+      "300–400 g kylmää haudutettua naudanlihaa",
+      "40 g rasvaa (kylmää paistinfondia tai voita)",
+      "4 isoa sipulia, ohuiksi renkaiksi",
+      "800 g keitettyjä perunoita, 4 mm:n viipaleiksi",
+      "suolaa",
+      "mustapippuria",
+      "muskottipähkinää",
+      "3,5 dl kevyttä lihakastiketta (rasva poistettuna)",
+      "4 rkl murskattua kuivahtanutta vaaleaa leipää",
+      "voinokareita",
+      "omenasosetta tarjoiluun"
+    ],
+    "instructions": [
+      "Leikkaa liha pieniksi paloiksi (noin 5 mm).",
+      "Kuumenna paistorasva tai voi pannussa. Paista sipulit kullanruskeiksi. Aseta sivuun.",
+      "Kerrosta uunivuokaan perunat, liha ja sipuli. Mausta jokainen perunakerros suolalla, pippurilla ja muskotilla. Päällimmäisenä on perunakerros.",
+      "Kaada kastike päällimmäisen kerroksen päälle ja ripottele päälle leipämuru.",
+      "Laita siellä täällä voinokareita.",
+      "Kuumenna uuni 200 asteeseen. Paista noin 30 minuuttia.",
+      "Tarjoa heti omenasoseen kanssa."
+    ],
+    "notes": ["Maku paranee, jos vuoka saa levätä jääkaapissa ennen uuniin laittamista."]
+  },
+  { "id": "wikibooks-phulourie-split-pea-fritters", "skip": "epäselvät määrät (joko herneet tai jauho)" },
+  {
+    "id": "wikibooks-ph-b-vietnamese-beef-noodle-soup",
+    "title": "Phở bò – vietnamilainen naudanlihanuudelikeitto",
+    "description": "Vietnamin kansallisruokiin kuuluva keitto, jonka sydän on mausteinen, tuntikausia hauduteltu luuliemi, riisinuudelit ja raa'at naudanviipaleet.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 480,
+    "category": "Keitot",
+    "tags": ["liha", "naudanliha", "keitto", "vietnamilainen", "nuudeli"],
+    "ingredients": [
+      "Liemi:",
+      "2 isoa sipulia, neljään osaan leikattuna",
+      "1 rkl rypsiöljyä",
+      "2,3 kg naudan luita (joissa vähän lihaa)",
+      "1 pieni pala inkivääriä, hienonnettuna",
+      "1 pieni kanelitanko",
+      "2 kardemummapalkoa",
+      "4 maustenegilikkaa",
+      "1 tähtianis",
+      "1 rkl mustapippurin jyviä",
+      "Tarjoiluun:",
+      "400 g phở-riisinuudeleita (ohuita, litteitä), liotettuna kuumassa vedessä pehmeiksi ja valutettuna",
+      "400 g naudan ulkofileetä, ohuiksi viipaleiksi leikattuna",
+      "1 valkosipuli, ohuiksi viipaleiksi",
+      "kevätsipulia, ohuiksi viipaleiksi",
+      "tuoretta korianteria, hienonnettuna",
+      "kokonaisia chilejä",
+      "soijanituja",
+      "limettilohkoja",
+      "thaibasilikaa",
+      "kalakastiketta",
+      "tulista kastiketta",
+      "hoisin-kastiketta",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Paista sipulit öljyssä kevyesti ruskeiksi. Nosta pois ja valuta.",
+      "Huuhtele luut, laita liemikattilaan, peitä kylmällä vedellä ja kuumenna hitaasti kiehuvaksi. Laske lämpö ja hauduta kansi auki 10–15 minuuttia. Kuori vaahto pois kirkasta lientä varten.",
+      "Lisää keitetyt sipulit, inkivääri, kaneli, kardemumma, tähtianis, neilikat ja pippurinjyvät. Kuumenna kiehuvaksi ja hauduta hiljaa osittain peitettynä vähintään 6 tuntia, mielellään jopa 12 tuntia, kuoriden säännöllisesti vaahtoa. Lisää tarvittaessa vettä, jotta luut pysyvät peitettyinä.",
+      "Siivilöi liemi kasvisten ja mausteiden poistamiseksi ja hävitä ne. Palauta liemi liedelle pitämään sitä kiehuvan kuumana.",
+      "Laita isoon keittokulhoon kourallinen keitettyjä nuudeleita, lisää päälle ohuiksi viipaloitu raaka naudanliha ja kaada päälle runsaasti kiehuvan kuumaa lientä, joka kypsentää lihan. Koristele sipuli-, kevätsipuli- ja korianterisilpulla ja tarjoa heti."
+    ],
+    "notes": ["Aseta lisukkeet isolle tarjoiluvadille. Basilikaa, limettiä ja soijanituja on tapana lisätä keittoon. Kastikkeet voi lisätä suoraan keittoon tai pieneen kulhoon dippaamista varten."]
+  },
+  {
+    "id": "wikibooks-ph-g-vietnamese-chicken-noodle-soup",
+    "title": "Phở gà – vietnamilainen kananuudelikeitto",
+    "description": "Vietnamilainen kananuudelikeitto, jonka maku on monipuolinen mutta tekniikka yksinkertainen.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "vietnamilainen", "nuudeli"],
+    "ingredients": [
+      "Mausteet:",
+      "1 tl fenkolinsiemeniä",
+      "1 tl pippurinjyviä",
+      "3 tähtianista",
+      "1–2 kuivattua kardemummapalkoa",
+      "½ kanelitanko",
+      "3 maustenegilikkaa",
+      "Keitto:",
+      "1 pieni tai keskikokoinen broileri (kokonainen)",
+      "2,8 l kanalientä",
+      "3–4 viipaletta tuoretta inkivääriä",
+      "1 sipuli, kuorittuna",
+      "1 rkl suolaa tai maun mukaan",
+      "kalakastiketta maun mukaan",
+      "Tarjoiluun:",
+      "300 g phở-riisinuudeleita (bánh phở)",
+      "hienonnettua korianteria ja kevätsipulia",
+      "muutama tuore basilikanlehti, revittynä",
+      "tuoreita soijanituja",
+      "ohuesti viipaloitua sipulia",
+      "hoisin-kastiketta (1 tl per annos)",
+      "limettiä (puristetaan liemeen)",
+      "jalapeñoja tai muita chilejä",
+      "sriracha-kastiketta",
+      "lisää kalakastiketta"
+    ],
+    "instructions": [
+      "Laita mausteet pieneen siivilään tai harsopussiin ja sido narulla.",
+      "Keitä isossa kattilassa keiton ainekset ja maustepussi, kunnes broileri on kypsää.",
+      "Ota broileri pois ja siivilöi liemi takaisin kattilaan haudutettavaksi. Kun broileri on jäähtynyt, revi liha suupalan kokoisiksi paloiksi ja hävitä luut.",
+      "Keitä erillisessä kattilassa riisinuudelit runsaassa vedessä. Lopeta, kun nuudelit eivät ole enää sitkeitä (kuten spagetti). Älä keitä liikaa, ettei nuudelit hajoa puuroksi. Kaada nuudelit siivilään ja huuhtele haalealla vedellä. Anna valua.",
+      "Laita nuudelit kulhoon, lisää broilerinliha, tarjoiluainekset ja sen verran lientä, että nuudelit peittyvät."
+    ],
+    "notes": ["Ainekset löytyvät aasialaisista kaupoista ja isoista marketeista."]
+  },
+  {
+    "id": "wikibooks-piadina-thin-italian-flatbread",
+    "title": "Piadina – ohut italialainen lättyleipä",
+    "description": "Pannulla kuivana paistettu ohut italialainen lättyleipä, johon voi täyttää mitä haluaa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "italialainen", "lättyleipä"],
+    "ingredients": [
+      "340 g vehnäjauhoja",
+      "½ tl suolaa",
+      "¾ tl leivinjauhetta (valinnainen)",
+      "2 rkl rypsiöljyä",
+      "1,2–1,8 dl vettä"
+    ],
+    "instructions": [
+      "Pulssaa jauhot, leivinjauhe ja suola monitoimikoneessa sekaisin.",
+      "Lisää öljy ja pulssaa muutaman kerran.",
+      "Käynnistä kone ja lisää vettä vähitellen, kunnes taikina kokoontuu.",
+      "Nosta taikina hyvin jauhotetulle työtasolle ja vaivaa muutaman kerran pyöreäksi palloksi lisäten jauhoja tarpeen mukaan.",
+      "Jaa taikina neljään osaan ja muotoile kustakin tiukka pallo.",
+      "Peitä kelmulla ja anna levätä 30 minuuttia.",
+      "Kauli kukin pala 23 cm:n ympyräksi.",
+      "Kuumenna kuiva 25 cm:n valurautapannu, kunnes vesipisara sihisee ja haihtuu.",
+      "Pistele yksi levy haarukalla kuplien estämiseksi.",
+      "Paista levyä kuivalla pannulla, kunnes pohjassa on muutama ruskea laikku, 1½–2 minuuttia. Pidä haarukka valmiina kuplien puhkaisuun.",
+      "Käännä ja paista toinen puoli samoin.",
+      "Nosta lämpimälle lautaselle ja taita varovasti kahtia. Peitä pitääksesi lämpimänä.",
+      "Toista muille levyille.",
+      "Täytä haluamillasi täytteillä ja nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-picadillo-beef-with-potatoes-and-tomatoes",
+    "title": "Picadillo – jauheliha-perunapata",
+    "description": "Meksikolainen jauheliha, peruna ja tomaatti, joka sopii myös tacojen täytteeksi.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "meksikolainen", "pata"],
+    "ingredients": [
+      "450–625 g naudan jauhelihaa",
+      "1 iso sipuli, hienonnettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "8,5 dl naudanlihalientä",
+      "1 iso vihreä paprika, siemenet poistettuna ja hienonnettuna",
+      "3 isoa jauhoista perunaa, suupalan kokoisiksi kuutioituna",
+      "1 tlk (410 g) tomaattimurskaa",
+      "2 rkl öljyä",
+      "⅛ tl suolaa",
+      "1 tl chilijauhetta",
+      "mustapippuria, juustokuminaa, oreganoa ja valkosipulijauhetta maun mukaan (yht. n. 2–2½ rkl)"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paksupohjaisessa pannussa keskikorkealla lämmöllä. Laita kuumaan öljyyn sipuli, valkosipuli, paprika ja mausteet.",
+      "Kun paprika alkaa värjäytyä, lisää jauheliha ja sekoita isot palat rikki. Ruskista tasaisesti noin 7 minuuttia.",
+      "Lisää lihan ruskistuessa peruna, liemi ja tomaattimurska.",
+      "Hauduta, kunnes seos sakenee, silloin tällöin sekoittaen.",
+      "Tarjoa kuumana meksikolaisen riisin ja tortillojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-picante-peach-cobbler",
+    "title": "Picante-persikkacobbler",
+    "description": "Persikkapiirakka, jonka täytteessä on salsakastiketta, fariinisokeria ja kanelia.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "persikka", "amerikkalainen"],
+    "ingredients": [
+      "1 purkki (680 g) picante-salsakastiketta (mietoa tai keskitulista)",
+      "2,4 dl fariinisokeria, tiiviisti mitattuna",
+      "½ dl vehnäjauhoja",
+      "½ tl kanelia",
+      "1 ripaus suolaa",
+      "1 tlk (820 g) persikoita, valutettuna ja pilkottuna",
+      "1 valmis jääkaappipiirakkataikina (1 levy)"
+    ],
+    "instructions": [
+      "Sekoita salsa, fariinisokeri, jauhot, kaneli ja suola 3 litran kattilassa.",
+      "Kuumenna keskilämmöllä sekoittaen, kunnes seos kiehuu.",
+      "Laske lämpö pieneksi.",
+      "Kypsennä ja sekoita 2 minuuttia lisää, kunnes seos sakenee.",
+      "Sekoita joukkoon persikat. Ota pois liedeltä ja anna jäähtyä.",
+      "Kaada seos 23 cm:n syvään piirakkavuokaan.",
+      "Kuumenna uuni 200 asteeseen.",
+      "Anna piirakkataikinan seistä huoneenlämmössä 15 minuuttia, kunnes sitä on helppo käsitellä.",
+      "Aseta taikina varovasti täytteen päälle. Poimuta tai rullaa reunat kiinni.",
+      "Leikkaa taikinaan viiltoja veitsellä.",
+      "Paista 40 minuuttia, kunnes pinta on kullanruskea.",
+      "Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-pickert-german-potato-dumpling",
+    "title": "Pickert – saksalaiset perunahiivalätyt",
+    "description": "Lippen alueen perinneruoka, jossa raastettu peruna ja rusinat paistetaan taikinaksi rasvassa. Muistuttaa pannukakun ja klimpin välimuotoa.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "saksalainen", "peruna", "paistettu"],
+    "ingredients": [
+      "1 kg vehnäjauhoja",
+      "1 l maitoa",
+      "10 munaa",
+      "6 isoa perunaa, raastettuna",
+      "16 g tuoretta hiivaa",
+      "500 g rusinoita",
+      "1 rkl sokeria",
+      "1 rkl suolaa",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Laita hiiva hyvin isoon kulhoon tai kattilaan. Sekoita käsin joukkoon lämmin maito ja raastetut perunat.",
+      "Sekoita joukkoon jauhot ja munat ja sitten suola ja sokeri. Sekoita tasaiseksi taikinaksi. Se ei saa olla juoksevaa eikä kiinteää vaan pehmeän keksitaikinan kaltaista. Säädä maidolla tai jauhoilla.",
+      "Anna taikinan levätä 30 minuuttia.",
+      "Kuumenna paljon öljyä paistinpannussa miedolla lämmöllä.",
+      "Nostele kämmenen kokoisia taikinakasoja kuumaan öljyyn ja paista miedolla lämmöllä.",
+      "Tarjoa maksamakkaran, siirapin, luumuhillon tai voinokareen kanssa."
+    ],
+    "notes": ["Pfannenpickert: lisää taikinaan puoli kourallista rusinoita ja paista isompia (noin 15 cm) lättyjä."]
+  },
+  { "id": "wikibooks-pickled-green-mango-aavakaaya", "skip": "kuumentamaton säilöntä öljyssä ja suolassa, riski" },
+  {
+    "id": "wikibooks-pickled-herring",
+    "title": "Etikkasilakka (suolattu ja marinoitu silli)",
+    "description": "Suolaliemessä liotetut silakkafileet etikkaliemessä sitruunan, punasipulin ja mausteiden kanssa. Säilyy jääkaapissa kuukauden.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 65,
+    "category": "Säilykkeet",
+    "tags": ["kala", "silli", "säilyke", "juhla"],
+    "ingredients": [
+      "½ dl suolaa",
+      "11,8 dl vettä (jaettuna: 9,6 dl suolaliemeen, 2,4 dl etikkaliemeen)",
+      "450 g sillifileitä",
+      "4,8 dl etikkaa (tislattu tai valkoviinietikka)",
+      "½ dl sokeria",
+      "1 tl sinapinsiemeniä",
+      "2 tl maustepippurin jyviä",
+      "2 tl mustapippurin jyviä",
+      "3 laakerinlehteä",
+      "3 maustenegilikkaa",
+      "1 sitruuna, ohuiksi viipaleiksi, kuori poistettuna",
+      "1 punasipuli, ohuiksi viipaleiksi"
+    ],
+    "instructions": [
+      "Kuumenna 9,6 dl vettä, kunnes suola liukenee. Anna jäähtyä huoneenlämpöiseksi.",
+      "Upota sillifileet suolaliemeen ja laita jääkaappiin yön yli tai enintään 24 tunniksi.",
+      "Kuumenna sillä välin sokeri, etikka, loput 2,4 dl vettä ja kaikki mausteet kiehuvaksi. Hauduta 5 minuuttia, sammuta lämpö ja anna maustua jäähtymiseen asti.",
+      "Kun silli on suolautunut, kerrosta se lasipurkkiin sitruuna- ja punasipuliviipaleiden kanssa. Jaa mausteet purkkien kesken, jos käytät useita.",
+      "Kaada jäähtynyt etikkaliemi päälle ja sulje purkit. Odota vähintään päivä ennen syömistä. Säilytä jääkaapissa enintään 1 kuukausi."
+    ]
+  },
+  { "id": "wikibooks-pickled-oysters", "skip": "epävarma säilöntäohje (sata osteria, ei kunnollisia määriä ja säilöntätapaa)" },
+  {
+    "id": "wikibooks-pico-de-gallo",
+    "title": "Pico de gallo",
+    "description": "Tuore meksikolainen tomaattisalsa sipulista, korianterista, limetistä ja jalapeñosta. Ei kypsennetä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "meksikolainen", "salsa"],
+    "ingredients": [
+      "4,8 dl hienonnettuja tuoreita tomaatteja, siemenet poistettuna",
+      "1,2 dl hienonnettua sipulia",
+      "2 rkl hienonnettua korianteria",
+      "½ tl suolaa",
+      "2 tl vastapuristettua limettimehua",
+      "1 tl mustapippuria",
+      "1½ rkl hienonnettua jalapeñoa tai muuta chiliä, siemenet poistettuna",
+      "1 pieni valkosipulinkynsi, hienonnettuna",
+      "tulista kastiketta maun mukaan"
+    ],
+    "instructions": [
+      "Pese kasvikset ja korianteri.",
+      "Sekoita kasvikset hyvin.",
+      "Lisää suola, pippuri, chilit, limettimehu ja valkosipuli.",
+      "Lisää halutessasi tulista kastiketta.",
+      "Anna maustua 30 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-pie-floater",
+    "title": "Pie floater – lihapiirakka hernekeitossa",
+    "description": "Etelä-Australian katuruoka: ylösalaisin käännetty lihapiirakka hernekeitossa.",
+    "servings": 1,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "australialainen", "keitto", "nopea"],
+    "ingredients": ["1 valmis lihapiirakka", "1 tlk hernekeittoa"],
+    "instructions": [
+      "Kuumenna piirakka uunissa. Mikroaaltouuni ei toimi yhtä hyvin, sillä taikina ei silloin ole rapea.",
+      "Lämmitä hernekeitto erikseen.",
+      "Aseta piirakka ylösalaisin kulhoon ja kaada hernekeittoa ympärille, kunnes kulho on täynnä."
+    ]
+  },
+  { "id": "wikibooks-pierogi-i", "skip": "täytteen ohje puuttuu (viittaus erilliseen ohjeeseen)" },
+  { "id": "wikibooks-pierogi-ii", "skip": "täytteen ohje puuttuu (viittaus erilliseen ohjeeseen)" },
+  {
+    "id": "wikibooks-pigs-trotters-and-ginger-vinegar-stew",
+    "title": "Sianjalat ja inkivääri-etikkapata (kantonilainen)",
+    "description": "Kantonilainen perinneruoka, jota valmistettiin synnyttäneille äideille. Sianjalat, keitetyt munat ja inkivääri haudutetaan makeassa mustassa etikassa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["liha", "sianliha", "kiinalainen", "pata"],
+    "ingredients": [
+      "4 sianjalkaa",
+      "12 munaa",
+      "500 g tuoretta inkivääriä",
+      "suolaa",
+      "öljyä paistamiseen",
+      "makeaa mustaa kiinalaista etikkaa sen verran, että ainekset peittyvät"
+    ],
+    "instructions": [
+      "Keitä munat kovaksi, jäähdytä ja aseta sivuun.",
+      "Pese, kuori ja viipaloi inkivääri paksuiksi viipaleiksi, murskaa veitsen kyljellä.",
+      "Paista inkivääriä kovalla lämmöllä öljyssä ja suolassa noin 5 minuuttia. Aseta sivuun.",
+      "Poista sianjaloista karvat (polta avotulella ja kaavi pois veitsellä).",
+      "Kuumenna kattilassa vesi kiehuvaksi ja kuumenna sianjalkoja, kunnes nahka kiristyy ja väri muuttuu. Jäähdytä kylmällä vedellä ja anna valua.",
+      "Kun jalat ovat melkein kuivat (kuivaa liinalla), pilko ne ensin nivelten kohdalta ja sitten pituussuunnassa.",
+      "Hiero sianjalat hyvin suolalla ja kuumenna paistinpannu tai wokki. Ruskista jalat omassa rasvassaan.",
+      "Laita inkivääri ja sianjalat kattilaan (mieluiten saviastiaan) ja kaada päälle makea etikka. Kuumenna kiehuvaksi, laske lämpö ja hauduta noin 20 minuuttia.",
+      "Kuori munat ja lisää ne kattilaan. Hauduta vielä 10 minuuttia.",
+      "Ota pois liedeltä ja anna seistä vuorokausi. Lämmitä silloin tällöin miedolla lämmöllä kiehumispisteeseen ja anna jäähtyä uudelleen. Perinteisesti lämmitetään ja jäähdytetään kolme kertaa päivän aikana. Pata hyytyy hyytelöksi."
+    ],
+    "notes": ["Perinteisesti pata valmistetaan korkeassa lasitetussa saviastiassa, sillä etikka liuottaa metalleja rautakattilasta."]
+  }
+]
