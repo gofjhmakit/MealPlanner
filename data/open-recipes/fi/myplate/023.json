@@ -1,0 +1,645 @@
+[
+  {
+    "id": "myplate-meatloaf-mug",
+    "title": "Lihamureke mukissa",
+    "description": "Nauti maukas lihamureke käyttämättä uunia. Tämä annoksen kokoinen ateria valmistuu mikrossa.",
+    "servings": 1,
+    "category": "Pääruoat",
+    "tags": ["liha", "mikro", "nopea", "arkiruoka"],
+    "ingredients": [
+      "115 g naudan jauhelihaa (vähärasvaista)",
+      "2 rkl pikakaurahiutaleita",
+      "1 rkl ketsuppia",
+      "2 tl kevytmaitoa",
+      "1 tl kuivattua sipulisilppua",
+      "öljyä tai paistosprayta mukin voiteluun"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskenään.",
+      "Voitele mikrokestävä muki.",
+      "Painele lihaseos mukiin.",
+      "Tee keskelle pieni kuoppa aivan pohjaan asti.",
+      "Kuumenna mikrossa täydellä teholla (100 %) 3 minuuttia tai kunnes kypsää."
+    ]
+  },
+  {
+    "id": "myplate-meaty-stuffed-potatoes",
+    "title": "Lihatäytteiset uuniperunat",
+    "description": "Herkullinen resepti perunoille, jotka täytetään lihalla, kasviksilla ja juustolla. Nauti lisukkeena tai jälkiruoaksi suosikkihedelmiä.",
+    "servings": 3,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "peruna", "arkiruoka", "juusto"],
+    "ingredients": [
+      "3 keskikokoista perunaa",
+      "225 g kypsää kalkkunaa, kuutioituna (tai kypsää kanaa, naudanlihaa tai porsasta)",
+      "2½ dl parsakaalia, karkeasti pilkottuna",
+      "1¼ dl sipulia, pilkottuna",
+      "1¼ dl porkkanaa, ohuina viipaleina",
+      "1¾ dl kuumaa vettä",
+      "1¾ dl rasvatonta maitoa",
+      "1 rkl vehnäjauhoja",
+      "¼ tl mustapippuria",
+      "1¼ dl raastettua vähärasvaista juustoa",
+      "öljyä tai paistosprayta pannun voiteluun"
+    ],
+    "instructions": [
+      "Harjaa perunat.",
+      "Poista virheet.",
+      "Älä kuori.",
+      "Halkaise jokainen pituussuunnassa.",
+      "Keitä perunat kannellisessa kattilassa juuri sen verran vedessä, että palat peittyvät.",
+      "Kun ne ovat haarukalla pehmeitä (noin 15–20 minuuttia), ota liedeltä ja valuta.",
+      "Laita sivuun. (Vinkki: perunat voi kypsentää myös kokonaisina mikrossa ilman vettä: pistele ne monesta kohdasta, kypsennä pehmeiksi ja halkaise.)",
+      "Yhdistä sillä välin voidellulla isolla pannulla liha, parsakaali, sipuli, porkkanat ja vesi.",
+      "Keitä, kunnes kasvikset ovat pehmeitä, noin 5 minuuttia.",
+      "Laske lämpö pieneksi.",
+      "Sekoita tiiviskantisessa purkissa maito, jauho ja pippuri.",
+      "Ravista hyvin.",
+      "Sekoita jauhoseos liha-kasviseokseen tasaiseksi.",
+      "Lisää juusto.",
+      "Kypsennä miedolla lämmöllä vielä noin 5 minuuttia tai kunnes kastike sakenee, ja sekoita usein.",
+      "Aseta tarjoiltaessa 2 perunapuolikasta jokaiselle lautaselle ja muussaa keskiosaa hieman.",
+      "Lusikoi noin 0,8 dl liha-kasviseosta jokaisen perunapuolikkaan päälle. Peitä tähteet ja laita jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-mediterranean-chicken-and-white-bean-salad",
+    "title": "Välimerellinen kana-valkopapusalaatti",
+    "description": "Virkistävä salaatti kypsästä kanasta, valkoisista pavuista, kurkusta ja sipulista, jossa on roiske tuoretta sitruunamehua, öljyä ja mausteita. Kokeile myös tonnikalan ja pilkottujen tomaattien kanssa.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "palkokasvit", "välimerellinen"],
+    "ingredients": [
+      "2½ dl kypsää nahatonta kanaa, 1 cm:n paloiksi leikattuna",
+      "1 tlk (400 g) valkoisia papuja, valutettuina ja huuhdeltuina",
+      "1 kurkku, kuorittuna ja 1 cm:n paloiksi leikattuna",
+      "¼ punasipulia tai valkosipulia, 1 cm:n paloiksi pilkottuna",
+      "2 rkl rypsiöljyä",
+      "½ dl sitruunamehua",
+      "1 rkl kuivattua basilikaa tai persiljaa",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kulhoon ja sekoita varovasti.",
+      "Tarjoile heti tai peitä ja säilytä jääkaapissa enintään 2 päivää."
+    ]
+  },
+  {
+    "id": "myplate-mediterranean-roasted-eggplant-tomato-sauce",
+    "title": "Uunimunakoiso tomaattikastikkeella ja jogurtilla",
+    "description": "Hieno resepti kesälle, kun munakoiso on sesongissa. Lisää halutessasi päälle myllystä mustapippuria.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "munakoiso", "uuniruoka", "välimerellinen"],
+    "ingredients": [
+      "2 keskikokoista munakoisoa",
+      "öljyä tai paistosprayta pellin voiteluun",
+      "2½ dl pizza- tai spagettikastiketta",
+      "1¼ dl vähärasvaista maustamatonta jogurttia",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Pese munakoisot, poista varsipäät ja viipaloi 1 cm:n viipaleiksi.",
+      "Voitele uunipelti ja aseta munakoisot siihen yhteen kerrokseen.",
+      "Lusikoi jokaisen viipaleen päälle pizza- tai spagettikastiketta.",
+      "Paista 30 minuuttia kuumassa uunissa.",
+      "Sekoita jogurtti ja valkosipuli.",
+      "Valuta kastike ohuina viiruina jokaisen munakoisoviipaleen päälle ennen tarjoilua.",
+      "Sen voi tehdä helposti laittamalla kastike muoviseen puristuspulloon tai lusikalla.",
+      "Tarjoile heti pääruokana tai lisukkeena."
+    ]
+  },
+  {
+    "id": "myplate-mediterranean-tuna-antipasti-salad",
+    "title": "Välimerellinen tonnikalasalaatti",
+    "description": "Raikas tulkinta tonnikalasalaatista. Herkullinen saksanpähkinöiden, kikherneiden, kasvisten ja sitruunavinegretin kanssa.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kala", "salaatti", "palkokasvit", "välimerellinen"],
+    "ingredients": [
+      "1½ dl saksanpähkinöitä, karkeasti pilkottuna",
+      "1¼ dl punasipulia, hienonnettuna",
+      "1¼ dl punaista paprikaa, pilkottuna",
+      "2 tlk (à 140 g) tonnikalaa vedessä",
+      "1 tlk (400 g) vähäsuolaisia kikherneitä, valutettuina ja huuhdeltuina",
+      "2 rkl sitruunamehua",
+      "2 rkl extra-neitsytoliiviöljyä",
+      "2 rkl tuoretta persiljaa, hienonnettuna",
+      "10 dl romaanisalaatin sydämiä, suikaloituna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita saksanpähkinät, sipuli, paprika, persilja, tonnikala ja kikherneet isoon kulhoon ja sekoita kevyesti.",
+      "Vispaa sitruunamehu ja oliiviöljy yhteen ja valuta salaatin päälle; sekoita kevyesti, jotta ainekset peittyvät kastikkeeseen.",
+      "Mausta halutessasi suolalla ja pippurilla.",
+      "Aseta salaatti vadille tai jaa 8 salaattikulhoon.",
+      "Lisää päälle yhtä suuret annokset salaattiseosta."
+    ]
+  },
+  {
+    "id": "myplate-melissas-slow-cooker-stuffing",
+    "title": "Hitaan kattilan täyte karpaloilla ja omenalla",
+    "description": "Perheen reseptit ovat pyhä perinne, etenkin hitaan kattilan täyte. Tässä versiossa on väriä punaisista karpaloista ja vihreistä omenoista, ja valkoinen leipä on korvattu täysjyväleivällä.",
+    "servings": 16,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "juhla", "leipä", "omena"],
+    "ingredients": [
+      "85 g kevytvoita",
+      "4¾ dl varsiselleriä, pilkottuna",
+      "2½ dl sipulia, pilkottuna",
+      "2½ tl kuivattua persiljaa",
+      "4¾ dl tuoreita herkkusieniä, viipaloituna",
+      "16 viipaletta täysjyväleipää, kuutioituna",
+      "1¼ dl kuivattuja karpaloita",
+      "2½ dl omenaa, pilkottuna",
+      "1 tl siipikarjan mausteseosta",
+      "1½ tl kuivattua salviaa",
+      "1 tl kuivattua timjamia",
+      "1 tl valkosipulijauhetta",
+      "½ tl mustapippuria",
+      "7 dl vähäsuolaista kanalientä",
+      "1 kananmuna, vatkattuna",
+      "2 kananmunan valkuaista, vatkattuina",
+      "2½ dl vettä"
+    ],
+    "instructions": [
+      "Sulata voi isolla pannulla keskilämmöllä.",
+      "Lisää sipuli, selleri, sienet ja persilja pannulle.",
+      "Sekoita usein, kunnes kasvikset ovat pehmeitä.",
+      "Sekoita leipäkuutiot, karpalot ja omena isossa kulhossa.",
+      "Kaada kasvikset leipäkuutioiden päälle ja sekoita varovasti.",
+      "Mausta siipikarjan mausteseoksella, salvialla, timjamilla, valkosipulijauheella ja pippurilla.",
+      "Kaada liemi (juuri sen verran että kostuu) ja sekoita varovasti joukkoon munat.",
+      "Siirrä seos hitaaseen kattilaan ja laita kansi päälle.",
+      "Kypsennä korkealla teholla 45 minuuttia ja laske sitten matalalle ja kypsennä 4–8 tuntia."
+    ],
+    "notes": ["Vettä (2½ dl) lisätään tarvittaessa, jos täyte näyttää kuivalta."]
+  },
+  {
+    "id": "myplate-melon-and-mint",
+    "title": "Meloni ja minttu",
+    "description": "Kaipaatko virkistävää välipalaa? Minttu ja lime tekevät melonista virkistävän herkun.",
+    "servings": 8,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "hedelmät", "kesä", "nopea"],
+    "ingredients": [
+      "1 rkl limemehua",
+      "½ dl tuoreita minttulehtiä",
+      "2 rkl fariinisokeria",
+      "7 dl vesimelonikuutioita",
+      "7 dl hunajamelonikuutioita"
+    ],
+    "instructions": [
+      "Sekoita limemehu, minttulehdet ja fariinisokeri pienessä monitoimikoneessa.",
+      "Laita melonikuutiot kulhoon.",
+      "Valuta kastike melonin päälle ja sekoita varovasti."
+    ]
+  },
+  {
+    "id": "myplate-melon-salsa",
+    "title": "Melonisalsa",
+    "description": "Täynnä herkullisia kesän makuja. Tämä salsa on erinomainen millä tahansa melonilla.",
+    "servings": 12,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "salsa", "kesä", "nopea"],
+    "ingredients": [
+      "4¾ dl tuoretta melonia, siemenet poistettuna ja pilkottuna (hunajameloni, cantaloupe tai vesimeloni)",
+      "2½ dl kurkkua, kuorittuna, siemenet poistettuna ja pilkottuna",
+      "½ dl punasipulia tai valkosipulia, pilkottuna",
+      "2 rkl tuoretta korianteria tai minttua, hienonnettuna (valinnainen)",
+      "½ jalapeñoa, siemenet poistettuna ja hienonnettuna (tai tulista kastiketta maun mukaan)",
+      "½ dl lime- tai sitruunamehua",
+      "1 rkl sokeria"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskikokoisessa kulhossa.",
+      "Maista ja lisää tarvittaessa sitruuna- tai limemehua ja sokeria.",
+      "Peitä ja jäähdytä vähintään 30 minuuttia.",
+      "Tarjoile grillatun tai uunissa kypsennetyn kalan tai kanan kanssa."
+    ]
+  },
+  {
+    "id": "myplate-mexican-pinwheels",
+    "title": "Tortillakääryleet tuorejuustolla",
+    "description": "Anna lasten auttaa ainesten sekoittamisessa ja tuorejuustoseoksen levittämisessä tortilloille tähän hauskaan ja makuun välipalaan.",
+    "servings": 6,
+    "category": "Välipalat",
+    "tags": ["kasvis", "meksikolainen", "lapsille", "nopea"],
+    "ingredients": [
+      "55 g pehmeää tuorejuustoa",
+      "2 rkl maissia",
+      "2 rkl vihreitä chilejä, hienonnettuna ja valutettuna",
+      "2 tl sipulia, hienonnettuna",
+      "2 rkl salsaa",
+      "3 isoa vehnätortillaa (halkaisija 25 cm)"
+    ],
+    "instructions": [
+      "Valuta maissi ja vihreät chilit.",
+      "Mittaa ja pilko kaikki ainekset ennen aloittamista.",
+      "Sekoita tuorejuusto, maissi, chilit, sipuli ja salsa kulhossa.",
+      "Levitä seos tortilloille, rullaa tiukasti ja kääri kelmuun.",
+      "Leikkaa 2,5 cm:n viipaleiksi ja tarjoile heti tai säilytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-microwave-baked-apple",
+    "title": "Mikrossa kypsennetty omena",
+    "description": "Makea omenaherkku, joka valmistuu minuuteissa mikrossa.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "omena", "mikro", "nopea"],
+    "ingredients": [
+      "4 keskikokoista kypsennysomenaa",
+      "½ dl fariinisokeria",
+      "1 tl kanelia"
+    ],
+    "instructions": [
+      "Pese omenat ja poista siemenkodat.",
+      "Leikkaa jokaisen omenan pohjasta ohut siivu, jotta omena pysyy tasaisesti.",
+      "Aseta omenat mikrokestävään vuokaan.",
+      "Sekoita fariinisokeri ja kaneli pienessä astiassa.",
+      "Lusikoi seos omenoiden keskelle.",
+      "Peitä leivinpaperilla ja kuumenna mikrossa täydellä teholla 6–10 minuuttia, kunnes omenat ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-microwave-baked-potato",
+    "title": "Mikrossa kypsennetty uuniperuna",
+    "description": "Hyvä tapa nauttia kuumaa uuniperunaa käyttämättä uunia.",
+    "servings": 1,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "peruna", "mikro", "nopea"],
+    "ingredients": [
+      "1 peruna"
+    ],
+    "instructions": [
+      "Pese peruna ja pistele kuori haarukalla useasta kohdasta.",
+      "Kuumenna mikrossa täydellä teholla: 1 peruna noin 7 minuuttia, 2–3 perunaa 10–12 minuuttia, 4–5 perunaa 14–18 minuuttia tai kunnes pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-microwave-cauliflower-and-peas-cream-sauce",
+    "title": "Mikrossa kypsennetty kukkakaali ja herneet kermakastikkeessa",
+    "description": "Valmista kukkakaali, herneet ja sipuli maukkaassa kermakastikkeessa käyttämättä liettä.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "kukkakaali", "mikro", "kasvikset"],
+    "ingredients": [
+      "4¾ dl kukkakaalia",
+      "2½ dl tuoreita tai pakasteherneitä",
+      "2 rkl vettä",
+      "½ dl sipulia, hienonnettuna",
+      "1½ tl voita (tai margariinia)",
+      "1 rkl vehnäjauhoja",
+      "1¼ dl rasvatonta maitoa",
+      "1 rkl pimentoa, hienonnettuna (valinnainen)",
+      "½ tl kuivattua persiljaa",
+      "½ tl kanaliemijauhetta",
+      "ripaus suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Laita kukkakaali, herneet ja vesi noin litran kaseroolivuokaan.",
+      "Peitä.",
+      "Kuumenna mikrossa täydellä teholla 6–8 minuuttia, kunnes haarukalla pehmeitä, ja sekoita puolivälissä.",
+      "Anna seistä peitettynä.",
+      "Laita sipuli ja voi 5 dl:n mittakuppiin.",
+      "Kuumenna mikrossa täydellä teholla 1–1½ minuuttia, kunnes sipuli on pehmeää.",
+      "Sekoita joukkoon jauhot.",
+      "Kuumenna mikrossa muutama sekunti, kunnes jauhoseos alkaa kuplia.",
+      "Lisää loput ainekset.",
+      "Kuumenna mikrossa täydellä teholla 1½–2 minuuttia, kunnes sakenee, ja sekoita minuutin välein.",
+      "Valuta kasvikset. (Valutetun nesteen voi pakastaa keittoja varten.) Kaada kastike kasvisten päälle ja sekoita."
+    ]
+  },
+  {
+    "id": "myplate-microwave-denver-scramble-slider",
+    "title": "Mikrossa tehty kinkku-munakokkelisämpylä",
+    "description": "Nopea munakokkelisämpylä valmistuu mikrossa hyväksi aamiaiseksi, lounaaksi tai välipalaksi matkaan.",
+    "servings": 1,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "kinkku", "mikro", "nopea"],
+    "ingredients": [
+      "2 rkl punaista tai vihreää paprikaa, pilkottuna",
+      "1 rkl sipulia, pilkottuna",
+      "1 kananmuna",
+      "1 ohut viipale leikkelekinkkua, pilkottuna",
+      "1 rkl vettä",
+      "1 pieni sämpylä tai täysjyväenglantilainen muffini, halkaistuna ja paahdettuna"
+    ],
+    "instructions": [
+      "Laita paprika ja sipuli noin 2 dl:n vuokaan tai pieneen kulhoon.",
+      "Kuumenna mikrossa täydellä teholla 30 sekuntia; sekoita.",
+      "Lisää muna, kinkku ja vesi ja vatkaa, kunnes muna on sekoittunut.",
+      "Kuumenna mikrossa täydellä teholla 30 sekuntia; sekoita.",
+      "Kuumenna mikrossa, kunnes muna on lähes hyytynyt, vielä 30–45 sekuntia.",
+      "Mausta halutessasi suolalla ja pippurilla.",
+      "Tarjoile sämpylässä."
+    ]
+  },
+  {
+    "id": "myplate-microwave-potato-corn-chowder",
+    "title": "Mikrossa tehty peruna-maissikeitto",
+    "description": "Tee maukas keitto mikrossa minuuteissa. Nauti tuoreen salaatin ja hedelmien kanssa kevyeksi ateriaksi.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "peruna", "mikro"],
+    "ingredients": [
+      "½ dl margariinia (tai voita)",
+      "½ dl vehnäjauhoja",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "4¾ dl kevytmaitoa",
+      "2 perunaa, kuorittuna ja kuutioituna",
+      "2½ dl vettä",
+      "1 tlk (450 g) suolatonta maissia, valutettuna"
+    ],
+    "instructions": [
+      "Sulata margariini lasikulhossa täydellä teholla 30–50 sekuntia.",
+      "Sekoita joukkoon jauhot, suola ja pippuri tasaiseksi.",
+      "Sekoita maito jauhoseokseen.",
+      "Kuumenna täydellä teholla 6–8 minuuttia, kunnes sakenee, ja sekoita hyvin minuutin välein.",
+      "Laita sivuun.",
+      "Kypsennä erillisessä mikrokestävässä kulhossa 2 perunaa 2½ dl:ssa vettä.",
+      "Kun perunat ovat valmiita, lisää perunat ja keitinvesi valkokastikkeeseen.",
+      "Sekoita joukkoon tölkillinen maissia.",
+      "Kuumenna 2–3 minuuttia, kunnes höyryävän kuumaa."
+    ]
+  },
+  {
+    "id": "myplate-migas-crumbs",
+    "title": "Migas – tortilla-munakokkeli",
+    "description": "Munat, tortillat, paprika, sipuli ja juusto ovat maukas yhdistelmä tässä nopeassa ja helpossa reseptissä.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "meksikolainen", "nopea", "arkiruoka"],
+    "ingredients": [
+      "4 isoa vehnätortillaa (halkaisija 25 cm)",
+      "3 rkl rypsiöljyä",
+      "½ dl paprikaa",
+      "½ dl sipulia",
+      "4 kananmunaa, kevyesti vatkattuina",
+      "4 rkl vähärasvaista cheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Revi tortillat pieniksi paloiksi.",
+      "Kuumenna öljy keskikokoisella pannulla.",
+      "Lisää tortillat ja sekoita, kunnes palat alkavat ruskistua.",
+      "Lisää paprika ja sipuli ja kuullota pehmeiksi.",
+      "Lisää munat ja sekoita, kunnes munat ovat kypsiä.",
+      "Ota pois liedeltä ja ripottele päälle raastettu juusto.",
+      "Peitä pannu ja anna juuston sulaa.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-minestrone-soup",
+    "skip": "ohje puutteellinen (valmistusohjeet puuttuvat lähteestä)"
+  },
+  {
+    "id": "myplate-mini-caprese-bites",
+    "title": "Minicaprese-vartaat",
+    "description": "Hauskat pienet välipalat ovat hyvä tapa käyttää basilikaa ja tomaatteja puutarhasta. Ne voivat auttaa lapsia oppimaan pitämään kasviksista.",
+    "servings": 4,
+    "category": "Välipalat",
+    "tags": ["kasvis", "italialainen", "lapsille", "nopea"],
+    "ingredients": [
+      "hammastikkuja",
+      "1 vähärasvainen juustotanko (mozzarella)",
+      "4 kirsikkatomaattia",
+      "8 tuoretta basilikanlehteä",
+      "1 tl oliiviöljyä tai ruokaöljyä",
+      "1 tl balsamietikkaa (tai muuta etikkaa)"
+    ],
+    "instructions": [
+      "Viipaloi juustotanko 4 yhtä suureen osaan.",
+      "Pujota hammastikkuun yksi kirsikkatomaatti, 2 basilikanlehteä ja yksi pala juustoa.",
+      "Valuta valmiiden vartaiden päälle tasaisesti oliiviöljyä ja balsamietikkaa."
+    ]
+  },
+  {
+    "id": "myplate-mixed-fruit-salad",
+    "title": "Sekahedelmäsalaatti",
+    "description": "Tuoreet ja säilykehedelmät tekevät tästä mehukkaasta salaatista hyvän välipalan tai jälkiruoan.",
+    "servings": 6,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "hedelmät", "salaatti", "nopea"],
+    "ingredients": [
+      "1 tlk (310 g) mandariinilohkoja kevyessä siirapissa, valutettuina",
+      "1 tlk (425 g) hedelmäcocktailia, valutettuna",
+      "1 tlk (570 g) ananaspaloja, valutettuina",
+      "2 keskikokoista omenaa, pilkottuna",
+      "1 keskikokoinen banaani, viipaloituna"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskenään.",
+      "Peitä ja jäähdytä tarjoiluun asti.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-mixed-grain-bread",
+    "title": "Monijyväleipä",
+    "description": "Maissijauho, ruis ja täysjyvävehnäjauho tekevät tästä sitkeästä ja herkullisesta leivästä erinomaisen rakenteen ja maun.",
+    "servings": 20,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "leipä", "täysjyvä", "leivonnainen"],
+    "ingredients": [
+      "½ dl keltaista maissijauhoa",
+      "½ dl fariinisokeria",
+      "1 tl suolaa",
+      "2 rkl rypsiöljyä",
+      "½ dl kiehuvaa vettä",
+      "1 pkt (11 g) kuivahiivaa",
+      "½ dl lämmintä vettä (40–45 °C)",
+      "¾ dl täysjyvävehnäjauhoja",
+      "½ dl ruisjauhoja",
+      "5½ dl vehnäjauhoja"
+    ],
+    "instructions": [
+      "Sekoita maissijauho, fariinisokeri, suola ja öljy kiehuvaan veteen ja jäähdytä kädenlämpöiseksi (40–45 °C). Liuota hiiva ½ dl:aan lämmintä vettä ja sekoita maissiseokseen.",
+      "Lisää täysjyvävehnä- ja ruisjauhot ja sekoita hyvin.",
+      "Sekoita joukkoon sen verran vehnäjauhoja, että taikina on tarpeeksi jäykkää vaivattavaksi.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle.",
+      "Vaivaa sileäksi ja kimmoisaksi, noin 5–10 minuuttia.",
+      "Laita taikina kevyesti öljytyyn kulhoon ja käännä, jotta pinta öljyyntyy.",
+      "Peitä puhtaalla liinalla ja anna kohota lämpimässä, kunnes kaksinkertaistuu, noin tunti.",
+      "Alusta taikina ja kumoa puhtaalle alustalle.",
+      "Peitä liinalla ja anna levätä 10 minuuttia.",
+      "Muotoile taikina ja aseta voideltuun noin 23 x 13 cm:n leipävuokaan.",
+      "Peitä liinalla ja anna kohota, kunnes lähes kaksinkertaistuu, noin tunti.",
+      "Kuumenna uuni 190 asteeseen. Paista 35–45 minuuttia, kunnes leipä kuulostaa onttolta kopautettaessa.",
+      "Peitä foliolla paiston aikana, jos leipä ruskistuu liian nopeasti.",
+      "Ota leipä vuoasta ja jäähdytä ritilällä."
+    ]
+  },
+  {
+    "id": "myplate-mock-sour-cream",
+    "title": "Raejuustokermaviili",
+    "description": "Raejuusto, kevytmaito ja sitruunamehu sekoittuvat tehosekoittimessa kermaviilin makuiseksi. Nopea ja helppo resepti.",
+    "servings": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "nopea", "kermaviili", "raejuusto"],
+    "ingredients": [
+      "2½ dl vähärasvaista raejuustoa (tai rasvatonta)",
+      "2 rkl rasvatonta maitoa",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen ja sekoita sileäksi."
+    ]
+  },
+  {
+    "id": "myplate-mock-southern-sweet-potato-pie",
+    "title": "Bataattipiirakka",
+    "description": "Täynnä bataatin makua, tämä herkullinen piirakka on suosittu juhlapöydissä.",
+    "servings": 16,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "bataatti", "piirakka", "juhla"],
+    "ingredients": [
+      "Pohja:",
+      "3 dl vehnäjauhoja",
+      "ripaus sokeria",
+      "¾ dl rasvatonta maitoa",
+      "2 rkl rypsiöljyä",
+      "Täyte:",
+      "½ dl sokeria",
+      "½ dl fariinisokeria",
+      "½ tl suolaa",
+      "¼ tl muskottipähkinää",
+      "3 kananmunaa, vatkattuina",
+      "½ dl rasvatonta haihdutettua maitoa (säilyke)",
+      "1 tl vaniljauutetta",
+      "7 dl keitettyä bataattia, kuorittuna ja muussattuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Pohja: sekoita jauhot ja sokeri kulhossa.",
+      "Lisää maito ja öljy jauhoseokseen.",
+      "Sekoita haarukalla hyvin ja muotoile taikina käsin sileäksi palloksi.",
+      "Kaulitse pallo kahden noin 30 cm:n leivinpaperin välissä lyhyin, napakoin vedoin, kunnes taikina yltää paperin reunoihin.",
+      "Nosta päällimmäinen paperi pois ja käännä taikina piirakkavuokaan.",
+      "Täyte: sekoita sokerit, suola, mausteet ja munat.",
+      "Lisää maito ja vanilja.",
+      "Sekoita.",
+      "Lisää bataatit ja sekoita hyvin.",
+      "Kaada seos piirakkapohjaan.",
+      "Paista kuumassa uunissa 60 minuuttia tai kunnes pohja on kullanruskea.",
+      "Jäähdytä ja leikkaa 16 viipaleeksi."
+    ]
+  },
+  {
+    "id": "myplate-mousse-la-banana",
+    "title": "Banaanimousse",
+    "description": "Makea, kermainen ja hedelmäinen herkku, joka on vähärasvainen ja täynnä makua.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "banaani", "jogurtti", "nopea"],
+    "ingredients": [
+      "2 rkl kevytmaitoa",
+      "4 tl sokeria",
+      "1 tl vaniljaa",
+      "1 keskikokoinen banaani, neljään osaan leikattuna",
+      "2½ dl vähärasvaista maustamatonta jogurttia",
+      "8 banaaniviipaletta, ½ cm:n paksuisia"
+    ],
+    "instructions": [
+      "Laita maito, sokeri, vanilja ja banaani tehosekoittimeen.",
+      "Sekoita 15 sekuntia kovalla teholla sileäksi.",
+      "Kaada seos pieneen kulhoon ja käännä joukkoon jogurtti.",
+      "Jäähdytä.",
+      "Lusikoi neljään jälkiruokakulhoon ja koristele jokainen kahdella banaaniviipaleella juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-mouth-watering-oven-fried-fish",
+    "title": "Uunipaistettu kala",
+    "description": "Mausteinen ja maukas uunipaistettu kala on varmasti hitti kotonasi. Nauti sesongin kasvisten ja lempihedelmien kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "arkiruoka", "amerikkalainen"],
+    "ingredients": [
+      "900 g turskafileetä (tai muuta valkoista kalaa)",
+      "1 rkl tuoretta sitruunamehua",
+      "½ dl vähärasvaista piimää",
+      "1 tl tuoretta valkosipulia, hienonnettuna",
+      "2 ripausta tulista kastiketta",
+      "¼ tl valkopippuria",
+      "¼ tl suolaa",
+      "¼ tl sipulijauhetta",
+      "1¼ dl maissihiutalemurskaa (tai tavallista korppujauhoa)",
+      "1 rkl rypsiöljyä",
+      "1 sitruuna, lohkoiksi leikattuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 245 asteeseen. Puhdista ja huuhtele kala.",
+      "Pyyhi fileet sitruunamehulla ja taputtele kuiviksi.",
+      "Sekoita piimä, valkosipuli ja tulinen kastike keskikokoisessa kulhossa.",
+      "Sekoita pippuri, suola ja sipulijauhe murujen kanssa ja laita lautaselle.",
+      "Anna fileiden olla hetken piimässä.",
+      "Nosta ja pyöräytä fileet molemmilta puolilta maustetuissa muruissa.",
+      "Anna seistä hetki, kunnes kuorrute tarttuu kalaan.",
+      "Aseta kevyesti öljyttyyn matalaan uunivuokaan.",
+      "Paista keskitasolla 20 minuuttia kääntämättä.",
+      "Leikkaa 6 palaan.",
+      "Tarjoile tuoreiden sitruunalohkojen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-mozz-totz",
+    "title": "Uunipaistetut mozzarellapalat",
+    "description": "Terveellisempi tulkinta friteeratusta alkupalasta: paneroidut ja uunissa paistetut mozzarellapalat ovat lasten ja aikuisten suosikki. Tarjoa lämpimän marinarakastikkeen kanssa pitoihin tai välipalaksi koulun jälkeen.",
+    "servings": 12,
+    "category": "Välipalat",
+    "tags": ["kasvis", "italialainen", "uuniruoka", "lapsille"],
+    "ingredients": [
+      "340 g rasvatonta mozzarellajuustoa (juustotangot)",
+      "1¼ dl kevytmaitoa",
+      "½ tl kuivattua oreganoa",
+      "½ tl kuivattua basilikaa",
+      "1¼ dl korppujauhoja",
+      "1¼ dl marinara- tai tomaattikastiketta, lämmitettynä",
+      "öljyä tai paistosprayta pellin voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vuoraa uunipelti foliolla ja voitele kevyesti.",
+      "Ota juusto pakkauksesta ja leikkaa suupalan kokoisiksi paloiksi.",
+      "Sekoita pienellä pannulla oregano ja basilika korppujauhoihin.",
+      "Paahda keskilämmöllä satunnaisesti sekoittaen, kunnes murut ovat kevyesti ruskistuneet, noin 5 minuuttia.",
+      "Kasta jokainen juustopala maitoon ja sitten paahdettuihin korppujauhoihin niin, että pinta peittyy kokonaan.",
+      "Aseta pellille noin 4 cm:n välein.",
+      "Suihkuta juustotangot kevyesti öljyllä.",
+      "Paista 5–6 minuuttia, kunnes kuumia. (Juusto voi sulaa hieman ja menettää muotonsa; paina se vain takaisin paikoilleen.)",
+      "Dippaa lämpimään marinarakastikkeeseen ja nauti."
+    ]
+  },
+  {
+    "id": "myplate-mozzarella-chicken-garlic-spinach",
+    "title": "Mozzarellakana ja valkosipulipinaatti",
+    "description": "Kana, mozzarella ja valkosipulilla maustettu pinaatti muodostavat helpon ja herkullisen päivällisen.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "pinaatti", "italialainen"],
+    "ingredients": [
+      "8 pientä broilerin rintafilettä, nahaton ja luuton",
+      "1¼ dl italialaisella yrttisekoituksella maustettua korppujauhoa",
+      "225 g kevytmozzarellaa, raastettuna",
+      "1 rkl rypsiöljyä",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 pussia (à 280 g) pinaatinlehtiä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Aseta kana kahden muovikelmun väliin ja ohenna 6 mm:n paksuiseksi.",
+      "Pyöritä kana korppujauhoissa ja aseta foliolla vuoratulle pellille.",
+      "Heitä ylimääräiset korppujauhot pois.",
+      "Paista 10 minuuttia.",
+      "Lisää kanan päälle juusto ja paista 4–5 minuuttia, kunnes juusto on sulanut ja kanan sisälämpö on 74 astetta. Kuumenna sillä välin öljy isolla pannulla keskilämmöllä.",
+      "Lisää valkosipuli ja sekoita minuutti.",
+      "Lisää puolet pinaatista ja kypsennä minuutti.",
+      "Lisää loppu pinaatti.",
+      "Kypsennä, kunnes lakastunut, ja käännä silloin tällöin.",
+      "Tarjoile kanan kanssa."
+    ]
+  }
+]

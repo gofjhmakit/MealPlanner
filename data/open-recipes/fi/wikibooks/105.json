@@ -1,0 +1,399 @@
+[
+  { "id": "wikibooks-plain-lassi", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-plain-scones",
+    "title": "Perusscones",
+    "description": "Perinteiset brittiläiset teeleivät, jotka tarjoillaan hillon ja kerman kanssa.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "brittiläinen", "scones", "teeleipä"],
+    "ingredients": [
+      "450 g vehnäjauhoja ja lisää tarpeen mukaan",
+      "½ tl suolaa",
+      "2 tl leivinjauhetta",
+      "3 rkl hienoa sokeria",
+      "5 rkl kylmää voita, paloina",
+      "1 muna",
+      "1,2–1,8 dl kuohukermaa ja lisää voiteluun",
+      "hilloa (yleensä vadelma- tai mansikkahillo)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen.",
+      "Laita jauhot, suola, leivinjauhe ja 2 rkl sokeria monitoimikoneeseen ja pulssaa sekaisin. Lisää voi ja pulssaa, kunnes seos muistuttaa maissijauhoa.",
+      "Lisää muna ja juuri sen verran kermaa, että saat hieman tahmean taikinan. Jos se on liian tahmeaa, lisää hieman jauhoja, mutta hyvin vähän; sen pitää vielä tarttua hieman käsiin.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle ja vaivaa kerran tai kaksi. Painele noin 2 cm:n paksuiseksi ympyräksi. Leikkaa 5 cm:n pyöreitä keksimuotilla tai lasilla.",
+      "Nosta pyörykät voitelemattomalle pellille. Muotoile tähdetaikina kevyesti ja leikkaa lisää scones-leipiä.",
+      "Sivele kunkin scones-leivän pinta kermalla ja ripottele hieman jäljellä olevaa sokeria.",
+      "Paista 9–11 minuuttia kauniin kullanruskeiksi. Anna jäähtyä ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-plank-grilled-salmon",
+    "title": "Lankkulohi (cedar plank salmon)",
+    "description": "Pohjois-Amerikan luoteisrannikon intiaanien perinteinen tapa: lohi grillataan setrilankulla worcestershire-olutmarinadissa.",
+    "servings": 1,
+    "category": "Pääruoat",
+    "tags": ["kala", "lohi", "grilli"],
+    "ingredients": [
+      "½ dl worcestershirekastiketta",
+      "1,8 dl olutta",
+      "vähän valkosipulijauhetta",
+      "sitruunapippuria",
+      "150–225 g lohifileetä",
+      "setrilankku"
+    ],
+    "instructions": [
+      "Kuumenna grilli tai hiiligrilli. Liota lankkua vedessä useita tunteja ennen grillausta, ettei se pala.",
+      "Sekoita worcestershirekastike, olut, valkosipulijauhe ja sitruunapippuri marinadiksi. Lisää lohi ja marinoi 15 minuuttia.",
+      "Nosta lohi marinadista lankulle nahkapuoli alaspäin. Lohi ei saa roikkua yli reunan.",
+      "Aseta lankku grillin päälle ja kypsennä tarkkaillen. Lasillinen vettä auttaa sammuttamaan tulta, jos se käy liian kuumaksi. Älä käännä kalaa, vaan siirrä ja käännä lankkua.",
+      "Nosta lankku pellille, kun kala on halutun kypsää, ja siirrä lautasille tai tarjoiluvadille."
+    ],
+    "notes": ["Setrilankkujen tulee olla kemiallisesti käsittelemättömiä."]
+  },
+  { "id": "wikibooks-plantain-frittata-i", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-plantain-frittata-ii", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-plantain-mosa-nigerian-plantain-fritters", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-plantain-nuggets", "skip": "liian puutteellinen (ei määriä)" },
+  { "id": "wikibooks-plantain-pudding", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-ploughmans-lunch",
+    "title": "Ploughman's lunch",
+    "description": "Brittiläisen pubin perinteinen kylmä lounas: juustoa, leipää ja pickleä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Salaatit",
+    "tags": ["kasvis", "brittiläinen", "juusto", "nopea"],
+    "ingredients": [
+      "1 iso pala hyvää englantilaista juustoa (esim. Cheshire, Stilton, Lancashire) tai 2–3 juustoa",
+      "1 paksu viipale täysjyväleipää",
+      "voita",
+      "pickleä (esim. Branston pickle)",
+      "salaatinlehtiä",
+      "½ omena (valinnainen)",
+      "säilöttyjä sipuleita (valinnainen)"
+    ],
+    "instructions": ["Asettele kaikki ainekset lautaselle."]
+  },
+  {
+    "id": "wikibooks-ploughmans-sandwich",
+    "title": "Ploughman's-voileipä",
+    "description": "Brittiläinen juustovoileipä, jossa on salaattia, tomaattia ja makeaa pickleä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "totalTimeMin": 2,
+    "category": "Välipalat",
+    "tags": ["kasvis", "brittiläinen", "voileipä", "nopea"],
+    "ingredients": [
+      "2 viipaletta leipää",
+      "1 viipale cheddarjuustoa",
+      "jäävuorisalaatin lehtiä",
+      "muutama tomaattiviipale",
+      "makeaa pickleä",
+      "sipulia tai majoneesia (valinnainen)"
+    ],
+    "instructions": ["Kokoa voileipä leipäviipaleiden väliin: yksi kerros juustoa, 2–3 kerrosta salaattia, ohut kerros pickleä ja muutama tomaattiviipale."]
+  },
+  { "id": "wikibooks-po-boy", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-poached-egg",
+    "title": "Posetoitu muna",
+    "description": "Kuoriutuneena kuumaan veteen valutettu muna, jonka valkuainen on hyytynyt ja keltuainen juokseva.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "muna", "nopea"],
+    "ingredients": ["2 munaa", "1 rkl etikkaa (valinnainen)"],
+    "instructions": [
+      "Täytä kattila noin 1 cm:n vesikerroksella. Lisää halutessasi 1 rkl etikkaa, joka auttaa estämään valkuaisen leviämistä, mutta voi vaikuttaa makuun.",
+      "Kuumenna vesi niin sanottuun 'katkarapusilmä'-vaiheeseen. Veden tulee olla noin 70–80 asteista, ja pannun pohjalle muodostuu pieniä kuplia, jotka nousevat pintaan.",
+      "Sekoita vettä varovasti ympyrässä, jotta syntyy hellä pyörre. Tämä auttaa estämään valkuaisen leviämistä.",
+      "Riko muna siivilään ja ravista kevyesti ylimääräinen juokseva valkuainen pois. Laske sitten siivilä veteen ja valuta muna varovasti veteen. Keltuainen hyytyy noin 2–3 minuutissa.",
+      "Toista jokaiselle munalle ja odota 10–15 sekuntia munien välillä, ettei ne tartu toisiinsa."
+    ],
+    "notes": ["Tuoreemmat munat pitävät muotonsa paremmin.", "Käytä paksupohjaista kattilaa, jossa lämpö jakautuu tasaisemmin."]
+  },
+  {
+    "id": "wikibooks-poached-salmon-with-wild-huckleberries",
+    "title": "Uunissa haudutettu lohi mustikoilla",
+    "description": "Lohifilee haudutettuna kala-lientä ja vettä sisältävässä vuoassa uunissa, yrteillä, mustikoilla ja sitruunalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "lohi", "uuniruoka", "marjat"],
+    "ingredients": [
+      "450 g lohifileetä",
+      "2,4 dl kalalientä",
+      "2,4 dl vettä",
+      "1 tuoreen timjamin oksa",
+      "1 tuoreen persiljan oksa",
+      "1 rkl mustapippurin jyviä",
+      "1,2 dl mustikoita",
+      "1 sitruuna, viipaloituna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita uunivuoassa kalaliemi ja vesi. Lisää lohi niin, että neste peittää sen. Lisää tarvittaessa yhtä paljon vettä ja lientä.",
+      "Lisää yrtit, mustikat, sitruunaviipaleet ja pippurinjyvät.",
+      "Aseta vuoka uuniin ja paista 15–18 minuuttia, kunnes lohi hajoaa helposti.",
+      "Tarjoa."
+    ],
+    "notes": ["Voit lisätä selleriä, porkkanaa, pippuria ja/tai fenkolia lisämakuun."]
+  },
+  { "id": "wikibooks-pocho-soup", "skip": "liian puutteellinen (ei määriä)" },
+  {
+    "id": "wikibooks-pohe-spiced-flattened-rice",
+    "title": "Pohe – maustettu litistetty riisi",
+    "description": "Maharashtran, Gujaratin ja Madhya Pradeshin suosittu aamiaisruoka, joka valmistetaan litistetystä riisistä sipulin, chilin ja kurkuman kanssa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "nopea"],
+    "ingredients": [
+      "200 g paksuja riisihiutaleita (pohe, litistettyä riisiä)",
+      "2 rkl öljyä",
+      "1 tl sinapinsiemeniä",
+      "¼ tl kurkumaa",
+      "1 ripaus hingiä (asafoetida)",
+      "2 intialaista vihreää chiliä, hienonnettuna",
+      "½ sipuli, hienonnettuna",
+      "2 korianterin oksaa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kostuta riisihiutaleet kylmällä vedellä pitämällä kulhoa hitaasti valuvan hanan alla. Sekoita käsin, valuta ylimääräinen vesi ja aseta sivuun (älä liota liian pitkään, ettei hiutaleet muutu tahnaksi).",
+      "Kuumenna öljy paistinpannussa keskikuumaksi. Lisää sinapinsiemenet ja anna rätistä muutama sekunti.",
+      "Lisää kurkuma ja hing ja paista muutama sekunti (älä polta kurkumaa).",
+      "Lisää vihreät chilit ja paista muutama sekunti.",
+      "Lisää sipuli ja laske lämpö. Peitä ja kypsennä 2 minuuttia. Sipulin pitää pehmetä mutta ei ruskistua.",
+      "Sivuun jätettyjen riisihiutaleiden pitäisi nyt olla imeneet ylimääräisen kosteuden.",
+      "Sekoita riisihiutaleet käsin, ettei ne tartu toisiinsa, ja lisää pannulle.",
+      "Lisää suola ja sekoita niin, että kurkuman keltainen väri leviää tasaisesti.",
+      "Peitä ja kypsennä miedolla lämmöllä 5 minuuttia. Älä nosta kantta, sillä pohe kypsyy höyryssä.",
+      "Sekoita ja kypsennä vielä minuutti ilman kantta.",
+      "Tarjoa kulhossa hienonnetulla korianterilla koristeltuna."
+    ],
+    "notes": ["Sipulin kanssa voi lisätä tuoreita herneitä tai maapähkinöitä."]
+  },
+  {
+    "id": "wikibooks-poisson-braise-ivorian-grilled-fish",
+    "title": "Poisson braisé – norsunluurannikkolainen grillattu kala",
+    "description": "Marinoitu miekkakala grillataan ja tarjoillaan tomaatti-kasvisseoksen päällä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "afrikkalainen", "grilli"],
+    "ingredients": [
+      "6 rkl extra virgin -oliiviöljyä",
+      "5 valkosipulinkynttä, hienonnettuna",
+      "2,4 dl sitruunamehua (ja sitruunaviipaleita koristeluun)",
+      "3 ripausta suolaa tai maun mukaan",
+      "3 ripausta punapippuria tai mustapippuria",
+      "4 rkl yleismausteseosta kalalle (valkosipulia, korianteria, basilikaa, timjamia, paprikaa, suolaa, pippuria)",
+      "4 miekkakalafileetä (yht. n. 900 g), luuttomia",
+      "2 isoa tomaattia, kuutioituna",
+      "2 sipulia, kuutioituna",
+      "2 keltaista paprikaa, kuutioituna",
+      "2 kesäkurpitsaa, kuutioituna",
+      "2 ripausta tabascoa",
+      "1 tlk (400 g) tomaattipyreetä"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa 4 rkl oliiviöljyä, hienonnettu valkosipuli, sitruunamehu, 2 ripausta suolaa, 2 ripausta pippuria ja kalamauste marinadiksi.",
+      "Lisää kala marinadiin, peitä ja marinoi jääkaapissa noin tunti.",
+      "Sekoita tomaatit, sipulit, keltainen paprika, kesäkurpitsa, tabasco, loppu oliiviöljy, suola ja pippuri kulhossa. Aseta sivuun.",
+      "Ota kala jääkaapista.",
+      "Kuumenna voideltu grillipannu tai paistinpannu keskilämmöllä. Lisää kala ja paista vähintään 5 minuuttia. Käännä ja paista toista puolta noin 4 minuuttia.",
+      "Levitä sillä välin puolet tomaattipyreestä pellille ja kypsennä 175 asteessa noin 7 minuuttia.",
+      "Laita jäljellä oleva tomaattipyree lautaselle ja kalafileet sen päälle. Koristele sitruunaviipaleella.",
+      "Tarjoa valkoisen riisin tai attiéké-manioksimuusin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-polenta",
+    "title": "Polenta",
+    "description": "Keitetty maissijauhopuuro, jonka kanssa tarjoillaan tomaattikastiketta tai grillattuja kasviksia. Jäähtyneen kiinteän polentan voi leikata ja paistaa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "italialainen", "maissi"],
+    "ingredients": ["2,4 dl maissijauhoa (polentajauhoa)", "9,6 dl vettä", "suolaa"],
+    "instructions": [
+      "Kuumenna vesi paksupohjaisessa kattilassa kiehuvaksi. Lisää suola.",
+      "Kaada maissijauho tasaisena nauhana veteen jatkuvasti vispilällä sekoittaen.",
+      "Laske lämpö hiljaiseksi hauduttamiseksi ja jatka vispilällä sekoittamista, kunnes seos alkaa kiehua.",
+      "Peitä ja kypsennä sekoittaen 2–3 minuutin välein puulusikalla aina samaan suuntaan. Puuro kypsyy hyvin 45 minuutissa. Jos puuro on liian paksua, lisää kuumaa vettä tai rasvatonta maitoa kermaisemman saamiseksi. Tarkista suola usein.",
+      "Tarjoa kuumana suoraan pannusta: laita lusikallinen vettä syvään keraamiseen astiaan ja kaavi polenta siihen. Tarjoa isolla puulusikalla."
+    ],
+    "notes": [
+      "Mikroaaltouunissa: kaada kiehuva vesi ja suola isoon mikrokestävään kulhoon, lisää maissijauho jatkuvasti sekoittaen, kypsennä keskiteholla 2–5 minuuttia, sekoita voimakkaasti ja toista, kunnes polenta on paksua.",
+      "Lopuksi voi sekoittaa joukkoon 2 rkl oliiviöljyä tai voita ja 1,2 dl raastettua juustoa."
+    ]
+  },
+  { "id": "wikibooks-policy-recipe-template", "skip": "ei resepti (sivuston pohja)" },
+  {
+    "id": "wikibooks-polish-cauliflower-with-breadcrumbs",
+    "title": "Puolalainen kukkakaali korppujauhovoilla",
+    "description": "Keitetty kukkakaali voin ja korppujauhojen kanssa, suosittu lisuke Puolassa.",
+    "servings": 3,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "puolalainen", "kukkakaali", "nopea"],
+    "ingredients": ["1 kukkakaali", "50 ml voita", "2–3 rkl korppujauhoja", "½ tl tuoretta tilliä (valinnainen)"],
+    "instructions": [
+      "Keitä kukkakaalia noin 10 minuuttia.",
+      "Sulata voi uunissa tai mikrossa.",
+      "Sekoita voi ja korppujauhot ja lisää tilli.",
+      "Valuta kukkakaali ja laita seos päälle.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-polish-doughnuts-paczki",
+    "title": "Pączki – puolalaiset munkit",
+    "description": "Hiivataikinasta friteeratut puolalaiset munkit, jotka täytetään hillolla ja ripotellaan tomusokerilla.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "puolalainen", "munkki", "friteerattu"],
+    "ingredients": [
+      "2 rkl sokeria",
+      "2 rkl voita",
+      "1,2 dl lämmintä maitoa",
+      "¼ tl vaniljauutetta",
+      "1 ripaus suolaa",
+      "2 munaa",
+      "1 tl kuivahiivaa",
+      "4,8 dl vehnäjauhoja",
+      "rypsiöljyä friteeraukseen",
+      "hilloa täytteeksi",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Vispaa sokeri, voi, maito, vanilja, suola ja munat yhteen. Vispaa joukkoon hiiva.",
+      "Lisää jauhoja ½ dl kerrallaan jatkuvasti sekoittaen, kunnes seos on kiinteä taikina.",
+      "Vaivaa taikinaa noin 5 minuuttia. Laita takaisin kulhoon, peitä ja anna kohota kaksinkertaiseksi, noin 1½ tuntia.",
+      "Painele taikina kevyesti jauhotetulle laudalle ja kauli noin 1,25 cm:n paksuiseksi. Leikkaa pieniä kiekkoja. Ylijäämätaikinan voi kaulita uudelleen.",
+      "Anna kiekkojen kohota noin 30 minuuttia kaksinkertaisiksi.",
+      "Kuumenna öljy 175 asteeseen ja friteeraa pączki kullanruskeiksi. Anna jäähtyä.",
+      "Jäähtymisen aikana lusikoi hillo pitkäkärkiseen koristepussiin. Työnnä pussin kärki munkkien kylkeen ja täytä.",
+      "Ripottele päälle tomusokeria ja nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-pollo-del-fungo-chicken-with-mushrooms",
+    "title": "Pollo del fungo – kana ja sienet",
+    "description": "Sienillä ja yrteillä maustetut broilerisuikaleet valkoviini-liemikastikkeessa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kana", "italialainen", "sienet"],
+    "ingredients": [
+      "400 g broilerin rintafileetä",
+      "3 keskikokoista sientä",
+      "1,2 dl vehnäjauhoja",
+      "½ tl mustapippuria",
+      "¼ tl rosmariinia",
+      "½ tl sitruunapippuria",
+      "1 ripaus tulista paprikajauhetta",
+      "1 ripaus suolaa",
+      "½ dl valkoviiniä",
+      "1,2 dl kanalientä",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Leikkaa broileri kuudeksitoista 7,5 x 1,25 cm:n suikaleeksi.",
+      "Pese ja kuivaa sienet. Hienonna sienet hyvin hienoksi.",
+      "Sekoita jauhot, ⅔ hienonnetuista sienistä, suola, mustapippuri ja ripaus murskattua rosmariinia.",
+      "Kuumenna iso paistinpannu vähällä öljyllä ja ripauksella mustapippuria.",
+      "Pyöritä broilerisuikaleet jauhoseoksessa ja paista.",
+      "Sekoita (mieluiten jauha) paistamisen aikana pippuri, rosmariini, paprika ja suola.",
+      "Nosta broileri sivuun.",
+      "Irrota pannun pohjan paistopinta viinillä. Lisää mausteseos ja loput sienet.",
+      "Kiehuta minuutti tai kaksi ja lisää liemi. Keitä kastikkeen paksuuteen.",
+      "Aseta jokaiselle lautaselle 4 broilerisuikaletta ja lusikoi päälle 1–2 rkl kastiketta."
+    ]
+  },
+  {
+    "id": "wikibooks-polvorones-spanish-shortbread",
+    "title": "Polvorones – espanjalaiset murokeksit",
+    "description": "Espanjalaiset murokeksit, jotka ovat suosittuja Latinalaisessa Amerikassa.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksi", "espanjalainen", "murotaikina"],
+    "ingredients": [
+      "240 g margariinia",
+      "2,4 dl sokeria",
+      "½ tl suolaa",
+      "9,6 dl vehnäjauhoja",
+      "2 munaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Vaahdota margariini ja sokeri kulhossa kermaiseksi.",
+      "Sekoita joukkoon vaniljauute, suola ja munat.",
+      "Sekoita jauhot joukkoon, kunnes taikinaa on vaikea sekoittaa.",
+      "Muotoile pieniä palloja ja nosta voitelemattomalle pellille.",
+      "Paista esilämmitetyssä uunissa 15–20 minuuttia kullanruskeiksi.",
+      "Anna jäähtyä."
+    ]
+  },
+  { "id": "wikibooks-ponche-de-crme", "skip": "alkoholipitoinen juoma, raakoja munia" },
+  {
+    "id": "wikibooks-popcorn",
+    "title": "Popcorn",
+    "description": "Pannulla tehty popcorn kirkastetulla voilla ja yrteillä.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "maissi", "nopea", "naposteltava"],
+    "ingredients": [
+      "1,2 dl popcorn-maissia (poksuttamatonta)",
+      "1 rkl hienoa suolaa",
+      "6 rkl kirkastettua voita, jaettuna",
+      "hienonnettua rosmariinia ja/tai timjamia (valinnainen)",
+      "cayennepippuria (valinnainen)",
+      "olutheraa (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna iso ruostumattomasta teräksestä valmistettu kulho tai valurautapannu keskilämmöllä. Kun se on kuuma, lisää 1 tl kirkastettua voita, suola ja popcorn-jyvät ja peitä reikäisellä foliolla tai roiskesuojalla.",
+      "Kypsennä pannua koko ajan pihdeillä ravistaen 45 sekuntia – 1 minuutti, kunnes poksahdukset hidastuvat noin kolmen sekunnin väliin.",
+      "Siirrä poksahtanut maissi isoon tarjoilukulhoon ja jätä poksahtamattomat jyvät pannulle.",
+      "Sekoita sulatettuun voihin, suolaan ja haluttuihin mausteisiin. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-poppyseed-chicken",
+    "title": "Unikonsiemenkana-vuoka",
+    "description": "Tuhti kanavuoka majoneesilla, kermaviilillä, juustolla ja keksimurupinnalla.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "amerikkalainen", "vuoka"],
+    "ingredients": [
+      "4 broilerin rintafileetä, keitettyinä ja kuutioituina",
+      "2,4 dl majoneesia",
+      "2,4 dl kermaviiliä",
+      "2,4 dl raastettua cheddarjuustoa",
+      "4,8 dl murskattuja voikeksejä (esim. Ritz-keksejä)",
+      "3 rkl unikonsiemeniä",
+      "115 g voita tai margariinia, sulatettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita broileri majoneesin ja kermaviilin kanssa. Levitä seos 23 x 33 cm:n vuoan pohjalle.",
+      "Ripottele päälle juusto, keksit ja unikonsiemenet.",
+      "Valuta voisula tasaisesti päälle.",
+      "Paista 175 asteessa 25 minuuttia."
+    ],
+    "notes": ["Voi koota etukäteen ja jäähdyttää; paista silloin 35–40 minuuttia.", "Jos pakastat ennen paistamista, lisää keksit, unikonsiemenet ja voi vasta paistohetkellä."]
+  }
+]

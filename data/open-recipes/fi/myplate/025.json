@@ -1,0 +1,635 @@
+[
+  {
+    "id": "myplate-orange-honeyed-acorn-squash",
+    "title": "Appelsiini-hunajakurpitsa",
+    "description": "Appelsiinimehu, hunaja, voi ja mausteet sopivat täydellisesti tammikurpitsalle. Tarjoa suosikkiproteiiniruoan kanssa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "kurpitsa", "uuniruoka", "syksy"],
+    "ingredients": [
+      "3 pientä tammikurpitsaa",
+      "2 rkl appelsiinimehua",
+      "½ dl hunajaa",
+      "2 rkl voita tai margariinia",
+      "ripaus muskottipähkinää (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Halkaise kurpitsat.",
+      "Poista siemenet ja aseta puolikkaat matalaan uunivuokaan.",
+      "Sekoita appelsiinimehu ja hunaja.",
+      "Sekoita hyvin.",
+      "Laita hieman appelsiini-hunajaseosta jokaiseen kurpitsan koloon.",
+      "Lisää jokaiseen kurpitsapuolikkaaseen ½ rkl margariinia.",
+      "Ripottele päälle halutessasi muskottipähkinää.",
+      "Peitä vuoka alumiinifoliolla, jotta höyry pysyy sisällä ja kypsyminen nopeutuu.",
+      "Paista 30 minuuttia.",
+      "Poista folio ja paista vielä 30 minuuttia tai kunnes kurpitsa on pehmeää."
+    ],
+    "notes": ["Hunaja ei sovellu alle 1-vuotiaille."]
+  },
+  {
+    "id": "myplate-orange-pork-chops",
+    "title": "Appelsiiniporsaankyljykset",
+    "description": "Bataatti ja appelsiini ovat upea pari porsaankyljyksille. Nauti tämä maukas ruoka ruskean riisin kanssa.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "bataatti", "arkiruoka"],
+    "ingredients": [
+      "2 porsaankyljystä",
+      "1 keskikokoinen bataatti, kuorittuna",
+      "½ keskikokoista appelsiinia, viipaloituna",
+      "ripaus kanelia (valinnainen)",
+      "ripaus suolaa (valinnainen)",
+      "ripaus mustapippuria (valinnainen)",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Ruskista porsaankyljykset keskikokoisella pannulla pienessä määrässä öljyä.",
+      "Leikkaa bataatti 1 cm:n viipaleiksi.",
+      "Aseta liha ja bataattiviipaleet uunivuokaan ja lisää päälle appelsiiniviipaleet; ripottele halutessasi mausteita.",
+      "Peitä ja paista tunti, kunnes liha on mureaa.",
+      "Kypsennä porsas 63 asteen sisälämpöön."
+    ]
+  },
+  {
+    "id": "myplate-oven-baked-potato-pancakes",
+    "title": "Uunissa paistetut perunarieskat",
+    "description": "Nämä perunapannukakut paistetaan helposti uunissa, ja ne ovat terveellisempi versio perinteisestä hanukkareseptistä.",
+    "servings": 12,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "peruna", "uuniruoka", "kananmuna"],
+    "ingredients": [
+      "2 rkl oliiviöljyä (tai muuta öljyä)",
+      "3 rkl täysjyvävehnäjauhoja (tai vehnäjauhoja)",
+      "1 tl leivinjauhetta",
+      "¾ tl suolaa",
+      "2 isoa jauhoista perunaa",
+      "1 pieni sipuli, kuorittuna",
+      "1 kananmuna",
+      "omenasosetta ja jogurttia (maustamatonta, vähärasvaista tai kreikkalaista) tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen. Voitele pellit kevyesti levittämällä öljy puhtaalla kädellä tai talouspaperilla.",
+      "Sekoita jauhot, leivinjauhe ja suola pienessä kulhossa.",
+      "Raasta peruna karkealla raastimella ja raasta sitten myös sipuli.",
+      "Laita peruna-sipuliseos siivilään tiskialtaan päälle.",
+      "Paina perunaseosta talouspaperilla, jotta ylimääräinen neste valuu ja imeytyy pois.",
+      "Sekoita ja kuivaa uudelleen.",
+      "Laita perunaseos isoon kulhoon, lisää muna ja sekoita hyvin.",
+      "Lisää jauhoseos ja sekoita erittäin hyvin.",
+      "Ota lusikalla tai sormilla kimpale perunaseosta ja levitä se pyöreäksi, litteäksi pesäksi voidellulle pellille: sen tulee olla noin 8 cm leveä ja ½ cm paksu.",
+      "Toista, kunnes pelti on täynnä. (Rieskojen välille ei tarvitse jättää tilaa.) Paista, kunnes pohjat ovat tummanruskeita, 15–20 minuuttia, käännä sitten rieskat ja laita takaisin uuniin vielä 10 minuutiksi.",
+      "Tarjoile omenasoseen ja jogurtin kanssa (valinnainen)."
+    ]
+  },
+  {
+    "id": "myplate-oven-baked-sweet-potato-fries",
+    "title": "Uuni-bataattiranskalaiset",
+    "description": "Bataattiranskalaiset ovat nopea ja herkullinen tapa lisätä makua ja väriä päivällislautaselle.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "bataatti", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "3 keskikokoista bataattia (n. 12 cm pitkiä)",
+      "3 rkl oliiviöljyä (tai muuta öljyä)",
+      "suolaa",
+      "mustapippuria",
+      "½ tl paprikajauhetta (valinnainen)",
+      "½ tl valkosipulijauhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Pese ja kuori bataatit.",
+      "Leikkaa ½ cm:n viipaleiksi tai tikuiksi.",
+      "Sekoita isossa kulhossa viipaleet oliiviöljyyn, kunnes peittyvät.",
+      "Ripottele halutessasi päälle suolaa ja pippuria.",
+      "Levitä yhteen kerrokseen uunipellille.",
+      "Paista 220 asteessa, kunnes pehmeitä ja kullanruskeita (noin 20 minuuttia), ja käännä silloin tällöin, jotta ruskistuvat tasaisesti."
+    ]
+  },
+  {
+    "id": "myplate-oven-fried-fish",
+    "title": "Uunipaistettu kala korppujauhoilla",
+    "description": "Uunipaistettu kala sopii tuoreiden kesäkasvisten tai talven täyttävien juuresten kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "arkiruoka", "nopea"],
+    "ingredients": [
+      "1 kananmuna, kevyesti vatkattuna",
+      "½ tl suolaa (valinnainen)",
+      "½ tl mustapippuria",
+      "1¼ dl korppujauhoja",
+      "450 g tilapiafileetä, tuoretta tai sulatettua (4 fileetä)",
+      "1 rkl voita, sulatettuna",
+      "tuoretta limeä tai sitruunaa, viipaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Vatkaa pienessä kulhossa muna, suola (halutessasi) ja pippuri.",
+      "Laita korppujauhot toiseen kulhoon.",
+      "Kasta kalafileet munaseokseen ja sitten korppujauhoihin niin, että pinta peittyy.",
+      "Sulata voi noin 23 x 33 cm:n matalassa uunivuoassa uunissa minuutin ajan.",
+      "Kallista vuokaa, jotta voi leviää pohjalle.",
+      "Aseta kalafileet vuokaan.",
+      "Paista ilman kantta 15–20 minuuttia, kunnes kala hajoaa helposti haarukalla.",
+      "Tarjoile lime- tai sitruunaviipaleiden kanssa (valinnainen)."
+    ]
+  },
+  {
+    "id": "myplate-oven-fried-yucca",
+    "title": "Uunipaistettu maniokki",
+    "description": "Maniokki on tärkkelyspitoinen kasvis, jonka maku ja rakenne muistuttavat valkoista perunaa. Nauti tämä lisuke suosikkipääruoan kanssa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "juurekset", "uuniruoka", "lisuke"],
+    "ingredients": [
+      "450 g maniokkia, kuorittuna ja 7 cm:n paloiksi leikattuna (tai 450 g kuorittua pakastemaniokkia)",
+      "öljyä tai paistosprayta tarvittaessa"
+    ],
+    "instructions": [
+      "Laita maniokki isoon kattilaan ja lisää kylmää vettä niin, että se peittyy 2,5 cm:n verran.",
+      "Kuumenna vesi kiehuvaksi ja hauduta maniokkia hitaasti 20–30 minuuttia, kunnes se on pehmeää.",
+      "Kuumenna uuni 175 asteeseen. Siirrä maniokki reikälusikalla leikkuulaudalle.",
+      "Anna jäähtyä ja leikkaa pituussuunnassa 2 cm:n levyisiksi lohkoiksi ja heitä ohut puumainen ydin pois.",
+      "Voitele uunipelti.",
+      "Levitä maniokkilohkot pellille ja suihkuta niiden päälle öljyä.",
+      "Peitä foliolla ja paista 8 minuuttia.",
+      "Poista folio ja paista vielä 7 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-oven-roasted-chicken",
+    "title": "Uunikana",
+    "description": "Yksinkertainen uunikana sopii päivälliseksi mihin aikaan vuodesta tahansa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "juhla", "gluteeniton"],
+    "ingredients": [
+      "1 broileri (sulatettuna, jos pakaste)",
+      "2 rkl kevyttä italialaista salaatinkastiketta (tai oliiviöljyä)",
+      "1 tl valkosipulisuolaa",
+      "1 sitruuna, neljään osaan leikattuna (tai appelsiini)"
+    ],
+    "instructions": [
+      "Jos broileri on pakastettu, sulata se jääkaapissa 24 tuntia ennen kypsennystä.",
+      "Aseta broileri vuokaan tai lautaselle sulamaan jääkaapissa.",
+      "Kuumenna uuni 190 asteeseen. Poista kaulat ja sisäelimet broilerin vatsaontelosta ennen kypsennystä.",
+      "Säästä muuhun käyttöön.",
+      "Aseta broileri rinta ylöspäin uunivuokaan.",
+      "Sivele broilerin nahka italialaisella kastikkeella ja ripottele päälle valkosipulisuolaa.",
+      "Pane sitruuna tai appelsiini broilerin vatsaonteloon.",
+      "Paista 1¼–1½ tuntia, kunnes reiteen työnnetty lämpömittari näyttää 74 astetta. Anna broilerin levätä uunista ottamisen jälkeen 15 minuuttia ennen paloittelua."
+    ]
+  },
+  {
+    "id": "myplate-oven-roasted-vegetables",
+    "title": "Uunikasvikset",
+    "description": "Yksinkertainen ja herkullinen kasvisruoka sopii hyvin suosikkipääruoan kanssa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "uuniruoka", "kasvikset", "nopea"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 rkl sitruunamehua",
+      "½ tl italialaista yrttisekoitusta",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "7½ dl tuoreita kasviksia (perunaa, parsakaalia, porkkanaa, kukkakaalia tai punaista paprikaa)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen. Sekoita pienessä kulhossa öljy, sitruunamehu, yrttisekoitus, suola ja pippuri.",
+      "Pese, kuori ja leikkaa tuoreet kasvikset paloiksi, jotta saat 7½ dl pilkottuja kasviksia.",
+      "Levitä kasvikset uunipellille.",
+      "Kaada öljyseos kasvisten päälle ja sekoita.",
+      "Paista 20 minuuttia.",
+      "Sekoita 10 minuutin kuluttua.",
+      "Tarjoile kasvikset vielä kuumina."
+    ]
+  },
+  {
+    "id": "myplate-overnight-oatmeal-berries",
+    "title": "Yöpuuro marjoilla",
+    "description": "Maito, jogurtti ja vadelmat yhdistyvät kaurahiutaleisiin sileäksi etukäteen valmistettavaksi aamiaiseksi. Sekoita ja jäähdytä yön yli seuraavaa päivää varten.",
+    "servings": 1,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "kaura", "puuro", "marjat"],
+    "ingredients": [
+      "1¼ dl kevytmaitoa (tai vähemmän paksumpaa puuroa varten)",
+      "½ dl rasvatonta kreikkalaista jogurttia",
+      "2 tl hunajaa",
+      "¼ tl kanelia",
+      "¼ tl vaniljauutetta",
+      "1¼ dl isoja kaurahiutaleita, keittämättömiä",
+      "½ dl pakastevadelmia"
+    ],
+    "instructions": [
+      "Sekoita maito, kreikkalainen jogurtti, hunaja, kaneli ja vaniljauute kannelliseen astiaan tai purkkiin.",
+      "Lisää kaurahiutaleet ja sekoita hyvin.",
+      "Lisää päälle vadelmat tai käännä ne varovasti kaurahiutaleseokseen.",
+      "Peitä ja jäähdytä jääkaapissa 8 tuntia tai yön yli.",
+      "Nauti kylmänä tai lämmitä halutessasi."
+    ],
+    "notes": ["Hunaja ei sovellu alle 1-vuotiaille."]
+  },
+  {
+    "id": "myplate-overnight-oatmeal",
+    "title": "Yöpuuro kuivahedelmillä",
+    "description": "Yön yli liottaminen lyhentää aamun valmistusaikaa, joten saat terveellisen ja täyttävän lämpimän aamiaisen, vaikka torkuttaisit.",
+    "servings": 2,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kaura", "puuro", "pähkinät"],
+    "ingredients": [
+      "2½ dl kaurahiutaleita",
+      "6 dl vettä",
+      "1¼ dl kuivattuja hedelmiä (rusinoita, karpaloita tai aprikooseja)",
+      "½ dl saksanpähkinöitä, kevyesti hienonnettuna (tai pekaanipähkinöitä)"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset kattilaan ja peitä.",
+      "Anna seistä jääkaapissa yön yli.",
+      "Laita aamulla kattila liedelle ja kuumenna keskilämmöllä kiehuvaksi ja laske sitten lämpö pieneksi ja keitä vielä 10–15 minuuttia, kauratyypistä riippuen (pikahiutaleet 5 minuuttia, tavalliset tai leikatut kauran jyvät pidempään).",
+      "Tarjoile lämpimänä pienen maitomäärän (tai kasvimaidon) kanssa, halutessasi lorauksella vaahterasiirappia ja tuoreen hedelmän kanssa."
+    ]
+  },
+  {
+    "id": "myplate-pan-roasted-tilapia-tomatillo-salsa",
+    "title": "Pannulla paistettu tilapia ja tomatillosalsa",
+    "description": "Tilapiafileet paistetaan kullanruskeiksi ja tarjoillaan tuoreen salsan kanssa, joka on tehty paahdetuista tomatilloista, serranochileistä, limestä ja korianterista.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "meksikolainen", "salsa", "nopea"],
+    "ingredients": [
+      "450 g tomatilloja",
+      "1¼ dl keltasipulia, hienonnettuna",
+      "2 serrano- tai muuta chilipippuria, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "3 tl rypsiöljyä",
+      "¼ tl suolaa",
+      "1 rkl tuoretta limemehua (n. ½ limeä)",
+      "½ dl tuoreita korianterinlehtiä, hienonnettuna",
+      "4 tilapiafileetä (à n. 115 g), taputeltuina kuiviksi talouspaperilla"
+    ],
+    "instructions": [
+      "Tomatillosalsa: kuumenna uuni 230 asteeseen. Valmista tomatillot kääntämällä kuori pois sileän vihreän kuoren päältä.",
+      "Huuhtele tomatillot lämpimällä vedellä ja leikkaa neljään osaan.",
+      "Laita kuoritut tomatillot, sipuli, chilit, valkosipuli ja 1 tl öljyä uunivuokaan, sekoita hyvin ja siirrä uuniin.",
+      "Paahda noin 20 minuuttia, kunnes tomatillot ovat pehmeitä ja tummanvihreitä.",
+      "Laita sivuun jäähtymään.",
+      "Siirrä seos tehosekoittimeen; lisää suola, limemehu ja korianteri.",
+      "Soseuta.",
+      "Tilapia: aseta paistinpannu liedelle kovalle lämmölle ja kun se on kuuma, lisää varovasti 2 tl öljyä.",
+      "Laita tilapiafileet pannulle ja odota noin 30 sekuntia lisäysten välillä.",
+      "Paista noin 5–6 minuuttia, kunnes kullanruskeita molemmilta puolilta.",
+      "Siirrä tilapia tarjoilulautaselle ja lisää päälle runsaasti salsaa.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-pancakes-better-baking-mix",
+    "skip": "ei täydellinen resepti (pohjana erillinen 'Better Baking Mix' -leivontaseos, jonka ohje puuttuu)"
+  },
+  {
+    "id": "myplate-panned-cabbage",
+    "title": "Pannulla kypsennetty kaali",
+    "description": "Nopea ja herkullinen ristikukkaisvihannesherkku. Kokeile tätä reseptiä vihreällä tai punaisella kaalilla tai molempien sekoituksella.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "kaali", "kasvikset", "nopea"],
+    "ingredients": [
+      "1½ tl voita (tai margariinia)",
+      "2½ dl valkokaalia, hienoksi suikaloituna",
+      "ripaus suolaa",
+      "mustapippuria",
+      "2 rkl vettä",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Sulata voi tai margariini paksupohjaisessa kattilassa tai pannulla.",
+      "Lisää kaali ja ripottele päälle suola ja pippuri.",
+      "Lisää vesi.",
+      "Peitä pannu tiiviillä kannella, jotta höyry pysyy sisällä.",
+      "Kypsennä miedolla lämmöllä, kunnes kaali on pehmeää (6–8 minuuttia), ja sekoita silloin tällöin, ettei kaali tartu pohjaan.",
+      "Lisää sitruunamehu ja tarjoile."
+    ]
+  },
+  {
+    "id": "myplate-parmesan-chive-biscuits",
+    "title": "Parmesaani-ruohosipulibiskuiitit",
+    "description": "Nauti näitä suolaisia biskuiitteja suosikkijuhla-aterian kanssa.",
+    "servings": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leivonnainen", "juhla", "juusto"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "2½ tl leivinjauhetta",
+      "½ tl suolaa",
+      "1½ dl kevytmaitoa",
+      "4 rkl voita, sulatettuna",
+      "1¾ dl vastaraastettua parmesaania",
+      "½ rkl tuoretta ruohosipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset isossa kulhossa.",
+      "Sekoita hyvin.",
+      "Älä sekoita liikaa.",
+      "Kumoa jauhotetulle alustalle.",
+      "Kaulitse 2,5 cm:n paksuiseksi neliöksi.",
+      "Leikkaa 12 neliöksi.",
+      "Paista pellillä hieman erillään toisistaan 200 asteessa 12–15 minuuttia."
+    ],
+    "notes": ["Alkuperäisessä käytetään valmista biskuiittiseosta (biscuit mix); jauhot, leivinjauhe ja suola korvaavat sen."]
+  },
+  {
+    "id": "myplate-parmesan-peas",
+    "title": "Parmesaaniherneet",
+    "description": "Anna herneille mahdollisuus! Kokeile reseptiä muilla juustoilla tai lisää erilaisia mausteita.",
+    "servings": 7,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "herne", "nopea", "juusto"],
+    "ingredients": [
+      "1½ tl suolatonta voita (tai ruokaöljyä)",
+      "2 tlk (à 400 g) vähäsuolaisia herneitä, valutettuina ja huuhdeltuina (tai 450 g pakasteherneitä)",
+      "1½ tl sitruunamehua",
+      "¼ tl mustapippuria",
+      "¾ dl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Sulata voi keskikokoisella pannulla keskilämmöllä.",
+      "Lisää herneet ja kypsennä 2–3 minuuttia, kunnes herneet ovat kuumia.",
+      "Lisää sitruunamehu ja pippuri ja sekoita hyvin.",
+      "Ripottele päälle parmesaani ja tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-parsley-almond-and-lemon-pesto",
+    "title": "Persilja-manteli-sitruunapesto",
+    "description": "Basilikan sijasta tässä reseptissä käytetään tuoretta persiljaa, ja tuloksena on yksinkertaisen herkullinen pesto!",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "pesto", "nopea", "italialainen"],
+    "ingredients": [
+      "¾ dl mantelilastuja",
+      "¾ dl parmesaania",
+      "2½ dl tuoretta persiljaa",
+      "½ sitruunan mehu",
+      "½ dl oliiviöljyä (tai muuta öljyä)",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita monitoimikoneessa mantelit, juusto, persilja ja sitruunamehu.",
+      "Kaada öljy hitaasti joukkoon ja sekoita muiden ainesten sekaan.",
+      "Mausta suolalla ja pippurilla, jos käytät."
+    ]
+  },
+  {
+    "id": "myplate-parsnip-soup",
+    "title": "Palsternakkakeitto",
+    "description": "Jos etsit herkullisia ideoita juureksille, olet oikeassa paikassa! Tämä resepti on täynnä kasviksia ja makua, ja ne soseutetaan täyttäväksi keitoksi.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["vegaaninen", "keitto", "juurekset", "peruna"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "5 dl sipulia, pilkottuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "3 valkosipulinkynttä, hienonnettuna (tai ¾ tl valkosipulijauhetta)",
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "7½ dl palsternakkaa, pilkottuna (n. 450 g)",
+      "2½ dl perunaa, kuorittuna ja kuutioituna",
+      "10 dl kasvislientä",
+      "2½ dl vettä",
+      "1 rkl suolatonta margariinia tai voita"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Lisää sipuli ja selleri ja kypsennä pehmeiksi, noin 5 minuuttia.",
+      "Lisää valkosipuli, suola ja pippuri ja kypsennä minuutti.",
+      "Sekoita joukkoon palsternakat, peruna, liemi ja vesi.",
+      "Kuumenna kiehuvaksi ja laske lämpö miedoksi. Hauduta 20 minuuttia tai kunnes palsternakat ja perunat ovat pehmeitä.",
+      "Sekoita joukkoon margariini tai voi ja anna keiton seistä ilman kantta 5 minuuttia.",
+      "Soseuta keitto erissä tehosekoittimessa ja noudata laitteen ohjetta kuuman nesteen soseuttamisesta.",
+      "Lämmitä keitto ennen tarjoilua ja lisää vettä, jos se vaikuttaa liian paksulta."
+    ]
+  },
+  {
+    "id": "myplate-party-time-pasta",
+    "title": "Juhlapasta",
+    "description": "Maukas ja värikäs ruoka, josta koko perhe pitää. Käytä mitä pakastekasviksia tahansa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "pasta", "arkiruoka", "kasvikset"],
+    "ingredients": [
+      "225 g kalkkunan jauhelihaa",
+      "1 tl paprikajauhetta",
+      "1 tlk (400 g) tomaattimurskaa",
+      "5 dl vähäsuolaista kanalientä",
+      "5 dl perhospastaa, keittämätöntä",
+      "7½ dl pakastekasviksia (kuten porkkanaa, parsakaalia ja kukkakaalia), sulatettuina",
+      "Päälle:",
+      "1¼ dl tuoretta persiljaa, hienonnettuna (tai 2 rkl kuivattua)",
+      "½ dl maustettua korppujauhoa",
+      "½ dl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Kuumenna iso pinnoitettu pannu keskilämmöllä.",
+      "Lisää kalkkunan jauheliha ja paprikajauhe.",
+      "Kypsennä ja sekoita, kunnes liha on ruskeaa eikä enää vaaleanpunaista, noin 5 minuuttia.",
+      "Sekoita joukkoon tomaatit, kanaliemi ja pasta.",
+      "Kuumenna seos kiehuvaksi.",
+      "Laske lämpö keskipieneksi.",
+      "Peitä ja hauduta, kunnes pasta on lähes pehmeää, noin 10–15 minuuttia.",
+      "Poista kansi.",
+      "Aseta kasvikset pastan päälle.",
+      "Laita kansi takaisin.",
+      "Kypsennä, kunnes kasvikset ovat pehmeitä, noin 5 minuuttia.",
+      "Valmista päälle ripoteltava seos.",
+      "Sekoita persilja, korppujauhot ja parmesaani.",
+      "Ripottele pannulla olevien kasvisten päälle.",
+      "Peitä ja anna seistä 3 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-passover-rhubarb-cobbler",
+    "title": "Raparperipaistos matzojauhoilla",
+    "description": "Pääsiäinen on juutalainen kevätjuhla, mutta tämä hedelmäinen jälkiruoka sopii mihin aikaan vuodesta tahansa. Jos et halua maissitärkkelystä, voit käyttää saman määrän pikatapiokavanukasta.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "raparperi", "uuniruoka", "marjat"],
+    "ingredients": [
+      "4 dl sokeria, jaettuna",
+      "½ dl maissitärkkelystä",
+      "10 dl raparperipaloja (1 cm:n paloja)",
+      "2½ dl tuoreita vadelmia",
+      "2 rkl sitruunamehua",
+      "2½ dl matzojauhoa",
+      "115 g suolatonta voita (tai margariinia)",
+      "ripaus muskottipähkinää",
+      "sitruunasorbettia tai vaahtokermaa tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita matalassa noin 2 litran uunivuoassa 3 dl sokeria ja maissitärkkelys.",
+      "Lisää raparperi, vadelmat ja sitruunamehu ja sekoita varovasti mutta huolellisesti.",
+      "Sekoita sillä välin monitoimikoneessa tai kulhossa sormin matzojauho, loput 1¼ dl sokeria, margariini ja muskotti hienoksi muruksi.",
+      "Purista matzoseosta kokoon möykyiksi ja murenna raparperiseoksen päälle.",
+      "Paista 190 asteessa, kunnes seos kuplii keskeltä ja pinta on kullanruskea, noin tunti.",
+      "Anna jäähtyä 15 minuuttia.",
+      "Lusikoi kulhoihin ja lisää päälle sorbettia tai vaahtokermaa (valinnainen)."
+    ]
+  },
+  {
+    "id": "myplate-pasta-bolognese",
+    "title": "Pasta bolognese",
+    "description": "Rikas punainen kastike yhdistää naudan jauhelihan, porkkanan, sellerin, sipulin ja tomaatit, ja pieni määrä maitoa tekee siitä kermaisemman. Kastike hautuu hitaasti, ja se on herkullista kaikkien lempipastojen päällä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "italialainen", "arkiruoka"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1 porkkana, ½ cm:n kuutioina",
+      "1 varsiselleri, ½ cm:n kuutioina",
+      "1 keltasipuli, ½ cm:n paloina",
+      "340 g vähärasvaista naudan jauhelihaa",
+      "2½ dl vettä",
+      "2 tlk (à 400 g) tomaattimurskaa tai tomaattipaloja nesteineen",
+      "½ dl tomaattipyreetä",
+      "2½ dl kevytmaitoa",
+      "225 g täysjyväpastaa",
+      "½ dl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Tee bolognesekastike: aseta paistinpannu keskilämmölle ja kun se on kuuma, lisää öljy.",
+      "Lisää porkkana, selleri ja sipuli ja kypsennä noin 10 minuuttia sekoittaen silloin tällöin, kunnes kasvikset alkavat ruskistua.",
+      "Nosta lämpö kovaksi.",
+      "Nipistä jauhelihasta ruokalusikallisen kokoisia paloja ja lisää niitä muutama kerrallaan sekoittaen hyvin lisäysten välillä.",
+      "Kypsennä ja murenna liha, kunnes se ei ole enää raakaa, alkaa irrottaa nestettä eikä enää möykisty, noin 10 minuuttia.",
+      "Lisää vesi, tomaatit ja tomaattipyree ja sekoita hyvin.",
+      "Kypsennä noin 10 minuuttia, kunnes kastike alkaa sakeutua.",
+      "Sekoita maito joukkoon hitaasti vähän kerrallaan.",
+      "Laske lämpö pieneksi ja kypsennä 45 minuuttia, kunnes kaikki neste on imeytynyt.",
+      "Pasta: täytä iso kattila puoliksi vedellä.",
+      "Kuumenna kiehuvaksi kovalla lämmöllä.",
+      "Lisää pasta ja keitä noin 12 minuuttia juuri pehmeäksi.",
+      "Valuta pasta ja jaa 4 kulhoon.",
+      "Lisää jokaiseen kulhoon noin 1¾ dl bolognesekastiketta ja ripottele päälle 1 rkl parmesaania.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-pasta-chickpeas-tomato-and-spinach",
+    "title": "Pasta kikherneillä, tomaatilla ja pinaatilla",
+    "description": "Kikherneet, tomaatit, pinaatti ja häivähdys rosmariinia tekevät tästä pastaruoasta herkullisen. Tarjoile lämpimänä parmesaanilla ripoteltuna. Nopea ja helppo arki-illan ateria.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "palkokasvit", "italialainen"],
+    "ingredients": [
+      "1 pieni keltasipuli, ½ cm:n paloina",
+      "225 g täysjyväpastaa (esim. fusilleja tai simpukoita)",
+      "1 rkl rypsiöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 porkkanaa, ½ cm:n kuutioina",
+      "1 varsiselleri, ½–1 cm:n paloina",
+      "½ tl kuivattua rosmariinia",
+      "1 tlk (400 g) vähäsuolaisia kikherneitä, valutettuina ja huuhdeltuina",
+      "1 tlk (400 g) tomaattipaloja nesteineen",
+      "5 dl pinaattia, pilkottuna",
+      "½ tl chilihiutaleita (valinnainen)",
+      "½ dl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Keitä pasta täyttämällä kattila vedellä ja kuumentamalla se kiehuvaksi kovalla lämmöllä.",
+      "Kun vesi kiehuu, lisää pasta ja keitä juuri pehmeäksi, noin 12 minuuttia.",
+      "Ota juuri ennen valutusta talteen 3½ dl pastavettä.",
+      "Valuta pasta ja laita sivuun.",
+      "Valmista pastan kypsyessä kastike: aseta pannu liedelle miedolle–keskilämmölle ja kun se on kuuma, lisää öljy.",
+      "Lisää valkosipuli, sipuli, porkkanat, selleri ja rosmariini ja kypsennä, kunnes valkosipuli on kullanruskeaa, noin 10 minuuttia.",
+      "Lisää kikherneet ja muussaa puolet niistä kevyesti haarukalla.",
+      "Lisää talteen otettu pastavesi ja tomaatit ja kypsennä 10 minuuttia.",
+      "Lisää pasta ja pinaatti pannulle ja kypsennä, kunnes pinaatti on pehmeää ja suurin osa nesteestä on imeytynyt pastaan, noin 10 minuuttia.",
+      "Lisää halutessasi chilihiutaleet.",
+      "Sekoita hyvin ja tarjoile heti parmesaanilla koristeltuna."
+    ]
+  },
+  {
+    "id": "myplate-pasta-frittata-peas",
+    "skip": "ohje puutteellinen (valmistusvaiheet puuttuvat lähteestä)"
+  },
+  {
+    "id": "myplate-pasta-greens-beans-and-chicken",
+    "title": "Pasta lehtivihanneksilla, pavuilla ja kanalla",
+    "description": "Proteiinia ja kuitua pursuava herkullinen ruoka valmistuu nopeasti. Nauti suosikkihedelmien kera.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "450 g täysjyväpastaa",
+      "1 rkl rypsiöljyä",
+      "½ keskikokoista sipulia, pilkottuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "5 dl kypsää kanaa kuutioina (tai 3 pilkottua kanamakkaraa)",
+      "15 dl pinaattia, pilkottuna (tai 1 nippu mangoldia)",
+      "1 tlk (400 g) vähäsuolaisia valkoisia papuja, huuhdeltuina ja valutettuina",
+      "5 dl vähäsuolaista kanalientä (tai kasvislientä)",
+      "1 tl italialaista yrttisekoitusta",
+      "suolaa (valinnainen)",
+      "mustapippuria (valinnainen)",
+      "raastettua parmesaania, 1¼ dl (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan ja valuta.",
+      "Lisää keskilämmöllä öljy ja sipuli isolle pannulle.",
+      "Kypsennä 5 minuuttia, lisää valkosipuli ja kypsennä vielä minuutti.",
+      "Sekoita joukkoon pilkottu kana ja kypsennä, kunnes kuumaa läpikotaisin.",
+      "Lisää pinaatti (tai mangoldi), pavut, kana- tai kasvisliemi ja yrttisekoitus.",
+      "Lisää keitetty pasta ja sekoita.",
+      "Kypsennä 5 minuuttia, kunnes pasta on kuumaa läpikotaisin.",
+      "Lisää suola ja pippuri maun mukaan (valinnainen) ja koristele parmesaanilla ennen tarjoilua (valinnainen)."
+    ]
+  },
+  {
+    "id": "myplate-pasta-primavera-salad",
+    "title": "Kevätpastasalaatti",
+    "description": "Käytä täysjyväpastaa lisätäksesi tämän maukkaan kevätsalaatin kuitua.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["kasvis", "pasta", "salaatti", "kananmuna"],
+    "ingredients": [
+      "340 g pastaa, keittämätöntä",
+      "1 pkt (300 g) pakastekasvissekoitusta",
+      "2½ dl kevyttä salaatinkastiketta",
+      "1¼ dl raastettua vähärasvaista juustoa",
+      "3 kovaksi keitettyä kananmunaa, viipaloituna"
+    ],
+    "instructions": [
+      "Keitä pasta pakkauksen ohjeen mukaan.",
+      "Huuhtele kylmällä vedellä kypsymisen pysäyttämiseksi ja tarttumisen estämiseksi.",
+      "Valuta.",
+      "Kypsennä kasvikset juuri pehmeiksi.",
+      "Valuta ja jäähdytä.",
+      "Sekoita kylmä pasta, kasvikset ja salaatinkastike.",
+      "Lisää päälle viipaloidut munat ja juusto.",
+      "Jäähdytä jääkaapissa tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "myplate-pasta-primavera-spaghetti-sauce",
+    "title": "Pastaa ja kasviksia spagettikastikkeessa",
+    "description": "Nopea ja helppo valmistaa, ja siitä tulee kotisi suosikki.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "nopea", "arkiruoka"],
+    "ingredients": [
+      "7½ dl pastaa, keittämätöntä",
+      "1 pkt (300 g) pakastekasvissekoitusta",
+      "1 purkki (680 g) spagettikastiketta",
+      "4 rkl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Valmista pasta pakkauksen ohjeen mukaan.",
+      "Lisää pakastekasvikset kypsennyksen viimeisten 5 minuutin aikana.",
+      "Valuta pasta ja kasvikset ja laita sivuun.",
+      "Kuumenna spagettikastike kiehuvaksi keskilämmöllä.",
+      "Sekoita joukkoon pasta ja kasvikset.",
+      "Ripottele päälle raastettu parmesaani."
+    ]
+  }
+]

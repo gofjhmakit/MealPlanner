@@ -1,0 +1,653 @@
+[
+  {
+    "id": "myplate-low-calorie-dressing",
+    "title": "Kevyt tomaattisalaatinkastike",
+    "description": "Vähäkalorinen mutta täyteläinen kastike. Piristä mikä tahansa salaatti tällä maukkaalla kastikkeella.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "nopea", "kevyt"],
+    "ingredients": [
+      "1¼ dl tomaattimehua",
+      "2 rkl sitruunamehua (tai etikkaa)",
+      "1 tl sipulia, raastettuna",
+      "½ tl worcestershirekastiketta",
+      "¼ tl suolaa",
+      "¼ tl sinappia"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset.",
+      "Vispaa tai sekoita tasaiseksi.",
+      "Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-low-fat-creamy-dressing",
+    "title": "Kevyt kermainen kastike",
+    "description": "Viileä ja raikas kastike tai dippi salaatille tai kasvisvadille.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "dippi", "nopea"],
+    "ingredients": [
+      "1¼ dl kevytmajoneesia",
+      "1¼ dl maustamatonta rasvatonta jogurttia",
+      "¼ tl kuivattua tilliä",
+      "½ tl sellerisuolaa"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset pienessä astiassa.",
+      "Säilytä peitettynä jääkaapissa ja käytä viikon sisällä."
+    ]
+  },
+  {
+    "id": "myplate-low-fat-ranch-dip",
+    "title": "Kevyt ranch-dippi valkoisista pavuista",
+    "description": "Tehosekoitin muuttaa säilykepavut, yrtit ja mausteet herkulliseksi ranch-tyyliseksi dipiksi!",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "palkokasvit", "nopea"],
+    "ingredients": [
+      "1 tlk (400 g) vähäsuolaisia valkoisia papuja, huuhdeltuina ja valutettuina",
+      "½ dl vettä",
+      "1¼ dl vähärasvaista maustamatonta jogurttia",
+      "½ tl valkosipulijauhetta",
+      "ripaus cayennepippuria",
+      "¼ tl mustapippuria",
+      "1 rkl tuoretta ruohosipulia, hienonnettuna",
+      "1 rkl tuoretta persiljaa, hienonnettuna",
+      "¼ tl kuivattua rakuunaa",
+      "¼ tl suolaa",
+      "1 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Soseuta pavut ja valkosipuli tehosekoittimessa ja lisää vettä halutun koostumuksen mukaan.",
+      "Sekoita 2 minuuttia silkinsileäksi.",
+      "Kaavi seos lastalla keskikokoiseen kulhoon.",
+      "Sekoita joukkoon jogurtti, cayenne, ruohosipuli, persilja, rakuuna, suola ja sitruunamehu.",
+      "Tarjoile kulhossa."
+    ]
+  },
+  {
+    "id": "myplate-mac-and-beans-medley",
+    "title": "Makaroni-papupata",
+    "description": "Paprika, tomaatit ja pavut tuovat väriä ja makua ateriaan, ja chilihiutaleet lisäävät hieman tulisuutta.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "pasta", "palkokasvit", "arkiruoka"],
+    "ingredients": [
+      "4 valkosipulinkynttä",
+      "1 paprika (vihreä, punainen, keltainen tai oranssi)",
+      "2 rkl ruokaöljyä",
+      "1 tlk (400 g) tomaattipaloja",
+      "½ tl chilihiutaleita, murskattuina",
+      "1 tlk (400 g) vähäsuolaisia papuja, valutettuina ja huuhdeltuina (musta-, kidney-, pinto- tai muita)",
+      "4¾ dl keitettyjä makaroneja, ilman suolaa ja rasvaa (tai muuta pastaa)"
+    ],
+    "instructions": [
+      "Kuori ja hienonna valkosipuli.",
+      "Poista paprikasta siemenkota ja siemenet ja hienonna paprika.",
+      "Kuumenna öljy isolla pannulla keskikovalla lämmöllä.",
+      "Lisää valkosipuli ja paprika.",
+      "Kypsennä minuutti.",
+      "Älä anna valkosipulin ruskistua.",
+      "Lisää tomaattipalat nesteineen ja chilihiutaleet.",
+      "Peitä pannu ja laske lämpöä.",
+      "Kypsennä 10 minuuttia tai kunnes kastike on hieman sakeutunut.",
+      "Lisää pavut ja keitetty makaroni pannulle ja kypsennä 5 minuuttia, kunnes kuumaa läpikotaisin.",
+      "Tarjoile kuumana."
+    ]
+  },
+  {
+    "id": "myplate-macaroni-cheese-broccoli",
+    "title": "Makaroni-juustopasta parsakaalilla",
+    "description": "Parsakaali tuo makua, rakennetta ja ravintoaineita tähän kermaiseen versioon perinteisestä makaronilaatikosta. Tarjoa syksyllä tai talvella paahdetun kurpitsan tai bataatin kanssa, keväällä paahdetun punajuuren kanssa ja kesällä tomaattisalaatin kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "juusto", "arkiruoka"],
+    "ingredients": [
+      "4¾ dl keittämättömiä kyynärpäämakaroneja",
+      "4 rkl vehnäjauhoja",
+      "4¾ dl kevytmaitoa",
+      "4¾ dl raastettua vähärasvaista cheddarjuustoa",
+      "½ tl mustapippuria",
+      "4¾ dl keitettyä parsakaalia, pilkottuna"
+    ],
+    "instructions": [
+      "Keitä makaronit pakkauksen ohjeen mukaan.",
+      "Valuta keitetyt makaronit ja laita takaisin kattilaan.",
+      "Ripottele jauhot makaronien päälle niiden ollessa vielä lämpimiä ja sekoita huolellisesti.",
+      "Sekoita maito hitaasti makaronien joukkoon keskilämmöllä.",
+      "Lisää juusto ja pippuri.",
+      "Sekoita keskilämmöllä, kunnes maito ja juusto sakenevat kermaiseksi kastikkeeksi, noin 7–10 minuuttia.",
+      "Sekoita joukkoon parsakaali ja kuumenna läpikotaisin.",
+      "Maista ja lisää tarvittaessa pieni määrä suolaa.",
+      "Säilytä tähteet jääkaapissa."
+    ],
+    "notes": ["Alkuperäisessä jauhomäärä on 1 dl; aloita ½ dl:lla ja lisää tarvittaessa."]
+  },
+  {
+    "id": "myplate-macaroni-chick-pea-soup",
+    "title": "Makaroni-kikhernekeitto",
+    "description": "Maukas keitto täynnä tomaatteja, vihreitä papuja ja kikherneitä. Reseptin voi helposti kaksinkertaistaa tähteiksi tai suurelle joukolle.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "palkokasvit", "pasta"],
+    "ingredients": [
+      "8½ dl vähäsuolaista kanalientä",
+      "2½ dl vettä",
+      "4¼ dl kuivia makaroneja",
+      "½ tl kuivattua sellerinlehteä (tai sipulijauhetta)",
+      "½ tl oreganoa",
+      "2½ dl muhennettuja tomaatteja",
+      "2½ dl vihreitä papuja",
+      "1 tlk (400 g) vähäsuolaisia kikherneitä, valutettuina",
+      "¼ tl valkosipulijauhetta"
+    ],
+    "instructions": [
+      "Kuumenna liemi ja vesi kiehuvaksi isossa kattilassa.",
+      "Laske lämpö pieneksi.",
+      "Lisää makaroni, sellerinlehti ja oregano.",
+      "Hauduta 4 minuuttia ja sekoita silloin tällöin.",
+      "Lisää muhennetut tomaatit, vihreät pavut, kikherneet ja valkosipulijauhe.",
+      "Hauduta 5 minuuttia tai kunnes makaroni ja pavut ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-magic-crust-quiche",
+    "title": "Taikapohjapiirakka",
+    "description": "Maagisen herkullinen pääruoka. Käytä kasviksia, mitä kaapista löytyy.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "kananmuna", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "1¼ dl sipulia, hienonnettuna",
+      "5 dl pakastekasviksia, suolattomia (tai tuoreita tai tähteitä)",
+      "2½ dl raastettua vähärasvaista cheddarjuustoa",
+      "3 kananmunaa",
+      "3½ dl kevytmaitoa",
+      "1¾ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuullota sipuli öljyssä (tai kypsennä kasvisten kanssa).",
+      "Kypsennä kasvikset (tai käytä tähteitä).",
+      "Valuta hyvin.",
+      "Voitele pyöreä piirakkavuoka tai noin 20 x 20 cm:n uunivuoka.",
+      "Levitä kypsät kasvikset vuokaan.",
+      "Levitä juusto kasvisten päälle.",
+      "Sekoita maito, munat, jauhot, leivinjauhe ja suola.",
+      "Kaada kasvisten ja juuston päälle.",
+      "Paista 175 asteessa 35 minuuttia, kunnes sisälämpö on turvallinen ja keskelle työnnetty veitsi tulee puhtaana ulos."
+    ],
+    "notes": ["Alkuperäisessä käytetään amerikkalaista leivontaseosta (Bisquick); jauho ja leivinjauhe ajavat saman asian."]
+  },
+  {
+    "id": "myplate-magic-mix",
+    "title": "Taikaseos",
+    "description": "Tee seos etukäteen ja käytä sitä lähes missä tahansa reseptissä, jossa tarvitaan leivontaseosta.",
+    "servings": 4,
+    "category": "Muut",
+    "tags": ["kasvis", "leivonta", "seos", "nopea"],
+    "ingredients": [
+      "7 dl rasvatonta maitojauhetta",
+      "2½ dl vehnäjauhoja",
+      "¾ dl margariinia",
+      "ripaus suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita maitojauhe, jauho ja suola isossa kulhossa.",
+      "Nypi margariini seokseen kahdella veitsellä, kunnes seos näyttää maissijauholta.",
+      "Säilytä kuivassa, suljetussa astiassa jääkaapissa enintään 6 viikkoa."
+    ]
+  },
+  {
+    "id": "myplate-magical-fruit-salad",
+    "title": "Taikahedelmäsalaatti",
+    "description": "Koko perhe pitää tämän valmistamisesta yhtä paljon kuin syömisestä! Ananas, viinirypäleet ja banaanit tuovat makua ja rakennetta tähän kermaiseen jälkiruokaan.",
+    "servings": 12,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hedelmät", "salaatti", "lapsille"],
+    "ingredients": [
+      "1 tlk (570 g) ananaspaloja mehussa",
+      "2½ dl siemenettömiä viinirypäleitä, punaisia tai vihreitä",
+      "2 keskikokoista banaania",
+      "4¼ dl rasvatonta maitoa (tai kevytmaitoa)",
+      "1 pkt (100 g) pikavanukasjauhetta, sitruuna tai vanilja"
+    ],
+    "instructions": [
+      "Valuta ananaksista mehu pois.",
+      "Laita palat isoon kulhoon.",
+      "Huuhtele viinirypäleet ja valuta.",
+      "Lisää viinirypäleet kulhoon.",
+      "Kuori banaanit ja leikkaa suupaloiksi.",
+      "Lisää kulhoon.",
+      "Kaada maito hedelmien päälle.",
+      "Ripottele vanukasjauhe sekaan hitaasti hedelmäseosta sekoittaen.",
+      "Anna seoksen seistä 5 minuuttia ja tarjoile.",
+      "Laita tähteet jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-mango-berry-rotini-salad",
+    "title": "Mango-marjapastasalaatti",
+    "description": "Mango, marjat, pinaatti ja fetajuusto tekevät pastasalaatista värikkään, makean ja raikkaan tasapainoisen.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "pasta", "salaatti", "marjat"],
+    "ingredients": [
+      "2½ dl täysjyväfusilleja, keittämättömiä (n. 115 g)",
+      "1 kypsä mango",
+      "2½ dl vadelmia",
+      "2½ dl mustikoita",
+      "5 dl tuoretta babypinaattia",
+      "1¼ dl vähärasvaista fetajuustoa",
+      "Vinegretti:",
+      "3 rkl extra-neitsytoliiviöljyä",
+      "2 rkl vadelmaetikkaa",
+      "1 tl sokeria",
+      "1 tl unikonsiemeniä",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Vispaa vinegretin ainekset pienessä kulhossa ja laita sivuun.",
+      "Keitä pasta kiehuvassa vedessä pakkauksen ohjeen mukaan.",
+      "Valuta keitetty pasta ja huuhtele viileällä vedellä.",
+      "Leikkaa pastan kypsyessä mango paloiksi kuori ja kivi poistaen.",
+      "Laita salaatin ainekset isoon kulhoon ja valuta päälle vinegretti.",
+      "Sekoita varovasti."
+    ]
+  },
+  {
+    "id": "myplate-mango-cucumber-soup",
+    "title": "Mango-kurkkukeitto",
+    "description": "Makeat, kypsät mangot ovat pohjana tässä raikkaassa ja nopeassa kylmässä kesäkeitossa. Ei tarvita liettä, sopii kuumille päiville.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "mango", "kesä"],
+    "ingredients": [
+      "2 kypsää mangoa, jaettuna",
+      "1 pitkä kurkku, jaettuna",
+      "2 rkl sipulia, hienonnettuna",
+      "1 jalapeño, hienoksi kuutioituna (valinnainen)",
+      "1 limen mehu",
+      "1¼ dl vettä",
+      "2 purkkia (à 170 g) maustamatonta rasvatonta kreikkalaista jogurttia",
+      "½ dl tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Leikkaa mangoista kaikki paitsi yksi puolikas paloiksi kuori ja kivi poistaen; laita jäljelle jäävä mangopuolikas jääkaappiin koristeeksi.",
+      "Leikkaa kurkusta neljäsosa pois ja laita jääkaappiin koristeeksi.",
+      "Pilko loput ¾ kurkusta karkeasti.",
+      "Laita pilkottu mango, kurkku, sipuli ja jalapeño (valinnainen) tehosekoittimeen tai monitoimikoneeseen limemehun ja veden kanssa.",
+      "Soseuta sileäksi.",
+      "Sekoita joukkoon jogurtti.",
+      "Jäähdytä tarjoiluun asti.",
+      "Valmista koriste noin 15–30 minuuttia ennen tarjoilua.",
+      "Kuutioi jäähtynyt mangopuolikas kuori ja kivi poistaen; kuutioi loput kurkusta.",
+      "Sekoita mango- ja kurkkukuutiot korianterin kanssa.",
+      "Lisää koriste keittokulhojen päälle."
+    ]
+  },
+  {
+    "id": "myplate-mango-salsa",
+    "title": "Mangosalsa",
+    "description": "Makea ja hapan salsa sopii täydellisesti grillatun tai uunissa kypsennetyn kalan tai kanan kanssa. Resepti kaksinkertaistuu helposti suurelle joukolle.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "salsa", "mango", "nopea"],
+    "ingredients": [
+      "1 mango, kuorittuna, kivi poistettuna ja kuutioituna (tai 2½ dl sulatettuja pakastepaloja)",
+      "1 rkl punasipulia, kuutioituna",
+      "1 rkl tuoretta korianteria (valinnainen)",
+      "¼ tl suolaa",
+      "2 rkl limemehua"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset kulhossa.",
+      "Tarjoile uunitortillasipsien kanssa."
+    ]
+  },
+  {
+    "id": "myplate-mango-salsa1",
+    "title": "Mango-paprikasalsa",
+    "description": "Tuoreen mangon makeus yhdistyy paprikaan, sipuliin ja limeen raikkaaksi ja rapeaksi makuyhdistelmäksi. Tarjoa alkupalana uunitortillasipsien tai täysjyväkeksien kanssa.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "salsa", "mango", "nopea"],
+    "ingredients": [
+      "1 mango, kuorittuna ja pilkottuna",
+      "½ dl vihreää paprikaa, pilkottuna",
+      "1 kevätsipuli, pilkottuna",
+      "1 limen mehu (1–2 rkl)"
+    ],
+    "instructions": [
+      "Kuori ja pilko mango ja muista poistaa kivi.",
+      "Pilko paprika ja sipuli pieniksi paloiksi.",
+      "Sekoita kaikki ainekset keskenään."
+    ]
+  },
+  {
+    "id": "myplate-mango-shake",
+    "title": "Mango-banaanismoothie",
+    "description": "Hedelmäinen ja kylmä herkku! Banaani, mango ja maito sekoitetaan herkulliseksi juomaksi.",
+    "servings": 4,
+    "category": "Juomat",
+    "tags": ["kasvis", "smoothie", "mango", "nopea"],
+    "ingredients": [
+      "4¾ dl kevytmaitoa",
+      "1 tuore mango, kivi poistettuna (tai 4 rkl pakastettua mangomehua)",
+      "1 keskikokoinen banaani",
+      "2 jääpalaa"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Sekoita vaahtoavaksi.",
+      "Tarjoile heti."
+    ]
+  },
+  {
+    "id": "myplate-manhattan-clam-chowder",
+    "title": "Manhattan-simpukkakeitto",
+    "description": "Runsas keitto täynnä porkkanoita, tomaatteja, perunoita ja simpukoita, joka valmistuu helposti hitaassa kattilassa.",
+    "servings": 9,
+    "category": "Keitot",
+    "tags": ["äyriäiset", "keitto", "peruna", "amerikkalainen"],
+    "ingredients": [
+      "3½ dl perunaa, viipaloituna",
+      "3 keskikokoista varsiselleriä, pestyinä ja viipaloituina",
+      "1 iso sipuli, pilkottuna",
+      "1¼ dl vähäsuolaista tomaattipyreetä",
+      "3½ dl porkkanaa, pestynä ja viipaloituna",
+      "2 tlk (à 185 g) simpukoita, pilkottuina ja valutettuina",
+      "1½ tl kuivattua timjamia",
+      "1 laakerinlehti",
+      "muutama mustapippuri",
+      "3½ dl vettä",
+      "4¾ dl tomaattimehua",
+      "1 rkl kuivattua persiljaa"
+    ],
+    "instructions": [
+      "Harjaa perunat huolellisesti ja poista silmut ja virheet.",
+      "Sekoita kaikki ainekset hitaassa kattilassa.",
+      "Peitä ja kypsennä matalalla teholla 8–10 tuntia tai kunnes kasvikset ovat pehmeitä.",
+      "Poista laakerinlehti ja pippurit ennen tarjoilua."
+    ],
+    "notes": ["Voi kypsentää myös tavallisessa kattilassa noin tunnin ajan."]
+  },
+  {
+    "id": "myplate-maple-sweet-potatoes",
+    "title": "Vaahterabataatti",
+    "description": "Bataatti, vaahterasiirappi, appelsiinimehu ja jogurtti ovat voittava yhdistelmä tässä helpossa mikrossa valmistuvassa lisukkeessa.",
+    "servings": 2,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "bataatti", "mikro", "nopea"],
+    "ingredients": [
+      "2 isoa bataattia",
+      "2 rkl rasvatonta jogurttia",
+      "1 rkl vaahterasiirappia",
+      "1 rkl appelsiinimehua"
+    ],
+    "instructions": [
+      "Pistele bataattien kuoret haarukalla.",
+      "Kypsennä mikrossa täydellä teholla 3–4 minuuttia, kunnes pehmeitä ja veitsellä helposti pistettävissä.",
+      "Kaavi malto keskikokoiseen kulhoon.",
+      "Muussaa malto ja sekoita joukkoon jogurtti, vaahterasiirappi ja appelsiinimehu.",
+      "Siirrä mikrokestävään tarjoilukulhoon ja kuumenna mikrossa 1–2 minuuttia läpikotaisin kuumaksi."
+    ]
+  },
+  {
+    "id": "myplate-marinara-sauce",
+    "title": "Marinarakastike pinaatilla",
+    "description": "Säilyketomaatit ja tuore pinaatti sopivat kauniisti yhteen tässä nopeassa ja maukkaassa marinarareseptissä.",
+    "servings": 16,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kastike", "pasta", "italialainen"],
+    "ingredients": [
+      "2 tl rypsiöljyä",
+      "2 sipulia, kuutioituna",
+      "½ tl valkosipulijauhetta",
+      "2 porkkanaa, kuutioituna",
+      "1¾ dl varsiselleriä, kuutioituna",
+      "4 tlk (à 400 g) vähäsuolaista tomaattimurskaa",
+      "1 rkl italialaista yrttisekoitusta",
+      "suolaa",
+      "mustapippuria",
+      "5 dl tuoretta pinaattia, karkeasti pilkottuna"
+    ],
+    "instructions": [
+      "Pese kasvikset.",
+      "Kerää, kuutioi ja mittaa kaikki ainekset ennen aloittamista.",
+      "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+      "Lisää sipuli ja valkosipulijauhe.",
+      "Kypsennä noin 10 minuuttia tai kunnes sipuli on kirkasta.",
+      "Lisää porkkanat ja selleri ja kypsennä 5 minuuttia hieman pehmeiksi.",
+      "Lisää tomaatit ja yrttisekoitus.",
+      "Sekoita, kunnes kaikki on sekoittunut.",
+      "Maista ja lisää hieman suolaa ja pippuria halutessasi.",
+      "Nosta lämpö keskikovaksi ja kuumenna kastike kiehuvaksi.",
+      "Kun kastike kiehuu, laske lämpö pieneksi.",
+      "Hauduta ilman kantta vähintään 30 minuuttia.",
+      "Sekoita joukkoon pinaatti ja kypsennä 2 minuuttia, kunnes pinaatti lakastuu.",
+      "Laita tähteet jääkaappiin kahden tunnin kuluessa.",
+      "Syö 3–5 päivän kuluessa. Jos haluat sileämmän kastikkeen, soseuta tehosekoittimella tai monitoimikoneella."
+    ]
+  },
+  {
+    "id": "myplate-marinated-beef",
+    "title": "Marinoitu naudanliha",
+    "description": "Hapan, marinoitu naudanliha on täynnä makua ja sopii hyvin paahdettujen perunoiden, höyrytetyn parsakaalin ja tuoreiden tomaattiviipaleiden kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "arkiruoka", "marinadi", "gluteeniton"],
+    "ingredients": [
+      "340 g naudan paistia (esim. ulkopaisti)",
+      "1 valkosipulinkynsi",
+      "2 rkl sitruunamehua",
+      "4 rkl rypsiöljyä, jaettuna",
+      "½ tl suolaa",
+      "½ tl mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa liha leikkuulaudalla terävällä veitsellä syitä vastaan noin 1 cm:n levyisiksi ja 5–7 cm:n pituisiksi suikaleiksi.",
+      "Sekoita keskikokoisessa lasikulhossa valkosipuli, sitruunamehu, 2 rkl öljyä, suola ja pippuri.",
+      "Lisää lihasuikaleet ja sekoita, jotta ne peittyvät öljyseoksella (marinadi).",
+      "Peitä kulho kelmulla ja jäähdytä jääkaapissa noin 2 tuntia.",
+      "Kuumenna keskikokoisella pannulla keskikovalla lämmöllä 2 rkl öljyä 1–2 minuuttia kuumaksi.",
+      "Valuta marinadi lihasta.",
+      "Laita liha pannulle, sekoita ja kypsennä 5–7 minuuttia, kunnes liha on ruskistunut kauttaaltaan."
+    ]
+  },
+  {
+    "id": "myplate-marinated-three-bean-salad",
+    "title": "Marinoitu kolmen pavun salaatti",
+    "description": "Pavut, selleri ja sipuli muodostavat herkullisen marinoidun salaatin, josta koko perhe pitää. Kokeile kevyen italialaisen salaatinkastikkeen kanssa.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["vegaaninen", "salaatti", "palkokasvit", "nopea"],
+    "ingredients": [
+      "½ tlk (200 g) vähäsuolaisia valkoisia papuja",
+      "½ tlk (200 g) vähäsuolaisia vihreitä papuja",
+      "½ tlk (200 g) vähäsuolaisia kidneypapuja",
+      "1 keskikokoinen sipuli, pilkottuna",
+      "1¼ dl varsiselleriä, pilkottuna",
+      "1 annos kevyttä italialaista salaatinkastiketta (ks. Kevyt italialainen salaatinkastike)"
+    ],
+    "instructions": [
+      "Valuta säilykepavut.",
+      "Natriumin vähentämiseksi huuhtele pavut juoksevan veden alla. Kuori ja pilko sipuli.",
+      "Sekoita isossa kulhossa valkoiset pavut, vihreät pavut, kidneypavut, sipuli ja selleri.",
+      "Kaada italialainen kastike kasvisten päälle ja sekoita kevyesti.",
+      "Peitä kulho ja marinoi jääkaapissa vähintään tunti.",
+      "Salaatin voi jättää jääkaappiin yön yli.",
+      "Valuta ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-mashed-parsnips-and-potatoes",
+    "title": "Palsternakka-perunamuusi",
+    "description": "Klassisen lohturuoan uusi tulkinta: palsternakan ja perunan yhdistelmä on varmasti makuun. Maidon voi korvata esimerkiksi jogurtilla.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "juurekset", "arkiruoka"],
+    "ingredients": [
+      "4¾ dl palsternakkaa, pilkottuna",
+      "3 keskikokoista perunaa, pilkottuna",
+      "1¼ dl kevytmaitoa",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "½ tl valkosipulijauhetta",
+      "1 rkl voita"
+    ],
+    "instructions": [
+      "Harjaa palsternakat ja perunat juoksevan veden alla ja kuori.",
+      "Leikkaa samankokoisiksi paloiksi.",
+      "Peitä kasvispalat kylmällä vedellä keskikokoisessa kattilassa.",
+      "Kuumenna vesi kiehuvaksi ja hauduta, kunnes kasvikset ovat pehmeitä, 15–20 minuuttia.",
+      "Valuta kasvikset ja muussaa.",
+      "Sekoita joukkoon maito, suola, pippuri, valkosipulijauhe ja voi.",
+      "Tarjoile kuumana.",
+      "Laita tähteet jääkaappiin kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-mashed-sweet-potatoes",
+    "title": "Bataattimuusi",
+    "description": "Bataattimuusi on helppo ja ravitseva lisuke, joka sopii mihin tahansa pääruokaan. Hyvä vaihtoehto perinteiselle perunamuusille.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "bataatti", "arkiruoka", "gluteeniton"],
+    "ingredients": [
+      "4 keskikokoista bataattia",
+      "¾ tl kuivattua timjamia",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Pese ja kuori bataatit.",
+      "Leikkaa ne 2 cm:n paksuisiksi viipaleiksi.",
+      "Laita kattilaan ja lisää vettä niin, että bataatit peittyvät.",
+      "Kuumenna vesi kiehuvaksi keskilämmöllä.",
+      "Keitä bataatteja 20–25 minuuttia, kunnes ne ovat pehmeitä.",
+      "Valuta vesi.",
+      "Laita bataatit keskikokoiseen kulhoon.",
+      "Muussaa bataatit haarukalla tai perunamuussaimella.",
+      "Sekoita joukkoon timjami, suola ja pippuri."
+    ]
+  },
+  {
+    "id": "myplate-masoor-dal-red-lentils-onion",
+    "title": "Masoor dal – punaiset linssit sipulilla",
+    "description": "Dal on linsseistä tehty ruoka, jota syödään Intiassa osana monipuolisempaa ateriaa. Tämä versio on aromaattinen punaisten linssien ruoka, jota maustavat kurkuma, juustokumina ja chilit.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "palkokasvit", "intialainen", "riisi"],
+    "ingredients": [
+      "1¼ dl kuivia punaisia linssejä",
+      "1 tl rypsiöljyä",
+      "½ tl suolaa",
+      "3½ dl vettä",
+      "½ tl kurkumajauhetta",
+      "½ tl juustokuminajauhetta",
+      "1 tl sokeria",
+      "5 tl rypsiöljyä",
+      "2 chilipippuria",
+      "½ ison sipulin, hienonnettuna",
+      "keitettyä valkoista riisiä tarjoiluun",
+      "persiljaa koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Huuhtele linssit siivilässä juoksevan veden alla kaksi–kolme kertaa.",
+      "Sekoita kulhossa pestyt linssit, 1 tl öljyä ja ½ tl suolaa.",
+      "Keitä linssejä 3½ dl:ssa vettä, kunnes ne muuttuvat keltaisiksi ja pehmeiksi.",
+      "Lisää kurkuma, juustokumina ja sokeri keitettyihin linsseihin ja sekoita hyvin.",
+      "Kuumenna toisella pannulla loput öljystä.",
+      "Halkaise chilit ja lisää ne kuumaan öljyyn.",
+      "Lisää sipuli öljyyn ja sekoita, kunnes se alkaa vaaleanruskistua.",
+      "Lisää 2 rkl keitettyä (mausteilla sekoitettua) linssiä paistettuun sipuliin ja sekoita hyvin minuutti.",
+      "Lisää loput keitetystä linssiseoksesta ja sekoita.",
+      "Lisää 2½ dl vettä ja anna kiehua kaksi minuuttia.",
+      "Tarjoile valkoisen riisin päällä.",
+      "Lisää halutessasi persiljakoriste."
+    ]
+  },
+  {
+    "id": "myplate-master-mix-oregon",
+    "title": "Leivontaperusseos",
+    "description": "Tätä leivontaseosta käytetään monessa reseptissä, kuten kurpitsapiirakassa ilman pohjaa.",
+    "servings": 11,
+    "category": "Muut",
+    "tags": ["kasvis", "leivonta", "seos", "täysjyvä"],
+    "ingredients": [
+      "9½ dl vehnäjauhoja",
+      "9½ dl täysjyvävehnäjauhoja",
+      "3¼ dl rasvatonta maitojauhetta",
+      "¼ rkl leivinjauhetta",
+      "1 tl suolaa",
+      "3½ dl leivontarasvaa"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa vehnäjauhot, täysjyvävehnäjauhot, maitojauhe, leivinjauhe ja suola.",
+      "Sekoita huolellisesti.",
+      "Nypi rasva seokseen taikinaleikkurilla tai kahdella veitsellä, kunnes seos näyttää karkealta maissijauholta.",
+      "Säilytä suljetuissa astioissa jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-matzo-meal-kugel-pudding",
+    "title": "Matzo-kugel",
+    "description": "Kugel on uunissa kypsennetty vanukas tai vuoka. Matzojauhokugelia tarjoillaan perinteisesti juutalaisena pääsiäisenä. Helppo valmistaa, ja sopii lisukkeeksi tai jälkiruoaksi.",
+    "servings": 12,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kananmuna", "uuniruoka", "juhla"],
+    "ingredients": [
+      "4 kananmunaa",
+      "2½ dl sokeria",
+      "9½ dl kevytmaitoa",
+      "5 rkl voita, sulatettuna",
+      "4¾ dl matzojauhoa",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Vatkaa munat ja sokeri hyvin.",
+      "Lisää maito ja sulatettu voi ja sekoita hyvin.",
+      "Sekoita joukkoon matzojauho ja suola.",
+      "Kaada voideltuun noin 28 x 33 cm:n vuokaan.",
+      "Paista 175 asteessa tunti (älä paista liian pitkään).",
+      "Leikkaa viipaleiksi.",
+      "Voi tarjoilla kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-meatball-soup",
+    "title": "Lihapullakeitto",
+    "description": "Kasvikset, lihapullat ja ruskea riisi muodostavat maukkaan ja täyttävän keiton, joka lämmittää kylmänä talvi-iltana.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "riisi", "arkiruoka"],
+    "ingredients": [
+      "14 dl vettä",
+      "¾ dl ruskeaa riisiä, keittämätöntä",
+      "3 vähäsuolaista nauta- tai kanaliemikuutiota (tai 1 rkl vähäsuolaista liemijauhetta)",
+      "1 rkl oreganoa",
+      "225 g vähärasvaista naudan jauhelihaa (tai kalkkunan tai kanan jauhelihaa)",
+      "1 keskikokoinen tomaatti, hienoksi pilkottuna",
+      "½ keskikokoista sipulia, kuorittuna ja hienonnettuna",
+      "1 kananmuna",
+      "½ tl suolaa",
+      "5 dl tuoreita kasviksia, pilkottuna (porkkanaa, selleriä ja pinaattia)"
+    ],
+    "instructions": [
+      "Sekoita isossa kattilassa vesi, riisi, liemikuutiot ja oregano.",
+      "Kuumenna kiehuvaksi kovalla lämmöllä.",
+      "Sekoita, jotta liemikuutiot liukenevat.",
+      "Laske lämpö pieneksi ja hauduta.",
+      "Sekoita sillä välin isossa kulhossa jauheliha, tomaatti, sipuli, muna ja suola.",
+      "Muotoile 12 lihapullaksi.",
+      "Lisää lihapullat liemeen ja hauduta 30 minuuttia.",
+      "Lisää kasvikset.",
+      "Kypsennä 10–15 minuuttia tai kunnes lihapullat ovat kypsiä ja riisi ja kasvikset pehmeitä.",
+      "Tarjoile kuumana."
+    ]
+  }
+]
