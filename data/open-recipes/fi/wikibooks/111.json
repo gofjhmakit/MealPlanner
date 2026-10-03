@@ -1,0 +1,506 @@
+[
+  {
+    "id": "wikibooks-quick-and-easy-beef-stroganoff",
+    "title": "Nopea nautastroganoff",
+    "description": "Noin 45 minuutissa valmistuva stroganoff, josta riittää myös jämiä.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "pasta", "arkiruoka"],
+    "ingredients": [
+      "750–1000 g naudan suupaloja (esim. paistikuutioita)",
+      "1 tlk (300 g) sienikeittotiivistettä",
+      "1¼ dl naudanlientä",
+      "250 g smetanaa",
+      "500 g kananmunanuudeleita",
+      "suolaa",
+      "pippuria"
+    ],
+    "instructions": [
+      "Keitä nuudelit isossa kattilassa pakkauksen ohjeen mukaan.",
+      "Mausta liha suolalla ja pippurilla ja ruskista pannulla, ellei se ole jo kypsää. Miedolla lämmöllä lihasta tulee mureaa. Jos liha on jo kypsää, lämmitä se mikrossa tai pannulla.",
+      "Valuta nuudelit.",
+      "Sekoita sienikeittotiiviste, liemi ja smetana nuudelien keittokattilassa. Mausta suolalla ja pippurilla, ja muista, että monessa aineksessa on jo runsaasti suolaa.",
+      "Lisää nuudelit ja liha kastikkeeseen ja tarjoa."
+    ],
+    "notes": ["Valmiiksi pilkottu paistiliha on paras. Jämäpihvit ja ruskistettu jauheliha sopivat myös."]
+  },
+  {
+    "id": "wikibooks-quick-and-easy-queso-dip",
+    "title": "Nopea queso-dippi",
+    "description": "Sulatejuustosta, Monterey Jackista, tomaatista ja sipulista tehty kuuma juustodippi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["juusto", "dippi", "meksikolainen", "nopea"],
+    "ingredients": [
+      "280 g chilillä maustettuja haudutettuja tomaatteja (tölkki)",
+      "1 pieni sipuli, hienonnettuna",
+      "450 g sulatejuustoa, kuutioituna",
+      "225 g Monterey Jack -juustoa (tai muuta sulavaa juustoa), raastettuna"
+    ],
+    "instructions": [
+      "Kuumenna tomaatit nesteineen ja sipuli pienessä kattilassa, kunnes neste on haihtunut.",
+      "Sulata sillä välin sulatejuusto mikrossa kestävässä kulhossa. Lisää raastettu juusto ja sulata 50 %:n teholla.",
+      "Sekoita tomaattiseos juustoseokseen."
+    ],
+    "notes": ["Voi valmistaa myös hidaskeittimessä."]
+  },
+  {
+    "id": "wikibooks-quick-baked-beef-pasta-dish",
+    "title": "Nopea jauheliha-pastavuoka",
+    "description": "Jauhelihakastikkeella ja mozzarellalla kuorrutettu pastavuoka.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "450 g naudan jauhelihaa",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2 rkl italialaista maustesekoitusta",
+      "450 g pastaa (esim. rigatoni tai penne), kypsennettynä al denteksi",
+      "1 purkki (900 g) pastakastiketta",
+      "5 dl raastettua mozzarellaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Kypsennä jauheliha ja sipuli isolla pannulla kevyesti ruskeiksi. Valuta ylimääräinen rasva ja ripottele päälle italialainen maustesekoitus.",
+      "Sekoita isossa kulhossa lihaseos ja pastakastike. Lisää kypsä pasta ja sekoita hyvin.",
+      "Voitele iso uunivuoka.",
+      "Painele liha-pastaseos tasaiseksi vuokaan.",
+      "Ripottele mozzarella päälle.",
+      "Peitä foliolla ja paista uunissa 20 minuuttia.",
+      "Poista folio ja paista vielä 10 minuuttia."
+    ],
+    "notes": ["Vuoan tulisi olla niin iso, että seosta on 2,5–5 cm:n kerros.", "Älä paista liian pitkään, ettei pasta imaise liikaa nestettä ja muutu rapsakaksi tai mössöksi."]
+  },
+  {
+    "id": "wikibooks-quick-finnish-lemon-mead-sima",
+    "title": "Nopea sima",
+    "description": "Perinteistä nopeampi vappujuoma sitruunasta, fariinisokerista ja hiivasta. Tarvitaan vain avoin 3 litran astia, 2 litran pullo ja suppilo.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["juoma", "suomalainen", "vappu", "sitruuna"],
+    "ingredients": [
+      "250 g fariinisokeria",
+      "1 sitruuna, mehu",
+      "hieman kuivahiivaa (enintään ¼ tl)",
+      "1 tl sokeria pulloon",
+      "rusinoita (valinnainen)"
+    ],
+    "instructions": [
+      "Keitä 1–2 litraa vettä.",
+      "Pese 3 litran astia ja purista sitruunan mehu lasiin.",
+      "Ota 1 litra kuumaa vettä simaa varten. Huuhtele astia lopulla vedellä steriloimiseksi.",
+      "Laita sokeri ja sitruunamehu astiaan.",
+      "Kaada päälle 1 litra kuumaa vettä ja sekoita, kunnes sokeri liukenee.",
+      "Lisää 1 litra kylmää vettä.",
+      "Lisää hyvin pieni määrä hiivaa (enintään ¼ tl).",
+      "Anna seistä yön yli.",
+      "Pese 2 litran limonadipullo ja huuhtele kiehuvalla vedellä.",
+      "Lisää pulloon 1 tl sokeria ja halutessasi muutama rusina.",
+      "Kaada sima pulloon suppilon avulla.",
+      "Pidä pimeässä huoneenlämmössä 2 päivää.",
+      "Siirrä pullo jääkaappiin. Sima on valmista."
+    ],
+    "notes": ["Avaa pullo varovasti, sillä käyminen synnyttää painetta."]
+  },
+  {
+    "id": "wikibooks-quick-guacamole-i",
+    "title": "Nopea guacamole I",
+    "description": "Viidessä minuutissa valmistuva guacamole kypsistä avokadoista ja salsasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "meksikolainen", "nopea"],
+    "ingredients": [
+      "3–4 kypsää avokadoa",
+      "½ limetin mehu",
+      "mietoa valmista salsaa"
+    ],
+    "instructions": [
+      "Kuori avokadot, poista kivet ja muussaa.",
+      "Lisää limettimehu.",
+      "Sekoita joukkoon salsaa maun mukaan.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Tee fiinimpi versio valmistamalla itse pico de gallo kaupan salsan tilalle."]
+  },
+  { "id": "wikibooks-quick-guacamole-ii", "skip": "lähes sama resepti kuin Nopea guacamole I" },
+  {
+    "id": "wikibooks-quick-puff-pastry",
+    "title": "Nopea voitaikina",
+    "description": "Nopea kerrostettu voitaikina, joka säilyy jääkaapissa viikon ja pakastimessa 6 kuukautta.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "taikina", "voitaikina", "leivonta"],
+    "ingredients": [
+      "460 g voita, jaettuna neljään yhtä suureen osaan",
+      "460 g vehnäjauhoja",
+      "kylmää vettä (n. 2 dl)"
+    ],
+    "instructions": [
+      "Seulo jauhot kulhoon.",
+      "Nypi yksi osa voita jauhojen joukkoon, kunnes seos on muruista.",
+      "Lisää kylmää vettä tarpeen mukaan taikinaksi.",
+      "Jauhota kaulauslauta ja kaulin kevyesti. Kaulitse taikina noin 5 mm:n paksuiseksi.",
+      "Levitä seuraava osa voita taikinaan. Taita taikina neljään osaan. Kaulitse takaisin 5 mm:n paksuiseksi. Toista, kunnes voi on käytetty loppuun.",
+      "Levitä muovikelmu taikinan toisen puolen peitoksi. Käännä lauta ympäri.",
+      "Peitä toinen puoli toisella kelmulla. Rullaa taikina varovasti sylinterin muotoon.",
+      "Säilytä jääkaapissa käyttöön asti."
+    ]
+  },
+  { "id": "wikibooks-quick-risotto", "skip": "epäuskottava ohje (riisi ei kypsy 5–7 minuutissa) ja määrät puuttuvat" },
+  {
+    "id": "wikibooks-quick-sparkling-lemonade",
+    "title": "Nopea kuplajuoma-limonadi",
+    "description": "Hiilihapotetusta vedestä, sokerista ja limonadijauheesta tehty nopea virvoitusjuoma.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["juoma", "limonadi", "nopea", "vegaaninen"],
+    "ingredients": [
+      "1,7 l kylmää hiilihapotettua vettä",
+      "2½ dl sokeria",
+      "1 pkt sitruunalimonadijauhetta (tai vastaavaa juomajauhetta)"
+    ],
+    "instructions": [
+      "Kaada hiilihapotettu vesi 2 litran kannuun.",
+      "Lisää sokeri ja limonadijauhe. Sekoita huolellisesti.",
+      "Tarjoa jäähdytettynä, halutessasi jääpalojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-quick-tomato-noodle-soup",
+    "title": "Nopea tomaattinuudelikeitto",
+    "description": "Pikanuudeleista, tomaatista ja makkarasta tehty nopea keitto.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["keitto", "nuudeli", "nopea", "arkiruoka"],
+    "ingredients": [
+      "2 pkt ramen- tai udon-nuudeleita maustepusseineen",
+      "2 tomaattia, pilkottuna",
+      "2 makkaraa",
+      "½ keskikokoista sipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna 1,5 l vettä kiehuvaksi.",
+      "Lisää nuudelit ja yksi maustepussi kiehuvaan veteen.",
+      "Lisää pilkotut tomaatit ja makkarat. Keitä 5 minuuttia.",
+      "Lisää hienonnettu sipuli ja tarjoa."
+    ]
+  },
+  { "id": "wikibooks-quince-pudding", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-quinoa-cooked",
+    "title": "Keitetty kvinoa",
+    "description": "Perusohje kvinoan keittämiseen: liotus ja haudutus kuohkeaksi.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "kvinoa", "perusohje"],
+    "ingredients": [
+      "2½ dl kvinoaa",
+      "5 dl vettä",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Laita kvinoa kulhoon ja peitä kokonaan vedellä. Liota 3–4 tuntia ja kaada vesi pois. Lisää tuore vesi ja liota vielä noin tunti. Valuta uudelleen.",
+      "Laita valutettu kvinoa, 5 dl vettä ja suola kattilaan. Kuumenna kiehuvaksi.",
+      "Laske lämpö pienimmälle ja hauduta 16–18 minuuttia.",
+      "Ota pois liedeltä ja anna levätä 5 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-quinoa-vegetable-slaw-with-peanut-dressing-gluten-free",
+    "title": "Kvinoa-kasvissalaatti maapähkinäkastikkeella",
+    "description": "Gluteeniton kvinoa-kaalisalaatti, jossa on maapähkinävoikastike, korianteria ja värikkäitä kasviksia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "kvinoa", "aasialainen"],
+    "ingredients": [
+      "Kastike:",
+      "3 rkl kermaista maapähkinävoita",
+      "2 rkl tamaria (gluteeniton soijakastike)",
+      "3 rkl riisietikkaa",
+      "3 tl paahdettua seesamiöljyä",
+      "1 rkl vastapuristettua limettimehua",
+      "½ tl chili-valkosipulikastiketta",
+      "1 rkl kylmää vettä",
+      "Salaatti:",
+      "½ dl paahdettuja ja suolattuja maapähkinöitä, karkeasti hienonnettuna",
+      "2½ dl keitettyä mustaa kvinoaa, jäähdytettynä",
+      "7 dl suikaloitua punakaalia",
+      "1¾ dl raastettua porkkanaa",
+      "3 kevätsipulia, ohuiksi viipaleiksi",
+      "6 minipaprikaa, ohuiksi viipaleiksi",
+      "1 dl korianterinlehtiä"
+    ],
+    "instructions": [
+      "Sekoita pienessä kulhossa maapähkinävoi, tamari, riisietikka, seesamiöljy, limettimehu, chilikastike ja vesi.",
+      "Vispaa kastike tasaiseksi.",
+      "Keitä kvinoa pakkauksen ohjeen mukaan ja jäähdytä. Aseta sivuun.",
+      "Laita isoon kulhoon kaali, porkkana, kevätsipuli, paprika ja korianteri. Sekoita kevyesti käsin ja aseta sivuun.",
+      "Tarjoilua varten sekoita jäähtynyt kvinoa ja hienonnetut maapähkinät kasvisten joukkoon. Valuta päälle maapähkinäkastike ja sekoita varovasti. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-quinoa-shiitake-mushrooms-and-adzuki-beans",
+    "title": "Kvinoa, shiitake-sienet ja adzukipavut",
+    "description": "Yhdessä kattilassa haudutettu kvinoa-pavusekoitus liemessä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "kvinoa", "papu"],
+    "ingredients": [
+      "1 dl porkkanaviipaleita",
+      "3 kevätsipulia, ohuiksi viipaleiksi",
+      "½ dl shiitake-sieniä, viipaloituna (tai ostersieniä)",
+      "5 dl keitettyjä adzukipapuja, valutettuina",
+      "2½ dl pestyä kvinoaa",
+      "1 rkl oliiviöljyä",
+      "5 dl kasvislientä",
+      "suolaa",
+      "pippuria"
+    ],
+    "instructions": [
+      "Kuullota kasvikset öljyssä pehmeiksi.",
+      "Lisää liemi, pavut ja kvinoa. Kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi ja hauduta noin 20 minuuttia, kunnes neste on imeytynyt.",
+      "Mausta suolalla ja pippurilla ja sekoita haarukalla tai puulusikalla."
+    ]
+  },
+  { "id": "wikibooks-quorn-pitta", "skip": "liian puutteellinen (Quornin määrä puuttuu)" },
+  { "id": "wikibooks-rabbit-with-abbey-beer-konijn-met-paterbier", "skip": "liian puutteellinen (kasvisten ja sinapin määrät puuttuvat)" },
+  { "id": "wikibooks-racuszki-polish-pancakes", "skip": "määrät epäuskottavia (1 l piimää vain 2,4 dl jauhoille)" },
+  {
+    "id": "wikibooks-radish-pie",
+    "title": "Retiisipiirakka",
+    "description": "Kasvispiirakka, jossa on uunissa paahdettua retiisiä, tuorejuustoa, pähkinöitä ja ohutta fyllotaikinaa. Maistuu parhaalle kylmänä.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "piirakka", "uuniruoka", "muna"],
+    "ingredients": [
+      "1–2 nippua punaisia retiisejä",
+      "1–2 rkl oliiviöljyä",
+      "60 g voita, jaettuna",
+      "225 g fyllotaikinaa (ohuita taikinalevyjä)",
+      "1 punasipuli, hienonnettuna",
+      "2 rkl kuivaa sherryä",
+      "2 isoa munaa",
+      "1 keltuainen",
+      "1¾ dl kuohukermaa",
+      "115 g tuoretta vuohenjuustoa",
+      "1¾ dl saksanpähkinänmurusia",
+      "¾ dl lehtipersiljaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Pese retiisit hyvin ja poista naatit. Laita retiisit pieneen uunivuokaan ja valuta päälle oliiviöljyä. Paista noin tunti. Anna jäähtyä ja leikkaa pieniksi kuutioiksi.",
+      "Voitele piirakkavuoka puolella voista ja vuoraa se fyllotaikinalevyillä tasaisesti. Taita ylimääräiset reunat alle siistiksi reunaksi.",
+      "Kuumenna loppu voi isolla pannulla ja kuullota sipulia noin 5 minuuttia. Lisää viini ja retiisikuutiot ja kypsennä vielä minuutti. Ota pois liedeltä ja kaada taikinakuoreen.",
+      "Sekoita kulhossa munat, keltuainen ja kerma ja kaada kasvisten päälle. Murenna vuohenjuusto kerman päälle.",
+      "Paista esilämmitetyssä uunissa 175 asteessa 20 minuuttia.",
+      "Lisää saksanpähkinät ja paista vielä 15–20 minuuttia.",
+      "Ota piirakka uunista ja ripottele päälle hienonnettu persilja.",
+      "Anna jäähtyä kokonaan ennen tarjoilua."
+    ],
+    "notes": ["Käytä vähemmän retiisejä miedompaan makuun.", "Retiisit voi paistaa edellisenä päivänä ja säilyttää jääkaapissa."]
+  },
+  { "id": "wikibooks-radish-stew", "skip": "epäselvä ohje (rasvaa ei ole, ensimmäinen vaihe jää epäselväksi)" },
+  {
+    "id": "wikibooks-radish-tart",
+    "title": "Retiisitorttu",
+    "description": "Värikäs juustopohjainen retiisitorttu, joka maistuu parhaalle kuumana uunista.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "piirakka", "juusto", "uuniruoka"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "115 g kylmää voita",
+      "1 dl raastettua edam-, gouda- tai gruyère-juustoa (cheddar sopii myös), jaettuna",
+      "2½ dl kuohukermaa, jaettuna (½ dl + 1¾ dl)",
+      "4 keltuaista",
+      "¼ tl suolaa",
+      "½–1 pieni nippu punaisia retiisejä, viipaloituna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Seulo jauhot kulhoon. Nypi joukkoon voi karkeaksi muruksi. Sekoita joukkoon puolet juustosta. Kaada joukkoon ½ dl kermaa ja sekoita haarukalla, kunnes kaikki on kostunut.",
+      "Kumoa taikina 23 cm:n piirakkavuokaan. Painele jauhotetuin sormin pohjalle ja reunoille ja pistele pohja jauhotetulla haarukalla.",
+      "Paista pohjaa 10–12 minuuttia. Reunat painuvat hieman paiston aikana. Jäähdytä ritilällä.",
+      "Laske uunin lämpö 190 asteeseen.",
+      "Ripottele loppu juusto tasaisesti jäähtyneen pohjan päälle. Vatkaa keltuaiset, 1¾ dl kermaa ja suola yhteen. Kaada seos juuston päälle. Aseta retiisiviipaleet tasaisesti päälle.",
+      "Paista 20–25 minuuttia, kunnes täyte on hyytynyt.",
+      "Ota uunista, leikkaa lohkoihin ja tarjoa kuumana."
+    ],
+    "notes": ["Jos pidät retiisistä paljon, käytä enemmän. Miedompaan makuun vähemmän.", "Juustopohja on rapea tuoreena. Jäännökset voi lämmittää, mutta rakenne ei ole yhtä hyvä."]
+  },
+  {
+    "id": "wikibooks-ragi-dosa-south-indian-millet-and-rice-pancake",
+    "title": "Ragi dosa – eteläintialainen hirssi-riisilätty",
+    "description": "Karnatakan perinneruoka hirssistä, riisistä ja urad dalista. Tarjotaan sipuli- ja valkosipulichutneyn kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "lätty"],
+    "ingredients": [
+      "5 dl ragi-hirssiä (ragijauhoa tai -jyviä)",
+      "5 dl riisiä",
+      "2½ dl urad dalia (mustaa linssiä)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota ragi, riisi ja urad dal erikseen vedessä 5 tuntia.",
+      "Jauha liotettu riisi veden kanssa ensin, sitten urad dal ja ragi yhdessä veden kanssa.",
+      "Sekoita kaikki jauhetut taikinat yhteen. Anna käydä noin 10 tuntia.",
+      "Lisää 10 tunnin jälkeen suola maun mukaan ja tarvittaessa vettä.",
+      "Ota kuppi taikinaa ja levitä se kuumalle tava-pannulle."
+    ]
+  },
+  {
+    "id": "wikibooks-rainbow-cake",
+    "title": "Sateenkaarikakku",
+    "description": "Kuusikerroksinen värikäs kakku vaniljavoikreemillä, tarkoitettu isolle joukolle.",
+    "servings": 48,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "juhla", "kasvis", "kerroskakku"],
+    "ingredients": [
+      "Kakku:",
+      "675 g voita, sekä lisää vuoan voiteluun",
+      "675 g hienoa sokeria",
+      "1 rkl vaniljauutetta",
+      "12 keskikokoista kananmunaa (n. 500 g)",
+      "675 g vehnäjauhoja",
+      "4 rkl leivinjauhetta",
+      "½ tl kutakin elintarvikeväriä: punaista, oranssia, keltaista, vihreää, sinistä ja violettia",
+      "Kuorrute:",
+      "500 g voita",
+      "1 kg tomusokeria",
+      "3 rkl maitoa",
+      "1 rkl vaniljauutetta",
+      "koristerakeita (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Voitele ja vuoraa kuusi 20 cm:n pyöreää kakkuvuokaa.",
+      "Vaahdota voi, sokeri ja vanilja isossa kulhossa pehmeäksi ja vaaleaksi.",
+      "Lisää munat kaksi kerrallaan vatkaten.",
+      "Sekoita jauhot ja leivinjauhe. Kääntele kuiva seos taikinaan.",
+      "Jaa taikina kuuteen kulhoon.",
+      "Lisää punaista väriä yksi tippa kerrallaan yhteen kulhoon ja sekoita, kunnes taikina on halutun värinen.",
+      "Toista oranssilla, keltaisella, vihreällä, sinisellä ja violetilla.",
+      "Levitä punainen taikina yhteen vuokaan. Tee samoin muille väreille.",
+      "Paista 25 minuuttia kahden kakun erissä, kunnes hammastikku tulee puhtaana ulos.",
+      "Siirrä kakut ritilälle jäähtymään ja irrota vuoista.",
+      "Kuorrute: vatkaa voi kulhossa pehmeäksi.",
+      "Lisää puolet tomusokerista 2½ dl kerrallaan vatkaten.",
+      "Vatkaa joukkoon maito ja vaniljauute.",
+      "Lisää loput tomusokerista 2½ dl kerrallaan vatkaten.",
+      "Levitä kahdeksasosa kuorrutteesta violetin kakun päälle. Aseta päälle sininen kerros ja paina kevyesti.",
+      "Toista kuorrutus ja kerrokset sateenkaarijärjestyksessä ja päätä punaiseen kerrokseen.",
+      "Levitä loput kuorrutteesta koko kakun päälle.",
+      "Ripottele halutessasi päälle koristerakeita.",
+      "Nauti!"
+    ],
+    "notes": ["Geelimuotoinen väri on parempi kuin laimea nestemäinen väri, ja väristä tulee elävämpi.", "Älä sekoita väriä taikinaan liian pitkään, ettei kakku muutu sitkeäksi."]
+  },
+  {
+    "id": "wikibooks-rainbow-jell-o",
+    "title": "Sateenkaarihyytelö",
+    "description": "Monikerroksinen ja monimakuinen hyytelö, jossa vuorottelevat kirkkaat ja smetanalla tai jogurtilla samennetut kerrokset. Valmistuu noin viidessä tunnissa, suurin osa ajasta menee odottamiseen.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 300,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "hyytelö", "juhla", "kerroshyytelö"],
+    "ingredients": [
+      "15 dl kiehuvaa vettä",
+      "5 (tai useampi) pussia hyytelöjauhetta (eri makuja ja värejä, à 4 annosta)",
+      "2½ dl smetanaa tai maustamatonta tai vaniljajogurttia"
+    ],
+    "instructions": [
+      "Valitse yksi tai useampi vuoka. Kokonaistilavuus on noin 2 litraa. Kehävuoka tai 2–3 lasiastiaa käy. Parhaan tuloksen saa, kun astia on vähintään 10 cm syvä, jolloin tulee noin kymmenen 1 cm:n kerrosta.",
+      "Sekoita pienessä kulhossa 3 dl kiehuvaa vettä ja yksi pussi hyytelöjauhetta vähintään 2 minuuttia, kunnes se on liuennut.",
+      "Kaada 1¾ dl liuennutta hyytelöä vuokiin.",
+      "Jäähdytä jääkaapissa noin 15 minuuttia, kunnes hyytelö on hyytynyt mutta ei vielä kiinteää: se tarttuu sormeen. Tavoitteena on, että kerrokset tarttuvat toisiinsa mutta eivät sekoitu.",
+      "Jäähdytä jäljelle jäänyt hyytelö jääkaapissa noin 5 minuuttia, kunnes se on hieman sakeaa (vatkaamattoman munanvalkuaisen koostumus).",
+      "Sekoita jäljelle jääneeseen sakeutuneeseen hyytelöön vähitellen 3 rkl smetanaa tai jogurttia.",
+      "Lusikoi hyytelö edellisen kerroksen päälle varovasti, jotta pinta pysyy sileänä.",
+      "Jäähdytä uudelleen noin 15 minuuttia.",
+      "Toista kerrostus jokaisella jäljellä olevalla maulla. Muista jäähdyttää kerrosten välillä riittävästi, ettei ne sula ja sekoitu.",
+      "Jäähdytä noin 2 tuntia kiinteäksi.",
+      "Irrota hyytelö vuoasta ja aseta (todennäköisesti ylösalaisin) lautaselle tai sileälle laudalle. Säilytä jääkaapissa kelmun tai foliion alla. Viipaloi kerroksia vastaan, jolloin jokaisessa noin 1 cm:n viipaleessa näkyy koko sateenkaari."
+    ]
+  },
+  {
+    "id": "wikibooks-raisin-crumb-pie",
+    "title": "Rusinamurupiirakka",
+    "description": "Keitetyistä rusinoista, vaniljaisesta taikinasta ja murukuorrutteesta tehty perinteinen amerikkalainen piirakka.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "rusina", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "450 g rusinoita",
+      "3½ dl kylmää vettä",
+      "7 dl sokeria, jaettuna (3½ dl + 3½ dl)",
+      "5 dl vehnäjauhoja",
+      "60 g margariinia tai leivontarasvaa",
+      "2½ dl maitoa",
+      "2 munaa, vatkattuna",
+      "2 tl leivinjauhetta",
+      "2 piirakkapohjaa"
+    ],
+    "instructions": [
+      "Huuhtele ja puhdista rusinat ja lisää kylmä vesi ja 3½ dl sokeria.",
+      "Keitä, kunnes rusinat ovat pehmeitä ja pulleita.",
+      "Anna jäähtyä.",
+      "Kuumenna uuni 225 asteeseen.",
+      "Sekoita jauhot, 3½ dl sokeria ja rasva ja murenna sormin hyvin. Ota 2½ dl murusta sivuun.",
+      "Lisää loppuun murusekoitukseen munat ja maito ja sekoita hyvin.",
+      "Sekoita joukkoon leivinjauhe.",
+      "Vuoraa 2 isoa piirakkavuokaa piirakkataikinalla ja täytä keitetyillä rusinoilla. Kaada päälle taikina ja ripottele pinnalle sivuun otetut murut.",
+      "Paista kuumassa uunissa 225 asteessa 10 minuuttia, laske sitten lämpö 175 asteeseen ja paista valmiiksi, noin 35 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-raisin-oatmeal-muffins",
+    "title": "Rusina-kaurahiutalemuffinssit",
+    "description": "Perheen aamiaismuffinssit, jotka sopivat hyvin maidon kanssa.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "muffinssi", "kaura", "rusina"],
+    "ingredients": [
+      "2½ dl täysjyvävehnäjauhoja",
+      "2½ dl isoja kaurahiutaleita",
+      "¾ dl sokeria",
+      "2 tl leivinjauhetta",
+      "1 muna",
+      "1¾ dl maitoa",
+      "½ dl öljyä",
+      "½–1 dl rusinoita",
+      "voita vuokien voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Voitele muffinssivuoka.",
+      "Laita kuivat ainekset yhteen kulhoon ja märät ainekset toiseen kulhoon.",
+      "Sekoita kummankin kulhon aineet ja yhdistä seokset taikinaksi.",
+      "Lusikoi taikina vuokiin.",
+      "Paista 20 minuuttia, kunnes pinta on ruskea ja reunat rapeita.",
+      "Käännä muffinssit heti ylösalaisin voiveitsen avulla. Jätä ne kuumaan vuokaan, ettei kosteus pilaa pintaa.",
+      "Muffinssit maistuvat parhaalle kuumina."
+    ]
+  }
+]

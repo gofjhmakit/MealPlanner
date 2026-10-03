@@ -1,0 +1,601 @@
+[
+  {
+    "id": "wikibooks-coconut-chutney-south-indian",
+    "title": "Kookoschutney (eteläintialainen)",
+    "description": "Kookoschutney sopii monien intialaisten välipalojen ja aamiaisruokien lisäkkeeksi, mietona tai tulisena.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "tulinen"],
+    "ingredients": [
+      "1½ rkl chana dalia (halkaistuja kikherneitä)",
+      "2,4 dl hienoksi raastettua tuoretta kookosta",
+      "6–8 vihreää tulista chiliä",
+      "½ tl tamarindahyytelöä",
+      "1 rkl hienonnettua korianteria",
+      "1 tl inkiväärisosetta",
+      "suolaa",
+      "½ tl öljyä",
+      "½ tl mustaa sinapinsiementä",
+      "3–4 curry-lehteä, hienonnettuina",
+      "1 mm asafoetidaa"
+    ],
+    "instructions": [
+      "Paahda chana dal kuivalla pannulla ruskeaksi. Anna jäähtyä.",
+      "Jauha paahdettu dal, kookos, chilit, tamarinditahna, korianteri, inkiväärisose ja suola tehosekoittimessa mahdollisimman vähällä vedellä. Parhaaseen lopputulokseen riittää karkean ja tasaisen tahnan välinen koostumus.",
+      "Kuumenna maustamista varten öljy pienessä kauhassa. Lisää sinapinsiemenet kuumaan öljyyn ja anna rätistä. Kun rätinä vähenee, lisää asafoetida ja curry-lehdet ja sekoita muutama sekunti.",
+      "Lisää mausteseos chutneyn joukkoon ja sekoita hyvin."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-cream-and-pound-cake-with-moscatel-bienmesabe",
+    "title": "Bienmesabe – kookoskreemi ja kakku muskettiviinissä",
+    "description": "Suosittu jälkiruoka: kookosvaniljakastike ja muskettiviiniin kastetut kakkuviipaleet kerroksittain.",
+    "servings": 10,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kookos", "kakku", "juhla"],
+    "ingredients": [
+      "8 kookospähkinää",
+      "1,2 dl sokeria",
+      "9 kananmunan keltuaista",
+      "3–4 sokerikakkua (biscochuelo), 1 cm:n viipaleina",
+      "1 pullo (0,75 l) muskettiviiniä (moscatel)",
+      "jauhettua kanelia"
+    ],
+    "instructions": [
+      "Raasta kookoksen sisus. Erota sisus kookosmaidosta.",
+      "Sekoita kookos ja sokeri, kookosmaito talteen. Kypsennä paksuksi siirapiksi. Ota pois lämmöltä ja anna levätä.",
+      "Vatkaa keltuaiset hieman kookosmaidon kanssa ja vatkaa siirappiin. Sekoita hyvin ja laita takaisin lämmölle.",
+      "Sekoita jatkuvasti, kunnes seos sakenee. Tavoitteena on melko paksu kookosvaniljakastike.",
+      "Ota kastike pois lämmöltä ja anna jäähtyä.",
+      "Kasta kakkupalat viiniin.",
+      "Kerrosta lasivuokaan vuorotellen kookoskastiketta ja kakkuviipaleita.",
+      "Ripottele pinnalle runsaasti kanelia."
+    ],
+    "notes": ["Kakkupalat kastetaan viinissä; jälkiruoka ei sovi lapsille."]
+  },
+  { "id": "wikibooks-coconut-cream-filled-cake-with-meringue-bienmesabe", "skip": "siirapin ja marenkien ainesmäärät puutteelliset ja ohje sekava, liian puutteellinen" },
+  {
+    "id": "wikibooks-coconut-crusted-baked-cod",
+    "title": "Kookosmarinoitu uuniturska",
+    "description": "Kookosmaito-soijamarinadissa marinoitua turskaa uunissa.",
+    "servings": 5,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "kookos", "nopea"],
+    "ingredients": [
+      "1,2 dl kookosmaitoa",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "1 rkl seesamiöljyä",
+      "1 rkl murskattuja chilihiutaleita",
+      "1 rkl hienonnettua inkivääriä",
+      "1 rkl mustapippuria",
+      "5 turskafileetä (yht. 425 g)",
+      "1 rkl hienonnettua minttua",
+      "1 rkl kevyesti paahdettuja kookoshiutaleita"
+    ],
+    "instructions": [
+      "Sekoita kulhossa kookosmaito, soijakastike, seesamiöljy, chilihiutaleet, inkivääri ja pippuri.",
+      "Marinoi kalaa seoksessa 15 minuuttia.",
+      "Aseta fileet öljytylle uunipannulle.",
+      "Paista 175 asteessa 15 minuuttia tai kunnes kala hajoaa lehdille.",
+      "Koristele kookoshiutaleilla ja tuoreella mintulla."
+    ],
+    "notes": ["Turskan tilalla voi käyttää lähes mitä tahansa valkoista kalaa."]
+  },
+  {
+    "id": "wikibooks-coconut-pudding-i",
+    "title": "Kookospuding (nuori kookos)",
+    "description": "Maitopohjainen kookospuding nuoresta kookoksesta agar-agarilla hyytettynä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kookos", "puding", "kylmä"],
+    "ingredients": [
+      "2 nuorta kookospähkinää, sisus lusikoituna",
+      "2,4 dl nuoren kookoksen vettä",
+      "½ dl agar-agar-suikaleita (China grass)",
+      "5 dl maitoa",
+      "1,2 dl maitotiivistettä (makeutettua kondensoitua maitoa)"
+    ],
+    "instructions": [
+      "Soseuta nuoren kookoksen sisus tehosekoittimessa ja pidä sivussa.",
+      "Yhdistä kattilassa kookosvesi ja agar-agar-suikaleet. Lämmitä varovasti, kunnes suikaleet ovat sulaneet kokonaan.",
+      "Kuumenna sillä välin maito ja kondensoitu maito toisessa kattilassa keskilämmöllä kiehuvaksi.",
+      "Lisää keitettyyn maitoon sulatettu agar-seos ja sekoita hyvin.",
+      "Ota pois lämmöltä ja anna jäähtyä vähintään 5 minuuttia.",
+      "Lisää soseutettu kookos jäähtyneeseen maitoseokseen ja sekoita hyvin.",
+      "Kaada seos kakkuvuokaan tai ruostumattomaan vuokaan.",
+      "Laita pakastimeen noin 15 minuutiksi tai kunnes alkaa hyytyä.",
+      "Ota pakastimesta ja siirrä jääkaappiin, kunnes puding on täysin hyytynyt.",
+      "Leikkaa veitsellä varovasti ja tarjoa jälkiruokakulhoissa."
+    ],
+    "notes": ["Koristele halutessasi manteleilla tai cashewpähkinöillä."]
+  },
+  {
+    "id": "wikibooks-coconut-pudding-ii",
+    "title": "Höyrytetty kookospuding",
+    "description": "Aasialainen kananmuna-kookosmaitopuding, joka höyrytetään.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kookos", "puding", "aasialainen"],
+    "ingredients": [
+      "4 kananmunaa",
+      "4 dl paksua kookosmaitoa",
+      "115 g sokeria",
+      "½ tl jasmiiniesanssia (tai jasmiinivettä)"
+    ],
+    "instructions": [
+      "Yhdistä munat, kookosmaito, sokeri ja jasmiinivesi vuoassa. Vatkaa vaahtoavaksi.",
+      "Kaada seos uunin- tai kuumuutta kestävään vuokaan ja aseta bambuhöyrytyskorin päälle.",
+      "Peitä kori kannella ja aseta ison wokin päälle kiehuvan veden yläpuolelle.",
+      "Höyrytä pudingia 30–40 minuuttia, kunnes se ei enää ole juoksevaa. Jos puding kypsyy liian nopeasti, siitä tulee kumimaista.",
+      "Ota puding höyryttimestä ja anna jäähtyä."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-pyramids",
+    "title": "Kookospyramidit",
+    "description": "Yksinkertaiset gluteenittomat kookoskakut, jotka sopivat lasten leivottaviksi.",
+    "servings": 6,
+    "totalTimeMin": 20,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kookos", "gluteeniton", "nopea"],
+    "ingredients": [
+      "100 g kookoshiutaleita",
+      "50 g hienoa sokeria",
+      "1 kananmuna",
+      "noin 6 kirsikkaa (glacé) (valinnainen)",
+      "muutama tippa vaaleanpunaista ruokaväriä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Sekoita sokeri ja kookoshiutaleet kulhossa.",
+      "Vatkaa muna toisessa kulhossa.",
+      "Lisää muna (ja ruokaväri, jos käytät) kuiviin aineisiin ja sekoita tasaiseksi.",
+      "Muotoile 6–7 pyramidia käsin tai munakupilla ja aseta leivinpaperilla vuoratulle pellille (tai muffinssivuokiin).",
+      "Paina kevyesti kirsikka kunkin pyramidin päälle, jos käytät.",
+      "Paista 15–20 minuuttia vaaleanruskeiksi."
+    ],
+    "notes": [
+      "Paiston jälkeen pyramidit voi koristella sulatetulla tummalla suklaalla.",
+      "Säilyvät muutaman päivän ilmatiiviissä astiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-rice-indian",
+    "title": "Kookosriisi (intialainen)",
+    "description": "Keitetty riisi sekoitettuna paahdettuun kookos-mausteseokseen, jossa on cashewpähkinöitä ja curry-lehtiä.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "riisi", "intialainen"],
+    "ingredients": [
+      "2 tl öljyä",
+      "1 tl mustaa sinapinsiementä",
+      "1,2 dl tuoretta tai pakastettua raastettua kookosta tai kuivattuja kookoshiutaleita",
+      "2 kuivattua punaista chiliä",
+      "7–10 curry-lehteä",
+      "1 tl chana dalia",
+      "suolaa",
+      "muutama cashewpähkinä",
+      "12–17 dl keitettyä, jäähtynyttä pitkäjyväistä riisiä"
+    ],
+    "instructions": [
+      "Kuumenna öljy ja sinapinsiemenet kannellisella paistinpannulla.",
+      "Kun sinapinsiemenet ovat lopettaneet poksumisen, lisää kaikki paitsi riisi ja paahda kevyesti öljyssä kullanruskeiksi.",
+      "Lisää mausteet keitettyyn riisiin, sekoita hyvin ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-rice-indonesian",
+    "title": "Kookosriisi (indonesialainen)",
+    "description": "Kookosmaidossa keitetty riisi pandan-lehdillä ja inkiväärillä.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "riisi", "indonesialainen"],
+    "ingredients": [
+      "300 g pitkäjyväistä valkoista riisiä, keittämättömänä",
+      "4 dl kookosmaitoa",
+      "2 punaista salottisipulia",
+      "2 viipaletta tuoretta inkivääriä",
+      "1 mm sarviapilansiemeniä",
+      "2 pandan-lehteä"
+    ],
+    "instructions": [
+      "Huuhtele ja valuta riisi.",
+      "Laita kaikki ainekset paistinpannulle tai kattilaan; varmista, että riisi on kookosmaidon peitossa 2 cm:n syvyydeltä.",
+      "Peitä kattila ja anna kypsyä keski-miedolla lämmöllä, kunnes neste on imeytynyt.",
+      "Poista pandan-lehdet.",
+      "Kaada loput kookosmaidosta riisin päälle.",
+      "Anna levätä huoneenlämmössä 15 minuuttia ja tarjoa."
+    ],
+    "notes": ["Kookosmaidon paksuudesta riippuen voit käyttää 2 dl kookosmaitoa ja 2 dl vettä."]
+  },
+  {
+    "id": "wikibooks-coconut-rice-nasi-lemak",
+    "title": "Kookosriisi (nasi lemak)",
+    "description": "Malesialaisen nasi lemakin kookosmaitoriisi pandan-lehdillä.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "riisi", "malesialainen"],
+    "ingredients": [
+      "14 dl basmatiriisiä",
+      "17 dl kookosmaitoa",
+      "1 tl suolaa",
+      "1–2 pandan-lehteä solmuun sidottuna (valinnainen)",
+      "5 cm tuoretta inkivääriä (valinnainen)"
+    ],
+    "instructions": [
+      "Huuhtele riisi ja aseta sivuun.",
+      "Laita sillä välin kookosmaito liedelle ja lisää suola.",
+      "Lisää riisi, pandan-lehdet ja inkivääri. Anna hautua, kunnes kookosmaito on haihtunut.",
+      "Peitä kannella ja anna seistä noin 15 minuuttia, kunnes riisi on kypsää."
+    ],
+    "notes": ["Jos riisi on vielä kovaa, lisää hieman vettä."]
+  },
+  {
+    "id": "wikibooks-coconut-rum-battered-shrimp",
+    "title": "Kookos-rommirapeat katkaravut",
+    "description": "Rommi-mausteseoksessa marinoituja ja kookoksessa paistettuja katkarapuja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "kookos", "friteerattu", "juhla"],
+    "ingredients": [
+      "24 isoa katkarapua, kuorittuina, suolistettuina ja halkaistuina (butterfly)",
+      "2,4 dl tummaa rommia",
+      "1½ tl cayennepippuria",
+      "1 tl suolaa",
+      "2 rkl savupaprikajauhetta",
+      "2 tl vastajauhettua mustapippuria",
+      "1 sitruuna, halkaistuna",
+      "makeutettuja kookoshiutaleita tai raastettua tuoretta kookosta",
+      "öljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita rommi ja mausteet. Kaada katkarapujen päälle ja jäähdytä vähintään 30 minuuttia, enintään 8 tuntia.",
+      "Pyöritä katkaravut kookoksessa. Anna levätä huoneenlämmössä 2–3 minuuttia.",
+      "Kuumenna öljy 175 asteeseen. Friteeraa katkarapuja 6 kerrallaan 3 minuuttia.",
+      "Valuta pellin päällä olevalla jäähdytysritilällä.",
+      "Purista päälle sitruunamehua ja tarjoa lämpimänä."
+    ]
+  },
+  { "id": "wikibooks-cocoyam-fufu", "skip": "ainesmääriä ei ole annettu (vain jauhojen vesimäärä), liian puutteellinen" },
+  {
+    "id": "wikibooks-cod-olive-oil-and-cream-sauce-brandade-de-morue",
+    "title": "Brandade de morue – turskatahna oliiviöljyllä",
+    "description": "Ranskalainen suolakalatahna, joka tarjoillaan paahtoleivän tai uuniperunaviipaleiden kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 1560,
+    "category": "Välipalat",
+    "tags": ["kala", "ranskalainen", "alkupala"],
+    "ingredients": [
+      "450 g suolattua turskaa (lipeäkala/klippfisk), nahaton ja ruodoton",
+      "2,4 dl oliiviöljyä",
+      "1,2 dl maitoa tai kuohukermaa",
+      "1 rkl tuoretta sitruunamehua tai maun mukaan",
+      "2,4 dl hienonnettua sipulia",
+      "2 valkosipulinkynttä, puristettuina tai raastettuina",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita suolakala isoon kulhoon kylmää vettä.",
+      "Liota 24 tuntia vaihtaen vettä useita kertoja. Kun kala on kokonaan pehmennyt, se on valmista seuraavaan vaiheeseen.",
+      "Keitä kalaa pelkässä vedessä 25 minuuttia tai kunnes se hajoaa helposti.",
+      "Valuta ja revi paloiksi.",
+      "Kypsennä sipulia oliiviöljyssä miedolla lämmöllä, kunnes se on läpikuultavaa.",
+      "Soseuta monitoimikoneessa kala, sipuli ja valkosipuli puolella oliiviöljystä.",
+      "Lisää koneen käydessä maito tai kerma, loput öljystä, sitruunamehu ja pippuri.",
+      "Sekoita tasaiseksi. Jos seos on liian paksua, ohenna maidolla tai kermalla.",
+      "Tarjoa paahtoleivän päällä tai perunaviipaleiden kanssa, jotka on kasteltu oliiviöljyssä ja paistettu 200 asteessa 30–40 minuuttia kerran kääntäen."
+    ]
+  },
+  {
+    "id": "wikibooks-coddle",
+    "title": "Coddle",
+    "description": "Dublinilainen edullinen makkara-pekoni-perunapata, joka sopii hyvin sooda- tai tummaleivän kanssa.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["liha", "peruna", "irlantilainen", "arkiruoka"],
+    "ingredients": [
+      "550 g makkaroita",
+      "250 g pekonia, 3 cm:n paloiksi hienonnettuna",
+      "3 dl kanalientä tai vettä",
+      "6 keskikokoista perunaa",
+      "2 keskikokoista sipulia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Upota pekoni, sipulit ja makkarat kokonaan liemeen ja kiehauta noin 5 minuuttia.",
+      "Lisää perunat tarvittaessa suupaloiksi leikattuina ja lisää loput liemestä.",
+      "Kuumenna uudelleen kiehuvaksi ja hauduta noin 1 tunti tai kunnes perunat alkavat hajota ja sakeuttavat liemen.",
+      "Lisää suola ja pippuri tarjoilun yhteydessä."
+    ],
+    "notes": ["Säilyy jääkaapissa ja lämpiää mikrossa."]
+  },
+  {
+    "id": "wikibooks-coffee-cake",
+    "title": "Suklaa-vadelmakahvikakku",
+    "description": "Kostea tuorejuustoinen kakku, jossa on suklaarakeita, vadelmia ja pekaanipähkinämuru.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kakku", "vadelma", "uuniruoka"],
+    "ingredients": [
+      "340 g voita tai margariinia, pehmeää (osa murun valmistukseen)",
+      "1 pkt (225 g) tuorejuustoa, pehmeää",
+      "3 dl sokeria, jaettuna",
+      "2 kananmunaa",
+      "1 tl vaniljauutetta",
+      "4,8 dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "¼ tl suolaa",
+      "½ dl maitoa",
+      "2,4 dl puolimakeita suklaarakeita",
+      "4,8 dl tuoreita vadelmia",
+      "Murutäyte:",
+      "½ dl fariinisokeria",
+      "½ dl hienonnettuja pekaanipähkinöitä",
+      "1 tl jauhettua kanelia"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa 280 g voita, tuorejuusto ja noin 2,8 dl sokeria. Vatkaa kermaiseksi. Vatkaa joukkoon munat ja vanilja.",
+      "Sekoita toisessa kulhossa jauhot, leivinjauhe, ruokasooda ja suola ja lisää ne hitaasti voiseoksen joukkoon vuorotellen maidon kanssa. Sekoita joukkoon suklaarakeet. Käännä varovasti joukkoon vadelmat.",
+      "Kaada taikina voideltuun 23 × 33 cm:n vuokaan.",
+      "Murenna haarukalla fariinisokeri, kaneli ja loput voista karkeaksi muruksi ja sekoita joukkoon pekaanipähkinät. Ripottele taikinan päälle.",
+      "Paista 175 asteessa 50–55 minuuttia tai kunnes useasta kohtaa pistetty tikku tulee puhtaana ulos.",
+      "Jäähdytä 15 minuuttia. Irrota reunat varovasti veitsellä tai lastalla.",
+      "Jäähdytä kokonaan ennen leikkaamista."
+    ],
+    "notes": ["Alkuperäisessä reseptissä murutäytteen ainekset ja voin jako olivat epäselviä; jako on arvioitu."]
+  },
+  {
+    "id": "wikibooks-coffee-concentrate",
+    "title": "Kahvitiiviste (kylmäuutto)",
+    "description": "Kylmäuutettu kahvitiiviste, joka säilyy jääkaapissa 2–3 viikkoa ja on tavallista kahvia mietoa hapokkuudeltaan.",
+    "servings": 8,
+    "totalTimeMin": 750,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "kasvis", "kahvi", "kylmä"],
+    "ingredients": [
+      "450 g jauhettua kahvia tai kahvi-sikuriseosta",
+      "3,3 l kivennäisvettä"
+    ],
+    "instructions": [
+      "Laita jauhettu kahvi purkkiin.",
+      "Kaada kivennäisvesi jauheen päälle ja sekoita vain niin, että kaikki kahvi kastuu.",
+      "Anna seistä 10–12 tuntia (paras yön yli).",
+      "Vuoraa siivilä harsolla ja aseta toisen purkin päälle. Kaada kahviseos siivilään, jotta uute valuu läpi.",
+      "Heitä kahvinporot pois ja säilytä tiiviste jääkaapissa. Se säilyy 2–3 viikkoa.",
+      "Valmista kahvi tiivisteestä suhteessa tiiviste:vesi 1:2 tai 1:3 maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-coffee-mousse",
+    "title": "Kahvimousse",
+    "description": "Hyytelöity kahvimousse kermavaahdon kanssa.",
+    "servings": 2,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kahvi", "mousse", "kylmä"],
+    "ingredients": [
+      "10 g liivatejauhetta",
+      "2–3 rkl kermaa",
+      "2 kananmunan keltuaista",
+      "2 rkl hienoa sokeria",
+      "10 rkl maitoa",
+      "1 rkl pikakahvijauhetta",
+      "2 kananmunan valkuaista",
+      "Kermavaahto:",
+      "2,4 dl kylmää kuohukermaa",
+      "1 tl vaniljasokeria",
+      "4 rkl sokeria",
+      "raastettua suklaata koristeeksi"
+    ],
+    "instructions": [
+      "Ripottele liivatejauhe kerman päälle. Anna turvota muutama minuutti.",
+      "Yhdistä keltuaiset, hieno sokeri ja maito. Kypsennä miedolla lämmöllä noin 10 minuuttia.",
+      "Lisää kerma-liivateseos ja pikakahvijauhe. Sekoita hyvin, kunnes liivatekokkareet ovat sulaneet. Anna jäähtyä hieman.",
+      "Vatkaa valkuaiset kuohkeiksi. Käännä valkuaisvaahto varovasti keltuaiskastikkeen joukkoon.",
+      "Siirrä mousse tarjoiluastiaan. Jäähdytä jääkaapissa tunti.",
+      "Yhdistä kuohukerma, vanilja ja sokeri. Vatkaa keskijäykäksi vaahdoksi.",
+      "Tarjoa mousse kermavaahdon kanssa ja koristele raastetulla suklaalla."
+    ],
+    "notes": ["Mousse sisältää raakoja valkuaisia; käytä tuoreita tai pastöroituja kananmunia."]
+  },
+  {
+    "id": "wikibooks-coffee-rum-glazed-apples",
+    "title": "Kahvi-rommikuorrutetut omenat",
+    "description": "Voissa paistetut omenat flambeerattuna kahvi-rommikastikkeessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "kahvi", "nopea"],
+    "ingredients": [
+      "3 Honeycrisp-omenaa (tai muuta kiinteää omenaa), kuorittuina, siemenkodat poistettuina ja 12 lohkoksi leikattuina",
+      "2 rkl tummaa rommia",
+      "2 rkl kahvilikööriä",
+      "1,8 dl vahvaa kahvia, jäähtynyttä",
+      "3 rkl sokeria",
+      "1 ripaus suolaa",
+      "3 rkl suolatonta voita"
+    ],
+    "instructions": [
+      "Sulata 1 rkl voita ruostumattomasta teräksestä valmistetulla paistinpannulla keskilämmöllä. Lisää omenat ja paista juuri ruskeiksi reunoilta. Ota pois ja pidä lämpimänä.",
+      "Yhdistä sillä välin liköörit. Lisää pannulle, sammuta lämpö ja sytytä. Kuumenna kiehuvaksi ja raaputa pohjalle palanut kerros irti.",
+      "Lisää loput ainekset pannulle ja kuumenna keskilämmöllä kiehuvaksi, kunnes neste on vähentynyt kolmanneksella.",
+      "Lisää omenat ja pyörittele kastikkeessa.",
+      "Tarjoa lämpimänä."
+    ],
+    "notes": ["Flambeeraus: pidä kasvot kaukana pannusta ja kansi lähettyvillä."]
+  },
+  {
+    "id": "wikibooks-cognac-beef-stew",
+    "title": "Konjakilla maustettu naudanlihapata",
+    "description": "Uunissa hitaasti haudutettu naudanlihapata konjakilla ja punaviinillä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 340,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "peruna", "uuniruoka"],
+    "ingredients": [
+      "1 kg naudan patalihaa, 5 cm:n kuutioiksi leikattuna",
+      "vehnäjauhoja tarpeen mukaan",
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "1 rkl savupaprikajauhetta",
+      "1,2 dl konjakkia",
+      "2,4 dl tomaattipyreetä",
+      "½ dl kanalientä",
+      "2 rkl worcestershirekastiketta",
+      "225 g punakuorisia perunoita, neljään osaan",
+      "1 sipuli, hienonnettuna",
+      "2 rkl hienonnettua valkosipulia",
+      "2 rkl oliiviöljyä",
+      "2 rkl voita",
+      "2,4 dl punaviiniä",
+      "8 timjamin oksaa",
+      "3 laakerinlehteä"
+    ],
+    "instructions": [
+      "Pyörittele liha jauhoissa. Kuumenna öljy 6 litran valurautapadassa.",
+      "Lisää liha erissä ja ruskista huolellisesti joka puolelta.",
+      "Ota liha pois ja lisää konjakki. Kuumenna kiehuvaksi ja sytytä.",
+      "Deglasoi pata raaputtamalla pohjaa.",
+      "Kun neste on vähentynyt puoleen, ota pois ja kaada lihan päälle.",
+      "Sulata voi keskilämmöllä ja lisää sipuli. Kypsennä 1–2 minuuttia ennen kuin lisäät valkosipulin. Kuullota vaaleankultaiseksi.",
+      "Lisää kaikki muu, laita 120 asteiseen uuniin ja paista 5 tuntia.",
+      "Anna levätä 10 minuuttia ja tarjoa."
+    ],
+    "notes": ["Flambeeraus: pidä kasvot kaukana padasta ja kansi lähettyvillä."]
+  },
+  { "id": "wikibooks-cola-bbq-chicken", "skip": "perustuu erillisiin resepteihin (mausteseos ja kastike), joita ei ole mukana" },
+  {
+    "id": "wikibooks-cola-bbq-sauce",
+    "title": "Cola-grillikastike",
+    "description": "Makea ja mausteinen kastike ketsupista ja colasta, sopii kylkiluille ja kanalle.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["grilli", "amerikkalainen", "kastike", "nopea"],
+    "ingredients": [
+      "1 pullo (570 g) ketsuppia",
+      "½ dl worcestershirekastiketta",
+      "1½ tlk (n. 5 dl) colaa",
+      "1,2 dl soijakastiketta",
+      "½ dl omenaviinietikkaa",
+      "tulista kastiketta maun mukaan"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset ja kuumenna kiehuvaksi.",
+      "Keitä korkealla lämmöllä 10 minuuttia.",
+      "Säilytä jääkaapissa reagoimattomassa (lasi- tai muovi-) astiassa enintään 1 viikko."
+    ]
+  },
+  {
+    "id": "wikibooks-cola-cake",
+    "title": "Colakakku",
+    "description": "Amerikkalainen pellillinen suklaakakku, jonka taikinassa on colaa ja pikkuvaahtokarkkeja.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kakku", "amerikkalainen"],
+    "ingredients": [
+      "Kakku:",
+      "4,8 dl vehnäjauhoja",
+      "4,8 dl sokeria",
+      "2,4 dl colaa",
+      "250 g margariinia",
+      "3 rkl kaakaojauhetta",
+      "2 kananmunaa",
+      "1,2 dl piimää",
+      "½ tl ruokasoodaa",
+      "1 tl vaniljasokeria",
+      "3,5 dl pikkuvaahtokarkkeja",
+      "Kuorrute:",
+      "6 rkl colaa",
+      "2 rkl kaakaojauhetta",
+      "115 g margariinia",
+      "1 tl vaniljasokeria",
+      "500 g tomusokeria",
+      "2 dl hienonnettuja pähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja sokeri kulhossa.",
+      "Sekoita kattilassa cola, margariini ja kaakao ja kuumenna kiehuvaksi.",
+      "Kaada jauho-sokeriseoksen päälle ja sekoita hyvin.",
+      "Vatkaa munat ja sekoita joukkoon. Lisää piimä, ruokasooda, vanilja ja vaahtokarkit; taikinasta tulee ohutta. Vaahtokarkit nousevat pintaan.",
+      "Paista 23 × 33 cm:n vuoassa 175 asteessa 35 minuuttia. Valmista kuorrute ennen kuin kakku jäähtyy.",
+      "Sekoita kuorrutetta varten cola, kaakao ja margariini kattilassa ja kuumenna kiehuvaksi.",
+      "Lisää vanilja, tomusokeri ja pähkinät. Sekoita tasaiseksi.",
+      "Levitä lämmin kuorrute kakun päälle."
+    ]
+  },
+  { "id": "wikibooks-cola-de-mono", "skip": "alkoholijuoma (chileläinen brandy)" },
+  {
+    "id": "wikibooks-colcannon",
+    "title": "Colcannon",
+    "description": "Muhkea irlantilainen perunamuusi kaalin, voin ja gouda-juuston kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "kaali", "irlantilainen"],
+    "ingredients": [
+      "450 g jauhoisia perunoita (kuori halutessasi mukana)",
+      "1,5 dl ruokakermaa",
+      "muskottikukkaa",
+      "jauhettua paprikajauhetta",
+      "450 g valko- tai kyssäkaalia, suikaloituna",
+      "2 pientä purjoa tai 1 nippu kevätsipulin vartta, hienonnettuina",
+      "125 g suolatonta voita",
+      "200 g kypsytettyä goudaa, raastettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä tai höyrytä perunat pehmeiksi, valuta ja ravistele syvässä kattilassa kansi päällä, kunnes ne murenevat.",
+      "Muussaa murentuneet perunat haarukalla ja mausta suolalla, pippurilla ja muskottikukalla tai paprikalla. Sekoita joukkoon kerma.",
+      "Lisää 100 g voita paloina ja laita kansi takaisin päälle, jotta voi sulaa. Sekoita ja siirrä puhtaaseen kulhoon.",
+      "Kuumenna kaalia kiehuvassa vedessä 2 minuuttia ja valuta.",
+      "Paista purjoja muutama minuutti loppu voissa. Lisää kaali ja pyörittele muutama minuutti.",
+      "Lusikoi kaali kulhoon ja sekoita perunamuusiin.",
+      "Sekoita gouda joukkoon, jätä hieman päälle. Laita kulho 180 asteiseen uuniin 20 minuutiksi tai kunnes juusto on sulanut."
+    ],
+    "notes": [
+      "Gouda on lisäys; jätä pois, jos et halua liian täyteläistä.",
+      "Mausta huolellisesti: juusto on jo suolaista."
+    ]
+  },
+  {
+    "id": "wikibooks-colcannon-scottish",
+    "title": "Colcannon (skotlantilainen)",
+    "description": "Yksinkertainen vanha skotlantilainen resepti keitetystä perunasta ja kaalista voissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "kaali", "skotlantilainen"],
+    "ingredients": [
+      "450 g keitettyä perunaa",
+      "450 g keitettyä kaalia",
+      "30 g voita tai paistinrasvaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa, noin 30 g (1 unssi) 450 g:aa vihanneksia kohden.",
+      "Sekoita kaikki ainekset yhteen, kuumenna läpikotaisin ja tarjoa."
+    ]
+  }
+]

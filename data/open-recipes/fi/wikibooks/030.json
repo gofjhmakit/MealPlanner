@@ -1,0 +1,661 @@
+[
+  {
+    "id": "wikibooks-chocolate-jalapeno-truffles",
+    "title": "Suklaa-jalapeñotryffelit",
+    "description": "Tulisen makeat suklaatryffelit, joissa on kahvia ja paahdettua jalapeñoa.",
+    "servings": 36,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "tulinen", "juhla"],
+    "ingredients": [
+      "1 rkl pikakahvijauhetta",
+      "½ dl kiehuvaa vettä",
+      "280 g laadukasta puolimakeaa suklaata, pieninä paloina tai rakeina",
+      "140 g laadukasta suolatonta voita, kylmänä ja pieninä paloina",
+      "2–3 jalapeñoa, paahdettuina, kuorittuina, siemenettöminä ja hienoksi hienonnettuina",
+      "1,2 dl kaakaojauhetta, siivilöitynä lautaselle"
+    ],
+    "instructions": [
+      "Liuota kahvi veteen metallisessa, noin 1 litran kulhossa.",
+      "Lisää suklaa ja aseta kulho miedosti kuplivan veden päälle.",
+      "Kun suklaa on pehmennyt kokonaan mutta ei ole kuumaa, ota pois lämmöltä ja sekoita tasaiseksi.",
+      "Vatkaa joukkoon kylmä voi pieni pala kerrallaan ja lisää uusi pala heti, kun edellinen on lähes sekoittunut.",
+      "Vatkaa sähkövatkaimella kermaiseksi, noin 10 minuuttia.",
+      "Jatka vatkaamista muutama minuutti seoksen jäähtymiseksi. Voit käyttää myös yleiskonetta vispilällä.",
+      "Lisää puolet jalapeñoista ja maista. Lisää lisää oman maun mukaan; muista, että tulisuus voimistuu ajan myötä. Tavoittele makean ja tulisen tasapainoa.",
+      "Kaavi pieneen syvään astiaan, paina kelmu seoksen pintaan ja jäähdytä yön yli täysin kiinteäksi.",
+      "Ota lusikalla pieniä palloja ja pyöritä kaakaossa.",
+      "Säilytä jääkaapissa tarjoiluun asti."
+    ],
+    "notes": [
+      "Käytä käsineitä chilejä käsitellessäsi.",
+      "Tryffelit voi pyörittää myös hienonnetuissa pistaasi-, manteli- tai macadamiapähkinöissä."
+    ]
+  },
+  {
+    "id": "wikibooks-chokladboll-swedish-chocolate-balls",
+    "title": "Chokladboll – ruotsalaiset suklaapallot",
+    "description": "Paistamattomat kaurahiutale-suklaapallot, jotka pyöritetään kookoksessa tai raesokerissa.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "ruotsalainen", "nopea"],
+    "ingredients": [
+      "8 dl kaurahiutaleita (pikakaurahiutaleita)",
+      "3 dl sokeria",
+      "1 dl kaakaojauhetta",
+      "1 rkl vaniljasokeria",
+      "160 g voita tai margariinia, pehmeää",
+      "6 rkl kylmää kahvia",
+      "kookoshiutaleita tai raesokeria pyöritykseen"
+    ],
+    "instructions": [
+      "Sekoita kaurahiutaleet, sokeri, vaniljasokeri ja kaakao isossa kulhossa.",
+      "Sekoita voi kuiviin aineisiin käsin tai perunamurskaimella, kunnes taikina on tasaista.",
+      "Lisää kahvi ja sekoita.",
+      "Täytä pieni kulho kookoshiutaleilla tai raesokerilla.",
+      "Pyörittele taikina käsin noin 3 cm:n palloiksi.",
+      "Pyöritä jokainen pallo kookoksessa tai raesokerissa ja aseta tarjottimelle.",
+      "Jäähdytä vähintään tunti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-chola-and-roti",
+    "title": "Chola ja roti",
+    "description": "Intialainen mausteinen chana dal -pata, tarjotaan naan- tai rotileivän kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "tulinen"],
+    "ingredients": [
+      "250 g kuivattua chana dalia (halkaistuja kikherneitä)",
+      "2 keskikokoista sipulia, hienonnettuina",
+      "rypsiöljyä",
+      "200 g tomaattia, hienonnettuna",
+      "5–8 vihreää chiliä, hienonnettuina",
+      "20 g raastettua inkivääriä",
+      "50 g hienonnettua korianterin lehteä",
+      "suolaa",
+      "1 rkl mustapippuria",
+      "1 rkl chilijauhetta",
+      "garam masalaa"
+    ],
+    "instructions": [
+      "Liota chana dal vedessä yön yli.",
+      "Valuta chana dal ja keitä painekattilassa pehmeäksi. Valuta.",
+      "Paista sipulit kuumassa öljyssä kullanruskeiksi. Lisää tomaatit ja paista, kunnes öljy erottuu.",
+      "Lisää chilit, inkivääri, suola ja valutettu chana dal. Keitä 1–2 minuuttia.",
+      "Sekoita joukkoon pippuri, chilijauhe ja garam masala. Koristele korianterilla.",
+      "Tarjoa kuumana naan- tai rotileivän kanssa."
+    ],
+    "notes": ["Garam masalan määrää ei ole annettu; lisää maun mukaan, noin 1 rkl."]
+  },
+  {
+    "id": "wikibooks-cholley-chickpea-curry",
+    "title": "Cholley – kikhernecurry",
+    "description": "Pohjois-Intiassa ja Pakistanissa suosittu kikhernepata sipulista, tomaatista ja mausteista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "kikherneet"],
+    "ingredients": [
+      "250 g kuivattuja kikherneitä",
+      "5 dl vettä keittämiseen",
+      "suolaa",
+      "1 rkl öljyä",
+      "1 tl korianterinsiemeniä",
+      "1 tl kuminansiemeniä (valinnainen)",
+      "1 tl mustakuminaa (nigella) (valinnainen)",
+      "1 sipuli, viipaloituna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "1 rkl garam masalaa",
+      "2 keskikokoista tomaattia, hienonnettuina",
+      "2 tl kurkumaa",
+      "tuoretta korianterin lehteä koristeeksi"
+    ],
+    "instructions": [
+      "Pese kikherneet ja liota ne yön yli runsaassa vedessä. Kikherneet turpoavat paljon.",
+      "Valuta vesi ja laita kikherneet painekattilaan tai isoon kattilaan. Lisää 5 dl tuoretta vettä ja suola ja keitä pehmeiksi (painekattilassa 10 minuuttia; tavallisessa kattilassa kiehauta ja hauduta 60–90 minuuttia).",
+      "Kuumenna öljy paksupohjaisessa pannussa. Lisää korianterin-, kuminan- ja mustakuminansiemenet ja paista hetki, kunnes ne rätisevät. Lisää nopeasti sipuli ja valkosipuli, laske lämpö keskilämmölle ja kuullota sipulit läpikuultaviksi.",
+      "Lisää garam masala, tomaatti, kurkuma ja suola ja kypsennä 1 minuutti.",
+      "Lisää keitetyt kikherneet, laske lämpöä ja hauduta noin 15 minuuttia. Varmista, että kastike on sakeutunut, ennen kuin otat pois lämmöltä.",
+      "Kaada tarjoilukulhoon, koristele korianterilla ja tarjoa riisin tai leivän kanssa."
+    ],
+    "notes": ["Lisää halutessasi kookoshiutaleita ja mustapippuria."]
+  },
+  {
+    "id": "wikibooks-chop-rub",
+    "title": "Chop rub -mausteseos",
+    "description": "Savuinen mausteseos pihville, porsaalle ja kanalle.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mausteseos", "grilli", "amerikkalainen", "savuinen"],
+    "ingredients": [
+      "2,4 dl savupaprikajauhetta",
+      "1,2 dl suolaa",
+      "2,4 dl tummaa fariinisokeria",
+      "1,8 dl kuivattua sitruunankuorta",
+      "1,2 dl mustapippuria",
+      "½ dl kuivattua rosmariinia",
+      "0,8 dl valkosipulirouhetta",
+      "1,2 dl chipotlejauhetta",
+      "2 tl hikkorisavujauhetta tai 2 tippaa nestesavua ruokaan"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskenään ja säilytä viileässä ja pimeässä ilmatiiviissä astiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-choucroute-sauerkraut-with-meat-and-potatoes",
+    "title": "Choucroute – hapankaalia lihan ja perunoiden kanssa",
+    "description": "Alsacelainen choucroute garnie: hapankaalia makkaroiden, savuliha ja perunoiden kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "peruna", "ranskalainen", "uuniruoka"],
+    "ingredients": [
+      "1 rkl ankanrasvaa",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2–3 pientä perunaa",
+      "5 katajanmarjaa",
+      "1 mausteneilikka",
+      "1–2 valkosipulinkynttä",
+      "1 rkl korianterinsiemeniä",
+      "½ rkl mustaa sinapinsiementä",
+      "2 pekoniviipaletta, karkeaksi suikaloituina",
+      "450 g hapankaalia",
+      "4 porsasmakkaraa",
+      "3 viipaletta luullista savuporsasta",
+      "2,4 dl kuivaa valkoviiniä"
+    ],
+    "instructions": [
+      "Sulata ankanrasva keskilämmöllä kattilassa, johon kaikki mahtuvat.",
+      "Lisää sipuli ja kuullota läpikuultavaksi, noin 5 minuuttia.",
+      "Lisää hapankaali, valkoviini, katajanmarjat, neilikka, korianterinsiemenet, sinapinsiemenet ja valkosipuli.",
+      "Lisää savuporsas ja pekoni.",
+      "Peitä kannella ja hauduta noin 2 tuntia.",
+      "Hauduta toisessa kattilassa kuoritut perunat ja makkarat. Älä keitä kovaa, sillä makkarat halkeavat.",
+      "Hauduta, kunnes perunat ovat kypsiä (silloin myös makkarat ovat valmiita).",
+      "Tarjoa kasana: hapankaali alla, lihat ja perunat päällä."
+    ]
+  },
+  {
+    "id": "wikibooks-chow-mein",
+    "title": "Chow mein seitanilla",
+    "description": "Kiinalaiset paistetut nuudelit seitanin ja kasvisten kanssa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "kiinalainen", "nuudelit", "wok"],
+    "ingredients": [
+      "450 g mungpavun idusta",
+      "425 g seitania",
+      "225 g kuivattuja wonton-nuudeleita",
+      "2 keskikokoista varsiselleriä",
+      "450 g pak choita tai parsakaalia",
+      "225 g tuoreita herkkusieniä",
+      "1 punainen paprika",
+      "½ punasipulia",
+      "1 kevätsipuli",
+      "rypsiöljyä paistamiseen",
+      "Marinadi:",
+      "½ dl paahdettuja seesaminsiemeniä",
+      "½ dl hienonnettuja shiitake-sieniä",
+      "2 tl seesamiöljyä",
+      "1 tl soijakastiketta",
+      "suolaa",
+      "mustapippuria",
+      "½ tl maissitärkkelystä",
+      "Kastike:",
+      "½ dl vettä tai vähäsuolaista kasvislientä",
+      "1 rkl soijakastiketta",
+      "1 rkl osterikastiketta tai kasvisosterikastiketta",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl maissitärkkelystä",
+      "4 rkl vettä"
+    ],
+    "instructions": [
+      "Huuhtele mungpavun idut 1–2 tuntia ennen ruoanlaittoa, jotta ne ehtivät valua kunnolla.",
+      "Leikkaa seitan ohuiksi suikaleiksi. Lisää marinadin ainekset, maissitärkkelys viimeisenä. Marinoi 20–25 minuuttia.",
+      "Valmista kastike: liuota 1 rkl maissitärkkelystä 4 rkl:aan vettä. Vatkaa vesi tai liemi, soija- ja osterikastike, suola, pippuri sekä tärkkelysliemi sekaisin ja aseta sivuun.",
+      "Pehmennä nuudelit kiehuvassa suolavedessä. Jäähdytä kylmässä vedessä ja valuta huolellisesti.",
+      "Pese kasvikset. Leikkaa selleri ja pak choi vinosti 1 cm:n paloiksi. Jos käytät parsakaalia, kuori varret ja viipaloi ohuesti vinosti. Pyyhi sienet kostealla liinalla ja viipaloi. Halkaise paprika, poista siemenet ja leikkaa paloiksi. Kuori ja hienonna sipuli. Pilko kevätsipuli.",
+      "Kuumenna wok tai paistinpannu keskikorkealle tai korkealle lämmölle. Lisää 2 rkl öljyä. Kun öljy on kuumaa, lisää nuudelit. Paista erissä kullanruskeiksi. Ota nuudelit pois pannulta.",
+      "Kuumenna 2 rkl öljyä. Lisää sipuli ja seitan, mutta jätä jäljelle jäänyt marinadi talteen. Anna seitanin ruskistua hetki ja paista sitten sekoitellen, kunnes se on lähes kypsää. Ota seitan ja sipuli pois pannulta.",
+      "Kypsennä muut kasvikset erikseen paitsi kevätsipuli, ja mausta halutessasi vähällä suolalla. Kun kypsennät pak choita tai parsakaalia, lisää ½ dl vettä ja peitä kannella. Ota kukin kasvis pois pannulta kypsänä. Lisää öljyä tarpeen mukaan.",
+      "Sekoita kastiketta vielä kerran. Lisää kaikki ainekset takaisin wokkiin ja tee keskelle kuoppa kastikkeelle. Lisää kastike ja mahdollinen jäljelle jäänyt marinadi ja sekoita nopeasti sakeutuen. Sekoita kaikki yhteen. Lisää kevätsipuli.",
+      "Kaada kasvis-kastikeseos nuudelien päälle. Koristele paahdetuilla seesaminsiemenillä. Tarjoa kuumana."
+    ],
+    "notes": [
+      "Rapeita nuudeleita varten käytä reseptiä enemmän öljyä ja paista nuudeleita pidempään.",
+      "Osterikastike mainitaan ohjeessa mutta ei ainesluettelossa; määrä on arvio."
+    ]
+  },
+  {
+    "id": "wikibooks-chraime-sephardic-fish-and-vegetable-casserole",
+    "title": "Chraime – sefardilainen kala-kasvisvuoka",
+    "description": "Sefardijuutalainen kala-kasvispata, jota syödään usein rosh hashanan alkuruokana.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["kala", "peruna", "tomaatti", "juutalainen"],
+    "ingredients": [
+      "2 isoa uuniperunaa, viipaloituna",
+      "2 keskikokoista punaista paprikaa, siemenet poistettuna ja 1 cm:n suikaleiksi leikattuna",
+      "5 valkosipulinkynttä, kuorittuina ja murskattuina",
+      "1 pieni jalapeño tai muu tulinen chili, neljään osaan ja siemenet poistettuna",
+      "suolaa",
+      "550–650 g valkoisia kalafileitä (esim. kampela, pallas tai turska)",
+      "1 rkl makeaa paprikajauhetta",
+      "3 kypsää tomaattia, karkeasti hienonnettuina",
+      "2,4 dl hienonnettua tuoretta korianteria tai persiljaa",
+      "2,4 dl vettä",
+      "0,8 dl oliiviöljyä",
+      "karkeaa suolaa"
+    ],
+    "instructions": [
+      "Aseta isossa tulenkestävässä kasarissa tai valurautapadassa perunaviipaleet pohjalle. Ripottele päälle paprika, valkosipuli ja jalapeño. Ripottele suolaa. Aseta kala päälle ja ripottele paprikajauhetta ja suolaa. Lisää tomaatit ja korianteri tai persilja.",
+      "Kaada vesi reunoille. Valuta öljy päälle ja ripottele runsaasti suolaa.",
+      "Aseta pata korkealle lämmölle, peitä kannella ja kuumenna kiehuvaksi. Laske lämpö hieman ja hauduta 25–30 minuuttia, kunnes kasvikset ovat pehmeitä ja kala kypsää. Tarkista 20 minuutin kohdalla; jos nestettä on liikaa, poista kansi loppuajaksi.",
+      "Tarjoa kuumana tai lämpimänä juhlaleivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-christmas-cake",
+    "title": "Brittiläinen joulukakku",
+    "description": "Perinteinen kuivahedelmäkakku, jota syödään joulun aikaan teen kanssa. Kuivahedelmät liotetaan alkoholissa.",
+    "servings": 10,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "joulu", "kakku", "brittiläinen", "juhla"],
+    "ingredients": [
+      "600 g korinttia",
+      "400 g sultanarusinoita",
+      "400 g kirsikoita (glacé), neljäsosiksi leikattuina",
+      "200 g rusinoita",
+      "100 g hienonnettua sukaattia",
+      "2 dl sherryä",
+      "1 dl brandya",
+      "½ dl kirsch-likööriä tai rommia",
+      "4 kananmunaa",
+      "300 g kevyesti suolattua pehmeää margariinia",
+      "300 g tummaa fariinisokeria",
+      "100 g itsenousevia vehnäjauhoja",
+      "200 g vehnäjauhoja",
+      "100 g hienonnettuja manteleita",
+      "2 tl jauhettua leivonnaismausteseosta (mixed spice)",
+      "2 rkl tummaa siirappia"
+    ],
+    "instructions": [
+      "Laita kaikki hedelmät isoon kulhoon ja kaada alkoholi päälle.",
+      "Peitä kulho foliolla ja jätä viileään.",
+      "Sekoita hedelmiä joka päivä vähintään kolme päivää; kahden viikon jälkeen suurin osa alkoholista on imeytynyt eikä lisäliotuksesta ole hyötyä.",
+      "Vaahdota sokeri, margariini ja munat.",
+      "Lisää mantelit ja siirappi ja sekoita.",
+      "Siivilöi jauhot ja mausteseos joukkoon ja vatkaa tasaiseksi.",
+      "Sekoita valmisteltuihin hedelmiin ja kaada leivinpaperilla vuorattuun kakkuvuokaan.",
+      "Paista matalassa lämmössä, 140 asteessa, vähintään 4 tuntia. Uunista riippuen aikaa voi kulua jopa 5 tuntia.",
+      "Kun veitsi tulee puhtaana ulos, ota uunista ja anna jäähtyä kokonaan.",
+      "Ilmatiiviissä rasiassa kakku säilyy vähintään neljä kuukautta."
+    ],
+    "notes": ["Mixed spice -mausteseoksen voi korvata kanelin, muskotin ja neilikan seoksella."]
+  },
+  {
+    "id": "wikibooks-christmas-cinnamon-cookies",
+    "title": "Joulun kanelikeksit",
+    "description": "Nopeat ja helpot keksit, jotka voi leikata mihin tahansa muotoon piparkakkumuoteilla.",
+    "servings": 40,
+    "totalTimeMin": 32,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "joulu", "keksit", "kaneli"],
+    "ingredients": [
+      "130 g mantelijauhoa",
+      "130 g voita, pehmeää",
+      "130 g tomusokeria",
+      "300 g vehnäjauhoja",
+      "2 kananmunaa",
+      "1 tl vaniljauutetta",
+      "2 tl jauhettua kanelia",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen.",
+      "Sekoita kaikki ainekset keskenään taikinaksi.",
+      "Jäähdytä taikinaa jääkaapissa 1 tunti.",
+      "Kaulitse taikina litteäksi.",
+      "Leikkaa haluamasi muotoiset keksit piparkakkumuotilla.",
+      "Paista 10 minuuttia. Anna jäähtyä."
+    ],
+    "notes": ["Keksit ovat uunista otettaessa pehmeitä, mutta kovettuvat jäähtyessään. Ne ovat valmiita, kun ne ovat ruskeita sisältä ja ulkoa."]
+  },
+  {
+    "id": "wikibooks-christmas-ham",
+    "title": "Joulukinkku",
+    "description": "Perinteinen pitkään kypsennetty luuton joulukinkku, joka kuorrutetaan sinapilla ja korppujauhoilla.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 660,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "joulu", "suomalainen", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 kpl (7–10 kg) kevyesti suolattua luutonta kinkkua",
+      "ruokasinappia",
+      "korppujauhoja"
+    ],
+    "instructions": [
+      "Jos kinkku on pakastettu, sulata se muovipakkauksessaan jääkaapissa: 3 vuorokautta 7 kg:n kinkulle, 5 vuorokautta 10 kg:n kinkulle.",
+      "Ota kinkku jääkaapista ennen uuniin laittoa huoneenlämpöön. Jos aiot laittaa kinkun uuniin illalla, ota se esiin aamulla. Kinkun lämpötilan tulisi olla noin 10 °C uuniin laitettaessa.",
+      "Pyyhi kinkku hieman kostealla talouspaperilla ja kuivaa.",
+      "Aseta kinkku uunipellille uuniin ja lisää pellille hieman vettä. Tai käytä isoa uunipussia, jolloin vettä ei tarvita. Älä aseta kinkkua pelkän ritilän varaan, sillä jos pussi repeää, uuni likaantuu. Voit laittaa kinkun ritilälle, jos laitat sen alle pellin tippuvan nesteen varalle. Pellille voi laittaa alumiinifoliota.",
+      "Kuumenna uuni 200 asteeseen ja paista kinkkua uunissa puoli tuntia. Voit jättää tämän väliin, jos et huolehdi kinkun mahdollisista bakteereista.",
+      "Laske lämpötila 100–125 asteeseen ja kypsennä noin 1 tunti/kg (7 kg:n kinkku vie 7 tuntia tai enemmän), kunnes lihalämpömittari kinkun keskellä näyttää 75–80 °C. Perinteinen kinkku on valmis 80 asteessa, mutta useimmat ottavat kinkun uunista noin 77 asteessa, jolloin kinkussa on enemmän nestettä ja sitä pidetään maukkaampana.",
+      "Kun otat kinkun uunista, odota hetki ennen kuin poistat lämpömittarin. Pussin tai pellin nestettä ei kannata kaataa viemäriin.",
+      "Odota, että kinkku on jäähtynyt käsiteltäväksi, ja kuorruta se sitten kauttaaltaan sinapilla ja korppujauhoilla. Poista ensin kinkun kuori, peitä kinkku sinapilla ja sitten korppujauhoilla. Paista 250 asteessa 10 minuuttia.",
+      "Kinkku on valmista syötäväksi, kun se on jäähtynyt hieman. Jos et usko syöväsi kaikkea viikossa, pakasta loput."
+    ],
+    "notes": [
+      "Lihalämpömitarin käyttö on suositeltavaa, sillä uunin todellinen lämpötila poikkeaa usein säädöstä. Mittarin tulee olla kinkun keskellä, eikä se saa koskea uunin seinämiä.",
+      "Perinteistä kinkkua kypsennetään myös saunassa tai puu-uunissa; lämpömittarin käyttö on silloin erityisen tärkeää."
+    ]
+  },
+  { "id": "wikibooks-christmas-mince-pies-meat-free", "skip": "ainesmääriä ei ole annettu, täyte ostetaan valmiina" },
+  {
+    "id": "wikibooks-christmas-pudding-i",
+    "title": "Brittiläinen joulupuding",
+    "description": "Pitkään höyrytetty tumma kuivahedelmäpuding, joka tarjotaan jouluna brandyvoin kanssa.",
+    "servings": 8,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "joulu", "puding", "brittiläinen", "juhla"],
+    "ingredients": [
+      "100 g itsenousevia vehnäjauhoja",
+      "250 g rusinoita",
+      "250 g korinttia",
+      "25 g sukaattia",
+      "1 pieni keittoomena, hienonnettuna",
+      "1 appelsiini, kuori raastettuna ja mehu puristettuna",
+      "1 sitruuna, kuori raastettuna ja mehu puristettuna",
+      "75 g suolatonta voita sekä voita vuoan voiteluun",
+      "100 g muscovadosokeria",
+      "2 isoa kananmunaa",
+      "1 tl leivonnaismausteseosta (mixed spice)",
+      "40 g korppujauhoja tai leivänmuruja",
+      "40 g karkeasti hienonnettuja manteleita",
+      "3 rkl brandya, rommia tai sherryä sekä lisää flambeeraukseen",
+      "350 g brandyvoita tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita kulhossa rusinat, korintit, sukaatti ja omena sekä sitruunan ja appelsiinin kuori ja mehu. Sekoita hyvin ja anna maustua tunti.",
+      "Vaahdota toisessa kulhossa voi ja sokeri lusikalla. Kun seos on kuohkeaa, lisää munat hitaasti.",
+      "Siivilöi jauhot ja mausteet kolmanteen kulhoon. Lisää nämä vähitellen voi-sokerivaahtoon ja käännä joukkoon korppujauhot ja mantelit. Käännä sitten joukkoon hedelmäseos.",
+      "Voitele puding-vuoka runsaasti ja aseta pohjalle pieni pyöreä leivinpaperi.",
+      "Lisää seos vuokaan ja tasoita. Leikkaa leivinpaperista ja foliosta kansi, tee siihen keskelle laskos, jotta pudingille jää tilaa kohota, aseta vuoan päälle ja sido nuoralla.",
+      "Kypsennä pudingia joko höyryttämällä 8 tuntia tai keittämällä 7–8 tuntia. Höyrytys: aseta puding höyrykattilaan, jossa vesi kiehuu miedosti. Peitä kannella ja lisää vettä tarpeen mukaan 8 tunnin ajan. Keittäminen: aseta ison kattilan pohjalle metallinen alusta. Tee kaksi nuora- tai foliosuikaletta alustan päälle, jotta voit nostaa pudingin valmiina, ja jätä riittävästi reunan yli. Laske puding alustalle ja kaada kiehuvaa vettä niin, että se yltää puoleen väliin vuokaa. Peitä kannella ja hauduta, kunnes puding on tummanruskeaa, lisäten vettä tarpeen mukaan.",
+      "Ota puding ylös ja anna jäähtyä 1–2 tuntia. Kun puding on jäähtynyt, vaihda paperi ja folio uusiin. Säilytä viileässä ja kuivassa. Pudingin voi pakastaa jopa vuodeksi.",
+      "Tarjoa lämmittämällä puding höyryttämällä tai keittämällä kaksi tuntia. Käännä sitten tarjoiluvadille.",
+      "Flambeeraa lämmittämällä hieman brandya pannussa, kaada se kuuman pudingin päälle pöydässä ja sytytä. Tarjoa brandyvoi erikseen."
+    ],
+    "notes": ["Brandyvoi on perinteinen kaveri: sekoita voi, tomusokeri ja brandy."]
+  },
+  { "id": "wikibooks-christmas-pudding-ii", "skip": "lähes kaksoiskappale joulupudingin ensimmäiselle reseptille" },
+  { "id": "wikibooks-chtitha-batata-algerian-potato-stew", "skip": "ainesmääriä ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-chuck-wagon-beans",
+    "title": "Chuck wagon -pavut",
+    "description": "Paistetut pekonipavut jauhelihalla, makealla ja savuisella kastikkeella.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["liha", "pavut", "amerikkalainen", "uuniruoka"],
+    "ingredients": [
+      "225 g pekonia, suupaloiksi leikattuna",
+      "450 g naudan jauhelihaa",
+      "1 iso sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuina",
+      "0,8 dl fariinisokeria",
+      "0,8 dl sokeria",
+      "2 rkl tummaa siirappia",
+      "½ dl grillikastiketta",
+      "2 rkl sinappia",
+      "1 tl mustapippuria",
+      "2 tl suolaa",
+      "½ tl chilijauhetta",
+      "2 tlk (à 450 g) paistettuja papuja tomaattikastikkeessa (pork and beans)"
+    ],
+    "instructions": [
+      "Ruskista pekoni, jauheliha ja sipuli.",
+      "Sekoita loput ainekset joukkoon järjestyksessä ja sekoita hyvin jokaisen lisäyksen jälkeen.",
+      "Paista 175 asteessa noin 40 minuuttia, kunnes seos on sakeutunut."
+    ],
+    "notes": ["Hyvä maissileivän kanssa."]
+  },
+  {
+    "id": "wikibooks-chukauni-nepalese-potato-salad",
+    "title": "Chukauni – nepalilainen perunasalaatti",
+    "description": "Nepalilainen perunasalaatti jogurtilla ja mausteöljyllä, tarjotaan roti-leivän tai riisin kanssa.",
+    "servings": 2,
+    "totalTimeMin": 20,
+    "category": "Salaatit",
+    "tags": ["kasvis", "peruna", "nepalilainen", "tulinen"],
+    "ingredients": [
+      "4 keitettyä perunaa, kuorittuina ja karkeasti kuutioituina",
+      "2 dl jogurttia",
+      "2 chiliä, hienonnettuina",
+      "1 iso sipuli, hienonnettuna",
+      "2 rkl sinappiöljyä",
+      "suolaa",
+      "½ tl kurkumaa",
+      "½ tl sarviapilansiemeniä",
+      "chilijauhetta (valinnainen)",
+      "2 kuivattua punaista chiliä (valinnainen)"
+    ],
+    "instructions": [
+      "Laita keitetyt perunat kulhoon.",
+      "Lisää hienonnetut chilit ja sipuli.",
+      "Kaada jogurtti perunoiden päälle.",
+      "Lisää suola ja chilijauhe maun mukaan.",
+      "Kuumenna pienessä wokissa tai pannussa öljy kuivattujen chilien ja sarviapilansiementen kanssa.",
+      "Kun siemenet tummuvat, ota pannu pois lämmöltä.",
+      "Lisää kurkuma heti öljyn joukkoon.",
+      "Kaada öljy perunoiden ja jogurtin päälle.",
+      "Sekoita tasaiseksi kauhalla tai lusikalla."
+    ]
+  },
+  {
+    "id": "wikibooks-chunky-cran-apple-bran-muffins",
+    "title": "Karpalo-omena-kleesimuffinssit",
+    "description": "Maukkaat muffinssit omenapaloilla ja kuivatuilla karpaloilla.",
+    "servings": 8,
+    "totalTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "muffinssit", "omena", "uuniruoka"],
+    "ingredients": [
+      "1,8 dl vehnäleseitä",
+      "1,8 dl maitoa",
+      "3,6 dl vehnäjauhoja",
+      "1½ tl leivinjauhetta",
+      "1½ tl kanelia",
+      "¾ tl suolaa",
+      "¼ tl ruokasoodaa",
+      "1 mm neilikkaa",
+      "1,8 dl fariinisokeria",
+      "¾ dl rypsiöljyä",
+      "1 kananmuna",
+      "3,6 dl kuorittuja ja hienonnettuja omenoita",
+      "1,2 dl kuivattuja karpaloita"
+    ],
+    "instructions": [
+      "Sekoita vehnäleseet ja maito kulhossa. Anna levätä 5 minuuttia.",
+      "Sekoita jauhot, leivinjauhe, kaneli, suola, ruokasooda ja neilikka toisessa kulhossa.",
+      "Sekoita fariinisokeri, öljy ja muna leseseokseen. Lisää kuivat ainekset, omenat ja karpalot.",
+      "Lusikoi taikina voideltuihin muffinssivuokiin.",
+      "Täytä vuoat ¾ täyteen. Paista 200 asteessa 15–20 minuuttia, kunnes puikko tulee puhtaana ulos."
+    ],
+    "notes": [
+      "Päälle voi ripotella ennen paistoa sokerin (2 tl) ja kanelin (¼ tl) seosta.",
+      "Parhaita vielä lämpiminä."
+    ]
+  },
+  {
+    "id": "wikibooks-chunky-guacamole",
+    "title": "Rouhea guacamole",
+    "description": "Nopea guacamole avokadopaloista ja tuoreesta salsasta.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "meksikolainen", "nopea"],
+    "ingredients": [
+      "3 kypsää avokadoa",
+      "2 rkl limettimehua",
+      "2,4 dl salsa frescaa (tuoretta tomaattisalsaa)"
+    ],
+    "instructions": [
+      "Kuori ja kuutioi avokadot.",
+      "Ripottele limettimehu avokadon päälle.",
+      "Lisää salsa fresca ja sekoita."
+    ],
+    "notes": ["Jos et tarjoa heti, laita kulhoon avokadon kivi ruskistumisen estämiseksi, peitä tiiviisti kelmulla ja säilytä jääkaapissa."]
+  },
+  {
+    "id": "wikibooks-chupaqueso",
+    "title": "Chupaqueso",
+    "description": "Rapeaksi paistetusta juustosta taiteltu juustoputki täytteillä.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "juusto", "nopea"],
+    "ingredients": [
+      "85 g raastettua kuorijuustoa (esim. cheddar)",
+      "28 g raastettua täytejuustoa (esim. parmesaani, Monterey Jack)",
+      "Täytteeksi esimerkiksi:",
+      "paistettua pekonia",
+      "pilkottuja leikkeleitä",
+      "banaanipaprikoita",
+      "chilejä",
+      "marinoituja sieniä",
+      "marinara-kastiketta"
+    ],
+    "instructions": [
+      "Ripottele kuorijuusto tasaisesti keskikokoiselle tai isolle pinnoitetulle tai valurautaiselle paistinpannulle. Juusto sulaa, kuplii ja muodostaa lopulta juustolevyn.",
+      "Kun pohja on oranssi tai ruskea, käännä juusto ympäri.",
+      "Ripottele täytejuusto keskelle ja lisää haluamasi täytteet keskelle.",
+      "Taita kuori kiinni ja anna kypsyä, kunnes täytejuusto on sulanut.",
+      "Tarjoa ja syö heti."
+    ],
+    "notes": ["Valmistele täytteet etukäteen, sillä juuston käännön jälkeen aika on kriittinen."]
+  },
+  {
+    "id": "wikibooks-churri-indian-yogurt-herb-sauce",
+    "title": "Churri – intialainen jogurtti-yrttikastike",
+    "description": "Raikas jogurtti-piimäkastike mintulla, korianterilla ja chilillä.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "intialainen", "jogurtti", "nopea"],
+    "ingredients": [
+      "1 tl kuminansiemeniä",
+      "10 g tuoretta minttua, hienonnettuna",
+      "15 g tuoretta korianterin lehteä, hienonnettuna",
+      "2 cm tuoretta inkivääriä, hienonnettuna",
+      "2 tuoretta vihreää chiliä, hienonnettuina",
+      "3 dl maustamatonta jogurttia",
+      "3 dl piimää",
+      "1 ripaus suolaa",
+      "1 sipuli, hienonnettuna"
+    ],
+    "instructions": [
+      "Paahda kuminansiemeniä keskilämmöllä pannulla, kunnes ne tuoksuvat. Älä anna palaa.",
+      "Jauha paahdetut kuminansiemenet huhmareessa.",
+      "Jauha minttu, korianterin lehdet, inkivääri ja chilit tahnaksi.",
+      "Lisää jogurtti, piimä ja suola ja sekoita hyvin.",
+      "Lisää sipuli ja jauhettu kumina."
+    ]
+  },
+  {
+    "id": "wikibooks-churros-i",
+    "title": "Churrot",
+    "description": "Yksinkertaiset kiehuvaan veteen tehdyt churrot, jotka friteerataan ja tarjotaan sokerin tai suklaakastikkeen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vegaaninen", "friteerattu", "espanjalainen"],
+    "ingredients": [
+      "7 dl vehnäjauhoja",
+      "4 dl kiehuvaa vettä",
+      "1 tl ruokasoodaa",
+      "½ tl suolaa",
+      "¼ tl kanelia (valinnainen)",
+      "rypsiöljyä friteeraukseen",
+      "sokeria tai kuumaa suklaakastiketta tarjoiluun"
+    ],
+    "instructions": [
+      "Siivilöi jauhot, ruokasooda ja suola isoon kulhoon.",
+      "Lisää kiehuva vesi vähitellen jauhoihin jatkuvasti sekoittaen, kunnes saat hyvin paksun, tasaisen massan.",
+      "Anna levätä noin tunti.",
+      "Kuumenna syvä paistinpannu öljyllä, kunnes öljy väreilee.",
+      "Purista massa pursotinpussilla tai pakastepussilla, jonka kulmasta on leikattu pikkusormen kokoinen reikä, pannulle. Leikkaa makkaramaiset pätkät saksilla noin 10 cm:n pituisina.",
+      "Paista churrot kullanruskeiksi ja rapeiksi. Jos palat ovat liian paksuja ja raakoja keskeltä, halkaise ne pituussuunnassa ja paista uudelleen.",
+      "Nosta churrot pois öljystä ja valuta ritilällä tai talouspaperilla.",
+      "Tarjoa runsaasti sokerilla ripoteltuina tai kuuman suklaakastikkeen kanssa (tai molempien)."
+    ]
+  },
+  { "id": "wikibooks-churros-ii", "skip": "jauhomäärää ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-chuu-chee-fish",
+    "title": "Chuu chee -kala",
+    "description": "Kokonainen kala thaimaalaisessa chuu chee -currykastikkeessa limetinlehdillä.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kala", "thaimaalainen", "curry", "riisi"],
+    "ingredients": [
+      "650 g kokonaista lahnaa tai vastaavaa kalaa",
+      "2,5 dl rypsiöljyä (varaa 1 rkl currytahnan paistoon)",
+      "1 tl kaeng chu chee -currytahnaa",
+      "6 kuivattua limetinlehteä",
+      "2,5 dl kookosmaitoa",
+      "1 rkl kalakastiketta",
+      "1 tl sokeria",
+      "tuoretta korianteria",
+      "1 tuore punainen chili"
+    ],
+    "instructions": [
+      "Paista kalaa wokissa tai isolla paistinpannulla korkealla lämmöllä suurimmassa osassa öljyä, kunnes se on kullanruskea toiselta puolelta. Siihen menee noin 5 minuuttia.",
+      "Laske lämpöä ja käännä kala varovasti pihdeillä.",
+      "Nosta lämpöä uudelleen ja paista kullanruskeaksi. Nosta kala varovasti pihdeillä tarjoilulautaselle.",
+      "Paista wokissa varovasti sekoittaen currytahna ja limetinlehdet jäljelle jääneessä 1 rkl:ssa öljyä.",
+      "Lisää kookosmaito ja kalakastike. Hauduta noin 5 minuuttia.",
+      "Lisää sokeri ja hauduta vielä 5 minuuttia.",
+      "Maista ja lisää tarvittaessa kookosmaitoa, kalakastiketta tai sokeria.",
+      "Kaada kastike kalan päälle ja koristele korianterilla ja hienonnetulla chilillä."
+    ]
+  },
+  {
+    "id": "wikibooks-ciabatta",
+    "title": "Ciabatta",
+    "description": "Italialainen ilmava vehnäleipä, jonka taikinaa taitellaan useaan otteeseen.",
+    "servings": 4,
+    "totalTimeMin": 200,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "leipä", "italialainen"],
+    "ingredients": [
+      "6 dl vehnäjauhoja, siivilöitynä",
+      "2,8 dl haaleaa vettä",
+      "1 tl suolaa",
+      "3 rkl oliiviöljyä (valinnainen)",
+      "1 tl kuivahiivaa"
+    ],
+    "instructions": [
+      "Liuota suola ja hiiva haaleaan veteen.",
+      "Lisää siivilöidyt jauhot ja oliiviöljy haaleaan veteen. Sekoita.",
+      "Kun taikina on sekoittunut tasaiseksi, peitä ja anna levätä lämpimässä 45 minuuttia.",
+      "Ota taikina esiin ja käsittele sitä uudelleen venyttämällä ja taittamalla se kaikista neljästä kulmasta itsensä päälle; lisää jauhoja alustalle tarttumisen estämiseksi. Peitä ja anna levätä noin 30 minuuttia, jolloin taikina kohoaa.",
+      "Toista venyttäminen ja taittaminen kaikilta puolilta, jotta taikinaan muodostuu ilmataskuja (leivästä tulee ilmava). Peitä ja anna levätä 30 minuuttia.",
+      "Toista edellinen vielä kerran ja anna taikinan levätä peitettynä 30 minuuttia.",
+      "Nosta taikina leivinpaperille pellille ja leikkaa se yhtä suuriin osiin pienemmiksi, pitkulaisiksi leiviksi.",
+      "Aseta esilämmitettyyn uuniin ja paista 220 asteessa 18 minuuttia."
+    ],
+    "notes": ["Suihkuta leipä vesisumulla ennen uunin sulkemista rapean pinnan saamiseksi."]
+  }
+]

@@ -1,0 +1,528 @@
+[
+  { "id": "wikibooks-prime-rib-dinner", "skip": "liian puutteellinen (paistin paino ja mausteiden määrät puuttuvat) ja sekava kolmen ruokalajin ohje" },
+  {
+    "id": "wikibooks-prime-rib-seasoning",
+    "title": "Paistin maustesekoitus (prime rib)",
+    "description": "Maustesekoitus, joka nostaa paistin tai pihvin ravintolatasolle.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mausteseos", "liha", "vegaaninen", "kasvis"],
+    "ingredients": [
+      "2½ dl selleriensiemeniä",
+      "½ dl suolaa",
+      "1¼ dl karkeaksi jauhettua mustapippuria",
+      "½ dl karkeaksi jauhettua korianterinsiementä",
+      "2 tl savumaustejauhetta (mesquite)",
+      "½ dl chipotle-chilijauhetta"
+    ],
+    "instructions": ["Sekoita kaikki ainekset ilmatiiviiseen purkkiin, jossa on ravistuskansi."]
+  },
+  {
+    "id": "wikibooks-princess-cake",
+    "title": "Prinsessakakku",
+    "description": "Ruotsalainen kerroskakku, jossa on vaniljakreemiä ja kermaa ja päällä vihreä marsipaanikuori.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "juhla", "ruotsalainen", "marsipaani"],
+    "ingredients": [
+      "Vaniljakreemi:",
+      "2 dl kuohukermaa",
+      "2 keltuaista",
+      "2 rkl maissitärkkelystä",
+      "1 rkl sokeria",
+      "½ tl vaniljajauhetta",
+      "Kokoaminen:",
+      "kakkupohjia (kotitekoisia tai valmiita)",
+      "vaahdotettua kermaa",
+      "tomusokeria",
+      "mansikkahilloa (valinnainen)",
+      "vihreä marsipaanilevy päälle"
+    ],
+    "instructions": [
+      "Vaniljakreemi: Sekoita kerma, keltuaiset, maissitärkkelys ja sokeri. Kuumenna vesihauteessa lähelle kiehumispistettä. Vatkaa hetki, kun seos kuplii (mutta ei kiehu). Anna jäähtyä muutama minuutti ja sekoita joukkoon vaniljajauhe.",
+      "Aseta vaniljakreemi kakkupohjien väliin. Peitä kakun pinta vaahdotetulla kermalla ja muotoile päältä paksu ja kupera. Jos haluat kakkuun hilloa, korvaa yksi vaniljakreemikerros hillolla.",
+      "Peitä koko kakku marsipaanilla ja pölytä päältä tomusokerilla.",
+      "Jäähdytä tarjoiluun asti."
+    ],
+    "notes": ["Valmiit kakkupohjat ja valmiiksi kaulittu marsipaani nopeuttavat työtä huomattavasti."]
+  },
+  { "id": "wikibooks-proja-serbian-cornbread", "skip": "liian puutteellinen (öljyn ja leivinjauheen määrät epäselviä, ohje epäuskottava)" },
+  {
+    "id": "wikibooks-pudding-with-coconut-topping-tako",
+    "title": "Tako – thaimaalainen kookosvanukas",
+    "description": "Thaimaalainen jälkiruoka: riisijauhohyytelö pandaaninlehtikupeissa ja kookosmaitokuorrute.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vegaaninen", "kookos", "thaimaalainen"],
+    "ingredients": [
+      "Hyytelöpohja:",
+      "75 g riisijauhoja",
+      "2 rkl maissitärkkelystä",
+      "2,5 dl vettä",
+      "1 rkl fariinisokeria",
+      "225 g sokeria",
+      "50 g vesikastanjoita, hienonnettuna",
+      "Kookoskuorrute:",
+      "3,5 dl kookosmaitoa",
+      "1 rkl riisijauhoja",
+      "½ rkl maissitärkkelystä",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Sekoita riisijauho, maissitärkkelys ja vesi kulhossa hyytelöpohjaa varten.",
+      "Siivilöi seos kattilaan ja sekoita joukkoon sokerit.",
+      "Keitä keskilämmöllä jatkuvasti sekoittaen 5 minuuttia. Laske sitten lämpöä ja kypsennä sekoittaen vielä 5 minuuttia.",
+      "Sekoita joukkoon vesikastanjat.",
+      "Jaa seos pandaaninlehtikuppien kesken ja anna jäähtyä.",
+      "Laita keskikokoinen kattila miedolle lämmölle ja sekoita kaikki kookoskuorrutteen ainekset yhteen.",
+      "Sekoita 10 minuuttia, kunnes seos muuttuu paksuksi kastikkeeksi.",
+      "Anna jäähtyä muutama minuutti ja nostele kuorrute varovasti hyytelön päälle jokaiseen kuppiin."
+    ],
+    "notes": ["Pandaaninlehtikuppien tilalle käy pienet vuoat tai annosvuoat."]
+  },
+  {
+    "id": "wikibooks-pudding-with-pistachios-and-rose-water-muhallebi",
+    "title": "Muhallebi – maitovanukas pistaasilla ja ruusuvedellä",
+    "description": "Riisijauholla sakeutettu maitovanukas, jonka voi maustaa ruusu- tai appelsiininkukkavedellä.",
+    "servings": 10,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vanukas", "turkkilainen", "pistaasi"],
+    "ingredients": [
+      "1¾ dl riisijauhoja",
+      "½ dl maissitärkkelystä",
+      "2½ dl vettä",
+      "1,7 l maitoa",
+      "1–2½ dl sokeria (maun mukaan)",
+      "½–1 dl ruusuvettä tai appelsiininkukkavettä (valinnainen)",
+      "1¼ dl pistaasipähkinöitä, hienonnettuna"
+    ],
+    "instructions": [
+      "Sekoita maito ja sokeri suuressa kattilassa ja kuumenna hitaasti hiljaa kiehuvaksi, ettei maito pala pohjaan.",
+      "Liuota riisijauho ja maissitärkkelys veteen ja kaada seos hitaasti hiljaa kiehuvaan maitoon jatkuvasti sekoittaen.",
+      "Hauduta miedolla lämmöllä 30–40 minuuttia usein sekoittaen, kunnes seos on sakeutunut ja peittää lusikan. Ota pois liedeltä.",
+      "Sekoita joukkoon ruusuvesi tai appelsiininkukkavesi.",
+      "Kaada 23 x 33 cm:n vuokaan ja jäähdytä jääkaapissa kovettumaan.",
+      "Leikkaa noin 10 cm:n neliöiksi.",
+      "Aseta neliöt jälkiruokalautasille ja koristele pistaasilla."
+    ],
+    "notes": ["Jos riisijauhoa ei ole, voi käyttää pelkkää maissitärkkelystä."]
+  },
+  {
+    "id": "wikibooks-pudina-hilsa-bengali-fish-with-mint",
+    "title": "Pudina hilsa – bengalilainen minttukala",
+    "description": "Helppo uunissa kypsennetty bengalilainen kalaruoka mintulla ja chilillä, tarjotaan riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "intialainen", "riisi"],
+    "ingredients": [
+      "1 kg hilsa-kalaa (tai muuta rasvaista kalaa), 10 palaksi leikattuna",
+      "1 tl mintunlehtiä, hienonnettuna",
+      "1 tl inkivääritahnaa",
+      "1 tl muskottipähkinää",
+      "50 g voita, pieninä paloina",
+      "3 rkl paprikaa, hienonnettuna",
+      "suolaa",
+      "1 ripaus sokeria",
+      "1 tl vihreää chilitahnaa"
+    ],
+    "instructions": [
+      "Huuhtele kala huolellisesti vedellä.",
+      "Laita suola, sokeri, 25 g voita ja kaikki muut ainekset uunivuokaan.",
+      "Lisää kalanpalat ja ripottele loput voi päälle.",
+      "Paista 200 asteessa, kunnes kala on kullanruskeaa ja kypsää."
+    ]
+  },
+  {
+    "id": "wikibooks-puerto-rican-chicken-soup-asopao",
+    "title": "Asopao – Puerto Ricon kana-riisikeitto",
+    "description": "Paksu kanakeitto riisillä, tomaatilla ja paprikalla karibialaiseen tapaan.",
+    "servings": 2,
+    "totalTimeMin": 35,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "riisi", "karibialainen"],
+    "ingredients": [
+      "2–3 broilerin rintafileetä, suikaleina",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 keskikokoinen vihreä paprika, pilkottuna",
+      "1 keskikokoinen sipuli, pilkottuna",
+      "1 tlk (800 g) tomaattimurskaa",
+      "2½ dl pitkäjyväistä riisiä",
+      "7 dl kanalientä",
+      "½ dl vehnäjauhoja",
+      "½ tl suolaa",
+      "1 tl mustapippuria",
+      "½ tl kuivattua oreganoa",
+      "¼ tl cayennepippuria",
+      "2–3 rkl öljyä tai margariinia",
+      "sitruunamehua",
+      "hieman valkoviiniä",
+      "persiljaa"
+    ],
+    "instructions": [
+      "Sekoita leveässä matalassa kulhossa jauhot, suola, mustapippuri, cayennepippuri, oregano ja valkosipuli. Pyörittele kanasuikaleet jauhoseoksessa.",
+      "Sulata margariini isossa kattilassa keskikorkealla lämmöllä. Lisää kana ja kypsennä 3–5 minuuttia ruskeaksi. Nosta sivuun. Kaada kattilaan hieman valkoviiniä pohjan irrottamiseksi ja kaada liemi kanan päälle.",
+      "Lisää paprika ja sipuli kattilaan ja kuullota sipuli läpikuultavaksi.",
+      "Lisää riisi, tomaatit, liemi ja loraus sitruunamehua. Sekoita. Mausta suolalla ja pippurilla. Peitä ja kypsennä miedolla lämmöllä 12 minuuttia.",
+      "Palauta kana kattilaan. Laske lämpö pieneksi, peitä ja kypsennä, kunnes kana on kypsää. Lisää hieman oreganoa ja hienonnettua persiljaa."
+    ]
+  },
+  {
+    "id": "wikibooks-puerto-rican-sofrito",
+    "title": "Puerto Ricon sofrito",
+    "description": "Yrtti-vihannesmuhennos, joka antaa tunnusomaisen maun moniin Puerto Ricon ruokiin: papuihin, riisiruokiin, keittoihin ja pataruokiin.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "karibialainen", "pohjakastike"],
+    "ingredients": [
+      "5 tuoretta recaon (culantro) vartta lehtineen, hienonnettuna",
+      "1 pieni nippu tuoretta korianteria, hienonnettuna",
+      "3 isoa luumutomaattia, siemenet poistettuina ja pilkottuna",
+      "1 valkosipulikokonainen",
+      "2 isoa keltasipulia, pilkottuna",
+      "15 miedon ají dulce -paprikaa (tai pieniä miedoja paprikoita), siemenet poistettuina",
+      "1 iso punainen paprika, siemenet poistettuina",
+      "3 isoa cubanelle-paprikaa (tai vihreää suippopaprikaa), siemenet poistettuina"
+    ],
+    "instructions": [
+      "Jauha ainekset survimessa tai tehosekoittimessa ja säilytä jääkaapissa. Voit myös pakastaa jääpalamuotissa. Kaksi tai kolme sofrito-kuutiota riittää 6–8 annoksen ruokaan."
+    ],
+    "notes": ["Ají dulcen voi korvata paprikalla. Recaon tilalle käy lisäkorianteri."]
+  },
+  { "id": "wikibooks-puff-pastry-i", "skip": "liian puutteellinen (veden määrä puuttuu, ohje epätarkka)" },
+  {
+    "id": "wikibooks-puff-pastry-with-nuts-and-whipped-cream-om-ali",
+    "title": "Om ali – egyptiläinen lehtitaikina-pähkinäjälkiruoka",
+    "description": "Perinteinen egyptiläinen jälkiruoka: rapeaksi paistettu lehtitaikina, pähkinät, rusinat, maito ja kerma uunissa kullanruskeaksi gratinoituna.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "juhla", "egyptiläinen", "pähkinä"],
+    "ingredients": [
+      "1 pkt (500 g) pakastettuja lehtitaikinalevyjä, sulatettuna",
+      "1¼ dl saksanpähkinöitä, hienonnettuna",
+      "2½ dl pekaanipähkinöitä, hienonnettuna",
+      "2½ dl hasselpähkinöitä, hienonnettuna",
+      "2½ dl rusinoita",
+      "2½ dl kookoshiutaleita",
+      "3 dl sokeria, jaettuna (½ dl + 1¼ dl + 1¼ dl)",
+      "1 l maitoa",
+      "1¼ dl kuohukermaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele 23 x 33 cm:n uunivuoka.",
+      "Aseta lehtitaikinalevyt vuokaan ja laita vuoka uuniin. Seuraa tarkasti. Kun päällimmäinen kerros on rapea ja kullanruskea, ota pois. Jatka, kunnes kaikki levyt on paistettu.",
+      "Kytke uuniin grillivastus päälle.",
+      "Sekoita kulhossa pähkinät, rusinat, kookos ja ½ dl sokeria. Riko paistettu lehtitaikina paloiksi ja sekoita pähkinäseokseen. Levitä tasaisesti 23 x 33 cm:n vuokaan.",
+      "Kuumenna maito ja 1¼ dl sokeria kattilassa keskilämmöllä kiehuvaksi. Kaada pähkinäseoksen päälle.",
+      "Vaahdota kerma loppu sokerin (1¼ dl) kanssa kiinteäksi vaahdoksi. Levitä tasaisesti pähkinäseoksen päälle.",
+      "Laita vuoka grillivastuksen alle, kunnes pinta on kullanruskea, noin 10 minuuttia. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-pufftaloons",
+    "title": "Pufftaloons – australialaiset friteeratut leivät",
+    "description": "Nopeat friteeratut leivonnaiset, jotka tarjotaan kuumina hillon tai siirapin kanssa. Tässä taikina on leivinjauheella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["kasvis", "nopea", "australialainen", "friteerattu"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "2½ dl maitoa",
+      "1 rkl voita",
+      "rypsiöljyä friteeraukseen",
+      "hilloa tai siirappia tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja leivinjauhe.",
+      "Nypi joukkoon voi.",
+      "Lisää maitoa niin paljon, että saat pehmeän taikinan.",
+      "Friteeraa kuumassa öljyssä.",
+      "Tarjoa kuumana hillon tai siirapin kanssa."
+    ]
+  },
+  { "id": "wikibooks-pulao-indian-rice-pilaf", "skip": "liian puutteellinen (riisin, kasvisten ja rasvan määrät puuttuvat)" },
+  { "id": "wikibooks-pulihora-south-indian-tamarind-rice", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-pulikkachal-tamil-spiced-tamarind-paste",
+    "title": "Pulikkachal – tamililainen maustettu tamarinditahna",
+    "description": "Maustettu tamarinditahna, jota sekoitetaan keitettyyn riisiin tamarindiriisiksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "tamarindi"],
+    "ingredients": [
+      "1 tl korianterinsiemeniä",
+      "1 tl sarviapilan siemeniä",
+      "1 tl seesaminsiemeniä",
+      "3 rkl öljyä",
+      "1 tl urad dhalia (mustaa linssiä)",
+      "1 tl channa dhalia (halkaistuja kikherneitä)",
+      "4 kuivattua punaista chiliä",
+      "2½ dl tamarinditiivistettä (tamarinditahnaliuosta)",
+      "suolaa",
+      "¼ tl asafoetidaa",
+      "maapähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Paahda korianteri, sarviapila ja seesami kuivalla pannulla. Jauha hienoksi jauheeksi.",
+      "Kuumenna öljy pannulla ja paista urad dhal, kikherneet ja punaiset chilit muutama minuutti. Lisää tamarinditiiviste ja suola. Anna kiehua. Lisää jauhettu mausteseos ja asafoetida ja sekoita hyvin.",
+      "Sekoita jatkuvasti, kunnes seos sakenee, öljy nousee pinnalle ja massa irtoaa pannusta. Jäähdytä ja säilytä jääkaapissa.",
+      "Sekoita keitetyn riisin joukkoon ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-puliyodarai-south-indian-tamarind-rice",
+    "title": "Puliyodarai – eteläintialainen tamarindiriisi",
+    "description": "Tamil Nadun erikoisuus: tamarindilla, mausteilla ja maapähkinöillä maustettu riisi.",
+    "servings": 5,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["vegaaninen", "kasvis", "riisi", "intialainen"],
+    "ingredients": [
+      "Mausteseos:",
+      "1 rkl halkaistuja herneitä (tai kikherneitä)",
+      "1 rkl korianterinsiemeniä",
+      "½ tl sarviapilan siemeniä",
+      "2–3 kuivattua punaista chiliä",
+      "Riisi:",
+      "10 dl keitettyä valkoista riisiä",
+      "rypsiöljyä",
+      "2 tl sinapinsiemeniä",
+      "3 rkl seesamiöljyä",
+      "2 rkl halkaistuja herneitä",
+      "2 rkl maapähkinöitä",
+      "½ tl asafoetidaa",
+      "3–4 kuivattua punaista chiliä",
+      "4–5 currylehteä",
+      "1½ rkl tamarinditiivistettä",
+      "1 tl kurkumaa",
+      "¾ rkl suolaa"
+    ],
+    "instructions": [
+      "Paahda mausteseoksen ainekset kuivalla pannulla tummanruskeiksi.",
+      "Jauha hienoksi jauheeksi, kun seos on jäähtynyt.",
+      "Kuumenna öljy pannulla.",
+      "Lisää maapähkinät ja herneet ja paista kullanruskeiksi.",
+      "Lisää sinapinsiemenet, asafoetida ja palasiksi revityt punaiset chilit. Odota, kunnes sinapinsiemenet poksahtelevat, ja ota pannu pois liedeltä.",
+      "Sekoita riisi, suola, kurkuma ja tamarinditiiviste keskenään. Voit lisätä raakaan riisiin vähän öljyä ennen keittämistä, jolloin rakenne paranee.",
+      "Lisää mausteseos ja currylehdet ja sekoita hyvin."
+    ],
+    "notes": ["Tarjoa jogurtin kanssa.", "Mausteseoksen voi valmistaa etukäteen ja säilyttää jopa 2 kuukautta.", "Suolan ja mausteiden määrää voi säätää."]
+  },
+  {
+    "id": "wikibooks-pulled-pork-sandwiches",
+    "title": "Pulled pork -leivät",
+    "description": "Suolaliuoksessa maustettu ja savustimessa kypsennetty possun niska, joka revitään ja tarjotaan hampurilaissämpylöissä.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 1200,
+    "category": "Pääruoat",
+    "tags": ["liha", "sianliha", "savustus", "amerikkalainen"],
+    "ingredients": [
+      "Suolaliemi:",
+      "2 l vettä",
+      "340 g karkeaa suolaa (suolaliuokseen)",
+      "2 dl hunajaa",
+      "Liha:",
+      "3 kg possun niskaa (Boston butt), siistittynä",
+      "2 rkl paprikajauhetta",
+      "2 rkl mustapippuria",
+      "3 rkl kuivattua sitruunankuorta",
+      "2 rkl cayennepippuria (tai enemmän)",
+      "1½ rkl kuivattua rosmariinia",
+      "3 rkl tummaa fariinisokeria",
+      "omenapuuklapeja savustukseen",
+      "hampurilaissämpylöitä tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita vesi, suola ja hunaja noin 6 litran astiaan. Lisää possu ja pidä jääkaapissa tai aseta päälle iso pussi jäitä 8–12 tunniksi.",
+      "Ota possu pois liemestä ja taputtele kuivaksi talouspaperilla. Sekoita muut mausteet ja hiero lihaan.",
+      "Sytytä muutama omenapuuklapi ja laita ne savustimen tulipesään. Pidä savustimen lämpötila noin 100 asteessa.",
+      "Laita liha savustimeen ja savusta 8–12 tuntia vaihtaen puuta tarpeen mukaan. Lihan pitäisi olla tässä vaiheessa pehmeää. Jos ei ole, jatka savustamista.",
+      "Anna levätä 1 tunti ja revi sitten kahdella haarukalla. Tarjoa sämpylöissä."
+    ],
+    "notes": ["Tämä ohje vaatii savustimen, ei sovi uunissa kypsennettäväksi."]
+  },
+  {
+    "id": "wikibooks-pulse-chutney",
+    "title": "Mung-papuchutney",
+    "description": "Vegaaninen intialainen chutney vihreistä mung-pavuista, inkivääristä ja chilistä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "chutney"],
+    "ingredients": [
+      "50 g vihreitä mung-papuja",
+      "3½ cm:n pala inkivääriä",
+      "4 vihreää chiliä",
+      "suolaa",
+      "sitruunamehua"
+    ],
+    "instructions": [
+      "Liota mung-pavut 3–4 tuntia. Anna itää.",
+      "Hienonna chilit, tuore inkivääri ja suola.",
+      "Jauha tahnaksi survimessa tai tehosekoittimessa.",
+      "Mausta sitruunamehulla maun mukaan."
+    ],
+    "notes": ["Vähennä chilejä, jos et halua tulista chutneyta."]
+  },
+  {
+    "id": "wikibooks-pulut-durian-durian-with-sticky-rice",
+    "title": "Pulut durian – durian ja tahmea riisi",
+    "description": "Malesialainen jälkiruoka: höyrytetty tahmea riisi kuuman durian-kookoskastikkeen kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vegaaninen", "riisi", "malesialainen"],
+    "ingredients": [
+      "1 kg tahmeaa riisiä (glutinous rice)",
+      "1 ripaus suolaa",
+      "1 durian (hedelmäliha)",
+      "5 dl kookosmaitoa",
+      "300 g sokeria",
+      "2 pandaaninlehteä (tai pandaanitahnaa)"
+    ],
+    "instructions": [
+      "Höyrytä tahmea riisi suolan kanssa kypsäksi.",
+      "Sekoita duriaanin hedelmäliha, kookosmaito, sokeri, ripaus suolaa ja pandaaninlehdet. Keitä yhdessä, kunnes kastike sakenee.",
+      "Tarjoa kuumana riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-pumpkin-bread-i",
+    "title": "Kurpitsaleipä I",
+    "description": "Mausteinen kurpitsapikaleipä, joka on yhdysvaltalainen syksyn klassikko.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kurpitsa", "leipä", "amerikkalainen"],
+    "ingredients": [
+      "8 dl vehnäjauhoja",
+      "2 tl ruokasoodaa",
+      "1½ tl suolaa",
+      "2 tl kanelia",
+      "1 tl muskottipähkinää",
+      "1 mm neilikkaa",
+      "7 dl sokeria",
+      "1¾ dl rypsiöljyä",
+      "4 munaa",
+      "1½ dl vettä",
+      "2 tlk (à 850 g) kurpitsasosetta (n. 1,7 kg)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Siivilöi kuivat ainekset keskenään.",
+      "Sekoita toisessa kulhossa kurpitsa, vesi, öljy ja munat. Kaada kuiviin aineksiin ja sekoita hyvin.",
+      "Kaada 2 voideltuun leipävuokaan (23 x 13 cm). Paista 1 tunti 15 minuuttia tai kunnes keskelle työnnetty hammastikku tulee puhtaana ulos.",
+      "Jäähdytä ennen vuoasta nostamista."
+    ],
+    "notes": ["Tuoreesta kurpitsasta leipä on ilmavampaa ja vähemmän tiivistä."]
+  },
+  {
+    "id": "wikibooks-pumpkin-bread-ii",
+    "title": "Kurpitsaleipä II",
+    "description": "Kaksi mausteista kurpitsaleipää, joissa on kanelia, maustepippuria ja muskottia sekä kurpitsansiemenet pinnalla.",
+    "servings": 16,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kurpitsa", "leipä", "amerikkalainen"],
+    "ingredients": [
+      "4 munaa",
+      "2½ dl rypsiöljyä",
+      "1 tlk (425 g) kurpitsasosetta",
+      "7 dl sokeria",
+      "8 dl vehnäjauhoja",
+      "1½ tl ruokasoodaa",
+      "2 tl suolaa",
+      "2 tl jauhettua maustepippuria",
+      "2 tl jauhettua kanelia",
+      "1½ tl muskottipähkinää",
+      "2 rkl raakoja kurpitsansiemeniä koristeeksi"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Voitele ja jauhota kevyesti 2 keskikokoista leipävuokaa (n. 22 x 11 cm).",
+      "Sekoita yleiskoneen lapavarustuksella munat, öljy, kurpitsa ja sokeri sileäksi.",
+      "Sekoita toisessa kulhossa jauhot, soodaa, suola, maustepippuri, kaneli ja muskotti.",
+      "Lisää jauhoseos kurpitsaseokseen vähitellen, noin ½ dl kerrallaan, koneen käydessä hitaalla nopeudella.",
+      "Kaavi kulhon reunat ja sekoita vielä noin 30 sekuntia, kunnes kaikki on hyvin sekoittunutta.",
+      "Jaa taikina tasan kahteen vuokaan.",
+      "Ripottele kunkin leivän päälle 1 rkl kurpitsansiemeniä.",
+      "Paista 40–45 minuuttia, kunnes keskelle työnnetty hammastikku tulee puhtaana ulos.",
+      "Anna leipien jäähtyä vuoissa 5–10 minuuttia ennen kumoamista. Jäähdytä ritilällä huoneenlämpöisiksi ennen viipalointia."
+    ]
+  },
+  { "id": "wikibooks-pumpkin-bread-iii", "skip": "lähes sama resepti kuin Kurpitsaleipä I ja II" },
+  { "id": "wikibooks-pumpkin-chips", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-pumpkin-muffins",
+    "title": "Kurpitsamuffinssit",
+    "description": "Nopeat kanelilla maustetut kurpitsamuffinssit.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kurpitsa", "muffinssi", "amerikkalainen"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "½ dl sokeria",
+      "3 tl leivinjauhetta",
+      "½ tl suolaa",
+      "½ tl kanelia",
+      "1 muna",
+      "1¼ dl maitoa",
+      "2½ dl keitettyä ja muussattua kurpitsaa (tai kurpitsasosetta)",
+      "½ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 220 asteeseen.",
+      "Siivilöi jauhot, sokeri, leivinjauhe, suola ja kaneli kulhoon.",
+      "Vatkaa muna ja sekoita joukkoon maito, kurpitsa ja öljy.",
+      "Tee jauhoseoksen keskelle kuoppa ja kaada kurpitsaseos siihen kerralla.",
+      "Sekoita nopeasti, kunnes jauhot ovat juuri kostuneet.",
+      "Täytä voidellut muffinssivuoat ⅔-täyteen.",
+      "Paista 220 asteessa 25 minuuttia tai kunnes keskelle työnnetty hammastikku tulee puhtaana ulos.",
+      "Irrota muffinssit vuoista lastalla ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-pumpkin-pie-i",
+    "title": "Kurpitsapiirakka vaahterasiirapilla",
+    "description": "Perinteinen pohjoisamerikkalainen juhlajälkiruoka: kurpitsavanukas paistettuna pohjataikinan päällä.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kurpitsa", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "5 dl maitoa, kuumennettuna",
+      "450 g keitettyä ja soseutettua kurpitsaa (tai pelkkää kurpitsasosetta)",
+      "2,4 dl vaahterasiirappia",
+      "2 rkl sokeria",
+      "1 rkl vehnäjauhoja",
+      "½ tl suolaa",
+      "1 tl inkivääriä",
+      "1 tl kanelia",
+      "¼ tl muskottipähkinää (valinnainen)",
+      "2 isoa munaa, vatkattuna",
+      "1 raaka piirakkapohja (23 cm)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Sekoita kaikki ainekset paitsi piirakkapohja täytteeksi.",
+      "Kaada täyte raakaan piirakkapohjaan.",
+      "Paista esilämmitetyssä uunissa 45 minuuttia.",
+      "Anna jäähtyä ja tarjoa."
+    ],
+    "notes": ["Käytä aitoa vaahterasiirappia, ei vaahteranmakuista pannukakkusiirappia. Voit korvata siirapin fariinisokerilla.", "Älä käytä valmista kurpitsapiirakkatäytettä, jossa on mausteita.", "Tarjoa vaahdotetun kerman kanssa."]
+  }
+]

@@ -1,0 +1,611 @@
+[
+  { "id": "wikibooks-ciceri-e-tria-brothy-pasta-with-chickpeas", "skip": "ainesmääriä ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-cilbir-turkish-eggs-with-yogurt",
+    "title": "Cilbir – turkkilaiset uppomunat jogurtilla",
+    "description": "Uppomunat valkosipulijogurtin ja paprikavoin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "muna", "turkkilainen", "nopea"],
+    "ingredients": [
+      "4 kananmunaa",
+      "1 rkl etikkaa",
+      "1 l vettä",
+      "2 rkl voita",
+      "1 tl tulista paprikajauhetta",
+      "2,4 dl jogurttia",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita pienessä kulhossa jogurtti, valkosipuli ja suola.",
+      "Lisää etikka ja suolaa kiehuvaan veteen ja valmista uppomunat.",
+      "Nosta munat reikäkauhalla pois ja laita yksi muna kuhunkin annosastiaan.",
+      "Peitä munat runsaalla jogurtilla.",
+      "Sulata voi pienellä pannulla.",
+      "Sekoita joukkoon paprikajauhe ja kaada kuuma voi munien päälle.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-cincinnati-style-chili",
+    "title": "Cincinnati-tyylinen chili",
+    "description": "Kanelilla ja maustepippurilla maustettu lihachili, joka tarjotaan perinteisesti spagetin päällä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "amerikkalainen", "pasta"],
+    "ingredients": [
+      "900 g naudan jauhelihaa",
+      "1 l kylmää vettä",
+      "1 tlk (170 g) tomaattipyreetä",
+      "2 keskikokoista sipulia, hienonnettuina",
+      "2 valkosipulinkynttä, hienonnettuina",
+      "1 rkl etikkaa",
+      "1 tl worcestershirekastiketta",
+      "3 rkl chilijauhetta",
+      "1 rkl suolaa",
+      "1 tl jauhettua kuminaa",
+      "½ tl oreganoa",
+      "½ tl cayennepippuria",
+      "½ tl mustapippuria",
+      "½ tl kanelia",
+      "½ tl maustepippuria",
+      "¼ tl meiramia",
+      "1 mm jauhettua neilikkaa",
+      "2 laakerinlehteä"
+    ],
+    "instructions": [
+      "Murenna raaka jauheliha kylmään veteen.",
+      "Lisää loput ainekset ja mausteet. Sekoita hyvin ja rikkoile liha ennen kypsennystä.",
+      "Peitä ja hauduta miedolla lämmöllä kaksi tuntia välillä sekoittaen.",
+      "Jäähdytä, laita jääkaappiin ja poista kovettunut rasva.",
+      "Kuumenna uudelleen ja tarjoa."
+    ],
+    "notes": [
+      "Tarjoa spagetin päällä. Juustolla (three-way), sipulilla ja juustolla (four-way) tai keitetyillä pintopavuilla, sipulilla ja juustolla (five-way).",
+      "Sopii myös hot dogin kastikkeeksi (Coney)."
+    ]
+  },
+  {
+    "id": "wikibooks-cinnamon-chicken",
+    "title": "Kaneli-kana tomaattikastikkeessa",
+    "description": "Kanaa kanelisessa tomaattikastikkeessa pastan kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "pasta", "tomaatti", "arkiruoka"],
+    "ingredients": [
+      "2–3 broilerin rintafileetä",
+      "3 rkl oliiviöljyä",
+      "1 pieni sipuli, kuutioituna",
+      "1 tlk (800 ml) kokonaisia kuorittuja tomaatteja",
+      "3 valkosipulinkynttä, hienonnettuina",
+      "2 kanelitankoa",
+      "¼–½ persikkaa, hienoksi hienonnettuna tai 1–2 rkl hunajaa",
+      "1 roiske etikkaa",
+      "suolaa",
+      "mustapippuria",
+      "pastaa 4 annokseen (esim. juustotortelliinia)",
+      "tuoreena raastettua parmesaania",
+      "valkosipulileipää"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy keskikokoisessa kattilassa.",
+      "Ruskista broilerin rintafileet kevyesti öljyssä, älä kypsennä läpi.",
+      "Lisää sipuli ja paista pari minuuttia.",
+      "Lisää persikka, jos käytät sitä, ja paista vielä minuutti.",
+      "Leikkaa tomaatit kahtia ja lisää ne.",
+      "Lisää kaikki muut ainekset ja hauduta kannen alla 45 minuuttia silloin tällöin sekoittaen.",
+      "Poista kansi ja hauduta vielä noin 15 minuuttia.",
+      "Keitä sillä välin pasta pakkauksen ohjeen mukaan.",
+      "Poista kanelitangot kastikkeesta. Tarjoa kuuman pastan päällä tuoreen parmesaanin ja valkosipulileivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-cinnamon-croutons",
+    "title": "Kanelikrutongit",
+    "description": "Makeat krutongit, jotka sopivat hedelmäsalaatin tai kurpitsa-, bataatti- ja porkkanakeittojen koristeeksi.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "kaneli", "nopea"],
+    "ingredients": [
+      "4 viipaletta edellispäivän patonkia, kuutioituna",
+      "4 rkl saksanpähkinäöljyä",
+      "4 rkl sokeria",
+      "½ tl jauhettua kanelia"
+    ],
+    "instructions": [
+      "Sekoita sokeri ja kaneli pienessä kulhossa ja aseta sivuun.",
+      "Kuumenna uuni 180 asteeseen.",
+      "Kuumenna saksanpähkinäöljy paistinpannulla. Lisää leipäkuutiot ja paista ne ravistellen öljyn peittämiksi.",
+      "Levitä leipäkuutiot uunipellille ja ripottele päälle kanelisokeria. Paista 8 minuuttia, kunnes ne ovat rapeita ja kuivia.",
+      "Anna jäähtyä hyvin ennen käsittelyä, sillä sokeri ruskistaa krutongit helposti ja ne ovat aluksi kuumia."
+    ]
+  },
+  {
+    "id": "wikibooks-cinnamon-glazed-apples",
+    "title": "Kanelikuorrutetut omenat",
+    "description": "Voissa paistetut omenat kaneli-appelsiinikastikkeessa, sopii porsaankyljysten lisäkkeeksi tai jälkiruoaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "kaneli", "nopea"],
+    "ingredients": [
+      "2 Honeycrisp-omenaa (tai muuta kiinteää omenaa), leikattuna 1 cm:n lohkoiksi",
+      "½ dl sokeria",
+      "55 g suolatonta voita, jaettuna",
+      "1 tl vastajauhettua kanelia",
+      "¾ dl brandya",
+      "½ appelsiinin mehu",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Sulata 2 rkl voita isolla ruostumattomasta teräksestä valmistetulla paistinpannulla keskilämmöllä.",
+      "Lisää omenat ja paista usein sekoittaen, kunnes ne ovat kevyesti ruskistuneet reunoilta. Ota pois ja pidä lämpimänä.",
+      "Lisää pannulle sokeri, suola, appelsiinimehu ja kaneli. Raaputa metallivispilällä pohjaan palanut kerros irti.",
+      "Sulata joukkoon voi, 1 rkl kerrallaan, vispaten jatkuvasti. Kun kaikki voi on sulanut, kuumenna kiehuvaksi.",
+      "Lisää varovasti brandy ja sytytä se pitkällä tulitikulla, jos se ei syty itsestään.",
+      "Lisää omenat ja kypsennä 1–2 minuuttia sen mukaan, kuinka pehmeitä niiden haluat olevan.",
+      "Nosta omenat pannulta ja valuta kastiketta päälle. Tarjoa lämpimänä."
+    ],
+    "notes": ["Flambeeraus: pidä kasvot kaukana pannusta ja kantta lähettyvillä."]
+  },
+  { "id": "wikibooks-cinnamon-rolls", "skip": "maidon, hiivan ja voin määriä ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-cinnamon-braised-chicken-kotopoulo-kapama",
+    "title": "Kotopoulo kapama – kanelilla haudutettu kana",
+    "description": "Kreikkalainen kanelilla maustettu haudutettu kana Kytheran saarelta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["kana", "kreikkalainen", "pasta", "tomaatti"],
+    "ingredients": [
+      "4 kananpalaa (esim. koipireisiä tai koivet)",
+      "2 isoa sipulia, hienonnettuina",
+      "4 valkosipulinkynttä, hienonnettuina",
+      "1 tlk (400 g) tomaatteja tai 300 g tuoreita tomaatteja",
+      "3 rkl oliiviöljyä",
+      "1 kanelitanko",
+      "3 laakerinlehteä",
+      "½ rkl hienonnettua tuoretta persiljaa",
+      "1,2 dl punaviiniä",
+      "3 rkl tomaattipyreetä",
+      "1 porkkana, paksuina viipaleina",
+      "1 varsi varsiselleriä, ohuina 7 cm:n suikaleina",
+      "hienonnettuja sellerinlehtiä",
+      "1 mm jauhettua neilikkaa",
+      "ohutta pastaa ja raastettua juustoa tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa ja lisää sipuli. Sekoita varovasti, kunnes sipuli on hyvin ruskistunut.",
+      "Lisää kana, laakerinlehdet ja kaneli ja ruskista kana huolellisesti joka puolelta. Tarkoitus on saada ihosta mahdollisimman paljon ”fondia”, joka antaa makua.",
+      "Lisää tomaatit, valkosipuli, viini ja vettä ja kypsennä. Lisää persilja, selleriänlehdet, selleri ja porkkana sekä tomaattipyree ja neilikka.",
+      "Lisää vettä niin, että ainekset peittyvät. Anna kypsyä hitaasti vähintään 2 tuntia. Kypsennä miedolla lämmöllä, jotta kastike ei pala pohjaan. Sekoittaminen rikkoo vain kasvikset ja kananpalat.",
+      "Tarjoa ohuen pastan kanssa. Raasta päälle runsaasti juustoa."
+    ],
+    "notes": [
+      "Kanaa tulee ruskistaa vähintään 10 minuuttia ennen tomaattien lisäämistä.",
+      "Käytä hyvää viiniä; alkoholi haihtuu, mutta maku jää.",
+      "Pieni pala kurpitsaa hienonnettuna sakeuttaa kastiketta ja parantaa makua."
+    ]
+  },
+  {
+    "id": "wikibooks-cioppino-italian-seafood-stew",
+    "title": "Cioppino – italialais-amerikkalainen kalakeitto",
+    "description": "San Franciscon kalastajien tomaattipohjainen kala- ja äyriäispata, tarjotaan sitkeäkuorisen leivän kanssa.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["kala", "äyriäiset", "keitto", "italialainen", "juhla"],
+    "ingredients": [
+      "3 rkl oliiviöljyä",
+      "1 iso fenkoli, ohuesti viipaloituna",
+      "170 g sipulia, hienonnettuna",
+      "225 g varsiselleriä, hienonnettuna",
+      "3 isoa salottisipulia, hienonnettuina",
+      "2 tl suolaa",
+      "4 isoa valkosipulinkynttä, hienonnettuina",
+      "¾ tl murskattuja chilihiutaleita ja lisää maun mukaan",
+      "170 g tomaattipyreetä",
+      "900 g tomaattikuutioita",
+      "3,6 dl kuivaa valkoviiniä",
+      "1,2 l vettä",
+      "1 laakerinlehti",
+      "900 g taskurapuja tai muita rapuja, paloiteltuina",
+      "900 g sinisimpukoita, pestyinä ja parrattomiksi puhdistettuina",
+      "450 g kampasimpukoita",
+      "650 g tilapiaa tai muuta valkoista, kiinteälihaista kalaa, 5 cm:n paloina",
+      "2 sitkeäkuorista leipää (esim. hapanleipää)"
+    ],
+    "instructions": [
+      "Kuumenna öljy erittäin isossa kattilassa keskilämmöllä.",
+      "Lisää fenkoli, sipuli, salottisipulit ja suola ja kuullota, kunnes sipuli on läpikuultavaa.",
+      "Lisää valkosipuli ja chilihiutaleet ja kuullota 2 minuuttia.",
+      "Sekoita joukkoon tomaattipyree.",
+      "Lisää tomaatit nesteineen, viini, vesi, rapu, selleri ja laakerinlehti. Peitä ja kuumenna miedosti kiehuvaksi.",
+      "Laske lämpö keskimiedoksi. Hauduta kannen alla noin 30 minuuttia, jotta maut sekoittuvat.",
+      "Lisää simpukat keittonesteeseen. Peitä ja kypsennä, kunnes simpukat alkavat avautua, noin 5 minuuttia.",
+      "Lisää kampasimpukat ja kala. Hauduta hiljaa ja välillä varovasti sekoittaen, kunnes kala ja simpukat ovat juuri kypsiä ja kaikki sinisimpukat ovat täysin auenneet, noin 10 minuuttia.",
+      "Tarkista, ettei keitossa ole suljettuja simpukoita, ja heitä ne pois. Poista laakerinlehti.",
+      "Mausta keitto maun mukaan suolalla ja chilihiutaleilla."
+    ]
+  },
+  { "id": "wikibooks-cirdingis-chechen-meat-and-dumplings", "skip": "ohje on epätäydellinen (vesimäärä puuttuu, vaiheet rikkinäisiä), liian puutteellinen" },
+  { "id": "wikibooks-clam-dip", "skip": "ainesmääriä ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-clams-steamed-in-aluminum-foil",
+    "title": "Foliossa höyrytetyt simpukat",
+    "description": "Simpukat kasvisten ja yrttien kanssa foliopaketeissa uunissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "simpukat", "uuniruoka", "nopea"],
+    "ingredients": [
+      "18 simpukkaa (900 g)",
+      "2 sellerinvartta, hienonnettuina",
+      "1 sipuli, hienonnettuna",
+      "1 paprika, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuina",
+      "2 rkl persiljaa",
+      "1 rkl timjamia",
+      "1 dl sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen.",
+      "Puhdista simpukat.",
+      "Leikkaa neljä noin 45 cm:n alumiinifolioneliötä.",
+      "Muotoile neliöistä kaksinkertaiset foliotaskut ja laita ainekset niihin.",
+      "Taita reunat niin, että simpukoilla on runsaasti tilaa avautua. Reunat itse taitetaan tiiviisti useaan kertaan kiinni.",
+      "Paista 15–25 minuuttia.",
+      "Syö suoraan foliosta tai kaada lautaselle."
+    ],
+    "notes": ["Hävitä simpukat, jotka eivät ole avautuneet kypsennyksen jälkeen."]
+  },
+  {
+    "id": "wikibooks-classic-american-apple-pie",
+    "title": "Klassinen amerikkalainen omenapiirakka",
+    "description": "Kaksikuorinen omenapiirakka, jonka täytteessä on kanelia ja taikinassa omenaviinaa tai siideriä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 420,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "omena", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "Taikina:",
+      "340 g vehnäjauhoja",
+      "225 g kylmää voita, 1 cm:n paloina",
+      "5–7 rkl omenaviinaa (applejack) tai kuivaa siideriä",
+      "1 tl suolaa",
+      "1 rkl sokeria",
+      "Täyte:",
+      "6 Honeycrisp-omenaa (tai muuta kiinteää omenaa), kuorittuina, siemenkodat poistettuina ja 12 lohkoksi leikattuina",
+      "1,2 dl sokeria, jaettuna",
+      "¼ tl suolaa",
+      "¼ tl vastajauhettua mustapippuria tai kardemummaa",
+      "¾ tl vastajauhettua kanelia",
+      "½ dl omenahyytelöä",
+      "1 rkl omenasiideriä",
+      "½ dl tapiokatärkkelystä",
+      "2 tl vastapuristettua sitruunamehua"
+    ],
+    "instructions": [
+      "Sekoita taikinan ainekset muruiseksi taikinaksi. Jaa painon mukaan kahtia, muotoile kahdeksi levyksi ja jäähdytä 1 tunti.",
+      "Sekoita omenat ¼ dl:n kanssa sokeria ja laita siivilään ison kulhon päälle. Anna valua 1½ tuntia.",
+      "Kaada kulhoon valunut neste kattilaan ja kuumenna kiehuvaksi keskikorkealla lämmöllä. Keitä, kunnes määrä on vähentynyt 2 rkl:aan. Aseta sivuun.",
+      "Sekoita omenat täytteen muiden aineiden kanssa. Aseta sivuun.",
+      "Kaulitse kumpikin taikinalevy karkeasti pyöreäksi. Aseta toinen 24–25 cm:n piirakkavuokaan ja painele reunoihin.",
+      "Aseta omenat taikinan päälle sisäkkäisiksi ympyröiksi ulkoreunasta alkaen sisäänpäin niin, että keskusta on hieman korkeampi kuin reunat. Kaada kulhon pohjalle jäänyt neste omenoiden päälle.",
+      "Peitä toisella taikinalevyllä ja sulje reunat. Taita reunat halutessasi laskoksille ja tee keskelle kolme viiltoa. Sivele pinta keitetyllä omenanesteellä.",
+      "Paista 220 asteessa uunin pohjalla leivinpaperilla vuoratun pellin päällä 30 minuuttia. Siirrä alatasolle ja paista vielä 20 minuuttia.",
+      "Ota pois ja anna jäähtyä 4 tuntia. Tarjoa."
+    ],
+    "notes": ["Alkuperäisessä reseptissä käytetään paratiisinjyviä (grains of paradise); ne on korvattu mustapippurilla tai kardemummalla."]
+  },
+  { "id": "wikibooks-classic-mince-pies", "skip": "vanhanaikainen resepti, jossa raakoja sekoitusohjeita ja epämääräisiä määriä (naudanliha ja ”kunnes tarpeeksi ohutta”), liian puutteellinen" },
+  {
+    "id": "wikibooks-classic-pot-roast",
+    "title": "Klassinen pata-paisti",
+    "description": "Uunissa 6 tuntia haudutettu naudanpaisti juures- ja yrttikastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 420,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "uuniruoka", "peruna", "amerikkalainen"],
+    "ingredients": [
+      "1 kpl (1,1 kg) naudan ulkopaistia (bottom round)",
+      "1,2 dl lihalientä",
+      "6–8 valkosipulinkynttä, murskattuina ja hienonnettuina",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "1,2 dl punaviiniä",
+      "½ dl tomaattimehua",
+      "3 porkkanaa, kuorittuina ja 2 cm:n paloiksi leikattuina",
+      "1 iso sipuli, kuutioituna",
+      "1 rkl hienonnettua tuoretta rosmariinia",
+      "2 rkl hienonnettua tuoretta timjamia",
+      "2 rkl hienonnettua tuoretta oreganoa",
+      "1,2 dl oliiviöljyä, jaettuna",
+      "½ dl balsamiviinietikkaa",
+      "1 dl vehnäjauhoja",
+      "4 punakuorista perunaa, neljään osaan"
+    ],
+    "instructions": [
+      "Mausta paisti runsaasti suolalla ja vastajauhetulla mustapippurilla.",
+      "Kuumenna 6 litran valurautapadassa ½ dl oliiviöljyä keskikorkealla lämmöllä. Lisää paisti ja ruskista joka puolelta.",
+      "Nosta paisti lautaselle ja pidä lämpimänä.",
+      "Lisää loput öljystä ja kasvikset. Kypsennä, kunnes sipulit ovat kevyesti ruskistuneet reunoilta.",
+      "Ota kasvikset pois ja pidä lämpimänä.",
+      "Deglasoi pata liemellä ja lisää loput ainekset. Laske lämpö mataliksi ja lisää kasvikset ja liha.",
+      "Peitä ja laita 110 asteiseen uuniin 6 tunniksi.",
+      "Tarjoa lämpimänä."
+    ],
+    "notes": ["Jauhoja ei käytetä ohjeessa tarkasti; ne voi sekoittaa kastikkeen sakeuttamiseen tai pyörittää paistin pintaan ennen ruskistamista."]
+  },
+  {
+    "id": "wikibooks-classic-puff-pastry",
+    "title": "Klassinen voitaikina",
+    "description": "Perinteinen kerrostettu voitaikina, joka taitetaan nelinkertaisesti.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "taikina", "voitaikina", "ranskalainen"],
+    "ingredients": [
+      "Taikina:",
+      "1125 g vahvoja vehnäjauhoja",
+      "15 g suolaa",
+      "675 g kylmää vettä",
+      "Voikerros:",
+      "1125 g huoneenlämpöistä voita",
+      "115 g vahvoja vehnäjauhoja"
+    ],
+    "instructions": [
+      "Sekoita suola suurempaan jauhomäärään.",
+      "Lisää kylmä vesi jauhoihin ja suolaan ja vaivaa taikinaksi.",
+      "Vaivaa noin 80 kertaa pehmeäksi taikinaksi ja muodosta gluteenia.",
+      "Litistä taikina (jäähtyy nopeammin) ja jäähdytä jääkaapissa.",
+      "Sekoita huoneenlämpöinen voi ja pienempi jauhomäärä hyvin. Syntyy pehmeä, helposti levitettävä tahna.",
+      "Kaulitse jäähtynyt taikina suorakulmioksi, noin ½–1 cm paksuksi.",
+      "Levitä voi 1 cm:n reunat vapaaksi jättäen ⅔:lle taikinasta.",
+      "Taita taikina kolmeen osaan kuin kirje alkaen osasta, jossa ei ole voita.",
+      "Jäähdytä 20–30 minuuttia, jotta taikina rentoutuu ja voi ei siirry uudelleen kaulittaessa.",
+      "Kaulitse taikina uudelleen suureksi suorakulmioksi, ensimmäisen kokoiseksi.",
+      "Taita taikina niin, että kaksi lyhyttä reunaa kohtaavat keskellä, ja taita sitten puoliksi. Taikinaan tulee neljä kerrosta (nelinkertainen taitto).",
+      "Jäähdytä taikina uudelleen ja kaulitse ja tee uusi nelinkertainen taitto. Toista vielä kaksi kertaa. Nyt sinulla on klassinen voitaikina käytettäväksi haluamallasi tavalla."
+    ],
+    "notes": [
+      "Suolaa taikina aina; se tuo esiin voin ja taikinan makuja.",
+      "Taikina säilyy jääkaapissa 5–7 päivää. Jos se alkaa harmaantua, heitä pois.",
+      "Pakastaminen ei ole yleensä hyvä idea, mutta tämän kanssa onnistuu. Anna sulaa kokonaan huoneenlämpöiseksi ennen kaulintaa.",
+      "Lisäjauhot voin joukossa imevät kosteutta ja estävät kosteaa lopputulosta."
+    ]
+  },
+  {
+    "id": "wikibooks-classic-salad",
+    "title": "Klassinen salaatti",
+    "description": "Nopea salaatti romainesalaatista, tomaatista, krutongeista ja cheddarista.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["kasvis", "salaatti", "nopea", "amerikkalainen"],
+    "ingredients": [
+      "3 isoa romainesalaatin lehteä",
+      "1 keskikokoinen tai iso tomaatti tai 2,4 dl kirsikka- tai luumutomaatteja",
+      "2,4 dl juusto-valkosipulikrutonkeja, pienemmiksi paloiksi murrettuina",
+      "2,4 dl murennettua kypsytettyä cheddarjuustoa (mieluiten vähintään 1 vuoden kypsytettyä)",
+      "hunaja-dijonsinappikastiketta",
+      "2,4 dl rusinoita (valinnainen)"
+    ],
+    "instructions": [
+      "Revi salaatinlehdet pieniksi paloiksi ja laita keskikokoiseen kulhoon.",
+      "Viipaloi tomaatti pieniksi paloiksi ja lisää kulhoon. Jos käytät kirsikka- tai luumutomaatteja, ripottele ne salaatin päälle.",
+      "Ripottele murennettu juusto ja krutongit (ja rusinat, jos haluat) salaatin päälle.",
+      "Valuta salaatin päälle salaattikastiketta.",
+      "Nauti!"
+    ]
+  },
+  {
+    "id": "wikibooks-classic-vanilla-milkshake",
+    "title": "Klassinen vaniljapirtelö",
+    "description": "Paksu vaniljapirtelö jäätelöstä ja maidosta.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "pirtelö", "vanilja", "nopea"],
+    "ingredients": [
+      "4,8 dl vaniljajäätelöä",
+      "2,4 dl täysmaitoa",
+      "½ dl ruokakermaa",
+      "2½ rkl sokeria",
+      "1 mm vaniljauutetta"
+    ],
+    "instructions": [
+      "Kaada maito, jäätelö ja ruokakerma tehosekoittimeen ja sekoita osittain.",
+      "Lisää sokeri ja aromi ja sekoita tasaiseksi."
+    ]
+  },
+  {
+    "id": "wikibooks-cochinita-pibil-mexican-braised-pork",
+    "title": "Cochinita pibil – meksikolainen haudutettu porsas",
+    "description": "Jukatanin perinteinen hitaasti haudutettu porsas annattosiemenmarinadissa.",
+    "servings": 12,
+    "totalTimeMin": 1680,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "meksikolainen", "uuniruoka", "juhla"],
+    "ingredients": [
+      "¾ dl annattosiemeniä",
+      "2 tl kuminansiemeniä",
+      "1 rkl mustapippuria",
+      "8 maustepippurinjyvää",
+      "½ tl kokonaisia neilikoita",
+      "2 habanero-chiliä (tai miedompia chilejä)",
+      "1,2 dl appelsiinimehua",
+      "1,2 dl valkoviinietikkaa",
+      "2 rkl suolaa",
+      "8 valkosipulinkynttä",
+      "5 sitruunan mehu",
+      "1 roiske tequilaa",
+      "2,3 kg porsaan kaulaa",
+      "banaaninlehtiä ja/tai vahvaa alumiinifoliota",
+      "riisiä, tacokuoria tai tortilloja tarjoiluun"
+    ],
+    "instructions": [
+      "Jauha annatto, kumina, pippurit, maustepippuri ja neilikat mausteveitsellä hienoksi jauheeksi. Voit käyttää sähköistä kahvimyllyä, mutta se ei sen jälkeen sovellu kahvin jauhamiseen.",
+      "Poista chilien siemenet ja suonet ja hienonna karkeasti. Jos haluat tulisempaa, jätä hieman suonia ja siemeniä.",
+      "Sekoita appelsiinimehu, etikka, chilit, suola, valkosipuli ja mausteet tehosekoittimessa tai monitoimikoneessa nestemäiseksi. Lisää sitruunamehu ja tequila.",
+      "Leikkaa porsas 5 cm:n paloiksi. Jätä rasva lihaan, jotta liha pysyy mehukkaana; sen voi poistaa kypsennyksen jälkeen.",
+      "Laita liha ja marinadi isoon sulkeutuvaan pussiin. Sulje pussi ja käännä, jotta liha peittyy marinadilla. Jäähdytä jääkaapissa 8–24 tuntia välillä kääntäen.",
+      "Kuumenna uuni 160 asteeseen. Kaada liha ja marinadi banaaninlehdillä tai foliolla vuorattuun uunipannuun ja kääri tiiviisti niin, ettei höyry pääse pois. Jos käytät banaaninlehtiä, ulkopuolinen foliokääre auttaa tiivistämään.",
+      "Paista 4 tuntia. Avaa paketti varovasti; lihan pitäisi revetä helposti haarukalla.",
+      "Tarjoa riisin päällä tai revi ja tarjoa tacokuorten tai tortillojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-cocoa-mix",
+    "title": "Kaakaojuomajauhe",
+    "description": "Kotitekoinen kaakaojauhe, johon lisätään kuumaa vettä tai maitoa.",
+    "servings": 48,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "kaakao", "juomajauhe", "nopea"],
+    "ingredients": [
+      "10 dl rasvatonta maitojauhetta",
+      "2,4 dl kaakaojauhetta",
+      "2,4 dl sokeria",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset.",
+      "Sekoita huolellisesti.",
+      "Säilytä ilmatiiviissä astiassa."
+    ],
+    "notes": ["Annos: noin 3 rkl jauhetta 2 dl:aan kuumaa vettä."]
+  },
+  {
+    "id": "wikibooks-cocoa-coconut-bites",
+    "title": "Kaakao-kookospalat",
+    "description": "Pakastimessa jähmettyvät kookosöljy-kaakaopalat vaahterasiirapilla.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["vegaaninen", "kasvis", "kaakao", "kookos"],
+    "ingredients": [
+      "0,8 dl kookosöljyä",
+      "½ dl raakakaakaojauhetta",
+      "2 rkl + 1 tl vaahterasiirappia",
+      "1 ripaus suolaa"
+    ],
+    "instructions": [
+      "Sulata kookosöljy pienessä kattilassa miedolla lämmöllä. Kun öljy on sulanut, siirrä kulhoon ja vatkaa joukkoon kaakaojauhe, vaahterasiirappi ja suola tasaiseksi ja kokkareettomaksi.",
+      "Kaada suklaaseos pieniin suklaamuotteihin. Voit käyttää myös tavallista pelliä.",
+      "Laita pakastimeen tai jääkaappiin jähmettymään muutamaksi tunniksi. Jos käytät pelliä, leikkaa suklaa paloiksi terävällä veitsellä."
+    ],
+    "notes": ["Palat eivät ole temperoitua suklaata, joten ne eivät säily huoneenlämmössä. Säilytä jääkaapissa tai pakastimessa."]
+  },
+  {
+    "id": "wikibooks-coconut-barfi",
+    "title": "Kookos-barfi",
+    "description": "Intialais-pakistanilainen kookoskonvehti, joka on usein osa juhlia.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kookos", "intialainen", "karkki"],
+    "ingredients": [
+      "250 g sokeria",
+      "1,5 dl vettä",
+      "250 g hienoksi raastettua kookosta",
+      "ghee-voita vuoan voiteluun",
+      "jauhettua kardemummaa (valinnainen)"
+    ],
+    "instructions": [
+      "Yhdistä sokeri ja vesi kattilassa ja keitä sokeriliemi 2–3 langan asteelle (noin 115–125 °C).",
+      "Lämmitä kookos paksupohjaisessa kattilassa ja kaada kuuma sokeriliemi joukkoon. Sekoita hyvin ja kypsennä, kunnes muodostuu pehmeä möykky.",
+      "Painele ja levitä seos ghee-voilla voideltuun vuokaan tai muottiin ja anna jäähtyä.",
+      "Ripottele päälle kardemummaa.",
+      "Leikkaa neliöiksi ja säilytä ilmatiiviissä astiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-biscuits",
+    "title": "Kookoskeksit",
+    "description": "Kevyet marenkikookoskeksit pyramideiksi muotoiltuina.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "kookos", "keksit", "gluteeniton"],
+    "ingredients": [
+      "3 dl hienoa sokeria",
+      "2 kananmunan valkuaista",
+      "6 dl kookoshiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen.",
+      "Vatkaa valkuaiset kulhossa pehmeäksi vaahdoksi.",
+      "Lisää sokeri vähitellen ja vatkaa kiinteäksi vaahdoksi.",
+      "Käännä joukkoon kookos.",
+      "Muotoile taikina pyramideiksi. Peitä jokainen pyramidi leivinpaperilla ja aseta ne pellille.",
+      "Paista 15 minuuttia, kunnes ne ovat vaaleanruskeita.",
+      "Poista paperit keksien päältä ja anna jäähtyä."
+    ]
+  },
+  {
+    "id": "wikibooks-coconut-chicken",
+    "title": "Kookoskana",
+    "description": "Kookosmaito-limettimarinadissa marinoitua grillattua kanaa basmatiriisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["kana", "riisi", "kookos", "grilli"],
+    "ingredients": [
+      "nahallisia kananpaloja (koipia, rintoja tai siipiä) tarpeen mukaan",
+      "1 tlk (400 ml) kookosmaitoa",
+      "1 limetti, kuori raastettuna ja mehu puristettuna",
+      "1 nippu tuoretta minttua, hienonnettuna",
+      "1 reilu ripaus paprikajauhetta",
+      "1 ripaus suolaa",
+      "1 pieni pala tuoretta inkivääriä, raastettuna",
+      "2,4 dl basmatiriisiä per henkilö",
+      "10 g voita (valinnainen)",
+      "3 mausteneilikkaa"
+    ],
+    "instructions": [
+      "Pistele kanaa eri kohdista noin 1 cm:n syvyyteen, jotta se imee marinadin makua.",
+      "Sekoita marinadin ainekset vuoassa ja laita kana marinadiin niin, että se peittyy. Marinoi välillä kääntäen vähintään 3 tuntia, tai yön yli – mitä pidempään, sen parempi.",
+      "Aseta kananpalat grilliin, sähkögrilliin tai uuniin. Kypsennä valmiiksi ja sivele kanaa runsaalla marinadilla kypsennyksen aikana. Tavoitteena on rapea nahka.",
+      "Kiehauta suolavettä isossa kattilassa ja lisää neilikat.",
+      "Lisää riisi ja keitä kypsäksi. Valuta ja huuhtele kuumalla vedellä ylimääräisen tärkkelyksen poistamiseksi. Poista neilikat ja heitä pois.",
+      "Laita riisi takaisin kattilaan ja aseta miedolle lämmölle. Lisää riisiin noin 1 dl kookosmarinadia (tai tölkin jäljelle jäänyttä kookosmaitoa) ja lämmitä hitaasti.",
+      "Lisää voi viime hetkellä ja anna sen sulaa. Jos mintunlehtiä on jäänyt, lisää kourallinen riisiin.",
+      "Silppua riisi haarukalla.",
+      "Aseta riisi tarjoilulautasen keskelle, kananpalat päälle, purista päälle tuoretta limettimehua ja tarjoa vihreän salaatin kanssa."
+    ],
+    "notes": ["Paahda samassa uunissa banaaneja kuorineen tai foliossa hieman kanelia lisäten."]
+  },
+  {
+    "id": "wikibooks-coconut-chutney-north-indian",
+    "title": "Kookoschutney (pohjoisintialainen)",
+    "description": "Raikas kookoschutney, joka sopii dosan, idlin ja muiden intialaisten ruokien lisäkkeeksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "nopea"],
+    "ingredients": [
+      "4,8 dl tuoretta raastettua kookosta",
+      "1–2 halkaistua vihreää chiliä",
+      "5 valkosipulinkynttä",
+      "1,2 dl hienonnettua korianteria",
+      "½ tl suolaa",
+      "1,2 dl vettä"
+    ],
+    "instructions": [
+      "Jauha kaikki ainekset hyvin tehosekoittimessa.",
+      "Tarjoa kahden vuorokauden sisällä."
+    ]
+  }
+]

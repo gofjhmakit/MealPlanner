@@ -1,0 +1,698 @@
+[
+  {
+    "id": "wikibooks-chocolate-chip-pancakes-i",
+    "title": "Suklaarakelättyset",
+    "description": "Pehmeät lätyt, joihin on sekoitettu suklaarakeita.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "suklaa", "lätyt", "amerikkalainen"],
+    "ingredients": [
+      "1 tl vaniljasokeria",
+      "55 g voita",
+      "2,5 dl maitoa",
+      "3 dl vehnäjauhoja",
+      "1 rkl sokeria",
+      "4 tl leivinjauhetta",
+      "¾ tl suolaa",
+      "2 kananmunaa",
+      "170 g puolimakeita suklaarakeita (tai vähemmän)",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Laita voi ja maito pieneen kattilaan.",
+      "Lämmitä miedolla lämmöllä vain haaleaksi, kunnes voi on sulanut. Anna jäähtyä hieman.",
+      "Sekoita kulhossa jauhot, sokeri, leivinjauhe ja suola.",
+      "Vatkaa isossa kulhossa munat haarukalla. Vatkaa joukkoon maitoseos.",
+      "Lisää kuivat ainekset ja sekoita vain juuri ja juuri tasaiseksi.",
+      "Lisää suklaarakeet ja sekoita.",
+      "Kuumenna paistolevy tai iso paistinpannu keskilämmöllä.",
+      "Sulata pannulla noin 1 tl voita, kunnes se kuplii.",
+      "Kauho kuumalle pinnalle noin 3 rkl taikinaa per lättä ja paista, kunnes pinta kuplii ja pohja on kullanruskea.",
+      "Käännä ja paista toinen puoli kullanruskeaksi, noin 30 sekuntia.",
+      "Toista, kunnes taikina on loppu.",
+      "Tarjoa kuumana."
+    ],
+    "notes": [
+      "Taikinan pitää valua kauhasta, ei lotista. Liian löysään taikinaan sekoita hieman jauhoja, liian paksuun vettä teelusikallinen kerrallaan.",
+      "Jos käytät suolattua voita, vähennä suola ¼ teelusikkaan.",
+      "Pannun lämpö on tärkeä: liian kuumalla lätyt ruskistuvat päältä raaoiksi, liian viileällä ne jäävät kovia ja vaaleita."
+    ]
+  },
+  { "id": "wikibooks-chocolate-chip-pancakes-ii", "skip": "lähes kaksoiskappale suklaarakelättyjen ensimmäiselle reseptille" },
+  {
+    "id": "wikibooks-chocolate-chip-peanut-butter-toast",
+    "title": "Suklaa-maapähkinävoipaahtoleipä",
+    "description": "Paahtoleipä, jonka päällä on maapähkinävoita ja sulatettuja suklaarakeita.",
+    "servings": 1,
+    "totalTimeMin": 7,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "suklaa", "nopea", "pähkinä"],
+    "ingredients": [
+      "1 viipale leipää",
+      "2–4 rkl maapähkinävoita, tasaista tai rouheista",
+      "30–55 g suklaarakeita"
+    ],
+    "instructions": [
+      "Paahda leipä molemmin puolin uunin grillivastuksen alla.",
+      "Levitä maapähkinävoi leivän päälle.",
+      "Ripottele suklaarakeet maapähkinävoin päälle kevyesti tai runsaasti.",
+      "Laita leipä takaisin grillivastuksen alle noin 20 sekunniksi, jotta suklaa sulaa."
+    ],
+    "notes": [
+      "Suklaarakeet voi levittää tasaiseksi kerrokseksi, kun ne ovat pehmenneet.",
+      "Kylmät suklaarakeet voi myös lisätä sulattamatta, jolloin saat mukavan lämpötilakontrastin.",
+      "Käytä maun mukaan maito-, tumma-, puolimakeaa tai valkosuklaata."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-chip-pumpkin-cookies",
+    "title": "Kurpitsa-suklaarakeekeksit",
+    "description": "Suuri satsi pehmeitä kurpitsakeksejä, joissa on pähkinöitä, myslirouhetta ja suklaarakeita.",
+    "servings": 60,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "keksit", "kurpitsa", "amerikkalainen"],
+    "ingredients": [
+      "2,5 dl rypsiöljyä",
+      "2 kananmunaa",
+      "9 dl sokeria",
+      "1 kg kurpitsasosetta",
+      "9 dl vehnäjauhoja",
+      "1 tl kanelia",
+      "½ tl muskottipähkinää",
+      "4 tl ruokasoodaa",
+      "1 tl neilikkaa",
+      "5 dl hienonnettuja pekaanipähkinöitä tai manteleita",
+      "2,5 dl granolaa tai kaurahiutaleita",
+      "340 g suklaarakeita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita isossa kulhossa märät ainekset.",
+      "Siivilöi jauhot, kaneli, muskotti, ruokasooda ja neilikka toiseen kulhoon.",
+      "Sekoita kuivat ainekset märkien joukkoon.",
+      "Lisää pähkinät, granola ja suklaarakeet.",
+      "Nostele lusikalla taikinakasoja voideltuun pellille.",
+      "Paista 10–12 minuuttia ja anna jäähtyä."
+    ],
+    "notes": ["Taikinasta tulee iso määrä. Voit puolittaa reseptin."]
+  },
+  {
+    "id": "wikibooks-chocolate-chocolate-chip-muffins",
+    "title": "Tuplasuklaamuffinssit",
+    "description": "Makeat kaakaomuffinssit suklaarakeilla, sopivat myös aamiaiseksi.",
+    "servings": 12,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "muffinssit", "uuniruoka"],
+    "ingredients": [
+      "4,2 dl vehnäjauhoja",
+      "2 dl suklaarakeita",
+      "1¾ dl sokeria",
+      "¾ dl kaakaojauhetta, siivilöitynä",
+      "1 rkl leivinjauhetta",
+      "½ tl suolaa",
+      "1 kananmuna",
+      "2,5 dl maitoa",
+      "¾ dl ruoka-öljyä",
+      "1 tl vaniljasokeria"
+    ],
+    "instructions": [
+      "Sekoita jauhot, suklaarakeet, sokeri, kaakao, suola ja leivinjauhe kulhossa. Tee keskelle kuoppa.",
+      "Vatkaa muna pienessä kulhossa. Lisää maito, öljy ja vanilja. Sekoita ja kaada kuoppaan. Sekoita vain juuri kosteaksi.",
+      "Voitele 12 muffinssivuokaa tai käytä paperivuokia. Täytä vuoat ¾ täyteen.",
+      "Paista 205 asteessa 20 minuuttia, kunnes keskelle työnnetty tikku tulee puhtaana ulos."
+    ],
+    "notes": [
+      "Parhaita vielä lämpiminä.",
+      "Päälle voi lisätä valkosuklaaraastetta tai valkosuklaarakeita."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-crinkles",
+    "title": "Suklaahalkeamakeksit",
+    "description": "Voimakkaan suklaiset mustavalkoiset keksit, joiden taikina jäähdytetään ennen paistoa.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "keksit", "uuniruoka"],
+    "ingredients": [
+      "1 dl rypsiöljyä",
+      "115 g raakasuklaata tai tummaa suklaata, sulatettuna",
+      "4,8 dl sokeria",
+      "4 kananmunaa",
+      "2 tl vaniljasokeria",
+      "4,8 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "½ tl suolaa",
+      "2,4 dl tomusokeria"
+    ],
+    "instructions": [
+      "Sekoita öljy, suklaa ja sokeri.",
+      "Sekoita joukkoon yksi muna kerrallaan, kunnes seos on tasaista. Lisää vanilja.",
+      "Sekoita jauhot, leivinjauhe ja suola suklaaseokseen.",
+      "Jäähdytä jääkaapissa useita tunteja tai yön yli.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Pudota teelusikallisia taikinaa tomusokeriin.",
+      "Pyörittele sokerissa ja muotoile palloiksi.",
+      "Aseta noin 5 cm:n välein voideltulle pellille.",
+      "Paista 10–12 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-fudge",
+    "title": "Suklaafudge",
+    "description": "Perinteinen täyteläinen karamelli joulun aikaan, valmistuu marshmallow-tahnasta ja suklaasta.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "karkki", "amerikkalainen"],
+    "ingredients": [
+      "5,5 dl sokeria",
+      "125 g margariinia tai voita",
+      "1,6 dl haihdutettua maitoa",
+      "1 purkki (200 g) marshmallow creme -vaahtokarkkitahnaa",
+      "4 dl puolimakeita suklaarakeita",
+      "1 dl hienonnettuja saksanpähkinöitä",
+      "1 tl vaniljasokeria"
+    ],
+    "instructions": [
+      "Vuoraa 23 cm:n neliövuoka tai 33 × 23 cm:n vuoka foliolla niin, että folio ulottuu yli reunojen. Voitele folio.",
+      "Yhdistä isossa kattilassa sokeri, margariini ja haihdutettu maito. Kuumenna keskilämmöllä kiehuvaksi jatkuvasti sekoittaen.",
+      "Sekoita 5 minuuttia jatkuvasti ja ota kattila pois lämmöltä.",
+      "Lisää vaahtokarkkitahna ja suklaarakeet ja sekoita tasaiseksi. Lisää saksanpähkinät ja vanilja.",
+      "Kaada voideltuun, foliolla vuorattuun vuokaan. Anna jäähtyä huoneenlämpöiseksi.",
+      "Viillä pinta 36–48 neliöksi. Jäähdytä jääkaapissa kiinteäksi.",
+      "Nosta fudge vuoasta folion avulla ja poista folio sivuilta. Leikkaa isolla veitsellä viiltojen kohdalta. Säilytä jääkaapissa."
+    ],
+    "notes": ["Marshmallow creme -tahnaa saa maahantuontikaupoista; vaihtoehtona voi käyttää sulatettuja vaahtokarkkeja."]
+  },
+  {
+    "id": "wikibooks-chocolate-icing",
+    "title": "Suklaakuorrute",
+    "description": "Yksinkertainen kuorrute suklaasta, kermasta ja tomusokerista.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "suklaa", "kuorrute", "nopea"],
+    "ingredients": [
+      "110 g makeaa suklaata",
+      "2 rkl kermaa",
+      "siivilöityä tomusokeria"
+    ],
+    "instructions": [
+      "Sulata suklaa vesihauteessa.",
+      "Lisää kerma.",
+      "Vatkaa joukkoon vähitellen tomusokeria, kunnes kuorrute on kermaista ja sopivan paksua levitettäväksi."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-macaroons-no-bake",
+    "title": "Paistamattomat suklaamakroonit",
+    "description": "Paistamattomat kaura-kookoskeksit suklaalla.",
+    "servings": 20,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "keksit", "kaura"],
+    "ingredients": [
+      "4,8 dl sokeria",
+      "120 g margariinia tai voita",
+      "2,4 dl maitoa",
+      "1 tl vaniljasokeria",
+      "1 dl kaakaojauhetta",
+      "6 dl kaurahiutaleita",
+      "2,5 dl kookoshiutaleita"
+    ],
+    "instructions": [
+      "Kuumenna vesihauteen alaosa liedellä.",
+      "Aseta iso metallikulho vesihauteen päälle. Sulata voi tai margariini kulhossa.",
+      "Lisää sokeri ja vatkaa, kunnes se on liuennut.",
+      "Vatkaa joukkoon maito.",
+      "Vatkaa joukkoon kaakao, murskaa kokkareet ensin.",
+      "Ota pois lämmöltä. Sekoita kookos ja kaurahiutaleet joukkoon kuminuoralla niin, ettei kuivia kohtia jää.",
+      "Annostele pellille ja anna jähmettyä."
+    ],
+    "notes": ["Jos makroonit ovat liian murenevia, seosta on kuumennettu liian kauan."]
+  },
+  {
+    "id": "wikibooks-chocolate-marmalade-layer-cake",
+    "title": "Suklaa-marmeladikerroskakku",
+    "description": "Suklaakakku, jossa on marmeladitäyte ja joka tehdään 6-6-6-3-menetelmällä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kakku", "uuniruoka"],
+    "ingredients": [
+      "170 g itsenousevia vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "2 rkl kaakaojauhetta",
+      "170 g voita",
+      "170 g hienoa sokeria",
+      "3 kananmunaa",
+      "appelsiinimarmeladia",
+      "tomusokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni kiertoilmalla 170 asteeseen.",
+      "Voitele 2 pyöreää kakkuvuokaa ja vuoraa ne leivinpaperilla.",
+      "Siivilöi isossa kulhossa yhteen jauhot, kaakao ja leivinjauhe.",
+      "Vaahdota voi ja sokeri kuohkeaksi.",
+      "Vatkaa joukkoon munat tasaiseksi.",
+      "Sekoita jauhoseos joukkoon vain juuri tasaiseksi.",
+      "Jaa taikina tasan valmistelluihin vuokiin.",
+      "Paista uunissa 20 minuuttia, kunnes keskelle työnnetty tikku tulee puhtaana ulos.",
+      "Anna jäähtyä 10 minuuttia ja kumoa kakut jäähdytysritilälle.",
+      "Kun kakut ovat kokonaan jäähtyneet, levitä toisen kakkupohjan päälle runsaasti tasainen kerros marmeladia. Aseta toinen pohja päälle.",
+      "Ripottele halutessasi pinnalle hieman tomusokeria koristeeksi."
+    ]
+  },
+  { "id": "wikibooks-chocolate-milk", "skip": "ei määriä, triviaali juoma (maito ja suklaasiirappi)" },
+  {
+    "id": "wikibooks-chocolate-milkshake",
+    "title": "Suklaapirtelö",
+    "description": "Paksu pirtelö vaniljajäätelöstä, suklaamaidosta ja kaakaojauheesta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["kasvis", "suklaa", "pirtelö", "nopea"],
+    "ingredients": [
+      "7 dl vaniljajäätelöä",
+      "2,5 dl suklaamaitoa",
+      "2–3 kukkurallista rkl suklaajuomajauhetta",
+      "2 suklaapatukkaa (valinnainen)",
+      "murskattuja Oreo-keksejä (valinnainen)"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen ja sekoita tasaiseksi.",
+      "Säädä koostumus haluamaksesi lisäämällä jäätelöä tai suklaamaitoa.",
+      "Sekoita halutessasi joukkoon murskattuja Oreo-keksejä."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-mousse",
+    "title": "Suklaamousse",
+    "description": "Ranskalainen suklaavaahto, helppo jälkiruoka, joka jähmettyy jääkaapissa.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "mousse", "ranskalainen"],
+    "ingredients": [
+      "200 g tummaa suklaata, hienonnettuna",
+      "3 kananmunaa",
+      "2,5 dl kuohukermaa",
+      "40 g sokeria",
+      "2 rkl kuumaa vettä"
+    ],
+    "instructions": [
+      "Sulata suklaa vesihauteessa.",
+      "Erottele munat.",
+      "Vatkaa valkuaiset ja kerma erikseen hyvin kiinteiksi. Laita molemmat jääkaappiin.",
+      "Laita keltuaiset ja kuuma vesi vatkauskulhoon (hanan kuuma vesi riittää, noin 50–60 °C). Vatkaa sähkövatkaimella hitaasti sokeria lisäten, sitten nopeammin, kunnes seos on paksua ja vaaleankeltaista.",
+      "Sekoita sulatettu suklaa keltuaisseokseen (suklaan pitää olla jäähtynyt niin, ettei sormea polta). Sekoita heti, ettei keltuaiset kypsy.",
+      "Käännä vispilällä (älä enää käytä vatkainta) valkuaiset suklaaseokseen kolmessa erässä ja sen jälkeen kermavaahto.",
+      "Valmis mousse on vaaleanruskeaa ja hyvin kuohkeaa. Jaa se vielä juoksevana annoskulhoihin. Anna jähmettyä jääkaapissa 4–6 tuntia ennen tarjoamista."
+    ],
+    "notes": [
+      "Käytä tuoreita tai pastöroituja kananmunia, sillä mousse sisältää raakoja munia.",
+      "Vedenä voi käyttää kahvia tai alkoholipitoista likööriä, jolloin mousse ei sovi lapsille tai raskaana oleville.",
+      "Mausteeksi sopivat mantelijauhe, mantelivoi tai appelsiinin kuori (1 rkl 6 munaa kohden)."
+    ]
+  },
+  { "id": "wikibooks-chocolate-mousse-vegan", "skip": "ainesmääriä ei ole annettu, liian puutteellinen" },
+  {
+    "id": "wikibooks-chocolate-mousse-cake-vegan",
+    "title": "Vegaaninen suklaamoussekakku",
+    "description": "Kaakaokakku, jonka välissä on tofusta ja suklaasta tehty mousse ja päällä suklaakuorrute.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["vegaaninen", "kasvis", "suklaa", "kakku", "juhla"],
+    "ingredients": [
+      "Kakkupohja:",
+      "3,6 dl vehnäjauhoja",
+      "¾ dl kaakaojauhetta",
+      "1 tl leivinjauhetta",
+      "1 tl ruokasoodaa",
+      "1 ripaus suolaa",
+      "2,5 dl sokeria",
+      "3 dl vettä",
+      "¾ dl rypsiöljyä",
+      "2 tl vaniljasokeria",
+      "2 rkl etikkaa",
+      "Mousse:",
+      "170 g suklaarakeita (maidotonta)",
+      "170 g tofua",
+      "½ rkl vaniljasokeria",
+      "Kuorrute:",
+      "60 g margariinia (maidotonta)",
+      "½ dl kaakaojauhetta",
+      "4 rkl soijamaitoa",
+      "2 dl sokeria",
+      "1 dl fariinisokeria",
+      "1 tl vaniljasokeria",
+      "Koristeeksi:",
+      "kookoshiutaleita",
+      "1 dl saksanpähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita kulhossa jauhot, kaakao, leivinjauhe, ruokasooda, suola ja sokeri.",
+      "Sekoita toisessa kulhossa vesi, öljy ja 2 tl vaniljaa.",
+      "Kaada neste kuivien aineiden joukkoon ja vatkaa haarukalla.",
+      "Lisää etikka ja sekoita. Taikinaan syntyy kuplia, kun happo reagoi ruokasoodan kanssa.",
+      "Kaada taikina vuokiin ja paista 25–30 minuuttia.",
+      "Ota uunista ja anna jäähtyä kokonaan.",
+      "Sulata suklaarakeet.",
+      "Soseuta tofu, ½ rkl vaniljaa ja sulatettu suklaa tehosekoittimessa kermaiseksi.",
+      "Leikkaa kakun päältä kansi ja aseta se sivuun. Kaada suklaa-tofumousse kakun alaosan päälle. Aseta kansi takaisin.",
+      "Jäähdytä jääkaapissa, kunnes mousse on kiinteytynyt.",
+      "Yhdistä kattilassa kuorrutteen ainekset paitsi vanilja. Kuumenna kiehuvaksi jatkuvasti sekoittaen.",
+      "Keitä 1 minuutti, sekoita jäähtymään ja lisää sitten vanilja.",
+      "Kaada kuorrute moussekakun päälle.",
+      "Koristele kookoksella ja halutessasi saksanpähkinöillä."
+    ],
+    "notes": ["Reseptin lähteessä ainekset eivät olleet ryhmiteltyinä; ryhmittely on päätelty vaiheista."]
+  },
+  {
+    "id": "wikibooks-chocolate-noodles-with-vanilla-sauce",
+    "title": "Suklaanuudelit vaniljakastikkeella",
+    "description": "Lämmin suklaajälkiruoka: kaakaopastaa vaniljakastikkeessa.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "pasta", "juhla"],
+    "ingredients": [
+      "Nuudelit:",
+      "125 g vehnäjauhoja",
+      "40 g kaakaojauhetta",
+      "20 g tomusokeria",
+      "1 iso kananmuna",
+      "25 g mascarponea",
+      "1 ripaus suolaa",
+      "20 g voita",
+      "5 tl sokeria",
+      "Vaniljakastike:",
+      "2 kananmunan keltuaista",
+      "40 g fariinisokeria",
+      "1 dl maitoa",
+      "5 rkl kuohukermaa",
+      "½ vaniljatanko"
+    ],
+    "instructions": [
+      "Sekoita jauhot, kaakao, tomusokeri, muna, mascarpone ja suola 5–10 minuutissa tasaiseksi taikinaksi.",
+      "Peitä taikina ja anna levätä 30 minuuttia.",
+      "Kiehauta isossa kattilassa vettä ja lisää voi ja sokeri.",
+      "Kaulitse taikina jauhotetulla alustalla ja leikkaa ohuiksi suikaleiksi.",
+      "Keitä suikaleita noin 4 minuuttia ja valuta. Kuivaa nuudelit talouspaperilla ja pidä lämpimänä.",
+      "Sekoita kastiketta varten fariinisokeri ja keltuaiset kupissa ja aseta sivuun.",
+      "Laita maito ja kerma kattilaan vaniljatangon kanssa, sekoita muutama minuutti ja poista vaniljatanko.",
+      "Lämmitä maito-kermaseosta sekoittaen ja kaada lämmin seos munaseoksen joukkoon.",
+      "Kaada seos takaisin kattilaan ja sekoita varovasti, kunnes se sakenee. Älä anna kiehua!",
+      "Aseta suklaanuudelit lautaselle ja kaada vaniljakastike päälle."
+    ],
+    "notes": ["Tarjoa tuoreiden hedelmien kanssa.", "Vaniljatangon tilalle käy vaniljauute."]
+  },
+  {
+    "id": "wikibooks-chocolate-pear-bake",
+    "title": "Suklaa-päärynävuoka",
+    "description": "Browniemainen jauhoton jälkiruoka, jossa kohotus tulee vaahdotetuista valkuaisista ja makua päärynästä.",
+    "servings": 6,
+    "totalTimeMin": 35,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "päärynä", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "200 g puolimakeaa suklaata, hienonnettuna tai rakeina",
+      "120 g voita tai margariinia",
+      "4 kananmunaa, erotettuina",
+      "1,2 dl sokeria",
+      "2 päärynää, viipaloituina",
+      "kevyesti vatkattua kermaa tarjoiluun"
+    ],
+    "instructions": [
+      "Voitele 22 × 22 cm:n uunivuoka ja kuumenna uuni 170 asteeseen.",
+      "Sulata suklaa ja voi vesihauteessa. Kun ne ovat sulaneet, ota pois lämmöltä.",
+      "Vatkaa keltuaiset ja sokeri paksuksi ja vaaleankeltaiseksi vaahdoksi.",
+      "Vatkaa valkuaiset toisessa kulhossa kiinteiksi.",
+      "Yhdistä suklaaseos ja keltuaisvaahto ja sekoita hyvin.",
+      "Käännä joukkoon ensin noin ⅓ valkuaisvaahdosta varovasti.",
+      "Lisää päärynäviipaleet ja sekoita kerran tai kaksi. Kaada seos vuokaan.",
+      "Paista 35–40 minuuttia, kunnes vuoka on jousta mutta kiinteä kosketettaessa.",
+      "Tarjoa kuumana kermavaahdon kanssa."
+    ],
+    "notes": ["Päärynän tilalle käyvät persikka-, omena- tai appelsiiniviipaleet."]
+  },
+  {
+    "id": "wikibooks-chocolate-sandesh",
+    "title": "Suklaa-sandesh",
+    "description": "Intialaisen sandeshin suklainen versio tuorejuustosta (paneer).",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "intialainen", "kylmä"],
+    "ingredients": [
+      "2,4 dl vastatehtyä vähärasvaista paneeria, murennettuna",
+      "1 rkl sokerinkorviketta",
+      "2 rkl kuohukermaa",
+      "1 rkl kaakaojauhetta",
+      "½ tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Yhdistä paneer ja sokerinkorvike ja survo hyvin yhteen.",
+      "Lisää kerma, kaakao ja vanilja. Sekoita hyvin.",
+      "Jaa 8 yhtä suureen osaan ja pyöritä palloiksi.",
+      "Jäähdytä jääkaapissa vähintään tunti ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-sauce",
+    "title": "Suklaakastike",
+    "description": "Helppo kastike eklaireille ja muille jälkiruoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "suklaa", "kastike", "nopea"],
+    "ingredients": [
+      "40 g voita",
+      "40 g hienoa sokeria",
+      "70 ml kuohukermaa",
+      "40 g tummaa suklaata"
+    ],
+    "instructions": [
+      "Sulata kaikki ainekset kattilassa ja anna kuplia hetki, kunnes seos tummuu hieman. Varo, ettei suklaa pala.",
+      "Ota pois lämmöltä ja anna jäähtyä, kunnes se sakenee."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-sour-cream-icing",
+    "title": "Suklaa-smetanakuorrute",
+    "description": "Hieman happamuutta sisältävä suklaakuorrute, joka sopii sekä kuorrutteeksi että täytteeksi.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "suklaa", "kuorrute", "kakku"],
+    "ingredients": [
+      "2,4 dl suklaarakeita",
+      "60 g voita",
+      "1,2 dl smetanaa",
+      "1 tl vaniljauutetta",
+      "¼ tl suolaa",
+      "2,4–7 dl tomusokeria"
+    ],
+    "instructions": [
+      "Sulata suklaa ja voi yhdessä vesihauteessa.",
+      "Ota pois lämmöltä ja sekoita joukkoon smetana, vaniljauute ja suola.",
+      "Vatkaa tai sekoita joukkoon hitaasti tomusokeria, kunnes seos on sopivan paksua. Kuorrute on ohuempaa ja vaatii vähemmän tomusokeria kuin paksumpi täyte.",
+      "Levitä valitsemasi kakun päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-spread",
+    "title": "Kotitekoinen suklaalevite",
+    "description": "Nutellan kaltainen suklaalevite, joka tehdään tahinista tai maapähkinävoista.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "suklaa", "levite", "pähkinä"],
+    "ingredients": [
+      "1 dl sokeria",
+      "20 g kaakaojauhetta",
+      "1 tl suolaa",
+      "2 dl maitoa",
+      "100 g tummaa suklaata (60 %)",
+      "250 g raakaa tahinia tai 200 g luonnollista maapähkinävoita"
+    ],
+    "instructions": [
+      "Laita sokeri, kaakao ja suola kattilaan.",
+      "Sekoita joukkoon osa maidosta, sitten loput.",
+      "Kuumenna liedellä usein sekoittaen, kunnes sokeri on liuennut maitoon.",
+      "Lisää suklaa ja sekoita, kunnes se on sulanut.",
+      "Sammuta liesi, lisää tahini tai maapähkinävoi ja sekoita hyvin.",
+      "Anna jäähtyä ja säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-squares",
+    "title": "Suklaaneliöt",
+    "description": "Kaura-suklaaneliöt, joissa on murupohja ja suklaatäyte.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kaura", "uuniruoka"],
+    "ingredients": [
+      "Pohja:",
+      "120 g margariinia, pehmeää",
+      "2,4 dl fariinisokeria",
+      "1 kananmuna",
+      "1 tl vaniljasokeria",
+      "3 dl vehnäjauhoja",
+      "3½ dl kaurahiutaleita",
+      "½ tl ruokasoodaa",
+      "½ tl suolaa",
+      "Täyte:",
+      "1,6 dl makeutettua kondensoitua maitoa",
+      "2,4 dl suklaarakeita",
+      "2 rkl kovaa margariinia",
+      "1 tl vaniljasokeria",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Vaahdota margariini ja fariinisokeri kuohkeaksi.",
+      "Vatkaa joukkoon muna ja vanilja.",
+      "Sekoita kulhossa jauhot, kaurahiutaleet, ruokasooda ja suola.",
+      "Sekoita jauhoseos vaahdon joukkoon aluksi puulusikalla, kunnes seos on murumaista.",
+      "Ota noin ⅓ seoksesta talteen kulhoon.",
+      "Painele loput voideltuun ja vuorattuun neliövuokaan.",
+      "Kuumenna täytteen ainekset kulhossa kiehuvan veden päällä, kunnes suklaarakeet ovat juuri sulaneet.",
+      "Levitä suklaaseos tasaisesti pohjan päälle pitäen vuoan reunat puhtaina.",
+      "Ripottele varattu murutaikina päälle. Se ei peitä koko pintaa.",
+      "Paista 180 asteessa 20–25 minuuttia, kunnes kaurapinta on kevyen kullanruskea.",
+      "Anna jäähtyä, leikkaa ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-truffles",
+    "title": "Suklaatryffelit",
+    "description": "Pehmeät suklaapallot, jotka pyöritetään kaakaossa ja tomusokerissa.",
+    "servings": 24,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "karkki", "juhla"],
+    "ingredients": [
+      "225 g tummaa suklaata, pieniksi paloiksi hienonnettuna",
+      "1,1 dl kuohukermaa (48 %:n rasvaa) tai 1 dl kuohukermaa",
+      "kaakaojauhetta",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Laita suklaa kulhoon vesihauteen päälle.",
+      "Kuumenna, kunnes suklaa on sulanut ja tasaista, välillä sekoittaen.",
+      "Nosta kulho pois kuumasta vedestä.",
+      "Lisää kerma ja sekoita hyvin. Anna jäähtyä.",
+      "Peitä ja jäähdytä jääkaapissa noin 35 minuuttia tai kunnes seos on juuri sen verran kiinteää, että se pitää muotonsa.",
+      "Siivilöi lautaselle kerros kaakaojauhetta ja tomusokeria. Tomusokeri pehmentää kaakaon karvautta.",
+      "Ota kukkurainen teelusikallinen suklaaseosta ja muotoile palloksi.",
+      "Pyöritä kukin tryffeli kaakaoseoksessa niin, että pinta peittyy tasaisesti. Ravista ylimääräinen pois ja aseta tarjottimelle.",
+      "Muotoile ja päällystä loput tryffelit. Pidä ne tarjottimella erillään toisistaan.",
+      "Peitä ja jäähdytä. Ota pois jääkaapista 15 minuuttia ennen tarjoilua."
+    ],
+    "notes": [
+      "Vaniljatryffelit: käytä valkosuklaata, vähennä tomusokeria ja lisää noin ½ rkl vaniljauutetta."
+    ]
+  },
+  {
+    "id": "wikibooks-chocolate-zucchini-cake",
+    "title": "Suklaa-kesäkurpitsakakku",
+    "description": "Kostea suklaakakku raastetulla kesäkurpitsalla, joka kestää pakastettuna jopa 6 kuukautta.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "suklaa", "kakku", "kesäkurpitsa", "uuniruoka"],
+    "ingredients": [
+      "115 g voita tai margariinia",
+      "1,2 dl rypsiöljyä",
+      "350 g sokeria",
+      "2 kananmunaa",
+      "1,2 dl hapanmaitoa tai piimää",
+      "1 tl vaniljauutetta",
+      "250 g vehnäjauhoja, siivilöitynä",
+      "1 tl ruokasoodaa",
+      "¼ tl jauhettua kanelia",
+      "¼ tl jauhettua neilikkaa",
+      "½ tl suolaa",
+      "20 g kaakaojauhetta",
+      "280 g raastettua kesäkurpitsaa",
+      "20 g jauhettuja saksanpähkinöitä",
+      "40 g puolimakeita suklaarakeita"
+    ],
+    "instructions": [
+      "Vaahdota voi, öljy ja sokeri.",
+      "Lisää munat, hapanmaito ja vanilja. Sekoita hyvin.",
+      "Siivilöi kuivat ainekset toisessa kulhossa yhteen.",
+      "Sekoita kuivat ainekset voiseokseen.",
+      "Lisää raastettu kesäkurpitsa ja sekoita hyvin.",
+      "Levitä voideltuun ja jauhotettuun 23 × 33 cm:n vuokaan. Ripottele pinnalle saksanpähkinät ja suklaarakeet.",
+      "Paista esilämmitetyssä 165-asteisessa uunissa 45 minuuttia."
+    ],
+    "notes": ["Hapanmaidon voi korvata sekoittamalla 1,2 dl maitoa ja 2 tl sitruunamehua ja antamalla seistä 10 minuuttia."]
+  },
+  {
+    "id": "wikibooks-chocolate-coated-marshmallow-treats-fldeboller",
+    "title": "Flødeboller – suklaakuorrutetut vaahtokarkit",
+    "description": "Tanskalainen herkku: marsipaanipohja, italialainen marenkivaahto ja suklaakuori.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "suklaa", "tanskalainen", "juhla"],
+    "ingredients": [
+      "Marsipaanipohjat:",
+      "100 g tomusokeria",
+      "2 pastöroitua kananmunan valkuaista (60 g)",
+      "300 g marsipaania (puhdasta)",
+      "Vaahto:",
+      "250 g sokeria",
+      "75 g vettä",
+      "110 g glukoosisiirappia",
+      "4 pastöroitua kananmunan valkuaista (140 g)",
+      "15 g sokeria",
+      "½ vaniljatanko",
+      "1 tl tomusokeria",
+      "väriaineita tai aromeja (valinnainen)",
+      "Kuorrute:",
+      "500 g tummaa suklaata (58–64 %)",
+      "kookoshiutaleita"
+    ],
+    "instructions": [
+      "Sekoita tomusokeri ja valkuaiset kulhossa.",
+      "Sekoita sokeri-valkuaisseos marsipaaniin useassa erässä, kunnes taikina on tasaista.",
+      "Pursota pursotinpussilla litteitä, pyöreitä noin 5 cm:n pohjia.",
+      "Paista 190 asteessa kullanruskeiksi, noin 10 minuuttia.",
+      "Jäähdytä huoneenlämpöisiksi.",
+      "Kuumenna 250 g sokeria, vesi ja glukoosisiirappi kattilassa tarkasti 117 asteeseen.",
+      "Vatkaa sillä välin valkuaiset kevyesti 15 g:n sokerin kanssa.",
+      "Kaada kuuma sokeriliemi ohuena nauhana valkuaisten joukkoon vatkaamisen jatkuessa.",
+      "Vatkaa vaahtoa, kunnes se on hyvin jäykkää.",
+      "Halkaise vaniljatanko ja kaavi siemenet. Sekoita ne tomusokeriin ja lisää vaahtoon aromien kanssa. Sekoita hitaasti tasaiseksi niin, ettei vaahto painu kasaan.",
+      "Pursota marsipaanipohjille 5 cm korkeat vaahtokupolit. Varmista, että vaahto tarttuu pohjaan, muuten se putoaa kuorruttaessa.",
+      "Pidä huoneenlämmössä tai jääkaapissa, kun valmistat suklaakuorrutteen.",
+      "Hienonna suklaa.",
+      "Sulata puolet suklaasta varovasti vesihauteessa 48–50 asteeseen.",
+      "Laita toinen puoli suklaasta kulhoon, joka on tarpeeksi iso upottamaan kokonainen herkku. Lisää ⅔ sulatetusta suklaasta ja anna sulaa yhteen ILMAN LÄMMITYSTÄ. Lisää loput sulatettu suklaa vain, jos kokkareet eivät sula. Lämpötila ei saa ylittää 34 astetta, jotta suklaa pysyy kiiltävänä ja rapeana.",
+      "Kasta vaahtokupolit suklaaseen niin, että koko vaahto peittyy.",
+      "Ripottele tai pyöritä kookoshiutaleissa ja anna jähmettyä. Älä lämmitä suklaata uudelleen, jos se alkaa jähmettyä, vaan lisää hieman lämmintä sulaa suklaata."
+    ],
+    "notes": ["Marsipaanipohjien tilalla voi käyttää litteitä murokeksejä tai kakkupohjia."]
+  }
+]

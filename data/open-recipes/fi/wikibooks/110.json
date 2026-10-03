@@ -1,0 +1,433 @@
+[
+  {
+    "id": "wikibooks-pumpkin-pie-ii",
+    "title": "Kurpitsapiirakka haihdutetulla maidolla",
+    "description": "Klassinen mausteinen kurpitsapiirakka, joka tarjotaan lämpimänä tai kylmänä vaahdotetun kerman kanssa.",
+    "servings": 8,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kurpitsa", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "1¾ dl sokeria",
+      "½ tl suolaa",
+      "1 tl kanelia",
+      "½ tl inkivääriä",
+      "¼ tl neilikkaa",
+      "2 isoa munaa",
+      "1 tlk (425 g) kurpitsasosetta",
+      "1 tlk (350 ml) haihdutettua maitoa",
+      "1 raaka piirakkapohja (23 cm)",
+      "vaahdotettua kermaa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 210 asteeseen.",
+      "Sekoita sokeri, suola, kaneli, inkivääri ja neilikka pienessä kulhossa. Vatkaa munat isossa kulhossa, sekoita joukkoon kurpitsa ja sokerimausteseos. Sekoita vähitellen joukkoon haihdutettu maito.",
+      "Kaada raakaan piirakkapohjaan.",
+      "Paista 210 asteessa 15 minuuttia. Laske lämpö 180 asteeseen ja paista vielä 40–50 minuuttia, kunnes keskiosaan työnnetty veitsi tulee puhtaana ulos.",
+      "Jäähdytä ritilällä 2 tuntia.",
+      "Lisää päälle vaahdotettua kermaa ennen tarjoilua."
+    ],
+    "notes": ["Täytteen voi valmistaa etukäteen, mutta kaada se pohjaan vasta juuri ennen paistoa, jotta pohja pysyy rapeana.", "Alkuun korkea ja sitten laskettu lämpötila on tärkeä, jotta pohja kypsyy rapeaksi.", "Testaa kypsyys keskiosan vierestä, koska keskusta kypsyy vielä uunista oton jälkeen.", "Kanelin, inkiväärin ja neilikan tilalle sopii 1¾ tl kurpitsapiirakkamausteseosta."]
+  },
+  { "id": "wikibooks-pumpkin-pie-iii", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-pumpkin-risotto",
+    "title": "Kurpitsarisotto",
+    "description": "Uunissa paahdetusta kurpitsasta ja meiramista tehty risotto parmesaanilla.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "kurpitsa", "riisi", "italialainen"],
+    "ingredients": [
+      "650 g kurpitsaa tai talvikurpitsaa",
+      "½ tl suolaa",
+      "mustapippuria (n. 6 myllyn kierrosta)",
+      "1 nippu tuoretta meiramia, hienonnettuna (osa koristeluun)",
+      "2 valkosipulinkynttä, paksuiksi viipaleiksi",
+      "5 rkl oliiviöljyä, jaettuna",
+      "1 l kanalientä",
+      "150 g huoneenlämpöistä voita, jaettuna",
+      "1 keskikokoinen punasipuli, hienoksi kuutioituna",
+      "3½ dl risottoriisiä",
+      "5 rkl kuivaa valkoista vermuttia",
+      "150 g parmesaania, hienoksi raastettuna, sekä lisää pöytään"
+    ],
+    "instructions": [
+      "Kuumenna uuni 210 asteeseen.",
+      "Poista kurpitsasta siemenet ja kuidut ja leikkaa kurpitsa isoiksi paloiksi. Aseta kuoripuoli alaspäin öljyllä sivellylle pellille. Mausta suolalla ja pippurilla, ripottele päälle meirami ja valkosipuli, peitä foliolla ja paista noin 45 minuuttia pehmeäksi.",
+      "Ota uunista ja anna jäähtyä. Leikkaa kurpitsan liha pieniksi kuutioiksi kuoresta ja säästä paistoliemi.",
+      "Kuumenna kanaliemi ja tarkista maku.",
+      "Sulata 6 rkl voita ja 2 rkl oliiviöljyä leveässä paksupohjaisessa pannussa tai kattilassa. Lisää sipuli ja kuullota pehmeäksi. Lisää riisi ja sekoita, kunnes se on kauttaaltaan öljyn peitossa. Lisää vermutti ja sekoita, kunnes riisi on imenyt sen.",
+      "Nosta lämpö keskikorkeaksi ja lisää liemi noin 1¼ dl kerrallaan sekoittaen, kunnes riisi on imenyt liemen kokonaan. Jatka, kunnes kaikki liemi on käytetty.",
+      "Sekoita joukkoon loppu voi pieninä paloina, kurpitsa paistoliemineen ja juusto. Tarjoa heti ripottelemalla päälle juustoa ja tuoretta meiramia."
+    ],
+    "notes": ["Risottoriisi on pulleaa, keskipitkää tärkkelyspitoista riisiä, kuten arborio tai carnaroli."]
+  },
+  {
+    "id": "wikibooks-pumpkin-roll",
+    "title": "Kurpitsarulla",
+    "description": "Perinteinen juhlajälkiruoka: mausteinen kurpitsakakkurulla tuorejuustotäytteellä ja pekaanipähkinöillä.",
+    "servings": 10,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kurpitsa", "kakku", "amerikkalainen"],
+    "ingredients": [
+      "Kakku:",
+      "2½ dl sokeria",
+      "3 munaa, vatkattuna",
+      "1½ dl kurpitsasosetta",
+      "1¾ dl vehnäjauhoja",
+      "½ tl suolaa",
+      "1 tl kanelia",
+      "1 tl ruokasoodaa",
+      "¾ dl pekaanipähkinöitä, hienonnettuna",
+      "Täyte:",
+      "1 pkt (230 g) tuorejuustoa",
+      "1 tl vaniljaa",
+      "2 rkl voita",
+      "2½ dl tomusokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Sekoita sokeri, munat ja kurpitsa isossa kulhossa tasaiseksi.",
+      "Sekoita toisessa kulhossa jauhot, suola, kaneli ja ruokasooda.",
+      "Kääntele jauhoseos kurpitsaseokseen.",
+      "Vuoraa uunipelti voidellulla leivinpaperilla niin, että paperi ulottuu pellin reunojen yli.",
+      "Kaada taikina tasaisesti pellille.",
+      "Ripottele taikinan päälle pekaanipähkinät.",
+      "Paista 190 asteessa 15 minuuttia.",
+      "Ota sivuun ½ dl tomusokeria myöhempää käyttöä varten.",
+      "Vatkaa tuorejuusto, vanilja, voi ja loput tomusokerista tasaiseksi. Aseta sivuun.",
+      "Levitä puhdas keittiöpyyhe tasaiselle pinnalle ja ripottele sille sivuun otettu tomusokeri.",
+      "Kun kakku on kypsä mutta ei vielä jäähtynyt, käännä se pyyhkeelle.",
+      "Rullaa kakku löyhästi ja anna jäähtyä kokonaan, jotta se asettuu.",
+      "Kun rulla on jäähtynyt, availe se.",
+      "Levitä täyte kakun päälle.",
+      "Rullaa kakku ja täyte kierteeksi.",
+      "Kääri foliolla tai kelmuun ja pakasta.",
+      "Kun rulla on jäätynyt, poista folio ja leikkaa viipaleiksi vielä jäisenä."
+    ],
+    "notes": ["Pekaanipähkinöiden tilalle sopivat muut hienonnetut pähkinät."]
+  },
+  { "id": "wikibooks-pumpkin-soup", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-pumpkin-soup-with-curry",
+    "title": "Currykurpitsakeitto",
+    "description": "Sileäksi soseutettu kurpitsakeitto, jossa on currya, muskottia ja kermaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["keitto", "kurpitsa", "curry", "kasvis"],
+    "ingredients": [
+      "1 tlk (425 g) kurpitsasosetta",
+      "9 dl kanalientä (mieluiten vähäsuolaista)",
+      "1 keskikokoinen makea sipuli, hienonnettuna",
+      "1–2 rkl oliiviöljyä",
+      "1 tl currya",
+      "1 mm muskottipähkinää",
+      "1 laakerinlehti",
+      "mustapippuria",
+      "2½ dl kermaa"
+    ],
+    "instructions": [
+      "Kuullota sipuli oliiviöljyssä läpikuultavaksi.",
+      "Lisää kurpitsa ja liemi ja sekoita hyvin.",
+      "Lisää kaikki mausteet ja hauduta vähintään 15 minuuttia. Poista laakerinlehti.",
+      "Anna keiton jäähtyä haaleaksi ja soseuta tehosekoittimessa sileäksi.",
+      "Palauta kattilaan ja lisää kerma. Kuumenna miedolla lämmöllä ja tarjoa heti tai jäähdytä ja säilytä ilmatiiviissä astiassa."
+    ],
+    "notes": ["Voit kokeilla kaksinkertaista määrää currya ja vähän korianteria.", "Keitto on melko paksua. Lisää lientä, jos haluat ohuemman.", "Kasvisliemi toimii kanaliemen tilalla.", "Jäähdytä keitto hyvin ennen soseuttamista, niin muoviastiaan ei tartu oranssia väriä."]
+  },
+  {
+    "id": "wikibooks-pumpkin-substitute",
+    "title": "Kurpitsan korvike (porkkana-lanttusose)",
+    "description": "Porkkanasta ja lantusta tehty sose, joka korvaa kurpitsasoseen resepteissä.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "juures", "sose", "korvike"],
+    "ingredients": [
+      "1 kg porkkana-lanttuseosta",
+      "500 g maustamatonta jogurttia"
+    ],
+    "instructions": [
+      "Keitä kasvikset pehmeiksi ja soseuta sileäksi.",
+      "Lisää jogurtti.",
+      "Käytä kurpitsasoseen tilalla."
+    ],
+    "notes": ["Pakastettu porkkana-lanttuseos tekee tästä helppoa.", "Soseuta huolellisesti sileäksi.", "Muut talvikurpitsat toimivat myös korvikkeina."]
+  },
+  { "id": "wikibooks-pupuru-nigerian-cassava-swallow", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  { "id": "wikibooks-pupusas", "skip": "liian puutteellinen (maissijauhon määrä puuttuu ja täytteet sekavasti)" },
+  {
+    "id": "wikibooks-puri-indian-fried-flatbread",
+    "title": "Puri – intialainen friteerattu leipä",
+    "description": "Pienet kullanruskeiksi friteeratut ja pullistuvat intialaiset leivät.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "leipä"],
+    "ingredients": [
+      "1 dl täysjyvävehnäjauhoja",
+      "1 dl vehnäjauhoja",
+      "60 g hienoa mannasuurimoa",
+      "¼ tl suolaa",
+      "1 rkl rypsiöljyä taikinaan",
+      "n. 5 dl rypsiöljyä friteeraukseen",
+      "vettä taikinaan"
+    ],
+    "instructions": [
+      "Laita kaikki kuivat ainekset kulhoon.",
+      "Lisää suola ja valuta päälle 1 rkl öljyä. Sekoita hyvin.",
+      "Lisää vähitellen vettä, kunnes taikina on jäykkää.",
+      "Vaivaa taikinaa hyvin muutama minuutti.",
+      "Peitä taikina ja anna levätä noin puoli tuntia.",
+      "Kaada friteerausöljy wokkiin tai muuhun syvään pannuun ja kuumenna.",
+      "Jaa taikina sillä välin 8 pieneen palloon ja kaulitse jokainen pieneksi ympyräksi (noin 7,5 cm). Voit käyttää kaulitsemiseen hieman kuumaa öljyä, ettei taikina tartu alustaan.",
+      "Tarkista, onko öljy tarpeeksi kuumaa: pieni taikinapala nousee heti pintaan. Kun öljy on valmista, laske litistetty taikina öljyyn, paina päältä kevyesti reikäkauhalla, kunnes se pullistuu, ja käännä toiselle puolelle. Säädä lämpöä tarpeen mukaan.",
+      "Nosta puri öljystä kullanruskeana ritilälle tai talouspaperille valumaan."
+    ],
+    "notes": ["Chapatitaikinaan ei käytetä mannasuurimoa eikä vehnäjauhoja, vain täysjyvävehnäjauhoja, suolaa ja öljyä.", "Jos taikina uppoaa nopeasti pohjaan, öljy ei ole tarpeeksi kuumaa ja puri imee liikaa rasvaa."]
+  },
+  {
+    "id": "wikibooks-purple-plum-pie",
+    "title": "Luumupiirakka murukuorrutteella",
+    "description": "Tuoreista luumuista ja murukuorrutteesta tehty piirakka.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "luumu", "piirakka", "amerikkalainen"],
+    "ingredients": [
+      "Täyte:",
+      "1 l tuoreita luumuja, viipaloituna",
+      "1¼ dl sokeria",
+      "½ dl vehnäjauhoja",
+      "¼ tl suolaa",
+      "¼ tl kanelia",
+      "1 rkl sitruunamehua",
+      "1 raaka syvä piirakkapohja (23 cm)",
+      "Murukuorrute:",
+      "1¼ dl sokeria",
+      "1¼ dl vehnäjauhoja",
+      "¼ tl kanelia",
+      "¼ tl muskottipähkinää",
+      "3 rkl kylmää voita tai margariinia"
+    ],
+    "instructions": [
+      "Sekoita kulhossa luumut, sokeri, jauhot, suola, kaneli ja sitruunamehu. Siirrä piirakkapohjaan.",
+      "Sekoita murukuorrutetta varten sokeri, jauhot, kaneli ja muskotti pienessä kulhossa. Nypi joukkoon voi, kunnes seos on karkeaa muruseosta. Ripottele täytteen päälle.",
+      "Paista 190 asteessa 50–60 minuuttia, kunnes pinta kuplii ja on kullanruskea. Peitä pohjan reunat foliolla viimeisten 20 minuutin ajaksi, ettei ne ruskistu liikaa.",
+      "Jäähdytä ritilällä."
+    ]
+  },
+  { "id": "wikibooks-pure-mongole", "skip": "liian puutteellinen (mausteiden ja nesteiden määrät puuttuvat)" },
+  {
+    "id": "wikibooks-puttanesca-sauce-vegan",
+    "title": "Vegaaninen puttanesca-kastike",
+    "description": "Tomaatti-oliivi-kapris-kastike pastan päälle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["vegaaninen", "kasvis", "pasta", "italialainen"],
+    "ingredients": [
+      "½–1¼ dl oliiviöljyä",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "1 tlk (800 g) tomaattimurskaa",
+      "1¼ dl kalamata-oliiveja, kivettöminä ja pilkottuna",
+      "1¼ dl suolattuja mustia oliiveja, kivettöminä ja pilkottuna",
+      "2 rkl kaprisia, huuhdeltuina",
+      "1 tl murskattua chiliä",
+      "1 tl kuivattua oreganoa",
+      "1 mm pippuria",
+      "2 rkl persiljaa",
+      "suolaa",
+      "450 g keitettyä pastaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paistinpannussa.",
+      "Lisää valkosipuli ja paista keskilämmöllä, kunnes se alkaa kevyesti ruskistua.",
+      "Lisää oregano, pippuri, oliivit, kaprikset ja tomaatit. Hauduta noin 15 minuuttia.",
+      "Lisää persilja ja kypsennä vielä 2 minuuttia.",
+      "Mausta suolalla maun mukaan.",
+      "Kaada 450 g:n keitetyn pastan päälle ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-puttu-steamed-rice-flour-and-coconut",
+    "title": "Puttu – höyrytetty riisijauho ja kookos",
+    "description": "Keralalainen aamiaisruoka riisijauhosta ja kookoksesta, jota syödään banaanin, kikhernecurryn tai kanacurryn kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["vegaaninen", "kasvis", "intialainen", "kookos"],
+    "ingredients": [
+      "1 keskikokoinen kookospähkinä",
+      "10 dl puttu-jauhoa (riisijauhoa)",
+      "suolaa",
+      "vettä jauhojen kostuttamiseen"
+    ],
+    "instructions": [
+      "Raasta kookospähkinän liha hienoksi.",
+      "Sekoita leveässä kulhossa puttu-jauho ja suola. Lisää puolet raastetusta kookoksesta.",
+      "Hiero seosta sormenpäillä ja ripottele sekaan vettä, kunnes se on kosteaa ja karkearakenteista.",
+      "Jätä seos tunniksi, jos käytät valmista jauhoa, sillä se imee enemmän vettä.",
+      "Tarkista koostumus: seoksesta pitää saada pallo, joka murenee helposti. Säädä veden määrää.",
+      "Levitä hieman kookosta puttu-astian (puttu kutti) pohjalle ja täytä astia kostealla jauholla kerroksittain kookoksen kanssa.",
+      "Höyrytä astiassa tai painekattilan päällä. Muutaman minuutin kuluttua astian yläosasta alkaa tulla höyryä. Valmista tulee 4 minuutissa.",
+      "Tarjoa kuumana kikhernecurryn, keitettyjen mung-papujen ja pappadamin tai höyrytettyjen banaanien kanssa."
+    ],
+    "notes": ["Puttua voi valmistaa riisi-, vehnä-, maissi-, ragi- tai tapiokajauhosta."]
+  },
+  { "id": "wikibooks-qabuli-central-asian-rice-pilaf", "skip": "liian puutteellinen (rasvan, tomaattitahnan ja mausteiden määrät puuttuvat)" },
+  { "id": "wikibooks-qarabagli-mimli-maltese-stuffed-summer-squash", "skip": "liian sekava ohje (kolme täytevaihtoehtoa ja kolme kypsennystapaa, puutteellisia määriä)" },
+  {
+    "id": "wikibooks-quail-egg-and-chili-jangjorim",
+    "title": "Viiriäisenmuna-jangjorim",
+    "description": "Korealainen soijaliemessä haudutetut viiriäisenmunat chilillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["muna", "korealainen", "kasvis", "chili"],
+    "ingredients": [
+      "24 viiriäisenmunaa",
+      "7 dl vettä",
+      "2½ dl soijakastiketta",
+      "1¼ dl sokeria",
+      "½ dl riisiviiniä (mirin tai ruoanlaittoviiniä)",
+      "6 valkosipulinkynttä",
+      "3 viipaletta tuoretta inkivääriä",
+      "3 kuivattua punaista chiliä"
+    ],
+    "instructions": [
+      "Kuumenna kattilallinen vettä kiehuvaksi. Lisää viiriäisenmunat ja keitä noin 10 minuuttia.",
+      "Valuta munat varovasti ja jäähdytä kylmässä vedessä.",
+      "Kuori jäähtyneet munat.",
+      "Laita vesi, soijakastike, sokeri, viini, valkosipuli ja inkivääri kattilaan. Kuumenna kiehuvaksi.",
+      "Lisää munat ja hauduta, kunnes neste on vähentynyt puoleen.",
+      "Lisää chilit ja kypsennä vain 1–2 minuuttia."
+    ],
+    "notes": ["1 rkl suolaa ja etikkaa keitinveteen helpottaa munien kuorimista.", "Älä kypsennä chilin lisäämisen jälkeen pitkään, sillä se pehmenee liikaa."]
+  },
+  { "id": "wikibooks-quaker-oat-soup", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  { "id": "wikibooks-quaker-oat-swallow", "skip": "liian puutteellinen (aineksille ei ole määriä)" },
+  {
+    "id": "wikibooks-queen-of-puddings",
+    "title": "Queen of puddings – englantilainen leipävanukas",
+    "description": "Englantilainen leipävanukas, jonka päällä on hillokerros ja pehmeä marenki.",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vanukas", "muna", "englantilainen"],
+    "ingredients": [
+      "5 dl maitoa",
+      "1 dl sokeria",
+      "1 sitruunan kuori, raastettuna",
+      "55 g voita",
+      "100 g tuoreita korppujauhoja (n. 1 l)",
+      "4 munaa, erotettuna",
+      "4 rkl vadelmahilloa tai muuta hilloa",
+      "2 rkl vaniljasokeria",
+      "muutama tippa sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna maito, sokeri, sitruunankuori ja voi lähes kiehuvaksi.",
+      "Kaada korppujauhojen päälle ja anna seoksen jäähtyä hieman, noin 10 minuuttia.",
+      "Vatkaa keltuaiset ja sekoita korppujauho-maitoseokseen.",
+      "Kaada voideltuun uunivuokaan ja paista 180 asteessa 35 minuuttia.",
+      "Ota uunista ja anna jäähtyä 10 minuuttia.",
+      "Levitä pinnalle lämmitetty hillo varoen rikkomasta vanukkaan pintaa.",
+      "Vaahdota valkuaiset vaniljasokerin ja muutaman sitruunamehutipan kanssa pehmeäksi vaahdoksi.",
+      "Levitä marenki vanukkaan päälle. Palauta uuniin ja paista 15 minuuttia, kunnes marenki on ruskistunut.",
+      "Tarjoa sellaisenaan tai vaniljakastikkeen kanssa."
+    ]
+  },
+  { "id": "wikibooks-queens-sauce-hartshorne", "skip": "epäuskottava ohje (3 rkl suolaa ja 3 rkl pippuria)" },
+  { "id": "wikibooks-queens-soup", "skip": "liian puutteellinen (liemen määrä puuttuu)" },
+  {
+    "id": "wikibooks-quesadilla",
+    "title": "Quesadilla",
+    "description": "Juustolla ja täytteellä täytetty paistettu vehnätortillavoileipä. Ainekset yhdelle annokselle.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Pääruoat",
+    "tags": ["juusto", "meksikolainen", "nopea", "tortilla"],
+    "ingredients": [
+      "2 vehnätortillaa (15 cm)",
+      "¾ dl raastettua sulavaa juustoa (esim. Monterey Jack- ja cheddar-seos)",
+      "½ dl täytettä (ks. vaihtoehdot)",
+      "paistosuihketta tai öljyä",
+      "Täytevaihtoehdot:",
+      "salsaa",
+      "chilejä",
+      "pilkottuja tomaatteja ja korianteria",
+      "kypsää lihaa tai äyriäisiä",
+      "tuoretta pinaattia, pienenä repeltynä",
+      "valutettuja mustia papuja"
+    ],
+    "instructions": [
+      "Lämmitä molemmat tortillat mikrossa joustaviksi ja pidä toinen lämpimänä.",
+      "Kuumenna paistinpannu tai paistopinta keskimiedolle. Voitele öljyllä tai paistosuihkeella ja aseta toinen tortilla pannulle.",
+      "Ripottele raastettu juusto tortillan päälle.",
+      "Lisää juuston päälle haluamasi täytteet, mieluiten lämmitettyinä ja hyvin valutettuina. Levitä ne tasaisesti.",
+      "Anna juuston sulaa. Tortilla saa ruskistua paikoin, mutta sen väri ei saa muuttua paljon.",
+      "Paina toinen tortilla päälle niin, että se tarttuu hieman.",
+      "Käännä quesadilla ja anna lämmetä, kunnes osat tarttuvat yhteen.",
+      "Ota pannulta ja leikkaa kahdeksaan kolmioon.",
+      "Syö heti tai pidä lämpimänä matalassa lämmössä."
+    ],
+    "notes": ["Quesadillaa ei yleensä kannata lämmittää uudelleen.", "Maissitortillat sopivat tarpeen tullen, mutta ne eivät pysy yhtä hyvin koossa."]
+  },
+  {
+    "id": "wikibooks-quiche",
+    "title": "Quiche",
+    "description": "Ranskalainen suolainen munamaitopiirakka kermalla, juustolla ja rakuunalla.",
+    "servings": 6,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "muna", "piirakka", "ranskalainen"],
+    "ingredients": [
+      "5 munaa",
+      "3 dl kermaa (n. 30 % rasvaa)",
+      "1 tl tuoretta rakuunaa, hienonnettuna",
+      "1 ripaus muskottipähkinää",
+      "¼ tl suolaa",
+      "1 mm pippuria",
+      "1 valmis pakastettu piirakkapohja",
+      "1¾ dl tuoreeltaan raastettua emmental-juustoa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Laita munat, kerma, rakuuna, muskotti, suola ja pippuri tehosekoittimeen. Sekoita mahdollisimman lyhyesti tasaiseksi.",
+      "Aseta piirakkapohjaan vuorotellen raastettua juustoa ja sekoittimen seosta, kunnes pohja on täynnä.",
+      "Paista piirakkaa 35–40 minuuttia. Hammastikku tai haarukka keskelle työnnettynä tulee puhtaana ulos.",
+      "Ota piirakka uunista ja anna jäähtyä vähintään 20 minuuttia ennen tarjoilua."
+    ],
+    "notes": ["Käytä muskottia säästeliäästi.", "Tuore rakuuna on parempaa kuin kuivattu.", "Kuuma pelti piirakan alla antaa enemmän tilavuutta.", "Kokeile piirakkaa kuullotetulla sipulilla, parsakaalilla ja cheddarilla."]
+  },
+  {
+    "id": "wikibooks-quick-and-delicious-pineapple-upside-down-cake",
+    "title": "Nopea ananas-upside-down-kakku",
+    "description": "Valmiista kakkusekoituksesta tehty nopea ylösalaisin käännetty ananaskakku.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "kakku", "ananas", "amerikkalainen"],
+    "ingredients": [
+      "115 g voita tai margariinia",
+      "2½ dl vaaleaa fariinisokeria",
+      "1 tlk ananasrenkaita",
+      "8–12 maraschino-kirsikkaa",
+      "½ dl murskattuja pekaanipähkinöitä (valinnainen)",
+      "1 pkt keltaista kakkusekoitusta (n. 500 g)"
+    ],
+    "instructions": [
+      "Sulata voi 23 x 33 cm:n vuoassa. Lisää fariinisokeri ja anna sulaa.",
+      "Asettele ananasrenkaat vuokaan ja laita jokaisen renkaan reikään kirsikka. Ripottele murskatut pekaanipähkinät ananasviipaleiden päälle.",
+      "Valmista kakkusekoitus pakkauksen ohjeen mukaan ja korvaa osa vedestä ananasmehulla.",
+      "Kaada taikina fariinisokerin ja ananaksen päälle.",
+      "Paista pakkauksen ohjeen mukaan, kunnes hammastikku tulee puhtaana ulos.",
+      "Irrota kakku reunoilta, aseta lautanen tai tarjoilualusta kakun päälle ja käännä kakku ylösalaisin.",
+      "Anna jäähtyä ennen tarjoilua."
+    ]
+  }
+]
