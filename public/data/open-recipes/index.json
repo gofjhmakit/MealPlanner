@@ -1,6 +1,6 @@
 {
- "version": "2026-10-03-4fjjer",
- "generatedAt": "2026-10-03T07:08:14.214Z",
+ "version": "2026-10-04-iuypgw",
+ "generatedAt": "2026-10-04T17:28:15.894Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -21,8 +21,8 @@
    "attribution": "U.S. Department of Agriculture, Center for Nutrition Policy and Promotion – MyPlate Kitchen. Kuvat ja säilytetty kokoelma: MyPlate.food.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "myplate.json",
-   "count": 744,
-   "withImage": 744
+   "count": 794,
+   "withImage": 794
   },
   {
    "id": "unitools",
@@ -43,7 +43,7 @@
    "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.",
    "file": "forkrecipe.json",
-   "count": 158,
+   "count": 182,
    "withImage": 0
   },
   {
@@ -54,7 +54,7 @@
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "wikibooks.json",
-   "count": 1322,
+   "count": 1382,
    "withImage": 0
   }
  ]

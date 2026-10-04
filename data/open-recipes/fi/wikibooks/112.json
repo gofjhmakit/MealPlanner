@@ -1,0 +1,653 @@
+[
+  {
+    "id": "wikibooks-raita",
+    "title": "Raita",
+    "description": "Intialainen jogurttikastike, joka viilentää tulisia ruokia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "intialainen", "dippi", "nopea"],
+    "ingredients": [
+      "½ dl raastettua kurkkua",
+      "1¼ dl maustamatonta jogurttia",
+      "2–3 mintunlehteä, hienonnettuna",
+      "2 korianterinlehteä, hienonnettuna",
+      "1–2 rkl hienonnettua sipulia (valinnainen)",
+      "suolaa",
+      "chilijauhetta",
+      "jauhettua juustokuminaa"
+    ],
+    "instructions": [
+      "Purista raastetusta kurkusta ylimääräinen neste pois.",
+      "Sekoita kurkku jogurttiin.",
+      "Lisää mintut, korianteri ja sipuli.",
+      "Mausta suolalla.",
+      "Ripottele pinnalle hieman juustokuminaa ja halutessasi chilijauhetta.",
+      "Jäähdytä ja tarjoa kylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-rajma-sindhi-kidney-bean-curry",
+    "title": "Rajma (sindhiläinen kidneypapucurry)",
+    "description": "Mausteinen intialainen punaisista kidneypavuista tehty curry.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "intialainen", "papu"],
+    "ingredients": [
+      "250 g kuivattuja punaisia kidneypapuja",
+      "1 ripaus ruokasoodaa",
+      "75 g sipulia, hienonnettuna",
+      "öljyä",
+      "100 g tomaattia, pilkottuna",
+      "3–4 chilimpaprikaa, hienonnettuna",
+      "suolaa",
+      "1–2 rkl punaista chilijauhetta",
+      "2–3 rkl garam masalaa",
+      "1–2 rkl mustapippuria"
+    ],
+    "instructions": [
+      "Liota papuja vedessä yön yli. Valuta.",
+      "Peitä pavut vedellä ja lisää ruokasooda. Keitä reippaasti vähintään 30 minuuttia, kunnes pavut ovat pehmeitä. Valuta ja ota talteen 1 dl keitinvettä.",
+      "Paista sipulia pannulla öljyssä kullanruskeaksi. Lisää tomaatit ja chilit ja paista, kunnes öljy erottuu.",
+      "Lisää pavut ja keitinvesi ja keitä 5–10 minuuttia.",
+      "Lisää suola ja chilijauhe.",
+      "Ota pois levyltä ja sekoita joukkoon garam masala ja pippuri.",
+      "Tarjoa kuumana rotin tai riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-rasam-tamarind-and-tomato-soup",
+    "title": "Rasam (tamarindi-tomaattikeitto)",
+    "description": "Eteläintialainen ohut, mausteinen keitto, joka tarjoillaan riisin päällä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kasvis", "intialainen", "keitto"],
+    "ingredients": [
+      "Rasam-mausteseos:",
+      "2 tl öljyä tai ghee-voita",
+      "1 rkl korianterin siemeniä",
+      "3–4 kuivattua punaista chiliä",
+      "1 tl juustokuminan siemeniä",
+      "1 pieni ripaus asafoetidaa",
+      "Keitto:",
+      "15 g toor dal -linssejä",
+      "1 tl kurkumaa",
+      "1 tl ruokaöljyä",
+      "3 tomaattia",
+      "1–2 tl tamarindisosetta",
+      "suolaa",
+      "1 tl sokeria",
+      "vettä",
+      "Mausteöljy:",
+      "1 rkl ghee-voita (tai voita ja öljyä)",
+      "1 tl mustia sinapinsiemeniä",
+      "1 tl urad dal -linssejä tai juustokuminan siemeniä",
+      "2 kuivattua punaista chiliä",
+      "4 currylehteä",
+      "1 kourallinen hienonnettua korianterinlehteä"
+    ],
+    "instructions": [
+      "Paahda mausteseoksen ainekset pannulla öljyssä tai ghee-voissa, asafoetida viimeisenä, kunnes mausteet alkavat hieman ruskistua.",
+      "Jauha seos hienoksi jauheeksi. Korianterin siemenet ovat vaikeita jauhaa.",
+      "Huuhtele toor dal huolellisesti, kunnes vesi on kirkasta.",
+      "Lisää kaksinkertainen määrä vettä, kurkuma ja teelusikallinen öljyä. Keitä kannen alla hellalla hiljalleen tai painekattilassa, kunnes dal on sosemaista.",
+      "Pilko tomaatit neljään osaan, laita ne vesi täyteen kattilaan ja kuumenna kiehuvaksi.",
+      "Lisää tamarindi, suola ja sokeri. Tamarindi on usein hyvin karvasta, joten lisää sitä vähän kerrallaan.",
+      "Kun tomaatit ovat puolikypsiä, lisää keitetty dal.",
+      "Lisää rasam-mausteseosta maun mukaan, yleensä 4–5 tl. Keiton tulee olla melko tulinen eikä tamarindi tai sokeri saa dominoida. Anna hautua miedolla lämmöllä.",
+      "Kuumenna ghee pienessä pannussa ja lisää sinapinsiemenet, urad dal, chilit ja currylehdet. Dalin pitää alkaa ruskistua ja sinapinsiementen poksahdella. Älä pala mausteita. Kaada mausteöljy heti keittoon ja sekoita.",
+      "Lisää korianteri. Tarjoa kuuman, pehmeän keitetyn riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-rasmalai-indian-cheese-and-milk-dessert",
+    "title": "Rasmalai (intialainen juusto-maitojälkiruoka)",
+    "description": "Suosittu intialainen jälkiruoka: juustopyörykät makeassa kardemummamaidossa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "intialainen", "juhla"],
+    "ingredients": [
+      "250 g paneer-juustoa tai chennaa (rahkamaista juustoa)",
+      "2½ rkl vehnäjauhoja",
+      "10 dl sokeria",
+      "2,4 l maitoa",
+      "¼ tl kardemummajauhetta",
+      "4 manteleita",
+      "4 pistaasipähkinää"
+    ],
+    "instructions": [
+      "Murenna paneer ja vaivaa sitä.",
+      "Lisää 2 rkl jauhoja ja vaivaa kämmenellä sileäksi taikinaksi.",
+      "Jaa taikina 16 yhtä isoon osaan, pyörittele palloiksi ja painele hieman litteiksi.",
+      "Siivuta mantelit ja pistaasit ohuiksi. Liuota 5 dl sokeria 5 dl:aan vettä ja kuumenna kiehuvaksi.",
+      "Laske juustopallot varovasti kiehuvaan siirappiin ja keitä isolla lämmöllä kymmenen minuuttia. Ripottele päälle vähän vettä ja ½ rkl jauhoja ja kuumenna uudelleen kiehuvaksi. Keitä muutama minuutti.",
+      "Kiehauta sillä välin maito paksupohjaisessa kattilassa, laske lämpöä ja keitä, kunnes määrä on vähentynyt noin kolmannekseen.",
+      "Lisää loput sokerista ja kardemumma ja keitä, kunnes sokeri on liuennut. Ota pois liedeltä, jäähdytä ja anna olla jääkaapissa tunti.",
+      "Lisää siivutut mantelit ja pistaasit ja sekoita.",
+      "Purista juustopalloista siirappi pois ja laita ne kylmään makeaan maitoon. Anna olla jääkaapissa vielä puoli tuntia. Tarjoa kylmänä."
+    ]
+  },
+  { "id": "wikibooks-raspberry-cuts", "skip": "puutteellinen resepti (sokerin määrä puuttuu, epäselvä marjakiisseliaines)" },
+  {
+    "id": "wikibooks-raspberry-filled-pastry-strips-alexandertorte",
+    "title": "Alexandertorte (vadelmahillolla täytetyt leivonnaispalat)",
+    "description": "Kerrostettu murotaikinaleivonnainen vadelmahillolla ja sokerikuorrutteella.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["juhla", "marja", "leivonnainen"],
+    "ingredients": [
+      "Taikina:",
+      "225 g kylmää voita, pieninä paloina",
+      "8,5 dl vehnäjauhoja",
+      "3 rkl sokeria",
+      "1 kananmuna",
+      "Täyte:",
+      "3,6 dl vadelmahilloa",
+      "Voideltavaksi:",
+      "2 rkl pehmeää voita",
+      "vehnäjauhoja pellin jauhottamiseen",
+      "Kuorrute:",
+      "5 dl tomusokeria",
+      "1¼ dl kylmää vettä",
+      "2 tl sitruunamehua"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa kylmä voi, 7½ dl jauhoja ja sokeri. Hiero sormenpäillä, kunnes seos muistuttaa karkeaa jauhoa. Vatkaa joukkoon kananmuna ja työstä taikina sileäksi. Muotoile palloksi, kääri leivinpaperiin ja jäähdytä tunti, kunnes taikina on kiinteää.",
+      "Painele hilloa hienon siivilän läpi kattilaan ja keitä keskilämmöllä jatkuvasti sekoittaen 3–5 minuuttia, kunnes se sakenee ohueksi soseeksi. Ota pois lämmöltä.",
+      "Kuumenna uuni 120 asteeseen.",
+      "Puolita taikina ja muotoile kumpikin puolikas suorakaiteeksi. Kaulitse yksi puolikas kerrallaan kevyesti jauhotettujen leivinpaperien välissä noin 25 x 38 cm:n suorakaiteeksi.",
+      "Voitele kaksi pellillistä siveltimellä 1 rkl:lla voita ja ripottele jauhoja pinnalle. Kaada ylimääräiset jauhot pois.",
+      "Poista päällimmäiset paperit ja nosta suorakaiteet alapaperien avulla pelleille. Poista loput paperit.",
+      "Paista 40 minuuttia, kunnes taikina alkaa vaalean kullata. Tarkkaile palamista ja säädä lämpöä. Anna jäähtyä.",
+      "Levitä vadelmasose tasaisesti toiselle levylle. Liu'uta toinen levy varovasti sen päälle.",
+      "Sekoita tomusokeri, vesi ja sitruunamehu ohueksi kuorrutteeksi ja levitä se päälle. Anna jäähtyä huoneenlämpöiseksi.",
+      "Leikkaa kakku 2,5 cm leveiksi ja 5 cm pitkiksi suikaleiksi, päät vinoon."
+    ]
+  },
+  {
+    "id": "wikibooks-raspberry-ripple-cake",
+    "title": "Vadelmakakku",
+    "description": "Vaniljainen voikakku, jossa on vadelmasoseen muodostama marmorikuvio.",
+    "servings": 12,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["marja", "kakku", "leivonnainen"],
+    "ingredients": [
+      "175 g voita, sekä voiteluun",
+      "1¾ dl hienoa sokeria",
+      "1 tl vaniljauutetta",
+      "3 kananmunaa",
+      "175 g (n. 3 dl) vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "6 vadelmaa",
+      "tomusokeria koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Voitele ja vuoraa halkaisijaltaan 20 cm:n kakkuvuoka.",
+      "Vaahdota voi, sokeri ja vanilja kulhossa vaaleaksi ja kuohkeaksi.",
+      "Lisää munat yksi kerrallaan vatkaten.",
+      "Sekoita jauhot ja leivinjauhe taikinaan.",
+      "Soseuta vadelmat tehosekoittimessa.",
+      "Levitä taikina vuokaan.",
+      "Kaada vadelmasose taikinan päälle ja pyörittele pinnalle marmorikuvio vartaalla.",
+      "Paista 20–25 minuuttia, kunnes vartaaseen ei tartu taikinaa.",
+      "Siirrä kakku ritilälle ja anna jäähtyä kokonaan.",
+      "Ripottele päälle tomusokeria."
+    ]
+  },
+  {
+    "id": "wikibooks-raspberry-scones",
+    "title": "Vadelmascones",
+    "description": "Pehmeät scones-leivät, joissa on pakastevadelmia ja limonadia taikinassa.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["marja", "leivonnainen", "nopea"],
+    "ingredients": [
+      "300 g (n. 5½ dl) vehnäjauhoja ja leivinjauhetta (itsestään nousevia jauhoja), sekä jauhotukseen",
+      "55 g hienoa sokeria",
+      "¼ tl suolaa",
+      "1¼ dl + 2 tl vaaleanpunaista sitruunalimonadia",
+      "1,6 dl kuohukermaa",
+      "100 g pakastevadelmia",
+      "vaahdotettua kermaa tarjoiluun (valinnainen)",
+      "vadelmahilloa tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Siivilöi jauhot, sokeri ja suola kulhoon.",
+      "Sekoita kannussa 1¼ dl limonadia ja 1¼ dl kuohukermaa.",
+      "Kaada neste kuivien aineiden joukkoon.",
+      "Sekoita tylsällä veitsellä pehmeäksi, murumaiseksi taikinaksi.",
+      "Kuumenna uuni 220 asteeseen. Jauhota pelti.",
+      "Kumoa taikina jauhotetulle alustalle.",
+      "Ripottele pakastevadelmat taikinan päälle ja vaivaa kevyesti, kunnes ne jakautuvat tasaisesti.",
+      "Painele tai kaulitse taikina 3 cm:n paksuiseksi.",
+      "Leikkaa jauhotetulla 5 cm:n muotilla 8 scones-leipää.",
+      "Siirrä leivät pellille.",
+      "Sekoita loput kermasta ja limonadista toisessa kulhossa ja voitele leivät seoksella.",
+      "Paista 12–14 minuuttia, kunnes pinta on kevyesti ruskistunut.",
+      "Ota uunista ja anna jäähtyä pellillä 5 minuuttia.",
+      "Tarjoa vaahdotetun kerman ja hillon kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-raspberry-shortbread-bars",
+    "title": "Vadelma-murotaikinapatukat",
+    "description": "Vegaaniset ja gluteenittomat patukat, joissa on mantelijauhopohja ja vadelmahilloa.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["vegaaninen", "kasvis", "marja", "leivonnainen"],
+    "ingredients": [
+      "Pohja:",
+      "4,8 dl mantelijauhoa",
+      "2 rkl kookosöljyä",
+      "1 ripaus suolaa",
+      "1 tl vaniljauutetta",
+      "¾ dl vaahterasiirappia",
+      "Hillo:",
+      "4,8 dl pakastevadelmia",
+      "1 rkl vastapuristettua sitruunamehua",
+      "2 rkl vaahterasiirappia",
+      "1 tl vaniljauutetta",
+      "1 tl chiansiemeniä",
+      "1 tl tapiokatärkkelystä",
+      "Päälle:",
+      "¼ pohjataikinan määrästä",
+      "½ dl hienonnettuja manteleita"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Sekoita pohjan ainekset tasaiseksi. Taikinan tulee olla murumaista mutta pysyä koossa painettaessa.",
+      "Levitä taikina voideltuun uunipellilliseen tai vuokaan ja painele lastalla tasaiseksi kerrokseksi.",
+      "Pistele pohja haarukalla ja paista uunissa noin 15 minuuttia.",
+      "Ota uunista ja jätä sivuun.",
+      "Keitä vadelmia ja siirappia kattilassa noin 5 minuuttia keskilämmöllä. Sekoita usein, ettei hillo pala pohjaan.",
+      "Lisää loput hillon aineksista ja keitä, kunnes seos on paksua.",
+      "Murskaa liian suuret vadelmanpalat ennen kuin otat kattilan liedeltä ja annat jäähtyä.",
+      "Levitä jäähtynyt hillo tasaisesti pohjan päälle.",
+      "Valmista neljäsosa pohjataikinasta päällystä varten.",
+      "Murenna päällystaikina, sekoita mantelien kanssa ja ripottele hillon päälle. Paista vielä 15–20 minuuttia.",
+      "Kun pinta on kullanruskea, ota uunista ja anna jäähtyä."
+    ]
+  },
+  { "id": "wikibooks-raspberry-vinegar", "skip": "ei turvallista säilöntäohjetta (pullotus ilman kuumennusta tai happamuuden varmistusta, ei sopivaa tarkkuutta)" },
+  {
+    "id": "wikibooks-rassolnik-russian-barley-and-kidney-soup",
+    "title": "Rassolnik (venäläinen suolakurkku-munuaiskeitto)",
+    "description": "Venäläinen keitto naudan munuaisista, perunoista, suolakurkuista ja suolaheinästä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "venäläinen"],
+    "ingredients": [
+      "500 g naudan munuaisia",
+      "2 rkl voita",
+      "2 persiljanjuurta, suikaloituna",
+      "1 sipuli, suikaloituna",
+      "4 perunaa, viipaloituna",
+      "2 suolakurkkua",
+      "100 g suolaheinää (ruosteritarta)",
+      "suolaa",
+      "smetanaa",
+      "tuoretta persiljaa ja/tai tilliä"
+    ],
+    "instructions": [
+      "Poista munuaisista rasva ja pilko ne paloiksi. Huuhtele hyvin.",
+      "Peitä munuaiset kylmällä vedellä ja kuumenna kiehuvaksi. Valuta vesi pois ja huuhtele munuaiset uudelleen.",
+      "Peitä munuaiset taas kylmällä vedellä ja keitä puoli tuntia. Siivilöi liemi talteen.",
+      "Sulata voi keittokattilassa. Lisää persiljanjuuri ja sipuli ja kuullota, kunnes sipuli on läpikuultavaa.",
+      "Lisää perunaviipaleet ja peitä siivilöidyllä liemellä. Keitä 30 minuuttia.",
+      "Lisää 10 minuuttia ennen kypsymistä kurkut, hienonnettu suolaheinä ja suola.",
+      "Lisää juuri ennen tarjoilua munuaiset, smetana ja persilja tai tilli."
+    ]
+  },
+  {
+    "id": "wikibooks-ratatouille-i",
+    "title": "Ratatouille I",
+    "description": "Perinteinen provencelainen kasvispata, joka sopii pääruoaksi tai lisukkeeksi, kuumana tai kylmänä.",
+    "servings": 3,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "ranskalainen", "kasvispata"],
+    "ingredients": [
+      "oliiviöljyä",
+      "1 sipuli",
+      "1 valkosipulinkynsi tai maun mukaan",
+      "1 munakoiso",
+      "1 paprika (vihreä, punainen, keltainen tai sekoitus)",
+      "2 kesäkurpitsaa",
+      "6 keskikokoista kypsää tomaattia, kuorittuna ja siemenet poistettuna",
+      "suolaa",
+      "mustapippuria",
+      "provencen yrttejä maun mukaan tai 1 pieni nippu basilikaa, suikaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Laita iso padassa miedolle keskilämmölle.",
+      "Kun pata on kuuma, lisää niin paljon oliiviöljyä, että se juuri peittää pohjan.",
+      "Leikkaa kesäkurpitsa ja munakoiso 1 cm:n viipaleiksi ja viipaleet vielä noin 7 x 2,5 cm:n suorakulmioiksi. Lisää padassa.",
+      "Ruskista viipaleita kevyesti, ota pois padasta ja jätä hetkeksi sivuun.",
+      "Hienonna sipuli ja valkosipuli. Leikkaa paprika suikaleiksi tai kuutioiksi.",
+      "Lisää tarvittaessa öljyä ja kypsennä sipulia ja paprikaa hiljalleen noin 10 minuuttia, kunnes ne ovat pehmeitä mutta eivät ruskeita. Lisää valkosipuli.",
+      "Kuori tomaatit ja poista siemenet. Kuutioi tai lohko ne ja lisää pataan. Lisää hieman suolaa, jotta nesteet irtoavat. Peitä ja laske lämpöä.",
+      "Tarkista viiden minuutin kuluttua, onko tomaateista irronnut nestettä niin, että se melkein peittää kasvikset. Jos ei, lisää vähän vettä.",
+      "Mausta suolalla, pippurilla ja provencen yrteillä. Yleensä riittää 1 tl suolaa, ½ tl pippuria ja 1 rkl yrttejä.",
+      "Palauta kesäkurpitsa ja munakoiso kattilaan ja sekoita varovasti. Peitä ja hauduta miedolla lämmöllä, kunnes kasvikset ovat pehmeitä mutta ehjiä, 10–20 minuuttia.",
+      "Ota kansi pois, nosta lämpöä hieman ja kypsennä vielä 15 minuuttia kannetta pitäen, kunnes neste on suurimmaksi osaksi haihtunut ja jäljelle jää vähän lientä ja oliiviöljyä."
+    ],
+    "notes": [
+      "Lisää määriä isompaa annosta varten. Kasviksia voi vaihdella.",
+      "Täytteenä letuissa tai munakkaassa kasvikset leikataan joskus pienemmiksi.",
+      "Jokaisen kasviksen tulisi säilyttää muotonsa, eikä ratatouillen pidä olla sosetta. Vältä ylikypsennystä."
+    ]
+  },
+  {
+    "id": "wikibooks-ratatouille-ii",
+    "title": "Ratatouille II (lapsille sopiva)",
+    "description": "Yksinkertainen ja terveellinen lasten versio ratatouillesta papujen kanssa.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "kasvispata", "nopea", "arkiruoka"],
+    "ingredients": [
+      "1 tlk (400 g) paistettuja papuja tomaattikastikkeessa",
+      "1 sipuli, hienonnettuna",
+      "1 kesäkurpitsa, hienonnettuna",
+      "1 punainen paprika, hienonnettuna",
+      "1 vihreä paprika, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna (valinnainen)",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Laita pannu keskilämmölle.",
+      "Paista sipulia ja valkosipulia hieman öljyssä noin 5 minuuttia, kunnes ne alkavat pehmetä.",
+      "Lisää paprikat ja kesäkurpitsa ja paista hiljalleen vielä 4–5 minuuttia, kunnes ne pehmenevät.",
+      "Lisää pavut ja lämmitä läpi.",
+      "Tarjoa kulhossa sellaisenaan tai paahtoleivän kanssa."
+    ],
+    "notes": ["Lisää määriä isompaa annosta varten ja vaihtele kasviksia maun mukaan."]
+  },
+  {
+    "id": "wikibooks-rava-dosa-indian-semolina-pancake",
+    "title": "Rava dosa (intialainen mannapannukakku)",
+    "description": "Ohut ja rapea intialainen pannukakku riisijauhoista, vehnäjauhoista ja mannasuurimoista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "intialainen", "pannukakku"],
+    "ingredients": [
+      "2,4 dl riisijauhoja",
+      "2,4 dl vehnäjauhoja",
+      "1,2 dl mannasuurimoita",
+      "suolaa",
+      "3 vihreää chilimpaprikaa",
+      "½ tl juustokuminaa",
+      "1,2 dl piimää",
+      "vettä",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset vetiseksi taikinaksi.",
+      "Kuumenna paistinpannu tai levy ja voitele se öljyllä.",
+      "Ripottele taikinaa pannulle kädellä.",
+      "Paista keskilämmöllä 3–4 minuuttia, kunnes pannukakku on kypsä.",
+      "Tarjoa tomaatti- tai maapähkinächutneyn kanssa."
+    ]
+  },
+  { "id": "wikibooks-ravioli", "skip": "täytteet puuttuvat ainesosista ja ohjeesta, ei kokonaista reseptiä" },
+  {
+    "id": "wikibooks-recato-puerto-rican-culantro-sauce",
+    "title": "Recaíto (puertoricolainen yrttikastike)",
+    "description": "Puertoricolainen yrtti- ja paprikatahna, jota käytetään monien ruokien pohjana.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike"],
+    "ingredients": [
+      "1 valkosipulin kokonainen kyhmy",
+      "oliiviöljyä",
+      "20 culantro-lehteä (latinalaiskaupoista tai aasialaisista kaupoista)",
+      "1 pieni nippu korianteria",
+      "1 iso vihreä paprika, siemenet ja valkoiset sisäosat poistettuna, kuutioituna",
+      "13–15 isoa makeaa aji-paprikaa, siemenet poistettuna",
+      "2 pientä sipulia, kuutioituna"
+    ],
+    "instructions": [
+      "Leikkaa valkosipulikyhmyn päälaki pois, jotta kynnet paljastuvat. Laita kyhmy foliolle, valuta päälle oliiviöljyä ja kääri folioon. Paahda uunissa, kunnes kynnet ovat vaaleanruskeita ja pehmeitä, noin 30 minuuttia.",
+      "Ota paahdettu valkosipuli uunista ja purista kynnet kuorestaan.",
+      "Laita 2 rkl paahdettua valkosipulia, culantro, korianteri, paprika, aji-paprikat ja sipuli monitoimikoneeseen tai tehosekoittimeen.",
+      "Surauta noin 15 kertaa, kunnes koostumus on lähes sileä."
+    ]
+  },
+  {
+    "id": "wikibooks-red-and-white-onion-tapenade",
+    "title": "Punasipuli-valkosipulitapenade",
+    "description": "Oliiveista, sipuleista ja kapriksista tehty nopea tahna paahtoleivälle.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "nopea", "dippi"],
+    "ingredients": [
+      "1 valkosipulinkynsi",
+      "160 g kivettömiä kalamata-oliiveja",
+      "¾ dl hienonnettua keltasipulia",
+      "¾ dl hienonnettua punasipulia",
+      "2 rkl kaprista, huuhdeltuna ja valutettuna",
+      "1 rkl raastettua sitruunankuorta",
+      "1 rkl tuoreita timjaminlehtiä",
+      "½ dl oliiviöljyä",
+      "paahdettua patonkia tai maalaisleipäviipaleita"
+    ],
+    "instructions": [
+      "Laita monitoimikone käyntiin ja pudota valkosipuli sekaan hienonnettavaksi. Sammuta kone ja lisää oliivit, sipulit, kaprikset, sitruunankuori ja timjami. Surauta karkeaksi.",
+      "Lisää oliiviöljy ja surauta juuri sekoittumaan niin, että rakenne säilyy.",
+      "Tarjoa paahdetun patongin tai maalaisleivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-red-bean-paste",
+    "title": "Punapapumassa",
+    "description": "Adzukipavuista ja sokerista tehty makea massa, jota käytetään kiinalaisessa, japanilaisessa ja korealaisessa keittiössä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 255,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "aasialainen", "papu"],
+    "ingredients": [
+      "2 dl kuivattuja adzukipapuja",
+      "vettä liotukseen ja keittoon",
+      "1½ dl sokeria",
+      "¾ dl rypsiöljyä tai maapähkinäöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Huuhtele pavut ja poista vahingoittuneet. Liota kylmässä vedessä vähintään 4 tuntia tai mieluiten yön yli.",
+      "Valuta ja huuhtele liotetut pavut.",
+      "Laita pieneen kattilaan ja peitä vedellä. Kuumenna kiehuvaksi.",
+      "Keitä papuja 1½–2 tuntia, kunnes ne ovat pehmeitä ja hajoavat hieman. Pidempi keitto tekee massasta sileämpää. Lisää vettä tarvittaessa, ettei kattila kuivu.",
+      "Valuta vesi pois.",
+      "Muussaa pavut käsin (karkea) tai tehosekoittimella (hieno) halutun mukaan. Massa on hyvin paksua, joten tehosekoittimella kannattaa muussata vähän kerrallaan.",
+      "Sekoita joukkoon sokeri. Massan pitäisi olla paksua mutta kosteaa.",
+      "Kuumenna öljy paistinpannulla tai wokissa ja paista massaa lastalla sekoittaen, kunnes vesi on haihtunut. Massa on nyt melko kuivaa ja hieman rakeista.",
+      "Jäähdytä ja säilytä ilmatiiviissä rasiassa. Massa säilyy jääkaapissa vähintään viikon."
+    ],
+    "notes": ["Öljyä on paljon, mutta sitä tarvitaan veden haihduttamiseen kunnolla."]
+  },
+  {
+    "id": "wikibooks-red-bell-peppers-stuffed-with-cheese-and-egg-chushki-byurek",
+    "title": "Juusto-munatäytteiset paprikat (chushki byurek)",
+    "description": "Bulgarialaiset paahdetut paprikat, jotka täytetään juusto-munaseoksella ja paistetaan paneroituna.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "bulgarialainen", "juusto"],
+    "ingredients": [
+      "1 kg punaisia paprikoita",
+      "250 g suolaliemessä säilytettyä lampaanjuustoa (feta)",
+      "6 kananmunaa",
+      "korppujauhoja",
+      "auringonkukkaöljyä paistamiseen",
+      "suolaa",
+      "persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Paahda paprikat, kuori ja poista siemenet.",
+      "Sekoita murennettu juusto ja 4 kananmunaa. Täytä paprikat seoksella.",
+      "Riko loput kaksi munaa ja vatkaa.",
+      "Pyörittele täytetyt paprikat korppujauhoissa ja munassa.",
+      "Paista paneroidut paprikat kuumassa öljyssä.",
+      "Tarjoa hienonnetun persiljan kera."
+    ]
+  },
+  {
+    "id": "wikibooks-red-chile-sauce",
+    "title": "Punainen chilikastike",
+    "description": "Kuivatuista punaisista chileistä soseutettu kastike enchiladoihin, marinadiksi tai huevos rancheros -annokseen.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "kastike"],
+    "ingredients": [
+      "90 g kuivattuja chilipaprikoita (esim. New Mexico -chiliä)",
+      "5 dl kuumaa vettä (hieman jäähtynyttä keitettyä vettä)",
+      "1 rkl rypsiöljyä",
+      "½ sipulia, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tl jauhettua juustokuminaa",
+      "1 rkl meksikolaista oreganoa",
+      "suolaa",
+      "sokeria (tarvittaessa)"
+    ],
+    "instructions": [
+      "Pyyhi chilit kostealla liinalla. Käsittele chilejä varoen ja käytä käsineitä.",
+      "Katkaise varret ja poista siemenet.",
+      "Liota chilejä kuumassa vedessä, kunnes ne pehmenevät, noin tunti.",
+      "Maista liotusvettä. Jos se on karvasta, vaihda vesi uuteen.",
+      "Soseuta chilit ja vesi tehosekoittimella.",
+      "Kuumenna öljy pannulla ja lisää sipuli, valkosipuli ja mausteet.",
+      "Kun sipuli on kypsää, lisää chilisose pannulle. Hauduta 15 minuuttia.",
+      "Soseuta seos vielä uudelleen tehosekoittimella.",
+      "Kaada kastike siivilän läpi. Sekoita ja painele lusikalla, jotta kaikki kastike irtoaa.",
+      "Mausta suolalla. Jos kastike on hieman karvasta, lisää hieman sokeria."
+    ],
+    "notes": [
+      "Kastike pakastuu hyvin.",
+      "Kastike voi värjätä joitain materiaaleja, kuten muoveja. Säilytä lasissa."
+    ]
+  },
+  {
+    "id": "wikibooks-red-cross-fudge",
+    "title": "Red Cross -fudge",
+    "description": "Helppo fudge, joka onnistuu aina eikä kiteydy.",
+    "servings": 80,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "juhla", "makeinen", "suklaa"],
+    "ingredients": [
+      "1 kg sokeria",
+      "230 g voita",
+      "3,75 dl haihdutettua maitoa",
+      "1 rkl vaniljauutetta",
+      "120 g minimarsmalloweja",
+      "340 g suklaahippuja",
+      "120 g hienonnettuja saksanpähkinöitä"
+    ],
+    "instructions": [
+      "Laita sokeri, voi, haihdutettu maito ja vanilja kattilaan ja kuumenna voimakkaasti kiehuvaksi.",
+      "Keitä keskilämmöllä 11 minuuttia jatkuvasti sekoittaen.",
+      "Lisää marsmallowt, suklaahiput ja pähkinät ja sekoita hyvin.",
+      "Kaada voideltuun vuokaan ja anna jäähtyä.",
+      "Leikkaa neliöiksi, kun fudge leikkautuu sulamatta takaisin yhteen mutta ei vielä murene.",
+      "Säilytä ilmatiiviissä rasiassa."
+    ],
+    "notes": [
+      "Margariini voin tilalla tekee fudgesta öljyisen. Vaniljajäljitelmä heikentää aromia.",
+      "Myös muut hiput (vanilja, toffee jne.) sopivat."
+    ]
+  },
+  { "id": "wikibooks-red-devils", "skip": "ainesosista puuttuvat määrät" },
+  { "id": "wikibooks-refried-beans", "skip": "ainesosista puuttuvat määrät, ei tarkkaa ohjetta" },
+  {
+    "id": "wikibooks-reindling-austrian-yeasted-easter-cake",
+    "title": "Reindling (itävaltalainen pääsiäishiivakakku)",
+    "description": "Kärntenin perinteinen hiivataikinakakku, jossa on kanelisokeri- ja rusinatäyte.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "juhla", "pääsiäinen", "leivonnainen"],
+    "ingredients": [
+      "Taikina:",
+      "500 g vehnäjauhoja",
+      "40 g tuorehiivaa",
+      "3,6 dl maitoa",
+      "2 kananmunaa",
+      "70–90 g sokeria",
+      "1 reilu ripaus suolaa",
+      "120 g voita, pehmeänä",
+      "Täyte:",
+      "50 g voita, sulatettuna",
+      "100 g sokeria",
+      "1 rkl kanelia",
+      "100 g rusinoita",
+      "100 g hienoksi jauhettuja pähkinöitä (valinnainen)",
+      "Päälle:",
+      "60 g voita, pieninä paloina"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja hiiva ja lisää hieman maitoa ja sokeria, niin että seos on tasaista.",
+      "Peitä liinalla ja anna levätä lämpimässä puoli tuntia.",
+      "Lisää loput maidosta ja sokerista, munat, voi ja suola. Vaivaa sileäksi taikinaksi.",
+      "Anna levätä 10 minuuttia. Kaulitse taikina noin peukalon paksuiseksi.",
+      "Sulata täytteen voi ja levitä taikinan päälle.",
+      "Sekoita sokeri ja kaneli ja ripottele taikinan päälle. Lisää rusinat ja pähkinät.",
+      "Rullaa taikina tiukaksi rullaksi ja laita voideltuun kakkuvuokaan. Anna levätä 20 minuuttia.",
+      "Ripottele pinnalle voinokareita. Paista uunissa 50–60 minuuttia noin 180 asteessa.",
+      "Ota uunista ja anna jäähtyä. Kumoa vuoasta vasta kun kakku on täysin kylmä, muuten se murtuu."
+    ]
+  },
+  {
+    "id": "wikibooks-rendang-indonesian-beef-and-coconut-stew",
+    "title": "Rendang (indonesialainen nauta-kookospata)",
+    "description": "Naudanliha kypsennetään hitaasti kookosmaidossa ja mausteissa, kunnes jäljelle jää tuhti mausteinen kastike.",
+    "servings": 10,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["liha", "naudanliha", "indonesialainen", "juhla"],
+    "ingredients": [
+      "Mausteseos:",
+      "2 valkosipulinkynttä",
+      "4 salottisipulia",
+      "25 g inkivääriä",
+      "15 g kurkumaa",
+      "75 g nuorta galangaa",
+      "1 rkl jauhettua tuoretta punaista chiliä",
+      "1 tl pippuria",
+      "½ muskottipähkinää",
+      "2 kukuinpähkinää (candlenut)",
+      "½ rkl suolaa",
+      "1 rkl palmusokeria (gula jawa)",
+      "Pata:",
+      "1 kg naudanlihaa, isoina kuutioina (20 palaa)",
+      "4 limetinlehteä",
+      "1 sitruunaruohon varsi",
+      "2 l kookosmaitoa"
+    ],
+    "instructions": [
+      "Jauha mausteseoksen ainekset tasaiseksi tahnaksi monitoimikoneessa.",
+      "Marinoi lihaa mausteseoksessa vähintään tunti.",
+      "Kuumenna kookosmaitoa miedolla lämmöllä, kunnes pinnalle nousee öljyä (vähintään 20 minuuttia). Sekoita välillä.",
+      "Siirrä liha ja mausteseos isoon wokkiin tai kattilaan. Lisää 3 dl kuumaa kookosmaitoa.",
+      "Keitä keskimiedolla lämmöllä välillä sekoittaen, kunnes puolet kookosmaidosta on haihtunut.",
+      "Lisää vielä 1 dl kuumaa kookosmaitoa ja sekoita, kunnes lähes kaikki on haihtunut.",
+      "Jatka kookosmaidon lisäämistä 1 dl kerrallaan ja keitä, kunnes edellinen erä on haihtunut.",
+      "Kypsennä, kunnes liha on mureaa (vähintään 1½ tuntia) ja lähes kaikki neste on reduusoitunut mausteiseksi kastikkeeksi."
+    ],
+    "notes": [
+      "Jäähtyessään kookosrasva voi jähmettyä. Lämmitä uudelleen pannulla ennen tarjoilua. Uudelleenlämmitetty rendang on usein maukkaampaa.",
+      "Tuore kookosmaito tekee paremman kastikkeen.",
+      "Naudan voi korvata kanalla tai lampaalla."
+    ]
+  }
+]
