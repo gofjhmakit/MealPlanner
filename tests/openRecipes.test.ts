@@ -7,6 +7,8 @@ import { MealPlannerDB } from '../src/db/db'
 import { loadFineliData } from '../src/db/bootstrap'
 import { syncOpenRecipes, type OpenRecipesIndex } from '../src/db/openRecipes'
 import { fineliLookup } from './helpers'
+import { RECIPE_TYPES, recipeType } from '../src/domain/recipeType'
+import { EMPTY_FILTERS, filterRecipes } from '../src/domain/recipeInfo'
 
 let db: MealPlannerDB
 let n = 0
@@ -62,6 +64,7 @@ describe('open recipe catalogue', () => {
     await syncOpenRecipes(db, fakeFetch({ 'index.json': index, 'unitools.json': { recipes: [carbonara, soup] } }), ctx())
 
     const r = (await db.recipes.get('unitools-spaghetti-carbonara'))!
+    expect(r.tags).toContain('tyyppi:ateria')
     expect(r).toMatchObject({ origin: 'catalogue', sourceId: 'unitools', sourceName: source.name, author: 'UniTools (theunitools.com)', imageUrl: carbonara.image.url })
     expect(r.attribution).toMatchObject({ license: 'CC BY-SA 4.0', imageCredit: 'Amin', imageLicense: 'CC BY-SA 4.0', originalTitle: null })
     expect(r.attribution?.changes).toBe('Suomennettu. Muokattu versio on saatavilla samalla CC BY-SA 4.0 -lisenssillä.')
@@ -128,6 +131,8 @@ describe('open recipe catalogue', () => {
     await loadFineliData(db, fineliFetch, () => {}, true)
     expect(await db.recipes.where('sourceId').equals('unitools').count()).toBe(2)
     expect(await db.recipes.where('sourceId').equals('fineli').count()).toBeGreaterThan(1000)
+    const fineliRecipes = await db.recipes.where('sourceId').equals('fineli').toArray()
+    expect(fineliRecipes.every((recipe) => recipe.tags.some((tag) => tag.startsWith('tyyppi:')))).toBe(true)
 
     // Recipes lost some other way come back on the next start despite the same version
     await db.recipes.delete('unitools-borscht')
@@ -139,4 +144,31 @@ describe('open recipe catalogue', () => {
     await syncOpenRecipes(db, fakeFetch(files), ctx(), () => {}, true)
     expect((await db.recipes.get('unitools-borscht'))!.title).toBe('Borssikeitto')
   }, 30000)
+})
+
+describe('recipe purpose filters', () => {
+  it('classifies all catalogue recipes, including older records without purpose tags', () => {
+    const files = ['kitchengadget', 'myplate', 'unitools', 'forkrecipe', 'wikibooks', 'recipearchive', 'openrecipeproject']
+    for (const file of files) {
+      const records = JSON.parse(readFileSync(join(import.meta.dirname, '..', 'public', 'data', 'open-recipes', `${file}.json`), 'utf8')).recipes as { title: string; category: string; tags: string[] }[]
+      expect(records.length).toBeGreaterThan(0)
+      expect(records.every((r) => r.tags.filter((tag) => tag.startsWith('tyyppi:')).length === 1 && recipeType(r) in RECIPE_TYPES)).toBe(true)
+    }
+    expect(recipeType({ title: 'Falafelit yrttikastikkeella', category: 'Pääruoat', tags: [] })).toBe('ateria')
+    expect(recipeType({ title: 'Ruskea kastike', category: 'Kastikkeet ja dipit', tags: [] })).toBe('kastike')
+    expect(recipeType({ title: 'Mustikkakiisseli', category: 'Maitojälkiruoat', tags: [] })).toBe('jalkiruoka')
+    expect(recipeType({ title: 'Sitruunalimonadi', category: 'Juomat', tags: [] })).toBe('juoma')
+    expect(recipeType({ title: 'Ruispuuro', category: 'Vilja ja leivontatuotteet', tags: ['puuro'] })).toBe('aamiainen')
+    expect(recipeType({ title: 'Ruisleipä', category: 'Vilja ja leivontatuotteet', tags: ['leipä, ruis-'] })).toBe('leivonnainen')
+  })
+
+  it('filters by purpose alongside existing search criteria', async () => {
+    const index: OpenRecipesIndex = { version: 'v1', generatedAt: '', sources: [source] }
+    const sauce = { ...soup, id: 'unitools-sauce', title: 'Ruskea kastike', category: 'Kastikkeet ja dipit' }
+    await syncOpenRecipes(db, fakeFetch({ 'index.json': index, 'unitools.json': { recipes: [carbonara, sauce] } }), ctx())
+    const recipes = await db.recipes.toArray()
+    const context = { lookup: fineliLookup(), pantry: [], nutritionCache: new Map() }
+    expect(filterRecipes(recipes, { ...EMPTY_FILTERS, type: 'kastike' }, context).map((r) => r.id)).toEqual(['unitools-sauce'])
+    expect(filterRecipes(recipes, { ...EMPTY_FILTERS, type: 'kastike', query: 'carbonara' }, context)).toEqual([])
+  })
 })

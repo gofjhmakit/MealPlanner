@@ -3,11 +3,12 @@ import { useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router'
 import { matchContext, saveRecipe } from '../../db/repo'
 import { buildRecipeIngredient, isGroupHeading, newId } from '../../domain/recipeIngredients'
+import { RECIPE_TYPES, recipeType, type RecipeType } from '../../domain/recipeType'
 import type { Recipe, RecipeIngredient } from '../../domain/types'
 import { safeHttpUrl } from '../../domain/url'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
-import { Button, Card, EmptyState, Field, Spinner, TextInput } from '../components/ui'
+import { Button, Card, EmptyState, Field, Select, Spinner, TextInput } from '../components/ui'
 import { useRecipe, useBack } from '../hooks'
 
 export function RecipeEditPage() {
@@ -46,7 +47,10 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
   const [cook, setCook] = useState(existing?.cookTimeMin != null ? String(existing.cookTimeMin) : '')
   const [imageUrl, setImageUrl] = useState(existing?.imageUrl ?? '')
   const [category, setCategory] = useState(existing?.category ?? '')
-  const [tags, setTags] = useState(existing?.tags.join(', ') ?? '')
+  const [tags, setTags] = useState(existing?.tags.filter((tag) => !tag.startsWith('tyyppi:')).join(', ') ?? '')
+  const [typeOverride, setTypeOverride] = useState<RecipeType | ''>(
+    (existing?.tags.find((tag) => tag.startsWith('tyyppi:'))?.slice(7) as RecipeType | undefined) ?? '',
+  )
   const [sourceUrl, setSourceUrl] = useState(existing?.sourceUrl ?? '')
   const [ingredientsText, setIngredientsText] = useState(existing ? ingredientsToText(existing.ingredients) : '')
   const [instructionsText, setInstructionsText] = useState(existing?.instructions.join('\n\n') ?? '')
@@ -120,7 +124,10 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
       totalTimeMin: prepN || cookN ? (prepN ?? 0) + (cookN ?? 0) : (existing?.totalTimeMin ?? null),
       imageUrl: safeHttpUrl(imageUrl),
       category: category.trim() || null,
-      tags: tags.split(',').map((t) => t.trim().toLowerCase()).filter(Boolean),
+      tags: (() => {
+        const userTags = tags.split(',').map((t) => t.trim().toLowerCase()).filter((t) => t && !t.startsWith('tyyppi:'))
+        return [...userTags, `tyyppi:${typeOverride || recipeType({ title: title.trim(), category: category.trim(), tags: userTags })}`]
+      })(),
       sourceUrl: safeHttpUrl(sourceUrl),
       ingredients,
       instructions,
@@ -158,12 +165,18 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
           </div>
           <div className="grid gap-3 sm:grid-cols-2">
             <Field label="Kategoria">
-              <TextInput value={category} onChange={(e) => setCategory(e.target.value)} placeholder="Pääruoat" />
+              <TextInput value={category} onChange={(e) => { setCategory(e.target.value); setTypeOverride('') }} placeholder="Pääruoat" />
             </Field>
             <Field label="Tunnisteet" hint="Pilkulla erotettuna">
               <TextInput value={tags} onChange={(e) => setTags(e.target.value)} placeholder="kasvis, nopea" />
             </Field>
           </div>
+          <Field label="Reseptin tyyppi">
+            <Select value={typeOverride} onChange={(e) => setTypeOverride(e.target.value as RecipeType | '')}>
+              <option value="">Päättele nimestä ja kategoriasta</option>
+              {Object.entries(RECIPE_TYPES).map(([type, label]) => <option key={type} value={type}>{label}</option>)}
+            </Select>
+          </Field>
           <Field label="Kuvan osoite (valinnainen)">
             <TextInput value={imageUrl} onChange={(e) => setImageUrl(e.target.value)} placeholder="https://…" />
           </Field>

@@ -9,14 +9,24 @@ Openly licensed recipe collections, translated into Finnish for the app's recipe
 | [UniTools world recipes](https://theunitools.com/en/data) | 501 | CC BY-SA 4.0; photos from Wikimedia Commons under their own licences (credited per recipe) | UniTools — theunitools.com |
 | [ForkRecipe](https://github.com/futurechef/forkrecipe-recipes) | 963 | CC BY-SA 4.0 | ForkRecipe and its authors |
 | [Wikibooks Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents) | 3 798 | CC BY-SA 4.0 | Wikibooks contributors (dump: [gossminn/wikibooks-cookbook](https://huggingface.co/datasets/gossminn/wikibooks-cookbook), 2024-07-31) |
+| [Open Recipe Archive](https://github.com/AdamBouhmad/open-recipe-archive) | 2 British sauces | Public domain (historical 1861 recipes) | Isabella Beeton, *The Book of Household Management* (1861); Open Recipe Archive |
+| [Open Recipe Project](https://github.com/reZach/open-recipe-project) | 2 pictured main dishes | CC0 (recipe and accompanying photograph) | Open Recipe Project contributors |
 
 **Licence of the translations.** The Finnish versions in `fi/` and `public/data/open-recipes/`
 are adaptations: translated, converted to metric, and ratio recipes scaled to real amounts.
 Translations of CC BY-SA recipes are licensed **CC BY-SA 4.0**. Translations of public-domain
-MyPlate recipes are dedicated to the public domain (CC0). Translations of the Apache-2.0
+MyPlate and historical recipes and CC0 recipes are dedicated to the public domain (CC0). Translations of the Apache-2.0
 KitchenGadget recipes stay under Apache-2.0. Every recipe record carries its own `license`,
 `author`, `sourceUrl` and image credit, and the app shows them on the recipe page and under
 Settings → Reseptiaineistot.
+
+The British brown gravy and onion sauce come from a historical public-domain cookbook
+via Open Recipe Archive; the latter uses prepared gravy. Open Recipe Project's two
+recipe records explicitly mark both their photos and recipe text CC0, and their image
+URLs point to the original files (not unlicensed stock photos). New Wikibooks translations
+include vegetarian gravy and non-alcoholic lemonades. The separate British "Brown Sauce
+(Hartshorne)" recipe is intentionally skipped because its source specifies implausibly
+large quantities of salt and pepper.
 
 ## Pipeline
 

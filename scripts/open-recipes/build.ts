@@ -70,6 +70,22 @@ export const OPEN_SOURCES = [
     attribution: 'Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).',
     changes: TRANSLATED,
   },
+  {
+    id: 'recipearchive',
+    name: 'Open Recipe Archive – Victorian Britain',
+    homepage: 'https://github.com/AdamBouhmad/open-recipe-archive',
+    license: 'Public domain',
+    attribution: 'Isabella Beeton, The Book of Household Management (1861); kooste: Open Recipe Archive.',
+    changes: 'Suomennettu ja mitat muunnettu metrisiksi.',
+  },
+  {
+    id: 'openrecipeproject',
+    name: 'Open Recipe Project',
+    homepage: 'https://github.com/reZach/open-recipe-project',
+    license: 'CC0',
+    attribution: 'Open Recipe Project. Reseptit ja niiden valokuvat CC0.',
+    changes: TRANSLATED,
+  },
 ] as const
 
 export const CATEGORIES = ['Aamiainen', 'Pääruoat', 'Keitot', 'Salaatit', 'Lisukkeet', 'Kastikkeet ja dipit', 'Leivät ja leivonnaiset', 'Jälkiruoat', 'Välipalat', 'Juomat', 'Säilykkeet', 'Muut']
@@ -120,6 +136,8 @@ export interface OpenRecipeRecord {
 interface ParsedIngredient { raw: string; name: string; fineliId?: number | null; confidence: number }
 type RecipeIngredientsModule = { buildIngredientList(lines: string[], ctx: object): ParsedIngredient[] }
 const { module: ri } = await runnerImport<RecipeIngredientsModule>('/src/domain/recipeIngredients.ts', { root: ROOT, configFile: false, logLevel: 'error' })
+type RecipeTypesModule = { withRecipeType<T extends { title: string; category: string | null; tags: string[] }>(recipe: T): T }
+const { module: recipeTypes } = await runnerImport<RecipeTypesModule>('/src/domain/recipeType.ts', { root: ROOT, configFile: false, logLevel: 'error' })
 const foods = (JSON.parse(readFileSync(join(ROOT, 'public', 'data', 'fineli-foods.json'), 'utf8')) as { foods: { id: number }[] }).foods
 const foodMap = new Map(foods.map((f) => [f.id, f]))
 const fineli = { get: (id: number) => foodMap.get(id), all: () => foods }
@@ -192,7 +210,7 @@ for (const source of OPEN_SOURCES) {
         unknown.set(key, entry)
       }
 
-      records.push({
+      records.push(recipeTypes.withRecipeType({
         id: fi.id,
         title: fi.title!.trim(),
         originalTitle: orig.title,
@@ -213,7 +231,7 @@ for (const source of OPEN_SOURCES) {
         author: orig.author,
         license: orig.license,
         licenseUrl: orig.licenseUrl,
-      })
+      }))
     }
   }
   if (!records.length) continue

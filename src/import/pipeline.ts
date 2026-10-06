@@ -11,6 +11,7 @@
  * Nothing is invented: fields that could not be extracted stay empty and are reported.
  */
 import { buildIngredientList, buildRecipeIngredient, newId } from '../domain/recipeIngredients'
+import { withRecipeType } from '../domain/recipeType'
 import { getIngredient } from '../domain/ingredients'
 import type { MatchContext } from '../domain/matcher'
 import type { ImportDiagnostics, Recipe, RecipeIngredient } from '../domain/types'
@@ -136,7 +137,7 @@ export function toRecipe(result: ExtractionResult, opts: NormalizeOptions): { re
   const now = new Date().toISOString()
   const servings = data.servings && data.servings > 0 ? data.servings : opts.defaultServings
   if (!data.servings) diagnostics.warnings.push(`Annosmäärää ei löytynyt – oletettu ${servings} annosta. Tarkista ja korjaa.`)
-  const recipe: Recipe = {
+  const recipe: Recipe = withRecipeType({
     id: newId(),
     title: data.title || 'Nimetön resepti',
     description: data.description ?? null,
@@ -162,7 +163,7 @@ export function toRecipe(result: ExtractionResult, opts: NormalizeOptions): { re
     inCollection: true,
     createdAt: now,
     updatedAt: now,
-  }
+  })
   return { recipe, diagnostics }
 }
 

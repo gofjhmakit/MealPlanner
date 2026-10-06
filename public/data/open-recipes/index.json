@@ -1,6 +1,6 @@
 {
- "version": "2026-10-04-iuypgw",
- "generatedAt": "2026-10-04T17:28:15.894Z",
+ "version": "2026-10-06-1ibg4y4",
+ "generatedAt": "2026-10-06T10:41:36.374Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -21,8 +21,8 @@
    "attribution": "U.S. Department of Agriculture, Center for Nutrition Policy and Promotion – MyPlate Kitchen. Kuvat ja säilytetty kokoelma: MyPlate.food.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "myplate.json",
-   "count": 794,
-   "withImage": 794
+   "count": 869,
+   "withImage": 869
   },
   {
    "id": "unitools",
@@ -43,7 +43,7 @@
    "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.",
    "file": "forkrecipe.json",
-   "count": 182,
+   "count": 207,
    "withImage": 0
   },
   {
@@ -54,8 +54,30 @@
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "wikibooks.json",
-   "count": 1382,
+   "count": 1510,
    "withImage": 0
+  },
+  {
+   "id": "recipearchive",
+   "name": "Open Recipe Archive – Victorian Britain",
+   "homepage": "https://github.com/AdamBouhmad/open-recipe-archive",
+   "license": "Public domain",
+   "attribution": "Isabella Beeton, The Book of Household Management (1861); kooste: Open Recipe Archive.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi.",
+   "file": "recipearchive.json",
+   "count": 2,
+   "withImage": 0
+  },
+  {
+   "id": "openrecipeproject",
+   "name": "Open Recipe Project",
+   "homepage": "https://github.com/reZach/open-recipe-project",
+   "license": "CC0",
+   "attribution": "Open Recipe Project. Reseptit ja niiden valokuvat CC0.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "file": "openrecipeproject.json",
+   "count": 2,
+   "withImage": 2
   }
  ]
 }

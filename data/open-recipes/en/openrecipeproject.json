@@ -1,0 +1,46 @@
+[
+  {
+    "id": "openrecipeproject-shepherds-pie",
+    "source": "openrecipeproject",
+    "title": "Beef Shepherd's Pie with Rosemary Garlic Cauliflower Crust",
+    "servings": 6,
+    "prepTimeMin": 15,
+    "cookTimeMin": 55,
+    "ingredients": [{"text":"1 lb cauliflower florets"},{"text":"1 lb Yukon gold potatoes"},{"text":"6 cloves garlic"},{"text":"2 sprigs rosemary"},{"text":"1/4 cup olive oil"},{"text":"1 lb ground beef"},{"text":"2 tbsp olive oil"},{"text":"2 cups button mushrooms"},{"text":"1 yellow onion"},{"text":"1 carrot"},{"text":"2 celery ribs"},{"text":"1 1/2 cups corn"},{"text":"1 sprig rosemary"},{"text":"3 tbsp tomato paste"},{"text":"2 tbsp flour"},{"text":"2 cups beef stock"},{"text":"1/4 cup parsley"},{"text":"salt and pepper"}],
+    "instructions": ["Prepare rosemary and garlic infused oil.", "Boil the cauliflower and potatoes until soft, then mash with the infused oil.", "Brown the ground beef, then cook the vegetables. Add rosemary, tomato paste and flour, then stock. Simmer until thickened and stir in corn and parsley.", "Spread mash over filling and bake at 425°F until golden."],
+    "tags": ["pie"],
+    "category": "Main course",
+    "image": {
+      "url": "https://raw.githubusercontent.com/reZach/open-recipe-project/master/recipes/cauliflower_shepherds_pie/image.JPG",
+      "credit": "Open Recipe Project",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "sourceUrl": "https://github.com/reZach/open-recipe-project/blob/master/recipes/cauliflower_shepherds_pie/recipe.json",
+    "author": "Open Recipe Project contributors",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "openrecipeproject-fish-tacos",
+    "source": "openrecipeproject",
+    "title": "Chipotle Fish Tacos with Fresh Mango Salsa and Shredded Cabbage Slaw",
+    "servings": 2,
+    "prepTimeMin": 30,
+    "cookTimeMin": 20,
+    "ingredients": [{"text":"1 lb fish"},{"text":"3 chipotle peppers in adobo"},{"text":"1/2 lime"},{"text":"2 tbsp olive oil"},{"text":"1 tsp salt"},{"text":"1 tsp ground cumin"},{"text":"1 tsp smoked paprika"},{"text":"1/2 carrot"},{"text":"1/4 head red cabbage"},{"text":"1/2 poblano pepper"},{"text":"1/2 bunch cilantro"},{"text":"1/4 cup mayonnaise"},{"text":"1 tsp honey"},{"text":"2 mangos"},{"text":"1/4 red onion"},{"text":"1/2 jalapeño"},{"text":"1/2 avocado"},{"text":"4 corn tortillas"}],
+    "instructions": ["Marinate fish with chipotle, lime juice, olive oil, salt, cumin and paprika for 30 minutes. Bake at 375°F until cooked through.", "Mix carrots, cabbage and poblano with a dressing of mayonnaise, cilantro and honey.", "Mix mango, red onion, jalapeño and cilantro for salsa.", "Warm the tortillas and assemble with fish, slaw, mango salsa and avocado."],
+    "tags": ["tacos"],
+    "category": "Main course",
+    "image": {
+      "url": "https://raw.githubusercontent.com/reZach/open-recipe-project/master/recipes/chipotle_fish_taco/image.jpg",
+      "credit": "Open Recipe Project",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "sourceUrl": "https://github.com/reZach/open-recipe-project/blob/master/recipes/chipotle_fish_taco/recipe.json",
+    "author": "Open Recipe Project contributors",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  }
+]
