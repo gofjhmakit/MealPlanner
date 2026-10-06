@@ -48,7 +48,9 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
   const [imageUrl, setImageUrl] = useState(existing?.imageUrl ?? '')
   const [category, setCategory] = useState(existing?.category ?? '')
   const [tags, setTags] = useState(existing?.tags.filter((tag) => !tag.startsWith('tyyppi:')).join(', ') ?? '')
-  const [typeOverride, setTypeOverride] = useState<RecipeType | ''>('')
+  const [typeOverride, setTypeOverride] = useState<RecipeType | ''>(
+    (existing?.tags.find((tag) => tag.startsWith('tyyppi:'))?.slice(7) as RecipeType | undefined) ?? '',
+  )
   const [sourceUrl, setSourceUrl] = useState(existing?.sourceUrl ?? '')
   const [ingredientsText, setIngredientsText] = useState(existing ? ingredientsToText(existing.ingredients) : '')
   const [instructionsText, setInstructionsText] = useState(existing?.instructions.join('\n\n') ?? '')
@@ -163,7 +165,7 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
           </div>
           <div className="grid gap-3 sm:grid-cols-2">
             <Field label="Kategoria">
-              <TextInput value={category} onChange={(e) => setCategory(e.target.value)} placeholder="Pääruoat" />
+              <TextInput value={category} onChange={(e) => { setCategory(e.target.value); setTypeOverride('') }} placeholder="Pääruoat" />
             </Field>
             <Field label="Tunnisteet" hint="Pilkulla erotettuna">
               <TextInput value={tags} onChange={(e) => setTags(e.target.value)} placeholder="kasvis, nopea" />

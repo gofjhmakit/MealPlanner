@@ -31,6 +31,12 @@ export function recipeType(recipe: Pick<Recipe, 'title' | 'category' | 'tags'>):
   if (/^jälkiruoat$|dessert/.test(category)) return 'jalkiruoka'
   if (/^aamiainen$|breakfast/.test(category)) return 'aamiainen'
   if (/^leivät ja leivonnaiset$/.test(category)) return 'leivonnainen'
+  if (/vilja ja leivontatuotteet/.test(category)) {
+    if (/puuro|aamiaisvilja/.test(detail)) return 'aamiainen'
+    if (/leipä|leivonnainen|kahvileipä|pulla|keksit/.test(detail)) return 'leivonnainen'
+    if (/^riisi|^pasta|^makaroni|^spagetti/.test(recipe.title.toLowerCase()) && /keitetty/.test(detail)) return 'lisuke'
+    return 'ateria'
+  }
   if (/kastik|dipp|gravy|sauce/.test(detail)) return 'kastike'
   if (/juom|mehu|smoothie|limonad/.test(detail)) return 'juoma'
   if (/jälkiruo|vanukas|kiissel|pudding|dessert/.test(detail)) return 'jalkiruoka'

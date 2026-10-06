@@ -158,6 +158,8 @@ describe('recipe purpose filters', () => {
     expect(recipeType({ title: 'Ruskea kastike', category: 'Kastikkeet ja dipit', tags: [] })).toBe('kastike')
     expect(recipeType({ title: 'Mustikkakiisseli', category: 'Maitojälkiruoat', tags: [] })).toBe('jalkiruoka')
     expect(recipeType({ title: 'Sitruunalimonadi', category: 'Juomat', tags: [] })).toBe('juoma')
+    expect(recipeType({ title: 'Ruispuuro', category: 'Vilja ja leivontatuotteet', tags: ['puuro'] })).toBe('aamiainen')
+    expect(recipeType({ title: 'Ruisleipä', category: 'Vilja ja leivontatuotteet', tags: ['leipä, ruis-'] })).toBe('leivonnainen')
   })
 
   it('filters by purpose alongside existing search criteria', async () => {
