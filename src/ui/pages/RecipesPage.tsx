@@ -10,6 +10,7 @@ import {
   type RecipeFilters,
 } from '../../domain/recipeInfo'
 import type { Recipe } from '../../domain/types'
+import { RECIPE_TYPES, type RecipeType } from '../../domain/recipeType'
 import { useApp } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { RecipeCard } from '../components/recipe'
@@ -166,6 +167,15 @@ export function RecipesPage() {
         </Select>
       </div>
       <div className="mb-2 flex flex-wrap gap-2">
+        <Select
+          value={filters.type ?? ''}
+          onChange={(e) => { setFilters((f) => ({ ...f, type: (e.target.value || null) as RecipeType | null })); setLimit(PAGE) }}
+          aria-label="Reseptin tyyppi"
+          className="h-8 rounded-full text-sm"
+        >
+          <option value="">Kaikki reseptityypit</option>
+          {Object.entries(RECIPE_TYPES).map(([type, label]) => <option key={type} value={type}>{label}</option>)}
+        </Select>
         <Chip active={filters.minRating !== null} onClick={() => setFilters((f) => ({ ...f, minRating: f.minRating ? null : 4 }))} title="Omat arviot 4–5 tähteä">★ 4+</Chip>
         <Chip active={filters.vegetarian} onClick={() => toggle('vegetarian')}>Kasvis</Chip>
         <Chip active={filters.vegan} onClick={() => toggle('vegan')}>Vegaaninen</Chip>

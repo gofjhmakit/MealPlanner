@@ -13,6 +13,7 @@
 import { ingredientForFineli } from '../domain/ingredients'
 import type { FineliDish, FineliFood, Recipe, RecipeIngredient, RecipeSource } from '../domain/types'
 import { formatNumber } from '../domain/units'
+import { withRecipeType } from '../domain/recipeType'
 
 export const FINELI_SOURCE: RecipeSource = {
   id: 'fineli',
@@ -93,7 +94,7 @@ export function buildFineliCatalogue(
     const tags = [classNames[dish.fuClass], classNames[dish.fuClassParent], ...dietTags(dishFood)]
       .filter((t): t is string => !!t)
       .map((t) => t.toLowerCase())
-    recipes.push({
+    recipes.push(withRecipeType({
       id: `fineli-${dish.id}`,
       title: dish.name,
       description:
@@ -120,7 +121,7 @@ export function buildFineliCatalogue(
       inCollection: false,
       createdAt: now,
       updatedAt: now,
-    })
+    }))
   }
   return recipes
 }

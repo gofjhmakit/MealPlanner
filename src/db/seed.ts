@@ -4,6 +4,7 @@
  * go through the same parser + matcher as imported recipes.
  */
 import type { MatchContext } from '../domain/matcher'
+import { withRecipeType } from '../domain/recipeType'
 import { buildIngredientList } from '../domain/recipeIngredients'
 import type { Recipe } from '../domain/types'
 
@@ -408,7 +409,7 @@ export const SEED_RECIPES: SeedRecipe[] = [
 ]
 
 export function buildSeedRecipes(ctx: MatchContext, now = new Date().toISOString()): Recipe[] {
-  return SEED_RECIPES.map((s) => ({
+  return SEED_RECIPES.map((s) => withRecipeType({
     id: s.id,
     title: s.title,
     description: s.description,

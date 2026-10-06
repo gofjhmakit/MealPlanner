@@ -8,6 +8,7 @@
  */
 import type { MatchContext } from '../domain/matcher'
 import { buildIngredientList } from '../domain/recipeIngredients'
+import { withRecipeType } from '../domain/recipeType'
 import type { Recipe, RecipeSource } from '../domain/types'
 import { getSetting, setSetting, type MealPlannerDB } from './db'
 
@@ -62,7 +63,7 @@ export function openRecordToRecipe(r: OpenRecipeRecord, source: OpenSourceInfo, 
   const total = r.totalTimeMin ?? (r.prepTimeMin || r.cookTimeMin ? (r.prepTimeMin ?? 0) + (r.cookTimeMin ?? 0) : undefined)
   const translated = r.originalTitle && r.originalTitle.toLowerCase() !== r.title.toLowerCase()
   const shareAlike = /BY-SA/i.test(r.license)
-  return {
+  return withRecipeType({
     id: r.id,
     title: r.title,
     description: [r.description, ...(r.notes ?? [])].filter(Boolean).join('\n\n') || null,
@@ -97,7 +98,7 @@ export function openRecordToRecipe(r: OpenRecipeRecord, source: OpenSourceInfo, 
     inCollection: false,
     createdAt: now,
     updatedAt: now,
-  }
+  })
 }
 
 /**

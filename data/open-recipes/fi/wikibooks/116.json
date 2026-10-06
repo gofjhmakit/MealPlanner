@@ -1,0 +1,35 @@
+[
+  {
+    "id": "wikibooks-gravy-vegetarian",
+    "title": "Kasvisversio amerikkalaisesta gravy-kastikkeesta",
+    "description": "Maitopohjainen kasviskastike, joka tarjoillaan yleensä suolaisten sämpylöiden kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike"],
+    "ingredients": ["4 rkl rypsiöljyä", "4 rkl vehnäjauhoja", "4,8 dl maitoa", "2 rkl soijapohjaisia pekonimuruja", "1 rkl voita", "suolaa maun mukaan", "pippuria maun mukaan"],
+    "instructions": ["Kuumenna öljy pannulla keskilämmöllä.", "Lisää jauhot koko ajan sekoittaen ja paista, kunnes seos ruskistuu hieman.", "Kaada maito vähitellen joukkoon samalla vispaten, jotta kastikkeeseen ei jää paakkuja.", "Lisää kasvispohjaiset pekonimurut ja hauduta, kunnes kastike sakenee.", "Nosta pannu liedeltä, sekoita voi joukkoon ja mausta suolalla ja pippurilla.", "Tarjoa suolaisten sämpylöiden kanssa."]
+  },
+  {
+    "id": "wikibooks-lemonade",
+    "title": "Kotitekoinen sitruunalimonadi",
+    "description": "Sitruunamehusta, sokerista ja vedestä tehty alkoholiton juoma.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["alkoholiton", "sitruuna"],
+    "ingredients": ["2,5 dl tuoretta sitruunamehua", "160–225 g sokeria", "1,2–1,5 l vettä"],
+    "instructions": ["Sekoita sitruunamehu ja sokeri kannussa, kunnes sokeri liukenee.", "Lisää vesi ja sekoita.", "Jäähdytä tai tarjoa jäiden kanssa."]
+  },
+  {
+    "id": "wikibooks-lemonade-extra-sour",
+    "title": "Kirpeä sitruunalimonadi",
+    "servings": 5,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["alkoholiton", "sitruuna"],
+    "ingredients": ["noin 6 keskikokoista sitruunaa (2,5 dl mehua)", "8,5 dl vettä", "160 g hienoa sokeria"],
+    "instructions": ["Purista sitruunoista mehu ja poista siemenet. Siivilöi halutessasi hedelmäliha pois.", "Liuota sokeri veteen; voit lämmittää osan vedestä helpottaaksesi liukenemista.", "Yhdistä sitruunamehu ja sokerivesi kannussa ja sekoita.", "Jäähdytä tai tarjoa jäiden kanssa."]
+  }
+]

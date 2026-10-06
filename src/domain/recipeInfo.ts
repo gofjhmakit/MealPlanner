@@ -5,6 +5,7 @@ import { lemmaCandidates, normalizeKey, tokenize } from './finnish'
 import { getIngredient } from './ingredients'
 import type { FineliLookup } from './matcher'
 import { computeRecipeNutrition, type NutritionResult } from './nutrition'
+import { recipeType, type RecipeType } from './recipeType'
 import type { Recipe } from './types'
 
 export type RecipeDiet = 'vegan' | 'vegetarian' | 'fish' | 'meat'
@@ -48,6 +49,7 @@ export function recipeTime(recipe: Pick<Recipe, 'totalTimeMin' | 'prepTimeMin' |
 
 export interface RecipeFilters {
   query: string
+  type: RecipeType | null
   vegetarian: boolean
   vegan: boolean
   highProtein: boolean
@@ -65,6 +67,7 @@ export interface RecipeFilters {
 
 export const EMPTY_FILTERS: RecipeFilters = {
   query: '',
+  type: null,
   vegetarian: false,
   vegan: false,
   highProtein: false,
@@ -96,6 +99,7 @@ export function searchText(recipe: Recipe): string {
     recipe.title,
     recipe.description ?? '',
     recipe.tags.join(' '),
+    recipeType(recipe),
     recipe.category ?? '',
     recipe.cuisine ?? '',
     // Canonical names and synonyms: searching "kana" also finds "broilerin fileesuikale"
@@ -158,6 +162,7 @@ export function recipeNutritionCached(recipe: Recipe, ctx: RecipeSearchContext):
 export function filterRecipes(recipes: Recipe[], filters: RecipeFilters, ctx: RecipeSearchContext): Recipe[] {
   const needsNutrition = filters.highProtein || filters.lowCalorie
   return recipes.filter((r) => {
+    if (filters.type && recipeType(r) !== filters.type) return false
     if (filters.query && !matchesQuery(searchText(r), filters.query)) return false
     if (filters.vegan || filters.vegetarian) {
       const diet = recipeDiet(r, ctx.lookup)
