@@ -1,0 +1,26 @@
+[
+  {
+    "id": "recipearchive-brown-gravy",
+    "source": "recipearchive",
+    "title": "Brown Gravy",
+    "ingredients": [{"text":"2 oz butter"},{"text":"2 large onions"},{"text":"2 lb shin of beef"},{"text":"2 small slices lean bacon (optional)"},{"text":"salt and whole pepper to taste"},{"text":"3 cloves"},{"text":"2 quarts water"},{"text":"2 oz butter for thickening"},{"text":"3 oz flour"}],
+    "instructions": ["Brown the sliced onions in butter with the diced beef and bacon. Season and add a teacupful of water; cook until brown.", "Add the remaining water and simmer gently for one and a half hours. Strain and skim the fat.", "Brown the butter and flour, then stir into the strained gravy and bring to a boil."],
+    "tags": ["british", "gravy"],
+    "category": "Sauce",
+    "sourceUrl": "https://github.com/AdamBouhmad/open-recipe-archive/blob/main/collections/victorian-britain/recipes/brown-gravy.md",
+    "author": "Isabella Beeton, The Book of Household Management (1861)",
+    "license": "Public domain"
+  },
+  {
+    "id": "recipearchive-brown-onion-sauce",
+    "source": "recipearchive",
+    "title": "Brown Onion Sauce",
+    "ingredients": [{"text":"6 large onions"},{"text":"a little more than 1/2 pint gravy"},{"text":"2 oz butter"},{"text":"salt and pepper to taste"}],
+    "instructions": ["Slice and fry the onions in butter until lightly brown, stirring to prevent burning.", "Add the gravy and simmer until tender.", "Skim the fat, season and press through a sieve.", "Reheat until boiling and serve."],
+    "tags": ["british", "sauce"],
+    "category": "Sauce",
+    "sourceUrl": "https://github.com/AdamBouhmad/open-recipe-archive/blob/main/collections/victorian-britain/recipes/brown-onion-sauce-2.md",
+    "author": "Isabella Beeton, The Book of Household Management (1861)",
+    "license": "Public domain"
+  }
+]

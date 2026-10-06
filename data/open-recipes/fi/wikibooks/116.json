@@ -31,5 +31,26 @@
     "tags": ["alkoholiton", "sitruuna"],
     "ingredients": ["noin 6 keskikokoista sitruunaa (2,5 dl mehua)", "8,5 dl vettä", "160 g hienoa sokeria"],
     "instructions": ["Purista sitruunoista mehu ja poista siemenet. Siivilöi halutessasi hedelmäliha pois.", "Liuota sokeri veteen; voit lämmittää osan vedestä helpottaaksesi liukenemista.", "Yhdistä sitruunamehu ja sokerivesi kannussa ja sekoita.", "Jäähdytä tai tarjoa jäiden kanssa."]
+  },
+  {
+    "id": "wikibooks-kulfi-south-asian-frozen-custard",
+    "title": "Kardemummakulfi",
+    "description": "Eteläaasialainen maitojäätelö, jossa on pistaasia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jäätelö", "pistaasi"],
+    "ingredients": ["9,6 dl maitoa", "8 tl sokeria", "½ tl jauhettuja vihreitä kardemummansiemeniä", "1 rkl ohueksi viipaloituja pistaasipähkinöitä", "1 rkl viipaloituja manteleita (valinnainen)"],
+    "instructions": ["Kuumenna maito leveässä paksupohjaisessa kattilassa kiehuvaksi jatkuvasti sekoittaen.", "Laske lämpöä ja keitä sekoittaen noin 40–45 minuuttia, kunnes maitoa on jäljellä noin 1,8 dl. Kaavi myös kattilan reunoja, jotta maito ei pala kiinni.", "Sekoita joukkoon sokeri, kardemumma ja pähkinät. Anna jäähtyä.", "Jaa seos pieniin muotteihin, peitä ja pakasta noin 6 tuntia.", "Irrota kulfit muoteista lämpimään veteen kastetulla veitsellä ja tarjoa."]
+  },
+  {
+    "id": "wikibooks-watalappam-sri-lankan-coconut-custard",
+    "title": "Watalappam – srilankalainen kookosvanukas",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kookos", "vanukas"],
+    "ingredients": ["4,8 dl paksua kookosmaitoa", "225 g fariinisokeria", "4 kananmunaa", "ripaus jauhettua kardemummaa (valinnainen)", "3 neilikkaa (valinnainen)", "12 cashewpähkinää"],
+    "instructions": ["Vatkaa kananmunat. Lisää kookosmaito, fariinisokeri ja halutessasi kardemumma sekä neilikat. Sekoita hyvin.", "Kaada seos kuumuutta kestävään vuokaan ja höyrytä noin 20 minuuttia tai kunnes vanukas on hyytynyt.", "Lisää cashewpähkinät ja anna jäähtyä ennen tarjoilua."]
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "openrecipeproject-shepherds-pie",
+    "title": "Jauhelihapaistos rosmariini-kukkakaalikuorrutteella",
+    "servings": 6,
+    "prepTimeMin": 15,
+    "cookTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["uuniruoka", "naudanliha"],
+    "ingredients": ["Kuorrute:", "450 g kukkakaalin kukintoja", "450 g perunoita", "6 valkosipulinkynttä", "2 rosmariininoksaa", "0,6 dl oliiviöljyä", "Täyte:", "450 g naudanjauhelihaa", "2 rkl oliiviöljyä", "4,8 dl herkkusieniä kuutioina", "1 sipuli", "1 porkkana", "2 sellerinvartta", "3,6 dl maissinjyviä", "1 rosmariininoksa", "3 rkl tomaattipyreetä", "2 rkl vehnäjauhoja", "4,8 dl lihalientä", "0,6 dl persiljaa", "suolaa ja mustapippuria"],
+    "instructions": ["Kuumenna uuni 220 asteeseen. Lämmitä viipaloitua valkosipulia ja kokonaisia rosmariininoksia 0,6 dl:ssa oliiviöljyä miedolla lämmöllä 15–20 minuuttia. Siivilöi öljy.", "Keitä kukkakaali ja lohkotut perunat suolatussa vedessä pehmeiksi, noin 15–20 minuuttia. Valuta ja soseuta; lisää maustettu öljy sekä suolaa ja pippuria.", "Ruskista jauheliha pannulla ruokalusikallisessa öljyä ja nosta sivuun. Kuullota kuutioidut sienet, sipuli, porkkana ja selleri lopussa öljyssä.", "Lisää hienonnettu rosmariini ja tomaattipyree ja paista minuutti. Lisää jauhot ja paista vielä minuutti. Kaada lihaliemi joukkoon ja hauduta, kunnes täyte hieman sakenee. Sekoita joukkoon jauheliha, maissi ja persilja. Mausta.", "Levitä täyte uunivuokaan ja sen päälle kukkakaali-perunasose reunoihin asti. Paista noin 25 minuuttia, kunnes pinta on kullanruskea. Anna vetäytyä 5 minuuttia ennen tarjoilua."]
+  },
+  {
+    "id": "openrecipeproject-fish-tacos",
+    "title": "Chipotle-kalatacot mangosalsalla",
+    "servings": 2,
+    "prepTimeMin": 30,
+    "cookTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["kala", "tacot"],
+    "ingredients": ["Kala:", "450 g vaaleaa kalaa", "3 chipotle-chiliä adobokastikkeessa", "½ limetin mehu", "2 rkl oliiviöljyä", "1 tl suolaa", "1 tl juustokuminaa", "1 tl savupaprikaa", "Kaalisalaatti:", "½ porkkana", "¼ punakaalista", "½ poblanochiliä", "½ nippua korianteria", "0,6 dl majoneesia", "1 tl hunajaa", "Mangosalsa ja tarjoilu:", "2 mangoa", "¼ punasipulia", "½ jalapeñoa", "½ avokadoa", "4 maissitortillaa", "suolaa ja pippuria"],
+    "instructions": ["Kuumenna uuni 190 asteeseen. Sekoita chipotlet, limetin mehu, öljy, suola, juustokumina ja savupaprika. Marinoi kalaa seoksessa vähintään 30 minuuttia.", "Paista kalaa leivinpaperilla vuoratulla pellillä noin 15–20 minuuttia, kunnes se kypsyy ja lohkeaa helposti.", "Suikaloi porkkana, kaali ja poblano. Sekoita majoneesiin puolet hienonnetusta korianterista ja hunaja, yhdistä kasviksiin ja anna maustua jääkaapissa.", "Sekoita kuutioitu mango, hienonnettu punasipuli, jalapeño, loppu korianteri ja ripaus suolaa. Jäähdytä hetki.", "Lämmitä tortillat ja täytä kalalla, kaalisalaatilla, mangosalsalla ja viipaloidulla avokadolla."]
+  }
+]

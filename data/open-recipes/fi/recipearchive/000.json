@@ -1,0 +1,24 @@
+[
+  {
+    "id": "recipearchive-brown-gravy",
+    "title": "Brittiläinen ruskea paistikastike (brown gravy)",
+    "description": "Historiallinen lihaliemipohjainen paistikastike Isabella Beetonin vuoden 1861 ohjeesta.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["brittiläinen", "paistikastike"],
+    "ingredients": ["55 g voita", "2 suurta sipulia", "900 g naudan etuselkää tai potkaa", "2 viipaletta vähärasvaista pekonia (valinnainen)", "suolaa ja kokonaisia pippureita maun mukaan", "3 neilikkaa", "1,9 l vettä", "55 g voita suurustukseen", "85 g vehnäjauhoja"],
+    "instructions": ["Viipaloi sipulit ja ruskista ne voissa kattilassa. Lisää kuutioitu naudanliha ja halutessasi pekoni. Mausta suolalla, pippurilla ja neilikoilla, lisää noin 2 dl vettä ja keitä sekoitellen noin 10 minuuttia, kunnes seos ruskistuu.", "Lisää loppu vesi, kiehauta ja hauduta hiljalleen noin 1,5 tuntia. Siivilöi liemi ja kuori rasva pois.", "Ruskista suurustukseen varattu voi ja jauhot kattilassa. Sekoita suurus siivilöityyn liemeen ja kiehauta kastike."]
+  },
+  {
+    "id": "recipearchive-brown-onion-sauce",
+    "title": "Brittiläinen ruskea sipulikastike",
+    "description": "Historiallinen ruskea sipulikastike, johon tarvitaan valmista paistikastiketta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["brittiläinen", "sipuli"],
+    "ingredients": ["6 suurta sipulia", "noin 3 dl valmista paistikastiketta", "55 g voita", "suolaa ja pippuria maun mukaan"],
+    "instructions": ["Viipaloi sipulit ja paista niitä voissa kattilassa vaaleanruskeiksi jatkuvasti sekoittaen.", "Kaada paistikastike päälle ja hauduta hiljalleen, kunnes sipulit ovat pehmeitä.", "Kuori pinnalta rasva, mausta ja paseeraa kastike siivilän läpi.", "Kuumenna kastike uudelleen kiehuvaksi ja tarjoa."]
+  }
+]
