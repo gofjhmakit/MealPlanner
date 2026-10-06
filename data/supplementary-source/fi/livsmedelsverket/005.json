@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "livsmedelsverket:2221",
+    "fi": "Gluteeniton fusilli tai lasagnelevy, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2222",
+    "fi": "Gluteeniton piparkakku"
+  },
+  {
+    "id": "livsmedelsverket:2223",
+    "fi": "Gluteeniton digestivekeksi, täysjyvä"
+  },
+  {
+    "id": "livsmedelsverket:2225",
+    "fi": "Gluteeniton näkkileipä, kuitua noin 7,5 %"
+  },
+  {
+    "id": "livsmedelsverket:2226",
+    "fi": "Gluteeniton munatagliatelle, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2227",
+    "fi": "Gluteeniton maissipasta, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2236",
+    "fi": "Nakki, vähärasvainen, rasvaa 7 %"
+  },
+  {
+    "id": "livsmedelsverket:2238",
+    "fi": "Chorizo, vähärasvainen, rasvaa 9 %"
+  },
+  {
+    "id": "livsmedelsverket:2239",
+    "fi": "Makkara, ruokamakkara, rasvaa noin 9 %, lihaa noin 55 %"
+  },
+  {
+    "id": "livsmedelsverket:2240",
+    "fi": "Salami, vähärasvainen"
+  },
+  {
+    "id": "livsmedelsverket:2242",
+    "fi": "Hedelmäjogurtti, vähäsokerinen, rasvaa 0,2 %"
+  },
+  {
+    "id": "livsmedelsverket:2243",
+    "fi": "Hedelmäjogurtti, vähäsokerinen, vähälaktoosinen, rasvaa 0,1 %"
+  },
+  {
+    "id": "livsmedelsverket:2246",
+    "fi": "Minttusuklaalevy, tummasuklaakuorrute"
+  },
+  {
+    "id": "livsmedelsverket:2255",
+    "fi": "Mozzarella, rasvaa 18 %"
+  },
+  {
+    "id": "livsmedelsverket:2269",
+    "fi": "Inkivääri, tuore"
+  },
+  {
+    "id": "livsmedelsverket:2294",
+    "fi": "Kebabliha, ravintola"
+  },
+  {
+    "id": "livsmedelsverket:2301",
+    "fi": "Hedelmäjuoma, ruusunmarja ja mustikka"
+  },
+  {
+    "id": "livsmedelsverket:2302",
+    "fi": "Energiajuoma"
+  },
+  {
+    "id": "livsmedelsverket:2305",
+    "fi": "Olut, alkoholiton"
+  },
+  {
+    "id": "livsmedelsverket:2401",
+    "fi": "Juokseva margariini, maidoton, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:2403",
+    "fi": "Pöytämargariini, maidoton, rasvaa 70 %"
+  },
+  {
+    "id": "livsmedelsverket:2404",
+    "fi": "Leivontamargariini, maidoton, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:2413",
+    "fi": "Lampaan selkä tai kaula, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2468",
+    "fi": "Tilapia, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2472",
+    "fi": "Kevytmargariini, rasvaa 28 %"
+  },
+  {
+    "id": "livsmedelsverket:2474",
+    "fi": "Juokseva margariini, rasvaa 79 %"
+  },
+  {
+    "id": "livsmedelsverket:2475",
+    "fi": "Basmatiriisi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2477",
+    "fi": "Jasmiiniriisi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2478",
+    "fi": "Täysjyväriisi, pitkäjyväinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2479",
+    "fi": "Puuroriisi, pikariisi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2481",
+    "fi": "Riisi, pitkäjyväinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2482",
+    "fi": "Riisi, pitkäjyväinen, parboiled, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2483",
+    "fi": "Pikariisi, raaka, suolaa 1 %"
+  },
+  {
+    "id": "livsmedelsverket:2484",
+    "fi": "Pikariisi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2485",
+    "fi": "Puuroriisi, pyöreäjyväinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2490",
+    "fi": "Pöytämargariini, rasvaa 70 %"
+  },
+  {
+    "id": "livsmedelsverket:2492",
+    "fi": "Sika-nautajauheliha, raaka, nautaa 70 %, sikaa 30 %"
+  },
+  {
+    "id": "livsmedelsverket:2499",
+    "fi": "Sika-nautajauheliha, raaka, nautaa 50 %, sikaa 50 %"
+  },
+  {
+    "id": "livsmedelsverket:2513",
+    "fi": "Basmatiriisi, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2514",
+    "fi": "Jasmiiniriisi, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2515",
+    "fi": "Riisi, pitkäjyväinen, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2516",
+    "fi": "Riisi, pitkäjyväinen, parboiled, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2517",
+    "fi": "Täysjyväriisi, pitkäjyväinen, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2518",
+    "fi": "Pikariisi, keitetty, suolaa 1 %"
+  },
+  {
+    "id": "livsmedelsverket:2519",
+    "fi": "Pikariisi, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2520",
+    "fi": "Gluteeniton munatagliatelle, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2521",
+    "fi": "Gluteeniton makaroni tai spagetti, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2522",
+    "fi": "Gluteeniton maissipasta, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2547",
+    "fi": "Herne, vihreä, pakaste, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2552",
+    "fi": "Hirven etuselkä, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2555",
+    "fi": "Hirven ulkofilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2557",
+    "fi": "Tacokuori"
+  },
+  {
+    "id": "livsmedelsverket:2559",
+    "fi": "Roomansalaatti"
+  },
+  {
+    "id": "livsmedelsverket:2561",
+    "fi": "Rucola"
+  },
+  {
+    "id": "livsmedelsverket:2565",
+    "fi": "Okra, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:2808",
+    "fi": "Riisivanukas, hillolla"
+  },
+  {
+    "id": "livsmedelsverket:2809",
+    "fi": "Riisivanukas, hillolla, sokeriton, makeutusaineella"
+  },
+  {
+    "id": "livsmedelsverket:2883",
+    "fi": "Jodioimaton suola"
+  },
+  {
+    "id": "livsmedelsverket:2899",
+    "fi": "Halloumi, paistettu tai grillattu"
+  },
+  {
+    "id": "livsmedelsverket:2973",
+    "fi": "Hampurilaiskastike"
+  },
+  {
+    "id": "livsmedelsverket:3035",
+    "fi": "Silli, säilötty, kermaviilikastikkeessa"
+  },
+  {
+    "id": "livsmedelsverket:3036",
+    "fi": "Silli, säilötty, sinappikastikkeessa"
+  },
+  {
+    "id": "livsmedelsverket:3069",
+    "fi": "Chilipähkinä"
+  },
+  {
+    "id": "livsmedelsverket:3071",
+    "fi": "Pinjansiemen"
+  },
+  {
+    "id": "livsmedelsverket:3136",
+    "fi": "Bulgur, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3141",
+    "fi": "Poromakkara, raaka"
+  },
+  {
+    "id": "livsmedelsverket:3213",
+    "fi": "Lampaanlihamakkara, raaka"
+  },
+  {
+    "id": "livsmedelsverket:3243",
+    "fi": "Rahka, maustamaton, rasvaa 0,2 %"
+  },
+  {
+    "id": "livsmedelsverket:3323",
+    "fi": "Hirven jauheliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:3324",
+    "fi": "Hirven paahtopaisti"
+  },
+  {
+    "id": "livsmedelsverket:3334",
+    "fi": "Perunalastu, maustamaton"
+  },
+  {
+    "id": "livsmedelsverket:3433",
+    "fi": "Pellavansiemenöljy"
+  },
+  {
+    "id": "livsmedelsverket:3447",
+    "fi": "Aamiaismuro, täysjyväkaura, Havrefras-tyyppinen"
+  },
+  {
+    "id": "livsmedelsverket:3499",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:3500",
+    "fi": "Silli, säilötty, eri makuja"
+  },
+  {
+    "id": "livsmedelsverket:3518",
+    "fi": "Kvinoa, punainen, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3522",
+    "fi": "Banaanilastu"
+  },
+  {
+    "id": "livsmedelsverket:3564",
+    "fi": "Bulgur, täysjyvä, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:3620",
+    "fi": "Lampaan jauheliha, paistettu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3621",
+    "fi": "Hirven jauheliha, paistettu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3668",
+    "fi": "Soijajuoma"
+  },
+  {
+    "id": "livsmedelsverket:3752",
+    "fi": "Couscous, täysjyvä, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3756",
+    "fi": "Pasta, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3760",
+    "fi": "Valkoinen papu, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3761",
+    "fi": "Iso valkoinen papu, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3762",
+    "fi": "Kikherne, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3765",
+    "fi": "Bataatti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:3786",
+    "fi": "Spelttijauho, täysjyvä"
+  },
+  {
+    "id": "livsmedelsverket:3790",
+    "fi": "Ruisleipä, vehnäseos, kuitua noin 7 %"
+  },
+  {
+    "id": "livsmedelsverket:3791",
+    "fi": "Vaalea leipä, kuitua noin 5 %"
+  },
+  {
+    "id": "livsmedelsverket:3793",
+    "fi": "Näkkileipä, täysjyväruis, kuitua noin 19 %"
+  },
+  {
+    "id": "livsmedelsverket:3794",
+    "fi": "Täysjyväleipä, vehnää ja ruista, kuitua noin 6 %"
+  },
+  {
+    "id": "livsmedelsverket:3795",
+    "fi": "Vaalea limppu, kuitua noin 5 %"
+  },
+  {
+    "id": "livsmedelsverket:3797",
+    "fi": "Ruisleipä, täysjyvä, kuitua noin 7 %"
+  },
+  {
+    "id": "livsmedelsverket:3798",
+    "fi": "Sämpylä, hot dog, tumma"
+  },
+  {
+    "id": "livsmedelsverket:3800",
+    "fi": "Lohi, kasvatettu norjalainen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:3815",
+    "fi": "Kikherne, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3816",
+    "fi": "Kidneypapu, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3817",
+    "fi": "Musta papu, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3818",
+    "fi": "Hampurilaissämpylä"
+  },
+  {
+    "id": "livsmedelsverket:3819",
+    "fi": "Teekakku, vaalea, maidolla, kuitua noin 4 %"
+  },
+  {
+    "id": "livsmedelsverket:3821",
+    "fi": "Vihreä linssi, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3822",
+    "fi": "Punainen linssi, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3823",
+    "fi": "Punainen linssi, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3824",
+    "fi": "Vihreä linssi, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:3825",
+    "fi": "Hampurilaissämpylä, tumma"
+  },
+  {
+    "id": "livsmedelsverket:3828",
+    "fi": "Pasta, täysjyvä yli 50 %, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3840",
+    "fi": "Kananmuna, raaka, luomu"
+  },
+  {
+    "id": "livsmedelsverket:3841",
+    "fi": "Keltuainen, raaka, luomu"
+  },
+  {
+    "id": "livsmedelsverket:3845",
+    "fi": "Spelttivehnä, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:3938",
+    "fi": "Keräsalaatti"
+  },
+  {
+    "id": "livsmedelsverket:4011",
+    "fi": "Maissinaksu"
+  },
+  {
+    "id": "livsmedelsverket:4025",
+    "fi": "Wasabitahna"
+  },
+  {
+    "id": "livsmedelsverket:4026",
+    "fi": "Kuivattu hedelmä, sokerilla"
+  },
+  {
+    "id": "livsmedelsverket:4049",
+    "fi": "Karpalo, kuivattu"
+  },
+  {
+    "id": "livsmedelsverket:4052",
+    "fi": "Vuonankaali"
+  },
+  {
+    "id": "livsmedelsverket:4074",
+    "fi": "Hamppuöljy"
+  },
+  {
+    "id": "livsmedelsverket:4095",
+    "fi": "Leivontamargariini, maidoton, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:4105",
+    "fi": "Kevytmargariini, rasvaa 40 %"
+  },
+  {
+    "id": "livsmedelsverket:4107",
+    "fi": "Pöytämargariini, rasvaa 60 %"
+  },
+  {
+    "id": "livsmedelsverket:4112",
+    "fi": "Leivontamargariini, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:4131",
+    "fi": "Palmuöljy"
+  },
+  {
+    "id": "livsmedelsverket:4134",
+    "fi": "Kananmuna, paistettu, luomu"
+  },
+  {
+    "id": "livsmedelsverket:4135",
+    "fi": "Kananmuna, keitetty, luomu"
+  },
+  {
+    "id": "livsmedelsverket:4183",
+    "fi": "Jauheliha, paistettu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4226",
+    "fi": "Pangasius, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4227",
+    "fi": "Margariinijuusto"
+  },
+  {
+    "id": "livsmedelsverket:4385",
+    "fi": "Peruna, Solist, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4386",
+    "fi": "Peruna, Swift, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4415",
+    "fi": "Peruna, Solist, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4416",
+    "fi": "Peruna, Swift, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4445",
+    "fi": "Peruna, Asterix, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4447",
+    "fi": "Riisinuudeli, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4448",
+    "fi": "Riisinuudeli, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:4456",
+    "fi": "Tyrni"
+  },
+  {
+    "id": "livsmedelsverket:4457",
+    "fi": "Peruna, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4458",
+    "fi": "Peruna, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4504",
+    "fi": "Lehtikaalisalaatti"
+  },
+  {
+    "id": "livsmedelsverket:4511",
+    "fi": "Varhaisperuna, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4512",
+    "fi": "Varhaisperuna, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4513",
+    "fi": "Peruna, Inova, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4514",
+    "fi": "Peruna, King Edward, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4515",
+    "fi": "Peruna, mandel, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4516",
+    "fi": "Peruna, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4518",
+    "fi": "Peruna, Asterix, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4519",
+    "fi": "Peruna, Inova, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4520",
+    "fi": "Peruna, King Edward, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4521",
+    "fi": "Peruna, mandel, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4583",
+    "fi": "Sian jauheliha, raaka, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:4586",
+    "fi": "Hoki, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4588",
+    "fi": "Aronia"
+  },
+  {
+    "id": "livsmedelsverket:4589",
+    "fi": "Valkoherukka"
+  },
+  {
+    "id": "livsmedelsverket:4591",
+    "fi": "Riisi, pyöreäjyväinen, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4600",
+    "fi": "Kampasimpukka"
+  },
+  {
+    "id": "livsmedelsverket:4602",
+    "fi": "Kalapuikko, uunissa paistettu"
+  },
+  {
+    "id": "livsmedelsverket:4607",
+    "fi": "Kilohaili"
+  },
+  {
+    "id": "livsmedelsverket:4608",
+    "fi": "Silli, säilötty, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:4609",
+    "fi": "Silli, syyssilli, säilötty, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:4610",
+    "fi": "Sinappisilli, ilman kastiketta"
+  },
+  {
+    "id": "livsmedelsverket:4611",
+    "fi": "Kummeliturska, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4612",
+    "fi": "Kultaotsa-ahven, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4613",
+    "fi": "Meribassi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4615",
+    "fi": "Alaskanseiti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:4616",
+    "fi": "Kultaotsa-ahven, grillattu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4617",
+    "fi": "Meribassi, grillattu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:4659",
+    "fi": "Ekstra-neitsytoliiviöljy"
+  },
+  {
+    "id": "livsmedelsverket:4661",
+    "fi": "Rypsiöljy, kylmäpuristettu"
+  },
+  {
+    "id": "livsmedelsverket:4662",
+    "fi": "Juokseva rasvaseos, voi- ja rypsiöljy, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:4663",
+    "fi": "Rasvaseos, rasvaa 43 %"
+  },
+  {
+    "id": "livsmedelsverket:4937",
+    "fi": "Kirsikkatomaatti, punainen"
+  },
+  {
+    "id": "livsmedelsverket:4938",
+    "fi": "Aurinkokuivattu tomaatti, öljyssä, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:4939",
+    "fi": "Parsakaali, pakaste, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:4941",
+    "fi": "Pinaatti, tuore"
+  },
+  {
+    "id": "livsmedelsverket:4942",
+    "fi": "Mangoldi, punainen, babylehti, tuore"
+  },
+  {
+    "id": "livsmedelsverket:4946",
+    "fi": "Ruukkusalaatti"
+  },
+  {
+    "id": "livsmedelsverket:4947",
+    "fi": "Punasipuli"
+  },
+  {
+    "id": "livsmedelsverket:5007",
+    "fi": "Keltavahvero, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5043",
+    "fi": "Saksanhirvi, liha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5044",
+    "fi": "Kuusipeuran jauheliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5045",
+    "fi": "Poronliha, kylmäsavustettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5046",
+    "fi": "Hirvikäristysliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5047",
+    "fi": "Hirvimakkara, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5048",
+    "fi": "Villisian lapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5049",
+    "fi": "Villisian filee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5050",
+    "fi": "Metsäkauriin paisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5058",
+    "fi": "Villisian paisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5059",
+    "fi": "Broilerimakkara"
+  },
+  {
+    "id": "livsmedelsverket:5060",
+    "fi": "Villisianliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5064",
+    "fi": "Metsäkauriin lapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5065",
+    "fi": "Poronliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5066",
+    "fi": "Naudanliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5067",
+    "fi": "Lampaanliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5068",
+    "fi": "Lampaan patapala, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5085",
+    "fi": "Pöytämargariini, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:5087",
+    "fi": "Juokseva rasvaseos, rypsi- ja voiöljy, rasvaa 80 %"
+  },
+  {
+    "id": "livsmedelsverket:5136",
+    "fi": "Peruna, syysperuna, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:5147",
+    "fi": "Joulu- tai pääsiäismust"
+  },
+  {
+    "id": "livsmedelsverket:5149",
+    "fi": "Slush-juoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:5150",
+    "fi": "Mantelijuoma"
+  },
+  {
+    "id": "livsmedelsverket:5152",
+    "fi": "Alkolimonadi, hiilihapollinen, alkoholia 4–5 %"
+  },
+  {
+    "id": "livsmedelsverket:5153",
+    "fi": "Peruna, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:5184",
+    "fi": "Karpalojuoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:5188",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5189",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5190",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5191",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5192",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5193",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5194",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5195",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5196",
+    "skip": "vauvanruoka"
+  },
+  {
+    "id": "livsmedelsverket:5447",
+    "fi": "Sianliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5665",
+    "fi": "Pastagratiini, broilerilla"
+  },
+  {
+    "id": "livsmedelsverket:5727",
+    "fi": "Maitojuoma, rasvaton, rasvaa alle 0,1 %"
+  },
+  {
+    "id": "livsmedelsverket:5859",
+    "fi": "Trooppinen mehu, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:5860",
+    "fi": "Soijapapu, tuore, esikeitetty, kuorittu"
+  },
+  {
+    "id": "livsmedelsverket:5861",
+    "fi": "Vihreä parsa, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:5862",
+    "fi": "Lanttu, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:5863",
+    "fi": "Ruusukaali, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:5864",
+    "fi": "Juuriselleri, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:5865",
+    "fi": "Keltainen herne, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:5866",
+    "fi": "Ruskea papu, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:5867",
+    "fi": "Harmaaherne, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:5868",
+    "fi": "Härkäpapu, kuivattu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:5869",
+    "fi": "Omena, Aroma, punainen"
+  },
+  {
+    "id": "livsmedelsverket:5870",
+    "fi": "Omena, Ingrid Marie, punainen"
+  },
+  {
+    "id": "livsmedelsverket:5871",
+    "fi": "Omena, Frida"
+  },
+  {
+    "id": "livsmedelsverket:5872",
+    "fi": "Omena, Golden Delicious tai Granny Smith, vihreä"
+  },
+  {
+    "id": "livsmedelsverket:5926",
+    "fi": "Ruijanpallas, kasvatettu Atlantilla, raaka"
+  },
+  {
+    "id": "livsmedelsverket:5935",
+    "fi": "Ohrasuurimo, keitetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:5942",
+    "fi": "Joulumust, light"
+  },
+  {
+    "id": "livsmedelsverket:5956",
+    "fi": "Kauragurtti, maustamaton, rasvaa 2,2 %"
+  },
+  {
+    "id": "livsmedelsverket:5957",
+    "fi": "Kaurafraiche, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:5961",
+    "fi": "Kauralevite, maustamaton"
+  },
+  {
+    "id": "livsmedelsverket:5963",
+    "fi": "Kaurajuoma, appelsiini-mango"
+  },
+  {
+    "id": "livsmedelsverket:5965",
+    "fi": "Grillimakkara, grillattu, lihaa 32–35 %"
+  },
+  {
+    "id": "livsmedelsverket:5966",
+    "fi": "Falukorv, kypsennetty, lihaa 58 %"
+  },
+  {
+    "id": "livsmedelsverket:5967",
+    "fi": "Bratwurst, kypsennetty, mausteinen, lihaa 73–75 %"
+  },
+  {
+    "id": "livsmedelsverket:5969",
+    "fi": "Sian kylkisilava, suolattu, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:5970",
+    "fi": "Kabanossi, kypsennetty, mausteinen, lihaa 90 %"
+  },
+  {
+    "id": "livsmedelsverket:5973",
+    "fi": "Tacomausteseos"
+  },
+  {
+    "id": "livsmedelsverket:5974",
+    "fi": "Vehnätortilla, vaalea"
+  },
+  {
+    "id": "livsmedelsverket:5978",
+    "fi": "Sian jauheliha, kypsennetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:5979",
+    "fi": "Kombucha, sokerilla"
+  },
+  {
+    "id": "livsmedelsverket:5999",
+    "fi": "Porsaan kinkku, sisäpaisti, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:6002",
+    "fi": "Porsaan kinkkupaisti, kypsennetty ilman suolaa"
+  },
+  {
+    "id": "livsmedelsverket:6003",
+    "fi": "Porsaan ulkofilee, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:6004",
+    "fi": "Porsaankyljys, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:6005",
+    "fi": "Porsaan sisäfilee, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:6006",
+    "fi": "Naudan- tai vasikanmaksa, kypsennetty"
+  }
+]

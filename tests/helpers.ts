@@ -27,3 +27,25 @@ export function fineliLookup(): FineliLookup {
   }
   return lookup
 }
+
+let supplementary: FineliFood[] | null = null
+/** The generated supplementary dataset (public/data/supplementary-foods.json). */
+export function supplementaryFoods(): FineliFood[] {
+  if (!supplementary) {
+    const json = JSON.parse(readFileSync(join(import.meta.dirname, '..', 'public', 'data', 'supplementary-foods.json'), 'utf8'))
+    supplementary = json.foods as FineliFood[]
+  }
+  return supplementary
+}
+
+let fullLookup: FineliLookup | null = null
+/** Fineli plus the supplementary foods, like the app's FineliStore. */
+export function fullFoodLookup(): FineliLookup {
+  if (!fullLookup) {
+    const all = fineliFoods()
+    const supp = supplementaryFoods()
+    const map = new Map([...all, ...supp].map((f) => [f.id, f]))
+    fullLookup = { get: (id) => map.get(id), all: () => all, supplementary: () => supp }
+  }
+  return fullLookup
+}

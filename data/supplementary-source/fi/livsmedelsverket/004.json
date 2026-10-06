@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "livsmedelsverket:1682",
+    "fi": "Pehmeä piparkakku"
+  },
+  {
+    "id": "livsmedelsverket:1683",
+    "fi": "Pähkinäkakku"
+  },
+  {
+    "id": "livsmedelsverket:1684",
+    "fi": "Sokerikakku, vähärasvainen"
+  },
+  {
+    "id": "livsmedelsverket:1685",
+    "fi": "Sokerikakku, mehevä"
+  },
+  {
+    "id": "livsmedelsverket:1686",
+    "fi": "Digestivekeksi, täysjyvä 23 %"
+  },
+  {
+    "id": "livsmedelsverket:1687",
+    "fi": "Hedelmäkakku"
+  },
+  {
+    "id": "livsmedelsverket:1689",
+    "fi": "Kermajäätelö, rasvaa 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1690",
+    "fi": "Jäätelö, vaniljanmakuinen, rasvaa noin 8 %"
+  },
+  {
+    "id": "livsmedelsverket:1691",
+    "fi": "Jäätelö, rasvaa noin 10 %"
+  },
+  {
+    "id": "livsmedelsverket:1692",
+    "fi": "Jäätelötuutti, rasvaa noin 15 %"
+  },
+  {
+    "id": "livsmedelsverket:1693",
+    "fi": "Kevytjäätelö, makeutusaineella, rasvaa noin 6 %"
+  },
+  {
+    "id": "livsmedelsverket:1694",
+    "fi": "Jäätelötuutti, vaniljajäätelö, Daim-paloja, suklaakuorrute"
+  },
+  {
+    "id": "livsmedelsverket:1695",
+    "fi": "Vaniljajäätelö, suklaakeksillä"
+  },
+  {
+    "id": "livsmedelsverket:1696",
+    "fi": "Kermajäätelö, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:1697",
+    "fi": "Jäätelö, rasvaa 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1698",
+    "fi": "Kevytjäätelö, rasvaa noin 5 %"
+  },
+  {
+    "id": "livsmedelsverket:1699",
+    "fi": "Jäätelöpuikko, rasvaa noin 25 %"
+  },
+  {
+    "id": "livsmedelsverket:1700",
+    "fi": "Jäätelöpuikko, kaakaokuorrute, rasvaa 20 %"
+  },
+  {
+    "id": "livsmedelsverket:1701",
+    "fi": "Jäätelöpuikko, mehujääkuorrute, rasvaa noin 6 %"
+  },
+  {
+    "id": "livsmedelsverket:1702",
+    "fi": "Jäätelötuutti, rasvaa noin 10 %"
+  },
+  {
+    "id": "livsmedelsverket:1703",
+    "fi": "Pehmytjäätelö, pikarissa"
+  },
+  {
+    "id": "livsmedelsverket:1705",
+    "fi": "Jäätelökakku, rasvaa 17 %"
+  },
+  {
+    "id": "livsmedelsverket:1706",
+    "fi": "Jäätelö, marengilla, rasvaa 10 %"
+  },
+  {
+    "id": "livsmedelsverket:1707",
+    "fi": "Kaurajäätelö, vanilja, rasvaa 13 %"
+  },
+  {
+    "id": "livsmedelsverket:1708",
+    "fi": "Parfait, marjoilla"
+  },
+  {
+    "id": "livsmedelsverket:1712",
+    "fi": "Kauraruokakerma, rasvaa 13 %"
+  },
+  {
+    "id": "livsmedelsverket:1713",
+    "fi": "Kermaviili, rasvaa 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1714",
+    "fi": "Kahvikerma, rasvaa 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1715",
+    "fi": "Kuohukerma, rasvaa 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1716",
+    "fi": "Ruokakerma, rasvaa 27 %"
+  },
+  {
+    "id": "livsmedelsverket:1717",
+    "fi": "Ruokakerma, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:1719",
+    "fi": "Crème fraîche, rasvaa 34 %"
+  },
+  {
+    "id": "livsmedelsverket:1721",
+    "fi": "Crème fraîche, kevyt, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:1725",
+    "fi": "Kermankorvike, jauhe, rasvaa 35 %"
+  },
+  {
+    "id": "livsmedelsverket:1745",
+    "fi": "Marjapiirakkatäyte, sokerilla"
+  },
+  {
+    "id": "livsmedelsverket:1749",
+    "fi": "Mustikkajuoma"
+  },
+  {
+    "id": "livsmedelsverket:1752",
+    "fi": "Ruusunmarjakeitto, jauhe, makeuttamaton"
+  },
+  {
+    "id": "livsmedelsverket:1758",
+    "fi": "Luumukakku"
+  },
+  {
+    "id": "livsmedelsverket:1793",
+    "fi": "Appelsiinimarmeladi"
+  },
+  {
+    "id": "livsmedelsverket:1794",
+    "fi": "Punaherukkahyytelö"
+  },
+  {
+    "id": "livsmedelsverket:1795",
+    "fi": "Mustaherukkahyytelö"
+  },
+  {
+    "id": "livsmedelsverket:1796",
+    "fi": "Appelsiinimarmeladi, vähäsokerinen"
+  },
+  {
+    "id": "livsmedelsverket:1797",
+    "fi": "Marmeladi, eri makuja"
+  },
+  {
+    "id": "livsmedelsverket:1798",
+    "fi": "Puolukkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1800",
+    "fi": "Puolukkahillo, makeutusaineella"
+  },
+  {
+    "id": "livsmedelsverket:1801",
+    "fi": "Mansikkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1802",
+    "fi": "Karhunvatukkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1803",
+    "fi": "Mustikkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1804",
+    "fi": "Vadelmahillo"
+  },
+  {
+    "id": "livsmedelsverket:1805",
+    "fi": "Lakkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1806",
+    "fi": "Karviaishillo"
+  },
+  {
+    "id": "livsmedelsverket:1808",
+    "fi": "Kirsikkahillo"
+  },
+  {
+    "id": "livsmedelsverket:1809",
+    "fi": "Omenasose"
+  },
+  {
+    "id": "livsmedelsverket:1810",
+    "fi": "Omenasose, vähäsokerinen"
+  },
+  {
+    "id": "livsmedelsverket:1811",
+    "fi": "Omenasose, makeuttamaton tai makeutusaineella"
+  },
+  {
+    "id": "livsmedelsverket:1814",
+    "fi": "Appelsiinimehutiiviste"
+  },
+  {
+    "id": "livsmedelsverket:1815",
+    "fi": "Appelsiinimehu, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1817",
+    "fi": "Mehutiiviste, vähäsokerinen"
+  },
+  {
+    "id": "livsmedelsverket:1818",
+    "fi": "Ateriajuoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1819",
+    "fi": "Sekamehutiiviste"
+  },
+  {
+    "id": "livsmedelsverket:1820",
+    "fi": "Mehu, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1821",
+    "fi": "Mustaherukkamehutiiviste"
+  },
+  {
+    "id": "livsmedelsverket:1822",
+    "fi": "Mehutiiviste, makeutusaineella"
+  },
+  {
+    "id": "livsmedelsverket:1826",
+    "fi": "Hedelmäjuoma, hiilihapollinen"
+  },
+  {
+    "id": "livsmedelsverket:1827",
+    "fi": "Hedelmäjuoma, hiilihapoton"
+  },
+  {
+    "id": "livsmedelsverket:1828",
+    "fi": "Virvoitusjuoma"
+  },
+  {
+    "id": "livsmedelsverket:1829",
+    "fi": "Colajuoma"
+  },
+  {
+    "id": "livsmedelsverket:1830",
+    "fi": "Virvoitusjuoma, light"
+  },
+  {
+    "id": "livsmedelsverket:1831",
+    "fi": "Colajuoma, light"
+  },
+  {
+    "id": "livsmedelsverket:1834",
+    "fi": "Mehu, makeutusaineella, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1837",
+    "fi": "Vadelmamehu, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1838",
+    "fi": "Mustaherukkamehu, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1840",
+    "fi": "Puolukkajuoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1841",
+    "fi": "Omenajuoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1842",
+    "fi": "Mehu, makeutusaineella, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1843",
+    "fi": "Mehujää"
+  },
+  {
+    "id": "livsmedelsverket:1844",
+    "fi": "Sorbetti"
+  },
+  {
+    "id": "livsmedelsverket:1845",
+    "fi": "Mehujää"
+  },
+  {
+    "id": "livsmedelsverket:1846",
+    "fi": "Kaakaojuoma, veteen valmistettu"
+  },
+  {
+    "id": "livsmedelsverket:1847",
+    "fi": "Kaakaojuoma, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1848",
+    "fi": "Maitosuklaa, hasselpähkinärouheella"
+  },
+  {
+    "id": "livsmedelsverket:1849",
+    "fi": "Maitosuklaa, mantelikrokanttitaytteinen"
+  },
+  {
+    "id": "livsmedelsverket:1850",
+    "fi": "Maitosuklaa, pehmeällä kinuskitäytteellä"
+  },
+  {
+    "id": "livsmedelsverket:1851",
+    "fi": "Keksi, maitosuklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1852",
+    "fi": "Keksi, kinuskilla ja maitosuklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1853",
+    "fi": "Nougat, pehmeä, kinuskikastikkeella, maapähkinällä, maitosuklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1854",
+    "fi": "Suklaamarenki, pehmeä, kinuskilla, maitosuklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1855",
+    "fi": "Suklaakonvehti"
+  },
+  {
+    "id": "livsmedelsverket:1858",
+    "fi": "Suklaakonvehti"
+  },
+  {
+    "id": "livsmedelsverket:1859",
+    "fi": "Kookosmakeinen, pehmeä, maitosuklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1860",
+    "fi": "Pähkinä-suklaalevite"
+  },
+  {
+    "id": "livsmedelsverket:1861",
+    "fi": "Suklaa, makeutusaineella"
+  },
+  {
+    "id": "livsmedelsverket:1863",
+    "fi": "Hyytelömakeinen"
+  },
+  {
+    "id": "livsmedelsverket:1864",
+    "fi": "Karamelli, hapan"
+  },
+  {
+    "id": "livsmedelsverket:1865",
+    "fi": "Kinuskimakeinen"
+  },
+  {
+    "id": "livsmedelsverket:1867",
+    "fi": "Marmeladimakeinen"
+  },
+  {
+    "id": "livsmedelsverket:1868",
+    "fi": "Vaahtokarkkimakeinen"
+  },
+  {
+    "id": "livsmedelsverket:1869",
+    "fi": "Polkakaramelli"
+  },
+  {
+    "id": "livsmedelsverket:1870",
+    "fi": "Purukumi"
+  },
+  {
+    "id": "livsmedelsverket:1871",
+    "fi": "Tikkari, suklaakinuski"
+  },
+  {
+    "id": "livsmedelsverket:1875",
+    "fi": "Suklaakinuski, tumma, suklaakuorrutteella"
+  },
+  {
+    "id": "livsmedelsverket:1876",
+    "fi": "Vohvelikeksi, suklaatäytteellä"
+  },
+  {
+    "id": "livsmedelsverket:1877",
+    "fi": "Hedelmäkinuski"
+  },
+  {
+    "id": "livsmedelsverket:1878",
+    "fi": "Vaahtokarkkiauto"
+  },
+  {
+    "id": "livsmedelsverket:1879",
+    "fi": "Suklaapallo, vaahtotäyte, kookoksella"
+  },
+  {
+    "id": "livsmedelsverket:1880",
+    "fi": "Suklaapallo, vaahtotäyte"
+  },
+  {
+    "id": "livsmedelsverket:1881",
+    "fi": "Energiapatukka, suklaalla ja pähkinöillä"
+  },
+  {
+    "id": "livsmedelsverket:1882",
+    "fi": "Karamelli, sokeriton"
+  },
+  {
+    "id": "livsmedelsverket:1884",
+    "fi": "Purukumi, sokeriton"
+  },
+  {
+    "id": "livsmedelsverket:1885",
+    "fi": "Mantelimassa"
+  },
+  {
+    "id": "livsmedelsverket:1886",
+    "fi": "Kaakaojauhe, rasvaa 20–22 %"
+  },
+  {
+    "id": "livsmedelsverket:1887",
+    "fi": "Kaakaojuomajauhe, sokerilla, rasvaa 2,5 %"
+  },
+  {
+    "id": "livsmedelsverket:1888",
+    "fi": "Suklaapallo, kotitekoinen"
+  },
+  {
+    "id": "livsmedelsverket:1892",
+    "fi": "Sokeri"
+  },
+  {
+    "id": "livsmedelsverket:1893",
+    "fi": "Fariinisokeri"
+  },
+  {
+    "id": "livsmedelsverket:1894",
+    "fi": "Vaalea siirappi"
+  },
+  {
+    "id": "livsmedelsverket:1896",
+    "fi": "Hunaja"
+  },
+  {
+    "id": "livsmedelsverket:1897",
+    "fi": "Rypälesokeri"
+  },
+  {
+    "id": "livsmedelsverket:1898",
+    "fi": "Hedelmäsokeri"
+  },
+  {
+    "id": "livsmedelsverket:1899",
+    "fi": "Sorbitoli, sakariinilla"
+  },
+  {
+    "id": "livsmedelsverket:1900",
+    "fi": "Kotikalja, alkoholia 2,3 %"
+  },
+  {
+    "id": "livsmedelsverket:1901",
+    "fi": "Olut, kevytolut, alkoholia 2,3 %"
+  },
+  {
+    "id": "livsmedelsverket:1902",
+    "fi": "Olut, pilsneri tai keskiolut, alkoholia 3,5 %"
+  },
+  {
+    "id": "livsmedelsverket:1903",
+    "fi": "Siideri, alkoholia 1 %"
+  },
+  {
+    "id": "livsmedelsverket:1904",
+    "fi": "Valkoviini, alkoholia 1 %"
+  },
+  {
+    "id": "livsmedelsverket:1905",
+    "fi": "Punaviini tai roseeviini, alkoholia 1 %"
+  },
+  {
+    "id": "livsmedelsverket:1906",
+    "fi": "Olut, vahva olut, alkoholia 5,4 %"
+  },
+  {
+    "id": "livsmedelsverket:1907",
+    "fi": "Punaviini, alkoholia 14 %"
+  },
+  {
+    "id": "livsmedelsverket:1908",
+    "fi": "Valkoviini, alkoholia 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1909",
+    "fi": "Valkoviini tai reiniläinen viini, alkoholia 10 %"
+  },
+  {
+    "id": "livsmedelsverket:1912",
+    "fi": "Glögi, viinipohjainen, alkoholia 10 %"
+  },
+  {
+    "id": "livsmedelsverket:1914",
+    "fi": "Väkevä viini, Madeira-tyyppinen, alkoholia 18 %"
+  },
+  {
+    "id": "livsmedelsverket:1915",
+    "fi": "Väkevä viini, portviinityyppinen, alkoholia 20 %"
+  },
+  {
+    "id": "livsmedelsverket:1916",
+    "fi": "Väkevä viini, sherrytyyppinen, alkoholia 17 %"
+  },
+  {
+    "id": "livsmedelsverket:1917",
+    "fi": "Glögi, väkevällä viinillä, alkoholia 16 %"
+  },
+  {
+    "id": "livsmedelsverket:1918",
+    "fi": "Viina tai vodka, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1919",
+    "fi": "Likööri, makea, alkoholia 24 %"
+  },
+  {
+    "id": "livsmedelsverket:1920",
+    "fi": "Likööri, Kaptenlöjtnant-tyyppinen, alkoholia 38 %"
+  },
+  {
+    "id": "livsmedelsverket:1921",
+    "fi": "Konjakki tai brandy, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1922",
+    "fi": "Punssi, alkoholia 26 %"
+  },
+  {
+    "id": "livsmedelsverket:1923",
+    "fi": "Rommi, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1924",
+    "fi": "Viina, maustettu, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1925",
+    "fi": "Gini, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1926",
+    "fi": "Viski, alkoholia 40 %"
+  },
+  {
+    "id": "livsmedelsverket:1927",
+    "fi": "Likööri, vähemmän makea, alkoholia 24 %"
+  },
+  {
+    "id": "livsmedelsverket:1929",
+    "fi": "Irish coffee, viskillä ja kermavaahdolla"
+  },
+  {
+    "id": "livsmedelsverket:1930",
+    "fi": "Tattarijauho"
+  },
+  {
+    "id": "livsmedelsverket:1931",
+    "fi": "Kauramustijauhe"
+  },
+  {
+    "id": "livsmedelsverket:1932",
+    "fi": "Ohrajauho, täysjyvä"
+  },
+  {
+    "id": "livsmedelsverket:1933",
+    "fi": "Maissijauho, keltainen, iduton"
+  },
+  {
+    "id": "livsmedelsverket:1934",
+    "fi": "Ruisjauho, täysjyvä"
+  },
+  {
+    "id": "livsmedelsverket:1935",
+    "fi": "Grahamjauho"
+  },
+  {
+    "id": "livsmedelsverket:1938",
+    "fi": "Vehnäjauho, leivontajauho"
+  },
+  {
+    "id": "livsmedelsverket:1941",
+    "fi": "Vehnäjauho"
+  },
+  {
+    "id": "livsmedelsverket:1945",
+    "fi": "Maissitärkkelys"
+  },
+  {
+    "id": "livsmedelsverket:1946",
+    "fi": "Perunajauho"
+  },
+  {
+    "id": "livsmedelsverket:1947",
+    "skip": "ei ruoanlaittoaines (ruoansulatusjauhe)"
+  },
+  {
+    "id": "livsmedelsverket:1948",
+    "skip": "ei ruoanlaittoaines (ruoansulatusjuoma)"
+  },
+  {
+    "id": "livsmedelsverket:1949",
+    "fi": "Soodavesi"
+  },
+  {
+    "id": "livsmedelsverket:1950",
+    "fi": "Vichyvesi"
+  },
+  {
+    "id": "livsmedelsverket:1951",
+    "fi": "Kivennäisvesi"
+  },
+  {
+    "id": "livsmedelsverket:1953",
+    "fi": "Hanavesi"
+  },
+  {
+    "id": "livsmedelsverket:1955",
+    "fi": "Pikakahvi, jauhe"
+  },
+  {
+    "id": "livsmedelsverket:1956",
+    "fi": "Pikakahvi, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1957",
+    "fi": "Kahvi, suodatettu"
+  },
+  {
+    "id": "livsmedelsverket:1958",
+    "fi": "Espresso, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1959",
+    "fi": "Pikakahvi, kofeiiniton, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1960",
+    "fi": "Teejauhe"
+  },
+  {
+    "id": "livsmedelsverket:1962",
+    "fi": "Tee, haudutettu"
+  },
+  {
+    "id": "livsmedelsverket:1963",
+    "fi": "Yrttitee, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1964",
+    "fi": "Ruusunmarjatee, mustaherukalla, juomavalmis"
+  },
+  {
+    "id": "livsmedelsverket:1965",
+    "fi": "Etikkahappoliuos, 12 %"
+  },
+  {
+    "id": "livsmedelsverket:1966",
+    "fi": "Viinietikka, etikkahappoa 7 %"
+  },
+  {
+    "id": "livsmedelsverket:1967",
+    "fi": "Omenaviinietikka, etikkahappoa 7 %"
+  },
+  {
+    "id": "livsmedelsverket:1968",
+    "fi": "Chilikastike, tomaattipohjainen"
+  },
+  {
+    "id": "livsmedelsverket:1969",
+    "fi": "Ketsuppi"
+  },
+  {
+    "id": "livsmedelsverket:1970",
+    "fi": "Brown sauce, HP-tyyppinen"
+  },
+  {
+    "id": "livsmedelsverket:1971",
+    "fi": "Grillikastike"
+  },
+  {
+    "id": "livsmedelsverket:1972",
+    "fi": "Sinappi, ruotsalainen"
+  },
+  {
+    "id": "livsmedelsverket:1973",
+    "fi": "Sinappi, ranskalainen"
+  },
+  {
+    "id": "livsmedelsverket:1975",
+    "fi": "Jodioitu suola"
+  },
+  {
+    "id": "livsmedelsverket:1976",
+    "fi": "Mineraalisuola"
+  },
+  {
+    "id": "livsmedelsverket:1977",
+    "fi": "Merisuola, jodioimaton"
+  },
+  {
+    "id": "livsmedelsverket:1978",
+    "fi": "Yrttisuola"
+  },
+  {
+    "id": "livsmedelsverket:1979",
+    "fi": "Hiiva, tuore"
+  },
+  {
+    "id": "livsmedelsverket:1980",
+    "fi": "Hiiva, kuivattu"
+  },
+  {
+    "id": "livsmedelsverket:1981",
+    "fi": "Leivinjauhe"
+  },
+  {
+    "id": "livsmedelsverket:2007",
+    "fi": "Sweet chili -kastike"
+  },
+  {
+    "id": "livsmedelsverket:2012",
+    "fi": "Teriyakikastike"
+  },
+  {
+    "id": "livsmedelsverket:2024",
+    "fi": "Mysli, täysjyvä, hedelmillä"
+  },
+  {
+    "id": "livsmedelsverket:2025",
+    "fi": "Mysli, täysjyvä, marjoilla"
+  },
+  {
+    "id": "livsmedelsverket:2027",
+    "fi": "Mysli, täysjyvä, sokerilla, hedelmillä ja pähkinöillä"
+  },
+  {
+    "id": "livsmedelsverket:2028",
+    "fi": "Crunchymysli, täysjyvä, sokerilla, rusinoilla ja kookoksella"
+  },
+  {
+    "id": "livsmedelsverket:2029",
+    "fi": "Crunchymysli, maustamaton, sokerilla ja kookoksella"
+  },
+  {
+    "id": "livsmedelsverket:2030",
+    "fi": "Mysli, täysjyvä, sokerilla, hedelmillä ja kookoksella"
+  },
+  {
+    "id": "livsmedelsverket:2031",
+    "fi": "Mysli, täysjyvä, sokerilla, hedelmillä ja marjoilla"
+  },
+  {
+    "id": "livsmedelsverket:2032",
+    "fi": "Mysli, täysjyvä, hedelmillä ja pähkinöillä"
+  },
+  {
+    "id": "livsmedelsverket:2033",
+    "fi": "Mysli, täysjyvä, hedelmällä ja banaanilla"
+  },
+  {
+    "id": "livsmedelsverket:2035",
+    "fi": "Surimi"
+  },
+  {
+    "id": "livsmedelsverket:2036",
+    "fi": "Ruokakerma, kasvipohjainen, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:2037",
+    "fi": "Ruokakerma, kasvipohjainen, rasvaa 7 %"
+  },
+  {
+    "id": "livsmedelsverket:2039",
+    "fi": "Kuohukermankorvike, maidolla ja öljyllä, rasvaa 20 %"
+  },
+  {
+    "id": "livsmedelsverket:2040",
+    "fi": "Kahvikermankorvike, maidolla ja öljyllä, rasvaa 10 %"
+  },
+  {
+    "id": "livsmedelsverket:2043",
+    "fi": "Crème fraîche, maustettu, rasvaa 13 %"
+  },
+  {
+    "id": "livsmedelsverket:2044",
+    "fi": "Crème fraîche, maustettu, rasvaa 28 %"
+  },
+  {
+    "id": "livsmedelsverket:2046",
+    "fi": "Mini fraiche, rasvaa 5 %"
+  },
+  {
+    "id": "livsmedelsverket:2047",
+    "fi": "Sulatejuusto, Grevé-tyyppinen, rasvaa 13 %"
+  },
+  {
+    "id": "livsmedelsverket:2048",
+    "fi": "Piimä, maustamaton, rasvaa 4,2 %"
+  },
+  {
+    "id": "livsmedelsverket:2049",
+    "fi": "Hedelmäjogurtti, eri makuja, rasvaa 3,6 %"
+  },
+  {
+    "id": "livsmedelsverket:2051",
+    "fi": "Valkosuklaa"
+  },
+  {
+    "id": "livsmedelsverket:2052",
+    "fi": "Tumma suklaa, kaakaota vähintään 70 %"
+  },
+  {
+    "id": "livsmedelsverket:2053",
+    "fi": "Tumma suklaa, kaakaota alle 70 %"
+  },
+  {
+    "id": "livsmedelsverket:2054",
+    "fi": "Leivontasuklaa, tumma"
+  },
+  {
+    "id": "livsmedelsverket:2055",
+    "fi": "Maitosuklaa"
+  },
+  {
+    "id": "livsmedelsverket:2056",
+    "fi": "Kebabliha, pakaste"
+  },
+  {
+    "id": "livsmedelsverket:2057",
+    "fi": "Avorioriisi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:2058",
+    "fi": "Paahdettu sipuli"
+  },
+  {
+    "id": "livsmedelsverket:2059",
+    "fi": "Jäätelöpuikko, hedelmällä ja maidolla, rasvaa 5,5 %"
+  },
+  {
+    "id": "livsmedelsverket:2060",
+    "fi": "Jäätelöpuikko, rasvaa 10 %"
+  },
+  {
+    "id": "livsmedelsverket:2061",
+    "fi": "Kuitupatukka, kauraa ja vehnää"
+  },
+  {
+    "id": "livsmedelsverket:2066",
+    "fi": "Kasvisgrillimakkara, soija- ja vehnäproteiini, kylmä- tai pakastetuote"
+  },
+  {
+    "id": "livsmedelsverket:2067",
+    "fi": "Kasvispyörykkä, soija- ja vehnäproteiini, kylmä- tai pakastetuote"
+  },
+  {
+    "id": "livsmedelsverket:2068",
+    "fi": "Soijarouhe, kylmä- tai pakastetuote"
+  },
+  {
+    "id": "livsmedelsverket:2069",
+    "fi": "Seitanpala"
+  },
+  {
+    "id": "livsmedelsverket:2070",
+    "fi": "Sojaruokakerma, rasvaa 17 %"
+  },
+  {
+    "id": "livsmedelsverket:2071",
+    "fi": "Myslipatukka, täysjyvä, punaisilla hedelmillä"
+  },
+  {
+    "id": "livsmedelsverket:2072",
+    "fi": "Myslipatukka, suklaalla"
+  },
+  {
+    "id": "livsmedelsverket:2079",
+    "fi": "Munanuudeli, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2097",
+    "fi": "Prinssinakki, paistettu, lihaa 61 %"
+  },
+  {
+    "id": "livsmedelsverket:2101",
+    "fi": "Naudan jauheliha, paistettu, suolalla, rasvaa 10 %"
+  },
+  {
+    "id": "livsmedelsverket:2103",
+    "fi": "Naudan- tai sianliha, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:2123",
+    "fi": "Kaurapuuro, täysjyvä, kuitukaurahiutaleista"
+  },
+  {
+    "id": "livsmedelsverket:2124",
+    "fi": "Kaurapuuro, maitoon keitetty"
+  },
+  {
+    "id": "livsmedelsverket:2125",
+    "fi": "Lasinuudeli, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2128",
+    "fi": "Puuro"
+  },
+  {
+    "id": "livsmedelsverket:2160",
+    "fi": "Punakaalisalaatti, omenalla"
+  },
+  {
+    "id": "livsmedelsverket:2161",
+    "fi": "Herkkusieni, paistettu ilman rasvaa"
+  },
+  {
+    "id": "livsmedelsverket:2162",
+    "fi": "Palsternakka, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2164",
+    "fi": "Fenkoli, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:2189",
+    "fi": "Rypsiöljy"
+  },
+  {
+    "id": "livsmedelsverket:2190",
+    "fi": "Rasvaseos, rasvaa 75 %"
+  },
+  {
+    "id": "livsmedelsverket:2192",
+    "fi": "Kevytmargariini, rasvaa 40 %"
+  },
+  {
+    "id": "livsmedelsverket:2197",
+    "fi": "Munakokkeli"
+  },
+  {
+    "id": "livsmedelsverket:2205",
+    "fi": "Kananmuna, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:2214",
+    "fi": "Aloe vera -mehu, maustamaton"
+  },
+  {
+    "id": "livsmedelsverket:2216",
+    "fi": "Aloe vera -mehu, vihreällä teellä"
+  },
+  {
+    "id": "livsmedelsverket:2217",
+    "fi": "Aloe vera -juoma, karpalolla ja omenalla"
+  },
+  {
+    "id": "livsmedelsverket:2218",
+    "fi": "Aloe vera -juoma, maustamaton"
+  },
+  {
+    "id": "livsmedelsverket:2219",
+    "fi": "Toscakuorrute"
+  },
+  {
+    "id": "livsmedelsverket:2220",
+    "fi": "Gluteeniton makaroni tai spagetti, raaka"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:5145",
+    "fi": "Sinisorsa, rinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5146",
+    "fi": "Hanhi, tarhattu, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5148",
+    "fi": "Hanhi, tarhattu, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5150",
+    "fi": "Hanhenmaksa, raaka"
+  },
+  {
+    "id": "usda:5151",
+    "fi": "Helmikana, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5152",
+    "fi": "Helmikana, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5153",
+    "fi": "Fasaani, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5154",
+    "fi": "Fasaani, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5155",
+    "fi": "Fasaani, rinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5156",
+    "fi": "Fasaani, koipi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5157",
+    "fi": "Viiriäinen, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5158",
+    "fi": "Viiriäinen, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5159",
+    "fi": "Viiriäinen, rinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5160",
+    "fi": "Kyyhkynpoika, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5161",
+    "fi": "Kyyhkynpoika, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5162",
+    "fi": "Kyyhkynpoika, vaalea liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5165",
+    "fi": "Kalkkuna, kokonainen, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5167",
+    "fi": "Kalkkuna, kokonainen, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5169",
+    "fi": "Kalkkunannahka, raaka"
+  },
+  {
+    "id": "usda:5171",
+    "fi": "Kalkkuna, sisäelimet, raaka"
+  },
+  {
+    "id": "usda:5173",
+    "fi": "Kalkkunan kivipiira, raaka"
+  },
+  {
+    "id": "usda:5175",
+    "fi": "Kalkkunansydän, raaka"
+  },
+  {
+    "id": "usda:5177",
+    "fi": "Kalkkunanmaksa, raaka"
+  },
+  {
+    "id": "usda:5179",
+    "fi": "Kalkkunankaula, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5181",
+    "fi": "Kalkkuna, vaalea liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5183",
+    "fi": "Kalkkuna, tumma liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5185",
+    "fi": "Kalkkuna, vaalea liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5187",
+    "fi": "Kalkkuna, tumma liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5191",
+    "fi": "Kalkkunanrinta, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5193",
+    "fi": "Kalkkunankoipi, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5195",
+    "fi": "Kalkkunansiipi, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5215",
+    "fi": "Kalkkunanselkä, nahaton, raaka"
+  },
+  {
+    "id": "usda:5219",
+    "fi": "Kalkkunanrinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5227",
+    "fi": "Kalkkunansiipi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5277",
+    "fi": "Broileri, säilyke, liha, liemineen"
+  },
+  {
+    "id": "usda:5282",
+    "fi": "Hanhenmaksapatee, säilyke, savustettu"
+  },
+  {
+    "id": "usda:5284",
+    "fi": "Kalkkuna, säilyke, liha, liemineen"
+  },
+  {
+    "id": "usda:5285",
+    "fi": "Kalkkuna, kuutioitu, maustettu"
+  },
+  {
+    "id": "usda:5286",
+    "fi": "Kalkkuna kastikkeessa, pakaste"
+  },
+  {
+    "id": "usda:5295",
+    "fi": "Kalkkunapaisti, luuton, pakaste, maustettu, raaka"
+  },
+  {
+    "id": "usda:5301",
+    "fi": "Siipikarja, mekaanisesti erotettu, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5302",
+    "fi": "Siipikarja, mekaanisesti erotettu, nahaton, raaka"
+  },
+  {
+    "id": "usda:5303",
+    "fi": "Kana, mekaanisesti erotettu, raaka"
+  },
+  {
+    "id": "usda:5304",
+    "fi": "Kalkkuna, mekaanisesti erotettu, raaka"
+  },
+  {
+    "id": "usda:5305",
+    "fi": "Kalkkunan jauheliha, raaka"
+  },
+  {
+    "id": "usda:5307",
+    "fi": "Minikukko, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5309",
+    "fi": "Minikukko, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5311",
+    "fi": "Broileri, säilyke, ilman lientä"
+  },
+  {
+    "id": "usda:5312",
+    "fi": "Broilerin siipi, pakaste, grillikastikemakuinen"
+  },
+  {
+    "id": "usda:5314",
+    "fi": "Broilerinrinta, nahaton ja luuton, liha, raaka"
+  },
+  {
+    "id": "usda:5323",
+    "fi": "Broileripihvi, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:5327",
+    "fi": "Broilerin rintafileesuikale, leivitetty, kypsentämätön"
+  },
+  {
+    "id": "usda:5332",
+    "fi": "Broilerin jauheliha, raaka"
+  },
+  {
+    "id": "usda:5363",
+    "fi": "Pyy, rintaliha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5621",
+    "fi": "Emu, jauheliha, raaka"
+  },
+  {
+    "id": "usda:5623",
+    "fi": "Emu, fan filee, raaka"
+  },
+  {
+    "id": "usda:5625",
+    "fi": "Emu, litteä filee, raaka"
+  },
+  {
+    "id": "usda:5626",
+    "fi": "Emu, paisti, raaka"
+  },
+  {
+    "id": "usda:5628",
+    "fi": "Emu, sisäreisi, raaka"
+  },
+  {
+    "id": "usda:5630",
+    "fi": "Emu, ulkoreisi, raaka"
+  },
+  {
+    "id": "usda:5631",
+    "fi": "Emu, oyster-liha, raaka"
+  },
+  {
+    "id": "usda:5641",
+    "fi": "Strutsi, jauheliha, raaka"
+  },
+  {
+    "id": "usda:5643",
+    "fi": "Strutsi, fan-liha, raaka"
+  },
+  {
+    "id": "usda:5644",
+    "fi": "Strutsi, sisäkoipi, raaka"
+  },
+  {
+    "id": "usda:5646",
+    "fi": "Strutsi, sisäsuikale, raaka"
+  },
+  {
+    "id": "usda:5648",
+    "fi": "Strutsi, ulkokoipi, raaka"
+  },
+  {
+    "id": "usda:5649",
+    "fi": "Strutsi, ulkosuikale, raaka"
+  },
+  {
+    "id": "usda:5651",
+    "fi": "Strutsi, oyster-liha, raaka"
+  },
+  {
+    "id": "usda:5653",
+    "fi": "Strutsi, paisti, raaka"
+  },
+  {
+    "id": "usda:5654",
+    "fi": "Strutsi, sisäfilee, raaka"
+  },
+  {
+    "id": "usda:5655",
+    "fi": "Strutsi, kärkipala, puhdistettu, raaka"
+  },
+  {
+    "id": "usda:5657",
+    "fi": "Strutsi, ulkofilee, raaka"
+  },
+  {
+    "id": "usda:5662",
+    "fi": "Kalkkunan jauheliha, rasvaton, raaka"
+  },
+  {
+    "id": "usda:5665",
+    "fi": "Kalkkunan jauheliha, rasvaa 7 %, raaka"
+  },
+  {
+    "id": "usda:5668",
+    "fi": "Kalkkunan jauheliha, rasvaa 15 %, raaka"
+  },
+  {
+    "id": "usda:5674",
+    "fi": "Broilerinnahka, koivista ja reisistä, raaka"
+  },
+  {
+    "id": "usda:5678",
+    "fi": "Broilerin koipi, tumma liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5682",
+    "fi": "Broilerin reisi, tumma liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5685",
+    "fi": "Broilerinnahka, koivista ja reisistä, raaka"
+  },
+  {
+    "id": "usda:5688",
+    "fi": "Broilerin koipi, tumma liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5691",
+    "fi": "Broilerin reisi, tumma liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5694",
+    "fi": "Kalkkuna, tumma liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5696",
+    "fi": "Kalkkuna, vaalea liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5698",
+    "fi": "Kalkkunannahka, raaka"
+  },
+  {
+    "id": "usda:5700",
+    "fi": "Kalkkuna, tumma liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5702",
+    "fi": "Kalkkuna, vaalea liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5704",
+    "fi": "Kalkkuna, kokonainen, liha, nahaton, raaka"
+  },
+  {
+    "id": "usda:5706",
+    "fi": "Kalkkuna, kokonainen, liha ja nahka, raaka"
+  },
+  {
+    "id": "usda:5708",
+    "fi": "Kalkkunanrinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5710",
+    "fi": "Kalkkunanrinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5712",
+    "fi": "Kalkkunansiipi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5714",
+    "fi": "Kalkkunannahka, tummasta lihasta, raaka"
+  },
+  {
+    "id": "usda:5716",
+    "fi": "Kalkkunan koipipala, nahaton, raaka"
+  },
+  {
+    "id": "usda:5717",
+    "fi": "Kalkkunan reisi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5719",
+    "fi": "Kalkkunanselkä, nahaton, raaka"
+  },
+  {
+    "id": "usda:5721",
+    "fi": "Kalkkunanrinta, nahaton, raaka"
+  },
+  {
+    "id": "usda:5724",
+    "fi": "Kalkkunan koipipala, nahaton, raaka"
+  },
+  {
+    "id": "usda:5726",
+    "fi": "Kalkkunan reisi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5727",
+    "fi": "Kalkkunanrinta, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5729",
+    "fi": "Kalkkunansiipi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5732",
+    "fi": "Kalkkunanrinta, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5734",
+    "fi": "Kalkkunansiipi, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5736",
+    "fi": "Kalkkunan koipipala, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5738",
+    "fi": "Kalkkunan koipipala, nahaton, raaka"
+  },
+  {
+    "id": "usda:5740",
+    "fi": "Kalkkunan reisi, nahaton, raaka"
+  },
+  {
+    "id": "usda:5742",
+    "fi": "Kalkkunan reisi, nahallinen, raaka"
+  },
+  {
+    "id": "usda:5744",
+    "fi": "Kalkkunanselkä, nahallinen, raaka"
+  },
+  {
+    "id": "usda:6001",
+    "fi": "Parsakeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6002",
+    "fi": "Mustapapukeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6004",
+    "fi": "Papukeitto sianlihalla, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6006",
+    "fi": "Papukeitto nakilla, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6007",
+    "fi": "Papukeitto kinkulla, säilyke, valmis"
+  },
+  {
+    "id": "usda:6008",
+    "fi": "Naudanlihaliemi, säilyke, valmis"
+  },
+  {
+    "id": "usda:6009",
+    "fi": "Naudanliha-nuudelikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6010",
+    "fi": "Sellerikeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6011",
+    "fi": "Juustokeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6013",
+    "fi": "Kanaliemi, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6015",
+    "fi": "Kanakeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6016",
+    "fi": "Kanakeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6017",
+    "fi": "Kanagumbokeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6018",
+    "fi": "Kana-nuudelikeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6019",
+    "fi": "Kana-nuudelikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6022",
+    "fi": "Kana-riisikeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6023",
+    "fi": "Kana-riisikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6024",
+    "fi": "Kana-vihanneskeitto, säilyke, valmis"
+  },
+  {
+    "id": "usda:6025",
+    "fi": "Kana-vihanneskeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6026",
+    "fi": "Chilikeitto naudanlihalla, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6027",
+    "fi": "Simpukkakeitto, manhattanilainen, säilyke, valmis"
+  },
+  {
+    "id": "usda:6028",
+    "fi": "Simpukkakeitto, manhattanilainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6030",
+    "fi": "Simpukkakeitto, uusenglantilainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6032",
+    "fi": "Naudanlihaliemi ja konsommee, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6037",
+    "fi": "Linssikeitto kinkulla, säilyke, valmis"
+  },
+  {
+    "id": "usda:6039",
+    "fi": "Minestronekeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6040",
+    "fi": "Minestronekeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6042",
+    "fi": "Sieni-ohrakeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6043",
+    "fi": "Sienikeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6044",
+    "fi": "Sienikeitto naudanlihaliemellä, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6045",
+    "fi": "Sipulikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6046",
+    "fi": "Sipulikeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6048",
+    "fi": "Osterikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6049",
+    "fi": "Hernekeitto, vihreä, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6050",
+    "fi": "Hernekeitto kinkulla, halkaistuista herneistä, säilyke, valmis"
+  },
+  {
+    "id": "usda:6051",
+    "fi": "Hernekeitto kinkulla, halkaistuista herneistä, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6053",
+    "fi": "Perunakeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6056",
+    "fi": "Katkarapukeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6061",
+    "fi": "Tomaatti-naudanliha-nuudelikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6063",
+    "fi": "Tomaatti-riisikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6064",
+    "fi": "Kalkkunakeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6067",
+    "fi": "Vihanneskeitto, palainen, säilyke, valmis"
+  },
+  {
+    "id": "usda:6068",
+    "fi": "Kasviskeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6070",
+    "fi": "Naudanlihakeitto, palainen, säilyke, valmis"
+  },
+  {
+    "id": "usda:6071",
+    "fi": "Vihannes-naudanlihakeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6072",
+    "fi": "Vihanneskeitto naudanlihaliemellä, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6075",
+    "fi": "Naudanlihaliemi, jauhe, kuiva"
+  },
+  {
+    "id": "usda:6076",
+    "fi": "Naudanlihaliemikuutio, kuiva"
+  },
+  {
+    "id": "usda:6080",
+    "fi": "Kanaliemi, kuiva"
+  },
+  {
+    "id": "usda:6081",
+    "fi": "Kanaliemikuutio, kuiva"
+  },
+  {
+    "id": "usda:6094",
+    "fi": "Sipulikeitto, kuivaseos"
+  },
+  {
+    "id": "usda:6101",
+    "fi": "Vihanneskeitto, kermainen, jauhe"
+  },
+  {
+    "id": "usda:6112",
+    "fi": "Teriyakikastike"
+  },
+  {
+    "id": "usda:6114",
+    "fi": "Au jus -kastike, säilyke"
+  },
+  {
+    "id": "usda:6115",
+    "fi": "Au jus -kastike, kuiva"
+  },
+  {
+    "id": "usda:6116",
+    "fi": "Naudanlihakastike, säilyke, valmis"
+  },
+  {
+    "id": "usda:6118",
+    "fi": "Ruskea kastike, kuivaseos"
+  },
+  {
+    "id": "usda:6119",
+    "fi": "Kanakastike, säilyke, valmis"
+  },
+  {
+    "id": "usda:6120",
+    "fi": "Kanakastike, kuivaseos"
+  },
+  {
+    "id": "usda:6121",
+    "fi": "Sienikastike, säilyke"
+  },
+  {
+    "id": "usda:6122",
+    "fi": "Sienikastike, jauhe"
+  },
+  {
+    "id": "usda:6123",
+    "fi": "Sipulikastike, kuivaseos"
+  },
+  {
+    "id": "usda:6124",
+    "fi": "Porsaanlihakastike, jauhe"
+  },
+  {
+    "id": "usda:6125",
+    "fi": "Kalkkunakastike, säilyke, valmis"
+  },
+  {
+    "id": "usda:6126",
+    "fi": "Kalkkunakastike, kuivaseos"
+  },
+  {
+    "id": "usda:6127",
+    "fi": "Kastike, kuivaseos"
+  },
+  {
+    "id": "usda:6128",
+    "fi": "Kana-nuudelikeitto, kuivaseos"
+  },
+  {
+    "id": "usda:6142",
+    "fi": "Sofrito, kotitekoinen"
+  },
+  {
+    "id": "usda:6147",
+    "fi": "Naudanliha-sienikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6149",
+    "fi": "Kana-sienikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6150",
+    "fi": "Barbecuekastike"
+  },
+  {
+    "id": "usda:6151",
+    "fi": "Luumukastike"
+  },
+  {
+    "id": "usda:6152",
+    "fi": "Pizzakastike, säilyke"
+  },
+  {
+    "id": "usda:6158",
+    "fi": "Tomaattikeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6159",
+    "fi": "Tomaattikeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6164",
+    "fi": "Salsa"
+  },
+  {
+    "id": "usda:6165",
+    "fi": "Valkokastike, kotitekoinen, ohut"
+  },
+  {
+    "id": "usda:6166",
+    "fi": "Valkokastike, kotitekoinen, keskivahva"
+  },
+  {
+    "id": "usda:6167",
+    "fi": "Valkokastike, kotitekoinen, paksu"
+  },
+  {
+    "id": "usda:6168",
+    "fi": "Chilikastike, tulinen"
+  },
+  {
+    "id": "usda:6170",
+    "fi": "Naudanlihaliemi, kotitekoinen"
+  },
+  {
+    "id": "usda:6172",
+    "fi": "Kanaliemi, kotitekoinen"
+  },
+  {
+    "id": "usda:6174",
+    "fi": "Kalaliemi, kotitekoinen"
+  },
+  {
+    "id": "usda:6175",
+    "fi": "Hoisinkastike"
+  },
+  {
+    "id": "usda:6176",
+    "fi": "Osterikastike"
+  },
+  {
+    "id": "usda:6177",
+    "fi": "Minestronekeitto, vähäsuolainen, säilyke, valmis"
+  },
+  {
+    "id": "usda:6179",
+    "fi": "Kalakastike"
+  },
+  {
+    "id": "usda:6180",
+    "fi": "Haineväkeitto, ravintolassa valmistettu"
+  },
+  {
+    "id": "usda:6183",
+    "fi": "Kanaliemi, vähäsuolainen, valmis"
+  },
+  {
+    "id": "usda:6188",
+    "fi": "Naudanlihaliemi, vähäsuolainen, valmis"
+  },
+  {
+    "id": "usda:6190",
+    "fi": "Papukeitto kinkulla, vähäsuolainen, säilyke"
+  },
+  {
+    "id": "usda:6192",
+    "fi": "Hernekeitto, vähäsuolainen, säilyke"
+  },
+  {
+    "id": "usda:6193",
+    "fi": "Hernekeitto kinkulla, vähäsuolainen, säilyke"
+  },
+  {
+    "id": "usda:6194",
+    "fi": "Kanaliemi, valmis"
+  },
+  {
+    "id": "usda:6201",
+    "fi": "Parsakeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6208",
+    "fi": "Kana-vihanneskeitto perunalla ja juustolla, valmis"
+  },
+  {
+    "id": "usda:6210",
+    "fi": "Sellerikeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6211",
+    "fi": "Juustokeitto, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6216",
+    "fi": "Kanakeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6217",
+    "fi": "Vihanneskeitto, vähäsuolainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6230",
+    "fi": "Simpukkakeitto, uusenglantilainen, säilyke, kevytmaidolla valmistettu"
+  },
+  {
+    "id": "usda:6243",
+    "fi": "Sienikeitto, kermainen, säilyke, kevytmaidolla valmistettu"
+  },
+  {
+    "id": "usda:6246",
+    "fi": "Sipulikeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6248",
+    "fi": "Osterikeitto, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6249",
+    "fi": "Hernekeitto, vihreä, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6253",
+    "fi": "Perunakeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6256",
+    "fi": "Katkarapukeitto, kermainen, säilyke, kevytmaidolla valmistettu"
+  },
+  {
+    "id": "usda:6264",
+    "fi": "Valkokastike, kotitekoinen, voilla"
+  },
+  {
+    "id": "usda:6285",
+    "fi": "Hapanimeläkastike, kotitekoinen"
+  },
+  {
+    "id": "usda:6358",
+    "fi": "Tomaattikeitto, kermainen, säilyke, maidolla valmistettu"
+  },
+  {
+    "id": "usda:6359",
+    "fi": "Tomaattikeitto, säilyke, kevytmaidolla valmistettu"
+  },
+  {
+    "id": "usda:6401",
+    "fi": "Parsakeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6402",
+    "fi": "Mustapapukeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6404",
+    "fi": "Papukeitto sianlihalla, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6406",
+    "fi": "Papukeitto nakilla, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6409",
+    "fi": "Naudanliha-nuudelikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6410",
+    "fi": "Sellerikeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6411",
+    "fi": "Juustokeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6413",
+    "fi": "Kanaliemi, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6416",
+    "fi": "Kanakeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6417",
+    "fi": "Kanagumbokeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6419",
+    "fi": "Kana-nuudelikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6423",
+    "fi": "Kana-riisikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6426",
+    "fi": "Chilikeitto naudanlihalla, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6428",
+    "fi": "Simpukkakeitto, manhattanilainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6430",
+    "fi": "Simpukkakeitto, uusenglantilainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6432",
+    "fi": "Naudanlihaliemi ja konsommee, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6440",
+    "fi": "Minestronekeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6442",
+    "fi": "Sieni-ohrakeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6443",
+    "fi": "Sienikeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6444",
+    "fi": "Sienikeitto naudanlihaliemellä, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6446",
+    "fi": "Sipulikeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6448",
+    "fi": "Osterikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6449",
+    "fi": "Hernekeitto, vihreä, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6451",
+    "fi": "Hernekeitto kinkulla, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6453",
+    "fi": "Perunakeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6456",
+    "fi": "Katkarapukeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6461",
+    "fi": "Tomaatti-naudanliha-nuudelikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6463",
+    "fi": "Tomaatti-riisikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6465",
+    "fi": "Kalkkuna-nuudelikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6466",
+    "fi": "Kalkkuna-vihanneskeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6468",
+    "fi": "Kasviskeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6471",
+    "fi": "Vihannes-naudanlihakeitto, säilyke, vedellä valmistettu"
+  }
+]

@@ -10,19 +10,28 @@
  *      ("kirsikkatomaatti" -> tomaatti; "kesäkurpitsaraaste" -> kesäkurpitsa)
  *      – guarded by notWithPrefixes so "kookosmaito" never becomes milk
  *   4. Search Fineli food names directly                                 ≤0.55 'fineli-search'
- *   5. nothing                                                            0    'none'
+ *   5. Fineli has nothing suitable or likely: search the supplementary   ≤0.6  'supplementary-search'
+ *      databases (Livsmedelsverket, USDA – Finnish names, see supplementary.ts)
+ *   6. nothing                                                            0    'none'
  *
- * The final nutrition confidence is multiplied by the canonical ingredient's
- * fineliConfidence (how well the chosen Fineli food represents it).
+ * Fineli is the master data: steps 1–4 only ever use Fineli foods. The final nutrition
+ * confidence is multiplied by the canonical ingredient's fineliConfidence (how well the chosen
+ * Fineli food represents it). A dictionary entry that Fineli can only approximate may name a
+ * supplementary food for the same ingredient (`supplementary`), which is then used instead.
  */
 import { cleanIngredientName, lemmaCandidates, NEUTRAL_MODIFIERS, normalizeKey, tokenize } from './finnish'
 import { INGREDIENTS, getIngredient, type CanonicalIngredient } from './ingredients'
 import { findProduct, type ProductMatchEntry } from './products'
+import { foodSourceLabel, parseSupplementaryRef } from './supplementary'
 import type { FineliFood, MatchMethod } from './types'
 
 export interface FineliLookup {
+  /** Any nutrition food: Fineli, supplementary or the user's own product. */
   get(id: number): FineliFood | undefined
+  /** Fineli foods only. */
   all(): FineliFood[]
+  /** Supplementary foods, used only when Fineli has nothing suitable (see supplementary.ts). */
+  supplementary?(): FineliFood[]
 }
 
 export interface UserMappingLookup {
@@ -124,9 +133,9 @@ function matchCompound(word: string): { ing: CanonicalIngredient; via: string; f
   return null
 }
 
-// --- Fineli name search ------------------------------------------------------------------------
+// --- Food name search (Fineli, then supplementary) ----------------------------------------------
 
-interface FineliNameEntry {
+interface FoodNameEntry {
   food: FineliFood
   first: string
   /** Comma-separated name parts after the first ("Juusto, emmental" -> ["emmental"]). */
@@ -134,64 +143,103 @@ interface FineliNameEntry {
   /** Every word of every part. */
   words: Set<string>
   lower: string
+  parts: number
 }
-interface FineliSearchIndex {
-  entries: FineliNameEntry[]
+/**
+ * How the ingredient's head word was found in a food name:
+ *   first – it is the food's main name ("Tomaatti, …")   → a likely match
+ *   part  – it is a whole comma part ("Juusto, emmental") → a likely match
+ *   word  – it is just one word somewhere in the name    → weak
+ */
+export type SearchTier = 'first' | 'part' | 'word'
+export interface FoodSearchResult {
+  food: FineliFood
+  score: number
+  tier: SearchTier
+}
+interface FoodSearchIndex {
+  entries: FoodNameEntry[]
   /** Results by name: recipes repeat the same ingredient names a lot. */
-  results: Map<string, { food: FineliFood; score: number } | null>
+  results: Map<string, FoodSearchResult | null>
 }
-const fineliIndexCache = new WeakMap<FineliLookup, FineliSearchIndex>()
+/** Keyed by the food list itself, so a replaced list (new dataset) gets a fresh index. */
+const searchIndexCache = new WeakMap<FineliFood[], FoodSearchIndex>()
 
-function fineliIndex(lookup: FineliLookup): FineliSearchIndex {
-  let index = fineliIndexCache.get(lookup)
+function searchIndex(foods: FineliFood[]): FoodSearchIndex {
+  let index = searchIndexCache.get(foods)
   if (!index) {
-    const entries = lookup.all().map((food) => {
+    const entries = foods.map((food) => {
       const lower = food.fi.toLowerCase()
       const segments = lower.split(',').map((s) => s.trim()).filter(Boolean)
       return { food, first: segments[0] ?? '', rest: new Set(segments.slice(1)), words: new Set(segments.flatMap((s) => s.split(' '))), lower, parts: segments.length }
     })
     index = { entries, results: new Map() }
-    fineliIndexCache.set(lookup, index)
+    searchIndexCache.set(foods, index)
   }
   return index
 }
 
-/** Search Fineli foods for an ingredient name. Returns the best food and a score (0..0.55). */
-export function searchFineli(
-  lookup: FineliLookup,
-  name: string,
-): { food: FineliFood; score: number } | null {
-  const index = fineliIndex(lookup)
+function cachedSearch(foods: FineliFood[], name: string, compounds: boolean): FoodSearchResult | null {
+  const index = searchIndex(foods)
   const cached = index.results.get(name)
   if (cached !== undefined) return cached
-  const found = searchFineliUncached(index.entries as (FineliNameEntry & { parts: number })[], name)
+  const found = searchFoodsUncached(index.entries, name, compounds)
   if (index.results.size > 20000) index.results.clear()
   index.results.set(name, found)
   return found
 }
 
-function searchFineliUncached(entries: (FineliNameEntry & { parts: number })[], name: string): { food: FineliFood; score: number } | null {
+/** Search Fineli foods for an ingredient name. Returns the best food and a score (0..0.55). */
+export function searchFineli(lookup: FineliLookup, name: string): FoodSearchResult | null {
+  return cachedSearch(lookup.all(), name, false)
+}
+
+/**
+ * Search the supplementary foods. Same scoring as Fineli; the last two words may also form a
+ * compound ("naudan paisti" -> "naudanpaisti"), and a food whose whole name is the ingredient
+ * ("Worcestershirekastike") scores 0.6.
+ */
+export function searchSupplementary(lookup: FineliLookup, name: string): FoodSearchResult | null {
+  const foods = lookup.supplementary?.()
+  return foods?.length ? cachedSearch(foods, name, true) : null
+}
+
+function searchFoodsUncached(entries: FoodNameEntry[], name: string, compounds: boolean): FoodSearchResult | null {
   const tokens = tokenize(name)
   if (tokens.length === 0) return null
   const head = tokens[tokens.length - 1]
   const headCands = lemmaCandidates(head).filter((c) => c.length >= 4)
+  if (compounds && tokens.length > 1) {
+    const prev = tokens[tokens.length - 2]
+    for (const p of new Set([prev, ...lemmaCandidates(prev)])) {
+      for (const h of lemmaCandidates(head)) if (p.length >= 3 && h.length >= 3) headCands.push(p + h)
+    }
+  }
   const otherCands = [...new Set(tokens.slice(0, -1).flatMap((t) => lemmaCandidates(t)).filter((c) => c.length >= 4))]
-  let best: { food: FineliFood; score: number } | null = null
+  let best: FoodSearchResult | null = null
   for (const e of entries) {
     let score = 0
-    if (headCands.includes(e.first)) score = 0.55
-    else if (headCands.some((c) => e.rest.has(c))) score = 0.5
-    else if (headCands.some((c) => e.words.has(c))) score = 0.45
+    let tier: SearchTier = 'word'
+    if (headCands.includes(e.first)) {
+      score = 0.55
+      tier = 'first'
+    } else if (headCands.some((c) => e.rest.has(c))) {
+      score = 0.5
+      tier = 'part'
+    } else if (headCands.some((c) => e.words.has(c))) score = 0.45
     if (score === 0) continue
+    if (compounds && tier === 'first' && e.parts === 1) score = 0.6
     if (otherCands.some((c) => e.lower.includes(c))) score += 0.03
     if (e.food.type !== 'FOOD') score -= 0.05
     if (e.food.process === 'RAW' || e.food.process === 'IND') score += 0.01
     // shorter names are more generic ("Tomaatti" over "Tomaatti, aurinkokuivattu, öljyssä")
     score -= Math.min(0.04, e.parts * 0.01)
-    if (!best || score > best.score) best = { food: e.food, score }
+    if (!best || score > best.score) best = { food: e.food, score, tier }
   }
-  return best && best.score >= 0.4 ? { food: best.food, score: Math.min(0.55, best.score) } : null
+  const cap = compounds ? 0.6 : 0.55
+  return best && best.score >= 0.4 ? { ...best, score: Math.min(cap, best.score) } : null
 }
+
 
 // --- Public API -------------------------------------------------------------------------------
 
@@ -205,7 +253,21 @@ function result(
   method: MatchMethod,
   key: string,
   how: string,
+  ctx: MatchContext = {},
 ): IngredientMatch {
+  // Fineli only approximates this ingredient: use the named supplementary food when it's loaded.
+  const suppId = ing.supplementary ? parseSupplementaryRef(ing.supplementary) : null
+  const supp = suppId !== null ? ctx.fineli?.get(suppId) : undefined
+  if (supp) {
+    return {
+      canonicalId: ing.id,
+      fineliId: supp.id,
+      confidence: round2(matchConfidence * (ing.supplementaryConfidence ?? 0.9)),
+      method,
+      key,
+      explanation: `${how} → ${ing.fi}. Finelissä ei ole tätä; ravintoarvot: ${foodSourceLabel(supp)} – ${supp.fi}.`,
+    }
+  }
   const confidence = ing.fineliId === null ? 0 : round2(matchConfidence * ing.fineliConfidence)
   const approx = ing.approximationNote ? ` ${ing.approximationNote}` : ''
   return {
@@ -257,7 +319,7 @@ export function matchIngredient(name: string, ctx: MatchContext = {}, raw?: stri
   if (auto.method === 'exact' || !raw) return auto
   const product = findProductName(raw)
   if (!product || product.ing.id === auto.canonicalId) return auto
-  return result(product.ing, 0.9, 'alias', auto.key, `Tuotenimi "${product.name}"`)
+  return result(product.ing, 0.9, 'alias', auto.key, `Tuotenimi "${product.name}"`, ctx)
 }
 
 function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
@@ -290,7 +352,7 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
   for (let s = 0; s < n; s++) {
     const hit = lookupPhrase(cands.slice(s))
     if (!hit) continue
-    if (s === 0) return result(hit, 1, 'exact', key, `Tunnistettu nimi "${cleaned}"`)
+    if (s === 0) return result(hit, 1, 'exact', key, `Tunnistettu nimi "${cleaned}"`, ctx)
     const dropped = tokens.slice(0, s)
     const neutral = dropped.every((w) => NEUTRAL_MODIFIERS.has(w))
     return result(
@@ -299,6 +361,7 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
       neutral ? 'alias' : 'modifier-dropped',
       key,
       `Tunnistettu "${tokens.slice(s).join(' ')}" (ohitettu: ${dropped.join(' ')})`,
+      ctx,
     )
   }
 
@@ -310,7 +373,7 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
     const how = comp.formOf
       ? `Yhdyssanan alkuosa "${comp.via}" (${comp.formOf})`
       : `Yhdyssanan perusosa "${comp.via}" sanasta "${tokens[t]}"`
-    return result(comp.ing, conf, 'compound-head', key, how)
+    return result(comp.ing, conf, 'compound-head', key, how, ctx)
   }
   const headCompound = compoundResult(n - 1)
   if (headCompound) return headCompound
@@ -319,7 +382,7 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
   for (let e = n - 2; e >= 0; e--) {
     for (let s = 0; s <= e; s++) {
       const hit = lookupPhrase(cands.slice(s, e + 1))
-      if (hit) return result(hit, 0.7, 'modifier-dropped', key, `Tunnistettu "${tokens.slice(s, e + 1).join(' ')}"`)
+      if (hit) return result(hit, 0.7, 'modifier-dropped', key, `Tunnistettu "${tokens.slice(s, e + 1).join(' ')}"`, ctx)
     }
   }
 
@@ -329,19 +392,32 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
     if (r) return r
   }
 
-  // 4. direct Fineli search
+  // 4. direct Fineli search – Fineli is the master data
   if (ctx.fineli) {
     const found = searchFineli(ctx.fineli, cleaned)
-    if (found) {
+    const fineliMatch = (f: FoodSearchResult): IngredientMatch => ({
+      canonicalId: null,
+      fineliId: f.food.id,
+      confidence: round2(f.score),
+      method: 'fineli-search',
+      key,
+      explanation: `Ei sanakirjassa; lähin Fineli-elintarvike nimen perusteella → ${f.food.fi}.`,
+    })
+    // A likely Fineli food (the ingredient is its main name or a whole name part) always wins.
+    if (found && found.tier !== 'word') return fineliMatch(found)
+    // 5. nothing suitable in Fineli: the supplementary databases
+    const supp = searchSupplementary(ctx.fineli, cleaned)
+    if (supp && (!found || supp.tier !== 'word')) {
       return {
         canonicalId: null,
-        fineliId: found.food.id,
-        confidence: round2(found.score),
-        method: 'fineli-search',
+        fineliId: supp.food.id,
+        confidence: round2(supp.score),
+        method: 'supplementary-search',
         key,
-        explanation: `Ei sanakirjassa; lähin Fineli-elintarvike nimen perusteella → ${found.food.fi}.`,
+        explanation: `Finelistä ei löytynyt sopivaa elintarviketta; lähin vastine täydentävästä aineistosta (${foodSourceLabel(supp.food)}) → ${supp.food.fi}.`,
       }
     }
+    if (found) return fineliMatch(found)
   }
 
   return {

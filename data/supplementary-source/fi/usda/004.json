@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:9091",
+    "fi": "Viikuna, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9092",
+    "fi": "Viikuna, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9093",
+    "fi": "Viikuna, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9094",
+    "fi": "Viikuna, kuivattu"
+  },
+  {
+    "id": "usda:9095",
+    "fi": "Viikuna, kuivattu, haudutettu"
+  },
+  {
+    "id": "usda:9096",
+    "fi": "Hedelmäcocktail, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9097",
+    "fi": "Hedelmäcocktail, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9098",
+    "fi": "Hedelmäcocktail, säilyke, erittäin kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9099",
+    "fi": "Hedelmäcocktail, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9100",
+    "fi": "Hedelmäcocktail, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9101",
+    "fi": "Hedelmäcocktail, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9102",
+    "fi": "Hedelmäsalaatti, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9103",
+    "fi": "Hedelmäsalaatti, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9104",
+    "fi": "Hedelmäsalaatti, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9105",
+    "fi": "Hedelmäsalaatti, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9106",
+    "fi": "Hedelmäsalaatti, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9107",
+    "fi": "Karviainen, raaka"
+  },
+  {
+    "id": "usda:9109",
+    "fi": "Karviainen, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9110",
+    "fi": "Goji-marja, kuivattu"
+  },
+  {
+    "id": "usda:9111",
+    "fi": "Greippi, raaka, vaalea ja punainen"
+  },
+  {
+    "id": "usda:9112",
+    "fi": "Greippi, raaka, punainen"
+  },
+  {
+    "id": "usda:9113",
+    "fi": "Greippi, raaka, punainen"
+  },
+  {
+    "id": "usda:9114",
+    "fi": "Greippi, raaka, punainen"
+  },
+  {
+    "id": "usda:9116",
+    "fi": "Greippi, raaka, vaalea"
+  },
+  {
+    "id": "usda:9117",
+    "fi": "Greippi, raaka, vaalea"
+  },
+  {
+    "id": "usda:9118",
+    "fi": "Greippi, raaka, vaalea"
+  },
+  {
+    "id": "usda:9119",
+    "fi": "Greippilohko, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9120",
+    "fi": "Greippilohko, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9121",
+    "fi": "Greippilohko, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9123",
+    "fi": "Greippimehu, vaalea, makeuttamaton"
+  },
+  {
+    "id": "usda:9124",
+    "fi": "Greippimehu, vaalea, makeutettu"
+  },
+  {
+    "id": "usda:9125",
+    "fi": "Greippimehutiiviste, vaalea, pakaste, makeuttamaton, laimentamaton"
+  },
+  {
+    "id": "usda:9126",
+    "fi": "Greippimehutiivistejuoma, vaalea, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9127",
+    "fi": "Greippimehu, punainen"
+  },
+  {
+    "id": "usda:9128",
+    "fi": "Greippimehu, vaalea, tuore"
+  },
+  {
+    "id": "usda:9129",
+    "fi": "Muscadine-viinirypäle, raaka"
+  },
+  {
+    "id": "usda:9130",
+    "fi": "Viinirypälemehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9131",
+    "fi": "Viinirypäle, amerikkalainen, raaka"
+  },
+  {
+    "id": "usda:9132",
+    "fi": "Viinirypäle, punainen tai vihreä, raaka"
+  },
+  {
+    "id": "usda:9133",
+    "fi": "Viinirypäle, thompson seedless, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9134",
+    "fi": "Viinirypäle, thompson seedless, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9135",
+    "fi": "Viinirypälemehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9138",
+    "fi": "Ananaskirsikka, raaka"
+  },
+  {
+    "id": "usda:9139",
+    "fi": "Guava, raaka"
+  },
+  {
+    "id": "usda:9140",
+    "fi": "Mansikkaguava, raaka"
+  },
+  {
+    "id": "usda:9143",
+    "fi": "Guavakastike, kypsennetty"
+  },
+  {
+    "id": "usda:9144",
+    "fi": "Jakkihedelmä, raaka"
+  },
+  {
+    "id": "usda:9145",
+    "fi": "Jambolan, raaka"
+  },
+  {
+    "id": "usda:9146",
+    "fi": "Jujube, raaka"
+  },
+  {
+    "id": "usda:9147",
+    "fi": "Jujube, kiinalainen, kuivattu"
+  },
+  {
+    "id": "usda:9148",
+    "fi": "Kiivi, vihreä, raaka"
+  },
+  {
+    "id": "usda:9149",
+    "fi": "Kumkvatti, raaka"
+  },
+  {
+    "id": "usda:9150",
+    "fi": "Sitruuna, raaka, kuoreton"
+  },
+  {
+    "id": "usda:9152",
+    "fi": "Sitruunamehu, tuore"
+  },
+  {
+    "id": "usda:9153",
+    "fi": "Sitruunamehu, tiivisteestä"
+  },
+  {
+    "id": "usda:9154",
+    "fi": "Sitruunamehu, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9156",
+    "fi": "Sitruunankuori, raaka"
+  },
+  {
+    "id": "usda:9159",
+    "fi": "Limetit, raaka"
+  },
+  {
+    "id": "usda:9160",
+    "fi": "Limemehu, tuore"
+  },
+  {
+    "id": "usda:9161",
+    "fi": "Limemehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9163",
+    "fi": "Mustikka, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:9164",
+    "fi": "Litsi, raaka"
+  },
+  {
+    "id": "usda:9165",
+    "fi": "Litsi, kuivattu"
+  },
+  {
+    "id": "usda:9167",
+    "fi": "Loganinmarja, pakaste"
+  },
+  {
+    "id": "usda:9172",
+    "fi": "Longaani, raaka"
+  },
+  {
+    "id": "usda:9173",
+    "fi": "Longaani, kuivattu"
+  },
+  {
+    "id": "usda:9174",
+    "fi": "Japaninmispeli, raaka"
+  },
+  {
+    "id": "usda:9175",
+    "fi": "Mamey, raaka"
+  },
+  {
+    "id": "usda:9176",
+    "fi": "Mango, raaka"
+  },
+  {
+    "id": "usda:9177",
+    "fi": "Mangostaani, säilyke, sokeriliemessä"
+  },
+  {
+    "id": "usda:9178",
+    "fi": "Mango, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:9181",
+    "fi": "Cantaloupemeloni, raaka"
+  },
+  {
+    "id": "usda:9183",
+    "fi": "Kasabameloni, raaka"
+  },
+  {
+    "id": "usda:9184",
+    "fi": "Hunajameloni, raaka"
+  },
+  {
+    "id": "usda:9185",
+    "fi": "Melonipallo, pakaste"
+  },
+  {
+    "id": "usda:9190",
+    "fi": "Mulperi, raaka"
+  },
+  {
+    "id": "usda:9191",
+    "fi": "Nektariini, raaka"
+  },
+  {
+    "id": "usda:9192",
+    "fi": "Ohelomarja, raaka"
+  },
+  {
+    "id": "usda:9193",
+    "fi": "Oliivi, musta, säilyke"
+  },
+  {
+    "id": "usda:9194",
+    "fi": "Oliivi, musta, säilyke, suuri"
+  },
+  {
+    "id": "usda:9195",
+    "fi": "Oliivi, vihreä, säilyke"
+  },
+  {
+    "id": "usda:9200",
+    "fi": "Appelsiini, raaka"
+  },
+  {
+    "id": "usda:9201",
+    "fi": "Appelsiini, valencia, raaka"
+  },
+  {
+    "id": "usda:9202",
+    "fi": "Appelsiini, napa-appelsiini, raaka"
+  },
+  {
+    "id": "usda:9203",
+    "fi": "Appelsiini, raaka"
+  },
+  {
+    "id": "usda:9205",
+    "fi": "Appelsiini, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9206",
+    "fi": "Appelsiinimehu, tuore"
+  },
+  {
+    "id": "usda:9207",
+    "fi": "Appelsiinimehu, säilyke, makeuttamaton"
+  },
+  {
+    "id": "usda:9209",
+    "fi": "Appelsiinimehu, kylmäsäilytetty"
+  },
+  {
+    "id": "usda:9210",
+    "fi": "Appelsiinimehu, kylmäsäilytetty"
+  },
+  {
+    "id": "usda:9211",
+    "fi": "Appelsiinimehu, kylmäsäilytetty"
+  },
+  {
+    "id": "usda:9212",
+    "fi": "Appelsiinimehutiivistejuoma, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9213",
+    "fi": "Appelsiinimehutiiviste, pakaste, makeuttamaton, laimentamaton"
+  },
+  {
+    "id": "usda:9214",
+    "fi": "Appelsiinimehutiiviste, pakaste, makeuttamaton, laimentamaton"
+  },
+  {
+    "id": "usda:9215",
+    "fi": "Appelsiinimehutiivistejuoma, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9216",
+    "fi": "Appelsiininkuori, raaka"
+  },
+  {
+    "id": "usda:9217",
+    "fi": "Appelsiini-greippimehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9218",
+    "fi": "Mandariini, raaka"
+  },
+  {
+    "id": "usda:9219",
+    "fi": "Mandariini, säilyke, mehussa"
+  },
+  {
+    "id": "usda:9220",
+    "fi": "Mandariini, säilyke, kevyt sokeriliemi"
+  },
+  {
+    "id": "usda:9221",
+    "fi": "Mandariinimehu, tuore"
+  },
+  {
+    "id": "usda:9223",
+    "fi": "Mandariinimehu, säilyke, makeutettu"
+  },
+  {
+    "id": "usda:9226",
+    "fi": "Papaija, raaka"
+  },
+  {
+    "id": "usda:9228",
+    "fi": "Papaija, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9229",
+    "fi": "Papaijanektari, säilyke"
+  },
+  {
+    "id": "usda:9231",
+    "fi": "Passionhedelmä, violetti, raaka"
+  },
+  {
+    "id": "usda:9232",
+    "fi": "Passionhedelmämehu, violetti, tuore"
+  },
+  {
+    "id": "usda:9233",
+    "fi": "Passionhedelmämehu, keltainen, tuore"
+  },
+  {
+    "id": "usda:9236",
+    "fi": "Persikka, keltainen, raaka"
+  },
+  {
+    "id": "usda:9237",
+    "fi": "Persikka, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9238",
+    "fi": "Persikka, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9239",
+    "fi": "Persikka, säilyke, erittäin kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9240",
+    "fi": "Persikka, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9241",
+    "fi": "Persikka, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9242",
+    "fi": "Persikka, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9243",
+    "fi": "Persikka, maustettu, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9244",
+    "fi": "Persikka, kuivattu, vähäkosteinen, sulfuroitu"
+  },
+  {
+    "id": "usda:9245",
+    "fi": "Persikka, kuivattu, vähäkosteinen, sulfuroitu, haudutettu"
+  },
+  {
+    "id": "usda:9246",
+    "fi": "Persikka, kuivattu, sulfuroitu"
+  },
+  {
+    "id": "usda:9247",
+    "fi": "Persikka, kuivattu, sulfuroitu, haudutettu, sokeriton"
+  },
+  {
+    "id": "usda:9248",
+    "fi": "Persikka, kuivattu, sulfuroitu, haudutettu, sokeroitu"
+  },
+  {
+    "id": "usda:9250",
+    "fi": "Persikka, viipale, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9251",
+    "fi": "Persikkanektari, säilyke"
+  },
+  {
+    "id": "usda:9252",
+    "fi": "Päärynä, raaka"
+  },
+  {
+    "id": "usda:9253",
+    "fi": "Päärynä, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9254",
+    "fi": "Päärynä, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9255",
+    "fi": "Päärynä, säilyke, erittäin kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9256",
+    "fi": "Päärynä, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9257",
+    "fi": "Päärynä, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9258",
+    "fi": "Päärynä, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9259",
+    "fi": "Päärynä, kuivattu, sulfuroitu"
+  },
+  {
+    "id": "usda:9260",
+    "fi": "Päärynä, kuivattu, sulfuroitu, haudutettu, sokeriton"
+  },
+  {
+    "id": "usda:9261",
+    "fi": "Päärynä, kuivattu, sulfuroitu, haudutettu, sokeroitu"
+  },
+  {
+    "id": "usda:9262",
+    "fi": "Päärynänektari, säilyke"
+  },
+  {
+    "id": "usda:9263",
+    "fi": "Kaki, japanilainen, raaka"
+  },
+  {
+    "id": "usda:9264",
+    "fi": "Kaki, japanilainen, kuivattu"
+  },
+  {
+    "id": "usda:9265",
+    "fi": "Kaki, amerikkalainen, raaka"
+  },
+  {
+    "id": "usda:9266",
+    "fi": "Ananas, raaka"
+  },
+  {
+    "id": "usda:9267",
+    "fi": "Ananas, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9268",
+    "fi": "Ananas, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9269",
+    "fi": "Ananas, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9270",
+    "fi": "Ananas, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9271",
+    "fi": "Ananas, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9272",
+    "fi": "Ananas, paloina, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9273",
+    "fi": "Ananasmehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9274",
+    "fi": "Ananasmehutiiviste, pakaste, makeuttamaton, laimentamaton"
+  },
+  {
+    "id": "usda:9275",
+    "fi": "Ananasmehutiivistejuoma, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9276",
+    "fi": "Pitanga, raaka"
+  },
+  {
+    "id": "usda:9277",
+    "fi": "Keittobanaani, raaka"
+  },
+  {
+    "id": "usda:9278",
+    "fi": "Keittobanaani, kypsennetty"
+  },
+  {
+    "id": "usda:9279",
+    "fi": "Luumu, raaka"
+  },
+  {
+    "id": "usda:9281",
+    "fi": "Luumu, violetti, säilyke, vedessä, liemineen"
+  },
+  {
+    "id": "usda:9282",
+    "fi": "Luumu, violetti, säilyke, mehussa, liemineen"
+  },
+  {
+    "id": "usda:9283",
+    "fi": "Luumu, violetti, säilyke, kevyt sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9284",
+    "fi": "Luumu, violetti, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9285",
+    "fi": "Luumu, violetti, säilyke, erittäin vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9286",
+    "fi": "Granaattiomena, raaka"
+  },
+  {
+    "id": "usda:9287",
+    "fi": "Viikunakaktuksen hedelmä, raaka"
+  },
+  {
+    "id": "usda:9288",
+    "fi": "Kuivattu luumu, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9289",
+    "fi": "Kuivattu luumu, vähäkosteinen"
+  },
+  {
+    "id": "usda:9290",
+    "fi": "Kuivattu luumu, vähäkosteinen, haudutettu"
+  },
+  {
+    "id": "usda:9291",
+    "fi": "Kuivattu luumu"
+  },
+  {
+    "id": "usda:9292",
+    "fi": "Kuivattu luumu, haudutettu, sokeriton"
+  },
+  {
+    "id": "usda:9293",
+    "fi": "Kuivattu luumu, haudutettu, sokeroitu"
+  },
+  {
+    "id": "usda:9294",
+    "fi": "Luumumehu, säilyke"
+  },
+  {
+    "id": "usda:9295",
+    "fi": "Pomelo, raaka"
+  },
+  {
+    "id": "usda:9296",
+    "fi": "Kvitteni, raaka"
+  },
+  {
+    "id": "usda:9297",
+    "fi": "Rusina, vaalea, siemenetön"
+  },
+  {
+    "id": "usda:9298",
+    "fi": "Rusina, siemenetön"
+  },
+  {
+    "id": "usda:9299",
+    "fi": "Rusina, siemenellinen"
+  },
+  {
+    "id": "usda:9301",
+    "fi": "Rambutan, säilyke, sokeriliemessä"
+  },
+  {
+    "id": "usda:9302",
+    "fi": "Vadelma, raaka"
+  },
+  {
+    "id": "usda:9304",
+    "fi": "Vadelma, punainen, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9306",
+    "fi": "Vadelma, punainen, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9307",
+    "fi": "Raparperi, raaka"
+  },
+  {
+    "id": "usda:9309",
+    "fi": "Raparperi, pakaste"
+  },
+  {
+    "id": "usda:9310",
+    "fi": "Raparperi, pakaste, kypsennetty, sokerilla"
+  },
+  {
+    "id": "usda:9311",
+    "fi": "Roselli, raaka"
+  },
+  {
+    "id": "usda:9312",
+    "fi": "Ruusumomena, raaka"
+  },
+  {
+    "id": "usda:9313",
+    "fi": "Sapodilla, raaka"
+  },
+  {
+    "id": "usda:9314",
+    "fi": "Mameysapote, raaka"
+  },
+  {
+    "id": "usda:9315",
+    "fi": "Graviola, raaka"
+  },
+  {
+    "id": "usda:9316",
+    "fi": "Mansikka, raaka"
+  },
+  {
+    "id": "usda:9317",
+    "fi": "Mansikka, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9318",
+    "fi": "Mansikka, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9319",
+    "fi": "Mansikka, pakaste, makeutettu, kokonainen"
+  },
+  {
+    "id": "usda:9320",
+    "fi": "Mansikka, pakaste, makeutettu, viipaloitu"
+  },
+  {
+    "id": "usda:9321",
+    "fi": "Annoona, raaka"
+  },
+  {
+    "id": "usda:9322",
+    "fi": "Tamarindi, raaka"
+  },
+  {
+    "id": "usda:9325",
+    "fi": "Hedelmäsalaatti, trooppinen, säilyke, vahva sokeriliemi, liemineen"
+  },
+  {
+    "id": "usda:9326",
+    "fi": "Vesimeloni, raaka"
+  },
+  {
+    "id": "usda:9328",
+    "fi": "Maraschinokirsikka, säilyke, valutettu"
+  },
+  {
+    "id": "usda:9334",
+    "fi": "Feijoa, raaka"
+  },
+  {
+    "id": "usda:9340",
+    "fi": "Nashi, raaka"
+  },
+  {
+    "id": "usda:9351",
+    "fi": "Hedelmäcocktail, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9352",
+    "fi": "Mustikka, säilyke, kevyt sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9353",
+    "fi": "Mustikka, villi, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9354",
+    "fi": "Ananas, säilyke, mehussa, valutettu"
+  },
+  {
+    "id": "usda:9357",
+    "fi": "Aprikoosi, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9362",
+    "fi": "Hapankirsikka, säilyke, vedessä, valutettu"
+  },
+  {
+    "id": "usda:9367",
+    "fi": "Makeakirsikka, säilyke, kivetön, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9370",
+    "fi": "Persikka, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9374",
+    "fi": "Päärynä, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9379",
+    "fi": "Luumu, säilyke, vahva sokeriliemi, valutettu"
+  },
+  {
+    "id": "usda:9383",
+    "fi": "Mandariini, säilyke, mehussa, valutettu"
+  },
+  {
+    "id": "usda:9400",
+    "fi": "Omenamehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9401",
+    "fi": "Omenasose, säilyke, makeuttamaton"
+  },
+  {
+    "id": "usda:9402",
+    "fi": "Omenasose, säilyke, makeutettu, suolalla"
+  },
+  {
+    "id": "usda:9403",
+    "fi": "Aprikoosinektari, säilyke"
+  },
+  {
+    "id": "usda:9404",
+    "fi": "Greippimehu, punainen, tuore"
+  },
+  {
+    "id": "usda:9407",
+    "fi": "Persikkanektari, säilyke"
+  },
+  {
+    "id": "usda:9408",
+    "fi": "Päärynänektari, säilyke"
+  },
+  {
+    "id": "usda:9409",
+    "fi": "Ananasmehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9410",
+    "fi": "Omenamehutiiviste, pakaste, makeuttamaton, laimentamaton"
+  },
+  {
+    "id": "usda:9411",
+    "fi": "Omenamehutiivistejuoma, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9412",
+    "fi": "Päärynä, bartlett, raaka"
+  },
+  {
+    "id": "usda:9413",
+    "fi": "Päärynä, red anjou, raaka"
+  },
+  {
+    "id": "usda:9414",
+    "fi": "Päärynä, bosc, raaka"
+  },
+  {
+    "id": "usda:9415",
+    "fi": "Päärynä, green anjou, raaka"
+  },
+  {
+    "id": "usda:9420",
+    "fi": "Jakkihedelmä, säilyke, sokeriliemessä"
+  },
+  {
+    "id": "usda:9421",
+    "fi": "Taateli, medjool"
+  },
+  {
+    "id": "usda:9422",
+    "fi": "Durian, raaka tai pakaste"
+  },
+  {
+    "id": "usda:9423",
+    "fi": "Luumusose, kuivatusta luumusta"
+  },
+  {
+    "id": "usda:9426",
+    "fi": "Sokeroitu hedelmä"
+  },
+  {
+    "id": "usda:9427",
+    "fi": "Abiyuch, raaka"
+  },
+  {
+    "id": "usda:9428",
+    "fi": "Rowal, raaka"
+  },
+  {
+    "id": "usda:9429",
+    "fi": "Ananas, perinteinen lajike, raaka"
+  },
+  {
+    "id": "usda:9430",
+    "fi": "Ananas, erittäin makea lajike, raaka"
+  },
+  {
+    "id": "usda:9433",
+    "fi": "Klementiini, raaka"
+  },
+  {
+    "id": "usda:9434",
+    "fi": "Graviolanektari, säilyke"
+  },
+  {
+    "id": "usda:9435",
+    "fi": "Guavanektari, säilyke"
+  },
+  {
+    "id": "usda:9436",
+    "fi": "Mangonektari, säilyke"
+  },
+  {
+    "id": "usda:9437",
+    "fi": "Tamarindinektari, säilyke"
+  },
+  {
+    "id": "usda:9442",
+    "fi": "Granaattiomenamehu"
+  },
+  {
+    "id": "usda:9443",
+    "fi": "Omena-viinirypälemehu"
+  },
+  {
+    "id": "usda:9444",
+    "fi": "Omena-viinirypäle-päärynämehu"
+  },
+  {
+    "id": "usda:9446",
+    "fi": "Keittobanaani, vihreä, paistettu"
+  },
+  {
+    "id": "usda:9447",
+    "fi": "Keittobanaani, keltainen, paistettu"
+  },
+  {
+    "id": "usda:9448",
+    "fi": "Nance, säilyke, sokeriliemessä, valutettu"
+  },
+  {
+    "id": "usda:9449",
+    "fi": "Nance, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9450",
+    "fi": "Lulo, hedelmäliha, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9451",
+    "fi": "Kiwano"
+  },
+  {
+    "id": "usda:9452",
+    "fi": "Appelsiini-ananasmehu"
+  },
+  {
+    "id": "usda:9500",
+    "fi": "Omena, red delicious, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9501",
+    "fi": "Omena, golden delicious, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9502",
+    "fi": "Omena, granny smith, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9503",
+    "fi": "Omena, gala, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9504",
+    "fi": "Omena, fuji, raaka, kuorineen"
+  },
+  {
+    "id": "usda:9506",
+    "fi": "Appelsiinimehu, kylmäsäilytetty"
+  },
+  {
+    "id": "usda:9510",
+    "fi": "Ananasmehu, ei tiivisteestä, makeuttamaton"
+  }
+]

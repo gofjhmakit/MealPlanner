@@ -24,6 +24,7 @@ import { copyRecipeToUser, deleteRecipe, setInCollection, setRecipeNotes, setRec
 import { getIngredient } from '../../domain/ingredients'
 import { CONFIDENT_THRESHOLD, NUTRIENT_INFO, NUTRIENT_KEYS, type NutritionLine } from '../../domain/nutrition'
 import { splitAmountText } from '../../domain/ingredientParser'
+import { foodSourceLabel } from '../../domain/supplementary'
 import { recipeDiet, recipeSpecialDiets, DIET_LABELS, SPECIAL_DIET_LABELS, type SpecialDiets } from '../../domain/recipeInfo'
 import { scaleIngredient } from '../../domain/scaling'
 import type { Nutrients, Recipe, RecipeIngredient } from '../../domain/types'
@@ -367,7 +368,7 @@ function NutritionDetails({ lines, nutrients, perServing, servings }: { lines: N
     <div className="mt-4 space-y-5">
       <div className="overflow-x-auto">
         <table className="w-full text-sm">
-          <caption className="mb-2 text-left text-xs text-muted">Kaikki ravintotekijät ({perServing ? 'annos' : 'koko resepti'}), Fineli-arvoihin perustuva arvio</caption>
+          <caption className="mb-2 text-left text-xs text-muted">Kaikki ravintotekijät ({perServing ? 'annos' : 'koko resepti'}), Fineli-arvoihin perustuva arvio{lines.some((l) => l.food?.source) ? ' (merkityt rivit muista avoimista aineistoista)' : ''}</caption>
           <tbody className="divide-y divide-line">
             {NUTRIENT_KEYS.filter((k) => k !== 'energyKj').map((k) => (
               <tr key={k}>
@@ -397,7 +398,7 @@ function NutritionDetails({ lines, nutrients, perServing, servings }: { lines: N
               <tr key={l.ingredientId} className="align-top">
                 <td className="py-1.5 pr-2">
                   <span className="block">{l.raw}</span>
-                  <span className="block text-xs text-muted">{l.food?.fi ?? '—'}{l.gramsResolution.note ? ` · ${l.gramsResolution.note}` : ''}</span>
+                  <span className="block text-xs text-muted">{l.food?.fi ?? '—'}{l.food?.source ? ` (${foodSourceLabel(l.food)})` : ''}{l.gramsResolution.note ? ` · ${l.gramsResolution.note}` : ''}</span>
                 </td>
                 <td className="tabular py-1.5 text-right">{l.grams !== null ? formatNumber(l.grams / div, 0) : '—'}</td>
                 <td className="tabular py-1.5 text-right">{formatNumber(l.nutrients.energyKcal / div, 0)}</td>

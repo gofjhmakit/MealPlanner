@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:9512",
+    "fi": "Viinirypälemehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9517",
+    "fi": "Omenamehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9518",
+    "fi": "Vadelma, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9519",
+    "fi": "Guavanektari, säilyke, sukraloosilla makeutettu"
+  },
+  {
+    "id": "usda:9522",
+    "fi": "Karpalomehusekoitus, täysmehu"
+  },
+  {
+    "id": "usda:10001",
+    "fi": "Sianliha, ruholiha, raaka"
+  },
+  {
+    "id": "usda:10002",
+    "fi": "Sianliha, vähärasvaiset palat, raaka"
+  },
+  {
+    "id": "usda:10003",
+    "fi": "Sianliha, palat, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:10004",
+    "fi": "Sian selkäsilava, raaka"
+  },
+  {
+    "id": "usda:10005",
+    "fi": "Porsaankylki, raaka"
+  },
+  {
+    "id": "usda:10008",
+    "fi": "Porsaankinkku, kokonainen, raaka"
+  },
+  {
+    "id": "usda:10012",
+    "fi": "Porsaankinkku, paistipää, raaka"
+  },
+  {
+    "id": "usda:10016",
+    "fi": "Porsaankinkku, potkapää, raaka"
+  },
+  {
+    "id": "usda:10020",
+    "fi": "Porsaan ulkofilee, kokonainen, raaka"
+  },
+  {
+    "id": "usda:10028",
+    "fi": "Porsaan ulkofilee, lapaosa, luullinen, raaka"
+  },
+  {
+    "id": "usda:10036",
+    "fi": "Porsaankyljys, keskifilee, luullinen, raaka"
+  },
+  {
+    "id": "usda:10044",
+    "fi": "Porsaankyljys, kylkiosa, luullinen, raaka"
+  },
+  {
+    "id": "usda:10052",
+    "fi": "Porsaan ulkofileepihvi, paistiosa, luullinen, raaka"
+  },
+  {
+    "id": "usda:10060",
+    "fi": "Porsaan sisäfilee, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10062",
+    "fi": "Porsaankyljys, ulkofilee, luuton, raaka"
+  },
+  {
+    "id": "usda:10070",
+    "fi": "Porsaan lapa, kokonainen, raaka"
+  },
+  {
+    "id": "usda:10074",
+    "fi": "Porsaan etuselkä, picnic, raaka"
+  },
+  {
+    "id": "usda:10080",
+    "fi": "Porsaan kasslerpihvi, raaka"
+  },
+  {
+    "id": "usda:10088",
+    "fi": "Porsaan grillikylki, raaka"
+  },
+  {
+    "id": "usda:10094",
+    "fi": "Porsaankyljys, keskifilee, luuton, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10096",
+    "fi": "Sianaivot, raaka"
+  },
+  {
+    "id": "usda:10098",
+    "fi": "Sian suoli, raaka"
+  },
+  {
+    "id": "usda:10100",
+    "fi": "Siankorva, pakaste, raaka"
+  },
+  {
+    "id": "usda:10102",
+    "fi": "Siansorkka, raaka"
+  },
+  {
+    "id": "usda:10103",
+    "fi": "Siansydän, raaka"
+  },
+  {
+    "id": "usda:10105",
+    "fi": "Porsaan poski, raaka"
+  },
+  {
+    "id": "usda:10106",
+    "fi": "Sianmunuainen, raaka"
+  },
+  {
+    "id": "usda:10109",
+    "fi": "Sian sisäihra, raaka"
+  },
+  {
+    "id": "usda:10110",
+    "fi": "Sianmaksa, raaka"
+  },
+  {
+    "id": "usda:10112",
+    "fi": "Siankeuhko, raaka"
+  },
+  {
+    "id": "usda:10114",
+    "fi": "Sianliha, koneellisesti erotettu, raaka"
+  },
+  {
+    "id": "usda:10115",
+    "fi": "Sianhaima, raaka"
+  },
+  {
+    "id": "usda:10117",
+    "fi": "Sianperna, raaka"
+  },
+  {
+    "id": "usda:10119",
+    "fi": "Sianmaha, raaka"
+  },
+  {
+    "id": "usda:10121",
+    "fi": "Siankieli, raaka"
+  },
+  {
+    "id": "usda:10123",
+    "fi": "Pekoni, kypsentämätön"
+  },
+  {
+    "id": "usda:10128",
+    "fi": "Pekonisuikale, raaka"
+  },
+  {
+    "id": "usda:10130",
+    "fi": "Kanadalainen pekoni, kypsentämätön"
+  },
+  {
+    "id": "usda:10132",
+    "fi": "Siansorkka, suolaliemeen säilötty"
+  },
+  {
+    "id": "usda:10137",
+    "fi": "Kinkku, säilyke, vähärasvainen, rasvaa 4 %"
+  },
+  {
+    "id": "usda:10141",
+    "fi": "Kinkkupihvi, country-style, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10142",
+    "fi": "Kinkkupihvi, kypsentämätön"
+  },
+  {
+    "id": "usda:10146",
+    "fi": "Kinkkupihvi, jauhettu, kypsentämätön"
+  },
+  {
+    "id": "usda:10149",
+    "fi": "Kinkkupihvi, luuton, erittäin vähärasvainen"
+  },
+  {
+    "id": "usda:10150",
+    "fi": "Kinkku, kokonainen, kypsentämätön"
+  },
+  {
+    "id": "usda:10165",
+    "fi": "Suolasianliha, raaka"
+  },
+  {
+    "id": "usda:10170",
+    "fi": "Kinkkurulla, lapa, kypsentämätön"
+  },
+  {
+    "id": "usda:10174",
+    "fi": "Sianhäntä, raaka"
+  },
+  {
+    "id": "usda:10182",
+    "fi": "Kinkku, luuton, kypsentämätön"
+  },
+  {
+    "id": "usda:10184",
+    "fi": "Kinkku, säilyke, kypsentämätön"
+  },
+  {
+    "id": "usda:10187",
+    "fi": "Sianliha, vähittäispalat, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:10192",
+    "fi": "Porsaan ribsit, selkä, raaka"
+  },
+  {
+    "id": "usda:10194",
+    "fi": "Porsaankyljys, kylkiosa, luuton, raaka"
+  },
+  {
+    "id": "usda:10204",
+    "fi": "Porsaan maalaisribsit, ulkofilee, raaka"
+  },
+  {
+    "id": "usda:10210",
+    "fi": "Porsaan ulkofileepihvi, paistiosa, luuton, raaka"
+  },
+  {
+    "id": "usda:10219",
+    "fi": "Porsaan jauheliha, raaka"
+  },
+  {
+    "id": "usda:10224",
+    "fi": "Porsaan ulkofileepaisti, luuton, raaka"
+  },
+  {
+    "id": "usda:10226",
+    "fi": "Sianliha, ulkofilee ja lapa, raaka"
+  },
+  {
+    "id": "usda:10866",
+    "fi": "Kinkku, vesilisätty, paistipää, luullinen"
+  },
+  {
+    "id": "usda:10872",
+    "fi": "Kinkku, vesilisätty, kokonainen, luuton"
+  },
+  {
+    "id": "usda:10880",
+    "fi": "Kinkku, vesilisätty, kokonainen, luuton"
+  },
+  {
+    "id": "usda:10884",
+    "fi": "Kinkku, omassa liemessä, kokonainen, luuton"
+  },
+  {
+    "id": "usda:10885",
+    "fi": "Kinkku, vesilisätty, potkapää, luullinen"
+  },
+  {
+    "id": "usda:10886",
+    "fi": "Kinkkuviipale, vesilisätty, luullinen"
+  },
+  {
+    "id": "usda:10887",
+    "fi": "Kinkku, vesilisätty, paistipää, luullinen"
+  },
+  {
+    "id": "usda:10888",
+    "fi": "Kinkkuviipale, vesilisätty, luullinen"
+  },
+  {
+    "id": "usda:10889",
+    "fi": "Kinkku, vesilisätty, potkapää, luullinen"
+  },
+  {
+    "id": "usda:10890",
+    "fi": "Kinkku, omassa liemessä, paistipää, luullinen"
+  },
+  {
+    "id": "usda:10891",
+    "fi": "Kinkku, omassa liemessä, potkapää, luullinen"
+  },
+  {
+    "id": "usda:10892",
+    "fi": "Kinkkuviipale, omassa liemessä, luullinen"
+  },
+  {
+    "id": "usda:10893",
+    "fi": "Kinkkuviipale, spiraalileikattu, luuton"
+  },
+  {
+    "id": "usda:10898",
+    "fi": "Sianpotka, suolaliemeen säilötty"
+  },
+  {
+    "id": "usda:10932",
+    "fi": "Kinkku, paistipää, luullinen"
+  },
+  {
+    "id": "usda:10934",
+    "fi": "Kinkku, potkapää, luullinen"
+  },
+  {
+    "id": "usda:10938",
+    "fi": "Kinkkuviipale, luullinen"
+  },
+  {
+    "id": "usda:10944",
+    "fi": "Porsaan sisäfilee, marinoitu, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10946",
+    "fi": "Porsaan kasslerpihvi, vähärasvainen, suolaliuoksella, raaka"
+  },
+  {
+    "id": "usda:10948",
+    "fi": "Porsaankyljys, ulkofilee, luuton, vähärasvainen, suolaliuoksella, raaka"
+  },
+  {
+    "id": "usda:10951",
+    "fi": "Porsaan sisäfilee, suolaliuoksella, raaka"
+  },
+  {
+    "id": "usda:10953",
+    "fi": "Porsaan kasslerpihvi, suolaliuoksella, raaka"
+  },
+  {
+    "id": "usda:10957",
+    "fi": "Porsaan paistipihvi, luuton, raaka"
+  },
+  {
+    "id": "usda:10958",
+    "fi": "Porsaan lapa-rintapala, luuton, raaka"
+  },
+  {
+    "id": "usda:10961",
+    "fi": "Porsaan lapafilee, luuton, raaka"
+  },
+  {
+    "id": "usda:10963",
+    "fi": "Porsaan paahtopaisti, luuton, raaka"
+  },
+  {
+    "id": "usda:10972",
+    "fi": "Porsaan jauheliha, rasvaa 16 %, raaka"
+  },
+  {
+    "id": "usda:10973",
+    "fi": "Porsaan jauheliha, rasvaa 4 %, raaka"
+  },
+  {
+    "id": "usda:10980",
+    "fi": "Porsaan ribsit, selkä, luullinen, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10982",
+    "fi": "Porsaan ulkofilee, lapaosa, luuton, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:10989",
+    "fi": "Porsaan ulkofilee, lapaosa, luuton, raaka"
+  },
+  {
+    "id": "usda:10994",
+    "fi": "Pekoni, vähäsuolainen, viipaloitu, kypsentämätön"
+  },
+  {
+    "id": "usda:11001",
+    "fi": "Sinimailasen idut, raaka"
+  },
+  {
+    "id": "usda:11003",
+    "fi": "Amarantinlehdet, raaka"
+  },
+  {
+    "id": "usda:11005",
+    "fi": "Nuoliyrtti, raaka"
+  },
+  {
+    "id": "usda:11007",
+    "fi": "Artisokka, raaka"
+  },
+  {
+    "id": "usda:11009",
+    "fi": "Artisokka, pakaste"
+  },
+  {
+    "id": "usda:11011",
+    "fi": "Parsa, raaka"
+  },
+  {
+    "id": "usda:11013",
+    "fi": "Parsa, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11018",
+    "fi": "Parsa, pakaste"
+  },
+  {
+    "id": "usda:11022",
+    "fi": "Karvaskurkku, lehdenversot, raaka"
+  },
+  {
+    "id": "usda:11024",
+    "fi": "Karvaskurkku, hedelmä, raaka"
+  },
+  {
+    "id": "usda:11026",
+    "fi": "Bambunverso, raaka"
+  },
+  {
+    "id": "usda:11029",
+    "fi": "Kidneypavun idut, raaka"
+  },
+  {
+    "id": "usda:11031",
+    "fi": "Limapapu, tuore siemen, raaka"
+  },
+  {
+    "id": "usda:11033",
+    "fi": "Limapapu, tuore siemen, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11037",
+    "fi": "Limapapu, fordhook, pakaste"
+  },
+  {
+    "id": "usda:11039",
+    "fi": "Limapapu, pieni, pakaste"
+  },
+  {
+    "id": "usda:11043",
+    "fi": "Mungpavun idut, raaka"
+  },
+  {
+    "id": "usda:11046",
+    "fi": "Valkopavun idut, raaka"
+  },
+  {
+    "id": "usda:11048",
+    "fi": "Pintopapu, tuore siemen, pakaste"
+  },
+  {
+    "id": "usda:11050",
+    "fi": "Silpopapu, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11052",
+    "fi": "Vihreä papu, raaka"
+  },
+  {
+    "id": "usda:11054",
+    "fi": "Vihreä papu, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11058",
+    "fi": "Taitepapu, säilyke, maustettu, liemineen"
+  },
+  {
+    "id": "usda:11060",
+    "fi": "Vihreä papu, pakaste"
+  },
+  {
+    "id": "usda:11080",
+    "fi": "Punajuuri, raaka"
+  },
+  {
+    "id": "usda:11082",
+    "fi": "Punajuuri, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11086",
+    "fi": "Punajuuren naatit, raaka"
+  },
+  {
+    "id": "usda:11088",
+    "fi": "Härkäpapu, tuore siemen, raaka"
+  },
+  {
+    "id": "usda:11090",
+    "fi": "Parsakaali, raaka"
+  },
+  {
+    "id": "usda:11092",
+    "fi": "Parsakaali, pakaste, hienonnettu"
+  },
+  {
+    "id": "usda:11094",
+    "fi": "Parsakaali, pakaste, nuput ja varret"
+  },
+  {
+    "id": "usda:11096",
+    "fi": "Cime di rapa, raaka"
+  },
+  {
+    "id": "usda:11098",
+    "fi": "Ruusukaali, raaka"
+  },
+  {
+    "id": "usda:11100",
+    "fi": "Ruusukaali, pakaste"
+  },
+  {
+    "id": "usda:11104",
+    "fi": "Takiaisenjuuri, raaka"
+  },
+  {
+    "id": "usda:11106",
+    "fi": "Fuki, raaka"
+  },
+  {
+    "id": "usda:11108",
+    "fi": "Fuki, säilyke"
+  },
+  {
+    "id": "usda:11109",
+    "fi": "Keräkaali, raaka"
+  },
+  {
+    "id": "usda:11112",
+    "fi": "Punakaali, raaka"
+  },
+  {
+    "id": "usda:11114",
+    "fi": "Kurttukaali, raaka"
+  },
+  {
+    "id": "usda:11116",
+    "fi": "Pak choi, raaka"
+  },
+  {
+    "id": "usda:11118",
+    "fi": "Kimchi"
+  },
+  {
+    "id": "usda:11119",
+    "fi": "Kiinankaali, raaka"
+  },
+  {
+    "id": "usda:11122",
+    "fi": "Kardoni, raaka"
+  },
+  {
+    "id": "usda:11124",
+    "fi": "Porkkana, raaka"
+  },
+  {
+    "id": "usda:11126",
+    "fi": "Porkkana, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11130",
+    "fi": "Porkkana, pakaste"
+  },
+  {
+    "id": "usda:11134",
+    "fi": "Maniokki, raaka"
+  },
+  {
+    "id": "usda:11135",
+    "fi": "Kukkakaali, raaka"
+  },
+  {
+    "id": "usda:11137",
+    "fi": "Kukkakaali, pakaste"
+  },
+  {
+    "id": "usda:11141",
+    "fi": "Juuriselleri, raaka"
+  },
+  {
+    "id": "usda:11143",
+    "fi": "Varsiselleri, raaka"
+  },
+  {
+    "id": "usda:11145",
+    "fi": "Varsisalaatti, raaka"
+  },
+  {
+    "id": "usda:11147",
+    "fi": "Mangoldi, raaka"
+  },
+  {
+    "id": "usda:11149",
+    "fi": "Chayote, hedelmä, raaka"
+  },
+  {
+    "id": "usda:11151",
+    "fi": "Salaattisikuri, raaka"
+  },
+  {
+    "id": "usda:11152",
+    "fi": "Sikurinlehdet, raaka"
+  },
+  {
+    "id": "usda:11154",
+    "fi": "Sikurinjuuri, raaka"
+  },
+  {
+    "id": "usda:11156",
+    "fi": "Ruohosipuli, raaka"
+  },
+  {
+    "id": "usda:11157",
+    "fi": "Shungiku, raaka"
+  },
+  {
+    "id": "usda:11161",
+    "fi": "Lehtikaali, collard, raaka"
+  },
+  {
+    "id": "usda:11163",
+    "fi": "Lehtikaali, collard, pakaste, hienonnettu"
+  },
+  {
+    "id": "usda:11165",
+    "fi": "Korianteri, lehti, raaka"
+  },
+  {
+    "id": "usda:11167",
+    "fi": "Maissi, makea, keltainen, raaka"
+  },
+  {
+    "id": "usda:11170",
+    "fi": "Maissi, makea, keltainen, säilyke, suolaliemessä"
+  },
+  {
+    "id": "usda:11174",
+    "fi": "Maissi, kermainen säilyke"
+  },
+  {
+    "id": "usda:11176",
+    "fi": "Maissi, makea, keltainen, tyhjiöpakattu säilyke"
+  },
+  {
+    "id": "usda:11178",
+    "fi": "Maissi, makea, keltainen, pakaste, jyvät"
+  },
+  {
+    "id": "usda:11180",
+    "fi": "Maissi, makea, keltainen, pakaste, tähkässä"
+  },
+  {
+    "id": "usda:11184",
+    "fi": "Maissi, paprikaa sisältävä, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11190",
+    "fi": "Vuonankaali, raaka"
+  },
+  {
+    "id": "usda:11191",
+    "fi": "Mustasilmäpapu, tuore siemen, raaka"
+  },
+  {
+    "id": "usda:11195",
+    "fi": "Mustasilmäpapu, tuore siemen, pakaste"
+  },
+  {
+    "id": "usda:11197",
+    "fi": "Mustasilmäpapu, nuori palko ja siemen, raaka"
+  },
+  {
+    "id": "usda:11199",
+    "fi": "Pitkäpapu, raaka"
+  },
+  {
+    "id": "usda:11201",
+    "fi": "Mustasilmäpavun lehdenversot, raaka"
+  },
+  {
+    "id": "usda:11203",
+    "fi": "Krassi, raaka"
+  },
+  {
+    "id": "usda:11205",
+    "fi": "Kurkku, kuorineen, raaka"
+  },
+  {
+    "id": "usda:11206",
+    "fi": "Kurkku, kuorittu, raaka"
+  },
+  {
+    "id": "usda:11207",
+    "fi": "Voikukanlehdet, raaka"
+  },
+  {
+    "id": "usda:11209",
+    "fi": "Munakoiso, raaka"
+  },
+  {
+    "id": "usda:11211",
+    "fi": "Edamame, pakaste"
+  },
+  {
+    "id": "usda:11213",
+    "fi": "Endiivi, raaka"
+  },
+  {
+    "id": "usda:11215",
+    "fi": "Valkosipuli, raaka"
+  },
+  {
+    "id": "usda:11216",
+    "fi": "Inkivääri, juuri, raaka"
+  },
+  {
+    "id": "usda:11218",
+    "fi": "Pullokurpitsa, raaka"
+  },
+  {
+    "id": "usda:11220",
+    "fi": "Pesusienikurpitsa, raaka"
+  },
+  {
+    "id": "usda:11222",
+    "fi": "Moringanlehdet, raaka"
+  },
+  {
+    "id": "usda:11224",
+    "fi": "Hyasinttipapu, tuore siemen, raaka"
+  },
+  {
+    "id": "usda:11226",
+    "fi": "Maa-artisokka, raaka"
+  },
+  {
+    "id": "usda:11228",
+    "fi": "Juudaksenkorva, raaka"
+  },
+  {
+    "id": "usda:11230",
+    "fi": "Juudaksenkorva, kuivattu"
+  },
+  {
+    "id": "usda:11231",
+    "fi": "Juuttikasvin lehdet, raaka"
+  },
+  {
+    "id": "usda:11233",
+    "fi": "Lehtikaali, raaka"
+  },
+  {
+    "id": "usda:11235",
+    "fi": "Lehtikaali, pakaste"
+  },
+  {
+    "id": "usda:11237",
+    "fi": "Kanpyo, kuivattu pullokurpitsa"
+  },
+  {
+    "id": "usda:11238",
+    "fi": "Shiitake, raaka"
+  },
+  {
+    "id": "usda:11239",
+    "fi": "Kantarelli, raaka"
+  },
+  {
+    "id": "usda:11240",
+    "fi": "Huhtasieni, raaka"
+  },
+  {
+    "id": "usda:11241",
+    "fi": "Kyssäkaali, raaka"
+  },
+  {
+    "id": "usda:11244",
+    "fi": "Savikka, raaka"
+  },
+  {
+    "id": "usda:11246",
+    "fi": "Purjo, raaka"
+  },
+  {
+    "id": "usda:11248",
+    "fi": "Linssin idut, raaka"
+  },
+  {
+    "id": "usda:11250",
+    "fi": "Keräsalaatti, butterhead, raaka"
+  },
+  {
+    "id": "usda:11251",
+    "fi": "Roomansalaatti, raaka"
+  },
+  {
+    "id": "usda:11252",
+    "fi": "Jäävuorisalaatti, raaka"
+  },
+  {
+    "id": "usda:11253",
+    "fi": "Lehtisalaatti, vihreä, raaka"
+  },
+  {
+    "id": "usda:11254",
+    "fi": "Lootuksenjuuri, raaka"
+  },
+  {
+    "id": "usda:11257",
+    "fi": "Lehtisalaatti, punainen, raaka"
+  },
+  {
+    "id": "usda:11258",
+    "fi": "Jami, havaijilainen, raaka"
+  },
+  {
+    "id": "usda:11260",
+    "fi": "Herkkusieni, valkoinen, raaka"
+  },
+  {
+    "id": "usda:11265",
+    "fi": "Portobello, raaka"
+  },
+  {
+    "id": "usda:11266",
+    "fi": "Herkkusieni, ruskea, raaka"
+  },
+  {
+    "id": "usda:11268",
+    "fi": "Shiitake, kuivattu"
+  },
+  {
+    "id": "usda:11270",
+    "fi": "Sinappikaali, raaka"
+  },
+  {
+    "id": "usda:11272",
+    "fi": "Sinappikaali, pakaste"
+  },
+  {
+    "id": "usda:11274",
+    "fi": "Komatsuna, raaka"
+  },
+  {
+    "id": "usda:11276",
+    "fi": "Uudenseelanninpinaatti, raaka"
+  },
+  {
+    "id": "usda:11278",
+    "fi": "Okra, raaka"
+  },
+  {
+    "id": "usda:11280",
+    "fi": "Okra, pakaste"
+  },
+  {
+    "id": "usda:11282",
+    "fi": "Sipuli, raaka"
+  },
+  {
+    "id": "usda:11284",
+    "fi": "Sipuli, kuivattu hiutale"
+  },
+  {
+    "id": "usda:11285",
+    "fi": "Sipuli, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11286",
+    "fi": "Sipuli, keltainen, kuullotettu"
+  },
+  {
+    "id": "usda:11287",
+    "fi": "Sipuli, pakaste, hienonnettu"
+  },
+  {
+    "id": "usda:11289",
+    "fi": "Sipuli, pakaste, kokonainen"
+  },
+  {
+    "id": "usda:11291",
+    "fi": "Kevätsipuli, raaka"
+  },
+  {
+    "id": "usda:11292",
+    "fi": "Sipulinvarsi, raaka"
+  },
+  {
+    "id": "usda:11293",
+    "fi": "Pillisipuli, raaka"
+  },
+  {
+    "id": "usda:11294",
+    "fi": "Sipuli, makea, raaka"
+  },
+  {
+    "id": "usda:11297",
+    "fi": "Persilja, tuore"
+  },
+  {
+    "id": "usda:11298",
+    "fi": "Palsternakka, raaka"
+  },
+  {
+    "id": "usda:11300",
+    "fi": "Sokeriherne, raaka"
+  },
+  {
+    "id": "usda:11302",
+    "fi": "Sokeriherne, pakaste"
+  },
+  {
+    "id": "usda:11304",
+    "fi": "Herne, vihreä, raaka"
+  },
+  {
+    "id": "usda:11306",
+    "fi": "Herne, vihreä, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11310",
+    "fi": "Herne, vihreä, säilyke, maustettu, liemineen"
+  },
+  {
+    "id": "usda:11312",
+    "fi": "Herne, vihreä, pakaste"
+  },
+  {
+    "id": "usda:11316",
+    "fi": "Herneen idut, raaka"
+  },
+  {
+    "id": "usda:11318",
+    "fi": "Herne-porkkanasekoitus, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11322",
+    "fi": "Herne-porkkanasekoitus, pakaste"
+  },
+  {
+    "id": "usda:11324",
+    "fi": "Herne-sipulisekoitus, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11326",
+    "fi": "Herne-sipulisekoitus, pakaste"
+  },
+  {
+    "id": "usda:11329",
+    "fi": "Chili, vihreä, säilyke, siemenetön, liemineen"
+  },
+  {
+    "id": "usda:11333",
+    "fi": "Paprika, vihreä, raaka"
+  },
+  {
+    "id": "usda:11335",
+    "fi": "Paprika, vihreä, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11337",
+    "fi": "Paprika, vihreä, pakaste, hienonnettu"
+  },
+  {
+    "id": "usda:11339",
+    "fi": "Paprika, vihreä, kuullotettu"
+  },
+  {
+    "id": "usda:11344",
+    "fi": "Kyyhkynherne, tuore siemen, raaka"
+  },
+  {
+    "id": "usda:11349",
+    "fi": "Poi"
+  },
+  {
+    "id": "usda:11350",
+    "fi": "Pokeweed-versot, raaka"
+  },
+  {
+    "id": "usda:11352",
+    "fi": "Peruna, kuorineen, raaka"
+  },
+  {
+    "id": "usda:11353",
+    "fi": "Peruna, russet, kuorineen, raaka"
+  },
+  {
+    "id": "usda:11354",
+    "fi": "Peruna, valkoinen, kuorineen, raaka"
+  },
+  {
+    "id": "usda:11355",
+    "fi": "Peruna, punainen, kuorineen, raaka"
+  }
+]

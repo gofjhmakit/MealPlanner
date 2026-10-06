@@ -520,9 +520,9 @@ export async function restoreShoppingItem(item: ShoppingItem, database: MealPlan
 
 /**
  * Re-run automatic matching in the user's own recipes (not catalogue dishes, whose rows come
- * from Fineli) so new or changed products are picked up. Manual choices are kept.
+ * from Fineli) so new or changed products or nutrition data are picked up. Manual choices are kept.
  */
-async function rematchUserRecipes(fineli: FineliLookup, database: MealPlannerDB, onlyFoodId?: number) {
+export async function rematchUserRecipes(fineli: FineliLookup, database: MealPlannerDB, onlyFoodId?: number) {
   const ctx = await matchContext(fineli, database)
   const recipes = await database.recipes.filter((r) => r.origin !== 'catalogue').toArray()
   for (const r of recipes) {

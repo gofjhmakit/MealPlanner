@@ -10,6 +10,7 @@ import { getIngredient, INGREDIENTS, type CanonicalIngredient } from '../../doma
 import { matchIngredient } from '../../domain/matcher'
 import { resolveGrams } from '../../domain/nutrition'
 import { matchesQuery, searchText } from '../../domain/recipeInfo'
+import { foodSourceLabel } from '../../domain/supplementary'
 import { MEAL_SLOTS, type FineliFood, type MealSlot, type Recipe, type RecipeIngredient, type ScalingRule } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
 import { useApp, useToast } from '../AppContext'
@@ -90,7 +91,7 @@ interface Candidate {
   food?: FineliFood
 }
 
-function searchCandidates(query: string, foods: FineliFood[], products: FineliFood[]): Candidate[] {
+function searchCandidates(query: string, foods: FineliFood[], products: FineliFood[], supplementary: FineliFood[]): Candidate[] {
   const q = query.trim().toLowerCase()
   if (q.length < 2) return []
   const words = tokenize(q).map((w) => lemmaCandidates(w).filter((c) => c.length >= 2))
@@ -107,7 +108,13 @@ function searchCandidates(query: string, foods: FineliFood[], products: FineliFo
     .sort((a, b) => (a.type === 'FOOD' ? 0 : 1) - (b.type === 'FOOD' ? 0 : 1) || a.fi.length - b.fi.length)
     .slice(0, 12)
     .map((f) => ({ key: `f:${f.id}`, label: f.fi, detail: `Fineli ${f.id}`, food: f }))
-  return [...own, ...canon, ...fin]
+  // Other databases only after Fineli (the master data), and fewer of them.
+  const supp = supplementary
+    .filter((f) => hit(f.fi.toLowerCase()))
+    .sort((a, b) => a.fi.length - b.fi.length)
+    .slice(0, fin.length >= 8 ? 3 : 8)
+    .map((f) => ({ key: `s:${f.id}`, label: f.fi, detail: `${foodSourceLabel(f)} ${f.sourceRef ?? ''}`.trim(), food: f }))
+  return [...own, ...canon, ...fin, ...supp]
 }
 
 export function IngredientMappingDialog({
@@ -140,7 +147,7 @@ export function IngredientMappingDialog({
 
   const { dataVersion } = useApp()
   // eslint-disable-next-line react-hooks/exhaustive-deps -- dataVersion: products changed
-  const candidates = useMemo(() => searchCandidates(query, fineli.all(), fineli.products()), [query, fineli, dataVersion])
+  const candidates = useMemo(() => searchCandidates(query, fineli.all(), fineli.products(), fineli.supplementary()), [query, fineli, dataVersion])
   if (!ingredient) return null
 
   const canonical = getIngredient(ingredient.canonicalId)
@@ -159,7 +166,7 @@ export function IngredientMappingDialog({
       const mapping = selected.canonical
         ? { canonicalId: selected.canonical.id, fineliId: selected.canonical.fineliId }
         : { canonicalId: ingredient.canonicalId ?? null, fineliId: selected.food!.id }
-      // A Fineli food chosen directly replaces the nutrition source but keeps the shopping ingredient.
+      // A Fineli (or supplementary) food chosen directly replaces the nutrition source but keeps the shopping ingredient.
       if (selected.food && canonical && selected.food.id !== canonical.fineliId) mapping.canonicalId = canonical.id
       await setIngredientMapping(recipe.id, ingredient.id, mapping, remember, fineli)
     }
@@ -203,7 +210,7 @@ export function IngredientMappingDialog({
               <dd>{canonical?.fi ?? '—'}</dd>
             </div>
             <div>
-              <dt className="text-muted">Ravintotieto (Fineli)</dt>
+              <dt className="text-muted">Ravintotieto ({foodSourceLabel(food)})</dt>
               <dd className="flex items-center gap-2">
                 <ConfidenceDot confidence={ingredient.confidence} method={ingredient.matchMethod} />
                 {food?.fi ?? 'Ei vastinetta'}

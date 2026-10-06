@@ -1,0 +1,770 @@
+[
+  {
+    "id": "usda:28328",
+    "fi": "Suklaahippukeksi, täytekeksi, kreemitäyte"
+  },
+  {
+    "id": "usda:28329",
+    "fi": "Suklaakeksi, riisimuroilla"
+  },
+  {
+    "id": "usda:28330",
+    "fi": "Vaahtokarkkikeksi, riisimurot ja suklaahiput"
+  },
+  {
+    "id": "usda:28331",
+    "fi": "Keksi, maustettu, kalanmuotoinen"
+  },
+  {
+    "id": "usda:28332",
+    "fi": "Suklaatäytekeksi, gluteeniton, kreemitäyte"
+  },
+  {
+    "id": "usda:28333",
+    "fi": "Suklaavohvelikeksi, gluteeniton"
+  },
+  {
+    "id": "usda:28334",
+    "fi": "Sitruunavohvelikeksi, gluteeniton"
+  },
+  {
+    "id": "usda:28335",
+    "fi": "Vaniljatäytekeksi, gluteeniton, kreemitäyte"
+  },
+  {
+    "id": "usda:28336",
+    "fi": "Vaalea leipä, gluteeniton, peruna- ja riisipohjainen"
+  },
+  {
+    "id": "usda:28337",
+    "fi": "Vaalea leipä, gluteeniton, riisi- ja maissipohjainen"
+  },
+  {
+    "id": "usda:28338",
+    "fi": "Vaalea leipä, gluteeniton, tapioka- ja riisipohjainen"
+  },
+  {
+    "id": "usda:28339",
+    "fi": "Täysjyväleipä, gluteeniton, tapioka- ja riisipohjainen"
+  },
+  {
+    "id": "usda:28340",
+    "fi": "Sämpylä, vaalea, gluteeniton, riisi-tapioka-perunapohjainen"
+  },
+  {
+    "id": "usda:28341",
+    "fi": "Sämpylä, vaalea, gluteeniton, riisi- ja maissipohjainen"
+  },
+  {
+    "id": "usda:28342",
+    "fi": "Sämpylä, vaalea, gluteeniton, riisi-tapioka-durrapohjainen"
+  },
+  {
+    "id": "usda:28343",
+    "fi": "Sämpylä, täysjyvä, gluteeniton, tapioka- ja riisipohjainen"
+  },
+  {
+    "id": "usda:28344",
+    "fi": "Keksi, gluteeniton, monivilja ja vihannes"
+  },
+  {
+    "id": "usda:28345",
+    "fi": "Keksi, gluteeniton, monisiemen ja monivilja"
+  },
+  {
+    "id": "usda:28346",
+    "fi": "Vohveli, gluteeniton, pakaste"
+  },
+  {
+    "id": "usda:28347",
+    "fi": "Pannukakku, gluteeniton, pakaste"
+  },
+  {
+    "id": "usda:28348",
+    "fi": "Päivällissämpylä, makea"
+  },
+  {
+    "id": "usda:28349",
+    "fi": "Kaurakeksi, vähärasvainen"
+  },
+  {
+    "id": "usda:28350",
+    "fi": "Keksitikku, suklaakreemikuorrutettu"
+  },
+  {
+    "id": "usda:28351",
+    "fi": "Marie-keksi"
+  },
+  {
+    "id": "usda:28352",
+    "fi": "Vaniljatäytekeksi, kreemitäyte, vähärasvainen"
+  },
+  {
+    "id": "usda:28397",
+    "fi": "Moniviljaleipä"
+  },
+  {
+    "id": "usda:28399",
+    "fi": "Eläinkeksi"
+  },
+  {
+    "id": "usda:31021",
+    "fi": "Röstiperuna, kylmäsäilytetty, kypsentämätön"
+  },
+  {
+    "id": "usda:31025",
+    "fi": "Bataattipallero, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:31028",
+    "fi": "Röstiperuna, keltamaltoinen, suolattu, pakaste"
+  },
+  {
+    "id": "usda:31033",
+    "fi": "Inkivääri, pikkelöity, säilyke, keinomakeutettu"
+  },
+  {
+    "id": "usda:31034",
+    "fi": "Chilipaprika, pikkelöity, säilyke"
+  },
+  {
+    "id": "usda:31036",
+    "fi": "Perunamuusi, valmis"
+  },
+  {
+    "id": "usda:42040",
+    "fi": "Grenadiinisiirappi"
+  },
+  {
+    "id": "usda:42055",
+    "fi": "Hedelmänmakuinen juomajauhe, vähäkalorinen, aspartaamilla"
+  },
+  {
+    "id": "usda:42063",
+    "fi": "Pektiini, nestemäinen"
+  },
+  {
+    "id": "usda:42074",
+    "fi": "Vaniljajäätelöpuikko, kevyt, sokeriton, suklaakuorrutettu"
+  },
+  {
+    "id": "usda:42116",
+    "fi": "Kermainen kastike, smetana-piimäpohjainen, vähäkalorinen"
+  },
+  {
+    "id": "usda:42117",
+    "fi": "Juustojäljitelmä, amerikkalainen tai cheddar, vähäkolesterolinen"
+  },
+  {
+    "id": "usda:42128",
+    "fi": "Kalkkunakinkku, viipaloitu, erittäin vähärasvainen"
+  },
+  {
+    "id": "usda:42129",
+    "fi": "Bologna-makkara, naudan- ja sianliha, vähärasvainen"
+  },
+  {
+    "id": "usda:42131",
+    "fi": "Maitojälkiruoka, pakaste, rasvaton, suklaa"
+  },
+  {
+    "id": "usda:42135",
+    "fi": "Kermavaahtojäljitelmä, pakaste, vähärasvainen"
+  },
+  {
+    "id": "usda:42136",
+    "fi": "Kermankorvike, jauhe, kevyt"
+  },
+  {
+    "id": "usda:42137",
+    "fi": "Pippurisalaatinkastike"
+  },
+  {
+    "id": "usda:42138",
+    "fi": "Majoneesi, vähäkalorinen, kolesteroliton"
+  },
+  {
+    "id": "usda:42139",
+    "fi": "Myslipatukka, pehmeä, maitosuklaakuorrute, maapähkinävoi"
+  },
+  {
+    "id": "usda:42140",
+    "fi": "Italialainen salaattikastike, vähäkalorinen"
+  },
+  {
+    "id": "usda:42141",
+    "fi": "Kermankorvike, nestemäinen, kevyt"
+  },
+  {
+    "id": "usda:42151",
+    "fi": "Kasviöljy-voilevite, vähäkalorinen"
+  },
+  {
+    "id": "usda:42153",
+    "fi": "Sinihomejuustosalaattikastike, kevyt"
+  },
+  {
+    "id": "usda:42155",
+    "fi": "Monterey-juusto, vähärasvainen"
+  },
+  {
+    "id": "usda:42157",
+    "fi": "Kermainen kastike, smetana-piimäpohjainen, rasvaton"
+  },
+  {
+    "id": "usda:42158",
+    "fi": "Kermainen kastike, smetana-piimäpohjainen, kolesteroliton"
+  },
+  {
+    "id": "usda:42161",
+    "fi": "Bologna-makkara, naudanliha, vähärasvainen"
+  },
+  {
+    "id": "usda:42171",
+    "fi": "Ranskalainen salaattikastike, vähäkalorinen"
+  },
+  {
+    "id": "usda:42178",
+    "fi": "Majoneesi, tofupohjainen"
+  },
+  {
+    "id": "usda:42179",
+    "fi": "Nakki, naudanliha, vähärasvainen"
+  },
+  {
+    "id": "usda:42185",
+    "fi": "Pakastejogurtti, suklaa, rasvaton, sokeriton"
+  },
+  {
+    "id": "usda:42186",
+    "fi": "Pakastejogurtti, suklaa"
+  },
+  {
+    "id": "usda:42187",
+    "fi": "Pakastejogurtti, muu maku kuin suklaa"
+  },
+  {
+    "id": "usda:42189",
+    "fi": "Piimä, hapatettu, vähärasvainen"
+  },
+  {
+    "id": "usda:42192",
+    "fi": "Sinihomejuustosalaattikastike, rasvaton"
+  },
+  {
+    "id": "usda:42193",
+    "fi": "Majoneesityyppinen salaattikastike, rasvaton"
+  },
+  {
+    "id": "usda:42200",
+    "fi": "Papad"
+  },
+  {
+    "id": "usda:42204",
+    "fi": "Riisikakku, keksi"
+  },
+  {
+    "id": "usda:42205",
+    "fi": "Sulatejuusto, cheddar tai amerikkalainen, rasvaton"
+  },
+  {
+    "id": "usda:42230",
+    "fi": "Coleslaw-kastike, vähärasvainen"
+  },
+  {
+    "id": "usda:42231",
+    "fi": "Pellavansiemenöljy, kylmäpuristettu"
+  },
+  {
+    "id": "usda:42235",
+    "fi": "Raejuusto, rasvaa 1 %, vähälaktoosinen"
+  },
+  {
+    "id": "usda:42256",
+    "fi": "Margariinityyppinen kasviöljylevite, makeutettu"
+  },
+  {
+    "id": "usda:42258",
+    "fi": "Sulatejuustotuote, cheddar, vähärasvainen"
+  },
+  {
+    "id": "usda:42259",
+    "fi": "Popcorn, kotitekoinen, öljyssä pokattu, suolaton"
+  },
+  {
+    "id": "usda:42270",
+    "fi": "Appelsiinimehujuoma"
+  },
+  {
+    "id": "usda:42272",
+    "fi": "Myslipatukka, kookos, suklaakuorrutettu"
+  },
+  {
+    "id": "usda:42280",
+    "fi": "Nakki, liha ja siipikarja, vähärasvainen"
+  },
+  {
+    "id": "usda:42281",
+    "fi": "Siemenkumi, johanneksenleipäpuu ja guar"
+  },
+  {
+    "id": "usda:42283",
+    "fi": "Perunalastu, valkoinen, muotoiltu, paistettu"
+  },
+  {
+    "id": "usda:42289",
+    "fi": "Maissi- ja rypsiöljy"
+  },
+  {
+    "id": "usda:42290",
+    "fi": "Maito, rasvaton, kalsiumilla täydennetty"
+  },
+  {
+    "id": "usda:42291",
+    "fi": "Maapähkinävoi, vähäsuolainen"
+  },
+  {
+    "id": "usda:42303",
+    "fi": "Muenster-juusto, vähärasvainen"
+  },
+  {
+    "id": "usda:42304",
+    "fi": "Mozzarella, rasvaton"
+  },
+  {
+    "id": "usda:42307",
+    "fi": "Voi-margariiniseos, rasvaa 80 %, suolaton"
+  },
+  {
+    "id": "usda:42309",
+    "fi": "Kasviöljy-voilevite, vähäkalorinen, suolattu"
+  },
+  {
+    "id": "usda:43015",
+    "fi": "Caesar-salaattikastike"
+  },
+  {
+    "id": "usda:43016",
+    "fi": "Coleslaw-kastike"
+  },
+  {
+    "id": "usda:43017",
+    "fi": "Green goddess -salaattikastike"
+  },
+  {
+    "id": "usda:43019",
+    "fi": "Hapanimeläsalaattikastike"
+  },
+  {
+    "id": "usda:43020",
+    "fi": "Sinihomejuustosalaattikastike, vähäkalorinen"
+  },
+  {
+    "id": "usda:43021",
+    "fi": "Caesar-salaattikastike, vähäkalorinen"
+  },
+  {
+    "id": "usda:43026",
+    "fi": "Siirappi, sokeriton"
+  },
+  {
+    "id": "usda:43027",
+    "fi": "Hyytelö, sokeriton"
+  },
+  {
+    "id": "usda:43028",
+    "fi": "Hillo, sokeriton"
+  },
+  {
+    "id": "usda:43031",
+    "fi": "Karamelli, suklaakuorrutettu, pähkinöillä"
+  },
+  {
+    "id": "usda:43046",
+    "fi": "Nougat, manteleilla"
+  },
+  {
+    "id": "usda:43057",
+    "fi": "Kumimakeinen, sokeriton tai vähäkalorinen"
+  },
+  {
+    "id": "usda:43058",
+    "fi": "Kova karamelli, dieettinen tai vähäkalorinen"
+  },
+  {
+    "id": "usda:43059",
+    "fi": "Karamelli, suklaakuorrutettu, vähäsokerinen tai vähäkalorinen"
+  },
+  {
+    "id": "usda:43060",
+    "fi": "Purukumi, sokeriton"
+  },
+  {
+    "id": "usda:43078",
+    "fi": "Pirtelöseos, kuivaseos, ei suklaa"
+  },
+  {
+    "id": "usda:43098",
+    "fi": "Kirsikkapiirakkatäyte, vähäkalorinen"
+  },
+  {
+    "id": "usda:43100",
+    "fi": "Aamiaispalkki, kaura, sokeri, rusina ja kookos"
+  },
+  {
+    "id": "usda:43109",
+    "fi": "Suolatikku, pehmeä"
+  },
+  {
+    "id": "usda:43114",
+    "fi": "Soijavermiselli"
+  },
+  {
+    "id": "usda:43128",
+    "fi": "Kasviskana"
+  },
+  {
+    "id": "usda:43130",
+    "fi": "Kasvisnakki"
+  },
+  {
+    "id": "usda:43131",
+    "fi": "Kasvisleikkele"
+  },
+  {
+    "id": "usda:43132",
+    "fi": "Kasvispyörykkä"
+  },
+  {
+    "id": "usda:43134",
+    "fi": "Kasvisfilee"
+  },
+  {
+    "id": "usda:43135",
+    "fi": "Kasvislevite"
+  },
+  {
+    "id": "usda:43137",
+    "fi": "Kasvismureke tai -pihvi"
+  },
+  {
+    "id": "usda:43142",
+    "fi": "Retiisi, hawaiilainen, pikkelöity"
+  },
+  {
+    "id": "usda:43143",
+    "fi": "Kaali, japanilainen, tuore, pikkelöity"
+  },
+  {
+    "id": "usda:43144",
+    "fi": "Sinappikaali, suolattu"
+  },
+  {
+    "id": "usda:43146",
+    "fi": "Munakoiso, pikkelöity"
+  },
+  {
+    "id": "usda:43154",
+    "fi": "Ruoanlaittoviini"
+  },
+  {
+    "id": "usda:43155",
+    "fi": "Viini, kevyt"
+  },
+  {
+    "id": "usda:43158",
+    "fi": "Sakariinimakeutusaine"
+  },
+  {
+    "id": "usda:43205",
+    "fi": "Aamiaispirtelöjauhe, suklaa"
+  },
+  {
+    "id": "usda:43212",
+    "fi": "Pekonimuru, kasvispohjainen"
+  },
+  {
+    "id": "usda:43214",
+    "fi": "Voinkorvike, rasvaton, jauhe"
+  },
+  {
+    "id": "usda:43215",
+    "fi": "Piimäsalaattikastike, kevyt"
+  },
+  {
+    "id": "usda:43216",
+    "fi": "Fruktoosi, jauhe"
+  },
+  {
+    "id": "usda:43217",
+    "fi": "Tomaattikastike, säilyke, suolaton"
+  },
+  {
+    "id": "usda:43260",
+    "fi": "Aamiaispirtelöjauhe, suklaa, sokeriton"
+  },
+  {
+    "id": "usda:43261",
+    "fi": "Jogurtti, hedelmä, rasvaton"
+  },
+  {
+    "id": "usda:43268",
+    "fi": "Kermavaahtojäljitelmä, dieettinen, jauheesta valmistettu"
+  },
+  {
+    "id": "usda:43269",
+    "fi": "Jäätelöjälkiruoka, sundae, pakattu"
+  },
+  {
+    "id": "usda:43273",
+    "fi": "Raejuusto, kasviksilla"
+  },
+  {
+    "id": "usda:43274",
+    "fi": "Tuorejuusto, vähärasvainen"
+  },
+  {
+    "id": "usda:43275",
+    "fi": "Sulatejuusto, amerikkalainen, vähärasvainen"
+  },
+  {
+    "id": "usda:43276",
+    "fi": "Juustolevite, tuorejuustopohjainen"
+  },
+  {
+    "id": "usda:43278",
+    "fi": "Cheddarjuustojäljitelmä"
+  },
+  {
+    "id": "usda:43297",
+    "fi": "Porsaanliha, itämainen, kuivattu"
+  },
+  {
+    "id": "usda:43299",
+    "fi": "Tofujuusto"
+  },
+  {
+    "id": "usda:43312",
+    "fi": "Sekavihannekset, säilyke, suolaton"
+  },
+  {
+    "id": "usda:43329",
+    "fi": "Majoneesityyppinen salaattikastike, vähäkalorinen"
+  },
+  {
+    "id": "usda:43331",
+    "fi": "Pekoni-tomaattisalaattikastike"
+  },
+  {
+    "id": "usda:43340",
+    "fi": "Parmesaani, vähäsuolainen"
+  },
+  {
+    "id": "usda:43344",
+    "fi": "Hillo ja marmeladi, vähäsokerinen"
+  },
+  {
+    "id": "usda:43345",
+    "fi": "Hedelmänmakuinen juomajauhe, vähäkalorinen"
+  },
+  {
+    "id": "usda:43346",
+    "fi": "Appelsiinimehujää"
+  },
+  {
+    "id": "usda:43352",
+    "fi": "Raejuusto, rasvaa 1 %, suolaton"
+  },
+  {
+    "id": "usda:43355",
+    "fi": "Majoneesi, vähäsuolainen ja vähäkalorinen"
+  },
+  {
+    "id": "usda:43364",
+    "fi": "Tortillalastu, valkoinen maissi, suolaton"
+  },
+  {
+    "id": "usda:43365",
+    "fi": "Tomaatti-vihannesmehu, vähäsuolainen"
+  },
+  {
+    "id": "usda:43369",
+    "fi": "Suklaanmakuinen juoma, hera- ja maitopohjainen"
+  },
+  {
+    "id": "usda:43379",
+    "fi": "Sulatejuusto, sveitsiläinen, vähärasvainen"
+  },
+  {
+    "id": "usda:43382",
+    "fi": "Karpalomehu, makeuttamaton"
+  },
+  {
+    "id": "usda:43384",
+    "fi": "Bologna-makkara, naudanliha, vähäsuolainen"
+  },
+  {
+    "id": "usda:43387",
+    "fi": "Nauriin naatit, säilyke, suolaton"
+  },
+  {
+    "id": "usda:43392",
+    "fi": "Palmunydin, raaka"
+  },
+  {
+    "id": "usda:43396",
+    "fi": "Raejuusto, rasvaa 1 %, kasviksilla"
+  },
+  {
+    "id": "usda:43398",
+    "fi": "Sulatejuusto, cheddar tai amerikkalainen, vähäsuolainen"
+  },
+  {
+    "id": "usda:43401",
+    "fi": "Pikakahvijuoma, kermankorvikkeella, vähäkalorinen"
+  },
+  {
+    "id": "usda:43404",
+    "fi": "Karpalo-omenamehujuoma, vähäkalorinen"
+  },
+  {
+    "id": "usda:43406",
+    "fi": "Hiivauutelevite"
+  },
+  {
+    "id": "usda:43441",
+    "fi": "Pumpernikkelisämpylä"
+  },
+  {
+    "id": "usda:43447",
+    "fi": "Maissinaksu, lastu, suolaton"
+  },
+  {
+    "id": "usda:43450",
+    "fi": "Mehujää, mehulla ja kermalla"
+  },
+  {
+    "id": "usda:43476",
+    "fi": "Tofujogurtti"
+  },
+  {
+    "id": "usda:43479",
+    "fi": "Sake"
+  },
+  {
+    "id": "usda:43497",
+    "fi": "Meduusa, kuivattu, suolattu"
+  },
+  {
+    "id": "usda:43506",
+    "fi": "Jäätelöpuikko, suklaa- tai karamellikuorrute, pähkinöillä"
+  },
+  {
+    "id": "usda:43507",
+    "fi": "Nakki, vähäsuolainen"
+  },
+  {
+    "id": "usda:43514",
+    "fi": "Mehujääpuikko, vähäkalorisella makeutusaineella"
+  },
+  {
+    "id": "usda:43541",
+    "fi": "Suklaajäätelö, täyteläinen"
+  },
+  {
+    "id": "usda:43543",
+    "fi": "Maitojäljitelmä, ei soija"
+  },
+  {
+    "id": "usda:43566",
+    "fi": "Tortillalastu, kevyt, paistettu"
+  },
+  {
+    "id": "usda:43572",
+    "fi": "Popcorn, mikroaaltouuni, vähärasvainen ja vähäsuolainen"
+  },
+  {
+    "id": "usda:43589",
+    "fi": "Sveitsiläinen juusto, vähärasvainen"
+  },
+  {
+    "id": "usda:43595",
+    "fi": "Aamiaispalkki, maissihiutalepohja ja hedelmä"
+  },
+  {
+    "id": "usda:43597",
+    "fi": "Mozzarella, vähäsuolainen"
+  },
+  {
+    "id": "usda:43598",
+    "fi": "Majoneesikastike, kolesteroliton"
+  },
+  {
+    "id": "usda:44005",
+    "fi": "Maissi-, maapähkinä- ja oliiviöljy"
+  },
+  {
+    "id": "usda:44018",
+    "fi": "Fruktoosimakeutusaine, nestemäinen"
+  },
+  {
+    "id": "usda:44048",
+    "fi": "Sulatejuustovalmiste, amerikkalainen, jäljitelmä"
+  },
+  {
+    "id": "usda:44055",
+    "fi": "Sellerihiutale, kuivattu"
+  },
+  {
+    "id": "usda:44061",
+    "fi": "Suklaavanukas, vähäkalorinen, pikaseos"
+  },
+  {
+    "id": "usda:44110",
+    "fi": "Hyytelö, vähäsokerinen, kotisäilötty"
+  },
+  {
+    "id": "usda:44158",
+    "fi": "Mustikkapiirakkatäyte, säilyke"
+  },
+  {
+    "id": "usda:44203",
+    "fi": "Cocktailseos, alkoholiton, tiiviste, pakaste"
+  },
+  {
+    "id": "usda:44258",
+    "fi": "Suklaavanukas, vähäkalorinen, keitettävä kuivaseos"
+  },
+  {
+    "id": "usda:44259",
+    "fi": "Vanukas, muu kuin suklaa, vähäkalorinen, keitettävä kuivaseos"
+  },
+  {
+    "id": "usda:44260",
+    "fi": "Vanukas, muu kuin suklaa, vähäkalorinen, pikaseos"
+  },
+  {
+    "id": "usda:48052",
+    "fi": "Vehnägluteeni"
+  },
+  {
+    "id": "usda:80200",
+    "fi": "Sammakonreisi, raaka"
+  },
+  {
+    "id": "usda:83110",
+    "fi": "Makrilli, suolattu"
+  },
+  {
+    "id": "usda:90480",
+    "fi": "Ruokosiirappi"
+  },
+  {
+    "id": "usda:90560",
+    "fi": "Etana, raaka"
+  },
+  {
+    "id": "usda:93600",
+    "fi": "Kilpikonna, vihreä, raaka"
+  }
+]

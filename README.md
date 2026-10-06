@@ -24,6 +24,7 @@ See also [REVIEW.md](REVIEW.md) – product-owner, customer and security review 
 4. [Technology stack](#technology-stack)
 5. [Data model](#data-model)
 6. [Fineli data import](#fineli-data-import)
+   - [Supplementary food data](#supplementary-food-data)
 7. [Recipe catalogue](#recipe-catalogue)
 8. [Recipe importing](#recipe-importing)
 9. [Supported recipe sites](#supported-recipe-sites)
@@ -222,6 +223,43 @@ IndexedDB. There are **no per-ingredient API requests**.
 > the same. A test checks that every Fineli id referenced by the ingredient dictionary
 > exists in whatever dataset is imported.
 
+### Supplementary food data
+
+Fineli (4 058 foods) is the **master data**. Foods it does not have (saffron, Worcestershire
+sauce, hoisin sauce, tempeh, edamame, okra, ricotta, duck breast …) come from two larger
+open databases, **translated to Finnish** and used **only when Fineli has no suitable or
+likely food**:
+
+| Source | Licence | In the original | Bundled after filtering |
+|---|---|---|---|
+| [Livsmedelsverket, Livsmedelsdatabasen](https://www.livsmedelsverket.se/om-oss/psidata/livsmedelsdatabasen) (Swedish Food Agency) – Nordic foods, closest to Fineli | CC BY 4.0 | 2 387 | 1 603 |
+| [USDA SR Legacy (Standard Reference, Release 28)](https://fdc.nal.usda.gov/) | Public domain (CC0) | 8 789 | 3 405 |
+
+Other candidates were considered and not used (yet): USDA FoodData Central *Foundation*
+(small) and *Branded* (US packaged products), the Canadian Nutrient File (largely derived
+from USDA – mostly duplicates), French CIQUAL (Licence Ouverte) and UK CoFID (Open
+Government Licence) – open, but mostly overlapping and not downloadable from this build
+environment, as were Danish Frida and Norwegian Matvaretabellen (good future additions:
+add a source in `supplementary.ts` and the importer), and Open Food Facts (ODbL,
+crowd-sourced product data – not a reference database).
+
+`npm run supplementary:build` (`scripts/import-supplementary.ts`) reads the bundled raw
+files in [`data/supplementary-source/`](data/supplementary-source/README.md), keeps
+ingredient-type foods (no ready meals, brand products, baby foods, fast food, restaurant
+foods, cooked variants of raw ingredients), maps the nutrients to Fineli's units,
+attaches the **Finnish names** from `data/supplementary-source/fi/` and **removes
+duplicates**: a food is dropped if Fineli already has the same name, and between the two
+sources the first one (Livsmedelsverket) wins. The result is
+`public/data/supplementary-foods.json` (+ `supplementary-meta.json`), loaded into its own
+IndexedDB table on first start or when re-imported; recipes are then re-matched.
+
+Supplementary foods have ids 800 000 000+ (`src/domain/supplementary.ts`), keep their
+English/Swedish name and source id, and are always labelled with the source (USDA /
+Livsmedelsverket) in the mapping dialog, nutrition table and grams notes.
+Fineli-only facts are not invented for them: gluten/lactose flags are never set, and
+Livsmedelsverket foods have no household weights (USDA cup/tbsp/tsp/piece weights are
+converted to dl/rkl/tl/kpl).
+
 ## Recipe catalogue
 
 Researched options:
@@ -354,7 +392,12 @@ Every recipe line is stored as an auditable chain:
 | alias after dropping meaningful modifiers | "punaleima-emmentaljuustoraaste" → Emmental | 0.85 |
 | Finnish **compound head** | "luumutomaattikuutiot" → Tomaatti; "kesäkurpitsaraaste" → Kesäkurpitsa (form word → prefix is the ingredient) | 0.8 |
 | direct Fineli name search | unknown foods | ≤ 0.55 |
+| supplementary search – only if Fineli found nothing, or only a weak hit (the word somewhere inside a longer name) | "sahramia" → Sahrami (USDA) | ≤ 0.6 |
 | nothing | | 0 |
+
+A dictionary entry that Fineli can only approximate (e.g. cumin, turmeric, nutmeg, bay leaf –
+estimated as paprika powder in Fineli) can name the real food in a supplementary database
+(`supplementary: 'usda:2014'`); it is used when the supplementary data is loaded.
 
 The final confidence is **multiplied by the dictionary entry's `fineliConfidence`**,
 which says how well the chosen Fineli food represents the ingredient. For example,
@@ -452,7 +495,7 @@ exported.
 
 ## Testing
 
-`npm test` runs 190 Vitest tests:
+`npm test` runs 208 Vitest tests:
 
 | File | Covers |
 |---|---|
@@ -465,6 +508,7 @@ exported.
 | `tests/ssrf.test.ts` | address classification, URL policy, allowlist, DNS-rebinding rejection |
 | `tests/server.test.ts` | static server hardening: malformed URLs (crash regression), traversal, dotfiles, security headers, worker CSP |
 | `tests/products-planner.test.ts` | K-Ruoka / S-kaupat / text product parsing, products as nutrition foods, product matching and rematching, shopping and export of products (id remapping), ratings, leftover logic (shopping counted once, servings sync, undo), meal planner (leftover lunches, determinism, diet/time/avoid filters, calorie maximum, single day, occupied slots, reroll, saving) |
+| `tests/supplementary.test.ts` | supplementary dataset (id range, no duplicates within it or with Fineli, plausible nutrients, dictionary references), Fineli-first priority, fallback matches, source labels, loading into IndexedDB and offline behaviour |
 | `tests/features.test.ts` | URL sanitizing, note meals, copy day/week, undo, direct recipe → shopping list, pantry matching, shareable text, notes, duplicate detection, special diets, synonym search without false positives, product-name matching, Arla and Kotikokki fixtures |
 
 ## Data licensing considerations
@@ -475,6 +519,7 @@ exported.
 - **Test fixtures** in `tests/fixtures/` are trimmed copies of two public recipe pages. The structure is kept for parser tests, and instruction prose was replaced by placeholders to avoid redistributing the text.
 - **Seed recipes** are original texts written for this project.
 - **Open recipe catalogue**: per-source licences and credits in [`data/open-recipes/README.md`](data/open-recipes/README.md). Translations of CC BY-SA recipes are CC BY-SA 4.0. Attribution comes from the source data by recipe id, never from the translation, and is shown on every recipe page and under Settings → Reseptiaineistot. Images are hot-linked with their credit shown below the picture.
+- **Supplementary food data**: Livsmedelsverket Livsmedelsdatabasen, **CC BY 4.0** (attribution in Settings, sidebar and next to every value used); USDA SR Legacy, **public domain**. Names are machine-assisted translations and the data is filtered – stated in the app; the sources are not responsible for the changes. See [`data/supplementary-source/README.md`](data/supplementary-source/README.md).
 - The bundled Fineli CSV source files in `data/fineli-source/` are an unmodified CC BY 4.0 copy of the official package.
 
 ## Known limitations

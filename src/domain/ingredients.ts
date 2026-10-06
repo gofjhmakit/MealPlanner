@@ -48,6 +48,13 @@ export interface CanonicalIngredient {
   excludeFromShopping?: boolean
   /** Short explanation shown when fineliConfidence < 1. */
   approximationNote?: string
+  /**
+   * Fineli has no food for this ingredient (only an approximation): the same food in a
+   * supplementary database ("usda:2014", see supplementary.ts). Used instead of fineliId when loaded.
+   */
+  supplementary?: string
+  /** How well the supplementary food represents the ingredient (default 0.9: foreign data). */
+  supplementaryConfidence?: number
 }
 
 type Extra = Partial<Omit<CanonicalIngredient, 'id' | 'fi' | 'en' | 'category' | 'diet' | 'fineliId' | 'aliases'>>
@@ -137,7 +144,7 @@ export const INGREDIENTS: CanonicalIngredient[] = [
   ing('avocado', 'Avokado', 'Avocado', V, 'vegan', 11057, ['avokado', 'avocado'], { shoppingUnit: 'count' }),
   ing('lemon', 'Sitruuna', 'Lemon', V, 'vegan', 11048, ['sitruuna'], { shoppingUnit: 'count' }),
   ing('lemon-juice', 'Sitruunamehu', 'Lemon juice', V, 'vegan', 11048, ['sitruunamehu', 'sitruunan mehu', 'puristettu sitruunamehu'], { fineliConfidence: 0.8, approximationNote: 'Arvioitu sitruunan ravintoarvoilla.', density: 1 }),
-  ing('lemon-zest', 'Sitruunankuori', 'Lemon zest', V, 'vegan', 11048, ['sitruunankuori', 'sitruunan kuori', 'sitruunankuoriraaste', 'raastettu sitruunankuori'], { fineliConfidence: 0.6, density: 0.5 }),
+  ing('lemon-zest', 'Sitruunankuori', 'Lemon zest', V, 'vegan', 11048, ['sitruunankuori', 'sitruunan kuori', 'sitruunankuoriraaste', 'raastettu sitruunankuori'], { fineliConfidence: 0.6, density: 0.5, supplementary: 'usda:9156' }),
   ing('lime', 'Limetti', 'Lime', V, 'vegan', 11048, ['limetti', 'limettimehu', 'limetin mehu', 'limetinkuori'], { fineliConfidence: 0.85, pieceGrams: 60, approximationNote: 'Arvioitu sitruunan ravintoarvoilla.' }),
   ing('apple', 'Omena', 'Apple', V, 'vegan', 28941, ['omena', 'omenalohko', 'vihreä omena'], { shoppingUnit: 'count' }),
   ing('banana', 'Banaani', 'Banana', V, 'vegan', 11049, ['banaani'], { shoppingUnit: 'count' }),
@@ -161,7 +168,7 @@ export const INGREDIENTS: CanonicalIngredient[] = [
   ing('parsley', 'Persilja', 'Parsley', V, 'vegan', 333, ['persilja', 'lehtipersilja', 'kiharapersilja', 'persiljasilppu'], { unitGrams: { ruukku: 20, nippu: 20 } }),
   ing('dill', 'Tilli', 'Dill', V, 'vegan', 369, ['tilli', 'tillisilppu', 'tillinoksa'], { unitGrams: { ruukku: 20, nippu: 20 } }),
   ing('coriander', 'Korianteri', 'Coriander', V, 'vegan', 34238, ['korianteri', 'tuore korianteri', 'korianterinlehti'], { unitGrams: { ruukku: 20, nippu: 20 } }),
-  ing('mint', 'Minttu', 'Mint', V, 'vegan', 11134, ['minttu', 'piparminttu', 'mintunlehti'], { fineliConfidence: 0.6, unitGrams: { ruukku: 20 }, approximationNote: 'Arvioitu basilikan ravintoarvoilla.' }),
+  ing('mint', 'Minttu', 'Mint', V, 'vegan', 11134, ['minttu', 'piparminttu', 'mintunlehti'], { fineliConfidence: 0.6, unitGrams: { ruukku: 20 }, approximationNote: 'Arvioitu basilikan ravintoarvoilla.', supplementary: 'usda:2064' }),
 
   // --- Meat, poultry, fish ----------------------------------------------------------------
   ing('chicken-breast-strips', 'Broilerin fileesuikale', 'Chicken breast strips', M, 'meat', 11565, [
@@ -380,16 +387,16 @@ export const INGREDIENTS: CanonicalIngredient[] = [
   ing('thyme', 'Timjami', 'Thyme', S, 'vegan', 11194, ['timjami', 'kuivattu timjami', 'tuore timjami', 'timjaminoksa', 'rosmariini', 'tuore rosmariini', 'rosmariininoksa', 'kuivattu rosmariini', 'salvia', 'tuore salvia'], { ...SPICE, fineliConfidence: 0.9 }),
   ing('dried-basil', 'Kuivattu basilika', 'Dried basil', S, 'vegan', 33433, ['kuivattu basilika', 'basilikamauste'], SPICE),
   ing('herb-mix', 'Yrttiseos', 'Dried herb mix', S, 'vegan', 11191, ['yrttiseos', 'yrttimauste', 'provencen yrtit', 'provencelainen yrttiseos', 'italialainen yrttiseos', 'pizzamauste', 'yrttimausteseos', 'kuivattu yrtti', 'kuivattu yrttiseos', 'yrtti', 'yrtit', 'välimerellinen yrttiseos', 'kuivattu persilja', 'kuivattu tilli', 'tillimauste', 'persiljamauste'], { ...SPICE, fineliConfidence: 0.7, approximationNote: 'Arvioitu kuivatun oreganon ravintoarvoilla.' }),
-  ing('cumin', 'Juustokumina', 'Cumin', S, 'vegan', 11182, ['juustokumina', 'jauhettu juustokumina', 'kumina', 'kuminansiemen', 'roomankumina', 'jeera'], APPROX_SPICE),
-  ing('turmeric', 'Kurkuma', 'Turmeric', S, 'vegan', 11182, ['kurkuma', 'kurkumajauhe', 'jauhettu kurkuma'], APPROX_SPICE),
-  ing('curry-powder', 'Curry', 'Curry powder', S, 'vegan', 11182, ['curry', 'currymauste', 'currijauhe', 'curryjauhe', 'garam masala', 'garam masala -mausteseos', 'tandoorimauste', 'tikka masala -mausteseos', 'intialainen mausteseos', 'currymausteseos'], APPROX_SPICE),
-  ing('coriander-seed', 'Korianterinsiemen', 'Coriander seed', S, 'vegan', 11182, ['korianterinsiemen', 'jauhettu korianteri', 'korianterinsiemenet', 'jauhettu korianterinsiemen'], APPROX_SPICE),
-  ing('nutmeg', 'Muskottipähkinä', 'Nutmeg', S, 'vegan', 11182, ['muskottipähkinä', 'muskotti', 'jauhettu muskottipähkinä', 'muskottikukka'], APPROX_SPICE),
-  ing('bay-leaf', 'Laakerinlehti', 'Bay leaf', S, 'vegan', 11182, ['laakerinlehti', 'laakerinlehdet'], { ...APPROX_SPICE, pieceGrams: 0.2, unitGrams: { oksa: 0.2 } }),
+  ing('cumin', 'Juustokumina', 'Cumin', S, 'vegan', 11182, ['juustokumina', 'jauhettu juustokumina', 'kumina', 'kuminansiemen', 'roomankumina', 'jeera'], { ...APPROX_SPICE, supplementary: 'usda:2014' }),
+  ing('turmeric', 'Kurkuma', 'Turmeric', S, 'vegan', 11182, ['kurkuma', 'kurkumajauhe', 'jauhettu kurkuma'], { ...APPROX_SPICE, supplementary: 'usda:2043' }),
+  ing('curry-powder', 'Curry', 'Curry powder', S, 'vegan', 11182, ['curry', 'currymauste', 'currijauhe', 'curryjauhe', 'garam masala', 'garam masala -mausteseos', 'tandoorimauste', 'tikka masala -mausteseos', 'intialainen mausteseos', 'currymausteseos'], { ...APPROX_SPICE, supplementary: 'usda:2015', supplementaryConfidence: 0.8 }),
+  ing('coriander-seed', 'Korianterinsiemen', 'Coriander seed', S, 'vegan', 11182, ['korianterinsiemen', 'jauhettu korianteri', 'korianterinsiemenet', 'jauhettu korianterinsiemen'], { ...APPROX_SPICE, supplementary: 'usda:2013' }),
+  ing('nutmeg', 'Muskottipähkinä', 'Nutmeg', S, 'vegan', 11182, ['muskottipähkinä', 'muskotti', 'jauhettu muskottipähkinä', 'muskottikukka'], { ...APPROX_SPICE, supplementary: 'usda:2025' }),
+  ing('bay-leaf', 'Laakerinlehti', 'Bay leaf', S, 'vegan', 11182, ['laakerinlehti', 'laakerinlehdet'], { ...APPROX_SPICE, supplementary: 'usda:2004', pieceGrams: 0.2, unitGrams: { oksa: 0.2 } }),
   ing('taco-seasoning', 'Tacomauste', 'Taco seasoning', S, 'vegan', 11182, ['tacomauste', 'taco seasoning', 'tacomausteseos', 'taco-mauste', 'taco-mausteseos', 'fajitamauste', 'fajitamausteseos', 'burritomauste', 'chilimausteseos', 'texmex-mauste', 'mausteseos taco'], { ...APPROX_SPICE, fineliConfidence: 0.6, unitGrams: { pkt: 25, ps: 25 }, approximationNote: 'Fineli ei sisällä tacomaustetta; arvioitu paprikajauheen mukaan.' }),
   ing('spice-mix', 'Mausteseos', 'Spice mix', S, 'vegan', 11182, ['mausteseos', 'grillimauste', 'kanamauste', 'broilermauste', 'lihamauste', 'kalamauste', 'cajunmauste', 'cajun', 'jerk-mauste', 'ras el hanout', 'za\'atar', 'dukkah', 'mauste', 'maustesekoitus', 'kebabmauste', 'gyrosmauste', 'kasvismauste', 'pippurisekoitus'], { ...APPROX_SPICE, unitGrams: { pkt: 25, ps: 25 } }),
   ing('onion-powder', 'Sipulijauhe', 'Onion powder', S, 'vegan', 336, ['sipulijauhe', 'kuivattu sipuli', 'sipulirouhe', 'paahdettu sipuli', 'paistettu sipuli', 'rapea sipuli'], { ...SPICE, fineliConfidence: 0.85 }),
-  ing('garlic-powder', 'Valkosipulijauhe', 'Garlic powder', S, 'vegan', 336, ['valkosipulijauhe', 'valkosipulirouhe', 'kuivattu valkosipuli', 'valkosipulimauste'], { ...SPICE, fineliConfidence: 0.6, approximationNote: 'Arvioitu kuivatun sipulin ravintoarvoilla.' }),
+  ing('garlic-powder', 'Valkosipulijauhe', 'Garlic powder', S, 'vegan', 336, ['valkosipulijauhe', 'valkosipulirouhe', 'kuivattu valkosipuli', 'valkosipulimauste'], { ...SPICE, fineliConfidence: 0.6, approximationNote: 'Arvioitu kuivatun sipulin ravintoarvoilla.', supplementary: 'usda:2020' }),
   ing('vegetable-stock', 'Kasvisliemi', 'Vegetable stock', S, 'vegan', 29026, ['kasvisliemi', 'kasvisfondi liemi', 'valmis kasvisliemi', 'liemi'], { shoppingUnit: 'volume', fineliConfidence: 0.95 }),
   ing('vegetable-stock-cube', 'Kasvisliemikuutio', 'Vegetable stock cube', S, 'vegan', 29008, ['kasvisliemikuutio', 'kasvisliemijauhe', 'kasvisfondi', 'liemikuutio', 'kasvisliemitiiviste', 'liemijauhe', 'kasvisbuljonki', 'buljonki', 'buljonkikuutio', 'yrttiliemikuutio', 'sieniliemikuutio'], { ...SPICE, pieceGrams: 11, unitGrams: { pala: 11 } }),
   ing('chicken-stock', 'Kanaliemi', 'Chicken stock', S, 'meat', 30315, ['kanaliemi', 'broileriliemi', 'kanafondi liemi', 'valmis kanaliemi'], { shoppingUnit: 'volume' }),

@@ -1,11 +1,11 @@
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Download, ExternalLink, RefreshCw, Trash2, Upload } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
-import { loadFineliData } from '../../db/bootstrap'
+import { loadFineliData, loadSupplementaryData } from '../../db/bootstrap'
 import { db, getSetting } from '../../db/db'
 import { syncOpenRecipes, type OpenRecipesIndex } from '../../db/openRecipes'
 import { exportData, importData, parseExportFile } from '../../db/exportImport'
-import { deleteUserMapping, matchContext, saveUserSettings } from '../../db/repo'
+import { deleteUserMapping, matchContext, rematchUserRecipes, saveUserSettings } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
 import type { NutritionTargets, UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
@@ -93,6 +93,9 @@ export function SettingsPage() {
     try {
       const fetchImpl = fetch.bind(globalThis)
       await loadFineliData(db, fetchImpl, () => {}, true)
+      const supplementary = await loadSupplementaryData(db, fetchImpl, () => {}, true)
+      fineli.setSupplementary(await db.supplementaryFoods.toArray(), supplementary.meta)
+      await rematchUserRecipes(fineli, db)
       const open = await syncOpenRecipes(db, fetchImpl, await matchContext(fineli), () => {}, true)
       const count = open?.sources.reduce((s, x) => s + x.count, 0) ?? 0
       toast(`Ravintotiedot${count ? ` ja ${count.toLocaleString('fi-FI')} katalogireseptiä` : ''} ladattu uudelleen – päivitä sivu`)
@@ -200,6 +203,7 @@ export function SettingsPage() {
             <dd>{fineli.meta?.license ?? 'CC BY 4.0'}</dd>
           </dl>
           <p className="mt-3 text-xs text-muted">{fineli.meta?.attribution ?? 'Fineli – Terveyden ja hyvinvoinnin laitos (THL)'}. THL ei vastaa tietojen tulkinnasta. Ravintoarvot ovat arvioita.</p>
+          <SupplementaryDataInfo />
           <Button variant="secondary" size="sm" className="mt-3" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa ravintotiedot ja katalogireseptit uudelleen</Button>
         </Card>
 
@@ -212,6 +216,7 @@ export function SettingsPage() {
             <li>Reseptin tuonti verkosta tapahtuu sovelluksen omalla hakupalvelulla, joka hakee vain tuettujen reseptisivustojen sivuja. Sivustolle välittyy tavallinen sivupyyntö; henkilötietojasi ei lähetetä.</li>
             <li>Tuotujen reseptien tekstit ja kuvat kuuluvat alkuperäisille julkaisijoille. Ne tallennetaan vain omaan käyttöösi lähdetietoineen.</li>
             <li>Ravintotiedot: Fineli, Terveyden ja hyvinvoinnin laitos, lisenssi CC BY 4.0. Katalogin ruokalajit perustuvat Finelin reseptiriveihin.</li>
+            <li>Täydentävät ravintotiedot (vain kun Finelistä ei löydy sopivaa elintarviketta): Livsmedelsverketin Livsmedelsdatabasen (CC BY 4.0) ja USDA SR Legacy (public domain). Elintarvikkeiden nimet on suomennettu ja aineistoa karsittu; muutokset eivät ole lähteiden tekemiä.</li>
             <li>Katalogin muut reseptit ovat avoimesti lisensoiduista kokoelmista (ks. Reseptiaineistot). Jokaisen reseptin sivulla näkyvät lähde, tekijä, lisenssi ja kuvan tekijä.</li>
           </ul>
         </Card>
@@ -245,5 +250,26 @@ function OpenRecipeSources() {
         ))}
       </ul>
     </Card>
+  )
+}
+
+function SupplementaryDataInfo() {
+  const { fineli } = useApp()
+  const meta = fineli.supplementaryMeta
+  if (!meta) return null
+  return (
+    <div className="mt-4 border-t border-line pt-4 text-sm">
+      <p className="font-medium">Täydentävät aineistot</p>
+      <p className="mt-1 text-xs text-muted">Fineli on ensisijainen lähde. Näitä suomennettuja elintarvikkeita käytetään vain, kun Finelistä ei löydy sopivaa vastinetta; ne on merkitty lähteen nimellä.</p>
+      <ul className="mt-2 space-y-1.5">
+        {meta.sources.map((s) => (
+          <li key={s.id}>
+            <a href={s.homepage} target="_blank" rel="noreferrer" className="underline">{s.name}</a>
+            <span className="text-muted"> · {s.count.toLocaleString('fi-FI')} elintarviketta · {s.license}</span>
+            <span className="block text-xs text-muted">{s.attribution}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
   )
 }

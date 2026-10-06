@@ -12,6 +12,7 @@
  */
 import { getIngredient, type CanonicalIngredient } from './ingredients'
 import type { FineliLookup } from './matcher'
+import { foodSourceLabel } from './supplementary'
 import { applyScaling } from './scaling'
 import type { FineliFood, NutrientKey, Nutrients, Recipe, RecipeIngredient } from './types'
 import { getUnit } from './units'
@@ -112,7 +113,7 @@ export function resolveGrams(
   if (unit?.kind === 'volume') {
     // Fineli has measured weights for spoon units for many foods (e.g. oil 1 rkl = 13.5 g)
     if (unit.fineliUnit && food?.units[unit.fineliUnit] && unit.fineliUnit !== 'DL') {
-      return { grams: q * food.units[unit.fineliUnit], confidence: 0.95, method: 'unit-fineli', note: `Fineli: 1 ${unit.label} = ${food.units[unit.fineliUnit]} g` }
+      return { grams: q * food.units[unit.fineliUnit], confidence: 0.95, method: 'unit-fineli', note: `${foodSourceLabel(food)}: 1 ${unit.label} = ${food.units[unit.fineliUnit]} g` }
     }
     const ml = q * unit.factor!
     const d = gramsPerMl(food, canonical)
@@ -141,18 +142,18 @@ export function resolveGrams(
   if (unitId === 'kpl') {
     const sizeKey = ing.size ? SIZE_UNIT[ing.size] : null
     if (sizeKey && sizeKey !== 'KPL_M' && food?.units[sizeKey]) {
-      return { grams: q * food.units[sizeKey], confidence: 0.85, method: 'piece-fineli', note: `Fineli: ${ing.size === 'S' ? 'pieni' : 'iso'} kpl ≈ ${food.units[sizeKey]} g` }
+      return { grams: q * food.units[sizeKey], confidence: 0.85, method: 'piece-fineli', note: `${foodSourceLabel(food)}: ${ing.size === 'S' ? 'pieni' : 'iso'} kpl ≈ ${food.units[sizeKey]} g` }
     }
     if (canonical?.pieceGrams) {
       const sizeFactor = ing.size === 'S' ? 0.6 : ing.size === 'L' ? 1.5 : 1
       const g = canonical.pieceGrams * sizeFactor
       return { grams: q * g, confidence: 0.85, method: 'piece-dictionary', note: `Tyypillinen kappale ≈ ${Math.round(g)} g` }
     }
-    if (food?.units.KPL_M) return { grams: q * food.units.KPL_M, confidence: 0.85, method: 'piece-fineli', note: `Fineli: keskikokoinen kpl ≈ ${food.units.KPL_M} g` }
-    if (food?.units.KPL_VALM) return { grams: q * food.units.KPL_VALM, confidence: 0.8, method: 'piece-fineli', note: `Fineli: kpl ≈ ${food.units.KPL_VALM} g` }
+    if (food?.units.KPL_M) return { grams: q * food.units.KPL_M, confidence: 0.85, method: 'piece-fineli', note: `${foodSourceLabel(food)}: keskikokoinen kpl ≈ ${food.units.KPL_M} g` }
+    if (food?.units.KPL_VALM) return { grams: q * food.units.KPL_VALM, confidence: 0.8, method: 'piece-fineli', note: `${foodSourceLabel(food)}: kpl ≈ ${food.units.KPL_VALM} g` }
   }
   if (unit?.fineliUnit && food?.units[unit.fineliUnit]) {
-    return { grams: q * food.units[unit.fineliUnit], confidence: 0.75, method: 'unit-fineli', note: `Fineli: ${unit.label} ≈ ${food.units[unit.fineliUnit]} g` }
+    return { grams: q * food.units[unit.fineliUnit], confidence: 0.75, method: 'unit-fineli', note: `${foodSourceLabel(food)}: ${unit.label} ≈ ${food.units[unit.fineliUnit]} g` }
   }
   if (unit?.genericGrams) {
     return { grams: q * unit.genericGrams, confidence: 0.5, method: 'unit-generic', note: `Karkea arvio: 1 ${unit.label} ≈ ${unit.genericGrams} g` }

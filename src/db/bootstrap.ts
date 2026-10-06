@@ -3,19 +3,21 @@
  *   1. make sure the default meal plan and recipe sources exist
  *   2. load the Fineli dataset into IndexedDB if it is missing or a newer one was imported
  *   3. (re)build the Fineli dish catalogue
+ *   3b. load the supplementary food databases (fallback when Fineli has nothing suitable)
  *   4. add development seed recipes on first start
  *   5. load the translated open recipe catalogue (openRecipes.ts) when a newer one was built
  * After this the app works fully offline.
  */
 import type { FineliLookup } from '../domain/matcher'
 import { productMatchIndex, productToFood, type ProductMatchEntry } from '../domain/products'
+import type { SupplementarySourceInfo } from '../domain/supplementary'
 import type { FineliDish, FineliFood, Product, RecipeSource } from '../domain/types'
 import { ADAPTERS } from '../import/adapters'
 import { buildFineliCatalogue, FINELI_SOURCE } from './catalogue'
 import { db as defaultDb, DEFAULT_PLAN_ID, getSetting, setSetting, type MealPlannerDB } from './db'
 import { syncOpenRecipes } from './openRecipes'
 import { buildSeedRecipes, SEED_VERSION } from './seed'
-import { loadUserMappings } from './repo'
+import { loadUserMappings, rematchUserRecipes } from './repo'
 
 export interface FineliMeta {
   release: string
@@ -26,17 +28,26 @@ export interface FineliMeta {
   dishCount?: number
 }
 
+export interface SupplementaryMeta {
+  importedAt: string
+  foodCount: number
+  sources: (Omit<SupplementarySourceInfo, 'idOffset' | 'priority'> & { count: number })[]
+}
+
 /**
- * In-memory nutrition index used by matching and nutrition calculations: Fineli foods plus
- * the user's own products (virtual foods). `all()` returns Fineli foods only – products are
- * matched through their own step (products.ts), not through Fineli name search.
+ * In-memory nutrition index used by matching and nutrition calculations: Fineli foods, the
+ * supplementary foods and the user's own products (virtual foods). `all()` returns Fineli foods
+ * only – supplementary foods are searched only when Fineli has nothing suitable, and products
+ * are matched through their own step (products.ts).
  */
 export class FineliStore implements FineliLookup {
   private map: Map<number, FineliFood>
   private list: FineliFood[]
   private productFoods: FineliFood[] = []
   private productEntries: ProductMatchEntry[] = []
+  private supplementaryFoods: FineliFood[] = []
   meta: FineliMeta | null
+  supplementaryMeta: SupplementaryMeta | null = null
   /** Incremented whenever products change, so memoized calculations can refresh. */
   version = 0
   constructor(foods: FineliFood[], meta: FineliMeta | null) {
@@ -52,6 +63,16 @@ export class FineliStore implements FineliLookup {
   }
   get size() {
     return this.list.length
+  }
+  supplementary(): FineliFood[] {
+    return this.supplementaryFoods
+  }
+  setSupplementary(foods: FineliFood[], meta: SupplementaryMeta | null) {
+    for (const f of this.supplementaryFoods) this.map.delete(f.id)
+    this.supplementaryFoods = foods
+    for (const f of foods) this.map.set(f.id, f)
+    this.supplementaryMeta = meta
+    this.version++
   }
   products(): FineliFood[] {
     return this.productFoods
@@ -134,6 +155,43 @@ export async function loadFineliData(
   return meta
 }
 
+/**
+ * Load the supplementary food databases (supplementary-foods.json) into IndexedDB when missing or
+ * re-imported. Optional data: offline or missing files only mean no fallback foods.
+ * Returns the meta and whether the stored foods changed (recipes should then be re-matched).
+ */
+export async function loadSupplementaryData(
+  database: MealPlannerDB,
+  fetchImpl: typeof fetch,
+  progress: ProgressFn,
+  force = false,
+): Promise<{ meta: SupplementaryMeta | null; changed: boolean }> {
+  const stored = await getSetting<SupplementaryMeta | null>('supplementaryMeta', null, database)
+  let remote: SupplementaryMeta | null = null
+  try {
+    remote = await fetchJson<SupplementaryMeta>(fetchImpl, `${import.meta.env.BASE_URL}data/supplementary-meta.json`)
+  } catch {
+    // offline or not deployed: keep whatever is stored
+  }
+  const count = await database.supplementaryFoods.count()
+  const needsLoad = remote && (force || count === 0 || stored?.importedAt !== remote.importedAt)
+  if (!needsLoad) return { meta: count > 0 ? stored : null, changed: false }
+  progress('Ladataan täydentäviä ravintotietoja…')
+  let file: SupplementaryMeta & { foods: FineliFood[] }
+  try {
+    file = await fetchJson<SupplementaryMeta & { foods: FineliFood[] }>(fetchImpl, `${import.meta.env.BASE_URL}data/supplementary-foods.json`)
+  } catch {
+    return { meta: count > 0 ? stored : null, changed: false }
+  }
+  await database.transaction('rw', database.supplementaryFoods, async () => {
+    await database.supplementaryFoods.clear()
+    await database.supplementaryFoods.bulkPut(file.foods)
+  })
+  const meta: SupplementaryMeta = { importedAt: file.importedAt, foodCount: file.foods.length, sources: file.sources }
+  await setSetting('supplementaryMeta', meta, database)
+  return { meta, changed: true }
+}
+
 export async function bootstrap(
   progress: ProgressFn = () => {},
   database: MealPlannerDB = defaultDb,
@@ -153,6 +211,12 @@ export async function bootstrap(
   progress('Valmistellaan ravintotietoja…')
   const store = new FineliStore(await database.fineliFoods.toArray(), meta)
   store.setProducts(await database.products.toArray())
+  const supplementary = await loadSupplementaryData(database, fetchImpl, progress)
+  store.setSupplementary(await database.supplementaryFoods.toArray(), supplementary.meta)
+  if (supplementary.changed) {
+    progress('Päivitetään reseptien ravintotietoja…')
+    await rematchUserRecipes(store, database)
+  }
 
   const seeded = await getSetting<number>('seedVersion', 0, database)
   if (seeded < SEED_VERSION) {
@@ -165,6 +229,7 @@ export async function bootstrap(
   }
 
   const products = productMatchIndex(await database.products.toArray())
-  await syncOpenRecipes(database, fetchImpl, { fineli: store, userMappings: await loadUserMappings(database), products }, progress)
+  // Open recipes are matched when stored: re-store them when the supplementary data changed.
+  await syncOpenRecipes(database, fetchImpl, { fineli: store, userMappings: await loadUserMappings(database), products }, progress, supplementary.changed)
   return store
 }
