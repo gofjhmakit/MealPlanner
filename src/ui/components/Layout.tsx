@@ -49,7 +49,7 @@ export function Layout() {
           ))}
         </nav>
         <p className="mt-auto px-2 text-xs leading-relaxed text-muted">
-          Ravintoarvot ovat arvioita. Lähde: Fineli, THL (CC BY 4.0). Katalogin reseptien lähteet ja lisenssit: Asetukset. Tiedot tallentuvat vain tälle laitteelle.
+          Ravintoarvot ovat arvioita. Lähde: Fineli, THL (CC BY 4.0); täydentävästi Livsmedelsverket (CC BY 4.0) ja USDA (public domain). Katalogin reseptien lähteet ja lisenssit: Asetukset. Tiedot tallentuvat vain tälle laitteelle.
         </p>
       </aside>
 

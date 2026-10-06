@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:17397",
+    "fi": "Karitsankare, uusiseelantilainen, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17426",
+    "fi": "Vasikanpaisti, sisäpaisti, leike, luuton, raaka"
+  },
+  {
+    "id": "usda:17428",
+    "fi": "Vasikanpotka, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17431",
+    "fi": "Vasikanrasva, pintarasva, raaka"
+  },
+  {
+    "id": "usda:17433",
+    "fi": "Vasikanrasva, saumarasva, raaka"
+  },
+  {
+    "id": "usda:17441",
+    "fi": "Karitsan takapotka, australialainen, luullinen, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17443",
+    "fi": "Karitsan sisäfilee, australialainen, luuton, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17444",
+    "fi": "Karitsanpaisti, australialainen, alaosa, luuton, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17446",
+    "fi": "Karitsan koipi, australialainen, luullinen, rasvaton, raaka"
+  },
+  {
+    "id": "usda:17450",
+    "fi": "Karitsanrasva, australialainen, pintarasva, raaka"
+  },
+  {
+    "id": "usda:17452",
+    "fi": "Karitsanrasva, australialainen, saumarasva, raaka"
+  },
+  {
+    "id": "usda:18001",
+    "fi": "Bagel, tavallinen"
+  },
+  {
+    "id": "usda:18002",
+    "fi": "Bagel, tavallinen, paahdettu"
+  },
+  {
+    "id": "usda:18003",
+    "fi": "Bagel, kananmuna"
+  },
+  {
+    "id": "usda:18005",
+    "fi": "Bagel, kaneli-rusina"
+  },
+  {
+    "id": "usda:18006",
+    "fi": "Bagel, kaneli-rusina, paahdettu"
+  },
+  {
+    "id": "usda:18007",
+    "fi": "Bagel, kauralese"
+  },
+  {
+    "id": "usda:18009",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, pakaste, paistettu"
+  },
+  {
+    "id": "usda:18010",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, kuivaseos"
+  },
+  {
+    "id": "usda:18011",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18012",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, jääkaappitaikina, vähärasvainen"
+  },
+  {
+    "id": "usda:18013",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, jääkaappitaikina, vähärasvainen, paistettu"
+  },
+  {
+    "id": "usda:18014",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, jääkaappitaikina, runsasrasvainen"
+  },
+  {
+    "id": "usda:18015",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, jääkaappitaikina, runsasrasvainen, paistettu"
+  },
+  {
+    "id": "usda:18016",
+    "fi": "Biscuit-sämpylä, tavallinen tai piimä, kotitekoinen"
+  },
+  {
+    "id": "usda:18017",
+    "fi": "Biscuit-sämpylä, monivilja, jääkaappitaikina"
+  },
+  {
+    "id": "usda:18019",
+    "fi": "Banaanileipä, kotitekoinen, margariinilla"
+  },
+  {
+    "id": "usda:18021",
+    "fi": "Boston brown bread, säilyke"
+  },
+  {
+    "id": "usda:18022",
+    "fi": "Maissileipä, kuivaseos"
+  },
+  {
+    "id": "usda:18023",
+    "fi": "Maissileipä, kuivaseos, valmistettu maidolla, margariinilla ja munalla"
+  },
+  {
+    "id": "usda:18024",
+    "fi": "Maissileipä, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18025",
+    "fi": "Vehnäleipä, rouhevehnä"
+  },
+  {
+    "id": "usda:18027",
+    "fi": "Munaleipä"
+  },
+  {
+    "id": "usda:18028",
+    "fi": "Munaleipä, paahdettu"
+  },
+  {
+    "id": "usda:18029",
+    "fi": "Ranskanleipä tai wieninleipä"
+  },
+  {
+    "id": "usda:18030",
+    "fi": "Ranskanleipä tai wieninleipä, paahdettu"
+  },
+  {
+    "id": "usda:18032",
+    "fi": "Soodaleipä, irlantilainen, kotitekoinen"
+  },
+  {
+    "id": "usda:18033",
+    "fi": "Italialainen leipä"
+  },
+  {
+    "id": "usda:18036",
+    "fi": "Moniviljaleipä, paahdettu"
+  },
+  {
+    "id": "usda:18037",
+    "fi": "Kauraleseleipä"
+  },
+  {
+    "id": "usda:18038",
+    "fi": "Kauraleseleipä, paahdettu"
+  },
+  {
+    "id": "usda:18039",
+    "fi": "Kauraleipä"
+  },
+  {
+    "id": "usda:18040",
+    "fi": "Kauraleipä, paahdettu"
+  },
+  {
+    "id": "usda:18041",
+    "fi": "Pitaleipä, valkoinen"
+  },
+  {
+    "id": "usda:18042",
+    "fi": "Pitaleipä, täysjyvävehnä"
+  },
+  {
+    "id": "usda:18043",
+    "fi": "Proteiinileipä"
+  },
+  {
+    "id": "usda:18044",
+    "fi": "Pumpernikkeli"
+  },
+  {
+    "id": "usda:18045",
+    "fi": "Pumpernikkeli, paahdettu"
+  },
+  {
+    "id": "usda:18047",
+    "fi": "Rusinaleipä"
+  },
+  {
+    "id": "usda:18048",
+    "fi": "Rusinaleipä, paahdettu"
+  },
+  {
+    "id": "usda:18049",
+    "fi": "Kauraleseleipä, vähäkalorinen"
+  },
+  {
+    "id": "usda:18050",
+    "fi": "Kauraleseleipä, vähäkalorinen, paahdettu"
+  },
+  {
+    "id": "usda:18051",
+    "fi": "Kauraleipä, vähäkalorinen"
+  },
+  {
+    "id": "usda:18053",
+    "fi": "Ruisleipä, vähäkalorinen"
+  },
+  {
+    "id": "usda:18055",
+    "fi": "Vehnäleipä, vähäkalorinen"
+  },
+  {
+    "id": "usda:18057",
+    "fi": "Valkoinen leipä, vähäkalorinen"
+  },
+  {
+    "id": "usda:18059",
+    "fi": "Riisileseleipä"
+  },
+  {
+    "id": "usda:18060",
+    "fi": "Ruisleipä"
+  },
+  {
+    "id": "usda:18061",
+    "fi": "Ruisleipä, paahdettu"
+  },
+  {
+    "id": "usda:18064",
+    "fi": "Vehnäleipä"
+  },
+  {
+    "id": "usda:18065",
+    "fi": "Vehnäleipä, paahdettu"
+  },
+  {
+    "id": "usda:18066",
+    "fi": "Vehnäleseleipä"
+  },
+  {
+    "id": "usda:18069",
+    "fi": "Valkoinen leipä, teollinen"
+  },
+  {
+    "id": "usda:18070",
+    "fi": "Valkoinen leipä, paahdettu, teollinen"
+  },
+  {
+    "id": "usda:18071",
+    "fi": "Valkoinen leipä, kotitekoinen, rasvattomalla maitojauheella"
+  },
+  {
+    "id": "usda:18073",
+    "fi": "Valkoinen leipä, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18075",
+    "fi": "Täysjyvävehnäleipä, teollinen"
+  },
+  {
+    "id": "usda:18076",
+    "fi": "Täysjyvävehnäleipä, teollinen, paahdettu"
+  },
+  {
+    "id": "usda:18077",
+    "fi": "Täysjyvävehnäleipä, kotitekoinen"
+  },
+  {
+    "id": "usda:18078",
+    "fi": "Täysjyvävehnäleipä, kotitekoinen, paahdettu"
+  },
+  {
+    "id": "usda:18079",
+    "fi": "Korppujauho, kuiva, tavallinen"
+  },
+  {
+    "id": "usda:18080",
+    "fi": "Leipätikku, tavallinen"
+  },
+  {
+    "id": "usda:18081",
+    "fi": "Leipätäyte, kuivaseos"
+  },
+  {
+    "id": "usda:18082",
+    "fi": "Leipätäyte, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18084",
+    "fi": "Maissileipätäyte, kuivaseos"
+  },
+  {
+    "id": "usda:18085",
+    "fi": "Maissileipätäyte, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18086",
+    "fi": "Angel food -kakku, teollinen"
+  },
+  {
+    "id": "usda:18087",
+    "fi": "Angel food -kakku, kuivaseos"
+  },
+  {
+    "id": "usda:18088",
+    "fi": "Angel food -kakku, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18090",
+    "fi": "Boston cream pie -kakku, teollinen"
+  },
+  {
+    "id": "usda:18092",
+    "fi": "Porkkanakakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18095",
+    "fi": "Suklaa-kirsikkakakku, suklaakuorrutteella"
+  },
+  {
+    "id": "usda:18096",
+    "fi": "Suklaakakku, suklaakuorrutteella, teollinen"
+  },
+  {
+    "id": "usda:18097",
+    "fi": "Suklaakakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18101",
+    "fi": "Suklaakakku, kotitekoinen, kuorruttamaton"
+  },
+  {
+    "id": "usda:18102",
+    "fi": "Valkoinen kakku, kotitekoinen, kookoskuorrutteella"
+  },
+  {
+    "id": "usda:18103",
+    "fi": "Kahvikakku, juusto"
+  },
+  {
+    "id": "usda:18104",
+    "fi": "Kahvikakku, kanelimurupäällysteinen, teollinen"
+  },
+  {
+    "id": "usda:18105",
+    "fi": "Kahvikakku, kreemitäytteinen, suklaakuorrutteella"
+  },
+  {
+    "id": "usda:18106",
+    "fi": "Kahvikakku, hedelmä"
+  },
+  {
+    "id": "usda:18107",
+    "fi": "Kahvikakku, kanelimurupäällysteinen, kuivaseos"
+  },
+  {
+    "id": "usda:18108",
+    "fi": "Kahvikakku, kanelimurupäällysteinen, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18110",
+    "fi": "Hedelmäkakku, teollinen"
+  },
+  {
+    "id": "usda:18112",
+    "fi": "Saksalainen suklaakakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18114",
+    "fi": "Piparkakkukakku, kuivaseos"
+  },
+  {
+    "id": "usda:18116",
+    "fi": "Piparkakkukakku, kotitekoinen"
+  },
+  {
+    "id": "usda:18117",
+    "fi": "Marmorikakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18119",
+    "fi": "Ananaskeikauskakku, kotitekoinen"
+  },
+  {
+    "id": "usda:18120",
+    "fi": "Pound cake, voikakku, teollinen"
+  },
+  {
+    "id": "usda:18121",
+    "fi": "Pound cake, muu kuin voikakku, teollinen"
+  },
+  {
+    "id": "usda:18126",
+    "fi": "Murokakku, biscuit-tyyppinen, kotitekoinen"
+  },
+  {
+    "id": "usda:18127",
+    "fi": "Välipalakakku, suklaa, kreemitäytteinen, kuorrutettu"
+  },
+  {
+    "id": "usda:18128",
+    "fi": "Välipalakakku, sokerikakkutyyppinen, kreemitäytteinen"
+  },
+  {
+    "id": "usda:18131",
+    "fi": "Valkoinen kakku, erityisruokavalio, kuivaseos"
+  },
+  {
+    "id": "usda:18133",
+    "fi": "Sokerikakku, teollinen"
+  },
+  {
+    "id": "usda:18134",
+    "fi": "Sokerikakku, kotitekoinen"
+  },
+  {
+    "id": "usda:18135",
+    "fi": "Valkoinen kakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18139",
+    "fi": "Valkoinen kakku, kotitekoinen, kuorruttamaton"
+  },
+  {
+    "id": "usda:18140",
+    "fi": "Keltainen kakku, suklaakuorrutteella, teollinen"
+  },
+  {
+    "id": "usda:18141",
+    "fi": "Keltainen kakku, vaniljakuorrutteella, teollinen"
+  },
+  {
+    "id": "usda:18142",
+    "fi": "Keltainen kakku, vanukastyyppinen, kuivaseos"
+  },
+  {
+    "id": "usda:18144",
+    "fi": "Keltainen kakku, kuivaseos"
+  },
+  {
+    "id": "usda:18146",
+    "fi": "Keltainen kakku, kotitekoinen, kuorruttamaton"
+  },
+  {
+    "id": "usda:18147",
+    "fi": "Juustokakku, teollinen"
+  },
+  {
+    "id": "usda:18148",
+    "fi": "Juustokakku, seoksesta valmistettu, hyydytettävä"
+  },
+  {
+    "id": "usda:18151",
+    "fi": "Brownie, teollinen"
+  },
+  {
+    "id": "usda:18152",
+    "fi": "Brownie, kuivaseos, tavallinen"
+  },
+  {
+    "id": "usda:18154",
+    "fi": "Brownie, kotitekoinen"
+  },
+  {
+    "id": "usda:18155",
+    "fi": "Voikeksi, teollinen"
+  },
+  {
+    "id": "usda:18156",
+    "fi": "Suklaafudgekeksi, kakkumainen"
+  },
+  {
+    "id": "usda:18157",
+    "fi": "Suklaavohvelikeksi"
+  },
+  {
+    "id": "usda:18158",
+    "fi": "Suklaahippukeksi, teollinen, vähärasvainen"
+  },
+  {
+    "id": "usda:18159",
+    "fi": "Suklaahippukeksi, teollinen, runsasrasvainen"
+  },
+  {
+    "id": "usda:18160",
+    "fi": "Suklaahippukeksi, teollinen, pehmeä"
+  },
+  {
+    "id": "usda:18161",
+    "fi": "Suklaahippukeksi, kuivaseos"
+  },
+  {
+    "id": "usda:18163",
+    "fi": "Suklaahippukeksi, jääkaappitaikina"
+  },
+  {
+    "id": "usda:18164",
+    "fi": "Suklaahippukeksi, jääkaappitaikina, paistettu"
+  },
+  {
+    "id": "usda:18165",
+    "fi": "Suklaahippukeksi, kotitekoinen, margariinilla"
+  },
+  {
+    "id": "usda:18166",
+    "fi": "Suklaatäytekeksi, kreemitäytteinen"
+  },
+  {
+    "id": "usda:18167",
+    "fi": "Suklaatäytekeksi, kreemitäytteinen, suklaakuorrutteinen"
+  },
+  {
+    "id": "usda:18168",
+    "fi": "Suklaatäytekeksi, extra-kreemitäytteinen"
+  },
+  {
+    "id": "usda:18170",
+    "fi": "Viikunapatukka"
+  },
+  {
+    "id": "usda:18171",
+    "fi": "Onnenkeksi"
+  },
+  {
+    "id": "usda:18172",
+    "fi": "Inkiväärikeksi"
+  },
+  {
+    "id": "usda:18173",
+    "fi": "Grahamkeksi, tavallinen tai hunaja"
+  },
+  {
+    "id": "usda:18174",
+    "fi": "Grahamkeksi, suklaakuorrutteinen"
+  },
+  {
+    "id": "usda:18175",
+    "fi": "Savoiardikeksi, sitruunalla"
+  },
+  {
+    "id": "usda:18176",
+    "fi": "Vaahtokarkkikeksi, suklaakuorrutteinen"
+  },
+  {
+    "id": "usda:18177",
+    "fi": "Melassikeksi"
+  },
+  {
+    "id": "usda:18178",
+    "fi": "Kaurakeksi, teollinen"
+  },
+  {
+    "id": "usda:18179",
+    "fi": "Kaurakeksi, teollinen, pehmeä"
+  },
+  {
+    "id": "usda:18180",
+    "fi": "Kaurakeksi, kuivaseos"
+  },
+  {
+    "id": "usda:18182",
+    "fi": "Kaurakeksi, jääkaappitaikina"
+  },
+  {
+    "id": "usda:18183",
+    "fi": "Kaurakeksi, jääkaappitaikina, paistettu"
+  },
+  {
+    "id": "usda:18184",
+    "fi": "Kaurakeksi, kotitekoinen, rusinoilla"
+  },
+  {
+    "id": "usda:18185",
+    "fi": "Maapähkinävoikeksi, teollinen"
+  },
+  {
+    "id": "usda:18186",
+    "fi": "Maapähkinävoikeksi, teollinen, pehmeä"
+  },
+  {
+    "id": "usda:18187",
+    "fi": "Maapähkinävoikeksi, jääkaappitaikina"
+  },
+  {
+    "id": "usda:18188",
+    "fi": "Maapähkinävoikeksi, jääkaappitaikina, paistettu"
+  },
+  {
+    "id": "usda:18189",
+    "fi": "Maapähkinävoikeksi, kotitekoinen"
+  },
+  {
+    "id": "usda:18190",
+    "fi": "Maapähkinävoitäytekeksi"
+  },
+  {
+    "id": "usda:18191",
+    "fi": "Rusinakeksi, pehmeä"
+  },
+  {
+    "id": "usda:18192",
+    "fi": "Murokeksi, teollinen, tavallinen"
+  },
+  {
+    "id": "usda:18193",
+    "fi": "Pekaanimurokeksi, teollinen"
+  },
+  {
+    "id": "usda:18196",
+    "fi": "Brownie, kuivaseos, sokeriton"
+  },
+  {
+    "id": "usda:18198",
+    "fi": "Suklaahippukeksi, teollinen, erityisruokavalio"
+  },
+  {
+    "id": "usda:18199",
+    "fi": "Suklaatäytekeksi, kreemitäytteinen, erityisruokavalio"
+  },
+  {
+    "id": "usda:18200",
+    "fi": "Kaurakeksi, teollinen, erityisruokavalio"
+  },
+  {
+    "id": "usda:18201",
+    "fi": "Maapähkinävoitäytekeksi, erityisruokavalio"
+  },
+  {
+    "id": "usda:18202",
+    "fi": "Sokerivohveli, kreemitäytteinen, sokeriton"
+  },
+  {
+    "id": "usda:18204",
+    "fi": "Sokerikeksi, teollinen"
+  },
+  {
+    "id": "usda:18205",
+    "fi": "Sokerikeksi, jääkaappitaikina"
+  },
+  {
+    "id": "usda:18206",
+    "fi": "Sokerikeksi, jääkaappitaikina, paistettu"
+  },
+  {
+    "id": "usda:18208",
+    "fi": "Sokerikeksi, kotitekoinen, margariinilla"
+  },
+  {
+    "id": "usda:18209",
+    "fi": "Sokerivohveli, kreemitäytteinen"
+  },
+  {
+    "id": "usda:18210",
+    "fi": "Vaniljatäytekeksi, kreemitäytteinen"
+  },
+  {
+    "id": "usda:18211",
+    "fi": "Voitaikina, pakaste, paistovalmis, paistettu"
+  },
+  {
+    "id": "usda:18212",
+    "fi": "Vaniljavohvelikeksi, vähärasvainen"
+  },
+  {
+    "id": "usda:18213",
+    "fi": "Vaniljavohvelikeksi, runsasrasvainen"
+  },
+  {
+    "id": "usda:18214",
+    "fi": "Juustokeksi, tavallinen"
+  },
+  {
+    "id": "usda:18215",
+    "fi": "Juustokeksi, maapähkinävoitäytteinen"
+  },
+  {
+    "id": "usda:18216",
+    "fi": "Näkkileipä, ruis"
+  },
+  {
+    "id": "usda:18217",
+    "fi": "Matsa, tavallinen"
+  },
+  {
+    "id": "usda:18218",
+    "fi": "Matsa, kananmuna"
+  },
+  {
+    "id": "usda:18219",
+    "fi": "Matsa, täysjyvävehnä"
+  },
+  {
+    "id": "usda:18220",
+    "fi": "Melba toast, tavallinen"
+  },
+  {
+    "id": "usda:18221",
+    "fi": "Melba toast, ruis"
+  },
+  {
+    "id": "usda:18222",
+    "fi": "Melba toast, vehnä"
+  },
+  {
+    "id": "usda:18223",
+    "fi": "Maitokeksi"
+  },
+  {
+    "id": "usda:18224",
+    "fi": "Korppu"
+  },
+  {
+    "id": "usda:18225",
+    "fi": "Ruiskeksi, juustotäytteinen"
+  },
+  {
+    "id": "usda:18226",
+    "fi": "Ruisvohvelikeksi, tavallinen"
+  },
+  {
+    "id": "usda:18227",
+    "fi": "Ruisvohvelikeksi, maustettu"
+  },
+  {
+    "id": "usda:18228",
+    "fi": "Suolakeksi"
+  },
+  {
+    "id": "usda:18229",
+    "fi": "Snack-keksi, tavallinen"
+  },
+  {
+    "id": "usda:18230",
+    "fi": "Snack-keksi, juustotäytteinen"
+  },
+  {
+    "id": "usda:18231",
+    "fi": "Snack-keksi, maapähkinävoitäytteinen"
+  },
+  {
+    "id": "usda:18232",
+    "fi": "Vehnäkeksi, tavallinen"
+  },
+  {
+    "id": "usda:18233",
+    "fi": "Vehnäkeksi, juustotäytteinen"
+  },
+  {
+    "id": "usda:18234",
+    "fi": "Vehnäkeksi, maapähkinävoitäytteinen"
+  },
+  {
+    "id": "usda:18235",
+    "fi": "Täysjyvävehnäkeksi"
+  },
+  {
+    "id": "usda:18236",
+    "fi": "Keksimuru"
+  },
+  {
+    "id": "usda:18237",
+    "fi": "Tuulihattukuori, kotitekoinen"
+  },
+  {
+    "id": "usda:18239",
+    "fi": "Voicroissant"
+  },
+  {
+    "id": "usda:18240",
+    "fi": "Omenacroissant"
+  },
+  {
+    "id": "usda:18241",
+    "fi": "Juustocroissant"
+  },
+  {
+    "id": "usda:18242",
+    "fi": "Krutonki, tavallinen"
+  },
+  {
+    "id": "usda:18243",
+    "fi": "Krutonki, maustettu"
+  },
+  {
+    "id": "usda:18244",
+    "fi": "Viineri, kaneli"
+  },
+  {
+    "id": "usda:18245",
+    "fi": "Viineri, juusto"
+  },
+  {
+    "id": "usda:18246",
+    "fi": "Viineri, hedelmä"
+  },
+  {
+    "id": "usda:18247",
+    "fi": "Viineri, pähkinä"
+  },
+  {
+    "id": "usda:18248",
+    "fi": "Donitsi, kakkumainen, tavallinen"
+  },
+  {
+    "id": "usda:18249",
+    "fi": "Donitsi, kakkumainen, suklaakuorrutteinen"
+  },
+  {
+    "id": "usda:18250",
+    "fi": "Donitsi, kakkumainen, sokeroitu tai glaseerattu"
+  },
+  {
+    "id": "usda:18251",
+    "fi": "Donitsi, kakkumainen, suklaa, sokeroitu tai glaseerattu"
+  },
+  {
+    "id": "usda:18253",
+    "fi": "Cruller-donitsi, glaseerattu"
+  },
+  {
+    "id": "usda:18254",
+    "fi": "Donitsi, hiivataikina, kreemitäytteinen"
+  },
+  {
+    "id": "usda:18255",
+    "fi": "Donitsi, hiivataikina, glaseerattu"
+  },
+  {
+    "id": "usda:18256",
+    "fi": "Donitsi, hiivataikina, hillotäytteinen"
+  },
+  {
+    "id": "usda:18258",
+    "fi": "Englantilainen muffinssi, tavallinen"
+  },
+  {
+    "id": "usda:18259",
+    "fi": "Englantilainen muffinssi, tavallinen, paahdettu"
+  },
+  {
+    "id": "usda:18260",
+    "fi": "Englantilainen muffinssi, monivilja"
+  },
+  {
+    "id": "usda:18261",
+    "fi": "Englantilainen muffinssi, monivilja, paahdettu"
+  },
+  {
+    "id": "usda:18262",
+    "fi": "Englantilainen muffinssi, rusina-kaneli"
+  },
+  {
+    "id": "usda:18263",
+    "fi": "Englantilainen muffinssi, rusina-kaneli, paahdettu"
+  },
+  {
+    "id": "usda:18264",
+    "fi": "Englantilainen muffinssi, vehnä"
+  },
+  {
+    "id": "usda:18265",
+    "fi": "Englantilainen muffinssi, vehnä, paahdettu"
+  },
+  {
+    "id": "usda:18266",
+    "fi": "Englantilainen muffinssi, täysjyvävehnä"
+  },
+  {
+    "id": "usda:18267",
+    "fi": "Englantilainen muffinssi, täysjyvävehnä, paahdettu"
+  },
+  {
+    "id": "usda:18268",
+    "fi": "Köyhät ritarit, pakaste, lämmitysvalmis"
+  },
+  {
+    "id": "usda:18269",
+    "fi": "Köyhät ritarit, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18270",
+    "fi": "Hush puppy, kotitekoinen"
+  },
+  {
+    "id": "usda:18271",
+    "fi": "Jäätelötötterö, kakku- tai vohvelityyppinen"
+  },
+  {
+    "id": "usda:18272",
+    "fi": "Jäätelötötterö, sokeri, rullattu"
+  },
+  {
+    "id": "usda:18273",
+    "fi": "Muffinssi, tavallinen, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18274",
+    "fi": "Mustikkamuffinssi, teollinen"
+  },
+  {
+    "id": "usda:18275",
+    "fi": "Mustikkamuffinssi, kuivaseos"
+  },
+  {
+    "id": "usda:18277",
+    "fi": "Mustikkamuffinssi, paahdettava"
+  },
+  {
+    "id": "usda:18278",
+    "fi": "Mustikkamuffinssi, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18279",
+    "fi": "Maissimuffinssi, teollinen"
+  },
+  {
+    "id": "usda:18280",
+    "fi": "Maissimuffinssi, kuivaseos, valmistettu"
+  },
+  {
+    "id": "usda:18281",
+    "fi": "Maissimuffinssi, paahdettava"
+  },
+  {
+    "id": "usda:18282",
+    "fi": "Maissimuffinssi, kotitekoinen, vähärasvaisella maidolla"
+  },
+  {
+    "id": "usda:18283",
+    "fi": "Kauralesemuffinssi"
+  },
+  {
+    "id": "usda:18284",
+    "fi": "Vehnälesemuffinssi, kuivaseos"
+  },
+  {
+    "id": "usda:18288",
+    "fi": "Pannukakku, pakaste, lämmitysvalmis"
+  },
+  {
+    "id": "usda:18289",
+    "fi": "Pannukakku, kuivaseos, täydellinen"
+  },
+  {
+    "id": "usda:18290",
+    "fi": "Pannukakku, kuivaseos, täydellinen, valmistettu"
+  },
+  {
+    "id": "usda:18291",
+    "fi": "Pannukakku, kuivaseos, epätäydellinen"
+  },
+  {
+    "id": "usda:18292",
+    "fi": "Pannukakku, kuivaseos, epätäydellinen, valmistettu"
+  },
+  {
+    "id": "usda:18293",
+    "fi": "Pannukakku, kotitekoinen"
+  },
+  {
+    "id": "usda:18294",
+    "fi": "Mustikkapannukakku, kotitekoinen"
+  },
+  {
+    "id": "usda:18295",
+    "fi": "Tattaripannukakku, kuivaseos, epätäydellinen"
+  },
+  {
+    "id": "usda:18297",
+    "fi": "Pannukakku, erityisruokavalio, kuivaseos"
+  },
+  {
+    "id": "usda:18299",
+    "fi": "Täysjyvävehnäpannukakku, kuivaseos, epätäydellinen"
+  },
+  {
+    "id": "usda:18300",
+    "fi": "Täysjyvävehnäpannukakku, kuivaseos, epätäydellinen, valmistettu"
+  },
+  {
+    "id": "usda:18301",
+    "fi": "Omenapiirakka, teollinen"
+  },
+  {
+    "id": "usda:18302",
+    "fi": "Omenapiirakka, kotitekoinen"
+  },
+  {
+    "id": "usda:18303",
+    "fi": "Banaanikermapiirakka, seoksesta valmistettu, hyydytettävä"
+  }
+]

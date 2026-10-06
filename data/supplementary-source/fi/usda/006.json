@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:11362",
+    "fi": "Perunankuori, raaka"
+  },
+  {
+    "id": "usda:11374",
+    "fi": "Peruna, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11378",
+    "fi": "Perunasosehiutale, kuivattu, maidoton, kuivaseos"
+  },
+  {
+    "id": "usda:11380",
+    "fi": "Perunasoserake, kuivattu, maidoton, kuivaseos"
+  },
+  {
+    "id": "usda:11382",
+    "fi": "Perunasoserake, kuivattu, maidollinen, kuivaseos"
+  },
+  {
+    "id": "usda:11384",
+    "fi": "Perunagratiini, kuivaseos"
+  },
+  {
+    "id": "usda:11386",
+    "fi": "Kermaperuna, kuivaseos"
+  },
+  {
+    "id": "usda:11390",
+    "fi": "Röstiperuna, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11392",
+    "fi": "Röstiperuna, pakaste, voikastikkeella, kypsentämätön"
+  },
+  {
+    "id": "usda:11396",
+    "fi": "OBrien-peruna, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11398",
+    "fi": "Perunapyörykkä, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11400",
+    "fi": "Peruna, kokonainen, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11413",
+    "fi": "Perunajauho"
+  },
+  {
+    "id": "usda:11416",
+    "fi": "Kurpitsankukka, raaka"
+  },
+  {
+    "id": "usda:11418",
+    "fi": "Kurpitsanlehti, raaka"
+  },
+  {
+    "id": "usda:11422",
+    "fi": "Kurpitsa, raaka"
+  },
+  {
+    "id": "usda:11424",
+    "fi": "Kurpitsasose, säilyke, suolaton"
+  },
+  {
+    "id": "usda:11426",
+    "fi": "Kurpitsapiirakkatäyte, säilyke"
+  },
+  {
+    "id": "usda:11427",
+    "fi": "Vihannesportulakka, raaka"
+  },
+  {
+    "id": "usda:11429",
+    "fi": "Retiisi, raaka"
+  },
+  {
+    "id": "usda:11430",
+    "fi": "Daikon, raaka"
+  },
+  {
+    "id": "usda:11432",
+    "fi": "Daikon, kuivattu"
+  },
+  {
+    "id": "usda:11435",
+    "fi": "Lanttu, raaka"
+  },
+  {
+    "id": "usda:11437",
+    "fi": "Kaurajuuri, raaka"
+  },
+  {
+    "id": "usda:11439",
+    "fi": "Hapankaali, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11442",
+    "fi": "Agar, merilevä, raaka"
+  },
+  {
+    "id": "usda:11444",
+    "fi": "Irlanninsammal, merilevä, raaka"
+  },
+  {
+    "id": "usda:11445",
+    "fi": "Kombu, merilevä, raaka"
+  },
+  {
+    "id": "usda:11446",
+    "fi": "Nori, merilevä, raaka"
+  },
+  {
+    "id": "usda:11447",
+    "fi": "Sesbanian kukka, raaka"
+  },
+  {
+    "id": "usda:11450",
+    "fi": "Edamame, raaka"
+  },
+  {
+    "id": "usda:11452",
+    "fi": "Soijapavun itu, raaka"
+  },
+  {
+    "id": "usda:11457",
+    "fi": "Pinaatti, raaka"
+  },
+  {
+    "id": "usda:11459",
+    "fi": "Pinaatti, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11463",
+    "fi": "Pinaatti, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11467",
+    "fi": "Kesäkurpitsa, keltainen, raaka"
+  },
+  {
+    "id": "usda:11473",
+    "fi": "Kesäkurpitsa, keltainen, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11475",
+    "fi": "Pattypan-kurpitsa, raaka"
+  },
+  {
+    "id": "usda:11477",
+    "fi": "Kesäkurpitsa, kuorineen, raaka"
+  },
+  {
+    "id": "usda:11479",
+    "fi": "Kesäkurpitsa, kuorineen, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11481",
+    "fi": "Kesäkurpitsa, italialaistyyppinen, säilyke"
+  },
+  {
+    "id": "usda:11482",
+    "fi": "Terhokurpitsa, raaka"
+  },
+  {
+    "id": "usda:11485",
+    "fi": "Myskikurpitsa, raaka"
+  },
+  {
+    "id": "usda:11487",
+    "fi": "Myskikurpitsa, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11489",
+    "fi": "Hubbard-kurpitsa, raaka"
+  },
+  {
+    "id": "usda:11492",
+    "fi": "Spagettikurpitsa, raaka"
+  },
+  {
+    "id": "usda:11495",
+    "fi": "Succotash, maissi ja limanpapu, raaka"
+  },
+  {
+    "id": "usda:11497",
+    "fi": "Succotash, säilyke, kermamaissilla"
+  },
+  {
+    "id": "usda:11499",
+    "fi": "Succotash, säilyke, kokonaisella maissilla, liemineen"
+  },
+  {
+    "id": "usda:11501",
+    "fi": "Succotash, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11503",
+    "fi": "Suokaali, raaka"
+  },
+  {
+    "id": "usda:11505",
+    "fi": "Bataatinlehti, raaka"
+  },
+  {
+    "id": "usda:11507",
+    "fi": "Bataatti, raaka"
+  },
+  {
+    "id": "usda:11512",
+    "fi": "Bataatti, säilyke, vakuumipakattu"
+  },
+  {
+    "id": "usda:11514",
+    "fi": "Bataatti, sose, säilyke"
+  },
+  {
+    "id": "usda:11516",
+    "fi": "Bataatti, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11518",
+    "fi": "Taaro, raaka"
+  },
+  {
+    "id": "usda:11520",
+    "fi": "Taaronlehti, raaka"
+  },
+  {
+    "id": "usda:11522",
+    "fi": "Taaronverso, raaka"
+  },
+  {
+    "id": "usda:11525",
+    "fi": "Tahitintaaro, raaka"
+  },
+  {
+    "id": "usda:11527",
+    "fi": "Tomaatti, vihreä, raaka"
+  },
+  {
+    "id": "usda:11529",
+    "fi": "Tomaatti, punainen, kypsä, raaka"
+  },
+  {
+    "id": "usda:11531",
+    "fi": "Tomaatti, punainen, säilyke, tomaattimehussa"
+  },
+  {
+    "id": "usda:11537",
+    "fi": "Tomaatti, punainen, säilyke, vihreällä chilillä"
+  },
+  {
+    "id": "usda:11540",
+    "fi": "Tomaattimehu, säilyke, suolattu"
+  },
+  {
+    "id": "usda:11546",
+    "fi": "Tomaattipyree, säilyke, suolaton"
+  },
+  {
+    "id": "usda:11547",
+    "fi": "Tomaattisose, säilyke, suolaton"
+  },
+  {
+    "id": "usda:11548",
+    "fi": "Tomaattijauhe"
+  },
+  {
+    "id": "usda:11549",
+    "fi": "Tomaattikastike, säilyke"
+  },
+  {
+    "id": "usda:11551",
+    "fi": "Tomaattikastike, säilyke, sienillä"
+  },
+  {
+    "id": "usda:11553",
+    "fi": "Tomaattikastike, säilyke, sipulilla"
+  },
+  {
+    "id": "usda:11555",
+    "fi": "Tomaattikastike, säilyke, yrteillä ja juustolla"
+  },
+  {
+    "id": "usda:11557",
+    "fi": "Tomaattikastike, säilyke, sipulilla, paprikalla ja sellerillä"
+  },
+  {
+    "id": "usda:11559",
+    "fi": "Tomaattikastike, säilyke, tomaattipaloilla"
+  },
+  {
+    "id": "usda:11564",
+    "fi": "Nauris, raaka"
+  },
+  {
+    "id": "usda:11566",
+    "fi": "Nauris, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11568",
+    "fi": "Nauriinlehti, raaka"
+  },
+  {
+    "id": "usda:11570",
+    "fi": "Nauriinlehti, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11574",
+    "fi": "Nauriinlehti, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11576",
+    "fi": "Nauriinlehti ja nauris, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11578",
+    "fi": "Vihannesmehu, säilyke"
+  },
+  {
+    "id": "usda:11579",
+    "fi": "Sekavihannes, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11583",
+    "fi": "Sekavihannes, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11587",
+    "fi": "Basella, raaka"
+  },
+  {
+    "id": "usda:11588",
+    "fi": "Vesikastanja, kiinalainen, raaka"
+  },
+  {
+    "id": "usda:11590",
+    "fi": "Vesikastanja, kiinalainen, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11591",
+    "fi": "Vesikrassi, raaka"
+  },
+  {
+    "id": "usda:11593",
+    "fi": "Talvimeloni, raaka"
+  },
+  {
+    "id": "usda:11595",
+    "fi": "Nelipapupapu, raaka"
+  },
+  {
+    "id": "usda:11597",
+    "fi": "Nelipapupavun lehti, raaka"
+  },
+  {
+    "id": "usda:11599",
+    "fi": "Nelipapupavun mukula, raaka"
+  },
+  {
+    "id": "usda:11601",
+    "fi": "Jamssi, raaka"
+  },
+  {
+    "id": "usda:11603",
+    "fi": "Jicama, raaka"
+  },
+  {
+    "id": "usda:11605",
+    "fi": "Punajuuri, harvard-tyyppinen, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11609",
+    "fi": "Punajuuri, pikkelöity, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11613",
+    "fi": "Purasruoho, raaka"
+  },
+  {
+    "id": "usda:11615",
+    "fi": "Ruohosipuli, pakastekuivattu"
+  },
+  {
+    "id": "usda:11616",
+    "fi": "Hierakka, raaka"
+  },
+  {
+    "id": "usda:11618",
+    "fi": "Eppaw, raaka"
+  },
+  {
+    "id": "usda:11620",
+    "fi": "Moringan palko, raaka"
+  },
+  {
+    "id": "usda:11622",
+    "fi": "Lehtikaali, skotlantilainen, raaka"
+  },
+  {
+    "id": "usda:11624",
+    "fi": "Purjo, pakastekuivattu"
+  },
+  {
+    "id": "usda:11625",
+    "fi": "Persilja, pakastekuivattu"
+  },
+  {
+    "id": "usda:11632",
+    "fi": "Jalapeno, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11634",
+    "fi": "Vihreä paprika, pakastekuivattu"
+  },
+  {
+    "id": "usda:11637",
+    "fi": "Retiisi, valkoinen, raaka"
+  },
+  {
+    "id": "usda:11640",
+    "fi": "Salottisipuli, pakastekuivattu"
+  },
+  {
+    "id": "usda:11641",
+    "fi": "Kesäkurpitsa, raaka"
+  },
+  {
+    "id": "usda:11643",
+    "fi": "Talvikurpitsa, raaka"
+  },
+  {
+    "id": "usda:11645",
+    "fi": "Bataatti, säilyke, sokeriliemessä"
+  },
+  {
+    "id": "usda:11649",
+    "fi": "Tomaattikastike, säilyke, espanjalaistyylinen"
+  },
+  {
+    "id": "usda:11653",
+    "fi": "Pintopavun itu, raaka"
+  },
+  {
+    "id": "usda:11655",
+    "fi": "Porkkanamehu, säilyke"
+  },
+  {
+    "id": "usda:11658",
+    "fi": "Pinaattikohokas"
+  },
+  {
+    "id": "usda:11663",
+    "fi": "Agar, merilevä, kuivattu"
+  },
+  {
+    "id": "usda:11666",
+    "fi": "Spirulina, raaka"
+  },
+  {
+    "id": "usda:11667",
+    "fi": "Spirulina, kuivattu"
+  },
+  {
+    "id": "usda:11669",
+    "fi": "Wakame, raaka"
+  },
+  {
+    "id": "usda:11670",
+    "fi": "Chili, vihreä, raaka"
+  },
+  {
+    "id": "usda:11672",
+    "fi": "Perunaohukainen"
+  },
+  {
+    "id": "usda:11676",
+    "fi": "Retiisinverso, raaka"
+  },
+  {
+    "id": "usda:11677",
+    "fi": "Salottisipuli, raaka"
+  },
+  {
+    "id": "usda:11683",
+    "fi": "Porkkana, kuivattu"
+  },
+  {
+    "id": "usda:11693",
+    "fi": "Tomaattimurska, säilyke"
+  },
+  {
+    "id": "usda:11695",
+    "fi": "Tomaatti, oranssi, raaka"
+  },
+  {
+    "id": "usda:11696",
+    "fi": "Tomaatti, keltainen, raaka"
+  },
+  {
+    "id": "usda:11697",
+    "fi": "Arrowjuuri, raaka"
+  },
+  {
+    "id": "usda:11698",
+    "fi": "Krysanteeminlehti, raaka"
+  },
+  {
+    "id": "usda:11707",
+    "fi": "Parsa, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11715",
+    "fi": "Limanpapu, tuore siemen, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11722",
+    "fi": "Keltainen papu, raaka"
+  },
+  {
+    "id": "usda:11726",
+    "fi": "Vihreä papu, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11727",
+    "fi": "Keltainen papu, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11728",
+    "fi": "Keltainen papu, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11730",
+    "fi": "Keltainen papu, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11735",
+    "fi": "Punajuuri, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11739",
+    "fi": "Parsakaalinlehti, raaka"
+  },
+  {
+    "id": "usda:11740",
+    "fi": "Parsakaalin kukinto, raaka"
+  },
+  {
+    "id": "usda:11741",
+    "fi": "Parsakaalin varsi, raaka"
+  },
+  {
+    "id": "usda:11749",
+    "fi": "Kaali, valkokaali, vastakorjattu, raaka"
+  },
+  {
+    "id": "usda:11750",
+    "fi": "Kaali, valkokaali, varastoitu, raaka"
+  },
+  {
+    "id": "usda:11758",
+    "fi": "Porkkana, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11771",
+    "fi": "Sokerimaissi, keltainen, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11772",
+    "fi": "Kermamaissi, keltainen, säilyke, suolaton"
+  },
+  {
+    "id": "usda:11773",
+    "fi": "Sokerimaissi, keltainen, säilyke, vakuumipakattu, suolaton"
+  },
+  {
+    "id": "usda:11812",
+    "fi": "Herne, vihreä, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11816",
+    "fi": "Herne-porkkanasekoitus, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11819",
+    "fi": "Chili, punainen, raaka"
+  },
+  {
+    "id": "usda:11820",
+    "fi": "Chili, punainen, säilyke, siemenetön, liemineen"
+  },
+  {
+    "id": "usda:11821",
+    "fi": "Punainen paprika, raaka"
+  },
+  {
+    "id": "usda:11855",
+    "fi": "Pinaatti, säilyke, suolaton, liemineen"
+  },
+  {
+    "id": "usda:11885",
+    "fi": "Tomaatti, punainen, säilyke, tomaattimehussa, suolaton"
+  },
+  {
+    "id": "usda:11900",
+    "fi": "Sokerimaissi, valkoinen, raaka"
+  },
+  {
+    "id": "usda:11903",
+    "fi": "Sokerimaissi, valkoinen, säilyke, kokonainen jyvä, liemineen"
+  },
+  {
+    "id": "usda:11904",
+    "fi": "Sokerimaissi, valkoinen, säilyke, kokonainen jyvä, suolaton"
+  },
+  {
+    "id": "usda:11906",
+    "fi": "Kermamaissi, valkoinen, säilyke"
+  },
+  {
+    "id": "usda:11907",
+    "fi": "Kermamaissi, valkoinen, säilyke, suolaton"
+  },
+  {
+    "id": "usda:11908",
+    "fi": "Sokerimaissi, valkoinen, säilyke, vakuumipakattu"
+  },
+  {
+    "id": "usda:11909",
+    "fi": "Sokerimaissi, valkoinen, säilyke, vakuumipakattu, suolaton"
+  },
+  {
+    "id": "usda:11910",
+    "fi": "Sokerimaissi, valkoinen, pakastejyvä, kypsentämätön"
+  },
+  {
+    "id": "usda:11913",
+    "fi": "Sokerimaissi, valkoinen, pakastetähkä, kypsentämätön"
+  },
+  {
+    "id": "usda:11916",
+    "fi": "Punainen paprika, säilyke, liemineen"
+  },
+  {
+    "id": "usda:11917",
+    "fi": "Punainen paprika, pakaste, hienonnettu, kypsentämätön"
+  },
+  {
+    "id": "usda:11921",
+    "fi": "Punainen paprika, paistettu"
+  },
+  {
+    "id": "usda:11931",
+    "fi": "Punainen paprika, pakastekuivattu"
+  },
+  {
+    "id": "usda:11935",
+    "fi": "Ketsuppi"
+  },
+  {
+    "id": "usda:11936",
+    "fi": "Ruskea herkkusieni, UV-käsitelty, raaka"
+  },
+  {
+    "id": "usda:11937",
+    "fi": "Suolakurkku, tillimaustettu"
+  },
+  {
+    "id": "usda:11938",
+    "fi": "Herkkusieni, valkoinen, UV-käsitelty, raaka"
+  },
+  {
+    "id": "usda:11940",
+    "fi": "Maustekurkku, makea"
+  },
+  {
+    "id": "usda:11941",
+    "fi": "Hapankurkku"
+  },
+  {
+    "id": "usda:11943",
+    "fi": "Pimento, säilyke"
+  },
+  {
+    "id": "usda:11944",
+    "fi": "Kurkkurelissi, hot dog -tyyppinen"
+  },
+  {
+    "id": "usda:11945",
+    "fi": "Kurkkurelissi, makea"
+  },
+  {
+    "id": "usda:11947",
+    "fi": "Suolakurkku, tillimaustettu, vähäsuolainen"
+  },
+  {
+    "id": "usda:11950",
+    "fi": "Enoki, raaka"
+  },
+  {
+    "id": "usda:11951",
+    "fi": "Keltainen paprika, raaka"
+  },
+  {
+    "id": "usda:11952",
+    "fi": "Radicchio, raaka"
+  },
+  {
+    "id": "usda:11953",
+    "fi": "Kesäkurpitsa, baby, raaka"
+  },
+  {
+    "id": "usda:11954",
+    "fi": "Tomatillo, raaka"
+  },
+  {
+    "id": "usda:11955",
+    "fi": "Aurinkokuivattu tomaatti"
+  },
+  {
+    "id": "usda:11957",
+    "fi": "Fenkoli, mukula, raaka"
+  },
+  {
+    "id": "usda:11958",
+    "fi": "Kurkkurelissi, hampurilaistyyppinen"
+  },
+  {
+    "id": "usda:11959",
+    "fi": "Rucola, raaka"
+  },
+  {
+    "id": "usda:11960",
+    "fi": "Porkkana, baby, raaka"
+  },
+  {
+    "id": "usda:11961",
+    "fi": "Palmunsydän, säilyke"
+  },
+  {
+    "id": "usda:11962",
+    "fi": "Chili, aurinkokuivattu"
+  },
+  {
+    "id": "usda:11963",
+    "fi": "Nopal-kaktus, raaka"
+  },
+  {
+    "id": "usda:11965",
+    "fi": "Kukkakaali, vihreä, raaka"
+  },
+  {
+    "id": "usda:11972",
+    "fi": "Sitruunaruoho, raaka"
+  },
+  {
+    "id": "usda:11973",
+    "fi": "Härkäpapu, palkoineen, raaka"
+  },
+  {
+    "id": "usda:11974",
+    "fi": "Viininlehti, raaka"
+  },
+  {
+    "id": "usda:11975",
+    "fi": "Viininlehti, säilyke"
+  },
+  {
+    "id": "usda:11976",
+    "fi": "Banaanipaprika, raaka"
+  },
+  {
+    "id": "usda:11977",
+    "fi": "Serranochili, raaka"
+  },
+  {
+    "id": "usda:11978",
+    "fi": "Anchochili, kuivattu"
+  },
+  {
+    "id": "usda:11979",
+    "fi": "Jalapeno, raaka"
+  },
+  {
+    "id": "usda:11980",
+    "fi": "Chili, vihreä, säilyke"
+  },
+  {
+    "id": "usda:11981",
+    "fi": "Unkarilainen paprika, raaka"
+  },
+  {
+    "id": "usda:11982",
+    "fi": "Pasillachili, kuivattu"
+  },
+  {
+    "id": "usda:11983",
+    "fi": "Chow-chow-pikkelssi, makea"
+  },
+  {
+    "id": "usda:11984",
+    "fi": "Epazote, raaka"
+  },
+  {
+    "id": "usda:11985",
+    "fi": "Maitohorsmanlehti, raaka"
+  },
+  {
+    "id": "usda:11987",
+    "fi": "Osterivinokas, raaka"
+  },
+  {
+    "id": "usda:11988",
+    "fi": "Pilvikorvasieni, kuivattu"
+  },
+  {
+    "id": "usda:11990",
+    "fi": "Wasabi, juuri, raaka"
+  },
+  {
+    "id": "usda:11991",
+    "fi": "Yautia, raaka"
+  },
+  {
+    "id": "usda:11993",
+    "fi": "Maitake, raaka"
+  },
+  {
+    "id": "usda:11994",
+    "fi": "Kiinalainen parsakaali, raaka"
+  },
+  {
+    "id": "usda:11995",
+    "fi": "Saniaisenverso, raaka"
+  },
+  {
+    "id": "usda:11996",
+    "fi": "Saniaisenverso, pakaste, kypsentämätön"
+  },
+  {
+    "id": "usda:11998",
+    "fi": "Portobello, UV-käsitelty, raaka"
+  },
+  {
+    "id": "usda:12001",
+    "fi": "Leipäpuun siemen, raaka"
+  },
+  {
+    "id": "usda:12003",
+    "fi": "Leipäpuun siemen, keitetty"
+  },
+  {
+    "id": "usda:12004",
+    "fi": "Leipäpähkinäpuun siemen, raaka"
+  },
+  {
+    "id": "usda:12005",
+    "fi": "Leipäpähkinäpuun siemen, kuivattu"
+  },
+  {
+    "id": "usda:12006",
+    "fi": "Chiansiemen, kuivattu"
+  },
+  {
+    "id": "usda:12007",
+    "fi": "Puuvillansiemenjauho, osittain rasvaton"
+  },
+  {
+    "id": "usda:12008",
+    "fi": "Puuvillansiemenjauho, vähärasvainen"
+  },
+  {
+    "id": "usda:12011",
+    "fi": "Puuvillansiemenrouhe, osittain rasvaton"
+  },
+  {
+    "id": "usda:12012",
+    "fi": "Hampunsiemen, kuorittu"
+  },
+  {
+    "id": "usda:12013",
+    "fi": "Lootuksensiemen, kuivattu"
+  },
+  {
+    "id": "usda:12014",
+    "fi": "Kurpitsansiemen, kuorittu, kuivattu"
+  },
+  {
+    "id": "usda:12016",
+    "fi": "Kurpitsansiemen, kuorittu, paahdettu, suolaton"
+  },
+  {
+    "id": "usda:12021",
+    "fi": "Saflorinsiemen, kuorittu, kuivattu"
+  },
+  {
+    "id": "usda:12022",
+    "fi": "Saflorinsiemenrouhe, osittain rasvaton"
+  },
+  {
+    "id": "usda:12023",
+    "fi": "Seesaminsiemen, kokonainen, kuivattu"
+  },
+  {
+    "id": "usda:12024",
+    "fi": "Seesaminsiemen, kokonainen, paahdettu"
+  },
+  {
+    "id": "usda:12029",
+    "fi": "Seesaminsiemen, kuorittu, paahdettu, suolaton"
+  },
+  {
+    "id": "usda:12032",
+    "fi": "Seesamijauho, osittain rasvaton"
+  },
+  {
+    "id": "usda:12033",
+    "fi": "Seesamijauho, vähärasvainen"
+  },
+  {
+    "id": "usda:12034",
+    "fi": "Seesamirouhe, osittain rasvaton"
+  },
+  {
+    "id": "usda:12036",
+    "fi": "Auringonkukansiemen, kuorittu, kuivattu"
+  },
+  {
+    "id": "usda:12037",
+    "fi": "Auringonkukansiemen, kuorittu, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12038",
+    "fi": "Auringonkukansiemen, kuorittu, öljypaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12039",
+    "fi": "Auringonkukansiemen, kuorittu, paahdettu, suolaton"
+  },
+  {
+    "id": "usda:12040",
+    "fi": "Auringonkukansiemenvoi, suolaton"
+  },
+  {
+    "id": "usda:12041",
+    "fi": "Auringonkukansiemenjauho, osittain rasvaton"
+  },
+  {
+    "id": "usda:12058",
+    "fi": "Terho, raaka"
+  },
+  {
+    "id": "usda:12059",
+    "fi": "Terho, kuivattu"
+  },
+  {
+    "id": "usda:12060",
+    "fi": "Terhojauho, täysrasvainen"
+  },
+  {
+    "id": "usda:12061",
+    "fi": "Manteli"
+  },
+  {
+    "id": "usda:12062",
+    "fi": "Manteli, kuorittu"
+  },
+  {
+    "id": "usda:12063",
+    "fi": "Manteli, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12065",
+    "fi": "Manteli, öljypaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12071",
+    "fi": "Mantelimassa"
+  },
+  {
+    "id": "usda:12077",
+    "fi": "Pyökinpähkinä, kuivattu"
+  },
+  {
+    "id": "usda:12078",
+    "fi": "Parapähkinä, kuivattu, kuorimaton"
+  },
+  {
+    "id": "usda:12084",
+    "fi": "Voipähkinä, kuivattu"
+  },
+  {
+    "id": "usda:12085",
+    "fi": "Cashewpähkinä, kuivapaahdettu, suolaton"
+  }
+]

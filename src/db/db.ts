@@ -5,6 +5,8 @@
  *   recipes             all recipes (seed, user, imported, catalogue); `inCollection` = in "Omat reseptit"
  *   recipeSources       known recipe sources (sites, datasets)
  *   fineliFoods         Fineli nutrition database (imported from public/data/fineli-foods.json)
+ *   supplementaryFoods  other open food databases in Finnish, used only where Fineli has nothing
+ *                       suitable (public/data/supplementary-foods.json, see domain/supplementary.ts)
  *   mealPlans/mealItems meal planner; a meal = mealItems with the same date + slot
  *   shoppingLists/Items generated shopping lists with checked state and manual items
  *   favourites          favourite recipe ids
@@ -37,6 +39,7 @@ export class MealPlannerDB extends Dexie {
   recipes!: EntityTable<Recipe, 'id'>
   recipeSources!: EntityTable<RecipeSource, 'id'>
   fineliFoods!: EntityTable<FineliFood, 'id'>
+  supplementaryFoods!: EntityTable<FineliFood, 'id'>
   mealPlans!: EntityTable<MealPlan, 'id'>
   mealItems!: EntityTable<MealItem, 'id'>
   shoppingLists!: EntityTable<ShoppingList, 'id'>
@@ -62,6 +65,9 @@ export class MealPlannerDB extends Dexie {
       categoryOverrides: 'key',
       products: 'id, canonicalId, ean',
       settings: 'key',
+    })
+    this.version(2).stores({
+      supplementaryFoods: 'id',
     })
   }
 }

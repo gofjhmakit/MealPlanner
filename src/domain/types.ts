@@ -9,6 +9,7 @@
  *   Product – optional supermarket product (future integration, table exists but is empty)
  */
 import { z } from 'zod'
+import type { SupplementarySourceId } from './supplementary'
 import { safeHttpUrl } from './url'
 
 /** Optional URL field: anything that is not an absolute http(s) URL is dropped (never rendered). */
@@ -45,6 +46,7 @@ export const MATCH_METHODS = [
   'compound-head', // head of a Finnish compound matched (kirsikkatomaatti -> tomaatti)
   'product', // matched to one of the user's own products (name, brand + name or alias)
   'fineli-search', // no dictionary hit, matched by searching Fineli food names
+  'supplementary-search', // nothing suitable in Fineli, matched by searching the supplementary databases (supplementary.ts)
   'none',
 ] as const
 export type MatchMethod = (typeof MATCH_METHODS)[number]
@@ -370,8 +372,12 @@ export interface FineliFood {
   diets: string[]
   /** True for the user's own products (not Fineli data). */
   custom?: boolean
-  /** Shopping category of a user product. */
+  /** Shopping category of a user product or a supplementary food. */
   category?: ShoppingCategory
+  /** Set for supplementary (non-Fineli) foods: the database the values come from. */
+  source?: SupplementarySourceId
+  /** The food's id in that database (Livsmedelsnummer, USDA NDB number). */
+  sourceRef?: string
 }
 
 export interface FineliDish {

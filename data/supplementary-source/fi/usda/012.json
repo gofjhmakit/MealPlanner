@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:19165",
+    "fi": "Kaakaojauhe, makeuttamaton"
+  },
+  {
+    "id": "usda:19166",
+    "fi": "Kaakaojauhe, alkalisoitu, makeuttamaton"
+  },
+  {
+    "id": "usda:19168",
+    "fi": "Munavanukas, paistettu, kotitekoinen"
+  },
+  {
+    "id": "usda:19169",
+    "fi": "Munavanukas, kuivaseos"
+  },
+  {
+    "id": "usda:19170",
+    "fi": "Munavanukas, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19172",
+    "fi": "Liivatejälkiruoka, kuivaseos"
+  },
+  {
+    "id": "usda:19173",
+    "fi": "Liivatejälkiruoka, kuivaseos, valmistettu vedellä"
+  },
+  {
+    "id": "usda:19175",
+    "fi": "Liivatejälkiruoka, kuivaseos, kevyt, aspartaamilla"
+  },
+  {
+    "id": "usda:19176",
+    "fi": "Liivatejälkiruoka, kevyt, aspartaamilla, valmistettu vedellä"
+  },
+  {
+    "id": "usda:19177",
+    "fi": "Liivate, jauhe, makeuttamaton"
+  },
+  {
+    "id": "usda:19182",
+    "fi": "Suklaamousse, kotitekoinen"
+  },
+  {
+    "id": "usda:19183",
+    "fi": "Suklaavanukas, valmis"
+  },
+  {
+    "id": "usda:19184",
+    "fi": "Suklaavanukas, kuivaseos, pikavalmiste"
+  },
+  {
+    "id": "usda:19185",
+    "fi": "Suklaavanukas, pikaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19186",
+    "fi": "Omenapaistos, kotitekoinen"
+  },
+  {
+    "id": "usda:19187",
+    "fi": "Karamellivanukas, kuivaseos"
+  },
+  {
+    "id": "usda:19188",
+    "fi": "Suklaavanukas, kuivaseos, keitettävä"
+  },
+  {
+    "id": "usda:19189",
+    "fi": "Suklaavanukas, keitettävä seos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19190",
+    "fi": "Suklaavanukas, keitettävä seos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19191",
+    "fi": "Kookosvanukas, pikaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19193",
+    "fi": "Riisivanukas, valmis"
+  },
+  {
+    "id": "usda:19194",
+    "fi": "Riisivanukas, kuivaseos"
+  },
+  {
+    "id": "usda:19195",
+    "fi": "Riisivanukas, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19198",
+    "fi": "Tapiokavanukas, kuivaseos"
+  },
+  {
+    "id": "usda:19199",
+    "fi": "Tapiokavanukas, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19201",
+    "fi": "Vaniljavanukas, valmis"
+  },
+  {
+    "id": "usda:19202",
+    "fi": "Vaniljavanukas, kuivaseos, pikavalmiste"
+  },
+  {
+    "id": "usda:19203",
+    "fi": "Vaniljavanukas, pikaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19204",
+    "fi": "Sitruunavanukas, pikaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19205",
+    "fi": "Munavanukas, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19206",
+    "fi": "Vaniljavanukas, kuivaseos, keitettävä"
+  },
+  {
+    "id": "usda:19207",
+    "fi": "Vaniljavanukas, keitettävä seos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19208",
+    "fi": "Riisivanukas, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19209",
+    "fi": "Tapiokavanukas, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19212",
+    "fi": "Vaniljavanukas, keitettävä seos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19213",
+    "fi": "Juoksutevanukas, suklaa, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19214",
+    "fi": "Juoksutevanukas, vanilja, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19216",
+    "fi": "Praliinikaramelli, kotitekoinen"
+  },
+  {
+    "id": "usda:19217",
+    "fi": "Jäämehupuikko, hedelmä, ilman lisättyä sokeria"
+  },
+  {
+    "id": "usda:19218",
+    "fi": "Tapiokavanukas, valmis"
+  },
+  {
+    "id": "usda:19219",
+    "fi": "Kookosvanukas, keitettävä seos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19220",
+    "fi": "Juoksutevanukas, suklaa, kuivaseos"
+  },
+  {
+    "id": "usda:19221",
+    "fi": "Juoksutevanukas, suklaa, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19222",
+    "fi": "Juoksutevanukas, vanilja, kuivaseos"
+  },
+  {
+    "id": "usda:19223",
+    "fi": "Juoksutevanukas, vanilja, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19225",
+    "fi": "Juoksutetabletti, makeuttamaton"
+  },
+  {
+    "id": "usda:19226",
+    "fi": "Suklaakuorrute, kermainen, valmis"
+  },
+  {
+    "id": "usda:19227",
+    "fi": "Kookospähkinäkuorrute, valmis"
+  },
+  {
+    "id": "usda:19228",
+    "fi": "Tuorejuustokuorrute, valmis"
+  },
+  {
+    "id": "usda:19230",
+    "fi": "Vaniljakuorrute, kermainen, valmis"
+  },
+  {
+    "id": "usda:19231",
+    "fi": "Karamellivanukas, kuivaseos, valmistettu kevytmaidolla"
+  },
+  {
+    "id": "usda:19232",
+    "fi": "Karamellivanukas, kuivaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19233",
+    "fi": "Vaniljavanukas, valmis, rasvaton"
+  },
+  {
+    "id": "usda:19234",
+    "fi": "Tapiokavanukas, valmis, rasvaton"
+  },
+  {
+    "id": "usda:19235",
+    "fi": "Suklaavanukas, valmis, rasvaton"
+  },
+  {
+    "id": "usda:19240",
+    "fi": "Suklaakuorrute, kermainen, kuivaseos"
+  },
+  {
+    "id": "usda:19241",
+    "fi": "Suklaakuorrute, kermainen, kuivaseos, valmistettu voilla"
+  },
+  {
+    "id": "usda:19244",
+    "fi": "Vaniljakuorrute, kermainen, kuivaseos"
+  },
+  {
+    "id": "usda:19246",
+    "fi": "Valkoinen kuorrute, ilmava, kuivaseos"
+  },
+  {
+    "id": "usda:19247",
+    "fi": "Valkoinen kuorrute, ilmava, kuivaseos, valmistettu vedellä"
+  },
+  {
+    "id": "usda:19260",
+    "fi": "Vaniljajäätelö, kevyt, ei lisättyä sokeria"
+  },
+  {
+    "id": "usda:19263",
+    "fi": "Hedelmämehupuikko"
+  },
+  {
+    "id": "usda:19265",
+    "fi": "Suklaajäätelö, kevyt, ei lisättyä sokeria"
+  },
+  {
+    "id": "usda:19268",
+    "fi": "Kahvipapu, tummasuklaakuorrutettu"
+  },
+  {
+    "id": "usda:19270",
+    "fi": "Suklaajäätelö"
+  },
+  {
+    "id": "usda:19271",
+    "fi": "Mansikkajäätelö"
+  },
+  {
+    "id": "usda:19274",
+    "fi": "Hedelmänahka, paloina"
+  },
+  {
+    "id": "usda:19279",
+    "fi": "Kahvipapu, maitosuklaakuorrutettu"
+  },
+  {
+    "id": "usda:19280",
+    "fi": "Jäämehupuikko, lime"
+  },
+  {
+    "id": "usda:19281",
+    "fi": "Italialainen jääjälkiruoka"
+  },
+  {
+    "id": "usda:19283",
+    "fi": "Jäämehupuikko"
+  },
+  {
+    "id": "usda:19293",
+    "fi": "Pakastejogurtti, vanilja, pehmis"
+  },
+  {
+    "id": "usda:19294",
+    "fi": "Omenavoi"
+  },
+  {
+    "id": "usda:19296",
+    "fi": "Hunaja"
+  },
+  {
+    "id": "usda:19297",
+    "fi": "Hillo"
+  },
+  {
+    "id": "usda:19300",
+    "fi": "Hyytelö"
+  },
+  {
+    "id": "usda:19301",
+    "fi": "Suklaafudge, vaahtokarkki ja pähkinä, kotitekoinen"
+  },
+  {
+    "id": "usda:19303",
+    "fi": "Appelsiinimarmeladi"
+  },
+  {
+    "id": "usda:19304",
+    "fi": "Melassi"
+  },
+  {
+    "id": "usda:19310",
+    "fi": "Pektiini, makeuttamaton, kuivaseos"
+  },
+  {
+    "id": "usda:19312",
+    "fi": "Omenapiirakkatäyte, säilyke"
+  },
+  {
+    "id": "usda:19314",
+    "fi": "Kirsikkapiirakkatäyte, säilyke"
+  },
+  {
+    "id": "usda:19318",
+    "fi": "Banaanivanukas, kuivaseos, pikavalmiste"
+  },
+  {
+    "id": "usda:19319",
+    "fi": "Banaanivanukas, pikaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19320",
+    "fi": "Banaanivanukas, kuivaseos, keitettävä"
+  },
+  {
+    "id": "usda:19321",
+    "fi": "Banaanivanukas, keitettävä seos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19322",
+    "fi": "Kookosvanukas, kuivaseos, pikavalmiste"
+  },
+  {
+    "id": "usda:19323",
+    "fi": "Kookosvanukas, pikaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19324",
+    "fi": "Kookosvanukas, kuivaseos, keitettävä"
+  },
+  {
+    "id": "usda:19325",
+    "fi": "Kookosvanukas, keitettävä seos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19330",
+    "fi": "Sitruunavanukas, kuivaseos, pikavalmiste"
+  },
+  {
+    "id": "usda:19331",
+    "fi": "Sitruunavanukas, pikaseos, valmistettu täysmaidolla"
+  },
+  {
+    "id": "usda:19332",
+    "fi": "Sitruunavanukas, kuivaseos, keitettävä"
+  },
+  {
+    "id": "usda:19333",
+    "fi": "Sitruunavanukas, keitettävä seos, sokerilla ja munankeltuaisella"
+  },
+  {
+    "id": "usda:19334",
+    "fi": "Fariinisokeri"
+  },
+  {
+    "id": "usda:19335",
+    "fi": "Sokeri"
+  },
+  {
+    "id": "usda:19336",
+    "fi": "Tomusokeri"
+  },
+  {
+    "id": "usda:19340",
+    "fi": "Vaahterasokeri"
+  },
+  {
+    "id": "usda:19348",
+    "fi": "Suklaasiirappi, fudgemainen"
+  },
+  {
+    "id": "usda:19349",
+    "fi": "Maissisiirappi, tumma"
+  },
+  {
+    "id": "usda:19350",
+    "fi": "Maissisiirappi, vaalea"
+  },
+  {
+    "id": "usda:19351",
+    "fi": "Maissisiirappi, runsasfruktoosinen"
+  },
+  {
+    "id": "usda:19352",
+    "fi": "Mallassiirappi"
+  },
+  {
+    "id": "usda:19353",
+    "fi": "Vaahterasiirappi"
+  },
+  {
+    "id": "usda:19355",
+    "fi": "Durra-siirappi"
+  },
+  {
+    "id": "usda:19360",
+    "fi": "Pannukakkusiirappi, vaahteraa 2 %"
+  },
+  {
+    "id": "usda:19361",
+    "fi": "Ruokosiirappi, vaahteraa 15 %"
+  },
+  {
+    "id": "usda:19362",
+    "fi": "Pöytäsiirappi, maissi ja sokeri"
+  },
+  {
+    "id": "usda:19364",
+    "fi": "Kinuskikastike"
+  },
+  {
+    "id": "usda:19365",
+    "fi": "Vaahtokarkkilevite"
+  },
+  {
+    "id": "usda:19366",
+    "fi": "Ananastäyte"
+  },
+  {
+    "id": "usda:19367",
+    "fi": "Pähkinät siirapissa"
+  },
+  {
+    "id": "usda:19371",
+    "fi": "Vaniljakuorrute, kermainen, kuivaseos, valmistettu margariinilla"
+  },
+  {
+    "id": "usda:19372",
+    "fi": "Suklaakuorrute, kermainen, kuivaseos, valmistettu margariinilla"
+  },
+  {
+    "id": "usda:19375",
+    "fi": "Sokerikuorrute, kotitekoinen"
+  },
+  {
+    "id": "usda:19379",
+    "fi": "Suklaafudge, vaahtokarkki, kotitekoinen"
+  },
+  {
+    "id": "usda:19382",
+    "fi": "Taffy-karamelli, kotitekoinen"
+  },
+  {
+    "id": "usda:19383",
+    "fi": "Toffee, kotitekoinen"
+  },
+  {
+    "id": "usda:19384",
+    "fi": "Divinity-makeinen, kotitekoinen"
+  },
+  {
+    "id": "usda:19387",
+    "fi": "Jäämehupuikko, ananas-kookos"
+  },
+  {
+    "id": "usda:19393",
+    "fi": "Pakastejogurtti, suklaa, pehmis"
+  },
+  {
+    "id": "usda:19400",
+    "fi": "Banaanilastu"
+  },
+  {
+    "id": "usda:19401",
+    "fi": "Paahdettu maissi, barbequemaustettu"
+  },
+  {
+    "id": "usda:19403",
+    "fi": "Riisimuro-mantelipatukka"
+  },
+  {
+    "id": "usda:19404",
+    "fi": "Myslipatukka, pehmeä, suklaahippu"
+  },
+  {
+    "id": "usda:19405",
+    "fi": "Myslipatukka, pehmeä, suklaahippu ja vaahtokarkki"
+  },
+  {
+    "id": "usda:19406",
+    "fi": "Myslipatukka, pehmeä, pähkinä ja rusina"
+  },
+  {
+    "id": "usda:19407",
+    "fi": "Naudanlihavälipalatikku, savustettu"
+  },
+  {
+    "id": "usda:19408",
+    "fi": "Porsaanrasvannahka, barbequemaustettu"
+  },
+  {
+    "id": "usda:19410",
+    "fi": "Perunalastu, kuivatuista perunoista, maustamaton"
+  },
+  {
+    "id": "usda:19411",
+    "fi": "Perunalastu, suolattu"
+  },
+  {
+    "id": "usda:19412",
+    "fi": "Perunalastu, kuivatuista perunoista, juustonmakuinen"
+  },
+  {
+    "id": "usda:19413",
+    "fi": "Riisikakku, täysjyväriisi ja maissi"
+  },
+  {
+    "id": "usda:19414",
+    "fi": "Riisikakku, täysjyväriisi ja monivilja"
+  },
+  {
+    "id": "usda:19415",
+    "fi": "Perunatikku"
+  },
+  {
+    "id": "usda:19416",
+    "fi": "Riisikakku, täysjyväriisi ja ruis"
+  },
+  {
+    "id": "usda:19418",
+    "fi": "Seesaminsiementikku, vehnäpohjainen, suolattu"
+  },
+  {
+    "id": "usda:19419",
+    "fi": "Maissikakku"
+  },
+  {
+    "id": "usda:19420",
+    "fi": "Myslipatukka, kova, maapähkinävoi"
+  },
+  {
+    "id": "usda:19421",
+    "fi": "Perunalastu, juustonmakuinen"
+  },
+  {
+    "id": "usda:19422",
+    "fi": "Perunalastu, vähärasvainen"
+  },
+  {
+    "id": "usda:19423",
+    "fi": "Perunalastu, rasvaton, olestralla"
+  },
+  {
+    "id": "usda:19424",
+    "fi": "Tortillalastu, nachonmakuinen, vähärasvainen"
+  },
+  {
+    "id": "usda:19433",
+    "fi": "Tortillalastu, vähärasvainen, rasvattomasti paistettu"
+  },
+  {
+    "id": "usda:19434",
+    "fi": "Juustonaksu, maissipohjainen, paistettu, vähärasvainen"
+  },
+  {
+    "id": "usda:19435",
+    "fi": "Myslipatukka, hedelmätäytteinen, rasvaton"
+  },
+  {
+    "id": "usda:19436",
+    "fi": "Popcorn, karamellisiirappi, rasvaton"
+  },
+  {
+    "id": "usda:19437",
+    "fi": "Perunalastu, rasvaton, suolattu"
+  },
+  {
+    "id": "usda:19444",
+    "fi": "Tortillalastu, nachojuustonmakuinen, vähärasvainen, olestralla"
+  },
+  {
+    "id": "usda:19445",
+    "fi": "Perunalastu, kuivatuista perunoista, rasvaton, olestralla"
+  },
+  {
+    "id": "usda:19524",
+    "fi": "Taro-lastu"
+  },
+  {
+    "id": "usda:19701",
+    "fi": "Suklaa, puolimakea, voilla valmistettu"
+  },
+  {
+    "id": "usda:19702",
+    "fi": "Liivatejälkiruoka, kuivaseos, vitamiineilla ja suolalla"
+  },
+  {
+    "id": "usda:19703",
+    "fi": "Liivatejälkiruoka, kuivaseos, kevyt, aspartaamilla"
+  },
+  {
+    "id": "usda:19705",
+    "fi": "Banaanivanukas, kuivaseos, pikavalmiste, lisätty öljyä"
+  },
+  {
+    "id": "usda:19706",
+    "fi": "Banaanivanukas, kuivaseos, keitettävä, lisätty öljyä"
+  },
+  {
+    "id": "usda:19708",
+    "fi": "Sitruunavanukas, kuivaseos, keitettävä, lisätty öljyä"
+  },
+  {
+    "id": "usda:19709",
+    "fi": "Tapiokavanukas, kuivaseos, suolaton"
+  },
+  {
+    "id": "usda:19710",
+    "fi": "Vaniljavanukas, kuivaseos, keitettävä, lisätty öljyä"
+  },
+  {
+    "id": "usda:19719",
+    "fi": "Aprikoosihillo"
+  },
+  {
+    "id": "usda:19720",
+    "fi": "Pannukakkusiirappi, vaahteraa 2 %"
+  },
+  {
+    "id": "usda:19800",
+    "fi": "Maissikakku, erittäin vähäsuolainen"
+  },
+  {
+    "id": "usda:19802",
+    "fi": "Maissinaksu, juustonmakuinen"
+  },
+  {
+    "id": "usda:19804",
+    "fi": "Maissilastu, barbequemaustettu"
+  },
+  {
+    "id": "usda:19806",
+    "fi": "Popcorn, ilmapokattu, suolaton"
+  },
+  {
+    "id": "usda:19807",
+    "fi": "Popcorn, öljyssä pokattu, valkoinen, suolattu"
+  },
+  {
+    "id": "usda:19809",
+    "fi": "Perunalastu, soijaöljyllä valmistettu, suolattu"
+  },
+  {
+    "id": "usda:19810",
+    "fi": "Perunalastu, soijaöljyllä valmistettu, suolaton"
+  },
+  {
+    "id": "usda:19811",
+    "fi": "Perunalastu, suolaton"
+  },
+  {
+    "id": "usda:19812",
+    "fi": "Suolatikku, kova, suolattu"
+  },
+  {
+    "id": "usda:19813",
+    "fi": "Suolatikku, kova, suolaton"
+  },
+  {
+    "id": "usda:19814",
+    "fi": "Suolatikku, kova, suolaton"
+  },
+  {
+    "id": "usda:19816",
+    "fi": "Riisikakku, täysjyväriisi, suolaton"
+  },
+  {
+    "id": "usda:19817",
+    "fi": "Riisikakku, täysjyväriisi ja tattari, suolaton"
+  },
+  {
+    "id": "usda:19818",
+    "fi": "Riisikakku, täysjyväriisi ja monivilja, suolaton"
+  },
+  {
+    "id": "usda:19819",
+    "fi": "Riisikakku, täysjyväriisi ja seesami, suolaton"
+  },
+  {
+    "id": "usda:19820",
+    "fi": "Seesaminsiementikku, vehnäpohjainen, suolaton"
+  },
+  {
+    "id": "usda:19821",
+    "fi": "Retkievässekoitus, suolaton"
+  },
+  {
+    "id": "usda:19822",
+    "fi": "Retkievässekoitus, suklaahipuilla, suolaton"
+  },
+  {
+    "id": "usda:19823",
+    "fi": "Perunalastu, vähärasvainen, suolaton"
+  },
+  {
+    "id": "usda:19833",
+    "fi": "Tortillalastu, vähärasvainen, suolaton"
+  },
+  {
+    "id": "usda:19857",
+    "fi": "Tortillalastu, nachonmakuinen"
+  },
+  {
+    "id": "usda:19858",
+    "fi": "Manteli, sokerikuorrutettu"
+  },
+  {
+    "id": "usda:19859",
+    "fi": "Kaakaojauhe, runsasrasvainen"
+  },
+  {
+    "id": "usda:19860",
+    "fi": "Kaakaojauhe, runsasrasvainen, alkalisoitu"
+  },
+  {
+    "id": "usda:19866",
+    "fi": "Hedelmä-pähkinäpala, pehmeä"
+  },
+  {
+    "id": "usda:19867",
+    "fi": "Vaniljajäätelö, rasvaton"
+  },
+  {
+    "id": "usda:19898",
+    "fi": "Vaniljajäätelö, vähähiilihydraattinen"
+  },
+  {
+    "id": "usda:19899",
+    "fi": "Suklaajäätelö, vähähiilihydraattinen"
+  },
+  {
+    "id": "usda:19902",
+    "fi": "Tumma suklaa, kaakaota 45–59 %"
+  },
+  {
+    "id": "usda:19903",
+    "fi": "Tumma suklaa, kaakaota 60–69 %"
+  },
+  {
+    "id": "usda:19904",
+    "fi": "Tumma suklaa, kaakaota 70–85 %"
+  },
+  {
+    "id": "usda:19906",
+    "fi": "Leivontamakeuttaja, ruskea, sokeria ja sukraloosia"
+  },
+  {
+    "id": "usda:19907",
+    "fi": "Leivontamakeuttaja, sokeria ja sukraloosia"
+  },
+  {
+    "id": "usda:19908",
+    "fi": "Turbinadosokeri"
+  },
+  {
+    "id": "usda:19909",
+    "fi": "Makeutusaine, ruskea, rakeinen"
+  },
+  {
+    "id": "usda:19910",
+    "fi": "Rapea patukka, maapähkinävoitäytteinen"
+  },
+  {
+    "id": "usda:19911",
+    "fi": "Vaahterasiirappi, kanadalainen"
+  },
+  {
+    "id": "usda:19912",
+    "fi": "Agavesiirappi"
+  },
+  {
+    "id": "usda:19918",
+    "fi": "Steviajauhe"
+  },
+  {
+    "id": "usda:19919",
+    "fi": "Hedelmämakeinen"
+  },
+  {
+    "id": "usda:19920",
+    "fi": "Hillo, hedelmämehulla makeutettu"
+  },
+  {
+    "id": "usda:19921",
+    "fi": "Tamarindikaramelli"
+  },
+  {
+    "id": "usda:19922",
+    "fi": "Kookospatukka, ilman suklaakuorrutetta"
+  },
+  {
+    "id": "usda:20001",
+    "fi": "Amarantti, jyvä, raaka"
+  },
+  {
+    "id": "usda:20003",
+    "fi": "Arrowjuurijauho"
+  },
+  {
+    "id": "usda:20004",
+    "fi": "Ohra, kuorittu"
+  },
+  {
+    "id": "usda:20005",
+    "fi": "Ohra, suurimo, raaka"
+  },
+  {
+    "id": "usda:20008",
+    "fi": "Tattari"
+  },
+  {
+    "id": "usda:20011",
+    "fi": "Tattarijauho, täysjyvä"
+  },
+  {
+    "id": "usda:20012",
+    "fi": "Bulgur, kuiva"
+  },
+  {
+    "id": "usda:20014",
+    "fi": "Maissi, jyvä, keltainen"
+  },
+  {
+    "id": "usda:20015",
+    "fi": "Maissilese"
+  },
+  {
+    "id": "usda:20016",
+    "fi": "Maissijauho, täysjyvä, keltainen"
+  },
+  {
+    "id": "usda:20017",
+    "fi": "Masa harina, valkoinen"
+  },
+  {
+    "id": "usda:20018",
+    "fi": "Maissijauho, keltainen, alkioton"
+  },
+  {
+    "id": "usda:20019",
+    "fi": "Masa harina, valkoinen"
+  },
+  {
+    "id": "usda:20020",
+    "fi": "Maissisuurimo, täysjyvä, keltainen"
+  },
+  {
+    "id": "usda:20022",
+    "fi": "Maissisuurimo, alkioton, keltainen"
+  },
+  {
+    "id": "usda:20023",
+    "fi": "Maissisuurimo, keltainen, itsestään kohoava"
+  },
+  {
+    "id": "usda:20024",
+    "fi": "Maissisuurimo, keltainen, itsestään kohoava, vehnäjauhoa lisätty"
+  },
+  {
+    "id": "usda:20025",
+    "fi": "Maissisuurimo, keltainen, alkioton, itsestään kohoava"
+  },
+  {
+    "id": "usda:20027",
+    "fi": "Maissitärkkelys"
+  },
+  {
+    "id": "usda:20028",
+    "fi": "Kuskus, kuiva"
+  },
+  {
+    "id": "usda:20030",
+    "fi": "Hominy, valkoinen, säilyke"
+  },
+  {
+    "id": "usda:20031",
+    "fi": "Hirssi, raaka"
+  },
+  {
+    "id": "usda:20033",
+    "fi": "Kauralese, raaka"
+  },
+  {
+    "id": "usda:20035",
+    "fi": "Kvinoa, raaka"
+  },
+  {
+    "id": "usda:20036",
+    "fi": "Täysjyväriisi, pitkäjyväinen, raaka"
+  },
+  {
+    "id": "usda:20038",
+    "fi": "Kaura"
+  },
+  {
+    "id": "usda:20040",
+    "fi": "Täysjyväriisi, keskijyväinen, raaka"
+  },
+  {
+    "id": "usda:20044",
+    "fi": "Riisi, valkoinen, pitkäjyväinen, raaka"
+  },
+  {
+    "id": "usda:20046",
+    "fi": "Riisi, valkoinen, pitkäjyväinen, esikypsytetty, kuiva"
+  },
+  {
+    "id": "usda:20048",
+    "fi": "Riisi, valkoinen, pitkäjyväinen, pikariisi, kuiva"
+  },
+  {
+    "id": "usda:20050",
+    "fi": "Riisi, valkoinen, keskijyväinen, raaka"
+  },
+  {
+    "id": "usda:20052",
+    "fi": "Riisi, valkoinen, lyhytjyväinen, raaka"
+  },
+  {
+    "id": "usda:20054",
+    "fi": "Riisi, valkoinen, tahmea, raaka"
+  },
+  {
+    "id": "usda:20060",
+    "fi": "Riisilese"
+  },
+  {
+    "id": "usda:20061",
+    "fi": "Riisijauho, valkoinen"
+  },
+  {
+    "id": "usda:20062",
+    "fi": "Ruis, jyvä"
+  },
+  {
+    "id": "usda:20063",
+    "fi": "Ruisjauho, tumma"
+  },
+  {
+    "id": "usda:20064",
+    "fi": "Ruisjauho, puolikarkea"
+  },
+  {
+    "id": "usda:20065",
+    "fi": "Ruisjauho, vaalea"
+  },
+  {
+    "id": "usda:20066",
+    "fi": "Semolina"
+  },
+  {
+    "id": "usda:20067",
+    "fi": "Durra, jyvä"
+  },
+  {
+    "id": "usda:20068",
+    "fi": "Tapiokahelmi, kuiva"
+  },
+  {
+    "id": "usda:20069",
+    "fi": "Ruisvehnä"
+  },
+  {
+    "id": "usda:20070",
+    "fi": "Ruisvehnäjauho, täysjyvä"
+  },
+  {
+    "id": "usda:20071",
+    "fi": "Kevätvehnä, kova punainen"
+  },
+  {
+    "id": "usda:20072",
+    "fi": "Talvivehnä, kova punainen"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:12086",
+    "fi": "Cashewpähkinä, öljypaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12087",
+    "fi": "Cashewpähkinä, raaka"
+  },
+  {
+    "id": "usda:12088",
+    "fi": "Cashewvoi, suolaton"
+  },
+  {
+    "id": "usda:12093",
+    "fi": "Kastanja, kiinalainen, raaka"
+  },
+  {
+    "id": "usda:12094",
+    "fi": "Kastanja, kiinalainen, kuivattu"
+  },
+  {
+    "id": "usda:12095",
+    "fi": "Kastanja, kiinalainen, keitetty tai höyrytetty"
+  },
+  {
+    "id": "usda:12096",
+    "fi": "Kastanja, kiinalainen, paahdettu"
+  },
+  {
+    "id": "usda:12097",
+    "fi": "Kastanja, eurooppalainen, raaka, kuorimaton"
+  },
+  {
+    "id": "usda:12098",
+    "fi": "Kastanja, eurooppalainen, raaka, kuorittu"
+  },
+  {
+    "id": "usda:12099",
+    "fi": "Kastanja, eurooppalainen, kuivattu, kuorimaton"
+  },
+  {
+    "id": "usda:12100",
+    "fi": "Kastanja, eurooppalainen, kuivattu, kuorittu"
+  },
+  {
+    "id": "usda:12101",
+    "fi": "Kastanja, eurooppalainen, keitetty tai höyrytetty"
+  },
+  {
+    "id": "usda:12104",
+    "fi": "Kookosliha, raaka"
+  },
+  {
+    "id": "usda:12108",
+    "fi": "Kookoshiutale, kuivattu, makeuttamaton"
+  },
+  {
+    "id": "usda:12109",
+    "fi": "Kookoshiutale, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:12110",
+    "fi": "Kookoshiutale, kuivattu, makeutettu, säilyke"
+  },
+  {
+    "id": "usda:12114",
+    "fi": "Kookoshiutale, kuivattu, paahdettu"
+  },
+  {
+    "id": "usda:12115",
+    "fi": "Kookoskerma, raaka"
+  },
+  {
+    "id": "usda:12116",
+    "fi": "Kookoskerma, säilyke, makeutettu"
+  },
+  {
+    "id": "usda:12117",
+    "fi": "Kookosmaito, raaka"
+  },
+  {
+    "id": "usda:12118",
+    "fi": "Kookosmaito, säilyke"
+  },
+  {
+    "id": "usda:12119",
+    "fi": "Kookosvesi"
+  },
+  {
+    "id": "usda:12120",
+    "fi": "Hasselpähkinä"
+  },
+  {
+    "id": "usda:12121",
+    "fi": "Hasselpähkinä, kuorittu"
+  },
+  {
+    "id": "usda:12122",
+    "fi": "Hasselpähkinä, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12127",
+    "fi": "Ginkgopähkinä, raaka"
+  },
+  {
+    "id": "usda:12128",
+    "fi": "Ginkgopähkinä, kuivattu"
+  },
+  {
+    "id": "usda:12129",
+    "fi": "Ginkgopähkinä, säilyke"
+  },
+  {
+    "id": "usda:12130",
+    "fi": "Hikkoripähkinä, kuivattu"
+  },
+  {
+    "id": "usda:12131",
+    "fi": "Macadamiapähkinä, raaka"
+  },
+  {
+    "id": "usda:12132",
+    "fi": "Macadamiapähkinä, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12135",
+    "fi": "Sekapähkinä, kuivapaahdettu, maapähkinällä, suolaton"
+  },
+  {
+    "id": "usda:12137",
+    "fi": "Sekapähkinä, öljypaahdettu, maapähkinällä, suolaton"
+  },
+  {
+    "id": "usda:12138",
+    "fi": "Sekapähkinä, öljypaahdettu, ilman maapähkinää, suolaton"
+  },
+  {
+    "id": "usda:12140",
+    "skip": "ei kotiruoan aines (muotoiltu välipalatuote)"
+  },
+  {
+    "id": "usda:12142",
+    "fi": "Pekaanipähkinä"
+  },
+  {
+    "id": "usda:12143",
+    "fi": "Pekaanipähkinä, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12144",
+    "fi": "Pekaanipähkinä, öljypaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12145",
+    "fi": "Pilinpähkinä, kuivattu"
+  },
+  {
+    "id": "usda:12147",
+    "fi": "Pinjansiemen, kuivattu"
+  },
+  {
+    "id": "usda:12149",
+    "fi": "Pinjansiemen, pinyon, kuivattu"
+  },
+  {
+    "id": "usda:12151",
+    "fi": "Pistaasipähkinä, raaka"
+  },
+  {
+    "id": "usda:12152",
+    "fi": "Pistaasipähkinä, kuivapaahdettu, suolaton"
+  },
+  {
+    "id": "usda:12154",
+    "fi": "Saksanpähkinä, musta, kuivattu"
+  },
+  {
+    "id": "usda:12155",
+    "fi": "Saksanpähkinä"
+  },
+  {
+    "id": "usda:12156",
+    "fi": "Saksanpähkinä, kuorrutettu"
+  },
+  {
+    "id": "usda:12157",
+    "fi": "Saksanpähkinä, kuivapaahdettu, suolattu"
+  },
+  {
+    "id": "usda:12158",
+    "fi": "Leipäpuun siemen, paahdettu"
+  },
+  {
+    "id": "usda:12160",
+    "fi": "Puuvillansiemen, kuorittu, paahdettu"
+  },
+  {
+    "id": "usda:12163",
+    "fi": "Kurpitsansiemen, kokonainen, paahdettu, suolaton"
+  },
+  {
+    "id": "usda:12166",
+    "fi": "Tahini, paahdetuista seesaminsiemenistä"
+  },
+  {
+    "id": "usda:12167",
+    "fi": "Kastanja, eurooppalainen, paahdettu"
+  },
+  {
+    "id": "usda:12169",
+    "fi": "Seesamitahna"
+  },
+  {
+    "id": "usda:12170",
+    "fi": "Seesamijauho, runsasrasvainen"
+  },
+  {
+    "id": "usda:12171",
+    "fi": "Tahini, paahtamattomista seesaminsiemenistä"
+  },
+  {
+    "id": "usda:12174",
+    "fi": "Vesimeloninsiemen, kuorittu, kuivattu"
+  },
+  {
+    "id": "usda:12175",
+    "fi": "Kastanja, japanilainen, kuivattu"
+  },
+  {
+    "id": "usda:12176",
+    "fi": "Kookosmaito, pakaste"
+  },
+  {
+    "id": "usda:12177",
+    "fi": "Kookosmassa, kuivattu"
+  },
+  {
+    "id": "usda:12179",
+    "fi": "Kookosraaste, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:12193",
+    "fi": "Sisymbrium-siemen, kokonainen, kuivattu"
+  },
+  {
+    "id": "usda:12195",
+    "fi": "Mantelivoi, suolaton"
+  },
+  {
+    "id": "usda:12198",
+    "fi": "Tahini, raaasta kivijauhetusta seesamista"
+  },
+  {
+    "id": "usda:12200",
+    "skip": "ei kotiruoan aines (muotoiltu välipalatuote)"
+  },
+  {
+    "id": "usda:12201",
+    "fi": "Seesaminsiemen, kuorittu, kuivattu"
+  },
+  {
+    "id": "usda:12202",
+    "fi": "Kastanja, japanilainen, raaka"
+  },
+  {
+    "id": "usda:12203",
+    "fi": "Kastanja, japanilainen, keitetty tai höyrytetty"
+  },
+  {
+    "id": "usda:12204",
+    "fi": "Kastanja, japanilainen, paahdettu"
+  },
+  {
+    "id": "usda:12205",
+    "fi": "Lootuksensiemen, raaka"
+  },
+  {
+    "id": "usda:12206",
+    "fi": "Manteli, hunajapaahdettu, kuorimaton"
+  },
+  {
+    "id": "usda:12220",
+    "fi": "Pellavansiemen"
+  },
+  {
+    "id": "usda:12536",
+    "fi": "Auringonkukansiemen, kuorittu, kuivapaahdettu, suolattu"
+  },
+  {
+    "id": "usda:12567",
+    "fi": "Manteli, öljypaahdettu, suolattu, savunmakuinen"
+  },
+  {
+    "id": "usda:12665",
+    "fi": "Manteli, öljypaahdettu, kevyesti suolattu"
+  },
+  {
+    "id": "usda:12698",
+    "fi": "Tahini"
+  },
+  {
+    "id": "usda:12737",
+    "fi": "Sekapähkinä, öljypaahdettu, maapähkinällä, kevyesti suolattu"
+  },
+  {
+    "id": "usda:12738",
+    "fi": "Sekapähkinä, öljypaahdettu, ilman maapähkinää, kevyesti suolattu"
+  },
+  {
+    "id": "usda:13000",
+    "fi": "Naudan ulkofilee, ruoholla ruokittu, pihvi, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13001",
+    "fi": "Naudanruho, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13023",
+    "fi": "Naudanrinta, kokonainen, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13047",
+    "fi": "Naudanjauheliha, ruoholla ruokittu, raaka"
+  },
+  {
+    "id": "usda:13065",
+    "fi": "Naudan kuve, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13095",
+    "fi": "Naudan entrecôte, pieni pää, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13147",
+    "fi": "Naudan lyhytkylki, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13227",
+    "fi": "Naudanpotka, poikkileikkaus, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13231",
+    "fi": "Porterhousepihvi, naudan lyhyt ulkofilee, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13235",
+    "fi": "T-bone-pihvi, naudan lyhyt ulkofilee, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13284",
+    "fi": "Naudan entrecôte, pieni pää, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13293",
+    "fi": "Naudan etuselkä, under blade, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13318",
+    "fi": "Naudanaivot, raaka"
+  },
+  {
+    "id": "usda:13321",
+    "fi": "Naudansydän, raaka"
+  },
+  {
+    "id": "usda:13323",
+    "fi": "Naudanmunuainen, raaka"
+  },
+  {
+    "id": "usda:13325",
+    "fi": "Naudanmaksa, raaka"
+  },
+  {
+    "id": "usda:13328",
+    "fi": "Naudankeuhko, raaka"
+  },
+  {
+    "id": "usda:13330",
+    "fi": "Naudanliha, mekaanisesti erotettu, raaka"
+  },
+  {
+    "id": "usda:13331",
+    "fi": "Naudanhaima, raaka"
+  },
+  {
+    "id": "usda:13333",
+    "fi": "Naudanperna, raaka"
+  },
+  {
+    "id": "usda:13335",
+    "fi": "Naudanmunaistali, raaka"
+  },
+  {
+    "id": "usda:13337",
+    "fi": "Naudankateenkorva, raaka"
+  },
+  {
+    "id": "usda:13339",
+    "fi": "Naudankieli, raaka"
+  },
+  {
+    "id": "usda:13341",
+    "fi": "Naudanmaha, raaka"
+  },
+  {
+    "id": "usda:13342",
+    "fi": "Naudan minuuttipihvi, muotoiltu, raaka"
+  },
+  {
+    "id": "usda:13344",
+    "fi": "Naudan aamiaispekoni, suolattu, raaka"
+  },
+  {
+    "id": "usda:13346",
+    "fi": "Suolaliha, naudanrinta, raaka"
+  },
+  {
+    "id": "usda:13348",
+    "fi": "Suolaliha, naudanliha, säilyke"
+  },
+  {
+    "id": "usda:13350",
+    "fi": "Kuivaliha, naudanliha"
+  },
+  {
+    "id": "usda:13353",
+    "fi": "Naudan lihahyytelöleikkele"
+  },
+  {
+    "id": "usda:13355",
+    "fi": "Pastrami, naudanliha"
+  },
+  {
+    "id": "usda:13356",
+    "fi": "Denver-pihvi, naudan etuselkä, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13358",
+    "fi": "Savustettu naudanliha, hienonnettu"
+  },
+  {
+    "id": "usda:13486",
+    "fi": "Naudanpaisti, pyöröpaistin kärki, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13498",
+    "fi": "Naudanjauheliha, rasvaa 30 %, raaka"
+  },
+  {
+    "id": "usda:13519",
+    "fi": "Naudan lapa, top blade -pihvi, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13595",
+    "fi": "Naudanrinta, litteä puolikas, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13647",
+    "fi": "Naudan lapa, patapaisti tai pihvi, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:13786",
+    "fi": "Naudan etuselkäpaisti, chuck eye, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13795",
+    "fi": "Naudanliha, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13805",
+    "fi": "Naudanrinta, litteä puolikas, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13807",
+    "fi": "Naudanrinta, kärkiosa, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13809",
+    "fi": "Naudan etuselkä, lapapaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13815",
+    "fi": "Naudan etuselkä, lapapaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13824",
+    "fi": "Naudan kylki, kokonainen, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13838",
+    "fi": "Naudan kylki, iso pää, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13850",
+    "fi": "Naudan kylki, pieni pää, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13864",
+    "fi": "Naudanpaisti, pyöröpaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13868",
+    "fi": "Naudanpaisti, alakierros, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13877",
+    "fi": "Naudanpaisti, silmäpaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13883",
+    "fi": "Naudanpaisti, kärkipaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13891",
+    "fi": "Naudanpaisti, sisäpaisti, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13901",
+    "fi": "Naudanpaisti, sisäpaisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13907",
+    "fi": "T-bone-pihvi, naudan lyhyt ulkofilee, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13909",
+    "fi": "Naudan ulkofilee, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13911",
+    "fi": "Naudan ulkofilee, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13917",
+    "fi": "Naudan sisäfilee, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13926",
+    "fi": "Naudan sisäfilee, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13929",
+    "fi": "Naudan paahtopaisti, pihvi, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:13954",
+    "fi": "Naudan tri-tip-paisti, vähärasvainen ja rasva, raaka"
+  },
+  {
+    "id": "usda:14003",
+    "fi": "Olut"
+  },
+  {
+    "id": "usda:14006",
+    "fi": "Olut, kevyt"
+  },
+  {
+    "id": "usda:14009",
+    "fi": "Daiquiri, tölkki"
+  },
+  {
+    "id": "usda:14010",
+    "fi": "Daiquiri, kotitekoinen"
+  },
+  {
+    "id": "usda:14013",
+    "fi": "Olut, kevyt, vähähiilihydraattinen"
+  },
+  {
+    "id": "usda:14015",
+    "fi": "Pina colada, tölkki"
+  },
+  {
+    "id": "usda:14016",
+    "fi": "Mantelimaito, vanilja, makeutettu"
+  },
+  {
+    "id": "usda:14017",
+    "fi": "Pina colada, kotitekoinen"
+  },
+  {
+    "id": "usda:14019",
+    "fi": "Tequila sunrise, tölkki"
+  },
+  {
+    "id": "usda:14021",
+    "fi": "Energiajuoma, sitrus"
+  },
+  {
+    "id": "usda:14024",
+    "fi": "Whiskey sour -juomaseos, jauhe"
+  },
+  {
+    "id": "usda:14025",
+    "fi": "Whiskey sour, jauhesekoituksesta"
+  },
+  {
+    "id": "usda:14027",
+    "fi": "Whiskey sour, tölkki"
+  },
+  {
+    "id": "usda:14028",
+    "fi": "Whiskey sour -juomaseos, pullotettu"
+  },
+  {
+    "id": "usda:14029",
+    "fi": "Whiskey sour, juomaseoksesta"
+  },
+  {
+    "id": "usda:14031",
+    "fi": "Maustettu vesi, yangmei ja granaattiomena, kaloriton"
+  },
+  {
+    "id": "usda:14034",
+    "fi": "Crème de menthe -likööri"
+  },
+  {
+    "id": "usda:14037",
+    "fi": "Väkevä alkoholijuoma"
+  },
+  {
+    "id": "usda:14049",
+    "fi": "Gin"
+  },
+  {
+    "id": "usda:14050",
+    "fi": "Rommi"
+  },
+  {
+    "id": "usda:14051",
+    "fi": "Vodka"
+  },
+  {
+    "id": "usda:14052",
+    "fi": "Viski"
+  },
+  {
+    "id": "usda:14054",
+    "fi": "Mantelimaito, suklaa"
+  },
+  {
+    "id": "usda:14056",
+    "fi": "Acai-juoma"
+  },
+  {
+    "id": "usda:14057",
+    "fi": "Jälkiruokaviini, makea"
+  },
+  {
+    "id": "usda:14058",
+    "skip": "ei ruoanlaittoaines (proteiinijauhe)"
+  },
+  {
+    "id": "usda:14060",
+    "fi": "Energiajuoma, hiilihapotettu, sokerilla makeutettu"
+  },
+  {
+    "id": "usda:14061",
+    "fi": "Energiajuoma, sokeriton"
+  },
+  {
+    "id": "usda:14063",
+    "fi": "Suklaajuomajauhe, sokeriton"
+  },
+  {
+    "id": "usda:14064",
+    "fi": "Appelsiinimehu, kevyt, hedelmälihaton"
+  },
+  {
+    "id": "usda:14066",
+    "skip": "ei ruoanlaittoaines (proteiinijauhe)"
+  },
+  {
+    "id": "usda:14067",
+    "skip": "ei ruoanlaittoaines (proteiinijauhe)"
+  },
+  {
+    "id": "usda:14079",
+    "fi": "Sitrusvirvoitusjuoma, kofeiinipitoinen"
+  },
+  {
+    "id": "usda:14080",
+    "fi": "Suklaajuomajauhe"
+  },
+  {
+    "id": "usda:14083",
+    "fi": "Suklaamallasjuoma, rasvattomaan maitoon valmistettu"
+  },
+  {
+    "id": "usda:14084",
+    "fi": "Viini, pöytäviini"
+  },
+  {
+    "id": "usda:14090",
+    "fi": "Kookosvesi, makeuttamaton"
+  },
+  {
+    "id": "usda:14091",
+    "fi": "Mantelimaito, makeuttamaton"
+  },
+  {
+    "id": "usda:14092",
+    "fi": "Mantelimaito, suklaa, makeuttamaton"
+  },
+  {
+    "id": "usda:14096",
+    "fi": "Punaviini"
+  },
+  {
+    "id": "usda:14097",
+    "fi": "Punaviini, Cabernet Sauvignon"
+  },
+  {
+    "id": "usda:14098",
+    "fi": "Punaviini, Cabernet Franc"
+  },
+  {
+    "id": "usda:14099",
+    "fi": "Punaviini, Pinot Noir"
+  },
+  {
+    "id": "usda:14100",
+    "fi": "Punaviini, Syrah"
+  },
+  {
+    "id": "usda:14101",
+    "fi": "Punaviini, Barbera"
+  },
+  {
+    "id": "usda:14102",
+    "fi": "Punaviini, Zinfandel"
+  },
+  {
+    "id": "usda:14103",
+    "fi": "Punaviini, Petite Sirah"
+  },
+  {
+    "id": "usda:14105",
+    "fi": "Punaviini, Claret"
+  },
+  {
+    "id": "usda:14106",
+    "fi": "Valkoviini"
+  },
+  {
+    "id": "usda:14107",
+    "fi": "Punaviini, Lemberger"
+  },
+  {
+    "id": "usda:14108",
+    "fi": "Punaviini, Sangiovese"
+  },
+  {
+    "id": "usda:14109",
+    "fi": "Punaviini, Carignane"
+  },
+  {
+    "id": "usda:14113",
+    "fi": "Valkoviini, Pinot Gris"
+  },
+  {
+    "id": "usda:14116",
+    "fi": "Valkoviini, Chenin Blanc"
+  },
+  {
+    "id": "usda:14117",
+    "fi": "Valkoviini, Fumé Blanc"
+  },
+  {
+    "id": "usda:14119",
+    "fi": "Kasvis-hedelmämehusekoitus"
+  },
+  {
+    "id": "usda:14120",
+    "fi": "Valkoviini, Müller-Thurgau"
+  },
+  {
+    "id": "usda:14121",
+    "fi": "Soodavesi"
+  },
+  {
+    "id": "usda:14124",
+    "fi": "Valkoviini, Gewürztraminer"
+  },
+  {
+    "id": "usda:14125",
+    "fi": "Valkoviini, Gewürztraminer, myöhäissato"
+  },
+  {
+    "id": "usda:14126",
+    "fi": "Valkoviini, Sémillon"
+  },
+  {
+    "id": "usda:14130",
+    "fi": "Kermasooda"
+  },
+  {
+    "id": "usda:14132",
+    "fi": "Valkoviini, Riesling"
+  },
+  {
+    "id": "usda:14134",
+    "fi": "Valkoviini, Sauvignon Blanc"
+  },
+  {
+    "id": "usda:14135",
+    "fi": "Valkoviini, myöhäissato"
+  },
+  {
+    "id": "usda:14136",
+    "fi": "Inkiväärilimonaadi"
+  },
+  {
+    "id": "usda:14138",
+    "fi": "Valkoviini, Pinot Blanc"
+  },
+  {
+    "id": "usda:14140",
+    "fi": "Valkoviini, Muscat"
+  },
+  {
+    "id": "usda:14142",
+    "fi": "Rypälevirvoitusjuoma"
+  },
+  {
+    "id": "usda:14143",
+    "fi": "Virvoitusjuoma, vähäkalorinen, kofeiiniton"
+  },
+  {
+    "id": "usda:14144",
+    "fi": "Sitruuna-limevirvoitusjuoma, kofeiiniton"
+  },
+  {
+    "id": "usda:14146",
+    "fi": "Kolajuoma, vähäkalorinen, kofeiiniton"
+  },
+  {
+    "id": "usda:14147",
+    "fi": "Kolajuoma, kofeiiniton"
+  },
+  {
+    "id": "usda:14148",
+    "fi": "Kolajuoma"
+  },
+  {
+    "id": "usda:14149",
+    "fi": "Kolajuoma, vähäsokerinen, kofeiinipitoinen"
+  },
+  {
+    "id": "usda:14150",
+    "fi": "Appelsiinivirvoitusjuoma"
+  },
+  {
+    "id": "usda:14151",
+    "fi": "Virvoitusjuoma, vähäkalorinen, kofeiinipitoinen"
+  },
+  {
+    "id": "usda:14152",
+    "fi": "Punaviini, Burgundy"
+  },
+  {
+    "id": "usda:14153",
+    "fi": "Pippurityyppinen virvoitusjuoma, kofeiinipitoinen"
+  },
+  {
+    "id": "usda:14155",
+    "fi": "Tonic-vesi"
+  },
+  {
+    "id": "usda:14157",
+    "fi": "Root beer -virvoitusjuoma"
+  },
+  {
+    "id": "usda:14158",
+    "fi": "Punaviini, Gamay"
+  },
+  {
+    "id": "usda:14159",
+    "fi": "Punaviini, Mourvèdre"
+  },
+  {
+    "id": "usda:14160",
+    "fi": "Valkoviini, Chardonnay"
+  },
+  {
+    "id": "usda:14161",
+    "fi": "Kiivi-mansikkamehujuoma"
+  },
+  {
+    "id": "usda:14162",
+    "fi": "Omenamehujuoma, kevyt"
+  },
+  {
+    "id": "usda:14163",
+    "fi": "Suklaajuoma, maito- ja soijapohjainen"
+  },
+  {
+    "id": "usda:14164",
+    "fi": "Suklaamallasjuoma, maitoon rasvaa 1 % valmistettu"
+  },
+  {
+    "id": "usda:14165",
+    "fi": "Limeade-virvoitusjuoma, runsaskofeiininen"
+  },
+  {
+    "id": "usda:14166",
+    "fi": "Kolajuoma, vähäkalorinen, kofeiinipitoinen"
+  },
+  {
+    "id": "usda:14168",
+    "fi": "Johanneksenleipäjuomajauhe"
+  },
+  {
+    "id": "usda:14169",
+    "fi": "Johanneksenleipäjuoma, täysmaitoon valmistettu"
+  },
+  {
+    "id": "usda:14171",
+    "fi": "Kookosmaitojuoma, makeutettu"
+  },
+  {
+    "id": "usda:14173",
+    "fi": "Kahvijuoma, vanilja, kevyt, maitopohjainen, makeutettu"
+  },
+  {
+    "id": "usda:14174",
+    "fi": "Limonadi-mehujuoma, kevyt"
+  },
+  {
+    "id": "usda:14177",
+    "fi": "Suklaajuomajauhe, täysmaitoon valmistettu"
+  },
+  {
+    "id": "usda:14179",
+    "fi": "Kahvijuoma, maitopohjainen, makeutettu"
+  },
+  {
+    "id": "usda:14180",
+    "fi": "Kahvi, suodatettu, breakfast blend"
+  },
+  {
+    "id": "usda:14181",
+    "fi": "Suklaasiirappi"
+  },
+  {
+    "id": "usda:14182",
+    "fi": "Suklaamaito, suklaasiirapista, täysmaito"
+  },
+  {
+    "id": "usda:14183",
+    "fi": "Jääkahvi, mokka, maitopohjainen"
+  },
+  {
+    "id": "usda:14185",
+    "fi": "Oolongtee, haudutettu"
+  },
+  {
+    "id": "usda:14187",
+    "fi": "Simpukka-tomaattimehu, säilyke"
+  },
+  {
+    "id": "usda:14188",
+    "fi": "Vihreä tee, ginseng ja hunaja, makeutettu"
+  },
+  {
+    "id": "usda:14190",
+    "fi": "Vihreä tee, vähäkalorinen"
+  },
+  {
+    "id": "usda:14191",
+    "fi": "Vihreä tee, sitrus, vähäkalorinen"
+  },
+  {
+    "id": "usda:14192",
+    "fi": "Kaakaojuomajauhe"
+  },
+  {
+    "id": "usda:14194",
+    "fi": "Kaakaojuoma, veteen valmistettu"
+  },
+  {
+    "id": "usda:14196",
+    "fi": "Kaakaojuomajauhe, sokeriton"
+  },
+  {
+    "id": "usda:14199",
+    "fi": "Musta tee, sitruuna, makeutettu"
+  },
+  {
+    "id": "usda:14201",
+    "fi": "Kahvi, suodatettu, kofeiiniton"
+  },
+  {
+    "id": "usda:14202",
+    "fi": "Espresso, kofeiiniton"
+  },
+  {
+    "id": "usda:14203",
+    "fi": "Pikakahvi, puolikofeiininen"
+  }
+]

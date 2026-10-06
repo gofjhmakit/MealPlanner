@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "livsmedelsverket:909",
+    "fi": "Soijakastike"
+  },
+  {
+    "id": "livsmedelsverket:910",
+    "fi": "Soijakastike, makea"
+  },
+  {
+    "id": "livsmedelsverket:911",
+    "fi": "Soijamakkara, säilyke, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:912",
+    "fi": "Soijajäätelö, maidoton, rasvaa 11 %"
+  },
+  {
+    "id": "livsmedelsverket:915",
+    "fi": "Soijapapupihvi, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:916",
+    "fi": "Kasvisgrillimakkara, soija-vehnäproteiini, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:920",
+    "fi": "Lampaanlapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:921",
+    "fi": "Lampaankyljys, raaka"
+  },
+  {
+    "id": "livsmedelsverket:922",
+    "fi": "Lampaanpotka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:923",
+    "fi": "Lampaanliha, selkä tai niska, raaka"
+  },
+  {
+    "id": "livsmedelsverket:924",
+    "fi": "Lampaanpaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:925",
+    "fi": "Lampaanjauheliha, raaka, rasvaa 20 %"
+  },
+  {
+    "id": "livsmedelsverket:926",
+    "fi": "Lampaankylki, raaka"
+  },
+  {
+    "id": "livsmedelsverket:927",
+    "fi": "Lampaankyljys, rasva poistettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:928",
+    "fi": "Jänis, liha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:930",
+    "fi": "Kuusipeura, lapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:931",
+    "fi": "Kuusipeura, paisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:932",
+    "fi": "Peura, ulkofilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:933",
+    "fi": "Hevosenliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:934",
+    "fi": "Vasikanlapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:935",
+    "fi": "Vasikanrinta, raaka"
+  },
+  {
+    "id": "livsmedelsverket:936",
+    "fi": "Vasikanfilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:937",
+    "fi": "Vasikanpaisti, kulmapaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:938",
+    "fi": "Vasikanpaisti, sisäpaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:939",
+    "fi": "Vasikankyljys, raaka"
+  },
+  {
+    "id": "livsmedelsverket:940",
+    "fi": "Vasikanpotka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:941",
+    "fi": "Vasikanpaisti, ulkopaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:942",
+    "fi": "Vasikankylki, raaka"
+  },
+  {
+    "id": "livsmedelsverket:943",
+    "fi": "Vasikan etuselkä, raaka"
+  },
+  {
+    "id": "livsmedelsverket:944",
+    "fi": "Kani, liha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:945",
+    "fi": "Naudan pihviliha, luullinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:946",
+    "fi": "Naudan ulkofilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:947",
+    "fi": "Naudanrinta, raaka"
+  },
+  {
+    "id": "livsmedelsverket:948",
+    "fi": "Naudanrinta, suolattu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:949",
+    "fi": "Naudan sisäfilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:950",
+    "fi": "Naudanpaisti, kulmapaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:951",
+    "fi": "Naudanjauheliha, raaka, rasvaa 10 %"
+  },
+  {
+    "id": "livsmedelsverket:953",
+    "fi": "Naudan etuselkä, rasva poistettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:954",
+    "fi": "Naudanpaisti, sisäpaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:955",
+    "fi": "Naudanpotka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:956",
+    "fi": "Naudanlapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:957",
+    "fi": "Paahtopaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:958",
+    "fi": "Naudan pyöröpaisti, suolattu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:959",
+    "fi": "Naudanpaisti, ulkopaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:960",
+    "fi": "Naudan entrecôte, raaka"
+  },
+  {
+    "id": "livsmedelsverket:961",
+    "fi": "Naudan pataliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:963",
+    "fi": "Naudanjauheliha, raaka, rasvaa 15 %"
+  },
+  {
+    "id": "livsmedelsverket:965",
+    "fi": "Poronpaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:966",
+    "fi": "Poronlapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:967",
+    "fi": "Poronkäristysliha, pakaste, raaka"
+  },
+  {
+    "id": "livsmedelsverket:968",
+    "fi": "Metsäkauris, liha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:969",
+    "fi": "Porsaanlapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:970",
+    "fi": "Porsaan sisäfilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:971",
+    "fi": "Porsaankyljys, rasvareuna 5 mm, raaka"
+  },
+  {
+    "id": "livsmedelsverket:972",
+    "fi": "Porsaankylki, luullinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:973",
+    "fi": "Porsaansorkka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:974",
+    "fi": "Joulukinkku, suolattu, raaka, rasvaa noin 3 %"
+  },
+  {
+    "id": "livsmedelsverket:975",
+    "fi": "Porsaan kylkiluu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:976",
+    "fi": "Porsaan picniclapa, raaka"
+  },
+  {
+    "id": "livsmedelsverket:977",
+    "fi": "Porsaan pataliha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:978",
+    "fi": "Porsaan kassler, raaka"
+  },
+  {
+    "id": "livsmedelsverket:980",
+    "fi": "Porsaanjauheliha, raaka, rasvaa 20 %"
+  },
+  {
+    "id": "livsmedelsverket:981",
+    "fi": "Porsaan lapapaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:982",
+    "fi": "Porsaankyljys, rasva poistettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:983",
+    "fi": "Porsaankyljys, rasvareuna 2 mm, raaka"
+  },
+  {
+    "id": "livsmedelsverket:984",
+    "fi": "Porsaanpotka, silava poistettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:985",
+    "fi": "Porsaankylki, palana, silavallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:986",
+    "fi": "Porsaankylki, viipale, silavallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:987",
+    "fi": "Porsaan flintapaisti, silavallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:988",
+    "fi": "Porsaan kinkku, sisäpaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:989",
+    "fi": "Porsaan kinkku, kulmapaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:990",
+    "fi": "Porsaan kinkku, ulkopaisti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:991",
+    "fi": "Porsaankylki, suolattu, viipale, raaka"
+  },
+  {
+    "id": "livsmedelsverket:992",
+    "fi": "Porsaanjauheliha, raaka, rasvaa 8 %"
+  },
+  {
+    "id": "livsmedelsverket:995",
+    "fi": "Hirvenkäristysliha, pakaste, raaka"
+  },
+  {
+    "id": "livsmedelsverket:996",
+    "fi": "Naudanhäntä, rasva poistettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:997",
+    "fi": "Porsaan kamara, raaka"
+  },
+  {
+    "id": "livsmedelsverket:998",
+    "fi": "Hevosenpaisti, savustettu"
+  },
+  {
+    "id": "livsmedelsverket:999",
+    "fi": "Naudan suolaliha, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:1000",
+    "fi": "Naudanliha, savustettu"
+  },
+  {
+    "id": "livsmedelsverket:1001",
+    "fi": "Poronpaisti, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1002",
+    "fi": "Poronliha, kuivattu"
+  },
+  {
+    "id": "livsmedelsverket:1003",
+    "fi": "Pekoni, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1004",
+    "fi": "Pekoni, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1005",
+    "fi": "Porsaanlapa, säilyke, hyytelössä 6–8 %"
+  },
+  {
+    "id": "livsmedelsverket:1006",
+    "fi": "Kassler, savustettu"
+  },
+  {
+    "id": "livsmedelsverket:1007",
+    "fi": "Kinkku, säilyke, hyytelössä 8–11 %"
+  },
+  {
+    "id": "livsmedelsverket:1008",
+    "fi": "Kinkku, ilmakuivattu, italialainen"
+  },
+  {
+    "id": "livsmedelsverket:1009",
+    "fi": "Kinkku, savustettu, rasvaa 6 %"
+  },
+  {
+    "id": "livsmedelsverket:1010",
+    "fi": "Kinkku, viipaloitu, savustettu, rasvaa 1–3 %"
+  },
+  {
+    "id": "livsmedelsverket:1011",
+    "fi": "Porsaankylki, savustettu"
+  },
+  {
+    "id": "livsmedelsverket:1012",
+    "fi": "Naudanliha, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1013",
+    "fi": "Naudan kuve, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1014",
+    "fi": "Naudan ulkofilee, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1017",
+    "fi": "Naudan entrecôte, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1018",
+    "fi": "Porsaanlapa, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1019",
+    "fi": "Porsaanliha, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1022",
+    "fi": "Porsaan kylkiluu, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1023",
+    "fi": "Porsaan sisäfilee, viipale, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1024",
+    "fi": "Porsaan kassler, viipale, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1025",
+    "fi": "Porsaankyljys, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1027",
+    "fi": "Porsaanpotka, keitetty, suolalla, silava poistettu"
+  },
+  {
+    "id": "livsmedelsverket:1028",
+    "fi": "Porsaanliha, grillattu"
+  },
+  {
+    "id": "livsmedelsverket:1029",
+    "fi": "Rullsyltta"
+  },
+  {
+    "id": "livsmedelsverket:1030",
+    "fi": "Porsaansorkka, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1031",
+    "fi": "Jänispaisti, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1032",
+    "fi": "Vasikanfilee, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1033",
+    "fi": "Vasikankyljys, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1034",
+    "fi": "Vasikanliha, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1035",
+    "fi": "Vasikanpaisti, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1036",
+    "fi": "Lampaankyljys, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1037",
+    "fi": "Lampaanpaisti, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1038",
+    "fi": "Naudan etuselkä, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1039",
+    "fi": "Naudanpaisti, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1042",
+    "fi": "Naudanrinta, suolattu, keitetty, suolaton"
+  },
+  {
+    "id": "livsmedelsverket:1043",
+    "fi": "Naudan käärylepaisti, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1044",
+    "fi": "Paahtopaisti, uunipaistettu"
+  },
+  {
+    "id": "livsmedelsverket:1045",
+    "fi": "Porsaankylki, uunipaistettu tai grillattu"
+  },
+  {
+    "id": "livsmedelsverket:1047",
+    "fi": "Metsäkauris, liha, uunipaistettu"
+  },
+  {
+    "id": "livsmedelsverket:1048",
+    "fi": "Poronliha, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1049",
+    "fi": "Poronliha, uunipaistettu"
+  },
+  {
+    "id": "livsmedelsverket:1050",
+    "fi": "Hirvenpaisti, uunipaistettu tai grillattu"
+  },
+  {
+    "id": "livsmedelsverket:1055",
+    "fi": "Porsaan kassler, kypsennetty, ilman paistolientä"
+  },
+  {
+    "id": "livsmedelsverket:1056",
+    "fi": "Porsaan kinkkupaisti, paistettu, pakaste"
+  },
+  {
+    "id": "livsmedelsverket:1057",
+    "fi": "Naudanpaisti, paistettu, pakaste"
+  },
+  {
+    "id": "livsmedelsverket:1058",
+    "fi": "Paahtopaisti, uunipaistettu, suolaton"
+  },
+  {
+    "id": "livsmedelsverket:1059",
+    "fi": "Porsaankylki, kypsennetty, ilman paistolientä"
+  },
+  {
+    "id": "livsmedelsverket:1064",
+    "fi": "Porsaankylki, suolattu, paneroitu, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1065",
+    "fi": "Porsaankyljys, paneroitu, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1066",
+    "fi": "Porsaanleike, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1101",
+    "fi": "Hampurilaispihvi, nauta, pakaste, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1103",
+    "fi": "Jauhelihapihvi, pakaste, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1151",
+    "fi": "Ankanrinta, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1153",
+    "fi": "Ankka, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1154",
+    "fi": "Kyyhkynen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1155",
+    "fi": "Kyyhkynen, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1156",
+    "fi": "Fasaani, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1157",
+    "fi": "Fasaani, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1158",
+    "fi": "Hanhi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1159",
+    "fi": "Hanhi, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1160",
+    "fi": "Kana, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1161",
+    "fi": "Kana, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1162",
+    "fi": "Kalkkunanfilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1163",
+    "fi": "Kalkkuna, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1164",
+    "fi": "Broilerinliha, nahaton, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1165",
+    "fi": "Broilerinliha, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1166",
+    "fi": "Broilerin rintafilee, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1167",
+    "fi": "Broilerin reisi, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1168",
+    "fi": "Broilerin siipi, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1169",
+    "fi": "Riekko, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1170",
+    "fi": "Broilerin rintafilee, nahaton, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1171",
+    "fi": "Broilerin koipi, nahallinen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1172",
+    "fi": "Broilerin rintafilee, suikaloitu, wokattu rypsiöljyllä"
+  },
+  {
+    "id": "livsmedelsverket:1173",
+    "fi": "Broilerin rintafilee, nahaton, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1174",
+    "fi": "Broilerin reisi, nahaton, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1175",
+    "fi": "Broilerin osa, marinoitu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1176",
+    "fi": "Strutsinfilee, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1177",
+    "fi": "Strutsinfilee, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1178",
+    "fi": "Kalkkuna, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:1180",
+    "fi": "Kyyhkynen, nahallinen, paistettu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1181",
+    "fi": "Broileri, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1182",
+    "fi": "Broileri, grillattu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1183",
+    "fi": "Fasaani, paistettu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1184",
+    "fi": "Hanhi, paistettu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1185",
+    "fi": "Kana, keitetty, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1186",
+    "fi": "Kalkkuna, paistettu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1188",
+    "fi": "Broilerin rintafilee, nahallinen, paistettu, suolalla"
+  },
+  {
+    "id": "livsmedelsverket:1189",
+    "fi": "Riekko, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1190",
+    "fi": "Broilerinliha, kypsennetty"
+  },
+  {
+    "id": "livsmedelsverket:1191",
+    "fi": "Kalkkuna, savustettu"
+  },
+  {
+    "id": "livsmedelsverket:1192",
+    "fi": "Broileri, marinoitu, grillattu, nahallinen"
+  },
+  {
+    "id": "livsmedelsverket:1193",
+    "fi": "Broileri, friteerattu taikinakuoressa"
+  },
+  {
+    "id": "livsmedelsverket:1200",
+    "fi": "Lahna, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1201",
+    "fi": "Kirjolohi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1202",
+    "fi": "Seiti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1203",
+    "fi": "Ruijanpallas, villi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1207",
+    "fi": "Broilerinugetti, friteerattu, ravintola"
+  },
+  {
+    "id": "livsmedelsverket:1210",
+    "fi": "Vasikanlihaliemi, tahna tai jauhe"
+  },
+  {
+    "id": "livsmedelsverket:1211",
+    "fi": "Vasikanlihaliemi, tahna tai jauhe, vähäsuolainen"
+  },
+  {
+    "id": "livsmedelsverket:1212",
+    "fi": "Lihaliemi, tahna tai jauhe"
+  },
+  {
+    "id": "livsmedelsverket:1213",
+    "fi": "Lihaliemi, tahna tai jauhe, vähäsuolainen"
+  },
+  {
+    "id": "livsmedelsverket:1214",
+    "fi": "Kinkkuliemi, tahna tai jauhe"
+  },
+  {
+    "id": "livsmedelsverket:1215",
+    "fi": "Kanaliemi, tahna tai jauhe, vähäsuolainen"
+  },
+  {
+    "id": "livsmedelsverket:1216",
+    "fi": "Kanaliemi, tahna tai jauhe"
+  },
+  {
+    "id": "livsmedelsverket:1217",
+    "fi": "Lihaliemi, jauhe tai kuutio"
+  },
+  {
+    "id": "livsmedelsverket:1218",
+    "fi": "Lihaliemi, säilyke, käyttövalmis"
+  },
+  {
+    "id": "livsmedelsverket:1219",
+    "fi": "Liivatelehti tai liivatejauhe"
+  },
+  {
+    "id": "livsmedelsverket:1222",
+    "fi": "Lihaliemikuutio, käyttövalmis"
+  },
+  {
+    "id": "livsmedelsverket:1223",
+    "fi": "Lihaliemi, käyttövalmis"
+  },
+  {
+    "id": "livsmedelsverket:1224",
+    "fi": "Kanaliemi, käyttövalmis"
+  },
+  {
+    "id": "livsmedelsverket:1225",
+    "fi": "Kananmuna, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1226",
+    "fi": "Kananmunankeltuainen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1227",
+    "fi": "Kananmunanvalkuainen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1233",
+    "fi": "Kananmuna, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1237",
+    "fi": "Kolja, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1238",
+    "fi": "Kummeliturska, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1240",
+    "fi": "Muikku, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1241",
+    "fi": "Silli, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1242",
+    "fi": "Kampela, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1243",
+    "fi": "Silakka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1244",
+    "fi": "Nieriä, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1246",
+    "fi": "Turska, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1247",
+    "fi": "Valkoturska, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1248",
+    "fi": "Ankerias, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1249",
+    "fi": "Taimen, kasvatettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1250",
+    "fi": "Kyttyrälohi, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1251",
+    "fi": "Piikkikampela, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1252",
+    "fi": "Siika, perattu, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1253",
+    "fi": "Ahven, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1255",
+    "fi": "Lohi, kasvatettu, norjalainen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1256",
+    "fi": "Taimen, ruotsalainen, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1257",
+    "fi": "Made, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1258",
+    "fi": "Punakampea, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1259",
+    "fi": "Siika, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1260",
+    "fi": "Makrilli, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1261",
+    "fi": "Kirjolohi, kasvatettu, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1262",
+    "fi": "Hauki, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1263",
+    "fi": "Kuha, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1265",
+    "fi": "Anjovis, kilohaili, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1266",
+    "fi": "Savusilakka, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1267",
+    "fi": "Kala, kuivattu"
+  },
+  {
+    "id": "livsmedelsverket:1269",
+    "fi": "Lohi, kylmäsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1270",
+    "fi": "Sardelli, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1271",
+    "fi": "Sardiini, öljyssä, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1272",
+    "fi": "Sardiini, tomaattikastikkeessa, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1273",
+    "fi": "Suolasilli, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1274",
+    "fi": "Suolasilakka, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1275",
+    "fi": "Tonnikala, öljyssä, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:1277",
+    "fi": "Ankerias, lämminsavustettu, pyöreäsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1278",
+    "fi": "Tonnikala, vedessä, säilyke, valutettu"
+  },
+  {
+    "id": "livsmedelsverket:1279",
+    "fi": "Makrilli, perattu, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1280",
+    "fi": "Lipeäkala, pakaste, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1281",
+    "fi": "Matjessilli, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1282",
+    "fi": "Merikrotti, raaka"
+  },
+  {
+    "id": "livsmedelsverket:1283",
+    "fi": "Makrillifilee, öljyssä, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1284",
+    "fi": "Suolasilli, liotettu, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1285",
+    "fi": "Lohi, graavattu"
+  },
+  {
+    "id": "livsmedelsverket:1286",
+    "fi": "Lohi, suolattu"
+  },
+  {
+    "id": "livsmedelsverket:1287",
+    "fi": "Savusilakka, kaksoisfilee, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1288",
+    "fi": "Lohi, perattu, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1289",
+    "fi": "Makrillifilee, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1290",
+    "fi": "Kirjolohi, kylmäsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1291",
+    "fi": "Kirjolohi, perattu, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1292",
+    "fi": "Nieriä, perattu, lämminsavustettu"
+  },
+  {
+    "id": "livsmedelsverket:1293",
+    "fi": "Ankerias, lämminsavustettu, avattuna savustettu"
+  },
+  {
+    "id": "livsmedelsverket:1294",
+    "fi": "Kalapuikko, paistettu"
+  },
+  {
+    "id": "livsmedelsverket:1296",
+    "fi": "Makrillifilee, tomaattikastikkeessa, säilyke"
+  },
+  {
+    "id": "livsmedelsverket:1297",
+    "fi": "Hapansilakka"
+  },
+  {
+    "id": "livsmedelsverket:1298",
+    "fi": "Lipeäkala, keitetty"
+  },
+  {
+    "id": "livsmedelsverket:1299",
+    "fi": "Suolasilli, paneroitu, paistettu, kotitekoinen"
+  }
+]

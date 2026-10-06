@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:1001",
+    "fi": "Voi, suolattu"
+  },
+  {
+    "id": "usda:1002",
+    "fi": "Voi, vaahdotettu, suolattu"
+  },
+  {
+    "id": "usda:1003",
+    "fi": "Voiöljy, vedetön"
+  },
+  {
+    "id": "usda:1004",
+    "fi": "Sinihomejuusto"
+  },
+  {
+    "id": "usda:1005",
+    "fi": "Brick-juusto"
+  },
+  {
+    "id": "usda:1006",
+    "fi": "Brie"
+  },
+  {
+    "id": "usda:1007",
+    "fi": "Camembert"
+  },
+  {
+    "id": "usda:1008",
+    "fi": "Kuminajuusto"
+  },
+  {
+    "id": "usda:1009",
+    "fi": "Cheddar"
+  },
+  {
+    "id": "usda:1010",
+    "fi": "Cheshirejuusto"
+  },
+  {
+    "id": "usda:1011",
+    "fi": "Colbyjuusto"
+  },
+  {
+    "id": "usda:1012",
+    "fi": "Raejuusto, kermainen"
+  },
+  {
+    "id": "usda:1013",
+    "fi": "Raejuusto, kermainen, hedelmällä"
+  },
+  {
+    "id": "usda:1014",
+    "fi": "Raejuusto, rasvaton, kuiva"
+  },
+  {
+    "id": "usda:1015",
+    "fi": "Raejuusto, vähärasvainen, rasvaa 2 %"
+  },
+  {
+    "id": "usda:1016",
+    "fi": "Raejuusto, vähärasvainen, rasvaa 1 %"
+  },
+  {
+    "id": "usda:1017",
+    "fi": "Tuorejuusto"
+  },
+  {
+    "id": "usda:1018",
+    "fi": "Edam"
+  },
+  {
+    "id": "usda:1019",
+    "fi": "Feta"
+  },
+  {
+    "id": "usda:1020",
+    "fi": "Fontina"
+  },
+  {
+    "id": "usda:1021",
+    "fi": "Gjetost"
+  },
+  {
+    "id": "usda:1022",
+    "fi": "Gouda"
+  },
+  {
+    "id": "usda:1023",
+    "fi": "Gruyère"
+  },
+  {
+    "id": "usda:1024",
+    "fi": "Limburger"
+  },
+  {
+    "id": "usda:1025",
+    "fi": "Monterey-juusto"
+  },
+  {
+    "id": "usda:1026",
+    "fi": "Mozzarella, täysmaito"
+  },
+  {
+    "id": "usda:1027",
+    "fi": "Mozzarella, täysmaito, vähäkosteinen"
+  },
+  {
+    "id": "usda:1028",
+    "fi": "Mozzarella, osittain rasvaton maito"
+  },
+  {
+    "id": "usda:1029",
+    "fi": "Mozzarella, vähäkosteinen, osittain rasvaton maito"
+  },
+  {
+    "id": "usda:1030",
+    "fi": "Muensterjuusto"
+  },
+  {
+    "id": "usda:1031",
+    "fi": "Neufchâtel"
+  },
+  {
+    "id": "usda:1032",
+    "fi": "Parmesaani, raastettu"
+  },
+  {
+    "id": "usda:1033",
+    "fi": "Parmesaani, kova"
+  },
+  {
+    "id": "usda:1034",
+    "fi": "Port Salut"
+  },
+  {
+    "id": "usda:1035",
+    "fi": "Provolone"
+  },
+  {
+    "id": "usda:1036",
+    "fi": "Ricotta, täysmaito"
+  },
+  {
+    "id": "usda:1037",
+    "fi": "Ricotta, osittain rasvaton maito"
+  },
+  {
+    "id": "usda:1038",
+    "fi": "Romanojuusto"
+  },
+  {
+    "id": "usda:1039",
+    "fi": "Roquefort"
+  },
+  {
+    "id": "usda:1040",
+    "fi": "Emmental"
+  },
+  {
+    "id": "usda:1041",
+    "fi": "Tilsit"
+  },
+  {
+    "id": "usda:1042",
+    "fi": "Sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1043",
+    "fi": "Sulatejuusto, pimento"
+  },
+  {
+    "id": "usda:1044",
+    "fi": "Sulatejuusto, emmental"
+  },
+  {
+    "id": "usda:1045",
+    "fi": "Juustovalmiste, kylmäpakattu, amerikkalainen"
+  },
+  {
+    "id": "usda:1046",
+    "fi": "Juustovalmiste, sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1047",
+    "fi": "Juustovalmiste, sulatejuusto, emmental"
+  },
+  {
+    "id": "usda:1048",
+    "fi": "Juustolevite, sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1049",
+    "fi": "Kahvikerma, rasvaa 12 %"
+  },
+  {
+    "id": "usda:1050",
+    "fi": "Ruokakerma, kevyt"
+  },
+  {
+    "id": "usda:1052",
+    "fi": "Vispikerma, kevyt"
+  },
+  {
+    "id": "usda:1053",
+    "fi": "Kuohukerma"
+  },
+  {
+    "id": "usda:1054",
+    "fi": "Kermavaahto, pursotettava"
+  },
+  {
+    "id": "usda:1055",
+    "fi": "Smetana, vähärasvainen"
+  },
+  {
+    "id": "usda:1056",
+    "fi": "Smetana"
+  },
+  {
+    "id": "usda:1057",
+    "fi": "Munatoti"
+  },
+  {
+    "id": "usda:1058",
+    "fi": "Hapankermajäljitelmä, kasvirasvainen"
+  },
+  {
+    "id": "usda:1059",
+    "fi": "Maitojuoma, kasvirasvaa, kovetettu kasviöljy"
+  },
+  {
+    "id": "usda:1060",
+    "fi": "Maitojuoma, kasvirasvaa, lauriiniöljy"
+  },
+  {
+    "id": "usda:1061",
+    "fi": "Amerikkalainen juusto, rasvaton"
+  },
+  {
+    "id": "usda:1067",
+    "fi": "Kermankorvike, nestemäinen, kasviöljy ja soijaproteiini"
+  },
+  {
+    "id": "usda:1068",
+    "fi": "Kermankorvike, nestemäinen, lauriiniöljy ja kaseinaatti"
+  },
+  {
+    "id": "usda:1069",
+    "fi": "Kermankorvike, jauhe"
+  },
+  {
+    "id": "usda:1070",
+    "fi": "Jälkiruokakuorrute, jauhe"
+  },
+  {
+    "id": "usda:1072",
+    "fi": "Jälkiruokakuorrute, pursotettava"
+  },
+  {
+    "id": "usda:1073",
+    "fi": "Jälkiruokakuorrute, pakaste"
+  },
+  {
+    "id": "usda:1074",
+    "fi": "Smetanajäljitelmä"
+  },
+  {
+    "id": "usda:1076",
+    "fi": "Maidonkorvike, nestemäinen, lauriiniöljy"
+  },
+  {
+    "id": "usda:1077",
+    "fi": "Maito, täysmaito, rasvaa 3,25 %"
+  },
+  {
+    "id": "usda:1078",
+    "fi": "Maito, täysmaito, rasvaa 3,7 %"
+  },
+  {
+    "id": "usda:1079",
+    "fi": "Maito, kevytmaito, rasvaa 2 %"
+  },
+  {
+    "id": "usda:1080",
+    "fi": "Maito, kevytmaito, rasvaa 2 %, lisättyjä maitokuiva-aineita"
+  },
+  {
+    "id": "usda:1081",
+    "fi": "Maito, kevytmaito, rasvaa 2 %, proteiinilisätty"
+  },
+  {
+    "id": "usda:1082",
+    "fi": "Maito, kevytmaito, rasvaa 1 %"
+  },
+  {
+    "id": "usda:1083",
+    "fi": "Maito, kevytmaito, rasvaa 1 %, lisättyjä maitokuiva-aineita"
+  },
+  {
+    "id": "usda:1084",
+    "fi": "Maito, kevytmaito, rasvaa 1 %, proteiinilisätty"
+  },
+  {
+    "id": "usda:1085",
+    "fi": "Maito, rasvaton"
+  },
+  {
+    "id": "usda:1086",
+    "fi": "Maito, rasvaton, lisättyjä maitokuiva-aineita"
+  },
+  {
+    "id": "usda:1087",
+    "fi": "Maito, rasvaton, proteiinilisätty"
+  },
+  {
+    "id": "usda:1088",
+    "fi": "Piimä, vähärasvainen"
+  },
+  {
+    "id": "usda:1089",
+    "fi": "Maito, vähäsuolainen"
+  },
+  {
+    "id": "usda:1090",
+    "fi": "Maitojauhe, täysmaito"
+  },
+  {
+    "id": "usda:1091",
+    "fi": "Maitojauhe, rasvaton"
+  },
+  {
+    "id": "usda:1092",
+    "fi": "Maitojauhe, rasvaton, pikajauhe"
+  },
+  {
+    "id": "usda:1093",
+    "fi": "Maitojauhe, rasvaton, vähäkalsiuminen"
+  },
+  {
+    "id": "usda:1094",
+    "fi": "Piimäjauhe"
+  },
+  {
+    "id": "usda:1095",
+    "fi": "Maito, kondensoitu, makeutettu"
+  },
+  {
+    "id": "usda:1096",
+    "fi": "Maito, haihdutettu, säilyke"
+  },
+  {
+    "id": "usda:1097",
+    "fi": "Maito, haihdutettu, rasvaton, säilyke"
+  },
+  {
+    "id": "usda:1102",
+    "fi": "Kaakaojuoma, täysmaito"
+  },
+  {
+    "id": "usda:1103",
+    "fi": "Kaakaojuoma, kevytmaito"
+  },
+  {
+    "id": "usda:1104",
+    "fi": "Kaakaojuoma, vähärasvainen"
+  },
+  {
+    "id": "usda:1105",
+    "fi": "Kaakaojuoma, kotitekoinen"
+  },
+  {
+    "id": "usda:1106",
+    "fi": "Vuohenmaito"
+  },
+  {
+    "id": "usda:1107",
+    "skip": "ei ruoanlaittoaines (äidinmaito)"
+  },
+  {
+    "id": "usda:1108",
+    "fi": "Puhvelinmaito"
+  },
+  {
+    "id": "usda:1109",
+    "fi": "Lampaanmaito"
+  },
+  {
+    "id": "usda:1110",
+    "fi": "Pirtelö, suklaa"
+  },
+  {
+    "id": "usda:1111",
+    "fi": "Pirtelö, vanilja"
+  },
+  {
+    "id": "usda:1112",
+    "fi": "Hapan hera, nestemäinen"
+  },
+  {
+    "id": "usda:1113",
+    "fi": "Hapan hera, kuivattu"
+  },
+  {
+    "id": "usda:1114",
+    "fi": "Makea hera, nestemäinen"
+  },
+  {
+    "id": "usda:1115",
+    "fi": "Makea hera, kuivattu"
+  },
+  {
+    "id": "usda:1116",
+    "fi": "Jogurtti, maustamaton, täysmaito"
+  },
+  {
+    "id": "usda:1117",
+    "fi": "Jogurtti, maustamaton, vähärasvainen"
+  },
+  {
+    "id": "usda:1118",
+    "fi": "Jogurtti, maustamaton, rasvaton"
+  },
+  {
+    "id": "usda:1119",
+    "fi": "Jogurtti, vanilja, vähärasvainen"
+  },
+  {
+    "id": "usda:1120",
+    "fi": "Jogurtti, hedelmä, vähärasvainen"
+  },
+  {
+    "id": "usda:1121",
+    "fi": "Jogurtti, hedelmä, vähärasvainen"
+  },
+  {
+    "id": "usda:1122",
+    "fi": "Jogurtti, hedelmä, vähärasvainen"
+  },
+  {
+    "id": "usda:1123",
+    "fi": "Kananmuna, kokonainen, raaka"
+  },
+  {
+    "id": "usda:1124",
+    "fi": "Kananmunan valkuainen, raaka"
+  },
+  {
+    "id": "usda:1125",
+    "fi": "Kananmunan keltuainen, raaka"
+  },
+  {
+    "id": "usda:1126",
+    "fi": "Kananmunan keltuainen, raaka, pakaste, pastöroitu"
+  },
+  {
+    "id": "usda:1127",
+    "fi": "Kananmunan keltuainen, raaka, pakaste, sokeroitu, pastöroitu"
+  },
+  {
+    "id": "usda:1133",
+    "fi": "Kananmuna, kokonainen, kuivattu"
+  },
+  {
+    "id": "usda:1134",
+    "fi": "Kananmuna, kokonainen, kuivattu, glukoosivähennetty"
+  },
+  {
+    "id": "usda:1135",
+    "fi": "Kananmunan valkuainen, hiutale, kuivattu, glukoosivähennetty"
+  },
+  {
+    "id": "usda:1136",
+    "fi": "Kananmunan valkuainen, jauhe, kuivattu, glukoosivähennetty"
+  },
+  {
+    "id": "usda:1137",
+    "fi": "Kananmunan keltuainen, kuivattu"
+  },
+  {
+    "id": "usda:1138",
+    "fi": "Ankanmuna, kokonainen, raaka"
+  },
+  {
+    "id": "usda:1139",
+    "fi": "Hanhenmuna, kokonainen, raaka"
+  },
+  {
+    "id": "usda:1140",
+    "fi": "Viiriäisenmuna, kokonainen, raaka"
+  },
+  {
+    "id": "usda:1141",
+    "fi": "Kalkkunanmuna, kokonainen, raaka"
+  },
+  {
+    "id": "usda:1144",
+    "fi": "Kananmunankorvike, jauhe"
+  },
+  {
+    "id": "usda:1145",
+    "fi": "Voi, suolaton"
+  },
+  {
+    "id": "usda:1146",
+    "fi": "Parmesaani, raaste"
+  },
+  {
+    "id": "usda:1151",
+    "fi": "Maito, rasvaton"
+  },
+  {
+    "id": "usda:1152",
+    "fi": "Maito, kevytmaito, rasvaa 2 %, lisättyjä maitokuiva-aineita"
+  },
+  {
+    "id": "usda:1153",
+    "fi": "Maito, haihdutettu, säilyke"
+  },
+  {
+    "id": "usda:1154",
+    "fi": "Maitojauhe, rasvaton"
+  },
+  {
+    "id": "usda:1155",
+    "fi": "Maitojauhe, rasvaton, pikajauhe"
+  },
+  {
+    "id": "usda:1156",
+    "fi": "Vuohenjuusto, kova"
+  },
+  {
+    "id": "usda:1157",
+    "fi": "Vuohenjuusto, puolipehmeä"
+  },
+  {
+    "id": "usda:1159",
+    "fi": "Vuohenjuusto, pehmeä"
+  },
+  {
+    "id": "usda:1160",
+    "fi": "Kananmunan keltuainen, raaka, pakaste, suolattu, pastöroitu"
+  },
+  {
+    "id": "usda:1161",
+    "fi": "Juustonkorvike, mozzarella"
+  },
+  {
+    "id": "usda:1165",
+    "fi": "Queso añejo"
+  },
+  {
+    "id": "usda:1166",
+    "fi": "Queso asadero"
+  },
+  {
+    "id": "usda:1167",
+    "fi": "Queso chihuahua"
+  },
+  {
+    "id": "usda:1168",
+    "fi": "Cheddar tai colby, vähärasvainen"
+  },
+  {
+    "id": "usda:1169",
+    "fi": "Cheddar tai colby, vähäsuolainen"
+  },
+  {
+    "id": "usda:1171",
+    "fi": "Kananmuna, kokonainen, raaka, pakaste, pastöroitu"
+  },
+  {
+    "id": "usda:1172",
+    "fi": "Kananmunan valkuainen, raaka, pakaste, pastöroitu"
+  },
+  {
+    "id": "usda:1173",
+    "fi": "Kananmunan valkuainen, kuivattu"
+  },
+  {
+    "id": "usda:1174",
+    "fi": "Maito, kevytmaito, rasvaa 2 %"
+  },
+  {
+    "id": "usda:1175",
+    "fi": "Maito, kevytmaito, rasvaa 1 %"
+  },
+  {
+    "id": "usda:1178",
+    "fi": "Smetana, vähärasvainen"
+  },
+  {
+    "id": "usda:1179",
+    "fi": "Smetana, kevyt"
+  },
+  {
+    "id": "usda:1180",
+    "fi": "Smetana, rasvaton"
+  },
+  {
+    "id": "usda:1184",
+    "fi": "Jogurtti, vanilja tai sitruuna, rasvaton, makeutusaineella"
+  },
+  {
+    "id": "usda:1185",
+    "fi": "Parmesaanikuorrute, rasvaton"
+  },
+  {
+    "id": "usda:1186",
+    "fi": "Tuorejuusto, rasvaton"
+  },
+  {
+    "id": "usda:1187",
+    "fi": "Jogurtti, suklaa, rasvaton"
+  },
+  {
+    "id": "usda:1199",
+    "fi": "Kahvikerma, rasvaton"
+  },
+  {
+    "id": "usda:1200",
+    "skip": "ei ruoanlaittoaines (yhdysvaltalainen tuotemerkki)"
+  },
+  {
+    "id": "usda:1202",
+    "fi": "Kaakaojuoma, kevytmaito, kalsiumlisätty"
+  },
+  {
+    "id": "usda:1203",
+    "fi": "Jogurtti, hedelmä, vähärasvainen, makeutusaineella"
+  },
+  {
+    "id": "usda:1204",
+    "fi": "Parmesaani, kuivaraaste, vähärasvainen"
+  },
+  {
+    "id": "usda:1205",
+    "fi": "Kermankorvike, maustettu, nestemäinen"
+  },
+  {
+    "id": "usda:1206",
+    "fi": "Kermankorvike, maustettu, jauhe"
+  },
+  {
+    "id": "usda:1208",
+    "fi": "Provolone, vähärasvainen"
+  },
+  {
+    "id": "usda:1209",
+    "fi": "Meksikolainen juustoseos, vähärasvainen"
+  },
+  {
+    "id": "usda:1211",
+    "fi": "Maito, täysmaito, rasvaa 3,25 %"
+  },
+  {
+    "id": "usda:1212",
+    "fi": "Maitojauhe, täysmaito"
+  },
+  {
+    "id": "usda:1214",
+    "fi": "Maito, haihdutettu, säilyke"
+  },
+  {
+    "id": "usda:1215",
+    "fi": "Juustovalmiste, sulatejuusto, amerikkalainen, vähärasvainen"
+  },
+  {
+    "id": "usda:1216",
+    "fi": "Jogurtti, hedelmä, vähärasvainen"
+  },
+  {
+    "id": "usda:1217",
+    "fi": "Jogurtti, hedelmä, vähärasvainen"
+  },
+  {
+    "id": "usda:1218",
+    "fi": "Jogurtti, hedelmä, rasvaton"
+  },
+  {
+    "id": "usda:1219",
+    "fi": "Jogurtti, hedelmä, vähärasvainen, makeutusaineella"
+  },
+  {
+    "id": "usda:1220",
+    "fi": "Jogurtti, vanilja, vähärasvainen"
+  },
+  {
+    "id": "usda:1221",
+    "fi": "Jogurtti, vanilja tai sitruuna, rasvaton, makeutusaineella"
+  },
+  {
+    "id": "usda:1222",
+    "fi": "Jogurtti, suklaa, rasvaton"
+  },
+  {
+    "id": "usda:1223",
+    "skip": "ei ruoanlaittoaines (proteiinilisäjauhe)"
+  },
+  {
+    "id": "usda:1224",
+    "skip": "ei ruoanlaittoaines (proteiinilisäjauhe)"
+  },
+  {
+    "id": "usda:1225",
+    "fi": "Dulce de leche"
+  },
+  {
+    "id": "usda:1226",
+    "fi": "Kananmunankorvike, nestemäinen tai pakaste, rasvaton"
+  },
+  {
+    "id": "usda:1227",
+    "fi": "Queso seco"
+  },
+  {
+    "id": "usda:1228",
+    "fi": "Queso fresco"
+  },
+  {
+    "id": "usda:1229",
+    "fi": "Queso blanco"
+  },
+  {
+    "id": "usda:1230",
+    "fi": "Piimä, täysmaito"
+  },
+  {
+    "id": "usda:1231",
+    "fi": "Jogurtti, vanilja, vähärasvainen, makeutusaineella"
+  },
+  {
+    "id": "usda:1235",
+    "fi": "Jogurttijäätelö, rasvaton, makeutusaineella"
+  },
+  {
+    "id": "usda:1236",
+    "fi": "Pehmytjäätelö, suklaa"
+  },
+  {
+    "id": "usda:1237",
+    "fi": "Jäätelöpuikko, suklaakuorrutettu"
+  },
+  {
+    "id": "usda:1238",
+    "fi": "Jäätelövoileipä"
+  },
+  {
+    "id": "usda:1239",
+    "fi": "Jäätelökeksivoileipä"
+  },
+  {
+    "id": "usda:1240",
+    "fi": "Jäätelötuutti, suklaakuorrutettu, pähkinällä"
+  },
+  {
+    "id": "usda:1241",
+    "fi": "Jäätelövoileipä, vanilja, kevytjäätelö"
+  },
+  {
+    "id": "usda:1242",
+    "fi": "Jäätelövoileipä, vanilja, kevyt, sokeriton"
+  },
+  {
+    "id": "usda:1243",
+    "fi": "Jäätelö, rasvaton, sokeriton"
+  },
+  {
+    "id": "usda:1244",
+    "fi": "Maitojäätelöpuikko, vähärasvainen"
+  },
+  {
+    "id": "usda:1250",
+    "skip": "ei ruoanlaittoaines (ravintolisäjuoma)"
+  },
+  {
+    "id": "usda:1251",
+    "fi": "Meksikolainen juustoseos"
+  },
+  {
+    "id": "usda:1252",
+    "fi": "Juustovalmiste, sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1253",
+    "fi": "Sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1254",
+    "fi": "Juustovalmiste, sulatejuusto, amerikkalainen"
+  },
+  {
+    "id": "usda:1255",
+    "fi": "Kananmuna, kokonainen, raaka, pakaste, suolattu, pastöroitu"
+  },
+  {
+    "id": "usda:1256",
+    "fi": "Kreikkalainen jogurtti, maustamaton, rasvaton"
+  },
+  {
+    "id": "usda:1258",
+    "fi": "Kananmunan valkuainen, kuivattu, glukoosivähennetty"
+  },
+  {
+    "id": "usda:1259",
+    "fi": "Juustolevite, amerikkalainen tai cheddar, vähärasvainen"
+  },
+  {
+    "id": "usda:1260",
+    "fi": "Cheddar, vähärasvainen"
+  },
+  {
+    "id": "usda:1263",
+    "fi": "Pehmytjäätelö, suklaa, kevyt"
+  },
+  {
+    "id": "usda:1264",
+    "fi": "Jäätelöpuikko, rapealla kuorrutteella"
+  },
+  {
+    "id": "usda:1265",
+    "fi": "Cheddar, rasvaton"
+  },
+  {
+    "id": "usda:1266",
+    "fi": "Emmental, rasvaton"
+  },
+  {
+    "id": "usda:1267",
+    "fi": "Cotija"
+  },
+  {
+    "id": "usda:1270",
+    "fi": "Cheddar, voimakas, viipaloitu"
+  },
+  {
+    "id": "usda:1271",
+    "fi": "Mozzarella, vähäkosteinen, osittain rasvaton maito, raaste"
+  },
+  {
+    "id": "usda:1284",
+    "fi": "Kreikkalainen jogurtti, mansikka, vähärasvainen"
+  },
+  {
+    "id": "usda:1285",
+    "fi": "Kreikkalainen jogurtti, mansikka, rasvaton"
+  },
+  {
+    "id": "usda:1286",
+    "fi": "Kreikkalainen jogurtti, vanilja, rasvaton"
+  },
+  {
+    "id": "usda:1287",
+    "fi": "Kreikkalainen jogurtti, maustamaton, vähärasvainen"
+  },
+  {
+    "id": "usda:1291",
+    "fi": "Maito, haihdutettu, rasvaa 2 %"
+  },
+  {
+    "id": "usda:1292",
+    "fi": "Kaakaojuoma, rasvaton"
+  },
+  {
+    "id": "usda:1293",
+    "fi": "Kreikkalainen jogurtti, maustamaton, täysmaito"
+  },
+  {
+    "id": "usda:1294",
+    "fi": "Kreikkalainen jogurtti, hedelmä, täysmaito"
+  },
+  {
+    "id": "usda:1295",
+    "fi": "Jogurtti, vanilja, rasvaton"
+  },
+  {
+    "id": "usda:1297",
+    "fi": "Kreikkalainen jogurtti, vanilja, vähärasvainen"
+  },
+  {
+    "id": "usda:1298",
+    "fi": "Jogurttijäätelö, vähärasvainen"
+  },
+  {
+    "id": "usda:1300",
+    "fi": "Jäätelöpuikko, suklaa-pähkinäkuorrutettu"
+  },
+  {
+    "id": "usda:1301",
+    "fi": "Jäätelösundae-tuutti"
+  },
+  {
+    "id": "usda:1302",
+    "fi": "Kevytjäätelöpuikko, appelsiini-vanilja"
+  },
+  {
+    "id": "usda:1303",
+    "fi": "Kahvikerma, vähärasvainen"
+  },
+  {
+    "id": "usda:1305",
+    "fi": "Kaakaojuoma, vähärasvainen, vähäsokerinen"
+  },
+  {
+    "id": "usda:1306",
+    "fi": "Jäätelötuutti, vähärasvainen, sokeriton, maapähkinä ja suklaakastike"
+  },
+  {
+    "id": "usda:2001",
+    "fi": "Maustepippuri, jauhettu"
+  },
+  {
+    "id": "usda:2002",
+    "fi": "Anis, siemen"
+  },
+  {
+    "id": "usda:2003",
+    "fi": "Basilika, kuivattu"
+  },
+  {
+    "id": "usda:2004",
+    "fi": "Laakerinlehti"
+  },
+  {
+    "id": "usda:2005",
+    "fi": "Kumina, siemen"
+  },
+  {
+    "id": "usda:2006",
+    "fi": "Kardemumma"
+  },
+  {
+    "id": "usda:2007",
+    "fi": "Sellerinsiemen"
+  },
+  {
+    "id": "usda:2008",
+    "fi": "Kirveli, kuivattu"
+  },
+  {
+    "id": "usda:2009",
+    "fi": "Chilijauhe"
+  },
+  {
+    "id": "usda:2010",
+    "fi": "Kaneli, jauhettu"
+  },
+  {
+    "id": "usda:2011",
+    "fi": "Neilikka, jauhettu"
+  },
+  {
+    "id": "usda:2012",
+    "fi": "Korianteri, lehti, kuivattu"
+  },
+  {
+    "id": "usda:2013",
+    "fi": "Korianteri, siemen"
+  },
+  {
+    "id": "usda:2014",
+    "fi": "Juustokumina, siemen"
+  },
+  {
+    "id": "usda:2015",
+    "fi": "Curryjauhe"
+  },
+  {
+    "id": "usda:2016",
+    "fi": "Tilli, siemen"
+  },
+  {
+    "id": "usda:2017",
+    "fi": "Tilli, kuivattu"
+  },
+  {
+    "id": "usda:2018",
+    "fi": "Fenkoli, siemen"
+  },
+  {
+    "id": "usda:2019",
+    "fi": "Sarviapila, siemen"
+  },
+  {
+    "id": "usda:2020",
+    "fi": "Valkosipulijauhe"
+  },
+  {
+    "id": "usda:2021",
+    "fi": "Inkivääri, jauhettu"
+  },
+  {
+    "id": "usda:2022",
+    "fi": "Muskottikukka, jauhettu"
+  },
+  {
+    "id": "usda:2023",
+    "fi": "Meirami, kuivattu"
+  }
+]

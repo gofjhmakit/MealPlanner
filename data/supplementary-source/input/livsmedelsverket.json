@@ -1,0 +1,8757 @@
+[
+ {
+  "id": "livsmedelsverket:1",
+  "name": "Nöt talg",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2",
+  "name": "Gris späck",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:3",
+  "name": "Gris ister",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4",
+  "name": "Kokosfett",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:5",
+  "name": "Matfettsblandning havssaltat fett 80% berikad typ Bregott",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:6",
+  "name": "Matfettsblandning fett 60% berikad typ Bregott mellan",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:10",
+  "name": "Flytande margarin fett 82% berikad typ Milda culinesse",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:12",
+  "name": "Hushållsmargarin fett 80% berikad typ Melba",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:13",
+  "name": "Hushållsmargarin fett 80% berikad typ Milda",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:17",
+  "name": "Lättmargarin fett 38% berikad typ Becel",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:20",
+  "name": "Lättmargarin fett 40% berikad typ Lätt & lagom",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:29",
+  "name": "Smör fett 80%",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:30",
+  "name": "Smör extrasaltat fett 80%",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:31",
+  "name": "Smör osaltat fett 80%",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:33",
+  "name": "Druvkärnolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:34",
+  "name": "Majsolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:35",
+  "name": "Olivolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:37",
+  "name": "Tistelolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:38",
+  "name": "Sesamolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:39",
+  "name": "Sojaolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:40",
+  "name": "Solrosolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:41",
+  "name": "Vetegroddsolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:66",
+  "name": "Mesost fett ca 30%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:68",
+  "name": "Messmör fett 5% berikad",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:69",
+  "name": "Messmör fett 2% berikad",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:70",
+  "name": "Färskost cottage cheese naturell fett 4%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:71",
+  "name": "Färskost cottage cheese m. frukt fett 3%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:72",
+  "name": "Färskost cottage cheese m. grönsaker fett 3,5-5%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:73",
+  "name": "Färskost m. filmjölk fett ca 8%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:74",
+  "name": "Färskost m. filmjölk gräddfil fett ca 14% hemlagad",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:75",
+  "name": "Kvarg färskost fett 1%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:76",
+  "name": "Kvarg färskost fett 10%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:77",
+  "name": "Ost hårdost fett 10%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:78",
+  "name": "Ost hårdost fett 23%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:79",
+  "name": "Ost hårdost fett 26%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:80",
+  "name": "Ost hårdost fett 38%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:81",
+  "name": "Camembert vitmögelost fett 23%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:82",
+  "name": "Ädelost grönmögelost fett 30%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:83",
+  "name": "Mjukost smältost fett 8%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:84",
+  "name": "Mjukost smältost fett 10%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:85",
+  "name": "Mjukost smältost fett 20%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:86",
+  "name": "Mjukost smältost fett ca 16%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:87",
+  "name": "Mjukost smältost fett 4%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:92",
+  "name": "Brieost vitmögelost fett 34%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:93",
+  "name": "Ädelost grönmögelost fett 17%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:94",
+  "name": "Salladsost fett 22%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:95",
+  "name": "Ost hårdost fett 17%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:96",
+  "name": "Ost hårdost fett 28%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:97",
+  "name": "Ost hårdost fett 31%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:98",
+  "name": "Brieost vitmögelost fett 30%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:100",
+  "name": "Ost halloumi rå fett 22%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:101",
+  "name": "Färskost fett 33%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:102",
+  "name": "Ädelost grönmögelost fett 43%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:103",
+  "name": "Ost hårdost parmesan fett 30%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:104",
+  "name": "Färskost m. vitlök fett 35%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:105",
+  "name": "Camembert vitmögelost fett 11%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:106",
+  "name": "Mjukost smältost fett ca 22%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:107",
+  "name": "Färskost cream cheese fett 27%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:108",
+  "name": "Färskost cream cheese lätt fett 15%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:109",
+  "name": "Färskost cream cheese extra light fett 5%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:110",
+  "name": "Camembert vitmögelost friterad",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:111",
+  "name": "Getost chèvre vitmögelost fett 25%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:113",
+  "name": "Bröstmjölk humanmjölk",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:114",
+  "name": "Filmjölk fett 3% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:115",
+  "name": "Kondenserad mjölk konserv. fett ca 8%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:116",
+  "name": "Kondenserad mjölk konserv. konc. m. socker fett ca 9%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:118",
+  "name": "Mjölkpulver fett 1%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:119",
+  "name": "Filmjölk långfil fett 3% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:120",
+  "name": "Lättfil fett 0,5% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:122",
+  "name": "Milkshake choklad jordgubb",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:123",
+  "name": "Mjölk fett 3% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:124",
+  "name": "Yoghurt naturell fett 3%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:125",
+  "name": "Fruktyoghurt fett 2,5%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:126",
+  "name": "Fruktyoghurt lätt fett 0,5%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:127",
+  "name": "Mjölk fett 4,2% typ lantmjölk",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:128",
+  "name": "Filmjölk A-fil fett 3% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:130",
+  "name": "Mellanfil fett 1,5% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:133",
+  "name": "Mjölkdryck jordgubb fett 1,5% berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:135",
+  "name": "Yoghurt naturell lätt fett 0,5% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:136",
+  "name": "Fruktyoghurt fett 2%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:137",
+  "name": "Fruktyoghurt delikatessyoghurt fett 7%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:138",
+  "name": "Fruktyoghurt lätt fett<0,05%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:139",
+  "name": "Fruktyoghurt fett 5%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:140",
+  "name": "Fruktyoghurt fett 1,3%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:142",
+  "name": "Kefir fett 3% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:147",
+  "name": "Yoghurt mild vanilj lätt fett 0,5%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:150",
+  "name": "Mellanmjölk fett 1,5% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:151",
+  "name": "Lättmjölk fett 0,5% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:152",
+  "name": "Vassle flytande",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:154",
+  "name": "Filbunke m. grädde",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:156",
+  "name": "Varm choklad m. mjölk fett 3%",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:157",
+  "name": "Varm choklad m. mjölk fett 1,5%",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:158",
+  "name": "Varm choklad m. mjölk fett 0,5%",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:162",
+  "name": "Hårt bröd fullkorn råg fibrer 15,5% typ Husman",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:163",
+  "name": "Hårt bröd fullkorn råg fibrer ca 18% typ Ryvita mörkt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:164",
+  "name": "Hårt bröd fullkorn vete m. vallmofrö fibrer 5,5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:165",
+  "name": "Hårt bröd fullkorn råg fibrer 14,5% typ Vika",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:166",
+  "name": "Hårt bröd fullkorn råg fibrer 16% typ Finn crisp",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:167",
+  "name": "Hårt bröd fullkorn råg fibrer ca 15% typ flatbröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:168",
+  "name": "Hårt bröd glutenfritt fibrer ca 7%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:169",
+  "name": "Hårt bröd fullkorn råg fibrer ca 13%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:170",
+  "name": "Hårt bröd fullkorn råg kli fibrer ca 15%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:171",
+  "name": "Hårt bröd fullkorn råg fibrer ca 14% typ rutknäcke",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:172",
+  "name": "Hårt bröd fullkorn råg fibrer 15,5% typ brungräddat",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:173",
+  "name": "Hårt bröd fullkorn råg fibrer ca 16% typ sport",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:174",
+  "name": "Hårt bröd fullkorn råg m. sesamfrö vetekli vetegroddar fibrer 24%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:175",
+  "name": "Hårt bröd fullkorn råg fibrer 15,5% typ delikatess",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:178",
+  "name": "Hårt bröd fullkorn havre vete råg m. mjölk fibrer 8%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:180",
+  "name": "Hårt bröd vete m. vallmofrö fibrer 6% typ frukost",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:181",
+  "name": "Hårt bröd vete m. socker kanel fibrer ca 7%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:182",
+  "name": "Hårt bröd glutenfritt fibrer ca 3%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:183",
+  "name": "Hårt bröd fullkorn vete havre kli m. socker örtkryddor fibrer 10,5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:185",
+  "name": "Bröd fullkorn korn fibrer 3%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:186",
+  "name": "Bröd vitt fullkorn graham typ scones",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:187",
+  "name": "Bröd fullkorn råg fibrer ca 10% typ pumpernickel",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:188",
+  "name": "Ströbröd malt hårt bröd fullkorn vete råg socker fibrer ca 5%",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:190",
+  "name": "Hårt bröd fullkorn råg fibrer ca 14% typ normalgräddat",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:191",
+  "name": "Hårt bröd fullkorn råg vete majs m. surdeg fibrer 15% typ spisbröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:193",
+  "name": "Bröd vitt vete vatten fibrer ca 3,5% typ pitabröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:194",
+  "name": "Korvbröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:195",
+  "name": "Hårt bröd fullkorn råg fibrer ca 14% typ brungräddat",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:198",
+  "name": "Bröd vitt osötat fibrer ca 2,5% typ italienskt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:200",
+  "name": "Bröd vitt vete fibrer ca 2,5% typ baguette",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:201",
+  "name": "Bröd vitt fullkorn surdeg fibrer 4,4% bakad i butik typ grov baguette",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:202",
+  "name": "Bröd vitt fibrer 3,5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:204",
+  "name": "Bröd vitt mjölk fibrer ca 3% typ Hönökaka",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:205",
+  "name": "Bröd vitt vete typ scones",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:206",
+  "name": "Bröd vitt vete ojäst fibrer 3% typ chapati",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:207",
+  "name": "Bröd fullkorn rågsikt fibrer ca 7% typ kavring",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:208",
+  "name": "Bröd osötat rågsikt fibrer ca 3,5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:209",
+  "name": "Bröd rågsikt fibrer ca 4%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:210",
+  "name": "Bröd fullkorn graham m. mjölk fibrer ca 5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:213",
+  "name": "Bröd fullkorn råg typ rallarhalvor",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:214",
+  "name": "Bröd fullkorn råg osötat fibrer ca 5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:216",
+  "name": "Hårt bröd tunnbröd fullkorn vete råg korn havre",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:217",
+  "name": "Bröd vitt mjukt m. mjölk fibrer ca 4% typ tunnbröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:219",
+  "name": "Bröd fullkorn råg m. potatis fibrer ca 5%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:222",
+  "name": "Bröd vitt vatten fibrer ca 3% typ ostfralla",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:224",
+  "name": "Riskaka fullkorn solrosfrön majs fett 4%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:225",
+  "name": "Riskaka fullkorn smaksatt fett 18%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:226",
+  "name": "Bröd vitt glutenfritt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:227",
+  "name": "Bröd mörkt glutenfritt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:229",
+  "name": "Bröd vitt typ croissant fransk giffel",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:230",
+  "name": "Potatis höst rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:231",
+  "name": "Potatis höst kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:233",
+  "name": "Potatis m. skal bakad u. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:234",
+  "name": "Potatis m. skal bakad u. salt i aluminiumfolie",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:235",
+  "name": "Potatis tärnad frysvara",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:237",
+  "name": "Potatis konserv. u. lag",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:238",
+  "name": "Klyftpotatis u. skal ugnsstekt m. rapsolja",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:241",
+  "name": "Potatis råstekt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:242",
+  "name": "Potatis kokt stekt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:244",
+  "name": "Pommes frites friterad potatis värmd i ugn fett ca 7% frysvara",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:245",
+  "name": "Pommes frites friterad potatis fett ca 11% frysvara",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:246",
+  "name": "Pommes frites friterad potatis fett ca 17% tillagad på restaurang",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:286",
+  "name": "Grönsaksblandning m. morot palsternacka purjolök rotselleri frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:287",
+  "name": "Jordärtskocka",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:288",
+  "name": "Kålrot",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:289",
+  "name": "Morot",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:290",
+  "name": "Palsternacka",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:291",
+  "name": "Pepparrot",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:292",
+  "name": "Rotselleri",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:293",
+  "name": "Rädisa",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:294",
+  "name": "Rödbeta",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:295",
+  "name": "Rättika",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:296",
+  "name": "Rotpersilja",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:297",
+  "name": "Majrova",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:298",
+  "name": "Svartrot",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:299",
+  "name": "Morot konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:300",
+  "name": "Morot konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:301",
+  "name": "Morotsjuice",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:305",
+  "name": "Morot kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:310",
+  "name": "Jordärtskocka kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:316",
+  "name": "Rödbeta kokt u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:319",
+  "name": "Rödbeta inlagd u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:320",
+  "name": "Avokado",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:321",
+  "name": "Stjälkselleri",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:322",
+  "name": "Blomkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:323",
+  "name": "Blomkål frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:324",
+  "name": "Bondbönor färska kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:325",
+  "name": "Broccoli",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:326",
+  "name": "Broccoli frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:327",
+  "name": "Brysselkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:328",
+  "name": "Brysselkål frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:329",
+  "name": "Mungbönsgroddar",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:330",
+  "name": "Sojabönsgroddar",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:331",
+  "name": "Gröna bönor",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:332",
+  "name": "Gröna bönor frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:333",
+  "name": "Champinjon",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:334",
+  "name": "Friséesallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:335",
+  "name": "Endivesallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:336",
+  "name": "Fänkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:337",
+  "name": "Grönkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:338",
+  "name": "Grönkål frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:339",
+  "name": "Gurka",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:340",
+  "name": "Isbergssallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:342",
+  "name": "Kronärtskocka",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:343",
+  "name": "Kålrabbi",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:344",
+  "name": "Lök gul",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:345",
+  "name": "Majskolv",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:346",
+  "name": "Majskolv frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:347",
+  "name": "Majskorn frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:348",
+  "name": "Mangold",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:349",
+  "name": "Nässlor förvällda",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:350",
+  "name": "Paprika grön",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:351",
+  "name": "Paprika röd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:352",
+  "name": "Persilja blad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:353",
+  "name": "Pumpa",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:354",
+  "name": "Purjolök",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:355",
+  "name": "Rödkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:357",
+  "name": "Savojkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:358",
+  "name": "Salladskål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:359",
+  "name": "Sockerärtor",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:361",
+  "name": "Spenat frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:362",
+  "name": "Squash",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:364",
+  "name": "Tomat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:365",
+  "name": "Tomat torkad m. olja",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:366",
+  "name": "Trädgårdskrasse",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:367",
+  "name": "Vattenkrasse",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:368",
+  "name": "Vaxbönor",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:369",
+  "name": "Vaxbönor frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:370",
+  "name": "Vitkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:371",
+  "name": "Vitlök",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:372",
+  "name": "Aubergine",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:374",
+  "name": "Gröna ärtor frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:375",
+  "name": "Sparris grön el. vit färsk kokt.",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:376",
+  "name": "Alfalfagroddar",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:377",
+  "name": "Dill färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:378",
+  "name": "Gräslök",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:379",
+  "name": "Basilika färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:380",
+  "name": "Chilipeppar färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:381",
+  "name": "Paprika gul",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:382",
+  "name": "Paprika grön röd frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:383",
+  "name": "Champinjon skivad frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:384",
+  "name": "Linsgroddar",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:385",
+  "name": "Lök gul frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:386",
+  "name": "Grönsaksblandning m. ärtor bönor majs morot typ amerikansk frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:387",
+  "name": "Grönsaksblandning m. ärtor bönor morot blomkål typ sommargrönsaker frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:388",
+  "name": "Grönsaksblandning m. ärtor morot frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:389",
+  "name": "Grönsaksblandning m. ärtor majs paprika frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:390",
+  "name": "Sallad m. grönsallat gurka tomat u. dressing",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:392",
+  "name": "Paprika grön gul röd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:393",
+  "name": "Bambuskott konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:395",
+  "name": "Gröna bönor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:397",
+  "name": "Champinjon konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:400",
+  "name": "Majskorn konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:401",
+  "name": "Oliver gröna m. paprikafyllning avrunna",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:402",
+  "name": "Oliver svarta m. olja avrunna",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:403",
+  "name": "Grönsaksblandning el. pickels sockrad inlagd u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:404",
+  "name": "Sparris vit konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:406",
+  "name": "Surkål konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:407",
+  "name": "Tomat hel konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:408",
+  "name": "Tomatjuice konserv. drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:410",
+  "name": "Tomatpuré konc. konserv.",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:411",
+  "name": "Vaxbönor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:412",
+  "name": "Gröna ärtor konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:413",
+  "name": "Gröna ärtor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:414",
+  "name": "Mungbönsgroddar konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:415",
+  "name": "Sojabönsgroddar konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:418",
+  "name": "Svamp konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:419",
+  "name": "Kantarell konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:420",
+  "name": "Syltlök inlagd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:421",
+  "name": "Tomater gröna syltade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:422",
+  "name": "Tomat krossad konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:423",
+  "name": "Fefferoni konserv. inlagd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:424",
+  "name": "Wokgrönsaker Asiatiska wokade m. rapsolja",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:425",
+  "name": "Wokgrönsaker Classic wokade m. rapsolja",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:426",
+  "name": "Grönsaksblandning ärtor morot konserv. m. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:427",
+  "name": "Grönsaksjuice konserv. el. pastöriserad drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:428",
+  "name": "Champinjon konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:429",
+  "name": "Pumpasallad m. paprika inlagd sockrad u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:434",
+  "name": "Blomkål kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:440",
+  "name": "Grönsallat m. vinägrettsås",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:441",
+  "name": "Sallad m. grönsallat gurka tomat vinägrettsås",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:442",
+  "name": "Grönsallat m. gräddfilsås",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:443",
+  "name": "Sallad m. grönsallat gurka tomat gräddfilsås",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:444",
+  "name": "Sallad m. grönsallat gurka tomat paprika u. dressing",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:445",
+  "name": "Gurka inlagd m. lag hemlagad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:446",
+  "name": "Lök stekt m. olja el. flytande margarin salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:448",
+  "name": "Lök gul kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:451",
+  "name": "Paprika förvälld",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:452",
+  "name": "Purjolök kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:453",
+  "name": "Rödkål tillagad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:455",
+  "name": "Spenat fräst m. olja el. flytande margarin salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:457",
+  "name": "Champinjon stekt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:460",
+  "name": "Tomatsallad m. vinägrett",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:465",
+  "name": "Vitkål kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:466",
+  "name": "Brunkål",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:468",
+  "name": "Vitkålssallad m. lingonsylt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:469",
+  "name": "Aubergine kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:470",
+  "name": "Aubergine stekt m. olja el. flytande margarin salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:471",
+  "name": "Ärtor morot kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:487",
+  "name": "Gurka inlagd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:488",
+  "name": "Bostongurka",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:489",
+  "name": "Gurka fermenterad u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:490",
+  "name": "Saltgurka u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:491",
+  "name": "Ättiksgurka u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:492",
+  "name": "Kronärtskocka kokt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:495",
+  "name": "Majskolv kokt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:500",
+  "name": "Rödkål konserv.",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:502",
+  "name": "Grönsaker blandade fermenterade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:503",
+  "name": "Grönsaksjuice fermenterad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:520",
+  "name": "Granatäpple",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:521",
+  "name": "Grapefrukt",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:522",
+  "name": "Guava",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:523",
+  "name": "Hallon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:524",
+  "name": "Hallon m. socker frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:525",
+  "name": "Hjortron",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:526",
+  "name": "Jordgubbar",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:527",
+  "name": "Jordgubbar hela m. socker frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:535",
+  "name": "Grönsaksbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:537",
+  "name": "Agar torkad",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:538",
+  "name": "Svampprotein färs bitar filé kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:544",
+  "name": "Pastej veg.",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:545",
+  "name": "Grönsaksbuljong ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:546",
+  "name": "Honungsmelon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:547",
+  "name": "Nätmelon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:548",
+  "name": "Rabarber tillagad u. socker",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:549",
+  "name": "Vattenmelon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:550",
+  "name": "Ananas",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:551",
+  "name": "Apelsin",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:552",
+  "name": "Aprikos",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:553",
+  "name": "Banan",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:554",
+  "name": "Björnbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:555",
+  "name": "Blåbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:556",
+  "name": "Blåbär frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:557",
+  "name": "Blåbär m. socker frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:558",
+  "name": "Cherimoya",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:559",
+  "name": "Citron",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:560",
+  "name": "Småcitrus clementin mandarin tangerin satsumas",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:561",
+  "name": "Fikon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:562",
+  "name": "Fläderbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:563",
+  "name": "Jordgubbar skivade m. socker frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:564",
+  "name": "Kaktusfikon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:565",
+  "name": "Kiwi grön",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:566",
+  "name": "Krusbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:567",
+  "name": "Physalis",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:568",
+  "name": "Kumquat",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:569",
+  "name": "Kvitten",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:570",
+  "name": "Surkörsbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:571",
+  "name": "Sötkörsbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:572",
+  "name": "Lime",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:573",
+  "name": "Lingon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:574",
+  "name": "Mango",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:575",
+  "name": "Banan kokbanan",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:576",
+  "name": "Nektarin",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:577",
+  "name": "Papaya",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:578",
+  "name": "Paradisäpple",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:579",
+  "name": "Passionsfrukt",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:580",
+  "name": "Persika nektarin",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:581",
+  "name": "Sharon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:582",
+  "name": "Plommon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:583",
+  "name": "Päron",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:584",
+  "name": "Tranbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:585",
+  "name": "Vinbär röda",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:586",
+  "name": "Vinbär svarta",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:587",
+  "name": "Vindruvor",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:588",
+  "name": "Äpple m. skal",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:589",
+  "name": "Äpple u. skal",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:590",
+  "name": "Hallon frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:591",
+  "name": "Björnbär frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:592",
+  "name": "Björnbär m. socker frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:593",
+  "name": "Jordgubbar frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:597",
+  "name": "Hallon blåbär frysvara",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:598",
+  "name": "Apelsinskal",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:599",
+  "name": "Aprikos torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:600",
+  "name": "Banan torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:601",
+  "name": "Blåbär torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:602",
+  "name": "Citronskal",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:603",
+  "name": "Dadlar torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:604",
+  "name": "Fikon torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:605",
+  "name": "Katrinplommon torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:606",
+  "name": "Nypon torkat u. frön",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:608",
+  "name": "Persika torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:609",
+  "name": "Päron torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:610",
+  "name": "Russin",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:611",
+  "name": "Äpple torkat",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:612",
+  "name": "Frukt torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:613",
+  "name": "Papaya torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:614",
+  "name": "Ananas konserv. m. juice",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:617",
+  "name": "Ananas konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:618",
+  "name": "Aprikos konserv. m. juice",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:619",
+  "name": "Aprikos konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:624",
+  "name": "Körsbär surkörsbär konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:625",
+  "name": "Persika konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:626",
+  "name": "Plommon konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:627",
+  "name": "Päron konserv. m. lättsockrad lag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:628",
+  "name": "Päron konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:629",
+  "name": "Äpple konserv.",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:630",
+  "name": "Grapefrukt konserv. m. lättsockrad lag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:632",
+  "name": "Fruktcocktail konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:633",
+  "name": "Mandarin konserv. m. lättsockrad lag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:634",
+  "name": "Mango konserv. m. sockerlag",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:635",
+  "name": "Apelsinsallad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:637",
+  "name": "Frukt bär konserv. osötad el. sötningsm.",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:638",
+  "name": "Fruktsallad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:641",
+  "name": "Apelsinjuice färskpressad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:642",
+  "name": "Apelsinjuice konc. frysvara",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:643",
+  "name": "Apelsinjuice drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:645",
+  "name": "Citronjuice färskpressad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:646",
+  "name": "Citronjuice konc. konserv.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:647",
+  "name": "Småcitrusjuice färskpressad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:649",
+  "name": "Grapefruktjuice färskpressad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:652",
+  "name": "Limejuice färskpressad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:654",
+  "name": "Risgrynsgröt lättmjölk fett ca 1%",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:655",
+  "name": "Risgrynsgröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:657",
+  "name": "Limejuice konc. konserv.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:658",
+  "name": "Druvjuice konserv. drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:659",
+  "name": "Äppeljuice drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:660",
+  "name": "Ananasjuice konserv. drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:661",
+  "name": "Apelsinjuice pastöriserad drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:662",
+  "name": "Juice",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:664",
+  "name": "Aprikosnektar pastöriserad drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:665",
+  "name": "Persikonektar pastöriserad drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:670",
+  "name": "Katrinplommondryck konserv. drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:672",
+  "name": "Havredryck choklad fett 1,5%  berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:675",
+  "name": "Bovetegröt m. russin",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:676",
+  "name": "Grahamsgröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:677",
+  "name": "Havregrynsgröt fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:678",
+  "name": "Molinogröt grahamsmjöl m. torkad frukt linfrö",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:679",
+  "name": "Frukostflingor ris puffat rostat osötat",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:680",
+  "name": "Rågkross ångprep. fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:681",
+  "name": "Kornmjölsgröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:682",
+  "name": "Mannagrynsgröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:683",
+  "name": "Kruskagröt fullkorn m. havregryn vetekli russin",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:684",
+  "name": "Rågmjölsgröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:694",
+  "name": "Välling fullkorn berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:695",
+  "name": "Havrevälling hemlagad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:696",
+  "name": "Mannagrynsvälling hemlagad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:699",
+  "name": "Välling berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:700",
+  "name": "Havredryck fett 1,5% berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:702",
+  "name": "Havregryn fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:703",
+  "name": "Fiberhavregryn fullkorn havre m. vetekli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:704",
+  "name": "Havrekli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:705",
+  "name": "Korngryn ångprep. fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:706",
+  "name": "Frukostflingor majs osötad berikad typ cornflakes",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:707",
+  "name": "Vetekross ångprep. fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:708",
+  "name": "Vetegroddar",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:709",
+  "name": "Vetekli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:710",
+  "name": "Frukostflingor vete fullkorn typ Weetabix",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:711",
+  "name": "Kruskakli grovt vetekli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:712",
+  "name": "Frukostflingor flingblandning fullkorn typ basmüsli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:713",
+  "name": "Frukostflingor ris puffat m. socker berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:714",
+  "name": "Frukostflingor vetekli rostat m. kornmalt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:716",
+  "name": "Frukostflingor ris puffat rostat m. socker kakao",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:719",
+  "name": "Frukostflingor müsli fullkorn m. frukt bär",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:721",
+  "name": "Frukostflingor müsli flingblandning fullkorn m. frukt nötter m. socker el. honung",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:724",
+  "name": "Frukostflingor vetekli fullkorn berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:725",
+  "name": "Frukostflingor fullkorn typ Specialflingor",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:726",
+  "name": "Frukostflingor vete puffat m. honung berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:727",
+  "name": "Frukostflingor majs m. socker berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:728",
+  "name": "Frukostflingor fullkorn m. socker berikad typ ringar",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:752",
+  "name": "Deg matpaj gräddad",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:754",
+  "name": "Pirog u. fyllning gräddad",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:755",
+  "name": "Deg smulpaj gräddad",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:804",
+  "name": "Råris kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:810",
+  "name": "Rismjöl vitt",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:814",
+  "name": "Ris kinesiskt asiatiskt kokt u. salt tillagad på restaurang",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:817",
+  "name": "Ris vildris okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:818",
+  "name": "Ris vildris kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:819",
+  "name": "Nudlar glasnudlar okokta",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:825",
+  "name": "Bovete hela el. krossade korn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:826",
+  "name": "Durra el. andra sorghumarter mjöl fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:827",
+  "name": "Hirs hela el. krossade korn fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:828",
+  "name": "Mannagryn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:829",
+  "name": "Bulgur",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:830",
+  "name": "Bulgur kokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:831",
+  "name": "Couscous",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:832",
+  "name": "Couscous tillagad",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:833",
+  "name": "Korngryn ångprep. fullkorn kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:834",
+  "name": "Hirs kokt m. salt fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:835",
+  "name": "Majsgryn polenta kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:840",
+  "name": "Rismål fett 6%",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:841",
+  "name": "Rismål lätt fett 1,5%",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:845",
+  "name": "Pasta okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:846",
+  "name": "Pasta kokt u. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:848",
+  "name": "Pasta fullkorn okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:852",
+  "name": "Pasta färsk m. ägg",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:862",
+  "name": "Tortellini m. kött",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:870",
+  "name": "Nudlar äggnudlar okokta",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:872",
+  "name": "Tortellini m. ostfyllning veg.",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:874",
+  "name": "Bondbönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:875",
+  "name": "Bruna bönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:877",
+  "name": "Röda bönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:878",
+  "name": "Röda bönor torkade kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:879",
+  "name": "Vita bönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:880",
+  "name": "Vita bönor torkade kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:881",
+  "name": "Kikärtor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:883",
+  "name": "Mungbönor torkade kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:886",
+  "name": "Mungbönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:887",
+  "name": "Sojabönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:888",
+  "name": "Sojabönor torkade kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:889",
+  "name": "Vignabönor svartögda bönor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:890",
+  "name": "Vignabönor svartögda bönor torkade kokta u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:891",
+  "name": "Gröna el. gula ärtor torkade",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:901",
+  "name": "Vita bönor m. tomatsås konserv.",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:905",
+  "name": "Tofu fast",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:906",
+  "name": "Sojamjöl fett ca 20%",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:907",
+  "name": "Sojadryck",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:908",
+  "name": "Miso sojabönspasta fermenterad",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:909",
+  "name": "Sojasås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:910",
+  "name": "Sojasås söt",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:911",
+  "name": "Korv veg. sojakorv konserv. fett 15%",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:912",
+  "name": "Glass sojaglass mjölkfri fett 11%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:915",
+  "name": "Sojabönsbiff stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:916",
+  "name": "Korv veg. soja- och veteprotein tillagad typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:920",
+  "name": "Lamm bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:921",
+  "name": "Lamm kotlett rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:922",
+  "name": "Lamm lägg rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:923",
+  "name": "Lamm rygg el. hals rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:924",
+  "name": "Lamm stek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:925",
+  "name": "Lamm färs rå fett 20%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:926",
+  "name": "Lamm tunnbringa rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:927",
+  "name": "Lamm kotlett rå fett bortskuret",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:928",
+  "name": "Hare kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:930",
+  "name": "Hjort dovhjort bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:931",
+  "name": "Hjort dovhjort stek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:932",
+  "name": "Hjort ryggbiff rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:933",
+  "name": "Häst kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:934",
+  "name": "Kalv bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:935",
+  "name": "Kalv bringa rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:936",
+  "name": "Kalv filé rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:937",
+  "name": "Kalv fransyska rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:938",
+  "name": "Kalv innanlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:939",
+  "name": "Kalv kotlett rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:940",
+  "name": "Kalv lägg rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:941",
+  "name": "Kalv ytterlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:942",
+  "name": "Kalv tunnbringa rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:943",
+  "name": "Kalv högrev rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:944",
+  "name": "Kanin kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:945",
+  "name": "Nöt clubstek biff rå m. ben",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:946",
+  "name": "Nöt ryggbiff rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:947",
+  "name": "Nöt oxbringa rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:948",
+  "name": "Nöt oxbringa rimmad rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:949",
+  "name": "Nöt oxfilé rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:950",
+  "name": "Nöt fransyska rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:951",
+  "name": "Nöt färs rå fett 10%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:953",
+  "name": "Nöt högrev rå fett bortskuret",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:954",
+  "name": "Nöt innanlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:955",
+  "name": "Nöt lägg rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:956",
+  "name": "Nöt bog el. märgpipa rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:957",
+  "name": "Nöt rostbiff rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:958",
+  "name": "Nöt rulle rimmad rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:959",
+  "name": "Nöt ytterlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:960",
+  "name": "Nöt entrecôte rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:961",
+  "name": "Nöt grytbitar rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:963",
+  "name": "Nöt färs rå fett 15%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:965",
+  "name": "Ren stek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:966",
+  "name": "Ren bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:967",
+  "name": "Ren skav rå frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:968",
+  "name": "Rådjur kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:969",
+  "name": "Gris bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:970",
+  "name": "Gris fläskfilé rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:971",
+  "name": "Gris fläskkotlett rå fettkant 5 mm",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:972",
+  "name": "Gris revbensspjäll rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:973",
+  "name": "Gris fötter rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:974",
+  "name": "Gris skinka julskinka rimmad rå fett ca 3%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:975",
+  "name": "Gris fläskben rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:976",
+  "name": "Gris picnicbog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:977",
+  "name": "Gris grytbitar rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:978",
+  "name": "Gris fläskkarré rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:980",
+  "name": "Gris färs rå fett 20%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:981",
+  "name": "Gris bogbladsstek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:982",
+  "name": "Gris fläskkotlett rå fett bortskuret",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:983",
+  "name": "Gris fläskkotlett rå fettkant 2 mm",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:984",
+  "name": "Gris lägg putsad rå u. svål",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:985",
+  "name": "Gris sidfläsk bit rå m. svål",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:986",
+  "name": "Gris stekfläsk sida skiva rå m. svål",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:987",
+  "name": "Gris flintastek rå m. svål",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:988",
+  "name": "Gris skinka innanlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:989",
+  "name": "Gris skinka fransyska rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:990",
+  "name": "Gris skinka ytterlår rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:991",
+  "name": "Gris sidfläsk el. stekfläsk skivor rimmat rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:992",
+  "name": "Gris färs rå fett 8%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:995",
+  "name": "Älg skav rå frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:996",
+  "name": "Nöt oxsvans rå fett bortskuret",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:997",
+  "name": "Gris svål rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:998",
+  "name": "Häst hamburgerkött rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:999",
+  "name": "Nöt saltkött rimmat kokt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1000",
+  "name": "Nöt kött rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1001",
+  "name": "Ren stek varmrökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1002",
+  "name": "Ren kött torkat",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1003",
+  "name": "Gris bacon rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1004",
+  "name": "Gris bacon stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1005",
+  "name": "Gris bog konserv. gelé 6-8%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1006",
+  "name": "Gris kassler kotlettrad rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1007",
+  "name": "Gris skinka konserv. gelé 8-11%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1008",
+  "name": "Gris skinka lufttorkad italiensk",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1009",
+  "name": "Gris skinka rökt fett 6%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1010",
+  "name": "Gris skinka skivad rökt fett 1-3%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1011",
+  "name": "Gris sidfläsk rökt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1012",
+  "name": "Nöt kött konserv.",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1013",
+  "name": "Nöt flankstek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1014",
+  "name": "Nöt ryggbiff stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1017",
+  "name": "Nöt entrecôte stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1018",
+  "name": "Gris bog stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1019",
+  "name": "Gris kött kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1022",
+  "name": "Gris fläskben kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1023",
+  "name": "Gris fläskfilé skiva stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1024",
+  "name": "Gris fläskkarré skiva stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1025",
+  "name": "Gris fläskkotlett stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1027",
+  "name": "Gris lägg kokt m. salt u. svål",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1028",
+  "name": "Gris kött grillat",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1029",
+  "name": "Rullsylta",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1030",
+  "name": "Gris fötter kokta m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1031",
+  "name": "Hare stek stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1032",
+  "name": "Kalv filé stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1033",
+  "name": "Kalv kotlett stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1034",
+  "name": "Kalv kött kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1035",
+  "name": "Kalv stek stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1036",
+  "name": "Lamm kotlett stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1037",
+  "name": "Lamm stek stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1038",
+  "name": "Nöt högrev kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1039",
+  "name": "Nöt stek el. grytstek kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1042",
+  "name": "Nöt oxbringa rimmad kokt u. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1043",
+  "name": "Oxrullad nöt stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1044",
+  "name": "Nöt rostbiff ugnsstekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1045",
+  "name": "Gris revbensspjäll ugnsstekt grillat",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1047",
+  "name": "Rådjur kött ugnsstekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1048",
+  "name": "Ren kött kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1049",
+  "name": "Ren kött ugnsstekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1050",
+  "name": "Älg stek ugnsstekt el. grillad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1055",
+  "name": "Gris fläskkarré tillagad u. sky",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1056",
+  "name": "Gris skinkstek stekt u. sky frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1057",
+  "name": "Nöt stek stekt u. sky frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1058",
+  "name": "Nöt rostbiff tillagad ugnsrostad u. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1059",
+  "name": "Gris revbensspjäll tillagad u. sky",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1064",
+  "name": "Rimmat sidfläsk panerat stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1065",
+  "name": "Fläskkotlett panerad stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1066",
+  "name": "Schnitzel gris stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1101",
+  "name": "Hamburgare nöt rå frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1103",
+  "name": "Pannbiff rå frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1151",
+  "name": "Anka bröst rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1153",
+  "name": "Anka rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1154",
+  "name": "Duva rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1155",
+  "name": "Duva rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1156",
+  "name": "Fasan rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1157",
+  "name": "Fasan rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1158",
+  "name": "Gås rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1159",
+  "name": "Gås rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1160",
+  "name": "Höna rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1161",
+  "name": "Höna rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1162",
+  "name": "Kalkon filé rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1163",
+  "name": "Kalkon rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1164",
+  "name": "Kyckling kött rå u. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1165",
+  "name": "Kyckling kött rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1166",
+  "name": "Kyckling bröstfilé rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1167",
+  "name": "Kyckling lår rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1168",
+  "name": "Kyckling vinge rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1169",
+  "name": "Ripa rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1170",
+  "name": "Kyckling bröstfilé färsk stekt u. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1171",
+  "name": "Kyckling ben rå m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1172",
+  "name": "Kyckling bröstfilé strimlad wokad u. skinn m. rapsolja",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1173",
+  "name": "Kyckling bröstfilé rå u. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1174",
+  "name": "Kyckling lår rå u. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1175",
+  "name": "Kyckling delar marinerade m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1176",
+  "name": "Struts filé rå",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1177",
+  "name": "Struts filé stekt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1178",
+  "name": "Kalkon kokt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1180",
+  "name": "Duva m. skinn stekt m. salt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1181",
+  "name": "Kyckling kokt m. salt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1182",
+  "name": "Kyckling grillad m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1183",
+  "name": "Fasan stekt m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1184",
+  "name": "Gås stekt m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1185",
+  "name": "Höna kokt m. salt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1186",
+  "name": "Kalkon stekt m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1188",
+  "name": "Kyckling bröstfilé m. skinn stekt m. salt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1189",
+  "name": "Ripa stekt",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1190",
+  "name": "Kyckling kött kokt stekt grillat",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1191",
+  "name": "Kalkon rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1192",
+  "name": "Kyckling marinerad grillad m. skinn",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1193",
+  "name": "Kyckling friterad m. frityrsmet",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1200",
+  "name": "Braxen rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1201",
+  "name": "Regnbågslax rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1202",
+  "name": "Sej rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1203",
+  "name": "Hälleflundra vild rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1207",
+  "name": "Kyckling nugget friterad tillagad på restaurang",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:1210",
+  "name": "Kalvbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1211",
+  "name": "Kalvbuljong pasta el. pulver lågsalt storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1212",
+  "name": "Köttbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1213",
+  "name": "Köttbuljong pasta el. pulver lågsalt storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1214",
+  "name": "Skinkbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1215",
+  "name": "Hönsbuljong pasta el. pulver lågsalt storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1216",
+  "name": "Hönsbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1217",
+  "name": "Köttbuljong pulver tärning",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1218",
+  "name": "Köttbuljong konserv. ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1219",
+  "name": "Gelatinblad el. gelatinpulver",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:1222",
+  "name": "Köttbuljong tärning ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1223",
+  "name": "Köttbuljong ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1224",
+  "name": "Hönsbuljong ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1225",
+  "name": "Ägg rått",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1226",
+  "name": "Äggula rå",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1227",
+  "name": "Äggvita rå",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1233",
+  "name": "Ägg stekt",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1237",
+  "name": "Kolja rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1238",
+  "name": "Kummel rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1240",
+  "name": "Siklöja rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1241",
+  "name": "Sill rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1242",
+  "name": "Flundra rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1243",
+  "name": "Strömming rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1244",
+  "name": "Röding rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1246",
+  "name": "Torsk rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1247",
+  "name": "Vitling rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1248",
+  "name": "Ål rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1249",
+  "name": "Öring odlad rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1250",
+  "name": "Pinklax rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1251",
+  "name": "Piggvar rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1252",
+  "name": "Sik urtagen varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1253",
+  "name": "Abborre rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1255",
+  "name": "Lax odlad Norge fjordlax rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1256",
+  "name": "Öring Sverige rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1257",
+  "name": "Lake rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1258",
+  "name": "Rödspätta rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1259",
+  "name": "Sik rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1260",
+  "name": "Makrill rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1261",
+  "name": "Regnbågslax odlad rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1262",
+  "name": "Gädda rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1263",
+  "name": "Gös rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1265",
+  "name": "Ansjovis skarpsill konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1266",
+  "name": "Böckling varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1267",
+  "name": "Fisk torkad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1269",
+  "name": "Lax kallrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1270",
+  "name": "Sardeller konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1271",
+  "name": "Sardiner i olja konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1272",
+  "name": "Sardiner i tomatsås konserv.",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1273",
+  "name": "Saltsill rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1274",
+  "name": "Saltströmming rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1275",
+  "name": "Tonfisk i olja konserv. avrunnen",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1277",
+  "name": "Ål varmrökt rundrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1278",
+  "name": "Tonfisk i vatten konserv. avrunnen",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1279",
+  "name": "Makrill urtagen varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1280",
+  "name": "Lutfisk rå frysvara",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1281",
+  "name": "Sill matjessill konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1282",
+  "name": "Marulk rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1283",
+  "name": "Makrill filé i olja konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1284",
+  "name": "Saltsill urvattnad konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1285",
+  "name": "Lax gravad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1286",
+  "name": "Lax rimmad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1287",
+  "name": "Böckling dubbelfilé varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1288",
+  "name": "Lax varmrökt urtagen",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1289",
+  "name": "Makrill filé varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1290",
+  "name": "Regnbågslax kallrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1291",
+  "name": "Regnbågslax urtagen varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1292",
+  "name": "Röding urtagen varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1293",
+  "name": "Ål varmrökt flatrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1294",
+  "name": "Fiskpinnar stekta",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1296",
+  "name": "Makrill filé i tomatsås konserv.",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1297",
+  "name": "Surströmming",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1298",
+  "name": "Lutfisk kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1299",
+  "name": "Saltsill panerad stekt hemlagad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1300",
+  "name": "Strömmingsflundra panerad stekt hemlagad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1301",
+  "name": "Torsk filé panerad stekt hemlagad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1302",
+  "name": "Ål inkokt hemlagad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1303",
+  "name": "Ål ugnsstekt hemlagad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1304",
+  "name": "Abborre kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1305",
+  "name": "Abborre filé panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1306",
+  "name": "Fisk friterad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1308",
+  "name": "Regnbågslax inkokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1309",
+  "name": "Regnbågslax panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1310",
+  "name": "Gädda kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1311",
+  "name": "Gädda panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1312",
+  "name": "Hälleflundra kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1313",
+  "name": "Hälleflundra panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1314",
+  "name": "Kolja kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1315",
+  "name": "Kolja panerad stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1316",
+  "name": "Lax stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1317",
+  "name": "Lax kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1318",
+  "name": "Makrill kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1319",
+  "name": "Makrill panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1320",
+  "name": "Makrill stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1321",
+  "name": "Piggvar kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1322",
+  "name": "Rödspätta filé kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1323",
+  "name": "Rödspätta filé panerad stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1324",
+  "name": "Rödspätta filé stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1325",
+  "name": "Sik kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1326",
+  "name": "Sik panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1327",
+  "name": "Saltsill kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1328",
+  "name": "Sill panerad stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1329",
+  "name": "Strömming kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1331",
+  "name": "Ättikströmming",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1333",
+  "name": "Strömming filé stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1334",
+  "name": "Tonfisk stekt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1335",
+  "name": "Torsk filé kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1336",
+  "name": "Torsk panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1337",
+  "name": "Torsk stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1338",
+  "name": "Vitling kokt m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1339",
+  "name": "Vitling filé panerad stekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1340",
+  "name": "Fisk varmrökt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1346",
+  "name": "Laxpastej lättrökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1347",
+  "name": "Böcklingpastej",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1357",
+  "name": "Fiskfärs kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1376",
+  "name": "Fiskrom torsk sill rå",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1377",
+  "name": "Påläggskaviar orökt",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1378",
+  "name": "Påläggskaviar original",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1379",
+  "name": "Påläggskaviar lätt",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1381",
+  "name": "Stenbitsrom",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1382",
+  "name": "Löjrom saltad",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:1384",
+  "name": "Bläckfisk rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1385",
+  "name": "Blåmussla kokt m. vin avrunnen",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1386",
+  "name": "Ostron",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1387",
+  "name": "Snigel vinbergssnäcka",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1388",
+  "name": "Groda lår rått frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1389",
+  "name": "Mussla konserv. m. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1390",
+  "name": "Mussla konserv. u. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1391",
+  "name": "Ostron konserv. m. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1392",
+  "name": "Krabba Blå krabba kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1393",
+  "name": "Hummer kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1394",
+  "name": "Kräfta kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1395",
+  "name": "Räka kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1396",
+  "name": "Hummer kokt el. konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1397",
+  "name": "Krabba kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1398",
+  "name": "Krabba konserv.",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1399",
+  "name": "Räka konserv. m. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1400",
+  "name": "Räka konserv. u. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1403",
+  "name": "Havskräfta kokt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1404",
+  "name": "Räka friterad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1406",
+  "name": "Räka friterad tillagad på restaurang",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1407",
+  "name": "Bläckfisk friterad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1408",
+  "name": "Bläckfisk friterad tillagad på restaurang",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:1419",
+  "name": "Fiskbuljong pasta el. pulver storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1420",
+  "name": "Fiskbuljong pasta el. pulver lågsalt storhushåll",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1422",
+  "name": "Fiskbuljong ätf.",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1423",
+  "name": "Gris blod rått",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1424",
+  "name": "Nöt blod rått",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1425",
+  "name": "Hårt bröd blodbröd fullkorn",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1434",
+  "name": "Lamm bräss rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1435",
+  "name": "Lamm hjärta rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1436",
+  "name": "Lamm lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1437",
+  "name": "Lamm njure rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1438",
+  "name": "Lamm tunga rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1439",
+  "name": "Kalv bräss rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1441",
+  "name": "Kalv lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1442",
+  "name": "Kalv njure rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1443",
+  "name": "Kalv tunga rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1444",
+  "name": "Nöt kalv hjärta",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1445",
+  "name": "Nöt lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1446",
+  "name": "Nöt njure rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1447",
+  "name": "Nöt oxtunga rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1448",
+  "name": "Gris hjärta rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1449",
+  "name": "Gris lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1450",
+  "name": "Gris njure rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1451",
+  "name": "Gris tunga rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1452",
+  "name": "Kyckling hjärta rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1453",
+  "name": "Kyckling lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1454",
+  "name": "Kyckling mage rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1455",
+  "name": "Ren lever rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1456",
+  "name": "Nöt oxtunga rimmad rå",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1457",
+  "name": "Kyckling lever stekt",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1458",
+  "name": "Nöt lever panerad stekt",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1459",
+  "name": "Nöt lever stekt",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1460",
+  "name": "Nöt oxtunga rimmad kokt",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:1470",
+  "name": "Gåsleverpastej konserv. rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1474",
+  "name": "Leverpastej bredbar fett ca 24%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1476",
+  "name": "Leverpastej skivbar fett 14%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1477",
+  "name": "Leverpastej bredbar fett ca 10%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1478",
+  "name": "Leverpastej bredbar fett 3-3,5%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1485",
+  "name": "Korv kycklingkorv mager",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1486",
+  "name": "Korv kycklingkorv halal",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1487",
+  "name": "Korv falukorv fett 19% kött 58%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1488",
+  "name": "Korv falukorv kött 58%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1491",
+  "name": "Korv fläskkorv kokt kött 48%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1492",
+  "name": "Korv frukostkorv fett 23% kött 52%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1496",
+  "name": "Påläggskorv medvurst fett 23%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1497",
+  "name": "Påläggskorv medvurst rökt fett 35%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1498",
+  "name": "Påläggskorv salami rökt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1500",
+  "name": "Korv varmkorv kött 51-54%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1501",
+  "name": "Korv varmkorv kokt kött ca 53%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1503",
+  "name": "Korv wienerkorv kött 73%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1508",
+  "name": "Korv grillkorv kött 32-35%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1509",
+  "name": "Korv isterband fermenterad kött 59%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1511",
+  "name": "Korv middagskorv fett ca 15%  kött 52%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1512",
+  "name": "Korv wienerkorv mager kött 73%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1513",
+  "name": "Korv chorizo stekt kött 73%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1514",
+  "name": "Korv kabanoss stekt kött 80%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1516",
+  "name": "Korv prinskorv kött 61%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1518",
+  "name": "Korv salsiccia rå kött 73%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1519",
+  "name": "Korv salsiccia stekt u. fett kött 73%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1521",
+  "name": "Korv värmlandskorv rå kött 45%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1522",
+  "name": "Korv värmlandskorv kokt kött 45%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1523",
+  "name": "Gris bacon stekt mager",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1524",
+  "name": "Gris bacon rå mager",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:1526",
+  "name": "Korv frukostkorv kokt fett 23% kött 52%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1527",
+  "name": "Korv falukorv stekt fett 19% kött 58%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1528",
+  "name": "Korv falukorv skivad kokt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1530",
+  "name": "Korv frukostkorv stekt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1531",
+  "name": "Korv isterband fermenterad stekt kött 59%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1534",
+  "name": "Korv varmkorv kokt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1535",
+  "name": "Korv varmkorv stekt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1536",
+  "name": "Korv wienerkorv stekt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1540",
+  "name": "Korv wienerkorv kokt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:1557",
+  "name": "Cashewnötter rostade u. salt",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1558",
+  "name": "Hasselnötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1559",
+  "name": "Jordnötssmör",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1560",
+  "name": "Jordnötter torkade",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1561",
+  "name": "Jordnötter rostade",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1562",
+  "name": "Jordnötter rostade saltade",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1563",
+  "name": "Kastanjer",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1564",
+  "name": "Kokosflingor",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1565",
+  "name": "Kokosnöt",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1566",
+  "name": "Kokosmjölk fett ca 6%",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1567",
+  "name": "Linfrö hela",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1568",
+  "name": "Paranötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1569",
+  "name": "Pekannötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1570",
+  "name": "Pistaschnötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1571",
+  "name": "Pumpafrö",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1572",
+  "name": "Sesamfrö m. skal",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1573",
+  "name": "Sesamfrö u. skal",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1574",
+  "name": "Solrosfrö",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1575",
+  "name": "Sötmandel",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1576",
+  "name": "Valnötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1577",
+  "name": "Kastanjer rostade",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1579",
+  "name": "Kikärtor snacks torkade m. salt",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1580",
+  "name": "Jordnötsbågar jordnötsringar",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1581",
+  "name": "Chips majs tortilla",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1582",
+  "name": "Ostbågar",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1583",
+  "name": "Popcorn mikropoocorn poppade fett ca 15%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1584",
+  "name": "Chips potatis m. havssalt",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1585",
+  "name": "Salta pinnar",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1586",
+  "name": "Popcorn mikropopcorn poppade fett ca 22%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1587",
+  "name": "Chips potatis smaksatta fett ca 33%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1588",
+  "name": "Chips potatis light fett 25%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1589",
+  "name": "Japanmix blandade snacks m. inbakade nötter riscracker",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:1590",
+  "name": "Kokosmjölk fett ca 24%",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1591",
+  "name": "Vatten kokosvatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1592",
+  "name": "Sesamdryck vattenextrakt av frön m. skal",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1593",
+  "name": "Sesamdryck vattenextrakt av frön u. skal",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1595",
+  "name": "Skorpor råg",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1597",
+  "name": "Skorpor vete osötade",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1598",
+  "name": "Sött vetebröd",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1599",
+  "name": "Sött vetebröd slätt",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1600",
+  "name": "Sött vetebröd sötat m. fruktsocker",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1601",
+  "name": "Vetebröd osötat",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1602",
+  "name": "Sött vetebröd m. fyllning bulle längd",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1603",
+  "name": "Skorpor vete",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1604",
+  "name": "Skorpor fullkorn osötade",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1605",
+  "name": "Mandelkubb",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1606",
+  "name": "Munk u. fyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1607",
+  "name": "Munk fylld m. äppelmos vaniljkräm",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1608",
+  "name": "Wienerbröd m. vaniljkräm sylt florsocker",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1609",
+  "name": "Sött vetebröd bakpulver",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1610",
+  "name": "Sött vetebröd saffransbröd hembakad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1611",
+  "name": "Kex cream crackers",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1612",
+  "name": "Kex rån m. cremefyllning smaksatt",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1613",
+  "name": "Kex havrekex fullkorn",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1614",
+  "name": "Kex Mariekex",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1615",
+  "name": "Kex mördegskex",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1616",
+  "name": "Kex m. syltfyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1617",
+  "name": "Kex m. nougatfyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1618",
+  "name": "Maräng m. choklad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1619",
+  "name": "Småkakor olika sorter",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1620",
+  "name": "Jitterbugg m. mördeg maräng",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1621",
+  "name": "Cookie amerikansk m. choklad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1623",
+  "name": "Kex smörgåskex",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1624",
+  "name": "Pepparkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1625",
+  "name": "Spettekaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1626",
+  "name": "Maräng",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1627",
+  "name": "Kex m. fyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1628",
+  "name": "Kex ostkex",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1629",
+  "name": "Kex salta",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1630",
+  "name": "Kex salta m. mjölk",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1631",
+  "name": "Kex u. socker",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1632",
+  "name": "Pepparkaka u. socker",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1633",
+  "name": "Kex smörgåsrån",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1636",
+  "name": "Glasstrut våffla ofylld",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1637",
+  "name": "Småkakor u. socker",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1638",
+  "name": "Mandelbiskvi",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1639",
+  "name": "Deg mördeg gräddad",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1640",
+  "name": "Deg smördeg gräddad",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1641",
+  "name": "Deg smördeg frysvara",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1642",
+  "name": "Deg filodeg kylvara el. frysvara",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:1645",
+  "name": "Gräddtårta",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1646",
+  "name": "Toscabit m. mazarinmassa mandel choklad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1647",
+  "name": "Bärtårta m. grädde vaniljkräm sylt gele",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1648",
+  "name": "Prinsesstårta m. grädde vaniljkräm hallonsylt marsipan",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1649",
+  "name": "Chokladtårta Sachertårta",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1650",
+  "name": "Napoleonbakelse m. grädde vaniljkräm hallonsylt glasyr",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1651",
+  "name": "Frukttårta m. hallonsylt vaniljkräm mandelmassa frukt gele",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1652",
+  "name": "Chokladbiskvi m. mandelbotten smörkräm choklad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1653",
+  "name": "Mazariner m. mördegsbotten mazarinfyllning glasyr",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1654",
+  "name": "Mjuk kaka drömtårta chokladrulltårta",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1655",
+  "name": "Mjuk kaka rulltårta m. sylt",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1656",
+  "name": "Punschrulle",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1657",
+  "name": "Chokladboll",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1658",
+  "name": "Gräddtårta m. jordgubb banan hemlagad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1659",
+  "name": "Potatisbakelse m. vaniljkräm smörkräm marsipan",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1660",
+  "name": "Äppelkaka m. ströbröd",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1661",
+  "name": "Mjuk kaka drömtårta chokladrulltårta hemlagad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1662",
+  "name": "Semla vetebulle fylld m. mandelmassa vispad grädde",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1663",
+  "name": "Mjuk kaka chokladruta m. chokladglasyr riven kokos",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1664",
+  "name": "Mjuk kaka ambrosiakaka sockerkaka m. glasyr",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1666",
+  "name": "Arraksboll",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1667",
+  "name": "Petit-choux u. fyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1668",
+  "name": "Semla vetebulle fylld m. mandelmassa vispad grädde hemlagad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1669",
+  "name": "Mjuk kaka fransk äppelkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1671",
+  "name": "Mjuk kaka toscakaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1672",
+  "name": "Mjuk kaka chokladkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1677",
+  "name": "Muffins amerikansk",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1678",
+  "name": "Mjuk kaka sockerkaka pepparkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1679",
+  "name": "Mjuk kaka tårtbotten",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1681",
+  "name": "Mjuk kaka sockerkaka fin",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1682",
+  "name": "Mjuk kaka pepparkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1683",
+  "name": "Mjuk kaka nötkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1684",
+  "name": "Mjuk kaka sockerkaka fin mager",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1685",
+  "name": "Mjuk kaka sockerkaka saftig",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1686",
+  "name": "Kex digestive fullkorn 23%",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1687",
+  "name": "Mjuk kaka fruktkaka",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1689",
+  "name": "Glass gräddglass fett 12%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1690",
+  "name": "Glass vaniljsmak fett ca 8%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1691",
+  "name": "Glass fett ca 10%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1692",
+  "name": "Glass glasstrut fett ca 15%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1693",
+  "name": "Glass lättglass m. sötningsm. fett ca 6%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1694",
+  "name": "Glass glasstrut våffla m. vaniljglass daimbitar chokladöverdrag",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1695",
+  "name": "Glass vaniljglass m. chokladkex",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1696",
+  "name": "Glass gräddglass fett 15%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1697",
+  "name": "Glass fett 12%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1698",
+  "name": "Glass lättglass fett ca 5%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1699",
+  "name": "Glass glasspinne fett ca 25%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1700",
+  "name": "Glass glasspinne m. kakaoöverdrag fett 20%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1701",
+  "name": "Glass glasspinne el. split m. isöverdrag fett ca 6%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1702",
+  "name": "Glass glasstrut fett ca 10%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1703",
+  "name": "Glass mjukglass bägare",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1705",
+  "name": "Glass glasstårta fett 17%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1706",
+  "name": "Glass m. maräng fett 10%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1707",
+  "name": "Glass havreglass m. vanilji fett 13%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1708",
+  "name": "Glass parfait m. bär",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1712",
+  "name": "Matlagningsbas m. havre fett 13%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1713",
+  "name": "Gräddfil fett 12%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1714",
+  "name": "Kaffegrädde fett 12%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1715",
+  "name": "Vispgrädde fett 40%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1716",
+  "name": "Mellangrädde fett 27%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1717",
+  "name": "Matlagningsgrädde fett 15%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1719",
+  "name": "Crème fraiche fett 34%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1721",
+  "name": "Crème fraiche lätt fett 15%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1725",
+  "name": "Gräddersättning pulver fett 35%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:1745",
+  "name": "Pajfyllning bär m. socker",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:1749",
+  "name": "Fruktdryck blåbär berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1752",
+  "name": "Nyponsoppa ätf. pulver osötad berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1758",
+  "name": "Mjuk kaka m. katrinplommon",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1793",
+  "name": "Apelsinmarmelad",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1794",
+  "name": "Gelé röda vinbär",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1795",
+  "name": "Gelé svarta vinbär",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1796",
+  "name": "Apelsinmarmelad lättsockrad lag",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1797",
+  "name": "Marmelad olika smaker",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1798",
+  "name": "Lingonsylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1800",
+  "name": "Lingonsylt sötningsm.",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1801",
+  "name": "Jordgubbssylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1802",
+  "name": "Björnbärssylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1803",
+  "name": "Blåbärssylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1804",
+  "name": "Hallonsylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1805",
+  "name": "Hjortronsylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1806",
+  "name": "Krusbärssylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1808",
+  "name": "Körsbärssylt",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1809",
+  "name": "Äppelmos",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1810",
+  "name": "Äppelmos lättsockrad",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1811",
+  "name": "Äppelmos osötad el. sötningsm.",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:1814",
+  "name": "Apelsinsaft konc. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1815",
+  "name": "Apelsinsaft drickf. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1817",
+  "name": "Saft lättsockrad konc.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1818",
+  "name": "Måltidsdryck drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1819",
+  "name": "Blandsaft konc.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1820",
+  "name": "Saft drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1821",
+  "name": "Svartvinbärssaft konc. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1822",
+  "name": "Saft sötningsm. konc.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1826",
+  "name": "Fruktdryck m. kolsyra",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1827",
+  "name": "Fruktdryck u. kolsyra",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1828",
+  "name": "Läsk",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1829",
+  "name": "Läsk cola",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1830",
+  "name": "Läsk light",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1831",
+  "name": "Läsk cola light",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1834",
+  "name": "Saft sötningsm. drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1837",
+  "name": "Hallonsaft drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1838",
+  "name": "Svartvinbärssaft drickf. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1840",
+  "name": "Lingondricka drickf. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1841",
+  "name": "Äppeldricka drickf. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1842",
+  "name": "Saft sötningsm. drickf. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1843",
+  "name": "Glass isglass",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1844",
+  "name": "Glass sorbet",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1845",
+  "name": "Glass isglass saftis",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:1846",
+  "name": "Chokladdryck m. vatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1847",
+  "name": "Chokladdryck drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1848",
+  "name": "Mjölkchoklad m. hackade hasselnötter",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1849",
+  "name": "Mjölkchoklad fylld m. mandelkrokant",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1850",
+  "name": "Mjölkchoklad m. mjuk kolafyllning",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1851",
+  "name": "Kex m. mjölkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1852",
+  "name": "Kex m. kola mjölkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1853",
+  "name": "Mjuk nougat m. kolasås jordnötter mjölkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1854",
+  "name": "Mjuk chokladmaräng m. kola mjölkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1855",
+  "name": "Choklad chokladpraliner",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1858",
+  "name": "Chokladpralin",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1859",
+  "name": "Mjuk kokos m. mjölkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1860",
+  "name": "Nötkräm chokladkräm",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:1861",
+  "name": "Choklad sötningsm.",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1863",
+  "name": "Gelékonfekt",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1864",
+  "name": "Karameller syrliga",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1865",
+  "name": "Kola",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1867",
+  "name": "Marmeladkonfekt",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1868",
+  "name": "Skumgodis",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1869",
+  "name": "Polkagris",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1870",
+  "name": "Tuggummi",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1871",
+  "name": "Klubba chokladkola karamell",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1875",
+  "name": "Chokladkola mörk m. chokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1876",
+  "name": "Kex rån m. chokladfyllning",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1877",
+  "name": "Fruktkola",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1878",
+  "name": "Skumbilar",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1879",
+  "name": "Skumboll m. chokladöverdrag kokos",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1880",
+  "name": "Skumboll m. chokladöverdrag",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1881",
+  "name": "Bar energibar m. choklad nötter",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1882",
+  "name": "Karameller sockerfria",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1884",
+  "name": "Tuggummi sockerfritt",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:1885",
+  "name": "Mandelmassa",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:1886",
+  "name": "Kakaopulver fett 20-22%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1887",
+  "name": "Chokladdryckspulver m. socker fett 2,5%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1888",
+  "name": "Chokladboll hemlagad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:1892",
+  "name": "Socker",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1893",
+  "name": "Brun farin",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1894",
+  "name": "Ljus sirap",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1896",
+  "name": "Honung",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1897",
+  "name": "Druvsocker",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1898",
+  "name": "Fruktsocker",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1899",
+  "name": "Sorbitol m. sackarin",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1900",
+  "name": "Svagdricka vol. % 2,3",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1901",
+  "name": "Öl lättöl vol. % 2,3",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1902",
+  "name": "Öl pilsner folköl vol. % 3,5",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1903",
+  "name": "Cider vol. % 1",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1904",
+  "name": "Vin vitt vol. % 1",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1905",
+  "name": "Vin rött el. rosé vol. % 1",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1906",
+  "name": "Öl starköl el. exportöl vol. % 5,4",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1907",
+  "name": "Vin rött vol. % 14",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1908",
+  "name": "Vin vitt vol. % 12",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1909",
+  "name": "Vin vitt el. rhenvin vol. % 10",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1912",
+  "name": "Glögg vin vol. % 10",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1914",
+  "name": "Starkvin vol. % 18 typ Madeira",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1915",
+  "name": "Starkvin vitt rött vol. % 20 typ Portvin",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1916",
+  "name": "Starkvin halvtorr vol. % 17 typ Sherry",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1917",
+  "name": "Glögg starkvin vol. % 16",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1918",
+  "name": "Brännvin renat el. vodka vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1919",
+  "name": "Likör söt vol. % 24",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1920",
+  "name": "Likör Kaptenlöjtnant vol. % 38",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1921",
+  "name": "Konjak el. brandy vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1922",
+  "name": "Punsch vol. % 26",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1923",
+  "name": "Rom vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1924",
+  "name": "Brännvin kryddat vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1925",
+  "name": "Gin vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1926",
+  "name": "Whisky vol. % 40",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1927",
+  "name": "Likör mindre söt vol. % 24",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1929",
+  "name": "Kaffedrink Irish coffee m.whiskey vispad grädde",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1930",
+  "name": "Bovetemjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1931",
+  "name": "Havremust pulver berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:1932",
+  "name": "Kornmjöl fullkorn",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1933",
+  "name": "Majsmjöl gult u. groddar",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1934",
+  "name": "Rågmjöl fullkorn",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1935",
+  "name": "Vetemjöl fullkorn grahamsmjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1938",
+  "name": "Vetemjöl bagerivetemjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1941",
+  "name": "Vetemjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1945",
+  "name": "Majsstärkelse",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1946",
+  "name": "Potatismjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:1947",
+  "name": "Samarinpulver",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:1948",
+  "name": "Samarin drickf.",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:1949",
+  "name": "Vatten sodavatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1950",
+  "name": "Vatten vichyvatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1951",
+  "name": "Vatten mineralvatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1953",
+  "name": "Vatten kranvatten",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1955",
+  "name": "Snabbkaffe pulver",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1956",
+  "name": "Snabbkaffe drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1957",
+  "name": "Kaffe bryggt",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1958",
+  "name": "Kaffe espresso bryggt drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1959",
+  "name": "Snabbkaffe koffeinfritt drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1960",
+  "name": "Tepulver",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1962",
+  "name": "Te bryggt",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1963",
+  "name": "Örtte drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1964",
+  "name": "Nyponte drickf. m. svarta vinbär",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:1965",
+  "name": "Ättiksprit ättiksyra 12%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1966",
+  "name": "Vinäger ättiksyra 7%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1967",
+  "name": "Äppelcidervinäger ättiksyra 7%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1968",
+  "name": "Chilisås tomat",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1969",
+  "name": "Ketchup",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1970",
+  "name": "Engelsk brown sauce HP-sås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1971",
+  "name": "Grillsås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1972",
+  "name": "Senap svensk",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1973",
+  "name": "Senap fransk",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1975",
+  "name": "Salt m. jod",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1976",
+  "name": "Salt mineralsalt",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1977",
+  "name": "Salt havssalt u. jod",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1978",
+  "name": "Salt örtsalt",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:1979",
+  "name": "Jäst färsk",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:1980",
+  "name": "Jäst torkad",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:1981",
+  "name": "Bakpulver",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:2007",
+  "name": "Sweet chilisås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:2012",
+  "name": "Teriyakisås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:2024",
+  "name": "Frukostflingor müsli fullkorn m. frukt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2025",
+  "name": "Frukostflingor müsli fullkorn m. bär",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2027",
+  "name": "Frukostflingor müsli fullkorn m. socker m. frukt nötter",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2028",
+  "name": "Frukostflingor crunchy fullkorn m. socker m. russin kokos",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2029",
+  "name": "Frukostflingor crunchy naturell m. socker m. kokos",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2030",
+  "name": "Frukostflingor müsli fullkorn m. socker m. frukt kokos",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2031",
+  "name": "Frukostflingor müsli fullkorn m. socker m. frukt bär",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2032",
+  "name": "Frukostflingor müsli flingblandning fullkorn m. frukt nötter",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2033",
+  "name": "Frukostflingor müsli fullkorn m. frukt banan",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2035",
+  "name": "Surimi fisk",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:2036",
+  "name": "Matlagningsbas fett 15%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2037",
+  "name": "Matlagningsbas fett 7%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2039",
+  "name": "Vispgrädde ersättningsprod. mjölk olja fett 20%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2040",
+  "name": "Kaffegrädde ersättningsprod. mjölk olja fett 10%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2043",
+  "name": "Crème fraiche smaksatt fett 13%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2044",
+  "name": "Crème fraiche smaksatt fett 28%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2046",
+  "name": "Mini fraiche fett 5%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2047",
+  "name": "Mjukost smältost fett 13% typ grevé",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:2048",
+  "name": "Filmjölk naturell fett 4,2%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2049",
+  "name": "Fruktyoghurt olika smaker fett 3,6%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2051",
+  "name": "Vit choklad",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2052",
+  "name": "Mörk choklad kakao ≥ 70%",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2053",
+  "name": "Mörk choklad kakao < 70%",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2054",
+  "name": "Bakchoklad mörk",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2055",
+  "name": "Mjölkchoklad",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2056",
+  "name": "Kebabkött frysvara",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2057",
+  "name": "Ris avorio okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2058",
+  "name": "Lök rostad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2059",
+  "name": "Glass glasspinne m. frukt  mjölk fett 5,5%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:2060",
+  "name": "Glass glasspinne fett 10%",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:2061",
+  "name": "Bar m. fiber havre vete naturell",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2066",
+  "name": "Korv veg. soja- och veteprotein kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:2067",
+  "name": "Soja- och veteprotein bullar kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:2068",
+  "name": "Sojaprotein färs kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:2069",
+  "name": "Veteprotein grytbitar",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:2070",
+  "name": "Matlagningsbas m. soja fett 17%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2071",
+  "name": "Bar müslibar fullkorn m. röd frukt berikad",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2072",
+  "name": "Bar müslibar m. choklad berikad",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2079",
+  "name": "Nudlar äggnudlar kokta m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2097",
+  "name": "Korv prinskorv stekt kött 61%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:2101",
+  "name": "Nöt färs stekt m. salt fett 10%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2103",
+  "name": "Nöt el. gris kött stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2123",
+  "name": "Havregrynsgröt fullkorn fiberhavregryn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2124",
+  "name": "Havregrynsgröt kokt m. mjölk",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2125",
+  "name": "Nudlar glasnudlar kokta m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2128",
+  "name": "Gröt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2160",
+  "name": "Rödkålssallad m. äpple",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2161",
+  "name": "Champinjon stekt u. fett",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2162",
+  "name": "Palsternacka kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2164",
+  "name": "Fänkål kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2189",
+  "name": "Rapsolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2190",
+  "name": "Matfettsblandning fett 75% berikad typ Bregott",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2192",
+  "name": "Lättmargarin fett 40% berikad typ Lätta",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2197",
+  "name": "Äggröra",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:2205",
+  "name": "Ägg kokt",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:2214",
+  "name": "Aloe vera juice naturell",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2216",
+  "name": "Aloe vera juice m. grönt te",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2217",
+  "name": "Aloe vera-dryck m. tranbär äpple",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2218",
+  "name": "Aloe vera-dryck naturell",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2219",
+  "name": "Toscaglasyr",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:2220",
+  "name": "Pasta makaroner spagetti okokt glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2221",
+  "name": "Pasta fusilli lasagneplattor okokt glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2222",
+  "name": "Pepparkaka glutenfri",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:2223",
+  "name": "Kex digestive fullkorn glutenfri",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:2225",
+  "name": "Hårt bröd glutenfritt fibrer ca 7,5% typ grovknäcke",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:2226",
+  "name": "Pasta tagliatelle m. ägg okokt glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2227",
+  "name": "Pasta okokt majs 100% glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2236",
+  "name": "Korv varmkorv mager fett 7%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:2238",
+  "name": "Korv chorizo mager fett 9%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:2239",
+  "name": "Korv middagskorv fett ca 9% kött ca 55 %",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:2240",
+  "name": "Påläggskorv salami mager",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:2242",
+  "name": "Fruktyoghurt lättsockrad fett 0,2%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2243",
+  "name": "Fruktyoghurt lättsockrad laktosreducerad fett 0,1% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:2246",
+  "name": "Mintplattor m. mörkchokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:2255",
+  "name": "Ost mozzarella fett 18%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:2269",
+  "name": "Ingefära färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2294",
+  "name": "Kebabkött restaurang",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2301",
+  "name": "Fruktdryck nypon blåbär berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2302",
+  "name": "Energidryck berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2305",
+  "name": "Öl alkoholfri",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:2401",
+  "name": "Flytande margarin mjölkfri fett 80% berikad typ Carlshamn",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2403",
+  "name": "Bordsmargarin mjölkfri fett 70% berikad typ Carlshamn",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2404",
+  "name": "Hushållsmargarin mjölkfri fett 80% berikad typ Carlshamn",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2413",
+  "name": "Lamm rygg el. hals kokt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2468",
+  "name": "Tilapia rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:2472",
+  "name": "Lättmargarin fett 28% berikad typ Mini Lätta",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2474",
+  "name": "Flytande margarin fett 79% berikad typ Becel",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2475",
+  "name": "Ris basmati okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2477",
+  "name": "Ris jasmin okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2478",
+  "name": "Ris råris långkornigt okokt fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2479",
+  "name": "Ris grötris snabb okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2481",
+  "name": "Ris långkornigt okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2482",
+  "name": "Ris långkornigt parboiled okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2483",
+  "name": "Ris snabbris okokt salt 1%",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2484",
+  "name": "Ris snabbris okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2485",
+  "name": "Ris grötris rundkornigt okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2490",
+  "name": "Bordsmargarin fett 70% berikad typ Becel Gold",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:2492",
+  "name": "Blandfärs rå nöt 70% gris 30%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2499",
+  "name": "Blandfärs rå nöt 50% gris 50%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2513",
+  "name": "Ris basmati kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2514",
+  "name": "Ris jasmin kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2515",
+  "name": "Ris långkornigt kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2516",
+  "name": "Ris långkornigt parboiled kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2517",
+  "name": "Ris råris långkornigt kokt m. salt fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2518",
+  "name": "Ris snabbris kokt salt 1%",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2519",
+  "name": "Ris snabbris kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2520",
+  "name": "Pasta tagliatelle m. ägg kokt m. salt glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2521",
+  "name": "Pasta makaroner spagetti kokt m. salt glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2522",
+  "name": "Pasta kokt m. salt majs 100% glutenfri",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:2547",
+  "name": "Gröna ärtor kokta m. salt frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2552",
+  "name": "Älg högrev rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2555",
+  "name": "Älg ryggbiff rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:2557",
+  "name": "Tacoskal",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:2559",
+  "name": "Romansallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2561",
+  "name": "Ruccolasallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2565",
+  "name": "Okra kokt u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:2808",
+  "name": "Rismål m. sylt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2809",
+  "name": "Rismål m. sylt u. socker m. sötningsmedel",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:2883",
+  "name": "Salt u. jod",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:2899",
+  "name": "Ost halloumi stekt eller grillad",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:2973",
+  "name": "Dressing hamburgerdressing",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:3035",
+  "name": "Sill inlagd m. gräddfilssås",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:3036",
+  "name": "Sill inlagd m. senapssås",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:3069",
+  "name": "Chilinötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:3071",
+  "name": "Pinjefrö",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:3136",
+  "name": "Bulgur kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3141",
+  "name": "Korv ren rå",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:3213",
+  "name": "Korv lamm rå",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:3243",
+  "name": "Kvarg naturell fett 0,2%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:3323",
+  "name": "Älg färs rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:3324",
+  "name": "Älg ytterlår",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:3334",
+  "name": "Chips potatis naturell",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:3433",
+  "name": "Linfröolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:3447",
+  "name": "Frukostflingor havre fullkorn typ Havrefras",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:3499",
+  "name": "Barnmat klämmis m. yoghurt banan jordgubb konserv.",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:3500",
+  "name": "Sill inlagd olika smaker",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:3518",
+  "name": "Quinoa röd kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3522",
+  "name": "Bananchips",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:3564",
+  "name": "Bulgur kokt u. salt fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3620",
+  "name": "Lamm färs stekt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:3621",
+  "name": "Älg färs stekt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:3668",
+  "name": "Sojadryck berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:3752",
+  "name": "Couscous kokt m. salt fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3756",
+  "name": "Pasta kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3760",
+  "name": "Vita bönor torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3761",
+  "name": "Stora vita bönor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3762",
+  "name": "Kikärtor torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3765",
+  "name": "Sötpotatis rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:3786",
+  "name": "Dinkelmjöl fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3790",
+  "name": "Bröd rågsikt fibrer ca 7%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3791",
+  "name": "Bröd vitt fibrer ca 5% typ formfranska",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3793",
+  "name": "Hårt bröd fullkorn råg fibrer ca 19% typ Rågi",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3794",
+  "name": "Bröd fullkorn vete råg fibrer ca 6%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3795",
+  "name": "Bröd vitt fibrer ca 5% typ limpa",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3797",
+  "name": "Bröd fullkorn råg fibrer ca 7%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3798",
+  "name": "Korvbröd grovt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3800",
+  "name": "Lax odlad Norge fjordlax rå över disk",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:3815",
+  "name": "Kikärtor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3816",
+  "name": "Kidneybönor röda bönor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3817",
+  "name": "Svarta bönor konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3818",
+  "name": "Hamburgerbröd",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3819",
+  "name": "Bröd vitt mjölk fibrer ca 4% typ tekaka",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3821",
+  "name": "Gröna linser torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3822",
+  "name": "Röda linser torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3823",
+  "name": "Röda linser konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3824",
+  "name": "Gröna linser konserv. u. lag",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:3825",
+  "name": "Hamburgerbröd grovt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:3828",
+  "name": "Pasta kokt m. salt fullkorn>50%",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3840",
+  "name": "Ägg rått eko.",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:3841",
+  "name": "Äggula rå eko.",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:3845",
+  "name": "Dinkel speltvete kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:3938",
+  "name": "Huvudsallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4011",
+  "name": "Majskrokar",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:4025",
+  "name": "Wasabi pasta",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:4026",
+  "name": "Frukt torkad m. socker",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:4049",
+  "name": "Tranbär torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:4052",
+  "name": "Mâchesallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4074",
+  "name": "Hampfröolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4095",
+  "name": "Hushållsmargarin mjölkfri fett 80% berikad typ Milda",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4105",
+  "name": "Lättmargarin fett 40% berikad typ Coop",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4107",
+  "name": "Bordsmargarin fett 60% berikad typ Ica Basic",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4112",
+  "name": "Hushållsmargarin fett 80% berikad typ ICA",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4131",
+  "name": "Palmolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4134",
+  "name": "Ägg stekt eko.",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:4135",
+  "name": "Ägg kokt eko.",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:4183",
+  "name": "Färs stekt m. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:4226",
+  "name": "Pangasiusmal rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4227",
+  "name": "Margarinost berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:4385",
+  "name": "Potatis Solist rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4386",
+  "name": "Potatis Swift rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4415",
+  "name": "Potatis Solist kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4416",
+  "name": "Potatis Swift kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4445",
+  "name": "Potatis Asterix rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4447",
+  "name": "Nudlar risnudlar okokta",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:4448",
+  "name": "Nudlar risnudlar kokta",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:4456",
+  "name": "Havtorn",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:4457",
+  "name": "Potatis rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4458",
+  "name": "Potatis kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4504",
+  "name": "Grönkålssallad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4511",
+  "name": "Potatis färsk kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4512",
+  "name": "Potatis färsk rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4513",
+  "name": "Potatis Inova rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4514",
+  "name": "Potatis King Edward rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4515",
+  "name": "Potatis mandelpotatis rå",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4516",
+  "name": "Potatis kokt m. salt tillagad i storhushåll",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4518",
+  "name": "Potatis Asterix kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4519",
+  "name": "Potatis Inova kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4520",
+  "name": "Potatis King Edward kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4521",
+  "name": "Potatis mandelpotatis kokt m. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:4583",
+  "name": "Gris färs rå fett 15%",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:4586",
+  "name": "Hoki rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4588",
+  "name": "Aronia slånaronia",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:4589",
+  "name": "Vinbär vita",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:4591",
+  "name": "Ris rundkornigt kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:4600",
+  "name": "Pilgrimsmussla",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4602",
+  "name": "Fiskpinnar ugnsstekta",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4607",
+  "name": "Skarpsill",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4608",
+  "name": "Sill inlagd u. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4609",
+  "name": "Sill höstsill inlagd u. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4610",
+  "name": "Sill inlagd senapssill u. sås",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4611",
+  "name": "Kapkummel rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4612",
+  "name": "Guldsparid rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4613",
+  "name": "Havsabborre rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4615",
+  "name": "Alaska pollock rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4616",
+  "name": "Guldsparid grillad m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4617",
+  "name": "Havsabborre grillad m. salt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:4659",
+  "name": "Olivolja extra jungfruolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4661",
+  "name": "Rapsolja kallpressad",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4662",
+  "name": "Flytande matfettsblandning fett 80% berikad typ Arla smör- och rapsolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4663",
+  "name": "Matfettsblandning fett 43% berikad typ Bregott mindre",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:4937",
+  "name": "Tomat körsbärstomat röd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4938",
+  "name": "Tomat torkad m. olja avrunnen",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4939",
+  "name": "Broccoli kokt u. salt frysvara",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4941",
+  "name": "Spenat färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4942",
+  "name": "Mangold röd småbladig färsk",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4946",
+  "name": "Kruksallat",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:4947",
+  "name": "Lök röd",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5007",
+  "name": "Kantarell gul rå",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5043",
+  "name": "Hjort kronhjort kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5044",
+  "name": "Hjort dovhjort färs rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5045",
+  "name": "Ren kött kallrökt rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5046",
+  "name": "Hjort skav rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5047",
+  "name": "Korv hjort rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5048",
+  "name": "Vildsvin bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5049",
+  "name": "Vildsvin filé rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5050",
+  "name": "Rådjur stek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5058",
+  "name": "Vildsvin stek rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5059",
+  "name": "Korv kycklingkorv",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:5060",
+  "name": "Vildsvin kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5064",
+  "name": "Rådjur bog rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5065",
+  "name": "Ren kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5066",
+  "name": "Nöt kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5067",
+  "name": "Lamm kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5068",
+  "name": "Lamm grytbitar rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5085",
+  "name": "Bordsmargarin fett 80% berikad typ Flora original",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:5087",
+  "name": "Flytande matfettsblandning fett 80% berikad typ Ica raps- och smörolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:5136",
+  "name": "Potatis höst kokt u. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:5147",
+  "name": "Julmust påskmust",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5149",
+  "name": "Slush drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5150",
+  "name": "Mandeldryck berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5152",
+  "name": "Alkoläsk kolsyrad dryck vol. % 4-5",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5153",
+  "name": "Potatis kokt u. salt",
+  "group": "Potatis"
+ },
+ {
+  "id": "livsmedelsverket:5184",
+  "name": "Tranbärsdryck drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5188",
+  "name": "Barngröt ätf. flerkorn m. frukt berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5189",
+  "name": "Barngröt ätf. m. fullkorn frukt bär berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5190",
+  "name": "Barngröt ätf. m. frukt berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5191",
+  "name": "Barngröt ätf. ris mjölkfri berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5192",
+  "name": "Barngröt ätf. m. fullkorn frukt müsli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5193",
+  "name": "Barngröt ätf. m. yoghurt frukt berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5194",
+  "name": "Barngröt ätf. havre m. frukt berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5195",
+  "name": "Barngröt ätf. havre naturell berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5196",
+  "name": "Barngröt ätf. havre m. frukt bär berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:5447",
+  "name": "Gris kött rå",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5665",
+  "name": "Pastagratäng m. kyckling",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:5727",
+  "name": "Minimjölk fett < 0,1% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:5859",
+  "name": "Tropisk juice drickf.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5860",
+  "name": "Sojabönor färska förvällda u. skal",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5861",
+  "name": "Sparris grön kokt m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5862",
+  "name": "Kålrot kokt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5863",
+  "name": "Brysselkål kokt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5864",
+  "name": "Rotselleri kokt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5865",
+  "name": "Gula ärtor kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5866",
+  "name": "Bruna bönor torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5867",
+  "name": "Gråärtor kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5868",
+  "name": "Åkerbönor torkade kokta m. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:5869",
+  "name": "Äpple Aroma rött",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:5870",
+  "name": "Äpple Ingrid Marie rött",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:5871",
+  "name": "Äpple Frida",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:5872",
+  "name": "Äpple Golden delicious Granny Smith grönt",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:5926",
+  "name": "Hälleflundra odlad Atlanten rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:5935",
+  "name": "Korngryn kokt u. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:5942",
+  "name": "Julmust light",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5956",
+  "name": "Havregurt naturell fett 2,2% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:5957",
+  "name": "Fraiche m. havre veg. fett 15% berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:5961",
+  "name": "Havrebaserat bredbart pålägg naturell",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:5963",
+  "name": "Havredryck m. apelsin mango",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:5965",
+  "name": "Korv grillkorv grillad kött 32-35%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:5966",
+  "name": "Korv falukorv tillagad kött 58%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:5967",
+  "name": "Korv bratwurst tillagad kryddig kött 73-75%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:5969",
+  "name": "Gris sidfläsk el. stekfläsk rimmat stekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5970",
+  "name": "Korv kabanoss tillagad kryddig kött 90%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:5973",
+  "name": "Kryddblandning taco",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:5974",
+  "name": "Bröd vitt vetetortilla",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:5978",
+  "name": "Gris färs tillagad u. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:5979",
+  "name": "Te fermenterat m. socker",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:5999",
+  "name": "Gris skinka innanlår tillagad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6002",
+  "name": "Gris skinkstek tillagad u. salt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6003",
+  "name": "Gris ytterfilé tillagad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6004",
+  "name": "Gris fläskkotlett tillagad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6005",
+  "name": "Gris fläskfilé tillagad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6006",
+  "name": "Nöt kalv lever tillagad",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:6007",
+  "name": "Kyckling lever ugnsstekt",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:6008",
+  "name": "Gris lever tillagad",
+  "group": "Lever, njure, tunga etc."
+ },
+ {
+  "id": "livsmedelsverket:6009",
+  "name": "Kalkon rökt tunna skivor",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6010",
+  "name": "Korv veg. soja- och veteprotein tillagad typ middagskorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6053",
+  "name": "Cashewnötter rostade m. salt",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6057",
+  "name": "Gris kassler tillagad",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6058",
+  "name": "Kyckling bröstfilé tillagad u. skinn frysvara",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:6069",
+  "name": "Drickyoghurt smaksatt fett ca 1%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6070",
+  "name": "Ost hårdost eko. fett 28%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6076",
+  "name": "Yoghurt naturell eko. fett 3%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6081",
+  "name": "Hårt bröd fullkorn råg fiber ca 20% typ sport",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6083",
+  "name": "Bröd vitt grovt m. nyckelhål typ formfranska",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6084",
+  "name": "Bröd vitt typ levain",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6086",
+  "name": "Frukostflingor müsli vete havre råg korn fullkorn m. frukt nötter fröer",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6087",
+  "name": "Mandelmjöl",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6088",
+  "name": "Filmjölk eko. fett 3%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6089",
+  "name": "Kvarg drickf. olika smaker",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6090",
+  "name": "Kvarg smaksatt sötningsm.",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6091",
+  "name": "Kvarg smaksatt m. socker",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6092",
+  "name": "Drickyoghurt smaksatt fett ca 1% socker ca 8%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6093",
+  "name": "Drickyoghurt smaksatt fett ca 1% socker ca 11%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6110",
+  "name": "Frukostflingor fullkorn berikad typ Specialflingor",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6113",
+  "name": "Yoghurt naturell fett 10%",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6131",
+  "name": "Noni fruktpuré",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6134",
+  "name": "Äppeljuice konc.",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6145",
+  "name": "Matvete kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6146",
+  "name": "Mathavre kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6154",
+  "name": "Psylliumfröskal",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6157",
+  "name": "Chiafrö",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6158",
+  "name": "Hampafrö m. skal",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6159",
+  "name": "Hampafrö u. skal",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6160",
+  "name": "Vallmofrö",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6164",
+  "name": "Senap sötstark",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6165",
+  "name": "Kokosolja",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:6168",
+  "name": "Kräfta kräftstjärtar konserv. u. lag",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6169",
+  "name": "Sikrom Nordamerikansk",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6170",
+  "name": "Påläggskaviar m. färskost",
+  "group": "Ägg, rom, kaviar"
+ },
+ {
+  "id": "livsmedelsverket:6171",
+  "name": "Tångkaviar röd",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6172",
+  "name": "Tångkaviar påläggskaviar",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6173",
+  "name": "Lax vildfångad Sverige rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6174",
+  "name": "Lax odlad Norge fjordlax rå frysvara",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6225",
+  "name": "Lax odlad Norge fjordlax rå förpackad",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6231",
+  "name": "Välling för barn pulver fullkorn osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6234",
+  "name": "Välling för barn pulver havre osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6235",
+  "name": "Välling för barn pulver majs osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6236",
+  "name": "Välling för barn pulver havre mjölkfri osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6239",
+  "name": "Barngröt pulver havre m. banan äpple mjölkfri osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6240",
+  "name": "Barngröt pulver naturell fullkorn osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6252",
+  "name": "Barnmat frukt bär m. yoghurt konserv.",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6253",
+  "name": "Barnmat frukt bär m. yoghurt konserv. berikad",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6254",
+  "name": "Fruktstång fruktgodis",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6255",
+  "name": "Fruktstång fruktgodis berikad",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6256",
+  "name": "Barnmat klämmis m. gröt päron mango havre hirs konserv.",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6257",
+  "name": "Välling för barn drickf. fullkorn osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6259",
+  "name": "Välling för barn drickf. mild havre osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6260",
+  "name": "Välling för barn drickf. majs osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6261",
+  "name": "Välling för barn drickf. havre mjölkfri osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6262",
+  "name": "Barngröt ätf. havre m. banan äpple mjölkfri osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6263",
+  "name": "Barngröt ätf. naturell fullkorn osötad berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6264",
+  "name": "Sojaprotein bitar kylvara el. frysvara typ Tzay®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6265",
+  "name": "Sojaprotein bitar frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6266",
+  "name": "Havreprotein pulled havre strimlor kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6267",
+  "name": "Sojaprotein färs kylvara el. frysvara berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6268",
+  "name": "Soja- och veteprotein färs frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6270",
+  "name": "Sojaprotein bullar kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6272",
+  "name": "Svampprotein bullar frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6273",
+  "name": "Svampprotein nugget kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6274",
+  "name": "Sojaprotein nugget kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6275",
+  "name": "Soja- och veteprotein nugget kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6276",
+  "name": "Soja- och veteprotein nugget kylvara el. frysvara berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6277",
+  "name": "Soja- och veteprotein baconimitation kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6279",
+  "name": "Soja- och veteprotein schnitzel kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6280",
+  "name": "Soja- och veteprotein schnitzel kylvara el. frysvara berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6281",
+  "name": "Svampprotein schnitzel kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6282",
+  "name": "Svampprotein färs bitar filé stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6285",
+  "name": "Soja- och veteprotein bullar stekta",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6286",
+  "name": "Soja- och veteprotein bullar ugnsstekta",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6287",
+  "name": "Sojaprotein färs stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6288",
+  "name": "Sojaprotein bitar stekta typ Tzay®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6289",
+  "name": "Sojaprotein bitar stekta typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6290",
+  "name": "Havreprotein pulled havre strimlor stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6291",
+  "name": "Sojaprotein färs stekt berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6292",
+  "name": "Soja- och veteprotein färs stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6293",
+  "name": "Ärtprotein färs stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6294",
+  "name": "Sojaprotein bullar stekta",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6295",
+  "name": "Sojaprotein bullar ugnsstekta",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6298",
+  "name": "Svampprotein bullar stekta",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6299",
+  "name": "Svampprotein nugget stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6300",
+  "name": "Svampprotein nugget ugnsstekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6301",
+  "name": "Sojaprotein nugget stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6302",
+  "name": "Sojaprotein nugget ugnsstekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6303",
+  "name": "Soja- och veteprotein nugget stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6304",
+  "name": "Soja- och veteprotein nugget ugnsstekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6305",
+  "name": "Soja- och veteprotein nugget stekt berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6306",
+  "name": "Soja- och veteprotein nugget ugnsstekt berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6307",
+  "name": "Soja- och veteprotein baconimitation stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6309",
+  "name": "Soja- och veteprotein schnitzel stekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6310",
+  "name": "Soja- och veteprotein schnitzel ugnsstekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6311",
+  "name": "Soja- och veteprotein schnitzel stekt berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6312",
+  "name": "Soja- och veteprotein schnitzel ugnsstekt berikad",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6313",
+  "name": "Svampprotein schnitzel ugnsstekt",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6330",
+  "name": "Jams kokt u. salt",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:6333",
+  "name": "Vindruvor gröna",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6334",
+  "name": "Vindruvor röda",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6336",
+  "name": "Dressing hamburgerdressing lätt fett 28 %",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6338",
+  "name": "Sås mango curry m. majonnäs kylvara",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6349",
+  "name": "Lök stekt m. flytande matfett",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:6364",
+  "name": "Färsruta m. fetaost ugnsstekt",
+  "group": "Kött"
+ },
+ {
+  "id": "livsmedelsverket:6380",
+  "name": "Gryta kycklinggryta m. bönor kakao",
+  "group": "Kyckling, fågel"
+ },
+ {
+  "id": "livsmedelsverket:6381",
+  "name": "Fisk Björkeby m. ströbröd smör persilja ugnsstekt",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6382",
+  "name": "Fisk m. soltorkad tomat persilja vitlök",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6384",
+  "name": "Mango chutney",
+  "group": "Sylt, marmelad, gelé, chutney"
+ },
+ {
+  "id": "livsmedelsverket:6409",
+  "name": "Gryta halloumigryta m. linser veg.",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6438",
+  "name": "Grönsaksbas grönsakspasta",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:6442",
+  "name": "Paprika grillad",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:6448",
+  "name": "Grynblandning havre råg vete korn kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6468",
+  "name": "Havremjöl fullkorn",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6478",
+  "name": "Öring Sverige höst rå",
+  "group": "Fisk, skaldjur"
+ },
+ {
+  "id": "livsmedelsverket:6480",
+  "name": "Kornflingor ångprep. fullkorn",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6481",
+  "name": "Rågflingor ångprep. fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6482",
+  "name": "Veteflingor ångprep. fullkorn",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6494",
+  "name": "Dinkelmjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6542",
+  "name": "Vetemjöl durum",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6574",
+  "name": "Mjölblandning vete korn råg havre",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6576",
+  "name": "Mjölblandning rågsikt",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6651",
+  "name": "Rapsolja berikad",
+  "group": "Fett, olja"
+ },
+ {
+  "id": "livsmedelsverket:6676",
+  "name": "Durra el. andra sorghumarter mjöl",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6677",
+  "name": "Amarant mjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6678",
+  "name": "Kiwi gul",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6682",
+  "name": "Sojasås shoyu",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6701",
+  "name": "Insalata Caprese",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:6703",
+  "name": "Jordnötter m. chokladöverdrag",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6704",
+  "name": "Chokladkex m. vaniljfyllning",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6757",
+  "name": "Bröd rågsikt fibrer ca 4% typ rågkaka",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6758",
+  "name": "Sött vetebröd kanelbulle gräddad kylvara frysvara el. butiksbakad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6759",
+  "name": "Bröd fröbröd fullkorn vete råg",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6761",
+  "name": "Pizzadeg tillagad kylvara",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6763",
+  "name": "Frukostflingor vete puffat m. choklad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6764",
+  "name": "Frukostflingor granola m. frukt nötter",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6765",
+  "name": "Frukostflingor granola m. kakao hallon",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6766",
+  "name": "Majskaka smaksatt ost",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6767",
+  "name": "Linskaka smaksatt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6768",
+  "name": "Kex bokstavskex fullkorn",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6769",
+  "name": "Pepparkaksdeg kylvara",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6770",
+  "name": "Bröd vitt croissant gräddad kylvara frysvara el. butiksbakad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6781",
+  "name": "Frukostflingor majs typ cornflakes",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6782",
+  "name": "Ris sushiris kokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6786",
+  "name": "Nudlar äggnudlar kokta u. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6790",
+  "name": "Havregurt hallon berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6791",
+  "name": "Havregurt blåbär hallon berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6792",
+  "name": "Havregurt jordgubb berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6793",
+  "name": "Havregurt vanilj berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6795",
+  "name": "Havredryck fett 1,5% eko. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6797",
+  "name": "Havredryck fett 0,5 % eko. berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6801",
+  "name": "Havregurt naturell fett 11 % berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6802",
+  "name": "Glass havreglass chokladfudge",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:6803",
+  "name": "Glass havreglass karamell hasselnöt",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:6804",
+  "name": "Glass havreglass karamell vanilj",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:6807",
+  "name": "Havrebaserat bredbart pålägg tomat basilika",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6808",
+  "name": "Havrebaserat bredbart pålägg vitlök gurka",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6809",
+  "name": "Havredryck choklad fett 2,5 % berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6812",
+  "name": "Havregurt smaksatt berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6813",
+  "name": "Havredryck fett 3,0% berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6814",
+  "name": "Glass havreglass smaksatt",
+  "group": "Glass"
+ },
+ {
+  "id": "livsmedelsverket:6815",
+  "name": "Havrebaserat bredbart pålägg smaksatt",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:6819",
+  "name": "Kex bokstavskex fullkorn berikad",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6833",
+  "name": "Sött vetebröd saffransbröd",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6849",
+  "name": "Sojaprotein kebab frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6850",
+  "name": "Sojaprotein pulled sojaprotein frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6852",
+  "name": "Sojaprotein bitar m. timjan vitlök frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6855",
+  "name": "Rismål u. sylt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6856",
+  "name": "Rismål u. sylt u. socker m. sötningsmedel",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6857",
+  "name": "Chips linser smaksatta fett 17%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:6858",
+  "name": "Linsbågar fett 28%",
+  "group": "Snacks"
+ },
+ {
+  "id": "livsmedelsverket:6862",
+  "name": "Frukostflingor ris glutenfri berikad typ Specialflingor",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6863",
+  "name": "Frukostflingor granola glutenfri",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6864",
+  "name": "Frukostflingor majs glutenfri berikad",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:6865",
+  "name": "Mjölblandning ljus glutenfri",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6868",
+  "name": "Bovetemjöl grovt",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6869",
+  "name": "Teffmjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6870",
+  "name": "Våffelmix glutenfri",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:6872",
+  "name": "Majsgryn polenta",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:6875",
+  "name": "Bröd surdegsbröd glutenfritt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6878",
+  "name": "Bröd vitt tortilla glutenfritt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6879",
+  "name": "Hårt bröd m. chiafrö glutenfritt fibrer ca 10%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6880",
+  "name": "Hårt bröd m. sesamfrö glutenfritt fibrer ca 9%",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6881",
+  "name": "Bröd vitt osötat glutenfritt fibrer ca 7% typ ciabatta",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6883",
+  "name": "Sockerbetsfiber",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6884",
+  "name": "Kex salta glutenfritt",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6886",
+  "name": "Chokladkaka chocolate chip cookie glutenfri",
+  "group": "Bullar, kakor, tårtor"
+ },
+ {
+  "id": "livsmedelsverket:6888",
+  "name": "Korv veg. sojaprotein kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6889",
+  "name": "Korv veg. solrosprotein kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6890",
+  "name": "Korv veg. solros- och ärtprotein kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6892",
+  "name": "Korv veg. grönsaker kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6893",
+  "name": "Korv veg. sojaprotein tillagad kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6894",
+  "name": "Korv veg. solrosprotein tillagad kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6895",
+  "name": "Korv veg. solros- och ärtprotein tillagad kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6896",
+  "name": "Korv veg. tillagad kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6897",
+  "name": "Korv veg. grönsaker tillagad kylvara el. frysvara typ grillkorv",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6901",
+  "name": "Ärtprotein färs kylvara el. frysvara",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6902",
+  "name": "Sojadryck osötad berikad",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6903",
+  "name": "Mandeldryck osötad berikad",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:6904",
+  "name": "Kokosnötdryck",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:6907",
+  "name": "Mörk choklad kakao 70%",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6908",
+  "name": "Mörk choklad kakao 85%",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6910",
+  "name": "Sojaprotein kebab stekt frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6912",
+  "name": "Sojaprotein pulled sojaprotein stekt frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6913",
+  "name": "Sojaprotein bitar m. timjan vitlök stekta frysvara typ Oumph®",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:6959",
+  "name": "Yoghurtdryck typ ayran",
+  "group": "Mejeri"
+ },
+ {
+  "id": "livsmedelsverket:6966",
+  "name": "Bröd vitt mjukt typ chapati",
+  "group": "Bröd"
+ },
+ {
+  "id": "livsmedelsverket:6991",
+  "name": "Kakaobönor",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6992",
+  "name": "Choklad ljus vegansk",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6993",
+  "name": "Gelégodis u. gelatin",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:6994",
+  "name": "Mango torkad",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6996",
+  "name": "Gojibär torkade",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:6997",
+  "name": "Glykossirap",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:6998",
+  "name": "Näringsjäst",
+  "group": "Övrigt"
+ },
+ {
+  "id": "livsmedelsverket:6999",
+  "name": "Havreris kokt m. salt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:7000",
+  "name": "Lakritsgodis",
+  "group": "Godis"
+ },
+ {
+  "id": "livsmedelsverket:7006",
+  "name": "Hirs kokt m. salt",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:7011",
+  "name": "Margarinost riven fett ca 20%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:7012",
+  "name": "Margarinost fett ca 20%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:7015",
+  "name": "Korv kryddkorv kött ca 75%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:7018",
+  "name": "Snabbkaffe koffeinfritt pulver",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:7019",
+  "name": "Mullbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7020",
+  "name": "Te fermenterat m. fruktjuice",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:7021",
+  "name": "Te fermenterat m. sötningsmedel",
+  "group": "Dryck"
+ },
+ {
+  "id": "livsmedelsverket:7022",
+  "name": "Färskost ricotta fett ca 10%",
+  "group": "Pålägg"
+ },
+ {
+  "id": "livsmedelsverket:7023",
+  "name": "Wasabirot",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:7024",
+  "name": "Macadamianötter",
+  "group": "Nötter, frön"
+ },
+ {
+  "id": "livsmedelsverket:7025",
+  "name": "Quinoa okokt",
+  "group": "Pasta, ris, gryn"
+ },
+ {
+  "id": "livsmedelsverket:7026",
+  "name": "Quinoamjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:7027",
+  "name": "Tempeh",
+  "group": "Quorn, sojaprotein, vegetariska produkter"
+ },
+ {
+  "id": "livsmedelsverket:7028",
+  "name": "Arrowrotmjöl",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:7029",
+  "name": "Vinblad konserv.",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:7030",
+  "name": "Hampamjöl avfettat",
+  "group": "Mjöl"
+ },
+ {
+  "id": "livsmedelsverket:7031",
+  "name": "Kakaosmör",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:7032",
+  "name": "Röd pepparsås",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:7034",
+  "name": "Shiitakesvamp",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:7035",
+  "name": "Ostronskivling",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:7042",
+  "name": "Blåbär amerikanska",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7047",
+  "name": "Odon",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7048",
+  "name": "Rönnbär",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7050",
+  "name": "Aronia svart",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7051",
+  "name": "Aronia torkad pulver",
+  "group": "Frukt, bär"
+ },
+ {
+  "id": "livsmedelsverket:7052",
+  "name": "Rågkli",
+  "group": "Flingor, frukostflingor, müsli, gröt, välling"
+ },
+ {
+  "id": "livsmedelsverket:7053",
+  "name": "Ärtskott",
+  "group": "Grönsaker, baljväxter, svamp"
+ },
+ {
+  "id": "livsmedelsverket:7054",
+  "name": "Kakaopulver fett 10-15%",
+  "group": "Smaksättare"
+ },
+ {
+  "id": "livsmedelsverket:7061",
+  "name": "Korv kryddkorv kött ca 75% stekt",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:7063",
+  "name": "Korv falukorv stekt fett ca 22 % kött 58%",
+  "group": "Korv"
+ },
+ {
+  "id": "livsmedelsverket:7066",
+  "name": "Frityrolja",
+  "group": "Fett, olja"
+ }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:6472",
+    "fi": "Vihanneskeitto naudanlihaliemellä, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6475",
+    "fi": "Naudanlihaliemi, jauhe, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6476",
+    "fi": "Naudanlihaliemi, kuutiosta, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6480",
+    "fi": "Kanaliemi, kuiva, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6481",
+    "fi": "Kanaliemi, kuutiosta, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6483",
+    "fi": "Kanakeitto, kermainen, kuivaseos, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6494",
+    "fi": "Sipulikeitto, kuivaseos, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6498",
+    "fi": "Tomaattikeitto, kuivaseos, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6528",
+    "fi": "Kana-nuudelikeitto, kuivaseos, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6547",
+    "fi": "Naudanliha-sienikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6549",
+    "fi": "Kana-sienikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6558",
+    "fi": "Tomaattikeitto, kermainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6559",
+    "fi": "Tomaattikeitto, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6583",
+    "fi": "Ramenkeitto, nuudeli, kuiva"
+  },
+  {
+    "id": "usda:6584",
+    "fi": "Parsakaali-juustokeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6618",
+    "fi": "Maapähkinäkastike, kookospohjainen"
+  },
+  {
+    "id": "usda:6626",
+    "fi": "Pesto, kylmäsäilytettävä"
+  },
+  {
+    "id": "usda:6627",
+    "fi": "Pesto, huoneenlämmössä säilyvä"
+  },
+  {
+    "id": "usda:6631",
+    "fi": "Sriracha-kastike"
+  },
+  {
+    "id": "usda:6700",
+    "fi": "Kasvisliemi, valmis"
+  },
+  {
+    "id": "usda:6720",
+    "fi": "Juustokastike, kuivaseos"
+  },
+  {
+    "id": "usda:6725",
+    "fi": "Kana-maissikeitto, valmis"
+  },
+  {
+    "id": "usda:6726",
+    "fi": "Kana-sienikeitto, chowder, valmis"
+  },
+  {
+    "id": "usda:6728",
+    "fi": "Peruna-kinkkukeitto, chowder, valmis"
+  },
+  {
+    "id": "usda:6729",
+    "fi": "Naudanliha-vihanneskeitto, hampurilaislihaa, valmis"
+  },
+  {
+    "id": "usda:6730",
+    "fi": "Hernekeitto kinkulla ja pekonilla, kevyt, vähäsuolainen, valmis"
+  },
+  {
+    "id": "usda:6731",
+    "fi": "Papukeitto pekonilla, tiiviste"
+  },
+  {
+    "id": "usda:6733",
+    "fi": "Naudanliha-vihannes-ohrakeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6734",
+    "fi": "Kanakeitto tähtipastalla, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6736",
+    "fi": "Kanakeitto, kermainen, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6738",
+    "fi": "Hernekeitto kinkulla ja pekonilla, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6739",
+    "fi": "Vihannes-naudanlihakeitto, säilyke, tiiviste"
+  },
+  {
+    "id": "usda:6740",
+    "fi": "Kana-vihanneskeitto, kevyt, vähäsuolainen, valmis"
+  },
+  {
+    "id": "usda:6742",
+    "fi": "Vihannes-naudanlihakeitto, mikroateria, valmis"
+  },
+  {
+    "id": "usda:6749",
+    "fi": "Naudanliha-vihanneskeitto, säilyke, valmis"
+  },
+  {
+    "id": "usda:6930",
+    "fi": "Juustokastike, valmis"
+  },
+  {
+    "id": "usda:6931",
+    "fi": "Pastakastike, tomaattinen, valmis"
+  },
+  {
+    "id": "usda:6957",
+    "fi": "Ruskea kastike, pikajauhe"
+  },
+  {
+    "id": "usda:6958",
+    "fi": "Naudanlihakastike, pikajauhe"
+  },
+  {
+    "id": "usda:6959",
+    "fi": "Kalkkunakastike, pikajauhe"
+  },
+  {
+    "id": "usda:6960",
+    "fi": "Alfredokastike, kuivaseos"
+  },
+  {
+    "id": "usda:6961",
+    "fi": "Chilikastike, punaisesta tulisesta chilistä, säilyke"
+  },
+  {
+    "id": "usda:6962",
+    "fi": "Chilikastike, vihreästä tulisesta chilistä, säilyke"
+  },
+  {
+    "id": "usda:6963",
+    "fi": "Kalaliemi"
+  },
+  {
+    "id": "usda:6964",
+    "fi": "Tomaattikeitto, vähäsuolainen, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6965",
+    "fi": "Hernekeitto, vähäsuolainen, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6967",
+    "fi": "Vihanneskeitto, vähäsuolainen, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6968",
+    "fi": "Sienikeitto, kermainen, vähäsuolainen, säilyke, valmis"
+  },
+  {
+    "id": "usda:6969",
+    "fi": "Perunakeitto, pikakuivaseos"
+  },
+  {
+    "id": "usda:6970",
+    "fi": "Kanaliemi, vähäsuolainen, säilyke"
+  },
+  {
+    "id": "usda:6971",
+    "fi": "Worcestershirekastike"
+  },
+  {
+    "id": "usda:6972",
+    "fi": "Tomaatti-chilikastike, pullotettu, suolaa lisätty"
+  },
+  {
+    "id": "usda:6974",
+    "fi": "Kana-vihanneskeitto, vähäsuolainen, säilyke, vedellä valmistettu"
+  },
+  {
+    "id": "usda:6977",
+    "fi": "Liha- tai siipikarjakastike, vähäsuolainen, valmis"
+  },
+  {
+    "id": "usda:6978",
+    "fi": "Naudanliha-sienikeitto, vähäsuolainen, palainen"
+  },
+  {
+    "id": "usda:6980",
+    "fi": "Naudanlihastroganoffkeitto, säilyke, palainen, valmis"
+  },
+  {
+    "id": "usda:6981",
+    "fi": "Liemikuutio ja -rakeet, vähäsuolainen, kuiva"
+  },
+  {
+    "id": "usda:6982",
+    "fi": "Ramenkeitto, naudanlihanmakuinen, kuiva"
+  },
+  {
+    "id": "usda:6983",
+    "fi": "Ramenkeitto, kananlihanmakuinen, kuiva"
+  },
+  {
+    "id": "usda:7001",
+    "fi": "Grillimureke, porsas ja nauta"
+  },
+  {
+    "id": "usda:7002",
+    "fi": "Bierschinken, porsas ja nauta"
+  },
+  {
+    "id": "usda:7003",
+    "fi": "Bierschinken, porsas"
+  },
+  {
+    "id": "usda:7004",
+    "fi": "Berliininmakkara, porsas ja nauta"
+  },
+  {
+    "id": "usda:7005",
+    "fi": "Verimakkara"
+  },
+  {
+    "id": "usda:7006",
+    "fi": "Bockwurst, porsas ja vasikka, raaka"
+  },
+  {
+    "id": "usda:7007",
+    "fi": "Bologna-makkara, nauta"
+  },
+  {
+    "id": "usda:7008",
+    "fi": "Bologna-makkara, nauta ja porsas"
+  },
+  {
+    "id": "usda:7010",
+    "fi": "Bologna-makkara, porsas"
+  },
+  {
+    "id": "usda:7011",
+    "fi": "Bologna-makkara, kalkkuna"
+  },
+  {
+    "id": "usda:7014",
+    "fi": "Braunschweiger-maksamakkara, porsas"
+  },
+  {
+    "id": "usda:7015",
+    "fi": "Brotwurst, porsas ja nauta"
+  },
+  {
+    "id": "usda:7016",
+    "fi": "Juustonakki, porsas ja nauta"
+  },
+  {
+    "id": "usda:7018",
+    "fi": "Kanalevite"
+  },
+  {
+    "id": "usda:7019",
+    "fi": "Chorizo, porsas ja nauta"
+  },
+  {
+    "id": "usda:7020",
+    "fi": "Corned beef -mureke, hyytelöity"
+  },
+  {
+    "id": "usda:7021",
+    "fi": "Lihamurekeleike, kana, porsas ja nauta"
+  },
+  {
+    "id": "usda:7022",
+    "fi": "Nakki, nauta"
+  },
+  {
+    "id": "usda:7024",
+    "fi": "Nakki, kana"
+  },
+  {
+    "id": "usda:7025",
+    "fi": "Nakki, kalkkuna"
+  },
+  {
+    "id": "usda:7026",
+    "fi": "Kinkku, palvattu, säilyke"
+  },
+  {
+    "id": "usda:7027",
+    "fi": "Kinkku, palvattu"
+  },
+  {
+    "id": "usda:7028",
+    "fi": "Kinkku, viipaloitu, vähärasvainen"
+  },
+  {
+    "id": "usda:7029",
+    "fi": "Kinkku, viipaloitu, rasvaa 11 %"
+  },
+  {
+    "id": "usda:7030",
+    "fi": "Kinkku, hienonnettu"
+  },
+  {
+    "id": "usda:7031",
+    "fi": "Kinkkusalaattilevite"
+  },
+  {
+    "id": "usda:7032",
+    "fi": "Kinkku-juustomureke"
+  },
+  {
+    "id": "usda:7033",
+    "fi": "Kinkku-juustolevite"
+  },
+  {
+    "id": "usda:7034",
+    "fi": "Syltty, porsas"
+  },
+  {
+    "id": "usda:7036",
+    "fi": "Italialainen makkara, porsas, raaka"
+  },
+  {
+    "id": "usda:7038",
+    "fi": "Knackwurst, porsas ja nauta"
+  },
+  {
+    "id": "usda:7039",
+    "fi": "Lebanon bologna, nauta"
+  },
+  {
+    "id": "usda:7040",
+    "fi": "Maksajuusto, porsas"
+  },
+  {
+    "id": "usda:7041",
+    "fi": "Maksamakkara, porsas"
+  },
+  {
+    "id": "usda:7043",
+    "fi": "Paahtopaisti, leikkele, viipaloitu"
+  },
+  {
+    "id": "usda:7045",
+    "fi": "Lounasliha, porsas, säilyke"
+  },
+  {
+    "id": "usda:7046",
+    "fi": "Kalkkunanrintaleike, vähäsuolainen"
+  },
+  {
+    "id": "usda:7050",
+    "fi": "Mortadella, nauta ja porsas"
+  },
+  {
+    "id": "usda:7051",
+    "fi": "Oliivimurekeleike, porsas"
+  },
+  {
+    "id": "usda:7052",
+    "fi": "Pastrami, kalkkuna"
+  },
+  {
+    "id": "usda:7053",
+    "fi": "Kanamaksapatee, säilyke"
+  },
+  {
+    "id": "usda:7054",
+    "fi": "Hanhenmaksapatee, savustettu, säilyke"
+  },
+  {
+    "id": "usda:7055",
+    "fi": "Maksapatee, säilyke"
+  },
+  {
+    "id": "usda:7056",
+    "fi": "Pippurimurekeleike, porsas ja nauta"
+  },
+  {
+    "id": "usda:7057",
+    "fi": "Pepperoni, nauta ja porsas, viipaloitu"
+  },
+  {
+    "id": "usda:7058",
+    "fi": "Suolakurkku-paprikamurekeleike, porsas"
+  },
+  {
+    "id": "usda:7059",
+    "fi": "Puolalainen makkara, porsas"
+  },
+  {
+    "id": "usda:7060",
+    "fi": "Luksusmurekeleike, porsas"
+  },
+  {
+    "id": "usda:7061",
+    "fi": "Äidinmurekeleike, porsas"
+  },
+  {
+    "id": "usda:7062",
+    "fi": "Picnic-murekeleike, porsas ja nauta"
+  },
+  {
+    "id": "usda:7063",
+    "fi": "Porsaanmakkara, raaka"
+  },
+  {
+    "id": "usda:7067",
+    "fi": "Siipikarjasalaattilevite"
+  },
+  {
+    "id": "usda:7071",
+    "fi": "Salami, kova, porsas"
+  },
+  {
+    "id": "usda:7072",
+    "fi": "Salami, kova, porsas ja nauta"
+  },
+  {
+    "id": "usda:7073",
+    "fi": "Leipälevite, porsas ja nauta"
+  },
+  {
+    "id": "usda:7074",
+    "fi": "Savumakkara, porsas"
+  },
+  {
+    "id": "usda:7075",
+    "fi": "Savumakkara, porsas ja nauta"
+  },
+  {
+    "id": "usda:7077",
+    "fi": "Savumakkara, porsas ja nauta, rasvatonta maitojauhetta lisätty"
+  },
+  {
+    "id": "usda:7078",
+    "fi": "Thüringer-makkara, nauta ja porsas"
+  },
+  {
+    "id": "usda:7081",
+    "fi": "Kalkkunanrinta, viipaloitu"
+  },
+  {
+    "id": "usda:7083",
+    "fi": "Wieninnakki, säilyke, kana, nauta ja porsas"
+  },
+  {
+    "id": "usda:7088",
+    "fi": "Hunajamakkararulla, nauta"
+  },
+  {
+    "id": "usda:7090",
+    "fi": "Lounasmakkara, porsas ja nauta"
+  },
+  {
+    "id": "usda:7091",
+    "fi": "New England -makkara, porsas ja nauta"
+  },
+  {
+    "id": "usda:7254",
+    "fi": "Kalkkunapekoni, kypsentämätön"
+  },
+  {
+    "id": "usda:7900",
+    "fi": "Makkara, kalkkuna, porsas ja nauta, kevyt, savustettu"
+  },
+  {
+    "id": "usda:7905",
+    "fi": "Nakki, nauta, porsas ja kalkkuna, rasvaton"
+  },
+  {
+    "id": "usda:7911",
+    "fi": "Maksamakkaralevite"
+  },
+  {
+    "id": "usda:7912",
+    "fi": "Paahtopaistilevite"
+  },
+  {
+    "id": "usda:7913",
+    "fi": "Salami, porsas ja nauta, vähäsuolainen"
+  },
+  {
+    "id": "usda:7914",
+    "fi": "Italialainen makkara, mieto"
+  },
+  {
+    "id": "usda:7915",
+    "fi": "Puolalainen makkara, nauta ja kana, tulinen"
+  },
+  {
+    "id": "usda:7916",
+    "fi": "Puolalainen makkara, porsas ja nauta, savustettu"
+  },
+  {
+    "id": "usda:7917",
+    "fi": "Makkara, porsas ja nauta, cheddarjuustolla, savustettu"
+  },
+  {
+    "id": "usda:7918",
+    "fi": "Kesämakkara, porsas ja nauta, cheddarjuustolla"
+  },
+  {
+    "id": "usda:7919",
+    "fi": "Kalkkunamakkara, aamiaismakkara, mieto"
+  },
+  {
+    "id": "usda:7920",
+    "fi": "Swisswurst, porsas ja nauta, sveitsiläisellä juustolla, savustettu"
+  },
+  {
+    "id": "usda:7921",
+    "fi": "Pekoni-nautatikku"
+  },
+  {
+    "id": "usda:7922",
+    "fi": "Bratwurst, nauta ja porsas, savustettu"
+  },
+  {
+    "id": "usda:7924",
+    "fi": "Bratwurst, porsas, nauta ja kalkkuna, kevyt, savustettu"
+  },
+  {
+    "id": "usda:7925",
+    "fi": "Pastrami, nauta, rasvaton 98 %"
+  },
+  {
+    "id": "usda:7926",
+    "fi": "Salami, italialainen, porsas"
+  },
+  {
+    "id": "usda:7927",
+    "fi": "Italialainen kalkkunamakkara, savustettu"
+  },
+  {
+    "id": "usda:7928",
+    "fi": "Makkara, kana, nauta ja porsas, nahaton, savustettu"
+  },
+  {
+    "id": "usda:7929",
+    "fi": "Kalkkunamakkara, tulinen, savustettu"
+  },
+  {
+    "id": "usda:7931",
+    "fi": "Bierschinken, porsas ja nauta"
+  },
+  {
+    "id": "usda:7932",
+    "fi": "Broilerinrintaleike, rasvaton, mesquite-maustettu"
+  },
+  {
+    "id": "usda:7934",
+    "fi": "Kielbasa, puolalainen, kalkkuna ja nauta, savustettu"
+  },
+  {
+    "id": "usda:7936",
+    "fi": "Bologna-makkara, porsas ja kalkkuna, kevyt"
+  },
+  {
+    "id": "usda:7937",
+    "fi": "Bologna-makkara, porsas, kalkkuna ja nauta"
+  },
+  {
+    "id": "usda:7939",
+    "fi": "Nakki, porsas"
+  },
+  {
+    "id": "usda:7940",
+    "fi": "Makaroni-juustomurekeleike, kana, porsas ja nauta"
+  },
+  {
+    "id": "usda:7941",
+    "fi": "Salami, italialainen, porsas ja nauta, kuiva, vähäsuolainen"
+  },
+  {
+    "id": "usda:7942",
+    "fi": "Patee, tryffelinmakuinen"
+  },
+  {
+    "id": "usda:7943",
+    "fi": "Kalkkunanrinta, savustettu, sitruunapippuri, rasvaton 97 %"
+  },
+  {
+    "id": "usda:7950",
+    "fi": "Nakki, liha"
+  },
+  {
+    "id": "usda:7951",
+    "fi": "Scrapple, porsas"
+  },
+  {
+    "id": "usda:7952",
+    "fi": "Bologna-makkara, kana, kalkkuna ja porsas"
+  },
+  {
+    "id": "usda:7955",
+    "fi": "Kalkkunamakkara, tuore, raaka"
+  },
+  {
+    "id": "usda:7959",
+    "fi": "Bologna-makkara, kana, porsas ja nauta"
+  },
+  {
+    "id": "usda:7960",
+    "fi": "Bologna-makkara, kana ja porsas"
+  },
+  {
+    "id": "usda:7962",
+    "fi": "Nakki, liha ja siipikarja"
+  },
+  {
+    "id": "usda:7965",
+    "fi": "Porsaanmakkara, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:7971",
+    "fi": "Bologna-makkara, liha ja siipikarja"
+  },
+  {
+    "id": "usda:7972",
+    "fi": "Lihapullat, italialaistyyliset, pakaste"
+  },
+  {
+    "id": "usda:7974",
+    "fi": "Kalkkunapekoni, vähäsuolainen"
+  },
+  {
+    "id": "usda:7976",
+    "fi": "Italialainen kana- tai kalkkunamakkara, vähäsuolainen"
+  },
+  {
+    "id": "usda:7977",
+    "fi": "Kinkku, savustettu, erittäin vähärasvainen, vähäsuolainen"
+  },
+  {
+    "id": "usda:7979",
+    "fi": "Makkara, porsas, kalkkuna ja nauta, vähäsuolainen"
+  },
+  {
+    "id": "usda:8510",
+    "fi": "Maito-muro patukka"
+  },
+  {
+    "id": "usda:8546",
+    "fi": "Riisi-vehnämuro patukka"
+  },
+  {
+    "id": "usda:9001",
+    "fi": "Acerola, raaka"
+  },
+  {
+    "id": "usda:9002",
+    "fi": "Acerolamehu, raaka"
+  },
+  {
+    "id": "usda:9003",
+    "fi": "Omena, kuorellinen, raaka"
+  },
+  {
+    "id": "usda:9004",
+    "fi": "Omena, kuorittu, raaka"
+  },
+  {
+    "id": "usda:9005",
+    "fi": "Omena, kuorittu, keitetty"
+  },
+  {
+    "id": "usda:9006",
+    "fi": "Omena, kuorittu, mikrokypsennetty"
+  },
+  {
+    "id": "usda:9007",
+    "fi": "Omena, säilyke, makeutettu, viipaloitu, valutettu"
+  },
+  {
+    "id": "usda:9008",
+    "fi": "Omena, säilyke, makeutettu, viipaloitu, valutettu, kuumennettu"
+  },
+  {
+    "id": "usda:9009",
+    "fi": "Omena, kuivattu, vähäkosteinen, rikitetty"
+  },
+  {
+    "id": "usda:9010",
+    "fi": "Omena, kuivattu, vähäkosteinen, rikitetty, haudutettu"
+  },
+  {
+    "id": "usda:9011",
+    "fi": "Omena, kuivattu, rikitetty"
+  },
+  {
+    "id": "usda:9012",
+    "fi": "Omena, kuivattu, rikitetty, haudutettu, ilman lisättyä sokeria"
+  },
+  {
+    "id": "usda:9013",
+    "fi": "Omena, kuivattu, rikitetty, haudutettu, sokeria lisätty"
+  },
+  {
+    "id": "usda:9014",
+    "fi": "Omena, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9015",
+    "fi": "Omena, pakaste, makeuttamaton, kuumennettu"
+  },
+  {
+    "id": "usda:9016",
+    "fi": "Omenamehu, makeuttamaton"
+  },
+  {
+    "id": "usda:9017",
+    "fi": "Omenamehutiiviste, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9018",
+    "fi": "Omenamehutiiviste, pakaste, laimennettu, makeuttamaton"
+  },
+  {
+    "id": "usda:9021",
+    "fi": "Aprikoosi, raaka"
+  },
+  {
+    "id": "usda:9022",
+    "fi": "Aprikoosi, säilyke vedessä, kuorellinen, liemineen"
+  },
+  {
+    "id": "usda:9023",
+    "fi": "Aprikoosi, säilyke vedessä, kuorittu, liemineen"
+  },
+  {
+    "id": "usda:9024",
+    "fi": "Aprikoosi, säilyke mehussa, kuorellinen, liemineen"
+  },
+  {
+    "id": "usda:9025",
+    "fi": "Aprikoosi, säilyke erittäin kevyessä sokeriliemessä, kuorellinen, liemineen"
+  },
+  {
+    "id": "usda:9026",
+    "fi": "Aprikoosi, säilyke kevyessä sokeriliemessä, kuorellinen, liemineen"
+  },
+  {
+    "id": "usda:9027",
+    "fi": "Aprikoosi, säilyke vahvassa sokeriliemessä, kuorellinen, liemineen"
+  },
+  {
+    "id": "usda:9028",
+    "fi": "Aprikoosi, säilyke vahvassa sokeriliemessä, kuorittu, liemineen"
+  },
+  {
+    "id": "usda:9029",
+    "fi": "Aprikoosi, säilyke erittäin vahvassa sokeriliemessä, kuorittu, liemineen"
+  },
+  {
+    "id": "usda:9030",
+    "fi": "Aprikoosi, kuivattu, vähäkosteinen, rikitetty"
+  },
+  {
+    "id": "usda:9031",
+    "fi": "Aprikoosi, kuivattu, vähäkosteinen, rikitetty, haudutettu"
+  },
+  {
+    "id": "usda:9032",
+    "fi": "Aprikoosi, kuivattu, rikitetty"
+  },
+  {
+    "id": "usda:9033",
+    "fi": "Aprikoosi, kuivattu, rikitetty, haudutettu, ilman lisättyä sokeria"
+  },
+  {
+    "id": "usda:9034",
+    "fi": "Aprikoosi, kuivattu, rikitetty, haudutettu, sokeria lisätty"
+  },
+  {
+    "id": "usda:9035",
+    "fi": "Aprikoosi, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9036",
+    "fi": "Aprikoosinektari"
+  },
+  {
+    "id": "usda:9037",
+    "fi": "Avokado, raaka"
+  },
+  {
+    "id": "usda:9038",
+    "fi": "Avokado, kalifornialainen, raaka"
+  },
+  {
+    "id": "usda:9039",
+    "fi": "Avokado, floridalainen, raaka"
+  },
+  {
+    "id": "usda:9040",
+    "fi": "Banaani, raaka"
+  },
+  {
+    "id": "usda:9041",
+    "fi": "Banaani, kuivattu tai jauhe"
+  },
+  {
+    "id": "usda:9042",
+    "fi": "Karhunvatukka, raaka"
+  },
+  {
+    "id": "usda:9043",
+    "fi": "Karhunvatukkamehu, säilyke"
+  },
+  {
+    "id": "usda:9044",
+    "fi": "Hapankirsikka, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:9046",
+    "fi": "Karhunvatukka, säilyke vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9048",
+    "fi": "Karhunvatukka, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9050",
+    "fi": "Mustikka, raaka"
+  },
+  {
+    "id": "usda:9052",
+    "fi": "Mustikka, säilyke vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9053",
+    "fi": "Mustikka, villi, pakaste"
+  },
+  {
+    "id": "usda:9054",
+    "fi": "Mustikka, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9055",
+    "fi": "Mustikka, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9056",
+    "fi": "Boysenmarja, säilyke vahvassa sokeriliemessä"
+  },
+  {
+    "id": "usda:9057",
+    "fi": "Boysenmarja, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9059",
+    "fi": "Leipäpuu, raaka"
+  },
+  {
+    "id": "usda:9060",
+    "fi": "Karambola, raaka"
+  },
+  {
+    "id": "usda:9061",
+    "fi": "Karissa, raaka"
+  },
+  {
+    "id": "usda:9062",
+    "fi": "Annoona, cherimoya, raaka"
+  },
+  {
+    "id": "usda:9063",
+    "fi": "Hapankirsikka, punainen, raaka"
+  },
+  {
+    "id": "usda:9065",
+    "fi": "Hapankirsikka, punainen, säilyke kevyessä sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9066",
+    "fi": "Hapankirsikka, punainen, säilyke vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9067",
+    "fi": "Hapankirsikka, punainen, säilyke erittäin vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9068",
+    "fi": "Hapankirsikka, punainen, pakaste, makeuttamaton"
+  },
+  {
+    "id": "usda:9070",
+    "fi": "Makeakirsikka, raaka"
+  },
+  {
+    "id": "usda:9071",
+    "fi": "Makeakirsikka, säilyke vedessä, liemineen"
+  },
+  {
+    "id": "usda:9072",
+    "fi": "Makeakirsikka, säilyke mehussa, liemineen"
+  },
+  {
+    "id": "usda:9073",
+    "fi": "Makeakirsikka, säilyke kevyessä sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9074",
+    "fi": "Makeakirsikka, kivetön, säilyke vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9075",
+    "fi": "Makeakirsikka, säilyke erittäin vahvassa sokeriliemessä, liemineen"
+  },
+  {
+    "id": "usda:9076",
+    "fi": "Makeakirsikka, pakaste, makeutettu"
+  },
+  {
+    "id": "usda:9077",
+    "fi": "Koristeomena, raaka"
+  },
+  {
+    "id": "usda:9078",
+    "fi": "Karpalo, raaka"
+  },
+  {
+    "id": "usda:9079",
+    "fi": "Karpalo, kuivattu, makeutettu"
+  },
+  {
+    "id": "usda:9081",
+    "fi": "Karpalokastike, säilyke, makeutettu"
+  },
+  {
+    "id": "usda:9082",
+    "fi": "Karpalo-appelsiinirelish, säilyke"
+  },
+  {
+    "id": "usda:9083",
+    "fi": "Mustaherukka, raaka"
+  },
+  {
+    "id": "usda:9084",
+    "fi": "Puna- ja valkoherukka, raaka"
+  },
+  {
+    "id": "usda:9085",
+    "fi": "Korintti, kuivattu"
+  },
+  {
+    "id": "usda:9086",
+    "fi": "Annoona, sokeriomena, raaka"
+  },
+  {
+    "id": "usda:9087",
+    "fi": "Taateli, deglet noor"
+  },
+  {
+    "id": "usda:9088",
+    "fi": "Seljanmarja, raaka"
+  },
+  {
+    "id": "usda:9089",
+    "fi": "Viikuna, raaka"
+  },
+  {
+    "id": "usda:9090",
+    "fi": "Viikuna, säilyke vedessä, liemineen"
+  }
+]

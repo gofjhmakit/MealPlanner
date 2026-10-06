@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "usda:15157",
+    "fi": "Simpukka, raaka"
+  },
+  {
+    "id": "usda:15162",
+    "fi": "Simpukkaneste, säilyke"
+  },
+  {
+    "id": "usda:15163",
+    "fi": "Seepia, raaka"
+  },
+  {
+    "id": "usda:15164",
+    "fi": "Sinisimpukka, raaka"
+  },
+  {
+    "id": "usda:15166",
+    "fi": "Mustekala, raaka"
+  },
+  {
+    "id": "usda:15167",
+    "fi": "Osteri, itäinen, luonnonvarainen, raaka"
+  },
+  {
+    "id": "usda:15170",
+    "fi": "Osteri, säilyke"
+  },
+  {
+    "id": "usda:15171",
+    "fi": "Osteri, Tyynenmeren, raaka"
+  },
+  {
+    "id": "usda:15172",
+    "fi": "Kampasimpukka, raaka"
+  },
+  {
+    "id": "usda:15174",
+    "fi": "Jäljitelmäkampasimpukka, surimista valmistettu"
+  },
+  {
+    "id": "usda:15175",
+    "fi": "Kalmari, raaka"
+  },
+  {
+    "id": "usda:15177",
+    "fi": "Kotilo, raaka"
+  },
+  {
+    "id": "usda:15179",
+    "fi": "Graavilohi, kuningaslohi, savustettu"
+  },
+  {
+    "id": "usda:15181",
+    "fi": "Kyttyrälohi, säilyke, suolaton, ruotoineen ja liemineen"
+  },
+  {
+    "id": "usda:15234",
+    "fi": "Monni, kanavamonni, viljelty, raaka"
+  },
+  {
+    "id": "usda:15236",
+    "fi": "Lohi, Atlantin, viljelty, raaka"
+  },
+  {
+    "id": "usda:15238",
+    "fi": "Hopealohi, viljelty, raaka"
+  },
+  {
+    "id": "usda:15240",
+    "fi": "Kirjolohi, viljelty, raaka"
+  },
+  {
+    "id": "usda:15242",
+    "fi": "Rapu, viljelty, raaka"
+  },
+  {
+    "id": "usda:15245",
+    "fi": "Osteri, itäinen, viljelty, raaka"
+  },
+  {
+    "id": "usda:15253",
+    "fi": "Punalohi, säilyke"
+  },
+  {
+    "id": "usda:15261",
+    "fi": "Tilapia, raaka"
+  },
+  {
+    "id": "usda:15266",
+    "fi": "Alaskanseiti, raaka, ei aiemmin pakastettu"
+  },
+  {
+    "id": "usda:15268",
+    "fi": "Turska, Tyynenmeren, raaka, ei aiemmin pakastettu"
+  },
+  {
+    "id": "usda:15270",
+    "fi": "Katkarapu, raaka, ei aiemmin pakastettu"
+  },
+  {
+    "id": "usda:15274",
+    "fi": "Puronieriä, raaka"
+  },
+  {
+    "id": "usda:16001",
+    "fi": "Adzukipapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16003",
+    "fi": "Adzukipapu, säilyke, makeutettu"
+  },
+  {
+    "id": "usda:16014",
+    "fi": "Musta papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16016",
+    "fi": "Mustakilpikonna-papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16018",
+    "fi": "Mustakilpikonna-papu, säilyke"
+  },
+  {
+    "id": "usda:16019",
+    "fi": "Karpalopapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16021",
+    "fi": "Karpalopapu, säilyke"
+  },
+  {
+    "id": "usda:16022",
+    "fi": "Ranskanpapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16024",
+    "fi": "Great northern -papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16026",
+    "fi": "Great northern -papu, säilyke"
+  },
+  {
+    "id": "usda:16027",
+    "fi": "Kidneypapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16029",
+    "fi": "Kidneypapu, säilyke"
+  },
+  {
+    "id": "usda:16030",
+    "fi": "Kidneypapu, kalifornianpunainen, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16032",
+    "fi": "Kidneypapu, punainen, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16034",
+    "fi": "Kidneypapu, punainen, säilyke, liemineen"
+  },
+  {
+    "id": "usda:16035",
+    "fi": "Kidneypapu, royal red, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16037",
+    "fi": "Navy-papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16039",
+    "fi": "Navy-papu, säilyke"
+  },
+  {
+    "id": "usda:16040",
+    "fi": "Pink-papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16042",
+    "fi": "Pintopapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16044",
+    "fi": "Pintopapu, säilyke, liemineen"
+  },
+  {
+    "id": "usda:16045",
+    "fi": "Valkoinen papu, pieni, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16047",
+    "fi": "Keltainen papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16049",
+    "fi": "Valkoinen papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16051",
+    "fi": "Valkoinen papu, säilyke"
+  },
+  {
+    "id": "usda:16052",
+    "fi": "Härkäpapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16054",
+    "fi": "Härkäpapu, säilyke"
+  },
+  {
+    "id": "usda:16055",
+    "fi": "Johanneksenleipäpuujauho"
+  },
+  {
+    "id": "usda:16056",
+    "fi": "Kikherne, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16058",
+    "fi": "Kikherne, säilyke, liemineen"
+  },
+  {
+    "id": "usda:16059",
+    "fi": "Chili con carne pavuilla, säilyke"
+  },
+  {
+    "id": "usda:16060",
+    "fi": "Catjang-papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16062",
+    "fi": "Mustasilmäpapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16064",
+    "fi": "Mustasilmäpapu, säilyke"
+  },
+  {
+    "id": "usda:16065",
+    "fi": "Mustasilmäpapu, säilyke, sianlihalla"
+  },
+  {
+    "id": "usda:16067",
+    "fi": "Hyasinttipapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16069",
+    "fi": "Linssi, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16071",
+    "fi": "Limapapu, suuri, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16073",
+    "fi": "Limapapu, suuri, säilyke"
+  },
+  {
+    "id": "usda:16074",
+    "fi": "Limapapu, pieni, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16076",
+    "fi": "Lupiini, siemen, raaka"
+  },
+  {
+    "id": "usda:16078",
+    "fi": "Moth-papu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16080",
+    "fi": "Mungpapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16082",
+    "fi": "Lasinuudeli, mungpavusta, kuivattu"
+  },
+  {
+    "id": "usda:16083",
+    "fi": "Mungopapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16085",
+    "fi": "Halkaistu vihreä herne, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16087",
+    "fi": "Maapähkinä, raaka"
+  },
+  {
+    "id": "usda:16091",
+    "fi": "Maapähkinä, espanjalainen, raaka"
+  },
+  {
+    "id": "usda:16093",
+    "fi": "Maapähkinä, valencia, raaka"
+  },
+  {
+    "id": "usda:16095",
+    "fi": "Maapähkinä, virginia, raaka"
+  },
+  {
+    "id": "usda:16097",
+    "fi": "Maapähkinävoi, rouhea, suolattu"
+  },
+  {
+    "id": "usda:16098",
+    "fi": "Maapähkinävoi, sileä, suolattu"
+  },
+  {
+    "id": "usda:16099",
+    "fi": "Maapähkinäjauho, rasvaton"
+  },
+  {
+    "id": "usda:16100",
+    "fi": "Maapähkinäjauho, vähärasvainen"
+  },
+  {
+    "id": "usda:16101",
+    "fi": "Kyyhkynherne, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16104",
+    "fi": "Kasvispekoni"
+  },
+  {
+    "id": "usda:16106",
+    "skip": "teollinen lihan jatke, ei kotiruoan ainesosa"
+  },
+  {
+    "id": "usda:16107",
+    "fi": "Kasvismakkara"
+  },
+  {
+    "id": "usda:16108",
+    "fi": "Soijapapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16112",
+    "fi": "Miso"
+  },
+  {
+    "id": "usda:16113",
+    "fi": "Natto"
+  },
+  {
+    "id": "usda:16114",
+    "fi": "Tempeh"
+  },
+  {
+    "id": "usda:16115",
+    "fi": "Soijajauho, täysrasvainen, raaka"
+  },
+  {
+    "id": "usda:16117",
+    "fi": "Soijajauho, rasvaton"
+  },
+  {
+    "id": "usda:16118",
+    "fi": "Soijajauho, vähärasvainen"
+  },
+  {
+    "id": "usda:16119",
+    "skip": "teollinen soijarouhe, ei kotiruoan ainesosa"
+  },
+  {
+    "id": "usda:16120",
+    "fi": "Soijamaito, alkuperäinen ja vanilja"
+  },
+  {
+    "id": "usda:16121",
+    "skip": "proteiinivalmiste, ei tavallinen ruoanlaittoaines"
+  },
+  {
+    "id": "usda:16122",
+    "skip": "proteiinivalmiste, ei tavallinen ruoanlaittoaines"
+  },
+  {
+    "id": "usda:16123",
+    "fi": "Soijakastike, shoyu"
+  },
+  {
+    "id": "usda:16124",
+    "fi": "Soijakastike, tamari"
+  },
+  {
+    "id": "usda:16125",
+    "fi": "Soijakastike, hydrolysoidusta kasviproteiinista"
+  },
+  {
+    "id": "usda:16128",
+    "fi": "Tofu, kuivattu ja pakastettu"
+  },
+  {
+    "id": "usda:16130",
+    "fi": "Okara"
+  },
+  {
+    "id": "usda:16132",
+    "fi": "Tofu, suolattu ja fermentoitu"
+  },
+  {
+    "id": "usda:16133",
+    "fi": "Pitkäpapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16135",
+    "fi": "Siipipapu, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16139",
+    "fi": "Soijamaito, alkuperäinen ja vanilja, kalsiumlisätty"
+  },
+  {
+    "id": "usda:16144",
+    "fi": "Punainen linssi, kuivattu, raaka"
+  },
+  {
+    "id": "usda:16147",
+    "fi": "Kasvishampurilaispihvi, kypsentämätön"
+  },
+  {
+    "id": "usda:16149",
+    "fi": "Maapähkinälevite, vähäsokerinen"
+  },
+  {
+    "id": "usda:16150",
+    "fi": "Maapähkinävoi, sileä, vähärasvainen"
+  },
+  {
+    "id": "usda:16155",
+    "fi": "Maapähkinävoi, sileä"
+  },
+  {
+    "id": "usda:16156",
+    "fi": "Maapähkinävoi, rouhea"
+  },
+  {
+    "id": "usda:16157",
+    "fi": "Kikhernejauho"
+  },
+  {
+    "id": "usda:16158",
+    "fi": "Hummus, teollinen"
+  },
+  {
+    "id": "usda:16166",
+    "fi": "Soijamaito, suklaa"
+  },
+  {
+    "id": "usda:16168",
+    "fi": "Soijamaito, suklaa, kalsiumlisätty"
+  },
+  {
+    "id": "usda:16171",
+    "fi": "Refried beans, säilyke, kasvis"
+  },
+  {
+    "id": "usda:16172",
+    "fi": "Refried beans, säilyke, rasvaton"
+  },
+  {
+    "id": "usda:16173",
+    "fi": "Refried beans, punainen papu, säilyke"
+  },
+  {
+    "id": "usda:16201",
+    "skip": "tuotemerkkiin sidottu säilykepapu"
+  },
+  {
+    "id": "usda:16222",
+    "fi": "Soijamaito, makeuttamaton, kalsiumlisätty"
+  },
+  {
+    "id": "usda:16223",
+    "fi": "Soijamaito, täydennetty"
+  },
+  {
+    "id": "usda:16225",
+    "fi": "Soijamaito, kevyt, alkuperäinen ja vanilja"
+  },
+  {
+    "id": "usda:16227",
+    "fi": "Soijamaito, kevyt, maustettu"
+  },
+  {
+    "id": "usda:16228",
+    "fi": "Soijamaito, kevyt, makeuttamaton"
+  },
+  {
+    "id": "usda:16229",
+    "fi": "Soijamaito, vähärasvainen"
+  },
+  {
+    "id": "usda:16230",
+    "fi": "Soijamaito, rasvaton"
+  },
+  {
+    "id": "usda:16231",
+    "fi": "Soijamaito, suklaa, rasvaton"
+  },
+  {
+    "id": "usda:16316",
+    "fi": "Musta papu, säilyke, vähäsuolainen"
+  },
+  {
+    "id": "usda:16337",
+    "fi": "Kidneypapu, punainen, säilyke, vähäsuolainen"
+  },
+  {
+    "id": "usda:16399",
+    "fi": "Maapähkinävoi, sileä, omega-3"
+  },
+  {
+    "id": "usda:16403",
+    "fi": "Refried beans, säilyke, vähäsuolainen"
+  },
+  {
+    "id": "usda:16420",
+    "skip": "proteiinivalmiste, ei tavallinen ruoanlaittoaines"
+  },
+  {
+    "id": "usda:16422",
+    "skip": "proteiinivalmiste, ei tavallinen ruoanlaittoaines"
+  },
+  {
+    "id": "usda:16425",
+    "fi": "Soijakastike, vähäsuolainen, hydrolysoidusta kasviproteiinista"
+  },
+  {
+    "id": "usda:17000",
+    "fi": "Vasikan kylkipaisti, australialainen, raaka"
+  },
+  {
+    "id": "usda:17001",
+    "fi": "Karitsanliha, raaka"
+  },
+  {
+    "id": "usda:17007",
+    "fi": "Karitsan etupotka, raaka"
+  },
+  {
+    "id": "usda:17011",
+    "fi": "Karitsan koipi, raaka"
+  },
+  {
+    "id": "usda:17015",
+    "fi": "Karitsan koipi, potkapuoli, raaka"
+  },
+  {
+    "id": "usda:17019",
+    "fi": "Karitsan koipi, ulkofileepuoli, raaka"
+  },
+  {
+    "id": "usda:17023",
+    "fi": "Karitsan ulkofilee, raaka"
+  },
+  {
+    "id": "usda:17029",
+    "fi": "Karitsan kyljysrivi, raaka"
+  },
+  {
+    "id": "usda:17035",
+    "fi": "Karitsan lapa, raaka"
+  },
+  {
+    "id": "usda:17043",
+    "fi": "Karitsan lapa, etupala, raaka"
+  },
+  {
+    "id": "usda:17051",
+    "fi": "Karitsan lapa, lapakyljys, raaka"
+  },
+  {
+    "id": "usda:17059",
+    "fi": "Karitsan pataliha, raaka"
+  },
+  {
+    "id": "usda:17062",
+    "fi": "Karitsanliha, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17068",
+    "fi": "Karitsan etupotka, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17072",
+    "fi": "Karitsan koipipihvi, uusiseelantilainen, luullinen, raaka"
+  },
+  {
+    "id": "usda:17076",
+    "fi": "Karitsan ulkofileekyljys, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17080",
+    "fi": "Karitsan karee, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17084",
+    "fi": "Karitsan lapa, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17088",
+    "fi": "Vasikanliha, raaka"
+  },
+  {
+    "id": "usda:17094",
+    "fi": "Vasikanpaisti, sisäpaisti, raaka"
+  },
+  {
+    "id": "usda:17104",
+    "fi": "Vasikan ulkofilee, raaka"
+  },
+  {
+    "id": "usda:17110",
+    "fi": "Vasikan kylkipaisti, raaka"
+  },
+  {
+    "id": "usda:17116",
+    "fi": "Vasikan lapa, raaka"
+  },
+  {
+    "id": "usda:17122",
+    "fi": "Vasikan lapa, etupala, raaka"
+  },
+  {
+    "id": "usda:17128",
+    "fi": "Vasikan lapakyljys, raaka"
+  },
+  {
+    "id": "usda:17134",
+    "fi": "Vasikan paahtopaisti, raaka"
+  },
+  {
+    "id": "usda:17140",
+    "fi": "Vasikan pataliha, raaka"
+  },
+  {
+    "id": "usda:17142",
+    "fi": "Vasikan jauheliha, raaka"
+  },
+  {
+    "id": "usda:17144",
+    "fi": "Antiloopinliha, raaka"
+  },
+  {
+    "id": "usda:17146",
+    "fi": "Karhunliha, raaka"
+  },
+  {
+    "id": "usda:17149",
+    "fi": "Biisonin jauheliha, ruoholla ruokittu, raaka"
+  },
+  {
+    "id": "usda:17150",
+    "fi": "Majavanliha, raaka"
+  },
+  {
+    "id": "usda:17152",
+    "fi": "Beefalo-naudanliha, raaka"
+  },
+  {
+    "id": "usda:17156",
+    "fi": "Biisoninliha, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17158",
+    "fi": "Villisiansliha, raaka"
+  },
+  {
+    "id": "usda:17160",
+    "fi": "Vesipuhvelinliha, raaka"
+  },
+  {
+    "id": "usda:17162",
+    "fi": "Karibunliha, raaka"
+  },
+  {
+    "id": "usda:17164",
+    "fi": "Hirvieläimenliha, raaka"
+  },
+  {
+    "id": "usda:17166",
+    "fi": "Saksanhirvenliha, raaka"
+  },
+  {
+    "id": "usda:17168",
+    "fi": "Vuohenliha, raaka"
+  },
+  {
+    "id": "usda:17170",
+    "fi": "Hevosenliha, raaka"
+  },
+  {
+    "id": "usda:17172",
+    "fi": "Hirvenliha, raaka"
+  },
+  {
+    "id": "usda:17174",
+    "fi": "Piisaminliha, raaka"
+  },
+  {
+    "id": "usda:17177",
+    "fi": "Kaninliha, tarhattu, raaka"
+  },
+  {
+    "id": "usda:17180",
+    "fi": "Kaninliha, villi, raaka"
+  },
+  {
+    "id": "usda:17183",
+    "fi": "Oravanliha, raaka"
+  },
+  {
+    "id": "usda:17185",
+    "fi": "Karitsan aivot, raaka"
+  },
+  {
+    "id": "usda:17188",
+    "fi": "Vasikan aivot, raaka"
+  },
+  {
+    "id": "usda:17191",
+    "fi": "Karitsan sydän, raaka"
+  },
+  {
+    "id": "usda:17193",
+    "fi": "Vasikan sydän, raaka"
+  },
+  {
+    "id": "usda:17195",
+    "fi": "Karitsan munuainen, raaka"
+  },
+  {
+    "id": "usda:17197",
+    "fi": "Vasikan munuainen, raaka"
+  },
+  {
+    "id": "usda:17199",
+    "fi": "Karitsan maksa, raaka"
+  },
+  {
+    "id": "usda:17202",
+    "fi": "Vasikan maksa, raaka"
+  },
+  {
+    "id": "usda:17205",
+    "fi": "Karitsan keuhko, raaka"
+  },
+  {
+    "id": "usda:17207",
+    "fi": "Vasikan keuhko, raaka"
+  },
+  {
+    "id": "usda:17209",
+    "fi": "Karitsanliha, mekaanisesti erotettu, raaka"
+  },
+  {
+    "id": "usda:17210",
+    "fi": "Karitsan haima, raaka"
+  },
+  {
+    "id": "usda:17212",
+    "fi": "Vasikan haima, raaka"
+  },
+  {
+    "id": "usda:17214",
+    "fi": "Karitsan perna, raaka"
+  },
+  {
+    "id": "usda:17216",
+    "fi": "Vasikan perna, raaka"
+  },
+  {
+    "id": "usda:17218",
+    "fi": "Vasikan kateenkorva, raaka"
+  },
+  {
+    "id": "usda:17220",
+    "fi": "Karitsan kieli, raaka"
+  },
+  {
+    "id": "usda:17222",
+    "fi": "Vasikan kieli, raaka"
+  },
+  {
+    "id": "usda:17224",
+    "fi": "Karitsan jauheliha, raaka"
+  },
+  {
+    "id": "usda:17256",
+    "fi": "Karitsan etupotka, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17258",
+    "fi": "Karitsan koipi, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17260",
+    "fi": "Karitsan ulkofilee, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17262",
+    "fi": "Karitsan kylki, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17264",
+    "fi": "Karitsan lapa, uusiseelantilainen, pakaste, raaka"
+  },
+  {
+    "id": "usda:17267",
+    "fi": "Biisonin ulkopaisti, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17268",
+    "fi": "Biisonin entrecôte, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17269",
+    "fi": "Biisonin lapa, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17271",
+    "fi": "Vasikanrinta, luuton, raaka"
+  },
+  {
+    "id": "usda:17276",
+    "fi": "Vasikan potka, raaka"
+  },
+  {
+    "id": "usda:17280",
+    "fi": "Karitsanliha, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17286",
+    "fi": "Karitsan etupotka, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17290",
+    "fi": "Karitsan koipi, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17294",
+    "fi": "Karitsan koipi, potkapuoli, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17298",
+    "fi": "Karitsan koipi, ulkofileepuoli, australialainen, tuore, luuton, raaka"
+  },
+  {
+    "id": "usda:17302",
+    "fi": "Karitsan koipikyljys, australialainen, tuore, luuton, raaka"
+  },
+  {
+    "id": "usda:17306",
+    "fi": "Karitsan koipiviipale, australialainen, tuore, luullinen, raaka"
+  },
+  {
+    "id": "usda:17310",
+    "fi": "Karitsan ulkofilee, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17314",
+    "fi": "Karitsan karee, australialainen, tuore, luullinen, raaka"
+  },
+  {
+    "id": "usda:17318",
+    "fi": "Karitsan lapa, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17322",
+    "fi": "Karitsan lapa, etupala, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17326",
+    "fi": "Karitsan lapakyljys, australialainen, tuore, raaka"
+  },
+  {
+    "id": "usda:17330",
+    "fi": "Biisonin jauheliha, raaka"
+  },
+  {
+    "id": "usda:17334",
+    "fi": "Biisonin lapa, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17337",
+    "fi": "Biisonin sisäpaisti, pihvi, raaka"
+  },
+  {
+    "id": "usda:17338",
+    "fi": "Saksanhirven jauheliha, raaka"
+  },
+  {
+    "id": "usda:17343",
+    "fi": "Hirvieläimen jauheliha, raaka"
+  },
+  {
+    "id": "usda:17349",
+    "fi": "Vasikan etupotka, australialainen, luullinen, raaka"
+  },
+  {
+    "id": "usda:17351",
+    "fi": "Vasikan takapotka, australialainen, luullinen, raaka"
+  },
+  {
+    "id": "usda:17352",
+    "fi": "Vasikan takapotka, australialainen, luullinen, raaka"
+  },
+  {
+    "id": "usda:17353",
+    "fi": "Karitsan jauheliha, australialainen, rasvaa 15 %, raaka"
+  },
+  {
+    "id": "usda:17355",
+    "fi": "Karitsan sisärasva, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17356",
+    "fi": "Karitsan pintarasva, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17358",
+    "fi": "Karitsan aivot, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17360",
+    "fi": "Karitsanrinta, uusiseelantilainen, vähärasvainen, raaka"
+  },
+  {
+    "id": "usda:17363",
+    "fi": "Karitsan takapaisti, uusiseelantilainen, luuton, raaka"
+  },
+  {
+    "id": "usda:17366",
+    "fi": "Karitsan kuveliha, uusiseelantilainen, luuton, raaka"
+  },
+  {
+    "id": "usda:17367",
+    "fi": "Karitsan munuainen, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17369",
+    "fi": "Karitsan maksa, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17371",
+    "fi": "Karitsan jauheliha, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17373",
+    "fi": "Karitsan sydän, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17375",
+    "fi": "Karitsan kateenkorva, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17377",
+    "fi": "Karitsan kives, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17379",
+    "fi": "Karitsan kieli, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17381",
+    "fi": "Karitsan koipi, uusiseelantilainen, luuton, raaka"
+  },
+  {
+    "id": "usda:17383",
+    "fi": "Karitsan lapakyljys, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17385",
+    "fi": "Karitsan sisäfilee, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17387",
+    "fi": "Karitsan selkä, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17389",
+    "fi": "Karitsan ulkofilee, uusiseelantilainen, luuton, raaka"
+  },
+  {
+    "id": "usda:17391",
+    "fi": "Karitsan takapotka, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17392",
+    "fi": "Karitsan niskakyljys, uusiseelantilainen, raaka"
+  },
+  {
+    "id": "usda:17395",
+    "fi": "Karitsan lapa, uusiseelantilainen, rullattu, luuton, raaka"
+  }
+]
