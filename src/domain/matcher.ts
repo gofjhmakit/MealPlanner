@@ -247,6 +247,16 @@ function round2(n: number): number {
   return Math.round(n * 100) / 100
 }
 
+/**
+ * The nutrition food of a dictionary ingredient: its Fineli food, or the supplementary food it
+ * names when Fineli only approximates it and the supplementary data is loaded.
+ */
+export function canonicalFood(ing: CanonicalIngredient, lookup: FineliLookup | undefined): { fineliId: number | null; supplementary: FineliFood | undefined } {
+  const suppId = ing.supplementary ? parseSupplementaryRef(ing.supplementary) : null
+  const supplementary = suppId !== null ? lookup?.get(suppId) : undefined
+  return { fineliId: supplementary ? supplementary.id : ing.fineliId, supplementary }
+}
+
 function result(
   ing: CanonicalIngredient,
   matchConfidence: number,
@@ -256,8 +266,7 @@ function result(
   ctx: MatchContext = {},
 ): IngredientMatch {
   // Fineli only approximates this ingredient: use the named supplementary food when it's loaded.
-  const suppId = ing.supplementary ? parseSupplementaryRef(ing.supplementary) : null
-  const supp = suppId !== null ? ctx.fineli?.get(suppId) : undefined
+  const supp = canonicalFood(ing, ctx.fineli).supplementary
   if (supp) {
     return {
       canonicalId: ing.id,
@@ -329,7 +338,7 @@ function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
   const user = ctx.userMappings?.get(key)
   if (user && (user.canonicalId || user.fineliId)) {
     const ing = getIngredient(user.canonicalId)
-    const fineliId = user.fineliId ?? ing?.fineliId ?? null
+    const fineliId = user.fineliId ?? (ing ? canonicalFood(ing, ctx.fineli).fineliId : null)
     const food = fineliId !== null ? ctx.fineli?.get(fineliId) : undefined
     return {
       canonicalId: ing?.id ?? null,

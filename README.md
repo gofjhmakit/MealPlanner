@@ -495,7 +495,7 @@ exported.
 
 ## Testing
 
-`npm test` runs 208 Vitest tests:
+`npm test` runs 209 Vitest tests:
 
 | File | Covers |
 |---|---|

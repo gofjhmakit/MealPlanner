@@ -2,8 +2,9 @@ import 'fake-indexeddb/auto'
 import { describe, expect, it } from 'vitest'
 import { FineliStore, loadSupplementaryData } from '../src/db/bootstrap'
 import { MealPlannerDB } from '../src/db/db'
+import { normalizeKey } from '../src/domain/finnish'
 import { INGREDIENTS } from '../src/domain/ingredients'
-import { matchIngredient, searchSupplementary } from '../src/domain/matcher'
+import { canonicalFood, matchIngredient, searchSupplementary } from '../src/domain/matcher'
 import { computeRecipeNutrition } from '../src/domain/nutrition'
 import { buildRecipeIngredient } from '../src/domain/recipeIngredients'
 import { foodSourceLabel, isSupplementaryFoodId, parseSupplementaryRef, SUPPLEMENTARY_SOURCES } from '../src/domain/supplementary'
@@ -107,6 +108,14 @@ describe('Fineli first, supplementary as fallback', () => {
     expect(m.fineliId).toBe(parseSupplementaryRef('usda:2014'))
     expect(m.confidence).toBeGreaterThan(before.confidence)
     expect(m.explanation).toMatch(/USDA/)
+  })
+
+  it('a user mapping to such an ingredient keeps the supplementary food', () => {
+    const userMappings = new Map([[normalizeKey('kuminaa'), { canonicalId: 'cumin', fineliId: null }]])
+    const m = matchIngredient('kuminaa', { fineli: full, userMappings })
+    expect(m.method).toBe('user')
+    expect(m.fineliId).toBe(parseSupplementaryRef('usda:2014'))
+    expect(canonicalFood(INGREDIENTS.find((i) => i.id === 'cumin')!, fineliLookup()).fineliId).toBe(11182)
   })
 
   it('works without supplementary data (Fineli only)', () => {

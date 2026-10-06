@@ -7,7 +7,7 @@ import { addMealItem, addRecipeToShoppingList, resetIngredientMapping, setIngred
 import { addDays, formatDate, today, weekdayName, capitalize } from '../../domain/dates'
 import { lemmaCandidates, tokenize } from '../../domain/finnish'
 import { getIngredient, INGREDIENTS, type CanonicalIngredient } from '../../domain/ingredients'
-import { matchIngredient } from '../../domain/matcher'
+import { canonicalFood, matchIngredient } from '../../domain/matcher'
 import { resolveGrams } from '../../domain/nutrition'
 import { matchesQuery, searchText } from '../../domain/recipeInfo'
 import { foodSourceLabel } from '../../domain/supplementary'
@@ -158,16 +158,17 @@ export function IngredientMappingDialog({
     : ingredient.matchMethod === 'source'
       ? 'Vastaavuus tulee reseptin lähteestä.'
       : matchIngredient(ingredient.name, { fineli }, ingredient.raw).explanation
-  const previewFood = selected?.food ?? (selected?.canonical?.fineliId != null ? fineli.get(selected.canonical.fineliId) : undefined)
+  const selectedCanonicalFoodId = selected?.canonical ? canonicalFood(selected.canonical, fineli).fineliId : null
+  const previewFood = selected?.food ?? (selectedCanonicalFoodId != null ? fineli.get(selectedCanonicalFoodId) : undefined)
 
   async function save() {
     if (!ingredient) return
     if (selected) {
       const mapping = selected.canonical
-        ? { canonicalId: selected.canonical.id, fineliId: selected.canonical.fineliId }
+        ? { canonicalId: selected.canonical.id, fineliId: selectedCanonicalFoodId }
         : { canonicalId: ingredient.canonicalId ?? null, fineliId: selected.food!.id }
       // A Fineli (or supplementary) food chosen directly replaces the nutrition source but keeps the shopping ingredient.
-      if (selected.food && canonical && selected.food.id !== canonical.fineliId) mapping.canonicalId = canonical.id
+      if (selected.food && canonical && selected.food.id !== canonicalFood(canonical, fineli).fineliId) mapping.canonicalId = canonical.id
       await setIngredientMapping(recipe.id, ingredient.id, mapping, remember, fineli)
     }
     const g = gramsText.trim() ? Number(gramsText.replace(',', '.')) : null

@@ -11,7 +11,7 @@
  * Every resolution carries a confidence so the UI can show how solid the estimate is.
  */
 import { getIngredient, type CanonicalIngredient } from './ingredients'
-import type { FineliLookup } from './matcher'
+import { canonicalFood, type FineliLookup } from './matcher'
 import { foodSourceLabel } from './supplementary'
 import { applyScaling } from './scaling'
 import type { FineliFood, NutrientKey, Nutrients, Recipe, RecipeIngredient } from './types'
@@ -215,7 +215,7 @@ export function computeRecipeNutrition(
 
   for (const ing of recipe.ingredients) {
     const canonical = getIngredient(ing.canonicalId)
-    const fineliId = ing.fineliId ?? canonical?.fineliId ?? null
+    const fineliId = ing.fineliId ?? (canonical ? canonicalFood(canonical, lookup).fineliId : null)
     const food = fineliId !== null ? lookup.get(fineliId) : undefined
     const res = resolveGrams(ing, canonical, food)
     const grams = res.grams !== null ? res.grams * applyScaling(1, factor, ing.scaling) : null
