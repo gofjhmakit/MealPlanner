@@ -542,3 +542,7 @@ Designed-for, not implemented:
 - **Price estimation**: via products.
 - **AI-assisted normalization and substitutions**: can plug in as another matcher step before `fineli-search`, keeping the same confidence/explanation contract.
 - **Automatic meal planning**: can use the nutrition and filter functions in `src/domain`.
+
+## License
+
+Non-commercial use is free under the [PolyForm Noncommercial License 1.0.0](LICENSE). **Commercial use needs a separate licence from the author**, and commercial licences are available. Third-party data (Fineli, supplementary nutrient data, the translated recipe catalogue) keeps its own licence. See [LICENSING.md](LICENSING.md).

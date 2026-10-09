@@ -1,6 +1,7 @@
 {
   "name": "meal-planner",
   "private": true,
+  "license": "PolyForm-Noncommercial-1.0.0",
   "version": "1.0.0",
   "type": "module",
   "description": "Ateriasuunnittelija – local-first meal planner for Finnish recipes with Fineli nutrition estimates",
