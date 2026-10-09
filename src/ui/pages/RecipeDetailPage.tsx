@@ -279,7 +279,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   )
 
   const fitCard = base && (
-    <div className="rounded-[22px] border border-line bg-surface p-4">
+    <div className="no-print rounded-[22px] border border-line bg-surface p-4">
       <div className="flex items-baseline justify-between gap-3">
         <p className="text-sm font-semibold">{kcalTarget && target ? 'Sopii päivääsi' : 'Annos'}</p>
         {kcalTarget && target ? (

@@ -215,7 +215,9 @@ function buyMass(g: number): number {
   return g
 }
 function buyVolume(ml: number): number {
-  return ml >= 100 ? Math.ceil(ml / 50) * 50 : ml
+  if (ml >= 45) return Math.ceil(ml / 50) * 50 // half decilitres
+  if (ml >= 15) return Math.ceil(ml / 7.5) * 7.5 // half tablespoons
+  return Math.ceil(ml / 1.25) * 1.25 // quarter teaspoons
 }
 
 /** Human-readable amount for a shopping list line, e.g. "1 kg", "7 dl", "2 kpl + 200 g". */

@@ -173,7 +173,7 @@ function ListView({ listId, onBack }: { listId: string; onBack: () => void }) {
               <div className="h-full rounded-full bg-brand transition-[width]" style={{ width: `${toBuy.length ? (checked / toBuy.length) * 100 : 0}%` }} />
             </div>
             {rolling && (
-              <div className="mt-3 flex flex-wrap items-center gap-2">
+              <div className="no-print mt-3 flex flex-wrap items-center gap-2">
                 <span className="text-xs text-muted">Kattaa</span>
                 <Segmented
                   size="sm"
@@ -197,7 +197,7 @@ function ListView({ listId, onBack }: { listId: string; onBack: () => void }) {
           </Panel>
 
           {!list.triaged && triage.length > 0 && (
-            <div className="rounded-[22px] border border-sun/50 bg-sun-soft p-4">
+            <div className="no-print rounded-[22px] border border-sun/50 bg-sun-soft p-4">
               <div className="flex items-start justify-between gap-3">
                 <div>
                   <p className="font-semibold">Ennen kauppaa: onko kotona?</p>
@@ -224,7 +224,7 @@ function ListView({ listId, onBack }: { listId: string; onBack: () => void }) {
             </div>
           )}
 
-          <div className="flex flex-wrap items-center gap-2">
+          <div className="no-print flex flex-wrap items-center gap-2">
             <Segmented
               size="sm"
               label="Järjestys"
