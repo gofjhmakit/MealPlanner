@@ -50,3 +50,38 @@ describe('chicken spelling variants', () => {
     expect(ings.map((i) => i.canonicalId)).toEqual(['chicken-breast', 'chicken-thigh', 'chicken-breast'])
   })
 })
+
+describe('v2 helpers', () => {
+  it('finds durations in instructions', async () => {
+    const { splitTimers } = await import('../src/domain/timers')
+    const parts = splitTimers('Hauduta 20–25 minuuttia ja anna levätä 1 tunti.')
+    expect(parts.filter((p) => typeof p !== 'string')).toEqual([
+      { text: '20–25 minuuttia', seconds: 1500 },
+      { text: '1 tunti', seconds: 3600 },
+    ])
+    expect(splitTimers('Lisää 2 dl vettä.')).toEqual(['Lisää 2 dl vettä.'])
+  })
+  it('offers the first empty main meal that has not passed yet', async () => {
+    const { nextEmptySlot } = await import('../src/domain/today')
+    const items = [{ date: '2026-10-09', slot: 'dinner' as const }]
+    expect(nextEmptySlot(items, '2026-10-09', 16)).toEqual({ date: '2026-10-10', slot: 'breakfast' })
+    expect(nextEmptySlot([], '2026-10-09', 9)).toEqual({ date: '2026-10-09', slot: 'breakfast' })
+    expect(nextEmptySlot(items, '2026-10-09', 16, { preferSlot: 'dinner' })).toEqual({ date: '2026-10-10', slot: 'dinner' })
+  })
+  it('rounds shopping amounts to what you buy, with Finnish partitives', async () => {
+    const { formatShoppingAmount } = await import('../src/domain/shoppingList')
+    const amt = (o: Partial<{ mass: number; volume: number; counts: Record<string, number> }>) => ({ mass: null, volume: null, counts: {}, unquantified: 0, ...o })
+    expect(formatShoppingAmount(amt({ mass: 265 }))).toBe('300 g')
+    expect(formatShoppingAmount(amt({ counts: { ruukku: 1.5 } }))).toBe('2 ruukkua')
+    expect(formatShoppingAmount(amt({ counts: { kynsi: 6 } }))).toBe('6 kynttä')
+    expect(formatShoppingAmount(amt({ counts: { kpl: 0.5 } }))).toBe('1 kpl')
+    expect(formatShoppingAmount(amt({ volume: 430 }))).toBe('4 ½ dl')
+  })
+  it('asks "onko kotona?" only for staples and small amounts', async () => {
+    const { isStapleLike } = await import('../src/domain/shoppingList')
+    const base = { mass: null, volume: null, counts: {}, unquantified: 0 }
+    expect(isStapleLike({ name: 'Kaneli', category: 'spices_sauces', amount: { ...base, volume: 5 } })).toBe(true)
+    expect(isStapleLike({ name: 'Oliiviöljy', category: 'other', amount: { ...base, volume: 30 } })).toBe(true)
+    expect(isStapleLike({ name: 'Broilerin fileesuikale', category: 'meat_fish', amount: { ...base, mass: 450 } })).toBe(false)
+  })
+})
