@@ -62,7 +62,7 @@ export function IconButton({
 }
 
 export function Card({ className, children, as: As = 'div' }: { className?: string; children: ReactNode; as?: 'div' | 'section' | 'article' }) {
-  return <As className={cx('rounded-2xl border border-line bg-surface', className)}>{children}</As>
+  return <As className={cx('rounded-[22px] border border-line bg-surface', className)}>{children}</As>
 }
 
 export function Badge({ tone = 'neutral', children, className, title }: { tone?: 'neutral' | 'brand' | 'warn' | 'bad' | 'accent' | 'ok'; children: ReactNode; className?: string; title?: string }) {
