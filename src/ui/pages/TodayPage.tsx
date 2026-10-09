@@ -8,7 +8,7 @@ import { ArrowRight, Check, ChefHat, Fish, Leaf, Plus, Scale, ShoppingCart, Spar
 import { useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { db } from '../../db/db'
-import { saveUserSettings, setMealStatus } from '../../db/repo'
+import { ROLLING_LIST_ID, saveUserSettings, setMealStatus } from '../../db/repo'
 import { addDays, capitalize, formatDate, isoWeek, parseISODate, startOfWeek, today, weekdayName } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
 import { MAIN_SLOTS, SLOT_TIMES, slotPassed } from '../../domain/today'
@@ -595,15 +595,18 @@ function SnackIdeas({ candidates, t, items, remainingKcal, servings, proteinGap 
 }
 
 function ShoppingCard() {
-  const list = useLiveQuery(() => db.shoppingLists.orderBy('createdAt').last(), [])
+  const { settings } = useApp()
   const counts = useLiveQuery(async () => {
+    const list = await db.shoppingLists.get(ROLLING_LIST_ID)
     if (!list) return null
-    const all = await db.shoppingItems.where('listId').equals(list.id).toArray()
+    const home = new Set(list.homeKeys ?? [])
+    const inPantry = pantryMatcher(settings.pantry)
+    const all = (await db.shoppingItems.where('listId').equals(list.id).toArray()).filter((i) => i.manual || !(home.has(i.key) || inPantry(i)))
     return { total: all.length, left: all.filter((i) => !i.checked).length }
-  }, [list?.id])
+  }, [settings.pantry])
   return (
     <Panel title="Seuraava kauppareissu" action={<ShoppingCart size={18} className="text-muted" />}>
-      {counts ? (
+      {counts && counts.total > 0 ? (
         <>
           <div className="flex items-end gap-6">
             <div>
@@ -615,12 +618,12 @@ function ShoppingCard() {
               <p className="mt-1 text-xs text-muted">jo korissa</p>
             </div>
           </div>
-          <Link to="/ostokset" className="mt-4 flex h-10 items-center justify-center rounded-xl border border-line text-sm font-medium hover:bg-surface-2">Avaa lista</Link>
+          <Link to="/ostokset" className="mt-4 flex h-10 items-center justify-center rounded-xl border border-line text-sm font-medium hover:bg-surface-2">Avaa ostokset</Link>
         </>
       ) : (
         <>
-          <p className="text-sm text-muted">Ostoslista kootaan tulevista aterioista.</p>
-          <Link to="/ostokset" className="mt-3 flex h-10 items-center justify-center rounded-xl border border-line text-sm font-medium hover:bg-surface-2">Kokoa ostoslista</Link>
+          <p className="text-sm text-muted">Ostoslista kootaan automaattisesti tulevista aterioista.</p>
+          <Link to="/ostokset" className="mt-3 flex h-10 items-center justify-center rounded-xl border border-line text-sm font-medium hover:bg-surface-2">Avaa ostokset</Link>
         </>
       )}
     </Panel>

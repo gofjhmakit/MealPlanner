@@ -403,7 +403,7 @@ export async function createShoppingList(
   database: MealPlannerDB = defaultDb,
 ): Promise<string> {
   const id = newId()
-  await database.shoppingLists.put({ id, name, from, to, createdAt: now(), updatedAt: now(), extraRecipes: [] })
+  await database.shoppingLists.put({ id, name, from, to, createdAt: now(), updatedAt: now(), extraRecipes: [], homeKeys: [] })
   await regenerateShoppingList(id, fineli, database)
   return id
 }
@@ -441,6 +441,52 @@ export async function regenerateShoppingList(listId: string, fineli: FineliLooku
     await database.shoppingItems.bulkDelete(existing.filter((i) => !i.manual && !keep.has(i.id)).map((i) => i.id))
     await database.shoppingItems.bulkPut(next)
     await database.shoppingLists.update(listId, { updatedAt: now(), planHash: hash })
+  })
+}
+
+export const ROLLING_LIST_ID = 'rolling'
+
+/**
+ * The always-current shopping list: today → today + horizon − 1. Moves forward with the calendar
+ * and is rebuilt whenever the meal plan in that range changes (ticks and "kotona" marks are kept).
+ */
+export async function syncRollingList(fineli: FineliLookup, horizonDays?: number, database: MealPlannerDB = defaultDb): Promise<ShoppingList> {
+  const t = new Date()
+  const iso = (d: Date) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+  const existing = await database.shoppingLists.get(ROLLING_LIST_ID)
+  const days = horizonDays ?? existing?.horizonDays ?? 7
+  const end = new Date(t)
+  end.setDate(end.getDate() + days - 1)
+  const from = iso(t)
+  const to = iso(end)
+  if (!existing) {
+    await database.shoppingLists.put({ id: ROLLING_LIST_ID, name: 'Ostokset', from, to, createdAt: now(), updatedAt: now(), extraRecipes: [], rolling: true, horizonDays: days, homeKeys: [], triaged: false })
+    await regenerateShoppingList(ROLLING_LIST_ID, fineli, database)
+  } else {
+    const moved = existing.from !== from || existing.to !== to
+    if (moved) await database.shoppingLists.update(ROLLING_LIST_ID, { from, to, horizonDays: days })
+    const hash = await planHash(from, to, database)
+    if (moved || hash !== existing.planHash) await regenerateShoppingList(ROLLING_LIST_ID, fineli, database)
+  }
+  return (await database.shoppingLists.get(ROLLING_LIST_ID))!
+}
+
+/** Mark an item as "at home" (not bought this trip), or back to buy. */
+export async function setShoppingHome(listId: string, key: string, home: boolean, database: MealPlannerDB = defaultDb) {
+  const list = await database.shoppingLists.get(listId)
+  if (!list) return
+  const keys = new Set(list.homeKeys ?? [])
+  if (home) keys.add(key)
+  else keys.delete(key)
+  await database.shoppingLists.update(listId, { homeKeys: [...keys] })
+}
+
+/** Start a fresh trip: clear ticks, bought manual items, "kotona" marks and the check. */
+export async function newShoppingTrip(listId: string, database: MealPlannerDB = defaultDb) {
+  await database.transaction('rw', database.shoppingLists, database.shoppingItems, async () => {
+    await database.shoppingItems.where('listId').equals(listId).filter((i) => i.manual && i.checked).delete()
+    await database.shoppingItems.where('listId').equals(listId).modify({ checked: false })
+    await database.shoppingLists.update(listId, { homeKeys: [], triaged: false })
   })
 }
 
@@ -505,7 +551,7 @@ export async function addRecipeToShoppingList(
     const recipe = await database.recipes.get(recipeId)
     id = newId()
     // An empty date range: the list contains only the directly added recipes.
-    await database.shoppingLists.put({ id, name: recipe ? `Ostoslista: ${recipe.title}` : 'Ostoslista', from: iso, to: '0000-00-00', createdAt: now(), updatedAt: now(), extraRecipes: [] })
+    await database.shoppingLists.put({ id, name: recipe ? `Ostoslista: ${recipe.title}` : 'Ostoslista', from: iso, to: '0000-00-00', createdAt: now(), updatedAt: now(), extraRecipes: [], homeKeys: [] })
   }
   const list = await database.shoppingLists.get(id)
   if (!list) throw new Error('Ostoslistaa ei löytynyt')

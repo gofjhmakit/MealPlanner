@@ -208,6 +208,13 @@ export const shoppingListSchema = z.object({
   planHash: z.string().nullish(),
   /** Recipes added to the list directly (not via the meal plan). */
   extraRecipes: z.array(z.object({ id: z.string(), recipeId: z.string(), servings: z.number().positive() })).default([]),
+  /** The always-current list: covers today + `horizonDays` and follows the meal plan automatically. */
+  rolling: z.boolean().nullish(),
+  horizonDays: z.number().int().min(1).max(31).nullish(),
+  /** Item keys marked "kotona" for this trip (not bought). */
+  homeKeys: z.array(z.string()).default([]),
+  /** The "onko kotona?" check was answered for this trip. */
+  triaged: z.boolean().nullish(),
 })
 export type ShoppingList = z.infer<typeof shoppingListSchema>
 

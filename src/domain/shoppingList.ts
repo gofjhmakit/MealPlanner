@@ -204,13 +204,27 @@ export function aggregateShoppingList(
     .sort((a, b) => order.get(a.category)! - order.get(b.category)! || a.name.localeCompare(b.name, 'fi'))
 }
 
+/** Units bought whole: half a pot of dill or half an onion is still one in the basket. */
+const WHOLE_UNITS = new Set(['kpl', 'pkt', 'prk', 'tlk', 'ps', 'rs', 'pll', 'nippu', 'ruukku', 'kera', 'varsi'])
+
+/** Amounts rounded up to what you'd pick up in a shop: 265 g → 300 g, 4,3 dl → 4,5 dl. */
+function buyMass(g: number): number {
+  if (g >= 1000) return Math.ceil(g / 100) * 100
+  if (g >= 100) return Math.ceil(g / 50) * 50
+  if (g >= 20) return Math.ceil(g / 10) * 10
+  return g
+}
+function buyVolume(ml: number): number {
+  return ml >= 100 ? Math.ceil(ml / 50) * 50 : ml
+}
+
 /** Human-readable amount for a shopping list line, e.g. "1 kg", "7 dl", "2 kpl + 200 g". */
 export function formatShoppingAmount(a: Amount): string {
   const parts: string[] = []
-  if (a.mass) parts.push(formatMass(a.mass))
-  if (a.volume) parts.push(formatVolume(a.volume))
+  if (a.mass) parts.push(formatMass(buyMass(a.mass)))
+  if (a.volume) parts.push(formatVolume(buyVolume(a.volume)))
   for (const [u, n] of Object.entries(a.counts)) {
-    if (n > 0) parts.push(formatCount(Math.ceil(n * 2 - 0.05) / 2, u))
+    if (n > 0) parts.push(formatCount(WHOLE_UNITS.has(u) ? Math.ceil(n - 0.05) : Math.ceil(n * 2 - 0.05) / 2, u))
   }
   if (parts.length === 0) return a.unquantified > 0 ? 'tarpeen mukaan' : ''
   return parts.join(' + ')
@@ -247,4 +261,21 @@ export function shoppingListText(title: string, items: ShoppingTextItem[]): stri
     for (const i of inCat.sort((a, b) => a.name.localeCompare(b.name, 'fi'))) lines.push(`☐ ${i.name}${i.amountText ? ` – ${i.amountText}` : ''}`)
   }
   return lines.join('\n')
+}
+
+const STAPLE_NAME_RE = /öljy|jauho|sokeri|suola|pippuri|etikka|soija|liemikuutio|liemijauhe|mauste|leivinjauhe|sooda|vanilja|kaneli|paprikajauhe|curry|kurkuma|oregano|basilika, kuivattu|timjami|sinappi|ketsuppi|majoneesi|hunaja|siirappi|kaakao/i
+
+/**
+ * Lines worth asking "onko kotona?" before a trip: seasonings, oils, baking basics and other
+ * small amounts of things a kitchen usually keeps (a teaspoon of cinnamon is not a purchase).
+ */
+export function isStapleLike(item: { name: string; category: ShoppingCategory; amount: Amount; manual?: boolean }): boolean {
+  if (item.manual) return false
+  if (item.category === 'spices_sauces') return true
+  if (STAPLE_NAME_RE.test(item.name)) return true
+  const a = item.amount
+  const countTotal = Object.values(a.counts).reduce((s, n) => s + n, 0)
+  if (!a.mass && !countTotal && a.volume && a.volume <= 45) return true
+  if (!a.volume && !countTotal && a.mass && a.mass <= 20) return true
+  return !a.mass && !a.volume && !countTotal && a.unquantified > 0
 }

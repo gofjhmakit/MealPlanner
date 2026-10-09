@@ -1,7 +1,7 @@
 import { ArrowLeft, ArrowRight, CalendarCheck, RefreshCw, ShoppingCart, Shuffle, Soup, Sparkles } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
-import { applyMealPlan, createShoppingList, mealItemsInRange } from '../../db/repo'
+import { applyMealPlan, mealItemsInRange, syncRollingList } from '../../db/repo'
 import { addDays, capitalize, formatDate, isoWeek, startOfWeek, today, weekdayName } from '../../domain/dates'
 import { MEAL_SLOTS, type MealSlot, type Recipe } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
@@ -109,10 +109,11 @@ export function PlanWeekPage() {
   }
 
   async function shoppingList() {
-    const sorted = [...dates].sort()
-    const name = period === 'week' ? `Viikko ${isoWeek(sorted[0])} (${formatDate(sorted[0])}–${formatDate(sorted.at(-1)!)})` : `${capitalize(weekdayName(sorted[0]))} ${formatDate(sorted[0])}`
-    const id = await createShoppingList(sorted[0], sorted.at(-1)!, name, fineli)
-    navigate(`/ostoslista?lista=${id}`)
+    // The rolling list covers today onwards; stretch it to the last planned day (max two weeks).
+    const last = [...dates].sort().at(-1)!
+    const span = Math.round((new Date(`${last}T12:00:00`).getTime() - new Date(`${today()}T12:00:00`).getTime()) / 86400000) + 1
+    await syncRollingList(fineli, Math.min(14, Math.max(7, span)))
+    navigate('/ostokset')
   }
 
   if (!recipes) return <Spinner />
@@ -121,7 +122,7 @@ export function PlanWeekPage() {
 
   return (
     <div className="fade-in">
-      <Link to="/ruokalista" className="mb-4 inline-flex items-center gap-1 text-sm text-ink-2 hover:text-ink"><ArrowLeft size={16} /> Ruokalista</Link>
+      <Link to="/viikko" className="mb-4 inline-flex items-center gap-1 text-sm text-ink-2 hover:text-ink"><ArrowLeft size={16} /> Ruokalista</Link>
       <PageHeader
         title={period === 'week' ? 'Suunnittele viikkoni' : 'Suunnittele päiväni'}
         subtitle="Vastaa muutamaan kysymykseen, niin ehdotan ruokalistan resepteistäsi. Voit vaihtaa yksittäisiä aterioita ennen tallennusta."
@@ -340,7 +341,7 @@ export function PlanWeekPage() {
               ) : (
                 <>
                   <Button variant="secondary" onClick={shoppingList} icon={<ShoppingCart size={16} />}>Luo ostoslista</Button>
-                  <Link to="/ruokalista"><Button icon={<CalendarCheck size={16} />}>Avaa ruokalista</Button></Link>
+                  <Link to="/viikko"><Button icon={<CalendarCheck size={16} />}>Avaa ruokalista</Button></Link>
                 </>
               )}
             </div>
