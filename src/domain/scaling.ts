@@ -48,6 +48,8 @@ export function normalizeDisplayUnit(quantity: number, unit: string | null): { q
   if (u.id === 'dl') return tryUnit('l', (q) => q >= 1) ?? tryUnit('rkl', (q) => q < 2 && q >= 1 / 3 && quantity < 0.5) ?? { quantity, unit }
   if (u.id === 'ml') return tryUnit('dl', (q) => q >= 1) ?? { quantity, unit }
   if (u.id === 'g') return tryUnit('kg', (q) => q >= 1) ?? { quantity, unit }
+  if (u.id === 'kg') return tryUnit('g', (q) => q < 1000) ?? { quantity, unit }
+  if (u.id === 'l') return tryUnit('dl', (q) => q < 10) ?? { quantity, unit }
   return { quantity, unit }
 }
 

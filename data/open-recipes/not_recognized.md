@@ -1,11 +1,11 @@
 # Tunnistamattomat ainekset
 
-Generoitu 2026-10-09 14:31 komennolla `npm run recipes:build`. Älä muokkaa käsin.
+Generoitu 2026-10-09 17:32 komennolla `npm run recipes:build`. Älä muokkaa käsin.
 
 Ainekset, joita Fineli-vastaavuuksien haku ei tunnistanut (varmuus alle 50 %). Yleisimmät kannattaa lisätä
 ainessanastoon (`src/domain/ingredients.ts`) tai korjata käännösten sanamuotoa.
 
-Yhteensä 1994 eri nimeä, 3887 riviä.
+Yhteensä 1988 eri nimeä, 3879 riviä.
 
 | Kertaa | Aines (tunnistettu nimi) | Esimerkkirivit | Reseptit |
 |---:|---|---|---|
@@ -288,7 +288,6 @@ Yhteensä 1994 eri nimeä, 3887 riviä.
 | 3 | cajun-mausteseosta | cajun-mausteseosta (1 rkl majoneesiin + pinnalle) · 3 rkl cajun-mausteseosta (esim. Seafood Magic) | wikibooks-cajun-burger, wikibooks-cajun-red-beans-and-rice, wikibooks-dynamite-shrimp |
 | 3 | vaahtokarkkeja | pieniä vaahtokarkkeja · 125 g pieniä vaahtokarkkeja | wikibooks-campfire-banana-boat, wikibooks-frogs-eye-salad, wikibooks-hot-chocolate-with-cayenne |
 | 3 | kiinalaista viiden mausteen jauhetta | 2 rkl kiinalaista viiden mausteen jauhetta · 1 tl kiinalaista viiden mausteen jauhetta | wikibooks-cantonese-crispy-fried-chicken, wikibooks-cantonese-roast-duck, wikibooks-cao-lu-vietnamese-pork-noodles-with-greens |
-| 3 | kananpaloja | 1,35 kg kananpaloja, nahat poistettuina · 1 kg kananpaloja | wikibooks-chicken-cacciatore, wikibooks-chicken-karahi-pakistani-chicken-with-tomato-and-peppers, wikibooks-gambian-yassa-poulet |
 | 3 | inkiväärtahnaa | 1½ tl inkiväärtahnaa · 1 tl inkiväärtahnaa | wikibooks-chicken-curry, wikibooks-chickpea-curry-masaledaar-chole |
 | 3 | chipotle-bbq-mausteseosta | 3 rkl chipotle-BBQ-mausteseosta · 6 rkl chipotle-BBQ-mausteseosta | wikibooks-chipotle-bbq-chicken-nuggets, wikibooks-chipotle-bbq-ribs, wikibooks-chipotle-lime-grilled-chicken |
 | 3 | savuista chipotle-tulista kastiketta | 3 rkl savuista chipotle-tulista kastiketta · ½ dl savuista chipotle-tulista kastiketta | wikibooks-chipotle-lime-grilled-chicken, wikibooks-chipotle-lime-hot-wings, wikibooks-hickory-maple-glazed-wings |
@@ -1003,7 +1002,6 @@ Yhteensä 1994 eri nimeä, 3887 riviä.
 | 1 | vasikanluita nivelet | 2 kg vasikanluita (nivelet, ydinluut ja kaulaluut, sahattuna 5–8 cm:n paloiksi) | forkrecipe-brown-veal-stock |
 | 1 | valkosipulikokonaisuus | 1 valkosipulikokonaisuus, puolitettuna (valinnainen) | forkrecipe-brown-veal-stock |
 | 1 | frank's redhot original cayennekastiketta | 1,2 dl Frank's RedHot Original -cayennekastiketta | forkrecipe-buffalo-sauce |
-| 1 | kananpaloja siipiä | 1 kg kananpaloja siipiä (paloiteltuna siipiin ja siivenvarsiin) | forkrecipe-buffalo-wings |
 | 1 | frank's redhot original tulikastiketta | 2 dl Frank's RedHot Original -tulikastiketta | forkrecipe-buffalo-wings |
 | 1 | selleritikkuja | selleritikkuja ja sinihomejuustokastiketta (tarjoiluun) | forkrecipe-buffalo-wings |
 | 1 | porsaan koipia | 600 g porsaan koipia tai porsaan kaulaluita | forkrecipe-bun-bo-hue-broth |
@@ -1340,7 +1338,6 @@ Yhteensä 1994 eri nimeä, 3887 riviä.
 | 1 | merenelävämaustetta | merenelävämaustetta (esim. Old Bay) | wikibooks-chipotle-bbq-salmon-burgers |
 | 1 | tlk tomaattipaloja | 1 iso tlk (411 g) tomaattipaloja tai enemmän | wikibooks-chipotle-chili |
 | 1 | tilapiafilettä | 4 tilapiafilettä, 30 g:n suikaleiksi leikattuna | wikibooks-chipotle-fish-n-chips |
-| 1 | kananpaloja nahattomina 2 koipireittä | kananpaloja nahattomina: 2 koipireittä, 2 koipea ja 2 rintafileetä | wikibooks-chipotle-fried-chicken |
 | 1 | chipotle-pohjaista tulista kastiketta | ½ dl chipotle-pohjaista tulista kastiketta | wikibooks-chipotle-lime-tortilla-chips |
 | 1 | raastettua limetinkuorta | 1 rkl hienoksi raastettua limetinkuorta | wikibooks-chipotle-maple-glazed-pork-tenderloin |
 | 1 | suosikkijuustoasi | 16 viipaletta suosikkijuustoasi | wikibooks-chipotle-sliders |
@@ -1375,14 +1372,12 @@ Yhteensä 1994 eri nimeä, 3887 riviä.
 | 1 | leivonnaismausteseosta | 1 tl leivonnaismausteseosta (mixed spice) | wikibooks-christmas-pudding-i |
 | 1 | marinara-kastiketta | marinara-kastiketta | wikibooks-chupaqueso |
 | 1 | kuivattua limetinlehteä | 6 kuivattua limetinlehteä | wikibooks-chuu-chee-fish |
-| 1 | kananpalaa | 4 kananpalaa (esim. koipireisiä tai koivet) | wikibooks-cinnamon-braised-chicken-kotopoulo-kapama |
 | 1 | hienonnettuja sellerinlehtiä | hienonnettuja sellerinlehtiä | wikibooks-cinnamon-braised-chicken-kotopoulo-kapama |
 | 1 | taskurapuja | 900 g taskurapuja tai muita rapuja, paloiteltuina | wikibooks-cioppino-italian-seafood-stew |
 | 1 | omenaviinaa | 5–7 rkl omenaviinaa (applejack) tai kuivaa siideriä | wikibooks-classic-american-apple-pie |
 | 1 | maustepippurinjyvää | 8 maustepippurinjyvää | wikibooks-cochinita-pibil-mexican-braised-pork |
 | 1 | roiske tequilaa | 1 roiske tequilaa | wikibooks-cochinita-pibil-mexican-braised-pork |
 | 1 | banaaninlehtiä ja/tai vahvaa alumiinifoliota | banaaninlehtiä ja/tai vahvaa alumiinifoliota | wikibooks-cochinita-pibil-mexican-braised-pork |
-| 1 | nahallisia kananpaloja koipia | nahallisia kananpaloja (koipia, rintoja tai siipiä) tarpeen mukaan | wikibooks-coconut-chicken |
 | 1 | raastettua tuoretta kookosta | 2,4 dl hienoksi raastettua tuoretta kookosta | wikibooks-coconut-chutney-south-indian |
 | 1 | tamarindahyytelöä | ½ tl tamarindahyytelöä | wikibooks-coconut-chutney-south-indian |
 | 1 | inkiväärisosetta | 1 tl inkiväärisosetta | wikibooks-coconut-chutney-south-indian |
@@ -1456,7 +1451,6 @@ Yhteensä 1994 eri nimeä, 3887 riviä.
 | 1 | viinilehteä | 25 viinilehteä | wikibooks-dolma-stuffed-grape-leaves |
 | 1 | karkeaa | 900 g karkeaa tai jauhettua naudan lapapaistia | wikibooks-dolma-stuffed-grape-leaves |
 | 1 | revittyä injeraa | 5 dl revittyä injeraa (etiopialaista hapanleipää) | wikibooks-doro-fitfit-ethiopian-chicken-salad |
-| 1 | kananpaloja koipia | 900 g kananpaloja (koipia, reisiä tai kokonainen paloiteltu broileri) | wikibooks-dorowot-fitfit-ethiopian-chicken-stew-salad |
 | 1 | valmista kanapataa | 2½ dl valmista kanapataa (doro wat), karkeasti paloiteltuna | wikibooks-dorowot-fitfit-ethiopian-chicken-stew-salad |
 | 1 | halkaistua | 90 g halkaistua, kuorittua uradlinssiä | wikibooks-dosa-ii |
 | 1 | murskattuja suklaakeksejä | 4 dl murskattuja suklaakeksejä | wikibooks-double-chocolate-cheesecake |

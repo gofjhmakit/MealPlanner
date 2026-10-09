@@ -29,7 +29,7 @@ describe('unit registry', () => {
 
   it('formats in Finnish kitchen style', () => {
     expect(formatQuantity(0.5)).toBe('½')
-    expect(formatQuantity(1.5)).toBe('1 ½')
+    expect(formatQuantity(1.5)).toBe('1½')
     expect(formatMass(1000)).toBe('1 kg')
     expect(formatMass(500)).toBe('500 g')
     expect(formatVolume(700)).toBe('7 dl')
@@ -49,8 +49,8 @@ describe('recipe scaling', () => {
   })
 
   it('rounds counts to kitchen-friendly steps', () => {
-    expect(scaleIngredient(ing('3 kananmunaa'), 0.5).amountText).toBe('1 ½')
-    expect(scaleIngredient(ing('1 sipuli'), 1.3).amountText).toBe('1 ¼')
+    expect(scaleIngredient(ing('3 kananmunaa'), 0.5).amountText).toBe('1½')
+    expect(scaleIngredient(ing('1 sipuli'), 1.3).amountText).toBe('1¼')
   })
 
   it('moves to a better unit when scaled', () => {

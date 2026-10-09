@@ -6,6 +6,7 @@ import { Layout } from './components/Layout'
 import { Spinner } from './components/ui'
 import { TodayPage } from './pages/TodayPage'
 import { NotFoundPage } from './pages/NotFoundPage'
+import { RouteError } from './pages/RouteError'
 
 // Secondary pages are code-split to keep the first load small.
 const page = (loader: () => Promise<Record<string, unknown>>, name: string) => {
@@ -20,6 +21,7 @@ const page = (loader: () => Promise<Record<string, unknown>>, name: string) => {
 const router = createBrowserRouter([
   {
     element: <Layout />,
+    errorElement: <RouteError />,
     children: [
       { path: '/', element: <TodayPage /> },
       { path: '/aloitus', element: page(() => import('./pages/OnboardingPage'), 'OnboardingPage') },

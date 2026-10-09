@@ -124,7 +124,7 @@ export function formatQuantity(n: number): string {
   const frac = n - whole
   if (n >= 10) return formatNumber(n, n >= 100 ? 0 : 1)
   for (const [value, glyph] of FRACTIONS) {
-    if (Math.abs(frac - value) < 0.04) return whole > 0 ? `${whole} ${glyph}` : glyph
+    if (Math.abs(frac - value) < 0.04) return whole > 0 ? `${whole}${glyph}` : glyph
   }
   if (frac < 0.04) return String(whole)
   if (frac > 0.96) return String(whole + 1)

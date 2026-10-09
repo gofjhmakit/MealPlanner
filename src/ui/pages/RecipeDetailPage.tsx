@@ -32,6 +32,7 @@ import { addDays, today } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
 import { nextEmptySlot } from '../../domain/today'
 import { splitTimers } from '../../domain/timers'
+import { ingredientsInStep } from '../../domain/stepIngredients'
 import { scaleIngredient } from '../../domain/scaling'
 import type { MealSlot, Nutrients, Recipe, RecipeIngredient } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
@@ -677,6 +678,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
   const [index, setIndex] = useState(0)
   const [wakeLock, setWakeLock] = useState<'on' | 'unsupported' | 'off'>('off')
   const [timers, setTimers] = useState<{ id: number; label: string; end: number }[]>([])
+  const [showAll, setShowAll] = useState(false)
   const [, tick] = useState(0)
 
   useEffect(() => {
@@ -729,14 +731,8 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
     return () => window.removeEventListener('keydown', onKey)
   }, [onClose, steps.length, stepTimers, index])
 
-  // Ingredients mentioned in this step (by name or its base word).
-  const stepIngredients = current
-    ? recipe.ingredients.filter((ing) => {
-        const words = ing.name.toLowerCase().split(/\s+/).filter((w) => w.length >= 4)
-        const text = current.s.toLowerCase()
-        return words.some((w) => text.includes(w.slice(0, Math.max(4, w.length - 2))))
-      })
-    : []
+  // Ingredients this step uses (inflections, compounds and words like "kasvikset" understood).
+  const stepIngredients = current ? ingredientsInStep(current.s, recipe.ingredients) : []
   const amount = (ing: RecipeIngredient) => {
     const scaled = scaleIngredient(ing, factor)
     const split = splitAmountText(ing.raw)
@@ -750,8 +746,28 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
           <p className="text-xs text-muted">Kokkaustila · {formatNumber(servings, 1)} annosta{wakeLock === 'on' ? ' · näyttö pysyy päällä' : ''}</p>
           <h2 className="truncate font-display text-xl font-semibold">{recipe.title}</h2>
         </div>
+        <button onClick={() => setShowAll((v) => !v)} aria-expanded={showAll} className={cx('rounded-xl px-3 py-2 text-sm font-semibold xl:hidden', showAll ? 'bg-brand text-on-brand' : 'bg-surface-2 text-ink')}>
+          Ainekset
+        </button>
         <IconButton label="Sulje kokkaustila" onClick={onClose} className="h-11 w-11"><X size={24} /></IconButton>
       </header>
+      {showAll && (
+        <div className="max-h-[55vh] overflow-y-auto border-b border-line bg-surface px-5 py-4 xl:hidden">
+          <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Kaikki ainekset · {formatNumber(servings, 1)} annosta</p>
+          <ul className="space-y-1.5 text-base">
+            {recipe.ingredients.map((ing) =>
+              /:$/.test(ing.raw) ? (
+                <li key={ing.id} className="pt-2 text-xs font-semibold uppercase tracking-wider text-muted">{ing.raw.slice(0, -1)}</li>
+              ) : (
+                <li key={ing.id} className={cx('flex gap-3', stepIngredients.includes(ing) && 'font-semibold text-brand')}>
+                  <span className="tabular w-16 shrink-0 text-right font-semibold">{amount(ing).amount}</span>
+                  <span>{amount(ing).rest}</span>
+                </li>
+              ),
+            )}
+          </ul>
+        </div>
+      )}
       <div className="flex min-h-0 flex-1">
         <nav className="hidden w-72 shrink-0 overflow-y-auto border-r border-line p-4 lg:block 3xl:w-96" aria-label="Vaiheet">
           <ol className="space-y-1">

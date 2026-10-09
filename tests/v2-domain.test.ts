@@ -75,7 +75,7 @@ describe('v2 helpers', () => {
     expect(formatShoppingAmount(amt({ counts: { ruukku: 1.5 } }))).toBe('2 ruukkua')
     expect(formatShoppingAmount(amt({ counts: { kynsi: 6 } }))).toBe('6 kynttä')
     expect(formatShoppingAmount(amt({ counts: { kpl: 0.5 } }))).toBe('1 kpl')
-    expect(formatShoppingAmount(amt({ volume: 430 }))).toBe('4 ½ dl')
+    expect(formatShoppingAmount(amt({ volume: 430 }))).toBe('4½ dl')
   })
   it('asks "onko kotona?" only for staples and small amounts', async () => {
     const { isStapleLike } = await import('../src/domain/shoppingList')
@@ -83,5 +83,19 @@ describe('v2 helpers', () => {
     expect(isStapleLike({ name: 'Kaneli', category: 'spices_sauces', amount: { ...base, volume: 5 } })).toBe(true)
     expect(isStapleLike({ name: 'Oliiviöljy', category: 'other', amount: { ...base, volume: 30 } })).toBe(true)
     expect(isStapleLike({ name: 'Broilerin fileesuikale', category: 'meat_fish', amount: { ...base, mass: 450 } })).toBe(false)
+  })
+})
+
+describe('ingredients of a cook-mode step', () => {
+  it('matches inflections, compounds and generic words', async () => {
+    const { ingredientsInStep } = await import('../src/domain/stepIngredients')
+    const { buildIngredientList } = await import('../src/domain/recipeIngredients')
+    const { fineliLookup } = await import('./helpers')
+    const ings = buildIngredientList(['500 g kanaa, paloina', '1 sipuli', '2 kuivattua limettiä', '1 tl baharatia', '½ kerä jäävuorisalaattia', '2 tomaattia', '1 kurkku', '1 porkkana', '2 dl riisiä'], { fineli: fineliLookup() } as never)
+    const names = (step: string) => ingredientsInStep(step, ings).map((i) => i.raw.replace(/^[\d½¼¾,\s]+(g|tl|kerä|dl)?\s*/, ''))
+    expect(names('Hauduta kanaa sipulin, kuivattujen limettien ja baharatin kanssa 40 minuuttia.')).toEqual(['kanaa, paloina', 'sipuli', 'kuivattua limettiä', 'baharatia'])
+    expect(names('Pilko salaatti, tomaatit ja kurkku.')).toEqual(['jäävuorisalaattia', 'tomaattia', 'kurkku'])
+    expect(names('Lisää kasvikset ja keitä 10 minuuttia.')).toEqual(expect.arrayContaining(['porkkana', 'sipuli']))
+    expect(names('Lisää kasvikset ja keitä 10 minuuttia.')).not.toContain('riisiä')
   })
 })

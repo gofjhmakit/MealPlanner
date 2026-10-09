@@ -89,7 +89,7 @@ export function Chip({ active, onClick, children, title }: { active: boolean; on
       title={title}
       onClick={onClick}
       className={cx(
-        'inline-flex h-8 items-center gap-1.5 rounded-full border px-3 text-sm transition',
+        'inline-flex h-8 shrink-0 items-center gap-1.5 whitespace-nowrap rounded-full border px-3 text-sm transition',
         active ? 'border-brand bg-brand text-on-brand' : 'border-line bg-surface text-ink-2 hover:border-ink-2/40',
       )}
     >
