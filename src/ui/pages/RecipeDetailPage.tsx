@@ -104,7 +104,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
 
       <div className="grid gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
         <figure className="min-w-0">
-          <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-2xl" emojiSize="text-8xl" />
+          <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-2xl" />
           {recipe.imageUrl && recipe.attribution?.imageCredit && (
             <figcaption className="mt-1.5 text-xs text-muted">
               Kuva: {recipe.attribution.imageCredit}
@@ -584,7 +584,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
                       aria-pressed={done.has(i)}
                       className={cx('flex w-full gap-4 rounded-2xl border p-4 text-left text-xl leading-relaxed transition', done.has(i) ? 'border-line bg-surface-2 text-muted line-through' : 'border-line bg-surface hover:border-brand')}
                     >
-                      <span className={cx('flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-base font-semibold', done.has(i) ? 'bg-ok text-white' : 'bg-brand-soft text-brand')}>
+                      <span className={cx('flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-base font-semibold', done.has(i) ? 'bg-ok text-on-brand' : 'bg-brand-soft text-brand')}>
                         {done.has(i) ? <CheckCircle2 size={20} /> : i + 1}
                       </span>
                       <span>{step}</span>

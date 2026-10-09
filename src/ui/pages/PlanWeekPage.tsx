@@ -128,7 +128,7 @@ export function PlanWeekPage() {
       />
       <ol className="mb-6 flex flex-wrap gap-2 text-sm" aria-label="Vaiheet">
         {['Ajankohta ja henkilöt', 'Ruokavalio ja tavoitteet', 'Toiveet', 'Ehdotus'].map((label, i) => (
-          <li key={label} className={cx('flex items-center gap-2 rounded-full px-3 py-1', step === i + 1 ? 'bg-brand text-white dark:text-canvas' : step > i + 1 ? 'bg-brand-soft text-brand' : 'bg-surface-2 text-muted')}>
+          <li key={label} className={cx('flex items-center gap-2 rounded-full px-3 py-1', step === i + 1 ? 'bg-brand text-on-brand' : step > i + 1 ? 'bg-brand-soft text-brand' : 'bg-surface-2 text-muted')}>
             <span className="tabular font-semibold">{i + 1}</span> {label}
           </li>
         ))}

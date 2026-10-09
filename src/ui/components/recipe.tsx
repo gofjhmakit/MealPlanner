@@ -8,30 +8,89 @@ import { formatNumber } from '../../domain/units'
 import { safeHttpUrl } from '../../domain/url'
 import { Badge, cx, ProgressBar } from './ui'
 
-const EMOJI_RULES: [RegExp, string][] = [
-  [/puuro|kaura/i, '🥣'],
-  [/keitto|soppa/i, '🍲'],
-  [/pasta|spagetti|lasagne|makaroni|tortelloni/i, '🍝'],
-  [/lohi|kala|silakka|tonnikala|turska|katkarapu/i, '🐟'],
-  [/salaatti/i, '🥗'],
-  [/broileri|kana/i, '🍗'],
-  [/jauheliha|liha|pihvi|porsa|nauta|makkara/i, '🥩'],
-  [/munakas|kananmuna|muna/i, '🍳'],
-  [/lettu|ohukai|pannukakku/i, '🥞'],
-  [/leipä|sämpylä|piirakka|pulla|kakku/i, '🍞'],
-  [/tortilla|taco|burrito/i, '🌮'],
-  [/curry|kurry|wokki/i, '🍛'],
-  [/rahka|jogurtti|smoothie|marja/i, '🫐'],
-  [/peruna|laatikko|kiusaus/i, '🥔'],
-  [/kasvis|linssi|kikherne|papu/i, '🥕'],
+/**
+ * Placeholder art for recipes without a photo: a plate seen from above, with the food drawn
+ * in CSS gradients by dish family. The family comes from the title (then category), so a
+ * Greek salad never gets a fish. Colours vary per recipe so a grid doesn't look repetitive.
+ */
+type Family = 'soup' | 'porridge' | 'salad' | 'pasta' | 'fish' | 'meat' | 'curry' | 'egg' | 'baked' | 'bread' | 'drink' | 'mixed'
+
+const FAMILY_RULES: [RegExp, Family][] = [
+  [/smoothie|juoma|mehu|limonadi|kaakao|\btee\b|kahvi|lassi|shake|booli/i, 'drink'],
+  [/keitto|soppa|liemi|borssi|gazpacho|ramen|pho\b|chowder/i, 'soup'],
+  [/puuro|kaura|rahka|jogurtti|granola|mysli|chia/i, 'porridge'],
+  [/salaatti|coleslaw|tabbouleh/i, 'salad'],
+  [/munakas|kananmuna|omeletti|frittata|shakshuka|\bmuna/i, 'egg'],
+  [/pasta|spagetti|makaroni|nuudeli|lasagne|tortelloni|penne|risotto|gnocchi/i, 'pasta'],
+  [/curry|kurry|wokki|dal\b|dahl|chili|tagine|gulassi|pata\b|muhennos/i, 'curry'],
+  [/lohi|kala|silakka|turska|tonnikala|katkarap|muikku|ahven|kuha|siika|simpuk|äyriäi/i, 'fish'],
+  [/liha|pihvi|porsa|nauta|kana|broileri|kalkkuna|makkara|pekoni|kinkku|lammas|riista|poro/i, 'meat'],
+  [/kakku|piirakka|piiras|pulla|keksi|leivos|torttu|muffin|brownie|kiisseli|vanukas|jäätelö|crumble|jälkiruoka|leivonnai/i, 'baked'],
+  [/leipä|sämpylä|tortilla|pizza|rieska|patonki|focaccia|wrap|burger|voileipä|toast/i, 'bread'],
 ]
-const GRADIENTS = [
-  'from-[#e7efe3] to-[#cfe0cb]',
-  'from-[#f7eadb] to-[#efd3b5]',
-  'from-[#eef0e6] to-[#dfe3cf]',
-  'from-[#f3e6e1] to-[#e6cbc0]',
-  'from-[#e6ecef] to-[#cddbe0]',
-]
+
+const PALETTES: Record<Family, { tint: string[]; food: (c: string[]) => string; colors: string[][] }> = {
+  soup: {
+    tint: ['#e7efd9', '#f1dfcc', '#dce6ea', '#f6e2e6'],
+    colors: [['#b9cc6b', '#93ae45', '#7fa44a'], ['#e0812f', '#c8631e', '#3f7a3b'], ['#f4e4c4', '#e9cfa0', '#f08c5a'], ['#b8324a', '#8e2238', '#f3e3c2']],
+    food: (c) => `radial-gradient(circle at 40% 42%, ${c[2]} 0 7%, transparent 8%), radial-gradient(circle at 62% 58%, ${c[2]} 0 6%, transparent 7%), radial-gradient(circle at 58% 34%, #f7f1e6 0 5%, transparent 6%), radial-gradient(circle at 50% 50%, ${c[0]}, ${c[1]})`,
+  },
+  porridge: {
+    tint: ['#e9e1f1', '#f6e2e6', '#efe6d8'],
+    colors: [['#efe3cc', '#4b3b8f', '#c63b4a'], ['#fbf7f2', '#c63b4a', '#4b3b8f'], ['#f2e6cf', '#d98b3a', '#6a4fb0']],
+    food: (c) => `radial-gradient(circle at 38% 38%, ${c[1]} 0 9%, transparent 10%), radial-gradient(circle at 58% 44%, ${c[2]} 0 8%, transparent 9%), radial-gradient(circle at 48% 64%, ${c[1]} 0 7%, transparent 8%), radial-gradient(circle at 66% 62%, ${c[2]} 0 6%, transparent 7%), ${c[0]}`,
+  },
+  salad: {
+    tint: ['#e6eddc', '#e2efe3', '#eef0e2'],
+    colors: [['#6e9e4f', '#8fbf5f', '#d84a3a'], ['#5e8e3e', '#a8cf6a', '#f2f2f2'], ['#7aa84f', '#b8d878', '#f2c230']],
+    food: (c) => `radial-gradient(circle at 36% 40%, ${c[2]} 0 7%, transparent 8%), radial-gradient(circle at 62% 60%, ${c[2]} 0 6%, transparent 7%), radial-gradient(circle at 60% 34%, ${c[1]} 0 14%, transparent 15%), radial-gradient(circle at 38% 64%, ${c[1]} 0 13%, transparent 14%), radial-gradient(circle at 50% 50%, ${c[0]}, ${c[0]})`,
+  },
+  pasta: {
+    tint: ['#f2e3cb', '#f4e1d8', '#efe8d6'],
+    colors: [['#e9b866', '#d99a47', '#c9442f'], ['#f0c878', '#e0a850', '#3f7a3b'], ['#eccf8a', '#d8b05c', '#c63b4a']],
+    food: (c) => `radial-gradient(circle at 56% 40%, ${c[2]} 0 9%, transparent 10%), repeating-radial-gradient(circle at 50% 50%, ${c[0]} 0 3px, ${c[1]} 3px 6px)`,
+  },
+  fish: {
+    tint: ['#dce6ea', '#dfe8ec', '#e4ecef'],
+    colors: [['#f08c5a', '#e8be6a', '#5e8e3e'], ['#f59a6e', '#f7e3b2', '#6e9e4f'], ['#f2f0ea', '#e8be6a', '#5e8e3e']],
+    food: (c) => `radial-gradient(ellipse 30% 18% at 42% 42%, ${c[0]} 0 98%, transparent 100%), radial-gradient(circle at 64% 62%, ${c[1]} 0 10%, transparent 11%), radial-gradient(circle at 40% 66%, ${c[1]} 0 9%, transparent 10%), radial-gradient(circle at 66% 34%, ${c[2]} 0 6%, transparent 7%), #f5efe4`,
+  },
+  meat: {
+    tint: ['#f1dfcc', '#efe2d6', '#f4e1d8'],
+    colors: [['#8a4a2a', '#a8603a', '#4e9a3e'], ['#c98a5a', '#e5c38d', '#4e9a3e'], ['#7a3f24', '#d84a3a', '#f2c230']],
+    food: (c) => `radial-gradient(circle at 36% 42%, ${c[0]} 0 11%, transparent 12%), radial-gradient(circle at 60% 36%, ${c[1]} 0 10%, transparent 11%), radial-gradient(circle at 56% 62%, ${c[0]} 0 10%, transparent 11%), radial-gradient(circle at 72% 56%, ${c[2]} 0 6%, transparent 7%), radial-gradient(circle at 34% 64%, ${c[2]} 0 5%, transparent 6%), #f3e8d2`,
+  },
+  curry: {
+    tint: ['#f3e6c9', '#f1dfcc', '#efe6d0'],
+    colors: [['#e3a33a', '#c9822a', '#2f6b2e'], ['#e0812f', '#b85a1e', '#3f7a3b'], ['#d9a13b', '#b8801f', '#f7f1e6']],
+    food: (c) => `radial-gradient(circle at 36% 40%, #e9d08a 0 11%, transparent 12%), radial-gradient(circle at 60% 58%, #e9d08a 0 10%, transparent 11%), radial-gradient(circle at 56% 34%, ${c[2]} 0 7%, transparent 8%), radial-gradient(circle at 50% 50%, ${c[0]}, ${c[1]})`,
+  },
+  egg: {
+    tint: ['#fdf3dc', '#f3ecd6', '#f7efd8'],
+    colors: [['#fbf7f2', '#f2b43c', '#6e9e4f'], ['#f7e8b8', '#e8a020', '#d84a3a']],
+    food: (c) => `radial-gradient(circle at 52% 48%, ${c[1]} 0 13%, transparent 14%), radial-gradient(circle at 34% 64%, ${c[2]} 0 5%, transparent 6%), radial-gradient(ellipse 40% 34% at 50% 50%, ${c[0]} 0 98%, transparent 100%), #f6efe2`,
+  },
+  baked: {
+    tint: ['#f4e1d8', '#f6e2e6', '#efe2d6'],
+    colors: [['#d9a066', '#f3e3c2', '#c63b4a'], ['#5a3a2a', '#8a5a3a', '#f7f1e6'], ['#e8c27a', '#f7e8c8', '#4b3b8f']],
+    food: (c) => `radial-gradient(circle at 50% 30%, ${c[2]} 0 6%, transparent 7%), conic-gradient(from 200deg at 50% 50%, ${c[0]} 0 32%, transparent 32% 100%), radial-gradient(circle at 50% 50%, ${c[1]} 0 46%, transparent 47%), #f6efe2`,
+  },
+  bread: {
+    tint: ['#f2e3cb', '#efe6d8', '#f1dfcc'],
+    colors: [['#c98a4a', '#e5c38d', '#6e9e4f'], ['#8a5a32', '#c9a06a', '#d84a3a']],
+    food: (c) => `radial-gradient(ellipse 34% 26% at 50% 50%, ${c[1]} 0 70%, ${c[0]} 72% 98%, transparent 100%), radial-gradient(circle at 72% 68%, ${c[2]} 0 6%, transparent 7%), #f6efe2`,
+  },
+  drink: {
+    tint: ['#e9e1f1', '#e2efe3', '#fde9e2'],
+    colors: [['#c63b4a', '#f6d0d8'], ['#8fbf5f', '#e2f0d0'], ['#f2a43c', '#fde9c8']],
+    food: (c) => `radial-gradient(circle at 50% 50%, ${c[1]} 0 30%, ${c[0]} 31% 44%, #ffffff 45% 49%, transparent 50%), #f6efe2`,
+  },
+  mixed: {
+    tint: ['#e7efe3', '#f7eadb', '#eef0e6', '#e6ecef'],
+    colors: [['#e5c38d', '#d84a3a', '#4e9a3e'], ['#f2c230', '#6e9e4f', '#c9822a'], ['#f08c5a', '#93ae45', '#f7e3b2']],
+    food: (c) => `radial-gradient(circle at 36% 42%, ${c[0]} 0 11%, transparent 12%), radial-gradient(circle at 62% 38%, ${c[1]} 0 8%, transparent 9%), radial-gradient(circle at 52% 62%, ${c[2]} 0 10%, transparent 11%), radial-gradient(circle at 70% 60%, ${c[0]} 0 6%, transparent 7%), #f3e8d2`,
+  },
+}
 
 function hash(s: string): number {
   let h = 0
@@ -39,16 +98,33 @@ function hash(s: string): number {
   return Math.abs(h)
 }
 
+export function dishFamily(recipe: Pick<Recipe, 'title' | 'category'>): Family {
+  return FAMILY_RULES.find(([re]) => re.test(recipe.title))?.[1] ?? FAMILY_RULES.find(([re]) => re.test(recipe.category ?? ''))?.[1] ?? 'mixed'
+}
+
+/** The plate illustration on its own (also used as a small thumbnail in lists). */
+export function PlateArt({ recipe, className, rounded = 'rounded-xl', style }: { recipe: Pick<Recipe, 'title' | 'category' | 'id'>; className?: string; rounded?: string; style?: React.CSSProperties }) {
+  const p = PALETTES[dishFamily(recipe)]
+  const h = hash(recipe.id)
+  const tint = p.tint[h % p.tint.length]
+  const colors = p.colors[(h >> 3) % p.colors.length]
+  return (
+    <div aria-hidden className={cx('plate-art relative overflow-hidden print:hidden', rounded, className)} style={{ background: tint, ...style }}>
+      <div className="plate-art__plate absolute left-1/2 top-1/2 aspect-square h-[78%] max-h-[90%] -translate-x-1/2 -translate-y-1/2 rounded-full">
+        <div className="absolute inset-[11%] rounded-full" style={{ background: p.food(colors) }} />
+      </div>
+    </div>
+  )
+}
+
 export function RecipeImage({
   recipe,
   className,
   rounded = 'rounded-xl',
-  emojiSize = 'text-3xl',
 }: {
-  recipe: Pick<Recipe, 'title' | 'imageUrl' | 'tags' | 'id'>
+  recipe: Pick<Recipe, 'title' | 'imageUrl' | 'id'> & Partial<Pick<Recipe, 'category'>>
   className?: string
   rounded?: string
-  emojiSize?: string
 }) {
   const [failed, setFailed] = useState(false)
   const src = safeHttpUrl(recipe.imageUrl)
@@ -64,13 +140,7 @@ export function RecipeImage({
       />
     )
   }
-  const text = `${recipe.title} ${recipe.tags.join(' ')}`
-  const emoji = EMOJI_RULES.find(([re]) => re.test(text))?.[1] ?? '🍽️'
-  return (
-    <div aria-hidden className={cx('flex items-center justify-center bg-gradient-to-br dark:opacity-80 print:hidden', GRADIENTS[hash(recipe.id) % GRADIENTS.length], rounded, className)}>
-      <span className={cx(emojiSize, 'drop-shadow-sm')}>{emoji}</span>
-    </div>
-  )
+  return <PlateArt recipe={recipe} rounded={rounded} className={className} />
 }
 
 export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourceName' | 'sourceId'> }) {
@@ -85,7 +155,7 @@ export function RecipeCard({ recipe, kcal, favourite, action }: { recipe: Recipe
   return (
     <article className="group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-surface transition hover:shadow-md">
       <Link to={`/reseptit/${recipe.id}`} className="flex flex-1 flex-col">
-        <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" emojiSize="text-6xl" />
+        <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" />
         <div className="flex flex-1 flex-col gap-2 p-4">
           <div className="flex items-start justify-between gap-2">
             <h3 className="line-clamp-2 font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>

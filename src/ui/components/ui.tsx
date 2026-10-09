@@ -8,7 +8,7 @@ export function cx(...classes: (string | false | null | undefined)[]): string {
 type Variant = 'primary' | 'secondary' | 'ghost' | 'danger' | 'soft'
 
 const VARIANTS: Record<Variant, string> = {
-  primary: 'bg-brand text-white hover:bg-brand-strong shadow-sm dark:text-canvas',
+  primary: 'bg-brand text-on-brand hover:bg-brand-strong shadow-sm',
   secondary: 'bg-surface text-ink border border-line hover:bg-surface-2',
   ghost: 'text-ink-2 hover:bg-surface-2 hover:text-ink',
   danger: 'bg-bad text-white hover:opacity-90',
@@ -90,7 +90,7 @@ export function Chip({ active, onClick, children, title }: { active: boolean; on
       onClick={onClick}
       className={cx(
         'inline-flex h-8 items-center gap-1.5 rounded-full border px-3 text-sm transition',
-        active ? 'border-brand bg-brand text-white dark:text-canvas' : 'border-line bg-surface text-ink-2 hover:border-ink-2/40',
+        active ? 'border-brand bg-brand text-on-brand' : 'border-line bg-surface text-ink-2 hover:border-ink-2/40',
       )}
     >
       {children}

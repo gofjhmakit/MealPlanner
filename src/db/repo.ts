@@ -259,6 +259,23 @@ export async function removeMealItem(id: string, database: MealPlannerDB = defau
   })
 }
 
+/** Replace a meal's recipe. Leftover meals of it (and the meal it is a leftover of) change too. Returns an undo snapshot. */
+export async function swapMealRecipe(id: string, recipeId: string, database: MealPlannerDB = defaultDb): Promise<MealItem[]> {
+  return database.transaction('rw', database.mealItems, async () => {
+    const item = await database.mealItems.get(id)
+    if (!item) return []
+    const rootId = item.leftoverOfId ?? item.id
+    const group = await database.mealItems.filter((m) => m.id === rootId || m.leftoverOfId === rootId).toArray()
+    await database.mealItems.bulkPut(group.map((m) => ({ ...m, recipeId })))
+    return group
+  })
+}
+
+/** Mark a meal eaten / skipped (null = back to planned). */
+export async function setMealStatus(id: string, status: 'eaten' | 'skipped' | null, database: MealPlannerDB = defaultDb) {
+  await database.mealItems.update(id, { status })
+}
+
 /** Undo for removeMealItem: puts every row back exactly as it was. */
 export async function restoreMealItem(snapshot: MealItem | MealItem[], database: MealPlannerDB = defaultDb) {
   await database.mealItems.bulkPut(Array.isArray(snapshot) ? snapshot : [snapshot])

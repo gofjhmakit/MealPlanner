@@ -79,14 +79,16 @@ const SLOT_SHARE: Record<MealSlot, number> = { breakfast: 0.22, lunch: 0.3, dinn
 const BREAKFAST_RE = /aamiai|aamupala|puuro|velli|munakas|mysli|granola|smoothie|jogurt|pannukak|ruisleipä ja/i
 const SNACK_RE = /välipala|smoothie|rahka|pirtelö|jogurt|marjarahka/i
 const MAIN_RE = /pääruo|keitto|salaat|liharuo|kalaruo|kasvisruo|kasvikset, kasvisruoat|broiler|pasta|laatikko|wokki|curry|kurry|pata|uuniruo|perunat|kananmunat|pihvi|lasagne|kastike|tortilla|pizza|risotto|lohi|jauheliha|makkara|keitot/i
-const NOT_MAIN_RE = /jälkiruo|leivonnai|kakku|pulla|keksi|leipä|juoma|hedelmä- ja marjaruoat|rasva ja rasvavalmisteet|kastike, |lisuke|dippi/i
+/** Titles that are components, not meals (dressings, marinades, spreads). */
+const NOT_MAIN_TITLE_RE = /vinegret|vinaigrette|marinadi|kastike$|dippi|levite|hillo|mausteseos|kastikepohja/i
+const NOT_MAIN_RE = /jälkiruo|leivonnai|kakku|pulla|keksi|leipä|leivät|juoma|hedelmä- ja marjaruoat|rasva ja rasvavalmisteet|kastike, |kastikkeet|lisuke|dippi|dipit|säilyke|vinegret|vinaigrette|marinadi|kastike$/i
 
 function kindsOf(r: Recipe): Set<Kind> {
   const text = `${r.title} ${r.category ?? ''} ${r.tags.join(' ')}`
   const kinds = new Set<Kind>()
   if (BREAKFAST_RE.test(text)) kinds.add('breakfast')
   if (SNACK_RE.test(text)) kinds.add('snack')
-  if (MAIN_RE.test(text) && !NOT_MAIN_RE.test(r.category ?? '') && !kinds.has('breakfast')) kinds.add('main')
+  if (MAIN_RE.test(text) && !NOT_MAIN_RE.test(r.category ?? '') && !NOT_MAIN_TITLE_RE.test(r.title) && !kinds.has('breakfast')) kinds.add('main')
   return kinds
 }
 
@@ -108,11 +110,11 @@ function proteinOf(r: Recipe): string {
   return 'other'
 }
 
-export function buildCandidates(recipes: Recipe[], lookup: FineliLookup, favourites: Set<string>): Candidate[] {
+export function buildCandidates(recipes: Recipe[], lookup: FineliLookup, favourites: Set<string>, kcalOf?: (r: Recipe) => number): Candidate[] {
   return recipes.map((recipe) => ({
     recipe,
     kinds: kindsOf(recipe),
-    kcal: computeRecipeNutrition(recipe, lookup).perServing.energyKcal,
+    kcal: kcalOf ? kcalOf(recipe) : computeRecipeNutrition(recipe, lookup).perServing.energyKcal,
     time: recipeTime(recipe),
     protein: proteinOf(recipe),
     diet: recipeDiet(recipe, lookup),
@@ -156,7 +158,7 @@ function eligible(c: Candidate, opts: PlanOptions, kind: Kind, date: string, bud
   if (!c.kinds.has(kind)) return false
   if (!opts.includeCatalogue && !c.recipe.inCollection) return false
   if ((c.recipe.rating ?? 3) <= 2) return false
-  if (c.kcal <= 0) return false
+  if (c.kcal <= 0 || c.kcal > 1600) return false // >1 600 kcal per serving is almost always a matching error
   if (kind === 'main' && c.kcal < 180) return false // side dishes are not a meal on their own
   if (opts.diet === 'vegan' && c.diet !== 'vegan') return false
   if (opts.diet === 'vegetarian' && c.diet !== 'vegan' && c.diet !== 'vegetarian') return false
@@ -297,4 +299,54 @@ export function rerollMeal(result: PlanResult, candidates: Candidate[], opts: Pl
   const kcalByDay: Record<string, number> = {}
   for (const m of meals) kcalByDay[m.date] = Math.round((kcalByDay[m.date] ?? 0) + m.kcalPerServing)
   return { ...result, meals, kcalByDay }
+}
+
+/** Options for quick planning from the UI (suggestions, swaps, "fill empty slots"). */
+export function quickPlanOptions(o: { dates: string[]; slots?: MealSlot[]; people: number; maxKcalPerDay: number | null; occupied?: Set<string>; seed?: number }): PlanOptions {
+  return {
+    dates: o.dates,
+    slots: o.slots ?? ['breakfast', 'lunch', 'dinner'],
+    people: o.people,
+    leftovers: false,
+    diet: 'all',
+    glutenFree: false,
+    milkFree: false,
+    lactoseFree: false,
+    maxTimeWeekday: null,
+    maxTimeWeekend: null,
+    maxKcalPerDay: o.maxKcalPerDay,
+    includeCatalogue: true,
+    preferFavourites: true,
+    use: [],
+    avoid: [],
+    avoidRepeats: true,
+    occupied: o.occupied ?? new Set(),
+    seed: o.seed ?? 1,
+  }
+}
+
+/**
+ * The best few recipes for one slot: fit the slot, stay within `budget` kcal per person when given
+ * (aiming to use most of it), and skip `exclude`d recipes. Used for empty-slot suggestions and swaps.
+ */
+export function suggestForSlot(candidates: Candidate[], opts: PlanOptions, date: string, slot: MealSlot, budget: number | null, exclude: Set<string>, count = 3): Candidate[] {
+  const used = new Map([...exclude].map((id) => [id, 1]))
+  const ctx: PickContext = { opts, candidates, used, random: rng(opts.seed) }
+  const kind = slotKind(slot)
+  const steps: Relax[][] = [[], ['time'], ['time', 'kcal']]
+  for (const relax of steps) {
+    const pool = candidates.filter((c) => !exclude.has(c.recipe.id) && eligible(c, opts, kind, date, budget, used, relax))
+    if (pool.length < count && relax.length < 2) continue
+    return pool
+      .map((c) => ({ c, s: score(c, ctx, date, new Set(), budget) }))
+      .sort((a, b) => b.s - a.s)
+      .slice(0, count)
+      .map((x) => x.c)
+  }
+  return []
+}
+
+/** Share of a day's energy each main slot is planned for (breakfast, lunch, dinner, snack). */
+export function slotShare(slot: MealSlot): number {
+  return SLOT_SHARE[slot]
 }

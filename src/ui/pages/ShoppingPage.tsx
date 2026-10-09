@@ -301,7 +301,7 @@ function ShoppingRow({ item }: { item: ShoppingItem }) {
           aria-checked={item.checked}
           aria-label={`${item.name} ${amount}`}
           onClick={() => toggleShoppingItem(item.id)}
-          className={cx('flex h-6 w-6 shrink-0 items-center justify-center rounded-md border-2 transition', item.checked ? 'border-brand bg-brand text-white dark:text-canvas' : 'border-line hover:border-brand')}
+          className={cx('flex h-6 w-6 shrink-0 items-center justify-center rounded-md border-2 transition', item.checked ? 'border-brand bg-brand text-on-brand' : 'border-line hover:border-brand')}
         >
           {item.checked && <Check size={15} strokeWidth={3} />}
         </button>
