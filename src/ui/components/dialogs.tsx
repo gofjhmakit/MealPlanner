@@ -3,7 +3,7 @@ import { useMemo, useState } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Link, useNavigate } from 'react-router'
 import { db } from '../../db/db'
-import { addMealItem, addRecipeToShoppingList, resetIngredientMapping, setIngredientMapping, updateIngredient } from '../../db/repo'
+import { addMealItem, addRecipeToShoppingList, resetIngredientMapping, ROLLING_LIST_ID, setIngredientMapping, syncRollingList, updateIngredient } from '../../db/repo'
 import { addDays, formatDate, today, weekdayName, capitalize } from '../../domain/dates'
 import { lemmaCandidates, tokenize } from '../../domain/finnish'
 import { getIngredient, INGREDIENTS, type CanonicalIngredient } from '../../domain/ingredients'
@@ -375,7 +375,7 @@ export function AddToShoppingListDialog({ recipe, open, onClose, servings: initi
   const toast = useToast()
   const navigate = useNavigate()
   const lists = useLiveQuery(() => db.shoppingLists.orderBy('createdAt').reverse().toArray(), [])
-  const [target, setTarget] = useState<string>('')
+  const [target, setTarget] = useState<string>(ROLLING_LIST_ID)
   const [servings, setServings] = useState(initialServings)
   const [busy, setBusy] = useState(false)
   const [wasOpen, setWasOpen] = useState(false)
@@ -383,14 +383,15 @@ export function AddToShoppingListDialog({ recipe, open, onClose, servings: initi
     setWasOpen(open)
     if (open) setServings(initialServings)
   }
-  const selected = target || lists?.[0]?.id || 'new'
+  const selected = target
 
   async function add() {
     setBusy(true)
+    if (selected === ROLLING_LIST_ID) await syncRollingList(fineli)
     const id = await addRecipeToShoppingList(selected === 'new' ? null : selected, recipe.id, servings, fineli)
     setBusy(false)
     onClose()
-    toast('Ainekset lisätty ostoslistalle', 'ok', { label: 'Avaa lista', onClick: () => navigate(`/ostoslista?lista=${id}`) })
+    toast('Ainekset lisätty ostoslistalle', 'ok', { label: 'Avaa', onClick: () => navigate(id === ROLLING_LIST_ID ? '/ostokset' : `/ostokset?lista=${id}`) })
   }
 
   return (
@@ -409,10 +410,11 @@ export function AddToShoppingListDialog({ recipe, open, onClose, servings: initi
       <div className="space-y-4">
         <Field label="Ostoslista">
           <Select value={selected} onChange={(e) => setTarget(e.target.value)} className="w-full">
-            {(lists ?? []).map((l) => (
+            <option value={ROLLING_LIST_ID}>Ostokset – seuraava kauppareissu</option>
+            {(lists ?? []).filter((l) => l.id !== ROLLING_LIST_ID).map((l) => (
               <option key={l.id} value={l.id}>{l.name}</option>
             ))}
-            <option value="new">+ Uusi ostoslista</option>
+            <option value="new">+ Erillinen uusi lista</option>
           </Select>
         </Field>
         <div className="flex items-center justify-between gap-4">

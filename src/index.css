@@ -2,82 +2,105 @@
 @import '@fontsource-variable/inter';
 @import '@fontsource-variable/fraunces';
 
-/* Semantic colour tokens – redefined for dark mode below. */
+/* Semantic colour tokens. Light = "Tänään" (warm paper, deep green, coral),
+   dark = "Pika" (graphite, mint). Redefined for dark mode below. */
 :root {
-  --c-canvas: #f7f5f0;
+  --c-canvas: #f7f4ee;
   --c-surface: #ffffff;
-  --c-surface-2: #f1eee7;
-  --c-ink: #1d2621;
-  --c-ink-2: #4b564f;
-  --c-muted: #7a837d;
-  --c-line: #e4e0d6;
-  --c-brand: #2f6b4f;
-  --c-brand-strong: #245640;
-  --c-brand-soft: #e3efe8;
-  --c-accent: #d9793b;
-  --c-accent-soft: #fbeadd;
-  --c-ok: #3b8a5f;
-  --c-warn: #c28a1b;
-  --c-warn-soft: #fbf1d9;
-  --c-bad: #bf4a3a;
-  --c-bad-soft: #f8e3df;
-  --c-protein: #2f6b4f;
-  --c-carb: #d9a13b;
-  --c-fat: #d9793b;
-  --c-fibre: #6b8f3a;
+  --c-surface-2: #f1ece3;
+  --c-ink: #16201b;
+  --c-ink-2: #4a554f;
+  --c-muted: #6b746e;
+  --c-line: #e8e3d9;
+  --c-brand: #1f5a43;
+  --c-brand-strong: #174634;
+  --c-brand-soft: #e2f0e8;
+  --c-on-brand: #ffffff;
+  --c-accent: #d9552f;
+  --c-accent-soft: #fde9e2;
+  --c-sun: #f2b43c;
+  --c-sun-soft: #fdf3dc;
+  --c-sky: #3f74c8;
+  --c-sky-soft: #e5eefb;
+  --c-ok: #2e7a5b;
+  --c-warn: #a86d12;
+  --c-warn-soft: #fdf3dc;
+  --c-bad: #c2412a;
+  --c-bad-soft: #fbe4dd;
+  --c-protein: #1f5a43;
+  --c-carb: #f2b43c;
+  --c-fat: #ee6a48;
+  --c-fibre: #6b9e3a;
+  --c-shadow: 22 32 27;
   color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
-    --c-canvas: #141816;
-    --c-surface: #1c211e;
-    --c-surface-2: #242a26;
-    --c-ink: #ecefe9;
-    --c-ink-2: #c3cabf;
-    --c-muted: #8e978f;
-    --c-line: #2f3631;
-    --c-brand: #6fbf95;
-    --c-brand-strong: #8fd3ad;
-    --c-brand-soft: #1f3329;
-    --c-accent: #eb9a62;
-    --c-accent-soft: #3a2a1e;
-    --c-ok: #6fbf95;
-    --c-warn: #e2b451;
-    --c-warn-soft: #3a3120;
-    --c-bad: #e5806f;
-    --c-bad-soft: #3d2420;
-    --c-protein: #6fbf95;
-    --c-carb: #e2b451;
-    --c-fat: #eb9a62;
-    --c-fibre: #a7c96b;
+    --c-canvas: #111315;
+    --c-surface: #1a1d21;
+    --c-surface-2: #23272c;
+    --c-ink: #eceef0;
+    --c-ink-2: #b9bfc6;
+    --c-muted: #8f969e;
+    --c-line: #2c3137;
+    --c-brand: #6edc9f;
+    --c-brand-strong: #8be8b4;
+    --c-brand-soft: #183526;
+    --c-on-brand: #0e1a13;
+    --c-accent: #ff8a66;
+    --c-accent-soft: #3a231b;
+    --c-sun: #f2c14e;
+    --c-sun-soft: #3a3020;
+    --c-sky: #7aa7f0;
+    --c-sky-soft: #1c2a40;
+    --c-ok: #6edc9f;
+    --c-warn: #f2c14e;
+    --c-warn-soft: #3a3020;
+    --c-bad: #ff7a66;
+    --c-bad-soft: #3d221d;
+    --c-protein: #6edc9f;
+    --c-carb: #f2c14e;
+    --c-fat: #ff8a66;
+    --c-fibre: #a7d46b;
+    --c-shadow: 0 0 0;
     color-scheme: dark;
   }
 }
 
 :root[data-theme='dark'] {
-  --c-canvas: #141816;
-  --c-surface: #1c211e;
-  --c-surface-2: #242a26;
-  --c-ink: #ecefe9;
-  --c-ink-2: #c3cabf;
-  --c-muted: #8e978f;
-  --c-line: #2f3631;
-  --c-brand: #6fbf95;
-  --c-brand-strong: #8fd3ad;
-  --c-brand-soft: #1f3329;
-  --c-accent: #eb9a62;
-  --c-accent-soft: #3a2a1e;
-  --c-ok: #6fbf95;
-  --c-warn: #e2b451;
-  --c-warn-soft: #3a3120;
-  --c-bad: #e5806f;
-  --c-bad-soft: #3d2420;
-  --c-protein: #6fbf95;
-  --c-carb: #e2b451;
-  --c-fat: #eb9a62;
-  --c-fibre: #a7c96b;
+  --c-canvas: #111315;
+  --c-surface: #1a1d21;
+  --c-surface-2: #23272c;
+  --c-ink: #eceef0;
+  --c-ink-2: #b9bfc6;
+  --c-muted: #8f969e;
+  --c-line: #2c3137;
+  --c-brand: #6edc9f;
+  --c-brand-strong: #8be8b4;
+  --c-brand-soft: #183526;
+  --c-on-brand: #0e1a13;
+  --c-accent: #ff8a66;
+  --c-accent-soft: #3a231b;
+  --c-sun: #f2c14e;
+  --c-sun-soft: #3a3020;
+  --c-sky: #7aa7f0;
+  --c-sky-soft: #1c2a40;
+  --c-ok: #6edc9f;
+  --c-warn: #f2c14e;
+  --c-warn-soft: #3a3020;
+  --c-bad: #ff7a66;
+  --c-bad-soft: #3d221d;
+  --c-protein: #6edc9f;
+  --c-carb: #f2c14e;
+  --c-fat: #ff8a66;
+  --c-fibre: #a7d46b;
+  --c-shadow: 0 0 0;
   color-scheme: dark;
+}
+
+@theme {
+  --breakpoint-3xl: 120rem;
 }
 
 @theme inline {
@@ -93,6 +116,11 @@
   --color-brand: var(--c-brand);
   --color-brand-strong: var(--c-brand-strong);
   --color-brand-soft: var(--c-brand-soft);
+  --color-on-brand: var(--c-on-brand);
+  --color-sun: var(--c-sun);
+  --color-sun-soft: var(--c-sun-soft);
+  --color-sky: var(--c-sky);
+  --color-sky-soft: var(--c-sky-soft);
   --color-accent: var(--c-accent);
   --color-accent-soft: var(--c-accent-soft);
   --color-ok: var(--c-ok);
@@ -127,11 +155,13 @@ body {
   font-variant-numeric: tabular-nums;
 }
 
-/* Visible keyboard focus everywhere */
-:focus-visible {
-  outline: 2px solid var(--c-brand);
-  outline-offset: 2px;
-  border-radius: 6px;
+/* Visible keyboard focus everywhere (in the base layer, so outline-none on a field still wins) */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--c-brand);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
 }
 
 dialog::backdrop {
@@ -139,22 +169,23 @@ dialog::backdrop {
   backdrop-filter: blur(2px);
 }
 
-.safe-bottom {
-  padding-bottom: env(safe-area-inset-bottom);
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
-}
+/* Safe-area padding as utilities, so responsive padding classes (md:px-8 …) still win. */
+@layer utilities {
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
 
-/* Installed on an iPhone home screen the app runs edge to edge (viewport-fit=cover):
-   keep the header clear of the status bar / Dynamic Island and content clear of rounded corners. */
-.safe-top {
-  padding-top: max(0.75rem, env(safe-area-inset-top));
-  padding-left: max(1rem, env(safe-area-inset-left));
-  padding-right: max(1rem, env(safe-area-inset-right));
-}
-.safe-x {
-  padding-left: max(1rem, env(safe-area-inset-left));
-  padding-right: max(1rem, env(safe-area-inset-right));
+  /* Installed on an iPhone home screen the app runs edge to edge (viewport-fit=cover):
+     keep the header clear of the status bar / Dynamic Island and content clear of rounded corners. */
+  .safe-top {
+    padding-top: max(0.75rem, env(safe-area-inset-top));
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  .safe-x {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -207,5 +238,56 @@ dialog::backdrop {
   }
   .min-w-\[980px\] {
     min-width: 0 !important;
+  }
+}
+
+/* Plate placeholder art (components/recipe.tsx) */
+.plate-art__plate {
+  background: radial-gradient(circle at 50% 50%, #ffffff 0 86%, #ece6da 87% 100%);
+  box-shadow: 0 6px 14px rgb(var(--c-shadow) / 0.12);
+}
+:root[data-theme='dark'] .plate-art__plate {
+  background: radial-gradient(circle at 50% 50%, #2b3036 0 86%, #3a4047 87% 100%);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .plate-art__plate {
+    background: radial-gradient(circle at 50% 50%, #2b3036 0 86%, #3a4047 87% 100%);
+  }
+  :root:not([data-theme='light']) .plate-art {
+    filter: saturate(0.85) brightness(0.8);
+  }
+}
+:root[data-theme='dark'] .plate-art {
+  filter: saturate(0.85) brightness(0.8);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sheet-in {
+    animation: sheet-up 220ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+  @keyframes sheet-up {
+    from {
+      transform: translateY(24px);
+      opacity: 0;
+    }
+  }
+  @media (min-width: 64rem) {
+    .sheet-in {
+      animation-name: sheet-left;
+    }
+    @keyframes sheet-left {
+      from {
+        transform: translateX(32px);
+        opacity: 0;
+      }
+    }
+  }
+}
+
+/* Phones in landscape / installed PWA: keep content clear of the notch and rounded corners. */
+@media (max-width: 767px) {
+  main#main {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
   }
 }

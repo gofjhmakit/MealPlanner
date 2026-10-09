@@ -184,6 +184,8 @@ export const mealItemSchema = z.object({
   extraServings: z.number().min(0).nullish(),
   /** This entry eats leftovers cooked at another meal – not counted again in the shopping list. */
   leftoverOfId: z.string().nullish(),
+  /** What actually happened: eaten as planned, or skipped. Unset = still planned. */
+  status: z.enum(['eaten', 'skipped']).nullish(),
 })
 export type MealItem = z.infer<typeof mealItemSchema>
 
@@ -206,6 +208,13 @@ export const shoppingListSchema = z.object({
   planHash: z.string().nullish(),
   /** Recipes added to the list directly (not via the meal plan). */
   extraRecipes: z.array(z.object({ id: z.string(), recipeId: z.string(), servings: z.number().positive() })).default([]),
+  /** The always-current list: covers today + `horizonDays` and follows the meal plan automatically. */
+  rolling: z.boolean().nullish(),
+  horizonDays: z.number().int().min(1).max(31).nullish(),
+  /** Item keys marked "kotona" for this trip (not bought). */
+  homeKeys: z.array(z.string()).default([]),
+  /** The "onko kotona?" check was answered for this trip. */
+  triaged: z.boolean().nullish(),
 })
 export type ShoppingList = z.infer<typeof shoppingListSchema>
 
@@ -255,6 +264,33 @@ export const nutritionTargetsSchema = z.object({
 })
 export type NutritionTargets = z.infer<typeof nutritionTargetsSchema>
 
+/** A member of the household. `portion` = how much of an adult serving they eat. */
+export const personSchema = z.object({
+  id: z.string(),
+  name: z.string().trim().min(1).max(40),
+  kind: z.enum(['adult', 'teen', 'child']),
+  portion: z.number().min(0.1).max(3),
+})
+export type Person = z.infer<typeof personSchema>
+
+export const GOAL_AIMS = ['lose', 'lose-slow', 'maintain', 'gain'] as const
+export type GoalAim = (typeof GOAL_AIMS)[number]
+
+/** The main user's body data and aim, used to suggest daily targets (domain/goals.ts). */
+export const goalSchema = z.object({
+  sex: z.enum(['female', 'male']),
+  age: z.number().int().min(14).max(100),
+  heightCm: z.number().min(120).max(230),
+  weightKg: z.number().min(30).max(300),
+  /** Physical activity level (PAL), 1.2 = sedentary … 1.9 = very active. */
+  activity: z.number().min(1.2).max(2.0),
+  aim: z.enum(GOAL_AIMS),
+})
+export type Goal = z.infer<typeof goalSchema>
+
+export const weightEntrySchema = z.object({ date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/), kg: z.number().min(30).max(300) })
+export type WeightEntry = z.infer<typeof weightEntrySchema>
+
 export const userSettingsSchema = z.object({
   targets: nutritionTargetsSchema,
   defaultServings: z.number().positive(),
@@ -262,6 +298,12 @@ export const userSettingsSchema = z.object({
   pantry: z.array(z.string()),
   weekStartsOn: z.union([z.literal(0), z.literal(1)]),
   hideCheckedShoppingItems: z.boolean(),
+  /** People the household cooks for; the first one is "me" (targets and goal apply to them). */
+  household: z.array(personSchema).default([]),
+  goal: goalSchema.nullish(),
+  /** True once the first-run setup was completed or skipped. */
+  onboarded: z.boolean().default(false),
+  weights: z.array(weightEntrySchema).default([]),
 })
 export type UserSettings = z.infer<typeof userSettingsSchema>
 
@@ -271,6 +313,10 @@ export const DEFAULT_SETTINGS: UserSettings = {
   pantry: ['suola', 'mustapippuri', 'vesi', 'rypsiöljy', 'sokeri'],
   weekStartsOn: 1,
   hideCheckedShoppingItems: false,
+  household: [],
+  goal: null,
+  onboarded: false,
+  weights: [],
 }
 
 export const favouriteSchema = z.object({ recipeId: z.string(), createdAt: z.string() })

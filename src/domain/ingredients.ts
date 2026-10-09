@@ -183,11 +183,11 @@ export const INGREDIENTS: CanonicalIngredient[] = [
   ing('chicken-breast', 'Broilerin rintafilee', 'Chicken breast', M, 'meat', 11565, [
     'broilerin rintafilee', 'broilerin filee', 'broilerinfilee', 'kananrintafilee', 'kanafilee', 'kananfilee',
     'broilerin sisäfilee', 'kanan rintafilee', 'broilerin fileepihvi', 'rintafilee', 'broilerin rintaleike',
-    'kanan filee', 'broilerifilee',
+    'kanan filee', 'broilerifilee', 'broilerin rintafile', 'broilerin file', 'kanan rintafile', 'kanafile', 'rintafile',
   ], { pieceGrams: 150, unitGrams: { pkt: 600, rs: 600 } }),
   ing('chicken-thigh', 'Broilerin koipireisi', 'Chicken thigh', M, 'meat', 30792, [
     'broilerin koipireisi', 'broilerin koipi', 'kanankoipi', 'broilerin reisi', 'broilerin reisifilee', 'kananreisi',
-    'broilerin paistileike', 'reisifilee', 'broilerin reisipala', 'kanan reisifilee', 'broilerin fileepala reisi',
+    'broilerin paistileike', 'reisifilee', 'broilerin reisipala', 'kanan reisifilee', 'broilerin fileepala reisi', 'broilerin pala', 'broilerinpala', 'kananpala', 'kanan pala', 'broilerin koipi ja reisi',
   ], { pieceGrams: 150, unitGrams: { pkt: 600, rs: 600 } }),
   ing('chicken-whole', 'Broileri', 'Whole chicken', M, 'meat', 751, ['broileri', 'kokonainen broileri', 'kana', 'kokobroileri', 'broilerin siipi', 'kananpoika'], { pieceGrams: 1200, fineliConfidence: 0.9 }),
   ing('chicken-mince', 'Broilerin jauheliha', 'Chicken mince', M, 'meat', 28930, ['broilerin jauheliha', 'kanajauheliha', 'broilerijauheliha', 'kanan jauheliha'], { unitGrams: { pkt: 400, rs: 400 } }),

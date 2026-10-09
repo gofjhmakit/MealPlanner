@@ -1,16 +1,18 @@
-import { ArrowLeft, ArrowRight, CalendarCheck, RefreshCw, ShoppingCart, Shuffle, Soup, Sparkles } from 'lucide-react'
-import { useMemo, useState } from 'react'
+import { ArrowLeft, CalendarCheck, RefreshCw, ShoppingCart, Shuffle, SlidersHorizontal, Soup } from 'lucide-react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
-import { applyMealPlan, createShoppingList, mealItemsInRange } from '../../db/repo'
-import { addDays, capitalize, formatDate, isoWeek, startOfWeek, today, weekdayName } from '../../domain/dates'
+import { applyMealPlan, mealItemsInRange, syncRollingList } from '../../db/repo'
+import { addDays, capitalize, formatDate, startOfWeek, today, weekdayName } from '../../domain/dates'
 import { MEAL_SLOTS, type MealSlot, type Recipe } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
-import { buildCandidates, planMeals, rerollMeal, type PlanOptions, type PlanResult } from '../../domain/weekPlanner'
+import { planMeals, rerollMeal, type PlanOptions, type PlanResult } from '../../domain/weekPlanner'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { RecipeImage } from '../components/recipe'
-import { Badge, Button, Card, Chip, cx, Field, ProgressBar, Select, Spinner, Stepper, Switch, TextInput } from '../components/ui'
-import { SLOT_LABELS, useAllRecipes, useFavouriteIds } from '../hooks'
+import { Badge, Button, Card, Chip, Field, Select, Spinner, Stepper, Switch, TextInput } from '../components/ui'
+import { SLOT_LABELS, useAllRecipes } from '../hooks'
+import { useCandidates, useHousehold } from '../planning'
+import { kcalTone, MiniBar } from '../components/v2'
 
 type Period = 'week' | 'day'
 
@@ -28,23 +30,23 @@ export function PlanWeekPage() {
   const toast = useToast()
   const navigate = useNavigate()
   const recipes = useAllRecipes()
-  const favourites = useFavouriteIds()
   const ownCount = (recipes ?? []).filter((r) => r.inCollection).length
 
-  const [step, setStep] = useState(1)
+  const [tuning, setTuning] = useState(false)
   const [period, setPeriod] = useState<Period>('week')
   const thisWeek = startOfWeek(today(), settings.weekStartsOn)
   const [weekStart, setWeekStart] = useState(addDays(thisWeek, 7))
   const [day, setDay] = useState(addDays(today(), 1))
   const [weekdays, setWeekdays] = useState<number[]>([0, 1, 2, 3, 4, 5, 6])
-  const [people, setPeople] = useState(settings.defaultServings)
-  const [slots, setSlots] = useState<MealSlot[]>(['lunch', 'dinner'])
+  const { servings: householdServings, kcalTarget } = useHousehold()
+  const [people, setPeople] = useState(householdServings)
+  const [slots, setSlots] = useState<MealSlot[]>(kcalTarget ? ['breakfast', 'lunch', 'dinner'] : ['lunch', 'dinner'])
   const [leftovers, setLeftovers] = useState(true)
   const [diet, setDiet] = useState<PlanOptions['diet']>('all')
   const [glutenFree, setGlutenFree] = useState(false)
   const [milkFree, setMilkFree] = useState(false)
   const [lactoseFree, setLactoseFree] = useState(false)
-  const [maxKcal, setMaxKcal] = useState('')
+  const [maxKcal, setMaxKcal] = useState(kcalTarget ? String(kcalTarget) : '')
   const [timeWeekday, setTimeWeekday] = useState('45')
   const [timeWeekend, setTimeWeekend] = useState('')
   const [use, setUse] = useState('')
@@ -67,7 +69,8 @@ export function PlanWeekPage() {
   const kcalLimit = maxKcal.trim() && Number.isFinite(kcalNum) && kcalNum >= 800 ? kcalNum : null
   const leftoverPossible = slots.includes('lunch') && slots.includes('dinner') && dates.length > 1
 
-  const candidates = useMemo(() => (recipes ? buildCandidates(recipes, fineli, favourites) : []), [recipes, fineli, favourites])
+  const shared = useCandidates()
+  const candidates = useMemo(() => shared ?? [], [shared])
   const byId = useMemo(() => new Map((recipes ?? []).map((r) => [r.id, r])), [recipes])
 
   async function generate(seed = Date.now() % 100000) {
@@ -97,7 +100,6 @@ export function PlanWeekPage() {
     setOpts(options)
     setPlan(planMeals(candidates, options))
     setSaved(false)
-    setStep(4)
     setBusy(false)
   }
 
@@ -109,181 +111,137 @@ export function PlanWeekPage() {
   }
 
   async function shoppingList() {
-    const sorted = [...dates].sort()
-    const name = period === 'week' ? `Viikko ${isoWeek(sorted[0])} (${formatDate(sorted[0])}–${formatDate(sorted.at(-1)!)})` : `${capitalize(weekdayName(sorted[0]))} ${formatDate(sorted[0])}`
-    const id = await createShoppingList(sorted[0], sorted.at(-1)!, name, fineli)
-    navigate(`/ostoslista?lista=${id}`)
+    // The rolling list covers today onwards; stretch it to the last planned day (max two weeks).
+    const last = [...dates].sort().at(-1)!
+    const span = Math.round((new Date(`${last}T12:00:00`).getTime() - new Date(`${today()}T12:00:00`).getTime()) / 86400000) + 1
+    await syncRollingList(fineli, Math.min(14, Math.max(7, span)))
+    navigate('/ostokset')
   }
 
-  if (!recipes) return <Spinner />
+  // The plan is shown straight away and follows every change of the options.
+  const optionKey = JSON.stringify([dates, slots, people, leftovers, diet, glutenFree, milkFree, lactoseFree, kcalLimit, timeWeekday, timeWeekend, use, avoid, catalogue, preferFavourites, avoidRepeats, replace])
+  useEffect(() => {
+    if (!shared || saved || dates.length === 0 || slots.length === 0) return
+    const id = setTimeout(() => void generate(4242), 250)
+    return () => clearTimeout(id)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [optionKey, shared])
 
-  const canNext1 = dates.length > 0 && slots.length > 0
+  if (!recipes || !shared) return <Spinner label="Ladataan reseptejä…" />
+
+  const saveBar = !saved ? (
+    <>
+      <Button variant="secondary" onClick={() => generate()} icon={<RefreshCw size={16} />} disabled={busy}>Uusi ehdotus</Button>
+      <Button onClick={save} disabled={!plan || plan.meals.length === 0} icon={<CalendarCheck size={16} />}>Tallenna {plan?.meals.length ?? 0} ateriaa</Button>
+    </>
+  ) : (
+    <>
+      <Button variant="secondary" onClick={shoppingList} icon={<ShoppingCart size={16} />}>Ostokset</Button>
+      <Link to="/viikko"><Button icon={<CalendarCheck size={16} />}>Avaa viikko</Button></Link>
+    </>
+  )
 
   return (
-    <div className="fade-in">
-      <Link to="/ruokalista" className="mb-4 inline-flex items-center gap-1 text-sm text-ink-2 hover:text-ink"><ArrowLeft size={16} /> Ruokalista</Link>
-      <PageHeader
-        title={period === 'week' ? 'Suunnittele viikkoni' : 'Suunnittele päiväni'}
-        subtitle="Vastaa muutamaan kysymykseen, niin ehdotan ruokalistan resepteistäsi. Voit vaihtaa yksittäisiä aterioita ennen tallennusta."
-      />
-      <ol className="mb-6 flex flex-wrap gap-2 text-sm" aria-label="Vaiheet">
-        {['Ajankohta ja henkilöt', 'Ruokavalio ja tavoitteet', 'Toiveet', 'Ehdotus'].map((label, i) => (
-          <li key={label} className={cx('flex items-center gap-2 rounded-full px-3 py-1', step === i + 1 ? 'bg-brand text-white dark:text-canvas' : step > i + 1 ? 'bg-brand-soft text-brand' : 'bg-surface-2 text-muted')}>
-            <span className="tabular font-semibold">{i + 1}</span> {label}
-          </li>
-        ))}
-      </ol>
+    <div className="fade-in pb-24 lg:pb-0">
+      <Link to="/viikko" className="mb-3 inline-flex items-center gap-1 text-sm text-ink-2 hover:text-ink"><ArrowLeft size={16} /> Viikko</Link>
+      <PageHeader title={period === 'week' ? 'Suunnittele viikko' : 'Suunnittele päivä'} subtitle="Ehdotus päivittyy heti, kun muutat valintoja. Vaihda yksittäinen ateria nuolista." actions={saveBar} mobileActions={null} />
 
-      {step === 1 && (
-        <Card className="space-y-6 p-5">
-          <div>
-            <p className="mb-2 text-sm font-medium text-ink-2">Mitä suunnitellaan?</p>
-            <div className="flex gap-2">
-              <Chip active={period === 'week'} onClick={() => setPeriod('week')}>Viikko</Chip>
-              <Chip active={period === 'day'} onClick={() => setPeriod('day')}>Yksi päivä</Chip>
-            </div>
-          </div>
+      <Card className="mb-5 space-y-4 p-4 sm:p-5">
+        <div className="flex flex-wrap items-center gap-2">
           {period === 'week' ? (
-            <div className="space-y-3">
-              <p className="text-sm font-medium text-ink-2">Mikä viikko?</p>
-              <div className="flex flex-wrap items-center gap-2">
-                <Chip active={weekStart === thisWeek} onClick={() => setWeekStart(thisWeek)}>Tämä viikko ({isoWeek(thisWeek)})</Chip>
-                <Chip active={weekStart === addDays(thisWeek, 7)} onClick={() => setWeekStart(addDays(thisWeek, 7))}>Ensi viikko ({isoWeek(addDays(thisWeek, 7))})</Chip>
-                <TextInput type="date" value={weekStart} onChange={(e) => e.target.value && setWeekStart(startOfWeek(e.target.value, settings.weekStartsOn))} className="max-w-44" aria-label="Viikon alku" />
-              </div>
-              <div className="flex flex-wrap gap-2" aria-label="Päivät">
-                {Array.from({ length: 7 }, (_, i) => addDays(weekStart, i)).map((d, i) => (
-                  <Chip key={d} active={weekdays.includes(i)} onClick={() => setWeekdays((w) => (w.includes(i) ? w.filter((x) => x !== i) : [...w, i]))}>
-                    {capitalize(weekdayName(d, true))} {formatDate(d)}
-                  </Chip>
-                ))}
-              </div>
-            </div>
+            <>
+              <Chip active={weekStart === thisWeek} onClick={() => setWeekStart(thisWeek)}>Tämä viikko</Chip>
+              <Chip active={weekStart === addDays(thisWeek, 7)} onClick={() => setWeekStart(addDays(thisWeek, 7))}>Ensi viikko</Chip>
+            </>
           ) : (
-            <Field label="Mikä päivä?">
-              <TextInput type="date" value={day} onChange={(e) => e.target.value && setDay(e.target.value)} className="max-w-44" />
-            </Field>
+            <TextInput type="date" value={day} onChange={(e) => e.target.value && setDay(e.target.value)} className="max-w-44" aria-label="Päivä" />
           )}
-          <div className="flex flex-wrap items-center justify-between gap-4">
+          <span className="mx-1 hidden h-6 w-px bg-line sm:block" />
+          {MEAL_SLOTS.filter((s) => s !== 'other').map((s) => (
+            <Chip key={s} active={slots.includes(s)} onClick={() => setSlots((x) => (x.includes(s) ? x.filter((y) => y !== s) : [...x, s]))}>{SLOT_LABELS[s]}</Chip>
+          ))}
+          <span className="ml-auto"><Stepper value={people} onChange={setPeople} min={1} max={20} label="Annokset" suffix="hlö" size="sm" /></span>
+        </div>
+        <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-ink-2">
+          <Switch checked={leftovers && leftoverPossible} onChange={setLeftovers} disabled={!leftoverPossible} label="Päivällisen tähteet seuraavan päivän lounaaksi" />
+        </div>
+        <button onClick={() => setTuning((v) => !v)} className="inline-flex items-center gap-1 text-sm font-medium text-brand" aria-expanded={tuning}>
+          <SlidersHorizontal size={15} /> {tuning ? 'Piilota lisäasetukset' : 'Säädä: ruokavalio, kalorit, aika, toiveet'}
+        </button>
+        {tuning && (
+          <div className="grid gap-5 border-t border-line pt-4 lg:grid-cols-2">
+            {period === 'week' && (
+              <div className="lg:col-span-2">
+                <p className="mb-2 text-sm font-medium text-ink-2">Päivät</p>
+                <div className="flex flex-wrap gap-2" aria-label="Päivät">
+                  {Array.from({ length: 7 }, (_, i) => addDays(weekStart, i)).map((d, i) => (
+                    <Chip key={d} active={weekdays.includes(i)} onClick={() => setWeekdays((w) => (w.includes(i) ? w.filter((x) => x !== i) : [...w, i]))}>
+                      {capitalize(weekdayName(d, true))} {formatDate(d)}
+                    </Chip>
+                  ))}
+                  <Chip active={false} onClick={() => setPeriod('day')}>Vain yksi päivä…</Chip>
+                </div>
+              </div>
+            )}
             <div>
-              <p className="text-sm font-medium text-ink-2">Monelleko ruokaa tehdään?</p>
-              <p className="text-xs text-muted">Annosmäärä jokaiselle aterialle.</p>
+              <p className="mb-2 text-sm font-medium text-ink-2">Ruokavalio</p>
+              <div className="flex flex-wrap gap-2">
+                <Chip active={diet === 'all'} onClick={() => setDiet('all')}>Kaikki käy</Chip>
+                <Chip active={diet === 'vegetarian'} onClick={() => setDiet('vegetarian')}>Kasvis</Chip>
+                <Chip active={diet === 'vegan'} onClick={() => setDiet('vegan')}>Vegaaninen</Chip>
+                <Chip active={glutenFree} onClick={() => setGlutenFree((v) => !v)}>Gluteeniton*</Chip>
+                <Chip active={milkFree} onClick={() => setMilkFree((v) => !v)}>Maidoton*</Chip>
+                <Chip active={lactoseFree} onClick={() => setLactoseFree((v) => !v)}>Laktoositon*</Chip>
+              </div>
+              <p className="mt-1 text-xs text-muted">* Arvio – tarkista pakkausmerkinnät allergioissa.</p>
             </div>
-            <Stepper value={people} onChange={setPeople} min={1} max={20} label="Henkilöt" suffix="hlö" />
-          </div>
-          <div>
-            <p className="mb-2 text-sm font-medium text-ink-2">Mitkä ateriat suunnitellaan?</p>
-            <div className="flex flex-wrap gap-2">
-              {MEAL_SLOTS.filter((s) => s !== 'other').map((s) => (
-                <Chip key={s} active={slots.includes(s)} onClick={() => setSlots((x) => (x.includes(s) ? x.filter((y) => y !== s) : [...x, s]))}>{SLOT_LABELS[s]}</Chip>
-              ))}
-            </div>
-          </div>
-          <Switch
-            checked={leftovers && leftoverPossible}
-            onChange={setLeftovers}
-            disabled={!leftoverPossible}
-            label="Syödään eilisen päivällisen tähteet seuraavan päivän lounaaksi"
-            description={
-              leftoverPossible
-                ? `Päivällinen tehdään ${people * 2} annokselle: ${people} syödään heti ja ${people} seuraavana päivänä lounaaksi.`
-                : 'Vaatii vähintään kaksi päivää sekä lounaan ja päivällisen.'
-            }
-          />
-          <div className="flex justify-end">
-            <Button onClick={() => setStep(2)} disabled={!canNext1} icon={<ArrowRight size={16} />}>Seuraava</Button>
-          </div>
-        </Card>
-      )}
-
-      {step === 2 && (
-        <Card className="space-y-6 p-5">
-          <div>
-            <p className="mb-2 text-sm font-medium text-ink-2">Ruokavalio</p>
-            <div className="flex flex-wrap gap-2">
-              <Chip active={diet === 'all'} onClick={() => setDiet('all')}>Kaikki käy</Chip>
-              <Chip active={diet === 'vegetarian'} onClick={() => setDiet('vegetarian')}>Kasvis</Chip>
-              <Chip active={diet === 'vegan'} onClick={() => setDiet('vegan')}>Vegaaninen</Chip>
-              <span className="mx-1 w-px bg-line" />
-              <Chip active={glutenFree} onClick={() => setGlutenFree((v) => !v)}>Gluteeniton*</Chip>
-              <Chip active={milkFree} onClick={() => setMilkFree((v) => !v)}>Maidoton*</Chip>
-              <Chip active={lactoseFree} onClick={() => setLactoseFree((v) => !v)}>Laktoositon*</Chip>
-            </div>
-            <p className="mt-1 text-xs text-muted">* Arvio Finelin ja omien tuotteiden tietojen perusteella – tarkista pakkausmerkinnät allergioissa.</p>
-          </div>
-          <Field
-            label="Päivän kalorimaksimi / henkilö (valinnainen)"
-            hint={
-              <>
-                Suunnitelma pyrkii pysymään tämän alla (yksi annos jokaisesta ateriasta).{' '}
-                {settings.targets.energyKcal ? (
-                  <button className="text-brand underline" onClick={() => setMaxKcal(String(settings.targets.energyKcal))}>Käytä tavoitettasi {settings.targets.energyKcal} kcal</button>
-                ) : null}
-              </>
-            }
-          >
-            <div className="flex items-center gap-2">
-              <TextInput inputMode="numeric" value={maxKcal} onChange={(e) => setMaxKcal(e.target.value)} placeholder="esim. 2000" className="w-40" />
-              <span className="text-sm text-muted">kcal</span>
-            </div>
-            {maxKcal.trim() && !kcalLimit && <p className="mt-1 text-xs text-warn">Anna vähintään 800 kcal.</p>}
-          </Field>
-          <div className="grid gap-4 sm:grid-cols-2">
-            <Field label="Valmistusaika arkena">
-              <Select value={timeWeekday} onChange={(e) => setTimeWeekday(e.target.value)} className="w-full">
-                {TIME_OPTIONS.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
-              </Select>
+            <Field label="Päivän kalorit / henkilö enintään" hint={kcalTarget ? `Tavoitteesi on ${kcalTarget} kcal.` : 'Valinnainen.'}>
+              <div className="flex items-center gap-2">
+                <TextInput inputMode="numeric" value={maxKcal} onChange={(e) => setMaxKcal(e.target.value)} placeholder="esim. 2000" className="w-36" />
+                <span className="text-sm text-muted">kcal</span>
+              </div>
+              {maxKcal.trim() && !kcalLimit && <p className="mt-1 text-xs text-warn">Anna vähintään 800 kcal.</p>}
             </Field>
-            <Field label="Valmistusaika viikonloppuna">
-              <Select value={timeWeekend} onChange={(e) => setTimeWeekend(e.target.value)} className="w-full">
-                {TIME_OPTIONS.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
-              </Select>
-            </Field>
+            <div className="grid grid-cols-2 gap-3">
+              <Field label="Aika arkena">
+                <Select value={timeWeekday} onChange={(e) => setTimeWeekday(e.target.value)} className="w-full">
+                  {TIME_OPTIONS.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+                </Select>
+              </Field>
+              <Field label="Aika viikonloppuna">
+                <Select value={timeWeekend} onChange={(e) => setTimeWeekend(e.target.value)} className="w-full">
+                  {TIME_OPTIONS.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+                </Select>
+              </Field>
+            </div>
+            <div className="grid grid-cols-2 gap-3">
+              <Field label="Käytä nämä" hint="esim. broileri, kesäkurpitsa"><TextInput value={use} onChange={(e) => setUse(e.target.value)} /></Field>
+              <Field label="Vältä näitä" hint="esim. sieni"><TextInput value={avoid} onChange={(e) => setAvoid(e.target.value)} /></Field>
+            </div>
+            <div className="space-y-3 lg:col-span-2">
+              <Switch checked={preferFavourites} onChange={setPreferFavourites} label="Suosi suosikkeja ja hyvin arvioituja" />
+              <Switch checked={avoidRepeats} onChange={setAvoidRepeats} label="Ei samaa reseptiä kahdesti" />
+              <Switch checked={catalogue} onChange={setIncludeCatalogue} label="Käytä koko reseptikatalogia" description={`Muuten vain omat reseptit (${ownCount}).`} />
+              <Switch checked={replace} onChange={setReplace} label="Korvaa jo suunnitellut ateriat" description="Pois päältä: täytetään vain tyhjät." />
+            </div>
           </div>
-          <div className="flex justify-between">
-            <Button variant="secondary" onClick={() => setStep(1)} icon={<ArrowLeft size={16} />}>Edellinen</Button>
-            <Button onClick={() => setStep(3)} icon={<ArrowRight size={16} />}>Seuraava</Button>
-          </div>
-        </Card>
-      )}
+        )}
+      </Card>
 
-      {step === 3 && (
-        <Card className="space-y-5 p-5">
-          <Field label="Käytä nämä ainekset (valinnainen)" hint="Pilkulla erotettuna, esim. ”broileri, kesäkurpitsa” – suositaan reseptejä, joissa näitä on.">
-            <TextInput value={use} onChange={(e) => setUse(e.target.value)} />
-          </Field>
-          <Field label="Vältä näitä (valinnainen)" hint="Esim. ”sieni, katkarapu” – reseptit, joissa näitä on, jätetään pois.">
-            <TextInput value={avoid} onChange={(e) => setAvoid(e.target.value)} />
-          </Field>
-          <Switch checked={preferFavourites} onChange={setPreferFavourites} label="Suosi suosikkeja ja hyvin arvioituja" description="Omat 1–2 tähden arviot jätetään aina pois." />
-          <Switch checked={avoidRepeats} onChange={setAvoidRepeats} label="Ei samaa reseptiä kahdesti" description="Tähteet eivät lasketa toistoksi." />
-          <Switch
-            checked={catalogue}
-            onChange={setIncludeCatalogue}
-            label="Käytä myös reseptikatalogia"
-            description={`Sinulla on ${ownCount} omaa reseptiä. Katalogissa on tuhansia suomennettuja reseptejä; valmistusohjeelliset suositaan.`}
-          />
-          <Switch checked={replace} onChange={setReplace} label="Korvaa jo suunnitellut ateriat" description="Pois päältä: täytetään vain tyhjät ateriat." />
-          <div className="flex justify-between">
-            <Button variant="secondary" onClick={() => setStep(2)} icon={<ArrowLeft size={16} />}>Edellinen</Button>
-            <Button onClick={() => generate()} disabled={busy} icon={<Sparkles size={16} />}>Luo ehdotus</Button>
-          </div>
-        </Card>
-      )}
-
-      {step === 4 && plan && opts && (
+      {plan && opts && (
         <div className="space-y-5">
           {plan.warnings.length > 0 && (
             <Card className="border-warn/40 bg-warn-soft p-4 text-sm text-warn">
               {plan.warnings.map((w, i) => <p key={i}>⚠ {w}</p>)}
             </Card>
           )}
+          {saved && <Card className="border-brand/30 bg-brand-soft p-4 text-sm font-medium text-brand">Tallennettu ruokalistalle.</Card>}
           {plan.meals.length === 0 ? (
             <Card className="p-5 text-sm text-ink-2">
-              Ehdotusta ei voitu tehdä valituilla ehdoilla (tai kaikki ateriat on jo suunniteltu). Kokeile löysempiä ehtoja, salli katalogi tai valitse ”Korvaa jo suunnitellut ateriat”.
+              Ei uusia aterioita: kaikki valitut ateriat on jo suunniteltu, tai ehdot ovat liian tiukat. Kokeile ”Säädä” → ”Korvaa jo suunnitellut ateriat” tai löysempiä ehtoja.
             </Card>
           ) : (
-            <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
+            <div className="grid grid-cols-[minmax(0,1fr)] gap-4 md:grid-cols-2 xl:grid-cols-3 3xl:grid-cols-4">
               {[...opts.dates].sort().map((date) => {
                 const dayMeals = plan.meals.filter((m) => m.date === date).sort((a, b) => MEAL_SLOTS.indexOf(a.slot) - MEAL_SLOTS.indexOf(b.slot))
                 const kcal = plan.kcalByDay[date] ?? 0
@@ -293,7 +251,7 @@ export function PlanWeekPage() {
                       <h2 className="font-display text-lg font-semibold">{capitalize(weekdayName(date))} <span className="text-ink-2">{formatDate(date)}</span></h2>
                       <span className="tabular text-sm text-ink-2">≈ {formatNumber(kcal, 0)}{opts.maxKcalPerDay ? ` / ${opts.maxKcalPerDay}` : ''} kcal/hlö</span>
                     </div>
-                    {opts.maxKcalPerDay ? <div className="mb-3"><ProgressBar value={kcal} max={opts.maxKcalPerDay} tone="accent" label="Kalorit maksimista" /></div> : null}
+                    {opts.maxKcalPerDay ? <div className="mb-3"><MiniBar value={kcal} max={opts.maxKcalPerDay * 1.25} tone={kcalTone(kcal, opts.maxKcalPerDay)} tick={80} /></div> : null}
                     {dayMeals.length === 0 && <p className="text-sm text-muted">Ei uusia aterioita (jo suunniteltu tai ei sopivaa reseptiä).</p>}
                     <ul className="space-y-2">
                       {dayMeals.map((m) => {
@@ -329,24 +287,10 @@ export function PlanWeekPage() {
               })}
             </div>
           )}
-          <div className="flex flex-wrap justify-between gap-2">
-            <Button variant="secondary" onClick={() => setStep(3)} icon={<ArrowLeft size={16} />}>Muuta vastauksia</Button>
-            <div className="flex flex-wrap gap-2">
-              {!saved ? (
-                <>
-                  <Button variant="secondary" onClick={() => generate()} icon={<RefreshCw size={16} />}>Uusi ehdotus</Button>
-                  <Button onClick={save} disabled={plan.meals.length === 0} icon={<CalendarCheck size={16} />}>Tallenna ruokalistalle</Button>
-                </>
-              ) : (
-                <>
-                  <Button variant="secondary" onClick={shoppingList} icon={<ShoppingCart size={16} />}>Luo ostoslista</Button>
-                  <Link to="/ruokalista"><Button icon={<CalendarCheck size={16} />}>Avaa ruokalista</Button></Link>
-                </>
-              )}
-            </div>
-          </div>
         </div>
       )}
+
+      <div className="no-print fixed inset-x-0 bottom-[68px] z-20 flex justify-center gap-2 border-t border-line bg-surface/95 px-4 py-3 backdrop-blur lg:hidden">{saveBar}</div>
     </div>
   )
 }

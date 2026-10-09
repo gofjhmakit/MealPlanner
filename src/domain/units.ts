@@ -27,6 +27,8 @@ export interface UnitDef {
    * Deliberately rough – results using it are flagged as low-confidence.
    */
   genericGrams?: number
+  /** Partitive used after numbers other than 1 ("2 ruukkua", "6 kynttä"); abbreviations have none. */
+  partitive?: string
 }
 
 export const UNITS: UnitDef[] = [
@@ -40,7 +42,7 @@ export const UNITS: UnitDef[] = [
   { id: 'rkl', kind: 'volume', factor: 15, label: 'rkl', forms: ['rkl', 'ruokalusikka', 'ruokalusikallista', 'ruokalusikallinen', 'rkl:a'], fineliUnit: 'RKL' },
   { id: 'tl', kind: 'volume', factor: 5, label: 'tl', forms: ['tl', 'teelusikka', 'teelusikallista', 'teelusikallinen', 'tl:a'], fineliUnit: 'TL' },
   { id: 'mm', kind: 'volume', factor: 1, label: 'mm', forms: ['mm', 'maustemitta', 'maustemittaa', 'maustemitallinen'] },
-  { id: 'kuppi', kind: 'volume', factor: 240, label: 'kuppi', forms: ['kuppi', 'kuppia', 'cup', 'cups'] },
+  { id: 'kuppi', kind: 'volume', factor: 240, label: 'kuppi', partitive: 'kuppia', forms: ['kuppi', 'kuppia', 'cup', 'cups'] },
   { id: 'kpl', kind: 'count', label: 'kpl', forms: ['kpl', 'kappale', 'kappaletta', 'kpl:tta', 'kpl:ta'], fineliUnit: 'KPL_M' },
   { id: 'pkt', kind: 'count', label: 'pkt', forms: ['pkt', 'paketti', 'pakettia', 'pakkaus', 'pakkausta', 'rasiallinen'], genericGrams: 400 },
   { id: 'prk', kind: 'count', label: 'prk', forms: ['prk', 'purkki', 'purkkia', 'purkillinen'], genericGrams: 200 },
@@ -48,16 +50,16 @@ export const UNITS: UnitDef[] = [
   { id: 'ps', kind: 'count', label: 'ps', forms: ['ps', 'pussi', 'pussia', 'pussillinen'], genericGrams: 150 },
   { id: 'rs', kind: 'count', label: 'rs', forms: ['rs', 'rasia', 'rasiaa'], genericGrams: 250 },
   { id: 'pll', kind: 'count', label: 'pll', forms: ['pll', 'pullo', 'pulloa'], genericGrams: 500 },
-  { id: 'nippu', kind: 'count', label: 'nippu', forms: ['nippu', 'nippua', 'kimppu', 'kimppua'], genericGrams: 25 },
-  { id: 'ruukku', kind: 'count', label: 'ruukku', forms: ['ruukku', 'ruukkua', 'ruukullinen'], genericGrams: 25 },
-  { id: 'kera', kind: 'count', label: 'kerä', forms: ['kerä', 'kerää'], genericGrams: 500 },
-  { id: 'viipale', kind: 'count', label: 'viipale', forms: ['viipale', 'viipaletta', 'siivu', 'siivua', 'viip'], genericGrams: 25 },
-  { id: 'kynsi', kind: 'count', label: 'kynsi', forms: ['kynsi', 'kynttä', 'kynnen'], genericGrams: 4 },
-  { id: 'pala', kind: 'count', label: 'pala', forms: ['pala', 'palaa', 'kuutio', 'kuutiota'], genericGrams: 10 },
-  { id: 'varsi', kind: 'count', label: 'varsi', forms: ['varsi', 'vartta', 'tanko', 'tankoa'], genericGrams: 40 },
-  { id: 'oksa', kind: 'count', label: 'oksa', forms: ['oksa', 'oksaa', 'lehti', 'lehteä'], genericGrams: 1 },
-  { id: 'annos', kind: 'count', label: 'annos', forms: ['annos', 'annosta'], fineliUnit: 'PORTM', genericGrams: 250 },
-  { id: 'kourallinen', kind: 'count', label: 'kourallinen', forms: ['kourallinen', 'kourallista', 'kourallisen', 'kourallisia'], genericGrams: 15 },
+  { id: 'nippu', kind: 'count', label: 'nippu', partitive: 'nippua', forms: ['nippu', 'nippua', 'kimppu', 'kimppua'], genericGrams: 25 },
+  { id: 'ruukku', kind: 'count', label: 'ruukku', partitive: 'ruukkua', forms: ['ruukku', 'ruukkua', 'ruukullinen'], genericGrams: 25 },
+  { id: 'kera', kind: 'count', label: 'kerä', partitive: 'kerää', forms: ['kerä', 'kerää'], genericGrams: 500 },
+  { id: 'viipale', kind: 'count', label: 'viipale', partitive: 'viipaletta', forms: ['viipale', 'viipaletta', 'siivu', 'siivua', 'viip'], genericGrams: 25 },
+  { id: 'kynsi', kind: 'count', label: 'kynsi', partitive: 'kynttä', forms: ['kynsi', 'kynttä', 'kynnen'], genericGrams: 4 },
+  { id: 'pala', kind: 'count', label: 'pala', partitive: 'palaa', forms: ['pala', 'palaa', 'kuutio', 'kuutiota'], genericGrams: 10 },
+  { id: 'varsi', kind: 'count', label: 'varsi', partitive: 'vartta', forms: ['varsi', 'vartta', 'tanko', 'tankoa'], genericGrams: 40 },
+  { id: 'oksa', kind: 'count', label: 'oksa', partitive: 'oksaa', forms: ['oksa', 'oksaa', 'lehti', 'lehteä'], genericGrams: 1 },
+  { id: 'annos', kind: 'count', label: 'annos', partitive: 'annosta', forms: ['annos', 'annosta'], fineliUnit: 'PORTM', genericGrams: 250 },
+  { id: 'kourallinen', kind: 'count', label: 'kourallinen', partitive: 'kourallista', forms: ['kourallinen', 'kourallista', 'kourallisen', 'kourallisia'], genericGrams: 15 },
   { id: 'levy', kind: 'count', label: 'levy', forms: ['levy', 'levyä'], genericGrams: 20 },
   { id: 'hyppysellinen', kind: 'count', label: 'hyppysellinen', forms: ['hyppysellinen', 'hyppysellistä', 'ripaus', 'ripaus', 'ripausta', 'nipistys'], genericGrams: 0.5 },
 ]
@@ -154,7 +156,7 @@ export function formatVolume(ml: number): string {
 
 export function formatCount(n: number, unitId: string): string {
   const u = byId.get(unitId)
-  return `${formatQuantity(n)} ${u?.label ?? unitId}`
+  return `${formatQuantity(n).replace(' ', '')} ${n !== 1 && u?.partitive ? u.partitive : (u?.label ?? unitId)}`
 }
 
 /** Format a quantity in its original unit ("2 dl", "½ tl", "3 kpl"). */

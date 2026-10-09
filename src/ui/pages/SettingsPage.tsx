@@ -1,5 +1,8 @@
 import { useLiveQuery } from 'dexie-react-hooks'
-import { Download, ExternalLink, RefreshCw, Trash2, Upload } from 'lucide-react'
+import { ChevronRight, Download, ExternalLink, RefreshCw, Trash2, Upload, User } from 'lucide-react'
+import { Link } from 'react-router'
+import { householdServings } from '../../domain/goals'
+import { FETCH_AVAILABLE } from '../../import/client'
 import { useEffect, useRef, useState } from 'react'
 import { loadFineliData, loadSupplementaryData } from '../../db/bootstrap'
 import { db, getSetting } from '../../db/db'
@@ -7,7 +10,7 @@ import { syncOpenRecipes, type OpenRecipesIndex } from '../../db/openRecipes'
 import { exportData, importData, parseExportFile } from '../../db/exportImport'
 import { deleteUserMapping, matchContext, rematchUserRecipes, saveUserSettings } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
-import type { NutritionTargets, UserSettings } from '../../domain/types'
+import type { UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
 import { readTheme, storeTheme, type Theme } from '../theme'
 import { PageHeader } from '../components/Layout'
@@ -15,16 +18,6 @@ import { Button, Card, Field, IconButton, Select, SectionTitle, TextInput } from
 
 const MAX_IMPORT_BYTES = 25 * 1024 * 1024
 
-const TARGET_FIELDS: { key: keyof NutritionTargets; label: string; unit: string }[] = [
-  { key: 'energyKcal', label: 'Energia', unit: 'kcal' },
-  { key: 'protein', label: 'Proteiini', unit: 'g' },
-  { key: 'carbohydrate', label: 'Hiilihydraatit', unit: 'g' },
-  { key: 'fat', label: 'Rasva', unit: 'g' },
-  { key: 'fibre', label: 'Kuitu', unit: 'g' },
-  { key: 'sugars', label: 'Sokerit', unit: 'g' },
-  { key: 'saturatedFat', label: 'Tyydyttyneet rasvahapot', unit: 'g' },
-  { key: 'salt', label: 'Suola', unit: 'g' },
-]
 
 export function SettingsPage() {
   const { settings, fineli } = useApp()
@@ -47,10 +40,6 @@ export function SettingsPage() {
     toast('Asetukset tallennettu')
   }
 
-  function setTarget(key: keyof NutritionTargets, value: string) {
-    const n = Number(value.replace(',', '.'))
-    setDraft((d) => ({ ...d, targets: { ...d.targets, [key]: value.trim() && n > 0 ? n : null } }))
-  }
 
   async function doExport() {
     const data = await exportData()
@@ -108,26 +97,32 @@ export function SettingsPage() {
   return (
     <div className="fade-in">
       <PageHeader title="Asetukset" subtitle="Kaikki asetukset ja tiedot tallentuvat vain tälle laitteelle." />
-      <div className="grid gap-6 lg:grid-cols-2">
-        <Card className="p-5">
-          <SectionTitle>Päivittäiset ravintotavoitteet</SectionTitle>
-          <p className="mb-4 text-sm text-ink-2">Valinnaisia. Sovellus ei anna ravitsemussuosituksia – aseta omat tavoitteesi, jos haluat nähdä edistymispalkit.</p>
-          <div className="grid grid-cols-2 gap-3">
-            {TARGET_FIELDS.map((f) => (
-              <Field key={f.key} label={`${f.label} (${f.unit})`}>
-                <TextInput inputMode="decimal" value={draft.targets[f.key] ?? ''} onChange={(e) => setTarget(f.key, e.target.value)} placeholder="–" />
-              </Field>
-            ))}
-          </div>
-        </Card>
+      <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 lg:grid-cols-2">
+        <Link to="/profiili" className="flex items-center gap-4 rounded-[22px] border border-line bg-surface p-5 transition hover:border-brand">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-brand-soft text-brand"><User size={20} /></span>
+          <span className="min-w-0 flex-1">
+            <span className="block font-semibold">Profiili ja tavoitteet</span>
+            <span className="block text-sm text-muted">
+              {settings.household.length ? `${settings.household.map((p) => p.name).join(', ')} · ` : ''}
+              {settings.targets.energyKcal ? `${settings.targets.energyKcal.toLocaleString('fi-FI')} kcal / päivä` : 'ei kaloritavoitetta'}
+            </span>
+          </span>
+          <ChevronRight size={18} className="shrink-0 text-muted" />
+        </Link>
 
         <div className="space-y-6">
           <Card className="space-y-4 p-5">
             <SectionTitle>Kotitalous</SectionTitle>
             <div className="grid grid-cols-2 gap-3">
-              <Field label="Oletusannosmäärä" hint="Käytetään, kun ateria lisätään ruokalistalle.">
-                <TextInput inputMode="decimal" value={draft.defaultServings} onChange={(e) => setDraft((d) => ({ ...d, defaultServings: Math.max(0.5, Number(e.target.value.replace(',', '.')) || 1) }))} />
-              </Field>
+              {settings.household.length ? (
+                <Field label="Annoksia ateriaan" hint="Lasketaan kotitalouden henkilöistä (Profiili).">
+                  <p className="flex h-10 items-center text-sm font-medium">{householdServings(settings.household, settings.defaultServings)}</p>
+                </Field>
+              ) : (
+                <Field label="Annoksia ateriaan" hint="Kun ateria lisätään ruokalistalle.">
+                  <TextInput inputMode="decimal" value={draft.defaultServings} onChange={(e) => setDraft((d) => ({ ...d, defaultServings: Math.max(0.5, Number(e.target.value.replace(',', '.')) || 1) }))} />
+                </Field>
+              )}
               <Field label="Viikko alkaa">
                 <Select value={draft.weekStartsOn} onChange={(e) => setDraft((d) => ({ ...d, weekStartsOn: Number(e.target.value) as 0 | 1 }))} className="w-full">
                   <option value={1}>Maanantaista</option>
@@ -135,7 +130,7 @@ export function SettingsPage() {
                 </Select>
               </Field>
             </div>
-            <Field label="Kotona olevat ainekset" hint="Pilkulla erotettuna. Käytetään reseptihaun ”Ainekset kotona” -suodattimessa.">
+            <Field label="Aina kotona olevat ainekset" hint="Pilkulla erotettuna. Ne eivät tule ostoslistalle, ja reseptihaun ”Kotona olevista” käyttää niitä.">
               <textarea value={pantryText} onChange={(e) => setPantryText(e.target.value)} rows={3} className="w-full rounded-xl border border-line bg-surface p-3 text-sm focus:border-brand focus:outline-none" />
             </Field>
             <Field label="Teema">
@@ -213,7 +208,11 @@ export function SettingsPage() {
           <SectionTitle>Yksityisyys ja tekijänoikeudet</SectionTitle>
           <ul className="list-disc space-y-1.5 pl-5 text-sm text-ink-2">
             <li>Reseptit, ruokalistat, ostoslistat ja asetukset tallennetaan selaimen IndexedDB-tietokantaan tällä laitteella. Sovellus ei käytä analytiikkaa eikä pilvipalveluita.</li>
-            <li>Reseptin tuonti verkosta tapahtuu sovelluksen omalla hakupalvelulla, joka hakee vain tuettujen reseptisivustojen sivuja. Sivustolle välittyy tavallinen sivupyyntö; henkilötietojasi ei lähetetä.</li>
+            {FETCH_AVAILABLE ? (
+              <li>Reseptin tuonti verkosta tapahtuu sovelluksen omalla hakupalvelulla, joka hakee vain tuettujen reseptisivustojen sivuja. Sivustolle välittyy tavallinen sivupyyntö; henkilötietojasi ei lähetetä.</li>
+            ) : (
+              <li>Reseptin tuonti toimii liittämällä reseptisivun HTML – sovellus ei hae sivuja verkosta eikä lähetä tietoja minnekään.</li>
+            )}
             <li>Tuotujen reseptien tekstit ja kuvat kuuluvat alkuperäisille julkaisijoille. Ne tallennetaan vain omaan käyttöösi lähdetietoineen.</li>
             <li>Ravintotiedot: Fineli, Terveyden ja hyvinvoinnin laitos, lisenssi CC BY 4.0. Katalogin ruokalajit perustuvat Finelin reseptiriveihin.</li>
             <li>Täydentävät ravintotiedot (vain kun Finelistä ei löydy sopivaa elintarviketta): Livsmedelsverketin Livsmedelsdatabasen (CC BY 4.0) ja USDA SR Legacy (public domain). Elintarvikkeiden nimet on suomennettu ja aineistoa karsittu; muutokset eivät ole lähteiden tekemiä.</li>
