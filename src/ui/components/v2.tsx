@@ -56,6 +56,12 @@ export function kcalTone(kcal: number, target: number | null): 'brand' | 'sun' |
   return 'brand'
 }
 
+/** Like kcalTone, but a day still in progress (or ahead) is never "under" – only "over" counts. */
+export function dayTone(date: string, today: string, kcal: number, target: number | null): 'brand' | 'sun' | 'fat' {
+  const tone = kcalTone(kcal, target)
+  return date < today || tone === 'fat' ? tone : 'brand'
+}
+
 export function Segmented<T extends string>({ value, onChange, options, label, size = 'md' }: { value: T; onChange: (v: T) => void; options: { value: T; label: ReactNode }[]; label: string; size?: 'sm' | 'md' }) {
   return (
     <div role="radiogroup" aria-label={label} className="inline-flex rounded-xl bg-surface-2 p-1">

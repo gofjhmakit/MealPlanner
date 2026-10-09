@@ -312,8 +312,9 @@ export function quickPlanOptions(o: { dates: string[]; slots?: MealSlot[]; peopl
     glutenFree: false,
     milkFree: false,
     lactoseFree: false,
-    maxTimeWeekday: null,
-    maxTimeWeekend: null,
+    // Quick suggestions stay practical; the planner relaxes these when nothing else fits.
+    maxTimeWeekday: 60,
+    maxTimeWeekend: 120,
     maxKcalPerDay: o.maxKcalPerDay,
     includeCatalogue: true,
     preferFavourites: true,

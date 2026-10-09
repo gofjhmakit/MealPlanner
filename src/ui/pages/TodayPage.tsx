@@ -11,6 +11,7 @@ import { db } from '../../db/db'
 import { ROLLING_LIST_ID, saveUserSettings, setMealStatus } from '../../db/repo'
 import { addDays, capitalize, formatDate, isoWeek, parseISODate, startOfWeek, today, weekdayName } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
+import { scaleIngredient } from '../../domain/scaling'
 import { MAIN_SLOTS, SLOT_TIMES, slotPassed } from '../../domain/today'
 import type { MealItem, MealSlot, Recipe } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
@@ -20,7 +21,7 @@ import { useCommand } from '../command'
 import { PageHeader } from '../components/Layout'
 import { MealSheet } from '../components/MealSheet'
 import { Button, cx } from '../components/ui'
-import { GoalRing, kcalTone, MealThumb, MiniBar, Panel, Segmented } from '../components/v2'
+import { dayTone, GoalRing, kcalTone, MealThumb, MiniBar, Panel, Segmented } from '../components/v2'
 import { SLOT_LABELS, useMealItems, usePlanNutrition, useRecipesById, type PlanNutrition } from '../hooks'
 import { addToSlot, fillEmptySlots } from '../planActions'
 import { useCandidates, useHousehold } from '../planning'
@@ -406,7 +407,7 @@ function Upcoming({ items, recipes, nutrition, t, kcalTarget, onFill }: { items:
                 {missing.length > 0 ? (
                   <button onClick={() => onFill(d)} className="shrink-0 rounded-full bg-accent-soft px-2.5 py-1 text-xs font-semibold text-accent">+ täytä</button>
                 ) : (
-                  <span className={cx('tabular shrink-0 text-sm', kcalTone(kcal, kcalTarget) === 'brand' ? 'text-muted' : kcalTone(kcal, kcalTarget) === 'fat' ? 'text-accent' : 'text-warn')}>{formatNumber(kcal, 0)}</span>
+                  <span className={cx('tabular shrink-0 text-sm', kcalTone(kcal, kcalTarget) === 'fat' ? 'text-accent' : 'text-muted')}>{formatNumber(kcal, 0)}</span>
                 )}
               </li>
             )
@@ -433,7 +434,7 @@ function TrendChart({ days, t, dayNutrients, kcalTarget, proteinTarget, fibreTar
           {days.map((d, i) => {
             const v = values[i]
             const future = d > t
-            const tone = metric === 'kcal' ? kcalTone(v, target) : 'brand'
+            const tone = metric === 'kcal' ? dayTone(d, t, v, target) : 'brand'
             return (
               <div key={d} className="flex h-full flex-1 flex-col justify-end" title={`${capitalize(weekdayName(d, true))} ${formatDate(d)}: ${formatNumber(v, 0)} ${metric === 'kcal' ? 'kcal' : 'g'}`}>
                 <div
@@ -470,7 +471,8 @@ function WeekBalance({ weekDays, t, items, recipes, candidates }: { weekDays: st
   }).length
   const times = mains.map((i) => byId.get(i.recipeId!)?.time).filter((x): x is number => !!x)
   const avgTime = times.length ? Math.round(times.reduce((a, b) => a + b, 0) / times.length) : null
-  const missing = weekDays.filter((d) => d >= t).flatMap((d) => (['lunch', 'dinner'] as MealSlot[]).filter((s) => !items.some((i) => i.date === d && i.slot === s)).map((s) => ({ d, s })))
+  const hour = new Date().getHours()
+  const missing = weekDays.filter((d) => d >= t).flatMap((d) => (['lunch', 'dinner'] as MealSlot[]).filter((s) => !(d === t && slotPassed(s, hour)) && !items.some((i) => i.date === d && i.slot === s)).map((s) => ({ d, s })))
   const good = fish >= 2 && missing.length <= 2
   void recipes
   return (
@@ -540,7 +542,7 @@ function TonightCard({ items, recipes, pantry, hour }: { items: MealItem[]; reci
         {need.slice(0, 6).map((i) => (
           <li key={i.id} className="flex items-baseline justify-between gap-3 py-2 text-sm">
             <span className="min-w-0 truncate">{capitalize(i.name)}</span>
-            <span className="tabular shrink-0 text-muted">{[i.quantity !== null ? formatNumber(i.quantity * ((dinner!.servings + (dinner!.extraServings ?? 0)) / recipe.servings), 1) : null, i.unit].filter(Boolean).join(' ')}</span>
+            <span className="tabular shrink-0 text-muted">{i.quantity !== null ? scaleIngredient(i, (dinner!.servings + (dinner!.extraServings ?? 0)) / recipe.servings).amountText : ''}</span>
           </li>
         ))}
       </ul>
@@ -700,7 +702,7 @@ function MonthCard({ t, items, dayNutrients, kcalTarget, weekStartsOn }: { t: st
         {days.map((x) => {
           const n = items.filter((i) => i.date === x).length
           const kcal = dayNutrients(x).kcal
-          const tone = n === 0 ? null : kcalTone(kcal, kcalTarget)
+          const tone = n === 0 ? null : dayTone(x, t, kcal, kcalTarget)
           return (
             <Link key={x} to={`/viikko?paiva=${x}`} className={cx('flex aspect-square flex-col items-center justify-center rounded-lg text-xs', x === t ? 'ring-2 ring-accent' : 'hover:bg-surface-2', x < t && 'text-muted')}>
               <span className="tabular">{parseISODate(x).getDate()}</span>

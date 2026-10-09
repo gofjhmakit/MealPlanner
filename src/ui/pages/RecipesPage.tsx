@@ -155,7 +155,7 @@ export function RecipesPage() {
         }
       />
 
-      <div className="sticky top-0 z-20 -mx-4 mb-4 space-y-3 bg-canvas/90 px-4 pb-3 pt-1 backdrop-blur md:-mx-8 md:px-8 lg:top-[68px] 3xl:-mx-12 3xl:px-12">
+      <div className="sticky top-0 z-20 -mx-4 mb-4 space-y-3 bg-canvas/90 px-4 pb-3 pt-1 backdrop-blur md:-mx-8 md:px-8 lg:top-[68px] lg:mx-0 lg:px-0">
         <div className="flex gap-2">
           <label className="flex h-11 min-w-0 flex-1 items-center gap-2 rounded-2xl border border-line bg-surface px-3.5 focus-within:border-brand">
             <Search size={17} className="shrink-0 text-muted" />

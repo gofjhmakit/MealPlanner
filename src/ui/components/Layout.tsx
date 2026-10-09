@@ -88,7 +88,7 @@ function Shell() {
       <Sidebar />
       <div className="flex min-w-0 flex-1 flex-col">
         <TopBar />
-        <main id="main" className="safe-x min-w-0 flex-1 pb-28 pt-4 md:px-8 lg:px-8 lg:pb-12 lg:pt-6 3xl:px-12">
+        <main id="main" className="min-w-0 flex-1 px-4 pb-28 pt-4 md:px-8 lg:pb-12 lg:pt-6 3xl:px-12">
           <div className="mx-auto w-full max-w-[720px] lg:max-w-[1640px] 3xl:max-w-[2400px]">
             <Outlet />
           </div>
@@ -310,7 +310,7 @@ export function PageHeader({ title, eyebrow, subtitle, actions, mobileActions }:
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           {eyebrow && <p className="text-xs font-semibold uppercase tracking-wider text-muted">{eyebrow}</p>}
-          <h1 className="font-display text-[1.9rem] font-semibold leading-tight tracking-tight lg:text-[2.1rem] 3xl:text-[2.4rem]">{title}</h1>
+          <h1 className="font-display text-[1.9rem] font-semibold leading-tight tracking-tight [overflow-wrap:anywhere] lg:text-[2.1rem] 3xl:text-[2.4rem]">{title}</h1>
           {subtitle && <div className="mt-1 text-sm text-ink-2">{subtitle}</div>}
         </div>
         <div className="no-print flex shrink-0 items-center gap-2 lg:hidden">

@@ -367,7 +367,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
                 ))}
               <SourceBadge recipe={recipe} />
             </div>
-            <h1 className="font-display text-[2rem] font-semibold leading-[1.1] tracking-tight sm:text-4xl 3xl:text-5xl">{recipe.title}</h1>
+            <h1 className="font-display text-[2rem] font-semibold leading-[1.1] tracking-tight hyphens-auto [overflow-wrap:anywhere] sm:text-4xl 3xl:text-5xl">{recipe.title}</h1>
             {recipe.description && <p className="mt-3 max-w-[64ch] whitespace-pre-line text-ink-2">{recipe.description}</p>}
             <div className="no-print mt-3 flex flex-wrap items-center gap-3">
               <StarRating
@@ -745,7 +745,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
 
   return (
     <div className="fixed inset-0 z-[70] flex flex-col bg-canvas" role="dialog" aria-modal="true" aria-label={`Kokkaustila: ${recipe.title}`}>
-      <header className="safe-top flex items-center gap-4 border-b border-line px-5 pb-3">
+      <header className="safe-top flex items-center gap-4 border-b border-line pb-3">
         <div className="min-w-0 flex-1">
           <p className="text-xs text-muted">Kokkaustila · {formatNumber(servings, 1)} annosta{wakeLock === 'on' ? ' · näyttö pysyy päällä' : ''}</p>
           <h2 className="truncate font-display text-xl font-semibold">{recipe.title}</h2>

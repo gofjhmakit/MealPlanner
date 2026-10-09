@@ -213,7 +213,7 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
   return (
     <div className="fixed inset-0 z-[60] flex items-start justify-center bg-[rgb(10_14_12/0.45)] backdrop-blur-[2px] sm:px-4 sm:pt-[12vh]" onMouseDown={(e) => e.target === e.currentTarget && onClose()}>
       <div role="dialog" aria-modal="true" aria-label="Komentorivi" className="fade-in flex h-full w-full flex-col overflow-hidden bg-surface shadow-2xl sm:h-auto sm:max-h-[70vh] sm:max-w-[640px] sm:rounded-2xl sm:border sm:border-line">
-        <div className="safe-top flex items-center gap-3 border-b border-line px-4 py-3 sm:pt-3">
+        <div className="safe-top flex items-center gap-3 border-b border-line pb-3">
           <Search size={18} className="shrink-0 text-muted" />
           <div className="flex min-w-0 flex-1 flex-wrap items-center gap-1.5">
             {parsed.tokens.map((tok) => (

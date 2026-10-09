@@ -21,7 +21,7 @@ export function HouseholdEditor({ people, onChange }: { people: Person[]; onChan
       {people.map((p, i) => (
         <div key={p.id} className="flex flex-wrap items-center gap-3 rounded-2xl border border-line bg-surface p-3">
           <Avatar name={p.name || '?'} index={i} size={38} />
-          <div className="min-w-0 flex-1">
+          <div className="min-w-[9rem] flex-1">
             <input
               value={p.name}
               onChange={(e) => update(p.id, { name: e.target.value })}
@@ -35,14 +35,14 @@ export function HouseholdEditor({ people, onChange }: { people: Person[]; onChan
               {PERSON_KINDS[p.kind].label} · ≈ {formatNumber(p.portion, 1)} annosta
             </p>
           </div>
-          <div className="flex items-center gap-1 rounded-xl bg-surface-2 p-1" role="radiogroup" aria-label="Ikäryhmä">
+          <div className="order-last flex w-full items-center gap-1 rounded-xl bg-surface-2 p-1 sm:order-none sm:w-auto" role="radiogroup" aria-label="Ikäryhmä">
             {(Object.keys(PERSON_KINDS) as Person['kind'][]).map((k) => (
               <button
                 key={k}
                 role="radio"
                 aria-checked={p.kind === k}
                 onClick={() => update(p.id, { kind: k, portion: PERSON_KINDS[k].portion })}
-                className={cx('rounded-lg px-2.5 py-1 text-xs font-medium', p.kind === k ? 'bg-surface text-ink shadow-sm' : 'text-muted')}
+                className={cx('flex-1 rounded-lg px-2.5 py-1 text-xs font-medium sm:flex-none', p.kind === k ? 'bg-surface text-ink shadow-sm' : 'text-muted')}
               >
                 {PERSON_KINDS[k].label}
               </button>

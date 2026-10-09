@@ -155,11 +155,13 @@ body {
   font-variant-numeric: tabular-nums;
 }
 
-/* Visible keyboard focus everywhere */
-:focus-visible {
-  outline: 2px solid var(--c-brand);
-  outline-offset: 2px;
-  border-radius: 6px;
+/* Visible keyboard focus everywhere (in the base layer, so outline-none on a field still wins) */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--c-brand);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
 }
 
 dialog::backdrop {
@@ -167,20 +169,23 @@ dialog::backdrop {
   backdrop-filter: blur(2px);
 }
 
-.safe-bottom {
-  padding-bottom: env(safe-area-inset-bottom);
-}
+/* Safe-area padding as utilities, so responsive padding classes (md:px-8 …) still win. */
+@layer utilities {
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
 
-/* Installed on an iPhone home screen the app runs edge to edge (viewport-fit=cover):
-   keep the header clear of the status bar / Dynamic Island and content clear of rounded corners. */
-.safe-top {
-  padding-top: max(0.75rem, env(safe-area-inset-top));
-  padding-left: max(1rem, env(safe-area-inset-left));
-  padding-right: max(1rem, env(safe-area-inset-right));
-}
-.safe-x {
-  padding-left: max(1rem, env(safe-area-inset-left));
-  padding-right: max(1rem, env(safe-area-inset-right));
+  /* Installed on an iPhone home screen the app runs edge to edge (viewport-fit=cover):
+     keep the header clear of the status bar / Dynamic Island and content clear of rounded corners. */
+  .safe-top {
+    padding-top: max(0.75rem, env(safe-area-inset-top));
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+  .safe-x {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -276,5 +281,13 @@ dialog::backdrop {
         opacity: 0;
       }
     }
+  }
+}
+
+/* Phones in landscape / installed PWA: keep content clear of the notch and rounded corners. */
+@media (max-width: 767px) {
+  main#main {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
   }
 }

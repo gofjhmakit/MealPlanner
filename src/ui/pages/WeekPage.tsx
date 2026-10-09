@@ -21,7 +21,7 @@ import { useCommand } from '../command'
 import { PageHeader, useMediaQuery } from '../components/Layout'
 import { MealSheet, MealSheetBody } from '../components/MealSheet'
 import { Button, cx } from '../components/ui'
-import { Eyebrow, kcalTone, MealThumb, MiniBar, Panel, Segmented } from '../components/v2'
+import { dayTone, Eyebrow, MealThumb, MiniBar, Panel, Segmented } from '../components/v2'
 import { SLOT_LABELS, useMealItems, usePlanNutrition, useRecipesById, type PlanNutrition } from '../hooks'
 import { addToSlot, fillEmptySlots, slotLabel } from '../planActions'
 import { useCandidates, useHousehold } from '../planning'
@@ -40,7 +40,8 @@ export function WeekPage() {
   const [params, setParams] = useSearchParams()
   const t = today()
   const desktop = useMediaQuery('(min-width: 1024px)')
-  const view: View = params.get('nakyma') === 'kuukausi' ? 'month' : params.get('nakyma') === '2vk' ? '2wk' : 'week'
+  const wide = useMediaQuery('(min-width: 1920px)')
+  const view: View = params.get('nakyma') === 'kuukausi' ? 'month' : params.get('nakyma') === '2vk' || (wide && params.get('nakyma') !== 'viikko') ? '2wk' : 'week'
   const focusDay = params.get('paiva')
   const start = params.get('alku') ?? startOfWeek(focusDay ?? t, settings.weekStartsOn)
   const { servings, kcalTarget, proteinTarget } = useHousehold()
@@ -130,7 +131,7 @@ export function WeekPage() {
             label="Näkymä"
             size="sm"
             value={view}
-            onChange={(v) => go({ nakyma: v === 'week' ? null : v === 'month' ? 'kuukausi' : '2vk' })}
+            onChange={(v) => go({ nakyma: v === 'week' ? (wide ? 'viikko' : null) : v === 'month' ? 'kuukausi' : '2vk' })}
             options={[
               { value: 'week', label: 'Viikko' },
               ...(desktop ? [{ value: '2wk' as View, label: '2 vk' }] : []),
@@ -206,6 +207,13 @@ function DayRows({ days, items, recipes, nutrition, kcalTarget, onOpen, onAdd }:
         const kcal = nutrition?.byDay.get(d)?.nutrients.energyKcal ?? 0
         const missing = (['breakfast', 'lunch', 'dinner'] as MealSlot[]).filter((s) => !dayItems.some((i) => i.slot === s))
         const past = d < t
+        if (past && dayItems.length === 0)
+          return (
+            <li key={d} className="flex items-center gap-3 px-3 py-1 text-sm text-muted">
+              <span className="w-10 text-center text-[11px] font-semibold uppercase">{weekdayName(d, true)} {parseISODate(d).getDate()}</span>
+              <span>ei merkintöjä</span>
+            </li>
+          )
         return (
           <li key={d} data-today={d === t ? '' : undefined} className={cx('scroll-mt-4 rounded-[22px] border bg-surface p-3', d === t ? 'border-brand' : 'border-line', past && 'opacity-60')}>
             <div className="flex gap-3">
@@ -237,7 +245,7 @@ function DayRows({ days, items, recipes, nutrition, kcalTarget, onOpen, onAdd }:
             </div>
             {kcal > 0 && (
               <div className="mt-2.5 flex items-center gap-2 pl-[52px]">
-                <MiniBar value={kcal} max={kcalTarget ? kcalTarget * 1.25 : kcal} tone={kcalTone(kcal, kcalTarget)} tick={kcalTarget ? 80 : undefined} className="flex-1" />
+                <MiniBar value={kcal} max={kcalTarget ? kcalTarget * 1.25 : kcal} tone={dayTone(d, t, kcal, kcalTarget)} tick={kcalTarget ? 80 : undefined} className="flex-1" />
                 <span className="tabular w-16 shrink-0 text-right text-xs text-muted">{formatNumber(kcal, 0)} kcal</span>
               </div>
             )}
@@ -349,7 +357,7 @@ function WeekGrid({
             <div key={d} role="columnheader" className={cx('px-1', d < t && 'opacity-55')}>
               <p className={cx('text-[11px] font-semibold uppercase tracking-wider', d === t ? 'text-accent' : 'text-muted')}>{weekdayName(d, true)}{d === t ? ' · tänään' : ''}</p>
               <p className="tabular font-display text-xl font-semibold">{formatDate(d)}</p>
-              <MiniBar value={kcal} max={kcalTarget ? kcalTarget * 1.25 : Math.max(kcal, 1)} tone={kcalTone(kcal, kcalTarget)} tick={kcalTarget ? 80 : undefined} className="mt-1.5" />
+              <MiniBar value={kcal} max={kcalTarget ? kcalTarget * 1.25 : Math.max(kcal, 1)} tone={dayTone(d, t, kcal, kcalTarget)} tick={kcalTarget ? 80 : undefined} className="mt-1.5" />
             </div>
           )
         })}
@@ -406,7 +414,7 @@ function WeekGrid({
         {days.map((d) => {
           const n = nutrition?.byDay.get(d)?.nutrients
           const kcal = dayKcal(d)
-          const tone = kcalTone(kcal, kcalTarget)
+          const tone = dayTone(d, t, kcal, kcalTarget)
           return (
             <div key={d} className="border-t border-line px-1 pt-2">
               <p className={cx('tabular font-display text-lg font-semibold', kcal === 0 ? 'text-muted' : tone === 'fat' ? 'text-accent' : tone === 'sun' ? 'text-warn' : '')}>{kcal ? formatNumber(kcal, 0) : '–'}</p>
@@ -486,8 +494,8 @@ function SidePanel({ days, items, recipes, selected, candidates, kcalOf, dayKcal
   const [tab, setTab] = useState<'recipes' | 'meal' | 'shop'>('recipes')
   const selItem = selected ? items.find((i) => i.date === selected.date && i.slot === selected.slot) : undefined
   useEffect(() => {
-    if (selItem) setTab('meal')
-  }, [selItem?.id])
+    if (selected) setTab(selItem ? 'meal' : 'recipes')
+  }, [selItem?.id, selected?.date, selected?.slot]) // eslint-disable-line react-hooks/exhaustive-deps
   return (
     <aside className="sticky top-[88px] hidden max-h-[calc(100vh-110px)] w-[330px] shrink-0 flex-col overflow-hidden rounded-[22px] border border-line bg-surface xl:flex 3xl:w-[400px]">
       <div className="flex gap-1 border-b border-line p-2">
@@ -643,7 +651,7 @@ function MonthView({ days, month, items, recipes, dayKcal, kcalTarget, onDay }: 
         {days.map((d) => {
           const dayItems = items.filter((i) => i.date === d).sort((a, b) => SLOT_ORDER[a.slot] - SLOT_ORDER[b.slot])
           const kcal = dayKcal(d)
-          const tone = dayItems.length ? kcalTone(kcal, kcalTarget) : null
+          const tone = dayItems.length ? dayTone(d, t, kcal, kcalTarget) : null
           const other = parseISODate(d).getMonth() !== month
           return (
             <button key={d} onClick={() => onDay(d)} className={cx('flex min-h-[64px] flex-col rounded-xl border p-1.5 text-left transition hover:border-brand lg:min-h-[120px] lg:p-2.5', d === t ? 'border-accent' : 'border-line', other && 'opacity-40')}>

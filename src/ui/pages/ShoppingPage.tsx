@@ -559,7 +559,7 @@ function StoreMode({ items, amountText, onClose }: { items: ShoppingItem[]; amou
   let lastCat: ShoppingCategory | null = null
   return (
     <div className="fixed inset-0 z-[70] flex flex-col bg-canvas" role="dialog" aria-modal="true" aria-label="Kaupassa-tila">
-      <header className="safe-top border-b border-line px-5 pb-3">
+      <header className="safe-top border-b border-line pb-3">
         <div className="mx-auto flex max-w-2xl items-end justify-between gap-4">
           <div>
             <p className="text-xs font-semibold uppercase tracking-wider text-brand">Kaupassa</p>
