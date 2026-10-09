@@ -65,7 +65,7 @@ export async function exportData(database: MealPlannerDB = defaultDb): Promise<E
     format: EXPORT_FORMAT,
     version: EXPORT_VERSION,
     exportedAt: new Date().toISOString(),
-    app: 'Ateriasuunnittelija',
+    app: 'Lautanen',
     data: {
       recipes: recipes.filter((r) => r.origin !== 'catalogue'),
       collectedCatalogueIds: recipes.filter((r) => r.origin === 'catalogue' && r.inCollection).map((r) => r.id),
@@ -89,7 +89,7 @@ export class ImportFileError extends Error {}
 export function migrate(raw: unknown): unknown {
   if (!raw || typeof raw !== 'object') throw new ImportFileError('Tiedosto ei ole kelvollinen JSON-vienti.')
   const obj = raw as { format?: unknown; version?: unknown }
-  if (obj.format !== EXPORT_FORMAT) throw new ImportFileError('Tiedosto ei ole Ateriasuunnittelijan vientitiedosto.')
+  if (obj.format !== EXPORT_FORMAT) throw new ImportFileError('Tiedosto ei ole Lautasen (Ateriasuunnittelijan) vientitiedosto.')
   if (typeof obj.version !== 'number') throw new ImportFileError('Vientitiedostosta puuttuu versio.')
   if (obj.version > EXPORT_VERSION) {
     throw new ImportFileError(`Tiedosto on tehty uudemmalla sovellusversiolla (versio ${obj.version}). Päivitä sovellus.`)

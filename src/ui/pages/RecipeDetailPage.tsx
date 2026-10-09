@@ -344,7 +344,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
           {recipe.author ? ` · ${recipe.author}` : ''}
         </p>
       ) : (
-        <p>{recipe.origin === 'user' ? 'Oma resepti' : recipe.origin === 'seed' ? 'Ateria-sovelluksen esimerkkiresepti' : recipe.sourceName}</p>
+        <p>{recipe.origin === 'user' ? 'Oma resepti' : recipe.origin === 'seed' ? 'Lautasen esimerkkiresepti' : recipe.sourceName}</p>
       )}
       {recipe.attribution && <AttributionNote attribution={recipe.attribution} />}
     </section>

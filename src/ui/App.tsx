@@ -80,7 +80,7 @@ export function App() {
     return (
       <div className="flex min-h-screen flex-col items-center justify-center gap-4 p-6">
         <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" className="h-14 w-14" />
-        <h1 className="font-display text-2xl font-semibold">Ateria</h1>
+        <h1 className="font-display text-2xl font-semibold">Lautanen</h1>
         <div className="flex items-center gap-3 text-sm text-muted" role="status">
           <span className="h-4 w-4 animate-spin rounded-full border-2 border-line border-t-brand" />
           {progress}

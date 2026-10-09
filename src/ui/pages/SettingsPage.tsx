@@ -47,7 +47,7 @@ export function SettingsPage() {
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
     a.href = url
-    a.download = `ateriasuunnittelija-${new Date().toISOString().slice(0, 10)}.json`
+    a.download = `lautanen-${new Date().toISOString().slice(0, 10)}.json`
     a.click()
     URL.revokeObjectURL(url)
     toast(`Viety ${data.data.recipes.length} reseptiä, ${data.data.mealItems.length} ateriamerkintää`)

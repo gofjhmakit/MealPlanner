@@ -36,5 +36,5 @@ createServer((req, res) => {
     res.end()
   }
 }).listen(PORT, HOST, () => {
-  console.log(`Ateriasuunnittelija: http://${HOST}:${PORT}`)
+  console.log(`Lautanen: http://${HOST}:${PORT}`)
 })

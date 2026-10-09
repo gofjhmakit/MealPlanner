@@ -4,7 +4,7 @@
   "license": "PolyForm-Noncommercial-1.0.0",
   "version": "1.0.0",
   "type": "module",
-  "description": "Ateriasuunnittelija – local-first meal planner for Finnish recipes with Fineli nutrition estimates",
+  "description": "Lautanen – local-first meal planner for Finnish recipes with Fineli nutrition estimates",
   "engines": {
     "node": ">=22.18"
   },

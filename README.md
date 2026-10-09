@@ -1,4 +1,4 @@
-# Ateria – Meal Planner
+# Lautanen – Meal Planner
 
 A local-first web application for Finnish home cooks that answers *"what do I eat today, and is it
 enough?"*: a day timeline against a personal goal, a week planner, and a shopping list that follows
@@ -469,7 +469,7 @@ Settings → *Vie tiedot (JSON)*. Versioned and validated with Zod
   "format": "meal-planner",
   "version": 1,
   "exportedAt": "2026-09-30T12:00:00.000Z",
-  "app": "Ateriasuunnittelija",
+  "app": "Lautanen",
   "data": {
     "recipes": [], "collectedCatalogueIds": [], "catalogueNotes": [], "favourites": [],
     "mealPlans": [], "mealItems": [], "shoppingLists": [], "shoppingItems": [],

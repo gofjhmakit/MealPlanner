@@ -101,9 +101,9 @@ function Shell() {
 
 function Logo({ compact }: { compact?: boolean }) {
   return (
-    <Link to="/" className="flex items-center gap-2.5" aria-label="Ateria – etusivu">
-      <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand font-display text-xl font-semibold text-on-brand">A</span>
-      {!compact && <span className="font-display text-xl font-semibold tracking-tight">Ateria</span>}
+    <Link to="/" className="flex items-center gap-2.5" aria-label="Lautanen – etusivu">
+      <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand font-display text-xl font-semibold text-on-brand">L</span>
+      {!compact && <span className="font-display text-xl font-semibold tracking-tight">Lautanen</span>}
     </Link>
   )
 }

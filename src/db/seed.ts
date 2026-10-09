@@ -428,7 +428,7 @@ export function buildSeedRecipes(ctx: MatchContext, now = new Date().toISOString
     origin: 'seed',
     sourceId: 'user',
     sourceUrl: null,
-    sourceName: 'Ateriasuunnittelijan esimerkkiresepti',
+    sourceName: 'Lautasen esimerkkiresepti',
     author: null,
     sourceNutrition: null,
     importReport: null,

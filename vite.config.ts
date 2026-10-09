@@ -28,8 +28,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons/*.png'],
       manifest: {
-        name: 'Ateria – ateriasuunnittelija',
-        short_name: 'Ateria',
+        name: 'Lautanen – ateriasuunnittelija',
+        short_name: 'Lautanen',
         description: 'Tämän päivän ateriat, viikon suunnitelma ja ostoslista – tavoitteesi mukaan, Fineli-tietojen pohjalta.',
         lang: 'fi',
         start_url: base,
