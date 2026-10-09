@@ -1,0 +1,636 @@
+[
+  {
+    "id": "wikibooks-homemade-corned-beef",
+    "title": "Kotitekoinen suolattu naudanrinta (corned beef)",
+    "description": "Historiallinen irlantilainen suolalihaherkku, haudutettu juuresten ja Guinness-oluen kanssa – perinteinen joulun ruoka.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "irlantilainen", "juhla", "historiallinen"],
+    "ingredients": [
+      "2,75 kg suolattua naudan rintapaistia (corned beef)",
+      "3 porkkanaa, viistoiksi viipaleiksi leikattuna",
+      "3 keskikokoista sipulia, pilkottuna",
+      "sekoitettuja yrttejä",
+      "1 tl jauhettua maustepippuria",
+      "1 tl jauhettuja neilikoita",
+      "3 dl Guinness-olutta"
+    ],
+    "instructions": [
+      "Aseta liha porkkana- ja sipulipedille isossa kattilassa.",
+      "Peitä kaikki juuri ja juuri huoneenlämpöisellä vedellä, lisää maustepippuri ja neilikat, ja hauduta miedolla lämmöllä 4 tuntia.",
+      "Lisää olut ja hauduta vielä tunti.",
+      "Tarjoile kylmänä jouluna – koska tänä päivänä ei tarvitse puurtaa keittiössä, nosta liha pois ja purista se kahden astian väliin painon alla, säästäen liemi kuumaksi kastikkeeksi. Muina päivinä voit tarjoilla lihan kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-hominy",
+    "title": "Kotitekoinen hominy (lipeäkäsitelty maissi)",
+    "description": "Perinteinen menetelmä maissinjyvien käsittelemiseksi lipeällä kuorien irrottamiseksi – hominyn valmistuksen perusta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "amerikkalainen", "historiallinen"],
+    "ingredients": [
+      "2 l vettä",
+      "1 rkl elintarvikelaatuista lipeää (natriumhydroksidia)",
+      "1 l kuorittuja maissinjyviä",
+      "3 tl suolaa"
+    ],
+    "instructions": [
+      "Kaada vesi isoon pataan tai kattilaan ja sekoita joukkoon lipeä.",
+      "Kiehauta vesi ja lisää maissi. Keitä, kunnes kuoret irtoavat jyvistä, kun niitä puristaa peukalon ja sormen välissä.",
+      "Ota pois liedeltä, sekoita kuorten irrottamiseksi ja huuhtele maissi siivilässä kuorten poistamiseksi.",
+      "Peitä jyvät kylmällä vedellä ja palauta liedelle. Kun vesi kiehuu, kaada se pois. Toista tämä vähintään kolme kertaa varmistaaksesi, ettei lipeää jää jäljelle. Anna jyvien kypsyä lisää vedessä, kunnes ne halkeavat.",
+      "Mausta maissi suolalla, ja laita se vielä kuumana purkkiin tai ruukkuun ja peitä tiiviisti, kunnes sitä käytetään. Keitinvesi kannattaa jättää hominyn joukkoon."
+    ],
+    "notes": ["Turvallisempi versio korvaa lipeän ruokasoodalla (1 rkl per litra vettä) ensimmäisessä keittovaiheessa."]
+  },
+  {
+    "id": "wikibooks-homemade-ketchup",
+    "title": "Kotitekoinen ketsuppi",
+    "description": "Perinteinen säilöttävä tomaattiketsuppi, valmistettu kypsistä tomaateista ja mausteista – purkitettavaksi talven varalle.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "vegaaninen", "säilöntä", "kastike"],
+    "ingredients": [
+      "n. 7,5 kg kypsiä tomaatteja",
+      "120 g sokeria",
+      "2 rkl sinappijauhetta",
+      "1 rkl jauhettua maustepippuria",
+      "5 dl siiderietikkaa",
+      "3 rkl suolaa",
+      "1 rkl mustapippuria",
+      "1 tl jauhettuja neilikoita"
+    ],
+    "instructions": [
+      "Kuumavesikäsittele tomaatit ja paina ne karkean siivilän läpi siementen ja kuorien poistamiseksi. Anna jäähtyä.",
+      "Mittaa 3,8 litraa tomaattisosetta ja yhdistä loppujen aineiden kanssa. Hauduta hiljalleen 3 tuntia.",
+      "Kaada kuuma ketsuppi kuumiin, steriloituihin n. 240 ml:n purkkeihin ja sulje. Käsittele kiehuvassa vesihauteessa 15 minuuttia."
+    ],
+    "notes": ["Korkeammalla sijaitseville alueille (300–1800 m) lisää 5 minuuttia keittoaikaa, ja vielä 5 minuuttia lisää yli 1800 metrin korkeudessa."]
+  },
+  {
+    "id": "wikibooks-homemade-orange-juice",
+    "title": "Kotitekoinen appelsiinimehu",
+    "description": "Tuoretta appelsiinimehua tehosekoittimella, ei vaadi mehupuristinta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["kasvis", "vegaaninen", "juoma", "nopea"],
+    "ingredients": [
+      "4 appelsiinia, kuorittuna ja siemenet poistettuna",
+      "1 rkl sokeria",
+      "vettä tai jäätä tarpeen mukaan"
+    ],
+    "instructions": [
+      "Poista appelsiineista kuori ja valkoinen kalvo veitsellä. Halkaise appelsiinit ja poista siemenet. Paloittele appelsiinit ja laita tehosekoittimeen.",
+      "Lisää sokeria ja vettä tai jäätä. Soseuta muutaman kerran, kunnes seos on sileää.",
+      "Siivilöi seos. Kaada siivilöity appelsiinimehu lasiin.",
+      "Tarjoile kylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-pancake-mix",
+    "title": "Kotitekoinen pannukakkujauhe",
+    "description": "Valmiiksi sekoitettu kuivaseos, jolla saa nopeasti pöytään tuoreita pannukakkuja.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "aamiainen", "arkiruoka"],
+    "ingredients": [
+      "Pannukakkuseos (säilytykseen):",
+      "14 dl vehnäjauhoja",
+      "1½ tl ruokasoodaa",
+      "1 rkl kaksitoimista leivinjauhetta",
+      "1 rkl suolaa",
+      "2 rkl sokeria",
+      "Pannukakut (5 dl seoksesta):",
+      "5 dl edellä valmistettua pannukakkuseosta",
+      "2 kananmunaa, erotettuna",
+      "5 dl piimää",
+      "4 rkl voita, sulatettuna",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kuivaseoksen ainekset hyvin keskenään.",
+      "Siirrä ilmatiiviiseen säilytysrasiaan.",
+      "Säilytä huoneenlämmössä ja käytä 3 kuukauden kuluessa.",
+      "Esilämmitä levy tai paistinpannu 175 asteeseen.",
+      "Sekoita piimä munanvalkuaisiin, ja sula voi munankeltuaisiin. Yhdistä nämä kaksi seosta.",
+      "Kaada nestemäinen seos kuivaseoksen päälle ja sekoita vain 10 sekuntia. Älä sekoita enempää, vaikka tekisi mieli.",
+      "Rasvaa levy voilla ja pyyhi talouspaperilla, kunnes rasvaa ei enää näy.",
+      "Kauho taikinaa varovasti levylle ja sirottele päälle hedelmiä, jos haluat. Kun kuplia alkaa nousta pannukakun reunoille ja levyn puoleinen pinta on kullanruskea, käännä pannukakku varovasti. Paista vielä 2–3 minuuttia tai kunnes pannukakku on kypsä.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-paneer",
+    "title": "Kotitekoinen paneerjuusto",
+    "description": "Intialainen tuore raejuustomainen juusto, joka valmistetaan juoksettamalla maito hapolla.",
+    "servings": 4,
+    "category": "Muut",
+    "tags": ["kasvis", "intialainen", "juusto"],
+    "ingredients": [
+      "3 l maitoa",
+      "6 rkl sitruunamehua tai etikkaa"
+    ],
+    "instructions": [
+      "Kuumenna maito kiehuvaksi isossa kattilassa.",
+      "Juuri ennen kiehumista lisää sitruunamehu tai etikka juoksettaaksesi maidon.",
+      "Kaada juoksettunut maito juustokankaan läpi suurimman osan vedestä poistamiseksi.",
+      "Purista vesi tiukasti pois ja aseta paino paneerin päälle.",
+      "Anna levätä ja kovettua jääkaapissa 2–3 tuntia."
+    ],
+    "notes": ["Joskus kovettuminen jääkaapissa ei onnistu ja paneeri voi hajota pieniksi jyväsiksi kypsennettäessä. Vaihtoehtoinen tapa kiinteyttää se on höyryttää sitä noin 15 minuuttia."]
+  },
+  {
+    "id": "wikibooks-homemade-peanut-butter",
+    "title": "Kotitekoinen maapähkinävoi",
+    "description": "Paahdetuista maapähkinöistä tehty tahna, jonka koostumuksen voi säätää sileäksi tai rouheaksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "pähkinä", "nopea"],
+    "ingredients": [
+      "5 dl raakoja kuorittuja maapähkinöitä",
+      "1½ tl rypsi- tai maapähkinäöljyä",
+      "1½ rkl oliiviöljyä",
+      "½ tl sokeria (valinnainen)",
+      "2 tl hunajaa (valinnainen)",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Sekoita maapähkinät ja rypsi- tai maapähkinäöljy kulhossa.",
+      "Levitä foliolle uunipellille ja paista 93–175 asteessa noin 10 minuuttia.",
+      "Anna maapähkinöiden jäähtyä.",
+      "Sekoita joukkoon oliiviöljy. Soseuta tai jauha hetken aikaa.",
+      "Lisää sokeri, hunaja ja suola. Soseuta, kunnes koostumus miellyttää sinua."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-phyllo-dough",
+    "title": "Kotitekoinen filotaikina",
+    "description": "Yksinkertainen vesi-jauhotaikina, joka kaulitaan erittäin ohueksi ja kerrostetaan rapeiksi leivonnaisiksi.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "vegaaninen", "taikina", "kreikkalainen"],
+    "ingredients": [
+      "1 kg vehnäjauhoja",
+      "4 rkl öljyä",
+      "3–4 dl kuumaa vettä"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset yleiskoneella taikinakoukulla tai käsin, kunnes taikina on sileää, joustavaa mutta ei tahmeaa.",
+      "Anna taikinan levätä muutama tunti, mieluiten jääkaapissa muovikelmuun käärittynä.",
+      "Leikkaa taikina pieniksi paloiksi. Litistä kukin pala pastakoneella: aja se useita kertoja koneen suurimmalla asetuksella, taita kahtia, kunnes taikina on tasainen, ja pienennä asetusta vähitellen haluttuun ohuuteen asti. Voit myös käyttää kaulinta ja paljon kärsivällisyyttä. Taikinan tulisi olla erittäin ohutta."
+    ],
+    "notes": [
+      "Jos käytät pastakonetta lasagnelevyjen tapaan, voit sen jälkeen käyttää kaulinta levittääksesi ja ohentaaksesi taikinaa lisää.",
+      "Filotaikinaa käytetään useissa maissa hieman eri tavoin – öljyn määrää voi säätää tai lisätä sitruunamehua, etikkaa, väkevää alkoholia, suolaa tai jopa munanvalkuaista."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-pie-crust",
+    "title": "Kotitekoinen piirakkapohja",
+    "description": "Perinteinen murotaikinapohja, joka vaaditaan työstämään mahdollisimman vähän sitkon muodostumisen välttämiseksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "vegaaninen", "leivonta", "piirakka"],
+    "ingredients": [
+      "225 g vehnäjauhoja",
+      "½ tl suolaa",
+      "2¼ dl kylmää leivontarasvaa",
+      "2 rkl kylmää vettä (lisää tarvittaessa 1 rkl lisää)"
+    ],
+    "instructions": [
+      "Yhdistä jauhot ja suola keskikokoisessa kulhossa.",
+      "Leikkaa leivontarasva joukkoon taikinaleikkurilla tai kahdella veitsellä, kunnes seos on murumaista.",
+      "Ripottele joukkoon kylmä vesi; sekoita vain sen verran, että taikina pysyy koossa.",
+      "Muotoile taikinasta pallo ja aseta kevyesti jauhotetulle alustalle.",
+      "Kauli taikina noin 3 mm paksuiseksi.",
+      "Vuoraa piirakkavuoka taikinalla.",
+      "Leikkaa reunoista noin 2 cm ylimäärä, taita se alle ja rypytä reunat haluamallasi tavalla."
+    ],
+    "notes": [
+      "Kahta pohjaa varten tuplaa kaikki ainekset, toimi samalla tavalla ja jaa taikina kahtia.",
+      "Käytä ehdottomasti kylmää vettä ja säilytä taikina hyvin kääritynä käyttöön asti."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-red-wine",
+    "skip": "alkoholillinen juoma (kotitekoinen viini), jossa alkoholi on resepti pääasia"
+  },
+  {
+    "id": "wikibooks-homemade-seitan",
+    "title": "Kotitekoinen seitan",
+    "description": "Vehnägluteenista valmistettu lihankorvike, jossa on jäntevä, lihamainen rakenne – sopii kasvis- ja vegaaniruokiin.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "proteiini"],
+    "ingredients": [
+      "280 g vehnägluteenijauhoa (esim. leipäjauhoja)",
+      "vettä",
+      "soijakastiketta (suositellaan)",
+      "mausteita tai siipikarjamaustetta (valinnainen)",
+      "ravintohiivaa (suositellaan)",
+      "kasvislientä tai dashi-lientä keittämiseen"
+    ],
+    "instructions": [
+      "Lisää 5 dl vettä jauhoihin. Vaivaa, kunnes seos on tasaista ja joustavaa. Pidä kädet märkinä, ettei taikina tartu niihin.",
+      "Peitä taikina vedellä ja laita jääkaappiin tunniksi.",
+      "Vaivaa taikinaa varovasti veden alla, kunnes vesi samenee; vaihda sameaan veteen tilalle kirkasta, kylmää vettä. Aluksi taikina voi hajota helposti veden alla, joten purista sitä varovasti kulhoa vasten. Myöhemmin voit vaivata veden yläpuolella puristaen vettä pois ja kastaa massan vain tärkkelyksen huuhtomiseksi.",
+      "Jatka vaivaamista ja veden vaihtoa, kunnes vesi pysyy kirkkaana vaivaamisen jälkeen. Lopulta jäljelle jää gluteenimassa.",
+      "Jaa gluteenimassa kahteen leivän- tai rullanmuotoiseen osaan. Tässä vaiheessa voit lisätä massaan soijakastiketta, mausteita tai ravintohiivaa maun ja rakenteen mukaan.",
+      "Laita gluteenirullat pataan ja peitä kasvisliemellä tai dashilla.",
+      "Kuumenna kiehuvaksi, laske lämpöä ja hauduta 1–1,5 tuntia.",
+      "Ota pois liedeltä ja tarjoile halutulla tavalla tai käytä lihan korvikkeena."
+    ],
+    "notes": [
+      "Huuhteluvaiheen voi välttää ostamalla valmista 100-prosenttista gluteenijauhoa – siihen riittää vain sen verran vettä, että siitä muodostuu kiinteä massa.",
+      "Pelkästä gluteenijauhosta tehty seitan voi olla kumimaista ja maultaan hyvin \"gluteenista\". Yhden osan kikhernejauhoa lisääminen neljää osaa gluteenijauhoa kohden tekee rakenteesta vähemmän kumimaista ja maultaan parempaa.",
+      "Korkean proteiinipitoisuutensa ansiosta gluteenipihvit sopivat hyvin grillattaviksi ja paistettaviksi."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-tahini",
+    "title": "Kotitekoinen tahini",
+    "description": "Paahdetuista seesaminsiemenistä tehty tahna, joka on monien keittiöiden perusaines.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "lähi-itä"],
+    "ingredients": [
+      "seesaminsiemeniä",
+      "rypsiöljyä",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuumenna kuiva paistinpannu keskilämmölle.",
+      "Lisää seesaminsiemenet ja sekoittele puulastalla usein, kunnes ne ovat vaaleanruskeita. Älä anna palaa.",
+      "Ota siemenet pois liedeltä ja anna jäähtyä kokonaan.",
+      "Jauha siemenet tehosekoittimella, monitoimikoneella tai huhmareella murumaiseksi.",
+      "Lisää muutama ruokalusikallinen öljyä ja käsittele, kunnes seos on hyvin sileää.",
+      "Tarkista koostumus ja lisää tarvittaessa öljyä. Saatat tarvita vielä minuutin käsittelyä sileämmän koostumuksen saamiseksi.",
+      "Lisää suolaa maun mukaan ja käsittele uudelleen. Muista kaapia monitoimikoneen tai tehosekoittimen reunat lastalla.",
+      "Säilytä jääkaapissa ilmatiiviissä purkissa kuukauden ajan. Voit myös pakastaa sen jopa 3 kuukaudeksi, jos et käytä sitä heti."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-tempeh",
+    "title": "Kotitekoinen tempeh",
+    "description": "Perinteinen indonesialainen fermentoitu soijapapuherkku, jossa papuja kasvattava homekasvusto muodostaa kiinteän kakun.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "totalTimeMin": 1440,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "indonesialainen", "fermentoitu"],
+    "ingredients": [
+      "400 g kuivattuja soijapapuja",
+      "vettä",
+      "2 rkl siiderietikkaa",
+      "1 tl tempeh-itua (ragi tempe)"
+    ],
+    "instructions": [
+      "Peitä soijapavut vedellä ja liota yön yli, vähintään 12 tuntia.",
+      "Irrota kuoret pavuista hierkomalla niitä käsien välissä.",
+      "Poista suurin osa kuorista joko huuhtelemalla tai siivilän avulla. Osa kuorista voi jäädä ilman, että se vaikuttaa lopputulokseen.",
+      "Keitä pavut, kunnes ne ovat juuri ja juuri kypsiä, ei liian pehmeitä – alikypsä on paras tempehille.",
+      "Valuta pavut ja levitä ne kuivumaan paikkaan, jossa ilma kiertää.",
+      "Kerää pavut kulhoon ja sekoita joukkoon siiderietikka. Tämä happamoittaa papuja hieman estäen ei-toivottujen pilaantumisorganismien kasvua fermentoinnin aikana.",
+      "Ripottele tempeh-itu papujen päälle ja sekoita hyvin.",
+      "Pakkaa pavut löyhästi banaaninlehtiin, pakastepusseihin tai mataliin vuokiin hautumaan. Pakastepussit tulee rei'ittää noin 1 cm:n välein, jotta happea pääsee fermentoituviin papuihin.",
+      "Aseta pavut hautumaan mieluiten ritilöille, jotka mahdollistavat ilmankierron. Sähköuuni valo päällä toimii hyvin hautomona, sillä valo tuottaa juuri sopivasti lämpöä pitämään pavut lämpiminä fermentoinnin alkaessa.",
+      "Hauduta noin 12 tuntia 30–35 asteessa lämmönlähteen kanssa (ellei ympäristö ole jo valmiiksi niin lämmin).",
+      "12 tunnin jälkeen poista tai sammuta lämmönlähde – fermentoituvat pavut tuottavat jo omaa lämpöään ja voivat ylikuumeta, jos niitä pidetään liian lämpiminä.",
+      "Tarkkaile ajoittain ja ota pois, kun pavut ovat kokonaan kuohkean valkoisen tempehin peitossa ilman aukkoja.",
+      "Fermentoinnin jälkeen tarjoile heti suosikkiresepteissäsi, säilytä jääkaapissa kaksi tai kolme päivää, tai pakasta jopa kahdeksi kuukaudeksi."
+    ],
+    "notes": [
+      "Tempehiä voi tehdä lähes mistä tahansa palkokasvista (pavut, kikherneet, herneet), useimmista viljoista ja joistakin pähkinöistä. Soijapavut ovat yksi edullisimmista, mutta maukkaammat pavut tekevät maukkaamman tempehin.",
+      "Tempehiä voi tehdä myös okarasta, soijamaidon ja tofun valmistuksen sivutuotteesta – Indonesiassa tätä kutsutaan tempe gembusiksi.",
+      "Kuorien poistoon on monia tapoja: pavut voi murskata viljamyllyssä ja tuulettaa kuoret pois, jauhaa liotettuja papuja käsin, hiertää liotettuja tai keitettyjä papuja käsien välissä (varo polttamasta itseäsi kuumilla pavuilla), tai ostaa valmiiksi kuorittuja papuja.",
+      "Soijapavut voi keittää helposti painekattilassa 15 psi:n paineessa 10 minuuttia hitaasti paineenpoistolla, tai tavallisessa kattilassa kovassa kiehunnassa 30 minuuttia. Pehmeiksi keitettyjä papuja ei tavoitella, joten älä keitä liian pitkään.",
+      "Tempeh-idun tasainen jakaminen papujen joukkoon voi olla hankalaa. Sekoita itu ensin pariin ruokalusikalliseen riisijauhoa, ja ripottele tämä seos vähitellen papujen sekaan."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-tomato-paste",
+    "title": "Kotitekoinen tomaattisose (tahna)",
+    "description": "Perustomaattitahna, joka valmistetaan hauduttamalla tomaattisosetta hitaasti useita tunteja – säilötään purkkeihin.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 1005,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "vegaaninen", "säilöntä"],
+    "ingredients": [
+      "4 l tomaattisosetta",
+      "2½ dl makeaa punapaprikaa, hienonnettuna",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Kypsennä ainekset miedolla lämmöllä isossa, leveässä ja kannellisessa padassa tunnin ajan.",
+      "Aja seos myllyn läpi useita kertoja, aloittaen karkeimmasta siivilästä ja edeten hienoimpaan.",
+      "Palauta pata liedelle ja kuumenna peittämättömänä hyvin miedolla lämmöllä 3 tuntia tai kunnes seos on hyvin paksua, sekoittaen usein palamisen estämiseksi. Käytä lämmönjakajaa tai alustaa. Vesihaude olisi ihanteellinen, koska se estää palamisen, mutta vie enemmän aikaa.",
+      "Kaada uusiin, steriloituihin ½ pintin (n. 240 ml) säilöntäpurkkeihin jättäen noin 0,6 cm tilaa yläreunaan. Peitä uusilla kansilla ja kierrä renkaat kiinni tiukasti mutta ei liian tiukkaan. Käsittele kiehuvassa vesihauteessa 45 minuuttia. Nosta purkit pihdeillä pois vedestä ja anna jäähtyä ylösalaisin käännetyn uuniritilän päällä 12 tuntia. Testaa sulkeutuminen painamalla kannen keskeltä etusormella. Jos kansi ei liiku, poista ulkorengas. Säilytä viileässä, kuivassa ja pimeässä paikassa."
+    ],
+    "notes": [
+      "Tämä on nopeampaa kuin yrittää puristaa sose hienon siivilän läpi yhdellä kertaa.",
+      "Tarkista purkit aina halkeamien tai lohkeamien varalta ja hylkää vialliset."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-tortilla-chips",
+    "title": "Kotitekoiset tortillasirut",
+    "description": "Rapeat, uppopaistetut sirut maissitortilloista – helppo naposteltava.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "naposteltava"],
+    "ingredients": [
+      "1 pussi maissitortilloja",
+      "ruokaöljyä paistamiseen",
+      "suolaa tai maustesuolaa"
+    ],
+    "instructions": [
+      "Täytä kattila noin 5 cm:n öljykerroksella.",
+      "Kiinnitä paistolämpömittari kattilan reunaan niin, että kärki on öljyssä mutta ei kosketa pohjaa.",
+      "Kuumenna öljy 180 asteeseen.",
+      "Viipaloi pino tortilloja puoliksi keskeltä.",
+      "Pinoa puolikkaat yhteen ja leikkaa jälleen keskeltä neljäsosiksi.",
+      "Pinoa neljäsosat ja leikkaa kahdeksasosiksi.",
+      "Pudota tortillapalat varovasti kuumaan öljyyn kourallinen kerrallaan.",
+      "Kun alkuhöyry on haihtunut, sekoittele varovasti reikäkauhalla tasaisen paistumisen varmistamiseksi.",
+      "Kun sirut ovat kullanruskeita (noin 2 minuuttia), nosta ne pois reikäkauhalla.",
+      "Valuta talouspaperin päällä ja mausta kevyesti suolalla tai maustesuolalla."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-wheat-tortillas",
+    "title": "Kotitekoiset vehnätortillat",
+    "description": "Pehmeät vehnäjauhotortillat, meksikolaisen ja Keski-Amerikan keittiön klassikko.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "leivonta"],
+    "ingredients": [
+      "9½ dl vaaleita vehnäjauhoja",
+      "2 tl suolaa",
+      "2 rkl sianihraa tai leivontarasvaa",
+      "3½ dl lämmintä vettä, tai enemmän tarvittaessa",
+      "4 tl leivinjauhetta (valinnainen, tekee tortilloista paksumpia ja pureskeltavampia)"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauhot, suola ja leivinjauhe.",
+      "Lisää sianihra tai leivontarasva vähitellen taikinaleikkurilla, haarukalla tai käsin, kunnes se on kokonaan sekoittunut.",
+      "Lisää riittävästi lämmintä vettä pehmeän mutta ei tahmean taikinan saamiseksi.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle ja vaivaa 5 minuuttia.",
+      "Jaa taikina noin 90 g:n palasiin ja pyörittele palloiksi.",
+      "Kauli jokainen pallo noin 15 cm:n läpimittaiseksi ja 0,3 cm paksuksi levyksi. Voit käyttää myös tortillapuristinta.",
+      "Kuumenna iso paksupohjainen paistinpannu keskikovalla–kovalla lämmöllä.",
+      "Paista tortillat yksi kerrallaan kuivalla (tai hyvin kevyesti öljytyllä) kuumalla pannulla, kunnes toiselle puolelle tulee ruskeita läikkiä, käännä ja ruskista toinen puoli (noin minuutti per puoli).",
+      "Nosta pannulta ja pidä lämpiminä liinan alla."
+    ]
+  },
+  {
+    "id": "wikibooks-homestyle-fried-potatoes",
+    "title": "Kotitekoiset paistetut perunat",
+    "description": "Kaksivaiheisesti uppopaistetut perunalohkot – ensin kypsytetään, sitten rapeutetaan kuumemmassa öljyssä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "peruna", "amerikkalainen"],
+    "ingredients": [
+      "450 g Russet-perunoita, 5 cm paloina",
+      "suolaa",
+      "tuoreesti jauhettua mustapippuria",
+      "2 l oliiviöljyä (ei ekstra-neitsytöljyä)",
+      "smetanaa (valinnainen)",
+      "hienonnettua ruohosipulia (valinnainen)"
+    ],
+    "instructions": [
+      "Laita perunapalat hyvin kylmään veteen. Anna seistä, kunnes huuhdellusta perunasta valuu kirkasta vettä.",
+      "Kuumenna öljy frituurikeittimessä tai isossa kattilassa 165 asteeseen. Lisää perunat erissä ja uppopaista, ajoittain sekoittaen, kunnes perunat ovat pehmeitä ja vain hieman ruskistuneita. Valuta ritilällä sanomalehden päällä.",
+      "Nosta öljyn lämpötila 190 asteeseen. Lisää perunat uudelleen erissä ja paista kultaisen ruskeiksi ja rapeiksi.",
+      "Kun kaikki perunat on paistettu ja valutettu ritilällä, ripottele niihin runsaasti suolaa ja mustapippuria. Pyörittele tasaisesti ja tarjoile halutessa smetanan ja ruohosipulin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-hominy-bread",
+    "title": "Hominy-leipä",
+    "description": "Pehmeä maissileipä, jossa on keitettyä hominy-maissigryyniä – parasta lämpimänä aamiaisella voin tai hunajan kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "leivonta", "amerikkalainen", "aamiainen"],
+    "ingredients": [
+      "5 dl keitettyä hominy-maissigryyniä",
+      "2½ dl maissijauhoja",
+      "1 rkl leivinjauhetta",
+      "vajaa tl suolaa",
+      "2 rkl voita",
+      "2 kananmunaa",
+      "3½ dl maitoa",
+      "3 rkl sokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 175 asteeseen.",
+      "Yhdistä isossa kulhossa maissigryyni, maissijauhot, leivinjauhe, suola, voi ja sokeri.",
+      "Vatkaa toisessa kulhossa 2 kananmunaa kunnolla, lisää sitten maito ja sekoita täysin.",
+      "Lisää muna-maitoseos kuiva-aineisiin.",
+      "Rasvaa iso uunivuoka tai 2 vuokaleipävuokaa. Kaada seos vuokaan/vuokiin.",
+      "Paista esilämmitetyssä uunissa 35 minuuttia, kunnes leipä on kullanruskea ja veitsi tulee puhtaana ulos."
+    ],
+    "notes": ["Tämä leipä on parhaimmillaan lämpimänä aamiaisella voin tai hunajan kanssa."]
+  },
+  {
+    "id": "wikibooks-hominy-grits",
+    "title": "Hominy-grynerouhe",
+    "description": "Yksinkertainen keitetty maissigrynerouhe, makeutettuna halutessaan hunajalla tai vaahterasiirapilla.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "12 dl vettä",
+      "2½ dl hominy-grynerouhetta",
+      "1 rkl voita",
+      "1 rkl hunajaa, fariinisokeria tai vaahterasiirappia (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kovaan kiehuntaan kattilassa.",
+      "Lisää grynerouhe vähitellen sekoittaen.",
+      "Laske lämpö matalaksi.",
+      "Sekoita joukkoon voi.",
+      "Kypsennä 20 minuuttia tai kunnes vesi on imeytynyt.",
+      "Makeuta halutessasi hunajalla, fariinisokerilla, vaahterasiirapilla tai hyytelöllä.",
+      "Tarjoile kuumana."
+    ],
+    "notes": ["Grynerouhetta voi maustaa myös juustolla, paistetulla kananmunalla tai pienillä paloilla kinkkua tai makkaraa."]
+  },
+  {
+    "id": "wikibooks-honey-apple-glazed-pork",
+    "title": "Hunaja-omenaglaseerattu possunpaisti",
+    "description": "Mausteisella rubilla hierottu possunlapapaisti, jonka pintaan paistetaan makea omena-hunajaglaseeraus.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "¼ tl mustapippuria",
+      "1½ rkl vehnäjauhoja",
+      "1 tl sinappijauhetta",
+      "½ tl kuivattua salviaa",
+      "1 tl suolaa",
+      "1,5 kg possun lapapaistia",
+      "2½ dl omenasosetta",
+      "¼ tl kanelia",
+      "¾ dl hunajaa",
+      "¼ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 165 asteeseen.",
+      "Sekoita keskenään pippuri, jauhot, sinappijauhe, salvia ja suola rubiksi.",
+      "Hiero rub possunpaistiin ja siirrä sivuun.",
+      "Vuoraa uunivuoka foliolla ja suihkuta sitä paistosuihkeella.",
+      "Aseta paisti vuokaan ja paista 30 minuuttia.",
+      "Sekoita keskenään omenasose, kaneli, hunaja ja muskottipähkinä glaseeraukseksi.",
+      "Ota paisti uunista ja sivele glaseerauksella.",
+      "Palauta glaseerattu paisti uuniin ja paista, kunnes sisälämpötila on 74 astetta, noin 50–60 minuuttia lisää."
+    ],
+    "notes": ["Hyvää bataatin ja vihreiden papujen kanssa."]
+  },
+  {
+    "id": "wikibooks-honey-apple-marinade",
+    "title": "Hunaja-omenamarinadi",
+    "description": "Makea ja savuinen marinadi, joka on tehty erityisesti possunlihaa varten.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "marinadi", "amerikkalainen"],
+    "ingredients": [
+      "2½ dl omenasiideriä",
+      "½ dl omenaviinietikkaa",
+      "½ dl hunajaa",
+      "½ tl suolaa",
+      "½ tl tuoreesti jauhettua mustapippuria",
+      "2 rkl savupaprikaa"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset keskenään.",
+      "Säilytä jääkaapissa, käytä 3 viikon kuluessa."
+    ]
+  },
+  {
+    "id": "wikibooks-honey-bbq-hot-wings",
+    "title": "Hunaja-bbq-tulisiivet",
+    "description": "Uppopaistetut kanansiivet, joiden pinnalle tulee makea-tulinen bbq-kastike.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilliruoka", "tulinen", "amerikkalainen"],
+    "ingredients": [
+      "24 kanansiiven osaa",
+      "suolaa",
+      "mustapippuria",
+      "1¼ dl tomaattipyreetä",
+      "2 rkl hunajaa",
+      "2 rkl siiderietikkaa",
+      "2 rkl tulista kastiketta",
+      "öljyä uppopaistamiseen"
+    ],
+    "instructions": [
+      "Ripottele siipiin suolaa ja mustapippuria.",
+      "Kuumenna öljy 175 asteeseen.",
+      "Uppopaista siivet erissä 11–12 minuuttia. Valuta ritilällä.",
+      "Yhdistä nestemäiset ainekset öljyä lukuun ottamatta.",
+      "Kiehauta keskikovalla–kovalla lämmöllä, kunnes kastike on vähentynyt noin 1½ dl:aan.",
+      "Ota pois liedeltä ja anna vetäytyä 5 minuuttia.",
+      "Pyörittele siivet kastikkeessa; tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-honey-bourbon-marinade",
+    "title": "Hunaja-bourbonmarinadi",
+    "description": "Makea ja hieman savuinen marinadi lihalle, jossa bourbon tuo syvyyttä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["marinadi", "amerikkalainen", "liha"],
+    "ingredients": [
+      "½ dl hunajaa",
+      "½ dl bourbonia",
+      "1 rkl suolaa",
+      "1 rkl tuoreesti jauhettua mustapippuria",
+      "2 rkl Worcestershire-kastiketta",
+      "3 rkl siiderietikkaa"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset purkkiin tai pakastepussiin.",
+      "Säilytä jääkaapissa, käytä 2 viikon kuluessa."
+    ]
+  },
+  {
+    "id": "wikibooks-honey-garlic-chicken",
+    "title": "Hunaja-valkosipulikana",
+    "description": "Nopea arkiruoka, jossa kanapalat paistetaan hunajan ja valkosipulin kanssa paksuksi, tummaksi kastikkeeksi.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea", "arkiruoka"],
+    "ingredients": [
+      "2 broilerin rintafileetä",
+      "oliiviöljyä",
+      "hunajaa",
+      "¼–½ valkosipulinkynttä, hienonnettuna"
+    ],
+    "instructions": [
+      "Paloittele kananrintafileet pieniksi paloiksi.",
+      "Levitä ohut kerros oliiviöljyä paistinpannulle.",
+      "Lisää kanapalat pannulle.",
+      "Peitä kana hunajalla ja lisää valkosipuli.",
+      "Paista keskilämmöllä, kunnes seos paksuuntuu ja tummuu ja kana on kypsää. Älä anna kypsyä liian pitkään, sillä kastike voi palaa."
+    ]
+  },
+  {
+    "id": "wikibooks-honey-gingerbread-cookies",
+    "title": "Hunajapiparkakut",
+    "description": "Yksinkertaiset mausteiset keksit, joiden pinnan voi halutessaan koristella sokerikuorrutteella.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "joulu", "leivonta"],
+    "ingredients": [
+      "Taikina:",
+      "500 g vehnäjauhoja",
+      "125 g voita",
+      "190 g tomusokeria",
+      "1 rkl hunajaa",
+      "3 kananmunaa (2 taikinaan, 1 siveltäväksi)",
+      "1 tl kanelia",
+      "1 tl ruokasoodaa",
+      "4 neilikkaa, jauhettuna",
+      "Kuorrute:",
+      "1 munanvalkuainen",
+      "150 g tai enemmän tomusokeria"
+    ],
+    "instructions": [
+      "Yhdistä kulhossa kaikki taikinan ainekset yhtä munaa lukuun ottamatta, ja sekoita, kunnes taikina on sileää.",
+      "Laita viimeinen muna kuppiin tai pieneen kulhoon ja vatkaa se.",
+      "Jaa taikina 5–6 osaan. Ota yksi osa ja kauli se noin 3 mm paksuiseksi.",
+      "Leikkaa muotoja keksileikkureilla. Siirrä keksit leivinpaperilla vuoratulle pellille.",
+      "Kun pelti on täynnä, sivele keksit vatkatulla munalla.",
+      "Paista 180 asteessa muutama minuutti, kunnes keksit ovat vaaleanruskeita.",
+      "Toista loppu taikinan kanssa.",
+      "Sekoita munanvalkuainen ja tomusokeri kuorrutteeksi. Lisää tarvittaessa lisää sokeria, jos seos ei ole tarpeeksi kiinteää.",
+      "Laita kuorrute pursotinpussiin tai muovipussiin. Leikkaa pieni reikä (n. 1 mm) kärkeen.",
+      "Purista pussia pursottaaksesi kuorrutetta ja koristele keksit."
+    ]
+  }
+]

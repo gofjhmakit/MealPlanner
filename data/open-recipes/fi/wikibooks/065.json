@@ -1,0 +1,683 @@
+[
+  {
+    "id": "wikibooks-indian-mango-chilli-powder-and-cumin-condiment-chhundo",
+    "title": "Intialainen mango-chili-kuminamauste (Chhundo)",
+    "description": "Makea ja tulinen gujaratilainen mausteinen säilyke, jota syödään rotin ja sabzin kanssa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["intialainen", "mango", "säilyke", "tulinen"],
+    "ingredients": [
+      "1 kg mangoja, siemenet poistettuina",
+      "2 tl chilijauhetta",
+      "2 tl jauhettua kuminaa",
+      "25 g suolaa",
+      "2 tl kurkumaa",
+      "600 g sokeria"
+    ],
+    "instructions": [
+      "Kuori ja raasta mangot hienoksi.",
+      "Sekoita raastettu mango tasaisesti muiden aineiden kanssa.",
+      "Levitä seos matalaan, leveäsuiseen purkkiin ja peitä ohuella kankaalla.",
+      "Pidä seosta auringossa 5 päivän ajan, kunnes siirappi saavuttaa yksisäikeisen koostumuksen. Sekoita kolme kertaa päivässä."
+    ],
+    "notes": [
+      "Tämä on perusresepti. Tulisemman version saa lisäämällä chilijauhetta muiden aineiden joukkoon sekoitusvaiheessa.",
+      "Säilyy lasipulloissa huoneenlämmössä."
+    ]
+  },
+  {
+    "id": "wikibooks-indian-moong-dal",
+    "title": "Intialainen moong dal",
+    "description": "Perinteinen intialainen tapa valmistaa moong dal -linssejä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "linssi", "kasvis"],
+    "ingredients": [
+      "1¼ dl keltaisia mungpapuja (moong dal)",
+      "3 vihreää chiliä",
+      "½ tl kurkumaa",
+      "4 dl vettä",
+      "suolaa maun mukaan",
+      "2 rkl ruokaöljyä tai ghee-voita",
+      "1 oksa currynlehtiä",
+      "1 tl juustokuminaa (jeera)"
+    ],
+    "instructions": [
+      "Yhdistä dal, vihreät chilit, kurkuma ja vesi painekeittimeen. Kypsennä 15 minuuttia, ja anna painekeittimen vapauttaa höyry itsestään.",
+      "Avaa painekeitin ja muusaa kypsennetty dal. Lisää suolaa maun mukaan. Lisää tarvittaessa vettä, jos seos on liian paksua, ja kuumenna keskilämmöllä.",
+      "Kuumenna öljy tai ghee-voi paistinpannussa, lisää sitten juustokumina ja currynlehdet. Kun ne alkavat sihistä, kaada seos kypsennetyn dalin päälle.",
+      "Tarjoile kuumana riisin tai rotin kanssa."
+    ],
+    "notes": [
+      "Kokeile lisätä 1 tl hienonnettua sipulia tai salottisipulia, joka on ensin ruskistettu öljyssä.",
+      "Myös öljyssä paistettuja sinapinsiemeniä voi lisätä.",
+      "Lastenystävällisempään, miedompaan versioon: valmista dal kuten yllä, kaada pinnalla oleva vesi talteen. Muusaa dal osittain ja mausta hieman kurkumalla, hyppysellisellä asafetidaa, palalla ruokosokeria ja suolalla. Lisää talteen otettua vettä, kunnes koostumus on keittomaista, ja keitä 2–3 minuuttia. Tarjoile lisätyn ghee-voin kanssa.",
+      "Ravintolatyyliseen versioon: kuumenna öljyä pannussa, lisää kuminansiemeniä, murskattua valkosipulia, raastettua inkivääriä ja revittyjä vihreitä chilejä, ja kypsennä kunnes sihinä laantuu. Lisää kurkumaa ja hienonnettuja tomaatteja, ja kuullota hyvin. Sekoita joukkoon kypsennetty dal ja talteen otettu vesi niin, että koostumus on keittomaista. Mausta suolalla ja pidä lämpimänä. Valmista erikseen vielä yksi mauste-öljy kuminansiemenistä, asafetidasta ja revityistä kuivatuista chileistä, lisää joukkoon chilijauhetta, ja kaada seos dalin päälle juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-indian-omelet",
+    "title": "Intialainen munakas",
+    "description": "Munakas, jota kutsutaan intialaiseksi sen intialaisten mausteiden ja vihannesten vuoksi.",
+    "servings": 2,
+    "category": "Aamiainen",
+    "tags": ["intialainen", "muna", "aamiainen", "kasvis"],
+    "ingredients": [
+      "4 isoa kananmunaa",
+      "2½ dl hienonnettua sipulia",
+      "1¼ dl hienonnettuja tomaatteja",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "½ tl kuminansiemeniä",
+      "hienonnettua korianteria maun mukaan",
+      "hienonnettua tulista vihreää chiliä maun mukaan",
+      "chilijauhetta maun mukaan",
+      "öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Vatkaa munat kevyesti pienessä kulhossa. Lisää kaikki muut ainekset ja sekoita kunnolla.",
+      "Kuumenna paistinpannu liedellä ja sivele pinnalle ohut kerros öljyä.",
+      "Kaada kulhon sisältö pannulle.",
+      "Ruskista kevyesti toiselta puolelta.",
+      "Käännä ja ruskista kevyesti toiselta puolelta."
+    ]
+  },
+  {
+    "id": "wikibooks-indian-potatoes",
+    "title": "Intialaiset perunat",
+    "description": "Erittäin kermainen ja runsas ruoka, joka sopii hyvin intialaisten papujen ja intialaisen riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["intialainen", "peruna", "kookosmaito", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "6 pientä perunaa, kuorittuna ja puolitettuna",
+      "2 tlk kookosmaitoa",
+      "½ tlk tomaatteja",
+      "2 kynttä valkosipulia, hienonnettuna",
+      "½ tl chilihiutaleita",
+      "oliiviöljyä",
+      "suolaa maun mukaan"
+    ],
+    "instructions": [
+      "Kuullota valkosipuli oliiviöljyssä.",
+      "Lisää tomaatit. Kypsennä 10 minuuttia, kunnes öljy ja tomaatit erottuvat toisistaan (ne alkavat kuplia).",
+      "Sekoita joukkoon kookosmaito.",
+      "Lisää chilihiutaleet ja suolaa maun mukaan. Kuumenna kiehuvaksi.",
+      "Lisää perunat. Kypsennä keski-miedolla lämmöllä, kunnes perunat ovat kypsiä. Niistä tulee melko pehmeitä; tarkista kypsyys haarukalla."
+    ]
+  },
+  {
+    "id": "wikibooks-indian-pudding",
+    "title": "Intiaanivanukas",
+    "description": "Perinteinen uunissa paistettu maissijauhovanukas, jota maustetaan siirapilla ja mausteilla.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["amerikkalainen", "maissi", "jälkiruoka", "uunissa paistettu"],
+    "ingredients": [
+      "9½ dl maitoa",
+      "2½ dl kylmää vettä",
+      "6 rkl maissijauhoa",
+      "½ tl suolaa",
+      "2½ dl siirappia (melassia)",
+      "1 tl ruokasoodaa",
+      "3 rkl fariinisokeria",
+      "½ tl muskottipähkinää",
+      "1 rkl inkivääriä",
+      "½ tl kanelia",
+      "4 munankeltuaista, vatkattuna",
+      "4 munanvalkuaista, vaahdoksi vatkattuna"
+    ],
+    "instructions": [
+      "Ota talteen 1¼ dl maidosta. Kuumenna loput maidosta kiehuvaksi.",
+      "Kostuta maissijauho kylmällä vedellä.",
+      "Kaada maissijauhoseos hitaasti kiehuvaan maitoon. Lisää suola.",
+      "Keitä 15 minuuttia jatkuvasti sekoittaen. Jos pinnalle muodostuu kalvo, poista se. Nosta lämmöltä ja laita sivuun.",
+      "Sekoita pienessä kulhossa siirappi, ruokasooda, talteen otettu maito ja fariinisokeri.",
+      "Lisää mausteet ja vatkatut munankeltuaiset tähän seokseen.",
+      "Kaada siirappiseos hitaasti maissijauhoseoksen joukkoon.",
+      "Taita joukkoon vaahdotetut munanvalkuaiset.",
+      "Voitele uunivuoka, lisää taikina, ja paista 1 tunti 175 asteessa."
+    ]
+  },
+  {
+    "id": "wikibooks-indian-rice",
+    "title": "Intialainen riisi",
+    "description": "Erinomainen lisuke, joka sopii monen ruokalajin, kuten tulisen munakoison, tofun tai kookoskastikkeessa olevien perunoiden kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["intialainen", "riisi", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "2 tl oliiviöljyä",
+      "1 tl kuminaa",
+      "1¼ dl rusinoita",
+      "½ dl cashewpähkinöitä",
+      "5 dl basmatiriisiä",
+      "10 dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy padassa.",
+      "Lisää kumina, sitten rusinat ja cashewpähkinät. Kuullota kaksi minuuttia.",
+      "Lisää riisi, ja kuullota vielä minuutti.",
+      "Lisää vesi ja kuumenna kiehuvaksi.",
+      "Laske lämpöä, peitä ja kypsennä 12 minuuttia."
+    ],
+    "notes": [
+      "Basmatiriisi on suositeltavaa, sillä muut riisilajit saattavat epäonnistua. Älä käytä italialaista risottoriisiä tai muuta tahmeaa riisiä."
+    ]
+  },
+  {
+    "id": "wikibooks-indonesian-fried-chicken-ayam-goreng-kuning",
+    "skip": "Liian puutteellinen valmistettavaksi: resepti ei sisällä lainkaan määriä."
+  },
+  {
+    "id": "wikibooks-indonesian-style-fried-rice",
+    "title": "Indonesialaistyylinen paistettu riisi",
+    "description": "Suosittu indonesialainen ruokalaji, täyteläinen paistettu riisi monipuolisin lisukkein.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["indonesialainen", "riisi", "kana", "katkarapu"],
+    "ingredients": [
+      "5 rkl rypsiöljyä",
+      "3 munaa, vatkattuna",
+      "3 kynttä valkosipulia, murskattuna",
+      "3 punaista chiliä, hienonnettuna",
+      "100 g soijaidättä, huuhdeltuna",
+      "75 g herneitä, huuhdeltuna",
+      "3 vartta kevätsipulia, 1 cm paloiksi leikattuna",
+      "150 g katkarapuja tai kanaa, kuutioituna",
+      "500 g kypsennettyä valkoista riisiä",
+      "2 tl suolaa",
+      "¾ tl mustapippuria",
+      "2 tl kevyttä soijakastiketta",
+      "2 katkarapulastua",
+      "3 tl sekapikkelsiä",
+      "1 paistettu kananmuna",
+      "10 kanasatayvartasta",
+      "1 annos paistettua kanaa"
+    ],
+    "instructions": [
+      "Kuumenna 2 rkl öljyä pannussa. Lisää vatkatut munat ja paista sekoittaen munakokkelin tapaan. Siirrä riisin päälle.",
+      "Kuumenna 3 rkl öljyä, lisää valkosipuli ja punaiset chilit, ja paista, kunnes tuoksuvia.",
+      "Lisää katkaravut tai kana pannuun, ja kypsennä, kunnes väri muuttuu.",
+      "Lisää herneet, idut ja kevätsipuli. Lisää riisi ja munakokkeli, ja kypsennä 5 minuuttia.",
+      "Lisää suola, pippuri ja kevyt soijakastike. Kypsennä, kunnes riisi on pehmentynyt.",
+      "Lisää paistetun riisin päälle paistettu kananmuna, paistettu kana, sekapikkelsit, katkarapulastut ja kanasatay.",
+      "Jaa annoksiksi ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-indulgent-chocolate-torte",
+    "title": "Ylellinen suklaatorttu",
+    "description": "Täyteläinen suklaatorttu, jossa on oma suklaakuorrute ja karamellikastike sekä suklaakiehkuroin ja pekaanipähkinöin koristeltu pinta.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["suklaa", "kakku", "karamelli", "jälkiruoka"],
+    "ingredients": [
+      "Kakku:",
+      "2½ dl puolimakeaa suklaarouhetta",
+      "1¼ dl margariinia tai voita",
+      "1¼ dl vehnäjauhoja",
+      "4 munaa, erotettuina",
+      "1¼ dl valkoista sokeria",
+      "Suklaakuorrute (n. 1¼ dl):",
+      "28 g sokeroimatonta suklaata",
+      "1 tl margariinia tai voita",
+      "2½ dl tomusokeria",
+      "5 tl kiehuvaa vettä",
+      "Karamellikastike (n. 4 dl):",
+      "2½ dl pakattua fariinisokeria",
+      "1¼ dl kuohukermaa",
+      "½ dl maissisiirappia",
+      "1 rkl margariinia tai voita",
+      "2 tl kanelia",
+      "Koristelu:",
+      "1 levy suklaata",
+      "2 dl rouhittuja pekaanipähkinöitä (valinnainen)"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 165 asteeseen.",
+      "Voitele 23 cm läpimittainen, korkeareunainen irtopohjavuoka.",
+      "Kuumenna suklaarouhe ja margariini kattilassa keskilämmöllä, kunnes suklaa sulaa. Anna jäähtyä 5 minuuttia.",
+      "Sekoita joukkoon vehnäjauhot, kunnes tasaista.",
+      "Sekoita joukkoon munankeltuaiset, kunnes hyvin yhdistyneet.",
+      "Vatkaa munanvalkuaiset isossa kulhossa suurella nopeudella, kunnes vaahtoavia.",
+      "Vatkaa joukkoon sokeri, ruokalusikallinen kerrallaan, kunnes pehmeitä huippuja muodostuu.",
+      "Taita suklaaseos munanvalkuaisvaahtoon.",
+      "Levitä taikina voideltuun irtopohjavuokaan.",
+      "Paista 35–40 minuuttia, kunnes kakun pinta näyttää kuivalta ja halkeilleelta. Anna jäähtyä 10 minuuttia.",
+      "Kuorruteen: kuumenna suklaa ja margariini miedolla lämmöllä, kunnes sulaneet.",
+      "Sekoita joukkoon tomusokeri ja vesi, kunnes tasaista.",
+      "Lisää tarvittaessa lisää kiehuvaa vettä, ½ tl kerrallaan, kunnes kuorrute on valuvaa.",
+      "Kastikkeeseen: kuumenna kaikki ainekset kiehuvaksi keskilämmöllä, jatkuvasti sekoittaen, ja laske sitten lämpö miedoksi.",
+      "Hauduta ilman kantta 5 minuuttia.",
+      "Kiehkuroihin: anna suklaalevyn seistä lämpimässä paikassa noin 15 minuuttia ennen kiehkuroiden tekemistä. Mitä paksumpi suklaalevy, sitä suurempia kiehkuroista tulee.",
+      "Aseta suklaa leivinpaperin päälle. Tee kiehkuroita vetämällä kasviskuorijaa itseäsi kohti suklaan tasaisinta reunaa pitkin, painaen tasaisesti pitkin, ohuin vedoin. Pienempiä kiehkuroita saa käyttämällä suklaalevyn sivua.",
+      "Siirrä jokainen kiehkura varovasti hammastikulla leivinpaperin päälle.",
+      "Irrota kakku reunoista veitsellä ja poista vuoan reuna. Anna kakun jäähtyä kokonaan.",
+      "Aseta tarjoilulautaselle.",
+      "Levitä kakun päälle suklaakuorrute ja valuta päälle karamellikastiketta.",
+      "Koristele suklaakiehkuroilla ja pekaanipähkinöillä."
+    ]
+  },
+  {
+    "id": "wikibooks-inguday-tibs-ethiopian-mushroom-stir-fry",
+    "title": "Inguday Tibs (etiopialainen sienipaistos)",
+    "description": "Maukas ja aromikas etiopialainen kasvisruoka kuullotetuista sienistä, sipulista ja mausteseoksesta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["etiopialainen", "sieni", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 iso sipuli, ohuesti viipaloituna",
+      "3 kynttä valkosipulia, hienonnettuna",
+      "1 rkl raastettua inkivääriä",
+      "1 tl berbere-mausteseosta",
+      "½ tl paprikajauhetta",
+      "½ tl kuminaa",
+      "¼ tl kurkumaa",
+      "¼ tl cayennepippuria, tai maun mukaan",
+      "suolaa maun mukaan",
+      "mustapippuria maun mukaan",
+      "450 g tuoreita sieniä, viipaloituna",
+      "2 rkl soijakastiketta",
+      "2 rkl sitruunamehua",
+      "tuoretta persiljaa tai korianteria koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa paistinpannussa tai wokissa keskilämmöllä. Lisää ohuesti viipaloitu sipuli ja kuullota läpikuultavaksi.",
+      "Lisää hienonnettu valkosipuli ja raastettu inkivääri, ja kypsennä vielä minuutti, kunnes tuoksuvia.",
+      "Lisää berbere-mausteseos, paprikajauhe, kumina, kurkuma, cayennepippuri, suola ja pippuri. Sekoita hyvin, jotta sipuli, valkosipuli ja inkivääri peittyvät mausteilla.",
+      "Lisää viipaloidut sienet pannuun ja sekoita mausteseoksen joukkoon. Kypsennä noin 5–7 minuuttia, kunnes sienet ovat pehmeitä ja hieman ruskistuneita.",
+      "Valuta soijakastike ja sitruunamehu sienten päälle, ja sekoita, jotta maut jakautuvat tasaisesti.",
+      "Maista ja säädä suolan ja pippurin määrää tarvittaessa.",
+      "Nosta lämmöltä ja koristele tuoreella hienonnetulla persiljalla tai korianterilla.",
+      "Tarjoile kuumana pääruokana tai lisukkeena injeran tai riisin kanssa."
+    ],
+    "notes": [
+      "Säädä tulisuutta lisäämällä tai vähentämällä cayennepippuria.",
+      "Käytä useamman lajin sieniä lisämaun ja -rakenteen saamiseksi.",
+      "Älä ahtaa pannua liikaa sieniä paistaessa; paista tarvittaessa erissä.",
+      "Lisää halutessasi paprikaa, porkkanaa tai vihreitä papuja.",
+      "Täydellisempään ateriaan lisää tofua, seitania tai kypsennettyjä kikherneitä."
+    ]
+  },
+  {
+    "id": "wikibooks-injera-ethiopian-teff-flatbread",
+    "title": "Injera (etiopialainen teff-litteäleipä)",
+    "description": "Etiopiassa ja Eritreassa syöty käynyt litteäleipä, joka valmistetaan teffijauhosta. Käyminen antaa leivälle ilmavan, kuplaisen rakenteen ja hapokkaan maun.",
+    "servings": 6,
+    "cookTimeMin": 5,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["etiopialainen", "käynyt", "leipä", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "2½ dl teffijauhoa",
+      "4 dl haaleaa (ei kuumaa) vettä",
+      "1 ripaus suolaa",
+      "öljyä paistamiseen",
+      "käymisen starttiainetta (valinnainen, ks. huomautukset)"
+    ],
+    "instructions": [
+      "Sekoita jauho veden ja suolan kanssa. Lisää käymisen starttiaine, jos käytät.",
+      "Anna käydä yön yli, tai vähintään 12 tuntia. Pinnalle tulisi muodostua kuplia käymisen merkiksi ennen käyttöä.",
+      "Kuumenna iso, litteä pannu niin kuumaksi, että vesipisara sihisee sen pinnalla. Öljyä pannu hyvin kevyesti, juuri sen verran että se kiiltää.",
+      "Kaada tai kauho taikinaa pannulle spiraalina keskeltä ulospäin. Vain ohut kerros riittää—hieman paksumpi kuin crêpe, mutta ei paljon.",
+      "Kypsennessä injeran pinta täyttyy rei'istä ja kuopista. Kun koko injera on vaihtanut väriä ja reunat alkavat irrota pannusta, nosta se pois ja laita sivuun. Kaada seuraava injera ja toista, kunnes taikina on käytetty."
+    ],
+    "notes": [
+      "Jos taikina ei käy itsestään, kokeile hyvää käymisen starttiainetta, esimerkiksi teelusikallista kefiiriä. Pelkkä leivinhiiva ei anna hyvää makua, sillä myös bakteereja tarvitaan, mutta teelusikallinen jogurttia ja hyppysellinen hiivaa voi toimia, jos kefiiriä ei ole saatavilla.",
+      "Perinteinen injera tehdään teffistä, mutta jos sitä on vaikea saada, sen voi tehdä myös durrasta tai vehnäjauhosta.",
+      "Koska teffi on usein kallista Afrikan ulkopuolella, sitä sekoitetaan usein vehnäjauhoon, jotta injera saa osan teffin mausta pienemmillä kustannuksilla. Sekoita ½ dl teffijauhoa 1½ dl:n kanssa durraa tai vehnäjauhoa yllä olevaan reseptiin."
+    ]
+  },
+  {
+    "id": "wikibooks-instant-chocolate-mousse",
+    "title": "Pikasuklaamousse",
+    "description": "Nopeasti valmistettava suklaamousse, joka piilotetaan suklaakuppeihin ja koristellaan kirsikoilla.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["suklaa", "mousse", "jälkiruoka"],
+    "ingredients": [
+      "60 g sokeroimatonta kaakaojauhetta",
+      "90 ml kuumaa suodatinkahvia",
+      "1 ripaus suolaa",
+      "5 dl kuohukermaa",
+      "80 g tomusokeria",
+      "28 g kirssilikööriä tai kahvilikööriä (valinnainen)",
+      "6 suklaakuppia tai -kuorta",
+      "1 pieni suklaalevy koristeluun",
+      "6 marascinokirsikkaa"
+    ],
+    "instructions": [
+      "Vatkaa kulhossa kaakaojauhe, kahvi ja suola yhteen. Seoksen tulisi muistuttaa koostumukseltaan sulanutta suklaata. Jos se on liian paksua, vatkaa joukkoon vielä ruokalusikallinen kahvia. Laita sivuun.",
+      "Vatkaa isossa kulhossa sähkövatkaimella keskinopealla kuohukerma minuutin ajan.",
+      "Lisää tomusokeri ja vatkaa vielä minuutin ajan.",
+      "Lisää liköri ja kaakao-kahviseos.",
+      "Vatkaa suurella nopeudella, kunnes kovia huippuja muodostuu, noin vielä minuutin ajan.",
+      "Lusikoi mousse pussiin tai pursotuspussiin, ja kierrä yläpää kiinni.",
+      "Leikkaa saksilla yksi kulma auki (noin 1,25 cm:n matkalta).",
+      "Asettele suklaakupit tarjoiluastioille. Jos kupit eivät pysy tasaisesti, laita niiden alle tilkka moussea.",
+      "Purista pussia, jotta mousse valuu suklaakuppeihin.",
+      "Raasta kasviskuorijalla suklaalevyä moussen päälle niin, että osa lastuista putoaa myös lautaselle.",
+      "Lisää jokaisen moussen päälle kirsikka."
+    ],
+    "notes": [
+      "Laita jääkaappiin, jos et syö heti."
+    ]
+  },
+  {
+    "id": "wikibooks-instant-pot-beans",
+    "title": "Painekeittimen pavut",
+    "description": "Perusresepti papujen keittämiseen Instant Pot -painekeittimessä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["papu", "painekeitin", "kasvis"],
+    "ingredients": [
+      "7½ dl kuivattuja papuja, lajiteltuna",
+      "2 l vettä",
+      "½ sipulia, kuorittuna",
+      "3 kynttä valkosipulia, kuorittuna",
+      "suolaa",
+      "kinkkua, kuutioituna (valinnainen)"
+    ],
+    "instructions": [
+      "Liota papuja vedessä 4–12 tuntia. Kaada vesi pois.",
+      "Laita liotetut pavut, vesi, valkosipuli, sipuli ja kinkku painekeittimeen.",
+      "Sulje kansi, sulje venttiili, ja aseta ajastin 35 minuuttiin.",
+      "Anna paineen laskea itsestään tai käytä pikapaineenpoistoa.",
+      "Kun venttiili laskee, poista kansi varovasti.",
+      "Mausta suolalla maun mukaan.",
+      "Tarjoile tai käytä muissa resepteissä, joissa tarvitaan papuja."
+    ],
+    "notes": [
+      "Varmista, että palkokasvien, kuten kidneypapujen, sisältämä myrkyllinen fytohemagglutiniini tuhoutuu kunnolla kypsentämällä pavut perusteellisesti."
+    ]
+  },
+  {
+    "id": "wikibooks-inswa-zambian-fried-flying-ants",
+    "title": "Inswa (sambialaiset paistetut lentävät muurahaiset)",
+    "description": "Perinteinen sambialainen kausiluonteinen herkku paistetuista lentävistä muurahaisista, rapea ja proteiinipitoinen välipala.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["sambialainen", "hyönteinen", "välipala", "paistettu"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "2½ dl tuoreita tai kuivattuja lentäviä muurahaisia",
+      "suolaa maun mukaan",
+      "paprikajauhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy paistinpannussa keskilämmöllä.",
+      "Lisää muurahaiset pannuun ja paista, kunnes rapeita ja kevyesti ruskistuneita.",
+      "Sekoita ja käännä muurahaisia pihdeillä tai lastalla, jotta ne kypsyvät tasaisesti.",
+      "Kun muurahaiset ovat rapeita ja kullanruskeita, nosta talouspaperin päälle valumaan ylimääräinen rasva pois.",
+      "Mausta paistetut muurahaiset suolalla. Halutessasi ripottele päälle paprikajauhetta.",
+      "Tarjoile ainutlaatuisena ja rapeana välipalana suosikkijuomasi kanssa."
+    ],
+    "notes": [
+      "Lentävät muurahaiset ovat kausiluonteisia, joten tätä herkkua nautitaan tyypillisesti tiettyinä vuodenaikoina.",
+      "Puhdista muurahaiset huolellisesti ennen paistamista.",
+      "Inswa on perinteinen ja kestävä proteiininlähde Sambiassa."
+    ]
+  },
+  {
+    "id": "wikibooks-inyama-yisugi-rwandan-grilled-pork",
+    "title": "Inyama y'Isugi (ruandalainen grillattu possu)",
+    "description": "Perinteinen ruandalainen ruoka mehukkaasta grillatusta possusta, joka on marinoitu maukkaassa mausteseoksessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["ruandalainen", "possu", "grillattu"],
+    "ingredients": [
+      "1 rkl rypsiöljyä",
+      "2 kynttä valkosipulia, hienonnettuna",
+      "1 tl raastettua inkivääriä",
+      "1 tl paprikajauhetta",
+      "1 tl cayennepippuria",
+      "1 tl kuminaa",
+      "1 tl korianteria",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "900 g possun ulkofileetä tai kyljystä",
+      "tuoretta sitruunamehua koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Esilämmitä grilli keskikorkealle lämmölle.",
+      "Sekoita pienessä kulhossa rypsiöljy, hienonnettu valkosipuli, raastettu inkivääri, paprikajauhe, cayennepippuri, kumina, korianteri, suola ja mustapippuri tahnaksi.",
+      "Hiero mauste tahna kauttaaltaan possun lihaan niin, että se peittyy tasaisesti.",
+      "Aseta marinoitu possu esilämmitetylle grillille ja paista noin 4–5 minuuttia per puoli, kunnes sisälämpötila on 63 astetta.",
+      "Grillauksen aikana sivele possua jäljelle jääneellä mausteseoksella.",
+      "Kun liha on kypsynyt, nosta se grillistä ja anna levätä muutama minuutti ennen viipalointia.",
+      "Viipaloi grillattu possu ohuiksi suikaleiksi ja tarjoile kuumana. Halutessasi valuta tuoretta sitruunamehua viipaleiden päälle."
+    ],
+    "notes": [
+      "Voimakkaamman maun saat marinoimalla possua vähintään 2 tuntia tai yön yli jääkaapissa.",
+      "Säädä cayennepippurin määrää oman tulisuustoiveesi mukaan.",
+      "Pariutuu hyvin perinteisten ruandalaisten lisukkeiden, kuten isomben (maniokinlehdet munakoisolla) tai grillattujen plantainien kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-iresi-eyin-yoruba-palm-oil-native-rice",
+    "title": "Iresi Eyin (jorubalainen palmuöljyriisi)",
+    "description": "Jorubalainen versio palmuöljyriisistä, joka eroaa suositummasta jorubalaisesta jollofriisistä. Erittäin ravitseva ja helppo valmistaa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["nigerialainen", "riisi", "palmuöljy", "kala"],
+    "ingredients": [
+      "7½ dl riisiä",
+      "2 rkl palmuöljyä",
+      "2 rkl käynyttä heinäpapua (iru)",
+      "2 rkl jauhettua kuivattua katkarapua",
+      "kuivattua monnia tai muuta kuivattua kalaa, liotettuna kuumassa suolavedessä pehmeäksi ja revittynä",
+      "chilijauhetta maun mukaan",
+      "hienonnettua sipulia maun mukaan",
+      "suolaa maun mukaan",
+      "50 g tomaattipyrettä",
+      "porkkanaa, kuutioituna, maun mukaan",
+      "herneitä, tarvittaessa esikeitettynä, maun mukaan"
+    ],
+    "instructions": [
+      "Pese riisi ja esikeitä noin 8 minuuttia. Valuta ja laita sivuun.",
+      "Kuumenna palmuöljy isossa, puhtaassa padassa, kunnes öljyn väri muuttuu.",
+      "Lisää heinäpapu, sipuli, tomaattipyree, kuivattu chili ja vähän vettä. Paista, kunnes kastikkeen tuoksu muuttuu ja siitä tulee aromaattisempi.",
+      "Hauduta keskilämmöllä noin 25 minuuttia, kunnes neste on imeytynyt ja kaikki on kypsää."
+    ]
+  },
+  {
+    "id": "wikibooks-irio-kenyan-mashed-potatoes-with-veggies",
+    "skip": "Liian puutteellinen valmistettavaksi: resepti ei sisällä lainkaan määriä."
+  },
+  {
+    "id": "wikibooks-irish-fruit-cake",
+    "title": "Irlantilainen hedelmäkakku",
+    "description": "Irlannista peräisin oleva versio hedelmäkakusta.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["irlantilainen", "hedelmäkakku", "kasvis"],
+    "ingredients": [
+      "450 g hienoa vehnäjauhoa",
+      "1 ripaus suolaa",
+      "½ tl leivinjauhetta",
+      "3 munaa",
+      "115 g rusinoita",
+      "170 g sokeria",
+      "170 g voita",
+      "55 g sitrushedelmän kuorta",
+      "55 g kuivattuja kirsikoita"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 175 asteeseen.",
+      "Seulo yhteen jauhot, suola ja leivinjauhe.",
+      "Vaahdota voi ja sokeri keskenään; tämä voi kestää 5–10 minuuttia.",
+      "Vatkaa munat joukkoon yksi kerrallaan, sekoittaen jokaisen kokonaan ennen seuraavan lisäämistä.",
+      "Taita joukkoon hedelmät ja sitten kuiva-aineet.",
+      "Siirrä taikina voideltuun ja leivinpaperilla vuorattuun 20 cm kakkuvuokaan.",
+      "Paista uunin keskitasolla 75–90 minuuttia. Tarkista kypsyys 60 minuutin kuluttua.",
+      "Anna kakun jäähtyä huoneenlämpöiseksi vuoassa.",
+      "Siirrä ritilälle, peitä pyyhkeellä ja anna jäähtyä kokonaan."
+    ],
+    "notes": [
+      "Tämä versio reseptistä ei sisällä viskiä. Jos haluat lisätä sitä, se lisätään voin ja sokerin joukkoon. Noin litra riittää.",
+      "Resepti käyttää rusinoita ja kirsikoita, mutta niiden sijaan voi käyttää omenoita, mansikoita tai vadelmia."
+    ]
+  },
+  {
+    "id": "wikibooks-irish-pastie",
+    "title": "Irlantilainen pastie",
+    "description": "Pohjois-Irlannin kansallisruokiin luettava täytetty ja friteerattu pasteija, joka löytyy tyypillisesti kalakaupoista eri puolilta provinssia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["irlantilainen", "liha", "peruna", "friteerattu"],
+    "ingredients": [
+      "450 g jauhettua possua tai naudanlihaa, kypsennettynä ja valutettuna",
+      "2½ dl korppujauhoja",
+      "1 keskikokoinen sipuli, kuutioituna ja kuullotettuna",
+      "1 rkl hienonnettua persiljaa",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "2 tl Worcestershire-kastiketta",
+      "1¼ dl kylmää vettä",
+      "1 tl jauhettua korianteria",
+      "½ tl jauhettua muskottipähkinää",
+      "3 keskikokoista perunaa, keitettynä, soseutettuna ja jäähdytettynä",
+      "frittaustaikinaa (samaa taikinaa kuin kalalle)"
+    ],
+    "instructions": [
+      "Yhdistä kypsennetty jauheliha, korppujauhot, kuullotettu sipuli, persilja, suola, pippuri, Worcestershire-kastike, vesi, korianteri, muskottipähkinä ja perunamuusi.",
+      "Muotoile seoksesta noin 7,5 cm läpimittainen levy.",
+      "Kasta levy taikinaan niin, että se peittyy kokonaan.",
+      "Paista upporasvassa 190-asteisessa öljyssä, ja nosta pois, kun kullanruskea.",
+      "Tarjoile kuumana ranskalaisten kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-irish-potatoes",
+    "title": "Irlantilaiset perunat (makeinen)",
+    "description": "Perunan muotoinen makeinen, joka on ainutlaatuinen Philadelphian alueelle ja erittäin suosittu Pyhän Patrikin päivänä. Nimestään huolimatta se ei sisällä perunaa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["amerikkalainen", "makeinen", "kookos"],
+    "ingredients": [
+      "200 g tuorejuustoa",
+      "1 dl kookoshiutaleita (valinnainen)",
+      "6 dl tomusokeria",
+      "vaniljauutetta",
+      "kanelia pinnoitukseen"
+    ],
+    "instructions": [
+      "Laita sokeri, tuorejuusto, kookoshiutaleet ja pieni määrä vaniljauutetta isoon kulhoon.",
+      "Vaivaa käsin, kunnes ainekset ovat täysin sekoittuneet. Seoksen tulisi muistuttaa koostumukseltaan taikinaa. Jos se on liian kuivaa, lisää tuorejuustoa. Jos liian pehmeää, lisää sokeria.",
+      "Nypi pieniä paloja ja pyörittele niitä käsissäsi, kunnes ne muodostavat palloja. Niiden tulisi olla tarpeeksi pieniä syötäväksi yhdellä purulla.",
+      "Pyörittele pallot kanelissa, kunnes täysin peittyneitä.",
+      "Halutessasi laita valmiit \"perunat\" jääkaappiin muutamaksi tunniksi, kunnes ne ovat kiinteitä."
+    ]
+  },
+  {
+    "id": "wikibooks-irish-soda-bread",
+    "title": "Irlantilainen soodaleipä",
+    "description": "Leipä, joka kohoaa ruokasoodan ja hapon, kuten kirnupiimän, reaktion tuottaman hiilidioksidin avulla ilman hiivaa.",
+    "servings": 8,
+    "totalTimeMin": 70,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["irlantilainen", "leipä", "kirnupiimä"],
+    "ingredients": [
+      "7½ dl vehnäjauhoja",
+      "1 rkl leivinjauhetta",
+      "1 tl ruokasoodaa",
+      "2 rkl sokeria",
+      "1 tl suolaa",
+      "1 muna, kevyesti vatkattuna",
+      "5 dl kirnupiimää",
+      "½ dl voita, sulatettuna"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 160 asteeseen.",
+      "Voitele ja jauhota leipävuoka.",
+      "Yhdistä isossa kulhossa jauhot, leivinjauhe, ruokasooda, sokeri ja suola.",
+      "Sekoita muna ja kirnupiimä keskenään, ja lisää kerralla jauhoseokseen.",
+      "Sekoita vain niin kauan, että ainekset kostuvat. Liika sekoittaminen tekee leivästä sitkeän.",
+      "Sekoita joukkoon voi; kaada taikina valmisteltuun vuokaan.",
+      "Paista 65–70 minuuttia, tai kunnes leipään pistetty hammastikku tulee ulos puhtaana. Leivän pitäisi kuulostaa ontolta, kun sen pohjaa koputtaa.",
+      "Jäähdytä ritilällä.",
+      "Kääri keittiöpyyhkeeseen tai foliohin muutamaksi tunniksi tai yön yli parhaan maun saamiseksi."
+    ],
+    "notes": [
+      "Voidaan tarjota paahdettuna ja voideltuna.",
+      "Soodaleipä kohoaa, kun hapo sekoittuu ruokasoodan kanssa. Happona käytetään yleensä etikkaa, sitruunamehua tai kirnupiimää. Ruokalusikallinen sitruunamehua tai etikkaa yhteen kuppiin maitoa voi korvata jokaisen kupin kirnupiimää.",
+      "Parhaan tuloksen saat paistamalla leivän 190 asteessa noin 50 minuuttia esilämmitetyllä leivinkivellä."
+    ]
+  },
+  {
+    "id": "wikibooks-irish-stew",
+    "title": "Irlantilainen muhennos",
+    "description": "Perinteinen irlantilainen ruokalaji lampaasta tai lampaanlihasta sekä perunoista, sipulista ja persiljasta. Alun perin edullinen ruoka, joka koottiin tähteistä ja täytettiin perunoilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["irlantilainen", "lammas", "muhennos"],
+    "ingredients": [
+      "1,1 kg luutonta lampaanlihaa, paloiteltuna",
+      "4 isoa perunaa, kuorittuna ja paksuiksi viipaleiksi leikattuna",
+      "2 isoa sipulia, paksuiksi viipaleiksi leikattuna",
+      "3–4 keskikokoista porkkanaa, kuorittuna ja paksuiksi viipaleiksi leikattuna",
+      "1 oksa persiljaa, hienonnettuna",
+      "5 dl vettä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Valitse hyvin istuvalla kannella varustettu pata ja lado ainekset kerroksittain alkaen ja päättyen perunoihin. Kaada joukkoon vesi ja mausta maun mukaan.",
+      "Peitä kannella ja kypsennä hyvin miedolla lämmöllä noin 2½ tuntia, kunnes liha on mureaa ja perunat ovat sakeuttaneet liemen."
+    ],
+    "notes": [
+      "Ruoan voi valmistaa myös lampaasta, jolloin kypsennysaika on vain noin 1½ tuntia."
+    ]
+  },
+  {
+    "id": "wikibooks-iru-pepper-soup",
+    "skip": "Liian puutteellinen valmistettavaksi: resepti ei sisällä lainkaan määriä."
+  },
+  {
+    "id": "wikibooks-isi-ewu-nigerian-stewed-goat-head",
+    "skip": "Liian puutteellinen valmistettavaksi (ei määriä useimmille aineksille), ja sisältää potaskaa, jonka turvallinen annostelu vaatisi tarkempaa ohjeistusta."
+  },
+  {
+    "id": "wikibooks-island-ceviche",
+    "title": "Saaristo-ceviche",
+    "description": "Raikas ceviche, jossa ohuiksi viipaloitu kala marinoidaan sitrusmehuissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "sitrus", "trooppinen", "ceviche"],
+    "ingredients": [
+      "1¼ dl tuoretta limemehua",
+      "1¼ dl tuoretta sitruunamehua",
+      "1¼ dl tuoretta appelsiinimehua",
+      "1 tl suolaa",
+      "1 tl vastarouhittua mustapippuria",
+      "225 g pompanofileetä, ohuiksi viipaleiksi leikattuna",
+      "200 g mahi mahi -fileetä, ohuiksi viipaleiksi leikattuna"
+    ],
+    "instructions": [
+      "Yhdistä mehut, suola ja pippuri.",
+      "Kaada pakastepussiin ja lisää kala. Anna marinoitua jääkaapissa yön yli.",
+      "Tarjoile."
+    ],
+    "notes": [
+      "Käytä vain erittäin tuoretta, sushilaatuista kalaa, koska kala jää raa'aksi ja ainoastaan hapon \"kypsentämäksi\"."
+    ]
+  }
+]

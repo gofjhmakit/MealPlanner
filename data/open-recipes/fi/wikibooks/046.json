@@ -1,0 +1,744 @@
+[
+  {
+    "id": "wikibooks-farofa",
+    "title": "Farofa",
+    "description": "Brasilialainen lisuke paahdetusta maniokkijauhosta, tarjoillaan feijoadan tai grillilihan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "brasilialainen", "maniokki", "nopea"],
+    "ingredients": [
+      "1–2 rkl voita tai öljyä (mieluiten oliiviöljyä)",
+      "2 isoa valkosipulinkynttä, hienonnettuna",
+      "muutama pala rasvaista lihaa (tyypillisesti pekonia), pilkottuna",
+      "2 sipulia, hienonnettuna",
+      "500 g maniokkijauhoja tai valmista farofa-seosta",
+      "1–2 rkl tempero baianoa (ks. vinkit)",
+      "suolaa",
+      "korianteria maun mukaan, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna paistinpannu keskilämmölle. Lisää liha ja paista hetki. Lisää tarvittaessa enintään 1 rkl öljyä tai voita riippuen siitä, kuinka paljon rasvaa lihasta irtoaa, jotta valkosipuli ja sipuli paistuvat kunnolla.",
+      "Lisää valkosipuli ja sekoita hetki varoen, ettei se pala.",
+      "Lisää sipuli ja mausteet ja kypsennä vielä noin minuutti.",
+      "Lisää maniokkijauho ja muut ainekset. Sekoita hyvin ja jatka paahtamista muutama minuutti. Jos käytät valmista farofa-seosta, sekoita kunnes lisäaineet ovat kypsyneet. Jos käytät raakaa maniokkijauhoa, lisää loppu voi tai öljy vähitellen ja sekoita, kunnes seos on paahtunut ja kullanruskea.",
+      "Sammuta lämpö ja lisää hienonnettu korianteri halutessasi. Tarjoa kuumana tai haaleana."
+    ],
+    "notes": [
+      "Lisäaineksia voi lisätä maun ja rakenteen vuoksi: vihreitä oliiveja, paistettua jauhobanaania, jauhettua inkivääriä, kuivattua soijarouhetta tai sipulihiutaleita.",
+      "Tempero baiano on brasilialainen maustesekoitus juustokuminasta, paprikasta, korianterista ja oreganosta. Jos sitä ei ole, lisää ainesosat erikseen maun mukaan.",
+      "Maniokkijauho tai valmis farofa-seos voi olla jo suolattu, joten maista ennen lisäsuolausta.",
+      "Karkea maissijauho hiutaleina voi korvata maniokkijauhon."
+    ]
+  },
+  {
+    "id": "wikibooks-fasolia-ethiopian-green-bean-stew",
+    "title": "Fasolia (etiopialainen vihreäpapupata)",
+    "description": "Maukas etiopialainen kasvispata mureista vihreistä pavuista aromikkaassa tomaattikastikkeessa, tarjoillaan injeran tai riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "papu", "etiopialainen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 keskikokoista tomaattia, kuutioituna",
+      "1 rkl berberemaustesekoitusta",
+      "1 tl paprikajauhetta",
+      "½ tl juustokuminaa",
+      "½ tl korianterinsiementä, jauhettuna",
+      "½ tl kurkumaa",
+      "½ tl cayennepippuria (tai maun mukaan)",
+      "suolaa",
+      "500 g tuoreita vihreitä papuja, paloiteltuna",
+      "tuoretta korianteria tai persiljaa, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa paistinpannussa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja valkosipuli. Kuullota, kunnes sipuli muuttuu läpikuultavaksi ja valkosipuli tuoksuu.",
+      "Lisää kuutioidut tomaatit ja kypsennä muutama minuutti, kunnes ne alkavat pehmetä.",
+      "Sekoita joukkoon berberemaustesekoitus, paprika, juustokumina, korianteri, kurkuma, cayennepippuri ja suola. Sekoita hyvin, jotta mausteet peittävät sipulit ja tomaatit.",
+      "Lisää paloitellut vihreät pavut pannulle ja sekoita mausteseoksen kanssa.",
+      "Laske lämpö alas, peitä kannella ja hauduta noin 20–25 minuuttia, kunnes pavut ovat mureita mutta hieman rapeita. Sekoita välillä tasaisen kypsymisen varmistamiseksi.",
+      "Maista ja säädä maustamista suolalla tai lisämausteilla.",
+      "Ota liedeltä ja anna padan levätä muutama minuutti, jotta maut tasaantuvat.",
+      "Koristele tuoreella korianterilla tai persiljalla.",
+      "Tarjoa pääruokana injeran tai riisin kanssa."
+    ],
+    "notes": [
+      "Säädä tulisuutta lisäämällä tai vähentämällä cayennepippuria.",
+      "Paksumman kastikkeen saat muusaamalla osan kypsistä tomaateista ja sipulista haarukalla.",
+      "Voit lisätä esimerkiksi porkkanaa, perunaa tai paprikaa lisämakua ja vaihtelua varten."
+    ]
+  },
+  {
+    "id": "wikibooks-fast-food-french-fries",
+    "title": "Pikaruokaravintolatyyliset ranskalaiset",
+    "description": "Kaksivaiheisesti friteeratut rapeat perunalohkot, tyyliin jonka tunnet pikaruokaravintoloista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "peruna", "vegaaninen", "friteerattu"],
+    "ingredients": [
+      "900 g jauhoisia perunoita, suikaloituna hieman tavallista paksummiksi tikuiksi",
+      "suolaa",
+      "vastajauhettua mustapippuria",
+      "rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Laita perunasuikaleet isoon astiaan puhdasta vettä. Huuhtele useaan kertaan, kunnes vesi pysyy kirkkaana.",
+      "Linkoa perunat salaattilingossa kuiviksi. Friteeraa 175 asteessa, kunnes pehmeitä ja veltostuneita mutta eivät ruskistuneita. Valuta ritilällä.",
+      "Kuumenna öljy 190 asteeseen ja paista perunoita 4–5 minuuttia.",
+      "Valuta ranskalaiset ritilällä ja ripottele runsaasti suolaa ja vastajauhettua mustapippuria.",
+      "Tarjoa heti kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-faten-tsaki-corn-porridge",
+    "title": "Faten tsaki (maissipuuro)",
+    "description": "Suosittu maustettu maissipuuro Pohjois-Nigeriasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kasvis", "nigerialainen", "maissi", "keitto"],
+    "ingredients": [
+      "tomaatteja",
+      "chiliä",
+      "rypsiöljyä tai palmuöljyä",
+      "sipuli, kuutioituna",
+      "liemikuutioita",
+      "suolaa",
+      "nigerialaista currymausteseosta",
+      "jauhettua katkarapua",
+      "vettä",
+      "maissisuurimoita",
+      "pinaattia, pestynä ja pilkottuna"
+    ],
+    "instructions": [
+      "Soseuta tomaatti ja chili tasaiseksi tahnaksi.",
+      "Kuumenna öljyä padassa 2 minuuttia. Lisää kuutioitu sipuli.",
+      "Sekoita joukkoon liemikuutiot, suola, currymaustesekoitus ja jauhettu katkarapu. Lisää hieman vettä ja keitä 5 minuuttia.",
+      "Sekoita joukkoon maissisuurimot. Lisää vettä tarpeen mukaan ja hauduta, sekoittaen välillä.",
+      "Sekoita pinaatti joukkoon. Keitä muutama minuutti.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-fattah-egyptian-layered-bread-dish",
+    "title": "Fattah (egyptiläinen leipä-riisivuoka)",
+    "description": "Juhlava egyptiläinen vuoka, jossa leipä-, riisi- ja lihakerrokset on peitetty tomaatti-jogurttikastikkeella ja tuoreilla yrteillä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "egyptiläinen", "uuniruoka", "riisi"],
+    "ingredients": [
+      "4–6 palaa pitaleipää tai egyptiläistä litteää leipää",
+      "5 dl keitettyä riisiä",
+      "500 g keitettyä lampaan- tai naudanlihaa, kuutioituna",
+      "2½ dl tomaattikastiketta",
+      "2½ dl jogurttia",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 tl jauhettua juustokuminaa",
+      "1 tl jauhettua paprikaa",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta persiljaa ja minttua, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Lämmitä uuni 180 asteeseen.",
+      "Revi pitaleivät tai litteä leipä suupaloiksi ja levitä ne tasaisena kerroksena uunivuoan pohjalle.",
+      "Sekoita kulhossa keitetty riisi ja kuutioitu liha. Mausta juustokuminalla, paprikalla, suolalla ja mustapippurilla. Sekoita hyvin, jotta maut jakautuvat tasaisesti.",
+      "Levitä riisi-lihaseos leipäkerroksen päälle tasaiseksi kerrokseksi.",
+      "Sekoita erillisessä kulhossa tomaattikastike, jogurtti, hienonnettu valkosipuli ja ripaus suolaa.",
+      "Kaada tomaatti-jogurttikastike riisi-lihakerroksen päälle tasaisesti.",
+      "Paista esilämmitetyssä uunissa noin 15–20 minuuttia, kunnes ruoka on läpikuumaa ja maut ovat sulautuneet yhteen.",
+      "Ota fattah uunista ja anna jäähtyä hieman.",
+      "Koristele tuoreella persiljalla ja mintulla.",
+      "Tarjoa lämpimänä pääruokana tai osana suurempaa ateriaa."
+    ]
+  },
+  {
+    "id": "wikibooks-fattoush",
+    "title": "Fattoush",
+    "description": "Libanonilainen kesäsalaatti paahdetulla pitaleivällä, sumakilla ja raikkailla vihanneksilla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti", "libanonilainen"],
+    "ingredients": [
+      "1¼ dl vettä",
+      "1 tl maissitärkkelystä",
+      "¾ dl sitruunamehua",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tl sumakkia",
+      "suolaa",
+      "mustapippuria",
+      "1 kerä romainesalaattia, revittynä suupaloiksi",
+      "1 keskikokoinen kurkku, kuutioituna",
+      "2 isoa tomaattia, kuutioituna",
+      "4 kevätsipulia, hienonnettuna",
+      "½ dl hienonnettua lehtipersiljaa",
+      "½ dl hienonnettua minttua",
+      "1 vihreä paprika, siemenet poistettuna ja pilkottuna",
+      "2½ dl pilkottua portulakkaa",
+      "140 g rucolaa",
+      "4 pitaleipää, paahdettuna ja revittynä paloiksi"
+    ],
+    "instructions": [
+      "Sekoita vesi ja maissitärkkelys pienessä kattilassa keski-korkealla lämmöllä, kunnes seos sakenee.",
+      "Ota liedeltä ja sekoita joukkoon sitruunamehu, valkosipuli, sumakki, suola ja pippuri.",
+      "Jäähdytä jääkaapissa käyttöön asti.",
+      "Sekoita isossa kulhossa salaatti, kurkku, tomaatit, kevätsipulit, persilja, minttu, paprika, portulakka ja rucola.",
+      "Lisää kastike salaattiin ja tarjoa pitaleivän kanssa."
+    ],
+    "notes": ["Jos portulakkaa ei ole saatavilla, voit korvata sen vesikrassilla, persiljalla tai rucolalla."]
+  },
+  {
+    "id": "wikibooks-feijo-tropeiro-brazilian-beans-and-sausage",
+    "title": "Feijão tropeiro (brasilialainen papu-makkaralisuke)",
+    "description": "Perinteinen brasilialainen lisuke pavuista, makkarasta, pekonista ja keitetystä munasta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["liha", "papu", "brasilialainen", "lisuke"],
+    "ingredients": [
+      "900 g pintopapuja",
+      "900 g makkaraa (esim. mieto italialainen makkara)",
+      "2 valkosipulinkynttä",
+      "2 pientä keltasipulia",
+      "225 g siankylkeä (pekonia paloina)",
+      "4 kovaksi keitettyä munaa",
+      "1 nippu kevätsipulia, hienonnettuna",
+      "1 nippu lehtikaalia",
+      "2 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Kypsennä pavut pakkauksen ohjeen mukaan. Valuta ja anna jäähtyä.",
+      "Paista isolla pannulla pekoni ja makkara. Nosta makkara ja pekoni sivuun.",
+      "Viipaloi makkara noin 2,5 cm paloiksi.",
+      "Kuullota pekonin rasvassa valkosipuli ja sipuli.",
+      "Viipaloi lehtikaali ohuiksi, noin 3 mm levyisiksi suikaleiksi.",
+      "Sekoita kaikki ainekset, paitsi keitetyt munat, isossa kulhossa puisella lusikalla.",
+      "Valuta oliiviöljyä päälle ja sekoita varovasti.",
+      "Koristele viipaloiduilla keitetyillä munilla.",
+      "Tarjoa kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-feuerzangenbowle-german-wine-punch",
+    "skip": "alkoholipitoinen, liekitetty punssi, jossa alkoholi ja avotulen käsittely ovat olennainen osa ohjetta – ei turvallisesti käännettävissä kotikäyttöön"
+  },
+  {
+    "id": "wikibooks-fiddlehead-portobello-linguine",
+    "title": "Saniaisenverson ja portobellon linguine",
+    "description": "Yksinkertainen tapa valmistaa saniaisenversoja pastan kanssa; sopii myös parsalle tai latva-artisokalle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "sieni", "nopea"],
+    "ingredients": [
+      "450 g saniaisenversoja, puhdistettuna ja siistittynä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "1 pieni sipuli",
+      "1 iso portobellosienen lakki",
+      "170 g aurinkokuivattuja tomaatteja öljyssä",
+      "250 g linguinea",
+      "1 rkl paahdettuja pinjansiemeniä",
+      "2 rkl parmesaania",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Viipaloi sienet, sipulit ja aurinkokuivatut tomaatit pitkiksi suikaleiksi ja laita sivuun.",
+      "Keitä saniaisenversoja ensin runsaassa vedessä noin 10–15 minuuttia turvallisuuden varmistamiseksi, valuta ja kuivaa.",
+      "Kuullota versot ja valkosipuli oliiviöljyssä noin 5–10 minuuttia.",
+      "Lisää sipulit ja kuullota, kunnes ne alkavat pehmetä.",
+      "Lisää sienet ja aurinkokuivatut tomaatit. Jatka paistamista vielä noin 5 minuuttia.",
+      "Mausta suolalla ja pippurilla, sekoita joukkoon pinjansiemenet, lisää loraus vettä, laske lämpöä ja peitä kannella. Anna hautua noin 10 minuuttia.",
+      "Keitä samalla linguine kypsäksi niin, että se on valmis samaan aikaan täytteen kanssa.",
+      "Yhdistä isossa kulhossa vihannekset ja linguine, ripottele juusto päälle ja sekoita hyvin.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Saniaisenversot sisältävät raakana haitta-aineita, joten ne kannattaa aina keittää tai höyryttää kunnolla ennen paistamista."]
+  },
+  {
+    "id": "wikibooks-field-of-dreams-guacamole",
+    "title": "Field of Dreams -guacamole",
+    "description": "Koristeellinen guacamole, joka on somistettu pesäpallokentän näköiseksi tuorejuustopallolla.",
+    "servings": 8,
+    "totalTimeMin": 120,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "juhla", "avokado"],
+    "ingredients": [
+      "115 g tuorejuustoa, huoneenlämpöistä",
+      "1 tl kuivattua piimäkastike- ja maustesekoitusta",
+      "3 isoa kypsää avokadoa, puolitettuna, siemen poistettuna ja kuorittuna",
+      "3 rkl limemehua",
+      "2 tl karkeasti jauhettua valkosipulijauhetta",
+      "1 tl suolaa",
+      "1 tl chilikastiketta",
+      "1¼ dl hienonnettua punasipulia",
+      "1¼ dl hienonnettua paahdettua punaista paprikaa",
+      "1 punainen paprika",
+      "1¼ dl vähärasvaista smetanaa",
+      "ohuita vehnäkeksejä",
+      "paprikasuikaleita (1 cm leveitä), tortillasipsejä ja/tai keksejä dippaamiseen"
+    ],
+    "instructions": [
+      "Sekoita kulhossa tuorejuusto ja piimämaustesekoitus. Kääri muovikelmuun, muotoile palloksi ja jäähdytä pakastimessa 1 tunti tai jääkaapissa yön yli.",
+      "Muusaa kulhossa avokado karkeasti limemehun, valkosipulin, suolan ja chilikastikkeen kanssa.",
+      "Sekoita joukkoon punasipuli ja paahdettu paprika.",
+      "Levitä guacamole kumilastalla neliskulmaiselle lautaselle tasaiseksi kerrokseksi, jossa on hieman kohouma keskellä \"pesäkummuksi\".",
+      "Lusikoi smetanaa pursotuspussiin, jossa on ohut tylla, tai muovipussiin, josta on leikattu noin ½ cm:n kulma. Pursota ohuet \"juoksuradat\" guacamolen päälle.",
+      "Tee punaisesta paprikasta pesäpallon \"ompeleet\": leikkaa paprika 2,5 cm:n suikaleiksi, poista terävällä veitsellä varovasti sisäosa ja säästä kiiltävä punainen kuori. Viipaloi kuori hyvin ohuiksi suikaleiksi ompeleiksi.",
+      "Tee pesäpallo: ota tuorejuustopallo pakastimesta tai jääkaapista. Pyöritä se palloksi ja poista kelmu. Tee puutikulla ompeleiden linjat ja aseta ohuet paprikasuikaleet niiden päälle. Aseta \"pesäpallo\" \"kummun\" päälle guacamolen keskelle.",
+      "Käytä ohuita vehnäkeksejä \"tyssäyksinä\".",
+      "Tarjoa keksit, tortillasipsit ja/tai paprikasuikaleet dippaamiseen."
+    ]
+  },
+  {
+    "id": "wikibooks-figgie-obbin-cornish-raisin-pastry",
+    "title": "Figgie 'obbin (korninkielinen rusinaleivos)",
+    "description": "Vanha korninkielinen leivos, jota tarjoillaan kuumana kohokkaan kerman kanssa tai kylmänä teen seurassa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 10,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonnainen", "englantilainen", "rusina"],
+    "ingredients": [
+      "400 g itsekohoavaa vehnäjauhoa (tai tavallista jauhoa ja leivinjauhetta)",
+      "400 g rusinoita (ja/tai sulttaanirusinoita)",
+      "200 g munuaisrasvan ja muun rasvan 50/50-seosta",
+      "vettä tai maitoa"
+    ],
+    "instructions": [
+      "Hiero rasva ja jauhot yhteen sormin murumaiseksi.",
+      "Sekoita joukkoon rusinat ja lisää vettä tai maitoa sen verran, että saat jämäkän taikinan.",
+      "Kauli noin 2,5 cm:n paksuiseksi levyksi. Paina kevyesti matalaan voideltuun uunivuokaan.",
+      "Paista kuumassa uunissa (n. 220 °C) noin 35–45 minuuttia."
+    ],
+    "notes": [
+      "Korintteja ja/tai sulttaanirusinoita voi käyttää rusinoiden sijaan tai niiden lisäksi.",
+      "Kasvisrasvaa tai voita voi käyttää naudan tai lampaan munuaisrasvan sijaan – lopputulos on kevyempi."
+    ]
+  },
+  {
+    "id": "wikibooks-figgy-pudding",
+    "title": "Viikunavanukas (figgy pudding)",
+    "description": "Perinteinen brittiläinen joulunaikaan liittyvä höyrytetty vanukas kuivatuista viikunoista, omenoista ja pähkinöistä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "englantilainen", "joulu", "höyrytetty"],
+    "ingredients": [
+      "115 g voita",
+      "115 g leivontarasvaa",
+      "200 g sokeria",
+      "3 isoa munankeltuaista",
+      "2½ dl maitoa",
+      "2 rkl rum-aromia (tai muuta mieleistä aromia)",
+      "2 omenaa, kuorittuna, paloiteltuna ja hienonnettuna",
+      "900 g kuivattuja viikunoita, jauhettuna tai hienonnettuna",
+      "1 sitruunan ja 1 appelsiinin raastettu kuori",
+      "2½ dl pähkinärouhetta",
+      "½ tl jauhettua kanelia",
+      "¼ tl jauhettuja neilikoita",
+      "¼ tl jauhettua inkivääriä",
+      "3½ dl kuivia korppujauhoja",
+      "2 tl leivinjauhetta",
+      "3 isoa munanvalkuaista, kovaksi vaahdotettuna",
+      "1 viipale pekonia, murskattuna (valinnainen, uusenglantilainen versio)",
+      "1 tl kovaa voi-konjakkikastiketta, valutukseen"
+    ],
+    "instructions": [
+      "Lämmitä uuni 165 asteeseen. Voitele runsaasti uuninkestävä 2 litran kulho tai vuoka; laita sivuun.",
+      "Vaahdota voi ja leivontarasva yhteen.",
+      "Lisää vähitellen sokeri, munankeltuaiset, maito, aromi, omena, viikunat sekä sitruunan ja appelsiinin kuori.",
+      "Lisää loput ainekset ja sekoita hyvin. Kääntele vaahdotetut valkuaiset seokseen.",
+      "Kaada seos valmisteltuun vuokaan, aseta vuoka isoon matalaan uunipannuun ja laita uunin keskitasolle.",
+      "Täytä matala pannu puolilleen kiehuvalla vedellä ja höyrytä vanukasta uunissa 165 asteessa 4 tuntia, lisäten vettä tarvittaessa."
+    ]
+  },
+  {
+    "id": "wikibooks-figolli-maltese-easter-pastries",
+    "title": "Figolli (maltalaiset pääsiäisleivokset)",
+    "description": "Perinteinen maltalainen pääsiäisherkku, täytetyt mantelileivokset, joita valmistetaan erissä ja annetaan lahjaksi ystäville ja perheelle.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonnainen", "manteli", "maltalainen", "pääsiäinen"],
+    "ingredients": [
+      "800 g itsekohoavaa vehnäjauhoa",
+      "200 g margariinia",
+      "200 g sokeria",
+      "4 munaa",
+      "1 appelsiini, raastettuna kuoreltaan",
+      "2–3 rkl vettä",
+      "200 g mantelijauhetta",
+      "100 g sokeria",
+      "1¼ dl vettä"
+    ],
+    "instructions": [
+      "Siivilöi jauhot kulhoon ja hiero joukkoon margariini, kunnes seos on taas jauhomaista.",
+      "Sekoita erillisessä astiassa munat ja sokeri hyvin.",
+      "Sekoita appelsiinin kuori muna-sokeriseokseen.",
+      "Kääntele munaseos jauhoseokseen.",
+      "Lisää tarvittaessa hieman vettä, jotta taikina muodostuu – lisää vesi varovasti tipoittain, sillä liika vesi pilaa taikinan.",
+      "Kuumenna pienessä kattilassa vesi ja liuota siihen sokeri.",
+      "Kun sokeri on täysin liuennut, kuumenna vesi kiehuvaksi ja ota heti liedeltä.",
+      "Sekoita mantelijauhe kuumaan sokeriliuokseen. Sekoita hyvin, kunnes saat tahnamaisen täytteen.",
+      "Jauhota puhdas työtaso ja kauli noin neljännes taikinasta.",
+      "Leikkaa taikinasta kaksi samanlaista figolli-muotoa ja poista ylimääräinen taikina.",
+      "Levitä noin neljännes täytteestä toiselle muodolle. Jätä 1–2 cm:n reuna ilman täytettä.",
+      "Aseta toinen samanlainen muoto ensimmäisen päälle, kohdistaen muodot huolellisesti.",
+      "Paina kahden taikinakerroksen reunat yhteen ympäriinsä niin, että ne sulkeutuvat. Kostuta sormet kylmällä vedellä, jos kerrokset ovat vaikeita yhdistää.",
+      "Toista yllä olevat vaiheet lopuille 3 figollille.",
+      "Lämmitä uuni 190 asteeseen paistamista varten. Aseta kaksinkertainen kerros leivinpaperia pellille, ja laita figollit varovasti paperin päälle.",
+      "Paista esilämmitetyssä uunissa, kunnes pinta on kullanruskea ja reunat alkavat tummua (noin 30 minuuttia)."
+    ],
+    "notes": [
+      "Oikean muodon saat käyttämällä metallisia leikkuumuotteja, jotka muistuttavat suuria piparkakkumuotteja. Vaihtoehtoisesti voit tulostaa mallin, leikata sen sakseilla ja käyttää apuna terävää veistä.",
+      "Näillä mittasuhteilla figollit voivat olla hieman tavallista paksumpia. Mitä enemmän täytettä suhteessa taikinaan, sitä maukkaampi figolla yleensä on."
+    ]
+  },
+  {
+    "id": "wikibooks-filfel-chuma-libyan-spicy-tomato-sauce",
+    "title": "Filfel chuma (libyalainen tulinen tomaattikastike)",
+    "description": "Suosittu libyalainen tulinen tomaattikastike, jota käytetään mausteena, marinadina tai pohjana muille ruoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "tulinen", "libyalainen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "4–5 valkosipulinkynttä, hienonnettuna",
+      "2–3 tulista chiliä (esim. cayenne- tai serrano-chiliä), hienonnettuna",
+      "4–5 kypsää tomaattia, hienonnettuna",
+      "1 tl jauhettua juustokuminaa",
+      "1 tl jauhettua paprikaa",
+      "½ tl cayennepippuria (maun mukaan)",
+      "½ tl jauhettua korianteria",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl tomaattipyreetä",
+      "1 rkl sitruunamehua",
+      "tuoretta persiljaa tai korianteria, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy kattilassa keskilämmöllä.",
+      "Lisää hienonnettu valkosipuli ja chili. Kuullota minuutin ajan, kunnes tuoksuu hyvältä.",
+      "Lisää hienonnetut tomaatit ja sekoita hyvin.",
+      "Ripottele joukkoon juustokumina, paprika, cayennepippuri, korianteri, suola ja pippuri. Sekoita mausteet kastikkeeseen.",
+      "Lisää tomaattipyree. Laske lämpö alas ja hauduta noin 20–25 minuuttia, välillä sekoittaen, kunnes tomaatit hajoavat ja kastike sakenee.",
+      "Ota kattila liedeltä ja anna kastikkeen jäähtyä hieman.",
+      "Soseuta kastike tehosekoittimella tai sauvasekoittimella tasaiseksi. Voit myös jättää kastikkeen palaselliseksi, jos pidät siitä enemmän.",
+      "Lisää sitruunamehu raikastamaan makua.",
+      "Maista ja säädä maustamista.",
+      "Koristele hienonnetulla persiljalla tai korianterilla ennen tarjoilua."
+    ],
+    "notes": [
+      "Säädä tulisuutta lisäämällä tai vähentämällä chiliä.",
+      "Kastiketta voi säilyttää ilmatiiviissä astiassa jääkaapissa viikon ajan.",
+      "Käytä kypsiä tomaatteja parhaan maun saamiseksi, tai käytä säilöttyjä tomaatteja, kun tuoreita ei ole saatavilla.",
+      "Savuisemman maun saat paahtamalla tomaatit ennen kastikkeen valmistusta."
+    ]
+  },
+  {
+    "id": "wikibooks-filipino-style-spaghetti",
+    "title": "Filippiiniläistyylinen spagetti",
+    "description": "Makea ja täyteläinen filippiiniläinen spagettiruoka nakeilla ja sianjauhelihalla, suosikki lasten syntymäpäiväjuhlissa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "pasta", "filippiiniläinen", "arkiruoka"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "300 g säilykenakkeja, viipaloituna",
+      "2 sipulia, hienonnettuna",
+      "1 tl merisuolaa",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "500 g sian jauhelihaa",
+      "2½ rkl tomaattipyreetä",
+      "2½ dl banaaniketsuppia",
+      "700 g tomaattimurskaa",
+      "1¼ dl kanalientä",
+      "2½ rkl soijakastiketta",
+      "600 g kuivattua spagettia",
+      "2½ dl raastettua cheddarjuustoa, tai maun mukaan"
+    ],
+    "instructions": [
+      "Kuumenna rypsiöljy pannulla keski-korkealla lämmöllä.",
+      "Lisää nakit ja paista, usein kääntäen, 3–4 minuuttia, kunnes ruskistuneet.",
+      "Siirrä nakit reikälusikalla lautaselle, jätä öljy pannulle.",
+      "Lisää sipuli kuumaan öljyyn suolan kanssa. Kypsennä, sekoittaen, 5–6 minuuttia, kunnes sipuli on pehmeä ja kaunis.",
+      "Lisää valkosipuli ja kypsennä minuutti, kunnes tuoksuu hyvältä.",
+      "Lisää jauheliha, rikkoen sen lastalla. Kypsennä, kunnes liha on kypsää joka puolelta.",
+      "Lisää tomaattipyree. Kypsennä, sekoittaen, minuutti, jotta se kypsyy hieman.",
+      "Palauta nakit pannulle ja lisää banaaniketsuppi, tomaattimurska, kanaliemi ja soijakastike. Sekoita hyvin.",
+      "Kuumenna kiehuvaksi, laske sitten lämpöä ja hauduta, usein sekoittaen, 10–15 minuuttia, jotta maut kehittyvät. Varo, sillä seos palaa helposti pohjaan.",
+      "Keitä samalla spagetti kiehuvassa suolavedessä pakkauksen ohjeen mukaan al denteksi. Valuta ja laita takaisin kattilaan, jossa pasta keitettiin.",
+      "Lisää muutama runsas lusikallinen kastiketta pastan joukkoon ja sekoita, niin että jokainen spagetti peittyy kastikkeella.",
+      "Jaa pasta tarjoiluastioihin ja lisää lisää kastiketta päälle.",
+      "Ripottele päälle raastettua cheddarjuustoa ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-filo-puff-pastry",
+    "title": "Filotaikina (lehtitaikina)",
+    "description": "Kotitekoinen monikerroksinen voitaikina, josta saa ohuita, rapeita levyjä piirakoihin ja leivonnaisiin.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonnainen", "voitaikina", "perustaikina"],
+    "ingredients": [
+      "330 g tavallista (ei itsekohoavaa) vehnäjauhoa",
+      "450 g voita, kuutioituna",
+      "550 g voita",
+      "jääkylmää vettä",
+      "vehnäjauhoja pöydän jauhottamiseen"
+    ],
+    "instructions": [
+      "Sekoita kulhossa ensimmäinen jauhomäärä ja kuutioitu voi, kunnes seos muistuttaa hienoa murua.",
+      "Lisää murun joukkoon vähän kerrallaan jääkylmää vettä, kunnes taikinasta tulee hyvin jämäkkä.",
+      "Jauhota leikkuulauta ja kaulin kevyesti.",
+      "Kauli taikina leivinpaperin paksuiseksi, tai ohuemmaksi jos mahdollista.",
+      "Levitä koko näkyvä taikinapinta voinokareilla. Ripottele kevyesti jauhoa ja taita kahtia.",
+      "Pidä kaulin mahdollisimman kylmänä voitelun ajan. Aseta keittiöpyyhe kaulimen päälle ja kylmäpakkaus sen päälle, tai laita kaulin pakastimeen, jos lähellä.",
+      "Toista vaiheet 4 ja 5 vähintään kaksi kertaa lisää, enintään kuusi kertaa. Työskentele mahdollisimman nopeasti ja tehokkaasti.",
+      "Leikkaa muovikelmua riittävän iso pala peittämään litistetyn taikinan toinen puoli. Käännä leikkuulauta ylösalaisin.",
+      "Peitä toinen puoli toisella muovikelmupalalla. Rullaa taikina varovasti lieriön muotoon.",
+      "Säilytä jääkaapissa käyttöön asti. Säilyy hyvänä enintään vuorokauden."
+    ]
+  },
+  {
+    "id": "wikibooks-fines-herbes",
+    "title": "Fines herbes -yrttiseos",
+    "description": "Ranskalaisessa keittiössä käytetty tuore yrttiseos persiljasta, ruohosipulista, rakuunasta ja kirveliöstä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["yrtti", "ranskalainen", "mauste", "nopea"],
+    "ingredients": [
+      "1 rkl hienonnettua rakuunaa",
+      "1 rkl hienonnettua kirveliötä",
+      "1 rkl hienonnettua ruohosipulia",
+      "1 rkl hienonnettua persiljaa"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset keskenään.",
+      "Käytä reseptin ohjeen mukaisesti."
+    ]
+  },
+  {
+    "id": "wikibooks-fiofio-nigerian-spicy-pigeon-pea-porridge",
+    "title": "Fiofio (nigerialainen tulinen kyyhkyspapupuuro)",
+    "description": "Igbo-kansan perinneruoka: tulinen puuro kyyhkyspavuista ja jamssista, edullinen mutta hieman aikaa vievä valmistaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kasvis", "nigerialainen", "papu", "keitto"],
+    "ingredients": [
+      "kuivattuja kyyhkyspapuja",
+      "jamssia, kuorittuna ja kuutioituna",
+      "palmuöljyä",
+      "sipuli, kuutioituna",
+      "chiliä, kuutioituna",
+      "suolaa",
+      "jauhettua uziza-siementä",
+      "mausteita maun mukaan",
+      "ugbaa (fermentoitua öljypalmunsiementä)"
+    ],
+    "instructions": [
+      "Poimi kyyhkyspavuista roskat ja kivet. Huuhtele hyvin.",
+      "Kiehauta kattilassa vesi ja lisää kyyhkyspavut.",
+      "Lisää kuutioitu jamssi ja hieman suolaa. Keitä, kunnes pavut ja jamssi ovat pehmeitä.",
+      "Nosta pavut ja jamssi liedeltä.",
+      "Kuumenna palmuöljyä padassa. Lisää pilkottu sipuli ja chili. Kypsennä muutama minuutti, kunnes pehmeitä.",
+      "Lisää jauhettu uziza-siemen, hieman suolaa ja mausteita maun mukaan.",
+      "Lisää ugba ja sekoita hyvin.",
+      "Sekoita kastike keitettyihin kyyhkyspapuihin ja jamssiin. Keitä 5 minuuttia.",
+      "Anna jäähtyä hieman ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-firecracker-burgers",
+    "title": "Firecracker-hampurilaiset",
+    "description": "Tulisia grillihampurilaisia chipotle-majoneesilla, pekonilla ja pepper jack -juustolla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "tulinen", "arkiruoka"],
+    "ingredients": [
+      "1¼ dl majoneesia",
+      "2 chipotlechiliä adobokastikkeessa, hienonnettuna",
+      "1–1½ tl cayennepippuria",
+      "½ tl suolaa",
+      "½ tl vastajauhettua mustapippuria",
+      "1 tl Montreal-pihvimaustetta",
+      "450 g naudan jauhelihaa",
+      "oliiviöljyä",
+      "8 viipaletta pekonia, rapeaksi paistettuna",
+      "4 viipaletta pepper jack -juustoa",
+      "hampurilaissämpylöitä",
+      "salaattia, tomaattia ja sipulia (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita majoneesi ja chipotle. Laita jääkaappiin odottamaan.",
+      "Sekoita cayennepippuri, suola, pippuri ja pihvimauste keskenään. Laita sivuun.",
+      "Muotoile jauhelihasta 4 yhtä suurta pihviä, noin 1,3 cm paksuja. Paina keskelle pieni painauma ja sivele oliiviöljyllä.",
+      "Ripottele mausteseosta pihvien molemmin puolin. Laita sivuun.",
+      "Esilämmitä hiilet grillin pohjalle. Kun hiilet ovat kuumia, levitä ne tasaisesti grillin pohjalle.",
+      "Lisää pihvit ja grillaa usein kääntäen, kunnes haluttu kypsyysaste on saavutettu.",
+      "Laita juustoviipale jokaiselle pihville heti grillistä otettuna. Tarjoa sämpylöiden kanssa pekonin, salaatin, tomaatin ja chipotle-majoneesin kera."
+    ],
+    "notes": ["Jos tulisuus tuntuu liialliselta, vähennä cayennepippurin määrää."]
+  },
+  {
+    "id": "wikibooks-firecracker-grilled-shrimp",
+    "title": "Firecracker-grillikatkaravut",
+    "description": "Tulisessa marinadissa marinoidut vartaissa grillatut katkaravut.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "grilli", "tulinen", "nopea"],
+    "ingredients": [
+      "36 kuorittua ja suolistettua katkarapua (isokokoisia)",
+      "puolikas annos Firecracker-marinadia"
+    ],
+    "instructions": [
+      "Kaada marinadi ison pakastepussin pohjalle. Lisää katkaravut ja sekoittele, jotta ne peittyvät marinadilla. Jäähdytä vähintään 30 minuuttia.",
+      "Valuta katkaravut ja hävitä jäljelle jäänyt marinadi. Pujota 4 katkarapua kutakin vartaa kohti.",
+      "Esilämmitä hiiligrilli sytytyspiipulla, ei sytytysnesteellä, keski-korkeaan lämpöön. Aseta ritilä takaisin ja lisää katkaravut. Kypsennä usein kääntäen, kunnes katkaravut ovat vaaleanpunaisia ja hieman hiiltyneitä.",
+      "Poista katkaravut vartaista ja heitä vartaat pois. Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-firecracker-marinade",
+    "title": "Firecracker-marinadi",
+    "description": "Tulinen habanero-marinadi grillilihalle ja -äyriäisille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["marinadi", "tulinen", "grilli"],
+    "ingredients": [
+      "2 habanero-chiliä, kannat poistettuna",
+      "1½ tl suolaa",
+      "1½ tl vastajauhettua mustapippuria",
+      "2 sitruunan mehu",
+      "1 sitruunan kuori, hienoksi raastettuna",
+      "2 rkl hienonnettua valkosipulia",
+      "1¼ dl valkoviiniä",
+      "60 g voita, sulatettuna",
+      "½ dl extra-neitsytoliiviöljyä"
+    ],
+    "instructions": [
+      "Aja kaikki ainekset tehosekoittimessa tasaiseksi.",
+      "Säilytä jääkaapissa enintään 1½ viikkoa.",
+      "Ravista hyvin ennen käyttöä."
+    ],
+    "notes": ["Jos et siedä kuumuutta, pidä jotain maitotuotetta lähettyvillä – se auttaa jäähdyttämään poltetta."]
+  },
+  {
+    "id": "wikibooks-firecracker-ribs",
+    "title": "Firecracker-kyljykset",
+    "description": "Cayennepippurilla maustetut uunikylkiribsit, jotka saavat tulisen potkun.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "tulinen", "uuniruoka"],
+    "ingredients": [
+      "1 kylkiritilä possun kylkiribsejä",
+      "½ dl Firecracker-mausteseosta",
+      "muutama tippa nestesavua",
+      "2½ dl valkoviiniä",
+      "2 rkl omenaviinietikkaa",
+      "2 rkl Worcestershire-kastiketta",
+      "2 rkl soijakastiketta",
+      "2 rkl hunajaa"
+    ],
+    "instructions": [
+      "Mausta kyljykset mausteseoksella ja jäähdytä vähintään 1 tunti.",
+      "Lämmitä uuni 110 asteeseen.",
+      "Sekoita nestemäiset ainekset keskenään.",
+      "Laita kyljykset isoon foliopussiin, kaada joukkoon nesteseos ja sulje pussi.",
+      "Paista 110 asteessa 5–6 tuntia.",
+      "Nosta kyljykset pussista ja laita sivuun. Säästä neste.",
+      "Keitä neste kokoon puoleen määrään korkealla lämmöllä, sivele sitten hieman keitettyä nestettä kyljysten päälle ja laita esilämmitetyn grillivastuksen alle. Seuraa tarkasti ja ota pois, kun kauniisti ruskistunut.",
+      "Anna levätä 15 minuuttia; tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-firecracker-rub",
+    "title": "Firecracker-mausteseos",
+    "description": "Tulinen kuiva mausteseos, joka tuo potkua mauttomiin kaupan valmismausteisiin verrattuna.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mauste", "tulinen", "grilli"],
+    "ingredients": [
+      "2½ dl savupaprikaa",
+      "½ dl suolaa",
+      "½ dl cayennepippuria",
+      "½ dl mustapippuria",
+      "2 dl fariinisokeria",
+      "½ dl jauhettua korianteria",
+      "3 rkl valkosipulijauhetta",
+      "1¼ dl kuivattua rosmariinia"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset ilmatiiviiseen astiaan."
+    ]
+  },
+  {
+    "id": "wikibooks-fireweed-scones",
+    "title": "Maitohorsmascone",
+    "description": "Pehmeät voileikkeleet, joihin on sekoitettu maitohorsman kukkia.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonnainen", "kukka", "scone"],
+    "ingredients": [
+      "280 g vehnäjauhoja",
+      "½ dl sokeria",
+      "2 tl leivinjauhetta",
+      "½ tl ruokasoodaa",
+      "½ tl suolaa",
+      "5 rkl voita",
+      "2½ dl smetanaa",
+      "1 munankeltuainen",
+      "1¼ dl maitohorsman kukkia"
+    ],
+    "instructions": [
+      "Sekoita kuivat ainekset keskenään.",
+      "Leikkaa voi viiteen palaan ja sekoita kuivien aineiden joukkoon, kunnes seos on murumaista.",
+      "Sekoita smetana ja munankeltuainen keskenään, ja sekoita kuivien aineiden kanssa, kunnes kaikki on yhdistynyt. Taikina on tahmeaa.",
+      "Kumoa taikina jauhotetulle alustalle ja ripottele kukat päälle.",
+      "Vaivaa kevyesti (vain noin 10 kertaa), jotta kukat sekoittuvat.",
+      "Painele taikina noin 2 cm paksuiseksi neliöksi.",
+      "Leikkaa 4 neliöksi, ja leikkaa jokainen neliö vinottain, jolloin saat 8 sconea.",
+      "Paista 200 asteessa 12–15 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-fireweed-vinegar",
+    "title": "Maitohorsmaetikka",
+    "description": "Maitohorsman kukilla ja nupuilla maustettu etikka.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "vegaaninen", "etikka", "säilöntä"],
+    "ingredients": [
+      "5 dl maitohorsman kukkia ja nuppuja",
+      "2½ dl riisi- tai valkoviinietikkaa"
+    ],
+    "instructions": [
+      "Huuhtele kukat siivilässä ja anna kuivua.",
+      "Laita kukat steriloituun purkkiin ja kaada etikka päälle.",
+      "Laita seos pimeään paikkaan ja anna hautua 3–4 viikkoa. Siivilöi etikka siivilän tai paperisen kahvinsuodattimen läpi.",
+      "Säilytä jääkaapissa. Pidempää säilyvyyttä varten voit käsitellä purkit kiehuvassa vesihauteessa 5 minuuttia."
+    ]
+  }
+]

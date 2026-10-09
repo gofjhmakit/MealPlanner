@@ -1,0 +1,844 @@
+[
+  {
+    "id": "wikibooks-duck-fried-rice",
+    "title": "Ankanlihapaistoriisi",
+    "description": "Nopea ja maukas paistoriisi, jossa ankanliha tuo makeutta chilin ja valkosipulin rinnalle.",
+    "servings": 5,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": [
+      "ankka",
+      "riisi",
+      "aasialainen",
+      "chili"
+    ],
+    "ingredients": [
+      "3 rkl voita",
+      "2 rkl seesamiöljyä",
+      "3 kynttä valkosipulia, hienonnettuna",
+      "2 punaista chiliä, 1 cm paloiksi viipaloituna",
+      "2 vihreää chiliä, 1 cm paloiksi viipaloituna",
+      "3 kevätsipulia (vain valkoinen osa), ohuina viipaleina",
+      "200 g taugeita, kuumaan veteen liotettuna",
+      "25 g tuoretta persiljaa",
+      "n. 300 g ankanlihaa, 1 cm paloiksi viipaloituna",
+      "600 g keitettyä riisiä",
+      "2 rkl kevyttä soijakastiketta",
+      "1 rkl habanerokastiketta",
+      "1 rkl mustapippuria",
+      "1½ rkl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna voi ja seesamiöljy pinnoitetussa paistinpannussa keskikorkealla lämmöllä. Lisää valkosipuli, chilit ja kevätsipuli. Paista hämmentäen noin 15 sekuntia, kunnes tuoksuu hyvältä.",
+      "Lisää ankanliha, taugeet ja persilja. Hämmennä, kunnes ankanliha vaihtaa väriä.",
+      "Lisää riisi, sitten soijakastike, habanerokastike, mustapippuri ja suola. Sekoita hyvin.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-duck-stock",
+    "title": "Ankanlihaliemi",
+    "description": "Paahdetun ankan luista ja jätteistä keitetty maukas perusliemi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": [
+      "ankka",
+      "liemi",
+      "perusresepti"
+    ],
+    "ingredients": [
+      "paahdetun ankan jäljellä olevat luut",
+      "paistoliemi paahtopannusta",
+      "ankan sisäelimiä (maha, sydän, kaula, nahattomat/kuoritut jalat)",
+      "1 tl suolaa (tai maun mukaan)",
+      "1,2 l vettä",
+      "½ tl etikkaa"
+    ],
+    "instructions": [
+      "Keitä kaikki ainekset tiiviisti suljetussa, paksupohjaisessa kattilassa keskilämmöllä, kunnes seos kiehuu kunnolla. Laske sitten lämpöä ja anna hautua noin 1½ tuntia.",
+      "Siivilöi ja ota talteen liemi, poista luut mutta säästä mahdollinen liha."
+    ],
+    "notes": [
+      "Etikka ei pilaa liemen makua – se haihtuu keitossa ja auttaa irrottamaan ravinteita, kuten kalsiumia, luista jättämättä hapanta makua tai hajua."
+    ]
+  },
+  {
+    "id": "wikibooks-duck-lorange",
+    "title": "Ankka à l'Orange",
+    "description": "Grillattu ankanrintafilee, jonka pintaan appelsiinimarmeladi muodostaa makean, kiiltävän pinnan.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": [
+      "ankka",
+      "grillaus",
+      "appelsiini"
+    ],
+    "ingredients": [
+      "4 ankanrintafileetä (n. 800–920 g), luuttomia",
+      "oliiviöljyä",
+      "suolaa",
+      "mustapippuria, vastajauhettua",
+      "appelsiinimarmeladia"
+    ],
+    "instructions": [
+      "Viillä ankan nahkaan vinoruudukko. Sivele oliiviöljyllä ja mausta reilusti suolalla ja vastajauhetulla mustapippurilla molemmin puolin. Jätä odottamaan.",
+      "Grillaa ankanrintoja keskikuumalla, kannen alla, 4–5 minuuttia nahkapuoli alaspäin, siveltynä marmeladilla noin puolentoista minuutin välein.",
+      "Käännä ja kypsennä vielä 3–4 minuuttia, sivellen minuutin välein, kunnes liha on medium-rare.",
+      "Siirrä lautaselle ja peitä alumiinifoliolla. Anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-dud-patti-milk-tea",
+    "title": "Dud Patti (maitotee)",
+    "description": "Pakistanilainen maitotee, jossa teelehdet haudutetaan suoraan kuumassa maidossa veden sijaan.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": [
+      "tee",
+      "maito",
+      "pakistanilainen"
+    ],
+    "ingredients": [
+      "6 dl maitoa",
+      "2 kukkuvaa tl irtotee­lehtiä",
+      "sokeria maun mukaan"
+    ],
+    "instructions": [
+      "Kaada maito kattilaan. Anna sen hautua keski-matalalla lämmöllä.",
+      "Kun maito alkaa lähes kiehua, lisää teelehdet.",
+      "Sekoita hieman lastalla, jotta tee ehtii uuttua ennen kuin maito kiehuu yli.",
+      "Ota kattila pois liedeltä, kun maito alkaa kiehua yli, ja kaada se siivilän läpi kuppiin.",
+      "Makeuta sokerilla ja nauti!"
+    ],
+    "notes": [
+      "Irtoteetä saa pakistanilaisista ja intialaisista erikoisliikkeistä. Suosittuja merkkejä ovat Tapal Danedar ja Lipton."
+    ]
+  },
+  {
+    "id": "wikibooks-dum-aloo-kashmiri-potato-curry",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-dum-ka-qimah-spiced-minced-meat",
+    "title": "Dum ka Qimah (mausteinen jauheliha)",
+    "description": "Kashmirilaistyylinen mausteinen jauhelihapata, jossa savun maku tuodaan hehkuvalla hiilenpalalla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "jauheliha",
+      "intialainen",
+      "mausteinen"
+    ],
+    "ingredients": [
+      "2½ dl öljyä",
+      "3 keskikokoista sipulia, kuorittuna ja ohuiksi viipaleiksi leikattuna",
+      "7–8 kokonaista kuivattua chiliä",
+      "1 kg vähärasvaista naudan tai lampaan jauhelihaa",
+      "1 rkl inkivääritahnaa",
+      "1 tl garam masalaa",
+      "1½ tl suolaa",
+      "2 rkl jogurttia",
+      "2 rkl raastettua raakaa papaijaa",
+      "1 pala hiiltä (savustukseen)",
+      "2 rkl tuoretta hienonnettua korianteria",
+      "1 tl hienonnettua vihreää chiliä"
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa kattilassa. Lisää sipulit ja paista, usein hämmentäen, 8–10 minuuttia vaaleankultaisiksi.",
+      "Nosta sipulit öljystä ja paista kokonaiset chilit hetken aikaa öljyssä – älä anna niiden palaa.",
+      "Laita sipulit ja chilit tehosekoittimeen tai yleiskoneeseen ja soseuta tasaiseksi tahnaksi ilman vettä. Säästä öljy.",
+      "Pese jauheliha huolellisesti ja purista siitä ylimääräinen vesi pois.",
+      "Laita jauheliha kulhoon. Lisää sipulitahna, inkivääritahna, suola, garam masala ja jogurtti. Vaivaa seosta käsin muutama minuutti, kunnes se on tasaista.",
+      "Peitä ja anna marinoitua huoneenlämmössä noin 3–4 tuntia tai yön yli jääkaapissa. Tunti ennen kypsennystä sekoita joukkoon raastettu papaija.",
+      "Hehkuta puuhiili keskituleen, kunnes se on täysin hehkuva ja valkoisen tuhkan peittämä.",
+      "Laita lihaseos metallivuokaan ja tee keskelle kuoppa. Aseta kuoppaan pieni pala alumiinifoliota. Nosta hehkuva hiili folion päälle ja tiputa päälle 2–3 tippaa öljyä. Peitä heti tiiviillä kannella ja anna olla 20–25 minuuttia.",
+      "Ota talteen ½ dl säästettyä öljyä ja kuumenna se paksupohjaisessa pannussa. Poista hiili ja paista jauhelihaa miedolla lämmöllä 4–5 minuuttia. Peitä tiiviillä kannella ja kypsennä 15–20 minuuttia, kunnes ylimääräinen neste on haihtunut.",
+      "Siirrä tarjoiluastiaan ja koristele sipulirenkailla, vihreällä chilillä ja korianterinlehdillä."
+    ],
+    "notes": [
+      "Hiiltä käytetään vain savustamiseen folion sisällä – sitä ei syödä."
+    ]
+  },
+  {
+    "id": "wikibooks-dumboy-and-pepper-soup",
+    "title": "Dumboy ja pippurikeitto",
+    "description": "Liberian kansallisruoka: survottu kassava tarjoillaan tulisen pippurikeiton kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": [
+      "kassava",
+      "liberialainen",
+      "keitto"
+    ],
+    "ingredients": [
+      "1 kg kassavajuurta, kuorittuna ja paloiteltuna",
+      "1,4 kg vuohen-, kanan- tai naudanlihaa, pieniksi paloiksi leikattuna",
+      "1 iso sipuli, hienonnettuna",
+      "3 laakerinlehteä",
+      "2 habanerochiliä, hienonnettuna",
+      "3 rkl suolaa, tai maun mukaan",
+      "3 kananlihaliemikuutiota, murennettuna",
+      "1,4 kg raakoja katkarapuja",
+      "4 kokonaista okraa, hienonnettuna"
+    ],
+    "instructions": [
+      "Huuhtele kassavapalat ja keitä niitä kattilassa vedessä 20 minuuttia. Valuta ja anna jäähtyä.",
+      "Halutessasi viipaloi keitetty kassava pienemmiksi paloiksi.",
+      "Survo kassava morttelissa, kunnes siitä muodostuu tahmea taikina. Kostuta survinta tarvittaessa pienellä vesimäärällä.",
+      "Kun haluttu koostumus on saavutettu, muotoile taikinasta siistejä palloja ja laita ne odottamaan.",
+      "Yhdistä liha, sipuli, laakerinlehdet ja habanerochili isossa paksupohjaisessa kattilassa. Lisää reilusti vettä ja mausta anteliaasti suolalla sekä murennetuilla liemikuutioilla.",
+      "Peitä kattila ja keitä noin 30 minuuttia, kunnes liha on mureaa.",
+      "Lisää katkaravut ja okra keittoon. Sekoita ja hauduta vielä 10 minuuttia keskilämmöllä.",
+      "Tarjoa keitto valmiiden dumboy-pallojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-dump-cake",
+    "title": "Dump-kakku",
+    "description": "Nopea ja helppo kakku, jossa kerrokset vain kaadetaan vuokaan päällekkäin.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": [
+      "kakku",
+      "ananas",
+      "kirsikka",
+      "helppo"
+    ],
+    "ingredients": [
+      "1 tlk (570 g) murskattua ananasta mehuineen",
+      "1 tlk (600 g) kirsikkapiirakkatäytettä",
+      "1 pkt keltaista kakkujauhetta",
+      "1,25 dl voita",
+      "2,5 dl pekaanipähkinärouhetta"
+    ],
+    "instructions": [
+      "Esilämmitä valurautapata 175-asteiseksi uunissa. Voitele valurautapata.",
+      "Kaada ananas mehuineen pataan ja levitä tasaisesti.",
+      "Kaada päälle kirsikkatäyte ja levitä tasaisesti ananaskerroksen päälle.",
+      "Ripottele kakkujauhe tasaisesti kirsikkakerroksen päälle.",
+      "Lisää voinokareita pinnalle.",
+      "Paista noin 50 minuuttia 175 asteessa.",
+      "Ripottele pekaanipähkinärouhe päälle.",
+      "Jos et käytä valurautapataa: esilämmitä uuni 175 asteeseen.",
+      "Voitele 33 x 23 cm:n kakkuvuoka.",
+      "Jatka kuten valurautapata-ohjeessa, aloittaen vaiheesta 2."
+    ],
+    "notes": [
+      "Kakun voi paistaa myös ilman uunia valurautapadassa hiilloksen päällä: peitä pata kannella ja aseta se hiilikerroksen päälle, lisää hiiliä myös kannen päälle – vähemmän alle, enemmän päälle.",
+      "Aseta lasillinen vettä padan keskelle ennen paistamista, se auttaa kakkua paistumaan tasaisesti joka puolelta.",
+      "Käytä mitä tahansa piirakkatäytettä haluat.",
+      "Tarjoa lämpimänä tai huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "wikibooks-duonos-gira-lithuanian-rye-drink",
+    "title": "Duonos gira (liettualainen ruisjuoma)",
+    "description": "Perinteinen liettualainen kvassintapainen virvoitusjuoma, joka valmistetaan käymisen avulla tummasta ruisleivästä. Juomaa tarjoillaan kesällä kylmänä ja talvella myös lämpimänä.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": [
+      "leipäjuoma",
+      "käyminen",
+      "liettualainen"
+    ],
+    "ingredients": [
+      "4,75 l vettä",
+      "450 g kuivattua mustaa ruisleipää (happamanalkuista liettualaistyylistä ruisleipää)",
+      "450 g valkoista sokeria (valinnainen)",
+      "4 tl hiivaa",
+      "2,5 dl rusinoita"
+    ],
+    "instructions": [
+      "Keitä vesi ja kaada se kuutioidun leivän päälle. Anna liota 24 tuntia.",
+      "Siivilöi neste talteen. Sekoita siihen hiiva ja sokeri. Pidä lämpimässä paikassa 48 tuntia.",
+      "Siirrä neste pulloihin. Lisää rusinat tai muita kuivattuja hedelmiä ja sulje pullot.",
+      "Duonos gira on nyt valmista juotavaksi. Säilytä pulloja viileässä enintään 2 kuukautta."
+    ]
+  },
+  {
+    "id": "wikibooks-durian-pancake",
+    "title": "Durianletut",
+    "description": "Pehmeät kookos-riisiletut, joissa on makeaa durianin ja banaanin täytettä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": [
+      "durian",
+      "kookos",
+      "aasialainen",
+      "letut"
+    ],
+    "ingredients": [
+      "90 g raastettua tuoretta kookoshedelmän lihaa",
+      "140 g riisijauhoja",
+      "1½ rkl nuolijuurijauhoa",
+      "2 kypsää banaania, soseutettuna",
+      "50 g durianta",
+      "170 g raastettua palmusokeria",
+      "1 kananmuna",
+      "2,5 dl kookoskermaa",
+      "rypsiöljyä",
+      "1,2 dl palmusokerikaramellia",
+      "passiohedelmäjäätelöä"
+    ],
+    "instructions": [
+      "Sekoita kookoshedelmän liha riisijauhojen ja nuolijuurijauhon kanssa.",
+      "Soseuta erillisessä kulhossa banaanit ja durian yhteen. Lisää palmusokeri, kananmuna ja kookoskerma, ja sekoita hyvin.",
+      "Kaada banaaniseos tehosekoittimeen ja soseuta tasaiseksi.",
+      "Yhdistä kookosseos ja banaanisose. Peitä ja anna jäähtyä jääkaapissa vähintään 1 tunti.",
+      "Kuumenna pannu keskikuumaksi. Sivele pannun pinta öljyllä ja lusikoi seosta pannulle. Paista, kunnes lettu on vaaleanruskea.",
+      "Tarjoa kuumana palmusokerikaramellin ja passiohedelmäjäätelön kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-dutch-apple-fritters-oliebollen",
+    "title": "Hollantilaiset omenamunkit (oliebollen)",
+    "description": "Oliebollen eli \"öljypallot\" ovat hollantilaisia hiivataikinamunkkeja, joihin on usein lisätty omenaa ja rusinoita. Niitä tarjoillaan hollantilaisissa juhlissa myös Yhdysvalloissa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": [
+      "munkki",
+      "hollantilainen",
+      "hiivataikina",
+      "omena"
+    ],
+    "ingredients": [
+      "2 rkl sokeria",
+      "2,5 dl haaleaa vettä",
+      "2 pss kuivahiivaa",
+      "5 kananmunaa",
+      "5 dl haudutettua maitoa",
+      "3,75 dl haaleaa vettä",
+      "1,25 dl margariinia, pehmennettynä",
+      "1,4 kg vehnäjauhoja",
+      "2,5 dl valkoista sokeria",
+      "1½ tl suolaa",
+      "3 Granny Smith -omenaa (valinnainen), kuutioituna",
+      "7,5 dl sokeria",
+      "kanelia maun mukaan",
+      "2,5 dl rusinoita (valinnainen)",
+      "rypsiöljyä tai kasvisrasvaa paistamiseen"
+    ],
+    "instructions": [
+      "Liuota sokeri haaleaan veteen. Ripottele hiiva päälle. Anna seistä noin 10 minuuttia.",
+      "Vatkaa kananmunat isossa kulhossa sekaisin. Lisää haudutettu maito, haalea vesi, hiivaseos ja margariini. Vatkaa hyvin.",
+      "Lisää jauhot, sokeri ja suola. Sekoita hyvin. Lisää kuutioitu omena.",
+      "Anna taikinan kohota lämpimässä paikassa, kunnes se on kaksinkertaistunut.",
+      "Sekoita erillisessä kulhossa sokeri ja kaneli maun mukaan. Laita sivuun.",
+      "Täytä kattila noin 10 cm:n kerroksella rypsiöljyä tai sulatettua kasvisrasvaa. Kuumenna 190 asteeseen.",
+      "Pudota suuria lusikallisia taikinaa kuumaan öljyyn. Kastamalla lusikat ensin kuumaan öljyyn ne eivät tartu taikinaan.",
+      "Paista oliebolleneja, kunnes ne ovat kultaisenruskeita, käännellen tasaisen kypsymisen vuoksi.",
+      "Nosta oliebollenit talouspaperin päälle valumaan.",
+      "Pyörittele oliebollenit kanelisokeriseoksessa ja tarjoa lämpiminä."
+    ]
+  },
+  {
+    "id": "wikibooks-dutch-oven-beans",
+    "title": "Valurautapadan pavut",
+    "description": "Täyttävä ja runsas papupata pekonilla ja naudan jauhelihalla – klassikko retkikeittiöön.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": [
+      "pavut",
+      "pekoni",
+      "retkiruoka"
+    ],
+    "ingredients": [
+      "450 g pekonia",
+      "450 g naudan jauhelihaa",
+      "1 iso sipuli",
+      "1 iso tlk (1,5 kg) papuja tomaattikastikkeessa",
+      "1 tlk (425 g) limanpapuja",
+      "1 tlk (425 g) pintopapuja",
+      "1 tlk (425 g) punaisia papuja",
+      "1 tlk (425 g) voipapuja",
+      "1,25 dl ketsuppia",
+      "2 rkl fariinisokeria",
+      "1 tl sinappijauhetta",
+      "2 rkl mustaa siirappia (melassia)",
+      "2 rkl Worcestershire-kastiketta",
+      "1 tl nestesavua"
+    ],
+    "instructions": [
+      "Paloittele pekoni suupaloiksi ja aloita sen paistaminen kuumennetussa valurautapadassa.",
+      "Paloittele sipuli noin 1 cm:n paloiksi.",
+      "Kun pekoni on lähes kypsää, murenna joukkoon naudan jauheliha ja paloiteltu sipuli. Kypsennä, kunnes sipuli on läpikuultavaa.",
+      "Lisää kaikki pavut, ketsuppi, fariinisokeri, sinappi, siirappi ja Worcestershire-kastike. Sekoita seos.",
+      "Kuumenna hiljaiseen kiehumiseen ja anna poreilla kevyesti 10–15 minuuttia tai niin pitkään kuin malttia riittää.",
+      "Sekoita joukkoon nestesavu.",
+      "Maista ja tarkista mauste – lisää tarvittaessa lisää ketsuppia, fariinisokeria, sinappia, siirappia tai nestesavua."
+    ],
+    "notes": [
+      "Jos käytät kuivattuja papuja, tarvitaan paljon enemmän hiiliä useiden tuntien ajan, kun alkuperäiset briketit palavat loppuun.",
+      "Myös mustasilmäpapuja voi käyttää.",
+      "Kuivatuilla pavuilla: lisää 2,8 l liotettuja papuja kypsennettyyn pekoniin, jauhelihaan ja sipuliin, lisää ketsuppi, fariinisokeri, sinappi, siirappi ja Worcestershire-kastike, lisää vettä paksuksi keitoksi ja kypsennä, kunnes pavut ovat pehmeitä – noin 6–8 tuntia, kauemmin korkealla sijaitsevilla paikoilla."
+    ]
+  },
+  {
+    "id": "wikibooks-duxelles-minced-mushrooms-with-herbs",
+    "title": "Duxelles (hienonnetut sienet yrteillä)",
+    "description": "Ranskalainen hienonnettu sienimassa, jota käytetään täytteenä ja makua tuomassa monissa ruoissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "sienet",
+      "ranskalainen",
+      "täyte"
+    ],
+    "ingredients": [
+      "225 g tuoreita sieniä tai sienenjalkoja, hienonnettuna",
+      "1 pieni sipuli tai 1–2 salottisipulia, hienonnettuna",
+      "1–2 rkl voita",
+      "suolaa",
+      "mustapippuria",
+      "hienonnettua persiljaa maun mukaan",
+      "1 ripaus rakuunaa tai timjamia (valinnainen)"
+    ],
+    "instructions": [
+      "Kuullota sipulia voissa paistinpannussa, kunnes se on pehmeää mutta ei ruskistunut (noin 3–5 minuuttia).",
+      "Sekoita joukkoon hienonnetut sienet, suola, pippuri, persilja ja rakuuna.",
+      "Kypsennä seosta keskikorkealla lämmöllä, kunnes sienet erittävät paljon nestettä ja neste haihtuu kokonaan (noin 5–10 minuuttia). Duxellesin tulisi muistuttaa karkeaa muusia.",
+      "Anna seoksen jäähtyä hieman ja maista maustetasapainoa."
+    ],
+    "notes": [
+      "Voit lisätä mitä tahansa tuoreita yrttejä tai lorauksen soijakastiketta, valkoviiniä, madeiraa, sitruunamehua tai jopa hedelmiä, kuten kuivattuja aprikooseja, aterian mukaan.",
+      "Duxellesia voi pakastaa 1–2 kuukaudeksi.",
+      "Jos käytät kuivattuja sieniä, huuhtele ne ensin, sillä niissä on usein hiekkaa ja metsän roskia. Liota niitä sen jälkeen hyvin kuumassa (ei kiehuvassa) vedessä, kunnes ne ovat pehmeitä (10–20 minuuttia). Nosta sienet vedestä, huuhtele ja harjaa vielä kerran, kuivaa ja jatka kuten tuoreilla sienillä.",
+      "Kastike-duxelles tehdään lisäämällä perus-duxellesiin valkoviiniä, lientä ja tomaattipyreetä. Tarjoillaan kalan, lihan tai munien kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-dynamite-shrimp",
+    "title": "Dynamiittikatkaravut",
+    "description": "Rapeiksi paistetut tulisella maustekuorrutuksella höystetyt katkaravut.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "katkarapu",
+      "tulinen",
+      "friteeraus"
+    ],
+    "ingredients": [
+      "3 rkl suolaa",
+      "3 rkl vastajauhettua mustapippuria",
+      "1 rkl cajun-mausteseosta",
+      "1 rkl cayennepippuria",
+      "1,1 kg kuorittuja ja suolistettuja jättikatkarapuja",
+      "tuoretta sitruunamehua",
+      "vehnäjauhoja",
+      "maissijauhoja",
+      "2 l mietoa öljyä paistamiseen"
+    ],
+    "instructions": [
+      "Yhdistä suola, pippuri, cajun-mausteseos ja cayennepippuri. Laita sivuun.",
+      "Pyöräytä jokainen katkarapu jauhoissa, kasta sitruunamehuun ja pyöräytä lopuksi maissijauhoissa. Anna olla 2–3 minuuttia.",
+      "Kuumenna öljy 190 asteeseen. Lisää katkaravut erissä ja paista noin 2 minuuttia tai kunnes ne ovat kullanruskeita ja kypsiä. Valuta ritilällä.",
+      "Kun kaikki katkaravut on paistettu, pyörittele ne mauste­seoksessa. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "wikibooks-dner-kebab",
+    "title": "Doner kebab",
+    "description": "Döner kebab (turkiksi döner kebap) tarkoittaa kirjaimellisesti \"pyörivää grillattua lihaa\". Alun perin Bursasta kotoisin oleva annos tehdään Turkissa perinteisesti lampaanlihasta leivän ja salaatin kera; Euroopassa käytetään useimmiten naudanlihaa tai naudan ja lampaan sekoitusta. Tässä ohjeessa valmistetaan eurooppalaistyylinen pitakebab kotioloissa.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": [
+      "kebab",
+      "naudanliha",
+      "turkkilainen",
+      "pita"
+    ],
+    "ingredients": [
+      "2 kg naudan tai muuta jauhelihaa",
+      "11–12 tl kanasuolaa tai maustesuolaa",
+      "6 tl mustapippuria (määrä maun mukaan)",
+      "2–3 dl luonnonjogurttia",
+      "1–3 kynttä valkosipulia, hienonnettuna",
+      "1 ripaus suolaa",
+      "1 tl basilikaa",
+      "1–1½ tl musta- ja/tai valkopippuria",
+      "vihreää, keltaista tai punaista paprikaa (valinnainen)",
+      "chiliä tai chilijauhetta (valinnainen)",
+      "cayennepippuria (valinnainen)",
+      "tabascokastiketta (valinnainen)",
+      "1 tlk (70 g) tomaattipyreetä",
+      "½–1 tl suolaa",
+      "½–1½ tl valkopippuria",
+      "½–1½ tl mustapippuria",
+      "1 tl basilikaa",
+      "1 ripaus oreganoa",
+      "ketsuppia (maun mukaan)",
+      "pitaleipää",
+      "salaattia (katso ohjeet)",
+      "riisiä",
+      "ranskalaisia perunoita"
+    ],
+    "instructions": [
+      "Sekoita kaikki jauhelihaseoksen ainekset tasaiseksi massaksi.",
+      "Vaivaa seosta yleiskoneella tai käsin, jotta ilma poistuu massasta.",
+      "Tee halutessasi massaan veitsellä reikä, josta ylimääräinen rasva pääsee valumaan ulos.",
+      "Kääri massa tiiviisti alumiinifolioon, käytä vähintään kahta kerrosta folion repeämisen estämiseksi.",
+      "Laita uuniin 100 asteeseen ja anna kypsyä 4 tuntia. Huomaa, että 4 tuntia pätee, vaikka reseptiä pienennettäisiin: jos teet esimerkiksi 1 kg:n palan (puolet alkuperäisestä), älä kypsennä sitä vain 2 tuntia – 4 tuntia pätee aina koosta riippumatta, sillä ajatuksena on hidas kypsennys.",
+      "Kun liha on kypsää, ota se uunista, avaa folio ja anna jäähtyä. Jos kaikki meni oikein, massan pitäisi olla helppo viipaloida ohuiksi siivuiksi juustohöylällä tai veitsellä.",
+      "Yhdistä kastikkeen ainekset.",
+      "Sekoita hyvin.",
+      "Kebabia voi tarjoilla usealla tavalla, muun muassa seuraavilla:",
+      "Leipäversio: Viipaloi pitaleipä keskeltä auki ja täytä salaatilla, kebablihalla ja kastikkeilla kuten hampurilainen.",
+      "Rulla-kebab: Kebab kääritään pitaleipään samaan tapaan kuin burrito.",
+      "Kebabpizza: Valmista pizza ja lisää päälle kebablihaa.",
+      "Kebab riisin kanssa: Täytä noin puolet lautasesta kebablihalla, loput keitetyllä riisillä. Lisää ketsuppia tai jotain kastikkeista.",
+      "Kebab ranskalaisten kanssa: Kuten edellinen, mutta riisin sijaan tarjoillaan ranskalaisia perunoita."
+    ],
+    "notes": [
+      "Lihaseokseen voi halutessaan lisätä muita mausteita, kuten chiliä, cayennepippuria, valkosipulia tai grillikastiketta.",
+      "Tomaateista, suolakurkuista, kurkusta ja kiinankaalista tehty salaatti majoneesin kera on Euroopassa yleisin kebabin kanssa tarjoiltava salaatti. Voit lisätä myös chilejä, jalapenoa tai punasipulia maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-east-african-beef-pilaf",
+    "title": "Itäafrikkalainen naudanlihapilaf",
+    "description": "Tuoksuva itäafrikkalainen riisiruoka, jossa riisi kypsennetään lihan sekä inkiväärin, valkosipulin ja mausteiden kanssa. Tarjoillaan usein kachumbarin, tomaatista, sipulista ja salaatista tehdyn raasteen, kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "riisi",
+      "naudanliha",
+      "itäafrikkalainen"
+    ],
+    "ingredients": [
+      "250 g naudanlihaa, kuutioituna ja huuhdeltuna",
+      "1 rkl inkivääri-valkosipulitahnaa",
+      "1 rkl suolaa",
+      "1 tomaatti, raastettuna",
+      "1 sipuli, raastettuna",
+      "rypsiöljyä",
+      "1 rkl jauhettua juustokuminaa",
+      "2 kardemummapalkoa, siemenet irrotettuna",
+      "1½ tl jauhettua kokonaista pippuria",
+      "2 kanelitankoa",
+      "neilikoita",
+      "2 sipulia, hienonnettuna",
+      "1½ tl kurkumaa",
+      "1½ tl jauhettua korianteria",
+      "½ tl valkosipulitahnaa",
+      "hienonnettua tuoretta korianteria",
+      "suolaa",
+      "400 g riisiä, pestynä ja liotettuna 10 minuuttia"
+    ],
+    "instructions": [
+      "Laita liha kattilaan veden, inkivääri-valkosipulitahnan, suolan, raastetun tomaatin ja raastetun sipulin kanssa. Kuumenna kiehuvaksi ja keitä, kunnes liha on mureaa.",
+      "Nosta liha talteen ja laita sivuun. Säästä liemi riisin kypsentämistä varten.",
+      "Kuumenna kattilassa öljykerros keskilämmöllä. Lisää juustokumina, kardemumansiemenet, pippuri, kaneli ja neilikat; kypsennä, kunnes mausteet alkavat sihistä.",
+      "Lisää hienonnettu sipuli. Kypsennä hämmentäen, kunnes se on läpikuultavaa. Jos haluat tummemman pilafin, paista sipulit karamellisoituneiksi asti.",
+      "Sekoita joukkoon kurkuma ja korianterijauhe. Anna paistua hetki.",
+      "Sekoita joukkoon valkosipulitahna ja hieman tuoretta korianteria.",
+      "Lisää kypsä liha ja sekoita yhteen 2 minuutin ajan.",
+      "Lisää liemi ja anna kiehahtaa. Tarkista suola – muista lisätä riittävästi, sillä riisi tarvitsee vielä oman suolansa.",
+      "Sekoita joukkoon riisi ja hieman korianteria. Kypsennä kovalla lämmöllä noin 3 minuuttia.",
+      "Laske lämpöä keskitasolle ja peitä kattila. Kypsennä välillä hämmentäen, kunnes riisi on imenyt nesteen.",
+      "Laske lämpö matalaksi ja anna riisin höyrystyä loppuun 5 minuuttia.",
+      "Ota pois liedeltä ja tarjoa kachumbarin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-east-frisian-tea",
+    "title": "Itäfriisiläinen tee",
+    "description": "Iltapäivätee on tärkeä osa itäfriisiläistä kulttuuria – teehetkeä (teetied) ei haluta jättää väliin kotona tai vieraillessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": [
+      "tee",
+      "saksalainen",
+      "kerma"
+    ],
+    "ingredients": [
+      "2 dl kiehuvaa vettä per henkilö, mieluiten pehmeää",
+      "2 rkl irtoteetä litraa kohden, plus 1 tl \"pannulle\"",
+      "1 pala kandisokeria (kluntjes) per henkilö",
+      "1 tl kermaa per annos"
+    ],
+    "instructions": [
+      "Huuhtele teekannu kiehuvalla vedellä sen lämmittämiseksi. Kaada vesi pois ja lisää teelehdet.",
+      "Täytä kannu puolilleen vedellä, joka on jäähtynyt hieman kiehumispisteestä.",
+      "Laita kansi kannuun ja anna teen uuttua 3–4 minuuttia.",
+      "Lisää loppu vesi.",
+      "Laita yksi pala kandisokeria jokaiseen kuppiin.",
+      "Kaada tee siivilän läpi kuppeihin. Kandisokeri alkaa rätistä kuumassa nesteessä.",
+      "Laske kermalusikalla tai teelusikalla varovasti lusikallinen kermaa teehen niin, että se muodostaa \"pilven\". Älä sekoita teetä."
+    ],
+    "notes": [
+      "Käytä vahvaa mustaa teetä, kuten Assamia tai Ceylonia."
+    ]
+  },
+  {
+    "id": "wikibooks-eastern-north-carolina-barbecue-sauce",
+    "title": "Itä-Pohjois-Carolinan grillikastike",
+    "description": "Etikkapohjainen grillikastike, joka on klassinen lisä pohjoiscarolinalaiseen possu-bbq:hun.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "grillikastike",
+      "etikka",
+      "amerikkalainen"
+    ],
+    "ingredients": [
+      "2,8 l omenaviinietikkaa",
+      "0,3 dl suolaa",
+      "0,6 dl mustapippuria",
+      "0,6 dl chilihiutaleita",
+      "2,5 dl mustaa siirappia (melassia)",
+      "5 dl hunajaa"
+    ],
+    "instructions": [
+      "Kuumenna omenaviinietikkaa kattilassa keskilämmöllä.",
+      "Lisää suola, mustapippuri, chilihiutaleet, siirappi ja hunaja.",
+      "Anna seoksen kuumeta, mutta älä anna sen kiehua täysin.",
+      "Sekoita hyvin.",
+      "Kaada kastike takaisin etikkapulloon jäähtymään."
+    ],
+    "notes": [
+      "Tätä kastiketta käytetään aidon bbq:n kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-eastern-north-carolina-barbecued-pig",
+    "title": "Itä-Pohjois-Carolinan grillattu possu",
+    "description": "Kokonainen possu, joka kypsennetään hitaasti hiillostettuna isoa juhlaväkeä varten.",
+    "servings": 30,
+    "category": "Pääruoat",
+    "tags": [
+      "possu",
+      "grillaus",
+      "amerikkalainen",
+      "juhlaruoka"
+    ],
+    "ingredients": [
+      "1 possu (n. 36 kg, teurastettu, pää poistettu)",
+      "suolaa",
+      "18 kg puuhiiltä (jos käytät hiiligrilliä)",
+      "oman valinnan mukaista etikkapohjaista itä-Carolinan kastiketta"
+    ],
+    "instructions": [
+      "Suolaa kinkut, kylkiripat/keskiosa ja lavat reilusti ja aseta nahkapuoli ylöspäin kaasu- tai hiiligrilliin taikka bbq-pitiin.",
+      "Pidä kansi suljettuna ja tavoittele noin 135–175 asteen lämpötilaa.",
+      "Laske kypsennysaika noin 1 tunti jokaista 4,5 kiloa kohden (kaasu tai hiili).",
+      "2 tuntia ennen kuin possu on valmis, käännä se nahkapuoli alaspäin. Heti kääntämisen jälkeen kaada grillikastiketta lihapuolelle.",
+      "Sulje kansi ja anna nahan rapeutua.",
+      "Possu on valmis, kun kinkun luun pystyy kiertämään vapaasti irti.",
+      "Nosta kansi ja anna vieraiden repiä lihaa, tai kokki voi irrottaa lihan ja pilkkoa sen haluamallaan tavalla leikkuulaudalla."
+    ],
+    "notes": [
+      "Liian korkea lämpö tai liian pitkä kypsennysaika kuivattaa kinkut.",
+      "Lämmönlähteen tulisi olla mahdollisimman epäsuora kotitekoisessa pitissä – vähemmän hiiliä kylkiripan/keskiosan alla, enemmän reunoilla.",
+      "Mitä tasaisemman lämmön pystyt pitämään, sitä tasaisemmin ja mureammaksi possu kypsyy. Muista: \"jos katsot, et keitä.\"",
+      "Jos liha revitään käsin, tarjoa vieraille lisää kastiketta; jos liha pilkotaan, lisää kastiketta ja suolaa kokin maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-chicken-soup",
+    "title": "Helppo kanakeitto",
+    "description": "Lohduttava kanakeitto kuivatuilla sienillä, pastalla ja tuoreilla yrteillä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": [
+      "kana",
+      "keitto",
+      "pasta"
+    ],
+    "ingredients": [
+      "15 g kuivattuja herkkutatteja tai portobellosieniä",
+      "60 g vehnäjauhoja",
+      "570 g luuttomia, nahattomia kanan koipireisiä, puolitettuna",
+      "2 rkl voita",
+      "1 rkl oliiviöljyä",
+      "1 iso keltasipuli, kuutioituna",
+      "3 isoa valkosipulinkynttä, hienonnettuna",
+      "¼ tl timjamia",
+      "¼ tl basilikaa",
+      "½ rkl hienonnettua tuoretta rosmariinia",
+      "1,1 l vähäsuolaista kanalientä",
+      "2,4 dl vettä",
+      "1,8 dl pakastettuja herneitä",
+      "2 porkkanaa, pieniksi renkaiksi leikattuna",
+      "2,4 dl pieniä pastoja, kuten kuorimakaronia tai simpukkapastaa",
+      "2 varsisellerin vartta, hienonnettuna",
+      "1,2 dl hienonnettua tuoretta persiljaa",
+      "½ sitruunan mehu",
+      "suolaa maun mukaan",
+      "vastajauhettua mustapippuria maun mukaan"
+    ],
+    "instructions": [
+      "Laita sienet keskikokoiseen kulhoon ja peitä kuumalla vedellä. Anna liota pehmeiksi.",
+      "Laita jauhot matalaan kulhoon. Pyöräytä jokainen kanapala jauhoissa kevyesti joka puolelta. Laita sivuun.",
+      "Yhdistä voi ja oliiviöljy isossa keittopadassa keskikorkealla lämmöllä.",
+      "Kun rasva alkaa kihistä, lisää kana ja kypsennä käännellen, kunnes se on kevyesti ruskistunut joka puolelta, noin 5–7 minuuttia. Nosta liha pois padasta ja laita sivuun.",
+      "Laske lämpö keskitasolle ja lisää sipuli, valkosipuli, timjami, basilika ja rosmariini. Kuullota, kunnes sipuli alkaa ruskistua, noin 5 minuuttia.",
+      "Nosta lämpö korkealle ja lisää liemi ja vesi. Anna liemen kiehahtaa.",
+      "Leikkaa sillä välin liha suupaloiksi.",
+      "Valuta sienet ja purista niistä ylimääräinen neste pois.",
+      "Kun liemi kiehuu, laske lämpö keskikorkealle ja lisää liha, sienet, herneet ja porkkanat.",
+      "Anna kiehahtaa uudelleen ja kypsennä, kunnes porkkanat ovat mureita, noin 5 minuuttia.",
+      "Lisää pasta ja selleri ja kypsennä, kunnes pasta on juuri kypsää, vielä noin 5 minuuttia.",
+      "Sekoita joukkoon persilja ja sitruunamehu, ja mausta suolalla ja pippurilla."
+    ],
+    "notes": [
+      "Tämä versio ei ole gluteeniton."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-chili",
+    "title": "Helppo chili",
+    "description": "Chili sai alkunsa Texasissa 1800-luvulla, ja siitä on syntynyt lukemattomia variaatioita. Tämä on yksinkertainen perusversio.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": [
+      "chili",
+      "jauheliha",
+      "pavut"
+    ],
+    "ingredients": [
+      "2 tlk (850 g) tummia tai vaaleita kidneypapuja",
+      "2 tlk (850 g) murskattuja tomaatteja",
+      "225–450 g kypsennettyä naudan tai kalkkunan jauhelihaa, tai vastaava annos kasvisjauhelihaa",
+      "2 tl chilijauhetta (tai käytä chilimaustettuja kidneypapuja yllä)"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset kattilaan. Kypsennä keskilämmöllä 15 minuuttia.",
+      "Maista kidneypapuja ja tarkista maku, jotta tiedät, milloin chili on valmis.",
+      "Tarjoa keksien, raastetun juuston ja suosikkimausteidesi kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-christmas-fruit-cake",
+    "title": "Helppo joulun hedelmäkakku",
+    "description": "Tämän joulun hedelmäkakun voi syödä jo päivä valmistuksen jälkeen – ei tarvetta antaa sen kypsyä pitkään.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": [
+      "kakku",
+      "joulu",
+      "rusina"
+    ],
+    "ingredients": [
+      "360 g rusinoita",
+      "0,6 dl appelsiinimehua",
+      "240 g voita, pehmeänä",
+      "250 g tuorejuustoa",
+      "360 g fariinisokeria",
+      "4 kananmunaa",
+      "4 tl raastettua appelsiininkuorta",
+      "140 g vehnäjauhoja",
+      "1 rkl leivinjauhetta",
+      "½ tl suolaa",
+      "½ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Lämmitä rusinat ja appelsiinimehu kattilassa miedolla lämmöllä, kunnes neste on imeytynyt. Laita sivuun.",
+      "Vatkaa isossa kulhossa voi ja tuorejuusto sokerin kanssa vaahdoksi. Vatkaa joukkoon kananmunat yksi kerrallaan, ja sekoita lopuksi joukkoon appelsiininkuori.",
+      "Sekoita erillisessä kulhossa jauhot, leivinjauhe, suola ja muskottipähkinä. Lisää ne taikinaan, ja sen jälkeen rusinaseos.",
+      "Kaada taikina voideltuun ja jauhotettuun, halkaisijaltaan noin 23 cm:n vannemuottiin tai kranssimuottiin.",
+      "Paista noin 160 asteessa noin 80 minuuttia. Tarkista kypsyys tikulla 60 minuutin kohdalla.",
+      "Anna jäähtyä muotissa 5 minuuttia, käännä sitten ritilälle jäähtymään kokonaan."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-nachos",
+    "title": "Helpot nachot",
+    "description": "Rapeat tortillalastut sulatetun juuston, chilien ja sipulin kera – valmiina parissa minuutissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": [
+      "nachot",
+      "juusto",
+      "meksikolainen"
+    ],
+    "ingredients": [
+      "360 g tortillalastuja",
+      "450 g raastettua cheddarjuustota",
+      "0,8 dl hienonnettuja purkitettuja vihreitä chilejä (valinnainen)",
+      "1,2 dl hienonnettua sipulia (valinnainen)"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 200 asteeseen. Levitä tortillalastut uunipellille.",
+      "Sekoita keskenään juusto, chilit ja sipuli; ripottele seos tortillalastujen päälle.",
+      "Paista noin 2 minuuttia, kunnes juusto on sulanut.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-onion-chicken",
+    "title": "Helppo sipulikana",
+    "description": "Rapea uunikana, jossa kuorrutuksena toimivat murskatut sipulirenkaat.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": [
+      "kana",
+      "uuniruoka",
+      "helppo"
+    ],
+    "ingredients": [
+      "2,5–3,75 dl purkitettuja ranskalaisia sipulirenkaita",
+      "1 kananmuna, vatkattuna",
+      "4 luutonta, nahatonta kananrintafileetä (n. 450–680 g)"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 200 asteeseen.",
+      "Murskaa sipulirenkaat.",
+      "Kaada vatkattu kananmuna keskikokoiseen, leveään kulhoon.",
+      "Leikkaa kananrintafileet puoliksi.",
+      "Kasta kananpalat vatkattuun kananmunaan.",
+      "Pyörittele tai kieritä kananpalat murskatuissa sipulirenkaissa.",
+      "Aseta rasvattuun uunivuokaan.",
+      "Paista 20–25 minuuttia, kunnes kana on kypsää."
+    ],
+    "notes": [
+      "Helpoin tapa murskata sipulirenkaat on laittaa ne pakastepussiin ja rullata kaulimella niiden päältä. Samaa pussia voi sitten käyttää kanapalojen pyörittelyyn."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-orange-smoothie",
+    "title": "Helppo appelsiinismoothie",
+    "description": "Nopea ja virkistävä smoothie appelsiinimehutiivisteestä ja maidosta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": [
+      "smoothie",
+      "appelsiini",
+      "jäätä"
+    ],
+    "ingredients": [
+      "1 pieni tlk pakastettua appelsiinimehutiivistettä",
+      "2,5 dl rasvatonta maitoa",
+      "2,5 dl vettä",
+      "1 tl vaniljauutetta",
+      "0,6 dl sokeria",
+      "14 jääpalaa, murskattuna"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen ja sekoita tasaiseksi.",
+      "Tarjoa ja nauti."
+    ]
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": "wikibooks-fools-gold-loaf",
+    "title": "Hullun kullan leipä",
+    "description": "Erikoinen täytetty patonki margariinilla, pekonilla, maapähkinävoilla ja hillolla – kuuluisa Elvis Presleyn lempiherkkuna.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["amerikkalainen", "pekoni", "voileipä"],
+    "ingredients": [
+      "2 rkl margariinia",
+      "1 patonki (ranskanleipä)",
+      "450 g pekoniviipaleita",
+      "1 prk sileää maapähkinävoita",
+      "1 prk viinirypälehyytelöä tai -hilloa"
+    ],
+    "instructions": [
+      "Lämmitä uuni 180 asteeseen. Levitä margariini runsaasti patongin joka puolelle. Laita se uunipellille uuniin.",
+      "Paista sillä välin pekoni pannulla öljyssä rapeaksi ja valuta talouspaperilla.",
+      "Ota patonki uunista, kun se on tasaisesti ruskistunut, noin 15 minuutin kuluttua.",
+      "Halkaise patonki pitkittäin ja kuoppaa sisus, jättäen reunoille halutun verran leipää.",
+      "Levitä patongin onkaloon paksu kerros maapähkinävoita ja sen päälle paksu kerros hyytelöä. Käytä molempia runsaasti.",
+      "Asettele pekoniviipaleet onkaloon, tai halutessasi kerrosta ne maapähkinävoin ja hyytelön väliin. Sulje patonki, leikkaa ja nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-footi-guinean-vegetable-stew",
+    "title": "Footi (guinealainen kasvispata)",
+    "description": "Maukas munakoisoista ja tomaateista tehty guinealainen pata, joka muistuttaa tulista chiliä kasvispohjaisena versiona.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "guinealainen", "pata"],
+    "ingredients": [
+      "riisileseöljyä (tai muuta kasviöljyä)",
+      "sipulia, kuutioituna",
+      "habanero-chiliä, siemenet poistettuna ja hienonnettuna",
+      "munakoisoa, pilkottuna",
+      "okraa, kuutioituna",
+      "suolaa",
+      "mustapippuria",
+      "kasvislientä",
+      "tomaattikastiketta (passatta)",
+      "sekoitettuja kuivattuja papuja, liotettuna"
+    ],
+    "instructions": [
+      "Kuumenna öljyä isossa padassa keskilämmöllä. Lisää sipuli ja chili, ja kuullota muutama minuutti.",
+      "Lisää munakoiso ja okra. Kypsennä vielä muutama minuutti, sekoittaen välillä.",
+      "Lisää loput ainekset ja hauduta, kunnes munakoisot ovat pehmeitä ja kypsiä läpikotaisin, noin 30–40 minuuttia.",
+      "Tarjoa täysjyväriisin kanssa."
+    ],
+    "notes": ["Footia voi tarjota myös guinealaisen fufu-taikinan kanssa riisin sijaan."]
+  },
+  {
+    "id": "wikibooks-four-in-one-pizza",
+    "title": "Neljä yhdessä -pizza",
+    "description": "Yksi pizza, jaettu neljään erimakuiseen neljännekseen.",
+    "servings": 16,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["pizza", "juusto", "uuniruoka"],
+    "ingredients": [
+      "paistosumutetta",
+      "maissijauhoja",
+      "1 prk valmista pizzapohjataikinaa",
+      "2 tl oliiviöljyä",
+      "60 g raastettua cheddarjuustoa",
+      "175 g raastettua mozzarellajuustoa",
+      "1 rkl hienonnettua punasipulia",
+      "1¼ dl bbq-kastiketta sekoitettuna silputtuun kanaan",
+      "1 rkl tuoretta raastettua parmesaanijuustoa",
+      "4–5 viipaletta roma-tomaattia, noin 0,6 cm paksuisina",
+      "1 rkl ohuita basilikasuikaleita",
+      "2 rkl pizzakastiketta",
+      "2 viipaletta kanadanpekonia, neljään osaan leikattuna",
+      "½ dl valutettua pilkottua ananasta",
+      "2 rkl pizzakastiketta",
+      "8–10 viipaletta pepperonimakkaraa"
+    ],
+    "instructions": [
+      "Lämmitä uuni 220 asteeseen.",
+      "Suihkuta leivinpelti paistosumutteella.",
+      "Ripottele halutessasi hieman maissijauhoja pellille.",
+      "Kauli pizzataikina auki pellille noin 30 x 35 cm:n kokoiseksi levyksi.",
+      "Sivele taikinan pinta oliiviöljyllä.",
+      "Paista pohjaa 6–8 minuuttia.",
+      "Ripottele raastettu cheddarjuusto pohjan päälle ristin muotoon, niin että pohja jakautuu neljään osaan.",
+      "Levitä jokaiseen neljännekseen yksi yllä mainituista täytteistä (tai jokin oma suosikkisi).",
+      "Ripottele mozzarellajuusto tasaisesti koko pinnalle.",
+      "Paista vielä 10–14 minuuttia, kunnes juusto kuplii muttei pala.",
+      "Leikkaa kukin neljännes neljään palaan."
+    ]
+  },
+  {
+    "id": "wikibooks-frapp-coffee",
+    "title": "Frappé-kahvi",
+    "description": "Virkistävä kreikkalaisperäinen kylmä kahvijuoma, täydellinen kesäpäivään.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["kahvi", "kreikkalainen", "kylmä juoma"],
+    "ingredients": [
+      "1–2 tl pikakahvia",
+      "kylmää vettä",
+      "1–3 tl sokeria",
+      "3–5 jääpalaa",
+      "maitoa (mieluiten tiivistemaitoa tai haudutettua maitoa)"
+    ],
+    "instructions": [
+      "Laita kahvi ja sokeri shakkeriin tai korkeaan lasiin ja lisää hieman vettä, juuri sen verran että seos peittyy (noin 10 ml).",
+      "Ravista tai vatkaa sekoittimella, kunnes seos vaahtoutuu.",
+      "Täytä lasi kylmällä vedellä.",
+      "Lisää jääpaloja ja maitoa tai kermaa maun mukaan.",
+      "Nauti pillillä."
+    ],
+    "notes": [
+      "Voit lisätä myös Baileys-likööriä tai pallon jäätelöä.",
+      "Kun jää lisätään jo ravistusvaiheessa, vaahdosta tulee ilmavampaa ja vaahtoisempaa.",
+      "Maidon lisääminen tekee juomasta niin sanotun 'me gala' -version.",
+      "Vaihtoehtoisesti alkuseoksen voi vatkata lusikalla ravistamisen sijaan, mikä vaatii kärsivällisyyttä mutta tuottaa pidempään kestävän vaahdon."
+    ]
+  },
+  {
+    "id": "wikibooks-fred-steak-marinade",
+    "title": "Fred-pihvimarinadi",
+    "description": "Tumma ja voimakas marinadi naudanpihville, joka saa lihan pinnan näyttämään lähes palaneelta mutta maistumaan erinomaiselta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["marinadi", "naudanliha", "amerikkalainen"],
+    "ingredients": [
+      "4 dl vahvaa suodatinkahvia",
+      "2½ dl punaviiniä",
+      "1¼ dl oliiviöljyä",
+      "1¼ dl siirappia (melassia)",
+      "¾ dl balsamicoetikkaa",
+      "¾ dl tamarikastiketta",
+      "¾ dl worcestershirekastiketta",
+      "2 rkl chilijauhetta",
+      "6 valkosipulinkynttä"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset keskenään marinadiksi.",
+      "Käytä marinadia lihan marinointiin."
+    ]
+  },
+  {
+    "id": "wikibooks-free-beer",
+    "skip": "Kotioluen keittoresepti panimomittakaavassa – alkoholi on ohjeen koko tarkoitus, eikä se ole ruokaresepti."
+  },
+  {
+    "id": "wikibooks-french-canadian-shepherds-pie-pt-chinois",
+    "title": "Ranskalais-kanadalainen paimenenpiiras (Pâté chinois)",
+    "description": "Perinteinen ranskalais-kanadalainen uunivuoka naudanjauhelihasta, maissista ja perunamuusista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["naudanliha", "uuniruoka", "kanadalainen", "peruna"],
+    "ingredients": [
+      "8 keskikokoista perunaa",
+      "900 g naudan jauhelihaa",
+      "1 pieni keltasipuli, hienonnettuna",
+      "1 pieni vihreä paprika (valinnainen), hienonnettuna",
+      "1 tlk (425 g) maissia, valutettuna, tai kermamaissia",
+      "2 rkl voita",
+      "1¼ dl maitoa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä perunat kevyesti suolatussa vedessä pehmeiksi ja valuta. Muusaa perunat lisäten 2 rkl voita ja juuri sen verran maitoa, että muusi on levitettävää.",
+      "Ruskista jauheliha sipulin ja paprikan kanssa. Valuta rasva pois ja levitä liha-seos uunivuoan pohjalle.",
+      "Sekoita kermamaissi ja maissi keskenään ja levitä lihan päälle.",
+      "Levitä perunamuusi kerrokseksi päällimmäiseksi. Ripottele kevyesti paprikajauhetta ja suolaa/mustapippuria, ja tee pinnalle uurteet haarukalla halutessasi.",
+      "Paista 200 asteessa ilman kantta, kunnes perunapinta on kullanruskea, noin 30 minuuttia.",
+      "Tarjoa kuumana runsaan viipaloidun etikkapunajuuren kera."
+    ],
+    "notes": ["Sekoita ½ dl raastettua parmesaania perunamuusiin, tai levitä raastettua juustoa muusin päälle ennen paistamista."]
+  },
+  {
+    "id": "wikibooks-french-dressing",
+    "title": "Ranskalainen salaatinkastike",
+    "description": "Makea ja hapokas oranssinpunainen salaatinkastike, joka sopii myös voileipien levitteeksi.",
+    "servings": 6,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "salaatti", "amerikkalainen"],
+    "ingredients": [
+      "1½ dl ketsuppia",
+      "2 dl sokeria",
+      "1¼ dl valkoviinietikkaa",
+      "1¼ dl rypsiöljyä",
+      "½ dl hienonnettua sipulia",
+      "2 tl paprikajauhetta",
+      "2 tl worcestershirekastiketta"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset tehosekoittimessa tai monitoimikoneessa ja käsittele tasaiseksi. Tavoitteena on sileä, punaoranssi kastike.",
+      "Kaada kastike kulhoon ja anna jäähtyä jääkaapissa kannen alla vähintään 30 minuuttia ennen käyttöä."
+    ],
+    "notes": ["Tehosekoittimen sijaan ainekset voi vatkata kulhossa vispilällä."]
+  },
+  {
+    "id": "wikibooks-french-fries",
+    "title": "Ranskalaiset perunat",
+    "description": "Rapeat uppopaistetut perunalohkot, tunnettu pikaruoan klassikko.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "friteerattu", "lisuke"],
+    "ingredients": [
+      "perunoita (runsaasti tärkkelystä sisältävät lajikkeet toimivat parhaiten)",
+      "rypsiöljyä paistamiseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuori perunat ja leikkaa ohuiksi tikuiksi.",
+      "Huuhtele perunat hyvin vedessä ylimääräisen tärkkelyksen poistamiseksi.",
+      "Laita perunat kattilaan veteen ja hauduta tai esikeitä noin 15 minuuttia.",
+      "Valuta perunat ja kuivaa ne hyvin.",
+      "Uppopaista 175-asteisessa öljyssä 4–5 minuuttia, kunnes perunat ovat vaaleankullanruskeita ja rapeita.",
+      "Nosta öljystä ja valuta talouspaperilla.",
+      "Lisää suolaa ja ravistele, jotta perunat suolautuvat tasaisesti."
+    ],
+    "notes": [
+      "Perunoiden paksuutta voi vaihdella – paksummat lohkot muistuttavat kotitekoisia ranskalaisia, ohuemmat tikut 'shoestring'-perunoita.",
+      "Mausteiden, kuten valkosipulin, lisääminen paistamisen jälkeen on suosittua.",
+      "Ketsupin sijaan tarjoile majoneesin, kastikkeen tai hummuksen ja etikan kera.",
+      "Poutinea varten sekoita kypsät perunat juustokokkareiden kanssa ja peitä kastikkeella.",
+      "Monet keittokirjat ja ravintolat paistavat perunat kahdessa vaiheessa: ensin noin 177 asteessa pehmeiksi mutta vaaleiksi, ja jäähdytyksen jälkeen toisen kerran noin 190 asteessa rapeiksi ja kullanruskeiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-french-fries-belgian",
+    "title": "Belgialaiset ranskalaiset perunat",
+    "description": "Belgialaistyyliset perunat paistetaan kahdessa vaiheessa, jolloin pinnasta tulee rapea ja sisuksesta pehmeä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "friteerattu", "belgialainen", "lisuke"],
+    "ingredients": [
+      "perunoita (runsaasti tärkkelystä sisältävät lajikkeet toimivat parhaiten)",
+      "rypsiöljyä paistamiseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Esipaista perunoita noin 7–12 minuuttia 130–186 asteisessa rasvassa, jotta sisus kypsyy polttamatta ulkopintaa. Perunoiden tulisi pysyä vaaleina, ei liian kuivina.",
+      "Nosta perunat öljystä, ravistele ettei ne tartu toisiinsa, ja anna jäähtyä ja kuivua vähintään 30 minuuttia, jotta niistä tulee rapeampia ja vähemmän rasvaisia myöhemmin.",
+      "Tässä vaiheessa perunat voi pakastaa myöhempää paistamista varten.",
+      "Uppopaista noin 2–5 minuuttia 175–195 asteisessa rasvassa, perunoiden lähtölämpötilasta riippuen. Paista pienissä erissä niin, että öljy pysyy 125–160 asteessa ensimmäiset 30 sekuntia.",
+      "Jäähdytä ja kuivaa perunoita vielä vähintään 25 minuuttia, jotta ne pysyvät rapeina.",
+      "Ravistele ja pyörittele perunoita, jotta ylimääräinen rasva irtoaa."
+    ],
+    "notes": ["Perunoiden paistaminen korkeassa lämpötilassa alussa vähentää rasvaisuutta myöhemmissä vaiheissa."]
+  },
+  {
+    "id": "wikibooks-french-martini",
+    "skip": "Alkoholijuoma (cocktail), jossa alkoholi on koko juoman pointti."
+  },
+  {
+    "id": "wikibooks-french-meringue",
+    "title": "Ranskalainen marenki",
+    "description": "Yksinkertainen marenki, joka tehdään vatkaamalla munanvalkuaiset ja lisäämällä sokeri. Sopii keksien tai pavlovan/vacherinin pohjaksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "leivonta", "kasvis"],
+    "ingredients": [
+      "250 g munanvalkuaisia",
+      "¼ tl viinikiveä (tai muutama tippa sitruunamehua)",
+      "250 g sokeria",
+      "250 g hienoa sokeria tai siivilöityä tomusokeria"
+    ],
+    "instructions": [
+      "Vatkaa munanvalkuaiset ja viinikivi, kunnes seos muodostaa pehmeitä huippuja.",
+      "Lisää ensimmäinen sokerimäärä vähitellen vatkaten koko ajan käsin tai koneella.",
+      "Vatkaa, kunnes vaahto on kiinteää.",
+      "Lopeta vatkaaminen ja taita joukkoon loppu sokeri lastalla.",
+      "Käytä marenkia haluamallasi tavalla tai reseptin ohjeiden mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-french-omelette",
+    "title": "Ranskalainen munakas",
+    "description": "Ranskalainen munakas, jonka keskiosa jää hieman juoksevaksi ja ulkopinta kypsyy ruskistumatta liikaa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "aamiainen", "nopea", "ranskalainen"],
+    "ingredients": [
+      "4 munaa",
+      "suolaa",
+      "mustapippuria",
+      "öljyä ja voita"
+    ],
+    "instructions": [
+      "Riko munat kulhoon ja vatkaa kevyesti. Mausta suolalla ja pippurilla.",
+      "Kuumenna paistinpannu. Lisää öljyä ja pieni pala voita, kun pannu alkaa olla kuuma. Pyyhi ylimääräinen rasva pois.",
+      "Anna pannun kuumeta mahdollisimman kuumaksi polttamatta voita, ja pidä lämpö korkealla.",
+      "Kaada munaseos pannulle ja kallistele pannua nopeasti, jotta seos leviää pohjalle.",
+      "Vedä lusikalla tai lastalla hyytynyttä reunaa keskelle ja kallistele pannua, jotta juokseva muna täyttää tyhjän kohdan. Toista nopeasti, kunnes nestettä ei ole enää tarpeeksi. Pinnan tulisi olla vielä juoksevaa.",
+      "Laske lämpöä hieman ja taita munakas kokoon. Irrota reunat lastalla pannusta ja taita toinen puoli toisen päälle, tai taita kolmanneksittain paksumman munakkaan aikaansaamiseksi.",
+      "Liu'uta munakas lautaselle."
+    ],
+    "notes": [
+      "Munakkaan keskiosan tulisi jäädä hieman juoksevaksi, mutta lapsille, raskaana oleville tai vanhuksille kannattaa kypsentää hieman kauemmin.",
+      "Munien määrää voi vähentää ja korvata osan niistä maidolla.",
+      "Munakkaaseen voi lisätä täytteitä, kuten paistettua pekonia, juustoa, parsakaalia, oliiveja, tomaattia, kinkkua tai paistettuja sieniä – jotkin ainekset sekoitetaan munaseokseen, toiset lisätään juuri ennen taittamista."
+    ]
+  },
+  {
+    "id": "wikibooks-french-onioned-chicken",
+    "title": "Sipulirouheella kuorrutettu kana",
+    "description": "Yksinkertainen uunikana, joka saa rapean pinnan murskatuista paistetuista sipulirenkaista.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "nopea"],
+    "ingredients": [
+      "1 muna, vatkattuna",
+      "4 broilerin rintafileetä, luuttomana",
+      "2 dl murskattuja paistettuja sipulirenkaita",
+      "paprikajauhetta (valinnainen)"
+    ],
+    "instructions": [
+      "Lämmitä uuni 200 asteeseen.",
+      "Kasta kana vatkattuun munaan ja sitten murskattuihin sipulirenkaisiin. Varmista, että kana on tasaisesti kuorrutettu, ja siirrä leivinpaperoidulle pellille.",
+      "Paista kanaa 20 minuuttia, tai kunnes se ei ole enää sisältä vaaleanpunaista.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-french-toast",
+    "title": "Ranskalainen paahtoleipä",
+    "description": "Munaseokseen kastettua ja paistettua leipää – perinteinen tapa hyödyntää hieman vanhentunutta leipää.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": ["leipä", "aamiainen", "kananmuna", "makea"],
+    "ingredients": [
+      "1 muna",
+      "½ dl maitoa tai kermaa",
+      "2–3 viipaletta leipää",
+      "voita, margariinia tai öljyä paistamiseen",
+      "½ tl vaniljauutetta",
+      "¼–1 tl muskottipähkinää, kanelia tai muuta makeisiin sopivaa maustetta",
+      "½ tl sokeria tai hunajaa",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria",
+      "vaahterasiirappia tarjoiluun",
+      "hilloa tai hedelmäsiirappia tarjoiluun",
+      "kermavaahtoa tarjoiluun",
+      "tomusokeria tarjoiluun",
+      "pähkinöitä tarjoiluun",
+      "hunajaa tarjoiluun",
+      "pekonia tarjoiluun",
+      "vadelmia, mansikoita, mustikoita ja/tai banaania tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita kulhossa muna, maito ja halutut mausteet.",
+      "Kuumenna paistinpannu tai grillilevy keski-miedolle lämmölle.",
+      "Voitele pannu voilla, margariinilla tai paistosumutteella.",
+      "Kasta leipäviipale munaseokseen ja aseta pannulle; toista, kunnes pannu on täynnä tai haluttu määrä on kastettu.",
+      "Paista kääntäen, kunnes molemmat puolet ovat ruskistuneet ja sisus on kypsää.",
+      "Tarjoile lautasilla halutuilla lisukkeilla."
+    ],
+    "notes": [
+      "Tavoitteena on saada molemmat puolet kauniisti ruskistuneeksi varmistaen, että keskiosa kypsyy – liian kova lämpö polttaa pinnan ennen kuin sisus on kypsä.",
+      "Paahda leipä kevyesti ennen kastamista, jos haluat tukevamman pohjan.",
+      "Kovaa kuorta oleva leipä, kuten hapanjuurileipä, brioche tai panettone, toimii parhaiten – pehmeät leivät tekevät paahtoleivästä mössöisen."
+    ]
+  },
+  {
+    "id": "wikibooks-fresh-broadbeans-salad",
+    "title": "Tuore härkäpapusalaatti",
+    "description": "Nopea, yksinkertainen ja raikas salaatti tuoreista nuorista härkäpavuista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti", "nopea"],
+    "ingredients": [
+      "tomaatteja",
+      "sipulia",
+      "tuoreita härkäpapuja",
+      "oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuori härkäpavut ja poista mahdolliset huonot pavut.",
+      "Kuutioi tomaatit noin 1 cm:n kokoisiksi paloiksi. Kuutioitua tomaattia tulisi olla noin kaksinkertainen määrä papuihin verrattuna.",
+      "Hienonna sipuli(t) hyvin pieneksi. Määrä riippuu siitä, kuinka tulista salaattia haluat.",
+      "Sekoita kaikki ainekset keskenään ja ripottele päälle runsaasti suolaa ja oliiviöljyä."
+    ],
+    "notes": ["Jos tuoreet härkäpavut eivät ole tarpeeksi pehmeitä syötäväksi sellaisenaan, keitä niitä lyhyesti kiehuvassa vedessä ja huuhtele kylmällä vedellä."]
+  },
+  {
+    "id": "wikibooks-fresh-egg-pasta-pasta-fresca-alluovo",
+    "title": "Tuore munapasta (Pasta fresca all'uovo)",
+    "description": "Klassinen italialainen tuore munapasta, josta voi leikata tagliatellea, fettuccinea tai lasagnelevyjä.",
+    "servings": 3,
+    "totalTimeMin": 65,
+    "category": "Pääruoat",
+    "tags": ["pasta", "italialainen", "kasvis"],
+    "ingredients": [
+      "300 g vehnäjauhoja tai durumvehnän semolinajauhoja",
+      "1 tl suolaa",
+      "3 munaa",
+      "1 rkl oliiviöljyä",
+      "muutama tippa vettä"
+    ],
+    "instructions": [
+      "Laita jauhot ja suola monitoimikoneeseen.",
+      "Vatkaa munat öljyn kanssa. Kaada ne koneen käydessä hitaasti syöttöputkesta jauhojen joukkoon.",
+      "Sekoita, kunnes taikina kokoontuu palloksi. Jos pallo ei muodostu, lisää hieman vettä syöttöputkesta teelusikallinen kerrallaan.",
+      "Ota taikina koneesta ja vaivaa 10 minuuttia jauhotetulla alustalla. Jos taikina on liian tahmeaa, lisää hieman jauhoja.",
+      "Kääri taikina muoviin ja anna levätä jääkaapissa 30 minuuttia.",
+      "Ota jääkaapista ja vaivaa vielä hieman, kunnes se on lämmennyt huoneenlämpöiseksi.",
+      "Jaa taikina kahteen palloon.",
+      "Kauli kumpikin pallo jauhotetulla alustalla suorakaiteen muotoon.",
+      "Käännä taikinaa 90 astetta ja kauli sen leveyden suuntaan.",
+      "Käännä taas 90 astetta ja kauli lisää. Jatka kääntämistä ja kaulimista, kunnes taikina on paperinohutta.",
+      "Jos taikina alkaa tarttua, nosta se varovasti ja jauhota alusta.",
+      "Jauhota levy kevyesti ja anna levätä 10 minuuttia.",
+      "Kääri levy rullalle lyhyemmästä reunasta alkaen.",
+      "Leikkaa rulla terävällä veitsellä tasaisiksi suikaleiksi: 3 mm leveitä (tagliarini), 6 mm leveitä (fettuccine ja tagliatelle) tai 10 cm leveitä (lasagne).",
+      "Ripusta pasta kuivumaan puhtaan kepin varaan tuolien selkänojien päälle, tai aseta vahapaperille tai puhtaille keittiöpyyhkeille.",
+      "Kotitekoisen pastan voi keittää heti tai kääriä hyvin jauhotettuna muoviin ja säilyttää jääkaapissa 24 tuntia.",
+      "Keitä tuore pasta 6–8 litrassa vettä 5–10 minuuttia tai kunnes se on al dente."
+    ],
+    "notes": ["Pastakoneella taikina ajetaan ensin leveimmällä asetuksella 5–6 kertaa taittaen kolmanteksiin, kunnes se on sileää ja kiiltävää, ja sen jälkeen asetusta kavennetaan vähitellen noin 1 mm:n paksuuteen asti."]
+  },
+  {
+    "id": "wikibooks-fresh-herb-and-cheese-ravioli-filling",
+    "title": "Tuoreyrtti-juustotäyte ravioleihin",
+    "description": "Yksinkertainen juustoinen ja yrttinen täyte itse tehtyihin raviolehin.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["täyte", "juusto", "yrtit", "kasvis"],
+    "ingredients": [
+      "115 g ricottaa tai raejuustoa",
+      "55 g sinihomejuustoa",
+      "55 g mozzarellaa",
+      "2 munaa",
+      "4 rkl tuoreita hienonnettuja yrttejä (basilikaa, ruohosipulia, persiljaa, timjamia)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Vatkaa munat kulhossa.",
+      "Vatkaa joukkoon juustot haarukalla, kunnes seos on tasaista.",
+      "Sekoita joukkoon yrtit ja mausteet.",
+      "Jäähdytä täyte, kunnes pastataikina on kaulittu valmiiksi."
+    ],
+    "notes": ["Tarjoa tällä täytteellä valmistetut raviolit tomaattikastikkeen ja kevätvihannesten kera."]
+  },
+  {
+    "id": "wikibooks-fresh-mozzarella-bruschetta",
+    "title": "Tuore mozzarellabruschetta",
+    "description": "Pieniä avoleipiä tomaatista ja tuoreesta mozzarellasta – nopea ja herkullinen alkupala.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Välipalat",
+    "tags": ["italialainen", "juusto", "kasvis", "alkupala"],
+    "ingredients": [
+      "1 pitkä ranskanleipä",
+      "3 keskikokoista kypsää roma-tomaattia",
+      "3 isoa tuoretta mozzarellapalloa",
+      "24 tuoretta basilikanlehteä",
+      "karkeaa suolaa",
+      "mustapippuria",
+      "extra-virgin-oliiviöljyä",
+      "oreganoa",
+      "balsamicoetikkaa"
+    ],
+    "instructions": [
+      "Leikkaa leipä viistoihin, noin 1,5 cm:n paksuisiin viipaleisiin.",
+      "Paahda leipäviipaleet kevyesti uunissa molemmin puolin.",
+      "Leikkaa tomaatit noin 0,75 cm:n paksuisiksi viipaleiksi ja aseta yksi kullekin leipäviipaleelle.",
+      "Leikkaa mozzarellapallot noin 0,75 cm:n paksuisiksi viipaleiksi ja aseta tomaatin päälle.",
+      "Viipaloi basilika ohuiksi suikaleiksi ja ripottele päälle oreganon kera.",
+      "Sekoita oliiviöljy ja balsamicoetikka pienessä kulhossa maun mukaan.",
+      "Valuta seos bruschettojen päälle ja ripottele suolaa ja mustapippuria."
+    ],
+    "notes": ["Voit paahtaa bruschetat uudelleen täytteiden kanssa, jolloin mozzarella sulaa. Aidossa italialaisessa versiossa paahdetun leivän pintaa hierotaan ensin valkosipulinkynnellä."]
+  },
+  {
+    "id": "wikibooks-fresh-pasta-with-mozzarella-tomato-and-basil",
+    "title": "Tuore pasta mozzarellan, tomaatin ja basilikan kera",
+    "description": "Nopea ja herkullinen kesäinen pastaruoka, jossa munapastan, mozzarellan, makean tomaatin ja tulisen basilikan maut yhdistyvät.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["pasta", "juusto", "kasvis", "italialainen", "kesäinen"],
+    "ingredients": [
+      "250 g tuoretta munapastaa",
+      "2 mozzarellapalloa",
+      "10–15 pientä tomaattia tai 4–5 isompaa tomaattia",
+      "iso kourallinen (noin 15–20 lehteä) basilikaa",
+      "extra-virgin-oliiviöljyä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pilko mozzarella ja tomaatit karkeasti noin 1–2 cm:n kuutioiksi ja laita isoon tarjoiluastiaan.",
+      "Revi basilika ja ripottele mozzarellan ja tomaatin päälle.",
+      "Lorauta päälle runsaasti oliiviöljyä (vähintään 3 rkl).",
+      "Lisää hyvin suolaa ja hieman mustapippuria. Suola alkaa vetää nestettä aineksista ja muodostaa kastikkeen.",
+      "Keitä munapasta al denteksi. Valuta ja kaada kuumana muiden ainesten päälle.",
+      "Sekoita pasta huolellisesti, jotta se peittyy kastikkeella, ja tarjoa heti."
+    ],
+    "notes": ["Tämä resepti toimii hyvin myös briellä mozzarellan sijaan."]
+  },
+  {
+    "id": "wikibooks-fresh-tomato-galette",
+    "title": "Tuore tomaattigaletti",
+    "description": "Rapea voitaikinapohjainen avopiiras täynnä mehukkaita tomaattiviipaleita, parmesaania ja yrttejä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "tomaatti", "leivonta", "uuniruoka"],
+    "ingredients": [
+      "1 levy voitaikinaa",
+      "5 tomaattia",
+      "1 tl timjamia",
+      "1 tl sinappijauhetta",
+      "3 rkl panko- tai korppujauhoja",
+      "3 rkl tuoreraastettua parmesaania",
+      "1 muna, vatkattuna"
+    ],
+    "instructions": [
+      "Lämmitä uuni 200 asteeseen.",
+      "Viipaloi tomaatit noin 0,5 cm:n paksuisiksi viipaleiksi ja laita sivuun.",
+      "Sekoita kulhossa 2 rkl parmesaania, timjami ja sinappijauhe.",
+      "Vuoraa leivinpelti leivinpaperilla ja levitä voitaikina sen päälle.",
+      "Levitä 2 rkl panko- tai korppujauhoja taikinan päälle, jättäen noin 4 cm:n reunan paljaaksi.",
+      "Ripottele juustoseos tasaisesti päälle.",
+      "Asettele tomaattiviipaleet keskeltä alkaen päällekkäin limittäin ympyröiksi.",
+      "Ripottele loput korppujauhot ja parmesaani päälle, mausta halutessasi pippurilla, ja taita taikinan reunat varovasti tomaattien päälle.",
+      "Sivele galetin reunat vatkatulla munalla ja paista noin 30–40 minuuttia, kunnes taikina on kypsää ja kullanruskeaa.",
+      "Anna galetin jäähtyä hieman ennen koristelua tuoreilla basilikanlehdillä ja tarjoilua."
+    ],
+    "notes": ["Kokeile tarjota smetanan tai crème fraîchen kera."]
+  },
+  {
+    "id": "wikibooks-friars-omelette",
+    "title": "Munkin munakas (omenauunivanukas)",
+    "description": "Perinteinen skotlantilainen uunivanukas munista ja omenoista – omenan voi korvata esimerkiksi raparperilla, luumulla tai karhunvatukoilla.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["omena", "uuniruoka", "skotlantilainen", "jälkiruoka"],
+    "ingredients": [
+      "6 keskikokoista ruokaomenaa",
+      "125 g voita, plus hieman vuoan voiteluun",
+      "50 g sokeria",
+      "25 g sokeria koristeluun",
+      "2 munaa, hyvin vatkattuna",
+      "125 g korppujauhoja",
+      "1½ dl vettä",
+      "loraus sitruunamehua"
+    ],
+    "instructions": [
+      "Kuori ja poista omenien siemenkodat, viipaloi ja laita kattilaan veden kanssa.",
+      "Kypsennä pehmeäksi (kuin omenasose), ota liedeltä ja lisää voi, sokeri ja sitruunamehu. Sekoita hyvin.",
+      "Anna jäähtyä. Vatkaa sillä aikaa munat hyvin. Kun omenaseos on jäähtynyt, sekoita munat joukkoon.",
+      "Voitele syvä uunivuoka ja levitä korppujauhoja pohjalle ja reunoille niin, että ne tarttuvat kiinni; säästä hyvä osa päällystämiseen.",
+      "Kaada omena-munaseos vuokaan ja peitä paksulla kerroksella korppujauhoja.",
+      "Paista 180 asteessa noin puoli tuntia.",
+      "Käännä vadille ja ripottele sokeria päälle ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-apple-pies",
+    "title": "Paistetut omenapiiraat",
+    "description": "Pienet uppopaistetut piiraat, joissa on mausteinen omenatäyte ja rapea taikinakuori, viimeisteltynä tomusokerilla.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["omena", "friteerattu", "jälkiruoka", "leivonta"],
+    "ingredients": [
+      "5 dl kuorittua ja pilkottua omenaa",
+      "2½ dl sokeria",
+      "1¼ dl omenamehua",
+      "1 tl raastettua kanelia",
+      "½ tl raastettua muskottipähkinää",
+      "270 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "¾ tl suolaa",
+      "70 g kasvisrasvaa",
+      "2 dl maitoa",
+      "1 muna sekoitettuna 1–2 tl veteen",
+      "2 l rypsiöljyä friteeraukseen",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Laita omena, sokeri, omenamehu, kaneli ja muskottipähkinä pieneen kattilaan ja kuumenna kiehuvaksi.",
+      "Laske lämpö pieneksi, peitä ja hauduta 30 minuuttia, sekoittaen välillä.",
+      "Siirrä kulhoon ja jäähdytä jääkaapissa täysin ennen täytteenä käyttöä.",
+      "Yhdistä monitoimikoneessa jauhot, leivinjauhe ja suola. Pulssaa muutama sekunti ja siirrä isoon kulhoon.",
+      "Lisää kasvisrasva ja vaivaa se jauhoihin käsin, kunnes seos on murustunutta.",
+      "Lisää maito kerralla ja sekoita lastalla, kunnes taikina alkaa kokoontua.",
+      "Jauhota kädet ja työtaso kevyesti ja kaada taikina pöydälle.",
+      "Vaivaa taikinaa taitellen 10–20 kertaa. Kauli taikina noin 1 cm:n paksuiseksi ja leikkaa pyöreiksi kiekoiksi noin 5,7 cm:n renkaalla.",
+      "Kauli jokainen kiekko mahdollisimman ohueksi tai noin 13–15 cm:n läpimittaiseksi. Lusikoi 1–2 rkl täytettä taikinalle, sivele puolen reunat munaseoksella, taita kiinni ja sulje reunat haarukalla, kastaen sitä tarvittaessa jauhoihin.",
+      "Painele kevyesti, jotta täyte jakautuu tasaisesti. Pistele piiraan pinta haarukalla.",
+      "Kuumenna öljy syvässä paistinkeittimessä tai isossa paksupohjaisessa kattilassa 190 asteeseen. Paista 1–2 piirasta kerrallaan kullanruskeiksi, noin 3–4 minuuttia. Valuta ritilällä.",
+      "Kun kaikki piiraat on paistettu, laita sokeri kulhoon. Pyörittele jokainen piiras sokerissa ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-bacon-and-egg-sandwich-homemade-egg-mcmuffin",
+    "title": "Paistettu pekoni-munavoileipä (kotitekoinen Egg McMuffin)",
+    "description": "Tämä munavoileipä jäljittelee tunnettua pikaruokaketjun aamiaisvoileipää – keltuaiset rikotaan, jottei muna valu syödessä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "pekoni", "aamiainen", "nopea"],
+    "ingredients": [
+      "2 muffinsleipää, halkaistuna",
+      "4 viipaletta pekonia",
+      "2 munaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Valmistele muffinsleivät paahtamista varten.",
+      "Paista pekoni yhdessä kerroksessa keskilämmöllä, kääntäen usein, kunnes se on rapeaa ja ruskistunutta makusi mukaan. Laske lämpöä, jos rasva alkaa roiskua.",
+      "Nosta pekoni talouspaperilla vuoratulle lautaselle ja painele toisella paperilla ylimääräinen rasva pois.",
+      "Kaada suurin osa jäljelle jääneestä rasvasta kuppiin, jättäen ruskeat palaset pannulle.",
+      "Pese ja kuivaa pannu, ja laita se takaisin lämmölle.",
+      "Kaada noin ruokalusikallinen pekonin rasvaa takaisin pannulle.",
+      "Aloita muffinsleipien paahtaminen.",
+      "Riko munat pannulle, lisää suolaa ja pippuria, ja paista noin 2 minuuttia. Riko keltuaiset ja levitä ne valkuaisten päälle, käännä munat ja paista vielä minuutti.",
+      "Kokoa voileivät muffinsleivistä, pekonista ja paistetuista munista. Tarjoa."
+    ],
+    "notes": ["Jos käytössäsi on leivänpaahdin tai grillivastus, voit lisätä juustoa muffinsleipien päälle paahtamisen aikana."]
+  },
+  {
+    "id": "wikibooks-fried-bananas",
+    "title": "Paistetut banaanit",
+    "description": "Monissa keittiöissä suosittu jälkiruoka tai välipala – karamellisoituja banaaniviipaleita, joissa on rapean ja mehevän tasapaino.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Jälkiruoat",
+    "tags": ["banaani", "jälkiruoka", "nopea", "kasvis"],
+    "ingredients": [
+      "4 kypsää banaania, kuorittuna ja viipaloituna",
+      "2 rkl voita",
+      "2 rkl fariinisokeria",
+      "1 tl kanelia (valinnainen)",
+      "vaniljajäätelöä tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna paistinpannu keskilämmöllä ja sulata voi.",
+      "Lisää banaaniviipaleet pannulle ja ripottele niiden päälle fariinisokeri.",
+      "Paista banaaneja 2–3 minuuttia per puoli, kunnes ne ovat kullanruskeita ja karamellisoituneet.",
+      "Ripottele halutessasi kanelia banaanien päälle paiston aikana.",
+      "Nosta paistetut banaanit pannulta ja tarjoa kuumina. Lisää halutessasi pallo vaniljajäätelöä herkulliseksi lisäksi."
+    ],
+    "notes": [
+      "Kokeile erilaisia mausteita, kuten muskottipähkinää, uusien makujen löytämiseksi.",
+      "Valuta hunajaa tai suklaakastiketta päälle lisämakeutta varten.",
+      "Paistettuja banaaneja voi tarjota myös pannukakkujen, vohveleiden tai paahtoleivän lisukkeena."
+    ]
+  }
+]

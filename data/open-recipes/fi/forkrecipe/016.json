@@ -1,0 +1,902 @@
+[
+  {
+    "id": "forkrecipe-japanese-salmon-teriyaki",
+    "title": "Japanilainen lohiteriyaki",
+    "description": "Paksut lohifileet lakataan neljän aineksen teriyakikuorrutteella, kunnes nahka rapisee ja kuorrute muuttuu mahonginruskeaksi, karvasmakeaksi lakaksi, joka murtuu haarukan alla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": [
+      "kala",
+      "japanilainen",
+      "nopea",
+      "arkiruoka"
+    ],
+    "ingredients": [
+      "2 nahallista lohifileetä (à n. 200 g)",
+      "Teriyakikuorrute:",
+      "3 rkl soijakastiketta (gluteenittomana tamaria)",
+      "3 rkl miriniä",
+      "3 rkl sakea",
+      "1 rkl sokeria",
+      "Paistamiseen ja viimeistelyyn:",
+      "1 rkl neutraalia öljyä (auringonkukka- tai riisinleseöljyä)",
+      "1 kevätsipulin varsi (n. 10 g), ohuina renkaina",
+      "2 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Yhdistä soijakastike, mirin, sake ja sokeri pienessä kattilassa. Kuumenna kiehuvaksi keskilämmöllä ja sekoita, kunnes sokeri liukenee. Hauduta 3–4 minuuttia, kunnes neste on vähentynyt kolmanneksella ja kuorrute peittää lusikan selän ohuena, kiiltävänä kalvona. Nosta liedeltä. Kuorrute paksuuntuu vielä jäähtyessään.",
+      "Taputtele lohifileet täysin kuiviksi talouspaperilla – kosteus muodostaa höyryä ja estää kuoren syntymisen. Viillä nahkaan kolme vinoa viiltoa, jotta fileet eivät käyristy. Kuumenna öljy tarttumattomalla tai valurautaisella pannulla keskikorkealla lämmöllä, kunnes se väreilee. Nosta lohet pannulle nahkapuoli alaspäin ja paina niitä lastalla tiukasti 10 sekunnin ajan, jotta ne eivät käyristy. Paista nahkapuolella 4 minuuttia, kunnes nahka on syvän kullanruskea ja rapea ja kala on muuttunut läpikuultamattomaksi kahden kolmasosan korkeudelta reunoista. Käännä kerran.",
+      "Paista lihapuolta käännön jälkeen 1 minuutti. Laske lämpö pienelle. Kaada teriyakikuorrute lohien päälle ja ympärille. Kun se kuplii, valele sitä lusikalla toistuvasti fileiden päälle 1–2 minuutin ajan. Kuorrute vähenee ja lakkaa lohen kiiltäväksi, mahonginruskeaksi pinnaksi. Nosta pannu liedeltä ja valele loput kuorrutteesta päälle. Ripottele pinnalle kevätsipuli ja seesaminsiemenet. Anna levätä 1 minuutti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-japanese-teriyaki-sauce",
+    "title": "Japanilainen teriyakikastike",
+    "description": "Neljän aineksen kuorrute – soijakastike, mirin, sake ja sokeri – keitetään kiiltäväksi, tahmeaksi kastikkeeksi, joka grillatun kalan tai kanan pinnalla karamellisoituu makeansuolaiseksi lakaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "kastike",
+      "japanilainen",
+      "vegaaninen",
+      "nopea"
+    ],
+    "ingredients": [
+      "60 ml soijakastiketta (gluteenittomana tamaria)",
+      "60 ml miriniä (hon-mirin)",
+      "60 ml kuivaa sakea",
+      "15 g ruokosokeria"
+    ],
+    "instructions": [
+      "Yhdistä kaikki neljä ainesta pienessä, paksupohjaisessa kattilassa ja sekoita, kunnes sokeri liukenee. Kuumenna kiehuvaksi keskilämmöllä ja laske sitten tasaiselle hauduttavalle lämmölle. Keitä välillä sekoittaen 8–12 minuuttia. Kastike kuplii aluksi voimakkaasti, mutta kuplat hidastuvat ja muuttuvat suuremmiksi ja sitkeämmiksi nesteen vähetessä. Tarkkaile viimeisinä minuutteina huolellisesti – sokeri muuttuu siirapista palaneeksi hyvin nopeasti. Kastike on valmis, kun se peittää lusikan selän ja sormella vedetty viiva pysyy siistinä 2 sekuntia.",
+      "Kaada kastike lasipurkkiin tai lämmönkestävään astiaan ja anna jäähtyä kokonaan huoneenlämmössä. Jäähtyessään se paksuuntuu kaadettavasta siirapista tahmeaksi kuorrutteeksi. Jos se on huoneenlämmössä liian paksua, lämmitä sitä varovasti loraus vettä lisäten. Säilytä jääkaapissa enintään 3 viikkoa. Sivele kastiketta proteiinin pinnalle vasta grillauksen viimeisinä minuutteina – liian aikaisin lisättynä sokerit palavat ennen kuin liha tai kala on kypsää."
+    ]
+  },
+  {
+    "id": "forkrecipe-japanese-tonkatsu",
+    "title": "Japanilainen tonkatsu",
+    "description": "Paksu porsaanseläkotletti rapean pankokuoren sisällä – kuori rasahtaa veitsen alla, ja ratiseva pinta ja mehukas, aavistuksen vaaleanpunainen sisus ovat tonkatsun koko filosofia.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": [
+      "liha",
+      "porsas",
+      "japanilainen",
+      "friteerattu"
+    ],
+    "ingredients": [
+      "400 g porsaan ulkofilee- tai seläkotletteja (luulla tai luuttomina), 2 cm paksuja",
+      "1 tl suolaa",
+      "valkopippuria",
+      "Leivitys:",
+      "50 g vehnäjauhoja",
+      "2 kananmunaa, vatkattuina",
+      "80 g pankojauhoja",
+      "Paistamiseen ja tarjoiluun:",
+      "8 dl neutraalia öljyä friteeraukseen (rypsiöljyä)",
+      "3 rkl tonkatsu-kastiketta (worcestershire-pohjainen)",
+      "hienoksi suikaloitua kaalia",
+      "keitettyä japanilaista lyhytjyväistä riisiä"
+    ],
+    "instructions": [
+      "Viillä terävällä veitsellä kunkin kotletin rasvareunaan viiltoja 1 cm:n välein – näin kotletti ei käyristy öljyssä. Jos kotletit ovat paksuja, nuija ne lihanuijalla tai kaulimella tasaisen 1,5–2 cm paksuiksi kahden muovikelmun välissä. Mausta molemmat puolet reilusti suolalla ja valkopippurilla. Anna kotlettien olla huoneenlämmössä 15 minuuttia – kylmä kotletti laskee öljyn lämpötilaa, jolloin leivityksestä tulee rasvainen eikä rapea.",
+      "Valmistele kolmen vaiheen leivityslinja: jauhot matalaan astiaan, vatkattu muna toiseen ja pankojauhot kolmanteen. Pyöritä kotletti jauhoissa ja ravista ylimääräiset tarkasti pois – liika jauho muodostaa munan alle liisterimäisen kerroksen. Kasta munaan, anna ylimääräisen valua pois ja paina sitten tiukasti pankoon molemmin puolin, painellen muruja kämmenellä kiinni. Kuoren pitää olla paksu ja tasainen, ei laikukas.",
+      "Kuumenna öljy raskaassa kattilassa tai wokissa 170 asteeseen. Testaa pankomurulla – sen pitää vajota, alkaa heti sihistä ja nousta pintaan 3 sekunnissa. Laske kotletti hitaasti öljyyn itsestäsi poispäin ja paista 3 minuuttia kummaltakin puolelta koskematta. 170 asteessa kuori ehtii kovettua ennen kuin sisus kypsyy liikaa. Nosta lämpötila viimeisiksi 30 sekunniksi 180 asteeseen, jotta pinta rapeutuu syvän kullanruskeaksi. Valuta ritilällä – ei talouspaperilla, joka pidättää höyryä ja pehmentää kuoren.",
+      "Leikkaa tonkatsu terävällä veitsellä poikittain 2 cm:n suikaleiksi – tavoitteena on säilyttää kuori ehjänä ja paljastaa sisus. Tarjoa heti tonkatsu-kastikkeen kera päälle valutettuna tai erikseen, hienoksi suikaloidun tuoreen kaalin ja höyrytetyn japanilaisen lyhytjyväisen riisin kanssa. Kuori alkaa pehmetä 10 minuutissa, joten ajoitus on tärkeä."
+    ]
+  },
+  {
+    "id": "forkrecipe-japchae",
+    "title": "Japchae – korealaiset lasinuudelit naudanlihan ja kasvisten kera",
+    "description": "Silkkiset bataattilasinuudelit sekoitetaan suikaloitujen kasvisten ja soijassa marinoidun naudanlihan kanssa seesamiöljyn ja sokerin kiillossa – pehmeää, sitkeän purutuntuman omaavaa ja syvän suolaista. Jokainen osa kypsennetään erikseen ja yhdistetään vasta viime hetkellä, jotta mikään ei menetä väriään tai rakennettaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": [
+      "korealainen",
+      "nuudelit",
+      "liha",
+      "nauta"
+    ],
+    "ingredients": [
+      "200 g dangmyeon-nuudeleita (bataattilasinuudeleita)",
+      "150 g naudan ulkofileetä tai entrecôtea, suikaleina",
+      "4 rkl soijakastiketta",
+      "1½ rkl sokeria",
+      "2 rkl seesamiöljyä",
+      "3 valkosipulinkynttä (n. 10 g), hienonnettuina",
+      "2 kananmunaa",
+      "100 g pinaattia",
+      "80 g shiitakesieniä, suikaleina",
+      "80 g porkkanaa, suikaleina",
+      "60 g punaista paprikaa, suikaleina",
+      "2 rkl neutraalia öljyä (viinirypäleensiemen- tai rypsiöljyä)",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1 tl hienoa merisuolaa"
+    ],
+    "instructions": [
+      "Leikkaa naudanliha syitä vastaan noin 5 cm pitkiksi ja 3 mm paksuiksi suikaleiksi. Sekoita kulhossa 2 rkl soijakastiketta, 1 rkl sokeria, 1 rkl seesamiöljyä ja kaikki valkosipuli. Lisää liha, sekoita huolellisesti niin, että jokainen suikale peittyy, ja anna maustua huoneenlämmössä muiden osien valmistuksen ajan, vähintään 15 minuuttia. Sokeri vetää lihan pinnalta kosteutta ja mahdollistaa nopean karamellisoitumisen pannulla. Älä lisää suolaa; soija tuo kaiken tarvittavan suolaisuuden. Suikaleiden pitäisi tuoksua syvän suolaiselta ja hennon makealta, ja valkosipuli pehmenee ja aromi vahvistuu seistessä.",
+      "Kuumenna suuressa kattilassa runsaasti vettä voimakkaaseen kiehuntaan. Laita nuudelit veteen katkaisematta – ne pehmenevät ja suoristuvat itsestään. Keitä 6–8 minuuttia välillä sekoittaen, jotta ne eivät paakkuunnu. Maista: nuudelin pitää olla läpikuultava läpikotaisin ja miellyttävän sitkeä – ei tahmea keskeltä eikä mössöinen. Valuta heti ja huuhtele kylmän juoksevan veden alla kypsymisen pysäyttämiseksi ja ylimääräisen tärkkelyksen poistamiseksi. Ravista siivilää voimakkaasti. Sekoita nuudelit vielä lämpiminä 1 rkl:aan soijakastiketta ja 1 tl:aan seesamiöljyä, jotta ne maustuvat eivätkä tartu toisiinsa. Leikkaa nuudelit keittiösaksilla kahdesti tai kolmesti – näin niitä on paljon helpompi sekoittaa ja syödä, eikä niiden olennainen sitkeys katoa.",
+      "Kypsennä jokainen kasvis erikseen – tämä on japchaen työläin vaihe ja sen kauneuden lähde. Kuumenna wokki tai leveä paistinpannu kovalla lämmöllä, kunnes se juuri alkaa savuta. Lisää teelusikallinen öljyä ja wokkaa porkkanasuikaleita ripauksen suolaa kanssa 90 sekuntia; niihin pitää jäädä hieman purutuntumaa. Siirrä lautaselle. Toista paprikalla (60 sekuntia – sen pitää pysyä kirkkaanpunaisena) ja sitten shiitakesienillä (2 minuuttia, kunnes reunat alkavat ruskistua ja ne tuoksuvat syvän metsäisiltä). Ryöppää pinaattia hetki suolalla maustetussa kiehuvassa vedessä, valuta ja purista lähes kuivaksi, ja sekoita joukkoon muutama tippa seesamiöljyä ja ripaus suolaa. Paista kananmunista ohut jidan-munakas: halutessasi tarkkuutta vatkaa keltuaiset ja valkuaiset erikseen ja paista kahdeksi ohueksi munakkaaksi, jäähdytä ja leikkaa 5 cm:n suikaleiksi. Erikseen kypsennettynä jokainen kasvis säilyttää oman värinsä, tuoksunsa ja rakenteensa – yhdessä kypsennettyinä sekä maku että ulkonäkö samentuvat.",
+      "Kuumenna wokki niin kovalla lämmöllä kuin liesi antaa, kunnes se väreilee näkyvästi ja alkaa savuta. Lisää ohut kerros neutraalia öljyä. Levitä marinoitu liha yhdeksi kerrokseksi – älä täytä pannua liikaa, tai liha hautuu eikä ruskistu. Paista koskematta 60–90 sekuntia, kunnes pohjaan muodostuu marinadin sokerista tumma, karamellisoitunut pinta. Sekoita ja paista vielä 30 sekuntia. Lihan pitää olla juuri ja juuri kypsää – mureaa, ei sitkeää. Marinadin sokeri hiiltyy paikoin hieman ja tuo miellyttävää karvautta, joka tasapainottaa kastikkeen makeutta. Paista kahdessa erässä, jos pannu on täynnä; täysi pannu höyryttää ja kuorrute muuttuu lätäköksi.",
+      "Yhdistä suurimmassa kulhossa tai itse wokissa maustetut nuudelit, kaikki kypsennetyt kasvikset ja liha. Lisää loput soijakastikkeesta, sokerista ja seesamiöljystä – maista samalla; japchaen kuuluu olla selvästi makeansuolainen, joten käytä rohkeasti sekä sokeria että soijaa. Sekoita kaikki varovasti mutta perusteellisesti pihdeillä tai puhtain käsin, nostellen pohjalta, jotta ainekset jakautuvat tasaisesti nuudeleita rikkomatta. Maista toistuvasti ja säädä: lisää sokeria, jos maku jää laimeaksi, soijaa, jos se on lattea, ja seesamiöljyä täyteläisyyden ja aromin vuoksi. Siirrä tarjoiluvadille ja asettele munakassuikaleet päälle. Ripottele pinnalle runsaasti seesaminsiemeniä. Japchae on erinomaista huoneenlämpöisenä ja paranee 20 minuutin levon jälkeen, kun nuudelit imevät kastiketta ja maut tasaantuvat."
+    ]
+  },
+  {
+    "id": "forkrecipe-jerk-chicken",
+    "title": "Jamaikalainen jerk-kana",
+    "description": "Pinnalta hiiltynyttä, sisältä savuista – scotch bonnet -chilin tulisuutta ja maustepippuria täynnä oleva jerk-kana, joka rakkuloituu grillissä ja tuoksuu kauas ympärilleen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": [
+      "kana",
+      "jamaikalainen",
+      "grilli",
+      "tulinen"
+    ],
+    "ingredients": [
+      "1 kg luullisia broilerin paloja (koipia, reisiä, rintoja)",
+      "Jerk-tahna:",
+      "3 scotch bonnet -chiliä, kannat poistettuina",
+      "6 kevätsipulia, karkeasti pilkottuina",
+      "10 g tuoreen timjamin lehtiä",
+      "6 valkosipulinkynttä",
+      "20 g tuoretta inkivääriä, kuorittuna",
+      "8 g kokonaisia maustepippuria, paahdettuina ja jauhettuina",
+      "1 tl jauhettua kanelia",
+      "1 rkl tummaa fariinisokeria",
+      "2 rkl soijakastiketta",
+      "2 rkl tuoretta limemehua",
+      "2 rkl neutraalia öljyä (rypsiöljyä)",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Laita kaikki tahnan ainekset tehosekoittimeen tai monitoimikoneeseen. Aja tasaiseksi, voimakkaan aromaattiseksi tahnaksi. Maista – sen pitää olla tulinen, maustepippurilta tuoksuva ja syvän suolainen. Säädä suolaa ja limeä. Värin pitää olla syvän oliivinvihreä punaisin pilkuin.",
+      "Viillä broilerin paloihin terävällä veitsellä kolme syvää, rinnakkaista viiltoa luuhun asti, jotta tahna pääsee imeytymään. Käytä hanskoja (scotch bonnetin öljy on vakavasti otettavaa) ja hiero jerk-tahnaa joka pintaan, mahdollisuuksien mukaan myös nahan alle. Pakkaa tiiviisti minigrip-pussiin tai suljettuun rasiaan. Marinoi jääkaapissa vähintään 4 tuntia; yön yli on ihanteellinen, jotta savuinen mausteisuus imeytyy täysin.",
+      "Valmistele grilliin kaksi aluetta: toiselle puolelle kova suora lämpö ja toiselle keskilämpöinen epäsuora alue. Aloita broileri nahkapuoli ylöspäin epäsuoralla puolella kansi kiinni 25–30 minuuttia, kunnes sisälämpötila on 65 astetta. Siirrä sitten kovalle suoralle lämmölle nahkapuoli alaspäin 4–6 minuutiksi, jotta pinta hiiltyy ja rakkuloituu. Käännä ja hiillosta lihapuolta 2 minuuttia. Hiiltyminen ei ole virhe – se on koko idea.",
+      "Lepuuta broileria puulaudalla folion alla löysästi peitettynä 8–10 minuuttia. Sisälämpötila nousee vielä 2–3 astetta, ja kuumuuden keskelle ajamat mehut jakautuvat uudelleen lihaan. Älä leikkaa liian aikaisin."
+    ],
+    "notes": [
+      "Varmista lopuksi, että broilerin sisälämpötila on lepuutuksen jälkeen vähintään 70 astetta (luun vierestä mitattuna)."
+    ]
+  },
+  {
+    "id": "forkrecipe-jerk-marinade",
+    "title": "Jerk-marinadi",
+    "description": "Jamaikan tunnusmarinadi – scotch bonnet -chilit, maustepippuri, timjami ja inkivääri jauhetaan kevätsipulin ja soijakastikkeen kanssa tuliseksi, aromaattiseksi tahnaksi, joka imeytyy syvälle kanaan tai porsaaseen ennen grilliä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "marinadi",
+      "jamaikalainen",
+      "tulinen",
+      "vegaaninen"
+    ],
+    "ingredients": [
+      "3–4 scotch bonnet -chiliä (n. 40 g), kannat poistettuina",
+      "6 kevätsipulia (n. 60 g), karkeasti pilkottuina",
+      "3 rkl (n. 20 g) kokonaisia maustepippuria, juuri jauhettuina (tai jauhettua maustepippuria)",
+      "1 rkl tuoreen timjamin lehtiä (tai 1 tl kuivattua)",
+      "10 g tuoretta inkivääriä, kuorittuna ja karkeasti viipaloituna",
+      "3 valkosipulinkynttä",
+      "1½ rkl soijakastiketta",
+      "2 tl neutraalia kasviöljyä",
+      "2 tl tuoretta limemehua",
+      "2 tl tummaa fariinisokeria",
+      "1½ tl jauhettua kanelia",
+      "1 tl hienoa merisuolaa",
+      "1½ tl juuri jauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Pue hanskat – scotch bonnetien kanssa se ei ole valinnaista. Poista chilien kannat. Jos haluat täyden, perinteisen tulisuuden, jätä siemenet ja valkoiset väliseinät paikoilleen; jos haluat tulisen mutta siedettävän marinadin, halkaise chilit ja kaavi siemenet ja väliseinät pois pienellä lusikalla. Scotch bonnetin erityisyys ei ole pelkkä tulisuus – siinä on omaleimainen trooppisen kukkainen hedelmäisyys (mangoa, aprikoosia, ripaus tamarindia), jota mikään muu chili ei tarjoa. Habanero on lähin korvike, mutta siitä puuttuu tämä kukkainen syvyys. Pilko chilit karkeasti. Älä koske kasvoihisi.",
+      "Laita kaikki ainekset tehosekoittimeen tai monitoimikoneeseen: pilkotut chilit, kevätsipulit, juuri jauhettu maustepippuri, timjami, inkivääri, valkosipuli, soijakastike, öljy, limemehu, fariinisokeri, kaneli, suola ja mustapippuri. Aja 30 sekunnin jaksoissa ja kaavi reunat jaksojen välissä, kunnes seos muodostaa yhtenäisen tahnan – karkea ja hieman paloittainen on perinteinen ja parempi kuin täysin sileä, sillä rakenne auttaa tahnaa tarttumaan lihaan. Jos kone ei jaksa pyörittää seosta, lisää ruokalusikallinen vettä. Autenttista maroon-tyylistä jerkiä varten survo kaikki suuressa huhmareessa – huhmar repii solut eikä pilko niitä, jolloin maustepippurista ja inkivääristä vapautuu enemmän haihtuvia öljyjä ja tahnasta tulee monivivahteisempi ja syvempi.",
+      "Maista tahnaa varovasti – laita hyvin pieni määrä tavallisen keksin tai leipäpalan päälle, jotta tulisuus pehmenee ja voit maistaa sen alle. Tahnan kuuluu olla erittäin tulinen, soijakastikkeesta syvän suolainen, maustepippurilta (jerkin sielu) tuoksuva, ja tulisuuden alla pitää tuntua scotch bonnetin trooppinen hedelmäisyys. Se ei saa maistua yksiulotteisen tuliselta. Säädä: jos maustepippurin syvyyttä puuttuu, lisää jauhettua maustepippuria; jos soija hallitsee, lisää limeä; jos tulisuus on epämiellyttävän ylivoimainen jopa kohdeyleisölle, laimenna lisäämällä kevätsipulia ja toinen loraus öljyä; jos maku on lattea, lisää suolaa. Jerkin tasapainoperiaate on, että maustepippuri ja scotch bonnet ovat tasavertaiset päätähdet – kumpaakaan ei saa puuttua kokonaan.",
+      "Siirrä valmis marinadi purkkiin tai kannelliseen rasiaan. Käyttö: hiero marinadia runsaasti broilerin paloihin (luulliset palat ovat perinteisiä – koipireisi ja reidet kestävät parhaiten), porsaan lapapaloihin tai kokonaiseen kalaan. Työstä tahnaa broilerin nahan alle ja lihaan tehtyihin viiltoihin. Parhaan tuloksen saat marinoimalla broileria vähintään 4 tuntia, mieluiten yön yli, ja porsasta vähintään 8–12 tuntia. Soija ja suola maustavat lihan läpikotaisin, happo kiinteyttää ja käsittelee pintaa, ja maustepippurin haihtuvat aromit imeytyvät syvälle rasvaan. Kypsennä hiilillä, autenttisuuden vuoksi mieluiten maustepippuripuun (pimento) kanssa, tai millä tahansa hiilillä. Marinadi säilyy jääkaapissa kaksi viikkoa."
+    ],
+    "notes": [
+      "Määrä riittää noin 1 kg:lle broileria tai porsasta."
+    ]
+  },
+  {
+    "id": "forkrecipe-jerk-paste",
+    "title": "Jerk-tahna",
+    "description": "Hurjan aromaattinen, lähes musta tahna scotch bonnet -chileistä, maustepippurista ja kevätsipulista – ensin tulisuus polttaa nenää, sitten seuraa syvä, neilikkamainen lämpö. Jokaisen kunnon jamaikalaisen jerkin sielu.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "mausteseos",
+      "jamaikalainen",
+      "tulinen",
+      "vegaaninen"
+    ],
+    "ingredients": [
+      "4 scotch bonnet -chiliä (n. 45 g), kannat poistettuina",
+      "6 kevätsipulia (n. 60 g), karkeasti pilkottuina (valkoinen ja vihreä osa)",
+      "6 valkosipulinkynttä (n. 22 g)",
+      "1 rkl jauhettua maustepippuria",
+      "¾ tl jauhettua kanelia",
+      "½ tl jauhettua muskottipähkinää",
+      "¾ tl suolaa",
+      "1½ tl fariinisokeria",
+      "1½ tl juuri puristettua limemehua",
+      "1½ rkl tuoreen timjamin lehtiä",
+      "1½ tl neutraalia öljyä (rypsiöljyä) ja tarvittaessa lisää"
+    ],
+    "instructions": [
+      "Käytä hanskoja scotch bonnetien käsittelyssä – chilien kapsaisiini tarttuu käsiin ja viipyy tuntikausia. Pilko chilit (siemenineen täyttä tulisuutta varten; poista siemenet miedompaa tahnaa varten), kevätsipulit ja valkosipulit karkeasti niin pieniksi paloiksi, että ne jauhautuvat. Scotch bonnetin siemenissä on tulisuuden lisäksi paljon makua – älä hävitä niitä, ellet nimenomaan halua miedompaa tulosta.",
+      "Lisää kaikki loput ainekset tehosekoittimeen tai monitoimikoneeseen. Sykäytä 5–6 kertaa, jotta kaikki hajoaa, ja aja sitten täydellä teholla 60 sekuntia. Kaavi reunat ja aja vielä 30 sekuntia. Lisää öljyä ruokalusikallinen kerrallaan, jos tahna on liian kuivaa liikkuakseen koneessa – tavoitteena on paksu, levitettävä tahna, ei kastike.",
+      "Siirrä tahna purkkiin tai suljettuun rasiaan ja anna olla jääkaapissa vähintään 2 tuntia ennen käyttöä. Lepo antaa limemehun hapon pehmentää sipulikasvien raakaa terävyyttä, mausteiden aukeutua ja sulautua sekä kapsaisiinin jakautua tasaisesti koko tahnaan. Vasta jauhetun ja levänneen jerk-tahnan makuero on merkittävä."
+    ]
+  },
+  {
+    "id": "forkrecipe-jerusalem-artichoke-soup",
+    "title": "Maa-artisokkakeitto",
+    "description": "Hiljainen talvinen keitto paahdetuista maa-artisokista soseutettuna vaaleaksi, norsunluunväriseksi samettikeitoksi, jossa maistuu maa-artisokan maanläheinen, artisokkaa ja auringonkukkaa muistuttava makeus. Pohjana salottisipuli, viimeistelynä varovainen tippa tryffeli- tai hasselpähkinäöljyä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 55,
+    "category": "Keitot",
+    "tags": [
+      "keitto",
+      "kasvis",
+      "juhla",
+      "ranskalainen"
+    ],
+    "ingredients": [
+      "700 g maa-artisokkia, harjattuina",
+      "4 salottisipulia, karkeasti viipaloituina",
+      "2 valkosipulinkynttä, kuorimattomina",
+      "9 dl lämmintä kasvislientä",
+      "¾ dl kuohukermaa",
+      "30 g suolatonta voita",
+      "2 rkl oliiviöljyä (paahtamiseen)",
+      "4 oksaa tuoretta timjamia",
+      "1½ tl hienoa suolaa",
+      "¼ tl juuri jauhettua valkopippuria",
+      "Viimeistelyyn:",
+      "1 tl tryffeli- tai hasselpähkinäöljyä",
+      "1 rkl hienoksi leikattua ruohosipulia",
+      "2 rkl paahdettuja hasselpähkinöitä, karkeasti murskattuina"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Paloittele maa-artisokat suunnilleen samankokoisiksi, noin 3 cm:n paloiksi – kuorimista ei tarvita, sillä kuoressa on makua. Sekoita uunipellillä viipaloitujen salottisipulien, kuorimattomien valkosipulinkynsien, oliiviöljyn, timjaminoksien ja reilun suolahyppysellisen kanssa. Paahda 25–30 minuuttia kerran käännellen, kunnes maa-artisokkien leikkuupinnat ovat kullanruskeat, palat täysin pehmeitä ja kuori hieman ryppyinen.",
+      "Sulata sillä välin voi suuressa kattilassa keskimiedolla lämmöllä. Anna sen vaahdota ja kypsyä 2–3 minuuttia, kunnes se tuoksuu hennosti pähkinäiseltä – ruskistettua voita (beurre noisette). Se rikastaa keiton pohjaa.",
+      "Purista paahdetut valkosipulit kuoristaan tehosekoittimeen. Lisää kaikki paahdetut maa-artisokat, salottisipulit ja ruskistettu voi. Poista timjamin varret. Kaada joukkoon sen verran lämmintä lientä, että kiinteät ainekset peittyvät. Aja täydellä teholla 2–3 minuuttia täysin sileäksi. Lisää lientä, kunnes koostumus on kuohukerman ja ohuen puuron välillä. Erityisen hienostunutta lopputulosta varten siivilöi keitto hienosilmäisen siivilän läpi.",
+      "Kaada sose takaisin kattilaan miedolle lämmölle. Sekoita joukkoon kerma. Ohenna tarvittaessa liemellä, jos keitto on liian paksua. Mausta huolellisesti suolalla ja valkopippurilla. Älä anna keiton kiehua kerman lisäämisen jälkeen. Annostele lämmitettyihin kulhoihin. Viimeistele jokainen annos ohuella tryffeli- tai hasselpähkinäöljynorolla, ruohosipulilla ja muutamalla paahdetulla, murskatulla hasselpähkinällä."
+    ]
+  },
+  {
+    "id": "forkrecipe-jollof-rice",
+    "title": "Jollof-riisi juhlatyyliin",
+    "description": "Länsi-Afrikan juhlituin ruoka – pitkäjyväinen riisi kypsennetään suoraan kirkkaassa tomaatti-, paprika- ja scotch bonnet -pohjassa, kunnes jokainen jyvä on värjäytynyt syvänpunaiseksi ja saanut juhlapadan savuisen, korvaamattoman maun.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": [
+      "riisi",
+      "länsiafrikkalainen",
+      "tulinen",
+      "juhla"
+    ],
+    "ingredients": [
+      "400 g pitkäjyväistä esikäsiteltyä riisiä (parboiled)",
+      "Tomaatti-paprikasose:",
+      "1 tlk (400 g) kokonaisia kuorittuja tomaatteja",
+      "200 g punaista paprikaa",
+      "1 scotch bonnet -chili",
+      "200 g valkoista sipulia, karkeasti pilkottuna, jaettuna",
+      "4 valkosipulinkynttä",
+      "15 g tuoretta inkivääriä, kuorittuna ja karkeasti pilkottuna",
+      "Kypsennykseen:",
+      "½ dl neutraalia öljyä (maapähkinä- tai auringonkukkaöljyä)",
+      "60 g tomaattipyreetä",
+      "5 dl kana- tai kasvislientä",
+      "2 laakerinlehteä",
+      "2 tl curryjauhetta",
+      "1 tl kuivattua timjamia",
+      "1½ tl hienoa suolaa",
+      "20 g suolatonta voita"
+    ],
+    "instructions": [
+      "Laita tomaatit, paprikat, scotch bonnet, puolet sipulista, valkosipuli ja inkivääri tehosekoittimeen. Aja täysin sileäksi ilman näkyviä paloja – tavoitteena on nestemäinen sose, ei paloittainen salsa. Väri on tässä vaiheessa kirkkaan tiilenoranssi. Pidä kattila valmiina ennen soseuttamista, sillä sose höyryää voimakkaasti osuessaan kuumaan öljyyn.",
+      "Kuumenna öljy paksupohjaisessa kattilassa keskikorkealla lämmöllä, kunnes se väreilee. Lisää loput sipulista viipaleina ja kuullota 4 minuuttia pehmeäksi ja läpikuultavaksi. Lisää tomaattipyree ja paista jatkuvasti sekoittaen 3 minuuttia, kunnes se tummuu syvän ruosteenpunaiseksi. Kaada joukkoon tomaatti-paprikasose – astu kauemmas, se roiskuu rajusti. Sekoita joukkoon laakerinlehdet, curryjauhe, timjami ja suola. Keitä kannettomana keskilämmöllä 3–4 minuutin välein sekoittaen yhteensä 20–25 minuuttia, kunnes tahna on vähentynyt noin puoleen, tummunut syvän tiilenpunaiseksi ja öljy on erottunut ja kelluu näkyvästi pinnalla.",
+      "Kaada liemi vähentyneeseen tahnaan ja sekoita voimakkaasti, raaputtaen pohjaan karamellisoituneet kohdat irti. Maista nestettä – sen pitää olla miellyttävän maustettua, hieman suolaisempaa kuin haluat valmiin riisin olevan, sillä riisi imee ja laimentaa maustetta. Säädä suola nyt. Kuumenna voimakkaaseen kiehuntaan.",
+      "Huuhtele riisi kylmällä vedellä, kunnes vesi on lähes kirkasta, ja valuta huolellisesti. Lisää riisi kiehuvaan tomaattipohjaan ja sekoita kerran – yksi päättäväinen sekoitus, jotta riisi jakautuu tasaisesti eikä yksikään jyvä jää nesteen pinnan yläpuolelle. Nostele voi pieninä nokareina pinnalle. Älä sekoita enää. Laita kansi päälle, laske lämpö aivan pienimmälle ja kypsennä koskematta 30 minuuttia.",
+      "Nosta 30 minuutin kuluttua kansi nopeasti ja etsi höyryreikiä – pieniä kraattereita riisin pinnalla, joista höyry on puskenut läpi. Ne kertovat, että riisi on kypsää. Raaputa pitkällä lusikalla varovasti kattilan pohjaa: sieltä pitäisi löytyä ”juhlakuori” (nigerialaisittain conkon), ohut kerros savuista, hieman hiiltynyttä riisiä kiinni pohjassa. Kääntele kuori riisin joukkoon – se ei ole palanutta, se on palkinto. Laita kansi takaisin ja anna riisin levätä liedeltä nostettuna 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-jun-tea",
+    "title": "Jun-tee",
+    "description": "Kombuchan hienostunut serkku – vihreä tee ja raaka hunaja fermentoidaan Jun-SCOBYn kanssa kukkaiseksi, kuplivaksi ja hennon happamaksi juomaksi, jossa hunajan makeus ei koskaan aivan katoa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "category": "Juomat",
+    "tags": [
+      "juoma",
+      "fermentoitu",
+      "tee",
+      "kasvis"
+    ],
+    "ingredients": [
+      "2 l suodatettua vettä tai lähdevettä, jaettuna",
+      "10 g laadukasta irtolehtistä vihreää teetä tai teepusseja",
+      "160 g raakaa, suodattamatonta hunajaa",
+      "1 kpl Jun-SCOBY (bakteerien ja hiivojen symbioottinen viljelmä)",
+      "2 dl aloitusnestettä (edellisen erän Jun-teetä tai maustamatonta kombuchaa)",
+      "Toiseen fermentaatioon (valinnainen):",
+      "50 g inkivääriä, sitruunankuorta tai hedelmiä"
+    ],
+    "instructions": [
+      "Kuumenna 1 l suodatettua vettä 80-asteiseksi – ei kiehuvaksi. Kiehuva vesi polttaa vihreän teen ja tekee siitä karvasta. Hauduta teetä 3–4 minuuttia – ei pidempään, tai teestä tulee kitkerää. Siivilöi lehdet pois tai poista pussit. Lisää loput 1 l huoneenlämpöistä vettä, jotta tee jäähtyy alle 35-asteiseksi ennen hunajan lisäämistä. Tämä on kriittistä – kuumaan nesteeseen lisätty hunaja menettää luontaiset entsyyminsä ja hyödylliset mikrobinsa.",
+      "Kun tee on jäähtynyt alle 35-asteiseksi, lisää raaka hunaja. Sekoita varovasti mutta huolellisesti, kunnes se on täysin liuennut – raaka hunaja liukenee helpommin hieman lämpimään kuin kylmään nesteeseen. Makeutetun teen pitää maistua selvästi ja miellyttävän makealta – SCOBY ja bakteerit kuluttavat suuren osan sokerista fermentaation aikana, joten alussa sitä on oltava riittävästi. Kaada makeutettu tee puhtaaseen 3 litran lasipurkkiin.",
+      "Lisää ensin aloitusneste – se happamoittaa ympäristön heti ja suojaa homeelta. Laske SCOBY varovasti purkkiin (se voi upota, kellua tai asettua vinoon – kaikki on normaalia). Peitä purkki tiheäkudoksisella kankaalla, kahvinsuodatinpaperilla tai talouspaperilla ja kiinnitä kuminauhalla – EI tiivistä kantta. Fermentti tarvitsee ilmaa. Sijoita paikkaan, jossa on 21–27 astetta, suojaan suoralta auringonvalolta, vedolta ja muilta fermenteiltä. Fermentoi 7–14 päivää. Maista viidennestä päivästä alkaen pillillä SCOBYn ohi. Pintaan muodostuu uusi SCOBY – se on normaalia ja tervettä.",
+      "Nosta SCOBY pois ja säästä se 2 dl:n Jun-teetä kanssa seuraavan erän aloitukseksi. Siivilöi Jun hienosilmäisen siivilän läpi puhtaisiin patenttikorkkipulloihin. Toista fermentaatiota varten (lisää hiilihappoa ja monivivahteisuutta): lisää kuhunkin pulloon pieni määrä valinnaista maustetta – muutama inkivääriviipale, suikale sitruunankuorta tai ruokalusikallinen hedelmämehua. Sulje pullot ja pidä huoneenlämmössä 2–4 päivää, kunnes hiilihappoa on muodostunut (testaa päivittäin avaamalla yksi pullo varovasti). Siirrä sitten jääkaappiin fermentaation pysäyttämiseksi. Jääkaapissa Jun säilyy 2–4 viikkoa."
+    ],
+    "notes": [
+      "Pullojen paine voi kasvaa toisen fermentaation aikana – avaa ne varovasti ja pidä ne viileässä, kun hiilihappoa on tarpeeksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-kadhi",
+    "title": "Punjabilainen kadhi",
+    "description": "Hapan, kullankeltainen jogurtti-kikhernejauhocurry Punjabista – sipulipakorat haudutetaan kurkumalla sävytetyssä kastikkeessa, joka maustetaan sinapinsiemenillä, kuivatulla chilillä ja lopuksi ripauksella sarviapilaa. Täyttävä ja täysin kasvisruoka.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": [
+      "kasvis",
+      "intialainen",
+      "curry",
+      "jogurtti"
+    ],
+    "ingredients": [
+      "Kadhi-pohja:",
+      "300 g täysrasvaista maustamatonta jogurttia, sileäksi vatkattuna",
+      "60 g kikhernejauhoja (besan), siivilöitynä",
+      "6 dl vettä",
+      "1½ tl jauhettua kurkumaa",
+      "2 tl hienoa suolaa",
+      "Pakorat:",
+      "80 g kikhernejauhoja (besan)",
+      "60 g punasipulia, ohuina viipaleina",
+      "ripaus suolaa",
+      "ripaus chilijauhetta",
+      "½ dl vettä",
+      "3½ dl neutraalia öljyä friteeraukseen",
+      "Tadka:",
+      "30 g gheetä",
+      "1 tl mustia sinapinsiemeniä",
+      "1½ tl juustokuminan siemeniä",
+      "80 g keltasipulia, ohuina viipaleina",
+      "4 g kokonaisia kuivattuja punaisia chilejä",
+      "8 g curryn lehtiä, tuoreita tai kuivattuja",
+      "2 rkl kuivattuja sarviapilan lehtiä (kasuri methi)"
+    ],
+    "instructions": [
+      "Vatkaa suuressa, paksupohjaisessa kattilassa jogurtti, kikhernejauhot ja vesi täysin sileäksi, ettei jauhopaakkuja jää. Järjestyksellä on väliä: vatkaa kikhernejauhot ensin jogurttiin ja lisää vesi vasta sitten – jogurtin paksuus auttaa jauhoja sekoittumaan ennen laimentamista, jolloin paakkuja ei synny. Lisää kurkuma ja suola. Seoksen pitää olla hyvin ohuen taikinan paksuista – läpikuultamatonta, kirkkaankeltaista ja raa'an kikhernejauhon tuoksuista. Nosta kattila keskilämmölle ja aloita sekoittaminen heti.",
+      "Kypsennä kadhi-pohjaa keskilämmöllä jatkuvasti ja tarmokkaasti sekoittaen ensimmäiset 10 minuuttia – jogurtti-kikhernejauhoseos pohjaa tai juoksettuu helposti, jos se jätetään valvomatta. Kuumetessaan kikhernejauhot sakeuttavat seosta ja tärkkelys suojaa jogurtin proteiineja. Kun seos hiljalleen poreilee (pieniä kuplia puhkeaa pinnassa), laske lämpö keskimiedolle ja keitä kannettomana vielä 15–20 minuuttia 3–4 minuutin välein sekoittaen. Kadhi on valmis, kun se on sakeutunut kevyen kermakastikkeen paksuiseksi ja raa'an kikhernejauhon maku on kadonnut.",
+      "Sekoita pakoroita varten kikhernejauhot, punasipuliviipaleet, ripaus suolaa, ripaus chilijauhetta ja sen verran vettä (noin ½ dl), että syntyy paksu taikina, joka pitää sipuliviipaleet koossa, kun nokare pudotetaan. Kuumenna öljy syvässä kattilassa 175-asteiseksi. Pudota öljyyn lusikallisia sipulitaikinaa ja paista erissä 3–4 minuuttia kerran käännellen, kunnes ne ovat kullanruskeita ja rapeita. Valuta talouspaperilla. Pakorat haudutetaan lopuksi hetki kadhissa; kun ne paistetaan hieman rapeammiksi kuin sellaisenaan syötäviksi, ne säilyttävät muotonsa kastikkeessa.",
+      "Kuumenna ghee pienessä paistinpannussa keskikorkealla lämmöllä. Lisää sinapinsiemenet ja anna niiden poksahdella 30 sekuntia. Lisää juustokuminan siemenet, sipuliviipaleet, kuivatut chilit ja curryn lehdet – astu kauemmas, sillä curryn lehdet roiskivat rajusti. Paista sekoittaen 4–5 minuuttia, kunnes sipuli on kullanruskea ja curryn lehdet rapeita. Nosta liedeltä ja murenna joukkoon kuivatut sarviapilan lehdet – ne lisätään liedeltä nostettuna, jotta niiden haihtuvat aromit eivät pala. Tadka sihisee ja rätisee näyttävästi, kun se kaadetaan kadhiin.",
+      "Kaada sihisevä tadka hiljalleen poreilevan kadhin päälle ja sekoita heti, jotta maustettu ghee jakautuu koko kastikkeeseen. Lisää pakorat varovasti ja painele ne pinnan alle imemään kadhia. Hauduta yhdessä miedolla lämmöllä 5–7 minuuttia – juuri sen verran, että pakorat pehmenevät ja turpoavat kastikkeessa hajoamatta. Maista ja tarkista suola; jos happamuus on liian terävä, lisää ½ tl sokeria. Tarjoa syvissä kulhoissa höyrytetyn basmatiriisin päällä. Kaada kadhia reilusti riisin päälle, jotta riisi imee hapanta, kultaista kastiketta."
+    ]
+  },
+  {
+    "id": "forkrecipe-kalbi",
+    "title": "Korealaiset kalbi-naudanrivit",
+    "description": "Poikittain leikatut naudan lyhyet kylkirivit lakataan soija-päärynä-seesamimarinadilla ja grillataan, kunnes reunat karamellisoituvat ja ytimekkäät luut tuoksuvat savussa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": [
+      "liha",
+      "nauta",
+      "korealainen",
+      "grilli"
+    ],
+    "ingredients": [
+      "800 g poikittain leikattuja (flanken) naudan lyhyitä kylkirivejä, 1 cm paksuja",
+      "Marinadi:",
+      "120 g aasianpäärynää, raastettuna (mehuineen)",
+      "¾ dl soijakastiketta",
+      "1½ rkl paahdettua seesamiöljyä",
+      "30 g valkoista sokeria",
+      "6 valkosipulinkynttä, hienonnettuina",
+      "10 g tuoretta inkivääriä, kuorittuna ja raastettuna",
+      "4 kevätsipulia, ohuina renkaina",
+      "1½ tl juuri jauhettua mustapippuria",
+      "Viimeistelyyn:",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1–2 kevätsipulia, ohuina renkaina"
+    ],
+    "instructions": [
+      "Upota rivit suureen kulhoon kylmää vettä. Liota 30 minuuttia ja vaihda vesi kerran puolivälissä. Liotus poistaa pinnalta verta ja luunsiruja, jolloin valmis ruoka on puhtaamman ja vähemmän riistaisen makuinen. Taputtele lopuksi huolellisesti kuiviksi talouspaperilla.",
+      "Vatkaa raastettu päärynä mehuineen, soijakastike, seesamiöljy, sokeri, valkosipuli, inkivääri, kevätsipuli ja mustapippuri, kunnes sokeri liukenee. Päärynän entsyymit (proteaasit) mureuttavat luun vieressä olevan lihan kollageenia. Upota rivit kokonaan marinadiin ja painele ilmakuplat pois. Marinoi jääkaapissa vähintään 4 tuntia; 8 tuntia on ihanteellinen. Älä marinoi yli 24 tuntia, tai liha alkaa muuttua mössömäiseksi.",
+      "Kuumenna grilli tai grillipannu todella kuumaksi. Grillaa rivit yhtenä kerroksena väljästi, 2–3 minuuttia kummaltakin puolelta. Tavoitteena on sokerin ja soijan nopea karamellisoituminen – hiiltyneisyys on makua. Luut täyttävät ilman karamellisoituneella, pähkinäisellä savulla. Älä liikuttele rivejä ennen kuin ne irtoavat ritilästä siististi.",
+      "Siirrä heti tarjoiluvadille. Ripottele päälle paahdetut seesaminsiemenet ja vasta leikattu kevätsipuli, jolloin jälkilämpö avaa seesamin aromin. Tarjoa höyrytetyn riisin, kimchin ja salaatinlehtien kanssa käärimistä varten."
+    ]
+  },
+  {
+    "id": "forkrecipe-karaage",
+    "title": "Karaage – japanilainen friteerattu kana",
+    "description": "Pieniksi paloiksi leikatut broilerin reidet marinoidaan inkiväärissä ja soijassa, pyöritellään perunajauhoissa ja friteerataan kahdesti – ensimmäinen paisto kovettaa kuoren, toinen vie sen mahonginruskeaksi ja rapeaksi, kun sisus pysyy mehevänä. Izakayan tunnusomaisin suupala.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": [
+      "kana",
+      "japanilainen",
+      "friteerattu",
+      "juhla"
+    ],
+    "ingredients": [
+      "600 g luuttomia, nahallisia broilerin reisifileitä, 2½–3 cm:n paloina",
+      "Marinadi:",
+      "4 rkl soijakastiketta (koikuchi)",
+      "2 rkl sakea",
+      "1½ rkl hienoksi raastettua tuoretta inkivääriä (mehuineen)",
+      "3 valkosipulinkynttä, hienoksi raastettuina",
+      "½ tl hienoa suolaa",
+      "Paistamiseen ja tarjoiluun:",
+      "1½ dl perunajauhoja (katakuriko)",
+      "1 l neutraalia friteerausöljyä (rypsi- tai riisinleseöljyä)",
+      "1 sitruuna, lohkoina"
+    ],
+    "instructions": [
+      "Leikkaa broilerin reidet 2½–3 cm:n paloiksi – suupalan kokoisiksi ja tasakokoisiksi, mahdollisuuksien mukaan jokaiseen palaan nahkaa. Laita kulhoon. Lisää soijakastike, sake, raastettu inkivääri (myös raasteesta puristettu mehu), raastettu valkosipuli ja suola. Sekoita tasaisesti. Peitä ja marinoi jääkaapissa vähintään 30 minuuttia ja enintään 2 tuntia. Älä marinoi pidempään – suola ja soija alkavat suolata pintaa, jolloin kuori imee enemmän öljyä. Ota kana jääkaapista 10 minuuttia ennen paistamista.",
+      "Nosta kanapalat marinadista ja ravista ylimääräinen neste pois. Laita perunajauhot leveään, matalaan kulhoon tai vatiin. Lisää kanapalat ja pyörittele huolellisesti – painele jauhoja joka pintaan, myös nahkapuolelle. Ravista irtonaiset jauhot pois: tavoitteena on tasainen, ohut, läpikuultamaton valkoinen kerros, ei paksu peite. Marinadin kosteus imeytyy jauhoihin ja saa ne tarttumaan. Työskentele nopeasti ja paista 5 minuutin kuluessa jauhottamisesta – tärkkelys imee kanasta kosteutta ja menettää rapeuspotentiaalinsa, jos se seisoo liian pitkään.",
+      "Kaada öljyä 4–5 cm:n kerros raskaaseen valurautapataan tai wokkiin ja kuumenna 160–165-asteiseksi. Tämä ensimmäinen, matalampi paisto kypsentää sisuksen polttamatta kuorta. Paista pienissä erissä (korkeintaan 5 palaa kerrallaan) ja laske palat öljyyn varovasti syömäpuikoilla tai reikäkauhalla. Paista 3–4 minuuttia kerran kääntäen, kunnes kuori on vaalean kullankeltainen ja kovettunut mutta ei vielä tumma. Nosta reikäkauhalla ritilälle valumaan. Anna kanan levätä ritilällä 4–5 minuuttia; sisus kypsyy loppuun jälkilämmössä.",
+      "Nosta öljyn lämpötila 185–190 asteeseen. Laita levänneet palat takaisin öljyyn – ne sihisevät heti ja voimakkaasti. Paista vain 60–90 sekuntia kerran kääntäen, kunnes kuori on syvän, täyteläisen mahonginruskea ja rapisee kuuluvasti palojen liikkuessa öljyssä. Nosta nopeasti puhtaalle ritilälle valumaan – ei talouspaperille, joka pidättää höyryä ja pehmentää kuoren. Toinen paisto ajaa kuoresta viimeisenkin kosteuden ja hyydyttää tärkkelyksen, jolloin syntyy karaagen tunnusmerkki: mahonginruskea, rasahtava pinta ja mehevä, höyryävä sisus. Tarjoa heti sitruunalohkojen kanssa."
+    ],
+    "notes": [
+      "Alkuperäinen resepti on annettu suhdelukuina; määrät on sovitettu käytännölliseksi noin 4 hengen annokseksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-katsu-curry-sauce",
+    "title": "Katsu-currykastike",
+    "description": "Paksu, meripihkankultainen japanilainen currykastike, jonka pohjana ovat hitaasti karamellisoidut sipulit ja omena. Se sakeutetaan valmiilla curryroux-paloilla ja haudutetaan miedolla lämmöllä, kunnes se valuu silkkisenä leivitetyn kotletin päälle – mieto, hieman makea ja lämpimän curryn tuoksuinen. Japanilaisen yoshoku-keittiön lohdullisimmillaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "kastike",
+      "japanilainen",
+      "curry"
+    ],
+    "ingredients": [
+      "2 keskikokoista sipulia (n. 300 g), ohuina viipaleina",
+      "1 pieni omena (n. 120 g), raastettuna tai hienoksi kuutioituna",
+      "30 g suolatonta voita",
+      "ripaus suolaa",
+      "2 valkosipulinkynttä (n. 12 g), hienonnettuina",
+      "6 dl kanalientä (tai dashia)",
+      "1½ rkl tonkatsu-kastiketta (tai worcestershirekastiketta)",
+      "2 tl soijakastiketta",
+      "100 g japanilaisia curryroux-paloja (esim. S&B Golden Curry, keskivahva)"
+    ],
+    "instructions": [
+      "Sulata voi paksupohjaisessa kattilassa tai valurautapadassa keskilämmöllä. Lisää sipuliviipaleet ja ripaus suolaa ja kypsennä 2–3 minuutin välein sekoittaen yhteensä 15–20 minuuttia. Sipulit muuttuvat ensin läpikuultaviksi, sitten kullankeltaisiksi, ja lopulta niihin alkaa tulla meripihkanvärisiä laikkuja ja makea, lähes pähkinäinen tuoksu. Älä kiirehdi tätä kovalla lämmöllä – hidas karamellisointi rakentaa makean perustan, joka erottaa japanilaisen curryn terävämmistä intialaisista curryista. Lisää 15 minuutin kohdalla valkosipuli ja kypsennä vielä 2 minuuttia.",
+      "Lisää raastettu omena karamellisoituihin sipuleihin ja sekoita 1 minuutti, jotta raaka maku häviää. Kaada joukkoon kanaliemi, tonkatsu-kastike ja soijakastike. Kuumenna keskilämmöllä hiljaiseen poreiluun ja raaputa pohjaan karamellisoituneet kohdat irti – ne ovat puhdasta makua. Hauduta kannettomana 10 minuuttia välillä sekoittaen, kunnes omena on liuennut kastikkeeseen ja neste hieman vähentynyt. Pohjan pitää tuoksua täyteläiseltä, makealta ja suolaiselta ilman raa'an omenan terävyyttä.",
+      "Nosta kattila liedeltä, paloittele curryroux-palat ja lisää ne poreilleeseen pohjaan. Sekoita puulusikalla, kunnes jokainen pala on liuennut täysin eikä paakkuja jää – tämä vie 2–3 minuuttia kärsivällistä sekoittamista. Palauta hyvin miedolle lämmölle ja hauduta hiljaa 10 minuuttia usein sekoittaen, ettei kastike pala pohjaan. Kastike sakeutuu huomattavasti, kun roux'n tärkkelys kypsyy. Sen pitää peittää lusikka paksusti ja valua hitaana, hallittuna norona. Maista ja säädä tarvittaessa ripauksella suolaa tai lorauksella soijaa. Valmiin kastikkeen pitää maistua syvän suolaiselta, miedon mausteiselta ja makean pyöreältä – ei suolaiselta eikä yksiulotteiselta."
+    ]
+  },
+  {
+    "id": "forkrecipe-katsu-sauce",
+    "title": "Katsu-kastike (tonkatsu-kastike)",
+    "description": "Japanin tulkinta worcestershirekastikkeesta – paksu, makeanhapan ja syvän umaminen kastike hedelmäsoseen ja fermentoitujen mausteiden pohjalta, suunniteltu nimenomaan leikkaamaan friteeratun pankokuoren täyteläisyyttä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 5,
+    "totalTimeMin": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "kastike",
+      "japanilainen",
+      "nopea"
+    ],
+    "ingredients": [
+      "½ dl worcestershirekastiketta",
+      "½ dl laadukasta ketsuppia",
+      "2 rkl osterikastiketta",
+      "2 tl sokeria",
+      "2 tl soijakastiketta",
+      "½ tl japanilaista sinappia (karashi) tai sinappijauhetta"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset pienessä kulhossa ja vatkaa, kunnes seos on täysin tasainen ja sokeri liuennut. Katsu-kastiketta ei tarvitse kypsentää – fermentoidut mausteet ovat jo valmiiksi monivivahteisia ja tasapainoisia. Maista heti: kastikkeen pitää maistua vuorotellen makealta, happamalta, suolaiselta ja hennon tuliselta. Säädä lisäämällä worcestershirekastiketta syvyyttä varten, ketsuppia makeutta varten tai soijaa suolaisuutta varten. Säilyy jääkaapissa enintään kuukauden. Sinappi pehmenee 24 tunnin aikana, kun se imee kosteutta."
+    ]
+  },
+  {
+    "id": "forkrecipe-kedgeree",
+    "title": "Kedgeree – savukolja-curryriisi",
+    "description": "Brittiläinen aamiainen, joka ei koskaan aivan unohtanut intialaisia juuriaan – savustettua koljaa ja basmatiriisiä kardemumman ja curryn tuoksussa, päällä pehmeiksi keitetyt munat ja persilja. Siirtomaa-ajan törmäys, josta tuli oma, omaleimainen ruokansa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 50,
+    "category": "Aamiainen",
+    "tags": [
+      "kala",
+      "brittiläinen",
+      "riisi",
+      "brunssi"
+    ],
+    "ingredients": [
+      "400 g värjäämätöntä savustettua koljafileetä",
+      "4 dl täysmaitoa (koljan haudutukseen)",
+      "1 laakerinlehti (haudutukseen)",
+      "muutama kokonainen mustapippuri",
+      "300 g basmatiriisiä, huuhdottuna",
+      "3 kananmunaa, pehmeiksi keitettyinä ja halkaistuina",
+      "60 g suolatonta voita",
+      "1 iso keltasipuli (n. 160 g), hienoksi kuutioituna",
+      "2 rkl mietoa curryjauhetta (Madras-tyyppistä)",
+      "4 kardemummankotaa, murskattuina",
+      "1 laakerinlehti",
+      "½ dl hienonnettua lehtipersiljaa",
+      "1 tl juuri jauhettua mustapippuria"
+    ],
+    "instructions": [
+      "Laita savukolja leveään, matalaan pannuun nahkapuoli alaspäin. Kaada päälle maitoa niin, että kala lähes peittyy. Lisää laakerinlehti ja muutama pippuri. Kuumenna keskilämmöllä hiljaiseen poreiluun – älä anna kiehua. Hauduta 8–10 minuuttia, kunnes kala muuttuu läpikuultamattomaksi ja hajoaa helposti lohkoiksi. Nosta kala lautaselle. Säästä haudutusmaito – siinä on savuisuutta ja suolaa, jotka maustavat riisin. Kun kala on jäähtynyt sen verran, että sitä voi käsitellä, poista nahka ja revi kala suuriksi, epäsäännöllisiksi paloiksi.",
+      "Sulata voi leveässä, paksupohjaisessa kattilassa keskilämmöllä. Lisää sipuli ja kypsennä 10 minuuttia pehmeäksi ja kullankeltaiseksi. Lisää murskatut kardemummankodat, laakerinlehti ja curryjauhe. Sekoita 1–2 minuuttia, kunnes mausteet tuoksuvat ja aukeavat voissa. Sipulin pitää olla pehmeää ja tuoksua curryltä, kardemummalta ja kypsän sipulin hennolta makeudelta. Poista laakerinlehti ja suurimmat kardemummanpalat ennen riisin lisäämistä.",
+      "Lisää huuhdottu riisi kattilaan ja sekoita, jotta se peittyy maustevoilla. Kaada joukkoon 3 dl säästettyä haudutusmaitoa (täydennä tarvittaessa vedellä). Kuumenna kiehuvaksi, laske lämpö hyvin pienelle ja peitä tiiviillä kannella. Kypsennä 12 minuuttia kantta nostamatta. Nosta liedeltä ja anna hautua kannen alla 8 minuuttia. Riisin pitää olla täysin kypsää, mausteilta tuoksuvaa ja curryn ansiosta hieman keltaista.",
+      "Kääntele koljapalat varovasti riisin joukkoon leveällä lastalla laajoin, huolellisin liikkein, jotta kala pysyy suurina paloina. Lisää pehmeiksi keitetyt munat (puolikkaina tai neljänneksinä) ja ripottele päälle hienonnettu persilja. Mausta mustapippurilla – savukala on tuonut runsaasti suolaa, joten maista ennen kuin lisäät suolaa. Tarjoa suoraan kattilasta, voita erikseen."
+    ],
+    "notes": [
+      "Alkuperäinen resepti on annettu suhdelukuina; määrät on muunnettu noin 4 hengen annokseksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-kefir",
+    "title": "Maitokefiiri",
+    "description": "Täysmaito hapatetaan elävillä kefiirijyvillä 24 tunnin ajan kirpeäksi, hennosti poreilevaksi probioottijuomaksi – piimää paksumpaa ja täynnä kymmeniä bakteeri- ja hiivakantoja, joita on annettu kädestä käteen Kaukasuksella vuosisatojen ajan. Kylmänä hedelmien päälle kaadettuna tai suoraan purkista juotuna se on hapanta, kermaista ja aavistuksen kuplivaa tavalla, johon mikään jogurtti ei pysty.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 1440,
+    "category": "Juomat",
+    "tags": [
+      "juoma",
+      "fermentoitu",
+      "kasvis",
+      "maito"
+    ],
+    "ingredients": [
+      "1 l täysmaitoa (pastöroitua, mieluiten ei UHT-käsiteltyä)",
+      "4 rkl (n. 50 g) eläviä maitokefiirijyviä, huuhdottuina"
+    ],
+    "instructions": [
+      "Laita elävät kefiirijyvät puhtaaseen lasipurkkiin (älä käytä kefiirin kanssa metallikulhoja tai -välineitä – jyvät ovat herkkiä reaktiivisille metalleille). Kaada huoneenlämpöinen maito jyvien päälle – jääkaappikylmällä maidolla fermentaatio on hitaampaa ja voi kestää jopa 36 tuntia. Jyvien ja maidon suhteella on väliä: noin 1 rkl jyviä 2½ dl:aan maitoa on ihanteellinen. Liian suuri jyvämäärä hapattaa maidon liian nopeasti, ja tuloksesta tulee hyvin hapanta ja ohutta. Peitä purkki kankaalla tai talouspaperilla ja kiinnitä kuminauhalla – älä käytä fermentoinnin aikana tiivistä kantta, sillä syntyvän hiilidioksidin on päästävä pois. Pidä huoneenlämmössä (18–24 astetta) 18–28 tuntia ja maista 18 ja 24 tunnin kohdalla.",
+      "Kaada kefiiri muovisen tai ruostumattomasta teräksestä valmistetun siivilän läpi (ei hienosilmäistä – käytä karkeaa siivilää, jossa on 2–3 mm:n reiät, jotta neste valuu helposti) puhtaaseen purkkiin tai kannuun. Jyvät jäävät siivilään. Sekoita varovasti muovilastalla, jotta neste valuu läpi – älä pakota tai paina jyviä. Huuhtele jyvät halutessasi hyvin nopeasti viileällä, klooraamattomalla vedellä (osa fermentoijista ei huuhtele lainkaan, jolloin viljelmä pysyy monipuolisempana). Laita jyvät heti uuteen purkkiin tuoreen maidon kanssa seuraavaa erää varten, tai säilytä niitä tuoreeseen maitoon upotettuina jääkaapissa enintään 2 viikkoa. Sulje valmis kefiiri ja siirrä jääkaappiin; se jatkaa hidasta käymistä ja muuttuu 1–3 päivän aikana poreilevammaksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-key-lime-curd",
+    "title": "Key lime -limecurd",
+    "description": "Vaalea, auringonkeltainen curd aitojen key lime -limettien kukkaisella, lähes trooppisella happamuudella – sakeutetaan hitaasti vesihauteen päällä, kunnes se peittää lusikan kuin nestemäinen satiini.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 40,
+    "category": "Jälkiruoat",
+    "tags": [
+      "jälkiruoka",
+      "kasvis",
+      "sitrus",
+      "leivonta"
+    ],
+    "ingredients": [
+      "1 dl tuoretta key lime -mehua (n. 12–15 key limeä)",
+      "150 g hienoa sokeria",
+      "2 isoa kananmunaa",
+      "5 isoa kananmunan keltuaista",
+      "100 g kylmää suolatonta voita, kuutioina",
+      "2 rkl key lime -raastetta (puristetuista limeteistä)",
+      "ripaus hienoa suolaa"
+    ],
+    "instructions": [
+      "Vatkaa vesihaudekattilan yläosassa (tai lämmönkestävässä kulhossa, joka asettuu tiiviisti kattilan päälle) key lime -mehu, sokeri, kananmunat, keltuaiset, limeraaste ja suola, kunnes sokeri alkaa liueta ja seos on tasaista. Keltuaisraitoja ei saa jäädä. Älä aloita kuumentamista vielä – esisekoittaminen varmistaa tasaisen kypsymisen ja estää kuuman kulhon pohjalla olevia munia hyytymästä ennen kuin sokeri liukenee.",
+      "Aseta kulho kattilan päälle, jossa on 3–4 cm tuskin poreilevaa vettä – kulho ei saa koskettaa veden pintaa. Kypsennä keskimiedolla lämmöllä lämmönkestävällä lastalla tai vispilällä jatkuvasti sekoittaen ja kulhon reunoja ja pohjaa kaapien. Curd sakeutuu vähitellen 10–15 minuutin aikana. Se on valmis, kun se peittää lusikan selän ja sormella vedetty viiva pysyy. Älä kiirehdi kovemmalla lämmöllä – munakokkelia ei voi korjata.",
+      "Nosta kulho pois lämmöltä. Lisää kylmät voikuutiot kerralla ja sekoita tarmokkaasti ympyrää, kunnes jokainen kuutio on sulanut täysin curdiin. Kylmä voi laskee lämpötilaa, pysäyttää kypsymisen ja emulgoituu curdiin, jolloin rakenteesta tulee kiiltävä ja täyteläinen. Siivilöi valmis curd hienosilmäisen siivilän läpi puhtaaseen kulhoon, jotta raaste ja mahdolliset hyytyneet munanpalat poistuvat. Painele kelmu suoraan curdin pinnalle (koko pinnan peittäen), jotta pintaan ei muodostu kalvoa. Jäähdytä jääkaapissa kylmäksi ja kiinteäksi."
+    ],
+    "notes": [
+      "Määrä on noin 5 dl curdia. Tavallisia limettejä voi käyttää, jos key limejä ei saa – maku on terävämpi ja vähemmän kukkainen."
+    ]
+  },
+  {
+    "id": "forkrecipe-key-lime-pie",
+    "title": "Floridalainen key lime -piirakka",
+    "description": "Värisevä, vaaleankeltainen täyte Florida Keysin pienistä, voimakkaan tuoksuisista key lime -limeteistä – virkistävän hapan ja makeutettu pelkällä makeutetulla kondensoidulla maidolla, voisen keksipohjan päällä, joka murtuu ensimmäisestä haarukanpistosta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 210,
+    "category": "Jälkiruoat",
+    "tags": [
+      "jälkiruoka",
+      "piirakka",
+      "kasvis",
+      "amerikkalainen",
+      "juhla"
+    ],
+    "ingredients": [
+      "Pohja:",
+      "150 g digestive-keksejä, murskattuina (n. 3½ dl muruja)",
+      "2 rkl sokeria",
+      "¼ tl hienoa merisuolaa",
+      "70 g suolatonta voita, sulatettuna",
+      "Täyte:",
+      "1 tlk (400 g) makeutettua kondensoitua maitoa",
+      "1¼ dl tuoretta key lime -mehua (n. 20–25 key limeä)",
+      "1 rkl key lime -raastetta",
+      "4 ison kananmunan keltuaista",
+      "Kermavaahto:",
+      "2½ dl kylmää kuohukermaa",
+      "2 rkl tomusokeria"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Yhdistä keskikokoisessa kulhossa keksinmurut, sokeri ja suola. Valuta sulatettu voi murujen päälle ja sekoita haarukalla, kunnes jokainen muru on tasaisesti kostunut – seoksen pitää näyttää kostealta hiekalta ja pysyä koossa nyrkissä puristettaessa, mutta murentua irti päästettäessä. Painele seos tiiviisti ja tasaisesti halkaisijaltaan 23 cm:n piirakkavuokaan: aloita keskeltä ja etene pohjaa pitkin reunoja kohti, ja painele sitten reunat tasaisesti noin 4 cm korkeiksi. Tiivistä pohja mitta-astian pohjalla ja reunat kämmenpohjalla. Pohjan pitää olla tasaisen tiivis ilman ohuita kohtia. Paista 8–10 minuuttia, kunnes pohja tuoksuu paahdetulta keksiltä ja reunat ovat aavistuksen kullanruskeat. Jäähdytä ritilällä vähintään 15 minuuttia ennen täyttämistä – kuuma pohja esikypsentää täytteen reunat epätasaisesti.",
+      "Yhdistä keskikokoisessa kulhossa keltuaiset ja limeraaste. Vatkaa tarmokkaasti 2 minuuttia, kunnes keltuaiset vaalenevat hieman ja raaste vapauttaa öljynsä keltuaiseen, jolloin seos muuttuu kirkkaan kelta-vihreäksi. Lisää kondensoitu maito ja vatkaa sekaisin – seos on paksua ja tahmeaa. Lisää lopuksi key lime -mehu ja vatkaa, kunnes täyte on täysin tasaista. Huomaa: key lime -mehun sitruunahappo alkaa heti kosketuksessa hyydyttää kondensoidun maidon proteiineja, jolloin seos sakeutuu selvästi. Tämä on oikein – juuri tämän ansiosta piirakka hyytyy ilman liivatetta. Älä lisää sitruunamehua äläkä käytä pullotettua mehua – tuoreen key limen haihtuvat aromit ovat tämän jälkiruoan sielu. Täytteen pitää maistua voimakkaan happamalta ja kukkaisen trooppiselta. Se pehmenee uunissa.",
+      "Kaada limetäyte jäähtyneeseen keksipohjaan. Täytteen pitää ulottua lähes pohjan reunaan asti – enintään ½ cm reunan alapuolelle. Kallistele vuokaa varovasti täytteen tasoittamiseksi pohjaa rikkomatta. Paista 165 asteessa – matalammassa lämmössä kuin pohjaa – 15–17 minuuttia. Täyte on valmis, kun uloin 2–3 cm on täysin hyytynyt ja keskimmäiset 8–10 cm vielä hytkyvät hieman vuokaa heilauttaessa, kuin juuri ja juuri hyytynyt kiisseli. Tämä on tärkeää: täysin liikkumaton keskusta tarkoittaa, että munat ovat ylikypsiä. Täyte jähmettyy jälkilämmössä jäähtyessään. Älä paista liikaa – täydellisen key lime -piirakan rakenne on juuri ja juuri värisevä, lähes pannacottamainen, ei kiinteä kuin juustokakku.",
+      "Jäähdytä piirakkaa jääkaapissa vähintään 2 tuntia tai yön yli. Täyte kiinteytyy kylmässä huomattavasti – siellä se saavuttaa lopullisen, värisevän rakenteensa. Vatkaa juuri ennen tarjoilua kylmä kerma ja tomusokeri kylmässä kulhossa sähkövatkaimella tai yleiskoneella. Aloita pienellä nopeudella ja nosta keskikorkealle. Vatkaa keskikiinteäksi vaahdoksi – vaahdon pitää muodostaa vispilää nostettaessa pehmeä kiehkura, jonka kärki taipuu hellästi sivulle eikä seiso jäykkänä. Ylivatkattu kerma näyttää rakeiselta ja on lähellä voita. Levitä tai pursota kermavaahto piirakan päälle: voit peittää koko pinnan perinteiseen tapaan tai pursottaa koristeellisia ruusukkeita reunoille. Viimeistele muutamalla ohuella key lime -viipaleella tai ripauksella raastetta. Leikkaa kuumaan veteen kastetulla ja jokaisen leikkauksen välillä kuivatulla veitsellä siistejä paloja varten."
+    ],
+    "notes": [
+      "Grahamkeksien sijaan käytetään digestive-keksejä, jotka ovat Suomessa helpommin saatavilla."
+    ]
+  },
+  {
+    "id": "forkrecipe-khachapuri",
+    "title": "Adžarialainen hatšapuri",
+    "description": "Georgian Adžariasta peräisin oleva veneenmuotoinen juustoleipä – hiivataikina muotoillaan soikeaksi aluksi, joka täytetään sulavalla suluguni- ja imeruli-juustoseoksella ja paistetaan, kunnes kuori ruskistuu. Lopuksi kuplivan keskustan päälle lisätään raaka muna ja voinokare.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 130,
+    "category": "Leivät ja leivonnaiset",
+    "tags": [
+      "leivonta",
+      "georgialainen",
+      "kasvis",
+      "juusto"
+    ],
+    "ingredients": [
+      "Taikina:",
+      "400 g vehnäjauhoja",
+      "220 ml lämmintä vettä (35–38 astetta)",
+      "40 ml lämmintä täysmaitoa",
+      "2 tl kuivahiivaa (n. 6 g)",
+      "1½ tl hienoa merisuolaa",
+      "2 tl sokeria",
+      "1 rkl neutraalia öljyä tai sulatettua suolatonta voita",
+      "Täyte:",
+      "250 g suluguni-juustoa (tai vähäkosteista mozzarellaa), raastettuna",
+      "150 g imeruli-juustoa tai fetaa, murennettuna",
+      "1–2 rkl vettä tai maitoa (tarvittaessa)",
+      "Viimeistelyyn:",
+      "3 kananmunaa (1 kumpaankin hatšapuriin ja 1 voiteluun)",
+      "30 g kylmää suolatonta voita, pieninä kuutioina"
+    ],
+    "instructions": [
+      "Sekoita suuressa kulhossa jauhot, hiiva, suola ja sokeri. Lisää lämmin vesi, lämmin maito ja öljy. Sekoita karkeaksi taikinaksi ja kumoa kevyesti jauhotetulle pöydälle. Vaivaa tarmokkaasti 8–10 minuuttia, kunnes taikina on sileää, kimmoisaa ja palautuu painettaessa. Hatšapuritaikina on rikastettu ja kohtuullisen kostea – sen pitää tuntua pehmeältä ja hieman tahmealta, mutta ei tarttuvalta, ja sen pitää venyä ohueksi läpikuultavaksi kalvoksi. Muotoile palloksi, laita kevyesti öljyttyyn kulhoon, peitä kostealla liinalla tai kelmulla ja anna kohota huoneenlämmössä 1 tunti tai kunnes taikina on kaksinkertaistunut.",
+      "Sekoita taikinan kohotessa raastettu suluguni ja murennettu imeruli (tai feta) kulhossa. Sekoita käsin ja murenna suuret fetapalat niin, että juustot jakautuvat tasaisesti. Täytteen pitää näyttää löyhältä seokselta venyvää sulavaa juustoa ja murenevaa suolaista juustoa. Maista: sen pitää olla rohkean suolainen ja maitoinen. Jos käytät imerulin sijaan fetaa, maista ennen lisäsuolaa – feta on usein imerulia suolaisempaa. Jos juustot tuntuvat hyvin kuivilta, sekoita joukkoon 1–2 rkl vettä tai maitoa, jotta täyte sulaessaan sitoutuu yhtenäiseksi.",
+      "Kuumenna uuni 230 asteeseen ja laita uunin sisään paksu uunipelti tai leivinkivi. Painele kohonnut taikina kasaan ja jaa kahteen yhtä suureen osaan. Kauli kumpikin osa kevyesti jauhotetulla pöydällä noin 30 × 18 cm:n soikioksi. Siirrä soikiot leivinpaperille. Levitä puolet juustotäytteestä kummankin soikion keskelle ja jätä reunoille 4 cm tyhjää. Kääri soikion pitkät sivut tiukasti sisäänpäin juuston päälle, jolloin syntyy kaksi koholla olevaa reunaa. Purista ja kierrä kumpikin lyhyt pää tiukasti suipoksi kärjeksi veneen keulaksi ja peräksi – puristetut päät pitävät reunat koossa paistettaessa. Veneen pitää pysyä muodossaan nostettaessa. Juusto jää lähes kokonaan reunojen sisään ja pilkottaa kapeasta raosta keskeltä. Sivele reunat vatkatulla kananmunalla.",
+      "Liu'uta leivinpaperi veneineen uunissa olevalle kuumalle pellille. Paista 230 asteessa 12–15 minuuttia, kunnes taikinareunat ovat syvän kullanruskeat ja reunoilla on paikoin tummia kohtia ja juusto kuplii sulana koko pinnalta. Ota uunista. Painele nopeasti lusikalla pieni kuoppa kummankin veneen kuplivan juuston keskelle. Riko kuhunkin kuoppaan varovasti yksi kananmuna – keltuaisen pitää näkyä selvästi ja valkuaisen levitä hieman sulaan juustoon. Palauta uuniin tasan 3 minuutiksi: valkuaisen pitää olla reunoilta juuri hyytynyttä ja keltuaisen täysin juoksevaa. Ota uunista ja lisää heti kylmät voikuutiot kuuman juuston päälle.",
+      "Sekoita pöydässä juokseva keltuainen ja sulava voi tarmokkaasti haarukalla sulaan juustoon, kunnes kaikki on yhdistynyt täyteläiseksi, kiiltäväksi, munakokkelia muistuttavaksi kastikkeeksi. Revi palasia kuorireunasta ja kasta ja vedä niitä juustoseoksen läpi – tämä on oikea ja ainoa tapa syödä adžarialaista hatšapuria. Ulkoreunan leipä toimii syötävänä lusikkana. Syö heti, kun juusto vielä valuu. Aterimia ei tarvita."
+    ],
+    "notes": [
+      "Alkuperäinen taikina on annettu leipurin prosentteina; määrät on laskettu kahdelle veneelle."
+    ]
+  },
+  {
+    "id": "forkrecipe-kheer",
+    "title": "Kheer – intialainen riisivanukas",
+    "description": "Intian ikivanha maitoriisivanukas – lyhytjyväistä riisiä haudutetaan hitaasti täysmaidossa, kunnes se sakeutuu kermaiseksi puuroksi. Maustetaan kardemummalla ja sahramilla ja viimeistellään paahdetuilla pistaasipähkinöillä ja ruusuvedellä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": [
+      "jälkiruoka",
+      "intialainen",
+      "kasvis",
+      "riisi"
+    ],
+    "ingredients": [
+      "1 rkl gheetä",
+      "60 g lyhytjyväistä valkoista riisiä (gobindobhog tai arborio), huuhdottuna",
+      "1 l kylmää täysmaitoa",
+      "ripaus (n. 0,25 g) sahraminlankoja, murennettuina",
+      "1 dl sokeria",
+      "6–8 vihreää kardemummankotaa, siemenet juuri jauhettuina",
+      "1 tl ruusuvettä",
+      "2 rkl suolattomia pistaasipähkinöitä, paahdettuina ja karkeasti rouhittuina",
+      "1 tl kuivattuja ruusun terälehtiä tai syötävää hopealehteä (vark)"
+    ],
+    "instructions": [
+      "Lämmitä ghee paksupohjaisessa kattilassa tai leveässä kasarissa (mieluiten paksupohjaisessa, jotta maito ei pala pohjaan) keskilämmöllä. Lisää huuhdottu ja valutettu riisi ja sekoita, jotta jokainen jyvä peittyy rasvaan. Paahda riisiä varovasti jatkuvasti sekoittaen 2–3 minuuttia, kunnes jyvien reunat muuttuvat hieman läpikuultaviksi ja keittiö tuoksuu lämpimältä, pähkinäiseltä riisiltä. Tämä lyhyt paahto peittää tärkkelysjyväset ohuella rasvakalvolla, joka hidastaa niiden turpoamista ja auttaa riisiä imemään maitoa vähitellen sen sijaan, että se muuttuisi kerralla mössöksi.",
+      "Kaada kylmä maito paahdetun riisin päälle ja kuumenna usein sekoittaen hiljaiseen kiehuntaan. Kun maito poreilee, murenna sahraminlangat suoraan joukkoon. Laske lämpö niin, että vain pieniä kuplia puhkeaa satunnaisesti pinnassa – ei voimakasta kiehuntaa. Keitä kannettomana 3–4 minuutin välein sekoittaen 35–40 minuuttia. Vedä lusikkaa joka sekoituksella kattilan pohjaa pitkin, ettei riisi tartu ja pala pohjaan, mikä tapahtuu maidon kanssa nopeasti. Tänä aikana maito vähenee noin kolmanneksella, riisi pehmenee täysin ja alkaa vapauttaa tärkkelystä, ja koko kattila muuttuu sahramista kullankeltaiseksi.",
+      "Lisää sokeri poreilevaan kheeriin ja sekoita liukenemaan – kheer ohenee hieman sokerin sulaessa, mikä on normaalia. Jatka haudutusta vielä 5 minuuttia, jotta koostumus tasaantuu. Nosta liedeltä. Sekoita juuri jauhettu kardemumma ja ruusuvesi joukkoon liedeltä nostettuna – molemmat ovat erittäin haihtuvia aromeja, ja kiehuvaan nesteeseen lisättyinä suurin osa tuoksusta katoaa. Lisää kardemumma 30 sekuntia ennen tarjoilua, jos tarjoat kheerin lämpimänä, tai juuri ennen jäähdyttämistä, jos tarjoat sen kylmänä. Maista ja säädä sokeria: kheerin kuuluu olla selvästi makeaa, sillä kylmyys vaimentaa makeutta huomattavasti.",
+      "Kaada kheer annoskulhoihin tai leveään, matalaan astiaan. Se sakeutuu jäähtyessään huomattavasti – jos tarjoat sen lämpimänä, annostele heti. Perinteisempää kylmää tarjoilua varten anna jäähtyä huoneenlämpöiseksi ja jäähdytä sitten jääkaapissa vähintään 2 tuntia. Kylmässä kheer sakeutuu kermaisen vanukkaan rakenteeseen. Ripottele ennen tarjoilua pinnalle paahdetut pistaasirouheet rapeutta ja väriä tuomaan. Lisää päälle kuivattuja ruusun terälehtiä tai muutama sahraminlanka. Tarjoa kylmänä, huoneenlämpöisenä tai lämpimänä – kaikki kolme ovat perinteisiä."
+    ]
+  },
+  {
+    "id": "forkrecipe-khichdi",
+    "title": "Khichdi – riisi-mungpapupuuro",
+    "description": "Riisi ja keltainen kuorittu mungpapu (moong dal) keitetään yhdessä pehmeäksi, puuromaiseksi kokonaisuudeksi ja maustetaan sihisevällä lusikallisella gheetä, juustokuminaa ja kurkumaa. Intian suuri lohturuoka – hoivaava ja ravitseva, yhtä lailla kotonaan sairauspäivänä kuin juhlapöydässä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": [
+      "kasvis",
+      "intialainen",
+      "riisi",
+      "linssit"
+    ],
+    "ingredients": [
+      "100 g basmatiriisiä",
+      "100 g keltaista kuorittua halkaistua mungpapua (moong dal)",
+      "1 rkl gheetä",
+      "2 tl juustokuminan siemeniä",
+      "ripaus asafoetidaa (hing)",
+      "1 rkl raastettua tuoretta inkivääriä",
+      "1 vihreä chili, pituussuunnassa halkaistuna",
+      "¾ tl jauhettua kurkumaa",
+      "8 dl vettä",
+      "1 tl suolaa",
+      "Viimeistelyyn:",
+      "1 rkl gheetä",
+      "1 kourallinen tuoretta korianteria, karkeasti hienonnettuna"
+    ],
+    "instructions": [
+      "Yhdistä riisi ja mungpapu kulhossa. Peitä kylmällä vedellä ja huuhtele kevyesti pyöritellen. Vesi muuttuu sameaksi ylimääräisestä tärkkelyksestä. Valuta ja toista 3–4 kertaa, kunnes vesi on lähes kirkasta. Liota huuhdottua seosta raikkaassa kylmässä vedessä 20–30 minuuttia. Liotus lyhentää dalin kypsymisaikaa ja tekee rakenteesta kermaisemman ja tasaisemman. Valuta ennen kypsentämistä.",
+      "Kuumenna ghee paksupohjaisessa kattilassa tai painekattilassa keskilämmöllä, kunnes se väreilee ja siihen pudotettu vesipisara sihahtaa heti. Lisää juustokuminan siemenet – niiden pitää rätistä ja tummua 20–30 sekunnissa. Lisää asafoetida; se vaahtoaa hetken. Lisää heti raastettu inkivääri ja halkaistu chili. Sekoita 30 sekuntia, kunnes inkivääri tuoksuu kypsältä ja sen raaka terävyys katoaa. Lisää kurkuma ja sekoita 10 sekuntia – ghee muuttuu kirkkaan kullankeltaiseksi. Tarka valmistuu alle 2 minuutissa. Älä poistu lieden ääreltä.",
+      "Lisää valutettu riisi ja dal tarkan joukkoon ja sekoita, jotta jokainen jyvä peittyy kultaisella gheellä. Kaada joukkoon vesi, lisää suola ja sekoita. Pehmeään, puuromaiseen khichdiin veden ja jyvien suhde on noin 4:1; kiinteämpään, erillisjyväiseen rakenteeseen käytä suhdetta 3:1. Kuumenna kiehuvaksi ja laske sitten mahdollisimman pienelle lämmölle. Peitä ja keitä liedellä 20–25 minuuttia, tai painekattilassa korkealla paineella 8 minuuttia. Khichdi on valmis, kun riisi ja dal ovat sulautuneet yhtenäiseksi, kermaiseksi, pehmeäksi massaksi. Sekoita voimakkaasti – sen pitää näyttää puurolta, ei erillisiltä riisiltä ja dalilta.",
+      "Maista ja tarkista suola. Jos khichdi on sakeutunut liikaa (se sakeutuu aina seistessään), lisää kuumaa vettä ja sekoita hyvin, kunnes koostumus on valuva ja puuromainen. Kuumenna pienessä pannussa tai suoraan liekin päällä pidetyssä kauhassa nokare gheetä, kunnes se väreilee. Kaada se ohuena norona khichdin päälle – se sihahtaa ja jää lammikoiksi pinnalle. Ripottele päälle tuore korianteri. Tarjoa heti maustamattoman jogurtin, pikkelsin ja papadien kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kimchi-jjigae-broth",
+    "title": "Kimchi jjigae – kimchi-porsaspata",
+    "description": "Ruosteenpunainen liemi, joka iskee ensin fermentoidulla syvyydellä ennen kuin porsaan rasva peittää kielen – pohjana kypsytetty kimchi, joka hajoaa silkkiseksi, huulille tarttuvaksi liemeksi ja tuoksuu parhaalla mahdollisella tavalla korealaisen isoäidin jääkaapilta.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Keitot",
+    "tags": [
+      "keitto",
+      "korealainen",
+      "porsas",
+      "fermentoitu",
+      "tulinen"
+    ],
+    "ingredients": [
+      "300 g kypsytettyä kiinankaalikimchiä (vähintään 2 viikkoa vanhaa), karkeasti pilkottuna",
+      "250 g porsaan kylkeä tai lapaa, 3 cm:n kuutioina",
+      "4½ dl anjovis-merileväliemeä (dashi) tai vettä",
+      "¾ dl kimchin lientä (kimchipurkista)",
+      "2 rkl gochugarua (korealaista chilirouhetta)",
+      "1 rkl doenjangia (fermentoitua soijapaputahnaa)",
+      "1 rkl kalakastiketta",
+      "4 valkosipulinkynttä, hienonnettuina",
+      "1½ tl seesamiöljyä viimeistelyyn",
+      "2 kevätsipulia, vinoina viipaleina"
+    ],
+    "instructions": [
+      "Kuumenna paksupohjainen kattila tai korealainen savipata (dolsot) keskikorkealla lämmöllä ilman öljyä. Lisää porsaskuutiot yhtenä kerroksena ja anna niiden olla koskematta 2–3 minuuttia. Tavoitteena on, että rasvaa sulaa pataan ja vähintään kahdelle sivulle muodostuu karamellinruskea pinta – tämä paistopohja antaa liemelle runkoa. Käännä kerran ja ruskista vastakkaista puolta 90 sekuntia. Porsaan ei tarvitse olla kypsää.",
+      "Työnnä porsaat sivuun. Lisää valkosipuli ja gochugaru padan keskelle sulaneeseen rasvaan. Sekoita ja kypsennä 60–90 sekuntia, kunnes valkosipuli tuoksuu mutta ei ruskistu ja gochugaru on värjännyt rasvan kirkkaan tiilenpunaiseksi. Näin rasvaliukoiset kapsaisiinit aukeavat ja liemi saa värinsä heti alusta.",
+      "Lisää pilkottu kimchi ja kimchin liemi, sitten doenjang. Sekoita kaikki yhteen niin, että kimchi peittyy punaisella rasvalla. Nosta lämpö keskilämmölle ja kypsennä kimchiä välillä sekoittaen 5–7 minuuttia. Kimchi alkaa pehmetä ja sen väri syvenee kirkkaan oranssinpunaisesta tummemmaksi tiilenpunaiseksi. Tuoksu muuttuu terävän fermentoidusta pyöreämmäksi ja monivivahteisemmaksi.",
+      "Kaada joukkoon anjovis-merileväliemi ja kalakastike. Kuumenna voimakkaaseen kiehuntaan kovalla lämmöllä ja laske sitten tasaiselle, hiljaiselle poreilulle. Keitä kannettomana 20–25 minuuttia. Liemi vähenee hieman ja porsas pehmenee. Kuori ensimmäisten 5 minuutin aikana pintaan nouseva harmaa vaahto – sen jälkeen pintaan nouseva rasva on makua ja saa jäädä.",
+      "Maista ja säädä: jos liemi kaipaa suolaa, lisää kalakastiketta ¼ tl kerrallaan ruokasuolan sijaan. Jos se on liian hapanta, pieni ripaus sokeria pyöristää makua (käytä harkintaa). Jos maku on lattea, lisää hieman kimchin lientä. Nosta liedeltä ja valuta seesamiöljy pinnalle – älä sekoita sitä kokonaan joukkoon, vaan anna sen jäädä laikuiksi. Ripottele pinnalle kevätsipuli ja tarjoa heti padassa."
+    ],
+    "notes": [
+      "Alkuperäinen resepti on annettu suhdelukuina; määrät on muunnettu noin 2–3 hengen annokseksi. Tarjoa höyrytetyn riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kimchi",
+    "title": "Kiinankaalikimchi (baechu-kimchi)",
+    "description": "Klassinen baechu-kimchi – kokonainen kiinankaali suolataan, kunnes se taipuu katkeamatta, sivellään makeasta riisipuurosta sakeutetulla, karmiininpunaisella gochugaru-tahnalla ja jätetään maitohappokäymään funkyksi, poreilevaksi ja eläväksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "category": "Säilykkeet",
+    "tags": [
+      "korealainen",
+      "fermentoitu",
+      "kaali",
+      "säilöntä"
+    ],
+    "ingredients": [
+      "1 kg kiinankaalia (baechu), halkaistuna tai neljännettynä",
+      "Suolaus:",
+      "80 g karkeaa merisuolaa",
+      "1 l vettä (suolaliemeen ja puuroon), jaettuna",
+      "Maustetahna:",
+      "20 g makeaa riisijauhoa (tahmeaa riisijauhoa, puuroon)",
+      "60 g gochugarua (korealaista chilirouhetta)",
+      "30 g valkosipulinkynsiä, raastettuina",
+      "12 g tuoretta inkivääriä, raastettuna",
+      "40 g saeujeotia (suolattua fermentoitua katkarapua) ja kalakastiketta yhteensä",
+      "50 g aasianpäärynää, raastettuna (tai sokeria)",
+      "150 g korealaista retikkaa (mu) ja kevätsipulia yhteensä, suikaleina"
+    ],
+    "instructions": [
+      "Halkaise tai neljännä kiinankaali pituussuunnassa niin, että kanta jää ehjäksi ja lehdet pysyvät kiinni. Liuota kolmannes suolasta veteen pikasuolaliemeksi ja kasta kaali siihen; nosta sitten jokainen osa ylös ja ripottele loput suolasta lehtien väliin, erityisesti paksuille valkoisille ruodeille. Aseta kaali leikkuupinta ylöspäin suureen kulhoon ja anna seistä huoneenlämmössä 2 tuntia 30 minuutin välein käännellen, kunnes lehdet ovat veltot ja taipuisat. Huuhtele kaali kolmesti huolellisesti kylmällä vedellä ylimääräisen suolan poistamiseksi ja valuta leikkuupinta alaspäin siivilässä 30 minuuttia.",
+      "Vatkaa makea riisijauho noin 2½ dl:aan kylmää vettä tasaiseksi ja kypsennä keskilämmöllä jatkuvasti sekoittaen 3–5 minuuttia, kunnes se sakeutuu läpikuultavaksi, kiiltäväksi puuroksi. Sen pitää valua lusikasta hitaana nauhana. Jäähdytä täysin; lämmin puuro tappaa bakteerit ja kypsentää aromiainekset. Tärkkelys antaa maustetahnalle runkoa tarttua lehtiin ja ruokkii maitohappobakteereja käymisen aikana.",
+      "Sekoita jäähtyneeseen puuroon gochugaru ja anna turvota 10 minuuttia – se paisuu ja muuttuu syvän tiilenpunaiseksi. Lisää raastettu valkosipuli, inkivääri, saeujeot ja kalakastike sekä raastettu päärynä ja sekoita löysäksi, lusikoitavaksi tahnaksi. Kääntele joukkoon retikka- ja kevätsipulisuikaleet. Maista: tahnan pitää olla rajun suolainen, makea ja tulinen, sillä suolattu kaali vaimentaa makua. Säädä kalakastikkeella suolaisuutta tai päärynällä makeutta.",
+      "Pue hanskat. Aseta kaalinosa pöydälle ja sivele tahnaa lehti lehdeltä, työstäen sitä jokaiseen kerrokseen ja keskittyen valkoisiin ruotiin. Taittele täytetty osa siistiksi nyytiksi ja kääri se omaan uloimpaan lehteensä. Pakkaa puhtaaseen purkkiin tai saviruukkuun ja painele tiiviisti ilmataskujen poistamiseksi. Jätä vähintään 3 cm tyhjää tilaa – kimchi kuplii ja nousee käydessään. Huuhtele tahnakulho loraus vettä ja kaada neste päälle, jotta kaikki pysyy nesteen alla.",
+      "Peitä löyhästi (kansi raolleen tai käymispaino liinan alla) ja pidä viileässä huoneenlämmössä, 18–22 asteessa, 1–3 päivää. Aseta purkki lautaselle mahdollisen yli valuvan nesteen varalta. Paina kaali kerran päivässä puhtaalla lusikalla takaisin nesteen alle, jotta kaasu pääsee pois ja kaali pysyy upotettuna. Maista päivittäin: kimchi on valmis, kun se on miellyttävän hapanta ja kirpeää ja siinä näkyy eloisia kuplia. Siirrä sitten jääkaappiin, jossa se kypsyy hitaasti viikkojen ajan ja säilyy kuukausia."
+    ]
+  },
+  {
+    "id": "forkrecipe-kitchari",
+    "title": "Kitchari – ayurvedinen riisi-dalpuuro",
+    "description": "Intian ayurvedinen hoivapuuro – halkaistu mungpapu ja basmatiriisi keitetään yhdessä kultaisen gheen, juustokuminan ja kurkuman kanssa, kunnes ne sulautuvat lämpimän tuoksuiseksi, ravitsevaksi ja helposti sulavaksi kokonaisuudeksi, joka on enemmän kuin osiensa summa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": [
+      "kasvis",
+      "intialainen",
+      "riisi",
+      "linssit"
+    ],
+    "ingredients": [
+      "200 g basmatiriisiä, huuhdottuna",
+      "150 g halkaistua keltaista mungpapua (moong dal)",
+      "40 g gheetä",
+      "1 rkl juustokuminan siemeniä",
+      "2 tl jauhettua kurkumaa",
+      "1½ tl hienoa merisuolaa",
+      "12 dl vettä",
+      "Tarjoiluun:",
+      "tuoretta korianteria",
+      "sitruunalohkoja",
+      "gheetä"
+    ],
+    "instructions": [
+      "Sulata ghee paksupohjaisessa kattilassa keskilämmöllä. Lisää juustokuminan siemenet ja paista sekoittaen 60–90 sekuntia, kunnes ne alkavat poksahdella ja tummuvat sävyn verran. Lisää kurkuma ja sekoita 20 sekuntia. Mausteet aukeavat rasvassa ja vapauttavat rasvaliukoiset makuyhdisteensä – tämä vaihe rakentaa ruoan selkärangan.",
+      "Lisää huuhdottu riisi ja mungpapu maustettuun gheehen ja sekoita, jotta ne peittyvät kurkumankultaisella rasvalla. Kaada joukkoon vesi, lisää suola ja kuumenna kiehuvaksi. Laske lämpö hiljaiseen poreiluun, peitä ja keitä välillä sekoittaen 25–30 minuuttia, kunnes riisi ja dal ovat sulautuneet täysin pehmeäksi, puuromaiseksi seokseksi. Kitcharin pitää valua lusikasta hitaasti eikä pitää muotoaan.",
+      "Tarjoa tuoreen korianterin, sitruunalohkojen ja gheenokareen kanssa."
+    ]
+  }
+]

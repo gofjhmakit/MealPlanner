@@ -1,0 +1,717 @@
+[
+  {
+    "id": "forkrecipe-kladdkaka",
+    "title": "Kladdkaka (ruotsalainen mutakakku)",
+    "description": "Ruotsalainen suklaakakku, joka paistetaan tarkoituksella vajaaksi: reunat kovettuvat ohueksi, rapeaksi kuoreksi, kun taas keskusta jää tiiviiksi, tahmeaksi ja lähes raa'an tuntuiseksi. Syödään jääkaappikylmänä tomusokerilla ja kermavaahdolla.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["ruotsalainen", "suklaa", "kakku", "juhla"],
+    "ingredients": [
+      "100 g vehnäjauhoja",
+      "250 g sokeria",
+      "60 g kaakaojauhetta (hollantilaista, makeuttamatonta)",
+      "½ tl hienoa suolaa",
+      "2 munaa (n. 100 g)",
+      "120 g suolatonta voita, sulatettuna ja jäähdytettynä",
+      "¾ tl vaniljauutetta",
+      "Tarjoiluun:",
+      "1 rkl tomusokeria",
+      "kermavaahtoa",
+      "Vuokaan:",
+      "voita ja kaakaojauhetta"
+    ],
+    "instructions": [
+      "Siivilöi vehnäjauhot, kaakaojauhe ja suola kulhoon. Lisää sokeri ja vispaa, kunnes seos on tasainen – se on tummaa ja hieman kuohkeaa. Seoksessa ei saa näkyä jauhotaskuja eikä kaakaopaakkuja.",
+      "Tee kuivien aineiden keskelle kuoppa. Lisää munat, sulatettu (ei kuuma) voi ja vanilja. Sekoita puulusikalla tai nuolijalla vain sen verran, että aineet yhdistyvät – lopeta heti, kun kuivia jauhoja ei enää näy. Taikina on paksua, tummaa ja kiiltävää. Älä käytä sähkövatkainta: tavoitteena on, ettei taikinaan sekoitu lainkaan ilmaa.",
+      "Kaada taikina voideltuun ja kaakaojauheella jauhotettuun 20 cm:n irtopohjavuokaan. Paista 175 asteessa täsmälleen 15–17 minuuttia. Kakku on valmis, kun reunat ovat hyytyneet, halkeilleet ja kiinteät, mutta keskusta hytkyy voimakkaasti – kuin hyytynyt crème brûlée – vuokaa varovasti ravistettaessa. Keskelle pistetty tikku tulee ulos tahmean taikinan peittämänä, ja niin kuuluukin.",
+      "Anna kakun jäähtyä vuoassa kokonaan huoneenlämmössä, vähintään 30 minuuttia, ennen kuin siirrät sen jääkaappiin. Tahmea keskusta asettuu jäähtyessään mutta pysyy tiiviinä ja tahmeana. Jäähdytä jääkaapissa vähintään tunti – kylmänä kladdkaka on parhaimmillaan. Irrota vuoan reunat, siivilöi pinnalle runsaasti tomusokeria ja tarjoa ohuina viipaleina kevyesti vatkatun kermavaahdon kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kofta",
+    "title": "Kofta – lampaanlihavartaat",
+    "description": "Käsin muotoillut lampaan- ja sipulitangot litteissä vartaissa, runsaasti maustepippuria ja raakaa persiljaa. Grillataan hiilloksella, kunnes pinta on tumma ja rapea ja sisus jää vaaleanpunertavaksi ja todella mehukkaaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["liha", "lammas", "grilli", "lähi-itä"],
+    "ingredients": [
+      "500 g lampaan jauhelihaa (rasvaa 20–25 %)",
+      "1 keskikokoinen sipuli, karkeasti raastettuna",
+      "1¼ dl lehtipersiljaa, hyvin hienoksi hienonnettuna",
+      "2 tl baharat-maustesekoitusta",
+      "1 tl juustokuminaa, jauhettuna",
+      "1½ tl hienoa merisuolaa",
+      "½ tl aleppopippuria tai chilihiutaleita"
+    ],
+    "instructions": [
+      "Raasta sipuli raastimen karkealla puolella suoraan kulhoon ja purista siitä mahdollisimman paljon nestettä pois – märkä sipuli saa koftat putoamaan vartaasta. Yhdistä sipuli, lampaanjauheliha, persilja, baharat, juustokumina, suola ja aleppopippuri. Sekoita käsin kokonaiset 3 minuuttia taitellen ja vaivaten massaa kuin leipätaikinaa. Massan tulee muuttua tahmeaksi ja koossapysyväksi, lähes kimmoisaksi, kun lihan myosiiniproteiinit sitoutuvat. Kiinteytä jääkaapissa 30 minuuttia.",
+      "Ota märin käsin noin 90 g massaa (golfpallon kokoinen pala) ja painele se tiiviisti litteän metallivartaan ympärille noin 12 cm pitkäksi ja 3 cm paksuksi tangoksi. Paina niin lujaa, ettei ilmataskuja jää – purista keskeltä reunoja kohti. Painele päät tiiviisti kiinni. Koftan tulee tuntua kiinteältä ja tiiviiltä, ei ontolta. Jos käytät bambuvartaita, liota niitä ensin vedessä 30 minuuttia. Massasta voi myös muotoilla pihvejä pannulla paistettaviksi.",
+      "Grillaa erittäin kuumalla, suoralla hiili- tai kaasugrillin lämmöllä. Älä koske koftiin ensimmäisten 3–4 minuutin aikana – anna niiden ruskistua ja irrota ritilästä itsestään. Käännä kerran ja grillaa vielä 3–4 minuuttia. Kokonaisaika on 7–9 minuuttia medium-kypsyyteen (sisältä vielä vaaleanpunainen), mikä on perinteinen tavoite; sisälämpötila on tällöin 63 °C. Anna levätä ritilällä 3 minuuttia ja tarjoa lämpimän pitaleivän, tahinin ja fattoush-salaatin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kombu-dashi",
+    "title": "Kombudashi (kylmäuutettu)",
+    "description": "Kylmäuutettu kombudashi on umamin puhtain muoto: kristallinkirkas liemi, johon tarvitaan vain kuivattua rakkolevää ja kylmää vettä. Japanilaisen kasvisruoan perusta, jossa on puhdas, meren syvyyttä muistuttava maku.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 5,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["japanilainen", "liemi", "vegaaninen", "kasvis"],
+    "ingredients": [
+      "20 g kombua (kuivattua rakkolevää), mieluiten ma-kombua",
+      "1 l kylmää vettä (mieluiten pehmeää tai suodatettua)"
+    ],
+    "instructions": [
+      "Tarkastele kombua: sen tulee olla tumman ruskeanvihreää ja runsaan valkoisen jauheen peittämää. Jauhe on mannitolia, luonnollista sokerialkoholia, joka on kombun makeuden ja umamin perusta. Pyyhi pinta hyvin kevyesti tuskin kostealla liinalla tai kuivalla talouspaperilla ja poista vain mahdollinen hiekka tai roskat. Älä huuhtele kombua juoksevan veden alla äläkä hankaa sitä: valkoinen jauhe on arvokasta ja se kuuluu säilyttää. Leikkaa tai viillä kombu saksilla pienemmiksi paloiksi (noin 10 cm), jotta veden kanssa kosketuksissa oleva pinta-ala kasvaa.",
+      "Laita kombu puhtaaseen kattilaan tai syvään astiaan ja kaada kylmä vesi päälle. Anna hautua huoneenlämmössä 30–60 minuuttia. Kylmäuutossa glutamiinihappo, mineraalit ja mannitoli liukenevat veteen hitaasti tavalla, jota kuumauutolla ei saavuteta – kuuma vesi uuttaa nopeammin, mutta irrottaa myös kitkeriä yhdisteitä kombun soluseinistä. Vesi muuttuu vähitellen kirkkaasta haalean kullanvihreäksi glutamaattien liuetessa.",
+      "Nosta kattila liedelle pienimmälle mahdolliselle lämmölle. Kuumenna hyvin hitaasti 55–65 asteeseen – tällä lämpöalueella glutamaattia uuttuu eniten ja liemi pysyy puhtaana ja kirkkaana. Kun vesi lähestyy 60 astetta, kombun pinnalle ja kattilan pohjaan alkaa muodostua pieniä kuplia. Tämä on ratkaiseva hetki: seuraa tarkasti, ja kun kuplia ilmestyy kombun reunoille, lämpötila on täydellinen. Älä anna veden alkaa porista.",
+      "Nosta kombupalat pois pihdeillä tai reikäkauhalla – älä purista tai paina niitä, sillä se vapauttaa kitkeriä yhdisteitä. Siivilöi dashi tiheän siivilän läpi (harsoa ei tarvita – hyvin tehty kombudashi on valmiiksi kirkasta). Valmista dashia voi käyttää heti misokeiton, nuudeliliemen tai haudutettujen ruokien pohjana. Jääkaapissa se säilyy 3 päivää."
+    ],
+    "notes": ["Käytetystä kombusta voi keittää soijakastikkeen ja mirinin kanssa tsukudania, suolaisenmakeaa lisuketta."]
+  },
+  {
+    "id": "forkrecipe-kombucha",
+    "title": "Kombucha",
+    "description": "Elävä, kevyesti poreileva tee: makeutettu musta tee annetaan SCOBY-viljelmälle, joka muuttaa sokerin kirpeäksi, siiderimäiseksi juomaksi. Pullotettuna ja ilmalta suljettuna se kehittää itse hienovaraisen hiilihapon. Hapan, hennosti etikkainen ja elävä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "category": "Juomat",
+    "tags": ["fermentoitu", "tee", "vegaaninen", "kasvis"],
+    "ingredients": [
+      "1 l suodatettua vettä (kloorittomaa)",
+      "8 g mustaa irtoteetä (Assam tai Ceylon)",
+      "70 g sokeria",
+      "1 kpl SCOBY-viljelmää (elävä kombuchaviljelmä)",
+      "1½ dl valmista, maustamatonta kombuchaa (aloitusnesteeksi)",
+      "Toiseen käymiseen:",
+      "15 g tuoretta inkivääriä, viipaloituna",
+      "¼ sitruunaa (mehu)"
+    ],
+    "instructions": [
+      "Kuumenna vesi kiehuvaksi, nosta liedeltä ja sekoita joukkoon sokeri, kunnes se liukenee kokonaan. Lisää irtotee ja anna hautua 8–10 minuuttia, siivilöi sitten lehdet pois. Sokeri on bakteerien ravintoa, ja tee antaa viljelmän tarvitsemaa typpeä ja tanniineja – älä koskaan käytä maustettuja, öljyllä aromatisoituja tai liuottimella kofeiinittomaksi tehtyjä teelaatuja, sillä ne voivat pysäyttää tai myrkyttää SCOBYn. Anna makean teen jäähtyä kokonaan huoneenlämpöiseksi, alle 30-asteiseksi. Tämä on tärkein vaihe: kuuma tee polttaa ja tappaa viljelmän.",
+      "Liu'uta SCOBY puhtain käsin jäähtyneeseen teehen ja kaada joukkoon aloituskombucha. Aloitusneste laskee pH:n heti happamaksi, mikä estää homeen ja vieraiden bakteerien pääsyn jalansijaan – tämä happamuuden etumatka on turvaverkkosi. Peitä purkin suu tiheäkudoksisella kankaalla tai kahvinsuodatinpaperilla ja kiinnitä kuminauhalla, älä koskaan tiiviillä kannella: viljelmän on hengitettävä, mutta banaanikärpäset on pidettävä poissa.",
+      "Anna purkin olla lämpimässä, pimeässä ja rauhassa 7–14 päivää. Viljelmän työskennellessä pinnalle leviää uusi, kermanvärinen kalvo, ja juoma samenee hitaasti ja siihen muodostuu ruskeita hiivasäikeitä. Aloita maistelu pillillä (SCOBYn ohi pujotettuna) noin 7. päivänä. Etsit hetkeä, jolloin maku kääntyy makeasta kirpeän tasapainoiseksi: lämpimässä huoneessa tämä tapahtuu viikossa, viileässä kahdessa. Luota kieleesi enemmän kuin kalenteriin.",
+      "Laita viipaloitu inkivääri ja tilkka sitruunamehua (tai mitä tahansa hedelmää) puhtaisiin patenttikorkillisiin pulloihin ja kaada käynyt kombucha suppilon avulla päälle, jättäen 3 cm tyhjää tilaa. Sulje pullot ilmatiiviisti. Jäljellä oleva sokeri ja hedelmän sokerit ruokkivat ripeää toista käymistä, ja koska pullo on suljettu, hiilidioksidi ei pääse karkaamaan vaan liukenee juomaan poreiksi. Pidä huoneenlämmössä 2–4 päivää ja avaa yhtä pulloa päivittäin paineen tarkistamiseksi. Kun juoma on reippaasti poreilevaa, siirrä pullot jääkaappiin käymisen pysäyttämiseksi ja tarjoa kylmänä."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-anchovy-broth",
+    "title": "Korealainen anjovisliemi (myeolchi yuksu)",
+    "description": "Korealaisen kotiruoan vaatimaton selkäranka: kuivattuja anjoviksia ja merilevää kylmässä vedessä, joka kuumennetaan lyhyesti kiehuvaksi. Tuloksena on puhdas, hieman suolainen ja syvän suolaisenmaukas liemi, joka tukee kaikkea doenjang jjigaesta tteokbokkiin varastamatta koskaan huomiota.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 5,
+    "totalTimeMin": 25,
+    "category": "Keitot",
+    "tags": ["korealainen", "liemi", "kala"],
+    "ingredients": [
+      "30 g kuivattuja isoja anjoviksia (myeolchi), päät ja sisälmykset poistettuina",
+      "15 g kuivattua merilevää (dashima/kombu)",
+      "12 dl kylmää vettä",
+      "10 g kuivattuja shiitakesieniä (valinnainen)",
+      "1 kevätsipulin valkoinen osa (valinnainen)"
+    ],
+    "instructions": [
+      "Poista kuivatuista anjoviksista päät ja suolisto – pää tuo kitkeryyttä ja suolisto kalaisuutta. Halkaise jokainen anjovis pituussuunnassa ja vedä tumma suolinauha pois. Paahda puhdistettuja anjoviksia kuivalla paistinpannulla keskilämmöllä 2–3 minuuttia, kunnes ne tuoksuvat ja ovat hieman kullanruskeampia. Tämä vähentää kalaisuutta ja syventää makua. Anjovikset ovat valmiita, kun ne tuoksuvat pähkinäiseltä ja suolaisenmaukkaalta eivätkä enää terävän kalaisilta.",
+      "Laita paahdetut anjovikset ja merilevä kylmän veden kanssa keskikokoiseen kattilaan. Lisää halutessasi kuivatut shiitakesienet ja kevätsipulin valkoinen osa syvyyttä tuomaan. Kuumenna kiehuvaksi keskilämmöllä, mihin kuluu noin 10–12 minuuttia. Nosta merilevä pois heti, kun vesi kiehuu – sen pidempi keittäminen irrottaa levästä kitkeriä yhdisteitä. Laske lämpöä ja hauduta anjoviksia vielä 10 minuuttia. Älä keitä voimakkaasti.",
+      "Kaada liemi tiheän siivilän läpi. Painele anjoviksia kevyesti, jotta viimeisetkin nesteet irtoavat – toisin kuin dashissa, jossa bonitohiutaleita ei saa painella, anjovisliemi on vähemmän herkkää ja hyötyy painelusta. Siivilöity liemi on valmis käytettäväksi esimerkiksi tteokbokkin (tulisten riisikakkujen), doenjang jjigaen (fermentoidun soijatahnan muhennoksen) tai kongnamulin (soijanidukeiton) pohjana. Mausta suolalla vasta valmiissa ruoassa."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-bulgogi",
+    "title": "Korealainen bulgogi",
+    "description": "Ohuita naudanlihasuikaleita päärynä-soijamarinadissa, jotka karamellisoituvat sekunneissa tulikuumalla grillillä – makeita, savuisia ja uskomattoman mureita, jokaisessa suupalassa rapeaksi paahtuneet reunat.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 140,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "grilli"],
+    "ingredients": [
+      "500 g naudan entrecôtea tai ulkofileetä, 3 mm:n viipaleina",
+      "80 g nashipäärynää, raastettuna (tai kiiviä)",
+      "½ dl soijakastiketta (gluteenittomana tamaria)",
+      "20 g fariinisokeria",
+      "4 valkosipulinkynttä (n. 15 g), hienonnettuna",
+      "40 g kevätsipulia, ohuina renkaina",
+      "1 rkl paahdettua seesamiöljyä",
+      "½ tl mustapippuria, vastajauhettuna",
+      "2 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Raasta nashipäärynä raastimen hienolla puolella suoraan isoon kulhoon – haluat sekä mehun että hedelmälihan. Lisää soijakastike, fariinisokeri, valkosipuli, kevätsipuli, seesamiöljy ja mustapippuri. Sekoita, kunnes sokeri liukenee. Lisää lihaviipaleet ja hiero marinadia käsin jokaiseen kerrokseen erotellen viipaleet toisistaan. Peitä ja marinoi jääkaapissa vähintään 2 tuntia, enintään yön yli. Päärynän entsyymit mureuttavat lihaa; yli 12 tunnin jälkeen rakenne muuttuu mössömäiseksi.",
+      "Kuumenna valurautainen grillipannu, paistolevy tai ulkogrilli mahdollisimman kuumaksi – pinnan tulee väreillä ja ensimmäisen savun häivähdyksen näkyä. Ravista ylimääräinen marinadi viipaleista ja asettele ne litteinä yhteen kerrokseen; älä ahda pannua liian täyteen, tai liha höyryyntyy eikä paahdu. Paista erissä 60–90 sekuntia puoleltaan. Tavoitteena ovat karamellisoituneet reunat ja kevyt paahde grilliraidoissa. Marinadin sokeri palaa helposti – hallitse lämpöä nopeudella, älä matalalla lämpötilalla.",
+      "Siirrä kuuma bulgogi tarjoiluvadille ja ripottele päälle paahdetut seesaminsiemenet. Tarjoa heti höyrytetyn lyhytjyväisen riisin, kimchin ja tuoreiden salaatinlehtien kanssa kääreiksi. Bulgogi ei odota ketään – karamellisoitunut pinta pehmenee minuuteissa, kun viipaleiden alle kertyy höyryä."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-fried-chicken",
+    "title": "Korealainen friteerattu kana",
+    "description": "Kaksoisfriteeraus on enemmän filosofia kuin tekniikka: ensimmäinen paisto kiinteyttää kuoren ja alkaa sulattaa rasvaa, toinen muuttaa kuoren lähes lasimaiseksi, niin ohueksi ja rapeaksi, että sen rouskeen kuulee huoneen toiselle puolelle. Gochujangista, hunajasta ja valkosipulista tehty yangnyeom-kastike tarttuu pintaan pehmentämättä sitä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "korealainen", "friteerattu", "tulinen"],
+    "ingredients": [
+      "900 g broilerin siipiä tai koipipaloja (tai luullisia paloja)",
+      "1 tl suolaa",
+      "½ tl mustapippuria",
+      "½ tl valkosipulijauhetta",
+      "Taikina:",
+      "1¼ dl perunajauhoja",
+      "½ dl vehnäjauhoja",
+      "1¼ dl kylmää vettä",
+      "Friteeraukseen:",
+      "1 l rypsiöljyä (tai riisinleseöljyä)",
+      "Yangnyeom-kastike:",
+      "3 rkl gochujangia (korealaista fermentoitua chilitahnaa)",
+      "2 rkl hunajaa",
+      "1 rkl fariinisokeria",
+      "4 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "1 rkl soijakastiketta",
+      "1 tl paahdettua seesamiöljyä",
+      "1 tl riisiviinietikkaa",
+      "Viimeistelyyn:",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1 kevätsipuli, ohuina renkaina"
+    ],
+    "instructions": [
+      "Taputtele kana täysin kuivaksi talouspaperilla – tästä ei jousteta. Mausta suolalla, pippurilla ja valkosipulijauheella ja sekoita tasaisesti. Anna seistä huoneenlämmössä 30 minuuttia tai jääkaapissa ilman kantta enintään 2 tuntia, jolloin pinta kuivuu ja tulos on rapeampi. Mitä kuivempi pinta, sitä rapeampi kuori.",
+      "Vispaa perunajauhot ja vehnäjauhot leveässä kulhossa. Lisää kylmä vesi ja sekoita ohueksi, hieman paakkuiseksi taikinaksi – älä sekoita liikaa. Taikinan tulee olla ohuempaa kuin lettutaikina ja hieman paakkuista. Lisää maustetut kanapalat ja kääntele, kunnes ne ovat kauttaaltaan taikinan peitossa. Osaan paloista jää ohut, epätasainen kerros, toisiin valumia ja harjanteita – juuri tämä epätasaisuus luo rosoisen, erittäin rapean pinnan. Anna taikinoitujen palojen levätä 5 minuuttia.",
+      "Kuumenna öljy syvässä kattilassa 165 asteeseen. Friteeraa kanaa väljissä erissä 8–10 minuuttia, kunnes palat ovat vaalean kullanruskeita ja kypsiä. Nosta valumaan ritilälle – ei talouspaperille. Anna levätä 10 minuuttia. Nosta öljyn lämpötila 190 asteeseen. Friteeraa samat palat uudelleen 3–4 minuuttia, kunnes ne ovat syvän meripihkankultaisia ja rätisevät kuuluvasti, kun ne nostetaan öljystä. Nosta heti valumaan.",
+      "Yhdistä gochujang, hunaja, fariinisokeri, valkosipulitahna, soijakastike, seesamiöljy ja riisiviinietikka pienessä kattilassa. Lämmitä keskilämmöllä sekoittaen, kunnes sokeri liukenee ja kastike juuri ja juuri poreilee – noin 2 minuuttia. Älä keitä. Toimi nopeasti: laita kaksoisfriteerattu kana isoon kulhoon, kaada lämmin kastike päälle ja kääntele ripeästi, kunnes jokainen pala on kastikkeen peitossa. Viimeistele seesaminsiemenillä ja kevätsipulilla. Tarjoa 5 minuutin kuluessa – kuori pysyy rapeana noin 10 minuuttia kastikkeen lisäämisen jälkeen."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-galbi-jjim",
+    "title": "Galbi-jjim (korealaiset haudutetut naudan grilliribsit)",
+    "description": "Soijalla makeutettuja naudan lyhyitä kylkiluita haudutetaan hitaasti nashipäärynän, valkosipulin ja inkiväärin kanssa, kunnes kollageeni sulaa kiiltäväksi, lakkamaiseksi kastikkeeksi, joka tarttuu luusta irtoavaan lihaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "haudutettu", "juhla"],
+    "ingredients": [
+      "1½ kg luullisia naudan lyhyitä kylkiluita (short ribs, flanken- tai English-leikkaus)",
+      "Marinadi:",
+      "2¼ dl soijakastiketta (ganjang)",
+      "1¼ dl miriniä",
+      "300 g nashipäärynää, raastettuna",
+      "15 valkosipulinkynttä (n. 75 g), hienonnettuna",
+      "45 g tuoretta inkivääriä, raastettuna",
+      "60 g fariinisokeria tai raakasokeria",
+      "1 rkl gochujangia tai chilihiutaleita (valinnainen)",
+      "Hauduttamiseen:",
+      "4½ dl vettä tai lihalientä",
+      "Viimeistelyyn:",
+      "2 rkl seesamiöljyä",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1 kevätsipuli, ohuina renkaina"
+    ],
+    "instructions": [
+      "Laita kylkiluut isoon kattilaan ja peitä kylmällä vedellä. Kuumenna kiehuvaksi kovalla lämmöllä. Kun vesi kiehuu, kuori harmaa vaahto huolellisesti pois. Ryöppää 5–7 minuuttia, valuta ja huuhtele jokainen kylkiluu kylmän juoksevan veden alla hangaten jäljelle jääneet harmaat proteiinit pois. Tämä vaihe on välttämätön, jotta haudukkeesta tulee puhdas ja kirkas ilman sivumakuja.",
+      "Yhdistä kulhossa soijakastike, mirin, raastettu päärynä, valkosipuli, inkivääri, sokeri ja halutessasi gochujang. Vispaa, kunnes sokeri liukenee. Sekoita ryöpättyjen kylkiluiden kanssa ja hiero marinadia joka koloon luiden ympärille. Marinoi vähintään 30 minuuttia huoneenlämmössä tai enintään yön yli jääkaapissa.",
+      "Siirrä kylkiluut ja kaikki marinadi paksupohjaiseen kattilaan tai valurautapataan. Lisää vesi tai liemi niin, että neste ulottuu noin puoliväliin kylkiluiden korkeutta. Kuumenna kiehuvaksi kovalla lämmöllä ja laske sitten lämpö matalaksi, tasaiseksi poreiluksi. Peitä kannella ja hauduta 1½–2 tuntia kääntäen kylkiluita 30 minuutin välein, jotta kaikki puolet kylpevät kastikkeessa.",
+      "Ota kansi pois ja nosta lämpö keskitasolle. Valele haudutuslientä jatkuvasti kylkiluiden päälle sen vähentyessä, noin minuutin välein. Keitä 10–15 minuuttia, kunnes kastike on paksua, kiiltävää ja peittää lusikan selän valumatta. Nosta liedeltä ja sekoita joukkoon seesamiöljy.",
+      "Asettele kylkiluut luupuoli alaspäin tarjoiluvadille. Valuta loput kastikkeesta päälle. Ripottele pinnalle paahdetut seesaminsiemenet ja ohuet kevätsipulirenkaat. Tarjoa heti höyrytetyn lyhytjyväisen riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-haemul-pajeon",
+    "title": "Haemul pajeon – korealainen meren antimien ja kevätsipulin pannukakku",
+    "description": "Leveä, kullanruskea meren antimien ja kevätsipulin pannukakku, jonka pinta on murtuvan rapea ja sisus pehmeä ja munainen – juuri sitä, mitä jokaisessa korealaisessa kodissa tehdään kauden ensimmäisen sateen sattuessa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "korealainen", "kala"],
+    "ingredients": [
+      "200 g kevätsipulia, pannun mittaisiksi leikattuina",
+      "150 g raakoja katkarapuja, kuorittuina ja karkeasti pilkottuina",
+      "100 g kalmaria, puhdistettuna ja renkaiksi leikattuna",
+      "120 g vehnäjauhoja",
+      "40 g riisijauhoja",
+      "2 munaa",
+      "1¾ dl jääkylmää vettä",
+      "4 rkl neutraalia öljyä (auringonkukka- tai maissiöljyä)",
+      "1 tl hienoa merisuolaa",
+      "Dippikastike:",
+      "2 rkl soijakastiketta",
+      "2 tl riisiviinietikkaa",
+      "1 tl gochugarua (korealaisia chilihiutaleita)",
+      "1 tl sokeria"
+    ],
+    "instructions": [
+      "Vispaa vehnäjauhot, riisijauhot ja suola isossa kulhossa. Vatkaa munat erikseen jääkylmään veteen ja kaada jauhojen joukkoon. Sekoita syömäpuikoilla tai haarukalla vain sen verran, että aineet yhdistyvät – paakut ovat sallittuja ja jopa toivottavia; liika sekoittaminen kehittää gluteenia, jolloin pannukakusta tulee sitkeä eikä rapea. Taikinan tulee olla ohuen kerman paksuista. Kylmä vesi on ratkaisevaa: kylmä taikina = rapea pajeon.",
+      "Kääntele kevätsipulit (mahdollisuuksien mukaan pituussuunnassa aseteltuina), katkaravut ja kalmari taikinaan. Taikinan tulee juuri ja juuri peittää kaikki – kevätsipulien pitää erottua selvästi taikinan läpi, ei hautautua paksun kerroksen alle. Valmista dippikastike sekoittamalla soijakastike, riisiviinietikka, sokeri ja gochugaru pienessä kulhossa.",
+      "Kuumenna iso (25–30 cm) tarttumaton tai valurautainen paistinpannu keskikorkealla lämmöllä hyvin kuumaksi. Lisää 3 rkl öljyä – sen tulee väreillä heti. Kaada kaikki taikina kerralla pannulle ja levitä se nopeasti pyöreäksi lusikan selällä. Laske lämpö keskitasolle. Paina pannukakkua lastalla tiukasti minuutin välein, jotta se tiivistyy ja on tasaisesti kosketuksissa pannuun. Paista 5–6 minuuttia, kunnes pohja on syvän kullanruskea ja rapea. Valuta loput öljystä reunoille. Käännä yhdellä päättäväisellä liikkeellä ja paina taas tiukasti. Paista toista puolta 3–4 minuuttia. Leikkaa lohkoiksi ja tarjoa heti dippikastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-japchae",
+    "title": "Japchae (korealaiset lasinuudelit)",
+    "description": "Sitkeitä, läpikuultavia bataattilasinuudeleita sateenkaaren värisiksi suikaleiksi leikattujen kasvisten kanssa. Jokainen aines paistetaan erikseen ja yhdistetään lopuksi soija-seesami-sokerikastikkeeseen. Korean juhlanuudeliruoka, kaunis kuin jalokivikoristeinen kudos.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["korealainen", "kasvis", "nuudelit", "juhla"],
+    "ingredients": [
+      "200 g dangmyeon-nuudeleita (bataattilasinuudeleita)",
+      "150 g tuoretta pinaattia, lyhyesti ryöpättynä ja puristettuna",
+      "120 g porkkanaa, ohuiksi tikuiksi leikattuna",
+      "120 g punaista paprikaa, suikaloituna",
+      "100 g shiitakesieniä, jalat poistettuina ja viipaloituna",
+      "100 g sipulia, ohuina viipaleina",
+      "3 valkosipulinkynttä (n. 10 g), hienonnettuna",
+      "3 rkl soijakastiketta (ganjang)",
+      "2 rkl paahdettua seesamiöljyä",
+      "1 rkl sokeria",
+      "2 rkl rypsiöljyä (paistamiseen)",
+      "1 tl hienoa merisuolaa",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1 muna, ohueksi munakkaaksi paistettuna ja suikaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Kiehauta iso kattilallinen vettä. Lisää nuudelit ja keitä 6–8 minuuttia välillä sekoittaen, kunnes ne ovat täysin pehmeitä – niiden tulee muuttua läpikuultamattoman valkoisista kirkkaiksi ja lasimaisiksi, ja purutuntuman tulee olla miellyttävän sitkeä. Ne eivät saa olla tahmeita eivätkä keskeltä pehmeitä. Valuta heti ja huuhtele kylmällä vedellä kypsymisen pysäyttämiseksi. Sekoita joukkoon teelusikallinen seesamiöljyä, jotta nuudelit eivät tartu yhteen. Leikkaa nuudelit saksilla noin 15 cm:n pituisiksi – muuten ne ovat hyvin pitkiä ja hankalia. Pane syrjään.",
+      "Japchaen kauneuden salaisuus on paistaa jokainen kasvis erikseen, jolloin ne säilyttävät oman värinsä, rakenteensa ja makunsa. Kuumenna iso wokki tai paistinpannu kovalla lämmöllä. Paista yksi aines kerrallaan ohuessa öljykalvossa: shiitakesieniä 3 minuuttia, kunnes ne ovat kullanruskeita ja hieman kutistuneita; sipulia ja valkosipulia 3 minuuttia, kunnes ne ovat läpikuultavia ja pehmenneitä; porkkanaa 2 minuuttia, jolloin siinä on vielä purutuntumaa; paprikaa 1–2 minuuttia, jolloin se on vielä kirkkaanpunainen; ryöpättyä, puristettua pinaattia 30 sekuntia vain lämmitykseksi. Mausta jokainen erä kevyesti suolalla. Anna erien jäähtyä hieman omina kasoinaan lautasella tai tarjottimella – erillään pidettyinä värit pysyvät kirkkaina, kun kaikki yhdistetään.",
+      "Yhdistä keitetyt nuudelit ja kaikki paistetut kasvikset suurimmassa kulhossasi tai takaisin wokissa miedolla lämmöllä. Vispaa pienessä kulhossa loput soijakastikkeesta, seesamiöljystä ja sokerista, kunnes sokeri liukenee. Kaada kastike kaiken päälle ja kääntele varovasti mutta perusteellisesti pihdeillä tai kahdella haarukalla, nostellen ja taitellen nuudeleita, jotta kastike ja kasvikset jakautuvat tasaisesti. Kastikkeen tulee peittää jokainen nuudeli ja tarttua kasviksiin. Maista ja säädä: lisää soijaa suolaisuuteen, seesamiöljyä pähkinäisyyteen tai sokeria tasapainoksi. Maun tulee olla tasapainoinen – suolainen, pähkinäinen, hieman makea ja syvän umaminen.",
+      "Siirrä japchae isolle tarjoiluvadille ja ripottele päälle runsaasti paahdettuja seesaminsiemeniä. Jos käytät munaa, leikkaa ohut munakas hienoiksi suikaleiksi ja kasaa ne löyhäksi keoksi pinnalle – ne tuovat pehmeää täyteläisyyttä ja näyttävän kultaisen värin tummia nuudeleita vasten. Japchae tarjoillaan perinteisesti huoneenlämpöisenä, mikä tekee siitä ihanteellisen juhliin ja yhteisaterioille – sen voi valmistaa useita tunteja etukäteen, ja se paranee, kun kastike marinoi nuudeleita. Lämpimänä tarjottaessa sen voi elvyttää kääntelemällä kuumassa wokissa 2 minuuttia."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-pajeon",
+    "title": "Pajeon – korealainen kevätsipulipannukakku",
+    "description": "Leveä, litteä riisijauhotaikinasta tehty pannukakku täynnä kokonaisia kevätsipulinippuja. Paistetaan runsaassa öljyssä, kunnes pohja on murtuvan rapeaa kullanruskeaa pitsiä ja sisus sitkeä, suolaisenmaukas ja pehmeä.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["korealainen", "kasvis", "pannukakku"],
+    "ingredients": [
+      "150 g riisijauhoja",
+      "100 g vehnäjauhoja",
+      "2½ dl jääkylmää vettä",
+      "1 pieni muna (n. 25 g)",
+      "150 g kevätsipulia, kokonaisina tai pituussuunnassa halkaistuina",
+      "1 tl hienoa suolaa",
+      "½ dl neutraalia öljyä (rypsi- tai riisinleseöljyä)",
+      "Dippikastike:",
+      "2 rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa",
+      "1 tl seesamiöljyä",
+      "ripaus chilihiutaleita"
+    ],
+    "instructions": [
+      "Vispaa riisijauhot, vehnäjauhot ja suola kulhossa. Lisää muna ja jääkylmä vesi. Vispaa vain sen verran, että aineet yhdistyvät – muutama pieni paakku ei haittaa. Taikinan tulee olla lettutaikinaa ohuempaa, lähempänä kuohukerman paksuutta. Kylmä vesi on välttämätöntä: se estää riisijauhoja muuttumasta tahmeiksi.",
+      "Lisää kokonaiset kevätsipulit taikinaan ja kääntele ne taikinan peittoon. Hyvin koossa pysyvää pajeonia varten asettele kevätsipulit rinnakkain sen sijaan, että levittäisit ne sikin sokin – näin leikkauspintaan syntyy tyypillinen raidallinen kuvio. Kevätsipulia tulee olla enemmän kuin taikinaa: kevätsipulit ovat pääosassa, ja taikina vain juuri ja juuri pitää ne koossa.",
+      "Kuumenna reilusti öljyä leveällä, paksupohjaisella paistinpannulla (24–26 cm) keskikorkealla lämmöllä, kunnes se väreilee. Kaada kevätsipulitaikina pannulle ja levitä se lastalla nopeasti tasapaksuksi, noin 7 mm:n paksuiseksi pyöryläksi. Paista koskematta 4–5 minuuttia. Kurkista reunan alle: kun pohja on syvän kullanruskea, käännä – tarvittaessa lautasen avulla. Paista toista puolta 3–4 minuuttia painellen kevyesti lastalla, jotta koko pinta on kosketuksissa pannuun. Pannukakun tulee sihistä kuuluvasti koko ajan.",
+      "Vispaa soijakastike, riisiviinietikka, seesamiöljy ja ripaus chilihiutaleita teräväksi, suolaisenmaukkaaksi dippikastikkeeksi. Leikkaa pajeon keittiösaksilla tai terävällä veitsellä lohkoiksi tai neliöiksi. Tarjoa heti – kuori pehmenee minuuteissa. Tarjoa dippikastike kylmänä pienessä kulhossa vieressä."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-short-ribs",
+    "title": "Galbi (korealaiset grillatut naudan kylkiluut)",
+    "description": "Ohuiksi poikittain leikattuja naudan lyhyitä kylkiluita marinoidaan karamellisoituvassa nashipäärynän, soijan, seesamin, valkosipulin ja inkiväärin seoksessa. Hedelmän entsyymit mureuttavat lihaa, ja sokerit paahtuvat kuumalla hiilloksella karvasmakeaksi kuoreksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["liha", "korealainen", "grilli"],
+    "ingredients": [
+      "1 kg naudan lyhyitä kylkiluita flanken-leikkauksena (1 cm paksuina luiden poikki)",
+      "Marinadi:",
+      "1 dl soijakastiketta",
+      "80 g nashipäärynää, raastettuna (tai ½ kiiviä)",
+      "2 rkl paahdettua seesamiöljyä",
+      "6 valkosipulinkynttä, hienonnettuna tai raastettuna",
+      "20 g tuoretta inkivääriä, raastettuna",
+      "4 kevätsipulia, ohuina renkaina",
+      "40 g tummaa fariinisokeria",
+      "2 rkl miriniä tai kuivaa sakea",
+      "1 tl mustapippuria, vastajauhettuna",
+      "Viimeistelyyn:",
+      "1 rkl seesaminsiemeniä, kevyesti paahdettuina",
+      "kevätsipulin vihreitä osia, viipaloituna"
+    ],
+    "instructions": [
+      "Vispaa soijakastike, raastettu päärynä, seesamiöljy, valkosipuli, inkivääri, kevätsipuli, fariinisokeri, mirin ja mustapippuri, kunnes sokeri liukenee. Nashipäärynän proteolyyttiset entsyymit mureuttavat naudanlihan sitkeitä proteiineja. Viillä lihaan veitsellä jokaisen luun väliin 2–3 matalaa viiltoa, jotta marinadi imeytyy. Upota kylkiluut marinadiin minigrip-pussissa, purista ilma pois ja laita jääkaappiin. Vähintään kaksi tuntia, ihanteellisesti neljä. Älä marinoi yön yli pidempään: päärynän entsyymit hajottavat rakenteen lopulta liikaa, jolloin pinnasta tulee jauhoinen.",
+      "Valmistele grilli suoralle kovalle lämmölle – kunnon hiillos tai kaasugrilli täysillä. Nosta kylkiluut marinadista ja anna ylimääräisen valua pois, mutta jätä pintaan reilu kerros. Kaada jäljelle jäänyt marinadi pieneen kattilaan, keitä 2 minuuttia ja käytä sitä voiteluun. Grillaa ohuita kylkiluita suoralla, voimakkaalla lämmöllä 2–3 minuuttia puoleltaan. Ohut leikkaus kypsyy nopeasti – tavoitteena on mahdollisimman voimakas paahde pinnalla, kun keskusta on juuri ja juuri kypsä.",
+      "Nosta grilliltä ja anna levätä lämpimällä lautasella 3–5 minuuttia. Ohuen leikkauksen vuoksi lepo on lyhyt, mutta se antaa lihan mehujen – erityisesti kylkiluiden sulaneen lihaksensisäisen rasvan – tasaantua sen sijaan, että ne valuisivat leikkuulaudalle. Leikkaa keittiösaksilla luiden välistä annospaloiksi.",
+      "Asettele luulliset palat lämpimälle vadille tai suoraan grillilevylle. Ripottele päälle runsaasti paahdettuja seesaminsiemeniä ja tuoreita kevätsipulin vihreitä. Tarjoa höyrytetyn lyhytjyväisen riisin, kimchin ja perinteisten korealaisten banchan-lisukkeiden kanssa – seesami ja kevätsipuli eivät ole koristeita, vaan ne tuovat raikkaan vastapainon voimakkaalle karamellisoituneelle paahteelle."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-sigeumchi-namul",
+    "title": "Sigeumchi namul (korealainen seesamipinaatti)",
+    "description": "Ryöpättyä, silkinpehmeäksi puristettua pinaattia paahdetun seesamin, valkosipulin ja soijan kanssa – korealaisen pöydän yksinkertaisin banchan-lisuke ja se, joka katoaa kulhosta ensimmäisenä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["korealainen", "vegaaninen", "kasvis", "nopea"],
+    "ingredients": [
+      "300 g tuoretta pinaattia (isolehtistä, ei babypinaattia)",
+      "1 rkl soijakastiketta (gluteenittomana tamaria)",
+      "2 tl paahdettua seesamiöljyä",
+      "1 iso valkosipulinkynsi (n. 5 g), hienonnettuna",
+      "½ tl suolaa",
+      "2 tl paahdettuja seesaminsiemeniä",
+      "suolaa ryöppäysveteen"
+    ],
+    "instructions": [
+      "Kiehauta iso kattilallinen reilusti suolattua vettä voimakkaaseen kiehuntaan. Lisää pinaatti kerralla ja ryöppää 30–45 sekuntia – vain kunnes se on kokonaan nuutunut ja kirkkaanvihreä. Älä ryöppää pidempään. Valuta heti ja siirrä jäävesikulhoon kypsymisen pysäyttämiseksi ja värin säilyttämiseksi. Valuta minuutin kuluttua ja purista pinaattia lujasti molemmin käsin, jotta vettä lähtee mahdollisimman paljon. Puristetun nipun tulee olla noin kolmannes alkuperäisestä tilavuudesta. Leikkaa nippu poikittain kolmeen osaan.",
+      "Laita leikattu pinaatti kulhoon. Lisää soijakastike, paahdettu seesamiöljy, suola ja hienonnettu raaka valkosipuli. Sekoita käsin ja hiero maustetta pinaatin jokaiseen kerrokseen. Maista ja säädä – pinaatin tulee olla hyvin maustettua ja suolaisenmaukasta, ja seesamiöljyn tulee tuoksua jokaisessa suupalassa. Raaka valkosipuli miedontuu hieman namulin seistessä. Miedompaa versiota varten kuullota valkosipulia hyvin lyhyesti seesamiöljyssä ennen lisäämistä.",
+      "Siirrä maustettu pinaatti pieneen tarjoilukulhoon ja ripottele päälle paahdetut seesaminsiemenet. Tarjoa huoneenlämpöisenä tai hieman jäähdytettynä banchan-lisukkeena riisin ja muiden korealaisten ruokien kanssa. Sigeumchi namul paranee 30 minuutissa makujen sekoittuessa – se sopii erinomaisesti etukäteen valmistettavaksi ja säilyy jääkaapissa 3 päivää."
+    ]
+  },
+  {
+    "id": "forkrecipe-korean-ssamjang",
+    "title": "Korealainen ssamjang",
+    "description": "Tumma, pirteä tahna salaattikääreisiin: nopeasti sekoitettua doenjangia (fermentoitua soijapaputahnaa) ja gochujangia seesamiöljyn, valkosipulin ja tilkan hunajaa kanssa – tarpeeksi paksua levitettäväksi ja niin monimuotoista, ettei grillilihaa edes tarvitsisi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 8,
+    "totalTimeMin": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["korealainen", "kasvis", "nopea", "dippi"],
+    "ingredients": [
+      "60 g doenjangia (korealaista fermentoitua soijapaputahnaa)",
+      "30 g gochujangia (korealaista fermentoitua chilitahnaa)",
+      "1 rkl paahdettua seesamiöljyä",
+      "2 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "20 g kevätsipulia, hienoksi viipaloituna",
+      "2 tl hunajaa tai oligosakkaridisiirappia (mulyeot)",
+      "1 rkl paahdettuja seesaminsiemeniä, kevyesti murskattuina"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset kulhossa ja sekoita voimakkaasti, kunnes doenjang ja gochujang ovat täysin sekoittuneet eikä raitoja enää näy. Seesamiöljyn tulee imeytyä eikä jäädä pinnalle lammikoksi. Kevätsipulin ja seesaminsiementen tulee jakautua tasaisesti. Maista ja säädä: lisää gochujangia tulisuuteen, hunajaa makeuteen ja seesamiöljyä täyteläisyyteen. Toisin kuin kypsennetyissä mausteissa, ssamjangin maku rakentuu kokonaan tasapainosta – ei ole kuumuutta, joka peittäisi virheet.",
+      "Peitä kulho ja anna levätä huoneenlämmössä vähintään 10 minuuttia ennen tarjoilua – raaka valkosipuli miedontuu hieman ja seesamiöljy sekoittuu kunnolla. Ssamjang paranee selvästi muutamassa tunnissa jääkaapissa makujen sekoittuessa. Säilytä jääkaapissa ilmatiiviissä purkissa enintään 2 viikkoa. Tarjoa dippitahnana ssam-salaattikääreisiin, bulgogin ja raakojen kasvisten kanssa tai pelkän höyrytetyn riisin kera."
+    ]
+  },
+  {
+    "id": "forkrecipe-koshari",
+    "title": "Koshari",
+    "description": "Egyptin suuri katuruoka kerroksittain: linssit, riisi ja pieni pasta pohjana, päällä tulinen maustettu tomaattikastike, kasa rapeaksi paistettua sipulia ja terävöittävä valkosipuli-etikkakastike – kaoottinen, äänekäs ja täysin vastustamaton.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 50,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["egyptiläinen", "vegaaninen", "kasvis", "riisi", "pasta"],
+    "ingredients": [
+      "200 g pitkäjyväistä valkoista riisiä",
+      "200 g ruskeita linssejä, huuhdottuina",
+      "150 g makaronia tai ditalinia",
+      "500 g isoja keltasipuleita, ohuina viipaleina",
+      "1 dl neutraalia öljyä (jaettuna)",
+      "1 tlk (400 g) tomaattimurskaa",
+      "5 valkosipulinkynttä (n. 20 g), hienonnettuna",
+      "1 rkl juustokuminaa, jauhettuna",
+      "2 tl korianteria, jauhettuna",
+      "1 tl cayennepippuria",
+      "2 rkl valkoviinietikkaa",
+      "2 tl hienoa merisuolaa",
+      "6 dl vettä tai kasvislientä",
+      "Tarjoiluun:",
+      "valkoviinietikkaa"
+    ],
+    "instructions": [
+      "Laita linssit kattilaan, peitä vedellä, kuumenna kiehuvaksi ja keitä 20 minuuttia, kunnes ne ovat täysin pehmeitä mutta eivät mössöä – jokaisen linssin tulee säilyttää muotonsa. Valuta ja mausta kevyesti suolalla. Pane syrjään.",
+      "Huuhtele riisi, kunnes vesi on kirkasta. Yhdistä kattilassa riisi ja vesi tai liemi suhteessa 1:1,5. Lisää ripaus suolaa ja teelusikallinen öljyä. Kuumenna kiehuvaksi, peitä kannella, laske lämpö minimiin ja keitä 15–18 minuuttia, kunnes neste on imeytynyt kokonaan. Anna levätä kannen alla 5 minuuttia.",
+      "Keitä pasta reilusti suolatussa vedessä al denteksi – juuri sen pisteen yli, jossa se on vielä liitumainen. Valuta ja sekoita joukkoon pieni loraus öljyä, jotta se ei paakkuunnu. Pane syrjään.",
+      "Kuumenna reilusti öljyä leveällä pannulla keskikorkealla lämmöllä. Lisää kaikki sipuliviipaleet ja paista usein sekoittaen 20–25 minuuttia, kunnes sipulit ovat syvän ruskeita, kutistuneita ja rapeita – osan reunoista tulee olla lähes hiiltyneitä. Nosta reikäkauhalla talouspaperilla vuoratulle lautaselle. Suolaa heti. Sipulit rapeutuvat lisää jäähtyessään.",
+      "Paista samalla pannulla valkosipulia jäljelle jääneessä öljyssä keskilämmöllä 30 sekuntia, kunnes se tuoksuu. Lisää juustokumina, korianteri ja cayenne ja sekoita 30 sekuntia. Lisää tomaattimurska, etikka ja suola. Hauduta ilman kantta 15–20 minuuttia, kunnes kastike on paksuuntunut ja öljy erottunut pinnalle.",
+      "Kokoa annoskulhoihin tai isolle vadille: riisi ja linssit yhdessä pohjaksi, pasta niiden päälle. Kauhaa tomaattikastiketta runsaasti kaiken päälle. Kruunaa valtavalla kasalla rapeita paistettuja sipuleita. Tarjoa ylimääräinen tomaattikastike ja pieni kulhollinen valkoviinietikkaa erikseen, jotta kukin voi säätää annostaan. Syö heti – rapeat sipulit pehmenevät nopeasti kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kuku-sabzi",
+    "title": "Kuku sabzi (persialainen yrttimunakas)",
+    "description": "Nowruz-uudenvuoden persialainen yrttifrittata – enemmän yrttiä kuin munaa, niin täynnä tilliä, persiljaa, korianteria ja sarviapilaa, että viipaleet ovat tummanvihreitä. Saksanpähkinät ja kirpeät kuivatut happomarjat koristavat jokaista palaa kuin granaatit jadessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["persialainen", "kasvis", "kananmuna", "yrtit"],
+    "ingredients": [
+      "6 isoa munaa (n. 300 g)",
+      "80 g tuoretta lehtipersiljaa, hienonnettuna",
+      "80 g tuoretta tilliä, hienonnettuna",
+      "60 g tuoretta korianteria, hienonnettuna",
+      "30 g tuoreita tai kuivattuja sarviapilan lehtiä (methi), hienonnettuna",
+      "60 g saksanpähkinänpuolikkaita, karkeasti murrettuina",
+      "30 g kuivattuja happomarjoja (zereshk)",
+      "60 g kevätsipulia, ohuina renkaina",
+      "1 tl hienoa suolaa",
+      "½ tl mustapippuria",
+      "1 tl kurkumaa, jauhettuna",
+      "¾ tl leivinjauhetta",
+      "3 rkl neutraalia öljyä tai kirkastettua voita (gheetä)"
+    ],
+    "instructions": [
+      "Riko munat isoon kulhoon. Lisää suola, pippuri, kurkuma ja leivinjauhe. Vispaa voimakkaasti 2 minuuttia, kunnes seos on vaaleankeltaista, hieman ilmavaa ja keltuaiset ja valkuaiset ovat täysin sekoittuneet. Leivinjauhe tekee kukusta hieman kevyemmän, kohokasmaisemman.",
+      "Lisää kaikki hienonnetut yrtit, kevätsipuli, murretut saksanpähkinät ja happomarjat munaseokseen. Kääntele isolla lusikalla, kunnes yrtit ovat jakautuneet tasaisesti ja muna peittää jokaisen yrtinpalan. Seos näyttää lähes kokonaan vihreältä, ja keltaista munaa näkyy vain vähän.",
+      "Kuumenna öljy tai ghee 24–26 cm:n tarttumattomassa tai hyvin käsitellyssä valurautapannussa keskilämmöllä. Kun öljy väreilee ja vesipisara sihahtaa siinä heti, pannu on valmis. Pyöräytä pannua, jotta myös reunat saavat rasvaa.",
+      "Kaada yrttitaikina kuumalle pannulle ja painele se lusikan selällä tasaiseksi kerrokseksi. Peitä kannella ja paista keskimatalalla lämmöllä 10–12 minuuttia, kunnes pinta on hyytynyt mutta keskeltä vielä hieman kiiltävä ja pohja syvän kullanruskea. Liu'uta kuku isolle tasaiselle lautaselle, käännä pannu lautasen päälle ja käännä kuku takaisin pannulle raaka puoli alaspäin. Paista ilman kantta vielä 5–7 minuuttia. Vaihtoehtoisesti viimeistele uunin grillivastuksen alla keskiteholla 4–5 minuuttia."
+    ]
+  },
+  {
+    "id": "forkrecipe-kulfi",
+    "title": "Kulfi (intialainen maitojäätelö)",
+    "description": "Intian niemimaan ikivanha jäädytetty jälkiruoka: täysmaitoa keitetään hitaasti kokoon paksuksi, fudgemaiseksi massaksi, makeutetaan kondensoidulla maidolla, maustetaan kardemummalla, sahramilla ja murskatuilla pistaaseilla ja jäädytetään kartiomaisissa muoteissa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 480,
+    "category": "Jälkiruoat",
+    "tags": ["intialainen", "kasvis", "jäätelö", "juhla"],
+    "ingredients": [
+      "1 l täysmaitoa",
+      "2 dl makeutettua kondensoitua maitoa",
+      "60 g hienoa sokeria",
+      "8 viherkardemummaa (siemenet jauhettuina)",
+      "1 ripaus sahramilankoja (n. 0,5 g)",
+      "1 dl kuohukermaa",
+      "40 g suolattomia pistaasipähkinöitä, hienoksi hakattuina"
+    ],
+    "instructions": [
+      "Lämmitä 3 rkl maidosta juuri kiehumispisteen alapuolelle. Murenna sahramilangat lämpimään maitoon ja anna hautua 20 minuuttia – neste muuttuu syvän kuparinkultaiseksi. Pane syrjään.",
+      "Kuumenna loput maidosta keskikorkealla lämmöllä leveässä, paksupohjaisessa kattilassa. Sekoita usein silikonilastalla ja kaavi reunoja ja pohjaa, jotta maito ei pala pohjaan. Laske lämpöä maidon vähentyessä. Lisää sokeri ja jauhettu kardemumma, kun maito on vähentynyt puoleen. Jatka keittämistä jatkuvasti sekoittaen, kunnes seos on vähentynyt noin kolmannekseen alkuperäisestä määrästä – noin 30–35 minuuttia. Seoksen tulee peittää lusikan selkä paksulti.",
+      "Nosta kokoon keitetty maito liedeltä. Sekoita joukkoon sahramimaito, kondensoitu maito, kerma ja pistaasit (jätä muutama ripaus koristeeksi). Sekoita hyvin, kunnes väri on täysin tasainen – lämpimän kultainen, pistaasihippujen täplittämä. Maista makeus ja säädä tarvittaessa.",
+      "Kaada seos kulfimuotteihin, pieniin metallikuppeihin tai jääpalamuottiin. Peitä tiiviisti foliolla ja työnnä puutikku folion läpi ennen kuin seos jähmettyy. Pakasta vähintään 6 tuntia, mieluiten yön yli. Irrota kulfi pitämällä muotin ulkopintaa lämpimän veden alla 10 sekuntia ja kumoamalla se lautaselle. Koristele pistaaseilla."
+    ]
+  },
+  {
+    "id": "forkrecipe-kung-pao-chicken",
+    "title": "Kung pao -kana (gong bao ji ding)",
+    "description": "Maissitärkkelyksellä samettisiksi käsiteltyjä broilerin reisikuutioita tulikuumassa wokissa kuivattujen sichuanilaisten chilien ja paahdettujen maapähkinöiden kanssa. Kastike tasapainottaa sichuanilaisen keittiön neljä elementtiä – puuduttavan, tulisen, happaman ja makean – yhteen syömäpuikkoannokseen. Chilit lisätään kokonaisina ja pysyvät kokonaisina: niiden tehtävä on maustaa öljy, ei hajota ruokaan.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["kana", "kiinalainen", "tulinen", "wok"],
+    "ingredients": [
+      "400 g nahattomia broilerin reisifileitä, 2 cm:n kuutioina",
+      "Marinadi:",
+      "2 rkl (15 g) maissitärkkelystä",
+      "1 rkl vaaleaa soijakastiketta",
+      "2 tl shaoxing-riisiviiniä",
+      "Kastike:",
+      "1½ rkl vaaleaa soijakastiketta",
+      "1 rkl Chinkiang-mustaetikkaa",
+      "1 rkl (12 g) sokeria",
+      "1 rkl (8 g) maissitärkkelystä",
+      "2 rkl kylmää vettä",
+      "Wokkiin:",
+      "3 rkl neutraalia öljyä",
+      "15 g kuivattuja sichuanilaisia punaisia chilejä (kokonaisina, varret paikallaan)",
+      "2 tl (5 g) sichuaninpippuria",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "10 g tuoretta inkivääriä, hienonnettuna",
+      "30 g kevätsipulia, 2 cm:n paloina",
+      "60 g paahdettuja suolattomia maapähkinöitä"
+    ],
+    "instructions": [
+      "Leikkaa broilerin reisifileet 2 cm:n kuutioiksi tasakokoisiksi, jotta ne kypsyvät wokissa tasaisesti. Sekoita kulhossa marinadin maissitärkkelyksen, soijakastikkeen ja shaoxing-viinin kanssa. Kääntele huolellisesti, kunnes jokainen pala on paksun, hieman tahmean marinadin peitossa. Tämä on niin sanottu samettitekniikka (velveting): maissitärkkelys muodostaa suojakerroksen, joka estää kanaa ylikypsymästä ja kuivumasta kovalla lämmöllä wokatessa, ja luo hyvin ohuen, sileän pinnan, johon kastike tarttuu. Anna levätä huoneenlämmössä vähintään 20 minuuttia, jolloin soija ja viini alkavat imeytyä lihan pintaan ja tärkkelys turpoaa täysin. Älä laita lyhyttä marinadia jääkaappiin – kylmä kana laskee wokin lämpötilaa rajusti, jolloin liha höyryyntyy eikä ruskistu. Sekoita marinoitumisen aikana kastike pienessä kulhossa: soijakastike, mustaetikka ja sokeri, kunnes sokeri liukenee. Sekoita erikseen maissitärkkelys ja kylmä vesi suuruukseksi. Kastikkeen tulee maistua räväkän happamalta, makealta ja suolaiselta, sillä wokin kuumuus ja kanan nesteet laimentavat sitä.",
+      "Kuumenna öljy wokissa keskikorkealla lämmöllä, kunnes se alkaa väreillä ja pinnalta nousee heikkoja lämpöväreitä – noin 175 °C. Lisää kokonaiset kuivatut chilit ja sichuaninpippurit yhdessä. Ne alkavat heti rätistä ja sihistä. Sekoita jatkuvasti ja reippaasti wokkilastalla 20–30 sekuntia. Tämä on aromien vapautusvaihe: kuiva kuumuus uuttaa chileistä rasvaliukoisen kapsaisiinin ja pippureista puuduttavan hydroksi-alfa-sanshoolin öljyyn, jolloin koko paistorasva saa mala-maun (puuduttava ja tulinen). Chilien tulee tummua kirkkaanpunaisesta syvän tiilenpunaiseksi – ei mustaksi. Pippurit tummuvat ja tuoksuvat voimakkaammin. Keittiö täyttyy heti terävästä, kurkkua kutittavasta, kukkaisesta chilihöyrystä. Se on normaalia ja toivottavaa: öljy imee makua.",
+      "Toimi nopeasti – kung pao on pikaruoka, jossa jokainen sekunti ratkaisee. Lisää chiliöljyyn valkosipuli, inkivääri ja kevätsipulin palat ja wokkaa 15 sekuntia, kunnes ne tuoksuvat. Nosta lämpö maksimiin. Lisää marinoitu kana yhtenä kerroksena ja anna ruskistua koskematta 60 sekuntia – kova lämpö tarvitaan, jotta tärkkelyspinnalle muodostuu ohut kuori. Wokkaa sitten reippaasti ja jatkuvasti käännellen vielä 2–3 minuuttia, kunnes kana on juuri kypsää. Tarkista leikkaamalla yksi kuutio: keskustan tulee olla valkoinen, ei vaaleanpunainen. Kaada valmiiksi sekoitettu kastike wokin reunoille, joissa se osuu kuumimpiin pintoihin ja karamellisoituu hieman valuessaan ruokaan. Sekoita kaikkea 30 sekuntia. Kaada tärkkelyssuuruste ohuena nauhana reunoille koko ajan käännellen, kunnes kastike sakenee ja tarttuu kanaan. Nosta liedeltä. Lisää paahdetut maapähkinät ja kääntele kerran – ne lisätään viimeisenä, jotta ne pysyvät rapeina. Tarjoa heti höyrytetyn valkoisen riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-kvass",
+    "title": "Kalja (venäläinen kvass)",
+    "description": "Venäjän ikivanha fermentoitu ruisleipäjuoma: tumma leipä paahdetaan lähes hiileksi, haudutetaan kiehuvassa vedessä, makeutetaan ja käytetään hiivalla 48 tuntia, kunnes siitä tulee kevyesti poreileva, meripihkainen juoma, joka maistuu happamalta leivältä, tummalta maltaalta ja maalta itseltään – alkoholia siinä on tuskin nimeksi, luonnetta sitäkin enemmän.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "category": "Juomat",
+    "tags": ["venäläinen", "fermentoitu", "ruis", "vegaaninen"],
+    "ingredients": [
+      "250 g tummaa ruisleipää (kuivahtanutta tai hapanjuurileipää)",
+      "2 l suodatettua vettä, kiehuvana",
+      "125 g ruokosokeria (tai tummaa hunajaa)",
+      "1 ps (11 g) kuivahiivaa",
+      "25 g rusinoita tai muutama oksa tuoretta minttua (valinnainen)",
+      "1 sitruunaviipale (valinnainen)",
+      "Pullotukseen:",
+      "1 tl sokeria"
+    ],
+    "instructions": [
+      "Viipaloi tai revi ruisleipä 1–2 cm:n kuutioiksi tai paksuiksi viipaleiksi ja levitä uunipellille. Paahda 200 asteessa 20–30 minuuttia puolivälissä kääntäen, kunnes leipä on tasaisen hyvin tummaa – lähes mutta ei aivan mustaa. Perinteiseen kvassiin leipä paahdetaan niin tummaksi, että moni pitäisi sitä palaneena. Juuri tumma paahto antaa juomalle sen syvän, hieman kitkerän, mallasmaisen paahteisen maun: leivän kuoren Maillard-yhdisteet ja karamellisoituneet tärkkelykset ovat maun selkäranka. Älä käytä vaaleaa tai paahtamatonta leipää – maku jää lattean vetiseksi.",
+      "Laita paahdetut leipäkuutiot isoon kuumuutta kestävään astiaan (lasi, keramiikka tai ruostumaton teräs – ei pinnoittamaton alumiini tai muu reagoiva metalli). Kaada kiehuva vesi päälle. Vesi muuttuu heti syvän mahonginruskeaksi, kun paahtuneet sokerit ja väriaineet liukenevat. Sekoita lyhyesti, peitä ja anna hautua huoneenlämmössä 2–3 tuntia, kunnes neste on täysin jäähtynyt. Syntyvä neste on vierrettä – panijoiden perinteinen nimitys sokeri- ja makurikkaalle nesteelle, joka käytetään. Sen tulee olla hyvin tummanruskeaa, maistua paahdetulta rukiilta ja kitkerältä ja tuoksua miellyttävän maltaiselta.",
+      "Siivilöi vierre tiheän siivilän läpi ja painele leipämassaa, jotta kaikki neste irtoaa. Hävitä käytetty leipä. Kun vierre on vielä lämmintä (mutta alle 38-asteista – kokeile ranteella), liuota sokeri siihen kokonaan ja ripottele hiiva pinnalle. Sekoita varovasti ja lisää halutessasi rusinat tai minttu ja sitruunaviipale. Peitä liinalla ja anna seistä huoneenlämmössä (21–24 °C) 24–48 tuntia. 8–12 tunnin kuluessa pinnalla alkaa näkyä kuplia ja vaahtoa, kun hiiva muuttaa leivän sokereita alkoholiksi ja hiilidioksidiksi. Maista 24 tunnin kohdalla: makea ja hennon hapan; 48 tunnin kohdalla: happamampi ja monivivahteisempi. Hiivasakka laskeutuu pohjalle.",
+      "Siivilöi kvass tiheän kankaan läpi hiivasakan ja mausteiden poistamiseksi. Siirrä puhtaisiin suljettaviin pulloihin tai kannelliseen kannuun. Kevyttä hiilihappoisuutta varten lisää ½ tl sokeria litraa kohden ennen sulkemista ja anna seistä huoneenlämmössä vielä 6–12 tuntia ennen jääkaappiin siirtämistä. Kvass on heti juomavalmista ja säilyy jääkaapissa 3–5 päivää, minkä jälkeen se happanee edelleen ja muuttuu lopulta epämiellyttäväksi. Tarjoa kylmänä sellaisenaan tai jäiden kanssa. Venäjällä sitä käytetään myös okroshkan (kylmän keiton) pohjana ja lihan marinadina."
+    ],
+    "notes": ["Juoman alkoholipitoisuus jää hyvin pieneksi (yleensä alle 1,5 %)."]
+  },
+  {
+    "id": "forkrecipe-labneh",
+    "title": "Labneh (48 tuntia valutettu jogurttijuusto)",
+    "description": "Täysmaitojogurttia ripustetaan harsokankaassa kaksi päivää, ja painovoima ja aika tekevät ainoan todellisen työn: hera valuu pois, maitohappobakteerit tiivistyvät, ja jäljelle jää kirpeä, kermainen, levitettävä juusto, jossa on tuorejuuston rakenne ja aivan oma makunsa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 2880,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["lähi-itä", "kasvis", "meze", "jogurtti"],
+    "ingredients": [
+      "1 kg täysrasvaista maustamatonta jogurttia (ilman liivatetta tai sakeuttamisaineita)",
+      "1 tl hienoa merisuolaa",
+      "Tarjoiluun:",
+      "3 rkl ekstra-neitsytoliiviöljyä",
+      "1 rkl tuoretta minttua tai kuivattua timjamia",
+      "½ tl sormisuolaa"
+    ],
+    "instructions": [
+      "Tarkista jogurtin ainesosaluettelo: siinä saa olla vain maitoa ja eläviä maitohappobakteereja – ei liivatetta, pektiiniä, tärkkelystä tai aromeja. Sakeuttamisaineet sitovat jogurtin veden ja estävät sitä valumasta, jolloin 48 tunnin vaivan jälkeen tuloksena on kumimainen, märkä massa. Sekoita suola huolellisesti jogurttiin isossa kulhossa. Suolalla on kaksi tehtävää: se maustaa labnehin ja vetää vettä osmoosin avulla ulos, mikä nopeuttaa valumista. Sekoita kokonainen minuutti, kunnes suola on täysin liuennut – sormien välissä hierottaessa rakeita ei saa tuntua. Seos löystyy heti hieman, kun suola alkaa vetää vettä.",
+      "Vuoraa tiheä siivilä tai lävikkö kaksinkertaisella kostutetulla harsokankaalla (tai puhtaalla, ohuella pellavaliinalla). Aseta se syvän kulhon päälle, johon mahtuu vähintään 4 dl nestettä – kulhon pohja ei saa koskettaa siivilää, jotta hera pääsee valumaan vapaasti. Kaada suolattu jogurtti kankaan keskelle. Kokoa kankaan neljä kulmaa yhteen ja sido ne keittiönarulla. Nyytin voi ripustaa kulhon yläpuolelle sitomalla narun kulhon reunojen päälle asetettuun puulusikkaan, tai siivilän ja kulhon voi yksinkertaisesti nostaa jääkaappiin ilman kantta. Jääkaapissa valuttaminen on elintarviketurvallisuuden kannalta turvallisempaa ja tahti hallitumpi: 24 tuntia antaa pehmeän, levitettävän labnehin, 36 tuntia paksumman, palloiksi muotoiltavan, ja 48 tuntia niin kiinteän, että sen voi pyöritellä palloiksi ja säilöä öljyyn.",
+      "Kääri labneh varovasti auki kankaasta ja nosta se leveälle, matalalle lautaselle. Levitä se lusikan selällä pyyhkäisevin liikkein pyöreäksi keoksi, jonka reunalla on paksu harjanne ja keskellä pieni painauma – tämä perinteinen esillepano pitää oliiviöljyn lammikkona. Valuta oliiviöljyä runsaasti keskikuoppaan ja pinnalle. Ripottele päälle hienonnetut yrtit ja sormisuola. Tarjoa huoneenlämpöisenä lämpimän rieskaleivän, raakojen kasvisten, oliivien ja muiden mezelajien kanssa. Maustamattomana labneh säilyy jääkaapissa 2 viikkoa; palloiksi pyöriteltynä ja yrttien kera oliiviöljyyn upotettuna jopa kuukauden."
+    ]
+  },
+  {
+    "id": "forkrecipe-lacto-fermented-carrots",
+    "title": "Maitohappokäytetyt porkkanat",
+    "description": "Porttifermentti: kokonaisia porkkanoita tai porkkanatikkuja tarkassa 2-prosenttisessa suolaliemessä valkosipulin ja tillin kanssa, maitohappobakteerien armoilla. Viikossa liemi happanee ja samenee, ja porkkanat muuttuvat raa'an terävistä miellyttävän kirpeiksi, yhä rapeiksi ja probioottisiksi. Tarpeeksi helppo ensimmäiseksi fermentiksi, tarpeeksi palkitseva sadanneksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "category": "Säilykkeet",
+    "tags": ["fermentoitu", "vegaaninen", "kasvis", "säilöntä"],
+    "ingredients": [
+      "500 g porkkanoita, harjattuina (mieluiten kuorimattomina)",
+      "10 g jodittomaa merisuolaa tai karkeaa suolaa (2 % veden painosta)",
+      "5 dl (500 g) suodatettua tai kloorittomaa vettä",
+      "4 valkosipulinkynttä (n. 15 g), kuorittuina ja kevyesti murskattuina",
+      "20 g tuoreita tillinoksia",
+      "1 tl (3 g) mustapippuria, kokonaisina"
+    ],
+    "instructions": [
+      "Punnitse suodatettu vesi – tarkkuus on tässä tärkeää. Laske 2 % veden painosta jodittomana suolana: 500 g:aan vettä tarvitaan 10 g suolaa. Yhdistä suola ja vesi purkissa tai mitta-astiassa ja sekoita voimakkaasti vähintään 30 sekuntia, kunnes suola on täysin liuennut. Suolaliemen voi tehdä huoneenlämpöisenä – kuumennusta ei tarvita. Älä koskaan käytä jodioitua ruokasuolaa, sillä jodi estää mikrobien kasvua ja hidastaa tai pysäyttää käymisen. Maista valmista lientä: sen tulee maistua miellyttävän suolaiselta, kuin miedolta merivedeltä.",
+      "Harjaa porkkanat kylmän veden alla, mutta älä kuori niitä – kuori ja sen pinnan karvat kantavat luonnonvaraisia maitohappobakteereja, jotka käynnistävät käymisen. Leikkaa päät pois. Halkaise porkkanat pituussuunnassa tikuiksi tai jätä hoikat kokonaisiksi. Tavoitteena on saada ne mahtumaan tiiviisti pystyyn leveäsuiseen lasipurkkiin niin tiukasti, että ne pysyvät liemen alla. Laita ensin purkin pohjalle tilliä ja pippureita ja kiilaa valkosipulinkynnet porkkanatikkujen väliin. Pakkaa porkkanat mahdollisimman tiiviisti – puristus vähentää kellumista. Kaada suolaliemi päälle niin, että kaikki on kokonaan liemen peitossa. Jätä 3–4 cm tyhjää tilaa ja paina pinnalle poikittain pieni taiteltu porkkanapala painoksi.",
+      "Pidä purkkia huoneenlämmössä, 18–22 °C, suoralta auringonvalolta suojassa 5–7 päivää. Peitä löyhästi – liinalla, raolleen jätetyllä kannella tai käymislukolla – jotta hiilidioksidi pääsee ulos mutta banaanikärpäset eivät sisään. Paina porkkanat kerran päivässä puhtaalla haarukalla tai lusikalla takaisin liemen alle; kaasu nostaa niitä ajan myötä. Maista päivittäin 3. päivästä alkaen: liemi happanee vähitellen maitohapon kertyessä, ja porkkanat imevät happamuutta. Valkoinen samea liemi ja pienet kuplat ovat terveen käymisen merkkejä. Pinnalle muodostuva kahm-hiiva (litteä, valkoinen kalvo) on vaaratonta – kuori se pois. Jos pinnalla on nukkaista, koholla olevaa tai värillistä hometta, hävitä koko erä.",
+      "Kun porkkanat ovat mieleisesi happamia – tyypillisesti miellyttävän kirpeitä mutta yhä selvästi porkkanoita – sulje purkki tiiviisti ja siirrä jääkaappiin. Kylmä hidastaa käymistä huomattavasti, muttei pysäytä sitä kokonaan: porkkanat happanevat hitaasti viikkojen ajan ja muuttuvat monivivahteisemmiksi ja voimakkaammiksi. Ne ovat syötäviä heti jääkaappiin siirrettäessä, mutta usein parhaimmillaan 2–4 viikon kohdalla, kun maut ovat sekoittuneet ja liemi on imeytynyt porkkanoihin kokonaan. Jääkaapissa ne säilyvät enintään 3 kuukautta."
+    ]
+  },
+  {
+    "id": "forkrecipe-lacto-fermented-garlic",
+    "title": "Maitohappokäytetty valkosipuli",
+    "description": "Kokonaiset valkosipulinkynnet muuttuvat viikkojen suolaliemikäymisessä mietoiksi, hennon kirpeiksi ja syvän monivivahteisiksi – raakana miedompia, kypsennettynä kerroksellisempia.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "category": "Säilykkeet",
+    "tags": ["fermentoitu", "vegaaninen", "kasvis", "säilöntä"],
+    "ingredients": [
+      "250 g valkosipulinkynsiä, kuorittuina (n. 4–5 valkosipulia)",
+      "5 dl suodatettua tai kloorittomaa vettä",
+      "10 g jodittomaa suolaa (2 % veden painosta)",
+      "2 kuivattua laakerinlehteä",
+      "1 tl mustapippuria, kokonaisina"
+    ],
+    "instructions": [
+      "Liuota joditon suola suodatettuun veteen huoneenlämmössä sekoittaen, kunnes kiteitä ei enää näy. Tavoitteena on painon mukaan 2-prosenttinen suolaliemi – 20 g suolaa litraan vettä. Käytä aina jodittomaa suolaa: jodi on antimikrobinen aine, jota lisätään ruokasuolaan nimenomaan bakteerien tappamiseksi, myös niiden hyödyllisten maitohappobakteerien, joita olet kasvattamassa.",
+      "Steriloi leveäsuinen 5 dl:n lasipurkki kiehuvalla vedellä ja valuta ylösalaisin. Pakkaa kuoritut valkosipulinkynnet tiiviisti purkkiin ja ripottele laakerinlehdet ja pippurit niiden lomaan. Älä murskaa tai kolhi kynsiä – ehjät kynnet käyvät hitaammin ja tasaisemmin ja kehittävät monivivahteisemman maun. Jätä valkosipulien yläpuolelle 3 cm tyhjää tilaa.",
+      "Kaada suolaliemi pakattujen valkosipulien päälle, kunnes kaikki kynnet ovat kokonaan liemen peitossa ja liemi ulottuu 2 cm:n päähän reunasta. Jos kynnet kelluvat, laita pinnalle pieni käymispaino tai suolaliemellä täytetty minigrip-pussi pitämään ne upoksissa. Kaiken valkosipulin on pysyttävä liemen alla koko käymisen ajan.",
+      "Sulje purkki kannella löyhästi (jotta hiilidioksidi pääsee ulos) tai käytä käymislukkoa. Säilytä huoneenlämmössä (18–22 °C) suoralta auringonvalolta suojassa. Ensimmäisen viikon ajan päästä painetta pois päivittäin avaamalla kansi hetkeksi. 3–5 päivän kohdalla näet kuplia – merkki aktiivisesta maitohappokäymisestä. Maista viikoittain toisesta viikosta alkaen. Anna käydä 2–4 viikkoa, kunnes kirpeys on mieleinen.",
+      "Kun maku on halutun kirpeä, sulje purkki tiiviisti ja siirrä jääkaappiin. Kylmä hidastaa maitohappobakteerien toimintaa huomattavasti ja käytännössä pysäyttää käymisen. Valkosipuli säilyy jääkaapissa jopa 6 kuukautta ja miedontuu ja syvenee hitaasti. Tarjoa kokonaisina, viipaloituina tai soseutettuina. Käymislientä voi käyttää probioottisena maustekastikkeena."
+    ],
+    "notes": ["Suolalientä tulee tällä määrällä hieman enemmän kuin purkkiin mahtuu; ylimäärä sopii painopussin täytteeksi."]
+  },
+  {
+    "id": "forkrecipe-lacto-fermented-hot-sauce",
+    "title": "Maitohappokäytetty chilikastike",
+    "description": "Chilejä ja valkosipulia 2-prosenttisessa suolaliemessä huoneenlämmössä viidestä seitsemään päivää – hiljainen, kupliva muutos, jossa maitohappobakteerit syövät sokereita ja rakentavat monivivahteisen, kirpeän ja syvän makuisen kastikkeen, jota mikään etikkaoikotie ei pysty jäljittelemään.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["fermentoitu", "tulinen", "vegaaninen", "kasvis"],
+    "ingredients": [
+      "500 g tuoreita punaisia chilejä (Fresno, cayenne tai thai), varret poistettuina",
+      "50 g valkosipulinkynsiä, kuorittuina",
+      "Suolaliemi (2 %):",
+      "10 g jodittomaa suolaa (karkeaa tai merisuolaa)",
+      "5 dl suodatettua tai kloorittomaa vettä",
+      "Viimeistelyyn:",
+      "½ dl omenaviinietikkaa (käymisen jälkeen, maun mukaan)"
+    ],
+    "instructions": [
+      "Liuota joditon suola suodatettuun veteen niin, että saat painon mukaan 2-prosenttisen suolaliemen – eli 20 g suolaa litraan vettä. Jodioitua suolaa ei saa käyttää, sillä jodi on antibakteerinen ja estää tai tappaa käymiselle välttämättömät maitohappobakteerit. Hanavesi on suodatettava tai sen on annettava seistä yön yli ilman kantta, jotta kloori haihtuu, sillä sekin estää käymistä. Sekoita, kunnes jokainen suolarae on liuennut – liukenematon suola voi aiheuttaa epätasaisen suolapitoisuuden alueita, joissa haitalliset bakteerit pääsevät lisääntymään.",
+      "Pakkaa varrettomat chilit ja valkosipulinkynnet puhtaaseen lasipurkkiin ja jätä 4–5 cm tyhjää tilaa. Kaada suolaliemi päälle niin, että kaikki on kokonaan peitossa – kaikkien kasvisten on pysyttävä liemen alla koko ajan. Pidä ne upoksissa painolla (suolaliemellä täytetty pieni minigrip-pussi tai puhdas kivi). Peitä purkki kuminauhalla kiinnitetyllä liinalla tai käytä käymislukkokantta. Älä käytä tiivistä kantta – käymisessä syntyvän hiilidioksidin on päästävä ulos.",
+      "Anna käydä huoneenlämmössä (mieluiten 20–22 °C) 5–7 päivää. Tarkista päivittäin: 2.–3. päivänä liemen läpi pitäisi nousta pieniä kuplia – aktiivisten maitohappobakteerien tuottamaa hiilidioksidia. Liemi samenee selvästi bakteerikannan kasvaessa. Paina kasvikset päivittäin liemen alle. Jos pinnalle ilmestyy valkoinen kalvo (kahm-hiiva), kuori se pois – se on vaaraton mutta vaikuttaa makuun. Jos jotain vaaleanpunaista, mustaa tai nukkaista kasvaa, hävitä erä ja aloita alusta. Maista päivittäin 4. päivästä alkaen – fermentti on valmis, kun se on miellyttävän hapan ja monivivahteinen.",
+      "Valuta käyneet kasvikset kulhon päällä ja ota suolaliemi talteen. Siirrä chilit ja valkosipuli tehosekoittimeen. Soseuta täydellä teholla ja lisää talteen otettua lientä vähitellen, kunnes kastike on halutun paksuista – karkeasta kaadettavaan. Lisää omenaviinietikkaa maun mukaan: se raikastaa makua ja pidentää säilyvyyttä. Siivilöi tiheän siivilän läpi sileäksi kastikkeeksi tai jätä siivilöimättä rouheampaa, maalaismaisempaa tulosta varten. Pullota ja säilytä jääkaapissa – kylmä pysäyttää käymisen. Kastike paranee vielä 1–2 viikkoa jääkaapissa makujen sekoittuessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lacto-pickled-jalapeños",
+    "title": "Maitohappokäytetyt jalapeñorenkaat",
+    "description": "Suolaliemi ja aika muuttavat raa'at jalapeñoviipaleet kirpeiksi, maanläheisiksi ja sitkeästi tulisiksi renkaiksi – maitohappo pyöristää tulisuuden reunoja, ja hedelmäliha muuttuu raa'an vihermäisestä syvemmäksi ja käyneeksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 4320,
+    "category": "Säilykkeet",
+    "tags": ["fermentoitu", "tulinen", "vegaaninen", "säilöntä"],
+    "ingredients": [
+      "400 g tuoreita jalapeñoja, 5 mm:n renkaina",
+      "4 dl kloorittomaa vettä (suodatettua tai keitettyä ja jäähdytettyä)",
+      "16 g jodittomaa merisuolaa tai karkeaa suolaa (2 % liemen ja kasvisten yhteispainosta)",
+      "3 valkosipulinkynttä, kevyesti murskattuina",
+      "1 tl mustapippuria, kokonaisina"
+    ],
+    "instructions": [
+      "Liuota suola veteen kokonaan ja sekoita, kunnes kiteitä ei enää näy. Maista: liemen tulee olla selvästi suolaista mutta ei ylivoimaisesti, kuin hyvin maustettu keitto. Älä käytä jodioitua suolaa (se estää käymistä) äläkä kloorattua hanavettä (se tappaa tarvittavat bakteerit).",
+      "Pakkaa jalapeñorenkaat tiiviisti puhtaaseen (ei tarvitse olla steriloitu) leveäsuiseen lasipurkkiin. Ripottele valkosipulinkynnet ja pippurit renkaiden lomaan. Kaada suolaliemi jalapeñojen päälle niin, että ne peittyvät kokonaan, ja jätä 2–3 cm tyhjää tilaa. Paina jalapeñot alas suolaliemellä täytetyllä pienellä minigrip-pussilla, käymispainolla tai purkin kaulan alle kiilatulla taitetulla kaalinlehdellä – yksikään rengas ei saa nousta liemen pinnan yläpuolelle. Peitä löyhästi kannella tai harsokankaalla.",
+      "Anna käydä huoneenlämmössä (18–22 °C) suoralta auringonvalolta suojassa 3–7 päivää. Jos kansi on tiivis, päästä painetta pois kerran päivässä avaamalla se hetkeksi. Tarkista päivittäin, että jalapeñot pysyvät liemen alla. Näet pohjalta nousevia kuplia (hyvä), liemen vähittäisen samenemisen (erittäin hyvä) ja värin muuttumisen kirkkaanvihreästä oliivinvihreäksi (normaalia ja odotettua). Maista 3. päivästä alkaen – tavoitteena on kirpeä, raikas ja tulinen. Siirrä jääkaappiin, kun happamuus on mieleinen."
+    ],
+    "notes": ["Pelkän veden painosta laskettuna 2 % olisi 8 g suolaa; tässä suola on laskettu liemen ja kasvisten yhteispainosta, kuten raaka-aineluettelo ohjeistaa."]
+  },
+  {
+    "id": "forkrecipe-lacto-pickles",
+    "title": "Maitohappokäytetyt tillikurkut",
+    "description": "Kurkut upotetaan kylmään suolaliemeen, ja luonnonvaraiset maitohappobakteerit muuttavat ne viikossa rouskuviksi, valkosipulisiksi ja syvän suolaisenmaukkaiksi suolakurkuiksi, joita mikään etikkasäilyke ei pysty jäljittelemään. Tilli samentaa liemen käymisen syventyessä, ja tuoksu muuttuu kasvimaisesta miellyttävän happamaksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "category": "Säilykkeet",
+    "tags": ["fermentoitu", "vegaaninen", "kasvis", "säilöntä"],
+    "ingredients": [
+      "1 kg pieniä avomaankurkkuja (säilöntäkurkkuja, 8–12 cm)",
+      "1 l kloorittomaa vettä, kylmänä",
+      "20 g jodittomaa suolaa (hienoa tai karkeaa)",
+      "4 tillinkruunua kukintoineen ja lehtineen",
+      "6 valkosipulinkynttä, murskattuina",
+      "1 tl mustapippuria, kokonaisina",
+      "½ tl kuivattuja chilihiutaleita tai 1 kuivattu chili",
+      "2 viinin- tai tammenlehteä (tanniinin lähteeksi)"
+    ],
+    "instructions": [
+      "Pese kurkut huolellisesti ja harjaa pois mahdollinen vaha ja lika. Leikkaa pois kukkapää (varren vastakkainen pää – yleensä kapeampi ja litteämpi) ja 1–2 mm varsipäästä. Kukkapäässä on entsyymejä, jotka pehmentävät kurkkuja – sen poistaminen on välttämätöntä rapeuden kannalta. Jos kurkut eivät ole vastapoimittuja, liota niitä jäävedessä tunti ennen jatkamista, jotta ne rapeutuvat.",
+      "Yhdistä kylmä klooriton vesi ja suola isossa kulhossa tai kannussa. Sekoita voimakkaasti vähintään 1–2 minuuttia, kunnes suola on täysin liuennut. Suolapitoisuus on 2 % painosta (20 g suolaa litraan vettä), mikä suosii maitohappobakteereja ja estää taudinaiheuttajia. Älä käytä jodioitua suolaa – jodi tappaa hyödylliset bakteerit.",
+      "Laita puhtaan lasipurkin tai saviruukun pohjalle puolet tillistä sekä murskattu valkosipuli, pippurit ja chili. Lisää viinin- tai tammenlehdet – niiden tanniinit pitävät kurkut rapeina estämällä käymisen aikana vapautuvia pektiiniä hajottavia entsyymejä. Pakkaa kurkut pystyyn mahdollisimman tiiviisti kolhimatta niitä – mitä tiiviimmin ne ovat, sitä paremmin ne pysyvät liemen alla. Peitä lopulla tillillä.",
+      "Kaada kylmä suolaliemi kurkkujen päälle ja jätä 2–3 cm tyhjää tilaa. Kaikkien kurkkujen on pysyttävä kokonaan upoksissa – paina ne alas suolaliemellä täytetyllä pienellä minigrip-pussilla, käymispainolla tai pienemmällä vedellä täytetyllä purkilla. Peitä liinalla tai löysällä kannella (EI ilmatiiviisti). Anna käydä huoneenlämmössä, 18–22 °C, 5–7 päivää. Maista 3. päivästä alkaen. Päästä kaasut pois ja paina kurkut takaisin liemen alle päivittäin.",
+      "Kun suolakurkut ovat mieleisesi happamia (huoneenlämmössä tyypillisesti 5.–7. päivänä), siirrä purkki jääkaappiin. Kylmä hidastaa käymistä huomattavasti – kurkut happanevat edelleen hyvin hitaasti, mutta säilyvät hyvinä 2–3 kuukautta. Samea liemi on täynnä probiootteja ja itsessään maustekastike; juo se tai käytä sitä seuraavan erän käynnistämiseen."
+    ],
+    "notes": ["Kilo kurkkuja ja litra lientä vaativat noin 2 litran astian.", "Viinin- tai tammenlehtien sijaan voi käyttää mustaherukan- tai kirsikanlehtiä."]
+  }
+]

@@ -1,0 +1,815 @@
+[
+  {
+    "id": "wikibooks-fudge-frosting",
+    "title": "Fudge-kuorrute",
+    "description": "Täyteläinen, ei-rasvainen kuorrute, joka levitetään kuumana ja jäykistyy jäähtyessään.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Jälkiruoat",
+    "tags": ["kuorrute", "suklaa", "leivonta"],
+    "ingredients": [
+      "625 g tomusokeria",
+      "85 g sokeroimatonta leivontasuklaata",
+      "2 rkl margariinia",
+      "1 tl vaniljauutetta",
+      "1 tl siirappia"
+    ],
+    "instructions": [
+      "Sulata suklaa ja margariini yhdessä vesihauteessa tai varovasti kattilassa miedolla lämmöllä.",
+      "Sekoita joukkoon vaniljauute ja siirappi, pitäen seosta edelleen melko kuumana.",
+      "Sekoita joukkoon sokeri, edelleen melko kuumana. Et välttämättä tarvitse koko mainittua määrää – lisää sokeria, kunnes kuorrute on halutun paksuista.",
+      "Levitä seos vielä kuumana kakun tai brownieiden päälle. Seos jäykistyy jäähtyessään."
+    ],
+    "notes": ["Jos seos ei levity edes kuumana, voit lisätä hyvin pienen määrän maitoa. Älä lisää enempää kuin todella tarvitset."]
+  },
+  {
+    "id": "wikibooks-fuk-thong-pad-khai-thai-stir-fried-pumpkin",
+    "title": "Fuk-thong pad khai (thaimaalainen paistettu kurpitsa munalla)",
+    "description": "Maukas ja yksinkertainen thaimaalainen kurpitsaruoka munalla, tarjoillaan lämpimän riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kurpitsa", "thaimaalainen", "kananmuna", "nopea"],
+    "ingredients": [
+      "400 g kabocha-kurpitsaa",
+      "2 rkl rypsiöljyä",
+      "1–2 valkosipulinkynttä, hienonnettuna",
+      "150 g possun tai kanan jauhelihaa",
+      "2 munaa",
+      "½ tl kalakastiketta",
+      "¼ tl sokeria",
+      "ripaus mustapippuria",
+      "1–2 rkl hienonnettua kevätsipulia",
+      "1 rkl osterikastiketta"
+    ],
+    "instructions": [
+      "Poista kurpitsasta siemenet ja kuori se. Leikkaa kurpitsa noin 2,5 cm:n kuutioiksi ja pese hyvin.",
+      "Laita kurpitsa kattilaan ja peitä vedellä. Kuumenna kiehuvaksi ja keitä, kunnes pehmeää. Valuta vesi pois, kun se on pehmeää.",
+      "Kuumenna öljy pannulla ja paista valkosipuli, kunnes se on kevyesti ruskistunut ja tuoksuu hyvältä.",
+      "Lisää jauheliha pannulle ja anna kypsyä lähes kypsäksi.",
+      "Lisää keitetty kurpitsa jauhelihan joukkoon.",
+      "Riko munat pannulle.",
+      "Kun munat ovat kypsyneet, sekoita ne kurpitsan ja jauhelihan kanssa.",
+      "Sekoita joukkoon kalakastike, sokeri, pippuri, kevätsipuli ja osterikastike.",
+      "Tarjoa lämpimän riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-ful-medames-egyptian-fava-beans",
+    "title": "Ful medames (egyptiläiset härkäpavut)",
+    "description": "Klassinen egyptiläinen aamiais- tai katuruoka keitetyistä härkäpavuista, maustettuna sitruunalla, valkosipulilla ja juustokuminalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "egyptiläinen", "papu"],
+    "ingredients": [
+      "5 dl kuivattuja härkäpapuja",
+      "1 l vettä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "½ dl oliiviöljyä",
+      "1 sitruunan mehu",
+      "1 tl jauhettua juustokuminaa",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta persiljaa tai korianteria, hienonnettuna, koristeluun",
+      "pitaleipää tarjoiluun"
+    ],
+    "instructions": [
+      "Huuhtele kuivatut härkäpavut kylmässä vedessä ja poista mahdolliset epäpuhtaudet. Laita pavut kattilaan ja peitä vedellä.",
+      "Kuumenna vesi kiehuvaksi keski-kovalla lämmöllä, laske sitten lämpöä ja anna papujen hautua noin 1–1,5 tuntia, kunnes ne ovat pehmeitä. Tarkista pavut väliajoin ja lisää vettä tarvittaessa.",
+      "Kun pavut ovat pehmeitä, valuta ne ja laita takaisin kattilaan.",
+      "Lisää hienonnettu valkosipuli, oliiviöljy, sitruunamehu, juustokumina, suola ja mustapippuri kattilaan papujen kanssa. Sekoita hyvin ja anna maustua miedolla lämmöllä muutama minuutti.",
+      "Nosta liedeltä ja siirrä tarjoiluastiaan.",
+      "Koristele tuoreella hienonnetulla persiljalla tai korianterilla.",
+      "Tarjoa lämpimänä tuoreen pitaleivän tai muun leivän kanssa."
+    ],
+    "notes": ["Ful medamesia voi muunnella eri lisukkeilla, kuten oliiviöljyllä, kuutioiduilla tomaateilla, sipulilla, etikkavihanneksilla, keitetyillä munilla tai jauhetulla chilijauheella."]
+  },
+  {
+    "id": "wikibooks-fumbua-wild-spinach-stew",
+    "title": "Fumbua (villipinaattipata)",
+    "description": "Kongon demokraattisesta tasavallasta ja Angolasta tunnettu runsas ja ravitseva pata, jossa yhdistyvät savustettu kala ja maapähkinävoi.",
+    "servings": 8,
+    "category": "Keitot",
+    "tags": ["kala", "pata", "afrikkalainen"],
+    "ingredients": [
+      "3 kpl savustettua monnia",
+      "pinaattia",
+      "2½ dl vettä",
+      "2½ dl lihalientä",
+      "tomaatteja, pilkottuna",
+      "habanero-chiliä (valinnainen), hienonnettuna",
+      "½ sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "liemijauhetta",
+      "suolaa",
+      "mustapippuria",
+      "maapähkinävoita",
+      "palmuöljyä"
+    ],
+    "instructions": [
+      "Liota savustettua kalaa kuumassa vedessä muutama minuutti.",
+      "Pilko pinaatti, huuhtele ja valuta se siivilässä ylimääräisen veden poistamiseksi.",
+      "Ruodota savustettu kala ja riko se keskikokoisiksi paloiksi. Huuhtele kala hyvin.",
+      "Kuumenna vesi ja liemi kattilassa kiehuvaksi. Lisää pilkottu pinaatti ja hauduta 10 minuuttia.",
+      "Lisää kala, tomaatit, chili, sipuli, valkosipuli, liemijauhe, suola ja mustapippuri. Kuumenna kiehuvaksi ja hauduta noin 10 minuuttia.",
+      "Lisää maapähkinävoi ja palmuöljy, ja hauduta vielä 10 minuuttia."
+    ],
+    "notes": [
+      "Jos perinteisiä fumbwa-lehtiä ei löydy, pinaatti, lehtikaali tai collard-kaali toimivat hyvänä korvikkeena.",
+      "Säädä tulisuutta jättämällä habanero pois tai lisäämällä cayennepippuria.",
+      "Maista ruokaa ennen lisäsuolan lisäämistä, sillä liemi tuo jo omaa suolaisuutta.",
+      "Maapähkinävoin voi korvata myös kupillisella jauhettuja paahdettuja maapähkinöitä."
+    ]
+  },
+  {
+    "id": "wikibooks-funje-cassava-flour-pudding",
+    "title": "Funje (maniokkijauhovanukas)",
+    "description": "Angolalainen perinneruoka maniokkijauhosta, tarjoillaan yleensä keiton lisukkeena.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "angolalainen", "lisuke"],
+    "ingredients": [
+      "¾ l vettä",
+      "3,75 dl maniokkijauhoa (kassavajauhoa)"
+    ],
+    "instructions": [
+      "Lämmitä uuni 175 asteeseen (uunimenetelmä).",
+      "Kaada vesi keskikokoiseen pataan ja anna kiehua.",
+      "Laita maniokkijauho keskikokoiseen kulhoon ja sekoita joukkoon hieman kylmää vettä, kunnes se on juuri ja juuri kostea. Sekoita hyvin, jotta seos on tasainen.",
+      "Kun vesi kiehuu, sekoita joukkoon kostutettu maniokkijauho.",
+      "Vatkaa, kunnes seos on täysin paakkutonta.",
+      "Peitä kannella ja laita uuniin kypsymään noin 30 minuutiksi.",
+      "Vatkaa vielä halutessasi, poista sitten ja tarjoa minkä tahansa keiton kanssa.",
+      "Vaihtoehtoinen perinteinen menetelmä: kuumenna vesi padassa kiehuvaksi.",
+      "Kun vesi kiehuu, nosta pata liedeltä ja aseta se tukevalle alustalle.",
+      "Kaada maniokkijauho veteen ja ala vatkaa heti mahdollisimman nopeasti puulusikalla.",
+      "Jatka sekoittamista, kunnes seos on täysin sileää.",
+      "Kun olet tyytyväinen koostumukseen, peitä kannella ja jätä hyvin matalalle lämmölle noin 3 minuutiksi.",
+      "Nauti minkä tahansa keiton kanssa."
+    ],
+    "notes": ["Tämän ruoan valmistus ei vie paljon aikaa, mutta siitä voi tulla paakkuista, jos ei ole tarkkana. Sekoita huolellisesti heti, kun aloitat maniokkijauhon kaatamisen kiehuvaan veteen."]
+  },
+  {
+    "id": "wikibooks-funkaso-hausa-fritter",
+    "title": "Funkaso (hausalainen munkki)",
+    "description": "Suosittu hausalaisten paistettu leipänen, jota voi syödä sellaisenaan tai aterian lisukkeena.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "vegaaninen", "afrikkalainen", "friteerattu"],
+    "ingredients": [
+      "täysjyvävehnäjauhoja",
+      "vehnäjauhoja",
+      "pikahiivaa",
+      "suolaa",
+      "haaleaa vettä",
+      "rypsiöljyä uppopaistamiseen"
+    ],
+    "instructions": [
+      "Yhdistä jauhot, hiiva ja suola kulhossa.",
+      "Sekoita joukkoon vähitellen haaleaa vettä, kunnes taikina muodostuu.",
+      "Peitä seos tiiviisti. Anna kohota lämpimässä paikassa noin 1 tunti, kunnes tilavuus on kaksinkertaistunut.",
+      "Painele taikina kevyesti kasaan.",
+      "Kuumenna öljy syvässä padassa tai friteerauskeittimessä noin 175–190 asteeseen. Testaa pienellä taikinapalalla – sen tulisi kellua ja kuplia, muttei savuta tai palaa.",
+      "Repäise käsin paloja taikinasta. Litistä taikina kämmenellä ja tee keskelle reikä.",
+      "Paista muotoiltu taikina kuumassa öljyssä kullanruskeaksi joka puolelta.",
+      "Nosta valmis funkaso reikäkauhalla ja valuta ylimääräinen öljy.",
+      "Tarjoa sellaisenaan tai aterian lisukkeena."
+    ]
+  },
+  {
+    "id": "wikibooks-fura-da-nono-milk-and-kefir-porridge",
+    "title": "Fura da nono (hirssi-kefiirijuoma)",
+    "description": "Fulanien keskuudessa suosittu afrikkalainen juomapuuro hirssistä ja käyneestä maidosta, tarjoillaan yleensä kylmänä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["kasvis", "afrikkalainen", "kylmä juoma"],
+    "ingredients": [
+      "hirssiä",
+      "paratiisinjyviä (alligaattoripippuria)",
+      "inkivääriä",
+      "nunua (tai tavallista kefiiriä)",
+      "sokeria"
+    ],
+    "instructions": [
+      "Pese hirssi hyvin. Liota sitä kuumassa vedessä 10 minuuttia pehmentyäkseen. Valuta kuuma vesi varovasti pois.",
+      "Soseuta hirssi, pippuri ja inkivääri hieman veden kanssa tehosekoittimessa, kunnes seos on sileää ja paakutonta.",
+      "Siirrä hirssiseos pataan ja kypsennä keskilämmöllä, kunnes se paksunee löysäksi taikinaksi.",
+      "Siirrä kulhoon ja sekoita joukkoon nunu. Lisää sokeria maun mukaan.",
+      "Tarjoa kylmänä jääpalojen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-fusion-spice-cookie-gluten-free",
+    "title": "Fuusiomausteinen keksi (gluteeniton)",
+    "description": "Kiinalaisella viiden mausteen jauheella maustettu gluteeniton keksi.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["gluteeniton", "leivonta", "mauste"],
+    "ingredients": [
+      "2½ dl sokeria",
+      "1 muna",
+      "2 dl kasvisrasvaa",
+      "1 pkt gluteenitonta leivontajauhosekoitusta",
+      "3 tl viiden mausteen jauhetta"
+    ],
+    "instructions": [
+      "Lämmitä uuni 175 asteeseen.",
+      "Vaahdota sokeri, muna ja kasvisrasva keskenään.",
+      "Lisää leivontajauhosekoitus ja viiden mausteen jauhe. Sekoita hyvin, kunnes taikina on tasainen.",
+      "Pyörittele teelusikallisia taikinaa palloiksi, ja pyörittele pallot vielä sokerissa.",
+      "Paista 175 asteessa 5–6 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-gado-gado-indonesian-salad-with-peanut-sauce",
+    "title": "Gado-gado (indonesialainen salaatti maapähkinäkastikkeella)",
+    "description": "Indonesialainen vihannessalaatti runsaan ja maukkaan maapähkinäkastikkeen kera.",
+    "servings": 4,
+    "totalTimeMin": 40,
+    "category": "Salaatit",
+    "tags": ["kasvis", "indonesialainen", "salaatti", "maapähkinä"],
+    "ingredients": [
+      "1 g terasia (käynyttä katkaraputahnaa)",
+      "rypsiöljyä",
+      "300 g maapähkinöitä",
+      "tuoretta tai kuivattua chiliä",
+      "1 valkosipulinkynsi",
+      "suolaa",
+      "125 g gula jawaa (indonesialaista palmusokeria)",
+      "4 salottisipulia",
+      "sokeria",
+      "tuoretta limemehua tai riisietikkaa",
+      "kovaksi keitettyjä munia, viipaloituna",
+      "kokonaisia perunoita, höyrytettynä tai keitettynä",
+      "sekoitettuja vihanneksia (esim. kaalia, idätettyjä papuja, kurkkua, chayotea, vesipinaattia, siipipapua, pinaattia)",
+      "paistettua tofua",
+      "paistettua tempeä",
+      "paistettuja kerupuk-räpylöitä (kala- tai katkarapuräpylöitä)",
+      "paistettua sipulia"
+    ],
+    "instructions": [
+      "Paista katkaraputahnaa öljyssä, kunnes se tuoksuu hyvältä.",
+      "Paista maapähkinät kullanruskeiksi. Nosta pannulta ja anna jäähtyä, valuta sitten pois suurin osa ylimääräisestä öljystä.",
+      "Jauha maapähkinät tahnaksi.",
+      "Lisää jauhettu chili, valkosipuli, suola, sokeri ja katkaraputahna maapähkinätahnaan. Jauha, kunnes sekoittunut.",
+      "Laita maapähkinätahna pannulle, lisää hieman vettä liuottamaan sitä (käytä kookosmaitoa täyteläisemmän maun saamiseksi).",
+      "Lisää lisää sokeria kastikkeeseen maun mukaan, ja kuumenna kiehuvaksi.",
+      "Hauduta maapähkinäkastiketta, kunnes se on paksua, ja mausta lime- tai etikkamehulla.",
+      "Poista kuori keitetyistä perunoista. Uppopaista perunoita kullanruskeiksi ja viipaloi sitten.",
+      "Pese, revi tai pilko kaali, pinaatti ja vesipinaatti.",
+      "Keitä vettä pannulla. Lisää kaali ja kypsennä, kunnes pehmeää. Valuta.",
+      "Käytä samaa siivilöityä kiehuvaa vettä pinaatin ja vesipinaatin keittämiseen peräkkäin. Valuta.",
+      "Kalvaise idätetyt pavut noin 30 sekuntia. Valuta.",
+      "Kuori chayote, pese, viipaloi ja keitä pehmeäksi.",
+      "Pese ja viipaloi kurkku.",
+      "Asettele salaatti, viipaloidut perunat, paistettu tofu, paistettu tempeh ja munat isolle lautaselle, joko satunnaisesti tai kerroksittain.",
+      "Kaada maapähkinäkastike salaatin päälle.",
+      "Levitä paistettu sipuli päälle ja tarjoa kerupuk-räpylöiden kera."
+    ],
+    "notes": [
+      "Katkarapuräpylät eivät ole kasvisruokaa – korvaa ne kasviräpylöillä, jos haluat täysin kasvisruoan.",
+      "Lisää hieman kecap manista (indonesialaista makeaa soijakastiketta) maun mukaan.",
+      "Cashewpähkinät ovat salainen ainesosa, joka tekee maapähkinäkastikkeesta täyteläisemmän.",
+      "Käytä paksua maapähkinävoita jauhettujen maapähkinöiden korvikkeena."
+    ]
+  },
+  {
+    "id": "wikibooks-gajjar-halwa-carrot-pudding",
+    "title": "Gajjar halwa (porkkanavanukas)",
+    "description": "Intialainen makea vanukas raastetuista porkkanoista, maidosta ja kardemummasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "intialainen", "porkkana"],
+    "ingredients": [
+      "2–3 isoa porkkanaa",
+      "120 g cashewpähkinöitä, rikottuna",
+      "120 g rusinoita, pestynä",
+      "ripaus suolaa",
+      "2–3 tl sokeria",
+      "4 kardemumman palkoa",
+      "ripaus jauhettua kanelia",
+      "1 rkl voita",
+      "2½ dl maitoa"
+    ],
+    "instructions": [
+      "Leikkaa porkkanoiden huonot päät pois, pese ja kuori ne.",
+      "Raasta porkkanat ja siirrä ne kattilaan.",
+      "Lisää cashewpähkinät, rusinat, suola, sokeri, kardemumma, kaneli, voi ja maito.",
+      "Kuumenna kattilaa ja kuumenna seos kiehuvaksi sekoittaen.",
+      "Kypsennä, kunnes maito on suurimmaksi osaksi haihtunut.",
+      "Tarjoa ripotellen päälle hieman jauhettua kanelia."
+    ],
+    "notes": ["Kun maito on lähes haihtunut, voit lisätä 50–100 g khoyaa (kuivattua maitojauhetta) täyteläisemmän maun saamiseksi."]
+  },
+  {
+    "id": "wikibooks-galaktoboureko-greek-semolina-custard-pastry",
+    "title": "Galaktoboureko (kreikkalainen mannavanukaspiiras)",
+    "description": "Perinteinen kreikkalainen jälkiruoka, jossa filotaikinan väliin tulee sitruksinen mannavanukastäyte, tarjoillaan sokerisiirapin kera.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "kreikkalainen", "uuniruoka"],
+    "ingredients": [
+      "150 g sokeria",
+      "6 munaa",
+      "150 g mannasuurimoita",
+      "1 l maitoa",
+      "2 vaniljatankoa",
+      "½ sitruunan mehu",
+      "ripaus suolaa",
+      "450 g filotaikinaa",
+      "sulatettua voita",
+      "1¼ dl vettä",
+      "150 g sokeria",
+      "2 rkl sitruunamehua"
+    ],
+    "instructions": [
+      "Yhdistä sokeri, munat ja mannasuurimot kattilassa. Lisää maito ja vaniljatangot. Sekoita joukkoon sitruunamehu.",
+      "Kuumenna seos kiehuvaksi sekoittaen koko ajan haarukalla. Kun se alkaa kiehua, laske lämpö matalaksi ja jatka sekoittamista vielä 10 minuuttia. Nosta liedeltä ja anna jäähtyä.",
+      "Sivele hieman sulatettua voita jokaiselle filotaikinalevylle.",
+      "Voitele vuoka ja aseta puolet filotaikinasta vuokaan levy kerrallaan. Kaada jäähtynyt mannavanukastäyte taikinan päälle ja peitä lopuilla voidelluilla filolevyillä.",
+      "Pirskota piiraan pinnalle hieman vettä.",
+      "Paista 180 asteessa 1 tunti. Anna jäähtyä.",
+      "Yhdistä vesi ja sokeri kattilassa.",
+      "Kuumenna kiehuvaksi ja hauduta noin 10 minuuttia.",
+      "Anna siirapin jäähtyä.",
+      "Sekoita joukkoon sitruunamehu, kun siirappi on jäähtynyt, jotta C-vitamiini säilyy.",
+      "Sivele valmis piiras siirapilla ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-galician-garbanzo-soup",
+    "title": "Galicialainen kikhernekeitto",
+    "description": "Nopea ja edullinen keitto, joka lämmittää kylmänä päivänä.",
+    "servings": 6,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["kasvis", "kikherne", "espanjalainen", "keitto"],
+    "ingredients": [
+      "1260 g kikherneitä (3 tölkkiä)",
+      "1,1 l kasvislientä tai vettä (tai sekoitus)",
+      "1 rkl oliiviöljyä",
+      "5 dl kuutioitua sipulia (kukkuraisena)",
+      "1 rkl hienonnettua valkosipulia",
+      "2½ dl kuutioitua vahaperunaa",
+      "1 porkkana, kuutioituna",
+      "1 varsi selleriä, kuutioituna",
+      "suolaa",
+      "1 laakerinlehti",
+      "2 tl kuivasinappia",
+      "2 tl jauhettua juustokuminaa",
+      "1–2 hiuttaletta sahramia (valinnainen)",
+      "1¼ dl herneitä (tuoreita tai pakastettuja)",
+      "3 rkl punaviinietikkaa",
+      "2½ dl kuutioituja tomaatteja (tuoreita tai säilykkeestä)",
+      "mustapippuria",
+      "cayennepippuria",
+      "tuoretta hienonnettua basilikaa koristeluun"
+    ],
+    "instructions": [
+      "Huuhtele ja valuta kikherneet huolellisesti. Soseuta noin ⅔ niistä tehosekoittimessa 5 dl:n liemen ja/tai veden kanssa, lähes tasaiseksi. Laita sivuun.",
+      "Laita keittopata tai valurautapata keskilämmölle ja odota minuutti. Lisää oliiviöljy ja pyörittele se padan pohjalle.",
+      "Lisää sipuli ja kuullota keskilämmöllä noin 5–8 minuuttia, kunnes se on läpikuultavaa.",
+      "Lisää puolet valkosipulista sekä peruna, porkkana ja selleri, ja hyppysellinen suolaa. Kuullota keski-matalalla lämmöllä 5–8 minuuttia.",
+      "Lisää kikhernesose, loppu liemi ja/tai vesi, kikherneet, laakerinlehti, sinappi, juustokumina ja sahrami.",
+      "Kuumenna kiehuvaksi, laske sitten lämpöä.",
+      "Peitä ja hauduta noin 30 minuuttia, sekoittaen välillä.",
+      "Lisää loput valkosipulista, herneet, etikka ja tomaatti.",
+      "Maista ja säädä suolan määrää.",
+      "Lisää mustapippuria ja cayennepippuria.",
+      "Hauduta vielä vain noin 5 minuuttia."
+    ],
+    "notes": ["Tarjoa päälle ripoteltuna tuoretta hienonnettua basilikaa. Sopii hyvin vihreän salaatin, pumpernikkelileivän ja kevyen punaviinin kanssa."]
+  },
+  {
+    "id": "wikibooks-gallo-pinto-costa-rican-rice-and-beans",
+    "title": "Gallo pinto (costaricalainen riisi-papuruoka)",
+    "description": "Costa Rican tärkein kansallisruoka, joka koostuu riisistä ja mustista pavuista – monissa kodeissa syödään kaikilla kolmella aterialla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "papu", "riisi", "costaricalainen"],
+    "ingredients": [
+      "450 g kuivattuja papuja (mieluiten mustia papuja)",
+      "1 sipuli, hienonnettuna",
+      "1 punainen paprika, hienonnettuna",
+      "1 kokonainen valkosipuli, hienonnettuna",
+      "2 laakerinlehteä",
+      "1 tl juustokuminaa",
+      "oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "1–2 kokonaista kuivattua tai tuoretta chiliä (valinnainen)",
+      "2½–5 dl raakaa riisiä"
+    ],
+    "instructions": [
+      "Liota pavut yön yli, tai vaihtoehtoisesti kuumenna ne kiehuviksi ja anna seistä 1 tunti.",
+      "Kuullota sipulia ja valkosipulia oliiviöljyssä valurautapadassa tai isossa kattilassa keskilämmöllä, kunnes sipuli on läpikuultavaa.",
+      "Lisää punainen paprika ja kuullota vielä muutama minuutti.",
+      "Lisää pavut ja riittävästi vettä peittämään kaikki ainekset.",
+      "Lisää mausteet, kuumenna kiehuvaksi, laske sitten lämpöä ja peitä. Hauduta sekoittaen välillä, kunnes pavut ovat kypsiä (1–2 tuntia, papujen iästä riippuen).",
+      "Lisää riisi ja kaksinkertainen määrä vettä kattilaan (esim. 2½ dl riisiä + 5 dl vettä).",
+      "Keitä kovalla kiehunnalla, kunnes vesi on kiehunut riisin tasolle.",
+      "Laske lämpö miedoksi hauteeksi, peitä ja kypsennä 20 minuuttia.",
+      "Tarjoa pavut riisin päällä ja nauti!"
+    ],
+    "notes": [
+      "Säilykepapujen käyttö vähentää kypsennysaikaa merkittävästi, mutta niihin ei imeydy makua yhtä hyvin kuin kuivatuista pavuista.",
+      "Voit kypsentää pavut etukäteen painekeittimessä ja säilyttää jääkaapissa viikon ajan."
+    ]
+  },
+  {
+    "id": "wikibooks-gambas-al-ajillo-garlic-shrimp",
+    "title": "Gambas al ajillo (valkosipulikatkaravut)",
+    "description": "Suosittu espanjalainen tapas-annos katkaravuista, valkosipulista ja oliiviöljystä, tarjoillaan myös pääruokana.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "espanjalainen", "nopea"],
+    "ingredients": [
+      "450 g katkarapuja",
+      "4–6 isoa valkosipulinkynttä, hienonnettuna",
+      "1 tl makeaa espanjalaista paprikaa",
+      "60–90 ml kuivaa sherryä (tai konjakkia)",
+      "½ dl extra-virgin-oliiviöljyä",
+      "3 tl hienonnettua tuoretta persiljaa",
+      "2 rkl tuoretta sitruunamehua"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy paistinpannussa keskilämmöllä. Lisää valkosipuli ja kuullota noin minuutti, kunnes se alkaa ruskistua. Varo polttamasta valkosipulia.",
+      "Nosta lämpö korkealle ja lisää katkaravut, sitruunamehu, sherry tai konjakki ja paprika. Sekoita hyvin ja paista nopeasti sekoittaen, kunnes katkaravut muuttuvat vaaleanpunaisiksi ja kiertyvät (noin 3 minuuttia).",
+      "Nosta liedeltä ja siirrä katkaravut öljyn ja kastikkeen kera lämpimälle lautaselle tai tarjoa suoraan pannulta.",
+      "Mausta suolalla ja tuoreella mustapippurilla maun mukaan. Ripottele persiljaa päälle."
+    ],
+    "notes": ["Katkaravut voi kuoria ennen kypsentämistä, jos niin haluaa."]
+  },
+  {
+    "id": "wikibooks-gambian-baobab-juice-bouye",
+    "title": "Gambialainen baobab-mehu (Bouye)",
+    "description": "Virkistävä ja kermainen gambialainen juoma baobab-hedelmästä ja maidosta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["kasvis", "gambialainen", "hedelmä", "kylmä juoma"],
+    "ingredients": [
+      "2½ dl baobab-hedelmäsosetta",
+      "10 dl vettä",
+      "2½ dl tiivistemaitoa tai haudutettua maitoa",
+      "½ dl sokeria (säädä maun mukaan)",
+      "½ tl C-vitamiinijauhetta (valinnainen)",
+      "jääpaloja",
+      "tuoreita minttulehtiä"
+    ],
+    "instructions": [
+      "Yhdistä baobab-hedelmäsose ja vesi tehosekoittimessa. Sekoita korkealla nopeudella, kunnes seos on sileää.",
+      "Aseta siivilä tai harsokangas kannun päälle ja kaada seos sen läpi, jotta kuidut ja siemenet poistuvat.",
+      "Lisää tiiviste- tai haudutettu maito kannuun, sekä sokeri ja C-vitamiinijauhe (jos käytät). Sekoita hyvin, kunnes sokeri on liuennut ja ainekset sekoittuneet.",
+      "Jäähdytä mehua jääkaapissa vähintään 1 tunti, jotta maut yhdistyvät.",
+      "Sekoita juoma kunnolla ennen tarjoilua.",
+      "Kaada mehu jäillä täytettyihin laseihin.",
+      "Koristele jokainen lasi tuoreilla minttulehdillä.",
+      "Tarjoa heti."
+    ],
+    "notes": ["Makeuden voi säätää oman mieltymyksen mukaan. Joissain versioissa lisätään vaniljauutetta tai loraus limemehua lisämaun vuoksi."]
+  },
+  {
+    "id": "wikibooks-gambian-caldo-seafood-soup",
+    "title": "Gambialainen caldo (keitto)",
+    "description": "Perinteinen gambialainen keitto, jossa yhdistyvät liha, vihannekset ja mausteet lämmittäväksi ja ravitsevaksi ruoaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "gambialainen"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "450 g naudanlihaa tai kanaa, suupaloiksi leikattuna",
+      "2 porkkanaa, kuorittuna ja viipaloituna",
+      "2 perunaa, kuorittuna ja kuutioituna",
+      "1 varsi selleriä, viipaloituna",
+      "1 paprika, siemenet poistettuna ja pilkottuna",
+      "2 tomaattia, kuutioituna",
+      "10 dl naudan- tai kanalientä",
+      "1 tl jauhettua juustokuminaa",
+      "1 tl kuivattua oreganoa",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta korianteria tai persiljaa, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa padassa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja valkosipuli pataan. Kuullota, kunnes sipuli on läpikuultavaa ja valkosipuli tuoksuu hyvältä.",
+      "Lisää liha pataan ja ruskista joka puolelta.",
+      "Lisää porkkanat, perunat, selleri, paprika ja tomaatit. Kypsennä muutama minuutti, jotta vihannekset pehmenevät hieman.",
+      "Kaada liemi pataan niin, että ainekset peittyvät.",
+      "Lisää juustokumina, oregano, suola ja mustapippuri. Sekoita hyvin.",
+      "Kuumenna kiehuvaksi, laske sitten lämpö matalaksi. Peitä pata ja hauduta noin 1–1,5 tuntia, kunnes liha on mureaa ja maut ovat sekoittuneet.",
+      "Maista keittoa ja säädä mausteiden määrää tarvittaessa.",
+      "Nosta pata liedeltä ja annostele caldo tarjoilukulhoihin.",
+      "Koristele kummallekin kulholle tuoretta hienonnettua korianteria tai persiljaa. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-gambian-chicken-with-lemon-and-mustard-yassa",
+    "title": "Gambialainen sitruuna-sinappikana (Yassa)",
+    "description": "Suosittu gambialainen ruoka, jossa kana tai kala marinoidaan runsaassa sipuli-sitruuna-sinappimarinadissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "gambialainen", "sitruuna"],
+    "ingredients": [
+      "4–5 isoa sipulia, ohuina viipaleina",
+      "3 sitruunan mehu",
+      "4 rkl rypsiöljyä",
+      "2 rkl dijon-sinappia",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 rkl tuoretta timjamia (tai 1 tl kuivattua timjamia)",
+      "1 tl paprikajauhetta",
+      "1 tl mustapippuria",
+      "suolaa",
+      "500 g kanaa tai kalaa, paloiteltuna"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa viipaloitu sipuli, sitruunamehu, öljy, dijon-sinappi, valkosipuli, timjami, paprika, pippuri ja suola marinadiksi.",
+      "Lisää kana tai kala marinadiin ja sekoita hyvin, jotta se peittyy tasaisesti. Peitä kulho ja anna marinoitua jääkaapissa vähintään 2 tuntia, mieluiten yön yli.",
+      "Nosta kana tai kala marinadista, säästäen marinadi myöhempää käyttöä varten.",
+      "Kuumenna iso paistinpannu keski-kovalla lämmöllä. Paista kana tai kala kuumalla pannulla, kunnes se on ruskistunut joka puolelta ja kypsää. Nosta pois ja laita sivuun.",
+      "Lisää samaan pannuun marinadin sipulit ja kuullota, kunnes ne ovat pehmeitä ja läpikuultavia.",
+      "Lisää kypsennetty kana tai kala takaisin pannulle kuullotettujen sipulien kanssa. Kaada talteen otettu marinadi lihan ja sipulien päälle. Laske lämpö matalaksi ja hauduta noin 15–20 minuuttia, jotta maut yhdistyvät.",
+      "Maista ja säädä mausteita suolalla ja pippurilla tarvittaessa.",
+      "Tarjoa kuumana höyrytetyn riisin, couscousin tai leivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-gambian-mbamba-soup",
+    "title": "Gambialainen mbamba-keitto",
+    "description": "Maukas ja tuoksuva gambialainen keitto kuivatusta kalasta ja vihanneksista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kala", "keitto", "gambialainen"],
+    "ingredients": [
+      "200 g kuivattua kalaa (esim. monnia tai tilapiaa)",
+      "2 rkl palmuöljyä tai rypsiöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 tomaattia, kuutioituna",
+      "1 rkl tomaattipyreetä",
+      "1 tl jauhettua inkivääriä",
+      "1 tl jauhettua paprikaa",
+      "1 tl jauhettua cayennepippuria (valinnainen, lisää tulisuutta)",
+      "5 dl kuutioitua kurpitsaa",
+      "5 dl viipaloitua okraa",
+      "5 dl kuutioitua munakoisoa",
+      "vettä tai lientä kypsentämiseen",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Liota kuivattua kalaa vedessä vähintään 30 minuuttia, jotta se pehmenee. Kun se on pehmentynyt, poista ruodot ja riko kala pienemmiksi paloiksi. Laita sivuun.",
+      "Kuumenna palmuöljy tai rypsiöljy isossa padassa keskilämmöllä. Lisää hienonnettu sipuli ja valkosipuli. Kuullota, kunnes ne ovat pehmeitä ja läpikuultavia.",
+      "Lisää kuutioidut tomaatit, tomaattipyree, inkivääri, paprika ja cayennepippuri pataan. Sekoita hyvin.",
+      "Lisää kurpitsa, okra ja munakoiso. Varmista, että vihannekset ovat tasaisesti mausteseoksen peitossa.",
+      "Lisää riittävästi vettä tai lientä, jotta vihannekset peittyvät ja seoksesta tulee keittomaista.",
+      "Kuumenna kiehuvaksi, laske sitten lämpö matalaksi ja peitä pata kannella. Hauduta keittoa noin 30–40 minuuttia, kunnes vihannekset ovat pehmeitä ja maut ovat sekoittuneet. Sekoita välillä, ettei pohjaan tartu.",
+      "Lisää varovasti ruodotut ja pehmentyneet kalapalat keittoon. Varo rikkomasta niitä.",
+      "Jatka keiton hauduttamista vielä 10–15 minuuttia, kunnes kala on lämmennyt läpi.",
+      "Maista keittoa ja säädä mausteita suolalla, pippurilla ja muilla mausteilla tarvittaessa.",
+      "Tarjoa kuumana riisin kanssa tai lisukkeena muiden pääruokien kera."
+    ]
+  },
+  {
+    "id": "wikibooks-gambian-superkanja-soup",
+    "title": "Gambialainen superkanja-keitto",
+    "description": "Perinteinen gambialainen keitto, joka yhdistää lehtivihanneksia ja proteiinia runsaaksi ja ravitsevaksi pääruoaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "gambialainen", "vihannes"],
+    "ingredients": [
+      "500 g lihaa (naudan-, lampaan- tai kananlihaa), tai gambialaista savustettua kalaa",
+      "2 rkl rypsiöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 tomaattia, kuutioituna",
+      "2 rkl tomaattipyreetä",
+      "1 tl jauhettua inkivääriä",
+      "1 tl jauhettua paprikaa",
+      "1 tl jauhettua cayennepippuria (valinnainen, lisää tulisuutta)",
+      "2½ dl viipaloitua okraa",
+      "2½ dl kuutioitua kurpitsaa",
+      "2½ dl kuutioitua munakoisoa",
+      "vettä tai lientä kypsentämiseen",
+      "5 dl sekoitettuja lehtivihanneksia (esim. pinaattia, lehtikaalia tai collard-kaalia), pestynä ja pilkottuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Jos käytät lihaa, leikkaa se suupaloiksi ja mausta suolalla ja pippurilla.",
+      "Kuumenna öljy isossa padassa tai valurautapadassa keskilämmöllä. Lisää hienonnettu sipuli ja valkosipuli. Kuullota, kunnes ne ovat pehmeitä ja läpikuultavia.",
+      "Lisää liha tai savustettu kala pataan ja ruskista. Sekoita välillä tasaisen kypsymisen varmistamiseksi.",
+      "Lisää kuutioidut tomaatit, tomaattipyree, inkivääri, paprika ja cayennepippuri (jos käytät) pataan. Sekoita hyvin.",
+      "Lisää viipaloitu okra, kuutioitu kurpitsa ja munakoiso. Sekoita, jotta vihannekset sekoittuvat seokseen.",
+      "Lisää riittävästi vettä tai lientä peittämään ainekset. Nestemäärä riippuu halutusta keiton paksuudesta. Kuumenna kiehuvaksi, laske sitten lämpö matalaksi ja peitä pata kannella.",
+      "Anna keiton hautua noin 30–45 minuuttia, kunnes liha on mureaa ja vihannekset kypsiä. Sekoita välillä, ettei pohjaan tartu.",
+      "Lisää pilkotut lehtivihannekset pataan. Sekoita hyvin. Jatka hauduttamista vielä 5–10 minuuttia, kunnes vihreät ovat lakastuneet ja pehmeitä.",
+      "Maista keittoa ja säädä suolan ja pippurin määrää maun mukaan.",
+      "Tarjoa kuumana riisin tai leivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-gambian-yassa-poulet",
+    "title": "Gambialainen Yassa Poulet",
+    "description": "Maukas ja hapokas gambialainen kanaruoka eläväisessä sipuli-sitrusmarinadissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "gambialainen", "sitruuna"],
+    "ingredients": [
+      "4 isoa sipulia, ohuina viipaleina",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 tl raastettua inkivääriä",
+      "2–3 sitruunan mehu",
+      "3–4 rkl oliiviöljyä",
+      "1 tl dijon-sinappia",
+      "1 tl mustapippuria",
+      "suolaa",
+      "900 g kananpaloja (mieluiten koipireisiä tai koipia)",
+      "2 rkl rypsiöljyä",
+      "tuoretta persiljaa tai korianteria, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Yhdistä kulhossa ohuet sipuliviipaleet, valkosipuli, inkivääri, sitruunamehu, oliiviöljy, dijon-sinappi, mustapippuri ja hyppysellinen suolaa marinadiksi. Sekoita hyvin.",
+      "Lisää kananpalat marinadiin ja varmista, että ne ovat tasaisesti peittyneet. Peitä kulho ja anna kanan marinoitua jääkaapissa vähintään 2 tuntia, mieluiten yön yli.",
+      "Kuumenna rypsiöljy isossa paistinpannussa keski-kovalla lämmöllä.",
+      "Nosta kananpalat marinadista, säästäen marinadi myöhempää käyttöä varten.",
+      "Laita kana pannulle ja paista ruskeaksi joka puolelta, noin 5–7 minuuttia per puoli.",
+      "Kun kana on ruskistunut, laske lämpö keskitasolle ja lisää talteen otettu marinadi pannulle.",
+      "Peitä pannu ja anna kanan hautua marinadissa noin 20–25 minuuttia, kunnes kana on kypsää ja mureaa. Käännä kananpaloja ja sekoita sipulia välillä, ettei pohjaan pala.",
+      "Kun kana on kypsää, siirrä se tarjoiluastiaan ja koristele tuoreella hienonnetulla persiljalla tai korianterilla.",
+      "Tarjoa kuumana höyrytetyn riisin tai couscousin kanssa."
+    ],
+    "notes": ["Yassa poulet'hen voi lisätä myös kuutioitua porkkanaa, perunaa tai paprikaa lisämaun ja -rakenteen saamiseksi."]
+  },
+  {
+    "id": "wikibooks-garbanzo-bean-stew",
+    "title": "Kikhernepata",
+    "description": "Täyteläinen espanjalaisvaikutteinen kikhernepata paahdetulla paprikalla ja sherryllä, tarjoillaan riisin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["kasvis", "kikherne", "espanjalainen", "pata"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 keskikokoinen punasipuli, hienonnettuna",
+      "1 punainen paprika, kuorittuna, siemenet poistettuna ja pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "ripaus sahramia",
+      "225 g uusia tai keitettäviä perunoita, kuorimattomana ja suupaloiksi leikattuna",
+      "2 tl savustettua makeaa paprikajauhetta",
+      "½ dl sherryä",
+      "5 dl keitettyjä kikherneitä, valutettuna, tai 1 tlk (425 g) kikherneitä, huuhdeltuna ja valutettuna",
+      "1 tlk (410 g) kuutioituja tomaatteja mehuineen",
+      "6,25 dl kasvislientä tai vettä",
+      "suolaa",
+      "mustapippuria",
+      "5 dl kuumaa keitettyä riisiä",
+      "hienonnettua persiljaa koristeluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy valurautapadassa tai isossa keittopadassa keskilämmöllä.",
+      "Kuullota sipulia, paprikaa, valkosipulia, sahramia ja perunoita, sekoittaen välillä, kunnes perunat alkavat pehmetä, noin 15 minuuttia.",
+      "Sekoita joukkoon paprikajauhe, sitten sherry, ja kypsennä noin minuutti.",
+      "Lisää kikherneet, tomaatit, liemi, suola ja pippuri.",
+      "Kuumenna kiehuvaksi, laske lämpö matalaksi ja kypsennä osittain peitettynä, kunnes perunat ovat kypsiä ja pata on paksuuntunut, 30–40 minuuttia.",
+      "Nosta liedeltä ja anna seistä noin 15 minuuttia, jotta maut yhdistyvät ja pata paksuuntuu hieman lisää.",
+      "Tarjoillessa tee kekomainen kasa riisiä kunkin 4 kulhon keskelle, ja kaada kuuma pata riisin ympärille.",
+      "Koristele persiljalla, jos haluat."
+    ],
+    "notes": ["Jos pidät tulisemmasta ruoasta, lisää hyppysellinen chilihiutaleita tai loraus tulista kastiketta padan kypsyessä."]
+  },
+  {
+    "id": "wikibooks-garden-bulgur",
+    "title": "Puutarhabulgur",
+    "description": "Nopea lisuke bulgurista, sienistä ja sellerista kanaliemessä kypsennettynä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "bulgur", "lisuke", "nopea"],
+    "ingredients": [
+      "2 rkl margariinia",
+      "1¼ dl hienonnettua selleriä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2½ dl viipaloituja tuoreita sieniä",
+      "2½ dl bulguria tai rouhittua vehnää",
+      "¼ tl kuivattua tilliä",
+      "¼ tl kuivattua oreganoa",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "5 dl kana- tai kasvislientä"
+    ],
+    "instructions": [
+      "Sulata margariini isossa paistinpannussa; lisää selleri, sipuli ja sienet. Sekoittele, kunnes vihannekset ovat pehmenneet.",
+      "Lisää bulgur ja kypsennä, kunnes se on kullanruskeaa.",
+      "Lisää mausteet ja liemi. Peitä ja kuumenna kiehuvaksi.",
+      "Laske lämpöä ja hauduta 15 minuuttia.",
+      "Tarjoa."
+    ],
+    "notes": [
+      "Jos käytät kaasulieden, muista sekoittaa kerran tai kaksi 15 minuutin haudutuksen aikana.",
+      "Ripottele halutessasi tuoretta persiljaa loppuvaiheessa."
+    ]
+  },
+  {
+    "id": "wikibooks-garden-egg-stew",
+    "title": "Puutarhamunakoisopata",
+    "description": "Nigerialainen pata pienistä, pyöreistä puutarhamunakoisoista (garden egg), savustetusta kalasta ja paprikasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "nigerialainen", "pata", "munakoiso"],
+    "ingredients": [
+      "puutarhamunakoisoja (garden egg)",
+      "suolaa",
+      "½ dl palmuöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "3 punaista paprikaa, hienonnettuna",
+      "6 tuoretta tomaattia, hienonnettuna",
+      "nigerialaista savustettua titus-kalaa, silppuna",
+      "jauhettua rapua (valinnainen)",
+      "kuivattuja katkarapuja (valinnainen)",
+      "kuivattua chiliä (valinnainen)",
+      "6 thaibasilikanlehteä, hienonnettuna"
+    ],
+    "instructions": [
+      "Pese puutarhamunakoisot suolalla. Leikkaa pienemmiksi paloiksi ja keitä suolatussa vedessä 10–15 minuuttia, kunnes pehmeitä.",
+      "Valuta munakoisot ja muusaa ne.",
+      "Kuumenna palmuöljy padassa keskilämmöllä. Lisää hienonnettu sipuli ja kypsennä, kunnes pehmeää. Lisää paprika ja tomaatit, ja kypsennä 10 minuuttia.",
+      "Lisää silputtu kala, jauhettu rapu, kuivatut katkaravut, jauhettu chili ja suola maun mukaan. Peitä ja kypsennä 5 minuuttia.",
+      "Lisää muusattu munakoiso. Peitä ja kypsennä 5 minuuttia.",
+      "Tarjoa keitetyn jauhobanaanin, jaamin tai perunan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-and-lemon-dressing",
+    "title": "Valkosipuli-sitruunakastike",
+    "description": "Hyvin yksinkertainen kastike salaatille tai pastalle, maustettu rosmariinilla ja sitruunankuorella.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "sitruuna", "valkosipuli"],
+    "ingredients": [
+      "1 pieni valkosipulinkynsi",
+      "1 oksa rosmariinia",
+      "1 suikale sitruunankuorta (noin 2,5 x 1,3 cm)",
+      "1¾ dl oliiviöljyä",
+      "½ dl sitruunamehua"
+    ],
+    "instructions": [
+      "Aseta valkosipuli ja rosmariini leikkuulaudalle ja murskaa kevyesti ison veitsen latvalla.",
+      "Laita rosmariini, valkosipuli ja sitruunankuori puhtaaseen pulloon, jossa on tiiviisti sulkeutuva korkki.",
+      "Kaada joukkoon öljy ja sitruunamehu.",
+      "Sulje pullo ja ravista hyvin."
+    ],
+    "notes": ["Säilytä jääkaapissa ja käytä viikon kuluessa. Lorauta salaattien, äyriäisten, pastan tai höyrytettyjen vihannesten päälle."]
+  },
+  {
+    "id": "wikibooks-garlic-and-mustard-vinaigrette",
+    "title": "Valkosipuli-sinappivinaigrette",
+    "description": "Perinteinen ranskalainen salaatinkastike – hapon ja rasvan emulsio, maustettu valkosipulilla ja sinapilla.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "salaatti", "ranskalainen"],
+    "ingredients": [
+      "1 valkosipulinkynsi, murskattuna",
+      "2 rkl etikkaa",
+      "1 tl valmista sinappia",
+      "6 rkl öljyä (rypsiöljyä, extra-virgin-oliiviöljyä, mantelia tai hasselpähkinäöljyä)",
+      "suolaa",
+      "mustapippuria",
+      "yrttejä maun mukaan"
+    ],
+    "instructions": [
+      "Sekoita valkosipuli, suola, sinappi ja etikka, kunnes seos on tasaista.",
+      "Lisää öljy ja sekoita, kunnes tasaista.",
+      "Lisää pippuri ja yrtit maun mukaan.",
+      "Anna seistä – mitä kauemmin yrtit ja sinappi liukenevat öljyyn, sitä paremmin maut sekoittuvat. Vinaigrette saattaa erota seisoessa, joten sekoita se uudelleen juuri ennen salaatin kastelemista."
+    ],
+    "notes": [
+      "Klassinen etikan ja öljyn suhde on 1:3. Jotkut reseptit suosittelevat jopa suhdetta 1:5.",
+      "Sekoita ensin sinappi ja etikka, lisää vasta sitten öljy – tämä auttaa emulsiota pysymään paremmin koossa.",
+      "Käytä miellyttävän makuista etikkaa, kuten balsamico- tai punaviinietikkaa.",
+      "Sinappijauhetta voi käyttää valmiin sinapin sijaan.",
+      "Valkosipulin sijaan voi käyttää vastaavan määrän hienonnettua salottisipulia."
+    ]
+  }
+]

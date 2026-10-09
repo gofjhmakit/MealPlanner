@@ -1,0 +1,636 @@
+[
+  {
+    "id": "myplate-sweet-potato-harvest-salad",
+    "title": "Bataatti-sadonkorjuusalaatti",
+    "description": "Tässä salaatissa on lämpöä, makeutta ja rapeutta, joka saa haluamaan lisää! Tämä ruoka sopii hyvin eväsrasiaan voileivän kanssa tai grillatun broilerin rintafileen kaveriksi. Lasten testaama ja äitien hyväksymä!",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti", "bataatti"],
+    "ingredients": [
+      "10 dl bataattia, kuutioituna (n. 2–3 bataattia)",
+      "2½ dl punaista omenaa, kuutioituna",
+      "½ dl granaattiomenan siemeniä",
+      "4 rkl suolattomia kurpitsansiemeniä (pepitas)",
+      "1 rkl omenasiiderietikkaa",
+      "2½ tl extra-virgin-oliiviöljyä",
+      "¼ tl suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 200 asteeseen. Lorauta kuutioitujen bataattien päälle 1 tl oliiviöljyä ja paahda uunipellillä 10 minuuttia.",
+      "Kun bataatit ovat kypsiä, ota ne uunista ja anna jäähtyä.",
+      "Yhdistä isossa kulhossa bataatit, omenat, granaattiomenan siemenet ja kurpitsansiemenet.",
+      "Vatkaa erillisessä kulhossa loput ½ rkl oliiviöljyä, omenasiiderietikka, suola ja pippuri.",
+      "Kun sekoitettu, lisää bataattiseokseen ja sekoita, kunnes salaatti on kevyesti kastikkeen peitossa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-hash-egg",
+    "title": "Bataattipaistos munalla",
+    "description": "Omaleimainen paistos, joka valmistetaan kananmakkaroiden, sipulin, paprikan ja valkosipulin kanssa kuullotetusta bataatista. Viimeistele paistettua munaa päälle herkullisen aamiaisen saamiseksi.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kana", "aamiainen", "bataatti"],
+    "ingredients": [
+      "2 isoa bataattia, kuutioituna (n. 10 dl)",
+      "2½ dl vettä",
+      "1 rkl rypsiöljyä",
+      "2 kananmakkaraa",
+      "1 pieni keltasipuli, kuorittuna ja kuutioituna",
+      "1 paprika, siemenkoteloineen poistettuna ja kuutioituna",
+      "2 valkosipulinkynttä, kuorittuna ja hienonnettuna",
+      "1 tl rypsiöljyä",
+      "4 isoa kananmunaa"
+    ],
+    "instructions": [
+      "Laita bataatit ja vesi paistinpannuun ja kuumenna kiehuvaksi kovalla lämmöllä.",
+      "Laske lämpö miedoksi ja kypsennä noin 20 minuuttia, sekoitellen välillä, kunnes vesi on imeytynyt bataatteihin.",
+      "Lisää öljy, makkarat, sipuli, paprika ja valkosipuli pannuun bataattien joukkoon.",
+      "Kypsennä noin 20 minuuttia, sekoitellen välillä, kunnes sipuli on kevyesti ruskistunut ja bataatit ovat pehmeitä.",
+      "Jaa seos neljälle lautaselle ja laita pannu takaisin liedelle.",
+      "Kuumenna pannu uudelleen keski-kovalla lämmöllä ja lisää jäljellä oleva 1 tl öljyä, kun se on kuuma.",
+      "Lisää munat yksitellen ja paista noin 3–5 minuuttia, kunnes valkuainen on kiinteä ja keltuainen alkaa sakeutua mutta ei ole kovaksi kypsynyt.",
+      "Käännä muna ja paista vielä minuutin ajan.",
+      "Lisää bataattisekoituksen päälle muna ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-pancakes-balsamic-maple-mushrooms",
+    "title": "Bataattiletut balsamico-vaahterasienillä",
+    "description": "Terveellinen versio letuista, jossa soseutettu bataatti ja täysjyväjauhot yhdistyvät kauniisti vaahterasiirapilla ja balsamietikalla maustettujen kuullotettujen sienten kanssa. Sopii täydellisesti illalliseksi tai brunssiksi.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "bataatti", "aamiainen"],
+    "ingredients": [
+      "Letut:",
+      "3 keskikokoista bataattia",
+      "2½ dl rasvatonta maitoa",
+      "1 kananmuna, vatkattuna",
+      "2 rkl rypsiöljyä",
+      "2½ dl täysjyvävehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "¼ tl suolaa",
+      "ruokavalmistetta tarvittaessa",
+      "Balsamico-vaahterasienet:",
+      "450 g cremini- ja/tai herkkusieniä, neljään osaan leikattuna",
+      "1 rkl rypsiöljyä",
+      "¾ dl vaahterasiirappia",
+      "1 rkl balsamietikkaa"
+    ],
+    "instructions": [
+      "Kypsennä bataatit mikroaaltouunissa pehmeiksi; anna jäähtyä.",
+      "Kuori ja soseuta bataatit sähkövatkaimella.",
+      "Lisää maito, muna ja öljy bataattimuusiin; sekoita.",
+      "Seulo kuivat ainekset keskenään ja lisää bataattiseokseen.",
+      "Sekoita miedolla nopeudella, kunnes juuri yhdistynyt.",
+      "Kuumenna tarttumaton paistinpannu tai levy keskilämmölle; suihkuta pannuun ruokavalmistetta.",
+      "Annostele ½ dl taikinaa per pannukakku kuumalle pannulle.",
+      "Odota, kunnes pannukakku kuplii ja näyttää hieman kuivalta pinnalta ennen kääntämistä.",
+      "Kun pannukakut kypsyvät, kuumenna 1 rkl öljyä toisessa pannussa (älä käytä tarttumatonta) keskilämmöllä.",
+      "Lisää neljään osaan leikatut sienet ja sekoita niin, että ne peittyvät öljyllä.",
+      "Anna hautua, sekoitellen välillä, kunnes neste alkaa erottua.",
+      "Lisää vaahterasiirappi ja balsamietikka pannulle.",
+      "Anna hautua, kunnes kastike vähenee ja sakenee.",
+      "Tarjoiluun pinoa 2–3 pannukakkua vuorotellen balsamico-vaahterasienten kanssa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-pancakes",
+    "title": "Bataattiletut",
+    "description": "Piristä perinteisiä letuja lisäämällä mausteita ja bataattia. Lisää hedelmäannostasi tarjoamalla kotitekoisen omenasoseen kanssa.",
+    "servings": 4,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "bataatti", "aamiainen"],
+    "ingredients": [
+      "2½ dl valmista pannukakku-vohveliseosta (tai 225 g:n pussi)",
+      "1 tl kurpitsapiirakkamaustetta",
+      "1 tl vaniljaa",
+      "1 rkl fariinisokeria",
+      "1¼ dl soseutettua bataattia, paistettua tai säilykettä",
+      "2 dl vettä",
+      "½ dl pähkinöitä, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä kaikki ainekset ja sekoita vain, kunnes isot kokkareet häviävät.",
+      "Huomio: liiallinen sekoittaminen tekee pannukakuista sitkeitä.",
+      "Kaada hieman vajaa ½ dl taikinaa kullekin pannukakulle kuumalle pannulle tai sähkölevylle, joka on lämmitetty 175–190 asteeseen. Kun pannukakut kuplivat reunoilta ja keskeltä, ripottele pähkinöitä päälle (halutessasi).",
+      "Käännä sitten pannukakut.",
+      "Pannukakku on valmis, kun pohjat ovat kullanruskeita.",
+      "Tarjoa omenasoseen tai siirapin kanssa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-patties",
+    "title": "Bataattipihvit",
+    "description": "Soseutettu bataatti pyöritellään korppujauhoissa ja paistetaan kevyesti pannulla helpoksi lisukkeeksi. Nauti tuoreen vihreän salaatin ja täysjyväleivän tai -riisin kanssa.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "bataatti"],
+    "ingredients": [
+      "3 keskikokoista bataattia",
+      "2½ dl korppujauhoja, murskattuna",
+      "1 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese bataatit.",
+      "Kypsennä bataatteja mikroaaltouunissa pehmeiksi.",
+      "Poista bataattien kuoret.",
+      "Laita bataatit keskikokoiseen kulhoon.",
+      "Soseuta ne haarukalla.",
+      "Murskaa korppujauhot leikkuulaudalla kaulimella tai purkilla.",
+      "Laita murskatut korppujauhot pieneen kulhoon.",
+      "Muotoile bataattimassasta 6 pientä pihviä.",
+      "Pyörittele kutakin pihviä murskatuissa korppujauhoissa.",
+      "Kuumenna öljy keskikokoisessa paistinpannussa keskilämmöllä.",
+      "Ruskista kutakin pihviä molemmin puolin öljyssä."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-pie",
+    "title": "Bataattipiirakka",
+    "description": "Herkullinen juhlasuosikki! Voit käyttää säilykebataattia, jos sinulla ei ole aikaa paahtaa ja soseuttaa omaa.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["bataatti", "juhla", "jälkiruoka"],
+    "ingredients": [
+      "4 isoa munanvalkuaista",
+      "½ dl tuoretta appelsiinimehua",
+      "1 tl kanelia",
+      "¼ tl muskottipähkinää",
+      "¼ tl maustepippuria",
+      "2 dl fariinisokeria, tiiviisti mitattuna",
+      "½ tl appelsiininkuorta",
+      "1¼ dl rasvatonta maitoa",
+      "2 rkl suolatonta voita, sulatettuna",
+      "ripaus suolaa",
+      "5 dl säilykebataattia, soseutettuna (ei siirapissa)",
+      "1 paistamaton piirakkapohja (n. 23 cm)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Vatkaa munanvalkuaiset hyvin.",
+      "Lisää appelsiinimehu, mausteet, fariinisokeri, appelsiininkuori, rasvaton maito, voi ja suola.",
+      "Lisää soseutettu bataatti ja sekoita perusteellisesti.",
+      "Kaada piirakkapohjalle ja paista esilämmitetyssä uunissa tunti tai kunnes kiinteä."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-pone",
+    "title": "Paistettu bataattivanukas",
+    "description": "Inkiväärijauhe ja melassi yhdistetään soseutettuun bataattiin ja kypsennetään uunissa herkulliseksi jälkiruoaksi.",
+    "servings": 10,
+    "category": "Lisukkeet",
+    "tags": ["bataatti", "jälkiruoka", "uuniruoka"],
+    "ingredients": [
+      "7 dl raastettua bataattia",
+      "2½ dl melassia (tai tummaa siirappia)",
+      "2 tl inkivääriä",
+      "2 tl leivinjauhetta",
+      "1 tl suolaa",
+      "¾ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 160 asteeseen. Yhdistä kaikki ainekset 3 litran kattilassa.",
+      "Hauduta hitaasti, jatkuvasti sekoittaen, 10 minuuttia.",
+      "Kaada hyvin voideltuun 23 cm:n uunivuokaan.",
+      "Paista 30 minuuttia, sekoittaen viiden minuutin välein ensimmäisten 20 minuutin ajan.",
+      "Tasoita pinta ja anna ruskistua.",
+      "Leikkaa neliöiksi ja tarjoa kuumana tai kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-sweet-savory-peanut-butter-dip",
+    "title": "Makea-suolainen maapähkinävoidippi",
+    "description": "Tämä kermainen dippi on hyvä koulunjälkeinen välipala! Sellerin lisäksi voit tarjota sen omenan, porkkanan, jicaman tai paprikan kanssa.",
+    "servings": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "nopea"],
+    "ingredients": [
+      "3 rkl sileää maapähkinävoita",
+      "2 rkl omenahilloketta (apple butter)",
+      "2 rkl vähärasvaista maitoa",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "1½ tl limemehua"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä maapähkinävoi, omenahilloke, maito, soijakastike ja limemehu pienessä kulhossa.",
+      "Vatkaa, kunnes hyvin tasaista.",
+      "Säilytä tiiviisti suljettuna jääkaapissa.",
+      "Tarjoa sellerin tai muiden rapeiden hedelmien ja vihannesten kanssa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-sour-salad-dressing",
+    "title": "Makeahapan salaatinkastike",
+    "description": "Rypsiöljystä valmistettu makeahapan salaatinkastike.",
+    "servings": 5,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike"],
+    "ingredients": [
+      "2 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "3 rkl punaviinietikkaa",
+      "2 tl vähäsuolaista soijakastiketta",
+      "2 rkl fariinisokeria",
+      "2 rkl sitruunamehua",
+      "½ tl valkosipulijauhetta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita kaikki ainekset ja sekoita tai ravista hyvin.",
+      "Jäähdytä jääkaapissa vähintään tunti ennen tarjoilua.",
+      "Säilytä jääkaapissa pullossa tai astiassa."
+    ]
+  },
+  {
+    "id": "myplate-sweetened-condensed-milk",
+    "title": "Kotitekoinen sokeroitu tiivistemaito",
+    "description": "Valmista oma sokeroitu tiivistemaito juhlapyhien jälkiruokia varten.",
+    "servings": 12,
+    "category": "Muut",
+    "tags": ["kasvis", "säilyke"],
+    "ingredients": [
+      "2½ dl kuumaa vettä",
+      "5 dl sokeria",
+      "2 rkl margariinia",
+      "10 dl rasvatonta maitojauhetta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Laita ainekset mainitussa järjestyksessä tehosekoittimeen ja sekoita tasaiseksi.",
+      "Säilytä jääkaapissa enintään viikon."
+    ]
+  },
+  {
+    "id": "myplate-swiss-chard-and-cranberries",
+    "title": "Lehtimangoldi ja karpalot",
+    "description": "Lehtimangoldi ja karpalot -lisuke.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "nopea"],
+    "ingredients": [
+      "2 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "450 g lehtimangoldia, varret paloiteltuna ja lehdet viipaloituna",
+      "½ dl kuivattuja karpaloita"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy pannussa keskilämmöllä.",
+      "Lisää sipuli ja kypsennä, kunnes pehmeä.",
+      "Lisää lehtimangoldin varret ja jatka kuullottamista, kunnes ne alkavat pehmetä.",
+      "Nosta lämpö kovalle ja lisää lehtimangoldin lehdet ja kuivatut karpalot.",
+      "Kun lehdet ovat lysähtäneet, sammuta lämpö ja peitä pannu kannella; anna levätä muutama minuutti ennen tarjoilua.",
+      "Pehmeämpää lopputulosta varten anna levätä hieman pidempään."
+    ]
+  },
+  {
+    "id": "myplate-taco-flavored-potatoes",
+    "title": "Tacomaustetut perunat",
+    "description": "Perunat päällystetään tacomausteella ja maissijauholla ja paistetaan uunissa kullanruskeiksi.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "peruna", "meksikolainen"],
+    "ingredients": [
+      "4 keskikokoista perunaa",
+      "2 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "2 rkl tacomaustetta (puolikas pussi)",
+      "½ dl maissijauhoa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 200 asteeseen. Pese ja harjaa perunat huolellisesti.",
+      "Leikkaa perunat puoliksi pitkittäin ja sitten lohkoiksi.",
+      "Laita perunat isoon kulhoon ja sekoita oliiviöljyn kanssa, kunnes perunat ovat hyvin peittyneet.",
+      "Ripottele tacomauste ja maissijauho perunoiden päälle, sekoita uudelleen, kunnes peittynyt.",
+      "Asettele perunat uunipellille.",
+      "Paista noin 30 minuuttia, kunnes perunat ovat kullanruskeita."
+    ]
+  },
+  {
+    "id": "myplate-taco-salad",
+    "title": "Tacosalaatti",
+    "description": "Naudan jauheliha ja pavut maustetaan juustokuminalla ja chilijauheella ja tarjoillaan salaatin ja muiden vihannesten päällä nopeaksi arki-illan aterianaksi. Viimeistele juustolla ja kastikkeella.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["liha", "meksikolainen", "salaatti"],
+    "ingredients": [
+      "115 g vähärasvaista naudan jauhelihaa",
+      "1½ tl juustokuminaa (valinnainen)",
+      "1 rkl chilijauhetta",
+      "2½ dl kidney- tai pintopapuja, valutettuna",
+      "½ salaatinkerää, revittynä",
+      "1 pieni sipuli, kuutioituna",
+      "2 keskikokoista tuoretta tomaattia, paloiteltuna",
+      "1 tlk (430 g) maissia, valutettuna",
+      "1¼ dl cheddarjuustoa, raastettuna",
+      "5 dl kevyitä tortillasiruja, murennettuna",
+      "1¼ dl rasvatonta jogurttia",
+      "1¼ dl paksua salsaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Ruskista jauheliha ja valuta ylimääräinen rasva pois.",
+      "Lisää pavut, juustokumina ja chilijauhe ja kuumenna läpi.",
+      "Sekoita isossa kulhossa salaatti, tomaatit, sipuli ja juusto.",
+      "Lusikoi liha-papuseos päälle ja viimeistele murennetuilla tortillasiruilla.",
+      "Valmista kastike sekoittamalla jogurtti ja salsa.",
+      "Tarjoa kastike salaatin vieressä. Säilytä tähteet jääkaapissa kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-taco-soup",
+    "title": "Tacokeitto",
+    "description": "Viimeistele tämä naudan jauheliha- ja papukeitto silputulla salaatilla ja rasvattomalla smetanalla tai jogurtilla täydellisen taco-kokemuksen saamiseksi.",
+    "servings": 10,
+    "category": "Keitot",
+    "tags": ["liha", "keitto", "meksikolainen"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa",
+      "2 tlk (410 g) kuutioituja tomaatteja",
+      "7 dl maissia (2 tlk à 440 g vähäsuolaista, huuhdeltuna ja valutettuna)",
+      "2 tlk (440 g) vähäsuolaisia kidneypapuja, huuhdeltuna ja valutettuna",
+      "1½ tl chilijauhetta",
+      "¾ tl juustokuminaa",
+      "¾ tl valkosipulijauhetta",
+      "¾ dl vettä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Ruskista liha kattilassa keskilämmöllä.",
+      "Valuta rasva pois siivilän avulla.",
+      "Huuhtele liha kuumalla vedellä.",
+      "Sekoita kaikki ainekset samaan kattilaan ja kypsennä miedolla lämmöllä tunnin ajan."
+    ]
+  },
+  {
+    "id": "myplate-tangy-crisp-vegetable-and-pasta-salad",
+    "title": "Kirpeä rapea vihannes-pastasalaatti",
+    "description": "Täysjyväpasta sekoitetaan rapeiden vihannesten kanssa kevyeen kirpeään kastikkeeseen.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "pasta", "salaatti"],
+    "ingredients": [
+      "5 dl täysjyväpastaa, kypsennettynä ohjeen mukaan ja jäähdytettynä",
+      "2½ dl kurkkua, kuutioituna",
+      "2½ dl kirsikkatomaatteja, puolitettuna",
+      "1¼ dl porkkanaa, raastettuna",
+      "¼ dl punasipulia, hienonnettuna",
+      "¾ dl kirpeää öljy-etikkakastiketta",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä isossa kulhossa pasta, kurkku, tomaatit, porkkana ja punasipuli.",
+      "Lisää kastike ja sekoita, kunnes ainekset ovat tasaisesti peittyneet.",
+      "Mausta suolalla ja mustapippurilla.",
+      "Jäähdytä vähintään tunti ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-tangy-jicama-slaw",
+    "title": "Kirpeä jicama-raaste",
+    "description": "Rapea jicama ja porkkana limekastikkeessa – virkistävä lisuke grilliruoalle.",
+    "servings": 6,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "nopea"],
+    "ingredients": [
+      "1 jicama (n. 450 g), kuorittuna ja suikaloituna",
+      "2 porkkanaa, raastettuna",
+      "2 rkl tuoretta korianteria, hienonnettuna",
+      "2 rkl limemehua",
+      "1 rkl oliiviöljyä",
+      "¼ tl suolaa",
+      "ripaus chilijauhetta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä isossa kulhossa jicama, porkkana ja korianteri.",
+      "Vatkaa pienessä kulhossa limemehu, öljy, suola ja chilijauhe.",
+      "Kaada kastike vihannesten päälle ja sekoita hyvin.",
+      "Jäähdytä vähintään 15 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-tangy",
+    "title": "Kirpeä kastike",
+    "description": "Monikäyttöinen kirpeä öljy-etikkakastike, joka sopii salaatteihin ja marinadiksi.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike"],
+    "ingredients": [
+      "1¼ dl rypsiöljyä",
+      "¾ dl valkoviinietikkaa",
+      "2 rkl sokeria",
+      "1 tl sinappia",
+      "½ tl suolaa",
+      "¼ tl valkosipulijauhetta",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Laita kaikki ainekset purkkiin tai tehosekoittimeen.",
+      "Sekoita tai ravista hyvin, kunnes tasaista.",
+      "Säilytä jääkaapissa ja ravista ennen käyttöä."
+    ]
+  },
+  {
+    "id": "myplate-tartar-sauce",
+    "title": "Tartarikastike",
+    "description": "Kotitekoinen tartarikastike, täydellinen paistetun kalan tai äyriäisten kanssa.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "nopea"],
+    "ingredients": [
+      "1¼ dl vähärasvaista majoneesia",
+      "2 rkl suolakurkkua, hienonnettuna",
+      "1 rkl sipulia, hienonnettuna",
+      "1 tl sitruunamehua",
+      "½ tl kuivattua tilliä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä kaikki ainekset pienessä kulhossa.",
+      "Sekoita hyvin ja jäähdytä ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-tastee-burgers",
+    "title": "Maukkaat jauhelihapihvit",
+    "description": "Naudan jauheliha maustetaan sipulilla ja mausteilla ja paistetaan mehukkaiksi pihveiksi sämpylän väliin.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["liha", "nopea"],
+    "ingredients": [
+      "450 g vähärasvaista naudan jauhelihaa",
+      "1 pieni sipuli, hienonnettuna",
+      "1 tl valkosipulijauhetta",
+      "1 tl paprikajauhetta",
+      "suolaa",
+      "mustapippuria",
+      "6 täysjyväsämpylää"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä jauheliha, sipuli, valkosipulijauhe, paprikajauhe, suola ja pippuri isossa kulhossa.",
+      "Muotoile kuusi pihviä.",
+      "Paista pannulla tai grillissä keskilämmöllä noin 5–6 minuuttia per puoli, kunnes sisälämpötila on 71 astetta.",
+      "Tarjoa sämpylöiden välissä."
+    ]
+  },
+  {
+    "id": "myplate-tasty-chicken-and-veggie-packets",
+    "title": "Maukkaat kana-vihannespaketit",
+    "description": "Kana ja vihannekset paketoidaan foliopakettiin ja paistetaan uunissa tai grillissä – helppo ja vähällä astiamäärällä syntyvä ateria.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "nopea"],
+    "ingredients": [
+      "4 kanan rintafileetä, luutonta ja nahatonta",
+      "2 keskikokoista porkkanaa, viipaloituna",
+      "1 kesäkurpitsa, viipaloituna",
+      "1 keltasipuli, viipaloituna",
+      "2 rkl oliiviöljyä",
+      "1 tl rakuunaa tai timjamia",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 200 asteeseen (tai valmistele grilli keskilämmölle).",
+      "Leikkaa neljä foliopalaa ja aseta kullekin kanan rintafilee.",
+      "Lisää porkkana, kesäkurpitsa ja sipuli kanan päälle.",
+      "Lorauta öljyä ja mausta yrteillä, suolalla ja pippurilla.",
+      "Sulje paketit tiiviisti ja paista uunissa 25–30 minuuttia tai grillissä 20 minuuttia, kunnes kana on kypsää (sisälämpötila 74 astetta)."
+    ]
+  },
+  {
+    "id": "myplate-tasty-fish-and-veggie-packets",
+    "title": "Maukkaat kala-vihannespaketit",
+    "description": "Kalafileet ja vihannekset paketoidaan foliopakettiin ja paistetaan uunissa – helppo ja terveellinen ateria.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "nopea"],
+    "ingredients": [
+      "4 valkolihaista kalafileetä (n. 115 g kukin)",
+      "2 keskikokoista porkkanaa, viipaloituna",
+      "1 kesäkurpitsa, viipaloituna",
+      "1 sitruuna, viipaloituna",
+      "2 rkl oliiviöljyä",
+      "1 tl tilliä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 200 asteeseen.",
+      "Leikkaa neljä foliopalaa ja aseta kullekin kalafilee.",
+      "Lisää porkkana, kesäkurpitsa ja sitruunaviipaleet kalan päälle.",
+      "Lorauta öljyä ja mausta tillillä, suolalla ja pippurilla.",
+      "Sulje paketit tiiviisti ja paista uunissa 15–20 minuuttia, kunnes kala on kypsää ja hilseilee helposti."
+    ]
+  },
+  {
+    "id": "myplate-tasty-low-fat-cream-soup",
+    "title": "Maukas vähärasvainen kermakeitto",
+    "description": "Kevyt vaihtoehto perinteiselle kermakeitolle, jossa maustamattomat rasvattomat jauhot korvaavat osan kermasta.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "nopea"],
+    "ingredients": [
+      "2 rkl margariinia",
+      "¼ dl jauhoja",
+      "1¼ dl rasvatonta maitoa",
+      "3,75 dl vähäsuolaista kanalientä, jaettuna (1¼ dl + 2½ dl)",
+      "¼ tl suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sulata margariini kattilassa miedolla lämmöllä.",
+      "Lisää jauhot ja sekoita tasaiseksi tahnaksi.",
+      "Lisää maito vähitellen koko ajan vatkaten.",
+      "Lisää ensin 1¼ dl kanalientä ja kuumenna, kunnes seos alkaa sakenemaan.",
+      "Lisää loput 2½ dl kanalientä ja hauduta miedolla lämmöllä 5 minuuttia, jatkuvasti sekoittaen.",
+      "Mausta suolalla ja pippurilla ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "myplate-tasty-veggie-dip",
+    "title": "Maukas vihannesdippi",
+    "description": "Kermainen jogurttipohjainen dippi tuoreille vihanneksille.",
+    "servings": 8,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "nopea"],
+    "ingredients": [
+      "2½ dl rasvatonta kreikkalaista jogurttia",
+      "2 rkl vähärasvaista majoneesia",
+      "1 tl kuivattua tilliä",
+      "1 tl sipulijauhetta",
+      "½ tl valkosipulijauhetta",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä kaikki ainekset keskikokoisessa kulhossa.",
+      "Sekoita hyvin ja jäähdytä vähintään 30 minuuttia ennen tarjoilua.",
+      "Tarjoa tuoreiden vihannesten kanssa."
+    ]
+  },
+  {
+    "id": "myplate-ten-minute-corn-chowder",
+    "title": "Kymmenen minuutin maissikeitto",
+    "description": "Nopea ja täyttävä maissikeitto, joka on valmis kymmenessä minuutissa.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto", "nopea"],
+    "ingredients": [
+      "1 rkl margariinia",
+      "1 pieni sipuli, hienonnettuna",
+      "1 tlk (430 g) maissia, valutettuna",
+      "1 tlk (310 g) kermamaissia",
+      "2½ dl rasvatonta maitoa",
+      "¼ tl suolaa",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sulata margariini kattilassa keskilämmöllä.",
+      "Lisää sipuli ja kuullota, kunnes pehmeä, noin 3 minuuttia.",
+      "Lisää maissi, kermamaissi ja maito.",
+      "Kuumenna kiehuvaksi ja hauduta 5 minuuttia, sekoittaen silloin tällöin.",
+      "Mausta suolalla ja pippurilla ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "myplate-teriyaki-lettuce-wraps",
+    "title": "Teriyaki-salaattikäärö",
+    "description": "Teriyakikana vihanneksineen kääritään rapeisiin salaatinlehtiin – kevyt ja raikas ateria.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea", "aasialainen"],
+    "ingredients": [
+      "450 g kanan jauhelihaa tai kuutioitua kanan rintafileetä",
+      "1 rkl rypsiöljyä",
+      "1 paprika, kuutioituna",
+      "1 porkkana, raastettuna",
+      "2 kevätsipulia, silputtuna",
+      "¾ dl vähäsuolaista teriyakikastiketta",
+      "1 salaatinkera (iceberg tai romaine), lehdet irrotettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy pannussa keskilämmöllä.",
+      "Lisää kana ja paista kypsäksi, noin 6–8 minuuttia.",
+      "Lisää paprika, porkkana ja kevätsipuli ja paista 2–3 minuuttia.",
+      "Kaada teriyakikastike joukkoon ja sekoita, kunnes kaikki on tasaisesti kastikkeen peitossa.",
+      "Lusikoi seosta salaatinlehtien keskelle ja kääri.",
+      "Tarjoa heti."
+    ]
+  }
+]

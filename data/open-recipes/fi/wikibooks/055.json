@@ -1,0 +1,743 @@
+[
+  {
+    "id": "wikibooks-grand-union-bacon",
+    "title": "Grand Union -pekoni",
+    "description": "Ohuet pekonisiivut kastetaan Tabasco-munaseokseen ja korppujauhoihin, ja paistetaan rapeiksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["pekoni", "alkupala", "nopea"],
+    "ingredients": [
+      "1 kananmuna",
+      "3 tippaa Tabasco-kastiketta",
+      "pekonisiivuja (hyvin ohuita ja vähärasvaisia)",
+      "hienoa korppujauhoa",
+      "voita"
+    ],
+    "instructions": [
+      "Vatkaa kananmuna Tabasco-kastikkeen kanssa.",
+      "Kasta pekonisiivut munaseokseen ja pyörittele korppujauhoissa.",
+      "Lisää voita paistinpannulle keskilämmölle. Kun pannu on kuuma, lisää pekoni. Paista kullanruskeaksi.",
+      "Käännä pekoni, kypsennä toinen puoli ja tarjoile lautasliinan päällä."
+    ]
+  },
+  {
+    "id": "wikibooks-grandmas-pie-crust",
+    "title": "Isoäidin piirakkapohja",
+    "description": "Rapea perus-piirakkapohja, joka esipaistetaan kuivatuilla papuilla tai riisillä painotettuna.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["piirakka", "pohja", "leivonta"],
+    "ingredients": [
+      "150 g vehnäjauhoja",
+      "½ tl suolaa",
+      "128 g kiinteää leivontarasvaa",
+      "1 kananmuna",
+      "½ tl väkiviinaetikkaa",
+      "2 rkl kylmää vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola. Leikkaa leivontarasva jauho-suolaseokseen taikinaleikkurilla, kunnes seos muistuttaa pieniä herneitä.",
+      "Vatkaa erillisessä kulhossa muna, etikka ja vesi, kunnes seos on tasaista.",
+      "Valuta muna-vesiseos jauhoseokseen. Sekoita haarukalla, kunnes taikina muodostuu.",
+      "Kokoa taikina palloksi ja litistä se noin 10 cm:n levyiseksi kiekoksi. Kääri muovikelmuun ja jäähdytä 30 minuuttia.",
+      "Kauli taikina 20 cm:n ympyräksi ja aseta 20 cm:n piirakkavuokaan.",
+      "Vuoraa paistamaton piirakkakuori foliolla tai leivinpaperilla ja täytä kuivatuilla pavuilla tai riisillä.",
+      "Paista 220 asteessa, kunnes kuori on vaalean kullanruskea (noin 15–18 minuuttia).",
+      "Anna jäähtyä ennen täyttämistä."
+    ]
+  },
+  {
+    "id": "wikibooks-grandmother-grouts-cake",
+    "title": "Isoäiti Groutin kakku",
+    "description": "Kaksikerroksinen vaalea kakku, joka koristellaan liedellä keitetyllä suklaakuorrutuksella.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "suklaa", "juhla"],
+    "ingredients": [
+      "1 rkl voita",
+      "2½ dl sokeria",
+      "3½ dl vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "ripaus suolaa",
+      "1¾ dl maitoa",
+      "1 kananmuna",
+      "Kuorrutus:",
+      "1¾ dl sokeria",
+      "85 g tummaa suklaata, sulatettuna",
+      "1¾ dl maitoa"
+    ],
+    "instructions": [
+      "Vaahdota voi, sokeri, leivinjauhe, suola ja jauhot keskenään.",
+      "Lisää maito.",
+      "Vatkaa muna ja kääntele se taikinan joukkoon.",
+      "Jaa taikina kahden voideltuun ja leivinpaperilla vuorattuun 20 cm:n pyöreään kakkuvuokaan.",
+      "Paista noin 20–25 minuuttia 175 asteessa.",
+      "Anna jäähtyä täysin ennen kuorruttamista.",
+      "Yhdistä kaikki kuorrutuksen ainekset kattilassa.",
+      "Kuumenna keskilämmöllä sekoittaen, kunnes kaikki on liuennut.",
+      "Keitä, kunnes seos saavuttaa pehmeän pallon vaiheen (noin 113–115 °C).",
+      "Anna jäähtyä hieman ja levitä heti kakun päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-granola",
+    "title": "Granola",
+    "description": "Uunissa paahdettu pähkinä- ja kaurasekoitus, johon sekoitetaan rusinoita ja mustikoita jäähtymisen jälkeen.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["granola", "aamiainen", "kasvis"],
+    "ingredients": [
+      "2½ dl hienonnettuja saksanpähkinöitä",
+      "1¼ dl hienonnettuja manteleita",
+      "1¼ dl fariinisokeria",
+      "1¼ dl vehnänalkioita",
+      "1¾ dl oliiviöljyä",
+      "3½ dl hunajaa",
+      "1 tl suolaa",
+      "10 dl kaurahiutaleita",
+      "1¼ dl rusinoita",
+      "1¼ dl kuivattuja mustikoita"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset paitsi rusinat ja mustikat.",
+      "Levitä seos uunipellille ja paista 1 tunti 120 asteessa, sekoittaen 10 minuutin välein.",
+      "Anna jäähtyä, sekoita sitten joukkoon rusinat ja mustikat."
+    ],
+    "notes": ["\"Intialaiset saksanpähkinät\" tarkoittaa tässä toista saksanpähkinälajiketta – käytä tavallisia saksanpähkinöitä tai muita pähkinöitä maun mukaan."]
+  },
+  {
+    "id": "wikibooks-granola-bars",
+    "title": "Granolapatukat",
+    "description": "Helppo kotitekoinen vaihtoehto kaupan granolapatukoille.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Välipalat",
+    "tags": ["granola", "patukka", "kasvis"],
+    "ingredients": [
+      "120 g pehmeää voita tai margariinia",
+      "180 g fariinisokeria",
+      "¾ dl vaaleaa siirappia",
+      "1 kananmuna",
+      "½ tl vaniljauutetta",
+      "900 g kaurahiutaleita",
+      "240 g suklaarouhetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen.",
+      "Voitele 30 × 23 cm:n uunivuoka.",
+      "Sekoita voi, sokeri ja siirappi.",
+      "Sekoita joukkoon muna ja vanilja.",
+      "Lisää kaurahiutaleet ja suklaarouhe.",
+      "Levitä seos valmisteltuun vuokaan.",
+      "Paista 20–22 minuuttia.",
+      "Anna jäähtyä. Leikkaa patukoiksi ja nauti."
+    ],
+    "notes": ["Lisää halutessasi pähkinöitä ja rusinoita lisämaun vuoksi."]
+  },
+  {
+    "id": "wikibooks-grape-lassi",
+    "title": "Rypäle-lassi",
+    "description": "Virkistävä intialainen jogurttijuoma, jossa on makeita mustia viinirypäleitä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["juoma", "intialainen", "nopea", "kasvis"],
+    "ingredients": [
+      "5 dl mustia viinirypäleitä",
+      "2½ dl paksua luonnonjogurttia (intialaista curd-jogurttia)",
+      "2½ dl maitoa",
+      "4 rkl sokeria",
+      "6 kpl jääkuutioita",
+      "1 rkl suolaa"
+    ],
+    "instructions": [
+      "Soseuta mustat viinirypäleet, sokeri, jogurtti, maito ja suola tehosekoittimessa, kunnes seos on tasaista.",
+      "Murskaa jääkuutiot, jaa ne 4 osaan ja jaa 4 lasiin.",
+      "Kaada lassi jääkuutioiden päälle.",
+      "Tarjoile jääkylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grapefruit-and-crab-cocktail",
+    "title": "Greipti-taskurapucocktail",
+    "description": "Kylmä alkupala, jossa makea greipin hedelmäliha yhdistyy parsaan ja taskurapuun.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["äyriäiset", "alkupala", "kylmä"],
+    "ingredients": [
+      "2 greippiä",
+      "8 kpl keitettyjä parsan kärkiä",
+      "200 g taskuravun lihaa",
+      "2 rkl äyriäismausteseosta",
+      "2 rkl salaattiöljyä",
+      "4 tl majoneesia",
+      "1 tl sitruunamehua",
+      "persiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Leikkaa greipit puoliksi. Irrota ja paloittele hedelmäliha varovasti.",
+      "Jaa paloiteltu greippi 4 greipinkuoren puoliskon tai 4 tarjoiluvasin kesken.",
+      "Sekoita parsan kärjet öljyn, sitruunamehun ja mausteseoksen kanssa. Kasaa paloitellun greipin päälle ja lisää päälle hieman taskuravun lihaa.",
+      "Koristele lisäämällä 1 teelusikallinen majoneesia jokaiseen annokseen ja ripottele persiljaa."
+    ]
+  },
+  {
+    "id": "wikibooks-gravlax",
+    "title": "Gravlax (suolattu ja sokeroitu lohi)",
+    "description": "Suolassa ja sokerissa kypsytettyä lohta – yleinen pohjoismainen ruokalaji. Gravlax on helppo valmistaa ja sopii juhlalliseksi tarjottavaksi. Suolaamis- ja sokeroimismenetelmä (grava) toimii myös muille rasvaisille kaloille, vaikka lohi onkin yleisin valinta. Tämä perusohje on peräisin Pohjois-Ruotsista ja sitä on käytetty sukupolvien ajan. Gravlaxia voi tarjoilla sekä pääruokana että alkupalana.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "skandinaavinen", "juhla"],
+    "ingredients": [
+      "800 g tuoretta lohifileetä (n. 2–5 cm paksu)",
+      "2 rkl suolaa",
+      "2 rkl sokeria",
+      "3 rkl katajanmarjoja",
+      "3 dl giniä (valinnainen)",
+      "1 tl kokonaista tai rouhittua valkopippuria",
+      "20–40 g tuoretta tilliä"
+    ],
+    "instructions": [
+      "Leikkaa lohifilee kahteen yhtä suureen osaan (jos teet gravlaxia suuremmalle joukolle, voit käyttää myös kahta fileetä). Pakasta lohi vähintään 4 päiväksi -18 asteeseen tai kylmempään loisten tappamiseksi.",
+      "Pakastuksen jälkeen poista lohi pakastimesta ja anna sen sulaa, mieluiten yön yli jääkaapissa. Lohen ei tarvitse sulaa täysin seuraavia vaiheita varten.",
+      "Yhdistä suola ja sokeri. Aseta lohi nahkapuoli alaspäin pöydälle. Hiero suola-sokeriseos palojen pintaan, lisää sitten katajanmarjat ja pippuri. Peitä lopuksi tillillä.",
+      "Aseta toinen lohipala toisen päälle liha vasten lihaa, niin että nahka jää molemmilla puolilla ulospäin, ja siirrä muovipussiin. Lisää pussiin mahdolliset ylijäämäainekset sekä gini.",
+      "Sulje pussi ja siirrä jääkaappiin. Anna lohen kypsyä seoksessa, kääntäen pussia kerran, mieluiten kahdesti, päivässä 4 päivän ajan.",
+      "4 päivän jälkeen lohi on valmis tarjoiltavaksi. Jos et syö sitä heti (se säilyy pari päivää), siirrä se uuteen muovipussiin tai purkkiin ja poista alkuperäiseen pussiin muodostunut suolainen neste. Alkuperäisessä pussissa säilytettynä lohi voi muuttua liian suolaiseksi.",
+      "Leikkaa lohesta terävällä veitsellä ohuita viipaleita vinosti. Poista samalla mahdolliset jäljellä olevat ruodot. Mitä suurempi lohipala, sitä suurempi kulma ja pinta-ala viipaleille. Suuret viipaleet näyttävät tarjoiltuna komeammilta.",
+      "Tarjoile pääruokana perunamuhennoksen, keitettyjen perunoiden ja gravlax-kastikkeen kanssa, tai salaatissa. Alkupalana tarjoile näkkileivän tai paahtoleivän päällä. Perunamuhennos ja hieman Dijon-sinappia sopivat erinomaisesti gravlaxin lisukkeeksi."
+    ],
+    "notes": [
+      "Käytä lohifileen paksua osaa pään puolelta. Älä käytä hännän puoleista osaa, koska se ei ole tarpeeksi paksu.",
+      "Ginin voi korvata sitruuna- tai limemehulla (kuten cevichessä).",
+      "Kypsytysaikaa voi lyhentää huomattavasti viipaloimalla lohi ohuesti ennen kypsyttämistä – se voi olla valmista jo 4 tunnissa. Tällä menetelmällä lohi kannattaa myös syödä nopeammin."
+    ]
+  },
+  {
+    "id": "wikibooks-gravy-vegetarian",
+    "title": "Kasvisgravy",
+    "description": "Makkara- tai pekonikastike leivän päällä on suosittu aamiainen Yhdysvaltojen etelävaltioissa. Tämä on kasvisversio kyseisestä ruoasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "kasvis", "amerikkalainen", "aamiainen"],
+    "ingredients": [
+      "4 rkl rypsiöljyä",
+      "4 rkl vehnäjauhoja",
+      "5 dl maitoa",
+      "2 rkl soijapohjaisia pekonimuruja",
+      "1 rkl voita",
+      "suolaa (tai maustesuolaa)",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy paistinpannulla keskilämmöllä.",
+      "Lisää jauhot, sekoittaen jatkuvasti, ja anna kypsyä, kunnes seos on hieman ruskistunut. Näin syntyy roux.",
+      "Lisää maito vähitellen, vatkaten jatkuvasti, jotta kokkareita ei synny.",
+      "Lisää pekonimurut ja jatka kypsennystä, kunnes kastike sakenee.",
+      "Kun kastike on sakeaa, nosta pois liedeltä ja sekoita joukkoon voi. Mausta suolalla ja pippurilla.",
+      "Tarjoile leivän tai sämpylän päällä."
+    ]
+  },
+  {
+    "id": "wikibooks-gravy-cakes-hartshorne",
+    "skip": "liian epämääräinen ja vanhanaikainen ohje (mittana mm. 'kulhollinen', 24 tunnin keitto ja lihakakkujen kuivatus paperipusseissa) – ei toteutettavissa nykykeittiössä"
+  },
+  {
+    "id": "wikibooks-greek-chicken-wrap",
+    "title": "Kreikkalainen kanawrap",
+    "description": "Kylmänä tarjottava wrap, jossa yhdistyvät silputtu kana, feta, jogurttikastike ja oregano.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "kreikkalainen", "nopea"],
+    "ingredients": [
+      "5 dl silputtua kypsää kanaa",
+      "6 dl murustettua fetajuustoa",
+      "1¼ dl kreikkalaista jogurttikastiketta",
+      "1¼ dl tuoretta oreganoa, hienonnettuna",
+      "4 kpl vehnätortillaa",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Yhdistä feta, kana, jogurttikastike ja oregano. Jätä sivuun.",
+      "Sivele tortillan toinen puoli oliiviöljyllä. Lisää neljäsosa kanaseoksesta ja rullaa pitemmältä reunalta.",
+      "Toista, kunnes kaikki tortillat on rullattu.",
+      "Ripottele päälle lisää hienonnettua oreganoa ja tarjoile kylmänä välipalana."
+    ],
+    "notes": ["Voit tehdä tämän myös pitaleivillä perinteisempää versiota varten."]
+  },
+  {
+    "id": "wikibooks-greek-moussaka",
+    "title": "Kreikkalainen moussaka",
+    "description": "Kerroksittain rakennettu uunipata, jossa munakoisoviipaleet, mausteinen jauhelihakastike ja juustoinen kermaviilikastike paistetaan yhdessä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 100,
+    "category": "Pääruoat",
+    "tags": ["liha", "kreikkalainen", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1 iso munakoiso",
+      "suolaa",
+      "kreikkalaista oliiviöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "3 rkl oliiviöljyä",
+      "1 kg naudan tai lampaan jauhelihaa",
+      "1 tlk (800 g) tomaattikuutioita",
+      "2½ dl punaviiniä",
+      "2 rkl tuoretta persiljaa, hienonnettuna",
+      "2 rkl tuoretta kreikkalaista basilikaa, hienonnettuna (valinnainen)",
+      "2 laakerinlehteä",
+      "1 tl sokeria",
+      "1 kanelitanko",
+      "mustapippuria",
+      "2 rkl tomaattipyreetä",
+      "Kastike:",
+      "3 rkl voita",
+      "4 rkl vehnäjauhoja",
+      "5 dl maitoa",
+      "ripaus muskottipähkinää, kanelia ja mustapippuria",
+      "1¼ dl raastettua parmesaania",
+      "2½ dl raastettua juustoa (esim. edamia)",
+      "1 kananmuna"
+    ],
+    "instructions": [
+      "Leikkaa munakoiso 5 mm:n viipaleiksi. Levitä viipaleet esiin ja ripottele runsaasti suolaa. Tämä poistaa kitkeryyden. Anna olla näin vähintään tunnin.",
+      "Kuumenna oliiviöljyä kattilassa ja lisää sipuli ja valkosipuli. Kuullota, kunnes sipuli alkaa muuttaa väriään. Lisää liha ja ruskista kunnolla.",
+      "Lisää laakerinlehdet ja kanelitanko, ja jatka lihan sekoittamista, kunnes kaikki kosteus on haihtunut.",
+      "Lisää tomaatit, yrtit ja tomaattipyree. Sekoita ja anna kypsyä 15 minuuttia, sekoittaen välillä.",
+      "Lisää viini ja jatka kypsennystä, kunnes kastike on hyvin paksua ja lähes kuivaa. Poista laakerinlehdet ja kanelitanko, ja anna jäähtyä.",
+      "Sulata toisessa kattilassa voi miedolla lämmöllä. Ota pois liedeltä ja lisää jauhot. Sekoita hyvin, palauta liedelle ja kypsennä hiljalleen 3 minuuttia jatkuvasti sekoittaen, ettei pala. Ota pois liedeltä ja lisää maito. Sekoita, palauta liedelle ja anna kiehahtaa. Anna kypsyä miedolla lämmöllä minuutin verran sekoittaen. Ota pois liedeltä, lisää juustot, muskottipähkinä, kaneli ja pippuri, ja sekoita. Anna jäähtyä.",
+      "Huuhtele munakoisoviipaleet juoksevalla vedellä ja kuivaa talouspaperilla. Kuumenna oliiviöljyä paistinpannulla. Paista munakoisoviipaleet nopeasti molemmin puolin kuumassa öljyssä, kunnes ne ovat kypsiä (väri muuttuu ja viipaleet pehmenevät). Valuta ja toista lopuille viipaleille.",
+      "Levitä isoon uunivuokaan kerros munakoisoviipaleita pohjalle. Peitä kerroksella lihakastiketta. Jatka kerrostamista munakoisolla ja lihakastikkeella, kunnes vuoka on täynnä noin 3 cm:n päähän reunasta.",
+      "Lisää kananmuna jäähtyneeseen juustokastikkeeseen ja sekoita hyvin. Lusikoi seos päällimmäiseksi kerrokseksi ja ripottele päälle lisää raastettua juustoa. Paista 200 asteessa 45 minuuttia. Ota uunista ja anna jäähtyä ja asettua 10 minuuttia.",
+      "Tarjoile kreikkalaisen salaatin, punaviinin ja rapean valkosipulileivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-greek-salad",
+    "title": "Kreikkalainen salaatti",
+    "description": "Raikas salaatti tomaatista, kurkusta, sipulista ja oliiveista, jota tarjoillaan fetajuustoviipaleen ja oreganon kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["salaatti", "kreikkalainen", "kasvis", "nopea"],
+    "ingredients": [
+      "punaisia tomaatteja, paloiteltuna",
+      "kurkkua, viipaloituna",
+      "punaista tai valkoista sipulia, ohuiksi puolikuiksi viipaloituna",
+      "vihreää paprikaa, pieniksi paloiksi leikattuna",
+      "kreikkalaisia oliiveja",
+      "ekstra-neitsytoliiviöljyä",
+      "etikkaa tai sitruunamehua",
+      "suolaa",
+      "fetajuustoa",
+      "oreganoa"
+    ],
+    "instructions": [
+      "Yhdistä tomaatit, kurkut, sipulit, paprika ja oliivit syvässä kulhossa.",
+      "Lisää riittävästi oliiviöljyä, etikkaa tai sitruunamehua ja suolaa maun mukaan. Sekoita aineksia noin puoli minuuttia.",
+      "Aseta fetajuustoviipale päälle ja mausta lorauksella oliiviöljyä.",
+      "Viimeistele oreganolla halutessasi."
+    ]
+  },
+  {
+    "id": "wikibooks-greek-yogurt-sauce",
+    "title": "Kreikkalainen jogurttikastike",
+    "description": "Monikäyttöinen kastike gyroksiin, lampaan ja sian grillauksen sivelemiseen sekä dippikastikkeeksi perunalastuille.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "kreikkalainen", "kasvis"],
+    "ingredients": [
+      "3½ dl paksua luonnonjogurttia",
+      "½ dl tuoretta sitruunamehua",
+      "½ dl ekstra-neitsytoliiviöljyä",
+      "2 rkl kuivattua oreganoa",
+      "1 rkl hienonnettua valkosipulia",
+      "suolaa",
+      "mustapippuria",
+      "¼ pientä punasipulia, hienonnettuna",
+      "1½ tl tuoretta rosmariinia, hienonnettuna",
+      "2 rkl hienonnettua lehtipersiljaa"
+    ],
+    "instructions": [
+      "Soseuta kaikki ainekset monitoimikoneessa, kunnes seos on melko tasaista.",
+      "Kaada tarjoilukulhoon ja tarjoile kreikkalaistyylisen ruoan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-greek-style-grilled-chicken",
+    "title": "Kreikkalaistyylinen grillikana",
+    "description": "Oreganolla, timjamilla ja minttuhiutaleilla maustettu grillikana, jota paistetaan hiiligrillissä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "kreikkalainen", "grilliruoka"],
+    "ingredients": [
+      "1 kokonainen broileri (n. 1,4–1,8 kg), paloiteltuna",
+      "1 rkl kuivattua oreganoa",
+      "1 rkl kuivattua timjamia",
+      "1 rkl kuivattuja minttuhiutaleita",
+      "2 tl kuivattua rosmariinia",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl valkosipulijauhetta",
+      "ekstra-neitsytoliiviöljyä"
+    ],
+    "instructions": [
+      "Sivele kanapalat oliiviöljyllä. Jätä sivuun.",
+      "Yhdistä kaikki loput ainekset ja hiero ne kanaan. Anna marinoitua jääkaapissa vähintään tunti.",
+      "Lämmitä grillihiiliä (n. 28 kpl) ja levitä ne tasaisesti grillin pohjalle. Aseta grillin ritilä takaisin paikalleen.",
+      "Lisää kana ja kypsennä usein käännellen, kunnes rintapalan sisälämpötila on 74 astetta ja koipipalan 77 astetta.",
+      "Siirrä lautaselle ja peitä foliolla. Anna levätä 10 minuuttia ennen tarjoilua lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-green-bean-casserole",
+    "title": "Vihreä papulaatikko",
+    "description": "Vuonna 1955 Campbell Soup -yhtiön kehittämä laatikkoruoka, josta on tullut suosittu kiitospäivän lisuke Yhdysvalloissa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "pavut", "amerikkalainen", "juhla"],
+    "ingredients": [
+      "2 l kypsiä vihreitä papuja",
+      "2½ dl maitoa",
+      "6½ dl purkitettuja ranskalaisia sipulirenkaita, kahteen osaan jaettuna",
+      "¼ tl mustapippuria",
+      "2 tlk (á n. 600 g) sienikeittotiivistettä",
+      "2 tl soijakastiketta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Sekoita isossa uunivuoassa pavut, maito, puolet sipulirenkaista, pippuri, keittotiiviste ja soijakastike.",
+      "Paista kuumaksi, noin 25 minuuttia.",
+      "Ripottele päälle loput sipulirenkaat.",
+      "Paista vielä 5 minuuttia."
+    ],
+    "notes": [
+      "Sienikeittotiiviste voi olla tavallinen tai vähäsuolainen.",
+      "Voit käyttää myös muita kermaisia keittotiivisteitä, kuten sipuli- tai perunakeittoa.",
+      "Jos pidät juustosta, korvaa soijakastike 1¼ dl:lla raastettua juustoa.",
+      "1¼ dl hienonnettua punaista paprikaa tekee laatikosta värikkään."
+    ]
+  },
+  {
+    "id": "wikibooks-green-bean-casserole-vegan",
+    "title": "Vihreä papulaatikko (vegaaninen)",
+    "description": "Vegaaninen versio klassisesta papulaatikosta, jossa kermainen kastike tehdään sienistä, palsternakasta ja ravintohiivasta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "pavut", "lisuke"],
+    "ingredients": [
+      "½ dl ravintohiivaa",
+      "½ tl chilihiutaleita",
+      "1 punasipuli, viipaloituna",
+      "1 rkl kookosöljyä",
+      "1½ tl suolaa",
+      "3½ dl vettä",
+      "3½ dl paloiteltuja sieniä",
+      "700 g vihreitä papuja",
+      "5 dl paloiteltua palsternakkaa",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Lisää leveäpohjaiseen kattilaan ½ ruokalusikallista kookosöljyä ja aseta miedolle lämmölle. Lisää sipuli ja kypsennä 30 minuuttia. Sekoita välillä karamellisoitumisen edistämiseksi. Jos sipuli näyttää kuivalta, lisää hieman vettä pannulle.",
+      "Höyrytä palsternakkaa noin 10 minuuttia. Jätä sivuun jäähtymään.",
+      "Poista vihreiden papujen päät ja leikkaa ne noin 5 cm:n paloiksi. Höyrytä 8 minuuttia. Aseta sivuun 20 × 20 cm:n uunivuokaan.",
+      "Kun sipuli on karamellisoitunut, nosta se sivuun. Paista sieniä samalla pannulla minuutin ajan.",
+      "Lisää valkosipuli ja sekoita 5 minuuttia.",
+      "Lisää puolet valkosipuli-sieniseoksesta vihreiden papujen joukkoon.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Laita toinen puoli valkosipuli-sieniseoksesta sekä höyrytetty palsternakka tehosekoittimeen. Lisää ravintohiiva, suola, pippuri ja chilihiutaleet. Soseuta sileäksi.",
+      "Kaada soseutettu seos papujen ja sienten päälle. Sekoita, että kaikki peittyy, ja lisää päälle karamellisoitu sipuli.",
+      "Paista 30 minuuttia.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-green-bean-casserole-with-pimento",
+    "title": "Vihreä papulaatikko pimientojen kanssa",
+    "description": "Nopea laatikko, jossa säilykepavut ja pienet sipulit yhdistyvät sienikastikkeeseen ja rapeaan korppujauhokuorrutukseen.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "pavut", "nopea", "uuniruoka"],
+    "ingredients": [
+      "1 tlk (410 g) ranskalaistyylisiä vihreitä papuja, valutettuna",
+      "1 tlk (430 g) pieniä kokonaisia sipuleita, valutettuna",
+      "2 rkl pilkottua pimientoa, valutettuna",
+      "1 tlk (305 g) sienikeittotiivistettä",
+      "½ dl hienoa korppujauhoa",
+      "½ dl raastettua parmesaania"
+    ],
+    "instructions": [
+      "Yhdistä kevyesti voidellussa n. 1,5 litran uunivuoassa pavut, sipulit, pimiento ja sienikeittotiiviste.",
+      "Sekoita kuorrutuksen ainekset keskenään; ripottele laatikon päälle.",
+      "Paista peittämättä 175 asteessa 25–30 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-green-beans-with-tomato-and-onion-boranija",
+    "title": "Boranija (serbialaiset vihreät pavut tomaatin ja sipulin kanssa)",
+    "description": "Boranija on serbiaa ja tarkoittaa 'vihreitä papuja'. Tämä helppo ja raikas ruoka maistuu hyvältä leivän kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "pavut", "serbialainen", "nopea"],
+    "ingredients": [
+      "vihreitä papuja, kärjet poistettuna",
+      "öljyä",
+      "sipulia, hienonnettuna",
+      "tomaatteja, kuorittuna ja paloiteltuna",
+      "suolaa",
+      "valkosipulia, hienonnettuna",
+      "luonnonjogurttia"
+    ],
+    "instructions": [
+      "Keitä vihreät pavut suolatussa vedessä. Valuta.",
+      "Kuumenna öljy pannussa keski-korkealla lämmöllä.",
+      "Lisää hienonnettu sipuli pannulle. Kypsennä, kunnes sipuli on läpikuultavaa.",
+      "Lisää paloiteltu tomaatti pannulle. Kuumenna läpi ja mausta suolalla maun mukaan.",
+      "Lisää pavut pannulle ja kuumenna läpi.",
+      "Sekoita joukkoon hienonnettu valkosipuli juuri ennen tarjoilua.",
+      "Tarjoile jogurtin kanssa."
+    ],
+    "notes": [
+      "Voit käyttää kuorittua purkkitomaattia ja säilykepapuja nopeampaan versioon, tai tuoreita aineksia hienostuneempaan tulokseen.",
+      "Paras lopputulos saadaan paksulla jogurtilla, kuten kreikkalaisella jogurtilla."
+    ]
+  },
+  {
+    "id": "wikibooks-green-chicken-curry-with-coconut-milk",
+    "title": "Vihreä kanacurry kookosmaidolla",
+    "description": "Tuoreesta curry-tahnasta valmistettu mausteinen kanacurry, jota tarjoillaan riisin kanssa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kana", "thaimaalainen", "curry"],
+    "ingredients": [
+      "2 rkl kuivattuja korianterinsiemeniä",
+      "1 rkl mustapippuria",
+      "chiliä maun mukaan",
+      "2 cm tuoretta inkivääriä",
+      "tuoretta korianteria",
+      "2 isoa valkosipulinkynttä",
+      "3 rkl hienonnettua sipulia",
+      "1–5 vartta sitruunaruohoa, karkeasti paloiteltuna",
+      "öljyä paistamiseen",
+      "3–4 isoa purjoa, karkeasti paloiteltuna",
+      "2 vihreää paprikaa",
+      "1–2 tlk kookosmaitoa",
+      "valkosipulia",
+      "soijakastiketta",
+      "850 g kuutioitua broilerin lihaa",
+      "basilikaa",
+      "suolaa",
+      "1 rkl kalakastiketta (valinnainen)"
+    ],
+    "instructions": [
+      "Jauha kaikki curry-tahnan ainekset yhteen huhmareessa.",
+      "Paista curry-tahnaa öljyssä isossa padassa muutama minuutti. Lisää purjo ja paprika. Hetken kuluttua lisää kookosmaito, peitä ja hauduta 20–30 minuuttia.",
+      "Sillä aikaa murskaa valkosipuli kulhoon hieman soijakastiketta ja sekoita joukkoon kanakuutiot. Anna marinoitua.",
+      "Paista marinoitu liha öljyssä.",
+      "Lisää kypsennetty liha curry-pataan, mausta sitten basilikalla, suolalla ja kalakastikkeella maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-green-chili-beef-stew",
+    "title": "Vihreä chili-naudanlihapata",
+    "description": "New Mexicon oma pata-annos, jolla on yhtä monta muunnelmaa kuin tekijöitäkin. Tarjoillaan yleensä tortillojen tai sopaipillojen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "meksikolainen"],
+    "ingredients": [
+      "900 g naudan muhennuslihaa, kuutioituna",
+      "2 rkl rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "6 vihreää chiliä, paahdettuna ja kuorittuna",
+      "2 perunaa, kuorittuna ja kuutioituna",
+      "7½–10 dl vettä",
+      "¼ tl kuivattua oreganoa",
+      "2½ dl paloiteltua sellerinvartta",
+      "1 tlk (425 g) maissia"
+    ],
+    "instructions": [
+      "Kuumenna öljy pannussa. Lisää naudanlihakuutiot ja ruskista joka puolelta. Siirrä ruskistettu liha pataan.",
+      "Lisää sipuli pannulle ja kuullota, kunnes se on ruskistunut.",
+      "Lisää valkosipuli sipulin joukkoon ja kypsennä vielä pari minuuttia.",
+      "Siirrä valkosipuli ja sipuli pataan lihan kanssa.",
+      "Lisää kaikki loput ainekset. Kiehauta, alenna sitten lämpöä ja hauduta 1–2 tuntia tai kunnes liha on hyvin mureaa.",
+      "Tarjoile."
+    ],
+    "notes": ["Maissin määrän voi tuplata halutessaan."]
+  },
+  {
+    "id": "wikibooks-green-eggs-and-ham",
+    "title": "Vihreät munat ja kinkku",
+    "description": "Hauska, Tohtori Seussin innoittama ruoka, jossa kinkkukoipi keitetään vihreäksi värjätyssä vedessä ja munien keltuaiset haudutetaan sinisessä vedessä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["hauska", "juhla", "liha"],
+    "ingredients": [
+      "1 iso raaka kinkkukoipi",
+      "2 kananmunaa",
+      "vihreää elintarvikeväriä",
+      "sinistä elintarvikeväriä"
+    ],
+    "instructions": [
+      "Laita kinkkukoipi kattilalliseen vettä. Lisää vihreää elintarvikeväriä valmistajan ohjeiden mukaan.",
+      "Kiehauta ja hauduta 60–90 minuuttia.",
+      "Nosta kinkkukoipi pois ja anna jäähtyä hieman.",
+      "Poista nahka varovasti, jättäen rasvakerros ehjäksi.",
+      "Jos koipi on jo halutun vihreä, aseta se tarjoiluvadille. Jos ei, palauta liemeen ja lisää väriä, kunnes haluttu sävy saavutetaan. Siirrä sitten vadille.",
+      "Erottele munat valkuaisiksi ja keltuaisiksi.",
+      "Hauduta keltuaiset vedessä, johon on lisätty sinistä elintarvikeväriä.",
+      "Hauduta valkuaiset värittömässä vedessä.",
+      "Aseta valkuaiset vadille kinkkukoipien viereen ja keltuaiset valkuaisten päälle.",
+      "Tarjoile kolmipiikkisellä haarukalla."
+    ]
+  },
+  {
+    "id": "wikibooks-green-leaf-juice",
+    "title": "Vihreä lehtimehu",
+    "description": "Vihreistä lehtivihanneksista, hedelmistä ja yrteistä tehty mehu. Ananas ja lime tuovat raikasta sitruksisuutta, ja inkivääri lisää makuun monimutkaisuutta.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["mehu", "kasvis", "vegaaninen", "nopea"],
+    "ingredients": [
+      "1¼ dl tuoretta limemehua",
+      "490 g ananasta (n. puolikas)",
+      "238 g lehtimangoldia tai lehtikaalta (n. 6 lehteä)",
+      "124 g tuoretta korianteria (n. 1 nippu)",
+      "26 g tuoretta inkivääriä"
+    ],
+    "instructions": [
+      "Purista limemehu astiaan, johon mehulingon mehu valuu.",
+      "Paloittele ananas, poistaen piikikkään kuoren, latvan, pohjan ja kuitumaisen keskiosan.",
+      "Leikkaa ananas pitkiksi ohuiksi suikaleiksi, jotka mahtuvat helposti mehulinkoon. Linkoa ananas.",
+      "Revi lehtivihannekset pienemmiksi paloiksi, jotka mahtuvat mehulinkoon helposti. Linkoa lehdet.",
+      "Linkoa koriantteri.",
+      "Linkoa inkivääri.",
+      "Sekoita mehuseos hyvin ja tarjoile vihreä mehu jään päällä."
+    ],
+    "notes": [
+      "Lehtikaalia voi käyttää mangoldin tai muiden lehtikaalien sijaan, mutta se on kitkerämpää.",
+      "Mitat on annettu tarkkoina, mutta tarkkaa mittaamista ei tarvita."
+    ]
+  },
+  {
+    "id": "wikibooks-green-mango-and-cumin-drink-aam-panna",
+    "title": "Aam panna (vihreän mangon ja juustokuminan juoma)",
+    "description": "Pohjois-Intiassa kesäisin suosittu virkistävä vihreän mangon juoma, jolla uskotaan olevan useita terveysvaikutuksia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": ["juoma", "intialainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "4 keskikokoista raakaa (vihreää) mangoa",
+      "1¼ dl sokeria",
+      "2 rkl karkeaa kivisuolaa",
+      "1 tl paahdettuja juustokuminansiemeniä",
+      "1 paahdettu chili (valinnainen)",
+      "kourallinen tuoreita minttulehtiä"
+    ],
+    "instructions": [
+      "Leikkaa mangot kolmeen viipaleeseen – kaksi siemenen kummaltakin puolelta ja yksi siemenen kanssa.",
+      "Paineista mangot pienen kupillisen vettä kanssa. Sammuta lämpö heti, kun paineistin viheltää kerran.",
+      "Avaa paineistin 5–7 minuutin kuluttua ja anna jäähtyä.",
+      "Jauha sokeri ja paahdetut juustokuminansiemenet monitoimikoneessa. Jauha myös chili, jos käytät sitä.",
+      "Hienonna minttulehdet monitoimikoneessa.",
+      "Kun mangot ovat jäähtyneet, purista niiden hedelmäliha käsin tehosekoittimeen. Heitä pois kuori ja siemenet.",
+      "Soseuta mangohedelmäliha sileäksi.",
+      "Lisää jauhettu sokeri, kivisuola, juustokuminansiemenet, chilijauhe ja hienonnetut minttulehdet. Sekoita hyvin.",
+      "Säilytä puhtaassa muovi- tai lasipullossa. Säilytä jääkaapissa.",
+      "Tarjoillaksesi, lisää 4–5 teelusikallista mangoseosta lasilliseen vettä. Nauti!"
+    ],
+    "notes": ["Paineistamisen sijaan voit paahtaa mangot kokonaisina avotulella, kunnes kuori on hiiltynyt ja hedelmäliha pehmeää. Hiiltynyt kuori irtoaa helposti ja hedelmälihan voi puristaa käsin ulos. Tämä antaa ruoalle mukavan savuisen maun."]
+  },
+  {
+    "id": "wikibooks-green-tea-and-berry-pavlovas",
+    "title": "Vihreän teen ja marjojen pavlovat",
+    "description": "Nämä yksittäiset pavlovat ovat kaunis ja tasapainoinen jälkiruoka, jossa yhdistyvät makea rapea marenki, rikas vatkattu kerma, hapokas sitruunavoikurkku ja marjat, sekä matchan hienovarainen kitkeryys. Osia on monta, mutta mikään niistä ei ole erityisen vaikea valmistaa, ja monta osaa voi tehdä etukäteen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "marenki", "marjat", "juhla"],
+    "ingredients": [
+      "Marenki:",
+      "4 kananmunan valkuaista",
+      "2½ dl sokeria",
+      "ripaus suolaa",
+      "1 rkl matchajauhetta, siivilöitynä",
+      "Sitruunavoikurkku:",
+      "4 kananmunan keltuaista",
+      "1¼ dl sokeria",
+      "1¼ dl tuoretta sitruunamehua, siivilöitynä",
+      "raastettua sitruunankuorta",
+      "4 rkl voita",
+      "Marjakompotti:",
+      "450 g pakastettuja sekamarjoja (mustikkaa, karhunvatukkaa, vadelmaa)",
+      "1 rkl maissitärkkelystä",
+      "ripaus kanelia",
+      "sitruunamehua",
+      "sokeria",
+      "Kermavaahto:",
+      "2½ dl kylmää kuohukermaa",
+      "¼ tl vaniljauutetta",
+      "1–2 rkl tomusokeria",
+      "Koristeluun:",
+      "tuoreita marjoja (mustikkaa, karhunvatukkaa, vadelmaa)",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Kiehauta kattilassa pari senttiä vettä.",
+      "Vatkaa kulhossa munanvalkuaiset, sokeri ja suola.",
+      "Aseta kulho kiehuvan veden päälle niin, ettei kulhon pohja kosketa vettä.",
+      "Sekoita, kunnes sokeri on liuennut. Hankaa pieni määrä seosta sormien välissä – sen tulisi olla lämmintä eikä rakeista. Älä anna valkuaisten hyytyä.",
+      "Nosta kulho pois liedeltä. Vatkaa munanvalkuaiset sähkövatkaimella kovaksi vaahdoksi.",
+      "Vatkaa joukkoon matcha noin 30 sekunnin ajan. Sekoita lastalla, jotta kaikki yhdistyy tasaisesti.",
+      "Vuoraa uunipelti leivinpaperilla. Pursota tai lusikoi marenkitilkkuja leivinpaperille – koko on makuasia, mutta niiden tulisi olla annoskokoisia.",
+      "Paina lusikan kuperalla puolella pieni kuoppa jokaisen marengin keskelle täytteitä varten – pyöräytä lusikkaa ja vedä se viistosti pois sen sijaan, että vain painaisit ja nostaisit.",
+      "Paista marenkeja 80 asteessa 2–3 tuntia tai kunnes ne ovat kuivia pinnalta ja irtoavat helposti leivinpaperista. Sammuta uuni ja anna niiden kuivua uunissa vielä noin 8 tuntia.",
+      "Säilytä marengit ilmatiiviissä rasiassa käyttöön asti.",
+      "Yhdistä keltuaiset ja sokeri kuumuudenkestävässä kulhossa. Vatkaa joukkoon sitruunamehu ja kuori.",
+      "Aseta kulho marengin tapaan kiehuvan veden päälle. Sekoita, kunnes kaikki sokeri on liuennut ja seos on kuumaa ja läpikuultavan keltaista (useita minuutteja). Seoksen tulisi sakeutua hieman, mutta ei merkittävästi. Älä anna sen hyytyä.",
+      "Nosta kulho pois kiehuvan veden päältä. Lisää voi ja vatkaa, kunnes se on täysin sekoittunut.",
+      "Siivilöi kurkku ja anna jäähtyä.",
+      "Jäähdytä jääkaapissa – se sakeutuu hieman lisää.",
+      "Sekoita pakastetut marjat ja maissitärkkelys, ja siirrä kattilaan.",
+      "Lisää kaneli ja ½ dl sokeria aluksi, aseta sitten pata keskilämmölle.",
+      "Kypsennä marjoja sekoittaen ajoittain, kunnes ne alkavat vapauttaa mehuaan ja hajota.",
+      "Lisää sitruunamehua ja sokeria maun mukaan – kompotin ei pitäisi olla liian makeaa tai hapanta, koska sitä tarjoillaan marengin ja sitruunavoikurkun kanssa.",
+      "Anna hautua minuutti tai kaksi, varoen, ettei pohjaan pala.",
+      "Jos haluat, muusaa jäljellä olevat kokonaiset marjat haarukalla.",
+      "Anna jäähtyä kokonaan ja säilytä jääkaapissa.",
+      "Kun kokoat pavlovia, yhdistä kylmä kerma, vanilja ja 1 rkl tomusokeria kulhossa.",
+      "Vatkaa, kunnes seos alkaa sakeutua ja vaahdota. Maista ja lisää sokeria halutessasi.",
+      "Jatka vatkaamista, kunnes kerma on pehmeää vaahtoa – älä anna sen muuttua rakeiseksi tai juoksettua.",
+      "Käytä mahdollisimman pian.",
+      "Lusikoi sitruunavoikurkkua lautaselle ja vedä se koristeellisesti lautasen poikki lusikalla.",
+      "Aseta yksi marenki koristeellisesti sitruunavoikurkun päälle.",
+      "Lusikoi kermavaahtoa marengin kuoppaan ja lisää päälle hieman marjakompottia.",
+      "Asettele tuoreita marjoja koristeellisesti päälle ja siivilöi hieman tomusokeria annoksen ylle.",
+      "Tarjoile mahdollisimman pian, sillä marenki pehmenee kerman alla."
+    ],
+    "notes": ["Matchajauheen voi halutessaan jättää pois."]
+  }
+]

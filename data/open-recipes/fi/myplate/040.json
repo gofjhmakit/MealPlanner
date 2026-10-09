@@ -1,0 +1,737 @@
+[
+  {
+    "id": "myplate-turnip-pancakes",
+    "title": "Nauripannukakut",
+    "description": "Hieno tapa kokeilla naurista. Täynnä vihanneksia ja makua, nauripannukakut miellyttävät kaikenikäisiä.",
+    "servings": 6,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "vegaaninen", "aamiainen"],
+    "ingredients": [
+      "Pannukakut:",
+      "2½ dl vehnäjauhoja",
+      "½ tl mustapippuria",
+      "1 kananmuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "1¾ dl vettä",
+      "5 dl naurista, raastettuna",
+      "2½ dl porkkanaa, raastettuna",
+      "1¼ dl kevätsipulia, ohuiksi suikaleiksi viipaloituna",
+      "2 rkl rypsiöljyä (paistamiseen)",
+      "Kastike:",
+      "2 rkl vähäsuolaista soijakastiketta",
+      "2 rkl riisietikkaa",
+      "2 tl fariinisokeria, tiiviisti mitattuna",
+      "2 rkl kevätsipulia, ohuiksi suikaleiksi viipaloituna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita isossa kulhossa jauhot, pippuri, kananmuna, valkosipuli, soijakastike ja vesi tasaiseksi.",
+      "Lisää joukkoon nauris, porkkana ja kevätsipuli. Kuumenna puolet öljystä isossa paistinpannussa keskilämmöllä (175 astetta, jos käytät sähköpannua).",
+      "Kaada noin ½ dl taikinaa per pannukakku pannulle.",
+      "Litistä haarukalla n. 7½ cm ympyräksi.",
+      "Paista, kunnes reunat näyttävät kuivilta ja pohja on kullanruskea, noin 3–4 minuuttia.",
+      "Käännä kerran.",
+      "Paista, kunnes pohja on kullanruskea ja rapea.",
+      "Toista lopulla taikinalla, lisäten tarvittaessa jäljellä olevaa öljyä.",
+      "Pannukakut jäävät keskeltä mehukkaiksi.",
+      "Sekoita kastikkeen ainekset pienessä kulhossa.",
+      "Tarjoa lämpimien pannukakkujen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-turtle-apple",
+    "title": "Kilpikonnaomena",
+    "description": "Tämä yksinkertainen ja hauska välipala tehdään vain tuoreista omenoista ja säilykemandariineista.",
+    "servings": 2,
+    "category": "Välipalat",
+    "tags": ["kasvis", "vegaaninen", "lapsille", "hedelmä"],
+    "ingredients": [
+      "1 omena (pieni tai keskikokoinen)",
+      "10 viipaletta mandariiniappelsiinia, valutettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese omena.",
+      "Leikkaa puoliksi.",
+      "Aseta omenanpuolikas pienen lautasen keskelle.",
+      "Lisää mandariiniviipaleet omenan viereen jaloiksi, raajoiksi ja pääksi.",
+      "Nauti kilpikonnaomenastasi."
+    ]
+  },
+  {
+    "id": "myplate-tuscan-potato-skillet",
+    "title": "Toscanalainen perunapannu",
+    "description": "Sitruunankuori, valkosipuli ja rosmariini tuovat ihastuttavan toscanalaisen twistin tähän vihreiden papujen, perunan ja kanan pannuruokaan. Parasta tässä? Tarvitset vain yhden pannun, mikä tekee arki-illan suosikista myös siivouksen suhteen helpon!",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "nopea"],
+    "ingredients": [
+      "10 pientä punaista perunaa",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "450 g kanan paloja",
+      "2 rkl extra-virgin-oliiviöljyä, jaettuna",
+      "1 rkl tuoretta rosmariinia, hienonnettuna (tai 1 tl kuivattua rosmariinia)",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "6 dl pakastettuja vihreitä papuja, sulatettuna",
+      "1 sitruuna, kuorittuna ja mehustettuna"
+    ],
+    "instructions": [
+      "Leikkaa kukin peruna neljään lohkoon.",
+      "Laita isoon mikroaaltouunin kestävään kulhoon ja mausta suolalla ja pippurilla.",
+      "Kypsennä mikrossa täydellä teholla 4 minuuttia.",
+      "Sekoita ja kypsennä vielä 4 minuuttia.",
+      "Kun perunat kypsyvät, leikkaa kukin kanapala neljään yhtä suureen osaan.",
+      "Kuumenna 1 rkl öljyä isossa paistinpannussa keski-kovalla lämmöllä.",
+      "Lisää kana ja kypsennä 5 minuuttia tai kunnes kauniisti ruskistunut, sekoittaen usein.",
+      "Lisää loppuöljy ja perunat; kypsennä ja sekoita vielä 5 minuuttia, jotta perunat ruskistuvat ja kana kypsyy läpi.",
+      "Lisää joukkoon rosmariini, valkosipuli, vihreät pavut, sitruunankuori ja -mehu.",
+      "Kypsennä vielä muutama minuutti, kunnes kuumaa.",
+      "Mausta suolalla ja pippurilla maun mukaan."
+    ]
+  },
+  {
+    "id": "myplate-two-bean-chili",
+    "title": "Kahden pavun chili",
+    "description": "Tämä vaivaton chili on hieno tapa käyttää naudan jauhelihaa ja papuja maukkaaksi pääruoaksi. Chiliä voi tarjota sellaisenaan, keksien, keitetyn riisin tai uuniperunan kanssa.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["liha", "keitto"],
+    "ingredients": [
+      "225 g naudan jauhelihaa",
+      "½ tlk (n. 225 g) vähäsuolaisia kidneypapuja, valutettuna",
+      "½ tlk (n. 225 g) vähäsuolaisia kasvispapuja",
+      "1¼ dl sipulia, kuutioituna",
+      "1 tl chilijauhetta",
+      "6 dl vähäsuolaista tomaattimehua",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Ruskista jauheliha keskikokoisessa kattilassa keski-kovalla lämmöllä 8–10 minuuttia.",
+      "Valuta rasva pois.",
+      "Lisää kidneypavut, kasvispavut, sipuli, chilijauhe, tomaattimehu ja pippuri.",
+      "Kypsennä miedolla lämmöllä noin 40 minuuttia.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-and-rice-skillet-meal",
+    "title": "Vihannes-riisipannuruoka",
+    "description": "Helppo ja herkullinen yhden padan ruoka, josta riittää myös runsaasti tähteitä!",
+    "servings": 10,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen"],
+    "ingredients": [
+      "2 tl rypsiöljyä (tai muuta ruokaöljyä)",
+      "1 sipuli, hienonnettuna",
+      "1 tl inkivääriä, jauhettuna",
+      "½ tl kurkumaa",
+      "½ tl juustokuminaa",
+      "5 dl vihannessekoitusta, paloiteltuna (kukkakaalia, paprikaa, porkkanaa tai herneitä)",
+      "1 iso ruokaperuna, kuutioituna",
+      "2½ dl valkoista riisiä, keittämättömänä",
+      "6 dl vettä",
+      "1 tlk (440 g) vähäsuolaisia kidneypapuja, valutettuna ja huuhdeltuna",
+      "suolaa (½ tl, valinnainen)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy isossa pannussa keskilämmöllä.",
+      "Lisää sipuli, inkivääri, kurkuma ja juustokumina, sekoittaen 1 minuutin ajan.",
+      "Lisää loput ainekset.",
+      "Kuumenna kiehuvaksi, peitä ja laske lämpö.",
+      "Hauduta 20–25 minuuttia.",
+      "Tarjoa kuumana.",
+      "Laita tähteet jääkaappiin 2–3 tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-and-turkey-stir-fry",
+    "title": "Vihannes-kalkkunawokki",
+    "description": "Kypsennetty kalkkuna yhdistettynä suosikkipakastevihanneksiisi tarkoittaa, että tämän wokkiruoan saa nopeasti kasaan terveelliseksi arki-illan illalliseksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "aasialainen", "nopea"],
+    "ingredients": [
+      "1 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "2 ohutta viipaletta inkivääriä, hienonnettuna",
+      "1 valkosipulinkynsi, kuorittuna ja hienonnettuna",
+      "450 g kypsennettyä kalkkunaa, 1¼ cm kuutioiksi leikattuna",
+      "2 pussia (280 g kukin) pakastevihanneksia, paloiteltuna (tai tuoreita)",
+      "½ tl suolaa",
+      "½ tl sokeria",
+      "vettä (tarvittaessa)",
+      "Valinnainen kastike:",
+      "1 rkl maissitärkkelystä",
+      "2 tl vähäsuolaista soijakastiketta",
+      "1¼ dl vähäsuolaista kanalientä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy isossa paistinpannussa kovalla lämmöllä.",
+      "Lisää inkivääri, valkosipuli, kalkkuna, vihannekset ja suola.",
+      "Paista nopeasti noin minuutin ajan, jotta ainekset peittyvät öljyllä.",
+      "Säädä lämpöä, ettei ruoka pala.",
+      "Lisää sokeri.",
+      "Jos vihannekset ovat jo mureita, lopeta kypsennys tähän.",
+      "Jos vihannekset ovat vielä kiinteitä, lisää 1–2 rkl vettä, peitä ja kypsennä 2 minuuttia tai kunnes mureita.",
+      "Tarjoa heti, tai jos haluat lisätä kastikkeen, sekoita kastikkeen ainekset hyvin, kaada vihannesten ja kalkkunan päälle ja kypsennä 30 sekuntia."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-cheese-soup",
+    "title": "Vihannes-juustokeitto",
+    "description": "Sveitsinjuusto, vihannekset ja currymauste tekevät tästä paksusta ja kermaisesta keitosta täyttävän aterian kylmänä talvi-iltana. Tarjoa täysjyväpaahtoleivän kanssa.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto"],
+    "ingredients": [
+      "7½ dl vettä, jaettuna",
+      "7½ dl vihannessekoitusta, pakastettuna tai tuoreena, paloiteltuna",
+      "½ dl sipulia, hienonnettuna",
+      "1 tl suolaa (valinnainen)",
+      "½ tl currymaustetta (valinnainen)",
+      "2½ dl rasvatonta maitojauhetta",
+      "1½ rkl maissitärkkelystä",
+      "1¼ dl sveitsinjuustoa, pieniksi paloiksi leikattuna",
+      "kevätsipulia (valinnainen)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna 5 dl vettä kiehuvaksi.",
+      "Lisää vihannekset, sipuli, suola ja currymauste, jos käytät.",
+      "Laske lämpö, peitä kannella ja kypsennä, kunnes lähes mureita.",
+      "Sekoita jäljellä oleva 2½ dl vesi, maitojauhe ja maissitärkkelys pienessä kulhossa.",
+      "Lisää osittain kypsennettyihin vihanneksiin.",
+      "Kypsennä keskilämmöllä, sekoittaen usein, kunnes sakenee.",
+      "Lisää juusto ja sekoita, kunnes sulanut.",
+      "Lisää tarvittaessa lisää vettä, jos keitto on liian paksua.",
+      "Lisää halutessasi kevätsipulia päälle."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-chili",
+    "title": "Vihanneschili",
+    "description": "Kesäkurpitsapalat, bataatit ja pakastemaissi tuovat luovan käänteen tähän chiliruokaan. Yhdistettynä säilykepapuihin ja kuutioituihin tomaatteihin tämä maukas yhden padan ateria osuu nappiin.",
+    "servings": 5,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "keitto"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "2 keltaista sipulia, kuorittuna ja karkeasti hienonnettuna",
+      "2 kesäkurpitsaa, kuutioituna",
+      "2 bataattia, kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 tl juustokuminaa",
+      "2 rkl chilijauhetta",
+      "2 tl kuivattua oreganoa",
+      "3 tlk (à 450 g) vähäsuolaisia tummia kidneypapuja, valutettuna ja huuhdeltuna",
+      "2 tlk (à 410 g) kuutioituja tomaatteja, ilman lisättyä suolaa",
+      "5 dl pakastemaissia"
+    ],
+    "instructions": [
+      "Kuumenna kattila keskilämmöllä ja lisää öljy, kun kuuma.",
+      "Lisää sipulit, kesäkurpitsa, bataatit, valkosipuli ja mausteet ja kypsennä sekoitellen 20 minuuttia.",
+      "Lisää kidneypavut ja tomaatit.",
+      "Sekoita ja kypsennä kannen alla, kunnes kurpitsa on mureaa, noin 30 minuuttia.",
+      "Lisää maissi ja kypsennä, kunnes läpikuumaa.",
+      "Tarjoa heti tai siirrä astiaan jäähdyttyään.",
+      "Säilyy jääkaapissa enintään 5 päivää."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-dipping-sauce",
+    "title": "Vihannesdippikastike",
+    "description": "Hunaja ja ruskea sinappi ovat salaiset ainekset tässä dipissä, joka sopii täydellisesti raakoille vihanneksille. Valmista tämä tänään ja ala napostella.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "dippi", "nopea"],
+    "ingredients": [
+      "½ dl rasvatonta maustamatonta jogurttia",
+      "½ dl kevyttä smetanaa",
+      "2 tl hunajaa",
+      "2 tl mausteista ruskeaa sinappia"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita kaikki ainekset keskenään kulhossa.",
+      "Tarjoa suosikkivihanneksiesi kanssa."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-fried-rice",
+    "title": "Vihannespaistoriisi",
+    "description": "Tässä riisiruoassa yhdistyvät soijakastikkeen, pippurin ja vihannesten maut nopeaksi ateriaksi. Se kypsennetään yhdessä pannussa, joten siivouskin on nopeaa.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "nopea", "aasialainen"],
+    "ingredients": [
+      "5 dl kypsennettyä valkoista riisiä",
+      "1¼ dl selleriä, hienonnettuna",
+      "½ dl sipulia, hienonnettuna",
+      "2 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "1 pussi (280 g) pakastettua vihannessekoitusta",
+      "1 rkl vähäsuolaista soijakastiketta",
+      "ripaus mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Keitä riisiä noin 5 dl verran.",
+      "Käytä pakkauksen ohjetta riisin keittämiseen.",
+      "Hienonna selleri ja sipuli.",
+      "Kuumenna öljy pannussa tai isossa paistinpannussa.",
+      "Lisää selleri ja sipuli.",
+      "Paista wokkaamalla 2 minuuttia.",
+      "Lisää vihannekset pannuun.",
+      "Sekoittele vihanneksia, kunnes ne ovat mureita mutta rapeita.",
+      "Lisää kypsennetty riisi.",
+      "Ripottele soijakastiketta ja pippuria.",
+      "Paista wokkaamalla 2 minuuttia, kunnes riisi on lämmennyt ja maut sekoittuneet."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-medley-salsa-dip",
+    "title": "Vihannesvati salsadipillä",
+    "description": "Käytä tätä värikästä vihannesvatia seuraavissa juhlissa tai kutsuilla.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "dippi"],
+    "ingredients": [
+      "2 keskikokoista porkkanaa, n. 7½ cm tikuiksi leikattuna",
+      "2 keskikokoista sellerin vartta, n. 7½ cm tikuiksi leikattuna",
+      "2½ dl vihreää paprikaa (tai muun väristä)",
+      "2½ dl rasvatonta smetanaa",
+      "2½ dl tuoretta salsaa (ks. alla)",
+      "Tuore salsa:",
+      "1 lime, mehustettuna",
+      "2 keskikokoista tomaattia, paloiteltuna",
+      "½ keskikokoista sipulia, hienonnettuna",
+      "3 jalapeñoa, hienonnettuna, siemenet poistettuna halutessasi",
+      "½ dl tuoretta korianteria, hienonnettuna",
+      "¼ tl suolaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Asettele vihannekset vadille.",
+      "Sekoita pienessä kulhossa smetana ja salsa.",
+      "Tarjoa.",
+      "Tuoreen salsan valmistus: Sekoita keskikokoisessa kulhossa limemehu, tomaatit, sipuli, jalapeñot, korianteri ja suola.",
+      "Säilytä salsaa jääkaapissa enintään kolme päivää suljetussa muovi- tai lasiastiassa."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-pizza",
+    "title": "Vihannespizza",
+    "description": "Nauti tuoreesta, herkullisesta kotona tehdystä pizzasta. Voit piristää sitä chilihiutaleilla tai valkosipulijauheella. Kokeile mitä tahansa vihanneksia, joita sinulla on.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pizza"],
+    "ingredients": [
+      "2 dl vähäsuolaista pizzakastiketta",
+      "1 iso (30 cm) italialainen pizzapohja",
+      "2½ dl parsakaalia, paloiteltuna",
+      "2½ dl porkkanaa, raastettuna",
+      "1¼ dl vihreää paprikaa, viipaloituna (tai punaista paprikaa)",
+      "140 g vähärasvaista mozzarellajuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 230 asteeseen. Levitä pizzakastike pizzapohjalle.",
+      "Laita pizzapohja uunipellille.",
+      "Asettele vihannekset kastikkeen päälle.",
+      "Ripottele juusto päälle.",
+      "Paista 10 minuuttia.",
+      "Kun pizza on valmis, anna jäähtyä 3 minuuttia ennen leikkaamista.",
+      "Leikkaa 8 lohkoon."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-rice-tomatoes",
+    "title": "Vihannesriisi tomaateilla",
+    "description": "Riisi, vihannekset ja mausteet muodostavat voittavan makuyhdistelmän tässä maukkaassa lisukkeessa.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis"],
+    "ingredients": [
+      "2 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "5 dl pitkäjyväistä valkoista riisiä, keittämättömänä",
+      "7½ dl vähäsuolaista kanalientä",
+      "4 dl keltasipulia, hienonnettuna",
+      "2 tl valkosipulia, hienonnettuna",
+      "1 tlk (410 g) vähäsuolaisia meksikolais- tai italialaistyylisiä tomaatteja",
+      "½ tl suolaa",
+      "vihreää paprikaa (valinnainen, siemenkoteloineen poistettuna ja hienonnettuna)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy keskikokoisessa kattilassa keskilämmöllä.",
+      "Kypsennä riisiä, kunnes juuri kullanruskeaa, noin 5 minuuttia.",
+      "Lisää 1¼ dl kanalientä, jos kosteutta tarvitaan.",
+      "Lisää sipuli ja valkosipuli ja kypsennä minuutti tai pari.",
+      "Sekoita joukkoon tomaatit ja niiden neste, loppu kanaliemi, suola ja paprika (jos käytät).",
+      "Kuumenna kiehuvaksi.",
+      "Laske lämpö miedoksi.",
+      "Peitä kannella ja hauduta noin 20–25 minuuttia tai kunnes liemi on imeytynyt."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-salad",
+    "title": "Vihannessalaatti",
+    "description": "Tämä maukas marinoitu vihannessalaatti käyttää säilykevihanneksia ja sitä voi nauttia mihin vuodenaikaan tahansa. Käytä tuoreita vihanneksia, jos niitä on saatavilla.",
+    "servings": 12,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti"],
+    "ingredients": [
+      "1 tlk (425 g) maissia, valutettuna",
+      "1 tlk (410 g) vähäsuolaisia porkkanoita, valutettuna",
+      "1 tlk (425 g) vähäsuolaisia kikherneitä, valutettuna",
+      "1 tlk (410 g) vähäsuolaisia kuutioituja tomaatteja (säästä ¾ dl nestettä)",
+      "2½ dl punaista paprikaa, hienonnettuna",
+      "1 rkl sipulia, hienonnettuna",
+      "½ dl rypsiöljyä (tai muuta ruokaöljyä)",
+      "¾ dl etikkaa",
+      "⅛ tl mustapippuria",
+      "2 rkl hunajaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Valuta maissi, porkkanat ja kikherneet.",
+      "Kaada neste pois.",
+      "Huuhtele vihannekset ja valuta uudelleen.",
+      "Valuta tomaatit mutta säästä ¾ dl nestettä.",
+      "Sekoita isossa kulhossa maissi, porkkanat, kikherneet, tomaatit, sipuli ja punainen paprika.",
+      "Sekoita kaikki muut ainekset keskenään erillisessä kulhossa.",
+      "Kaada vihannesten päälle.",
+      "Peitä ja jätä jääkaappiin vähintään 3 tunniksi."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-snake",
+    "title": "Vihanneskäärme",
+    "description": "Ole luova tuoreiden vihannesvälipalojesi kanssa. Tämä resepti käyttää kurkkua ja tomaattia, mutta voit käyttää mitä tahansa suosikkivihanneksiasi tähän välipalaan.",
+    "servings": 2,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "lapsille", "nopea"],
+    "ingredients": [
+      "1 keskikokoinen kurkku",
+      "1 pieni tomaatti (tai 2 kirsikkatomaattia)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese ainekset.",
+      "Aseta kurkkuviipaleet pienelle lautaselle käärmeen muotoon.",
+      "Lisää 2 tomaattiviipaletta silmiksi.",
+      "Nauti vihanneskäärmeestäsi."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-soup-chicken",
+    "title": "Vihanneskeitto kanalla",
+    "description": "Tämän keiton voi valmistaa nopeasti yhdessä padassa lounaaksi tai illalliseksi.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "nopea"],
+    "ingredients": [
+      "1 tlk (n. 340 g) kanaa",
+      "7½ dl vettä",
+      "3 maissintähkää (tai 1 tlk vähäsuolaista maissia)",
+      "1 tlk (n. 425 g) vähäsuolaisia herneitä",
+      "450 g tuoreita porkkanoita, kuorittuna ja kuutioituna (tai 1 tlk vähäsuolaisia porkkanoita, n. 425 g)",
+      "900 g perunoita, kuorittuna ja kuutioituna (tai 2 tlk vähäsuolaisia viipaloituja perunoita, n. 425 g kukin)"
+    ],
+    "instructions": [
+      "Kuumenna isossa padassa kana ja vesi keski-kovalla lämmöllä, kunnes kuumaa.",
+      "Leikkaa jyvät maissintähkistä.",
+      "Lisää maissinjyvät ja kaikki muut ainekset pataan ja anna kiehahtaa.",
+      "Laske lämpöä ja hauduta noin 30 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-stew",
+    "title": "Vihannesmuhennos",
+    "description": "Vihreä chilipaprika tuo herkullista potkua ja makua tähän peruna-, maissi- ja kesäkurpitsamuhennokseen.",
+    "servings": 8,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "keitto"],
+    "ingredients": [
+      "7½ dl vettä",
+      "1 vähäsuolainen kasvisliemikuutio",
+      "5 dl valkoisia perunoita, n. 5 cm suikaleiksi leikattuna",
+      "5 dl porkkanaa, viipaloituna",
+      "10 dl kesäkurpitsaa, n. 2½ cm paloiksi leikattuna",
+      "2½ dl kesäkurpitsaa, neljään palaan leikattuna",
+      "4 dl vähäsuolaista säilykemaissia, huuhdeltuna ja valutettuna (tai 2 tuoretta maissintähkää, jyvät irrotettuna)",
+      "1 tl timjamia",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 keskikokoinen kevätsipuli, hienonnettuna",
+      "½ pientä vihreää chilipaprikaa, hienonnettuna",
+      "2½ dl sipulia, karkeasti hienonnettuna",
+      "2½ dl tomaattia, kuutioituna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna vesi ja liemikuutio isossa padassa kiehuvaksi.",
+      "Lisää perunat ja porkkanat ja hauduta 5 minuuttia.",
+      "Lisää loput ainekset paitsi tomaatit ja jatka kypsentämistä 15 minuuttia keskilämmöllä.",
+      "Poista 4 palaa kesäkurpitsaa ja soseuta ne tehosekoittimessa.",
+      "Palauta soseutettu seos pataan ja anna kypsyä vielä 10 minuuttia.",
+      "Lisää tomaatit ja kypsennä vielä 5 minuuttia.",
+      "Ota pois liedeltä ja anna seistä 10 minuuttia, jotta muhennos sakenee."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-stroganoff",
+    "title": "Vihannesstroganoff",
+    "description": "Tässä stroganoffissa sipuli, valkosipuli, porkkana, kesäkurpitsa, punainen paprika ja basilika yhdistyvät kermaiseen tomaattitahna- ja jogurttikastikkeeseen. Pastan kanssa sekoitettuna tämä käänne stroganoffista on helppo ateria ja varma suosikki.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "pasta"],
+    "ingredients": [
+      "225 g täysjyvämuotopastaa, kypsennettynä",
+      "1 rkl rypsiöljyä",
+      "1 punasipuli",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 porkkanaa, kuutioituna",
+      "1 keskikokoinen kesäkurpitsa, kuutioituna",
+      "1 punainen paprika, hienonnettuna",
+      "1 rkl kuivattua basilikaa",
+      "1 tlk (410 g) kuutioituja tomaatteja, ilman lisättyä suolaa (nesteineen)",
+      "2 rkl tomaattipyreetä, ilman lisättyä suolaa",
+      "1¼ dl maustamatonta vähärasvaista jogurttia (tai kevyttä tai raskasta kermaa)"
+    ],
+    "instructions": [
+      "Täytä kattila puolilleen vedellä pastan keittämistä varten.",
+      "Kuumenna kiehuvaksi kovalla lämmöllä.",
+      "Kun vesi kiehuu, lisää pasta ja keitä, kunnes juuri kypsää, noin 12 minuuttia.",
+      "Valuta pasta ja jätä odottamaan.",
+      "Kun pasta kypsyy, valmista stroganoff: kuumenna pannu keskilämmöllä ja lisää öljy, kun kuuma.",
+      "Lisää sipuli, valkosipuli, porkkanat, kesäkurpitsa, paprika ja kuivattu basilika ja kypsennä, kunnes pehmeitä ja kullanruskeita, noin 20 minuuttia.",
+      "Lisää tomaatit ja kypsennä, kunnes kastike yhdistyy, noin 20 minuuttia.",
+      "Sekoita kulhossa jogurtti ja tomaattipyree tasaiseksi.",
+      "Sammuta lämpö ja siirrä vihannekset pannun toiselle puolelle.",
+      "Lisää vähitellen jogurtti-tomaattipyreeseos pannun toiselle puolelle koko ajan sekoittaen.",
+      "Laske lämpö miedoksi ja kypsennä noin 5 minuuttia, kunnes läpikuumaa.",
+      "Lisää kypsennetty pasta ja sekoita, kunnes yhdistynyt."
+    ]
+  },
+  {
+    "id": "myplate-vegetable-tacos",
+    "title": "Vihannestacot",
+    "description": "Näissä vihanneksilla täytetyissä maissitortillatacoissa on potkua kuutioiduista jalapenoista ja valkosipulista. Tarjoa lisukkeena tai nauti välipalana.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "nopea"],
+    "ingredients": [
+      "½ keskikokoista sipulia",
+      "1 valkosipulinkynsi",
+      "1 rkl jalapeñoa",
+      "1 tl juustokuminaa",
+      "½ tl ruokasuolaa",
+      "½ tl mustapippuria",
+      "½ keskikokoista punaista paprikaa",
+      "2½ dl herkkusieniä",
+      "4 maissitortillaa (15 cm)",
+      "1 luumutomaatti, paloiteltuna",
+      "1 rkl korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuullota sipuli, valkosipuli ja jalapeño; lisää juustokumina, suola ja mustapippuri.",
+      "Kun kaikki on pehmentynyt, lisää punainen paprika ja sienet.",
+      "Kuullota vielä 2 minuuttia.",
+      "Tarjoa tortillojen päällä ja koristele paloitelluilla tomaateilla ja korianterilla (tai korianterikastikkeella)."
+    ]
+  },
+  {
+    "id": "myplate-vegetarian-chili",
+    "title": "Kasvischili",
+    "description": "Tämä herkullinen chili on täynnä vihanneksia, papuja ja mausteita ja on tarpeeksi nopea arki-illan illalliseksi. Viimeistele korianterilla lisämaun saamiseksi.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "keitto"],
+    "ingredients": [
+      "2 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "2 isoa sipulia, n. 0,6 cm paloiksi leikattuna",
+      "1 keskikokoinen vihreä paprika, n. 0,6 cm paloiksi leikattuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 jalapeñoa, kuutioituna",
+      "1 rkl chilijauhetta",
+      "1 rkl juustokuminaa",
+      "2½ dl korianteria, hienonnettuna, jaettuna",
+      "suolaa (valinnainen, maun mukaan)",
+      "mustapippuria (valinnainen, maun mukaan)",
+      "2 tlk (à 410 g) vähäsuolaisia kokonaisia tomaatteja, n. 0,6 cm paloiksi leikattuna (tai 8 keskikokoista tuoretta tomaattia)",
+      "2 keskikokoista kesäkurpitsaa, n. 0,6 cm paloiksi leikattuna",
+      "2 keskikokoista keltaista kesäkurpitsaa, n. 0,6 cm paloiksi leikattuna",
+      "1 tlk (440 g) vähäsuolaisia kidneypapuja, huuhdeltuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Lisää öljy isoon pataan ja kuullota sipulia, paprikaa, valkosipulia ja jalapeñoa keski-kovalla lämmöllä noin 5 minuuttia, sekoitellen usein.",
+      "Lisää chilijauhe, juustokumina, puolet hienonnetusta korianterista, suola ja pippuri, ja jatka kypsentämistä vielä 3 minuuttia, sekoitellen välillä.",
+      "Lisää tomaatit, kesäkurpitsat.",
+      "Anna seoksen hautua.",
+      "Hauduta 15 minuuttia, sekoitellen välillä.",
+      "Lisää pavut ja jatka hautumista vielä 5 minuuttia.",
+      "Tarjoa seos kuumana.",
+      "Lisää loput korianterista päälle."
+    ]
+  },
+  {
+    "id": "myplate-vegetarian-collard-greens",
+    "title": "Kasvisversio lehtikaalimuhennoksesta",
+    "description": "Haluatko lisätä enemmän lehtivihanneksia ruokavalioosi, mutta et ole varma miten aloittaa? Kokeile tätä lehtikaalireseptiä. Terveellinen ja maukas lisuke seuraavan ateriasi kaveriksi.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "lisuke"],
+    "ingredients": [
+      "1 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "1 rkl voita",
+      "½ keskikokoista sipulia, hienonnettuna",
+      "½ tl chilihiutaleita (lisää tuplasti, jos pidät tulisesta)",
+      "⅛ tl valkosipulijauhetta",
+      "6 dl lehtikaalia, varret poistettuna ja silputtuna",
+      "5 dl vähäsuolaista kasvislientä",
+      "2 keskikokoista tomaattia, siemenet poistettuna ja paloiteltuna",
+      "suolaa ja mustapippuria (maun mukaan)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese kaikki vihannekset ja poista tomaattien siemenet. Kerää, silppua ja mittaa kaikki ainekset ennen valmistamisen aloittamista.",
+      "Kuumenna öljy ja voi isossa padassa keskilämmöllä.",
+      "Lisää sipuli ja kypsennä noin 2 minuuttia, kunnes hieman pehmeä.",
+      "Lisää chilihiutaleet ja valkosipulijauhe ja kypsennä minuutin ajan.",
+      "Lisää silputtu lehtikaali ja kypsennä vielä minuutti.",
+      "Lisää liemi, peitä ja kuumenna kiehuvaksi.",
+      "Kypsennä noin 40 minuuttia, kunnes lehdet ovat mureita.",
+      "Lisää tomaatit.",
+      "Maista ja lisää halutessasi hieman suolaa ja mustapippuria.",
+      "Tarjoa kuumana.",
+      "Laita tähteet jääkaappiin 2 tunnin kuluessa.",
+      "Syö 3–5 päivän kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-vegetarian-matzo-ball-soup",
+    "title": "Kasvisversio matzopallokeitosta",
+    "description": "Tämä maukas, vihanneksilla täytetty matzopallokeitto on herkullinen ja nopea ateria kylmänä iltana.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["kasvis", "keitto"],
+    "ingredients": [
+      "Matzopallot:",
+      "2 kananmunaa, kevyesti vatkattuna",
+      "2 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "¼ dl vähäsuolaista kasvislientä",
+      "1¼ dl suolatonta matzojauhoa",
+      "1 rkl tuoretta tilliä",
+      "suolaa (½ tl, valinnainen)",
+      "Liemi:",
+      "15 dl vähäsuolaista kasvislientä",
+      "4 keskikokoista porkkanaa, n. 0,6 cm viipaleiksi leikattuna",
+      "2 keskikokoista sipulia, karkeasti hienonnettuna",
+      "4 dl keskikokoista palsternakkaa, viipaloituna",
+      "3 rkl tuoretta tilliä",
+      "suolaa ja mustapippuria (maun mukaan)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Matzopallojen valmistus: Sekoita kananmunat, öljy ja kasvisliemi pienessä kulhossa.",
+      "Lisää matzojauho, tilli ja suola.",
+      "Sekoita, kunnes tasaisesti yhdistynyt.",
+      "Peitä ja jäähdytä 15 minuutista 8 tuntiin.",
+      "Kuumenna iso kattilallinen vettä kiehuvaksi; lisää ripaus suolaa.",
+      "Öljytyin käsin muotoile taikinasta 12 n. 2,5 cm:n palloa.",
+      "Pudota pallot yksitellen kiehuvaan veteen.",
+      "Laske lämpö ja hauduta 30 minuuttia.",
+      "Liemen valmistus: Kun matzopallot hautuvat, valmista keitto lisäämällä kaikki liemen ainekset kattilaan ja kuumenna kiehuvaksi.",
+      "Laske lämpö ja hauduta 20 minuuttia.",
+      "Tarjoiluun lusikoi 2 kypsennettyä matzopalloa kulhoon ja kaada päälle 2½ dl keittoa."
+    ]
+  },
+  {
+    "id": "myplate-vegetarian-spaghetti-sauce",
+    "title": "Kasviksinen spagettikastike",
+    "description": "Yhdistä oregano ja basilika tuoreiden ja säilöttyjen vihannesten kanssa oman spagettikastikkeen valmistamiseksi – sopii täydellisesti minkä tahansa pastaruoan kanssa.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike"],
+    "ingredients": [
+      "2 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "2 keskikokoista sipulia, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1¾ dl kesäkurpitsaa, viipaloituna",
+      "1 rkl kuivattua oreganoa",
+      "1 rkl kuivattua basilikaa",
+      "1 tlk (225 g) vähäsuolaista tomaattikastiketta",
+      "1 tlk (170 g) vähäsuolaista tomaattipyreetä",
+      "2 keskikokoista tomaattia, paloiteltuna",
+      "2½ dl vettä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy keskikokoisessa pannussa.",
+      "Kypsennä sipulia, valkosipulia ja kesäkurpitsaa öljyssä 5 minuuttia keskilämmöllä.",
+      "Lisää loput ainekset ja hauduta kannen alla 45 minuuttia.",
+      "Tarjoa pastan kanssa."
+    ]
+  },
+  {
+    "id": "myplate-vegetarian-stuffed-peppers",
+    "title": "Kasvisversio täytetyistä paprikoista",
+    "description": "Täynnä tomaatteja ja basilikaa nämä herkulliset täytetyt paprikat ovat mainio lisuke mihin tahansa pääruokaan.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen"],
+    "ingredients": [
+      "4 keskikokoista punaista, keltaista tai vihreää paprikaa",
+      "5 dl kirsikkatomaatteja",
+      "1 keskikokoinen sipuli",
+      "2½ dl tuoreita basilikanlehtiä",
+      "3 valkosipulinkynttä",
+      "2 tl oliiviöljyä (tai muuta ruokaöljyä)",
+      "¼ tl suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 220 asteeseen. Öljyä kevyesti iso matala uunivuoka.",
+      "Leikkaa paprikat pitkittäin puoliksi ja poista siemenet.",
+      "Asettele paprikat leikkauspuoli ylöspäin uunivuokaan ja öljyä kevyesti varsien reunat.",
+      "Puolita kirsikkatomaatit ja hienonna sipuli ja basilika.",
+      "Hienonna valkosipuli.",
+      "Sekoita kulhossa tomaatit, sipuli, basilika, valkosipuli ja oliiviöljy.",
+      "Lisää suolaa ja pippuria maun mukaan.",
+      "Lusikoi tasaiset annokset seosta paprikoihin ja paista uunin yläkolmanneksessa, kunnes paprikat ovat mureita, noin 20 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-veggie-bean-wrap",
+    "title": "Vihannes-papuwrappi",
+    "description": "Nämä herkulliset wrapit ovat täynnä makua ja kuitua. Mango, korianteri ja avokado tuovat raikkaan ja maukkaan täytteen näihin wrappeihin.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "nopea"],
+    "ingredients": [
+      "2 keskikokoista vihreää tai punaista paprikaa, siemenkoteloineen poistettuna ja hienonnettuna",
+      "1 keskikokoinen sipuli, kuorittuna ja viipaloituna",
+      "1 tlk (425 g) vähäsuolaisia mustia papuja, valutettuna ja huuhdeltuna",
+      "2 mangoa, kuorittuna ja paloiteltuna",
+      "1 lime, mehustettuna",
+      "1¼ dl tuoretta korianteria, hienonnettuna",
+      "1 avokado, kuorittuna ja kuutioituna",
+      "4 vehnätortillaa (25 cm)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuullota tarttumattomassa pannussa paprikaa ja sipulia 5 minuuttia keskilämmöllä.",
+      "Lisää pavut ja sekoita hyvin.",
+      "Laske lämpö miedoksi ja hauduta noin 5 minuuttia.",
+      "Sekoita pienessä kulhossa mangot, limemehu, korianteri ja avokado.",
+      "Varaa puolet mangoseoksesta päällykseen.",
+      "Täytä lämmitetyt tortillat ¼:lla papuseosta ja ¼:lla mangoseosta.",
+      "Taita tortillojen päät yli."
+    ]
+  }
+]

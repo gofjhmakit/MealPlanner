@@ -1,0 +1,516 @@
+[
+  {
+    "id": "wikibooks-easy-pasta-sauce",
+    "skip": "ei määriä, ainekset ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-easy-peach-cobbler",
+    "title": "Helppo persikkacobbler",
+    "description": "Tuoreista persikoista tehty jälkiruoka, jossa taikina nousee uunissa persikoiden ympärille.",
+    "servings": 6,
+    "category": "Jälkiruoat",
+    "tags": [
+      "persikka",
+      "jälkiruoka",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "115 g margariinia",
+      "1 tl leivinjauhetta",
+      "2 dl vehnäjauhoja",
+      "2½ dl sokeria",
+      "2 dl maitoa",
+      "5 kypsää persikkaa, viipaloituna"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 190 asteeseen.",
+      "Sulata margariini noin 1,5 litran uunivuoassa. Laita sivuun.",
+      "Sekoita leivinjauhe, jauhot, sokeri ja maito. Kaada taikina sulaneen margariinin päälle äläkä sekoita.",
+      "Asettele persikkaviipaleet taikinan päälle.",
+      "Paista 20–30 minuuttia."
+    ],
+    "notes": [
+      "Jos olet retkellä tai tuoreita persikoita ei ole saatavilla, voit käyttää valutettuja purkkipersikkaviipaleita (n. 425 g purkki).",
+      "Jos käytät valurautapataa, esilämmitä se noin 15 hiilibriketillä, 10–11 kannen päälle ja 4–5 alle (30 cm:n kokoiselle padalle).",
+      "Käytä mahdollisuuksien mukaan noin 4 cm syvää, 1,4–1,9 litran uunivuokaa."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-scrambled-eggs",
+    "title": "Helpot munakokkelit",
+    "description": "Yksinkertainen perusohje munakokkelille.",
+    "servings": 2,
+    "totalTimeMin": 10,
+    "category": "Aamiainen",
+    "tags": [
+      "kananmuna",
+      "aamiainen",
+      "helppo"
+    ],
+    "ingredients": [
+      "4 kananmunaa",
+      "1 rkl voita, margariinia tai öljyä (pannun pinnoittamiseen)",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna paistinpannu (mieluiten tarttumaton tai hyvin patinoitu valurautapannu) keskilämmölle ja lisää pannun pohjan peittävä määrä voita, öljyä tai pannusuihketta.",
+      "Riko munat kulhoon.",
+      "Lisää halutessasi hieman maitoa tai vettä. Mausta suolalla ja pippurilla (myös muita yrttejä ja mausteita voi käyttää).",
+      "Vatkaa munia kevyesti haarukalla tai vispilällä 15–20 sekuntia. Seoksen ei tarvitse olla täysin tasainen.",
+      "Kaada munaseos kuumalle, rasvatulle pannulle.",
+      "Raaputa kypsynyttä munaa jatkuvasti ja kevyesti pannusta lastalla tai lusikalla (vältä metalliesineitä teflonpannulla). Raaputustiheys ja -aika määräävät kokkelin koostumuksen – kokeile oma suosikkisi; aikaa kuluu yleensä 30 sekunnista muutamaan minuuttiin munien määrästä ja pannusta riippuen.",
+      "Kun munat ovat sopivan kiinteitä, ota pannu pois liedeltä ja tarjoa heti."
+    ],
+    "notes": [
+      "Lounais­tyylinen kokkeli ja erilaiset munakasreseptit ovat muunnelmia munakokkelista.",
+      "Lisäainevaihtoehtoja on lukemattomasti: kinkku, sienet, sipuli, paprika, makkara, tomaatti, oliivit, pekoni, raastettu tryffeli, savustettu kalkkuna, pinaatti, parsakaali, rakuuna, ruohosipuli, persilja ja parsa sopivat kaikki joukkoon. Myös vähän dijonsinappia munaseokseen sekoitettuna on hyvää.",
+      "Munaseoksen voi vaihtoehtoisesti kypsentää myös mikrossa: voitele kulho, riko siihen 1–2 munaa, sekoita kevyesti ja mikroaaltouuni täydellä teholla 40 sekunnista 2 minuuttiin – tarkkaile koko ajan ja pysäytä, kun seos on noussut; liian pitkä aika saa sen kuohumaan yli."
+    ]
+  },
+  {
+    "id": "wikibooks-easy-wedding-soup",
+    "title": "Helppo häämiekeitto",
+    "description": "Yksinkertaistettu versio italialaisesta häämiekeitosta – tarvitaan vain neljä ainesosaa ja vettä.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Keitot",
+    "tags": [
+      "kanaliemi",
+      "makkara",
+      "pasta",
+      "italialainen"
+    ],
+    "ingredients": [
+      "1,5 l kanalientä (liemikuutioista valmistettu käy hyvin)",
+      "5 dl vettä",
+      "1 pkt (280 g) pakastettua pinaattia",
+      "340 g esikypsennettyä tulista kana-makkaraa",
+      "3 rkl pientä helmipastaa (acini di pepe)"
+    ],
+    "instructions": [
+      "Kuumenna liemi ja vesi kiehuvaksi isossa kattilassa.",
+      "Lisää pakastepinaatti.",
+      "Paloittele makkara pieniksi paloiksi.",
+      "Lisää makkara ja helmipasta keittoon.",
+      "Anna kiehahtaa uudelleen ja keitä 10 minuuttia."
+    ],
+    "notes": [
+      "Tulinen makkara antaa keitolle maun lähes itsestään, joten lisämausteita ei juuri tarvita. Eri makkaratyypit muuttavat keiton luonnetta huomattavasti.",
+      "Jos käytät itse tehtyä kanalientä, keitto saattaa tarvita lisää suolaa – liemikuutiot ovat yleensä jo melko suolaisia."
+    ]
+  },
+  {
+    "id": "wikibooks-eba-cassava-flake-swallow",
+    "title": "Eba (kassavahiutaletaikina)",
+    "description": "Suosittu nigerialainen kassavahiutaleista (garri) tehty \"swallow\"-taikina, jota tarjoillaan erilaisten keittojen kanssa, kuten egusi- tai ogbono-keiton.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": [
+      "kassava",
+      "nigerialainen",
+      "lisuke"
+    ],
+    "ingredients": [
+      "1 l vettä",
+      "n. 300 g garria (kassavahiutaleita)"
+    ],
+    "instructions": [
+      "Keitä vesi kattilassa.",
+      "Lisää kassavahiutaleet vähitellen koko ajan sekoittaen, kunnes seos muodostaa tasaisen taikinan.",
+      "Tarjoa valitsemasi keiton kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-ebatu-soup",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-ebiripo-nigerian-mashed-taro",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-eclairs",
+    "title": "Eclairit",
+    "description": "Pitkät, täyteläiset vanukaspatonkeja muistuttavat leivonnaiset, jotka täytetään kermavaahdolla ja kuorrutetaan tummalla suklaalla. Taikinapohja on choux-taikinaa, joka valmistetaan keittämällä voi ja vesi, lisäämällä jauhot ja vatkaamalla lopuksi munat joukkoon.",
+    "servings": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": [
+      "leivonnainen",
+      "suklaa",
+      "kerma",
+      "ranskalainen"
+    ],
+    "ingredients": [
+      "75 g voita, kuutioituna",
+      "2 dl vettä",
+      "suolaa",
+      "100 g vehnäjauhoja (mieluiten vahvaa leipäjauhoa)",
+      "3 kananmunaa, vatkattuna",
+      "2,5 dl kuohukermaa",
+      "100 g hienoa sokeria",
+      "1 dl vettä",
+      "50 g tummaa suklaata",
+      "25 g suolatonta voita"
+    ],
+    "instructions": [
+      "Lämmitä uuni 200 asteeseen.",
+      "Laita voi, vesi ja ripaus suolaa keskikokoiseen kattilaan miedolle lämmölle. Sekoita välillä puulusikalla voin sulaessa. Siivilöi sillä välin jauhot pieneen kulhoon.",
+      "Kun voi on sulanut, nosta lämpöä ja anna seoksen kiehahtaa. Sammuta lämpö ja kaada jauhot nopeasti kattilaan. Vatkaa jauhot heti nesteeseen puulusikalla, kunnes kaikki ainekset ovat sekoittuneet. Lopeta vatkaaminen, kun seos turpoaa sileäksi taikinaksi, joka irtoaa kattilan reunoista. Tämä kestää vain muutaman sekunnin.",
+      "Anna seoksen jäähtyä 3–4 minuuttia. Kaada vähän vatkattua munaa jauhotaikinaan ja vatkaa hyvin sisään. Lisää ja vatkaa munaa pieni määrä kerrallaan, kunnes taikina on paksua, sileää ja kiiltävää mutta säilyttää silti muotonsa. Isoja munia käytettäessä viimeistä 2–3 ruokalusikallista munaa ei ehkä tarvita.",
+      "Lusikoi seos isoon pakastepussiin tai pursotuspussiin (kaavi se pannusta joustavalla lastalla). Taita pussin yläreuna, jotta taikina painuu pussin alaosaan. Leikkaa yksi pussin alakulma pois niin, että reikä on noin 1 cm.",
+      "Vuoraa kaksi uunipeltiä leivinpaperilla. Pursota taikinasta noin 10 cm:n pituisia makkaramaisia pötköjä leivinpaperille jättäen noin 4 cm väliä (ne kaksinkertaistuvat kooltaan uunissa). Taikinasta pitäisi riittää noin 12 kappaleeseen.",
+      "Laita pellit esilämmitettyyn uuniin ja paista noin 30 minuuttia. Ota eclairit pois, kun ne ovat pullistuneet, kauttaaltaan kullanruskeita ja tuntuvat kovilta veitsellä koputtaessa.",
+      "Nosta jokainen eclair pellitä heti pois – ne ovat hyvin kuumia, joten käytä uunikintaita – ja tee veitsenkärjellä varovainen viilto kylkeen, jotta höyry pääsee ulos. Muuten höyry jää eclairin sisään ja tiivistyy vedeksi, jolloin leivonnaisesta tulee velttoa.",
+      "Anna eclairien jäähtyä ja kuivua ritilällä.",
+      "Vatkaa kerma pienessä kulhossa, kunnes se on juuri sopivan paksua pitämään muotonsa.",
+      "Laita vaahdotettu kerma jääkaappiin odottamaan, kun teet suklaakuorrutteen.",
+      "Kuorrutetta varten laita sokeri ja vesi pieneen kattilaan miedolle lämmölle. Kuumenna varovasti koko ajan puulusikalla sekoittaen, kunnes sokeri liukenee.",
+      "Anna kiehahtaa ja keitä kovalla kiehunnalla kolme minuuttia. Sammuta lämpö ja anna siirapin jäähtyä hieman (voit nopeuttaa tätä upottamalla kattilan pohjan kylmään veteen).",
+      "Pilko suklaa paloiksi ja leikkaa voi kuutioiksi.",
+      "Kun siirappi on vielä hyvin lämmin mutta ei kuuma, lisää suklaa ja voi. Sekoita, kunnes molemmat ovat sulaneet ja seos on tasaista ja kiiltävää.",
+      "Anna jäähtyä, sekoittaen välillä. Kun seos alkaa sakenemiin, on aika kuorruttaa eclairit.",
+      "Kun patongit ovat jäähtyneet, täytä jokaisen eclairin sisus kermavaahdolla teelusikalla tai pursotuspussilla (saatat joutua suurentamaan aiemmin tehtyä viiltoa).",
+      "Levitä toisella teelusikalla suklaakuorrutetta anteliaasti jokaisen eclairin päälle.",
+      "Jätä eclairit ritilälle, kunnes kuorrute on kovettunut. Jos et syö niitä heti, voit säilyttää niitä jääkaapissa muutaman tunnin."
+    ]
+  },
+  {
+    "id": "wikibooks-edikang-ikong-soup-i",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-edikang-ikong-soup-ii",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-edo-black-soup",
+    "skip": "ei määriä, suurin osa aineksista ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-eel-alla-milanese",
+    "title": "Ankerias à la Milanese",
+    "description": "Vanha italialainen ankeriasresepti 1900-luvun alusta, jossa kalaa haudutellaan viinisessä kastikkeessa vihannesten kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "ankerias",
+      "italialainen",
+      "kalaruoka"
+    ],
+    "ingredients": [
+      "1 iso ankerias",
+      "55 g voita",
+      "1 rkl vehnäjauhoja",
+      "2,4 dl lihalientä",
+      "1,2 dl Chablis-valkoviiniä",
+      "1 laakerinlehti",
+      "suolaa",
+      "mustapippuria",
+      "sekoitus vihanneksia (esim. porkkanaa, kukkakaalia, selleriä, papuja, tomaattia)"
+    ],
+    "instructions": [
+      "Paloittele ankerias ja paista voissa. Kun se on saanut hyvän värin, lisää jauhot, liemi, viini, laakerinlehti, pippuri ja suola. Keitä, kunnes kala on hyvin kypsää.",
+      "Keitä sillä välin vihannekset erikseen.",
+      "Nosta ankeriaspalat pois ja pidä ne lämpiminä.",
+      "Siivilöi kastikkeeksi muodostunut liemi ja lisää siihen vihannekset.",
+      "Anna vihannesten kiehua vielä hetki liemessä, ja asettele ne sitten tarjoiluastiaan.",
+      "Aseta ankeriaspalat vihannesten päälle ja peitä liemellä. Tarjoa hyvin kuumana."
+    ],
+    "notes": [
+      "Mikä tahansa kala sopii tähän ruokaan yhtä hyvin."
+    ]
+  },
+  {
+    "id": "wikibooks-eel-chowder",
+    "title": "Ankeriaskeitto",
+    "description": "Runsas ankeriaskeitto, jossa on mukana vihanneksia ja makeita hunajaisia päärynöitä.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": [
+      "ankerias",
+      "keitto",
+      "päärynä"
+    ],
+    "ingredients": [
+      "5 dl vettä",
+      "¾ dl valkoviiniä",
+      "2 rkl etikkaa",
+      "2 rkl persiljaa",
+      "1 sipuli, kuorittuna ja viipaloituna",
+      "2 porkkanaa, kuorittuna ja kuutioituna",
+      "1 laakerinlehti",
+      "6 kokonaista pippuria",
+      "suolaa",
+      "1 keskikokoinen ankerias (n. 450–900 g), 5 cm:n paloiksi leikattuna",
+      "2 rkl voita tai margariinia",
+      "1½ rkl vehnäjauhoja",
+      "2 l naudanlihalientä",
+      "1 nippu juuresyrttejä (esim. persilja, timjami, selleri)",
+      "1 tl hienonnettua minttua",
+      "1,2 dl kuutioitua selleriä",
+      "½ kukkakaalin pää, pieniksi kukinnoiksi jaettuna",
+      "2,5 dl herneitä",
+      "2,5 dl sokeria",
+      "1,25 dl vettä",
+      "6 päärynää, kuorittuna ja siemenkoteloista puhdistettuna"
+    ],
+    "instructions": [
+      "Yhdistä 5 dl vettä, viini, etikka, persilja, sipuli, yksi porkkana, laakerinlehti, pippurit ja suola; kuumenna kiehuvaksi ja keitä 5 minuuttia.",
+      "Lisää ankerias ja keitä hiljalleen, kunnes kala on mureaa.",
+      "Sulata voi isossa kattilassa; lisää jauhot ja kypsennä sekoittaen.",
+      "Lisää naudanlihaliemi, juuresyrtit, minttu ja selleri; anna hautua hiljalleen 1 tunti.",
+      "Keitä kukkakaali ja herneet kiehuvassa suolavedessä, kunnes ne ovat napakan kypsiä.",
+      "Tee siirappi vedestä ja sokerista. Lisää päärynät ja anna hautua varovasti, kunnes ne ovat mureita. Nosta päärynät pois siirapista.",
+      "Tarjoilua varten nosta ankerias ensin keitinliemestä.",
+      "Siivilöi ankeriaan keitinliemi ja lisää puolet siitä keittopohjaan.",
+      "Valuta keitetyt vihannekset ja lisää ne keittopohjaan.",
+      "Laita kypsä ankerias ja päärynät isoon tarjoiluastiaan. Kaada keittopohja päälle ja tarjoa."
+    ],
+    "notes": [
+      "Naudanlihaliemen voi korvata kana- tai kasvisliemellä."
+    ]
+  },
+  {
+    "id": "wikibooks-efo-amunututu-nigerian-malabar-spinach-soup",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-efo-iyana-ipaja-soup",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-efo-riro-nigerian-amaranth-soup",
+    "skip": "suurin osa aineksista ilman mittasuhteita ja ohje toistaa itseään kahteen kertaan"
+  },
+  {
+    "id": "wikibooks-egbo-nigerian-cornmeal-porridge",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-egbo-and-ewa-cornmeal-pudding-and-beans",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-egg-butter",
+    "title": "Munavoi",
+    "description": "Yksinkertainen voileipälevite kananmunista ja voista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": [
+      "kananmuna",
+      "levite",
+      "voileipä"
+    ],
+    "ingredients": [
+      "3 kananmunaa",
+      "4 rkl voita, pehmeänä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Keitä munat kovaksi (noin 10 minuuttia).",
+      "Pilko munat pieniksi paloiksi (isommat valkuaispalat eivät usein sekoitu voihin kunnolla).",
+      "Sekoita pilkotut munat voin kanssa.",
+      "Lisää suola ja pippuri.",
+      "Käytä voileipälevitteenä."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-casserole",
+    "title": "Munavuoka",
+    "description": "Täyttävä munavuoka sopii mihin vuorokaudenaikaan tahansa ja on hyvä valinta, kun ruokaa tarjoillaan suuremmalle porukalle.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": [
+      "kananmuna",
+      "kinkku",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "8 viipaletta leipää",
+      "7–8 kananmunaa",
+      "5 dl maitoa",
+      "115 g voita, sulatettuna",
+      "5 dl kinkkukuutioita",
+      "½ tl suolaa",
+      "1 rkl valmista sinappia",
+      "5 dl raastettua sulatejuustoa",
+      "ripaus cayennepippuria, paprikaa ja valkosipulijauhetta"
+    ],
+    "instructions": [
+      "Laita leipäviipaleet voideltuun 23 x 33 cm:n uunivuokaan.",
+      "Sekoita sulatettu voi, maito, mausteet ja vatkatut kananmunat keskenään.",
+      "Kaada seos leipien päälle.",
+      "Ripottele päälle kinkkukuutiot ja raastettu juusto.",
+      "Anna seistä jääkaapissa yön yli.",
+      "Paista 175 asteessa 1 tunti."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-in-a-mist",
+    "title": "Muna sumussa",
+    "description": "Kevyt uunimunaruoka, jossa vaahdotettu valkuainen muodostaa \"sumun\" keltuaisen päälle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": [
+      "kananmuna",
+      "juusto",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "vähän voita",
+      "4 kananmunaa, erotettuna keltuaisiksi ja valkuaisiksi",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl maitoa",
+      "115 g hienoksi raastettua juustoa"
+    ],
+    "instructions": [
+      "Voitele matala uunivuoka voilla. Lisää munankeltuaiset.",
+      "Sekoita joukkoon suola, pippuri, maito ja hieman raastettua juustoa.",
+      "Vatkaa valkuaiset kovaksi vaahdoksi ja kääntele joukkoon loput juustosta kevyesti.",
+      "Kasaa valkuaisvaahto keltuaisten päälle.",
+      "Paista koko vuoka kohtalaisen kuumassa uunissa."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-noodles-i",
+    "title": "Munanuudelit I",
+    "description": "Kotitekoiset nuudelit sopivat monenlaisten pastakastikkeiden, kuten pestokastikkeen, kanssa.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": [
+      "pasta",
+      "nuudeli",
+      "kananmuna"
+    ],
+    "ingredients": [
+      "3 kananmunaa",
+      "⅛ tl suolaa",
+      "1,2 dl valkoviiniä",
+      "1 rkl oliiviöljyä",
+      "700 g vehnäjauhoja"
+    ],
+    "instructions": [
+      "Vatkaa kulhossa yhteen munat, suola, oliiviöljy ja viini.",
+      "Sekoita joukkoon 2,4 dl jauhoja haarukalla.",
+      "Lisää varovasti toinen 2,4 dl jauhoja, kun ensimmäinen on sekoittunut kunnolla.",
+      "Nosta seos kulhosta kevyesti jauhotetulle työtasolle.",
+      "Vaivaa viimeinen jauhoerä joukkoon vähän kerrallaan. Jos taikina muuttuu liian kuivaksi, lisää hieman kylmää vettä.",
+      "Jatka vaivaamista, kunnes taikina on tasaista ja kiiltävää.",
+      "Pyöritä taikinasta pallo ja leikkaa se neljään osaan. Peitä palaset kääntämällä sekoituskulho niiden päälle, jotta ne eivät kuivu tai pölyyn.",
+      "Anna taikinan levätä noin 30 minuuttia.",
+      "Muotoile nuudelit haluamallasi tavalla (katso huomautukset).",
+      "Keittämistä varten kuumenna iso kattilallinen kevyesti suolattua vettä kiehuvaksi. Lisää rullattu ja leikattu nuudeli veteen ja keitä al denteksi."
+    ],
+    "notes": [
+      "Tätä taikinaa voi käyttää lasagnena, leikata fettuccineksi tai kaulia ravioleja varten. Yksi neljäsosa fettuccineksi leikattuna riittää neljälle hengelle.",
+      "Säilytä loppu taikina kevyesti jauhotettuna pussissa jääkaapissa enintään kaksi viikkoa, tai kuivatettuna viileässä kuivassa paikassa enintään kuukauden.",
+      "Nyrkkisääntönä yhtä pientä munaa kohden käytetään noin 2,4 dl jauhoja. Kevyempään taikinaan lisätään jauhojen suhdetta munaan; täyteläisempään taikinaan jätetään valkuaiset pois ja käytetään 2–3 keltuaista jauhodeesiä kohden.",
+      "Vaivatessa taikina voi muuttua sitkeäksi, kun jauhoja on jäljellä enää noin 0,6 dl. Älä lisää taikinaan liikaa vettä vaivaamisen aloittamisen jälkeen – sormien kastelu vedellä ja taikinan pinnan kostuttaminen riittää yleensä. Vaivaaminen vie kunnollisen koostumuksen saavuttamiseksi noin 20 minuuttia. Jos aikaa on, kokoa taikina löyhäksi palloksi ja anna sen levätä tiiviisti kelmuun käärittynä yön yli jääkaapissa – tämä antaa gluteenin hydratoitua täysin ja helpottaa vaivaamista.",
+      "Säilytystä varten tarttumisen estämiseksi nuudelit kannattaa blanšeerata hetkeksi kiehuvaan suolaveteen ja antaa sitten kuivua pellillä. Pöly­tä lopuksi riisijauholla tai maissitärkkelyksellä. Säilytä jääkaapissa 5–7 päivää, tai pakasta 6–12 kuukaudeksi.",
+      "Alkoholiton versio: viinin tilalla voi käyttää 1,2 dl vettä."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-noodles-ii",
+    "title": "Munanuudelit II",
+    "description": "Yksinkertainen munanuudeliohje, jossa käytetään munankeltuaisia nuudelin rakenteen parantamiseksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": [
+      "pasta",
+      "nuudeli",
+      "kananmuna"
+    ],
+    "ingredients": [
+      "3 munankeltuaista",
+      "1 kananmuna",
+      "1 tl suolaa",
+      "1 ripaus mustapippuria",
+      "0,8 dl vettä",
+      "6 dl vehnäjauhoja",
+      "1–2 tl oliiviöljyä"
+    ],
+    "instructions": [
+      "Vatkaa kulhossa yhteen munankeltuaiset, kananmuna, suola ja pippuri.",
+      "Sekoita joukkoon vesi, sitten jauhot.",
+      "Vaivaa taikina palloksi.",
+      "Kauli jauhotetulla alustalla 2–4 mm paksuiseksi levyksi.",
+      "Leikkaa noin 6 mm levyisiksi nuudeleiksi.",
+      "Kuumenna kattilassa vesi kiehuvaksi ja lisää öljy.",
+      "Lisää nuudelit kiehuvaan veteen ja keitä kypsiksi."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-noodles-iii",
+    "title": "Munanuudelit III",
+    "description": "Perinteinen tapa tehdä munanuudelitaikinaa suoraan työtasolla ilman kulhoa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": [
+      "pasta",
+      "nuudeli",
+      "kananmuna"
+    ],
+    "ingredients": [
+      "1 kananmuna",
+      "2,4 dl vehnäjauhoja",
+      "2–6 rkl vettä",
+      "1–2 tl oliiviöljyä (valinnainen)"
+    ],
+    "instructions": [
+      "Kasaa jauhot kasaksi sileälle työtasolle. Tee kasan keskelle kuoppa, niin että se muistuttaa tulivuorta.",
+      "Riko muna kuoppaan. Lisää nyt öljy, jos haluat käyttää sitä – se muuttaa makua ja rakennetta.",
+      "Ala vaivata käsillä tai sekoittaa haarukalla. Lisää vettä hitaasti teelusikallinen kerrallaan vaivaamisen lomassa. Et todennäköisesti tarvitse kaikkia kuutta ruokalusikallista vettä (vaikka saatat tarvita enemmänkin).",
+      "Vaivaa taikinaa, kunnes rakenne on tasainen.",
+      "Muotoile nuudelit jollain seuraavista tavoista: jaa taikina sopiviin osiin ja käsittele yksi osa kerrallaan pitäen loput peitettynä. Kauli jokainen osa haluttuun paksuuteen ja leikkaa nuudeleiksi veitsellä. Vaihtoehtoisesti kaulin taikinan sileiden telojen läpi toistuvasti yhä ohuemmalle asetuksella, ja kun haluttu paksuus on saavutettu, leikkaa urallisilla teloilla."
+    ],
+    "notes": [
+      "Pastakoneen käyttö on suositeltavaa, sillä se nopeuttaa työtä huomattavasti.",
+      "Ainesosat voi kertoa suuremmiksi ilman, että ohjeet muuttuvat.",
+      "Mitä kuivempana taikinan pitää, sitä parempi lopputulos. Jos taikina on liian märkää, se tarttuu itseensä ja keittyy yhdeksi möykyksi.",
+      "Jotta pasta ei tartu itseensä keitettäessä, pyörittele tuore pasta ensin jauhoissa ja pidä kiehumispiste tasaisena, jotta vesi liikkuu.",
+      "Taikinan voi tehdä myös yleiskoneella – ainesosista muodostuu silloin murumainen rakenne, joka puristetaan yhteen taikinaksi. Näin taikina syntyy nopeammin."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-noodles-iv",
+    "title": "Munanuudelit IV",
+    "description": "Yksinkertainen neljän hengen munanuudeliohje – yksi iso muna henkeä kohden on hyvä nyrkkisääntö.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": [
+      "pasta",
+      "nuudeli",
+      "kananmuna"
+    ],
+    "ingredients": [
+      "4 isoa kananmunaa",
+      "400 g vehnäjauhoja",
+      "ylimääräistä jauhoa vaivaamiseen"
+    ],
+    "instructions": [
+      "Siivilöi jauhot isolle työtasolle ja tee keskelle kuoppa.",
+      "Riko munat kuoppaan.",
+      "Sekoita jauhot vähitellen munien joukkoon lusikalla tai käsin.",
+      "Vaivaa tasaiseksi, joustavaksi taikinaksi.",
+      "Kauli haluttuun paksuuteen käyttäen ylimääräistä jauhoa. Leikkaa haluttuun muotoon.",
+      "Kuumenna iso kattilallinen suolattua vettä kiehuvaksi.",
+      "Lisää nuudelit veteen ja keitä al denteksi."
+    ],
+    "notes": [
+      "400 grammaa jauhoja pitäisi riittää taikinaan, mutta munien koosta riippuen saatat tarvita hieman lisää.",
+      "Tämä ohje tekee yleensä riittävästi nuudeleita neljälle hengelle, mutta pastan muodosta riippuen lisää voi tarvita. Hyvä nyrkkisääntö on yksi iso muna henkeä kohden."
+    ]
+  }
+]

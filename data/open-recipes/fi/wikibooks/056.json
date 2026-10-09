@@ -1,0 +1,590 @@
+[
+  {
+    "id": "wikibooks-green-turtle-soup",
+    "skip": "merikilpikonna on uhanalainen ja kansainvälisesti suojeltu laji (CITES) – sen pyynti, kauppa ja syöminen on kiellettyä tai tiukasti säädeltyä lähes kaikkialla, eikä resepti sovellu nykyaikaiseen keittokirjaan"
+  },
+  {
+    "id": "wikibooks-grill-seasoning",
+    "skip": "ohjeessa on useita päällekkäisiä, erottelemattomia mausteseosversioita (mm. kolme kertaa suolaa, paprikaa ja cayennea vaihtelevin määrin) ilman selkeää ryhmittelyä – ei tulkittavissa yhdeksi johdonmukaiseksi resepteiksi"
+  },
+  {
+    "id": "wikibooks-grilled-aubergine",
+    "title": "Grillattu munakoiso misokastikkeella",
+    "description": "Japanilaistyylinen munakoiso, joka grillataan ja tarjoillaan makeahkolla misokastikkeella ja paahdetuilla seesaminsiemenillä.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "japanilainen", "grilliruoka", "nopea"],
+    "ingredients": [
+      "1 iso munakoiso (n. 375 g)",
+      "rypsiöljyä",
+      "2 rkl misotahnaa",
+      "1½ rkl sokeria",
+      "2 rkl lientä (esim. dashi- tai kasvislientä)",
+      "1 tl valkoisia seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Pese munakoiso ja leikkaa se pitkittäin 2,5 cm:n viipaleiksi.",
+      "Sivele leikkuupinnat öljyllä.",
+      "Grillaa 7–10 cm:n etäisyydeltä lämmönlähteestä, kunnes munakoiso on mureaa ja ruskistunut joka puolelta (noin 5 minuuttia).",
+      "Yhdistä pienessä kattilassa miso, sokeri ja liemi. Kuumenna miedolla lämmöllä sekoittaen, kunnes seos on tasaista ja kuumaa. Älä anna kiehua.",
+      "Kaada kastike munakoison päälle.",
+      "Paahda seesaminsiemenet pienessä paistinpannussa, kunnes ne alkavat hypähdellä, ja ripottele ne munakoison päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-bananas-with-coffee-syrup",
+    "title": "Grillattu banaani kahvisiirapilla",
+    "description": "Grillattuja, kuorineen puolitettuja banaaneja, joita siveltäessä käytetään tummaa kahvi-kanelisiirappia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["banaani", "grilliruoka", "jälkiruoka"],
+    "ingredients": [
+      "6 banaania, kuorineen puolitettuna",
+      "2½ dl heikkoa suodatinkahvia",
+      "½ dl sokeria",
+      "½ kanelitankoa",
+      "1¼ dl kuohukermaa",
+      "2 rkl kahvilikööriä",
+      "ripaus suolaa",
+      "2 rkl voita"
+    ],
+    "instructions": [
+      "Yhdistä isossa kattilassa kaikki muut ainekset paitsi banaanit. Kiehauta keskikorkealla lämmöllä, kunnes seos on vähentynyt puoleen. Nosta liedeltä ja jätä sivuun.",
+      "Sivele banaanit runsaasti kahviseoksella. Grillaa keskikorkealla lämmöllä, kunnes niihin tulee grillijäljet ja ne ovat hieman kärähtäneet.",
+      "Nosta liedeltä, kuori ja valuta vielä muutama lusikallinen siirappia banaanien päälle. Tarjoile lopun siirapin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-cheese-sandwich",
+    "title": "Grillijuustovoileipä",
+    "description": "Yksinkertainen kuuma voileipä, jossa juusto sulatetaan kahden leipäviipaleen väliin. Juuston ja leivän suhde on makuasia – yleensä enemmän juustoa on parempi.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Välipalat",
+    "tags": ["juusto", "voileipä", "nopea"],
+    "ingredients": [
+      "2 leipäviipaletta",
+      "voita",
+      "1–3 viipaletta helposti sulavaa juustoa (esim. cheddaria, goudaa, limburgeria tai amerikanjuustoa, tai raastettua juustoa maun mukaan)",
+      "muita aineksia tarpeen mukaan (ks. vinkit)"
+    ],
+    "instructions": [
+      "Kuumenna paistinpannu tai lettulevy keskilämmölle.",
+      "Levitä voita leipäviipaleisiin ja aseta molemmat viipaleet voipuoli alaspäin pannulle.",
+      "Kun voipuolet ovat ruskistuneet (tarkista välillä), käännä toinen viipale ja lisää juusto päälle, aseta sitten toinen leipäviipale juuston päälle (voipuoli jälleen ulospäin).",
+      "Paina voileipää lastalla kasaan.",
+      "Kun voileivän alapuoli on tarpeeksi ruskistunut, käännä se. Kun molemmat puolet ovat ruskistuneet, nosta pois liedeltä, leikkaa ja tarjoile.",
+      "Vaihtoehtoisesti: kuumenna uuni 150 asteeseen.",
+      "Levitä voita leipäviipaleiden molemmille puolille.",
+      "Kasaa juusto ja muut täytteet viipaleiden väliin ja siirrä voileivät uunipellille.",
+      "Paista 10–15 minuuttia, käännä, ja paista vielä 5–10 minuuttia maun mukaan."
+    ],
+    "notes": [
+      "Kokeile sivellä leipää majoneesilla, sinapilla, barbecue-kastikkeella, ketsupilla tai aiolilla.",
+      "Lisää täytteeksi esim. kinkkua, tomaattia, silputtua paistettua possua tai salamia.",
+      "Raastettuun juustoon voi sekoittaa hienonnettua sipulia, valkosipulia, purjoa, salottisipulia, pikkelssiä tai murennettua pekonia.",
+      "Voit valmistaa myös avoleivän: jos lämmitetään vain ylhäältä, juusto sulaa mutta leipä pysyy vähemmän paahtuneena.",
+      "Rapean leivän saa voitelemalla leivän ja paahtamalla sen ritilällä, pehmeän leivän sulattamalla voin pannussa ja paistamalla siinä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-cheese-sandwich-ii",
+    "title": "Grillijuustovoileipä II",
+    "description": "Hyvä grillijuustovoileipä on ulkoa rapea eikä sisältä mössöinen. Sopii arkilounaaksi limsan tai tomaattikeiton kanssa.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["juusto", "voileipä", "nopea"],
+    "ingredients": [
+      "mietoa cheddarjuustoa",
+      "voita",
+      "tukevaa, vähän kosteutta sisältävää leipää"
+    ],
+    "instructions": [
+      "Viipaloi juusto noin 3 mm:n paksuisiksi viipaleiksi.",
+      "Voitele kaksi leipäviipaletta toiselta puolelta.",
+      "Peitä toinen leipäviipale juustolla voitelemattomalta puolelta. Jos jätät juuston väliin rakoja, jaa ne tasaisesti keskelle.",
+      "Viimeistele voileipä toisella leipäviipaleella, voipuoli jälleen ulospäin.",
+      "Aseta voileipä esilämmitettyyn kaksipuoliseen paistolaitteeseen, kuten voileipägrilliin, vohvelirautaan tai hampurilaisgrilliin. Kuumenna voileipä.",
+      "Ota voileipä pois, kun juusto on sulanut kokonaan ja ulkopinta on keskitumman ruskea ja rapea.",
+      "Syö heti. Jos joudut laskemaan voileivän odottamaan, käytä lämmitettyä lautasta tai löysää talouspaperia, ettei kosteus pilaa pintaa."
+    ],
+    "notes": [
+      "Valitse mahdollisimman vähäkosteuksinen juusto rapean lopputuloksen saamiseksi.",
+      "Monivilja-, hapanjuuri- tai paahtoleipä toimivat hyvin.",
+      "Lisää kuivaa tonnikalaa, pekonia tai pastramia. Paistamisen jälkeen voileipään voi avata raon ja lisätä hapankaalia, pikkelssiä tai makeaa chilikastiketta.",
+      "Vähän Worcestershire-kastiketta juuston päälle ennen paistamista toimii hyvin.",
+      "Majoneesi voin tai margariinin sijaan antaa piquantimman maun.",
+      "Ohuet tomaattiviipaleet, lässähtänyt pinaatti tai paahdetut paprikat ovat mukavia lisiä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-chicken-and-arugula-salad",
+    "title": "Grillattu kana-rucolasalaatti",
+    "description": "Mehukas grillattu kana ja pippurinen rucola sitrusvinegretillä maustettuna.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["kana", "salaatti", "grilliruoka", "nopea"],
+    "ingredients": [
+      "2 broilerin rintafileetä, luutonta ja nahatonta",
+      "5 dl tiiviisti pakattua rucolaa, karkeasti pilkottuna",
+      "2 rkl tuoretta sitruunamehua",
+      "1 tl dijonsinappia",
+      "6 rkl ekstra-neitsytoliiviöljyä, sekä lisää kanalle",
+      "suolaa",
+      "mustapippuria",
+      "parmesaania, ohuina lastuina"
+    ],
+    "instructions": [
+      "Sivele kanan molemmat puolet oliiviöljyllä. Mausta runsaasti suolalla ja mustapippurilla.",
+      "Grillaa esilämmitetyllä hiiligrillillä usein käännellen, kunnes sisälämpötila saavuttaa 74 astetta.",
+      "Siirrä lautaselle ja peitä foliolla. Anna levätä 10 minuuttia ennen kuin revit lihan kahdella haarukalla säikeiksi.",
+      "Vatkaa sinappi ja sitruunamehu keskenään. Lisää oliiviöljy vähitellen vatkaten.",
+      "Mausta halutessasi suolalla ja mustapippurilla.",
+      "Sekoita kana rucolan ja kastikkeen joukkoon.",
+      "Lisää päälle parmesaanilastuja ja tarjoile jääkylmänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-cornish-hens",
+    "title": "Grillatut perlkanat",
+    "description": "Perhoseksi avatut pienet kanat, jotka maustetaan voimakkaalla mausteseoksella ja grillataan hiililllä.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilliruoka", "juhla"],
+    "ingredients": [
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "1½ rkl cayennepippuria",
+      "1½ rkl savustettua paprikajauhetta",
+      "2 rkl sitruunapippuria",
+      "2 tl kuivattua rosmariinia",
+      "1 rkl valkosipulijauhetta",
+      "2 kpl pientä perlkanaa, selkärangasta avattuna ja litistettynä",
+      "sulatettua pekonirasvaa"
+    ],
+    "instructions": [
+      "Yhdistä kaikki mausteet.",
+      "Sivele kanat pekonirasvalla. Hiero mausteseos kanojen pintaan. Jääkaapissa marinoitava vähintään tunti.",
+      "Lämmitä hiiligrilli käyttäen sytytyspiippua.",
+      "Aseta kanat grilliin. Grillaa jatkuvasti käännellen, kunnes sekä koipipalan että rintapalan sisälämpötila on 74 astetta.",
+      "Nosta kanat grillistä ja anna levätä 10 minuuttia. Tarjoile."
+    ],
+    "notes": ["Älä käytä sytytysnestettä hiiligrillin kanssa – se antaa ruokaan kemiallisen maun, vaikka noudattaisit ohjeita."]
+  },
+  {
+    "id": "wikibooks-grilled-dog",
+    "skip": "koiranliha ei sovellu reseptikokoelmaan eettisesti arkaluonteisena ja monin paikoin laittomana raaka-aineena"
+  },
+  {
+    "id": "wikibooks-grilled-eggplant-with-garlic-butter",
+    "title": "Grillattu munakoiso valkosipulivoilla",
+    "description": "Grillattu munakoiso, jonka päälle sulaa pehmeä valkosipulivoi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "grilliruoka", "lisuke"],
+    "ingredients": [
+      "1 rkl hienonnettua valkosipulia",
+      "115 g voita, pehmeänä",
+      "2 keskikokoista munakoisoa, viipaloituna n. 1,3 cm paksuisiksi viipaleiksi",
+      "suolaa",
+      "mustapippuria",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Sekoita valkosipuli voin joukkoon. Muotoile kapeaksi rullaksi leivinpaperin tai vahapaperin avulla, ja jäähdytä käyttöön asti.",
+      "Ripottele munakoison molemmille puolille suolaa. Anna olla 15 minuuttia tai kunnes se alkaa \"hikoilla\". Älä koske siihen sillä aikaa.",
+      "Huuhtele munakoiso. Taputtele kuivaksi talouspaperilla ja sivele oliiviöljyllä.",
+      "Mausta runsaasti molemmin puolin suolalla ja mustapippurilla.",
+      "Kuumenna grilli keski-korkealle lämmölle.",
+      "Lisää munakoisoviipaleet grilliin ja paista, kunnes niihin tulee grillijäljet ja ne ovat hieman kärähtäneet molemmin puolin.",
+      "Aseta pala valkosipulivoita jokaisen palan päälle ja odota, että voi sulaa ennen tarjoilua."
+    ],
+    "notes": [
+      "Säästä ylimääräinen valkosipulivoi – käytä sitä tavallisen voin sijaan esimerkiksi kanan, kalan tai pihvin kanssa.",
+      "Munakoison suolaaminen auttaa kitkeryyden poistamisessa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-filet-mignon",
+    "title": "Grillattu sisäfileepihvi",
+    "description": "Mausteisella pihvimausteella maustettuja sisäfileepihvejä, jotka grillataan mesquitelastujen antamalla savulla.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "juhla"],
+    "ingredients": [
+      "4 kpl (yht. n. 550–800 g) n. 2,5 cm paksuja sisäfileepihvejä",
+      "pihvimausteseosta (esim. Montreal-tyyppistä)",
+      "oliiviöljyä",
+      "1½ dl liotettuja mesquitelastuja"
+    ],
+    "instructions": [
+      "Lämmitä noin 30 grillihiiltä isossa sytytyspiipussa. Kun hiilet ovat kuumia, levitä ne tasaisesti grillin pohjalle ja lisää joukkoon puulastut.",
+      "Sivele pihvit oliiviöljyllä. Mausta molemmat puolet runsaasti mausteseoksella. Aseta grillin kuumimmalle kohdalle ja grillaa ½ minuuttia. Käännä 90 astetta ja grillaa vielä ½ minuuttia. Käännä toiselle puolelle ja toista.",
+      "Siirrä pihvit grillin viileämmälle alueelle ja kypsennä usein käännellen, kunnes sisälämpötila on 63 astetta (medium rare).",
+      "Nosta lautaselle ja anna levätä 5 minuuttia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-filet-mignon-with-a-cognac-reduction",
+    "title": "Grillattu sisäfileepihvi konjakkikastikkeella",
+    "description": "Yksi naudanlihan parhaista ja mureimmista paloista, sisäfilee on puhdasta ylellisyyttä. Tässä se päällystetään karkeasti rouhitulla mustapippurilla ja grillataan täydelliseksi medium rareksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "juhla"],
+    "ingredients": [
+      "4 kpl sisäfileepihviä, n. 4 cm paksuja",
+      "2 rkl karkeasti rouhittua mustapippuria",
+      "suolaa",
+      "2 rkl dijonsinappia",
+      "2½ dl konjakkia"
+    ],
+    "instructions": [
+      "Ripottele pihvien molemmille puolille suolaa.",
+      "Sivele pihvit molemmin puolin sinapilla ja paina ne mustapippuriin kevyesti painaen, jotta pippuri tarttuu.",
+      "Grillaa pihvejä korkealla lämmöllä 1 minuutti per puoli, siirrä sitten keskilämpöiselle alueelle, kunnes sisälämpötila on 60 astetta. Nosta pois ja pidä lämpimänä.",
+      "Laita konjakki pieneen kattilaan ja kiehauta korkealla lämmöllä, kunnes se on vähentynyt kolmasosalla.",
+      "Tarjoile pihvit konjakkikastike valutettuna päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-fruit-pouches",
+    "title": "Grillatut hedelmäkäärepaketit",
+    "description": "Persikoita ja luumuja, jotka marinoidaan brandyssä ja grillataan folioon käärittyinä kiteytetyn inkiväärin päällä.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["hedelmä", "grilliruoka", "jälkiruoka"],
+    "ingredients": [
+      "4 persikkaa, kuorittuna ja leikattuna kahdeksasosiksi",
+      "5 dl murskattua kiteytettyä inkivääriä",
+      "4 luumua, neljänneksiksi leikattuna",
+      "6 rkl sokeria",
+      "115 g voita, jaettuna osiin",
+      "1¾ dl brandya",
+      "ripaus suolaa",
+      "1 rkl hienonnettua sitruunankuorta"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa hedelmät, sokeri, suola, sitruunankuori ja brandy. Jätä sivuun.",
+      "Levitä neljälle isolle alumiinifoliolevylle pohjaksi kiteytettyä inkivääriä.",
+      "Lisää hedelmäseos inkiväärin päälle. Lisää päälle ruokalusikallinen voita. Taita foliosta kääre.",
+      "Aseta käärepaketit grillin kuuman hiilialueen päälle. Kypsennä 7 minuuttia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-lamb-chops",
+    "title": "Grillatut lampaankyljykset",
+    "description": "Valkosipulilla ja yrttimausteilla hierottuja luullisia lampaankyljyksiä, jotka grillataan medium rareksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "lammas", "grilliruoka"],
+    "ingredients": [
+      "4 kpl paksuja luullisia lampaan ulkofilekyljyksiä",
+      "1 tl rosmariinia, hienonnettuna",
+      "2 tl timjamia, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl savustettua paprikajauhetta",
+      "½ valkosipulin kokonaista kynsinippua (puolikas pää)",
+      "4 tl cayennepippuria",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Hiero halkaistun valkosipulipään leikkuupinta lampaankyljysten pintaan. Sivele oliiviöljyllä ja hiero mausteet lihaan. Anna marinoitua jääkaapissa vähintään tunti.",
+      "Grillaa kyljyksiä korkealla lämmöllä 1½ minuuttia. Käännä 90 astetta ja kypsennä vielä 1½ minuuttia. Käännä toiselle puolelle ja toista.",
+      "Siirrä liha keskilämpöiselle alueelle ja kypsennä usein käännellen, kunnes sisälämpötila on 60 astetta (medium rare).",
+      "Nosta pois ja anna levätä 7 minuuttia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-mesquite-meatloaf",
+    "title": "Grillattu mesquite-lihamureke",
+    "description": "Tavallisesta uunissa paistettavasta lihamurekkeesta poiketen tämä versio grillataan mesquitepuun päällä, mikä antaa rapean kuoren ja savuisen maun.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "uuniruoka"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "½ iso sipuli, kuutioituna",
+      "1 tl suolaa, sekä ripaus lisää",
+      "3 rkl hienonnettua valkosipulia",
+      "1¼ dl kuutioitua selleriä",
+      "450 g naudan jauhelihaa (n. 20 % rasvaa)",
+      "2 sitruunan mehu",
+      "1 tl mustapippuria",
+      "1½ tl chilihiutaleita",
+      "½ dl Worcestershire-kastiketta",
+      "1¼ dl panko-korppujauhoja",
+      "2 rkl ketsuppia",
+      "2½ dl liotettuja mesquitelastuja"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paistinpannussa keski-korkealla lämmöllä. Lisää sipuli ja ripaus suolaa, ja kypsennä, kunnes sipuli on läpikuultavaa.",
+      "Lisää valkosipuli ja kypsennä, kunnes se saa kultaisen värin.",
+      "Lisää selleri ja kypsennä, kunnes se on kevyesti ruskistunut reunoilta. Jätä jäähtymään.",
+      "Sekoita keskenään jauheliha, sipuliseos, sitruunamehu, pippuri, chilihiutaleet, Worcestershire-kastike ja korppujauhot. Muotoile noin 9 × 19 cm:n, n. 5 cm paksuiseksi mureke-leiväksi. Sivele ketsupilla ja jätä sivuun.",
+      "Lämmitä grillihiiliä sytytyspiipussa. Kun ne ovat kuumia, levitä tasaisesti grillin pohjalle ja sekoita joukkoon liotetut mesquitelastut. Aseta ritilä takaisin ja laita mureke sen päälle.",
+      "Grillaa kannen alla usein käännellen, kunnes sisälämpötila on 72 astetta.",
+      "Nosta pois liedeltä ja anna levätä 10 minuuttia.",
+      "Tarjoile paksuina viipaleina perunamuusin, paahdettujen kasvisten ja kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-peaches-with-vanilla-maple-sauce",
+    "title": "Grillatut persikat vanilja-vaahterakastikkeella",
+    "description": "Grillattuja persikanpuolikkaita, joita tarjoillaan rikkaalla vaniljaisella vaahterasiirappikastikkeella.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["persikka", "grilliruoka", "kesä"],
+    "ingredients": [
+      "4 kypsää keltaista persikkaa, puolitettuna ja kivet poistettuna",
+      "sokeria",
+      "1¼ dl vaahterasiirappia",
+      "1 rkl vaniljauutetta",
+      "½ dl voita, sulatettuna",
+      "ripaus suolaa",
+      "½ dl persikkanektaria"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset paitsi persikat ja sokeri. Kiehauta korkealla lämmöllä isossa kattilassa ja hauduta, kunnes seos on vähentynyt puoleen.",
+      "Kasta persikoiden leikkuupinta kuumaan seokseen. Ripottele leikkuupinta runsaasti sokerilla.",
+      "Aseta persikat leikkuupuoli alaspäin kuumalle grillille, kunnes niihin tulee grillijäljet ja ne ovat hieman kärähtäneet. Tarjoile lämpimänä lopun kastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-peanut-butter-sandwiches",
+    "title": "Paistetut maapähkinävoileivät",
+    "description": "Yksinkertainen maapähkinävoileipä, joka paistetaan voissa kullanruskeaksi ja tarjoillaan maidon kanssa.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["maapähkinävoi", "voileipä", "nopea", "kasvis"],
+    "ingredients": [
+      "2 rkl maapähkinävoita",
+      "2 viipaletta vaaleaa leipää",
+      "voita tai margariinia"
+    ],
+    "instructions": [
+      "Levitä maapähkinävoi leipäviipaleiden väliin.",
+      "Levitä pehmeää tai sulatettua voita tai margariinia leivän ulkopinnoille.",
+      "Paista tarttumattomalla pannulla keskilämmöllä, käännellen muutaman kerran, kunnes leipä on kullanruskeaa ja maapähkinävoi sulanut.",
+      "Tarjoile runsaan maitolasin kanssa."
+    ],
+    "notes": [
+      "Tee sama hillon kanssa – nämä ovat erinomaisia.",
+      "Kokeile myös vaahtokarkkilevitteen kanssa; nämä ovat hyviä mutta hieman sotkuisia.",
+      "Maapähkinävoin voi korvata manteli- tai cashewvoilla.",
+      "Vaalean leivän sijaan voi käyttää muita leipälajeja."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-pork-chops",
+    "title": "Grillatut possun kyljykset",
+    "description": "Suolavedessä marinoituja possun kylkikarbonadeja, jotka maustetaan mausterouheella ennen grillausta.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "grilliruoka"],
+    "ingredients": [
+      "2½ dl suolaa",
+      "1¾ dl hunajaa",
+      "5 dl omenaviinietikkaa, lämmitettynä",
+      "4 oksaa tuoretta rosmariinia, hienonnettuna",
+      "10 oksaa tuoretta timjamia, hienonnettuna",
+      "1½ rkl cayennepippuria",
+      "2 rkl hienonnettua valkosipulia",
+      "900 g jäitä",
+      "4 paksua possun kylkikarbonadia",
+      "2 rkl mustapippuria, karkeasti rouhittuna",
+      "1 rkl savustettua paprikajauhetta",
+      "1 rkl ancho-chilijauhetta"
+    ],
+    "instructions": [
+      "Yhdistä hunaja, suola, etikka, rosmariini, timjami, cayennepippuri ja valkosipuli muovipussiin. Lisää jäät ja ravista pussia, kunnes jäät ovat suurimmaksi osaksi sulaneet ja liemi on jäähtynyt.",
+      "Laita kyljykset pussiin ja anna marinoitua jääkaapissa 1–2 tuntia.",
+      "Sekoita rouhittu mustapippuri, paprikajauhe ja chilijauhe keskenään.",
+      "Ota kyljykset marinadista ja taputtele kuivaksi talouspaperilla. Heitä loppu marinadi pois.",
+      "Hiero mausteseos kyljysten molemmille puolille.",
+      "Rasvaa kuuma grilli nopeasti öljyyn kastetulla talouspaperilla pihtejä apuna käyttäen.",
+      "Grillaa kyljyksiä kannen alla 2 minuuttia. Käännä 90 astetta ja kypsennä vielä 2 minuuttia. Käännä toiselle puolelle ja toista.",
+      "Siirrä lautaselle ja anna levätä peittämättömänä 5 minuuttia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-pork-loin",
+    "title": "Grillattu possun ulkofilepaisti",
+    "description": "Dijonsinapilla ja barbecue-mausterouheella maustettu grillattu possunpaisti.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "grilliruoka"],
+    "ingredients": [
+      "2 rkl dijonsinappia",
+      "2 rkl omenaviinietikkaa",
+      "1 luuton possun ulkofilepaisti (n. 1–1,5 kg)",
+      "3 rkl barbecue-mausterouhetta"
+    ],
+    "instructions": [
+      "Yhdistä sinappi ja etikka, ja hiero seos paistin pintaan.",
+      "Peitä paisti tasaisesti barbecue-mausterouheella.",
+      "Grillaa esilämmitetyllä grillillä usein käännellen, kunnes sisälämpötila on 63 astetta.",
+      "Nosta pois ja anna levätä 10 minuuttia. Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-pork-tenderloin",
+    "title": "Grillattu possun sisäfile",
+    "description": "Lime-hunajamarinoitu possun sisäfile, joka kypsennetään hiiligrillissä omenapuulastuilla maustettuna.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "possu", "grilliruoka"],
+    "ingredients": [
+      "1 kg possun sisäfilettä, kalvoista puhdistettuna",
+      "½ dl tuoretta limemehua",
+      "½ dl hunajaa",
+      "1½ tl suolaa",
+      "2 rkl omenaviinietikkaa",
+      "½ dl omenasiideriä",
+      "2 rkl paprikajauhetta",
+      "½ rkl valkosipulijauhetta",
+      "1⅓ rkl cayennepippuria",
+      "½ rkl chipotlejauhetta",
+      "½ rkl mustapippuria",
+      "½ rkl kuivattua rosmariinia",
+      "liotettuja omenapuulastuja"
+    ],
+    "instructions": [
+      "Yhdistä marinadin ainekset pienessä kattilassa. Kaada puolet seoksesta isoon pakastepussiin ja säilytä loput jääkaapissa. Lisää sisäfile pussiin, poista ylimääräinen ilma ja marinoi jääkaapissa 24 tuntia.",
+      "Ota sisäfile marinadista. Heitä pussi ja siihen jäänyt marinadi pois. Anna lihan valua tarvittaessa.",
+      "Yhdistä mausterouheen ainekset ja hiero ne lihan pintaan.",
+      "Sytytä hiilet sytytyspiipussa ja odota noin 15 minuuttia niiden kuumentuessa.",
+      "Kun hiilet ovat kuumia, levitä ne tasaisesti grillin pohjalle. Lisää liotetut puulastut, aseta ritilä takaisin ja laita liha keskelle. Peitä ja kypsennä noin 1½ minuuttia.",
+      "Käännä toiselle sivulle ja kypsennä vielä 1½ minuuttia; toista, kunnes lihaa on kypsennetty vähintään 12 minuuttia ja sisälämpötila on vähintään 63 astetta.",
+      "Tee iso foliopaketti (tai käytä kannellista astiaa) ja aseta liha sisään. Kaada päälle säästetty, vähintään 63 asteeseen lämmitetty marinadi ja anna levätä 10 minuuttia.",
+      "Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-portobello-mushrooms",
+    "title": "Grillatut portobellosienet",
+    "description": "Isot portobellosienet sopivat kasvispääruoaksi – niitä voi käyttää hampurilaispihvien korvikkeena tai nauttia sellaisenaan.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "grilliruoka", "nopea"],
+    "ingredients": [
+      "1 iso portobellosieni per henkilö",
+      "oliiviöljyä",
+      "suolaa (halutessasi)"
+    ],
+    "instructions": [
+      "Poista sienien varret, ja pese ja kuivaa sienet.",
+      "Sivele oliiviöljyllä.",
+      "Grillaa noin 10 minuuttia, kääntäen välillä, kunnes molemmille puolille on tullut grillijäljet."
+    ],
+    "notes": [
+      "Grillissä öljyn sekoittaminen vesipohjaiseen nesteeseen (esim. balsamiviinietikkaan) saa liekin leimahtamaan enemmän ja antaa ruoalle lisää makua – sivele sienet sillä kypsennyksen aikana.",
+      "Myös valkosipuli ja chili sopivat makuihin hyvin. Jos kiire, käytä vain valmista vinegrettiä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-prime-rib",
+    "title": "Grillattu paahtopaisti (prime rib)",
+    "description": "Iso, luullinen naudan kylkipaisti, joka maustetaan runsaalla mausteseoksella ja grillataan hitaasti.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "juhla"],
+    "ingredients": [
+      "1 naudan kylkipaisti, 4 luuta (n. 2,5–3 kg)",
+      "prime rib -mausteseosta",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Sivele paisti oliiviöljyllä. Mausta kaikki puolet runsaasti mausteseoksella.",
+      "Aseta paisti keskilämpöiselle grillille. Kypsennä usein käännellen, kunnes sisälämpötila on 57 astetta (medium rare), 63 astetta (medium) tai 71 astetta (läpikypsä).",
+      "Nosta pois ja peitä alumiinifoliolla. Anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-radicchio-with-bacon-dressing",
+    "title": "Grillattu radicchio pekonikastikkeella",
+    "description": "Grillattu, hieman karvas radicchiosalaatti pehmenee lämpimällä pekoni-sinappivinegretillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Salaatit",
+    "tags": ["salaatti", "grilliruoka", "pekoni"],
+    "ingredients": [
+      "1 iso radicchio, neljänneksiksi leikattuna",
+      "1¼ dl ekstra-neitsytoliiviöljyä, jaettuna",
+      "karkeaa suolaa",
+      "mustapippuria",
+      "2 rkl punaviinietikkaa",
+      "1 tl dijonsinappia",
+      "2 rkl sulatettua pekonirasvaa",
+      "4 viipaletta kypsää pekonia, murennettuna"
+    ],
+    "instructions": [
+      "Sekoita radicchio ½ dl:aan oliiviöljyä. Ripottele runsaasti suolaa ja mustapippuria.",
+      "Aseta keskilämpöiselle grillille ja kypsennä, kunnes se on grillautunut joka puolelta ja lämmennyt läpi.",
+      "Vatkaa sillä aikaa etikka ja sinappi keskenään. Yhdistä toisessa kulhossa loppu oliiviöljy ja pekonirasva. Lisää öljyseos ohuena nauhana etikkaseokseen jatkuvasti vatkaten.",
+      "Valuta kastike radicchion päälle ja ripottele pekonia päälle. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-ribeye-steak",
+    "title": "Grillattu ribeye-pihvi",
+    "description": "Mausterouheella maustettu luullinen ribeye-pihvi, joka paahdetaan nopeasti kuumalla ja viimeistellään keskilämmöllä.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "nopea"],
+    "ingredients": [
+      "½ tl suolaa",
+      "½ tl mustapippuria",
+      "½–1 tl cayennepippuria (maun mukaan)",
+      "2 tl jauhettua korianteria",
+      "1 rkl savustettua paprikajauhetta",
+      "2 kpl luullista ribeye-pihviä",
+      "3 rkl sinappia (mitä tahansa laatua)"
+    ],
+    "instructions": [
+      "Yhdistä kaikki mausterouheen ainekset.",
+      "Sivele pihvit sinapilla ja levitä mausterouhe pinnalle.",
+      "Anna marinoitua jääkaapissa 30 minuuttia.",
+      "Kuumenna grilli mahdollisimman kuumaksi.",
+      "Aseta pihvit grilliin ja kypsennä 2–3 minuuttia per puoli.",
+      "Siirrä pihvit keskilämpöiselle grillin alueelle. Kypsennä haluttuun kypsyysasteeseen, käännellen usein.",
+      "Nosta pois ja anna levätä 10 minuuttia; viipaloi ohuesti syitä vastaan vinottain ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-salmon-with-lemon-butter-sauce",
+    "title": "Grillattu lohi sitruunavoikastikkeella",
+    "description": "Nahallinen lohifilee grillataan hiilillä ja tarjoillaan sulatetulla sitruunavoikastikkeella.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "grilliruoka", "nopea"],
+    "ingredients": [
+      "4 kpl (yht. n. 680 g) nahallisia lohifileitä",
+      "oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "115 g voita, huoneenlämpöisenä",
+      "puolikkaan sitruunan mehu"
+    ],
+    "instructions": [
+      "Sivele lohi oliiviöljyllä ja ripottele runsaasti suolaa ja mustapippuria. Jätä sivuun.",
+      "Lämmitä iso sytytyspiipullinen hiiliä. Kun ne ovat kuumia, levitä ne tasaisesti grillin pohjalle ja aseta ritilä takaisin paikalleen.",
+      "Rasvaa ritilä nopeasti öljyyn kastetulla talouspaperilla pihtejä apuna käyttäen. Lisää lohifileet nahkapuoli alaspäin ja kypsennä kannen alla usein käännellen, kunnes kala on läpikypsää ja irtoaa helposti haarukalla testattaessa.",
+      "Nosta pois ja pidä lämpimänä.",
+      "Sekoita sitruunamehu ja voi keskenään. Sulata keskilämmöllä isossa kattilassa.",
+      "Valuta voikastike lohifileiden päälle ja tarjoile lämpimänä."
+    ],
+    "notes": ["Maustamalla voin ennen sulattamista estät voikastikkeen erottumisen. Myös kerman lisääminen auttaa."]
+  }
+]

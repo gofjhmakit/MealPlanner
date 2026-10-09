@@ -1,0 +1,739 @@
+[
+  {
+    "id": "wikibooks-firfir-ethiopian-spicy-scrambled-eggs-with-injera",
+    "title": "Firfir (etiopialainen tulinen munakokkeli injeran kanssa)",
+    "description": "Suosittu etiopialainen aamiaisruoka tulisesta munakokkelista ja injera-leivän palasista.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "etiopialainen", "aamiainen", "tulinen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2–3 tomaattia, pilkottuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1–2 vihreää chiliä, hienonnettuna",
+      "1 tl berberemaustesekoitusta",
+      "4–6 palaa jäljellä olevaa injeraa, revittynä pieniksi paloiksi",
+      "4 isoa munaa",
+      "½ tl paprikajauhetta",
+      "¼ tl kurkumaa",
+      "¼ tl suolaa (tai maun mukaan)",
+      "tuoretta korianteria, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa paistinpannussa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja kuullota, kunnes se on läpikuultavaa ja hieman ruskistunutta.",
+      "Sekoita joukkoon hienonnettu valkosipuli ja chili, ja kuullota vielä minuutti, kunnes tuoksuu hyvältä.",
+      "Lisää pilkotut tomaatit ja kypsennä, kunnes ne alkavat pehmetä.",
+      "Vatkaa kulhossa munat ja lisää joukkoon berberemaustesekoitus, paprika, kurkuma ja suola. Sekoita hyvin.",
+      "Siirrä paistetut vihannekset pannun toiselle laidalle, jotta keskelle jää tilaa munille.",
+      "Kaada vatkatut munat tyhjään tilaan ja kokkaa puulusikalla tai lastalla, kunnes ne ovat täysin kypsiä.",
+      "Sekoita munakokkeli ja paistetut vihannekset keskenään pannulla.",
+      "Revi injera-palat suupaloiksi ja lisää pannulle. Sekoita hyvin, jotta kaikki ainekset yhdistyvät.",
+      "Kypsennä vielä muutama minuutti, jotta injera imee makuja ja pehmenee hieman.",
+      "Ota pannu liedeltä ja koristele tuoreella hienonnetulla korianterilla. Tarjoa kuumana."
+    ],
+    "notes": [
+      "Firfir tehdään perinteisesti jäljellä olevasta injerasta, mutta voit käyttää myös tuoretta injeraa tai korvata sen toisella litteällä leivällä.",
+      "Säädä tulisuutta lisäämällä tai vähentämällä vihreää chiliä tai berberemaustesekoitusta.",
+      "Voit tarjota tämän sellaisenaan tai täytteenä wrapeissa tai voileivissä."
+    ]
+  },
+  {
+    "id": "wikibooks-firire-senegalese-fried-fish-with-sauce",
+    "title": "Firire (senegalilainen paistettu kala kastikkeella)",
+    "description": "Senegalilaisten suosima ruoka marinoidusta ja paistetusta kokonaisesta kalasta, jota tarjoillaan salaatin ja sipulikastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "senegalilainen", "salaatti"],
+    "ingredients": [
+      "kokonainen kala, puhdistettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl sinappia",
+      "1 rkl etikkaa",
+      "chilijauhetta",
+      "jauhettua cayennepippuria maun mukaan",
+      "1 keskikokoinen (250 g) sipuli, hienonnettuna",
+      "suolaa maun mukaan",
+      "öljyä paistamiseen",
+      "½ vihreää paprikaa, pitkittäin viipaloituna",
+      "salaattia",
+      "1 keskikokoinen kurkku, kuorittuna ja viipaloituna",
+      "jauhobanaania, kuorittuna ja viipaloituna",
+      "2 keskikokoista kirsikkatomaattia"
+    ],
+    "instructions": [
+      "Pese kala huolellisesti ja viillä sen kylkiin viiltoja.",
+      "Yhdistä valkosipuli, sinappi, etikka, chilijauhe, cayennepippuri, sipuli ja ripaus suolaa. Hiero seos kalaan ja anna marinoitua 15 minuuttia.",
+      "Raaputa sipulit pois kalasta ja laita ne talteen.",
+      "Kuumenna öljy pannulla keskilämmöllä. Lisää kala ja paista molemmin puolin ruskeaksi. Nosta pois ja laita sivuun.",
+      "Lisää marinoidut sipulit pannulle. Paista ruskeaksi, sekoittaen 2–3 minuutin välein.",
+      "Sekoita joukkoon vihreä paprika. Laske lämpö keskitasolle ja kypsennä noin 7 minuuttia. Laita kastike sivuun.",
+      "Sekoita loraus etikkaa, öljyä ja sinappia kastikkeeksi. Sekoita kastike salaatin ja kurkun kanssa. Laita sivuun.",
+      "Paista jauhobanaani ja mausta suolalla maun mukaan.",
+      "Asettele salaatti tarjoiluastiaan ja laita kala keskelle. Koristele tomaateilla ja jauhobanaanilla. Tarjoa talteen otetun kastikkeen kanssa."
+    ],
+    "notes": ["Firirea voi nauttia leivän kanssa jauhobanaanin sijaan. Se maistuu erinomaiselta myös majoneesin kanssa."]
+  },
+  {
+    "id": "wikibooks-fish-and-chips",
+    "title": "Fish and chips",
+    "description": "Englantilainen klassikko: rapeaksi paistettu kalafile taikinakuorrutuksessa ja paksut perunalohkot.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "englantilainen", "friteerattu", "peruna"],
+    "ingredients": [
+      "125 g vehnäjauhoja",
+      "125 g maissitärkkelystä",
+      "suolaa",
+      "kylmää vettä, sen verran että taikinasta tulee sopivan paksua",
+      "4 turskan, koljan tai merikrotin fileetä (tai muuta sopivaa valkoista kalaa)",
+      "4 perunaa, mieluiten Maris Piper -lajiketta",
+      "1 l rypsiöljyä friteeraukseen",
+      "merisuolaa",
+      "1 sitruuna, lohkoina",
+      "oksa persiljaa koristeluun",
+      "merisuolaa",
+      "maltaaetikkaa"
+    ],
+    "instructions": [
+      "Kuumenna öljy friteerauskeittimessä 180 asteeseen, tai kunnes leipäkuutio ruskistuu 15 sekunnissa öljyssä.",
+      "Kuori perunat ja leikkaa paksuiksi lohkoiksi. Friteeraa perunoita erissä 6–8 minuuttia, kunnes ne ovat rapeita ja kullanruskeita.",
+      "Nosta öljystä ja valuta talouspaperilla. Ripottele merisuolaa ja pidä lämpimänä.",
+      "Vatkaa kulhossa yhteen vehnäjauhot, maissitärkkelys, suola ja riittävästi kylmää vettä taikinaksi.",
+      "Leikkaa kala paksuiksi viipaleiksi ja kasta taikinaan.",
+      "Friteeraa kalaa erissä 5–6 minuuttia, riippuen kalan koosta. Nosta pois ja valuta talouspaperilla.",
+      "Siirrä kala ja perunat tarjoiluastioille ja koristele sitruunalohkoilla ja persiljanoksalla. Perinteisemmän tunnelman saat tarjoilemalla ne ruskealla paperilla.",
+      "Ripottele päälle suolaa ja/tai etikkaa. Yleensä sitruunaa puristetaan kalan päälle ja etikkaa perunoiden päälle. Voidaan tarjota myös suolakurkkujen, etikkasipuleiden, tartarkastikkeen, etikkamunien ja hernemuusin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-fish-biryani",
+    "title": "Kalabiryani",
+    "description": "Eteläafrikkalainen, Kapin malaijilaisperäinen mausteinen kalabiryani riisistä, linsseistä ja marinoidusta kalasta.",
+    "servings": 6,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kala", "riisi", "eteläafrikkalainen", "mausteinen"],
+    "ingredients": [
+      "8 valkosipulinkynttä",
+      "2–3 tl tuoretta jauhettua punaista chiliä",
+      "1 tl murskattua korianterinsiementä (dhania)",
+      "1–2 tl murskattua juustokuminansiementä (jeera)",
+      "1 sitruunan mehu",
+      "1 tl kurkumaa",
+      "1 tl suolaa",
+      "1 tl öljyä",
+      "1 tl tomaattipyreetä",
+      "1 kg kalafileitä",
+      "5 dl raakaa riisiä",
+      "5 dl masoor-linssejä (punaisia tai vaaleanpunaisia linssejä)",
+      "2 sipulia, raastettuna",
+      "1¼ dl öljyä",
+      "1 tomaatti, raastettuna",
+      "2½ dl öljyä",
+      "1¼ dl gheetä",
+      "8 pientä perunaa",
+      "muutama neilikka, kokonaisia maustepippureita ja kanelinpalasia",
+      "4 kokonaista vihreää chiliä",
+      "4 kardemumman palkoa",
+      "1 tl juustokuminaa",
+      "½ tl kurkumaa",
+      "2½ dl jogurttia"
+    ],
+    "instructions": [
+      "Survo valkosipuli ja chilit tahnaksi. Sekoita joukkoon korianteri, juustokumina, sitruunamehu, kurkuma, suola, öljy ja tomaattipyree marinadiksi.",
+      "Sivele kalafileet marinadilla. Jäähdytä 1 tunti.",
+      "Keitä riisi ja linssit erikseen kypsiksi.",
+      "Paista sipulit 1¼ dl:ssa öljyä kullanruskeiksi. Valuta ylimääräinen öljy pois, mutta säästä se.",
+      "Yhdistä talteen otettu sipuliöljy gheehen. Kuumenna seos ja käytä sitä pihvien ja perunoiden paistamiseen. Säästä loput paistoöljyt.",
+      "Paista kala erillisessä öljyssä.",
+      "Sekoita syvässä kulhossa jogurtti, raastettu tomaatti, mausteet ja paistetut sipulit (säästä 1 tl sipulia riisin päälle). Kastele paistettu kala tässä marinadissa muutama minuutti.",
+      "Ota iso litteäpohjainen pata ja kaada siihen aiemmin talteen otetut öljyt, lisää loput gheestä ja öljystä, ja ripottele päälle hieman linssejä.",
+      "Asettele kalaviipaleet ja kaikki marinadi linssi- ja öljy/ghee-kerroksen päälle. Peitä lopuilla linsseillä.",
+      "Asettele perunat linssien päälle ja peitä lopuksi riisillä. Ripottele riisin päälle säästetty paistettu sipuli ja kuumaa gheetä.",
+      "Kaada riisin päälle noin ½ dl vettä, sulje kansi tiiviisti ja laita liedelle. Kun pata alkaa kihistä, laske lämpöä ja hauduta 30–40 minuuttia."
+    ],
+    "notes": ["Kalan paistamiseen käytettyä öljyä ei saa missään tapauksessa käyttää itse biryanissa."]
+  },
+  {
+    "id": "wikibooks-fish-pie",
+    "title": "Kalapiiras",
+    "description": "Brittiläinen kalapiiras lohesta, savukoljasta ja äyriäisistä, perunamuusikuorrutuksella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "äyriäiset", "uuniruoka", "englantilainen"],
+    "ingredients": [
+      "200 g tuoretta lohta",
+      "200 g savustettua koljaa",
+      "100 g katkarapuja",
+      "100 g sinisimpukoita",
+      "5 kpl kampasimpukoita",
+      "1 kg perunoita",
+      "muskottipähkinää",
+      "voita",
+      "1½ dl kuohukermaa",
+      "2 laakerinlehteä",
+      "maitoa",
+      "50 g raastettua Emmental- tai Appenzeller-juustoa"
+    ],
+    "instructions": [
+      "Laita kaikki kala kattilaan riittävän maidon kanssa niin, että kala peittyy. Lisää laakerinlehdet ja ripaus suolaa.",
+      "Hauduta miedolla lämmöllä noin 5 minuuttia.",
+      "Nosta kala pois kattilasta, poista koljan ja lohen nahka, ja paloittele haarukalla. Laita takaisin maitoon ja jätä sivuun.",
+      "Kuori ja keitä perunat pehmeiksi muusiksi. Tähän menee vähintään 20 minuuttia, muuten muusi voi jäädä paakkuiseksi. Peruna tulisi muusata todella hyvin, sähkövatkaimen käyttöä suositellaan alustavan survomisen jälkeen.",
+      "Kaada hieman kalan keitinmaitoa muusiin, jotta kalan maku tunkeutuu siihen. Muusin ei pidä olla liian löysää, mutta lisää joukkoon myös hieman kermaa ja raasta muskottipähkinää.",
+      "Laita kypsä kala uuninkestävän vuoan pohjalle, jäljellä olevan maitokastikkeen kera. Vuoan ei kannata olla liian iso, jotta kalasta muodostuu pari kerrosta yhden sijaan. Painele kalaa kevyesti kasaan.",
+      "Levitä perunamuusi kalan päälle noin 3,8 cm:n korkuiseksi kerrokseksi, varmistaen että se on tasainen eikä kasautunut keskelle. Uurra muusin pinta haarukalla, jotta se ruskistuu kauniisti uunissa.",
+      "Halutessasi lisää raastettu juusto muusin päälle, ja koristele piiraan pinta isoilla kuorituilla katkaravuilla kalan reunalle, sekä mahdollisesti koristeella keskelle.",
+      "Laita piiras uuniin 220 asteeseen noin 30 minuutiksi, kunnes perunan ja juuston pinta on kauniisti ruskistunut ja muusi kuplii.",
+      "Ota uunista ja tarjoile heti."
+    ],
+    "notes": ["Hyvä lisuke kalapiiraalle on merisammakonrakko (samphire), jos sitä saa – keitä 10 minuuttia, lisää voita ja halutessasi hieman raastettua parmesaania. Myös tuore vihreä salaatti sopii hyvin."]
+  },
+  {
+    "id": "wikibooks-fish-sauce-vegan",
+    "title": "Vegaaninen kalakastike",
+    "description": "Kasvipohjainen jäljitelmä kalakastikkeesta, joka tavoittelee alkuperäisen umami-makua merilevästä ja soijakastikkeesta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike", "säilykkeet"],
+    "ingredients": [
+      "3½ dl silputtua kuivattua merilevää",
+      "1 l vettä",
+      "3 isoa valkosipulinkynttä, murskattuna mutta kuorimattomana",
+      "1½ rkl mustapippureita",
+      "1¼ dl tummaa kiinalaista soijakastiketta",
+      "kiehuvaa vettä tarvittaessa"
+    ],
+    "instructions": [
+      "Laita merilevä pataan ja lisää 1 l vettä.",
+      "Kuumenna kiehuvaksi ja laske lämpöä niin, että seos poreilee tasaisesti.",
+      "Keitä 20 minuuttia.",
+      "Lisää loput ainekset ja riittävästi vettä, niin että pataan tulee nestettä yhteensä noin 14 dl.",
+      "Kuumenna uudelleen kiehuvaksi ja keitä melko kovalla lämmöllä vähintään ½ tuntia.",
+      "Tässä vaiheessa ala maistaa pienin erin – liemi on voimakasta.",
+      "Kun liemi on vähentynyt noin puoleen, se on lähes liian suolaista syötäväksi sellaisenaan, ja silloin se on valmista.",
+      "Siivilöi hienon siivilän tai kahvinsuodattimen läpi ja anna jäähtyä."
+    ]
+  },
+  {
+    "id": "wikibooks-fish-sticks",
+    "title": "Kalapuikot",
+    "description": "Rapeat itse tehdyt kalapuikot maissijauhokuorrutuksessa, maustettuna cayennepippurilla ja savupaprikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "friteerattu", "lastenruoka", "nopea"],
+    "ingredients": [
+      "450 g turskaa, koljaa tai tilapiaa fileoituna, halkaistuna",
+      "maissijauhoja tarpeen mukaan",
+      "tuoretta sitruunamehua tarpeen mukaan",
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "1 rkl cayennepippuria",
+      "2 rkl savupaprikaa",
+      "öljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita kaikki kuivat mausteet keskenään. Laita sivuun.",
+      "Kasta kalapalat sitruunamehuun, mausta mausteseoksella ja pyöritä lopuksi maissijauhossa.",
+      "Kuumenna öljy 190 asteeseen. Paista kalaa erissä 3 minuuttia. Valuta ritilällä.",
+      "Leikkaa yksi pala auki tarkistaaksesi kypsyyden. Jos sisus on raaka, viimeistele 175 asteisessa uunissa, ei öljyssä. Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-fish-stock-fumet-de-poisson",
+    "title": "Kalaliemi (Fumet de poisson)",
+    "description": "Klassinen ranskalainen kalaliemi, perusta kalakastikkeille ja -keitoille.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["liemi", "ranskalainen", "kala", "peruskastike"],
+    "ingredients": [
+      "1400 g kalanruotoja ja -leikkeitä",
+      "2 l vettä",
+      "2½ dl karkeasti pilkottua sipulia",
+      "2 dl sellerinvartta lehtineen, karkeasti pilkottuna",
+      "¾ dl purjoa tai kevätsipulia vihreine osineen, viipaloituna ja huolella pestynä",
+      "1 laakerinlehti",
+      "2 oksaa tuoretta timjamia TAI ½ tl kuivattua timjamia",
+      "1 tl suolaa",
+      "3 kokonaista mustapippuria",
+      "2½ dl kuivaa valkoviiniä"
+    ],
+    "instructions": [
+      "Pese kalanruodot ja -leikkeet. Valuta ja muusaa isolla lusikan kannalla.",
+      "Laita kala liemipataan ja lisää vesi.",
+      "Kuumenna hiljalleen kiehuvaksi ja hauduta 5 minuuttia, kuoria vaahto pois.",
+      "Lisää vihannekset ja mausteet.",
+      "Peitä osittain ja hauduta 30 minuuttia, kuoren pinta 10 minuutin välein.",
+      "Ota liedeltä ja nosta kala ja vihannekset pois reikäkauhalla.",
+      "Siivilöi kaksinkertaisen kostutetun harsokankaan läpi.",
+      "Jäähdytä huoneenlämpöiseksi. Säilytä jääkaapissa 2–3 päivää tai pakasta pidempää säilytystä varten."
+    ]
+  },
+  {
+    "id": "wikibooks-fishermans-casserole",
+    "title": "Kalastajan vuoka",
+    "description": "Täyttävä uunivuoka makaronista, lohesta, juustosta ja herneistä.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kala", "uuniruoka", "makaroni", "arkiruoka"],
+    "ingredients": [
+      "225 g makaronia",
+      "225 g raastettua cheddarjuustoa",
+      "1⅔ dl maitoa",
+      "½ tl kuivattua sinappijauhetta",
+      "1¼ dl hienonnettua sipulia",
+      "1 tlk (300 g) sellerikermakeittotiivistettä",
+      "1 tl suolaa",
+      "1 tlk (420 g) lohta",
+      "1 ps (225 g) pakasteherneitä",
+      "2½ dl korppujauhoja",
+      "2 rkl voita, sulatettuna"
+    ],
+    "instructions": [
+      "Lämmitä uuni 175 asteeseen.",
+      "Keitä makaroni pakkauksen ohjeen mukaan; valuta.",
+      "Sekoita isossa kulhossa juusto, makaroni, maito, sinappijauhe, sipuli, keittotiiviste ja suola.",
+      "Lisää lohi ja pakastetut herneet.",
+      "Siirrä seos voideltuun noin 23 x 33 cm:n uunivuokaan.",
+      "Peitä seos korppujauhoilla; valuta päälle sulatettu voi.",
+      "Paista 45 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-fit-fit-ethiopian-bread-salad",
+    "title": "Fit-fit (etiopialainen leipäsalaatti)",
+    "description": "Maukas etiopialainen aamiais- tai brunssiruoka revitystä injera-leivästä ja tulisesta kastikkeesta, hyvä tapa hyödyntää yli jäänyttä injeraa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "etiopialainen", "aamiainen", "leipä"],
+    "ingredients": [
+      "2 rkl niter kibbeh'tä (etiopialaista maustettua kirkastettua voita) tai tavallista voita",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2 tomaattia, kuutioituna",
+      "1 jalapeño, siemenet poistettuna ja hienonnettuna (valinnainen, tulisuuteen)",
+      "1 tl berberemaustesekoitusta (tai maun mukaan)",
+      "4–6 palaa jäljellä olevaa injeraa, revittynä suupaloiksi",
+      "suolaa maun mukaan",
+      "tuoretta korianteria tai persiljaa, hienonnettuna, koristeluun"
+    ],
+    "instructions": [
+      "Kuumenna niter kibbeh tai voi isossa paistinpannussa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja kuullota, kunnes se on läpikuultavaa ja hieman ruskistunutta.",
+      "Lisää kuutioidut tomaatit ja jalapeño (jos käytät), ja kypsennä muutama minuutti, kunnes tomaatit alkavat pehmetä.",
+      "Ripottele berberemaustesekoitus seoksen päälle ja sekoita hyvin, niin että se peittää sipulit ja tomaatit. Säädä berberen määrää halutun tulisuuden mukaan.",
+      "Lisää revityt injera-palat pannulle ja sekoita varovasti sipuli-tomaattiseoksen kanssa.",
+      "Paista seosta muutama minuutti, välillä sekoittaen, kunnes injera on lämmennyt läpi ja hieman rapeutunut.",
+      "Mausta suolalla maun mukaan. Muista, että injera voi maistua hieman hapokkaalta, joten säädä suolan määrää sen mukaan.",
+      "Ota liedeltä ja siirrä tarjoiluastiaan. Koristele tuoreella hienonnetulla korianterilla tai persiljalla.",
+      "Tarjoa lämpimänä herkullisena aamiaisena tai brunssina."
+    ],
+    "notes": [
+      "Injera valmistetaan teff-jauhosta, joka on gluteenitonta ja runsaskuituista.",
+      "Fit-fitiä voi muunnella lisäämällä esimerkiksi kuutioitua kurkkua, paprikaa tai keitettyjä linssejä.",
+      "Voit raikastaa makua puristamalla päälle tuoretta sitruuna- tai limemehua juuri ennen tarjoilua.",
+      "Joissain versioissa lisätään munakokkelia tai murustettua fetajuustoa lisämaun ja -proteiinin vuoksi."
+    ]
+  },
+  {
+    "id": "wikibooks-five-spice-powder",
+    "title": "Viiden mausteen jauhe",
+    "description": "Kiinalainen viiden mausteen sekoitus, joka yhdistää makean, hapokkaan, karvaan, pistävän ja suolaisen maun.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mauste", "kiinalainen"],
+    "ingredients": [
+      "2 tl sichuaninpippuria",
+      "8 kpl tähtianista",
+      "½ tl jauhettuja neilikoita",
+      "1 rkl jauhettua kanelia",
+      "1 rkl jauhettua fenkolinsiementä"
+    ],
+    "instructions": [
+      "Paahda sichuaninpippuri kuivassa paistinpannussa noin 3 minuuttia.",
+      "Jauha pippurit mausteen- tai kahvimyllyssä yhdessä tähtianiksen kanssa.",
+      "Siivilöi jauhetut mausteet, jotta isommat palat jäävät pois.",
+      "Sekoita joukkoon neilikka, kaneli ja fenkolinsiemen.",
+      "Jauha koko seos hyvin hienoksi jauheeksi.",
+      "Käytä säästeliäästi, sillä mauste on erittäin voimakas."
+    ]
+  },
+  {
+    "id": "wikibooks-flaky-pastry-dough",
+    "title": "Lehtitaikina (yksinkertainen versio)",
+    "description": "Yksinkertainen voipohjainen lehtitaikina piirakoiden ja pasteijoiden pohjaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonta", "taikina", "kasvis"],
+    "ingredients": [
+      "450 g vehnäjauhoja",
+      "450 g kylmää voita, kuutioituna",
+      "kylmää vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja voikuutiot kulhossa sormin, kunnes seos muistuttaa karkeaa murua ja voipaloja on vielä näkyvissä.",
+      "Lisää vähän kerrallaan kylmää vettä ja sekoita, kunnes taikina kokoontuu palloksi. Älä vaivaa liikaa.",
+      "Kääri taikina muoviin ja anna levätä jääkaapissa vähintään 30 minuuttia ennen käyttöä.",
+      "Kauli taikina ohueksi levyksi ja käytä piirakoiden tai pasteijoiden pohjana."
+    ]
+  },
+  {
+    "id": "wikibooks-flaky-pie-crust",
+    "title": "Rapea piirakkapohja",
+    "description": "Klassinen voipohjainen, rapea piirakkapohja kahdelle kuorelle.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leivonta", "taikina", "kasvis", "jälkiruoka"],
+    "ingredients": [
+      "300 g vehnäjauhoja",
+      "1 tl suolaa",
+      "230 g kylmää voita, kuutioituna",
+      "1¼ dl erittäin kylmää vettä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola isossa kulhossa.",
+      "Lisää kylmä voi ja leikkaa se jauhoihin taikinaleikkurilla tai sormin, kunnes seos muistuttaa karkeaa jauhetta, isompien herneen kokoisten voipalojen vielä näkyessä.",
+      "Lisää kylmä vesi ruokalusikallinen kerrallaan, sekoittaen varovasti haarukalla, kunnes taikina alkaa kokoontua.",
+      "Kokoa taikina kahdeksi tasaiseksi kiekoksi, kääri muoviin ja jäähdytä vähintään 1 tunti.",
+      "Kauli ensimmäinen kiekko jauhotetulla alustalla ohueksi levyksi ja siirrä piirakkavuokaan.",
+      "Täytä piirakka halutulla täytteellä.",
+      "Kauli toinen kiekko kanneksi, aseta täytteen päälle, sulje reunat ja tee kanteen muutama ilmareikä.",
+      "Paista 220 asteessa 15 minuuttia, laske sitten lämpötila 180 asteeseen ja paista vielä noin 35–45 minuuttia, kunnes kuori on kullanruskea."
+    ],
+    "notes": ["Pidä kaikki ainekset ja välineet mahdollisimman kylminä koko ajan – se on avain rapeaan, lehtevään kuoreen."]
+  },
+  {
+    "id": "wikibooks-flammekueche-bacon-and-onion-flatbread",
+    "title": "Flammekueche (pekoni-sipulipiiras)",
+    "description": "Alsacelainen ohut hiivataikinapohjainen piiras, jonka päällä on crème fraîchea, sipulia ja pekonia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "pekoni", "uuniruoka"],
+    "ingredients": [
+      "300 g vehnäjauhoja",
+      "1 tl kuivahiivaa",
+      "1 tl suolaa",
+      "1 rkl rypsiöljyä",
+      "1¾ dl haaleaa vettä (noin 45 astetta)",
+      "200 g crème fraîchea",
+      "2 sipulia, ohuina viipaleina",
+      "150 g pekonikuutioita",
+      "mustapippuria",
+      "muskottipähkinää"
+    ],
+    "instructions": [
+      "Sekoita jauhot, hiiva ja suola kulhossa. Lisää öljy ja haalea vesi, ja vaivaa taikina sileäksi noin 5–10 minuuttia.",
+      "Peitä kulho ja anna taikinan kohota lämpimässä paikassa noin 1 tunti, kunnes se on kaksinkertaistunut.",
+      "Lämmitä uuni 220 asteeseen.",
+      "Kauli taikina ohueksi, noin 35 x 40 cm:n kokoiseksi levyksi ja siirrä leivinpaperin päälle.",
+      "Levitä crème fraîche tasaisesti taikinan päälle, jättäen reunoihin kapea reuna.",
+      "Ripottele ohuet sipuliviipaleet ja pekonikuutiot tasaisesti päälle. Mausta mustapippurilla ja raasta päälle hieman muskottipähkinää.",
+      "Paista uunin alatasolla noin 12–15 minuuttia, kunnes reunat ovat rapeat ja kullanruskeat.",
+      "Leikkaa paloiksi ja tarjoa heti kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-flan-de-queso-cream-cheese-flan",
+    "title": "Flan de queso (tuorejuustoflani)",
+    "description": "Meksikolais-espanjalainen täyteläinen karamellikastikkeinen flani, jossa on mukana tuorejuustoa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "meksikolainen", "uuniruoka"],
+    "ingredients": [
+      "2½ dl sokeria (karamelliin)",
+      "230 g tuorejuustoa, huoneenlämpöistä",
+      "1 tlk (397 g) makeutettua kondensoitua maitoa",
+      "1 tlk (354 g) haudutettua maitoa",
+      "4 kananmunaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Lämmitä uuni 175 asteeseen.",
+      "Sulata sokeri kuivassa kattilassa keskilämmöllä, kunnes se muuttuu kullanruskeaksi karamelliksi. Kaada heti flanivuoan pohjalle ja pyörittele, jotta karamelli peittää pohjan tasaisesti.",
+      "Sekoita tehosekoittimessa tuorejuusto, kondensoitu maito, haudutettu maito, munat ja vaniljauute tasaiseksi seokseksi.",
+      "Kaada seos karamellin päälle vuokaan.",
+      "Aseta flanivuoka isompaan uunivuokaan ja kaada ympärille kuumaa vettä noin 4 cm:n korkeudelle.",
+      "Paista noin 60 minuuttia, kunnes flani on hyytynyt mutta keskeltä hieman tutiseva.",
+      "Anna jäähtyä huoneenlämpöiseksi ja jäähdytä sitten jääkaapissa vähintään 4 tuntia tai yön yli.",
+      "Irrota reunoilta veitsellä, käännä tarjoiluvadille niin, että karamelli valuu päälle, ja tarjoa viipaloituna."
+    ]
+  },
+  {
+    "id": "wikibooks-flan-patissier",
+    "title": "Flan pâtissier",
+    "description": "Ranskalainen vaniljainen vanukaspiiras rapean murotaikinapohjan päällä.",
+    "servings": 6,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "ranskalainen", "uuniruoka"],
+    "ingredients": [
+      "200 g voitaikinaa (valmis levy)",
+      "5 dl maitoa",
+      "150 g sokeria",
+      "80 g maissitärkkelystä",
+      "3 kananmunaa",
+      "1 rkl vaniljauutetta"
+    ],
+    "instructions": [
+      "Lämmitä uuni 200 asteeseen.",
+      "Vuoraa piirakkavuoka voitaikinalla ja painele se pohjalle ja reunoille.",
+      "Kuumenna maito kattilassa lähelle kiehumispistettä.",
+      "Vatkaa kulhossa sokeri, maissitärkkelys ja munat tasaiseksi seokseksi.",
+      "Kaada kuuma maito ohuena nauhana munaseokseen koko ajan vatkaten, jotta munat eivät hyydy.",
+      "Kaada seos takaisin kattilaan ja kuumenna keskilämmöllä koko ajan vispilällä sekoittaen, kunnes seos paksunee kunnolla.",
+      "Sekoita joukkoon vaniljauute.",
+      "Kaada täyte taikinapohjan päälle ja tasoita pinta.",
+      "Paista 30–35 minuuttia, kunnes pinta on kullanruskea ja täyte on hyytynyt.",
+      "Anna jäähtyä täysin ennen viipalointia, mieluiten jääkaapissa useita tunteja."
+    ]
+  },
+  {
+    "id": "wikibooks-flapjacks",
+    "title": "Flapjack-kaurapalat",
+    "description": "Brittiläinen tahmea kaurapala, joka tehdään margariinista, siirapista ja sokerista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["leivonta", "kaura", "välipala", "englantilainen"],
+    "ingredients": [
+      "150 g margariinia",
+      "75 g vaaleaa siirappia",
+      "75 g sokeria",
+      "200 g pikakauraa"
+    ],
+    "instructions": [
+      "Lämmitä uuni 180 asteeseen ja vuoraa neliskulmainen uunivuoka leivinpaperilla.",
+      "Sulata margariini, siirappi ja sokeri kattilassa miedolla lämmöllä, kunnes seos on tasaista.",
+      "Sekoita joukkoon kaurahiutaleet, kunnes ne ovat kauttaaltaan seoksen peitossa.",
+      "Levitä seos tasaisesti vuokaan ja painele pinta tasaiseksi.",
+      "Paista 20–25 minuuttia, kunnes pinta on kullanruskea.",
+      "Anna jäähtyä vuoassa ja leikkaa paloiksi vielä haaleana."
+    ]
+  },
+  {
+    "id": "wikibooks-flapjacks-lower-sugar",
+    "title": "Vähäsokerisemmat flapjack-kaurapalat",
+    "description": "Vähemmän sokeria sisältävä versio perinteisistä kaurapaloista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["leivonta", "kaura", "välipala", "englantilainen"],
+    "ingredients": [
+      "28 g sokeria",
+      "112 g voita",
+      "2 rkl vaaleaa siirappia",
+      "225 g kaurahiutaleita",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Lämmitä uuni 190 asteeseen ja vuoraa neliskulmainen uunivuoka leivinpaperilla.",
+      "Sulata voi, sokeri ja siirappi kattilassa miedolla lämmöllä, kunnes seos on tasaista.",
+      "Sekoita joukkoon kaurahiutaleet ja suola, kunnes seos on tasaisesti sekoittunut.",
+      "Levitä seos vuokaan ja painele tasaiseksi.",
+      "Paista 15–20 minuuttia, kunnes pinta on vaaleanruskea.",
+      "Anna jäähtyä vuoassa ennen paloiksi leikkaamista."
+    ]
+  },
+  {
+    "id": "wikibooks-flapjacks-traditional-scottish-recipe",
+    "title": "Perinteiset skotlantilaiset flapjack-kaurapalat",
+    "description": "Perinteinen skotlantilainen resepti voisista ja tahmeista kaurapaloista.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["leivonta", "kaura", "välipala", "skotlantilainen"],
+    "ingredients": [
+      "75 g voita tai margariinia",
+      "50–75 g fariinisokeria",
+      "2 rkl vaaleaa siirappia",
+      "175 g kaurahiutaleita"
+    ],
+    "instructions": [
+      "Lämmitä uuni 180 asteeseen ja voitele 18 cm:n vuoka.",
+      "Sulata voi, fariinisokeri ja siirappi kattilassa miedolla lämmöllä sekoittaen.",
+      "Sekoita joukkoon kaurahiutaleet, kunnes seos on tasainen.",
+      "Kaada seos vuokaan ja painele pinta tasaiseksi lusikan selällä.",
+      "Paista 20–25 minuuttia, kunnes pinta on kullanruskea.",
+      "Leikkaa paloiksi heti uunista otettaessa, mutta anna jäähtyä kokonaan vuoassa ennen irrottamista."
+    ]
+  },
+  {
+    "id": "wikibooks-fleischkrapfen-austrian-meat-pasties",
+    "title": "Fleischkrapfen (itävaltalaiset lihapasteijat)",
+    "description": "Itävaltalaiset rapeat, uppopaistetut taskut, joissa on täytteenä perunaa, pekonia ja savustettua lihaa.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["itävaltalainen", "friteerattu", "liha"],
+    "ingredients": [
+      "150 g ruisjauhoja",
+      "150 g vehnäjauhoja",
+      "1 muna",
+      "1 dl vettä",
+      "1 tl suolaa",
+      "2 perunaa, keitettynä ja muusattuna",
+      "100 g pekonikuutioita",
+      "100 g savustettua lihaa, kuutioituna",
+      "1 sipuli, hienonnettuna",
+      "persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "öljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita ruisjauhot, vehnäjauhot, muna, vesi ja suola taikinaksi. Vaivaa sileäksi ja anna levätä 30 minuuttia.",
+      "Paista pekonikuutiot pannulla rapeiksi. Lisää sipuli ja kuullota.",
+      "Sekoita paistettu pekoni ja sipuli muusatun perunan, savustetun lihan ja persiljan kanssa. Mausta suolalla ja mustapippurilla.",
+      "Kauli taikina ohueksi ja leikkaa neliöiksi.",
+      "Laita lusikallinen täytettä kunkin neliön keskelle ja taita kolmioksi, painaen reunat tiiviisti kiinni.",
+      "Kuumenna öljy 180 asteeseen ja paista pasteijoita erissä kullanruskeiksi, noin 4–5 minuuttia per puoli.",
+      "Nosta öljystä ja valuta talouspaperilla. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-fleischnacka-alsatian-meat-and-pasta-roll",
+    "title": "Fleischnacka (alsacelainen liha-pastarulla)",
+    "description": "Alsacelainen perinneruoka, jossa ohut pastataikina täytetään jauhelihalla ja keitetään liemessä kuin etanankuoren muotoisina rullina.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "liha", "pasta", "uuniruoka"],
+    "ingredients": [
+      "400 g vehnäjauhoja",
+      "4 munaa",
+      "1 tl suolaa",
+      "1100 g naudan jauhelihaa",
+      "2 sipulia, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "1 l naudanlihalientä",
+      "1 l kuivaa Riesling-viiniä (valinnainen)",
+      "2 sipulia, viipaloituna",
+      "voita"
+    ],
+    "instructions": [
+      "Vaivaa vehnäjauhoista, munista ja suolasta kiinteä pastataikina. Anna levätä 30 minuuttia kääritynä muoviin.",
+      "Sekoita jauheliha, sipulit, valkosipuli ja persilja keskenään. Mausta suolalla ja mustapippurilla.",
+      "Kauli taikina ohueksi suorakaiteeksi ja levitä liha-täyte tasaisesti sen päälle.",
+      "Kääri taikina tiiviisti rullaksi pitkältä sivulta alkaen.",
+      "Leikkaa rulla noin 3 cm:n paksuisiksi viipaleiksi (näyttävät etanankuorilta).",
+      "Ruskista viipaloidut sipulit voissa suuressa padassa.",
+      "Lisää naudanlihaliemi ja viini (jos käytät) pataan ja kuumenna kiehuvaksi.",
+      "Asettele rullat liemeen varovasti, peitä pata ja hauduta miedolla lämmöllä noin 45–60 minuuttia, kunnes rullat ovat kypsiä.",
+      "Tarjoa rullat kuumana liemen ja sipulien kera."
+    ]
+  },
+  {
+    "id": "wikibooks-florida-style-crab-cakes",
+    "title": "Floridalaistyyliset rapupihvit",
+    "description": "Mehukkaat rapupihvit, joissa taustalla maistuu sinapin ja majoneesin tuoma kirpeys.",
+    "servings": 5,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["äyriäiset", "amerikkalainen", "paistettu"],
+    "ingredients": [
+      "900 g rapulihaa, poimittuna kuorenpalasista",
+      "1 dl majoneesia",
+      "1 rkl dijon-sinappia",
+      "1 muna",
+      "1 tl worcestershirekastiketta",
+      "ripaus cayennepippuria",
+      "2 dl korppujauhoja",
+      "2 rkl hienonnettua persiljaa",
+      "suolaa",
+      "mustapippuria",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kulhossa majoneesi, sinappi, muna, worcestershirekastike ja cayennepippuri.",
+      "Lisää rapuliha ja korppujauhot varovasti joukkoon, jotta rapulihan palat eivät murskaannu liikaa.",
+      "Sekoita joukkoon persilja. Mausta suolalla ja mustapippurilla.",
+      "Muotoile seoksesta pihvejä ja jäähdytä niitä jääkaapissa vähintään 30 minuuttia, jotta ne pysyvät kasassa paistettaessa.",
+      "Kuumenna voi pannulla keskilämmöllä.",
+      "Paista pihvejä noin 4 minuuttia per puoli, kunnes molemmat puolet ovat kullanruskeita ja pihvit ovat kauttaaltaan kuumia.",
+      "Tarjoa heti, esimerkiksi sitruunalohkojen ja tartarkastikkeen kera."
+    ]
+  },
+  {
+    "id": "wikibooks-flourless-chocolate-cake",
+    "title": "Gluteeniton suklaakakku",
+    "description": "Tiivis ja intensiivinen suklaakakku ilman jauhoja, sopii myös gluteenittomalle ruokavaliolle.",
+    "servings": 8,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "suklaa", "gluteeniton", "uuniruoka"],
+    "ingredients": [
+      "150 g tummaa suklaata, paloiteltuna",
+      "150 g voita",
+      "120 g sokeria",
+      "4 munaa, erotettuina keltuaisiksi ja valkuaisiksi",
+      "1 rkl kaakaojauhetta siivilöintiin"
+    ],
+    "instructions": [
+      "Lämmitä uuni 150 asteeseen ja voitele pyöreä irtopohjavuoka, vuoraten pohja leivinpaperilla.",
+      "Sulata suklaa ja voi vesihauteessa tai mikrossa varovasti, sekoittaen tasaiseksi.",
+      "Vatkaa munankeltuaiset ja puolet sokerista vaaleaksi ja kuohkeaksi.",
+      "Vatkaa erillisessä kulhossa munanvalkuaiset kovaksi vaahdoksi, lisäten loput sokerista vähitellen, kunnes vaahto on kiiltävää.",
+      "Sekoita sulatettu suklaaseos keltuaisvaahtoon.",
+      "Nostele munanvalkuaisvaahto varovasti joukkoon kahdessa erässä, jotta seos pysyy ilmavana.",
+      "Kaada taikina vuokaan ja paista noin 20–25 minuuttia, kunnes pinta on juuri hyytynyt mutta keskusta on vielä hieman kostea.",
+      "Anna jäähtyä vuoassa, ennen kuin irrotat reunat. Siivilöi päälle kaakaojauhetta ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-focaccia-with-onion-marmalade-blue-cheese-and-walnuts",
+    "skip": "Ohje nojaa kokonaan ulkopuolisiin resepteihin (focaccia-taikina ja sipulimarmeladi), joita ei ole annettu mukana – ei toteutettavissa annetuilla tiedoilla."
+  },
+  {
+    "id": "wikibooks-fondue-neuchateloise",
+    "title": "Fondue neuchâteloise",
+    "description": "Klassinen sveitsiläinen juustofondue Gruyère- ja Emmental-juustoista, valkoviinistä ja kirshistä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["sveitsiläinen", "juusto", "kasvis"],
+    "ingredients": [
+      "1 valkosipulinkynsi, halkaistuna",
+      "400 g raastettua Gruyère-juustoa",
+      "400 g raastettua Emmental-juustoa",
+      "4 dl kuivaa valkoviiniä",
+      "1 rkl maissitärkkelystä",
+      "2 rkl kirschwasseria",
+      "mustapippuria",
+      "raastettua muskottipähkinää",
+      "1 patonki, kuutioituna"
+    ],
+    "instructions": [
+      "Hankaa fonduepadan sisäpinta halkaistulla valkosipulinkynnellä ja heitä kynsi sitten pois tai jätä pataan maun vahvistamiseksi.",
+      "Kaada valkoviini pataan ja kuumenna miedolla lämmöllä, kunnes se on haaleaa, muttei kiehu.",
+      "Sekoita raastetut juustot keskenään kulhossa.",
+      "Lisää juustot pataan pienissä erissä, koko ajan sekoittaen puisella lusikalla kahdeksikkoa muistuttavalla liikkeellä, kunnes kukin erä on sulanut ennen seuraavan lisäämistä.",
+      "Jatka sekoittamista, kunnes seos on tasaista ja silkkistä eikä muodosta säikeitä.",
+      "Sekoita maissitärkkelys ja kirschwasser pienessä kulhossa tasaiseksi liuokseksi.",
+      "Kaada maissitärkkelysliuos sulaneeseen juustoseokseen ja sekoita hyvin, kunnes seos paksunee hieman ja alkaa kuplia kevyesti.",
+      "Mausta mustapippurilla ja raastetulla muskottipähkinällä maun mukaan.",
+      "Siirrä pata lämmittimen päälle pöytään niin, että fondue pysyy sulana ja tasaisen lämpimänä koko ateria-ajan.",
+      "Tarjoa heti leipäkuutioiden kera, jotka pistetään fonduehaarukoilla ja pyöräytetään juustossa.",
+      "Jos juusto alkaa paksuuntua liikaa aterian aikana, lisää joukkoon pieni loraus lämmintä valkoviiniä ja sekoita.",
+      "Perinteen mukaan padan pohjalle muodostuva rapea juustokuori ('la religieuse') kaavitaan lopuksi ja jaetaan ruokailijoiden kesken herkkuna.",
+      "Vaihtoehtoisesti juusto voidaan sulattaa myös uunissa matalassa lämmössä varovasti sekoittaen, jos liedellä sulattaminen tuntuu hankalalta.",
+      "Tarjoile fondue perinteisesti kuivan valkoviinin tai kevyen mustan teen kera."
+    ]
+  }
+]

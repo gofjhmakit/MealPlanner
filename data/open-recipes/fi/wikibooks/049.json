@@ -1,0 +1,691 @@
+[
+  {
+    "id": "wikibooks-fried-bread",
+    "title": "Paistettu leipä",
+    "description": "Hyvin yksinkertainen paistettu leipä, joka sopii erityisesti aamiaiselle voin, hillon tai kastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leipä", "aamiainen", "nopea", "kasvis"],
+    "ingredients": [
+      "itsekohoavia vehnäjauhoja",
+      "maitoa tai kirnupiimää, ja ⅛ tl ruokasoodaa jos käytät kirnupiimää",
+      "pekonirasvaa paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita yhtä suuret määrät itsekohoavia jauhoja ja maitoa. Seoksen tulisi olla paksun vanukkaan paksuista – lisää tarvittaessa maitoa tai jauhoja.",
+      "Kuumenna riittävästi pekonirasvaa valurautapaistinpannussa, jotta taikina ei tartu kiinni.",
+      "Paista lusikallisia taikinaa pannulla, kunnes pohja on ruskea ja rapea. Käännä ja jatka paistamista, kunnes kypsä."
+    ],
+    "notes": ["Pekonirasvan ja valurautapannun sijaan voi käyttää muitakin öljyjä ja pannuja, mutta ne antavat parhaan tuloksen. Puolet pekonirasvaa ja puolet oliiviöljyä on myös hyvä vaihtoehto."]
+  },
+  {
+    "id": "wikibooks-fried-cheese-balls-with-sausage",
+    "title": "Paistetut juusto-makkarapallerot",
+    "description": "Rapeita, juustoisia ja makkaraisia pieniä palleroita – sopivat sekä pannulla paistettuna että uunissa kypsennettynä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["juusto", "makkara", "välipala"],
+    "ingredients": [
+      "2½ dl raastettua cheddarjuustoa",
+      "2 tl vehnäjauhoja",
+      "¼ tl suolaa",
+      "500 g mietoa tai tulista makkaraa",
+      "1¾ dl hienoa keksimurua",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Yhdistä juusto, jauhot, makkara ja keksimuru.",
+      "Sekoita käsin hyvin ja muotoile noin 2,5 cm:n palleroiksi.",
+      "Kaada pannuun öljyä niin, että sitä on pohjalla noin 2 cm:n verran.",
+      "Kuumenna öljy. Kun se on kuumaa, laita pallerot pannulle ilman ahtautta.",
+      "Paista keskikorkealla lämmöllä, kääntäen, kunnes kaikki puolet ovat kullanruskeita.",
+      "Valuta talouspaperilla.",
+      "Vaihtoehtoisesti: lämmitä uuni 190 asteeseen.",
+      "Sekoita kaikki ainekset hyvin keskenään.",
+      "Muotoile 2,5 cm:n palleroiksi ja aseta voitelemattomalle leivinpellille.",
+      "Paista 15 minuuttia tai kunnes kullanruskeita."
+    ],
+    "notes": ["Pallerot voi pakastaa raakana. Sulata ja paista ohjeen mukaan ennen tarjoilua."]
+  },
+  {
+    "id": "wikibooks-fried-chicken",
+    "title": "Paistettu kana (eteläisen Yhdysvaltojen tyyliin)",
+    "description": "Klassinen amerikkalainen rapea paistettu kana, jonka maku ja mehukkuus tulevat kirnupiimäsuolavedestä ja mausteisesta jauhokuorrutuksesta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "friteerattu", "amerikkalainen"],
+    "ingredients": [
+      "kuivattuja mausteita maun mukaan (esim. pippuria, paprikaa, sipulijauhetta, valkosipulijauhetta)",
+      "1 broileri, paloiteltuna",
+      "1 l kirnupiimää",
+      "1¼ dl suolaa",
+      "vehnäjauhoja",
+      "rypsiöljyä tai muuta paistamiseen sopivaa rasvaa"
+    ],
+    "instructions": [
+      "Yhdistä mausteet haluamassasi suhteessa mausteseokseksi.",
+      "Kaada kirnupiimä kulhoon ja liuota siihen suola.",
+      "Pyörittele kanan palat yksitellen mausteseoksessa.",
+      "Upota jokainen kananpala kirnupiimäseokseen.",
+      "Peitä kulho ja laita jääkaappiin. Vähintään 2 tuntia riittää, jos kiire, mutta maku on parempi pidemmällä marinoinnilla. Yön yli marinoitaessa vähennä suolan määrä ⅓ dl:aan.",
+      "Juuri ennen paistamista nosta kana kirnupiimästä ja valuta. Pyörittele jauhoissa, niin että se peittyy tasaisesti. Ravistele ylimääräiset jauhot pois.",
+      "Turvallisin kypsennystapa on uppopaistaminen.",
+      "Upota kana 180-asteiseen öljyyn. Kypsennysajat osittain: rintafileet 10 min, koivet 12 min, reidet 13–14 min, siivet 10 min.",
+      "Valuta kana ritilällä uunipellin päällä.",
+      "Perinteisin tapa on paistaa valurautapannulla. Varo roiskeita ja tulipaloa.",
+      "Kuumenna rasvaa niin, että sitä on noin 3–4 mm pannun pohjalla 165 asteeseen.",
+      "Laita kana pannulle nahkapuoli alaspäin. Kypsennä ruskeaksi (10–12 min), käännä ja kypsennä toinen puoli. Hitaammin kypsyvät osat (kuten reidet) kannattaa laittaa niin, että ne saavat enemmän lämpöä kuin nopeammin kypsyvät (kuten siivet ja rinta).",
+      "Valuta kana ritilällä uunipellin päällä.",
+      "Painekeittimellä paistaminen antaa erinomaisen tuloksen, mutta vaatii erikoislaitteen (painefriteerausastian). Seuraa valmistajan ohjeita huolellisesti.",
+      "Laita kananpalat kuumaan öljyyn (isoimmat ensin) ja paista noin 3 minuuttia, kunnes hyvin vaaleanruskeita. Sulje sitten kansi ja lukitse se.",
+      "Kypsennä noin 0,3–0,4 barin paineessa noin 7 minuuttia.",
+      "Valuta kana ritilällä uunipellin päällä."
+    ],
+    "notes": [
+      "Avain tähän reseptiin on kirnupiimäsuolavesi, joka maustaa kanan suolaisen hapokkaalla maulla sisältä.",
+      "Tämä resepti saattaa maistua vielä paremmalta 24 tunnin kuluttua, kun kana on säilytetty jääkaapissa.",
+      "Jos käytät vähemmän sakeaa nestettä kuin kirnupiimää, saatat tarvita munaseoksen, jotta jauhot tarttuvat kanaan kunnolla.",
+      "Siipiä ja muita jäännöspaloja voi käyttää myöhemmin kanakeittoon."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-chicken-and-fried-potatoes",
+    "title": "Paistettu kana ja paistetut perunat",
+    "description": "Täyttävä ateria paistetusta kanasta ja perunoista, maustettuna juustokuminalla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "peruna", "arkiruoka"],
+    "ingredients": [
+      "3600 g perunoita",
+      "5 dl rypsiöljyä",
+      "1150 g kanaa, pieniksi paloiksi leikattuna",
+      "suolaa",
+      "juustokuminaa"
+    ],
+    "instructions": [
+      "Kuori perunat ja viipaloi pieniksi tai isoiksi lohkoiksi.",
+      "Kuumenna öljy pannussa noin 175 asteeseen. Paista perunoita öljyssä, kunnes ne ovat vaaleanruskeita. Suolaa perunat maun mukaan.",
+      "Paista kanaa noin 5 minuuttia. Valuta öljy pois tai siirrä kana toiseen pannuun.",
+      "Suolaa kana, lisää 2 dl vettä ja anna hautua 15–20 minuuttia.",
+      "Yhdistä kana ja perunat (perunat päälle).",
+      "Lisää juustokumina ja anna hautua vielä noin 20 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-corn",
+    "title": "Paistettu maissi",
+    "description": "Mukava yllätysruoka, hyvä ensimmäinen kokeilu friteerauksen opettelijalle. Hyvä korvike perunalastuille tai -lohkoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["maissi", "friteerattu", "lisuke", "kasvis"],
+    "ingredients": [
+      "säilyke- tai pakastemaissia",
+      "munaseosta (valinnainen)",
+      "vehnäjauhoja",
+      "suolaa",
+      "mustapippuria",
+      "glutamaattia (valinnainen)",
+      "mausteita maun mukaan",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Jos käytät pakastemaissia, sulata se. Jos käytät säilykemaissia, lämmitä se mikrossa lasikulhossa tai hellalla.",
+      "Kuorruta maissi ohuella kerroksella munaseosta.",
+      "Sekoita suola, mustapippuri, glutamaatti ja muut mausteet jauhoihin.",
+      "Nosta maissi munaseoksesta ja pyörittele jauhoseoksessa, kunnes se on tasaisesti kuorrutettu.",
+      "Kuumenna riittävästi öljyä uppopaistamiseen kohtalaisen kuumaksi.",
+      "Uppopaista jauhotettu maissi kullanruskeaksi (alle 2 minuutissa).",
+      "Tarjoa lisukkeena toisen ruoan kanssa."
+    ],
+    "notes": ["Korvaa osa maissista karkeasti pilkotuilla porkkanoilla tai vihreillä pavuilla lisämaun saamiseksi."]
+  },
+  {
+    "id": "wikibooks-fried-eggs",
+    "title": "Paistetut munat",
+    "description": "Suosittu aamiaisruoka Yhdysvalloissa, Kanadassa ja Länsi-Euroopassa – valmistuu noin 5 minuutissa.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "aamiainen", "nopea"],
+    "ingredients": [
+      "2 tl voita tai oliiviöljyä",
+      "2–3 isoa munaa, ruokahalun mukaan",
+      "suolaa",
+      "mustapippuria (valinnainen)"
+    ],
+    "instructions": [
+      "Sulata voi pannulla matalalla tai keskilämmöllä.",
+      "Riko munat pannulle ja anna paistua, kunnes keltuaisten reunat alkavat kovettua (keltuainen vaalenee).",
+      "Käännä munat lastalla ja anna kypsyä 10 sekuntia (puolikypsä), 30 sekuntia (keskikypsä) tai jopa minuutti (läpikypsä).",
+      "Lisää suolaa ja pippuria maun mukaan, ja tarjoa."
+    ],
+    "notes": [
+      "On usein pidetty pahana munien keltuaisen rikkomista, vaikka osa pitää rikotusta keltuaisesta.",
+      "Pintapuolisesti paistetuissa munissa (aurinkokeltuainen ylöspäin) muna jätetään kääntämättä. Käytä hieman matalampaa lämpöä ja peitä pannu osittain kannella.",
+      "Raa'an näköinen munanvalkuainen ei ole toivottavaa, joten on parempi kypsentää hieman liikaa kuin liian vähän.",
+      "Raikkaamman maun saa ripottelemalla munan päälle raastettua parmesaania tai hienonnettua basilikaa ja ruohosipulia.",
+      "Voileipiin paistettaessa keltuaiset kannattaa usein rikkoa, jotta joka suupalassa on keltuaista eikä se valu."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-eggs-olive-oil-basted",
+    "title": "Paistetut munat (oliiviöljyllä valellen)",
+    "description": "Kreikkalaisvaikutteinen tapa paistaa muna valelemalla sitä kuumalla oliiviöljyllä kääntämisen sijaan.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "oliiviöljy", "aamiainen", "nopea"],
+    "ingredients": [
+      "½ dl extra-virgin-oliiviöljyä",
+      "1 muna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy paistinpannulla matalalla tai keskilämmöllä (öljy pilaantuu, jos sitä kuumentaa liikaa).",
+      "Riko muna pannulle. Anna paistua samalla valellen keltuaista kuumalla öljyllä, jotta myös pinta kypsyy. Jos muna alkaa kuplia, laske lämpöä.",
+      "Tarjoa, lisää suolaa ja pippuria maun mukaan."
+    ],
+    "notes": ["Älä käännä munaa. Aseta halutessasi fetajuustopala munan viereen ja kaada jäljelle jäänyt kuuma öljy juuston päälle, jolloin se pehmenee. Lämmitä leipää imemään ylimääräinen öljy."]
+  },
+  {
+    "id": "wikibooks-fried-fish",
+    "title": "Paistettu kala",
+    "description": "Rapea, taikinassa uppopaistettu kala – tarvitaan ohuita fileitä, jotka eivät hajoa kypsennettäessä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "friteerattu", "nopea"],
+    "ingredients": [
+      "korkean savupisteen öljyä",
+      "ohuita kalafileitä (esim. mudilaa, tilapiaa tai kampelaa)",
+      "1 munanvalkuainen",
+      "2½ dl vehnäjauhoja",
+      "2½ dl olutta tai kylmää vettä sekä ½ tl leivinjauhetta",
+      "lisää vehnäjauhoja kalan kuivaamiseen"
+    ],
+    "instructions": [
+      "Ala kuumentaa öljyä pannulla. Tämä resepti vaatii nopeaa kypsennystä hyvin kuumassa öljyssä.",
+      "Lämmitä kala mikrossa, jotta sisus on lämmin. Käännä kalaa mikrotessa. Kalan tulisi olla lämmin ja näyttää puolikypsältä.",
+      "Sekoita jauhot, munanvalkuainen ja olut taikinaksi.",
+      "Taputtele kala kuivaksi talouspaperilla ja pyörittele kevyesti jauhoissa, jotta se on todella kuiva.",
+      "Kasta kala taikinaan ja kuorruta hyvin. Taikina suojaa kättäsi roiskeilta.",
+      "Pidä kalaa aivan öljyn pinnan yläpuolella ja liu'uta se varovasti öljyyn.",
+      "Liikuttele kalaa pihdeillä, ettei se tartu pohjaan. Käännä kalaa kypsennyksen aikana.",
+      "Nosta kala pois, kun se näyttää hyvältä, ja tarjoa heti."
+    ],
+    "notes": ["Munanvalkuaisen voi vatkata vaahdoksi tai jättää kokonaan pois. Taikinaan voi lisätä myös maissijauhoja."]
+  },
+  {
+    "id": "wikibooks-fried-green-tomatoes",
+    "title": "Paistetut vihreät tomaatit",
+    "description": "Eteläisen Yhdysvaltojen klassikko – maissijauhoilla kuorrutettuja paistettuja vihreitä tomaatteja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["tomaatti", "paistettu", "amerikkalainen", "kasvis"],
+    "ingredients": [
+      "4–6 vihreää tomaattia",
+      "suolaa",
+      "mustapippuria",
+      "keltaista maissijauhoa",
+      "rypsiöljyä tai oliiviöljyä"
+    ],
+    "instructions": [
+      "Viipaloi tomaatit noin 0,75–1,25 cm:n paksuisiksi viipaleiksi.",
+      "Mausta viipaleet suolalla ja pippurilla.",
+      "Kasta viipaleet maissijauhoon ja paista matalassa öljyssä keskilämmöllä noin 3 minuuttia tai kunnes pohja on kullanruskea.",
+      "Käännä varovasti ja paista toinen puoli.",
+      "Tarjoa sellaisenaan, tai hienostuneempana lisänä muutaman palan vuohenjuustoa kera."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-green-tomatoes-with-tomato-and-cheese",
+    "title": "Paistetut vihreät tomaatit tomaatin ja juuston kera",
+    "description": "Näyttävä alkupala kolminkertaisesti kuorrutetuista paistetuista vihreistä tomaateista, parmesaanista ja viileästä punaisesta tomaatista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": ["tomaatti", "juusto", "alkupala", "amerikkalainen"],
+    "ingredients": [
+      "4–6 vihreää tomaattia",
+      "4–6 munaa",
+      "1¼ dl maitoa",
+      "suolaa",
+      "mustapippuria",
+      "chilihiutaleita",
+      "1¼ dl tuoreraastettua parmesaania",
+      "2½ dl vehnäjauhoja",
+      "5 dl korppujauhoja",
+      "italialaista maustesekoitusta",
+      "rypsiöljyä paistamiseen",
+      "4–6 jäähdytettyä punaista tomaattia, viipaloituna",
+      "1¼ dl tuoreraastettua parmesaania",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Viipaloi vihreät tomaatit noin 0,75 cm:n paksuisiksi viipaleiksi.",
+      "Yhdistä munat ja maito ja vatkaa tasaiseksi.",
+      "Yhdistä suola, pippuri, chilihiutaleet, parmesaani ja jauhot.",
+      "Yhdistä korppujauhot ja italialainen maustesekoitus.",
+      "Kasta jokainen tomaattiviipale ensin munaseokseen, sitten jauhoseokseen, uudelleen munaseokseen ja lopuksi korppujauhoseokseen.",
+      "Paista kuorrutetut tomaattiviipaleet öljyssä kullanruskeiksi joka puolelta.",
+      "Tarjoile asettamalla yksi paistettu vihreä tomaattiviipale pienelle lautaselle, ripottele runsaasti parmesaania päälle ja lisää viipale jäähdytettyä punaista tomaattia parmesaanin päälle.",
+      "Ripottele koko annoksen päälle vielä hieman parmesaania sekä hyppysellinen suolaa ja mustapippuria."
+    ],
+    "notes": ["Jos vihreitä tomaatteja ei löydy, voit korvata ne viipaloidulla munakoisolla."]
+  },
+  {
+    "id": "wikibooks-fried-okra",
+    "title": "Paistettu okra",
+    "description": "Nopea ja maukas lisuke tai välipala – rapeaksi paistettua okraa maissijauhokuorrutuksessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["okra", "paistettu", "amerikkalainen", "kasvis"],
+    "ingredients": [
+      "tuoretta okraa",
+      "kirnupiimää tai tavallista maitoa",
+      "1¼ dl vehnäjauhoja",
+      "mausteita maun mukaan (esim. suolaa, pippuria, cayennepippuria, timjamia)",
+      "2½ dl maissijauhoa"
+    ],
+    "instructions": [
+      "Pese ja valuta pari kourallista tuoretta okraa.",
+      "Leikkaa kukin okra kolmeen tai neljään noin 2–2,5 cm:n pituiseen viipaleeseen. Hylkää varsi.",
+      "Liota okraa kirnupiimässä tai maidossa, valuta, ja pyörittele maustetuissa jauhoissa ja maissijauhossa. Nopea tapa tähän on laittaa jauhot, maissijauho ja mausteet muovipussiin, lisätä okra ja ravistella.",
+      "Anna okran levätä muutama minuutti. Jos jokin pala näyttää kostealta, pyörittele se uudelleen jauhoseoksessa.",
+      "Uppopaista okraa kuumassa öljyssä vaalean- tai keskiruskeaksi. Ne ovat valmiita 2–3 minuutissa.",
+      "Valuta ja nauti!"
+    ]
+  },
+  {
+    "id": "wikibooks-fried-onion-blooms",
+    "title": "Paistetut sipulikukat",
+    "description": "Näyttävä ja rapea uppopaistettu sipuli, joka avautuu kukan muotoon leikkaamalla – tarjoillaan dippikastikkeen kera.",
+    "servings": 2,
+    "category": "Välipalat",
+    "tags": ["sipuli", "friteerattu", "alkupala"],
+    "ingredients": [
+      "2 isoa sipulia, halkaisijaltaan vähintään 10 cm",
+      "rypsiöljyä paistamiseen",
+      "olutpohjaista taikinaa",
+      "maustettuja vehnäjauhoja",
+      "smetana-chilikastiketta"
+    ],
+    "instructions": [
+      "Esikuumenna friteerauskeitin 190 asteeseen.",
+      "Laita sipuli leikkuulaudalle juuripuoli alaspäin ja leikkaa noin 2 cm yläosasta pois.",
+      "Kuori sipuli.",
+      "Leikkaa pystysuunnassa keskeltä yläosasta juureen asti, leikkaamatta kuitenkaan kokonaan läpi.",
+      "Toista viillot säteittäin (keskeltä, kellotaulun tapaan) niin, että viiltoja on yhteensä 6–8.",
+      "Poista sipulin keskiosasta noin 2,5 cm.",
+      "Liota jääkylmässä vedessä 15 minuuttia.",
+      "Leikkaa tarvittaessa hieman syvemmälle, jos sipuli ei ole auennut tarpeeksi.",
+      "Kasta maustetuissa jauhoissa ja ravistele kevyesti ylimääräiset pois.",
+      "Kasta olutpohjaiseen taikinaan ja ravistele kevyesti ylimääräinen pois. Kerrokset voi joutua erottelemaan käsin, jotta kuorrutus onnistuu hyvin.",
+      "Laske sipuli varovasti friteerauskoriin ja upota öljyyn. Paista noin puolitoista minuuttia.",
+      "Nosta kori öljystä, käännä sipuli ympäri ja laita takaisin öljyyn. Paista kunnes kullanruskea, vielä noin puolitoista minuuttia.",
+      "Valuta talouspaperilla.",
+      "Tarjoa kuumana."
+    ],
+    "notes": ["Maistuu hyvältä smetanapohjaisen chilikastikkeen kera – laita pieni kuppi kastiketta sipulin keskiosaan, josta keskiosa poistettiin."]
+  },
+  {
+    "id": "wikibooks-fried-pasta",
+    "title": "Paistettu pasta",
+    "description": "Yksinkertainen suolainen ruoka sipulista ja pastasta.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["pasta", "nopea", "kasvis"],
+    "ingredients": [
+      "pastaa",
+      "öljyä tai voita",
+      "suolaa",
+      "valkosipulia, hienonnettuna",
+      "sipulia, kuutioituna"
+    ],
+    "instructions": [
+      "Keitä pasta pehmeäksi.",
+      "Kuumenna öljy pannulla keskilämmöllä.",
+      "Lisää sipuli ja valkosipuli pannulle. Kypsennä, kunnes läpikuultavaa ja ruskistuvaa.",
+      "Lisää pasta pannulle lisäöljyn ja suolan kera.",
+      "Kypsennä pastaa, sekoittaen säännöllisesti, kunnes se alkaa ruskistua.",
+      "Lisää tarvittaessa suolaa.",
+      "Anna jäähtyä hieman ja tarjoa."
+    ],
+    "notes": ["Tämän ruoan on tarkoitus olla suolainen ja öljyinen – älä pelkää käyttää niitä reilusti."]
+  },
+  {
+    "id": "wikibooks-fried-pickle",
+    "title": "Paistettu suolakurkku",
+    "description": "Eteläisen Yhdysvaltojen välipala – uppopaistettuja, taikinassa kuorrutettuja etikkakurkkuviipaleita.",
+    "servings": 8,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["suolakurkku", "friteerattu", "amerikkalainen", "välipala"],
+    "ingredients": [
+      "2½ dl maitoa",
+      "1 muna, vatkattuna",
+      "1 rkl vehnäjauhoja",
+      "1 rkl worcestershirekastiketta",
+      "6 tippaa tulista kastiketta",
+      "9 dl vehnäjauhoja",
+      "¾ tl suolaa",
+      "¾ tl mustapippuria",
+      "1 l viipaloituja etikkakurkkuja",
+      "kuivattua tilliä (valinnainen)",
+      "rypsiöljyä uppopaistamiseen"
+    ],
+    "instructions": [
+      "Sekoita maitoseoksen ainekset hyvin. Laita sivuun.",
+      "Sekoita jauhoseoksen ainekset hyvin.",
+      "Kasta kurkkuviipaleet maitoseokseen ja pyörittele jauhoseoksessa. Toista vielä kerran.",
+      "Uppopaista 175-asteisessa öljyssä, kunnes kurkkuviipaleet nousevat pintaan ja ovat kullanruskeita. Valuta talouspaperilla.",
+      "Ripottele kuivattua tilliä päälle maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-pita-bread-with-eggs",
+    "title": "Paistettu pitaleipä munilla",
+    "description": "Jemeniläisperäisen ruoan länsimaistunut versio – rapeaksi paistettua pitaleipää ja munaa.",
+    "servings": 1,
+    "category": "Aamiainen",
+    "tags": ["kananmuna", "leipä", "aamiainen", "nopea"],
+    "ingredients": [
+      "1 rkl extra-virgin-oliiviöljyä",
+      "1 pitaleipä",
+      "2 munaa",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa paistinpannussa matala-keskilämmöllä.",
+      "Revi pitaleipä pieniksi paloiksi ja lisää kuumaan öljyyn.",
+      "Kypsennä usein sekoittaen, kunnes leipä on vaaleanruskeaa ja rapeaa.",
+      "Lisää munat ja kokkaa ne leivän kanssa sekoittaen.",
+      "Mausta suolalla ja mustapippurilla maun mukaan. Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-plantain-and-egg",
+    "title": "Paistettu jauhobanaani ja muna",
+    "description": "Nigerialainen aamiaisruoka paistetusta jauhobanaanista ja munasta.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["jauhobanaani", "kananmuna", "nigerialainen", "aamiainen"],
+    "ingredients": [
+      "jauhobanaania",
+      "rypsiöljyä",
+      "munia",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuori ja viipaloi jauhobanaani. Mausta suolalla ja sekoita.",
+      "Kuumenna hieman öljyä paistinpannulla. Kun kuuma, lisää jauhobanaani. Kypsennä, käännellen, kunnes ruskistunut. Nosta jauhobanaani pois ja laita sivuun.",
+      "Vatkaa muna hyppysellisen suolan kanssa. Lisää muna pannulle ja kokkaa kuin munakokkelia.",
+      "Tarjoa munat ja jauhobanaani yhdessä."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-potato-slices",
+    "title": "Paistetut perunaviipaleet",
+    "description": "Rapeiksi paistetut ohuet perunaviipaleet sianihrassa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "paistettu", "lisuke"],
+    "ingredients": [
+      "isoja perunoita, kuorittuna",
+      "sianihraa",
+      "suolaa"
+    ],
+    "instructions": [
+      "Viipaloi perunat noin 0,6 cm:n paksuisiksi, tai leikkaa niitä lastuiksi pyörittäen kuin sitruunaa kuoriessa.",
+      "Kuivaa perunat hyvin puhtaalla liinalla.",
+      "Kuumenna reilusti sianihraa puhtaassa pannussa keski-kovalla lämmöllä.",
+      "Lisää perunat kuumaan rasvaan ja paista matalassa rasvassa rapeiksi, sekoittaen koko ajan.",
+      "Nosta perunat pois ja valuta ylimääräinen rasva siivilän avulla.",
+      "Mausta suolalla maun mukaan ja tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-potato-wedges",
+    "title": "Paistetut perunalohkot",
+    "description": "Rapeat uunin- tai uppopaistetut perunalohkot yrttimausteella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "friteerattu", "lisuke"],
+    "ingredients": [
+      "4 keskikokoista perunaa (mieluiten Russet-lajiketta)",
+      "4 rkl oliiviöljyä (tai rypsiöljyä)",
+      "5 g merisuolaa (tai paprika- tai sipulisuolaa)",
+      "4 g persiljaa tai oreganoa (monet mausteet käyvät)"
+    ],
+    "instructions": [
+      "Leikkaa perunat tasaisen kokoisiksi lohkoiksi (liian isot lohkot kypsyvät epätasaisesti).",
+      "Ripottele mausteet ja suola jokaisen perunalohkon päälle.",
+      "Uppopaista perunalohkot ruskeiksi ja rapeiksi (paista pidempään, jos haluat rapeampaa).",
+      "Säilytä muovirasiassa jääkaapissa, tai anna jäähtyä, jos syöt heti."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-potatoes",
+    "title": "Paistetut perunat",
+    "description": "Yksinkertaiset ja nopeat pannulla paistetut perunaviipaleet.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["peruna", "paistettu", "lisuke", "nopea"],
+    "ingredients": [
+      "perunoita, kuorittuna ja viipaloituna",
+      "suolaa",
+      "maapähkinäöljyä"
+    ],
+    "instructions": [
+      "Huuhtele perunat ja mausta suolalla.",
+      "Kuumenna öljy pannulla ja lisää perunat, kun kuuma. Kypsennä kullanruskeiksi joka puolelta, kääntäen tarpeen mukaan.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-rice",
+    "title": "Paistettu riisi",
+    "description": "Monipuolinen ja nopea riisiruoka, johon voi lisätä mitä tahansa jääkaapista löytyviä jäämiä.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["riisi", "aasialainen", "nopea"],
+    "ingredients": [
+      "keitettyä riisiä (jääkaapissa säilynyt jäännösriisi toimii hyvin)",
+      "soijakastiketta",
+      "öljyä",
+      "herneitä",
+      "idättä papuja",
+      "pak choita",
+      "kidneypapuja",
+      "sieniä",
+      "porkkanaa",
+      "maissia",
+      "paistettua tofua",
+      "munia",
+      "aromaattisia aineksia (esim. sipulia, salottisipulia, kevätsipulia, valkosipulia)",
+      "mustapippuria",
+      "sokeria",
+      "suolaa",
+      "chiliä",
+      "paistetun riisin mausteseosta",
+      "kanaa",
+      "char siuta (kiinalaista grillattua possua)",
+      "marinoitua naudanlihaa",
+      "possua",
+      "äyriäisiä (lisää curryjauhetta currymakua varten)",
+      "katkarapuja",
+      "jättikatkarapuja"
+    ],
+    "instructions": [
+      "Jos käytät tofua, kypsennä se.",
+      "Jos käytät sipulia, kuutioi se haluamaasi kokoon.",
+      "Jos käytät pak choita, erota varsiosa lehtiosasta. Viipaloi lehtiosa poikittain noin 2 cm:n paksuisiksi suikaleiksi ja revi suikaleet noin 5 cm:n paloiksi. Näitä käsitellään kuin idättyjä papuja, mutta hieman kauemmin kypsentäen. Varsiosaa käsitellään kuten selleriä.",
+      "Jos käytät idätettyjä papuja, pese ne ja poista värinsä menettäneet tai pehmeät pavut.",
+      "Jos käytät lihaa, leikkaa se haluamasi kokoisiksi paloiksi ja kypsennä.",
+      "Lisää runsaasti öljyä isoon paistinpannuun (enemmän kuin luulet tarvitsevasi), jotta mikään ei tartu kiinni. Jos käytät rasvaista makkaraa tai lihaa, öljyä tarvitaan vähemmän.",
+      "Lisää riisi. Kypsennä keski-kovalla lämmöllä.",
+      "Lisää soijakastike, lihat, munat ja kaikki vihannekset paitsi sipuli ja idätetyt pavut.",
+      "Lisää pippuria, hyppysellinen tai kaksi sokeria, ja halutessasi lisää suolaa.",
+      "Lisää tofu, idätetyt pavut ja sipuli, kun riisi on lähes valmista (halutun paistoasteen mukaan), varoen ylikypsentämästä niitä."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-rice-vegetarian",
+    "title": "Kasvisystävällinen paistettu riisi",
+    "description": "Runsas kasvispohjainen paistettu riisi, täynnä porkkanaa, idätettyjä papuja, parsakaalia ja sieniä.",
+    "servings": 5,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "riisi", "aasialainen"],
+    "ingredients": [
+      "800 g porkkanaa, leikattuna noin 5x1x1 cm:n paloiksi",
+      "200 g idätettyjä papuja, liotettuna kuumassa vedessä ja valutettuna",
+      "200 g parsakaalin kukintoja, liotettuna kuumassa vedessä ja valutettuna",
+      "200 g sieniä, neljänneksiin leikattuna ja liotettuna kuumassa vedessä",
+      "250 g kaalia, leikattuna noin 2 cm:n paloiksi",
+      "4 kevätsipulia, leikattuna noin 1,5 cm:n paloiksi",
+      "3 rkl maissiöljyä",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "¼ isoa sipulia, hienonnettuna",
+      "100 g keitettyä riisiä",
+      "2 rkl suolaa",
+      "1½ rkl vaaleaa soijakastiketta",
+      "1 rkl vegaanista osterikastikkeen korviketta (tai jätä pois)",
+      "1 rkl mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy tarttumattomassa pannussa, lisää sipuli ja valkosipuli, ja paista noin 25 sekuntia, kunnes tuoksuu hyvältä.",
+      "Lisää riisi, kaikki vihannekset, hieman suolaa, soijakastike, osterikastike ja pippuri. Sekoita, kunnes hyvin yhdistynyt.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-tiger-lily-pastries",
+    "title": "Paistetut liljankukkataskut",
+    "description": "Makeita, täytettyjä ja uppopaistettuja taskuja kuivatuista liljansipuleista ja munasta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "friteerattu", "aasialainen"],
+    "ingredients": [
+      "140 g kuivattuja liljansipuleita",
+      "2½ dl vettä",
+      "sokeria",
+      "3 munaa",
+      "10 kpl taikinakääreitä",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Pese ja liota kuivattuja liljansipuleita 1 tunti. Kaada liotusvesi pois.",
+      "Laita sipulit kattilaan 2½ dl:n veden kanssa ja keitä pehmeiksi.",
+      "Ota liedeltä ja sekoita joukkoon sokeria, kunnes se liukenee. Anna jäähtyä.",
+      "Kun seos on jäähtynyt, vatkaa joukkoon munat.",
+      "Täytä taikinakääreet seoksella.",
+      "Paista taskuja kuumassa öljyssä, kunnes ne ovat kauttaaltaan kullanruskeita."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-unripe-plantain-nigerian-green-plantain",
+    "title": "Paistettu raaka jauhobanaani (nigerialainen vihreä jauhobanaani)",
+    "description": "Nigerialainen lisuke tai pääruoka valmistetaan raaoista, vihreistä jauhobanaaneista – tarjoillaan usein paistetun jaamin tai munakastikkeen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["jauhobanaani", "nigerialainen", "friteerattu", "kasvis"],
+    "ingredients": [
+      "raakaa jauhobanaania, kuorittuna",
+      "jauhettua pippuria",
+      "suolaa",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Viipaloi raaka jauhobanaani pieniksi renkaiksi ja mausta jauhetulla pippurilla ja suolalla maun mukaan.",
+      "Kuumenna riittävästi öljyä pannulla uppopaistamista varten.",
+      "Uppopaista jauhobanaania, kunnes molemmat puolet ovat kullanruskeita ja kypsiä.",
+      "Nosta öljystä ja tarjoa kuumana paistetun jaamin ja munakastikkeen kera."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-wheat-bread-balls-bhatoora",
+    "title": "Paistetut vehnäleipäpallerot (Bhatoora)",
+    "description": "Kevyt ja ilmava intialainen paistettu leipä, jota tarjoillaan perinteisesti kikhernecurryn tai cholen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["intialainen", "leipä", "friteerattu"],
+    "ingredients": [
+      "650 g vehnäjauhoja",
+      "1 tl suolaa",
+      "½ tl kuivahiivaa TAI 1 tl ruokasoodaa",
+      "2 tl gheetä",
+      "2 tl sokeria",
+      "275 g jogurttia",
+      "1¼ dl haaleaa vettä",
+      "gheetä paistamiseen"
+    ],
+    "instructions": [
+      "Siivilöi jauhot ja suola yhteen.",
+      "Sekoita hiiva haaleaan veteen ja anna seistä 10 minuuttia.",
+      "Sekoita ghee ja sokeri jauhoihin. Lisää jogurtti ja liuennut hiiva tai ruokasooda. Lisää tarvittaessa hieman lisää haaleaa vettä. Vaivaa hyvin, kunnes taikina on pehmeää ja joustavaa. Käytä hieman öljyä vaivaamisen apuna.",
+      "Peitä kostealla liinalla ja anna levätä 4 tuntia.",
+      "Kuumenna ghee paistinpannulla.",
+      "Jaa taikina pieniksi palleroiksi. Kauli pallerot hyvin ohuiksi.",
+      "Uppopaista taikinaa kuumassa gheessä kullanruskeaksi. Taikinan tulisi pullistua reilusti ja muodostaa suuri ilmatasku sisälle.",
+      "Nosta öljystä ja tarjoa kuumana kikhernecurryn (channa tai choley) kera."
+    ]
+  },
+  {
+    "id": "wikibooks-fried-yam-with-pepper-sauce",
+    "title": "Paistettu jaami pippurikastikkeen kera",
+    "description": "Nigerialainen suosikki (dundu) – paistettua jaamia, jota tarjoillaan tulisen pippurikastikkeen kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["jaami", "nigerialainen", "kala", "friteerattu"],
+    "ingredients": [
+      "jaamia",
+      "rypsiöljyä",
+      "punaista paprikaa (tatase)",
+      "habanero-chiliä (rodo)",
+      "cayennepippuria (shombo)",
+      "sipulia (alubosa)",
+      "savustettua kuivattua kalaa",
+      "maustekuutioita"
+    ],
+    "instructions": [
+      "Kuori jaami ja leikkaa pieniksi paloiksi – useimmat leikkaavat kuutioiksi tai kolmioiksi. Laita vesikulhoon.",
+      "Laita puhdas paistinpannu lämmölle ja kuivata siitä pois mahdollinen vesi.",
+      "Kaada noin 500 ml rypsiöljyä kuivaan pataan ja anna kuumentua.",
+      "Lisää jaamipalat öljyyn erissä. Lisää varovasti noin 20 ml vettä – vesi antaa jaamin kypsyä hieman ennen paistumista.",
+      "Kypsennä kutakin erää noin 15 minuuttia.",
+      "Toista, kunnes kaikki jaami on paistettu.",
+      "Soseuta kaikki paprikat ja sipuli yhdessä karkeaksi tahnaksi tehosekoittimella tai raastimella.",
+      "Pese ja ruodota kala.",
+      "Laita puhdas pata lämmölle ja kuivata siitä pois mahdollinen vesi.",
+      "Kaada rypsiöljyä kuivaan pataan ja anna kuumentua.",
+      "Kaada pippuritahna kuumaan öljyyn ja laske lämpö matalaksi. Näin kastike kypsyy hitaasti ja paistuu hyvin.",
+      "Lisää suolaa maun mukaan, maustekuutiot ja pestyn kalan.",
+      "Kypsennä noin 15 minuuttia ja hauduta sitten vielä 10 minuuttia.",
+      "Tarjoa paistetun jaamin kera."
+    ]
+  }
+]

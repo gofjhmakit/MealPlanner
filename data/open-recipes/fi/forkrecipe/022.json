@@ -1,0 +1,667 @@
+[
+  {
+    "id": "forkrecipe-mushroom-dashi",
+    "title": "Sienidashi (vegaaninen dashiliemi)",
+    "description": "Vegaaninen dashi kuivatuista shiitakesienistä ja kombusta, kylmäuutettuna yön yli täyteläisimmän glutamaatti-guanylaattisynergian saamiseksi ilman yhtäkään astetta lämpöä — sillä kiehuminen muuttaa niiden hiljaisen syvyyden ikäväksi kitkeryydeksi. Lopputulos on tumma, kirkas ja hämmästyttävän monimutkainen: kuin metsän pohja nesteeksi käännettynä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 480,
+    "category": "Muut",
+    "tags": ["liemi", "japanilainen", "vegaaninen", "umami"],
+    "ingredients": [
+      "5 kpl kuivattua shiitakesientä, kokonaisina, varret kiinni",
+      "1 pala kombua (kuivattua merilevää), 10 cm",
+      "1 l kylmää suodatettua vettä (klooritonta)"
+    ],
+    "instructions": [
+      "Pyyhi kombun pinta hieman kostealla liinalla ylimääräisen valkoisen jauheen poistamiseksi – tuo valkoinen pinnoite on glutamiinihapon saostumaa, umamin lähde, joten älä huuhtele sitä pois vedellä. Laita sekä kombu että kuivatut shiitaket puhtaaseen lasipurkkiin tai kulhoon ja kaada päälle kylmä vesi. Peitä ja jääkaappiin vähintään 6 tunniksi, mieluiten yöksi (8–12 tuntia). Kylmäuutto on tämän tekniikan ydin: matala lämpötila uuttaa ensin tuoksuvat, puhtaat umami-yhdisteet jättäen jälkeensä rikkipitoiset, kitkerät sävyt, jotka lämpö vapauttaisi. Älä kiirehdi tätä kuumalla vedellä.",
+      "Poista kombu ensin pihdeillä – säästä se muuhun käyttöön. Nosta shiitaket pois ja purista ne varovasti purkin päälle liottamisnesteen talteen saamiseksi; säästä sienet misokeittoon, nimonoon tai haudutettuihin vihanneksiin. Siivilöi dashi hienolla siivilällä, joka on vuorattu kostealla talouspaperilla tai juustokankaalla, hiekan tai pienten hiukkasten poistamiseksi. Älä paina tai väännä kangasta, se samentaisi dashin. Valmis dashi on nyt käyttövalmis; käytä heti tai säilytä jääkaapissa enintään 3 päivää.",
+      "Dashi on teknisesti valmis mutta mausteeton – se on pohja. Misokeittoon kauho se kattilaan ja lämmitä juuri alle kiehumispisteen (70–75 °C); liuota miso kauhalliseen kuumaa dashia ennen sekoittamista joukkoon. Keittonesteenä tai kastikepohjana käytettäessä mausta pienellä määrällä vaaleaa soijakastiketta (usukuchi) ja mirinia maun mukaan. Älä koskaan keitä valmista dashia kiehuvaksi: haihtuvat aromiyhdisteet, jotka tekevät siitä elävän eikä latteaan makuisen, haihtuvat kiehumispisteessä. Hellä lämpö säilyttää ne."
+    ]
+  },
+  {
+    "id": "forkrecipe-mushroom-risotto",
+    "title": "Risotto ai funghi (sieniristotto)",
+    "description": "Carnaroli-riisiä paahdettuna voissa ja valkoviinissä, rakennettuna kermaiseksi risotoksi herkkutattiliemen ja tuoreiden sienten kanssa, viimeisteltynä kylmällä voilla ja parmesaanilla aaltoilevaksi, virtaavaksi annokseksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["risotto", "italialainen", "sienet", "kasvis"],
+    "ingredients": [
+      "320 g carnaroli-risottoriisiä",
+      "25 g kuivattuja herkkutatteja, liotettuna 5 dl:ssa lämmintä vettä",
+      "400 g tuoreita sekoitettuja sieniä (herkkutatteja, ruskosieniä, kanttarelleja), viipaloituna",
+      "10 dl lämmintä sieni- ja herkkutattilientä (yllä olevasta + vettä)",
+      "1½ dl kuivaa valkoviiniä",
+      "100 g salottisipulia, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "80 g voita, jaettuna (puolet soffrittoon, puolet mantecaturaan)",
+      "60 g parmigiano reggianoa, hienoksi raastettuna",
+      "3 oksaa tuoretta timjamia",
+      "suolaa",
+      "valkopippuria",
+      "2 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Sulata puolet voista oliiviöljyn kanssa leveässä, paksupohjaisessa pannussa korkealla lämmöllä. Kun vaahto laskee, lisää tuoreet sienet yhteen kerrokseen – älä ahda niitä tai ne alkavat höyrystyä ja harmaantua paahtumisen sijaan. Kypsennä koskematta 2–3 minuuttia, kunnes pohja on syvän kullanruskea, käännä sitten ja kypsennä vielä 2 minuuttia. Lisää valkosipuli ja timjami, pyörittele 30 sekuntia, mausta suolalla ja pippurilla. Siirrä kulhoon talteen. Sienet palaavat joukkoon lopussa.",
+      "Sulata samassa pannussa loppu voi keskilämmöllä. Lisää salottisipuli ja hikoiluta hellästi 4–5 minuuttia, kunnes pehmeää ja läpikuultavaa – ei saa ruskistua. Lisää kuiva carnaroli-riisi ja sekoita jatkuvasti 1–2 minuuttia, kunnes jokainen jyvä muuttuu läpikuultavaksi ja saa hennon pähkinäisen tuoksun. Tämä paahtaminen (tostatura) sulkee jyvän pinnan, hidastaen tärkkelyksen vapautumista kermaisen mutta napakan lopputuloksen saavuttamiseksi. Lisää valkoviini kerralla ja sekoita, kunnes täysin imeytynyt.",
+      "Lisää lämmin sieniliemi – mukaan lukien siivilöity herkkutattien liotusneste – kauhallinen kerrallaan. Jokaisen lisäyksen jälkeen sekoita jatkuvasti, kunnes liemi on lähes täysin imeytynyt ennen seuraavaa kauhallista. Carnaroli-jyvistä vapautuva tärkkelys tarvitsee tämän jatkuvan liikkeen rakentaakseen ympäröivän kermaisen rakenteen. Tämä vaihe kestää 16–18 minuuttia tasaisella keskilämmöllä. Maista 14 minuutin kohdalla – riisin tulisi olla juuri lähestymässä al dentea. Mausta suolalla matkan varrella. Pidä liemi kuumana erillisessä kattilassa; kylmä liemi järkyttää riisiä ja rikkoo rytmin.",
+      "Nosta pannu kokonaan pois liedeltä. Lisää talteen otetut sienet ja sekoita joukkoon. Lisää sitten kylmä voi (kuutioituna) ja parmigiano kerralla. Sekoita voimakkaasti pyörivällä liikkeellä – tämä on mantecatura, hetki jolloin kylmän voin rasva emulgoituu tärkkelyspitoisen keitinnesteen kanssa luoden kiiltävän, kermaisen kastikkeen. Mausta maun mukaan. Risoton tulisi virrata lautasella kuin aalto – ei seisoa kasana eikä valua kuin keitto. Tämä on all'onda, ja se vaatii risoton olevan hieman löysempi kuin luulet, koska se jähmettyy lautasella."
+    ]
+  },
+  {
+    "id": "forkrecipe-mushroom-stock",
+    "title": "Sienilientä",
+    "description": "Vegaaninen umami-liemi kuivatuista sienistä, aromaateista ja kombusta – tummanruskea ja syvän maukas, puhtaan metsänpohjaisella maanläheisyydellä, joka rikastaa keittoja, risottoja ja patoja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 90,
+    "category": "Muut",
+    "tags": ["liemi", "kasvis", "vegaaninen", "umami"],
+    "ingredients": [
+      "25 g kuivattuja herkkutatteja",
+      "25 g kuivattuja shiitakesieniä",
+      "10 g kombua (kuivattua merilevää), pyyhittynä puhtaaksi",
+      "50 g keltasipulia, puolitettuna, kuorineen",
+      "30 g sellerinvartta lehtineen",
+      "10 g valkosipulinkynsiä, murskattuna, kuorineen",
+      "5 g tuoretta timjamia",
+      "2,5 g mustapippureita, kevyesti murskattuna",
+      "5 g hienoa suolaa",
+      "10 dl kylmää vettä",
+      "1 tl soijakastiketta (valinnainen, viimeistelyyn)"
+    ],
+    "instructions": [
+      "Yhdistä kuivatut herkkutatit, kuivatut shiitaket ja kombu isoon pataan ja kaada päälle kylmä vesi. Anna kylmäuuttua huoneenlämmössä vähintään 30 minuuttia, tai jääkaapissa yön yli syvemmän, puhtaamman tuloksen saamiseksi. Kylmäliotus vapauttaa glutamaatit hellästi, ilman kitkeryyttä, jota nopea kiehuminen voisi uuttaa kuivatuista sienistä. Kombun tulisi pehmetä jäykästä mustasta levystä notkeaksi, liukkaaksi lehdeksi – vedä se pois ennen kuin liemi alkaa kiehua, sillä se muuttuu kitkeräksi ja limaiseksi kovassa kiehumisessa.",
+      "Poista kombu ja säästä se. Lisää puolitettu sipuli (kuorineen – kuori syventää värin rikkaan meripihkanruskeaksi), selleri, murskattu valkosipuli, timjami ja murskatut pippurit. Kuumenna keskilämmöllä hiljaiseen kiehumiseen – pieniä kuplia nousee tasaisesti, pinta väräjää muttei kuohu. Hauduta 45 minuuttia. Älä keitä kovaa: sienilientä muuttuu sameaksi, kitkeräksi ja rakeiseksi voimakkaassa kiehumisessa. Hellä hauduttaminen pitää liemen kirkkaana ja maun puhtaana.",
+      "Vuoraa hieno siivilä juustokankaalla tai puhtaalla keittiöliinalla ja aseta se ison kulhon tai padan päälle. Kauho liemi varovasti läpi – älä paina tai purista käytettyjä sieniä ja vihanneksia, sillä puristaminen työntää kitkeriä, tärkkelyspitoisia kiintoaineita lävitse ja samentaa liemen. Heitä pois käytetyt kiintoaineet. Voit pilkkoa keittämisen aikana pullistuneet herkkutatit ja shiitaket ja käyttää ne toisessa ruoassa – niissä on yhä paljon makua.",
+      "Maista liemi ja mausta hienolla suolalla, aloittaen varovaisesti – useimmissa käyttötarkoituksissa lisätään mausteita muista aineksista. Jos käytät soijakastiketta, lisää se nyt: pieni määrä syventää umamia ja tuo lämpimän, karamellisen kompleksisuuden tekemättä liemestä aasialaisen makuista. Se on valinnainen mutta suositeltava, kun väri ei ole huolenaihe. Säilytä valmis liemi jääkaapissa enintään 5 päivää, tai pakasta annosteltuna enintään 3 kuukaudeksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-mushroom-stroganoff",
+    "title": "Sienistroganov",
+    "description": "Kasvisversio venäläisestä klassikosta – villisieniä paistettuna voimakkaasti voissa, kunnes reunat hiiltyvät ja neste haihtuu täysin, sitten tuotuna yhteen salottisipulin, timjamin ja konjakin kanssa, viimeisteltynä hapankermalla rikkaaksi, vaaleanruskeaksi kastikkeeksi, joka tarttuu jokaiseen munanauhaan.",
+    "servings": 4,
+    "prepTimeMin": 25,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["sienet", "venäläinen", "kasvis", "pastaa"],
+    "ingredients": [
+      "700 g sekoitettuja sieniä (ruskosieniä, shiitakea, herkkutatteja), paksuiksi viipaleiksi leikattuna",
+      "100 g salottisipulia, ohuiksi siivuiksi viipaloituna",
+      "10 g valkosipulinkynsiä, hienonnettuna",
+      "50 g voita",
+      "30 ml konjakkia tai brandya",
+      "2 dl kasvislientä",
+      "200 g täysrasvaista hapankermaa",
+      "10 g dijoninsinappia",
+      "4 oksaa tuoretta timjamia",
+      "15 g lehtipersiljaa, karkeasti pilkottuna",
+      "300 g munanauhoja tai tagliatellea, keitettynä tarjoiluun",
+      "8 g hienoa merisuolaa ja mustapippuria"
+    ],
+    "instructions": [
+      "Tämä on tärkein ja useimmin pilattu vaihe. Kuumenna leveä, paksupohjainen paistinpannu – valurautainen ihanteellinen – korkealla lämmöllä, kunnes se savuaa. Lisää puolet voista. Kun vaahto laskee ja voi alkaa ruskistua, lisää sienet yhteen kerrokseen. ÄLÄ sekoita. Älä lisää kaikkia sieniä kerralla, jos ne ahtavat pannun – tee se kahdessa tai kolmessa erässä. Anna niiden olla koskematta 2–3 minuuttia, kunnes alapinnalle muodostuu syvä ruskea kuori, käännä sitten. Aluksi sienet vapauttavat suuren määrän nestettä; tämä on normaalia. Pysy korkealla lämmöllä ja anna nesteen haihtua kokonaan. Pannun ääni muuttuu höyryn suhinasta kihinäksi, kun kosteus on poissa – se on merkkisi. Sienten tulisi olla syvästi ruskistuneita, noin 70 % pienentyneitä tilavuudeltaan, reunoiltaan hieman rapeita. Mausta suolalla ja pippurilla ja siirrä lautaselle.",
+      "Laske lämpö keskitasolle. Lisää loput voista samaan pannuun – pohjassa oleva ruskea fondi alkaa heti vapautua voihin, tummentaen sitä kauniisti. Lisää salottisipuli ja timjami ja kypsennä säännöllisesti sekoittaen 5–6 minuuttia, kunnes salottisipuli on pehmeää ja kullankeltaista. Lisää valkosipuli ja kypsennä vielä minuutti. Kaada joukkoon konjakki – astu taaksepäin, se saattaa leimahtaa hetkeksi, jos pannu on tarpeeksi kuuma. Raaputa pannun pohjaa voimakkaasti konjakin vähentyessä lähes olemattomiin noin minuutissa. Kaada joukkoon liemi ja palauta paistetut sienet pannuun. Hauduta 5 minuuttia, kunnes liemi on vähentynyt noin puoleen ja neste on hieman sakeutunutta ja kiiltävää.",
+      "Laske lämpö alimmalle mahdolliselle asetukselle – hapankerma ei saa koskaan kiehua tai se erottuu ja muuttuu rakeiseksi, rikkoutuneeksi möykyksi. Lisää dijoninsinappi pannuun ja sekoita joukkoon. Lusikoi hapankerma joukkoon ja käännä se varovasti kastikkeeseen hitailla, leveillä liikkeillä. Anna lämmetä 1–2 minuuttia, juuri ja juuri kiehahtelematta – pinnan tulisi väristä hennosti muttei koskaan poreilla aktiivisesti. Kastike muuttuu ruskeasta lämpimän, vaaleanruskeaksi sävyksi kerman sekoittuessa joukkoon. Maista ja säädä suolaa ja pippuria varovasti – reduktio on jo keskittänyt suolaisuutta. Valmiin kastikkeen tulisi olla kermainen, hieman hapokas hapankermasta, lämpimän maukas sienistä ja raikas sinapista.",
+      "Lisää keitetyt, valutetut munanauhat suoraan pannuun kastikkeen kanssa ja käännä, jotta jokainen nauha peittyy. Jos kastike on liian paksua peittämään nuudelit vapaasti, lisää loraus pastan keitinvettä löysäämään sitä – se emulgoituu kauniisti kerman kanssa. Jaa lämpimiin kulhoihin ja ripottele reilusti tuoretta hienonnettua lehtipersiljaa. Tarjoa pelkän mustapippurirouheen ja yksinkertaisen vihreän salaatin kanssa. Nuudeleiden tulisi olla päällystettyjä, ei hukkuneita; jokaisessa nauhassa tulisi näkyä kermainen pinnoite."
+    ]
+  },
+  {
+    "id": "forkrecipe-naan",
+    "title": "Naan",
+    "description": "Tandoorin klassikko taivutettuna kotilieden hellälle – jogurtti- ja hiivataikina, joka läpsytetään ohueksi, hiillytetään mustankullanruskeaksi kuumalla valuraudalla ja viimeistellään valkosipulivoisiveltimellä ja revityllä korianterilla. Pehmeä, kimmoisa, hiiltynyt ja höyrynpehmeä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leipä", "intialainen", "hiivaleipä"],
+    "ingredients": [
+      "400 g vehnäjauhoja (leipäjauhoja)",
+      "140 g täysrasvaista jogurttia",
+      "100 ml haaleaa maitoa tai vettä",
+      "4 g pikahiivaa",
+      "8 g sokeria",
+      "7 g hienoa merisuolaa",
+      "24 ml mautonta öljyä tai ghee-voita",
+      "32 g ghee-voita tai sulatettua voita, viimeistelyyn",
+      "12 g valkosipulia, hienonnettuna",
+      "8 g tuoretta korianteria, hienonnettuna"
+    ],
+    "instructions": [
+      "Vatkaa pikahiiva ja sokeri haaleaan maitoon ja anna seistä minuutti. Yhdistä isossa kulhossa jauhot ja suola, tee sitten kuoppa ja lisää hiiva-maitoseos, jogurtti ja öljy. Sekoita lusikalla, sitten kädellä, kunnes kuivaa jauhoa ei enää näy ja muodostuu karkea, tahmea taikinamassa. Jogurtin happamuus ja maidon sokerit antavat naanille sen tangon maun ja nopean ruskistumisen, joten älä korvaa niitä kevyin perustein.",
+      "Vaivaa kevyesti öljytyllä pinnalla 8–10 minuuttia (tai 5 minuuttia yleiskoneessa taikinakoukulla), kunnes taikina muuttuu sileäksi, joustavaksi ja kimmoisaksi. Vastusta lisäämästä paljon jauhoja – pidä kätesi ja työtaso kevyesti öljyttyinä sen sijaan, jotta taikina pysyy pehmeänä. Rakennat juuri sen verran gluteenia, että leipä pullistuu ja repeytyy pureskeltavaksi menemättä sitkeäksi.",
+      "Aseta taikina kevyesti öljyttyyn kulhoon, peitä ja anna kohota lämpimässä paikassa, kunnes se on suurin piirtein kaksinkertaistunut – noin 1–2 tuntia keittiöstä riippuen. Täysi, hidas kohotus syventää makua, joten älä kiirehdi sitä liiallisella lämmöllä. Kun on kohonnut, painele ilma pois varovasti, jaa 6–8 yhtä suureen palaan, pyörittele kukin palloksi ja anna levätä peitettynä vielä 15 minuuttia, jotta gluteeni rentoutuu ja taikina kaulautuu vastustelematta.",
+      "Kuumenna raskas valurautapannu tai tawa korkealla lämmöllä täydet 5 minuuttia, kunnes se on polttavan kuuma – tämä on kotilieden korvike tandoorille. Sillä välin kaulitse tai venytä kevyesti jauhotetulla pinnalla jokainen pallo kyyneleen tai soikion muotoiseksi, noin 13–15 cm pitkäksi ja reilut 3–4 mm paksuksi, jättäen sen hieman paksummaksi kuin tortilla. Älä kaulitse paperinohueksi; naan tarvitsee runkoa pullistuakseen. Sivele pinta kevyesti vedellä juuri ennen kuin se menee pannulle – kosteus auttaa sitä tarttumaan ja höyrystymään.",
+      "Aseta naan kostea puoli alaspäin kuivalle, savuavalle pannulle. Minuutin sisällä se pullistuu höyrystä ja alapinta hiiltyy tummiksi täpliksi – peitä kannella 30 sekunniksi lämmön vangitsemiseksi ja pullistumisen edistämiseksi. Kun yläpinta kuplii ja alapinta on hiiltynyt mustankultaiseksi, käännä ja kypsennä toista puolta 30–60 sekuntia, kunnes sekin on täplikäs. Vieläkin tandoorimaisemman hiiltymän saamiseksi pidä pullistunutta naania pihdeillä suoraan avoimen kaasuliekin yllä muutaman sekunnin ajan. Pidä valmiit leivät pyyhkeeseen käärittyinä pysyäkseen pehmeinä.",
+      "Lämmitä ghee tai sulatettu voi hienonnetun valkosipulin kanssa, kunnes tuoksuvaa – älä ruskista valkosipulia. Heti kun kukin naan tulee pois liedeltä, sivele se reilusti valkosipuli-gheellä, jotta se imeytyy kuumaan, avoimeen sisukseen, ja ripottele sitten hienonnettua korianteria. Tarjoa heti pinottuna ja käärittynä puhtaaseen pyyhkeeseen pehmeyden ja höyryn säilyttämiseksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-nam-jim-seafood",
+    "title": "Nam jim -kalastuskastike",
+    "description": "Thaimaan sähköistävä raaka kastike grillatulle äyriäiselle ja kalalle – survottua valkosipulia, tuoretta chiliä ja korianterinjuurta terävän hapokkaassa, voimakkaan yrttisessä kalakastike-limemehuseoksessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "thaimaalainen", "tulinen", "dippi"],
+    "ingredients": [
+      "20 g valkosipulinkynsiä, kuorittuna",
+      "30 g linnunsilmächiliä (prik kii nuu), varret poistettuna",
+      "10 g korianterinjuurta, raaputettuna puhtaaksi (tai varsia)",
+      "40 ml tuoretta limemehua",
+      "20 ml kalakastiketta",
+      "10 g palmusokeria tai valkoista sokeria"
+    ],
+    "instructions": [
+      "Yhdistä graniittihuhmareessa valkosipulinkynnet, linnunsilmächilit ja korianterinjuuret. Aloita survomalla ensin valkosipuli – se vaatii eniten voimaa. Kun valkosipuli on karkea, mehukas tahna, lisää korianterinjuuret ja survo uudelleen. Lisää lopuksi chilit. Työstä kaikkia yhdessä pyörivällä survomisliikkeellä, vuorotellen survomista ja reunojen kaapimista lusikalla sisäänpäin. Tavoitteena on karkea, märkä tahna – ei sileä sose. Haluat nähdä korianterinjuuren säikeitä, pieniä chilinkuoren pilkkuja ja hieman paakkuista valkosipulipohjaa. Survomisen vapauttamat öljyt eroavat perustavanlaatuisesti leikkaamalla vapautetuista: ne ovat kirkkaampia, haihtuvampia ja voimakkaamman tuoksuisia.",
+      "Lisää palmusokeri suoraan huhmareeseen ja survo hetki rikkoaksesi sen tahnaan – sen on liuettava kokonaan, ei vain jäätävä paakuiksi. Kaada sitten joukkoon limemehu ja kalakastike. Sekoita lusikalla yhteen, maistaen matkan varrella. Hyvin tasapainotetun nam jim -äyriäiskastikkeen makujärjestyksen tulisi olla: ensin ja voimakkaimpana hapan, sitten suolainen, sitten makea taustana, joka estää hapon olemasta liian terävä, ja lopuksi rakentuva tulisuus, joka saapuu viimeisenä ja jää viipymään. Säädä limeä lisää hapokkuutta varten, kalakastiketta lisää suolaisuutta varten, sokeria pehmentämään terävyyttä. Tämän kastikkeen tulisi olla rohkea melkein liikaa asti – se kohtaa grillatun äyriäisen, joka kestää sen."
+    ]
+  },
+  {
+    "id": "forkrecipe-nam-prik-pao",
+    "title": "Nam prik pao (thaimaalainen paahdettu chilitahna)",
+    "description": "Thaimaalainen paahdettu chilitahna – jokainen ainesosa hiillytetty erikseen ennen yhteen jauhamista tummaksi, savuiseksi, makean-suolaiseksi hillokkeeksi, joka tuoksuu nuotiolta ja karamellisoituneelta salottisipulilta. Tom yumin selkäranka, pad thain salaisuus, ja erinomainen pelkän riisin kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 50,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "thaimaalainen", "tulinen", "dippi"],
+    "ingredients": [
+      "40 g kuivattuja pitkiä punaisia chilejä, kannat ja siemenet poistettuna",
+      "40 g salottisipulia, kuorimattomina",
+      "20 g valkosipulinkynsiä, kuorimattomina",
+      "10 g kuivattuja katkarapuja",
+      "10 ml kalakastiketta",
+      "10 g palmusokeria tai fariinisokeria",
+      "20 ml mautonta öljyä"
+    ],
+    "instructions": [
+      "Paahda kukin ainesosa erikseen kuivassa wokissa tai paistinpannussa keskikovalla lämmöllä, satunnaisesti kääntäen. Chilit: 3–4 minuuttia, kunnes tuoksuvia ja hieman pullistuneita, ei palaneita. Salottisipulit (kuorimattomina): 8–10 minuuttia, kunnes ulkokuoret ovat hiiltyneen mustia ja sisus on pehmeä. Valkosipuli (kuorimattomina): 6–8 minuuttia, kunnes kuoret ovat mustuneet ja kynnet pehmeitä. Jäähdytä, kuori sitten salottisipulit ja valkosipuli – hiiltyneet ulkokuoret heitetään pois, mutta niiden maku on tunkeutunut lihaan.",
+      "Kuori paahdetut salottisipulit ja valkosipuli. Laita huhmareeseen paahdettujen chilien ja kuivattujen katkarapujen kanssa. Survo napakasti, työstäen ensin kuivatut katkaravut (ne vievät eniten aikaa), sitten valkosipuli, sitten salottisipuli, sitten chilit. Survo, kunnes muodostuu karkea, tuoksuva tahna – hieman rakeisuutta on tälle tyylille oikein. Vaihtoehtoisesti pulssaa tehosekoittimessa rakeiseksi massaksi.",
+      "Kuumenna öljy wokissa tai kattilassa keskimatalalla lämmöllä. Lisää tahna ja paista jatkuvasti sekoittaen 8–10 minuuttia, kunnes tahna tummuu, kosteus haihtuu ja öljy alkaa näkyvästi erottua kiintoaineista. Lisää kalakastike ja palmusokeri. Sekoita ja jatka paistamista vielä 3–4 minuuttia, kunnes sokeri karamellisoituu ja tahna tuoksuu monimutkaiselta, makealta ja syvän savuiselta. Jäähdytä ja säilytä purkissa – maku paranee 24 tunnissa."
+    ]
+  },
+  {
+    "id": "forkrecipe-nashville-hot-sauce",
+    "title": "Nashvillen tulinen kastike",
+    "description": "Räjähtävä cayenne- ja laardikastike, joka siveltiin vasta paistetun kanan päälle Prince's Hot Chickenissä ja sen perillisissä – syvänpunainen, kiiltävä tahna cayennea, fariinisokeria ja mausteita, joka imeytyy kuoreen ja rakentaa hitaan, vyöryvän tulisuuden, joka on ansainnut kaupunkinsa maineen. Laardi ei ole valinnainen; se on se, mikä saa kastikkeen tarttumaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "amerikkalainen", "tulinen", "kana"],
+    "ingredients": [
+      "100 g laardia tai mautonta paistoöljyä (kanan paistamiseen käytetystä rasvasta, siivilöitynä)",
+      "50 g cayennepippuria (vastaraikastettu purkki)",
+      "25 g fariinisokeria (tummaa, tiiviiksi painettua)",
+      "13 g savupaprikajauhetta",
+      "13 g valkosipulijauhetta",
+      "13 g hienoa merisuolaa",
+      "13 ml omenaviinietikkaa"
+    ],
+    "instructions": [
+      "Kuumenna laardi tai paistoöljy varovasti pienessä kattilassa keskilämmöllä, kunnes se saavuttaa noin 150–160 °C – juuri alkaa kiiltää ja liikkua pannussa pyöräytettäessä. Tämä lämpötila on tarpeeksi kuuma mausteiden kukkimiseen ja sokerin liuottamiseen ilman kärventymistä. Jos käytät siivilöityä paistoöljyä vasta paistetusta kanasta, se on todennäköisesti jo oikeassa lämpötilassa.",
+      "Ota pannu pois liedeltä. Lisää cayennepippuri, fariinisokeri, savupaprika, valkosipulijauhe ja suola kuumaan rasvaan kerralla. Vatkaa voimakkaasti ja jatkuvasti 30–45 sekuntia. Jäännöslämpö kukistaa mausteet, liuottaa sokerin ja paahtaa jauheet rasvassa, syventäen niiden makua dramaattisesti. Seos vaahtoaa ja kihisee hetken ja muuttuu eloisan, syvän tiilenpunaiseksi.",
+      "Anna kukkineen mauste-rasvaseoksen jäähtyä hieman 2 minuuttia – noin 80 °C:een. Lisää omenaviinietikka ja vatkaa heti emulgoidaksesi. Kastike ohenee hieman ja kirkastuu hapon ansiosta. Maista varovasti – se on polttavan tulinen – ja käytä heti kuumana siveltynä paistetun kanan päälle, jotta se imeytyy kuoreen ennen jähmettymistä."
+    ]
+  },
+  {
+    "id": "forkrecipe-nasi-goreng-paste",
+    "title": "Nasi goreng -mausteseos (tahna)",
+    "description": "Tumma, voimakkaan maukas tahna hiillytetystä salottisipulista, valkosipulista ja fermentoidusta katkarapupastasta jauhettuna tuoksuvaksi mustanpunaiseksi massaksi – aromaattinen moottori, joka muuttaa edellisen päivän riisin savuiseksi, funky-maiseksi ja syvästi tyydyttäväksi heti kun se osuu polttavan kuumaan wokkiin.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["mausteseos", "indonesialainen", "tulinen", "kasvis"],
+    "ingredients": [
+      "60 g aasialaista salottisipulia (6–8 kpl), kuorittuna",
+      "40 g valkosipulia (5 kynttä), kuorittuna",
+      "10 g terasia (indonesialaista katkarapupastaa), paahdettuna",
+      "20 g kuivattuja punaisia chilejä (5–8 kpl), liotettuna kuumassa vedessä 10 min",
+      "5 g linnunsilmächiliä (2–3 kpl, valinnainen lisätulisuus)",
+      "20 ml kecap manista (makeaa soijakastiketta)",
+      "20 ml mautonta öljyä (rypsiöljyä tai kookosöljyä)",
+      "3 g suolaa"
+    ],
+    "instructions": [
+      "Kääri terasi pieneen alumiinifolion palaan ja paina litteäksi. Paahda suoraan kaasuliekin yllä tai kuivassa pannussa 30–45 sekuntia puolelta, kunnes se tuoksuu kypsältä ja syvän maukkaalta – raa'an tahnan ammoniakkimainen terävyys väistyy paahdetun, fermentoidun kompleksisuuden tieltä. Älä ohita tätä vaihetta: raaka terasi haisee voimakkaalta ja karkealta, mutta kypsennys kesyttää sen poikkeukselliseksi. Folio estää tahnaa tarttumasta kiinni ja liekkiä kärventämästä sitä epätasaisesti.",
+      "Valuta liotetut kuivatut chilit – niiden tulisi olla pehmeitä ja taipuisia. Yhdistä salottisipuli, valkosipuli, liotetut kuivatut chilit, tuoreet linnunsilmächilit (jos käytät) ja paahdettu terasi isoon huhmareeseen. Survo järjestelmällisesti aloittaen kovimmista aineksista (salottisipuli, valkosipuli) ennen chilien ja terasin lisäämistä. Työstä pyörivällä survomisliikkeellä, kääntäen petkeltä ja silloin tällöin kaapien reunoja. Tavoitteena on sileä, tasavärinen, syvän tiilenpunainen tahna ilman näkyviä paloja. Tehosekoitin toimii, mutta tuottaa hieman vetisemmän tahnan – lisää ruokalusikallinen vähemmän vettä.",
+      "Kuumenna öljy wokissa tai paksussa paistinpannussa keskilämmöllä, kunnes kiiltää. Lisää mausteet tahna kerralla – se roiskuu ja sihisee kovaäänisesti. Pysy etäällä. Paista jatkuvasti puulusikalla sekoittaen 6–8 minuuttia. Tahna etenee kolmen näkyvän vaiheen läpi: ensin se höyryää ja pärskyy (vesi haihtuu); sitten se paistuu ja tummuu kirkkaanpunaisesta syvemmäksi tiilenruskeaksi; lopuksi öljy erottuu tahnan ympärille (minyak pecah) ja tahna tuoksuu makealta, paahdetulta ja monimutkaiselta raa'an sijaan. Tämä kypsennetty tahnapohja on kaiken nasi gorengin maun perusta.",
+      "Lisää kecap manis ja ripaus suolaa kypsennettyyn tahnaan ja sekoita matalalla lämmöllä 1 minuutti, kunnes yhdistynyt. Kecap manis lisää makeutta ja syvemmän värin – tahna tummuu edelleen kiiltäväksi, hyvin tummanruskeaksi. Maista: sen tulisi olla maukasta ja monimutkaista selkeällä fermentoituneella syvyydellä. Se on voimakkaan maustettu – tämä on tiivistetty tahna, joka on tarkoitettu maustamaan noin 400 g kypsennettyä riisiä per tämä resepti. Säilytä jäähtynyt tahna suljetussa purkissa jääkaapissa enintään viikon. Käyttö: lisää 2 rkl öljyä kuumaan wokkiin, lisää tahna ja paista 30 sekuntia, lisää sitten edellisen päivän riisi ja käännä."
+    ]
+  },
+  {
+    "id": "forkrecipe-nasi-goreng",
+    "title": "Nasi goreng",
+    "description": "Indonesian kansallinen paistettu riisi – edellisen päivän riisiä paistettuna polttavan kuumassa wokissa katkarapupastan, kecap manisin ja sambalin kanssa, sekoitettuna munan joukkoon, kunnes jokainen jyvä on peittynyt tummalla, makean-suolaisella kiillolla ja wokin reunat savuavat.",
+    "servings": 2,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["riisi", "indonesialainen", "kana", "tulinen"],
+    "ingredients": [
+      "600 g edellisen päivän keitettyä jasmiiniriisiä, kylmänä ja erotettuna",
+      "2 kananmunaa",
+      "10 g terasia (katkarapupastaa), paahdettuna",
+      "40 ml kecap manista (makeaa soijakastiketta)",
+      "15 ml soijakastiketta tai kecap asinia",
+      "20 g sambal oelekia tai tuoretta punaista chiliä, viipaloituna",
+      "60 g salottisipulia, ohuiksi siivuiksi viipaloituna",
+      "20 g valkosipulinkynsiä, hienonnettuna",
+      "30 ml mautonta öljyä (kasvis- tai maapähkinäöljyä)",
+      "30 g paistettua salottisipulia, kurkkuviipaleita, kevätsipulia ja/tai paistettua kananmunaa tarjoiluun"
+    ],
+    "instructions": [
+      "Riko kylmä edellisen päivän riisi sormin tai haarukalla, kunnes paakkuja ei enää ole – jokaisen jyvän tulisi olla erillinen ja kuiva. Kylmät, erotetut jyvät paistuvat; tuore lämmin riisi höyrystyy ja muuttuu tahnaksi. Jos käytät kiinteää terasia (katkarapupastaa), murra tarvittava määrä irti ja paahda lyhyesti: kääri folioon ja pidä matalan kaasuliekin yllä minuutti puolelta, tai kuivapaista pienessä pannussa, kunnes tuoksuvaa ja hieman murenevaa. Paahtaminen poistaa kalaisen raa'an hajun ja muuttaa pastan voimakkaan maukkaaksi, pähkintäiseksi aineeksi. Murenna paahdettu terasi pieneen kulhoon. Mittaa kaikki muut ainekset valmiiksi ja käden ulottuville – nasi goreng etenee nopeasti.",
+      "Kuumenna wokki tai iso valurautapannu korkeimmalla mahdollisella lämmöllä, kunnes vesipisara haihtuu heti kosketuksesta – tämä kestää 2–3 minuuttia. Lisää öljy; sen tulisi väreillä ja kiiltää heti. Lisää viipaloitu salottisipuli ja paista 60 sekuntia, kunnes läpikuultavaa ja alkaa saada väriä. Lisää hienonnettu valkosipuli ja murennettu terasi, painaen terasia lastalla kuumaa wokin pintaa vasten sen rikkomiseksi. Paista 30 sekuntia – keittiö täyttyy voimakkaasta, maukkaasta, hieman funky-maisesta tuoksusta, joka nopeasti muuttuu monimutkaiseksi ja paahdetuksi. Lisää sambal ja käännä 15 sekuntia. Wokin tulisi savuta kevyesti.",
+      "Työnnä aromaatit wokin toiselle laidalle. Riko molemmat kananmunat tyhjään tilaan. Anna niiden hyytyä 10–15 sekuntia koskematta – keltuaisen tulisi juuri alkaa hyytyä reunoilta. Sekoita sitten karkeasti lastalla rikkoen suuriksi, epätasaisiksi palasiksi. Ennen kuin muna on täysin kypsynyt ja kun se vielä näyttää hieman märältä ja kiiltävältä, työnnä aromaatit takaisin munan päälle ja käännä kaikki yhteen. Osittain hyytynyt muna sekoittuu riisin joukkoon paremmin kuin täysin kypsennetty munakokkeli, joka paakkuuntuu erikseen.",
+      "Lisää erotettu riisi wokkiin kahdessa erässä, kääntäen voimakkaasti jokaisen lisäyksen jälkeen – käytä lastaa ja nopeaa kauhova-kääntävää liikettä. Kaada kecap manis ja soijakastike riisin päälle (ei suoraan aromaattien päälle, mikä voisi palaa) ja käännä jatkuvasti 2–3 minuuttia. Jokaisen jyvän tulisi peittyä tummalla, mahonginruskealla kiillolla. Riisi saattaa rätistä ja poksua yksittäisten jyvien paahtuessa wokin pintaa vasten – tämä on haluttu wok hei. Maista ja säädä soijalla tai kecap manisilla. Lautaselle heti.",
+      "Lautaselle nasi goreng heti – se ei odota hyvin. Koristele paistetulla kananmunalla (aurinkoisen puolen ylöspäin, keltuainen juoksevana), rapeilla paistetuilla salottisipuleilla ripoteltuna päälle, kurkkuviipaleilla vierelle ja kevätsipulilla. Paistetun munan keltuainen, rikottuna pöydässä, toimii kastikkeena riisille. Paistetut salottisipulit lisäävät viimeisen rapeuden ja makeuden, jota resepti kipeästi kaipaa kaiken tulisuuden jälkeen. Muutama kurkkuviipale leikkaa rikkautta. Tarjoa lisäsambalin kanssa niille, jotka haluavat lisää tulisuutta."
+    ]
+  },
+  {
+    "id": "forkrecipe-nasi-lemak",
+    "title": "Nasi lemak",
+    "description": "Malesian kansallinen aamiainen: jasmiiniriisiä keitettynä kookosmaidossa pandaninlehden kanssa, kunnes jokainen jyvä on erikseen rikas ja tuoksuva, tarjoiltuna syvän, karamellisoituneen sambalin, rapeiden paistettujen anjovisten ja paahdettujen maapähkinöiden kanssa – kontrastien arkkitehtuuri yhdessä kulhossa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 35,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["riisi", "malesialainen", "aamiainen", "tulinen"],
+    "ingredients": [
+      "300 g jasmiiniriisiä, huuhdeltuna",
+      "150 ml täysrasvaista kookosmaitoa",
+      "2 pandaninlehteä, solmittuna",
+      "4 g suolaa",
+      "75 g kuivattuja anjoviksia (ikan bilis)",
+      "75 g paahdettuja maapähkinöitä",
+      "38 g kuivattuja punaisia chilejä, liotettuna ja tehosekoitettuna",
+      "38 g salottisipulia, tehosekoitettuna",
+      "22 ml mautonta öljyä",
+      "15 g palmusokeria (gula Melaka)"
+    ],
+    "instructions": [
+      "Yhdistä huuhdeltu riisi, kookosmaito, pandaninlehdet ja suola paksupohjaiseen kattilaan. Lisää vettä niin, että nesteen kokonaismäärä on tasan 1,5 cm riisin pinnan yläpuolella. Kuumenna kiehuvaksi keskilämmöllä, sekoita kerran, laske sitten heti alimmalle mahdolliselle lämmölle, peitä tiiviisti ja keitä 12 minuuttia. Ota pois liedeltä ja anna höyryyn koskematta vielä 10 minuuttia. Poista pandaninlehdet ennen tarjoilua.",
+      "Kuumenna öljy wokissa, kunnes se kiiltää (noin 175 °C). Lisää kuivatut anjovikset yhteen kerrokseen ja paista jatkuvasti sekoittaen 3–5 minuuttia, kunnes syvän kullanruskeita ja läpikotaisin rapeita. Nosta reikäkauhalla ja valuta talouspaperilla. Ne jatkavat rapeutumistaan jäähtyessään. Paista samassa öljyssä maapähkinät 2 minuuttia, kunnes kullanruskeita. Valuta erikseen.",
+      "Paista samassa wokissa (lisää öljyä tarvittaessa) tehosekoitettua salottisipulia ja chilitahnaa keskilämmöllä, jatkuvasti sekoittaen, 12–15 minuuttia. Tahna pärskähtelee, tummuu ja kutistuu dramaattisesti. Lisää palmusokeri ja jatka kypsennystä, pohjaa raaputtaen, vielä 5 minuuttia, kunnes sambal on hyvin tumman tiilenpunainen, kiiltävä ja öljy on erottunut takaisin pinnalle. Mausta suolalla ja pienellä loraus tamarindia, jos saatavilla.",
+      "Kasaa kookosriisi banaaninlehden tai lautasen keskelle. Lisää reilu lusikallinen sambalia viereen. Ripottele paistetut anjovikset ja paahdetut maapähkinät päälle ja ympärille. Klassisiin lisukkeisiin kuuluu puolikas kovaksi keitetty kananmuna ja kurkkuviipaleita. Tarjoa heti – kuuman riisin, huoneenlämpöisen sambalin ja rapeiden lisukkeiden kontrasti on koko juju."
+    ]
+  },
+  {
+    "id": "forkrecipe-nasu-dengaku",
+    "title": "Nasu dengaku",
+    "description": "Halkaistu japanilainen munakoiso paahdettuna sulavan pehmeäksi, lasitettuna makealla valkoisella misolla ja karamellisoituna grillivastuksen alla kiiltäväksi, karvaan-makeaksi lopputulokseksi.",
+    "servings": 4,
+    "prepTimeMin": 10,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["munakoiso", "japanilainen", "kasvis", "grilli"],
+    "ingredients": [
+      "4 kpl japanilaista munakoisoa (nasu)",
+      "60 g valkoista shiro-misoa",
+      "30 ml miriniä",
+      "20 ml sakea",
+      "10 g hienoa sokeria",
+      "20 ml seesamiöljyä",
+      "10 g paahdettuja seesaminsiemeniä",
+      "15 g kevätsipulia, hienoksi viipaloituna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 200 asteeseen. Halkaise munakoisot pituussuunnassa. Terävällä veitsellä viillä leikkuupinta syvään ristikkokuvioon – viillot noin 1,5 cm välein ja 1 cm syviä – puhkaisematta kuorta. Sivele viilletty liha reilusti seesamiöljyllä. Aseta leikkuupuoli alaspäin leivinpaperilla vuoratulle pellille ja paahda 15–18 minuuttia, kunnes liha on täysin pehmeää ja kuori on alkanut ryppyyntyä.",
+      "Vatkaa valkoinen miso, mirin, sake ja sokeri pienessä kulhossa, kunnes täysin sileää ja kiiltävää. Lasitteen tulisi olla tarpeeksi paksua pysyäkseen kasassa lusikalla – jos se vaikuttaa liian jäykältä, lisää teelusikallinen miriniä. Jos se valuu vapaasti, miso saattaa olla hyvin märkää; lyhyt lämmitys matalalla lämmöllä tiivistää sitä.",
+      "Käännä paahdetut munakoisopuolikkaat leikkuupuoli ylöspäin. Lusikalla tai leivontaharjalla levitä dengaku-lasite reilusti ja tasaisesti jokaiselle leikkuupinnalle, peittäen koko lihan ja työntäen sitä ristikkokuvioon. Aseta kuuman grillivastuksen alle (tai ylimmälle ritilälle 230 asteessa) 3–5 minuutiksi, tarkkaan seuraten, kunnes lasite tummuu syvän mahonginruskeaksi ja kuplii voimakkaasti reunoilta. Koristele heti seesaminsiemenillä ja kevätsipulilla."
+    ]
+  },
+  {
+    "id": "forkrecipe-nduja-butter",
+    "title": "Nduja-voi",
+    "description": "Suolatonta voita vatkattuna tulisen kalabrialaisen ndujan kanssa, kunnes kaksi sulautuvat silkkiseksi, porsaalta tuoksuvaksi levitteeksi, joka leviää kuin ylellisyys ja polttaa hitaasti kasvavalla lämmöllä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 60,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["voi", "italialainen", "tulinen", "levite"],
+    "ingredients": [
+      "200 g suolatonta voita, huoneenlämpöistä",
+      "60 g ndujaa (levitettävää kalabrialaista makkaraa)",
+      "20 g tuoretta ruohosipulia, hyvin hienonnettuna",
+      "6 g sitruunankuorta (1 käsittelemättömästä sitruunasta)",
+      "4 g mustapippuria, vastajauhettuna",
+      "2 g hienoa merisuolaa"
+    ],
+    "instructions": [
+      "Voin tulee olla aidosti pehmeää – ei kylmää ja kovaa eikä alkamassa sulaa. Anna sen olla huoneenlämmössä vähintään 45–60 minuuttia ennen aloittamista, tai kunnes se painuu helposti kevyellä sormenpainalluksella. Vatkaa pehmennettyä voita kulhossa puulusikalla tai sähkövatkaimella keskinopeudella 2–3 minuuttia, kunnes se muuttuu vaalean norsunluunväriseksi, kasvaa tilavuudeltaan ja muuttuu selvästi kevyemmäksi ja kuohkeammaksi. Tämä vaihe ilmastaa voin ja luo pohjan silkkiselle levitteelle, joka sulaa tasaisesti sen sijaan, että hajoaisi rasvaisiksi lammikoiksi.",
+      "Lisää nduja vatkattuun voihin. Huoneenlämmössä nduja on pehmeää ja levittyvää – se sekoittuu voihin helposti. Vatkaa keskinopeudella, kunnes nduja on täysin sekoittunut eikä punaoranssia juovaa enää näy. Ndujan rasva ja mausteöljyt värjäävät voin lämpimän terrakotanoranssiksi läpikotaisin. Seos tuoksuu voimakkaasti porsaanrasvalta, fermentoituneelta lihalta ja kalabrialaiselta chililtä – hyvin suoralta, eläimelliseltä aromilta. Tämän vaiheen tulisi kestää korkeintaan 90 sekuntia aktiivista vatkaamista.",
+      "Lisää ruohosipuli, sitruunankuori, mustapippuri ja suola nduja-voipohjaan. Käännä varovasti kumilastalla joukkoon – älä vatkaa, se mustelmoisi ruohosipulin ja tummentaisi sen. Kolme tai neljä laajaa käännöstä riittää jakamaan ne tasaisesti. Levitä iso pala muovikelmua tiskipöydälle. Lusikoi voi yhdelle reunalle ja käytä kelmua rullataksesi sen tiiviiksi, noin 5 cm halkaisijaltaan olevaksi rullaksi. Kierrä päät tiukasti puristaaksesi ja muotoillaksesi rullan. Jäähdytä jääkaapissa vähintään 45 minuuttia, kunnes hyvin kiinteä, tai pakasta enintään 2 kuukaudeksi. Viipaloi pyörylöiksi suoraan jääkaapista."
+    ]
+  },
+  {
+    "id": "forkrecipe-nduja-sauce",
+    "title": "Nduja-tomaattikastike",
+    "description": "Kalabrian tulinen, levitettävä salami – pelkkää porsaanrasvaa, kalabrialaista chiliä ja kypsytettyä intensiivisyyttä – sulatettuna yksinkertaiseen tomaattikastikkeeseen, kunnes se katoaa kiiltäväksi, tiilenpunaiseksi emulsioksi, joka värjää kaiken koskettamansa tulisuudella ja pigmentillä. Kolmekymmentä minuuttia alusta pöytään, ja monimutkaisempi kuin millään niin nopealla on oikeutta olla.",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "italialainen", "tulinen", "pastaa"],
+    "ingredients": [
+      "100 g ndujaa (kalabrialaista levitettävää salamia)",
+      "400 g säilykekokonaisia San Marzano -tomaatteja",
+      "3 valkosipulinkynttä, ohuiksi siivuiksi viipaloituna",
+      "30 ml extra-virgin-oliiviöljyä",
+      "10 g tuoreita basilikanlehtiä",
+      "5 g hienoa merisuolaa",
+      "100 g burrataa tai tuoretta mozzarellaa tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy paksupohjaisessa kattilassa keskilämmöllä. Lisää valkosipuli ja kypsennä 90 sekuntia, kunnes vaalean kullankeltaista. Lisää nduja kokonaisena palana. Puulusikalla painele ja riko sitä kuumentuessa – 2–3 minuutin sisällä se sulaa täysin öljyyn, vapauttaen eloisan oranssinpunaisen rasvan ja muuttaen oliiviöljyn liekehtiväksi, chilin tuoksuiseksi emulsioksi.",
+      "Lisää säilyketomaatit pannuun, murskaten niitä käsin kaataessasi. Sekoita yhdistääksesi ndujaemulsion tomaattien joukkoon – kastike muuttuu heti syvän, eloisan punaoranssiksi. Mausta kevyesti suolalla (muista, että nduja on jo suolaista). Hauduta ilman kantta 20 minuuttia, satunnaisesti sekoittaen ja jäljellä olevia tomaattipaloja murskaten. Kastikkeen tulisi vähentyä ja sakeutua näkyvästi.",
+      "Ota pois liedeltä. Revi basilikanlehdet ja sekoita kastikkeen joukkoon. Maista ja säädä suolaa. Käännä heti kypsennetyn rigatonin, paccherin tai calamaratan joukkoon (putkipastoja, jotka vangitsevat tulisen kastikkeen sisäänsä). Lisää lusikallinen pastavettä tarvittaessa emulgoimaan. Tarjoa revityn burratan kanssa päälle aseteltuna, mikä viilentää tulisuutta ja lisää rikasta kontrastia."
+    ]
+  },
+  {
+    "id": "forkrecipe-neapolitan-pizza-dough",
+    "title": "Napolilainen pizzataikina",
+    "description": "60 % hydraatiotaikina, joka kohotetaan hitaasti kaupallisella hiivalla. Rakenne perustuu pitkään autolyysiin ja gluteenin kehittymiseen taittelujen, ei vaivaamisen, kautta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1440,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["pizza", "italialainen", "hiivaleipä", "kasvis"],
+    "ingredients": [
+      "660 g 00-jauhoja",
+      "4 dl kylmää vettä",
+      "18 g hienoa merisuolaa",
+      "1 g kuivahiivaa (noin ¼ tl)"
+    ],
+    "instructions": [
+      "Sekoita hiiva kylmään veteen (18–20 °C), kunnes pinnalla ei enää kellu rakeita.",
+      "Lisää jauhot liuokseen. Sekoita puulusikalla, kunnes kuivaa jauhoa ei enää näy.",
+      "Peitä ja anna taikinan levätä 20–30 minuuttia huoneenlämmössä. Jauho hydratoituu täysin ja gluteeni alkaa järjestäytyä itsestään.",
+      "Ripottele suola taikinan pinnalle. Nipistele ja taittele, kunnes se katoaa taikinan sisään.",
+      "Tee venytys-ja-taittelukierroksia 30 minuutin välein: nosta toinen reuna, venytä ylös, taita päälle. Käännä. Toista neljä kierrosta (noin 2 tuntia yhteensä), anna sitten taikinan rentoutua 15–20 minuuttia ennen pääkohotusta.",
+      "Peitä. Anna kohota viileässä huoneenlämmössä (18–20 °C) 8–12 tuntia – tai 4–6 tuntia lämpimämmässä 24–26 °C:ssa – kunnes taikina on suunnilleen kaksinkertaistunut ja tutisee kevyesti tönäistäessä.",
+      "Jaa yhtä suuriin palloihin (noin 250–280 g kukin 30 cm:n pizzaa varten). Pyörittele kukin tiukaksi palloksi kuppimaisten käsien alla, sulkien sauman alapuolelle, peitä sitten ja anna kohota 4–6 tuntia huoneenlämmössä (tai kylmäkohotus jääkaapissa 24–48 tuntia, palauttaen pallot huoneenlämpöön noin 2 tuntia ennen venyttämistä), kunnes pullistuneita ja rentoja."
+    ]
+  },
+  {
+    "id": "forkrecipe-new-england-clam-chowder",
+    "title": "Uuden-Englannin simpukkakeitto",
+    "description": "Kulho norsunluunväristä kermaa sakeutettuna mureilla perunoilla ja suolasialla, suonittuna suolaisen, makean simpukkaliemen kera – jokainen lusikallinen kantaa mukanaan kylmää Atlanttia.",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "totalTimeMin": 50,
+    "category": "Keitot",
+    "tags": ["keitto", "amerikkalainen", "simpukka", "kermainen"],
+    "ingredients": [
+      "300 g hienonnettuja simpukoita, säilykkeestä tai tuoreena (neste talteen otettuna)",
+      "80 g suolasiankylkeä tai paksua pekonia, kuutioituna",
+      "150 g keltasipulia, kuutioituna",
+      "250 g Yukon Gold -perunoita, kuorittuna ja 1 cm kuutioina",
+      "200 ml kuohukermaa",
+      "30 g vehnäjauhoja",
+      "20 g suolaa, valkopippuria ja tuoretta timjamia"
+    ],
+    "instructions": [
+      "Laita kuutioitu suolasianliha kylmään, paksupohjaiseen pataan tai valurautapataan ja aseta keskimatalalle lämmölle. Kypsennä hitaasti, satunnaisesti sekoittaen, 8–10 minuuttia, kunnes rasva on täysin sulanut ja sianlihapalaset ovat kullankeltaisia ja rapeita. Kylmästä aloittaminen varmistaa maksimaalisen rasvan irtoamisen. Nosta rapeat sianlihapalat reikäkauhalla talteen.",
+      "Lisää kuutioitu sipuli sulaneeseen rasvaan keskilämmöllä ja kypsennä, satunnaisesti sekoittaen, 5–7 minuuttia, kunnes pehmeää ja läpikuultavaa muttei ruskistunutta. Ripottele jauhot sipulien päälle ja sekoita jatkuvasti 1–2 minuuttia, peittäen jokaisen sipulinpalan. Tämä vaalea roux on keiton runko – sen täytyy kypsyä tarpeeksi menettääkseen raa'an jauhon maun, mutta ei saa saada väriä.",
+      "Kaada talteen otettu simpukkaneste sekä tarpeeksi vettä tai simpukkalientä peittämään perunat 2 cm:llä pataan vatkaten estääksesi paakkujen muodostumisen. Lisää kuutioidut perunat. Kuumenna hiljaiseen kiehumiseen ja keitä 12–15 minuuttia, kunnes perunat ovat mureita mutta pitävät vielä muotonsa. Älä anna kiehua voimakkaasti – voimakas kiehuminen rikkoo perunat ja tekee keitosta sameaa.",
+      "Laske lämpö matalalle. Sekoita joukkoon kuohukerma ja hienonnetut simpukat. Lämmitä hellästi 3–5 minuuttia, kunnes lämmennyt läpi. Älä anna kiehua kerman lisäämisen jälkeen – se erottuu ja juoksettuu. Simpukat tarvitsevat vain lämmittämistä, ei koskaan kypsentämistä; jos ne olisivat raakoja, ne kovettuisivat voimakkaasti tässä vaiheessa. Maista ja säädä suolaa ja valkopippuria.",
+      "Kauho keitto lämpimiin kulhoihin. Koristele talteen otetuilla rapeilla sianlihapaloilla ja mustapippurirouheella. Valinnaisesti valuta muutama tippa kuohukermaa spiraaliksi. Tarjoa ostereiden kanssa tarjottavien keksien tai rapean leivän kanssa. Keitto sakeutuu huomattavasti jäähtyessään – tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "forkrecipe-new-york-bagels",
+    "title": "New Yorkin bageli",
+    "description": "Tiivis, pureva, perin pohjin tyydyttävä – New Yorkin bagelin ainutlaatuinen rakenne syntyy korkean gluteenipitoisuuden taikinasta, yön yli kestävästä kylmäkohotuksesta ja mallasirappiin keitetystä esikäsittelystä ennen paistoa, mikä tuottaa kuoren, joka napsahtaa veitsen alla, ja sisuksen, joka vastustaa kaikkia jäljittelijöitä.",
+    "servings": 8,
+    "prepTimeMin": 60,
+    "totalTimeMin": 1080,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leipä", "amerikkalainen", "hiivaleipä", "aamiainen"],
+    "ingredients": [
+      "560 g vahvaa leipäjauhoa (14 % proteiinia)",
+      "310 ml kylmää vettä",
+      "11 g hienoa merisuolaa",
+      "8 g mallasirappia (taikinaan)",
+      "3 g pikahiivaa",
+      "30 g mallasirappia per litra keitinvettä",
+      "20 g kaikki-mausteinen bagelmauste tai seesaminsiemeniä/unikonsiemeniä"
+    ],
+    "instructions": [
+      "Yhdistä jauhot, suola, hiiva ja mallasirappi. Lisää kylmä vesi (kylmä vesi hidastaa käymistä ja parantaa rakennetta). Sekoita, kunnes muodostuu hyvin jäykkä, kuivan näköinen taikina – bagelitaikina on huomattavasti jäykempää kuin mikään muu leipätaikina, vain 55 % hydraatiolla. Vaivaa voimakkaasti käsin 12–15 minuuttia (tai 10 minuuttia keskinopeudella yleiskoneessa), kunnes taikina on silkkisen sileä ja hyvin tiukka. Jaa 8 palaan (noin 110 g kukin).",
+      "Muotoile jokainen pala tiukaksi palloksi, käytä sitten peukalo-läpi-menetelmää: paina molemmat peukalot pallon keskelle ja venytä rengas 8–9 cm halkaisijaltaan, reiän ollessa 3 cm – reikä kutistuu kohotuksen ja paiston aikana. Vaihtoehtoisesti rullaa kukin pallo 25 cm:n köydeksi ja yhdistä päät 3 cm:n limityksellä, painaen tiukasti ja rullaten saumaa työtasoa vasten sulkeaksesi sen. Aseta leivinpaperilla vuoratuille pelleille, jotka on ripoteltu maissijauholla tai mannasuurimoilla. Jääkaappiin peittämättä yön yli (12–16 tuntia).",
+      "Ota bagelit jääkaapista. Kellutustesti: pudota yksi bageli kylmään veteen – sen tulisi kellua 10 sekunnin sisällä. Jos se uppoaa, anna erän kohota huoneenlämmössä vielä 30 minuuttia. Kuumenna leveä pata vettä kiehuvaksi. Lisää mallasirappi. Keitä bageleita 2–3 kerrallaan 60 sekuntia puolelta (pehmeämpi) tai 90 sekuntia puolelta (purevampi, aidompi). Nosta reikäkauhalla, valuta, ja paina heti märkä pinta siemeniin tai mausteeseen.",
+      "Paista leivinpaperilla vuoratulla pellillä (tai esilämmitetyllä paistokivellä) 230 asteessa 18–22 minuuttia, kunnes syvän kullanruskeita ilman vaaleita läikkiä. Käännä pelti 10 minuutin kohdalla. Bagelit tummuvat huomattavasti viimeisten 3 minuutin aikana. Jäähdytä ritilällä vähintään 15 minuuttia ennen leikkaamista – sisus on vielä asettumassa."
+    ]
+  },
+  {
+    "id": "forkrecipe-new-york-cheesecake",
+    "title": "New Yorkin juustokakku",
+    "description": "Tiivis, norsunluunvalkoinen levy tuorejuustoa, kananmunia ja hapankermaa paistettuna hitaasti ja matalalla, kunnes se väräjää, jäähdytettynä sitten tunteja, kunnes se leikkautuu puhtaiksi, silkkisiksi paloiksi murenevan keksipohjan kera.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "cookTimeMin": 70,
+    "totalTimeMin": 420,
+    "category": "Jälkiruoat",
+    "tags": ["juustokakku", "amerikkalainen", "leivonnainen"],
+    "ingredients": [
+      "120 g graham-keksejä, murskattuna hienoksi muruksi",
+      "48 g voita, sulatettuna",
+      "800 g täysrasvaista tuorejuustoa, huoneenlämpöistä",
+      "200 g sokeria",
+      "160 g kananmunia, huoneenlämpöisiä (noin 3 isoa munaa)",
+      "120 g täysrasvaista smetanaa, huoneenlämpöistä",
+      "1 tl vaniljauutetta",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Yhdistä graham-murut ja sulatettu voi kulhossa ja sekoita, kunnes murut ovat tasaisesti kostuneita – niiden tulisi näyttää märältä hiekalta ja pysyä koossa puristettaessa. Paina tiukasti 23 cm:n irtopohjavuoan pohjalle mittakupin litteällä pohjalla. Paina tiukasti ja tasaisesti – myös 2–3 cm reunoille. Paista 175 asteessa 8–10 minuuttia, kunnes juuri kiinteä. Jäähdytä täysin ennen täyttämistä.",
+      "Kaikkien ainesten tulee olla huoneenlämpöisiä – kylmä tuorejuusto ei vatkaudu sileäksi ja jättää paakkuja, jotka eivät koskaan sulaudu täysin. Vatkaa tuorejuusto yleiskoneen lapa-vispilällä (ei vispilällä) keskinopeudella, kunnes täysin sileää ja kermaista, noin 2 minuuttia. Kaavi kulho ja vatkain huolellisesti. Lisää sokeri ja vatkaa vielä 2 minuuttia. Kaavi uudelleen. Vatkaa joukkoon vanilja ja suola. Tavoitteena on sileys – ei ilmavuus. Suurella nopeudella vatkaaminen sekoittaa ilmaa, mikä aiheuttaa halkeilua.",
+      "Vatkaimen käydessä hitaalla nopeudella lisää kananmunat yksi kerrallaan, vatkaten vain kunnes kukin on juuri yhdistynyt ennen seuraavan lisäämistä – ei enempää. Munien lisäämisen jälkeen liiallinen vatkaaminen kehittää taikinaa ja lisää ilmaa. Lisää lopuksi smetana ja sekoita matalalla vain kunnes yhdistynyt. Kaavi kulho vielä kerran ja käännä varovasti käsin lastalla. Valmiin taikinan tulisi olla sileää, paksua ja virrata hitaasti.",
+      "Kuumenna uuni 160 asteeseen. Kääri irtopohjavuoan ulkopuoli tiukasti kahteen kerrokseen paksua foliota (estääksesi veden pääsyn sisään). Kaada taikina jäähtyneen pohjan päälle. Aseta vuoka isompaan uunivuokaan ja kaada kiehuvaa vettä uunivuokaan, kunnes se ulottuu puoliväliin irtopohjavuoan sivuja. Paista 60–70 minuuttia, kunnes reunat ovat kiinteät ja keskimmäiset 10 cm väräjävät yhtenä massana. Sammuta uuni, raota luukkua 5 cm ja jätä juustokakku uuniin 1 tunniksi.",
+      "Poista vesihauteesta uunilevossa olon jälkeen. Vedä ohuella veitsellä irtopohjavuoan sisäreunaa pitkin irrottaaksesi juustokakun (tämä estää halkeilun kutistuessa). Jäähdytä huoneenlämmössä 2 tuntia. Jääkaappiin peittämättä vähintään 4 tunniksi, mieluiten yöksi. Avaa irtopohjavuoan rengas vasta kun juustokakku on täysin kylmä. Leikkaa kuumalla, kuivalla veitsellä siistien viipaleiden saamiseksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-niban-dashi",
+    "title": "Niban dashi (toisen uuton dashi)",
+    "description": "Toinen uutto käytetystä kombusta ja katsuobushista – vähemmän hienostunut kuin ichiban dashi, mutta rikkaampi ja monimutkaisempi, kantaen uupuneen bonitin fermentoitunutta syvyyttä padoille, haudutetuille vihanneksille ja nuudeliliemille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Muut",
+    "tags": ["liemi", "japanilainen", "umami"],
+    "ingredients": [
+      "200 g käytettyä katsuobushia (ichiban dashista)",
+      "100 g käytettyä kombua (ichiban dashista)",
+      "10 dl kylmää vettä",
+      "50 g lisättävää tuoretta katsuobushia (valinnainen tehostus)"
+    ],
+    "instructions": [
+      "Laita ichiban dashista jääneet käytetyt kombu ja katsuobushi pataan tuoreen kylmän veden kanssa. Kuumenna hitaasti 60 asteeseen keskimatalalla lämmöllä – tämä on hiljaiseen kiehumiseen verrattuna alhaisempi, ja veden pintaan tulisi näkyä hentoa liikehdintää muttei kuplia. Niban dashi uutetaan matalammassa lämpötilassa kuin ensimmäinen uutto, koska loppuunkäytetyt ainekset vapauttavat jäljellä olevat glutamaattinsa ja inosinaattinsa hitaammin ja matalammissa lämpötiloissa. Pidä tätä lämpötilaa 15 minuuttia.",
+      "Jos lisäät tuoretta katsuobushia makutehostukseksi, lisää se nyt ja hauduta (ei keitä) 8–10 minuuttia. Niban dashin haudutaminen hieman voimakkaammin kuin ichiban dashin on hyväksyttävää – tavoitteena on rikkaampi, voimakkaampi umami hienostuneisuuden sijaan. Kuumenna hyvin hiljaiseksi hauteeksi (tuskin havaittavaa liikettä), ei kuohuvaksi kiehumiseksi. Sammuta lämpö ja anna uutua 5 minuuttia koskematta.",
+      "Vuoraa hieno siivilä juustokankaalla tai kahvinsuodattimella. Kaada dashi hitaasti läpi painamatta kiintoaineita – painaminen uuttaa kitkeriä tanniineja. Heitä kombu ja katsuobushi pois. Siivilöidyn dashin tulisi olla kirkasta tai lähes kirkasta, lämpimän meripihkanvärinen. Anna asettua 5 minuuttia; jäljellä olevat hienot hiukkaset laskeutuvat pohjalle. Käytä heti tai jäähdytä nopeasti ja säilytä jääkaapissa enintään 3 päivää, tai pakasta 1 kuukaudeksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-nibitashi",
+    "title": "Nibitashi",
+    "description": "Kiotolainen vihannesvalmistelu hiljaisella pidättyvyydellä – kalvattuja vihreitä hienovaraisesti haudutettuna dashi-pohjaisessa maustenesteessä, jonka sitten annetaan imeytyä jäähtyessään. Vihreät imevät dashin umamin mutta säilyvät eloisina, harjoitus vähentämisestä.",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["pinaatti", "japanilainen", "kasvis", "lisuke"],
+    "ingredients": [
+      "300 g pinaattia tai vesisalaattia, juuret leikattuna",
+      "2 dl dashi-lientä (ichiban dashi)",
+      "20 ml soijakastiketta (mieluiten vaaleaa usukuchi-soijaa)",
+      "10 ml miriniä",
+      "5 g katsuobushia (bonito-hiutaleita) tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna iso pata suolatonta vettä kiehuvaksi. Upota pinaatin varret ensin 15 sekunniksi, työnnä sitten lehdet alle ja kalvaa yhteensä 30–45 sekuntia. Veden tulee olla täydessä kiehumispisteessä koko ajan – heikko kiehuminen höyryttää kalvaamisen sijaan ja väri kärsii. Siirrä heti jääveteen ja anna olla täysi minuutti.",
+      "Yhdistä dashi, soijakastike ja mirin pieneen kattilaan. Kuumenna hiljaiseen kiehumiseen keskilämmöllä. Maista – liemen tulisi maistua miellyttävän suolaiselta ja kevyesti makealta, hieman voimakkaammalta kuin haluat valmiin ruoan maistuvan, koska vihreät laimentavat sitä. Hauduta 2 minuuttia keittääksesi pois mirinin raa'an alkoholin.",
+      "Lisää puristetut kalvatut vihreät hauduttuvaan liemeen. Upota ne varovasti ja hauduta vain 60 sekuntia – tämä avaa soluseiniä hieman, jotta liemi pääsee sisään. Ota pois liedeltä ja anna vihreiden uutua liemessä, liedeltä pois, 15 minuuttia nesteen jäähtyessä. Nosta vihreät ylös, purista varovasti uudelleen ylimääräisen liemen poistamiseksi ja leikkaa 4 cm pituisiksi paloiksi. Asettele pieniksi kasoiksi tarjoiluastioihin. Lusikoi pieni määrä uutenestettä kunkin annoksen päälle ja viimeistele bonito-hiutaleilla."
+    ]
+  },
+  {
+    "id": "forkrecipe-niter-kibbeh",
+    "title": "Niter kibbeh (etiopialainen mausteinen kirkastettu voi)",
+    "description": "Etiopian kirkastettu mausteinen voi – kokonaista voita hitaasti maustettuna sipulilla, valkosipulilla, inkiväärillä, sarviapilalla, kurkumalla, kardemummalla ja korarimalla, kunnes syvän kullankeltaista ja tuoksuvaa, sitten siivilöitynä kirkkaaksi, kultaiseksi ruoanlaittorasvaksi, jossa on poikkeuksellinen monimutkaisuus.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 60,
+    "category": "Muut",
+    "tags": ["voi", "etiopialainen", "mausteinen", "ruoanlaittorasva"],
+    "ingredients": [
+      "500 g suolatonta voita",
+      "80 g keltasipulia, karkeasti pilkottuna",
+      "20 g valkosipulinkynsiä, murskattuna",
+      "20 g tuoretta inkivääriä, kuorittuna ja viipaloituna",
+      "4 g sarviapilan siemeniä",
+      "4 g kurkumajauhetta",
+      "4 g korarimaa (etiopialaista kardemummaa) tai mustaa kardemummaa, vain siemenet",
+      "2 g kanelijauhetta",
+      "1 g muskottipähkinää, jauhettuna",
+      "2 g kuivattua basilikaa tai etiopialaista besobelaa (pyhää basilikaa)",
+      "3 g hienoa merisuolaa"
+    ],
+    "instructions": [
+      "Laita voi paksupohjaiseen kattilaan matalalle lämmölle. Anna sen sulaa hitaasti sekoittamatta. Sulaessaan pintaan nousee valkoista vaahtoa – tämä on maitoproteiineja, jotka alkavat erottua voirasvasta. Jatka kuumentamista erittäin matalalla lämmöllä, koskaan sekoittamatta, kunnes kaikki voi on täysin nestemäistä ja tasainen, hieno kupliminen ilmestyy. Tavoitteena tässä vaiheessa on hellä sulaminen, ei ruskistuminen. Älä kiirehdi korkealla lämmöllä – maitokiintoaineet tarvitsevat aikaa erottuakseen puhtaasti rasvasta.",
+      "Lisää sipuli, valkosipuli, inkivääri, sarviapilan siemenet, kurkuma, korarima, kaneli, muskottipähkinä ja kuivattu basilika suoraan sulaan voihin. Mausteiden lisääminen lisää kuplimista dramaattisesti – tuoreiden ainesten vesi alkaa haihtua. Pidä erittäin matala lämpö ja anna seoksen hellästi kuplia ja infusoitua 30–40 minuuttia. Sekoita kerran tai kahdesti, mutta muuten jätä rauhaan. Tämän ajan kuluessa sipuli ja valkosipuli pehmenevät hitaasti, lakastuvat ja alkavat saada väriä reunoiltaan, kun taas rasva muuttuu syvän, kylläiseksi kullankeltaiseksi kurkumasta ja infusoiduista mausteista.",
+      "Aseta hieno siivilä, vuorattuna kahdella kerroksella juustokangasta tai puhdasta musliinikangasta, lämmönkestävän kulhon tai purkin päälle. Lisää suola pataan ja sekoita kerran. Kaada infusoitu voi hitaasti vuoratun siivilän läpi, antaen painovoiman tehdä työn – älä paina kiintoaineita. Siivilöidyn rasvan tulisi valua läpi kirkkaana ja kultaisena. Heitä kiintoaineet pois: kaikki maku, mikä niillä oli annettavana, on nyt rasvassa. Anna siivilöidyn niter kibbehin jäähtyä hieman ennen maistamista.",
+      "Kaada siivilöity niter kibbeh puhtaaseen lasipurkkiin. Anna jäähtyä huoneenlämmössä peittämättä, kunnes se laskee 40 asteeseen tai alle, sulje sitten ja jääkaappiin. Jääkaapissa niter kibbeh jähmettyy kiinteäksi, syvän kultaiseksi tahnaksi – tämä on oikein ja odotettua. Käytä puhdasta, kuivaa lusikkaa joka kerta kontaminaation estämiseksi. Säilyy jääkaapissa 3 kuukautta ja pakastimessa 6 kuukautta. Käytä sitä missä tahansa käyttäisit voita tai öljyä: se on mullistava etiopialaisissa padoissa, mutta yhtä hyvä munien paistamiseen, riisin viimeistelyyn tai paahdetun kanan voiteluun."
+    ]
+  },
+  {
+    "id": "forkrecipe-nuoc-cham-pickles",
+    "title": "Vietnamilaiset pikasuolakurkut (do chua)",
+    "description": "Nauhoja daikon-retikkaa ja porkkanaa suolattuna makeutetussa riisietikassa – rapeita, kirkkaita, kirpeitä ja välttämättömiä banh min, phon tai minkä tahansa grillatun proteiinin kanssa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 60,
+    "category": "Säilykkeet",
+    "tags": ["säilöntä", "vietnamilainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "300 g daikon-retikkaa, kuorittuna ja suikaloituna (tulitikkutikku)",
+      "200 g porkkanaa, kuorittuna ja suikaloituna (tulitikkutikku)",
+      "250 ml mauttomaksi jätettyä riisietikkaa",
+      "150 g valkoista sokeria",
+      "25 g hienoa jodioimatonta suolaa",
+      "250 ml haaleaa vettä",
+      "25 g tuoretta punaista linnunsilmächiliä, ohuiksi viipaleiksi leikattuna"
+    ],
+    "instructions": [
+      "Sekoita suikaloitu daikon ja porkkana 1 teelusikallisen hienon suolan kanssa isossa kulhossa. Sekoita hyvin ja anna seistä 10 minuuttia. Tämä vetää ylimääräisen veden pois vihanneksista osmoosin kautta, mikä tiivistää niiden makua, parantaa rakennetta ja antaa suolausliemen tunkeutua tasaisemmin.",
+      "Ota suolatut vihannekset käsiisi ja purista voimakkaasti altaan yllä, pusertaen niin paljon vettä kuin mahdollista. Huuhtele lyhyesti kylmällä vedellä, purista sitten uudelleen. Tämä vaihe poistaa ylimääräisen suolan ja daikonista suolauksen aikana vapautuneet katkeran rikkipitoiset yhdisteet. Maista säiettä – sen tulisi maistua hennon suolaiselta, ei liian voimakkaalta.",
+      "Yhdistä riisietikka, loppu suola, sokeri ja haalea vesi kulhossa tai pienessä kattilassa. Sekoita, kunnes sokeri ja suola liukenevat kokonaan – lämpöä ei välttämättä tarvita, koska haalea (ei kiehuva) vesi tekee tehtävänsä. Liemen tulisi maistua voimakkaan makean-hapan-suolaiselta suhteessa 3:4:2: terävältä muttei tuskalliselta.",
+      "Pakkaa puristettu daikon ja porkkana puhtaaseen purkkiin, pujottaen viipaloitua chiliä sekaan. Kaada liemi päälle, kunnes vihannekset ovat täysin upoksissa. Paina varovasti kelluvat säikeet alas. Sulje purkki löyhästi ja anna olla huoneenlämmössä vähintään 30 minuuttia.",
+      "30 minuutin huoneenlämmössä olon jälkeen jääkaappiin vielä vähintään 30 minuutiksi – ihanteellisesti 1 tunti yhteensä liemen kaatamisesta. Kylmyys nopeuttaa liemen tunkeutumista vihannessoluihin. Suolakurkut ovat parhaimmillaan 2 viikon sisällä ja säilyvät hyvin jääkaapissa enintään 3 viikkoa."
+    ]
+  },
+  {
+    "id": "forkrecipe-nuoc-cham",
+    "title": "Nuoc cham",
+    "description": "Vietnamin olennainen kastike – kalakastikkeen, limen, sokerin, valkosipulin ja chilien tasapaino, joka on samanaikaisesti suolainen, hapan, makea ja pistävä, kastike joka ilmestyy lähes jokaiseen vietnamilaiseen pöytään.",
+    "servings": 4,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "vietnamilainen", "dippi"],
+    "ingredients": [
+      "90 ml haaleaa vettä",
+      "30 g sokeria",
+      "60 ml kalakastiketta (hyvälaatuista, väh. 40 % proteiinia)",
+      "45 ml tuoretta limemehua",
+      "2 valkosipulinkynttä, hienonnettuna hienoksi tahnaksi",
+      "2 kpl linnunsilmächiliä, ohuiksi viipaleiksi leikattuna",
+      "40 g porkkanaa, hienoksi suikaloituna (valinnainen)"
+    ],
+    "instructions": [
+      "Yhdistä haalea vesi ja sokeri kulhossa tai huhmareessa. Sekoita voimakkaasti 1–2 minuuttia, kunnes jokainen sokerijyvänen on liuennut ja vesi on täysin kirkasta. Veden tulisi olla haaleaa – noin 50–60 °C – ei kuumaa, mikä karkottaisi aromin, eikä kylmää, mikä jättäisi sokerin liukenemattomaksi ja kastikkeen rakeiseksi.",
+      "Lisää kalakastike, sitten limemehu sokerivesi-seokseen. Sekoita varovasti yhdistääksesi. Maista heti ja arvioi tasapaino klassisella vietnamilaisella suhteella: yhtä paljon suolaa, hapanta ja makeaa suussa, siinä saapumisjärjestyksessä, loppuen puhtaasti. Kalakastikkeen ei tulisi tuoksua raa'alta tai aggressiiviselta – sen tulisi olla merellistä, maukasta ja pyöreää. Säädä tässä vaiheessa: lisää kalakastiketta suolaisuutta ja umamia varten, lisää limeä hapokkuutta varten, lisää sokeria makeutta varten.",
+      "Hienonna valkosipuli hyvin hienoksi tahnaksi – lähes soseeksi – pyörittämällä veitsi kynsien yli ja käyttämällä sitten terän litteää puolta murskaamaan ja levittämään niitä leikkuulautaa vasten suolan kanssa. Viipaloi chilit ohuiksi renkaiksi; jätä siemenet sisään täyttä tulisuutta varten. Jos haluat vähemmän tulisuutta, leikkaa chilit ensin pituussuunnassa ja raaputa siemenet pois ennen viipalointia renkaiksi.",
+      "Sekoita valkosipulitahna ja chilirenkaat suoraan pohjakastikkeeseen. Anna seoksen seistä vähintään 5 minuuttia ennen uudelleen maistamista – valkosipuli tarvitsee aikaa menettääkseen terävimmän raa'an särmänsä ja infusoidakseen makeutensa nesteeseen. Älä ohita tätä lepoa; heti lisätty ja heti maistettu raaka valkosipuli vaikuttaa liian voimakkaalta ja saa sinut alimitoittamaan valkosipulin määrän.",
+      "Lisää suikaloitu porkkana kastikkeeseen, jos käytät – tämä on keski-Vietnamissa yleinen do chua -versio, ja se lisää rapeutta ja väriä, ei vain koristetta. Porkkanan tulisi olla leikattu säikeiksi, ei paksummaksi kuin tulitikku. Tarjoa heti tai säilytä jääkaapissa enintään 3 päivää (porkkana pehmenee ajan myötä; lisää tuoretta porkkanaa tarjoiluhetkellä, jos tarjoat useana päivänä). Valmistaa noin 2 dl valmista kastiketta."
+    ]
+  },
+  {
+    "id": "forkrecipe-okonomiyaki",
+    "title": "Okonomiyaki",
+    "description": "Paksu, kullankeltareunainen osakalainen suolainen pannukakku – kaalipitoinen, sidottu munalla ja dashitaikinalla, täplitetty possunkylkeä – paistettuna, kunnes ulkopinta on lakattu ja hieman karamellisoitunut ja sisus pysyy pehmeänä ja munamaisen kiinteänä, viimeisteltynä siksak-viivoilla makeaa okonomiyaki-kastiketta, kewpie-majoneesia, aalloissaan kiemurtelevilla bonito-hiutaleilla ja aonori-merilevälumella.",
+    "servings": 2,
+    "prepTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["pannukakku", "japanilainen", "kaali", "possunliha"],
+    "ingredients": [
+      "300 g kiinankaalia, karkeasti suikaloituna (5 mm suikaleiksi)",
+      "100 g vehnäjauhoja (tai okonomiyaki-jauhoa)",
+      "120 g dashi-lientä (tai vettä + ripaus glutamaattia)",
+      "3 kananmunaa",
+      "150 g possunkylkeä, ohuina viipaleina (3 mm)",
+      "10 g katsuobushia (bonito-hiutaleita) taikinaan",
+      "10 g soijakastiketta",
+      "20 g mautonta öljyä (pannua varten)",
+      "30 g okonomiyaki-kastiketta (tai worcestershire-kastiketta + ketsuppia suhteessa 2:1)",
+      "25 g kewpie-majoneesia + aonori-merilevähiutaleita + katsuobushia koristeluun"
+    ],
+    "instructions": [
+      "Vatkaa jauhot, dashi, kananmunat ja soijakastike isossa kulhossa yhteen, kunnes sileää eikä paakkuja jää – tämän pohjataikinan tulisi olla ohuen pannukakkutaikinan koostumuksinen. Toisin kuin tempurassa, tässä haluamme yhtenäisen, kehittyneen taikinan, joka pitää kaalin koossa koko pitkän paistamisen ajan. Vatkaa noin minuutti. Taikinan tulisi valua vapaasti kauhasta mutta peittää sen ohuena kalvona. Maista – sen tulisi olla kevyesti maustettua ja maistua hennosti merelliseltä dashin ansiosta.",
+      "Lisää kaikki suikaloitu kaali ja taikinan bonito-hiutaleet taikinaan. Käännä lastalla, kunnes jokainen kaalinsäie on peittynyt ja seos näyttää enemmän kaalilta kuin taikinalta – tämä on oikein. Erittäin korkea kaali-taikinasuhde on se, mikä tekee osakalaistyylisestä okonomiyakista erilaisen kuin kerroksittainen hiroshimalaistyyli. Seoksen tulisi näyttää tässä vaiheessa liian löysältä ja kaalipitoiselta; älä lisää lisää taikinaa. Jos käytät beni shoga -suolakurkkua (inkivääriä) tai tenkasua (tempurasirpaleita), käännä ne joukkoon nyt.",
+      "Kuumenna leveä, litteä paistinpannu tai levy (teppan) keskilämmöllä. Lisää öljy ja pyörittele. Aseta possunkylkiviipaleet yhteen kerrokseen ja paista minuutti rasvan irrottamiseksi. Kasaa koko kaalitaikina possunkyljen päälle, muotoillen sen noin 2 cm paksuiseksi pyöreäksi kiekoksi. Paina kevyesti lastan takaosalla tiivistääksesi tasaiseksi, noin 20 cm halkaisijaltaan olevaksi kiekoksi. Kypsennä koskematta 4–5 minuuttia, kunnes reunat alkavat näyttää kiinteiltä ja pohja on kehittänyt kuoren – voit tarkistaa nostamalla varovasti yhtä reunaa lastalla. Käännä varmasti yhdellä liikkeellä: liu'uta lasta kokonaan alle ja käännä itsestäsi poispäin. Kypsennä vielä 4–5 minuuttia toisella puolella. Pannukakun tulisi tuntua kiinteältä ja joustaa kevyesti takaisin keskeltä painettaessa.",
+      "Työskennellessäsi nopeasti, kun okonomiyaki on vielä hyvin kuuma, käytä puristuspulloa tai lusikkaa piirtääksesi rinnakkaisia viivoja okonomiyaki-kastiketta pinnan poikki, noin 2 cm välein. Toista kewpie-majoneesiviivoilla kohtisuoraan kastikkeen suuntaan nähden. Viivojen ei tulisi sekoittua täysin – kahden kastikkeen ristikkokuvio on näyttävä tunnusmerkki. Ripottele bonito-hiutaleet päälle: pannukakun lämpö saa ne liikkumaan ja aaltoilemaan kuin eläviä olentoja. Viimeistele aonorilla (kuivatulla vihreällä merilevähiutaleella) ja tarjoa heti pöydässä."
+    ]
+  },
+  {
+    "id": "forkrecipe-okra-stew",
+    "title": "Länsiafrikkalainen okrapata",
+    "description": "Tiivis, runsaasti maustettu tomaatti- ja palmuöljypohja, johon raastettu okra sekoitetaan vapauttamaan luonnollinen limaisuutta tuottava sakeuttajansa, rakentaen silkkisen, maukkaan padan, joka tuoksuu katkaravulta ja kuivatulta kalalta. Nautittuna fufun, riisin tai eban kanssa, se on täydellinen ateria yhdessä padassa.",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["pata", "länsiafrikkalainen", "okra", "kala"],
+    "ingredients": [
+      "400 g tuoretta okraa, kannat poistettuna",
+      "60 ml palmuöljyä (punaista, puhdistamatonta)",
+      "150 g keltasipulia, hienoksi kuutioituna",
+      "1 kpl scotch bonnet -chiliä, siemenet maun mukaan",
+      "300 g kypsiä tomaatteja, karkeasti pilkottuna",
+      "30 g tomaattipyreetä",
+      "20 g jauhettua rapua (kuivattua jauhettua katkarapua)",
+      "80 g liotettua ja revittyä kuivattua kalaa (stockfish)",
+      "150 ml kala- tai kanalientä, tai vettä",
+      "5 g suolaa, maun mukaan"
+    ],
+    "instructions": [
+      "Kuumenna palmuöljy raskaassa padassa tai valurautapadassa keskilämmöllä, kunnes se sulaa ja kiiltää – palmuöljy on kiinteää huoneenlämmössä ja tarvitsee hetken. Lisää kuutioitu sipuli ja kokonainen tai karkeasti pilkottu scotch bonnet. Paista, satunnaisesti sekoittaen, kunnes sipuli on pehmeää, läpikuultavaa ja alkaa saada väriä reunoilta, noin 7–8 minuuttia. Palmuöljy ja sipuli muodostavat yhdessä padan aromaattisen perustan. Keittiö täyttyy punaisen palmuöljyn tunnistettavasta, maanläheisestä tuoksusta – tämä on oikein.",
+      "Lisää tuoreet tomaatit ja tomaattipyree pataan. Sekoita yhdistääksesi ja nosta lämpöä hieman. Kypsennä ilman kantta, usein sekoittaen, kunnes tomaatit ovat täysin hajonneet ja seos on vähentynyt huomattavasti – noin 12–15 minuuttia. Kriittinen merkki, jota etsit, on öljyn nouseminen pinnalle ja kokoontuminen padan reunoille. Nigerialaisessa ruoanlaitossa tätä kutsutaan 'öljyn kellumiseksi', ja se kertoo, että tomaattien vesi on ajettu pois ja padan pohja on kunnolla paistettu ja tiivistynyt.",
+      "Lisää jauhettu rapu, esiliotettu revitty stockfish ja liemi tai vesi. Sekoita huolellisesti ja maista – jauhettu rapu lisää voimakkaan, merellisen umami-nuotin ja hennon makeuden, joka on länsiafrikkalaisten patojen selkäranka. Jos käytät stockfishiä, se tulisi olla esiliotettu 24–48 tuntia ja on jo pehmentynyt; kuivattu kala (esim. eja osan) lisätään kuivana ja kostuu padassa. Kuumenna hiljaiseen kiehumiseen ja kypsennä 5 minuuttia makujen yhdistämiseksi. Maista ja ala säätää suolaa tässä vaiheessa.",
+      "Valmistele okra halutun rakenteen mukaan: hyvin limaista (draw) patoa varten – perinteinen ja arvostettu monilla alueilla – raasta okra raastinraudalla tai pulssaa lyhyesti monitoimikoneessa. Vähemmän limaista versiota varten, jossa on erillisiä kiekkoja, viipaloi poikittain 1 cm kiekoiksi. Molemmat menetelmät vapauttavat limaa, joka sakeuttaa padan; raastaminen vapauttaa paljon enemmän ja tuottaa tiiviimmän, viskoosimman lopputuloksen. Käytettiinpä kumpaa menetelmää tahansa, okra tulisi leikata juuri ennen padaan lisäämistä hapettumisen estämiseksi.",
+      "Lisää okra hauduttuvaan pohjaan. Sekoita kerran yhdistääksesi, vastusta sitten houkutusta sekoittaa voimakkaasti tai usein – liiallinen sekoittaminen rikkoo okran ja tekee padasta liian liman sijaan silkkisen. Kypsennä keskimatalalla lämmöllä 8–12 minuuttia, sekoittaen hellästi vain 2–3 kertaa, kunnes okra on täysin mureaa ja pata on sakeutunut viskoosiksi, kiiltäväksi koostumukseksi. Maista ja säädä suolaa. Padan tulisi olla tarpeeksi paksua kasautuakseen hieman lusikalla ja peittää sen takaosa. Tarjoa fufun, survotun jamssin, eban tai höyrytetyn riisin kanssa."
+    ]
+  }
+]

@@ -1,0 +1,669 @@
+[
+  {
+    "id": "wikibooks-friggione-onion-and-tomato-relish",
+    "title": "Friggione (sipuli-tomaattirelissi)",
+    "description": "Bolognalainen 1800-luvulta periytyvä relissi, jossa sipulit ja tomaatit haudutetaan hyvin pehmeiksi hitaasti liedellä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "italialainen", "relissi"],
+    "ingredients": [
+      "1 kg keltasipulia, karkeasti pilkottuna",
+      "500 g tomaatteja",
+      "30 ml oliiviöljyä"
+    ],
+    "instructions": [
+      "Kuumenna riittävästi oliiviöljyä paksupohjaisessa kattilassa pohjan peittämiseksi (noin 30 ml).",
+      "Kypsennä sipuleita öljyssä miedolla lämmöllä vähintään 1 tunti, kunnes ne ovat pehmeitä. Sekoita välillä, jotta ne eivät tartu pohjaan, ja lisää tarvittaessa hieman öljyä.",
+      "Kun sipulit kypsyvät, kalvaise tomaatit kiehuvassa vedessä noin 10 sekuntia, jotta kuori irtoaa. Kuori tomaatit ja heitä kuoret pois.",
+      "Pilko tomaatit karkeasti muutamaksi isoksi paloksi.",
+      "Sekoita tomaatit sipulien joukkoon. Kypsennä vielä vähintään tunti, sekoittaen välillä."
+    ],
+    "notes": [
+      "Tarjoa kuumana tai haaleana rapean italialaisen leivän, pastan tai lihan kanssa.",
+      "Friggionea voi säilyttää jääkaapissa ja lämmittää uudelleen juuri ennen tarjoilua.",
+      "Niin kauan kuin sipulia on vähintään yhtä paljon kuin tomaattia painon mukaan, suhdetta voi vaihdella tasasuhteisesta hyvin tomaattisesta versiosta jopa suhteeseen 1 osa tomaattia ja 10 osaa sipulia."
+    ]
+  },
+  {
+    "id": "wikibooks-frijoles-antioqueos-colombian-bean-stew",
+    "title": "Frijoles Antioqueños (kolumbialainen papupata)",
+    "description": "Kolumbialaisen keittiön ikoninen papupata, jota maustetaan hogao-kastikkeella.",
+    "servings": 6,
+    "category": "Keitot",
+    "tags": ["pata", "papu", "kolumbialainen", "liha"],
+    "ingredients": [
+      "450 g punaisia papuja tai cargamanto-papuja",
+      "2 punaista tomaattia",
+      "2½ dl hienonnettua kevätsipulia",
+      "½ dl öljyä",
+      "2 rkl juustokuminaa",
+      "1 rkl maustepippuria",
+      "15 dl vettä",
+      "1 kanaliemikuutio",
+      "1 iso jauhobanaani",
+      "225 g naudan kylkipihviä, possun potkaa tai possun kamaraa (valinnainen)"
+    ],
+    "instructions": [
+      "Pese pavut ja anna niiden turvota yön yli peitettynä kaksinkertaisella vesimäärällä.",
+      "Seuraavana päivänä poista kaikki pinnalle nousseet pavut.",
+      "Kuumenna öljy painekattilassa. Lisää kevätsipuli ja paista, kunnes se alkaa ruskistua. Lisää tomaatti, juustokumina, liemikuutio ja maustepippuri. Tätä kutsutaan 'hogaoksi', monen kolumbialaisen ruoan peruskastikkeeksi.",
+      "Lisää vesi, pavut ja jauhobanaani. Kuumenna kiehuvaksi keskilämmöllä.",
+      "Sulje painekattilan kansi ja anna kypsyä 30 minuuttia.",
+      "Anna jäähtyä, avaa sitten painekattilan kansi.",
+      "Tarkista nestemäärä, lisää liha jos käytät, ja sulje kansi uudelleen. Kypsennä vielä 30 minuuttia.",
+      "Maista suolaisuutta. Jos haluat paksumman seoksen, voit kypsentää vielä ilman kantta miedolla lämmöllä."
+    ],
+    "notes": [
+      "Tarjoillessa voit lisätä päälle vielä hieman hogaota.",
+      "Tarjoa valkoisen riisin, avokadon, jauhelihan, paahdetun naudanlihan, paistetun jauhobanaanin, paahdetun kanan, maissiarepojen ja monien muiden lisukkeiden kera.",
+      "Seuraavana päivänä syödyt pavut (trasnochado) maistuvat usein vielä täyteläisemmiltä."
+    ]
+  },
+  {
+    "id": "wikibooks-frikadelle-meat-balls",
+    "title": "Frikadelle (eteläafrikkalaiset lihapullat)",
+    "description": "Eteläafrikkalainen versio lihapullista – tehdään jauhelihasta, sipulista ja munasta, ja paistetaan litteiksi pulliksi pannulla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "eteläafrikkalainen", "pannuruoka"],
+    "ingredients": [
+      "leipää",
+      "jauhelihaa (esim. naudan-, strutsin-, lampaan-, kala-, possun- tai vasikanlihaa)",
+      "hienonnettua sipulia",
+      "munia",
+      "sinappia",
+      "liemikuutio",
+      "tuoretta hienonnettua persiljaa",
+      "jauhettua mustapippuria",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Liota leipä vedessä ja purista sitten vesi pois.",
+      "Yhdistä kulhossa liha, sipuli, munat, leipä, sinappi, liemikuutio, persilja ja pippuri. Vaivaa, kunnes seos on tasaista.",
+      "Muotoile seoksesta litteitä pihvejä, ei kämmentä suurempia.",
+      "Paista pihvejä oliiviöljyssä paistinpannulla, kunnes kypsiä läpikotaisin."
+    ]
+  },
+  {
+    "id": "wikibooks-frikadeller-danish-meatballs",
+    "title": "Frikadeller (tanskalaiset lihapullat)",
+    "description": "Perinteinen tanskalainen arkiruoka vasikan- ja possunlihasta tehdyistä lihapullista, jotka tarjoillaan perinteisesti keitettyjen perunoiden, kastikkeen ja punakaalin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "tanskalainen", "pannuruoka"],
+    "ingredients": [
+      "250 g vasikan jauhelihaa",
+      "250 g possun jauhelihaa",
+      "1 iso muna",
+      "1 sipuli, hienonnettuna",
+      "1¾ dl korppujauhoja",
+      "mustapippuria",
+      "suolaa",
+      "hienonnettua valkosipulia (valinnainen)",
+      "jauhettua persiljaa maun mukaan",
+      "voita paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita kaikki ainekset voita lukuun ottamatta keskenään.",
+      "Muotoile seoksesta pieniä pihvejä.",
+      "Paista kuumalla pannulla runsaassa voissa."
+    ],
+    "notes": [
+      "Nämä voi pakastaa ja lämmittää uudelleen.",
+      "Korppujauhot voi korvata vehnänalkioilla ja/tai kaurapuurohiutaleilla.",
+      "Monet lisäävät seokseen myös maitoa, jolloin seosta sakeutetaan taas lisäämällä jauhoja ja/tai korppujauhoja."
+    ]
+  },
+  {
+    "id": "wikibooks-frito-pie-baked",
+    "title": "Uunissa paistettu Frito-piiras",
+    "description": "Suosittu yhdysvaltalainen uunivuoka maissisiruista, chilistä ja juustosta.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["chili", "juusto", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "7 dl maissisiruja (esim. Fritos)",
+      "2½ dl raastettua cheddarjuustoa",
+      "5 dl chiliä (itse tehtyä tai säilykettä)"
+    ],
+    "instructions": [
+      "Lämmitä uuni 175 asteeseen.",
+      "Levitä 2/3 maissisiruista uunivuokaan.",
+      "Ripottele puolet juustosta sirujen päälle.",
+      "Levitä chili sirujen päälle.",
+      "Paista 15–20 minuuttia, kunnes juusto kuplii.",
+      "Lisää loput juustosta ja maissisiruista piiraan päälle.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "wikibooks-frito-pie-no-bake",
+    "title": "Frito-piiras ilman paistamista",
+    "description": "Nopea versio Frito-piiraasta, jossa itse tehty chili kaadetaan suoraan maissisirujen päälle.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["chili", "juusto", "amerikkalainen", "nopea"],
+    "ingredients": [
+      "1 annos kuumaa itse tehtyä Frito-piiraan chiliä",
+      "280 g maissisiruja (esim. Fritos)",
+      "3,75 dl raastettua Monterey Jack -juustoa",
+      "6 rkl smetanaa",
+      "1 prk jalapeñoja"
+    ],
+    "instructions": [
+      "Laita kourallinen maissisiruja kuhunkin 8 matalaan kulhoon.",
+      "Lusikoi chili sirujen päälle.",
+      "Koristele raastetulla juustolla, smetanalla ja jalapeñoilla."
+    ]
+  },
+  {
+    "id": "wikibooks-frito-pie-chili",
+    "title": "Frito-piiraan chili",
+    "description": "Tulinen naudanlihachili, joka on suunniteltu erityisesti Frito-piiraan täytteeksi.",
+    "servings": 8,
+    "category": "Keitot",
+    "tags": ["chili", "naudanliha", "amerikkalainen"],
+    "ingredients": [
+      "2 rkl rypsiöljyä",
+      "5 dl kuutioitua sipulia",
+      "suolaa",
+      "cayennepippuria",
+      "900 g naudan takareittä, noin 1,3 cm:n kuutioiksi leikattuna",
+      "1 tl chilijauhetta",
+      "2 tl jauhettua juustokuminaa",
+      "murskattuja chilihiutaleita",
+      "2 tl kuivattua oreganoa",
+      "2 rkl hienonnettua valkosipulia",
+      "7 dl murskattuja tomaatteja",
+      "1¼ dl tomaattipyreetä",
+      "5 dl naudanlihalientä",
+      "1½ rkl maissijauhoa (masa harina)",
+      "1½ rkl vehnäjauhoja"
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa kattilassa.",
+      "Kun öljy on kuumaa, lisää sipuli ja kuullota 3–5 minuuttia, kunnes se alkaa pehmetä.",
+      "Mausta suolalla ja cayennepippurilla.",
+      "Lisää naudanliha, chilijauhe, juustokumina, chilihiutaleet ja oregano. Ruskista lihaa 5–6 minuuttia.",
+      "Lisää valkosipuli, tomaatit, tomaattipyree ja naudanlihaliemi.",
+      "Kuumenna kiehuvaksi ja laske lämpö. Hauduta kantta käyttämättä 1 tunti, sekoittaen välillä, kunnes liha on mureaa. Kuoria rasvaa pinnalta tarvittaessa.",
+      "Sekoita maissijauho ja vehnäjauho pieneen määrään liemeä.",
+      "Lisää maissijauhoseos hitaasti sekoittaen ja jatka kypsentämistä 30 minuuttia, sekoittaen välillä.",
+      "Säädä suolan, cayennepippurin ja muiden mausteiden määrää tarpeen mukaan.",
+      "Pidä lämpimänä käyttöön tai tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "wikibooks-frittaten-soup",
+    "title": "Frittaten-keitto",
+    "description": "Itävaltalainen naudanlihaliemi, jossa on ohuiksi suikaleiksi leikattuja munapannukakkuja.",
+    "servings": 4,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["liemi", "itävaltalainen", "naudanliha"],
+    "ingredients": [
+      "2½ l vettä",
+      "300 g naudan luita",
+      "400 g naudanlihaa",
+      "1 sipuli",
+      "selleriä",
+      "porkkanaa",
+      "purjoa",
+      "liperiä",
+      "suolaa",
+      "ruohosipulia, hienonnettuna",
+      "2 munaa",
+      "4 dl maitoa",
+      "180 g vehnäjauhoja",
+      "suolaa",
+      "voita tai öljyä"
+    ],
+    "instructions": [
+      "Pese naudan luut lämpimällä vedellä.",
+      "Laita liha ja luut kylmään veteen ja kuumenna. Hauduta 1½ tuntia miedolla lämmöllä. Kuoria vaahto pinnalta aika ajoin ja lisää tarvittaessa vettä.",
+      "Halkaise sipuli ja ruskista se pannulla ilman öljyä. Ruskistettu sipuli antaa liemelle tumman värin.",
+      "Lisää kaikki vihannekset ja hyppysellinen suolaa liemeen, ja keitä 20 minuuttia. Siivilöi kaikki kiinteät ainekset liemestä.",
+      "Sekoita muna, maito, jauhot ja suola keskenään.",
+      "Kuumenna voi tai öljy paistinpannulla.",
+      "Kaada osa taikinasta kuumalle pannulle ja odota, kunnes pannukakku hyytyy. Käännä pannukakku ja anna toisenkin puolen kypsyä.",
+      "Anna jäähtyä ja leikkaa sitten ohuiksi suikaleiksi.",
+      "Laita pannukakkusuikaleet valmiiseen liemeen.",
+      "Tarjoa ruohosipulilla koristeltuna."
+    ]
+  },
+  {
+    "id": "wikibooks-frogs-eye-salad",
+    "title": "Sammakonsilmäsalaatti",
+    "description": "Yhdysvaltain keskilännessä suosittu makea jälkiruokasalaatti pienestä pastasta, hedelmistä ja vaahdotetusta kermasta.",
+    "servings": 12,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "hedelmä", "amerikkalainen", "salaatti"],
+    "ingredients": [
+      "1 pkt acini di pepe -pastaa",
+      "2 tlk (noin 850 g) murskattua ananasta",
+      "2 tlk (noin 850 g) mandariineja",
+      "3 munankeltuaista",
+      "2½ dl sokeria",
+      "1 prk kermavaahtokorviketta",
+      "125 g pieniä vaahtokarkkeja"
+    ],
+    "instructions": [
+      "Keitä pasta isossa kattilassa. Valuta ja huuhtele pasta.",
+      "Valuta ananas- ja mandariinisäilykkeet, säästäen mehut.",
+      "Sekoita mehut, sokeri ja munankeltuaiset keskikokoisessa kattilassa. Kuumenna kiehuvaksi koko ajan sekoittaen, kunnes seos paksunee.",
+      "Kaada kuuma kastike pastan päälle. Jäähdytä ja laita jääkaappiin yön yli.",
+      "Lisää hedelmät ja sekoita hyvin, nostele sitten joukkoon kermavaahtokorvike ja vaahtokarkit."
+    ],
+    "notes": [
+      "Säilytä jääkaapissa. Säilyy useita päiviä.",
+      "Koristele maraschinokirsikoilla.",
+      "Voit halutessasi lisätä 1¼ dl kookoshiutaleita tai pilkottuja pähkinöitä (esim. pekaanipähkinöitä tai saksanpähkinöitä)."
+    ]
+  },
+  {
+    "id": "wikibooks-frogs-legs-la-parisienne",
+    "title": "Sammakonreidet à la Parisienne",
+    "description": "Ranskalainen klassikko: kermaisessa sipulikastikkeessa esikeitettyjä sammakonreisiä, jotka kuorrutetaan ja uppopaistetaan rapeiksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["sammakonreidet", "ranskalainen", "friteerattu"],
+    "ingredients": [
+      "2 rkl voita",
+      "2 rkl vehnäjauhoja",
+      "3,75 dl kevytkermaa",
+      "½ tl suolaa",
+      "2 rkl hienonnettua sipulia",
+      "1 rkl hienonnettua persiljaa",
+      "1 muna, hyvin vatkattuna",
+      "16 isoa sammakonreittä",
+      "kiehuvaa vettä",
+      "½ sitruunan mehu",
+      "ripaus suolaa ja mustapippuria",
+      "2 munaa, hyvin vatkattuna",
+      "hienoja korppujauhoja",
+      "rasvaa uppopaistamiseen"
+    ],
+    "instructions": [
+      "Sulata voi kattilassa keskilämmöllä.",
+      "Sekoita jauhot sulaan voihin. Kypsennä sekoittaen muutama minuutti, kunnes seos ei enää maistu jauholta. Älä anna sen ruskistua.",
+      "Lisää kerma vähitellen jauhoseokseen sekoittaen, jotta ei synny paakkuja. Kypsennä sekoittaen, kunnes seos on sakeutunut.",
+      "Sekoita joukkoon suola, sipuli ja persilja.",
+      "Temperoi vatkattu muna hieman kastikkeella, varoen etteivät munat hyydy. Sekoita muna takaisin kastikkeeseen.",
+      "Ota liedeltä ja anna jäähtyä hieman.",
+      "Kalvaise sammakonreidet kiehuvassa vedessä sitruunamehun, suolan ja pippurin kanssa.",
+      "Valuta reidet ja taputtele kuivaksi.",
+      "Kasta reidet munaan ja pyörittele korppujauhoissa. Uppopaista 190-asteisessa rasvassa 2–3 minuuttia, kunnes reidet ovat mureita (tarkista rasvan lämpötila lämpömittarilla).",
+      "Tarjoa sipulikermakastikkeen kera."
+    ]
+  },
+  {
+    "id": "wikibooks-froga-maltese-omelet",
+    "title": "Froga (maltalainen munakas)",
+    "description": "Maltalainen perunainen munakas, joka sisältää naudanlihaa tai kinkkua, juustoa ja persiljaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kananmuna", "peruna", "maltalainen"],
+    "ingredients": [
+      "2 keskikokoista perunaa, kuorittuna",
+      "1 nippu kevätsipulia, hienonnettuna",
+      "100 g keitettyä vähärasvaista naudanlihaa tai 200 g suolakeitettyä naudanlihaa (valinnainen), hienoksi silputtuna",
+      "raastettua cheddarjuustoa",
+      "kourallinen persiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "6 munaa"
+    ],
+    "instructions": [
+      "Keitä perunat ja muusaa ne.",
+      "Laita muusattu peruna kulhoon ja lisää kevätsipuli, liha, juusto, persilja, suola ja pippuri. Sekoita, lisää sitten munat ja sekoita kaikki yhteen.",
+      "Kuumenna hieman öljyä paistinpannulla. Lisää 3 isoa lusikallista seosta pannulle ja litistä noin 1 cm:n paksuisiksi. Paista kullanruskeaksi.",
+      "Tarjoa kuumana salaatin ja tuoreen voidellun leivän kera."
+    ]
+  },
+  {
+    "id": "wikibooks-fruit-cake",
+    "title": "Hedelmäkakku",
+    "description": "Kevyt sokerikakku, joka täytetään ja koristellaan kermavaahdolla ja tuoreilla hedelmillä.",
+    "servings": 10,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "hedelmä", "jälkiruoka"],
+    "ingredients": [
+      "8 munankeltuaista",
+      "300 g sokeria",
+      "150 g voita",
+      "2 rkl kakkuemulgointiainetta",
+      "50 g raastettua appelsiininkuorta",
+      "375 g vehnäjauhoja",
+      "1½ rkl ruokasoodaa",
+      "100 g kermavaahtoa",
+      "10 appelsiininlohkoa",
+      "100 g mansikoita, puolitettuna",
+      "75 g kiivihedelmää"
+    ],
+    "instructions": [
+      "Vatkaa munankeltuaiset, voi, sokeri ja kakkuemulgointiaine sähkövatkaimella, kunnes seos on vaaleaa ja kuohkeaa.",
+      "Yhdistä jauhot, ruokasooda ja raastettu appelsiininkuori. Taita munaseokseen.",
+      "Voitele kakkuvuoka voilla.",
+      "Kaada taikina vuokaan. Paista 185 asteessa 20 minuuttia, kunnes tikulla pistettäessä se tulee puhtaana ulos.",
+      "Anna kakun jäähtyä ja siirrä tarjoiluvadille.",
+      "Levitä kermavaahto kakun kaikille sivuille.",
+      "Koristele appelsiinilla, mansikoilla ja kiivillä, ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-fruit-crumble",
+    "title": "Hedelmärapea (crumble)",
+    "description": "Yleispätevä resepti hedelmärapealle – käy monenlaisille hedelmille ja marjoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "hedelmä", "kasvis", "uuniruoka"],
+    "ingredients": [
+      "85 g margariinia tai voita",
+      "170 g vehnäjauhoja",
+      "hedelmiä tai marjoja",
+      "lusikallinen sokeria"
+    ],
+    "instructions": [
+      "Hankaa margariini ja jauhot yhteen sormin, kunnes seos on murustunutta.",
+      "Lisää hedelmät uuninkestävään kulhoon. Ripottele sokeria hedelmien päälle.",
+      "Ripottele paksu kerros murua hedelmien päälle.",
+      "Paista uunissa 160 asteessa 30 minuuttia."
+    ],
+    "notes": [
+      "Sopivia hedelmiä ovat esimerkiksi kuoritut ja paloitellut omenat, karhunvatukat, vadelmat ja mustikat.",
+      "Säädä paistoaikaa ja -lämpötilaa uunin ja hedelmämäärän mukaan.",
+      "Reseptin voi muokata maitoallergisille käyttämällä maidotonta margariinia."
+    ]
+  },
+  {
+    "id": "wikibooks-fruit-for-the-day-smoothie",
+    "title": "Päivän hedelmäsmoothie",
+    "description": "Nopea ja raikas smoothie mandariineista, banaanista ja mansikoista.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": ["smoothie", "hedelmä", "nopea", "kasvis"],
+    "ingredients": [
+      "1 tlk (400 g) mandariineja siirappeineen",
+      "2 pakastettua banaania, kuorittuna ja viipaloituna",
+      "160 g pakastettuja mansikoita",
+      "375 ml maitoa"
+    ],
+    "instructions": [
+      "Lisää kaikki ainekset tehosekoittimeen yllä mainitussa järjestyksessä.",
+      "Pidä kantta tiukasti kiinni ja sekoita hitaalla nopeudella 30 sekuntia.",
+      "Sekoita sitten suurella nopeudella 1 minuutti.",
+      "Kaada lasiin ja nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-fruit-ice-pops",
+    "title": "Hedelmätuutit",
+    "description": "Raikkaat jäätuutit tuoreiden hedelmien sekoituksesta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "hedelmä", "kasvis", "kesäinen"],
+    "ingredients": [
+      "mangoa, kuorittuna ja kuutioituna",
+      "persikkaa, kuorittuna ja kuutioituna",
+      "mansikoita",
+      "vesimelonia, kuutioituna",
+      "päärynän mehua"
+    ],
+    "instructions": [
+      "Yhdistä kaikki hedelmät päärynänmehun kanssa tehosekoittimessa. Soseuta tasaiseksi.",
+      "Jaa hedelmäseos tuuttimuotteihin ja lisää tikut.",
+      "Pakasta muotit täysin jäisiksi.",
+      "Irrota tuutit muoteista ja tarjoa heti."
+    ],
+    "notes": ["Käytettyjen hedelmien tulisi olla kypsiä."]
+  },
+  {
+    "id": "wikibooks-fruit-salad-with-orange-juice",
+    "title": "Hedelmäsalaatti appelsiinimehulla",
+    "description": "Hyvin yksinkertainen ja suosittu hedelmäsalaatti, johon käy mikä tahansa hedelmä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["hedelmä", "salaatti", "kasvis", "jälkiruoka"],
+    "ingredients": [
+      "omenia",
+      "banaaneja",
+      "appelsiineja",
+      "maraschinokirsikoita",
+      "appelsiinimehua"
+    ],
+    "instructions": [
+      "Kuori omenat ja banaanit. Kuutioi ne pieniksi paloiksi.",
+      "Kuori appelsiinit ja erottele lohkot. Leikkaa lohkot halutessasi pienemmiksi paloiksi.",
+      "Leikkaa kirsikat puolikkaiksi tai neljänneksiksi koon mukaan. Kaada hieman kirsikkamehua kulhoon.",
+      "Sekoita kaikki yhteen ja lisää appelsiinimehua maun mukaan.",
+      "Jäähdytä halutessasi ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-fruit-salad-with-orange-soda-ensalada-de-fruta",
+    "title": "Hedelmäsalaatti appelsiinilimonadilla (Ensalada de Fruta)",
+    "description": "Uruguaylainen joulunajan suosikkijälkiruoka, jota tarjoillaan myös kesäisin virkistävänä herkkuna.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["hedelmä", "salaatti", "uruguaylainen", "jälkiruoka"],
+    "ingredients": [
+      "1 tlk (400 g) persikoita omassa liemessään",
+      "1 tlk (150 g) ananaspaloja omassa liemessään",
+      "200 g kirsikoita",
+      "200 g siemenettömiä viinirypäleitä",
+      "1 punainen omena",
+      "1 iso appelsiini",
+      "1 nektariini",
+      "2 luumua",
+      "1 iso banaani",
+      "2 hedelmäkärhöä (passionhedelmää)",
+      "1 rasia mansikoita",
+      "1,25 l Fanta-appelsiinilimonadia, jäähdytettynä"
+    ],
+    "instructions": [
+      "Laita säilykehedelmät isoon kulhoon liemineen, leikaten persikat pieniksi paloiksi.",
+      "Pese loput hedelmät huolellisesti.",
+      "Laita kirsikat ja viinirypäleet (varret ja lehdet poistettuina) kulhoon.",
+      "Paloittele loput hedelmät pieniksi, lisää kulhoon ja jäähdytä.",
+      "Juuri ennen tarjoilua sekoita kevyesti ja kaada päälle jäähdytetty Fanta.",
+      "Tarjoa reikäkauhalla kauniina kesäisenä jälkiruokana, erityisesti juhlapyhinä, kun vatsa kaipaa viilennystä raskaan aterian jälkeen."
+    ],
+    "notes": ["Minkä tahansa yllä mainituista hedelmistä voi jättää pois."]
+  },
+  {
+    "id": "wikibooks-fruit-whip",
+    "title": "Hedelmävaahto",
+    "description": "Ilmava jälkiruokavaahto hedelmänektarista ja marengista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "hedelmä", "kananmuna"],
+    "ingredients": [
+      "2 dl sokeria",
+      "4 rkl maissitärkkelystä",
+      "ripaus suolaa",
+      "ripaus jauhettua inkivääriä",
+      "3 munankeltuaista",
+      "1 pienen limetin mehu",
+      "5 dl hedelmänektaria (persikka, päärynä tai trooppinen hedelmä)",
+      "3 munanvalkuaista",
+      "ripaus suolaa",
+      "ripaus viinikiveä",
+      "3 rkl sokeria"
+    ],
+    "instructions": [
+      "Vatkaa kattilassa sokeri, maissitärkkelys, suola, inkivääri, keltuaiset ja limettimehu, kunnes seos on vaaleaa ja kermaista.",
+      "Vatkaa joukkoon hedelmänektari.",
+      "Kuumenna kiehuvaksi keskilämmöllä koko ajan sekoittaen, erityisesti lopussa.",
+      "Jäähdytä kattilaa kylmässä vedessä.",
+      "Vatkaa munanvalkuaiset suolan ja viinikiven kanssa, ripotellen joukkoon sokeria, kunnes muodostuu pehmeitä huippuja.",
+      "Kun hedelmäseos on haaleaa, nostele joukkoon vatkatut munanvalkuaiset varovasti.",
+      "Siirrä vaahto jalallisiin laseihin ja jäähdytä jääkaapissa."
+    ],
+    "notes": ["Tämä jälkiruoka on erinomainen myös puolijäätyneenä. Jos käytät päärynänektaria, kokeile korvata inkivääri tipalla piparminttuöljyä."]
+  },
+  {
+    "id": "wikibooks-fruity-cheese-dogs",
+    "title": "Hedelmäiset juustonakit",
+    "description": "Erikoinen yhdistelmä nakkeja, sulatettua juustoa ja murskattuja hedelmäisiä aamiaismuroja.",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["nakki", "juusto", "välipala"],
+    "ingredients": [
+      "2 isoa nakkia",
+      "2½ dl juustoa (mozzarellaa, cheddaria, emmentalia tai muuta helposti sulavaa, ei liian kermaista juustoa)",
+      "30 ml murskattuja hedelmäisiä aamiaismuroja"
+    ],
+    "instructions": [
+      "Kypsennä nakit haluamallasi tavalla; alkuperäisessä reseptissä käytettiin pannua, mutta myös leivänpaahdin-uuni käy.",
+      "Kun nakit ovat kypsiä ja haljenneet, nosta ne pois lämmöltä.",
+      "Sulata juusto uunissa tai mikrossa (mikro toimii parhaiten). Kaada sulanut juusto nakkien päälle.",
+      "Ripottele murskatut aamiaismurot juuston päälle ja anna jäähtyä."
+    ],
+    "notes": ["Tämä toimii parhaiten, kun nakit ovat lähekkäin tarjoiluastialla, jolloin irtoilevat murut jäävät niiden väliin."]
+  },
+  {
+    "id": "wikibooks-fruity-white-sangria",
+    "skip": "Alkoholijuoma (sangria), jossa viini ja likööri ovat juoman koko tarkoitus."
+  },
+  {
+    "id": "wikibooks-fry-bread-i",
+    "title": "Paistoleipä I",
+    "description": "Perinteinen alkuperäiskansojen litteä leipä, joka tässä versiossa valmistetaan nykyaikaisin välinein.",
+    "servings": 6,
+    "totalTimeMin": 5,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leipä", "alkuperäiskansat", "friteerattu"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "1 tl suolaa",
+      "2 rkl kasvisrasvaa",
+      "1½ dl kuumaa vettä"
+    ],
+    "instructions": [
+      "Yhdistä jauhot, leivinjauhe ja suola kulhossa.",
+      "Leikkaa kasvisrasva jauhoihin taikinaleikkurilla (tai kahdella veitsellä).",
+      "Lisää kuuma vesi ja sekoita, kunnes vesi on imeytynyt ja muodostuu taikina.",
+      "Käännä taikina kevyesti jauhotetulle alustalle. Vaivaa, kunnes se on pehmeää ja sileää.",
+      "Kääri taikina muoviin ja anna levätä 30 minuuttia.",
+      "Jaa taikina 6 osaan, pyörittele kukin palloksi ja kauli litteäksi kiekoksi.",
+      "Sivele yksi puoli jokaista kiekkoa sulatetulla margariinilla ja aseta grilliin.",
+      "Sivele leivän toinen puoli margariinilla ja käännä leipä grillissä.",
+      "Kypsennä, kunnes molemmat puolet ovat kullanruskeita. Tarjoa kuumana."
+    ],
+    "notes": [
+      "Leivinjauheen sijaan voi käyttää hapatteena ¾ dl luonnonjogurttia tai hapanmaitoa. Jos käytät niitä, lisää taikinan lepoaikaan 2 tuntia ja pidä taikina lämpimässä paikassa.",
+      "Kasvisrasvan sijaan voi käyttää majoneesia, jolloin leivästä tulee rapeampi.",
+      "Taikinan voi paistaa myös kuumassa öljyssä liedellä. Taikina kypsyy nopeasti ja ruskistuu noin 12 sekunnissa, käännä se kypsentääksesi toisenkin puolen."
+    ]
+  },
+  {
+    "id": "wikibooks-fry-bread-ii",
+    "title": "Paistoleipä II",
+    "description": "Yksinkertainen, pehmeän ilmava paistoleipä, joka sopii sellaisenaan tai intiaanitacojen pohjaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["leipä", "friteerattu", "alkuperäiskansat"],
+    "ingredients": [
+      "5 dl vehnäjauhoja",
+      "1 rkl leivinjauhetta",
+      "1 tl maustesuolaa tai ruokasuolaa",
+      "2½ dl kuumaa hanavettä",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita jauhot, leivinjauhe, suola ja vesi kulhossa taikinaksi.",
+      "Rasvaa kädet öljyllä ja muotoile taikinasta pallo. Jätä taikina kulhoon, peitä liinalla ja anna levätä lämpimässä paikassa noin 20 minuuttia. Mitä pidempään taikina lepää, sitä ilmavampaa leivästä tulee.",
+      "Kun olet valmis paistamaan, kuumenna öljy noin 190 asteeseen. Varmista, että öljyä on vähintään 2,5 cm:n syvyydeltä pannussa. Testaa pienellä taikinapallolla – jos öljy on riittävän kuumaa, pallo kelluu pinnalla.",
+      "Kun öljy on valmis, ota golfpallon kokoinen pala taikinaa ja venytä se rasvatuissa käsissäsi, kunnes se on litistynyt ison keksin kokoiseksi.",
+      "Tee taikinan keskelle pieni reikä sormella. Laske se sitten varovasti kuumaan öljyyn. Anna ruskistua kullanruskeaksi, käännä ja paista toinenkin puoli.",
+      "Valuta paistoleipä talouspaperilla. Tarjoa mahdollisimman pian."
+    ]
+  },
+  {
+    "id": "wikibooks-fry-sauce",
+    "title": "Fry-kastike",
+    "description": "Yksinkertainen majoneesin ja ketsupin sekoitus, jota tarjoillaan usein ranskalaisten kera.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "nopea", "amerikkalainen"],
+    "ingredients": [
+      "2 tl majoneesia",
+      "1 tl ketsuppia"
+    ],
+    "instructions": [
+      "Yhdistä majoneesi ja ketsuppi.",
+      "Sekoita, kunnes kastike on voimakkaan vaaleanpunaista."
+    ]
+  },
+  {
+    "id": "wikibooks-fry-seasoning-for-chicken",
+    "title": "Kanan paistomauste",
+    "description": "Mausteinen ja savuinen mausteseos kanan panerointiin ennen paistamista.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mauste", "kana", "amerikkalainen"],
+    "ingredients": [
+      "1¼ dl savupaprikaa",
+      "½ dl suolaa",
+      "½ dl rakeista valkosipulia",
+      "6 rkl sitruunapippuria",
+      "3 rkl cayennepippuria",
+      "2 rkl chilihiutaleita",
+      "2 rkl Old Bay -mausteseosta",
+      "2 rkl jauhettua worcestershirekastiketta"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset ilmatiiviiseen purkkiin, jossa on ripottelukansi."
+    ]
+  },
+  {
+    "id": "wikibooks-fudge-brownies",
+    "title": "Fudge-brownieleivonnaiset",
+    "description": "Tummia, tiiviitä ja kaakaopitoisia brownieita, joissa on enemmän kaakaota ja hieman katkerampi, tummansuklaamainen maku kuin kakkumaisissa brownieissa.",
+    "servings": 16,
+    "totalTimeMin": 35,
+    "category": "Jälkiruoat",
+    "tags": ["suklaa", "leivonta", "jälkiruoka"],
+    "ingredients": [
+      "110 g vehnäjauhoja",
+      "110 g suolatonta voita",
+      "280 g sokeria",
+      "2 isoa kylmää munaa",
+      "170 g kaakaojauhetta",
+      "¼ tl suolaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Lämmitä uuni 160 asteeseen.",
+      "Sulata voi kattilassa miedolla lämmöllä.",
+      "Lisää sokeri vähitellen sekoittaen, kunnes se on täysin liuennut. Lisää kaakaojauhe, ota liedeltä ja lisää vanilja.",
+      "Sekoita joukkoon suola ja sekoita tasaiseksi.",
+      "Vatkaa munat erillisessä kulhossa, lisää seokseen ja sekoita hyvin.",
+      "Lisää jauhot ja sekoita, kunnes ne ovat täysin sekoittuneet ja taikina on tasaisen värinen. Sekoita vielä vähintään 50 kertaa.",
+      "Kaada taikina noin 20 x 20 cm:n vuokaan, joka on vuorattu alumiinifoliolla jättäen reilusti folioreunaa molemmille sivuille.",
+      "Paista noin 26 minuuttia – aika vaihtelee vuoan ja uunin mukaan."
+    ],
+    "notes": [
+      "Parhaan tuloksen saat jäähdyttämällä brownieita jääkaapissa, kunnes ne ovat täysin kylmiä.",
+      "Suklaanautiskelijalle: murustele noin 50 g tummaa suklaata (noin 70 % kaakaopitoisuus) taikinaan juuri ennen kaatamista vuokaan.",
+      "Kokeile lisätä vaniljan ja/tai pähkinöiden sijaan noin 100 g tuoreita vadelmia – niiden rapsakkuus sopii hyvin suklaan täyteläisyyteen."
+    ]
+  }
+]
