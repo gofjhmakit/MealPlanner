@@ -20,7 +20,8 @@
     "supplementary:build": "node scripts/import-supplementary.ts",
     "recipes:fetch": "node scripts/open-recipes/fetch-sources.ts",
     "recipes:normalize": "node scripts/open-recipes/normalize.ts",
-    "recipes:build": "node scripts/open-recipes/build.ts"
+    "recipes:build": "node scripts/open-recipes/build.ts",
+    "recipes:batch": "node scripts/open-recipes/batch.ts"
   },
   "dependencies": {
     "dexie": "^4.4.6",
