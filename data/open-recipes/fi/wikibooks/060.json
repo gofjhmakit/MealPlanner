@@ -1,0 +1,665 @@
+[
+  {
+    "id": "wikibooks-herring-soup",
+    "title": "Silliliemikeitto",
+    "description": "Historiallinen, hyvin yksinkertainen keitto ohrasuurimoista ja sillistä – vanha talonpoikaisruoka.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kala", "historiallinen", "keitto"],
+    "ingredients": [
+      "30 l vettä",
+      "2300 g ohrasuurimoita",
+      "4 silliä, liha survottuna",
+      "suolaa",
+      "mustapippuria",
+      "viinietikkaa",
+      "yrttejä"
+    ],
+    "instructions": [
+      "Yhdistä vesi ja ohrasuurimot.",
+      "Keitä, kunnes seos on sakeaa kuin hyytelö.",
+      "Mausta suolalla, pippurilla, viinietikalla ja makeilla yrteillä. Lisää survottu silliliha."
+    ],
+    "notes": ["Resepti on peräisin Henry Hartshornen julkisoikeudellisesta keittokirjasta Household Cyclopedia."]
+  },
+  {
+    "id": "wikibooks-hickory-bbq-chicken",
+    "title": "Hikkoribbq-kana",
+    "description": "Suolavedessä marinoitu ja hikkorimausteella hierottu uunikana, tarjoillaan oman bbq-kastikkeen kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "2 kpl luutonta, nahatonta broilerin reittä",
+      "2 kpl luutonta, nahatonta broilerin koipea",
+      "2 kpl broilerin rintafileetä",
+      "4 rkl hikkorimausteseosta (esim. paprikaa, valkosipulijauhetta, cayennepippuria, fariinisokeria)",
+      "2½ dl suolaa",
+      "1¾ dl hunajaa",
+      "5 dl kuumaa omenaviinietikkaa",
+      "450 g jäitä",
+      "2½ dl kotitekoista bbq-kastiketta"
+    ],
+    "instructions": [
+      "Yhdistä suola, hunaja ja etikka isossa pakastepussissa, kunnes suola on liuennut. Lisää jäät ja ravista, kunnes jää on lähes sulanut ja seos jäähtynyt. Lisää kanat ja anna marinoitua jääkaapissa 1½–2 tuntia, käännä kerran.",
+      "Laita runsaasti hikkorilastuja ison uunivuoan pohjalle. Aseta grilliritilä vuokaan. Siirrä sivuun.",
+      "Valuta kana ja hävitä marinadi. Taputtele kuivaksi talouspaperilla ja mausta runsaasti mausteseoksella molemmin puolin. Painele mauste kiinni lihaan ja anna vetäytyä jääkaapissa vähintään tunti.",
+      "Pyörittele kanapalat bbq-kastikkeessa. Aseta vuokaan ja työnnä lihalämpömittari yhteen rintafileeseen ja yhteen reiteen. Paista 190-asteisessa uunissa, kunnes sekä reiden että rintafileen sisälämpötila on 74 astetta.",
+      "Kiehauta jäljelle jäänyt kastike isossa kattilassa keskikovalla–kovalla lämmöllä 5 minuuttia. Siirrä sivuun.",
+      "Ota kana uunista, peitä foliolla ja anna levätä 10 minuuttia. Tarjoile lämpimänä lopun kastikkeen kanssa."
+    ],
+    "notes": ["Vältä pullotettua bbq-kastiketta – siinä on yleensä liikaa sokeria."]
+  },
+  {
+    "id": "wikibooks-hickory-bbq-chicken-wings",
+    "title": "Hikkoribbq-kanansiivet",
+    "description": "Rapeaksi uppopaistetut kanansiivet hikkorimausteella ja bbq-kastikkeella.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilliruoka", "amerikkalainen"],
+    "ingredients": [
+      "24 kanansiipeä, kärjet poistettuna ja puolitettuna nivelestä",
+      "10 rkl bbq-kastiketta",
+      "½ tl nestemäistä hikkorisavuaromia",
+      "2½ l maapähkinä- tai rypsiöljyä",
+      "3 rkl hikkorimaustetta"
+    ],
+    "instructions": [
+      "Yhdistä bbq-kastike ja savuaromi. Siirrä sivuun.",
+      "Mausta kanansiivet tasaisesti mausteella. Siirrä sivuun.",
+      "Kuumenna öljy 175 asteeseen. Lisää siivet erissä ja uppopaista 10–12 minuuttia, kunnes ne ovat kultaisen ruskeita, rapeita ja kypsiä (sisälämpötila 74 astetta).",
+      "Nosta siivet pois ja valuta ritilällä.",
+      "Pyörittele kastikeseoksessa. Tarjoile lämpimänä sinihomejuustokastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-hickory-bbq-pork-loin",
+    "title": "Hikkoribbq-possunpaisti",
+    "description": "Suolavedessä marinoitu ja mausteisella rubilla hierottu possunpaisti, hidaskypsennettynä hikkorisavussa.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "amerikkalainen", "juhla"],
+    "ingredients": [
+      "1 luuton possun ulkofilepaisti",
+      "hikkoripuulastuja",
+      "2½ dl suolaa",
+      "1¾ dl hunajaa",
+      "1 rkl karkeaksi rouhittua mustapippuria",
+      "5 dl erittäin kuumaa omenaviinietikkaa",
+      "900 g jäitä",
+      "2 rkl savupaprikaa",
+      "2 rkl chilijauhetta",
+      "2 rkl tummaa fariinisokeria",
+      "1 kukkurallinen rkl cayennepippuria",
+      "1 rkl karkeaksi rouhittua mustapippuria",
+      "1 rkl kuivattua rosmariinia",
+      "2 rkl kuivattua timjamia"
+    ],
+    "instructions": [
+      "Yhdistä kaikki suolaveden ainekset isossa pakastepussissa. Lisää possunpaisti ja marinoi jääkaapissa 3 tuntia.",
+      "Ota paisti pois suolavedestä. Taputtele kuivaksi talouspaperilla ja siirrä sivuun.",
+      "Yhdistä mausteseoksen ainekset. Hiero seos paistiin ja anna vetäytyä jääkaapissa yön yli.",
+      "Seuraavana päivänä aseta grilliritilä uunivuokaan, jossa on runsaasti hikkorilastuja. Työnnä lihalämpömittari paistin keskelle ja paista 93-asteisessa uunissa, kunnes sisälämpötila on 60 astetta.",
+      "Siirrä paisti lautaselle ja anna levätä peittämättömänä 5 minuuttia. Tarjoile paksuina viipaleina."
+    ]
+  },
+  {
+    "id": "wikibooks-hickory-bbq-rub",
+    "title": "Hikkoribbq-mausteseos",
+    "description": "Monikäyttöinen mausteseos sianlihalle ja broilerille, säilyy pitkään ilmatiiviissä purkissa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mausteseos", "amerikkalainen", "grilliruoka"],
+    "ingredients": [
+      "2½ dl paprikajauhetta",
+      "3 rkl hikkorisavujauhetta",
+      "½ dl suolaa",
+      "¾ dl valkosipulijauhetta",
+      "3 rkl cayennepippuria",
+      "2 rkl chilihiutaleita",
+      "½ dl kuivattua sitruunankuorta",
+      "1¼ dl vaaleaa fariinisokeria",
+      "½ dl ancho-chilijauhetta"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset ilmatiiviiseen, sirottelukannelliseen purkkiin.",
+      "Säilytä viileässä, pimeässä paikassa jopa 2 vuotta."
+    ],
+    "notes": ["Tämä mausteseos sopii erinomaisesti sianlihan ribsien maustamiseen tai yleismausteeksi – jopa paistetulle kanalle."]
+  },
+  {
+    "id": "wikibooks-hickory-maple-glazed-wings",
+    "title": "Hikkori-vaahterasiipi",
+    "description": "Rapeaksi paistetut kananprosiivet, joiden pintaan tulee makea-tulinen vaahtera-chipotleglaseeraus.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilliruoka", "amerikkalainen"],
+    "ingredients": [
+      "36 kanansiiven osaa (tai 18 kokonaista kanansiipeä, kärjet poistettuna ja puolitettuna)",
+      "¼ tl hikkorisavujauhetta",
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "vaahterasiirappia tarpeen mukaan + 6 rkl",
+      "maissijauhoja tarpeen mukaan",
+      "3 rkl savuista chipotle-tulista kastiketta",
+      "1 rkl hienonnettua valkosipulia",
+      "½ rkl hienoksi raastettua sitruunankuorta",
+      "öljyä uppopaistamiseen"
+    ],
+    "instructions": [
+      "Mausta kananpalat suolalla ja pippurilla.",
+      "Kastele kananpalat vaahterasiirapissa ja pyörittele maissijauhoissa.",
+      "Kuumenna öljy 175 asteeseen, lisää kananpalat ja uppopaista 12 minuuttia. Valuta ritilällä.",
+      "Yhdistä 6 rkl vaahterasiirappia loppujen aineiden kanssa. Lisää siivet ja pyörittele, kunnes ne ovat tasaisesti kastikkeen peitossa. Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-hickory-smoked-chicken-breasts",
+    "title": "Hikkorisavustettu broilerin rintafile",
+    "description": "Suolavedessä marinoitu ja yrttimausteella hierottu broilerin rintafile, savustettuna hikkoripuilla.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kana", "grilliruoka", "amerikkalainen"],
+    "ingredients": [
+      "4 luutonta, nahatonta broilerin rintafileetä",
+      "2½ dl suolaa",
+      "1¾ dl + 2 rkl hunajaa",
+      "5 dl erittäin kuumaa omenaviinietikkaa",
+      "900 g jäitä",
+      "4 oksaa tuoretta rosmariinia, hienonnettuna",
+      "10 oksaa tuoretta timjamia, hienonnettuna",
+      "1 rkl rouhittuja mustapippureita",
+      "1 rkl chilijauhetta",
+      "1 rkl cayennepippuria",
+      "2 rkl paprikajauhetta",
+      "1½ tl sitruunapippuria",
+      "muutama kilo isoja hikkoripuupaloja"
+    ],
+    "instructions": [
+      "Yhdistä suola, hunaja, yrtit ja etikka isossa pakastepussissa. Lisää jäät ja ravista, kunnes jää on lähes sulanut ja seos jäähtynyt.",
+      "Lisää kana ja anna marinoitua jääkaapissa 1–2 tuntia.",
+      "Ota kana pois suolavedestä ja taputtele kuivaksi talouspaperilla. Siirrä sivuun.",
+      "Yhdistä sitruunapippuri, pippurit, chilijauhe, cayennepippuri ja paprikajauhe. Hiero seos varovasti kanapalojen molemmille puolille.",
+      "Laita riittävästi hikkoripuupaloja savustimen tulipesään, jotta lämpötila pysyy noin 107 asteessa. Työnnä lihalämpömittari yhteen kanapalaan ja aseta savustimeen. Kypsennä, vaihtaen puupaloja tarpeen mukaan, kunnes sisälämpötila on 74 astetta.",
+      "Siirrä lautaselle ja anna levätä peittämättömänä 5 minuuttia. Tarjoile lämpimänä."
+    ],
+    "notes": ["Suolan määrä voi vaikuttaa suurelta, mutta suurin osa siitä jää marinadiin eikä päädy lopputuotteeseen."]
+  },
+  {
+    "id": "wikibooks-hickory-smoked-pork-chops",
+    "title": "Hikkorisavustetut possunkyljykset",
+    "description": "Ensin pariloidut ja sitten hikkorisavussa hitaasti kypsennetyt possunkyljykset.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilliruoka", "amerikkalainen"],
+    "ingredients": [
+      "4 paksua possun kylkiluupihviä",
+      "2½ dl suolaa",
+      "1¾ dl hunajaa",
+      "5 dl kuumaa omenaviinietikkaa",
+      "900 g jäitä",
+      "1 rkl cayennepippuria",
+      "2 rkl paprikajauhetta",
+      "2 rkl ancho-chilijauhetta",
+      "1 rkl rouhittuja mustapippureita",
+      "oliiviöljyä",
+      "liotettuja hikkoripuupaloja"
+    ],
+    "instructions": [
+      "Yhdistä suola, hunaja ja etikka isossa pakastepussissa. Lisää jäät ja ravista, kunnes jää on lähes sulanut ja seos jäähtynyt.",
+      "Lisää kyljykset ja anna marinoitua jääkaapissa 1–2 tuntia.",
+      "Valuta liha ja taputtele kuivaksi talouspaperilla. Hävitä marinadi.",
+      "Yhdistä loput mausteet ja hiero kyljysten molemmille puolille.",
+      "Valmistele savustin. Laita puupalat tulipesään ja pidä lämpötila noin 120 asteessa.",
+      "Sivele kyljykset oliiviöljyllä ja grillaa kuumalla lämmöllä, kunnes pinta on raidallinen. Käännä ja toista.",
+      "Siirrä savustimeen ja työnnä lihalämpömittari yhteen kyljykseen. Peitä ja kypsennä, kunnes sisälämpötila on 60 astetta (medium rare), 68 astetta (medium) tai 74 astetta (läpikypsä). Loppukypsyminen nostaa lämpötilaa vielä muutaman asteen.",
+      "Siirrä lautaselle ja anna levätä 5 minuuttia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-hilbah-fenugreek-condiment",
+    "title": "Hilbah (sarviapilakastike)",
+    "description": "Jemeniläistä alkuperää oleva mauste- ja dippikastike jauhetusta sarviapilasta, tarjoillaan leivän tai keittojen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "jemeniläinen", "kastike"],
+    "ingredients": [
+      "3 rkl jauhettuja sarviapilansiemeniä",
+      "2½ dl vettä",
+      "hienonnettua korianteria",
+      "hienonnettua purjoa",
+      "1 sitruuna tai sitruunahappoa maun mukaan",
+      "1 tl suolaa",
+      "1 rkl zhugia (tulinen punapaprika-valkosipulikastike)",
+      "raastettua tomaattia (valinnainen)"
+    ],
+    "instructions": [
+      "Liota jauhettu sarviapila vedessä 3 tuntia, kunnes se turpoaa.",
+      "Vatkaa lastalla, kunnes tahna muuttuu vaaleaksi ja kuohkeaksi. Lisää tarvittaessa vähän vettä.",
+      "Sekoita joukkoon korianteri ja purjo.",
+      "Sekoita joukkoon suola, sitruunamehu ja zhug.",
+      "Sekoita joukkoon raastettu tomaatti, jos käytät."
+    ]
+  },
+  {
+    "id": "wikibooks-hilda-rolls",
+    "title": "Hilda-keksit",
+    "description": "Saksalaiset hillotäytteiset voileipäkeksit, hyvin lähellä Linzer-keksejä.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "totalTimeMin": 35,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "saksalainen", "leivonta"],
+    "ingredients": [
+      "300 g vehnäjauhoja, siivilöitynä",
+      "110 g sokeria",
+      "1 pss vaniljasokeria",
+      "1 kananmuna",
+      "150 g voita",
+      "125 g tomusokeria",
+      "2 rkl vettä",
+      "2 rkl hilloa"
+    ],
+    "instructions": [
+      "Vaivaa jauhoista, voista, sokerista, vaniljasokerista ja munasta taikina. Anna jäähtyä hetki.",
+      "Kauli taikina noin ¼ cm paksuiseksi levyksi.",
+      "Leikkaa pyöreitä keksejä taikinasta. Leikkaa puolesta kekseistä pieni muoto keskeltä – nämä toimivat kansina.",
+      "Aseta keksit rasvatulle pellille ja paista 150 asteessa noin 20 minuuttia. Anna jäähtyä.",
+      "Sekoita tomusokeri ja vesi tasaiseksi kuorrutteeksi. Kastele kansikeksit varovasti kuorrutteeseen toiselta puolelta.",
+      "Levitä hilloa pohjakeksien päälle. Peitä kuorrutetuilla kansikeksillä."
+    ]
+  },
+  {
+    "id": "wikibooks-hlib-tmer-algerian-date-milk",
+    "title": "Hlib Tmer (algerialainen taatelimaito)",
+    "description": "Saharalainen juoma, jossa makeat taatelit keitetään siirapiksi ja sekoitetaan maitoon.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["kasvis", "juoma", "algerialainen", "nopea"],
+    "ingredients": [
+      "2½ dl maitoa",
+      "7 kypsää, pulleaa taatelia",
+      "hieman sokeria",
+      "vettä"
+    ],
+    "instructions": [
+      "Poista kivet taateleista ja tarkista, ettei niiden sisällä ole toukkia.",
+      "Keitä taateleita veden ja sokerin kanssa muutama minuutti, kunnes ne ovat hyvin kypsiä.",
+      "Sammuta lämpö, soseuta taateliseos ja siivilöi mahdollisimman tarkasti.",
+      "Kaada saatu taatelisiirappi maitolasiin."
+    ],
+    "notes": [
+      "Mitä tahansa maitoa voi käyttää, sillä kamelinmaitoa ei ole helposti saatavilla – lehmänmaito tai soijamaito toimivat hyvin.",
+      "Vaihtoehtoisesti taatelit voi hauduttaa suoraan maidossa miedolla lämmöllä, kunnes maidon väri muuttuu ruskeaksi, ennen siivilöintiä."
+    ]
+  },
+  {
+    "id": "wikibooks-hobo-burgers",
+    "title": "Kulkurin hampurilaiset",
+    "description": "Leirielämän klassikko: jauhelihapihvi perunan ja sipulin kanssa kaalinlehteen käärittynä ja hiilillä kypsennettynä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["liha", "retkiruoka", "grilliruoka"],
+    "ingredients": [
+      "500 g naudan jauhelihaa",
+      "1 sipuli, ohuina viipaleina",
+      "2 perunaa, ohuina viipaleina",
+      "4 rkl voita",
+      "1 rkl Worcestershire-kastiketta",
+      "8 kaalinlehteä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sekoita Worcestershire-kastike jauhelihaan.",
+      "Leikkaa neljä isoa alumiinifolioarkkia ja aseta kaalinlehti kunkin kiiltävälle puolelle.",
+      "Muotoile jauhelihasta 4 pihviä ja aseta ne kaalinlehtien päälle.",
+      "Lisää jokaisen pihvin päälle sipuli- ja perunaviipaleita, nokare voita ja mausta suolalla ja pippurilla.",
+      "Kääri toinen kaalinlehti kunkin annoksen päälle ja sulje paketit tiiviisti.",
+      "Aseta keskikuumien hiilten päälle noin 20–30 minuutiksi, käännä varovasti kahdesti kypsennyksen aikana.",
+      "Heitä kaalinlehdet pois, jos ne palavat kypsennyksen aikana."
+    ]
+  },
+  {
+    "id": "wikibooks-hogao-colombian-scallion-tomato-sauce",
+    "title": "Hogao (kolumbialainen kevätsipuli-tomaattikastike)",
+    "description": "Perinteinen kolumbialainen perussosekastike, jota käytetään monissa kansallisissa ruoissa.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kolumbialainen", "nopea"],
+    "ingredients": [
+      "2 isoa punaista tomaattia, hienoksi kuutioituna",
+      "2 kevätsipulia, hienonnettuna",
+      "½ dl öljyä",
+      "maustepippuria",
+      "kanaliemikuutio",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Kuumenna öljy keskikokoisessa paistinpannussa.",
+      "Lisää kevätsipulit ja paista 5 minuuttia keskilämmöllä.",
+      "Lisää tomaatti, maustepippuri, liemikuutio, suola ja pippuri. Anna hautua miedolla lämmöllä 10 minuuttia."
+    ]
+  },
+  {
+    "id": "wikibooks-holiday-cake-spiced-fruitcake-loaf",
+    "title": "Juhlakakku (mausteinen hedelmäkakkupatonki)",
+    "description": "Perinteinen mausteinen hedelmäkakku täynnä taateleita, kirsikoita ja pähkinöitä – sopii juhla-aikaan.",
+    "servings": 16,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "juhla", "kakku", "amerikkalainen"],
+    "ingredients": [
+      "2½ dl kivettömiä taateleita",
+      "5 dl marinoituja kirsikoita (maraschino)",
+      "1¼ dl kirsikkamehua",
+      "2½ dl voita",
+      "7½ dl fariinisokeria",
+      "5 kananmunaa, keltuaiset ja valkuaiset erotettuna",
+      "2½ dl maitoa",
+      "2 tl vaniljauutetta",
+      "8 dl siivilöityjä vehnäjauhoja",
+      "4 tl leivinjauhetta",
+      "½ tl jauhettuja neilikoita",
+      "½ tl maustepippuria",
+      "½ tl muskottipähkinää",
+      "1 tl kanelia",
+      "1 tl suolaa",
+      "6 dl hienonnettuja pähkinöitä"
+    ],
+    "instructions": [
+      "Paloittele taatelit ja kirsikat pieniksi paloiksi ja liota niitä kirsikkamehussa yön yli.",
+      "Esilämmitä uuni 120 asteeseen.",
+      "Vaahdota voi ja lisää puolet sokerista. Vatkaa kuohkeaksi.",
+      "Vatkaa toisessa kulhossa munankeltuaiset paksuksi vaahdoksi. Lisää loput sokerista.",
+      "Yhdistä kaksi seosta ja vatkaa yhteen.",
+      "Siivilöi yhteen jauhot, suola, leivinjauhe ja mausteet.",
+      "Lisää kuivat aineet ja maito vuorotellen taikinaan, vatkaa hyvin jokaisen lisäyksen jälkeen.",
+      "Taita joukkoon kovaksi vaahdotetut munanvalkuaiset.",
+      "Lisää kevyesti jauhoissa pyöräytetyt hedelmät ja pähkinät.",
+      "Paista vuoratuissa patonkivuoissa miedossa uunissa 3 tuntia."
+    ]
+  },
+  {
+    "id": "wikibooks-holiday-pork-loin",
+    "title": "Juhlapossunpaisti",
+    "description": "Marinoitu ja mausteinen possunpaisti juhlapöytään, kinkun vaihtoehto jouluksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "juhla", "amerikkalainen"],
+    "ingredients": [
+      "1800 g luuton possun ulkofilepaisti",
+      "2½ dl suolaa",
+      "1¼ dl hunajaa",
+      "5 dl kiehuvaa omenaviinietikkaa",
+      "1¼ dl valkoviiniä",
+      "450 g jäitä",
+      "2 tl valkosipulijauhetta",
+      "2 rkl rouhittuja mustapippureita",
+      "dijonsinappia",
+      "1 rkl savupaprikaa",
+      "2 rkl vaaleaa fariinisokeria",
+      "2 tl kuivattua sitruunankuorta",
+      "½ dl murskattuja inkivääriviipaleita (keksejä)"
+    ],
+    "instructions": [
+      "Yhdistä suola, hunaja, etikka ja viini isossa pakastepussissa. Lisää jäät ja ravista, kunnes jää on lähes sulanut ja seos jäähtynyt.",
+      "Lisää possunpaisti ja anna marinoitua jääkaapissa 2½–3 tuntia.",
+      "Valuta possu ja taputtele kuivaksi. Hävitä marinadi ja siirrä sivuun.",
+      "Yhdistä loput ainekset sinappia lukuun ottamatta. Sivele paisti sinapilla ja painele mausteseos kaikille puolille.",
+      "Aseta paisti grilliritilälle uunivuoassa. Työnnä lihalämpömittari keskelle ja paista 210-asteisessa uunissa, kunnes sisälämpötila on 60 astetta.",
+      "Siirrä lautaselle ja anna levätä 10 minuuttia ennen viipalointia. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-holiday-stuffing",
+    "title": "Juhlatäyte",
+    "description": "Makea-suolainen leivän täyte, jossa maissileipä, omenat ja saksanpähkinät – ei tarkoitettu kalkkunan sisään täytettäväksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "juhla", "uuniruoka", "amerikkalainen"],
+    "ingredients": [
+      "5 dl murennettua maissileipää",
+      "6 munankeltuaista, vatkattuna",
+      "1 tl suolaa",
+      "1 tl tuoreesti jauhettua mustapippuria",
+      "2½ tl ohueksi viipaloitua tuoretta salviaa",
+      "1¼ dl omenahyytelöä",
+      "1¼ dl kuivattuja omenoita, hienoksi kuutioituna",
+      "½ dl sulatettua voita",
+      "1¼ dl karkeasti hienonnettuja saksanpähkinöitä"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset ja siirrä rasvattuun uunivuokaan.",
+      "Paista 175-asteisessa uunissa 45 minuuttia tai kunnes pinta on ruskistunut. Jos pinta ei ruskistu, laita hetkeksi grillivastuksen alle.",
+      "Tarjoile paistetun kalkkunan, karpalokastikkeen, bataatin ja muiden juhlalisukkeiden kanssa."
+    ],
+    "notes": ["Voit lisätä joukkoon hieman kana- tai kalkkunalientä."]
+  },
+  {
+    "id": "wikibooks-holland-tea-cakes",
+    "title": "Hollantilaiset teekakut",
+    "description": "Yksinkertaiset, litteät keksit, perinteisesti joulun ajan herkku mutta sopivat mihin vuodenaikaan tahansa.",
+    "servings": 20,
+    "totalTimeMin": 30,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "keksit", "joulu", "leivonta"],
+    "ingredients": [
+      "240 g sokeria",
+      "115 g voita, sulatettuna",
+      "2 kananmunaa, erotettuna",
+      "280 g vehnäjauhoja",
+      "1–2 tl kanelia (tai maun mukaan)",
+      "värillistä sokeria tai pähkinöitä koristeluun"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 180 asteeseen.",
+      "Sekoita voi ja sokeri täysin yhteen. Sekoita joukkoon munankeltuainen, sitten jauhot ja kaneli (mieluiten käsin, mutta tämä voidaan tehdä myös sähkövatkaimella).",
+      "Kaada taikina leivontapellille. Levitä ja tasoita se kämmenellä koko pellin alalle (tämä on vaikein vaihe).",
+      "Sivele pinnalle jäljellä oleva munanvalkuainen. Sirottele haluamasi koristeet tasaisesti taikinan päälle.",
+      "Paista esilämmitetyssä uunissa, kunnes keksit ovat kullanruskeita (noin 20 minuuttia). Ota pois ja anna jäähtyä hieman.",
+      "Ennen kuin ne jäähtyvät liikaa, leikkaa ne pieniksi, noin 2,5 cm:n neliöiksi."
+    ],
+    "notes": ["Munankeltuaisen voi korvata munankorvikkeella, mutta koristelua varten tarvitaan silti munanvalkuaista."]
+  },
+  {
+    "id": "wikibooks-hollandaise-sauce",
+    "title": "Hollandaise-kastike",
+    "description": "Klassinen emulgoitu munankeltuaiskastike, täydellinen esimerkiksi munien tai parsan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "kastike", "ranskalainen"],
+    "ingredients": [
+      "3 munankeltuaista",
+      "1 tl vettä",
+      "170 g suolatonta voita, paloiteltuna",
+      "½ tl suolaa",
+      "2 tl sitruunamehua",
+      "1 mm cayennepippuria",
+      "1 mm valkopippuria"
+    ],
+    "instructions": [
+      "Sulata voi mikrossa tai pienessä kattilassa liedellä.",
+      "Kaada vähän vettä keskikokoiseen vesihauteeseen varmistaen, ettei vesi kosketa kulhon pohjaa. Kuumenna miedoksi kiehuvaksi ja laske lämpöä.",
+      "Laita munankeltuaiset sekä kuivat ja nestemäiset ainekset kulhoon ja vatkaa 1–2 minuuttia.",
+      "Lisää sula voi vähitellen vatkaten, kunnes voi on hyvin sekoittunut ja seos on paisunut.",
+      "Aseta seos miedosti kiehuvan veden päälle ja vatkaa 3–5 minuuttia, kunnes se on riittävän paksua peittämään lusikan selän.",
+      "Jos seos paksuuntuu liikaa tai erottuu, lisää hyvin pieniä määriä kuumaa vettä, kunnes koostumus korjaantuu."
+    ]
+  },
+  {
+    "id": "wikibooks-holzknechtnocken-austrian-boiled-dumplings",
+    "title": "Holzknechtnocken (itävaltalaiset keitetyt nokare-taikinapallot)",
+    "description": "Perinteinen itävaltalainen metsurien ruoka: keitetyt ja sen jälkeen paistetut taikinanokareet.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "itävaltalainen", "historiallinen"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "1 rkl suolaa",
+      "2½ dl kiehuvaa vettä",
+      "sianihraa"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola isossa kulhossa ja lisää vesi. Vaivaa taikinaksi.",
+      "Muotoile taikinasta nokareita ja lisää ne kiehuvaan veteen. Kun nokareet nousevat pinnalle, ne ovat valmiita.",
+      "Sulata ihra paksupohjaisessa, korkealaitaisessa paistinpannussa. Lisää nokareet ja paista kultaisiksi.",
+      "Tarjoile hapankaalin tai haudutettujen omenoiden kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-holzknechtnocken-with-strawberry-curd-au-gratin",
+    "title": "Holzknechtnocken mansikka-rahkatäytteellä gratinoituna",
+    "description": "Hienostunut versio perinteisestä itävaltalaisesta taikinanokareesta: mansikoilla täytetyt nokareet rahkakerman kanssa uunissa gratinoituna.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "itävaltalainen", "jälkiruoka", "juhla"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "ripaus suolaa",
+      "1 rkl öljyä",
+      "4 dl kiehuvaa vettä",
+      "8 kokonaista mansikkaa",
+      "3 rkl voita, sulatettuna",
+      "500 g mansikoita, pestynä ja varrettomana",
+      "sokeria tai hunajaa",
+      "sitruunamehua",
+      "70 g voita, pehmeänä",
+      "sitruunankuorta",
+      "vaniljasokeria",
+      "50 g tomusokeria",
+      "2 kananmunaa, erotettuna",
+      "250 g rahkaa (esim. raejuustoa)",
+      "1 rkl ranskankermaa (crème fraîche)",
+      "1¼ dl kuohukermaa",
+      "100 g sokeria"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa jauhot, suola, öljy ja kuuma vesi. Vaivaa taikinaksi.",
+      "Jaa taikina 8 osaan. Litistä kukin pala ja kääri se kokonaisen mansikan ympärille. Purista reunat kiinni, jotta syntyy nokare.",
+      "Keitä nokareita suolatussa vedessä 5–7 minuuttia. Pyörittele sulatetussa voissa.",
+      "Paloittele jäljellä olevat mansikat. Sekoita joukkoon sokeria ja sitruunamehua.",
+      "Vatkaa yhteen voi, sitruunankuori, vaniljasokeri ja tomusokeri kuohkeaksi. Sekoita joukkoon munankeltuaiset, rahka ja crème fraîche.",
+      "Vatkaa kerma sokerin kanssa vaahdoksi. Taita vaahdotettu kerma voi-rahkaseokseen.",
+      "Vatkaa munanvalkuaiset kovaksi vaahdoksi ja taita ne varovasti joukkoon.",
+      "Esilämmitä uuni 200 asteeseen.",
+      "Asettele mansikoita uuninkestäville lautasille. Lisää päälle rahkaseosta, muutama nokare ja ripottele sokeria.",
+      "Laita lautaset uuniin ja paista, kunnes pinta on kullanruskea."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-applesauce",
+    "title": "Kotitekoinen omenasose",
+    "description": "Helppo omenasose erityisesti latkesten kanssa, tehdään perunasurvimella ilman tehosekoitinta.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "vegaaninen", "jälkiruoka", "nopea"],
+    "ingredients": [
+      "1300 g kuorittuja ja paloiteltuja omenoita",
+      "1¼ dl vettä",
+      "6 rkl sokeria",
+      "6 rkl makeutusainetta",
+      "1 rkl sitruunamehua (n. 1 sitruunasta)",
+      "½ tl jauhettua kanelia tai omenapiirakkamaustetta"
+    ],
+    "instructions": [
+      "Laita paloitellut omenat isoon tarttumattomaan kattilaan. Sekoita joukkoon vesi, sokeri, makeutusaine ja sitruunamehu.",
+      "Kuumenna kiehuvaksi, peitä kannella ja laske lämpö keskimatalalle.",
+      "Kypsennä, kunnes omenat ovat pehmeitä (noin 10 minuuttia).",
+      "Soseuta kypsät omenat perunasurvimella kauniiksi soseeksi.",
+      "Sekoita joukkoon kaneli tai omenapiirakkamauste.",
+      "Tarjoile lämpimänä tai kylmänä."
+    ],
+    "notes": ["Käytä mitä tahansa omenalajiketta pidät parhaana."]
+  },
+  {
+    "id": "wikibooks-homemade-baharat",
+    "title": "Kotitekoinen baharat-mausteseos",
+    "description": "Lähi-idässä käytetty monikäyttöinen mausteseos, josta tulee syvempi maku, kun sen paahtaa voissa ennen käyttöä.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mausteseos", "kasvis", "vegaaninen", "lähi-itä"],
+    "ingredients": [
+      "6 rkl maustepippuria",
+      "6 rkl mustapippuria",
+      "3 rkl kanelia",
+      "3 rkl korianteria",
+      "2 rkl juustokuminaa",
+      "1 rkl muskottipähkinää",
+      "1 rkl neilikkaa",
+      "½ rkl kardemummaa"
+    ],
+    "instructions": [
+      "Jauha kaikki ainekset hienoksi myllyllä tai maustemyllyssä. Sekoita hyvin.",
+      "Maun voimistamiseksi paahda jauhetta voissa ennen käyttöä."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-coconut-milk",
+    "title": "Kotitekoinen kookosmaito",
+    "description": "Tuoreesta kookospähkinästä tehty kookosmaito, hyvä maidoton vaihtoehto esimerkiksi laktoosi-intolerantikoille.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "kookos"],
+    "ingredients": [
+      "1 iso kookospähkinä",
+      "5 dl vettä"
+    ],
+    "instructions": [
+      "Halkaise kookospähkinä ja valuta kirkas kookosvesi talteen.",
+      "Erota kookoksen liha kuoresta veitsellä. Huuhtele tarvittaessa juoksevan veden alla ennen kuutiointia.",
+      "Laita kookoksen liha tehosekoittimeen 2½ dl:n veden kanssa ja soseuta täydellä teholla minuutin ajan, kunnes seos on sileää. Jos tehosekoitinta ei ole, pilko kookoksen liha pieniksi paloiksi ja raasta se tahnaksi.",
+      "Laita soseutettu kookos kulhoon, lisää 2½ dl vettä ja sekoita käsin.",
+      "Siivilöi maito hienon siivilän läpi. Purista siivilän sisältöä käsin, jotta saat kaiken nesteen talteen.",
+      "Lisää vielä loput 2½ dl vettä ja kookoksen liha takaisin siivilöintiin jäljellä olevan maidon saamiseksi talteen.",
+      "Käytä kookosmaito heti tai säilytä jääkaapissa. Ravista aina ennen käyttöä."
+    ]
+  },
+  {
+    "id": "wikibooks-homemade-coffee-liqueur",
+    "skip": "alkoholillinen juoma, jossa alkoholi on resepti pääasia"
+  },
+  {
+    "id": "wikibooks-homemade-corn-tortillas",
+    "title": "Kotitekoiset maissitortillat",
+    "description": "Yksinkertainen perinteinen maissitortilla masaharinasta, meksikolaisen ja Keski-Amerikan keittiön perusruoka.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "leivonta"],
+    "ingredients": [
+      "5 dl masaharinaa (maissijauhoa tortilloihin)",
+      "5 dl vettä",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Sekoita isossa kulhossa masaharina ja suola.",
+      "Lisää vesi ja sekoita hyvin, kunnes syntyy taikina.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle ja vaivaa 5 minuuttia.",
+      "Jaa taikina noin 90 g:n palasiin ja pyörittele palloiksi.",
+      "Kauli jokainen pallo noin 10 cm:n läpimittaiseksi ja 0,3 cm paksuksi levyksi.",
+      "Kuumenna iso paksupohjainen paistinpannu keskikovalla–kovalla lämmöllä.",
+      "Paista tortillat yksi kerrallaan kuumalla, kuivalla pannulla, kunnes toinen puoli ruskistuu, käännä ja ruskista toinen puoli.",
+      "Nosta pannulta ja pidä lämpiminä liinan alla."
+    ]
+  }
+]

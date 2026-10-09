@@ -1,0 +1,745 @@
+[
+  {
+    "id": "forkrecipe-squid-ink-pasta",
+    "title": "Mustepasta simpukoilla",
+    "description": "Kiiltävä, sysimusta pasta seepianmusteella värjättynä ja simpukoilla valkoviinikastikkeessa — dramaattinen, suolaisen meren makuinen ja väkevästi Venetsian laguunin henkinen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "cookTimeMin": 30,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["pasta", "simpukat", "italialainen", "juhlaruoka"],
+    "ingredients": [
+      "Mustepasta:",
+      "250 g tyyppi 00 -vehnäjauhoja",
+      "5 munankeltuaista",
+      "1 kananmuna",
+      "5 g mustekalan tai seepian mustetta",
+      "1 rkl extra-virgin-oliiviöljyä",
+      "½ tl hienoa suolaa",
+      "semolinaa jauhotukseen",
+      "Simpukkakastike:",
+      "400 g tuoreita simpukoita, harjattuina",
+      "150 ml kuivaa valkoviiniä (esim. Soave tai Pinot Grigio)",
+      "2 rkl oliiviöljyä",
+      "3 valkosipulinkynttä, ohuina viipaleina",
+      "½ tl chilihiutaleita",
+      "1 pieni nippu lehtipersiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Kasaa jauhot puhtaalle työtasolle kummuksi ja tee keskelle leveä kuoppa. Lisää kuoppaan munankeltuaiset, kananmuna, mustekalan muste, oliiviöljy ja suola. Vatkaa haarukalla kevyesti kuopan sisällä ja vedä samalla jauhoja varovasti reunoilta mukaan. Kun taikina muuttuu haarukalle liian paksuksi, käytä taikinakaavinta ja taittele seosta, kunnes kaikki jauho on sekoittunut karkeaksi, mustaksi taikinamöykyksi. Taikina näyttää aluksi pelottavalta — tasaisen sysimustalta. Alusta taikinaa voimakkaasti kämmenen tyvellä, taitellen ja painaen 8 minuutin ajan, kunnes se on sileää ja joustavaa. Kääri tiiviisti talouskelmuun.",
+      "Anna käärityn taikinan levätä huoneenlämmössä 30–45 minuuttia. Valmistele sillä aikaa pastakone. Levon jälkeen jaa taikina neljään osaan — pidä muut osat kääritynä sillä aikaa kun työstät yhtä kerrallaan. Litistä kukin pala karkeaksi soikioksi ja aja se pastakoneen leveimmällä asetuksella. Taittele kolmeen osaan kuin kirje, käännä 90 astetta ja aja uudelleen. Toista kolme kertaa, ja kavenna sitten asteittain asetusta 5–6 saakka (1–2 mm paksuus). Leikkaa tagliolinia (2 mm) tai spagettia (3 mm) varten. Ripottele levyille runsaasti semolinaa, ettei pasta tartu kiinni.",
+      "Kuumenna leveä pannu kovalla lämmöllä. Lisää oliiviöljy ja valkosipuli ja anna kihistä noin 20 sekuntia, kunnes tuoksuu. Lisää chilihiutaleet. Kaada pannulle kaikki harjatut simpukat, lisää viini ja pane kansi heti päälle. Kypsennä täydellä lämmöllä 3–4 minuuttia, ravistellen pannua välillä, kunnes kaikki simpukat ovat auenneet. Heitä pois kiinni jääneet simpukat. Nosta simpukat reikäkauhalla sivuun ja säilytä pannu liemineen. Jos liemi näyttää hiekkaiselta, siivilöi se kostealla liinalla vuoratun siivilän läpi puhtaaseen pannuun.",
+      "Kuumenna iso kattilallinen runsaasti suolattua vettä kiehuvaksi. Keitä tuore mustepasta vain 60–90 sekuntia — tuore pasta kypsyy murto-osassa kuivatun pastan ajasta. Maista lanka 60 sekunnin kohdalla; sen pitäisi olla mureaa mutta hieman puraisevaa. Pasta jatkaa kypsymistä kastikkeessa, joten nosta se pois 10 sekuntia ennen kuin arvelet sen olevan valmis. Ota talteen kauhallinen mustaa, tärkkelyspitoista keitinvettä ennen valuttamista.",
+      "Lisää valutettu pasta suoraan simpukkaliemipannuun kovalla lämmöllä. Pyörittele voimakkaasti 60–90 sekuntia, lisäten tarvittaessa pieniä loraus mustaa keitinvettä, jotta kastike pysyy juoksevana ja kiiltävänä. Palauta simpukat pannuun viimeisten 15 sekunnin ajaksi. Ota pois liedeltä ja ripottele persilja päälle. Valmis annos on sysimusta, ja simpukoita on siroteltu joka puolelle — tarjoa heti lämmitetyissä kulhoissa. Älä koskaan lisää juustoa äyriäispastaan venetsialaisen perinteen mukaan."
+    ]
+  },
+  {
+    "id": "forkrecipe-sriracha",
+    "title": "Sriracha",
+    "description": "Punaisia jalapeñoja jauhetaan valkosipulin kanssa ja annetaan käydä kolme vuorokautta, minkä jälkeen seos keitetään lyhyesti etikan ja sokerin kanssa — lopputulos on tulinen kastike, jossa on enemmän syvyyttä kuin missään pullotetussa, koska aika on tehnyt varsinaisen maustamistyön.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "chili", "vegaaninen", "kasvis", "fermentoitu"],
+    "ingredients": [
+      "500 g punaisia jalapeñoja (tai fresno-chilejä)",
+      "40 g valkosipulinkynsiä, kuorittuina",
+      "50 g sokeria",
+      "15 g suolaa (ei-jodioitua)",
+      "1 dl viinietikkaa (tislattua)"
+    ],
+    "instructions": [
+      "Poista chileistä varret mutta jätä siemenet — ne tuovat tulisuutta ja pektiiniä, joka sakeuttaa valmiin kastikkeen. Yhdistä chilit, valkosipuli, sokeri ja suola tehosekoittimessa tai monitoimikoneessa. Pulssaa, kunnes seos on karkeaa ja rakenteista — ajattele paksua salsaa, ei sileää soseetta. Massan tulee olla kirkkaan punaoranssia ja tuoksua voimakkaasti raa'alta chililtä ja terävältä valkosipulilta. Siirrä puhtaaseen lasipurkkiin, jätä 3 cm tyhjää tilaa käymiskaasuja varten.",
+      "Peitä purkki löysästi juustokankaalla, joka kiinnitetään kuminauhalla — näin käymiskaasut pääsevät ulos, mutta epäpuhtaudet pysyvät poissa. Säilytä huoneenlämmössä (18–24 °C) 3–7 vuorokautta. Sekoita massaa kerran päivässä puhtaalla lusikalla. 24 tunnin kuluttua massassa pitäisi näkyä pieniä kuplia kauttaaltaan. Kolmanteen päivään mennessä massa tuoksuu selvästi monimutkaisemmalta — vähemmän raa'alta, enemmän umamiselta, ja mukana on happamaa terävyyttä. Väri tummuu kirkkaasta punaisesta tummemmaksi, kylläisemmäksi karmiininpunaiseksi.",
+      "Siirrä käynyt massa ja viinietikka kattilaan. Kuumenna kiehuvaksi keskilämmöllä, laske sitten tasaiselle hiljaiselle kiehunnalle ja anna kypsyä 5–7 minuuttia usein sekoittaen. Massa sakenee ja tummuu hieman kypsyessään. Etikka sekä säilöö kastiketta että kirkastaa happamuutta, jota käyminen on pehmentänyt. Älä keitä liikaa kasaan — tavoitteena on kaadettava tulinen kastike, ei tahna.",
+      "Anna keitetyn kastikkeen jäähtyä 10 minuuttia. Siirrä tehosekoittimeen ja soseuta täydellä teholla 1–2 minuuttia, kunnes seos on täysin sileää. Siivilöi hienon siivilän läpi, painaen lusikalla, jotta jokainen pisara saadaan talteen. Hävitä kuivat jäännökset (lähinnä siemeniä ja kuoria). Siivilöity kastike on kiiltävää, sileää ja syvän punaista. Pullota steriloituihin puristuspulloihin tai lasipurkkeihin. Säilytä jääkaapissa — säilyy 6 kuukautta."
+    ]
+  },
+  {
+    "id": "forkrecipe-ssamjang",
+    "title": "Ssamjang (korealainen dippikastike)",
+    "description": "Tumma, paksu korealainen dippitahna, jossa maanläheinen doenjang ja tulinen gochujang kohtaavat seesamiöljyn, valkosipulin ja hunajan hiven — korealaisen grillin välttämätön kumppani, joka kääritään grillatun lihan ja rapean salaatinlehden ympärille ja maistuu koko pöydältä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "korealainen", "dippikastike", "kasvis"],
+    "ingredients": [
+      "4 rkl doenjangia (korealaista fermentoitua soijapaputahnaa)",
+      "2 rkl gochujangia (korealaista fermentoitua chilitahnaa)",
+      "1 rkl paahdettua seesamiöljyä",
+      "1 tl hunajaa tai riisisiirappia",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 kevätsipulia, ohuesti viipaloituna",
+      "1 tl paahdettuja seesaminsiemeniä"
+    ],
+    "instructions": [
+      "Yhdistä doenjang ja gochujang pieneen sekoituskulhoon. Sekoita voimakkaasti haarukalla tai pienellä kumikaapimella, kunnes tahnat ovat täysin yhtenäisiä — punaisia tai ruskeita raitoja ei saa enää erottua. Doenjang on paljon paksumpaa ja kuivempaa kuin gochujang, joten niiden yhdistäminen vaatii hieman vaivaa. Yhdistetyn tahnan tulisi olla syvän punaruskea — tummempi kuin pelkkä gochujang, maanläheisempi ja monimutkaisempi. Maista tässä vaiheessa: doenjangin ja gochujangin tasapainon pitäisi antaa ensin maanläheistä fermentoitua syvyyttä, sitten chilin lämpöä.",
+      "Lisää seesamiöljy, hunaja, hienonnettu valkosipuli ja viipaloitu kevätsipuli tahnapohjaan. Sekoita huolellisesti, kunnes kaikki jakautuu tasaisesti. Seesamiöljy löysää tahnaa hieman, mikä tekee siitä helpommin levitettävän — perinteisen ssamjangin tulisi olla tarpeeksi paksua pysyäkseen kasassa lusikassa mutta tarpeeksi löysää levittyäkseen helposti salaatinlehdelle. Maista ja säädä: lisää gochujangia lämpöä ja väriä varten, lisää doenjangia syvyyttä ja täyteläisyyttä varten, lisää hunajaa jos fermentoitu maku on liian voimakas.",
+      "Ripottele paahdetut seesaminsiemenet ssamjangin pinnalle — älä sekoita niitä täysin seokseen, vaan jätä ne näkyväksi koristeeksi, joka tuo rakennetta. Maista vielä kerran. Hyvän ssamjangin tulisi antaa ensin umamia (doenjangista), sitten lämpöä (gochujangista) ja lopuksi pyöreä seesami-hunajainen makeus, joka jää suuhun. Jos tahna on liian paksua levitettäväksi, lisää muutama tippa vettä ja sekoita. Siirrä pieneen keraamiseen kulhoon tarjoiltavaksi grillipöydässä. Säilyy jääkaapissa ilmatiiviissä astiassa jopa 2 viikkoa — maku syvenee ja pehmenee ajan myötä."
+    ]
+  },
+  {
+    "id": "forkrecipe-steamed-egg-custard",
+    "title": "Höyrytetty munahyydyke (Zheng Dan)",
+    "description": "Kulhollinen silkkistä munahyydykettä, joka höyrytetään lähes mahdottoman sileäksi — pinta peilityynenä, väräjää kevyimmästäkin kosketuksesta kuin kylmä panna cotta, ja viimeistellään tummalla soija- ja seesamiöljyvalulla, joka kerääntyy lusikan jättämiin kuoppiin ja tuoksuttaa joka suupalan. Se on kiinalaisen kotiruoan hiljaisin ja vaativin ruokalaji, jossa vihollisina ovat kuumuus ja kärsimättömyys.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "cookTimeMin": 15,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["muna", "kiinalainen", "höyrytys", "nopea"],
+    "ingredients": [
+      "3 kananmunaa, isoja",
+      "360 ml lämmintä liha- tai kasvislientä (tai vettä, n. 40 °C)",
+      "8 ml vaaleaa soijakastiketta (munaseokseen)",
+      "2 g hienoa suolaa",
+      "5 ml seesamiöljyä (viimeistelyyn)",
+      "10 ml vaaleaa soijakastiketta (viimeistelyyn)",
+      "10 g kevätsipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Riko munat kulhoon ja vatkaa ne kevyesti syömäpuikoilla tai haarukalla — ei voimakkaasti kuten munakokkelia tehdessä. Tavoitteena on rikkoa keltuaiset ja yhdistää ne valkuaisiin, mutta ilmaa ei saa sekoittaa mukaan. Ilmakuplat ovat sileän hyydykkeen pahin vihollinen — ne nousevat pintaan höyrytyksen aikana ja jähmettyvät kuopiksi ja koloiksi, jotka tuhoavat tavoitellun peilityynen pinnan. Kun munat on sekoitettu, lisää lämmin liemi tai vesi vähitellen sekoittaen. Nesteen on oltava lämmintä — noin 40 °C — ei kuumaa eikä kylmää. Kylmä neste laskee seoksen lämpötilaa ja hidastaa hyytymistä; kuuma neste alkaa kypsentää munia jo ennen höyrytystä. Lisää soijakastike ja suola. Siivilöi koko seos hienon siivilän läpi tarjoiluastiaan. Tämä pidättää chalazat (valkoiset kierteiset munanauhat), katkenneet valkuaissäikeet ja pintavaahdon. Kaada hitaasti ja napauta kulhoa sitten tiukasti pöytään, jotta jäljelle jääneet pintakuplat puhkeavat. Käytä talouspaperia haihduttamaan itsepäinen vaahto. Munan ja nesteen suhde 1 muna : 120 ml nestettä on silkkisen rakenteen resepti — älä muuta sitä.",
+      "Valmistele höyrytin niin, että vesi on jo loivassa kiehunnassa — ei voimakkaassa. Tämä on koko reseptin tärkein yksityiskohta. Rajusti kiehuva vesi tuottaa liian kuumaa ja turbulenttista höyryä, mikä saa munaproteiinit jähmettymään liian nopeasti rakeiseksi, kuoppaiseksi ja lähes kokkelimaiseksi massaksi. Loiva kiehunta tuottaa tasaista, kohtuullista höyryä, joka hyydyttää hyydykkeen hitaasti ulkoa sisään. Aseta peitetty kulho höyrytystelineeseen. Laske lämpöä niin, että kiehunta kuuluu tuskin lainkaan — ääneksi pitäisi kuulua pehmeää, tasaista solinaa eikä rajua pulputusta. Höyrytä 10–12 minuuttia 3 munan hyydykkeelle n. 15 cm leveässä kulhossa. Tarkista 10 minuutin kohdalla tönäisemällä kulhoa kevyesti — hyydykkeen pitäisi olla hyytynyt reunoilta ja väristä yhtenä kappaleena keskeltä, kuten juuri hyytynyt panna cotta. Jos keskiosa on vielä nestemäistä, peitä ja höyrytä vielä 2 minuuttia. Jos höyrytintäsi ei voi säätää, aseta syömäpuikko kannen alle, jotta höyry pääsee karkaamaan ja sisälämpötila laskee.",
+      "Avaa hyydykkeen kansi ja toimi nopeasti, sillä tämä on herkkä ja parasta syödä 5 minuutin kuluessa valmistumisesta. Valuta vaalea soijakastike ensin ohuena nauhana hyydykkeen reunoja pitkin, anna sen kerääntyä reunoille, siirry sitten keskelle. Viileä soija kerääntyy tummaksi renkaaksi norsunluunväristä pintaa vasten. Lisää seesamiöljy muutamina pieninä pisaroina — niiden pitäisi aluksi pysyä pisaroina ja levitä sitten hitaasti. Ripottele hienonnettu kevätsipuli pieneksi kummuksi keskelle. Rakenteiden ja lämpötilojen kontrasti — lämmin silkkinen hyydyke, viileä tuoksuva soija, raaka kevätsipuli — on koko makuelämys. Jotkut kokit lisäävät muutaman tipan laadukasta vanhennettua soijaa tai ohuen chiliöljyvalun halutessaan. Tarjoile heti siinä kulhossa, jossa se höyrytettiin, pienen lusikan kera. Oikea tapa syödä se on rikkoa pinta kevyesti, kauhaista alta ja antaa hyydykkeen, soijan ja kevätsipulin nousta yhdessä lusikalle."
+    ]
+  },
+  {
+    "id": "forkrecipe-steamed-fish-ginger-soy",
+    "title": "Höyrytetty kokonainen kala kantonilaisittain",
+    "description": "Kokonainen meribassi höyrytetään silkkisen mureaksi aromien päällä, valellaan soijakastikkeella ja viimeistellään pöydän ääressä kaatamalla päälle savuavan kuumaa öljyä, joka sihisee inkiväärin ja kevätsipulin päällä — kiinalaista keittiötaidetta parhaimmillaan.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "cookTimeMin": 10,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "kiinalainen", "höyrytys", "nopea"],
+    "ingredients": [
+      "1 kokonainen meribassi tai lahna (n. 500 g), puhdistettu ja suomustettu",
+      "30 g tuoretta inkivääriä (puolet ohuina viipaleina höyrytykseen, puolet suikaleina koristeluun)",
+      "40 g kevätsipulia (puolet 5 cm paloiksi leikattuna höyrytykseen, puolet suikaleina koristeluun)",
+      "50 ml vaaleaa soijakastiketta (laadukasta, viimeistelyyn)",
+      "5 g sokeria",
+      "75 ml mauteltonta öljyä (kuumaan kaatoon)",
+      "10 g tuoretta punaista chiliä, suikaleina (valinnainen, väriä varten)",
+      "suolaa"
+    ],
+    "instructions": [
+      "Viillä kalaan molemmin puolin 3–4 syvää vinoa viiltoa luuhun asti, noin 3 cm välein. Tämä päästää höyryn tunkeutumaan tasaisesti paksuimpiin osiin. Mausta vatsaontelo ja viillot kevyellä suolaripauksella. Aseta kevätsipulin palat ja inkiväärin viipaleet höyrytyslautaselle ja laske kala niiden päälle — kohotus päästää höyryn kiertämään myös alta.",
+      "Kuumenna höyryttimen vesi täyteen kiehuntaan ennen kalan lisäämistä. Liu'uta lautanen höyryttimeen, peitä tiiviillä kannella ja höyrytä kovalla lämmöllä 8 minuuttia 400 g:n kalalle, 10 minuuttia 500–600 g:n kalalle. Älä nosta kantta höyrytyksen aikana. Ajoitus on tarkka — jo yksi minuutti liikaa alkaa kiristää ja kuivattaa lihaa.",
+      "Valuta kaikki lautaselle kertynyt neste pois — tämä neste on kalaista ja laimeaa; sen poisheittäminen on se keskeinen vaihe, jonka useimmat kotikokit unohtavat. Järjestä suikaloitu inkivääri, kevätsipuli ja chili siistiksi kasaksi kalan päälle. Sekoita vaalea soijakastike sokerin kanssa ja kaada se tasaisesti kalan ja koristeiden päälle. Kuumenna mauteltonta öljyä pienessä kattilassa kovalla lämmöllä, kunnes se juuri alkaa savuta — n. 200 °C. Kaada se kerralla koristeiden päälle: se sihisee, roiskuu ja lakastuttaa kevätsipulin ja inkiväärin yhdessä dramaattisessa hetkessä."
+    ]
+  },
+  {
+    "id": "forkrecipe-steamed-mussels",
+    "title": "Moules marinières (simpukat valkoviinikastikkeessa)",
+    "description": "Simpukoita höyrytetään auki valkoviinissä salottisipulin, valkosipulin ja voin kanssa, ja kuoret toimivat omana astianaan suolaiselle, aromaattiselle keitinliemelle — täydellinen rapean leivän tai tuplapaistettujen ranskalaisten kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "cookTimeMin": 10,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["simpukat", "ranskalainen", "äyriäiset", "nopea"],
+    "ingredients": [
+      "1 kg tuoreita sinisimpukoita, puhdistettuina ja parrattomina",
+      "2 dl kuivaa valkoviiniä (esim. Muscadet tai Chablis)",
+      "3 isoa salottisipulia, ohuina viipaleina",
+      "3 valkosipulinkynttä, ohuina viipaleina",
+      "60 g kylmää voita, kuutioituna",
+      "20 g tuoretta lehtipersiljaa, karkeasti hienonnettuna",
+      "60 ml kuohukermaa (valinnainen, à la crème -versioon)",
+      "½ tl mustapippuria, vastarouhittuna",
+      "2 laakerinlehteä"
+    ],
+    "instructions": [
+      "Huuhtele simpukat kylmän juoksevan veden alla ja harjaa kuoret jäykällä harjalla, jotta merirokot ja hiekka irtoavat. Vedä parta — kuoresta työntyvä kuituinen tupsu — irti tarttumalla siihen tiukasti ja vetämällä kohti kuoren saranapäätä. Heitä pois kaikki halkeilleet simpukat sekä ne, jotka ovat auki eivätkä sulkeudu, kun niitä napauttaa rystysillä pöytää vasten. Ne ovat kuolleita eivätkä syötäväksi kelpaavia.",
+      "Sulata 30 g voista padassa, joka on tarpeeksi suuri pitämään kaikki simpukat ja antamaan niille tilaa höyrytä (vähintään 6 litran pata 1 kg:lle simpukoita). Kuullota salottisipulia ja valkosipulia laakerinlehden ja muutaman mustapippurirouheen kanssa keskilämmöllä 3–4 minuuttia, kunnes salottisipuli on täysin pehmeää ja läpikuultavaa. Niiden ei pidä värjäytyä lainkaan — tavoitteena on makea, lempeä aromipohja, ei karamellisoitunut. Lisää viini ja kuumenna kiivaaseen kiehuntaan.",
+      "Kaada kaikki puhdistetut simpukat kiehuvaan viinipohjaan yhdellä varmalla liikkeellä. Peitä pata heti tiiviillä kannella. Kypsennä mahdollisimman kovalla lämmöllä 3–4 minuuttia, ravistaen pataa kahvoista pitäen kerran tai kahdesti, jotta simpukat sekoittuvat. Padan sisään loukkuun jäänyt höyry kypsentää ne joka puolelta yhtä aikaa. 3 minuutin kuluttua nosta kansi ja tarkista — suurimman osan pitäisi olla auki. Pane kansi takaisin vielä 60 sekunniksi, jos osa on yhä kiinni.",
+      "Poista ja heitä pois kaikki simpukat, jotka eivät ole auenneet. Jos käytät kermaa, kaada se nyt pataan ja sekoita — kuumenna takaisin kiehuvaksi 60 sekunniksi, kunnes kerma on sekoittunut viini- ja simpukkaliemeen. Ota pois liedeltä. Lisää loput kylmät voikuutiot paloina, pyöritellen pataa niin, että voi emulgoituu liemeen sulamatta täysin — tavoitteena on kiiltävä, hieman sakeutunut liemi, ei öljyinen. Ripottele hienonnettu persilja päälle. Tarjoile heti suoraan padasta lämmitetyissä kulhoissa runsaan liemen ja leivän kera."
+    ]
+  },
+  {
+    "id": "forkrecipe-sticky-rice",
+    "title": "Tahmea riisi (Khao Niao)",
+    "description": "Pohjois-Thaimaan jokapäiväinen tahmea riisi — liotetaan yön yli ja höyrytetään bambukorissa kiehuvan vesipadan päällä, kunnes jyvät muuttuvat läpikuultaviksi ja tahmeiksi, täydellisiä pyöriteltäväksi palloiksi ja upotettavaksi mihin tahansa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "cookTimeMin": 20,
+    "totalTimeMin": 360,
+    "category": "Lisukkeet",
+    "tags": ["riisi", "thaimaalainen", "lisuke", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "400 g thaimaalaista tahmeaa (glutinoosi) riisiä, pitkäjyväistä",
+      "n. 1200 ml vettä liotukseen",
+      "n. 1500 ml vettä höyrytykseen (padan pohjalle)"
+    ],
+    "instructions": [
+      "Huuhtele tahmea riisi kylmän juoksevan veden alla, pyörittäen kädellä, kunnes vesi juoksee lähes kirkkaana — tämä poistaa ylimääräisen pintatärkkelyksen, joka muuten tekisi kypsästä riisistä tahmeaa väärällä tavalla eikä sopivasti tarttuvaa. Siirrä iso kulhoon ja peitä kylmällä vedellä vähintään 5 cm:n verran. Liota vähintään 4 tuntia; yön yli (8–12 tuntia) on vahvasti suositeltavaa. Jyvien on oltava täysin veteen imeytyneitä ennen höyrytystä — ilman tätä liotusta jokaisen jyvän sisus jää kovaksi ja liiduksi riippumatta höyrytysajasta. Riisi on valmis valutettavaksi, kun jokainen jyvä on turvonnut, muuttunut liiduntavalkoiseksi läpikotaisin ja tuntuu pehmeältä kahden sormen välissä painettaessa, mutta ei murru.",
+      "Kaada kiehuva vesi leveään savipataan, wokkiin tai isoon kattilaan — mikä tahansa sopii bambuhöyrytinkoriin (tai muslinilla vuorattuun lämmönkestävään siivilään). Veden tulee olla tarpeeksi syvässä, ettei se kosketa korin pohjaa, mutta ei niin korkealla, että sitä pitäisi täyttää usein. Kuumenna täyteen, kiivaaseen kiehuntaan ennen riisin lisäämistä. Vuoraa bambukori yhdellä kerroksella kosteaa juustokangasta tai muslinia, jotta riisi ei putoa säleiden läpi.",
+      "Levitä valutettu tahmea riisi tasaisesti vuorattuun bambukoriin enintään 4 cm paksuiseksi kerrokseksi. Peitä ja höyrytä kiivaasti kiehuvan veden päällä 12 minuuttia. Kuumuus hyydyttää ensin tärkkelyksen uloimmat kerrokset. 12 minuutin jälkeen käännä riisimassa liinan avulla ympäri — tämä on keskeinen vaihe, joka varmistaa tasaisen kypsymisen molemmilta pinnoilta. Pohjakerros näyttää jo kiiltävältä ja hieman läpikuultavalta; pinta näyttää yhä liidunvalkoiselta. Käännön jälkeen tasoita massa ja jatka höyrytystä vielä 8–10 minuuttia.",
+      "Kun höyrytystä on takana yhteensä 20–22 minuuttia (12 minuuttia + 8–10 minuuttia käännön jälkeen), poista kori padalta. Maista muutama jyvä massan keskeltä — niiden pitäisi olla tasaisen mureita, tahmeita ja hieman makeita, ilman liiduista tai kovaa ydintä. Käännä riisi liinasta perinteiseen tahmean riisin tarjoilukoriin (krathip) tai peitettyyn kulhoon, joka on vuorattu puhtaalla liinalla, jotta riisi pysyy lämpimänä eikä kuivu. Älä jätä sitä avonaiseksi — se jäykistyy minuuteissa. Tahmeaa riisiä syödään käsin: nypitään pieni määrä ja pyöritetään palloksi sormin, käyttäen riisin omaa lämmintä, muovautuvaa rakennetta tarttumapintana."
+    ]
+  },
+  {
+    "id": "forkrecipe-sticky-toffee-pudding",
+    "title": "Sticky toffee pudding",
+    "description": "Tiivis Medjool-taatelisponkki, joka leivotaan juuri ja juuri kypsäksi ja tummaksi, liotetaan sitten lämpimässä toffeekastikkeessa ja viimeistellään kylmällä kermavalulla — intensiivisen kostea ja karamellinmakea.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 35,
+    "cookTimeMin": 40,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["jälkiruoka", "kakku", "englantilainen", "taateli"],
+    "ingredients": [
+      "Kakku:",
+      "175 g taateleita (kivettömiä, esim. Medjool), karkeasti pilkottuina",
+      "175 ml kiehuvaa vettä",
+      "120 g vehnäjauhoja",
+      "90 g fariinisokeria",
+      "1 kananmuna",
+      "60 g voita, huoneenlämpöistä",
+      "1 tl ruokasoodaa",
+      "Toffeekastike:",
+      "175 ml kuohukermaa",
+      "90 g fariinisokeria",
+      "60 g voita",
+      "ripaus suolaa",
+      "½ tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Laita kivettömät taatelit lämmönkestävään kulhoon ja kaada niiden päälle kiehuva vesi. Sekoita joukkoon ruokasooda — se kuohuu ja vaahtoaa, ja taatelit alkavat pehmetä ja tummua. Anna liota 10 minuuttia ja soseuta sitten tasaiseksi, tummaksi, kiiltäväksi soseeksi. Sooda reagoi taateleiden luonnollisten happojen kanssa tuottaen hiilidioksidia ja tekee samalla taikinasta kevyemmän.",
+      "Vatkaa huoneenlämpöinen voi ja fariinisokeri vaaleaksi, kuohkeaksi ja tilavuudeltaan kasvaneeksi seokseksi — 3–4 minuuttia käsin tai 2 minuuttia sähkövatkaimella. Lisää kananmuna vatkaten joukkoon, kaapien kulhon reunoja välillä. Lisää vanilja ja suola. Seos saattaa näyttää hieman juoksettuneelta munan lisäyksen jälkeen — tämä on normaalia fariinisokerin kanssa ja tasaantuu, kun jauhot ja taatelisose lisätään. Älä vatkaa liikaa munan lisäämisen jälkeen.",
+      "Siivilöi jauhot vatkatun seoksen päälle ja taittele lastalla laajoin vedoin, kunnes seos on juuri yhdistynyt — älä vatkaa. Kaada sitten joukkoon lämmin taatelisose ja taittele uudelleen, kunnes taikina on tasaista. Se on löysempää kuin tavallinen kakkutaikina — lähes kaadettavaa — ja hyvin tummanruskeaa. Kaada voideltuun 20 cm:n neliömäiseen vuokaan tai yksittäisiin dariole-vuokiin. Paista 180 °C:ssa 25–30 minuuttia (tai 15–18 minuuttia yksittäisille vuoille), kunnes tikusta tuleva taikina on kosteanmurenevaa.",
+      "Paista 180 °C:ssa 25–30 minuuttia. Vanukas on valmis, kun keskelle pistetystä tikusta tulee kosteita, tahmeita muruja — ei märkää taikinaa, ei kuivaa puhdasta tikkua. Pinnan pitäisi olla tumma ja hieman jouheva, irtoamassa vuoan reunoista. Älä ylikypsennä — vanukas liotetaan toffeekastikkeessa ja se jatkaa hieman kypsymistä kastikkeen lämmöstä, joten pysy mieluummin kostealla puolella.",
+      "Yhdistä kerma, fariinisokeri, voi ja suolaripaus paksupohjaiseen kattilaan. Kuumenna keskilämmöllä sekoittaen, kunnes voi sulaa ja sokeri liukenee. Kuumenna lempeään kiehuntaan ja kypsennä sekoittaen 3–4 minuuttia, kunnes kastike sakenee tarpeeksi peittämään lusikan selän ja on tummunut syvän karamellinväriseksi. Se sakenee lisää jäähtyessään. Kaada suoraan sponkin päälle tai pidä lämpimänä kattilassa. Tarjoiluhetkellä kaada kuuma kastike vanukkaan päälle ja katso sen imeytyvän sisään."
+    ]
+  },
+  {
+    "id": "forkrecipe-stir-fried-bok-choy",
+    "title": "Wokattu pak choi",
+    "description": "Paksoita paistetaan polttavan kuumassa wokissa valkosipulin ja osterikastikkeen välähdyksen kanssa — lehdet lakastuvat mutta varret pysyvät rapeina, kaikki kiiltävän, suolaisen glaseerauksen peitossa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "cookTimeMin": 5,
+    "totalTimeMin": 15,
+    "category": "Lisukkeet",
+    "tags": ["kasvislisuke", "aasialainen", "wokki", "nopea"],
+    "ingredients": [
+      "500 g pak choita (baby bok choy), puolitettuna pituussuunnassa juuresta",
+      "2 rkl mauteltonta öljyä (esim. rypsiöljyä)",
+      "5 valkosipulinkynttä, ohuina viipaleina",
+      "3 rkl osterikastiketta",
+      "1 rkl shaoxing-riisiviiniä",
+      "½ tl hienoa suolaa",
+      "2 tl seesamiöljyä (viimeistelyyn)",
+      "2 rkl vettä tai lientä"
+    ],
+    "instructions": [
+      "Puolita paksoit pituussuunnassa juuren läpi — juuri pitää lehdet yhdessä ja pitää kummatkin puoliskot ehjinä paiston aikana. Pese puoliskot huolellisesti kylmässä vedessä, erotellen sisälehtiä hieman, jotta hiekka ja lika irtoavat niiden välistä. Kuivaa huolellisesti liinalla tai linkoamalla — ylimääräinen vesi paksoilla laskee wokin lämpötilaa dramaattisesti heti kun ne osuvat kuumaan öljyyn, jolloin tuloksena on höyrytetyt eivätkä wokissa korventuneet vihannekset. Valmistele kaikki muu ennen wokin kuumentamista: wokkaus etenee liian nopeasti puolikypsennyksen aikaiseen valmisteluun.",
+      "Kuumenna wokki polttimen täydellä teholla ja kuumenna sitä kuivana 2–3 minuuttia, kunnes se alkaa savuta. Lisää öljy ja pyörittele, jotta se peittää pinnan. Öljyn pitäisi kiiltää ja savuta 5 sekunnin kuluessa wokkiin osumisesta. Tämä vaihe — kantoniksi 'hei', eli wokin henkäys — antaa wokatuille vihanneksille niille tyypillisen korventuneen, hieman savuisen, korkean lämmön syvyyden, jota kylmällä pannulla ei saavuteta. Kotilieden poltin ei koskaan vastaa ravintolan wok-rengasta, mutta täysi lämpö ja esikuumennettu wokki kaventavat eroa huomattavasti.",
+      "Lisää valkosipulisiivut kuumaan öljyyn ja pyörittele 15–20 sekuntia, kunnes ne ovat kullankeltaisia ja tuoksuvat — eivät ruskeita eivätkä palaneita. Lisää heti paksoit leikkuupinta alaspäin yhteen kerrokseen äläkä liikuta niitä 30 sekuntiin, jotta leikkuupinta ehtii hieman korventua. Lisää shaoxing-viini — se leimahtaa ja höyryää rajusti. Pyörittele kaikkea voimakkaasti wokkikauhalla 1 minuutin ajan. Lisää vesiloraus ja peitä 30 sekunniksi, jotta varret höyrystyvät läpi. Poista kansi, pyörittele vielä kerran ja mausta suolalla. Kokonaiskypsennysaika paksoin lisäämisestä pois ottamiseen on 2–3 minuuttia. Pidempään kypsennettynä lehdet muuttuvat kaalinruskeiksi ja varret menettävät rapeutensa.",
+      "Ota wokki pois liedeltä (tai siirrä paksoit wokin laitaan). Valuta osterikastike paksoiden päälle ja pyörittele peittääksesi — vain 4–5 nopeaa käännettä riittää levittämään sen. Lisää seesamiöljy ohuena valuna wokin reunaa pitkin (tai suoraan paksoiden päälle). Pyörittele vielä kerran. Vihannesten lämpö riittää lämmittämään kastikkeen; älä palauta wokkia liedelle, sillä osterikastikkeen sokerit muuten korventuvat ja muuttuvat kitkeriksi. Annostele heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-stuffed-bell-peppers",
+    "title": "Välimerelliset täytetyt paprikat",
+    "description": "Makeita punaisia paprikoita täytetään yrttisellä riisillä, pinjansiemenillä ja korintteilla, ja ne paistetaan uunissa, kunnes paprikat pehmenevät ja painuvat kasaan tuoksuvan täytteensä ympärille.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "kreikkalainen", "uuniruoka"],
+    "prepTimeMin": 30,
+    "cookTimeMin": 45,
+    "totalTimeMin": 75,
+    "ingredients": [
+      "6 isoa punaista paprikaa",
+      "200 g pitkäjyväistä valkoista riisiä, huuhdeltuna",
+      "150 g sipulia, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "50 g pinjansiemeniä",
+      "40 g kuivattuja korintteja (tai rusinoita)",
+      "15 g tuoretta minttua, hienonnettuna",
+      "15 g lehtipersiljaa, hienonnettuna",
+      "60 ml extra-virgin-oliiviöljyä",
+      "4 dl tomaattipassataa",
+      "1½ tl hienoa suolaa",
+      "½ tl kanelia"
+    ],
+    "instructions": [
+      "Kuumenna kattilallinen suolattua vettä kiehuvaksi. Lisää huuhdeltu riisi ja keitä tasan 7 minuuttia — riisin tulee olla puolikypsää, keskeltä yhä liiduntavaa. Valuta hyvin ja levitä pellille jäähtymään, jotta kypsyminen pysähtyy.",
+      "Kuumenna oliiviöljy leveässä pannussa keskilämmöllä. Lisää sipuli ja kypsennä sekoittaen, kunnes se on pehmeää ja läpikuultavaa, noin 8 minuuttia. Lisää valkosipuli ja pinjansiemenet; kypsennä 2–3 minuuttia, kunnes pinjansiemenet ovat kevyesti kullankeltaisia. Sekoita joukkoon korintit, kaneli ja suola. Ota pois liedeltä.",
+      "Yhdistä paistettu pohja puolikypsän riisin, mintun ja persiljan kanssa. Sekoita tasaiseksi. Maista — täytteen tulisi olla reilusti maustettu, sillä riisi imee lisää suolaa passatasta paistaessa. Leikkaa paprikoista kannet ja poista siemenet ja väliseinät. Täytä kukin paprika noin kolmeen neljäsosaan asti — riisi laajenee kypsyessä.",
+      "Kaada tomaattipassata uunivuoan pohjalle paprikoiden ympärille. Valuta oliiviöljyä paprikoiden päälle. Peitä tiiviisti foliolla ja paista 180 °C:ssa 40 minuuttia. Poista folio ja paista vielä 15 minuuttia, kunnes paprikoiden kuori on ryppyinen, mureaa ja hieman korventunut kärjistä."
+    ]
+  },
+  {
+    "id": "forkrecipe-stuffed-eggplant",
+    "title": "İmam bayıldı (täytetty munakoiso)",
+    "description": "Hoikkia munakoisoja viilletään ja suolataan, täytetään sitten runsaasti makealla sipulilla, valkosipulilla ja kypsällä tomaatilla, jotka haudutetaan pehmeiksi oliiviöljylammikoissa — haudutetaan, kunnes liha antaa täysin periksi ja nimen legenda todistaa itsensä todeksi: imaami pyörtyi nautinnosta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 35,
+    "cookTimeMin": 55,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "turkkilainen", "uuniruoka"],
+    "ingredients": [
+      "4 pitkää munakoisoa (japanilaista tai italialaista lajiketta), n. 150 g/kpl",
+      "300 g keltasipulia, ohuina puolikuunmuotoisina viipaleina",
+      "8 valkosipulinkynttä, ohuina viipaleina",
+      "240 g kypsiä tomaatteja (esim. luumutomaatteja), kuorittuna ja pilkottuna",
+      "180 ml extra-virgin-oliiviöljyä",
+      "30 g lehtipersiljaa, karkeasti hienonnettuna",
+      "1½ tl hienoa merisuolaa",
+      "2 tl sokeria",
+      "120 ml vettä"
+    ],
+    "instructions": [
+      "Pese ja kuivaa munakoisot. Jätä varsi paikalleen tarjoilua varten. Tee jokaiseen munakoisoon syvä pituussuuntainen viilto kärjestä noin 2 cm:n päähän varresta, leikaten kolme neljäsosaa läpi — näin syntyy tasku. Hiero viillon sisäpintaan runsaasti hienoa suolaa. Aseta munakoisot viiltopuoli alaspäin siivilään 30 minuutiksi, jotta ylimääräinen kosteus ja mahdollinen karvaus poistuvat.",
+      "Kuumenna puolet oliiviöljystä leveässä pannussa keskilämmöllä. Lisää sipuliviipaleet, iso ripaus suolaa ja sokeri. Kypsennä hitaasti, sekoittaen muutaman minuutin välein, 15 minuuttia, kunnes sipuli on syvän kullankeltaista ja hillomaista. Lisää valkosipuli ja kypsennä 3 minuuttia. Lisää tomaatit ja kypsennä, kunnes seos on paksua, yhtenäistä ja öljy on noussut pintaan — vielä 8 minuuttia. Ota pois liedeltä ja sekoita joukkoon persilja.",
+      "Kuumenna loput oliiviöljystä leveässä uuninkestävässä pannussa tai padassa keski-kovalla lämmöllä. Aseta munakoisot viiltopuoli alaspäin ja paista 3–4 minuuttia, kunnes leikkuupinta on kullankeltainen. Käännä varovasti ja paista kuoripuolta 2–3 minuuttia. Munakoison pitäisi jo alkaa pehmetä. Nosta hetkeksi leikkuulaudalle.",
+      "Täytä jokainen munakoiso runsaasti, avaten viillon sormin ja painaen täytettä sisään niin, että se kohoaa kummuksi aukon yläpuolelle. Asettele täytetyt munakoisot tiiviisti leveään, paksupohjaiseen pannuun tai patimeen, viiltopuoli ylöspäin. Kaada jäljelle jäänyt täyteneste ja vesi munakoisojen ympärille (ei niiden päälle). Valuta loppu oliiviöljy munakoisojen päälle. Kuumenna loivaan kiehuntaan, peitä ja kypsennä matalalla lämmöllä 35–45 minuuttia, kunnes munakoiso on täysin mureaa. Anna jäähtyä huoneenlämpöiseksi ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-stuffed-peppers",
+    "title": "Täytetyt paprikat (gemista)",
+    "description": "Pullukoita paprikoita täytetään yrttisellä riisillä, pinjansiemenillä ja korintteilla seoksessa, joka tuoksuu tuoreelta mintulta ja tillille, ja paistetaan tomaattisessa liemessä, kunnes riisi on turvonnut ja paprikat mureita ja kärjistä hieman korventuneita — mummon sunnuntain gemista.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "kreikkalainen", "uuniruoka"],
+    "prepTimeMin": 30,
+    "cookTimeMin": 60,
+    "totalTimeMin": 90,
+    "ingredients": [
+      "6 isoa paprikaa (sekoitettuja värejä)",
+      "150 g pitkäjyväistä valkoista riisiä, keittämätöntä",
+      "1 iso keltasipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "200 g tomaattimurskaa (säilyke)",
+      "60 ml extra-virgin-oliiviöljyä",
+      "3 rkl tuoretta tilliä, hienonnettuna",
+      "2 rkl tuoretta minttua, hienonnettuna",
+      "3 rkl lehtipersiljaa, hienonnettuna",
+      "30 g korintteja tai rusinoita",
+      "30 g pinjansiemeniä, kevyesti paahdettuina",
+      "1½ tl hienoa suolaa",
+      "½ tl mustapippuria",
+      "3 dl lämmintä vettä tai kasvislientä",
+      "¼ tl kanelia",
+      "¼ tl maustepippuria"
+    ],
+    "instructions": [
+      "Leikkaa jokaisesta paprikasta kansi noin 1,5 cm varren yläpuolelta ja säästä kannet. Poista pienellä veitsellä ja sormin kaikki siemenet ja valkoiset väliseinät paprikoiden sisältä. Asettele paprikat pystyyn kevyesti öljyttyyn uunivuokaan, johon ne mahtuvat tiiviisti ja tukevat toisiaan täytettyinä. Esikuumenna uuni 175 °C:een.",
+      "Kuumenna leveässä pannussa 3 ruokalusikallista oliiviöljyä keskilämmöllä. Lisää hienonnettu sipuli ja valkosipuli. Kypsennä sekoittaen 8–10 minuuttia, kunnes ne ovat täysin pehmeitä, läpikuultavia ja juuri alkaneet kullankeltaistua reunoilta.",
+      "Lisää pannuun keittämätön riisi, tomaattimurska, kaneli, maustepippuri, suola ja pippuri. Sekoita hyvin, jotta riisi peittyy tomaatilla ja öljyllä. Kypsennä 2 minuuttia, kunnes riisi muuttuu reunoilta läpikuultavaksi. Ota pois liedeltä ja käännä joukkoon tilli, minttu, persilja, korintit ja paahdetut pinjansiemenet. Maista täyte ja säädä mausteet — sen tulisi olla hyvin maustettu, sillä maut tasaantuvat uunissa.",
+      "Lusikoi riisitäyte paprikoihin täyttäen vain kolmeen neljäsosaan, jotta riisille jää tilaa laajeta. Aseta kannet takaisin paikoilleen. Kaada lämmin liemi vuoan pohjalle paprikoiden ympärille — sen pitäisi nousta noin 1 cm paprikoiden sivuilla. Valuta loput oliiviöljystä paprikoiden kansille. Paista 175 °C:ssa 55–65 minuuttia, tarkistaen 45 minuutin kohdalla ja lisäten nestettä, jos vuoka näyttää kuivalta. Paprikat ovat valmiita, kun ne ovat täysin mureita ja hieman kasaan painuneita."
+    ]
+  },
+  {
+    "id": "forkrecipe-succotash",
+    "title": "Eteläisten osavaltioiden succotash",
+    "description": "Kesäinen juhla makeasta maissista, limapavuista ja kirsikkatomaateista, jotka kypsennetään pekonin rasvassa — vaatimattomat kasvikset muuttuvat rikkaiksi ja rakenteikkaiksi, viimeistellään voilla ja yrteillä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "cookTimeMin": 5,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["lisuke", "amerikkalainen", "pekoni", "kesä"],
+    "ingredients": [
+      "400 g tuoreita maissinjyviä (noin 4 tähkästä)",
+      "300 g tuoreita tai pakastettuja limapapuja",
+      "200 g kirsikkatomaatteja, puolitettuna",
+      "100 g siivutettua pekonia, suikaloituna",
+      "120 g sipulia, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "30 g voita",
+      "5 g tuoretta timjamia",
+      "10 g tuoretta basilikaa, revittynä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita pekonisuikaleet kylmään, leveään pannuun tai valurautapannuun. Kuumenna keskilämmöllä ja kypsennä aika ajoin sekoittaen, kunnes rasva on sulanut täysin ja pekoni on tummanruskeaa ja rapeaa — noin 8–10 minuuttia. Nosta pekoni reikäkauhalla talouspaperille. Jätä sulanut rasva pannuun.",
+      "Lisää samaan pannuun, jossa pekonin rasva on jäljellä, sipuli ja kypsennä keskilämmöllä, kunnes se on pehmentynyt ja juuri alkanut kullankeltaistua, noin 5 minuuttia. Lisää maissinjyvät ja limapavut sekä timjami. Kypsennä aika ajoin sekoittaen, kunnes maissi on mureaa ja alkaa hieman korventua ja limapavut ovat kuumentuneet ja kermaisia — noin 6–8 minuuttia.",
+      "Lisää pannuun valkosipuli ja puolitetut kirsikkatomaatit. Kypsennä vain 2 minuuttia — sen verran, että tomaattien kuori juuri alkaa haljeta menettämättä muotoaan. Ota pois liedeltä. Lisää kylmä voi ja pyörittele pannua, jotta se sulaa ja emulgoituu vihannesten joukkoon. Mausta runsaasti suolalla ja pippurilla. Ripottele revitty basilika ja murustettu rapea pekoni päälle. Tarjoile heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-sukuma-wiki",
+    "title": "Sukuma wiki",
+    "description": "Lehtikaalia haudutetaan tomaatin, sipulin ja hiven chilin kanssa — Kenian jokapäiväinen vihreä, jonka nimi tarkoittaa swahiliksi 'työnnä viikkoa', ruoka joka kypsennetään joka kodissa Nairobista Mombasaan, samalla vaatimaton ja syvästi tyydyttävä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "cookTimeMin": 5,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "afrikkalainen", "lisuke"],
+    "ingredients": [
+      "500 g lehtikaalia (sukuma wiki), varret poistettuina, suikaloituna",
+      "100 g sipulia, ohuina viipaleina",
+      "100 g kypsiä tomaatteja, pilkottuna",
+      "2 valkosipulinkynttä ja 1 tuore vihreä chili, hienonnettuna",
+      "2 rkl kasviöljyä tai palmuöljyä",
+      "1¼ tl suolaa",
+      "2 rkl vettä tai kevyttä lientä"
+    ],
+    "instructions": [
+      "Irrota kova keskiruoti jokaisesta lehtikaalen lehdestä taittamalla lehti pituussuunnassa kaksinkerroin ja vetämällä ruoti irti. Pinoa useita lehtiä, kääri tiukasti sikarin muotoon ja viipaloi ohuiksi suikaleiksi (chiffonade), noin 1 cm leveiksi. Ohuemmat suikaleet kypsyvät nopeammin ja tasaisemmin — paksut suikaleet tarvitsevat paljon pidemmän kypsennyksen ja jäävät sitkeiksi. Pese kylmässä vedessä ja valuta, mutta älä kuivaa täysin — jäljelle jäävä vesi auttaa lehtiä höyrystymään kypsennyksen aikana.",
+      "Kuumenna öljy leveässä pannussa keski-kovalla lämmöllä. Lisää viipaloitu sipuli ja kypsennä 5–6 minuuttia, kunnes se on pehmentynyt ja alkaa kullankeltaistua. Lisää valkosipuli ja vihreä chili ja kypsennä 1 minuutti. Lisää tomaatit ja kypsennä 3–4 minuuttia sekoittaen, kunnes ne hajoavat karkeaksi kastikkeeksi. Tomaatti tuo nesteen ja happamuuden, joka tasapainottaa lehtikaalin karvautta.",
+      "Lisää lehtikaalisuikaleet pannuun kerralla — niitä näyttää olevan liikaa, mutta määrä vähenee rajusti. Sekoita voimakkaasti pihdeillä, jotta ne peittyvät tomaatti-sipulikastikkeella. Mausta suolalla. Lisää vesiloraus ja peitä pannu 2 minuutiksi, jotta vihreät höyrystyvät. Poista kansi, sekoita uudelleen ja kypsennä vielä 3–5 minuuttia kovalla lämmöllä, kunnes vihreät ovat täysin lakastuneet mutta säilyttävät silti elävän vihreän värin ja miellyttävän puraisun.",
+      "Siirrä tarjoiluastiaan ja tarjoile heti. Sukuma wiki ei odota ketään — se menettää väriään ja rakennettaan joka minuutti, jonka se seisoo. Perinteinen lisuke on ugali (jäykkä maissipuuro), joka imee itseensä vihanneksista irronneet nesteet. Paistettu kananmuna on keniattaisen työläisperheen tapa tehdä siitä täysi ateria."
+    ]
+  },
+  {
+    "id": "forkrecipe-sun-dried-tomato-pesto",
+    "title": "Aurinkokuivattujen tomaattien pesto",
+    "description": "Sisilialainen pesto, joka syntyy kesän runsaudesta ja auringon kärsivällisyydestä — öljyssä säilöttyjä kuivattuja tomaatteja jauhetaan mantelien, valkosipulin ja basilikan kanssa syväksi, rubiininpunaiseksi tahnaksi, joka tarttuu rigatoniin kuin sametti ja maistuu säilötyltä elokuulta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["pesto", "italialainen", "kasvis", "pasta"],
+    "ingredients": [
+      "200 g aurinkokuivattuja tomaatteja (öljyssä, valutettuna)",
+      "60 g manteleita, kuorittuina",
+      "3 valkosipulinkynttä, kuorittuina",
+      "40 g tuoretta basilikaa",
+      "1 dl extra-virgin-oliiviöljyä (mieluiten sisilialaista)",
+      "50 g raastettua pecorino romanoa",
+      "suolaa ja mustapippuria",
+      "1 tl kuivattuja chilihiutaleita (peperoncino)"
+    ],
+    "instructions": [
+      "Yhdistä kuoritut mantelit ja valkosipulinkynnet monitoimikoneessa. Pulssaa 10–12 kertaa, kunnes seos on karkeaa ja epätasaista — mantelien tulisi hienontua pieniksi muruiksi, ei täysin sileiksi. Liiallinen käsittely tässä vaiheessa johtaa öljyiseen, rakenteettomaan pestoon. Sisiliassa tämä tehtäisiin marmorihuhmaressa pyörivin liikkein — se menetelmä tuottaa hieman karkeamman, persoonallisemman rakenteen, jos sinulla on kärsivällisyyttä ja huhmare.",
+      "Lisää aurinkokuivatut tomaatit, basilika ja chilihiutaleet monitoimikoneeseen. Pulssaa 8–10 kertaa, kunnes seos yhdistyy — tomaatit hajoavat hitaasti vapauttaen tiivistynyttä öljyään mantelimurun joukkoon. Seos alkaa tässä vaiheessa näyttää lähes mustanpunaiselta, basilikan tuodessa vihreitä pilkkuja. Sen pitäisi olla hyvin karkeaa ja kuivan näköistä — oliiviöljy tulee seuraavaksi ja muuttaa rakenteen täysin.",
+      "Pidä monitoimikone käynnissä ja valuta oliiviöljy hitaasti joukkoon. Lisää raastettu pecorino romano. Pulssaa yhdistääksesi. Pesto muuttuu kuivasta ja muruisesta yhtenäiseksi, kiiltäväksi, levitettäväksi tahnaksi. Mausta suolalla ja mustapippurilla. Maista: sen pitäisi olla voimakkaan suolaista, ja siinä tulisi olla syvä tomaatintäyteläisyys ja kirkas yrttinuotti. Jos liian paksua, lisää lisää oliiviöljyä. Säilytä peitettynä öljyssä hapettumisen estämiseksi — ohut öljykerros pinnan päällä ennen jääkaappiin laittamista pidentää säilyvyyttä useilla päivillä."
+    ]
+  },
+  {
+    "id": "forkrecipe-sunday-sausage-ragu-rigatoni",
+    "title": "Sunnuntain makkararagu rigatonille",
+    "description": "Fenkolilla maustettua makkaraa ruskistetaan kovaa, haudutetaan sitten hitaasti viinin ja tomaatin kanssa paksuksi, ruosteenpunaiseksi kastikkeeksi, joka tarttuu jokaisen rihlatun rigatoniputken sisään ja viimeistellään parmesaanilumella.",
+    "servings": 6,
+    "prepTimeMin": 40,
+    "cookTimeMin": 95,
+    "totalTimeMin": 135,
+    "category": "Pääruoat",
+    "tags": ["pasta", "makkara", "italialainen", "arkiruoka"],
+    "ingredients": [
+      "750 g italialaista makkaraa (makeaa tai tulista), ilman suolta",
+      "2 rkl oliiviöljyä",
+      "1 keltasipuli, hienonnettuna",
+      "1 porkkana, hienonnettuna",
+      "1 varsi selleriä, hienonnettuna",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "30 g tomaattipyreetä",
+      "½ tl chilihiutaleita",
+      "180 ml kuivaa punaviiniä",
+      "1 tlk (794 g) tomaattimurskaa",
+      "1 laakerinlehti",
+      "600 g rigatonia (kuivattua)",
+      "60 g raastettua parmesaania, plus lisää tarjoiluun",
+      "8 basilikanlehteä, revittynä",
+      "suolaa (kastikkeeseen ja pastaveteen)",
+      "n. 2½ dl vettä (purkin huuhteluun)"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy paksupohjaisessa, 5 litran padassa keski-kovalla lämmöllä. Lisää makkara isoina paloina ja painele se tasaiseksi kerrokseksi. Anna olla koskematta 4–5 minuuttia, kunnes alle muodostuu syvä ruskea kuori, murustele se sitten puulusikalla pieniksi muruiksi ja jatka kypsennystä vielä 5–6 minuuttia, kunnes se on ruskistunut kauttaaltaan. Nosta makkara reikäkauhalla pois, jättäen rasva pataan.",
+      "Laske lämpö keskitasolle. Lisää sipuli, porkkana, selleri ja ripaus suolaa makkaran rasvaan ja kypsennä sekoittaen ja pohjaa raapien 8–10 minuuttia, kunnes pehmeitä ja läpikuultavia. Lisää valkosipuli ja chilihiutaleet minuutiksi, sekoita sitten joukkoon tomaattipyree ja kypsennä 2–3 minuuttia, kunnes se tummuu kirkkaanpunaisesta tiilenpunaiseksi ja alkaa tarttua pohjaan.",
+      "Kaada viini joukkoon, raaputa pohja puhtaaksi ja kiehauta 2–3 minuuttia, kunnes se on vähentynyt noin puoleen. Lisää tomaattimurska, ruskistettu makkara, laakerinlehti ja n. 2½ dl vettä (huuhtele purkki sillä). Kuumenna kiehuvaksi, laske sitten mahdollisimman hiljaiselle kiehunnalle, peitä osittain ja kypsennä 1 tunti 15 minuuttia – 1 tunti 30 minuuttia, sekoittaen 15 minuutin välein, kunnes paksua. Lisää vesiloraus, jos käy liian kuivaksi. Mausta suolalla ja poista laakerinlehti.",
+      "Noin 20 minuuttia ennen kuin kastike on valmis, kuumenna 5 litraa vettä kiehuvaksi ja suolaa hyvin (noin 1 rkl suolaa 2 litraa kohden). Keitä rigatoni 2 minuuttia pakkauksen ohjetta lyhyemmän ajan. Säästä 2½ dl pastavettä ennen valuttamista.",
+      "Lisää valutettu rigatoni ragupataan keskilämmöllä noin 120 ml:n pastaveden kanssa. Pyörittele 1–2 minuuttia, kunnes kastike tiukkenee ja peittää pastan. Ota pois liedeltä, sekoita joukkoon parmesaani ja basilika; lisää lisää pastavettä, jos näyttää jäykältä. Tarjoile lisäjuuston kera."
+    ]
+  },
+  {
+    "id": "forkrecipe-suya-spiced-beef",
+    "title": "Suya-mausteiset naudanlihavartaat",
+    "description": "Ohuiksi viipaloitua naudanlihaa peitetään runsaalla kuivamausteella jauhetuista paahdetuista maapähkinöistä, inkivääristä, paprikasta ja chilistä — kypsennetään kuumien hiilten päällä, kunnes reunat korventuvat ja suya-mausteskorppi karamellisoituu savuiseksi, pähkiseksi ja raivokkaan aromaattiseksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "cookTimeMin": 60,
+    "totalTimeMin": 80,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "grilli", "pähkinä"],
+    "ingredients": [
+      "600 g ohuesti (5 mm) viipaloitua ulko- tai sisäpaistia, syitä vastaan leikattuna",
+      "180 g paahdettuja maapähkinöitä, jauhettuina",
+      "120 g suya-mausteseosta (paprikaa, cayennepippuria, inkivääriä, valkosipulia, sipulijauhetta)",
+      "30 g suolaa ja lihaliemikuutiota, jauhettuna",
+      "60 ml maapähkinäöljyä tai kasviöljyä",
+      "raakaa sipulia, tomaattia ja suya-maustetta viipaloituna tarjoiluun"
+    ],
+    "instructions": [
+      "Yhdistä jauhetut paahdetut maapähkinät, suya-mausteseos, suola, jauhettu liemikuutio ja öljy kulhossa. Sekoita huolellisesti muruiseksi, hieman öljyiseksi tahnaksi. Maapähkinäjauho imee itseensä öljyn ja mausteet pinnoitteeksi, joka tarttuu lihaan liukumatta pois. Maista sitä — sen tulisi olla voimakkaasti maustettu, hyvin pippurinen ja pähkiä. Jos se tuntuu kuivalta eikä pysy kasassa painettaessa, lisää muutama tippa öljyä.",
+      "Pujota ohuet naudanlihaviipaleet metallivartaisiin tai esiliotettuihin puuvartaisiin kiemuroiden liha edestakaisin siksak-kuvioon, jotta se asettuu tasaisesti eikä kasaannu. Paina suya-mausteisa tahna tiukasti lihan molemmille puolille — työnnä se käsin pintaan kovaa painaen, jotta pinnoite tarttuu. Tahnan pitäisi peittää liha kokonaan. Anna levätä peittämättömänä huoneenlämmössä 1 tunti, tai jääkaapissa yön yli (yön yli marinoidessa maku syvenee).",
+      "Grillaa kuumien hiilien tai hyvin kuuman kaasugrillin päällä (korkea lämpö on välttämätön — suya vaatii voimakkaan, suoran kuumuuden mausteskorpin korventamiseksi pitäen ohuen lihan silti mehukkaana). Aseta vartaat 8–10 cm hiilien yläpuolelle. Kypsennä 3–4 minuuttia puolelta, kääntäen kerran. Maapähkinäskorppiin tulisi muodostua tummia korventumispisteitä ja syvä, savuinen karamellisoituminen. Vältä vartaiden jatkuvaa siirtelyä — anna kuoren muodostua kummallekin puolelle ennen kääntämistä. Jos käytät grillipannua sisätiloissa, kuumenna se maksimilämpötilaan ja kypsennä erissä.",
+      "Nosta vartaat pois lämmöltä ja liu'uta liha tarjoilualustalle, joka on vuorattu sanomalehdellä (perinteinen tapa). Ripottele viipaloitua raakaa sipulia ja tuoretta tomaattia päälle — niiden terävyys ja happamuus leikkaavat läpi rikkaan pähkinäpinnoitteen. Ripottele halutessasi lisää suya-maustetta. Tarjoile heti kuoren vielä rätisevästä kuumana — suya menettää rakenteellisen taikansa 10 minuutin kuluessa tulelta poistamisesta."
+    ]
+  },
+  {
+    "id": "forkrecipe-swedish-meatball-sauce",
+    "title": "Ruotsalaisten lihapullien kastike",
+    "description": "Vaalea, samettisen sileä pannukastike, joka rakennetaan lihapullien ruskistusjäämistä ja rikkaasta naudanlihaliemestä, viimeistellään kermalla ja hiveneellä soijaa — sellainen kastike, joka muuttaa lautasellisen lihapullia joksikin, jota haluat syödä lusikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "cookTimeMin": 5,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "ruotsalainen", "liharuoka"],
+    "ingredients": [
+      "40 g voita",
+      "40 g vehnäjauhoja",
+      "320 ml naudanlihalientä (hyvälaatuista, vähäsuolaista)",
+      "160 ml kuohukermaa",
+      "2 tl soijakastiketta",
+      "¾ tl hienoa merisuolaa",
+      "¼ tl valkopippuria",
+      "1½ tl dijon-sinappia"
+    ],
+    "instructions": [
+      "Samassa pannussa, jossa lihapullat paistettiin (älä pese sitä — paistojäämä on makua), sulata voi keskilämmöllä. Kun voi vaahtoaa, lisää kaikki jauhot kerralla ja sekoita jatkuvasti puulusikalla tai vispilällä. Kypsennä roux tasan 2 minuuttia jatkuvasti sekoittaen, kunnes se tuoksuu kypsältä pikkuleivältä tai murotaikinalta — ei raa'alta jauholta. Rouxin pitäisi näyttää vaaleanruskealta ja olla rakenteeltaan kuin märkä hiekka.",
+      "Lisää naudanlihaliemi vähitellen — aloita pienellä lorauksella (noin 50 ml), vispilöiden voimakkaasti, kunnes se on täysin sekoittunut rouxiin ennen lisäystä. Kun ensimmäinen lisäys on sileä, lisää loput liemestä ohuena, tasaisena virtana jatkuvasti vispilöiden, jotta paakkuja ei synny. Kuumenna kiehuvaksi keskilämmöllä, sekoita usein ja kypsennä 5 minuuttia, kunnes kastike on sakeutunut peittämään lusikan selän. Se vaikuttaa ohuelta — se sakenee lisää, kun kerma lisätään.",
+      "Laske lämpö keskimatalalle. Lisää kuohukerma ja sekoita joukkoon — kastike ohenee hetkeksi, sakenee sitten kiehuessaan. Lisää soijakastike, valkopippuri ja dijon-sinappi. Sekoita hyvin. Maista ja säädä suolaa. Hauduta kevyesti 3–5 minuuttia, kunnes kastike on tarpeeksi paksua peittämään lihapullat runsaasti — sen pitäisi valua hitaana, raskaana nauhana lusikasta. Älä keitä kiivaasti kerman lisäyksen jälkeen, tai se saattaa erottua. Pidä lämpimänä hyvin matalalla lämmöllä kansi raollaan tarjoiluun asti."
+    ]
+  },
+  {
+    "id": "forkrecipe-swedish-meatballs",
+    "title": "Ruotsalaiset lihapullat (köttbullar)",
+    "description": "Pieniä, täydellisen pyöreitä ja mahonginruskeiksi paistettuja lihapullia — puoliksi sikaa, puoliksi naudanlihaa, sidottu kermaan liotetuilla korppujauhoilla ja maustettu maustepippurilla ja valkopippurilla, uivat niin silkkisessä kastikkeessa, ettei juuri muuta tarvita.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "cookTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["liha", "ruotsalainen", "lihapullat", "arkiruoka"],
+    "ingredients": [
+      "Lihapullat:",
+      "400 g naudan jauhelihaa (20 % rasvaa)",
+      "400 g sian jauhelihaa",
+      "60 g korppujauhoja, liotettuna 1 dl:ssa kuohukermaa",
+      "120 g sipulia, raastettuna tai hyvin hienonnettuna",
+      "1 tl maustepippuria, jauhettuna",
+      "½ tl valkopippuria",
+      "suolaa",
+      "voita paistamiseen",
+      "Kastike:",
+      "240 ml kuohukermaa",
+      "240 ml naudanlihalientä",
+      "1 rkl voita",
+      "1 rkl vehnäjauhoja",
+      "suolaa, valkopippuria ja tilkka soijakastiketta maun mukaan"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa naudan ja sian jauheliha, kermaan liotetut korppujauhot, raastettu sipuli, maustepippuri, valkopippuri ja reilu ripaus suolaa. Sekoita käsin, kunnes juuri yhdistynyt — älä työstä liikaa, tai lihapullista tulee tiiviitä ja kovia mureiden sijaan. Kokeile yhtä pientä palloa paistamalla sitä 2 minuuttia kuumalla pannulla ja maistamalla maustetta. Säädä raa'an seoksen mausteisuutta tarpeen mukaan.",
+      "Sulata voita leveässä, paksupohjaisessa pannussa keski-kovalla lämmöllä, kunnes se vaahtoaa ja alkaa sitten laskeutua. Lisää lihapullat yhteen kerrokseen — älä ahdeta liikaa, vaan paista tarvittaessa erissä. Ravista pannua kevyesti 90 sekunnin jälkeen, jotta lihapullat kääntyvät uudelle pinnalle — niiden pyöreä muoto antaa niiden pyöriä itsekseen ravistuksella. Jatka ravistelua ja pyörittämistä 60–90 sekunnin välein yhteensä 6–8 minuuttia, kunnes ne ovat ruskistuneet tasaisesti joka puolelta. Älä käytä lusikkaa kääntämiseen; ravistelu säilyttää niiden pyöreän muodon.",
+      "Samassa pannussa, jossa paistojäämä on jäljellä, sulata pieni nokare voita. Lisää ruokalusikallinen jauhoja ja kypsennä minuutin ajan sekoittaen jatkuvasti paistojäämän sekaan rouxiksi. Vispaa vähitellen joukkoon naudanlihaliemi, raaputtaen kaikki tumma paistojäämä irti. Kuumenna kiehuvaksi, sekoita sitten joukkoon kuohukerma. Hauduta 5 minuuttia, kunnes kastike on tarpeeksi paksua peittämään lusikan. Mausta suolalla, valkopippurilla ja tilkalla soijakastiketta syvyyden vuoksi.",
+      "Palauta kaikki ruskistetut lihapullat kermakastikkeeseen. Hauduta kevyesti matalalla lämmöllä 5 minuuttia, jotta ne lämpenevät läpi ja imevät hieman kastikkeen makua. Älä kiehauta — kova lämpö kiristää lihapullat ja saa kastikkeen erottumaan. Tarjoile munanuudeleiden, perunamuusin tai puolukkahillon kera, tuoreen tillin kanssa koristeltuna."
+    ]
+  },
+  {
+    "id": "forkrecipe-sweet-potato-black-bean-chili",
+    "title": "Bataatti-mustapapuchili",
+    "description": "Paksu, savuinen chili pehmeistä bataattikuutioista ja mustapavuista, haudutettu tulella paahdettujen tomaattien, chipotlen ja juustokuminan kanssa. Makea ja maanläheinen, polttavan lämmin, kirkastettu lopuksi limellä ja korianterilla.",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 40,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["kasvis", "vegaaninen", "chili", "meksikolainen"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 keltasipuli, kuutioituna",
+      "1 punainen paprika, kuutioituna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "30 g tomaattipyreetä",
+      "2 rkl chilijauhetta",
+      "2 tl jauhettua juustokuminaa",
+      "1 tl savustettua paprikajauhetta",
+      "1 tl kuivattua oreganoa",
+      "1 chipotle-chili adobokastikkeessa, hienonnettuna, + 1 tl kastiketta",
+      "600 g bataattia, kuorittuna ja kuutioituna (1,5 cm paloiksi)",
+      "400 g tulella paahdettuja tomaattikuutioita (säilyke)",
+      "5 dl kasvislientä",
+      "480 g mustapapuja, keitettyinä ja valutettuina (n. 2 tölkkiä)",
+      "1 limetin mehu",
+      "15 g korianteria, hienonnettuna",
+      "suolaa",
+      "1 avokado, kuutioituna, tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna öljy padassa keskilämmöllä. Lisää sipuli ja paprika sekä ripaus suolaa ja kypsennä 7–8 minuuttia aika ajoin sekoittaen, kunnes pehmeitä ja alkavat ruskistua reunoilta. Lisää valkosipuli ja kypsennä 30 sekuntia.",
+      "Lisää tomaattipyree, chilijauhe, juustokumina, savustettu paprikajauhe, oregano ja chipotle kastikkeineen. Sekoita jatkuvasti 1–2 minuuttia, jotta mausteet paistuvat öljyssä ja pyree tummuu.",
+      "Lisää bataatti, tomaatit mehuineen, liemi, mustapavut ja 1 tl suolaa. Raaputa pohjaan tarttunut irti. Kuumenna kiehuvaksi, laske sitten lempeälle kiehunnalle, peitä osittain ja kypsennä 25–30 minuuttia aika ajoin sekoittaen, kunnes bataatti on mureaa ja chili on sakeutunut. Murskaa tarvittaessa muutama bataattikuutio pataa vasten, jotta se sakenee lisää.",
+      "Ota pois liedeltä, sekoita joukkoon limemehu ja maista; säädä suolaa. Annostele kulhoihin ja viimeistele korianterilla ja kuutioidulla avokadolla."
+    ]
+  },
+  {
+    "id": "forkrecipe-switchel",
+    "title": "Switchel (haymaker's punch)",
+    "description": "Omenaviinietikkaa, melassia, inkivääriä ja vettä — siirtomaa-ajan amerikkalainen peltotyöläisten juoma, joka edelsi urheilujuomia 300 vuodella. Hapokas, makea, inkiväärinen ja yllättävän virkistävä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 60,
+    "category": "Juomat",
+    "tags": ["juoma", "virvoitusjuoma", "inkivääri", "amerikkalainen"],
+    "ingredients": [
+      "1 dl raakaa omenaviinietikkaa",
+      "80 g melassia tai hunajaa",
+      "2 rkl tuoretta inkivääriä, hienoksi raastettuna",
+      "8 dl kylmää vettä",
+      "1 rkl tuoretta sitruunamehua (valinnainen)"
+    ],
+    "instructions": [
+      "Yhdistä omenaviinietikka, melassi ja raastettu inkivääri isossa purkissa tai kannussa. Vispaa tai sekoita voimakkaasti, kunnes melassi on täysin liuennut — se on paksua ja pyrkii tarttumaan pohjaan. Lisää tarvittaessa pieni vesiloraus, jotta se irtoaa helpommin. Tiiviste on tummaa, siirappista ja voimakkaan makuista.",
+      "Kaada kylmä vesi ja sitruunamehu tiivisteen joukkoon ja sekoita hyvin. Maista ja säädä — lisää melassia jos liian terävää, lisää etikkaa jos liian makeaa, lisää inkivääriä jos liian mietoa. Jäähdytä vähintään 1 tunti, jotta inkivääri pehmenee ja maut sulautuvat yhteen. Tarjoile jään kera, sekoittaen ennen jokaista kaatoa, sillä inkiväärisakka laskeutuu pohjalle."
+    ]
+  },
+  {
+    "id": "forkrecipe-swordfish-alla-ghiotta",
+    "title": "Miekkakala alla ghiotta",
+    "description": "Miekkakalapihvejä haudutetaan sisilialaisittain makean ja hapan agrodolce-kastikkeessa oliivien, kapristen, kirsikkatomaattien, sellerin, pinjansiementen ja rusinoiden kanssa — Palermon torin maut tiivistettynä yhteen tuoksuvaan pannuun. Katkeranmakea, suolainen ja väistämättä merellinen.",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "cookTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["kala", "sisilialainen", "italialainen", "makea-hapan"],
+    "ingredients": [
+      "600 g miekkakalapihvejä (2 cm paksuja)",
+      "60 ml extra-virgin-oliiviöljyä",
+      "150 g sipulia, ohuina viipaleina",
+      "80 g varrellista selleriä, ohuina viipaleina",
+      "200 g kirsikkatomaatteja, puolitettuna",
+      "80 g vihreitä Castelvetrano-oliiveja, kivettömiä ja puolitettuja",
+      "30 g suolattuja kapriksia (huuhdeltuina) tai etikkaliemessä olevia (valutettuina)",
+      "30 ml valkoviinietikkaa",
+      "10 g sokeria",
+      "30 g pinjansiemeniä",
+      "30 g rusinoita (tai sulttaanirusinoita)",
+      "10 g tuoretta minttua",
+      "1½ tl hienoa merisuolaa",
+      "½ tl mustapippuria, vastajauhettua"
+    ],
+    "instructions": [
+      "Kuivaa miekkakalapihvit hyvin ja mausta molemmin puolin runsaasti suolalla ja pippurilla. Kuumenna puolet oliiviöljystä leveässä, paksupohjaisessa paistinpannussa kovalla lämmöllä, kunnes se juuri alkaa savuta. Paista miekkakalaa 2–3 minuuttia per puoli, kunnes kummallekin pinnalle muodostuu kullanruskea kuori. Kala ei ole vielä läpikypsää — tavoitteena on rakentaa kuori ja paistojäämä, ei kypsentää kalaa loppuun. Nosta lautaselle. Kala saa valmiiksi kastikkeessa.",
+      "Laske lämpö keskitasolle samassa pannussa ja lisää loppu öljy. Lisää sipuli ja selleri. Kypsennä sekoittaen 6–8 minuuttia, kunnes täysin pehmeitä ja sipuli läpikuultavaa ja juuri alkaa kullankeltaistua. Lisää pinjansiemenet ja kypsennä 2 minuuttia, kunnes kevyesti paahtuneita — ne saavat kultaisen värin ja tuoksuvat paahdetulta puulta ja rasvalta. Lisää rusinat ja sekoita 30 sekuntia, kunnes ne turpoavat hieman.",
+      "Lisää pannuun kirsikkatomaatit, oliivit ja huuhdotut kaprikset. Sekoita ja kypsennä 3 minuuttia, kunnes tomaatit alkavat hajota ja vapauttaa mehuaan. Liuota sokeri pienessä kulhossa viinietikkaan ja kaada se pannulle. Sekoita yhteen. Kastike tuoksuu heti terävältä ja raikkaalta etikan ansiosta. Hauduta 4–5 minuuttia, kunnes kastike on hieman sakeutunut ja etikan terävä reuna on pehmentynyt makean ja hapan, pyöreäksi kokonaisuudeksi.",
+      "Upota paistetut miekkakalapihvit kastikkeeseen, lusikoiden hieman kastiketta kunkin päälle. Peitä pannu ja hauduta matalalla lämmöllä 6–8 minuuttia paksuudesta riippuen. Kastike höyryttää kalaa hellästi ylhäältä, kun taas alhaalta tuleva jäännöslämpö kypsentää sisuksen loppuun. Poista kansi ja tarkista: kalan tulisi olla juuri läpikuultamatonta, keskeltä yhä hieman mehevää. Älä ylikypsennä — miekkakala kuivuu nopeasti. Revi tuoreet minttulehdet päälle ja tarjoile suoraan pannusta."
+    ]
+  },
+  {
+    "id": "forkrecipe-tabbouleh",
+    "title": "Libanonilainen tabbouleh",
+    "description": "Hienoksi hakattua lehtipersiljaa, juuri sen verran bulguria että se napsii sitruunamehua ja oliiviöljyä — kirkas, yrttipainotteinen ja sähköisen hapokas salaatti, joka tarjoillaan revittyjen romaine- tai pikkusalaatinlehtien kanssa kauhottavaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Salaatit",
+    "tags": ["salaatti", "libanonilainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "200 g lehtipersiljaa, varret poistettuina",
+      "25 g hienoa bulguria (no. 1)",
+      "100 g kypsiä tomaatteja, hyvin hienoksi kuutioituna",
+      "75 ml tuoretta sitruunamehua",
+      "2½ rkl extra-virgin-oliiviöljyä",
+      "25 g tuoretta minttua, hienonnettuna",
+      "25 g kevätsipulia tai valkosipulia, hyvin ohuina viipaleina",
+      "½ tl suolaa",
+      "ripaus mustapippuria, vastajauhettua"
+    ],
+    "instructions": [
+      "Laita hieno bulgur pieneen kulhoon. Kaada sen päälle noin puolet sitruunamehusta ja sekoita, jotta jokainen jyvä kastuu. Hieno bulgur imeytyy täysin ilman keittämistä — sitruunamehun happo pehmentää sen 15 minuutissa ja samalla maustaa sen ja vähentää sen raa'an, tärkkelyksisen maun. Älä lisää vettä. Jätä huoneenlämpöön sillä aikaa kun valmistelet yrtit ja vihannekset. 15 minuutin jälkeen purista bulguria nyrkissä tarkistaaksesi, että se on pehmentynyt täysin. Jos yhä rakeista, lisää lisää sitruunamehua ja odota vielä 5 minuuttia.",
+      "Tämä on tabbouleh'n määrittelevä tekniikka: persilja on hakattava käsin, ei monitoimikoneessa. Monitoimikone mustelmoittaa lehdet ja vapauttaa vettä, mikä tekee salaatista märän ja tumman. Ota iso nippu kuivaa persiljaa (pese ja linkoa kuivaksi huolellisesti etukäteen). Kokoa lehdet tiukaksi nipuksi ja käytä terävää, painavaa veistä hakkaamaan ne hienoimmaksi mahdolliseksi silpuksi — lähes pölyksi. Tavoitteena on kevyt, pilvimäinen yrttimassa, ei märkä tahna. Kuutioi tomaatit erikseen hyvin hienoksi (korkeintaan 5 mm) ja suolaa niitä siivilässä 5 minuuttia, purista sitten mahdollisimman paljon mehua pois. Hienonna minttu ja viipaloi kevätsipuli paperinohuiksi.",
+      "Yhdistä liotettu bulgur, hienonnettu persilja, valutettu tomaatti, minttu ja kevätsipuli isossa kulhossa. Kaada loppu sitruunamehu kaiken päälle, sitten oliiviöljy. Mausta suolalla ja vastarouhitulla mustapippurilla. Sekoita varovasti mutta huolellisesti kahdella isolla lusikalla tai puhtailla käsillä. Maista heti: tabboulehin pitäisi olla voimakkaan kirkas ja hapokas — sitruunan pitäisi olla ensimmäinen ja viimeinen maku, jonka maistat. Jos se maistuu latteelta, se tarvitsee lisää sitruunamehua ja suolaa. Säädä, kunnes happamuus saa suun vetelemään.",
+      "Peitä ja anna tabboulehin levätä huoneenlämmössä 10–15 minuuttia ennen tarjoilua. Tämä lyhyt lepo antaa bulgurin imeä viimeisen kastikkeen, tomaattien vapauttaa vielä hieman mehua salaattiin, sekä mintun ja kevätsipulin maun sulautua persiljaan. Maista vielä kerran ennen tarjoilua ja säädä happamuus ja suola viimeisen kerran. Tarjoile litteälle lautaselle kasattuna, ympärillä kokonaisia romaine- tai pikkusalaatinlehtiä kauhomista varten. Tabbouleh ei säily hyvin — tarjoile se samana päivänä kun se on tehty."
+    ]
+  },
+  {
+    "id": "forkrecipe-tabouli",
+    "title": "Tabouli",
+    "description": "Libanonin suuri yrttisalaatti — valtava, vihreä massa hienoksi käsinhakattua lehtipersiljaa ja minttua, vain pieni määrä liotettua (ei koskaan keitettyä) hienoa bulguria, maustettu reippaasti sitruunamehulla ja oliiviöljyllä; vilja on sivuosassa, persilja on kaikki kaikessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Salaatit",
+    "tags": ["salaatti", "libanonilainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "200 g lehtipersiljaa (4 isoa nippua, lehdet ja hienot varret)",
+      "30 g tuoretta minttua",
+      "50 g hienoa bulguria (no. 1)",
+      "300 g kypsiä tomaatteja, hienoksi kuutioituna ja valutettuna",
+      "60 g kevätsipulia (valkoinen ja vaaleanvihreä osa), ohuina viipaleina",
+      "80 ml tuoretta sitruunamehua (n. 3 sitruunaa)",
+      "60 ml extra-virgin-oliiviöljyä",
+      "½ tl jauhettua maustepippuria",
+      "¼ tl jauhettua kanelia",
+      "1¼ tl hienoa suolaa",
+      "½ tl mustapippuria, vastajauhettua"
+    ],
+    "instructions": [
+      "Laita hieno bulgur pieneen kulhoon. Kaada sen päälle puolet sitruunamehusta (40 ml) — liottaminen sitruunamehussa veden sijaan tarkoittaa, että bulgur imee happoa samalla kun se hydratoituu, joten se ei ole koskaan mautonta tai vetistä. Lisää juuri sen verran kylmää vettä, että se peittää jyvät niukasti (noin 50 ml). Sekoita kerran ja anna liota 20 minuuttia. Liotuksen jälkeen käännä bulgur puhtaan keittiöpyyhkeen tai useamman juustokangaskerroksen keskelle ja vääntele tiukasti — purista pois mahdollisimman paljon nestettä. Bulgurin on oltava mahdollisimman kuivaa, tai se vetistää salaatin.",
+      "Pese ja kuivaa persilja ja minttu huolellisesti — märät yrtit vapauttavat vettä salaattiin. Käytä vain terävää kokkiveistä — älä koskaan monitoimikonetta, joka mustelmoittaa lehdet ja tummentaa ja katkeroittaa ne minuuteissa. Kokoa persilja tiukaksi nipuksi ja hakkaa hienoksi keinuttavalla liikkeellä, käännä sitten 90 astetta ja hakkaa uudelleen. Tavoitteena on hieno, vihreä konfetti — ei tahnaa, ei karkeita paloja. Hakkaa minttu erikseen (se on hennompaa) ja käännä se joukkoon. Yrttien määrän pitäisi olla noin 4–5 kertaa suurempi kuin kaikkien muiden ainesten yhteensä; jos tuntuu, että persiljaa on liikaa, olet todennäköisesti oikeassa.",
+      "Kuutioi tomaatit pieniksi kuutioiksi, korkeintaan 5 mm. Laita kuutioidut tomaatit hienoon siivilään tai valutuskoriin ja anna valua 10 minuuttia — tomaatit vapauttavat paljon vettä, ja valuttamattomat tomaatit kerääntyvät salaatin pohjalle minuuteissa tarjoilusta. Viipaloi kevätsipulit ohuiksi renkaiksi. Kevätsipuli tuo salaattiin sipulisen nuotin — raaka valkosipuli on perinteinen joissain versioissa, mutta kevätsipuli on miedompi ja yleisempi nykyaikaisessa libanonilaisessa keittiössä.",
+      "Yhdistä isossa sekoituskulhossa hakatut yrtit, puristuksen kuivattu bulgur, valutetut tomaatit ja kevätsipulit. Valuta loppu sitruunamehu ja oliiviöljy kaiken päälle. Lisää maustepippuri, kaneli, suola ja pippuri. Sekoita varovasti mutta huolellisesti kahdella isolla lusikalla tai puhtailla käsillä, nostaen pohjasta ja kääntäen — tavoitteena ei ole murskata mitään, vaan vain peittää jokainen aines kastikkeella. Salaatti painuu hieman kokoon sekoituksen aikana. Maista: tabouli'n pitäisi olla voimakkaan, lähes piiskaavan sitruunainen. Jos se vaikuttaa liian miedolta, lisää lisää sitruunamehua.",
+      "Maista maustettu tabouli ja säädä. Taboulin oikea maustaminen eroaa useimmista ruoista: sitruunan on oltava äänekkäin nuotti — jos epäröit, lisää lisää. Oliiviöljyn pitäisi olla läsnä mutta ei saa tehdä salaatista raskasta. Maustepippuri ja kaneli ovat hienovaraista lämpöä, ei erotettavissa olevia yksittäisiä mausteita. Suolan pitäisi saada kaikki muu napsahtamaan esiin itse olematta havaittavissa. Anna taboulin levätä huoneenlämmössä 15 minuuttia ennen tarjoilua — tämä lyhyt lepo antaa suolan vetää hieman kosteutta yrteistä, joka sekoittuu kastikkeeseen ja luo valmiin kastikkeen."
+    ]
+  },
+  {
+    "id": "forkrecipe-tacos-al-pastor",
+    "title": "Tacos al pastor",
+    "description": "Ohuiksi viipaloitua possun lapaa, joka värjätään tummanpunaiseksi guajillo- ja achiotekastikkeella, pinotaan pystyvartaalle ananaksen kanssa ja paahdetaan, kunnes reunat karamellisoituvat ja korventuvat — tarjoillaan lämpimillä maissitortilloilla ananaksen, sipulin ja korianterin kera.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": ["liha", "meksikolainen", "taco", "grilli"],
+    "ingredients": [
+      "1500 g sianlapaa, 5 mm viipaleina syitä vastaan",
+      "40 g kuivattuja guajillo-chilejä, siemenet poistettuina",
+      "20 g kuivattuja ancho-chilejä, siemenet poistettuina",
+      "50 g achiote-tahnaa (recado rojo)",
+      "120 g sipulia, neljänneksiksi leikattuna",
+      "20 g valkosipulinkynsiä",
+      "5 g jauhettua juustokuminaa",
+      "4 g kuivattua meksikolaista oreganoa",
+      "80 g tuoretta ananasmehua",
+      "30 g valkoviinietikkaa tai omenaviinietikkaa",
+      "300 g tuoretta ananasta, renkaiksi viipaloituna",
+      "15 g hienoa merisuolaa",
+      "24 pientä maissitortillaa (12 cm)",
+      "80 g sipulia, hienonnettuna",
+      "30 g tuoretta korianteria, karkeasti hienonnettuna",
+      "60 g limelohkoja",
+      "100 g salsa verdeä tai salsa rojaa"
+    ],
+    "instructions": [
+      "Paahda kuivatut chilit kuivalla comalilla tai pannulla keskilämmöllä 15–20 sekuntia puolelta, kunnes ne kuplivat ja tuoksuvat. Siirrä kulhoon, peitä kiehuvalla vedellä ja liota 20 minuuttia, kunnes täysin pehmenneet. Valuta ja säästä 100 g liotusnestettä.",
+      "Soseuta valutetut chilit achiote-tahnan, sipulin, valkosipulin, juustokuminan, oreganon, ananasmehun, etikan, suolan ja 80 g chiliensa liotusnesteen kanssa, kunnes täysin sileää. Siivilöi keskikarkean siivilän läpi. Marinadin tulisi olla kirkkaan karmiininpunaista, täysin sileää ja tuoksua paahdetulta chililtä, maanläheiseltä achiotelta ja kirkkaalta ananashapolta.",
+      "Sekoita ohuet possuviipaleet kaiken marinadin kanssa isossa kulhossa varmistaen, että jokainen pinta peittyy. Peitä ja anna marinoitua jääkaapissa vähintään 2 tuntia, mieluiten yön yli. Ananasmehun entsyymit (bromelaiini) mureuttavat lihaa — mutta yli 12 tuntia voi tehdä ohuista viipaleista jauhomaisia.",
+      "Kotikeittiön menetelmä: järjestä marinoidut possuviipaleet valurautapannulle tai uunipellille hieman limittäin. Pujota ananasrenkaita niiden väliin ja päälle. Paista 200 °C:ssa 30 minuuttia, grillaa sitten uunin grillivastuksella 5–8 minuuttia, kunnes yläreunat korventuvat ja karamellisoituvat. Vaihtoehto: pinoa marinoidut possuviipaleet pystyvartaalle vuorotellen ananaksen kanssa ja paista grillivastuksen alla, kääntäen 5 minuutin välein 20–25 minuuttia.",
+      "Viipaloi tai pilko paahdettu possu pieniksi, epätasaisiksi paloiksi, korventuneet reunat mukaan lukien. Lämmitä maissitortillat suoraan kaasuliekin yllä tai kuivalla comalilla, kunnes kevyesti korventuneita ja taipuisia. Käytä kaksi tortillaa päällekkäin (meksikolaisen taqueria-tyylin mukaisesti). Kasaa possua tortilloille, lisää päälle hienonnettua sipulia, korianteria ja pala ananasta. Tarjoile limelohkojen ja salsan kera."
+    ]
+  }
+]

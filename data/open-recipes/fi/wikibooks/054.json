@@ -1,0 +1,760 @@
+[
+  {
+    "id": "wikibooks-ginger-snaps",
+    "title": "Inkiväärikeksit",
+    "description": "Ohuiksi kaulittuja, mausteisia keksejä, joissa on runsaasti melassia ja inkivääriä.",
+    "servings": 40,
+    "servingsEstimated": true,
+    "cookTimeMin": 7,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["keksit", "jouluherkut", "mausteinen"],
+    "ingredients": [
+      "450 g voita, sulatettuna",
+      "5 dl tummaa siirappia (melassia)",
+      "450 g fariinisokeria",
+      "2 tl kanelia",
+      "ripaus maustepippuria",
+      "1 tl neilikkaa",
+      "1 tl muskottipähkinää",
+      "1 rkl inkivääriä",
+      "ripaus mustapippuria",
+      "1200–1450 g vehnäjauhoja"
+    ],
+    "instructions": [
+      "Yhdistä sulatettu voi, melassi, sokeri ja mausteet.",
+      "Lisää jauhot noin 120 g kerrallaan, kunnes olet lisännyt noin 1200 g: sekoita ensin haarukalla, sitten käsin. Lisää vielä hieman jauhoja, kunnes taikina pysyy koossa.",
+      "Jäähdytä taikinaa jääkaapissa vähintään 2 tuntia.",
+      "Kuumenna uuni 175 asteeseen.",
+      "Kauli taikina mahdollisimman ohueksi ja leikkaa muotoja keksileikkureilla.",
+      "Siirrä keksit leivinpaperilla vuoratulle pellille.",
+      "Paista keksejä uunissa 7 minuuttia. Anna jäähtyä ritilällä."
+    ],
+    "notes": ["Lisää inkivääriä halutessasi tulisemman maun saamiseksi."]
+  },
+  {
+    "id": "wikibooks-ginger-tea",
+    "title": "Inkivääritee",
+    "description": "Tuoreesta inkivääristä keitetty juoma, jota juodaan kurkkukipuun ja yskään sekä lämmittämään kehoa.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["tee", "inkivääri", "nopea", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "3–4 cm tuoretta inkivääriä",
+      "5 dl vettä",
+      "hunajaa tai sokeria (valinnainen)"
+    ],
+    "instructions": [
+      "Leikkaa inkivääri pieniksi paloiksi ja huuhtele lika pois.",
+      "Lisää vesi viipaloidun inkiväärin joukkoon ja kiehauta.",
+      "Anna hautua muutama minuutti, siivilöi sitten juoma inkiväärinpalojen poistamiseksi.",
+      "Mausta makeuttajalla maun mukaan ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-ginger-glazed-grilled-peaches",
+    "title": "Inkivääriglaseeratut grillipersikat",
+    "description": "Grillattuja persikoita, jotka siveltynä paksulla inkivääri-ruskeasokeriglaseella.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["persikka", "grilliruoka", "kesä", "kasvis"],
+    "ingredients": [
+      "900 g isoja persikoita, kuorittuna ja puolitettuna",
+      "2½ dl persikkanektaria",
+      "1¼ dl fariinisokeria",
+      "½ dl kiteytettyä inkivääriä, hienonnettuna",
+      "1 tl vaniljauutetta",
+      "¼ tl suolaa",
+      "voita sulatettuna, siveltäväksi"
+    ],
+    "instructions": [
+      "Yhdistä nestemäiset aineet kattilassa ja kiehauta keskikorkealla lämmöllä, kunnes neste on vähentynyt puoleen.",
+      "Sivele persikat sulatetulla voilla ja aseta ne keskilämpöiselle grillille, kunnes niihin tulee kauniit grillijäljet. Sivele samalla usein nektariseoksella.",
+      "Kaada loppu glaseesi suureen kulhoon ja sekoita persikat joukkoon. Tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-gingerbread",
+    "title": "Inkiväärikakku (gingerbread)",
+    "description": "Pehmeä, mausteinen inkiväärikakku, ei keksi. Variaatiota kutsutaan parkiniksi, kun osa jauhoista korvataan karkealla kaurajauholla.",
+    "servings": 10,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "inkivääri", "englantilainen"],
+    "ingredients": [
+      "110 g voita",
+      "110 g fariinisokeria",
+      "220 g vaaleaa siirappia",
+      "220 g vehnäjauhoja",
+      "1 tl leivinjauhetta",
+      "1 tl maustesekoitusta (kanelia, muskottia ja neilikkaa)",
+      "2 tl inkivääriä",
+      "2 kananmunaa",
+      "1¼ dl maitoa"
+    ],
+    "instructions": [
+      "Laita voi, sokeri ja siirappi kattilaan. Kuumenna varovasti, kunnes voi sulaa.",
+      "Laita kuivat aineet kulhoon. Kaada sulatettu voiseos kulhoon ja vatkaa kunnolla.",
+      "Lämmitä maito kattilassa (jotta se liuottaa siirapin).",
+      "Lisää maito kulhoon ja vatkaa kunnolla.",
+      "Vatkaa munat ja sekoita ne taikinaan.",
+      "Kaada taikina voideltuun 20 cm:n neliönmuotoiseen kakkuvuokaan.",
+      "Paista 170 asteessa 1 tunti.",
+      "Anna jäähtyä vuoassa 15 minuuttia, poista sitten vuoasta.",
+      "Anna olla ainakin vuorokauden ennen paloiksi leikkaamista. Tarjoile."
+    ],
+    "notes": ["Parkin-versiota varten korvaa puolet jauhoista painon mukaan 110 g:lla karkeaa kaurajauhoa."]
+  },
+  {
+    "id": "wikibooks-gingerbread-cookies-frosted-with-royal-icing",
+    "title": "Inkiväärikeksit kuningatarkuorrutuksella",
+    "description": "Muotoonleikattuja mausteisia inkiväärikeksejä, jotka koristellaan valkoisella kuningatarkuorrutuksella.",
+    "servings": 30,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "cookTimeMin": 12,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["keksit", "joulu", "inkivääri"],
+    "ingredients": [
+      "paistosuihketta tai voita vuokien voiteluun",
+      "500 g vehnäjauhoja, sekä lisää pöydän jauhottamiseen",
+      "2 tl ruokasoodaa",
+      "1½ tl inkivääriä",
+      "1½ tl maustepippuria",
+      "1 tl suolaa",
+      "120 g voita huoneenlämpöisenä",
+      "150 g fariinisokeria, tiiviisti pakattuna",
+      "150 g hunajaa",
+      "2 kananmunaa",
+      "kuningatarkuorrutusta (sokerikuorrutusta)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen.",
+      "Voitele pellit kevyesti tai vuoraa leivinpaperilla.",
+      "Siivilöi yhteen jauhot, ruokasooda, inkivääri, maustepippuri ja suola. Jätä sivuun.",
+      "Vatkaa yleiskoneessa voi, fariinisokeri ja hunaja vaahdoksi keskinopeudella, noin 2 minuuttia.",
+      "Lisää munat ja vatkaa, kunnes seos on tasaista ja vaaleaa, vielä 2–3 minuuttia.",
+      "Lisää siivilöidyt kuiva-aineet ja sekoita hitaalla nopeudella, kunnes taikina on tasaista.",
+      "Kumoa taikina kevyesti jauhotetulle työtasolle.",
+      "Painele taikina tasaiseksi kiekoksi.",
+      "Peitä muovikelmulla ja jäähdytä, kunnes taikina on kiinteää, noin 20–30 minuuttia.",
+      "Kauli taikina noin 6 mm:n paksuiseksi.",
+      "Leikkaa keksejä 14 cm:n keksileikkureilla.",
+      "Siirrä keksit valmistelluille pelleille, jätä noin 2,5 cm väliä.",
+      "Paista keksejä, kunnes ne ovat kiinteitä, noin 10–14 minuuttia koosta riippuen.",
+      "Siirrä keksit ritilälle jäähtymään kokonaan ennen koristelua.",
+      "Paista loppu taikina erissä ohjeen mukaan.",
+      "Koristele kuningatarkuorrutuksella."
+    ]
+  },
+  {
+    "id": "wikibooks-gingerbread-pancakes-i",
+    "title": "Inkiväärilettuset I",
+    "description": "Mausteisia lettusia, joissa on inkivääriä, kanelia ja melassia, ja jotka paistetaan paistinpannulla tai lettulevyllä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["lettu", "aamiainen", "inkivääri"],
+    "ingredients": [
+      "2½ dl vehnäjauhoja",
+      "½ tl suolaa",
+      "½ tl leivinjauhetta",
+      "¼ tl ruokasoodaa",
+      "½ tl kanelia",
+      "1½ tl inkivääriä",
+      "ripaus neilikkaa",
+      "1¾ dl piimää",
+      "½ dl maitoa",
+      "1 kananmuna",
+      "2 rkl voita, sulatettuna",
+      "1 tl vaniljauutetta",
+      "4 tl tummaa siirappia (melassia)",
+      "rypsiöljyä lettulevyn voiteluun"
+    ],
+    "instructions": [
+      "Kuumenna iso tarttumaton paistinpannu tai lettulevy miedolla lämmöllä, kun valmistelet aineksia.",
+      "Sekoita jauhot, suola, leivinjauhe ja ruokasooda keskisuuressa kulhossa.",
+      "Vatkaa kaneli, inkivääri ja neilikka kuivien aineiden joukkoon.",
+      "Yhdistä piimä ja maito ja lämmitä huoneenlämpöiseksi mikrossa tai liedellä varovasti.",
+      "Vatkaa muna, voi, vanilja ja melassi maitoseoksen joukkoon.",
+      "Lisää märät aineet kuiviin aineisiin ja vatkaa, kunnes seos on juuri sekoittunut.",
+      "Kaada taikina takaisin mittakannuun ja sekoita joukkoon tarvittaessa teelusikallinen tai pari vettä, jotta taikinasta tulee paksua mutta kaadettavaa.",
+      "Lisää lämpöä keskitasolle ja sivele pannu tai levy runsaalla öljyllä.",
+      "Kun öljy alkaa kuplia mutta ei vielä savuta, kaada taikinaa noin ½ dl kerrallaan.",
+      "Paista tarvittaessa erissä, jotta pannu ei ole liian täynnä.",
+      "Kun lettusten pohja on kullanruskea ja pinta alkaa kuplia (2–3 minuuttia), käännä letut.",
+      "Paista, kunnes letut ovat kullanruskeita myös toiselta puolelta.",
+      "Toista, voidellen pannu tai levy öljyllä välillä.",
+      "Tarjoile kuumana."
+    ],
+    "notes": [
+      "Jos käytät suolattua voita, vähennä suolan määrä ¼ teelusikalliseen.",
+      "Voit korvata piimän maidolla, johon on sekoitettu ruokalusikallinen sitruunamehua tai etikkaa.",
+      "Tämä ohje tuplaantuu helposti suuremmalle joukolle."
+    ]
+  },
+  {
+    "id": "wikibooks-gingerbread-pancakes-ii",
+    "title": "Inkiväärilettuset II",
+    "description": "Valmiista lettujauhosta tehtyjä, kahvilla ja melassilla maustettuja lettusia.",
+    "servings": 6,
+    "totalTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["lettu", "aamiainen", "inkivääri", "nopea"],
+    "ingredients": [
+      "7½ dl valmista lettujauhetta",
+      "2½ dl kahvia, jäähdytettynä huoneenlämpöiseksi",
+      "2½ dl vettä",
+      "½ dl tummaa siirappia (melassia)",
+      "½ tl kanelia",
+      "¼ tl inkivääriä",
+      "¼ tl raastettua muskottipähkinää",
+      "paistosuihketta"
+    ],
+    "instructions": [
+      "Yhdistä kulhossa lettujauhe, kahvi, vesi, melassi, kaneli, inkivääri ja muskottipähkinä.",
+      "Sekoita, kunnes aines on tasaista.",
+      "Taikina on ohutta; jos haluat paksumpia lettusia, lisää jauhetta ruokalusikallinen kerrallaan.",
+      "Suihkuta tarttumaton paistinpannu paistosuihkeella ja aseta keskilämmölle. Jos käytät sähkölevyä, kuumenna 190 asteeseen.",
+      "Kaada ½ dl taikinaa kuumalle pannulle; paista 2 minuuttia tai kunnes kuplia näkyy ja reunat kuivuvat; käännä ja paista 1–2 minuuttia lisää.",
+      "Tarjoile voin ja siirapin kanssa halutessasi."
+    ],
+    "notes": ["Erinomaisen kastikkeen saa sekoittamalla vatkattua kermaa, kahvikermaa ja siirappia."]
+  },
+  {
+    "id": "wikibooks-gizdodo-nigerian-gizzard-and-plantains",
+    "title": "Gizdodo (nigerialainen linnunmaha ja plantaini)",
+    "description": "Suosittu nigerialainen ruoka, jossa yhdistyvät linnunmaha ja makeat paistetut plantainit (dodo). Tarjoillaan usein juhlissa pienten alkupalojen ohella sekä riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["liha", "nigerialainen", "plantaini"],
+    "ingredients": [
+      "500 g kananmahoja, pestynä ja paloiteltuna",
+      "2 sipulia",
+      "2 liemikuutiota",
+      "2 sipulia, karkeasti hienonnettuna",
+      "punaista, vihreää ja keltaista paprikaa, karkeasti hienonnettuna",
+      "1 scotch bonnet -chili, karkeasti hienonnettuna",
+      "2 tomaattia, karkeasti hienonnettuna",
+      "pala tuoretta inkivääriä",
+      "rypsiöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä",
+      "2 kypsää plantainia, kuorittuna ja kuutioituna",
+      "1 tl currya",
+      "1 tl timjamia",
+      "suolaa"
+    ],
+    "instructions": [
+      "Yhdistä kananmahat, osa sipulista, liemikuutio, curry ja timjami kattilaan. Kypsennä keskilämmöllä.",
+      "Soseuta tehosekoittimessa paprikat, scotch bonnet -chili, tomaatit, sipulit ja inkivääri karkeaksi tahnaksi.",
+      "Kuumenna öljyä kattilassa. Lisää hienonnettu sipuli ja valkosipuli, ja kuullota pehmeiksi. Lisää soseutettu paprikaseos ja kypsennä noin 10 minuuttia.",
+      "Kuumenna öljyä pannussa ja paista plantainit. Nosta syrjään.",
+      "Paista kananmahat öljyssä, kunnes ne ovat kuivia ja ruskeita. Poista ylimääräinen öljy.",
+      "Lisää kypsennetty sipuli-paprikaseos kananmahojen joukkoon ja paista hetki.",
+      "Sekoita paistetut plantainit varovasti joukkoon. Hauduta muutama minuutti ja mausta tarpeen mukaan.",
+      "Ota pois liedeltä ja tarjoile riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-glazed-onion-canapes",
+    "title": "Glaseeratut sipulileivokset",
+    "description": "Pieniä alkupaloja, joissa karamellisoitu sipuli ja kermaviili tarjoillaan suolakeksien päällä.",
+    "servings": 8,
+    "category": "Välipalat",
+    "tags": ["alkupala", "sipuli", "juhla"],
+    "ingredients": [
+      "1 sipuli, hienonnettuna",
+      "115 g voita tai margariinia",
+      "2 tl fariinisokeria",
+      "1 rkl hunajaa",
+      "8–10 kpl suolakeksejä",
+      "kermaviiliä"
+    ],
+    "instructions": [
+      "Sulata puolet voista pienessä kattilassa.",
+      "Käännä levy keskilämmölle. Lisää hienonnettu sipuli pannulle.",
+      "Karamellisoi sipulit hitaasti, lisäten loput voista tarpeen mukaan, ettei sipuli pala.",
+      "Kun sipulit ovat karamellisoituneet, lisää fariinisokeri ja hunaja. Sekoita, kunnes kaikki sipulit ovat glaseerautuneet.",
+      "Asettele sipulia näyttävästi keksien päälle ja lisää pieni tilkka kermaviiliä."
+    ],
+    "notes": [
+      "Tarkkaile sipuleita—ne palavat helposti.",
+      "Mittasuhteet eivät ole tarkkoja; kokeile mieleisiäsi määriä."
+    ]
+  },
+  {
+    "id": "wikibooks-glazed-sweet-potatoes",
+    "title": "Glaseeratut bataatit",
+    "description": "Nopea lisuke, jossa purkkibataatit paistetaan vaahterasiirapin ja voin kanssa kiiltäväksi glaseeksi.",
+    "servings": 6,
+    "totalTimeMin": 30,
+    "category": "Lisukkeet",
+    "tags": ["bataatti", "lisuke", "nopea", "kasvis"],
+    "ingredients": [
+      "1¼ dl vaahterasiirappia",
+      "1 rkl voita tai margariinia",
+      "1 purkki (1100 g) bataattia, valutettuna",
+      "pekaanipähkinän puolikkaita (valinnainen)"
+    ],
+    "instructions": [
+      "Kiehauta siirappi ja voi isossa paistinpannussa keskilämmöllä. Alenna lämpöä ja hauduta noin 2 minuuttia.",
+      "Lisää bataatit. Kypsennä miedolla lämmöllä 10 minuuttia, käännellen bataatteja varovasti glaseen levittämiseksi.",
+      "Koristele pekaanipähkinän puolikkailla halutessasi."
+    ],
+    "notes": ["Voit käyttää myös jamssia halutessasi."]
+  },
+  {
+    "id": "wikibooks-glorified-mac-and-cheese",
+    "title": "Täydellinen makaronilaatikko",
+    "description": "Tavallinen makaroni ja juusto -ruoka, johon on lisätty lihaa ja kasviksia, jotta se nousee lisukkeesta pääruoaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["makaroni", "juusto", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "250 g makaronia",
+      "30 g vehnäjauhoja",
+      "45 g voita",
+      "2½ dl maitoa",
+      "suolaa",
+      "mustapippuria",
+      "140 g raastettua juustoa (esim. cheddaria, emmentalia tai gruyèrea)",
+      "2 nakkia, viipaloituna",
+      "140 g pakastevihanneksia (esim. pinaattia, lehtikaalia, parsakaalia tai herneitä)",
+      "2 tuoretta tomaattia, viipaloituna",
+      "parmesaania, raastettuna",
+      "paprikajauhetta"
+    ],
+    "instructions": [
+      "Kuumenna uuni 180 asteeseen ja voitele vuoka.",
+      "Kiehauta liedellä 2 litraa suolattua vettä; lisää makaroni ja keitä 9 minuuttia tai kunnes se on al dente.",
+      "Makaronin kypsyessä valmista kastike. Sekoita jauhot ja voi kattilassa ja kuumenna miedolla lämmöllä, kunnes seos on tasaista ja kuplii.",
+      "Lisää maito, suola ja pippuri ja sekoita, kunnes seos sakenee. Alenna lämpö pienimmälle ja lisää juusto, viipaloidut nakit ja pakastevihannekset.",
+      "Kun makaroni on kypsää, valuta se ja laita voideltuun vuokaan. Kaada kastike makaronin päälle ja sekoita.",
+      "Asettele tomaattiviipaleet päälle ja ripottele parmesaania ja paprikajauhetta niiden päälle.",
+      "Paista uunissa 40 minuuttia."
+    ],
+    "notes": ["Nakkien sijaan voit käyttää muutakin lihaa: jauhelihaa, kanaa, tonnikalaa. Kasvisversioon sopivat tofu, soijarouhe tai kikherneet."]
+  },
+  {
+    "id": "wikibooks-gluten-veggie-meat",
+    "title": "Seitanin kaltainen kasvisliha",
+    "description": "Erinomainen lisä lihattomiin ruokiin. Monet kaupan kasviproteiinit valmistetaan gluteenista; tämä ohje on edullinen ja riittää perheelle moneksi viikoksi.",
+    "servings": 14,
+    "prepTimeMin": 15,
+    "cookTimeMin": 60,
+    "totalTimeMin": 75,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "proteiini", "seitan"],
+    "ingredients": [
+      "625 g vehnägluteenijauhoa",
+      "2 rkl kuivattua persiljaa",
+      "¾ tl valkosipulijauhetta",
+      "1¾ dl vettä",
+      "2 liemikuutiota",
+      "1¼ dl soijakastiketta",
+      "¾ tl sipulijauhetta",
+      "¼ tl suolaa",
+      "2½ dl vehnäjauhoja",
+      "1¾ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa gluteenijauho, valkosipulijauhe, persilja ja vesi.",
+      "Vaivaa noin 2 minuuttia, peitä ja anna levätä 10 minuuttia.",
+      "Viipaloi gluteenitaikina paloiksi. Mitä pienempiä palat ovat, sitä kiinteämpi on lopputekstuuri.",
+      "Kiehauta iso kattilallinen vettä ja lisää liemikuutiot.",
+      "Lisää gluteenipalat maustettuun kiehuvaan veteen.",
+      "Alenna lämpö hiljaiseksi kiehunnaksi. Peitä kannella ja anna hautua 55 minuuttia, sekoittaen välillä.",
+      "Valuta selvästi suurentuneet gluteenipalat ja siirrä toiseen kulhoon jäähtymään.",
+      "Yhdistä kannellisessa kulhossa jauhot, sipulijauhe ja suola; sulje kansi ja ravista.",
+      "Kaada soijakastike toiseen kulhoon kastelua varten.",
+      "Kasta useita jäähtyneitä gluteenipaloja soijakastikkeeseen.",
+      "Laita palat maustettuun jauhoseokseen, sulje kansi ja ravista.",
+      "Paista paloja paistinpannulla öljyssä, kunnes ne ovat ruskistuneet."
+    ]
+  },
+  {
+    "id": "wikibooks-goat-cheese-cakes",
+    "title": "Vuohenjuustopihvit",
+    "description": "Pehmeiden juustojen ja yrttien seosta, joka leivitetään ja paistetaan rapeaksi.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Välipalat",
+    "tags": ["juusto", "alkupala", "ranskalainen"],
+    "ingredients": [
+      "310 g vuohenjuustoa huoneenlämpöisenä",
+      "150 g yrttituorejuustoa (esim. Boursin-tyyppistä) huoneenlämpöisenä",
+      "115 g ricottaa huoneenlämpöisenä",
+      "1 rkl voita",
+      "1 rkl hienonnettua valkosipulia",
+      "1 rkl hienonnettua salottisipulia",
+      "1 rkl hienonnettua ruohosipulia",
+      "2 tl hienonnettua tuoretta timjamia",
+      "2 tl hienonnettua tuoretta basilikaa",
+      "2 tl hienonnettua tuoretta rakuunaa",
+      "2½ dl vehnäjauhoja leivitykseen",
+      "3 kananmunaa, kevyesti vatkattuna",
+      "n. 2½ dl korppujauhoja",
+      "4 rkl oliiviöljyä"
+    ],
+    "instructions": [
+      "Yhdistä kulhossa vuohenjuusto, yrttituorejuusto ja ricotta. Jätä sivuun.",
+      "Sulata voi pienessä kattilassa keski-miedolla lämmöllä.",
+      "Lisää valkosipuli, salottisipuli, ruohosipuli, timjami, basilika ja rakuuna.",
+      "Kypsennä, kunnes ne ovat pehmeitä ja tuoksuvia, noin 2 minuuttia.",
+      "Sekoita yrtit juustoseokseen.",
+      "Peitä ja jäähdytä, kunnes seos on kiinteää, vähintään 30 minuuttia.",
+      "Kun juustoseos on kiinteää, jaa se 8 yhtä suureen osaan ja muotoile jokaisesta noin 2 cm paksuinen pihvi.",
+      "Pyörittele jokainen pihvi jauhoissa ja ravista ylimääräiset jauhot pois.",
+      "Kasta jokainen pihvi munaseokseen ja sitten korppujauhoihin, peittäen hyvin molemmin puolin. Aseta ritilälle.",
+      "Kuumenna öljy isossa paistinpannussa keski-korkealla lämmöllä.",
+      "Lisää juustopihvit varovasti ja paista kullanruskeiksi molemmin puolin, 1–2 minuuttia per puoli.",
+      "Valuta ritilällä."
+    ]
+  },
+  {
+    "id": "wikibooks-goat-meat-stew",
+    "title": "Vuohenlihapata",
+    "description": "Mausteinen länsiafrikkalaistyylinen pata, jossa vuohenliha kypsennetään ensin omassa liemessään ja sitten tomaatti-sipulikastikkeessa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "afrikkalainen"],
+    "ingredients": [
+      "1 kg vuohenlihaa, paloiteltuna",
+      "2 sipulia, hienonnettuna",
+      "suolaa",
+      "2 liemikuutiota",
+      "4 tuoretta tomaattia",
+      "1–2 tuoretta chiliä",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Yhdistä vuohenliha, osa sipuleista, 1 tl suolaa ja liemikuutio padassa. Kypsennä omassa liemessään ennen lisäveden lisäämistä, ja jatka kypsennystä, kunnes liha on mureaa. Nosta liha syrjään ja säästä liemi.",
+      "Soseuta tomaatit, chili ja loput sipulista sileäksi tahnaksi. Siirrä kuivaan pataan ja keitä, kunnes neste on haihtunut kokonaan.",
+      "Paista kypsennetty vuohenliha öljyssä kullanruskeaksi. Nosta liha syrjään.",
+      "Kaada kuuma öljy puhtaaseen, kuivaan pataan. Lisää lisää hienonnettua sipulia ja paista noin 2 minuuttia.",
+      "Lisää kypsennetty tomaattitahna ja sekoita jatkuvasti, ettei se pala. Kypsennä noin 20–30 minuuttia.",
+      "Lisää paistettu vuohenliha, liemikuutio, lihaliemi ja suola maun mukaan. Sekoita ja kypsennä 10 minuuttia.",
+      "Tarjoile riisin, keitetyn jamssin tai spagetin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-goat-milk-caramel-sauce",
+    "title": "Vuohenmaitokaramellikastike",
+    "description": "Karamellikastike, jossa perinteisen kerman sijaan käytetään vuohenmaitoa, mikä tuo rikkaamman ja monimutkaisemman maun.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["kastike", "karamelli", "kasvis"],
+    "ingredients": [
+      "5 dl sokeria",
+      "2½ dl vettä",
+      "3 dl vuohenmaitoa, lämmitettynä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita sokeri paksupohjaiseen kattilaan.",
+      "Kaada vesi sokerin reunoille. Tavoitteena on estää sokerikiteitä tarttumasta kattilan reunoihin.",
+      "Aseta kattila keskilämmölle. Sekoita varovasti silloin tällöin, kunnes sokeri on liuennut. Kun sokeri on täysin liuennut, älä sekoita enää.",
+      "Kiehauta sokeriliuos. Kypsennä, siveltäen kattilan reunoja vedellä, jos sokerikiteitä muodostuu, kunnes siirappi muuttuu meripihkanväriseksi karamelliksi.",
+      "Ota kattila pois liedeltä ja sekoita joukkoon lämmitetty vuohenmaito vähitellen. Seos voi juoksettua tai erottua hieman – tämä on normaalia ja korjautuu myöhemmin.",
+      "Palauta kattila keskilämmölle ja kypsennä, kunnes kastike saavuttaa 110 asteen lämpötilan. Tämä haihduttaa ylimääräisen veden vuohenmaidosta. Varo, ettei kastike kuohu liian korkealle.",
+      "Ota kattila pois liedeltä ja anna jäähtyä, kunnes se on lämmintä mutta turvallista koskea.",
+      "Jos kastike on erottunut tai juoksettunut, siirrä se tehosekoittimeen ja sekoita sileäksi.",
+      "Mausta kastike suolalla maun mukaan ja anna jäähtyä kokonaan."
+    ],
+    "notes": ["Kuten aina sokerisiirappia keitettäessä, varo irtonaisia sokerikiteitä – ne voivat saada koko siirapin kiteytymään, jolloin on aloitettava alusta."]
+  },
+  {
+    "id": "wikibooks-gobi-bhagi-spiced-cauliflower-stew",
+    "title": "Gobi bhagi (mausteinen kukkakaalipata)",
+    "description": "Sindhiläinen pata, jossa kukkakaali kypsennetään mausteisessa tomaatti-sipulikastikkeessa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kukkakaali", "intialainen", "kasvis", "pata"],
+    "ingredients": [
+      "300 g kukkakaalia",
+      "rypsiöljyä",
+      "100–150 g sipulia, hienonnettuna",
+      "4–5 tomaattia, hienonnettuna",
+      "3–4 vihreää chiliä, hienonnettuna",
+      "1 rkl tuoretta inkivääriä, hienonnettuna",
+      "1 rkl chilijauhetta",
+      "korianteria, hienonnettuna",
+      "1 rkl garam masalaa",
+      "1 tl mustapippuria",
+      "suolaa"
+    ],
+    "instructions": [
+      "Keitä kukkakaalia kuumassa vedessä 5 minuuttia. Valuta ja leikkaa isoiksi paloiksi.",
+      "Kuumenna öljyä pannussa ja lisää sipuli. Lisää tomaatit ja paista, kunnes tomaatit irrottavat öljyn.",
+      "Lisää kukkakaali, vihreät chilit, inkivääri, chilijauhe ja vähän vettä. Paineista 6–7 minuuttia.",
+      "Sekoita joukkoon garam masala, mustapippuri ja suola.",
+      "Tarjoile chapatin tai naanin ja riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-gochujang-imitation",
+    "title": "Gochujangin korvike",
+    "description": "Yksinkertainen chilitahna, joka korvaa gochujangin, kun sitä ei ole saatavilla.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kastike", "korealainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "1 tl soijakastiketta",
+      "½–1 tl suolaa",
+      "1 tl sokeria",
+      "2 tl etikkaa",
+      "1 tl chilijauhetta",
+      "2 tl hienonnettua kevätsipulia",
+      "1 tl seesaminsiemensuolaa"
+    ],
+    "instructions": [
+      "Sekoita ainekset kunnolla keskenään.",
+      "Säilytä loput jääkaapissa."
+    ]
+  },
+  {
+    "id": "wikibooks-gomen-ethiopian-collard-greens",
+    "title": "Gomen (etiopialainen lehtikaali)",
+    "description": "Suosittu etiopialainen lisuke, jossa lehtikaali kypsennetään aromaattisten mausteiden kanssa. Tarjoillaan perinteisesti injera-leivän kanssa.",
+    "servings": 4,
+    "totalTimeMin": 35,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "lehtikaali", "etiopialainen"],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 tl raastettua inkivääriä",
+      "1 tl kurkumaa",
+      "½ tl paprikajauhetta",
+      "½ tl juustokuminaa",
+      "¼ tl cayennepippuria (valinnainen)",
+      "1 iso nippu lehtikaalia, pestynä ja hienonnettuna",
+      "suolaa",
+      "mehu ½ sitruunasta"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa kattilassa tai paksupohjaisessa padassa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja kuullota, kunnes se on läpikuultavaa ja hieman ruskistunutta.",
+      "Lisää hienonnettu valkosipuli ja raastettu inkivääri, ja kuullota vielä minuutin verran, kunnes tuoksuu.",
+      "Lisää kurkuma, paprikajauhe, juustokumina ja cayennepippuri (jos käytät). Sekoita hyvin sipulin ja valkosipulin joukkoon.",
+      "Lisää hienonnettu lehtikaali pataan ja sekoita, jotta se peittyy mausteseoksella. Kypsennä muutama minuutti, kunnes lehtikaali alkaa lässähtää.",
+      "Alenna lämpö hiljaiseksi, peitä pata ja hauduta noin 20–25 minuuttia, kunnes lehtikaali on mureaa. Sekoita välillä, ettei pohjaan pala.",
+      "Mausta suolalla ja lisää sitruunamehu. Sekoita hyvin.",
+      "Nosta pata liedeltä ja anna vetäytyä muutama minuutti ennen tarjoilua.",
+      "Tarjoile kuumana lisukkeena injeran tai muun leivän kanssa."
+    ],
+    "notes": [
+      "Voit lisätä muitakin vihanneksia, kuten porkkanaa tai paprikaa, lisämaun ja värin vuoksi.",
+      "Säädä tulisuutta lisäämällä tai vähentämällä cayennepippuria.",
+      "Kokeile kermaista versiota lisäämällä loraus kookosmaitoa tai lusikallinen jogurttia."
+    ]
+  },
+  {
+    "id": "wikibooks-gonja-ugandan-fried-plantains",
+    "title": "Gonja (ugandalaiset paistetut plantainit)",
+    "description": "Suosittu ugandalainen katuruoka: makeita ja suolaisia paistettuja plantaineja, jotka toimivat sekä välipalana että lisukkeena.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "totalTimeMin": 20,
+    "category": "Välipalat",
+    "tags": ["plantaini", "ugandalainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "2 kypsää plantainia",
+      "rypsiöljyä paistamiseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuori kypsät plantainit ja leikkaa noin 1,5 cm:n paksuisiksi viipaleiksi, suoraan tai vinoon.",
+      "Kuumenna öljy syvässä paistinpannussa tai padassa keskikorkealla lämmöllä. Öljyä tulee olla tarpeeksi, jotta viipaleet peittyvät.",
+      "Lisää plantainiviipaleet varovasti kuumaan öljyyn erissä, älä täytä pannua liikaa. Paista 2–3 minuuttia per puoli, kunnes ne ovat kullanruskeita ja rapeita.",
+      "Nosta paistetut plantainit reikäkauhalla talouspaperin päälle valumaan.",
+      "Ripottele kuumien plantainien päälle ripaus suolaa.",
+      "Tarjoile gonja lämpimänä herkullisena välipalana tai lisukkeena."
+    ],
+    "notes": [
+      "Mustaläiskäiset, kypsät plantainit sopivat parhaiten – ne ovat makeampia ja pehmeämpiä paistettuina.",
+      "Makeamman version saa ripottelemalla tomusokeria tai valuttamalla hunajaa plantainien päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-gooey-butter-cake",
+    "title": "Tahmea voikakku",
+    "description": "Rikas jälkiruoka, joka on peräisin Saint Louisista, Missourista.",
+    "servings": 12,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "amerikkalainen", "juhla"],
+    "ingredients": [
+      "1 pkt (n. 520 g) keltaista kakkusekoitusta",
+      "3 kananmunaa",
+      "225 g voita",
+      "225 g tuorejuustoa",
+      "1 tl vaniljauutetta",
+      "450 g tomusokeria"
+    ],
+    "instructions": [
+      "Yhdistä kakkusekoite, yksi muna ja 110 g voita jäykäksi taikinaksi.",
+      "Suihkuta 23 × 33 cm:n vuoka öljyllä. Levitä taikina tasaisesti vuokaan ja sivuille.",
+      "Sulata loppu voi, ja sekoita loput aineet täytteeksi lisäten tuorejuuston ja viimeiseksi tomusokerin. Tuorejuuston kevyt lämmittäminen helpottaa sekoittamista.",
+      "Kaada täyte kuoren päälle ja paista 175 asteessa 45 minuuttia. Anna jäähtyä ja jähmettyä."
+    ],
+    "notes": ["Jos valmista kakkusekoitetta ei löydy, korvaa se vehnäjauhoilla, sokerilla ja leivinjauheella tehdyllä taikinapohjalla."]
+  },
+  {
+    "id": "wikibooks-goong-ten-raw-shrimp-salad",
+    "skip": "raakana syötäviä eläviä makeanveden katkarapuja – merkittävä loisriski (esim. keuhkoimumato), ei turvallisesti kotikeittiössä valmistettavissa"
+  },
+  {
+    "id": "wikibooks-gored-gored-ethiopian-raw-beef",
+    "title": "Gored gored (etiopialainen raaka naudanliha)",
+    "description": "Perinteinen etiopialainen ateria, jossa mureat raa'an naudanlihan kuutiot maustetaan berberellä ja maustetulla voilla. Tarjoillaan osana suurempaa etiopialaista ateriaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["liha", "etiopialainen", "juhla"],
+    "ingredients": [
+      "2 rkl niter kibbehiä (maustettua kirkastettua voita), sulatettuna",
+      "1 rkl berbere-mausteseosta",
+      "1 rkl tuoretta limemehua",
+      "1 tl suolaa, tai maun mukaan",
+      "½ tl mustapippuria",
+      "¼ tl kardemummaa",
+      "¼ tl cayennepippuria, tai maun mukaan",
+      "450 g erinomaislaatuista naudan sisä- tai ulkofileetä, pieniksi kuutioiksi leikattuna",
+      "tuoretta persiljaa tai korianteria, hienonnettuna koristeeksi",
+      "injeraa (etiopialaista leipää) tarjoiluun"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa sulatettu niter kibbeh, berbere-mausteseos, limemehu, suola, mustapippuri, kardemumma ja cayennepippuri. Sekoita hyvin marinadiksi.",
+      "Lisää lihakuutiot marinadiin ja sekoita, kunnes ne ovat tasaisesti marinadissa. Peitä kulho ja anna lihan marinoitua jääkaapissa vähintään 2 tuntia, mieluiten yön yli voimakkaamman maun saamiseksi.",
+      "Juuri ennen tarjoilua ota liha jääkaapista ja anna sen lämmetä huoneenlämpöiseksi.",
+      "Siirrä marinoitu liha tarjoiluastialle yhdeksi kerrokseksi aseteltuna.",
+      "Koristele hienonnetulla persiljalla tai korianterilla.",
+      "Tarjoile gored gored heti injeran tai muun leivän kanssa."
+    ],
+    "notes": [
+      "Gored gored tarjoillaan perinteisesti raakana tai pinnalta kevyesti paahdettuna, sisältä raakana. Käytä ehdottomasti vain erittäin tuoretta, luotettavan lähteen naudanlihaa elintarvikeriskin minimoimiseksi.",
+      "Varmista, että liha on tuoretta ja säilytetty oikeassa lämpötilassa koko ajan.",
+      "Säädä marinadin tulisuutta cayennepippurin määrällä."
+    ]
+  },
+  {
+    "id": "wikibooks-gorgonzola-stuffed-chateaubriand",
+    "title": "Gorgonzolalla täytetty chateaubriand",
+    "description": "Sinihomejuustolla täytetty paahtopaisti on hieno vaihtoehto pannukastikkeelle tai pihvikastikkeelle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "juhla", "uuniruoka"],
+    "ingredients": [
+      "voita",
+      "salottisipulia, hienonnettuna",
+      "valkosipulia, hienonnettuna",
+      "konjakkia",
+      "mustapippuria",
+      "500 g naudan sisäfileepaistia, keskeltä kokonaista fileetä leikattuna",
+      "suolaa",
+      "mustapippuria",
+      "oliiviöljyä",
+      "140 g murennettua gorgonzolajuustoa"
+    ],
+    "instructions": [
+      "Sulata voi pannulla.",
+      "Lisää salottisipuli ja valkosipuli ja kypsennä, kunnes salottisipuli on läpikuultavaa.",
+      "Lisää konjakki pois liedeltä ja kypsennä, kunnes alkoholin maku häviää.",
+      "Mausta mustapippurilla.",
+      "Pidä lämpimänä.",
+      "Tee paistin keskelle viilto, mutta älä leikkaa kokonaan läpi.",
+      "Sivele paisti oliiviöljyllä ja mausta runsaasti suolalla ja mustapippurilla. Anna olla huoneenlämmössä 30–60 minuuttia.",
+      "Kuumenna valurautainen grillipannu kuumaksi 5–7 minuuttia. Lisää paisti ja paista, kunnes se on ruskistunut ja hieman tummunut joka puolelta.",
+      "Siirrä uunivuokaan ja täytä viilto juustolla. Sido kiinni ruokalangalla ja anna levätä 20 minuuttia uunin lämmetessä 160 asteeseen.",
+      "Sivele paistin ulkopinta valmistetulla voikastikkeella.",
+      "Työnnä lihalämpömittari 45 asteen kulmassa paistin keskelle. Laita vuoka uuniin ja kypsennä, kunnes sisälämpötila on 57 astetta.",
+      "Nosta lautaselle ja peitä alumiinifoliolla. Anna levätä 15 minuuttia ennen auki sitomista ja viipalointia."
+    ]
+  },
+  {
+    "id": "wikibooks-goulash",
+    "title": "Gulassi",
+    "description": "Yksinkertainen unkarilainen gulassipata (Gulyás), joka on lähellä perinteistä versiota. Käytä makeaa paprikajauhetta, älä tulista, ettei padasta tule liian tulinen ja väärän koostumuksinen.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "pata", "unkarilainen"],
+    "ingredients": [
+      "oliiviöljyä",
+      "3 sipulia, hienonnettuna",
+      "750 g naudan muhennuslihaa, kuutioituna",
+      "2 paprikaa, paloiteltuna",
+      "1 tomaatti, paloiteltuna",
+      "2 rkl makeaa paprikajauhetta",
+      "5 kpl mustapippuria kokonaisena",
+      "1 laakerinlehti",
+      "6 valkosipulinkynttä",
+      "suolaa",
+      "4 perunaa, paloiteltuna"
+    ],
+    "instructions": [
+      "Paista puolet sipuleista padassa oliiviöljyssä.",
+      "Lisää kerros lihaa paistettujen sipulien päälle, sitten kerros raakaa sipulia, paprikaa, tomaattia, kokonaisia valkosipulinkynsiä, mausteita ja suolaa. Lisää toinen lihakerros; jatka, kunnes kaikki ainekset paitsi peruna on käytetty.",
+      "Peitä liha vedellä. Laita kansi päälle ja hauduta miedolla lämmöllä. Lisää vettä vain, jos sitä ei ole tarpeeksi kypsennyksen aikana. Pataa ei tarvitse juuri lainkaan sekoittaa.",
+      "Kun liha on kypsää ja mureaa, lisää perunat. Lisää tarvittaessa lisää vettä peittämään ne, ja kypsennä vielä 15 minuuttia, kunnes perunat ovat kypsiä."
+    ],
+    "notes": [
+      "Väristä saa vielä kauniimman lisäämällä hieman enemmän paprikajauhetta viimeisten 10 minuutin aikana.",
+      "Voit lisätä 250 g kuutioitua vähärasvaista sianlihaa 20 minuutin kypsennyksen jälkeen.",
+      "Jos et pelkää rasvaa, lisää pataan hieman pekonia.",
+      "Ripaus kuminaa (siemeninä tai jauhettuna) lisätään usein joukkoon."
+    ]
+  },
+  {
+    "id": "wikibooks-goulash-soup",
+    "title": "Gulassikeitto",
+    "description": "Itävaltalainen versio gulassikeitosta – helppo valmistaa, edullinen, maukas ja täyttävä ruoka kylmiin talvipäiviin. Tätä paksua, makeanmausteista keittoa tarjoillaan ravintoloissa ympäri Itävaltaa.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Keitot",
+    "tags": ["keitto", "liha", "itävaltalainen"],
+    "ingredients": [
+      "500 g vähärasvaista naudanlihaa",
+      "2 isoa sipulia",
+      "2 isoa perunaa, kuorittuna",
+      "2 rkl rypsiöljyä",
+      "3 rkl makeaa paprikajauhetta",
+      "1 tl tulista paprikajauhetta",
+      "1 tl kuminansiemeniä",
+      "1 tl timjamia (tuoretta tai kuivattua)",
+      "1 laakerinlehti",
+      "1 tl meiramia (tuoretta tai kuivattua)",
+      "1¼ dl tomaattisosetta",
+      "50 ml valkoviinietikkaa",
+      "1 l naudanlihalientä (tai 2 liemikuutiota liuotettuna 1 litraan vettä)",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Leikkaa naudanliha ja perunat 1,5 cm:n kuutioiksi. Rouhi kuminansiemenet karkeaksi veitsellä. Hienonna sipulit ohuiksi viipaleiksi. Lämmitä lihaliemi.",
+      "Kuumenna 1 rkl öljyä kattilassa keski-korkealla lämmöllä. Paista lihakuutiot keskiruskeiksi ja rapeiksi, nosta syrjään ja valuta talouspaperilla.",
+      "Käännä keskilämmölle. Lisää toinen ruokalusikallinen öljyä ja paahda kuminaa 1 minuutti. Lisää sipulit ja käännä miedolle lämmölle. Kypsennä sipuleita hitaasti, kunnes ne kellertyvät.",
+      "Lisää lihakuutiot ja kypsennä vielä 2 minuuttia. Lisää vähitellen etikka, lihaliemi, perunat ja tomaattisose. Lisää makea paprikajauhe ja sekoita hyvin kokkareiden hajottamiseksi.",
+      "Mausta meiramilla, timjamilla, tulisella paprikajauheella, laakerinlehdellä ja ripauksella mustapippuria. Hauduta 30 minuuttia."
+    ],
+    "notes": [
+      "Koristele jokainen annos ruokalusikallisella kermaviiliä tai crème fraîchea ja ripottele tuoretta ruohosipulia ennen tarjoilua.",
+      "Lisää 100 ml punaviiniä lihan ja sipulien paistamisen jälkeen.",
+      "Ravitsevamman aterian saat paistamalla 2 vihreää paprikaa, 3 tomaattia, 1 porkkanan ja 1 purjon (kaikki paloiteltuna) sipulien kanssa."
+    ]
+  }
+]

@@ -6,7 +6,12 @@
     "servings": 2,
     "totalTimeMin": 45,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "intialainen", "pata"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "intialainen",
+      "pata"
+    ],
     "ingredients": [
       "4 rkl kookosöljyä",
       "500 g sianlihaa, kuutioituna",
@@ -30,9 +35,15 @@
       "Lisää ½ dl vettä ja perunamuusijauhe. Säädä veden ja jauheen määrää halutun paksuuden mukaan.",
       "Ota pois liedeltä ja anna seistä 3–5 minuuttia ennen tarjoilua."
     ],
-    "notes": ["Jos perunamuusijauhetta ei ole, keitä perunat pehmeiksi ja muussaa ne.", "Jos käytät lihaliemikuutiota, ei tarvita lisää suolaa."]
+    "notes": [
+      "Jos perunamuusijauhetta ei ole, keitä perunat pehmeiksi ja muussaa ne.",
+      "Jos käytät lihaliemikuutiota, ei tarvita lisää suolaa."
+    ]
   },
-  { "id": "wikibooks-pork-and-carrots-in-sauce", "skip": "liian puutteellinen (rasvan ja jauhojen määrät puuttuvat)" },
+  {
+    "id": "wikibooks-pork-and-carrots-in-sauce",
+    "skip": "liian puutteellinen (rasvan ja jauhojen määrät puuttuvat)"
+  },
   {
     "id": "wikibooks-pork-and-lima-skillet",
     "title": "Possunkyljykset ja limapavut pannulla",
@@ -40,7 +51,12 @@
     "servings": 5,
     "totalTimeMin": 90,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "amerikkalainen", "pata"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "amerikkalainen",
+      "pata"
+    ],
     "ingredients": [
       "2 pkt (à 280 g) pakastettuja lima-papuja",
       "5–6 porsaan ulkofileekyljystä",
@@ -64,7 +80,12 @@
     "description": "Perinteinen indonesialainen sianliha, joka haudutetaan sipulissa, valkosipulissa ja soijakastikkeessa.",
     "servings": 6,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "indonesialainen", "pata"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "indonesialainen",
+      "pata"
+    ],
     "ingredients": [
       "1 kg sianlihaa",
       "5 isoa sipulia, hienonnettuna",
@@ -89,7 +110,12 @@
     "servings": 12,
     "totalTimeMin": 600,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "meksikolainen", "hidaskypsennys"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "meksikolainen",
+      "hidaskypsennys"
+    ],
     "ingredients": [
       "1 rkl rypsiöljyä",
       "4 valkosipulinkynttä, hienonnettuna",
@@ -133,7 +159,12 @@
     "description": "Tomaattikastikkeessa haudutetut paksut possunkyljykset tarjoillaan lusikoidun polentan päällä.",
     "servings": 6,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "italialainen", "polenta"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "italialainen",
+      "polenta"
+    ],
     "ingredients": [
       "kaksinkertainen annos polentaa (n. 5 dl maissijauhoa ja 2 l vettä)",
       "6 luutonta possunkyljystä (yht. 1 kg), 4 cm paksuja",
@@ -163,7 +194,12 @@
     "servings": 5,
     "totalTimeMin": 30,
     "category": "Välipalat",
-    "tags": ["liha", "sianliha", "japanilainen", "alkupala"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "japanilainen",
+      "alkupala"
+    ],
     "ingredients": [
       "225 g sian jauhelihaa",
       "1–3 tl sinappia",
@@ -194,7 +230,9 @@
       "Kypsennä, kunnes neste on haihtunut höyryksi (noin 2 minuuttia). Nesteen määrää voi joutua säätämään.",
       "Nosta gyozat varovasti pannulta. Tarjoa kuumina dippikastikkeiden kanssa."
     ],
-    "notes": ["Gyoza-levyt ovat pyöreitä, wonton-levyt neliöitä. Kumpaakin voi käyttää."]
+    "notes": [
+      "Gyoza-levyt ovat pyöreitä, wonton-levyt neliöitä. Kumpaakin voi käyttää."
+    ]
   },
   {
     "id": "wikibooks-pork-marinade",
@@ -204,7 +242,11 @@
     "servingsEstimated": true,
     "totalTimeMin": 5,
     "category": "Kastikkeet ja dipit",
-    "tags": ["marinadi", "sianliha", "nopea"],
+    "tags": [
+      "marinadi",
+      "sianliha",
+      "nopea"
+    ],
     "ingredients": [
       "2½ dl kanalientä",
       "1 dl punaviiniä",
@@ -214,7 +256,9 @@
       "1 rkl valkosipulijauhetta",
       "2 rkl vastajauhettua mustapippuria"
     ],
-    "instructions": ["Sekoita kaikki ainekset suureen säilöntälasipurkkiin. Säilytä jääkaapissa enintään 2 viikkoa."]
+    "instructions": [
+      "Sekoita kaikki ainekset suureen säilöntälasipurkkiin. Säilytä jääkaapissa enintään 2 viikkoa."
+    ]
   },
   {
     "id": "wikibooks-pork-pot-pie",
@@ -224,7 +268,12 @@
     "servingsEstimated": true,
     "totalTimeMin": 60,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "piirakka", "uuniruoka"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "piirakka",
+      "uuniruoka"
+    ],
     "ingredients": [
       "2 valmista piirakkataikinaa",
       "¾ dl margariinia (tai voita)",
@@ -253,6 +302,41 @@
     ]
   },
   {
+    "id": "wikibooks-pork-roast-with-cayenne-apple-glaze",
+    "title": "Porsaanpaisti cayenne-omenaglaseerauksella",
+    "description": "Mausteisella jauheseoksella hierottu porsaanpaisti, joka siveltynä siideri-sinappiglaseerauksella paistetaan uunissa mehukkaaksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "liha",
+      "sianliha",
+      "uuniruoka",
+      "juhla"
+    ],
+    "ingredients": [
+      "2 luutonta porsaan ulkofileetä",
+      "½ dl dijoninsinappia",
+      "1¾ dl omenasiideriä",
+      "2 rkl siiderietikkaa",
+      "2 rkl fariinisokeria",
+      "2 rkl worcestershirekastiketta",
+      "1 rkl cayennepippuria",
+      "1 rkl suolaa",
+      "1 rkl mustapippuria",
+      "1 rkl savupaprikajauhetta"
+    ],
+    "instructions": [
+      "Sekoita keskenään cayennepippuri, suola, mustapippuri ja savupaprikajauhe. Laita sivuun.",
+      "Sivele sinappia tarvittava määrä kummankin paistin toiseen päähän ja liitä paistit yhteen sinappisista päistä.",
+      "Levitä loppu sinappi paistien pinnalle ja painele mausteseos kiinni pintaan.",
+      "Paista 190-asteisessa uunissa, kunnes sisälämpötila on noin 57 astetta.",
+      "Sekoita omenasiideri, siiderietikka, fariinisokeri ja worcestershirekastike keskenään ja sivele seos paistien pinnalle.",
+      "Jatka paistamista 190 asteessa, kunnes sisälämpötila on noin 63 astetta (liha on tällöin turvallisesti kypsää).",
+      "Anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
     "id": "wikibooks-pork-spare-rib-soup-bah-kut-teh",
     "title": "Bah kut teh – sianrivikeitto",
     "description": "Hokkien-kiinalaisten maustettu yrttikeitto possun kylkiluista, valkosipulista ja aromaattisista mausteista.",
@@ -260,7 +344,12 @@
     "servingsEstimated": true,
     "totalTimeMin": 90,
     "category": "Keitot",
-    "tags": ["liha", "sianliha", "keitto", "kiinalainen"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "keitto",
+      "kiinalainen"
+    ],
     "ingredients": [
       "6 kuivattua shiitake-sientä",
       "680 g porsaan kylkiluita, 5 cm:n paloiksi leikattuna",
@@ -286,14 +375,22 @@
       "Kun liha on lähes irtoamassa luista, poista maustepussi, mausta suolalla ja pippurilla ja lisää tumma soijakastike ja sokeri."
     ]
   },
-  { "id": "wikibooks-pork-stomach-filled-with-meat-and-vegetables-saumagen", "skip": "vaikeasti saatava raaka-aine (sianmaha) ja ohje epätarkka" },
+  {
+    "id": "wikibooks-pork-stomach-filled-with-meat-and-vegetables-saumagen",
+    "skip": "vaikeasti saatava raaka-aine (sianmaha) ja ohje epätarkka"
+  },
   {
     "id": "wikibooks-pork-tenderloin-with-asparagus-and-prosciutto",
     "title": "Porsaan sisäfile, parsa ja prosciutto lingunen kanssa",
     "description": "Prosciuttoon käärittyä ja uunissa kypsennettyä porsaan sisäfilettä, linguinea ja kermaista parsakastiketta.",
     "servings": 3,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "pasta", "italialainen"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "pasta",
+      "italialainen"
+    ],
     "ingredients": [
       "n. 225 g porsaan sisäfileetä",
       "450 g parsaa",
@@ -335,7 +432,11 @@
     "servings": 1,
     "totalTimeMin": 10,
     "category": "Aamiainen",
-    "tags": ["kala", "muna", "nopea"],
+    "tags": [
+      "kala",
+      "muna",
+      "nopea"
+    ],
     "ingredients": [
       "1 ripaus valkoviinietikkaa",
       "2 isoa munaa",
@@ -360,7 +461,12 @@
     "servingsEstimated": true,
     "totalTimeMin": 25,
     "category": "Aamiainen",
-    "tags": ["kasvis", "muna", "uuniruoka", "sienet"],
+    "tags": [
+      "kasvis",
+      "muna",
+      "uuniruoka",
+      "sienet"
+    ],
     "ingredients": [
       "4–5 isoa portobello-sientä",
       "3 munaa",
@@ -384,7 +490,12 @@
     "servings": 10,
     "totalTimeMin": 120,
     "category": "Pääruoat",
-    "tags": ["liha", "sianliha", "pata", "portugalilainen"],
+    "tags": [
+      "liha",
+      "sianliha",
+      "pata",
+      "portugalilainen"
+    ],
     "ingredients": [
       "1 l kuivattuja mustia papuja",
       "n. 1 kg sekalaista lihaa (perinteisesti sianjalkaa, sianlihamakkaraa ja suolattua kuivattua naudanlihaa)",
@@ -421,8 +532,17 @@
     "servingsEstimated": true,
     "totalTimeMin": 25,
     "category": "Lisukkeet",
-    "tags": ["kasvis", "afrikkalainen", "maissi", "puuro"],
-    "ingredients": ["7 dl vettä", "2½ dl maissijauhoa", "1 rkl voita tai öljyä (valinnainen)"],
+    "tags": [
+      "kasvis",
+      "afrikkalainen",
+      "maissi",
+      "puuro"
+    ],
+    "ingredients": [
+      "7 dl vettä",
+      "2½ dl maissijauhoa",
+      "1 rkl voita tai öljyä (valinnainen)"
+    ],
     "instructions": [
       "Kuumenna vesi kattilassa kiehuvaksi keskilämmöllä.",
       "Lisää maissijauho vähitellen kiehuvaan veteen puulusikalla tai vispilällä jatkuvasti sekoittaen, ettei muodostu paakkuja.",
@@ -432,7 +552,9 @@
       "Ota kattila liedeltä ja anna posho levätä muutama minuutti ennen tarjoilua.",
       "Tarjoa lämpimänä lisukkeena pataruokien, kasvisten tai muiden ruokien kanssa."
     ],
-    "notes": ["Paksumpaan puuroon käytä vähemmän vettä, ohuempaan lisää vettä."]
+    "notes": [
+      "Paksumpaan puuroon käytä vähemmän vettä, ohuempaan lisää vettä."
+    ]
   },
   {
     "id": "wikibooks-posho-and-beans",
@@ -442,7 +564,12 @@
     "servingsEstimated": true,
     "totalTimeMin": 150,
     "category": "Pääruoat",
-    "tags": ["vegaaninen", "kasvis", "afrikkalainen", "papu"],
+    "tags": [
+      "vegaaninen",
+      "kasvis",
+      "afrikkalainen",
+      "papu"
+    ],
     "ingredients": [
       "400 g kuivattuja papuja",
       "2 sipulia, hienonnettuna",
@@ -467,14 +594,22 @@
       "Tarjoa heti papujen kanssa."
     ]
   },
-  { "id": "wikibooks-pot-stickers", "skip": "liian puutteellinen (täyte jää valinnaiseksi ilman määriä)" },
+  {
+    "id": "wikibooks-pot-stickers",
+    "skip": "liian puutteellinen (täyte jää valinnaiseksi ilman määriä)"
+  },
   {
     "id": "wikibooks-pot-au-feu-boiled-meat-and-vegetables",
     "title": "Pot-au-feu – ranskalainen keitetty liha ja kasvikset",
     "description": "Ranskalainen maalaisruoka, jossa edullinen naudanliha ja juurekset keitetään liemessä. Liemi tarjotaan ensin.",
     "servings": 4,
     "category": "Pääruoat",
-    "tags": ["liha", "naudanliha", "ranskalainen", "keitto"],
+    "tags": [
+      "liha",
+      "naudanliha",
+      "ranskalainen",
+      "keitto"
+    ],
     "ingredients": [
       "2 sipulia (n. 380 g)",
       "4 porkkanaa (n. 500 g)",
@@ -504,7 +639,9 @@
       "Jos käytät ydinluita, keitä ne erikseen tai kypsennä paineessa 5 minuuttia lihan kanssa.",
       "Jäähdytä painekattila, jotta voit avata sen. Ota liha pois ja palauta kasvikset liemeen. Anna liemen kiehua lämmitykseen sillä aikaa, kun viipaloit lihan."
     ],
-    "notes": ["Ranskalaisen perinteen mukaan liemi tarjoillaan ensin muskotilla ja paahdetulla leivällä. Sitten tarjoillaan liha ja kasvikset sinapin, suolan ja suolakurkkujen kanssa."]
+    "notes": [
+      "Ranskalaisen perinteen mukaan liemi tarjoillaan ensin muskotilla ja paahdetulla leivällä. Sitten tarjoillaan liha ja kasvikset sinapin, suolan ja suolakurkkujen kanssa."
+    ]
   },
   {
     "id": "wikibooks-potage-parmentier",
@@ -513,7 +650,12 @@
     "servings": 8,
     "totalTimeMin": 120,
     "category": "Keitot",
-    "tags": ["kasvis", "keitto", "ranskalainen", "peruna"],
+    "tags": [
+      "kasvis",
+      "keitto",
+      "ranskalainen",
+      "peruna"
+    ],
     "ingredients": [
       "450 g viipaloitua purjoa tai sipulia",
       "700–900 g jauhoisia perunoita, kuorittuna ja paksuiksi viipaleiksi",
@@ -531,7 +673,9 @@
       "Jäähdytä keitto, jos tarjoat sen kylmänä, tai lämmitä se kiehumispisteeseen. Säilytä jäämät jääkaapissa.",
       "Lisää 1½–2 tl kermaa (tai täysmaitoa) annosta kohti juuri ennen tarjoilua. Maista ja säädä suola ja pippuri."
     ],
-    "notes": ["Keitto maistuu paremmalle, kun se saa jäähtyä jääkaapissa 1–2 tuntia ja lämmitetään tarjoiltaessa."]
+    "notes": [
+      "Keitto maistuu paremmalle, kun se saa jäähtyä jääkaapissa 1–2 tuntia ja lämmitetään tarjoiltaessa."
+    ]
   },
   {
     "id": "wikibooks-potato-and-cabbage-soup",
@@ -539,7 +683,12 @@
     "description": "Albanialainen keitto, jossa on kaalia, perunaa, punajuurta ja kermaa.",
     "servings": 4,
     "category": "Keitot",
-    "tags": ["liha", "keitto", "albanialainen", "peruna"],
+    "tags": [
+      "liha",
+      "keitto",
+      "albanialainen",
+      "peruna"
+    ],
     "ingredients": [
       "1 sipuli, raastettuna",
       "3 rkl öljyä tai margariinia",
@@ -573,7 +722,12 @@
     "servings": 6,
     "servingsEstimated": true,
     "category": "Pääruoat",
-    "tags": ["vegaaninen", "kasvis", "intialainen", "curry"],
+    "tags": [
+      "vegaaninen",
+      "kasvis",
+      "intialainen",
+      "curry"
+    ],
     "ingredients": [
       "800 g tomaatteja, kuutioituna tai soseutettuna",
       "2 isoa kukkakaalia, pilkottuna",
@@ -604,7 +758,12 @@
     "servings": 8,
     "totalTimeMin": 90,
     "category": "Keitot",
-    "tags": ["kana", "keitto", "kolumbialainen", "peruna"],
+    "tags": [
+      "kana",
+      "keitto",
+      "kolumbialainen",
+      "peruna"
+    ],
     "ingredients": [
       "1 kokonainen broilerin rintapala luineen ja nahkoineen (n. 750 g)",
       "1 l kanalientä",
@@ -641,7 +800,9 @@
       "Lisää kana ja herneet keittoon ja hauduta 5 minuuttia. Viipaloi porkkanat 5 mm:n rinkuloiksi ja lisää keittoon. Mausta suolalla.",
       "Tarjoa kuumana ja lisäkkeiden kanssa."
     ],
-    "notes": ["Jos keitto on liian paksua, lisää kiehuvaa vettä vähän kerrallaan. Koostumuksen pitäisi olla kuin kuohukerman. Keitto sakenee jäähtyessään."]
+    "notes": [
+      "Jos keitto on liian paksua, lisää kiehuvaa vettä vähän kerrallaan. Koostumuksen pitäisi olla kuin kuohukerman. Keitto sakenee jäähtyessään."
+    ]
   },
   {
     "id": "wikibooks-potato-and-garlic-ravioli-filling",
@@ -650,7 +811,12 @@
     "servings": 6,
     "servingsEstimated": true,
     "category": "Muut",
-    "tags": ["vegaaninen", "kasvis", "italialainen", "täyte"],
+    "tags": [
+      "vegaaninen",
+      "kasvis",
+      "italialainen",
+      "täyte"
+    ],
     "ingredients": [
       "3 isoa jauhoista perunaa",
       "4 rkl oliiviöljyä",

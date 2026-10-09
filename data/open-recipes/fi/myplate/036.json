@@ -1,0 +1,667 @@
+[
+  {
+    "id": "myplate-stuffed-baked-potatoes",
+    "title": "Täytetyt uuniperunat",
+    "description": "Tarjoa nämä herkulliset täytetyt perunat grillatun tai uunissa paistetun lihan, kalan tai tofun kanssa.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "peruna", "uuniruoka"],
+    "ingredients": [
+      "4 keskikokoista uuniperunaa",
+      "2 dl vähärasvaista raejuustoa",
+      "½ dl 1-prosenttista vähärasvaista maitoa",
+      "2 rkl margariinia",
+      "1 tl tilliä",
+      "¾ tl yrttimausteseosta",
+      "¼ tl chilikastiketta (tai maun mukaan)",
+      "2 rkl parmesaania"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pistele perunoita haarukalla.",
+      "Paista 220 asteessa 60 minuuttia tai kunnes haarukka uppoaa helposti.",
+      "Leikkaa perunat puoliksi pitkittäin.",
+      "Kaavi varovasti perunan sisus pois, jättäen noin 1 cm perunamassaa kuoreen.",
+      "Soseuta perunamassa isossa kulhossa.",
+      "Sekoita loput ainekset perunamuusiin, paitsi parmesaani.",
+      "Lusikoi seos perunankuoriin.",
+      "Ripottele kunkin täytetyn perunan päälle parmesaania.",
+      "Aseta uunipellille ja laita takaisin uuniin.",
+      "Paista 15–20 minuuttia, kunnes pinnat ovat kullanruskeita."
+    ]
+  },
+  {
+    "id": "myplate-stuffed-bell-peppers",
+    "title": "Täytetyt paprikat",
+    "description": "Jauhelihan, täysjyväriisin, vihannesten ja mausteiden yhdistelmällä täytetyt paprikat tekevät täyttävän aterian. Kokeile punaisia, vihreitä, keltaisia ja oransseja paprikoita värikkääksi ateriaksi. Nauti vähärasvaisen raejuuston ja säilykeananaksen kanssa.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["liha", "uuniruoka", "riisi"],
+    "ingredients": [
+      "5 paprikaa (punaista, oranssia, keltaista tai vihreää)",
+      "450 g naudan jauhelihaa (90 % vähärasvaista)",
+      "2 dl täysjyväriisiä",
+      "2 dl vähäsuolaisia kuutioituja tomaatteja (n. puolikas tölkki)",
+      "3 rkl sitruunamehua",
+      "¼ tl kanelia",
+      "¼ tl maustepippuria",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Leikkaa pyöreä aukko paprikoiden yläosaan.",
+      "Poista siemenet ja väliseinät ja laita sivuun.",
+      "Yhdistä isossa kulhossa loput ainekset ja sekoita, kunnes täysin yhdistynyt.",
+      "Täytä paprikat lihaseoksella.",
+      "Aseta täytetyt paprikat isoon kattilaan liedelle, aukko ylöspäin.",
+      "Lisää 2,5 cm vettä kattilan pohjalle ja peitä kannella.",
+      "Pidä keskilämmöllä kannen alla 30–40 minuuttia, kunnes riisi on kypsää.",
+      "Tarjoa."
+    ]
+  },
+  {
+    "id": "myplate-stuffed-pasta-shells",
+    "title": "Täytetyt pastakuoret",
+    "description": "Pinaatti, vähärasvaisten juustojen seos ja yrtit yhdistyvät herkulliseksi täytteeksi näihin täytettyihin pastakuoriin.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "pasta", "uuniruoka", "italialainen"],
+    "ingredients": [
+      "280 g pakastettua silputtua pinaattia, sulatettuna",
+      "340 g vähärasvaista raejuustoa",
+      "4 dl raastettua vähärasvaista mozzarellaa, jaettuna",
+      "1½ tl kuivattua oreganoa",
+      "¼ tl mustapippuria",
+      "680 g vähäsuolaista spagettikastiketta (1 purkki)",
+      "2½ dl vettä",
+      "170 g isoja täytettäviä pastakuoria (conchiglioni), keittämättömiä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 190 asteeseen. Voitele 23 x 33 cm:n vuoka kevyesti ruokavalmisteella.",
+      "Laita sivuun.",
+      "Valuta pinaatti siivilässä tai purista lusikalla kulhossa mahdollisimman paljon nestettä pois, tai purista käsin.",
+      "Laita pinaatti keskikokoiseen kulhoon.",
+      "Lisää raejuusto, 2½ dl mozzarellasta, oregano ja pippuri pinaatin joukkoon.",
+      "Sekoita hyvin.",
+      "Kaada puolet spagettikastikkeesta valmisteltuun vuokaan.",
+      "Lisää vesi ja sekoita joukkoon.",
+      "Lusikoi noin 3 rkl juustoseosta jokaiseen keittämättömään pastakuoreen.",
+      "Asettele yhteen kerrokseen vuokaan.",
+      "Kaada loppu kastike päälle.",
+      "Ripottele loput mozzarellasta tasaisesti kastikkeen päälle.",
+      "Peitä tiiviisti foliolla.",
+      "Paista tunti tai kunnes kuoret ovat pehmeitä.",
+      "Anna seistä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-stuffed-summer-squash",
+    "title": "Täytetty kesäkurpitsa",
+    "description": "Täysjyväriisillä, tuoreella basilikalla, pavuilla, juustolla ja vihanneksilla täytetty kesäkurpitsa on täyttävä ja maukas ruoka. Kokeile tätä reseptiä, kun kesäkurpitsaa on runsaasti tarjolla puutarhassasi tai torilla.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "riisi", "uuniruoka"],
+    "ingredients": [
+      "2 keskikokoista kesäkurpitsaa",
+      "7 dl kypsää täysjyväriisiä",
+      "2½ dl kuutioituja tomaatteja",
+      "2½ dl valkoisia papuja, valutettuna ja huuhdeltuna",
+      "1 rkl tuoretta basilikaa",
+      "4 rkl parmesaania"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Pese kesäkurpitsat ja leikkaa molemmat pitkittäin puoliksi.",
+      "Poista isot siemenet.",
+      "Höyrytä kesäkurpitsoja kuori alaspäin pienessä vesimäärässä paistinpannussa, kunnes hieman pehmeitä (mutta ei puuroutuneita).",
+      "Kaavi pois sopiva määrä massaa (n. 2½ dl), laita kulhoon ja sekoita muiden aineiden (riisistä parmesaaniin) kanssa.",
+      "Aseta kesäkurpitsankuoret uunivuokaan.",
+      "Täytä kesäkurpitsat täytteellä.",
+      "Ripottele päälle raastettua parmesaania.",
+      "Paista esilämmitetyssä uunissa noin 30 minuuttia."
+    ]
+  },
+  {
+    "id": "myplate-stuffed-tomatoes",
+    "title": "Täytetyt tomaatit",
+    "description": "Täytetyt tomaatit ovat herkullinen lisuke uunivihanneskanan kanssa; molemmat ruoat paistetaan 200 asteessa, joten lisää täytetyt tomaatit uuniin viimeisiksi 20 minuutiksi.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "uuniruoka"],
+    "ingredients": [
+      "1 pieni sipuli",
+      "3 isoa tomaattia",
+      "2½ dl maustamattomia korppujauhoja",
+      "2 tl kuivattua persiljaa",
+      "2 tl kuivattua basilikaa",
+      "½ tl mustapippuria",
+      "¼ tl valkosipulijauhetta",
+      "1 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "½ dl vettä, tai tarvittaessa enemmän"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 200 asteeseen. Kuori sipuli.",
+      "Hienonna se pieniksi paloiksi.",
+      "Leikkaa kukin tomaatti puoliksi.",
+      "Poista kanta sisältävä osa.",
+      "Purista varovasti kutakin tomaattipuolikasta pesualtaan yllä, jotta siemenet irtoavat.",
+      "Laita korppujauhot keskikokoiseen kulhoon.",
+      "Lisää mausteet ja öljy.",
+      "Sekoita hyvin, lisäten vettä vähitellen murujen kostuttamiseksi.",
+      "Paina lusikalla murumassa tomaattipuolikkaisiin.",
+      "Öljyä uunivuoka kevyesti.",
+      "Aseta tomaatit vuokaan leikkauspinta ylöspäin.",
+      "Paista 15–20 minuuttia, kunnes murut ovat ruskistuneet ja tomaatit ovat pehmeitä."
+    ]
+  },
+  {
+    "id": "myplate-sugar-and-spice-cookies-better-baking-mix",
+    "skip": "viittaa toiseen reseptiin (Better Baking Mix) ilman määriä, ei voi valmistaa itsenäisesti"
+  },
+  {
+    "id": "myplate-summer-breeze-smoothie",
+    "title": "Kesätuulen smoothie",
+    "description": "Herkullinen smoothie on täydellinen kesäinen välipala tai jälkiruoka.",
+    "servings": 3,
+    "category": "Juomat",
+    "tags": ["kasvis", "hedelmä", "nopea"],
+    "ingredients": [
+      "2½ dl rasvatonta maustamatonta jogurttia",
+      "6 mansikkaa",
+      "2½ dl murskattua ananasta omassa mehussaan",
+      "1 banaani",
+      "1 tl vaniljauutetta",
+      "4 jääpalaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Laita kaikki ainekset tehosekoittimeen ja soseuta tasaiseksi.",
+      "Tarjoa huurteisessa lasissa."
+    ]
+  },
+  {
+    "id": "myplate-summer-italian-vegetables",
+    "title": "Kesäiset italialaiset vihannekset",
+    "description": "Tuoreet tomaatit, kesäkurpitsa, vihreä paprika ja sipuli antavat tälle juustoiselle lisukkeelle lisäpotkua mihin tahansa kesäateriaan. Käytä mitä tahansa vihanneksia, joita sinulla on tai jotka löydät torilta.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "italialainen"],
+    "ingredients": [
+      "1 keskikokoinen sipuli, kuutioituna",
+      "1 keskikokoinen keltainen kesäkurpitsa (tai tavallinen kesäkurpitsa), kuutioituna",
+      "1 keskikokoinen tomaatti, kuutioituna",
+      "1 keskikokoinen vihreä paprika, paloiteltuna",
+      "½ tl oreganoa",
+      "1 tlk (225 g) vähäsuolaista tomaattikastiketta",
+      "1¼ dl vähärasvaista mozzarellaa, raastettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Yhdistä sipuli, kesäkurpitsa, tomaatti ja vihreä paprika uunivuoassa.",
+      "Ripottele oreganolla.",
+      "Kaada tomaattikastike vihannesten päälle.",
+      "Paista ilman kantta 175 asteessa 20–30 minuuttia.",
+      "Lisää juusto päälle ja paista vielä 4–5 minuuttia, kunnes juusto on sulanut.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-summer-salad",
+    "title": "Kesäsalaatti",
+    "description": "Tämä salaatti kootaan hetkessä. Saksanpähkinät antavat salaatille ihanan rapean rakenteen. Nauti maukkaana lisäsalaattina.",
+    "servings": 8,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti"],
+    "ingredients": [
+      "5 dl salaatinlehtiä",
+      "6 kevätsipulia, ohuiksi viipaleiksi",
+      "6 isoa tuoretta herkkusientä, ohuiksi viipaleiksi",
+      "½ dl saksanpähkinöitä, karkeasti rouhittuna",
+      "2 dl tuoretta persiljaa, hienonnettuna",
+      "¾ annosta kirpeää öljy-etikkakastiketta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese ja kuivaa salaatinlehdet.",
+      "Revi suupaloiksi ja laita isoon salaattikulhoon.",
+      "Lisää sipuli, herkkusienet, pähkinät ja persilja.",
+      "Juuri ennen tarjoilua, sekoita joukkoon kastike."
+    ]
+  },
+  {
+    "id": "myplate-summer-squash-medley",
+    "title": "Kesäkurpitsasekoitus",
+    "description": "Valkosipulijauhe ja sipuli antavat kesävihanneksille hyvän maun. Yhdistettynä säilyketomaatteihin tätä voidaan tarjota lisukkeena tai täysjyväpastan tai -riisin kanssa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "italialainen"],
+    "ingredients": [
+      "1 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "1½ keskikokoista kesäkurpitsaa, viipaloituna",
+      "1½ keskikokoista keltaista kesäkurpitsaa, viipaloituna",
+      "1 pieni sipuli, viipaloituna",
+      "1 tlk (410 g) kuutioituja italialaisia tomaatteja",
+      "¼ tl valkosipulijauhetta",
+      "suolaa",
+      "mustapippuria",
+      "2 rkl parmesaania, raastettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy isossa paistinpannussa.",
+      "Lisää kuumaan öljyyn keltainen kesäkurpitsa, tavallinen kesäkurpitsa ja sipuli.",
+      "Kypsennä keskilämmöllä pehmeäksi, noin 10 minuuttia, sekoitellen usein.",
+      "Lisää tomaatit ja hauduta 5 minuuttia.",
+      "Mausta valkosipulijauheella maun mukaan.",
+      "Lisää suolaa ja mustapippuria, jos haluat.",
+      "Tarjoa lämpimänä parmesaanilla ripoteltuna."
+    ]
+  },
+  {
+    "id": "myplate-summer-squash-squares",
+    "title": "Kesäkurpitsaneliöt",
+    "description": "Tämä lisuke sopii hyvin suurelle juhla-aterialle tai yhteisölliselle ruokailulle. Kokeile eri vihanneksilla hauskaksi vaihteluksi.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka"],
+    "ingredients": [
+      "4 kananmunaa, kevyesti vatkattuna",
+      "½ dl rypsiöljyä (tai muuta ruokaöljyä)",
+      "7 dl ohuiksi viipaloitua kesäkurpitsaa (tai keltaista kesäkurpitsaa)",
+      "½ dl hienonnettua sipulia",
+      "2½ dl leivontaseosta",
+      "1 tl kuivattua persiljaa (tai 2 rkl tuoretta persiljaa, hienonnettuna)",
+      "¾ dl raastettua cheddarjuustoa",
+      "2½ dl raastettua porkkanaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Sekoita kaikki ainekset hyvin keskenään ja kaada voideltuun 23 x 33 cm:n vuokaan.",
+      "Paista esilämmitetyssä uunissa 25 minuuttia, kunnes kuplii ja on ruskistunut.",
+      "Leikkaa 8 neliöön ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-summer-squash-stir-fry",
+    "title": "Wokattu kesäkurpitsa",
+    "description": "Piristä tätä kesäistä ruokaa lisäämällä juustokuminaa, valkosipulijauhetta tai tuoretta basilikaa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "nopea"],
+    "ingredients": [
+      "1 rkl oliiviöljyä (tai muuta ruokaöljyä)",
+      "1 pieni sipuli, hienonnettuna",
+      "2½ dl porkkanaa, ohuiksi viipaleiksi",
+      "5 dl kesäkurpitsaa, pestynä ja viipaloituna",
+      "mausteita maun mukaan (esim. valkosipulijauhetta, mustapippuria, juustokuminaa, timjamia, basilikaa tai oreganoa)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy isossa paistinpannussa keski-kovalla lämmöllä.",
+      "Lisää sipuli ja paista, kunnes se on läpikuultava ja alkaa ruskistua.",
+      "Lisää porkkanat ja sekoita, kunnes porkkanat ovat mureita mutta rapeita.",
+      "Lisää kesäkurpitsa ja kypsennä noin 2 minuuttia.",
+      "Laske lämpöä.",
+      "Lisää halutut mausteet.",
+      "Kypsennä vielä 2 minuuttia.",
+      "Tarjoa lisukkeena."
+    ]
+  },
+  {
+    "id": "myplate-summer-vegetable-spaghetti",
+    "title": "Kesävihannesspagetti",
+    "description": "Tämä maukas pastaruoka on täynnä herkullisia vihanneksia. Nauti hedelmien kanssa lisukkeena.",
+    "servings": 9,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "pasta", "italialainen"],
+    "ingredients": [
+      "5 dl pieniä keltasipuleita, hienonnettuna",
+      "5 dl tuoreita tomaatteja, kuorittuna ja paloiteltuna (n. 450 g)",
+      "5 dl kesäkurpitsaa, ohuiksi viipaleiksi (n. 450 g)",
+      "3½ dl tuoreita vihreitä papuja (n. 225 g)",
+      "1½ dl vettä",
+      "2 rkl tuoretta persiljaa, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "½ tl chilijauhetta",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "1 tlk (170 g) vähäsuolaista tomaattipyreetä",
+      "450 g spagettia, keittämätöntä",
+      "1¼ dl parmesaania, raastettuna",
+      "3 tuoretta basilikanlehteä (valinnainen, koristeluun)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä isossa kattilassa ensimmäiset 10 ainesta (sipuleista mustapippuriin).",
+      "Kypsennä 10 minuuttia keskilämmöllä, sekoita sitten joukkoon tomaattipyree.",
+      "Peitä ja kypsennä keskilämmöllä 15 minuuttia, sekoittaen välillä, kunnes vihannekset ovat pehmeitä.",
+      "Keitä spagetti suolattomassa vedessä pakkauksen ohjeen mukaan.",
+      "Lusikoi kastike valutetun kuuman spagetin päälle ja ripottele parmesaania päälle.",
+      "Koristele basilikalla halutessasi."
+    ]
+  },
+  {
+    "id": "myplate-sunshine-rice",
+    "title": "Aurinkoriisi",
+    "description": "Chilikastike ja mantelit tuovat tähän riisiruokaan runsaasti makua. Vain yksi kattila tarvitaan, mikä tekee tästä helpon ja herkullisen lisukkeen.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "vegaaninen", "riisi"],
+    "ingredients": [
+      "1½ rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "3 dl selleriä, hienonnettuna, lehtineen",
+      "3½ dl sipulia, hienonnettuna",
+      "2½ dl vettä",
+      "1¼ dl appelsiinimehua",
+      "2 rkl sitruunamehua",
+      "ripaus chilikastiketta",
+      "2½ dl pitkäjyväistä valkoista riisiä, keittämätöntä",
+      "½ dl manteleita, suikaleina"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy keskikokoisessa kattilassa.",
+      "Lisää selleri ja sipuli ja kuullota pehmeäksi, noin 10 minuuttia.",
+      "Lisää vesi, appelsiini- ja sitruunamehu sekä chilikastike.",
+      "Kuumenna kiehuvaksi.",
+      "Sekoita joukkoon riisi ja kuumenna uudelleen kiehuvaksi.",
+      "Anna seistä kannen alla, kunnes riisi on pehmeää ja neste imeytynyt.",
+      "Sekoita joukkoon mantelit.",
+      "Tarjoa heti kalaruoan lisukkeena."
+    ]
+  },
+  {
+    "id": "myplate-sunshine-salad",
+    "title": "Aurinkosalaatti",
+    "description": "Appelsiinit kirkastavat tätä maukasta vihannessalaattia. Se on nopea ja helppo valmistaa. Viimeistele suosikkivinaigrettesi kanssa.",
+    "servings": 5,
+    "category": "Salaatit",
+    "tags": ["kasvis", "vegaaninen", "salaatti"],
+    "ingredients": [
+      "1,2 l pinaatinlehtiä, tiiviisti pakattuna, pestynä ja kuivattuna",
+      "½ keskikokoista punasipulia, ohuiksi viipaleiksi",
+      "½ keskikokoista punaista paprikaa, viipaloituna",
+      "1 keskikokoinen kurkku, viipaloituna",
+      "2 keskikokoista appelsiinia, kuorittuna ja paloiteltuna suupaloiksi",
+      "¾ dl kevyttä vinaigrette-kastiketta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita kaikki ainekset isossa kulhossa.",
+      "Lisää kastike ja sekoita uudelleen.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "myplate-sweet-acorn-squash",
+    "title": "Makea viherkurpitsa",
+    "description": "Uunissa paistettu kurpitsa, joka maustetaan kanelilla ja muskottipähkinällä, tuo ruokaan syksyn maut.",
+    "servings": 4,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "uuniruoka"],
+    "ingredients": [
+      "2 viherkurpitsaa (acorn squash)",
+      "1¼ dl appelsiinimehua",
+      "1 tl kanelia",
+      "¼ tl muskottipähkinää"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Laita kumpikin kurpitsa mikroaaltouuniin.",
+      "Kuumenna täydellä teholla 1½ minuuttia.",
+      "Tämä pehmentää kurpitsaa ja helpottaa sen leikkaamista.",
+      "Leikkaa kumpikin kurpitsa puoliksi.",
+      "Poista siemenet ja löysää keskeltä olevat säikeet.",
+      "Aseta kurpitsat voitelemattomalle uunipellille.",
+      "Kurpitsan leikkauspinnan tulee olla ylöspäin, ja leikkaamattoman osan tulee koskettaa peltiä.",
+      "Kaada 2 rkl mehua kumpaankin kurpitsanpuolikkaaseen.",
+      "Levitä se tasaisesti kurpitsan sisäpinnalle.",
+      "Paista 200 asteessa 30–45 minuuttia, kunnes pehmeää.",
+      "Mausta kanelilla ja muskotilla ja tarjoa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-and-juicy-raisin-tapenade",
+    "title": "Makea ja mehukas rusinatapenadi",
+    "description": "Perinteiset tapenadit voivat sisältää paljon suolaa, mutta ei tämä versio, jonka pohjana on rusinat. Levitä näkkileivälle tai pitaleivälle välipalaksi tai alkupalaksi, tai tarjoa osana tapas-henkistä ateriaa. Sopii myös hyväksi mukaan otettavaksi lounaaksi.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "dippi"],
+    "ingredients": [
+      "2½ dl rusinoita",
+      "½ dl kivettömiä kalamataoliiveja, valutettuna",
+      "2 tl saksanpähkinöitä",
+      "1 rkl balsamietikkaa",
+      "2 tl oliiviöljyä",
+      "1 iso täysjyväpitaleipä (n. 16 lohkoa tai näkkileipäpalaa)"
+    ],
+    "instructions": [
+      "Laita tapenadin ainekset monitoimikoneeseen.",
+      "Käytä konetta, kunnes rusinat, oliivit ja pähkinät ovat hienoksi silputtuja.",
+      "Voidaan valmistaa etukäteen ja säilyttää jääkaapissa.",
+      "Tarjoa näkkileipäpalojen tai pitaleivän lohkojen kanssa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-and-sour-cabbage",
+    "title": "Makeahapan kaalisalaatti",
+    "description": "Tämä kirpeä kaaliruoka ei vaadi keittämistä. Jäähdytä useita tunteja ja tarjoa lisukkeena lounaalle tai päivälliselle.",
+    "servings": 8,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "salaatti"],
+    "ingredients": [
+      "½ keskikokoinen kaalinkerä (n. 1 l silputtuna)",
+      "½ tl suolaa",
+      "½ tl sellerinsiemeniä",
+      "2 rkl sokeria",
+      "3 rkl etikkaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Leikkaa kaali puoliksi ja huuhtele se vedellä.",
+      "Silppua kaali hyvin ohuiksi suupaloiksi.",
+      "Yhdistä ainekset isossa kulhossa ja sekoita hyvin.",
+      "Peitä kulho.",
+      "Anna jäähtyä jääkaapissa useita tunteja ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-sweet-and-sour-dressing",
+    "title": "Makeahapan kastike",
+    "description": "Vain kolme ainesta tässä nopeassa ja helpossa kastikkeessa. Tarjoa kylmänä suosikkisalaattisi kanssa.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "kastike"],
+    "ingredients": [
+      "1¼ dl sokeria",
+      "1 rkl maissitärkkelystä",
+      "1¼ dl etikkaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä pienessä kattilassa sokeri ja maissitärkkelys.",
+      "Sekoita joukkoon etikka.",
+      "Kypsennä keskilämmöllä, kunnes seos on hieman sakeutunut ja kirkas.",
+      "Jäähdytä ennen tarjoilua.",
+      "Säilytä jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-and-sour-vegetables",
+    "title": "Makeahappamat vihannekset",
+    "description": "Sitruunamehu, hunaja, soijakastike ja ananasmehu muodostavat tämän herkullisen makeahappaman kastikkeen pohjan. Tämä ruoka on erinomainen pastan tai täysjyväriisin kanssa. Nauti!",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "vegaaninen", "aasialainen"],
+    "ingredients": [
+      "1 rkl hunajaa",
+      "1 rkl sitruunamehua",
+      "1 tl vähäsuolaista soijakastiketta",
+      "¼ tl tuoretta inkivääriä, raastettuna",
+      "2½ dl säilykeananaspaloja",
+      "1 rkl maissitärkkelystä (sakeuttamiseen)",
+      "2 tl rypsiöljyä (tai muuta ruokaöljyä)",
+      "450 g pakastettuja wokvihanneksia"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä kaikki ainekset paitsi vihannekset kulhoon; sekoita ja laita sivuun.",
+      "Kuumenna 2 tl öljyä isossa pannussa ja lisää pakastevihannekset.",
+      "Kypsennä 3–4 minuuttia tai kunnes vihannekset ovat mureita mutta rapeita.",
+      "Lisää makeahapan kastike ja kypsennä vielä 2 minuuttia tai kunnes seos alkaa kiehua.",
+      "Lisää vettä, jos seos vaikuttaa liian paksulta.",
+      "Tarjoa heti."
+    ]
+  },
+  {
+    "id": "myplate-sweet-cornmeal-pudding-ginger-cinnamon",
+    "title": "Makea maissijauhovanukas inkiväärillä ja kanelilla",
+    "description": "Tämä uunissa paistettu vanukas yhdistää maidon ja maissijauhon mausteiden kanssa vanukasmaiseksi jälkiruoaksi, jota voi tarjota juhlatilaisuuksiin.",
+    "servings": 8,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "uuniruoka", "jälkiruoka"],
+    "ingredients": [
+      "6 dl rasvatonta maitoa",
+      "1¼ dl maissijauhoa (polentaa)",
+      "1¼ dl kylmää rasvatonta maitoa",
+      "1 rkl margariinia",
+      "1¼ dl melassia",
+      "½ tl inkivääriä",
+      "½ tl kanelia"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 160 asteeseen. Voitele kevyesti 1 litran vetoinen uunivuoka.",
+      "Kuumenna kattilassa 6 dl maitoa lähes kiehuvaksi.",
+      "Sekoita kulhossa jäljellä oleva 1¼ dl kylmää maitoa maissijauhon kanssa.",
+      "Lisää maissijauhoseos lämpimään maitoon ja sekoita hyvin.",
+      "Kypsennä 20 minuuttia matalalla/keskilämmöllä.",
+      "Sekoita usein, ettei pohjaan pala.",
+      "Kypsennä, kunnes seos on sakeutunut.",
+      "Nosta vanukas pois liedeltä.",
+      "Sekoita joukkoon margariini, melassi, inkivääri ja kaneli.",
+      "Kaada voideltuun uunivuokaan.",
+      "Paista 55–60 minuuttia.",
+      "Kun veitsi pistettynä tulee puhtaana ulos, vanukas on valmis.",
+      "Leikkaa 8 neliöön ennen tarjoilua.",
+      "Tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-and-apple-bake",
+    "title": "Bataatti-omenavuoka",
+    "description": "Nauti syksyn mausta bataatin ja omenan yhdistelmässä tässä herkullisessa lisukkeessa. Tarjoa paahdetun kanan tai kalkkunan sekä ison vihreän salaatin kanssa.",
+    "servings": 6,
+    "category": "Lisukkeet",
+    "tags": ["kasvis", "uuniruoka", "bataatti"],
+    "ingredients": [
+      "8½ dl säilykebataattia, valutettuna (säästä 2 rkl nestettä)",
+      "5 dl omenaa, kuorittuna, siemenkoteloineen poistettuna ja paloiteltuna suupaloiksi",
+      "2 rkl fariinisokeria",
+      "¾ dl pähkinöitä, hienonnettuna (esim. pekaani- tai saksanpähkinä)",
+      "2 rkl vehnäjauhoja",
+      "2 rkl suolatonta voita, sulatettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Laita bataatit ja omenat uunivuokaan.",
+      "Kaada säästetty 2 rkl bataattinestettä seoksen päälle.",
+      "Sekoita pienessä kulhossa fariinisokeri, pähkinät, jauhot ja sulatettu voi keskenään.",
+      "Ripottele seos bataatti-omenaseoksen päälle.",
+      "Paista 20–30 minuuttia, kunnes pinta on kullanruskea ja kuplii."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-casserole-0",
+    "title": "Bataattivuoka kaurahiutaleilla",
+    "description": "Tämä bataattivuoka on runsasmakuinen ja vähärasvainen.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kasvis", "bataatti", "uuniruoka"],
+    "ingredients": [
+      "2 rkl vähärasvaista maitoa",
+      "1½ tl fariinisokeria",
+      "1 tl kanelia",
+      "½ dl pikapuurohiutaleita",
+      "6½ dl vähäsuolaista bataattia, valutettuna ja paloiteltuna (n. 425 g)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen.",
+      "Yhdistä pienessä kulhossa maito, fariinisokeri, kaneli ja kaurahiutaleet.",
+      "Sekoita hyvin ja laita sivuun.",
+      "Laita bataatit keskikokoiseen uunivuokaan niin, että ne peittävät vuoan pohjan.",
+      "Lisää kaurahiutaleseos bataattien päälle.",
+      "Paista 20 minuuttia.",
+      "Tarjoa kuumana tai jäähdytä ja tarjoa kylmänä."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-casserole",
+    "title": "Bataattivuoka",
+    "description": "Kaneli, muskottipähkinä ja inkivääri yhdistettynä vaniljauutteeseen tuovat herkullisen maun bataateille. Käytä säilykebataattia, jos sinulla ei ole tuoreita bataatteja. Tämä resepti sopii erinomaisesti kiitospäivän juhla-ateriaan.",
+    "servings": 10,
+    "category": "Pääruoat",
+    "tags": ["bataatti", "uuniruoka", "juhla"],
+    "ingredients": [
+      "4 bataattia (n. 450 g)",
+      "3 munanvalkuaista",
+      "1¼ dl sokeria",
+      "1 tlk (340 g) rasvatonta tiivistemaitoa",
+      "1 rkl vaniljauutetta",
+      "1 tl kanelia",
+      "½ tl muskottipähkinää",
+      "½ tl inkivääriä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Huuhtele bataatit kylmässä juoksevassa vedessä ja pistele haarukalla.",
+      "Kypsennä bataatteja mikroaaltouunissa täydellä teholla pehmeiksi, noin 15 minuuttia.",
+      "Käännä puolivälissä kypsennystä.",
+      "Kuumenna uuni 200 asteeseen.",
+      "Poista bataattien kuori ja soseuta ne vatkaimella tai monitoimikoneella.",
+      "Lisää loput ainekset ja sekoita, kunnes tasaista.",
+      "Kaada seos 20 cm:n uunivuokaan.",
+      "Paista, kunnes vuoka on keskeltä kiinteä, noin 40 minuuttia.",
+      "Ota vuoka pois uunista.",
+      "Anna seistä 5 minuuttia ja leikkaa sitten 10 neliöön.",
+      "Tarjoa kuumana.",
+      "Säilytä tähteet jääkaapissa."
+    ]
+  },
+  {
+    "id": "myplate-sweet-potato-cheesecake",
+    "title": "Bataattijuustokakku",
+    "description": "Valmista tämä herkullinen ja kermainen juustokakku, joka on täynnä syksyn mausteiden makuja, seuraavaan juhlatilaisuuteesi.",
+    "servings": 14,
+    "category": "Jälkiruoat",
+    "tags": ["bataatti", "juhla", "jälkiruoka"],
+    "ingredients": [
+      "2½ dl inkivääriskeksimurua (tai graham-keksimurua)",
+      "3 rkl suolatonta voita, sulatettuna",
+      "225 g kevyttä tuorejuustoa, huoneenlämpöistä",
+      "2½ dl bataattia, kuorittuna, kypsennettynä ja soseutettuna",
+      "5 munanvalkuaista",
+      "¾ dl sokeria",
+      "1½ tl kurpitsapiirakkamaustetta (kaneli, inkivääri, muskotti, neilikka)",
+      "1 tl appelsiininkuorta, hienoksi raastettuna",
+      "1 tl vaniljaa",
+      "2½ dl vähärasvaista (2 %) tiivistemaitoa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pohja: Sekoita keksimurut ja voi keskenään.",
+      "Painele seos 20 cm:n irtopohjavuoan pohjalle ja noin 2,5 cm reunoille.",
+      "Laita sivuun.",
+      "Täyte: Vatkaa isossa kulhossa tuorejuusto, bataatti, munanvalkuaiset, sokeri, kurpitsapiirakkamaate, appelsiininkuori ja vanilja, kunnes yhdistynyt.",
+      "ÄLÄ VATKAA LIIKAA.",
+      "Sekoita joukkoon maito.",
+      "Kaada varovasti valmisteltuun vuokaan.",
+      "Paista 175 asteessa 60–70 minuuttia, kunnes keskikohta näyttää hyytyneeltä.",
+      "Jäähdytä ritilällä 45 minuuttia.",
+      "Peitä ja anna jäähtyä kunnolla jääkaapissa.",
+      "Irrota vuoan reunat ja tarjoa."
+    ]
+  }
+]

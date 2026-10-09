@@ -1,0 +1,674 @@
+[
+  {
+    "id": "myplate-tropical-morning-treat",
+    "title": "Trooppinen aamuherkku",
+    "description": "Nauti tätä maukasta hedelmäruokaa aamulla tai välipalana mihin aikaan päivästä tahansa.",
+    "servings": 4,
+    "category": "Välipalat",
+    "tags": ["kasvis", "vegaaninen", "hedelmä", "nopea"],
+    "ingredients": [
+      "½ dl appelsiinimehua",
+      "1 omena",
+      "1 appelsiini",
+      "1 banaani"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kaada appelsiinimehu kulhoon.",
+      "Pese omena ja kuivaa.",
+      "Poista siemenkota ja kuutioi.",
+      "Pyörittele omenapalat appelsiinimehussa, jotta ne eivät tummu.",
+      "Kuori appelsiini ja jaa lohkoihin.",
+      "Pilko lohkot pieniksi paloiksi.",
+      "Kuori ja viipaloi banaani n. ½ cm paksuisiksi siivuiksi.",
+      "Yhdistä kaikki hedelmät ja appelsiinimehu kulhossa kevyesti sekoittaen.",
+      "Jäähdytä tai tarjoa heti."
+    ]
+  },
+  {
+    "id": "myplate-tropical-overnight-oatmeal",
+    "title": "Trooppinen yön yli -kaurapuuro",
+    "description": "Aamiainen syntyy helposti nopealla illan askeleella. Sekoita kaurahiutaleet, maito ja jogurtti ja jätä jääkaappiin yön yli. Lisää banaanit ja ananaspalat aamulla.",
+    "servings": 2,
+    "category": "Aamiainen",
+    "tags": ["kasvis", "aamiainen", "nopea"],
+    "ingredients": [
+      "1¾ dl isohko kaurahiutaleita, keittämättömänä",
+      "1¾ dl rasvatonta maitoa",
+      "1¾ dl rasvatonta kreikkalaista jogurttia",
+      "⅛ tl maustepippuria",
+      "2½ dl tuoretta ananasta paloiteltuna",
+      "1 keskikokoinen banaani, viipaloituna",
+      "2 rkl mantelilastuja"
+    ],
+    "instructions": [
+      "Sekoita kaurahiutaleet, maito, jogurtti ja maustepippuri kahteen kulhoon tai lasipurkkiin.",
+      "Peitä ja jäähdytä yön yli.",
+      "Lisää juuri ennen tarjoilua ananas, banaani ja mantelit."
+    ]
+  },
+  {
+    "id": "myplate-tropical-yogurt-pops",
+    "title": "Trooppiset jogurttipuikot",
+    "description": "Nauti trooppisesta herkusta näillä pakastetuilla jogurttipuikoilla! Niitä on hauska tehdä, ja jokaisessa annoksessa on ½ dl hedelmää.",
+    "servings": 4,
+    "category": "Jälkiruoat",
+    "tags": ["kasvis", "jälkiruoka", "hedelmä"],
+    "ingredients": [
+      "2½ dl vähärasvaista vaniljajogurttia",
+      "1¼ dl mangopaloja, tuoreena tai pakastettuna",
+      "1¼ dl ananaspaloja, tuoreena, säilykkeenä tai pakastettuna",
+      "½ dl kookosvettä",
+      "jääpalamuotti tai pieniä paperikuppeja",
+      "paperipillejä tai tikkuja"
+    ],
+    "instructions": [
+      "Laita kaikki ainekset tehosekoittimeen.",
+      "Soseuta suurella teholla, kunnes tasaista.",
+      "Kaada 8 jääpalamuotin lokeroon (tai 4 pieneen paperikuppiin) ja aseta leikatut paperipillit tai tikut sisään.",
+      "Pakasta ja nauti!"
+    ]
+  },
+  {
+    "id": "myplate-tuna-apple-salad-sandwich",
+    "title": "Tonnikala-omenasalaattivoileipä",
+    "description": "Piristä lounasvoileipääsi raikkaalla tonnikalan, omenan, rusinoiden ja saksanpähkinöiden sekoituksella.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kala", "voileipä", "nopea"],
+    "ingredients": [
+      "1 omena (esim. Fuji tai Pink Lady)",
+      "1 tlk (340 g) tonnikalaa paloina, valutettuna",
+      "2 rkl vähärasvaista maustamatonta jogurttia",
+      "2 rkl kevyttä majoneesia",
+      "1¼ dl rusinoita (tai hienonnettuja viikunoita)",
+      "½ dl saksanpähkinöitä, hienonnettuna",
+      "⅛ tl mustapippuria",
+      "2 rkl tuoretta persiljaa, hienonnettuna (valinnainen)",
+      "½ tl currya (valinnainen)",
+      "8 salaatinlehteä (keräsalaattia, romainea, vihreää tai punaista lehtisalaattia)",
+      "8 viipaletta täysjyväleipää"
+    ],
+    "instructions": [
+      "Leikkaa omena neljään osaan; poista siemenkota ja pilko.",
+      "Sekoita keskikokoisessa kulhossa kaikki salaatin ainekset paitsi tonnikala.",
+      "Nostele tonnikala varovasti joukkoon.",
+      "Tee voileivät salaatinlehdistä ja täysjyväleivästä (paahdettuna halutessasi) ja täytä tonnikala-omenasalaatilla."
+    ]
+  },
+  {
+    "id": "myplate-tuna-apple-salad",
+    "title": "Tonnikala-omenasalaatti",
+    "description": "Salaattivihanneksilla, tonnikalalla, vihanneksilla ja hedelmällä täytetty pitaleipä tekee helpon ja maukkaan lounaan tai illallisen.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kala", "salaatti", "nopea"],
+    "ingredients": [
+      "1 tlk (340 g) tonnikalaa vedessä, valutettuna",
+      "2 rkl punasipulia, hienonnettuna",
+      "1 keskikokoinen omena, siemenkoteloineen poistettuna ja paloiteltuna",
+      "2½ dl selleriä, paloiteltuna",
+      "2½ dl kultaisia rusinoita",
+      "5 rkl kevyttä italialaista salaatinkastiketta",
+      "5 dl salaattivihanneksia",
+      "2 täysjyväpitaleipää, puolitettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita pienessä kulhossa tonnikala, sipuli, omena, selleri, rusinat ja 2 rkl kastiketta.",
+      "Sekoita toisessa kulhossa salaattivihannekset lopun kastikkeen kanssa.",
+      "Avaa pitaleivät varovasti ja täytä tasaisin osuuksin salaattivihanneksilla ja tonnikalasalaatilla."
+    ]
+  },
+  {
+    "id": "myplate-tuna-melt-burger",
+    "skip": "Ohje on puutteellinen: resepti viittaa valmiiseen tonnikalaseokseen sekä uuniin, mutta seoksen kokoamis- ja paistovaiheet puuttuvat kokonaan (ei lämpötilaa eikä aikaa), joten reseptiä ei voi valmistaa annetuilla tiedoilla."
+  },
+  {
+    "id": "myplate-tuna-pasta-casserole",
+    "title": "Tonnikala-pastavuoka",
+    "description": "Tämä täyttävä pastaruoka hyödyntää ruokakomeron perusaineksia, kuten säilyketonnikalaa ja kermakeittoa, sekä muutamia tuoreita vihanneksia, ja tuloksena on proteiinia ja makua täynnä oleva ruoka.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kala", "pasta", "uuniruoka"],
+    "ingredients": [
+      "340 g kuoripastaa (tai muuta pastaa)",
+      "1¼ dl sipulia, hienonnettuna",
+      "1¼ dl vihreää paprikaa, hienonnettuna",
+      "½ rkl rypsiöljyä",
+      "1 tlk vähäsuolaista sienikermakeittoa (310 g, tai sellerikeittoa tai kanakeittoa)",
+      "1 tlk (410 g) vähäsuolaisia kuutioituja tomaatteja",
+      "2 tlk (à 140 g) tonnikalaa vedessä",
+      "juustoraastetta (valinnainen)",
+      "persiljaa, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kypsennä pasta pakkauksen ohjeen mukaan ja valuta.",
+      "Kypsennä sipuli ja paprika öljyssä isossa pannussa tai kattilassa.",
+      "Lisää kermakeitto, kuutioidut tomaatit ja tonnikala sipulin ja paprikan joukkoon.",
+      "Sekoita pastan kanssa.",
+      "Siirrä uunivuokaan.",
+      "Paista 175 asteessa 25 minuuttia, kunnes kuplii.",
+      "Lisää halutessasi juustoa ja persiljaa päälle ja palauta uuniin 5 minuutiksi, kunnes juusto sulaa."
+    ]
+  },
+  {
+    "id": "myplate-tuna-pasta",
+    "title": "Tonnikalapasta",
+    "description": "Proteiinipitoinen tonnikala, ravitsevat vihannekset ja tuoreena keitetty pasta tekevät tästä herkullisen aterian.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "pasta", "nopea"],
+    "ingredients": [
+      "225 g keittämättömiä spagetteja (tai muuta pastaa)",
+      "1 rkl rypsiöljyä",
+      "1 pieni sipuli, hienonnettuna",
+      "1¼ dl parsakaalia (tai kesäkurpitsaa, hienonnettuna)",
+      "4 dl tomaattipohjaista pastakastiketta",
+      "1 tlk (140 g) tonnikalaa vedessä, valutettuna",
+      "suolaa (valinnainen, maun mukaan)",
+      "parmesanjuustoa (valinnainen)",
+      "mustapippuria (valinnainen, maun mukaan)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kypsennä spagetti pakkauksen ohjeen mukaan; valuta.",
+      "Kuumenna öljy isossa pannussa keskilämmöllä.",
+      "Lisää sipuli ja parsakaali (tai kesäkurpitsa).",
+      "Kypsennä, kunnes pehmeitä.",
+      "Lisää pastakastike.",
+      "Kiehauta.",
+      "Laske lämpö miedoksi ja hauduta 3 minuuttia.",
+      "Lisää valutettu tonnikala kastikkeeseen.",
+      "Sekoita vain sen verran, että tonnikala lämpenee.",
+      "Lisää halutessasi suolaa ja pippuria.",
+      "Lisää kypsennetty spagetti kastikkeeseen.",
+      "Sekoita, kunnes pasta ja kastike ovat tasaisesti yhdistyneet.",
+      "Halutessasi lisää 2 rkl parmesanjuustoa valmiiseen seokseen.",
+      "Tarjoa kuumana."
+    ]
+  },
+  {
+    "id": "myplate-tuna-quesadillas",
+    "title": "Tonnikalaquesadillat",
+    "description": "Tämän quesadillan voi valmistaa nopeasti mikrossa tai liedellä. Tarjoa tuoreen salaatin ja omenan kanssa täydelliseksi ateriaksi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kala", "meksikolainen", "nopea"],
+    "ingredients": [
+      "1 tlk (140 g) tonnikalaa vedessä, valutettuna",
+      "1 rkl kevyttä majoneesia",
+      "4 vehnätortillaa (20 cm)",
+      "1¼ dl vähärasvaista cheddarjuustoa, raastettuna"
+    ],
+    "instructions": [
+      "Mikroaaltovaihtoehto: Lusikoi täyte puoleen jokaista tortillaa.",
+      "Lisää täytteen päälle juustoa ja taita tortilla puoliksi.",
+      "Kuumenna mikrossa täydellä teholla 60 sekuntia.",
+      "Käännä lautasta puolivälissä kypsennystä.",
+      "Vaihtoehtoisesti liedellä: Jaa täyte kahdelle tortillalle.",
+      "Lisää juustoa ja peitä kahdella jäljellä olevalla tortillalla.",
+      "Suihkuta pannu paistosprayllä.",
+      "Ruskista quesadillat molemmin puolin.",
+      "Leikkaa lohkoiksi ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-tuna-salad-grapes",
+    "title": "Tonnikalasalaatti viinirypäleillä",
+    "description": "Viinirypäleet tekevät tästä tonnikalasalaatista sekä suolaisen että makean. Tarjoa salaatti lehtisalaatin päällä nopeaksi ja helpoksi lounaaksi.",
+    "servings": 7,
+    "category": "Salaatit",
+    "tags": ["kala", "salaatti", "nopea"],
+    "ingredients": [
+      "2 tlk (à 140 g) tonnikalaa vedessä, valutettuna",
+      "2½ dl selleriä, paloiteltuna",
+      "2 rkl majoneesia",
+      "2 rkl vähärasvaista maustamatonta jogurttia",
+      "2½ dl siemenettömiä viinirypäleitä, puolitettuna",
+      "7 salaatinlehteä, pestynä ja irrotettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä keskikokoisessa kulhossa valutettu tonnikala, selleri, majoneesi ja jogurtti ja sekoita.",
+      "Lisää viinirypäleet seokseen ja sekoita varovasti.",
+      "Peitä ja jäähdytä tarjoiluun asti.",
+      "Tarjoa salaatinlehtien päällä."
+    ]
+  },
+  {
+    "id": "myplate-tuna-salad-greens",
+    "title": "Tonnikalasalaatti salaattivihannesten kanssa",
+    "description": "Tonnikalasalaatti tarjoiltuna salaatti- ja vihannespedillä täysjyväkeksien kanssa tekee tästä helpon ja herkullisen lounaan. Nauti hedelmän kanssa maukkaana lisukkeena tai jälkiruokana.",
+    "servings": 4,
+    "category": "Salaatit",
+    "tags": ["kala", "salaatti", "nopea"],
+    "ingredients": [
+      "4 täysjyväkeksiä",
+      "10 dl romainesalaattia, silputtuna",
+      "1 tomaatti, paloiteltuna",
+      "¼ punasipulia, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "3 rkl punaviinietikkaa",
+      "1 tl italialaista yrttisekoitusta",
+      "ripaus mustapippuria",
+      "140 g tonnikalaa säilykkeenä vedessä, valutettuna",
+      "¾ dl vähärasvaista majoneesia",
+      "½ dl selleriä, paloiteltuna",
+      "1 porkkana, kuorittuna ja raastettuna",
+      "½ dl kevätsipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita isossa salaattikulhossa salaatti, vihannekset, öljy, etikka ja yrtit.",
+      "Sekoita toisessa keskikokoisessa kulhossa tonnikalasalaatin ainekset.",
+      "Kokoa salaatti laittamalla salaattivihannekset isolle lautaselle.",
+      "Lisää päälle lusikallinen tonnikalasalaattia.",
+      "Tarjoa keksit vierellä."
+    ]
+  },
+  {
+    "id": "myplate-tuna-slider-green-chiles",
+    "title": "Tonnikalaslideri vihreillä chileillä",
+    "description": "Pippurisen mausteen ja ihanan maun vuoksi lisää säilöttyjä vihreitä chilejä tonnikalaslidereihin. Et usko, kuinka paljon makua tämä säilyketuote tuo mukanaan! Hyvin varustetun, säilykkeillä täytetyn ruokakomeron ansiosta on helppo luoda herkullisia kotiruokia, joita voi tarjota ylpeänä perheelle ja ystäville.",
+    "servings": 3,
+    "category": "Pääruoat",
+    "tags": ["kala", "nopea"],
+    "ingredients": [
+      "140 g tonnikalaa säilykkeenä vedessä, valutettuna ja haarukoituna",
+      "1 tlk (115 g) hienonnettuja vihreitä chilejä",
+      "½ dl selleriä, kuutioituna",
+      "½ dl punasipulia, kuutioituna",
+      "½ dl kevyttä majoneesia",
+      "2 rkl tuoretta korianteria tai persiljaa, hienonnettuna",
+      "6 sliderisämpylää, halkaistuna",
+      "salaatinlehtiä"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa tonnikala, chilit, selleri, punasipuli, majoneesi ja korianteri; sekoita hyvin.",
+      "Lisää salaatinlehdet jokaisen sämpylän alaosaan.",
+      "Lisää päälle tonnikalaseosta.",
+      "Lisää sämpylän yläosa ja nauti!"
+    ]
+  },
+  {
+    "id": "myplate-tuna-veggie-antipasto",
+    "title": "Tonnikala-vihannesantipasto",
+    "description": "Yrtit tuovat tähän salaattiin todellista potkua. Marinoi yön yli jääkaapissa, jotta maut sekoittuvat. Jos sinulla ei ole mainittuja vihanneksia, korvaa ne millä tahansa vihanneksilla, joita sinulla on.",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kala"],
+    "ingredients": [
+      "1¼ dl punasipulia, raakana, hienonnettuna (tai mitä tahansa suosikkivihanneksiasi)",
+      "6 dl selleriä, raakana, hienonnettuna (tai mitä tahansa suosikkivihanneksiasi)",
+      "1 tlk (140 g) tonnikalaa vedessä, valutettuna ja haarukoituna",
+      "1 tlk (425 g) valkoisia papuja (tai suosikkipapujasi)",
+      "2 rkl parmesanjuustoa, raastettuna",
+      "½ dl etikkaa (tai 2 sitruunan mehu)",
+      "1 rkl rypsiöljyä",
+      "½ tl kuivattua tilliä (tai 1 rkl tuoretta tilliä)",
+      "1 tl valkosipulia, hienonnettuna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Pese ja siisti vihannekset.",
+      "Paloittele suupalan kokoisiksi.",
+      "Laita isoon kulhoon.",
+      "Sekoita etikka, tilli (tai muut yrtit), valkosipuli ja öljy.",
+      "Kaada vihannesten päälle.",
+      "Valuta ja huuhtele pavut.",
+      "Pilko tonnikala pienemmiksi paloiksi.",
+      "Yhdistä vihannekset, pavut ja tonnikala; sekoita varovasti.",
+      "Marinoi salaattia yön yli, jotta maut sekoittuvat.",
+      "Jäähdytä ja tarjoa kevyenä kesälounaana tai retkieväänä."
+    ]
+  },
+  {
+    "id": "myplate-tuna-veggie-picnic-sandwich",
+    "title": "Tonnikala-vihannespiknikvoileipä",
+    "description": "On aika nostaa perinteinen tonnikalavoileipä uudelle tasolle. Lisää makua sitruunamehulla ja dijonsinapilla. Kausivihannekset seoksessa tuovat sekä makua että väriä!",
+    "servings": 6,
+    "category": "Pääruoat",
+    "tags": ["kala", "voileipä"],
+    "ingredients": [
+      "340 g albacore-tonnikalaa",
+      "½ dl vähärasvaista majoneesia",
+      "2 rkl dijonsinappia",
+      "2 tl sitruunamehua",
+      "½ dl porkkanaa, raastettuna",
+      "½ dl punaista paprikaa, ohuiksi suikaleiksi viipaloituna",
+      "½ dl selleriä, kuutioituna",
+      "6 romainesalaatin lehteä, puolitettuna",
+      "12 viipaletta täysjyväleipää"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita pienessä kulhossa tonnikala, majoneesi, dijonsinappi ja sitruunamehu.",
+      "Lisää joukkoon porkkana, paprika ja selleri.",
+      "Aseta 6 revittyä romainesalaatin lehteä puolelle leipäviipaleista.",
+      "Lusikoi tonnikalaseosta salaatinlehtien päälle.",
+      "Lisää toinen revitty salaatinlehti jokaisen tonnikalavoileivän päälle ja peitä toisella leipäviipaleella.",
+      "Kääri voileivät värikkääseen muovikelmuun tai vahapaperiin ja pidä kylmänä.",
+      "Voileivät ovat nyt valmiit piknikille!"
+    ]
+  },
+  {
+    "id": "myplate-turkey-and-cucumber-sandwich",
+    "title": "Kalkkuna-kurkkuvoileipä",
+    "description": "Nämä yrteillä ja mausteilla maustetut voileivät osuvat varmasti maaliinsa. Täysjyvillä, vähärasvaisella proteiinilla ja maitotuotteilla tämä tasapainoinen MyPlate-ateria pitää sinut tyytyväisenä koko iltapäivän.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "voileipä", "nopea"],
+    "ingredients": [
+      "4 viipaletta täysjyväleipää",
+      "4 viipaletta täysjyvävaalennettua leipää",
+      "1¼ dl rasvatonta maustamatonta jogurttia",
+      "2 tuoretta tillinoksaa, hienonnettuna",
+      "1¼ dl kurkkua, hienonnettuna",
+      "½ dl sipulia, hienonnettuna",
+      "⅛ tl mustapippuria",
+      "225 g kalkkunanrintaa, ohuiksi viipaloituna (tai vähäsuolaista leikkeleenä olevaa kalkkunaa)",
+      "ylimääräisiä kurkkuviipaleita maun mukaan",
+      "⅛ tl suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita jogurtti, tilli, sipuli, pippuri ja hienonnettu kurkku.",
+      "Levitä jogurtti-kurkkuseos kaikille 8 leipäviipaleelle.",
+      "Lisää täysjyväleivän päälle kalkkuna ja kurkkuviipaleet.",
+      "Peitä vaalealla leivällä."
+    ]
+  },
+  {
+    "id": "myplate-turkey-burgers",
+    "title": "Kalkkunapihvit",
+    "description": "Sitruunamehu antaa näille piristäville pihveille mukavan twistin seuraaviin grillijuhliin. Tarjoa tomaatin, salaatin, sipulin ja täysjyväsämpylän kanssa lisätäksesi päiväsi vihannes- ja täysjyväannosta.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "nopea"],
+    "ingredients": [
+      "450 g kalkkunan jauhelihaa (85 % vähärasvaista)",
+      "2 keskikokoista sipulia, hienonnettuna",
+      "3 rkl sitruunamehua (tai 1 sitruunan mehu)",
+      "¼ tl worcestershirekastiketta",
+      "¼ tl persiljaa, kuivattuna (tai tuoretta hienonnettuna)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä sipulit, kalkkunan jauheliha, sitruunamehu, worcestershirekastike ja persilja.",
+      "Sekoita hyvin.",
+      "Muotoile seoksesta neljä pihviä.",
+      "Paista pannulla keskilämmöllä tai grillissä, kunnes sisälämpötila on 74 astetta."
+    ]
+  },
+  {
+    "id": "myplate-turkey-gravy",
+    "title": "Kalkkunankastike",
+    "description": "Tämä kastike käyttää kana- tai kalkkunalientä nopean ja helpon kastikkeen valmistamiseen. Täydellinen suureen juhla-ateriaan.",
+    "servings": 6,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kalkkuna", "kastike", "nopea"],
+    "ingredients": [
+      "2 rkl margariinia (tai voita)",
+      "3 rkl jauhoja",
+      "¼ tl suolaa",
+      "4 dl vähäsuolaista kana- tai kalkkunalientä",
+      "70 g sisäelimiä, kypsennettynä ja paloiteltuna (n. 1¼ dl)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sulata margariini pannulla miedolla lämmöllä.",
+      "Sekoita joukkoon jauhot ja suola.",
+      "Sekoita ja kuumenna, kunnes kuplii.",
+      "Lisää liemi vähitellen koko ajan sekoittaen.",
+      "Kypsennä miedolla lämmöllä 5–10 minuuttia.",
+      "Lisää kypsennetyt sisäelimet.",
+      "Kuumenna muutama minuutti, jotta maut sekoittuvat.",
+      "Säilytä tähteet jääkaapissa kahden tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "myplate-turkey-meatloaf",
+    "title": "Kalkkunamureke",
+    "description": "Laita bataatteja uuniin tätä mureketta paistaessasi, ja tarjoa tämä illallinen sekasalaatin kanssa maukkaaksi ja herkulliseksi ateriaksi!",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "uuniruoka"],
+    "ingredients": [
+      "450 g kalkkunan jauhelihaa (85 % vähärasvaista)",
+      "1¼ dl kaurahiutaleita, raakoja",
+      "1 kananmuna",
+      "1 rkl kuivattua sipulia (tai 1 pieni sipuli, hienonnettuna)",
+      "½ dl ketsuppia",
+      "2 sellerin vartta, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "½ vihreää paprikaa, siemenkoteloineen poistettuna ja kuutioituna"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 175 asteeseen. Yhdistä kaikki ainekset ja sekoita hyvin.",
+      "Paista n. 23 x 13 cm vuoassa 25 minuuttia tai kunnes sisälämpötila on 74 astetta. Tarkista lämpötila lihalämpömittarilla.",
+      "Leikkaa viiteen viipaleeseen ja tarjoa."
+    ]
+  },
+  {
+    "id": "myplate-turkey-patties",
+    "title": "Kalkkunapihvit korppujauhoilla",
+    "description": "Nauti näistä maukkaista pihveistä tuoreiden tomaattiviipaleiden ja lempimaustekastikkeidesi kanssa täysjyväsämpylässä.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "nopea"],
+    "ingredients": [
+      "565 g kalkkunan jauhelihaa (85 % vähärasvaista)",
+      "2½ dl korppujauhoja",
+      "1 kananmuna",
+      "½ dl kevätsipulia, hienonnettuna",
+      "3 tl valmista sinappia",
+      "paistosprayta"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita isossa kulhossa kalkkunan jauheliha, korppujauhot, kananmuna, kevätsipuli ja sinappi.",
+      "Muotoile neljäksi pihviksi, n. 1¼ cm paksuisiksi.",
+      "Suihkuta iso pannu paistosprayllä.",
+      "Lisää pihvit ja paista, kääntäen kerran, kunnes toinenkin puoli on ruskistunut.",
+      "Kypsennä, kunnes pihvit ovat kullanruskeita ulkoa ja läpikypsiä sisältä, noin 10 minuuttia.",
+      "Nosta pois pannulta."
+    ]
+  },
+  {
+    "id": "myplate-turkey-pinwheel-appetizers",
+    "title": "Kalkkunarullat",
+    "description": "Värikkäät tomaatit ja pinaatti tekevät näistä alkupaloista juhlavia seuraaviin kutsuihin tai yhteisiin pitopöytiin.",
+    "servings": 16,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "alkuruoka"],
+    "ingredients": [
+      "225 g vähärasvaista tuorejuustoa (valkosipuli-yrtti)",
+      "6 vehnätortillaa (20 cm)",
+      "6 viipaletta kalkkunaa (vähäsuolaista)",
+      "3 keskikokoista roomalaista tomaattia, paloiteltuna",
+      "7½ dl vauvapinaatinlehtiä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Aseta tortillat mikroaaltouunin kestävälle lautaselle tai talouspaperille; kuumenna peittämättä täydellä teholla 10–15 sekuntia pehmentämiseksi.",
+      "Levitä noin 2 rkl tuorejuustoa jokaiselle tortillalle.",
+      "Lisää päälle kalkkunaviipale, paloitellut tomaatit ja pinaatti.",
+      "Kääri kevyesti rullalle; kääri sitten muovikelmuun.",
+      "Jäähdytä 2–3 tuntia, jotta maut sekoittuvat.",
+      "Leikkaa jokainen rulla kahdeksaan n. 2,5 cm paksuiseen viipaleeseen.",
+      "Asettele leikkauspuoli alaspäin tarjoiluvadille."
+    ]
+  },
+  {
+    "id": "myplate-turkey-potato-salad",
+    "title": "Kalkkuna-perunasalaatti",
+    "description": "Vihreä paprika, sipuli ja selleri antavat tälle salaatille herkullisen rapeuden. Tarjoa jäähdytettynä salaattivuoteella tai täysjyväleivän kanssa.",
+    "servings": 2,
+    "category": "Salaatit",
+    "tags": ["kalkkuna", "salaatti", "nopea"],
+    "ingredients": [
+      "170 g kalkkunaa, kypsennettynä ja kuutioituna",
+      "½ dl selleriä, hienonnettuna",
+      "2½ dl perunaa, kypsennettynä, kuorittuna ja kuutioituna",
+      "1 rkl sipulia, hienonnettuna",
+      "½ dl vihreää paprikaa, hienonnettuna",
+      "2 rkl majoneesia",
+      "¼ tl valmista sinappia",
+      "⅛ tl suolaa"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Sekoita kalkkuna, selleri, peruna, sipuli ja vihreä paprika.",
+      "Sekoita majoneesi, sinappi ja suola.",
+      "Sekoita kevyesti kalkkunaseoksen joukkoon.",
+      "Jäähdytä."
+    ]
+  },
+  {
+    "id": "myplate-turkey-salad-orange-vinaigrette",
+    "title": "Kalkkunasalaatti appelsiinivinaigrettella",
+    "description": "Tuore appelsiinimehu ja dijonsinappi antavat tälle vinaigrettelle raikkaan ja pirteän maun kalkkuna-appelsiinisalaatin päälle.",
+    "servings": 4,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kalkkuna", "salaatti", "kastike"],
+    "ingredients": [
+      "Kastike:",
+      "½ dl appelsiinimehua",
+      "2 rkl valkoviinietikkaa",
+      "2 rkl sipulia, hienonnettuna",
+      "¼ tl suolaa",
+      "ripaus mustapippuria",
+      "1 rkl rypsiöljyä (tai muuta ruokaöljyä)",
+      "2 tl dijonsinappia",
+      "Salaatti:",
+      "10 dl salaattivihanneksia, revittynä",
+      "5 dl kypsennettyä kalkkunanrintaa",
+      "2½ dl mandariiniappelsiinilohkoja, valutettuna",
+      "1¼ dl selleriä, hienonnettuna",
+      "muita vihanneksia maun mukaan"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Yhdistä kaikki vinaigretten ainekset tiiviskantiseen purkkiin; ravista hyvin.",
+      "Jos sinulla ei ole tiiviskantista astiaa, sekoita ainekset pienessä kulhossa vatkaimella.",
+      "Yhdistä isossa kulhossa kaikki salaatin ainekset; sekoita varovasti.",
+      "Tarjoa vinaigretten kanssa."
+    ]
+  },
+  {
+    "id": "myplate-turkey-stew",
+    "title": "Kalkkunamuhennos",
+    "description": "Tämä täyttävä kalkkuna-, peruna- ja vihannesmuhennos lämmittää kylmänä talvi-iltana. Voit korvata kypsennetyn kalkkunan kypsennetyllä kanalla.",
+    "servings": 4,
+    "category": "Keitot",
+    "tags": ["kalkkuna", "keitto"],
+    "ingredients": [
+      "2 tl rypsiöljyä (tai muuta ruokaöljyä)",
+      "1¼ dl sipulia, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna (tai ½ tl valkosipulijauhetta)",
+      "4 porkkanaa, paloiteltuna",
+      "2 sellerin vartta, paloiteltuna",
+      "2 keskikokoista perunaa, paloiteltuna",
+      "1 tlk (410 g) kuutioituja tomaatteja",
+      "5 dl vettä",
+      "5 dl kalkkunaa, kypsennettynä ja paloiteltuna (tai kanaa)",
+      "suolaa (valinnainen, maun mukaan)",
+      "mustapippuria (valinnainen, maun mukaan)",
+      "italialaista yrttisekoitusta (tai tuoreita yrttejä maun mukaan)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna öljy keskikokoisessa kattilassa.",
+      "Lisää sipuli, valkosipuli, porkkanat ja selleri ja sekoita 2 minuuttia.",
+      "Lisää perunat, tomaatit ja vesi kattilaan.",
+      "Kuumenna kiehuvaksi, laske sitten lämpö ja hauduta 30 minuuttia tai kunnes vihannekset ovat mureita.",
+      "Lisää kalkkuna ja kypsennä vielä viisi minuuttia tai kunnes kuuma.",
+      "Mausta maun mukaan ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "myplate-turkey-stuffed-cabbage",
+    "title": "Kalkkunalla täytetyt kaalikääryleet",
+    "description": "Kalkkunalla ja naudan jauhelihalla täytetyt kaalinlehdet kypsennetään ja viimeistellään makealla ja suolaisella vihannes-, sitruunamehu- ja fariinisokerikastikkeella.",
+    "servings": 5,
+    "category": "Pääruoat",
+    "tags": ["liha", "kalkkuna"],
+    "ingredients": [
+      "Kääryleet:",
+      "1 kaali",
+      "225 g naudan jauhelihaa (90 % vähärasvaista)",
+      "225 g kalkkunan jauhelihaa (85 % vähärasvaista)",
+      "1 pieni sipuli, hienonnettuna",
+      "1 viipale täysjyväleipää, vanhentunutta, murennettuna",
+      "1 rkl sitruunamehua",
+      "2½ dl vettä",
+      "⅛ tl mustapippuria",
+      "Kastike:",
+      "1 tlk (410 g) vähäsuolaisia kuutioituja tomaatteja",
+      "1 pieni sipuli, viipaloituna",
+      "2½ dl vettä",
+      "1 keskikokoinen porkkana, viipaloituna",
+      "Viimeistelykastike:",
+      "1 rkl sitruunamehua",
+      "2 rkl fariinisokeria",
+      "1 rkl maissitärkkelystä"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Huuhtele ja poista kaalin kanta.",
+      "Irrota varovasti 10 ulompaa lehteä, laita kattilaan ja peitä kiehuvalla vedellä.",
+      "Hauduta 5 minuuttia.",
+      "Nosta ja valuta kypsennetyt kaalinlehdet talouspaperilla.",
+      "Silppua 1¼ dl raakaa kaalia ja jätä odottamaan.",
+      "Ruskista naudan ja kalkkunan jauheliha sekä hienonnettu sipuli pannussa.",
+      "Valuta rasva pois.",
+      "Laita kypsennetty ja valutettu lihaseos, korppujauho, vesi ja pippuri sekoituskulhoon.",
+      "Valuta tomaatit talteen ottaen nesteen, ja lisää ½ dl tomaattimehua säilykkeestä lihaseokseen.",
+      "Sekoita hyvin; lusikoi sitten ¾ dl täytettä jokaiselle esikeitetylle, valutetulle kaalinlehdelle.",
+      "Aseta taitettu puoli alaspäin isoon pannuun.",
+      "Lisää pannussa kääryleiden päälle tomaatit, viipaloitu sipuli, vesi, silputtu kaali ja porkkana.",
+      "Peitä ja hauduta noin tunti (tai kunnes kaali on mureaa), kastellen aika ajoin.",
+      "Nosta kääryleet tarjoiluvadille; pidä lämpimänä.",
+      "Sekoita pienessä kulhossa sitruunamehu, fariinisokeri ja maissitärkkelys.",
+      "Lisää pannussa oleviin vihanneksiin ja nesteeseen ja kypsennä sekoitellen, kunnes kastike sakenee ja kirkastuu.",
+      "Tarjoa kääryleiden päällä."
+    ]
+  },
+  {
+    "id": "myplate-turkey-tostadas",
+    "title": "Kalkkunatostadat",
+    "description": "Nämä tostadat kerrostetaan papumuhennoksella, kalkkunalla ja juustolla herkulliseksi ja helpoksi illalliseksi. Lisää päälle tomaattia, salaattia ja sipulia lisätäksesi vihannesmäärääsi.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": ["kalkkuna", "meksikolainen"],
+    "ingredients": [
+      "5 dl kypsennettyä kalkkunaa, suupalan kokoisiksi paloiteltuna (tai 5 dl kalkkunan jauhelihaa, ruskistettuna pannulla ja valutettuna)",
+      "2 rkl tacomaustetta",
+      "4 dl vettä",
+      "4 maissitortillaa",
+      "½ dl papumuhennosta (vähärasvaista tai rasvatonta)",
+      "½ dl cheddar- tai Monterey Jack -juustoa, raastettuna, vähärasvaista",
+      "1¼ dl tomaattia, paloiteltuna",
+      "1¼ dl salaattia, silputtuna",
+      "2 rkl sipulia, hienonnettuna",
+      "8 rkl tacokastiketta (½ dl)",
+      "maustamatonta jogurttia, vähärasvaista tai rasvatonta (valinnainen)",
+      "guacamolea (tai muussattua avokadoa, valinnainen)"
+    ],
+    "instructions": [
+      "Pese kädet saippualla ja vedellä.",
+      "Kuumenna uuni 190 asteeseen. Pese ja valmistele vihannekset.",
+      "Yhdistä isossa pannussa keskilämmöllä kalkkuna, tacomauste ja vesi.",
+      "Kuumenna kiehuvaksi, laske lämpö ja hauduta 5 minuuttia, sekoittaen silloin tällöin.",
+      "Asettele tortillat uunipellille.",
+      "Paista 190 asteessa 4–7 minuuttia tai kunnes tortillat ovat rapeita.",
+      "Levitä tortilloille ruokalusikallinen papumuhennosta.",
+      "Lisää päälle ¼ lihaseoksesta ja juustoa.",
+      "Palauta tortillat uuniin 2–3 minuutiksi tai kunnes juusto on sulanut.",
+      "Lisää päälle tomaatti, salaatti, sipuli ja tacokastike.",
+      "Viimeistele halutessasi jogurtilla ja guacamolella."
+    ]
+  }
+]

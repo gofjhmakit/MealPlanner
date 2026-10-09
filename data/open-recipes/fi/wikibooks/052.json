@@ -1,0 +1,619 @@
+[
+  {
+    "id": "wikibooks-garlic-and-tarragon-dressing",
+    "title": "Valkosipuli-rakuunakastike",
+    "description": "Yksinkertainen salaattikastike, joka sopii lehtisalaatin tai kaalisalaatin kaveriksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["salaattikastike", "valkosipuli", "nopea", "kasvis"],
+    "ingredients": [
+      "½ dl viinietikkaa",
+      "2 rkl oliiviöljyä",
+      "2 tl valkosipulisuolaa",
+      "2 tl sokeria (valinnainen)",
+      "½ tl kuivattua rakuunaa"
+    ],
+    "instructions": [
+      "Sekoita etikka, öljy, valkosipulisuola, sokeri ja rakuuna pienessä kulhossa tai tiiviiskantisessa purkissa.",
+      "Kaada kastike lehtisalaatin tai kaalisalaatin päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-asparagus",
+    "title": "Valkosipuliparsa",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Lisukkeet",
+    "tags": ["parsa", "valkosipuli", "kasvis", "nopea"],
+    "ingredients": [
+      "1 rkl suolatonta voita",
+      "1 tl oliiviöljyä",
+      "½ sipulia, hienonnettuna",
+      "2 rkl hienonnettua valkosipulia",
+      "suolaa",
+      "mustapippuria",
+      "450 g parsaa, puhdistettuna"
+    ],
+    "instructions": [
+      "Sulata voi ja öljy isossa suorareunaisessa paistinpannussa keskikovalla lämmöllä. Lisää sipuli ja kuullota, kunnes se on läpikuultavaa.",
+      "Lisää valkosipuli ja paista, kunnes se saa kultaisen värin.",
+      "Lisää ripaus suolaa ja mustapippuria, ja jatka paistamista vielä minuutin verran.",
+      "Lisää parsa ja mausta runsaalla suolalla ja mustapippurilla. Paista, kunnes parsa on kevyesti ruskistunut reunoiltaan.",
+      "Maista ja säädä maustamista tarpeen mukaan. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-bread",
+    "title": "Valkosipulileipä",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["valkosipuli", "leipä", "lisuke", "uuniruoka"],
+    "ingredients": [
+      "1 pehmeä patonki tai ranskanleipä",
+      "115 g voita",
+      "3 valkosipulinkynttä, kuorittuna"
+    ],
+    "instructions": [
+      "Aseta uunin ritilä keskitasolle ja esilämmitä uuni 175 asteeseen.",
+      "Leikkaa patonki leipäveitsellä pituussuunnassa kahtia ja tee sitten viistoja viiltoja melkein pohjaan asti.",
+      "Hienonna kuorittu valkosipuli valkosipulipuristimella tai veitsellä.",
+      "Pehmitä voi mikrossa keskisuuressa kulhossa. Aika riippuu mikrosta.",
+      "Soseuta hienonnettu valkosipuli haarukalla pehmeään voihin, kunnes seos on tasaista.",
+      "Levitä voiseos voiveitsellä leivän molemmille puolikkaille ja viiltoihin.",
+      "Kääri molemmat puolikkaat folioon ja laita uuniin keskitasolle. Paista 15–20 minuuttia.",
+      "Ota leipä uunista, poista folio ja tarjoile lämpimänä."
+    ],
+    "notes": [
+      "Jos pidät vahvasta valkosipulin mausta, lisää yksi tai useampi valkosipulinkynsi ja/tai valkosipulijauhetta."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-butter-sauce",
+    "title": "Valkosipulivoikastike",
+    "description": "Tämä valkosipulivoikastike sopii mainiosti pihvien, äyriäisten ja paistetun kanan kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["valkosipuli", "voikastike", "nopea"],
+    "ingredients": [
+      "225 g suolatonta voita, jaettuna",
+      "loraus kuohukermaa",
+      "3 rkl hienonnettua valkosipulia",
+      "1 salottisipuli, hyvin hienonnettuna",
+      "ripaus suolaa",
+      "¼ tl mustapippuria"
+    ],
+    "instructions": [
+      "Sulata 2 rkl voita isossa suorareunaisessa paistinpannussa keskikovalla lämmöllä. Lisää valkosipuli ja salottisipuli, ja paista, kunnes valkosipuli saa kultaisen värin.",
+      "Lisää loput ainekset ja kuumenna, kunnes voi on sulanut. Ota pois liedeltä ja anna jäähtyä huoneenlämpöiseksi.",
+      "Soseuta kastike sauvasekoittimella tai tehosekoittimessa eri erissä sileäksi. Palauta pannuun ja lämmitä läpi miedolla lämmöllä."
+    ],
+    "notes": [
+      "Tarjoile pihvin, tilapian tai mahimahin kanssa tai vaikka paistetun kanan kastikkeena."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-croutons-i",
+    "title": "Valkosipulikrutongit",
+    "description": "Valmiita valkosipulikrutonkeja saa kaupasta, mutta vanhasta leivästä itse tehdyt ovat paljon parempia. Ne ovat olennainen osa Caesarin salaattia.",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Lisukkeet",
+    "tags": ["valkosipuli", "leipä", "salaatti", "nopea"],
+    "ingredients": [
+      "4 viipaletta vanhaa ranskanleipää, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "4 rkl oliiviöljyä",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kaada oliiviöljy matalaan kulhoon valkosipulin päälle ja anna sen imeytyä. Pidempi liotus antaa voimakkaamman valkosipulin maun.",
+      "Esilämmitä uuni 175 asteeseen.",
+      "Siivilöi öljy paistinpannuun ja paista leipäkuutiot siinä, sekoitellen samalla öljyn joukkoon.",
+      "Levitä leipäkuutiot uunipellille ja ripottele suolaa päälle. Paista 10 minuuttia tai kunnes kuutiot ovat rapeita ja kuivia."
+    ],
+    "notes": [
+      "Voit jättää valkosipulin pois ja tehdä tavalliset krutongit.",
+      "Hienontamisen voi myös jättää väliin lisäämällä kokonaiset valkosipulinkynnet öljyyn ja murskaamalla ne myöhemmin esimerkiksi morttelissa tai haarukalla.",
+      "Jos leipäkuutiot ovat hyvin pieniä ja paistetaan rapeiksi ilman uunikypsennystä, niitä voi käyttää perunan sijaan lisukkeena."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-croutons-ii",
+    "skip": "lähes identtinen toisen reseptin (Valkosipulikrutongit) kanssa"
+  },
+  {
+    "id": "wikibooks-garlic-croutons-iii",
+    "skip": "lähes identtinen toisen reseptin (Valkosipulikrutongit) kanssa"
+  },
+  {
+    "id": "wikibooks-garlic-lemon-chicken",
+    "title": "Valkosipuli-sitruunakana",
+    "description": "Valkosipulilla ja sitruunalla maustettua kanaa, joka tarjoillaan toom-nimisen valkosipulikastikkeen kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "cookTimeMin": 300,
+    "totalTimeMin": 300,
+    "category": "Pääruoat",
+    "tags": ["kana", "peruna", "valkosipuli", "uuniruoka"],
+    "ingredients": [
+      "Marinadi ja kana:",
+      "2 sitruunaa, mehu",
+      "6 valkosipulinkynttä",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "1 tl basilikaa",
+      "¼ tl cayennepippuria",
+      "4 broilerin rintafilettä, luuttomia ja nahallisia",
+      "6 isoa perunaa, viipaloituna n. 0,5 cm paksuisiksi",
+      "Toom-kastike:",
+      "4 valkosipulinkynttä",
+      "1¼ dl oliiviöljyä",
+      "½ dl sitruunamehua",
+      "¼ tl suolaa",
+      "ripaus cayennepippuria"
+    ],
+    "instructions": [
+      "Yhdistä sitruunamehu, valkosipuli, suola, pippuri, basilika ja cayennepippuri marinadiksi.",
+      "Laita kanan rintafileet syvään vuokaan ja kaada marinadi päälle.",
+      "Peitä ja anna marinoitua jääkaapissa yön yli. Käännä kana aamulla toiselle puolelle ja jatka marinointia vielä 4 tuntia.",
+      "Valuta ja ota talteen marinadi. Paista kanaa esilämmitetyssä 190-asteisessa uunissa 10–15 minuuttia, kunnes se on ruskistunut mutta ei vielä kypsä läpi.",
+      "Kaada marinadi takaisin ruskistetun kanan päälle. Peitä vuoka tiiviisti foliolla ja laita takaisin uuniin.",
+      "Laske uunin lämpötila 120 asteeseen. Paista kanaa 4 tuntia, kastellen sitä marinadilla tunnin välein.",
+      "Lisää viipaloidut perunat vuokaan, kastele kaikki ja peitä uudelleen foliolla.",
+      "Laita takaisin uuniin ja paista vielä tunnin verran.",
+      "Kun kana on viimeisellä paistotunnillaan, soseuta kaikki toom-kastikkeen ainekset tehosekoittimessa sileäksi.",
+      "Tarjoile kana ja perunat toomin ja lämpimän pitaleivän kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-lemon-dressing",
+    "title": "Valkosipuli-sitruunakastike",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["salaattikastike", "sitruuna", "valkosipuli", "nopea"],
+    "ingredients": [
+      "1 pieni valkosipulinkynsi",
+      "1 oksa rosmariinia",
+      "1 suikale sitruunankuorta (n. 2,5 x 1 cm)",
+      "1¾ dl oliiviöljyä",
+      "½ dl sitruunamehua"
+    ],
+    "instructions": [
+      "Aseta valkosipuli ja rosmariini leikkuulaudalle ja murskaa kevyesti raskaan veitsen litteällä terällä.",
+      "Laita rosmariini, valkosipuli ja sitruunankuori puhtaaseen pulloon, jossa on tiivis korkki.",
+      "Kaada joukkoon öljy ja sitruunamehu. Sulje pullo ja ravista hyvin.",
+      "Säilytä jääkaapissa ja käytä viikon sisällä.",
+      "Ravista ennen tarjoilua. Lorauta höyrytettyjen vihannesten, äyriäisten, pastan, perunasalaatin tai muun salaatin päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-lemon-marinade",
+    "title": "Valkosipuli-sitruunamarinadi",
+    "description": "Tämä valkosipuli-sitruunamarinadi sopii hyvin kalalle ja kanalle. Sitä voi käyttää myös kastikkeena hummerin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["marinadi", "valkosipuli", "kala", "kana"],
+    "ingredients": [
+      "¾ dl tuoretta sitruunamehua",
+      "8 valkosipulinkynttä, murskattuna ja hienonnettuna",
+      "1½ tl suolaa",
+      "1½ tl tuoretta rouhittua mustapippuria",
+      "1 sitruunan raastettu kuori",
+      "½ dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Soseuta kaikki ainekset tehosekoittimessa sileäksi.",
+      "Säilytä jääkaapissa enintään 1½ viikkoa. Ravista hyvin ennen käyttöä."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-mayonnaise-made-with-bread-and-fish-stock-rouille",
+    "title": "Valkosipulimajoneesi leivästä ja kalaliemestä (Rouille)",
+    "description": "Rouille on perinteinen provencelainen tulinen valkosipulimajoneesi. Sitä tarjoillaan yleensä bouillabaisse-kalakeiton kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["valkosipuli", "majoneesi", "kala", "ranskalainen"],
+    "ingredients": [
+      "vähän patongin sisusta, liotettuna",
+      "1 munankeltuainen",
+      "1 dl oliiviöljyä",
+      "4 valkosipulinkynttä",
+      "ripaus sahramia tai annattoa (väriksi)",
+      "6 rkl kalalientä",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Soseuta leivänsisus, kalaliemi ja munankeltuainen yhdessä tasaiseksi massaksi.",
+      "Murskaa valkosipuli ja sahrami tai annatto, ja lisää massaan.",
+      "Lisää öljy vähitellen ohuena norona toisella kädellä, kun toisella vatkaat voimakkaasti koko ajan, aivan kuten tavallista majoneesia tehdessä.",
+      "Mausta suolalla ja pippurilla maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-parmesan-pasta",
+    "title": "Valkosipuli-parmesanpasta",
+    "servings": 4,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["pasta", "valkosipuli", "parmesaani", "nopea", "kasvis"],
+    "ingredients": [
+      "1¼ dl voita",
+      "2 tl rouhittua kuivattua basilikaa",
+      "2 tl sitruunamehua",
+      "1¼ tl valkosipulijauhetta",
+      "¾ tl maustesuolaa",
+      "220 g fettuccinea tai angel hair -pastaa, keitettynä ja valutettuna",
+      "3½ dl parsakaalin kukintoja, kypsennettynä mutta rapeahkona",
+      "3 rkl rouhittuja saksanpähkinöitä",
+      "tuoretta raastettua parmesaania"
+    ],
+    "instructions": [
+      "Sulata voi isossa paistinpannussa. Lisää basilika, sitruunamehu, valkosipulijauhe ja maustesuola, ja sekoita hyvin.",
+      "Lisää fettuccine, parsakaali ja saksanpähkinät. Sekoita hyvin, jotta pasta peittyy kastikkeeseen.",
+      "Ripottele tuoretta raastettua parmesaania päälle."
+    ],
+    "notes": [
+      "Kypsennettyä kananrintaa tai keitettyjä katkarapuja voi lisätä pastan joukkoon halutessaan."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-parsley-dressing",
+    "title": "Valkosipuli-persiljakastike",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["salaattikastike", "valkosipuli", "nopea", "kasvis"],
+    "ingredients": [
+      "½ dl viinietikkaa",
+      "2 rkl oliiviöljyä",
+      "2 tl valkosipulijauhetta",
+      "½ tl mustapippuria",
+      "persiljaa"
+    ],
+    "instructions": [
+      "Yhdistä kaikki ainekset ja kaada kastike keitetyn parsakaalin tai kukkakaalisalaatin päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-pork-chops-with-black-mushrooms",
+    "title": "Valkosipulinen possunkyljys mustien sienten kera",
+    "description": "Pannulla paistetut possunkyljykset tarjoillaan tulisen sieni-valkosipulikastikkeen kera aasialaistyyliseen tapaan.",
+    "servings": 4,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["possu", "sieni", "valkosipuli", "aasialainen"],
+    "ingredients": [
+      "2½ dl lihalientä",
+      "30 g kuivattuja mustia metsäsieniä (esim. mustatorvisientä)",
+      "½ dl riisiviinietikkaa",
+      "2 rkl soijakastiketta",
+      "2 rkl hunajaa",
+      "¼ tl chilihiutaleita",
+      "2 tl seesamiöljyä",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 rkl hienonnettua tuoretta inkivääriä",
+      "4 luutonta possunkyljystä (n. 1,5 cm paksuisia)"
+    ],
+    "instructions": [
+      "Kiehauta lihaliemi pienessä kattilassa. Lisää kuivatut sienet ja hauduta miedolla lämmöllä noin 10 minuuttia.",
+      "Sekoita pienessä kulhossa etikka, soijakastike, hunaja ja chilihiutaleet. Jätä odottamaan.",
+      "Kuumenna seesamiöljy isolla tarttumattomalla pannulla keskilämmöllä. Lisää kyljykset ja ruskista noin 2 minuuttia puolelta. Lisää valkosipuli ja inkivääri; paista ja sekoita, kunnes tuoksuvat.",
+      "Lisää soijakastikeseos ja kiehauta. Laske lämpö pienelle ja hauduta 5 minuuttia ilman kantta.",
+      "Nosta sienet pannusta reikäkauhalla ja viipaloi ohuiksi suikaleiksi. Lisää sienet ja liemi kyljysten joukkoon ja hauduta kannen alla miedolla lämmöllä, kunnes kastike on vähentynyt noin kolmanneksella ja kyljykset ovat kypsiä.",
+      "Nosta kyljykset tarjoiluastioihin ja lusikoi sienikastike päälle."
+    ],
+    "notes": [
+      "Kun kaksinkertaistat reseptin, älä kaksinkertaista etikkaa tai chilihiutaleita – lisää vain noin kahdeksasosan verran enemmän kumpaakin.",
+      "Kun olet sekoittanut etikan, soijakastikkeen, hunajan ja chilihiutaleet, anna maustua 5 minuuttia ja maista tasapainoa.",
+      "Kokeile suolavedessä esiliotettua possua.",
+      "Lisää pak choita joukkoon tai korvaa sienet sillä."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-salt",
+    "title": "Valkosipulisuola",
+    "description": "Valkosipulisuola on Yhdysvalloissa yleinen mauste, joka on nimensä mukaisesti valkosipulin ja suolan seos. Sitä käytetään valkosipulileivässä, salaateissa, voileivissä, pastassa ja ranskalaisissa, ja osa käyttää sitä myös kanan, hampurilaisten ja uuniperunoiden mausteena.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["mauste", "valkosipuli", "kotitekoinen", "nopea"],
+    "ingredients": [
+      "2 rkl valkosipulijauhetta",
+      "6 rkl hienoa suolaa"
+    ],
+    "instructions": [
+      "Sekoita valkosipulijauhe ja suola keskenään tasaiseksi. Suolan ja valkosipulijauheen suhdetta muuttamalla voi säätää mausteen makua."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-seared-halibut",
+    "title": "Valkosipulinen pallas",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kala", "valkosipuli", "sitruuna", "nopea"],
+    "ingredients": [
+      "4 pallaksenfilettä (yht. n. 700 g)",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl hienonnettua valkosipulia",
+      "1¼ dl valkoviiniä, jaettuna",
+      "½ dl suolatonta voita, jaettuna",
+      "½ sitruunan mehu",
+      "1¾ dl kanalientä, jaettuna",
+      "1 rkl hienoksi raastettua sitruunankuorta",
+      "1 tl oliiviöljyä"
+    ],
+    "instructions": [
+      "Yhdistä valkosipuli, ¼ dl valkoviiniä, sitruuna ja ½ dl kanalientä isossa pakastepussissa. Lisää kala ja käännä, jotta se peittyy marinadilla. Jääkaappiin tunniksi.",
+      "Ota kala pois marinadista ja säilytä marinadi. Mausta kalan molemmat puolet runsaalla suolalla ja mustapippurilla.",
+      "Sulata 1 rkl voita öljyn kanssa isossa teräspannussa keskikovalla lämmöllä. Lisää kala ja paista kullanruskeaksi ja kypsäksi, noin 3–4 minuuttia puolelta. Nosta syrjään lämpimään.",
+      "Deglaseeraa pannu jäljellä olevalla marinadilla, viinillä ja kanaliemellä. Kiehauta, laske lämpö pienelle ja keitä, kunnes neste on vähentynyt noin kolmanneksella.",
+      "Vatkaa voi joukkoon rkl kerrallaan, odottaen että edellinen erä on sulanut ennen seuraavaa lisäystä. Lusikoi kastike kalan päälle ja tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-shrimp-scampi-pasta",
+    "title": "Valkosipulikatkarapupasta (scampi)",
+    "description": "Tämä valkosipulikatkarapu-scampi on sovitettu YouTube-kanavan Tasty reseptistä.",
+    "servings": 4,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["pasta", "katkarapu", "valkosipuli", "nopea"],
+    "ingredients": [
+      "225 g spagettia",
+      "3 rkl voita",
+      "3 valkosipulinkynttä",
+      "450 g katkarapuja",
+      "1 tl suolaa",
+      "1 tl mustapippuria",
+      "½ sitruunan mehu",
+      "1 tl chilihiutaleita",
+      "25 g hienonnettua persiljaa"
+    ],
+    "instructions": [
+      "Keitä spagettia vedessä, kunnes se on al denteä.",
+      "Sulata sillä välin voi pannulla keskilämmöllä.",
+      "Lisää valkosipuli ja sekoita.",
+      "Lisää katkaravut ja paista noin 6 minuuttia, sekoitellen välillä, kunnes ne muuttuvat punertaviksi.",
+      "Mausta suolalla ja pippurilla, ja sekoita joukkoon sitruunamehu, chili ja persilja.",
+      "Valuta pasta siivilässä ja sekoita katkarapupannuun.",
+      "Jaa pasta neljälle lautaselle ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-shrimp-with-lemon-butter-sauce",
+    "title": "Valkosipulikatkaravut sitruunavoikastikkeessa",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["katkarapu", "valkosipuli", "sitruuna", "nopea"],
+    "ingredients": [
+      "36 isoa katkarapua, kuorittuna ja suolistettuna",
+      "suolaa",
+      "mustapippuria",
+      "285 g suolatonta voita, jaettuna",
+      "1 tl oliiviöljyä",
+      "2 rkl hienonnettua valkosipulia",
+      "½ salottisipulia, hienonnettuna",
+      "2 sitruunan mehu",
+      "loraus kuohukermaa"
+    ],
+    "instructions": [
+      "Mausta katkaravut runsaalla suolalla ja mustapippurilla. Jätä odottamaan.",
+      "Sulata 2 rkl voita öljyn kanssa isossa paistinpannussa keskikovalla lämmöllä. Lisää valkosipuli ja paista, sekoitellen, kunnes se saa kultaisen värin.",
+      "Lisää katkaravut ja paista, sekoitellen välillä, kunnes ne muuttuvat vaaleanpunaisiksi ja läpikypsiksi. Pidä lämpimänä.",
+      "Sulata isossa kattilassa 2 rkl voita keskilämmöllä. Lisää salottisipuli ja paista 30 sekuntia.",
+      "Lisää sitruunamehu, kuohukerma ja loput voista. Kuumenna, kunnes voi on sulanut. Maista ja säädä maustamista tarpeen mukaan.",
+      "Lusikoi kastike katkarapujen päälle ja tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-garlic-tomato-and-cheddar-sandwich",
+    "title": "Valkosipuli-tomaatti-cheddarvoileipä",
+    "description": "Herkullinen voileipä aamiaiseksi tai pikaruoaksi!",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["voileipä", "valkosipuli", "juusto", "nopea"],
+    "ingredients": [
+      "2 viipaletta tummaa leipää",
+      "1 valkosipulinkynsi",
+      "1 vihreä chili",
+      "1 tomaatti",
+      "5 viipaletta vahvaa cheddarjuustoa",
+      "1 rkl oliiviöljyä",
+      "1 tl sitruunamehua",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Paahda molemmat leipäviipaleet, kunnes toinen ei ole enää pehmeä (toinen voi jäädä pehmeämmäksi).",
+      "Hankaa valkosipulinkynttä kovaa paahtoleipäviipaletta vasten, kunnes siitä on jäljellä vain pieni pala. Hienonna loppuosa ja ripottele leivälle.",
+      "Leikkaa tomaatti kahtia ja purista kumpikin puolisko samalle leipäviipaleelle. Levitä mehu leivälle, pilko loppu tomaatti ja lisää se myös leivälle.",
+      "Lisää oliiviöljy varoen, ettet lisää enempää öljyä kuin leipää on.",
+      "Lisää suola ja pippuri. Viipaloi tai murskaa chili ja ripottele leivälle. Lisää sitruunamehu.",
+      "Asettele cheddarviipaleet siististi päälle ja sulje voileipä toisella leipäviipaleella."
+    ],
+    "notes": [
+      "Jos pidät lämpimistä voileivistä, saman voileivän voi paistaa uunissa muutaman minuutin ajan, kunnes tomaatti ja valkosipuli ovat puolikypsiä ja cheddar on sulanut (varo polttamasta). Vältä mikroaaltouunia."
+    ]
+  },
+  {
+    "id": "wikibooks-garum-boiled",
+    "title": "Garum (keitetty)",
+    "description": "Garum on perinteinen roomalainen fermentoitu kalakastike tai mauste. Antiikin roomalaisessa ruoanlaitossa sitä käytettiin sellaisenaan kastikkeena tai mausteena ja lisäyksenä muihin kastikkeisiin.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["historiallinen", "roomalainen", "kala", "kastike"],
+    "ingredients": [
+      "5 dl suolattuja sardellikaloja tai muuta rasvaista kalaa",
+      "1½ l viiniä"
+    ],
+    "instructions": [
+      "Lisää sardellit ja viini pataan.",
+      "Keitä seosta, kunnes se sakenee.",
+      "Siivilöi neste siivilän läpi ja pullota myöhempää käyttöä varten."
+    ],
+    "notes": [
+      "Yksikkömuunnokset nykymittoihin perustuvat Wikipedian artikkeliin roomalaisista mittayksiköistä.",
+      "Keitetty versio on peräisin Apiciukselta, fermentoitu versio Geoponikasta."
+    ]
+  },
+  {
+    "id": "wikibooks-garum-fermented",
+    "skip": "raakaa kalaa ja kalansisälmyksiä fermentoidaan huoneenlämmössä ilman turvallista suolapitoisuuden tai happamuuden hallintaa – turvallisuusriski"
+  },
+  {
+    "id": "wikibooks-gazpacho",
+    "title": "Gazpacho",
+    "description": "Gazpacho on täyteläinen, kylmänä tarjottava keitto, joka virkistää ja viilentää kuumana kesäpäivänä. Tämä on klassinen gazpacho-resepti, mutta siitä on monia muunnelmia. Gazpachoa tarjoillaan usein pääruoan kanssa tai sen jälkeen – osa espanjalaisista tarjoilee sen jopa lasista juomana aterian seuraksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["keitto", "kasvis", "kesä", "espanjalainen"],
+    "ingredients": [
+      "50 g 2–3 päivää vanhaa vaaleaa leipää (valinnainen – jätä pois, jos haluat ohuemman keiton)",
+      "450 g tomaatteja, kuorittuna ja lohkottuna",
+      "225 g vihreää paprikaa, siemennettynä ja puhdistettuna",
+      "½ kurkkua, kuorittuna ja paloiteltuna",
+      "1 valkosipulinkynsi",
+      "½ mietoa sipulia, hienonnettuna",
+      "1 rkl viini- tai punaviinietikkaa",
+      "2 rkl oliiviöljyä",
+      "¼ chiliä, siemennettynä (valinnainen)",
+      "korianteria (valinnainen)",
+      "2½ dl jääkylmää vettä",
+      "suolaa",
+      "mustapippuria",
+      "jääpaloja",
+      "Koristeluun:",
+      "1 tomaatti, kuorittuna ja hienoksi kuutioituna",
+      "½ vihreää paprikaa, hienoksi kuutioituna",
+      "¼ kurkkua, kuorittuna ja hienoksi kuutioituna",
+      "leipää"
+    ],
+    "instructions": [
+      "Jos käytät leipää, revi se paloiksi ja liota vedessä 30 minuuttia. Purista kuivaksi.",
+      "Soseuta leipä, tomaatit, paprikat, kurkku, valkosipuli, sipuli, etikka, oliiviöljy, chili, korianteri ja vesi tehosekoittimessa karkeasti. Keiton tulisi olla rakenteeltaan karkeaa ja vihannespaloja tulisi erottua, joten älä soseuta liian hienoksi.",
+      "Kaada keitto isoon kulhoon jään kanssa ja mausta suolalla ja pippurilla.",
+      "Kuutioi erikseen varattu leipä ja paista sitä tilkassa oliiviöljyä, kunnes se ruskistuu.",
+      "Pilko muut koristeluvihannekset hienoksi.",
+      "Tarjoile kaikki koristeet erillisissä pienissä kulhoissa pöydässä.",
+      "Tarjoile gazpacho jääkylmänä.",
+      "Anna ruokailijoiden itse ripotella koristeet keiton päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-gbegiri-yoruba-bean-soup",
+    "title": "Gbegiri (jorubien papukeitto)",
+    "description": "Gbegiri on jorubien keskuudessa Nigeriassa yleinen papukeitto. Siihen voi käyttää joko valkoisia tai ruskeita papuja.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["papu", "keitto", "afrikkalainen", "kasvis", "vegaaninen"],
+    "ingredients": [
+      "300 g kuivattuja papuja (valkoisia tai ruskeita)",
+      "2 punaista paprikaa (tatase)",
+      "2 habanero- tai scotch bonnet -chiliä (rodo)",
+      "1 tl cayennepippuria (shombo)",
+      "2 sipulia, hienonnettuna (alubosa)",
+      "2½ dl palmuöljyä",
+      "2 rkl fermentoituja locust bean -papuja (iru)",
+      "2 liemikuutiota",
+      "suolaa"
+    ],
+    "instructions": [
+      "Liota papuja vedessä noin 15 minuuttia, jotta kuori irtoaa.",
+      "Poista kuoret liotetuista pavuista ja huuhtele useaan kertaan.",
+      "Laita kuoritut ja pestyt pavut pataan hienonnetun sipulin kanssa. Peitä vedellä ja hauduta noin 2 tuntia, kunnes pavut ovat pehmeitä ja hajoavat.",
+      "Siivilöi pavut, jotta kaikki kokonaiset, sekoittumattomat palat jäävät pois. Jätä odottamaan.",
+      "Soseuta paprikat, chilit ja sipulit yhdessä.",
+      "Kuumenna palmuöljy padassa. Lisää soseutettu seos kuumaan öljyyn.",
+      "Lisää suola, locust bean -pavut ja liemikuutiot. Anna kypsyä keskilämmöllä noin 20 minuuttia.",
+      "Kaada mahdollinen ylimääräinen vetinen neste siivilöityjen papujen päältä pois. Lisää soseutetut pavut paprikaseoksen joukkoon.",
+      "Kypsennä vielä noin 15 minuuttia. Tarjoile."
+    ],
+    "notes": [
+      "Gbegiri-keittoa syödään yleensä pyöritetyn ruokaisan lisukkeen, kuten amalan, eban tai fufun kanssa. Sitä voi tarjota myös riisin kera."
+    ]
+  },
+  {
+    "id": "wikibooks-gboma-dessi-and-akoume-togolese-spinach-stew-with-corn-swallow",
+    "title": "Gboma dessi ja akoume (togolainen pinaattimuhennos ja maissipuuro)",
+    "description": "Gboma dessi tunnetaan myös nimellä \"sauce feuille\", ja se on länsiafrikkalaisten, erityisesti Togon, perusruokaa. Sitä voi valmistaa lihan tai kanan kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["liha", "afrikkalainen", "pinaatti"],
+    "ingredients": [
+      "Gboma dessi (muhennos):",
+      "5 rkl palmuöljyä tai rypsiöljyä",
+      "3 sipulia, ohuiksi suikaleiksi viipaloituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 rkl inkiväärijauhetta (valinnainen)",
+      "1300 g lihaa, suuriksi kuutioiksi paloiteltuna",
+      "suolaa",
+      "2 chiliä, hienonnettuna",
+      "3 kanaliemikuutiota",
+      "gbotemi-mausteseosta (neilikkaa, aniista, ajowania ja kardemummaa, paahdettuna ja jauhettuna inkiväärin kanssa)",
+      "450 g pinaattia",
+      "1 tlk (400 g) tomaattisosetta",
+      "Akoume (maissipuuro):",
+      "5 dl vettä",
+      "2½ dl maissijauhoja",
+      "3½ dl vehnäjauhoja",
+      "½ dl perunatärkkelystä"
+    ],
+    "instructions": [
+      "Kuumenna painekattilassa hieman öljyä. Kuullota osa sipuleista, hienonnettu valkosipuli ja inkiväärijauhe 2 minuuttia.",
+      "Lisää liha, chilit, 2 liemikuutiota ja suolaa maun mukaan. Lisää vettä niin, että se peittää lihan juuri ja juuri. Laske lämpöä ja kypsennä noin 40 minuuttia tai pidempään lihasta ja painekattilasta riippuen.",
+      "Lihan kypsyessä pese pinaatinlehdet ja keitä niitä suolatussa vedessä 15 minuuttia. Valuta ja leikkaa ohuiksi suikaleiksi.",
+      "Nosta liha painekattilasta, valuta ja siirrä kulhoon. Säilytä liemi padassa.",
+      "Mausta liha gbotemi-mausteseoksella.",
+      "Kuullota loput sipulit ja valkosipulinkynnet kattilassa lopuissa palmu- tai rypsiöljyssä.",
+      "Lisää tomaattisose ja kypsennä, sekoittaen tasaisin väliajoin, vähintään 10 minuuttia. Mausta jäljellä olevalla liemikuutiolla ja chilillä, ja lisää joukkoon talteen otettu liemi. Keitä keskilämmöllä 25 minuuttia.",
+      "Lisää pinaatti ja sitten liha. Hauduta vähintään 15 minuuttia ja ota pois liedeltä.",
+      "Kaada vesi kattilaan. Lisää maissijauhot ja sekoita puulusikalla.",
+      "Kun vesi kiehuu, lisää vehnäjauhot ja sekoita voimakkaasti.",
+      "Liota perunatärkkelys dl:ssä vettä ja kaada se kattilaan.",
+      "Sekoita voimakkaasti 3 minuutin ajan, peitä sitten kattila ja kypsennä keskilämmöllä 5 minuuttia.",
+      "Kun taikina on valmis, muotoile se haluamaasi muotoon.",
+      "Tarjoile gboma dessi akoumen päällä banaaninlehdellä, tai tarjoile gboma dessi akoumen vierellä isolla lautasella."
+    ]
+  },
+  {
+    "id": "wikibooks-geisha-soup",
+    "title": "Geisha-keitto",
+    "description": "Geisha-keitto on nigerialainen keitto, joka valmistetaan broilerin rintafileestä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": ["kana", "keitto", "afrikkalainen", "peruna"],
+    "ingredients": [
+      "2 rkl maapähkinäöljyä",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 porkkanaa, kuorittuna ja hienonnettuna",
+      "3 perunaa, kuutioituna ja huuhdeltuna",
+      "4 broilerin rintafilettä, taputeltuna ohuiksi",
+      "suolaa"
+    ],
+    "instructions": [
+      "Kuumenna pieni määrä maapähkinäöljyä padassa. Lisää hienonnettu sipuli, valkosipuli ja porkkanat. Paista, kunnes vihannekset ovat pehmenneet, ja ota sitten pois liedeltä.",
+      "Keitä perunat suolatussa vedessä.",
+      "Asettele paistetut vihannekset ja osa keitetyistä perunoista litistetyn kananrintafileen päälle. Kääri kana rullalle niin, että vihannekset jäävät sisään, ja kiinnitä reunat hammastikuilla.",
+      "Lisää kääritty kanarulla pataan jäljellä olevien keitettyjen perunoiden joukkoon ja keitä muutama minuutti.",
+      "Tarjoile."
+    ]
+  }
+]

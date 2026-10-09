@@ -1,0 +1,834 @@
+[
+  {
+    "id": "wikibooks-egg-pie",
+    "title": "Munapiirakka",
+    "description": "Maukas munaruoka aamiaiselle, brunssille tai myöhäisiltaiseksi välipalaksi.",
+    "servings": 8,
+    "totalTimeMin": 60,
+    "category": "Aamiainen",
+    "tags": [
+      "kananmuna",
+      "pekoni",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "2 viipaletta pekonia",
+      "24 suolakeksiä (n. 5 cm:n neliöitä)",
+      "6 isoa kananmunaa",
+      "2,5 dl maitoa",
+      "⅛ tl suolaa",
+      "1 ripaus mustapippuria",
+      "1,25 dl cheddarjuustoa pieniksi paloiksi leikattuna",
+      "paistosuihketta",
+      "hilloa tai hyytelöä (valinnainen)"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 175 asteeseen.",
+      "Paloittele pekoni pieniksi paloiksi ja paista ruskeaksi.",
+      "Murskaa keksit.",
+      "Vatkaa munat kulhossa.",
+      "Lisää murskatut keksit, maito, suola ja pippuri, sitten juusto munien joukkoon.",
+      "Suihkuta uunivuoka paistosuihkeella.",
+      "Kaada seos vuokaan ja lisää pekoni.",
+      "Paista esilämmitetyssä uunissa, kunnes veitsi tulee puhtaana ulos piirakkaa testatessa.",
+      "Leikkaa paloiksi ja tarjoa hillon kanssa."
+    ],
+    "notes": [
+      "Juuston voi kuutioida, raastaa tai paloitella – mitä pienempiä palat ovat, sitä tasaisemmin ne sekoittuvat."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-rice",
+    "title": "Munariisi",
+    "description": "Intialaistyylinen riisiruoka, jossa vatkattu kananmuna sekoitetaan kypsän riisin joukkoon mausteiden kera.",
+    "servings": 2,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": [
+      "riisi",
+      "kananmuna",
+      "intialainen"
+    ],
+    "ingredients": [
+      "250 g raakaa riisiä",
+      "1 pieni sipuli (hieman golfpalloa suurempi), hienonnettuna",
+      "2 keskikokoista vihreää chiliä, hienonnettuna",
+      "1 tl inkivääritahnaa",
+      "1 tl valkosipulitahnaa",
+      "¼ tl mausteseosta (suhde n. ½ kanelitankoa : 3 kardemummapalkoa : 6 neilikkaa)",
+      "1 tl suolaa",
+      "2 kananmunaa, vatkattuna"
+    ],
+    "instructions": [
+      "Keitä riisi ja laita se odottamaan.",
+      "Kuullota sipuli ja vihreät chilit pannulla yhdessä keskilämmöllä.",
+      "Lisää inkivääri- ja valkosipulitahna.",
+      "Lisää riisi ja sekoita kaikki hyvin.",
+      "Lisää suola ja mausteseos.",
+      "Sekoita joukkoon vatkatut munat.",
+      "Kypsennä, kunnes kaikki on sekoittunut hyvin."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-roast",
+    "title": "Munapaahtoruoka",
+    "description": "Yksinkertainen mutta maukas eteläintialainen ruoka, jossa kovaksi keitetyt munat haudutellaan masala-kastikkeessa. Tarjoillaan perinteisesti chapatin tai poratan kera, tai keitetyn riisin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "kananmuna",
+      "intialainen",
+      "mausteinen"
+    ],
+    "ingredients": [
+      "rypsiöljyä",
+      "2 keskikokoista sipulia, hienonnettuna",
+      "suolaa",
+      "1 rkl inkivääri-valkosipulitahnaa",
+      "1 rkl korianterijauhetta",
+      "1 tl chilijauhetta",
+      "¼ tl kurkumaa",
+      "1 iso tomaatti, hienonnettuna",
+      "4 vihreää chiliä, halkaistuna",
+      "4 kovaksi keitettyä kananmunaa, halkaistuna",
+      "1 pieni tomaatti, isoiksi paloiksi leikattuna",
+      "1 oksa curry-lehtiä, lehdet varresta irrotettuna",
+      "¼ tl kanelijauhetta",
+      "¼ tl neilikkajauhetta"
+    ],
+    "instructions": [
+      "Kuumenna öljyä kadaissa tai paksupohjaisessa pannussa, lisää sipulit ja ripaus suolaa, ja paista kultaisenruskeiksi.",
+      "Lisää inkivääri-valkosipulitahna ja kypsennä, kunnes raaka tuoksu häviää.",
+      "Lisää korianteri-, chili- ja kurkumajauhe, ja paista 2 minuuttia.",
+      "Lisää hienonnettu tomaatti ja paista, kunnes öljy alkaa erottua seoksesta.",
+      "Lisää vihreät chilit ja paista hetki. Lisää munat ja pyörittele niitä seoksessa niin, että ne peittyvät.",
+      "Lisää paloiteltu tomaatti, curry-lehdet, kaneli ja neilikka. Paista pari minuuttia ja tarjoa."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-roll",
+    "title": "Kevätkääryleet (egg roll)",
+    "description": "Kiinalais-amerikkalaiset maustetut, täytetyt ja rapeaksi paistetut kääryleet. Niitä voi syödä sellaisenaan tai kastaa makeahkoon tai teriyaki-kastikkeeseen.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Välipalat",
+    "tags": [
+      "kiinalainen",
+      "friteeraus",
+      "täytetty"
+    ],
+    "ingredients": [
+      "12 kevätkääryleen kääretaikinaa (ostettuja tai itse tehtyjä)",
+      "n. 300 g kanan- tai possunlihaa",
+      "parsakaalia (valinnainen)",
+      "pak choita (valinnainen)",
+      "varsisellerin vartta (valinnainen)",
+      "pinaattia (valinnainen)",
+      "2 dl taugeita",
+      "jauhettua inkivääriä",
+      "soijakastiketta",
+      "bambunversoja",
+      "öljyä täytteen paistamiseen (voi sisältää seesamiöljyä)",
+      "öljyä kääryleiden paistamiseen (voi sisältää kasvirasvaa)",
+      "munanvalkuaista (liimaukseen)"
+    ],
+    "instructions": [
+      "Leikkaa liha hyvin pieniksi paloiksi. Tämä on helpompaa, jos liha on kypsennetty, mutta lopputulos on parempi, jos leikkaat lihan raakana ja kypsennät sen vasta leikkaamisen jälkeen.",
+      "Leikkaa bambunversot tulitikun kokoisiksi suikaleiksi.",
+      "Jos käytät parsakaalia, paloittele kukinnot noin 1 cm:n paloiksi. Leikkaa varsi tulitikun kokoisiksi suikaleiksi.",
+      "Jos käytät selleriä, leikkaa varret pituussuunnassa noin 2 cm:n levyisiksi paloiksi ja sitten poikittain ohuiksi viipaleiksi.",
+      "Jos käytät pak choita, leikkaa lehdet irti varresta. Käsittele varret kuten selleriä. Leikkaa lehdet poikittain noin 1,5 cm:n suikaleiksi, ja paloittele suikaleet edelleen noin 4 cm:n pätkiksi.",
+      "Jos käytät pinaattia, käsittele se samaan tapaan kuin pak choin lehdet.",
+      "Pese taugeet ja poista kaikki, jotka eivät ole valkoisia ja rapeita.",
+      "Kaada öljyä wokkiin ja kuumenna. Korkea lämpötila antaa paremman tuloksen, mutta vaatii nopeaa hämmentämistä palamisen estämiseksi. Aloittelijan kannattaa käyttää matalampaa lämpöä. Paista tarvittaessa erissä, jotta wokissa on tilaa hämmentää ja heitellä ruokaa. Voit myös kypsentää jokaisen ainesosan erikseen ja sekoittaa ne lopuksi yhteen.",
+      "Lisää liha. Jos se on raakaa, paista sitä nyt kevyesti. Valuta liemi pois ja lisää öljyä tarvittaessa.",
+      "Voit lisätä hieman seesamiöljyä ja/tai seesaminsiemeniä maun vuoksi.",
+      "Lisää soijakastiketta – täyteen wokilliseen sopii noin ruokalusikallinen.",
+      "Lisää inkivääriä, noin ½ teelusikallista maun mukaan. Inkivääri on melko tulista.",
+      "Lisää parsakaali, selleri ja/tai pak choin varret. Valmiina niiden tulisi olla vain hieman pehmentyneitä. Parsakaalin tulisi muuttua kirkkaan vihreäksi ilman sinistä tai kellanruskeaa sävyä.",
+      "Lisää pak choin lehdet ja/tai pinaatti. Valmiina niiden tulisi olla vasta juuri lakastuneita.",
+      "Lisää bambunversot ja taugeet, ja sammuta lämpö. Älä kypsennä taugeita liikaa.",
+      "Ala kuumentaa öljyä kevätkääryleiden paistamista varten. Upotuspaistaminen toimii parhaiten, mutta pannulla paistaminen noin 2 cm:n öljykerroksessa onnistuu myös. Koria ei tarvita, sillä kääryleet voivat tarttua siihen ja revetä. Tarvitset pihdit.",
+      "Aseta kääretaikinan levy lautaselle. Aloittelija voi käyttää jauhoja estämään tarttumista, mutta se liata öljyn nopeasti.",
+      "Käännä lautasta niin, että taikinalevyn yksi kulma osoittaa itseesi päin ja toinen poispäin.",
+      "Laita hieman lämmintä täytettä taikinan päälle.",
+      "Taita itsestäsi poispäin osoittava kulma täytteen päälle.",
+      "Sivele tähän kulmaan hieman munanvalkuaista liimaksi.",
+      "Taita vasemmalle ja oikealle osoittavat kulmat sisään.",
+      "Sivele munanvalkuaista myös näihin ja viimeiseen jäljellä olevaan kulmaan.",
+      "Rullaa kääryle itseesi päin, taikinan viimeisen kulman yli.",
+      "Tarkista, että kääryle on kauttaaltaan tiiviisti suljettu. Repeämät voi paikata varalevyn palalla ja munanvalkuaisliimalla.",
+      "Laita kääryle kuumaan öljyyn. Voit paistaa useita kerralla, mutta älä anna raakojen kääryleiden odottaa pitkään – ne tarttuvat ja repeytyvät helposti.",
+      "Käännä kääryleitä paistamisen aikana muutaman kerran ja upota ne öljyyn. Varo rikkomasta niitä samalla.",
+      "Nosta kääryleet pois, kun ne ovat kullanruskeita. Siirrä ne puhtaalle lautaselle, jotta ne eivät kosketa raakaa munanvalkuaista. Vältä koskettamasta valmiita kääryleitä käsillä, joissa voi olla raakaa munanvalkuaista.",
+      "Tarjoa heti – kääryleet maistuvat parhaalta kuumina."
+    ],
+    "notes": [
+      "Muiden friteerattujen ruokien tapaan kevätkääryleet eivät säily hyvin paistamisen jälkeen, mutta itse täyte säilyy hyvin jääkaapissa.",
+      "Ylijäänyttä täytettä ja kääretaikinoita voi käyttää wonton-keitossa. Ylijääneet kääretaikinat voi myös friteerata sellaisenaan ja kuorruttaa heti sokerilla ja kanelilla."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-soda",
+    "title": "Munasooda",
+    "description": "Virkistävä juoma, jossa kondensoitu maito ja munankeltuainen sekoittuvat hiilihapotettuun veteen.",
+    "servings": 1,
+    "totalTimeMin": 5,
+    "category": "Juomat",
+    "tags": [
+      "kananmuna",
+      "virvoitusjuoma"
+    ],
+    "ingredients": [
+      "2 tl makeutettua kondensoitua maitoa",
+      "1 munankeltuainen",
+      "2,5–5 dl hiilihapotettua vettä (tarpeen mukaan)",
+      "jäätä"
+    ],
+    "instructions": [
+      "Täytä lasi jäällä.",
+      "Sekoita toisessa lasissa kondensoitu maito ja munankeltuainen.",
+      "Lisää hiilihapotettua vettä haluttuun määrään ja sekoita hyvin.",
+      "Kaada neste jään päälle.",
+      "Nauti."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-wash",
+    "title": "Munavoide",
+    "description": "Munasta ja nesteestä tehty voide, jota siveltäminen tuo kiiltävän pinnan leivonnaisiin, erityisesti piirakoihin, tai toimii tartuntapintana friteerattaville ruoille.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": [
+      "perusresepti",
+      "leivonta"
+    ],
+    "ingredients": [
+      "1 munankeltuainen, valkuainen tai kokonainen muna",
+      "1–2 rkl vettä tai maitoa"
+    ],
+    "instructions": [
+      "Vatkaa ainekset yhteen.",
+      "Sivele voide ohjeen mukaisesti."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-white-carrot-brownies",
+    "title": "Munanvalkuais-porkkanabrownet",
+    "description": "Kevyemmät brownet, joissa käytetään vain munanvalkuaisia ja porkkanaraastetta tuomaan mehevyyttä.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "totalTimeMin": 30,
+    "category": "Jälkiruoat",
+    "tags": [
+      "suklaa",
+      "porkkana",
+      "brownie"
+    ],
+    "ingredients": [
+      "10 munanvalkuaista",
+      "150 g sokeria",
+      "150 g vehnäjauhoja",
+      "100 g tummaa leivontasuklaata, sulatettuna ja hieman jäähdytettynä",
+      "100 g voita, sulatettuna ja hieman jäähdytettynä",
+      "3 porkkanaa, raastettuna",
+      "1 sitruunan raastettu kuori",
+      "100 g saksanpähkinärouhetta",
+      "tomusokeria"
+    ],
+    "instructions": [
+      "Vatkaa munanvalkuaiset lisäten sokeria vähitellen, kunnes seos on kovaa vaahtoa.",
+      "Sekoita joukkoon jauhot ja sekoita hyvin.",
+      "Lisää porkkanaraaste, sitruunankuori, saksanpähkinät, sulatettu suklaa ja sulatettu voi. Sekoita hyvin.",
+      "Kaada taikina voideltuun uunivuokaan. Paista 175 asteessa, kunnes kypsää.",
+      "Anna jäähtyä, leikkaa paloiksi ja ripottele päälle tomusokeria."
+    ],
+    "notes": [
+      "Varo ylikypsentämistä – brownet voivat kuivua, jos niitä paistaa liian pitkään."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-with-cabbage-and-turkish-sausage",
+    "title": "Munaa kaalin ja sucukin kanssa",
+    "description": "Munia kypsennetään turkkilaisen sucuk-makkaran ja tulisen kaalin kanssa. Sopii sellaisenaan tai riisin kanssa. Jos chilitahna on jo suolaista, lisäsuolaa ei välttämättä tarvita.",
+    "servings": 2,
+    "totalTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": [
+      "kananmuna",
+      "makkara",
+      "turkkilainen"
+    ],
+    "ingredients": [
+      "2,5–5 dl hienonnettua kaalia",
+      "2–3 kananmunaa",
+      "1 rkl chilitahnaa (esim. gochujangia tai vastaavaa)",
+      "1–2 rkl oliiviöljyä",
+      "n. 0,3–0,6 dl vettä",
+      "1 iso rkl maapähkinävoita",
+      "8–10 viipaletta sucukia (turkkilaista makkaraa)",
+      "tabascoa (valinnainen)",
+      "hienonnettua persiljaa tai korianteria (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy keskikokoisessa kannellisessa padassa.",
+      "Lisää viipaloitu sucuk ja ruskista nopeasti.",
+      "Sekoita joukkoon hienonnettu kaali ja chilitahna.",
+      "Sekoita joukkoon vesi ja maapähkinävoi.",
+      "Peitä kannella ja kypsennä noin 5–10 minuuttia, riippuen siitä kuinka rapeaksi haluat kaalin.",
+      "Riko 2–3 munaa pataan. Peitä ja kypsennä, kunnes munat ovat valmiita.",
+      "Tarjoa riisin tai lihan kanssa. Koristele halutessasi tabascolla ja/tai hienonnetuilla yrteillä."
+    ]
+  },
+  {
+    "id": "wikibooks-egg-cheese-and-phyllo-casserole-banitsa",
+    "title": "Muna-, juusto- ja filotaikinavuoka (banitsa)",
+    "description": "Suosittu bulgarialainen leivonnainen, jota voi tarjoilla sellaisenaan tai osana ateriaa. Tämä ohje riittää 2–3 hengelle ja valmistuu alle tunnissa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "category": "Leivät ja leivonnaiset",
+    "tags": [
+      "filotaikina",
+      "juusto",
+      "bulgarialainen"
+    ],
+    "ingredients": [
+      "2 pakettia filotaikinaa",
+      "200 g kashkaval-juustoa (tai cheddar- ja mozzarellajuuston seosta), pieniksi paloiksi leikattuna",
+      "500 g sirene- tai fetajuustoa, murennettuna",
+      "7 kananmunaa",
+      "100 g voita",
+      "1,25 dl soodavettä",
+      "2,5 dl jogurttia"
+    ],
+    "instructions": [
+      "Sekoita 6 munaa, raastettu voi, molemmat juustot ja jogurtti keskenään.",
+      "Levitä voidellulle pannulle kerros filotaikinaa, sitten kerros seosta, ja jatka vuorottelua niin, että filotaikina ja seos loppuvat suunnilleen samaan aikaan.",
+      "Viimeistele päällimmäiseksi kerros filotaikinaa.",
+      "Leikkaa banitsa annospaloiksi.",
+      "Sekoita viimeinen muna soodaveden kanssa ja sekoita hyvin.",
+      "Kaada munaseos banitsan päälle varmistaen, ettei filotaikinaan jää kuivia kohtia.",
+      "Paista esilämmitetyssä 200 asteen uunissa 40 minuuttia tai kunnes kullanruskea. Tarjoa ja nauti!"
+    ],
+    "notes": [
+      "Pinaattibanitsaa varten korvaa 3 munaa ½ kilolla pinaattia, pestynä, pilkottuna ja kevyesti paistettuna (enintään 5 minuuttia).",
+      "Kevätsipulibanitsaa varten korvaa 3 munaa 5–10 varrella kevätsipulia (n. 2,4 dl hienonnettuna), kevyesti paistettuna (enintään 10 minuuttia).",
+      "Sen sijaan, että filotaikinalevyt pinotaan päällekkäin, voit myös levittää seosta filotaikinan päälle, lisätä hieman soodavettä ja rullata kaksi levyä seoksen ympärille. Rullat asetetaan spiraaliksi pannulle. Ripottele hieman öljyä päälle ennen paistamista."
+    ]
+  },
+  {
+    "id": "wikibooks-eggnog",
+    "title": "Eggnog (munajuoma)",
+    "description": "Täyteläinen juhlajuoma kananmunista, kermasta ja maidosta, maustettu muskottipähkinällä ja perinteisesti myös tipalla brandyä ja rommia.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": [
+      "joulu",
+      "kananmuna",
+      "kerma"
+    ],
+    "ingredients": [
+      "6 kylmää kananmunaa",
+      "2,5 dl sokeria",
+      "½ tl vaniljauutetta",
+      "¼ tl muskottipähkinää",
+      "180 ml kylmää brandyä",
+      "80 ml kylmää tummaa rommia",
+      "480 ml kylmää kuohukermaa",
+      "480 ml kylmää maitoa"
+    ],
+    "instructions": [
+      "Vatkaa munia 2–3 minuuttia sähkövatkaimella keskinopeudella, kunnes seos on hyvin vaahtoavaa.",
+      "Vatkaa joukkoon vähitellen sokeri, vanilja ja muskottipähkinä.",
+      "Sammuta vatkain ja sekoita joukkoon kylmä brandy, rommi, kuohukerma ja maito.",
+      "Jäähdytä hyvin.",
+      "Tarjoile ripotellen lisää muskottipähkinää annosten päälle."
+    ],
+    "notes": [
+      "Brandyn voi korvata tummalla rommilla.",
+      "Vaihtoehtoinen tekniikka: erottele munankeltuaiset valkuaisista. Vatkaa keltuaiset ensin, kunnes väri vaalenee. Vatkaa joukkoon vähitellen sokeri, vanilja ja muskottipähkinä. Sammuta vatkain ja lisää nesteet. Vatkaa valkuaiset erikseen, lisäten loput sokerista kun vaahto alkaa muodostaa huippuja, ja jatka vatkaamista, kunnes vaahto on kiinteää. Käännä valkuaisvaahto varovasti pääseoksen joukkoon. Jäähdytä ja tarjoile.",
+      "Alkoholittomampaa versiota varten: kuumenna maito ja kerma lähes kiehuvaksi ja sekoita liköörit joukkoon ennen kuumennusta, jolloin alkoholi haihtuu keitossa. Tempperoi vatkatut ja makeutetut keltuaiset kuumalla maidolla ennen yhdistämistä."
+    ]
+  },
+  {
+    "id": "wikibooks-eggnog-milkshake-vegan",
+    "title": "Vegaaninen eggnog-pirtelö",
+    "description": "Nopea vegaaninen pirtelö kasvipohjaisesta munkkijuomasta ja vaniljajäätelöstä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Juomat",
+    "tags": [
+      "vegaaninen",
+      "pirtelö",
+      "joulu"
+    ],
+    "ingredients": [
+      "5 dl kasvipohjaista munkkijuomaa (vegaaninen eggnog-juoma)",
+      "240 g vaniljamakuista kasvijäätelöä",
+      "muskottipähkinää"
+    ],
+    "instructions": [
+      "Sekoita munkkijuoma ja jäätelö tehosekoittimessa tasaiseksi.",
+      "Kaada lasiin ja ripottele päälle muskottipähkinää."
+    ]
+  },
+  {
+    "id": "wikibooks-eggplant-and-chickpea-skillet",
+    "title": "Munakoiso-kikhernepannu",
+    "description": "Värikäs ja maukas vegaaninen pannuruoka. Tähän ohjeeseen kannattaa käyttää tuoretta basilikaa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": [
+      "vegaaninen",
+      "kasvis",
+      "munakoiso",
+      "kikherne"
+    ],
+    "ingredients": [
+      "1 rkl oliiviöljyä",
+      "1 vihreä paprika, kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 pieni munakoiso tai 2 italialaista munakoisoa, neljänneksiksi ja viipaloituna",
+      "6–8 sientä, viipaloituna",
+      "1 tlk (400 g) kuutioituja tomaatteja",
+      "1 tlk (400 g) kikherneitä, valutettuna",
+      "½ tl rakuunaa",
+      "200–250 g parsakaalia, pieniksi kukinnoiksi paloiteltuna",
+      "8–12 tuoretta basilikanlehteä (mieluiten thaibasilikaa)"
+    ],
+    "instructions": [
+      "Kuullota vihreää paprikaa ja valkosipulia öljyssä keskilämmöllä muutama minuutti. Lisää sienet ja munakoiso, ja jatka kypsentämistä usein hämmentäen 5 minuuttia.",
+      "Lisää tomaatit mehuineen, kikherneet ja rakuuna. Sekoita hyvin, peitä ja hauduta 10–12 minuuttia, kunnes munakoiso on hieman pehmennyt.",
+      "Sekoita joukkoon basilikanlehdet ja parsakaali, ja hauduta osittain peitettynä 8–10 minuuttia tai kunnes parsakaali on kirkkaanvihreää.",
+      "Mausta suolalla ja vastajauhetulla mustapippurilla.",
+      "Tarjoa riisin tai couscousin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-eggplant-and-tahini-moutabbal",
+    "title": "Munakoiso-tahinidippi (moutabbal)",
+    "description": "Moutabbal (baba ghanoush) on munakoisosta ja tahinista tehty dippi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": [
+      "vegaaninen",
+      "kasvis",
+      "munakoiso",
+      "dippi"
+    ],
+    "ingredients": [
+      "1 iso kypsä munakoiso",
+      "2–3 rkl (30–45 g) tahinia",
+      "1–2 sitruunan mehu, siivilöitynä",
+      "2–3 tuoretta valkosipulinkynttä",
+      "suolaa",
+      "oliiviöljyä"
+    ],
+    "instructions": [
+      "Paahda munakoiso avotulella. Jos liesesi on sähköinen, halkaise munakoiso pituussuunnassa, aseta leikkuupinta alaspäin pellille ja paista kuumassa uunissa ylähyllyllä 30–45 minuuttia. Avotulella paahtaessa käännä munakoisoa usein haarukalla. Kuoren tulisi ryppyyntyä ja palaa, ja sisuksen pehmetä läpikotaisin. Kun munakoiso on täysin pehmeää, nosta se kulhoon, viillä sitä kerran tai kahdesti kitkeränmaun poistamiseksi, ja anna jäähtyä käsiteltävän lämpöiseksi. Jotkut suosittelevat jäähdyttämistä ruskeassa paperipussissa.",
+      "Leikkaa varsi pois ja kuori munakoiso. Kaavi hedelmäliha tehosekoittimen tai monitoimikoneen kulhoon. Lisää valkosipuli, tahini ja sitruunamehu, ja soseuta. Määrät riippuvat munakoison koosta ja mausta – maista usein. Mausta suolalla.",
+      "Tarjoa huoneenlämpöisenä, valuta päälle oliiviöljyä ja koristele mustalla tai vihreällä Välimeren oliivilla tai korianterin tai persiljan oksilla."
+    ],
+    "notes": [
+      "Jos sinulla ei ole tehosekoitinta tai monitoimikonetta, munakoison voi helposti soseuttaa käsin. Murskaa valkosipuli leveän veitsen lappeella ja hienonna sitten. Jotkut kokit suosivat käsin muusaamista, sillä koneen terät voivat rikkoa siemeniä, mikä vapauttaa kitkeriä makuja. Jos sinulla on huhmare, voit murskata valkosipulin suolan kanssa tahnaksi. Isolla huhmareella voi muusata kaikki ainekset."
+    ]
+  },
+  {
+    "id": "wikibooks-eggplant-parmesan-melanzane-alla-parmigiana-i",
+    "title": "Munakoisoparmesaani I (Melanzane alla Parmigiana)",
+    "description": "Melanzane alla parmigiana oli alun perin sisilialainen ruoka nimeltä Parmiciana di melenzane – parmiciana tarkoittaa puisten säleverhojen säleitä, joita munakoisoviipaleiden kerrokset muistuttavat. Nykyään maailmanlaajuisesti tunnetussa muodossaan se on yleensä uunissa paistettu ruoka, joka koostuu munakoisosta, parmesaanista, mozzarellasta ja tomaattikastikkeesta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "munakoiso",
+      "italialainen",
+      "juusto",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "3–4 isoa munakoisoa",
+      "tomaattikastiketta",
+      "200–300 g mozzarellajuustoa, viipaloituna",
+      "raastettua parmesaanijuustoa",
+      "vehnäjauhoja tai korppujauhoja",
+      "öljyä paistamiseen",
+      "suolaa",
+      "2 kananmunaa (valinnainen)",
+      "tuoretta basilikaa (valinnainen)",
+      "mustapippuria tai muita mausteita maun mukaan (valinnainen)"
+    ],
+    "instructions": [
+      "Pese munakoisot ja leikkaa ne noin 1–1,5 cm:n paksuisiksi viipaleiksi.",
+      "Suolaa viipaleet molemmin puolin ja anna veden valua pois: aseta viipaleet lautaselle, peitä toisella lautasella ja anna levätä 60–120 minuuttia; tai laita suolatut viipaleet isoon siivilään, peitä ja painota (esim. vedellä täytetyllä kattilalla), jolloin vesi valuu nopeammin. Huuhtele suola pois juoksevalla vedellä ja anna kuivua.",
+      "Panoi ja kypsennä viipaleet jommallakummalla seuraavista tavoista – älä kypsennä liikaa, sillä ne viettävät vielä aikaa uunissa myöhemmin. Paksumpaa panerointia varten: vatkaa munat matalassa astiassa ja levitä korppujauhot (tai jauhot) toiseen astiaan, sekoita kuivat mausteet jauhoihin. Kasta jokainen viipale ensin munassa, sitten korppujauhoissa, ja paista pannulla keskilämmöllä. Ohutta ja kevyttä panerointia varten: pölytä viipaleet jauholla ja paista uunissa – aseta uunivuokaan, pölytä jauholla, valuta päälle öljyä ja paista 180 asteessa noin 10 minuuttia; jätä viipaleet vuokaan.",
+      "Kerrosta munakoisoviipaleet, tomaattikastike sekä mozzarella- ja parmesaanijuusto uunivuokaan. Osa kokeista lisää joukkoon tuoreita basilikanlehtiä. Tee niin monta kerrosta kuin haluat, mutta 3–4 kerrosta riittää hyvin.",
+      "Rapean pinnan saamiseksi viimeistele parmesaanikerroksella.",
+      "Paista 180 asteessa noin 20–30 minuuttia, kunnes juustokuorrutus on kevyesti ruskistunut."
+    ]
+  },
+  {
+    "id": "wikibooks-eggplant-parmesan-melanzane-alla-parmigiana-ii",
+    "title": "Munakoisoparmesaani II (Melanzane alla Parmigiana)",
+    "description": "Melanzane alla parmigiana on tyypillinen italialainen ruoka, jolla on erilaisia variaatioita ympäri Italiaa. Ruoan pääosat ovat munakoiso, tomaattikastike, basilikanlehdet, mozzarella ja tietysti parmesaanijuusto.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "munakoiso",
+      "italialainen",
+      "juusto",
+      "uuniruoka"
+    ],
+    "ingredients": [
+      "2 kg munakoisoja",
+      "700 g tuoreita keittotomaatteja, tai 1 iso tai 2 keskikokoista tölkkiä kokonaisia luumutomaatteja",
+      "1 kg lehmänmaidon mozzarellajuustoa (fiordilatte)",
+      "½ isoa tai 1 keskikokoinen sipuli, viipaloituna",
+      "oliiviöljyä",
+      "tuoretta basilikaa",
+      "parmesaania tai grana padanoa"
+    ],
+    "instructions": [
+      "Leikkaa munakoisot pituussuunnassa n. 0,75 cm:n paksuisiksi viipaleiksi ja aseta ne lautaselle reilun suolakerroksen alle noin tunniksi. Huuhtele ylimääräinen suola pois ja kuivaa viipaleet talouspaperilla.",
+      "Aloita sipuliviipaleiden kypsentäminen oliiviöljyssä; kun sipuli on pehmeää, lisää valutetut kokonaiset tomaatit ja soseuta ne haarukalla. Jos tomaatit ovat vetisiä, lisää pieni purkillinen tomaattipyreetä kastikkeen paksuntamiseksi. Lisää 2 basilikanlehteä ja hauduta noin 20 minuuttia.",
+      "Kun tomaattikastike kypsyy, paista munakoisoviipaleet seuraavasti: täytä paistinpannu (mieluiten valurautainen) noin 1 cm:n öljykerroksella ja kuumenna. Kun öljy on kuumaa, paista munakoisoviipaleita muutama kerrallaan niin, etteivät ne mene päällekkäin pannulla. Kypsennä kultaisiksi, käännä kerran. Nosta viipaleet valumaan ritilälle. Toista, kunnes kaikki viipaleet on paistettu.",
+      "Kokoamista varten levitä ohut kerros tomaattikastiketta voidellun uunivuoan pohjalle. Lado päälle kerros munakoisoviipaleita reunat hieman päällekkäin ilman aukkoja. Lisää basilikanlehtiä ja kerros viipaloitua mozzarellaa. Jatka kerrostamista, kunnes munakoiso on käytetty, ja viimeistele tomaattikastikkeella ja raastetulla parmesaanilla tai granalla.",
+      "Paista uunissa noin 40 minuuttia 180 asteessa. Tarjoa hyvin kuumana. Jos jää tähteitä, ne maistuvat vielä paremmilta seuraavana päivänä."
+    ]
+  },
+  {
+    "id": "wikibooks-eggplant-pasta",
+    "title": "Munakoisopasta",
+    "description": "Maukas munakoisopata, joka sopii erinomaisesti suosikkipastan kanssa tarjoiltavaksi.",
+    "servings": 4,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": [
+      "munakoiso",
+      "pasta",
+      "italialainen"
+    ],
+    "ingredients": [
+      "1 munakoiso",
+      "1 iso sipuli, hienonnettuna",
+      "1 rkl oliiviöljyä",
+      "suolaa maun mukaan",
+      "2 tlk (800 g) kuorittuja tomaatteja",
+      "1 chili",
+      "kourallinen tuoretta basilikaa",
+      "italialaista yrttimausteseosta (meiramia, basilikaa, paprikaa, oreganoa, rosmariinia, persiljaa, valkosipulia, timjamia; usein valmiiksi sekoitettuna)",
+      "tuoretta valkosipulia, murskattuna",
+      "keitettyä pastaa"
+    ],
+    "instructions": [
+      "Viipaloi munakoiso ja peitä suolalla. Anna olla vähintään 30 minuuttia.",
+      "Huuhtele suola pois ja purista, kunnes munakoiso on lähes kuivaa (tämä poistaa kitkeryyden).",
+      "Leikkaa munakoiso tikkumaisiksi paloiksi ja paista öljyssä.",
+      "Lisää sipuli ja paista hetki.",
+      "Lisää kaikki muut ainekset ja hauduta 30 minuuttia.",
+      "Tarjoa vastakeitetyn pastan kanssa."
+    ],
+    "notes": [
+      "Ainesosien tarkoilla määrillä ei ole suurta väliä. Kokeile ja säädä maun mukaan.",
+      "Usein on parempi valmistaa vihannekset jo edellisenä iltana, jotta chilin, valkosipulin ja yrttien maut ehtivät levitä seokseen.",
+      "Kierremakaroni on hyvä valinta, sillä se pitää kastikkeen hyvin mukanaan."
+    ]
+  },
+  {
+    "id": "wikibooks-eggs-connaught",
+    "title": "Connaught-munat",
+    "description": "Tyylikäs resepti, joka julkaistiin alun perin Cordon Bleu Cookery Course -sarjan viidennessä osassa vuonna 1968. Legendan mukaan ruoka keksittiin Lontoon Connaught-hotellissa. Kevyt ja keväinen annos sopii erinomaisesti alkuruoaksi esimerkiksi pääsiäislounaalle.",
+    "servings": 6,
+    "category": "Välipalat",
+    "tags": [
+      "kananmuna",
+      "katkarapu",
+      "alkuruoka"
+    ],
+    "ingredients": [
+      "6 kovaksi keitettyä kananmunaa",
+      "1,25 dl maitoa",
+      "1 siivu sipulia",
+      "1 pala muskottikukkaa (mace)",
+      "6 kokonaista pippuria",
+      "100 g voita",
+      "1 rkl vehnäjauhoja",
+      "suolaa",
+      "mustapippuria",
+      "1 pkt demi-sel-tuorejuustoa (tai pehmeää tuorejuustoa)",
+      "1 tl paprikajauhetta",
+      "115 g kuorittuja katkarapuja",
+      "½ nippua vesikrassia"
+    ],
+    "instructions": [
+      "Kuumenna maito sipulin, muskottikukan ja pippurien kanssa lähelle kiehumispistettä, kaada kannulliseen, peitä ja anna uuttua. Huuhtele kattila kylmällä vedellä, lisää noin 30 g voita, kuumenna varovasti ja sekoita joukkoon jauhot. Siivilöi maito joukkoon ja lisää suolaa maun mukaan. Jatkuvasti sekoittaen kuumenna kiehuvaksi ja keitä 1 minuutti.",
+      "Kaada kastike lautaselle, peitä voidellulla paperilla kuoren muodostumisen estämiseksi, ja anna jäähtyä kylmäksi.",
+      "Vatkaa jäljellä oleva voi pehmeäksi.",
+      "Halkaise kovaksi keitetyt munat kahtia. Kaavi keltuaiset ja hiero ne siivilän läpi; pidä valkuaiset vesikulhossa, sillä ne kovettuvat nopeasti ilmassa. Sekoita keltuaiset vatkatun voin, tuorejuuston, paprikan ja kylmän kastikkeen kanssa. Hienonna puolet katkaravuista ja lisää seokseen, mausta maun mukaan. Valuta munanvalkuaiset ja laita valmiiksi pyöreä tarjoiluastia tai kakkulautanen.",
+      "Lusikoi vähän täytettä astiaan pitämään kutakin valkuaista paikallaan, asettele ne ympyrään ja täytä jokainen seoksella – voit käyttää pursotuspussia ja noin 1,25 cm:n suoraa suutinta.",
+      "Ripottele jäljellä olevat katkaravut päälle (halkaise isommat) ja ripottele paprikaa. Aseta vesikrassi keskelle ja tarjoa ruskea leipä ja voi erikseen."
+    ],
+    "notes": [
+      "Erityistä juhlaa varten tämän voi valmistaa savulohella katkarapujen sijaan. Säästä hieman savulohta hienoiksi suikaleiksi ja ripottele päälle."
+    ]
+  },
+  {
+    "id": "wikibooks-egidi-pounded-corn",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-egusi-soup",
+    "skip": "ei määriä, ainekset lueteltu ilman mittasuhteita"
+  },
+  {
+    "id": "wikibooks-egyptian-cabbage-rolls-mahshi-malfoof",
+    "title": "Egyptiläiset kaalikääryleet (Mahshi Malfoof)",
+    "description": "Perinteinen egyptiläinen ruoka, jossa mureat kaalinlehdet täytetään mausteisella riisi-lihatäytteellä ja kypsennetään tomaattikastikkeessa. Mahshi malfoofia nautitaan usein juhlatilaisuuksissa ja perhekokoontumisissa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "kaali",
+      "jauheliha",
+      "egyptiläinen",
+      "riisi"
+    ],
+    "ingredients": [
+      "1 kerä kaalia",
+      "500 g naudan tai lampaan jauhelihaa",
+      "2,5 dl riisiä, pestynä ja valutettuna",
+      "1 sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "1 tl juustokuminaa",
+      "1 tl korianterijauhetta",
+      "½ tl kanelijauhetta",
+      "½ tl suolaa",
+      "¼ tl mustapippuria",
+      "1 tlk (400 g) kuutioituja tomaatteja",
+      "2 rkl tomaattipyreetä",
+      "5 dl kasvislientä tai vettä"
+    ],
+    "instructions": [
+      "Kuumenna iso kattilallinen suolattua vettä kiehuvaksi. Poista kaalin kanta varovasti ja laita koko kerä kiehuvaan veteen. Keitä noin 10 minuuttia, kunnes uloimmat lehdet ovat pehmenneet ja irtoavat helposti. Nosta kaali vedestä ja anna jäähtyä.",
+      "Irrota pehmenneet kaalinlehdet varovasti rikkomatta niitä. Laita sivuun.",
+      "Sekoita kulhossa jauheliha, pesty riisi, sipuli, valkosipuli, oliiviöljy, juustokumina, korianteri, kaneli, suola ja mustapippuri. Sekoita hyvin tasaiseksi.",
+      "Ota kaalinlehti ja laita pieni annos täytettä keskelle. Taita lehden reunat täytteen päälle ja rullaa tiiviisti, kuten burrito. Kiinnitä kääryle hammastikuilla tai keittölangalla. Toista loppujen kaalinlehtien ja täytteen kanssa.",
+      "Yhdistä isossa padassa kuutioidut tomaatit, tomaattipyree ja kasvisliemi tai vesi. Sekoita hyvin. Asettele täytetyt kaalikääryleet pataan yhteen kerrokseen.",
+      "Kuumenna kastike kiehuvaksi, laske sitten lämpö matalaksi. Peitä pata ja anna kaalikääryleiden hautua noin 1–1,5 tuntia, kunnes kaali on mureaa ja täyte kypsää.",
+      "Kun kääryleet ovat kypsiä, poista hammastikut tai keittölanka varovasti. Tarjoa kuumana reilun lusikallisen tomaattikastikkeen kera."
+    ],
+    "notes": [
+      "Jos kaalinlehdet ovat liian suuria, voit leikata ne puoliksi pienempien käärynleiden tekemiseksi.",
+      "Tomaattikastikkeeseen voi lisätä lorauksen sitruunamehua tai etikkaa piristämään makua.",
+      "Ylijääneet kaalikääryleet säilyvät jääkaapissa ja maistuvat usein vielä paremmilta seuraavana päivänä.",
+      "Valitse tukeva ja tiivis kaalinkerä, jotta rullaaminen onnistuu helpommin.",
+      "Vegaaninen versio onnistuu jättämällä jauhelihan pois ja lisäämällä riisitäytteeseen enemmän vihanneksia, kuten kuutioitua porkkanaa, paprikaa tai sieniä.",
+      "Täytettä voi maustaa myös persiljalla, tillillä tai mintulla raikkauden lisäämiseksi."
+    ]
+  },
+  {
+    "id": "wikibooks-egyptian-fish-tagine-samak-tajine",
+    "title": "Egyptiläinen kalatajine (Samak Tajine)",
+    "description": "Suosittu egyptiläinen kalaruoka, jossa mureat kalafileet kypsennetään rikkaassa tomaattipohjaisessa kastikkeessa tuoksuvien yrttien ja mausteiden kera. Tarjoillaan usein egyptiläisen leivän tai riisin kanssa.",
+    "servings": 4,
+    "category": "Pääruoat",
+    "tags": [
+      "kala",
+      "egyptiläinen",
+      "tomaatti"
+    ],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 iso sipuli, hienonnettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 tl juustokuminaa",
+      "1 tl paprikajauhetta",
+      "½ tl cayennepippuria",
+      "1 tl korianterijauhetta",
+      "1 tl kanelijauhetta",
+      "1 tlk (400 g) kuutioituja tomaatteja",
+      "2,5 dl kasvis- tai kalalientä",
+      "1 sitruunan mehu",
+      "suolaa",
+      "mustapippuria",
+      "4 kalafileetä (esim. niilinahventa tai punahammasta)",
+      "tuoretta persiljaa tai korianteria, hienonnettuna (koristeluun)"
+    ],
+    "instructions": [
+      "Kuumenna öljy tajinessa tai syvässä paistinpannussa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja valkosipuli. Kuullota, kunnes sipuli muuttuu läpikuultavaksi ja tuoksuvaksi.",
+      "Lisää juustokumina, paprika, cayennepippuri, korianteri ja kaneli. Sekoita hyvin ja anna mausteiden paahtua hetki tuoksun vapauttamiseksi.",
+      "Lisää kuutioidut tomaatit mehuineen. Sekoita mausteet tomaattien joukkoon.",
+      "Kaada joukkoon liemi ja sitruunamehu. Mausta suolalla ja pippurilla. Sekoita varovasti.",
+      "Laske lämpö matalaksi ja anna kastikkeen hautua noin 10 minuuttia makujen sekoittumiseksi.",
+      "Aseta kalafileet varovasti hautuvaan kastikkeeseen niin, että ne peittyvät. Lusikoi kastiketta kalan päälle.",
+      "Peitä kannella ja anna kalan kypsyä kastikkeessa noin 15–20 minuuttia, kunnes kala on kypsää ja irtoaa helposti haarukalla.",
+      "Nosta pata liedeltä, kun kala on kypsää.",
+      "Tarjoa kuumana koristeltuna tuoreella persiljalla tai korianterilla. Sopii hyvin egyptiläisen leivän tai riisin kanssa."
+    ],
+    "notes": [
+      "Egyptiläinen kalatajine on monikäyttöinen ruoka – mausteita ja yrttejä voi muokata oman maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-egyptian-grilled-pigeon-fattah-meshaltet",
+    "title": "Egyptiläinen grillattu kyyhkynen (Fattah Meshaltet)",
+    "description": "Arvostettu egyptiläinen ruoka, jossa mehevät kyyhkyset marinoidaan tuoksuvissa mausteissa ennen grillausta. Fattah meshaltetia tarjoillaan usein juhlatilaisuuksissa vieraanvaraisuuden ja juhlan symbolina.",
+    "servings": 4,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": [
+      "kyyhkynen",
+      "egyptiläinen",
+      "grillaus"
+    ],
+    "ingredients": [
+      "1 rkl juustokuminaa",
+      "1 rkl korianterijauhetta",
+      "1 tl paprikajauhetta",
+      "1 tl kanelijauhetta",
+      "1 tl mustapippuria",
+      "1 tl suolaa",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "1 sitruunan mehu",
+      "2 rkl oliiviöljyä",
+      "4 kokonaista kyyhkystä, puhdistettuna ja sisälmyksistä tyhjennettynä"
+    ],
+    "instructions": [
+      "Sekoita kulhossa juustokumina, korianteri, paprika, kaneli, mustapippuri, suola, valkosipuli, sitruunamehu ja oliiviöljy marinadiksi.",
+      "Aseta puhdistetut kyyhkyset marinadiin niin, että ne peittyvät tasaisesti. Hiero marinadia lintuihin huolellisesti.",
+      "Peitä kulho kelmulla ja anna kyyhkysten marinoitua jääkaapissa vähintään 2 tuntia tai yön yli, jotta maut pääsevät imeytymään lihaan.",
+      "Esilämmitä grilli keskikorkealle lämmölle.",
+      "Nosta kyyhkyset marinadista ja ravista ylimääräinen marinadi pois. Säästä marinadi siveltäväksi grillauksen aikana.",
+      "Grillaa kyyhkysiä noin 6–8 minuuttia kummaltakin puolelta, kunnes ne ovat kypsiä ja kauniin ruskeita, sively­en ajoittain talteen otetulla marinadilla. Varmista, että kyyhkysen sisälämpötila nousee turvalliseen 74 asteeseen.",
+      "Kun kyyhkyset ovat kypsiä, siirrä ne tarjoiluvadille ja anna levätä muutama minuutti ennen tarjoilua.",
+      "Tarjoa kuumana pääruokana, koristeltuna tuoreilla yrteillä ja perinteisten egyptiläisten lisukkeiden, kuten riisin tai leivän, kera."
+    ],
+    "notes": [
+      "Varmista, että kyyhkyset ovat peräisin luotettavasta lähteestä ja puhdistettu kunnolla ennen marinointia."
+    ]
+  },
+  {
+    "id": "wikibooks-egyptian-lentil-soup",
+    "title": "Egyptiläinen linssikeitto",
+    "description": "Täyteläinen ja ravitseva keitto, joka on suosittu yksinkertaisuutensa ja herkullisen maun ansiosta. Punaisista linsseistä, tuoksuvista mausteista ja sitruunan raikkaudesta valmistettu keitto on mukava valinta kylminä kuukausina tai alkuruoaksi suuremmalle aterialle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Keitot",
+    "tags": [
+      "linssi",
+      "egyptiläinen",
+      "kasvis",
+      "keitto"
+    ],
+    "ingredients": [
+      "2,5 dl punaisia linssejä, huuhdeltuna",
+      "1 keskikokoinen sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "2 rkl oliiviöljyä",
+      "1 tl juustokuminaa",
+      "½ tl korianterijauhetta",
+      "½ tl paprikajauhetta",
+      "¼ tl kurkumaa",
+      "1 l kasvislientä tai vettä",
+      "1 rkl sitruunamehua",
+      "suolaa",
+      "mustapippuria",
+      "tuoretta persiljaa tai korianteria, hienonnettuna (koristeluun)"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa kattilassa tai valurautapadassa keskilämmöllä.",
+      "Lisää hienonnettu sipuli ja kuullota, kunnes se muuttuu läpikuultavaksi ja hieman kullankeltaiseksi.",
+      "Sekoita joukkoon valkosipuli ja kypsennä vielä minuutti, kunnes tuoksuu hyvältä.",
+      "Lisää huuhdellut linssit ja sekoita, jotta ne peittyvät sipuli-valkosipuliseoksella.",
+      "Ripottele joukkoon juustokumina, korianteri, paprika ja kurkuma. Sekoita hyvin, jotta linssit peittyvät mausteilla.",
+      "Kaada joukkoon liemi tai vesi niin, että linssit peittyvät kokonaan.",
+      "Kuumenna kiehuvaksi, laske sitten lämpö matalaksi ja peitä kattila. Anna hautua noin 20–25 minuuttia, kunnes linssit ovat mureita ja kypsiä.",
+      "Soseuta keitto sauvasekoittimella tai tehosekoittimella tasaiseksi ja kermaiseksi. Jos käytät tavallista tehosekoitinta, anna keiton jäähtyä hieman ennen soseuttamista ja ole varovainen kuuman nesteen kanssa.",
+      "Kaada keitto takaisin kattilaan ja laita se takaisin matalalle lämmölle.",
+      "Sekoita joukkoon sitruunamehu ja mausta suolalla ja pippurilla maun mukaan.",
+      "Kuumenna vielä muutama minuutti, kunnes keitto on taas kuumaa.",
+      "Annostele keitto kulhoihin ja koristele hienonnetulla persiljalla tai korianterilla. Tarjoa kuumana."
+    ],
+    "notes": [
+      "Egyptiläistä linssikeittoa voi tarjoilla kevyenä lounaana tai illallisena sellaisenaan, tai rapean leivän tai salaatin kera täydellisempänä ateriana."
+    ]
+  },
+  {
+    "id": "wikibooks-egyptian-lentil-stew",
+    "title": "Egyptiläinen linssipata",
+    "description": "Mukava pata kylmiin iltoihin koko perheelle. Hyvin yksinkertainen valmistaa. Arabiaksi tätä patasta kutsutaan nimellä shorbat ads, mikä tarkoittaa \"linssikeittoa\".",
+    "servings": 4,
+    "totalTimeMin": 80,
+    "category": "Keitot",
+    "tags": [
+      "linssi",
+      "egyptiläinen",
+      "pata"
+    ],
+    "ingredients": [
+      "2 sipulia, kuorittuna ja hienonnettuna",
+      "4 rkl oliiviöljyä",
+      "2 l vettä",
+      "225 g punaisia linssejä",
+      "suolaa maun mukaan tai 4 rkl liemijauhetta",
+      "1 tl juustokuminaa",
+      "1 tl korianterijauhetta",
+      "1 sitruuna"
+    ],
+    "instructions": [
+      "Laita hienonnetut sipulit isoon pataan oliiviöljyn kanssa.",
+      "Kuullota sipuleita miedolla lämmöllä, kunnes ne ovat läpikuultavia ja hieman kullankeltaisia.",
+      "Lisää vesi, linssit, liemijauhe, juustokumina ja korianteri sipulien joukkoon.",
+      "Sekoita, ja nosta lämpö keskitasolle (seoksen pitäisi kiehua kevyesti muttei täysin).",
+      "Anna hautua tunnin ajan, sekoittaen muutaman minuutin välein, ettei pata pala pohjaan. Säädä lämpöä tarvittaessa. Maista ja lisää suolaa tarpeen mukaan.",
+      "Sammuta liesi ja siirrä pata toiselle levylle, jotta se ei jatka kypsymistä.",
+      "Halkaise sitruuna ja purista mehu sitruspuristimella, kunnes mehua ei enää tule.",
+      "Sekoita sitruunamehu pataan.",
+      "Maista keittoa ja tarjoa! Lisää juustokuminaa ja tuoretta sitruunaa annoksiin maun mukaan."
+    ]
+  },
+  {
+    "id": "wikibooks-egyptian-meatballs-kofta",
+    "title": "Egyptiläiset lihapullat (kofta)",
+    "description": "Suosittu ja maukas ruoka egyptiläisessä keittiössä. Nämä herkulliset lihapullat tehdään tyypillisesti naudan tai lampaan jauhelihasta sekoitettuna erilaisiin yrtteihin ja mausteisiin, mikä antaa niille mehevän ja täyteläisen maun. Lihapullia voi nauttia sellaisenaan pääruokana tai käyttää esimerkiksi voileivissä tai wrapeissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": [
+      "jauheliha",
+      "egyptiläinen",
+      "grillaus"
+    ],
+    "ingredients": [
+      "500 g naudan tai lampaan jauhelihaa",
+      "1 pieni sipuli, hienonnettuna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "0,6 dl tuoretta persiljaa, hienonnettuna",
+      "0,6 dl tuoretta korianteria, hienonnettuna",
+      "1 tl juustokuminaa",
+      "1 tl paprikajauhetta",
+      "½ tl cayennepippuria (valinnainen, lisää tulisuutta)",
+      "suolaa",
+      "mustapippuria",
+      "oliiviöljyä sivelyyn"
+    ],
+    "instructions": [
+      "Sekoita kulhossa jauheliha, sipuli, valkosipuli, persilja, korianteri, juustokumina, paprika, cayennepippuri (jos käytät), suola ja mustapippuri. Sekoita hyvin tasaiseksi.",
+      "Ota pieni annos lihaseosta ja muotoile se sylinterin tai soikean muotoiseksi lihapullaksi. Toista loppu seoksella, muotoillen tasakokoisia lihapullia.",
+      "Jos käytät puisia tikkuja, liota niitä vedessä noin 30 minuuttia, jotta ne eivät pala grillissä.",
+      "Esilämmitä grilli tai grillipannu keskilämmölle.",
+      "Pujota lihapullat tikkuihin jättäen hieman tilaa niiden väliin.",
+      "Sivele grilli tai grillipannu oliiviöljyllä tarttumisen estämiseksi.",
+      "Aseta lihapullavartaat grilliin tai pannulle ja paista noin 10–12 minuuttia, kääntäen välillä, kunnes lihapullat ovat ruskistuneet ja läpikypsiä.",
+      "Kun lihapullat ovat kypsiä, nosta vartaat grillistä tai pannulta tarjoiluvadille.",
+      "Tarjoa kofta kuumana koristeltuna tuoreella persiljalla tai korianterilla. Sopii nautittavaksi sellaisenaan tai esimerkiksi voileivissä ja wrapeissa."
+    ]
+  }
+]

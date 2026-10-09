@@ -1,0 +1,609 @@
+[
+  {
+    "id": "wikibooks-grilled-salmon-with-mango-salsa",
+    "title": "Grillattu lohi mangosalsalla",
+    "description": "Raikas mangosalsa sopii täydellisesti grillatun lohen kaveriksi kesäisenä pääruokana.",
+    "servings": 4,
+    "cookTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kala", "grilli", "kesä", "terveellinen"],
+    "ingredients": [
+      "4 lohifilettä nahkoineen (yhteensä n. 680 g)",
+      "suolaa",
+      "mustapippuria rouhittuna",
+      "oliiviöljyä",
+      "1 iso mango, kuorittuna ja hienonnettuna kuutioiksi",
+      "½ limetin mehu",
+      "2 jalapeñoa, siemenet poistettuna ja hienonnettuna",
+      "2 rkl tuoretta minttua hienonnettuna",
+      "1 rkl hunajaa",
+      "½ tl karkeaa merisuolaa"
+    ],
+    "instructions": [
+      "Valmista ensin salsa: sekoita kulhossa mango, limetin mehu, jalapeñot, minttu, hunaja ja merisuola. Jätä jääkaappiin odottamaan.",
+      "Kuumenna grilli hyvään grillauslämpöön.",
+      "Rasvaa grilliritilä öljyyn kastetulla liinalla, jotta kala ei tartu kiinni.",
+      "Sivele lohi runsaasti oliiviöljyllä. Mausta runsaalla suolalla ja rouhitulla mustapippurilla.",
+      "Aseta lohi ritilälle nahkapuoli alaspäin ja kypsennä kannen alla käännellen usein, kunnes kala on läpikypsää ja murenee helposti haarukalla.",
+      "Siirrä lautaselle ja peitä foliolla. Anna levätä 5–7 minuuttia ennen tarjoilua salsan kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-sirloin-steak",
+    "title": "Grillattu ulkofilepihvi",
+    "description": "Ulkofile on edullinen mutta mehevä ja maukas pihvileikko, kun se kypsennetään oikein.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "cookTimeMin": 15,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "nopea", "arkiruoka"],
+    "ingredients": [
+      "1 ulkofilepihvi",
+      "oliiviöljyä",
+      "suolaa",
+      "mustapippuria rouhittuna",
+      "1 rkl suolatonta voita, huoneenlämpöisenä"
+    ],
+    "instructions": [
+      "Sivele pihvi oliiviöljyllä. Mausta molemmin puolin runsaalla suolalla ja rouhitulla mustapippurilla.",
+      "Aseta pihvi kuumalle grillille. Paista 1 minuutti, käännä 90 astetta ja paista vielä minuutti. Käännä toiselle puolelle ja toista.",
+      "Siirrä miedommalle lämmölle ja kypsennä käännellen, kunnes haluttu kypsyysaste saavutetaan.",
+      "Nosta lautaselle ja lisää päälle voinokare. Peitä foliolla ja anna levätä 10 minuuttia.",
+      "Viipaloi ohuesti vinosti syitä vastaan. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-sliders",
+    "title": "Grillatut minihampurilaiset (sliderit)",
+    "description": "Sliderit ovat pieniä hampurilaisia, halkaisijaltaan noin 5 cm.",
+    "servings": 8,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "juhla"],
+    "ingredients": [
+      "450 g naudan jauhelihaa (chuck)",
+      "450 g naudan jauhelihaa (ulkofileestä)",
+      "1 tl suolaa",
+      "1 tl mustapippuria rouhittuna",
+      "2 tl valkosipulijauhetta",
+      "2 tl kuivattua rosmariinia",
+      "oliiviöljyä",
+      "8 pientä hampurilais- tai perunasämpylää (n. 8 cm), halkaistuna",
+      "majoneesia"
+    ],
+    "instructions": [
+      "Esilämmitä uuni 120 asteeseen ja grilli tai grillipannu 175 asteeseen.",
+      "Paahda sämpylät kuumassa uunissa. Jätä odottamaan.",
+      "Sekoita suola, pippuri, valkosipulijauhe ja rosmariini keskenään. Jätä odottamaan.",
+      "Yhdistä jauhelihat ja levitä leivinpaperilla vuoratulle pellille. Peitä muovikelmulla ja kauli ohueksi niin, että liha peittää koko pellin.",
+      "Poista kelmu ja leikkaa pizzaleikkurilla 16 yhtä suureen neliöön.",
+      "Sivele pihvit oliiviöljyllä ja mausta molemmin puolin mausteseoksella.",
+      "Paista pihvejä esilämmitetyllä grillillä 2–3 minuuttia puolelta.",
+      "Levitä sämpylöihin majoneesia. Aseta pihvi sämpylän puolikkaan päälle ja peitä toisella puolikkaalla. Tarjoile lämpimänä."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-steak",
+    "title": "Grillattu pihvi mausteilla",
+    "description": "Yksinkertaisesti maustettu grillipihvi suosikkiyrteillä.",
+    "servings": 2,
+    "cookTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["liha", "grilli", "arkiruoka"],
+    "ingredients": [
+      "2 ulkofilepihviä",
+      "1 ripaus suolaa tai mausteseossuolaa",
+      "1 ripaus valkosipulijauhetta",
+      "1 ripaus meiramia",
+      "1 ripaus korianteria jauhettuna",
+      "1 ripaus timjamia",
+      "1 ripaus kesäkynteliä (savory)",
+      "1 ripaus basilikaa"
+    ],
+    "instructions": [
+      "Jos pihvit ovat pakasteesta, anna niiden sulaa noin tunti ennen kypsennystä.",
+      "Kuumenna grilli sopivaksi grillaukseen (matalampi lämpö on parempi).",
+      "Ripottele muut mausteet paitsi valkosipulijauhe ja korianteri pihvien päälle grillin lämmetessä. Ripottele valkosipuli ja korianteri kevyemmin.",
+      "Grillaa pihvin ensimmäinen puoli noin 7–10 minuuttia, käännä ja toista.",
+      "Kypsennä halutun kypsyysasteen mukaan – keskikypsäksi noin 5 minuuttia lisää ensimmäisen 14 minuutin jälkeen, riippuen lämpötilasta. Sisälämpötilan tulee olla vähintään 63 °C, minkä jälkeen anna levätä 3 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-summer-fruit",
+    "title": "Grillattu kesähedelmä",
+    "description": "Rommikastikkeen sijaan voisiirappi tekee grillatuista kesähedelmistä herkullisen jälkiruoan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["hedelmä", "grilli", "kesä", "jälkiruoka", "kasvis"],
+    "ingredients": [
+      "½ dl suolatonta voita, sulatettuna",
+      "½ dl valkoista sokeria",
+      "1 rkl vaniljauutetta",
+      "½ dl persikkamehutiivistettä",
+      "1 rkl sitruunankuorta hienonnettuna",
+      "3 kypsää keltaista persikkaa, puolitettuna ja kivet poistettuna",
+      "2 punaista omenaa, siemenkota poistettuna ja puolitettuna",
+      "4 luumua, puolitettuna"
+    ],
+    "instructions": [
+      "Yhdistä kaikki siirappiainekset isossa kattilassa ja kiehauta korkealla lämmöllä, kunnes neste on vähentynyt kolmanneksella. Anna jäähtyä.",
+      "Pujota luumut tikkuihin sivusta. Sivele kaikkien hedelmien leikkuupinnat runsaalla siirapilla ja aseta leikkuupinta alaspäin keskikuumalle grillille, kunnes pintaan tulee grillijuovat.",
+      "Nosta grillistä ja tarjoile lämpimänä lopun siirapin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grilled-vegetable-sandwich",
+    "title": "Grillattu kasvisvoileipä",
+    "servings": 1,
+    "totalTimeMin": 10,
+    "category": "Välipalat",
+    "tags": ["kasvis", "vegaaninen", "nopea", "voileipä"],
+    "ingredients": [
+      "2 viipaletta leipää (mieluiten luomu täysjyväleipää)",
+      "viipaloituja kasviksia (esim. herkkusieniä, kesäkurpitsaa, tomaattia, paprikaa)",
+      "1 rkl oliiviöljyä",
+      "1 tl oreganoa"
+    ],
+    "instructions": [
+      "Aseta leipäviipaleet vierekkäin uunipellille.",
+      "Levitä kasvikset tasaisesti molempien viipaleiden päälle.",
+      "Valuta päälle oliiviöljy ja ripottele runsaasti oreganoa.",
+      "Grillaa uunissa grillivastuksella keskikorkealla lämmöllä 5–10 minuuttia, kunnes kullanruskea.",
+      "Tarjoile avoimena voileipänä tai yhdistä kaksi puolikasta varovasti yhteen."
+    ]
+  },
+  {
+    "id": "wikibooks-grits-with-cheese",
+    "title": "Maissipuuro juustolla (grits)",
+    "description": "Kaupalliset grits-ryynit ovat karkeasti jauhettua hominia (lipeäkäsiteltyä maissia). Maissijauho on hienommaksi jauhettua samankaltaista tuotetta.",
+    "servings": 4,
+    "cookTimeMin": 15,
+    "category": "Aamiainen",
+    "tags": ["maissi", "aamiainen", "amerikkalainen", "juusto"],
+    "ingredients": [
+      "1 l vettä",
+      "2½ dl maissiryynejä (grits)",
+      "½–1 tl suolaa",
+      "mustapippuria",
+      "voita tai margariinia",
+      "raastettua cheddarjuustoa"
+    ],
+    "instructions": [
+      "Kiehauta vesi 1–2 litran kattilassa.",
+      "Lisää maissiryynit koko ajan sekoittaen.",
+      "Laske lämpö alhaiseksi ja sekoita silloin tällöin, kunnes ryynit alkavat sakenemaan.",
+      "Peitä kannella ja jatka kypsennystä miedolla lämmöllä noin 5–6 minuuttia. Sekoita välillä, ettei pala pohjaan. Jos puuro sakenee liikaa, lisää hieman vettä.",
+      "Tarkista maku ja lisää mustapippuria.",
+      "Tarjoile voinokareen, margariinin tai raastetun juuston kanssa."
+    ],
+    "notes": [
+      "Kivijauhetuilla ryyneillä kypsennysaikaa on pidennettävä vähintään 25 minuuttiin, osa suosii jopa 45–50 minuutin kypsennystä. Jos puuro sakenee liikaa, lisää kiehuvaa vettä.",
+      "Osa vedestä voi korvata maidolla, varsinkin jos puuroa tarjoillaan pääruokana, kuten katkarapujen kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-grotten-hans-steamed-sweet-bread",
+    "title": "Grotten Hans (höyrytetty makea leivonnainen)",
+    "description": "Grotten Hans on perinteinen höyrytetty vanukasleipä Venäjän saksalaisalueilta – eräänlainen suuri höyrytetty pudinki.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "totalTimeMin": 150,
+    "category": "Jälkiruoat",
+    "tags": ["leivonnainen", "perinneruoka", "saksalainen"],
+    "ingredients": [
+      "½ dl sianrasvaa tai öljyä",
+      "1 tl suolaa",
+      "2½ dl maitoa",
+      "2 tl leivinjauhetta",
+      "1¼ dl valkoista sokeria",
+      "3 munaa, vatkattuna",
+      "7½ dl vehnäjauhoja",
+      "5 dl rusinoita",
+      "5 dl vettä",
+      "1 tl sitruunamehua",
+      "1 niukka tl kanelia",
+      "1¼ dl valkoista sokeria",
+      "maissitärkkelystä"
+    ],
+    "instructions": [
+      "Vatkaa rasva, sokeri ja suola yhteen. Sekoita joukkoon munat.",
+      "Yhdistä jauhot ja leivinjauhe. Lisää jauhoseos rasvaseokseen vuorotellen maidon kanssa. Sekoita hyvin.",
+      "Kaada taikina hyvin voideltuun n. 900 g:n kahvipurkkiin tai muuhun kuumankestävään muottiin. Leivinpaperi astian pohjalla estää tarttumisen. Peitä foliolla ja sido narulla kiinni.",
+      "Aseta purkki isoon kattilaan, jossa on muutaman sentin verran kuumaa vettä. Anna höyrytä 2 tuntia.",
+      "Sekoita kattilassa rusinat, vesi, sitruunamehu, kaneli ja sokeri. Hauduta 1 tunti. Sekoita joukkoon hieman maissitärkkelystä ja keitä, kunnes kastike sakenee.",
+      "Kumoa Grotten Hans vadille ja tarjoile kastikkeen kanssa."
+    ],
+    "notes": [
+      "Vanha tapa oli keittää taikina liinassa: kasta pyyhe kuumaan ja sitten kylmään veteen, ripottele jauhoilla. Kaada taikina liinalle ja sido kiinni. Pudota kiehuvaan veteen ja keitä 2 tuntia.",
+      "Myös kirsikkakastike sopii hyvin."
+    ]
+  },
+  {
+    "id": "wikibooks-ground-tofu",
+    "title": "Jauhelihan korvike tofusta",
+    "description": "Monet kaupalliset kasvisjauhelihat maistuvat varmasti paremmalta, mutta tässä reseptissä voi säätää maun täysin itse, ja se on myös gluteeniton.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "category": "Muut",
+    "tags": ["kasvis", "vegaaninen", "tofu", "gluteeniton"],
+    "ingredients": [
+      "2 rkl vähäsuolaista tamaria (gluteenitonta soijakastiketta)",
+      "¼ tl hiivauutetta",
+      "½ tl punajuurimehua (esim. säilötystä punajuuresta)",
+      "¼ tl jauhettua siitakesienijauhetta (katso vinkit)",
+      "¼ tl sipulijauhetta",
+      "115 g erittäin kiinteää tofua",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Valmista marinadi sekoittamalla tamari, hiivauute, punajuurimehu, siitakejauhe ja sipulijauhe pieneen kulhoon. Varmista, ettei seoksessa ole paakkuja.",
+      "Valuta tofu ja purista siitä mahdollisimman paljon nestettä pois. Sekoita marinadi tofuun murentaen tofu pieniksi palasiksi niin, että se imee nesteen tasaisesti. Toimii hyvin, jos laittaa tofun pussiin, kaataa marinadin päälle, sulkee pussin ja murentaa tofun sormin. Palojen tulisi olla kynnen kokoisia tai pienempiä.",
+      "Anna marinadin imeytyä tofuun kunnolla, esimerkiksi useita tunteja tai yön yli.",
+      "Kuumenna keskikokoinen tarttumaton paistinpannu keskilämmölle. Käytä vain vähän rypsiöljyä pannun pinnan voiteluun ja ruskista tofua kullanruskeaksi. Marinadin ja lämmön ansiosta se saa keskiruskean värin, mutta ei saavuta jauhelihan tai kaupallisen korvikkeen tummaa ruskeaa väriä.",
+      "Kun tofu on ruskistunut, se on vielä melko pehmeää. Rakennetta voi parantaa levittämällä sen ohueksi kerrokseksi pannulle ja antamalla sen jäähtyä hetken.",
+      "Säilytä jauhemainen tofu jääkaapissa. Sen voi lämmittää uudelleen pannulla tarpeen mukaan. Sitä voi käyttää esimerkiksi tacojen, sloppy joen tai pastakastikkeiden täytteenä."
+    ],
+    "notes": [
+      "Tavallinen soijakastike tai jopa tamari voi olla liian suolaista – gluteeniton versio on tarpeen vain, jos halutaan gluteeniton lopputulos.",
+      "Osa hiivauutteista voi sisältää ohraa, joten jos haluat välttää sen kokonaan, lisää sienijauheen ja punajuurimehun määrää hiivauutteen sijaan.",
+      "Sienijauhetta voi tehdä jauhamalla kuivattuja siitakesieniä huhmareessa, kunnes isoja palasia ei enää ole. Tämä vie aikaa, koska kuivattu sieni on hieman nahkeaa."
+    ]
+  },
+  {
+    "id": "wikibooks-groundnut-butter-soup",
+    "skip": "ainesosien määrät puuttuvat lähes kokonaan, resepti ei ole toistettavissa"
+  },
+  {
+    "id": "wikibooks-guacamole-chile-and-herb-free",
+    "title": "Guacamole (ilman chiliä ja yrttejä)",
+    "description": "Tämä on yksinkertaisin guacamolen versio ja sopii hyvin lisukkeeksi tai raaka-aineeksi. Tämä on perinteisempi meksikolainen guacamole eikä sisällä Tex-Mex-versiolle tyypillisiä lisukkeita.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "dippi", "nopea"],
+    "ingredients": [
+      "2 kypsää avokadoa",
+      "2 tomaattia, pilkottuna",
+      "½ sipulia, pilkottuna",
+      "suolaa",
+      "½ limetin mehu"
+    ],
+    "instructions": [
+      "Halkaise avokadot varovasti ja poista kivet.",
+      "Lisää avokado kulhoon ja soseuta tasaiseksi.",
+      "Lisää pilkotut tomaatit ja sipuli.",
+      "Purista limetin mehu seoksen päälle.",
+      "Lisää suolaa ja sekoita.",
+      "Halutessasi tarjoile tortillalastujen, leivän tai salaatin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-guacamole-chile-free",
+    "skip": "lähes identtinen toisen guacamole-reseptin kanssa"
+  },
+  {
+    "id": "wikibooks-guacamole-dip",
+    "title": "Guacamole-dippi kermalla",
+    "description": "Tulinen meksikolainen avokado- ja kermadippi, joka sopii täydellisesti maissilastujen, totoposien tai perunalastujen kanssa. Ainesmäärät ovat suuntaa-antavia ja riippuvat halutusta koostumuksesta ja tulisuudesta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "meksikolainen", "dippi", "nopea"],
+    "ingredients": [
+      "1 kypsä avokado",
+      "2½ dl kermaa, kermaviiliä tai jogurttia",
+      "1 valkosipulinkynsi",
+      "¼ sipulia, isoina paloina",
+      "4 oksaa korianteria lehtineen",
+      "1 serrano-chili (valinnainen)",
+      "maitoa dipin ohentamiseen tarpeen mukaan",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita valkosipuli, sipulinpalat, korianteri ja serrano-chili tehosekoittimeen tai monitoimikoneeseen. Pulssita muutama sekunti – älä liikaa.",
+      "Halkaise avokado ja kauho hedelmäliha kulhoon. Lisää kerma ja pulssita muutama sekunti.",
+      "Maista seosta ja lisää suolaa tai mausteita tarpeen mukaan.",
+      "Pulssita hieman lisää. Jos seos on liian paksua, lisää rkl maitoa ja pulssita.",
+      "Tarjoile heti tai säilytä peitettynä kelmulla."
+    ]
+  },
+  {
+    "id": "wikibooks-guacamole-i",
+    "title": "Guacamole I",
+    "description": "Guacamole on meksikolainen tahna murskatusta avokadosta ja mausteista, yleensä sipulista, chileistä, valkosipulista ja tomaatista. Sitä käytetään lisukkeena, raaka-aineena ja alkupalana tortillalastujen kanssa.",
+    "servings": 4,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["kasvis", "vegaaninen", "meksikolainen", "dippi", "alkupala"],
+    "ingredients": [
+      "4 avokadoa",
+      "2 rkl pico de galloa",
+      "½ limetin mehu",
+      "2 hienonnettua jalapeñoa TAI 2 rkl murskattua chilirouhetta TAI 1 rkl cayennepippuria",
+      "1 tl suolaa",
+      "4 tl oliiviöljyä",
+      "1½ tl valkosipulia hienonnettuna",
+      "½ tl mustapippuria jauhettuna",
+      "1 hienonnettu jalapeño TAI 2 hienonnettua serrano-chiliä TAI 2 rkl hienonnettua muuta chiliä (säädä tulisuuden mukaan)"
+    ],
+    "instructions": [
+      "Halkaise avokadot ja poista kivet.",
+      "Viilla avokadon hedelmäliha ristikkäin ilman, että leikkaat kuoren läpi.",
+      "Kauho yhden puolikkaan hedelmäliha isolla lusikalla kulhoon.",
+      "Lisää limetin mehu ja sekoita, jotta se peittää avokadon tasaisesti.",
+      "Sekoita joukkoon pico de gallo, valkosipuli, öljy, jalapeño, suola, chilirouhe ja mustapippuri. Muussaa ja sekoita avokadonpalat, kunnes seos on tasaista.",
+      "Kauho loput avokadopalat kulhoon ja sekoita varovasti isompien palojen mukana. Guacamole on sopivan koostumuksen, kun siinä on enemmän isoja paloja kuin muusia.",
+      "Koristele korianterin oksalla."
+    ],
+    "notes": [
+      "Guacamole on alun perin tarkoitettu syötäväksi lähes heti, joten öljyn tai limetin lisääminen ei ole välttämätöntä. Molempia voi kuitenkin lisätä, jos guacamolen halutaan säilyvän pidempään.",
+      "Kreikkalainen jogurtti tai muusatut mustapavut lisäävät täyteläisyyttä ja proteiinia.",
+      "Tummumisen estämiseksi peitä pinta kelmulla niin, ettei ilmaa pääse väliin. Myös limetin mehu auttaa estämään hapettumista."
+    ]
+  },
+  {
+    "id": "wikibooks-guacamole-ii",
+    "skip": "lähes identtinen toisen guacamole-reseptin kanssa"
+  },
+  {
+    "id": "wikibooks-guacamole-iii",
+    "skip": "lähes identtinen toisen guacamole-reseptin kanssa"
+  },
+  {
+    "id": "wikibooks-gudeg-green-jackfruit-stew",
+    "title": "Gudeg (vihreän jackhedelmän muhennos)",
+    "description": "Gudeg on makea indonesialainen muhennos nuoresta jackhedelmästä, joka kypsennetään palmusokerin ja mausteiden kanssa tummanruskeaksi. Tarjoillaan perinteisesti riisin, kookosmaitokeiton (areh), tofun, kananmunan ja krecek-sambalin kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["kana", "indonesialainen", "muhennos", "eksoottinen"],
+    "ingredients": [
+      "250 g vihreää jackhedelmää",
+      "5 salottisipulia",
+      "10 kemiripähkinää (candlenut)",
+      "10 valkosipulinkynttä",
+      "4 intialaista laakerinlehteä (salam)",
+      "5 cm murskattua galangalia",
+      "12 g korianterinsiemeniä",
+      "6 g jeeraa (juustokuminaa)",
+      "62 ml kookossokeria",
+      "5 dl kookosmaitoa",
+      "30 g tamarindia",
+      "1 kg kanaa paloiteltuna (luineen)"
+    ],
+    "instructions": [
+      "Leikkaa jackhedelmä n. 2,5 cm:n paloiksi ja huuhtele.",
+      "Keitä jackhedelmää vedessä, kunnes se on pehmeää. Valuta.",
+      "Jauha salottisipulit, kemiripähkinät, valkosipuli, salam-lehdet ja galangal tahnaksi, kunnes tuoksuu voimakkaalta. Lisää kananpalat ja sekoita tahnan joukkoon.",
+      "Ruskista kanaa, kunnes se vaihtaa väriä. Lisää n. 1 litra vettä ja kookossokeri, ja kiehauta.",
+      "Lisää jackhedelmä ja hauduta, kunnes kana ja hedelmä ovat mureita.",
+      "Lisää kookosmaito 5 minuuttia ennen valmistumista ja kiehauta uudelleen.",
+      "Tarjoile kuumana riisin kanssa."
+    ]
+  },
+  {
+    "id": "wikibooks-gulab-jamun-fried-milk-balls-in-syrup",
+    "title": "Gulab jamun (paistetut maitopallot siirapissa)",
+    "description": "Gulab jamun on suosittu intialainen ja pakistanilainen jälkiruoka, jossa paistetut maitopallot liotetaan kardemumalla maustetussa makeassa siirapissa. Makeinen on alun perin Bengalista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Jälkiruoat",
+    "tags": ["intialainen", "jälkiruoka", "makeinen", "paistettu"],
+    "ingredients": [
+      "7½ dl maitojauhetta",
+      "2½ dl itsekohoavaa leivontaseosta (esim. Bisquick-tyyppistä)",
+      "n. 2 dl lämmintä maitoa",
+      "2 rkl voita, sulatettuna",
+      "5 dl vettä",
+      "6 dl valkoista sokeria",
+      "4 kardemummapalkoa",
+      "rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Kuumenna rypsiöljyä pieneen kattilaan n. 4–5 cm kerros keskilämmöllä.",
+      "Sekoita maitojauhe, leivontaseos ja sulatettu voi metallikulhossa.",
+      "Lisää lämmin maito vähitellen, 2 rkl kerrallaan. Sekoita puulusikalla, kunnes muodostuu taikinapallo. Jatka maidon lisäämistä, kunnes kaikki kuivat aineet ovat sekoittuneet. Taikinan tulee olla kiinteää ja kosteaa, mutta ei tahmeaa. Jos lisäsit liikaa maitoa, lisää hieman kuiva-aineita (suhde 3 osaa maitojauhetta : 1 osa leivontaseosta).",
+      "Pyörittele taikinasta tasakokoisia palloja (jos koot vaihtelevat, ne eivät kypsy tasaisesti). Taikinapallot kuivuvat nopeasti, joten paista ne muutaman minuutin sisällä.",
+      "Pudota muutama pallo kerrallaan öljyyn – älä täytä pannua liikaa, sillä pallot kasvavat kypsyessään. Ne vajoavat ensin pohjaan ja nousevat sitten pintaan. Sekoittele säännöllisesti, jotta ne ruskistuvat tasaisesti.",
+      "Kun pallot ovat tummanruskeita, nosta ne öljystä ja anna valua talouspaperilla.",
+      "Toista, kunnes kaikki taikina on käytetty.",
+      "Poista kardemumman siemenet palosta.",
+      "Murskaa siemenet mausteen vapauttamiseksi.",
+      "Sekoita vesi, sokeri ja kardemumma ja kuumenna 10 minuuttia – älä ylikuumenna, ettei siirappi karamellisoidu.",
+      "Liota valmiit pallot siirapissa yön yli.",
+      "Tarjoile lämpiminä tai kylminä."
+    ]
+  },
+  {
+    "id": "wikibooks-gullisuwa-nigerian-milk-balls",
+    "title": "Gullisuwa (nigerialaiset maitopallot)",
+    "description": "Gullisuwa on Pohjois-Nigeriassa juhlapyhinä ja häissä syöty makea friteeraus, jota myydään myös katuruokana.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["nigerialainen", "makeinen", "paistettu", "välipala"],
+    "ingredients": [
+      "1¼ dl maitojauhetta",
+      "½ dl valkoista sokeria",
+      "2 rkl maissitärkkelystä",
+      "vaniljajauhetta",
+      "vettä",
+      "rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita maitojauhe, sokeri, maissitärkkelys ja vaniljajauhe kulhossa. Sekoita huolellisesti.",
+      "Lisää vettä sen verran, että syntyy taikina.",
+      "Voitele kädet rypsiöljyllä ja pyörittele taikinasta pieniä palloja.",
+      "Paista pallot runsaassa kuumassa rypsiöljyssä, kunnes ne ovat ruskistuneet joka puolelta.",
+      "Nosta friteeratut pallot lusikalla öljystä ja valuta siivilässä.",
+      "Tarjoile tuoreena."
+    ],
+    "notes": [
+      "Gullisuwasta voi tehdä erilaisia versioita lisäämällä chilijauhetta, cashewpähkinöitä tai kookosta."
+    ]
+  },
+  {
+    "id": "wikibooks-gunkanmaki-topped-oval-sushi",
+    "skip": "ainesosien määrät puuttuvat, lähinnä kokoamisohje ilman mitattavia aineksia"
+  },
+  {
+    "id": "wikibooks-gurudi-nigerian-coconut-biscuit",
+    "title": "Gurudi (nigerialainen kookoskeksi)",
+    "description": "Gurudi, josta käytetään myös nimeä gurundi, on nigerialainen kookoskeksi, joka tehdään hienoksi raastetusta kookoksesta, maniokkitärkkelyksestä ja sokerista.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "cookTimeMin": 25,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kookos", "keksi", "nigerialainen", "kasvis"],
+    "ingredients": [
+      "1 tuore kookospähkinä",
+      "65 g sokeria",
+      "80 g maniokkitärkkelystä (tapiokatärkkelystä)",
+      "1 ripaus muskottipähkinää"
+    ],
+    "instructions": [
+      "Halkaise kookospähkinä varovasti ja irrota hedelmäliha kuoresta. Raasta hedelmäliha raastimella tai monitoimikoneella.",
+      "Yhdistä raastettu kookos, sokeri, maniokkitärkkelys ja muskottipähkinä. Lisää vettä ja sekoita, kunnes muodostuu taikinapallo.",
+      "Kauli taikina ohueksi. Leikkaa neliön muotoisia keksejä ja siirrä ne voidellulle pellille.",
+      "Paista keksejä noin 20–25 minuuttia 150 °C:ssa, kunnes ne ovat kullanruskeita ja rapeita.",
+      "Nosta keksit uunista ja anna jäähtyä."
+    ],
+    "notes": [
+      "Jos maniokkitärkkelystä ei ole saatavilla, voi käyttää perunatärkkelystä tai maissitärkkelystä.",
+      "Valmiiksi raastettua kookosta voi myös käyttää."
+    ]
+  },
+  {
+    "id": "wikibooks-gyudon-japanese-beef-and-rice-bowl",
+    "title": "Gyudon (japanilainen naudanliha-riisivati)",
+    "description": "Gyudon tarkoittaa kirjaimellisesti \"lihavatia\" – riisiannos, jonka päällä on naudanlihaa ja sipulia haudutettuna mietoon makeaan kastikkeeseen dashin, soijakastikkeen ja mirinin kanssa. Tarjoillaan usein pikkelöidyn inkiväärin, shichimi-mausteen ja misokeiton kanssa.",
+    "servings": 2,
+    "category": "Pääruoat",
+    "tags": ["naudanliha", "japanilainen", "riisi", "nopea"],
+    "ingredients": [
+      "2 munaa",
+      "200 g ohuiksi viipaloitua naudanlihaa",
+      "½ sipulia, lohkoina",
+      "1 rkl sakea",
+      "1 rkl sokeria",
+      "1 rkl miriniä",
+      "2 rkl soijakastiketta",
+      "1 dl vettä",
+      "½ tl dashi-jauhetta",
+      "5 g inkivääriä raastettuna",
+      "keitettyä riisiä",
+      "pikkelöityä inkivääriä (beni shōga)",
+      "shichimi-maustetta",
+      "kevätsipulia hienonnettuna"
+    ],
+    "instructions": [
+      "Keitä munia kiehuvassa vedessä 20 minuuttia niin, että ne jäävät sisältä pehmeiksi. Kuori munat varovasti.",
+      "Keitä naudanliha ja valuta vesi pois.",
+      "Yhdistä sake, mirin, soijakastike ja sokeri paistinpannussa. Sekoita keskilämmöllä.",
+      "Lisää liha ja kypsennä. Nosta liha pois ennen kuin kastike ehtii haihtua kokonaan.",
+      "Lisää veteen sekoitettu dashi, raastettu inkivääri ja sipuli kastikkeeseen. Peitä ja kiehauta.",
+      "Sekoita liha joukkoon.",
+      "Annostele keitetty riisi kulhoon ja lisää päälle kastikkeinen liha.",
+      "Asettele pehmeä muna ja pikkelöity inkivääri päälle. Viimeistele kevätsipulilla ja shichimi-mausteella."
+    ]
+  },
+  {
+    "id": "wikibooks-gyuveche-bulgarian-casserole-ii",
+    "title": "Gyuveche (bulgarialainen laatikko) II",
+    "description": "Gyuveche on suosittu bulgarialainen uuniruokalaatikko, joka tehdään yleensä jääkaapin tähteistä.",
+    "servings": 1,
+    "servingsEstimated": true,
+    "cookTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["juusto", "uuniruoka", "bulgarialainen", "tähteet"],
+    "ingredients": [
+      "200–300 g juustoa",
+      "hienonnettuja yrttejä",
+      "kypsennettyä kanaa, possua tai naudanlihaa (valinnainen)",
+      "makkaraa tai nakkeja (valinnainen)",
+      "kasviksia (valinnainen), esim. tomaattia, paprikaa, pientä chiliä, herkkusieniä, keitettyä perunaa",
+      "tuoreita yrttejä (valinnainen), esim. persiljaa, tilliä, selleriä",
+      "1 muna"
+    ],
+    "instructions": [
+      "Pilko tai kuutioi kaikki lisättävät ainekset.",
+      "Kerrosta juusto, liha ja kasvikset uunivuokaan vuorotellen. Viimeistele juustolla.",
+      "Paista uunissa 200 °C:ssa 20 minuuttia tai kunnes juusto on sulanut.",
+      "Riko muna päälle ja laita takaisin uuniin vielä 5–10 minuuttia, riippuen miten tykkäät munan kypsyydestä.",
+      "Tarjoile tuoreen leivän tai paahtoleivän kanssa."
+    ],
+    "notes": [
+      "Voit käyttää useita erilaisia juustoja, mutta sisällytä mukaan fetajuustoa, sillä se on tähän ruokaan perinteinen eikä muutu liian öljyiseksi sulaessaan."
+    ]
+  },
+  {
+    "id": "wikibooks-gyuvetch-bulgarian-casserole-i",
+    "title": "Gyuvetch (bulgarialainen laatikko) I",
+    "servings": 6,
+    "servingsEstimated": true,
+    "category": "Pääruoat",
+    "tags": ["naudanliha", "uuniruoka", "bulgarialainen", "kasvikset"],
+    "ingredients": [
+      "900 g naudanlihaa, 4–5 cm:n kuutioina",
+      "soijakastiketta",
+      "2 sipulia, puolitettuna ja viipaloituna 5 mm:n siivuiksi",
+      "2 porkkanaa, puolitettuna tai neljänneksinä pituussuunnassa ja viipaloituna 5 mm:n siivuiksi",
+      "2 pakettia okraa",
+      "3 munakoisoa, viipaloituna 2 cm:n renkaiksi",
+      "muutama tomaatti, kukin kolmeen osaan leikattuna",
+      "1 kg perunoita, kuorittuna, neljänneksinä ja viipaloituna n. 7 mm:n siivuiksi",
+      "12 pientä makeaa punaista paprikaa, viipaloituna 5 mm:n renkaiksi",
+      "2 vihreää chiliä",
+      "ruokaöljyä",
+      "1 nippu persiljaa hienonnettuna",
+      "suolaa"
+    ],
+    "instructions": [
+      "Ruskista naudanliha ruokaöljyssä paistinpannulla. Lisää vettä niin, että liha peittyy, ja keitä pehmeäksi. Mausta soijakastikkeella.",
+      "Ripottele munakoisoviipaleet suolalla ja anna niiden vetäytyä hetken kitkeryyden poistamiseksi. Pyyhi kosteus pois ja neljännä jokainen viipale.",
+      "Paista porkkanat, munakoisot, perunat ja okra paistinpannulla ruokaöljyssä. Lisää tomaatit nesteineen. Sekoita joukkoon sipulit, lisää hieman vettä ja kypsennä, kunnes kasvikset ovat juuri ja juuri pehmeitä. Lisää punainen paprika ja sammuta lämpö.",
+      "Sekoita liha paistinliemeen ja kasviksiin ja siirrä savivuokaan. Lisää päälle vihreät chilit, peitä ja paista 200 °C:n uunissa noin 20 minuuttia.",
+      "Ripottele hienonnetulla persiljalla ja tarjoile."
+    ]
+  },
+  {
+    "id": "wikibooks-gteau-nantais-nantes-cake",
+    "title": "Gâteau Nantais (Nantesin kakku)",
+    "description": "Gâteau nantais on mantelijauholla ja rommilla maustettu ranskalainen kakku, eräänlainen punnituskakku.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "cookTimeMin": 45,
+    "category": "Jälkiruoat",
+    "tags": ["kakku", "ranskalainen", "rommi", "juhla"],
+    "ingredients": [
+      "125 g puolisuolaista voita, pehmeänä",
+      "150 g sokeria",
+      "100 g mantelijauhoa",
+      "3 munaa",
+      "40 g vehnäjauhoja",
+      "2 rkl rommia",
+      "Kastelu:",
+      "2 rkl rommia",
+      "2 rkl vettä",
+      "Kuorrute:",
+      "2 rkl rommia",
+      "50 g tomusokeria"
+    ],
+    "instructions": [
+      "Vatkaa voi ja sokeri käsin tai yleiskoneella hitaalla nopeudella 2–3 minuuttia.",
+      "Lisää mantelijauho ja sekoita tasaiseksi.",
+      "Vatkaa munat haarukalla isossa kulhossa. Sekoita munat voi-sokeriseokseen.",
+      "Lisää vehnäjauhot ja 2 rkl rommia.",
+      "Kaada taikina voideltuun kakkuvuokaan.",
+      "Paista 45 minuuttia 150 °C:ssa.",
+      "Heti kun otat kakun uunista, kostuta se 2 rkl rommin ja 2 rkl veden seoksella. Anna jäähtyä täysin ja kumoa muotista.",
+      "Kun kakku on kylmä, valmista kuorrute sekoittamalla tomusokeri ja rommi. Lisää tarvittaessa muutama tippa vettä, sekoittaen hyvin joka lisäyksen välissä, kunnes seos on paksua mutta valuvaa.",
+      "Kaada kuorrute kakun päälle ja levitä tasaisesti."
+    ],
+    "notes": [
+      "Tämä kakku kannattaa kuorruttaa ja tarjoilla vasta paistamista seuraavana päivänä, kun se on ehtinyt kostua."
+    ]
+  }
+]
