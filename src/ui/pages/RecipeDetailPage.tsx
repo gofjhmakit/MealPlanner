@@ -8,19 +8,21 @@ import {
   ChevronDown,
   Clock,
   ExternalLink,
+  ListOrdered,
   Heart,
   ChefHat,
   MoreHorizontal,
   NotebookPen,
   Pencil,
   Printer,
+  ShoppingBasket,
   ShoppingCart,
   Timer,
   X,
   Trash2,
   XCircle,
 } from 'lucide-react'
-import { useEffect, useMemo, useState, type ReactNode } from 'react'
+import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router'
 import { copyRecipeToUser, deleteRecipe, setInCollection, setRecipeNotes, setRecipeRating, toggleFavourite } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
@@ -46,6 +48,7 @@ import { useFavouriteIds, useMealItems, usePlanNutrition, useRecipe, useRecipeNu
 import { Segmented } from '../components/v2'
 import { addToSlot, slotLabel } from '../planActions'
 import { useHousehold } from '../planning'
+import { useScrollLock } from '../scrollLock'
 
 export function RecipeDetailPage() {
   const { id } = useParams()
@@ -426,9 +429,12 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
         <div className="mx-auto flex max-w-[720px] gap-2">
           <button onClick={addToTarget} className="flex h-12 min-w-0 flex-1 items-center justify-center gap-2 rounded-2xl bg-brand px-4 text-sm font-semibold text-on-brand">
             <CalendarPlus size={18} className="shrink-0" />
-            <span className="truncate">{target ? `Lisää · ${slotLabel(target.date, target.slot)}` : 'Lisää ruokalistalle'}</span>
+            <span className="flex min-w-0 flex-col items-start leading-tight">
+              <span>Lisää ruokalistalle</span>
+              {target && <span className="max-w-full truncate text-xs font-medium opacity-80">{slotLabel(target.date, target.slot)}</span>}
+            </span>
           </button>
-          <button onClick={() => setPlanOpen(true)} className="h-12 rounded-2xl border border-line px-3 text-sm font-medium" aria-label="Valitse muu päivä">Muu…</button>
+          <button onClick={() => setPlanOpen(true)} className="h-12 shrink-0 whitespace-nowrap rounded-2xl border border-line px-3 text-sm font-medium" aria-label="Valitse muu päivä">Muu päivä</button>
           <button onClick={() => setShopOpen(true)} className="flex h-12 w-12 items-center justify-center rounded-2xl border border-line" aria-label="Lisää ostoslistalle">
             <ShoppingCart size={18} />
           </button>
@@ -669,17 +675,48 @@ function NotesCard({ recipe }: { recipe: Recipe }) {
 }
 
 /**
- * Cook mode: one step at a time in big type, the ingredients of that step, timers parsed from
- * the text, and the screen kept awake where the browser allows.
+ * Cook mode: one step at a time in big type (or every step at once), the ingredients of that step,
+ * timers parsed from the text, and the screen kept awake where the browser allows.
  * Keys: → / space next, ← previous, T start the step's timer, Esc close.
+ * Below xl the full ingredient list opens at the top of the one scrolling column, so there is
+ * never a scroll area inside a scroll area on a phone.
  */
+const SHOW_ALL_STEPS_KEY = 'cook.allSteps'
+
+/** Big type for a short step; long paragraphs step down so they still fit a screen or two. */
+function stepTextClass(length: number): string {
+  if (length > 450) return 'max-w-[60ch] text-xl sm:text-2xl lg:text-3xl 3xl:text-4xl'
+  if (length > 220) return 'max-w-[42ch] text-2xl sm:text-3xl lg:text-4xl 3xl:text-5xl'
+  return 'max-w-[30ch] text-[1.75rem] sm:text-4xl lg:max-w-[32ch] lg:text-5xl 3xl:text-[4.25rem]'
+}
+
 function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; factor: number; servings: number; onClose: () => void }) {
   const steps = recipe.instructions.map((s, i) => ({ s, i })).filter((x) => !x.s.endsWith(':'))
   const [index, setIndex] = useState(0)
   const [wakeLock, setWakeLock] = useState<'on' | 'unsupported' | 'off'>('off')
   const [timers, setTimers] = useState<{ id: number; label: string; end: number }[]>([])
-  const [showAll, setShowAll] = useState(false)
+  const [showIngredients, setShowIngredients] = useState(false)
+  const [allSteps, setAllSteps] = useState(() => {
+    try {
+      return localStorage.getItem(SHOW_ALL_STEPS_KEY) === '1'
+    } catch {
+      return false
+    }
+  })
   const [, tick] = useState(0)
+  const scroller = useRef<HTMLElement>(null)
+  useScrollLock()
+
+  const toggleAllSteps = () => {
+    setAllSteps((v) => {
+      try {
+        localStorage.setItem(SHOW_ALL_STEPS_KEY, v ? '0' : '1')
+      } catch {
+        // private window: the choice just isn't remembered
+      }
+      return !v
+    })
+  }
 
   useEffect(() => {
     let lock: { release: () => Promise<void> } | null = null
@@ -698,11 +735,8 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
     void request()
     const onVisible = () => document.visibilityState === 'visible' && void request()
     document.addEventListener('visibilitychange', onVisible)
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
     return () => {
       cancelled = true
-      document.body.style.overflow = prev
       document.removeEventListener('visibilitychange', onVisible)
       void lock?.release().catch(() => {})
     }
@@ -714,8 +748,27 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
     return () => clearInterval(id)
   }, [timers.length])
 
+  // Keep the current step in view when it changes (or when the view mode changes: jump, don't glide).
+  const lastMode = useRef(allSteps)
+  useEffect(() => {
+    const box = scroller.current
+    const el = box?.querySelector<HTMLElement>(`[data-step="${index}"]`)
+    const modeChanged = lastMode.current !== allSteps
+    lastMode.current = allSteps
+    if (!box || !el) return
+    const top = el.getBoundingClientRect().top - box.getBoundingClientRect().top + box.scrollTop - 24
+    const smooth = allSteps && !modeChanged && !window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    box.scrollTo({ top: Math.max(0, top), behavior: smooth ? 'smooth' : 'auto' })
+  }, [index, allSteps])
+
+  const openIngredients = () => {
+    setShowIngredients((v) => !v)
+    if (!showIngredients) requestAnimationFrame(() => scroller.current?.scrollTo({ top: 0 }))
+  }
+
   const current = steps[index]
-  const stepTimers = current ? splitTimers(current.s).filter((p): p is { text: string; seconds: number } => typeof p !== 'string') : []
+  const timersOf = (s: string) => splitTimers(s).filter((p): p is { text: string; seconds: number } => typeof p !== 'string')
+  const stepTimers = current ? timersOf(current.s) : []
   const startTimer = (label: string, seconds: number) => setTimers((t) => [...t, { id: Date.now(), label, end: Date.now() + seconds * 1000 }])
 
   useEffect(() => {
@@ -738,97 +791,122 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
     const split = splitAmountText(ing.raw)
     return { amount: factor === 1 ? split.amount : scaled.quantity != null ? scaled.amountText : '', rest: split.rest || ing.raw }
   }
+  const ingredientList = (size: 'base' | 'sm') => (
+    <ul className={cx('space-y-1.5', size === 'base' ? 'text-base' : 'text-sm')}>
+      {recipe.ingredients.map((ing) => {
+        if (/:$/.test(ing.raw)) return <li key={ing.id} className="pt-2 text-xs font-semibold uppercase tracking-wider text-muted">{ing.raw.slice(0, -1)}</li>
+        const a = amount(ing)
+        return (
+          <li key={ing.id} className={cx('flex gap-3', !allSteps && stepIngredients.includes(ing) && 'font-semibold text-brand')}>
+            <span className={cx('tabular shrink-0 text-right font-semibold', size === 'base' ? 'w-16' : 'w-14')}>{a.amount}</span>
+            <span className="min-w-0 [overflow-wrap:anywhere]">{a.rest}</span>
+          </li>
+        )
+      })}
+    </ul>
+  )
+  const timerButtons = (list: { text: string; seconds: number }[], stepNo: number) =>
+    list.length > 0 && (
+      <div className="mt-4 flex flex-wrap gap-2">
+        {list.map((tm, i) => (
+          <button key={i} onClick={() => startTimer(`Vaihe ${stepNo}: ${tm.text}`, tm.seconds)} className="inline-flex items-center gap-2 rounded-full bg-sun-soft px-4 py-2 text-sm font-semibold text-warn">
+            <Timer size={16} /> Käynnistä {tm.text}
+          </button>
+        ))}
+      </div>
+    )
+  const toggleClass = (on: boolean) =>
+    cx('inline-flex h-10 flex-1 items-center justify-center gap-2 whitespace-nowrap rounded-xl px-3 text-sm font-semibold sm:flex-none', on ? 'bg-brand text-on-brand' : 'bg-surface-2 text-ink')
 
   return (
-    <div className="fixed inset-0 z-[70] flex flex-col bg-canvas" role="dialog" aria-modal="true" aria-label={`Kokkaustila: ${recipe.title}`}>
-      <header className="safe-top flex items-center gap-4 border-b border-line pb-3">
+    <div className="fixed inset-0 z-[70] flex flex-col overscroll-none bg-canvas" role="dialog" aria-modal="true" aria-label={`Kokkaustila: ${recipe.title}`}>
+      <header className="safe-top flex flex-wrap items-center gap-x-3 gap-y-2 border-b border-line pb-3">
         <div className="min-w-0 flex-1">
-          <p className="text-xs text-muted">Kokkaustila · {formatNumber(servings, 1)} annosta{wakeLock === 'on' ? ' · näyttö pysyy päällä' : ''}</p>
+          <p className="truncate text-xs text-muted">
+            Kokkaustila · {formatNumber(servings, 1)} annosta
+            {wakeLock === 'on' && <span className="hidden sm:inline"> · näyttö pysyy päällä</span>}
+          </p>
           <h2 className="truncate font-display text-xl font-semibold">{recipe.title}</h2>
         </div>
-        <button onClick={() => setShowAll((v) => !v)} aria-expanded={showAll} className={cx('rounded-xl px-3 py-2 text-sm font-semibold xl:hidden', showAll ? 'bg-brand text-on-brand' : 'bg-surface-2 text-ink')}>
-          Ainekset
-        </button>
+        <div className="order-last flex w-full gap-2 sm:order-none sm:w-auto">
+          <button onClick={toggleAllSteps} aria-pressed={allSteps} className={toggleClass(allSteps)}>
+            <ListOrdered size={16} /> Kaikki vaiheet
+          </button>
+          <button onClick={openIngredients} aria-pressed={showIngredients} className={cx(toggleClass(showIngredients), 'xl:hidden')}>
+            <ShoppingBasket size={16} /> Ainekset
+          </button>
+        </div>
         <IconButton label="Sulje kokkaustila" onClick={onClose} className="h-11 w-11"><X size={24} /></IconButton>
       </header>
-      {showAll && (
-        <div className="max-h-[55vh] overflow-y-auto border-b border-line bg-surface px-5 py-4 xl:hidden">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Kaikki ainekset · {formatNumber(servings, 1)} annosta</p>
-          <ul className="space-y-1.5 text-base">
-            {recipe.ingredients.map((ing) =>
-              /:$/.test(ing.raw) ? (
-                <li key={ing.id} className="pt-2 text-xs font-semibold uppercase tracking-wider text-muted">{ing.raw.slice(0, -1)}</li>
-              ) : (
-                <li key={ing.id} className={cx('flex gap-3', stepIngredients.includes(ing) && 'font-semibold text-brand')}>
-                  <span className="tabular w-16 shrink-0 text-right font-semibold">{amount(ing).amount}</span>
-                  <span>{amount(ing).rest}</span>
-                </li>
-              ),
-            )}
-          </ul>
-        </div>
-      )}
       <div className="flex min-h-0 flex-1">
-        <nav className="hidden w-72 shrink-0 overflow-y-auto border-r border-line p-4 lg:block 3xl:w-96" aria-label="Vaiheet">
-          <ol className="space-y-1">
-            {steps.map((x, i) => (
-              <li key={x.i}>
-                <button onClick={() => setIndex(i)} className={cx('flex w-full gap-3 rounded-xl p-2.5 text-left text-sm', i === index ? 'bg-brand-soft text-ink' : i < index ? 'text-muted line-through' : 'text-ink-2 hover:bg-surface-2')}>
-                  <span className={cx('flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-semibold', i === index ? 'bg-brand text-on-brand' : 'bg-surface-2')}>{i + 1}</span>
-                  <span className="line-clamp-2">{x.s}</span>
-                </button>
-              </li>
-            ))}
-          </ol>
-        </nav>
-        <main className="flex min-w-0 flex-1 flex-col overflow-y-auto px-6 py-8 lg:px-12">
-          {steps.length === 0 ? (
-            <p className="text-muted">Tässä reseptissä ei ole valmistusohjetta.</p>
-          ) : (
-            <>
-              <p className="text-sm font-semibold uppercase tracking-wider text-brand">Vaihe {index + 1} / {steps.length}</p>
-              <p className="mt-4 max-w-[30ch] font-display text-[1.75rem] font-medium leading-snug sm:text-4xl lg:max-w-[32ch] lg:text-5xl 3xl:text-[4.25rem]">{current.s}</p>
-              {stepTimers.length > 0 && (
-                <div className="mt-6 flex flex-wrap gap-2">
-                  {stepTimers.map((tm, i) => (
-                    <button key={i} onClick={() => startTimer(`Vaihe ${index + 1}: ${tm.text}`, tm.seconds)} className="inline-flex items-center gap-2 rounded-full bg-sun-soft px-4 py-2 text-sm font-semibold text-warn">
-                      <Timer size={16} /> Käynnistä {tm.text}
-                    </button>
-                  ))}
-                </div>
-              )}
-              {stepIngredients.length > 0 && (
-                <div className="mt-8 max-w-xl">
-                  <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Tässä vaiheessa</p>
-                  <ul className="grid gap-x-6 gap-y-1.5 text-lg sm:grid-cols-2">
-                    {stepIngredients.map((ing) => {
-                      const a = amount(ing)
-                      return (
-                        <li key={ing.id} className="flex gap-3">
-                          <span className="tabular w-16 shrink-0 text-right font-semibold">{a.amount}</span>
-                          <span>{a.rest}</span>
-                        </li>
-                      )
-                    })}
-                  </ul>
-                </div>
-              )}
-            </>
-          )}
-        </main>
-        <aside className="hidden w-80 shrink-0 overflow-y-auto border-l border-line p-5 xl:block 3xl:w-96">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Kaikki ainekset</p>
-          <ul className="space-y-1.5 text-sm">
-            {recipe.ingredients.map((ing) => {
-              const a = amount(ing)
-              return (
-                <li key={ing.id} className="flex gap-3">
-                  <span className="tabular w-14 shrink-0 text-right font-semibold">{a.amount}</span>
-                  <span>{a.rest}</span>
+        {!allSteps && (
+          <nav className="hidden w-72 shrink-0 overflow-y-auto overscroll-contain border-r border-line p-4 lg:block 3xl:w-96" aria-label="Vaiheet">
+            <ol className="space-y-1">
+              {steps.map((x, i) => (
+                <li key={x.i}>
+                  <button onClick={() => setIndex(i)} aria-current={i === index ? 'step' : undefined} className={cx('flex w-full gap-3 rounded-xl p-2.5 text-left text-sm', i === index ? 'bg-brand-soft text-ink' : i < index ? 'text-muted line-through' : 'text-ink-2 hover:bg-surface-2')}>
+                    <span className={cx('flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-xs font-semibold', i === index ? 'bg-brand text-on-brand' : 'bg-surface-2')}>{i + 1}</span>
+                    <span className="line-clamp-2">{x.s}</span>
+                  </button>
                 </li>
-              )
-            })}
-          </ul>
+              ))}
+            </ol>
+          </nav>
+        )}
+        <main ref={scroller} className="min-w-0 flex-1 overflow-y-auto overscroll-contain">
+          {showIngredients && (
+            <section className="border-b border-line bg-surface px-5 py-4 sm:px-6 lg:px-12 xl:hidden" aria-label="Kaikki ainekset">
+              <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Kaikki ainekset · {formatNumber(servings, 1)} annosta</p>
+              <div className="sm:columns-2 sm:gap-8 [&_li]:break-inside-avoid">{ingredientList('base')}</div>
+            </section>
+          )}
+          <div className="px-6 py-8 lg:px-12">
+            {steps.length === 0 ? (
+              <p className="text-muted">Tässä reseptissä ei ole valmistusohjetta.</p>
+            ) : allSteps ? (
+              <ol className="mx-auto max-w-3xl space-y-3">
+                {steps.map((x, i) => (
+                  <li key={x.i} data-step={i}>
+                    <button
+                      onClick={() => setIndex(i)}
+                      aria-current={i === index ? 'step' : undefined}
+                      className={cx('flex w-full gap-4 rounded-2xl p-4 text-left transition sm:p-5', i === index ? 'bg-brand-soft ring-1 ring-brand' : 'hover:bg-surface-2')}
+                    >
+                      <span className={cx('mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold', i === index ? 'bg-brand text-on-brand' : 'bg-surface-2 text-ink-2')}>{i + 1}</span>
+                      <span className={cx('min-w-0 font-display text-xl leading-snug sm:text-2xl 3xl:text-3xl', i < index ? 'text-muted' : 'text-ink')}>{x.s}</span>
+                    </button>
+                    {i === index && <div className="pl-[4.25rem] sm:pl-[4.5rem]">{timerButtons(timersOf(x.s), i + 1)}</div>}
+                  </li>
+                ))}
+              </ol>
+            ) : (
+              <div data-step={index}>
+                <p className="text-sm font-semibold uppercase tracking-wider text-brand">Vaihe {index + 1} / {steps.length}</p>
+                <p className={cx('mt-4 font-display font-medium leading-snug', stepTextClass(current.s.length))}>{current.s}</p>
+                <div className="mt-2">{timerButtons(stepTimers, index + 1)}</div>
+                {stepIngredients.length > 0 && (
+                  <div className="mt-8 max-w-xl">
+                    <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Tässä vaiheessa</p>
+                    <ul className="grid gap-x-6 gap-y-1.5 text-lg sm:grid-cols-2">
+                      {stepIngredients.map((ing) => {
+                        const a = amount(ing)
+                        return (
+                          <li key={ing.id} className="flex gap-3">
+                            <span className="tabular w-16 shrink-0 text-right font-semibold">{a.amount}</span>
+                            <span className="min-w-0 [overflow-wrap:anywhere]">{a.rest}</span>
+                          </li>
+                        )
+                      })}
+                    </ul>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        </main>
+        <aside className="hidden w-80 shrink-0 overflow-y-auto overscroll-contain border-l border-line p-5 xl:block 3xl:w-96" aria-label="Kaikki ainekset">
+          <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-muted">Kaikki ainekset</p>
+          {ingredientList('sm')}
         </aside>
       </div>
       {timers.length > 0 && (
@@ -843,13 +921,17 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
           })}
         </div>
       )}
-      <footer className="safe-bottom flex items-center gap-3 border-t border-line bg-surface px-5 py-3">
+      <footer className="flex items-center gap-3 border-t border-line bg-surface px-5 pt-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
         <Button size="lg" variant="secondary" onClick={() => setIndex((i) => Math.max(0, i - 1))} disabled={index === 0}>Edellinen</Button>
-        <div className="flex flex-1 justify-center gap-1" aria-hidden>
-          {steps.map((_, i) => (
-            <span key={i} className={cx('h-1.5 rounded-full transition-all', i === index ? 'w-6 bg-brand' : i < index ? 'w-1.5 bg-brand/50' : 'w-1.5 bg-line')} />
-          ))}
-        </div>
+        {steps.length > 12 ? (
+          <p className="tabular flex-1 text-center text-sm font-semibold text-ink-2">{index + 1} / {steps.length}</p>
+        ) : (
+          <div className="flex min-w-0 flex-1 justify-center gap-1" aria-hidden>
+            {steps.map((_, i) => (
+              <span key={i} className={cx('h-1.5 rounded-full transition-all', i === index ? 'w-6 bg-brand' : i < index ? 'w-1.5 bg-brand/50' : 'w-1.5 bg-line')} />
+            ))}
+          </div>
+        )}
         {index < steps.length - 1 ? (
           <Button size="lg" onClick={() => setIndex((i) => i + 1)}>Seuraava</Button>
         ) : (
@@ -872,7 +954,7 @@ function TimerChip({ label, seconds }: { label: string; seconds: number }) {
   return (
     <button
       onClick={() => setEnd(end ? null : Date.now() + seconds * 1000)}
-      className={cx('mx-0.5 inline-flex items-center gap-1 rounded-md px-1.5 align-baseline text-[0.95em] font-medium', left === 0 ? 'bg-accent text-white' : 'bg-sun-soft text-warn')}
+      className={cx('inline-flex items-center gap-1 rounded-md px-1.5 align-baseline text-[0.95em] font-medium', left === 0 ? 'bg-accent text-white' : 'bg-sun-soft text-warn')}
       title={end ? 'Pysäytä ajastin' : 'Käynnistä ajastin'}
     >
       <Timer size={12} className="self-center" />

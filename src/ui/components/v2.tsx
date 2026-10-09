@@ -7,6 +7,7 @@ import { useEffect, useRef, type ReactNode } from 'react'
 import type { Recipe } from '../../domain/types'
 import { PlateArt } from './recipe'
 import { cx } from './ui'
+import { useScrollLock } from '../scrollLock'
 
 /** Day ring: `done` kcal solid, `planned` kcal (still to come) light, against `target`. */
 export function GoalRing({ done, planned, target, size = 132, stroke = 12, label }: { done: number; planned: number; target: number | null; size?: number; stroke?: number; label?: ReactNode }) {
@@ -103,6 +104,7 @@ export function Eyebrow({ children, className }: { children: ReactNode; classNam
  */
 export function Sheet({ open, onClose, title, children, footer }: { open: boolean; onClose: () => void; title: ReactNode; children: ReactNode; footer?: ReactNode }) {
   const ref = useRef<HTMLDivElement>(null)
+  useScrollLock(open)
   useEffect(() => {
     if (!open) return
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose()
@@ -112,7 +114,7 @@ export function Sheet({ open, onClose, title, children, footer }: { open: boolea
   }, [open, onClose])
   if (!open) return null
   return (
-    <div className="fixed inset-0 z-50 flex items-end justify-end bg-[rgb(10_14_12/0.35)] lg:items-stretch" onMouseDown={(e) => e.target === e.currentTarget && onClose()}>
+    <div className="fixed inset-0 z-50 flex items-end justify-end overscroll-none bg-[rgb(10_14_12/0.35)] lg:items-stretch" onMouseDown={(e) => e.target === e.currentTarget && onClose()}>
       <div
         ref={ref}
         tabIndex={-1}
@@ -127,7 +129,7 @@ export function Sheet({ open, onClose, title, children, footer }: { open: boolea
             <X size={18} />
           </button>
         </div>
-        <div className="flex-1 overflow-y-auto px-5 pb-5">{children}</div>
+        <div className="flex-1 overflow-y-auto overscroll-contain px-5 pb-5">{children}</div>
         {footer && <div className="border-t border-line px-5 py-3">{footer}</div>}
       </div>
     </div>

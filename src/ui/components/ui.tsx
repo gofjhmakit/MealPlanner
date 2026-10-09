@@ -1,5 +1,6 @@
 import { Minus, Plus, X } from 'lucide-react'
 import { useEffect, useRef, type ButtonHTMLAttributes, type InputHTMLAttributes, type ReactNode, type SelectHTMLAttributes } from 'react'
+import { useScrollLock } from '../scrollLock'
 
 export function cx(...classes: (string | false | null | undefined)[]): string {
   return classes.filter(Boolean).join(' ')
@@ -152,6 +153,7 @@ export function Modal({
   wide?: boolean
 }) {
   const ref = useRef<HTMLDialogElement>(null)
+  useScrollLock(open)
   useEffect(() => {
     const d = ref.current
     if (!d) return

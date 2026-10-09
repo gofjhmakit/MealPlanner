@@ -459,7 +459,7 @@ function MealCell({ item, recipe, kcal, compact, onOpen }: { item: MealItem; rec
       <button onClick={onOpen} className="block w-full text-left" tabIndex={-1}>
         {!compact && !item.leftoverOfId && <MealThumb recipe={recipe} size={0} className="!h-14 !w-full !rounded-none 3xl:!h-[72px]" />}
         <span className="block px-2.5 pb-2 pt-1.5">
-          <span className={cx('line-clamp-2 text-[13px] font-medium leading-snug', item.leftoverOfId && 'text-brand')}>
+          <span className={cx('line-clamp-2 hyphens-auto text-[13px] font-medium leading-snug [overflow-wrap:anywhere]', item.leftoverOfId && 'text-brand')}>
             {item.leftoverOfId ? '↻ ' : ''}
             {recipe?.title ?? item.note ?? 'Ateria'}
           </span>

@@ -19,6 +19,7 @@ import { cx } from './components/ui'
 import { useMealItems } from './hooks'
 import { addToSlot, fillEmptySlots, slotLabel } from './planActions'
 import { useCandidates, useHousehold } from './planning'
+import { useScrollLock } from './scrollLock'
 
 interface CommandApi {
   open: (text?: string) => void
@@ -166,12 +167,8 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
   }, [index])
   useEffect(() => {
     inputRef.current?.focus()
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
-    return () => {
-      document.body.style.overflow = prev
-    }
   }, [])
+  useScrollLock()
 
   async function run(row: Row, open = false) {
     onClose()

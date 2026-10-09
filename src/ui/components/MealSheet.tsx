@@ -93,7 +93,7 @@ export function MealSheetBody({ item, recipe, kcal, dayKcal, onClose }: { item: 
 
   const tomorrow = addDays(item.date, 1)
   return (
-    <div className="space-y-5">
+    <div className="@container min-w-0 space-y-5">
       <div className="flex flex-wrap items-center gap-3">
         <Stepper size="sm" value={item.servings} onChange={(v) => setMealServings(item.id, v)} min={0.5} step={item.servings < 2 ? 0.5 : 1} label="Annokset" suffix="annosta" />
         {kcal !== null && <span className="tabular text-sm text-ink-2">≈ {Math.round(kcal)} kcal / annos</span>}
@@ -133,7 +133,7 @@ export function MealSheetBody({ item, recipe, kcal, dayKcal, onClose }: { item: 
           ) : swaps.length === 0 ? (
             <p className="text-sm text-muted">Ei sopivia vaihtoehtoja.</p>
           ) : (
-            <ul className="grid gap-2">
+            <ul className="grid grid-cols-[minmax(0,1fr)] gap-2">
               {swaps.map((c) => {
                 const delta = kcal !== null ? Math.round(c.kcal - kcal) : null
                 const time = recipeTime(c.recipe)
@@ -160,7 +160,7 @@ export function MealSheetBody({ item, recipe, kcal, dayKcal, onClose }: { item: 
         </div>
       )}
 
-      <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
+      <div className="grid grid-cols-2 gap-2 @sm:grid-cols-4">
         {recipe && !item.leftoverOfId && (
           <SheetAction
             icon={<Repeat2 size={18} />}
@@ -198,7 +198,7 @@ export function MealSheetBody({ item, recipe, kcal, dayKcal, onClose }: { item: 
 
 function SheetAction({ icon, label, onClick, tone }: { icon: React.ReactNode; label: string; onClick: () => void; tone?: 'bad' }) {
   return (
-    <button onClick={onClick} className={cx('flex flex-col items-center gap-1.5 rounded-2xl border border-line px-2 py-3 text-xs font-medium transition hover:bg-surface-2', tone === 'bad' ? 'text-bad' : 'text-ink-2')}>
+    <button onClick={onClick} className={cx('flex min-w-0 flex-col items-center gap-1.5 rounded-2xl border border-line px-2 py-3 text-center text-xs font-medium leading-tight transition hover:bg-surface-2', tone === 'bad' ? 'text-bad' : 'text-ink-2')}>
       {icon}
       {label}
     </button>

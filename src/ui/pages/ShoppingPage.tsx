@@ -35,6 +35,7 @@ import { PageHeader } from '../components/Layout'
 import { Button, cx, Select, Spinner } from '../components/ui'
 import { MealThumb, Panel, Segmented } from '../components/v2'
 import { useMealItems, useRecipesById } from '../hooks'
+import { useScrollLock } from '../scrollLock'
 
 type View = 'aisle' | 'dish' | 'home'
 type RecipeMap = Map<string, Recipe> | undefined
@@ -546,15 +547,11 @@ function StoreMode({ items, amountText, onClose }: { items: ShoppingItem[]; amou
   const order = new Map(SHOPPING_CATEGORIES.map((c, i) => [c, i]))
   const sorted = [...items].sort((a, b) => Number(a.checked) - Number(b.checked) || order.get(a.category)! - order.get(b.category)! || a.name.localeCompare(b.name, 'fi'))
   const left = items.filter((i) => !i.checked).length
+  useScrollLock()
   useEffect(() => {
-    const prev = document.body.style.overflow
-    document.body.style.overflow = 'hidden'
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose()
     window.addEventListener('keydown', onKey)
-    return () => {
-      document.body.style.overflow = prev
-      window.removeEventListener('keydown', onKey)
-    }
+    return () => window.removeEventListener('keydown', onKey)
   }, [onClose])
   let lastCat: ShoppingCategory | null = null
   return (
