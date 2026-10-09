@@ -55,6 +55,9 @@ interface OpenRecipeRecord {
 
 const BASE = `${import.meta.env.BASE_URL}data/open-recipes/`
 
+/** Bump when the ingredient matcher or dictionary changes, so stored catalogue recipes are re-matched. */
+export const MATCHER_VERSION = 2
+
 export function openSourceToRecipeSource(s: OpenSourceInfo): RecipeSource {
   return { id: s.id, name: s.name, homepage: s.homepage, domains: [], kind: 'dataset', license: s.license, notes: s.attribution }
 }
@@ -122,7 +125,7 @@ export async function syncOpenRecipes(
     return getSetting<OpenRecipesIndex | null>('openRecipes', null, database)
   }
   const stored = await getSetting<OpenRecipesIndex | null>('openRecipes', null, database)
-  if (!force && stored?.version === index.version) {
+  if (!force && stored?.version === index.version && (stored as { matcherVersion?: number }).matcherVersion === MATCHER_VERSION) {
     // Same dataset version: reload only if recipes have gone missing (e.g. storage was partly cleared).
     const expected = index.sources.reduce((s, x) => s + x.count, 0)
     const present = await database.recipes.where('sourceId').anyOf(index.sources.map((s) => s.id)).count()
@@ -167,6 +170,6 @@ export async function syncOpenRecipes(
     loaded.add(source.id)
   }
   // Only remember the version when every source loaded, so a partial (offline) load is retried.
-  if (loaded.size === index.sources.length) await setSetting('openRecipes', index, database)
+  if (loaded.size === index.sources.length) await setSetting('openRecipes', { ...index, matcherVersion: MATCHER_VERSION }, database)
   return index
 }

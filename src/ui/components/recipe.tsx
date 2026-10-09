@@ -1,4 +1,4 @@
-import { Clock, Heart, Info, Star, Users } from 'lucide-react'
+import { Clock, Heart, Info, Star } from 'lucide-react'
 import { useState, type ReactNode } from 'react'
 import { Link } from 'react-router'
 import { CONFIDENT_THRESHOLD, type NutritionCoverage } from '../../domain/nutrition'
@@ -150,36 +150,27 @@ export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourc
   return <Badge>Oma</Badge>
 }
 
-export function RecipeCard({ recipe, kcal, favourite, action }: { recipe: Recipe; kcal?: number | null; favourite?: boolean; action?: ReactNode }) {
+export function RecipeCard({ recipe, kcal, protein, favourite, action }: { recipe: Recipe; kcal?: number | null; protein?: number | null; favourite?: boolean; action?: ReactNode }) {
   const time = recipeTime(recipe)
   return (
-    <article className="group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-surface transition hover:shadow-md">
+    <article className="group relative flex flex-col overflow-hidden rounded-[20px] border border-line bg-surface transition hover:-translate-y-0.5 hover:shadow-lg">
       <Link to={`/reseptit/${recipe.id}`} className="flex flex-1 flex-col">
         <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" />
-        <div className="flex flex-1 flex-col gap-2 p-4">
-          <div className="flex items-start justify-between gap-2">
-            <h3 className="line-clamp-2 font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>
-            <span className="mt-0.5 flex shrink-0 items-center gap-1">
-              <StarRating value={recipe.rating} size={14} />
-              {favourite && <Heart size={16} className="fill-accent text-accent" aria-label="Suosikki" />}
-            </span>
-          </div>
-          <div className="mt-auto flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
+        <div className="flex flex-1 flex-col gap-1.5 p-3 sm:p-3.5">
+          <h3 className="line-clamp-2 text-[15px] font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>
+          <div className="mt-auto flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs text-muted">
+            {kcal ? <span className="tabular font-medium text-ink-2">{Math.round(kcal)} kcal</span> : null}
+            {protein ? <span className="tabular">P {Math.round(protein)} g</span> : null}
             {time ? (
               <span className="inline-flex items-center gap-1">
-                <Clock size={13} /> {time} min
+                <Clock size={12} /> {time} min
               </span>
             ) : null}
-            <span className="inline-flex items-center gap-1">
-              <Users size={13} /> {formatNumber(recipe.servings, 1)} annosta
-            </span>
-            {kcal ? <span className="tabular" title="Arvioitu energia annosta kohden">≈ {Math.round(kcal)} kcal/annos</span> : null}
-          </div>
-          <div className="flex flex-wrap gap-1">
-            <SourceBadge recipe={recipe} />
+            {recipe.rating ? <span className="text-accent">★ {recipe.rating}</span> : null}
           </div>
         </div>
       </Link>
+      {favourite && <Heart size={18} className="absolute right-2.5 top-2.5 fill-accent text-accent drop-shadow" aria-label="Suosikki" />}
       {action && <div className="absolute right-2 top-2">{action}</div>}
     </article>
   )
