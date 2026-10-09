@@ -139,7 +139,7 @@ function Sidebar() {
       {settings.household.length > 0 && (
         <div className="mt-6 hidden border-t border-line pt-5 xl:block">
           <p className="mb-2 px-3 text-[11px] font-semibold uppercase tracking-wider text-muted">Kotitalous</p>
-          <ul className="space-y-1">
+          <ul className="max-h-[40vh] space-y-1 overflow-y-auto">
             {settings.household.map((p, i) => (
               <li key={p.id}>
                 <Link to="/profiili" className="flex items-center gap-3 rounded-xl px-3 py-1.5 text-sm text-ink-2 hover:bg-surface-2">
