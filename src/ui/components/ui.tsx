@@ -1,5 +1,5 @@
 import { Minus, Plus, X } from 'lucide-react'
-import { useEffect, useRef, type ButtonHTMLAttributes, type InputHTMLAttributes, type ReactNode, type SelectHTMLAttributes } from 'react'
+import { useEffect, useRef, useState, type ButtonHTMLAttributes, type InputHTMLAttributes, type ReactNode, type SelectHTMLAttributes } from 'react'
 import { useScrollLock } from '../scrollLock'
 
 export function cx(...classes: (string | false | null | undefined)[]): string {
@@ -216,6 +216,44 @@ export function TextInput({ className, ...rest }: InputHTMLAttributes<HTMLInputE
         'h-10 w-full rounded-xl border border-line bg-surface px-3 text-sm text-ink placeholder:text-muted focus:border-brand focus:outline-none',
         className,
       )}
+    />
+  )
+}
+
+/** Parses "75", "75,5", "75.5"; empty → null; anything else → NaN. */
+export function parseNumberText(text: string): number | null {
+  const t = text.trim().replace(',', '.')
+  return t === '' ? null : /^\d*\.?\d*$/.test(t) ? Number(t) : NaN
+}
+
+const numberText = (v: number | null | undefined) => (v == null || !Number.isFinite(v) ? '' : String(v).replace('.', ','))
+
+/**
+ * A number field that keeps what the person types. Bound straight to a number, clearing the box
+ * gives 0 and typing then reads "075"; here the text is local and only valid numbers go out
+ * (null when empty). An outside change of `value` (e.g. "Käytä ehdotusta") replaces the text.
+ */
+export function NumberInput({ value, onValueChange, className, bare, ...rest }: Omit<InputHTMLAttributes<HTMLInputElement>, 'value' | 'onChange' | 'type'> & { value: number | null | undefined; onValueChange: (v: number | null) => void; bare?: boolean }) {
+  const [text, setText] = useState(() => numberText(value))
+  // The value this field last sent out; anything else arriving in `value` came from outside.
+  const [sent, setSent] = useState<number | null>(value ?? null)
+  if ((value ?? null) !== sent && !(Number.isNaN(value) && Number.isNaN(sent))) {
+    setSent(value ?? null)
+    setText(numberText(value))
+  }
+  return (
+    <input
+      {...rest}
+      inputMode="decimal"
+      value={text}
+      onChange={(e) => {
+        setText(e.target.value)
+        const n = parseNumberText(e.target.value)
+        if (Number.isNaN(n)) return
+        setSent(n)
+        onValueChange(n)
+      }}
+      className={bare ? className : cx('h-10 w-full rounded-xl border border-line bg-surface px-3 text-sm text-ink placeholder:text-muted focus:border-brand focus:outline-none', className)}
     />
   )
 }

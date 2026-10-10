@@ -41,6 +41,7 @@ const SIZE_WORDS: Record<string, 'S' | 'M' | 'L'> = {
   pieni: 'S', pientä: 'S', pieniä: 'S', pienehkö: 'S', pienehköä: 'S', pikkuinen: 'S',
   keskikokoinen: 'M', keskikokoista: 'M', keskikokoisia: 'M',
   iso: 'L', isoa: 'L', isoja: 'L', suuri: 'L', suurta: 'L', suuria: 'L', isohko: 'L', isohkoa: 'L', reilu: 'L',
+  ohut: 'S', ohutta: 'S', ohuita: 'S', paksu: 'L', paksua: 'L', paksuja: 'L',
 }
 
 /** Parse "2", "2,5", "1/2", "½", "1½", "1 1/2" into a number. */
@@ -101,6 +102,7 @@ export function parseIngredientLine(rawLine: string): ParsedIngredientLine {
 
   // Unit: first word after the quantity (may also appear without quantity: "ripaus suolaa")
   let unit: string | null = null
+  let sizeBeforeUnit: 'S' | 'M' | 'L' | null = null
   const unitMatch = rest.match(/^([\p{L}]+\.?(?::\p{L}+)?)(?=\s|$|\()/u)
   if (unitMatch) {
     const u = findUnit(unitMatch[1])
@@ -108,6 +110,15 @@ export function parseIngredientLine(rawLine: string): ParsedIngredientLine {
       unit = u.id
       rest = rest.slice(unitMatch[0].length).trim()
       if (quantity === null) quantity = 1
+    } else if (SIZE_WORDS[unitMatch[1].toLowerCase()]) {
+      // "10 ohutta viipaletta broileria", "2 isoa nippua tilliä": a size word before the unit
+      const next = rest.slice(unitMatch[0].length).trim().match(/^([\p{L}]+)(?=\s|$|\()/u)
+      const u2 = next && findUnit(next[1])
+      if (u2 && u2.id !== 'kpl') {
+        unit = u2.id
+        sizeBeforeUnit = SIZE_WORDS[unitMatch[1].toLowerCase()]
+        rest = rest.slice(unitMatch[0].length).trim().slice(next[0].length).trim()
+      }
     }
   }
 
@@ -136,7 +147,7 @@ export function parseIngredientLine(rawLine: string): ParsedIngredientLine {
   }
 
   // Size adjective directly after the quantity: "1 iso sipuli"
-  let size: 'S' | 'M' | 'L' | null = null
+  let size: 'S' | 'M' | 'L' | null = sizeBeforeUnit
   const sizeMatch = rest.match(/^(\p{L}+)\s/u)
   if (sizeMatch && SIZE_WORDS[sizeMatch[1].toLowerCase()]) {
     size = SIZE_WORDS[sizeMatch[1].toLowerCase()]

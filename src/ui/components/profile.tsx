@@ -8,7 +8,7 @@ import type { Goal, GoalAim, Person } from '../../domain/types'
 import { GOAL_AIMS } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
 import { Avatar } from './Layout'
-import { cx } from './ui'
+import { cx, NumberInput } from './ui'
 
 export function newPerson(kind: Person['kind'] = 'adult', name = ''): Person {
   return { id: newId(), name, kind, portion: PERSON_KINDS[kind].portion }
@@ -95,14 +95,13 @@ function NumberField({ label, value, onChange, unit, min, max, step = 1 }: { lab
     <label className="block">
       <span className="mb-1 block text-xs font-medium text-ink-2">{label}</span>
       <span className="flex h-11 items-center rounded-xl border border-line bg-surface px-3 focus-within:border-brand">
-        <input
-          type="number"
-          inputMode="decimal"
-          value={Number.isFinite(value) ? value : ''}
-          min={min}
-          max={max}
-          step={step}
-          onChange={(e) => onChange(Number(e.target.value))}
+        <NumberInput
+          bare
+          value={value}
+          onValueChange={(v) => onChange(v ?? NaN)}
+          aria-valuemin={min}
+          aria-valuemax={max}
+          data-step={step}
           className="tabular w-full min-w-0 bg-transparent outline-none"
         />
         <span className="text-sm text-muted">{unit}</span>

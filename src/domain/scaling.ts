@@ -43,9 +43,16 @@ export function normalizeDisplayUnit(quantity: number, unit: string | null): { q
     const q = convert(quantity, unit, target)
     return q !== null && cond(q) ? { quantity: q, unit: target } : null
   }
+  if (u.kind === 'volume') {
+    // Small volumes step down to spoons, and a speck of a spoon is a pinch: never "0 dl" or "0,1 tl".
+    const ml = quantity * (u.factor ?? 1)
+    if (ml < 0.6) return { quantity: 1, unit: 'hyppysellinen' }
+    if (ml < 15 && u.id !== 'mm') return { quantity: ml / 5, unit: 'tl' }
+    if (ml < 50 && (u.id === 'dl' || u.id === 'l' || u.id === 'kuppi' || u.id === 'cl' || u.id === 'ml')) return { quantity: ml / 15, unit: 'rkl' }
+  }
   if (u.id === 'tl') return tryUnit('rkl', (q) => q >= 1 && Math.abs(q * 2 - Math.round(q * 2)) < 0.01) ?? { quantity, unit }
   if (u.id === 'rkl') return tryUnit('dl', (q) => q >= 1) ?? { quantity, unit }
-  if (u.id === 'dl') return tryUnit('l', (q) => q >= 1) ?? tryUnit('rkl', (q) => q < 2 && q >= 1 / 3 && quantity < 0.5) ?? { quantity, unit }
+  if (u.id === 'dl') return tryUnit('l', (q) => q >= 1) ?? { quantity, unit }
   if (u.id === 'ml') return tryUnit('dl', (q) => q >= 1) ?? { quantity, unit }
   if (u.id === 'g') return tryUnit('kg', (q) => q >= 1) ?? { quantity, unit }
   if (u.id === 'kg') return tryUnit('g', (q) => q < 1000) ?? { quantity, unit }

@@ -140,14 +140,16 @@ export function resolveGrams(
     return { grams: q * g, confidence: 0.85, method: 'unit-dictionary', note: `Tyypillinen ${unit.label} ≈ ${g} g` }
   }
   if (unitId === 'kpl') {
-    const sizeKey = ing.size ? SIZE_UNIT[ing.size] : null
-    if (sizeKey && sizeKey !== 'KPL_M' && food?.units[sizeKey]) {
-      return { grams: q * food.units[sizeKey], confidence: 0.85, method: 'piece-fineli', note: `${foodSourceLabel(food)}: ${ing.size === 'S' ? 'pieni' : 'iso'} kpl ≈ ${food.units[sizeKey]} g` }
-    }
+    // The dictionary's piece knows what a recipe means by one ("1 kalafilee"); Fineli's piece may be
+    // the whole animal or plant (a whole cod), so it only comes second.
     if (canonical?.pieceGrams) {
       const sizeFactor = ing.size === 'S' ? 0.6 : ing.size === 'L' ? 1.5 : 1
       const g = canonical.pieceGrams * sizeFactor
       return { grams: q * g, confidence: 0.85, method: 'piece-dictionary', note: `Tyypillinen kappale ≈ ${Math.round(g)} g` }
+    }
+    const sizeKey = ing.size ? SIZE_UNIT[ing.size] : null
+    if (sizeKey && sizeKey !== 'KPL_M' && food?.units[sizeKey]) {
+      return { grams: q * food.units[sizeKey], confidence: 0.85, method: 'piece-fineli', note: `${foodSourceLabel(food)}: ${ing.size === 'S' ? 'pieni' : 'iso'} kpl ≈ ${food.units[sizeKey]} g` }
     }
     if (food?.units.KPL_M) return { grams: q * food.units.KPL_M, confidence: 0.85, method: 'piece-fineli', note: `${foodSourceLabel(food)}: keskikokoinen kpl ≈ ${food.units.KPL_M} g` }
     if (food?.units.KPL_VALM) return { grams: q * food.units.KPL_VALM, confidence: 0.8, method: 'piece-fineli', note: `${foodSourceLabel(food)}: kpl ≈ ${food.units.KPL_VALM} g` }
@@ -201,6 +203,21 @@ export interface NutritionResult {
 /** Threshold above which a mapping/amount is considered "confident" in the UI. */
 export const CONFIDENT_THRESHOLD = 0.7
 
+/** Share of deep-frying oil that ends up in the food. */
+export const FRYING_OIL_ABSORBED = 0.1
+const FRYING_RE = /friteera|uppopaist|uppopaisto|paistamiseen|paistoon|paistorasva|frityyri/i
+
+/**
+ * A litre of oil for deep-frying isn't eaten: count only what the food absorbs. Applies to oil lines
+ * that say so, and to any oil line of half a litre or more (no dressing or sauté uses that much).
+ */
+function fryingOil(raw: string, canonical: CanonicalIngredient | undefined, res: GramsResolution): GramsResolution {
+  if (res.grams === null || !canonical || canonical.category !== 'spices_sauces' || !/-oil$/.test(canonical.id)) return res
+  // "2 rkl öljyä + friteeraukseen": a spoonful said next to the frying oil is still eaten in full
+  if (res.grams < (FRYING_RE.test(raw) ? 80 : 450)) return res
+  return { ...res, grams: res.grams * FRYING_OIL_ABSORBED, confidence: Math.min(res.confidence, 0.6), note: `Paistoöljy: laskettu ruokaan imeytyvä osuus (~${FRYING_OIL_ABSORBED * 100} %)` }
+}
+
 export function computeRecipeNutrition(
   recipe: Pick<Recipe, 'servings' | 'ingredients'>,
   lookup: FineliLookup,
@@ -217,7 +234,7 @@ export function computeRecipeNutrition(
     const canonical = getIngredient(ing.canonicalId)
     const fineliId = ing.fineliId ?? (canonical ? canonicalFood(canonical, lookup).fineliId : null)
     const food = fineliId !== null ? lookup.get(fineliId) : undefined
-    const res = resolveGrams(ing, canonical, food)
+    const res = fryingOil(ing.raw, canonical, resolveGrams(ing, canonical, food))
     const grams = res.grams !== null ? res.grams * applyScaling(1, factor, ing.scaling) : null
     let status: LineStatus
     let nutrients = emptyNutrients()

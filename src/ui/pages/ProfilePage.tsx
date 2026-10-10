@@ -11,7 +11,7 @@ import { formatNumber } from '../../domain/units'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { AimPicker, BodyForm, DEFAULT_GOAL, HouseholdEditor } from '../components/profile'
-import { Button } from '../components/ui'
+import { Button, NumberInput } from '../components/ui'
 import { Panel } from '../components/v2'
 
 const TARGET_FIELDS: { key: keyof NutritionTargets; label: string; unit: string }[] = [
@@ -70,13 +70,10 @@ export function ProfilePage() {
               <label key={f.key} className="block">
                 <span className="mb-1 block text-xs font-medium text-ink-2">{f.label}</span>
                 <span className="flex h-11 items-center rounded-xl border border-line bg-surface px-3 focus-within:border-brand">
-                  <input
-                    inputMode="decimal"
-                    value={targets[f.key] ?? ''}
-                    onChange={(e) => {
-                      const n = Number(e.target.value.replace(',', '.'))
-                      setTargets((t) => ({ ...t, [f.key]: e.target.value.trim() && n > 0 ? n : null }))
-                    }}
+                  <NumberInput
+                    bare
+                    value={targets[f.key] ?? null}
+                    onValueChange={(n) => setTargets((t) => ({ ...t, [f.key]: n && n > 0 ? n : null }))}
                     className="tabular w-full min-w-0 bg-transparent outline-none"
                   />
                   <span className="text-xs text-muted">{f.unit}</span>

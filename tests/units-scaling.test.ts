@@ -58,6 +58,16 @@ describe('recipe scaling', () => {
     expect(normalizeDisplayUnit(6, 'tl')).toEqual({ quantity: 2, unit: 'rkl' })
   })
 
+  it('never shows "0 dl" or "0,2 tl" when scaled down', () => {
+    expect(scaleIngredient(ing('1 dl jääkylmää vettä'), 1 / 8).amountText).toBe('2½ tl')
+    expect(scaleIngredient(ing('½ dl vettä'), 1 / 2).amountText).toBe('1⅔ rkl')
+    expect(scaleIngredient(ing('1 tl kanelia'), 1 / 8).amountText).toBe('¼ tl') // spices scale sublinearly
+    expect(scaleIngredient(ing('½ tl suolaa'), 1 / 10).amountText).toMatch(/^(⅛ tl|1 hyppysellinen)$/)
+    expect(scaleIngredient(ing('1 rkl maitoa'), 1 / 4).amountText).toBe('¾ tl')
+    expect(formatQuantity(0.2)).toBe('¼')
+    expect(formatQuantity(0.1)).toBe('⅛')
+  })
+
   it('scales ranges and package weights', () => {
     const s = scaleIngredient(ing('1-2 valkosipulinkynttä'), 2)
     expect(s.quantity).toBe(2)
@@ -76,5 +86,15 @@ describe('recipe scaling', () => {
   it('leaves unquantified lines alone', () => {
     const s = scaleIngredient(ing('suolaa'), 2)
     expect(s.quantity).toBeNull()
+  })
+})
+
+describe('kitchen rounding', () => {
+  it('rounds spoons to quarters and grams to whole numbers', async () => {
+    const { formatAmountInUnit } = await import('../src/domain/units')
+    expect(formatAmountInUnit(1.149, 'rkl', 1.72)).toBe('1¼–1¾ rkl')
+    expect(formatAmountInUnit(57.5, 'g')).toBe('58 g')
+    expect(formatAmountInUnit(2.5, 'g')).toBe('2½ g')
+    expect(formatAmountInUnit(1.2, 'dl')).toBe('1,2 dl')
   })
 })

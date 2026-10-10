@@ -14,7 +14,7 @@ import type { UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
 import { readTheme, storeTheme, type Theme } from '../theme'
 import { PageHeader } from '../components/Layout'
-import { Button, Card, Field, IconButton, Select, SectionTitle, TextInput } from '../components/ui'
+import { Button, Card, Field, IconButton, NumberInput, Select, SectionTitle } from '../components/ui'
 
 const MAX_IMPORT_BYTES = 25 * 1024 * 1024
 
@@ -120,7 +120,7 @@ export function SettingsPage() {
                 </Field>
               ) : (
                 <Field label="Annoksia ateriaan" hint="Kun ateria lisätään ruokalistalle.">
-                  <TextInput inputMode="decimal" value={draft.defaultServings} onChange={(e) => setDraft((d) => ({ ...d, defaultServings: Math.max(0.5, Number(e.target.value.replace(',', '.')) || 1) }))} />
+                  <NumberInput value={draft.defaultServings} onValueChange={(n) => n && n >= 0.5 && setDraft((d) => ({ ...d, defaultServings: n }))} />
                 </Field>
               )}
               <Field label="Viikko alkaa">

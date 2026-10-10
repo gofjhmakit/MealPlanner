@@ -57,3 +57,26 @@ export function withRecipeType<T extends Pick<Recipe, 'title' | 'category' | 'ta
   const type = recipeType(recipe)
   return { ...recipe, tags: [...new Set([...recipe.tags.filter((tag) => !tag.startsWith('tyyppi:')), `tyyppi:${type}`])] }
 }
+
+const COMPONENT_HEAD_RE = /(kastike|kastikepohja|dippi|levite|hillo|marmeladi|mausteseos|maustesekoitus|mauste|jauhe|marinadi|vinegretti?|vinaigrette|liemi|fondi|öljy|pesto|chutney|majoneesi|aioli|siirappi|kuorrute|täyte|taikina|rub)$/
+const COMPONENT_TITLE_RE = /^(kirkastettu voi|ghee|voikastike)\b/
+
+/**
+ * A part of a meal rather than a meal: sauces, spice mixes, stocks, oils, preserves, doughs.
+ * These are cooked for something else, so the app doesn't offer them as tonight's dinner.
+ */
+export function isMealComponent(recipe: Pick<Recipe, 'title' | 'category' | 'tags'>): boolean {
+  const type = recipeType(recipe)
+  if (type === 'kastike' || type === 'sailyke') return true
+  if (type === 'lisuke') return false // stuffing, eba …: eaten as part of the plate
+  const title = recipe.title.toLowerCase()
+  if (COMPONENT_TITLE_RE.test(title)) return true
+  // "Spagetti ja pinaattipesto", "Uunikalkkuna ja täyte": a dish served with its sauce
+  if (/\sja\s/.test(title)) return false
+  // Head word of the name or of its explanation: "Katsu-kastike (tonkatsu-kastike)", "Meat masala – lihamausteseos".
+  // When the source calls it a main dish, trust the name only ("Jasha maroo – bhutanilainen kanaliemi"),
+  // and a "kastike" is a stew (West African "-kastike" dishes).
+  const parts = title.split(/\s[–—-]\s|\(/).map((p) => p.replace(/[)\s]+$/, '').split(/[\s-]+/).at(-1) ?? '')
+  if (type === 'ateria') return COMPONENT_HEAD_RE.test(parts[0]) && !/kastike$/.test(parts[0])
+  return parts.some((w) => COMPONENT_HEAD_RE.test(w))
+}

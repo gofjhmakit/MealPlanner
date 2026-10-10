@@ -57,6 +57,10 @@ const IRREGULAR_SUFFIXES: [string, string][] = [
   ['vettä', 'vesi'], ['veden', 'vesi'],
   ['lientä', 'liemi'], ['liemen', 'liemi'],
   ['naudan', 'nauta'], ['sian', 'sika'], ['lohta', 'lohi'], ['lohen', 'lohi'],
+  ['siipeä', 'siipi'], ['siivet', 'siipi'], ['siipiä', 'siipi'], ['siiven', 'siipi'],
+  ['koipea', 'koipi'], ['koivet', 'koipi'], ['koipia', 'koipi'], ['koiven', 'koipi'],
+  ['reittä', 'reisi'], ['reidet', 'reisi'], ['reisiä', 'reisi'], ['reiden', 'reisi'],
+  ['fileitä', 'filee'], ['fileet', 'filee'], ['filettä', 'file'],
   ['hernettä', 'herne'], ['herneet', 'herne'], ['herneen', 'herne'],
   ['lehteä', 'lehti'], ['lehdet', 'lehti'], ['lehtiä', 'lehti'],
   ['tomaatin', 'tomaatti'], ['kurkun', 'kurkku'], ['sipulin', 'sipuli'],
@@ -129,6 +133,10 @@ export interface CleanedName {
  * Clean an ingredient name (the part of the line after quantity and unit).
  * "Valio kevytmaitoa" -> "kevytmaitoa"; "sipuli, hienonnettuna" -> name "sipuli", note "hienonnettuna".
  */
+const COMPOUND_HEADS = ['öljy', 'jauho', 'juusto', 'liha', 'kerma', 'maito', 'sokeri', 'kastike', 'liemi', 'mauste', 'siemen', 'pähkinä', 'rouhe', 'hiutale', 'suurimo', 'mehu', 'etikka', 'viini', 'filee', 'file', 'leipä', 'riisi', 'pasta', 'papu', 'kaali', 'sipuli', 'salaatti', 'jogurtti', 'rahka']
+/** Adjectives and participles ("isoja", "kuorittuja", "suolattomia", "tuoreita"), never an ingredient by themselves. */
+const DESCRIBING_RE = /^(isoj?a|pieni(ä|tä)|tuoreit?a|kypsää|kypsiä|kylmää|kylmiä|lämmintä|kuumaa|\p{L}*[aeiouyäö](ttuj?a|ttyj?ä|nutta|nyttä|neita|neitä)|\p{L}*(ttomia|ttömiä|tonta|töntä))$/iu
+
 export function cleanIngredientName(input: string): CleanedName {
   const notes: string[] = []
   let s = input
@@ -148,11 +156,20 @@ export function cleanIngredientName(input: string): CleanedName {
     return ' '
   })
   s = stripBrandsAndNoise(s)
-  // "rouhetta härkäpapu & herne" / "suolaa ja pippuria": the first alternative is the primary ingredient
+  // "maapähkinä- tai rypsiöljyä": the first part shares the head of the second -> "maapähkinäöljyä"
+  s = s.replace(/(\p{L}+)-\s+(tai|ja)\s+(\p{L}+)/u, (m, a: string, conj: string, b: string) => {
+    const head = COMPOUND_HEADS.map((h) => ({ h, i: b.toLowerCase().lastIndexOf(h) })).filter((x) => x.i > 0).sort((x, y) => y.i - x.i)[0]
+    return head ? `${a}${b.slice(head.i)} ${conj} ${b}` : m
+  })
+  // "rouhetta härkäpapu & herne" / "suolaa ja pippuria": the first alternative is the primary ingredient,
+  // unless it is only describing words: "isoja kuorittuja ja suolettomia katkarapuja"
   const alt = s.search(/\s(&|tai|ja)\s/u)
-  if (alt > 0) {
+  if (alt > 0 && !s.slice(0, alt).trim().split(/\s+/).every((w) => DESCRIBING_RE.test(w))) {
+    const first = s.slice(0, alt).trim()
+    const lastWord = s.slice(alt).trim().split(/\s+/).at(-1) ?? ''
     notes.push(s.slice(alt).trim())
-    s = s.slice(0, alt)
+    // "broilerin tai kalkkunan rintafileetä": a lone genitive shares the noun of the last alternative
+    s = /^\p{L}+n$/u.test(first) && /\s\p{L}+n\s/u.test(` ${s.slice(alt).trim()} `) ? `${first} ${lastWord}` : first
   }
   const words = s
     .split(' ')

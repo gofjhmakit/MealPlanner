@@ -14,6 +14,7 @@ import { getIngredient } from './ingredients'
 import type { FineliLookup } from './matcher'
 import { computeRecipeNutrition } from './nutrition'
 import { matchesQuery, recipeDiet, recipeSpecialDiets, recipeTime, searchText } from './recipeInfo'
+import { isMealComponent } from './recipeType'
 import type { MealSlot, Recipe } from './types'
 
 export interface PlanOptions {
@@ -86,6 +87,7 @@ const NOT_MAIN_RE = /jälkiruo|leivonnai|kakku|pulla|keksi|leipä|leivät|juoma|
 function kindsOf(r: Recipe): Set<Kind> {
   const text = `${r.title} ${r.category ?? ''} ${r.tags.join(' ')}`
   const kinds = new Set<Kind>()
+  if (isMealComponent(r)) return kinds // stocks, spice mixes, doughs … are never a meal on their own
   if (BREAKFAST_RE.test(text)) kinds.add('breakfast')
   if (SNACK_RE.test(text)) kinds.add('snack')
   if (MAIN_RE.test(text) && !NOT_MAIN_RE.test(r.category ?? '') && !NOT_MAIN_TITLE_RE.test(r.title) && !kinds.has('breakfast')) kinds.add('main')

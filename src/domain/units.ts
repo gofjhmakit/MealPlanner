@@ -60,6 +60,7 @@ export const UNITS: UnitDef[] = [
   { id: 'oksa', kind: 'count', label: 'oksa', partitive: 'oksaa', forms: ['oksa', 'oksaa', 'lehti', 'lehteä'], genericGrams: 1 },
   { id: 'annos', kind: 'count', label: 'annos', partitive: 'annosta', forms: ['annos', 'annosta'], fineliUnit: 'PORTM', genericGrams: 250 },
   { id: 'kourallinen', kind: 'count', label: 'kourallinen', partitive: 'kourallista', forms: ['kourallinen', 'kourallista', 'kourallisen', 'kourallisia'], genericGrams: 15 },
+  { id: 'pallo', kind: 'count', label: 'pallo', partitive: 'palloa', forms: ['pallo', 'palloa', 'kauhallinen', 'kauhallista'], genericGrams: 55 },
   { id: 'levy', kind: 'count', label: 'levy', forms: ['levy', 'levyä'], genericGrams: 20 },
   { id: 'hyppysellinen', kind: 'count', label: 'hyppysellinen', forms: ['hyppysellinen', 'hyppysellistä', 'ripaus', 'ripaus', 'ripausta', 'nipistys'], genericGrams: 0.5 },
 ]
@@ -118,8 +119,12 @@ export function formatNumber(n: number, maxDecimals = 1): string {
 }
 
 /** Human-friendly quantity: 0.5 -> "½", 1.5 -> "1 ½", 2.25 -> "2 ¼". */
+/** Below 1 a kitchen measure is a fraction, never "0,2": snap to the nearest of these. */
+const SMALL_FRACTIONS: [number, string][] = [[0.125, '⅛'], ...FRACTIONS, [1, '1']]
+
 export function formatQuantity(n: number): string {
   if (n <= 0) return '0'
+  if (n < 1) return SMALL_FRACTIONS.reduce((best, f) => (Math.abs(f[0] - n) < Math.abs(best[0] - n) ? f : best))[1]
   const whole = Math.floor(n)
   const frac = n - whole
   if (n >= 10) return formatNumber(n, n >= 100 ? 0 : 1)
@@ -160,7 +165,20 @@ export function formatCount(n: number, unitId: string): string {
 }
 
 /** Format a quantity in its original unit ("2 dl", "½ tl", "3 kpl"). */
+/** Spoons and cups are measured in quarters and thirds ("1¼ rkl", never "1,1 rkl"); grams and millilitres in whole units. */
+function kitchenRound(n: number, unitId: string | null): number {
+  if (unitId === 'tl' || unitId === 'rkl' || unitId === 'mm' || unitId === 'kuppi') {
+    if (n < 1 || n >= 10) return n
+    const whole = Math.floor(n)
+    return whole + [0, 0.25, 1 / 3, 0.5, 2 / 3, 0.75, 1].reduce((best, f) => (Math.abs(f - (n - whole)) < Math.abs(best - (n - whole)) ? f : best))
+  }
+  if ((unitId === 'g' || unitId === 'ml') && n >= 10) return Math.round(n)
+  return n
+}
+
 export function formatAmountInUnit(quantity: number, unitId: string | null, quantityMax?: number | null): string {
+  quantity = kitchenRound(quantity, unitId)
+  quantityMax = quantityMax != null ? kitchenRound(quantityMax, unitId) : quantityMax
   const q = quantityMax && quantityMax !== quantity
     ? `${formatQuantity(quantity)}–${formatQuantity(quantityMax)}`
     : formatQuantity(quantity)

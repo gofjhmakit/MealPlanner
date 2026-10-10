@@ -4,6 +4,7 @@
  * "tomaatit" ↔ "tomaattia", "salaatti" ↔ "jäävuorisalaattia", "baharatin" ↔ "baharatia".
  * Generic words ("kasvikset", "mausteet") pick up every ingredient of that kind.
  */
+import { lemmaCandidates } from './finnish'
 import { getIngredient } from './ingredients'
 import type { RecipeIngredient, ShoppingCategory } from './types'
 
@@ -32,9 +33,17 @@ function stem(w: string): string {
   return w.slice(0, Math.max(4, w.length - 3))
 }
 
+/** The base form is the head of a compound ingredient word, followed only by an inflection: "jauho" in "vehnäjauhoja". */
+function headOf(word: string, stem: string): boolean {
+  const i = word.lastIndexOf(stem)
+  return i > 0 && word.length - i - stem.length <= 3
+}
+
 export function ingredientsInStep<T extends Pick<RecipeIngredient, 'name' | 'canonicalId' | 'raw'>>(step: string, ingredients: T[]): T[] {
   const stepWords = words(step)
   const stepStems = stepWords.map(stem)
+  // Base forms of five letters or more can be the head of a compound: "jauhot" → "jauho" ↔ "vehnäjauhoja"
+  const stepLemmas = [...new Set(stepWords.flatMap((w) => lemmaCandidates(w)))].filter((l) => l.length >= 5)
   const generic = new Set(stepWords.flatMap((w) => GENERIC.find(([re]) => re.test(w))?.[1] ?? []))
   return ingredients.filter((ing) => {
     if (/:$/.test(ing.raw)) return false
@@ -43,7 +52,12 @@ export function ingredientsInStep<T extends Pick<RecipeIngredient, 'name' | 'can
     const ingWords = words(`${ing.name} ${canonical?.fi ?? ''}`)
     return ingWords.some((iw) => {
       const is = stem(iw)
-      return stepStems.some((ss) => iw.startsWith(ss) || iw.includes(ss.length >= 5 ? ss : '\u0000') || stepWords.some((sw) => sw.startsWith(is)))
+      return (
+        stepStems.some((ss) => iw.startsWith(ss)) ||
+        stepLemmas.some((l) => headOf(iw, l)) ||
+        // a compound ingredient contains the step's word: "kerma" ↔ "kuohukermaa", "kahvi" ↔ "pikakahvijauhetta"
+        stepWords.some((sw) => sw.startsWith(is) || (sw.length >= 5 && iw.includes(sw)))
+      )
     })
   })
 }

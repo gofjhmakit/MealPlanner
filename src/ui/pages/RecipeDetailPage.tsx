@@ -30,6 +30,7 @@ import { CONFIDENT_THRESHOLD, NUTRIENT_INFO, NUTRIENT_KEYS, type NutritionLine }
 import { splitAmountText } from '../../domain/ingredientParser'
 import { foodSourceLabel } from '../../domain/supplementary'
 import { recipeDiet, recipeSpecialDiets, recipeTime, DIET_LABELS, SPECIAL_DIET_LABELS, type SpecialDiets } from '../../domain/recipeInfo'
+import { isMealComponent } from '../../domain/recipeType'
 import { addDays, today } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
 import { nextEmptySlot } from '../../domain/today'
@@ -96,6 +97,8 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const lowConfidence = recipe.ingredients.filter((i) => i.confidence < CONFIDENT_THRESHOLD && i.quantity != null)
   const inPantry = useMemo(() => pantryMatcher(settings.pantry), [settings.pantry])
   const time = recipeTime(recipe)
+  // Sauces, spice mixes, stocks …: cooked for something else, so shopping comes first, not tonight's dinner.
+  const component = isMealComponent(recipe)
 
   // The smart "add" target: the first empty slot that suits this kind of dish.
   const t = today()
@@ -285,14 +288,14 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const fitCard = base && (
     <div className="no-print rounded-[22px] border border-line bg-surface p-4">
       <div className="flex items-baseline justify-between gap-3">
-        <p className="text-sm font-semibold">{kcalTarget && target ? 'Sopii päivääsi' : 'Annos'}</p>
-        {kcalTarget && target ? (
+        <p className="text-sm font-semibold">{kcalTarget && target && !component ? 'Sopii päivääsi' : 'Annos'}</p>
+        {kcalTarget && target && !component ? (
           <p className="tabular text-sm text-muted">
             <span className="font-semibold text-ink">{formatNumber(dayKcal + perServingKcal, 0)}</span> / {formatNumber(kcalTarget, 0)} kcal
           </p>
         ) : null}
       </div>
-      {kcalTarget && target && (
+      {kcalTarget && target && !component && (
         <>
           <div className="mt-2 flex h-2 overflow-hidden rounded-full bg-surface-2" aria-hidden>
             <span className="bg-brand" style={{ width: `${Math.min(100, (dayKcal / kcalTarget) * 100)}%` }} />
@@ -400,11 +403,20 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
 
           {/* Desktop: the primary actions sit here; phones get the sticky bar below. */}
           <div className="no-print hidden gap-2 lg:flex">
-            <Button size="lg" icon={<CalendarPlus size={18} />} onClick={addToTarget} className="flex-1">
-              {target ? `Lisää · ${slotLabel(target.date, target.slot)}` : 'Lisää ruokalistalle'}
-            </Button>
-            <Button size="lg" variant="secondary" onClick={() => setPlanOpen(true)}>Muu päivä…</Button>
-            <Button size="lg" variant="secondary" icon={<ShoppingCart size={18} />} onClick={() => setShopOpen(true)} aria-label="Lisää ostoslistalle" />
+            {component ? (
+              <>
+                <Button size="lg" icon={<ShoppingCart size={18} />} onClick={() => setShopOpen(true)} className="flex-1">Lisää ostoslistalle</Button>
+                <Button size="lg" variant="secondary" icon={<CalendarPlus size={18} />} onClick={() => setPlanOpen(true)}>Ruokalistalle</Button>
+              </>
+            ) : (
+              <>
+                <Button size="lg" icon={<CalendarPlus size={18} />} onClick={addToTarget} className="flex-1">
+                  {target ? `Lisää · ${slotLabel(target.date, target.slot)}` : 'Lisää ruokalistalle'}
+                </Button>
+                <Button size="lg" variant="secondary" onClick={() => setPlanOpen(true)}>Muu päivä</Button>
+                <Button size="lg" variant="secondary" icon={<ShoppingCart size={18} />} onClick={() => setShopOpen(true)} aria-label="Lisää ostoslistalle" />
+              </>
+            )}
           </div>
 
           <div className="grid gap-8 2xl:grid-cols-[300px_minmax(0,1fr)]">
@@ -426,6 +438,16 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
 
       {/* Phones and tablets: thumb-reach primary action */}
       <div className="no-print fixed inset-x-0 bottom-[68px] z-20 border-t border-line bg-surface/95 px-4 py-3 backdrop-blur lg:hidden">
+        {component ? (
+          <div className="mx-auto flex max-w-[720px] gap-2">
+            <button onClick={() => setShopOpen(true)} className="flex h-12 min-w-0 flex-1 items-center justify-center gap-2 rounded-2xl bg-brand px-4 text-sm font-semibold text-on-brand">
+              <ShoppingCart size={18} className="shrink-0" /> Lisää ostoslistalle
+            </button>
+            <button onClick={() => setPlanOpen(true)} className="flex h-12 shrink-0 items-center gap-2 whitespace-nowrap rounded-2xl border border-line px-3 text-sm font-medium">
+              <CalendarPlus size={16} /> Ruokalistalle
+            </button>
+          </div>
+        ) : (
         <div className="mx-auto flex max-w-[720px] gap-2">
           <button onClick={addToTarget} className="flex h-12 min-w-0 flex-1 items-center justify-center gap-2 rounded-2xl bg-brand px-4 text-sm font-semibold text-on-brand">
             <CalendarPlus size={18} className="shrink-0" />
@@ -439,7 +461,8 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
             <ShoppingCart size={18} />
           </button>
         </div>
-        <p className="mt-1 text-center text-[11px] text-muted">Ensimmäinen sopiva tyhjä paikka · {formatNumber(householdServings, 0)} annosta</p>
+        )}
+        <p className="mt-1 text-center text-[11px] text-muted">{component ? 'Osa ateriaa – ei ehdoteta omaksi ateriaksi' : `Ensimmäinen sopiva tyhjä paikka · ${formatNumber(householdServings, 0)} annosta`}</p>
       </div>
       <div className="h-24 lg:hidden" />
 
