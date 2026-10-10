@@ -152,8 +152,12 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
       recipes = suggestForSlot(candidates, quickPlanOptions({ dates: [target.date], people: servings, maxKcalPerDay: kcalTarget, seed: 7 }), target.date, target.slot, budget, new Set(), 6)
     } else recipes = []
     const where = target ?? nextFree
-    for (const c of recipes) out.push({ kind: 'recipe', c, target: where, hint: where ? slotLabel(where.date, where.slot) : '' })
     const q = parsed.query.toLowerCase()
+    // "asetukset", "profiili": a page named like the query comes before recipes that only mention the word.
+    if (q.length >= 3 && !recipes.some((c) => c.recipe.title.toLowerCase().split(/[^\p{L}]+/u).some((w) => w.startsWith(q)))) {
+      for (const a of actions) if (a.kind === 'action' && !out.includes(a) && a.label.toLowerCase().split(/\s+/).some((w) => w.startsWith(q))) out.push(a)
+    }
+    for (const c of recipes) out.push({ kind: 'recipe', c, target: where, hint: where ? slotLabel(where.date, where.slot) : '' })
     for (const a of actions) {
       if (a.kind !== 'action' || out.includes(a)) continue
       if (!q ? !parsed.date && !parsed.slot : a.label.toLowerCase().includes(q) || (a.hint && a.hint.startsWith(q))) out.push(a)

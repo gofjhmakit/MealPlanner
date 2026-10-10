@@ -26,7 +26,7 @@ import {
   syncRollingList,
   toggleShoppingItem,
 } from '../../db/repo'
-import { capitalize, formatDate, today, weekdayName } from '../../domain/dates'
+import { addDays, capitalize, formatDate, today, weekdayName } from '../../domain/dates'
 import { CATEGORY_LABELS, formatShoppingAmount, isStapleLike, pantryMatcher, shoppingListText } from '../../domain/shoppingList'
 import { SHOPPING_CATEGORIES, type Recipe, type ShoppingCategory, type ShoppingItem, type ShoppingList } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
@@ -117,7 +117,7 @@ function ListView({ listId, onBack }: { listId: string; onBack: () => void }) {
   const amountText = (i: ShoppingItem) => (i.manual ? (i.manualAmount ?? '') : formatShoppingAmount(i.amount))
   const planned = (meals ?? []).filter((m) => m.recipeId && m.status !== 'skipped')
   const cooked = planned.filter((m) => !m.leftoverOfId)
-  const days = rolling ? `${capitalize(weekdayName(list.from, true))}–${weekdayName(list.to, true)}` : hasRange ? `${formatDate(list.from)}–${formatDate(list.to)}` : 'Suoraan lisätyt reseptit'
+  const days = rolling ? (list.to >= addDays(list.from, 6) ? `${capitalize(weekdayName(list.from, true))} ${formatDate(list.from)}–${weekdayName(list.to, true)} ${formatDate(list.to)}` : `${capitalize(weekdayName(list.from, true))}–${weekdayName(list.to, true)}`) : hasRange ? `${formatDate(list.from)}–${formatDate(list.to)}` : 'Suoraan lisätyt reseptit'
 
   async function share() {
     const text = shoppingListText(rolling ? `Ostokset ${days}` : list!.name, toBuy.map((i) => ({ name: i.name, amountText: amountText(i), category: i.category, checked: i.checked })))
@@ -506,6 +506,7 @@ function AddItemForm({ listId, onDone }: { listId: string; onDone: () => void })
     if (!name.trim()) return
     // "2 kg perunoita" → Peruna, 2 kg, on the vegetable shelf; unknown things ("Fairy") stay as typed.
     const split = amount.trim() ? { amount: amount.trim(), rest: name.trim() } : splitAmountText(name)
+    if (/^\d+([,.]\d+)?$/.test(split.amount)) split.amount += ' kpl'
     const typed = split.rest || name.trim()
     const m = matchIngredient(typed, { fineli })
     const canonical = m.confidence >= 0.5 ? getIngredient(m.canonicalId) : undefined

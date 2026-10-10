@@ -203,7 +203,7 @@ export function SettingsPage() {
           </dl>
           <p className="mt-3 text-xs text-muted">{fineli.meta?.attribution ?? 'Fineli – Terveyden ja hyvinvoinnin laitos (THL)'}. THL ei vastaa tietojen tulkinnasta. Ravintoarvot ovat arvioita.</p>
           <SupplementaryDataInfo />
-          <Button variant="secondary" size="sm" className="mt-3" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa ravintotiedot ja katalogireseptit uudelleen</Button>
+          <Button variant="secondary" size="sm" className="mt-3 h-auto min-h-9 max-w-full whitespace-normal py-1.5 text-left" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa ravintotiedot ja katalogireseptit uudelleen</Button>
         </Card>
 
         <OpenRecipeSources />

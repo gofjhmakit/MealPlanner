@@ -551,7 +551,7 @@ function RecipeDrawer({ candidates, selected, items, dayKcal }: { candidates: Ca
     <div>
       <label className="flex h-10 items-center gap-2 rounded-xl border border-line px-3 focus-within:border-brand">
         <Search size={15} className="text-muted" />
-        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Hae ${candidates ? formatNumber(candidates.length, 0) : ''} reseptistä`} className="min-w-0 flex-1 bg-transparent text-sm outline-none" aria-label="Hae reseptiä" />
+        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Hae ${candidates ? formatNumber(candidates.filter((c) => c.recipe.sourceId !== 'fineli').length, 0) : ''} reseptistä`} className="min-w-0 flex-1 bg-transparent text-sm outline-none" aria-label="Hae reseptiä" />
       </label>
       {!q && (
         <div className="mt-3 flex flex-wrap gap-1.5">

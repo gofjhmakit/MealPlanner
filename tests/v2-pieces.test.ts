@@ -114,3 +114,11 @@ describe('search order', () => {
     expect(queryRelevance(curry, 'kana')).toBeGreaterThan(queryRelevance(pavlova, 'kana'))
   })
 })
+
+describe('suspended compounds with an inflected head', () => {
+  it.each([
+    ['1 l kana- tai kasvislientä', 'chicken-stock'],
+    ['1,2 l naudan- tai vasikanlientä', 'beef-stock'],
+    ['1 l kala- tai kasvislientä', 'fish-stock'],
+  ])('%s', (line, id) => expect(grams(line).id).toBe(id))
+})

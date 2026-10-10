@@ -133,7 +133,7 @@ export interface CleanedName {
  * Clean an ingredient name (the part of the line after quantity and unit).
  * "Valio kevytmaitoa" -> "kevytmaitoa"; "sipuli, hienonnettuna" -> name "sipuli", note "hienonnettuna".
  */
-const COMPOUND_HEADS = ['öljy', 'jauho', 'juusto', 'liha', 'kerma', 'maito', 'sokeri', 'kastike', 'liemi', 'mauste', 'siemen', 'pähkinä', 'rouhe', 'hiutale', 'suurimo', 'mehu', 'etikka', 'viini', 'filee', 'file', 'leipä', 'riisi', 'pasta', 'papu', 'kaali', 'sipuli', 'salaatti', 'jogurtti', 'rahka']
+const COMPOUND_HEADS = ['öljy', 'jauho', 'juusto', 'liha', 'kerma', 'maito', 'sokeri', 'kastike', 'liem', 'lien', 'pähkinö', 'mauste', 'siemen', 'pähkinä', 'rouhe', 'hiutale', 'suurimo', 'mehu', 'etikka', 'viini', 'filee', 'file', 'leipä', 'riisi', 'pasta', 'papu', 'kaali', 'sipuli', 'salaatti', 'jogurtti', 'rahka']
 /** Adjectives and participles ("isoja", "kuorittuja", "suolattomia", "tuoreita"), never an ingredient by themselves. */
 const DESCRIBING_RE = /^(isoj?a|pieni(ä|tä)|tuoreit?a|kypsää|kypsiä|kylmää|kylmiä|lämmintä|kuumaa|\p{L}*[aeiouyäö](ttuj?a|ttyj?ä|nutta|nyttä|neita|neitä)|\p{L}*(ttomia|ttömiä|tonta|töntä|llisia|llisiä|llista|llistä))$/iu
 
