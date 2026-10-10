@@ -193,7 +193,7 @@ export const INGREDIENTS: CanonicalIngredient[] = [
     'broilerin paistileike', 'reisifilee', 'broilerin reisipala', 'kanan reisifilee', 'broilerin fileepala reisi', 'broilerin pala', 'broilerinpala', 'kananpala', 'kanan pala', 'broilerin koipi ja reisi',
     'broilerin reisifile', 'reisifile', 'kanan reisifile', 'broilerin koipipala', 'koipipala', 'broilerin reidet', 'broilerin koipireidet', 'kanankoipireisi', 'kanan koipi',
   ], { pieceGrams: 150, unitGrams: { pkt: 600, rs: 600 } }),
-  ing('chicken-whole', 'Broileri', 'Whole chicken', M, 'meat', 751, ['broileri', 'kokonainen broileri', 'kana', 'kokobroileri', 'kananpoika', 'grillattu broileri', 'grillibroileri'], { pieceGrams: 1200, fineliConfidence: 0.9 }),
+  ing('chicken-whole', 'Broileri', 'Whole chicken', M, 'meat', 751, ['broileri', 'kokonainen broileri', 'kana', 'kokobroileri', 'kananpoika', 'grillattu broileri', 'grillibroileri', 'kananliha', 'broilerinliha', 'kanan liha', 'broilerin liha'], { pieceGrams: 1200, fineliConfidence: 0.9 }),
   ing('chicken-wing', 'Broilerin siipi', 'Chicken wing', M, 'meat', 30265, ['broilerin siipi', 'broilerin siipipala', 'siipipala', 'kanansiipi', 'kanan siipi', 'broilerinsiipi', 'siipi', 'broilerin siivet', 'kanansiivet'], { pieceGrams: 80, unitGrams: { pkt: 800, rs: 800 } }),
   ing('chicken-mince', 'Broilerin jauheliha', 'Chicken mince', M, 'meat', 28930, ['broilerin jauheliha', 'kanajauheliha', 'broilerijauheliha', 'kanan jauheliha'], { unitGrams: { pkt: 400, rs: 400 } }),
   ing('turkey', 'Kalkkunan rintafilee', 'Turkey breast', M, 'meat', 11551, ['kalkkunan rintafilee', 'kalkkuna', 'kalkkunafilee', 'kalkkunan filee', 'kalkkunasuikale', 'kalkkunan fileesuikale']),
@@ -243,7 +243,7 @@ export const INGREDIENTS: CanonicalIngredient[] = [
   // --- Dairy & eggs -------------------------------------------------------------------------
   ing('milk', 'Maito', 'Milk', D, 'vegetarian', 33466, ['maito', 'maitojuoma'], { notWithPrefixes: MILK_LIKE_PREFIXES, shoppingUnit: 'volume', fineliConfidence: 0.95 }),
   ing('milk-semi', 'Kevytmaito', 'Semi-skimmed milk', D, 'vegetarian', 684, ['kevytmaito', 'kevytmaitojuoma', 'kevyt maito', 'laktoositon kevytmaitojuoma', 'kevytmaito 1,5 %', 'hyla kevytmaito'], { shoppingUnit: 'volume' }),
-  ing('milk-skimmed', 'Rasvaton maito', 'Skimmed milk', D, 'vegetarian', 606, ['rasvaton maito', 'rasvaton maitojuoma', 'rasvaton', 'kurri'], { shoppingUnit: 'volume' }),
+  ing('milk-skimmed', 'Rasvaton maito', 'Skimmed milk', D, 'vegetarian', 606, ['rasvaton maito', 'rasvaton maitojuoma', 'kurri'], { shoppingUnit: 'volume' }),
   ing('milk-whole', 'Täysmaito', 'Whole milk', D, 'vegetarian', 689, ['täysmaito', 'täysmaitojuoma', 'täysmaito 3,5 %'], { shoppingUnit: 'volume' }),
   ing('milk-1pct', 'Ykkösmaito', '1 % milk', D, 'vegetarian', 627, ['ykkösmaito', 'ykkösmaitojuoma'], { shoppingUnit: 'volume' }),
   ing('cream', 'Kuohukerma', 'Whipping cream', D, 'vegetarian', 631, ['kuohukerma', 'vispikerma', 'kerma', 'vispautuva kerma', 'täysrasvainen kerma', 'kuohukerma 35 %', 'kermavaahto'], { notWithPrefixes: ['kasvi', 'kaura', 'soija', 'kookos', 'hapan', 'kahvi', 'ruoanvalmistus', 'ruoka'], shoppingUnit: 'volume', unitGrams: { prk: 200, tlk: 200 } }),

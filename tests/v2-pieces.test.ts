@@ -4,6 +4,7 @@ import { computeRecipeNutrition, resolveGrams } from '../src/domain/nutrition'
 import { getIngredient } from '../src/domain/ingredients'
 import { canonicalFood } from '../src/domain/matcher'
 import { fullFoodLookup } from './helpers'
+import { queryRelevance } from '../src/domain/recipeInfo'
 
 const lookup = fullFoodLookup()
 function grams(line: string) {
@@ -76,5 +77,40 @@ describe('step ingredients in compounds', async () => {
     expect(raws('Liuota kahvi veteen.')).toEqual(['2 rkl pikakahvijauhetta'])
     expect(raws('Sekoita jauhot ja suola.')).toEqual(['3 dl vehnäjauhoja', '1 tl suolaa'])
     expect(raws('Ruskista kanaa.')).toEqual([])
+  })
+})
+
+describe('adjectives listed with commas', () => {
+  it.each([
+    ['600 g luuttomia, nahallisia broilerin reisifileitä, 2½–3 cm:n paloina', 'chicken-thigh'],
+    ['4 luutonta, nahatonta broilerin rintafileetä', 'chicken-breast'],
+    ['7 kypsää, pulleaa taatelia', 'date'],
+    ['450 g keitettyä, suikaloitua kananlihaa', 'chicken-whole'],
+  ])('%s', (line, id) => expect(grams(line).id).toBe(id))
+})
+
+describe('cooked rice and pasta', () => {
+  it.each([
+    ['1 l keitettyä, edellisen päivän jasmiiniriisiä', 'cooked-rice'],
+    ['600 g keitettyä basmatiriisiä', 'cooked-rice'],
+    ['5 dl keitettyä pientä pastaa', 'cooked-pasta'],
+    ['3 dl jasmiiniriisiä', 'rice'],
+    ['400 g spagettia, keitettynä', 'pasta'],
+  ])('%s', (line, id) => expect(grams(line).id).toBe(id))
+})
+
+describe('"rasvaton" alone is not milk', () => {
+  it.each(['1 dl rasvatonta maitojauhetta', '1 rkl rasvatonta ranch-kastiketta'])('%s', (line) => expect(grams(line).id).not.toBe('milk-skimmed'))
+})
+
+describe('search order', () => {
+  const r = (title: string, lines: string[]) =>
+    ({ id: title, title, servings: 4, ingredients: lines.map((l) => buildRecipeIngredient(l, { fineli: lookup })), instructions: [], tags: [], origin: 'user', createdAt: '', updatedAt: '' }) as never
+  it('a dish named after the word beats one that only contains it', () => {
+    const pavlova = r('Pavlova', ['4 kananmunanvalkuaista', '2 dl sokeria'])
+    const curry = r('Kanacurry', ['500 g broilerin fileesuikaleita'])
+    const soup = r('Kana-nuudelikeitto', ['1 l kanalientä'])
+    expect(queryRelevance(soup, 'kana')).toBeGreaterThan(queryRelevance(curry, 'kana'))
+    expect(queryRelevance(curry, 'kana')).toBeGreaterThan(queryRelevance(pavlova, 'kana'))
   })
 })

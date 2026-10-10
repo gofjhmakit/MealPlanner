@@ -5,14 +5,15 @@
  *   ≥ 1280      236 px sidebar with the household (264 px from 1920)
  * Keyboard: 1–4 switch sections, ⌘K / Ctrl+K / "/" open the command bar.
  */
-import { BookOpen, CalendarDays, Download, Monitor, Moon, Package, Plus, Search, Settings, ShoppingCart, Sun, SunMedium, User } from 'lucide-react'
-import { useEffect, useRef, useState, useSyncExternalStore, type ReactNode } from 'react'
+import { BookOpen, CalendarDays, X, Download, Monitor, Moon, Package, Plus, Search, Settings, ShoppingCart, Sun, SunMedium, User } from 'lucide-react'
+import { useEffect, useLayoutEffect, useRef, useState, useSyncExternalStore, type ReactNode } from 'react'
 import { createPortal } from 'react-dom'
-import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router'
+import { Link, NavLink, Outlet, useLocation, useNavigate, useNavigationType } from 'react-router'
 import { readTheme, storeTheme, type Theme } from '../theme'
 import { useApp } from '../AppContext'
 import { CommandProvider, useCommand } from '../command'
 import { cx } from './ui'
+import { formatLeft, removeTimer, secondsLeft, useCookTimers } from '../cookTimers'
 
 export const NAV = [
   { to: '/', label: 'Tänään', icon: SunMedium, end: true, key: '1' },
@@ -53,13 +54,60 @@ export function Layout() {
   )
 }
 
-function Shell() {
+/**
+ * New pages start from the top; Back returns to where you were. Pages load their data
+ * asynchronously, so the old position is retried until the page is tall enough (or you scroll).
+ */
+function useScrollMemory() {
   const location = useLocation()
+  const navType = useNavigationType()
+  const positions = useRef(new Map<string, number>())
+  const current = useRef(location.key)
+  const lastPath = useRef(location.pathname)
+
+  useEffect(() => {
+    const save = () => positions.current.set(current.current, window.scrollY)
+    window.addEventListener('scroll', save, { passive: true })
+    return () => window.removeEventListener('scroll', save)
+  }, [])
+
+  useLayoutEffect(() => {
+    current.current = location.key
+    const pathChanged = lastPath.current !== location.pathname
+    lastPath.current = location.pathname
+    if (navType !== 'POP') {
+      if (pathChanged) window.scrollTo({ top: 0 })
+      return
+    }
+    const target = positions.current.get(location.key) ?? 0
+    let stopped = false
+    const stop = () => (stopped = true)
+    const opts = { passive: true, once: true }
+    window.addEventListener('wheel', stop, opts)
+    window.addEventListener('touchstart', stop, opts)
+    window.addEventListener('keydown', stop, opts)
+    const started = performance.now()
+    let frame = 0
+    const tick = () => {
+      if (stopped) return
+      window.scrollTo({ top: target })
+      if (Math.abs(window.scrollY - target) > 2 && performance.now() - started < 2000) frame = requestAnimationFrame(tick)
+    }
+    tick()
+    return () => {
+      stopped = true
+      cancelAnimationFrame(frame)
+      window.removeEventListener('wheel', stop)
+      window.removeEventListener('touchstart', stop)
+      window.removeEventListener('keydown', stop)
+    }
+  }, [location.key, location.pathname, navType])
+}
+
+function Shell() {
   const navigate = useNavigate()
   const command = useCommand()
-  useEffect(() => {
-    window.scrollTo({ top: 0 })
-  }, [location.pathname])
+  useScrollMemory()
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -86,6 +134,7 @@ function Shell() {
         Siirry sisältöön
       </a>
       <Sidebar />
+      <TimerDock />
       <div className="flex min-w-0 flex-1 flex-col">
         <TopBar />
         <main id="main" className="min-w-0 flex-1 px-4 pb-28 pt-4 md:px-8 lg:pb-12 lg:pt-6 3xl:px-12">
@@ -320,6 +369,32 @@ export function PageHeader({ title, eyebrow, subtitle, actions, mobileActions }:
       </div>
       {!desktop && actions && mobileActions === undefined && <div className="no-print mt-3 flex flex-wrap items-center gap-2">{actions}</div>}
       {desktop && target && actions ? createPortal(actions, target) : null}
+    </div>
+  )
+}
+
+/** Running cooking timers, on every page: tap to go back to cook mode, × to dismiss. */
+function TimerDock() {
+  const { timers, now } = useCookTimers()
+  const { search } = useLocation()
+  if (!timers.length || new URLSearchParams(search).get('kokkaa') === '1') return null
+  const sorted = [...timers].sort((a, b) => a.end - b.end)
+  return (
+    <div className="no-print pointer-events-none fixed inset-x-0 top-[max(1rem,env(safe-area-inset-top))] z-40 flex flex-col items-center gap-1.5 pl-16 pr-[9.5rem] sm:px-16 lg:inset-x-auto lg:top-auto lg:right-6 lg:bottom-6 lg:items-end lg:px-0">
+      {sorted.map((t) => {
+        const left = secondsLeft(t, now)
+        return (
+          <div key={t.id} className={cx('pointer-events-auto flex max-w-full items-center rounded-full shadow-lg', left === 0 ? 'animate-pulse bg-accent text-white' : 'bg-sun-soft text-warn')}>
+            <Link to={`/reseptit/${t.recipeId}?kokkaa=1`} aria-label={`${t.recipeTitle}: ${t.label}`} className="tabular flex min-w-0 items-center gap-1.5 py-1.5 pl-3 text-sm font-semibold">
+              <span>{left === 0 ? 'Valmis!' : formatLeft(left)}</span>
+              <span className="hidden truncate font-medium opacity-80 sm:inline">{t.recipeTitle}</span>
+            </Link>
+            <button onClick={() => removeTimer(t.id)} aria-label={`Poista ajastin: ${t.label}`} className="flex h-8 w-7 shrink-0 items-center justify-center rounded-full">
+              <X size={14} />
+            </button>
+          </div>
+        )
+      })}
     </div>
   )
 }

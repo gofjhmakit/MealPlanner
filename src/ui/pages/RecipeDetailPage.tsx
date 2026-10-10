@@ -36,6 +36,7 @@ import { addDays, today } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
 import { nextEmptySlot } from '../../domain/today'
 import { splitTimers } from '../../domain/timers'
+import { formatLeft, removeTimer, secondsLeft, startTimer as startCookTimer, useCookTimers } from '../cookTimers'
 import { ingredientsInStep } from '../../domain/stepIngredients'
 import { scaleIngredient } from '../../domain/scaling'
 import type { MealSlot, Nutrients, Recipe, RecipeIngredient } from '../../domain/types'
@@ -277,7 +278,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
             ) : (
               <li key={i} className="flex gap-3">
                 <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-soft text-sm font-semibold text-brand">{i + 1}</span>
-                <p className="pt-0.5 leading-relaxed">{withTimers(step)}</p>
+                <p className="pt-0.5 leading-relaxed">{withTimers(step, recipe, i + 1)}</p>
               </li>
             ),
           )}
@@ -574,10 +575,10 @@ function WeekPlacement({ recipeId }: { recipeId: string }) {
 }
 
 /** Durations in instruction text ("20–25 minuuttia", "1 tunti") become small timer chips. */
-function withTimers(step: string): ReactNode {
+function withTimers(step: string, recipe: Recipe, stepNo: number): ReactNode {
   const parts = splitTimers(step)
   if (parts.length === 1) return step
-  return parts.map((p, i) => (typeof p === 'string' ? <span key={i}>{p}</span> : <TimerChip key={i} label={p.text} seconds={p.seconds} />))
+  return parts.map((p, i) => (typeof p === 'string' ? <span key={i}>{p}</span> : <TimerChip key={i} label={`Vaihe ${stepNo}: ${p.text}`} text={p.text} seconds={p.seconds} recipe={recipe} />))
 }
 
 function basisLabel(b: string): string {
@@ -752,9 +753,32 @@ function stepTextClass(length: number): string {
 
 function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; factor: number; servings: number; onClose: () => void }) {
   const steps = recipe.instructions.map((s, i) => ({ s, i })).filter((x) => !x.s.endsWith(':'))
-  const [index, setIndex] = useState(0)
+  // Closing cook mode midway and coming back continues from the same step.
+  const stepKey = `cook.step:${recipe.id}`
+  const [index, setIndex] = useState(() => {
+    try {
+      return Math.min(steps.length - 1, Math.max(0, Number(sessionStorage.getItem(stepKey)) || 0))
+    } catch {
+      return 0
+    }
+  })
+  useEffect(() => {
+    try {
+      sessionStorage.setItem(stepKey, String(index))
+    } catch {
+      // private window
+    }
+  }, [stepKey, index])
+  const finish = () => {
+    try {
+      sessionStorage.removeItem(stepKey)
+    } catch {
+      // private window
+    }
+    onClose()
+  }
   const [wakeLock, setWakeLock] = useState<'on' | 'unsupported' | 'off'>('off')
-  const [timers, setTimers] = useState<{ id: number; label: string; end: number }[]>([])
+  const { timers, now } = useCookTimers()
   const [showIngredients, setShowIngredients] = useState(false)
   const [allSteps, setAllSteps] = useState(() => {
     try {
@@ -763,7 +787,6 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
       return false
     }
   })
-  const [, tick] = useState(0)
   const scroller = useRef<HTMLElement>(null)
   useScrollLock()
 
@@ -802,12 +825,6 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
     }
   }, [])
 
-  useEffect(() => {
-    if (!timers.length) return
-    const id = setInterval(() => tick((n) => n + 1), 1000)
-    return () => clearInterval(id)
-  }, [timers.length])
-
   // Keep the current step in view when it changes (or when the view mode changes: jump, don't glide).
   const lastMode = useRef(allSteps)
   useEffect(() => {
@@ -829,7 +846,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
   const current = steps[index]
   const timersOf = (s: string) => splitTimers(s).filter((p): p is { text: string; seconds: number } => typeof p !== 'string')
   const stepTimers = current ? timersOf(current.s) : []
-  const startTimer = (label: string, seconds: number) => setTimers((t) => [...t, { id: Date.now(), label, end: Date.now() + seconds * 1000 }])
+  const startTimer = (label: string, seconds: number) => startCookTimer({ label, end: Date.now() + seconds * 1000, recipeId: recipe.id, recipeTitle: recipe.title })
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -972,10 +989,10 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
       {timers.length > 0 && (
         <div className="flex flex-wrap gap-2 border-t border-line bg-surface px-5 py-2">
           {timers.map((tm) => {
-            const left = Math.max(0, Math.round((tm.end - Date.now()) / 1000))
+            const left = secondsLeft(tm, now)
             return (
-              <button key={tm.id} onClick={() => setTimers((t) => t.filter((x) => x.id !== tm.id))} className={cx('tabular inline-flex items-center gap-2 rounded-full px-3 py-1.5 text-sm font-semibold', left === 0 ? 'animate-pulse bg-accent text-white' : 'bg-sun-soft text-warn')} title="Poista ajastin">
-                <Timer size={14} /> {Math.floor(left / 60)}:{String(left % 60).padStart(2, '0')} · {tm.label}
+              <button key={tm.id} onClick={() => removeTimer(tm.id)} className={cx('tabular inline-flex items-center gap-2 rounded-full px-3 py-1.5 text-sm font-semibold', left === 0 ? 'animate-pulse bg-accent text-white' : 'bg-sun-soft text-warn')} title="Poista ajastin">
+                <Timer size={14} /> {formatLeft(left)} · {tm.recipeId === recipe.id ? tm.label : tm.recipeTitle} <X size={13} className="opacity-60" />
               </button>
             )
           })}
@@ -995,30 +1012,25 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
         {index < steps.length - 1 ? (
           <Button size="lg" onClick={() => setIndex((i) => i + 1)}>Seuraava</Button>
         ) : (
-          <Button size="lg" onClick={onClose}>Valmis!</Button>
+          <Button size="lg" onClick={finish}>Valmis!</Button>
         )}
       </footer>
     </div>
   )
 }
 
-function TimerChip({ label, seconds }: { label: string; seconds: number }) {
-  const [end, setEnd] = useState<number | null>(null)
-  const [, tick] = useState(0)
-  useEffect(() => {
-    if (!end) return
-    const id = setInterval(() => tick((n) => n + 1), 1000)
-    return () => clearInterval(id)
-  }, [end])
-  const left = end ? Math.max(0, Math.round((end - Date.now()) / 1000)) : null
+function TimerChip({ label, text, seconds, recipe }: { label: string; text: string; seconds: number; recipe: Recipe }) {
+  const { timers, now } = useCookTimers()
+  const running = timers.find((t) => t.recipeId === recipe.id && t.label === label)
+  const left = running ? secondsLeft(running, now) : null
   return (
     <button
-      onClick={() => setEnd(end ? null : Date.now() + seconds * 1000)}
+      onClick={() => (running ? removeTimer(running.id) : startCookTimer({ label, end: Date.now() + seconds * 1000, recipeId: recipe.id, recipeTitle: recipe.title }))}
       className={cx('inline-flex items-center gap-1 rounded-md px-1.5 align-baseline text-[0.95em] font-medium', left === 0 ? 'bg-accent text-white' : 'bg-sun-soft text-warn')}
-      title={end ? 'Pysäytä ajastin' : 'Käynnistä ajastin'}
+      title={running ? 'Pysäytä ajastin' : 'Käynnistä ajastin'}
     >
       <Timer size={12} className="self-center" />
-      {left !== null ? `${Math.floor(left / 60)}:${String(left % 60).padStart(2, '0')}` : label}
+      {left !== null ? formatLeft(left) : text}
     </button>
   )
 }

@@ -128,6 +128,24 @@ export function matchesQuery(haystack: string, query: string): boolean {
   })
 }
 
+/**
+ * How well a recipe answers the search, for ordering results: a hit in the title beats a hit in the
+ * ingredients, and a whole word ("kanaa" → kana) beats the start of a longer one ("kananmuna").
+ */
+export function queryRelevance(recipe: Recipe, query: string): number {
+  const words = tokenize(query.toLowerCase())
+  const titleWords = recipe.title.toLowerCase().split(/[^\p{L}\d]+/u)
+  const hayWords = searchText(recipe).split(/[^\p{L}\d]+/u)
+  let score = 0
+  for (const w of words) {
+    const cands = lemmaCandidates(w).filter((c) => c.length >= (w.length <= 4 ? w.length : Math.max(4, w.length - 3)))
+    const whole = (h: string) => cands.some((c) => h.startsWith(c) && h.length - c.length <= 3)
+    const part = (h: string) => cands.some((c) => h.startsWith(c) || (c.length >= 4 && h.endsWith(c)) || (c.length >= 6 && h.includes(c)))
+    score += titleWords.some(whole) ? 6 : titleWords.some(part) ? 4 : hayWords.some(whole) ? 1 : 0
+  }
+  return score
+}
+
 /** Share of a recipe's ingredients found in the pantry list (basic seasonings don't count against). */
 export function pantryShare(recipe: Recipe, pantry: string[]): number {
   const pantryKeys = new Set(pantry.map((p) => normalizeKey(p)))

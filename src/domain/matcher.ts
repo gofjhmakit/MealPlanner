@@ -331,7 +331,17 @@ export function matchIngredient(name: string, ctx: MatchContext = {}, raw?: stri
   return result(product.ing, 0.9, 'alias', auto.key, `Tuotenimi "${product.name}"`, ctx)
 }
 
+/** "keitettyä, edellisen päivän jasmiiniriisiä": dry rice or pasta named as cooked is the cooked food. */
+const COOKED_RE = /(^|\s)(keitet|kypsä|kypsiä|kypsen|jäähtyn)/i
+const COOKED_FORM: Record<string, string> = { rice: 'cooked-rice', pasta: 'cooked-pasta' }
+
 function matchIngredientAuto(name: string, ctx: MatchContext): IngredientMatch {
+  const m = matchIngredientName(name, ctx)
+  const cooked = m.method !== 'user' && m.canonicalId ? getIngredient(COOKED_FORM[m.canonicalId]) : undefined
+  return cooked && COOKED_RE.test(cleanIngredientName(name).name) ? result(cooked, m.confidence / Math.max(0.01, getIngredient(m.canonicalId)!.fineliConfidence), m.method, m.key, `Kypsä ${cooked.fi.toLowerCase()}`, ctx) : m
+}
+
+function matchIngredientName(name: string, ctx: MatchContext): IngredientMatch {
   const cleaned = cleanIngredientName(name).name
   const key = normalizeKey(name)
 

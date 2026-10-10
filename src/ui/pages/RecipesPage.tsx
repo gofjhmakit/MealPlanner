@@ -6,7 +6,7 @@
 import { BookOpen, Download, Plus, Search, SlidersHorizontal } from 'lucide-react'
 import { useMemo, useState, type ReactNode } from 'react'
 import { Link, useSearchParams } from 'react-router'
-import { EMPTY_FILTERS, filterRecipes, LOW_CALORIE_MAX_KCAL, QUICK_MAX_MIN, recipeNutritionCached, type RecipeFilters } from '../../domain/recipeInfo'
+import { EMPTY_FILTERS, filterRecipes, queryRelevance, LOW_CALORIE_MAX_KCAL, QUICK_MAX_MIN, recipeNutritionCached, type RecipeFilters } from '../../domain/recipeInfo'
 import { RECIPE_TYPES, type RecipeType } from '../../domain/recipeType'
 import type { Recipe } from '../../domain/types'
 import { useApp } from '../AppContext'
@@ -14,7 +14,7 @@ import { PageHeader } from '../components/Layout'
 import { RecipeCard } from '../components/recipe'
 import { Button, Chip, cx, EmptyState, Select, Spinner } from '../components/ui'
 import { Segmented, Sheet } from '../components/v2'
-import { useAllRecipes, useFavouriteIds } from '../hooks'
+import { useAllRecipes, useEntryState, useFavouriteIds } from '../hooks'
 
 type Tab = 'loyda' | 'omat' | 'suosikit'
 type Sort = 'recommended' | 'protein' | 'kcal' | 'name' | 'newest' | 'rating'
@@ -45,10 +45,10 @@ export function RecipesPage() {
   const tabParam = params.get('tab')
   const tab: Tab = tabParam === 'omat' || tabParam === 'suosikit' ? tabParam : 'loyda'
   const sourceFilter = params.get('lahde') ?? ''
-  const [filters, setFilters] = useState<RecipeFilters>({ ...EMPTY_FILTERS, query: params.get('q') ?? '' })
-  const [filling, setFilling] = useState(false)
-  const [sort, setSort] = useState<Sort>('recommended')
-  const [limit, setLimit] = useState(PAGE)
+  const [filters, setFilters] = useEntryState<RecipeFilters>('filters', { ...EMPTY_FILTERS, query: params.get('q') ?? '' })
+  const [filling, setFilling] = useEntryState('filling', false)
+  const [sort, setSort] = useEntryState<Sort>('sort', 'recommended')
+  const [limit, setLimit] = useEntryState('limit', PAGE)
   const [sheet, setSheet] = useState(false)
 
   const setParam = (key: string, value: string | null) => {
@@ -114,9 +114,10 @@ export function RecipesPage() {
       const n = nutritionOf(r)
       return n.energyKcal > 0 ? n.protein / n.energyKcal : 0
     }
+    const relevance = new Map(searching && sort === 'recommended' ? filtered.map((r) => [r.id, queryRelevance(r, filters.query)]) : [])
     return filtered.sort((a, b) =>
       sort === 'recommended'
-        ? score(b) - score(a)
+        ? (relevance.get(b.id) ?? 0) - (relevance.get(a.id) ?? 0) || score(b) - score(a)
         : sort === 'protein'
           ? proteinDensity(b) - proteinDensity(a)
           : sort === 'kcal'

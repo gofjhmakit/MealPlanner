@@ -9,7 +9,7 @@ import { safeHttpUrl } from '../../domain/url'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { Button, Card, EmptyState, Field, Select, Spinner, TextInput } from '../components/ui'
-import { useRecipe, useBack } from '../hooks'
+import { useRecipe, useBack, useUnsavedGuard } from '../hooks'
 
 export function RecipeEditPage() {
   const { id } = useParams()
@@ -55,6 +55,9 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
   const [ingredientsText, setIngredientsText] = useState(existing ? ingredientsToText(existing.ingredients) : '')
   const [instructionsText, setInstructionsText] = useState(existing?.instructions.join('\n\n') ?? '')
   const [saving, setSaving] = useState(false)
+  const snapshot = JSON.stringify([title, description, servings, prep, cook, imageUrl, category, tags, typeOverride, sourceUrl, ingredientsText, instructionsText])
+  const [initial] = useState(snapshot)
+  const markSaved = useUnsavedGuard(snapshot !== initial)
 
   const num = (s: string) => {
     const n = Number(s.replace(',', '.'))
@@ -135,6 +138,7 @@ function RecipeForm({ existing }: { existing: Recipe | null }) {
     await saveRecipe(recipe)
     setSaving(false)
     toast('Resepti tallennettu')
+    markSaved()
     navigate(`/reseptit/${recipe.id}`, { replace: true })
   }
 

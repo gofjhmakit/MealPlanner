@@ -10,6 +10,7 @@ import { goalSchema, type Goal, type GoalAim, type NutritionTargets, type Person
 import { formatNumber } from '../../domain/units'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
+import { useUnsavedGuard } from '../hooks'
 import { AimPicker, BodyForm, DEFAULT_GOAL, HouseholdEditor } from '../components/profile'
 import { Button, NumberInput } from '../components/ui'
 import { Panel } from '../components/v2'
@@ -36,6 +37,12 @@ export function ProfilePage() {
     setPeople(settings.household)
     setTargets(settings.targets)
   }, [settings.household, settings.targets])
+  const dirty =
+    JSON.stringify(people) !== JSON.stringify(settings.household) ||
+    JSON.stringify(targets) !== JSON.stringify(settings.targets) ||
+    aim !== (settings.goal?.aim ?? null) ||
+    (aim !== null && JSON.stringify({ ...goal, aim }) !== JSON.stringify(settings.goal))
+  useUnsavedGuard(dirty, 'Profiilin muutoksia ei ole tallennettu. Poistutaanko silti?')
 
   async function save() {
     if (aim && !goalSchema.safeParse({ ...goal, aim }).success) return toast('Tarkista ikä (14–100), pituus (120–230 cm) ja paino (30–300 kg).', 'error')

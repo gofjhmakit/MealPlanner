@@ -30,6 +30,9 @@ import { capitalize, formatDate, today, weekdayName } from '../../domain/dates'
 import { CATEGORY_LABELS, formatShoppingAmount, isStapleLike, pantryMatcher, shoppingListText } from '../../domain/shoppingList'
 import { SHOPPING_CATEGORIES, type Recipe, type ShoppingCategory, type ShoppingItem, type ShoppingList } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
+import { splitAmountText } from '../../domain/ingredientParser'
+import { getIngredient } from '../../domain/ingredients'
+import { matchIngredient } from '../../domain/matcher'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { Button, cx, Select, Spinner } from '../components/ui'
@@ -497,10 +500,16 @@ function ShoppingRow({ item, amount, recipes }: { item: ShoppingItem; amount: st
 function AddItemForm({ listId, onDone }: { listId: string; onDone: () => void }) {
   const [name, setName] = useState('')
   const [amount, setAmount] = useState('')
-  const [category, setCategory] = useState<ShoppingCategory>('other')
+  const { fineli } = useApp()
+  const [category, setCategory] = useState<ShoppingCategory | 'auto'>('auto')
   async function add() {
     if (!name.trim()) return
-    await addManualShoppingItem(listId, name.trim(), amount.trim(), category)
+    // "2 kg perunoita" → Peruna, 2 kg, on the vegetable shelf; unknown things ("Fairy") stay as typed.
+    const split = amount.trim() ? { amount: amount.trim(), rest: name.trim() } : splitAmountText(name)
+    const typed = split.rest || name.trim()
+    const m = matchIngredient(typed, { fineli })
+    const canonical = m.confidence >= 0.5 ? getIngredient(m.canonicalId) : undefined
+    await addManualShoppingItem(listId, canonical?.fi ?? capitalize(typed), split.amount, category === 'auto' ? (canonical?.category ?? 'other') : category)
     setName('')
     setAmount('')
   }
@@ -508,7 +517,8 @@ function AddItemForm({ listId, onDone }: { listId: string; onDone: () => void })
     <div className="flex flex-wrap gap-2 rounded-[22px] border border-line bg-surface p-3">
       <input autoFocus value={name} onChange={(e) => setName(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && add()} placeholder="Tuote, esim. kahvi" aria-label="Tuote" className="h-10 min-w-[9rem] flex-[2] rounded-xl border border-line bg-surface px-3 text-sm" />
       <input value={amount} onChange={(e) => setAmount(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && add()} placeholder="Määrä" aria-label="Määrä" className="h-10 w-24 flex-1 rounded-xl border border-line bg-surface px-3 text-sm" />
-      <Select value={category} onChange={(e) => setCategory(e.target.value as ShoppingCategory)} aria-label="Hylly">
+      <Select value={category} onChange={(e) => setCategory(e.target.value as ShoppingCategory | 'auto')} aria-label="Hylly">
+        <option value="auto">Hylly automaattisesti</option>
         {SHOPPING_CATEGORIES.map((c) => (
           <option key={c} value={c}>{CATEGORY_LABELS[c]}</option>
         ))}

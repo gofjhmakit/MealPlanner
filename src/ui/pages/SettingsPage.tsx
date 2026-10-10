@@ -14,6 +14,7 @@ import type { UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
 import { readTheme, storeTheme, type Theme } from '../theme'
 import { PageHeader } from '../components/Layout'
+import { useUnsavedGuard } from '../hooks'
 import { Button, Card, Field, IconButton, NumberInput, Select, SectionTitle } from '../components/ui'
 
 const MAX_IMPORT_BYTES = 25 * 1024 * 1024
@@ -31,11 +32,14 @@ export function SettingsPage() {
   const [reloading, setReloading] = useState(false)
 
   useEffect(() => setDraft(settings), [settings])
+  useEffect(() => setPantryText(settings.pantry.join(', ')), [settings.pantry])
+  const parsePantry = (text: string) => text.split(/[,\n]/).map((s) => s.trim().toLowerCase()).filter(Boolean)
+  useUnsavedGuard(JSON.stringify(draft) !== JSON.stringify(settings) || parsePantry(pantryText).join(',') !== settings.pantry.join(','), 'Asetuksia ei ole tallennettu. Poistutaanko silti?')
 
   useEffect(() => storeTheme(theme), [theme])
 
   async function save() {
-    const pantry = pantryText.split(/[,\n]/).map((s) => s.trim().toLowerCase()).filter(Boolean)
+    const pantry = parsePantry(pantryText)
     await saveUserSettings({ ...draft, pantry })
     toast('Asetukset tallennettu')
   }
@@ -192,7 +196,7 @@ export function SettingsPage() {
             <dd>{fineli.meta?.release ?? '–'}</dd>
             <dt className="text-muted">Elintarvikkeita</dt>
             <dd>{fineli.size.toLocaleString('fi-FI')}</dd>
-            <dt className="text-muted">Katalogireseptejä</dt>
+            <dt className="text-muted">Fineli-ruokalajeja</dt>
             <dd>{fineli.meta?.dishCount?.toLocaleString('fi-FI') ?? '–'}</dd>
             <dt className="text-muted">Lisenssi</dt>
             <dd>{fineli.meta?.license ?? 'CC BY 4.0'}</dd>

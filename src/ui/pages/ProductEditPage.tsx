@@ -15,7 +15,7 @@ import { extractProduct, type ExtractedProduct } from '../../import/products'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { Badge, Button, Card, Field, Select, Spinner, TextInput } from '../components/ui'
-import { useBack } from '../hooks'
+import { useBack, useUnsavedGuard } from '../hooks'
 
 const NUTRIENT_FIELDS = [
   ['energyKcal', 'Energia (kcal)'],
@@ -107,6 +107,8 @@ function ProductForm({ existing }: { existing?: Product }) {
   const navigate = useNavigate()
   const back = useBack('/tuotteet')
   const [form, setForm] = useState<FormState>(() => toForm(existing))
+  const [initialForm] = useState(form)
+  const markSaved = useUnsavedGuard(JSON.stringify(form) !== JSON.stringify(initialForm))
   const [importUrl, setImportUrl] = useState('')
   const [pasted, setPasted] = useState('')
   const [busy, setBusy] = useState(false)
@@ -222,6 +224,7 @@ function ProductForm({ existing }: { existing?: Product }) {
         fineli,
       )
       toast(`Tuote tallennettu: ${saved.name}`)
+      markSaved()
       navigate('/tuotteet')
     } catch (e) {
       toast(`Tallennus epäonnistui: ${(e as Error).message}`, 'error')
@@ -233,6 +236,7 @@ function ProductForm({ existing }: { existing?: Product }) {
     if (!existing || !confirm(`Poistetaanko tuote "${existing.name}"? Sitä käyttävät reseptirivit palautetaan automaattiseen tunnistukseen.`)) return
     await deleteProduct(existing.id, fineli)
     toast('Tuote poistettu')
+    markSaved()
     navigate('/tuotteet')
   }
 

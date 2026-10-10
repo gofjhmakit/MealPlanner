@@ -1,6 +1,6 @@
 import { useLiveQuery } from 'dexie-react-hooks'
-import { useMemo } from 'react'
-import { useLocation, useNavigate } from 'react-router'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { useBlocker, useLocation, useNavigate } from 'react-router'
 import { db } from '../db/db'
 import { combineNutrition, computeRecipeNutrition, type NutritionCoverage, type NutritionResult } from '../domain/nutrition'
 import type { MealItem, MealSlot, Nutrients, Recipe } from '../domain/types'
@@ -113,4 +113,55 @@ export function useBack(fallback: string): () => void {
   const navigate = useNavigate()
   const location = useLocation()
   return () => (location.key === 'default' ? navigate(fallback) : navigate(-1))
+}
+
+/**
+ * State that belongs to this history entry: it comes back when you return with Back
+ * (filters and "show more" on a list), but a fresh visit starts clean.
+ */
+export function useEntryState<T>(name: string, initial: T): [T, (v: T | ((prev: T) => T)) => void] {
+  const { key } = useLocation()
+  const [value, setValue] = useState<T>(() => {
+    try {
+      const stored = sessionStorage.getItem(`entry:${key}:${name}`)
+      return stored ? (JSON.parse(stored) as T) : initial
+    } catch {
+      return initial
+    }
+  })
+  useEffect(() => {
+    try {
+      sessionStorage.setItem(`entry:${key}:${name}`, JSON.stringify(value))
+    } catch {
+      // private mode: only lost on Back
+    }
+  }, [key, name, value])
+  return [value, setValue]
+}
+
+/**
+ * Asks before leaving a form with unsaved changes (in-app navigation and closing the tab).
+ * Call the returned function right before navigating away after a successful save.
+ */
+export function useUnsavedGuard(dirty: boolean, message = 'Hylätäänkö tallentamattomat muutokset?'): () => void {
+  const saved = useRef(false)
+  const blocker = useBlocker(({ currentLocation, nextLocation }) => dirty && !saved.current && currentLocation.pathname !== nextLocation.pathname)
+  useEffect(() => {
+    if (blocker.state !== 'blocked') return
+    if (confirm(message)) blocker.proceed()
+    else blocker.reset()
+  }, [blocker, message])
+  useEffect(() => {
+    if (!dirty) return
+    const onUnload = (e: BeforeUnloadEvent) => {
+      if (saved.current) return
+      e.preventDefault()
+      e.returnValue = ''
+    }
+    window.addEventListener('beforeunload', onUnload)
+    return () => window.removeEventListener('beforeunload', onUnload)
+  }, [dirty])
+  return () => {
+    saved.current = true
+  }
 }
