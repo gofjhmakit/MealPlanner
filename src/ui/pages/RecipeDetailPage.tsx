@@ -15,6 +15,7 @@ import {
   NotebookPen,
   Pencil,
   Printer,
+  Share,
   ShoppingBasket,
   ShoppingCart,
   Timer,
@@ -162,6 +163,9 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
             className="flex h-10 w-10 items-center justify-center rounded-full bg-surface/90 shadow backdrop-blur"
           >
             <Heart size={18} className={isFav ? 'fill-accent text-accent' : 'text-ink'} />
+          </button>
+          <button onClick={() => shareRecipe(recipe, sourceUrl, toast)} aria-label="Jaa resepti" className="flex h-10 w-10 items-center justify-center rounded-full bg-surface/90 text-ink shadow backdrop-blur">
+            <Share size={18} />
           </button>
           <MoreMenu recipe={recipe} onEdit={onEdit} onDelete={onDelete} onShop={() => setShopOpen(true)} onPlan={() => setPlanOpen(true)} onCheck={() => setCheckMode((v) => !v)} checkMode={checkMode} />
         </span>
@@ -481,6 +485,39 @@ function Stat({ value, label }: { value: string; label: string }) {
       <p className="text-[10px] text-muted">{label}</p>
     </div>
   )
+}
+
+/**
+ * Catalogue recipes have the same address for everyone, so they are shared as a link.
+ * Own and imported recipes live only on this device: they are shared as text instead.
+ */
+async function shareRecipe(recipe: Recipe, sourceUrl: string | null, toast: (msg: string) => void) {
+  const catalogue = recipe.origin === 'catalogue'
+  const url = `${location.origin}${import.meta.env.BASE_URL}reseptit/${encodeURIComponent(recipe.id)}`
+  const text = catalogue
+    ? undefined
+    : [
+        recipe.title,
+        recipe.ingredients.map((i) => `• ${i.raw}`).join('\n'),
+        recipe.instructions.map((step, i) => `${i + 1}. ${step}`).join('\n'),
+        sourceUrl,
+      ]
+        .filter(Boolean)
+        .join('\n\n')
+  const data: ShareData = catalogue ? { title: recipe.title, url } : { title: recipe.title, text }
+  if (navigator.share && (!navigator.canShare || navigator.canShare(data))) {
+    try {
+      return await navigator.share(data)
+    } catch (e) {
+      if ((e as Error).name === 'AbortError') return
+    }
+  }
+  try {
+    await navigator.clipboard.writeText(catalogue ? url : text!)
+    toast(catalogue ? 'Linkki kopioitu' : 'Resepti kopioitu tekstinä')
+  } catch {
+    toast('Jakaminen ei onnistunut')
+  }
 }
 
 function MoreMenu({ recipe, onEdit, onDelete, onShop, onPlan, onCheck, checkMode }: { recipe: Recipe; onEdit: () => void; onDelete: () => void; onShop: () => void; onPlan: () => void; onCheck: () => void; checkMode: boolean }) {
