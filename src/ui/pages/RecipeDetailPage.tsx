@@ -60,7 +60,7 @@ export function RecipeDetailPage() {
   if (recipe === null)
     return (
       <EmptyState title="Reseptiä ei löytynyt" action={<Link to="/reseptit"><Button>Takaisin resepteihin</Button></Link>}>
-        Resepti on ehkä poistettu.
+        Resepti on ehkä poistettu. Jos sait linkin joltakulta, resepti voi olla hänen omansa: omat reseptit tallentuvat vain omalle laitteelle, joten niitä ei voi avata linkillä.
       </EmptyState>
     )
   return <RecipeDetail key={recipe.id} recipe={recipe} />

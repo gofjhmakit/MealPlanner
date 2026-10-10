@@ -77,6 +77,9 @@ export function TodayPage() {
   const weekStart = startOfWeek(t, settings.weekStartsOn)
   const weekDays = Array.from({ length: 7 }, (_, i) => addDays(weekStart, i))
   const remaining = weekDays.filter((d) => d >= t)
+  // Late in the week "fill the week" would add a day or two: take the next week along.
+  const fillThroughNext = remaining.length < 3
+  const fillDays = fillThroughNext ? [...remaining, ...weekDays.map((d) => addDays(d, 7))] : remaining
 
   async function fillWeek(dates: string[], label: string) {
     if (!candidates) return
@@ -109,10 +112,10 @@ export function TodayPage() {
           <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-brand-soft text-brand"><Sparkles size={26} /></div>
           <h2 className="font-display text-2xl font-semibold">Tyhjä viikko – täytetäänkö?</h2>
           <p className="mx-auto mt-2 max-w-md text-sm text-ink-2">
-            Ehdotan aamiaiset, lounaat ja päivälliset tästä päivästä viikon loppuun{kcalTarget ? ` noin ${formatNumber(kcalTarget, 0)} kcal päivätavoitteeseesi` : ''}. Voit vaihtaa minkä tahansa aterian yhdellä napautuksella.
+            Ehdotan aamiaiset, lounaat ja päivälliset tästä päivästä {fillThroughNext ? 'ensi viikon' : 'viikon'} loppuun{kcalTarget ? ` noin ${formatNumber(kcalTarget, 0)} kcal päivätavoitteeseesi` : ''}. Voit vaihtaa minkä tahansa aterian yhdellä napautuksella.
           </p>
           <div className="mt-5 flex flex-wrap justify-center gap-2">
-            <Button size="lg" icon={<Sparkles size={18} />} disabled={!candidates} onClick={() => fillWeek(remaining, 'Viikko')}>
+            <Button size="lg" icon={<Sparkles size={18} />} disabled={!candidates} onClick={() => fillWeek(fillDays, 'Viikko')}>
               {candidates ? 'Täytä viikko puolestani' : 'Ladataan reseptejä…'}
             </Button>
             <Button size="lg" variant="secondary" onClick={() => navigate('/viikko/suunnittele')}>Säädä ensin</Button>
