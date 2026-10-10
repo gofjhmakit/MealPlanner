@@ -165,3 +165,32 @@ export function useUnsavedGuard(dirty: boolean, message = 'Hylätäänkö tallen
     saved.current = true
   }
 }
+
+/**
+ * Saves `value` a moment after it stops changing, and right away when the page is left.
+ * `save` returns false (or nothing) to skip; it is not called for the initial value.
+ */
+export function useAutosave<T>(value: T, save: (v: T) => void | Promise<void>, delay = 500) {
+  const latest = useRef({ value, save, pending: false })
+  const first = useRef(true)
+  latest.current.value = value
+  latest.current.save = save
+  useEffect(() => {
+    if (first.current) {
+      first.current = false
+      return
+    }
+    latest.current.pending = true
+    const id = setTimeout(() => {
+      latest.current.pending = false
+      void latest.current.save(latest.current.value)
+    }, delay)
+    return () => clearTimeout(id)
+  }, [value, delay])
+  useEffect(
+    () => () => {
+      if (latest.current.pending) void latest.current.save(latest.current.value)
+    },
+    [],
+  )
+}

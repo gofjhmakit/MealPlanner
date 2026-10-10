@@ -31,7 +31,7 @@ import { CONFIDENT_THRESHOLD, NUTRIENT_INFO, NUTRIENT_KEYS, type NutritionLine }
 import { splitAmountText } from '../../domain/ingredientParser'
 import { foodSourceLabel } from '../../domain/supplementary'
 import { recipeDiet, recipeSpecialDiets, recipeTime, DIET_LABELS, SPECIAL_DIET_LABELS, type SpecialDiets } from '../../domain/recipeInfo'
-import { isMealComponent } from '../../domain/recipeType'
+import { isMealComponent, recipeType } from '../../domain/recipeType'
 import { addDays, today } from '../../domain/dates'
 import { pantryMatcher } from '../../domain/shoppingList'
 import { nextEmptySlot } from '../../domain/today'
@@ -74,7 +74,10 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const favourites = useFavouriteIds()
   const [params, setParams] = useSearchParams()
   const { servings: householdServings, kcalTarget } = useHousehold()
-  const initialServings = Number(params.get('annokset')) || recipe.servings
+  // Meals open at your household's size, like the plan and the shopping list use; cakes, sauces and
+  // preserves keep the size they are baked or made in.
+  const fixedSize = isMealComponent(recipe) || ['leivonnainen', 'juoma', 'sailyke', 'kastike', 'jalkiruoka'].includes(recipeType(recipe))
+  const initialServings = Number(params.get('annokset')) || (fixedSize ? recipe.servings : householdServings)
   const [servings, setServings] = useState(initialServings)
   const [planOpen, setPlanOpen] = useState(false)
   const [shopOpen, setShopOpen] = useState(false)
@@ -874,7 +877,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
         if (/:$/.test(ing.raw)) return <li key={ing.id} className="pt-2 text-xs font-semibold uppercase tracking-wider text-muted">{ing.raw.slice(0, -1)}</li>
         const a = amount(ing)
         return (
-          <li key={ing.id} className={cx('flex gap-3', !allSteps && stepIngredients.includes(ing) && 'font-semibold text-brand')}>
+          <li key={ing.id} className={cx('flex gap-3', stepIngredients.includes(ing) && 'font-semibold text-brand')}>
             <span className={cx('tabular shrink-0 text-right font-semibold', size === 'base' ? 'w-16' : 'w-14')}>{a.amount}</span>
             <span className="min-w-0 [overflow-wrap:anywhere]">{a.rest}</span>
           </li>

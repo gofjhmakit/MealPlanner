@@ -22,6 +22,8 @@ const GENERIC: [RegExp, ShoppingCategory[]][] = [
   [/^(kuivat aine|kuiva-aine)/, ['dry_goods']],
 ]
 
+const SHORT_HEADS = new Set(['öljy', 'liha', 'muna'])
+
 function words(text: string): string[] {
   return text
     .toLowerCase()
@@ -43,7 +45,8 @@ export function ingredientsInStep<T extends Pick<RecipeIngredient, 'name' | 'can
   const stepWords = words(step)
   const stepStems = stepWords.map(stem)
   // Base forms of five letters or more can be the head of a compound: "jauhot" → "jauho" ↔ "vehnäjauhoja"
-  const stepLemmas = [...new Set(stepWords.flatMap((w) => lemmaCandidates(w)))].filter((l) => l.length >= 5)
+  // (plus a few short heads that are never the tail of another word: "öljyn" ↔ "friteerausöljyä", "kananmunat" ↔ "munaa")
+  const stepLemmas = [...new Set(stepWords.flatMap((w) => lemmaCandidates(w)))].filter((l) => l.length >= 5 || SHORT_HEADS.has(l))
   const generic = new Set(stepWords.flatMap((w) => GENERIC.find(([re]) => re.test(w))?.[1] ?? []))
   return ingredients.filter((ing) => {
     if (/:$/.test(ing.raw)) return false

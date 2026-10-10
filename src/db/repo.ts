@@ -490,9 +490,12 @@ export async function newShoppingTrip(listId: string, database: MealPlannerDB = 
   })
 }
 
+/** Ticks an item; a hand-added item shown merged with the same ingredient from recipes ticks along. */
 export async function toggleShoppingItem(id: string, database: MealPlannerDB = defaultDb) {
   const item = await database.shoppingItems.get(id)
-  if (item) await database.shoppingItems.update(id, { checked: !item.checked })
+  if (!item) return
+  const twins = item.key.startsWith('manual:') ? [item] : await database.shoppingItems.where('listId').equals(item.listId).filter((i) => i.key === item.key).toArray()
+  await database.shoppingItems.bulkUpdate(twins.map((i) => ({ key: i.id, changes: { checked: !item.checked } })))
 }
 
 export async function setShoppingItemCategory(id: string, category: ShoppingCategory, remember: boolean, database: MealPlannerDB = defaultDb) {
@@ -508,11 +511,19 @@ export async function addManualShoppingItem(
   amountText: string,
   category: ShoppingCategory,
   database: MealPlannerDB = defaultDb,
+  /** The ingredient's shopping key ("c:potato"): shown together with the same ingredient from recipes. */
+  key?: string,
 ) {
+  // Added again by hand: one row with both amounts.
+  const same = key ? await database.shoppingItems.where('listId').equals(listId).filter((i) => i.manual && i.key === key && !i.checked).first() : undefined
+  if (same) {
+    await database.shoppingItems.update(same.id, { manualAmount: [same.manualAmount, amountText].filter(Boolean).join(' + ') || null })
+    return
+  }
   await database.shoppingItems.put({
     id: newId(),
     listId,
-    key: `manual:${newId()}`,
+    key: key ?? `manual:${newId()}`,
     name,
     amount: { mass: null, volume: null, counts: {}, unquantified: 0 },
     category,

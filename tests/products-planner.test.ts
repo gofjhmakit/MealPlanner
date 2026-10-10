@@ -229,6 +229,12 @@ describe('automatic meal planning', () => {
     expect(plan.meals.some((m) => m.recipeId === 'bad' || m.recipeId === 'porridge')).toBe(false)
   })
 
+  it('does not repeat recipes already on the menu while others fit', () => {
+    const plan = planMeals(cands(), { ...base, dates: week.slice(0, 2), slots: ['dinner'], leftovers: false, avoidRepeats: true, alreadyPlanned: ['chicken', 'beef', 'salmon', 'lentil'] })
+    expect(plan.meals).toHaveLength(2)
+    expect(plan.meals.some((m) => ['chicken', 'beef', 'salmon', 'lentil'].includes(m.recipeId))).toBe(false)
+  })
+
   it('is deterministic per seed and respects diet, time and avoid-lists', () => {
     expect(planMeals(cands(), base)).toEqual(planMeals(cands(), base))
     const veg = planMeals(cands(), { ...base, diet: 'vegan' })

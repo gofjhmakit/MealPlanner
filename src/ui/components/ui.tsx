@@ -209,15 +209,26 @@ export function Spinner({ label = 'Ladataan…' }: { label?: string }) {
 }
 
 export function TextInput({ className, ...rest }: InputHTMLAttributes<HTMLInputElement>) {
+  const numeric = rest.inputMode === 'decimal' || rest.inputMode === 'numeric'
   return (
     <input
       {...rest}
+      onFocus={numeric ? (e) => {
+        selectSoon(e.currentTarget)
+        rest.onFocus?.(e)
+      } : rest.onFocus}
       className={cx(
         'h-10 w-full rounded-xl border border-line bg-surface px-3 text-sm text-ink placeholder:text-muted focus:border-brand focus:outline-none',
         className,
       )}
     />
   )
+}
+
+/** Typing in a number field replaces the old value instead of adding to it ("3" + "4" ≠ "34"). */
+function selectSoon(el: HTMLInputElement) {
+  // after the tap has placed the caret, or the selection would be undone
+  requestAnimationFrame(() => el.select())
 }
 
 /** Parses "75", "75,5", "75.5"; empty → null; anything else → NaN. */
@@ -246,6 +257,10 @@ export function NumberInput({ value, onValueChange, className, bare, ...rest }: 
       {...rest}
       inputMode="decimal"
       value={text}
+      onFocus={(e) => {
+        selectSoon(e.currentTarget)
+        rest.onFocus?.(e)
+      }}
       onChange={(e) => {
         setText(e.target.value)
         const n = parseNumberText(e.target.value)

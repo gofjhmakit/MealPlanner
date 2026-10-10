@@ -8,13 +8,13 @@ import { loadFineliData, loadSupplementaryData } from '../../db/bootstrap'
 import { db, getSetting } from '../../db/db'
 import { syncOpenRecipes, type OpenRecipesIndex } from '../../db/openRecipes'
 import { exportData, importData, parseExportFile } from '../../db/exportImport'
-import { deleteUserMapping, matchContext, rematchUserRecipes, saveUserSettings } from '../../db/repo'
+import { deleteUserMapping, getUserSettings, matchContext, rematchUserRecipes, saveUserSettings } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
 import type { UserSettings } from '../../domain/types'
 import { useApp, useToast } from '../AppContext'
 import { readTheme, storeTheme, type Theme } from '../theme'
 import { PageHeader } from '../components/Layout'
-import { useUnsavedGuard } from '../hooks'
+import { useAutosave } from '../hooks'
 import { Button, Card, Field, IconButton, NumberInput, Select, SectionTitle } from '../components/ui'
 
 const MAX_IMPORT_BYTES = 25 * 1024 * 1024
@@ -32,17 +32,15 @@ export function SettingsPage() {
   const [reloading, setReloading] = useState(false)
 
   useEffect(() => setDraft(settings), [settings])
-  useEffect(() => setPantryText(settings.pantry.join(', ')), [settings.pantry])
   const parsePantry = (text: string) => text.split(/[,\n]/).map((s) => s.trim().toLowerCase()).filter(Boolean)
-  useUnsavedGuard(JSON.stringify(draft) !== JSON.stringify(settings) || parsePantry(pantryText).join(',') !== settings.pantry.join(','), 'Asetuksia ei ole tallennettu. Poistutaanko silti?')
+  // Saved as you go, like the theme.
+  useAutosave({ defaultServings: draft.defaultServings, weekStartsOn: draft.weekStartsOn, pantry: parsePantry(pantryText).join('\n') }, async (v) => {
+    const latest = await getUserSettings()
+    await saveUserSettings({ ...latest, defaultServings: v.defaultServings, weekStartsOn: v.weekStartsOn, pantry: v.pantry ? v.pantry.split('\n') : [] })
+  }, 700)
 
   useEffect(() => storeTheme(theme), [theme])
 
-  async function save() {
-    const pantry = parsePantry(pantryText)
-    await saveUserSettings({ ...draft, pantry })
-    toast('Asetukset tallennettu')
-  }
 
 
   async function doExport() {
@@ -100,7 +98,7 @@ export function SettingsPage() {
 
   return (
     <div className="fade-in">
-      <PageHeader title="Asetukset" subtitle="Kaikki asetukset ja tiedot tallentuvat vain tälle laitteelle." />
+      <PageHeader title="Asetukset" subtitle="Muutokset tallentuvat heti – kaikki tiedot ovat vain tällä laitteella." />
       <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 lg:grid-cols-2">
         <Link to="/profiili" className="flex items-center gap-4 rounded-[22px] border border-line bg-surface p-5 transition hover:border-brand">
           <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-brand-soft text-brand"><User size={20} /></span>
@@ -145,9 +143,6 @@ export function SettingsPage() {
               </Select>
             </Field>
           </Card>
-          <div className="flex justify-end">
-            <Button onClick={save}>Tallenna asetukset</Button>
-          </div>
         </div>
 
         <Card className="p-5">

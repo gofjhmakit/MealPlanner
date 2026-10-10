@@ -3,7 +3,7 @@
  */
 import { db } from '../db/db'
 import { addMealItem, applyMealPlan, mealItemsInRange } from '../db/repo'
-import { capitalize, formatDate, today, weekdayName } from '../domain/dates'
+import { addDays, capitalize, formatDate, today, weekdayName } from '../domain/dates'
 import { slotPassed } from '../domain/today'
 import type { MealSlot } from '../domain/types'
 import { planMeals, quickPlanOptions, type Candidate } from '../domain/weekPlanner'
@@ -39,6 +39,8 @@ export async function fillEmptySlots(
   const hour = new Date().getHours()
   for (const slot of ['breakfast', 'lunch', 'dinner', 'snack'] as MealSlot[]) if (slotPassed(slot, hour)) occupied.add(`${t}|${slot}`)
   const opts = quickPlanOptions({ dates: sorted, slots: o.slots, people: o.servings, maxKcalPerDay: o.kcalTarget, occupied, seed: o.seed ?? Date.now() % 100000 })
+  // What's on the menu these days and the week before isn't suggested again (unless nothing else fits).
+  opts.alreadyPlanned = [...before, ...(await mealItemsInRange(addDays(sorted[0], -7), addDays(sorted[0], -1)))].flatMap((m) => (m.recipeId && !m.leftoverOfId ? [m.recipeId] : []))
   const plan = planMeals(candidates, opts)
   await applyMealPlan(plan.meals, { replace: false, dates: sorted, slots: opts.slots })
   const beforeIds = new Set(before.map((m) => m.id))

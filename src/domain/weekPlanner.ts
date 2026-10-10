@@ -39,6 +39,8 @@ export interface PlanOptions {
   avoidRepeats: boolean
   /** Slots that already have meals and must be left alone ("date|slot"). */
   occupied: Set<string>
+  /** Recipes already on the menu around these dates: not repeated while others fit. */
+  alreadyPlanned?: string[]
   seed: number
 }
 
@@ -215,7 +217,9 @@ function pick(ctx: PickContext, kind: Kind, date: string, budget: number | null,
 const SLOT_ORDER: MealSlot[] = ['breakfast', 'lunch', 'dinner', 'snack', 'other']
 
 export function planMeals(candidates: Candidate[], opts: PlanOptions): PlanResult {
-  const ctx: PickContext = { opts, candidates, used: new Map(), random: rng(opts.seed) }
+  const used = new Map<string, number>()
+  for (const id of opts.alreadyPlanned ?? []) used.set(id, (used.get(id) ?? 0) + 1)
+  const ctx: PickContext = { opts, candidates, used, random: rng(opts.seed) }
   const meals: PlannedMeal[] = []
   const warnings: string[] = []
   const kcalByDay: Record<string, number> = {}

@@ -2,7 +2,7 @@
 import 'fake-indexeddb/auto'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { MealPlannerDB } from '../src/db/db'
-import { addMealItem, newShoppingTrip, ROLLING_LIST_ID, saveRecipe, setShoppingHome, syncRollingList, toggleShoppingItem } from '../src/db/repo'
+import { addManualShoppingItem, addMealItem, newShoppingTrip, ROLLING_LIST_ID, saveRecipe, setShoppingHome, syncRollingList, toggleShoppingItem } from '../src/db/repo'
 import { buildIngredientList } from '../src/domain/recipeIngredients'
 import { fineliLookup } from './helpers'
 
@@ -54,5 +54,25 @@ describe('rolling shopping list', () => {
     items = await db.shoppingItems.where('listId').equals(ROLLING_LIST_ID).toArray()
     expect(items.every((i) => !i.checked)).toBe(true)
     expect((await db.shoppingLists.get(ROLLING_LIST_ID))!.homeKeys).toEqual([])
+  })
+})
+
+describe('items added by hand', () => {
+  it('tick together with the same ingredient from recipes and merge when added twice', async () => {
+    const lookup = fineliLookup()
+    await recipe('soup', ['500 g perunoita'])
+    await addMealItem({ date: '2026-10-10', slot: 'dinner', recipeId: 'soup', servings: 4 }, db)
+    await syncRollingList(lookup, undefined, db)
+    const potato = (await db.shoppingItems.toArray()).find((i) => i.name === 'Peruna')!
+    await addManualShoppingItem(ROLLING_LIST_ID, 'Peruna', '2 kg', 'vegetables', db, potato.key)
+    await addManualShoppingItem(ROLLING_LIST_ID, 'Peruna', '1 kg', 'vegetables', db, potato.key)
+    let items = await db.shoppingItems.toArray()
+    expect(items.filter((i) => i.manual).map((i) => i.manualAmount)).toEqual(['2 kg + 1 kg'])
+    await toggleShoppingItem(potato.id, db)
+    items = await db.shoppingItems.toArray()
+    expect(items.every((i) => i.checked)).toBe(true)
+    // the plan changes: the hand-added potatoes stay
+    await syncRollingList(lookup, undefined, db)
+    expect((await db.shoppingItems.toArray()).some((i) => i.manual)).toBe(true)
   })
 })

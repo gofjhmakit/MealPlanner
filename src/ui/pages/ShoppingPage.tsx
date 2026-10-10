@@ -12,7 +12,6 @@ import { useEffect, useMemo, useState } from 'react'
 import { Link, useSearchParams } from 'react-router'
 import { db } from '../../db/db'
 import {
-  addManualShoppingItem,
   deleteShoppingList,
   newShoppingTrip,
   regenerateShoppingList,
@@ -30,15 +29,13 @@ import { addDays, capitalize, formatDate, today, weekdayName } from '../../domai
 import { CATEGORY_LABELS, formatShoppingAmount, isStapleLike, pantryMatcher, shoppingListText } from '../../domain/shoppingList'
 import { SHOPPING_CATEGORIES, type Recipe, type ShoppingCategory, type ShoppingItem, type ShoppingList } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
-import { splitAmountText } from '../../domain/ingredientParser'
-import { getIngredient } from '../../domain/ingredients'
-import { matchIngredient } from '../../domain/matcher'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { Button, cx, Select, Spinner } from '../components/ui'
 import { MealThumb, Panel, Segmented } from '../components/v2'
 import { useMealItems, useRecipesById } from '../hooks'
 import { useScrollLock } from '../scrollLock'
+import { addTypedShoppingItem } from '../shoppingActions'
 
 type View = 'aisle' | 'dish' | 'home'
 type RecipeMap = Map<string, Recipe> | undefined
@@ -100,21 +97,27 @@ function ListView({ listId, onBack }: { listId: string; onBack: () => void }) {
   const mealRecipes = useRecipesById((meals ?? []).map((m) => m.recipeId))
 
   const homeKeys = list?.homeKeys
+  // A hand-added item for an ingredient that recipes also need is shown on the recipe row: "2 kpl + 6 kpl".
+  const { all, extras } = useMemo(() => {
+    const recipeKeys = new Set((items ?? []).filter((i) => !i.manual).map((i) => i.key))
+    const extras = new Map<string, string>()
+    for (const i of items ?? []) if (i.manual && recipeKeys.has(i.key)) extras.set(i.key, [extras.get(i.key), i.manualAmount || 'lisäksi'].filter(Boolean).join(' + '))
+    return { all: (items ?? []).filter((i) => !(i.manual && recipeKeys.has(i.key))), extras }
+  }, [items])
   const { toBuy, home, triage } = useMemo(() => {
     const homeSet = new Set(homeKeys ?? [])
-    const isHome = (i: ShoppingItem) => !i.manual && (homeSet.has(i.key) || inPantry(i))
-    const all = items ?? []
+    const isHome = (i: ShoppingItem) => !i.manual && !extras.has(i.key) && (homeSet.has(i.key) || inPantry(i))
     return {
       toBuy: all.filter((i) => !isHome(i)),
       home: all.filter(isHome),
       triage: all.filter((i) => !i.checked && !inPantry(i) && isStapleLike(i)),
     }
-  }, [items, homeKeys, inPantry])
+  }, [all, extras, homeKeys, inPantry])
 
   if (!list || !items) return <Spinner />
   const homeSet = new Set(list.homeKeys ?? [])
   const checked = toBuy.filter((i) => i.checked).length
-  const amountText = (i: ShoppingItem) => (i.manual ? (i.manualAmount ?? '') : formatShoppingAmount(i.amount))
+  const amountText = (i: ShoppingItem) => (i.manual ? (i.manualAmount ?? '') : [formatShoppingAmount(i.amount), extras.get(i.key)].filter(Boolean).join(' + '))
   const planned = (meals ?? []).filter((m) => m.recipeId && m.status !== 'skipped')
   const cooked = planned.filter((m) => !m.leftoverOfId)
   const days = rolling ? (list.to >= addDays(list.from, 6) ? `${capitalize(weekdayName(list.from, true))} ${formatDate(list.from)}–${weekdayName(list.to, true)} ${formatDate(list.to)}` : `${capitalize(weekdayName(list.from, true))}–${weekdayName(list.to, true)}`) : hasRange ? `${formatDate(list.from)}–${formatDate(list.to)}` : 'Suoraan lisätyt reseptit'
@@ -504,13 +507,7 @@ function AddItemForm({ listId, onDone }: { listId: string; onDone: () => void })
   const [category, setCategory] = useState<ShoppingCategory | 'auto'>('auto')
   async function add() {
     if (!name.trim()) return
-    // "2 kg perunoita" → Peruna, 2 kg, on the vegetable shelf; unknown things ("Fairy") stay as typed.
-    const split = amount.trim() ? { amount: amount.trim(), rest: name.trim() } : splitAmountText(name)
-    if (/^\d+([,.]\d+)?$/.test(split.amount)) split.amount += ' kpl'
-    const typed = split.rest || name.trim()
-    const m = matchIngredient(typed, { fineli })
-    const canonical = m.confidence >= 0.5 ? getIngredient(m.canonicalId) : undefined
-    await addManualShoppingItem(listId, canonical?.fi ?? capitalize(typed), split.amount, category === 'auto' ? (canonical?.category ?? 'other') : category)
+    await addTypedShoppingItem(name, { fineli, listId, amount, category })
     setName('')
     setAmount('')
   }

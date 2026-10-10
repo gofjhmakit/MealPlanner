@@ -2,17 +2,17 @@
  * Profiili ja tavoitteet: household, aim and body data, daily targets and the weight log.
  */
 import { Trash2 } from 'lucide-react'
-import { useEffect, useState } from 'react'
-import { saveUserSettings } from '../../db/repo'
+import { useState } from 'react'
+import { getUserSettings, saveUserSettings } from '../../db/repo'
 import { formatDate } from '../../domain/dates'
 import { householdServings, suggestTargets } from '../../domain/goals'
 import { goalSchema, type Goal, type GoalAim, type NutritionTargets, type Person } from '../../domain/types'
 import { formatNumber } from '../../domain/units'
-import { useApp, useToast } from '../AppContext'
+import { useApp } from '../AppContext'
 import { PageHeader } from '../components/Layout'
-import { useUnsavedGuard } from '../hooks'
+import { useAutosave } from '../hooks'
 import { AimPicker, BodyForm, DEFAULT_GOAL, HouseholdEditor } from '../components/profile'
-import { Button, NumberInput } from '../components/ui'
+import { NumberInput } from '../components/ui'
 import { Panel } from '../components/v2'
 
 const TARGET_FIELDS: { key: keyof NutritionTargets; label: string; unit: string }[] = [
@@ -28,33 +28,24 @@ const TARGET_FIELDS: { key: keyof NutritionTargets; label: string; unit: string 
 
 export function ProfilePage() {
   const { settings } = useApp()
-  const toast = useToast()
   const [people, setPeople] = useState<Person[]>(settings.household)
   const [aim, setAim] = useState<GoalAim | null>(settings.goal?.aim ?? null)
   const [goal, setGoal] = useState<Goal>(settings.goal ?? DEFAULT_GOAL)
   const [targets, setTargets] = useState<NutritionTargets>(settings.targets)
-  useEffect(() => {
-    setPeople(settings.household)
-    setTargets(settings.targets)
-  }, [settings.household, settings.targets])
-  const dirty =
-    JSON.stringify(people) !== JSON.stringify(settings.household) ||
-    JSON.stringify(targets) !== JSON.stringify(settings.targets) ||
-    aim !== (settings.goal?.aim ?? null) ||
-    (aim !== null && JSON.stringify({ ...goal, aim }) !== JSON.stringify(settings.goal))
-  useUnsavedGuard(dirty, 'Profiilin muutoksia ei ole tallennettu. Poistutaanko silti?')
+  const goalValid = !aim || goalSchema.safeParse({ ...goal, aim }).success
 
-  async function save() {
-    if (aim && !goalSchema.safeParse({ ...goal, aim }).success) return toast('Tarkista ikä (14–100), pituus (120–230 cm) ja paino (30–300 kg).', 'error')
-    const named = people.map((p, i) => ({ ...p, name: p.name.trim() || (i === 0 ? 'Minä' : `Henkilö ${i + 1}`) }))
-    await saveUserSettings({ ...settings, household: named, goal: aim ? { ...goal, aim } : null, targets, defaultServings: householdServings(named, settings.defaultServings), onboarded: true })
-    toast('Profiili tallennettu')
-  }
+  // Saved as you go. Half-typed body measurements ("3" on the way to "36") keep the previous goal until they're valid.
+  useAutosave({ people, aim, goal, targets }, async (v) => {
+    const named = v.people.map((p, i) => ({ ...p, name: p.name.trim() || (i === 0 ? 'Minä' : `Henkilö ${i + 1}`) }))
+    const valid = !v.aim || goalSchema.safeParse({ ...v.goal, aim: v.aim }).success
+    const latest = await getUserSettings()
+    await saveUserSettings({ ...latest, household: named, goal: valid ? (v.aim ? { ...v.goal, aim: v.aim } : null) : latest.goal, targets: v.targets, defaultServings: householdServings(named, latest.defaultServings), onboarded: true })
+  })
 
   const suggested = aim ? suggestTargets({ ...goal, aim }) : null
   return (
     <div className="fade-in">
-      <PageHeader title="Profiili ja tavoitteet" subtitle="Tiedot tallentuvat vain tälle laitteelle." actions={<Button onClick={save}>Tallenna</Button>} mobileActions={null} />
+      <PageHeader title="Profiili ja tavoitteet" subtitle="Muutokset tallentuvat heti – vain tälle laitteelle." />
       <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 xl:grid-cols-2 3xl:grid-cols-3">
         <Panel title="Kotitalous">
           <p className="-mt-1 mb-4 text-sm text-muted">
@@ -67,6 +58,7 @@ export function ProfilePage() {
           {aim && (
             <div className="mt-5">
               <BodyForm goal={goal} onChange={setGoal} />
+              {!goalValid && <p className="mt-2 text-xs text-bad">Tarkista ikä (14–100), pituus (120–230 cm) ja paino (30–300 kg) – tavoite tallentuu, kun arvot ovat kunnossa.</p>}
             </div>
           )}
         </Panel>
@@ -112,9 +104,6 @@ export function ProfilePage() {
             </ul>
           )}
         </Panel>
-      </div>
-      <div className="mt-6 lg:hidden">
-        <Button size="lg" className="w-full" onClick={save}>Tallenna</Button>
       </div>
     </div>
   )

@@ -6,7 +6,7 @@
 import { ArrowRight, CalendarPlus, Copy, CornerDownLeft, Search, ShoppingCart, Sparkles, X } from 'lucide-react'
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { useNavigate } from 'react-router'
-import { copyRange } from '../db/repo'
+import { copyRange, syncRollingList } from '../db/repo'
 import { parseCommand, type ParsedCommand } from '../domain/command'
 import { addDays, startOfWeek, today } from '../domain/dates'
 import { matchesQuery } from '../domain/recipeInfo'
@@ -20,6 +20,7 @@ import { useMealItems } from './hooks'
 import { addToSlot, fillEmptySlots, slotLabel } from './planActions'
 import { useCandidates, useHousehold } from './planning'
 import { useScrollLock } from './scrollLock'
+import { addTypedShoppingItem } from './shoppingActions'
 
 interface CommandApi {
   open: (text?: string) => void
@@ -74,16 +75,25 @@ function rankRecipes(candidates: Candidate[], query: string, slot: MealSlot | nu
 function CommandPalette({ initial, onClose }: { initial: string; onClose: () => void }) {
   const navigate = useNavigate()
   const toast = useToast()
-  const { settings } = useApp()
+  const { settings, fineli } = useApp()
   const { servings, kcalTarget } = useHousehold()
   const candidates = useCandidates()
-  const [text, setText] = useState(initial)
+  // A day and meal given when opening ("tänään lounas" from an empty slot) are shown as chips only, not
+  // repeated as text in the field; Backspace in an empty field removes them.
+  const [pinned, setPinned] = useState(() => {
+    const p = parseCommand(initial, today())
+    return initial.trim().split(/\s+/).filter((w) => p.tokens.some((tok) => tok.text === w.toLowerCase())).join(' ')
+  })
+  const [text, setText] = useState(() => {
+    const p = parseCommand(initial, today())
+    return initial.trim().split(/\s+/).filter((w) => w && !p.tokens.some((tok) => tok.text === w.toLowerCase())).join(' ')
+  })
   const [index, setIndex] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
   const listRef = useRef<HTMLUListElement>(null)
   const t = today()
   const items = useMealItems(t, addDays(t, 27))
-  const parsed: ParsedCommand = useMemo(() => parseCommand(text, t), [text, t])
+  const parsed: ParsedCommand = useMemo(() => parseCommand(`${pinned} ${text}`, t), [pinned, text, t])
   const hour = new Date().getHours()
 
   // Where a chosen recipe goes: the parsed day/slot, filled in with the first empty slot.
@@ -141,6 +151,18 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
     ]
     const actionMap: Record<string, string> = { fill: 'fill', shop: 'shop', 'copy-week': 'copy-week' }
 
+    // "maito ostoslistalle", "osta maito": straight onto the shopping list.
+    const shopWords = /(^|\s)(ostoslistalle|ostoslistaan|ostoksiin|kauppalistalle|listalle)(?=\s|$)/i
+    const shopText = parsed.action === 'shop' && parsed.query ? parsed.query : shopWords.test(text) ? text.replace(shopWords, ' ').trim() : null
+    const shopRow = (item: string): Row => ({
+      kind: 'action', id: 'shop-add', label: `Lisää ostoslistalle: ${item}`, icon: <ShoppingCart size={17} />,
+      run: async () => {
+        await syncRollingList(fineli)
+        const added = await addTypedShoppingItem(item, { fineli })
+        if (added) toast(`Ostoslistalla: ${added}`, 'ok', { label: 'Avaa', onClick: () => navigate('/ostokset') })
+      },
+    })
+    if (shopText) out.push(shopRow(shopText))
     if (parsed.action) {
       const a = actions.find((x) => x.kind === 'action' && x.id === actionMap[parsed.action!])
       if (a) out.push(a)
@@ -162,10 +184,11 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
       if (a.kind !== 'action' || out.includes(a)) continue
       if (!q ? !parsed.date && !parsed.slot : a.label.toLowerCase().includes(q) || (a.hint && a.hint.startsWith(q))) out.push(a)
     }
+    if (!shopText && q.length >= 3 && !parsed.date && !parsed.slot) out.push(shopRow(parsed.query))
     return out
-  }, [candidates, parsed, target, nextFree, items, t, settings.weekStartsOn, servings, kcalTarget, toast, navigate])
+  }, [candidates, parsed, text, target, nextFree, items, t, settings.weekStartsOn, servings, kcalTarget, toast, navigate, fineli])
 
-  useEffect(() => setIndex(0), [text])
+  useEffect(() => setIndex(0), [text, pinned])
   useEffect(() => {
     listRef.current?.querySelector<HTMLElement>(`[data-index="${index}"]`)?.scrollIntoView({ block: 'nearest' })
   }, [index])
@@ -192,7 +215,10 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
   }
 
   function onKeyDown(e: React.KeyboardEvent) {
-    if (e.key === 'Escape') {
+    if (e.key === 'Backspace' && !text && pinned) {
+      e.preventDefault()
+      setPinned((p) => p.split(' ').slice(0, -1).join(' '))
+    } else if (e.key === 'Escape') {
       e.preventDefault()
       onClose()
     } else if (e.key === 'ArrowDown') {

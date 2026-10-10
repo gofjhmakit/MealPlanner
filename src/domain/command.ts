@@ -100,7 +100,7 @@ export function parseCommand(text: string, todayIso: string): ParsedCommand {
       const slot = SLOTS.find(([re]) => re.test(w))?.[1]
       if (slot) {
         out.slot = slot
-        out.tokens.push({ kind: 'slot', text: w, label: SLOT_LABEL[slot] })
+        out.tokens.push({ kind: 'slot', text: w, label: slot === 'snack' && /^(väli|snack)/.test(w) ? 'välipala' : SLOT_LABEL[slot] })
         continue
       }
     }

@@ -11,6 +11,8 @@ describe('command bar parser', () => {
   })
   it('understands relative days, inflected slot words and next week', () => {
     expect(parseCommand('huomenna päivälliseksi lohi', fri)).toMatchObject({ date: '2026-10-10', slot: 'dinner', query: 'lohi' })
+    expect(parseCommand('välipala', fri).tokens[0].label).toBe('välipala')
+    expect(parseCommand('iltapala', fri).tokens[0].label).toBe('iltapala')
     expect(parseCommand('pe aamiainen', fri).date).toBe(fri)
     expect(parseCommand('ensi ma', fri).date).toBe('2026-10-12')
     expect(parseCommand('ensi pe', fri).date).toBe('2026-10-16')
