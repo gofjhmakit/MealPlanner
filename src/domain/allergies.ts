@@ -23,8 +23,8 @@ const GRADATION: [RegExp, string][] = [
   [/([aeiouyäö])v([aeiouyäö]+)$/, '$1p$2'],
 ]
 
-/** The forms of one allergy word that are looked for in recipe words. */
-function forms(word: string): string[] {
+/** The forms of one typed word that are looked for in recipe words (also used by the fridge search). */
+export function wordForms(word: string): string[] {
   const out = new Set<string>()
   for (const base of lemmaCandidates(word.trim().toLowerCase()).slice(0, 2)) {
     if (base.length < 3) continue
@@ -64,9 +64,10 @@ function findAllergens(recipe: Recipe, allergies: string[]): string[] {
   const text = [recipe.title, ...recipe.ingredients.flatMap((i) => [i.raw, i.name])].join(' ').toLowerCase()
   const words = new Set(text.split(/[^\p{L}\d]+/u).filter((w) => w.length >= 3))
   const haystack = [...words].flatMap((w) => lemmaCandidates(w))
-  return allergies.filter((a) => {
-    const fs = forms(a)
-    // A word's start ("papuja"), a compound's end ("kidneypavut") or, for long words, anywhere ("appelsiininmehu").
-    return haystack.some((h) => fs.some((f) => h.startsWith(f) || (f.length >= 4 && h.endsWith(f)) || (f.length >= 5 && h.includes(f))))
-  })
+  return allergies.filter((a) => mentions(haystack, wordForms(a)))
+}
+
+/** A word's start ("papuja"), a compound's end ("kidneypavut") or, for long words, anywhere ("appelsiininmehu"). */
+export function mentions(haystack: string[], forms: string[]): boolean {
+  return haystack.some((h) => forms.some((f) => h.startsWith(f) || (f.length >= 4 && h.endsWith(f)) || (f.length >= 5 && h.includes(f))))
 }

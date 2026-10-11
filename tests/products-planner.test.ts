@@ -22,6 +22,7 @@ import {
   swapMealRecipe,
 } from '../src/db/repo'
 import { allergensIn, householdAllergies, parseAllergies } from '../src/domain/allergies'
+import { fridgeMatches } from '../src/domain/fridge'
 import { addDays } from '../src/domain/dates'
 import { computeRecipeNutrition } from '../src/domain/nutrition'
 import { findProduct, productMatchIndex, productToFood } from '../src/domain/products'
@@ -259,6 +260,20 @@ describe('automatic meal planning', () => {
     expect(lunch('2026-10-12').leftoverOf).toEqual({ date: '2026-10-11', slot: 'dinner' })
     expect(plan.meals.find((m) => m.date === '2026-10-11' && m.slot === 'dinner')!.extraServings).toBe(2)
     expect(plan.meals.find((m) => m.date === '2026-10-09' && m.slot === 'dinner')!.extraServings).toBe(0)
+  })
+
+  it('finds what can be made from what is at home', () => {
+    const rs = [
+      recipe('wok', ['200 g riisinuudeleita', '300 g pakastewokkivihanneksia', '2 kananmunaa', '2 rkl soijakastiketta', '1 valkosipulinkynsi', '1 rkl rypsiöljyä'], { title: 'Nuudeliwokki' }),
+      recipe('fried', ['5 dl keitettyä riisiä', '2 kananmunaa', '2 dl herneitä', '200 g broilerin fileesuikaleita'], { title: 'Paistettu riisi' }),
+      recipe('wine', ['2 dl riisiviiniä', '400 g broilerin rintafileetä', '1 dl kermaa'], { title: 'Viinikana' }),
+      recipe('meat', ['400 g kanan lihaa', '2 dl riisiä', '1 sipuli'], { title: 'Kanariisi' }),
+    ]
+    const { full, near } = fridgeMatches(rs, ['riisi', 'jauheliha', 'nuudelit', 'wokkivihannekset', 'pakasteherne', 'kananmuna'], { pantry: ['suola'], lookup: store })
+    expect(full.map((m) => m.recipe.id)).toEqual(['wok'])
+    expect(full[0].also).toEqual(expect.arrayContaining(['Soijakastike']))
+    expect(near.map((m) => m.recipe.id)).toEqual(['fried']) // 3 of 4: only the chicken is missing
+    expect(near[0].missing).toHaveLength(1)
   })
 
   it('never suggests recipes with a household allergy word', () => {

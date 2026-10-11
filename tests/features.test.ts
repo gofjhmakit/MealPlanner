@@ -9,15 +9,19 @@ import {
   addMealItem,
   addNoteMeal,
   addRecipeToShoppingList,
+  clearDays,
   copyDay,
+  copyMeals,
   copyRange,
   createShoppingList,
   findRecipeBySourceUrl,
   removeExtraRecipe,
   removeMealItem,
   restoreMealItem,
+  planLeftover,
   saveRecipe,
   setRecipeNotes,
+  undoMealChange,
 } from '../src/db/repo'
 import { matchIngredient } from '../src/domain/matcher'
 import { buildIngredientList } from '../src/domain/recipeIngredients'
@@ -93,6 +97,39 @@ describe('meal plan additions', () => {
     expect(next.map((m) => `${m.date}:${m.slot}:${m.recipeId ?? m.note}`).sort()).toEqual([
       '2026-10-12:breakfast:a', '2026-10-13:breakfast:a', '2026-10-14:lunch:Eväät',
     ])
+  })
+
+  it('copies chosen days into empty slots or over existing meals, and undoes it', async () => {
+    const at = (d: string) => db.mealItems.where('date').equals(d).toArray()
+    const dinner = await addMealItem({ date: '2026-10-05', slot: 'dinner', recipeId: 'a', servings: 2 }, db)
+    await planLeftover(dinner.id, undefined, db) // lunch 6.10.
+    await addMealItem({ date: '2026-10-12', slot: 'dinner', recipeId: 'b', servings: 2 }, db)
+    const fill = await copyMeals(['2026-10-05', '2026-10-06'], 7, 'empty', db)
+    expect(fill.added).toHaveLength(1) // 12.10. dinner was taken, so only the lunch was copied…
+    expect((await at('2026-10-13'))[0]).toMatchObject({ slot: 'lunch', recipeId: 'a', leftoverOfId: null }) // …and is cooked on its own
+    await undoMealChange(fill, db)
+    expect(await at('2026-10-13')).toHaveLength(0)
+    const replace = await copyMeals(['2026-10-05', '2026-10-06'], 7, 'replace', db)
+    const [d12] = await at('2026-10-12')
+    expect(d12).toMatchObject({ recipeId: 'a', extraServings: 2 })
+    expect((await at('2026-10-13'))[0].leftoverOfId).toBe(d12.id)
+    await undoMealChange(replace, db)
+    expect((await at('2026-10-12')).map((m) => m.recipeId)).toEqual(['b'])
+  })
+
+  it('clears days; leftovers elsewhere stay as their own meals and undo brings everything back', async () => {
+    const dinner = await addMealItem({ date: '2026-10-05', slot: 'dinner', recipeId: 'a', servings: 2 }, db)
+    const lunch = (await planLeftover(dinner.id, undefined, db))!
+    const change = await clearDays(['2026-10-05'], db)
+    expect(await db.mealItems.get(dinner.id)).toBeUndefined()
+    expect((await db.mealItems.get(lunch.id))!.leftoverOfId).toBeNull()
+    await undoMealChange(change, db)
+    expect((await db.mealItems.get(dinner.id))!.extraServings).toBe(2)
+    expect((await db.mealItems.get(lunch.id))!.leftoverOfId).toBe(dinner.id)
+    const change2 = await clearDays(['2026-10-06'], db)
+    expect((await db.mealItems.get(dinner.id))!.extraServings).toBeNull()
+    await undoMealChange(change2, db)
+    expect((await db.mealItems.get(dinner.id))!.extraServings).toBe(2)
   })
 
   it('undo restores a removed meal', async () => {

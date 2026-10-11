@@ -360,6 +360,81 @@ export async function copyRange(from: string, to: string, offsetDays: number, da
   return items.length
 }
 
+/** What a bulk edit changed, so it can be undone (undoMealChange). */
+export interface MealChange {
+  added: string[]
+  /** Rows as they were before: deleted or modified. */
+  before: MealItem[]
+}
+
+export async function undoMealChange(change: MealChange, database: MealPlannerDB = defaultDb) {
+  await database.transaction('rw', database.mealItems, async () => {
+    await database.mealItems.bulkDelete(change.added)
+    await database.mealItems.bulkPut(change.before)
+  })
+}
+
+/**
+ * Copy the meals of `dates` forward by `offsetDays` (dates keep their spacing). "empty" only fills
+ * slots that are free at the target; "replace" clears the target days first. Leftover links are kept
+ * when both meals are copied; otherwise the copy is cooked on its own.
+ */
+export async function copyMeals(dates: string[], offsetDays: number, mode: 'empty' | 'replace', database: MealPlannerDB = defaultDb): Promise<MealChange> {
+  const shift = (d: string) => {
+    const x = new Date(`${d}T12:00:00`)
+    x.setDate(x.getDate() + offsetDays)
+    return `${x.getFullYear()}-${String(x.getMonth() + 1).padStart(2, '0')}-${String(x.getDate()).padStart(2, '0')}`
+  }
+  return database.transaction('rw', database.mealItems, async () => {
+    const all = await database.mealItems.where('planId').equals(DEFAULT_PLAN_ID).toArray()
+    const sourceDays = new Set(dates)
+    const targetDays = new Set(dates.map(shift))
+    const source = all.filter((m) => sourceDays.has(m.date) && m.status !== 'skipped')
+    const change: MealChange = { added: [], before: [] }
+    if (mode === 'replace') {
+      const cleared = await clearDaysInTx(all, targetDays, database)
+      change.before.push(...cleared)
+    }
+    const taken = new Set(mode === 'replace' ? [] : all.filter((m) => targetDays.has(m.date)).map((m) => `${m.date}|${m.slot}`))
+    const copied = source.filter((m) => !taken.has(`${shift(m.date)}|${m.slot}`))
+    const newIds = new Map(copied.map((m) => [m.id, newId()]))
+    for (const it of copied.sort((a, b) => a.date.localeCompare(b.date) || a.position - b.position)) {
+      const extra = copied.filter((m) => m.leftoverOfId === it.id).reduce((sum, m) => sum + m.servings, 0)
+      const row = await addMealItem({ id: newIds.get(it.id), date: shift(it.date), slot: it.slot, ...copyFields(it), extraServings: extra || null, leftoverOfId: it.leftoverOfId ? (newIds.get(it.leftoverOfId) ?? null) : null }, database)
+      change.added.push(row.id)
+    }
+    return change
+  })
+}
+
+/** Remove every meal of `dates`. Leftovers of them on other days become meals of their own; dinners elsewhere cook fewer extra portions. */
+export async function clearDays(dates: string[], database: MealPlannerDB = defaultDb): Promise<MealChange> {
+  return database.transaction('rw', database.mealItems, async () => {
+    const all = await database.mealItems.where('planId').equals(DEFAULT_PLAN_ID).toArray()
+    return { added: [], before: await clearDaysInTx(all, new Set(dates), database) }
+  })
+}
+
+async function clearDaysInTx(all: MealItem[], days: Set<string>, database: MealPlannerDB): Promise<MealItem[]> {
+  const doomed = all.filter((m) => days.has(m.date))
+  const doomedIds = new Set(doomed.map((m) => m.id))
+  const touched: MealItem[] = [...doomed]
+  for (const m of all) {
+    if (doomedIds.has(m.id)) continue
+    if (m.leftoverOfId && doomedIds.has(m.leftoverOfId)) {
+      touched.push(m)
+      await database.mealItems.update(m.id, { leftoverOfId: null })
+    }
+    const eatenAway = doomed.filter((d) => d.leftoverOfId === m.id).reduce((sum, d) => sum + d.servings, 0)
+    if (eatenAway) {
+      touched.push(m)
+      await database.mealItems.update(m.id, { extraServings: Math.max(0, (m.extraServings ?? 0) - eatenAway) || null })
+    }
+  }
+  await database.mealItems.bulkDelete([...doomedIds])
+  return touched
+}
+
 export async function clearRange(from: string, to: string, database: MealPlannerDB = defaultDb) {
   const items = await mealItemsInRange(from, to, database)
   await database.mealItems.bulkDelete(items.map((i) => i.id))

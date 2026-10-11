@@ -6,7 +6,8 @@
  *   1280+:  plus a side panel: Reseptit (drag into the grid) · Ateria · Ostokset.
  *   Month:  the whole month at a glance; click a day to plan it.
  */
-import { ChevronLeft, ChevronRight, GripVertical, Plus, Printer, Search, ShoppingCart, Sparkles } from 'lucide-react'
+import { ChevronLeft, ChevronRight, CopyPlus, GripVertical, Plus, Printer, Search, ShoppingCart, Sparkles } from 'lucide-react'
+import { DaysDialog } from '../components/DaysDialog'
 import { PrintDialog } from '../components/PrintDialog'
 import { useEffect, useMemo, useRef, useState, type DragEvent, type KeyboardEvent } from 'react'
 import { Link, useNavigationType, useSearchParams } from 'react-router'
@@ -61,6 +62,7 @@ export function WeekPage() {
   const nutrition = usePlanNutrition(items, recipes)
   const [sheet, setSheet] = useState<string | null>(null)
   const [printing, setPrinting] = useState(false)
+  const [daysDialog, setDaysDialog] = useState<string[] | null>(null)
   const [selected, setSelected] = useState<{ date: string; slot: MealSlot } | null>(null)
 
   const go = (patch: Record<string, string | null>) => {
@@ -129,6 +131,12 @@ export function WeekPage() {
           )}
         </div>
         <div className="ml-auto flex items-center gap-2">
+          {view !== 'month' && (
+            <button onClick={() => setDaysDialog(days.slice(0, 7))} className="flex h-9 items-center gap-1.5 rounded-xl border border-line bg-surface px-3 text-sm font-medium hover:bg-surface-2" aria-label="Kopioi tai tyhjennä">
+              <CopyPlus size={16} /> <span className="hidden sm:inline">Kopioi / tyhjennä</span>
+            </button>
+          )}
+          {daysDialog && <DaysDialog onClose={() => setDaysDialog(null)} weekDays={days.length > 7 ? days : days.slice(0, 7)} initial={daysDialog} />}
           <button onClick={() => setPrinting(true)} className="flex h-9 items-center gap-1.5 rounded-xl border border-line bg-surface px-3 text-sm font-medium hover:bg-surface-2" aria-label="Tulosta">
             <Printer size={16} /> <span className="hidden sm:inline">Tulosta</span>
           </button>
@@ -168,6 +176,7 @@ export function WeekPage() {
                 onSelect={setSelected}
                 onOpen={setSheet}
                 onEmpty={(date, slot) => command.open(`${date === t ? 'tänään' : formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()} `)}
+                onDay={(d) => setDaysDialog([d])}
               />
             ))}
             <ShortcutBar />
@@ -175,7 +184,7 @@ export function WeekPage() {
           <SidePanel days={days} items={items ?? []} recipes={recipes} selected={selected} candidates={candidates} kcalOf={kcalOf} dayKcal={dayKcal} />
         </div>
       ) : (
-        <DayRows days={days} items={items ?? []} ready={!!items && !!recipes} recipes={recipes} nutrition={nutrition} kcalTarget={kcalTarget} onOpen={setSheet} onAdd={(date, slot) => command.open(`${date === t ? 'tänään' : formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()} `)} />
+        <DayRows days={days} items={items ?? []} ready={!!items && !!recipes} onDay={(d) => setDaysDialog([d])} recipes={recipes} nutrition={nutrition} kcalTarget={kcalTarget} onOpen={setSheet} onAdd={(date, slot) => command.open(`${date === t ? 'tänään' : formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()} `)} />
       )}
 
       {/* Phones: thumb-reach actions */}
@@ -200,7 +209,7 @@ export function WeekPage() {
 // ---------------------------------------------------------------------------------------------
 // Phones: day rows
 
-function DayRows({ days, items, ready, recipes, nutrition, kcalTarget, onOpen, onAdd }: { days: string[]; items: MealItem[]; ready: boolean; recipes: Map<string, Recipe> | undefined; nutrition: PlanNutrition | null; kcalTarget: number | null; onOpen: (id: string) => void; onAdd: (date: string, slot: MealSlot) => void }) {
+function DayRows({ days, items, ready, onDay, recipes, nutrition, kcalTarget, onOpen, onAdd }: { days: string[]; items: MealItem[]; ready: boolean; onDay: (d: string) => void; recipes: Map<string, Recipe> | undefined; nutrition: PlanNutrition | null; kcalTarget: number | null; onOpen: (id: string) => void; onAdd: (date: string, slot: MealSlot) => void }) {
   const t = today()
   const ref = useRef<HTMLOListElement>(null)
   const navType = useNavigationType()
@@ -228,10 +237,10 @@ function DayRows({ days, items, ready, recipes, nutrition, kcalTarget, onOpen, o
         return (
           <li key={d} data-today={d === t ? '' : undefined} className={cx('scroll-mt-4 rounded-[22px] border bg-surface p-3', d === t ? 'border-brand' : 'border-line', past && 'opacity-60')}>
             <div className="flex gap-3">
-              <div className="w-10 shrink-0 pt-0.5 text-center">
-                <p className={cx('text-[11px] font-semibold uppercase', d === t ? 'text-brand' : 'text-muted')}>{weekdayName(d, true)}</p>
-                <p className="tabular font-display text-xl font-semibold leading-tight">{parseISODate(d).getDate()}</p>
-              </div>
+              <button onClick={() => onDay(d)} aria-label={`${weekdayName(d)} ${formatDate(d)}: kopioi tai tyhjennä`} className="-my-1 w-10 shrink-0 self-start rounded-lg py-1 pt-1.5 text-center active:bg-surface-2">
+                <span className={cx('block text-[11px] font-semibold uppercase', d === t ? 'text-brand' : 'text-muted')}>{weekdayName(d, true)}</span>
+                <span className="tabular block font-display text-xl font-semibold leading-tight">{parseISODate(d).getDate()}</span>
+              </button>
               <div className="flex min-w-0 flex-1 flex-wrap gap-1.5">
                 {dayItems.map((i) => {
                   const r = i.recipeId ? recipes?.get(i.recipeId) : undefined
@@ -271,8 +280,9 @@ function DayRows({ days, items, ready, recipes, nutrition, kcalTarget, onOpen, o
 // Desktop: the grid
 
 function WeekGrid({
-  days, items, recipes, nutrition, kcalOf, dayKcal, kcalTarget, proteinTarget, servings, selected, onSelect, onOpen, onEmpty,
+  days, items, recipes, nutrition, kcalOf, dayKcal, kcalTarget, proteinTarget, servings, selected, onSelect, onOpen, onEmpty, onDay,
 }: {
+  onDay: (d: string) => void
   days: string[]
   items: MealItem[]
   recipes: Map<string, Recipe> | undefined
@@ -366,8 +376,10 @@ function WeekGrid({
           const kcal = dayKcal(d)
           return (
             <div key={d} role="columnheader" className={cx('px-1', d < t && 'opacity-55')}>
-              <p className={cx('text-[11px] font-semibold uppercase tracking-wider', d === t ? 'text-accent' : 'text-muted')}>{weekdayName(d, true)}{d === t ? ' · tänään' : ''}</p>
-              <p className="tabular font-display text-xl font-semibold">{formatDate(d)}</p>
+              <button onClick={() => onDay(d)} title="Kopioi tai tyhjennä päivä" className="-mx-1 block w-[calc(100%+0.5rem)] rounded-lg px-1 text-left hover:bg-surface-2">
+                <span className={cx('block text-[11px] font-semibold uppercase tracking-wider', d === t ? 'text-accent' : 'text-muted')}>{weekdayName(d, true)}{d === t ? ' · tänään' : ''}</span>
+                <span className="tabular block font-display text-xl font-semibold">{formatDate(d)}</span>
+              </button>
               <MiniBar value={kcal} max={kcalTarget ? kcalTarget * 1.25 : Math.max(kcal, 1)} tone={dayTone(d, t, kcal, kcalTarget)} tick={kcalTarget ? 80 : undefined} className="mt-1.5" />
             </div>
           )
