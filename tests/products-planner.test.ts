@@ -19,6 +19,7 @@ import {
   saveRecipe,
   setMealServings,
   setRecipeRating,
+  swapMealRecipe,
 } from '../src/db/repo'
 import { allergensIn, householdAllergies, parseAllergies } from '../src/domain/allergies'
 import { addDays } from '../src/domain/dates'
@@ -173,6 +174,18 @@ describe('ratings', () => {
 })
 
 describe('leftovers', () => {
+  it('a leftover lunch given another recipe is cooked on its own', async () => {
+    await saveRecipe(recipe('a', ['400 g naudan jauhelihaa']), db)
+    await saveRecipe(recipe('b', ['1 sipuli']), db)
+    const dinner = await addMealItem({ date: '2026-10-10', slot: 'dinner', recipeId: 'a', servings: 2 }, db)
+    const lunch = (await planLeftover(dinner.id, undefined, db))!
+    const undo = await swapMealRecipe(lunch.id, 'b', db)
+    expect(await db.mealItems.get(lunch.id)).toMatchObject({ recipeId: 'b', leftoverOfId: null })
+    expect((await db.mealItems.get(dinner.id))!).toMatchObject({ recipeId: 'a', extraServings: null })
+    await restoreMealItem(undo, db)
+    expect((await db.mealItems.get(dinner.id))!.extraServings).toBe(2)
+  })
+
   it('cooks extra at dinner, counts it once in shopping, and keeps links consistent on edits/undo', async () => {
     await saveRecipe(recipe('a', ['400 g naudan jauhelihaa']), db)
     const dinner = await addMealItem({ date: '2026-10-06', slot: 'dinner', recipeId: 'a', servings: 2 }, db)
@@ -236,6 +249,18 @@ describe('automatic meal planning', () => {
     expect(plan.meals.some((m) => ['chicken', 'beef', 'salmon', 'lentil'].includes(m.recipeId))).toBe(false)
   })
 
+  it('cooks weekend lunches separately when leftovers are for weekdays only', () => {
+    // 2026-10-09 is a Friday: Friday's dinner is not Saturday's lunch, Sunday's is Monday's.
+    const days = Array.from({ length: 4 }, (_, i) => addDays('2026-10-09', i))
+    const plan = planMeals(cands(), { ...base, dates: days, leftovers: true, leftoversOnWeekends: false })
+    const lunch = (d: string) => plan.meals.find((m) => m.date === d && m.slot === 'lunch')!
+    expect(lunch('2026-10-10').leftoverOf).toBeNull()
+    expect(lunch('2026-10-11').leftoverOf).toBeNull()
+    expect(lunch('2026-10-12').leftoverOf).toEqual({ date: '2026-10-11', slot: 'dinner' })
+    expect(plan.meals.find((m) => m.date === '2026-10-11' && m.slot === 'dinner')!.extraServings).toBe(2)
+    expect(plan.meals.find((m) => m.date === '2026-10-09' && m.slot === 'dinner')!.extraServings).toBe(0)
+  })
+
   it('never suggests recipes with a household allergy word', () => {
     const plan = planMeals(buildCandidates(mains, store, new Set(), undefined, ['peruna']), { ...base, leftovers: false })
     expect(plan.meals.length).toBeGreaterThan(0)
@@ -243,7 +268,8 @@ describe('automatic meal planning', () => {
   })
 
   it('matches allergy words literally, with Finnish word forms and compounds', () => {
-    const r = (lines: string[], title = 'Ruoka') => recipe('x', lines, { title })
+    let n = 0
+    const r = (lines: string[], title = 'Ruoka') => recipe(`x${n++}`, lines, { title })
     expect(allergensIn(r(['1 tlk (400 g) kidneypapuja']), ['papu'])).toEqual(['papu'])
     expect(allergensIn(r(['2 dl valkoisia papuja']), ['papu'])).toEqual(['papu'])
     expect(allergensIn(r(['400 g pavut']), ['papu'])).toEqual(['papu'])

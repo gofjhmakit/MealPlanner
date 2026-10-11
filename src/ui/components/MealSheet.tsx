@@ -179,10 +179,14 @@ export function MealSheetBody({ item, recipe, kcal, dayKcal, onClose }: { item: 
 
       {recipe && (
         <div className="flex gap-2">
-          <Link to={`/reseptit/${recipe.id}?kokkaa=1&annokset=${item.servings + (item.extraServings ?? 0)}`} className="flex h-11 flex-1 items-center justify-center gap-2 rounded-xl bg-brand text-sm font-semibold text-on-brand">
-            <ChefHat size={17} /> Aloita kokkaus
-          </Link>
-          <Link to={`/reseptit/${recipe.id}`} className="flex h-11 items-center justify-center gap-1 rounded-xl border border-line px-4 text-sm font-medium">
+          {item.leftoverOfId ? (
+            <p className="flex h-11 flex-1 items-center justify-center rounded-xl bg-brand-soft/60 px-3 text-center text-sm text-brand">Tähteet edellisestä päivällisestä – ei kokkausta</p>
+          ) : (
+            <Link to={`/reseptit/${recipe.id}?kokkaa=1&annokset=${item.servings + (item.extraServings ?? 0)}${item.extraServings ? `&tahteet=${item.extraServings}` : ''}`} className="flex h-11 flex-1 items-center justify-center gap-2 rounded-xl bg-brand text-sm font-semibold text-on-brand">
+              <ChefHat size={17} /> Aloita kokkaus
+            </Link>
+          )}
+          <Link to={`/reseptit/${recipe.id}${item.leftoverOfId ? '' : `?annokset=${item.servings + (item.extraServings ?? 0)}${item.extraServings ? `&tahteet=${item.extraServings}` : ''}`}`} className="flex h-11 items-center justify-center gap-1 rounded-xl border border-line px-4 text-sm font-medium">
             Resepti <ArrowRight size={15} />
           </Link>
         </div>

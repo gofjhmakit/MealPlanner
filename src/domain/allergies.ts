@@ -46,9 +46,21 @@ export function parseAllergies(text: string): string[] {
   return text.split(/[,;\n]+/).map((s) => s.trim()).filter(Boolean)
 }
 
+const cache = new Map<string, string[]>()
+
 /** Which of the allergy words the recipe's title or ingredient lines mention. */
 export function allergensIn(recipe: Recipe, allergies: string[]): string[] {
   if (!allergies.length) return []
+  const key = `${recipe.id}:${recipe.updatedAt}:${allergies.join(',')}`
+  const hit = cache.get(key)
+  if (hit) return hit
+  if (cache.size > 20000) cache.clear()
+  const found = findAllergens(recipe, allergies)
+  cache.set(key, found)
+  return found
+}
+
+function findAllergens(recipe: Recipe, allergies: string[]): string[] {
   const text = [recipe.title, ...recipe.ingredients.flatMap((i) => [i.raw, i.name])].join(' ').toLowerCase()
   const words = new Set(text.split(/[^\p{L}\d]+/u).filter((w) => w.length >= 3))
   const haystack = [...words].flatMap((w) => lemmaCandidates(w))

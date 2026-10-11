@@ -306,6 +306,8 @@ export const userSettingsSchema = z.object({
   /** True once the first-run setup was completed or skipped. */
   onboarded: z.boolean().default(false),
   weights: z.array(weightEntrySchema).default([]),
+  /** Cook dinner with extra portions and eat them as the next day's lunch: never, for weekday lunches, or every day. */
+  leftoverLunch: z.enum(['off', 'weekdays', 'always']).default('weekdays'),
 })
 export type UserSettings = z.infer<typeof userSettingsSchema>
 
@@ -318,6 +320,7 @@ export const DEFAULT_SETTINGS: UserSettings = {
   household: [],
   goal: null,
   onboarded: false,
+  leftoverLunch: 'weekdays',
   weights: [],
 }
 

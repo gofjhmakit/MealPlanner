@@ -150,7 +150,7 @@ export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourc
   return <Badge>Oma</Badge>
 }
 
-export function RecipeCard({ recipe, kcal, protein, favourite, action }: { recipe: Recipe; kcal?: number | null; protein?: number | null; favourite?: boolean; action?: ReactNode }) {
+export function RecipeCard({ recipe, kcal, protein, favourite, action, allergens }: { recipe: Recipe; kcal?: number | null; protein?: number | null; favourite?: boolean; action?: ReactNode; allergens?: string[] }) {
   const time = recipeTime(recipe)
   return (
     <article className="group relative flex flex-col overflow-hidden rounded-[20px] border border-line bg-surface transition hover:-translate-y-0.5 hover:shadow-lg">
@@ -158,6 +158,9 @@ export function RecipeCard({ recipe, kcal, protein, favourite, action }: { recip
         <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" />
         <div className="flex flex-1 flex-col gap-1.5 p-3 sm:p-3.5">
           <h3 className="line-clamp-2 text-[15px] font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>
+          {allergens && allergens.length > 0 && (
+            <p className="w-fit rounded-full bg-accent-soft px-2 py-0.5 text-[11px] font-semibold text-accent">Allergia: {allergens.join(', ')}</p>
+          )}
           <div className="mt-auto flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs text-muted">
             {kcal ? <span className="tabular font-medium text-ink-2">{Math.round(kcal)} kcal</span> : null}
             {protein ? <span className="tabular">P {Math.round(protein)} g</span> : null}

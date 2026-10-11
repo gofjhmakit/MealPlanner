@@ -8,7 +8,7 @@
  */
 import { ChevronLeft, ChevronRight, GripVertical, Plus, Search, ShoppingCart, Sparkles } from 'lucide-react'
 import { useEffect, useMemo, useRef, useState, type DragEvent, type KeyboardEvent } from 'react'
-import { Link, useSearchParams } from 'react-router'
+import { Link, useNavigationType, useSearchParams } from 'react-router'
 import { duplicateMealItem, moveMealItem, removeMealItem, restoreMealItem } from '../../db/repo'
 import { addDays, capitalize, formatDate, isoWeek, parseISODate, startOfWeek, today, weekdayName } from '../../domain/dates'
 import { matchesQuery } from '../../domain/recipeInfo'
@@ -169,7 +169,7 @@ export function WeekPage() {
           <SidePanel days={days} items={items ?? []} recipes={recipes} selected={selected} candidates={candidates} kcalOf={kcalOf} dayKcal={dayKcal} />
         </div>
       ) : (
-        <DayRows days={days} items={items ?? []} recipes={recipes} nutrition={nutrition} kcalTarget={kcalTarget} onOpen={setSheet} onAdd={(date, slot) => command.open(`${date === t ? 'tänään' : formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()} `)} />
+        <DayRows days={days} items={items ?? []} ready={!!items && !!recipes} recipes={recipes} nutrition={nutrition} kcalTarget={kcalTarget} onOpen={setSheet} onAdd={(date, slot) => command.open(`${date === t ? 'tänään' : formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()} `)} />
       )}
 
       {/* Phones: thumb-reach actions */}
@@ -194,14 +194,19 @@ export function WeekPage() {
 // ---------------------------------------------------------------------------------------------
 // Phones: day rows
 
-function DayRows({ days, items, recipes, nutrition, kcalTarget, onOpen, onAdd }: { days: string[]; items: MealItem[]; recipes: Map<string, Recipe> | undefined; nutrition: PlanNutrition | null; kcalTarget: number | null; onOpen: (id: string) => void; onAdd: (date: string, slot: MealSlot) => void }) {
+function DayRows({ days, items, ready, recipes, nutrition, kcalTarget, onOpen, onAdd }: { days: string[]; items: MealItem[]; ready: boolean; recipes: Map<string, Recipe> | undefined; nutrition: PlanNutrition | null; kcalTarget: number | null; onOpen: (id: string) => void; onAdd: (date: string, slot: MealSlot) => void }) {
   const t = today()
   const ref = useRef<HTMLOListElement>(null)
+  const navType = useNavigationType()
+  const scrolled = useRef(false)
+  // Today first in view – once the meals are loaded (they change the row heights). Back keeps its own position.
   useEffect(() => {
-    ref.current?.querySelector('[data-today]')?.scrollIntoView({ block: 'start', behavior: 'instant' as ScrollBehavior })
-  }, [])
+    if (!ready || scrolled.current || navType === 'POP') return
+    scrolled.current = true
+    requestAnimationFrame(() => ref.current?.querySelector('[data-today]')?.scrollIntoView({ block: 'start', behavior: 'instant' as ScrollBehavior }))
+  }, [ready, navType])
   return (
-    <ol ref={ref} className="space-y-2.5 pb-20">
+    <ol ref={ref} className="space-y-2.5 pb-44">
       {days.map((d) => {
         const dayItems = items.filter((i) => i.date === d).sort((a, b) => SLOT_ORDER[a.slot] - SLOT_ORDER[b.slot] || a.position - b.position)
         const kcal = nutrition?.byDay.get(d)?.nutrients.energyKcal ?? 0
@@ -586,7 +591,7 @@ function RecipeDrawer({ candidates, selected, items, dayKcal }: { candidates: Ca
             <MealThumb recipe={c.recipe} size={40} />
             <span className="min-w-0 flex-1">
               <Link to={`/reseptit/${c.recipe.id}`} className="block truncate text-sm font-medium hover:underline">{c.recipe.title}</Link>
-              <span className="block text-xs text-muted">{[c.time ? `${c.time} min` : null, `${Math.round(c.kcal)} kcal`, c.recipe.rating ? `★ ${c.recipe.rating}` : null].filter(Boolean).join(' · ')}</span>
+              <span className="block text-xs text-muted">{c.allergens.length > 0 && <b className="font-semibold text-accent">Allergia: {c.allergens.join(', ')} · </b>}{[c.time ? `${c.time} min` : null, `${Math.round(c.kcal)} kcal`, c.recipe.rating ? `★ ${c.recipe.rating}` : null].filter(Boolean).join(' · ')}</span>
             </span>
             <GripVertical size={15} className="shrink-0 text-muted opacity-0 group-hover:opacity-100" />
             <AddButton recipeId={c.recipe.id} target={target} />

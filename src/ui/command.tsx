@@ -292,6 +292,7 @@ function CommandPalette({ initial, onClose }: { initial: string; onClose: () => 
                       <span className="min-w-0 flex-1">
                         <span className="block truncate text-sm font-medium">{row.c.recipe.title}</span>
                         <span className="block truncate text-xs text-muted">
+                          {row.c.allergens.length > 0 && <b className="font-semibold text-accent">Allergia: {row.c.allergens.join(', ')} · </b>}
                           {[row.c.time ? `${row.c.time} min` : null, row.c.kcal ? `${Math.round(row.c.kcal)} kcal` : null, row.c.recipe.rating ? `★ ${row.c.recipe.rating}` : null, row.c.recipe.origin === 'catalogue' ? row.c.recipe.sourceName : 'oma'].filter(Boolean).join(' · ')}
                         </span>
                       </span>

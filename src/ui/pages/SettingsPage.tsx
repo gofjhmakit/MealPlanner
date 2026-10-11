@@ -134,6 +134,13 @@ export function SettingsPage() {
                 </Select>
               </Field>
             </div>
+            <Field label="Päivällisen tähteet lounaaksi" hint="Päivällinen tehdään tuplana, ja seuraavan päivän lounas syödään tähteistä – lounaalla ei kokata. Toimii ruokalistan täytössä ja kun lisäät päivällisen.">
+              <Select value={settings.leftoverLunch} onChange={async (e) => saveUserSettings({ ...(await getUserSettings()), leftoverLunch: e.target.value as UserSettings['leftoverLunch'] })} className="w-full">
+                <option value="weekdays">Arkipäivinä (viikonloppuna oma lounas)</option>
+                <option value="always">Joka päivä</option>
+                <option value="off">Ei – lounas kokataan erikseen</option>
+              </Select>
+            </Field>
             <Field label="Aina kotona olevat ainekset" hint="Pilkulla erotettuna. Ne eivät tule ostoslistalle, ja reseptihaun ”Kotona olevista” käyttää niitä.">
               <textarea value={pantryText} onChange={(e) => setPantryText(e.target.value)} rows={3} className="w-full rounded-xl border border-line bg-surface p-3 text-sm focus:border-brand focus:outline-none" />
             </Field>

@@ -41,7 +41,7 @@ export function PlanWeekPage() {
   const { servings: householdServings, kcalTarget } = useHousehold()
   const [people, setPeople] = useState(householdServings)
   const [slots, setSlots] = useState<MealSlot[]>(kcalTarget ? ['breakfast', 'lunch', 'dinner'] : ['lunch', 'dinner'])
-  const [leftovers, setLeftovers] = useState(true)
+  const [leftovers, setLeftovers] = useState(settings.leftoverLunch !== 'off')
   const [diet, setDiet] = useState<PlanOptions['diet']>('all')
   const [glutenFree, setGlutenFree] = useState(false)
   const [milkFree, setMilkFree] = useState(false)
@@ -82,6 +82,7 @@ export function PlanWeekPage() {
       slots,
       people,
       leftovers: leftovers && leftoverPossible,
+      leftoversOnWeekends: settings.leftoverLunch !== 'weekdays',
       diet,
       glutenFree,
       milkFree,
@@ -163,7 +164,7 @@ export function PlanWeekPage() {
           <span className="ml-auto"><Stepper value={people} onChange={setPeople} min={1} max={20} label="Annokset" suffix="hlö" size="sm" /></span>
         </div>
         <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-ink-2">
-          <Switch checked={leftovers && leftoverPossible} onChange={setLeftovers} disabled={!leftoverPossible} label="Päivällisen tähteet seuraavan päivän lounaaksi" />
+          <Switch checked={leftovers && leftoverPossible} onChange={setLeftovers} disabled={!leftoverPossible} label={settings.leftoverLunch === 'weekdays' ? 'Päivällisen tähteet seuraavan arkipäivän lounaaksi' : 'Päivällisen tähteet seuraavan päivän lounaaksi'} />
         </div>
         <button onClick={() => setTuning((v) => !v)} className="inline-flex items-center gap-1 text-sm font-medium text-brand" aria-expanded={tuning}>
           <SlidersHorizontal size={15} /> {tuning ? 'Piilota lisäasetukset' : 'Säädä: ruokavalio, kalorit, aika, toiveet'}

@@ -81,6 +81,9 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const fixedSize = isMealComponent(recipe) || ['leivonnainen', 'juoma', 'sailyke', 'kastike', 'jalkiruoka'].includes(recipeType(recipe))
   const initialServings = Number(params.get('annokset')) || (fixedSize ? recipe.servings : householdServings)
   const [servings, setServings] = useState(initialServings)
+  // Opened from a dinner that is also tomorrow's lunch: how many of the portions are leftovers.
+  const leftoverPortions = Number(params.get('tahteet')) || 0
+  const leftoverNote = leftoverPortions > 0 && servings > leftoverPortions ? ` · ${formatNumber(servings - leftoverPortions, 1)} nyt + ${formatNumber(leftoverPortions, 1)} huomisen lounaaksi` : ''
   const [planOpen, setPlanOpen] = useState(false)
   const [shopOpen, setShopOpen] = useState(false)
   const cooking = params.get('kokkaa') === '1'
@@ -206,7 +209,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
         </p>
       )}
       <p className="-mt-1 mb-2 text-xs text-muted">
-        {buyCount} ostettavaa{factor !== 1 ? ` · skaalattu ${formatNumber(recipe.servings, 1)} → ${formatNumber(servings, 1)} annosta` : ''}
+        {buyCount} ostettavaa{factor !== 1 ? ` · skaalattu ${formatNumber(recipe.servings, 1)} → ${formatNumber(servings, 1)} annosta` : ''}{leftoverNote}
       </p>
       {checkMode && lowConfidence.length > 0 && (
         <p className="mb-3 flex items-start gap-2 rounded-lg bg-warn-soft px-3 py-2 text-xs text-warn">
@@ -910,7 +913,7 @@ function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; fa
       <header className="safe-top flex flex-wrap items-center gap-x-3 gap-y-2 border-b border-line pb-3">
         <div className="min-w-0 flex-1">
           <p className="truncate text-xs text-muted">
-            Kokkaustila · {formatNumber(servings, 1)} annosta
+            Kokkaustila · {formatNumber(servings, 1)} annosta{leftoverNote}
             {wakeLock === 'on' && <span className="hidden sm:inline"> · näyttö pysyy päällä</span>}
           </p>
           <h2 className="truncate font-display text-xl font-semibold">{recipe.title}</h2>

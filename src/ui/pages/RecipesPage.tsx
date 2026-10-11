@@ -12,6 +12,7 @@ import type { Recipe } from '../../domain/types'
 import { useApp } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { RecipeCard } from '../components/recipe'
+import { allergensIn, householdAllergies } from '../../domain/allergies'
 import { Button, Chip, cx, EmptyState, Select, Spinner } from '../components/ui'
 import { Segmented, Sheet } from '../components/v2'
 import { useAllRecipes, useEntryState, useFavouriteIds } from '../hooks'
@@ -90,6 +91,7 @@ export function RecipesPage() {
     return [...bySource.entries()].sort((a, b) => (a[0] === 'fineli' ? 1 : b[0] === 'fineli' ? -1 : b[1].count - a[1].count))
   }, [recipes])
 
+  const allergies = useMemo(() => householdAllergies(settings.household), [settings.household])
   const results = useMemo(() => {
     if (!recipes) return []
     const nutritionOf = (r: Recipe) => recipeNutritionCached(r, ctx).perServing
@@ -100,6 +102,8 @@ export function RecipesPage() {
       if (sourceFilter) return r.sourceId === sourceFilter
       return r.sourceId !== 'fineli' || searching
     })
+      // Browsing leaves out recipes with a household allergy word; a search shows them, marked.
+      .filter((r) => searching || tab !== 'loyda' || !allergensIn(r, allergies).length)
     let filtered = filterRecipes(base, filters, ctx)
     if (filling) {
       filtered = filtered.filter((r) => {
@@ -128,7 +132,11 @@ export function RecipesPage() {
                 ? (b.rating ?? 0) - (a.rating ?? 0) || a.title.localeCompare(b.title, 'fi')
                 : a.title.localeCompare(b.title, 'fi'),
     )
-  }, [recipes, tab, favourites, filters, ctx, sort, sourceFilter, filling])
+  }, [recipes, tab, favourites, filters, ctx, sort, sourceFilter, filling, allergies])
+  const hiddenForAllergies = useMemo(
+    () => (allergies.length && tab === 'loyda' && !filters.query.trim() && recipes ? recipes.filter((r) => r.sourceId !== 'fineli' && allergensIn(r, allergies).length).length : 0),
+    [recipes, allergies, tab, filters.query],
+  )
 
   const activeCount = [
     filters.vegetarian, filters.vegan, filters.highProtein, filters.lowCalorie, filters.quick, filters.glutenFree, filters.milkFree, filters.lactoseFree,
@@ -206,11 +214,12 @@ export function RecipesPage() {
         <>
           <p className="mb-3 text-sm text-muted">
             {results.length.toLocaleString('fi-FI')} reseptiä · {SORT_LABELS[sort].toLowerCase()}
+            {hiddenForAllergies > 0 && ` · ${hiddenForAllergies.toLocaleString('fi-FI')} piilotettu allergioiden vuoksi (näkyvät haulla)`}
           </p>
           <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 3xl:grid-cols-6">
             {results.slice(0, limit).map((r) => {
               const n = recipeNutritionCached(r, ctx).perServing
-              return <RecipeCard key={r.id} recipe={r} favourite={favourites.has(r.id)} kcal={n.energyKcal} protein={n.protein} />
+              return <RecipeCard key={r.id} recipe={r} favourite={favourites.has(r.id)} kcal={n.energyKcal} protein={n.protein} allergens={allergensIn(r, allergies)} />
             })}
           </div>
           {results.length > limit && (

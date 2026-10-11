@@ -2,22 +2,31 @@
  * Plan actions shared by the command bar, Today, Week and the recipe page.
  */
 import { db } from '../db/db'
-import { addMealItem, applyMealPlan, mealItemsInRange } from '../db/repo'
+import { addMealItem, applyMealPlan, getUserSettings, mealItemsInRange, planLeftover, removeMealItem } from '../db/repo'
 import { addDays, capitalize, formatDate, today, weekdayName } from '../domain/dates'
 import { slotPassed } from '../domain/today'
 import type { MealSlot } from '../domain/types'
-import { planMeals, quickPlanOptions, type Candidate } from '../domain/weekPlanner'
+import { leftoverLunchOn, planMeals, quickPlanOptions, type Candidate } from '../domain/weekPlanner'
 import { SLOT_LABELS } from './hooks'
 
 export function slotLabel(date: string, slot: MealSlot): string {
   return `${capitalize(weekdayName(date, true))} ${formatDate(date)} ${SLOT_LABELS[slot].toLowerCase()}`
 }
 
-/** Add a recipe to a slot; returns an undo function. */
+/**
+ * Add a recipe to a slot; returns an undo function. A dinner is cooked with extra portions for
+ * the next day's lunch when the household eats leftovers then (Settings) and that lunch is free.
+ */
 export async function addToSlot(recipeId: string, date: string, slot: MealSlot, servings: number): Promise<() => Promise<void>> {
   const row = await addMealItem({ date, slot, recipeId, servings })
+  if (slot === 'dinner') {
+    const lunchDate = addDays(date, 1)
+    const { leftoverLunch } = await getUserSettings()
+    const lunchTaken = (await mealItemsInRange(lunchDate, lunchDate)).some((m) => m.slot === 'lunch')
+    if (leftoverLunchOn(leftoverLunch, lunchDate) && !lunchTaken) await planLeftover(row.id)
+  }
   return async () => {
-    await db.mealItems.delete(row.id)
+    await removeMealItem(row.id) // its leftover lunch goes too
   }
 }
 
@@ -38,7 +47,8 @@ export async function fillEmptySlots(
   const t = today()
   const hour = new Date().getHours()
   for (const slot of ['breakfast', 'lunch', 'dinner', 'snack'] as MealSlot[]) if (slotPassed(slot, hour)) occupied.add(`${t}|${slot}`)
-  const opts = quickPlanOptions({ dates: sorted, slots: o.slots, people: o.servings, maxKcalPerDay: o.kcalTarget, occupied, seed: o.seed ?? Date.now() % 100000 })
+  const { leftoverLunch } = await getUserSettings()
+  const opts = quickPlanOptions({ dates: sorted, slots: o.slots, people: o.servings, maxKcalPerDay: o.kcalTarget, occupied, seed: o.seed ?? Date.now() % 100000, leftovers: leftoverLunch })
   // What's on the menu these days and the week before isn't suggested again (unless nothing else fits).
   opts.alreadyPlanned = [...before, ...(await mealItemsInRange(addDays(sorted[0], -7), addDays(sorted[0], -1)))].flatMap((m) => (m.recipeId && !m.leftoverOfId ? [m.recipeId] : []))
   const plan = planMeals(candidates, opts)

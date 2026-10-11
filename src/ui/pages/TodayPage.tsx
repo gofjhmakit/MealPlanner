@@ -327,9 +327,13 @@ function Timeline({
                 </button>
                 {isCurrent && recipe && (
                   <div className="flex gap-2 px-3 pb-3">
-                    <Link to={`/reseptit/${recipe.id}?kokkaa=1&annokset=${item.servings + (item.extraServings ?? 0)}`} className="flex h-10 flex-1 items-center justify-center gap-2 rounded-xl bg-brand text-sm font-semibold text-on-brand">
-                      <ChefHat size={16} /> Aloita kokkaus
-                    </Link>
+                    {item.leftoverOfId ? (
+                      <p className="flex h-10 flex-1 items-center justify-center rounded-xl bg-brand-soft/60 px-3 text-center text-sm text-brand">Eilisen tähteet – ei kokkausta</p>
+                    ) : (
+                      <Link to={`/reseptit/${recipe.id}?kokkaa=1&annokset=${item.servings + (item.extraServings ?? 0)}${item.extraServings ? `&tahteet=${item.extraServings}` : ''}`} className="flex h-10 flex-1 items-center justify-center gap-2 rounded-xl bg-brand text-sm font-semibold text-on-brand">
+                        <ChefHat size={16} /> Aloita kokkaus
+                      </Link>
+                    )}
                     <button onClick={() => onOpen(item.id)} className="h-10 rounded-xl border border-line px-4 text-sm font-medium hover:bg-surface-2">Vaihda</button>
                   </div>
                 )}
@@ -559,7 +563,7 @@ function TonightCard({ items, recipes, pantry, hour }: { items: MealItem[]; reci
       )}
       <div className="mt-4 flex gap-2">
         <Link to="/ostokset" className="flex h-10 flex-1 items-center justify-center rounded-xl bg-brand-soft text-sm font-semibold text-brand">Ostoslistalle</Link>
-        <Link to={`/reseptit/${recipe.id}`} className="flex h-10 items-center justify-center rounded-xl border border-line px-4 text-sm font-medium">Resepti</Link>
+        <Link to={`/reseptit/${recipe.id}?annokset=${dinner!.servings + (dinner!.extraServings ?? 0)}${dinner!.extraServings ? `&tahteet=${dinner!.extraServings}` : ''}`} className="flex h-10 items-center justify-center rounded-xl border border-line px-4 text-sm font-medium">Resepti</Link>
       </div>
     </Panel>
   )

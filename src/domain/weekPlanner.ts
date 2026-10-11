@@ -24,6 +24,8 @@ export interface PlanOptions {
   people: number
   /** Cook dinner with extra portions and eat them as the next day's lunch. */
   leftovers: boolean
+  /** With leftovers: false = weekend lunches are cooked separately. Default true. */
+  leftoversOnWeekends?: boolean
   diet: 'all' | 'vegetarian' | 'vegan'
   glutenFree: boolean
   milkFree: boolean
@@ -144,7 +146,14 @@ function rng(seed: number): () => number {
   }
 }
 
-function isWeekend(date: string): boolean {
+export type LeftoverLunch = 'off' | 'weekdays' | 'always'
+
+/** Is the lunch on `lunchDate` eaten from the previous evening's dinner? */
+export function leftoverLunchOn(mode: LeftoverLunch, lunchDate: string): boolean {
+  return mode === 'always' || (mode === 'weekdays' && !isWeekend(lunchDate))
+}
+
+export function isWeekend(date: string): boolean {
   const d = parseISODate(date).getDay()
   return d === 0 || d === 6
 }
@@ -242,7 +251,7 @@ export function planMeals(candidates: Candidate[], opts: PlanOptions): PlanResul
     const yesterdayDinner = leftoverMode ? meals.find((m) => m.date === addDays(date, -1) && m.slot === 'dinner') : undefined
     for (const slot of slots) {
       if (opts.occupied.has(`${date}|${slot}`)) continue
-      if (slot === 'lunch' && yesterdayDinner && dates.includes(date)) {
+      if (slot === 'lunch' && yesterdayDinner && dates.includes(date) && (opts.leftoversOnWeekends !== false || !isWeekend(date))) {
         yesterdayDinner.extraServings = opts.people
         meals.push({
           date, slot, recipeId: yesterdayDinner.recipeId, servings: opts.people, extraServings: 0,
@@ -259,7 +268,7 @@ export function planMeals(candidates: Candidate[], opts: PlanOptions): PlanResul
         const remaining = Math.max(0, opts.maxKcalPerDay - dayKcal)
         budget = remaining * (SLOT_SHARE[slot] / remainingShare) * 1.1
         // Tomorrow's lunch will be this dinner again: it must also fit a lunch share.
-        if (slot === 'dinner' && leftoverMode && dates.includes(addDays(date, 1))) {
+        if (slot === 'dinner' && leftoverMode && dates.includes(addDays(date, 1)) && !opts.occupied.has(`${addDays(date, 1)}|lunch`) && (opts.leftoversOnWeekends !== false || !isWeekend(addDays(date, 1)))) {
           budget = Math.min(budget, opts.maxKcalPerDay * (SLOT_SHARE.lunch / shareSum) * 1.15)
         }
       }
@@ -313,12 +322,13 @@ export function rerollMeal(result: PlanResult, candidates: Candidate[], opts: Pl
 }
 
 /** Options for quick planning from the UI (suggestions, swaps, "fill empty slots"). */
-export function quickPlanOptions(o: { dates: string[]; slots?: MealSlot[]; people: number; maxKcalPerDay: number | null; occupied?: Set<string>; seed?: number }): PlanOptions {
+export function quickPlanOptions(o: { dates: string[]; slots?: MealSlot[]; people: number; maxKcalPerDay: number | null; occupied?: Set<string>; seed?: number; leftovers?: LeftoverLunch }): PlanOptions {
   return {
     dates: o.dates,
     slots: o.slots ?? ['breakfast', 'lunch', 'dinner'],
     people: o.people,
-    leftovers: false,
+    leftovers: !!o.leftovers && o.leftovers !== 'off',
+    leftoversOnWeekends: o.leftovers === 'always',
     diet: 'all',
     glutenFree: false,
     milkFree: false,
