@@ -1,6 +1,6 @@
 {
- "version": "2026-10-11-13ta62f",
- "generatedAt": "2026-10-11T05:25:20.321Z",
+ "version": "2026-10-11-1z0gwdx",
+ "generatedAt": "2026-10-11T05:38:50.074Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -43,7 +43,7 @@
    "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.",
    "file": "forkrecipe.json",
-   "count": 516,
+   "count": 580,
    "withImage": 0
   },
   {

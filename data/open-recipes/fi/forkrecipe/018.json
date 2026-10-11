@@ -1,0 +1,677 @@
+[
+  {
+    "id": "forkrecipe-laksa-broth",
+    "title": "Laksa-liemi",
+    "description": "Peranakan-keittiön liemi tulisuuden ja samettisuuden rajalla: maustetahna paistetaan öljyssä, kunnes keittiö tuoksuu katukeittiöltä, ja kookosmaito pehmentää kaiken silkkiseksi, voimakkaan aromikkaaksi liemeksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 80,
+    "category": "Keitot",
+    "tags": ["malesialainen", "keitto", "kookos", "tulinen"],
+    "ingredients": [
+      "Maustetahna:",
+      "8 kuivattua chiliä, liotettuina",
+      "3 vartta sitruunaruohoa, vain pehmeä sisäosa",
+      "4 cm pala galangalia",
+      "1 tl jauhettua kurkumaa (tai 2 cm tuoretta)",
+      "150 g salottisipulia, karkeasti pilkottuna",
+      "40 g kuivattuja katkarapuja, liotettuina",
+      "Liemi:",
+      "1 dl kookosöljyä tai rypsiöljyä",
+      "8 dl kana- tai katkarapulientä",
+      "4 dl täysrasvaista kookosmaitoa",
+      "3 rkl kalakastiketta",
+      "3 rkl tamarinditahnaa, liuotettuna lämpimään veteen"
+    ],
+    "instructions": [
+      "Laita valutetut chilit, sitruunaruoho, galangal, kurkuma, salottisipulit ja valutetut katkaravut tehosekoittimeen tai monitoimikoneeseen. Lisää 2–3 rkl vettä ja soseuta sileäksi tahnaksi, reunoja välillä kaapien.",
+      "Kuumenna öljy paksupohjaisessa kattilassa tai wokissa keskilämmöllä. Lisää tahna kerralla (se roiskuu) ja paista jatkuvasti sekoittaen 12–18 minuuttia, kunnes öljy erottuu tahnasta ja nousee pintaan. Vajaasti paistettu tahna maistuu raa'alta.",
+      "Kaada liemi paistetun tahnan joukkoon ja lisää tamarindivesi. Kuumenna kiehuvaksi ja hauduta ilman kantta 20 minuuttia, vaahto kuorien.",
+      "Laske lämpö miedoksi. Kaada kookosmaito hitaasti koko ajan sekoittaen; älä enää anna kiehua, ettei liemi juoksetu. Lisää kalakastike. Säädä makua kalakastikkeella, tamarindilla tai ripauksella sokeria. Hauduta hyvin hiljaisella lämmöllä 10 minuuttia."
+    ],
+    "notes": ["Tarjoa riisinuudeleiden, katkarapujen, tofun, keitetyn kananmunan ja ituja kanssa."]
+  },
+  {
+    "id": "forkrecipe-laksa-paste",
+    "title": "Laksa-maustetahna",
+    "description": "Laksan aromimoottori: kuivatut katkaravut, galangal, sitruunaruoho, kurkuma ja kemiripähkinät survotaan oranssinkeltaiseksi tahnaksi, joka paistetaan öljyssä, kunnes raakuus on kadonnut ja jäljellä on syvä, monivivahteinen tuoksu.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["malesialainen", "mauste", "tulinen"],
+    "ingredients": [
+      "40 g kuivattuja katkarapuja",
+      "15 g kuivattuja punaisia chilejä, liotettuina lämpimässä vedessä 15 min",
+      "120 g salottisipulia, karkeasti pilkottuna",
+      "5 valkosipulinkynttä",
+      "3 vartta sitruunaruohoa, valkoiset ja vaaleanvihreät osat ohuina viipaleina",
+      "30 g tuoretta galangalia, kuorittuna ja viipaleina",
+      "20 g kurkumaa, tuoretta ja kuorittua (tai 2 tl jauhettua)",
+      "40 g kemiripähkinöitä tai makadamiapähkinöitä",
+      "15 g katkaraputahnaa (belacan), paahdettuna",
+      "1 tl korianterinsiemeniä",
+      "½ tl juustokuminaa, kokonaisena",
+      "1 dl rypsiöljyä"
+    ],
+    "instructions": [
+      "Paahda korianterinsiemenet ja juustokumina kuivalla pannulla keskilämmöllä jatkuvasti ravistellen 2–3 minuuttia, kunnes ne tummuvat ja tuoksuvat. Siirrä heti jäähtymään.",
+      "Peitä kuivatut chilit lämpimällä vedellä ja liota 15 minuuttia pehmeiksi. Valuta ja säästä 2 rkl liotusvettä. Poista kannat ja halutessasi siemenet miedomman tahnan saamiseksi.",
+      "Jauha jäähtyneet mausteet maustemyllyssä jauheeksi, lisää kuivatut katkaravut ja jauha hetki. Siirrä monitoimikoneeseen tai isoon huhmareeseen. Soseuta ensin sitruunaruoho 30 sekuntia, sitten galangal ja kurkuma 30 sekuntia. Lisää chilit, salottisipulit, valkosipuli, katkaraputahna ja pähkinät ja soseuta karkeaksi tasaiseksi tahnaksi. Lisää tarvittaessa liotusvettä lusikallinen kerrallaan.",
+      "Kuumenna öljy leveässä paksupohjaisessa wokissa keskilämmöllä. Lisää tahna kerralla ja paista jatkuvasti sekoittaen 15–20 minuuttia reippaasti sihisten, kunnes raaka maku on kadonnut ja tahna tuoksuu syvältä.",
+      "Siirrä tahna puhtaaseen astiaan ja jäähdytä huoneenlämmössä vähintään 30 minuuttia; öljy nousee pinnalle suojakerrokseksi. Säilytä suljetussa purkissa jääkaapissa 3 viikkoa tai pakasteessa 3 kuukautta. Paista tahnaa käytettäessä vielä hetki öljyssä ennen kookosmaidon ja liemen lisäämistä."
+    ]
+  },
+  {
+    "id": "forkrecipe-lamb-kofta",
+    "title": "Lammaskofta",
+    "description": "Käsin sekoitettu lampaan jauheliha, sipuli, persilja ja lämpimät mausteet muotoillaan litteisiin vartaisiin ja grillataan hiilillä pinnalta hiiltyneiksi ja sisältä mehukkaiksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["lähi-itä", "liha", "lammas", "grilli", "gluteeniton"],
+    "ingredients": [
+      "600 g lampaan jauhelihaa (rasvaa 20–25 %)",
+      "1 pieni keltasipuli (n. 90 g), raastettuna",
+      "1 nippu lehtipersiljaa (n. 50 g), hienoksi hienonnettuna",
+      "1 rkl jauhettua juustokuminaa",
+      "2 tl jauhettua korianteria",
+      "1 tl jauhettua kanelia",
+      "1 tl cayennepippuria tai aleppo-chiliä",
+      "1 tl mustapippuria, vastajauhettuna",
+      "2 tl suolaa",
+      "1 rkl rypsiöljyä (jos liha on hyvin vähärasvaista)",
+      "2 tl sumakkia viimeistelyyn"
+    ],
+    "instructions": [
+      "Purista raastetusta sipulista mahdollisimman paljon nestettä liinassa. Yhdistä sipuli, jauheliha, persilja, mausteet ja suola isossa kulhossa. Sekoita ja vaivaa käsin 3–4 minuuttia puristellen ja painellen, kunnes seos muuttuu murenevasta sileäksi ja tahmeaksi. Näin seos pysyy koossa ilman kananmunaa tai korppujauhoja.",
+      "Kostuta kädet kylmällä vedellä. Ota noin 80–100 g seosta ja muotoile se litteän metallivartaan ympärille keskeltä päitä kohti puristellen. Koftan pitää olla 15–18 cm pitkä ja 2–2,5 cm paksu, päistä kapeneva. Purista päät tiukasti kiinni. Jäähdytä vartaat tarjottimella 15 minuuttia.",
+      "Kuumenna hiiligrilli tai kaasugrilli kuumimmilleen ja öljyä ritilä kevyesti. Grillaa vartaita neljänneskierros kerrallaan 90 sekunnin välein, yhteensä 6–8 minuuttia, kunnes kaikki puolet ovat hiiltyneet. Sisälämpötilaksi riittää 70 °C. Älä painele lastalla.",
+      "Vedä koftat vartaista tarjoiluvadille ja ripottele päälle reilusti sumakkia. Tarjoa heti lämpimän rieskan, persilja-tomaattisalaatin, tahinikastikkeen ja pikkelsien kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lamb-rogan-josh",
+    "title": "Lammas rogan josh",
+    "description": "Kashmirilaisen juhlakeittiön kruununjalokivi: luullinen lammas haudutetaan tiilenpunaisessa kastikkeessa, joka rakentuu kashmirinchileistä, jogurtista ja kokonaisista mausteista. Tuoksuva, kohtuullisen tulinen ja silkkinen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "liha", "lammas", "curry"],
+    "ingredients": [
+      "800 g luullista karitsan lapaa tai niskaa, 5 cm paloina",
+      "50 g gheetä (tai rypsiöljyä)",
+      "12 g kuivattuja kashmirinchilejä, kannat ja siemenet poistettuina",
+      "1 rkl kashmirinchilijauhetta",
+      "2 laakerinlehteä",
+      "3 mustaa kardemummaa, halkaistuina",
+      "5 vihreää kardemummaa, kevyesti murskattuina",
+      "1 tl kokonaisia neilikoita",
+      "1 rkl mustapippuria, kokonaisena",
+      "1 kanelitanko (5 cm)",
+      "2 tl fenkolinsiemeniä",
+      "2 tl jauhettua inkivääriä",
+      "150 g täysrasvaista jogurttia, sileäksi vatkattuna",
+      "ripaus asafoetidaa",
+      "2 dl lämmintä vettä tai mietoa lientä",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna ghee paksupohjaisessa kattilassa keskilämmöllä. Lisää kokonaiset chilit ja kaikki kokonaiset mausteet – laakerinlehdet, molemmat kardemummat, neilikat, pippurit ja kaneli – sekä ripaus asafoetidaa. Paista sekoittaen 60–90 sekuntia, kunnes mausteet turpoavat, chilit tummuvat ja ghee muuttuu punaoranssiksi.",
+      "Suolaa lihapalat ja lisää ne kattilaan. Ruskista keskikovalla lämmöllä välillä käännellen joka puolelta, 8–10 minuuttia. Tee tarvittaessa erissä.",
+      "Laske lämpö keskilämpöä miedommaksi. Lisää chilijauhe, fenkolinsiemenet ja inkivääri ja sekoita minuutti. Lisää jogurtti 2–3 rkl kerrallaan voimakkaasti sekoittaen, jotta se ei juoksetu. Lisää lämmin vesi, sekoita ja kuumenna hiljalleen kiehuvaksi. Peitä ja hauduta miedoimmalla lämmöllä 1½–2 tuntia, kunnes liha on hyvin mureaa ja irtoaa luusta.",
+      "Poista kansi viimeiseksi 15 minuutiksi, jotta kastike tiivistyy kiiltäväksi. Tarkista suola. Poista isot kokonaiset mausteet ennen tarjoilua. Pinnalla kimaltava punaoranssi öljy kertoo oikein kypsennetystä currysta. Tarjoa basmatiriisin tai naanin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lamb-shawarma",
+    "title": "Lammasshawarma",
+    "description": "Lampaan lapa marinoidaan lämpimästi maustetussa jogurtissa – kurkumaa, juustokuminaa, kanelia, korianteria ja kardemummaa – ja paahdetaan hitaasti, kunnes pinta karamellisoituu tummaksi ja sisus on niin mureaa, että sen voi nyhtää haarukalla.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 600,
+    "category": "Pääruoat",
+    "tags": ["lähi-itä", "liha", "lammas", "uuniruoka"],
+    "ingredients": [
+      "1,5 kg luullista karitsan lapaa",
+      "150 g täysrasvaista jogurttia",
+      "1 rkl jauhettua juustokuminaa",
+      "2 tl jauhettua korianteria",
+      "1½ tl jauhettua kurkumaa",
+      "1 tl jauhettua kanelia",
+      "1 tl jauhettua kardemummaa",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 rkl sitruunamehua",
+      "3 rkl oliiviöljyä",
+      "2½ tl suolaa"
+    ],
+    "instructions": [
+      "Vatkaa jogurtti, mausteet, valkosipuli, sitruunamehu, oliiviöljy ja suola tasaiseksi. Viillä lapaan syviä, 2–3 cm viiltoja joka puolelle. Hiero marinadi kaikille pinnoille ja viiltoihin. Peitä ja marinoi jääkaapissa vähintään 6 tuntia, mieluiten yön yli.",
+      "Aseta lapa ritilälle syvän uunipellin päälle. Paahda 160 °C:ssa 3–3½ tuntia ja valele kerran puolivälissä paistonesteillä. Pinnan pitää karamellisoitua hitaasti tummaksi palamatta.",
+      "Anna levätä löyhästi foliolla peitettynä 15 minuuttia. Nyhdä liha luusta kahdella haarukalla epätasaisiksi suikaleiksi ja sekoita paistonesteisiin. Rapeuta nyhdetty liha uunin grillivastuksen alla 3–5 minuuttia."
+    ],
+    "notes": ["Tarjoa pitaleivän, tahinikastikkeen, pikkelsien ja salaatin kanssa."]
+  },
+  {
+    "id": "forkrecipe-lamb-stock",
+    "title": "Tumma lammasliemi",
+    "description": "Lampaan niska- ja nivelluut paahdetaan mahonginruskeiksi ja haudutetaan hitaasti juuresten, yrttien ja punaviinin kanssa neljä tuntia. Tuloksena tumma, hyytelöityvä, voimakkaan lihaisa liemi tagineihin, haudutuksiin ja kastikkeisiin.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 300,
+    "category": "Muut",
+    "tags": ["liha", "lammas", "liemi"],
+    "ingredients": [
+      "1,5 kg lampaan luita (niska ja nivelet)",
+      "2 keltasipulia (n. 300 g), puolitettuina kuorineen",
+      "2 porkkanaa (n. 225 g), karkeasti pilkottuina",
+      "2 vartta lehtiselleriä, karkeasti pilkottuina",
+      "1 valkosipuli, vaakasuunnassa halkaistuna",
+      "3 rkl tomaattipyreetä",
+      "2 dl kuivaa punaviiniä",
+      "5 l kylmää vettä",
+      "2 laakerinlehteä, 2 rosmariininoksaa ja persiljanvarsia",
+      "1 rkl mustapippuria, kokonaisena",
+      "2 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Kuumenna uuni 230 asteeseen. Levitä luut yhdeksi kerrokseksi isoon uunivuokaan ja valuta päälle öljy. Paahda 30–40 minuuttia, kerran 20 minuutin kohdalla kääntäen, kunnes luut ovat syvän ruskeita mutta eivät mustia. Työnnä luut viimeisten 10 minuutin ajaksi sivuun ja karamellisoi tomaattipyree vuoan keskellä.",
+      "Ota vuoka uunista ja kaada punaviini kuumaan vuokaan. Raaputa pohjaan tarttunut maku irti. Siirrä luut ja nesteet isoon liemikattilaan. Laita sipulit, porkkanat, selleri ja valkosipuli samaan vuokaan ja paahda 15 minuuttia, kunnes ne saavat väriä. Siirrä nekin kattilaan.",
+      "Lisää yrtit, pippurit ja kylmä vesi. Kuumenna kovalla lämmöllä kiehuvaksi ja laske heti hiljaisimmalle kiehunnalle. Kuori vaahto ja rasva ensimmäisen puolen tunnin aikana. Älä sekoita äläkä anna kiehua voimakkaasti. Hauduta ilman kantta 4 tuntia.",
+      "Kauho liemi hienon siivilän läpi isoon astiaan; älä kaada tai paina. Hävitä luut ja kasvikset. Jäähdytä nopeasti jäävesihauteessa ja säilytä jääkaapissa yön yli.",
+      "Nosta jähmettynyt rasvakerros pinnalta. Lämmitä liemi miedolla lämmöllä ja suolaa vain, jos käytät heti. Säilyy jääkaapissa 5 päivää tai pakasteessa puolen litran erissä 6 kuukautta."
+    ]
+  },
+  {
+    "id": "forkrecipe-lamb-tagine",
+    "title": "Marokkolainen lammastagine suolasitruunalla ja oliiveilla",
+    "description": "Luullinen lampaan lapa haudutetaan kaksi tuntia ras el hanoutin, sahramin ja inkiväärin tuoksussa, kunnes se hajoaa käsissä, ja viimeistellään suolasitruunan terävyydellä ja vihreiden oliivien suolaisuudella.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["marokkolainen", "liha", "lammas", "pataruoka", "juhla"],
+    "ingredients": [
+      "1,2 kg luullista karitsan lapaa, 5 cm paloina",
+      "1 valkosipuli (n. 200 g), karkeasti raastettuna",
+      "4 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "4 tl ras el hanout -mausteseosta",
+      "2 tl jauhettua inkivääriä",
+      "1 tl jauhettua kurkumaa",
+      "0,3 g sahramia",
+      "¼ suolasitruunaa, kuori ilman valkoista osaa, ohuina suikaleina",
+      "80 g vihreitä oliiveja",
+      "20 g tuoretta korianteria, revittynä",
+      "20 g lehtipersiljaa, revittynä",
+      "3 rkl ekstra-neitsytoliiviöljyä",
+      "2 dl vettä tai mietoa kanalientä",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Murenna sahrami pieneen kulhoon ja kaada päälle 3 rkl juuri kiehautettua vettä. Anna hautua vähintään 15 minuuttia, kunnes neste on syvän meripihkanväristä.",
+      "Kuumenna oliiviöljy leveässä tagine-pohjassa tai paksupohjaisessa padassa keskikovalla lämmöllä. Suolaa liha. Ruskista palat kahdessa tai kolmessa erässä joka puolelta syvän ruskeiksi, 3–4 minuuttia per puoli liikuttamatta.",
+      "Lisää samaan pataan raastettu sipuli ja valkosipuli ja kypsennä keskilämmöllä sekoittaen 5 minuuttia, kunnes sipuli on pehmeää ja neste haihtunut. Lisää ras el hanout, inkivääri ja kurkuma ja sekoita minuutti. Palauta liha pataan tiiviisti. Kaada joukkoon sahramivesi ja loput nesteestä. Kuumenna hiljalleen kiehuvaksi, peitä tiiviisti ja hauduta miedoimmalla lämmöllä 2 tuntia. Tarkista ja sekoita puolen tunnin välein.",
+      "Lisää suolasitruuna ja oliivit ja sekoita varovasti. Poista kansi ja nosta lämpöä hieman. Keitä vielä 15–20 minuuttia välillä sekoittaen, kunnes kastike on kiiltävää ja tiivistynyttä. Jos kastike on liian suolaista, älä lisää suolaa, vaan ripaus sokeria tai tilkka vettä.",
+      "Nosta pois liedeltä ja tarkista maku. Ripottele päälle reilusti korianteria ja persiljaa. Tarjoa suoraan padasta rapean leivän tai kuskusin kanssa."
+    ]
+  },
+  { "id": "forkrecipe-larb-dressing", "skip": "lähes kaksoiskappale (larb moo)" },
+  {
+    "id": "forkrecipe-larb",
+    "title": "Larb moo – thaimaalainen jauhelihasalaatti",
+    "description": "Koillis-Thaimaan salaatti: porsaan jauheliha kypsennetään omassa rasvassaan ja maustetaan limetinmehulla ja kalakastikkeella. Vielä höyryävä liha sekoitetaan tuoreiden yrttien, salottisipulin ja paahdetun riisijauheen kanssa, joka imee kirpeän kastikkeen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Salaatit",
+    "tags": ["thaimaalainen", "liha", "salaatti", "nopea"],
+    "ingredients": [
+      "500 g porsaan jauhelihaa (rasvaa vähintään 20 %)",
+      "4 rkl limetinmehua (2–3 limetistä)",
+      "3 rkl kalakastiketta",
+      "1–2 tl chilihiutaleita, paahdettuina",
+      "2 rkl raakaa tahmeaa riisiä tai jasmiiniriisiä (paahdettavaksi)",
+      "4–5 pientä salottisipulia, ohuina renkaina",
+      "1 kourallinen tuoreita mintunlehtiä",
+      "2 rkl tuoretta korianteria (tai sahalehtikorianteria), hienonnettuna",
+      "1 varsi sitruunaruohoa, pehmeä sisäosa hyvin ohuina viipaleina",
+      "Tarjoiluun:",
+      "1 pieni kaalinpää lohkoina",
+      "½ kurkkua viipaleina"
+    ],
+    "instructions": [
+      "Paahda raaka riisi kuivalla wokilla tai pannulla keskilämmöllä jatkuvasti sekoittaen 5–8 minuuttia, kunnes jokainen jyvä on syvän kullanruskea ja tuoksuu pähkinäiseltä. Jäähdytä ja jauha huhmaressa tai maustemyllyssä karkeaksi jauheeksi (khao khua).",
+      "Laita jauheliha kylmään wokkiin tai leveään pannuun ilman öljyä. Kuumenna keskikovalle lämmölle ja kypsennä lihaa lusikalla murustaen 4–5 minuuttia, kunnes se on juuri kypsää ja reunoilta hieman ruskistunutta. Siirrä heti isoon kulhoon.",
+      "Lisää kuumaan lihaan heti limetinmehu, kalakastike ja chilihiutaleet ja sekoita reippaasti. Maista: kastikkeen pitää olla reilusti hapan ja suolainen ja chilin tuntua lopussa. Säädä tarvittaessa.",
+      "Lisää paahdettu riisijauhe, salottisipulit, minttu, korianteri ja sitruunaruoho ja sekoita kevyesti mutta huolellisesti. Tarkista maku. Tarjoa heti kaalilohkojen ja kurkkuviipaleiden kanssa, joilla larbia kauhotaan, ja halutessasi tahmean riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lassi",
+    "title": "Lassi – makea tai suolainen jogurttijuoma",
+    "description": "Punjabin viilentävä jogurttijuoma, joka vatkataan kylmän veden kanssa vaahtoavaksi. Makeana ruusuveden ja sahramin kanssa tai suolaisena paahdetun kuminan ja mustan suolan kanssa – täydellinen vastapari mausteiselle ruoalle.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Juomat",
+    "tags": ["intialainen", "kasvis", "gluteeniton", "nopea"],
+    "ingredients": [
+      "Pohja:",
+      "300 g täysmaitoista maustamatonta jogurttia",
+      "1,5 dl kylmää vettä tai jääpaloja",
+      "Makea lassi:",
+      "25 g sokeria tai hunajaa",
+      "2 tl ruusuvettä",
+      "ripaus sahramia",
+      "1 rkl lämmintä maitoa (sahramin liottamiseen)",
+      "ripaus jauhettua kardemummaa",
+      "1 rkl murskattuja pistaasipähkinöitä koristeeksi",
+      "Suolainen lassi:",
+      "1 tl jauhettua juustokuminaa, paahdettua",
+      "½ tl mustaa suolaa (kala namak)",
+      "8 g tuoreita mintunlehtiä",
+      "1 tl tuoretta inkivääriä, raastettuna"
+    ],
+    "instructions": [
+      "Makeaa lassia varten liota sahramia lämpimässä maidossa 5 minuuttia, kunnes maito on kullanoranssia. Suolaisessa versiossa ohita tämä.",
+      "Makea lassi: laita tehosekoittimeen jogurtti, vesi tai jäät, sokeri, ruusuvesi, kardemumma ja sahramimaito. Suolainen lassi: laita jogurtti, vesi, kuminajauhe, musta suola, minttu ja inkivääri. Sekoita täydellä teholla 60 sekuntia, jotta juomasta tulee vaahtoavaa.",
+      "Maista ja säädä: makeaan sokeria, ruusuvettä tai kardemummaa, suolaiseen kuminaa tai mustaa suolaa.",
+      "Kaada heti kylmiin korkeisiin laseihin jäiden päälle vaahtoa säästäen. Koristele makea lassi pistaasipähkinöillä ja kardemummalla, suolainen mintunlehdillä ja ripauksella kuminaa. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-lavash",
+    "title": "Armenialainen lavash",
+    "description": "Paperinohut, hiivaton rieska, joka paistetaan sekunneissa tulikuumalla kivellä tai pannulla kuplaiseksi ja paikoin hiiltyneeksi. Jäähtyessään se rapeutuu, mutta liinan alla se pysyy taipuisana.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["armenialainen", "vegaaninen", "kasvis", "leipä"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "2,75 dl lämmintä vettä (40 °C)",
+      "1½ tl suolaa",
+      "1 rkl seesaminsiemeniä (valinnainen)",
+      "2 tl rypsiöljyä"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola kulhossa. Lisää lämmin vesi ja öljy ja sekoita käsin kiinteäksi taikinaksi, joka on selvästi leipätaikinaa jäykempää. Vaivaa kulhossa 2–3 minuuttia.",
+      "Kääri taikina tiiviisti kelmuun tai peitä kulho kostealla liinalla ja anna levätä huoneenlämmössä 60 minuuttia. Lepo on välttämätön, jotta taikina venyy ohueksi.",
+      "Jaa taikina 6–8 osaan. Kauli kukin kevyesti jauhotetulla alustalla ohuella kaulimella mahdollisimman ohueksi, 1–2 mm, keskeltä reunoille ja välillä kääntäen. Taikina on tarpeeksi ohutta, kun käden ääriviivat näkyvät sen läpi valoa vasten. Ripottele pinnalle seesaminsiemeniä ja kauli kerran kevyesti niiden yli. Pidä kaulimattomat palat peitettyinä.",
+      "Kuumenna leivinkivi, valurautainen paistolevy tai raskas pannu kovalla lämmöllä vähintään 10 minuuttia. Levitä lavash kuumalle pinnalle. Kun pohjaan tulee hiiltyneitä kohtia ja reunat käpristyvät (alle minuutissa), käännä pihdeillä ja paista 20–30 sekuntia. Pinoa valmiit leivät liinan alle, jolloin ne pehmenevät. Rapeaa lavashia varten jätä ne kuivumaan peittämättä."
+    ]
+  },
+  {
+    "id": "forkrecipe-leche-de-tigre",
+    "title": "Leche de tigre – perulainen sitrusmarinadi",
+    "description": "Cevichen pohjalle jäävä voimakas sitrusliemi: limetinmehua, kalalientä, ají amarillo -tahnaa, inkivääriä, selleriä ja korianteria. Samalla kastike ja virkistävä shotti omassa lasissaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["perulainen", "kala", "kastike", "nopea"],
+    "ingredients": [
+      "3,5 dl limetinmehua, siivilöitynä (n. 12 limetistä)",
+      "1,2 dl kylmää kalalientä",
+      "50 g kiinteää valkoista kalaa (tai kalanpaloja)",
+      "2 rkl ají amarillo -tahnaa",
+      "2 cm pala tuoretta inkivääriä, kuorittuna ja viipaloituna",
+      "1 varsi lehtiselleriä, karkeasti pilkottuna",
+      "1 valkosipulinkynsi",
+      "1 kourallinen tuoretta korianteria (lehdet ja varret)",
+      "¼ punasipulia, karkeasti viipaloituna",
+      "1 tl suolaa",
+      "2 rkl cancha-maissia (paahdettuja maissinjyviä) tarjoiluun"
+    ],
+    "instructions": [
+      "Kaada limetinmehu ja kylmä kalaliemi kulhoon, lisää kourallinen jäitä ja sekoita, kunnes seos on hyvin kylmää (2–4 °C). Poista jäät ennen soseuttamista.",
+      "Laita kylmä sitrusneste tehosekoittimeen. Lisää raaka kala, ají amarillo, inkivääri, selleri, valkosipuli, korianteri, punasipuli ja suola. Soseuta täydellä teholla 45 sekuntia, ei kauempaa.",
+      "Siivilöi seos jäävesihauteessa olevaan kulhoon hienon siivilän läpi ja paina kevyesti kauhalla. Älä paina liian kovaa, ettei liemi muutu kitkeräksi. Hävitä siivilään jääneet ainekset.",
+      "Maista ja tarkista suola. Jos sitrus on liian voimakas, lisää tilkka kalalientä; jos tulisuutta puuttuu, lisää ají amarilloa. Tarjoa heti cevichen päälle tai pienissä kylmissä laseissa cancha-maissin kera. Leche de tigre ei säily; käytä tunnin kuluessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-leeks-vinaigrette",
+    "title": "Purjot vinegretissä (poireaux vinaigrette)",
+    "description": "Kokonaisina keitetyt, silkinpehmeät purjot tarjoillaan huoneenlämpöisinä terävän dijonvinegretin kera. Pariisilaisen brasserien niukan elegantti klassikko.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 40,
+    "category": "Lisukkeet",
+    "tags": ["ranskalainen", "kasvis", "gluteeniton"],
+    "ingredients": [
+      "6 keskikokoista purjoa, valkoiset ja vaaleanvihreät osat",
+      "2 rkl valkoviinietikkaa",
+      "1 tl dijonsinappia",
+      "5 rkl ekstra-neitsytoliiviöljyä",
+      "1 pieni salottisipuli, hienonnettuna",
+      "1 tl suolaa",
+      "½ tl mustapippuria, vastajauhettuna",
+      "2 rkl lehtipersiljaa, hienonnettuna",
+      "1 kovaksi keitetty kananmuna, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Leikkaa purjoista juuret ja sitkeät tummanvihreät latvat. Halkaise purjot pituussuunnassa latvasta 2 cm:n päähän juuresta, niin että ne pysyvät tyvestä kiinni. Avaa ja huuhtele kylmän veden alla hiekan poistamiseksi. Kuumenna iso kattilallinen suolattua vettä kiehuvaksi. Sido purjot löyhästi pareittain narulla ja keitä hiljaisella kiehunnalla 18–22 minuuttia täysin pehmeiksi.",
+      "Nosta purjot taitetulle pyyhkeelle tai ritilälle yhteen kerrokseen ja poista narut. Anna jäähtyä huoneenlämpöisiksi noin 20 minuuttia. Älä laita jääkaappiin. Paina kevyesti ylimääräistä vettä pois.",
+      "Sekoita pienessä kulhossa salottisipuli, sinappi, etikka, suola ja pippuri ja anna seistä 5 minuuttia. Vatkaa oliiviöljy joukkoon ohuena nauhana paksuksi, kermaiseksi vinegretiksi.",
+      "Asettele purjot leikkuupinta ylöspäin tarjoiluvadille ja lusikoi vinegretti reilusti päälle. Ripottele päälle persilja ja halutessasi siivilän läpi painettu tai hienoksi murennettu kananmuna. Tarjoa huoneenlämpöisenä."
+    ]
+  },
+  {
+    "id": "forkrecipe-lemon-butter-sauce",
+    "title": "Sitruunainen voikastike (beurre blanc au citron)",
+    "description": "Salottisipuli-sitruunareduktio, johon vatkataan kylmää voita: väreilevä, vaalean kullankeltainen ja yllättävän kevyt kastike, joka nostaa yksinkertaisen paistetun kalan uudelle tasolle.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kasvis", "kastike"],
+    "ingredients": [
+      "60 g salottisipulia, hienonnettuna",
+      "0,8 dl kuivaa valkoviiniä",
+      "4 rkl valkoviinietikkaa",
+      "2 rkl sitruunamehua",
+      "2 rkl kuohukermaa",
+      "200 g kylmää suolatonta voita, 1 cm kuutioina",
+      "½ tl suolaa",
+      "ripaus valkopippuria, vastajauhettuna",
+      "1 tl sitruunankuoren raastetta",
+      "1 rkl tuoretta ruohosipulia, hienoksi leikattuna (valinnainen)"
+    ],
+    "instructions": [
+      "Yhdistä salottisipuli, valkoviini, etikka ja sitruunamehu pienessä paksupohjaisessa kattilassa. Kuumenna kiehuvaksi ja keitä reippaasti välillä sekoittaen 6–8 minuuttia, kunnes nestettä on jäljellä enää 2–3 rkl ja se on siirappimaista. Älä hoputa, sillä vajaaksi keitetty pohja tekee kastikkeesta vetisen.",
+      "Lisää kerma ja keitä puoleen, 60–90 sekuntia. Kerma vakauttaa emulsiota ja tekee kastikkeesta anteeksiantavamman.",
+      "Nosta kattila pois lämmöltä tai laske lämpö miedoimmalle; tavoitelämpötila on 60–80 °C. Lisää kylmät voikuutiot kaksi kerrallaan koko ajan vatkaten ja odota, että ne ovat lähes sulaneet ennen seuraavia. Jos kastike näyttää rasvaiselta, se on liian kuumaa: nosta pois lämmöltä ja vatkaa voimakkaammin. Mausta suolalla, valkopippurilla ja sitruunankuorella ja lisää ruohosipuli. Siivilöi halutessasi. Tarjoa heti, sillä kastike juoksettuu yli 80 asteessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lemon-curd",
+    "title": "Brittiläinen sitruunacurd",
+    "description": "Keltuaiset, voi ja kirpeä sitruuna kypsyvät liikennevalonkeltaiseksi kreemiksi, joka on ensin terävän hapan ja sitten voin pehmentämä silkki. Lämpimille skonsseille tai marengin päälle – purkillinen auringonpaistetta.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 35,
+    "category": "Jälkiruoat",
+    "tags": ["brittiläinen", "kasvis", "sitruuna", "gluteeniton"],
+    "ingredients": [
+      "1,5 dl sitruunamehua, siivilöitynä (n. 4 isosta sitruunasta)",
+      "150 g hienoa sokeria",
+      "6 kananmunan keltuaista",
+      "100 g kylmää suolatonta voita, kuutioina",
+      "1 rkl sitruunankuoren raastetta",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Yhdistä lämmönkestävässä lasi- tai teräskulhossa sitruunamehu, sokeri, keltuaiset ja sitruunankuori. Vatkaa noin 90 sekuntia tasaiseksi, kirkkaankeltaiseksi seokseksi. Älä lisää voita vielä.",
+      "Aseta kulho hiljalleen kiehuvan vesikattilan päälle niin, ettei kulho kosketa vettä. Kypsennä jatkuvasti nuolijalla sekoittaen ja kulhon reunoja kaapien 8–12 minuuttia, kunnes curd sakenee ja peittää lusikan selän paksusti; sormella vedetty viiva ei täyty. Tavoitelämpötila on 75–82 °C.",
+      "Nosta kulho pois lämmöltä ja siivilöi kuuma curd heti hienon siivilän läpi puhtaaseen kulhoon. Lisää kylmät voikuutiot kerralla ja sekoita kevyesti, kunnes voi on sulanut ja curd kiiltävää. Lisää ripaus suolaa. Kaada heti steriloituihin purkkeihin ja sulje. Curd sakenee jäähtyessään. Säilytä jääkaapissa enintään neljä viikkoa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lemon-herb-chicken-thighs",
+    "title": "Sitruuna-yrttipaahdetut kanan reidet",
+    "description": "Luulliset, nahalliset kanan reidet paahdetaan kuumassa uunissa, kunnes nahka on rapea kuin lasite. Nahan alle hierottu sitruuna-yrttitahna maustaa lihan sisältä päin timjamilla ja sitruunalla.",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["amerikkalainen", "kana", "uuniruoka", "arkiruoka"],
+    "ingredients": [
+      "4 luullista, nahallista kanan reittä",
+      "2 rkl ekstra-neitsytoliiviöljyä",
+      "1 sitruuna (raastettu kuori ja puolikkaan mehu)",
+      "1 rkl tuoretta timjamia, lehdet",
+      "1 tl tuoretta rosmariinia, hienonnettuna",
+      "4 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "1½ tl suolaa",
+      "½ tl mustapippuria, vastarouhittuna",
+      "½ sitruuna lohkoina tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita oliiviöljy, sitruunankuori, timjami, rosmariini, valkosipuli, suola ja pippuri tahnaksi. Kuivaa kananreidet huolellisesti talouspaperilla – tämä on rapean nahan tärkein vaihe. Irrota nahkaa varovasti lihasta ja levitä osa tahnasta nahan alle. Hiero loput reisien pinnalle ja alapuolelle. Aseta ritilälle reunallisen uunipellin päälle. Anna seistä huoneenlämmössä 30 minuuttia (tai jääkaapissa peittämättä yön yli).",
+      "Kuumenna uuni 220 asteeseen. Paahda reisiä uunin keskitasolla 35–40 minuuttia uunia avaamatta ja kääntämättä. Purista viimeisten 5 minuutin aikana sitruunamehu reisien päälle ja grillaa grillivastuksella 2–3 minuuttia. Sisälämpötilan pitää olla 74 °C paksuimmasta kohdasta luusta poispäin.",
+      "Siirrä reidet ritilältä suoraan tarjoiluvadille ja anna levätä peittämättä 5 minuuttia. Tarjoa sitruunalohkojen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lemon-posset",
+    "title": "Sitruunaposset",
+    "description": "Kuohukerma ja sokeri keitetään yhdessä ja hyydytetään pelkällä sitruunamehulla – kaksiaineksinen ihme, jossa happo toimii hyytelöijänä ja tuloksena on hytkyvä, voimakkaan sitruunainen kreemi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 195,
+    "category": "Jälkiruoat",
+    "tags": ["brittiläinen", "kasvis", "gluteeniton", "sitruuna"],
+    "ingredients": [
+      "5 dl kuohukermaa (mieluiten rasvaisinta)",
+      "130 g hienoa sokeria",
+      "1 dl sitruunamehua, siivilöitynä",
+      "2 tl sitruunankuoren raastetta (+ koristeeksi)",
+      "100 g murokeksejä (shortbread) tarjoiluun"
+    ],
+    "instructions": [
+      "Yhdistä kerma, sokeri ja sitruunankuori paksupohjaisessa kattilassa, joka on vähintään kolme kertaa kerman tilavuus. Sekoita keskilämmöllä, kunnes sokeri liukenee ja kerma alkaa kiehua. Keitä voimakkaalla kiehunnalla tasan 3 minuuttia sekoittaen ja valvoen.",
+      "Nosta kattila liedeltä ja anna jäähtyä 2–3 minuuttia. Siivilöi tuore sitruunamehu joukkoon sekoittaen. Seos sakenee heti.",
+      "Kaada seos hienon siivilän läpi annoslaseihin noin 1 cm:n päähän reunasta. Jäähdytä huoneenlämmössä 20 minuuttia ja sitten jääkaapissa peittämättä vähintään 3 tuntia tai yön yli, kunnes posset on hyytynyt.",
+      "Raasta juuri ennen tarjoilua jokaisen possetin pinnalle hieman sitruunankuorta ja työnnä lasin reunaan murokeksi. Tarjoa kylmänä."
+    ]
+  },
+  {
+    "id": "forkrecipe-lentil-sloppy-joes",
+    "title": "Linssi-sloppy joet",
+    "description": "Ruskeat linssit haudutetaan paksussa, kirpeän makeassa tomaattikastikkeessa paprikan, sipulin ja savupaprikan kanssa ja lusikoidaan reilusti voissa paahdettujen hampurilaissämpylöiden väliin. Sotkuista ja täyteläistä.",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["amerikkalainen", "kasvis", "linssit", "arkiruoka"],
+    "ingredients": [
+      "2 rkl oliiviöljyä",
+      "1 keltasipuli, hienoksi kuutioituna",
+      "1 vihreä paprika, hienoksi kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "2 rkl tomaattipyreetä",
+      "1 tl savupaprikajauhetta",
+      "1 tl chilijauhetta",
+      "200 g ruskeita linssejä (tai vihreitä), huuhdeltuina",
+      "7 dl kasvislientä",
+      "400 g tomaattisosetta (passata)",
+      "20 g fariinisokeria",
+      "2 rkl omenaviinietikkaa",
+      "1 rkl sinappia",
+      "1 rkl soijakastiketta",
+      "suolaa",
+      "mustapippuria",
+      "4 hampurilaissämpylää, halkaistuina",
+      "20 g suolatonta voita, pehmeänä",
+      "80 g suolakurkkua, viipaleina"
+    ],
+    "instructions": [
+      "Kuumenna öljy leveässä, syvässä pannussa tai padassa keskilämmöllä. Lisää sipuli, paprika ja ripaus suolaa ja kypsennä välillä sekoittaen 7–8 minuuttia pehmeiksi. Lisää valkosipuli ja kypsennä 30 sekuntia.",
+      "Lisää tomaattipyree, savupaprika ja chilijauhe. Sekoita jatkuvasti 2 minuuttia, jotta pyree paistuu ja tummuu.",
+      "Lisää linssit ja liemi ja raaputa pohja. Kuumenna kiehuvaksi ja hauduta osittain kannella peitettynä 25 minuuttia välillä sekoittaen, kunnes linssit ovat pehmeitä ja suurin osa liemestä imeytynyt.",
+      "Sekoita joukkoon tomaattisose, fariinisokeri, etikka, sinappi ja soija. Hauduta ilman kantta usein sekoittaen 8–10 minuuttia, kunnes seos on paksua. Muussaa noin neljännes linsseistä pannun reunaa vasten. Mausta suolalla, sokerilla ja etikalla.",
+      "Voitele sämpylöiden leikkuupinnat ja paahda ne kuivalla pannulla keskilämmöllä 1–2 minuuttia kullanruskeiksi. Lusikoi reilusti täytettä alaosien päälle, lisää suolakurkut ja kansi. Tarjoa runsaiden lautasliinojen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lentil-soup",
+    "title": "Turkkilainen punainen linssikeitto",
+    "description": "Turkin demokraattisin ruoka: punaiset linssit hajoavat samettiseksi keitoksi, jonka päälle valutetaan paprikavoita ja joka viimeistellään sitruunalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["turkkilainen", "kasvis", "keitto", "linssit"],
+    "ingredients": [
+      "250 g punaisia linssejä, huuhdeltuina",
+      "1 iso keltasipuli (n. 150 g), kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 porkkana (n. 75 g), kuutioituna",
+      "1,25 l kasvis- tai kanalientä",
+      "1 rkl makeaa paprikajauhetta (+ ripaus paprikavoihin)",
+      "2 tl jauhettua juustokuminaa",
+      "25 g voita",
+      "2½ rkl sitruunamehua",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Sulata puolet voista isossa kattilassa keskilämmöllä. Lisää sipuli ja porkkana ja kypsennä välillä sekoittaen 8–10 minuuttia, kunnes ne ovat pehmeitä ja sipuli reunoilta kullankeltaista. Lisää valkosipuli ja kypsennä minuutti. Lisää paprika ja kumina ja sekoita 30 sekuntia; älä polta.",
+      "Lisää linssit ja liemi ja mausta suolalla ja pippurilla. Kuumenna kiehuvaksi ja keitä ilman kantta välillä sekoittaen 20–25 minuuttia. Kuori vaahto alussa.",
+      "Soseuta keitto sauvasekoittimella 1–2 minuuttia täysin sileäksi. Löysennä tarvittaessa tilkalla kuumaa vettä ja kuumenna uudelleen. Tarkista suola. Keiton pitää valua kuin kuohukerma.",
+      "Sulata loput voista pienessä kattilassa. Kun voi vaahtoaa, lisää ripaus paprikaa ja pyörittele 30–45 sekuntia, kunnes voi on kirkkaan oranssinpunaista. Nosta heti liedeltä.",
+      "Kauho keitto lämpimiin kulhoihin. Valuta päälle teelusikallinen paprikavoita ja purista jokaiseen annokseen sitruunamehua. Tarjoa heti leivän kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-libum",
+    "title": "Libum – antiikin roomalainen ricottakakku",
+    "description": "Caton uhrikakku pöytään: tuore ricotta vatkataan kananmunan ja spelttijauhojen kanssa, muotoillaan laakerinlehtien päälle ja paistetaan kannen alla, kunnes reunat halkeilevat kullanruskeiksi. Lämpimänä tummaan hunajaan kastettuna se on kuin maailman vanhin juustokakku.",
+    "servings": 4,
+    "prepTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["historiallinen", "kasvis", "hunaja", "roomalainen"],
+    "ingredients": [
+      "250 g tuoretta ricottaa, hyvin valutettuna",
+      "125 g spelttijauhoja",
+      "1 kananmuna",
+      "½ tl suolaa",
+      "4 laakerinlehteä, tuoreita (alustaksi)",
+      "1 dl tummaa hunajaa (viimeistelyyn)"
+    ],
+    "instructions": [
+      "Jos ricotta on löysää, valuta sitä harsokankaalla vuoratussa siivilässä 20–30 minuuttia tai pidempään jääkaapissa, kunnes se on kiinteää. Märkä ricotta tekee taikinasta valuvan.",
+      "Vatkaa valutettu ricotta puulusikalla kermaiseksi ja sekoita kananmuna joukkoon tasaiseksi. Lisää suola ja kääntele spelttijauhot vähitellen joukkoon, kunnes taikina on pehmeää ja paksua. Lopeta heti, kun jauhot ovat sekoittuneet.",
+      "Asettele laakerinlehdet pellille tai matalaan uunivuokaan. Jaa taikina neljään osaan ja muotoile kustakin noin 7–8 cm leveä ja 2–3 cm korkea keko laakerinlehden päälle. Silota pinnat kevyesti.",
+      "Paista 190 °C:ssa. Peitä kakut ensimmäiseksi 15 minuutiksi ylösalaisin käännetyllä metallikulholla tai kannellisella padalla ja paista sitten ilman kantta vielä 5–10 minuuttia, kunnes kakut ovat kohonneet, kypsiä ja reunoilta kullanruskeita.",
+      "Lämmitä hunaja juoksevaksi. Nosta lämpimät kakut tarjoiluvadille, halkaise tai pistele pinta ja kaada lämmin hunaja päälle niin, että se imeytyy halkeamiin. Syö heti."
+    ]
+  },
+  { "id": "forkrecipe-limoncello", "skip": "alkoholijuoma (likööri), jossa alkoholi on olennainen osa" },
+  {
+    "id": "forkrecipe-lion-head-meatballs",
+    "title": "Leijonanpäälihapullat (shi zi tou)",
+    "description": "Nyrkin kokoiset porsaanlihapullat haudutetaan hitaasti tummassa shaoxing-viiniliemessä, kunnes ne ovat sisältä niin pehmeitä, että ne värisevät syömäpuikon koskettaessa. Ympärillä kiinankaali sulaa silkkisiksi nauhoiksi – leijonan harjaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["kiinalainen", "liha", "pataruoka", "lihapullat"],
+    "ingredients": [
+      "600 g porsaan jauhelihaa (rasvaa n. 30 %)",
+      "80 g vesikastanjoita, hienoksi kuutioituina",
+      "1 kananmuna, vatkattuna",
+      "20 g maissitärkkelystä",
+      "15 g tuoretta inkivääriä, hienoksi raastettuna",
+      "25 g kevätsipulin valkoisia osia, hienonnettuna",
+      "2 rkl vaaleaa soijakastiketta",
+      "1 rkl tummaa soijakastiketta",
+      "2 rkl shaoxing-riisiviiniä",
+      "20 g kidesokeria (rock sugar) tai tavallista sokeria",
+      "2 rkl rypsiöljyä ruskistamiseen",
+      "400 g kiinankaalia, ulkolehdet kokonaisina",
+      "5 dl mietoa kana- tai porsaanlientä"
+    ],
+    "instructions": [
+      "Yhdistä isossa kulhossa jauheliha, vesikastanjat, kananmuna, maissitärkkelys, inkivääri (purista mehu mukaan ja hävitä kuidut), kevätsipuli, vaalea soija ja puolet shaoxing-viinistä. Sekoita voimakkaasti yhteen suuntaan 3–4 minuuttia, kunnes seos on tasaista ja hieman tahmeaa. Seos on hyvin pehmeää; älä lisää korppujauhoja. Jäähdytä 30 minuuttia.",
+      "Jaa seos märin käsin 4–5 osaan (n. 150 g) ja pyöritä sileiksi palloiksi kevyesti puristaen. Kuumenna öljy leveässä syvässä padassa keskikovalla lämmöllä. Ruskista pullat 2–3 minuuttia kultakin puolelta, kunnes pinta on kullanruskea. Käännä vasta, kun pinta irtoaa padasta itsestään.",
+      "Kaada suurin osa öljystä pois. Lisää tumma soija ja sokeri ja sekoita keskilämmöllä, kunnes sokeri sulaa. Lisää loput shaoxing-viinistä ja anna kiehahtaa 30 sekuntia. Lisää liemi ja kuumenna kiehuvaksi. Asettele kiinankaalinlehtiä paksuksi kerrokseksi padan pohjalle ja nosta lihapullat niiden päälle. Valele liemellä ja peitä pullat lisää kaalinlehdillä. Peitä pata tiiviisti ja hauduta miedoimmalla lämmöllä 90 minuuttia, käännä pullat kerran 45 minuutin kohdalla."
+    ],
+    "notes": ["Tarjoa höyrytetyn riisin kanssa."]
+  },
+  {
+    "id": "forkrecipe-lobster-bisque-base",
+    "title": "Hummerinkuoriliemi (bisquepohja)",
+    "description": "Paahdetuista hummerinkuorista tehty täyteläinen, ruosteenoranssi äyriäisliemi – kunnon bisquen voimakkaan makuinen perusta, jonka syvyys syntyy paahtamisesta, liekittämisestä ja kuorien pitkästä uuttamisesta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 150,
+    "category": "Muut",
+    "tags": ["ranskalainen", "äyriäiset", "liemi", "gluteeniton"],
+    "ingredients": [
+      "600 g hummerin kuoria ja päitä (2 hummerista)",
+      "1 keltasipuli (n. 150 g), kuutioituna",
+      "1 porkkana (n. 100 g), kuutioituna",
+      "1 varsi lehtiselleriä (n. 80 g), kuutioituna",
+      "4 valkosipulinkynttä, murskattuina",
+      "2 rkl tomaattipyreetä",
+      "200 g kuorittuja tomaatteja (säilyke)",
+      "0,8 dl konjakkia tai brandyä",
+      "2 dl kuivaa valkoviiniä",
+      "40 g suolatonta voita",
+      "4 oksaa tuoretta rakuunaa",
+      "2 laakerinlehteä",
+      "ripaus cayennepippuria",
+      "1,5 l kylmää vettä tai mietoa kalalientä",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Pilko hummerin kuoret pienemmiksi keittiösaksilla tai raskaalla veitsellä. Levitä uunipellille ja paahda 220 °C:ssa 15–20 minuuttia kerran kääntäen, kunnes kuoret ovat kirkkaan punaoranssit ja tuoksuvat voimakkaasti. Älä paahda mustiksi.",
+      "Sulata voi isossa paksupohjaisessa kattilassa kovalla lämmöllä. Lisää paahdetut kuoret ja kypsennä sekoittaen 2–3 minuuttia. Lisää sipuli, porkkana, selleri ja valkosipuli ja kypsennä usein sekoittaen 5–8 minuuttia, kunnes kasvikset pehmenevät ja alkavat karamellisoitua. Lisää tomaattipyree ja sekoita 2 minuuttia. Lisää tomaatit ja cayenne.",
+      "Nosta kattila pois lämmöltä ja lisää konjakki. Palauta lämmölle ja sytytä konjakki varovasti pitkällä tulitikulla; liekki palaa 15–30 sekuntia. Kun liekit sammuvat, lisää valkoviini ja raaputa pohja. Keitä 2–3 minuuttia, kunnes viini on puolittunut.",
+      "Lisää kylmä vesi, rakuuna ja laakerinlehdet. Kuumenna kiehuvaksi ja hauduta ilman kantta 45–60 minuuttia. Siivilöi harsokankaalla vuoratun siivilän läpi ja paina kuoria tiukasti. Keitä siivilöity liemi kolmanneksen pienemmäksi tiiviimpää bisquepohjaa varten. Mausta kevyesti, sillä bisque maustetaan vielä valmistusvaiheessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-lobster-bisque",
+    "title": "Hummeribisque",
+    "description": "Ranskalaisten bisquejen kuningas: kokonaiset hummerit paahdetaan ja liekitetään konjakilla, haudutetaan valkoviinissä ja kalaliemessä tomaatin ja rakuunan kanssa, siivilöidään kahdesti ja viimeistellään kermalla vaalean korallinpunaiseksi, poikkeuksellisen täyteläiseksi keitoksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 90,
+    "category": "Keitot",
+    "tags": ["ranskalainen", "äyriäiset", "keitto", "juhla"],
+    "ingredients": [
+      "2 elävää hummeria (à 600 g) tai hummerin pyrstöjä ja kuoria",
+      "60 g suolatonta voita",
+      "4 salottisipulia, hienoksi kuutioituna",
+      "1 porkkana, hienoksi kuutioituna",
+      "2 vartta lehtiselleriä, hienoksi kuutioituna",
+      "3 valkosipulinkynttä, murskattuina",
+      "2 rkl tomaattipyreetä",
+      "½ dl konjakkia tai armanjakkia",
+      "2 dl kuivaa valkoviiniä",
+      "1 l kalalientä",
+      "2 dl kuohukermaa",
+      "8 oksaa tuoretta rakuunaa",
+      "2 laakerinlehteä",
+      "ripaus cayennepippuria",
+      "1 tl suolaa",
+      "ripaus valkopippuria, vastajauhettuna",
+      "tuoretta kirveliä tai rakuunaa koristeeksi"
+    ],
+    "instructions": [
+      "Laita hummerit pakastimeen 20 minuutiksi ennen halkaisemista, jolloin ne tainnutetaan. Halkaise hummerit pituussuunnassa terävällä raskaalla veitsellä. Kuumenna voi leveässä paksupohjaisessa padassa kovalla lämmöllä vaahtoavaksi. Lisää kuoret ja pyrstöliha leikkuupinta alaspäin. Paista käännellen 8–10 minuuttia, kunnes kuoret ovat kirkkaan punaoranssit. Nosta pyrstöliha pois juuri kypsänä ja säästä koristeeksi.",
+      "Lisää salottisipulit, porkkana ja selleri kuorien joukkoon ja kypsennä keskikovalla lämmöllä 5 minuuttia. Lisää valkosipuli ja tomaattipyree ja sekoita 2–3 minuuttia, kunnes pyree tummuu tiilenpunaiseksi.",
+      "Kaada konjakki pataan. Kaasulieden ääressä voit liekittää konjakin varovasti; muuten anna alkoholin kiehua pois 2 minuuttia. Lisää valkoviini ja raaputa pohja puulusikalla. Keitä viini puoleen ennen liemen lisäämistä.",
+      "Lisää kalaliemi, rakuunanoksat ja laakerinlehdet. Kuumenna kiehuvaksi ja hauduta tasaisesti ilman kantta 25–30 minuuttia. Kuori vaahto ensimmäisten minuuttien aikana.",
+      "Poista laakerinlehdet. Soseuta kaikki kuorineen tehosekoittimessa erissä minuutin ajan. Siivilöi hienon siivilän läpi ja paina kauhalla kaikki neste talteen. Hävitä kuorenpalat. Siivilöi vielä toiseen kertaan silkkisemmän tuloksen saamiseksi.",
+      "Kaada siivilöity bisque puhtaaseen kattilaan, lisää kerma ja hauduta 8–10 minuuttia, kunnes keitto peittää lusikan selän. Mausta suolalla, valkopippurilla ja ripauksella cayennea. Lämmitä hummerinliha keitossa minuutin ajan. Kauho lämmitettyihin kulhoihin, lisää hummerinpala keskelle ja koristele kirvelillä tai rakuunalla."
+    ]
+  },
+  { "id": "forkrecipe-lobster-stock", "skip": "lähes kaksoiskappale (hummerinkuoriliemi)" }
+]
