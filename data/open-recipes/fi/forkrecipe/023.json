@@ -1,0 +1,717 @@
+[
+  {
+    "id": "forkrecipe-olive-oil-lemon-cake",
+    "title": "Oliiviöljy-sitruunakakku",
+    "description": "Mehevä, kullanruskea yksikerroksinen kakku, jonka pinta on rapsakan sokerinen ja sisus tuoksuu sokeriin hierotulta sitruunankuorelta ja hyvän oliiviöljyn hennolta pippurisuudelta. Päälle kirpeä sitruunakuorrute.",
+    "servings": 10,
+    "prepTimeMin": 20,
+    "totalTimeMin": 115,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["välimerellinen", "kasvis", "kakku", "sitruuna"],
+    "ingredients": [
+      "200 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "½ tl suolaa",
+      "200 g sokeria",
+      "2 sitruunaa, kuori raastettuna ja mehu (n. 0,6 dl)",
+      "3 kananmunaa, huoneenlämpöisiä",
+      "1,6 dl mietoa ekstra-neitsytoliiviöljyä",
+      "1,2 dl täysmaitoa, huoneenlämpöistä",
+      "90 g tomusokeria (kuorrutukseen)",
+      "1 rkl ruokosokeria (pinnalle)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Voitele 23 cm:n pyöreä kakkuvuoka oliiviöljyllä ja vuoraa pohja leivinpaperilla. Raasta sitruunoiden kuori suoraan sokerin päälle isoon kulhoon ja hiero kuori sokeriin sormenpäillä 1–2 minuuttia. Purista sitruunoista mehu; taikinaan tarvitaan 3 rkl ja kuorrutukseen noin 2 rkl.",
+      "Lisää kananmunat sitruunasokeriin ja vatkaa voimakkaasti noin minuutti vaaleaksi. Vatkaa joukkoon oliiviöljy ohuena nauhana, sitten maito ja 3 rkl sitruunamehua. Sekoita toisessa kulhossa jauhot, leivinjauhe ja suola ja vatkaa ne kevyesti märkien ainesten joukkoon, kunnes kuivia jauhoja ei näy. Kaada vuokaan ja ripottele ruokosokeri pinnalle.",
+      "Paista uunin keskitasolla 40–45 minuuttia, kunnes pinta on kullanruskea, reunat irtoavat vuoasta ja keskelle pistetty tikku tulee puhtaana tai muutaman kostean murun kanssa. Jäähdytä vuoassa 15 minuuttia, irrota reunat veitsellä ja kumoa ritilälle oikein päin.",
+      "Vatkaa tomusokeri ja noin 2 rkl sitruunamehua sileäksi, paksuksi mutta valuvaksi kuorrutteeksi. Kun kakku on haalea (noin 30 minuuttia), lusikoi kuorrute pinnalle ja anna valua reunoille. Anna jähmettyä 15 minuuttia ennen leikkaamista."
+    ]
+  },
+  {
+    "id": "forkrecipe-one-pot-cherry-tomato-spaghetti",
+    "title": "Yhden padan kirsikkatomaatti-basilikaspagetti",
+    "description": "Kuiva spagetti, puolitetut kirsikkatomaatit, valkosipuli ja sipuli laitetaan kaikki yhtä aikaa kylmään veteen, ja pastan kypsyessä tärkkelys ja hajoavat tomaatit tiivistyvät makeaksi, kiiltäväksi kastikkeeksi, joka tarttuu jokaiseen suikaleeseen.",
+    "servings": 4,
+    "prepTimeMin": 15,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "kasvis", "pasta", "arkiruoka", "nopea"],
+    "ingredients": [
+      "400 g spagettia",
+      "600 g kirsikkatomaatteja, puolitettuina",
+      "1 keltasipuli (n. 150 g), puolitettuna ja ohuina viipaleina",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "½ tl chilihiutaleita",
+      "20 tuoretta basilikanlehteä (puolet kokonaisina, puolet revittyinä)",
+      "3 rkl ekstra-neitsytoliiviöljyä (+ lisää viimeistelyyn)",
+      "2 tl suolaa",
+      "11 dl kylmää vettä",
+      "40 g parmesaania, hienoksi raastettuna",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Käytä noin 30 cm:n suoralaitaista pannua tai leveää pataa, johon spagetti mahtuu vaakatasoon. Asettele spagetti pannulle ja ripottele päälle tomaatit, sipuli, valkosipuli, chilihiutaleet ja puolet basilikasta kokonaisina lehtinä. Lisää oliiviöljy, suola ja kylmä vesi; pastan pitää juuri peittyä.",
+      "Kuumenna kovalla lämmöllä kiehuvaksi. Kun pasta pehmenee (noin 2 minuuttia), käännä sitä pihdeillä 30–60 sekunnin välein, ettei se paakkuunnu. Keitä voimakkaasti ilman kantta 9–11 minuuttia, kunnes pasta on al dente ja vettä on jäljellä vain muutama ruokalusikallinen kiiltävää, oranssinpunaista kastiketta. Paina tomaatteja pannun reunaa vasten niiden pehmetessä.",
+      "Nosta liedeltä, lisää parmesaani, tilkka oliiviöljyä ja mustapippuria ja kääntele voimakkaasti 30 sekuntia. Anna seistä 2 minuuttia. Kääntele joukkoon revityt basilikanlehdet, tarkista suola ja tarjoa lisäparmesaanin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-onigiri",
+    "title": "Onigiri – japanilaiset riisipallot",
+    "description": "Käsin painellut japanilaiset riisikolmiot: maustettu lyhytjyväinen riisi muotoillaan suolaisen täytteen ympärille ja kääritään noriin. Täydellinen eväs.",
+    "servings": 6,
+    "prepTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Välipalat",
+    "tags": ["japanilainen", "riisi", "eväs"],
+    "ingredients": [
+      "4,8 dl japanilaista lyhytjyväistä riisiä (n. 400 g)",
+      "5,3 dl kylmää vettä (keittämiseen)",
+      "½ tl suolaa (riisin maustamiseen)",
+      "1 tl suolaa (käsien kostuttamiseen)",
+      "6 umeboshi-luumua tai tonnikalamajoneesitäytettä",
+      "3 nori-levyä, leveinä suikaleina"
+    ],
+    "instructions": [
+      "Huuhtele riisi kylmässä vedessä kevyesti hämmentäen, kunnes vesi on lähes kirkasta, yleensä 4–5 kertaa. Valuta siivilässä 10 minuuttia. Laita riisi ja vesi paksupohjaiseen kattilaan tai riisinkeittimeen. Kattilassa: kuumenna kiehuvaksi, laske lämpö heti miedoimmalle, peitä tiiviisti ja keitä 13 minuuttia kantta nostamatta. Anna hautua liedeltä nostettuna kannen alla vielä 10 minuuttia. Kuohkeuta varovasti riisilastalla kääntelemällä.",
+      "Kun riisi on lämmintä (ei kuumaa), ripottele suola tasaisesti pinnalle ja kääntele joukkoon. Peitä kostealla liinalla. Valmista pieni kulhollinen vettä, johon on sekoitettu ripaus suolaa, käsien kostuttamista varten.",
+      "Kostuta kämmenet suolavedellä ja ravista ylimäärä pois. Ota kourallinen lämmintä riisiä (n. 120–130 g) ja litistä se kämmenelle. Laita keskelle täyte ja käännä riisi sen ympärille. Muotoile riisi kolmioksi painamalla toisella kädellä V-muodossa ylhäältä ja toisella pohjaa vasten. Paina tasaisesti kolmelta puolelta, käännä neljänneskierros ja toista 4–6 kertaa, kunnes kolmio on tiivis mutta ei kivikova.",
+      "Leikkaa norista leveä suikale, joka peittää kolmion yhden pinnan ja ulottuu reunoille. Paina nori pohjaa vasten ja taita reunat sivuille. Tarjoa heti, kun nori on rapeaa; se pehmenee 10–15 minuutissa. Evääksi kääri nori erikseen ja paina se riisiin juuri ennen syömistä."
+    ]
+  },
+  {
+    "id": "forkrecipe-opera-cake",
+    "title": "Gâteau opéra – oopperakakku",
+    "description": "Kerroksittain kahvilla kostutettua joconde-mantelikakkupohjaa, espressovoikreemiä ja tummaa suklaaganassia, viimeistelty peilikirkkaalla suklaakuorrutuksella – ranskalaisen konditoriataiteen huippu.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 150,
+    "totalTimeMin": 300,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "kakku", "suklaa", "juhla"],
+    "ingredients": [
+      "Joconde-pohja:",
+      "100 g mantelijauhoa",
+      "100 g tomusokeria",
+      "2 kananmunaa",
+      "20 g vehnäjauhoja",
+      "2–3 kananmunan valkuaista (n. 75 g)",
+      "1 rkl hienoa sokeria",
+      "15 g suolatonta voita, sulatettuna",
+      "Kahviliemi:",
+      "2 rkl pikaespressojauhetta",
+      "1 dl kuumaa vettä",
+      "¾ dl sokerilientä (yhtä paljon sokeria ja vettä, jäähdytettynä)",
+      "Kahvivoikreemi:",
+      "150 g suolatonta voita, pehmeänä",
+      "100 g tomusokeria",
+      "1 rkl pikaespressojauhetta",
+      "Ganassi:",
+      "100 g tummaa suklaata (70 %)",
+      "1 dl kuohukermaa",
+      "Kuorrutus:",
+      "75 g tummaa suklaata (70 %)",
+      "1 rkl rypsiöljyä"
+    ],
+    "instructions": [
+      "Vatkaa mantelijauho, tomusokeri ja kananmunat vaaleaksi, kuohkeaksi vaahdoksi, joka valuu vatkaimesta leveänä nauhana. Siivilöi joukkoon vehnäjauhot ja kääntele. Vatkaa valkuaiset erikseen pehmeäksi vaahdoksi, lisää sokeri ja vatkaa kovaksi marengiksi. Kääntele marenki mantelitaikinaan kolmessa erässä ja lopuksi jäähtynyt sulatettu voi. Levitä ohueksi (5 mm) kerrokseksi kahdelle leivinpaperilla vuoratulle pellille. Paista 200 °C:ssa 8–10 minuuttia vaalean kullanruskeiksi ja joustaviksi. Leikkaa kolmeksi yhtä suureksi suorakaiteeksi.",
+      "Liuota espressojauhe kuumaan veteen ja sekoita joukkoon sokeriliemi. Jäähdytä huoneenlämpöiseksi. Liemen kuuluu maistua voimakkaalta kahvilta ja makealta.",
+      "Vatkaa pehmeä voi keskinopeudella hyvin vaaleaksi ja kuohkeaksi, 3–4 minuuttia. Liuota espressojauhe teelusikalliseen kuumaa vettä tahnaksi ja lisää voihin. Vatkaa joukkoon tomusokeri kolmessa erässä. Voikreemin pitää olla vaaleaa, sileää ja niin jäykkää, että reuna pysyy terävänä.",
+      "Pilko suklaa hienoksi lämmönkestävään kulhoon. Kuumenna kerma juuri kiehumispisteeseen ja kaada suklaan päälle. Anna olla minuutti ja sekoita sitten keskeltä alkaen pienin ympyröin sileäksi. Jäähdytä huoneenlämmössä välillä sekoittaen levitettäväksi.",
+      "Vuoraa tasainen tarjotin leivinpaperilla. Kerros 1: aseta pohja, kostuta reilusti kahviliemellä ja levitä 3–4 mm kerros ganassia. Kerros 2: toinen pohja, kahviliemi ja 3–4 mm kerros kahvivoikreemiä. Kerros 3: kolmas pohja, kahviliemi ja toinen kerros ganassia. Paina päälle kevyesti puhdas pelti, jotta pinta tasoittuu, ja jäähdytä vähintään tunti.",
+      "Sulata suklaa vesihauteessa ja sekoita joukkoon öljy sileäksi. Jäähdytä 35–38 asteeseen. Nosta kakku ritilälle tarjottimen päälle ja kaada kuorrutus yhdellä liikkeellä keskeltä reunoille. Jäähdytä 20 minuuttia, kunnes kuorrutus on jähmettynyt ja kiiltävä. Leikkaa reunat kuumalla puhtaalla veitsellä suoriksi, jolloin kerrokset näkyvät."
+    ]
+  },
+  {
+    "id": "forkrecipe-osso-buco",
+    "title": "Osso buco alla milanese",
+    "description": "Milanon suuri vasikkapata: poikittain leikatut potkat haudutetaan valkoviinissä ja liemessä, kunnes ydin värisee luussa ja kastike on vanhan meripihkan väristä. Päälle raikas gremolata – raakaa valkosipulia, sitruunankuorta ja persiljaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "liha", "pataruoka", "juhla", "gluteeniton"],
+    "ingredients": [
+      "1,5 kg vasikanpotkaa, poikkiviipaleina (osso buco, 4–5 cm paksuja), narulla sidottuina",
+      "1 porkkana (n. 100 g), pieninä kuutioina",
+      "1 varsi lehtiselleriä (n. 80 g), pieninä kuutioina",
+      "1 valkosipuli (n. 120 g), pieninä kuutioina",
+      "4 valkosipulinkynttä, murskattuina",
+      "2,5 dl kuivaa valkoviiniä",
+      "5 dl naudan- tai vasikanlientä, lämmintä",
+      "1 rkl tomaattipyreetä",
+      "2 laakerinlehteä",
+      "4 oksaa tuoretta timjamia",
+      "30 g suolatonta voita",
+      "2 rkl oliiviöljyä",
+      "suolaa",
+      "mustapippuria",
+      "Gremolata:",
+      "1 sitruunan raastettu kuori",
+      "15 g lehtipersiljaa, hienonnettuna",
+      "1 valkosipulinkynsi, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuivaa lihat huolellisesti talouspaperilla ja mausta reilusti suolalla ja pippurilla. Kuumenna voi ja oliiviöljy leveässä paksupohjaisessa padassa keskikovalla lämmöllä, kunnes voin vaahto laskee. Ruskista potkat lappeellaan erissä 3–4 minuuttia per puoli syvän ruskeiksi ja ruskista lopuksi reunat. Nosta lautaselle.",
+      "Laske lämpö keskitasolle. Lisää porkkana, selleri ja sipuli ja kypsennä pohjaa raaputtaen 8–10 minuuttia pehmeiksi ja reunoilta kullanruskeiksi. Lisää valkosipuli ja tomaattipyree ja kypsennä vielä 2 minuuttia, kunnes pyree tummuu tiilenpunaiseksi.",
+      "Kaada valkoviini kerralla pataan ja nosta lämpöä. Raaputa pohja ja keitä viini puoleen, 4–5 minuuttia.",
+      "Lisää lämmin liemi, laakerinlehdet ja timjami. Asettele potkat takaisin pataan pystyyn, ydin ylöspäin. Nesteen pitää ulottua puoleen väliin lihoja. Kuumenna hiljaiseen kiehuntaan, peitä tiiviisti ja siirrä 160-asteiseen uuniin. Hauduta 1½–2 tuntia, valellen kerran tai kahdesti, kunnes liha on täysin mureaa ja irtoaa reunoilta luusta.",
+      "Nosta potkat lämpimälle lautaselle foliolla peitettyinä. Poista laakerinlehdet ja timjaminoksat ja kuori rasva liemen pinnalta. Jos kastike on ohutta, keitä sitä ilman kantta 5–10 minuuttia, kunnes se peittää lusikan ohuesti. Mausta ja poista narut lihoista.",
+      "Sekoita sitruunankuori, persilja ja valkosipuli pienessä kulhossa gremolataksi. Annostele potkat lautasille tai sahramirisoton päälle, kaada kastike päälle ja ripottele reilusti gremolataa jokaisen annoksen päälle juuri ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-oysters-mignonette",
+    "title": "Osterit ja mignonette-granita",
+    "description": "Ranskalaiseen tapaan raakoja ostereita murskatulla jäällä ja mignonette-granitalla: salottisipuli ja sherryetikka jäädytetään teräviksi jääkiteiksi, jotka sulavat kylmän osterin päällä ja korostavat sen suolaisuutta peittämättä sitä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 140,
+    "category": "Välipalat",
+    "tags": ["ranskalainen", "äyriäiset", "juhla", "gluteeniton"],
+    "ingredients": [
+      "900 g eläviä ostereita (n. 12–16 kpl)",
+      "0,8 dl sherryetikkaa",
+      "40 g salottisipulia, hyvin hienoksi hienonnettuna",
+      "½ tl mustapippuria, karkeaksi rouhittuna",
+      "2 rkl kylmää vettä",
+      "ripaus suolahiutaleita",
+      "400 g murskattua jäätä tarjoiluun"
+    ],
+    "instructions": [
+      "Sekoita sherryetikka, salottisipuli, mustapippuri ja kylmä vesi pienessä kulhossa. Maista: seoksen kuuluu olla terävän hapan, ja salottisipuli ja pippuri maistuvat selvästi. Säädä vedellä tai pippurilla.",
+      "Kaada seos leveään, matalaan pakastimenkestävään astiaan ja laita pakastimeen. Raaputa 45 minuutin kuluttua osittain jäätynyttä pintaa haarukalla kiteiksi. Toista 30 minuutin välein yhteensä 2 tunnin ajan, kunnes tuloksena on irtonaista, kimaltavaa jäärouhetta.",
+      "Pidä osteria taitetussa pyyhkeessä litteä kuori ylöspäin, sarana itseesi päin. Työnnä osteriveitsi saranaan 45 asteen kulmassa ja kierrä lujasti, kunnes sarana aukeaa. Liu'uta veitsi ylemmän kuoren sisäpintaa pitkin ja katkaise sulkijalihas. Poista ylempi kuori ja irrota osteri myös alemmasta kuoresta. Nesteen kuuluu olla kirkasta ja hennon suolaista. Asettele heti murskatulle jäälle.",
+      "Asettele avatut osterit kuorineen isolle vadille murskatun jään päälle. Lusikoi juuri ennen tarjoilua jokaisen osterin päälle puoli teelusikallista granitaa ja halutessasi ripaus suolahiutaleita. Tarjoa heti."
+    ],
+    "notes": ["Käytä vain eläviä, tiiviisti suljettuja ostereita luotettavasta lähteestä. Hävitä avoimet tai kopautettaessa sulkeutumattomat osterit."]
+  },
+  {
+    "id": "forkrecipe-oysters-rockefeller",
+    "title": "Osterit Rockefeller",
+    "description": "Pulleat osterit paistetaan puolikuorissaan kermapinaatin, aniksen ja kullanruskeiden korppujauhojen alla – New Orleansin vuoden 1899 juhlava alkuruoka, yhtä täyteläinen kuin nimikkonsa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 40,
+    "category": "Välipalat",
+    "tags": ["amerikkalainen", "äyriäiset", "juhla", "uuniruoka"],
+    "ingredients": [
+      "12 osteria, avattuina puolikuoriin (kuppipuoli ylöspäin)",
+      "150 g babypinaattia, pestynä ja kuivattuna",
+      "1 salottisipuli ja 1 valkosipulinkynsi, yhdessä hienonnettuina",
+      "25 g suolatonta voita",
+      "1 rkl Pernod'ta tai muuta anislikööriä",
+      "2 rkl kuohukermaa",
+      "1 tl tuoretta rakuunaa, hienonnettuna",
+      "2 rkl panko-korppujauhoja",
+      "1 rkl parmesaania, hienoksi raastettuna",
+      "suolaa",
+      "ripaus cayennepippuria",
+      "karkeaa suolaa tai rypistettyä foliota alustaksi"
+    ],
+    "instructions": [
+      "Sulata voi leveällä pannulla keskilämmöllä. Lisää salottisipuli ja valkosipuli ja kuullota usein sekoittaen 4–5 minuuttia täysin pehmeiksi. Mausta kevyesti suolalla.",
+      "Lisää pinaatti erissä ja anna kunkin erän pehmetä ennen seuraavaa. Kun kaikki pinaatti on pehmennyt ja neste haihtunut, lisää anislikööri ja anna kiehahtaa 30 sekuntia. Lisää kerma ja keitä keskikovalla lämmöllä sekoittaen, kunnes seos on niin paksua, että lusikka jättää pohjaan uran. Nosta liedeltä, sekoita joukkoon rakuuna ja mausta suolalla ja cayennella.",
+      "Kuumenna uuni 220 asteeseen tai grillivastus kuumimmalle. Asettele osterit puolikuorissaan karkealla suolalla tai rypistetyllä foliolla täytetylle pellille, jotta ne pysyvät suorassa. Lusikoi jokaisen osterin päälle reilu teelusikallinen pinaattiseosta. Sekoita panko ja parmesaani ja ripottele tasaisesti päälle.",
+      "Paista 220 °C:ssa 8–10 minuuttia tai grillivastuksen alla 3–4 minuuttia, kunnes korppujauhot ovat syvän kullanruskeita ja osterin reunat alkavat juuri kiertyä. Grillivastusta käyttäessä valvo koko ajan."
+    ]
+  },
+  {
+    "id": "forkrecipe-pad-see-ew",
+    "title": "Pad see ew – paistetut leveät riisinuudelit",
+    "description": "Leveät riisinuudelit paistetaan tulikuumassa wokissa kananmunan, kiinanparsakaalin ja makean soijakastikkeen kanssa, kunnes ne ovat kevyesti hiiltyneitä. Ruoka, joka elää tai kuolee wokin savuisen tulen mukaan.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 20,
+    "category": "Pääruoat",
+    "tags": ["thaimaalainen", "kana", "nuudelit", "wokki", "nopea"],
+    "ingredients": [
+      "400 g tuoreita leveitä riisinuudeleita (sen yai)",
+      "160 g broilerin rintafileetä tai reisilihaa ohuina viipaleina (tai kiinteää tofua)",
+      "1 kananmuna",
+      "140 g kiinanparsakaalia (gai lan) tai varsiparsakaalia, 5 cm paloina",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 rkl kecap manista tai makeaa tummaa soijakastiketta",
+      "2 rkl osterikastiketta",
+      "1 rkl vaaleaa soijakastiketta",
+      "3 rkl rypsiöljyä",
+      "2 tl sokeria"
+    ],
+    "instructions": [
+      "Leikkaa kana ohuiksi, enintään 5 mm viipaleiksi ja sekoita puolen osterikastikkeen ja puolen vaalean soijan kanssa. Anna marinoitua huoneenlämmössä 10 minuuttia. Sekoita pienessä kulhossa loput osterikastikkeesta ja vaaleasta soijasta, kecap manis ja sokeri. Irrota kylmät nuudelit varovasti toisistaan ja anna lämmetä huoneenlämpöisiksi.",
+      "Kuumenna wokki kovimmalla lämmöllä, kunnes se savuaa. Lisää puolet öljystä ja valkosipuli, joka kullastuu 15 sekunnissa. Lisää kana heti yhteen kerrokseen ja anna olla liikuttamatta 60 sekuntia, käännä ja paista kypsäksi, yhteensä 2–3 minuuttia. Nosta kana sivuun.",
+      "Kuumenna wokki taas kuumimmilleen ja lisää loput öljystä. Lisää nuudelit mahdollisimman yhteen kerrokseen ja anna olla sekoittamatta 60–90 sekuntia, jotta ne hiiltyvät hieman. Lisää kiinanparsakaali ja kääntele 3–4 kertaa. Työnnä kaikki wokin reunalle.",
+      "Riko kananmuna wokin keskelle. Anna hyytyä 10–15 sekuntia ja sekoita kevyesti. Ennen kuin muna on täysin hyytynyt, käännä nuudelit sen päälle ja sekoita, niin että pehmeät munanhyytymät jakautuvat nuudeleihin.",
+      "Kaada kastike nuudelien päälle ja palauta kana wokkiin. Kääntele voimakkaasti 60 sekuntia, kunnes kaikki on kastikkeen peitossa ja nuudelit ovat tasaisen tummia ja kiiltäviä. Tarkista maku ja tarjoa heti."
+    ]
+  },
+  { "id": "forkrecipe-pad-thai-sauce", "skip": "lähes kaksoiskappale (pad thai)" },
+  {
+    "id": "forkrecipe-pad-thai",
+    "title": "Pad thai",
+    "description": "Savunmakuiset riisinuudelit kananmunan, katkarapujen ja rapeiden maapähkinöiden kanssa, sidottuna kiiltävällä tamarindikastikkeella, joka tasapainoilee makean, happaman, suolaisen ja umamisen välillä. Jokainen wokin kuumuus karamellisoi nuudelien pintaa kuin katukeittiössä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["thaimaalainen", "äyriäiset", "nuudelit", "wokki"],
+    "ingredients": [
+      "200 g kuivattuja riisinuudeleita (3 mm leveitä)",
+      "150 g raakoja katkarapuja, kuorittuina ja suolistettuina",
+      "2 kananmunaa",
+      "3 rkl tamarinditahnaa",
+      "2 rkl kalakastiketta",
+      "20 g palmusokeria tai vaaleaa fariinisokeria",
+      "40 g salottisipulia, ohuina viipaleina",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "3 rkl rypsiöljyä",
+      "15 g pieniä kuivattuja katkarapuja",
+      "80 g pavunituja, huuhdeltuina",
+      "40 g paahdettuja maapähkinöitä, karkeasti murskattuina",
+      "20 g kiinanruohosipulia tai kevätsipulin vartta",
+      "1 limetti, lohkoina",
+      "1 tl kuivattuja chilihiutaleita"
+    ],
+    "instructions": [
+      "Peitä kuivatut riisinuudelit huoneenlämpöisellä (ei kuumalla) vedellä ja liota 25–30 minuuttia, kunnes ne taipuvat katkeamatta mutta ovat sisältä vielä napakoita. Valuta, mutta älä huuhtele.",
+      "Lämmitä tamarinditahna, kalakastike ja palmusokeri pienessä kattilassa miedolla lämmöllä sekoittaen, kunnes sokeri liukenee, noin 2 minuuttia. Älä keitä. Maista: ensin hapan, sitten suolainen ja lopuksi makea. Säädä sokerilla, kalakastikkeella tai tamarindilla.",
+      "Kuumenna wokki tai iso pannu kovimmalla lämmöllä kaksi minuuttia, kunnes se savuaa. Lisää öljy ja salottisipuli ja paista 90 sekuntia. Lisää valkosipuli ja kuivatut katkaravut ja paista jatkuvasti sekoittaen 60 sekuntia; älä polta valkosipulia.",
+      "Lisää raa'at katkaravut yhteen kerrokseen ja paina niitä 30 sekuntia sekoittamatta. Käännä ja paista vielä 30–45 sekuntia, kunnes ne ovat lähes kypsiä. Nosta lautaselle.",
+      "Kuumenna wokki taas kuumimmilleen. Lisää nuudelit ja kaada kastike heti päälle. Kääntele jatkuvasti 60–90 sekuntia. Työnnä nuudelit sivuun, riko munat keskelle, anna hyytyä 15 sekuntia ja sekoita löysästi. Kun munat ovat vielä kiiltäviä, käännä nuudelit niiden päälle ja sekoita. Palauta katkaravut, kääntele kerran tai kahdesti ja annostele heti.",
+      "Kasaa pad thai lautaselle. Lisää sivuun raa'at pavunidut ja kiinanruohosipuli ja ripottele maapähkinät päälle. Tarjoa limettilohkon ja chilihiutaleiden kanssa; jokainen sekoittaa lisukkeet itse."
+    ]
+  },
+  {
+    "id": "forkrecipe-paella-sofrito",
+    "title": "Paellan sofrito",
+    "description": "Hyvän paellan tumma, hillomainen perusta: tomaatit ja paprika keitetään tiiviiksi, sahramilla maustetuksi tahnaksi, joka tuoksuu Valencian keskipäivän torilta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 50,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["espanjalainen", "vegaaninen", "kasvis", "kastike"],
+    "ingredients": [
+      "1,5 dl ekstra-neitsytoliiviöljyä",
+      "1 valkosipuli (n. 100 g), hienoksi kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "½ punaista paprikaa (n. 75 g), hienoksi kuutioituna",
+      "300 g kypsiä tomaatteja, raastettuina (kuoret pois)",
+      "1 rkl makeaa savupaprikajauhetta (pimentón dulce)",
+      "ripaus sahramia, liotettuna 2 rkl:ssa lämmintä vettä",
+      "1 tl suolaa",
+      "2 rkl lehtipersiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Murenna sahrami pieneen kulhoon, kaada päälle 2 rkl lämmintä vettä ja anna hautua vähintään 10 minuuttia.",
+      "Kuumenna oliiviöljy leveässä paksupohjaisessa pannussa (mieluiten paellapannussa) keskilämmöllä. Lisää sipuli ja kypsennä välillä sekoittaen 8–10 minuuttia pehmeäksi ja reunoilta kullankeltaiseksi. Lisää valkosipuli ja paprika ja kypsennä vielä 5 minuuttia usein sekoittaen.",
+      "Lisää raastetut tomaatit, savupaprika ja suola. Kypsennä keskilämmöllä usein sekoittaen 20–25 minuuttia, kunnes tomaatin neste on haihtunut kokonaan, seos on tummunut tiilenpunaiseksi ja öljy alkaa erottua reunoille.",
+      "Kaada sahramivesi tahnan päälle ja sekoita. Kypsennä vielä 2 minuuttia. Nosta liedeltä ja sekoita joukkoon persilja. Käytä heti paellan pohjana tai säilytä jääkaapissa enintään 3 päivää."
+    ]
+  },
+  {
+    "id": "forkrecipe-paella-valenciana",
+    "title": "Paella valenciana",
+    "description": "Alkuperäinen paella: kanaa, kania, litteitä vihreitä papuja ja valkoisia papuja sahraminkeltaisessa riisissä leveässä hiiliteräspannussa, kunnes pohjan socarrat-kuori rapisee ja koko keittiö tuoksuu paahdetulta riisiltä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["espanjalainen", "kana", "riisi", "juhla"],
+    "ingredients": [
+      "400 g paellariisiä (bomba tai calasparra)",
+      "400 g luullisia kananpaloja (reisiä, koipia)",
+      "200 g kania, luullisina paloina",
+      "100 g litteitä vihreitä papuja, päät poistettuina",
+      "100 g keitettyjä isoja valkoisia papuja (voipapuja)",
+      "1 kypsä tomaatti (n. 100 g), raastettuna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "1 rkl makeaa paprikajauhetta (pimentón de la Vera)",
+      "ripaus sahramia (n. 0,5 g)",
+      "½ dl ekstra-neitsytoliiviöljyä",
+      "1 l kuumaa kanalientä",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna paellapannu (40–50 cm neljälle) keskikovalla lämmöllä. Lisää oliiviöljy. Suolaa kana ja kani reilusti ja ruskista nahkapuoli alaspäin liikuttamatta 5–7 minuuttia per puoli syvän kullanruskeiksi. Lihan ei tarvitse kypsyä läpi. Tee erissä tarvittaessa ja jätä pohjaan tarttunut maku pannuun.",
+      "Työnnä lihat reunoille, lisää valkosipuli keskelle ja paista 30 sekuntia. Lisää raastettu tomaatti ja kypsennä 8–10 minuuttia, kunnes se tummuu ja öljy erottuu. Lisää paprikajauhe ja sekoita vain 30 sekuntia, ettei se pala.",
+      "Liota sahramia kauhallisessa kuumaa lientä 2 minuuttia. Lisää pavut sofritoon ja sekoita minuutti. Ripottele riisi tasaisesti koko pannulle ja sekoita. Kaada kaikki kuuma sahramiliemi kerralla ja sekoita kerran riisin levittämiseksi – sen jälkeen riisiin ei enää kosketa. Tarkista liemen suola nyt. Keitä keskikovalla lämmöllä 8–10 minuuttia, kunnes liemi on laskenut riisin tasolle. Laske lämpöä ja keitä vielä 8 minuuttia. Nosta lämpöä viimeiseksi 2 minuutiksi pohjan rapean socarratin muodostamiseksi.",
+      "Nosta pannu liedeltä ja peitä löyhästi foliolla tai liinalla. Anna levätä tasan 5 minuuttia. Tarjoa suoraan pannusta ja raaputa jokaiselle palanen rapeaa pohjaa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pain-au-lait",
+    "title": "Pain au lait – ranskalaiset maitosämpylät",
+    "description": "Niin pehmeät maitosämpylät, että pellistä irti revittäessä niistä nousee voinen höyrypilvi. Rikastettu maidolla, voilla ja juuri sen verran sokerilla, että kuori kullastuu ja sisus pysyy valkoisena ja pehmeänä.",
+    "servings": 12,
+    "prepTimeMin": 45,
+    "totalTimeMin": 210,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "leipä", "sämpylä"],
+    "ingredients": [
+      "500 g erikoisvehnäjauhoja",
+      "2,75 dl täysmaitoa, lämmitettynä 38–40 asteeseen",
+      "7 g kuivahiivaa",
+      "40 g sokeria",
+      "1½ tl suolaa",
+      "60 g suolatonta voita, pehmeänä",
+      "2 kananmunaa (toinen taikinaan, toinen voiteluun)"
+    ],
+    "instructions": [
+      "Lämmitä maito kädenlämpöiseksi (38–40 °C). Vatkaa joukkoon sokeri ja kuivahiiva ja anna seistä 8–10 minuuttia, kunnes pinta vaahtoaa. Vatkaa toinen kananmuna voiteluun ja säästä. Vatkaa toinen muna maitoseokseen.",
+      "Yhdistä jauhot ja suola yleiskoneen kulhossa. Lisää maitoseos ja sekoita taikinakoukulla hitaalla nopeudella 2 minuuttia, sitten keskihitaalla 5–6 minuuttia, kunnes taikina on sileää mutta vielä hieman tahmeaa. Älä lisää voita vielä.",
+      "Lisää pehmeä voi koneen käydessä 4–5 erässä, odottaen että kukin erä imeytyy. Taikina näyttää hetken hajoavan, mikä on normaalia. Vaivaa viimeisen lisäyksen jälkeen keskinopeudella vielä 6–8 minuuttia, kunnes taikina on sileää, kimmoisaa ja irtoaa kulhon reunoista.",
+      "Muotoile taikina palloksi, nosta voideltuun kulhoon ja peitä. Kohota lämpimässä (24–26 °C) 60–90 minuuttia kaksinkertaiseksi. Painele ilmat pois ja jaa 12 yhtä suureen osaan.",
+      "Litistä kukin pala kevyesti, taita reunat keskelle ja käännä sauma alaspäin. Pyörittele kämmenen alla jauhottamattomalla alustalla tiiviiksi palloksi. Asettele sämpylät voideltuun vuokaan toisiinsa kiinni. Peitä kostealla liinalla ja kohota 45–60 minuuttia, kunnes ne ovat turvonneet ja kasvaneet yhteen.",
+      "Kuumenna uuni 180 asteeseen. Vatkaa säästetty kananmuna ripauksen suolaa kanssa ja sivele sämpylät varovasti. Paista uunin keskitasolla 18–22 minuuttia kullanruskeiksi (sisälämpötila 88–90 °C). Jäähdytä vuoassa 5 minuuttia ja siirrä ritilälle. Parhaimmillaan lämpimänä tai samana päivänä."
+    ]
+  },
+  {
+    "id": "forkrecipe-pain-de-campagne",
+    "title": "Pain de campagne – ranskalainen maalaisleipä",
+    "description": "Klassinen ranskalainen hapanjuurileipä, jonka jauhoinen, ruskea kuori rapsahtaa ensimmäisestä viillosta. Mieto hapanjuuren kirpeys ja ilmava, epätasainen sisus, jossa maistuu täysjyvävehnän ja rukiin pähkinäisyys.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 1080,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "vegaaninen", "kasvis", "leipä", "hapanjuuri"],
+    "ingredients": [
+      "400 g erikoisvehnäjauhoja",
+      "70 g grahamjauhoja",
+      "30 g tummia ruisjauhoja (+ lisää pinnalle)",
+      "2,9 dl viileää vettä (22 °C)",
+      "80 g aktiivista vehnähapanjuurta (100 % hydraatio)",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Sekoita kaikki jauhot isossa kulhossa. Lisää viileä vesi ja sekoita märin käsin, kunnes kuivia jauhoja ei jää. Peitä tiiviisti ja anna levätä 45 minuuttia (autolyysi). Juurta ja suolaa ei lisätä vielä.",
+      "Kaada aktiivinen juuri taikinan päälle ja ripottele suola. Kostuta työtaso, levitä taikina ohueksi suorakaiteeksi, taita kolmeen osaan ja sitten toisin päin kolmeen osaan ja nosta takaisin kulhoon. Tee lisäksi yksi venytys-taitto-sarja.",
+      "Peitä kulho. Tee seuraavan 4 tunnin aikana neljä venytys-taitto-sarjaa 45–60 minuutin välein. Anna sitten levätä koskematta vielä 1–2 tuntia. Kokonaiskohotus on 5–6 tuntia 21–23 asteessa.",
+      "Kumoa taikina kevyesti jauhotetulle alustalle. Esimuotoile pyöreäksi ja anna levätä peittämättä 20 minuuttia. Muotoile soikeaksi leiväksi pintajännitystä rakentaen ja nosta sauma ylöspäin vehnä-ruisjauhoseoksella reilusti jauhotettuun kohotuskoriin. Kohota jääkaapissa 10–14 tuntia. Ripottele ennen paistoa leivän pinnalle lisää ruisjauhoja.",
+      "Kuumenna valurautapata 250-asteisessa uunissa 45 minuuttia. Kumoa kylmä leipä, viillä terällä yksi pitkä viilto tai ristikko ja laske pataan. Paista kannen alla 20 minuuttia, sitten ilman kantta 220 °C:ssa 25–30 minuuttia, kunnes kuori on syvän ruskea ja jauhotetut kohdat vaaleampia."
+    ]
+  },
+  {
+    "id": "forkrecipe-pain-perdu",
+    "title": "Pain perdu – ranskalainen köyhät ritarit",
+    "description": "Edellisen päivän briossiviipaleet liotetaan vaniljaisessa munamaidossa ja paistetaan vaahtoavassa voissa, kunnes pinta on kullanruskea ja sisus hytkyy kuin lämmin vanukas – alkuperäinen ranskalainen paahtoleipä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 30,
+    "category": "Aamiainen",
+    "tags": ["ranskalainen", "kasvis", "brunssi", "nopea"],
+    "ingredients": [
+      "4 viipaletta edellisen päivän briossia tai pullaa (2,5 cm paksuja)",
+      "2 kananmunaa",
+      "1 dl täysmaitoa",
+      "2 rkl hienoa sokeria",
+      "2 tl vaniljauutetta",
+      "ripaus suolaa",
+      "50 g suolatonta voita",
+      "1 rkl tomusokeria tarjoiluun"
+    ],
+    "instructions": [
+      "Riko kananmunat leveään, matalaan astiaan. Lisää maito, sokeri, vanilja ja suola ja vatkaa noin 30 sekuntia, kunnes sokeri on liuennut.",
+      "Liota leipäviipaleita munamaidossa minuutti kummaltakin puolelta. Viipaleiden pitää olla kylläisiä ja raskaita mutta pysyä koossa.",
+      "Sulata voi tarttumattomalla pannulla keskilämmöllä. Kun vaahto nousee ja alkaa laskea, lisää viipaleet varovasti pannulle. Paista liikuttamatta 2–3 minuuttia, kunnes alapuoli on syvän kullanruskea. Käännä leveällä lastalla ja paista toista puolta 2–3 minuuttia. Sisuksen pitää hytkyä kuin juuri hyytynyt vanukas. Paista erissä tarvittaessa.",
+      "Siirrä lämpimille lautasille ja siivilöi päälle reilusti tomusokeria. Tarjoa sellaisenaan tai ranskankerman ja hedelmähillokkeen kanssa heti, ennen kuin kuori pehmenee."
+    ]
+  },
+  {
+    "id": "forkrecipe-pajeon",
+    "title": "Pajeon – korealainen kevätsipulipannukakku",
+    "description": "Ohut, reunoilta rapea suolainen pannukakku täynnä kokonaisia kevätsipuleita – alta kullanruskea, sisältä pehmeä, ja kaverina terävä soija-etikkadippi.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Välipalat",
+    "tags": ["korealainen", "kasvis", "katuruoka", "nopea"],
+    "ingredients": [
+      "110 g vehnäjauhoja",
+      "40 g riisijauhoja (rapeuteen)",
+      "1,5 dl jääkylmää vettä",
+      "1 kananmuna",
+      "½ tl suolaa",
+      "1 nippu kevätsipulia (n. 90 g), kokonaisina ja siistittyinä",
+      "2 rkl rypsiöljyä",
+      "Dippikastike:",
+      "1½ rkl soijakastiketta",
+      "1 rkl riisiviinietikkaa"
+    ],
+    "instructions": [
+      "Sekoita vehnäjauhot, riisijauhot ja suola kulhossa. Lisää jääkylmä vesi ja kananmuna ja vatkaa juuri sekaisin; paakut eivät haittaa. Taikinan pitää olla ohutta kuin lettutaikina.",
+      "Kuumenna 25–28 cm:n tarttumaton tai valurautapannu keskikovalla lämmöllä. Lisää öljy. Asettele kevätsipulit pannulle yhdeksi kerrokseksi. Kaada taikina sipulien päälle ja kallistele pannua, jotta taikina levittyy ohueksi. Paista koskematta 3–4 minuuttia.",
+      "Käännä pannukakku leveällä lastalla yhdellä liikkeellä. Paista toista puolta 2–3 minuuttia kullanruskeaksi ja paina lastalla viimeisen minuutin ajan rapeuden lisäämiseksi. Liu'uta leikkuulaudalle.",
+      "Sekoita soijakastike ja riisiviinietikka pienessä kulhossa; halutessasi lisää ripaus gochugarua, muutama tippa seesamiöljyä ja hieman sokeria. Tarjoa pajeon paloiksi leikattuna dippikastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-palak-dal",
+    "title": "Palak dal – pinaattidal",
+    "description": "Halkaistut kyyhkyherneet keitetään paksuksi, kullankeltaiseksi keitoksi ja sekoitetaan tuoreeseen pinaattisoseeseen, joka värjää sen metsänvihreäksi. Päälle sinapinsiemen-, currynlehti- ja asafoetidatarka, joka rätisee pinnalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "kasvis", "linssit", "pinaatti"],
+    "ingredients": [
+      "2,4 dl halkaistuja kyyhkyherneitä (toor dal), huuhdeltuina",
+      "8,5 dl vettä",
+      "½ tl jauhettua kurkumaa",
+      "200 g tuoretta pinaattia, pestynä, varret poistettuina",
+      "2 rkl gheetä tai kookosöljyä",
+      "1 tl mustia sinapinsiemeniä",
+      "½ tl juustokuminaa, kokonaisena",
+      "12 tuoretta curryn lehteä",
+      "ripaus asafoetidaa",
+      "3 valkosipulinkynttä, ohuina viipaleina",
+      "2 kuivattua punaista chiliä",
+      "1 tl suolaa",
+      "1 rkl limetinmehua"
+    ],
+    "instructions": [
+      "Laita herneet, vesi ja kurkuma painekattilaan tai kattilaan. Painekattilassa keitä kovalla lämmöllä 3–4 vihellyksen verran ja anna paineen laskea itsestään 10 minuuttia. Tavallisessa kattilassa kuumenna kiehuvaksi, kuori vaahto ja hauduta kansi raollaan 40–50 minuuttia välillä sekoittaen, kunnes herneet murskautuvat sormien välissä. Vatkaa dal melko sileäksi ja mausta puolella suolasta.",
+      "Sekoita pinaatti kuumaan daliin ja peitä 3 minuutiksi, jolloin lehdet pehmenevät. Soseuta osittain sauvasekoittimella tai soseuta kolmannes dalista ja kaikki pinaatti tehosekoittimessa ja palauta kattilaan. Dalin pitää olla metsänvihreää ja paksua, mutta siinä saa olla rakennetta. Löysennä tarvittaessa kuumalla vedellä ja lisää loput suolasta.",
+      "Kuumenna ghee pienessä pannussa kovalla lämmöllä. Lisää sinapinsiemenet; ne poksahtelevat 10–15 sekunnissa. Kun poksahtelu laantuu, lisää juustokumina, chilit ja asafoetida, ja heti perään curryn lehdet (varo roiskeita). Lisää lopuksi valkosipuli ja paista 20–30 sekuntia vaalean kullanruskeaksi.",
+      "Kaada sihisevä tarka heti dalin pinnalle ja kääntele kevyesti 2–3 kertaa niin, että osa jää näkyviin. Purista päälle limetinmehu. Tarjoa syvistä kulhoista riisin tai rotin kanssa. Dal sakenee jäähtyessään; löysennä vedellä lämmittäessä."
+    ]
+  },
+  {
+    "id": "forkrecipe-palak-paneer",
+    "title": "Palak paneer – pinaattipaneer",
+    "description": "Kullanruskeiksi paistetut paneerikuutiot kirkkaanvihreässä, samettisessa pinaattisoseessa, joka on maustettu garam masalalla ja kermalla – punjabilainen kasviscurry parhaimmillaan.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "kasvis", "curry", "pinaatti"],
+    "ingredients": [
+      "300 g tuoretta babypinaattia (tai lehtipinaattia varret poistettuina)",
+      "200 g paneeria, 2 cm kuutioina",
+      "30 g gheetä tai rypsiöljyä",
+      "1 keltasipuli (n. 100 g), hienoksi kuutioituna",
+      "3 valkosipulinkynttä, hienonnettuna",
+      "10 g tuoretta inkivääriä, hienonnettuna",
+      "2 tl garam masalaa",
+      "1½ tl jauhettua juustokuminaa",
+      "1½ tl jauhettua korianteria",
+      "½ tl jauhettua kurkumaa",
+      "1½ tl kashmirinchilijauhetta tai mietoa paprikajauhetta",
+      "40 g kuohukermaa",
+      "1½ tl suolaa",
+      "½ dl vettä"
+    ],
+    "instructions": [
+      "Kuumenna iso kattilallinen suolattua vettä kiehuvaksi. Ryöppää pinaattia tasan 60–90 sekuntia, kunnes lehdet ovat pehmenneet ja muuttuneet kirkkaanvihreiksi. Valuta ja upota heti jääveteen. Purista jäähtynyt pinaatti kuivaksi ja soseuta tehosekoittimessa 2–3 rkl:n vettä kanssa täysin sileäksi.",
+      "Kuumenna pannu keskikovalla lämmöllä ja lisää puolet gheestä. Paista paneerikuutioita yhdessä kerroksessa liikuttamatta 2 minuuttia, kunnes pohja on kullanruskea, ja ruskista muut puolet minuutin ajan. Nosta kulhoon ja mausta ripauksella suolaa.",
+      "Lisää samalle pannulle loput gheestä keskilämmöllä. Kypsennä sipulia 8–10 minuuttia kullanruskeaksi. Lisää valkosipuli ja inkivääri ja sekoita minuutti. Lisää kaikki mausteet ja suola ja paista jatkuvasti sekoittaen 45–60 sekuntia. Lisää lusikallinen vettä, jos seos alkaa tarttua. Masala on valmis, kun se tuoksuu voimakkaalta ja rasva erottuu reunoille.",
+      "Kaada pinaattisose masalaan ja lisää 2–3 rkl vettä. Hauduta usein sekoittaen 5–7 minuuttia. Sekoita joukkoon kerma ja hauduta vielä 2 minuuttia. Tarkista suola. Kastikkeen pitää peittää lusikan selkä paksusti.",
+      "Kääntele paistetut paneerikuutiot varovasti kastikkeeseen ja hauduta hyvin miedolla lämmöllä 3–4 minuuttia, kunnes paneeri on lämmennyt. Tarjoa heti naanin, rotin tai basmatiriisin kanssa, halutessasi kermapyörre pinnalla."
+    ]
+  },
+  {
+    "id": "forkrecipe-pan-seared-salmon",
+    "title": "Pannulla paistettu lohi",
+    "description": "Yksi filee nahkapuoli alaspäin ja kärsivällisyyttä: nahka rapeutuu kuin lasi, liha jää keskeltä roseeksi, ja niiden raja on se, missä taika tapahtuu.",
+    "servings": 1,
+    "prepTimeMin": 15,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "kala", "nopea", "gluteeniton"],
+    "ingredients": [
+      "1 nahallinen lohifilee (150–180 g)",
+      "½ tl hienoa merisuolaa",
+      "ripaus mustapippuria, vastajauhettuna",
+      "1 tl rypsiöljyä",
+      "10 g suolatonta voita",
+      "½ sitruuna"
+    ],
+    "instructions": [
+      "Ota lohi jääkaapista 20 minuuttia ennen paistamista. Kuivaa nahka- ja lihapuoli huolellisesti talouspaperilla, erityisesti nahka. Mausta molemmat puolet suolalla ja pippurilla. Kuivaa 5 minuutin kuluttua uudelleen.",
+      "Kuumenna teräs- tai valurautapannu keskikovalla lämmöllä. Lisää öljy ja kuumenna, kunnes se väreilee ja alkaa juuri savuta.",
+      "Aseta lohi nahkapuoli alaspäin pannulle itsestäsi poispäin ja paina kevyesti lastalla ensimmäiset 30 sekuntia, ettei filee käyristy. Laske lämpö keskitasolle. Älä liikuta kalaa. Paista 4–5 minuuttia, kunnes kypsä, läpikuultamaton raja on noussut noin kolmeen neljäsosaan fileen korkeudesta.",
+      "Käännä filee lihapuolelle. Lisää voi pannulle, kallista pannua ja valele kalaa vaahtoavalla voilla lusikalla 30–60 sekuntia.",
+      "Siirrä lämpimälle lautaselle nahkapuoli ylöspäin ja purista päälle sitruunaa. Anna levätä 2 minuuttia ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-paneer-tikka",
+    "title": "Paneer tikka",
+    "description": "Kiinteitä paneerikuutioita ja kirkkaanvärisiä paprikoita paksussa maustetussa jogurttimarinadissa, grillattuina kovalla lämmöllä, kunnes pinta hiiltyy ja rätisee ja sisus pysyy maitoisen pehmeänä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 75,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "kasvis", "grilli"],
+    "ingredients": [
+      "400 g paneeria, 4 cm kuutioina",
+      "160 g paksua täysrasvaista jogurttia (kreikkalaista)",
+      "1 rkl kashmirinchilijauhetta",
+      "2 tl garam masalaa",
+      "2 tl jauhettua juustokuminaa",
+      "1½ rkl sitruunamehua",
+      "2 rkl inkivääri-valkosipulitahnaa",
+      "2 rkl rypsiöljyä",
+      "2 paprikaa (punainen ja vihreä), kuutioina",
+      "1 tl suolaa",
+      "Tarjoiluun:",
+      "tuoretta korianteria",
+      "1 sitruuna lohkoina"
+    ],
+    "instructions": [
+      "Kuivaa paneerikuutiot huolellisesti talouspaperilla. Sekoita leveässä kulhossa jogurtti, chilijauhe, garam masala, kumina, sitruunamehu, inkivääri-valkosipulitahna, öljy ja suola tasaiseksi. Lisää paneeri ja paprikat ja kääntele varovasti. Marinoi jääkaapissa vähintään 45 minuuttia, mutta enintään 4 tuntia.",
+      "Pujota paneeri ja paprikat vuorotellen metallivartaisiin pienin välein. Kypsennä uunin grillivastuksen alla kuumimmalla asetuksella, erittäin kuumalla grillipannulla tai suoraan kaasuliekin päällä. Kypsennä ensimmäistä puolta 5–7 minuuttia liikuttamatta, kunnes pinta hiiltyy, käännä ja kypsennä vielä 4–5 minuuttia. Sivele loput marinadista puolivälissä.",
+      "Anna vartaiden levätä 2–3 minuuttia ennen tarjoilua.",
+      "Liu'uta tikka lämpimälle tarjoiluvadille ja ripottele päälle revittyä korianteria. Tarjoa sitruunalohkojen, minttuchutneyn ja sipulirenkaiden kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-paneer",
+    "title": "Paneer – intialainen tuorejuusto",
+    "description": "Täysmaito juoksutetaan sitruunamehulla, valutetaan harsokankaassa ja puristetaan painon alla kiinteäksi, valkoiseksi tuorejuustoksi – mieto, puhdas ja hampaissa narskahteleva. Intialaisen kasvisruoan perusproteiini kahdesta aineksesta 90 minuutissa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 90,
+    "category": "Muut",
+    "tags": ["intialainen", "kasvis", "juusto", "gluteeniton"],
+    "ingredients": [
+      "2 l täysmaitoa (ei UHT-maitoa)",
+      "½ dl sitruunamehua, siivilöitynä",
+      "5 dl kylmää vettä (huuhteluun)",
+      "1 tl suolaa (valinnainen)"
+    ],
+    "instructions": [
+      "Kaada maito isoon paksupohjaiseen kattilaan ja kuumenna hitaasti keskilämmöllä 88–90 asteeseen, juuri kiehumispisteen alle, välillä sekoittaen. Lämpömittari on suositeltava. Älä anna kiehua voimakkaasti, ettei maito pala pohjaan.",
+      "Nosta kattila liedeltä. Kaada sitruunamehu ohuena nauhana kattilan reunoille ja sekoita hitaasti kahdesti tai kolmesti. 30–60 sekunnissa maito erottuu valkoisiksi juustomassapaloiksi ja kellanvihreäksi heraksi. Lopeta sekoittaminen. Jos maito ei ole erottunut 90 sekunnissa, lisää ruokalusikallinen sitruunamehua ja sekoita kerran. Anna seistä 5 minuuttia.",
+      "Vuoraa siivilä kaksinkertaisella harsokankaalla. Kaada juustomassa ja hera hitaasti siivilään. Huuhtele massa kevyesti kylmällä vedellä sitruunan maun poistamiseksi. Ripottele halutessasi suola joukkoon. Kierrä kangas palloksi ja purista mahdollisimman paljon heraa pois.",
+      "Muotoile massa kankaan sisällä litteäksi kiekoksi tai harkoksi, taita kangas päälle ja aseta päälle raskas paino, esim. valurautapannu tai vesikattila. Purista huoneenlämmössä 45–60 minuuttia. Kääri auki ja upota kylmään veteen 10 minuutiksi. Kuivaa ja käytä heti tai säilytä jääkaapissa kylmässä vedessä enintään 4 päivää."
+    ]
+  },
+  {
+    "id": "forkrecipe-panna-cotta",
+    "title": "Panna cotta",
+    "description": "Piemonten ”keitetty kerma” puhtaimmillaan: kerma lämmitetään vaniljan kanssa ja hyydytetään juuri sen verran, että se hytkyy lautasta liikutettaessa ja sulaa kielellä viileäksi, makeaksi maidoksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 300,
+    "category": "Jälkiruoat",
+    "tags": ["italialainen", "jälkiruoka", "vanilja", "gluteeniton"],
+    "ingredients": [
+      "5 dl kuohukermaa",
+      "1,5 dl täysmaitoa",
+      "70 g hienoa sokeria",
+      "½ vaniljatankoa, halkaistuna ja siemenet kaavittuina",
+      "3 liivatelehteä (n. 6 g)",
+      "ripaus suolaa",
+      "60 g ranskankermaa tai maustamatonta jogurttia (valinnainen)",
+      "80 g marjoja tai marjakastiketta tarjoiluun"
+    ],
+    "instructions": [
+      "Upota liivatelehdet yksitellen kylmään veteen ja anna pehmetä 5–10 minuuttia. Nosta ja purista vesi kevyesti pois.",
+      "Yhdistä kerma, maito, sokeri ja suola paksupohjaisessa kattilassa. Kaavi joukkoon vaniljan siemenet ja lisää tanko. Lämmitä keskilämpöä miedommalla lämmöllä sekoittaen, kunnes sokeri liukenee ja seos höyryää (65–75 °C). Älä keitä.",
+      "Nosta kattila liedeltä ja poista vaniljatanko. Lisää puristetut liivatelehdet ja vatkaa kevyesti, kunnes ne liukenevat. Jos haluat kirpeämmän panna cottan, vatkaa ranskankerma joukkoon, kun seos on vain haaleaa. Siivilöi kannuun. Anna jäähtyä välillä sekoittaen, kunnes seos sakenee hieman ja vaniljansiemenet pysyvät tasaisesti joukossa.",
+      "Jaa seos kevyesti öljyttyihin annosvuokiin tai laseihin. Kopauta ilmakuplat pois. Jäähdytä peittämättä, kunnes pinta kalvottuu, peitä sitten ja jäähdytä vähintään 4 tuntia, mieluiten yön yli. Kumoa upottamalla vuoka hetkeksi kuumaan veteen, irrota reuna sormella ja käännä lautaselle. Tarjoa kylmänä marjojen tai marjakastikkeen kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pao-de-queijo",
+    "title": "Pão de queijo – brasilialaiset juustopallerot",
+    "description": "Gluteenittomat juustopallerot Minas Geraisista: tapiokajauho keitetään kuumalla maidolla ja öljyllä, sidotaan kananmunalla ja täytetään suolaisella juustolla. Paistuvat onteloiksi, sitkeän joustaviksi palloiksi, joiden ohut kullanruskea kuori rapsahtaa.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["brasilialainen", "kasvis", "gluteeniton", "juusto"],
+    "ingredients": [
+      "250 g tapiokajauhoja (polvilho)",
+      "1,2 dl täysmaitoa",
+      "½ dl rypsiöljyä tai sulatettua voita",
+      "2 kananmunaa, huoneenlämpöisiä",
+      "100 g parmesaania tai pecorinoa, hienoksi raastettuna",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna maito, öljy ja suola pienessä kattilassa keskikovalla lämmöllä voimakkaaseen kiehuntaan.",
+      "Laita tapiokajauho isoon kulhoon. Kaada kiehuva maitoseos kerralla päälle ja sekoita heti voimakkaasti puulusikalla, kunnes kuivia kohtia ei jää. Taikina on kuumaa ja hyvin tahmeaa. Anna jäähtyä kädenlämpöiseksi 10–15 minuuttia.",
+      "Lisää kananmunat yksitellen ja sekoita kumpikin voimakkaasti joukkoon, kunnes taikina on taas sileää. Lisää juusto kahdessa erässä ja sekoita tasaiseksi. Taikina on pehmeää, tahmeaa ja hieman joustavaa.",
+      "Kuumenna uuni 200 asteeseen ja vuoraa kaksi peltiä leivinpaperilla. Annostele taikinasta kahdella lusikalla 3–4 cm palloja 5 cm välein. Paista 20–25 minuuttia, pellin kerran puolivälissä kääntäen, kunnes pallerot ovat syvän kullanruskeita ja kuulostavat onttoilta. Älä avaa uunia ensimmäisten 15 minuutin aikana."
+    ]
+  },
+  {
+    "id": "forkrecipe-paratha",
+    "title": "Paratha – kerroksellinen täysjyvärieska",
+    "description": "Pannulla paistettu täysjyvävehnärieska, jonka pinta on rapea ja sisus pehmeän kerroksellinen, kun taikinaan taitetaan gheetä. Punjabilaisen aamiaispöydän kullanruskea perusleipä, syödään kuumana suoraan pannulta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 50,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["intialainen", "kasvis", "leipä", "aamiainen"],
+    "ingredients": [
+      "300 g täysjyvävehnäjauhoja (atta) + jauhoja kaulintaan",
+      "1,5 dl lämmintä vettä",
+      "50 g gheetä (taikinaan ja kerroksiin)",
+      "½ tl suolaa",
+      "2 rkl gheetä paistamiseen"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola isossa kulhossa. Nypi joukkoon hieman gheetä hienoksi muruksi. Lisää lämmin vesi vähitellen sekoittaen. Vaivaa voimakkaasti 8–10 minuuttia jauhottamattomalla alustalla, kunnes taikina on sileää, pehmeää ja hieman tahmeaa. Peitä kostealla liinalla ja anna levätä 20 minuuttia.",
+      "Jaa taikina golfpallon kokoisiin palloihin. Kauli yksi pallo kevyesti jauhotetulla alustalla 15 cm:n kiekoksi. Sivele pinnalle ohuesti gheetä. Taita kiekko puolikuuksi ja vielä kolmioksi. Kauli kolmio ohueksi, 18–20 cm levyksi. Toista kaikille palloille.",
+      "Kuumenna tawa- tai valurautapannu keskikovalla lämmöllä, kunnes vesitippa sihisee ja haihtuu heti. Paista parathaa kuivalla pannulla 60–90 sekuntia, kunnes pinta kuivahtaa ja kuplia alkaa näkyä. Käännä. Paista toista puolta 60 sekuntia ja sivele yläpinnalle gheetä samalla kevyesti painellen. Käännä vielä, sivele gheetä ja paista, kunnes molemmilla puolilla on kullanruskeita rakkuloita. Yhteensä 3–4 minuuttia rieskaa kohti."
+    ]
+  },
+  {
+    "id": "forkrecipe-paris-brest",
+    "title": "Paris-Brest",
+    "description": "Kullanruskea tuulihattutaikinarengas, joka halkaistaan ja täytetään ilmavalla hasselpähkinäpraliinikreemillä – kevyt ja rapea kuori, täyteläinen ja karamellinen täyte. Nimetty pyöräkilpailun mukaan ja maistuu maaliviivalta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 90,
+    "totalTimeMin": 180,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "leivonnainen", "juhla"],
+    "ingredients": [
+      "Tuulihattutaikina:",
+      "1,25 dl vettä",
+      "55 g suolatonta voita, kuutioina",
+      "70 g vehnäjauhoja, siivilöitynä",
+      "3 kananmunaa (n. 150 g), vatkattuina",
+      "ripaus suolaa",
+      "1 kananmuna voiteluun ja mantelilastuja pinnalle",
+      "Praliini:",
+      "150 g hienoa sokeria",
+      "150 g kuorittuja hasselpähkinöitä, paahdettuina",
+      "Kreemi:",
+      "3 dl kuohukermaa, kylmänä",
+      "2,5 dl täysmaitoa",
+      "60 g kananmunan keltuaisia (n. 3)",
+      "50 g sokeria",
+      "20 g maissitärkkelystä",
+      "55 g suolatonta voita, huoneenlämpöisenä",
+      "tomusokeria pinnalle"
+    ],
+    "instructions": [
+      "Levitä paahdetut hasselpähkinät silikonimatolle. Sulata sokeri puhtaassa kattilassa keskilämmöllä sekoittamatta ja kattilaa pyöritellen, kunnes karamelli on syvän meripihkanväristä. Kaada heti pähkinöiden päälle ohueksi levyksi ja anna kovettua noin 20 minuuttia. Riko palasiksi ja jauha monitoimikoneessa 4–6 minuuttia reunoja kaapien, kunnes seos muuttuu murusta kiiltäväksi tahnaksi.",
+      "Kuumenna vesi, voi ja suola kattilassa kiehuvaksi. Nosta liedeltä ja lisää jauhot kerralla. Sekoita voimakkaasti, kunnes taikina irtoaa kattilan reunoista. Palauta keskilämmölle ja kuivata taikinaa sekoittaen 2 minuuttia.",
+      "Vatkaa taikinaa lattavatkaimella minuutti, jotta se jäähtyy hieman. Lisää vatkatut munat neljässä erässä. Lopeta, kun taikina valuu vatkaimesta hitaana, paksuna V-muotona.",
+      "Kuumenna uuni 200 asteeseen. Piirrä leivinpaperiin 22 cm ympyrä. Pursota taikinasta rengas viivalle, toinen rengas sen sisäpuolelle ja kolmas niiden saumaan päälle. Voitele munalla ja ripottele mantelilastuja. Paista 35–40 minuuttia uunia avaamatta syvän kullanruskeaksi. Raota luukkua puulusikalla ja paista vielä 5 minuuttia.",
+      "Vatkaa keltuaiset, sokeri ja maissitärkkelys vaaleaksi. Kuumenna maito kiehumispisteeseen, kaada keltuaisten päälle vatkaten, palauta kattilaan ja keitä, kunnes kreemi sakenee ja kuplii. Vatkaa joukkoon voi ja 80 g praliinitahnaa. Jäähdytä täysin. Vatkaa kylmä kerma pehmeäksi vaahdoksi. Vatkaa kylmä kreemi sileäksi ja kääntele kermavaahto siihen kolmessa erässä.",
+      "Halkaise rengas sahateräisellä veitsellä vaakasuunnassa niin, että alaosa on isompi. Pursota kreemiä korkeiksi ruusukkeiksi koko alaosan matkalle. Nosta kansi varovasti päälle, siivilöi pinnalle tomusokeria ja tarjoa 2 tunnin kuluessa."
+    ]
+  }
+]
