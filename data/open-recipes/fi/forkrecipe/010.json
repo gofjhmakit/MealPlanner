@@ -1,0 +1,567 @@
+[
+  {
+    "id": "forkrecipe-dorayaki",
+    "title": "Dorayaki – japanilaiset hunajapannukakut punapaputäytteellä",
+    "description": "Kaksi kuparinruskeaa, hunajantuoksuista pannukakkua ja välissä paksu kerros ankoa eli makeutettua azukipaputahnaa. Mirin ja ruokasooda tekevät pannukakuista pehmeitä ja hieman joustavia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 50,
+    "category": "Jälkiruoat",
+    "tags": ["japanilainen", "kasvis", "pannukakku", "makea"],
+    "ingredients": [
+      "160 g vehnäjauhoja (tai kakkujauhoja)",
+      "3 kananmunaa, huoneenlämpöisiä",
+      "100 g sokeria",
+      "1 rkl hunajaa",
+      "1 rkl miriniä",
+      "½ tl ruokasoodaa",
+      "½ dl kylmää vettä",
+      "240 g makeaa punapaputahnaa (anko)",
+      "1 tl rypsiöljyä paistamiseen"
+    ],
+    "instructions": [
+      "Vatkaa kananmunat, sokeri, hunaja ja mirin kulhossa noin 2 minuuttia, kunnes sokeri on liuennut ja seos on vaaleaa, kuohkeaa ja paksua. Vatkaimesta valuvan nauhan pitää pysyä hetken pinnalla.",
+      "Siivilöi jauhot munavaahdon päälle. Liuota ruokasooda kylmään veteen ja lisää kulhoon. Kääntele nuolijalla varovasti, kunnes kuivia jauhoja ei enää näy. Älä sekoita liikaa, ettei pannukakuista tule sitkeitä. Anna taikinan levätä huoneenlämmössä 15 minuuttia.",
+      "Kuumenna tarttumaton pannu miedolla lämmöllä. Sivele pannulle ohut kerros öljyä ja pyyhi ylimäärä talouspaperilla. Kaada pannun keskelle noin 60 ml taikinaa, ja anna sen levitä itsestään. Paista 2–3 minuuttia, kunnes pinta on hyytynyt ja kuplia nousee koko pinnalta. Käännä ja paista toista puolta 1 minuutti. Pinoa lautaselle kostean liinan alle.",
+      "Parita samankokoiset pannukakut. Levitä toisen sileälle puolelle 2–3 rkl ankoa, 1 cm:n päähän reunasta. Nosta toinen pannukakku päälle ja paina kevyesti keskeltä. Kääri yksitellen kelmuun ja anna levätä 30 minuuttia, jotta pannukakut pehmenevät ja maut tasaantuvat."
+    ]
+  },
+  {
+    "id": "forkrecipe-doro-wat",
+    "title": "Doro wat – etiopialainen kanapata",
+    "description": "Etiopian kansallisruoka: kanankoivet ja kovaksi keitetyt kananmunat haudutetaan tummassa berbere- ja maustevoikastikkeessa, kunnes kastike on paksua ja tuoksuvaa ja tarttuu jokaiseen palaan.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["kana", "etiopialainen", "pataruoka", "juhla"],
+    "ingredients": [
+      "1,2 kg kanan koipireisiä, nahattomina, viilloin",
+      "6 kovaksi keitettyä kananmunaa, kuorittuina",
+      "600 g keltasipulia, hyvin hienoksi hienonnettuna tai raastettuna",
+      "80 g maustettua kirkastettua voita (niter kibbeh)",
+      "6 rkl berbere-mausteseosta",
+      "5 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "15 g tuoretta inkivääriä, raastettuna",
+      "4 dl kanalientä tai vettä",
+      "2 rkl sitruunamehua",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Laita hienonnettu sipuli isoon paksupohjaiseen kattilaan ilman rasvaa. Kypsennä keskilämmöllä 30–40 minuuttia, sekoittaen 2–3 minuutin välein ja tummuessa useammin. Sipuli hautuu ensin omassa nesteessään ja alkaa sitten karamellisoitua. Tavoitteena on syvän ruskea sipulimassa, joka on kutistunut noin viidesosaan. Älä lisää vettä.",
+      "Lisää maustevoi ja sekoita, kunnes se sulaa. Lisää berbere, valkosipuli ja inkivääri. Paista keskilämmöllä jatkuvasti sekoittaen 5–8 minuuttia, kunnes seos tummuu lähes mustanpunaiseksi ja rasva alkaa erottua reunoilta.",
+      "Lisää kanapalat ja suola ja kääntele niitä, kunnes ne ovat tahnan peitossa. Kypsennä keskilämmöllä 5–7 minuuttia usein käännellen. Lisää sitruunamehu ja irrota pohjaan tarttunut tahna.",
+      "Kaada joukkoon liemi ja kuumenna kiehuvaksi. Laske lämpö, peitä ja hauduta 30 minuuttia. Viillä kuoritut kananmunat syvään joka puolelta, lisää ne pataan ja hauduta ilman kantta vielä 20–30 minuuttia, kunnes kastike on paksua ja öljy erottuu pinnalle. Jos kastike on yhä ohutta, keitä sitä kovemmalla lämmöllä kokoon."
+    ],
+    "notes": ["Tarjoa perinteisesti injeran kanssa."]
+  },
+  {
+    "id": "forkrecipe-dosa-batter",
+    "title": "Dosataikina ja dosat",
+    "description": "Yön yli hapatettu riisi- ja urd-paputaikina, josta paistetaan kuumalla valurautapannulla ohuita, rapeareunaisia ja hennon happamia eteläintialaisia lettuja.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 960,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["intialainen", "vegaaninen", "kasvis", "gluteeniton", "riisi"],
+    "ingredients": [
+      "300 g idliriisiä tai kiehautettua lyhytjyväistä riisiä",
+      "100 g kuorittuja urd-papuja (urad dal)",
+      "1 tl sarviapilan siemeniä",
+      "5 dl viileää vettä",
+      "2 tl suolaa (lisätään hapatuksen jälkeen)",
+      "1 rkl rypsiöljyä tai gheetä paistamiseen"
+    ],
+    "instructions": [
+      "Huuhtele riisi ja urd-pavut erikseen useassa vedessä, kunnes vesi on kirkasta. Laita urd-pavut ja sarviapilansiemenet yhteen kulhoon ja riisi toiseen. Peitä reilulla viileällä vedellä ja liota 6–8 tuntia tai yön yli viileässä paikassa, mutta ei jääkaapissa.",
+      "Valuta pavut ja säästä liotusvesi. Jauha pavut ja sarviapila tehosekoittimessa mahdollisimman pienellä vesimäärällä hyvin sileäksi, vaahtomaiseksi tahnaksi, 5–8 minuuttia. Jauha riisi erikseen liotusveden kanssa hieman karkeammaksi tahnaksi. Yhdistä ne isossa astiassa, sillä taikina kasvaa hapatuksessa 30–50 %.",
+      "Peitä astia löyhästi liinalla tai lautasella ja anna hapattua lämpimässä (28–32 °C), esimerkiksi uunissa pelkkä lamppu päällä, 8–12 tuntia. Taikina on valmista, kun se on noussut, tuoksuu hennon happamalta ja pinta on kuplainen. Lisää suola vasta nyt ja sekoita varovasti.",
+      "Kuumenna valurautapannu kovalla lämmöllä, kunnes se alkaa savuta hieman. Hankaa pinta öljyyn kastetulla sipulinpuolikkaalla. Kaada pannun keskelle noin 80 ml taikinaa ja levitä se heti kauhan pohjalla spiraaliksi keskeltä ulospäin. Valuta muutama tippa öljyä reunoille. Paista kovalla lämmöllä 2–3 minuuttia, kunnes reunat irtoavat ja pohja on kullanruskea ja rapea. Perinteinen ohut dosa paistetaan vain toiselta puolelta."
+    ]
+  },
+  {
+    "id": "forkrecipe-drinking-shrub-raspberry",
+    "title": "Vadelmashrub – juomaetikka",
+    "description": "Kylmämenetelmällä tehty vadelma-omenaviinietikkasiirappi, joka kypsyy jääkaapissa muutaman päivän. Sellaisenaan kirpeä, mutta kivennäisveteen sekoitettuna raikas ja hedelmäinen juoma.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "category": "Juomat",
+    "tags": ["vegaaninen", "alkoholiton", "vadelma", "amerikkalainen"],
+    "ingredients": [
+      "250 g tuoreita tai pakastettuja vadelmia",
+      "250 g sokeria",
+      "2,5 dl suodattamatonta omenaviinietikkaa"
+    ],
+    "instructions": [
+      "Yhdistä vadelmat ja sokeri puhtaassa lasipurkissa tai kulhossa. Murskaa marjat kevyesti haarukalla, niin että kuoret rikkoutuvat, mutta älä soseuta. Sekoita hyvin, peitä ja anna seistä jääkaapissa vähintään 8 tuntia, mieluiten vuorokausi. Sekoita kerran 4 tunnin jälkeen.",
+      "Siivilöi siirappi hienon siivilän läpi puhtaaseen purkkiin ja paina marjamassasta kaikki neste. Sekoita joukkoon omenaviinietikka. Sulje purkki ja anna kypsyä jääkaapissa vähintään 24 tuntia, mieluiten 2–3 vuorokautta. Tarjoa sekoittamalla 2–3 rkl shrubia 2 dl:aan kivennäisvettä jäiden kanssa."
+    ]
+  },
+  { "id": "forkrecipe-drinking-shrub", "skip": "lähes kaksoiskappale (vadelmashrub)" },
+  {
+    "id": "forkrecipe-duck-a-lorange",
+    "title": "Appelsiiniankka (canard à l'orange)",
+    "description": "Ranskalainen juhlapaisti: kokonainen ankka paahdetaan rapeaksi ja tarjoillaan bigarade-kastikkeen kanssa, joka tehdään tummasta karamellista, etikasta ja pomeranssista. Makea, kirpeä ja aavistuksen kitkerä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 135,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "juhla", "uuniruoka", "liha"],
+    "ingredients": [
+      "1 kokonainen ankka (2–2,5 kg), kuivattuna",
+      "3 pomeranssia (tai 2 appelsiinia ja 1 sitruuna), kuori suikaleina ja mehu",
+      "75 g sokeria",
+      "½ dl punaviinietikkaa",
+      "4 dl tummaa ankka- tai vasikanlientä, lämmintä",
+      "1 dl kuivaa valkoviiniä",
+      "1 salottisipuli, hienonnettuna",
+      "3 rkl appelsiinilikööriä (esim. Grand Marnier tai Cointreau)",
+      "50 g kylmää voita, kuutioina",
+      "suolaa",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Kuivaa ankka hyvin sisältä ja päältä. Pistele rinnan ja reisien nahka haarukalla vinosti niin, että rasvakerros puhkeaa mutta liha ei. Mausta sisus ja nahka reilusti suolalla ja valkopippurilla. Anna mielellään kuivua jääkaapissa peittämättä tunnin ajan. Sido koivet yhteen.",
+      "Paahda ankkaa ritilällä rinta ylöspäin 200 °C:ssa 25 minuuttia, laske sitten lämpö 170 asteeseen. Kaada sulanut rasva vuoasta talteen puolen tunnin välein. Paahda yhteensä 75–90 minuuttia, kunnes nahka on tumma ja rapea ja reiden lihaneste on kirkasta. Anna levätä foliolla löyhästi peitettynä vähintään 15 minuuttia.",
+      "Sulata sokeri paksupohjaisessa kattilassa keskilämmöllä sekoittamatta, kattilaa pyöritellen, kunnes karamelli on syvän meripihkanväristä. Nosta liedeltä ja kaada etikka varovasti joukkoon, sillä se roiskuu. Palauta miedolle lämmölle ja sekoita, kunnes karamelli on sulanut tasaiseksi siirapiksi.",
+      "Ryöppää appelsiininkuorisuikaleita kiehuvassa vedessä minuutin ajan ja valuta. Lisää salottisipuli siirappiin ja kuullota hetki. Lisää valkoviini ja keitä puoleen. Lisää liemi ja appelsiinimehu ja keitä kokoon 8–12 minuuttia, kunnes kastike peittää lusikan kevyesti. Kuori vaahto tarvittaessa. Lisää kuorisuikaleet.",
+      "Lisää likööri ja anna kiehahtaa muutama sekunti. Nosta liedeltä ja vatkaa kylmä voi kastikkeeseen nokare kerrallaan, kunnes kastike on kiiltävää. Älä enää keitä. Tarkista suola sekä makeuden ja happamuuden tasapaino. Leikkaa ankka ja tarjoa kastikkeen kanssa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-duck-confit",
+    "title": "Ankkaconfit",
+    "description": "Ankanreidet suolataan yön yli yrteillä ja katajanmarjoilla, haudutetaan omassa rasvassaan 90 asteessa pehmeiksi ja paistetaan lopuksi nahka rapeaksi.",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1800,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "liha", "juhla", "uuniruoka"],
+    "ingredients": [
+      "4 ankanreittä, luullisia ja nahallisia",
+      "30 g karkeaa merisuolaa",
+      "6 oksaa tuoretta timjamia",
+      "3 laakerinlehteä, murskattuina",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "2 tl mustapippuria, karkeaksi rouhittuna",
+      "700 g ankanrasvaa",
+      "8 katajanmarjaa, kevyesti murskattuina"
+    ],
+    "instructions": [
+      "Sekoita suola, pippuri ja katajanmarjat. Aseta reidet nahkapuoli alaspäin vuokaan. Ripottele lihapuolelle timjamia, laakerinlehteä ja valkosipulia. Hiero suolaseosta reisiin molemmin puolin, erityisesti paksuimpiin kohtiin. Peitä tiiviisti kelmulla ja pidä jääkaapissa 12–18 tuntia, ei yli vuorokautta.",
+      "Huuhtele reidet huolellisesti kylmällä vedellä niin, että kaikki suola ja mausteet lähtevät. Kuivaa talouspaperilla erittäin hyvin, sillä kosteus saa rasvan roiskumaan.",
+      "Sulata ankanrasva uuninkestävässä padassa miedolla lämmöllä ja kuumenna 90 asteeseen lämpömittarilla tarkistaen. Upota reidet rasvaan niin, että ne peittyvät kokonaan. Siirrä 90-asteiseen uuniin (kiertoilma 80 °C) 3–4 tunniksi. Rasva saa vain hieman väreillä. Reidet ovat valmiita, kun ohut varras uppoaa reiteen vastuksetta ja liha irtoaa luusta.",
+      "Nosta reidet rasvasta ritilälle valumaan 5 minuutiksi. Kuumenna valurautapannu kuumaksi. Paista reisiä nahkapuoli alaspäin ilman lisärasvaa painaen niitä lastalla 4–6 minuuttia, kunnes nahka on tumma ja rapea. Käännä ja lämmitä lihapuolta 1 minuutti. Tarjoa heti."
+    ],
+    "notes": ["Säästä rasva siivilöitynä jääkaapissa; se sopii esimerkiksi perunoiden paistamiseen."]
+  },
+  {
+    "id": "forkrecipe-dukkah",
+    "title": "Dukkah – egyptiläinen pähkinä-mausteseos",
+    "description": "Karkeaksi jauhettu seos paahdetuista hasselpähkinöistä, seesaminsiemenistä, korianterista ja juustokuminasta. Tarjoa oliiviöljyn ja leivän kanssa tai ripottele kananmunien ja kasvisten päälle.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Muut",
+    "tags": ["egyptiläinen", "vegaaninen", "kasvis", "gluteeniton", "mauste"],
+    "ingredients": [
+      "100 g hasselpähkinöitä",
+      "75 g seesaminsiemeniä",
+      "4 rkl korianterinsiemeniä",
+      "3 rkl juustokuminaa, kokonaisena",
+      "1 rkl mustapippuria, kokonaisena",
+      "2 tl sormisuolaa",
+      "1 rkl kuivattua timjamia"
+    ],
+    "instructions": [
+      "Paahda hasselpähkinät kuivalla pannulla keskilämmöllä pannua ravistellen 5–7 minuuttia, kunnes kuoret halkeilevat ja pähkinät ovat kullanruskeita. Hankaa kuoret pois puhtaassa keittiöpyyhkeessä; vähän kuorta saa jäädä. Anna jäähtyä kokonaan.",
+      "Paahda seesaminsiemenet, korianteri ja juustokumina sekä pippurit erikseen, koska ne kypsyvät eri tahtiin: seesami 2–3 minuuttia kullankeltaiseksi, korianteri ja kumina yhdessä 2–3 minuuttia tuoksuviksi ja pippurit noin minuutti. Jäähdytä.",
+      "Laita kaikki ainekset morttelin suolan ja timjamin kanssa ja survo karkeaksi, epätasaiseksi seokseksi: osa pähkinöistä herneen kokoisina, osa seesamista kokonaisina. Monitoimikoneessa sykäytä vain 3–5 kertaa, ettei seoksesta tule pähkinätahnaa.",
+      "Maista sellaisenaan ja oliiviöljyyn kastettuna ja lisää tarvittaessa suolaa. Säilytä tiiviissä purkissa huoneenlämmössä enintään 3 viikkoa tai jääkaapissa 2 kuukautta."
+    ]
+  },
+  {
+    "id": "forkrecipe-eclairs",
+    "title": "Suklaaeclairit",
+    "description": "Ranskalainen leivosklassikko: kuiva ja rapea tuulihattutaikinakuori täytetään kylmällä vaniljakreemillä ja kuorrutetaan kiiltävällä tummalla suklaalla.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 90,
+    "totalTimeMin": 240,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "suklaa", "juhla", "leivonnainen"],
+    "ingredients": [
+      "Tuulihattutaikina:",
+      "2 dl vettä",
+      "90 g suolatonta voita, kuutioina",
+      "120 g vehnäjauhoja, siivilöitynä",
+      "4 kananmunaa, huoneenlämpöisiä",
+      "½ tl suolaa",
+      "Vaniljakreemi:",
+      "3 dl täysmaitoa",
+      "4 kananmunan keltuaista",
+      "70 g sokeria",
+      "3 rkl maissitärkkelystä",
+      "Kuorrutus:",
+      "100 g tummaa suklaata (n. 64 %), rouhittuna",
+      "½ dl kuohukermaa"
+    ],
+    "instructions": [
+      "Kuumenna maito kiehumispisteeseen. Vatkaa keltuaiset, sokeri ja maissitärkkelys vaaleaksi. Kaada puolet kuumasta maidosta munaseokseen koko ajan vatkaten ja kaada seos takaisin kattilaan. Keitä keskilämmöllä jatkuvasti vatkaten, kunnes kreemi kiehuu kunnolla ja sakenee. Siivilöi kulhoon, peitä kelmulla pintaa myöten ja jäähdytä jääkaapissa vähintään 2 tuntia.",
+      "Kuumenna vesi, voi ja suola kiehuvaksi. Lisää jauhot kerralla ja sekoita voimakkaasti keskilämmöllä noin 2 minuuttia, kunnes taikina irtoaa kattilan reunoista ja pohjaan muodostuu kalvo. Jäähdytä 2 minuuttia ja vatkaa munat joukkoon yksitellen, kunnes taikina valuu lusikasta V-muotoisena nauhana. Pursota pursotinpussilla (14 mm suutin) leivinpaperille 12 cm pituisia tankoja.",
+      "Paista 200 °C:ssa 25 minuuttia uunia avaamatta. Laske lämpö 170 asteeseen ja paista vielä 10 minuuttia uunin luukku raollaan. Kuorten pitää olla kullanruskeita, täysin kuivia ja onton kuuloisia. Pistä vartaalla reikä kumpaankin päähän heti uunista oton jälkeen.",
+      "Vatkaa kylmä kreemi sileäksi ja täytä pursotinpussi pienellä (5 mm) suuttimella. Pursota kreemiä eclairiin toisesta päästä, kunnes sitä alkaa tulla ulos toisesta. Älä täytä liikaa.",
+      "Kuumenna kerma kiehuvaksi ja kaada suklaan päälle. Odota minuutti ja sekoita keskeltä alkaen sileäksi. Kasta eclairien yläpinta kuorrutukseen ja anna ylimäärän valua. Siisti reuna sormella. Anna kuorrutuksen jähmettyä jääkaapissa 20 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-egg-drop-soup",
+    "title": "Kiinalainen munakeitto",
+    "description": "Silkkisiä kananmunanauhoja inkiväärillä maustetussa, hieman suurustetussa liemessä. Valmis vartissa, mutta maistuu kuin pitkään haudutettu.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 15,
+    "category": "Keitot",
+    "tags": ["kiinalainen", "keitto", "nopea", "kananmuna"],
+    "ingredients": [
+      "1 l hyvää kana- tai kasvislientä",
+      "3 kananmunaa, vatkattuina",
+      "2 rkl maissitärkkelystä",
+      "3 rkl kylmää vettä",
+      "3 cm pala tuoretta inkivääriä, ohuina viipaleina",
+      "2 rkl soijakastiketta",
+      "1 tl paahdettua seesamiöljyä",
+      "2 kevätsipulia, ohuina renkaina",
+      "¼ tl jauhettua valkopippuria"
+    ],
+    "instructions": [
+      "Laita liemi, inkivääri, soijakastike ja valkopippuri kattilaan ja kuumenna hiljalleen kiehuvaksi keskilämmöllä. Liemen pitää olla reilusti maustettua. Hauduta 5 minuuttia ja poista inkivääriviipaleet.",
+      "Sekoita maissitärkkelys kylmään veteen pienessä kulhossa sileäksi.",
+      "Sekoita suurustesekoitus vielä kerran ja kaada se ohuena nauhana kiehuvaan liemeen koko ajan sekoittaen. Sekoita minuutin ajan. Liemen pitää peittää lusikan selkä ohuesti, mutta ei olla liisteristä.",
+      "Vatka kananmunat tasaisiksi, niin ettei valkuaisraitoja jää. Halutessasi lisää ripaus suolaa ja 1 tl vettä, jolloin nauhoista tulee pidempiä.",
+      "Pidä liemi tasaisella kiehunnalla. Sekoita lientä hitaasti ympyrää toisella kädellä ja kaada toisella munaseos ohuena nauhana korkealta. Sekoita kerran varovasti ja nosta heti liedeltä. Lisää muutama tippa seesamiöljyä ja tarjoa kevätsipulin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-eggplant-parmigiana",
+    "title": "Munakoisoparmigiana",
+    "description": "Napolilainen sunnuntairuoka: paistettuja munakoisoviipaleita kerrostetaan hitaasti haudutetun tomaattikastikkeen, basilikan ja mozzarellan kanssa ja paistetaan uunissa pinnalta kullanruskeaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 75,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "kasvis", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1,2 kg munakoisoja",
+      "20 g karkeaa suolaa (munakoisojen suolaamiseen)",
+      "3 dl oliivi- tai auringonkukkaöljyä paistamiseen",
+      "2 tlk (à 400 g) kuorittuja San Marzano -tomaatteja, käsin murskattuina",
+      "3 valkosipulinkynttä, kevyesti murskattuina",
+      "4 rkl ekstra-neitsytoliiviöljyä",
+      "1 ruukku tuoretta basilikaa",
+      "suolaa",
+      "mustapippuria",
+      "400 g mozzarellaa, revittynä tai 5 mm viipaleina",
+      "80 g parmesaania, hienoksi raastettuna"
+    ],
+    "instructions": [
+      "Leikkaa munakoisot 7–8 mm viipaleiksi. Kerrosta ne siivilään ja suolaa jokainen kerros reilusti. Paina päälle painotettu lautanen ja anna seistä 45–60 minuuttia. Suola vetää esiin kitkerän nesteen.",
+      "Kuumenna oliiviöljy ja valkosipuli leveässä pannussa keskilämmöllä, kunnes valkosipuli on vaalean kullanruskeaa, noin 3 minuuttia. Lisää tomaatit ja reilu ripaus suolaa ja hauduta kannetta 20–25 minuuttia, kunnes kastike on sakeaa ja tummanpunaista. Poista valkosipuli ja revi joukkoon puolet basilikasta.",
+      "Kuivaa munakoisoviipaleet. Kuumenna paistoöljy syvässä pannussa 175–180 asteeseen. Paista viipaleita erissä 2–3 minuuttia per puoli, kunnes ne ovat kullanruskeita. Valuta ritilällä tai talouspaperilla, älä pinoa.",
+      "Kuumenna uuni 180 asteeseen. Levitä ohut kerros tomaattikastiketta syvän vuoan pohjalle. Lisää kerros munakoisoja hieman limittäin, sitten mozzarellaa, basilikaa ja parmesaania. Toista kerroksia, kunnes ainekset loppuvat, ja päätä kastikkeeseen ja reiluun parmesaanikerrokseen.",
+      "Paista ilman kantta 180 °C:ssa 35–45 minuuttia, kunnes pinta on tumman kullanruskea ja reunat kuplivat. Anna levätä vähintään 20 minuuttia ennen leikkaamista."
+    ]
+  },
+  {
+    "id": "forkrecipe-eggs-benedict-casserole",
+    "title": "Eggs Benedict -uunivuoka",
+    "description": "Kaikki Eggs Benedictin osat – paahdettu englantilainen muffinssi, kinkku ja kananmuna – kerrostetaan vuokaan edellisenä päivänä ja paistetaan aamulla. Päälle helppo tehosekoitin-hollandaise. Brunssi isolle porukalle ilman hätäilyä.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 540,
+    "category": "Aamiainen",
+    "tags": ["amerikkalainen", "brunssi", "uuniruoka", "kananmuna"],
+    "ingredients": [
+      "6 englantilaista muffinssia, halkaistuina ja paloiteltuina",
+      "200 g kanadalaista pekonia tai kinkkuviipaleita",
+      "6 kananmunaa",
+      "2 dl täysmaitoa",
+      "voita vuoan voiteluun",
+      "suolaa",
+      "Hollandaise:",
+      "4 kananmunan keltuaista",
+      "200 g suolatonta voita, kirkastettuna ja kuumana",
+      "2 rkl sitruunamehua",
+      "ripaus cayennepippuria"
+    ],
+    "instructions": [
+      "Voitele noin 23 × 33 cm uunivuoka. Levitä muffinssinpalat tasaisesti pohjalle ja työnnä kinkkuviipaleita palojen väliin niin, että jokaiseen annokseen tulee sekä leipää että lihaa.",
+      "Vatkaa kananmunat ja maito tasaiseksi noin minuutin ajan ja mausta ripauksella suolaa. Kaada seos vuokaan ja paina leivänpalat nesteeseen. Peitä tiiviisti ja pidä jääkaapissa vähintään 8 tuntia tai yön yli.",
+      "Ota vuoka jääkaapista 30 minuuttia ennen paistamista. Kuumenna uuni 175 asteeseen. Peitä vuoka foliolla ja paista 35 minuuttia, poista folio ja paista vielä 15–20 minuuttia, kunnes pinta on kullanruskea ja muna hyytynyt.",
+      "Laita keltuaiset, sitruunamehu ja cayennepippuri tehosekoittimeen ja sekoita 20 sekuntia vaahtoavaksi. Kaada kuuma kirkastettu voi ohuena nauhana koneen käydessä hitaalla, kunnes kastike paksuuntuu. Mausta suolalla ja tarjoa heti vuoan kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-eggs-benedict",
+    "title": "Eggs Benedict",
+    "description": "Brunssin kruunu: pehmeiksi uppopaistetut munat rapean kinkun ja paahdetun englantilaisen muffinssin päällä, runsaan sitruunaisen hollandaisekastikkeen kera.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 40,
+    "category": "Aamiainen",
+    "tags": ["amerikkalainen", "brunssi", "kananmuna"],
+    "ingredients": [
+      "4 kananmunaa (uppopaistoon)",
+      "4 viipaletta kanadalaista pekonia tai kinkkua",
+      "2 englantilaista muffinssia, halkaistuina",
+      "Hollandaise:",
+      "3 kananmunan keltuaista",
+      "2 dl kirkastettua voita, lämmintä",
+      "1 rkl sitruunamehua",
+      "1 tl suolaa",
+      "ripaus valkopippuria",
+      "ripaus cayennepippuria",
+      "Uppopaistoon:",
+      "1,5 l vettä",
+      "2 rkl valkoviinietikkaa"
+    ],
+    "instructions": [
+      "Tee hollandaise ensin. Aseta kulho hiljalleen kiehuvan vesikattilan päälle niin, ettei pohja kosketa vettä. Lisää keltuaiset ja 1 rkl vettä. Vatkaa jatkuvasti 3–5 minuuttia, nostaen kulhoa välillä pois lämmöltä, kunnes seos on paksua ja vaaleaa. Nosta pois lämmöltä ja lisää lämmin voi ohuena nauhana koko ajan vatkaten. Kun puolet voista on lisätty, loput voi lisätä nopeammin. Mausta sitruunamehulla, suolalla, valkopippurilla ja cayennella. Pidä lämpimänä kuuman (ei kiehuvan) veden päällä.",
+      "Kaada leveään kattilaan noin 8 cm vettä, lisää etikka ja kuumenna juuri ja juuri kiehumaan (82–85 °C). Riko kukin muna pieneen kuppiin. Pyöräytä vettä hitaaksi pyörteeksi ja liu'uta muna keskelle. Kypsennä 3–4 minuuttia, jolloin keltuainen jää juoksevaksi. Nosta reikäkauhalla ja valuta liinalla.",
+      "Ruskista kinkkuviipaleet kuivalla pannulla keskikovalla lämmöllä 2 minuuttia per puoli. Paahda samalla muffinssinpuolikkaat leikkuupinta alaspäin pannulla tai uunin grillivastuksen alla kullanruskeiksi ja hieman rapeiksi.",
+      "Kokoa nopeasti, kun kaikki on kuumaa: muffinssinpuolikkaat lautaselle leikkuupinta ylöspäin, päälle kinkku ja uppomuna. Lusikoi päälle reilusti hollandaisea ja ripottele cayennepippuria tai paprikajauhetta. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-eggs-en-cocotte",
+    "title": "Kermassa uunissa paistetut munat (œufs en cocotte)",
+    "description": "Kananmunat paistetaan yksittäisissä annosvuoissa kerman ja yrttien kanssa vesihauteessa: valkuainen juuri hyytynyt, keltuainen yhä juokseva. Syödään paahtoleipätikkujen kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 25,
+    "category": "Aamiainen",
+    "tags": ["ranskalainen", "kasvis", "kananmuna", "nopea", "brunssi"],
+    "ingredients": [
+      "4 kananmunaa",
+      "1,2 dl kuohukermaa",
+      "15 g suolatonta voita, pehmeänä",
+      "1 rkl tuoretta ruohosipulia, saksittuna",
+      "1 tl tuoretta timjamia, lehdet",
+      "½ tl suolaa",
+      "mustapippuria",
+      "30 g gruyèrejuustoa, hienoksi raastettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Voitele annosvuokien sisäpuolet reilusti pehmeällä voilla. Lusikoi kunkin pohjalle 1 rkl kermaa ja aseta vuoat syvään uunivuokaan.",
+      "Riko yksi muna kuhunkin vuokaan keltuainen ehjänä. Lusikoi toinen ruokalusikallinen kermaa valkuaisen ympärille, ei keltuaisen päälle. Ripottele päälle ruohosipulia, timjamia, suolaa ja pippuria sekä halutessasi gruyèreä. Kaada uunivuokaan kiehuvaa vettä puoleen väliin annosvuokien korkeutta.",
+      "Siirrä uuniin ja paista 8–12 minuuttia, tarkista 8 minuutin kohdalla. Munat ovat valmiita, kun valkuainen on hyytynyt reunoilta mutta hieman hytkyvä keskeltä ja keltuainen on yhä juokseva. Tarjoa heti voideltujen paahtoleipien kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-egusi-soup",
+    "title": "Egusi-keitto",
+    "description": "Nigerialainen paksu keitto: jauhetut meloninsiemenet paistetaan palmuöljyssä pähkinäisiksi ja haudutetaan lihan, kuivatun ravunjauheen ja vihreiden lehtien kanssa. Keitto, kastike ja ateria yhtä aikaa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["nigerialainen", "liha", "pataruoka", "keitto"],
+    "ingredients": [
+      "200 g jauhettuja egusi-meloninsiemeniä",
+      "1,2 dl punaista palmuöljyä",
+      "600 g naudanlihaa tai sekalaista lihaa ja kuivattua turskaa, paloina",
+      "3 rkl jauhettua kuivattua katkarapua",
+      "3 tomaattia ja 1 scotch bonnet -chili, soseutettuna",
+      "150 g pinaattia tai karvaslehteä, pestynä ja suikaloituna",
+      "2 liemikuutiota",
+      "suolaa"
+    ],
+    "instructions": [
+      "Mausta liha suolalla ja liemikuutioilla. Jos käytät kuivattua kalaa, liota sitä ensin lämpimässä vedessä 30 minuuttia. Keitä lihat kattilassa pienessä määrässä vettä keskilämmöllä pehmeiksi, 20–30 minuuttia. Säästä keitinliemi.",
+      "Kuumenna palmuöljy isossa kattilassa keskilämmöllä, älä anna sen savuta. Lisää tomaatti-chilisose ja paista sekoittaen 10 minuuttia, kunnes raaka tomaatin tuoksu katoaa. Levitä egusi tasaiseksi kerrokseksi päälle ja anna paistua sekoittamatta 3–4 minuuttia. Sekoita ja paista vielä 8–10 minuuttia, kunnes egusi tuoksuu pähkinäiseltä ja on kullankeltaista.",
+      "Lisää katkarapujauhe ja sekoita. Lisää keitetyt lihat ja sen verran keitinlientä, että keitosta tulee paksua. Hauduta välillä sekoittaen 10–12 minuuttia. Tarkista suola.",
+      "Lisää vihreät lehdet ja sekoita. Kypsennä pinaattia 3–5 minuuttia, karvaslehteä jopa 8 minuuttia. Keiton kuuluu olla reilusti suolaista. Tarjoa jamssimuusin, fufun tai eban kanssa."
+    ]
+  },
+  { "id": "forkrecipe-egusi-stew", "skip": "lähes kaksoiskappale (egusi-keitto)" },
+  {
+    "id": "forkrecipe-egyptian-koshari",
+    "title": "Egyptiläinen koshari",
+    "description": "Kairon rakastettu katuruoka: riisiä, ruskeita linssejä ja makaronia kerroksittain, päällä rapeat paistetut sipulit, ja pöydässä lisätään tulista tomaattikastiketta ja valkosipulietikkaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 105,
+    "category": "Pääruoat",
+    "tags": ["egyptiläinen", "vegaaninen", "kasvis", "riisi", "pasta"],
+    "ingredients": [
+      "2,5 dl pitkäjyväistä riisiä (n. 200 g)",
+      "200 g ruskeita linssejä (tai vihreitä)",
+      "120 g pientä makaronia",
+      "40 g vermicelli-nuudeleita, murrettuina",
+      "3 isoa keltasipulia (paistamiseen)",
+      "2 dl rypsiöljyä (sipulien paistamiseen)",
+      "Tomaattikastike:",
+      "2 rkl oliiviöljyä",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "2 tl jauhettua juustokuminaa",
+      "1 tl jauhettua korianteria",
+      "1 tl chilihiutaleita",
+      "1 tlk (400 g) tomaattimurskaa",
+      "2 tl suolaa",
+      "Valkosipulietikka:",
+      "½ dl punaviinietikkaa",
+      "2 valkosipulinkynttä, hienonnettuna"
+    ],
+    "instructions": [
+      "Huuhtele linssit ja keitä ne kattilassa reilussa vedessä 20–25 minuuttia, kunnes ne ovat juuri kypsiä mutta pitävät muotonsa. Valuta ja suolaa kevyesti.",
+      "Leikkaa sipulit hyvin ohuiksi (2 mm) viipaleiksi. Kuumenna öljy leveässä pannussa 170 asteeseen. Paista sipuleita erissä 12–18 minuuttia välillä sekoittaen, kunnes ne ovat kullanruskeita ja rapeita. Nosta ne pois meripihkan värisinä, sillä ne tummuvat vielä. Valuta talouspaperilla ja suolaa heti.",
+      "Kuumenna oliiviöljy kattilassa ja kuullota valkosipulia 1–2 minuuttia. Lisää kumina, korianteri ja chili ja paista 30 sekuntia. Lisää tomaattimurska ja suola ja hauduta miedolla lämmöllä 20–25 minuuttia, kunnes kastike on sakeaa. Sekoita valkosipulietikkaa varten raaka valkosipuli, etikka ja ripaus suolaa.",
+      "Huuhtele riisi. Paahda vermicelli kattilassa kuivana tai teelusikallisessa öljyä kullanruskeaksi. Lisää riisi ja paahda minuutti. Lisää vettä 1¾ kertaa riisin ja nuudelien tilavuus sekä suolaa. Kuumenna kiehuvaksi, peitä ja kypsennä miedoimmalla lämmöllä 17 minuuttia. Anna seistä 5 minuuttia ja kuohkeuta haarukalla.",
+      "Keitä makaroni suolalla maustetussa vedessä al denteksi ja valuta. Kokoa annokset: pohjalle riisiä, sitten linssejä ja makaronia ja päälle reilusti rapeaa sipulia. Lisää pöydässä tomaattikastiketta ja valkosipulietikkaa ja sekoita kaikki yhteen."
+    ]
+  },
+  {
+    "id": "forkrecipe-elderflower-cordial",
+    "title": "Seljankukkamehu (tiiviste)",
+    "description": "Brittiläinen alkukesän perinne: täydessä kukassa olevat seljankukat haudutetaan vuorokauden ajan kuumassa sitruuna-sokerisiirapissa. Tuloksena kullankeltainen, kukkainen mehutiiviste, joka laimennetaan kylmällä vedellä.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1500,
+    "category": "Juomat",
+    "tags": ["brittiläinen", "vegaaninen", "alkoholiton", "kesä"],
+    "ingredients": [
+      "20 seljankukkaterttua (n. 25 g kukkia), täydessä kukassa",
+      "1 kg sokeria",
+      "1 l vettä",
+      "2 vahaamatonta sitruunaa (n. 200 g), viipaleina",
+      "25 g sitruunahappoa"
+    ],
+    "instructions": [
+      "Kuumenna sokeri ja vesi isossa kattilassa keskilämmöllä usein sekoittaen, kunnes sokeri on täysin liuennut ja siirappi kirkasta, noin 5 minuuttia. Älä keitä voimakkaasti; nosta liedeltä heti, kun pinta alkaa kiehua.",
+      "Ravista kukista mahdolliset hyönteiset, mutta älä pese niitä. Lisää kukat ja sitruunaviipaleet kuumaan siirappiin ja sekoita joukkoon sitruunahappo. Peitä liinalla tai raolleen jätetyllä kannella ja anna hautua huoneenlämmössä 24 tuntia.",
+      "Siivilöi mehu harsokankaalla vuoratun siivilän läpi, painaen kukkia kevyesti. Pullota steriloituihin pulloihin ja säilytä jääkaapissa enintään 6 viikkoa tai pakasta jääpalamuoteissa. Laimenna 1 osa tiivistettä 4–5 osaan kivennäis- tai hanavettä."
+    ]
+  },
+  {
+    "id": "forkrecipe-elote-callejero",
+    "title": "Elote callejero – meksikolainen katumaissi",
+    "description": "Liekillä tai grillissä hiillostettu maissintähkä sivellään majoneesilla, pyöritellään murennetussa cotija-juustossa, maustetaan chilillä ja viimeistellään limellä. Meksikon paras katuruoka.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Lisukkeet",
+    "tags": ["meksikolainen", "kasvis", "nopea", "grilli"],
+    "ingredients": [
+      "4 tuoretta maissintähkää",
+      "1 dl majoneesia",
+      "80 g fetaa tai cotija-juustoa, hienoksi murennettuna",
+      "2 tl ancho-chilijauhetta",
+      "2 limettiä, puolitettuina",
+      "2 rkl tuoretta korianteria, karkeasti hienonnettuna",
+      "½ tl suolaa"
+    ],
+    "instructions": [
+      "Käännä lehdet taakse kahvaksi tai poista ne kokonaan. Paahda maissia suoraan kaasuliekillä, erittäin kuumalla kuivalla pannulla tai kuumassa grillissä, käännellen minuutin välein, yhteensä 8–12 minuuttia, kunnes jyviin tulee tummia, osin lähes mustia kohtia.",
+      "Sivele kuumat tähkät reilulla kerroksella majoneesia. Pyöritä tähkät murennetussa juustossa niin, että sitä tarttuu joka puolelle. Ripottele päälle chilijauhetta, purista limeä, lisää korianteri ja ripaus suolaa."
+    ]
+  },
+  {
+    "id": "forkrecipe-elote-crema",
+    "title": "Elote-kastike (chilinen majoneesikreemi)",
+    "description": "Kirpeä ja mausteinen majoneesi-kermaseos, jolla meksikolainen katumaissi sivellään: majoneesia, crema-kermaa, limeä ja chilijauhetta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["meksikolainen", "kasvis", "kastike", "nopea"],
+    "ingredients": [
+      "1 dl majoneesia",
+      "½ dl smetanaa tai meksikolaista cremaa",
+      "2 rkl limetin mehua",
+      "1½ tl chilijauhetta (ancho)",
+      "½ tl suolaa",
+      "30 g fetaa tai cotija-juustoa, hienoksi murennettuna",
+      "chilijauhetta tai Tajínia pinnalle"
+    ],
+    "instructions": [
+      "Vatkaa majoneesi ja smetana kulhossa tasaiseksi. Lisää limetinmehu vähitellen vatkaten, sitten chilijauhe ja suola. Vatkaa vielä 30 sekuntia, kunnes kastike on sileää, kiiltävää ja tarttuu lusikkaan. Maista: limen pitää maistua selvästi ja chilin lämmittää.",
+      "Kääntele joukkoon puolet juustosta ja tarkista maku. Siirrä kulhoon tai pursotinpulloon. Ripottele juuri ennen tarjoilua päälle chilijauhetta tai Tajínia ja loput juustosta. Säilyy jääkaapissa 3 päivää, ja maku paranee yön yli."
+    ]
+  },
+  { "id": "forkrecipe-elote", "skip": "lähes kaksoiskappale (elote callejero)" },
+  { "id": "forkrecipe-elotes", "skip": "lähes kaksoiskappale (elote callejero)" },
+  {
+    "id": "forkrecipe-enchiladas-verdes",
+    "title": "Enchiladas verdes – vihreät kanaenchiladat",
+    "description": "Hetken paistetut maissitortillat kastetaan kirpeään tomatillokastikkeeseen, täytetään nyhdetyllä kanalla ja paistetaan uunissa. Päälle cremaa ja tuorejuustoa pehmentämään chilin poltetta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 60,
+    "category": "Pääruoat",
+    "tags": ["meksikolainen", "kana", "uuniruoka"],
+    "ingredients": [
+      "600 g luullisia kanan rintafileitä tai reisiä",
+      "500 g tomatilloja, kuorittuina ja huuhdeltuina",
+      "3–4 serrano-chiliä",
+      "1 valkosipuli, neljään osaan",
+      "1 ruukku tuoretta korianteria (varret ja lehdet)",
+      "12 maissitortillaa (15 cm)",
+      "1 dl smetanaa tai meksikolaista cremaa",
+      "100 g fetaa tai queso frescoa, murennettuna",
+      "rypsiöljyä paistamiseen",
+      "suolaa"
+    ],
+    "instructions": [
+      "Laita kana kattilaan puolen sipulin ja ripauksen suolaa kanssa ja peitä kylmällä vedellä 3 cm:n verran. Kuumenna hiljalleen kiehuvaksi, kuori vaahto ja hauduta 20–25 minuuttia, kunnes kana on juuri kypsää. Anna jäähtyä hieman ja nyhdä ohuiksi suikaleiksi. Säästä liemi.",
+      "Levitä tomatillot, chilit ja loput sipulista folioidulle pellille. Grillaa uunin grillivastuksen alla 8–10 minuuttia kerran kääntäen, kunnes tomatillojen pinta on rakkuloilla ja paikoin hiiltynyt.",
+      "Siirrä paahdetut kasvikset nesteineen tehosekoittimeen, lisää korianteri ja 1 dl kanalientä. Soseuta minuutin ajan sileäksi ja mausta suolalla. Kastike on ohutta, mutta sakenee uunissa.",
+      "Kuumenna uuni 190 asteeseen. Paista tortilloja 1 cm:n öljykerroksessa 5–10 sekuntia per puoli, jotta ne pehmenevät, ja valuta talouspaperilla. Kasta jokainen tortilla kastikkeeseen, laita keskelle noin 40 g kanaa, kääri rullalle ja aseta saumapuoli alaspäin vuokaan. Kaada loput kastikkeesta päälle. Paista 15 minuuttia, kunnes kastike kuplii. Lisää pinnalle smetanaa ja murennettua juustoa."
+    ]
+  },
+  {
+    "id": "forkrecipe-english-muffin",
+    "title": "Englantilaiset muffinssit",
+    "description": "Paistinpannulla hitaasti paistetut hiivaleivät, joiden pinta on kullanruskea ja matta. Haarukalla halkaistuna sisus on reikäinen ja imee voin itseensä, ja paahdettuna reunat karamellisoituvat.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["brittiläinen", "kasvis", "aamiainen", "leipä"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "2,25 dl täysmaitoa, lämmitettynä 38 asteeseen",
+      "1 dl lämmintä vettä (40 °C)",
+      "7 g kuivahiivaa",
+      "25 g suolatonta voita, pehmeänä",
+      "2 tl suolaa",
+      "1 rkl sokeria",
+      "2 rkl mannasuurimoita tai maissijauhoja ripotteluun"
+    ],
+    "instructions": [
+      "Sekoita lämmin maito, vesi, sokeri ja kuivahiiva isossa kulhossa ja anna seistä 5 minuuttia. Lisää voi ja suola. Lisää jauhot kerralla ja sekoita puulusikalla, sitten käsin. Taikina on tavallista leipätaikinaa löysempää ja tahmeampaa, eikä siihen pidä lisätä jauhoja.",
+      "Vaivaa taikinaa kevyesti öljytyllä alustalla 5 minuuttia sileäksi. Kohota öljytyssä kulhossa peitettynä lämpimässä 60–75 minuuttia kaksinkertaiseksi. Vuoraa sillä aikaa kaksi pellillistä leivinpaperilla ja ripottele niille mannasuurimoita.",
+      "Ripottele leivinalustalle mannasuurimoita. Kumoa taikina varovasti, ilmakuplia säästäen, ja taputtele 2 cm paksuksi levyksi ilman kaulinta. Ota 8–9 cm muotilla pyöreitä paloja painamalla suoraan alas kiertämättä. Nosta pellille ja ripottele pinnalle lisää mannasuurimoita. Kokoa tähteet, anna levätä 5 minuuttia ja leikkaa lisää.",
+      "Peitä liinalla ja anna kohota huoneenlämmössä 30 minuuttia, kunnes palat ovat hieman pöyheämpiä.",
+      "Kuumenna valurautapannu keskilämpöä miedommalla lämmöllä 3 minuuttia ilman rasvaa. Paista muffinsseja 6–7 minuuttia liikuttamatta, käännä ja paista toinen puoli 6–7 minuuttia. Valmiit muffinssit tuntuvat kiinteiltä sivuilta painettaessa. Jäähdytä ritilällä ja halkaise haarukalla, ei veitsellä, jotta sisuksen reiät säilyvät."
+    ]
+  },
+  { "id": "forkrecipe-english-muffins", "skip": "lähes kaksoiskappale (englantilaiset muffinssit)" }
+]

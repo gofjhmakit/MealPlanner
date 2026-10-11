@@ -1,0 +1,581 @@
+[
+  {
+    "id": "forkrecipe-escabeche",
+    "title": "Escabeche – meksikolaiset etikkajalapeñot ja -kasvikset",
+    "description": "Taqueroiden vakiolisuke: jalapeñot, porkkanat ja sipuli kuumassa, oreganolla, kuminalla ja laakerilla maustetussa liemessä. Yön yli seisotettuna kasvikset pehmenevät ja happanevat rapeaksi, terhakaksi pikkelsiksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 1440,
+    "category": "Säilykkeet",
+    "tags": ["meksikolainen", "vegaaninen", "kasvis", "pikkelsi"],
+    "ingredients": [
+      "250 g jalapeñoja, renkaina siemenineen",
+      "150 g porkkanaa, kuorittuna ja vinoviipaleina (5 mm)",
+      "1 valkosipuli (n. 100 g), ohuina puolikuina",
+      "3 dl valkoviinietikkaa",
+      "2 dl vettä",
+      "2 tl suolaa",
+      "1 tl kuivattua oreganoa",
+      "½ tl mustapippuria, kokonaisena",
+      "2 laakerinlehteä",
+      "½ tl juustokuminaa, kokonaisena",
+      "2 rkl rypsiöljyä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuumenna öljy kattilassa keskikovalla lämmöllä. Lisää porkkanat ja paista 2–3 minuuttia, kunnes ne saavat hieman väriä mutta ovat yhä rapeita. Lisää jalapeñot ja sipuli ja paista vielä 2 minuuttia.",
+      "Lisää etikka, vesi, suola, oregano, pippurit, laakerinlehdet ja kumina. Kuumenna kiehuvaksi sekoittaen, kunnes suola liukenee. Hauduta 3 minuuttia ja paina kasvikset liemen alle. Nosta liedeltä.",
+      "Siirrä kuuma escabeche puhtaisiin lasipurkkeihin niin, että kasvikset ovat liemen peitossa. Sulje löyhästi ja anna jäähtyä huoneenlämmössä tunnin ajan. Säilytä jääkaapissa vähintään 8 tuntia, mieluiten vuorokausi ennen tarjoilua."
+    ],
+    "notes": ["Säilyy jääkaapissa muutaman viikon."]
+  },
+  {
+    "id": "forkrecipe-escalivada",
+    "title": "Escalivada – katalaanit hiillostetut kasvikset",
+    "description": "Katalonian kesäruoka: munakoiso, punainen paprika ja sipuli paahdetaan kokonaisina liekillä tai kuumassa uunissa mustiksi ja pehmeiksi, kuoritaan ja revitään pitkiksi, makeiksi ja savuisiksi suikaleiksi oliiviöljyn kera.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["espanjalainen", "vegaaninen", "kasvis", "gluteeniton"],
+    "ingredients": [
+      "2 punaista paprikaa (n. 400 g), kokonaisina",
+      "1 iso munakoiso (n. 400 g), kokonaisena",
+      "2 valkosipulia (n. 200 g), kokonaisina ja kuorimattomina",
+      "½ dl ekstra-neitsytoliiviöljyä",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl sherryetikkaa",
+      "2 rkl lehtipersiljaa, karkeasti hienonnettuna",
+      "karkeaa merisuolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Laita paprikat, munakoiso ja kuorimaton sipuli suoraan uunin ritilälle 230 asteeseen (tai grilliin keskikuumille hiilille). Paahda kääntäen 15–20 minuutin välein, kunnes kasvikset ovat pinnalta täysin mustia, painuneet kasaan ja läpikotaisin pehmeitä: uunissa 40–50 minuuttia, hiilillä 25–35 minuuttia.",
+      "Siirrä kasvikset isoon kulhoon ja peitä tiiviisti kelmulla tai lautasella. Anna hautua omassa lämmössään vähintään 15 minuuttia, jolloin kuori irtoaa helposti.",
+      "Kuori kasvikset kulhon päällä, jotta mehut jäävät talteen. Poista paprikoista siemenet. Kuori sipuli ja erottele se kerroksiksi. Älä huuhtele kasviksia, ettei savuinen maku huuhtoudu pois.",
+      "Revi paprikat ja munakoiso käsin 2–3 cm levyisiksi suikaleiksi. Asettele kasvikset väljästi leveälle tarjoiluvadille.",
+      "Valuta päälle reilusti oliiviöljyä ja kulhoon kertyneet mehut. Lisää valkosipuli ja sherryetikka ja mausta suolalla ja pippurilla. Kääntele varovasti ja ripottele päälle persilja. Anna maustua huoneenlämmössä 20–30 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-espagnole",
+    "title": "Espagnole-kastike (ranskalainen tumma peruskastike)",
+    "description": "Yksi ranskalaisen keittiön peruskastikkeista: tummaksi paahdettu jauhosuuruste, vasikanliemi, karamellisoidut juurekset ja tomaatti haudutetaan tuntikausia kiiltäväksi, mahonginruskeaksi kastikkeeksi. Siitä tehdään demi-glace ja lukemattomia lihakastikkeita.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 240,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "liha"],
+    "ingredients": [
+      "1,2 l tummaa vasikanlientä",
+      "100 g kirkastettua voita",
+      "100 g vehnäjauhoja",
+      "200 g sipulia, porkkanaa ja varsiselleriä, pieninä kuutioina",
+      "3 rkl tomaattipyreetä",
+      "1½ tl suolaa",
+      "1 maustekimppu (timjamia, laakerinlehti, persiljanvarsia)"
+    ],
+    "instructions": [
+      "Sulata kolmannes voista paksupohjaisessa kattilassa keskilämmöllä. Lisää juurekset ja paista välillä sekoittaen 12–18 minuuttia, kunnes ne ovat syvän ruskeita ja tuoksuvat makeilta.",
+      "Sulata loput voista kattilan tyhjässä kohdassa, ripottele jauhot joukkoon ja sekoita tahnaksi. Paahda suurustetta hitaasti lähes jatkuvasti sekoittaen 10–20 minuuttia, kunnes se on syvän kastanjanruskeaa ja tuoksuu pähkinäiseltä. Pidä lämpö maltillisena, sillä tumma suuruste palaa helposti.",
+      "Sekoita tomaattipyree joukkoon ja paista 3–5 minuuttia, kunnes se tummuu tiilenpunaiseksi ja tuoksuu makealta.",
+      "Lisää liemi muutama kauhallinen kerrallaan ja vatkaa jokaisen lisäyksen jälkeen paakuttomaksi. Lisää maustekimppu ja kuumenna hiljalleen kiehuvaksi sekoittaen, ettei suuruste pala pohjaan.",
+      "Hauduta kastiketta hyvin hiljaisella kiehunnalla 2–3 tuntia välillä sekoittaen ja kuori rasva ja vaahto pinnalta. Mausta suolalla loppuvaiheessa. Kun kastike on kiehunut noin kolmanneksen ja peittää lusikan, siivilöi se hienon siivilän läpi."
+    ]
+  },
+  { "id": "forkrecipe-ethiopian-doro-wat", "skip": "lähes kaksoiskappale (doro wat)" },
+  {
+    "id": "forkrecipe-ethiopian-injera",
+    "title": "Injera – etiopialainen teff-hapanleipä",
+    "description": "Suuri, hapan teffjauholetty, jonka pinta on täynnä pieniä reikiä. Etiopiassa injera on yhtä aikaa lautanen, ruokailuväline ja leipä kaikille padoille.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 4320,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["etiopialainen", "vegaaninen", "kasvis", "gluteeniton", "leipä"],
+    "ingredients": [
+      "500 g teffjauhoja",
+      "7 dl huoneenlämpöistä vettä",
+      "½ dl teff-juurta (ersho) tai vesikefiiriä",
+      "1 tl suolaa",
+      "2 dl kiehuvaa vettä"
+    ],
+    "instructions": [
+      "Vatkaa teffjauhot ja huoneenlämpöinen vesi isossa lasi- tai keraamisessa kulhossa paakuttomaksi. Sekoita joukkoon juuri. Peitä löyhästi liinalla ja anna käydä huoneenlämmössä (20–24 °C) 48–72 tuntia, sekoittaen kerran tai kahdesti päivässä. Taikina kuplii ja happanee, ja pinnalle voi nousta tummaa nestettä, joka kaadetaan lopuksi pois.",
+      "Vatkaa 100 g käynyttä taikinaa 2 dl:aan kiehuvaa vettä kattilassa ja keitä keskilämmöllä koko ajan sekoittaen 2–3 minuuttia sileäksi puuroksi. Jäähdytä huoneenlämpöiseksi ja sekoita takaisin taikinaan suolan kanssa. Taikinan pitää olla ohutta kuin lettutaikina.",
+      "Kuumenna iso tarttumaton pannu keskilämmöllä, kunnes vesitippa haihtuu heti. Älä rasvaa pannua. Kaada pannulle 1,8–2 dl taikinaa nopeasti spiraalina reunoilta keskelle ja kallistele pannua aukkojen täyttämiseksi. Peitä heti kannella ja paista 2–3 minuuttia, kunnes pinta on hyytynyt, reiät peittävät koko pinnan ja reunat alkavat käpristyä. Älä käännä. Liu'uta injera liinalle jäähtymään."
+    ]
+  },
+  {
+    "id": "forkrecipe-eton-mess",
+    "title": "Eton mess",
+    "description": "Murskattua marenkia, kevyesti survottuja mansikoita ja kuohkeaa kermavaahtoa viime hetkellä yhteen käänneltynä. Tarkoituksella sotkuinen ja täysin vastustamaton brittiläinen kesäjälkiruoka.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 60,
+    "category": "Jälkiruoat",
+    "tags": ["brittiläinen", "kasvis", "mansikka", "kesä"],
+    "ingredients": [
+      "Marengit:",
+      "100 g kananmunan valkuaisia (n. 3), huoneenlämpöisiä",
+      "200 g hienoa sokeria",
+      "Täyte:",
+      "400 g tuoreita mansikoita, kannat poistettuina",
+      "30 g tomusokeria",
+      "2 tl sitruunamehua",
+      "3 dl kuohukermaa",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Varmista, että kulho ja vatkain ovat täysin rasvattomat. Vatkaa valkuaiset keskinopeudella pehmeäksi vaahdoksi. Lisää sokeri ruokalusikallinen kerrallaan ja nosta nopeus suurimmalle. Vatkaa, kunnes marenki on hyvin kovaa ja kiiltävää eikä sokerinrakeita tunnu sormien välissä.",
+      "Kuumenna uuni 120 asteeseen ja vuoraa kaksi pellillistä leivinpaperilla. Lusikoi tai pursota marenki 8 epätasaiseksi pyörylaksi. Paista 1–1¼ tuntia, kunnes marengit ovat pinnalta kuivia, irtoavat paperista ja kuulostavat onttoilta. Sammuta uuni ja anna marenkien jäähtyä uunissa luukku raollaan. Marengit voi tehdä 3 päivää etukäteen.",
+      "Leikkaa isot mansikat neljään ja keskikokoiset kahtia. Sekoita kulhossa tomusokerin ja sitruunamehun kanssa ja anna seistä huoneenlämmössä 15–20 minuuttia, jolloin marjat päästävät mehuaan.",
+      "Vatkaa kylmä kerma ja vanilja pehmeäksi vaahdoksi. Murskaa marengit epätasaisiksi paloiksi. Lisää kermavaahtoon puolet mansikoista ja kaikki marengit ja kääntele kolmella–neljällä isolla liikkeellä, niin että raitoja jää. Annostele laseihin, lisää loput mansikat päälle ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-everything-bagel-seasoning",
+    "title": "Everything bagel -mausteseos",
+    "description": "New Yorkin everything-bagelin maut purkissa: seesaminsiemeniä, unikonsiemeniä, kuivattua valkosipulia ja sipulia sekä suolahiutaleita. Monikäyttöinen ripote leivälle, kananmunille ja kasviksille.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Muut",
+    "tags": ["amerikkalainen", "vegaaninen", "kasvis", "mauste", "nopea"],
+    "ingredients": [
+      "50 g valkoisia seesaminsiemeniä",
+      "25 g mustia seesaminsiemeniä",
+      "25 g unikonsiemeniä",
+      "20 g kuivattua valkosipulirouhetta",
+      "20 g kuivattua sipulirouhetta",
+      "15 g suolahiutaleita"
+    ],
+    "instructions": [
+      "Paahda valkoiset seesaminsiemenet kuivalla paksupohjaisella pannulla keskilämmöllä pannua jatkuvasti ravistellen 2–3 minuuttia vaalean kullanruskeiksi. Siirrä heti lautaselle jäähtymään.",
+      "Kun seesaminsiemenet ovat jäähtyneet, sekoita kaikki ainekset leveässä purkissa huolellisesti. Sulje ja säilytä huoneenlämmössä enintään 3 kuukautta. Ravista ennen käyttöä."
+    ]
+  },
+  { "id": "forkrecipe-everything-seasoning", "skip": "lähes kaksoiskappale (everything bagel -mausteseos)" },
+  {
+    "id": "forkrecipe-falafel",
+    "title": "Falafel",
+    "description": "Levantin katuruoan klassikko: liotetut mutta keittämättömät kikherneet jauhetaan yrttien ja mausteiden kanssa ja friteerataan, kunnes kuori on rapea ja tumma ja sisus pehmeä ja vihreä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1440,
+    "category": "Pääruoat",
+    "tags": ["libanonilainen", "vegaaninen", "kasvis", "katuruoka"],
+    "ingredients": [
+      "250 g kuivattuja kikherneitä (ei säilykettä)",
+      "45 g lehtipersiljaa (lehdet ja pehmeät varret)",
+      "30 g tuoretta korianteria (lehdet ja pehmeät varret)",
+      "½ keltasipulia (n. 40 g), karkeasti pilkottuna",
+      "4 valkosipulinkynttä",
+      "2 tl jauhettua juustokuminaa",
+      "1½ tl jauhettua korianteria",
+      "½ tl cayennepippuria tai aleppo-chiliä",
+      "1 tl suolaa",
+      "¼ tl ruokasoodaa",
+      "1 rkl paahdettuja seesaminsiemeniä",
+      "1 l rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Peitä kuivatut kikherneet runsaalla kylmällä vedellä, sillä ne kolminkertaistuvat. Liota 18–24 tuntia ja vaihda vesi kerran, jos keittiö on lämmin. Kikherneitä ei keitetä: raaka tärkkelys sitoo falafelit ilman jauhoja tai kananmunaa. Säilyke- tai keitetyt kikherneet hajoavat öljyssä.",
+      "Laita valutetut kikherneet, persilja, korianteri, sipuli, valkosipuli, kumina, korianterijauhe, cayenne ja suola monitoimikoneeseen. Sykäytä, älä soseuta, ja kaavi reunat välillä, kunnes seos on tasaista, kosteaa ja kirkkaanvihreää murua kuin märkä hiekka. Sen pitää pysyä koossa puristettaessa.",
+      "Juuri ennen paistamista sekoita joukkoon ruokasooda. Muotoile seoksesta saksanpähkinän kokoisia palloja tai pieniä pihvejä painaen tiiviiksi ja pyöritä pinta seesaminsiemenissä.",
+      "Kuumenna öljy 175 asteeseen. Paista falafeleja erissä kerran kääntäen 3–4 minuuttia, kunnes ne ovat tumman ruskeita ja rapeita. Valuta ritilällä, suolaa kevyesti ja tarjoa heti tahinikastikkeen, pikkelsien ja lämpimän leivän kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-farinata",
+    "title": "Farinata – genovalainen kikhernepannukakku",
+    "description": "Ohut ja rapea kikhernejauholetty Ligurian rannikolta: reunoilta kuplainen ja kullanruskea, sisältä vanukasmaisen pehmeä. Mausteeksi riittää mustapippuri.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 300,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["italialainen", "vegaaninen", "kasvis", "gluteeniton", "katuruoka"],
+    "ingredients": [
+      "200 g kikhernejauhoja",
+      "6 dl haaleaa vettä",
+      "½ dl ekstra-neitsytoliiviöljyä",
+      "1 tl suolaa",
+      "1 tl mustapippuria, karkeaksi rouhittuna"
+    ],
+    "instructions": [
+      "Siivilöi kikhernejauhot leveään kulhoon. Vatkaa haalea vesi joukkoon ohuena nauhana koko ajan vatkaten, kunnes taikina on paakutonta ja ohutta kuin kerma. Lisää suola. Kuori pinnalle noussut vaahto pois. Peitä liinalla ja anna levätä huoneenlämmössä vähintään 4 tuntia, mieluiten 8.",
+      "Laita 30 cm:n pyöreä pannu, esim. valurautapannu, uuniin ja kuumenna uuni niin kuumaksi kuin se menee (mieluiten 280 °C). Anna pannun kuumentua vähintään 20 minuuttia. Ota pannu uunista ja kaada siihen oliiviöljy pannua kallistellen. Kaada taikina pannulle 5–6 mm paksuksi kerrokseksi.",
+      "Paista uunin yläosassa 5 minuuttia, ripottele pinnalle mustapippuria ja paista vielä 8–12 minuuttia, kunnes keskusta on hyytynyt ja reunat ovat kuplaiset ja kullanruskeat. Sisuksen kuuluu jäädä hieman vanukasmaiseksi. Leikkaa paloiksi ja tarjoa heti."
+    ]
+  },
+  { "id": "forkrecipe-farro-risotto", "skip": "lähes kaksoiskappale (farrotto al parmigiano)" },
+  {
+    "id": "forkrecipe-farro-salad",
+    "title": "Farrosalaatti",
+    "description": "Italialainen viljasalaatti pähkinäisestä ja purutuntumaisesta farrosta, kirsikkatomaateista, kurkusta, rucolasta ja pecorinosta. Sitruuna-oliiviöljykastike imeytyy vielä lämpimiin jyviin.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 45,
+    "category": "Salaatit",
+    "tags": ["italialainen", "kasvis", "salaatti"],
+    "ingredients": [
+      "300 g farroa (speltinjyviä)",
+      "250 g kirsikkatomaatteja, puolitettuina",
+      "200 g kurkkua, kuutioituna ja siemenet poistettuina",
+      "80 g rucolaa",
+      "60 g pecorino romanoa, ohuina lastuina",
+      "½ dl sitruunamehua",
+      "0,8 dl ekstra-neitsytoliiviöljyä",
+      "20 g lehtipersiljaa, hienonnettuna",
+      "suolaa",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Huuhtele farro. Keitä sitä isossa kattilassa runsaassa suolalla maustetussa vedessä 25–35 minuuttia, kunnes jyvät ovat kypsiä mutta yhä napakoita. Valuta ja levitä isolle vadille jäähtymään. Mausta heti suolalla ja tilkalla oliiviöljyä.",
+      "Kun farro on vielä lämmintä, sekoita se isossa kulhossa tomaattien, kurkun, persiljan ja rucolan kanssa. Vatkaa sitruunamehu, oliiviöljy ja ripaus suolaa ja kaada salaatin päälle. Sekoita hyvin, ripottele päälle pecorinolastut ja tarkista maku."
+    ]
+  },
+  {
+    "id": "forkrecipe-farrotto",
+    "title": "Farrotto al parmigiano – farrorisotto",
+    "description": "Farroa kypsennetään risoton tapaan kauhallinen kerrallaan, kunnes se on kermaista mutta napakan al dentea, ja viimeistellään kylmällä voilla ja parmesaanilla. Enemmän purutuntumaa ja pähkinäisyyttä kuin arboriosta tehdyssä risotossa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 35,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "kasvis", "risotto"],
+    "ingredients": [
+      "300 g helmiohraksi kuorittua farroa (farro perlato)",
+      "1 valkosipuli (n. 120 g), hienoksi kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1,2 dl kuivaa valkoviiniä",
+      "1,2 l lämmintä kasvis- tai kanalientä",
+      "80 g suolatonta voita, kylmänä ja kuutioina, jaettuna",
+      "80 g parmesaania, hienoksi raastettuna",
+      "4 oksaa tuoretta timjamia",
+      "2 rkl ekstra-neitsytoliiviöljyä",
+      "1 tl suolaa",
+      "mustapippuria",
+      "1 tl sitruunankuoren raastetta"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy ja 20 g voita leveässä paksupohjaisessa kattilassa miedolla lämmöllä. Lisää sipuli, valkosipuli, timjaminoksat ja ripaus suolaa. Kuullota usein sekoittaen 8–10 minuuttia, kunnes sipuli on täysin pehmeää mutta ei ruskistunut.",
+      "Lisää farro ja sekoita, kunnes jyvät ovat rasvan peitossa. Nosta lämpö keskitasolle ja paahda jatkuvasti sekoittaen 2 minuuttia, kunnes jyvät kiiltävät ja tuoksuvat pähkinäiseltä.",
+      "Kaada valkoviini joukkoon ja sekoita, kunnes se on lähes kokonaan imeytynyt, 2–3 minuuttia.",
+      "Pidä liemi lämpimänä toisessa kattilassa. Lisää lientä kauhallinen (1–1,2 dl) kerrallaan lähes jatkuvasti sekoittaen ja odota, että edellinen erä on lähes imeytynyt ennen seuraavaa. Pidä kattila tasaisella, rauhallisella kiehunnalla. 25–30 minuutin kuluttua farro on al dentea. Mausta suolalla matkan varrella. Risotto saa näyttää vielä löysältä.",
+      "Nosta kattila liedeltä ja poista timjaminoksat. Lisää loput kylmästä voista (60 g) ja kaikki parmesaani ja sekoita voimakkaasti kattilaa samalla ravistellen, kunnes risotto on kiiltävää ja kermaista. Lisää sitruunankuori ja mustapippuri. Anna levätä kannetta 2 minuuttia ja tarjoa heti lämmitetyistä lautasista."
+    ]
+  },
+  {
+    "id": "forkrecipe-fattoush",
+    "title": "Fattoush – libanonilainen leipäsalaatti",
+    "description": "Rapeaksi paahdettua pitaleipää, tomaattia, kurkkua, retiisiä ja yrttejä sumakilla maustetussa kastikkeessa. Sumak värjää salaatin pölyisen roosaksi ja tuo hedelmäistä happamuutta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Salaatit",
+    "tags": ["libanonilainen", "vegaaninen", "kasvis", "salaatti", "nopea"],
+    "ingredients": [
+      "2 pitaleipää, edellisen päivän",
+      "3 rkl ekstra-neitsytoliiviöljyä (leivän paahtamiseen)",
+      "3 kypsää tomaattia, lohkoina",
+      "2 pientä kurkkua, ohuina viipaleina",
+      "6 retiisiä, ohuina viipaleina",
+      "4 kevätsipulia, ohuina renkaina",
+      "1¼ dl lehtipersiljan lehtiä",
+      "½ dl tuoreita mintunlehtiä",
+      "Kastike:",
+      "3 rkl sitruunamehua",
+      "4 rkl ekstra-neitsytoliiviöljyä",
+      "2 tl sumakkia",
+      "1 tl suolaa",
+      "½ tl aleppo-chilihiutaleita tai chilihiutaleita"
+    ],
+    "instructions": [
+      "Revi tai leikkaa pitaleivät 3–4 cm:n epätasaisiksi paloiksi. Sekoita palat kulhossa oliiviöljyn kanssa ja levitä pellille yhdeksi kerrokseksi. Paahda 200 °C:ssa 8–12 minuuttia kerran kääntäen, kunnes palat ovat kullanruskeita ja täysin kovia. Vaihtoehtoisesti paista ne öljyssä pannulla. Anna jäähtyä kokonaan.",
+      "Sekoita sitruunamehu, oliiviöljy, sumakki, suola ja chili pienessä kulhossa tai purkissa. Kastikkeen kuuluu olla reilusti hapanta. Anna sumakin turvota 5 minuuttia.",
+      "Yhdistä tomaatit, kurkku, retiisit, kevätsipuli, persilja ja minttu leveässä kulhossa ja mausta ripauksella suolaa. Lisää kastike ja sekoita hyvin. Kääntele leipäpalat joukkoon vasta juuri ennen tarjoilua, varovasti, ja syö heti, ennen kuin leipä pehmenee."
+    ]
+  },
+  {
+    "id": "forkrecipe-feijoada",
+    "title": "Feijoada – brasilialainen mustapapupata",
+    "description": "Brasilian kansallisruoka: mustat pavut haudutetaan hitaasti savustetun porsaan, makkaran ja laakerin kanssa, kunnes liemi on mustaa ja samettista. Tarjotaan riisin, lehtikaalin ja appelsiininviipaleiden kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["brasilialainen", "liha", "pataruoka", "pavut", "juhla"],
+    "ingredients": [
+      "500 g kuivattuja mustia papuja, liotettuna yön yli",
+      "400 g kassleria tai savustettuja porsaan kylkiluita",
+      "250 g chorizoa (tai linguiça-makkaraa), 1 cm viipaleina",
+      "125 g pekonia, kuutioituna",
+      "2 valkosipulia, kuutioituna",
+      "6 valkosipulinkynttä, hienonnettuna",
+      "3 rkl rypsiöljyä tai laardia",
+      "3 laakerinlehteä",
+      "suolaa",
+      "mustapippuria",
+      "1 appelsiini, viipaleina"
+    ],
+    "instructions": [
+      "Paista pekoni laardissa isossa paksupohjaisessa padassa keskikovalla lämmöllä kullanruskeaksi, 4–5 minuuttia. Lisää kylkiluut tai potka ja ruskista kevyesti, 3 minuuttia per puoli. Lisää makkaraviipaleet ja ruskista 2 minuuttia per puoli. Tee erissä tarvittaessa. Nosta lihat sivuun.",
+      "Lisää sipuli samaan rasvaan ja kypsennä keskilämmöllä pohjaa raaputtaen 5–7 minuuttia pehmeäksi. Lisää valkosipuli ja laakerinlehdet ja kypsennä minuutti.",
+      "Palauta lihat pataan ja lisää valutetut pavut. Kaada joukkoon kylmää vettä niin, että se peittää ainekset 5 cm:n verran. Kuumenna kiehuvaksi ja kuori harmaa vaahto ensimmäisten 10 minuutin aikana. Laske lämpö miedoimmalle ja peitä osittain kannella.",
+      "Hauduta 2–2½ tuntia, sekoita puolen tunnin välein ja lisää vettä tarvittaessa, jotta pavut pysyvät peitossa. Kahden tunnin kohdalla poista luut ja nyhdä liha takaisin pataan. Poista laakerinlehdet. Liemen pitää sakeutua papujen tärkkelyksestä.",
+      "Maista ja mausta suolalla ja pippurilla; savustetut lihat ovat jo suolaisia. Tarjoa riisin päällä ja appelsiininviipaleiden kera, jotka raikastavat rasvaista pataa."
+    ]
+  },
+  {
+    "id": "forkrecipe-fermented-black-garlic",
+    "title": "Musta valkosipuli",
+    "description": "Kokonaisia valkosipuleita pidetään 60 asteessa kosteassa noin 40 päivää, jolloin hidas Maillard-reaktio muuttaa kirpeän valkosipulin pehmeiksi, mustiksi kynsiksi, jotka maistuvat balsamietikalta, tamarindilta ja paahdetulta valkosipulilta. Aika on ainoa ainesosa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "category": "Säilykkeet",
+    "tags": ["korealainen", "vegaaninen", "kasvis", "gluteeniton"],
+    "ingredients": [
+      "6 kokonaista valkosipulia, kuorimattomina, kuivina ja virheettöminä"
+    ],
+    "instructions": [
+      "Valitse kiinteitä valkosipuleita, joissa ei ole pehmeitä kohtia, hometta tai paljaita kynsiä. Kaupan valkosipuli on yleensä valmiiksi kuivattua. Älä kuori, leikkaa, öljyä tai suolaa sipuleita; ne laitetaan kokonaisina ja kuivina kuoriinsa. Leikkaa vain pitkät kuivat juuret, jos haluat.",
+      "Laita sipulit riisinkeittimeen lämpimänäpito-asetukselle (55–65 °C), haudutuspataan miedoimmalle asetukselle tai mustan valkosipulin valmistukseen tehtyyn laitteeseen. Tavoitelämpötila on 60 °C. Asettele sipulit yhteen kerrokseen niin, etteivät ne koske toisiinsa tai reunoihin. Älä lisää mitään muuta.",
+      "Pidä lämpötila 58–65 asteessa yhtäjaksoisesti 40 päivän ajan. Älä avaa kantta turhaan, sillä kosteus karkaa. Tarkista kerran viikossa lämpömittarilla. Noin 20 päivän kohdalla kynnet ovat pehmeitä, ja 30 päivän kohdalla ne ovat tumman ruskeita tai mustia.",
+      "Nosta valmiit sipulit laitteesta ja anna niiden kuivahtaa huoneenlämmössä peittämättä 1–2 vuorokautta, jolloin kynnet kiinteytyvät sopivan sitkeän pehmeiksi. Säilytä tiiviissä rasiassa jääkaapissa enintään 3 kuukautta tai pakasteessa vuoden. Käytä pastoissa, voissa, aiolissa, risotossa tai sellaisenaan leivän kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-fermented-garlic-honey",
+    "title": "Fermentoitu valkosipulihunaja",
+    "description": "Kuoritut valkosipulinkynnet upotetaan raakahunajaan ja annetaan fermentoitua huoneenlämmössä 3–6 viikkoa. Hunaja ohenee ja tummuu, ja valkosipuli pehmenee miedon makeaksi.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "category": "Säilykkeet",
+    "tags": ["kasvis", "fermentoitu", "hunaja", "valkosipuli"],
+    "ingredients": [
+      "200 g valkosipulinkynsiä, kuorittuina, kokonaisina ja täysin kuivina",
+      "500 g raakahunajaa (lämpökäsittelemätöntä)",
+      "1 rkl omenaviinietikkaa (valinnainen, happamuuden varmistamiseksi)"
+    ],
+    "instructions": [
+      "Kuori valkosipulinkynnet varovasti ehjiksi; kolhiintuneet kynnet voivat muuttua vihreiksi, mikä on vaaratonta. Varmista, että kynnet ovat täysin kuivia. Laita ne puhtaaseen, kuivaan lasipurkkiin. Kaada hunaja päälle niin, että kaikki kynnet peittyvät ja purkin yläosaan jää 2 cm tyhjää. Lisää halutessasi etikka. Sekoita kuivalla lusikalla ilmakuplien poistamiseksi.",
+      "Sulje kansi löyhästi, jotta hiilidioksidi pääsee pois. Pidä purkki huoneenlämmössä (18–25 °C) suojassa suoralta auringonvalolta. Käännä purkki ylösalaisin päivittäin ensimmäiset 1–2 viikkoa, jotta valkosipuli pysyy hunajan peitossa, ja avaa kantta hetkeksi 1–2 päivän välein.",
+      "Anna fermentoitua yhteensä 4–6 viikkoa ja maista hunajaa viikoittain kolmannesta viikosta alkaen. Hunaja on valmista, kun se on ohentunut lämpimän vaahterasiirapin kaltaiseksi, tummunut meripihkanväriseksi ja maku on makea, mieto ja hapan. Valkosipuli on valmista, kun sen kirpeys on lähes kadonnut.",
+      "Siirrä purkki jääkaappiin, kun maku on mieleinen. Käytä hunajaa lihan ja kasvisten lasitteena, salaatinkastikkeissa tai sellaisenaan. Kynnet voi syödä kokonaisina, viipaloida tai sekoittaa voihin ja kastikkeisiin. Ota kynsiä aina puhtaalla ja kuivalla välineellä."
+    ],
+    "notes": ["Turvallisuus: hunajan pH:n pitää laskea alle 4,6:n ensimmäisten viikkojen aikana; tarkista pH-liuskalla. Hävitä erä, jos siinä näkyy hometta tai se haisee pahalta. Ei alle 1-vuotiaille."]
+  },
+  {
+    "id": "forkrecipe-fermented-hot-sauce",
+    "title": "Fermentoitu chilikastike",
+    "description": "Elävä chilikastike: tuoreet cayenne- ja fresno-chilit maitohappokäytetään suolaliemessä kahden viikon ajan ja soseutetaan omaan liemeensä. Tuloksena kirkas, monivivahteinen ja pyöreä tulisuus, johon etikkakastikkeet eivät yllä.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["amerikkalainen", "vegaaninen", "kasvis", "fermentoitu", "tulinen"],
+    "ingredients": [
+      "250 g tuoreita cayenne-chilejä, kannat poistettuina",
+      "100 g fresno-chilejä tai punaisia jalapeñoja, kannat poistettuina",
+      "4 valkosipulinkynttä (n. 20 g), kuorittuina",
+      "11 g jodioimatonta suolaa (3 % kasvisten painosta)",
+      "5 dl suodatettua, klooritonta vettä"
+    ],
+    "instructions": [
+      "Punnitse chilit ja valkosipuli yhdessä ja laske 3 % niiden painosta suolaa (esim. 350 g kasviksia = 10,5 g suolaa). Liian vähäinen suola päästää pilaajabakteerit valloilleen, liika estää käymisen. Poista chileistä kannat, mutta jätä siemenet. Käytä käsineitä.",
+      "Liuota suola veteen huolellisesti. Pakkaa chilit ja valkosipuli tiiviisti puhtaaseen leveäsuiseen purkkiin. Kaada suolaliemi päälle niin, että kasvikset peittyvät ja purkin yläosaan jää 3–4 cm tilaa. Paina chilit liemen alle fermentointipainolla tai suolaliemellä täytetyllä minigrip-pussilla. Ilmaan jäävät chilit homehtuvat. Sulje löyhällä kannella tai käymisventtiilillä.",
+      "Anna käydä huoneenlämmössä (18–24 °C) 10–14 päivää. Liemi samenee parin päivän kuluttua, mikä on toivottavaa. Maista lientä päivittäin viidennestä päivästä alkaen; sen pitäisi muuttua suolaisesta miellyttävän happamaksi. Pinnalle muodostuva tasainen valkoinen kalvo on vaaratonta ja kuoritaan pois. Jos näet nukkaista tai värillistä hometta, hävitä koko erä.",
+      "Valuta chilit ja valkosipuli ja säästä koko liemi. Soseuta ne tehosekoittimessa lisäten lientä, kunnes rakenne on mieleinen, 2 minuuttia täydellä teholla. Mausta lisäliemellä tai tilkalla vettä. Siivilöi halutessasi sileäksi. Pullota puhtaisiin pulloihin ja säilytä jääkaapissa enintään 6 kuukautta."
+    ]
+  },
+  {
+    "id": "forkrecipe-financier",
+    "title": "Financier-leivokset",
+    "description": "Pienet suorakaiteen muotoiset mantelileivokset, joissa on rapea, karamellisoitunut kuori ja kostea, ruskistetulta voilta tuoksuva sisus. Kuori on kuin keksiä, keskusta kuin lämmintä frangipanea.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 40,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "manteli", "leivonnainen"],
+    "ingredients": [
+      "115 g suolatonta voita",
+      "100 g mantelijauhoa",
+      "130 g tomusokeria",
+      "30 g vehnäjauhoja",
+      "120 g kananmunan valkuaisia (n. 4)",
+      "ripaus suolaa",
+      "½ tl vaniljauutetta",
+      "voita vuokien voiteluun"
+    ],
+    "instructions": [
+      "Leikkaa voi pieniksi paloiksi ja sulata vaaleassa kattilassa keskilämmöllä. Kypsennä usein pyöritellen, kunnes vaahto laskee, pohjan maitoproteiinit ovat hasselpähkinänruskeita ja tuoksu muuttuu toffeemaiseksi. Siivilöi heti kulhoon ja jäähdytä huoneenlämpöiseksi.",
+      "Sekoita mantelijauho, tomusokeri, vehnäjauhot ja suola isossa kulhossa. Lisää vatkaamattomat valkuaiset ja vanilja ja sekoita sileäksi tahnaksi. Lisää jäähtynyt ruskistettu voi ja sekoita kiiltäväksi. Älä vatkaa ilmaa taikinaan. Anna levätä jääkaapissa 30 minuuttia.",
+      "Kuumenna uuni 200 asteeseen. Voitele financier-vuoat reilusti ja laita pakastimeen 5 minuutiksi. Täytä vuoat lähes täyteen. Paista 12–15 minuuttia, kunnes reunat ovat tumman kullanruskeita ja irtoavat vuoasta ja keskusta on hyytynyt."
+    ]
+  },
+  { "id": "forkrecipe-financiers", "skip": "lähes kaksoiskappale (financier-leivokset)" },
+  {
+    "id": "forkrecipe-fish-and-chips",
+    "title": "Fish and chips – olutleivitetty kala ja ranskalaiset",
+    "description": "Paksut turskafileet rapeassa, kullanruskeassa oluttaikinassa, jonka sisällä kala hautuu meheväksi. Kaverina kahteen kertaan paistetut paksut ranskalaiset ja mallasetikkaa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["brittiläinen", "kala", "peruna"],
+    "ingredients": [
+      "4 paksua turskafileetä (à 200 g), nahattomina",
+      "Taikina:",
+      "200 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "2,5 dl jääkylmää vaaleaa olutta (lager)",
+      "1 tl suolaa",
+      "50 g vehnäjauhoja kalan pinnalle",
+      "Ranskalaiset:",
+      "1,2 kg jauhoisia perunoita, kuorittuina ja 1,5 cm tikkuina",
+      "2 l rypsiöljyä friteeraukseen",
+      "Tarjoiluun:",
+      "mallasetikkaa",
+      "sormisuolaa"
+    ],
+    "instructions": [
+      "Leikkaa perunat paksuiksi tikuiksi. Huuhtele ne kylmässä vedessä 5 minuuttia ja kuivaa huolellisesti liinoilla. Kuumenna öljy syvässä, paksupohjaisessa kattilassa 140 asteeseen. Esipaista perunoita erissä 5–6 minuuttia, kunnes ne ovat pehmeitä ja vaaleita mutta eivät ruskistu. Nosta ritilälle valumaan. Esipaistetut ranskalaiset voivat odottaa tunnin.",
+      "Sekoita jauhot, leivinjauhe ja suola isossa, kylmässä kulhossa. Kaada jääkylmä olut joukkoon kerralla ja vatkaa nopeasti juuri ja juuri sekaisin. Taikina saa jäädä hieman paakkuiseksi. Jos se on liian paksua, lisää 1–2 rkl olutta. Pidä taikina kylmänä paistamiseen asti.",
+      "Nosta öljyn lämpötila 190 asteeseen. Kuivaa kalafileet hyvin ja pyöritä ne jauhoissa, ylimäärä pois ravistellen. Kasta fileet taikinaan, anna valua hetki ja laske öljyyn hitaasti. Paista 4–5 minuuttia, kunnes kuori on tasaisen kullanruskea. Paista enintään kaksi fileetä kerrallaan. Nosta ritilälle valumaan.",
+      "Paista ranskalaiset toiseen kertaan 190-asteisessa öljyssä erissä 3–4 minuuttia, kunnes ne ovat syvän kullanruskeita ja rapeita. Valvo koko ajan, sillä ne palavat nopeasti.",
+      "Suolaa kala ja ranskalaiset heti kuumina. Tarjoa lämpimiltä lautasilta ja anna jokaisen lisätä mallasetikkaa itse. Sopii tartarkastikkeen ja hernemuhennoksen kanssa. Syö heti, kun kuori on rapeimmillaan."
+    ]
+  },
+  {
+    "id": "forkrecipe-fish-fumet",
+    "title": "Kalafumet (vaalea kalaliemi)",
+    "description": "Nopea ja hienostunut kalaliemi: vähärasvaisen valkoisen kalan ruodot hiostetaan voissa purjon, fenkolin ja valkoviinin kanssa ja haudutetaan puolisen tuntia koskaan kiehuttamatta. Kirkas pohja kastikkeille, veloutélle ja kalan haudutukseen.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Muut",
+    "tags": ["ranskalainen", "kala", "liemi"],
+    "ingredients": [
+      "1 kg valkoisen kalan ruotoja ja päitä (esim. kampela, piikkikampela; kidukset poistettuina)",
+      "50 g suolatonta voita",
+      "1 purjo, valkoinen ja vaaleanvihreä osa, ohuina viipaleina",
+      "½ fenkolia, ohuina viipaleina",
+      "80 g herkkusieniä, viipaleina (valinnainen)",
+      "2,5 dl kuivaa valkoviiniä",
+      "1,3 l kylmää vettä",
+      "1 maustekimppu (persiljanvarsia, timjamia, laakerinlehti)",
+      "1 tl valkopippuria, kevyesti murskattuna",
+      "2 viipaletta sitruunaa (valinnainen)"
+    ],
+    "instructions": [
+      "Pilko ruodot kattilaan sopiviksi. Poista tummat kidukset ja huuhtele ruodot kylmällä vedellä, liota sitten 10–15 minuuttia kylmässä vedessä veren poistamiseksi. Valuta. Älä käytä rasvaista kalaa kuten lohta tai makrillia.",
+      "Sulata voi leveässä kattilassa miedolla lämmöllä. Lisää purjo, fenkoli ja sienet ja hiosta sekoittaen 5–6 minuuttia pehmeiksi ilman, että ne saavat väriä.",
+      "Lisää ruodot, nosta lämpö keskitasolle ja sekoita 2–3 minuuttia, kunnes ruotoihin tarttunut liha muuttuu valkoiseksi. Ei väriä tässäkään.",
+      "Kaada valkoviini kattilaan ja raaputa pohja. Keitä 3–4 minuuttia, kunnes viini on noin puolittunut.",
+      "Lisää kylmää vettä niin, että se juuri ja juuri peittää ruodot, sekä maustekimppu, valkopippuri ja sitruunaviipaleet. Kuumenna hitaasti hiljaiselle kiehunnalle ja kuori harmaa vaahto. Hauduta tasan 25–30 minuuttia, ei kauempaa, ettei liemi muutu kitkeräksi.",
+      "Kauho liemi kostealla harsokankaalla vuoratun siivilän läpi puhtaaseen astiaan, älä kaada kattilasta. Älä paina ruotoja. Jäähdytä nopeasti jäävesihauteessa ja säilytä jääkaapissa enintään kaksi päivää tai pakasta. Jätä suolaamatta."
+    ]
+  },
+  {
+    "id": "forkrecipe-flamiche",
+    "title": "Flamiche – pohjoisranskalainen purjopiirakka",
+    "description": "Rapea voitaikinapohja, jonka täytteenä on hitaasti haudutettua purjoa, kermaa ja gruyèreä. Yksinkertainen, lämmittävä ja syvän suolainen piirakka Pohjois-Ranskasta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 120,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "kasvis", "piirakka", "uuniruoka"],
+    "ingredients": [
+      "Pohja:",
+      "200 g vehnäjauhoja",
+      "110 g kylmää suolatonta voita, kuutioina",
+      "4 rkl jääkylmää vettä",
+      "½ tl suolaa",
+      "Täyte:",
+      "600 g purjoa (valkoiset ja vaaleanvihreät osat), 1 cm viipaleina",
+      "40 g suolatonta voita",
+      "2 dl kuohukermaa",
+      "2 kananmunaa",
+      "100 g gruyère- tai comtéjuustoa, hienoksi raastettuna",
+      "suolaa",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja suola. Nypi kylmä voi jauhoihin sormenpäillä nopeasti karkeaksi muruksi. Lisää jääkylmä vesi lusikallinen kerrallaan ja sekoita haarukalla, kunnes taikina juuri ja juuri pysyy koossa. Taputtele kiekoksi, kääri kelmuun ja jäähdytä 30 minuuttia. Kauli 3 mm paksuksi ja vuoraa 24–26 cm piirakkavuoka. Pistele pohja haarukalla ja jäähdytä 15 minuuttia. Esipaista 190 °C:ssa leivinpaperin ja kuivattujen papujen kanssa 15 minuuttia, poista pavut ja paista vielä 8–10 minuuttia vaalean kullanruskeaksi.",
+      "Pese purjoviipaleet huolellisesti ja valuta. Sulata voi leveässä pannussa miedolla lämmöllä, lisää purjot ja ripaus suolaa. Hauduta kannen alla miedoimmalla lämmöllä välillä sekoittaen 20–25 minuuttia, kunnes purjot ovat täysin pehmeitä. Poista kansi ja haihduta neste 5 minuutissa. Jäähdytä hieman.",
+      "Vatkaa kerma, kananmunat ja puolet juustosta. Mausta reilusti suolalla ja valkopippurilla. Kääntele purjot joukkoon.",
+      "Kaada täyte esipaistettuun pohjaan ja ripottele päälle loput juustosta. Paista pellin päällä 180 °C:ssa 30–35 minuuttia, kunnes täyte on juuri hyytynyt ja pinta kullanruskea."
+    ]
+  },
+  {
+    "id": "forkrecipe-flan",
+    "title": "Flan de leche – espanjalainen karamellivanukas",
+    "description": "Vesihauteessa juuri ja juuri hyytymään paistettu silkkinen vanukas, joka kumotaan niin, että pohjan karvasmakea karamelli valuu sen kyljille. Tumman karamellin ja vaalean, munaisen vanukkaan kontrasti on espanjalaisen keittiön hienoimpia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Jälkiruoat",
+    "tags": ["espanjalainen", "kasvis", "vanukas", "juhla"],
+    "ingredients": [
+      "Karamelli:",
+      "1¾ dl sokeria",
+      "3 rkl vettä",
+      "Vanukas:",
+      "5 dl täysmaitoa",
+      "1 tlk (397 g) makeutettua kondensoitua maitoa",
+      "3 kananmunaa",
+      "2 kananmunan keltuaista",
+      "1 tl vaniljauutetta",
+      "ripaus suolaa"
+    ],
+    "instructions": [
+      "Kuumenna sokeri ja vesi pienessä paksupohjaisessa kattilassa keskikovalla lämmöllä sekoittamatta, kattilaa tarvittaessa pyöritellen. Kun siirappi alkaa saada väriä, seuraa tarkasti. Nosta liedeltä, kun karamelli on syvän meripihkanväristä. Kaada heti 20 cm:n pyöreään vuokaan tai kuuteen annosvuokaan ja kallistele, jotta pohja peittyy.",
+      "Vatkaa kananmunat ja keltuaiset kevyesti ilman, että seokseen tulee ilmaa. Vatkaa joukkoon kondensoitu maito, maito, vanilja ja suola. Siivilöi seos hienon siivilän läpi.",
+      "Kuumenna uuni 160 asteeseen. Kaada vanukasseos varovasti jähmettyneen karamellin päälle. Aseta vuoka uunipannuun ja kaada pannuun kiehuvaa vettä puoleen väliin vuoan korkeutta. Paista 50–60 minuuttia ja tarkista 45 minuutin kohdalla; keskusta saa hytkyä hieman. Jäähdytä ja anna jähmettyä jääkaapissa vähintään pari tuntia.",
+      "Kierrä ohut veitsi reunoja pitkin. Aseta vuoan päälle syvä tarjoiluvati ja käännä yhdellä liikkeellä ympäri. Odota 10 sekuntia ja nosta vuoka pois, jolloin karamelli valuu kyljille. Jos vanukas ei irtoa, jäähdytä vielä 30 minuuttia ja yritä uudelleen."
+    ]
+  },
+  {
+    "id": "forkrecipe-flour-tortillas",
+    "title": "Meksikolaiset vehnätortillat",
+    "description": "Laardilla mureutetut vehnätortillat kaulitaan ohuiksi ja paistetaan kuivalla pannulla kuplaisiksi ja taipuisiksi. Täydellinen kääre, joka ei kilpaile täytteen kanssa.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 75,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["meksikolainen", "leipä", "tortilla"],
+    "ingredients": [
+      "500 g vehnäjauhoja",
+      "60 g laardia tai leivontarasvaa",
+      "2,75 dl lämmintä vettä (n. 50 °C)",
+      "1 tl suolaa",
+      "1 tl leivinjauhetta"
+    ],
+    "instructions": [
+      "Sekoita jauhot, suola ja leivinjauhe isossa kulhossa. Lisää rasva pieninä paloina ja nypi se sormenpäillä jauhoihin karkeaksi muruksi, jossa näkyy vielä herneen kokoisia rasvapaloja.",
+      "Kaada lämmin vesi joukkoon ja sekoita haarukalla karkeaksi taikinaksi. Vaivaa 2–3 minuuttia sileäksi; taikinaa käsitellään vähemmän kuin leipätaikinaa. Peitä kostealla liinalla ja anna levätä 30 minuuttia.",
+      "Jaa taikina 8–10 palloon. Kauli kevyesti jauhotetulla alustalla kukin pallo ohueksi, halkaisijaltaan 20–22 cm levyksi keskeltä reunoille, levyä välillä kääntäen. Ihannepaksuus on 1–2 mm. Pidä kaulitut tortillat liinan alla.",
+      "Kuumenna kuiva valurautapannu kuumaksi. Paista tortilloja 45–60 sekuntia per puoli, kunnes pintaan tulee kullanruskeita kuplia. Pinoa valmiit tortillat puhtaan liinan väliin, jotta ne pysyvät taipuisina."
+    ]
+  }
+]
