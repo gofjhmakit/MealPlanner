@@ -340,9 +340,9 @@ function ByAisle({ items, amountText, recipes }: { items: ShoppingItem[]; amount
   const visible = useHideChecked(items)
   const groups = SHOPPING_CATEGORIES.map((c) => [c, visible.filter((i) => i.category === c).sort((a, b) => Number(a.checked) - Number(b.checked) || a.name.localeCompare(b.name, 'fi'))] as const).filter(([, l]) => l.length)
   return (
-    <div className="grid gap-4 lg:grid-cols-2 3xl:grid-cols-3">
+    <div className="gap-4 lg:columns-2 3xl:columns-3 [&>*]:mb-4 [&>*]:break-inside-avoid">
       {groups.map(([category, list]) => (
-        <section key={category} className="h-fit overflow-hidden rounded-[22px] border border-line bg-surface">
+        <section key={category} className="overflow-hidden rounded-[22px] border border-line bg-surface">
           <h3 className="flex items-center justify-between border-b border-line px-4 py-2.5 text-xs font-semibold uppercase tracking-wider text-muted">
             {CATEGORY_LABELS[category]}
             <span className="tabular">{list.filter((i) => !i.checked).length} jäljellä</span>
@@ -369,9 +369,9 @@ function ByDish({ items, amountText, recipes }: { items: ShoppingItem[]; amountT
     groups.set(key, g)
   }
   return (
-    <div className="grid gap-4 lg:grid-cols-2 3xl:grid-cols-3">
+    <div className="gap-4 lg:columns-2 3xl:columns-3 [&>*]:mb-4 [&>*]:break-inside-avoid">
       {[...groups.entries()].map(([key, g]) => (
-        <section key={key} className="h-fit overflow-hidden rounded-[22px] border border-line bg-surface">
+        <section key={key} className="overflow-hidden rounded-[22px] border border-line bg-surface">
           <h3 className="flex items-center gap-3 border-b border-line px-4 py-2.5">
             <MealThumb recipe={g.recipeId ? recipes?.get(g.recipeId) : undefined} size={28} />
             <span className="min-w-0 flex-1 truncate text-sm font-semibold">{g.title}</span>

@@ -2,6 +2,8 @@
  * Household and goal editors, shared by the first-run setup (/aloitus) and the profile page.
  */
 import { Plus, Trash2 } from 'lucide-react'
+import { useState } from 'react'
+import { parseAllergies } from '../../domain/allergies'
 import { newId } from '../../domain/recipeIngredients'
 import { ACTIVITY_LEVELS, AIM_LABELS, bmi, maintenanceEnergy, PERSON_KINDS, suggestTargets } from '../../domain/goals'
 import type { Goal, GoalAim, Person } from '../../domain/types'
@@ -53,12 +55,39 @@ export function HouseholdEditor({ people, onChange }: { people: Person[]; onChan
               <Trash2 size={16} />
             </button>
           )}
+          <AllergyInput person={p} onChange={(allergies) => update(p.id, { allergies })} />
         </div>
       ))}
       <button onClick={() => onChange([...people, newPerson()])} className="flex w-full items-center justify-center gap-2 rounded-2xl border border-dashed border-line py-3 text-sm font-medium text-brand hover:bg-brand-soft/40">
         <Plus size={16} /> Lisää henkilö
       </button>
+      <p className="px-1 text-xs leading-relaxed text-muted">
+        Allergioissa kirjoita raaka-aineet sellaisinaan: ei <i>sitrushedelmät</i> vaan <i>appelsiini, sitruuna, lime</i>. Ehdotuksiin ei
+        tule reseptejä, joiden nimessä tai aineksissa sana mainitaan (”papu” löytää myös pavut ja kidneypavut, mutta ei linssejä). Tämä
+        ei ole aukoton – tarkista aina ainekset itse.
+      </p>
     </div>
+  )
+}
+
+/** Free text so "papu, " can be typed; saved as a list of words on every keystroke. */
+function AllergyInput({ person, onChange }: { person: Person; onChange: (allergies: string[]) => void }) {
+  const [text, setText] = useState(() => (person.allergies ?? []).join(', '))
+  return (
+    <label className="order-last flex w-full items-center gap-2 rounded-xl bg-surface-2 px-3 py-2 text-sm">
+      <span className="shrink-0 text-xs font-medium text-ink-2">Ei voi syödä</span>
+      <input
+        value={text}
+        onChange={(e) => {
+          setText(e.target.value)
+          onChange(parseAllergies(e.target.value))
+        }}
+        placeholder="esim. papu, sitruuna"
+        aria-label={`${person.name || 'Henkilö'}: raaka-aineet, joille on allerginen`}
+        className="min-w-0 flex-1 bg-transparent outline-none placeholder:text-muted"
+        maxLength={400}
+      />
+    </label>
   )
 }
 
@@ -153,7 +182,8 @@ export function BodyForm({ goal, onChange }: { goal: Goal; onChange: (g: Goal) =
       {targets && (
         <div className="rounded-2xl bg-brand-soft/60 p-4">
           <p className="text-sm text-ink-2">
-            Kulutuksesi on arviolta <b>{formatNumber(maintenanceEnergy(goal), 0)} kcal</b> päivässä (BMI {formatNumber(bmi(goal), 1)}). Ehdotetut päivätavoitteet:
+            Kulutuksesi on arviolta <b>{formatNumber(maintenanceEnergy(goal), 0)} kcal</b> päivässä (BMI {formatNumber(bmi(goal), 1)}).
+            {AIM_LABELS[goal.aim].deltaKcal !== 0 && <> Tavoite ”{AIM_LABELS[goal.aim].label}”: {AIM_LABELS[goal.aim].deltaKcal > 0 ? '+' : '−'}{Math.abs(AIM_LABELS[goal.aim].deltaKcal)} kcal.</>} Ehdotetut päivätavoitteet:
           </p>
           <div className="mt-3 grid grid-cols-3 gap-2 text-center">
             <Target value={targets.energyKcal!} unit="kcal" label="energia" />

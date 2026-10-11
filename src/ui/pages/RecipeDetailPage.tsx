@@ -26,6 +26,7 @@ import {
 import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router'
 import { copyRecipeToUser, deleteRecipe, setInCollection, setRecipeNotes, setRecipeRating, toggleFavourite } from '../../db/repo'
+import { allergensIn } from '../../domain/allergies'
 import { getIngredient } from '../../domain/ingredients'
 import { CONFIDENT_THRESHOLD, NUTRIENT_INFO, NUTRIENT_KEYS, type NutritionLine } from '../../domain/nutrition'
 import { splitAmountText } from '../../domain/ingredientParser'
@@ -68,6 +69,7 @@ export function RecipeDetailPage() {
 
 function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const { fineli, settings } = useApp()
+  const allergyHits = useMemo(() => settings.household.flatMap((p) => { const words = allergensIn(recipe, p.allergies ?? []); return words.length ? [{ name: p.name, words }] : [] }), [recipe, settings.household])
   const toast = useToast()
   const navigate = useNavigate()
   const back = useBack('/reseptit')
@@ -198,6 +200,11 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
         <h2 className="font-display text-xl font-semibold">Ainekset</h2>
         <span className="no-print"><Stepper value={servings} onChange={setServings} label="Annokset" min={0.5} step={servings < 2 ? 0.5 : 1} suffix="hlö" size="sm" /></span>
       </div>
+      {allergyHits.length > 0 && (
+        <p role="note" className="mb-3 rounded-xl bg-accent-soft px-3 py-2 text-sm text-ink">
+          <b className="font-semibold text-accent">Huom, allergia:</b> {allergyHits.map((h) => `${h.words.join(', ')} (${h.name})`).join(' · ')}. Tarkista ainekset itse – haku ei ole aukoton.
+        </p>
+      )}
       <p className="-mt-1 mb-2 text-xs text-muted">
         {buyCount} ostettavaa{factor !== 1 ? ` · skaalattu ${formatNumber(recipe.servings, 1)} → ${formatNumber(servings, 1)} annosta` : ''}
       </p>

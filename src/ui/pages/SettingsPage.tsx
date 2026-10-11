@@ -99,7 +99,9 @@ export function SettingsPage() {
   return (
     <div className="fade-in">
       <PageHeader title="Asetukset" subtitle="Muutokset tallentuvat heti – kaikki tiedot ovat vain tällä laitteella." />
-      <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 lg:grid-cols-2">
+      <div className="space-y-5">
+      {/* Columns, not a grid row: panels of different heights stack without holes. */}
+      <div className="gap-5 lg:columns-2 [&>*]:mb-5 [&>*]:break-inside-avoid">
         <Link to="/profiili" className="flex items-center gap-4 rounded-[22px] border border-line bg-surface p-5 transition hover:border-brand">
           <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-brand-soft text-brand"><User size={20} /></span>
           <span className="min-w-0 flex-1">
@@ -200,10 +202,11 @@ export function SettingsPage() {
           <SupplementaryDataInfo />
           <Button variant="secondary" size="sm" className="mt-3 h-auto min-h-9 max-w-full whitespace-normal py-1.5 text-left" icon={<RefreshCw size={14} className={reloading ? 'animate-spin' : ''} />} onClick={reloadFineli}>Lataa ravintotiedot ja katalogireseptit uudelleen</Button>
         </Card>
+      </div>
 
         <OpenRecipeSources />
 
-        <Card className="p-5 lg:col-span-2">
+        <Card className="p-5">
           <SectionTitle>Yksityisyys ja tekijänoikeudet</SectionTitle>
           <ul className="list-disc space-y-1.5 pl-5 text-sm text-ink-2">
             <li>Reseptit, ruokalistat, ostoslistat ja asetukset tallennetaan selaimen IndexedDB-tietokantaan tällä laitteella. Sovellus ei käytä analytiikkaa eikä pilvipalveluita.</li>

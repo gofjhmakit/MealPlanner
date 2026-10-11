@@ -3,6 +3,7 @@
  * swaps and the command bar, and the household's serving count and daily target.
  */
 import { useMemo } from 'react'
+import { householdAllergies } from '../domain/allergies'
 import { householdServings } from '../domain/goals'
 import { recipeNutritionCached } from '../domain/recipeInfo'
 import { buildCandidates, type Candidate } from '../domain/weekPlanner'
@@ -10,20 +11,21 @@ import type { Recipe } from '../domain/types'
 import { useApp } from './AppContext'
 import { useAllRecipes, useFavouriteIds } from './hooks'
 
-let memo: { recipes: Recipe[]; favs: Set<string>; version: number; value: Candidate[] } | null = null
+let memo: { recipes: Recipe[]; favs: Set<string>; version: number; allergies: string; value: Candidate[] } | null = null
 
 export function useCandidates(): Candidate[] | undefined {
   const { fineli, settings, nutritionCache, dataVersion } = useApp()
   const recipes = useAllRecipes()
   const favs = useFavouriteIds()
+  const allergies = householdAllergies(settings.household).join(',')
   return useMemo(() => {
     if (!recipes) return undefined
-    if (memo && memo.recipes === recipes && memo.favs === favs && memo.version === dataVersion) return memo.value
+    if (memo && memo.recipes === recipes && memo.favs === favs && memo.version === dataVersion && memo.allergies === allergies) return memo.value
     const ctx = { lookup: fineli, pantry: settings.pantry, nutritionCache }
-    const value = buildCandidates(recipes, fineli, favs, (r) => recipeNutritionCached(r, ctx).perServing.energyKcal)
-    memo = { recipes, favs, version: dataVersion, value }
+    const value = buildCandidates(recipes, fineli, favs, (r) => recipeNutritionCached(r, ctx).perServing.energyKcal, allergies ? allergies.split(',') : [])
+    memo = { recipes, favs, version: dataVersion, allergies, value }
     return value
-  }, [recipes, favs, fineli, settings.pantry, nutritionCache, dataVersion])
+  }, [recipes, favs, fineli, settings.pantry, nutritionCache, dataVersion, allergies])
 }
 
 /** Servings to cook (from the household, else the old default) and the daily kcal target. */

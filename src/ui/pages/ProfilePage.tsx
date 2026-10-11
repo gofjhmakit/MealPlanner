@@ -2,7 +2,7 @@
  * Profiili ja tavoitteet: household, aim and body data, daily targets and the weight log.
  */
 import { Trash2 } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { getUserSettings, saveUserSettings } from '../../db/repo'
 import { formatDate } from '../../domain/dates'
 import { householdServings, suggestTargets } from '../../domain/goals'
@@ -42,27 +42,29 @@ export function ProfilePage() {
     await saveUserSettings({ ...latest, household: named, goal: valid ? (v.aim ? { ...v.goal, aim: v.aim } : null) : latest.goal, targets: v.targets, defaultServings: householdServings(named, latest.defaultServings), onboarded: true })
   })
 
-  const suggested = aim ? suggestTargets({ ...goal, aim }) : null
+  const suggested = aim && goalValid ? suggestTargets({ ...goal, aim }) : null
+  // Daily targets that still are the previous suggestion follow the aim and body data; edited ones are kept.
+  const lastSuggested = useRef(suggested)
+  useEffect(() => {
+    const prev = lastSuggested.current
+    if (!suggested) return
+    lastSuggested.current = suggested
+    if (!prev) return
+    setTargets((t) => (Object.keys(prev) as (keyof NutritionTargets)[]).every((k) => t[k] === prev[k]) ? { ...t, ...suggested } : t)
+  }, [suggested?.energyKcal, suggested?.protein, suggested?.fibre]) // eslint-disable-line react-hooks/exhaustive-deps
   return (
     <div className="fade-in">
       <PageHeader title="Profiili ja tavoitteet" subtitle="Muutokset tallentuvat heti – vain tälle laitteelle." />
-      <div className="grid grid-cols-[minmax(0,1fr)] items-start gap-5 xl:grid-cols-2 3xl:grid-cols-3">
-        <Panel title="Kotitalous">
+      {/* Two independent columns on wide screens, so a tall Tavoite panel doesn't leave a hole under Kotitalous. On phones the order is Kotitalous, Tavoite, Päivätavoitteet, Painohistoria. */}
+      <div className="flex flex-col gap-5 xl:grid xl:grid-cols-2 xl:items-start">
+        <div className="contents xl:flex xl:flex-col xl:gap-5">
+        <Panel title="Kotitalous" className="order-1 xl:order-none">
           <p className="-mt-1 mb-4 text-sm text-muted">
             Ruoka tehdään {householdServings(people, settings.defaultServings)} annokselle. Ensimmäinen henkilö olet sinä – tavoitteet koskevat sinua.
           </p>
           <HouseholdEditor people={people.length ? people : []} onChange={setPeople} />
         </Panel>
-        <Panel title="Tavoite">
-          <AimPicker aim={aim} onChange={setAim} />
-          {aim && (
-            <div className="mt-5">
-              <BodyForm goal={goal} onChange={setGoal} />
-              {!goalValid && <p className="mt-2 text-xs text-bad">Tarkista ikä (14–100), pituus (120–230 cm) ja paino (30–300 kg) – tavoite tallentuu, kun arvot ovat kunnossa.</p>}
-            </div>
-          )}
-        </Panel>
-        <Panel title="Päivätavoitteet" action={suggested && <button onClick={() => setTargets((t) => ({ ...t, ...suggested }))} className="text-sm font-medium text-brand hover:underline">Käytä ehdotusta</button>}>
+        <Panel title="Päivätavoitteet" className="order-3 xl:order-none" action={suggested && <button onClick={() => setTargets((t) => ({ ...t, ...suggested }))} className="text-sm font-medium text-brand hover:underline">Käytä ehdotusta</button>}>
           <p className="-mt-1 mb-4 text-sm text-muted">Tyhjä kenttä = ei tavoitetta. Energia, proteiini ja kuitu näkyvät Tänään-näkymässä.</p>
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 xl:grid-cols-2 2xl:grid-cols-4">
             {TARGET_FIELDS.map((f) => (
@@ -81,7 +83,18 @@ export function ProfilePage() {
             ))}
           </div>
         </Panel>
-        <Panel title="Painohistoria">
+        </div>
+        <div className="contents xl:flex xl:flex-col xl:gap-5">
+        <Panel title="Tavoite" className="order-2 xl:order-none">
+          <AimPicker aim={aim} onChange={setAim} />
+          {aim && (
+            <div className="mt-5">
+              <BodyForm goal={{ ...goal, aim }} onChange={setGoal} />
+              {!goalValid && <p className="mt-2 text-xs text-bad">Tarkista ikä (14–100), pituus (120–230 cm) ja paino (30–300 kg) – tavoite tallentuu, kun arvot ovat kunnossa.</p>}
+            </div>
+          )}
+        </Panel>
+        <Panel title="Painohistoria" className="order-4 xl:order-none">
           {settings.weights.length === 0 ? (
             <p className="text-sm text-muted">Ei vielä merkintöjä. Lisää paino Tänään-näkymästä.</p>
           ) : (
@@ -104,6 +117,7 @@ export function ProfilePage() {
             </ul>
           )}
         </Panel>
+        </div>
       </div>
     </div>
   )

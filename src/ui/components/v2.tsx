@@ -85,8 +85,8 @@ export function Panel({ title, action, children, className, as: As = 'section' }
   return (
     <As className={cx('rounded-[22px] border border-line bg-surface p-5 shadow-[0_1px_2px_rgb(var(--c-shadow)/0.04)]', className)}>
       {(title || action) && (
-        <div className="mb-3 flex items-center justify-between gap-3">
-          {title && <h2 className="font-display text-lg font-semibold tracking-tight">{title}</h2>}
+        <div className="mb-3 flex flex-wrap items-center justify-between gap-x-3 gap-y-2">
+          {title && <h2 className="font-display text-lg font-semibold tracking-tight [text-wrap:balance]">{title}</h2>}
           {action}
         </div>
       )}

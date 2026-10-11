@@ -95,7 +95,7 @@ export function OnboardingPage() {
           {aim && (
             <div className="mt-6">
               <p className="mb-3 text-sm font-medium">Tiedot kulutuksen arvioon</p>
-              <BodyForm goal={goal} onChange={setGoal} />
+              <BodyForm goal={{ ...goal, aim }} onChange={setGoal} />
             </div>
           )}
           <Button size="lg" className="mt-6 w-full" onClick={() => setStep(3)}>Jatka</Button>

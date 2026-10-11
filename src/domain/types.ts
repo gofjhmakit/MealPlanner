@@ -270,6 +270,8 @@ export const personSchema = z.object({
   name: z.string().trim().min(1).max(40),
   kind: z.enum(['adult', 'teen', 'child']),
   portion: z.number().min(0.1).max(3),
+  /** Ingredients this person can't eat, as typed ("papu", "appelsiini"); see domain/allergies.ts. */
+  allergies: z.array(z.string().trim().min(1).max(60)).max(50).optional(),
 })
 export type Person = z.infer<typeof personSchema>
 

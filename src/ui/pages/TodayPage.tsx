@@ -502,8 +502,9 @@ function Micronutrients({ days, nutrition }: { days: string[]; nutrition: PlanNu
   const satE = kcal ? (avg('saturatedFat') * 9 * 100) / kcal : 0
   const salt = avg('salt')
   return (
-    <Panel title="Viikon ravintoaineet" action={<span className="text-xs text-muted">% saantisuosituksesta · arvio</span>}>
-      <div className="grid grid-cols-1 gap-x-6 gap-y-2.5 sm:grid-cols-2">
+    <Panel title="Viikon ravintoaineet">
+      {/* Sized by the panel, not the screen: the panel is narrow in the three-column layout. */}
+      <div className="@container"><div className="grid grid-cols-1 gap-x-6 gap-y-2.5 @md:grid-cols-2">
         {REFERENCES.map((r) => {
           const pct = (avg(r.key) / r.ref) * 100
           return (
@@ -524,8 +525,8 @@ function Micronutrients({ days, nutrition }: { days: string[]; nutrition: PlanNu
           <MiniBar value={satE} max={10} tone={satE > 10 ? 'fat' : 'brand'} className="flex-1" />
           <span className="tabular w-14 shrink-0 text-right text-muted">{formatNumber(satE, 0)} E%</span>
         </div>
-      </div>
-      <p className="mt-3 text-xs text-muted">Keskiarvo {planned.length} suunnitellusta päivästä. Vain suunnitelluista aterioista, ei muista ruoista.</p>
+      </div></div>
+      <p className="mt-3 text-xs text-muted">Prosentit saantisuosituksesta, arvio. Keskiarvo {planned.length} suunnitellusta päivästä. Vain suunnitelluista aterioista, ei muista ruoista.</p>
     </Panel>
   )
 }
@@ -539,7 +540,7 @@ function TonightCard({ items, recipes, pantry, hour }: { items: MealItem[]; reci
   const home = lines.filter((i) => inPantry({ key: i.name.toLowerCase(), name: i.name }))
   const need = lines.filter((i) => !home.includes(i))
   return (
-    <Panel title="Tämän illan ruokaan" action={<span className="rounded-full bg-accent-soft px-2.5 py-1 text-xs font-semibold text-accent">{need.length} ainesta</span>}>
+    <Panel title="Tämän illan ruokaan" action={<span className="whitespace-nowrap rounded-full bg-accent-soft px-2.5 py-1 text-xs font-semibold text-accent">{need.length} ainesta</span>}>
       <p className="-mt-1 mb-3 truncate text-sm text-muted">{recipe.title}</p>
       <ul className="divide-y divide-line">
         {need.slice(0, 6).map((i) => (

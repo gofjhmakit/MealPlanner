@@ -9,6 +9,7 @@
  *
  * Pure and deterministic for a given seed, so plans can be regenerated and tested.
  */
+import { allergensIn } from './allergies'
 import { addDays, parseISODate } from './dates'
 import { getIngredient } from './ingredients'
 import type { FineliLookup } from './matcher'
@@ -74,6 +75,8 @@ export interface Candidate {
   special: ReturnType<typeof recipeSpecialDiets>
   text: string
   favourite: boolean
+  /** Household allergy words the recipe mentions: never suggested. */
+  allergens: string[]
 }
 
 /** Share of the daily calorie maximum each slot aims for (normalized over the planned slots). */
@@ -114,7 +117,7 @@ function proteinOf(r: Recipe): string {
   return 'other'
 }
 
-export function buildCandidates(recipes: Recipe[], lookup: FineliLookup, favourites: Set<string>, kcalOf?: (r: Recipe) => number): Candidate[] {
+export function buildCandidates(recipes: Recipe[], lookup: FineliLookup, favourites: Set<string>, kcalOf?: (r: Recipe) => number, allergies: string[] = []): Candidate[] {
   return recipes.map((recipe) => ({
     recipe,
     kinds: kindsOf(recipe),
@@ -125,6 +128,7 @@ export function buildCandidates(recipes: Recipe[], lookup: FineliLookup, favouri
     special: recipeSpecialDiets(recipe, lookup),
     text: searchText(recipe),
     favourite: favourites.has(recipe.id),
+    allergens: allergensIn(recipe, allergies),
   }))
 }
 
@@ -169,6 +173,7 @@ function eligible(c: Candidate, opts: PlanOptions, kind: Kind, date: string, bud
   if (opts.glutenFree && !c.special.glutenFree) return false
   if (opts.milkFree && !c.special.milkFree) return false
   if (opts.lactoseFree && !c.special.lactoseFree) return false
+  if (c.allergens.length) return false
   if (opts.avoid.some((w) => matchesQuery(c.text, w))) return false
   const limit = isWeekend(date) ? opts.maxTimeWeekend : opts.maxTimeWeekday
   if (limit && !relax.includes('time') && c.time !== null && c.time > limit) return false

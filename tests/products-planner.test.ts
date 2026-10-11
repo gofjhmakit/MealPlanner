@@ -20,6 +20,7 @@ import {
   setMealServings,
   setRecipeRating,
 } from '../src/db/repo'
+import { allergensIn, householdAllergies, parseAllergies } from '../src/domain/allergies'
 import { addDays } from '../src/domain/dates'
 import { computeRecipeNutrition } from '../src/domain/nutrition'
 import { findProduct, productMatchIndex, productToFood } from '../src/domain/products'
@@ -233,6 +234,26 @@ describe('automatic meal planning', () => {
     const plan = planMeals(cands(), { ...base, dates: week.slice(0, 2), slots: ['dinner'], leftovers: false, avoidRepeats: true, alreadyPlanned: ['chicken', 'beef', 'salmon', 'lentil'] })
     expect(plan.meals).toHaveLength(2)
     expect(plan.meals.some((m) => ['chicken', 'beef', 'salmon', 'lentil'].includes(m.recipeId))).toBe(false)
+  })
+
+  it('never suggests recipes with a household allergy word', () => {
+    const plan = planMeals(buildCandidates(mains, store, new Set(), undefined, ['peruna']), { ...base, leftovers: false })
+    expect(plan.meals.length).toBeGreaterThan(0)
+    expect(plan.meals.some((m) => ['beef', 'salmon', 'slow'].includes(m.recipeId))).toBe(false)
+  })
+
+  it('matches allergy words literally, with Finnish word forms and compounds', () => {
+    const r = (lines: string[], title = 'Ruoka') => recipe('x', lines, { title })
+    expect(allergensIn(r(['1 tlk (400 g) kidneypapuja']), ['papu'])).toEqual(['papu'])
+    expect(allergensIn(r(['2 dl valkoisia papuja']), ['papu'])).toEqual(['papu'])
+    expect(allergensIn(r(['400 g pavut']), ['papu'])).toEqual(['papu'])
+    expect(allergensIn(r(['400 g papuja']), ['pavut'])).toEqual(['pavut'])
+    expect(allergensIn(r(['2 dl punaisia linssejä', '2 dl kahvia']), ['papu'])).toEqual([])
+    expect(allergensIn(r(['1 dl appelsiininmehua']), ['appelsiini', 'sitruuna'])).toEqual(['appelsiini'])
+    expect(allergensIn(r(['2 rkl maapähkinävoita']), ['pähkinä'])).toEqual(['pähkinä'])
+    expect(allergensIn(r(['1 sitruuna']), [])).toEqual([])
+    expect(householdAllergies([{ id: 'a', name: 'A', kind: 'adult', portion: 1, allergies: ['Papu', ' papu '] }, { id: 'b', name: 'B', kind: 'adult', portion: 1 }])).toEqual(['papu'])
+    expect(parseAllergies('papu, appelsiini;lime\n')).toEqual(['papu', 'appelsiini', 'lime'])
   })
 
   it('is deterministic per seed and respects diet, time and avoid-lists', () => {
