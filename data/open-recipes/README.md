@@ -49,3 +49,19 @@ source files, and Wikibooks pages that aren't recipes (see `skip` reasons in `fi
 Not used, because the licence doesn't allow redistribution or is unclear: RecipeNLG / Recipe1M
 (research only), Kaggle datasets scraped from commercial sites (licence claims unreliable),
 Open Recipes (scraped), TheMealDB (not openly licensed).
+
+## Backlog
+
+- **Foodista** ([foodista.com](https://www.foodista.com/)) – recipe text is **CC BY 3.0** (site footer, checked via the
+  Wayback Machine in October 2026); tens of thousands of recipes, many with photos. To translate later.
+  **Check the photo licence per recipe:** some Foodista photos were pulled in from Flickr or uploaded by
+  bloggers under their own terms, so a photo is only used when its own licence is free (credit the
+  photographer per recipe, like the Commons photos). The site rate-limits (HTTP 429): fetch slowly and cache.
+
+## Photos from Wikimedia Commons
+
+`node scripts/open-recipes/fetch-photos.ts` writes `photos.json`: for recipes without a source photo, the
+Wikibooks Cookbook page's own image, or – when the English title is exactly a Wikidata dish name and the
+file name matches – that dish's image, credited as *esimerkkikuva ruokalajista*. Every photo carries its
+own author and licence from Commons; files with an unclear or non-free licence are skipped.
+`recipes:build` uses these when the source record has no image.

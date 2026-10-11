@@ -1,6 +1,6 @@
 {
- "version": "2026-10-11-17mqdp6",
- "generatedAt": "2026-10-11T06:04:11.292Z",
+ "version": "2026-10-11-19azmdr",
+ "generatedAt": "2026-10-11T14:34:10.257Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -8,10 +8,10 @@
    "homepage": "https://github.com/gofjhmakit/KitchenGadget8000",
    "license": "Apache-2.0 / CC BY-SA 4.0",
    "attribution": "Hermanni Mäkitalo – KitchenGadget8000-reseptikokoelma. Osa resepteistä on Marcus Baw’n kokoelmasta pacharanero/recipes (CC BY-SA 4.0).",
-   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).",
    "file": "kitchengadget.json",
    "count": 452,
-   "withImage": 0
+   "withImage": 13
   },
   {
    "id": "myplate",
@@ -33,7 +33,7 @@
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
    "file": "unitools.json",
    "count": 501,
-   "withImage": 406
+   "withImage": 411
   },
   {
    "id": "forkrecipe",
@@ -41,10 +41,10 @@
    "homepage": "https://github.com/futurechef/forkrecipe-recipes",
    "license": "CC BY-SA 4.0",
    "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
-   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi. Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).",
    "file": "forkrecipe.json",
    "count": 693,
-   "withImage": 0
+   "withImage": 29
   },
   {
    "id": "wikibooks",
@@ -52,10 +52,10 @@
    "homepage": "https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents",
    "license": "CC BY-SA 4.0",
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
-   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).",
+   "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).",
    "file": "wikibooks.json",
    "count": 2100,
-   "withImage": 0
+   "withImage": 470
   },
   {
    "id": "recipearchive",

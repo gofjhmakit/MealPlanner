@@ -24,6 +24,9 @@ import type { EnRecipe } from './normalize.ts'
 const ROOT = resolve(import.meta.dirname, '../..')
 const DATA = join(ROOT, 'data', 'open-recipes')
 const OUT = join(ROOT, 'public', 'data', 'open-recipes')
+/** Commons photos for recipes whose source has none (fetch-photos.ts); each with its own credit and licence. */
+const PHOTOS_FILE = join(ROOT, 'data', 'open-recipes', 'photos.json')
+const photos: Record<string, OpenRecipeRecord['image']> = existsSync(PHOTOS_FILE) ? JSON.parse(readFileSync(PHOTOS_FILE, 'utf8')) : {}
 
 /** What was changed (CC BY-SA asks for it). The app adds the share-alike sentence per recipe licence. */
 const TRANSLATED = 'Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).'
@@ -36,7 +39,7 @@ export const OPEN_SOURCES = [
     homepage: 'https://github.com/gofjhmakit/KitchenGadget8000',
     license: 'Apache-2.0 / CC BY-SA 4.0',
     attribution: 'Hermanni Mäkitalo – KitchenGadget8000-reseptikokoelma. Osa resepteistä on Marcus Baw’n kokoelmasta pacharanero/recipes (CC BY-SA 4.0).',
-    changes: TRANSLATED,
+    changes: `${TRANSLATED} Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).`,
   },
   {
     id: 'myplate',
@@ -60,7 +63,7 @@ export const OPEN_SOURCES = [
     homepage: 'https://github.com/futurechef/forkrecipe-recipes',
     license: 'CC BY-SA 4.0',
     attribution: 'ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.',
-    changes: `${TRANSLATED} Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi.`,
+    changes: `${TRANSLATED} Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi. Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).`,
   },
   {
     id: 'wikibooks',
@@ -68,7 +71,7 @@ export const OPEN_SOURCES = [
     homepage: 'https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents',
     license: 'CC BY-SA 4.0',
     attribution: 'Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).',
-    changes: TRANSLATED,
+    changes: `${TRANSLATED} Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).`,
   },
   {
     id: 'recipearchive',
@@ -226,7 +229,7 @@ for (const source of OPEN_SOURCES) {
         ingredients: fi.ingredients!.map((l) => l.trim()).filter(Boolean),
         instructions: fi.instructions!.map((l) => l.trim()).filter(Boolean),
         notes: fi.notes?.length ? fi.notes : undefined,
-        image: orig.image,
+        image: orig.image ?? photos[fi.id],
         sourceUrl: orig.sourceUrl,
         author: orig.author,
         license: orig.license,

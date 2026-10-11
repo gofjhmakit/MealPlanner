@@ -1,6 +1,6 @@
 # Tunnistamattomat ainekset
 
-Generoitu 2026-10-11 06:04 komennolla `npm run recipes:build`. Älä muokkaa käsin.
+Generoitu 2026-10-11 14:34 komennolla `npm run recipes:build`. Älä muokkaa käsin.
 
 Ainekset, joita Fineli-vastaavuuksien haku ei tunnistanut (varmuus alle 50 %). Yleisimmät kannattaa lisätä
 ainessanastoon (`src/domain/ingredients.ts`) tai korjata käännösten sanamuotoa.
