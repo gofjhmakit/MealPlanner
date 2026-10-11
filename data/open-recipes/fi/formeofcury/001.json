@@ -1,0 +1,827 @@
+[
+ {
+  "id": "formeofcury-connynges-in-grauey",
+  "title": "Kani mantelikastikkeessa inkiväärillä",
+  "description": "Kaninpalat keitetään ja haudutetaan mantelimaidossa, joka on makeutettu sokerilla ja maustettu inkiväärillä; pinnalle sokeria ja inkivääriä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kani",
+   "mantelit",
+   "pata",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kani paloiteltuna",
+   "1 l lihalientä",
+   "100 g kuorittuja manteleita jauhettuna",
+   "2 rkl sokeria",
+   "1 tl jauhettua inkivääriä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä kaninpaloja liemessä 15 minuuttia.",
+   "Sekoita mantelit liemeen ja siivilöi mantelimaidoksi.",
+   "Lisää sokeri ja inkivääri, kiehauta ja hauduta kaninpaloja siinä kypsiksi, noin tunti.",
+   "Tarjoa pinnalla sokeria ja inkivääriä."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-chykens-in-gravey",
+  "title": "Kana mantelikastikkeessa inkiväärillä",
+  "description": "Sama kuin kani mantelikastikkeessa, mutta kanasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "mantelit",
+   "pata",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana paloiteltuna",
+   "1 l kanalientä",
+   "100 g kuorittuja manteleita jauhettuna",
+   "2 rkl sokeria",
+   "1 tl jauhettua inkivääriä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä kananpaloja liemessä 15 minuuttia.",
+   "Sekoita mantelit liemeen ja siivilöi.",
+   "Lisää sokeri ja inkivääri ja hauduta kana kypsäksi, noin 45 minuuttia. Tarjoa sokerin ja inkiväärin kera."
+  ],
+  "cookTimeMin": 70
+ },
+ {
+  "id": "formeofcury-fylettes-of-galyntyne",
+  "title": "Porsaanfilee galantiinikastikkeessa",
+  "description": "Puolikypsäksi paahdettu porsaanfilee paloitellaan ja haudutetaan leivästä, liemestä ja etikasta tehdyssä tummassa kastikkeessa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "pata",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "600 g porsaan sisäfilettä",
+   "2 viipaletta tummaa leipää",
+   "4 dl lihalientä",
+   "3 rkl punaviinietikkaa",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Paahda filettä 200 asteessa 10 minuuttia ja leikkaa paloiksi.",
+   "Liota leipä liemessä ja etikassa ja soseuta kastikkeeksi (alkuperäisessä myös verta).",
+   "Hauduta lihat kastikkeessa kypsiksi. Mausta maustejauheella ja suolalla."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "formeofcury-pygges-in-sawse-sawge",
+  "title": "Porsas salviakastikkeessa",
+  "description": "Keitetty ja jäähdytetty porsaanliha tarjotaan kylmän kastikkeen kanssa, joka on survottu persiljasta, salviasta, leivästä ja keitetyistä keltuaisista etikkaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "yrtit",
+   "kylmä",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg porsaanlapaa tai -potkaa",
+   "1 tl suolaa",
+   "1 nippu persiljaa",
+   "10 salvianlehteä",
+   "1 viipale vaaleaa leipää",
+   "3 kovaksi keitettyä keltuaista",
+   "3–4 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Keitä liha suolalla maustetussa vedessä kypsäksi ja anna jäähtyä. Paloittele.",
+   "Survo tai soseuta yrtit, leipä ja keltuaiset ja notkista etikalla paksuksi kastikkeeksi.",
+   "Asettele liha vadille ja kaada kastike päälle."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "formeofcury-sawse-madame",
+  "title": "Hanhi Madame-kastikkeessa",
+  "description": "Hanhi täytetään salvialla, persiljalla, iisopilla, kynteliillä, kvittenillä, päärynällä, valkosipulilla ja viinirypäleillä; täyte ja paistorasva keitetään viinin ja maustejauheen kanssa kastikkeeksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "hanhi",
+   "juhla",
+   "yrtit",
+   "kvitteni",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 hanhi",
+   "5 salvianlehteä",
+   "1 nippu persiljaa",
+   "1 tl kuivattua iisoppia tai timjamia",
+   "1 tl kynteliä",
+   "1 kvitteni lohkoina",
+   "2 päärynää lohkoina",
+   "4 valkosipulinkynttä",
+   "200 g viinirypäleitä",
+   "2 dl punaviiniä",
+   "1 tl jauhettua galangalia tai inkivääriä",
+   "1 tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Täytä hanhi yrteillä, hedelmillä, valkosipulilla ja rypäleillä ja ommel aukko kiinni.",
+   "Paista 160 asteessa noin 3 tuntia; ota talteen valuva rasva.",
+   "Paloittele hanhi. Kaavi täyte kattilaan, lisää vähän rasvaa ja viiniä, galangal, maustejauhe ja suola ja keitä kastikkeeksi.",
+   "Kaada kastike hanhenpalojen päälle."
+  ],
+  "cookTimeMin": 210
+ },
+ {
+  "id": "formeofcury-gees-in-hoggepot",
+  "title": "Hanhipata (hochepot)",
+  "description": "Hanhenpalat haudutetaan viinissä ja vedessä runsaan sipulin ja yrttien kanssa, sakeutetaan leivällä ja maustetaan vahvalla maustejauheella.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "hanhi",
+   "pata",
+   "sipuli",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 hanhi tai 4 hanhen- tai ankanreittä",
+   "5 dl punaviiniä",
+   "5 dl vettä",
+   "4 sipulia",
+   "1 nippu persiljaa ja salviaa",
+   "2 viipaletta tummaa leipää",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Paloittele lintu ja laita pataan viinin, veden, sipulien ja yrttien kanssa.",
+   "Hauduta kannen alla miedolla lämmöllä noin 2 tuntia.",
+   "Sakeuta liemeen liotetulla ja soseutetulla leivällä (alkuperäisessä myös verta).",
+   "Mausta maustejauheella ja suolalla."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "formeofcury-carnel-of-pork",
+  "title": "Sahraminen porsaanlihamuhennos (carnel)",
+  "description": "Keitetty ja jauhettu porsaanliha sidotaan keltuaisilla ja kuumennetaan laardissa sahramin ja mausteiden kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "sahrami",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "600 g porsaanlapaa",
+   "4 munankeltuaista",
+   "2 rkl laardia tai voita",
+   "1 g sahramia",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä liha kypsäksi ja jauha tai hienonna.",
+   "Sekoita joukkoon keltuaiset.",
+   "Kuumenna miedosti laardissa, kunnes seos sakenee. Lisää sahrami ja vahva maustejauhe.",
+   "Tarjoa makea maustejauhe pinnalla."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "formeofcury-chykenns-in-cawdel",
+  "title": "Kana keltuaiskastikkeessa (caudel)",
+  "description": "Liemessä keitetty kana tarjotaan keltuaisilla sakeutetun, inkiväärillä, sokerilla ja sahramilla maustetun liemen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "sahrami",
+   "kananmuna",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana",
+   "1,5 l lientä",
+   "4 munankeltuaista",
+   "1 tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "0,5 g sahramia",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä kana liemessä kypsäksi, noin tunti.",
+   "Sekoita keltuaiset 5 dl:aan lientä, lisää mausteet.",
+   "Kuumenna miedosti sekoittaen sakeaksi keittämättä.",
+   "Tarjoa kana kokonaisena tai paloiteltuna kastikkeen kanssa."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "formeofcury-chykens-in-hocchee",
+  "title": "Persilja-salviatäytteinen kana liemessä",
+  "description": "Kana täytetään persiljalla, salvialla, valkosipulilla ja viinirypäleillä ja keitetään liemessä; pinnalle makea maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana",
+   "1 nippu persiljaa",
+   "8 salvianlehteä",
+   "4 valkosipulinkynttä",
+   "150 g viinirypäleitä",
+   "1,5 l lientä",
+   "1 tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Täytä kana yrteillä, valkosipulilla ja rypäleillä.",
+   "Keitä väljässä liemessä hiljaa noin tunti.",
+   "Tarjoa paloiteltuna, pinnalla makea maustejauhe."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "formeofcury-for-to-boile-fesauntes-partruches-capons-and-curlewes",
+  "title": "Kanaa liemessä pippurilla ja kanelilla",
+  "description": "Fasaanit, peltopyyt, kopuunit tai kuovit keitetään liemessä kokonaisten pippurien ja kanelin kanssa; pinnalle makea maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "linnut",
+   "riista",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana tai 2 fasaania",
+   "1,5 l lientä",
+   "1 tl kokonaisia mustapippureita",
+   "1 tl kanelia",
+   "1 tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä linnut liemessä pippurin ja kanelin kanssa kypsiksi.",
+   "Tarjoa liemen kanssa, pinnalla makea maustejauhe."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "formeofcury-blank-maunger",
+  "title": "Blancmange (kana-mantelimaitoriisi)",
+  "description": "Keskiajan kuuluisa valkoinen ruoka: riisi keitetään mantelimaidossa, sekaan revitty kananliha, sokeri ja suola; koristeena anis ja paistetut mantelit.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "riisi",
+   "mantelit",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana tai 600 g kananrintaa",
+   "1 l lientä",
+   "150 g kuorittuja manteleita jauhettuna",
+   "2,5 dl puuroriisiä",
+   "2 rkl laardia tai voita",
+   "1 rkl sokeria",
+   "1 tl suolaa",
+   "1 rkl sokeroituja aniksensiemeniä",
+   "2 rkl manteleita öljyssä paistettuina"
+  ],
+  "instructions": [
+   "Keitä kana liemessä kypsäksi ja revi liha hienoksi.",
+   "Sekoita jauhetut mantelit liemeen ja siivilöi mantelimaidoksi.",
+   "Keitä riisi mantelimaidossa pehmeäksi.",
+   "Lisää kana, rasva, sokeri ja suola ja hauduta.",
+   "Koristele aniskarkeilla ja paistetuilla manteleilla."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-blank-dessorre",
+  "title": "Blank dessorre (mantelikreemi kanalla)",
+  "description": "Mantelit jauhetaan valkoviiniin (lihapäivänä liemeen), sakeutetaan riisijauholla, sekaan jauhettu kananliha, sokeri ja suola; koristeena aniskarkit.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g kuorittuja manteleita jauhettuna",
+   "5 dl valkoviiniä tai lientä",
+   "3 rkl riisijauhoja",
+   "300 g keitettyä kananrintaa jauhettuna",
+   "1 rkl sokeria",
+   "1 tl suolaa",
+   "1 rkl valkoisia aniskarkkeja",
+   "0,5 g sahramia (toiselle puolelle)"
+  ],
+  "instructions": [
+   "Sekoita mantelit viiniin tai liemeen ja siivilöi.",
+   "Kuumenna ja sakeuta riisijauhoilla.",
+   "Lisää kana, sokeri ja suola ja hauduta.",
+   "Halutessa värjää puolet sahramilla ja tarjoa kaksivärisenä. Koristele aniskarkeilla."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-morree",
+  "title": "Morrey (punaviini-mantelivanukas)",
+  "description": "Mantelit punaviinissä sakeutetaan riisijauholla, sekaan paistetut pinjansiemenet, punasantelipuulla värjätty ja vahvalla ja makealla maustejauheella maustettu.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "mantelit",
+   "viini",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g kuorittuja manteleita jauhettuna",
+   "5 dl punaviiniä",
+   "3 rkl riisijauhoja",
+   "3 rkl pinjansiemeniä paahdettuina",
+   "1 tl suolaa",
+   "2 rkl sokeria",
+   "1 tl kanelia",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "1 rkl valkoisia aniskarkkeja"
+  ],
+  "instructions": [
+   "Sekoita mantelit viiniin ja siivilöi.",
+   "Kuumenna ja sakeuta riisijauhoilla.",
+   "Lisää pinjansiemenet, mausteet, sokeri ja suola. (Alkuperäinen värjättiin punasantelipuulla; muutama loraus marjamehua käy.)",
+   "Tarjoa koristeena aniskarkit."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-charlet",
+  "title": "Charlet (porsas-munamaito)",
+  "description": "Keitetty ja hienonnettu porsaanliha kuumennetaan munien, maidon ja sahramin kanssa juustomaiseksi muhennokseksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "kananmuna",
+   "sahrami",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g porsaanlapaa",
+   "4 kananmunaa",
+   "5 dl maitoa",
+   "0,5 g sahramia",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä liha kypsäksi ja hienonna.",
+   "Vatkaa munat, maito ja sahrami ja kaada pannulle lihan päälle.",
+   "Kuumenna hiljaa sekoittaen, kunnes seos juoksettuu muhennokseksi. Suolaa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-charlet-yforced",
+  "title": "Charlet kastikkeella",
+  "description": "Charlet nostetaan liemestä ja tarjotaan keltuaisilla sakeutetun maitokastikkeen kanssa, jossa inkivääri, sokeri ja sahrami; pinnalle makea maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "kananmuna",
+   "sahrami",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 annos charlet'ta",
+   "5 dl maitoa",
+   "4 munankeltuaista",
+   "½ tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "0,5 g sahramia",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Kiehauta maito ja sekoita joukkoon keltuaiset ja mausteet. Kuumenna sakeaksi keittämättä.",
+   "Annostele charlet ja kaada kastike päälle.",
+   "Sirottele pinnalle makea maustejauhe."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "formeofcury-cawdel-ferry",
+  "title": "Caudel ferry (makea viinikreemi)",
+  "description": "Vaalea leipäjauho ja viini keitetään runsaan sokerin tai hunajan ja sahramin kanssa ja sakeutetaan keltuaisilla; pinnalle sokeria ja inkivääriä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viini",
+   "sahrami",
+   "kreemi",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "3 rkl vehnäjauhoja",
+   "5 dl valkoviiniä",
+   "1 dl sokeria tai hunajaa",
+   "0,5 g sahramia",
+   "4 munankeltuaista",
+   "ripaus suolaa",
+   "1 rkl sokeria ja ½ tl inkivääriä pinnalle"
+  ],
+  "instructions": [
+   "Sekoita jauhot viiniin ja kiehauta. Lisää sokeri ja sahrami.",
+   "Nosta liedeltä ja sakeuta keltuaisilla miedolla lämmöllä.",
+   "Suolaa ja tarjoa kupeissa, pinnalla sokeria ja inkivääriä."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-jusshell",
+  "title": "Jussel (leipä-munakeitto salvialla)",
+  "description": "Raastettu leipä ja munat sekoitetaan ja keitetään liemessä sahramin ja salvian kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kananmuna",
+   "leipä",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 l lientä",
+   "1,5 dl korppujauhoja tai raastettua leipää",
+   "3 kananmunaa",
+   "0,5 g sahramia",
+   "4 salvianlehteä hienonnettuina",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Vatkaa leivänmuru ja munat.",
+   "Kiehauta liemi sahramin ja salvian kanssa.",
+   "Sekoita muna-leipäseos kiehuvaan liemeen ja keitä, kunnes muna hyytyy rakeiksi. Suolaa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-jusshell-enforced",
+  "title": "Jussel kastikkeella",
+  "description": "Jussel tarjotaan keltuaisista, maidosta, inkivääristä, sokerista ja sahramista keitetyn kastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kananmuna",
+   "leipä",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 annos jusselia",
+   "3 dl maitoa",
+   "3 munankeltuaista",
+   "½ tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "0,3 g sahramia",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Valmista jussel.",
+   "Kuumenna maito, keltuaiset ja mausteet sakeaksi kastikkeeksi.",
+   "Annostele jussel ja kaada kastike päälle. Pinnalle makea maustejauhe."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-mortrews",
+  "title": "Mortrews (kana-porsaspyree)",
+  "description": "Kana ja porsas keitetään, liha jauhetaan hienoksi, sakeutetaan leivällä, liemellä ja keltuaisilla ja maustetaan; tulee seisovan paksua.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "sianliha",
+   "sahrami",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kana tai 500 g kanaa",
+   "500 g porsaanlapaa",
+   "1,5 dl korppujauhoja",
+   "3 dl lientä",
+   "3 munankeltuaista",
+   "1 tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "0,5 g sahramia",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä kana ja porsas yhdessä kypsiksi.",
+   "Jauha lihat hienoksi, sekoita korppujauho ja liemi.",
+   "Sakeuta keltuaisilla ja mausta.",
+   "Kuumenna, kunnes seos on paksua. Sirottele inkivääriä pinnalle."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "formeofcury-mortrews-blank",
+  "title": "Valkoinen mortrews (mantelimaidossa)",
+  "description": "Porsas ja kana keitetään, liha sidotaan mantelimaidolla ja riisijauholla ja maustetaan inkiväärillä ja sokerilla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "sianliha",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g kanaa",
+   "500 g porsaanlapaa",
+   "100 g kuorittuja manteleita jauhettuna",
+   "5 dl lientä",
+   "3 rkl riisijauhoja",
+   "1 tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä lihat kypsiksi ja jauha.",
+   "Sekoita mantelit liemeen ja siivilöi.",
+   "Sekoita liha, mantelimaito ja riisijauho ja keitä paksuksi. Mausta."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "formeofcury-brewet-of-almony",
+  "title": "Saksalainen kanimuhennos (brewet of Almony)",
+  "description": "Kanin- tai kilinpalat keitetään mantelimaidossa galangalin, inkiväärin ja riisijauhon kanssa ja värjätään punaiseksi; pinnalle sokeria ja maustejauhetta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kani",
+   "mantelit",
+   "pata",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kani paloiteltuna",
+   "1 l lientä",
+   "100 g kuorittuja manteleita jauhettuna",
+   "1 tl jauhettua galangalia tai inkivääriä",
+   "½ tl jauhettua inkivääriä",
+   "2 rkl riisijauhoja",
+   "1 tl paprikaa (alkuperäisessä alkanna-värjäys)",
+   "1 tl suolaa",
+   "1 rkl sokeria",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Paloittele kani pieniksi ja ryöppää liemessä.",
+   "Sekoita mantelit liemeen ja siivilöi.",
+   "Hauduta kanit mantelimaidossa mausteiden ja riisijauhon kanssa kypsiksi.",
+   "Värjää, suolaa ja tarjoa sokerin ja maustejauheen kanssa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-peiouns-ystewed",
+  "title": "Haudutetut kyyhkyset",
+  "description": "Kyyhkyset täytetään valkosipulilla ja yrteillä ja haudutetaan saviruukussa liemessä, rasvassa, maustejauheessa, sahramissa ja happamassa rypälemehussa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "linnut",
+   "riista",
+   "pata",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "4 kyyhkystä (tai 2 viiriäistä per henkilö)",
+   "8 valkosipulinkynttä",
+   "1 nippu persiljaa, salviaa ja timjamia",
+   "5 dl lientä",
+   "2 rkl laardia",
+   "0,3 g sahramia",
+   "3 rkl verjus'ta tai sitruunamehua",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Täytä linnut valkosipulilla ja hienonnetuilla yrteillä.",
+   "Laita saviruukkuun tai pataan ja lisää liemi, rasva ja mausteet.",
+   "Hauduta kannen alla 170 asteessa noin tunti."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "formeofcury-loseyns",
+  "title": "Loseyns (keskiaikainen lasagne)",
+  "description": "Ohuet pastalevyt keitetään liemessä ja kerrostetaan raastetun juuston ja makean maustejauheen kanssa – lasagnen esi-isä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "juusto",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "300 g vehnäjauhoja",
+   "1,5 dl vettä",
+   "1,5 l lientä",
+   "200 g raastettua kypsytettyä juustoa (esim. parmesaani)",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Vaivaa jauhoista ja vedestä taikina ja kaulitse paperinohuiksi levyiksi. Leikkaa neliöiksi ja anna kuivua.",
+   "Keitä levyt liemessä kypsiksi.",
+   "Kerrosta vadille juustoa, maustejauhetta ja pastalevyjä kahdesti tai kolmesti; pinnalle juustoa ja maustetta."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-tartlettes",
+  "title": "Tartletit (porsaanlihanyytit)",
+  "description": "Sahramilla, korinteilla ja vahvalla maustejauheella maustettu porsaanlihatäyte suljetaan taikinanyyteiksi, jotka keitetään ja tarjotaan liemen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "nyytit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g keitettyä porsaanlihaa jauhettuna",
+   "0,3 g sahramia",
+   "2 kananmunaa",
+   "50 g korintteja",
+   "1 tl suolaa",
+   "300 g vehnäjauhoja",
+   "1,5 dl vettä",
+   "1 l lientä",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Sekoita liha, sahrami, munat, korintit, vahva maustejauhe ja suola.",
+   "Vaivaa jauhoista ja vedestä taikina ja kaulitse ohueksi. Tee täytteestä pieniä nyyttejä.",
+   "Keitä nyytit suolatussa vedessä.",
+   "Kuumenna liemi makean maustejauheen kanssa ja kaada nyyttien päälle."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-pynnonade",
+  "title": "Pynnonade (pinjansiemen-mantelikastike)",
+  "description": "Paksu mantelimaito keitetään, sakeutetaan keltuaisilla ja sekaan paahdetut pinjansiemenet, makea maustejauhe ja sokeri.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "mantelit",
+   "pinjansiemenet",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "100 g kuorittuja manteleita jauhettuna",
+   "3 dl lientä tai vettä",
+   "2 munankeltuaista",
+   "50 g pinjansiemeniä paahdettuina",
+   "1 rkl sokeria",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Sekoita mantelit liemeen ja siivilöi paksuhkoksi maidoksi.",
+   "Kuumenna ja sakeuta keltuaisilla.",
+   "Lisää pinjansiemenet, maustejauhe, sokeri ja suola. Tarjoa linnun tai kalan kanssa."
+  ],
+  "cookTimeMin": 25
+ }
+]

@@ -1,0 +1,707 @@
+[
+ {
+  "id": "formeofcury-chysanne",
+  "title": "Chysanne (kylmä viikuna-etikkakala)",
+  "description": "Paistetut kalapalat marinoidaan kylmänä viini-etikkakastikkeessa, jossa on paistettuja manteleita, viikunasosetta, mausteita ja sipulia – syödään kylmänä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kylmä",
+   "viikuna",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g särkikalaa, suutaria tai kampelaa paloina",
+   "3 rkl oliiviöljyä",
+   "50 g kuorittuja manteleita",
+   "3 dl valkoviiniä",
+   "1 dl viinietikkaa",
+   "100 g kuivattuja viikunoita soseutettuna",
+   "1 sipuli hienonnettuna ja keitettynä",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Paista kalapalat öljyssä ja laita saviastiaan.",
+   "Paista mantelit öljyssä. Keitä viini, etikka, viikunasose, mantelit, maustejauhe ja suola.",
+   "Lisää keitetty sipuli ja kaada liemi kalan päälle.",
+   "Anna jäähtyä ja maustua vuorokausi kylmässä. Syö kylmänä."
+  ],
+  "cookTimeMin": 1500
+ },
+ {
+  "id": "formeofcury-congur-in-sawse",
+  "title": "Meriankerias vihreässä yrttikastikkeessa",
+  "description": "Keitetty meriankerias tarjotaan kastikkeen kanssa, joka on survottu persiljasta, mintusta, rosmariinista, salviasta, leivästä, valkosipulista ja mausteista etikkaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "yrtit",
+   "kylmä",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g meriankeriasta tai muuta kiinteää kalaa paloina",
+   "1 nippu persiljaa",
+   "kourallinen minttua",
+   "1 oksa rosmariinia",
+   "3 salvianlehteä",
+   "1 viipale vaaleaa leipää",
+   "1 valkosipulinkynsi",
+   "2 neilikkaa",
+   "1 dl viinietikkaa",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä kalapalat suolatussa vedessä kypsiksi.",
+   "Soseuta yrtit, leipä, valkosipuli, neilikat, maustejauhe ja suola etikan kanssa ja siivilöi.",
+   "Asettele kala vadille ja kaada kastike päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-rygh-in-sawse",
+  "title": "Kiiski mantelikastikkeessa (kylmä)",
+  "description": "Keitetyt ja öljyssä paistetut kalat tarjotaan kylmänä mantelikastikkeen kanssa, jossa paistettuja manteleita, korintteja, valkosipulia, verjus'ta ja sahramia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "mantelit",
+   "kylmä",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "600 g ahventa tai kiiskeä",
+   "3 rkl oliiviöljyä",
+   "100 g kuorittuja manteleita jauhettuna",
+   "3 dl vettä tai valkoviiniä",
+   "3 rkl kokonaisia manteleita",
+   "3 rkl korintteja",
+   "1 valkosipulinkynsi",
+   "2 rkl verjus'ta tai sitruunamehua",
+   "0,2 g sahramia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä kalat, poista nahka ja ruodot ja paista öljyssä.",
+   "Sekoita jauhetut mantelit veteen tai viiniin. Paista kokonaiset mantelit öljyssä.",
+   "Keitä mantelimaito korinttien, valkosipulin, verjus'n, maustejauheen, sahramin ja suolan kanssa ja lisää paistetut mantelit.",
+   "Kaada kastike kalan päälle ja tarjoa kylmänä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-makerel-in-sawse",
+  "title": "Makrilli minttuliemessä",
+  "description": "Makrillinpalat keitetään vedessä ja verjus'ssa mintun ja muiden yrttien kanssa; väri vihreäksi tai keltaiseksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "makrilli",
+   "yrtit",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2 makrillia paloina",
+   "5 dl vettä",
+   "1 dl verjus'ta tai 3 rkl sitruunamehua",
+   "kourallinen minttua",
+   "1 nippu persiljaa",
+   "½ tl suolaa",
+   "0,2 g sahramia (keltaiseen versioon)"
+  ],
+  "instructions": [
+   "Kiehauta vesi, verjus ja yrtit.",
+   "Lisää makrilli ja keitä hiljaa 8–10 minuuttia.",
+   "Halutessa soseuta osa yrteistä liemeen vihreäksi tai värjää sahramilla keltaiseksi. Suolaa ja tarjoa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "formeofcury-pykes-in-brasey",
+  "title": "Grillattu hauki inkivääri-viinikastikkeella",
+  "description": "Perattu hauki paahdetaan arinalla ja tarjotaan viinistä, inkivääristä, runsaasta sokerista ja suolasta keitetyn kastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "hauki",
+   "grilli",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 hauki (1–1,5 kg) perattuna",
+   "3 dl valkoviiniä",
+   "1 tl jauhettua inkivääriä",
+   "2 rkl sokeria",
+   "½ tl suolaa",
+   "öljyä"
+  ],
+  "instructions": [
+   "Avaa hauki vatsasta, huuhdo ja voitele öljyllä.",
+   "Paahda grillissä tai uunin grillivastuksen alla kypsäksi, noin 20 minuuttia, kääntäen.",
+   "Keitä viini, inkivääri, sokeri ja suola kastikkeeksi saviastiassa.",
+   "Kaada kastike hauen päälle."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-porpeys-in-broth",
+  "skip": "pyöriäinen on rauhoitettu, ohje viittaa toiseen"
+ },
+ {
+  "id": "formeofcury-balloc-broth",
+  "title": "Ankerias-haukiliemi (balloc broth)",
+  "description": "Nyljetyt ankeriaanpalat keitetään viinissä ja vedessä salvian, yrttien ja sipulin kanssa; samassa liemessä keitetään hauki ja maustetaan inkiväärillä, galangalilla, kanelilla ja pippurilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "kala",
+   "hauki",
+   "keitto",
+   "yrtit",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g ankeriasta tai muuta rasvaista kalaa paloina",
+   "500 g haukea paloina",
+   "5 dl vettä",
+   "5 dl valkoviiniä",
+   "4 salvianlehteä",
+   "1 nippu persiljaa",
+   "1 sipuli hienonnettuna",
+   "½ tl jauhettua inkivääriä",
+   "½ tl jauhettua galangalia",
+   "½ tl kanelia",
+   "¼ tl mustapippuria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä ankerias viinissä ja vedessä yrttien ja sipulin kanssa ja nosta sivuun.",
+   "Keitä hauki samassa liemessä.",
+   "Mausta liemi mausteilla ja suolalla, palauta ankerias ja kuumenna."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-eles-in-brewet",
+  "title": "Ankerias leipä-sipulikastikkeessa (brewet)",
+  "description": "Ankerias keitetään ja tarjotaan leivänkuorista ja viinistä tehdyn sipulikastikkeen kanssa, mausteena kaneli.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "sipuli",
+   "viini",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g ankeriasta tai muuta rasvaista kalaa paloina",
+   "2 viipaletta leivänkuorta",
+   "4 dl punaviiniä",
+   "1 dl vettä",
+   "2 sipulia hienonnettuina",
+   "½ tl kanelia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Liota leipä viinissä ja soseuta.",
+   "Keitä sipulien, mausteiden ja veden kanssa kastikkeeksi. Suolaa.",
+   "Keitä kalapalat kastikkeessa kypsiksi ja tarjoa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-cawdel-of-samoun-c",
+  "skip": "lohen suolia – vaikea saada"
+ },
+ {
+  "id": "formeofcury-plays-in-cyee",
+  "title": "Paistettu kampela mausteisessa leipäkastikkeessa",
+  "description": "Kampelanpalat paistetaan öljyssä ja tarjotaan notkean leipä-liemi-etikkakastikkeen kanssa, jossa inkivääri, kaneli ja pippuri.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kampela",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g kampelafileetä",
+   "3 rkl oliiviöljyä",
+   "1 viipale leipää",
+   "3 dl lientä",
+   "2 rkl viinietikkaa",
+   "½ tl jauhettua inkivääriä",
+   "½ tl kanelia",
+   "¼ tl mustapippuria",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Paista kalapalat öljyssä.",
+   "Liota leipä liemessä ja etikassa, soseuta ja lisää mausteet.",
+   "Keitä notkeaksi kastikkeeksi ja kaada kalan päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-flaumpeyns",
+  "title": "Flaumpeyns (porsas-viikuna-juustopiiraat)",
+  "description": "Porsaanliha, oluessa keitetyt viikunat ja pehmeä juusto sekoitetaan munien, sahramin ja pippurin kanssa ja paistetaan pitkissä avopiiraissa, joiden kanteen koristeeksi rasvassa paistettuja taikinapalloja.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "juusto",
+   "viikuna",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g porsaanlapaa keitettynä ja jauhettuna",
+   "150 g kuivattuja viikunoita",
+   "3 dl vaaleaa olutta",
+   "150 g tuorejuustoa tai pehmeää juustoa",
+   "3 kananmunaa",
+   "½ tl mustapippuria",
+   "0,3 g sahramia",
+   "1 tl suolaa",
+   "taikina: 400 g vehnäjauhoja, 2 kananmunaa, 1 rkl sokeria, 1 dl vettä, 100 g voita",
+   "rasvaa paistamiseen",
+   "1 keltuainen voiteluun"
+  ],
+  "instructions": [
+   "Keitä viikunat oluessa pehmeiksi ja soseuta juuston kanssa. Sekoita liha, munat, pippuri, sahrami ja suola.",
+   "Vaivaa taikina. Pyöritä osasta pieniä palloja ja paista rasvassa ruskeiksi.",
+   "Kaulitse lopusta pitkänomaisia piirakkapohjia, täytä ja peitä kannella. Nipistä reunat.",
+   "Viilla kanteen 4–6 viiltoa, käännä kärjet ylös, voitele keltuaisella ja painele paistetut pallot koristeeksi.",
+   "Paista 180 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "formeofcury-noumbles-in-lent",
+  "skip": "kalan verta ja sisäelimiä – vaikea saada"
+ },
+ {
+  "id": "formeofcury-chawdon-for-lent",
+  "skip": "kalan verta ja sisäelimiä – vaikea saada"
+ },
+ {
+  "id": "formeofcury-furmente-with-porpeys",
+  "skip": "pyöriäinen on rauhoitettu; mantelimaitofurmenty on jo mukana"
+ },
+ {
+  "id": "formeofcury-fylettes-in-galytyne",
+  "title": "Porsaanfilee galantiinikastikkeessa yrteillä ja rusinoilla",
+  "description": "Paahdettu porsas viipaloidaan ja haudutetaan liemessä, joka sakeutetaan leivällä ja maustetaan sipulilla, pippurilla, persiljalla, iisopilla, punaviinillä ja rusinoilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "pata",
+   "rusinat",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g porsaanfilettä tai -kassleria",
+   "3 dl lientä",
+   "2 viipaletta leivänkuorta",
+   "2 sipulia viipaleina",
+   "¼ tl mustapippuria",
+   "1 nippu persiljaa hienonnettuna",
+   "1 tl iisoppia tai timjamia",
+   "2 dl punaviiniä",
+   "1 dl rusinoita",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Paahda liha 200 asteessa puolikypsäksi ja ota liemi talteen.",
+   "Soseuta leipä liemeen ja siivilöi.",
+   "Viipaloi liha ja hauduta sipulien kanssa liemessä mureaksi.",
+   "Lisää leipäsakeute, pippuri, yrtit, viini ja rusinat ja keitä hetki. Suolaa."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "formeofcury-veel-in-buknade",
+  "title": "Vasikka kaksivärisessä kastikkeessa (buknade)",
+  "description": "Vasikanlihapalat keitetään liemessä ja sakeutetaan valkoisella leivällä; puoli väritetään sahramilla keltaiseksi, puoli persiljamehulla vihreäksi; viiniä, mausteita ja tilkka etikkaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikanliha",
+   "pata",
+   "sahrami",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g vasikanlihaa kuutioina",
+   "1 l lientä",
+   "2 viipaletta vaaleaa leipää",
+   "0,3 g sahramia",
+   "1 iso nippu persiljaa soseutettuna",
+   "2 dl valkoviiniä",
+   "1 rkl viinietikkaa",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä liha liemessä mureaksi.",
+   "Liota leipä liemessä, soseuta ja sekoita lihaan.",
+   "Jaa kahtia: värjää toinen puoli sahramilla, toinen persiljamehulla.",
+   "Lisää viini, maustejauhe ja etikka ja keitä hetki. Tarjoa vierekkäin vadilla."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-sooles-in-cynee",
+  "title": "Kielikampela sipuli-hunajakastikkeessa",
+  "description": "Keitetyt kampelat paahdetaan ja tarjotaan kastikkeen kanssa, joka on survottu sipulista, leivästä ja liemestä, mausteena vahva maustejauhe, sahrami ja hunaja.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kampela",
+   "hunaja",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "4 kielikampelaa tai 800 g kampelafileetä",
+   "1 sipuli keitettynä",
+   "1 viipale leipää",
+   "3 dl kalalientä",
+   "0,2 g sahramia",
+   "1 rkl hunajaa",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä kalat, ota liemi talteen, poista evät.",
+   "Soseuta sipuli, leipä ja liemi. Lisää maustejauhe, sahrami, hunaja ja suola ja keitä.",
+   "Grillaa tai paista kalat ja kaada kastike päälle."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-tenches-in-cynee",
+  "title": "Suutari korintti-viinikastikkeessa",
+  "description": "Paistettu suutari haudutetaan korintti-viinikastikkeessa kokonaisten rusinoiden ja inkiväärin, neilikan, kanelin ja pippurin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "rusinat",
+   "viini",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g suutaria, karppia tai lahnaa paloina",
+   "öljyä",
+   "1 dl korintteja",
+   "3 dl punaviiniä",
+   "1 dl vettä",
+   "1 dl rusinoita",
+   "½ tl jauhettua inkivääriä",
+   "¼ tl jauhettua neilikkaa",
+   "½ tl kanelia",
+   "¼ tl mustapippuria",
+   "1 rkl sokeria",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Paista kalapalat öljyssä.",
+   "Soseuta korintit viinin ja veden kanssa ja lisää rusinat ja mausteet.",
+   "Hauduta kalat kastikkeessa, mausta sokerilla ja suolalla."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-oysters-in-gravey",
+  "title": "Osterit mantelikastikkeessa",
+  "description": "Osterit keitetään viinissä ja omassa liemessään; liemestä ja manteleista tehty kastike sakeutetaan riisijauholla ja maustetaan inkiväärillä, sokerilla ja muskottikukalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "mantelit",
+   "juhla",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "24 osteria",
+   "2 dl valkoviiniä",
+   "50 g kuorittuja manteleita jauhettuna",
+   "1 rkl riisijauhoja",
+   "½ tl jauhettua inkivääriä",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Avaa osterit ja ota liemi talteen. Keitä ostereita hetki viinissä ja liemessä.",
+   "Siivilöi liemi, sekoita mantelit ja siivilöi uudelleen.",
+   "Sakeuta riisijauholla, lisää mausteet ja osterit ja kuumenna notkeaksi."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-muskels-in-brewet",
+  "title": "Simpukat leipä-etikkakastikkeessa (brewet)",
+  "description": "Simpukat keitetään omassa liemessään, kastike sakeutetaan leivällä ja etikalla, sekaan sipuli, mausteet ja sahrami; samoin ostereista.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "simpukat",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg sinisimpukoita",
+   "1 viipale leivänkuorta",
+   "2 rkl viinietikkaa",
+   "1 sipuli hienonnettuna",
+   "0,2 g sahramia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä simpukat kannen alla omassa liemessään, kunnes ne aukeavat. Poimi lihat ja siivilöi liemi.",
+   "Soseuta leipä liemeen ja etikkaan, lisää sipuli ja keitä.",
+   "Lisää simpukat, maustejauhe, sahrami ja suola ja kuumenna."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-oysters-in-cynee",
+  "title": "Osterit sipuli-yrttikastikkeessa (cynee)",
+  "description": "Osterit ryöpätään omassa liemessään; kastike leivästä, liemestä ja etikasta, sipulia ja yrttejä, vahva maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "24 osteria",
+   "1 viipale leivänkuorta",
+   "2 rkl viinietikkaa",
+   "1 sipuli hienonnettuna",
+   "1 rkl persiljaa ja timjamia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Avaa osterit ja ryöppää ne omassa liemessään. Siivilöi liemi.",
+   "Soseuta leipä liemeen ja etikkaan, lisää sipuli ja yrtit.",
+   "Lisää osterit ja keitä hetki. Mausta."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-cawdel-of-muskels",
+  "title": "Simpukka-purjokastike mantelimaidolla (caudel)",
+  "description": "Keitetyistä simpukoista osa soseutetaan liemeen ja osa hienonnetaan; sekaan mantelimaito, verjus, etikka, ryöpätty purjo, sipuli, öljy ja mausteet.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "äyriäiset",
+   "simpukat",
+   "purjo",
+   "mantelit",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg sinisimpukoita",
+   "1 dl valkoviiniä",
+   "50 g kuorittuja manteleita jauhettuna",
+   "2 dl vettä",
+   "2 rkl verjus'ta tai sitruunamehua",
+   "1 rkl viinietikkaa",
+   "2 purjon vaaleaa osaa",
+   "1 sipuli",
+   "2 rkl oliiviöljyä",
+   "0,2 g sahramia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä simpukat, poimi lihat ja huuhdo ne viinissä. Soseuta puolet liemen kanssa, hienonna loput.",
+   "Sekoita mantelit veteen ja siivilöi. Yhdistä simpukoihin, lisää verjus ja etikka.",
+   "Ryöppää purjo ja sipuli, hienonna ja lisää öljyn kanssa.",
+   "Mausta, kiehauta hetki ja tarjoa notkeana."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-mortrews-of-fyssh",
+  "title": "Kalamortrews (kalamousse mantelimaidossa)",
+  "description": "Turska, kolja tai kummeli keitetään mätineen, ruodot poistetaan ja kala survotaan; sakeutetaan manteleista, leivästä ja liemestä tehdyllä sakeutteella.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g turskaa tai koljaa (mätineen, jos on)",
+   "1 l vettä",
+   "50 g kuorittuja manteleita jauhettuna",
+   "2 viipaletta vaaleaa leipää",
+   "0,2 g sahramia",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä kala vedessä ja ota liemi talteen. Poista ruodot ja survo kala.",
+   "Soseuta mantelit ja leipä liemen kanssa.",
+   "Sekoita kala joukkoon ja keitä paksuksi. Mausta maustejauheella, sahramilla ja suolalla."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "formeofcury-laumpreys-in-galyntyne",
+  "title": "Paahdetut nahkiaiset galantiinikastikkeessa",
+  "description": "Nahkiaiset paahdetaan, ja kastike keitetään korinteista, viinistä, etikasta ja leivästä inkiväärin, galangalin, kanelin, neilikan ja kokonaisten korinttien kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nahkiainen",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg nahkiaisia",
+   "1 dl korintteja soseeksi",
+   "2 dl punaviiniä",
+   "1 rkl viinietikkaa",
+   "1 viipale leivänkuorta",
+   "½ tl jauhettua inkivääriä",
+   "½ tl jauhettua galangalia",
+   "½ tl kanelia",
+   "¼ tl jauhettua neilikkaa",
+   "2 rkl kokonaisia korintteja",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Grillaa tai paahda nahkiaiset hiillosta pinta rapeaksi; ota rasva talteen.",
+   "Soseuta korintit viinin, etikan ja leivän kanssa.",
+   "Lisää mausteet, kokonaiset korintit ja paistorasva ja keitä notkeaksi kastikkeeksi. Suolaa.",
+   "Asettele nahkiaiset vadille ja kaada kastike päälle."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-laumprouns-in-galyntyne",
+  "title": "Keitetyt pikkunahkiaiset galangalikastikkeessa",
+  "description": "Pienet nahkiaiset keitetään; liemestä, galangalista ja inkivääristä keitetään kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nahkiainen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "800 g pieniä nahkiaisia",
+   "5 dl vettä",
+   "1 tl jauhettua galangalia",
+   "½ tl jauhettua inkivääriä",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Ryöppää ja keitä nahkiaiset suolatussa vedessä.",
+   "Keitä osa liemestä galangalin ja inkiväärin kanssa kastikkeeksi.",
+   "Tarjoa nahkiaiset kastikkeen kera."
+  ],
+  "cookTimeMin": 30
+ }
+]

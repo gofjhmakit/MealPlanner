@@ -1,0 +1,753 @@
+[
+ {
+  "id": "formeofcury-fenkel-in-soppes",
+  "title": "Fenkolikeitto paahdetun leivän päällä",
+  "description": "Karkeasti suikaloitu fenkoli keitetään vedessä ja öljyssä sipulin kanssa, maustetaan sahramilla ja makealla maustejauheella ja kaadetaan paahdettujen leipien päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "fenkoli",
+   "kasvis",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2 fenkolia suikaleina",
+   "1 l vettä",
+   "3 rkl oliiviöljyä",
+   "1 sipuli hienonnettuna",
+   "0,3 g sahramia",
+   "1 tl suolaa",
+   "4 viipaletta paahdettua leipää",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä fenkoli ja sipuli vedessä ja öljyssä pehmeiksi.",
+   "Mausta sahramilla, suolalla ja maustejauheella.",
+   "Laita paahdettu leipä lautasille ja kaada keitto päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-clat",
+  "skip": "isohirvenjuuri (elecampane) on lääkekasvi, ei saatavilla ruoaksi"
+ },
+ {
+  "id": "formeofcury-appulmoy",
+  "title": "Appulmoy (omenavanukas mantelimaidossa)",
+  "description": "Keitetyt ja siivilöidyt omenat keitetään mantelimaidon, hunajan, riisijauhon, sahramin ja mausteiden kanssa paksuksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "omena",
+   "mantelit",
+   "hunaja",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg omenoita",
+   "2 dl vettä",
+   "3 dl mantelimaitoa",
+   "3 rkl hunajaa",
+   "2 rkl riisijauhoja",
+   "0,2 g sahramia",
+   "ripaus suolaa",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä kuoritut omenalohkot vedessä pehmeiksi ja soseuta.",
+   "Sekoita joukkoon mantelimaito, hunaja, riisijauho ja mausteet.",
+   "Keitä sekoittaen paksuksi. Tarjoa lämpimänä tai kylmänä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-slete-soppes",
+  "title": "Purjokeitto viinissä paahdetun leivän päällä",
+  "description": "Halkaistut purjot keitetään viinissä, öljyssä ja suolassa ja kaadetaan paahdettujen leipien päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "purjo",
+   "kasvis",
+   "vegaaninen",
+   "viini",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "4 purjon vaaleaa osaa halkaistuina",
+   "5 dl valkoviiniä",
+   "3 dl vettä",
+   "3 rkl oliiviöljyä",
+   "1 tl suolaa",
+   "4 viipaletta paahdettua leipää"
+  ],
+  "instructions": [
+   "Keitä purjot viinissä, vedessä, öljyssä ja suolassa pehmeiksi.",
+   "Laita leipä lautasille ja kaada purjot ja liemi päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-letelorye",
+  "title": "Letelorye (sahraminen munamaitovanukas)",
+  "description": "Siivilöidyt munat keitetään maidon, voin, sahramin ja suolan kanssa kiinteäksi ja leikataan viipaleiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kananmuna",
+   "sahrami",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "6 kananmunaa",
+   "5 dl maitoa",
+   "2 rkl voita",
+   "0,2 g sahramia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Vatkaa ja siivilöi munat. Sekoita maitoon.",
+   "Lisää voi, sahrami ja suola ja kuumenna hiljaa sekoittaen, kunnes seos hyytyy kiinteäksi (tai paista vesihauteessa 160 asteessa).",
+   "Jäähdytä ja leikkaa viipaleiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-sowpes-dorry",
+  "title": "Sowpes dorry (kultaiset mantelileivät)",
+  "description": "Viinissä paahdetut leivät kerrostetaan mantelimaidon kanssa, jossa öljyä, sahramia ja suolaa; pinnalle sokeria ja inkivääriä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leipä",
+   "mantelit",
+   "viini",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "100 g kuorittuja manteleita jauhettuna",
+   "3 dl valkoviiniä",
+   "2 rkl oliiviöljyä",
+   "0,3 g sahramia",
+   "ripaus suolaa",
+   "4 viipaletta paahdettua leipää",
+   "1 dl viiniä leivän kastamiseen",
+   "1 rkl sokeria",
+   "½ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Sekoita mantelit viiniin ja siivilöi. Lisää öljy, sahrami ja suola ja lämmitä.",
+   "Kasta paahdetut leivät viinissä.",
+   "Kerrosta vadille leipää ja mantelikastiketta.",
+   "Sirottele pinnalle sokeria ja inkivääriä."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-rape",
+  "title": "Rapey (viikuna-rusinasose)",
+  "description": "Viikunat ja rusinat kiehautetaan viinissä, survotaan ja siivilöidään ja keitetään paksuksi pippurin ja muiden mausteiden kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viikuna",
+   "rusinat",
+   "viini",
+   "vegaaninen",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g kuivattuja viikunoita",
+   "150 g rusinoita",
+   "4 dl punaviiniä",
+   "¼ tl mustapippuria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä",
+   "2 rkl riisijauhoja",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Kiehauta viikunat ja rusinat viinissä ja anna pehmetä.",
+   "Soseuta ja siivilöi.",
+   "Lisää mausteet ja riisijauho, keitä paksuksi ja suolaa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-sawse-sarzyne",
+  "title": "Saraseenikastike (ruusunmarja-mantelikastike)",
+  "description": "Ruusunmarjat ja öljyssä paistetut mantelit survotaan punaviiniin, makeutetaan ja maustetaan, sakeutetaan riisijauholla; koristeena granaattiomena.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "ruusunmarja",
+   "mantelit",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g ruusunmarjoja siemenistä puhdistettuina (tai 1 dl ruusunmarjasosetta)",
+   "100 g kuorittuja manteleita",
+   "2 rkl oliiviöljyä",
+   "3 dl punaviiniä",
+   "2 rkl sokeria",
+   "1 rkl riisijauhoja",
+   "½ tl suolaa",
+   "1 granaattiomenan siemenet",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Paista mantelit öljyssä ja soseuta ruusunmarjojen ja viinin kanssa.",
+   "Lisää sokeri ja maustejauhe ja sakeuta riisijauholla.",
+   "Keitä paksuksi. Koristele granaattiomenan siemenillä. Lihapäivänä joukkoon revittyä kanaa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-grewel-of-almaundes",
+  "title": "Kaura-mantelivelli",
+  "description": "Mantelit jauhetaan kaurajauhon kanssa, sekoitetaan veteen ja keitetään sahramin ja suolan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "kaura",
+   "mantelit",
+   "velli",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "50 g kuorittuja manteleita jauhettuna",
+   "1 dl kaurajauhoja",
+   "1 l vettä",
+   "0,2 g sahramia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita mantelit ja kaurajauho veteen ja siivilöi.",
+   "Keitä sekoittaen velliksi noin 10 minuuttia.",
+   "Mausta sahramilla ja suolalla."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-cawdel-of-almaund-mylk",
+  "title": "Mantelimaito-caudel (lämmin viinimantelijuoma)",
+  "description": "Mantelit jauhetaan viiniin, maustetaan inkiväärillä ja sokerilla, värjätään sahramilla ja keitetään.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mantelit",
+   "viini",
+   "kuuma juoma",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "100 g kuorittuja manteleita jauhettuna",
+   "5 dl valkoviiniä",
+   "½ tl jauhettua inkivääriä",
+   "2 rkl sokeria",
+   "0,2 g sahramia"
+  ],
+  "instructions": [
+   "Sekoita mantelit viiniin ja siivilöi.",
+   "Lisää inkivääri, sokeri ja sahrami.",
+   "Kiehauta ja tarjoa lämpimänä."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "formeofcury-jowtes-of-almaund-mylke",
+  "title": "Yrttikeitto mantelimaidossa (jowtes)",
+  "description": "Keitetyt ja survotut yrtit ja juurekset keitetään mantelimaidossa ja maustetaan sokerilla ja suolalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "yrtit",
+   "mantelit",
+   "kasvis",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 nippu persiljaa",
+   "200 g pinaattia tai mangoldia",
+   "1 purjo",
+   "1 palsternakka kuutioina",
+   "5 dl vettä",
+   "5 dl mantelimaitoa",
+   "1 tl sokeria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä yrtit ja purjo, hienonna ja soseuta veden kanssa.",
+   "Keitä palsternakka mantelimaidossa pehmeäksi.",
+   "Yhdistä, kiehauta ja mausta sokerilla ja suolalla."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-fygey",
+  "title": "Fygey (viikunavanukas mantelimaidossa)",
+  "description": "Mantelimaito viinistä ja vedestä keitetään viikunanneljännesten ja kokonaisten rusinoiden, inkiväärin ja hunajan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viikuna",
+   "mantelit",
+   "hunaja",
+   "vegaaninen",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "100 g kuorittuja manteleita jauhettuna",
+   "3 dl vettä",
+   "2 dl valkoviiniä",
+   "150 g kuivattuja viikunoita neljänneksinä",
+   "1 dl rusinoita",
+   "½ tl jauhettua inkivääriä",
+   "3 rkl hunajaa",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Sekoita mantelit veteen ja viiniin ja siivilöi.",
+   "Lisää viikunat, rusinat, inkivääri ja hunaja.",
+   "Keitä hyvin, kunnes seos sakenee. Suolaa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-pochee",
+  "title": "Uppomunat inkivääri-sahramikastikkeessa",
+  "description": "Munat uppokeitetään ja tarjotaan keltuaisista, maidosta, inkivääristä ja sahramista kuumennetun kastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kananmuna",
+   "sahrami",
+   "kasvis",
+   "nopea",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa uppokeittoon",
+   "4 munankeltuaista",
+   "3 dl maitoa",
+   "½ tl jauhettua inkivääriä",
+   "0,2 g sahramia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Uppokeitä munat hiljaa kiehuvassa vedessä.",
+   "Vatkaa keltuaiset, maito, inkivääri, sahrami ja suola ja kuumenna sakeaksi keittämättä.",
+   "Kaada kastike uppomunien päälle."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-brewet-of-ayrenn",
+  "title": "Munakeitto juustopaloilla",
+  "description": "Vesi, voi, sahrami ja juustopalat keitetään, sekaan verjus'n kanssa vatkatut munat; ei keitetä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kananmuna",
+   "juusto",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 l vettä",
+   "2 rkl voita",
+   "0,2 g sahramia",
+   "150 g kypsytettyä juustoa kuutioina",
+   "4 kananmunaa",
+   "3 rkl verjus'ta tai 1 rkl sitruunamehua",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä vesi, voi, sahrami ja juusto hetki.",
+   "Vatkaa munat verjus'n kanssa ja siivilöi.",
+   "Kaada munat liemeen ja kuumenna sekoittaen, ei kiehuvaksi. Suolaa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-macrows",
+  "title": "Macrows (keskiaikainen makaroni juustolla)",
+  "description": "Ohuesta taikinalevystä leikatut palat keitetään ja kerrostetaan raastetun juuston ja voin kanssa – makaronilaatikon esi-isä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "juusto",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "300 g vehnäjauhoja",
+   "1,5 dl vettä",
+   "150 g raastettua kypsytettyä juustoa",
+   "75 g sulatettua voita"
+  ],
+  "instructions": [
+   "Vaivaa jauhoista ja vedestä taikina, kaulitse ohueksi ja leikkaa paloiksi.",
+   "Keitä palat suolatussa vedessä kypsiksi.",
+   "Kerrosta vadille voita, pastaa ja juustoa kuten loseyns."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "formeofcury-tostee",
+  "title": "Tostee (hunajaviini paahtoleivän päällä)",
+  "description": "Viini ja hunaja keitetään ja kuoritaan, maustetaan inkiväärillä, pippurilla ja suolalla ja kaadetaan paahdetun leivän päälle; pinnalle inkiväärisuikaleita.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leipä",
+   "hunaja",
+   "viini",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "3 dl punaviiniä",
+   "1 dl hunajaa",
+   "½ tl jauhettua inkivääriä",
+   "¼ tl mustapippuria",
+   "ripaus suolaa",
+   "4 viipaletta paahdettua leipää",
+   "1 rkl hillottua inkivääriä suikaleina"
+  ],
+  "instructions": [
+   "Kuumenna viini ja hunaja ja kuori vaahto. Keitä hiljaa 10 minuuttia.",
+   "Mausta inkiväärillä, pippurilla ja suolalla.",
+   "Kaada paahdettujen leipien päälle ja koristele inkiväärisuikaleilla."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-gyngawdry",
+  "skip": "kalan maksoja ja vatsoja – vaikea saada ja toteuttaa"
+ },
+ {
+  "id": "formeofcury-erbowle",
+  "title": "Erbowle (kriikunasose hunajalla)",
+  "description": "Kriikunat tai luumut kiehautetaan viinissä ja siivilöidään, sekaan hunajaa, vahva maustejauhe ja riisijauho; koristeena aniskarkit.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "luumu",
+   "hunaja",
+   "viini",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "600 g kriikunoita tai luumuja",
+   "2 dl punaviiniä",
+   "3 rkl hunajaa",
+   "2 rkl riisijauhoja",
+   "ripaus suolaa",
+   "1 rkl valkoisia aniskarkkeja",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Kiehauta hedelmät viinissä pehmeiksi ja siivilöi.",
+   "Kuumenna hunaja ja kuori vaahto. Sekoita soseeseen.",
+   "Lisää maustejauhe ja riisijauho ja keitä paksuksi. Suolaa ja koristele aniskarkeilla."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-resmolle",
+  "title": "Rysmoyle (ohut riisi-mantelivelli)",
+  "description": "Mantelimaito sakeutetaan riisijauholla ja maustetaan inkiväärillä, sokerilla ja suolalla – jätetään notkeaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "mantelit",
+   "riisi",
+   "velli",
+   "vegaaninen",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "100 g kuorittuja manteleita jauhettuna",
+   "8 dl vettä",
+   "3 rkl riisijauhoja",
+   "½ tl jauhettua inkivääriä",
+   "2 rkl sokeria",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Sekoita mantelit veteen ja siivilöi.",
+   "Sekoita riisijauho joukkoon ja keitä notkeaksi velliksi.",
+   "Mausta inkiväärillä, sokerilla ja suolalla."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-vyaunde-cypre",
+  "title": "Vyaunde cypre (kaura-simavanukas)",
+  "description": "Hienoksi jauhettu kaura sekoitetaan simaan tai sokeroituun viiniin, maustetaan ja sakeutetaan riisijauholla; lihapäivänä sekaan jauhettua kanaa ja porsasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kaura",
+   "viini",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1,5 dl kaurajauhoja",
+   "5 dl simaa tai valkoviiniä",
+   "2 rkl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä",
+   "2 rkl riisijauhoja",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Sekoita kaurajauho simaan tai viiniin ja siivilöi.",
+   "Lisää sokeri ja mausteet ja sakeuta riisijauholla.",
+   "Keitä paksuksi. Halutessa lisää keitettyä jauhettua kanaa ja porsasta."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "formeofcury-vyande-cypre-of-samoun",
+  "title": "Lohi-mantelivanukas",
+  "description": "Keitetty lohi jauhetaan ja sekoitetaan kuorimattomista manteleista ja keitinliemestä tehtyyn mantelimaitoon, sakeutetaan riisijauholla ja maustetaan; jätetään notkeaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lohi",
+   "kala",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g lohta",
+   "8 dl vettä",
+   "100 g kuorimattomia manteleita jauhettuna",
+   "2 rkl riisijauhoja",
+   "1 tl sokeria",
+   "½ tl suolaa",
+   "½ tl paprikaa väriksi",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Keitä lohi miedossa vedessä ja ota liemi talteen.",
+   "Sekoita mantelit liemeen ja siivilöi.",
+   "Poista lohesta ruodot ja jauha hienoksi. Sekoita mantelimaitoon.",
+   "Sakeuta riisijauholla, mausta ja keitä notkeaksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-vyannd-ryal",
+  "title": "Vyaund ryal (kuninkaallinen viinivanukas)",
+  "description": "Makea viini ja hunaja sakeutetaan riisijauholla ja maustetaan inkiväärillä, pippurilla, kanelilla, neilikalla, sahramilla ja sokerilla; väri mulperista.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viini",
+   "hunaja",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "5 dl makeaa valkoviiniä",
+   "3 rkl hunajaa",
+   "3 rkl riisijauhoja",
+   "½ tl jauhettua inkivääriä",
+   "1 tl kanelia",
+   "¼ tl jauhettua neilikkaa",
+   "0,2 g sahramia",
+   "2 rkl sokeria",
+   "1 dl mulperia tai mustikoita väriksi",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset.",
+   "Keitä sekoittaen paksuksi.",
+   "Suolaa ja tarjoa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "formeofcury-compost",
+  "title": "Compost (keskiaikainen säilöttyjen vihannesten ja hedelmien sekoitus)",
+  "description": "Persiljanjuuri, palsternakka, nauris ja kaali keitetään, lisätään päärynät; maustetaan etikalla, sahramilla ja mausteilla ja säilötään makeaan viiniin, hunajaan, sinappiin ja korintteihin.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "juurekset",
+   "päärynä",
+   "säilöntä",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2 persiljanjuurta",
+   "2 palsternakkaa",
+   "2 naurista",
+   "¼ kaali",
+   "3 päärynää",
+   "3 dl viinietikkaa",
+   "0,3 g sahramia",
+   "1 tl suolaa",
+   "3 dl makeaa valkoviiniä",
+   "1 dl hunajaa",
+   "2 rkl karkeaa sinappia",
+   "1 dl korintteja",
+   "1 tl kanelia",
+   "1 tl aniksensiemeniä",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Kuori ja paloittele juurekset ja kaali ja keitä vedessä lähes kypsiksi. Lisää lohkotut päärynät ja keitä hetki.",
+   "Valuta ja jäähdytä liinalla. Suolaa.",
+   "Kaada päälle etikka, sahrami ja mausteet ja anna seistä yön yli.",
+   "Keitä viini ja hunaja, lisää sinappi, korintit, kaneli ja anis ja kaada vihannesten päälle. Säilytä purkissa kylmässä."
+  ],
+  "cookTimeMin": 1500
+ },
+ {
+  "id": "formeofcury-gele-of-fyssh",
+  "title": "Kalahyytelö",
+  "description": "Suutari, hauki, ankerias, piikkikampela ja punakampela keitetään viinissä ja etikassa, liemi kirkastetaan, maustetaan pippurilla ja sahramilla ja hyydytetään kalan päälle.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "hyytelö",
+   "kylmä",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kg erilaisia kaloja (hauki, kampela, ankerias) paloina",
+   "5 dl valkoviiniä",
+   "5 dl viinietikkaa ja vettä 1:1",
+   "½ tl mustapippuria",
+   "0,3 g sahramia",
+   "1 tl suolaa",
+   "6 liivatelehteä"
+  ],
+  "instructions": [
+   "Keitä kalat viinin ja etikkaveden seoksessa kypsiksi. Nosta kalat ja poista ruodot.",
+   "Siivilöi liemi liinan läpi, lisää pippuri, sahrami ja suola ja keitä vaahto kuorien. Poista rasva.",
+   "Sulata liotetut liivatteet liemeen (alkuperäisessä kala hyytyi omasta liemestään).",
+   "Asettele kalat vadille ja siivilöi liemi päälle. Hyydytä."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-gele-of-flessh",
+  "title": "Lihahyytelö (sylttyhyytelö)",
+  "description": "Sianjalat, -kärsä ja korvat, kana, kani ja vasikanjalat keitetään viinissä, etikassa ja vedessä ja hyydytetään kuten kalahyytelö.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "kana",
+   "hyytelö",
+   "kylmä",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2 sianjalkaa",
+   "1 kananreisi",
+   "500 g kaninpaloja tai porsaanlapaa",
+   "5 dl valkoviiniä",
+   "5 dl viinietikkaa",
+   "5 dl vettä",
+   "½ tl mustapippuria",
+   "0,3 g sahramia",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä lihat viinin, etikan ja veden seoksessa hiljaa 3 tuntia, kuorien.",
+   "Nosta lihat, poista luut ja asettele vadille.",
+   "Siivilöi liemi, mausta pippurilla, sahramilla ja suolalla ja poista rasva.",
+   "Kaada liemi lihojen päälle ja hyydytä kylmässä yön yli."
+  ],
+  "cookTimeMin": 240
+ }
+]

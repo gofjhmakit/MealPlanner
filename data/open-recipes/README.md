@@ -12,7 +12,7 @@ Openly licensed recipe collections, translated into Finnish for the app's recipe
 | [Open Recipe Archive](https://github.com/AdamBouhmad/open-recipe-archive) | 2 British sauces | Public domain (historical 1861 recipes) | Isabella Beeton, *The Book of Household Management* (1861); Open Recipe Archive |
 | [Apicius](https://www.gutenberg.org/ebooks/29728) (c. 400 AD) | 475 (22 skipped) | Public domain | De re coquinaria; English translation J. D. Vehling (1936, d. 1950); Project Gutenberg |
 | [Kokki-kirja](https://www.gutenberg.org/ebooks/73445) (1849) | 344 (38 skipped: techniques, preserving methods, household tips) | Public domain | J. F. Granlund (ed.), Turku 1849 – the first cookbook in Finnish; Project Gutenberg |
-| [The Forme of Cury](https://www.gutenberg.org/ebooks/8102) (c. 1390) | 190 (25 done) | Public domain | Master cooks of Richard II; ed. Samuel Pegge (1780); Project Gutenberg |
+| [The Forme of Cury](https://www.gutenberg.org/ebooks/8102) (c. 1390) | 171 (19 skipped: notes, showpieces, protected or unobtainable animals) | Public domain | Master cooks of Richard II; ed. Samuel Pegge (1780); Project Gutenberg |
 | [Open Recipe Project](https://github.com/reZach/open-recipe-project) | 2 pictured main dishes | CC0 (recipe and accompanying photograph) | Open Recipe Project contributors |
 
 **Licence of the translations.** The Finnish versions in `fi/` and `public/data/open-recipes/`
@@ -78,7 +78,7 @@ modern Finnish reading as in *Historical cookbooks* above. Oldest first:
 |---|---|---|---|
 | *Apicius*, De re coquinaria | c. 400 AD (Roman) | [#29728](https://www.gutenberg.org/ebooks/29728) | **Done** – all 497 entries (475 recipes, 22 skipped). Vehling died 20.9.1950 (DLA Marbach), so the translation is public domain in Finland. |
 | *Ancient Cookery* | 1381 | [#8102](https://www.gutenberg.org/ebooks/8102) | In the same ebook as The Forme of Cury, after the roll ("ANCIENT COOKERY. A.D. 1381"); headings like "I. FOR TO MAKE FURMENTY." – needs its own parser. |
-| *The Forme of Cury* | c. 1390 | [#8102](https://www.gutenberg.org/ebooks/8102) | **In the catalogue**; batches 001–007 (165 recipes) to translate. |
+| *The Forme of Cury* | c. 1390 | [#8102](https://www.gutenberg.org/ebooks/8102) | **Done** – all 190 entries; 171 recipes. A few later recipes (Crème of almaundes, Pomme dorryle, Ypocras, Pety peruaunt) are merged into the preceding entry by the parser and not translated separately. |
 | *The Accomplisht Cook* (Robert May) | 1660 | [#22790](https://www.gutenberg.org/ebooks/22790) | Large Restoration-era book, hundreds of recipes. |
 | *American Cookery* (Amelia Simmons) | 1796 | [#12815](https://www.gutenberg.org/ebooks/12815) | First American cookbook. |
 | *Modern Cookery for Private Families* (Eliza Acton) | 1845 | [#72482](https://www.gutenberg.org/ebooks/72482) | Influential; first to list ingredients with quantities. |

@@ -1,0 +1,738 @@
+[
+ {
+  "id": "formeofcury-whyte-mylates",
+  "title": "Valkoinen munapiiras etikalla (mylates)",
+  "description": "Siivilöidyt munat, raastettu leipä, sahrami, vahva maustejauhe ja reilusti etikkaa paistetaan piirakkapohjassa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kananmuna",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "6 kananmunaa",
+   "1 dl korppujauhoja",
+   "0,3 g sahramia",
+   "3 rkl viinietikkaa",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Vuoraa vuoka taikinalla ja esipaista 200 asteessa 10 minuuttia.",
+   "Vatkaa munat, korppujauho, sahrami, etikka, suola ja maustejauhe.",
+   "Kaada pohjaan ja paista 175 asteessa noin 30 minuuttia, kunnes täyte hyytyy."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-crustardes-of-flessh",
+  "title": "Lintupiiras sahrami-munatäytteellä (crustarde)",
+  "description": "Kyyhkyset, kana ja pikkulinnut keitetään liemessä verjus'n ja sahramin kanssa, kerrostetaan piirakkakuoreen korinttien ja maustejauheen kanssa ja kaadetaan päälle liemellä vatkatut munat.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kana",
+   "linnut",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "600 g kanaa (ja halutessa viiriäisiä) paloina",
+   "5 dl lientä",
+   "3 rkl verjus'ta tai sitruunamehua",
+   "0,3 g sahramia",
+   "3 rkl korintteja",
+   "½ tl suolaa",
+   "4 kananmunaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä lihat liemessä verjus'n ja sahramin kanssa kypsiksi. Irrota luut.",
+   "Vuoraa vuoka taikinalla ja asettele lihat. Ripottele korintit, maustejauhe ja suola.",
+   "Vatkaa munat 2 dl:n kanssa jäähtynyttä lientä ja kaada päälle. Peitä kannella.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "formeofcury-mylates-of-pork",
+  "title": "Porsaspiiras juustolla ja pinjansiemenillä",
+  "description": "Hienonnettu porsaanliha, munat ja raastettu juusto maustetaan vahvalla maustejauheella, sahramilla ja pinjansiemenillä ja paistetaan piirakkakuoressa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "juusto",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "500 g keitettyä tai jauhettua porsaanlihaa",
+   "3 kananmunaa",
+   "100 g raastettua juustoa",
+   "0,3 g sahramia",
+   "3 rkl pinjansiemeniä",
+   "1 tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita liha, munat, juusto, mausteet, pinjansiemenet ja suola.",
+   "Vuoraa vuoka taikinalla ja täytä.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-crustardes-of-fysshe",
+  "title": "Kalapiiras luumuilla (crustarde of fysshe)",
+  "description": "Ankerias ja muut kalat haudutetaan mantelimaidossa ja verjus'ssa, kerrostetaan paistettujen kalojen, maustejauheiden, korinttien ja luumujen kanssa piirakkakuoreen ja kaadetaan päälle galantiinikastikkeella maustettu liemi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kala",
+   "luumu",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "800 g kalaa (ankerias, nahkiainen, ahven) paloina",
+   "3 dl mantelimaitoa",
+   "3 rkl verjus'ta",
+   "3 rkl korintteja",
+   "8 kuivattua luumua",
+   "1 dl galantiinikastiketta tai 1 rkl etikkaa ja ripaus kanelia",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Hauduta kala mantelimaidossa ja verjus'ssa kypsäksi. Paista osa kalasta öljyssä.",
+   "Vuoraa vuoka taikinalla ja asettele kala, mausteet, korintit ja luumut.",
+   "Sekoita haudutusliemi ja galantiinikastike ja kaada päälle.",
+   "Paista 190 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-crustardes-of-eerbis-on-fyssh-day",
+  "title": "Yrtti-saksanpähkinäpiiras kalalla",
+  "description": "Yrtit ja runsaasti saksanpähkinöitä survotaan verjus'hun ja veteen ja keitetään mausteiden kanssa; kaadetaan puoliksi paistuneen kalapiiraan päälle. Kalattomana keitetyt keltuaiset.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kala",
+   "pähkinät",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "2 kourallista yrttejä (persilja, salvia, minttu)",
+   "100 g saksanpähkinöitä",
+   "1,5 dl verjus'ta tai sitruunavettä",
+   "1,5 dl vettä",
+   "0,2 g sahramia",
+   "500 g valkoista kalaa paloina",
+   "1 rkl oliiviöljyä",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Soseuta yrtit ja pähkinät verjus'n ja veden kanssa, lisää sahrami ja maustejauhe ja keitä.",
+   "Vuoraa vuoka taikinalla, laita raaka kala, öljy ja ripaus maustetta.",
+   "Paista 190 asteessa 20 minuuttia, kaada kastike päälle ja paista vielä 20 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-lesshes-fryed-in-lenton",
+  "title": "Paastoajan hedelmäpiiras",
+  "description": "Taatelit, omenat, päärynät ja luumut hienonnetaan rusinoiden, sokerin, kanelin, muskottikukan ja neilikan kanssa, sekoitetaan öljyyn ja paksuun mantelimaitoon ja paistetaan piirakassa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "omena",
+   "päärynä",
+   "luumu",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g vegaanista piirakkataikinaa",
+   "2 dl paksua mantelimaitoa",
+   "8 taatelia",
+   "2 omenaa",
+   "2 päärynää",
+   "8 kuivattua luumua",
+   "1 dl rusinoita",
+   "3 rkl sokeria",
+   "1 tl kanelia",
+   "2 muskottikukkaa",
+   "4 neilikkaa",
+   "2 rkl oliiviöljyä",
+   "ripaus suolaa",
+   "1 tl punaista väriä (marjamehua)"
+  ],
+  "instructions": [
+   "Hienonna hedelmät ja sekoita rusinat, sokeri, mausteet, öljy, suola ja mantelimaito.",
+   "Vuoraa vuoka taikinalla ja täytä.",
+   "Peitä halutessa kannella ja paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-wastels-yfarced",
+  "title": "Täytetty leipä (wastels yfarced)",
+  "description": "Vehnäleipä koverretaan ja täytetään sisuksesta, munista, lampaantalista, mausteista, sahramista ja korinteista; sidotaan kiinni ja keitetään.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "leipä",
+   "kananmuna",
+   "rusinat",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 pyöreä vaalea leipä (500 g)",
+   "3 kananmunaa",
+   "50 g lampaantalia tai voita",
+   "0,2 g sahramia",
+   "3 rkl korintteja",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Leikkaa leivästä kansi ja koverra sisus.",
+   "Murenna sisus ja sekoita munat, rasva, mausteet, sahrami, korintit ja suola.",
+   "Täytä leipä, laita kansi ja sido narulla tai kääri tiiviisti liinaan.",
+   "Keitä tai höyrytä noin 40 minuuttia (tai paista foliossa 180 asteessa)."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-sawge-yfarced",
+  "title": "Salvialla täytetty makkaramunakas (sawge yfarced)",
+  "description": "Makkarapalat paistetaan, ja päälle kaadetaan survotusta salviasta ja munista tehty seos, jota ei paisteta liian kovaksi; pinnalle makea maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "makkara",
+   "yrtit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2 makkaraa paloina",
+   "1 rkl voita",
+   "10 salvianlehteä",
+   "6 kananmunaa",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Paista makkaranpalat voissa.",
+   "Soseuta salvia munien ja suolan kanssa.",
+   "Kaada pannulle ja kypsennä pehmeäksi munakkaaksi.",
+   "Ripottele pinnalle makea maustejauhe."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-sawgeat",
+  "title": "Salvianlehtiin käärityt porsaspyörykät (sawgeat)",
+  "description": "Keitetty porsaanliha jauhetaan munien, leivän, mausteiden, sahramin ja pinjansiementen kanssa, kääritään salvianlehtiin, kastetaan munaan ja paistetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "yrtit",
+   "rasvassa paistettu",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g keitettyä porsaanlihaa jauhettuna",
+   "1 kananmuna",
+   "1 dl korppujauhoja",
+   "0,2 g sahramia",
+   "2 rkl pinjansiemeniä",
+   "½ tl suolaa",
+   "30 isoa salvianlehteä",
+   "2 kananmunaa kastamiseen",
+   "öljyä paistamiseen",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita liha, muna, korppujauho, mausteet, pinjansiemenet ja suola.",
+   "Muotoile pieniä palloja ja kääri kukin kahden salvianlehden väliin.",
+   "Kasta vatkattuun munaan ja paista öljyssä rapeiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-cryspes",
+  "title": "Cryspes (keskiaikaiset rapeat munkit)",
+  "description": "Vaalea taikina valutetaan sormien tai reikäkauhan läpi kuumaan rasvaan; paistetaan rapeiksi ja sokeroidaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "rasvassa paistettu",
+   "leivonta",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "3 dl vehnäjauhoja",
+   "2 kananmunaa",
+   "2 dl maitoa tai vettä",
+   "ripaus suolaa",
+   "rasvaa paistamiseen",
+   "sokeria pinnalle"
+  ],
+  "instructions": [
+   "Vatkaa jauhot, munat, maito ja suola notkeaksi taikinaksi.",
+   "Valuta taikinaa reikäkauhan tai tippaleipäsuuttimen läpi kuumaan rasvaan.",
+   "Paista rapeiksi, valuta ja sirottele sokeria."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-cryspels",
+  "title": "Cryspels (hunajalla kuorrutetut taikinalehdet)",
+  "description": "Paperinohuesta taikinasta leikatut palat paistetaan öljyssä ja kuorrutetaan kirkastetulla hunajalla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "rasvassa paistettu",
+   "hunaja",
+   "leivonta",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "300 g vehnäjauhoja",
+   "1 kananmuna",
+   "1 dl vettä",
+   "ripaus suolaa",
+   "öljyä paistamiseen",
+   "1,5 dl hunajaa"
+  ],
+  "instructions": [
+   "Vaivaa jauhoista, munasta, vedestä ja suolasta taikina ja kaulitse paperinohueksi. Leikkaa paloiksi.",
+   "Paista öljyssä rapeiksi.",
+   "Kuumenna hunaja, kuori vaahto ja valele palat."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-tartee",
+  "title": "Tartee (makea porsaspiiras luumuilla)",
+  "description": "Keitetty porsaanliha survotaan munien, rusinoiden, sokerin ja mausteiden kanssa, joukkoon pikkulintuja ja luumuja, ja paistetaan piirakassa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "luumu",
+   "rusinat",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "500 g keitettyä porsaanlihaa jauhettuna",
+   "3 kananmunaa",
+   "1 dl rusinoita",
+   "1 rkl sokeria",
+   "½ tl jauhettua inkivääriä",
+   "2 rkl laardia",
+   "8 kuivattua luumua",
+   "0,2 g sahramia",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Sekoita liha, munat, rusinat, sokeri, mausteet, laardi, sahrami ja suola. (Alkuperäisessä joukossa pikkulintuja.)",
+   "Vuoraa vuoka taikinalla, täytä ja painele luumut täytteeseen.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-tart-in-ymbre-day",
+  "title": "Sipulipiiras paastopäivälle",
+  "description": "Ryöpätty sipuli, leipä, munat, voi, sahrami, korintit, sokeri ja makea maustejauhe paistetaan piirakkapohjassa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sipuli",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "4 sipulia",
+   "1 dl korppujauhoja",
+   "3 kananmunaa",
+   "50 g voita",
+   "0,2 g sahramia",
+   "2 rkl korintteja",
+   "1 tl sokeria",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Ryöppää sipulit, purista vesi pois ja hienonna.",
+   "Sekoita korppujauho, munat, sulatettu voi, sahrami, suola, korintit, sokeri ja maustejauhe sipuleihin.",
+   "Kaada taikinapohjaan ja paista 190 asteessa noin 35 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-tart-de-bry",
+  "title": "Tart de Bry (brie-piiras)",
+  "description": "Tuuman syvyinen piirakkakuori täytetään raa'oista keltuaisista ja pehmeästä juustosta, maustetaan inkiväärillä, sokerilla, sahramilla ja suolalla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "juusto",
+   "kasvis",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "300 g brietä ilman kuorta tai pehmeää juustoa",
+   "6 munankeltuaista",
+   "½ tl jauhettua inkivääriä",
+   "1 rkl sokeria",
+   "0,2 g sahramia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Vuoraa matala vuoka taikinalla ja esipaista.",
+   "Sekoita juusto ja keltuaiset tasaiseksi ja mausta.",
+   "Kaada pohjaan ja paista 180 asteessa noin 25 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-tart-de-brymlent",
+  "title": "Paastoajan kala-hedelmäpiiras (tart de brymlent)",
+  "description": "Viinissä huuhdotut viikunat, rusinat, omenat ja päärynät keitetään viinin ja sokerin kanssa, sekaan survottua lohta tai turskaa; piiraan pinnalle luumuja ja taateleita.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kala",
+   "lohi",
+   "viikuna",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "100 g kuivattuja viikunoita",
+   "1 dl rusinoita",
+   "1 omena",
+   "1 päärynä",
+   "2 dl valkoviiniä",
+   "2 rkl sokeria",
+   "400 g keitettyä lohta tai turskaa",
+   "½ tl jauhettua inkivääriä",
+   "2 neilikkaa",
+   "½ tl suolaa",
+   "8 kuivattua luumua kivettöminä",
+   "6 taatelia neljänneksinä"
+  ],
+  "instructions": [
+   "Soseuta viikunat, rusinat, omena ja päärynä ja keitä viinin ja sokerin kanssa.",
+   "Lisää survottu kala, mausteet ja suola ja keitä hetki. Jäähdytä.",
+   "Täytä taikinapohja, painele pinnalle luumut ja taatelit ja peitä kannella.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-tartes-of-flesh",
+  "title": "Lihapiiras kanilla (tartes of flesh)",
+  "description": "Keitetty porsas, keitetyt munat ja juusto maustetaan ja paistetaan piirakassa; pinnalle haudutettuja pikkulintuja tai kaninlihaa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "kani",
+   "juusto",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "400 g keitettyä porsaanlihaa jauhettuna",
+   "3 kovaksi keitettyä kananmunaa hienonnettuna",
+   "100 g raastettua juustoa",
+   "1 rkl sokeria",
+   "0,2 g sahramia",
+   "½ tl suolaa",
+   "300 g haudutettua kanin- tai kananlihaa paloina",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita porsas, munat, juusto, sokeri, mausteet ja suola.",
+   "Täytä taikinapohja ja painele pinnalle kaninpalat. Peitä kannella.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-tartletes",
+  "title": "Vasikkatartaletit",
+  "description": "Pienet piiraat, joissa keitetty jauhettu vasikka, keitetyt munat, luumut, taatelit, pinjansiemenet, korintit, mausteet ja sokeri.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "vasikanliha",
+   "luumu",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "400 g keitettyä vasikanlihaa jauhettuna",
+   "2 kovaksi keitettyä kananmunaa hienonnettuna",
+   "6 kuivattua luumua",
+   "6 taatelia hienonnettuina",
+   "2 rkl pinjansiemeniä",
+   "2 rkl korintteja",
+   "1 rkl sokeria",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita täytteen ainekset.",
+   "Vuoraa pienet vuoat taikinalla ja täytä.",
+   "Paista 200 asteessa noin 25 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-tartes-of-fysshe",
+  "title": "Ankerias-lohipiiras",
+  "description": "Ankerias ja lohi haudutetaan mantelimaidossa; ankeriaan keskipalat täytetään jauhetulla kalalla, leivällä ja mausteilla, loput täytteestä sekoitetaan mantelimaitoon ja paistetaan piirakassa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kala",
+   "lohi",
+   "mantelit",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "400 g ankeriasta tai makrillia",
+   "400 g lohta",
+   "4 dl mantelimaitoa",
+   "3 rkl verjus'ta",
+   "1 dl korppujauhoja",
+   "1 rkl sokeria",
+   "½ tl suolaa",
+   "1 tl paprikaa väriksi",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Hauduta kalat mantelimaidossa ja verjus'ssa ja poista ruodot.",
+   "Jätä ankeriaan keskipala kokonaiseksi ja jauha muu kala, sekoita korppujauho, mausteet, sokeri ja suola.",
+   "Täytä ankeriaan ruotokohta seoksella, sekoita loput mantelimaitoon ja värjää.",
+   "Asettele piiraaseen ja paista 190 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-sambocade",
+  "title": "Sambocade (seljankukkajuustokakku)",
+  "description": "Siivilöity rahka, kolmannes sokeria ja vähän valkuaista paistetaan piirakkakuoressa seljankukkien kanssa – englantilainen juustokakku 1300-luvulta.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "juustokakku",
+   "kukat",
+   "leivonta",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "300 g piirakka- tai murotaikinaa",
+   "500 g maitorahkaa tai ricottaa",
+   "1,5 dl sokeria",
+   "2 munanvalkuaista",
+   "2 rkl tuoreita seljankukkia tai 1 rkl seljankukkamehua"
+  ],
+  "instructions": [
+   "Vuoraa vuoka taikinalla ja esipaista 200 asteessa 10 minuuttia.",
+   "Valuta ja siivilöi rahka. Sekoita sokeri, valkuaiset ja seljankukat.",
+   "Kaada pohjaan ja paista 175 asteessa noin 35 minuuttia. Jäähdytä."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-erbolates",
+  "title": "Erbolates (yrttimunapaistos)",
+  "description": "Persilja, minttu, kynteli, salvia, fenkoli ja muut yrtit hienonnetaan ja sekoitetaan muniin; paistetaan voidellussa vuoassa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kananmuna",
+   "yrtit",
+   "kasvis",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 nippu persiljaa",
+   "kourallinen minttua",
+   "1 tl kynteliä",
+   "4 salvianlehteä",
+   "½ fenkolin naatit",
+   "8 kananmunaa",
+   "½ tl suolaa",
+   "1 rkl voita"
+  ],
+  "instructions": [
+   "Hienonna yrtit. (Alkuperäisessä myös pietaryrttiä, rautayrttiä, ruutaa ja maruunaa – osa myrkyllisiä isoina määrinä, joten ne on jätetty pois.)",
+   "Vatkaa munat ja suola ja sekoita yrtit.",
+   "Kaada voideltuun vuokaan ja paista 175 asteessa noin 20 minuuttia."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "formeofcury-nysebek",
+  "title": "Nysebek (hapan suolaheinäfritteri)",
+  "description": "Suolaheinä ja jauhot vatkataan sitkeäksi taikinaksi, joka valutetaan sormella kuumaan öljyyn; paistetaan ja sokeroidaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "rasvassa paistettu",
+   "yrtit",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "1 kourallinen suolaheinää soseutettuna",
+   "2 dl vehnäjauhoja",
+   "noin 1 dl vettä",
+   "½ tl suolaa",
+   "öljyä paistamiseen",
+   "sokeria pinnalle"
+  ],
+  "instructions": [
+   "Sekoita suolaheinäsose ja jauhot ja vatkaa sitkeäksi taikinaksi. Suolaa.",
+   "Valuta taikinaa nauhoina kuumaan öljyyn.",
+   "Paista rapeiksi ja sirottele sokeria."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "formeofcury-cotagres",
+  "skip": "näyttäviä juhla-asetelmia (kana ja porsas ommeltuna yhteen), ei kotikeittiöön"
+ },
+ {
+  "id": "formeofcury-hert-rowee",
+  "skip": "näyttävä siilinmuotoinen juhla-asetelma porsaan vatsasta"
+ },
+ {
+  "id": "formeofcury-potews",
+  "skip": "saviruukuissa muotoiltu juhla-asetelma"
+ },
+ {
+  "id": "formeofcury-sachus",
+  "skip": "kangassäkeissä keitetty juhla-asetelma"
+ }
+]

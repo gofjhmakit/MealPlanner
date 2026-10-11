@@ -1,0 +1,437 @@
+[
+ {
+  "id": "formeofcury-bursews",
+  "title": "Bursews (rasvassa paistetut porsaspyörykät)",
+  "description": "Keitetty porsaanliha survotaan keitettyjen munien, mausteiden, suolan ja sokerin kanssa pieniksi palloiksi, jotka kastetaan munaan ja jauhoihin ja paistetaan kuin fritterit.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "rasvassa paistettu",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g keitettyä porsaanlihaa jauhettuna",
+   "2 kovaksi keitettyä kananmunaa hienonnettuna",
+   "1 tl sokeria",
+   "½ tl suolaa",
+   "2 kananmunaa",
+   "1 dl vehnäjauhoja",
+   "rasvaa paistamiseen",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita liha, keitetyt munat, maustejauhe, sokeri ja suola. Pyöritä pieniksi palloiksi.",
+   "Kasta vatkattuun munaan ja jauhoihin.",
+   "Paista kuumassa rasvassa kullanruskeiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-spynoches-yfryed",
+  "title": "Paistettu pinaatti",
+  "description": "Pinaatti ryöpätään, puristetaan kuivaksi, hienonnetaan ja paistetaan öljyssä; mausteena maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "pinaatti",
+   "kasvis",
+   "vegaaninen",
+   "nopea",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g tuoretta pinaattia",
+   "2 rkl oliiviöljyä",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Ryöppää pinaatti kiehuvassa vedessä ja purista kuivaksi.",
+   "Hienonna karkeasti.",
+   "Paista öljyssä ja mausta maustejauheella ja suolalla."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "formeofcury-benes-yfryed",
+  "title": "Paistetut pavut sipulilla ja valkosipulilla",
+  "description": "Lähes puhki keitetyt pavut valutetaan ja paistetaan öljyssä keitetyn sipulin ja valkosipulin kanssa; pinnalle makea maustejauhe.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "pavut",
+   "kasvis",
+   "vegaaninen",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "4 dl kuivattuja härkäpapuja tai valkoisia papuja liotettuina",
+   "2 sipulia keitettyinä ja hienonnettuina",
+   "3 valkosipulinkynttä",
+   "3 rkl oliiviöljyä",
+   "½ tl suolaa",
+   "Makea maustejauhe (powdour douce):",
+   "1 tl sokeria",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Keitä pavut pehmeiksi ja valuta hyvin.",
+   "Paista pavut, sipuli ja valkosipuli öljyssä.",
+   "Mausta suolalla ja makealla maustejauheella."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "formeofcury-rysshews-of-fruyt",
+  "title": "Hedelmäpyörykät (rysshews of fruyt)",
+  "description": "Viikunat ja rusinat huuhdotaan viinissä ja survotaan omenoiden ja päärynöiden kanssa; maustetusta massasta tehdään palloja, jotka paistetaan öljyssä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viikuna",
+   "omena",
+   "päärynä",
+   "rasvassa paistettu",
+   "vegaaninen",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g kuivattuja viikunoita",
+   "1 dl rusinoita",
+   "1 dl valkoviiniä",
+   "1 omena",
+   "1 päärynä",
+   "1 dl vehnäjauhoja tai korppujauhoja sitomaan",
+   "½ tl kanelia",
+   "¼ tl jauhettua inkivääriä",
+   "3 neilikkaa murskattuina",
+   "öljyä paistamiseen"
+  ],
+  "instructions": [
+   "Huuhdo viikunat ja rusinat viinissä ja soseuta kuorittujen omenan ja päärynän kanssa.",
+   "Lisää mausteet ja sen verran jauhoja, että massa pysyy koossa.",
+   "Muotoile palloja ja paista öljyssä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-daryols",
+  "title": "Daryols (sahraminen kermaleivonnainen)",
+  "description": "Kerma tai mantelimaito, munat, sokeri, sahrami ja suola paistetaan kahden tuuman syvyisessä piirakkakuoressa – keskiajan creme tart.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "kreemi",
+   "leivonta",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "5 dl kermaa tai mantelimaitoa",
+   "4 kananmunaa",
+   "1 dl sokeria",
+   "0,2 g sahramia",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Vuoraa syvä vuoka taikinalla ja esipaista 200 asteessa 10 minuuttia.",
+   "Vatkaa kerma, munat, sokeri, sahrami ja suola.",
+   "Kaada pohjaan ja paista 160 asteessa noin 40 minuuttia, kunnes täyte hyytyy."
+  ],
+  "cookTimeMin": 70
+ },
+ {
+  "id": "formeofcury-flaumpens",
+  "title": "Flaumpens (porsas-juustopiiras taikinakärjillä)",
+  "description": "Keitetty porsas ja juusto survotaan sokerin ja mausteiden kanssa matalaan piirakkapohjaan; pinnalle paistettuja ohuita taikinakärkiä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "juusto",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "400 g keitettyä rasvaista porsaanlihaa jauhettuna",
+   "150 g raastettua juustoa",
+   "1 rkl sokeria",
+   "½ tl suolaa",
+   "öljyä paistamiseen",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Sekoita liha, juusto, sokeri, maustejauhe ja suola.",
+   "Vuoraa matala vuoka taikinalla ja täytä.",
+   "Kaulitse loppu taikina ohueksi, leikkaa kolmioiksi ja paista öljyssä rapeiksi. Painele kärjet täytteeseen.",
+   "Paista 190 asteessa noin 35 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "formeofcury-chewetes-on-flesshe-day",
+  "title": "Chewetes (porsas-kanapasteijat)",
+  "description": "Paistettu porsas ja kana suljetaan pieniin piirakoihin keitettyjen keltuaisten, inkiväärin ja suolan kanssa ja paistetaan rasvassa tai uunissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "sianliha",
+   "kana",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "300 g porsaanlihaa kuutioina",
+   "300 g kananlihaa kuutioina",
+   "1 rkl voita",
+   "4 kovaksi keitettyä keltuaista",
+   "½ tl jauhettua inkivääriä",
+   "½ tl suolaa",
+   "1 kananmuna voiteluun"
+  ],
+  "instructions": [
+   "Paista liha voissa kypsäksi.",
+   "Kaulitse taikina ja leikkaa ympyröitä. Laita keskelle lihaa, keltuaisia, inkivääriä ja suolaa ja sulje kannella.",
+   "Voitele ja paista 200 asteessa noin 25 minuuttia (tai paista rasvassa)."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-chewetes-on-fyssh-day",
+  "title": "Paastopäivän kalapasteijat",
+  "description": "Keitetty valkoinen kala survotaan taatelien, rusinoiden, pinjansiementen ja mausteiden kanssa ja suljetaan pieniin piirakoihin, jotka paistetaan öljyssä tai uunissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kala",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "400 g piirakkataikinaa",
+   "500 g keitettyä turskaa tai koljaa",
+   "6 taatelia hienonnettuina",
+   "2 rkl rusinoita",
+   "2 rkl pinjansiemeniä",
+   "½ tl suolaa",
+   "Vahva maustejauhe (powdour fort):",
+   "¼ tl mustapippuria",
+   "¼ tl jauhettua inkivääriä",
+   "ripaus jauhettua neilikkaa"
+  ],
+  "instructions": [
+   "Survo kala ja sekoita taatelit, rusinat, pinjansiemenet, maustejauhe ja suola.",
+   "Täytä pienet taikinakuoret ja sulje.",
+   "Paista 200 asteessa noin 25 minuuttia tai öljyssä kullanruskeiksi."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-hastletes-of-fruyt",
+  "title": "Hedelmävartaat (hastletes of fruyt)",
+  "description": "Viikunat, rusinat, taatelit ja mantelit pujotetaan vartaaseen, paahdetaan ja kullataan sahramisella munataikinalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viikuna",
+   "mantelit",
+   "grilli",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "8 kuivattua viikunaa neljänneksinä",
+   "2 rkl isoja rusinoita",
+   "8 taatelia",
+   "24 kuorittua mantelia",
+   "1 munankeltuainen",
+   "1 rkl vehnäjauhoja",
+   "ripaus sahramia"
+  ],
+  "instructions": [
+   "Pujota hedelmät ja mantelit vartaisiin.",
+   "Vatkaa keltuainen, jauho ja sahrami.",
+   "Paahda vartaat grillissä tai uunin grillivastuksen alla, voitele munaseoksella ja paahda kullankeltaisiksi."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "formeofcury-comadore",
+  "title": "Comadore (mausteinen hedelmähillo)",
+  "description": "Viikunat, rusinat, omenat ja päärynät survotaan, keitetään öljyssä ja viinisiirapissa ja maustetaan inkiväärillä, kanelilla, galangalilla, neilikalla, muskottikukalla ja paistetuilla pinjansiemenillä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "viikuna",
+   "omena",
+   "päärynä",
+   "vegaaninen",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "150 g kuivattuja viikunoita",
+   "1 dl rusinoita",
+   "3 dl valkoviiniä",
+   "3 rkl sokeria",
+   "2 omenaa",
+   "2 päärynää",
+   "2 rkl oliiviöljyä",
+   "½ tl jauhettua inkivääriä",
+   "1 tl kanelia",
+   "½ tl jauhettua galangalia",
+   "4 neilikkaa",
+   "2 muskottikukkaa",
+   "3 rkl pinjansiemeniä öljyssä paistettuina",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Kiehauta viikunat ja rusinat viinissä ja soseuta. Liuota sokeri viiniin, siivilöi ja sekoita hedelmiin.",
+   "Soseuta kuoritut omenat ja päärynät ja lisää.",
+   "Keitä öljyssä miedolla lämmöllä sekoittaen paksuksi.",
+   "Lisää mausteet, pinjansiemenet ja suola. Jäähdytä ja leikkaa paloiksi tai tarjoa hillona."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-chastletes-xx",
+  "skip": "linnamaiseksi rakennettu juhla-asetelma"
+ },
+ {
+  "id": "formeofcury-ii-pecys-of-flessh-to-fasten-togyder",
+  "skip": "lihan liimaaminen raunioyrtillä, ei resepti"
+ },
+ {
+  "id": "formeofcury-blank-maunger-2",
+  "title": "Blancmange (kana-mantelimaitoriisi, toinen versio)",
+  "description": "Yön yli liotettu riisi keitetään puhki, sekaan kananliha ja mantelimaito; keitetään jäykäksi ja makeutetaan, koristeena rasvassa paistetut mantelit.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "riisi",
+   "mantelit",
+   "juhla",
+   "gluteeniton",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "2,5 dl puuroriisiä",
+   "600 g keitettyä kananrintaa revittynä",
+   "1 l mantelimaitoa",
+   "3 rkl sokeria",
+   "½ tl suolaa",
+   "3 rkl manteleita voissa paistettuina"
+  ],
+  "instructions": [
+   "Liota riisiä yön yli, huuhdo ja keitä vedessä, kunnes jyvät puhkeavat.",
+   "Lisää mantelimaito ja keitä.",
+   "Lisää kana ja keitä jäykäksi, sekoittaen ettei pohja pala.",
+   "Makeuta sokerilla, suolaa ja koristele paistetuilla manteleilla."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "formeofcury-blank-desne",
+  "title": "Blank desire (kana-mantelivanukas)",
+  "description": "Keitetty kananrinta survotaan, keitetään mantelimaidossa ja sakeutetaan riisijauholla ja vehnätärkkelyksellä jäykäksi; makeutetaan ja pinnalle valkoinen maustejauhe. Tarjotaan mawmenyn rinnalla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "mantelit",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g keitettyä kananrintaa",
+   "8 dl mantelimaitoa",
+   "3 rkl riisijauhoja",
+   "1 rkl maissitärkkelystä",
+   "3 rkl sokeria",
+   "1 rkl laardia tai voita",
+   "½ tl suolaa",
+   "1 tl sokeria ja ½ tl inkivääriä pinnalle"
+  ],
+  "instructions": [
+   "Hienonna ja survo kana.",
+   "Sekoita mantelimaitoon ja keitä.",
+   "Sakeuta riisijauholla ja tärkkelyksellä jäykäksi. Lisää sokeri, rasva ja suola.",
+   "Tarjoa sokeri-inkivääri pinnalla, mawmenyn kanssa samalla vadilla."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "formeofcury-mawmenny",
+  "title": "Mawmenny (keltainen kana-mantelimuhennos)",
+  "description": "Kopuunin tai kanan liha survotaan ja keitetään mantelimaidossa ja naudanliemessä, sakeutetaan riisijauholla ja keltuaisilla ja värjätään sahramilla; pinnalle neilikat ja galangal.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "mantelit",
+   "sahrami",
+   "juhla",
+   "keskiaikainen",
+   "englantilainen"
+  ],
+  "ingredients": [
+   "500 g keitettyä kanaa",
+   "5 dl mantelimaitoa",
+   "3 dl naudanlientä",
+   "3 rkl riisijauhoja",
+   "3 munankeltuaista",
+   "0,3 g sahramia",
+   "½ tl suolaa",
+   "8 neilikkaa",
+   "½ tl jauhettua galangalia"
+  ],
+  "instructions": [
+   "Hienonna ja survo kana.",
+   "Kuumenna mantelimaito ja liemi, lisää kana.",
+   "Sakeuta riisijauholla ja keltuaisilla jäykäksi ja värjää sahramilla. Suolaa.",
+   "Painele pinnalle neilikat ja sirottele galangal. Tarjoa blank desiren rinnalla."
+  ],
+  "cookTimeMin": 40
+ }
+]
