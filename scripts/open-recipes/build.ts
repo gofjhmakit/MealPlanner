@@ -269,7 +269,7 @@ for (const source of OPEN_SOURCES) {
         license: orig.license,
         licenseUrl: orig.licenseUrl,
         ...(orig.ingredients.length === 0 && 'year' in source
-          ? { originalText: [...orig.instructions, ...(orig.notes?.length ? ['Selityksiä (Pegge 1780):', ...orig.notes] : [])].join('\n\n'), year: source.year }
+          ? { originalText: [...orig.instructions, ...(orig.notes?.length ? [`Selityksiä (${source.id === 'apicius' ? 'Vehling 1936' : 'Pegge 1780'}):`, ...orig.notes] : [])].join('\n\n'), year: source.year }
           : 'year' in source ? { year: source.year } : {}),
       }))
     }

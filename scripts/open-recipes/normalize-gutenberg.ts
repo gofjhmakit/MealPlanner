@@ -149,7 +149,9 @@ interface Historical {
   let current: { no: number; title: string; latin: string; text: string[]; notes: string[] } | null = null
   const flush = () => {
     if (!current) return
-    const recipe = paragraphs(current.text.join('\n')).filter((p) => !/^\{Illustration/.test(p) && !/^END OF BOOK|^EXPLICIT|^APICIUS$|^Book [IVX]+$/i.test(p) && !/^[IVXLC]+\.?$/.test(p))
+    // Drop illustration captions and the editor's transcriptions of old title pages ({Transcription: …}).
+    const raw = current.text.join('\n').replace(/\{Transcription[\s\S]*?\}/g, '').replace(/\{Illustration[\s\S]*?\}/g, '').replace(/Celii apitii[\s\S]*$/i, '')
+    const recipe = paragraphs(raw).filter((p) => !/^\{/.test(p)).filter((p) => !/^\{Illustration/.test(p) && !/^END OF BOOK|^EXPLICIT|^APICIUS$|^Book [IVX]+$/i.test(p) && !/^[IVXLC]+\.?$/.test(p))
     if (recipe.length) {
       out.push({
         id: `apicius-${String(current.no).padStart(3, '0')}`,

@@ -215,7 +215,7 @@ export function RecipesPage() {
         <>
           <p className="mb-3 text-sm text-muted">
             {results.length.toLocaleString('fi-FI')} reseptiä · {SORT_LABELS[sort].toLowerCase()}
-            {hiddenForAllergies > 0 && ` · ${hiddenForAllergies.toLocaleString('fi-FI')} piilotettu allergioiden vuoksi (näkyvät haulla)`}
+            {hiddenForAllergies > 0 && activeCount === 0 && ` · ${hiddenForAllergies.toLocaleString('fi-FI')} piilotettu allergioiden vuoksi (näkyvät haulla)`}
           </p>
           <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 3xl:grid-cols-6">
             {results.slice(0, limit).map((r) => {

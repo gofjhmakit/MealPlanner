@@ -1,0 +1,779 @@
+[
+ {
+  "id": "apicius-427",
+  "title": "Suolattu kala taateli-sinappikastikkeella",
+  "description": "Pippuria, ruutaa, sipulia, taateleita ja sinappia öljyn kanssa paistetun tai grillatun suolakalan päälle (alkuperäisessä mukana merisiilin lihaa).",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g suolakalaa liotettuna",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "ripaus ruutaa",
+   "1 sipuli",
+   "4 taatelia",
+   "1 tl sinappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Paista tai grillaa kala; älä suolaa.",
+   "Survo kastikkeen aineet, kostuta öljyllä ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-428",
+  "title": "Maksavanukas kalan muotoon",
+  "description": "Keitetty maksa survotaan pippurin, garumin ja öljyn kanssa, painetaan kalan muotoiseen vuokaan, paistetaan ja valellaan neitsytöljyllä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "maksa",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g kanan- tai lampaanmaksaa",
+   "¼ tl mustapippuria",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 kananmuna",
+   "2 rkl neitsytoliiviöljyä pinnalle"
+  ],
+  "instructions": [
+   "Keitä maksa ja survo tai soseuta.",
+   "Sekoita pippuri, kalakastike, öljy ja muna joukkoon.",
+   "Paina vuokaan (vaikka kalan muotoiseen) ja paista vesihauteessa 160 asteessa noin 25 minuuttia. Kumoa ja valele neitsytöljyllä."
+  ]
+ },
+ {
+  "id": "apicius-429",
+  "title": "Suolakala kumina-pähkinäkastikkeessa",
+  "description": "Kuminaa, pippuria ja garumia, tilkka makeaa viiniä ja runsaasti murskattuja pähkinöitä sekoitetaan suolakalan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pähkinät",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g suolakalaa liotettuna ja kypsennettynä",
+   "1 tl juustokuminaa",
+   "¼ tl mustapippuria",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl makeaa rusinaviiniä",
+   "1 dl murskattuja saksanpähkinöitä",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Survo kumina ja pippuri kalakastikkeen ja viinin kanssa, lisää pähkinät.",
+   "Sekoita hiutaloidun suolakalan kanssa, lisää öljy ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-430",
+  "title": "Kumina-valkosipulitahna vatsalle",
+  "description": "Kourallinen kuminaa, puolet pippuria ja kynsi valkosipulia garumin ja öljyn kanssa – ”korjaa happaman vatsan ja edistää ruoansulatusta”.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 rkl juustokuminaa",
+   "1 rkl mustapippuria",
+   "1 valkosipulinkynsi",
+   "2 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Survo kumina, pippuri ja valkosipuli.",
+   "Kostuta kalakastikkeella ja sekoita joukkoon öljy. Käytä mausteena kalan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-431",
+  "title": "Baiaen äyriäispata",
+  "description": "Hienonnetut osterit ja simpukat haudutetaan paahdettujen pähkinöiden, ruudan, sellerin, pippurin, korianterin ja kuminan kanssa makeassa viinissä ja garumissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "äyriäiset",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "300 g osteria tai kampasimpukoita",
+   "500 g sinisimpukoita kypsinä ja kuorittuina",
+   "3 rkl paahdettuja pähkinöitä",
+   "ripaus ruutaa",
+   "1 varsi selleriä",
+   "¼ tl mustapippuria",
+   "½ tl korianterinsiemeniä",
+   "½ tl juustokuminaa",
+   "½ dl makeaa rusinaviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl rypälesiirappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Hienonna äyriäiset ja laita kattilaan.",
+   "Lisää pähkinät, yrtit, mausteet, viini, kalakastike, siirappi ja öljy ja hauduta hetki."
+  ]
+ },
+ {
+  "id": "apicius-432",
+  "title": "Paistettu kala yrttikastikkeessa (diabotanon)",
+  "description": "Suolattu, jauhoihin käännetty kala paistetaan; päälle kuuma kastike pippurista, kuminasta, korianterista, asafetidasta, oreganosta ja ruudasta etikan, taateliviinin, hunajan ja garumin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalafileitä",
+   "½ tl suolaa",
+   "3 rkl vehnäjauhoja",
+   "3 rkl oliiviöljyä",
+   "¼ tl mustapippuria",
+   "½ tl juustokuminaa",
+   "½ tl korianterinsiemeniä",
+   "ripaus asafetidaa (hing)",
+   "½ tl kuivattua oreganoa",
+   "ripaus ruutaa",
+   "1 rkl viinietikkaa",
+   "2 rkl makeaa viiniä",
+   "1 tl hunajaa",
+   "1 rkl rypälesiirappia",
+   "1 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Suolaa kala, käännä jauhoissa ja paista öljyssä.",
+   "Survo mausteet ja sekoita nesteisiin. Kuumenna ja kaada kalan päälle, ripottele pippuria."
+  ]
+ },
+ {
+  "id": "apicius-433",
+  "title": "Keitetty kala pähkinä-taatelikastikkeessa",
+  "description": "Pippuria, lipstikkaa, kuminaa, pikku sipuleita, oreganoa, pähkinöitä, taateleita, hunajaa, etikkaa, garumia, sinappia ja öljyä – halutessa rusinoita.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pähkinät",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalaa",
+   "1 l suolavettä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl juustokuminaa",
+   "2 pientä sipulia",
+   "½ tl kuivattua oreganoa",
+   "3 rkl pähkinöitä",
+   "4 taatelia",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 tl sinappia",
+   "2 rkl oliiviöljyä",
+   "2 rkl rusinoita (valinnainen)"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä tai höyrytä.",
+   "Survo kastikkeen mausteet, sekoita loput aineet ja kuumenna. Tarjoa kalan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-434",
+  "title": "Keitetty kala keltuais-kynteliäkastikkeessa",
+  "description": "Pippuria, lipstikkaa, korianteria, kynteliä, sipulia ja kovaksi keitettyjä keltuaisia makean viinin, etikan, öljyn ja garumin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kananmuna",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalaa",
+   "1 l suolavettä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "2 rkl tuoretta korianteria",
+   "½ tl kuivattua kynteliä",
+   "1 sipuli",
+   "2 kovaksi keitettyä munankeltuaista",
+   "2 rkl makeaa rusinaviiniä",
+   "1 rkl viinietikkaa",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä tai höyrytä.",
+   "Survo kastikkeen mausteet, sekoita loput aineet ja kuumenna. Tarjoa kalan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-435",
+  "title": "Korianterisuolassa uunissa kypsennetty kala",
+  "description": "Kala käännetään suolan ja murskatun korianterinsiemenen seoksessa, kypsennetään tiiviisti suljetussa vuoassa ja valellaan vahvalla etikalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "800 g kokonaista kalaa tai fileitä",
+   "1 tl suolaa",
+   "1 rkl korianterinsiemeniä murskattuina",
+   "2 rkl vahvaa viinietikkaa"
+  ],
+  "instructions": [
+   "Survo suola ja korianteri ja kääntele kala seoksessa.",
+   "Laita kannelliseen vuokaan (alkuperäisessä kansi tiivistettiin kipsillä) ja kypsennä 175 asteessa noin 25 minuuttia.",
+   "Valele etikalla ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-436",
+  "title": "Tillikala korianterinsiemenillä",
+  "description": "Kala haudutetaan matalassa pannussa korianterinsiementen, veden ja tuoreen tillin kanssa ja valellaan etikalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nopea",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalafileitä",
+   "1 tl korianterinsiemeniä",
+   "2 dl vettä",
+   "1 nippu tilliä",
+   "1 rkl viinietikkaa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Laita kala matalaan pannuun korianterinsiementen, veden, suolan ja tillin kanssa ja hauduta kypsäksi.",
+   "Valele etikalla ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-437",
+  "title": "Grillattu kala aleksandrialaisella luumukastikkeella",
+  "description": "Pippuria, salottisipulia, lipstikkaa, kuminaa, oreganoa, sellerinsiementä ja kivettömiä luumuja etikan, garumin, rypälesiirapin ja öljyn kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "luumu",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kalafileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "2 salottisipulia",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl juustokuminaa",
+   "½ tl kuivattua oreganoa",
+   "½ tl sellerinsiemeniä",
+   "6 kuivattua luumua",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl rypälesiirappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-438",
+  "title": "Grillattu kala rusina-korianterikastikkeella",
+  "description": "Pippuria, lipstikkaa, tuoretta korianteria ja kivettömiä rusinoita viinin, makean viinin, garumin ja öljyn kanssa keitettynä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kalafileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "2 rkl tuoretta korianteria",
+   "3 rkl rusinoita",
+   "½ dl valkoviiniä",
+   "2 rkl makeaa rusinaviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-439",
+  "title": "Grillattu kala luumu-korianterikastikkeella",
+  "description": "Pippuria, lipstikkaa, korianteria, sipulia ja luumuja makean viinin, garumin, öljyn ja etikan kanssa keitettynä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "luumu",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kalafileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "2 rkl tuoretta korianteria",
+   "1 sipuli",
+   "6 kuivattua luumua",
+   "2 rkl makeaa rusinaviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-440",
+  "title": "Grillattu ankerias keltuais-oreganokastikkeella",
+  "description": "Pippuria, lipstikkaa, kuminaa, oreganoa, kuivattua sipulia ja kovaksi keitettyjä keltuaisia viinin, siman, etikan, garumin ja rypälesiirapin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl juustokuminaa",
+   "½ tl kuivattua oreganoa",
+   "1 rkl kuivattua sipulia",
+   "2 kovaksi keitettyä munankeltuaista",
+   "½ dl valkoviiniä",
+   "2 rkl simaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-441",
+  "title": "Hauki rusina-oreganokastikkeessa",
+  "description": "Pippuria, lipstikkaa, oreganoa, sipulia ja kivettömiä rusinoita viinin, hunajan, etikan, garumin ja öljyn kanssa (alkuperäisessä ”sarvikala”).",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "hauki",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "800 g haukea tai nokkakalaa",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua oreganoa",
+   "1 sipuli",
+   "3 rkl rusinoita",
+   "½ dl valkoviiniä",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-442",
+  "title": "Grillattu mullo ruuta-pähkinäkastikkeella",
+  "description": "Pippuria, lipstikkaa, ruutaa, hunajaa, pähkinöitä, etikkaa, viiniä, garumia ja vähän öljyä kuumana päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pähkinät",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 mulloa tai ahventa",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "ripaus ruutaa",
+   "1 tl hunajaa",
+   "3 rkl pähkinöitä",
+   "1 rkl viinietikkaa",
+   "½ dl valkoviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-443",
+  "title": "Grillattu mullo vihreällä yrttikastikkeella",
+  "description": "Tuoretta ruutaa, minttua, korianteria ja fenkolia, pippuria, lipstikkaa, hunajaa, garumia ja vähän öljyä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "yrtit",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 mulloa tai ahventa",
+   "2 rkl oliiviöljyä paistamiseen",
+   "ripaus tuoretta ruutaa",
+   "1 rkl tuoretta minttua",
+   "2 rkl tuoretta korianteria",
+   "2 rkl fenkolin vihreitä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "1 tl hunajaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-444",
+  "title": "Nuori tonnikala oregano-rusinakastikkeessa",
+  "description": "Pippuria, lipstikkaa, oreganoa, korianteria, sipulia ja kivettömiä rusinoita makean viinin, etikan, garumin, rypälesiirapin ja öljyn kanssa – sopii myös keitetylle kalalle hunajan kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "tonnikala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 tonnikala- tai makrillifileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua oreganoa",
+   "2 rkl tuoretta korianteria",
+   "1 sipuli",
+   "3 rkl rusinoita",
+   "2 rkl makeaa rusinaviiniä",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl rypälesiirappia",
+   "2 rkl oliiviöljyä",
+   "1 tl hunajaa (keitetylle kalalle)"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-446",
+  "title": "Ahven luumu-kuminakastikkeessa",
+  "description": "Pippuria, lipstikkaa, kuminaa, sipulia ja kivettömiä luumuja viinin, siman, etikan, öljyn ja rypälesiirapin kanssa keitettynä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ahven",
+   "luumu",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ahvenfileitä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl juustokuminaa",
+   "1 sipuli",
+   "6 kuivattua luumua",
+   "½ dl valkoviiniä",
+   "2 rkl simaa",
+   "1 rkl viinietikkaa",
+   "2 rkl oliiviöljyä",
+   "1 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-447",
+  "title": "Punakala timjamikastikkeessa",
+  "description": "Pippuria, lipstikkaa, kuminaa, ajuruohoa, sellerinsiementä ja kuivattua sipulia viinin, makean viinin, etikan, garumin ja öljyn kanssa; suurustetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 punakala- tai ahvenfileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuminaa",
+   "½ tl kuivattua timjamia",
+   "½ tl sellerinsiemeniä",
+   "1 rkl kuivattua sipulia",
+   "½ dl valkoviiniä",
+   "2 rkl makeaa rusinaviiniä",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 tl perunajauhoja",
+   "1 dl vettä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-448",
+  "title": "Grillattu ankerias sahrami-luumukastikkeessa",
+  "description": "Pippuria, lipstikkaa, kynteliä, sahramia, sipulia ja luumuja viinin, siman, etikan, rypälesiirapin ja öljyn kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "luumu",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua kynteliä",
+   "0,2 g sahramia",
+   "1 sipuli",
+   "6 kuivattua luumua",
+   "½ dl valkoviiniä",
+   "2 rkl simaa",
+   "1 rkl viinietikkaa",
+   "1 rkl rypälesiirappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-449",
+  "title": "Grillattu ankerias luumukastikkeessa",
+  "description": "Pippuria, lipstikkaa ja luumuja viinin, siman, etikan, garumin, rypälesiirapin ja öljyn kanssa keitettynä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "luumu",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "6 kuivattua luumua",
+   "½ dl valkoviiniä",
+   "2 rkl simaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl rypälesiirappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-450",
+  "title": "Grillattu ankerias pinjansiemenkastikkeessa",
+  "description": "Pippuria, lipstikkaa, kissanminttua, korianterinsiementä, sipulia ja pinjansiemeniä hunajan, etikan, garumin ja öljyn kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "pähkinät",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua minttua",
+   "½ tl korianterinsiemeniä",
+   "1 sipuli",
+   "3 rkl pinjansiemeniä",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Grillaa tai paista kala öljyllä siveltynä.",
+   "Survo kastikkeen mausteet ja sekoita nesteet joukkoon. Keitä hetki ja kaada kalan päälle."
+  ]
+ },
+ {
+  "id": "apicius-451",
+  "title": "Keitetty ankerias tilli-pinjansiemenkastikkeessa",
+  "description": "Pippuria, lipstikkaa, tilliä, sellerinsiementä, korianteria, minttua, pinjansiemeniä ja ruutaa hunajan, etikan, viinin ja garumin kanssa; suurustetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "1 l suolavettä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "1 rkl tilliä",
+   "½ tl sellerinsiemeniä",
+   "½ tl korianterinsiemeniä",
+   "1 tl kuivattua minttua",
+   "3 rkl pinjansiemeniä",
+   "ripaus ruutaa",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "½ dl valkoviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "1 rkl oliiviöljyä",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä tai höyrytä.",
+   "Survo kastikkeen mausteet, sekoita loput aineet ja kuumenna. Tarjoa kalan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-452",
+  "title": "Keitetty ankerias taateli-sinappikastikkeessa",
+  "description": "Pippuria, lipstikkaa, kuminaa, sellerinsiementä, korianteria, taateleita, sinappia, hunajaa, etikkaa, garumia, öljyä ja keitettyä viiniä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta tai madetta paloina",
+   "1 l suolavettä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuminaa",
+   "½ tl sellerinsiemeniä",
+   "½ tl korianterinsiemeniä",
+   "4 taatelia",
+   "1 tl sinappia",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä tai höyrytä.",
+   "Survo kastikkeen mausteet, sekoita loput aineet ja kuumenna. Tarjoa kalan kanssa."
+  ]
+ }
+]

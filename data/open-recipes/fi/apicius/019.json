@@ -1,0 +1,657 @@
+[
+ {
+  "id": "apicius-478",
+  "title": "Paahdettu kala tilli-keltuaiskastikkeen päällä",
+  "description": "Pippuria, lipstikkaa, kynteliä, kuivattua sipulia, taateleita, tilliä ja keltuaisia hunajan, etikan, garumin, öljyn ja rypälesiirapin kanssa kalan alle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kalafileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua kynteliä",
+   "1 rkl kuivattua sipulia",
+   "4 taatelia",
+   "1 rkl tilliä",
+   "2 kovaksi keitettyä munankeltuaista",
+   "1 tl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Paahda tai paista kala.",
+   "Survo kastikkeen aineet tasaiseksi ja levitä annoksen alle."
+  ]
+ },
+ {
+  "id": "apicius-479",
+  "title": "Paistettu kala viini-yrttikastikkeessa",
+  "description": "Paistetulle kalalle kastike pippurista, lipstikasta, ruudasta, vihreistä yrteistä ja kuivatusta sipulista öljyn, viinin ja garumin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kalafileetä",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "ripaus ruutaa",
+   "3 rkl tuoreita yrttejä",
+   "1 rkl kuivattua sipulia",
+   "1 rkl oliiviöljyä",
+   "1 dl valkoviiniä",
+   "1 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Paista kala öljyssä.",
+   "Survo mausteet ja yrtit, sekoita öljy, viini ja kalakastike joukkoon ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-480",
+  "title": "Sardiinit kylmällä keltuais-oreganokastikkeella",
+  "description": "Pippuria, lipstikkaa, oreganoa, kuivattua sipulia ja kovaksi keitettyjä keltuaisia etikan ja öljyn kanssa tasaiseksi kastikkeeksi sardiinien alle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "sardiini",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "12 sardiinia",
+   "2 rkl oliiviöljyä paistamiseen",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua oreganoa",
+   "1 rkl kuivattua sipulia",
+   "3 kovaksi keitettyä munankeltuaista",
+   "1 rkl viinietikkaa",
+   "3 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Paista tai grillaa sardiinit.",
+   "Survo kastikkeen aineet tasaiseksi ja levitä kalojen alle."
+  ]
+ },
+ {
+  "id": "apicius-481",
+  "title": "Kalapata viinissä purjon ja korianterin kanssa",
+  "description": "Kalapalat haudutetaan öljyssä, garumissa ja etikassa purjo-korianterinipun kanssa; nippu survotaan pippurin, oreganon ja lipstikan kanssa kastikkeeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pata",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "800 g kalaa paloina",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl viinietikkaa",
+   "1 dl valkoviiniä",
+   "1 purjo",
+   "1 nippu korianteria",
+   "¼ tl mustapippuria",
+   "½ tl kuivattua oreganoa",
+   "1 tl kuivattua lipstikkaa",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Laita kala kattilaan öljyn, kalakastikkeen, etikan, viinin ja yrttinippujen kanssa ja hauduta.",
+   "Survo pippuri, oregano ja lipstikka keitettyjen purjon ja korianterin kanssa ja kaada kattilaan.",
+   "Nosta kala vadille, suurusta liemi ja kaada päälle."
+  ]
+ },
+ {
+  "id": "apicius-482",
+  "title": "Tillimullot",
+  "description": "Kala haudutetaan öljyssä, garumissa ja viinissä purjon, korianterin ja tillin kanssa; kastike pippurista, öljystä, etikasta ja makeasta viinistä suurustetaan ja kaadetaan päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 mulloa, ahventa tai kuhafileetä",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)",
+   "1 dl valkoviiniä",
+   "1 purjo",
+   "2 rkl tuoretta korianteria",
+   "1 nippu tilliä",
+   "¼ tl mustapippuria",
+   "1 rkl viinietikkaa",
+   "2 rkl makeaa rusinaviiniä",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Hauduta kala öljyssä, kalakastikkeessa ja viinissä yrttien kanssa.",
+   "Survo pippuri, lisää öljy, etikka ja makea viini, kuumenna ja suurusta.",
+   "Kaada kastike kalan päälle ja ripottele pippuria."
+  ]
+ },
+ {
+  "id": "apicius-483",
+  "title": "Mullot oregano-lipstikkakastikkeessa",
+  "description": "Kala haudutetaan öljyssä, garumissa ja viinissä purjon ja korianterin kanssa; kastike pippurista, lipstikasta ja oreganosta kalan liemellä ja makealla viinillä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 mulloa tai ahventa",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)",
+   "1 dl valkoviiniä",
+   "1 purjo",
+   "1 nippu korianteria",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua oreganoa",
+   "2 rkl makeaa rusinaviiniä",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Hauduta kala öljyssä, kalakastikkeessa ja viinissä purjon ja korianterin kanssa.",
+   "Survo mausteet, kostuta kalan liemellä ja makealla viinillä, kuumenna ja suurusta.",
+   "Kaada kastike pataan ja ripottele pippuria."
+  ]
+ },
+ {
+  "id": "apicius-484",
+  "title": "Ankerias minttu-hunajaliemessä",
+  "description": "Kala kypsennetään kokonaan peittävässä liemessä, jossa pippuria, lipstikkaa, oreganoa, minttua ja kuivattua sipulia viinin, garumin, hunajan ja rypälesiirapin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "ankerias",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g ankeriasta, madetta tai ahventa",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuivattua oreganoa",
+   "1 tl kuivattua minttua",
+   "1 rkl kuivattua sipulia",
+   "2 dl valkoviiniä",
+   "1 dl kalakastiketta ja vettä sekoitettuna",
+   "1 rkl hunajaa",
+   "1 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Asettele kala kattilaan.",
+   "Survo mausteet ja sekoita viiniin, kalakastikkeeseen, hunajaan ja siirappiin. Kaada kalan päälle niin, että se peittyy.",
+   "Hauduta kypsäksi."
+  ]
+ },
+ {
+  "id": "apicius-485",
+  "title": "Langustin keltuaiskastike",
+  "description": "Pippuria, lipstikkaa ja sellerinsiementä etikan, garumin ja kovaksi keitettyjen keltuaisten kanssa keitetyn langustin tai ravun lihan päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g keitettyä langustin-, hummerin- tai ravunlihaa",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl sellerinsiemeniä",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 kovaksi keitettyä munankeltuaista"
+  ],
+  "instructions": [
+   "Survo mausteet ja keltuaiset etikan ja kalakastikkeen kanssa tasaiseksi.",
+   "Kääntele äyriäisten liha kastikkeessa ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-486",
+  "title": "Keitetty kala pinjansiemen-taatelikastikkeessa",
+  "description": "Pippuria, lipstikkaa, sellerinsiementä ja oreganoa etikassa; pinjansiemeniä, taateleita, hunajaa, garumia ja sinappia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalaa",
+   "1 l suolavettä",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl sellerinsiemeniä",
+   "½ tl kuivattua oreganoa",
+   "1 rkl viinietikkaa",
+   "3 rkl pinjansiemeniä",
+   "4 taatelia",
+   "1 tl hunajaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 tl sinappia"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä.",
+   "Survo kastikkeen aineet ja tarjoa kalan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-487",
+  "title": "Kampelavuoka munilla",
+  "description": "Kampelat haudutetaan garumissa, öljyssä ja viinissä purjon ja korianterinsiementen kanssa; liemi sekoitetaan kymmeneen munaan ja kaadetaan kalojen päälle hyytymään.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kananmuna",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 kampelafileetä",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 dl valkoviiniä",
+   "1 purjo",
+   "½ tl korianterinsiemeniä",
+   "¼ tl mustapippuria",
+   "½ tl kuivattua oreganoa",
+   "6 kananmunaa"
+  ],
+  "instructions": [
+   "Hauduta kala matalassa pannussa kalakastikkeessa, öljyssä ja viinissä purjon ja korianterinsiementen kanssa.",
+   "Survo pippuri ja oregano kalan liemellä, vatkaa munat ja loput liemestä joukkoon.",
+   "Kaada seos kalojen päälle ja hyydytä miedolla lämmöllä keittämättä."
+  ]
+ },
+ {
+  "id": "apicius-488",
+  "title": "Korianteriporsas rusinoilla ja pinjansiemenillä",
+  "description": "Paahdetun porsaan päälle kuuma kastike pippurista, tillistä, oreganosta ja tuoreesta korianterista hunajan, viinin, garumin, öljyn, etikan ja rypälesiirapin kanssa; pinnalle rusinoita, pinjansiemeniä ja sipulia.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "1 rkl tilliä",
+   "½ tl kuivattua oreganoa",
+   "3 rkl tuoretta korianteria",
+   "1 rkl hunajaa",
+   "1 dl valkoviiniä",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "1 rkl viinietikkaa",
+   "1 rkl rypälesiirappia",
+   "3 rkl rusinoita",
+   "3 rkl pinjansiemeniä",
+   "1 sipuli hienonnettuna"
+  ],
+  "instructions": [
+   "Suolaa ja paahda porsas.",
+   "Survo kastikkeen aineet ja kuumenna. Kaada paistin päälle.",
+   "Ripottele pinnalle rusinat, pinjansiemenet ja sipuli."
+  ]
+ },
+ {
+  "id": "apicius-489",
+  "title": "Porsas viinikastikkeessa laakerilla",
+  "description": "Marinoitu porsas paahdetaan öljyssä ja garumissa; kastike pippurista, ruudasta, laakerinmarjoista, garumista, makeasta viinistä ja vanhasta viinistä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "1 tl suolaa",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)",
+   "¼ tl mustapippuria",
+   "ripaus ruutaa",
+   "2 laakerinlehteä murskattuina",
+   "½ dl makeaa rusinaviiniä",
+   "1 dl punaviiniä"
+  ],
+  "instructions": [
+   "Marinoi ja paahda porsas öljyssä ja kalakastikkeessa.",
+   "Survo mausteet ja sekoita viineihin. Kuumenna.",
+   "Asettele porsas komealle vadille ja tarjoa kastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "apicius-490",
+  "title": "Porsas omassa paistoliemessään",
+  "description": "Porsas paahdetaan omassa liemessään; liemi suurustetaan ja tarjotaan kastikekulhosta.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "1 tl suolaa",
+   "3 dl vettä",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Paahda porsas uunissa vuoassa veden kanssa.",
+   "Nosta liha pois, suurusta paistoliemi, siivilöi ja tarjoa kastikekulhosta."
+  ]
+ },
+ {
+  "id": "apicius-491",
+  "title": "Timjamiporsas",
+  "description": "Suolan ja tillin kanssa keitetty porsas jäähdytetään kylmässä vedessä vaaleana ja ripotellaan kynteliällä, timjamilla, kovaksi keitetyillä munilla ja sipulilla; kastike garumista, viinistä ja öljystä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "3 l vettä",
+   "1 tl suolaa",
+   "1 nippu tilliä",
+   "1 tl kuivattua kynteliä",
+   "1 rkl tuoretta timjamia",
+   "3 kovaksi keitettyä kananmunaa",
+   "1 sipuli",
+   "1 rkl kalakastiketta (garum)",
+   "½ dl valkoviiniä",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Keitä porsas suolavedessä tillin kanssa kypsäksi ja jäähdytä kylmässä vedessä, jotta pinta pysyy vaaleana.",
+   "Hienonna yrtit, munat ja sipuli ja ripottele valutetun porsaan päälle.",
+   "Valele kalakastikkeen, viinin ja öljyn seoksella."
+  ]
+ },
+ {
+  "id": "apicius-492",
+  "title": "Hapan porsas (porcellus oxyzomus)",
+  "description": "Porsas haudutetaan liemessä, jossa 50 pippurinjyvää, hunajaa, kuivattua sipulia, korianteria, garumia, öljyä ja vettä; liemi sekoitellen sakeaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "50 mustapippurin jyvää murskattuina",
+   "2 rkl hunajaa",
+   "3 sipulia",
+   "2 rkl korianteria",
+   "1 dl kalakastiketta (garum)",
+   "1 dl oliiviöljyä",
+   "3 dl vettä",
+   "2 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Survo pippuri, hunaja, sipulit ja korianteri ja sekoita kalakastikkeeseen, öljyyn ja veteen.",
+   "Laita porsas pataan liemen kanssa ja hauduta. Sekoita lientä usein, jotta se sakenee.",
+   "Lisää lopuksi etikka ja tarjoa."
+  ]
+ },
+ {
+  "id": "apicius-493",
+  "title": "Porsas asafetidakastikkeessa",
+  "description": "Paahdetun porsaan päälle kastike pippurista, lipstikasta, kuminasta, asafetidasta, pinjansiemenistä, taateleista, hunajasta, etikasta, garumista, sinapista ja öljystä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa",
+   "½ tl kuminaa",
+   "½ tl juustokuminaa",
+   "ripaus asafetidaa (hing)",
+   "1 rkl viinietikkaa",
+   "3 rkl pinjansiemeniä",
+   "4 taatelia",
+   "1 rkl hunajaa",
+   "1 rkl kalakastiketta (garum)",
+   "1 tl sinappia",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Suolaa ja paahda porsas.",
+   "Survo kastikkeen aineet ja kaada paistin päälle."
+  ]
+ },
+ {
+  "id": "apicius-494",
+  "title": "Porsas aniksi-korianterikastikkeessa",
+  "description": "Kastike pippurista, lipstikasta tai aniksesta, korianterista, ruudasta ja laakerista garumin, purjon, makean viinin, hunajan, viinin ja öljyn kanssa; suurustetaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaanpaistia",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "½ tl aniksensiemeniä",
+   "½ tl korianterinsiemeniä",
+   "ripaus ruutaa",
+   "1 laakerinlehti",
+   "1 rkl kalakastiketta (garum)",
+   "1 purjo",
+   "½ dl makeaa rusinaviiniä",
+   "1 tl hunajaa",
+   "½ dl valkoviiniä",
+   "2 rkl oliiviöljyä",
+   "1 dl vettä",
+   "1 tl perunajauhoja"
+  ],
+  "instructions": [
+   "Suolaa ja paahda porsas.",
+   "Survo mausteet, lisää purjo, kalakastike, viinit, hunaja, öljy ja vesi ja keitä. Suurusta.",
+   "Tarjoa kastike porsaan kanssa."
+  ]
+ },
+ {
+  "id": "apicius-495",
+  "title": "Yksinkertainen karitsa purjolla ja korianterilla",
+  "description": "Karitsan pienet kyljykset haudutetaan öljyssä, garumissa ja viinissä purjon ja korianterin kanssa usein sekoittaen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "800 g karitsankyljyksiä",
+   "2 rkl oliiviöljyä",
+   "1 rkl kalakastiketta (garum)",
+   "1 dl valkoviiniä",
+   "1 purjo hienonnettuna",
+   "2 rkl tuoretta korianteria hienonnettuna"
+  ],
+  "instructions": [
+   "Laita kyljykset kattilaan öljyn, kalakastikkeen, viinin, purjon ja korianterin kanssa.",
+   "Kun liemi kiehuu, sekoita usein ja hauduta kypsäksi."
+  ]
+ },
+ {
+  "id": "apicius-496",
+  "title": "Asafetidakili laakerilla",
+  "description": "Kili tai karitsa täytetään pippuri-asafetida-öljyseoksella, paahdetaan kokonaisena ja tarjotaan ruudan ja laakerinmarjojen kanssa omassa paistoliemessään.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg karitsanpaistia",
+   "¼ tl mustapippuria",
+   "1 rkl kalakastiketta (garum)",
+   "ripaus asafetidaa (hing)",
+   "2 rkl oliiviöljyä",
+   "ripaus ruutaa",
+   "2 laakerinlehteä murskattuina"
+  ],
+  "instructions": [
+   "Leikkaa paistiin tasku ja täytä pippurin, kalakastikkeen, asafetidan ja öljyn seoksella. Sido.",
+   "Paahda 175 asteessa noin 1,5 tuntia.",
+   "Survo ruuta ja laakeri ja tarjoa lihan ja paistoliemen kanssa."
+  ]
+ },
+ {
+  "id": "apicius-497",
+  "title": "”Terveysrastaat” tilli-purjoliemessä",
+  "description": "Pikkulinnut täytetään pippurilla, asafetidalla, laakerilla, kuminalla ja garumilla, sidotaan ja keitetään öljyssä, suolassa, vedessä, tillissä ja purjossa (nykyään viiriäisillä).",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "linnut",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "8 viiriäistä tai 4 kananpoikaa",
+   "¼ tl mustapippuria",
+   "ripaus asafetidaa (hing)",
+   "1 laakerinlehti murskattuna",
+   "½ tl juustokuminaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä",
+   "½ tl suolaa",
+   "5 dl vettä",
+   "1 nippu tilliä",
+   "1 purjo"
+  ],
+  "instructions": [
+   "Sekoita pippuri, asafetida, laakeri, kumina ja kalakastike ja täytä linnut. Sido.",
+   "Keitä linnut öljyn, suolan, veden, tillin ja purjon liemessä kypsiksi."
+  ]
+ },
+ {
+  "id": "apicius-498",
+  "title": "Turturikyyhkyset asafetidamarinadissa",
+  "description": "Linnut marinoidaan pippurin, asafetidan ja garumin seoksessa, jotta ne imevät maun, ja paahdetaan (nykyään viiriäisillä tai kyyhkysillä).",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "linnut",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "8 viiriäistä tai 4 kyyhkystä",
+   "¼ tl mustapippuria",
+   "ripaus asafetidaa (hing)",
+   "2 rkl kalakastiketta (garum)",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Halkaise ja puhdista linnut.",
+   "Marinoi pippurin, asafetidan, kalakastikkeen ja öljyn seoksessa muutama tunti.",
+   "Paahda 200 asteessa kypsiksi."
+  ]
+ },
+ {
+  "id": "apicius-499",
+  "title": "Peltopyykastike sellerillä ja mintulla",
+  "description": "Kirjan viimeinen ohje: pippuria, selleriä, minttua ja ruutaa etikassa, taateliviiniä, hunajaa, garumia ja öljyä keitettynä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "linnut",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 peltopyytä tai kananpoikaa paahdettuina",
+   "¼ tl mustapippuria",
+   "1 varsi selleriä",
+   "1 rkl tuoretta minttua",
+   "ripaus ruutaa",
+   "1 rkl viinietikkaa",
+   "2 rkl makeaa viiniä",
+   "1 tl hunajaa",
+   "1 rkl kalakastiketta (garum)",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Survo mausteet ja yrtit etikan kanssa.",
+   "Lisää makea viini, hunaja, kalakastike ja öljy ja kiehauta.",
+   "Tarjoa lintujen kanssa."
+  ]
+ }
+]

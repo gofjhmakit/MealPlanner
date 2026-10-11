@@ -10,6 +10,7 @@ Openly licensed recipe collections, translated into Finnish for the app's recipe
 | [ForkRecipe](https://github.com/futurechef/forkrecipe-recipes) | 963 | CC BY-SA 4.0 | ForkRecipe and its authors |
 | [Wikibooks Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents) | 3 798 | CC BY-SA 4.0 | Wikibooks contributors (dump: [gossminn/wikibooks-cookbook](https://huggingface.co/datasets/gossminn/wikibooks-cookbook), 2024-07-31) |
 | [Open Recipe Archive](https://github.com/AdamBouhmad/open-recipe-archive) | 2 British sauces | Public domain (historical 1861 recipes) | Isabella Beeton, *The Book of Household Management* (1861); Open Recipe Archive |
+| [Apicius](https://www.gutenberg.org/ebooks/29728) (c. 400 AD) | 475 (22 skipped) | Public domain | De re coquinaria; English translation J. D. Vehling (1936, d. 1950); Project Gutenberg |
 | [Kokki-kirja](https://www.gutenberg.org/ebooks/73445) (1849) | 382 (25 done) | Public domain | J. F. Granlund (ed.), Turku 1849 – the first cookbook in Finnish; Project Gutenberg |
 | [The Forme of Cury](https://www.gutenberg.org/ebooks/8102) (c. 1390) | 190 (25 done) | Public domain | Master cooks of Richard II; ed. Samuel Pegge (1780); Project Gutenberg |
 | [Open Recipe Project](https://github.com/reZach/open-recipe-project) | 2 pictured main dishes | CC0 (recipe and accompanying photograph) | Open Recipe Project contributors |
@@ -75,7 +76,7 @@ modern Finnish reading as in *Historical cookbooks* above. Oldest first:
 
 | Book | Year | Gutenberg | Notes |
 |---|---|---|---|
-| *Apicius*, De re coquinaria – "Cookery and Dining in Imperial Rome" | c. 400 AD (Roman) | [#29728](https://www.gutenberg.org/ebooks/29728) | English translation by J. D. Vehling (1936); Vehling is reported to have died in 1950, which would make it public domain in Finland too (70 years) – verify before translating. ~470 short recipes. |
+| *Apicius*, De re coquinaria | c. 400 AD (Roman) | [#29728](https://www.gutenberg.org/ebooks/29728) | **Done** – all 497 entries (475 recipes, 22 skipped). Vehling died 20.9.1950 (DLA Marbach), so the translation is public domain in Finland. |
 | *Ancient Cookery* | 1381 | [#8102](https://www.gutenberg.org/ebooks/8102) | In the same ebook as The Forme of Cury, after the roll ("ANCIENT COOKERY. A.D. 1381"); headings like "I. FOR TO MAKE FURMENTY." – needs its own parser. |
 | *The Forme of Cury* | c. 1390 | [#8102](https://www.gutenberg.org/ebooks/8102) | **In the catalogue**; batches 001–007 (165 recipes) to translate. |
 | *The Accomplisht Cook* (Robert May) | 1660 | [#22790](https://www.gutenberg.org/ebooks/22790) | Large Restoration-era book, hundreds of recipes. |
