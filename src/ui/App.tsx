@@ -19,6 +19,8 @@ const page = (loader: () => Promise<Record<string, unknown>>, name: string) => {
 }
 
 const router = createBrowserRouter([
+  // Printable week: no app chrome.
+  { path: '/tulosta', element: page(() => import('./pages/PrintPage'), 'PrintPage'), errorElement: <RouteError /> },
   {
     element: <Layout />,
     errorElement: <RouteError />,

@@ -8,7 +8,7 @@ import { nextProductFoodId, productMatchIndex } from '../domain/products'
 import type { PlannedMeal } from '../domain/weekPlanner'
 import type { FineliLookup, MatchContext, UserMappingLookup } from '../domain/matcher'
 import { newId, rematchIngredients } from '../domain/recipeIngredients'
-import { aggregateShoppingList, type ShoppingLineInput } from '../domain/shoppingList'
+import { aggregateShoppingList, type AggregatedItem, type ShoppingLineInput } from '../domain/shoppingList'
 import {
   DEFAULT_SETTINGS,
   userSettingsSchema,
@@ -405,6 +405,12 @@ async function listLines(list: ShoppingList, database: MealPlannerDB): Promise<S
 
 async function categoryOverrideMap(database: MealPlannerDB): Promise<Map<string, ShoppingCategory>> {
   return new Map((await database.categoryOverrides.toArray()).map((c) => [c.key, c.category]))
+}
+
+/** What the meals of `from`–`to` need, aggregated like a shopping list but without saving one (printing). */
+export async function shoppingNeedsForRange(from: string, to: string, fineli: FineliLookup, database: MealPlannerDB = defaultDb): Promise<AggregatedItem[]> {
+  const lines = await listLines({ id: '', name: '', from, to, createdAt: '', updatedAt: '', extraRecipes: [], homeKeys: [] }, database)
+  return aggregateShoppingList(lines, fineli, await categoryOverrideMap(database))
 }
 
 export async function createShoppingList(

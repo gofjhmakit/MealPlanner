@@ -6,7 +6,8 @@
  *   1280+:  plus a side panel: Reseptit (drag into the grid) · Ateria · Ostokset.
  *   Month:  the whole month at a glance; click a day to plan it.
  */
-import { ChevronLeft, ChevronRight, GripVertical, Plus, Search, ShoppingCart, Sparkles } from 'lucide-react'
+import { ChevronLeft, ChevronRight, GripVertical, Plus, Printer, Search, ShoppingCart, Sparkles } from 'lucide-react'
+import { PrintDialog } from '../components/PrintDialog'
 import { useEffect, useMemo, useRef, useState, type DragEvent, type KeyboardEvent } from 'react'
 import { Link, useNavigationType, useSearchParams } from 'react-router'
 import { duplicateMealItem, moveMealItem, removeMealItem, restoreMealItem } from '../../db/repo'
@@ -59,6 +60,7 @@ export function WeekPage() {
   const recipes = useRecipesById((items ?? []).map((i) => i.recipeId))
   const nutrition = usePlanNutrition(items, recipes)
   const [sheet, setSheet] = useState<string | null>(null)
+  const [printing, setPrinting] = useState(false)
   const [selected, setSelected] = useState<{ date: string; slot: MealSlot } | null>(null)
 
   const go = (patch: Record<string, string | null>) => {
@@ -126,7 +128,11 @@ export function WeekPage() {
             <button onClick={() => go({ alku: null })} className="h-9 rounded-xl px-3 text-sm font-medium text-brand hover:bg-brand-soft">Tämä viikko</button>
           )}
         </div>
-        <div className="ml-auto">
+        <div className="ml-auto flex items-center gap-2">
+          <button onClick={() => setPrinting(true)} className="flex h-9 items-center gap-1.5 rounded-xl border border-line bg-surface px-3 text-sm font-medium hover:bg-surface-2" aria-label="Tulosta">
+            <Printer size={16} /> <span className="hidden sm:inline">Tulosta</span>
+          </button>
+          {printing && <PrintDialog open onClose={() => setPrinting(false)} initialStart={view === 'month' ? startOfWeek(today(), settings.weekStartsOn) : start} />}
           <Segmented
             label="Näkymä"
             size="sm"
