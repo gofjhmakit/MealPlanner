@@ -2,8 +2,8 @@
  * "Mitä kaapista?": which recipes can be made from what is at home. The user lists what they have
  * ("riisi, jauheliha, pakasteherne"); a recipe line counts as had when it names one of those words
  * (Finnish forms and compounds both ways: "nuudelit" ↔ "riisinuudeleita", "pakasteherne" ↔ "herneitä")
- * or is the same dictionary ingredient. Water, salt, pepper, oil, dried spices and the user's
- * always-at-home list are assumed to be there and don't count either way.
+ * or is the same dictionary ingredient. The always-at-home list (Settings) counts exactly like typed
+ * things. Water, salt, pepper, oil and dried spices are assumed to be there and don't count either way.
  */
 import { wordForms } from './allergies'
 import { lemmaCandidates } from './finnish'
@@ -90,19 +90,19 @@ export function displayName(ing: RecipeIngredient): string {
 
 /** Recipes the listed things make: full matches first, then ones missing at most a fifth. */
 export function fridgeMatches(recipes: Recipe[], typed: string[], o: { pantry: string[]; lookup?: FineliLookup }): { full: FridgeMatch[]; near: FridgeMatch[] } {
-  const items = typed.map((t) => t.trim().toLowerCase()).filter(Boolean)
+  // What's always at home is had just like what was typed (not left out of the count).
+  const items = [...new Set([...typed, ...o.pantry].map((t) => t.trim().toLowerCase()).filter(Boolean))]
   if (!items.length) return { full: [], near: [] }
   const user = items.map((word) => {
     const m = matchIngredient(word, { fineli: o.lookup })
     return { word, forms: wordForms(word), canonical: m.confidence >= 0.5 ? m.canonicalId : null, lemmas: lemmas(word) }
   })
-  const pantry = new Set(o.pantry.map((p) => p.trim().toLowerCase()))
   const isBasic = (ing: RecipeIngredient) => {
     const canonical = getIngredient(ing.canonicalId)
     const names = [ing.name.toLowerCase(), ...(canonical ? [canonical.fi.toLowerCase(), ...canonical.aliases] : [])]
-    return names.some((n) => BASICS_RE.test(n) || pantry.has(n))
+    return names.some((n) => BASICS_RE.test(n))
   }
-  const pantryKey = [...pantry].join(',')
+  const pantryKey = ''
   const hits = (need: Need, u: (typeof user)[number]) =>
     (!!u.canonical && need.ing.canonicalId === u.canonical) ||
     names(need.words, u.forms) ||

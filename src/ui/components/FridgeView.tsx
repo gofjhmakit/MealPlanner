@@ -62,14 +62,14 @@ export function FridgeView() {
           />
         </label>
         <p className="mt-2 text-xs text-muted">
-          Pilkulla erotettuna. Vesi, suola, pippuri, öljy, kuivatut mausteet ja asetusten ”aina kotona” -ainekset oletetaan löytyvän. Kastikkeet,
+          Pilkulla erotettuna. Asetusten ”aina kotona” -ainekset ({settings.pantry.length}) lasketaan mukaan samoin kuin tähän kirjoitetut. Vesi, suola, pippuri, öljy ja kuivatut mausteet oletetaan löytyvän. Kastikkeet,
           sipuli, valkosipuli ja yrtit näkyvät kohdassa ”lisäksi” – ne on helppo korvata, joten niitä ei lasketa puuttuviksi.
         </p>
       </Panel>
 
       {!result ? (
         <Spinner />
-      ) : items.length === 0 ? null : result.full.length === 0 && result.near.length === 0 ? (
+      ) : items.length === 0 && settings.pantry.length === 0 ? null : result.full.length === 0 && result.near.length === 0 ? (
         <p className="text-sm text-muted">Ei osumia vielä – lisää muutama aines lisää (vähintään kaksi pitää löytyä samasta reseptistä).</p>
       ) : (
         <>

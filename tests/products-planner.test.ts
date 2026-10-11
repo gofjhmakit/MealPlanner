@@ -276,6 +276,16 @@ describe('automatic meal planning', () => {
     expect(near[0].missing).toHaveLength(1)
   })
 
+  it('counts the always-at-home list like typed things', () => {
+    const rs = [recipe('fried', ['5 dl keitettyä riisiä', '2 kananmunaa', '2 dl herneitä', '200 g broilerin fileesuikaleita'], { title: 'Paistettu riisi' })]
+    const typed = fridgeMatches(rs, ['riisi', 'kananmuna', 'herne', 'broileri'], { pantry: [], lookup: store })
+    const fromPantry = fridgeMatches(rs, ['broileri'], { pantry: ['riisi', 'kananmuna', 'herne', 'suola'], lookup: store })
+    const onlyPantry = fridgeMatches(rs, [], { pantry: ['riisi', 'kananmuna', 'herne', 'broileri'], lookup: store })
+    expect(typed.full.map((m) => m.recipe.id)).toEqual(['fried'])
+    expect(fromPantry.full.map((m) => m.recipe.id)).toEqual(['fried'])
+    expect(onlyPantry.full.map((m) => m.recipe.id)).toEqual(['fried'])
+  })
+
   it('never suggests recipes with a household allergy word', () => {
     const plan = planMeals(buildCandidates(mains, store, new Set(), undefined, ['peruna']), { ...base, leftovers: false })
     expect(plan.meals.length).toBeGreaterThan(0)
