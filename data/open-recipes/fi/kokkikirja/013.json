@@ -1,0 +1,222 @@
+[
+ {
+  "id": "kokkikirja-327",
+  "title": "Etikkapunajuuret",
+  "description": "Keitetyt punajuuret kuoritaan, viipaloidaan ja säilötään maustepippurin ja neilikan kanssa viinietikkaan.",
+  "servings": 15,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "punajuuri",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg punajuuria",
+   "1 tl maustepippuria",
+   "6 neilikkaa",
+   "5 dl viinietikkaa ja vettä 1:1",
+   "1 dl sokeria (valinnainen, nykymakuun)"
+  ],
+  "instructions": [
+   "Keitä punajuuret kypsiksi ja jäähdytä.",
+   "Kuori ja viipaloi ne ja kerrosta purkkeihin mausteiden kanssa.",
+   "Kaada päälle etikkaliemi ja sulje. Anna maustua muutama päivä."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-328",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-329",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-330",
+  "title": "Persiljavoi (suolattu)",
+  "description": "Hienonnettu persilja sotketaan voin ja suolan kanssa ja säilötään – kastikkeisiin ja täytteisiin otetaan nokare kerrallaan.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "persilja",
+   "voi",
+   "säilöntä",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 isoa nippua persiljaa",
+   "200 g voita",
+   "1 rkl suolaa (alkuperäisessä puolet voin painosta)"
+  ],
+  "instructions": [
+   "Huuhdo, kuivaa ja hienonna persilja.",
+   "Sotke pehmeän voin ja suolan kanssa.",
+   "Painele purkkiin, sulje ja säilytä kylmässä tai pakasteessa. Käytä kastikkeisiin."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-331",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-332",
+  "title": "Suolakurkut kirsikan- ja tammenlehtien kanssa",
+  "description": "Kurkut kerrostetaan kirsikan- ja tammenlehtien ja tillinkukintojen kanssa ja peitetään väkevällä keitetyllä suolavedellä; käytetään kaksi viikkoa huoneenlämmössä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "kurkku",
+   "säilöntä",
+   "fermentoitu",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg pieniä avomaankurkkuja",
+   "kourallinen kirsikanlehtiä",
+   "kourallinen tammenlehtiä",
+   "6 tillinkukintoa",
+   "2 l vettä",
+   "1,2 dl suolaa"
+  ],
+  "instructions": [
+   "Keitä vesi ja suola ja jäähdytä.",
+   "Pese kurkut. Kerrosta astiaan lehtiä, kurkkuja ja tilliä niin, että kurkut eivät kosketa toisiaan.",
+   "Kaada suolavesi päälle, laita painoksi lautanen ja paino.",
+   "Anna käydä huoneenlämmössä noin kaksi viikkoa, poistaen pintaan nouseva home päivittäin. Siirrä kylmään."
+  ],
+  "cookTimeMin": 20220
+ },
+ {
+  "id": "kokkikirja-333",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-334",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-335",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-336",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-337",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-338",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-339",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-340",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-341",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-342",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-343",
+  "title": "Kuivatut omenat",
+  "description": "Kuoritut, halkaistut ja siemenkodasta puhdistetut omenat kuivataan miedossa uunissa vuoilla.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "omena",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "välipala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg omenoita"
+  ],
+  "instructions": [
+   "Kuori omenat, halkaise tai lohko ne ja poista siemenkodat.",
+   "Levitä vuoille tai leivinpaperille.",
+   "Kuivata 50–60 asteessa, luukku raollaan, 6–8 tuntia, kunnes lohkot ovat nahkeita.",
+   "Säilytä kuivassa purkissa."
+  ],
+  "cookTimeMin": 480
+ },
+ {
+  "id": "kokkikirja-344",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-345",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-346",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-347",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-348",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-349",
+  "skip": "säilöntämenetelmä, ei ruokaresepti"
+ },
+ {
+  "id": "kokkikirja-350",
+  "skip": "yleisohje leipomisesta, ei resepti"
+ },
+ {
+  "id": "kokkikirja-351",
+  "title": "Näkkileipä (ruisreikäleipä)",
+  "description": "Ruisjauhoista, kuminasta ja juuresta tehdystä taikinasta leivotaan ohuita, molemmin puolin pisteltyjä leipiä, jotka nostatetaan ja paistetaan.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "ruis",
+   "leipä",
+   "leivonta",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l kädenlämpöistä vettä",
+   "25 g hiivaa tai 2 dl ruisjuurta",
+   "1 rkl suolaa",
+   "1 rkl kuminaa",
+   "noin 1,3 l ruisjauhoja"
+  ],
+  "instructions": [
+   "Liuota hiiva veteen tai sekoita juuri veteen, lisää suola ja kumina.",
+   "Vaivaa ruisjauhot joukkoon kiinteäksi taikinaksi, joka irtoaa käsistä. Anna kohota liinan alla.",
+   "Leivo jauhotetulla pöydällä ohuiksi pyöreiksi leiviksi ja pistele molemmin puolin.",
+   "Anna kohota hetki ja paista 250 asteessa 10–15 minuuttia. Kuivata ritilällä tai orrella."
+  ],
+  "cookTimeMin": 180
+ }
+]

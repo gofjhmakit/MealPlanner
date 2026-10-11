@@ -1,0 +1,710 @@
+[
+ {
+  "id": "kokkikirja-052",
+  "title": "Silavoitu häränpaisti grillissä (boeuf à la royale)",
+  "description": "Nuijittuun naudan reisipalaan pistetään suolassa, pippurissa ja inkiväärissä kieritettyjä silavasuikaleita; päälle sipulia ja persiljaa, ja paisti paistetaan ritilällä ruskeaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "grilli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg naudan paistia",
+   "100 g silavaa tai pekonia suikaleina",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "1 sipuli hienonnettuna",
+   "2 rkl persiljaa",
+   "4 sipulia paistettuna tarjoiluun"
+  ],
+  "instructions": [
+   "Nuija liha ja tee siihen viiltoja.",
+   "Kierittele silavasuikaleet suolassa, pippurissa ja inkiväärissä ja työnnä viiltoihin.",
+   "Ripottele pinnalle sipuli ja persilja ja paista miedolla lämmöllä grillissä tai uunissa ruskeaksi. Tarjoa paistettujen sipulien kanssa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-053",
+  "title": "Patapaisti laakerilla",
+  "description": "Naudan reisipala paistetaan padassa voissa ja sipulissa kannen alla hiljaa suolan, pippurin ja laakerinlehtien kanssa; kastike suurustetaan padassa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "pata",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg naudan reisi- tai lapapaistia",
+   "2 rkl voita",
+   "2 sipulia",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "3 laakerinlehteä",
+   "5 dl kiehuvaa vettä",
+   "2 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Ruskista liha padassa voissa sipulien kanssa.",
+   "Mausta suolalla, pippurilla ja laakerinlehdillä ja hauduta kannen alla hiljaisella lämmöllä käännellen; lisää kiehuvaa vettä tarpeen mukaan.",
+   "Kun liha on mureaa, nosta se pois. Ripottele jauhot pataan ja vatkaa, lisää vettä ja keitä kastikkeeksi."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-054",
+  "title": "Keitetty naudanrinta",
+  "description": "Naudanrinta sidotaan langalla ja keitetään aamusta asti mureaksi; pinnalle persiljaa ja korppujauhoa, kastikkeeksi piparjuurta.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg naudanrintaa",
+   "3 l vettä",
+   "1 tl suolaa",
+   "3 rkl persiljaa",
+   "3 rkl korppujauhoja",
+   "piparjuurikastiketta tarjoiluun"
+  ],
+  "instructions": [
+   "Sido rinta langalla kauniiksi rullaksi ja keitä suolavedessä.",
+   "Poista lanka ennen kuin liha on kypsää ja keitä loppuun mureaksi, noin 3 tuntia.",
+   "Ripottele pinnalle persilja ja korppujauho ja tarjoa piparjuurikastikkeen kanssa."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-055",
+  "title": "Kevyesti suolattu naudanrinta juuresten kanssa",
+  "description": "Naudanrinta suolataan 12–14 päivää suolavedessä, jossa muna kelluu, liotetaan ja keitetään; tarjotaan paistettujen lanttujen kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg naudanrintaa",
+   "3 l vettä",
+   "3,5 dl suolaa",
+   "600 g lanttua tai naurista paistettuna"
+  ],
+  "instructions": [
+   "Keitä vedestä ja suolasta liemi (kananmuna kelluu siinä) ja jäähdytä.",
+   "Suolaa rinta liemessä viileässä 12–14 päivää.",
+   "Huuhtele, liota 2 tuntia kylmässä vedessä ja keitä mureaksi. Tarjoa paistettujen juuresten kanssa."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-056",
+  "title": "Kuorrutettu keitetty häränpaisti",
+  "description": "Kypsään lihaan tehdään viiltoja ja pintaan painellaan sormenpaksuinen kerros persiljaa, sokeria ja vehnäleivänmuruja voissa; uunissa ruskeaksi, kastikkeena liemessä keitetyt hedelmät.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg keitettyä naudanrintaa tai -paistia",
+   "4 rkl persiljaa hienonnettuna",
+   "1 rkl sokeria",
+   "2 dl vehnäleivänmuruja",
+   "75 g voita sulatettuna",
+   "Kastike:",
+   "200 g kuivattuja luumuja tai omenoita",
+   "3 dl lihalientä",
+   "2 rkl korppujauhoja",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Tee lämpimään keitettyyn lihaan viiltoja.",
+   "Sekoita persilja, sokeri ja murut voihin ja painele seos tiiviisti lihan pintaan.",
+   "Paista 220 asteessa ruskeaksi.",
+   "Keitä hedelmät liemessä suolan ja korppujauhon kanssa kastikkeeksi."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-057",
+  "title": "Kääritty naudankylki",
+  "description": "Naudankylki käännetään rullalle suolalla ripoteltuna, sidotaan langalla ja keitetään liemessä mureaksi; tarjotaan pinaatin kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg luutonta naudankylkeä",
+   "1 tl suolaa",
+   "2 l lihalientä",
+   "pinaattia tarjoiluun"
+  ],
+  "instructions": [
+   "Ripottele kylkeen suolaa, kääri rullalle ja sido langalla.",
+   "Keitä liemessä mureaksi, noin 2,5 tuntia.",
+   "Viipaloi ja tarjoa pinaatin kanssa."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-058",
+  "title": "Naudanlihakääryleet silavalla",
+  "description": "Nuijittuihin naudanlihaviipaleisiin ripotellaan pippuria ja suolaa, päälle ohut silavaviipale; kääryleet haudutetaan omassa liemessään ja kastike suurustetaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g naudan sisäpaistia ohuina viipaleina",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "150 g silavaa tai pekonia ohuina viipaleina",
+   "2 dl vettä",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Nuija viipaleet ohuiksi ja mausta suolalla ja pippurilla.",
+   "Aseta jokaisen päälle silavaviipale ja kääri tiukaksi rullaksi.",
+   "Asettele kääryleet tiiviisti kattilaan ja hauduta kannen alla hiljaa mureiksi.",
+   "Suurusta liemi voilla ja jauhoilla ja tarjoa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-059",
+  "title": "Englantilainen pihvi (biff-stek)",
+  "description": "Naudan reisilihasta leikatut sormenpaksuiset viipaleet hakataan ristiin, maustetaan suolalla ja pippurilla ja paistetaan nopeasti kuumalla ritilällä; kastike voista, jauhoista ja liemestä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "pihvi",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 naudan ulkofilee- tai sisäpaistipihviä",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "1 rkl voita paistamiseen",
+   "Kastike:",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "2 dl lihalientä"
+  ],
+  "instructions": [
+   "Hakkaa pihvit veitsen selällä ristiin molemmin puolin rikkomatta.",
+   "Mausta suolalla ja pippurilla ja anna levätä hetki.",
+   "Paista erittäin kuumalla grillillä tai pannulla nopeasti molemmin puolin.",
+   "Ruskista voi ja jauhot pannulla, lisää liemi ja keitä kastikkeeksi."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-060",
+  "title": "Pannuliha (leivitetty naudanpihvi)",
+  "description": "Ohuiksi nuijitut naudanlihaviipaleet kastetaan munan, maidon, korppujauhon, pippurin, suolan ja persiljan seokseen ja paistetaan voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g naudanlihaa viipaleina",
+   "2 kananmunaa",
+   "½ dl maitoa",
+   "1 dl korppujauhoja",
+   "¼ tl mustapippuria",
+   "½ tl suolaa",
+   "2 rkl persiljaa",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Nuija viipaleet ohuiksi.",
+   "Sekoita munat, maito, korppujauho, mausteet ja persilja.",
+   "Kääntele lihat seoksessa ja paista voissa kypsiksi."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-061",
+  "title": "Naudanlihakotletit",
+  "description": "Nuijitusta ja hienonnetusta naudanlihasta muotoillut pyöreät kakut kastetaan sulaan voihin ja korppujauhoon ja paistetaan; pannuun tehdään kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g naudanlihaa",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "3 rkl voita sulatettuna",
+   "1 dl korppujauhoja",
+   "1 rkl voita paistamiseen",
+   "2 dl lihalientä",
+   "1 tl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Hakkaa liha hienoksi ja muotoile pyöreiksi kakuiksi. Mausta suolalla ja pippurilla.",
+   "Kasta kakut voihin ja korppujauhoihin ja paista kuumalla pannulla.",
+   "Kaada pannuun liemi ja jauhot, vatkaa kastikkeeksi ja tarjoa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-062",
+  "title": "Lihakakkoset (jauhelihapihvit)",
+  "description": "Naudanliha hienonnetaan sipulin ja munuaisrasvan kanssa; sekaan munat, pippuri ja maitoon liotettu leipä; pienet pyöreät kakut paistetaan voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g naudan jauhelihaa",
+   "2 sipulia hienonnettuna",
+   "50 g munuaistalia tai voita",
+   "2 kananmunaa",
+   "¼ tl mustapippuria",
+   "½ tl suolaa",
+   "1 dl korppujauhoja",
+   "1 dl maitoa",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Liota korppujauho maidossa.",
+   "Sekoita jauheliha, sipuli, rasva, munat, mausteet ja turvonnut korppujauho.",
+   "Muotoile pieniksi pihveiksi ja paista voissa. Tarjoa vihannesten kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-063",
+  "title": "Naudankieli keltuais-etikkakastikkeessa",
+  "description": "Keitetty kieli kuoritaan, jäähdytetään ja viipaloidaan; viipaleet kastetaan keltuaisista, pippurista, suolasta, sokerista, öljystä ja etikasta tehtyyn kastikkeeseen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "kieli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 naudankieli (n. 1 kg)",
+   "3 l vettä",
+   "1 rkl suolaa",
+   "Kastike:",
+   "4 kovaksi keitettyä munankeltuaista",
+   "¼ tl valkopippuria",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "1 dl rypsiöljyä",
+   "3 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Keitä kieli suolavedessä kypsäksi (noin 3 tuntia) ja kuori vaahto.",
+   "Kuori kieli kuumana, poista juuri ja jäähdytä. Leikkaa ohuiksi viipaleiksi.",
+   "Survo keltuaiset ja mausteet ja vatkaa öljy ja etikka joukkoon.",
+   "Kasta viipaleet kastikkeeseen ja kerrosta vadille; kaada loput kastikkeesta päälle."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-064",
+  "title": "Suolattu naudankieli",
+  "description": "Kielet hierotaan suolalla (alkuperäisessä myös salpietarilla), suolataan painon alla ja keitetään liotettuina; nautitaan vihannesten kanssa tai kylmänä leivällä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "kieli",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 naudankieli",
+   "1 dl karkeaa suolaa",
+   "3 l vettä keittämiseen"
+  ],
+  "instructions": [
+   "Hiero kieli suolalla ja laita kannelliseen astiaan painon alle viileään viikoksi.",
+   "Liota kieltä vedessä muutama tunti ja keitä kypsäksi.",
+   "Kuori kuumana. Tarjoa vihannesten kanssa tai kylmänä leikkeleenä."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-065",
+  "title": "Vasikanpaisti uunissa",
+  "description": "Vasikan selkäpaisti voidellaan voilla ja paahdetaan vesiliemessä 1–3 tuntia valellen; lopuksi pinnalle jauhoja, suolaa ja persiljaa ja vielä uuniin kauniin ruskeaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg vasikan selkä- tai paahtopaistia",
+   "50 g voita",
+   "1,3 l vettä",
+   "3 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "2 rkl persiljaa"
+  ],
+  "instructions": [
+   "Voitele paisti kylmällä voilla ja laita vuokaan veden kanssa.",
+   "Paahda 175 asteessa 1,5–2 tuntia valellen usein liemellä.",
+   "Vartti ennen tarjoilua sekoita jauhot, suola ja persilja, ripottele pinnalle, valele ja paahda kauniin ruskeaksi."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-066",
+  "title": "Kermassa paahdettu vasikanpaisti",
+  "description": "Maidossa liotettu vasikanpaisti paahdetaan ja valellaan kermalla – mitä parempi kerma, sitä parempi paisti; lopuksi maitoa ja voita.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg vasikanpaistia",
+   "1 l maitoa liotukseen",
+   "6,5 dl kermaa",
+   "2 dl maitoa",
+   "2 rkl voita",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Liota paistia maidossa 2 tuntia.",
+   "Paahda vartaassa tai uunissa 175 asteessa ja valele kermalla.",
+   "Kun kerma on suurimmaksi osaksi haihtunut, valele maidolla ja voilla. Suolaa ja tarjoa kastikkeen kanssa."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "kokkikirja-067",
+  "title": "Silavoitu vasikanreisi",
+  "description": "Vasikanreiteen pistetään pippurissa ja inkiväärissä kieritettyjä silavasuikaleita; reisi ruskistetaan voissa ja haudutetaan kypsäksi, liemestä tehdään kastike.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg vasikan reisipaistia",
+   "100 g silavaa tai pekonia suikaleina",
+   "¼ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "2 rkl voita",
+   "½ tl suolaa",
+   "2 dl vettä",
+   "1 rkl vehnäjauhoja",
+   "2 dl lihalientä"
+  ],
+  "instructions": [
+   "Kierittele silavasuikaleet pippurissa ja inkiväärissä ja pistele ne lihaan.",
+   "Ruskista liha voissa silavoitu puoli alaspäin, käännä, suolaa ja lisää vesi.",
+   "Hauduta hiljaa, kunnes lihasta ei enää valu verinestettä.",
+   "Siivilöi liemi ja suurusta voilla ja jauhoilla kastikkeeksi."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-068",
+  "title": "Vasikanrinta rapukastikkeessa",
+  "description": "Keitetty vasikanrinta lämmitetään kerma-voikastikkeessa, johon lisätään kuoritut ravunpyrstöt.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "äyriäiset",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg vasikanrintaa",
+   "1 l vettä",
+   "1 tl suolaa",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kermaa",
+   "200 g kuorittuja ravunpyrstöjä"
+  ],
+  "instructions": [
+   "Keitä rinta vähässä suolavedessä mureaksi, nosta pois ja siivilöi liemi.",
+   "Keitä voi, jauhot ja kerma ja vatkaa liemeen.",
+   "Lisää ravunpyrstöt ja rinta ja lämmitä. Tarjoa osa kastikkeesta kulhossa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-069",
+  "title": "Tillivasikka",
+  "description": "Vasikan etuneljännes keitetään vähässä liemessä suolan ja tillin kanssa; tarjotaan tillikastikkeen tai oman liemen ja etikan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "tilli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg vasikan lapaa tai rintaa paloina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "1 iso nippu tilliä",
+   "1 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Keitä liha vähässä vedessä suolan ja tillinvarsien kanssa mureaksi.",
+   "Tarjoa tillikastikkeen kanssa tai omassa liemessään, johon on lisätty etikkaa ja hienonnettua tilliä."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-070",
+  "title": "Vasikanpihvit voissa",
+  "description": "Ristiin hakatut vasikanpihvit maustetaan ja paistetaan nopeasti kuumalla ritilällä; kypsät pihvit pidetään lämpiminä sulassa voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 vasikanpihviä",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "75 g voita",
+   "paistettuja perunoita tarjoiluun"
+  ],
+  "instructions": [
+   "Hakkaa pihvit ristiin, mausta suolalla ja pippurilla ja anna levätä pari tuntia.",
+   "Paista kuumalla grillillä tai pannulla molemmin puolin vaaleaksi.",
+   "Pidä pihvit lämpiminä sulassa voissa (ei kiehuvassa) ja tarjoa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-071",
+  "title": "Vasikankotletit persiljakorpussa",
+  "description": "Luulliset vasikankyljykset hakataan, maustetaan, kastetaan sulaan voihin ja persiljalla maustettuun korppujauhoon ja paistetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 vasikankyljystä",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "3 rkl voita sulatettuna",
+   "1 dl korppujauhoja",
+   "2 rkl persiljaa hienonnettuna",
+   "1 rkl voita paistamiseen"
+  ],
+  "instructions": [
+   "Hakkaa kyljykset ja mausta suolalla ja pippurilla.",
+   "Kasta voihin ja persiljalla sekoitettuun korppujauhoon.",
+   "Paista voissa ja tarjoa vihannesten tai paistettujen perunoiden kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-072",
+  "title": "Vasikanlihahyytelö (à la daube)",
+  "description": "Vasikanreisi keitetään vasikanjalkojen kanssa; liemi kirkastetaan valkuaisilla ja maustetaan sitruunankuorella ja marjaetikalla, ja liha hyydytetään siihen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "hyytelö",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg vasikan reisilihaa",
+   "2 vasikan- tai porsaanjalkaa",
+   "3 l vettä",
+   "1 tl suolaa",
+   "½ tl valkopippuria",
+   "1 sitruunan kuori raastettuna",
+   "2 rkl vadelmaetikkaa",
+   "4 munanvalkuaista"
+  ],
+  "instructions": [
+   "Keitä liha ja jalat mureiksi. Nosta liha pois ja siivilöi liemi jäähtymään.",
+   "Kuori rasva ja keitä liemi kokoon niin, että se hyytyy kylmässä.",
+   "Mausta ja lisää vatkatut valkuaiset; kiehauta kolmesti ja siivilöi kirkkaaksi.",
+   "Kaada liemi viipaloidun lihan päälle muottiin ja hyydytä kylmässä."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-073",
+  "title": "Keuhkomuhennos",
+  "description": "Liotetut ja keitetyt vasikan- tai lampaankeuhkot hienonnetaan ja haudutetaan voissa korppujauhon, sipulin ja liemen kanssa; mausteena etikka ja sokeri.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sisäelimet",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g vasikan- tai lampaankeuhkoja (tai sydäntä)",
+   "1 l vettä",
+   "1 tl suolaa",
+   "2 rkl voita",
+   "1 dl korppujauhoja",
+   "1 sipuli hienonnettuna",
+   "3 dl keitinlientä",
+   "2 rkl etikkaa",
+   "1 rkl sokeria"
+  ],
+  "instructions": [
+   "Liota keuhkoja yön yli, keitä suolavedessä mureiksi ja hienonna.",
+   "Sulata voi kattilassa, lisää keuhkot, korppujauho, suola, sipuli ja liemi.",
+   "Keitä hetki ja mausta etikalla ja sokerilla. Tarjoa etikan kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-074",
+  "title": "Lampaanpaisti uunissa",
+  "description": "Lampaanpaisti paahdetaan kuten vasikanpaisti: voideltuna, vesiliemessä valellen ja lopuksi jauho-persiljapinnalla.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg lampaanpaistia",
+   "50 g voita",
+   "1,3 l vettä",
+   "3 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "2 rkl persiljaa"
+  ],
+  "instructions": [
+   "Voitele paisti voilla ja paahda vuoassa veden kanssa 175 asteessa valellen 1,5–2 tuntia.",
+   "Ripottele pinnalle jauhot, suola ja persilja, valele ja paahda vielä vartti ruskeaksi."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-075",
+  "title": "Tillilammas",
+  "description": "Lampaan neljännes keitetään inkiväärin, suolan ja runsaan tillin kanssa; tarjotaan viipaleina vähän liemen ja tillinoksien kera, mausteena etikka.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "tilli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg lampaanlapaa tai -potkaa",
+   "2 l vettä",
+   "1 pala inkivääriä murskattuna",
+   "1 tl suolaa",
+   "1 iso nippu tilliä",
+   "etikkaa tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä liha vedessä ja kuori vaahto huolellisesti.",
+   "Lisää inkivääri, suola ja tillinoksat ja keitä mureaksi.",
+   "Viipaloi lämpimänä vadille, kaada alle vähän lientä ja koristele tillinoksilla. Tarjoa etikan kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-076",
+  "title": "Tillillä keitetty lampaanrinta",
+  "description": "Lampaanrinta keitetään vähässä liemessä suolan ja tillin kanssa kuten vasikanrinta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "tilli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg lampaanrintaa paloina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "1 nippu tilliä",
+   "1 rkl etikkaa"
+  ],
+  "instructions": [
+   "Keitä rinta suolavedessä tillinvarsien kanssa mureaksi.",
+   "Tarjoa omassa liemessään etikan ja hienonnetun tillin kanssa."
+  ],
+  "cookTimeMin": 90
+ }
+]

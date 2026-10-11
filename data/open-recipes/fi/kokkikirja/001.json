@@ -1,0 +1,683 @@
+[
+ {
+  "id": "kokkikirja-026",
+  "title": "Saagokeitto rusinoilla ja valkoviinillä",
+  "description": "Kirkas makea keitto saagosuurimoista, rusinoista, kanelista ja sitruunankuoresta; makeutena valkoviini tai vadelmamehu.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "keitto",
+   "jälkiruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 dl saagosuurimoita",
+   "1 l vettä",
+   "1 dl rusinoita",
+   "1 kanelitanko",
+   "2 suikaletta sitruunankuorta",
+   "1 dl valkoviiniä tai vadelmamehua",
+   "½ dl sokeria"
+  ],
+  "instructions": [
+   "Vatkaa huuhdotut saagosuurimot kiehuvaan veteen.",
+   "Keitä rusinoiden, kanelin ja sitruunankuoren kanssa, kunnes suurimot ovat kirkkaita.",
+   "Mausta viinillä tai mehulla ja sokerilla, poista kaneli ja kuoret."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-027",
+  "title": "Ruusunmarjakeitto manteleilla",
+  "description": "Ruusunmarjat keitetään pehmeiksi ja siivilöidään; liemeen rusinoita, kanelia ja sitruunankuorta, sakeutena vehnäleivän murut ja pinnalle mantelilastuja.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "keitto",
+   "marjat",
+   "jälkiruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g ruusunmarjoja puhdistettuina",
+   "1,5 l vettä",
+   "1 dl rusinoita",
+   "2 suikaletta sitruunankuorta",
+   "1 kanelitanko",
+   "½ dl korppujauhoja tai vehnäleivän muruja",
+   "1 dl sokeria",
+   "½ dl valkoviiniä",
+   "3 rkl mantelilastuja"
+  ],
+  "instructions": [
+   "Keitä marjoja vedessä vatkaten noin 1,5 tuntia pehmeiksi ja siivilöi tiheän siivilän läpi.",
+   "Keitä liemi rusinoiden, sitruunankuoren, kanelin ja murujen kanssa, kunnes se hieman sakenee. Lisää sokeri.",
+   "Poista kuoret ja kaneli, lisää viini ja ripottele pinnalle mantelit."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-028",
+  "title": "Riisivelli manteleilla",
+  "description": "Huolella pestyt riisiryynit keitetään maidossa kuorittujen manteleiden kanssa; lopuksi voinokare, ja päälle sokeria ja kanelia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "riisi",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 dl puuroriisiä",
+   "2 dl vettä",
+   "1 l maitoa",
+   "2 rkl kuorittuja manteleita hienonnettuina",
+   "1 rkl voita",
+   "½ tl suolaa",
+   "sokeria ja kanelia pinnalle"
+  ],
+  "instructions": [
+   "Huuhtele riisi kylmällä, haalealla ja lopuksi kuumalla vedellä.",
+   "Keitä hetki vedessä, lisää maito ja mantelit ja keitä pehmeäksi. Lisää tarvittaessa kuumaa maitoa.",
+   "Lisää voi ja suola ja tarjoa sokerin ja kanelin kanssa."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-029",
+  "title": "Kauravelli",
+  "description": "Kauraryynit keitetään maitoon kuten riisivelli – ne vain pestään kylmällä vedellä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "kaura",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 dl kauraryynejä tai -hiutaleita",
+   "1 l maitoa",
+   "1 rkl voita",
+   "½ tl suolaa",
+   "sokeria ja kanelia pinnalle"
+  ],
+  "instructions": [
+   "Huuhtele ryynit kylmällä vedellä.",
+   "Keitä maidossa pehmeiksi, lisää voi ja suola ja tarjoa sokerin ja kanelin kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-030",
+  "title": "Ohrasuurimovelli",
+  "description": "Ohrasuurimot keitetään maitovelliksi kuten riisivelli, mutta ilman manteleita.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "ohra",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 dl ohrasuurimoita",
+   "1 l maitoa",
+   "1 rkl voita",
+   "½ tl suolaa",
+   "sokeria ja kanelia pinnalle"
+  ],
+  "instructions": [
+   "Huuhtele suurimot ja keitä ne maidossa pehmeiksi.",
+   "Lisää voi ja suola ja tarjoa sokerin ja kanelin kanssa."
+  ],
+  "cookTimeMin": 50
+ },
+ {
+  "id": "kokkikirja-031",
+  "title": "Riisipuuro kermalla",
+  "description": "Riisi keitetään paksuksi puuroksi maidossa, jota lisätään vähitellen; pinnalle sokeria ja kanelia ja kermaa kastikkeeksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "riisi",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 dl puuroriisiä",
+   "1,5 l maitoa",
+   "½ tl suolaa",
+   "sokeria ja kanelia",
+   "kermaa tai maitoa tarjoiluun"
+  ],
+  "instructions": [
+   "Kuumenna maito ja ota siitä kolmannes sivuun.",
+   "Keitä huuhdottu riisi lopussa maidossa sekoittaen ja lisää sivuun otettua kuumaa maitoa sitä mukaa kuin puuro sakenee.",
+   "Ripottele pinnalle sokeria ja kanelia ja tarjoa kerman kanssa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-032",
+  "title": "Kaura- tai ohrapuuro",
+  "description": "Kaura- tai ohrasuurimoista keitetty puuro riisipuuron tapaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 dl kaura- tai ohrasuurimoita",
+   "1,5 l maitoa",
+   "½ tl suolaa",
+   "sokeria ja kanelia",
+   "kermaa tai maitoa tarjoiluun"
+  ],
+  "instructions": [
+   "Huuhtele suurimot kylmällä vedellä.",
+   "Keitä maidossa paksuksi puuroksi sekoittaen ja tarjoa sokerin, kanelin ja kerman kanssa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-033",
+  "title": "Mannapuuro manteleilla",
+  "description": "Mannasuurimoista maitoon keitetty puuro, jossa hienonnettuja manteleita, sokeria ja suolaa; kastikkeeksi kerma-maito.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "maito",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 dl mannasuurimoita",
+   "1 l maitoa",
+   "2 rkl kuorittuja manteleita hienonnettuina",
+   "2 rkl sokeria",
+   "½ tl suolaa",
+   "kanelia pinnalle",
+   "kermaa ja maitoa tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä mannasuurimot maidossa puuroksi.",
+   "Lisää mantelit, sokeri ja suola.",
+   "Ripottele kanelia pinnalle ja tarjoa kerma-maidon kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-034",
+  "title": "Voipuuro",
+  "description": "Maito ja voi kuumennetaan ja vehnäjauhot vatkataan joukkoon sopivan paksuksi puuroksi; tarjotaan sokerin, kanelin ja kylmän kerman kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "maito",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,3 l maitoa",
+   "100 g voita",
+   "3 dl vehnäjauhoja",
+   "½ tl suolaa",
+   "sokeria ja kanelia",
+   "kylmää kermaa tai maitoa tarjoiluun"
+  ],
+  "instructions": [
+   "Kuumenna maito ja voi.",
+   "Vatkaa jauhot kiehahtavaan maitoon ja keitä sekoittaen paksuksi puuroksi. Suolaa.",
+   "Tarjoa lämpimänä sokerin, kanelin ja kylmän kerman kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-035",
+  "title": "Uunipuuro",
+  "description": "Valmis riisi-, kaura- tai ohrapuuro kivivatiin, pinnalle voita, kermaa ja sokeria ja uuniin kauniin ruskeaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 l valmista riisi-, kaura- tai ohrapuuroa",
+   "3 rkl voita",
+   "4 rkl paksua kermaa",
+   "2 rkl sokeria",
+   "kanelia ja maitoa tarjoiluun"
+  ],
+  "instructions": [
+   "Levitä puuro uunivuokaan ja painele pintaan voinokareita.",
+   "Kaada pinnalle kerma ja ripottele sokeri.",
+   "Paista 200 asteessa, kunnes puuro on läpikotaisin lämmin ja pinta ruskea. Tarjoa sokerin, kanelin ja maidon kanssa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-036",
+  "title": "Olutkeitos (sahtivelli)",
+  "description": "Maitovelli ja kuohautettu, siirapilla makeutettu sahti kaadetaan yhteen vaahdoksi – vanha suomalainen kansanruoka.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "maito",
+   "olut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,3 l maitoa",
+   "1,3 l sahtia tai tummaa olutta",
+   "1 dl vehnäjauhoja",
+   "2 rkl siirappia tai sokeria"
+  ],
+  "instructions": [
+   "Keitä maito ja sahti eri kattiloissa.",
+   "Sekoita jauhot kylmään maitoon ja vatkaa kiehuvaan maitoon velliksi.",
+   "Kuori sahdista vaahto, makeuta ja kaada velliin vatkaten, kunnes keitos vaahtoaa. Kiehauta yhdessä."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-037",
+  "title": "Oluttuusto (sahdin juustoutama maito)",
+  "description": "Kiehuva maito juoksetetaan sahdilla, ja juusto kuoritaan pois; keitos sekoitetaan maitoon ja kermaan – parin tipan konjakki antaa ”erinomaisen maun”.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "maito",
+   "olut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,3 l maitoa",
+   "3 dl sahtia tai tummaa olutta",
+   "6 dl kermaa",
+   "2 tippaa konjakkia (valinnainen)"
+  ],
+  "instructions": [
+   "Keitä maito ja kaada suurin osa tarjoiluastiaan; jätä noin 1,5 dl kattilaan.",
+   "Lisää kattilaan sahti ja kiehauta. Kuori juoksettunut juusto pois.",
+   "Kaada keitos maitoon sekoittaen ja lisää erikseen keitetty kerma. Mausta halutessasi konjakilla."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-038",
+  "title": "Kaakao (suklaa)",
+  "description": "Maitoon raastetaan suklaata ja keitetään lakkaamatta sekoittaen puolisen tuntia; nautitaan sokerileipien tai korppujen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "suklaa",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l maitoa",
+   "200 g tummaa suklaata raastettuna",
+   "2 rkl sokeria tarvittaessa"
+  ],
+  "instructions": [
+   "Kuumenna maito.",
+   "Raasta suklaa kiehuvaan maitoon jatkuvasti sekoittaen ja anna kiehua hiljaa, kunnes juoma on hieman sakeaa.",
+   "Makeuta tarvittaessa ja tarjoa korppujen kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-039",
+  "title": "Uunijuusto (keitinjuusto) ternimaidosta",
+  "description": "Lehmän ternimaito sekoitetaan kanelin, sokerin ja kardemumman kanssa ja hyydytetään vesihauteessa – tarjotaan lämpimänä maidon kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "maito",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l ternimaitoa (tai 8 dl maitoa ja 4 kananmunaa)",
+   "2 dl kermaa",
+   "2 rkl sokeria",
+   "½ tl kanelia",
+   "½ tl kardemummaa"
+  ],
+  "instructions": [
+   "Sekoita ternimaito, kerma, sokeri ja mausteet. Kokeile hyytyvyys pienellä määrällä pannulla; lisää tarvittaessa maitoa tai kermaa.",
+   "Kaada vuokaan ja kypsennä vesihauteessa kannen alla tai 150 asteen uunissa, kunnes seos on hyytynyt.",
+   "Tarjoa lämpimänä maidon, sokerin ja kanelin kanssa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-040",
+  "title": "Viili inkiväärin, ruisleivän ja sokerin kanssa",
+  "description": "Yhden hengen viilit lasikupeissa; pinnalle jauhettua inkivääriä, raastettua hapanta leipää ja sokeria – tai ne pöytään erikseen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "maito",
+   "välipala",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 annosta viiliä",
+   "1 tl jauhettua inkivääriä",
+   "2 viipaletta ruisleipää raastettuna",
+   "2 rkl sokeria"
+  ],
+  "instructions": [
+   "Annostele viilit kuppeihin.",
+   "Ripottele päälle inkivääri, raastettu ruisleipä ja sokeri – tai tarjoa ne erikseen."
+  ],
+  "cookTimeMin": 5
+ },
+ {
+  "id": "kokkikirja-041",
+  "title": "Valutettu piimä kermavaahdossa (rahkanokareet)",
+  "description": "Paksu piimä valutetaan liinassa yön yli; nokareet asetellaan vaahdotetun kerman ja maidon päälle ja pinnalle raastetaan sitruunankuorta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "maito",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l paksua piimää tai viiliä",
+   "2 dl kermaa",
+   "1 dl maitoa",
+   "1 sitruunan kuori raastettuna",
+   "sokeria tarjoiluun"
+  ],
+  "instructions": [
+   "Valuta piimää liinassa seulan päällä seuraavaan päivään.",
+   "Vatkaa kerma ja maito vaahtoavaksi.",
+   "Nosta lusikalla piimänokareita kerman päälle, raasta pinnalle sitruunankuorta ja tarjoa sokerin kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-042",
+  "title": "Kylmäliemi valkoviinistä (kallskål)",
+  "description": "Sokeria sulatetaan veteen, joukkoon sitruunan mehu ja kuoret ja valkoviini, päälle muskottia; toinen versio sahdista ja oluesta pomeranssinkuorella.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "viini",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "225 g sokeria",
+   "1 l vettä",
+   "1 sitruunan mehu ja kuoren suikaleita",
+   "6 dl valkoviiniä",
+   "ripaus muskottipähkinää",
+   "korppuja tarjoiluun"
+  ],
+  "instructions": [
+   "Sulata sokeri veteen ja lisää sitruunan mehu ja muutama kuorisuikale.",
+   "Lisää valkoviini ja raasta pinnalle muskottia.",
+   "Tarjoa lautaselta lusikalla tai lasista korppujen kanssa. (Toinen tapa: puoliksi sahtia ja olutta, sokeria, pomeranssin- ja sitruunankuorta ja muskottia.)"
+  ],
+  "cookTimeMin": 10
+ },
+ {
+  "id": "kokkikirja-044",
+  "title": "Jauhoklimpit",
+  "description": "Voi ja maito kiehautetaan, jauhot vatkataan sekaan, ja jäähtyneeseen taikinaan lisätään munat, sokeri ja muskottikukka; klimppi kokeillaan liemessä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "klimpit",
+   "keitto",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 rkl voita",
+   "2,5 dl maitoa",
+   "2 dl vehnäjauhoja",
+   "3 kananmunaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Kiehauta voi ja maito ja vatkaa jauhot joukkoon, kunnes taikina irtoaa pohjasta.",
+   "Jäähdytä sekoittaen ja sekoita munat yksi kerrallaan, sokeri ja muskottikukka.",
+   "Kokeile yksi klimppi kiehuvassa liemessä; jos se hajoaa, lisää korppujauhoa. Keitä klimpit kostealla lusikalla annosteltuina."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-045",
+  "title": "Vehnäleipäklimpit",
+  "description": "Raastettu vehnäleipä vatkataan sulatetun voin kanssa vaaleaksi ja sekoitetaan kerman, keltuaisten, sokerin ja muskottikukan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "klimpit",
+   "keitto",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 dl vehnäleivän muruja (65 g)",
+   "3 rkl sulatettua voita",
+   "3 rkl kermaa",
+   "2 munankeltuaista",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Vatkaa murut ja voi vaaleaksi.",
+   "Lisää kerma, keltuaiset, sokeri ja muskottikukka.",
+   "Kokeile yksi klimppi liemessä ja keitä loput."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-046",
+  "title": "Vasikanlihapyörykät keittoon (frikadeller)",
+  "description": "Raaka vasikanliha hienonnetaan voin kanssa, sekaan maitoon liotettua vehnäleipää, munat, muskotti, suola ja pippuri; pikku pyörykät keitetään liemessä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "liha",
+   "klimpit",
+   "keitto",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "225 g vasikan- tai naudan jauhelihaa",
+   "60 g voita",
+   "1 viipale vehnäleipää liotettuna 3 rkl maitoa",
+   "2 kananmunaa",
+   "ripaus muskottipähkinää",
+   "½ tl suolaa",
+   "¼ tl mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita jauheliha ja voi tasaiseksi.",
+   "Lisää liotettu leipä, munat ja mausteet.",
+   "Nosta kostealla lusikalla pieniä pyöryköitä kiehuvaan liemeen ja keitä kypsiksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-047",
+  "title": "Kanapyörykät keittoon",
+  "description": "Kananrintaliha hienonnetaan voin kanssa ja sekoitetaan munien, kerman, sokerin, muskottikukan ja pippurin kanssa; keitetään kanakeitossa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kana",
+   "klimpit",
+   "keitto",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "250 g kananrintaa",
+   "125 g voita",
+   "3 kananmunaa",
+   "3 rkl kermaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Jauha kananliha ja sekoita voihin.",
+   "Lisää munat, kerma ja mausteet.",
+   "Keitä lusikalla annostellut pyörykät kanakeitossa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-048",
+  "title": "Riistalintupyörykät keittoon",
+  "description": "Kahden pyyn tai muun metsälinnun rintalihasta tehdyt pyörykät kanapyöryköiden tapaan – metsälintukeittoon.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riista",
+   "linnut",
+   "klimpit",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 pyyn tai 1 teeren rintafileet (tai 250 g kananrintaa)",
+   "125 g voita",
+   "3 kananmunaa",
+   "3 rkl kermaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Jauha liha ja sekoita voihin.",
+   "Lisää munat, kerma ja mausteet.",
+   "Keitä pienet pyörykät metsälintukeitossa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-049",
+  "title": "Kaalikääryleet keittoon",
+  "description": "Hienonnettu naudanliha sekoitetaan voin, munien, kerman, pippurin ja muskottikukan kanssa, kääritään kaalinlehtiin, sidotaan langalla ja keitetään liemessä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "kaali",
+   "keitto",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "400 g naudan jauhelihaa",
+   "200 g voita",
+   "3 kananmunaa",
+   "2 rkl kermaa",
+   "¼ tl mustapippuria",
+   "ripaus muskottikukkaa",
+   "12 kaalinlehteä ryöpättyinä",
+   "1,5 l lihalientä"
+  ],
+  "instructions": [
+   "Sekoita jauheliha ja voi tasaiseksi taikinaksi ja lisää munat, kerma ja mausteet.",
+   "Kääri pyörykät kaalinlehtiin ja sido langalla.",
+   "Keitä lihaliemessä noin 30 minuuttia (sopii kaalikeittoon)."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-050",
+  "title": "Keittoleivät (paistetut leipäkuutiot)",
+  "description": "Vehnäleipäpalat liotetaan kerman, munien ja sokerin seoksessa ja paistetaan voissa ruskeiksi – keittoon klimppien sijaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "leipä",
+   "keitto",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 viipaletta vehnäleipää kuutioina",
+   "2 rkl kermaa",
+   "2 kananmunaa",
+   "1 tl sokeria",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Sekoita kerma, munat ja sokeri.",
+   "Liota leipäkuutiot seoksessa ja paista voissa ruskeiksi.",
+   "Lisää keittoon juuri ennen tarjoilua."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-051",
+  "title": "Uunipaisti härästä (rostbiff)",
+  "description": "Naudan reisipala paahdetaan uunissa sipulin ja suolan kanssa, valellaan omalla liemellään ja suojataan kostealla paperilla; noin pari tuntia.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "paisti",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg naudan paahtopaistia tai reisilihaa",
+   "2 rkl voita",
+   "2 dl vettä",
+   "1 tl suolaa",
+   "3 sipulia hienonnettuna"
+  ],
+  "instructions": [
+   "Aseta liha voideltuun vuokaan, kaada alle vettä ja ripottele päälle suola ja sipuli.",
+   "Paahda 200 asteessa ja laske lämpö 160 asteeseen. Valele lihaa usein liemellä ja lisää vettä tarvittaessa.",
+   "Kun pinta on kellanruskea, peitä kostealla leivinpaperilla. Paahda yhteensä noin 2 tuntia (tai haluamaasi kypsyyteen)."
+  ],
+  "cookTimeMin": 120
+ }
+]

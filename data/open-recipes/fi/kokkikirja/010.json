@@ -1,0 +1,716 @@
+[
+ {
+  "id": "kokkikirja-252",
+  "title": "Verimakkarat",
+  "description": "Siivilöity veri, maito tai sahti, meirami, timjami, tali, voissa paistettu sipuli ja siirappi sakeutetaan ruisjauholla puuron paksuiseksi ja täytetään suoliin; keitetään hiljaa ja pistellään.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "veri",
+   "perinneruoka",
+   "ruis",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l verta siivilöitynä",
+   "5 dl maitoa tai kotikaljaa",
+   "1 tl kuivattua meiramia",
+   "1 tl kuivattua timjamia",
+   "2 tl suolaa",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "150 g munuaistalia tai voita hienonnettuna",
+   "1 rkl voissa paistettua sipulia",
+   "3 rkl tummaa siirappia",
+   "noin 5 dl karkeaa ruisjauhoa",
+   "3 m makkarasuolta"
+  ],
+  "instructions": [
+   "Sekoita veri, maito ja mausteet, tali, sipuli ja siirappi.",
+   "Lisää ruisjauhoa, kunnes seos on puuron paksuista. Paista pieni koepala pannulla ja tarkista maku.",
+   "Täytä suolet runsaaseen puoleen väliin ja sido.",
+   "Keitä hiljaa suolatussa vedessä, pistellen neulalla. Makkara on kypsä, kun siihen pistetty tikku tulee ulos kuivana. Jäähdytä ja paista tarjottaessa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-253",
+  "title": "Palttu (veripaltut)",
+  "description": "Verimakkaran taikinasta, hiukan paksumpana, muotoillaan märin käsin isoja palttuja, jotka keitetään suolatussa vedessä yksitellen.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "veri",
+   "perinneruoka",
+   "ruis",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l verta siivilöitynä",
+   "5 dl maitoa tai kotikaljaa",
+   "1 tl kuivattua meiramia",
+   "2 tl suolaa",
+   "½ tl mustapippuria",
+   "1 rkl voissa paistettua sipulia",
+   "3 rkl tummaa siirappia",
+   "noin 7 dl karkeaa ruisjauhoa"
+  ],
+  "instructions": [
+   "Sekoita taikina kuten verimakkaroihin, mutta hiukan paksummaksi.",
+   "Muotoile märin käsin isoja palttuja ja silitä pinta.",
+   "Keitä suolatussa kiehuvassa vedessä muutama kerrallaan, etteivät tartu toisiinsa. Palttu on kypsä, kun se on keskeltä kuiva.",
+   "Jäähdytä ritilällä. Viipaloi ja paista voissa; tarjoa maidon tai puolukan kanssa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-254",
+  "title": "Höystömakkarat (sydänmakkarat)",
+  "description": "Keitetty ja hienonnettu naudansydän sekoitetaan liemessä keitettyihin ohrasuurimoihin, sipuliin ja mausteisiin ja täytetään suoliin.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "naudanliha",
+   "ohra",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 naudansydän (n. 1 kg)",
+   "5 dl ohrasuurimoita",
+   "1 l lihalientä tai maitoa",
+   "2 sipulia",
+   "2 rkl talia tai voita",
+   "2 tl suolaa",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "3 m makkarasuolta"
+  ],
+  "instructions": [
+   "Keitä sydän kypsäksi ja jauha tai hienonna.",
+   "Keitä suurimot liemessä puuroksi ja jäähdytä.",
+   "Paista hienonnettu sipuli rasvassa. Sekoita kaikki ja ohenna liemellä sopivaksi.",
+   "Täytä suolet, keitä hiljaa ja paista tarjottaessa."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-255",
+  "title": "Lihamakkarat (suolatut)",
+  "description": "Hienonnettu naudanliha, tali ja silava maustetaan pippurilla, inkiväärillä, neilikalla ja suolalla, sotketaan liemen kanssa sitkeäksi ja täytetään suoliin; suolataan ja halutessa savustetaan.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "naudanliha",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg naudanlihaa jauhettuna",
+   "400 g naudan talia hienonnettuna",
+   "300 g sianselkäsilavaa kuutioina",
+   "2 dl lihalientä",
+   "1 rkl suolaa",
+   "1 tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "¼ tl jauhettua neilikkaa",
+   "3 m makkarasuolta"
+  ],
+  "instructions": [
+   "Sekoita liha, tali ja silava.",
+   "Lisää liemi ja mausteet ja sotke tasaisen sitkeäksi.",
+   "Täytä suolet ja sido. Kypsennä hiljaa kiehuvassa vedessä 30 minuuttia (alkuperäisessä makkarat suolattiin liemeen viikoksi ja palvattiin)."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-256",
+  "title": "Sianlihamakkarat",
+  "description": "Hienoksi survottu sianliha ja silavakuutiot maustetaan suolalla, neilikalla ja pippurilla ja notkistetaan väkevällä luuliemellä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "sianliha",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg sianlihaa jauhettuna",
+   "300 g sianselkäsilavaa pieninä kuutioina",
+   "2 tl suolaa",
+   "¼ tl jauhettua neilikkaa",
+   "½ tl mustapippuria",
+   "2 dl väkevää lientä rasvattomana",
+   "2 m makkarasuolta"
+  ],
+  "instructions": [
+   "Sekoita liha ja silava, mausta.",
+   "Sekoita joukkoon jäähtynyt liemi.",
+   "Täytä suolet ja sido. Keitä hiljaa 25–30 minuuttia ja paista tai säilytä kylmässä."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-257",
+  "title": "Meetvursti (Saksan makkarat)",
+  "description": "Nauta, sika ja silava survotaan ja maustetaan konjakilla, neilikalla ja suolalla, ahdetaan tiukasti suoliin, suolataan kolme päivää ja savustetaan kylmässä katajansavussa.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "savustettu",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "700 g naudanlihaa",
+   "700 g sianlihaa",
+   "700 g sianselkäsilavaa pieninä kuutioina",
+   "1 dl lihalientä",
+   "3 rkl konjakkia",
+   "½ tl jauhettua neilikkaa",
+   "45 g suolaa (sis. nitriittisuolaa)",
+   "naudan ohutsuolta"
+  ],
+  "instructions": [
+   "Jauha liha hienoksi ja sekoita silavakuutioihin, liemeen, konjakkiin ja mausteisiin.",
+   "Ahda tiukasti suoliin, pistellen ilmakuplat, ja sido päät.",
+   "Anna maustua suolassa kylmässä kolme vuorokautta, käännellen.",
+   "Kylmäsavusta katajalla ja lepällä useana päivänä. (Raakakypsytys vaatii kokemusta ja nitriittisuolaa.)"
+  ],
+  "cookTimeMin": 4320
+ },
+ {
+  "id": "kokkikirja-258",
+  "title": "Voitaikina (lehtitaikina)",
+  "description": "Taikina vedestä, paloviinasta, munasta ja vehnäjauhoista kaulitaan ja taitetaan saman painoisen voin kanssa viisi tai kuusi kertaa.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "taikina",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja",
+   "2,5 dl kylmää vettä",
+   "2 rkl vodkaa",
+   "1 kananmuna",
+   "500 g voita"
+  ],
+  "instructions": [
+   "Sekoita vesi, vodka ja muna ja vaivaa joukkoon jauhot kiinteäksi taikinaksi. Vaivaa kolmesti, lepuuttaen välillä.",
+   "Kaulitse levyksi, nosta päälle voi ohuina siivuina ja taita kääröksi.",
+   "Kaulitse ja taita, lepuuta kylmässä muutama minuutti kerrallaan. Toista 5–6 kertaa.",
+   "Käsittele mahdollisimman vähän ja pidä taikina kylmänä. Käytä pasteijoihin ja leivoksiin."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-259",
+  "skip": "yleinen pasteijojen muotoiluohje, ei erillinen resepti"
+ },
+ {
+  "id": "kokkikirja-260",
+  "title": "Lihapasteijat naudanlihatäytteellä",
+  "description": "Pieniä lehtitaikinapasteijoja, joissa täytteenä naudanlihasta ja talista survottu taikina, munat, korppujauho ja liemi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "naudanliha",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g naudanjauhelihaa",
+   "100 g naudan talia tai voita",
+   "2 kananmunaa",
+   "1 dl korppujauhoja",
+   "1 dl lientä tai maitoa",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "500 g lehtitaikinaa",
+   "1 kananmuna voiteluun"
+  ],
+  "instructions": [
+   "Sekoita liha, tali, munat, korppujauho, liemi ja mausteet tasaiseksi.",
+   "Kaulitse taikina ja ota siitä lasilla pyöreitä paloja. Laita täytettä paloille, peitä toisella palalla ja painele reunat yhteen; voitele.",
+   "Paista 200 asteessa noin 25 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-261",
+  "title": "Lihapasteijat vasikka-sianlihatäytteellä",
+  "description": "Pasteijatäyte naudan- ja vasikanlihasta ja silavasta, munasta ja leivästä, ja joukossa hienonnettua etikkakurkkua.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "vasikanliha",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "300 g naudanjauhelihaa",
+   "300 g vasikanjauhelihaa",
+   "200 g sianselkäsilavaa hienonnettuna",
+   "2 kananmunaa",
+   "1 dl korppujauhoja",
+   "1 dl lientä tai maitoa",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "3 pientä etikkakurkkua hienonnettuina",
+   "500 g lehtitaikinaa",
+   "1 kananmuna voiteluun"
+  ],
+  "instructions": [
+   "Sekoita täytteen ainekset.",
+   "Täytä lehtitaikinapalat, sulje puolikuun muotoon ja tee kanteen pari reikää.",
+   "Voitele ja paista 200 asteessa noin 25 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-262",
+  "title": "Kermapasteijat",
+  "description": "Lehtitaikinavuoat täytetään vatkatusta kermasta, keltuaisista, sitruunankuoresta, kardemummasta ja jauhoista tehdyllä täytteellä ja paistetaan sokeroituina.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leivonnainen",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3,3 dl kuohukermaa",
+   "2 rkl sokeria",
+   "3 munankeltuaista",
+   "1 munanvalkuainen",
+   "½ tl raastettua sitruunankuorta",
+   "½ tl jauhettua kardemummaa",
+   "3 rkl vehnäjauhoja",
+   "300 g lehtitaikinaa",
+   "2 rkl sokeria pinnalle"
+  ],
+  "instructions": [
+   "Vatkaa kerma ja sokeri. Vatkaa toisessa kulhossa keltuaiset ja valkuainen kuohkeaksi, lisää sitruunankuori, kardemumma ja jauhot.",
+   "Sekoita seokset.",
+   "Vuoraa pienet vuoat lehtitaikinalla ja kaada täyte niihin. Sirottele sokeria ja paista 200 asteessa noin 20 minuuttia."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-263",
+  "title": "Suuri kanapasteija",
+  "description": "Voissa ja sitruunankuoressa haudutetut kananpalat kerrostetaan lihatäytteen kanssa lehtitaikinakuoreen; paistamisen jälkeen kannen reiästä kaadetaan keltuaisilla sakeutettu kurkkukastike.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kana",
+   "juhlaruoka",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kokonainen kana paloiteltuna",
+   "50 g voita",
+   "1 tl raastettua sitruunankuorta",
+   "1 tl suolaa",
+   "2 dl lientä",
+   "800 g lehtitaikinaa",
+   "1 annos naudanlihatäytettä (Lihapasteijat naudanlihatäytteellä)",
+   "1 kananmuna voiteluun",
+   "1 etikkakurkku hienonnettuna",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Hauduta kananpalat voissa sitruunankuoren ja suolan kanssa melkein kypsiksi, lisää lientä tarvittaessa. Jäähdytä ja irrota lihat luista.",
+   "Vuoraa voideltu vuoka taikinalla, levitä pohjalle puolet lihatäytteestä, sitten kana ja loput täytteestä.",
+   "Käännä reunat yli, voitele ja peitä taikinakannella. Voitele.",
+   "Paista 190 asteessa noin tunti; leikkaa puolivälissä kanteen reikä.",
+   "Kiehauta paistoliemi kurkun kanssa, kaada keltuaisten joukkoon ja kaada reiästä piiraan sisään ennen tarjoilua."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-264",
+  "title": "Mantelitorttu",
+  "description": "Jauhetut mantelit, vaahdoksi sekoitetut keltuaiset ja sokeri, vähän jauhoja ja lopuksi valkuaisvaahto; paistetaan muotissa miedossa lämmössä tunti.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "mantelit",
+   "leivonta",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "425 g kuorittuja manteleita jauhettuna",
+   "2 kitkerää mantelia tai muutama tippa manteliaromia",
+   "10 kananmunaa erotettuna",
+   "2 dl sokeria",
+   "1 dl vehnäjauhoja",
+   "voita vuokaan"
+  ],
+  "instructions": [
+   "Vatkaa keltuaiset ja sokeri vaahdoksi.",
+   "Sekoita mantelit ja jauhot joukkoon.",
+   "Vatkaa valkuaiset kovaksi vaahdoksi ja kääntele joukkoon.",
+   "Kaada voideltuun vuokaan ja paista 160 asteessa noin tunti. Kumoa vadille."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-265",
+  "title": "Kiiltävä mantelitorttu",
+  "description": "Mantelitorttu, joka paistamisen jälkeen kuorrutetaan sokerista ja valkuaisista vatkatulla kiilteellä ja kuivatetaan uunissa.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "mantelit",
+   "leivonta",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 paistettu mantelitorttu",
+   "1 dl tomusokeria",
+   "2 munanvalkuaista"
+  ],
+  "instructions": [
+   "Paista mantelitorttu.",
+   "Vatkaa tomusokeri ja valkuaiset kovaksi vaahdoksi.",
+   "Levitä torttuun ja kuivata 100-asteisessa uunissa, kunnes kuorrute kiiltää."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-266",
+  "title": "Pansk torttu (kerroshillotorttu)",
+  "description": "Kuusi tai seitsemän ohutta lehtitaikinalevyä kerrostetaan omenasoseen, vadelma- ja kirsikkahillon kanssa ja kuorrutetaan marengilla tai kermavaahdolla.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "juhla",
+   "marjat",
+   "omena",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g lehtitaikinaa",
+   "3 dl omenasosetta",
+   "2 dl vadelmahilloa",
+   "2 dl kirsikkahilloa",
+   "3 munanvalkuaista",
+   "1,5 dl tomusokeria"
+  ],
+  "instructions": [
+   "Kaulitse taikinasta 6–7 vadin kokoista ohutta levyä, pistele ja paista 200 asteessa kullanruskeiksi.",
+   "Kerrosta levyt vadille ja levitä väleihin vuorotellen omenasosetta, vadelmahilloa ja kirsikkahilloa.",
+   "Vatkaa valkuaiset ja sokeri kovaksi vaahdoksi, levitä päälle ja kuivata miedossa uunissa kiiltäväksi. Vaihtoehtoisesti päälle kermavaahtoa ja hilloa reunoille."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-267",
+  "title": "Leipätorttu (korppujauho-mantelikakku)",
+  "description": "Keltuaiset ja sokeri vatkataan kuohkeaksi, sekaan mantelit, korppujauho, kaneli ja sitruunankuori ja lopuksi valkuaisvaahto.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "mantelit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "10 kananmunaa erotettuna",
+   "3 dl sokeria",
+   "300 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "1,5 dl korppujauhoja",
+   "1 tl kanelia",
+   "1 tl raastettua sitruunankuorta",
+   "voita vuokaan"
+  ],
+  "instructions": [
+   "Vatkaa keltuaiset ja sokeri vaahdoksi.",
+   "Lisää mantelit, korppujauho, kaneli ja sitruunankuori.",
+   "Kääntele joukkoon kovaksi vatkatut valkuaiset. Paista voidellussa vuoassa 160 asteessa noin tunti."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-268",
+  "title": "Munapaakkelsit (rasvassa paistetut keksit)",
+  "description": "Keltuaisista, sokerista ja jauhoista kaulitusta taikinasta leikataan eri muotoisia paloja, jotka paistetaan voissa ja sokeroidaan.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "keksit",
+   "leivonta",
+   "rasvassa paistettu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 munankeltuaista",
+   "8 rkl sokeria",
+   "noin 4 dl vehnäjauhoja",
+   "300 g voita tai kirkastettua voita paistamiseen",
+   "sokeria pinnalle"
+  ],
+  "instructions": [
+   "Sekoita keltuaiset ja sokeri, vaivaa joukkoon jauhot kiinteäksi taikinaksi.",
+   "Kaulitse 6 mm paksuksi ja leikkaa paloja; leikkaa reunat koristeellisesti.",
+   "Paista kuumassa voissa muutama kerrallaan molemmin puolin kauniin ruskeiksi.",
+   "Valuta paperilla ja sirottele sokeria."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-269",
+  "title": "Kermapaakkelsit",
+  "description": "Kermavaahto, sitruunankuori, keltuaiset ja vähän jauhoja kevennetään valkuaisvaahdolla ja paistetaan voidelluissa pikkuvuoissa; tarjotaan lämpiminä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leivonnainen",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kuohukermaa",
+   "3 rkl sokeria",
+   "1 sitruunan raastettu kuori",
+   "6 kananmunaa erotettuna",
+   "1,5 dl vehnäjauhoja",
+   "voita vuokiin"
+  ],
+  "instructions": [
+   "Vatkaa kerma ja sokeri vaahdoksi. Lisää sitruunankuori, keltuaiset ja jauhot.",
+   "Kääntele joukkoon kovaksi vatkatut valkuaiset.",
+   "Annostele voideltuihin pikkuvuokiin ja paista 200 asteessa 15–20 minuuttia. Tarjoa lämpiminä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-270",
+  "title": "Kuivat mantelileivokset",
+  "description": "Murotaikina jauhoista, voista, sokerista ja manteleista paistetaan pikkuvuoissa miedossa lämmössä.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "keksit",
+   "mantelit",
+   "leivonta",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "425 g vehnäjauhoja",
+   "210 g voita",
+   "300 g sokeria",
+   "50 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Nypi jauhot ja voi sekaisin.",
+   "Lisää sokeri, mantelit, aromi ja keltuaiset ja vaivaa taikinaksi.",
+   "Painele voideltuihin pikkuvuokiin ja paista 175 asteessa noin 15 minuuttia."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-271",
+  "title": "Riisipannukakku",
+  "description": "Maidossa pehmeäksi keitettyyn riisiin sekoitetaan rusinat, voi, sitruunankuori, sokeri ja munat; paistetaan uunissa ja sokeroidaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "pannukakku",
+   "riisi",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2,5 dl puuroriisiä",
+   "1 l maitoa",
+   "1 dl rusinoita",
+   "2 rkl voita",
+   "1 tl raastettua sitruunankuorta",
+   "1 dl sokeria",
+   "5 kananmunaa",
+   "sokeria pinnalle"
+  ],
+  "instructions": [
+   "Keitä riisi maidossa pehmeäksi puuroksi. Sekoita rusinat, voi, sitruunankuori ja sokeri joukkoon.",
+   "Jäähdytä ja sekoita munat joukkoon.",
+   "Paista voidellussa vuoassa 200 asteessa noin 40 minuuttia. Sirottele sokeria."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-272",
+  "title": "Ohukaiset",
+  "description": "Notkea taikina maidosta ja kermasta, munista, sulatetusta voista ja vehnäjauhoista paistetaan ohuiksi ohukaisiksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "ohukaiset",
+   "pannukakku",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3,3 dl maitoa",
+   "3,3 dl kermaa",
+   "5 kananmunaa",
+   "1,5 dl sulatettua voita",
+   "noin 4 dl vehnäjauhoja",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Vatkaa maito, kerma, munat ja jauhot tasaiseksi ohueksi taikinaksi; lisää voi.",
+   "Anna turvota hetki.",
+   "Paista ohuita ohukaisia kuumalla pannulla."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-273",
+  "title": "Hillolla kerrostetut ohukaiset",
+  "description": "Ohukaiset pinotaan vadille, ja jokaisen väliin levitetään ohuelti marjahilloa; päälle sokeria.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "ohukaiset",
+   "marjat",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 annos ohukaisia",
+   "3 dl marjahilloa",
+   "2 rkl sokeria"
+  ],
+  "instructions": [
+   "Paista ohukaiset.",
+   "Pinoa ne vadille ja levitä joka väliin ohut kerros hilloa.",
+   "Sirottele päälle sokeria ja leikkaa lohkoiksi."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-274",
+  "title": "Hapankermapannukakku",
+  "description": "Vatkattu hapankerma, keltuaiset, kaneli ja sokeri, jauhot ja valkuaisvaahto paistetaan vuoassa miedossa lämmössä – tarjotaan lämpimänä liinaan käärittynä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "pannukakku",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kermaviiliä tai hapankermaa",
+   "1 dl sokeria",
+   "6 kananmunaa erotettuna",
+   "½ tl kanelia",
+   "6,5 dl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Vatkaa kermaviili ja osa sokerista kuohkeaksi; lisää keltuaiset, kaneli ja loput sokerista.",
+   "Sekoita jauhot joukkoon ja kääntele lopuksi kovaksi vatkatut valkuaiset.",
+   "Paista voidellussa vuoassa 175 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-275",
+  "title": "Kermapannukakku (kohoava)",
+  "description": "Vatkattu kerma, keltuaiset jauhoissa, sokeri ja sitruunankuori kevennetään valkuaisvaahdolla ja paistetaan miedossa uunissa kohoamaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "pannukakku",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kuohukermaa",
+   "1 rkl sokeria",
+   "8 kananmunaa erotettuna",
+   "3,3 dl vehnäjauhoja",
+   "3 rkl sokeria",
+   "½ tl raastettua sitruunankuorta"
+  ],
+  "instructions": [
+   "Vatkaa kerma ja sokeri vaahdoksi.",
+   "Vatkaa keltuaiset ja jauhot ja sekoita kermaan; lisää sokeri ja sitruunankuori.",
+   "Kääntele joukkoon kovaksi vatkatut valkuaiset ja paista voidellussa vuoassa 175 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-276",
+  "title": "Mantelikakku (manteliohukainen leivos)",
+  "description": "Voi, keltuaiset, sokeri ja jauhetut mantelit vaivataan jauhojen ja valkuaisvaahdon kanssa taikinaksi, muotoillaan levyksi, sokeroidaan ja paistetaan pellillä.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "mantelit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "80 g voita",
+   "4 kananmunaa erotettuna",
+   "100 g sokeria",
+   "130 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "noin 3 dl vehnäjauhoja",
+   "sokeria pinnalle"
+  ],
+  "instructions": [
+   "Vatkaa pehmeä voi, lisää keltuaiset, sokeri ja mantelit.",
+   "Tee jauhoista keko, kaada keskelle voiseos ja vatkatut valkuaiset ja vaivaa taikinaksi.",
+   "Muotoile levyksi leivinpaperille, sirottele sokeria ja paista 180 asteessa noin 25 minuuttia."
+  ],
+  "cookTimeMin": 50
+ }
+]

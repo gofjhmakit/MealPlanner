@@ -1,0 +1,671 @@
+[
+ {
+  "id": "kokkikirja-227",
+  "title": "Rusinapuddinki",
+  "description": "Korppujauhot liotetaan voissa ja maidossa, sekaan runsaasti rusinoita, sokeria, sitruunankuorta ja kermaan vatkatut munat; uuniin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "rusinat",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 dl korppujauhoja",
+   "1 dl sulatettua voita",
+   "3 dl maitoa",
+   "4 dl rusinoita",
+   "2 rkl sokeria",
+   "1 tl raastettua sitruunankuorta",
+   "4 kananmunaa",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Sekoita korppujauho, voi ja kuuma maito ja anna turvota.",
+   "Lisää rusinat, sokeri ja sitruunankuori.",
+   "Vatkaa munat kermaan ja sekoita joukkoon. Paista voideltuna vuoassa 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-228",
+  "title": "Saagopuddinki",
+  "description": "Saagosuurimot keitetään maidossa paksuksi puuroksi, sekaan voi, korppujauho, muskottikukka ja sokeri, jäähtyneeseen kermaan vatkatut munat; uuniin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "110 g saagosuurimoita",
+   "1,3 l maitoa",
+   "2 rkl voita",
+   "1 dl korppujauhoja",
+   "ripaus muskottikukkaa",
+   "1 dl sokeria",
+   "6 kananmunaa",
+   "1,5 dl kermaa"
+  ],
+  "instructions": [
+   "Keitä saago maidossa paksuksi puuroksi ja sekoita voi, korppujauho, muskottikukka ja sokeri joukkoon.",
+   "Jäähdytä, vatkaa munat kermaan ja sekoita puuroon.",
+   "Paista voideltuna vuoassa 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-229",
+  "title": "Riisipuddinki manteleilla",
+  "description": "Maidossa keitetty paksu riisipuuro maustetaan voilla, manteleilla, sokerilla ja sitruunankuorella, sekaan munat; uunissa kullanruskeaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "riisi",
+   "laatikko",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2,5 dl puuroriisiä",
+   "1 l maitoa",
+   "2 rkl voita",
+   "50 g kuorittuja manteleita hienonnettuina",
+   "1 dl sokeria",
+   "1 tl raastettua sitruunankuorta",
+   "4 kananmunaa",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Keitä riisi maidossa paksuksi puuroksi ja sekoita voi joukkoon.",
+   "Jäähdytä, sekoita mantelit, sokeri, sitruunankuori ja munat.",
+   "Kaada korppujauhotettuun vuokaan ja paista 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-230",
+  "title": "Mantelipuddinki",
+  "description": "Korppujauho, mantelit, sokeri, kaneli ja voi sekoitetaan kiehuvaan kermaan, sekaan munat; paistetaan muotissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "mantelit",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "225 g korppujauhoja",
+   "65 g kuorittuja manteleita jauhettuina",
+   "1 dl sokeria",
+   "1 tl kanelia",
+   "4 rkl sulatettua voita",
+   "6,5 dl kermaa",
+   "4 kananmunaa"
+  ],
+  "instructions": [
+   "Sekoita korppujauho, mantelit, sokeri, kaneli ja voi.",
+   "Kaada kiehuva kerma päälle ja sekoita notkeaksi.",
+   "Sekoita munat joukkoon, kaada voideltuun muottiin ja paista 175 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-231",
+  "title": "Omenapuddinki",
+  "description": "Omenat haudutetaan valkoviinissä sitruunankuoren ja sokerin kanssa soseeksi; korput liotetaan kermaan ja kerrostetaan soseen kanssa ja paistetaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "omena",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg omenoita",
+   "1 dl valkoviiniä",
+   "1 tl raastettua sitruunankuorta",
+   "1 dl sokeria",
+   "225 g korppujauhoja",
+   "1 l kermaa tai maitoa",
+   "4 kananmunaa",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Hauduta kuoritut omenalohkot viinissä sitruunankuoren ja sokerin kanssa soseeksi ja jäähdytä.",
+   "Liota korppujauho kermassa ja sekoita munat joukkoon.",
+   "Kerrosta voideltuun vuokaan korppuseosta ja omenasosetta ja paista 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-232",
+  "skip": "yleinen kastikeohje, ei resepti"
+ },
+ {
+  "id": "kokkikirja-233",
+  "title": "Keltuaiskastike vasikanpaistille",
+  "description": "Voi ja jauhot sekoitetaan, lisätään vasikanpaistin liemi ja suola ja sakeutetaan kahdella keltuaisella.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl vasikanpaistin lientä",
+   "½ tl suolaa",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot ja lisää paistoliemi. Kiehauta ja suolaa.",
+   "Sakeuta keltuaisilla miedolla lämmöllä keittämättä."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-234",
+  "title": "Ruskea kapriskastike",
+  "description": "Voi-jauhosuurus lihaliemeen, joukkoon kaprikset ja siirappia ja etikkaa makeahappamaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl lihalientä",
+   "2 rkl kapriksia",
+   "1 rkl tummaa siirappia",
+   "1 rkl etikkaa"
+  ],
+  "instructions": [
+   "Ruskista voi ja jauhot, lisää liemi ja kiehauta.",
+   "Lisää kaprikset, siirappi ja etikka."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-235",
+  "title": "Keltainen kapriskastike",
+  "description": "Kuten ruskea kapriskastike, mutta makeahappamuus tulee sitruunasta ja sokerista ja kastike sakeutetaan keltuaisilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl lihalientä",
+   "2 rkl kapriksia",
+   "1 rkl sitruunamehua",
+   "1 tl sokeria",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot, lisää liemi ja kaprikset ja kiehauta.",
+   "Mausta sitruunalla ja sokerilla ja kaada vatkattujen keltuaisten joukkoon."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-236",
+  "title": "Vihreä kastike naudanrinnalle",
+  "description": "Voi-jauhosuurukseen lisätään pinaatista puristettua mehua, suolakurkkua ja oliiveja; sakeutetaan keltuaisilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "pinaatti",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "2 dl lihalientä",
+   "1 dl pinaatista puristettua mehua tai soseutettua pinaattia",
+   "1 suolakurkku hienonnettuna",
+   "6 oliivia paloina",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot, lisää liemi ja pinaattimehu.",
+   "Lisää kurkku ja oliivit ja kiehauta.",
+   "Kaada keltuaisten joukkoon ja tarjoa keitetyn naudanrinnan kanssa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-237",
+  "title": "Sinappikastike kalalle",
+  "description": "Voi-jauhosuurukseen kalalientä ja niin paljon sinappia, että kastike on väkevää ja kauniin keltaista.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "sinappi",
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kalalientä",
+   "2 rkl sinappia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot, lisää kalaliemi ja kiehauta.",
+   "Lisää sinappi ja keitä hetki."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-238",
+  "title": "Makeahapan korinttikastike",
+  "description": "Voi-jauhosuurus veteen, sekaan korintteja, siirappia ja etikkaa; halutessa sitruunankuorta – minkä tahansa paistin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl vettä",
+   "2 rkl korintteja",
+   "1 rkl tummaa siirappia",
+   "1 rkl etikkaa",
+   "½ tl raastettua sitruunankuorta"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot ja lisää vesi.",
+   "Kun kastike kiehuu, lisää korintit, siirappi ja etikka ja keitä, kunnes korintit turpoavat."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-239",
+  "title": "Voikastike (vaahtoava)",
+  "description": "Iso voinokare jauhoissa, kalalientä tai vettä, ja lisää voita vatkaten, kunnes kastike vaahtoaa – lipeäkalan kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "75 g voita",
+   "1 rkl vehnäjauhoja",
+   "3 dl kalalientä tai vettä",
+   "50 g voita lopuksi",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita voi ja jauhot ja lisää liemi.",
+   "Kiehauta jatkuvasti sekoittaen ja lisää loput voista vatkaten, kunnes kastike vaahtoaa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-240",
+  "title": "Piparjuurikastike",
+  "description": "Valmiiseen voikastikkeeseen sekoitetaan raastettua piparjuurta – hauen kanssa; lihalle tehdään maitoon tai lihaliemeen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "75 g voita",
+   "1 rkl vehnäjauhoja",
+   "3 dl kalalientä, lihalientä tai maitoa",
+   "3 rkl raastettua piparjuurta",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Valmista voikastike.",
+   "Sekoita joukkoon piparjuuri sopivan väkeväksi."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-241",
+  "title": "Piparjuurivoi",
+  "description": "Voi kuumennetaan pannulla ruskistamatta ja raastettu piparjuuri lämmitetään siinä – lahnan tai hauen kanssa; erikseen tarjottuna sokerin ja etikan kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "100 g voita",
+   "3 rkl raastettua piparjuurta",
+   "1 tl sokeria (valinnainen)",
+   "1 tl etikkaa (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna voi pannulla ruskistamatta.",
+   "Sekoita piparjuuri joukkoon ja kuumenna.",
+   "Tarjoa kalan kanssa; halutessasi sokerin ja etikan kera."
+  ],
+  "cookTimeMin": 10
+ },
+ {
+  "id": "kokkikirja-242",
+  "title": "Persiljakastike",
+  "description": "Voi, jauhot ja hienonnettu persilja sekoitetaan ja keitetään ruoan liemellä – kalojen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kala- tai lihalientä",
+   "3 rkl persiljaa hienonnettuna",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita voi, jauhot ja persilja.",
+   "Lisää liemi ja keitä muutama minuutti."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-243",
+  "title": "Tillikastike",
+  "description": "Voi, jauhot ja hienonnettu tilli keitetään liemessä ja maustetaan etikalla ja sokerilla makeahappamaksi; halutessa keltuaisilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "tilli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl lihalientä",
+   "3 rkl tilliä hienonnettuna",
+   "1 rkl etikkaa",
+   "1 tl sokeria",
+   "½ tl suolaa",
+   "2 munankeltuaista (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita voi, jauhot ja tilli, lisää liemi ja kiehauta.",
+   "Mausta etikalla ja sokerilla.",
+   "Kaada halutessasi keltuaisten joukkoon ja tarjoa tillilihan kanssa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-244",
+  "title": "Ruohosipulikastike",
+  "description": "Voi, jauhot ja ruohosipuli keitetään vedessä tai kalaliemessä muutama minuutti.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kalalientä tai vettä",
+   "3 rkl ruohosipulia",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita voi, jauhot ja ruohosipuli.",
+   "Lisää liemi ja keitä muutama minuutti."
+  ],
+  "cookTimeMin": 10
+ },
+ {
+  "id": "kokkikirja-245",
+  "title": "Sipulikastike kalalle",
+  "description": "Hienonnettu sipuli keitetään voissa ja jauhoissa, lisätään vesi tai kalaliemi, suolataan ja lopuksi voinokare.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "sipuli",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 sipuli hienonnettuna",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "3 dl kalalientä tai vettä",
+   "½ tl suolaa",
+   "1 rkl voita lopuksi"
+  ],
+  "instructions": [
+   "Kuullota sipuli voissa, lisää jauhot.",
+   "Lisää liemi ja suolaa.",
+   "Lisää lopuksi voinokare ja kiehauta."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-246",
+  "title": "Munakastike",
+  "description": "Voikastike kaadetaan hienonnettujen kovaksi keitettyjen munien päälle – monien keitettyjen kalojen kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kala",
+   "kananmuna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "75 g voita",
+   "1 rkl vehnäjauhoja",
+   "3 dl kalalientä",
+   "½ tl suolaa",
+   "2 kovaksi keitettyä kananmunaa hienonnettuina"
+  ],
+  "instructions": [
+   "Valmista voikastike.",
+   "Kaada se hienonnettujen munien päälle ja sekoita."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-247",
+  "title": "Kirsikkakastike",
+  "description": "Kuivatut kirsikat survotaan ja keitetään sokerin, kanelin ja sitruunankuoren kanssa, siivilöidään ja suurustetaan perunajauholla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "marjat",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "150 g kuivattuja kirsikoita",
+   "5 dl vettä",
+   "1 dl sokeria",
+   "1 kanelitanko",
+   "1 suikale sitruunankuorta",
+   "1 rkl perunajauhoja",
+   "2 rkl vettä"
+  ],
+  "instructions": [
+   "Survo kirsikat ja keitä vedessä sokerin, kanelin ja sitruunankuoren kanssa soseeksi.",
+   "Siivilöi.",
+   "Kiehauta ja suurusta veteen sekoitetulla perunajauholla."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-248",
+  "title": "Sokerisoija (karamellisiirappi)",
+  "description": "Sokeri keitetään tilkassa vettä ruskeaksi ja ohennetaan vedellä siirapiksi – kastikkeiden väriksi.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "mausteet",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 dl sokeria",
+   "½ dl vettä",
+   "2 dl kiehuvaa vettä"
+  ],
+  "instructions": [
+   "Sulata sokeri tilkassa vettä ja keitä sekoittaen tummanruskeaksi.",
+   "Lisää varovasti kiehuva vesi ja keitä ohueksi siirapiksi.",
+   "Jäähdytä ja säilytä pullossa; käytä kastikkeiden värjäämiseen."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-249",
+  "title": "Riisimakkarat rusinoilla",
+  "description": "Maidossa keitetty paksu riisipuuro sekoitetaan talin, voissa paistetun sipulin, rusinoiden ja mausteiden kanssa ja täytetään suoliin – ryynimakkaran sukulainen.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "riisi",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl puuroriisiä",
+   "2 l maitoa",
+   "425 g munuaistalia tai voita hienonnettuna",
+   "1 rkl voissa paistettua sipulia",
+   "2 dl rusinoita",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "1 tl kuivattua meiramia",
+   "3 m makkarasuolta"
+  ],
+  "instructions": [
+   "Keitä riisi maidossa paksuksi puuroksi.",
+   "Sekoita kuumaan puuroon tali, sipuli ja rusinat. Jäähdytä ja mausta.",
+   "Täytä suolet väljästi, sido ja keitä hiljaa 20 minuuttia, pistellen. Paista ennen tarjoilua."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-250",
+  "title": "Ohrasuurimomakkarat (ryynimakkarat)",
+  "description": "Ohra- tai suurimopuuro sekoitetaan talin, paistetun sipulin, rusinoiden, siirapin ja mausteiden kanssa ja täytetään suoliin.",
+  "servings": 15,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "ohra",
+   "perinneruoka",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,3 l ohrasuurimoita",
+   "3 l maitoa",
+   "425 g munuaistalia tai voita",
+   "3 sipulia voissa paistettuina",
+   "3 dl rusinoita",
+   "3 dl tummaa siirappia",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "2 tl suolaa",
+   "1 tl meiramia",
+   "1 tl timjamia",
+   "4 m makkarasuolta"
+  ],
+  "instructions": [
+   "Keitä suurimot maidossa paksuksi puuroksi ja nosta liedeltä.",
+   "Sekoita tali, sipuli, rusinat, siirappi ja mausteet joukkoon.",
+   "Täytä suolet, sido ja keitä hiljaa. Paista voissa ennen tarjoilua."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-251",
+  "title": "Maksamakkarat rusinoilla",
+  "description": "Maidosta ja korppujauhosta keitettyyn puuroon sekoitetaan tali, paistettu sipuli, rusinat ja jauhettu maksa ja täytetään suoliin.",
+  "servings": 15,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makkara",
+   "maksa",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2,5 l maitoa",
+   "8 dl korppujauhoja",
+   "200 g munuaistalia tai voita",
+   "1 rkl voissa paistettua sipulia",
+   "2 dl rusinoita",
+   "600 g maksaa jauhettuna",
+   "2 tl suolaa",
+   "½ tl mustapippuria",
+   "1 tl meiramia",
+   "2 rkl tummaa siirappia",
+   "3 m makkarasuolta"
+  ],
+  "instructions": [
+   "Keitä maidosta ja korppujauhosta paksu puuro, sekoita tali ja sipuli ja kiehauta.",
+   "Nosta liedeltä, lisää rusinat ja jäähdytä.",
+   "Sekoita joukkoon maksa ja mausteet, täytä suolet ja keitä hiljaa. Paista ennen tarjoilua."
+  ],
+  "cookTimeMin": 120
+ }
+]

@@ -11,7 +11,7 @@ Openly licensed recipe collections, translated into Finnish for the app's recipe
 | [Wikibooks Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents) | 3 798 | CC BY-SA 4.0 | Wikibooks contributors (dump: [gossminn/wikibooks-cookbook](https://huggingface.co/datasets/gossminn/wikibooks-cookbook), 2024-07-31) |
 | [Open Recipe Archive](https://github.com/AdamBouhmad/open-recipe-archive) | 2 British sauces | Public domain (historical 1861 recipes) | Isabella Beeton, *The Book of Household Management* (1861); Open Recipe Archive |
 | [Apicius](https://www.gutenberg.org/ebooks/29728) (c. 400 AD) | 475 (22 skipped) | Public domain | De re coquinaria; English translation J. D. Vehling (1936, d. 1950); Project Gutenberg |
-| [Kokki-kirja](https://www.gutenberg.org/ebooks/73445) (1849) | 382 (25 done) | Public domain | J. F. Granlund (ed.), Turku 1849 – the first cookbook in Finnish; Project Gutenberg |
+| [Kokki-kirja](https://www.gutenberg.org/ebooks/73445) (1849) | 344 (38 skipped: techniques, preserving methods, household tips) | Public domain | J. F. Granlund (ed.), Turku 1849 – the first cookbook in Finnish; Project Gutenberg |
 | [The Forme of Cury](https://www.gutenberg.org/ebooks/8102) (c. 1390) | 190 (25 done) | Public domain | Master cooks of Richard II; ed. Samuel Pegge (1780); Project Gutenberg |
 | [Open Recipe Project](https://github.com/reZach/open-recipe-project) | 2 pictured main dishes | CC0 (recipe and accompanying photograph) | Open Recipe Project contributors |
 
@@ -83,7 +83,7 @@ modern Finnish reading as in *Historical cookbooks* above. Oldest first:
 | *American Cookery* (Amelia Simmons) | 1796 | [#12815](https://www.gutenberg.org/ebooks/12815) | First American cookbook. |
 | *Modern Cookery for Private Families* (Eliza Acton) | 1845 | [#72482](https://www.gutenberg.org/ebooks/72482) | Influential; first to list ingredients with quantities. |
 | *Domestic Cookery* (Elizabeth E. Lea) | 1845 | [#28753](https://www.gutenberg.org/ebooks/28753) | American household cookery. |
-| *Kokki-kirja* (J. F. Granlund) | 1849 | [#73445](https://www.gutenberg.org/ebooks/73445) | **In the catalogue**; batches 001–015 (357 recipes) to translate. Skip the non-food tips at the end (moths, stains). |
+| *Kokki-kirja* (J. F. Granlund) | 1849 | [#73445](https://www.gutenberg.org/ebooks/73445) | **Done** – all 382 entries; 344 recipes, the rest (general methods, salting/drying techniques, household tips) skipped. |
 
 
 - **Foodista** ([foodista.com](https://www.foodista.com/)) – recipe text is **CC BY 3.0** (site footer, checked via the

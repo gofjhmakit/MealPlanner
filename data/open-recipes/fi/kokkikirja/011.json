@@ -1,0 +1,618 @@
+[
+ {
+  "id": "kokkikirja-277",
+  "title": "Mantelikakku vuoassa",
+  "description": "Mantelit jauhetaan keltuaisiin, sekaan sokerilla raastettu sitruunankuori, sokeri, munat, vähän jauhoja ja kaneli; paistetaan paperoidussa vuoassa ja sokeroidaan.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "mantelit",
+   "leivonta",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "425 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "2 munankeltuaista",
+   "1 sitruunan raastettu kuori",
+   "300 g sokeria",
+   "8 kananmunaa",
+   "50 g vehnäjauhoja",
+   "1 rkl kanelia",
+   "tomusokeria pinnalle"
+  ],
+  "instructions": [
+   "Sekoita mantelit ja keltuaiset, lisää sitruunankuori, sokeri ja vatkatut munat.",
+   "Sekoita joukkoon jauhot ja kaneli.",
+   "Kaada voideltuun, leivinpaperilla vuorattuun vuokaan ja paista 170 asteessa noin tunti. Kumoa ja sirottele tomusokeria."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "kokkikirja-278",
+  "title": "Omenapannukakku korpuista",
+  "description": "Omenasose ja voissa ruskistetut kakkumurut kerrostetaan vuokaan voinokareiden kanssa ja paistetaan; kumotaan ja maustetaan konjakilla ja sokerilla – omenakakun esi-isä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "omena",
+   "uuniruoka",
+   "jälkiruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg omenoita",
+   "1 dl vettä",
+   "1 tl kanelia",
+   "1 dl sokeria",
+   "5 dl kuivan pullan tai kakun muruja",
+   "100 g voita",
+   "2 rkl voita nokareina",
+   "2 rkl konjakkia",
+   "2 rkl sokeria pinnalle"
+  ],
+  "instructions": [
+   "Hauduta kuoritut omenalohkot vedessä kanelin ja sokerin kanssa soseeksi ja jäähdytä.",
+   "Ruskista murut voissa.",
+   "Kerrosta voideltuun vuokaan murua ja sosetta niin, että pohjalle ja pinnalle tulee murua. Lisää voinokareita.",
+   "Paista 200 asteessa noin 30 minuuttia. Kumoa vadille, pirskota konjakki päälle ja sirottele sokeria."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-279",
+  "title": "Kermamunkit (aebleskiver-pannussa)",
+  "description": "Hapan kerma vatkataan vaahdoksi, sekaan jauhoja ja vettä, ja taikinasta paistetaan munkkeja munkkipannussa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "munkit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l hapankermaa tai kermaviiliä",
+   "1 rkl sokeria",
+   "noin 6 dl vehnäjauhoja",
+   "3,3 dl kylmää vettä",
+   "voita pannuun"
+  ],
+  "instructions": [
+   "Vatkaa hapankerma ja sokeri kuohkeaksi.",
+   "Sekoita jauhoja, kunnes taikina on sopivan paksua, ja lisää lopuksi vesi.",
+   "Paista voidellussa munkkipannussa (aebleskiver-pannu) kääntäen palloiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-280",
+  "title": "Mantelimunkit",
+  "description": "Hapan kerma ja jauhot, kaneli, sitruunankuori ja jauhetut mantelit sekä sokerin kanssa vatkatut munat paistetaan munkkipannussa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "munkit",
+   "mantelit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "5 dl hapankermaa",
+   "noin 5 dl vehnäjauhoja",
+   "½ tl kanelia",
+   "1 tl raastettua sitruunankuorta",
+   "50 g manteleita jauhettuna",
+   "6 kananmunaa",
+   "1 dl sokeria",
+   "voita pannuun"
+  ],
+  "instructions": [
+   "Sekoita hapankerma ja jauhot taikinaksi, lisää kaneli, sitruunankuori ja mantelit.",
+   "Vatkaa munat sokerin kanssa ja sekoita joukkoon.",
+   "Paista voidellussa munkkipannussa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-281",
+  "title": "Kermavohvelit",
+  "description": "Hapan kerma, vesi, sulatettu voi, munat ja jauhot – taikina, joka valuu vatkaimesta nauhana; paistetaan vohveliraudassa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vohvelit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3,3 dl hapankermaa",
+   "3,3 dl vettä",
+   "1,5 dl sulatettua voita",
+   "4 kananmunaa",
+   "noin 5 dl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Sekoita hapankerma, vesi, voi ja munat.",
+   "Lisää jauhoja, kunnes taikina valuu vatkaimesta paksuna nauhana.",
+   "Paista kuumassa vohveliraudassa; voitele rauta vain ensimmäistä vohvelia varten."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-282",
+  "title": "Sokerivohvelit",
+  "description": "Sokeri ja munat sekoitetaan, sekaan jauhot ja sulatettu voi; vohvelit syödään tavallisesti jäähtyneinä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vohvelit",
+   "leivonta",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "210 g sokeria",
+   "6 kananmunaa",
+   "210 g vehnäjauhoja",
+   "100 g sulatettua voita"
+  ],
+  "instructions": [
+   "Sekoita sokeri ja munat tasaiseksi.",
+   "Lisää jauhot ja voi.",
+   "Paista vohveliraudassa ohuiksi ja anna jäähtyä ritilällä – rapeutuvat jäähtyessään."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-283",
+  "title": "Kermaletut (plättar)",
+  "description": "Kerma, jauhot ja munat vatkataan ja paistetaan ohuina lettuina plättipannussa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "letut",
+   "pannukakku",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kermaa tai maitoa ja kermaa",
+   "2 dl vehnäjauhoja",
+   "5 kananmunaa",
+   "ripaus suolaa",
+   "voita paistamiseen"
+  ],
+  "instructions": [
+   "Vatkaa kerma, jauhot ja munat tasaiseksi.",
+   "Paista pieniä ohuita lettuja plättipannussa tai pannulla.",
+   "Tarjoa hillon ja sokerin kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-284",
+  "title": "Kahvikreemi",
+  "description": "Paahdetut kahvipavut haudutetaan kuumassa kermassa, kerma siivilöidään ja keitetään keltuaisten ja sokerin kanssa sakeaksi kreemiksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kreemi",
+   "kahvi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "40 g kahvipapuja",
+   "6,5 dl kermaa",
+   "8 munankeltuaista",
+   "1 dl sokeria"
+  ],
+  "instructions": [
+   "Kaada kiehuva kerma kahvipapujen päälle ja anna hautua kannen alla jäähtyneeksi. Siivilöi.",
+   "Sekoita joukkoon keltuaiset ja sokeri.",
+   "Kuumenna koko ajan vatkaten, kunnes kreemi sakenee, älä keitä. Vatkaa vielä liedeltä nostettuna.",
+   "Tarjoa kylmänä kupeista."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-285",
+  "title": "Mantelikreemi",
+  "description": "Jauhetut mantelit keitetään kerman, sitruunankuoren ja sokerin kanssa, siivilöidään ja sakeutetaan keltuaisilla; tarjotaan kerman kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kreemi",
+   "mantelit",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "210 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "6,5 dl kermaa",
+   "1 sitruunan kuori suikaleina",
+   "1 dl sokeria",
+   "4 munankeltuaista",
+   "1 rkl vehnäjauhoja",
+   "kermaa tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä mantelit kerman, sitruunankuoren ja sokerin kanssa ja siivilöi. Jäähdytä.",
+   "Vatkaa keltuaiset ja jauhot ja sekoita kermaan.",
+   "Kuumenna sekoittaen sakeaksi ja kaada vadille. Tarjoa kerman kanssa."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-286",
+  "title": "Kermakreemi valkuaisista",
+  "description": "Sitruunankuoren ja sokerin kanssa keitettyyn kermaan vatkataan kovaksi vatkatut valkuaiset; vatkataan jäähtymään ja tarjotaan hillon kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kreemi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kermaa",
+   "1 sitruunan kuori suikaleina",
+   "1 dl sokeria",
+   "6 munanvalkuaista",
+   "marjahilloa tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä kerma, sitruunankuori ja sokeri. Poista kuori.",
+   "Vatkaa valkuaiset kovaksi vaahdoksi ja vatkaa kermaan miedolla lämmöllä tasaisesti, kunnes seos sakenee.",
+   "Vatkaa jäähtyessä. Tarjoa kylmänä marjahillon kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-287",
+  "title": "Marjakiisseli (marjakreemi)",
+  "description": "Sokeroitu marjamehu keitetään kanelin ja sitruunankuoren kanssa ja suurustetaan perunajauholla; tarjotaan kylmänä kermavaahdon kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kiisseli",
+   "marjat",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l marjamehua laimennettuna",
+   "1 dl sokeria",
+   "1 kanelitanko",
+   "1 suikale sitruunankuorta",
+   "4 rkl perunajauhoja",
+   "1 dl kylmää vettä",
+   "2 dl kuohukermaa vaahdoksi"
+  ],
+  "instructions": [
+   "Keitä mehu, sokeri, kaneli ja sitruunankuori. Kuori vaahto.",
+   "Suurusta veteen sekoitetulla perunajauholla koko ajan vatkaten ja nosta heti liedeltä.",
+   "Sekoita, kunnes suurin kuumuus on haihtunut. Tarjoa kylmänä kermavaahdon kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-288",
+  "title": "Omenakreemi (omenavaahto)",
+  "description": "Sokeroitu omenasose siivilöidään ja sekoitetaan saman määrän kanssa kermavaahtoa – tarjotaan sokerikeksien kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "omena",
+   "kreemi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g omenoita",
+   "1 dl vettä",
+   "1 dl sokeria",
+   "4 dl kuohukermaa",
+   "1 rkl sokeria kermaan"
+  ],
+  "instructions": [
+   "Keitä kuoritut omenalohkot kannen alla veden ja sokerin kanssa soseeksi ja siivilöi. Jäähdytä.",
+   "Vatkaa kerma ja sokeri vaahdoksi ja sekoita jäähtyneeseen soseeseen.",
+   "Tarjoa vadilla, ympärillä sokerikeksejä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-289",
+  "title": "Omenasose kermavaahdon kera",
+  "description": "Omenasose, joka maustetaan sitruunankuorella ja konjakilla, ja ympärille kermavaahtoa – käytetään myös täytteenä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "omena",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g omenoita",
+   "1 dl vettä",
+   "1 dl sokeria",
+   "1 tl raastettua sitruunankuorta",
+   "2 rkl konjakkia",
+   "3 dl kuohukermaa vaahdoksi"
+  ],
+  "instructions": [
+   "Keitä omenat veden ja sokerin kanssa soseeksi ja siivilöi.",
+   "Mausta sitruunankuorella ja konjakilla.",
+   "Tarjoa vadilla, ympärillä kermavaahtoa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-290",
+  "title": "Mansikkakreemi",
+  "description": "Soseutettu ja siivilöity mansikka keitetään sokerin kanssa paksuksi, jäähdytetään ja sekoitetaan kermavaahtoon.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "mansikka",
+   "kreemi",
+   "kesä",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg tuoreita mansikoita",
+   "1,5 dl sokeria",
+   "½ dl vettä",
+   "5 dl kuohukermaa",
+   "1 rkl sokeria kermaan",
+   "mansikkahilloa tarjoiluun"
+  ],
+  "instructions": [
+   "Soseuta ja siivilöi mansikat.",
+   "Keitä sose, sokeri ja vesi paksuksi ja jäähdytä.",
+   "Vatkaa kerma sokerin kanssa vaahdoksi ja sekoita soseeseen. Tarjoa mansikkahillon kanssa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-291",
+  "title": "Vadelmakreemi",
+  "description": "Siivilöity vadelmasose keitetään keltuaisten, sitruunankuoren, sokerin ja kerman kanssa sakeaksi; tarjotaan kylmänä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vadelma",
+   "kreemi",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vadelmia",
+   "8 munankeltuaista",
+   "1 tl raastettua sitruunankuorta",
+   "1 dl sokeria",
+   "3 dl kermaa",
+   "vadelmahilloa tarjoiluun"
+  ],
+  "instructions": [
+   "Soseuta ja siivilöi vadelmat.",
+   "Kuumenna sose, keltuaiset, sitruunankuori, sokeri ja kerma koko ajan sekoittaen, kunnes seos sakenee.",
+   "Jäähdytä ja tarjoa vadelmahillon kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-292",
+  "title": "Valkuaiskreemi",
+  "description": "Kerma, sitruunankuori ja sokeri kuumennetaan ja sekaan vatkataan valkuaiset; sekoitetaan lakkaamatta sakeaksi – muuten juoksettuu.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kreemi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl kermaa",
+   "1 sitruunan kuori suikaleina",
+   "1 dl sokeria",
+   "8 munanvalkuaista",
+   "kirsikka- tai vadelmahilloa"
+  ],
+  "instructions": [
+   "Kuumenna kerma, sitruunankuori ja sokeri.",
+   "Kun seos alkaa kiehua, vatkaa valkuaiset joukkoon ja sekoita lakkaamatta, kunnes kreemi on ohuen puuron paksuista.",
+   "Poista kuoret ja kaada vadille. Tarjoa hillon kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-293",
+  "skip": "hirvensarvesta keitetty hyytelöaine – nykyään liivate"
+ },
+ {
+  "id": "kokkikirja-294",
+  "skip": "vasikanjaloista keitetty hyytelöaine – nykyään liivate"
+ },
+ {
+  "id": "kokkikirja-295",
+  "title": "Sitruunahyytelö (tai viinihyytelö)",
+  "description": "Sitruunamehu, kuori, sokeri ja vesi hyydytetään ja kirkastetaan valkuaisilla; toinen versio tehdään reininviinistä ja sitruunasta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "hyytelö",
+   "sitruuna",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6 sitruunan mehu",
+   "2 sitruunan ohut kuori",
+   "2 dl sokeria",
+   "6,5 dl vettä (tai 7,5 dl valkoviiniä ja 5 sitruunaa)",
+   "8 liivatelehteä"
+  ],
+  "instructions": [
+   "Liota liivatteet kylmässä vedessä.",
+   "Kuumenna sitruunamehu, kuori, sokeri ja vesi. Maista, että seos on sopivan makeahappamaa.",
+   "Sulata liivatteet kuumaan nesteeseen ja siivilöi kirkkaaksi.",
+   "Kaada muottiin ja hyydytä jääkaapissa yön yli. Punaiseksi saa muutamalla lusikallisella kirsikkamehua."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-296",
+  "title": "Munahyytelö",
+  "description": "Kanelilla ja kardemummalla maustettu hyytelöliemi keitetään keltuaisten kanssa ja maustetaan sitrushedelmäöljyllä; hyydytetään muotissa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "hyytelö",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6,5 dl vettä",
+   "6 liivatelehteä",
+   "1 kanelitanko",
+   "1 tl kardemummaa",
+   "1 dl sokeria",
+   "8 munankeltuaista",
+   "muutama tippa sitruunaöljyä tai -aromia"
+  ],
+  "instructions": [
+   "Liota liivatteet. Kuumenna vesi, kaneli, kardemumma ja sokeri.",
+   "Vatkaa keltuaiset joukkoon ja kuumenna sekoittaen sakeaksi keittämättä.",
+   "Sulata liivatteet joukkoon, lisää aromi ja siivilöi kostutettuun muottiin.",
+   "Hyydytä ja kumoa vadille."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-297",
+  "title": "Hedelmähyytelö",
+  "description": "Marja- tai hedelmämehu keitetään sokerin kanssa ja hyydytetään kirkkaaksi hyytelöksi – aprikoosista, vadelmasta, mansikasta…",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "hyytelö",
+   "marjat",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g marjoja tai hedelmiä",
+   "5 dl vettä",
+   "1–2 dl sokeria makeuden mukaan",
+   "8 liivatelehteä",
+   "1 sitruunan mehu"
+  ],
+  "instructions": [
+   "Keitä paloitellut hedelmät tai marjat veden ja sokerin kanssa hiljaa noin tunti. Purista ja siivilöi mehu.",
+   "Liota liivatteet ja sulata ne kuumaan mehuun. Lisää sitruunamehu.",
+   "Kaada muottiin ja hyydytä."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "kokkikirja-298",
+  "title": "Mantelihyytelö (blancmange)",
+  "description": "Jauhetut mantelit keitetään maidossa sitruunankuoren ja kardemumman kanssa, hyydytetään ja siivilöidään muottiin.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "hyytelö",
+   "mantelit",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "210 g kuorittuja manteleita jauhettuna",
+   "muutama tippa manteliaromia",
+   "1 l maitoa",
+   "1 sitruunan keltainen kuori",
+   "7 kardemummakapselia",
+   "1 dl sokeria",
+   "8 liivatelehteä"
+  ],
+  "instructions": [
+   "Keitä mantelit maidossa sitruunankuoren, kardemumman ja sokerin kanssa ja anna hautua.",
+   "Siivilöi liinan läpi ja purista mantelit kuiviksi.",
+   "Sulata liotetut liivatteet kuumaan maitoon ja kaada muottiin.",
+   "Hyydytä ja kumoa vadille kylmänä."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-299",
+  "title": "Kirkas marjahillo (sokerisiirappimenetelmä)",
+  "description": "Sokerista keitetään kirkas siirappi, josta vaahto kuoritaan useaan kertaan; perkattuja marjoja keitetään siinä, kunnes ne kirkastuvat ja vajoavat.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "marjat",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg perattuja marjoja tai hedelmiä",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Keitä sokeri ja vesi hiljaa siirapiksi. Nosta liedeltä ja kuori vaahto; toista, kunnes siirappi on kirkasta.",
+   "Lisää marjat ja kuumenna kiehuvaksi. Nosta liedeltä ja kuori vaahto, toista tarvittaessa.",
+   "Hillo on valmis, kun marjat ovat kirkkaita ja vajoavat. Purkita kuumiin puhtaisiin purkkeihin täpötäyteen."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-300",
+  "title": "Marjahillo sokerikerroksin",
+  "description": "Marjat ja sokeri kerrostetaan vadille muutamaksi tunniksi, kunnes marjat laskevat mehua; sitten keitetään ja kuoritaan.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "marjat",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg marjoja",
+   "700 g–1 kg sokeria"
+  ],
+  "instructions": [
+   "Kerrosta marjat ja sokeri vadille ja anna seistä muutama tunti, kunnes marjat laskevat mehua.",
+   "Kaada kattilaan ja kuumenna kiehuvaksi. Nosta liedeltä ja kuori vaahto; toista muutaman kerran.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 240
+ },
+ {
+  "id": "kokkikirja-301",
+  "skip": "hillojen säilytysohje, ei resepti"
+ }
+]

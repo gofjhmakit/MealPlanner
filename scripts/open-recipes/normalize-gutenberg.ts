@@ -85,6 +85,15 @@ interface Historical {
     current?.lines.push(lines[i])
   }
   flush()
+  for (const [k, r] of out.entries()) {
+    // A heading that is not at a paragraph start stays in the previous recipe ("… säilyvä N:o 256. Sianliha-Makkaroita. …"),
+    // and sub-chapter headings ("B) TORTTUJA.", "RUOKIEN-NAUTINNON-JÄRJESTYS. …") trail the last paragraph.
+    const next = out[k + 1] && Number(out[k + 1].id.split('-')[1])
+    let text = r.instructions.join('\n\n')
+    if (next) text = text.split(new RegExp(String.raw`\s*N:o ${next}\. `))[0]
+    text = text.replace(/\s+(?:[A-E]\) )?[A-ZÄÖÅ][A-ZÄÖÅÉ'’ -]{3,}(?: \([A-ZÄÖÅÉ]+\))?\.(?:\s[\s\S]*)?$/, '')
+    r.instructions = text.split('\n\n')
+  }
   writeFileSync(join(ROOT, 'en/kokkikirja.json'), JSON.stringify(out, null, 1))
   console.log(`kokkikirja: ${out.length} recipes`)
 }

@@ -1,0 +1,691 @@
+[
+ {
+  "id": "kokkikirja-077",
+  "title": "Leivitetty lampaanrinta",
+  "description": "Lampaanrinta keitetään vähässä vedessä suolan ja persiljan kanssa, jäähdytetään, sivellään munalla, kieritetään korppujauhossa ja paistetaan miedosti ritilällä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lampaanrintaa",
+   "5 dl vettä",
+   "1 tl suolaa",
+   "1 nippu persiljaa",
+   "2 kananmunaa",
+   "1,5 dl korppujauhoja",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Keitä rinta lihapuoli alaspäin vähässä vedessä suolan ja persiljan kanssa, kunnes liemi on keittynyt kokoon.",
+   "Jäähdytä, sivele vatkatulla munalla ja ripottele korppujauho pintaan.",
+   "Paista leivinpaperilla ritilällä tai uunissa 200 asteessa rapeaksi. Tarjoa vihannesten kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-078",
+  "title": "Kevyesti suolattu lampaanrinta",
+  "description": "Lampaanrinta kuivasuolataan neljäksi päiväksi, pestään ja keitetään; tarjotaan paistettujen lanttujen tai hapankaalin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lampaanrintaa",
+   "½ dl karkeaa suolaa",
+   "2 l vettä",
+   "lanttua tai hapankaalia tarjoiluun"
+  ],
+  "instructions": [
+   "Hiero rinta suolalla ja anna suolaantua viileässä 4 päivää.",
+   "Pese ja keitä mureaksi.",
+   "Tarjoa paistettujen juuresten tai hapankaalin kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-079",
+  "title": "Silavoitu lampaanlapa",
+  "description": "Luuton lampaanlapa pistellään silavasuikaleilla ja haudutetaan hiljaa vedessä, voissa, suolassa ja sipulissa, kunnes vesi on kiehunut pois ja lapa on kellanruskea.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,2 kg lampaanlapaa",
+   "100 g silavaa tai pekonia suikaleina",
+   "1,5 dl vettä",
+   "3 rkl voita",
+   "1 tl suolaa",
+   "1 sipuli hienonnettuna"
+  ],
+  "instructions": [
+   "Poista lavasta luut ja pistele lihaan silavasuikaleita.",
+   "Hauduta kattilassa veden, voin, suolan ja sipulin kanssa miedolla lämmöllä, kunnes vesi on haihtunut ja liha ruskistunut.",
+   "Tarjoa vihannesten kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-080",
+  "title": "Lampaankotletit persiljakorpussa",
+  "description": "Lampaankyljykset hakataan, maustetaan, kastetaan sulaan voihin ja persiljakorppujauhoon ja paistetaan kuten vasikankotletit.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 lampaankyljystä",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "3 rkl voita sulatettuna",
+   "1 dl korppujauhoja",
+   "2 rkl persiljaa",
+   "1 rkl voita paistamiseen"
+  ],
+  "instructions": [
+   "Hakkaa ja mausta kyljykset.",
+   "Kasta voihin ja persiljaan sekoitettuun korppujauhoon.",
+   "Paista voissa ja tarjoa vihannesten tai perunoiden kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-081",
+  "title": "Paahdettu maitoporsas",
+  "description": "Pieni maitoporsas hierotaan sisältä inkiväärillä, pippurilla ja suolalla ja paahdetaan uunissa voidellen; tarjotaan omassa kastikkeessaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "juhla",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 pieni porsas tai 2 kg porsaanpaistia kamaralla",
+   "1 tl jauhettua inkivääriä",
+   "½ tl mustapippuria",
+   "1 rkl suolaa",
+   "3 dl vettä",
+   "50 g voita voiteluun"
+  ],
+  "instructions": [
+   "Hiero lihaan inkivääri, pippuri ja suola.",
+   "Laita vuokaan, kaada alle vesi ja paahda 175 asteessa.",
+   "Voitele usein voilla tai rasvalla, ettei pinta pala. Tarjoa lämpimänä paistoliemen kanssa."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-082",
+  "title": "Luumuilla täytetty porsas",
+  "description": "Porsas hierotaan suolalla, pippurilla ja inkiväärillä ja täytetään viinissä, sokerissa ja sitruunankuoressa keitetyillä luumuilla – tai kokonaisilla omenoilla – ja paahdetaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "luumu",
+   "juhla",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg luutonta porsaanpaistia tai porsaankylkeä",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "300 g kuivattuja luumuja",
+   "2 dl valkoviiniä",
+   "2 dl vettä",
+   "2 rkl sokeria",
+   "1 sitruunan kuori",
+   "3 dl vettä vuokaan"
+  ],
+  "instructions": [
+   "Keitä luumut viinissä, vedessä, sokerissa ja sitruunankuoressa pehmeiksi.",
+   "Hiero liha mausteilla, täytä tai kääri luumujen ympärille ja sido.",
+   "Paahda vuoassa veden kanssa 175 asteessa noin 2 tuntia."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-083",
+  "title": "Porsaanpaisti sokeri-korppukuorella",
+  "description": "Porsaan takaosa paahdetaan, kunnes kamara on kova; kamara poistetaan, pinnalle sokeria, pippuria, suolaa ja korppujauhoa, ja paisti kypsennetään miedossa uunissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg porsaan kinkkupaistia kamaralla",
+   "3 dl vettä",
+   "1 tl suolaa",
+   "½ tl valkopippuria",
+   "1 rkl sokeria",
+   "3 rkl korppujauhoja",
+   "1 dl kiehuvaa vettä"
+  ],
+  "instructions": [
+   "Viilletä kamara ja paahda paistia vuoassa vähän veden kanssa kuumassa uunissa, kunnes kamara on kova ja tumma.",
+   "Kuori kamara pois ja ripottele pintaan suolan, pippurin, sokerin ja korppujauhon seos. Valele kiehuvalla vedellä.",
+   "Kypsennä 160 asteessa loppuun."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-084",
+  "title": "Porsaan patapaisti",
+  "description": "Tuore porsaankinkku haudutetaan padassa kuten häränpatapaisti: voissa, sipulissa, laakerissa ja pippurissa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "pata",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg tuoretta porsaankinkkua tai -lapaa",
+   "2 rkl voita",
+   "2 sipulia",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "3 laakerinlehteä",
+   "5 dl kiehuvaa vettä",
+   "2 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Ruskista liha padassa voissa sipulien kanssa.",
+   "Mausta ja hauduta kannen alla miedolla lämmöllä, lisää vettä tarpeen mukaan.",
+   "Nosta liha pois, suurusta liemi jauhoilla kastikkeeksi."
+  ],
+  "cookTimeMin": 150
+ },
+ {
+  "id": "kokkikirja-085",
+  "title": "Keitetty kinkku sokeri-korppukuorella",
+  "description": "Savustettu tai suolattu kinkku liotetaan ja keitetään, kunnes sormi uppoaa kamaraan; kamara poistetaan ja pinnalle sokeria ja korppujauhoa – suomalaisen joulukinkun esi-isä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "kinkku",
+   "joulu",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3 kg suolattua tai savustettua kinkkua",
+   "5 l vettä",
+   "2 rkl sokeria",
+   "3 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Liota kinkkua vedessä yön yli.",
+   "Keitä hiljaa, kunnes kamara antaa helposti periksi, noin 3 tuntia.",
+   "Kuori kamara ja ripottele pinnalle sokerin ja korppujauhon seos. (Halutessasi ruskista uunissa.)"
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-086",
+  "title": "Porsaanpalat makeahappamassa kastikkeessa",
+  "description": "Pienet porsaanpalat ryöpätään ja haudutetaan voi-jauholiemessä maustepippurin ja sitruunankuoren kanssa; makeutta sokerista ja valkoviinistä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "pata",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g porsaanlihaa paloina",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "6 dl lihalientä",
+   "½ tl suolaa",
+   "6 kokonaista maustepippuria",
+   "1 sitruunan kuori raastettuna",
+   "1 rkl sokeria",
+   "1 dl valkoviiniä"
+  ],
+  "instructions": [
+   "Liota palat kylmässä vedessä, ryöppää ja valuta.",
+   "Keitä voi ja jauhot, lisää liemi, suola, maustepippurit ja sitruunankuori.",
+   "Lisää liha kiehuvaan liemeen ja hauduta mureaksi. Mausta sokerilla ja valkoviinillä."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-087",
+  "title": "Uunissa paahdettu porsaankylki",
+  "description": "Kylkiluut katkaistaan, lihapuoli viilletään ristiin ja maustetaan inkiväärillä ja suolalla; kylki paahdetaan kääntäen ja lopuksi pinnalle persiljaa ja jauhoja.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg porsaankylkeä luineen",
+   "½ tl jauhettua inkivääriä",
+   "1 tl suolaa",
+   "3 dl vettä",
+   "2 rkl persiljaa",
+   "1 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Viilletä kylki ristiin ja mausta inkiväärillä ja suolalla.",
+   "Paahda lihapuoli alaspäin vuoassa veden kanssa 175 asteessa. Käännä puolivälissä ja valele.",
+   "Ripottele lopuksi persiljaan sekoitetut jauhot pinnalle ja paahda ruskeaksi."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-088",
+  "title": "Padassa paistettu porsaankylki",
+  "description": "Inkiväärillä ja suolalla maustettu kylki paistetaan matalassa kattilassa kannen alla kellanruskeaksi molemmin puolin ja kypsennetään vähässä vedessä; omenahillon kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg porsaankylkeä",
+   "½ tl jauhettua inkivääriä",
+   "1 tl suolaa",
+   "2 dl vettä",
+   "omenahilloa tarjoiluun"
+  ],
+  "instructions": [
+   "Mausta kylki kuten uunikylki.",
+   "Paista matalassa kattilassa kannen alla molemmin puolin kellanruskeaksi.",
+   "Lisää vähän vettä ja kypsennä. Tarjoa omenahillon tai vihannesten kanssa."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-089",
+  "title": "Porsaankyljykset korppukuorella",
+  "description": "Luulliset porsaankyljykset nuijitaan, maustetaan, kastetaan munaan ja korppujauhoon ja paistetaan kellanruskeiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 porsaankyljystä",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "1 kananmuna",
+   "1 dl korppujauhoja",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Nuija ja mausta kyljykset.",
+   "Kasta vatkattuun munaan ja korppujauhoon.",
+   "Paista voissa kellanruskeiksi ja tarjoa vihannesten kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-090",
+  "title": "Jänispaisti maitokastikkeessa",
+  "description": "Jäniksen selkä silavoidaan, ruskistetaan voissa ja silavassa ja haudutetaan maidossa mureaksi; liemestä kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riista",
+   "jänis",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 jäniksen selkä ja takaosa (tai kani)",
+   "50 g silavaa suikaleina ja paloina",
+   "2 rkl voita",
+   "5 dl maitoa",
+   "½ tl suolaa",
+   "1 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Pistele lihaan silavasuikaleita.",
+   "Ruskista kattilassa voissa ja silavapaloissa kannen alla miedolla lämmöllä.",
+   "Kaada joukkoon maito ja hauduta mureaksi. Nosta liha pois ja suurusta liemi kastikkeeksi."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-091",
+  "title": "Peura- tai hirvipaisti kirsikkakastikkeessa",
+  "description": "Nuijittu peuranreisi marinoidaan kaksi vuorokautta etikassa, silavoidaan inkivääri-pippurisilavalla ja haudutetaan; kastikkeeseen kirsikkamehua ja sokeria.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riista",
+   "hirvi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1,5 kg hirven-, peuran- tai poronpaistia",
+   "5 dl etikkaa ja vettä puoliksi",
+   "100 g silavaa suikaleina",
+   "½ tl jauhettua inkivääriä",
+   "½ tl mustapippuria",
+   "1 tl suolaa",
+   "2 dl vettä",
+   "2 rkl vehnäjauhoja",
+   "1 dl kirsikkamehua",
+   "1 rkl sokeria"
+  ],
+  "instructions": [
+   "Nuija liha ja marinoi etikkavedessä jääkaapissa kaksi vuorokautta.",
+   "Kierittele silavasuikaleet mausteissa ja pistele lihaan.",
+   "Hauduta kannen alla vähässä vedessä silavapalojen kanssa mureaksi.",
+   "Suurusta liemi jauhoilla ja mausta kirsikkamehulla ja sokerilla."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-092",
+  "title": "Kalkkunapaisti",
+  "description": "Kalkkuna kynitään ja perataan kirjan tarkkojen ohjeiden mukaan, sidotaan ja paistetaan voissa – vanhan ajan juhla-ateria.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kalkkuna",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kalkkuna (n. 4 kg)",
+   "1 rkl suolaa",
+   "100 g voita",
+   "3 dl vettä"
+  ],
+  "instructions": [
+   "Puhdista kalkkuna (alkuperäinen ohje neuvoo kynimisen, korventamisen ja perkaamisen tarkasti).",
+   "Suolaa sisältä ja päältä ja sido koipet.",
+   "Paahda 160 asteessa valellen voilla ja liemellä noin 3 tuntia."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-093",
+  "title": "Kalkkuna taikinakuoressa",
+  "description": "Kalkkuna valellaan sulatetulla voilla, peitetään paperilla ja ruistaikinalla ja paahdetaan uunissa mehukkaaksi; kuori poistetaan ennen tarjoilua.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kalkkuna",
+   "juhla",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kalkkuna (n. 4 kg)",
+   "1 rkl suolaa",
+   "100 g voita sulatettuna",
+   "Taikina:",
+   "8 dl ruisjauhoja",
+   "4 dl vettä"
+  ],
+  "instructions": [
+   "Suolaa kalkkuna ja valele sulatetulla voilla.",
+   "Peitä leivinpaperilla ja sen päälle ruisjauhoista ja vedestä tehdyllä taikinalla.",
+   "Paahda 160 asteessa noin 3 tuntia. Poista kuori ja paperi ja tarjoa vadilla."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-094",
+  "title": "Hanhipaisti omenoilla",
+  "description": "Hanhi hierotaan suolalla ja pippurilla, täytetään halutessa omenoilla tai luumuilla ja paistetaan valellen; lopuksi pinnalle jauhoja ja suolaa ja vielä hetki uuniin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "hanhi",
+   "juhla",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 hanhi (n. 4 kg)",
+   "1 rkl suolaa",
+   "½ tl mustapippuria",
+   "6 pientä omenaa tai 200 g luumuja",
+   "2 rkl voita",
+   "1 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Hiero hanhi sisältä suolalla ja pippurilla ja täytä omenoilla tai luumuilla.",
+   "Paista uunissa 160 asteessa voissa ja valele usein omalla rasvallaan, noin 3 tuntia.",
+   "Ripottele lopuksi pinnalle jauhot ja suola, valele ja paahda vielä hetki."
+  ],
+  "cookTimeMin": 180
+ },
+ {
+  "id": "kokkikirja-095",
+  "title": "Ankka- tai sorsapaisti kermakastikkeessa",
+  "description": "Ankka paistetaan kannen alla voissa kellanruskeaksi; liemi suurustetaan lihaliemellä ja kermalla. Sorsat keitetään ensin heinien kanssa (alkuperäisessä), sitten paistetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "ankka",
+   "riista",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 ankka tai 2 sorsaa",
+   "3 rkl voita",
+   "½ tl suolaa",
+   "1 rkl vehnäjauhoja",
+   "2 dl lihalientä",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Paista ankka kattilassa kannen alla voissa kellanruskeaksi ja mureaksi, noin 1,5 tuntia.",
+   "Nosta lintu vadille.",
+   "Suurusta paistoliemi jauhoilla, ohenna liemellä ja kermalla ja tarjoa kastikekulhosta."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "kokkikirja-096",
+  "title": "Keitetty kana persiljajuurikastikkeessa",
+  "description": "Kana keitetään vähässä vedessä sipulin, inkiväärin ja voin kanssa; liemestä tehdään voi-jauhokastike, johon lisätään persiljanjuuria ja muskottikukkaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kana",
+   "1 l vettä",
+   "1 sipuli",
+   "1 pala inkivääriä",
+   "1 rkl voita",
+   "1 tl suolaa",
+   "Kastike:",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "2 persiljanjuurta suikaleina",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Keitä kana kannen alla vähässä vedessä sipulin, inkiväärin, voin ja suolan kanssa; kuori vaahto.",
+   "Keitä voi ja jauhot ja siivilöi kanaliemi joukkoon.",
+   "Lisää persiljanjuuret ja paloiteltu kana ja keitä yhdessä. Mausta muskottikukalla."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-097",
+  "title": "Keitetyt kananpojat kermakastikkeella",
+  "description": "Kananpojat keitetään puolesta tunnista tuntiin; liemi suurustetaan voilla, kermalla ja jauhoilla kastikkeeksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 broileria tai kananpoikaa",
+   "2 l vettä",
+   "1 tl suolaa",
+   "2 rkl voita",
+   "2 dl kermaa",
+   "2 rkl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Keitä kananpojat kiehuvassa suolavedessä kypsiksi, noin 45 minuuttia.",
+   "Siivilöi liemi ja suurusta voilla, kermalla ja jauhoilla.",
+   "Tarjoa kananpojat kuivina vadilla, vähän kastiketta päällä ja loput kastikekulhossa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-098",
+  "title": "Kanapaisti padassa",
+  "description": "Kana paistetaan rinta ylöspäin kattilassa voissa miedolla lämmöllä kannen alla valellen, ettei pohja pala.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kana",
+   "75 g voita",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Suolaa kana.",
+   "Paista kattilassa voissa rinta ylöspäin kannen alla miedolla lämmöllä, lisäten lämpöä vähitellen.",
+   "Valele usein liemellä ettei pohja pala; noin 1,5 tuntia."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-099",
+  "title": "Persiljavoilla täytetyt kananpojat",
+  "description": "Jokaisen kananpojan sisään laitetaan munan kokoinen pala persiljavoita; linnut paistetaan voissa kannen alla ja paistorasvaan sekoitetaan kerma kastikkeeksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 broileria tai kananpoikaa",
+   "100 g voita persiljan kanssa sekoitettuna (4 rkl persiljaa)",
+   "3 rkl voita paistamiseen",
+   "1 tl suolaa",
+   "1 dl kermaa"
+  ],
+  "instructions": [
+   "Laita kunkin linnun sisään persiljavoita.",
+   "Paista kattilassa voissa rinta ylöspäin kannen alla hiljalleen ja valele usein.",
+   "Nosta linnut pois ja sekoita kerma kiehuvaan paistorasvaan kastikkeeksi."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-100",
+  "title": "Metsonpaisti kermakastikkeessa",
+  "description": "Koppelo silavoidaan ja paistetaan kannen alla voissa; ruskistuttua lisätään maitoa, lopuksi jauhoja ja suolaa ja kastike kermasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riista",
+   "linnut",
+   "metso",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 metso tai koppelo (tai 2 teertä)",
+   "50 g silavaa suikaleina",
+   "3 rkl voita",
+   "4 dl maitoa",
+   "1 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Huuhtele lintu, murskaa rintaluu ja pistele lihaan silavaa.",
+   "Paista kattilassa voissa kannen alla ruskeaksi ja lisää maito.",
+   "Kun lintu on lähes kypsä, ripottele jauhot ja suola, kiehauta ja nosta vadille. Sekoita kerma liemeen kastikkeeksi."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-101",
+  "title": "Teerenpaisti",
+  "description": "Teeri paistetaan kuten metso: silavoituna voissa ja maidossa, kastike kermasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riista",
+   "linnut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 teertä",
+   "50 g silavaa",
+   "3 rkl voita",
+   "4 dl maitoa",
+   "1 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Silavoi linnut ja paista kannen alla voissa ruskeiksi.",
+   "Lisää maito ja hauduta kypsiksi.",
+   "Suurusta ja tee kastike kermasta."
+  ],
+  "cookTimeMin": 90
+ }
+]

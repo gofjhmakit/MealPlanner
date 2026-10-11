@@ -1,0 +1,735 @@
+[
+ {
+  "id": "kokkikirja-202",
+  "title": "Perunakakku (kohokas)",
+  "description": "Keitetyt perunat survotaan voin kanssa, sekaan vatkatut munat, kerma, korppujauho, suola, sokeri ja muskottikukka, ja uuniin kuohkeaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg keitettyjä perunoita",
+   "3 rkl voita",
+   "5 kananmunaa",
+   "4 rkl kermaa",
+   "1 dl korppujauhoja",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Survo kuoritut perunat voin kanssa soseeksi.",
+   "Sekoita joukkoon vatkatut munat, kerma, korppujauho ja mausteet.",
+   "Kaada voideltuun vuokaan ja paista 200 asteessa kuohkeaksi, noin 30 minuuttia."
+  ],
+  "cookTimeMin": 50
+ },
+ {
+  "id": "kokkikirja-203",
+  "title": "Häränlihasalaatti muotissa",
+  "description": "Paistia, munia, porkkanaa, punajuurta ja perunaa kuutioina öljyn, etikan, suolan ja pippurin kanssa; painellaan öljyttyyn muottiin ja kumotaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "liha",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "300 g paahtopaistia tai keitettyä naudanlihaa",
+   "3 kovaksi keitettyä kananmunaa",
+   "2 keitettyä porkkanaa",
+   "2 keitettyä punajuurta",
+   "3 keitettyä perunaa",
+   "3 rkl rypsiöljyä",
+   "2 rkl etikkaa",
+   "½ tl suolaa",
+   "¼ tl mustapippuria"
+  ],
+  "instructions": [
+   "Kuutioi kaikki pieniksi.",
+   "Sekoita öljyn, etikan, suolan ja pippurin kanssa.",
+   "Painele öljyttyyn muottiin, anna asettua ja kumoa vadille."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-204",
+  "title": "Rosolli (sillisalaatti)",
+  "description": "Liotettu silli, peruna, paistettu liha, omena ja etikkapunajuuri kuutioina, muutama keitetty muna – rosollin 1800-luvun versio.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "silli",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 suolasilliä liotettuina ja fileoituina",
+   "3 keitettyä perunaa",
+   "150 g paistettua lihaa",
+   "1 omena",
+   "3 etikkasäilöttyä punajuurta",
+   "2 kovaksi keitettyä kananmunaa",
+   "2 rkl punajuuren lientä tai etikkaa",
+   "1 tl sokeria",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Kuutioi silli, perunat, liha, omena, punajuuret ja munat pieniksi.",
+   "Sekoita ja mausta punajuuren liemellä, sokerilla ja pippurilla.",
+   "Tarjoa kulhossa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-205",
+  "title": "Lohisalaatti (rosollin tapaan)",
+  "description": "Liotetusta suolalohesta tehty salaatti peruna-, liha-, omena- ja punajuurikuutioiden kanssa kuten sillisalaatti.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "300 g suolalohta liotettuna",
+   "3 keitettyä perunaa",
+   "150 g paistettua lihaa",
+   "1 omena",
+   "3 etikkasäilöttyä punajuurta",
+   "2 kovaksi keitettyä kananmunaa",
+   "2 rkl etikkaa",
+   "1 tl sokeria"
+  ],
+  "instructions": [
+   "Kuutioi lohi ja muut aineet.",
+   "Sekoita ja mausta etikalla ja sokerilla."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-206",
+  "title": "Keitetty lohisalaatti keltuaiskastikkeessa",
+  "description": "Keitetty, ruodoton lohi paloitellaan ja päälle kaadetaan kastike keltuaisista, kermasta, öljystä ja etikasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "400 g keitettyä lohta",
+   "3 kovaksi keitettyä munankeltuaista",
+   "3 rkl kermaa",
+   "3 rkl rypsiöljyä",
+   "6 rkl etikkaa",
+   "1 tl sokeria",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Paloittele kala kulhoon.",
+   "Hiero keltuaiset ja sekoita kerma, öljy, etikka ja mausteet.",
+   "Kaada kastike lohen päälle."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-207",
+  "title": "Lämmin perunasalaatti lihalla ja suolakurkulla",
+  "description": "Perunakuutiot paistetaan voissa ruskeiksi ja sekoitetaan jäähtyneinä lihan, punajuuren, suolakurkun ja kaprisien kanssa öljy-etikkakastikkeeseen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g keitettyjä perunoita kuutioina",
+   "2 rkl voita",
+   "½ tl suolaa",
+   "300 g paistettua lihaa kuutioina",
+   "2 punajuurta kuutioina",
+   "2 suolakurkkua kuutioina",
+   "1 rkl kapriksia",
+   "3 rkl rypsiöljyä",
+   "2 rkl etikkaa",
+   "¼ tl pippuria"
+  ],
+  "instructions": [
+   "Paista perunakuutiot voissa ja suolassa ruskeiksi ja jäähdytä.",
+   "Sekoita liha, punajuuri, kurkku ja kaprikset joukkoon.",
+   "Mausta öljyllä, etikalla ja pippurilla."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-208",
+  "title": "Perunasalaatti keltuais-sinappikastikkeessa",
+  "description": "Perunaviipaleet kerrostetaan hienonnetun munan kanssa ja päälle kaadetaan keltuaisista, öljystä, kermasta, etikasta ja sinapista tehty kastike.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "peruna",
+   "kananmuna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g keitettyjä perunoita viipaleina",
+   "3 kovaksi keitettyä kananmunaa hienonnettuina",
+   "2 kovaksi keitettyä munankeltuaista",
+   "2 rkl rypsiöljyä",
+   "2 rkl kermaa",
+   "4 rkl etikkaa",
+   "1 tl sinappia",
+   "1 tl sokeria",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Kerrosta perunaviipaleet vadille ja ripottele väliin hienonnettua munaa.",
+   "Hiero keltuaiset ja sekoita öljy, kerma, etikka, sinappi ja mausteet.",
+   "Kaada kastike salaatin päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-209",
+  "title": "Lehtisalaatti keltuaiskastikkeessa",
+  "description": "Salaatinkerä lohkotaan ja kääntellään kastikkeessa keltuaisista, kermasta, öljystä ja etikasta, mausteena pippuri ja sokeri.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 salaatinkerä",
+   "3 kovaksi keitettyä munankeltuaista",
+   "3 rkl kermaa",
+   "3 rkl rypsiöljyä",
+   "3 rkl etikkaa",
+   "1 tl sokeria",
+   "ripaus valkopippuria"
+  ],
+  "instructions": [
+   "Pese ja lohko salaatti.",
+   "Hiero keltuaiset ja sekoita kerma, öljy, etikka ja mausteet.",
+   "Kääntele salaatti kastikkeessa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-210",
+  "title": "Etikkapunajuuret",
+  "description": "Keitetyt punajuuret kuoritaan, viipaloidaan purkkiin, halutessa raastettua piparjuurta väliin, ja peitetään etikalla.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "punajuuri",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg punajuuria",
+   "2 rkl raastettua piparjuurta (valinnainen)",
+   "5 dl etikkaa (väkevyys n. 5 %)"
+  ],
+  "instructions": [
+   "Keitä punajuuret kypsiksi ja jäähdytä.",
+   "Kuori ja viipaloi purkkiin piparjuuren kanssa.",
+   "Kaada etikka päälle niin, että juuret peittyvät. Säilytä viileässä."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-211",
+  "title": "Kurkkusalaatti nuorista kurkuista",
+  "description": "Ohuet kurkkuviipaleet suolataan painon alla pariksi tunniksi, liemi kaadetaan pois ja kurkut maustetaan pippurilla, viinietikalla ja öljyllä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kurkku",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kurkkua",
+   "1 tl suolaa",
+   "¼ tl valkopippuria",
+   "2 rkl viinietikkaa",
+   "1 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Kuori kurkut ja viipaloi ohuiksi.",
+   "Suolaa ja laita kahden lautasen väliin painon alle pariksi tunniksi.",
+   "Kaada neste pois ja mausta pippurilla, etikalla ja öljyllä."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-212",
+  "title": "Tavallinen kurkkusalaatti",
+  "description": "Ohuet kurkkuviipaleet pippurin, suolan ja etikan kanssa, reunoille persiljaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kurkku",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kurkkua",
+   "½ tl suolaa",
+   "¼ tl valkopippuria",
+   "3 rkl etikkaa",
+   "2 rkl persiljaa"
+  ],
+  "instructions": [
+   "Viipaloi kurkut ohuiksi.",
+   "Sekoita pippuri, suola ja etikka joukkoon.",
+   "Tarjoa lautasella persiljalla reunustettuna."
+  ],
+  "cookTimeMin": 10
+ },
+ {
+  "id": "kokkikirja-213",
+  "title": "Lihapuddinki (lihamureke)",
+  "description": "Vasikan- tai naudanliha hienonnetaan silavan kanssa ja sekoitetaan maidon, munien, sipulin, pippurin ja suolan kanssa; vuokaan ja uuniin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "laatikko",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g naudan jauhelihaa",
+   "300 g silavaa tai pekonia hienonnettuna",
+   "3 dl maitoa",
+   "3 kananmunaa",
+   "2 pientä sipulia hienonnettuna",
+   "¼ tl mustapippuria",
+   "1 tl suolaa",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Sekoita jauheliha ja silava sitkeäksi taikinaksi.",
+   "Lisää maito, munat, sipuli ja mausteet ja vaivaa hyvin.",
+   "Painele voideltuun vuokaan, ripottele korppujauho pinnalle ja paista 175 asteessa noin tunti."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-214",
+  "title": "Vasikka-riisipuddinki",
+  "description": "Mureaksi keitetyn vasikan liemessä ryöpätään riisi, joka sekoitetaan voin, munien ja pippurin kanssa ja paistetaan vuoassa lihan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "vasikka",
+   "riisi",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g vasikanlihaa (lapa tai rinta)",
+   "1,5 l vettä",
+   "1 tl suolaa",
+   "2,5 dl puuroriisiä",
+   "1 rkl voita",
+   "5 kananmunaa",
+   "¼ tl valkopippuria",
+   "1 tl sokeria"
+  ],
+  "instructions": [
+   "Keitä liha mureaksi, nosta pois ja siivilöi liemi.",
+   "Ryöppää riisi liemessä pehmeäksi ja jäähdytä hieman.",
+   "Sekoita riisiin voi, vatkatut munat ja mausteet sekä paloiteltu liha. Kaada voideltuun vuokaan ja paista 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-215",
+  "title": "Kana-riisipuddinki",
+  "description": "Kanan- tai kalkkunanlihasta ja liemessä keitetystä riisistä tehty uunipuddinki kuten vasikkapuddinki.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "riisi",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g kypsää kanaa tai kalkkunaa",
+   "2,5 dl puuroriisiä",
+   "1 l kanalientä",
+   "1 rkl voita",
+   "5 kananmunaa",
+   "¼ tl valkopippuria",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä riisi kanaliemessä ja jäähdytä hieman.",
+   "Sekoita voi, vatkatut munat, mausteet ja paloiteltu kana joukkoon.",
+   "Paista voideltuna vuokaan kaadettuna 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-216",
+  "title": "Kalapuddinki (haukimureke)",
+  "description": "Hauen liha hienonnetaan munuaistalin kanssa ja survotaan sitkeäksi, sekaan munat, kerma ja mausteet; keitetään vesihauteessa muotissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "hauki",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g haukifileetä nahattomana",
+   "200 g munuaistalia tai voita",
+   "4 kananmunaa",
+   "3 dl kermaa",
+   "1 tl suolaa",
+   "ripaus muskottikukkaa",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Jauha kala ja rasva hyvin hienoksi ja survo sitkeäksi taikinaksi.",
+   "Sekoita munat ja kerma vähitellen joukkoon ja mausta.",
+   "Kaada voideltuun muottiin ja kypsennä vesihauteessa 160 asteessa noin tunti."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-217",
+  "title": "Kalapuddinki keitetystä kalasta",
+  "description": "Kylmästä keitetystä hauesta tai ahvenista ja kalanmaksoista tehdään puddinki voi-jauho-kalaliemikastikkeen ja munien kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g keitettyä haukea tai ahventa ruodottuna",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kalalientä",
+   "¼ tl pippuria",
+   "½ tl suolaa",
+   "3 kananmunaa",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Paloittele kala.",
+   "Keitä voista, jauhoista ja liemestä kastike ja mausta. Sekoita kalaan ja jäähdytä hieman.",
+   "Lisää munat, kaada voideltuun vuokaan, ripottele korppujauho ja paista 175 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-218",
+  "title": "Siikapuddinki",
+  "description": "Siika survotaan munuaistalin kanssa sitkeäksi taikinaksi, sekaan jauhot, munat ja kerma, ja keitetään muotissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "siika",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg siikafileetä nahattomana",
+   "150 g munuaistalia tai voita",
+   "3 rkl vehnäjauhoja",
+   "6 kananmunaa",
+   "3 dl kermaa",
+   "1 tl suolaa",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Jauha siika ja rasva sitkeäksi taikinaksi (suolattu siika liotetaan ensin).",
+   "Sekoita jauhot, munat ja kerma vähitellen joukkoon ja mausta.",
+   "Kypsennä voidellussa muotissa vesihauteessa noin tunti."
+  ],
+  "cookTimeMin": 80
+ },
+ {
+  "id": "kokkikirja-219",
+  "title": "Sillilaatikko perunoilla",
+  "description": "Liotetut sillipalat ja perunaviipaleet kerrostetaan voideltuun vuokaan ja päälle kaadetaan munamaito.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silli",
+   "peruna",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3 suolasilliä liotettuina ja fileoituina",
+   "1 kg keitettyjä perunoita viipaleina",
+   "3 kananmunaa",
+   "5 dl maitoa",
+   "2 rkl voita",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Kerrosta perunoita ja sillipaloja voideltuun vuokaan.",
+   "Vatkaa munat ja maito ja kaada päälle.",
+   "Ripottele korppujauho ja voinokareet ja paista 200 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-220",
+  "title": "Silli-riisipuddinki",
+  "description": "Maidossa keitetty riisi maustetaan voilla, sokerilla, pippurilla, inkiväärillä ja muskotilla, sekaan munat; sillipalat kerrostetaan riisin kanssa ja paistetaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silli",
+   "riisi",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2,5 dl puuroriisiä",
+   "1 l maitoa",
+   "2 rkl voita",
+   "1 tl sokeria",
+   "¼ tl valkopippuria",
+   "½ tl jauhettua inkivääriä",
+   "ripaus muskottipähkinää",
+   "5 kananmunaa",
+   "2 suolasilliä liotettuina paloina",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Keitä riisi maidossa puuroksi ja jäähdytä hieman.",
+   "Sekoita voi, mausteet ja vatkatut munat joukkoon.",
+   "Kerrosta riisipuuroa ja silliä voideltuun vuokaan, ripottele korppujauho ja paista 175 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-221",
+  "title": "Lohipuddinki",
+  "description": "Lohesta tehdään puddinki perunoiden tai riisin kanssa kuten sillipuddinki.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "400 g suolalohta liotettuna viipaleina",
+   "1 kg keitettyjä perunoita viipaleina",
+   "3 kananmunaa",
+   "5 dl maitoa",
+   "2 rkl voita",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Kerrosta perunoita ja lohta voideltuun vuokaan.",
+   "Kaada päälle munamaito, ripottele korppujauho ja voinokareet.",
+   "Paista 200 asteessa noin 45 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-222",
+  "title": "Manteli-perunapuddinki",
+  "description": "Survotut keitetyt perunat sekoitetaan mantelien, voin ja kerman kanssa, sekaan sokerilla vatkatut munat, ja uuniin.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "peruna",
+   "mantelit",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "6 dl keitettyjä perunoita survottuina",
+   "1 dl manteleita jauhettuina",
+   "75 g voita sulatettuna",
+   "1,5 dl kermaa",
+   "5 kananmunaa",
+   "1 rkl sokeria"
+  ],
+  "instructions": [
+   "Sekoita perunat, mantelit, voi ja kerma.",
+   "Vatkaa munat sokerin kanssa ja sekoita joukkoon.",
+   "Kaada voideltuun vuokaan ja paista 175 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-223",
+  "title": "Perunakohokas",
+  "description": "Survottuihin perunoihin voi, keltuaiset, sokeri, muskottikukka ja kerma, viimeisenä vatkatut valkuaiset; heti uuniin.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "425 g keitettyjä perunoita survottuina",
+   "100 g voita sulatettuna",
+   "6 munankeltuaista",
+   "1 rkl sokeria",
+   "ripaus muskottikukkaa",
+   "6,5 dl kermaa",
+   "2 munanvalkuaista vaahdotettuina"
+  ],
+  "instructions": [
+   "Sekoita perunat, voi, keltuaiset, sokeri, muskottikukka ja kerma.",
+   "Kääntele valkuaisvaahto joukkoon.",
+   "Kaada voideltuun vuokaan ja paista heti 200 asteessa noin 35 minuuttia."
+  ],
+  "cookTimeMin": 50
+ },
+ {
+  "id": "kokkikirja-224",
+  "title": "Veripalttu (veripuddinki)",
+  "description": "Veri, maito, siirappi, mausteet ja meirami sekoitetaan ruisjauhojen kanssa; joukkoon voissa paistettu sipuli ja rasva, ja vuoassa uuniin – syödään puolukan kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "perinneruoka",
+   "veri",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 l verta (sian tai naudan)",
+   "3 dl maitoa",
+   "2 rkl tummaa siirappia",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "½ tl jauhettua inkivääriä",
+   "1 tl kuivattua meiramia",
+   "4 dl ruisjauhoja",
+   "2 sipulia",
+   "1 rkl voita",
+   "200 g silavaa kuutioina",
+   "puolukkasurvosta tarjoiluun"
+  ],
+  "instructions": [
+   "Siivilöi veri ja sekoita maito, siirappi ja mausteet.",
+   "Lisää ruisjauhoja niin paljon, että seos on paksua.",
+   "Paista sipulit voissa ja sekoita ne ja silavakuutiot joukkoon.",
+   "Kaada voideltuun vuokaan ja paista 175 asteessa noin 1,5 tuntia. Tarjoa puolukan kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-225",
+  "title": "Maksalaatikko korintein",
+  "description": "Raastettu vasikanmaksa sekoitetaan maitoon liotettuun vehnäleipään, munuaistaliin, korintteihin, pippuriin ja muihin mausteisiin ja paistetaan vuoassa – maksalaatikon esi-isä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "maksa",
+   "laatikko",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vasikan- tai naudanmaksaa",
+   "5 dl vehnäleivänmuruja",
+   "5 dl maitoa",
+   "200 g munuaistalia tai voita",
+   "1 dl korintteja tai rusinoita",
+   "¼ tl mustapippuria",
+   "1 tl suolaa",
+   "1 tl kuivattua meiramia",
+   "2 rkl tummaa siirappia",
+   "2 kananmunaa"
+  ],
+  "instructions": [
+   "Raasta tai jauha maksa ja siivilöi.",
+   "Liota leivänmurut maidossa ja sekoita maksa, rasva, korintit, mausteet, siirappi ja munat.",
+   "Kaada voideltuun vuokaan ja paista 175 asteessa noin tunti."
+  ],
+  "cookTimeMin": 75
+ },
+ {
+  "id": "kokkikirja-226",
+  "title": "Pinaattipuddinki",
+  "description": "Maitoon liotettu vehnäleipä sekoitetaan ryöpätyn pinaatin, voin, sokerin, suolan, muskotin ja kymmenen munan kanssa ja kypsennetään muotissa vesihauteessa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "pinaatti",
+   "kasvis",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "225 g vehnäleivän muruja",
+   "6,5 dl maitoa",
+   "3 dl ryöpättyä pinaattia hienonnettuna",
+   "75 g voita sulatettuna",
+   "1,5 rkl sokeria",
+   "½ tl suolaa",
+   "ripaus muskottipähkinää",
+   "6 kananmunaa"
+  ],
+  "instructions": [
+   "Liota murut maidossa ja sekoita pinaatti, voi, sokeri ja mausteet joukkoon.",
+   "Vatkaa munat ja sekoita joukkoon.",
+   "Kaada voideltuun kannelliseen muottiin ja kypsennä vesihauteessa noin tunti."
+  ],
+  "cookTimeMin": 75
+ }
+]

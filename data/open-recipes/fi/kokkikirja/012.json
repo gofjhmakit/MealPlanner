@@ -1,0 +1,660 @@
+[
+ {
+  "id": "kokkikirja-302",
+  "title": "Kirsikkahillo kivien siemenillä",
+  "description": "Kirsikat kivetään ja kivistä otetut siemenet keitetään marjojen joukossa – ne antavat mantelisen maun.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "kirsikka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg kirsikoita",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Kivetä kirsikat. Halutessasi murskaa muutama kivi ja lisää siemenet marjojen joukkoon (karvasmantelin maku; käytä vain muutama).",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-303",
+  "title": "Kirkas kirsikkahillo",
+  "description": "Kirsikat kivetään, jokaiseen pannaan kivestä otettu siemen, ja ne keitetään kirkkaaksi hilloksi siirapissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "kirsikka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg kirsikoita",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Kivetä kirsikat.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-304",
+  "title": "Vadelmahillo",
+  "description": "Puhdistetut vadelmat punnitaan ja keitetään yhtä suuren sokerimäärän kanssa siirapissa tai sokerikerroksin.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "vadelma",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg vadelmia",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa vadelmat.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-305",
+  "title": "Mesimarjahillo",
+  "description": "Mesimarjoista keitetään hilloa kuten vadelmista.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "mesimarja",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg mesimarjoja",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa mesimarjat.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-306",
+  "title": "Lakkahillo (muuramahillo)",
+  "description": "Lakat perataan, punnitaan ja keitetään hilloksi samassa painossa sokeria.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "lakka",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lakkoja",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa lakat.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-307",
+  "title": "Viinimarjahillo (punainen tai valkoinen)",
+  "description": "Täysin kypsät viinimarjat riivitään ja keitetään sokerisiirapissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "viinimarja",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg punaisia tai valkoisia viinimarjoja",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Riivi kypsät marjat varsista.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-308",
+  "title": "Mustaviinimarjahillo",
+  "description": "Kuten viinimarjahillo; purkit huuhdotaan viinalla ennen täyttöä, jolloin hillo säilyy paremmin.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "mustaherukka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg mustaherukoita",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Riivi marjat ja huuhdo purkit tilkalla vodkaa.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-309",
+  "title": "Karviaishillo kokonaisista marjoista",
+  "description": "Raa'at karviaiset siemenistä puhdistettuina ryöpätään, liotetaan siirapissa kolme päivää ja keitetään sitten vahvemmassa siirapissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "karviainen",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg suuria raakoja karviaisia",
+   "1 kg sokeria",
+   "5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa karviaiset, avaa ne kukkapäästä ja poista siemenet.",
+   "Kaada päälle kiehuvaa vettä, peitä ja anna jäähtyä. Valuta liinalla.",
+   "Keitä puolet sokerista ja vedestä ohueksi siirapiksi, jäähdytä ja upota marjat. Anna seistä kolme päivää, ravistellen.",
+   "Siivilöi siirappi, lisää loput sokerista ja keitä. Keitä marjat siinä kirkkaiksi ja purkita."
+  ],
+  "cookTimeMin": 4400
+ },
+ {
+  "id": "kokkikirja-310",
+  "title": "Punainen karviaishillo",
+  "description": "Perattuja ja huuhdottuja karviaisia keitetään sokerisiirapissa kirkkaiksi.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "karviainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg punaisia karviaisia",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa ja huuhdo karviaiset.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-311",
+  "title": "Puolukkahillo",
+  "description": "Hallanpanemat puolukat keitetään yhtä suuren sokerimäärän siirapissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "puolukka",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg puolukoita",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa ja huuhdo puolukat ja valuta.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-312",
+  "title": "Säilötyt puolukat siirapissa",
+  "description": "Puolukat keitetään ja makeutetaan sokerisiirapilla tai siirapilla, maustetaan pomeranssinkuorella ja kanelilla ja purkitetaan.",
+  "servings": 15,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "puolukka",
+   "suomalainen",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg puolukoita",
+   "500 g sokeria tai 4 dl siirappia",
+   "1 rkl kuivattua pomeranssinkuorta",
+   "1 kanelitanko paloina"
+  ],
+  "instructions": [
+   "Perkaa ja huuhdo puolukat.",
+   "Keitä niitä koko ajan sekoittaen ja kuori vaahto.",
+   "Lisää sokeri tai siirappi, pomeranssinkuori ja kaneli.",
+   "Kun marjat ovat kirkkaita ja vajoavat, kaada purkkeihin ja peitä jäähtyneinä."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-313",
+  "title": "Keitetyt puolukat ilman sokeria",
+  "description": "Puolukat keitetään kanelin ja sitruunankuoren kanssa paksuksi hilloksi ilman makeutusta; tarvittaessa siirappia käyttöhetkellä.",
+  "servings": 15,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "puolukka",
+   "suomalainen",
+   "sokeriton",
+   "gluteeniton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg puolukoita",
+   "1 dl vettä",
+   "2 kanelitankoa",
+   "1 sitruunan kuori"
+  ],
+  "instructions": [
+   "Perkaa ja huuhdo puolukat ja valuta.",
+   "Kiehauta vesi, kanelit ja sitruunankuori, lisää puolukat ja keitä paksuksi.",
+   "Anna jäähtyä yön yli ja purkita. Makeuta tarvittaessa siirapilla käytettäessä."
+  ],
+  "cookTimeMin": 45
+ },
+ {
+  "id": "kokkikirja-314",
+  "title": "Karpalohillo",
+  "description": "Karpaloista keitetään hilloa samalla tavalla kuin puolukoista.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "hillo",
+   "gluteeniton",
+   "karpalo",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg karpaloita",
+   "1 kg sokeria",
+   "2,5 dl vettä"
+  ],
+  "instructions": [
+   "Perkaa ja huuhdo karpalot.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi kuorien vaahto.",
+   "Lisää marjat ja keitä hiljaa, kuorien vaahto, kunnes marjat kirkastuvat ja vajoavat.",
+   "Purkita kuumiin puhtaisiin purkkeihin."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-315",
+  "skip": "pullotuksen ja säilytyksen menetelmäohje, ei resepti"
+ },
+ {
+  "id": "kokkikirja-316",
+  "title": "Kirsikkamehu (uunissa haudutettu)",
+  "description": "Kirsikat haudutetaan suljetussa ruukussa jäähtyvässä uunissa vuorokausi, mehu puristetaan ja keitetään sokerin kanssa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "kirsikka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg kypsiä kirsikoita",
+   "sokeria puolet mehun painosta"
+  ],
+  "instructions": [
+   "Laita kirsikat uunivuokaan kannellisena ja hauduta 100 asteessa 3–4 tuntia tai jäähtyvässä uunissa yön yli.",
+   "Purista mehu liinan läpi ja punnitse.",
+   "Lisää puolet mehun painosta sokeria ja keitä kolmesti kiehuvaksi, kuorien vaahto.",
+   "Pullota kuumana steriileihin pulloihin."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-317",
+  "title": "Karviaismehu (sitruunan korvikkeeksi)",
+  "description": "Raaoista karviaisista survotusta soseesta puristettu ja kirkastettu mehu keitetään lyhyesti – käytetään sitruunamehun tapaan, esim. punssiin.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "karviainen",
+   "sokeriton",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg suuria raakoja karviaisia"
+  ],
+  "instructions": [
+   "Survo karviaiset soseeksi ja anna seistä yön yli.",
+   "Purista mehu liinan läpi ja anna seistä vuorokausi kirkastumassa.",
+   "Kaada kirkas mehu kattilaan, keitä 6 minuuttia ja kuori vaahto.",
+   "Pullota kuumana."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-318",
+  "title": "Vadelmamehu",
+  "description": "Survotuista vadelmista puristettu mehu keitetään ja kuoritaan, makeutetaan sokerilla ja keitetään uudelleen.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "vadelma",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg vadelmia",
+   "300–500 g sokeria"
+  ],
+  "instructions": [
+   "Survo vadelmat ja purista mehu liinan läpi.",
+   "Keitä mehu ja kuori vaahto huolellisesti.",
+   "Lisää sokeri maun mukaan, keitä ja kuori uudelleen.",
+   "Pullota kuumana."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-319",
+  "title": "Viinimarjamehu",
+  "description": "Punaisista, valkoisista tai mustista viinimarjoista puristettu mehu keitetään ja makeutetaan kuten vadelmamehu.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "viinimarja",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg viinimarjoja",
+   "300–500 g sokeria"
+  ],
+  "instructions": [
+   "Murskaa marjat ja purista mehu liinan läpi.",
+   "Keitä ja kuori vaahto, lisää sokeri ja keitä uudelleen.",
+   "Pullota kuumana."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-320",
+  "title": "Puolukkamehu",
+  "description": "Puolukat keitetään rikki, mehu puristetaan, makeutetaan ja keitetään kolmesti kuorien – säilyy ilman sokeriakin.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "puolukka",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg puolukoita",
+   "1 dl vettä",
+   "200–400 g sokeria (valinnainen)"
+  ],
+  "instructions": [
+   "Keitä puolukat veden kanssa, kunnes ne hajoavat. Jäähdytä.",
+   "Purista mehu liinan läpi.",
+   "Lisää sokeri maun mukaan ja kiehauta 3–4 kertaa, kuorien vaahto.",
+   "Pullota kuumana."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-321",
+  "title": "Mustikkamehu",
+  "description": "Mustikoista tehdään mehu samoin kuin puolukoista.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mehu",
+   "marjat",
+   "säilöntä",
+   "gluteeniton",
+   "mustikka",
+   "suomalainen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg mustikoita",
+   "1 dl vettä",
+   "200–400 g sokeria (valinnainen)"
+  ],
+  "instructions": [
+   "Keitä mustikat veden kanssa rikki ja jäähdytä.",
+   "Purista mehu liinan läpi.",
+   "Makeuta, kiehauta useaan kertaan ja kuori.",
+   "Pullota kuumana."
+  ],
+  "cookTimeMin": 90
+ },
+ {
+  "id": "kokkikirja-322",
+  "title": "Mansikkalikööri (mansikkavesi)",
+  "description": "Mansikat liotetaan kahdeksan päivää sokerisiirapissa, siivilöidään, terästetään konjakilla ja pullotetaan.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "mansikka",
+   "alkoholi",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg sokeria",
+   "2,5 l vettä",
+   "1,8 kg mansikoita",
+   "2 dl konjakkia"
+  ],
+  "instructions": [
+   "Keitä sokeri ja vesi siirapiksi ja jäähdytä haaleaksi.",
+   "Lisää mansikat ja anna seistä 8 päivää, ravistellen päivittäin.",
+   "Siivilöi ja lisää konjakki. Anna seistä vielä 8 päivää ja pullota tiiviisti."
+  ],
+  "cookTimeMin": 23040
+ },
+ {
+  "id": "kokkikirja-323",
+  "title": "Pienet etikkakurkut (kurkkusäilyke)",
+  "description": "Pienet kurkut suolataan päiväksi ja kerrostetaan laakerinlehtien, neilikan, pippurin, muskottikukan ja piparjuuren kanssa; päälle kuuma etikkaliemi.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "kurkku",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg pieniä avomaankurkkuja",
+   "2 rkl suolaa",
+   "6 laakerinlehteä",
+   "8 neilikkaa",
+   "1 tl mustapippuria",
+   "2 muskottikukkaa",
+   "5 cm pala piparjuurta paloina",
+   "1 l etikkalientä (väkiviinaetikka ja vesi 1:2, 1 dl sokeria)"
+  ],
+  "instructions": [
+   "Pese kurkut, sirottele suola ja anna seistä päivä.",
+   "Kerrosta kurkut purkkeihin mausteiden ja piparjuuren kanssa.",
+   "Kaada kiehuva etikkaliemi päälle, peitä ja anna jäähtyä. Sulje tiiviisti."
+  ],
+  "cookTimeMin": 1500
+ },
+ {
+  "id": "kokkikirja-324",
+  "title": "Makeat kurkkusäilykkeet (kaneli-neilikkakurkut)",
+  "description": "Kuoritut ja siemenistä puhdistetut kurkkupalat liotetaan vedessä, maustetaan kanelilla ja neilikalla ja keitetään hetki maustetussa etikassa.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "kurkku",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 kg kurkkuja",
+   "1 kanelitanko paloina",
+   "20 neilikkaa",
+   "1 l etikkalientä (väkiviinaetikka ja vesi 1:2)",
+   "1 sitruunan kuori",
+   "2 muskottikukkaa",
+   "2 dl sokeria (valinnainen, nykymakuun)"
+  ],
+  "instructions": [
+   "Kuori kurkut ohuelti, halkaise neljään osaan ja kaavi siemenet.",
+   "Liota kylmässä vedessä vuorokausi (alkuperäisessä 3–4 päivää, vesi vaihtaen) ja valuta.",
+   "Pistele kurkkuihin kanelinpaloja ja neilikoita.",
+   "Keitä etikka sitruunankuoren, muskottikukan ja kanelin kanssa ja kuori vaahto. Keitä kurkkuja siinä hetki, ei pehmeiksi.",
+   "Laita kurkut purkkeihin, jäähdytä etikka erikseen ja kaada päälle. Säilytä viileässä."
+  ],
+  "cookTimeMin": 1500
+ },
+ {
+  "id": "kokkikirja-325",
+  "title": "Tilliä etikassa",
+  "description": "Hienonnettu tilli säilötään pulloihin hyvän viinietikan alle – talven tillimausteeksi.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "tilli",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "2 isoa nippua tilliä",
+   "5 dl viinietikkaa"
+  ],
+  "instructions": [
+   "Huuhdo, kuivaa ja hienonna tilli.",
+   "Täytä puhtaat pullot tai purkit tillillä ja kaada päälle etikka.",
+   "Säilytä viileässä; käytä kastikkeisiin ja liemiin."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-326",
+  "title": "Etikkasipulit (helmisipulit)",
+  "description": "Pienet sipulit kuoritaan, liotetaan kahdessa suolavedessä, keitetään kirkkaiksi maustepippuri-neilikkaetikassa ja purkitetaan.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "sipuli",
+   "säilöntä",
+   "gluteeniton",
+   "vegaaninen",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg pieniä sipuleita tai helmisipuleita",
+   "suolavettä: 1 l vettä ja 1,5 dl suolaa",
+   "1 l etikkalientä (väkiviinaetikka ja vesi 1:2)",
+   "1 tl maustepippuria",
+   "8 neilikkaa",
+   "1 dl sokeria",
+   "1 muskottikukka"
+  ],
+  "instructions": [
+   "Kuori sipulit varoen ja lajittele koon mukaan.",
+   "Liota väkevässä suolavedessä kaksi vuorokautta, sitten miedommassa kaksi. Valuta ja kuivaa.",
+   "Keitä etikka mausteiden ja sokerin kanssa, lisää sipulit ja keitä, kunnes ne kirkastuvat, mutta eivät pehmene.",
+   "Purkita, anna jäähtyä peitettynä ja sulje. Säilytä viileässä."
+  ],
+  "cookTimeMin": 5800
+ }
+]

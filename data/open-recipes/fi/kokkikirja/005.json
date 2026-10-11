@@ -1,0 +1,703 @@
+[
+ {
+  "id": "kokkikirja-127",
+  "title": "Keitetty ruutana voikastikkeella",
+  "description": "Hienolihaiset ruutanat keitetään varovasti suolavedessä ja syödään voikastikkeen kanssa, johon on lisätty muutama tippa etikkaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g ruutanoita tai muuta pientä kalaa perattuina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "Voikastike:",
+   "75 g voita",
+   "1 rkl vehnäjauhoja",
+   "2 dl kalalientä",
+   "1 tl etikkaa"
+  ],
+  "instructions": [
+   "Keitä kalat hiljaa suolavedessä, etteivät ne hajoa.",
+   "Keitä voista, jauhoista ja liemestä kastike ja mausta etikalla."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-128",
+  "title": "Haudutettu ruutana sitruunalla",
+  "description": "Puolitetut ruutanat haudutetaan kuten made: korppujauhon, sokerin, muskottikukan ja sitruunan kanssa, lopuksi valkoviiniä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g ruutanoita tai muuta pientä kalaa",
+   "2 rkl voita",
+   "3 rkl korppujauhoja",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "1 tl suolaa",
+   "½ sitruuna viipaleina",
+   "3 dl vettä",
+   "1 dl valkoviiniä"
+  ],
+  "instructions": [
+   "Ladot kalat voideltuun kattilaan kerroksittain korppujauhon, sokerin, mausteiden ja sitruunan kanssa.",
+   "Kaada vesi päälle ja hauduta hiljaa kypsäksi. Lisää lopuksi valkoviini."
+  ],
+  "cookTimeMin": 35
+ },
+ {
+  "id": "kokkikirja-129",
+  "title": "Paistetut ruutanat",
+  "description": "Ruutanat viilletään, suolataan ja paistetaan voissa kellanruskeiksi kuten ahvenet.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g ruutanoita perattuina",
+   "1 tl suolaa",
+   "4 rkl voita"
+  ],
+  "instructions": [
+   "Viillä ja suolaa kalat, kuivaa.",
+   "Paista voissa kellanruskeiksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-130",
+  "title": "Keitetty lahna piparjuurikermalla",
+  "description": "Lahnapalat keitetään suolavedessä ja syödään kastikkeen kanssa, jossa raastettua piparjuurta, keltuaisia ja sokeria kermaan sekoitettuna.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lahnaa paloina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "Kastike:",
+   "3 rkl raastettua piparjuurta",
+   "2 munankeltuaista",
+   "1 tl sokeria",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Keitä lahnapalat suolavedessä.",
+   "Sekoita piparjuuri, keltuaiset, sokeri ja kerma ja lämmitä miedosti sakeaksi keittämättä.",
+   "Tarjoa lämpimän kalan kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-131",
+  "title": "Paistettu lahna",
+  "description": "Lahna paistetaan voissa kuten ahvenet: viillettynä ja suolattuna kellanruskeaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lahnafileitä",
+   "1 tl suolaa",
+   "4 rkl voita"
+  ],
+  "instructions": [
+   "Viillä ja suolaa fileet, kuivaa.",
+   "Paista voissa kellanruskeiksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-132",
+  "title": "Keitetty säynävä piparjuurikermalla",
+  "description": "Säynävä keitetään kuten lahna ja syödään piparjuuri-kerma-keltuaiskastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg säynävää tai lahnaa paloina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "3 rkl raastettua piparjuurta",
+   "2 munankeltuaista",
+   "1 tl sokeria",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Keitä kala suolavedessä.",
+   "Sekoita piparjuuri, keltuaiset, sokeri ja kerma ja lämmitä sakeaksi keittämättä. Tarjoa kalan kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-133",
+  "title": "Haudutettu säynävä piparjuuren kanssa",
+  "description": "Säynäväpalat ladotaan voideltuun kattilaan korppujauhon, suolan, maustepippurin, voin, sokerin ja piparjuurenpalojen kanssa ja haudutetaan kannen alla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg säynävää tai lahnaa paloina",
+   "2 rkl voita",
+   "3 rkl korppujauhoja",
+   "1 tl suolaa",
+   "6 kokonaista maustepippuria",
+   "1 tl sokeria",
+   "1 pala piparjuurta viipaleina",
+   "2 dl vettä"
+  ],
+  "instructions": [
+   "Ladot kalat kerroksittain voideltuun kattilaan ja ripottele väliin korppujauho, suola, maustepippurit, voinokareet, sokeri ja piparjuuri.",
+   "Kaada päälle vähän vettä ja hauduta kannen alla miedolla lämmöllä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-134",
+  "title": "Keitetty kuha munavoilla",
+  "description": "Kuhapalat keitetään suolavedessä ja tarjotaan hienonnettujen kovaksi keitettyjen munien ja sulatetun voin kanssa – tai sinappikastikkeen kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kuha",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg kuhaa paloina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "3 kovaksi keitettyä kananmunaa",
+   "100 g voita sulatettuna"
+  ],
+  "instructions": [
+   "Keitä kuha suolavedessä kypsäksi.",
+   "Hienonna munat ja sekoita sulatettuun voihin.",
+   "Tarjoa kala munavoin kanssa (tai voi-jauho-sinappikastikkeen kanssa)."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-135",
+  "title": "Haudutettu kuha valkoviinissä",
+  "description": "Kuhapalat voideltuun kattilaan, päälle korppujauhoa, sokeria, muskottikukkaa ja suolaa; vettä ja valkoviiniä puoliksi ja hiljaa kannen alla pehmeiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kuha",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg kuhaa paloina",
+   "2 rkl voita",
+   "3 rkl korppujauhoja",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "1 tl suolaa",
+   "1 dl vettä",
+   "1 dl valkoviiniä"
+  ],
+  "instructions": [
+   "Asettele kala voideltuun kattilaan ja ripottele päälle korppujauho, sokeri, muskottikukka ja suola.",
+   "Kaada vesi ja viini päälle ja hauduta kannen alla hiljaa kypsäksi. Tarjoa heti."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-136",
+  "title": "Keitetty siika makeahappamassa keltuaiskastikkeessa",
+  "description": "Siika keitetään kevyesti suolatussa vedessä; voi-jauhokastikkeeseen liemi, sokeri ja etikka, sakeutuksena kaksi keltuaista.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "siika",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg siikaa perattuna",
+   "1 l vettä",
+   "1 tl suolaa",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kalalientä",
+   "1 tl sokeria",
+   "1 rkl etikkaa",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Keitä siika suolavedessä kypsäksi.",
+   "Keitä voi ja jauhot, lisää liemi, sokeri ja etikka.",
+   "Sakeuta kastike keltuaisilla miedolla lämmöllä ja tarjoa kalan kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-137",
+  "title": "Keitetty kampela persiljakastikkeessa",
+  "description": "Nyljetyt kampelat (Maarian-kalat) keitetään persilja-suolavedessä; kastike voista, jauhoista, liemestä ja persiljasta keltuaisilla sakeutettuna.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kampela",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g kampelaa perattuna",
+   "1 l vettä",
+   "1 tl suolaa",
+   "2 rkl persiljaa",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl kalalientä",
+   "2 rkl persiljaa kastikkeeseen",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Keitä kampelat vedessä persiljan ja suolan kanssa.",
+   "Keitä voi ja jauhot, lisää liemi ja persilja.",
+   "Sakeuta keltuaisilla ja tarjoa kalan kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-138",
+  "title": "Paistettu kampela",
+  "description": "Nyljetyt kampelat suolataan, kuivataan, kastetaan munaan ja jauho-korppujauhoseokseen ja paistetaan voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kampela",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g kampelaa tai kampelafileitä",
+   "½ tl suolaa",
+   "1 kananmuna",
+   "2 rkl vehnäjauhoja",
+   "3 rkl korppujauhoja",
+   "3 rkl voita"
+  ],
+  "instructions": [
+   "Suolaa kalat ja anna seistä hetki. Kuivaa liinalla.",
+   "Kasta vatkattuun munaan ja jauho-korppujauhoseokseen.",
+   "Paista voissa kullanruskeiksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-139",
+  "title": "Keitetty lohi tilliliemessä",
+  "description": "Lohipalat keitetään tillin, maustepippurin ja suolan kanssa, jäähdytetään ja tarjotaan kylmänä omassa liemessään etikan kera.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lohta paloina",
+   "1,5 l vettä",
+   "1 nippu tilliä",
+   "6 kokonaista maustepippuria",
+   "1 tl suolaa",
+   "etikkaa tarjoiluun"
+  ],
+  "instructions": [
+   "Kiehauta vesi tillin, maustepippurien ja suolan kanssa ja lisää lohi.",
+   "Kun vesi kiehuu uudelleen, kuori vaahto. Kypsennä hiljaa.",
+   "Jäähdytä lohi ja liemi erikseen, kaada liemi lohen päälle vadille ja tarjoa etikan kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-140",
+  "title": "Lohi kirsikkakastikkeessa",
+  "description": "Keitetty lohi lämmitetään kastikkeessa, jossa on soseutettuja kirsikoita, voi-jauhosuurusta, valkoviiniä, sitruunankuorta ja sokeria.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "marjat",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lohta paloina",
+   "1 l suolavettä",
+   "300 g hapankirsikoita",
+   "1 dl vettä",
+   "2 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "1 dl valkoviiniä",
+   "1 tl raastettua sitruunankuorta",
+   "2 rkl sokeria"
+  ],
+  "instructions": [
+   "Keitä lohi suolavedessä.",
+   "Survo kirsikat, keitä vähässä vedessä ja paseeraa.",
+   "Kuullota voi ja jauhot, lisää vesi, viini, kirsikkasose, sitruunankuori ja sokeri.",
+   "Lisää lohipalat kiehuvaan kastikkeeseen ja lämmitä."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-141",
+  "title": "Haudutettu lohi muskottikukalla ja valkoviinillä",
+  "description": "Keitetty lohi haudutetaan voi-korppujauhokastikkeessa sokerin, suolan ja muskottikukan kanssa; lopuksi muutama lusikallinen valkoviiniä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lohta paloina",
+   "1 l suolavettä",
+   "3 rkl voita",
+   "4 rkl korppujauhoja",
+   "2 dl vettä",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "3 rkl valkoviiniä"
+  ],
+  "instructions": [
+   "Keitä lohipalat suolavedessä.",
+   "Keitä voi, korppujauho ja vesi ja mausta suolalla, sokerilla ja muskottikukalla.",
+   "Lisää lohi ja hauduta hiljaa. Lisää lopuksi valkoviini."
+  ],
+  "cookTimeMin": 35
+ },
+ {
+  "id": "kokkikirja-142",
+  "title": "Graavilohi (vähän suolattu lohi tillillä)",
+  "description": "Tuore lohi halkaistaan, hierotaan suolan ja sokerin seoksella ja suolataan tillinoksien päällä painon alla – graavilohen vanha ohje.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lohifileetä nahkoineen",
+   "3 rkl karkeaa suolaa",
+   "1 rkl sokeria",
+   "1 nippu tilliä"
+  ],
+  "instructions": [
+   "Poista ruodot ja kuivaa fileet.",
+   "Hiero lihapuolelle suolan ja sokerin seos ja suolaa kevyesti myös nahkapuoli.",
+   "Laita astian pohjalle tillinoksia, lohi päälle ja painon alle jääkaappiin 1–2 vuorokaudeksi."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-143",
+  "title": "Lohilaatikko",
+  "description": "Ohuet lohiviipaleet ja keitetyt perunaviipaleet kerrostetaan voideltuun vuokaan; päälle munamaito ja voinokareet, ja uuniin kullanruskeaksi – lohilaatikon 1800-luvun versio.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "peruna",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "400 g suolattua lohta ohuina viipaleina",
+   "5 dl maitoa liotukseen",
+   "1 kg keitettyjä perunoita viipaleina",
+   "3 kananmunaa",
+   "5 dl maitoa",
+   "2 rkl voita",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Liota suolattua lohta maito-vesiseoksessa noin 12 tuntia (tuoretta lohta ei tarvitse liottaa).",
+   "Voitele vuoka ja kerrosta perunaviipaleita ja kuivattuja lohiviipaleita; ylimmäiseksi perunaa.",
+   "Vatkaa munat ja maito, kaada vuokaan, ripottele pinnalle korppujauho ja voinokareet.",
+   "Paista 200 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-144",
+  "title": "Keitetty suolalohi tillin kanssa",
+  "description": "Suolalohen päät ja pyrstöt – rasvaisimmat osat – liotetaan, keitetään tillin ja pippurien kanssa ja syödään kylminä etikan ja liemen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g suolalohen päitä ja pyrstöjä tai suolalohta",
+   "2 l vettä liotukseen",
+   "1 l vettä",
+   "1 nippu tilliä",
+   "1 tl kokonaisia pippureita",
+   "etikkaa tarjoiluun"
+  ],
+  "instructions": [
+   "Liota lohta vedessä useita tunteja.",
+   "Paloittele ja keitä vedessä tillin ja pippurien kanssa.",
+   "Jäähdytä ja tarjoa etikan ja liemen kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-145",
+  "title": "Haudutettu suolalohi",
+  "description": "Liotetusta suolalohesta leikatut viipaleet ryöpätään, huuhdellaan ja haudutetaan voi-korppujauhokastikkeessa kuten tuore lohi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g suolalohta",
+   "2 l vettä liotukseen",
+   "3 rkl voita",
+   "4 rkl korppujauhoja",
+   "2 dl vettä",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "3 rkl valkoviiniä"
+  ],
+  "instructions": [
+   "Liota lohta, leikkaa leveiksi ohuiksi viipaleiksi ja ryöppää. Kaada vesi pois ja huuhtele.",
+   "Keitä voi, korppujauho ja vesi, mausta ja hauduta lohi kastikkeessa.",
+   "Lisää lopuksi valkoviini."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-146",
+  "title": "Paistettu suolalohen selkä",
+  "description": "Liotettu lohenselkä kastetaan sulaan voihin ja jauhoihin, paistetaan voissa ja syödään makeahappaman kastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g suolalohen selkää liotettuna",
+   "3 rkl voita sulatettuna",
+   "3 rkl vehnäjauhoja",
+   "2 rkl voita paistamiseen",
+   "Kastike:",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "2 dl vettä",
+   "1 rkl etikkaa",
+   "1 rkl sokeria"
+  ],
+  "instructions": [
+   "Paloittele ja kuivaa lohi, kasta voihin ja jauhoihin.",
+   "Paista voissa.",
+   "Keitä kastike voista, jauhoista ja vedestä ja mausta etikalla ja sokerilla."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-147",
+  "title": "Sillit öljyssä ja etikassa",
+  "description": "Liotettu suolasilli fileoidaan, leikataan pieniksi paloiksi ja liotetaan maidossa; kerrostetaan sipulin ja pippurin kanssa ja peitetään öljyllä ja etikalla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silli",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 suolasillifileetä",
+   "3 dl maitoa",
+   "1 sipuli renkaina",
+   "½ tl valkopippuria",
+   "1 dl rypsiöljyä",
+   "½ dl etikkaa",
+   "ruisleipää ja voita tarjoiluun"
+  ],
+  "instructions": [
+   "Liota sillejä vedessä vuorokausi, vaihtaen vettä kahdesti.",
+   "Fileoi, paloittele ja liota maidossa muutama tunti.",
+   "Kerrosta vadille sipulin ja pippurin kanssa, kaada öljy ja etikka päälle ja tarjoa voileivän kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-148",
+  "title": "Sillilaatikko",
+  "description": "Liotetut sillifileet kastetaan munaan ja paistetaan voissa; sitten ne kerrostetaan perunoiden kanssa vuokaan kuten lohilaatikossa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silli",
+   "peruna",
+   "laatikko",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 suolasillifileetä liotettuina",
+   "1 kananmuna",
+   "2 rkl voita",
+   "1 kg keitettyjä perunoita viipaleina",
+   "3 kananmunaa",
+   "5 dl maitoa",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Kuivaa liotetut fileet, kasta munaan ja paista voissa kellanruskeiksi.",
+   "Kerrosta voideltuun vuokaan perunoita ja sillejä.",
+   "Kaada päälle munamaito, ripottele korppujauho ja paista 200 asteessa noin 40 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-149",
+  "title": "Keitetty silli sipulikastikkeella",
+  "description": "Liotetut ja puolitetut sillit kiehautetaan; tarjotaan kuorittujen perunoiden ja sipulikastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silli",
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 suolasilliä liotettuina",
+   "1 l vettä",
+   "1 kg perunoita",
+   "Sipulikastike:",
+   "2 sipulia hienonnettuina",
+   "3 dl vettä",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "1 tl sokeria",
+   "1 tl etikkaa"
+  ],
+  "instructions": [
+   "Perkaa ja puolita sillit ja laita kylmään veteen. Kun vesi kiehuu ja vaahto on kuorittu, nosta liedeltä.",
+   "Keitä sipulit vedessä pehmeiksi ja siivilöi. Suurusta liemi voilla ja jauhoilla ja mausta sokerilla ja etikalla.",
+   "Tarjoa keitettyjen perunoiden ja kastikkeen kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-150",
+  "title": "Keitetyt silakat keltuaisliemellä",
+  "description": "Perkatut silakat ladotaan matalaan kattilaan tillin, maustepippurin ja suolan kanssa ja keitetään hetki; liemi sakeutetaan keltuaisilla ja tarjotaan erikseen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silakka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g silakoita perattuina",
+   "1 nippu tilliä",
+   "6 kokonaista maustepippuria",
+   "1 tl suolaa",
+   "3 dl vettä",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Ladot silakat riveiksi matalaan kattilaan ja lisää tilli, maustepippurit, suola ja vesi.",
+   "Keitä hetki, etteivät kalat hajoa, ja nosta vadille.",
+   "Sakeuta liemi keltuaisilla ja tarjoa kastikekulhosta."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-151",
+  "title": "Paistetut silakat",
+  "description": "Silakat viilletään, suolataan pariksi tunniksi, kuivataan, kastetaan maitoon sekoitettuun munaan ja jauhoihin ja paistetaan voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silakka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g silakoita perattuina",
+   "1 tl suolaa",
+   "1 kananmuna",
+   "½ dl maitoa",
+   "1 dl vehnäjauhoja",
+   "4 rkl voita"
+  ],
+  "instructions": [
+   "Viillä silakat molemmin puolin ja suolaa pariksi tunniksi.",
+   "Kuivaa liinalla, kasta maitoon sekoitettuun munaan ja jauhoihin.",
+   "Paista voissa kullanruskeiksi."
+  ],
+  "cookTimeMin": 30
+ }
+]

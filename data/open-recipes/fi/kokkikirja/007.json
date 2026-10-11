@@ -1,0 +1,685 @@
+[
+ {
+  "id": "kokkikirja-177",
+  "title": "Kermakaali",
+  "description": "Hienonnettu ryöpätty kaali haudutetaan kerma-maitokastikkeessa voin, suolan, sokerin ja muskottikukan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kaali",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "½ kaalia hienonnettuna",
+   "3 dl maitoa",
+   "3 dl kermaa",
+   "2 rkl voita",
+   "3 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Ryöppää kaali ja valuta.",
+   "Kiehauta maito, kerma ja voi ja vatkaa jauhot joukkoon velliksi. Mausta.",
+   "Lisää kaali ja hauduta pehmeäksi."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-178",
+  "title": "Lehtikaalimuhennos",
+  "description": "Hallanpanema lehtikaali ryöpätään, hienonnetaan ja haudutetaan voi-jauhosuurustuksessa ja maidossa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kaali",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g lehtikaalia",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "4 dl maitoa",
+   "½ tl suolaa",
+   "1 tl sokeria"
+  ],
+  "instructions": [
+   "Huuhtele kaali useaan kertaan, ryöppää pehmeäksi, purista ja hienonna.",
+   "Kuullota voi ja jauhot, lisää maito ja kaali ja sekoita ahkerasti.",
+   "Mausta suolalla ja sokerilla ja hauduta hetki."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-179",
+  "title": "Kukkakaali kermakastikkeessa",
+  "description": "Kukkakaali keitetään suolavedessä pehmeäksi ja haudutetaan kerma-maitokastikkeessa kuten valkokaali.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kukkakaali",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kukkakaali",
+   "1 l suolavettä",
+   "3 dl maitoa",
+   "2 dl kermaa",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Keitä kukkakaali suolavedessä pehmeäksi ja valuta.",
+   "Keitä kerma-maitokastike voista ja jauhoista ja mausta.",
+   "Kaada kastike kukkakaalin päälle."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-180",
+  "title": "Suippokaali kermakastikkeessa",
+  "description": "Hento suippokaali keitetään ja haudutetaan kuten valkokaali – kirjan mukaan vielä parempaa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kaali",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 suippokaali hienonnettuna",
+   "3 dl maitoa",
+   "3 dl kermaa",
+   "2 rkl voita",
+   "3 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Ryöppää kaali ja valuta.",
+   "Keitä kerma-maitokastike ja mausta.",
+   "Hauduta kaali kastikkeessa pehmeäksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-181",
+  "title": "Haudutettu hapankaali",
+  "description": "Hapankaali haudutetaan vähässä vedessä ja voissa, ja joukkoon sekoitetaan lihaliemellä ohennettu voi-jauhosuurustus; tilkka etikkaa tarvittaessa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kaali",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g hapankaalia",
+   "1 dl vettä",
+   "2 rkl voita",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "3 dl lihalientä",
+   "1 tl etikkaa tarvittaessa"
+  ],
+  "instructions": [
+   "Hauduta kaali vedessä ja voissa kypsäksi.",
+   "Keitä voi, jauhot ja liemi ja kaada kaalin joukkoon.",
+   "Lisää tarvittaessa etikkaa ja tarjoa vadilla."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-182",
+  "title": "Pienet vihreät pavut persiljakastikkeessa",
+  "description": "Nuoret pavut paloitellaan, keitetään voissa ja suurustetaan persiljan, suolan, sokerin ja muskottikukan kanssa – sillin tai lohen lisukkeeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vihreitä papuja paloina",
+   "5 dl vettä",
+   "1 rkl voita",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "2 rkl persiljaa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Keitä pavut vedessä voin kanssa.",
+   "Suurusta voi-jauhoseoksella ja lisää persilja ja mausteet.",
+   "Tarjoa sillin tai lohen kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-183",
+  "title": "Suikaloidut vihreät pavut",
+  "description": "Täysikasvuiset pavut leikataan ohuiksi suikaleiksi, keitetään voissa ja suurustetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g isoja vihreitä papuja ohuina suikaleina",
+   "5 dl vettä",
+   "1 rkl voita",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä suikaleet vedessä voin kanssa.",
+   "Suurusta ja suolaa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-184",
+  "title": "Makeahappamat ruskeat pavut",
+  "description": "Ruskeat pavut keitetään sosemaisiksi ja maustetaan siirapilla ja etikalla makeahappamiksi; suurustetaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "4 dl ruskeita papuja liotettuina",
+   "1,5 l vettä",
+   "1 rkl voita",
+   "3 rkl tummaa siirappia",
+   "2 rkl etikkaa",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä pavut vedessä voin kanssa pehmeiksi.",
+   "Mausta siirapilla ja etikalla, lisää voi ja suurusta.",
+   "Tarjoa lihaisten ruokien kanssa."
+  ],
+  "cookTimeMin": 120
+ },
+ {
+  "id": "kokkikirja-185",
+  "title": "Härkäpavut persiljakastikkeessa",
+  "description": "Ryöpätyt härkäpavut kuoritaan ja haudutetaan voi-persilja-jauhokastikkeessa sokerin, suolan ja muskotin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g tuoreita tai pakastettuja härkäpapuja",
+   "2 rkl voita",
+   "2 rkl persiljaa",
+   "2 rkl vehnäjauhoja",
+   "3 dl lientä",
+   "1 tl sokeria",
+   "½ tl suolaa",
+   "ripaus muskottipähkinää"
+  ],
+  "instructions": [
+   "Ryöppää pavut ja kuori niistä ulkokuori.",
+   "Keitä voi, persilja ja jauhot, lisää liemi ja mausteet.",
+   "Lisää pavut kiehuvaan kastikkeeseen ja kuumenna."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-186",
+  "title": "Keitetty parsa",
+  "description": "Parsat sidotaan nippuihin koon mukaan ja keitetään suolavedessä voin kanssa – isot ensin, pienet perässä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "parsa",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g parsaa",
+   "2 l vettä",
+   "1 tl suolaa",
+   "1 rkl voita",
+   "75 g voita sulatettuna tarjoiluun"
+  ],
+  "instructions": [
+   "Kuori parsat ja sido nipuiksi koon mukaan.",
+   "Keitä suolavedessä voin kanssa: isot ensin, pienet kun vesi kiehuu uudelleen.",
+   "Tarjoa sulatetun voin kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-187",
+  "title": "Parsa sitruunakastikkeessa",
+  "description": "Ryöpätyt parsat haudutetaan voi-jauhokastikkeessa, joka hapotetaan sitruunamehulla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "parsa",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g parsaa",
+   "1 l suolavettä",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "3 dl vettä",
+   "1 rkl sitruunamehua",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Ryöppää parsat nippuina ja valuta.",
+   "Keitä voi, jauhot ja vesi kastikkeeksi ja hapota sitruunalla.",
+   "Lämmitä parsat kastikkeessa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-188",
+  "title": "Voissa paistetut juurekset lihan ympärille",
+  "description": "Keitetyt juurekset leikataan kolmioiksi tai kuutioiksi ja paistetaan voissa kellanruskeiksi lihavadin koristeeksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "juurekset",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g sekalaisia juureksia (porkkana, lanttu, palsternakka)",
+   "2 l vettä",
+   "1 tl suolaa",
+   "3 rkl voita"
+  ],
+  "instructions": [
+   "Keitä juurekset pehmeiksi ja valuta hyvin.",
+   "Leikkaa haluamasi muotoisiksi paloiksi ja paista voissa kellanruskeiksi.",
+   "Asettele lihan ympärille vadille."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-189",
+  "title": "Keitetyt porkkanat",
+  "description": "Viipaloidut porkkanat keitetään ja tarjotaan kotlettien, lihapyöryköiden tai muun lihan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "porkkana",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g porkkanoita viipaleina",
+   "1 l vettä",
+   "½ tl suolaa",
+   "1 rkl voita"
+  ],
+  "instructions": [
+   "Keitä porkkanat suolavedessä kypsiksi.",
+   "Valuta, lisää voi ja tarjoa lihan kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-190",
+  "title": "Nauriit kermakastikkeessa",
+  "description": "Puolitetut nauriit keitetään voissa ja suolavedessä, ja kastikkeeseen tulee keitinlientä, kermaa, sokeria, muskottikukkaa ja persiljaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "nauris",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g naurista",
+   "1 l suolavettä",
+   "1 rkl voita",
+   "2 rkl voita ja 2 rkl jauhoja kastikkeeseen",
+   "2 dl keitinlientä",
+   "2 dl kermaa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "2 rkl persiljaa"
+  ],
+  "instructions": [
+   "Keitä nauriit voin kanssa suolavedessä pehmeiksi ja valuta.",
+   "Keitä voi ja jauhot, lisää liemi, kerma ja mausteet ja sekoita.",
+   "Lisää nauriit ja kuumenna."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-191",
+  "title": "Sokeroidut uunissa ruskistetut nauriit",
+  "description": "Puolikypsät kuoritut nauriit valellaan voilla ja ripotellaan korppujauholla ja sokerilla ja paistetaan uunissa ruskeiksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "nauris",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 tasakokoista naurista",
+   "2 rkl voita voiteluun",
+   "3 rkl voita sulatettuna",
+   "3 rkl korppujauhoja",
+   "2 rkl sokeria",
+   "1 dl keitinlientä"
+  ],
+  "instructions": [
+   "Keitä nauriit puolikypsiksi ja kuori.",
+   "Voitele vuoka ja ripottele siihen sokeria ja korppujauhoja. Asettele nauriit, valele voilla ja ripottele loput sokerista ja korppujauhosta.",
+   "Kaada vähän keitinlientä ja paista 200 asteessa ruskeiksi."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-192",
+  "title": "Uunissa paistetut nauriit",
+  "description": "Kokonaiset nauriit paistetaan uunissa kypsiksi ja syödään voin kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "nauris",
+   "uuniruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 tasakokoista naurista",
+   "75 g voita"
+  ],
+  "instructions": [
+   "Pese ja kuivaa nauriit.",
+   "Paista uunissa 200 asteessa kypsiksi, noin tunti.",
+   "Tarjoa voin kanssa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-193",
+  "title": "Täytetyt nauriit",
+  "description": "Keitetyt nauriit koverretaan, sisus survotaan voin, munien ja kerman kanssa, ja kupit täytetään ja paistetaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "nauris",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 tasakokoista naurista",
+   "2 l suolavettä",
+   "2 rkl voita",
+   "2 kananmunaa",
+   "1 dl kermaa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "2 rkl korppujauhoja"
+  ],
+  "instructions": [
+   "Keitä nauriit kypsiksi, jäähdytä ja kuori.",
+   "Leikkaa kansi ja kovertele nauriit kupeiksi.",
+   "Survo sisus voin, munien, kerman ja mausteiden kanssa ja täytä kupit.",
+   "Ripottele pinnalle korppujauhoa ja paista 200 asteessa noin 20 minuuttia."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-194",
+  "title": "Naurissose",
+  "description": "Nauriit keitetään hiljaa soseeksi, paseerataan ja haudutetaan voi-jauho-maitosuurustuksessa suolan, sokerin ja pippurin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "nauris",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g naurista",
+   "3 dl vettä",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "2 dl maitoa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus valkopippuria"
+  ],
+  "instructions": [
+   "Keitä nauriit kannen alla vähässä vedessä aivan pehmeiksi ja soseuta.",
+   "Keitä voi, jauhot ja maito ja mausta.",
+   "Lisää sose ja kiehauta."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-195",
+  "title": "Leivitetyt paistetut lanttuviipaleet",
+  "description": "Keitetyt lantut leikataan viipaleiksi, kastetaan sulaan voihin ja korppujauhoon ja paistetaan kellanruskeiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "lanttu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g lanttua",
+   "1 l lihalientä tai vettä",
+   "3 rkl voita sulatettuna",
+   "1 dl korppujauhoja",
+   "2 rkl voita paistamiseen"
+  ],
+  "instructions": [
+   "Keitä lanttupalat liemessä kypsiksi ja jäähdytä.",
+   "Leikkaa viipaleiksi, kasta voihin ja korppujauhoon.",
+   "Paista voissa kellanruskeiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-196",
+  "title": "Lanttulaatikko",
+  "description": "Lanttuviipaleita ja raastettua lanttua kerrostetaan voideltuun vuokaan korppujauhon, suolan, sokerin ja maustepippurin kanssa ja paistetaan uunissa – lanttulaatikon esi-isä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "lanttu",
+   "laatikko",
+   "joulu",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg lanttua",
+   "2 rkl voita",
+   "4 rkl korppujauhoja",
+   "1 tl suolaa",
+   "2 rkl sokeria",
+   "1 tl jauhettua maustepippuria",
+   "2 dl kermaa"
+  ],
+  "instructions": [
+   "Voitele vuoka ja ripottele korppujauhoa.",
+   "Kerrosta viipaloitua ja raastettua lanttua ja ripottele väliin suolaa, sokeria ja maustepippuria.",
+   "Kaada kerma pinnalle, ripottele korppujauhoa ja voinokareita ja paista 175 asteessa noin 1,5 tuntia."
+  ],
+  "cookTimeMin": 100
+ },
+ {
+  "id": "kokkikirja-197",
+  "title": "Pannulla paistetut perunat",
+  "description": "Suolavedessä keitetyt perunat kuoritaan, jäähdytetään ja paistetaan voissa kellanruskeiksi – pienet kokonaisina.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g perunoita",
+   "1 tl suolaa",
+   "3 rkl voita"
+  ],
+  "instructions": [
+   "Keitä perunat suolavedessä ja kuori.",
+   "Jäähdytä ja lohko isot perunat.",
+   "Paista voissa kellanruskeiksi."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-198",
+  "title": "Maitoperunat persiljalla",
+  "description": "Keitetyt perunalohkot haudutetaan maidossa suolan ja persiljan kanssa, sekoitetaan voihin ja ripotellaan muskotilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g keitettyjä perunoita",
+   "5 dl maitoa",
+   "½ tl suolaa",
+   "2 rkl persiljaa",
+   "1 rkl voita",
+   "ripaus muskottipähkinää"
+  ],
+  "instructions": [
+   "Kuori ja lohko perunat.",
+   "Hauduta maidossa suolan ja persiljan kanssa, kunnes maito sakenee.",
+   "Sekoita joukkoon voi, nosta vadille ja raasta pinnalle muskottia."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-199",
+  "title": "Englantilaiset liemiperunat",
+  "description": "Raa'at kuoritut perunat keitetään lihaliemessä voin ja persiljan kanssa, kunnes liemi sakenee.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g perunoita kuorittuina",
+   "5 dl lihalientä",
+   "2 rkl voita",
+   "2 rkl persiljaa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä perunat lihaliemessä voin ja persiljan kanssa.",
+   "Suolaa, kun liemi on sakeutunut, ja tarjoa lihan kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-200",
+  "title": "Pariisilaiset ruohosipuliperunat",
+  "description": "Ruohosipuli keitetään voissa ja jauhoissa, lisätään lihaliemi ja keitetään raa'at perunat siinä kypsiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g perunoita kuorittuina",
+   "3 rkl ruohosipulia",
+   "2 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "5 dl lihalientä"
+  ],
+  "instructions": [
+   "Kuullota ruohosipuli voissa ja jauhoissa.",
+   "Lisää liemi ja kiehauta.",
+   "Lisää perunat ja keitä kypsiksi, kunnes liemi on sakeaa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-201",
+  "title": "Perunasose keltuaisilla",
+  "description": "Perunat keitetään voissa ja vedessä hiljaa puuroksi, paseerataan ja maustetaan suolalla, sokerilla, muskottikukalla ja kermaan sekoitetuilla keltuaisilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg perunoita",
+   "2 dl vettä",
+   "2 rkl voita",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "3 munankeltuaista",
+   "1 dl kermaa"
+  ],
+  "instructions": [
+   "Keitä lohkotut perunat vähässä vedessä ja voissa miedolla lämmöllä pehmeiksi ja soseuta.",
+   "Mausta suolalla, sokerilla ja muskottikukalla.",
+   "Sekoita keltuaiset kermaan ja lisää soseeseen sopivan paksuksi."
+  ],
+  "cookTimeMin": 40
+ }
+]

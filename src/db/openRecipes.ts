@@ -58,7 +58,7 @@ interface OpenRecipeRecord {
 const BASE = `${import.meta.env.BASE_URL}data/open-recipes/`
 
 /** Bump when the ingredient matcher or dictionary changes, so stored catalogue recipes are re-matched. */
-export const MATCHER_VERSION = 6
+export const MATCHER_VERSION = 7
 
 export function openSourceToRecipeSource(s: OpenSourceInfo): RecipeSource {
   return { id: s.id, name: s.name, homepage: s.homepage, domains: [], kind: 'dataset', license: s.license, notes: s.attribution }

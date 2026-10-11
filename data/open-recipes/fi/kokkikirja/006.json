@@ -1,0 +1,666 @@
+[
+ {
+  "id": "kokkikirja-152",
+  "title": "Tillisilakat (kevyesti suolatut silakat)",
+  "description": "Perkatut ja ruodotut silakat suolataan ja kerrostetaan tillinoksien kanssa; 12 tunnin päästä ne syödään öljyn ja etikan kera.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silakka",
+   "säilöntä",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g silakkafileitä",
+   "2 rkl karkeaa suolaa",
+   "1 nippu tilliä",
+   "1 dl rypsiöljyä",
+   "½ dl etikkaa"
+  ],
+  "instructions": [
+   "Kuivaa fileet ja hiero molemmin puolin suolalla.",
+   "Kerrosta astiaan tillinoksien kanssa ja anna seistä jääkaapissa 12 tuntia.",
+   "Tarjoa öljyn ja etikan kanssa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-153",
+  "title": "Haudutetut silakat sitruunalla",
+  "description": "Viilletyt silakat ladotaan voideltuun kattilaan korppujauhon, suolan, muskottikukan, pippurin, voin ja sitruunaviipaleiden kanssa; valkoviiniä ja vettä ja hiljaa kannen alla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "silakka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g silakoita",
+   "2 rkl voita",
+   "3 rkl korppujauhoja",
+   "1 tl suolaa",
+   "ripaus muskottikukkaa",
+   "¼ tl valkopippuria",
+   "½ sitruuna ohuina viipaleina",
+   "1 dl valkoviiniä",
+   "1 dl vettä"
+  ],
+  "instructions": [
+   "Ladot silakat kerroksittain voideltuun kattilaan ja ripottele väliin korppujauho, mausteet, voinokareet ja sitruunaviipaleet.",
+   "Kaada viini ja vesi päälle ja hauduta kannen alla miedolla lämmöllä."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-154",
+  "title": "Keitetyt kiisket persiljakastikkeella",
+  "description": "Kiisket keitetään suolan ja persiljan kanssa; kastikkeeksi voi, jauhot, persilja ja kalaliemi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "800 g kiiskiä tai ahvenia perattuina",
+   "1 l vettä",
+   "1 tl suolaa",
+   "1 nippu persiljaa",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "2 rkl persiljaa hienonnettuna",
+   "3 dl kalalientä"
+  ],
+  "instructions": [
+   "Keitä kalat vedessä suolan ja persiljan kanssa ja siivilöi liemi.",
+   "Keitä voi, jauhot ja persilja ja lisää lientä sopivan paksuksi kastikkeeksi.",
+   "Tarjoa kastike kalojen kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-155",
+  "title": "Kuoreet sahdissa keitettyinä",
+  "description": "Kuoreet keitetään sahdissa, joka vaihdetaan, jotta kuoreen haju lähtee; sitten ne haudutetaan tai keitetään suolavedessä ja syödään sinappikastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g kuoreita perattuina",
+   "1 l sahtia tai tummaa olutta",
+   "1 l vettä",
+   "1 tl suolaa",
+   "sinappikastiketta tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä kuoreita sahdissa hetki ja kaada sahti pois.",
+   "Keitä ne uudessa sahdissa nopeasti ja valuta liinalla.",
+   "Keitä vielä suolavedessä tai hauduta voissa ja tarjoa sinappikastikkeen kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-156",
+  "title": "Paistetut kuoreet",
+  "description": "Kuoreet huuhdellaan useaan kertaan, suolataan, kuivataan, kastetaan munamaitoon ja jauho-korppujauhoseokseen ja paistetaan voissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g kuoreita tai muikkuja perattuina",
+   "1 tl suolaa",
+   "1 kananmuna",
+   "2 rkl maitoa",
+   "2 rkl vehnäjauhoja",
+   "3 rkl korppujauhoja",
+   "4 rkl voita"
+  ],
+  "instructions": [
+   "Huuhtele kalat ja suolaa ne hetkeksi.",
+   "Kuivaa liinassa, kasta munamaitoon ja jauho-korppujauhoseokseen.",
+   "Paista voissa kullanruskeiksi."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-157",
+  "title": "Keitetty kapakala (stockfisk)",
+  "description": "Kuivattu turska nuijitaan, liotetaan vuorokausi, nahka ja ruodot poistetaan ja liha keitetään hiljaa mureaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "turska",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g kuivattua turskaa (kapakalaa)",
+   "3 l vettä liotukseen",
+   "1,5 l vettä keittämiseen",
+   "1 tl suolaa",
+   "100 g voita sulatettuna"
+  ],
+  "instructions": [
+   "Kostuta kala, nuija sitä ja liota vedessä vuorokausi.",
+   "Poista nahka ja ruodot ja keitä palat hiljaa mureiksi; kuori vaahto.",
+   "Tarjoa sulatetun voin kanssa."
+  ],
+  "cookTimeMin": 60
+ },
+ {
+  "id": "kokkikirja-158",
+  "title": "Kapakala maitokastikkeessa",
+  "description": "Keitetty kapakala haudutetaan voi-jauho-maitokastikkeessa suolan, sokerin ja muskottikukan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "turska",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g kuivattua turskaa liotettuna ja keitettynä",
+   "3 rkl voita",
+   "3 rkl vehnäjauhoja",
+   "6 dl maitoa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa"
+  ],
+  "instructions": [
+   "Valmista kala kuten keitetty kapakala ja revi palasiksi.",
+   "Kuullota voi ja jauhot, lisää maito ja mausteet ja keitä kastikkeeksi.",
+   "Lisää kala ja kiehauta."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-159",
+  "title": "Lipeäkala",
+  "description": "Kuiva kala liotetaan koivuntuhkasta ja kalkista keitetyssä lipeässä ja huuhdellaan monta päivää; keitetään ja tarjotaan valkokastikkeen, voin ja perunoiden kanssa – joulupöydän perinne.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "joulu",
+   "perinneruoka",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kg valmiiksi liotettua lipeäkalaa (kaupasta)",
+   "1 tl suolaa",
+   "Valkokastike:",
+   "3 rkl voita",
+   "3 rkl vehnäjauhoja",
+   "6 dl maitoa",
+   "½ tl suolaa",
+   "ripaus valkopippuria",
+   "ripaus muskottipähkinää",
+   "keitettyjä perunoita ja maustepippuria tarjoiluun"
+  ],
+  "instructions": [
+   "(Alkuperäisessä kala liotettiin itse lipeässä ja huuhdeltiin päiviä – käytä valmista lipeäkalaa.)",
+   "Laita kala vuokaan, ripottele suola ja kypsennä foliolla peitettynä 175 asteessa noin 25 minuuttia; kaada neste pois.",
+   "Keitä valkokastike ja tarjoa kalan, perunoiden ja jauhetun maustepippurin kanssa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-160",
+  "title": "Keitetyt ravut",
+  "description": "Ravut kaadetaan elävinä kiehuvaan suola-tillilienteen ja keitetään tulipunaisiksi; vadille nuorten tillien tai persiljan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "rapu",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "40 elävää rapua",
+   "4 l vettä",
+   "1,5 dl suolaa",
+   "1 iso nippu kruunutilliä",
+   "tuoretta tilliä tai persiljaa koristeeksi"
+  ],
+  "instructions": [
+   "Kiehauta vesi, suola ja tilli.",
+   "Pudota ravut elävinä kiehuvaan liemeen ja keitä noin 8 minuuttia tulipunaisiksi.",
+   "Asettele vadille tilliseppeleen kanssa."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-161",
+  "title": "Rapusalaatti öljy-keltuaiskastikkeessa",
+  "description": "Kuoritut ravunpyrstöt sekoitetaan kastikkeeseen, jossa on öljyä, viinietikkaa, hienonnettuja keltuaisia, sokeria ja pippuria.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "rapu",
+   "salaatti",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "300 g kuorittuja ravunpyrstöjä",
+   "1 dl rypsiöljyä",
+   "2 rkl viinietikkaa",
+   "3 kovaksi keitettyä munankeltuaista",
+   "1 tl sokeria",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Survo keltuaiset ja vatkaa öljy, etikka, sokeri ja pippuri joukkoon.",
+   "Sekoita ravunpyrstöt kastikkeeseen ja anna maustua hetki.",
+   "Tarjoa kulhossa."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-162",
+  "title": "Pehmeiksi keitetyt munat",
+  "description": "Munat keitetään 3–4 minuuttia ja jäähdytetään minuutiksi kylmässä vedessä; kirja neuvoo myös munan tuoreuden koettelun.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "2 l vettä"
+  ],
+  "instructions": [
+   "Laske munat kiehuvaan veteen: tuoreita 4 minuuttia, vanhempia 3 minuuttia.",
+   "Siirrä heti minuutiksi kylmään veteen ja tarjoa. (Alkuperäinen ohje neuvoo kokeilemaan tuoreutta kielenpäällä: pilaantuneen munan molemmat päät tuntuvat kylmiltä.)"
+  ],
+  "cookTimeMin": 10
+ },
+ {
+  "id": "kokkikirja-163",
+  "title": "Pehmeät munat sinappikastikkeessa",
+  "description": "Kuoritut, hyytyneet munat asetellaan lämpimälle vadille ja kastikkeeksi keltuaisia, ranskalaista sinappia, öljyä, etikkaa ja ripaus sokeria.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kananmuna",
+   "sinappi",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "Kastike:",
+   "3 kovaksi keitettyä munankeltuaista",
+   "1 tl ranskalaista sinappia",
+   "3 rkl rypsiöljyä",
+   "1 rkl etikkaa",
+   "1 tl sokeria"
+  ],
+  "instructions": [
+   "Keitä munat niin, että valkuainen hyytyy (noin 6 minuuttia), kuori ja asettele lämpimälle vadille.",
+   "Hiero keltuaiset ja sekoita sinappi, öljy, etikka ja sokeri kastikkeeksi.",
+   "Kaada kastike munien päälle."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-164",
+  "title": "Kovat munat kermakastikkeessa",
+  "description": "Puolitetut kovaksi keitetyt munat lämpimällä vadilla; päälle kastike voista, jauhoista, kermasta, sokerista ja muskottikukasta keltuaisilla sakeutettuna.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kananmuna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "3 dl kermaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "2 munankeltuaista"
+  ],
+  "instructions": [
+   "Keitä munat koviksi, kuori ja puolita. Pidä lämpimänä.",
+   "Keitä voi, jauhot ja kerma, mausta sokerilla ja muskottikukalla ja sakeuta keltuaisilla.",
+   "Kaada kastike munien päälle."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-165",
+  "title": "Munat kardemummakastikkeessa",
+  "description": "Viisi minuuttia keitetyt munat puolitetaan, ja kastike voista, jauhoista, kardemummasta, sokerista, muskottikukasta ja kermasta kaadetaan päälle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kananmuna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "1 rkl voita",
+   "1 rkl vehnäjauhoja",
+   "1 dl vettä",
+   "½ tl suolaa",
+   "½ tl kardemummaa",
+   "1 tl sokeria",
+   "ripaus muskottikukkaa",
+   "3 dl kermaa"
+  ],
+  "instructions": [
+   "Keitä munat 5 minuuttia, kuori ja puolita.",
+   "Keitä voi, jauhot, vesi ja mausteet, lisää kerma ja kiehauta.",
+   "Kaada kastike munien päälle."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-166",
+  "title": "Uppomunat (förlorade ägg)",
+  "description": "Tuoreet munat rikotaan yksitellen kiehuvaan veteen leveässä kattilassa ja keitetään, kunnes valkuainen pysyy koossa; muotoillaan lasin alla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "nopea",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 tuoretta kananmunaa",
+   "2 l vettä",
+   "1 rkl etikkaa"
+  ],
+  "instructions": [
+   "Kiehauta vesi ja etikka leveässä kattilassa.",
+   "Riko munat yksitellen veteen ja keitä, kunnes valkuainen hyytyy, noin 3 minuuttia. Kuori vaahto.",
+   "Nosta munat valumaan ja siisti reunat."
+  ],
+  "cookTimeMin": 15
+ },
+ {
+  "id": "kokkikirja-167",
+  "title": "Munajuusto (kermakokkeli)",
+  "description": "Kaksitoista munaa (neljä ilman valkuaista) vatkataan kermaan, suolaan ja persiljaan ja kypsennetään voissa hiljaa sekoittaen, kunnes seos on kiinteää.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "4 munankeltuaista",
+   "3 dl kermaa tai maitoa",
+   "½ tl suolaa",
+   "2 rkl persiljaa hienonnettuna",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Vatkaa munat, keltuaiset, kerma, suola ja persilja.",
+   "Sulata voi kattilassa ja kaada seos joukkoon.",
+   "Sekoita hiljaa pohjasta ja reunoilta, kunnes seos hyytyy pehmeäksi."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-168",
+  "title": "Kermapinaatti",
+  "description": "Ryöpätty pinaatti hienonnetaan jauhojen kanssa ja haudutetaan voissa, kermassa ja maidossa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pinaatti",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "600 g tuoretta pinaattia",
+   "2 rkl vehnäjauhoja",
+   "2 rkl voita",
+   "1,5 dl kermaa",
+   "1 dl maitoa",
+   "½ tl suolaa",
+   "ripaus muskottipähkinää"
+  ],
+  "instructions": [
+   "Ryöppää pinaatti ja valuta.",
+   "Ripottele jauhot joukkoon ja hienonna.",
+   "Sulata voi kattilassa, lisää pinaatti ja sekoita hetki. Lisää kerma ja maito, mausta ja hauduta."
+  ],
+  "cookTimeMin": 20
+ },
+ {
+  "id": "kokkikirja-169",
+  "skip": "yleinen suurustusohje, ei resepti"
+ },
+ {
+  "id": "kokkikirja-170",
+  "title": "Palkopavut persiljavoissa",
+  "description": "Perkatut sokeri- tai peltopavut keitetään voin ja persiljanipun kanssa ja suurustetaan; lopuksi hienonnettua persiljaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vihreitä papuja tai sokeriherneitä",
+   "5 dl vettä",
+   "1 rkl voita",
+   "1 nippu persiljaa",
+   "1 rkl voita suurustukseen",
+   "1 rkl vehnäjauhoja",
+   "2 rkl persiljaa hienonnettuna",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä pavut voin ja persiljanipun kanssa lähes kypsiksi.",
+   "Sekoita voi ja jauhot ja suurusta keitinliemellä.",
+   "Poista persiljanippu ja lisää hienonnettu persilja ja suola."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-171",
+  "title": "Palkopavut kermassa ravunpyrstöillä",
+  "description": "Kermassa suurustettuihin papuihin lisätään ravunpyrstöt, persilja, suola, sokeri ja muskotti – juhlava lisuke.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "äyriäiset",
+   "juhla",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g vihreitä papuja",
+   "5 dl vettä",
+   "1 rkl voita",
+   "2 dl kermaa",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "150 g ravunpyrstöjä",
+   "2 rkl persiljaa",
+   "½ tl suolaa",
+   "1 tl sokeria",
+   "ripaus muskottipähkinää"
+  ],
+  "instructions": [
+   "Keitä pavut voin kanssa pehmeiksi.",
+   "Lisää kerma ja suurusta voi-jauhoseoksella.",
+   "Lisää ravunpyrstöt, persilja ja mausteet ja kuumenna. Raasta pinnalle muskottia."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-172",
+  "title": "Keitetyt pavunpalot voin kanssa",
+  "description": "Pavunpalot keitetään persiljanipun, suolan ja voinokareen kanssa kannen alla 2–3 tuntia ja syödään sulatetun voin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "pavut",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "500 g leveitä papuja palkoineen",
+   "1 l vettä",
+   "1 nippu persiljaa",
+   "½ tl suolaa",
+   "1 rkl voita",
+   "75 g voita sulatettuna"
+  ],
+  "instructions": [
+   "Keitä palot persiljan, suolan ja voin kanssa kannen alla pehmeiksi (nykyiset pavut kypsyvät 15–20 minuutissa).",
+   "Valuta ja tarjoa sulatetun voin kanssa."
+  ],
+  "cookTimeMin": 25
+ },
+ {
+  "id": "kokkikirja-173",
+  "title": "Haudutetut linssit",
+  "description": "Linssit valmistetaan kuten sokeripavut: keitetään voin ja persiljan kanssa ja suurustetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "linssit",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3 dl linssejä",
+   "8 dl vettä",
+   "1 rkl voita",
+   "1 nippu persiljaa",
+   "1 rkl voita ja 1 rkl jauhoja suurustukseen",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Keitä linssit voin ja persiljanipun kanssa kypsiksi.",
+   "Suurusta voi-jauhoseoksella ja suolaa."
+  ],
+  "cookTimeMin": 35
+ },
+ {
+  "id": "kokkikirja-174",
+  "title": "Linssisose (purée)",
+  "description": "Puuroksi keitetyt linssit paseerataan ja haudutetaan voissa suolan, muskotin ja lihaliemen kanssa – lihan lisukkeeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "linssit",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "3 dl linssejä",
+   "1 l vettä",
+   "2 rkl voita",
+   "½ tl suolaa",
+   "ripaus muskottipähkinää",
+   "2 dl lihalientä"
+  ],
+  "instructions": [
+   "Keitä linssit pehmeiksi ja soseuta.",
+   "Sulata voi, lisää sose, suola ja muskotti ja ohenna liemellä.",
+   "Hauduta hetki ja tarjoa lihan kanssa."
+  ],
+  "cookTimeMin": 40
+ },
+ {
+  "id": "kokkikirja-175",
+  "title": "Valkokaalin neljännekset",
+  "description": "Kaalinkerän lohkot keitetään maidon ja veden seoksessa voin ja suolan kanssa ja tarjotaan suolaisten lihojen lisukkeena.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "kaali",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kaalinkerä neljänneksinä",
+   "5 dl maitoa",
+   "5 dl vettä",
+   "1 rkl voita",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kiehauta maito, vesi, voi ja suola.",
+   "Keitä kaalilohkot kypsiksi ja valuta.",
+   "Tarjoa suolaisten lihojen kanssa."
+  ],
+  "cookTimeMin": 30
+ },
+ {
+  "id": "kokkikirja-176",
+  "title": "Täytetty kaalinkerä",
+  "description": "Ryöpätty kaalinkerä halkaistaan, sydän hienonnetaan sianlihan kanssa, sekaan munat, ja täyte painellaan takaisin lehtien väliin; kerä keitetään liemessä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kaali",
+   "porsas",
+   "suomalainen"
+  ],
+  "ingredients": [
+   "1 kiinteä kaalinkerä",
+   "2 l suolavettä",
+   "300 g porsaan jauhelihaa",
+   "3 kananmunaa",
+   "½ tl suolaa",
+   "¼ tl valkopippuria",
+   "ripaus muskottia",
+   "1 l lihalientä"
+  ],
+  "instructions": [
+   "Ryöppää kerä suolavedessä ja valuta.",
+   "Halkaise ja kaiverra sisus. Hienonna sisus ja sekoita jauhelihaan, muniin ja mausteisiin.",
+   "Täytä puolikkaat, sido yhteen ja keitä liemessä noin tunti."
+  ],
+  "cookTimeMin": 90
+ }
+]
