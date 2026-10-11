@@ -35,6 +35,7 @@ const router = createBrowserRouter([
       { path: '/reseptit/:id', element: page(() => import('./pages/RecipeDetailPage'), 'RecipeDetailPage') },
       { path: '/reseptit/:id/muokkaa', element: page(() => import('./pages/RecipeEditPage'), 'RecipeEditPage') },
       { path: '/ostokset', element: page(() => import('./pages/ShoppingPage'), 'ShoppingPage') },
+      { path: '/kaappi', element: page(() => import('./pages/FridgePage'), 'FridgePage') },
       { path: '/profiili', element: page(() => import('./pages/ProfilePage'), 'ProfilePage') },
       { path: '/tuotteet', element: page(() => import('./pages/ProductsPage'), 'ProductsPage') },
       { path: '/tuotteet/uusi', element: page(() => import('./pages/ProductEditPage'), 'ProductEditPage') },

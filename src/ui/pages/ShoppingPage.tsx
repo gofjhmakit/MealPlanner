@@ -9,7 +9,7 @@
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Check, ChevronDown, Home, Plus, Printer, RotateCcw, Share2, ShoppingBasket, Trash2, X } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
-import { Link, useSearchParams } from 'react-router'
+import { Link, Navigate, useSearchParams } from 'react-router'
 import { db } from '../../db/db'
 import {
   deleteShoppingList,
@@ -36,7 +36,7 @@ import { MealThumb, Panel, Segmented } from '../components/v2'
 import { useMealItems, useRecipesById } from '../hooks'
 import { useScrollLock } from '../scrollLock'
 import { addTypedShoppingItem } from '../shoppingActions'
-import { FridgeView } from '../components/FridgeView'
+import { FridgeSwitch } from './FridgePage'
 
 type View = 'aisle' | 'dish' | 'home'
 type RecipeMap = Map<string, Recipe> | undefined
@@ -63,24 +63,12 @@ export function ShoppingPage() {
 
   const others = useLiveQuery(() => db.shoppingLists.filter((l) => l.id !== ROLLING_LIST_ID).reverse().sortBy('createdAt'), [])
   const listId = requested && others?.some((l) => l.id === requested) ? requested : ROLLING_LIST_ID
-  const fridge = params.get('tila') === 'kaappi'
-  const modeSwitch = (
-    <div className="no-print mb-4">
-      <Segmented label="Näkymä" value={fridge ? 'fridge' : 'list'} onChange={(v) => setParams(v === 'fridge' ? { tila: 'kaappi' } : {}, { replace: true })} options={[{ value: 'list', label: 'Ostoslista' }, { value: 'fridge', label: 'Mitä kaapista?' }]} />
-    </div>
-  )
-  if (fridge)
-    return (
-      <div className="fade-in">
-        {modeSwitch}
-        <PageHeader eyebrow="Ostokset" title="Mitä kaapista?" subtitle="Kerro mitä kotona on, niin katsotaan mitä siitä saa tehtyä." />
-        <FridgeView />
-      </div>
-    )
+  // Old address of the fridge view.
+  if (params.get('tila') === 'kaappi') return <Navigate to="/kaappi" replace />
   if (!ready && listId === ROLLING_LIST_ID) return <Spinner label="Kootaan ostoksia…" />
   return (
     <div className="fade-in">
-      {!requested && modeSwitch}
+      {!requested && <FridgeSwitch current="list" />}
       <ListView key={listId} listId={listId} onBack={() => setParams({})} />
       {others && others.length > 0 && (
         <details className="no-print mt-8 text-sm text-muted">

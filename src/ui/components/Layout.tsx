@@ -3,9 +3,9 @@
  *   < 1024      bottom tab bar: Tänään · Viikko · (+) · Reseptit · Ostokset; profile under the avatar
  *   1024–1279   72 px icon rail + top bar with the command field
  *   ≥ 1280      236 px sidebar with the household (264 px from 1920)
- * Keyboard: 1–4 switch sections, ⌘K / Ctrl+K / "/" open the command bar.
+ * Keyboard: 1–5 switch sections, ⌘K / Ctrl+K / "/" open the command bar.
  */
-import { BookOpen, CalendarDays, X, Download, Monitor, Moon, Package, Plus, Search, Settings, ShoppingCart, Sun, SunMedium, User } from 'lucide-react'
+import { BookOpen, CalendarDays, X, Download, Monitor, Moon, Package, Plus, Refrigerator, Search, Settings, ShoppingCart, Sun, SunMedium, User } from 'lucide-react'
 import { useEffect, useLayoutEffect, useRef, useState, useSyncExternalStore, type ReactNode } from 'react'
 import { createPortal } from 'react-dom'
 import { Link, NavLink, Outlet, useLocation, useNavigate, useNavigationType } from 'react-router'
@@ -20,6 +20,8 @@ export const NAV = [
   { to: '/viikko', label: 'Viikko', icon: CalendarDays, key: '2' },
   { to: '/reseptit', label: 'Reseptit', icon: BookOpen, key: '3' },
   { to: '/ostokset', label: 'Ostokset', icon: ShoppingCart, key: '4' },
+  // Side menu only: the phone tab bar is full and picks NAV[0..3]; phones reach it from Ostokset.
+  { to: '/kaappi', label: 'Mitä kaapista?', icon: Refrigerator, key: '5' },
 ]
 
 const MORE = [
