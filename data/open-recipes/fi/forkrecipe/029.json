@@ -1,0 +1,468 @@
+[
+  {
+    "id": "forkrecipe-salt-and-pepper-squid",
+    "title": "Suola-pippurikalmari",
+    "description": "Kalmarirenkaat ja lonkerot kieritetään maustetussa perunajauhossa ja friteerataan pikaisesti, kunnes kuori rapisee, ja viimeistellään wokissa valkosipulin, chilin ja kevätsipulin kanssa, jotka maustavat kuoren pehmentämättä sitä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["kiinalainen", "äyriäiset", "wokki", "gluteeniton", "nopea"],
+    "ingredients": [
+      "500 g tuoreita kalmarin vaippoja ja lonkeroita, puhdistettuina",
+      "125 g perunajauhoja",
+      "2 tl suolaa",
+      "1 tl valkopippuria, karkeaksi jauhettuna",
+      "1 tl sichuaninpippuria, paahdettuna ja jauhettuna",
+      "1 l rypsiöljyä friteeraukseen",
+      "5 valkosipulinkynttä, ohuina viipaleina",
+      "1 pitkä punainen chili ja 1 vihreä chili, ohuina renkaina",
+      "4 kevätsipulia, 3 cm paloina"
+    ],
+    "instructions": [
+      "Avaa kalmarin vaipat ja viillä sisäpintaan ristikkokuvio 5 mm välein, jolloin jauho tarttuu ja kalmari kiertyy öljyssä. Leikkaa 4 cm paloiksi ja jätä lonkerot kokonaisiksi. Kuivaa kaikki erittäin huolellisesti talouspaperilla.",
+      "Sekoita kulhossa perunajauho, suola, valkopippuri ja sichuaninpippuri. Lisää kuivattu kalmari ja kääntele, kunnes se on kokonaan jauhon peitossa. Ravista ylimääräinen jauho pois siivilässä; kerroksen pitää olla ohut ja tasainen.",
+      "Kuumenna öljy wokissa tai syvässä kattilassa 200 asteeseen. Friteeraa pienissä erissä tasan 90 sekuntia; älä sekoita ensimmäiseen 30 sekuntiin. Nosta heti ritilälle.",
+      "Kaada suurin osa öljystä pois, niin että wokkiin jää ohut kalvo. Lisää kovalla lämmöllä valkosipuli, chilit ja kevätsipuli ja paista 20–30 sekuntia, kunnes valkosipuli on juuri vaalean kullanruskea. Palauta kalmari ja kääntele nopeasti 15 sekuntia. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-salt-baked-branzino",
+    "title": "Suolakuoressa paistettu meribassi",
+    "description": "Kokonainen meribassi haudataan paksuun valkuaisella sidottuun suolakuoreen ja paistetaan: kivennäinen kuori sulkee höyryn ja kosteuden sisäänsä, ja kala kypsyy uskomattoman hellävaraisesti omien yrttiensä keskellä.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 50,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "kala", "juhla", "gluteeniton", "uuniruoka"],
+    "ingredients": [
+      "1 kokonainen meribassi (n. 600 g), perattuna ja suomustettuna",
+      "1,5 kg karkeaa merisuolaa (jodioimatonta)",
+      "3 kananmunan valkuaista",
+      "1 sitruuna, ohuina viipaleina",
+      "1 pieni nippu tuoreita fenkolinlehtiä",
+      "4 oksaa tuoretta timjamia",
+      "4 oksaa lehtipersiljaa",
+      "2 rkl ekstra-neitsytoliiviöljyä tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen. Sekoita karkea suola ja valkuaiset isossa kulhossa käsin, kunnes seos on kuin märkää hiekkaa ja pysyy nyrkissä puristettuna koossa. Lisää tarvittaessa neljäs valkuainen.",
+      "Varmista, että vatsaontelo on puhdas ja kuiva. Mausta sisäpuoli kevyesti suolalla. Asettele sitruunaviipaleet ontelon pohjalle ja täytä ontelo fenkolilla, timjamilla ja persiljalla.",
+      "Levitä kolmannes suolaseoksesta reunalliselle pellille kalan muotoiseksi, noin 1,5 cm paksuksi alustaksi. Aseta täytetty kala sen päälle. Painele loput suolaseoksesta tiiviisti kalan päälle ja sivuille vähintään 1,5 cm paksuksi kuoreksi; huolehdi erityisesti päästä ja pyrstöstä. Kala ei saa näkyä. Silota pinta märin kämmenin.",
+      "Paista 190 °C:ssa 25–30 minuuttia 600 g kalalle; lisää 5 minuuttia jokaista lisä-200 g kohden. Kuori kovettuu liidunvalkoiseksi. Kuoren läpi pistetyn lämpömittarin pitää näyttää kalan paksuimmasta kohdasta 58–60 °C.",
+      "Tuo pelti pöytään. Riko kuori raskaan lusikan selällä tai pienellä nuijalla selkärangan suuntaisesti ja nosta palat pois. Nosta ylempi filee irti, poista ruoto yhtenä kappaleena ja nosta alempi filee lastalla. Tarjoa lämmitetyiltä lautasilta reilun oliiviöljyn ja ontelossa kypsyneiden sitruunaviipaleiden kanssa."
+    ]
+  },
+  { "id": "forkrecipe-salt-baked-sea-bass", "skip": "lähes kaksoiskappale (suolakuoressa paistettu meribassi)" },
+  {
+    "id": "forkrecipe-salt-cod-brandade",
+    "title": "Brandade de morue – suolaturskatahna",
+    "description": "Provencelainen suolaturska survotaan tai soseutetaan oliiviöljyn ja lämpimän maidon kanssa sileäksi, norsunluunvalkoiseksi emulsioksi – tiivis, ylellinen ja parhaalla tavalla kalainen. Levitetään leivälle tai gratinoidaan vuoassa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1560,
+    "category": "Välipalat",
+    "tags": ["ranskalainen", "kala", "levite", "gluteeniton"],
+    "ingredients": [
+      "400 g suolaturskaa, luineen ja nahkoineen",
+      "2 valkosipulinkynttä, kuorittuina",
+      "1,5 dl ekstra-neitsytoliiviöljyä, kevyesti lämmitettynä",
+      "1 dl täysmaitoa, kädenlämpöisenä",
+      "2 tl sitruunamehua",
+      "ripaus valkopippuria, vastajauhettuna",
+      "1 tl tuoretta timjamia, lehdet"
+    ],
+    "instructions": [
+      "Aseta suolaturska nahka ylöspäin isoon kulhoon ja peitä kylmällä vedellä. Pidä jääkaapissa vuorokausi ja vaihda vesi vähintään kolme kertaa. Maista lopuksi ohut pala paksuimmasta kohdasta: sen pitää maistua miellyttävän suolaiselta. Liota tarvittaessa vielä 2 tuntia.",
+      "Laita liotettu kala leveään kattilaan, peitä tuoreella kylmällä vedellä ja lisää timjami. Kuumenna hitaasti juuri ja juuri kiehumispisteeseen ja hauduta 10–12 minuuttia keittämättä, kunnes kala irtoaa lohkoiksi. Nosta pois ja anna jäähtyä hieman.",
+      "Poista nahka ja kaikki ruodot. Survo kala ja raaka valkosipuli huhmaressa tahnaksi tai sykäytä monitoimikoneessa hienoksi, hieman rakeiseksi massaksi.",
+      "Lisää lämmin oliiviöljy ohuena nauhana koko ajan sekoittaen kuin majoneesia tehdessä. Kun puolet öljystä on lisätty, lisää ruokalusikallinen lämmintä maitoa. Lisää vuorotellen öljyä ja maitoa, kunnes kaikki on sekoittunut ja brandade on sileää, kuohkeaa ja norsunluunvalkoista. Mausta valkopippurilla ja sitruunamehulla. Tarjoa lämpimänä paahdetun leivän kanssa tai gratinoi uunissa."
+    ]
+  },
+  { "id": "forkrecipe-salt-crusted-fish", "skip": "lähes kaksoiskappale (suolakuoressa paistettu meribassi)" },
+  {
+    "id": "forkrecipe-saltimbocca",
+    "title": "Saltimbocca alla romana",
+    "description": "Vasikanleikkeet peitetään prosciuttolla ja salvialla ja paistetaan voissa, kunnes kinkku rapisee ja valkoviinikastike tarttuu jokaiseen poimuun.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "liha", "nopea"],
+    "ingredients": [
+      "2 vasikanleikettä (à 150 g)",
+      "60 g prosciuttoa, paperinohuina viipaleina",
+      "6 lehteä tuoretta salviaa",
+      "40 g suolatonta voita",
+      "0,8 dl kuivaa valkoviiniä",
+      "2 rkl vehnäjauhoja",
+      "ripaus suolaa",
+      "ripaus valkopippuria, vastajauhettuna"
+    ],
+    "instructions": [
+      "Aseta kukin leike kahden kelmun väliin ja nuija 5–6 mm paksuksi vinoin, venyttävin lyönnein keskeltä reunoille. Mausta vain valkopippurilla, sillä prosciutto suolaa.",
+      "Asettele 2–3 salvianlehteä kunkin leikkeen sileälle puolelle ja peitä ne ja koko leike prosciuttolla niin, että kinkku ulottuu hieman reunojen yli. Kiinnitä hammastikulla. Suolaa lihapuoli hyvin kevyesti, kieritä jauhoissa ja taputtele ylimääräiset jauhot pois.",
+      "Kuumenna iso teräspannu keskikovalla lämmöllä. Lisää voi ja anna sen vaahdota ja laskea. Aseta leikkeet pannulle prosciuttopuoli alaspäin ja paina lastalla 10 sekuntia. Paista 2–3 minuuttia, kunnes kinkku rapisee. Käännä ja paista lihapuolta vain 60–90 sekuntia.",
+      "Nosta leikkeet lämpimälle lautaselle. Kaada viini kuumalle pannulle ja raaputa pohja. Keitä puoleen, noin 90 sekuntia. Nosta pannu liedeltä, lisää kylmä voinokare ja pyörittele, kunnes kastike on kiiltävää. Kaada leikkeiden päälle ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-sambal-oelek",
+    "title": "Sambal oelek – indonesialainen chilitahna",
+    "description": "Indonesian peruschilitahna: tuoreet punaiset chilit, suola ja tilkka etikkaa survotaan huhmaressa karkeaksi, tuliseksi tahnaksi, jonka puhdas tulisuus ja hedelmäinen raikkaus ovat lukemattomien ruokien pohja.",
+    "servings": 12,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 15,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["indonesialainen", "vegaaninen", "kasvis", "tulinen", "nopea"],
+    "ingredients": [
+      "200 g tuoreita punaisia chilejä (keskitulisia), kannat poistettuina",
+      "20 g punaisia lintusilmächiliä (valinnainen, lisätulisuutta)",
+      "3 valkosipulinkynttä, kuorittuina",
+      "1½ tl suolaa",
+      "1 rkl väkiviinaetikkaa tai valkoviinietikkaa"
+    ],
+    "instructions": [
+      "Pilko chilit karkeasti: halkaise pituussuunnassa ja leikkaa kolmeen osaan. Miedompaa sambalia varten kaavi siemenet ja kalvot pois. Kuori valkosipulit. Älä hienonna.",
+      "Siirrä chilit ja valkosipulit isoon kivihuhmareeseen ja lisää suola. Survo päättäväisin, alaspäin suuntautuvin iskuin ja lopuksi pyörittäen, kunnes tahna on karkeaa ja siinä näkyy chilin kuoren ja siementen paloja, yhteensä 3–4 minuuttia. Tehosekoitin tekee tahnasta liian tasaisen.",
+      "Kaada etikka tahnan päälle ja sekoita. Maista: sambalin pitää olla raivokkaan tulista, kirkkaan hapanta ja puhtaan suolaista. Säädä suolalla, etikalla tai valkosipulilla. Siirrä puhtaaseen lasipurkkiin ja paina pinta tasaiseksi. Säilyy jääkaapissa 2 viikkoa."
+    ]
+  },
+  {
+    "id": "forkrecipe-sambar",
+    "title": "Sambar – eteläintialainen linssi-kasviskeitto",
+    "description": "Hapan, mausteinen kyyhkyhernekeitto kasviksilla ja tamarindipohjalla – yhtä aikaa keitto, kastike ja lisuke, joka kaadetaan riisin päälle tai tarjotaan idlien ja dosien kanssa.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Keitot",
+    "tags": ["intialainen", "vegaaninen", "kasvis", "gluteeniton", "linssit"],
+    "ingredients": [
+      "200 g halkaistuja kyyhkyherneitä (toor dal)",
+      "2 rkl tamarinditahnaa",
+      "400 g munakoisoa, helmisipulia, tomaattia ja porkkanaa (yhteensä)",
+      "3 rkl sambar-mausteseosta",
+      "1,5 l vettä",
+      "2 rkl rypsiöljyä",
+      "2 tl mustia sinapinsiemeniä",
+      "15 tuoretta curryn lehteä",
+      "3 kuivattua punaista chiliä",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Huuhtele herneet, kunnes vesi on kirkasta. Keitä painekattilassa osalla vedestä 3 vihellyksen verran tai kannellisessa kattilassa 30–35 minuuttia täysin pehmeiksi. Vatkaa tai muussaa sileäksi.",
+      "Yhdistä hernesose, tamarindi, sambar-mausteseos, suola ja kasvikset leveässä kattilassa. Lisää loput vedestä, niin että seoksesta tulee ohutta keittoa. Kuumenna kiehuvaksi ja hauduta 15–20 minuuttia, kunnes kasvikset ovat pehmeitä.",
+      "Kuumenna öljy pienessä pannussa kovalla lämmöllä, kunnes se alkaa savuta. Lisää sinapinsiemenet ja peitä kannella; ne poksahtelevat 10 sekunnissa. Lisää curryn lehdet (varo roiskeita) ja chilit ja sekoita 15 sekuntia. Kaada koko tarka sambarin joukkoon ja tarjoa riisin, idlien tai dosien kanssa."
+    ]
+  },
+  { "id": "forkrecipe-samosa-filling", "skip": "lähes kaksoiskappale (perunasamosat)" },
+  {
+    "id": "forkrecipe-samosa",
+    "title": "Perunasamosat",
+    "description": "Rapeat, rakkulaiset taikinapyramidit, joiden sisällä on kuivatulla mangojauheella ja garam masalalla maustettua perunaa ja herneitä – ulkoa rapisevia ja sisältä pehmeitä, kirpeitä ja lämpimiä. Pohjoisintialaisen teehetken klassikko.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 90,
+    "category": "Välipalat",
+    "tags": ["intialainen", "kasvis", "peruna", "katuruoka"],
+    "ingredients": [
+      "Taikina:",
+      "250 g vehnäjauhoja",
+      "50 g gheetä tai leivontarasvaa",
+      "0,7 dl jääkylmää vettä",
+      "1 tl suolaa",
+      "Täyte:",
+      "400 g kiinteitä perunoita, keitettyinä, jäähdytettyinä ja karkeasti muussattuina",
+      "80 g pakasteherneitä, sulatettuina",
+      "1 vihreä chili, hienonnettuna",
+      "10 g tuoretta inkivääriä, hienoksi raastettuna",
+      "2 tl juustokuminaa, kokonaisena",
+      "2 tl amchuria (kuivattua mangojauhetta)",
+      "1½ tl garam masalaa",
+      "1 tl suolaa",
+      "8 dl rypsiöljyä friteeraukseen"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja puolet suolasta kulhossa. Nypi ghee jauhoihin sormenpäillä karkeaksi muruksi. Lisää jääkylmä vesi ruokalusikallinen kerrallaan haarukalla sekoittaen, kunnes taikina juuri pysyy koossa. Taikinan pitää olla leipätaikinaa kiinteämpää. Vaivaa vain minuutti, kääri kelmuun ja anna levätä huoneenlämmössä 30 minuuttia.",
+      "Kuumenna 2 rkl paistoöljyä pannulla keskilämmöllä. Paista juustokuminaa 30 sekuntia, kunnes se rätisee ja tummuu. Lisää chili ja inkivääri ja paista minuutti. Lisää perunat ja herneet ja kääntele varovasti, jotta perunaan jää rakennetta. Lisää amchur, garam masala ja loput suolasta ja kypsennä 2–3 minuuttia, kunnes täyte on tuoksuva ja hieman kuiva. Täytteen on jäähdyttävä kokonaan ennen käärimistä.",
+      "Jaa taikina 10–12 palloon. Kauli kukin kevyesti jauhotetulla alustalla noin 15 × 8 cm soikioksi, 2–3 mm paksuksi. Leikkaa soikio poikittain kahtia. Muotoile kustakin puolikkaasta tötterö: kostuta suora reuna vedellä, limitä reunat 5 mm ja paina tiiviisti. Täytä kaksi kolmasosaa jäähtyneellä täytteellä, kostuta avoin reuna ja paina se kiinni kolmioksi. Saumojen on oltava täysin tiiviit.",
+      "Kuumenna öljy syvässä kattilassa 160 asteeseen – odotettua matalampaan lämpöön. Paista 3–4 samosaa kerrallaan, kääntäen 2 minuutin välein, 10–12 minuuttia tasaisen syvän kullanruskeiksi. Nosta lämpö 175 asteeseen viimeisiksi 2 minuutiksi rapeuttamaan pinta. Valuta pystyasennossa ritilällä tai siivilässä."
+    ]
+  },
+  { "id": "forkrecipe-samosas", "skip": "lähes kaksoiskappale (perunasamosat)" },
+  {
+    "id": "forkrecipe-satay-marinade",
+    "title": "Satay-vartaat ja maapähkinäkastike",
+    "description": "Kurkuman kullankeltaiseksi värjäämät kana- tai naudanlihavartaat marinoidaan sitruunaruohossa, korianterissa ja kookosmaidossa ja grillataan hiilillä kärjistä karamellisoituneiksi. Kaverina niin täyteläinen maapähkinä-kookoskastike, että sitä voisi syödä lusikalla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["aasialainen", "kana", "grilli", "katuruoka"],
+    "ingredients": [
+      "500 g broilerin rintafileetä, naudanlihaa tai tofua, ohuina viipaleina",
+      "Marinadi:",
+      "2 tl jauhettua kurkumaa",
+      "2 tl jauhettua korianteria",
+      "1 tl jauhettua juustokuminaa",
+      "1 varsi sitruunaruohoa, valkoinen osa hienoksi raastettuna",
+      "1 rkl palmusokeria tai vaaleaa fariinisokeria",
+      "1 dl täysrasvaista kookosmaitoa",
+      "Maapähkinäkastike:",
+      "120 g paahdettuja maapähkinöitä, hienoksi murskattuina",
+      "1 dl kookosmaitoa",
+      "1 rkl tamarinditahnaa liuotettuna 2 rkl:aan vettä",
+      "1 rkl kalakastiketta tai soijakastiketta",
+      "1 tl chilihiutaleita tai sambal oelekia"
+    ],
+    "instructions": [
+      "Sekoita kulhossa kurkuma, korianteri, kumina, sitruunaruoho ja palmusokeri. Kaada joukkoon kookosmaito ja vatkaa, kunnes mausteet ovat sekoittuneet ja sokeri liuennut. Kurkuma värjää, joten käytä lasista tai keraamista kulhoa. Lisää liha ja marinoi vähintään tunti, mieluiten yön yli jääkaapissa. Liota bambuvartaita vedessä.",
+      "Yhdistä murskatut maapähkinät, kookosmaito, tamarindivesi, kalakastike ja chili pienessä kattilassa. Kuumenna keskilämpöä miedommalla lämmöllä usein sekoittaen 8–10 minuuttia, kunnes kastike sakenee ja reunoille erottuu kookosöljyä. Löysennä tarvittaessa vedellä. Maun pitää olla tasapainoisesti makea, suolainen, hapan ja tulinen. Tarjoa lämpimänä.",
+      "Pujota marinoitu liha liotettuihin vartaisiin, 3–4 ohutta viipaletta vartaaseen, litteäksi. Grillaa kovalla lämmöllä (mieluiten hiilillä) 2–3 minuuttia per puoli, kunnes kärjet ja reunat karamellisoituvat ja liha on juuri kypsää. Sivele ensimmäisellä käännöllä lopulla marinadilla. Tarjoa maapähkinäkastikkeen kanssa."
+    ]
+  },
+  { "id": "forkrecipe-satay-peanut-sauce", "skip": "lähes kaksoiskappale (thaimaalainen maapähkinäkastike)" },
+  { "id": "forkrecipe-satay-sauce", "skip": "lähes kaksoiskappale (thaimaalainen maapähkinäkastike)" },
+  {
+    "id": "forkrecipe-sauce-robert",
+    "title": "Robert-kastike",
+    "description": "Yksi espagnolen vanhimmista jälkeläisistä: tumma kastike hitaasti hiostetusta sipulista, jota terävöittää kokoon keitetty valkoviini ja joka viimeistellään liedeltä nostettuna dijonsinapilla. Kirpeä, sinappinen ja suolainen – porsaanpaistin ja grillatun lihan klassinen kaveri.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 60,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "liha"],
+    "ingredients": [
+      "Espagnole-pohja:",
+      "1,2 l tummaa vasikanlientä",
+      "100 g kirkastettua voita",
+      "100 g vehnäjauhoja",
+      "200 g sipulia, porkkanaa ja varsiselleriä, pieninä kuutioina",
+      "3 rkl tomaattipyreetä",
+      "1½ tl suolaa",
+      "1 maustekimppu",
+      "Lisäksi:",
+      "2 sipulia (n. 200 g), hienoksi kuutioituna",
+      "3 dl kuivaa valkoviiniä",
+      "3 rkl dijonsinappia"
+    ],
+    "instructions": [
+      "Sulata kolmannes voista paksupohjaisessa kattilassa keskilämmöllä. Ruskista juurekset välillä sekoittaen 12–18 minuuttia syvän ruskeiksi ja makeiksi.",
+      "Sulata loput voista kattilan tyhjässä kohdassa, ripottele jauhot joukkoon ja paahda suurustetta lähes jatkuvasti sekoittaen 10–20 minuuttia kastanjanruskeaksi. Lisää tomaattipyree ja paista 3–5 minuuttia, kunnes se tummuu ja tuoksuu makealta.",
+      "Lisää liemi muutama kauhallinen kerrallaan vatkaten paakuttomaksi. Lisää maustekimppu ja hauduta hyvin hiljaisella kiehunnalla 2–3 tuntia rasvaa ja vaahtoa kuorien, ja mausta suolalla loppuvaiheessa. Kun kastike on vähentynyt noin kolmanneksen ja peittää lusikan, siivilöi se. Tämä on espagnole-pohja.",
+      "Sulata toisessa kattilassa hieman kirkastettua voita keskilämpöä miedommalla lämmöllä ja lisää hienonnettu sipuli. Hiosta usein sekoittaen 8–12 minuuttia pehmeäksi ja läpikuultavaksi, juuri kullastumaan.",
+      "Kaada valkoviini sipulien päälle ja keitä reippaasti, kunnes viini on vähentynyt siirappimaiseksi ja peittää juuri ja juuri sipulit, 5–8 minuuttia.",
+      "Kaada siivilöity espagnole sipuli-viinireduktioon ja hauduta hiljaa 8–10 minuuttia vaahto kuorien. Nosta kattila pois lämmöltä, anna kiehumisen lakata ja vatkaa sinappi joukkoon. Älä enää keitä sinapin lisäämisen jälkeen. Tarkista suola ja tarjoa lämpimänä."
+    ]
+  },
+  {
+    "id": "forkrecipe-sauce-supreme",
+    "title": "Suprême-kastike",
+    "description": "Kanavelouté, joka keitetään kerman kanssa täyteläiseksi, norsunluunvalkoiseksi ja kiiltäväksi ja viimeistellään kylmällä voilla peilikiiltoon. Valkoisten kastikkeiden kuningatar haudutetulle kanalle ja siipikarjalle.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 50,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "kana"],
+    "ingredients": [
+      "6 dl vaaleaa kanalientä, lämmintä",
+      "50 g suolatonta voita",
+      "50 g vehnäjauhoja",
+      "1 tl suolaa",
+      "ripaus valkopippuria",
+      "2 dl kuohukermaa",
+      "50 g kylmää voita, kuutioina (viimeistelyyn)"
+    ],
+    "instructions": [
+      "Sulata voi keskilämpöä miedommalla lämmöllä vaahtoavaksi mutta ruskistamatta ja vatkaa joukkoon jauhot. Kypsennä sekoittaen 4–6 minuuttia, kunnes raa'an jauhon tuoksu katoaa ja suuruste on vaalean oljenväristä.",
+      "Nosta kattila liedeltä ja vatkaa lämmin liemi suurusteeseen kolmessa tai neljässä erässä. Palauta keskilämmölle, kuumenna vatkaten hiljaa kiehuvaksi ja hauduta kuorien, kunnes pinta on puhdas.",
+      "Kaada kerma kiehuvaan veloutéen. Keitä keskilämpöä miedommalla lämmöllä usein sekoittaen ja pohjaa kaapien, kunnes kastike on norsunluunvalkoista ja peittää lusikan selän; määrä vähenee noin kolmanneksella.",
+      "Nosta liedeltä ja vatkaa kylmä voi joukkoon kuutio kerrallaan pannua pyöritellen. Mausta suolalla ja valkopippurilla. Pidä lämpimänä, mutta älä enää keitä, ettei voi erotu."
+    ]
+  },
+  {
+    "id": "forkrecipe-sauce-tomate",
+    "title": "Klassinen ranskalainen tomaattikastike (sauce tomate)",
+    "description": "Escoffierin peruskastike – ei pikamarinara. Tomaatit sulatetaan porsaanrasvaan ja juureksiin, kostutetaan vaalealla liemellä, maustetaan maustekimpulla ja haudutetaan hitaasti hillomaiseksi, ja lopuksi kastike passeerataan sileäksi ja samettiseksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 40,
+    "totalTimeMin": 150,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "kastike", "tomaatti"],
+    "ingredients": [
+      "1 kg kypsiä tomaatteja (tai kuorittuja San Marzano -tomaatteja)",
+      "100 g pekonia pieninä kuutioina (tai voita)",
+      "250 g sipulia, porkkanaa ja varsiselleriä, pieninä kuutioina",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "5 dl vaaleaa kana- tai vasikanlientä",
+      "1 tl sokeria",
+      "1 tl suolaa",
+      "1 maustekimppu"
+    ],
+    "instructions": [
+      "Laita pekonikuutiot paksupohjaiseen kattilaan keskilämpöä miedommalle lämmölle (tai sulata voi). Anna rasvan sulaa hitaasti ruskistamatta.",
+      "Lisää juurekset ja valkosipuli rasvaan ja hiosta usein sekoittaen, kunnes sipuli on läpikuultavaa ja kaikki on pehmennyt. Älä anna ruskistua.",
+      "Lisää pilkotut tomaatit (säilyketomaatit käsin murskattuina) ja sokeri. Nosta lämpö reippaaseen kiehuntaan ja keitä sekoittaen, kunnes tomaatit ovat hajonneet paksuksi, hillomaiseksi pohjaksi.",
+      "Kaada joukkoon liemi, lisää maustekimppu ja mausta kevyesti suolalla. Kuumenna hiljaiseen kiehuntaan ja hauduta osittain kannella peitettynä vähintään puolitoista tuntia, kuoren rasvan ja vaahdon pinnalta. Kastikkeen pitää väreillä, ei kiehua.",
+      "Poista maustekimppu ja pekonin palat. Passeeraa kastike vihannesmyllyn läpi tai paina kauhalla hienon siivilän läpi. Palauta lämmölle, maista ja tasapainota suolalla ja ripauksella sokeria sileäksi, samettiseksi kastikkeeksi."
+    ]
+  },
+  {
+    "id": "forkrecipe-sauerbraten",
+    "title": "Reininmaan sauerbraten – hapanpaisti",
+    "description": "Saksalaisen patapaistin aatelia: naudanlihaa marinoidaan kolmesta neljään päivää punaviinietikassa, viinissä ja mausteissa, kunnes sitkeä paisti muuttuu silkkiseksi, ja haudutetaan hitaasti. Kastikkeeseen sekoitetaan murskattuja piparkakkuja, jotka antavat Reininmaalle ominaisen makeanhappaman täyteläisyyden.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["saksalainen", "liha", "pataruoka", "juhla"],
+    "ingredients": [
+      "1,5 kg naudan paahtopaistia tai kulmapaistia, sidottuna",
+      "Marinadi:",
+      "2,5 dl punaviinietikkaa",
+      "2,5 dl kuivaa punaviiniä",
+      "2,5 dl vettä",
+      "1 valkosipuli (n. 200 g), karkeasti viipaloituna",
+      "1–2 vartta lehtiselleriä (n. 100 g), karkeasti pilkottuna",
+      "1 porkkana (n. 100 g), karkeasti pilkottuna",
+      "3 laakerinlehteä",
+      "8 katajanmarjaa, kevyesti murskattuina",
+      "4 neilikkaa",
+      "10 mustapippuria, kokonaisina",
+      "1 rkl sokeria",
+      "2 tl suolaa",
+      "Haudutukseen:",
+      "2 rkl laardia tai rypsiöljyä",
+      "80 g piparkakkuja, murskattuina",
+      "80 g kermaviiliä (valinnainen)"
+    ],
+    "instructions": [
+      "Älä kuumenna marinadia. Yhdistä etikka, viini, vesi, kasvikset, mausteet, sokeri ja suola isossa lasisessa, keraamisessa tai teräksisessä astiassa ja sekoita, kunnes suola ja sokeri liukenevat. Upota liha kokonaan marinadiin. Peitä ja pidä jääkaapissa 3–4 päivää, kääntäen lihaa kerran päivässä.",
+      "Nosta liha marinadista ja kuivaa huolellisesti. Siivilöi ja säästä marinadi. Kuumenna rasva raskaassa padassa kovalla lämmöllä lähes savuavaksi. Ruskista liha joka puolelta, myös päistä, 3–4 minuuttia per puoli liikuttamatta.",
+      "Kaada siivilöity marinadi lihan päälle; nesteen pitää ulottua vähintään puoleen väliin lihaa. Kuumenna hiljaa kiehuvaksi, peitä tiiviisti ja hauduta miedoimmalla lämmöllä (tai 160-asteisessa uunissa) 2½–3 tuntia, kääntäen lihaa 45 minuutin välein. Liha on valmis, kun haarukka liukuu siihen vastuksetta.",
+      "Nosta liha foliolla peitettynä lämpimään. Siivilöi haudutusliemi leveään kattilaan ja hävitä mausteet. Keitä voimakkaasti kolmanneksen pienemmäksi, noin 10 minuuttia. Murenna joukkoon piparkakut ja vatkaa keskilämmöllä, kunnes ne liukenevat ja kastike sakenee. Maun pitää olla makea, hapan, mausteinen ja syvä; lisää piparkakkua, jos kastike on liian kirpeää. Sekoita halutessasi joukkoon kermaviili liedeltä nostettuna ja lämmitä kiehuttamatta. Viipaloi liha ja tarjoa kastikkeen, punakaalin ja perunoiden tai nyyttien kanssa."
+    ]
+  },
+  { "id": "forkrecipe-sauerkraut", "skip": "lähes kaksoiskappale (saksalainen hapankaali)" },
+  {
+    "id": "forkrecipe-scallion-oil-noodles",
+    "title": "Shanghailaiset kevätsipuliöljynuudelit (cong you ban mian)",
+    "description": "Tavalliset vehnänuudelit käännellään tummassa, hitaasti valmistetussa kevätsipuliöljyssä, jonka tekoon kuluu 40 minuuttia: kevätsipulit karamellisoituvat makeiksi, rapeiksi suikaleiksi ja öljy imee niistä koko maun. Neljän aineksen ruoka, joka vaatii jokaiselta laatua.",
+    "servings": 2,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 55,
+    "category": "Pääruoat",
+    "tags": ["kiinalainen", "vegaaninen", "kasvis", "nuudelit", "arkiruoka"],
+    "ingredients": [
+      "200 g tuoreita ohuita vehnänuudeleita (tai kuivattuja lo mein -nuudeleita)",
+      "150 g kevätsipulia, 5 cm paloina",
+      "1,2 dl rypsiöljyä",
+      "1½ rkl vaaleaa soijakastiketta",
+      "2 tl tummaa soijakastiketta",
+      "2 tl sokeria"
+    ],
+    "instructions": [
+      "Laita kevätsipulit ja öljy kylmään pieneen kattilaan tai wokkiin – kylmä aloitus on tärkeää. Kuumenna miedoimmalla lämmöllä 30–40 minuuttia. Ensimmäisten 15 minuutin aikana sipulit vain pehmenevät, 15–25 minuutissa ne kutistuvat ja kärjet alkavat ruskistua, ja 25–40 minuutissa ne karamellisoituvat syvän punaruskeiksi ja rapeiksi. Sekoita 5 minuutin välein ja lopussa useammin. Nosta liedeltä, kun sipulit ovat tasaisen tumman kullanruskeita ja rapeita.",
+      "Sekoita isossa kulhossa lämmin kevätsipuliöljy (noin 3 rkl annosta kohden), vaalea ja tumma soija ja sokeri, kunnes sokeri liukenee. Kastikkeen pitää maistua hyvin suolaiselta ja makealta, sillä se laimenee nuudeleissa.",
+      "Keitä nuudelit reippaasti kiehuvassa, kevyesti suolatussa vedessä juuri kypsiksi (tuoreet 2–3 minuuttia, kuivatut 4–5 minuuttia). Valuta hyvin ja siirrä heti kuumina kastikekulhoon. Kääntele nopeasti 60–90 sekuntia, kunnes jokainen nuudeli on kastikkeen peitossa. Tarkista maku. Annostele ja ripottele päälle reilusti rapeita kevätsipuleita. Tarjoa heti."
+    ]
+  },
+  { "id": "forkrecipe-scallion-oil", "skip": "lähes kaksoiskappale (kevätsipuliöljynuudelit)" },
+  { "id": "forkrecipe-scallion-pancake", "skip": "lähes kaksoiskappale (kiinalaiset kevätsipulilätyt)" },
+  {
+    "id": "forkrecipe-scallion-pancakes",
+    "title": "Kiinalaiset kevätsipulilätyt (cong you bing)",
+    "description": "Kuumalla vedellä tehty taikina kaulitaan ohueksi, sivellään seesamiöljyllä ja suolalla, peitetään kevätsipulilla ja kierretään rullalle ja uudelleen kaulituksi – sama kerrostustemppu kuin voitaikinassa, mutta katuruoan nöyryydellä. Tuloksena lehtevä, sitkeä ja rapea pannuleipä.",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "totalTimeMin": 60,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["kiinalainen", "vegaaninen", "kasvis", "katuruoka"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "1,3 dl kiehuvaa vettä",
+      "2 rkl paahdettua seesamiöljyä",
+      "1 tl suolaa",
+      "80 g kevätsipulia, ohuina renkaina",
+      "40 g rypsiöljyä paistamiseen",
+      "½ tl suolahiutaleita kerroksiin"
+    ],
+    "instructions": [
+      "Laita jauhot kulhoon ja kaada kiehuva vesi päälle kerralla. Sekoita heti syömäpuikolla tai puulusikalla, kunnes vesi on imeytynyt ja seos on höyryävää, karkeaa massaa. Kun taikina on jäähtynyt käsiteltäväksi (noin 2 minuuttia), vaivaa kulhossa sileäksi, noin 3 minuuttia. Anna levätä peitettynä 20 minuuttia.",
+      "Jaa taikina neljään osaan. Kauli kukin kevyesti öljytyllä (ei jauhotetulla) alustalla noin 3 mm paksuksi suorakaiteeksi. Sivele reilusti seesamiöljyllä 5 mm reunoja lukuun ottamatta. Ripottele päälle suola ja kevätsipuli ja paina kevyesti. Kääri pitkältä sivulta tiiviiksi rullaksi, kierrä rulla tiiviiksi etanaksi ja paina litteäksi. Kauli uudelleen noin 5 mm paksuksi.",
+      "Kuumenna raskas pannu keskilämmöllä ja lisää öljyä noin 2 mm:n kerrokseksi. Kun öljy väreilee, paista lättyä 2–3 minuuttia liikuttamatta, kunnes alapuoli on kullanruskea. Käännä, paina lastalla ja paista toista puolta 2 minuuttia, kunnes molemmat puolet ovat syvän kullanruskeita ja reunat rapeita."
+    ]
+  },
+  {
+    "id": "forkrecipe-scallops-with-pea-puree",
+    "title": "Paistetut kampasimpukat, hernepyree ja pancetta",
+    "description": "Pannulla paistetut isot kampasimpukat samettisen makean hernepyreen ja rapean pancettan kanssa – kolmiosainen ravintolaklassikko, jossa paistolle on armottoman vähän virhemarginaalia: toiselta puolelta kullanruskea, keskeltä läpikuultava.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Pääruoat",
+    "tags": ["brittiläinen", "äyriäiset", "juhla", "gluteeniton"],
+    "ingredients": [
+      "12 isoa kampasimpukkaa, kuivina, mätipussit poistettuina",
+      "300 g pakasteherneitä",
+      "100 g pekonia tai pancettaa, pieninä kuutioina",
+      "1 iso salottisipuli, hienoksi kuutioituna",
+      "1 valkosipulinkynsi, hienonnettuna",
+      "60 g suolatonta voita",
+      "½ dl kuohukermaa",
+      "10 g tuoreita mintunlehtiä",
+      "2 tl sitruunamehua",
+      "1 rkl rypsiöljyä",
+      "1 tl suolaa",
+      "ripaus valkopippuria",
+      "20 g herneenversoja tai vesikrassia"
+    ],
+    "instructions": [
+      "Sulata 20 g voista pienessä kattilassa keskilämmöllä. Hiosta salottisipulia ja valkosipulia ripauksen suolaa kanssa 3–4 minuuttia täysin pehmeiksi ilman väriä. Lisää herneet ja kerma, kuumenna kiehuvaksi ja keitä 3 minuuttia, kunnes herneet ovat juuri kypsiä ja kirkkaanvihreitä. Soseuta tehosekoittimessa mintun kanssa täysin sileäksi. Siivilöi halutessasi. Mausta suolalla, valkopippurilla ja tilkalla sitruunaa. Pidä lämpimänä.",
+      "Laita pancetta kylmälle kuivalle paistinpannulle ja kuumenna keskilämmöllä. Paista välillä sekoittaen 5–7 minuuttia, kunnes kuutiot ovat syvän kullanruskeita ja rapeita. Nosta reikäkauhalla talouspaperille ja jätä rasva pannulle.",
+      "Kuivaa kampasimpukat erittäin huolellisesti talouspaperilla ja mausta molemmat litteät puolet suolalla ja valkopippurilla. Lisää öljy pancettan rasvaan ja kuumenna kovimmalla lämmöllä, kunnes öljy alkaa savuta. Aseta simpukat yksitellen lappeelleen pannulle ja anna olla koskematta 90 sekunnista 2 minuuttiin. Käännä, kun ne irtoavat pannusta helposti.",
+      "Lisää heti kääntämisen jälkeen loput kylmästä voista kahtena palana. Kallista pannua ja valele simpukoita vaahtoavalla voilla 30–45 sekuntia. Lisää tippa sitruunaa. Nosta simpukat, kun toinen puoli on vaalean kullanruskea ja keskusta vielä joustava.",
+      "Levitä lusikalla lämmintä hernepyreetä lautasille ja asettele kolme simpukkaa kullekin paistopinta ylöspäin. Ripottele päälle rapea pancetta ja lisää keskelle herneenversoja. Tarjoa heti, kun kaikki on lämmintä."
+    ]
+  },
+  {
+    "id": "forkrecipe-schiacciata",
+    "title": "Schiacciata – toscanalainen öljyleipä",
+    "description": "Toscanan vastine focaccialle – ohuempi, reunoilta rapeampi ja niin oliiviöljyn kyllästämä, että ensimmäinen haukkaus vapauttaa lämpimän, ruohoisen tulvan. Nimi tarkoittaa litistettyä, ja kuopitettu taikina painetaan tarkoituksella mahdollisimman rapeaksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 150,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["italialainen", "vegaaninen", "kasvis", "leipä"],
+    "ingredients": [
+      "500 g vehnäjauhoja (tipo 0) tai erikoisvehnäjauhoja",
+      "3,5 dl lämmintä vettä (32–35 °C)",
+      "3 rkl ekstra-neitsytoliiviöljyä (+ reilusti pannuun ja pinnalle)",
+      "2 tl suolaa",
+      "1 tl kuivahiivaa",
+      "1 tl suolahiutaleita",
+      "1 rkl tuoretta rosmariinia, neulaset (valinnainen)"
+    ],
+    "instructions": [
+      "Sekoita jauhot, kuivahiiva ja suola isossa kulhossa niin, että suola ja hiiva ovat aluksi eri puolilla. Kaada joukkoon lämmin vesi ja oliiviöljy. Sekoita taikinakaapimella tai kädellä, kunnes kuivia jauhoja ei jää. Taikina on kohtalaisen tahmeaa. Älä lisää jauhoja. Peitä ja anna levätä 15 minuuttia.",
+      "Tee kolme venytys-taitto-sarjaa 20 minuutin välein: kastele käsi, tartu taikinan reunaan, venytä ylös ja taita keskelle, käännä kulhoa neljänneskierros ja toista neljästi. Anna kohota huoneenlämmössä vielä 30 minuuttia.",
+      "Kaada uunipannulle reilusti oliiviöljyä, vähintään 4–5 rkl. Siirrä taikina pannulle ja painele ja venytä sitä sormenpäillä reunoja kohti. Jos taikina vetäytyy takaisin, anna levätä 10–15 minuuttia ja yritä uudelleen. Taikinan pitää olla noin 1,5 cm paksu. Peitä ja kohota 30–45 minuuttia, kunnes se on selvästi pöyheä.",
+      "Paina kaikilla kymmenellä sormella taikinaa lujasti ja toistuvasti koko pinnalta pannun pohjaan asti, focacciaa litteämmäksi. Valuta päälle vielä reilusti oliiviöljyä, ripottele suolahiutaleet ja halutessasi rosmariini.",
+      "Paista 230 °C:ssa uunin alaosassa 15–20 minuuttia ja seuraa 12 minuutin jälkeen tarkasti. Reunojen pitää olla tummanruskeat ja rapeat, keskustan kullanruskea. Siirrä heti ritilälle ja anna jäähtyä 5 minuuttia ennen leikkaamista. Parhaimmillaan tunnin sisällä paistamisesta."
+    ]
+  }
+]

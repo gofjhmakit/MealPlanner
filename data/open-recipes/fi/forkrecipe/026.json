@@ -1,0 +1,500 @@
+[
+  {
+    "id": "forkrecipe-pork-belly-confit",
+    "title": "Porsaankylkiconfit",
+    "description": "Nahallinen porsaankylki suolataan yön yli mausteiden kanssa, haudutetaan hitaasti rasvassa, kunnes sidekudos antaa täysin periksi, puristetaan yön yli litteäksi ja paistetaan lopuksi niin rapeaksi, että nahka särkyy kuin meripihkalasi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 1080,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "liha", "juhla", "gluteeniton"],
+    "ingredients": [
+      "1,2 kg nahallista porsaan kylkeä, yhtenä palana",
+      "25 g karkeaa merisuolaa",
+      "2 tl sokeria",
+      "5 valkosipulinkynttä, kevyesti murskattuina",
+      "5 oksaa tuoretta timjamia",
+      "3 laakerinlehteä",
+      "1 tl mustapippuria, kevyesti murskattuna",
+      "½ tl katajanmarjoja, kevyesti murskattuina",
+      "1 kg sianihraa tai ankanrasvaa"
+    ],
+    "instructions": [
+      "Sekoita pienessä kulhossa suola, sokeri, valkosipuli, timjami, laakerinlehdet, pippuri ja katajanmarjat. Viillä kyljen nahkaan terävällä veitsellä ristikkokuvio 1 cm välein nahan läpi ja hieman rasvaan, mutta ei lihaan. Hiero suolaseos kaikille pinnoille ja viiltoihin. Aseta nahka ylöspäin ritilälle vuoan päälle, peitä löyhästi kelmulla ja pidä jääkaapissa yön yli (8–12 tuntia).",
+      "Kuumenna uuni 90 asteeseen. Sulata rasva syvässä uunivuoassa tai padassa, johon kylki mahtuu. Aseta kylki nahkapuoli alaspäin ja kaada päälle lämmintä rasvaa niin, että liha peittyy vähintään 1 cm:n verran. Peitä pinta leivinpaperilla ja kannella tai foliolla. Kypsennä uunissa 6–8 tuntia. Älä nosta lämpöä.",
+      "Vuoraa pieni vuoka tai leipävuoka kelmulla niin, että sitä jää reunojen yli. Nosta kylki rasvasta vuokaan nahkapuoli alaspäin ja taita kelmu päälle. Aseta päälle pelti ja vähintään 2 kg painoa, esim. säilykepurkkeja. Pidä jääkaapissa vähintään 6 tuntia, mieluiten yön yli.",
+      "Leikkaa puristettu kylki noin 5–6 cm annospaloiksi. Kuumenna raskas valurautapannu keskilämpöä miedommalla lämmöllä ilman rasvaa. Aseta palat nahkapuoli alaspäin ja paina lastalla. Paista liikuttamatta 12–18 minuuttia, kunnes nahka on läpikuultavan meripihkanruskea ja rapea. Käännä ja paista lihapuolta 2 minuuttia."
+    ],
+    "notes": ["Säästä rasva siivilöitynä jääkaapissa; se sopii paistamiseen."]
+  },
+  { "id": "forkrecipe-pork-belly-ramen", "skip": "lähes kaksoiskappale (chashu)" },
+  {
+    "id": "forkrecipe-pork-bone-broth",
+    "title": "Kantonilainen porsaanluuliemi",
+    "description": "Kantonilainen liemi, jonka kristallinkirkkaus ja syvyys syntyvät huolellisesta luiden ryöppäämisestä ja hauduttamisesta juuri sillä lämmöllä, joka irrottaa kollageenin mutta ei samenna lientä. Pidättyväisyys on tekniikka.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 300,
+    "category": "Muut",
+    "tags": ["kiinalainen", "liha", "liemi"],
+    "ingredients": [
+      "1,5 kg porsaan niskaluita tai potkia, halkaistuina",
+      "600 g porsaan selkäkylkiluita",
+      "3 l kylmää vettä",
+      "60 g tuoretta inkivääriä, paksuina viipaleina kuorineen",
+      "3 kevätsipulia, kokonaisina",
+      "½ dl shaoxing-riisiviiniä"
+    ],
+    "instructions": [
+      "Laita kaikki luut isoon kattilaan ja peitä kylmällä vedellä. Kuumenna kovalla lämmöllä kiehuvaksi ja keitä voimakkaasti 5 minuuttia, kunnes pinnalle nousee runsaasti harmaata vaahtoa. Valuta ja huuhtele jokainen luu kylmän veden alla. Pese myös kattila. Tämä ryöppäys on kirkkaan liemen tärkein vaihe.",
+      "Palauta luut puhtaaseen kattilaan, peitä tuoreella kylmällä vedellä ja kuumenna keskilämmöllä hiljaiseen kiehuntaan. Kuori jäljelle jäävä vaahto. Lisää inkivääri, kevätsipulit ja shaoxing-viini. Laske lämpö niin, että pinta vain väreilee eikä kiehu. Hauduta 3½–4 tuntia.",
+      "Nosta luut pois ja hävitä. Siivilöi liemi harsokankaalla vuoratun siivilän läpi painamatta. Jäähdytä ja anna olla jääkaapissa peittämättä 1–2 tuntia, kunnes rasva jähmettyy pinnalle, ja poista rasvakerros. Liemi on kirkasta, kullankeltaista ja kylmänä hieman hyytelöityvää. Suolaa vasta käytettäessä."
+    ]
+  },
+  { "id": "forkrecipe-pork-carnitas", "skip": "lähes kaksoiskappale (meksikolaiset carnitas)" },
+  {
+    "id": "forkrecipe-pork-chops-apples-mustard-pan-sauce",
+    "title": "Porsaankyljykset, omena-kaalipannu ja sinappikastike",
+    "description": "Paksut porsaankyljykset paistetaan syvän kullanruskeiksi ja lepuutetaan mehukkaiksi, ja ne tarjoillaan porsaanrasvassa pehmenneiden kirpeiden omenoiden ja kaalin sekä omenamehu-sinappikastikkeen kanssa, joka kiillotetaan voilla.",
+    "servings": 4,
+    "prepTimeMin": 35,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["amerikkalainen", "liha", "arkiruoka", "omena"],
+    "ingredients": [
+      "1,1 kg porsaankyljystä, luullisina (n. 2,5 cm paksuja)",
+      "suolaa",
+      "mustapippuria",
+      "1 rkl rypsiöljyä",
+      "400 g omenoita (kiinteitä ja kirpeänmakeita), siemenkodat poistettuina ja 1 cm lohkoina",
+      "300 g valkokaalia, ohuina suikaleina",
+      "1 salottisipuli (n. 60 g), ohuina viipaleina",
+      "1,8 dl suodattamatonta omenamehua",
+      "1,2 dl vähäsuolaista kanalientä",
+      "2 rkl karkeaa dijonsinappia",
+      "4 oksaa tuoretta timjamia",
+      "30 g kylmää suolatonta voita",
+      "1 tl omenaviinietikkaa"
+    ],
+    "instructions": [
+      "Kuivaa kyljykset. Jos rasvareuna on paksu, viillä se 2–3 cm välein, etteivät kyljykset käyristy. Mausta kaikilta puolilta noin 1½ tl:lla suolaa ja pippurilla. Anna olla huoneenlämmössä 10–15 minuuttia, kun viipaloit omenat, kaalin ja salottisipulin.",
+      "Kuumenna öljy noin 30 cm:n raskaassa pannussa keskikovalla lämmöllä, kunnes se alkaa savuta. Aseta kyljykset pannulle ja paista liikuttamatta 4–5 minuuttia syvän ruskeiksi. Käännä, laske lämpö keskitasolle ja paista vielä 3–5 minuuttia, kunnes luun läheltä mitattu sisälämpötila on 60 °C. Paista lopuksi rasvareunoja minuutti. Nosta lautaselle ja anna levätä 5 minuuttia; lämpötila nousee 63 asteeseen.",
+      "Kaada pannulta pois rasva noin 1 rkl:aa lukuun ottamatta. Paista omenalohkoja keskikovalla lämmöllä yhdessä kerroksessa 2 minuuttia per puoli, kunnes reunat karamellisoituvat. Lisää salottisipuli, kaali ja ripaus suolaa ja paista käännellen 4–5 minuuttia, kunnes kaali on pehmennyt ja paikoin ruskistunut.",
+      "Kaada joukkoon omenamehu ja liemi, lisää timjami ja raaputa pohja. Keitä 4–5 minuuttia, kunnes neste on noin puolittunut. Laske lämpö miedoksi, sekoita joukkoon sinappi ja kyljysten lepuutusnesteet ja pyörittele kylmä voi pala kerrallaan kastikkeeseen. Lisää etikka, poista timjaminvarret ja mausta. Palauta kyljykset pannulle 30 sekunniksi ja valele kastikkeella. Tarjoa omenoiden ja kaalin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pork-schnitzel",
+    "title": "Porsaanleike wieniläiseen tapaan",
+    "description": "Ohueksi nuijittu porsaan ulkofilee leivitetään kolmeen kertaan jauhoissa, munassa ja korppujauhoissa ja paistetaan reilussa kirkastetussa voissa, kunnes kuori kohoaa lihasta kullanruskeaksi, ilmavaksi kuoreksi, joka rapisee ensimmäisestä leikkauksesta.",
+    "servings": 4,
+    "prepTimeMin": 30,
+    "totalTimeMin": 40,
+    "category": "Pääruoat",
+    "tags": ["itävaltalainen", "liha", "arkiruoka"],
+    "ingredients": [
+      "750 g porsaan ulkofileetä, 4 leikkeenä (à 180–200 g)",
+      "100 g vehnäjauhoja",
+      "3 kananmunaa, kevyesti haarukalla rikottuina",
+      "150 g hienoja vaaleita korppujauhoja",
+      "3 dl kirkastettua voita tai laardia",
+      "1 tl suolaa",
+      "ripaus valkopippuria, vastajauhettuna",
+      "1 sitruuna lohkoina tarjoiluun"
+    ],
+    "instructions": [
+      "Aseta leike kahden kelmun väliin tai pakastepussiin. Nuija lihanuijalla tai raskaan pannun pohjalla tasaisen 3 mm paksuksi keskeltä reunoille päin. Mausta molemmat puolet suolalla ja valkopippurilla ja anna levätä 5 minuuttia.",
+      "Laita kolmeen leveään astiaan jauhot, munat ja korppujauhot. Leivitä leike kerrallaan: ensin jauhoissa niin, että kaikki ylimääräinen ravistetaan pois, sitten munassa niin, että ylimäärä valuu pois, ja lopuksi korppujauhoissa. Älä paina korppujauhoja lihaan, vaan ripottele niitä päälle ja ravista astiaa – irtonainen kuori kohoaa paistettaessa.",
+      "Kaada kirkastettua voita leveään pannuun 8–10 mm:n kerrokseksi ja kuumenna 160–170 asteeseen. Liu'uta leivitetty leike pannulle ja valele sen päälle heti kuumaa voita samalla pannua kevyesti liikutellen. Paista 2–3 minuuttia per puoli syvän kullanruskeaksi. Paista tarvittaessa yksi kerrallaan. Nosta ritilälle valumaan.",
+      "Siirrä heti lämmitetyille lautasille sitruunalohkon kanssa. Tarjoa perunasalaatin, persiljaperunoiden tai puolukkahillon kanssa. Syö heti, sillä kuori pehmenee muutamassa minuutissa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pork-tenderloin",
+    "title": "Paistettu porsaan sisäfilee",
+    "description": "Anteeksiantavin vähärasvaisista paloista: sisäfilee ruskistetaan tulikuumalla pannulla joka puolelta, kypsennetään kuumassa uunissa ja lepuutetaan, kunnes mehut asettuvat ja keskusta on kauniin vaaleanpunainen ja uskomattoman mureaa.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["amerikkalainen", "liha", "nopea", "gluteeniton"],
+    "ingredients": [
+      "600 g porsaan sisäfileetä, kalvot poistettuina",
+      "1½ tl suolaa",
+      "1 tl mustapippuria, karkeaksi jauhettuna",
+      "1½ tl savupaprikajauhetta",
+      "1 tl valkosipulijauhetta",
+      "1½ rkl rypsiöljyä",
+      "30 g suolatonta voita",
+      "muutama oksa tuoretta timjamia ja rosmariinia",
+      "3 valkosipulinkynttä, murskattuina"
+    ],
+    "instructions": [
+      "Poista hopeakalvo: liu'uta ohuen veitsen kärki kalvon alle ja sahaa terä hieman ylöspäin kallistettuna, samalla kalvoa kireällä vetäen. Kuivaa filee. Sekoita suola, pippuri, savupaprika ja valkosipulijauhe ja hiero tasaisesti kaikille pinnoille. Anna olla peittämättä huoneenlämmössä 20 minuuttia.",
+      "Kuumenna uuni 220 asteeseen. Kuumenna uuninkestävä paistinpannu kovalla lämmöllä 3 minuuttia. Lisää öljy ja ruskista fileetä 90 sekuntia kultakin puolelta, kunnes kaikki pinnat ovat syvän ruskeita.",
+      "Lisää pannulle voi, yrtit ja murskattu valkosipuli. Siirrä pannu uuniin 10–12 minuutiksi ja valele puolivälissä sulalla yrttivoilla. Ota uunista, kun paksuimman kohdan sisälämpötila on 60 °C; jälkikypsyminen nostaa sen 63 asteeseen.",
+      "Siirrä filee lämpimälle leikkuulaudalle ja peitä löyhästi foliolla. Anna levätä 8 minuuttia.",
+      "Leikkaa filee terävällä veitsellä hieman vinosti 1,5–2 cm medaljongeiksi. Lusikoi päälle lepuutusnesteet ja pannuun jäänyt yrttivoi ja tarjoa heti."
+    ]
+  },
+  { "id": "forkrecipe-portuguese-egg-tarts", "skip": "lähes kaksoiskappale (pastel de nata)" },
+  {
+    "id": "forkrecipe-pot-au-feu",
+    "title": "Pot-au-feu – ranskalainen liha-kasvispata",
+    "description": "Ranskalaisin ruoista: naudanpotka ja ydinluut haudutetaan hitaasti juuresten kanssa, kunnes liemi on kullankeltaista ja kirkasta. Tarjoillaan kahdessa osassa: ensin liemi, sitten liha ja kasvikset.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["ranskalainen", "liha", "keitto", "juhla"],
+    "ingredients": [
+      "1,5 kg luullista naudanpotkaa, sidottuna kahdeksi palaksi",
+      "400 g ydinluita (5–6 cm paloina, harsokankaaseen sidottuina)",
+      "1 iso keltasipuli, puolitettuna ja leikkuupinnalta kuivalla pannulla hiillostettuna",
+      "1 maustekimppu (timjamia, laakerinlehti, persiljanvarsia, mustapippuria)",
+      "450 g porkkanaa, kuorittuna ja pituussuunnassa halkaistuna",
+      "300 g naurista, kuorittuna ja lohkoina",
+      "2 purjoa (n. 375 g), valkoiset ja vaaleanvihreät osat, sidottuina",
+      "300 g juuriselleriä, kuorittuna ja lohkoina",
+      "1 rkl karkeaa merisuolaa",
+      "Tarjoiluun:",
+      "dijonsinappia",
+      "etikkakurkkuja (cornichoneja)",
+      "suolahiutaleita",
+      "paahdettua patonkia"
+    ],
+    "instructions": [
+      "Laita naudanpotka ja ydinluut isoon kattilaan, peitä kylmällä vedellä ja kuumenna kovalla lämmöllä kiehuvaksi. Keitä 5 minuuttia, kunnes harmaata vaahtoa nousee runsaasti. Valuta, huuhtele liha ja luut kylmän veden alla ja pese kattila.",
+      "Palauta liha ja luut puhtaaseen kattilaan. Lisää hiillostetut sipulinpuolikkaat, maustekimppu ja kylmää vettä niin, että ainekset peittyvät 5 cm:n verran. Kuumenna hitaasti keskilämmöllä hiljaiseen kiehuntaan (noin 20 minuuttia) ja kuori vaahto. Laske lämpö niin, että pinta vain väreilee. Hauduta 2 tuntia ennen kasvisten lisäämistä.",
+      "Lisää kasvikset kypsymisajan mukaan: ensin nauriit (30 minuuttia), sitten porkkanat ja juuriselleri (20 minuuttia) ja lopuksi purjot (15 minuuttia), jotta kaikki ovat kypsiä yhtä aikaa. Liemi ei saa kiehua voimakkaasti.",
+      "Nosta liha ja kasvikset reikäkauhalla lämpimälle vadille. Poista harsokangas ydinluista. Siivilöi liemi kostealla harsokankaalla vuoratun siivilän läpi ja tarkista suola. Tarjoa ensin kirkas liemi lämmitetyistä kulhoista paahdetun leivän kanssa. Tarjoa sitten paksuiksi viipaloitu liha ja kasvikset dijonsinapin, etikkakurkkujen ja suolahiutaleiden kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pot-roast-root-vegetables",
+    "title": "Patapaisti juuresten kera",
+    "description": "Hyvin marmoroitu naudan lapapaisti ruskistetaan tummaksi ja haudutetaan hitaasti punaviinissä ja liemessä lusikalla leikattavaksi. Ympärillä porkkanat, palsternakat ja perunat imevät itseensä syvän lihaisen kastikkeen.",
+    "servings": 6,
+    "prepTimeMin": 45,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["amerikkalainen", "liha", "pataruoka", "uuniruoka", "juhla"],
+    "ingredients": [
+      "1,6 kg luutonta naudan lapaa, sidottuna",
+      "1 rkl suolaa",
+      "1 tl mustapippuria, vastajauhettuna",
+      "2 rkl rypsiöljyä",
+      "2 keltasipulia, paksuina lohkoina",
+      "6 valkosipulinkynttä, murskattuina",
+      "2 rkl tomaattipyreetä",
+      "2,4 dl kuivaa punaviiniä",
+      "4,8 dl vähäsuolaista liha- tai kanalientä",
+      "1 rkl worcestershirekastiketta",
+      "5 oksaa timjamia",
+      "2 laakerinlehteä",
+      "500 g porkkanoita, kuorittuina ja 5 cm paloina",
+      "300 g palsternakkaa, kuorittuna ja 5 cm paloina",
+      "700 g pieniä kiinteitä perunoita, puolitettuina",
+      "10 g lehtipersiljaa, hienonnettuna"
+    ],
+    "instructions": [
+      "Kuumenna uuni 150 asteeseen. Kuivaa liha ja mausta joka puolelta suurimmalla osalla suolasta ja pippurilla. Kuumenna öljy raskaassa 6–7 litran padassa keskikovalla lämmöllä. Ruskista paisti 4–5 minuuttia per puoli, myös reunat, syvän ruskeaksi, yhteensä 15–20 minuuttia. Nosta lautaselle.",
+      "Laske lämpö keskitasolle, lisää sipulit ja kypsennä 5–6 minuuttia, kunnes ne saavat väriä. Lisää valkosipuli ja tomaattipyree ja sekoita 2 minuuttia. Kaada viini joukkoon, raaputa pohja ja keitä 3 minuuttia. Lisää liemi, worcestershirekastike, timjami ja laakerinlehdet ja palauta liha nesteineen pataan. Nesteen pitää ulottua puoleen väliin paistia; lisää tarvittaessa vettä. Kuumenna kiehuvaksi.",
+      "Peitä tiiviisti ja hauduta uunissa 2 tuntia, kääntäen paisti tunnin kohdalla. Nesteen pitää vain hiljaa poreilla; jos se kiehuu voimakkaasti, laske uunin lämpö 135 asteeseen.",
+      "Asettele porkkanat, palsternakat ja perunat lihan ympärille nesteeseen ja ripottele päälle loput suolasta. Peitä ja jatka uunissa 1–1¼ tuntia, kunnes liha on haarukalla revittävää ja kasvikset pehmeitä mutta muotonsa säilyttäviä.",
+      "Siirrä liha ja kasvikset vadille foliolla peitettyinä. Poista timjaminvarret ja laakerinlehdet. Kuori rasva liemen pinnalta ja keitä lientä liedellä 5–10 minuuttia kevyeksi kastikkeeksi. Tarkista suola. Viipaloi tai revi liha paloiksi, kaada kastike päälle ja ripottele persilja."
+    ]
+  },
+  {
+    "id": "forkrecipe-pots-de-creme",
+    "title": "Suklaiset pots de crème",
+    "description": "Yksittäisissä kupeissa paistetut suklaavanukkaat – täyteläisempiä kuin crème brûlée ja tummempia, hytkyvät ja samettiset lusikan alla. Tuskin hyytyneitä, vähän makeita ja syvän katkeria, kahvi korostaa suklaan tummimpia sävyjä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 240,
+    "category": "Jälkiruoat",
+    "tags": ["ranskalainen", "kasvis", "suklaa", "vanukas", "gluteeniton"],
+    "ingredients": [
+      "170 g tummaa suklaata (70 %), hienoksi rouhittuna",
+      "4 kananmunan keltuaista (n. 80 g)",
+      "3 dl kuohukermaa",
+      "1,5 dl täysmaitoa",
+      "50 g hienoa sokeria",
+      "2 rkl vahvaa kahvia (espressoa)",
+      "1 tl vaniljauutetta",
+      "ripaus suolahiutaleita"
+    ],
+    "instructions": [
+      "Sulata suklaa lämmönkestävässä kulhossa hiljaa kiehuvan vesikattilan päällä välillä sekoittaen sileäksi, tai mikroaaltouunissa 30 sekunnin jaksoissa puolella teholla. Nosta pois lämmöltä heti, kun viimeiset palat ovat sulaneet.",
+      "Yhdistä kerma, maito, espresso ja vanilja kattilassa ja kuumenna keskilämmöllä välillä sekoittaen, kunnes reunoille muodostuu pieniä kuplia (80–85 °C). Älä keitä.",
+      "Vatkaa keltuaiset ja sokeri isossa kulhossa juuri sekaisin, noin 30 sekuntia. Älä vatkaa ilmaa seokseen.",
+      "Kaada kuuma kerma keltuaisten joukkoon hyvin ohuena nauhana koko ajan kevyesti vatkaten. Kaada seos sitten sulatetun suklaan päälle ja sekoita keskeltä alkaen sileäksi ja kiiltäväksi. Lisää suola. Siivilöi kaatokannuun ja kuori kuplat pinnalta.",
+      "Kuumenna uuni 150 asteeseen. Asettele pienet annosvuoat syvään uunivuokaan ja kaada vanukas niihin siivilän läpi lähes reunaan asti. Työnnä vuoka uuniin ja kaada siihen hyvin kuumaa vettä puoleen väliin annosvuokien korkeutta. Peitä löyhästi foliolla ja paista 30–40 minuuttia, kunnes reunat ovat hyytyneet ja keskusta hytkyy selvästi. Nosta vesihauteesta, jäähdytä huoneenlämpöisiksi ja jäähdytä jääkaapissa peittämättä vähintään 3 tuntia."
+    ]
+  },
+  { "id": "forkrecipe-pozole-rojo-broth", "skip": "lähes kaksoiskappale (pozole rojo)" },
+  {
+    "id": "forkrecipe-pozole-rojo",
+    "title": "Pozole rojo – meksikolainen punainen maissikeitto",
+    "description": "Kuoritut hominy-maissinjyvät syvän tiilenpunaisessa liemessä, joka rakentuu porsaanluista, kuivatuista guajillo- ja ancho-chileistä ja tuntien kärsivällisestä hauduttamisesta. Juhlien ja kaiken parantamisen keitto jo kolmen vuosituhannen ajan.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 90,
+    "totalTimeMin": 240,
+    "category": "Keitot",
+    "tags": ["meksikolainen", "liha", "keitto", "juhla"],
+    "ingredients": [
+      "1,5 kg luullista porsaan lapaa, isoina paloina",
+      "2 porsaan sorkkaa, halkaistuina",
+      "800 g hominy-maissia (säilyke), valutettuna ja huuhdeltuna",
+      "6 kuivattua guajillo-chiliä, kannat ja siemenet poistettuina",
+      "3 kuivattua ancho-chiliä, kannat ja siemenet poistettuina",
+      "2 kuivattua árbol-chiliä, kannat poistettuina",
+      "1 iso valkosipuli, puolitettuna",
+      "8 valkosipulinkynttä, kuorimattomina",
+      "2 tl kuivattua oreganoa",
+      "10 mustapippuria, kokonaisina",
+      "1 tl juustokuminaa, kokonaisena",
+      "3,5 l kylmää vettä",
+      "3 tl suolaa",
+      "Tarjoiluun:",
+      "2,5 dl suikaloitua valkokaalia",
+      "6 retiisiä, ohuina viipaleina",
+      "limettiä lohkoina",
+      "kuivattua oreganoa",
+      "tostadoja"
+    ],
+    "instructions": [
+      "Laita lapa ja sorkat isoon (vähintään 8 l) kattilaan ja peitä kylmällä vedellä. Kuumenna kovalla lämmöllä kiehuvaksi ja kuori harmaa vaahto ensimmäisten 10–15 minuutin aikana. Lisää puolikas sipuli, puolet valkosipulinkynsistä, pippurit ja kumina. Laske lämpö hiljaiseen kiehuntaan ja hauduta ilman kantta 2–2½ tuntia vaahtoa ja rasvaa kuorien, kunnes lapa on täysin mureaa. Nosta liha laudalle, nyhdä isoiksi paloiksi ja hävitä luut, ylimääräinen rasva ja sorkat. Siivilöi liemi.",
+      "Kuumenna kuiva valurautapannu keskikovalla lämmöllä. Paahda chilit yksitellen painaen 10–15 sekuntia per puoli, kunnes ne tummuvat ja tuoksuvat hedelmäisiltä; varo varsinkin pientä árbol-chiliä. Laita kulhoon, peitä 5 dl:lla kuumaa vettä ja liota 20 minuuttia. Hiillosta sillä aikaa toinen sipulinpuolikas ja loput valkosipulinkynnet kuivalla pannulla mustiksi.",
+      "Valuta chilit ja säästä liotusvesi. Kuori hiillostettu sipuli ja valkosipulit. Soseuta chilit, sipuli, valkosipuli, oregano ja 2,5 dl liotusvettä tehosekoittimessa 2 minuuttia täysin sileäksi. Siivilöi sose kulhoon ja paina kaikki neste talteen.",
+      "Kuumenna siivilöity liemi isossa kattilassa hiljaa kiehuvaksi. Lisää chilisose ja sekoita; liemi muuttuu syvän tiilenpunaiseksi. Lisää hominy ja nyhdetty liha. Mausta 2 tl:lla suolaa ja hauduta keskilämpöä miedommalla lämmöllä 30–40 minuuttia välillä sekoittaen. Tarkista suola. Tarjoa kaalin, retiisien, oreganon, limettilohkojen ja tostadojen kanssa."
+    ]
+  },
+  { "id": "forkrecipe-prawn-bisque-base", "skip": "lähes kaksoiskappale (katkarapubisque)" },
+  {
+    "id": "forkrecipe-prawn-bisque",
+    "title": "Klassinen katkarapubisque",
+    "description": "Samettinen, korallinpunainen keitto paahdetuista ja konjakilla liekitetyistä katkaravunkuorista, juureksista ja tomaatista, viimeistelty kermalla silkiksi – täyteläinen, suolainen ja meren tuoksuinen.",
+    "servings": 3,
+    "servingsEstimated": true,
+    "prepTimeMin": 50,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["ranskalainen", "äyriäiset", "keitto", "juhla"],
+    "ingredients": [
+      "250 g raakojen katkarapujen kuoria ja päitä (n. 500 g kokonaisista katkaravuista)",
+      "150 g raakoja kuorittuja katkarapuja (koristeeksi)",
+      "40 g suolatonta voita",
+      "½ keltasipulia, hienoksi kuutioituna",
+      "½ vartta lehtiselleriä, hienoksi kuutioituna",
+      "½ porkkanaa, hienoksi kuutioituna",
+      "2 valkosipulinkynttä, murskattuina",
+      "1 rkl tomaattipyreetä",
+      "2 rkl konjakkia",
+      "½ dl kuivaa valkoviiniä",
+      "4 dl kalalientä tai vettä",
+      "2 laakerinlehteä",
+      "2 oksaa tuoretta timjamia",
+      "½ tl mustapippuria, kokonaisena",
+      "1 dl kuohukermaa",
+      "suolaa",
+      "valkopippuria",
+      "ripaus cayennepippuria",
+      "1 rkl ruohosipulia, hienoksi leikattuna"
+    ],
+    "instructions": [
+      "Kuumenna iso paksupohjainen kattila kovalla lämmöllä savuavaksi. Lisää puolet voista ja kun vaahto laskee, lisää kuoret ja päät yhteen kerrokseen. Paina puulusikalla ja anna olla sekoittamatta 60 sekuntia. Sekoita ja murskaa päitä 4–5 minuuttia, kunnes kuoret ovat kirkkaan korallinpunaisia ja pohjaan muodostuu kullanoranssia paistopintaa.",
+      "Lisää loput voista, sipuli, selleri, porkkana ja valkosipuli. Kypsennä usein sekoittaen 5–6 minuuttia pehmeiksi. Lisää tomaattipyree ja paista painellen 3–4 minuuttia, kunnes se tummuu tiilenpunaiseksi.",
+      "Nosta kattila hetkeksi pois lämmöltä ja lisää konjakki. Liekitä kaasuliekillä tai keitä alkoholi pois 2 minuutissa kovalla lämmöllä. Raaputa pohja. Lisää valkoviini ja keitä puoleen. Lisää kalaliemi, laakerinlehdet, timjami ja pippurit. Hauduta hiljaa tasan 25 minuuttia; älä keitä voimakkaasti.",
+      "Nosta kattila liedeltä ja poista laakerinlehdet ja timjami. Soseuta kaikki, myös kuoret, tehosekoittimessa erissä täydellä teholla minuutin ajan. Siivilöi hienon siivilän läpi puhtaaseen kattilaan ja paina kauhalla kaikki neste talteen.",
+      "Kuumenna siivilöity bisque keskilämmöllä, lisää kerma ja hauduta 5–8 minuuttia, kunnes keitto peittää lusikan selän ohuesti. Paista sillä aikaa kuoritut katkaravut tilkassa voita 90 sekuntia juuri kypsiksi. Mausta bisque suolalla, valkopippurilla ja cayennella. Kauho lämpimiin kulhoihin, asettele keskelle muutama katkarapu ja ripottele päälle ruohosipulia."
+    ]
+  },
+  {
+    "id": "forkrecipe-prawn-curry",
+    "title": "Keralalainen katkarapucurry",
+    "description": "Keralan rannikko kattilassa: kokonaiset katkaravut kirkkaassa, tulisessa kookoskastikkeessa, jonka pohjana ovat sinapinsiemenet, curryn lehdet, inkivääri ja chili. Valmistuu alle vartissa, jotta katkaravut pysyvät mehevinä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 35,
+    "category": "Pääruoat",
+    "tags": ["intialainen", "äyriäiset", "curry", "kookos", "gluteeniton"],
+    "ingredients": [
+      "600 g isoja raakoja katkarapuja, kuorittuina ja suolistettuina",
+      "4 rkl kookosöljyä",
+      "1 rkl mustia sinapinsiemeniä",
+      "2 oksaa tuoreita curryn lehtiä",
+      "150 g salottisipulia, ohuina viipaleina",
+      "20 g tuoretta inkivääriä, hienoksi raastettuna",
+      "4 valkosipulinkynttä, hienonnettuna",
+      "4 tl kashmirinchilijauhetta",
+      "1 rkl tamarinditahnaa (tai malabarin tamarindia)",
+      "4 dl täysrasvaista kookosmaitoa",
+      "1½ tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna kookosöljy leveässä pannussa kovalla lämmöllä, kunnes se väreilee. Lisää sinapinsiemenet (varo roiskeita). Kun poksahtelu hidastuu noin 30 sekunnin kuluttua, lisää curryn lehdet ja paista 10 sekuntia rapeiksi.",
+      "Lisää salottisipulit ja kypsennä keskikovalla lämmöllä 5–6 minuuttia kullanruskeiksi. Lisää inkivääri ja valkosipuli ja kypsennä 2 minuuttia. Lisää chilijauhe ja tamarindi ja sekoita minuutti, kunnes öljy muuttuu kirkkaanpunaiseksi.",
+      "Kaada joukkoon kookosmaito ja kuumenna hiljaa kiehuvaksi. Lisää katkaravut ja kypsennä tasan 3–4 minuuttia, kunnes ne ovat kiertyneet C-muotoon ja muuttuneet vaaleanpunaisiksi. Tarkista suola ja tarjoa heti höyrytetyn riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-prawn-laksa",
+    "title": "Katkarapulaksa",
+    "description": "Riisinuudeleita liemessä, joka on yhtä aikaa tulinen, täyteläinen ja hapan: kookoskerma kietoutuu sitruunaruohon ja katkaraputahnan ympärille, ja pulleat katkaravut kypsyvät liemessä viime hetkellä.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 35,
+    "totalTimeMin": 55,
+    "category": "Keitot",
+    "tags": ["malesialainen", "äyriäiset", "keitto", "nuudelit", "tulinen"],
+    "ingredients": [
+      "400 g isoja katkarapuja, kuorittuina ja suolistettuina (kuoret säästettyinä)",
+      "2,5 dl täysrasvaista kookoskermaa",
+      "3,2 dl katkarapu- tai kanalientä",
+      "4 rkl laksa-maustetahnaa",
+      "2 tl katkaraputahnaa (belacan), paahdettuna",
+      "200 g paksuja riisinuudeleita, liotettuina",
+      "2 rkl limetinmehua",
+      "1½ rkl kalakastiketta",
+      "1 rkl rypsiöljyä",
+      "Päälle:",
+      "40 g pavunituja",
+      "vietnaminkorianteria",
+      "punaista chiliä viipaleina"
+    ],
+    "instructions": [
+      "Jos käytät raakojen katkarapujen kuoria, hauduta niitä liemessä 15 minuuttia ja siivilöi. Valmista katkarapulientä käyttäessä ohita tämä.",
+      "Kuumenna öljy syvässä kattilassa keskilämmöllä. Lisää laksatahna ja paahdettu katkaraputahna ja paista jatkuvasti sekoittaen 3–4 minuuttia, kunnes tahna tummuu ja öljy alkaa erottua.",
+      "Kaada joukkoon kookoskerma ja liemi ja kuumenna hiljaa kiehuvaksi; älä keitä voimakkaasti, ettei kookoskerma juoksetu. Mausta kalakastikkeella ja hauduta välillä sekoittaen 10 minuuttia.",
+      "Nosta lämpöä niin, että liemi kiehuu reippaasti. Lisää liotetut nuudelit ja kypsennä 2 minuuttia. Lisää katkaravut ja kypsennä tasan 90 sekuntia. Nosta liedeltä ja mausta limetinmehulla ja kalakastikkeella. Annostele syviin kulhoihin ja lisää päälle pavunidut, vietnaminkorianteri ja chili."
+    ]
+  },
+  {
+    "id": "forkrecipe-prawn-saganaki",
+    "title": "Katkarapusaganaki",
+    "description": "Pulleat katkaravut paistetaan kuplivassa tomaatti-ouzokastikkeessa fetapalojen alla. Feta pehmenee sulamatta ja sen suolaisuus sitoo makean tomaatin ja suolaisen katkaravun yhteen. Kreikkalaisen tavernan ruoka leivän kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 25,
+    "category": "Pääruoat",
+    "tags": ["kreikkalainen", "äyriäiset", "uuniruoka", "nopea"],
+    "ingredients": [
+      "600 g raakoja katkarapuja kuorineen (mieluiten päineen)",
+      "150 g fetaa, isoina paloina",
+      "1 tlk (400 g) kokonaisia San Marzano -tomaatteja, käsin murskattuina",
+      "1 salottisipuli (n. 60 g), ohuina viipaleina",
+      "3 valkosipulinkynttä, ohuina viipaleina",
+      "3 rkl ekstra-neitsytoliiviöljyä",
+      "3 rkl ouzoa tai Pernod'ta",
+      "1 tl chilihiutaleita",
+      "1 rkl tuoretta oreganoa, lehdet",
+      "15 g lehtipersiljaa, karkeasti hienonnettuna",
+      "suolaa",
+      "mustapippuria",
+      "ripaus sokeria",
+      "rapeaa leipää tarjoiluun"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy 25–30 cm:n uuninkestävässä pannussa keskilämmöllä. Kuullota salottisipulia 3–4 minuuttia. Lisää valkosipuli ja chilihiutaleet ja sekoita 30 sekuntia. Lisää ouzo ja anna kiehua tai liekitä varovasti. Lisää tomaatit nesteineen, oregano ja ripaus sokeria. Hauduta välillä sekoittaen 8–10 minuuttia, kunnes kastike sakenee. Mausta suolalla ja pippurilla.",
+      "Kuumenna uuni 220 asteeseen. Asettele katkaravut kuplivaan kastikkeeseen yhdeksi kerrokseksi ja painele kevyesti. Ripottele fetapalat katkarapujen päälle ja väliin niin, että noin 60 % pinnasta peittyy.",
+      "Paista uunin yläosassa 8–10 minuuttia, kunnes katkaravut ovat muuttuneet vaaleanpunaisiksi ja feta pehmenee.",
+      "Tuo pannu suoraan pöytään ja ripottele päälle reilusti persiljaa. Tarjoa heti rapean leivän kanssa kastikkeen dippaamiseen."
+    ]
+  },
+  {
+    "id": "forkrecipe-preserved-lemons",
+    "title": "Suolasitruunat",
+    "description": "Kokonaiset sitruunat pakataan tiiviisti omaan mehuunsa karkean suolan ja mausteiden kanssa ja annetaan kypsyä kuukausi, jolloin kuori muuttuu kitkerästä silkkiseksi, miedoksi ja voimakkaan suolaiseksi ja tuoksuvaksi säilykkeeksi.",
+    "servings": 20,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "category": "Säilykkeet",
+    "tags": ["marokkolainen", "vegaaninen", "kasvis", "gluteeniton", "sitruuna"],
+    "ingredients": [
+      "1 kg ohutkuorisia vahaamattomia sitruunoita (6–8 kpl)",
+      "200 g karkeaa jodioimatonta merisuolaa",
+      "3 dl sitruunamehua (lisäsitruunoista)",
+      "2 laakerinlehteä",
+      "1 pieni pala kanelitankoa",
+      "1 tl mustapippuria, kokonaisena",
+      "3 neilikkaa"
+    ],
+    "instructions": [
+      "Pese sitruunat huolellisesti lämpimällä vedellä. Leikkaa jokainen sitruuna latvasta lähes neljään osaan niin, että se pysyy 1–2 cm:n matkalta pohjasta koossa. Täytä kunkin sitruunan aukot 1–2 rkl:lla karkeaa suolaa ja paina suola hedelmälihaan. Suolan määrästä ei pidä tinkiä.",
+      "Steriloi leveäsuinen lasipurkki. Laita pohjalle laakerinlehti, pala kanelia, ripaus pippureita ja neilikat. Pakkaa suolatut sitruunat purkkiin mahdollisimman tiiviisti painellen, niin että niistä irtoaa mehua. Lisää mausteita kerrosten väliin. Paina lopuksi nyrkillä tiiviiksi. Kaada sitruunamehua päälle niin, että sitruunat peittyvät kokonaan. Sulje tiiviisti.",
+      "Säilytä purkkia huoneenlämmössä (18–24 °C) vähintään 30 päivää. Käännä purkki ylösalaisin kerran päivässä ensimmäisen viikon ajan. 30 päivän kuluttua kuoren pitää olla pehmeää, läpikuultavaa ja mietoa.",
+      "Siirrä purkki valmistuttua jääkaappiin. Käytä huuhtelemalla sitruunanpalan suola pois, kaavimalla hedelmäliha ja valkoinen osa pois ja käyttämällä vain kuori hienonnettuna tai suikaleina tagineissa, viljasalaateissa, pastassa ja kastikkeissa. Myös purkin lientä voi käyttää suolan sijaan."
+    ]
+  },
+  { "id": "forkrecipe-pretzel-rolls", "skip": "lähes kaksoiskappale (baijerilaiset rinkelit)" },
+  { "id": "forkrecipe-pretzel", "skip": "lähes kaksoiskappale (baijerilaiset rinkelit)" },
+  {
+    "id": "forkrecipe-profiteroles",
+    "title": "Profiterolit ja suklaakastike",
+    "description": "Ilmavat, keskeltä ontot tuulihatut täytetään kuohkealla vaniljakermavaahdolla ja hukutetaan silkkiseen lämpimään suklaakastikkeeseen – pariisilaisbistron kohtuuttoman täydellinen jälkiruoka jauhoista, voista, munista ja suklaasta.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 120,
+    "category": "Jälkiruoat",
+    "tags": ["ranskalainen", "kasvis", "suklaa", "leivonnainen"],
+    "ingredients": [
+      "Tuulihatut:",
+      "125 g vehnäjauhoja, siivilöitynä",
+      "80 g suolatonta voita, kuutioina",
+      "2 dl vettä",
+      "3 kananmunaa (n. 160 g), kevyesti vatkattuina",
+      "½ tl suolaa",
+      "2 tl sokeria",
+      "Täyte ja kastike:",
+      "3 dl kuohukermaa",
+      "150 g tummaa suklaata (70 %), hienoksi rouhittuna",
+      "1 tl vaniljauutetta"
+    ],
+    "instructions": [
+      "Yhdistä vesi, voi, suola ja sokeri paksupohjaisessa kattilassa keskilämmöllä ja sekoita, kunnes voi on sulanut. Nosta lämpöä ja kuumenna voimakkaaseen kiehuntaan.",
+      "Kaada kaikki jauhot kerralla kiehuvaan nesteeseen ja sekoita heti voimakkaasti puulusikalla, kunnes taikina on sileä pallo. Palauta keskilämmölle ja kuivata sekoittaen ja painellen 1–2 minuuttia, kunnes pohjaan muodostuu ohut kalvo. Siirrä kulhoon ja vatkaa hetki jäähtymään. Lisää munat 6–8 erässä hyvin vatkaten. Lopeta, kun taikina valuu hitaana V-muotona ja pitää muotonsa pursotettaessa.",
+      "Kuumenna uuni 200 asteeseen. Pursota taikinasta noin 3 cm pyörylöitä leivinpaperille 5 cm välein. Siloita huiput kostealla sormella. Paista 20–25 minuuttia, kunnes tuulihatut ovat kohonneita, syvän kullanruskeita ja jäykkiä; älä avaa uunia ensimmäisten 15 minuutin aikana. Laske lämpö 170 asteeseen ja paista vielä 5 minuuttia. Pistä jokaisen pohjaan reikä vartaalla ja jäähdytä kokonaan.",
+      "Kuumenna puolet kermasta juuri kiehumispisteeseen ja kaada suklaan päälle. Anna olla 90 sekuntia ja sekoita keskeltä alkaen sileäksi ja kiiltäväksi. Lisää tarvittaessa tilkka kermaa. Pidä lämpimänä kuuman veden päällä.",
+      "Vatkaa loput kylmästä kermasta vaniljan kanssa kylmässä kulhossa kiinteäksi mutta kuohkeaksi vaahdoksi ja siirrä pursotinpussiin. Tee jokaisen tuulihatun pohjaan pieni viilto ja pursota kermaa sisään, kunnes tuulihattu tuntuu painavammalta. Kasaa kulhoon tai lautaselle ja kaada lämmin suklaakastike päälle pöydässä. Tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-provencal-tian",
+    "title": "Provencelainen tian – kerrostettu kasvisvuoka",
+    "description": "Kesäkurpitsan, kypsän tomaatin ja kiinteän perunan viipaleet asetellaan limittäisiksi spiraaleiksi oliiviöljyllä voideltuun savivuokaan ja paistetaan, kunnes reunat saavat väriä ja kasvikset sulautuvat toisiinsa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 90,
+    "category": "Lisukkeet",
+    "tags": ["ranskalainen", "vegaaninen", "kasvis", "gluteeniton", "uuniruoka"],
+    "ingredients": [
+      "350 g kesäkurpitsaa, 5 mm viipaleina",
+      "350 g kypsiä luumutomaatteja, 5 mm viipaleina",
+      "300 g kiinteitä perunoita, kuorittuina ja 5 mm viipaleina",
+      "1 dl ekstra-neitsytoliiviöljyä (+ 2 rkl viimeistelyyn)",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "1 rkl tuoretta timjamia, lehdet",
+      "1 tl tuoretta rosmariinia, hienonnettuna",
+      "suolahiutaleita",
+      "mustapippuria"
+    ],
+    "instructions": [
+      "Viipaloi kaikki kasvikset mandoliinilla tai terävällä veitsellä tasaisen 5 mm paksuiksi, jotta ne kypsyvät tasaisesti.",
+      "Voitele leveän savi- tai gratiinivuoan pohja kolmanneksella oliiviöljystä ja ripottele valkosipuliviipaleet öljyyn. Asettele kasvisviipaleet pystyyn limittäisiksi riveiksi vuorotellen peruna, kesäkurpitsa ja tomaatti, kukin hieman edellisen varaan nojaten. Valuta päälle loput öljystä, ripottele yrtit viipaleiden väliin ja mausta reilusti suolalla ja pippurilla.",
+      "Peitä vuoka foliolla ja paista 180 °C:ssa 40 minuuttia. Poista folio ja nosta uunin lämpö 220 asteeseen. Paista vielä 25–35 minuuttia, kunnes pinta on syvän kullanruskea ja tomaattien reunat karamellisoituneet. Valuta päälle hieman oliiviöljyä ja anna levätä 10 minuuttia ennen tarjoilua."
+    ]
+  },
+  { "id": "forkrecipe-pulled-pork-shoulder", "skip": "lähes kaksoiskappale (BBQ pulled pork)" },
+  { "id": "forkrecipe-pulled-pork", "skip": "lähes kaksoiskappale (BBQ pulled pork)" }
+]
