@@ -1,6 +1,6 @@
 {
- "version": "2026-10-11-1h3uby1",
- "generatedAt": "2026-10-11T14:54:37.783Z",
+ "version": "2026-10-11-hk5mhq",
+ "generatedAt": "2026-10-11T17:54:53.771Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -79,6 +79,18 @@
    "year": 1849,
    "file": "kokkikirja.json",
    "count": 25,
+   "withImage": 0
+  },
+  {
+   "id": "apicius",
+   "name": "Apicius (n. 400 jaa.)",
+   "homepage": "https://www.gutenberg.org/ebooks/29728",
+   "license": "Public domain",
+   "attribution": "Apicius, De re coquinaria – Rooman keittokirja n. 400-luvulta jaa. Englanninnos J. D. Vehling: Cookery and Dining in Imperial Rome (1936). Digitointi: Project Gutenberg.",
+   "changes": "Alkuperäinen teksti säilytetty sellaisenaan; lisätty nykykielinen tulkinta, jossa ainekset ja määrät on arvioitu nykymitoin.",
+   "year": 400,
+   "file": "apicius.json",
+   "count": 239,
    "withImage": 0
   },
   {

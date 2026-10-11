@@ -1,0 +1,648 @@
+[
+ {
+  "id": "apicius-026",
+  "title": "Hapro säilöttynä hunajaan ja etikkaan",
+  "description": "Hapro tai hierakka säilötään myrttimarjojen, hunajan ja etikan kanssa – tai sinappi-hunajaliemeen.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "yrtit",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "300 g haproa tai hierakkaa",
+   "1 rkl katajanmarjoja tai myrttimarjoja",
+   "1 dl hunajaa",
+   "2 dl viinietikkaa"
+  ],
+  "instructions": [
+   "Puhdista lehdet ja kerrosta ne purkkiin marjojen kanssa.",
+   "Sekoita hunaja ja etikka ja kaada päälle niin, että lehdet peittyvät.",
+   "Toinen tapa: sekoita sinappia, hunajaa, etikkaa ja suolaa ja peitä lehdet sillä."
+  ]
+ },
+ {
+  "id": "apicius-027",
+  "title": "Tryffeleiden säilytys",
+  "description": "Tryffelit, joita ei saa kastella, kerrostetaan kuivaan sahanpuruun suljetussa astiassa viileässä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "säilöntä",
+   "sienet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "4 tryffeliä"
+  ],
+  "instructions": [
+   "Älä pese tryffeleitä.",
+   "Kerrosta ne astiaan kuivan sahanpurun (tai riisin) väliin, sulje tiiviisti ja säilytä viileässä."
+  ]
+ },
+ {
+  "id": "apicius-028",
+  "title": "Persikat etikassa ja kynteliassa",
+  "description": "Kovat persikat suolavedessä yön yli, sitten etikkaan suolan ja kyntelin kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "persikka",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "6 kovaa persikkaa",
+   "1 l vettä",
+   "3 rkl suolaa",
+   "1 tl suolaa",
+   "1 tl kuivattua kynteliä",
+   "5 dl viinietikkaa"
+  ],
+  "instructions": [
+   "Laita persikat suolaveteen yön yli.",
+   "Huuhtele, asettele purkkiin, ripottele päälle suolaa ja kynteliä ja peitä etikalla."
+  ]
+ },
+ {
+  "id": "apicius-030",
+  "title": "Vihreiden oliivien säilytys",
+  "description": "Tuoreet oliivit suolaveteen, jotta niistä voi puristaa vihreää öljyä milloin vain.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "oliivit",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "500 g tuoreita vihreitä oliiveja",
+   "1 l vettä",
+   "1 dl suolaa"
+  ],
+  "instructions": [
+   "Liuota suola veteen.",
+   "Upota oliivit liemeen ja säilytä viileässä. Niitä voi käyttää kuin juuri poimittuja."
+  ]
+ },
+ {
+  "id": "apicius-031",
+  "title": "Laser-kastike (laseratum)",
+  "description": "Asafetida eli roomalaisen silfionin korvike liuotetaan haaleaan kalakastikkeeseen yrttien, hunajan ja etikan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "¼ tl asafetidaa (hing)",
+   "½ tl mustapippuria",
+   "1 rkl hienonnettua persiljaa",
+   "1 tl kuivattua minttua",
+   "1 rkl hunajaa",
+   "2 rkl viinietikkaa",
+   "3 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Jauha pippuri, persilja ja minttu huhmareessa.",
+   "Lisää asafetida, hunaja, etikka ja kalakastike ja sekoita. Käytä mausteena lihalle ja kasviksille."
+  ]
+ },
+ {
+  "id": "apicius-032",
+  "title": "Toinen laser-kastike",
+  "description": "Pippuria, kuminaa, aniksia, persiljaa ja minttua silfionin lehtien kanssa, hunajaa, etikkaa ja garumia.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "½ tl kuminaa",
+   "½ tl aniksensiemeniä",
+   "1 rkl hienonnettua persiljaa",
+   "1 tl kuivattua minttua",
+   "¼ tl asafetidaa (hing)",
+   "1 laakerinlehti murskattuna",
+   "1 rkl hunajaa",
+   "2 rkl viinietikkaa",
+   "3 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Jauha mausteet ja yrtit huhmareessa.",
+   "Sekoita joukkoon hunaja, etikka ja kalakastike."
+  ]
+ },
+ {
+  "id": "apicius-033",
+  "title": "Viinikastike tryffeleille",
+  "description": "Pippuria, lipstikkaa, korianteria ja ruutaa garumin, hunajan ja öljyn kanssa – tai timjamia ja kynteliä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "sienet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "½ tl korianterinsiemeniä",
+   "ripaus ruutaa tai persiljaa",
+   "2 rkl kalakastiketta (garum)",
+   "1 rkl hunajaa",
+   "1 rkl oliiviöljyä",
+   "1 dl valkoviiniä"
+  ],
+  "instructions": [
+   "Jauha mausteet huhmareessa.",
+   "Sekoita joukkoon kalakastike, hunaja, öljy ja viini ja lämmitä.",
+   "Kaada keitettyjen tai paistettujen tryffelien tai herkkusienten päälle. (Toinen tapa: timjamia, kynteliä, pippuria, lipstikkaa, hunajaa, garumia ja öljyä.)"
+  ]
+ },
+ {
+  "id": "apicius-034",
+  "title": "Juustokumina-inkivääritahna (oxyporum)",
+  "description": "”Helppo kulku” – ruoansulatusta edistävä maustetahna kuminasta, inkivääristä, taateleista, pippurista ja hunajasta.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "2 rkl juustokuminaa",
+   "1 dl viinietikkaa",
+   "1 rkl jauhettua inkivääriä",
+   "4 taatelia",
+   "1 tl mustapippuria",
+   "1,5 dl hunajaa"
+  ],
+  "instructions": [
+   "Liota kumina etikassa, keitä etikka pois ja jauha kumina.",
+   "Survo joukkoon inkivääri, taatelit ja pippuri ja sekoita hunajaan. (Alkuperäisessä myös salpietaria.)",
+   "Käytä mausteena tarpeen mukaan."
+  ]
+ },
+ {
+  "id": "apicius-035",
+  "title": "Juusto-pähkinäkastike (hypotrima)",
+  "description": "Pippuria, lipstikkaa, minttua, pinjansiemeniä ja rusinoita makean juuston, hunajan, viinin ja garumin kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "juusto",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "1 tl kuivattua minttua",
+   "3 rkl pinjansiemeniä",
+   "2 rkl rusinoita",
+   "150 g tuorejuustoa tai ricottaa",
+   "1 rkl hunajaa",
+   "1 rkl viinietikkaa",
+   "1 rkl kalakastiketta (garum)",
+   "3 rkl valkoviiniä",
+   "2 rkl oliiviöljyä",
+   "2 rkl rypälesiirappia"
+  ],
+  "instructions": [
+   "Jauha mausteet, pinjansiemenet ja rusinat huhmareessa tai tehosekoittimessa.",
+   "Sekoita joukkoon juusto ja loput aineet sileäksi kastikkeeksi."
+  ]
+ },
+ {
+  "id": "apicius-036",
+  "title": "Hapan kalakastike (oxygarum)",
+  "description": "Ruoansulatusta edistävä mausteseos pippurista, kardemummasta, kuminasta ja mintusta, sidottu hunajalla; käyttöön garumin ja etikan kanssa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "1 rkl mustapippuria",
+   "½ tl asafetidaa (hing)",
+   "1 tl kardemummaa",
+   "1 tl juustokuminaa",
+   "1 laakerinlehti",
+   "1 tl kuivattua minttua",
+   "2 rkl hunajaa",
+   "kalakastiketta (garum) ja viinietikkaa tarjoiluun"
+  ],
+  "instructions": [
+   "Jauha mausteet yksi kerrallaan ja sekoita ne hunajaan tahnaksi.",
+   "Sekoita käyttöön otettaessa kalakastikkeeseen ja etikkaan maun mukaan."
+  ]
+ },
+ {
+  "id": "apicius-037",
+  "title": "Toinen hapan kalakastike",
+  "description": "Pippuria, persiljaa, kuminaa ja lipstikkaa hunajaan; käytettäessä garumia ja etikkaa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "mausteet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "1 rkl mustapippuria",
+   "1 rkl kuivattua persiljaa",
+   "1 rkl kuminaa",
+   "1 rkl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "2 rkl hunajaa",
+   "kalakastiketta (garum) ja viinietikkaa tarjoiluun"
+  ],
+  "instructions": [
+   "Jauha mausteet ja sekoita hunajaan.",
+   "Lisää käytettäessä kalakastiketta ja etikkaa."
+  ]
+ },
+ {
+  "id": "apicius-038",
+  "title": "Yrttitahna huhmareesta (mortaria)",
+  "description": "Tuoretta minttua, ruutaa, korianteria ja fenkolia survotaan hienoksi; joukkoon lipstikkaa, pippuria, hunajaa, garumia ja etikkaa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "yrtit",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "1 dl tuoretta minttua",
+   "ripaus ruutaa tai persiljaa",
+   "½ dl tuoretta korianteria",
+   "½ dl fenkolin vihreitä",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "½ tl mustapippuria",
+   "1 rkl hunajaa",
+   "2 rkl kalakastiketta (garum)",
+   "2 rkl viinietikkaa"
+  ],
+  "instructions": [
+   "Survo tuoreet yrtit hienoksi huhmareessa.",
+   "Lisää lipstikka, pippuri, hunaja, kalakastike ja etikka ja sekoita."
+  ]
+ },
+ {
+  "id": "apicius-039",
+  "title": "Kuminakastike ostereille ja simpukoille",
+  "description": "Runsaasti kuminaa, pippuria, lipstikkaa, persiljaa ja minttua hunajan, etikan ja garumin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "äyriäiset",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "1 rkl hienonnettua persiljaa",
+   "1 tl kuivattua minttua",
+   "1 laakerinlehti murskattuna",
+   "2 tl juustokuminaa",
+   "1 rkl hunajaa",
+   "2 rkl viinietikkaa",
+   "2 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Jauha mausteet ja yrtit huhmareessa.",
+   "Sekoita joukkoon hunaja, etikka ja kalakastike. Tarjoa ostereiden tai simpukoiden kanssa."
+  ]
+ },
+ {
+  "id": "apicius-040",
+  "title": "Toinen kuminakastike",
+  "description": "Pippuria, lipstikkaa, persiljaa, minttua ja runsaasti kuminaa hunajan, etikan ja garumin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "1 rkl hienonnettua persiljaa",
+   "1 tl kuivattua minttua",
+   "1 rkl juustokuminaa",
+   "1 rkl hunajaa",
+   "2 rkl viinietikkaa",
+   "2 rkl kalakastiketta (garum)"
+  ],
+  "instructions": [
+   "Jauha mausteet ja yrtit.",
+   "Sekoita joukkoon hunaja, etikka ja kalakastike."
+  ]
+ },
+ {
+  "id": "apicius-041",
+  "title": "Äyriäistahna lipstikalla ja kuminalla (isicia)",
+  "description": "Hienonnetuista meren antimista – hummerista, kalmarista, kampasimpukoista tai ostereista – tehty taikina, maustettuna lipstikalla, pippurilla, kuminalla ja asafetidalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "500 g sekalaisia äyriäisiä tai kalmaria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "½ tl mustapippuria",
+   "½ tl juustokuminaa",
+   "ripaus asafetidaa (hing)",
+   "1 kananmuna",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Hienonna äyriäiset tahnaksi.",
+   "Mausta lipstikalla, pippurilla, kuminalla ja asafetidalla ja sido munalla.",
+   "Muotoile pieniksi pihveiksi ja paista öljyssä."
+  ]
+ },
+ {
+  "id": "apicius-042",
+  "title": "Kalmaripyörykät",
+  "description": "Kalmarin liha survotaan tahnaksi, muotoillaan pyöryköiksi ja keitetään kalakastikkeella maustetussa liemessä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kalmari",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "600 g kalmaria puhdistettuna",
+   "1 l vettä",
+   "3 rkl kalakastiketta (garum)",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Hienonna kalmari ja survo tai jauha tahnaksi. Mausta pippurilla.",
+   "Muotoile pieniksi pyöryköiksi.",
+   "Keitä pyörykät kalakastikkeella maustetussa vedessä kypsiksi ja asettele kauniisti vadille."
+  ]
+ },
+ {
+  "id": "apicius-043",
+  "title": "Hummeri- tai rapupyörykät",
+  "description": "Äyriäisen liha survotaan pippurin ja parhaan garumin kanssa, muotoillaan pikku kakuiksi ja paistetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g kypsää hummerin- tai ravunlihaa",
+   "½ tl mustapippuria",
+   "1 rkl kalakastiketta (garum)",
+   "1 kananmuna",
+   "2 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Survo äyriäisen liha pippurin ja kalakastikkeen kanssa.",
+   "Sido munalla, muotoile pieniksi kakuiksi ja paista öljyssä."
+  ]
+ },
+ {
+  "id": "apicius-044",
+  "title": "Porsaanmaksanyytit verkkorasvassa (omentata)",
+  "description": "Paistettu porsaanmaksa survotaan pippurin ja ruudan kanssa, kääritään verkkorasvaan ja laakerinlehtiin ja savustetaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "maksa",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g porsaanmaksaa",
+   "½ tl mustapippuria",
+   "ripaus ruutaa tai persiljaa",
+   "1 rkl kalakastiketta (garum)",
+   "150 g porsaan verkkorasvaa (tai pekonia)",
+   "8 laakerinlehteä",
+   "2 dl lihakastiketta"
+  ],
+  "instructions": [
+   "Paista maksaa kevyesti ja poista kalvot.",
+   "Survo pippuri ja ruuta kalakastikkeen kanssa, lisää maksa ja survo tahnaksi.",
+   "Muotoile pieniksi makkaroiksi, kääri verkkorasvaan ja laakerinlehtiin. (Alkuperäisessä ne savustettiin.)",
+   "Paista ennen tarjoilua ja tarjoa kastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "apicius-045",
+  "title": "Aivovanukas oreganokastikkeessa",
+  "description": "Keitetyt aivot sekoitetaan munien ja mausteiden kanssa vanukkaaksi, paloitellaan ja lämmitetään pippuri-oreganokastikkeessa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "sisäelimet",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g keitettyjä vasikan- tai lampaanaivoja",
+   "5 kananmunaa",
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "1 tl kuivattua oreganoa",
+   "3 rkl kalakastiketta (garum)",
+   "Kastike:",
+   "½ tl mustapippuria",
+   "½ tl kuivattua oreganoa",
+   "3 dl lihalientä",
+   "1 rkl perunajauhoja"
+  ],
+  "instructions": [
+   "Survo pippuri, lipstikka ja oregano kalakastikkeen kanssa, lisää aivot ja sekoita kokkareettomaksi. Sekoita joukkoon munat.",
+   "Levitä voideltuun vuokaan ja kypsennä 175 asteessa noin 25 minuuttia. Anna jäähtyä, kumoa ja leikkaa paloiksi.",
+   "Kastike: kiehauta mausteet liemessä, suurusta ja siivilöi. Lämmitä palat kastikkeessa ja tarjoa pippuria pinnalla."
+  ]
+ },
+ {
+  "id": "apicius-046",
+  "title": "Kampasimpukkapyörykät",
+  "description": "Kypsät kampasimpukat hienonnetaan speltin ja munien kanssa, kääritään verkkorasvaan ja paistetaan; alle runsas kalakastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "spelt",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "400 g kampasimpukoita",
+   "2 dl keitettyä speltinjyviä",
+   "2 kananmunaa",
+   "½ tl mustapippuria",
+   "100 g verkkorasvaa tai pekonia",
+   "2 rkl oliiviöljyä",
+   "1 dl kalakastiketta (garum) ja vettä sekoitettuna"
+  ],
+  "instructions": [
+   "Kypsennä simpukat kevyesti ja hienonna ne.",
+   "Sekoita spelttiin ja muniin, mausta pippurilla ja muotoile pyöryköiksi.",
+   "Kääri verkkorasvaan ja paista öljyssä. Tarjoa kalakastikkeen päällä alkuruokana."
+  ]
+ },
+ {
+  "id": "apicius-047",
+  "title": "Porsasnyytit vehnällä ja pähkinöillä",
+  "description": "Hienonnettu porsaanliha sekoitetaan vehnän ja viinin kanssa, maustetaan pippurilla, myrttimarjoilla ja pähkinöillä ja kääritään verkkorasvaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "pähkinät",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "500 g porsaan jauhelihaa",
+   "1 dl keitettyjä vehnänjyviä tai bulguria",
+   "1 dl punaviiniä",
+   "½ tl mustapippuria",
+   "1 rkl kalakastiketta (garum)",
+   "1 tl katajanmarjoja murskattuina",
+   "3 rkl hienonnettuja pinjansiemeniä tai saksanpähkinöitä",
+   "150 g verkkorasvaa tai pekonia",
+   "2 dl viinikastiketta"
+  ],
+  "instructions": [
+   "Sekoita jauheliha, vehnä, viini, pippuri ja kalakastike.",
+   "Lisää murskatut marjat ja pähkinät ja muotoile pieniksi rulliksi.",
+   "Kääri verkkorasvaan, paista ja tarjoa viinikastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "apicius-048",
+  "title": "Fasaaninyytit",
+  "description": "Paahdettu fasaani kuutioidaan ja sekoitetaan fasaanin rasvasta ja leikkeistä tehtyyn taikinaan; nyytit haudutetaan kalakastikkeella maustetussa vedessä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "linnut",
+   "riista",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "1 fasaani tai 600 g kanaa",
+   "1 kananmuna",
+   "½ tl mustapippuria",
+   "2 rkl kalakastiketta (garum)",
+   "2 rkl keitettyä punaviiniä",
+   "1 l vettä"
+  ],
+  "instructions": [
+   "Paahda fasaani kevyesti, kuutioi rintaliha ja jauha loppu liha nahan ja rasvan kanssa tahnaksi.",
+   "Sekoita kuutiot, tahna, muna, pippuri, puolet kalakastikkeesta ja viini ja muotoile nyyteiksi lusikalla.",
+   "Hauduta nyytit vedessä, jota on maustettu lopulla kalakastikkeella."
+  ]
+ },
+ {
+  "id": "apicius-049",
+  "title": "Nyytit maustetussa liemessä (hydrogarata)",
+  "description": "Pippurilla, lipstikalla ja hiukan bertramilla maustettu kalakastikeliemi, jossa haudutetaan lihanyytit – liemi juodaan pöydässä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "½ tl mustapippuria",
+   "1 tl kuivattua lipstikkaa tai sellerinsiemeniä",
+   "ripaus bertraminjuurta tai inkivääriä",
+   "3 rkl kalakastiketta (garum)",
+   "1 l vettä",
+   "400 g valmiita lihanyyttejä (pyörykkätaikinaa)"
+  ],
+  "instructions": [
+   "Survo mausteet ja sekoita kalakastikkeeseen ja veteen. Anna maustua hetki.",
+   "Keitä lientä hieman kokoon ja siivilöi.",
+   "Hauduta nyytit liemessä kypsiksi ja tarjoa liemen kanssa."
+  ]
+ },
+ {
+  "id": "apicius-050",
+  "title": "Kanapyörykät",
+  "description": "Raaka kananliha, jauhot, liemi ja pippuri – yksinkertainen roomalainen pyörykkätaikina.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "roomalainen"
+  ],
+  "ingredients": [
+   "500 g kananlihaa",
+   "1 dl vehnä- tai ohrajauhoja",
+   "1,5 dl kanalientä",
+   "½ tl mustapippuria",
+   "1 l kanalientä keittämiseen"
+  ],
+  "instructions": [
+   "Jauha kananliha ja sekoita jauhoihin, liemeen ja pippuriin.",
+   "Muotoile pyöryköiksi ja keitä kypsiksi liemessä."
+  ]
+ },
+ {
+  "id": "apicius-029",
+  "skip": "lääkinnällinen suolasekoitus (ammoniakkisuolaa), ei ruokaresepti"
+ }
+]

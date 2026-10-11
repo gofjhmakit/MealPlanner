@@ -95,6 +95,15 @@ export const OPEN_SOURCES = [
     year: 1849,
   },
   {
+    id: 'apicius',
+    name: 'Apicius (n. 400 jaa.)',
+    homepage: 'https://www.gutenberg.org/ebooks/29728',
+    license: 'Public domain',
+    attribution: 'Apicius, De re coquinaria – Rooman keittokirja n. 400-luvulta jaa. Englanninnos J. D. Vehling: Cookery and Dining in Imperial Rome (1936). Digitointi: Project Gutenberg.',
+    changes: HISTORICAL,
+    year: 400,
+  },
+  {
     id: 'formeofcury',
     name: 'The Forme of Cury (n. 1390)',
     homepage: 'https://www.gutenberg.org/ebooks/8102',
