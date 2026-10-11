@@ -486,7 +486,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
 
       <AddToPlanDialog recipe={recipe} open={planOpen} onClose={() => setPlanOpen(false)} />
       <AddToShoppingListDialog recipe={recipe} servings={servings} open={shopOpen} onClose={() => setShopOpen(false)} />
-      {cooking && <CookingMode recipe={recipe} factor={factor} servings={servings} onClose={() => setCooking(false)} />}
+      {cooking && <CookingMode recipe={recipe} factor={factor} servings={servings} leftoverNote={leftoverNote} onClose={() => setCooking(false)} />}
       <IngredientMappingDialog recipe={recipe} ingredient={editing} open={!!editing} onClose={() => setEditing(null)} />
     </div>
   )
@@ -764,7 +764,7 @@ function stepTextClass(length: number): string {
   return 'max-w-[30ch] text-[1.75rem] sm:text-4xl lg:max-w-[32ch] lg:text-5xl 3xl:text-[4.25rem]'
 }
 
-function CookingMode({ recipe, factor, servings, onClose }: { recipe: Recipe; factor: number; servings: number; onClose: () => void }) {
+function CookingMode({ recipe, factor, servings, leftoverNote, onClose }: { recipe: Recipe; factor: number; servings: number; leftoverNote: string; onClose: () => void }) {
   const steps = recipe.instructions.map((s, i) => ({ s, i })).filter((x) => !x.s.endsWith(':'))
   // Closing cook mode midway and coming back continues from the same step.
   const stepKey = `cook.step:${recipe.id}`
