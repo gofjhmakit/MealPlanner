@@ -63,6 +63,8 @@ export interface RecipeFilters {
   minRating: number | null
   /** Only recipes where at least this share of (non-pantry-basic) ingredients is available at home. */
   pantryMinShare: number | null
+  /** Only old recipes (tag "historiallinen"). */
+  historical?: boolean
 }
 
 export const EMPTY_FILTERS: RecipeFilters = {
@@ -181,6 +183,7 @@ export function filterRecipes(recipes: Recipe[], filters: RecipeFilters, ctx: Re
   const needsNutrition = filters.highProtein || filters.lowCalorie
   return recipes.filter((r) => {
     if (filters.type && recipeType(r) !== filters.type) return false
+    if (filters.historical && !r.tags.includes('historiallinen')) return false
     if (filters.query && !matchesQuery(searchText(r), filters.query)) return false
     if (filters.vegan || filters.vegetarian) {
       const diet = recipeDiet(r, ctx.lookup)

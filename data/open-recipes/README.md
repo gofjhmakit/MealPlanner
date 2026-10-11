@@ -10,6 +10,8 @@ Openly licensed recipe collections, translated into Finnish for the app's recipe
 | [ForkRecipe](https://github.com/futurechef/forkrecipe-recipes) | 963 | CC BY-SA 4.0 | ForkRecipe and its authors |
 | [Wikibooks Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents) | 3 798 | CC BY-SA 4.0 | Wikibooks contributors (dump: [gossminn/wikibooks-cookbook](https://huggingface.co/datasets/gossminn/wikibooks-cookbook), 2024-07-31) |
 | [Open Recipe Archive](https://github.com/AdamBouhmad/open-recipe-archive) | 2 British sauces | Public domain (historical 1861 recipes) | Isabella Beeton, *The Book of Household Management* (1861); Open Recipe Archive |
+| [Kokki-kirja](https://www.gutenberg.org/ebooks/73445) (1849) | 382 (25 done) | Public domain | J. F. Granlund (ed.), Turku 1849 – the first cookbook in Finnish; Project Gutenberg |
+| [The Forme of Cury](https://www.gutenberg.org/ebooks/8102) (c. 1390) | 190 (25 done) | Public domain | Master cooks of Richard II; ed. Samuel Pegge (1780); Project Gutenberg |
 | [Open Recipe Project](https://github.com/reZach/open-recipe-project) | 2 pictured main dishes | CC0 (recipe and accompanying photograph) | Open Recipe Project contributors |
 
 **Licence of the translations.** The Finnish versions in `fi/` and `public/data/open-recipes/`
@@ -49,6 +51,22 @@ source files, and Wikibooks pages that aren't recipes (see `skip` reasons in `fi
 Not used, because the licence doesn't allow redistribution or is unclear: RecipeNLG / Recipe1M
 (research only), Kaggle datasets scraped from commercial sites (licence claims unreliable),
 Open Recipes (scraped), TheMealDB (not openly licensed).
+
+## Historical cookbooks
+
+`node scripts/open-recipes/normalize-gutenberg.ts` splits the Project Gutenberg texts (download
+`pg73445.txt` and `pg8102.txt` into `raw/gutenberg/`) into `en/kokkikirja.json` and
+`en/formeofcury.json`, one record per recipe with the **original wording** and no ingredient list.
+The Finnish file adds a modern interpretation: a modern title, an ingredient list in today's
+units (old measures such as naula ≈ 425 g, tooppi ≈ 1,3 l, kannu ≈ 2,6 l, kortteli ≈ 3,3 dl are
+converted, unstated amounts estimated for ~4–6 servings, `servingsEstimated: true`) and modern steps.
+Substitute what can't be had today and say so in a step ("alkuperäisessä myös verta"); medieval
+spice mixes: *powdour douce* = sugar, cinnamon, ginger (nutmeg); *powdour fort* = pepper, ginger, cloves.
+The build keeps the original text and year (shown on the recipe page under the modern version),
+adds the tags `historiallinen` and the century (`1300-luku`, `1800-luku`; Beeton 1861 gets them too),
+and the app's "Vanhat reseptit" chip filters on that tag. Historical recipes are not used in
+automatic meal suggestions. The same Gutenberg book also holds *Ancient Cookery* (1381) after the
+roll – not parsed yet. Robert May's *The Accomplisht Cook* (1660, ebook #22790) is another candidate.
 
 ## Backlog
 

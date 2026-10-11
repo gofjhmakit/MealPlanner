@@ -134,6 +134,9 @@ export const recipeSchema = z.object({
       imageCredit: z.string().nullish(),
       imageLicense: z.string().nullish(),
       imageLicenseUrl: httpUrl,
+      /** Historical recipes: the source's own wording and its year (shown under the modern version). */
+      originalText: z.string().nullish(),
+      originalYear: z.number().nullish(),
     })
     .nullish(),
   sourceNutrition: sourceNutritionSchema.nullish(),

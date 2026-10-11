@@ -31,6 +31,9 @@ const photos: Record<string, OpenRecipeRecord['image']> = existsSync(PHOTOS_FILE
 /** What was changed (CC BY-SA asks for it). The app adds the share-alike sentence per recipe licence. */
 const TRANSLATED = 'Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös).'
 
+/** Old cookbooks write recipes as prose without amounts: the catalogue adds a modern reading and keeps the original. */
+const HISTORICAL = 'Alkuperäinen teksti säilytetty sellaisenaan; lisätty nykykielinen tulkinta, jossa ainekset ja määrät on arvioitu nykymitoin.'
+
 /** Shown in the app (Settings → Reseptiaineistot) and on every recipe from the source. */
 export const OPEN_SOURCES = [
   {
@@ -80,6 +83,25 @@ export const OPEN_SOURCES = [
     license: 'Public domain',
     attribution: 'Isabella Beeton, The Book of Household Management (1861); kooste: Open Recipe Archive.',
     changes: 'Suomennettu ja mitat muunnettu metrisiksi.',
+    year: 1861,
+  },
+  {
+    id: 'kokkikirja',
+    name: 'Kokki-kirja (1849)',
+    homepage: 'https://www.gutenberg.org/ebooks/73445',
+    license: 'Public domain',
+    attribution: 'J. F. Granlund (toim.), Kokki-kirja elikkä Neuvoja tarpeellisempien Joka-aikaisten Pitoruokien Laitokseen. Turku: J. S. Frenckell ja Poika, 1849 – ensimmäinen suomenkielinen keittokirja. Digitointi: Project Gutenberg.',
+    changes: HISTORICAL,
+    year: 1849,
+  },
+  {
+    id: 'formeofcury',
+    name: 'The Forme of Cury (n. 1390)',
+    homepage: 'https://www.gutenberg.org/ebooks/8102',
+    license: 'Public domain',
+    attribution: 'The Forme of Cury – kuningas Rikhard II:n hovikeittiön reseptikäärö n. vuodelta 1390, toim. Samuel Pegge (1780). Digitointi: Project Gutenberg.',
+    changes: HISTORICAL,
+    year: 1390,
   },
   {
     id: 'openrecipeproject',
@@ -132,6 +154,9 @@ export interface OpenRecipeRecord {
   author?: string
   license: string
   licenseUrl?: string
+  /** Historical sources: the original wording and the book's year. */
+  originalText?: string
+  year?: number
 }
 
 // --- load the app's own parser + matcher ---------------------------------------------------------
@@ -225,7 +250,7 @@ for (const source of OPEN_SOURCES) {
         totalTimeMin: fi.totalTimeMin || undefined,
         category,
         cuisine: orig.cuisine,
-        tags: [...new Set((fi.tags ?? []).map((t) => t.toLowerCase().trim()).filter(Boolean))],
+        tags: [...new Set([...(fi.tags ?? []), ...('year' in source ? ['historiallinen', `${Math.floor(source.year / 100)}00-luku`] : [])].map((t) => t.toLowerCase().trim()).filter(Boolean))],
         ingredients: fi.ingredients!.map((l) => l.trim()).filter(Boolean),
         instructions: fi.instructions!.map((l) => l.trim()).filter(Boolean),
         notes: fi.notes?.length ? fi.notes : undefined,
@@ -234,6 +259,9 @@ for (const source of OPEN_SOURCES) {
         author: orig.author,
         license: orig.license,
         licenseUrl: orig.licenseUrl,
+        ...(orig.ingredients.length === 0 && 'year' in source
+          ? { originalText: [...orig.instructions, ...(orig.notes?.length ? ['Selityksiä (Pegge 1780):', ...orig.notes] : [])].join('\n\n'), year: source.year }
+          : 'year' in source ? { year: source.year } : {}),
       }))
     }
   }

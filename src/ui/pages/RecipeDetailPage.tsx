@@ -297,6 +297,19 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
           )}
         </ol>
       )}
+      {recipe.attribution?.originalText && (
+        <details open className="mt-6 max-w-[64ch] rounded-2xl border border-line bg-sun-soft/40 p-4">
+          <summary className="cursor-pointer text-sm font-semibold">
+            Alkuperäinen ohje{recipe.attribution.originalYear ? ` (${recipe.attribution.originalYear < 1500 ? 'n. ' : ''}${recipe.attribution.originalYear})` : ''}
+          </summary>
+          <p className="mt-1 text-xs text-muted">Sanasta sanaan kirjasta – yllä oleva valmistusohje ja ainekset ovat nykykielinen tulkinta, määrät arvioita.</p>
+          <div className="mt-3 space-y-3 font-display text-[15px] italic leading-relaxed text-ink-2" lang={recipe.attribution.originalYear && recipe.attribution.originalYear < 1700 ? 'enm' : 'fi'}>
+            {recipe.attribution.originalText.split(/\n\n+/).map((p, i) => (
+              <p key={i} className={/^\[\d+\]|^Selityksiä/.test(p) ? 'font-sans text-xs not-italic text-muted' : undefined}>{p}</p>
+            ))}
+          </div>
+        </details>
+      )}
       {recipe.origin === 'imported' && recipe.instructions.length > 0 && (
         <p className="mt-4 text-xs text-muted">Tuotu ohje on tallennettu vain omaan käyttöösi tälle laitteelle. Tekijänoikeudet: {recipe.sourceName}.</p>
       )}

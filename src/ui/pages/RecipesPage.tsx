@@ -200,6 +200,7 @@ export function RecipesPage() {
           <Chip active={filters.quick} onClick={() => toggle('quick')} title={`Valmistusaika enintään ${QUICK_MAX_MIN} min`}>≤ {QUICK_MAX_MIN} min</Chip>
           <Chip active={filters.vegetarian} onClick={() => toggle('vegetarian')}>Kasvis</Chip>
           <Chip active={filters.pantryMinShare !== null} onClick={() => setFilters((f) => ({ ...f, pantryMinShare: f.pantryMinShare === null ? 0.6 : null }))} title="Vähintään 60 % aineksista löytyy kotoa">Kotona olevista</Chip>
+          <Chip active={!!filters.historical} onClick={() => setFilters((f) => ({ ...f, historical: !f.historical }))} title="Vanhoista keittokirjoista: 1390-luvun Englannista ensimmäiseen suomalaiseen keittokirjaan (1849)">Vanhat reseptit</Chip>
           <Chip active={filters.type === 'aamiainen'} onClick={() => setFilters((f) => ({ ...f, type: f.type === 'aamiainen' ? null : ('aamiainen' as RecipeType) }))}>Aamiaiset</Chip>
         </div>
       </div>

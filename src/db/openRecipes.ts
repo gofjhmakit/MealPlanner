@@ -51,6 +51,8 @@ interface OpenRecipeRecord {
   author?: string
   license: string
   licenseUrl?: string
+  originalText?: string
+  year?: number
 }
 
 const BASE = `${import.meta.env.BASE_URL}data/open-recipes/`
@@ -95,6 +97,8 @@ export function openRecordToRecipe(r: OpenRecipeRecord, source: OpenSourceInfo, 
       imageCredit: r.image?.credit ?? null,
       imageLicense: r.image?.license ?? null,
       imageLicenseUrl: r.image?.licenseUrl ?? null,
+      originalText: r.originalText ?? null,
+      originalYear: r.year ?? null,
     },
     sourceNutrition: null,
     importReport: null,
@@ -140,9 +144,13 @@ export async function syncOpenRecipes(
     let records: OpenRecipeRecord[]
     try {
       const res = await fetchImpl(`${BASE}${source.file}`, { cache: 'no-cache' })
-      if (!res.ok) continue
+      if (!res.ok) {
+        console.warn(`Reseptiaineisto ${source.id}: HTTP ${res.status}`)
+        continue
+      }
       records = ((await res.json()) as { recipes: OpenRecipeRecord[] }).recipes
-    } catch {
+    } catch (e) {
+      console.warn(`Reseptiaineisto ${source.id} jäi lataamatta`, e)
       continue
     }
     const recipes: Recipe[] = []

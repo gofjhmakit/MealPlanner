@@ -1,6 +1,6 @@
 {
- "version": "2026-10-11-19azmdr",
- "generatedAt": "2026-10-11T14:34:10.257Z",
+ "version": "2026-10-11-1h3uby1",
+ "generatedAt": "2026-10-11T14:54:37.783Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -64,8 +64,33 @@
    "license": "Public domain",
    "attribution": "Isabella Beeton, The Book of Household Management (1861); kooste: Open Recipe Archive.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi.",
+   "year": 1861,
    "file": "recipearchive.json",
    "count": 2,
+   "withImage": 0
+  },
+  {
+   "id": "kokkikirja",
+   "name": "Kokki-kirja (1849)",
+   "homepage": "https://www.gutenberg.org/ebooks/73445",
+   "license": "Public domain",
+   "attribution": "J. F. Granlund (toim.), Kokki-kirja elikkä Neuvoja tarpeellisempien Joka-aikaisten Pitoruokien Laitokseen. Turku: J. S. Frenckell ja Poika, 1849 – ensimmäinen suomenkielinen keittokirja. Digitointi: Project Gutenberg.",
+   "changes": "Alkuperäinen teksti säilytetty sellaisenaan; lisätty nykykielinen tulkinta, jossa ainekset ja määrät on arvioitu nykymitoin.",
+   "year": 1849,
+   "file": "kokkikirja.json",
+   "count": 25,
+   "withImage": 0
+  },
+  {
+   "id": "formeofcury",
+   "name": "The Forme of Cury (n. 1390)",
+   "homepage": "https://www.gutenberg.org/ebooks/8102",
+   "license": "Public domain",
+   "attribution": "The Forme of Cury – kuningas Rikhard II:n hovikeittiön reseptikäärö n. vuodelta 1390, toim. Samuel Pegge (1780). Digitointi: Project Gutenberg.",
+   "changes": "Alkuperäinen teksti säilytetty sellaisenaan; lisätty nykykielinen tulkinta, jossa ainekset ja määrät on arvioitu nykymitoin.",
+   "year": 1390,
+   "file": "formeofcury.json",
+   "count": 25,
    "withImage": 0
   },
   {
