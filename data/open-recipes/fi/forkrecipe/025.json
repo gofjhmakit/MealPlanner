@@ -1,0 +1,573 @@
+[
+  {
+    "id": "forkrecipe-persillade",
+    "title": "Persillade – persilja-valkosipulihake",
+    "description": "Ranskalaisen keittiön alkeellisin mauste: lehtipersilja ja raaka valkosipuli hienonnetaan yhdessä, kunnes valkosipuli tuoksuttaa persiljan ja persilja pehmentää valkosipulin. Valmiina viimeistelemään paistokset, paistit ja paahdetut kasvikset.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "vegaaninen", "kasvis", "nopea"],
+    "ingredients": [
+      "50 g lehtipersiljaa (lehdet ja pehmeät varret)",
+      "2 valkosipulinkynttä",
+      "¼ tl suolahiutaleita",
+      "1 rkl ekstra-neitsytoliiviöljyä (valinnainen)"
+    ],
+    "instructions": [
+      "Kuori valkosipulinkynnet ja hienonna ne terävällä veitsellä hyvin hienoksi. Ripottele suola valkosipulin päälle leikkuulaudalla. Hiero valkosipulia ja suolaa veitsen lappeella pitkin vedoin laudalle ja kaavi takaisin terällä; vuorottele hienontamista ja hieromista 2–3 minuuttia, kunnes syntyy sileä tahna.",
+      "Kasaa persiljanlehdet valkosipulitahnan päälle ja hienonna yhdessä keinuvin liikkein, kääntäen seosta välillä keskelle. Lopeta, kun seos on tasainen, tuoksuva ja kirkkaanvihreä, mutta ei märkää mössöä. Valuta halutessasi oliiviöljy päälle ja kääntele joukkoon."
+    ]
+  },
+  { "id": "forkrecipe-peruvian-aji-amarillo-paste", "skip": "lähes kaksoiskappale (ají amarillo -tahna)" },
+  { "id": "forkrecipe-peruvian-ceviche", "skip": "lähes kaksoiskappale (ceviche clásico)" },
+  {
+    "id": "forkrecipe-peruvian-picarones",
+    "title": "Picarones – perulaiset bataattimunkit",
+    "description": "Perun rakastetut munkit: bataatista ja myskikurpitsasta tehty hiivataikina paistetaan renkaiksi, jotka ovat ulkoa rapeita ja sisältä pehmeitä, ja niiden päälle valutetaan aniksella ja kanelilla maustettua chancaca-siirappia.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 180,
+    "category": "Jälkiruoat",
+    "tags": ["perulainen", "vegaaninen", "kasvis", "katuruoka"],
+    "ingredients": [
+      "Taikina:",
+      "250 g bataattia, keitettynä ja muussattuna",
+      "250 g myskikurpitsaa, keitettynä ja muussattuna",
+      "300 g vehnäjauhoja",
+      "7 g kuivahiivaa",
+      "30 g sokeria",
+      "1 tl suolaa",
+      "1 tl aniksensiemeniä, kevyesti murskattuina",
+      "7 dl rypsiöljyä friteeraukseen",
+      "Siirappi:",
+      "250 g chancacaa (ruokosokerikakkua) tai tummaa muscovadosokeria",
+      "3 dl vettä",
+      "1 kanelitanko",
+      "3 neilikkaa",
+      "1 suikale appelsiininkuorta"
+    ],
+    "instructions": [
+      "Varmista, että bataatti- ja kurpitsamuusi ovat haaleita (noin 38 °C). Yhdistä ne isossa kulhossa. Liuota kuivahiiva 3 rkl:aan lämmintä vettä ripauksen sokeria kanssa ja anna vaahdota 5 minuuttia. Lisää hiivaseos, loput sokerista, suola ja anis muusiin. Lisää jauhot vähitellen ja sekoita pehmeäksi, hieman tahmeaksi taikinaksi. Älä lisää liikaa jauhoja.",
+      "Peitä kulho ja kohota lämpimässä (25–28 °C) 1–2 tuntia, kunnes taikina on noin kaksinkertaistunut ja ilmava. Taikina muuttuu yhä tahmeammaksi.",
+      "Pilko chancaca paloiksi ja laita kattilaan veden, kanelin, neilikoiden ja appelsiininkuoren kanssa. Kuumenna keskilämmöllä sekoittaen, kunnes sokeri liukenee, ja keitä hiljaa 10–12 minuuttia siirappimaiseksi. Siivilöi mausteet pois ja pidä lämpimänä.",
+      "Kuumenna öljy syvässä leveässä kattilassa 175 asteeseen. Kastele kädet hyvin. Ota golfpallon kokoinen pala taikinaa, puhkaise keskelle reikä sormella ja venytä noin 10 cm renkaaksi suoraan kuuman öljyn yllä. Pudota öljyyn. Paista 3–4 kerrallaan, kääntäen 2–3 minuutin kuluttua, kunnes molemmat puolet ovat syvän kullanruskeita. Valuta talouspaperilla ja tarjoa lämpimän siirapin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pesto-genovese",
+    "title": "Pesto alla genovese",
+    "description": "Ligurian huhmaressa survottu vihreä: nuoret basilikanlehdet hierotaan marmoria vasten valkosipulin ja pinjansiementen kanssa, kunnes ne vuotavat sähkönvihreää öljyä, ja sidotaan kahdella juustolla ja hedelmäisellä oliiviöljyllä karkeaksi, kimmeltäväksi tahnaksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["italialainen", "kasvis", "kastike", "pasta", "nopea"],
+    "ingredients": [
+      "100 g nuoria basilikanlehtiä",
+      "2 valkosipulinkynttä, kuorittuina ja itu poistettuna",
+      "1 tl karkeaa merisuolaa",
+      "25 g pinjansiemeniä",
+      "35 g parmesaania, hienoksi raastettuna",
+      "15 g kypsää pecorinoa, hienoksi raastettuna",
+      "1 dl mietoa ekstra-neitsytoliiviöljyä"
+    ],
+    "instructions": [
+      "Laita valkosipuli ja karkea suola marmorihuhmareeseen. Murskaa puisella survimella pyörivin liikkein, kunnes valkosipuli on sileää, kosteaa tahnaa.",
+      "Lisää pinjansiemenet ja hiero ne samalla liikkeellä paksuksi, hiekkamaiseksi kreemiksi, jossa ei ole kokonaisia siemeniä.",
+      "Lisää basilika reilu kourallinen kerrallaan ja painele ja pyöritä lehtiä huhmareen reunoja vasten murskaamatta niitä litteiksi. Lisää seuraava kourallinen vasta, kun edellinen on hajonnut. Työskentele reippaasti, ettei basilika ehdi tummua.",
+      "Sekoita molemmat juustot basilikatahnaan. Lisää oliiviöljy ohuena nauhana lusikalla tai survimella sekoittaen, kunnes pesto on kiiltävää ja löysää mutta yhä karkeaa. Maun kuuluu olla yksinään lähes liian voimakas, sillä pesto ohennetaan tarjoiltaessa tärkkelyspitoisella pastan keitinvedellä. Käytä muutaman tunnin kuluessa ja peitä pinta öljykalvolla."
+    ]
+  },
+  {
+    "id": "forkrecipe-pho-broth",
+    "title": "Pho-liemi",
+    "description": "Pho bon sielu: naudanluita haudutetaan tuntikausia kristallinkirkkaaksi, meripihkanväriseksi liemeksi, joka tuoksuu hiillostetulta sipulilta, inkivääriltä ja paahdetuilta mausteilta ja tasapainotetaan kalakastikkeella. Puhdas, aromikas ja yllättävän syvä.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 360,
+    "category": "Keitot",
+    "tags": ["vietnamilainen", "liha", "liemi", "keitto"],
+    "ingredients": [
+      "1 kg naudan ydin- ja nivelluita",
+      "300 g naudan lapaa tai rintaa (yhtenä palana)",
+      "1 keltasipuli, puolitettuna",
+      "60 g tuoretta inkivääriä, kokonaisena",
+      "4 tähtianista",
+      "1 kanelitanko",
+      "5 neilikkaa",
+      "1 rkl korianterinsiemeniä",
+      "1 tl fenkolinsiemeniä",
+      "2½ rkl kalakastiketta",
+      "20 g kidesokeria (rock sugar) tai sokeria",
+      "2 tl suolaa",
+      "6 l kylmää vettä"
+    ],
+    "instructions": [
+      "Peitä luut ja liha kylmällä vedellä isossa kattilassa ja kuumenna kovalla lämmöllä kiehuvaksi. Keitä voimakkaasti 5–7 minuuttia, kunnes pintaan nousee harmaata vaahtoa. Kaada kaikki siivilään, hävitä vesi ja hankaa jokainen luu puhtaaksi juoksevan veden alla. Tämä on kirkkaan liemen tärkein vaihe.",
+      "Hiillosta sipulinpuolikkaat ja inkivääri suoraan liekillä tai kuivalla valurautapannulla kovalla lämmöllä leikkuupinta alaspäin 8–10 minuuttia, käännellen, kunnes pinnat ovat mustia ja rakkuloilla. Huuhtele irtonainen tuhka pois.",
+      "Paahda tähtianis, kaneli, neilikat, korianteri ja fenkoli kuivalla pannulla keskilämmöllä jatkuvasti ravistellen 3–4 minuuttia tuoksuviksi. Sido mausteet harsokangasnyyttiin.",
+      "Peitä puhdistetut luut ja liha tuoreella kylmällä vedellä ja kuumenna hyvin hiljaiseen kiehuntaan, älä koskaan voimakkaaseen. Lisää hiillostettu sipuli, inkivääri ja maustenyytti. Hauduta niin, että pinta vain väreilee, 4–6 tuntia. Kuori vaahto ja rasva 20–30 minuutin välein ensimmäisen tunnin ajan. Nosta liha pois 90 minuutin kohdalla, kun se on mureaa, ja säästä ohuiksi siivuiksi. Lisää kuumaa vettä, jos pinta laskee luiden alle.",
+      "Siivilöi liemi ja palauta kattilaan miedolle lämmölle. Mausta kalakastikkeella, sokerilla ja suolalla vähitellen maistellen. Liemen pitää olla hieman voimakkaampaa kuin sellaisenaan juotavaksi, sillä nuudelit ja raaka liha laimentavat sitä kulhossa."
+    ],
+    "notes": ["Tarjoa riisinuudeleiden, ohuiksi viipaloidun naudanlihan, ituja, thaibasilikan, limetin ja chilin kanssa."]
+  },
+  {
+    "id": "forkrecipe-pickled-jalapenos",
+    "title": "Pikasäilötyt jalapeñot",
+    "description": "Etikan raikastamat, lempeän tuliset säilötyt jalapeñot puolessa tunnissa – rapeita, oliivinvihreitä renkaita, jotka leikkaavat rasvaisuutta ja päihittävät kaupan purkit.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 30,
+    "category": "Säilykkeet",
+    "tags": ["meksikolainen", "vegaaninen", "kasvis", "pikkelsi", "tulinen"],
+    "ingredients": [
+      "250 g tuoreita jalapeñoja, 6 mm renkaina",
+      "1,5 dl valkoviinietikkaa (5 %)",
+      "1,5 dl suodatettua vettä",
+      "1½ rkl sokeria",
+      "1 rkl jodioimatonta suolaa",
+      "3 valkosipulinkynttä, murskattuina",
+      "1 tl mustapippuria, kokonaisena",
+      "1 tl kuivattua oreganoa"
+    ],
+    "instructions": [
+      "Yhdistä etikka, vesi, sokeri ja suola pienessä kattilassa. Kuumenna keskilämmöllä hiljaa kiehuvaksi sekoittaen, kunnes sokeri ja suola liukenevat. Nosta liedeltä heti, kun liemi on kirkasta.",
+      "Steriloi yksi tai kaksi lasipurkkia kiehuvalla vedellä ja valuta ylösalaisin. Pakkaa jalapeñorenkaat tiiviisti lämpimiin purkkeihin ja lisää väliin valkosipuli, pippurit ja oregano.",
+      "Kaada lämmin liemi jalapeñojen päälle niin, että ne peittyvät ja purkin yläosaan jää 1 cm tilaa. Kopauta purkkia ilmakuplien poistamiseksi. Jos renkaita kelluu pinnalla, paina ne alas liemellä täytetyllä minigrip-pussilla.",
+      "Anna jäähtyä huoneenlämmössä noin 15 minuuttia, sulje kansi ja säilytä jääkaapissa. Jalapeñot ovat syötäviä 30 minuutissa, mutta paljon parempia parin tunnin kuluttua. Säilyvät jääkaapissa 3 viikkoa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pickled-red-onions",
+    "title": "Pikasäilötyt punasipulit",
+    "description": "Ohuiksi viipaloidut punasipulit upotetaan etikkaliemeen ripauksen sokeria ja suolaa kanssa ja annetaan seistä vähintään puoli tuntia, jolloin ne muuttuvat kirpeistä ja raa'oista kirkkaan magentanpunaisiksi, pehmeiksi ja mietoiksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 40,
+    "category": "Säilykkeet",
+    "tags": ["vegaaninen", "kasvis", "pikkelsi", "gluteeniton", "nopea"],
+    "ingredients": [
+      "2 punasipulia (n. 250 g), puolitettuina ja paperinohuina viipaleina",
+      "1,5 dl omenaviinietikkaa",
+      "1 dl vettä",
+      "1½ rkl hienoa sokeria",
+      "2 tl suolaa",
+      "½ tl mustapippuria, kokonaisena",
+      "1 laakerinlehti"
+    ],
+    "instructions": [
+      "Puolita punasipuli juuren kautta ja viipaloi mahdollisimman ohueksi, mieluiten alle 2 mm mandoliinilla. Mitä ohuempia viipaleet, sitä nopeammin ne säilöntyvät.",
+      "Yhdistä etikka, vesi, sokeri ja suola pienessä kattilassa keskilämmöllä ja sekoita, kunnes sokeri ja suola liukenevat, noin 2 minuuttia. Lisää pippurit ja laakerinlehti ja nosta liedeltä. Anna jäähtyä 5 minuuttia.",
+      "Pakkaa sipulit puhtaaseen lasipurkkiin ja kaada lämmin liemi päälle niin, että sipulit peittyvät kokonaan. Paina sipulit tarvittaessa haarukalla liemen alle. Sulje kansi löyhästi ja anna seistä huoneenlämmössä vähintään 30 minuuttia, mieluiten tunti.",
+      "Siirrä purkki jääkaappiin. Sipulit ovat valmiita heti, mutta paranevat seuraavan vuorokauden aikana. Käytä 2–3 viikon kuluessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pico-de-gallo",
+    "title": "Pico de gallo",
+    "description": "Meksikon tuore, paloiteltu tomaattisalsa: kypsä tomaatti, valkosipuli, jalapeño, korianteri ja limetinmehu hienoksi pilkottuina ja juuri sen verran seisotettuina, että mehut kerääntyvät kulhon pohjalle.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 20,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["meksikolainen", "vegaaninen", "kasvis", "salsa", "nopea"],
+    "ingredients": [
+      "500 g kypsiä roomantomaatteja, siemenet poistettuina, pieninä kuutioina",
+      "1 pieni valkosipuli (n. 100 g), hyvin pieninä kuutioina",
+      "1–2 jalapeñoa tai serranoa, siemenet ja kalvot poistettuina, hienonnettuna",
+      "1 ruukku tuoretta korianteria (lehdet ja pehmeät varret), hienonnettuna",
+      "3 rkl limetinmehua",
+      "1½ tl suolaa",
+      "1 valkosipulinkynsi, hienonnettuna (valinnainen)"
+    ],
+    "instructions": [
+      "Kuutioi sipuli hyvin pieneksi (3–4 mm), huuhtele kylmällä vedellä kirpeyden lieventämiseksi ja purista kuivaksi talouspaperissa. Poista tomaateista kanta ja siemenet ja kuutioi malto 5–8 mm paloiksi. Hienonna chili mahdollisimman pieneksi; aloita puolikkaalla, jos et ole varma tulisuudesta. Hienonna korianteri karkeasti.",
+      "Yhdistä kasvikset kulhossa ja lisää korianteri, limetinmehu ja suola. Kääntele varovasti lusikalla. Maista: limen pitää maistua selvästi ja suolan nostaa maut esiin. Anna seistä 10 minuuttia ennen tarjoilua, jotta suola vetää tomaateista mehua."
+    ]
+  },
+  { "id": "forkrecipe-pierogi-dough", "skip": "lähes kaksoiskappale (pierogit)" },
+  {
+    "id": "forkrecipe-pierogi",
+    "title": "Pierogit – puolalaiset peruna-rahkanyytit",
+    "description": "Puolan vastaus nyytteihin: ohut, pehmeä taikinatasku, jonka sisällä on niin kermainen peruna-rahkatäyte, että se sulaa kielellä. Viimeistellään ruskistetussa voissa makeiksi kypsyneiden sipulien kanssa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 90,
+    "category": "Pääruoat",
+    "tags": ["puolalainen", "kasvis", "nyytit", "peruna"],
+    "ingredients": [
+      "Taikina:",
+      "300 g vehnäjauhoja",
+      "1,35 dl lämmintä vettä",
+      "ripaus suolaa",
+      "Täyte:",
+      "180 g maitorahkaa (twaróg) tai ricottaa",
+      "180 g jauhoisia perunoita, keitettyinä ja puristettuina",
+      "1 pieni keltasipuli, hienoksi kuutioituna",
+      "40 g suolatonta voita",
+      "1 tl suolaa",
+      "valkopippuria"
+    ],
+    "instructions": [
+      "Sekoita jauhot ja ripaus suolaa kulhossa. Lisää lämmin vesi vähitellen haarukalla sekoittaen. Vaivaa käsin 8–10 minuuttia, kunnes taikina on täysin sileää, taipuisaa ja hieman tahmeaa mutta ei tarttuvaa. Kääri kelmuun ja anna levätä huoneenlämmössä 30 minuuttia.",
+      "Kuullota puolet sipulista puolessa voista kullanruskeaksi ja anna jäähtyä. Sekoita kulhossa perunat, rahka ja kuullotettu sipuli. Mausta reilusti suolalla ja valkopippurilla, sillä täytteen pitää kantaa koko maku. Sekoita juuri tasaiseksi.",
+      "Kauli levännyt taikina kevyesti jauhotetulla alustalla 2–3 mm paksuksi. Ota 8–9 cm muotilla tai lasilla pyöreitä paloja. Laita kunkin keskelle reilu teelusikallinen täytettä. Taita taikina täytteen yli ja paina reunat tiiviisti kiinni haarukalla tai sormin nipistäen. Saumojen on oltava täysin tiiviitä.",
+      "Kuumenna iso kattilallinen reilusti suolattua vettä kiehuvaksi. Keitä pierogeja erissä väljästi. Ne nousevat pintaan noin 2 minuutissa; keitä pinnalle nousun jälkeen vielä 2 minuuttia. Nosta reikäkauhalla. Sulata loput voista leveällä pannulla keskilämmöllä, lisää loput sipulista ja paista kullanruskeaksi. Kääntele keitetyt pierogit voissa 2 minuuttia, kunnes ne ovat toiselta puolelta kevyesti rapeita."
+    ]
+  },
+  {
+    "id": "forkrecipe-pil-pil",
+    "title": "Bacalao al pil-pil – baskilainen suolaturska",
+    "description": "Baskien taidonnäyte: suolaturskan oma hyytelöaine emulgoidaan oliiviöljyyn pannua kiertävin liikkein kermaiseksi, norsunluunvalkoiseksi kastikkeeksi ilman tilkkaakaan kermaa tai voita.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Pääruoat",
+    "tags": ["espanjalainen", "kala", "gluteeniton", "juhla"],
+    "ingredients": [
+      "600 g suolaturskaa (bacalao), nahallisina fileinä, liotettuna 48 tuntia",
+      "3 dl mietoa ekstra-neitsytoliiviöljyä",
+      "6 valkosipulinkynttä, ohuina viipaleina",
+      "2–3 kuivattua guindilla-chiliä (tai muuta kuivattua chiliä)",
+      "suolaa tarvittaessa (maista ensin)"
+    ],
+    "instructions": [
+      "Jos turska ei ole valmiiksi liotettu, upota se isoon kulhoon kylmää vettä jääkaappiin ja vaihda vesi 8–12 tunnin välein 48 tunnin ajan. Kala on valmis, kun pieni pala maistuu miellyttävän suolaiselta. Kuivaa fileet huolellisesti talouspaperilla ja anna kuivahtaa ritilällä peittämättä huoneenlämmössä 20 minuuttia.",
+      "Yhdistä oliiviöljy, valkosipuli ja chilit leveässä matalassa savivuoassa tai paksupohjaisessa pannussa miedoimmalla lämmöllä. Kun valkosipuli alkaa sihistä hiljaa (noin 2 minuuttia), asettele fileet nahkapuoli ylöspäin öljyyn. Öljyn pitää pysyä noin 60–70 asteessa eikä se saa kuplia. Kypsennä 12–15 minuuttia, välillä pannua kallistaen ja kalaa öljyllä valellen. Reunoille alkaa muodostua valkoisia pisaroita – kalasta irtoavaa hyytelöä. Kun kala on juuri kypsää, nosta fileet lämpimälle lautaselle. Säästä kaikki öljy.",
+      "Pidä pannu miedoimmalla lämmöllä ja liikuta sitä hitaasti ja tasaisesti ympyrää – älä sekoita tai vatkaa. 5–10 minuutin kuluttua reunoille alkaa muodostua vaaleaa, kermaista emulsiota, joka leviää vähitellen keskelle. Kastike muuttuu öljystä norsunluunvalkoiseksi ja hieman paksuksi kuin löysä aioli. Jos se uhkaa erota, lisää teelusikallinen kylmää vettä ja hidasta liikettä.",
+      "Palauta fileet kastikkeeseen nahkapuoli ylöspäin ja valele kastikkeella. Kastikkeen lämpö lämmittää kalan. Lisää suolaa vain tarvittaessa. Tarjoa lämpimänä suoraan vuoasta rapean leivän kanssa. Älä enää kuumenna, sillä kastike hajoaa yli 80 asteessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pilaf",
+    "title": "Voipilahvi",
+    "description": "Keski-Aasian ja Turkin keittiön peruspilari: pitkäjyväinen riisi paahdetaan voissa läpikuultavaksi ja pähkinäiseksi ja höyrytetään liemessä sipulin ja porkkanan kanssa, kunnes jokainen jyvä on kiinteä, erillinen ja kullankeltainen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["turkkilainen", "riisi", "gluteeniton"],
+    "ingredients": [
+      "300 g basmatiriisiä (tai muuta pitkäjyväistä riisiä)",
+      "40 g suolatonta voita",
+      "1 valkosipuli (n. 120 g), hienoksi kuutioituna",
+      "1 porkkana (n. 100 g), ohuina tikkuina",
+      "4,5 dl kana- tai lammaslientä, kuumaa",
+      "1 tl suolaa",
+      "1 tl juustokuminaa, kokonaisena",
+      "½ tl mustapippuria, vastajauhettuna",
+      "1 kokonainen valkosipuli, kuorimattomana (valinnainen)"
+    ],
+    "instructions": [
+      "Huuhtele riisi kylmän juoksevan veden alla kädellä hämmentäen, kunnes vesi on lähes kirkasta. Peitä kylmällä vedellä ja liota 30 minuuttia. Valuta hyvin.",
+      "Sulata voi leveässä paksupohjaisessa kattilassa, jossa on tiivis kansi, keskilämmöllä. Lisää sipuli ja kypsennä usein sekoittaen 5–6 minuuttia pehmeäksi ja reunoilta kullankeltaiseksi. Lisää porkkana ja kumina ja kypsennä vielä 3 minuuttia.",
+      "Lisää valutettu riisi ja sekoita, kunnes jokainen jyvä on voin peitossa. Paahda keskilämmöllä usein sekoittaen 2–3 minuuttia, kunnes jyvät muuttuvat hieman läpikuultaviksi ja tuoksuvat paahdetulta.",
+      "Kaada kuuma liemi riisin päälle ja lisää suola ja pippuri. Painele halutessasi kokonainen valkosipuli riisin keskelle. Sekoita kerran. Kuumenna kovalla lämmöllä kiehuvaksi, laske heti miedoimmalle, peitä tiiviisti ja keitä 15 minuuttia kantta nostamatta.",
+      "Nosta kattila liedeltä ja anna hautua kannen alla koskematta 10 minuuttia. Poista valkosipuli ja kuohkeuta riisi haarukalla pohjasta ylöspäin kevyin liikkein."
+    ]
+  },
+  {
+    "id": "forkrecipe-pineapple-upside-down-cake",
+    "title": "Ananas-kuperkeikkakakku",
+    "description": "Kullanruskea sokerikakku paistetaan kiiltävän karamellisoidun ananaskerroksen päällä ja kumotaan, jolloin esiin tulee jalokivenkirkas, karamellilta ja trooppisilta hedelmiltä tuoksuva pinta.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 55,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["amerikkalainen", "kasvis", "kakku", "ananas"],
+    "ingredients": [
+      "Karamellipohja:",
+      "60 g suolatonta voita",
+      "80 g tummaa fariinisokeria",
+      "1 tlk (565 g) ananasta renkaina, valutettuna ja kuivattuna",
+      "kirsikoita koristeeksi (valinnainen)",
+      "Taikina:",
+      "160 g suolatonta voita, pehmeänä",
+      "160 g sokeria",
+      "2 kananmunaa, huoneenlämpöisiä",
+      "200 g vehnäjauhoja",
+      "2 tl leivinjauhetta",
+      "tilkka maitoa tai ananasmehua tarvittaessa"
+    ],
+    "instructions": [
+      "Kuumenna uuni 175 asteeseen. Laita 24 cm:n uuninkestävä paistinpannu tai pyöreä kakkuvuoka liedelle keskilämmölle. Sulata voi, lisää fariinisokeri ja sekoita. Anna kuplia sekoittamatta 2 minuuttia ja nosta liedeltä.",
+      "Asettele ananasrenkaat kuuman karamellin päälle tiiviisti: yksi keskelle ja niin monta kuin mahtuu ympärille limittämättä. Painele kevyesti karamelliin. Laita halutessasi kirsikka jokaisen renkaan keskelle.",
+      "Vatkaa pehmeä voi ja sokeri sähkövatkaimella 3 minuuttia vaaleaksi ja kuohkeaksi. Lisää munat yksitellen hyvin vatkaten. Siivilöi joukkoon jauhot ja leivinjauhe ja kääntele juuri sekaisin. Löysennä tarvittaessa tilkalla maitoa tai ananasmehua.",
+      "Kaada taikina varovasti ananasten päälle ja levitä reunoille. Paista 175 °C:ssa 30–35 minuuttia, kunnes kakku on kullanruskea ja keskelle pistetty tikku tulee puhtaana ulos. Anna levätä 5 minuuttia, ei kauempaa. Kierrä veitsi reunoja pitkin, aseta tarjoiluvati päälle ja kumoa yhdellä liikkeellä. Kaavi pannuun jäänyt karamelli kakun päälle."
+    ]
+  },
+  {
+    "id": "forkrecipe-piri-piri-sauce",
+    "title": "Piri piri -kastike",
+    "description": "Kirkkaanpunainen, öljyinen kastike afrikkalaisesta lintusilmächilistä – yhtä aikaa tulinen ja hedelmäinen, sitruunan ja valkosipulin terävöittämä. Saa grillatun kanan laulamaan ja huulet kihelmöimään.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 30,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["portugalilainen", "vegaaninen", "kasvis", "tulinen", "kastike"],
+    "ingredients": [
+      "40 g lintusilmächiliä (tuoreita tai liotettuja kuivattuja), kannat poistettuina",
+      "½ punainen paprika, karkeasti pilkottuna",
+      "4 valkosipulinkynttä, kuorittuina",
+      "2 rkl sitruunamehua",
+      "1 rkl punaviinietikkaa",
+      "1 dl rypsiöljyä tai mietoa oliiviöljyä",
+      "½ tl suolaa",
+      "1 tl tuoretta oreganoa (tai ½ tl kuivattua)",
+      "1 tl makeaa savupaprikajauhetta"
+    ],
+    "instructions": [
+      "Paahda paprikapalat ja kokonaiset valkosipulinkynnet pellillä erittäin kuuman grillivastuksen alla tai suoraan kaasuliekillä, kunnes paprikan kuori on paikoin musta ja valkosipuli kullanruskea ja pehmeä: paprika 10–15 minuuttia, valkosipuli 8–10 minuuttia. Siirrä kulhoon, peitä kelmulla ja anna hautua 5 minuuttia. Kuori paprika.",
+      "Laita chilit, paprika, valkosipuli, sitruunamehu, etikka, öljy, suola, oregano ja savupaprika tehosekoittimeen. Soseuta täydellä teholla 2 minuuttia täysin sileäksi. Lisää tarvittaessa ruokalusikallinen vettä. Maista varovasti ja säädä sitruunalla ja suolalla.",
+      "Marinadikäyttöön ja pidempää säilyvyyttä varten keitä kastiketta pienessä kattilassa miedolla lämmöllä 8–10 minuuttia välillä sekoittaen; kypsennetty kastike säilyy jääkaapissa 2 viikkoa. Raikkaana pöytäkastikkeena käytä raakana. Jäähdytä ennen purkittamista."
+    ]
+  },
+  { "id": "forkrecipe-pisco-sour", "skip": "alkoholijuoma (cocktail), jossa alkoholi on olennainen osa" },
+  {
+    "id": "forkrecipe-pistou",
+    "title": "Pistou – provencelainen basilikakastike",
+    "description": "Provencen keittämätön basilikatahna: raaka valkosipuli survotaan tuoreen basilikan ja oliiviöljyn kanssa kirkkaanvihreäksi kastikkeeksi, joka tuoksuu elokuiselta puutarhalta. Toisin kuin pestossa, pistoussa ei ole pähkinöitä eikä juustoa.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 10,
+    "totalTimeMin": 10,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["ranskalainen", "vegaaninen", "kasvis", "gluteeniton", "nopea"],
+    "ingredients": [
+      "60 g tuoreita basilikanlehtiä (ilman varsia)",
+      "3 valkosipulinkynttä",
+      "1 dl laadukasta ekstra-neitsytoliiviöljyä",
+      "1 tl karkeaa merisuolaa",
+      "1 tl sitruunamehua (valinnainen)"
+    ],
+    "instructions": [
+      "Survo valkosipulinkynnet ja karkea suola huhmaressa täysin sileäksi, valkoiseksi tahnaksi. Monitoimikoneella hienonna valkosipuli ensin mahdollisimman hienoksi.",
+      "Lisää basilika huhmareeseen kahdessa tai kolmessa erässä ja survo pyörivin, painavin liikkein, kunnes kukin erä on sekoittunut ennen seuraavaa. Monitoimikoneessa sykäytä lyhyesti, ettei basilika lämpene ja tummu.",
+      "Lisää oliiviöljy vähitellen sekoittaen ja painaen tahnaa huhmareen reunoja vasten, kunnes kastike on kiiltävää. Lisää halutessasi sitruunamehu. Kastikkeen pitää peittää lusikka mutta olla kaadettavaa. Käytä heti, sillä pistou tummuu puolessa tunnissa."
+    ],
+    "notes": ["Perinteinen lisuke provencelaiselle kasviskeitolle (soupe au pistou)."]
+  },
+  { "id": "forkrecipe-pita-bread", "skip": "lähes kaksoiskappale (taskupita)" },
+  {
+    "id": "forkrecipe-polenta",
+    "title": "Polenta",
+    "description": "Karkea maissijauho sekoitetaan hitaaseen pyörteeseen, kunnes jyvät turpoavat ja koko massa irtoaa kattilan reunoista kiiltävänä – kärsivällinen, kullankeltainen ja viimeistelty voinokareella ja reilulla juustolla.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 45,
+    "totalTimeMin": 50,
+    "category": "Lisukkeet",
+    "tags": ["italialainen", "kasvis", "gluteeniton", "maissi"],
+    "ingredients": [
+      "1 l vettä (tai puoliksi vettä ja maitoa)",
+      "200 g karkeaa maissijauhoa (polenta)",
+      "1 tl suolaa",
+      "25 g suolatonta voita, kylmänä",
+      "30 g parmesaania, hienoksi raastettuna",
+      "½ dl täysmaitoa (valinnainen)"
+    ],
+    "instructions": [
+      "Kaada vesi paksupohjaiseen kattilaan, lisää suola ja kuumenna keskilämmöllä hiljaa kiehuvaksi. Vesi ei saa kiehua voimakkaasti, ettei maissijauho paakkuunnu.",
+      "Pyöritä vettä vispilällä hitaaksi pyörteeksi ja lisää maissijauho ohuena nauhana nyrkistä valuttaen koko ajan vatkaten. Kun kaikki jauho on lisätty, vaihda tukevaan puulusikkaan. Seos näyttää löysältä ja maitomaiselta.",
+      "Laske lämpö miedoimmalle niin, että polenta vain pulpahtelee. Keitä 35–45 minuuttia ja sekoita muutaman minuutin välein puulusikalla pohjaa ja kulmia kaapien. Polenta on valmis, kun jyvät eivät enää tunnu rakeisilta ja massa irtoaa sekoitettaessa kattilan reunoista.",
+      "Nosta liedeltä ja vatkaa joukkoon kylmä voi ja parmesaani, kunnes ne sulavat kiiltäväksi kreemiksi. Pehmeää polentaa varten löysennä lämpimällä maidolla. Tarkista suola ja tarjoa heti lämpimistä kulhoista, sillä polenta jähmettyy jäähtyessään."
+    ]
+  },
+  {
+    "id": "forkrecipe-pollo-a-la-brasa",
+    "title": "Pollo a la brasa – perulainen grillikana",
+    "description": "Kokonainen kana marinoidaan vuorokauden soijassa, juustokuminassa, ají panca -chilissä ja valkosipulissa ja paahdetaan, kunnes nahka on kiiltävän ruskea ja rapea ja liha niin mehukasta, ettei se kaipaa muuta kuin raikkaan vihreän ají verde -kastikkeen.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 1560,
+    "category": "Pääruoat",
+    "tags": ["perulainen", "kana", "uuniruoka"],
+    "ingredients": [
+      "1 kokonainen broileri (1,6–2 kg)",
+      "Marinadi:",
+      "5 rkl soijakastiketta",
+      "6 valkosipulinkynttä, tahnaksi hienonnettuna",
+      "1 rkl jauhettua juustokuminaa",
+      "40 g ají panca -tahnaa",
+      "1 rkl savupaprikajauhetta",
+      "2 rkl limetinmehua",
+      "2½ tl suolaa",
+      "1 tl mustapippuria, jauhettuna",
+      "2 tl kuivattua oreganoa",
+      "2 rkl rypsiöljyä",
+      "Ají verde:",
+      "20 g tuoreita mintunlehtiä",
+      "30 g tuoretta korianteria",
+      "1 jalapeño tai ají amarillo",
+      "80 g majoneesia",
+      "1 rkl limetinmehua",
+      "suolaa"
+    ],
+    "instructions": [
+      "Vatkaa soija, valkosipuli, kumina, ají panca, savupaprika, limetinmehu, suola, pippuri, oregano ja öljy tasaiseksi, paksuksi ja tummaksi marinadiksi.",
+      "Kuivaa kana huolellisesti sisältä ja päältä. Irrota nahkaa sormin rinnasta ja reisistä ja painele puolet marinadista nahan alle lihaa vasten. Hiero loput kanan pinnalle ja vatsaonteloon. Laita isoon pakastepussiin tai kannelliseen astiaan ja marinoi jääkaapissa 12–24 tuntia kerran kääntäen.",
+      "Aseta kana rinta ylöspäin ritilälle paistovuokaan. Paahda 200 °C:ssa 1–1¼ tuntia ja valele paistonesteillä 20 minuutin välein. Kana on valmis, kun reisinivelen sisälämpötila on 82 °C ja nahka syvän ruskea. Anna levätä 10 minuuttia.",
+      "Soseuta minttu, korianteri, chili, majoneesi ja limetinmehu tehosekoittimessa täysin sileäksi ja kirkkaanvihreäksi. Mausta suolalla.",
+      "Paloittele kana: irrota koivet, halkaise rinta ja leikkaa siivet. Asettele lämpimälle vadille nahka ylöspäin. Tarjoa ají verden, paistetun maniokin tai ranskalaisten ja salaatin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pollo-en-adobo",
+    "title": "Pollo en adobo – kanaa meksikolaisessa chilikastikkeessa",
+    "description": "Luulliset kananpalat haudutetaan syvän tiilenpunaisessa meksikolaisessa adobossa: paahdetut ja liotetut ancho- ja guajillo-chilit soseutetaan etikan, valkosipulin, kuminan ja oreganon kanssa kiiltäväksi, paksuksi kastikkeeksi, joka tarttuu lihaan kuin lakka.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["meksikolainen", "kana", "pataruoka", "chili"],
+    "ingredients": [
+      "1 kg luullisia kananpaloja (reisiä ja koipia)",
+      "4 kuivattua ancho-chiliä, kannat ja siemenet poistettuina",
+      "4 kuivattua guajillo-chiliä, kannat ja siemenet poistettuina",
+      "1 valkosipuli (n. 150 g), neljään osaan",
+      "5 valkosipulinkynttä",
+      "3 rkl omenaviinietikkaa",
+      "1 tl juustokuminaa, paahdettuna",
+      "1 tl kuivattua oreganoa",
+      "1 pieni kanelitanko",
+      "3 neilikkaa",
+      "3 dl kanalientä",
+      "2 rkl rypsiöljyä tai laardia",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Kuumenna kuiva valurautapannu keskilämmöllä hyvin kuumaksi. Paahda chilejä erissä painaen niitä pannua vasten 10–15 sekuntia per puoli, kunnes ne hieman pullistuvat, vaihtavat väriä ja tuoksuvat savuisen makeilta. Älä polta. Siirrä heti kulhoon, peitä kiehuvalla vedellä ja liota 20–30 minuuttia pehmeiksi.",
+      "Valuta chilit ja säästä 1,2 dl liotusvettä (maista, sillä se voi olla kitkerää). Laita chilit tehosekoittimeen sipulin, valkosipulin, etikan, kuminan, oreganon, kanelin ja neilikoiden kanssa. Lisää ½ dl liotusvettä ja ½ dl vettä. Soseuta täydellä teholla 2–3 minuuttia täysin sileäksi, paksuksi tahnaksi. Siivilöi halutessasi.",
+      "Kuumenna rasva isossa paksupohjaisessa padassa kovalla lämmöllä savuavaksi. Suolaa kananpalat ja ruskista erissä nahkapuoli alaspäin liikuttamatta 4–5 minuuttia ja toiselta puolelta 2 minuuttia. Nosta sivuun. Laske lämpö keskitasolle ja lisää adobotahna kuumaan rasvaan (se roiskuu). Paista jatkuvasti sekoittaen 3–4 minuuttia, kunnes väri tummuu, raaka tuoksu pehmenee ja rasva alkaa erottua.",
+      "Palauta kana pataan ja kaada joukkoon liemi niin, että se ulottuu puoleen väliin kanaa. Kuumenna hiljaa kiehuvaksi, peitä ja hauduta miedolla lämmöllä 45–60 minuuttia, kunnes liha on täysin pehmeää luuta myöten.",
+      "Poista kansi ja nosta lämpöä. Keitä ilman kantta 10–15 minuuttia, kääntäen kananpaloja usein ja valellen kastikkeella, kunnes kastike on tiivistynyt ja jokainen pala on paksun, kiiltävän tiilenpunaisen kuorrutuksen peitossa. Tarkista suola. Tarjoa riisin tai lämpimien tortillojen, etikkajalapeñojen ja sipulin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-ponzu",
+    "title": "Ponzu – japanilainen sitrus-soijakastike",
+    "description": "Japanilaisen pöydän raikas ja suolainen perusta: hapan sitrusmehu yhdistetään soijaan ja uutetaan kombun ja bonitohiutaleiden kanssa kirpeäksi, mahonginruskeaksi kastikkeeksi kylmälle tofulle, paistetulle kalalle ja shabu shabu -padalle.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 1440,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["japanilainen", "kastike", "sitrus"],
+    "ingredients": [
+      "1 dl yuzumehua (tai puoliksi sitruuna- ja limetinmehua)",
+      "4 rkl riisiviinietikkaa",
+      "1 dl soijakastiketta",
+      "2 rkl miriniä",
+      "1 pala kombu-merilevää (5 × 5 cm)",
+      "15 g bonitohiutaleita (katsuobushi)"
+    ],
+    "instructions": [
+      "Yhdistä puhtaassa lasipurkissa sitrusmehu, riisiviinietikka, soija ja mirin. Älä kuumenna sitrusta. Sekoita kevyesti.",
+      "Pyyhi kombu kevyesti kostealla liinalla (älä huuhtele valkoista pintaa pois) ja upota se nesteeseen bonitohiutaleiden kanssa. Peitä ja pidä jääkaapissa vähintään vuorokausi, mieluiten 2–3 vuorokautta.",
+      "Siivilöi ponzu talouspaperilla tai harsokankaalla vuoratun siivilän läpi puhtaaseen purkkiin painamatta. Hävitä kombu ja hiutaleet. Anna levätä jääkaapissa muutama tunti ennen käyttöä. Säilyy jääkaapissa useita viikkoja."
+    ]
+  },
+  {
+    "id": "forkrecipe-porchetta",
+    "title": "Porchetta",
+    "description": "Nahallinen porsaankylki kääritään fenkolin, rosmariinin ja valkosipulin ympärille ja paahdetaan tunteja, kunnes rasva on sulanut ja nahka muuttunut jylisevän rapeaksi, tuhansiksi siruiksi särkyväksi kamaraksi. Keski-Italian suurin katuruoka sämpylään viipaloituna.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 240,
+    "category": "Pääruoat",
+    "tags": ["italialainen", "liha", "juhla", "uuniruoka", "gluteeniton"],
+    "ingredients": [
+      "2 kg nahallista porsaan kylkeä, luuttomana ja levitettynä",
+      "15 g tuoretta rosmariinia, neulaset",
+      "20 g tuoreita fenkolinlehtiä",
+      "1 rkl fenkolinsiemeniä, paahdettuina ja karkeasti jauhettuina",
+      "8 valkosipulinkynttä, hyvin hienoksi hienonnettuna",
+      "1 tl mustapippuria, karkeaksi rouhittuna",
+      "20 g karkeaa merisuolaa",
+      "2 rkl ekstra-neitsytoliiviöljyä"
+    ],
+    "instructions": [
+      "Edellisenä iltana: aseta kylki nahkapuoli alaspäin. Viillä lihapuoleen noin 5 mm syvä ristikkokuvio. Suolaa lihapuoli reilusti puolella suolasta. Käännä ja viillä nahkaan terävällä veitsellä yhdensuuntaiset viillot 1 cm välein vain nahan läpi ja hieman rasvaan, ei lihaan. Suolaa nahka kevyesti ja pidä jääkaapissa peittämättä yön yli.",
+      "Hienonna rosmariini, fenkolinlehdet ja valkosipuli yhdessä laudalla hienoksi. Siirrä kulhoon ja lisää fenkolinsiemenet, pippuri ja oliiviöljy. Sekoita tuoksuvaksi tahnaksi.",
+      "Levitä tahna tasaisesti lihapuolelle ja painele viiltoihin. Kääri kylki lyhyeltä sivulta tiukaksi rullaksi ja sido narulla 3 cm välein. Hiero loput suolasta nahkaan. Pidä jääkaapissa peittämättä vähintään 2 tuntia tai yön yli.",
+      "Ota porchetta jääkaapista tuntia ennen paahtamista. Kuumenna uuni 230 asteeseen. Aseta rulla ritilälle paistovuoan päälle sauma alaspäin. Paahda 230 °C:ssa 30 minuuttia, laske lämpö 160 asteeseen ja paahda vielä 2–2½ tuntia, kunnes sisälämpötila on 70 °C.",
+      "Anna levätä ritilällä peittämättä 20–30 minuuttia; folio pehmentäisi kamaran. Leikkaa sahateräisellä leipäveitsellä sahaavin liikkein."
+    ]
+  },
+  {
+    "id": "forkrecipe-pork-belly-braised",
+    "title": "Hong shao rou – punahaudutettu porsaankylki",
+    "description": "Paksut porsaankylkikuutiot karamellisoidaan kidesokerissa ja haudutetaan soijassa, shaoxing-viinissä ja tähtianiksessa, kunnes rasvakerrokset hytkyvät kuin lämmin meripihkasilkki ja kastike on tiivistynyt tummaksi, kiiltäväksi lasitteeksi.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 150,
+    "category": "Pääruoat",
+    "tags": ["kiinalainen", "liha", "pataruoka"],
+    "ingredients": [
+      "1 kg nahallista porsaan kylkeä, 4 cm kuutioina",
+      "40 g kidesokeria (rock sugar) tai sokeria",
+      "3 rkl tummaa soijakastiketta",
+      "2 rkl vaaleaa soijakastiketta",
+      "1,5 dl shaoxing-riisiviiniä",
+      "3 tähtianista",
+      "1 pala kassiakanelia tai kanelitanko",
+      "40 g tuoretta inkivääriä, paksuina viipaleina",
+      "3 kevätsipulia, solmuun sidottuina",
+      "4 dl vettä tai mietoa lientä",
+      "2 rkl rypsiöljyä",
+      "1 kevätsipulin vihreä osa, ohuina renkaina"
+    ],
+    "instructions": [
+      "Laita kylkikuutiot kylmään kattilaan ja peitä kylmällä vedellä. Kuumenna kovalla lämmöllä kiehuvaksi ja ryöppää 5 minuuttia, harmaa vaahto kuorien. Valuta ja huuhtele jokainen pala kylmän veden alla. Kuivaa huolellisesti.",
+      "Kuumenna öljy leveässä paksupohjaisessa padassa tai wokissa keskilämmöllä. Lisää sokeri ja kypsennä varovasti sekoittaen, kunnes se sulaa ja muuttuu syvän meripihkanväriseksi, 4–6 minuuttia. Älä poistu lieden äärestä.",
+      "Lisää liha kuumaan karamelliin ja kääntele (varo roiskeita). Lisää shaoxing-viini, molemmat soijat, tähtianis, kaneli, inkivääri ja kevätsipulisolmu. Kaada vettä niin, että liha juuri ja juuri peittyy. Kuumenna kiehuvaksi, laske hyvin hiljaiselle kiehunnalle, peitä ja hauduta 1½–2 tuntia, kääntäen lihaa puolen tunnin välein.",
+      "Poista kansi ja nosta lämpö keskikovaksi. Valele lihaa jatkuvasti liemellä sen tiivistyessä ja keitä 10–15 minuuttia varovasti käännellen, kunnes kastike on paksua, kiiltävää ja tahmeaa ja peittää jokaisen kuution. Poista kokonaiset mausteet, inkivääri ja kevätsipulisolmu. Ripottele päälle kevätsipulia ja tarjoa riisin kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pork-belly-chashu",
+    "title": "Chashu – haudutettu porsaankylkirulla",
+    "description": "Tiukaksi rullattu ja sidottu porsaankylki ruskistetaan kullanruskeaksi ja haudutetaan soijassa, mirinissä, sakessa ja sokerissa, kunnes rasva hytkyy läpikuultavana. Ramenin klassinen täyte.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 180,
+    "category": "Pääruoat",
+    "tags": ["japanilainen", "liha", "ramen"],
+    "ingredients": [
+      "1 kg nahallista porsaan kylkeä (yhtenä palana)",
+      "1,5 dl soijakastiketta",
+      "1,5 dl miriniä",
+      "1,5 dl sakea",
+      "50 g sokeria",
+      "3 kevätsipulia, kokonaisina",
+      "20 g tuoretta inkivääriä, paksuina viipaleina kuorineen",
+      "1 rkl rypsiöljyä",
+      "1 dl vettä"
+    ],
+    "instructions": [
+      "Aseta kylki nahkapuoli alaspäin laudalle. Kääri se lyhyeltä sivulta tiiviiksi, tasapaksuksi rullaksi ja sido narulla 2 cm välein. Jos nahka on paksu, viillä siihen kevyesti viillot 1 cm välein ennen käärimistä.",
+      "Kuumenna öljy raskaassa pannussa tai padassa kovalla lämmöllä. Ruskista rulla joka puolelta, myös päistä, kääntäen 2–3 minuutin välein, yhteensä 10–12 minuuttia, kunnes se on kullanruskea.",
+      "Nosta rulla lautaselle. Irrota pohjaan tarttunut maku sakella. Lisää soija, mirin, sokeri, vesi, kevätsipulit ja inkivääri ja sekoita, kunnes sokeri liukenee. Palauta rulla pataan; nesteen pitää ulottua puoleen väliin. Kuumenna hiljaiseen kiehuntaan, peitä tiiviisti kannella tai leivinpaperilla ja hauduta miedoimmalla lämmöllä 2–2½ tuntia, kääntäen rullaa puolen tunnin välein.",
+      "Anna jäähtyä liemessään huoneenlämpöiseksi ja siirrä sitten liemineen jääkaappiin yön yli tai vähintään 4 tunniksi, jolloin rasva jähmettyy ja rulla on helppo viipaloida. Hyytynyt liemi kannattaa säästää ramenin mausteeksi.",
+      "Poista narut ja leikkaa kylmä rulla 8–12 mm viipaleiksi. Kuumenna tarttumaton tai valurautapannu keskikovalla lämmöllä ja paista viipaleita ilman öljyä 45–60 sekuntia per puoli, kunnes reunat karamellisoituvat. Vaihtoehtoisesti sivele viipaleet hyytyneellä liemellä ja polta pinta kaasupolttimella tai grillivastuksen alla minuutin ajan."
+    ]
+  }
+]

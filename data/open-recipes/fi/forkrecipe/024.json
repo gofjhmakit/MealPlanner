@@ -1,0 +1,512 @@
+[
+  {
+    "id": "forkrecipe-parker-house-roll",
+    "title": "Parker House -sämpylät",
+    "description": "Amerikkalaiset voiset illallissämpylät – pöyheät ja hennon makeat – jotka repeävät voilla siveltyä taitosta pitkin ja päästävät ilmaan höyryn ja kuumennetun maidon tuoksun.",
+    "servings": 16,
+    "prepTimeMin": 40,
+    "totalTimeMin": 180,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["amerikkalainen", "kasvis", "leipä", "sämpylä", "juhla"],
+    "ingredients": [
+      "480 g vehnäjauhoja",
+      "2,4 dl täysmaitoa, kuumennettuna ja jäähdytettynä 40 asteeseen",
+      "7 g kuivahiivaa",
+      "30 g sokeria",
+      "1½ tl suolaa",
+      "60 g suolatonta voita, sulatettuna (taikinaan)",
+      "1 kananmuna",
+      "60 g suolatonta voita, sulatettuna (kastamiseen ja voiteluun)"
+    ],
+    "instructions": [
+      "Vatkaa kuivahiiva lämpimään maitoon ja anna seistä 5 minuuttia. Sekoita jauhot, sokeri ja suola. Lisää maitoseos, sulatettu voi ja kananmuna. Sekoita karkeaksi taikinaksi ja vaivaa 8 minuuttia sileäksi ja pehmeäksi. Taikina on tavallista leipätaikinaa pehmeämpää; älä lisää liikaa jauhoja. Peitä ja kohota kaksinkertaiseksi, noin tunti.",
+      "Jaa kohonnut taikina 16 osaan (n. 55 g). Pyöritä kukin sileäksi soikioksi. Kasta toinen puoli sulatettuun voihin ja taita soikio kahtia niin, että voideltu puoli jää sisään, kuin kirja. Paina kevyesti. Asettele sämpylät toisiinsa kiinni voideltuun noin 23 × 33 cm vuokaan. Peitä ja kohota, kunnes sämpylät ovat turvonneet.",
+      "Sivele kohonneet sämpylät reilusti sulatetulla voilla. Paista 190 °C:ssa 18–22 minuuttia, kunnes pinnat ovat kullanruskeita (sisälämpötila 88 °C). Sivele heti uunista otettuina lisää voita."
+    ]
+  },
+  { "id": "forkrecipe-parker-house-rolls", "skip": "lähes kaksoiskappale (Parker House -sämpylät)" },
+  { "id": "forkrecipe-pasta-alla-carbonara", "skip": "lähes kaksoiskappale (carbonara)" },
+  {
+    "id": "forkrecipe-pasta-e-fagioli",
+    "title": "Pasta e fagioli – italialainen papu-pastakeitto",
+    "description": "Napolin talviruoka: lyhyttä pastaa ja kermaisia valkoisia papuja paksussa, punertavassa liemessä, joka on keiton ja padan välimaastossa. Pohjana hitaasti kypsennetty soffritto ja pinnalla kimmeltävä oliiviöljy.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 120,
+    "category": "Keitot",
+    "tags": ["italialainen", "vegaaninen", "kasvis", "keitto", "pavut"],
+    "ingredients": [
+      "250 g kuivattuja borlotti- tai cannellinipapuja, liotettuina yön yli",
+      "125 g lyhyttä pastaa (ditalini, tubettini tai murrettua spagettia)",
+      "½ valkosipulia (n. 60 g), hienoksi kuutioituna",
+      "1 varsi lehtiselleriä (n. 60 g), hienoksi kuutioituna (myös vaaleat lehdet)",
+      "½ porkkanaa, hienoksi kuutioituna",
+      "2 valkosipulinkynttä, hienonnettuna",
+      "1 rkl tomaattipyreetä",
+      "1 oksa tuoretta rosmariinia",
+      "2 rkl ekstra-neitsytoliiviöljyä (+ lisää viimeistelyyn)",
+      "¼ tl chilihiutaleita",
+      "1 tl suolaa"
+    ],
+    "instructions": [
+      "Valuta ja huuhtele liotetut pavut. Laita ne isoon kattilaan ja peitä tuoreella kylmällä vedellä 6 cm:n verran. Lisää rosmariini ja reilu ripaus suolaa. Kuumenna kiehuvaksi, kuori vaahto ja hauduta ilman kantta 60–90 minuuttia, kunnes pavut ovat täysin pehmeitä. Säästä kaikki keitinliemi ja poista rosmariini. Muussaa noin kolmannes pavuista suoraan kattilassa.",
+      "Kuumenna oliiviöljy isossa paksupohjaisessa kattilassa keskilämpöä miedommalla lämmöllä. Lisää sipuli, selleri, porkkana, valkosipuli ja chilihiutaleet ja mausta kevyesti suolalla. Kypsennä välillä sekoittaen 10–12 minuuttia, kunnes kasvikset ovat täysin pehmeitä. Lisää tomaattipyree ja paista sekoittaen 3–4 minuuttia, kunnes se tummuu tiilenpunaiseksi.",
+      "Lisää pavut keitinliemineen ja kuumenna hiljalleen kiehuvaksi. Lisää tarvittaessa vettä, niin että liemi on hieman ohuempaa kuin valmiissa keitossa, sillä pasta sakeuttaa sitä. Hauduta 15 minuuttia ja tarkista suola.",
+      "Lisää kuiva pasta suoraan kiehuvaan keittoon ja sekoita usein. Pasta imee lientä nopeasti, joten tarkista 2 minuutin välein ja lisää vettä tarvittaessa. Keitä, kunnes pasta on al dentea. Nosta liedeltä, tarkista suola ja sekoita joukkoon reilu loraus oliiviöljyä. Anna levätä 2–3 minuuttia ennen tarjoilua."
+    ]
+  },
+  {
+    "id": "forkrecipe-pasta-fresca",
+    "title": "Tuore munapasta (pasta fresca)",
+    "description": "Italialaisen pöydän kultainen perusta: 00-jauhot ja kananmunat vaivataan käsin taipuisaksi taikinaksi, lepuutetaan ja kaulitaan niin ohuiksi levyiksi, että niiden läpi voisi lukea sanomalehteä. Pohja tagliatellelle, pappardellelle ja ravioleille.",
+    "servings": 4,
+    "prepTimeMin": 45,
+    "totalTimeMin": 90,
+    "category": "Muut",
+    "tags": ["italialainen", "kasvis", "pasta"],
+    "ingredients": [
+      "400 g 00-vehnäjauhoja (+ jauhoja alustalle)",
+      "4 kananmunaa, huoneenlämpöisiä",
+      "2 kananmunan keltuaista",
+      "1 rkl ekstra-neitsytoliiviöljyä",
+      "¾ tl suolaa",
+      "30 g durumvehnäjauhoja (hienoa semolinaa, ripotteluun)"
+    ],
+    "instructions": [
+      "Kasaa jauhot puhtaalle työtasolle, sekoita suola joukkoon ja tee keskelle leveä kuoppa. Riko munat ja keltuaiset kuoppaan, lisää öljy ja vatkaa haarukalla. Sekoita jauhoja kuopan reunoilta vähitellen munien joukkoon. Kun keskusta on liian paksua sekoitettavaksi, yhdistä loput taikinakaapimella karkeaksi taikinaksi.",
+      "Vaivaa taikinaa kevyesti jauhotetulla alustalla kämmenen tyvellä: työnnä poispäin, taita takaisin, käännä neljänneskierros ja toista. Vaivaa tasaiseen tahtiin 8–10 minuuttia, kunnes taikina on sileää ja kimmoisaa. Lisää jauhoja vain ripaus kerrallaan, jos taikina tarttuu.",
+      "Kääri taikina tiiviisti kelmuun ja anna levätä huoneenlämmössä vähintään 30 minuuttia, enintään tunti.",
+      "Leikkaa taikina neljään osaan ja pidä muut kääreessä. Litistä yksi pala ja aja pastakoneen leveimmän asetuksen läpi (tai kauli kaulimella). Taita kolmeen osaan, käännä neljänneskierros ja aja leveimmän asetuksen läpi vielä 2–3 kertaa. Ohenna sitten levyä asetus kerrallaan kevyesti jauhottaen, kunnes käsi näkyy sen läpi.",
+      "Anna levyjen kuivahtaa jauhotetulla liinalla 5–10 minuuttia. Leikkaa leikkurilla tai rullaa löysästi ja leikkaa veitsellä tagliatelleiksi tai pappardelleiksi. Kääntele nauhat semolinassa ja muotoile väljiksi pesiksi. Keitä tunnin sisällä reilusti suolatussa kiehuvassa vedessä 2–3 minuuttia tai kuivata myöhempää käyttöä varten."
+    ]
+  },
+  { "id": "forkrecipe-pasteis-de-nata", "skip": "lähes kaksoiskappale (pastel de nata)" },
+  {
+    "id": "forkrecipe-pastel-de-nata",
+    "title": "Pastel de nata – portugalilaiset vanukasleivokset",
+    "description": "Rapean lehtevä taikinakuori ja sen sisällä niin silkkinen vanukas, että se tuskin pysyy muodossaan – pinta kuumassa uunissa mustiksi läikiksi karamellisoitunut.",
+    "servings": 12,
+    "prepTimeMin": 60,
+    "totalTimeMin": 240,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["portugalilainen", "leivonnainen", "vanukas"],
+    "ingredients": [
+      "Taikina:",
+      "250 g vehnäjauhoja",
+      "1,25 dl kylmää vettä",
+      "½ tl suolaa",
+      "150 g pehmeää suolatonta voita (tai laardia)",
+      "Täyte:",
+      "2,5 dl täysmaitoa",
+      "200 g hienoa sokeria",
+      "0,6 dl vettä",
+      "15 g vehnäjauhoja",
+      "6 kananmunan keltuaista",
+      "1 kanelitanko",
+      "1 suikale sitruunankuorta (ilman valkoista osaa)",
+      "jauhettua kanelia pinnalle"
+    ],
+    "instructions": [
+      "Sekoita jauhot, vesi ja suola sileäksi, taipuisaksi taikinaksi ja vaivaa 5–6 minuuttia, kunnes se on pehmeää ja hieman kimmoisaa. Kääri kelmuun ja lepuuta jääkaapissa 30 minuuttia.",
+      "Kauli taikina kevyesti jauhotetulla alustalla noin 40 × 30 cm suorakaiteeksi. Levitä pehmeä voi tasaisesti pinnalle 1 cm reunoja lukuun ottamatta. Kääri taikina lyhyeltä sivulta tiiviiksi rullaksi ja leikkaa 12 yhtä suureksi kiekoksi. Litistä kiekot sormin ja painele muffinssivuoan koloihin pohjiksi ja reunoiksi, hieman reunan yli. Jäähdytä 20 minuuttia.",
+      "Kuumenna maito, kanelitanko ja sitruunankuori keskilämmöllä kiehumispisteen alle. Nosta liedeltä ja anna hautua 15 minuuttia, poista sitten kaneli ja kuori. Keitä samaan aikaan sokeri ja vesi toisessa pienessä kattilassa sekoittamatta 104 asteeseen.",
+      "Vatkaa jauhot maustettuun maitoon sileäksi. Kaada kuuma sokeriliemi joukkoon koko ajan vatkaten. Kuumenna keskilämmöllä sekoittaen, kunnes seos juuri alkaa sakeutua, ja nosta heti liedeltä. Vatkaa keltuaiset joukkoon. Siivilöi kannuun. Täytteen pitää olla kaadettavaa; se hyytyy uunissa.",
+      "Kaada täyte kylmiin taikinakuoriin 3 mm:n päähän reunasta. Paista uunin yläosassa erittäin kuumassa uunissa (240–260 °C) 12–15 minuuttia, kunnes kuori on kullanruskea ja täytteen pintaan tulee tummia, karamellisoituneita läikkiä. Tarjoa lämpimänä kanelilla ripoteltuna."
+    ]
+  },
+  { "id": "forkrecipe-patatas-bravas-sauce", "skip": "lähes kaksoiskappale (patatas bravas)" },
+  {
+    "id": "forkrecipe-patatas-bravas",
+    "title": "Patatas bravas",
+    "description": "Madridin rakastettu baaritapas: paksut perunapalat paistetaan kahteen kertaan rapeiksi ja kuoppaisiksi ulkoa ja jauhoisiksi sisältä, ja päälle tulee tulista tomaatti-paprikakastiketta ja aiolia.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 45,
+    "category": "Lisukkeet",
+    "tags": ["espanjalainen", "kasvis", "peruna", "tapas", "tulinen"],
+    "ingredients": [
+      "1 kg jauhoisia perunoita, kuorittuina ja 3 cm paloina",
+      "1 l oliivi- tai auringonkukkaöljyä paistamiseen",
+      "Bravas-kastike:",
+      "½ dl oliiviöljyä",
+      "4 valkosipulinkynttä, viipaleina",
+      "2 tl tulista savupaprikajauhetta (pimentón picante)",
+      "2 tl makeaa savupaprikajauhetta (pimentón dulce)",
+      "400 g kypsiä tomaatteja karkeasti pilkottuina (tai säilyketomaatteja)",
+      "1 rkl sherryetikkaa",
+      "1½ tl suolaa",
+      "aiolia tarjoiluun (valinnainen)"
+    ],
+    "instructions": [
+      "Laita perunapalat isoon kattilaan ja peitä reilulla kylmällä suolavedellä. Kuumenna kiehuvaksi ja keitä 12–15 minuuttia, kunnes perunat ovat juuri kypsiä mutta eivät hajoa. Valuta ja ravista siivilää voimakkaasti 5–6 kertaa, jotta perunoiden reunat rikkoutuvat. Levitä ritilälle ja anna kuivua vähintään 10 minuuttia.",
+      "Kuumenna kastikkeen oliiviöljy pienessä kattilassa keskilämmöllä. Kuullota valkosipulia 1–2 minuuttia vaalean kullanruskeaksi. Lisää molemmat paprikat ja sekoita 30 sekuntia. Lisää tomaatit ja ripaus suolaa ja keitä välillä sekoittaen 15–20 minuuttia, kunnes tomaatit ovat täysin hajonneet ja kastike sakeutunut. Lisää sherryetikka ja maista: kastikkeen kuuluu olla rohkea, savuinen ja tulinen. Soseuta sileäksi ja pidä lämpimänä.",
+      "Kuumenna paistoöljy leveässä paksupohjaisessa kattilassa 150 asteeseen. Paista perunoita erissä 4–5 minuuttia, kunnes pinta on hyytynyt mutta ei ruskistunut. Nosta talouspaperille. Nosta öljyn lämpö 190 asteeseen ja paista perunat pienemmissä erissä 3–4 minuuttia syvän kullanruskeiksi ja rapeiksi. Valuta ja suolaa heti suolahiutaleilla. Älä kasaa perunoita.",
+      "Asettele perunat matalaan vatiin väljäksi kerrokseksi ja lusikoi lämmin bravas-kastike reilusti päälle. Valuta halutessasi aiolia ohuina raitoina kastikkeen päälle. Tarjoa heti kuumana."
+    ]
+  },
+  {
+    "id": "forkrecipe-pate-a-choux",
+    "title": "Tuulihattutaikina (pâte à choux)",
+    "description": "Kahteen kertaan kypsennetty taikina, johon vatkataan munat yksitellen ja joka paistuu onteloiksi, kullanruskeiksi kuoriksi: ulkoa rapea kuin keksi ja sisältä tyhjä, valmiina täytettäväksi vaniljakreemillä, ganassilla tai kermavaahdolla.",
+    "servings": 24,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 70,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "leivonnainen"],
+    "ingredients": [
+      "2,5 dl vettä",
+      "110 g suolatonta voita, kuutioina",
+      "1 tl suolaa",
+      "1 tl sokeria",
+      "150 g vehnäjauhoja, siivilöitynä",
+      "3–4 kananmunaa (n. 150 g), kevyesti vatkattuina, huoneenlämpöisiä"
+    ],
+    "instructions": [
+      "Yhdistä vesi, voi, suola ja sokeri paksupohjaisessa kattilassa ja kuumenna keskilämmöllä voimakkaaseen kiehuntaan. Voin pitää ehtiä sulaa kokonaan ennen kuin vesi kiehuu. Siirry seuraavaan vaiheeseen heti, kun seos kiehuu kunnolla.",
+      "Nosta kattila liedeltä ja lisää kaikki jauhot kerralla. Sekoita heti voimakkaasti puulusikalla, kunnes kuivia jauhoja ei jää. Palauta keskilämmölle ja kuivata taikinaa jatkuvasti sekoittaen ja painellen 2–3 minuuttia, kunnes se irtoaa kattilan reunoista palloksi ja pohjaan jää ohut kalvo.",
+      "Anna taikinan jäähtyä 5 minuuttia. Lisää vatkatut munat vähitellen, aluksi ruokalusikallinen kerrallaan, ja vatkaa voimakkaasti jokaisen lisäyksen jälkeen. Taikina näyttää aluksi juoksettuneelta, mutta tasoittuu vatkatessa. Munaa tarvitaan vaihtelevasti: lopeta, kun taikina valuu nuolijalta hitaana, raskaana V-muotona, joka taipuu mutta ei katkea.",
+      "Pursota taikina leivinpaperilla vuoratuille pelleille: tuulihatut 3 cm pyörylöinä 4 cm välein, eclairit 10 cm tankoina. Siloita huiput kostealla sormella. Paista 200 °C:ssa 10 minuuttia uunia avaamatta, laske lämpö 180 asteeseen ja paista vielä 15–20 minuuttia, kunnes kuoret ovat kauttaaltaan syvän kullanruskeita. Raota luukkua viimeisten 5 minuutin ajaksi. Siirrä ritilälle ja pistä kuhunkin pohjaan reikä vartaalla."
+    ]
+  },
+  {
+    "id": "forkrecipe-pate-brisee",
+    "title": "Pâte brisée – ranskalainen murotaikina",
+    "description": "Murea, mureneva ranskalainen piirakkataikina: tuskin lainkaan vettä ja kylmä voi nypittynä hiekaksi. Paistuu vaaleaksi, keksimäiseksi kuoreksi, joka kestää kosteimmankin täytteen.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 90,
+    "category": "Leivät ja leivonnaiset",
+    "tags": ["ranskalainen", "kasvis", "piirakka", "leivonnainen"],
+    "ingredients": [
+      "250 g vehnäjauhoja",
+      "125 g kylmää suolatonta voita, pieninä kuutioina",
+      "½ tl suolaa",
+      "3 rkl jääkylmää vettä",
+      "1 kananmunan keltuainen",
+      "kananmunaa pohjan voiteluun"
+    ],
+    "instructions": [
+      "Laita jauhot ja suola isoon kulhoon tai monitoimikoneeseen. Lisää kylmät voikuutiot ja nypi ne sormenpäillä jauhoihin, kunnes seos on kuin karkeaa, kosteaa hiekkaa eikä yksikään voipala ole hernettä suurempi. Työskentele nopeasti. Monitoimikoneessa sykäytä 8–10 kertaa.",
+      "Vatkaa keltuainen ja jääkylmä vesi pienessä kulhossa. Tee jauhoseokseen kuoppa, kaada neste siihen ja yhdistä haarukalla mahdollisimman vähän sekoittaen. Kun taikina pysyy nyrkissä puristettuna koossa, lopeta. Painele kiekoksi; älä vaivaa.",
+      "Kääri kiekko tiiviisti kelmuun ja jäähdytä vähintään 45 minuuttia, enintään 3 päivää. Ota jääkaapista 5–10 minuuttia ennen kaulimista, jos taikina on hyvin kovaa.",
+      "Kauli taikina kevyesti jauhotetulla alustalla 3–4 mm paksuksi. Vuoraa 23 cm piirakkavuoka ja paina taikina kulmiin. Leikkaa reuna ja pistele pohja kevyesti haarukalla. Pakasta 15 minuuttia. Vuoraa leivinpaperilla ja täytä kuivatuilla pavuilla tai riisillä. Esipaista 180 °C:ssa 15–18 minuuttia, poista pavut, sivele pohja vatkatulla kananmunalla ja paista vielä 5–8 minuuttia, kunnes pohja on kuiva ja kullanruskea."
+    ]
+  },
+  {
+    "id": "forkrecipe-patina-de-piris",
+    "title": "Patina de piris – roomalainen päärynävanukas",
+    "description": "Keisarillisen Rooman päärynävanukas Apiciuksen keittokirjasta: kypsät päärynät survotaan hunajan ja yllättävän mustapippurin kanssa sileäksi, sidotaan munilla ja tilkalla kalakastiketta ja paistetaan hytkyväksi, makean suolaiseksi vanukkaaksi.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 70,
+    "category": "Jälkiruoat",
+    "tags": ["historiallinen", "roomalainen", "päärynä", "hunaja", "gluteeniton"],
+    "ingredients": [
+      "600 g kypsiä päärynöitä, kuorittuina ja siemenkodat poistettuina",
+      "¾ dl hunajaa",
+      "4 kananmunaa, kevyesti vatkattuina",
+      "1 tl mustapippuria, vastarouhittuna (+ lisää pinnalle)",
+      "1 tl kalakastiketta",
+      "ripaus jauhettua juustokuminaa",
+      "1 rkl oliiviöljyä vuoan voiteluun"
+    ],
+    "instructions": [
+      "Paloittele kuoritut päärynät ja hauduta niitä kannen alla hunajan ja tilkan vettä kanssa miedolla lämmöllä 12–15 minuuttia täysin pehmeiksi ja läpikuultaviksi. Valuta suurin osa nesteestä pois, jotta vanukas hyytyy.",
+      "Survo päärynät huhmaressa tai soseuta monitoimikoneessa sileäksi. Sekoita joukkoon vastarouhittu pippuri ja kumina. Pippurin pitää tuntua lempeänä kihelmöintinä. Anna soseen jäähtyä haaleaksi.",
+      "Sekoita vatkatut munat tasaisesti haaleaan soseeseen. Lisää muutama tippa kalakastiketta syventämään makua. Maun pitää olla ensin makea, sitten suolainen ja lopuksi pippurisen lämmin. Vatkaa löysäksi, kaadettavaksi seokseksi.",
+      "Voitele matala uunivuoka oliiviöljyllä ja kaada seos vuokaan. Paista 170 °C:ssa 30–35 minuuttia, kunnes vanukas on juuri hyytynyt ja keskusta vain hieman hytkyy (vesihaude tekee siitä silkkisimmän). Rouhi pinnalle hieman pippuria. Anna jäähtyä haaleaksi ja tarjoa lusikalla."
+    ]
+  },
+  {
+    "id": "forkrecipe-pavlova",
+    "title": "Pavlova",
+    "description": "Rapea, lumivalkoinen marenkikuori ja vaahtokarkkimaisen pehmeä sisus, päällä kuohkeaa kermavaahtoa ja kirkkaita tuoreita hedelmiä. Rapeuden, makean pehmeyden ja kirpeiden hedelmien tasapaino on koko taide.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 25,
+    "totalTimeMin": 240,
+    "category": "Jälkiruoat",
+    "tags": ["australialainen", "kasvis", "gluteeniton", "marenki", "juhla"],
+    "ingredients": [
+      "Marenki:",
+      "6 kananmunan valkuaista, huoneenlämpöisiä",
+      "300 g hienoa sokeria",
+      "2 tl maissitärkkelystä",
+      "1 tl valkoviinietikkaa tai sitruunamehua",
+      "1 tl vaniljauutetta",
+      "Täyte:",
+      "4 dl kuohukermaa, kylmänä",
+      "½ tl vaniljauutetta",
+      "4 passionhedelmää, sisus kaavittuna",
+      "200 g mansikoita, puolitettuina",
+      "3 kiiviä, kuorittuina ja viipaleina",
+      "100 g mustikoita"
+    ],
+    "instructions": [
+      "Varmista, että kulho ja vatkain ovat täysin puhtaat ja rasvattomat; pyyhi ne sitruunanpuolikkaalla ja kuivaa. Vatkaa valkuaiset keskinopeudella pehmeäksi vaahdoksi. Lisää sokeri ruokalusikallinen kerrallaan ja vatkaa 30 sekuntia jokaisen lisäyksen jälkeen. Vatkaamiseen kuluu yhteensä 10–12 minuuttia.",
+      "Ripottele marengin päälle maissitärkkelys ja vanilja ja kaada etikka. Kääntele isolla lusikalla tai nuolijalla vain kolme tai neljä kertaa pohjasta ylös. Muutama raita saa jäädä.",
+      "Piirrä leivinpaperiin 22 cm ympyrä, käännä paperi kuva alaspäin pellille. Kasaa marenki ympyrälle ja muotoile lusikan selällä kiekoksi, jonka reunat ovat hieman koholla ja keskellä on matala syvennys. Paista 140 °C:ssa 1 tunti 15 minuuttia. Sammuta uuni ja jätä pavlova uuniin luukku suljettuna vähintään 2 tunniksi, mieluiten yön yli.",
+      "Vatkaa juuri ennen tarjoilua kylmä kerma ja vanilja kylmässä kulhossa keskikovaksi vaahdoksi, joka pitää muotonsa mutta on vielä pehmeä.",
+      "Siirrä jäähtynyt marenki tarjoiluvadille. Kasaa kermavaahto syvennykseen kuohkeiksi kasoiksi. Asettele ensin mansikat ja kiivit, sitten mustikat ja lusikoi lopuksi passionhedelmän sisus kaiken päälle. Tarjoa heti tai 30 minuutin kuluessa."
+    ]
+  },
+  {
+    "id": "forkrecipe-peach-melba",
+    "title": "Persikka Melba",
+    "description": "Escoffierin kunnianosoitus sopraanolle: kypsät persikat haudutetaan kokonaisina vaniljasiirapissa, kunnes kuori irtoaa, ja tarjoillaan kylmän vaniljajäätelön päällä raa'an vadelmakastikkeen kanssa, joka valuu karmiininpunaisena maljan reunoille.",
+    "servings": 4,
+    "prepTimeMin": 40,
+    "totalTimeMin": 150,
+    "category": "Jälkiruoat",
+    "tags": ["ranskalainen", "kasvis", "persikka", "vadelma", "gluteeniton"],
+    "ingredients": [
+      "4 kypsää mutta kiinteää persikkaa (n. 600 g), kokonaisina",
+      "7 dl vettä",
+      "3 dl sokeria",
+      "1 vaniljatanko, halkaistuna ja siemenet kaavittuina",
+      "1 sitruuna (mehu ja suikale kuorta)",
+      "300 g tuoreita vadelmia",
+      "70 g tomusokeria",
+      "5 dl jäätelöä (vanilja)",
+      "3 rkl paahdettuja mantelilastuja"
+    ],
+    "instructions": [
+      "Yhdistä vesi ja sokeri kattilassa, johon persikat mahtuvat tiiviisti. Kaavi joukkoon vaniljan siemenet ja lisää tanko, sitruunankuori ja tilkka mehua. Lämmitä keskilämmöllä sekoittaen, kunnes sokeri liukenee, ja kuumenna hiljaiseen kiehuntaan.",
+      "Laske persikat kokonaisina siirappiin, peitä leivinpaperilla, jotta ne pysyvät upoksissa, ja hauduta hiljaa 12–18 minuuttia kypsyydestä riippuen kerran kääntäen. Ne ovat valmiita, kun veitsi uppoaa vastuksetta. Nosta pois, ja kun persikat ovat jäähtyneet hieman, kuori ne. Puolita, poista kivet ja jäähdytä siirapissa.",
+      "Soseuta vadelmat tomusokerin ja muutaman tipan sitruunamehua kanssa sileäksi. Siivilöi hienon siivilän läpi ja paina hyvin. Säädä makeutta. Jäähdytä kylmäksi.",
+      "Jäähdytä tarjoilumaljat. Laita jokaiseen reilu pallo vaniljajäätelöä, asettele päälle kaksi persikanpuolikasta leikkuupinta alaspäin ja lusikoi kylmä vadelmakastike hedelmien päälle. Ripottele päälle paahdetut mantelilastut ja tarjoa heti."
+    ]
+  },
+  {
+    "id": "forkrecipe-peanut-sauce",
+    "title": "Thaimaalainen maapähkinäkastike (nam jim satay)",
+    "description": "Satay-kastike niin kuin pitää: paahdetut maapähkinät survotaan karkeaksi ja haudutetaan punaisen currytahnan kanssa kookoskermassa, kunnes öljy nousee punaisena pintaan, ja tasapainotetaan tamarindilla, palmusokerilla ja kalakastikkeella kiiltäväksi dipiksi grillivartaille.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 45,
+    "category": "Kastikkeet ja dipit",
+    "tags": ["thaimaalainen", "kastike", "dippi"],
+    "ingredients": [
+      "200 g raakoja kuorittuja maapähkinöitä",
+      "3 rkl punaista currytahnaa",
+      "2,5 dl kookoskermaa (purkin paksu yläosa)",
+      "1,6 dl kookosmaitoa (tai vettä)",
+      "3 rkl tamarinditahnaa",
+      "60 g palmusokeria, raastettuna",
+      "2½ rkl kalakastiketta",
+      "2 rkl paahdettuja maapähkinöitä, karkeasti hienonnettuina"
+    ],
+    "instructions": [
+      "Paahda raa'at maapähkinät paksupohjaisella pannulla keskilämpöä miedommalla lämmöllä jatkuvasti ravistellen 8–12 minuuttia kullanruskeiksi. Anna jäähtyä kokonaan. Survo huhmaressa tai sykäytä monitoimikoneessa karkeaksi rouheeksi: kaksi kolmasosaa hiekkamaista ja kolmannes herneen kokoisia paloja. Älä jauha voiksi.",
+      "Kuumenna paksu kookoskerma yksinään leveällä pannulla keskilämmöllä ja keitä sekoittaen 4–6 minuuttia, kunnes kerma erottuu ja reunoille kertyy kirkasta öljyä. Lisää currytahna ja paista sitä öljyssä painellen ja käännellen 3–5 minuuttia, kunnes raaka tuoksu katoaa ja öljy hehkuu punaisena.",
+      "Sekoita survotut maapähkinät paistettuun tahnaan ja kaada joukkoon kookosmaito. Hauduta hiljaa usein sekoittaen 8–12 minuuttia, kunnes kastike sakenee. Löysennä tarvittaessa tilkalla kookosmaitoa tai vettä.",
+      "Sekoita joukkoon tamarindi, palmusokeri ja kalakastike ja anna sulaa minuutti. Maista ja säädä: ensin makea, sitten suolainen ja hapan, ja lopussa chilin lämpö. Löysennä paksuksi mutta kaadettavaksi dipiksi. Ripottele päälle hienonnetut maapähkinät ja tarjoa lämpimänä grillattujen satay-vartaiden kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pear-ginger-crisp",
+    "title": "Päärynä-inkiväärimurupaistos",
+    "description": "Mehukkaat päärynät paistuvat hunajaiseksi, hennon mausteiseksi täytteeksi kaksinkertaisella inkiväärillä – tuoreella juurella ja sitkeillä kandeeratuilla paloilla – voisen, rapean kauramurun alla.",
+    "servings": 8,
+    "prepTimeMin": 25,
+    "totalTimeMin": 90,
+    "category": "Jälkiruoat",
+    "tags": ["amerikkalainen", "kasvis", "päärynä", "piirakka", "syksy"],
+    "ingredients": [
+      "Täyte:",
+      "1,3 kg kypsiä mutta kiinteitä päärynöitä, kuorittuina ja 2 cm paloina",
+      "1 rkl sitruunamehua",
+      "50 g vaaleaa fariinisokeria",
+      "15 g maissitärkkelystä",
+      "15 g tuoretta inkivääriä, hienoksi raastettuna",
+      "40 g kandeerattua inkivääriä, hienonnettuna",
+      "Murupinta:",
+      "90 g vehnäjauhoja",
+      "80 g kaurahiutaleita",
+      "100 g vaaleaa fariinisokeria",
+      "1 tl jauhettua kanelia",
+      "½ tl suolaa",
+      "115 g kylmää suolatonta voita, 1 cm kuutioina"
+    ],
+    "instructions": [
+      "Kuumenna uuni 190 asteeseen, ritilä keskelle. Sekoita isossa kulhossa päärynät, sitruunamehu, 50 g fariinisokeria, maissitärkkelys, tuore inkivääri ja kandeerattu inkivääri, kunnes tärkkelys on imeytynyt. Levitä tasaisesti noin 23 × 23 cm tai 2 litran uunivuokaan.",
+      "Sekoita kulhossa jauhot, kaurahiutaleet, 100 g fariinisokeria, kaneli ja suola. Lisää kylmät voikuutiot ja nypi sormenpäillä, kunnes voi on herneen kokoisina paloina ja seos pysyy puristettaessa paakkuina, 3–4 minuuttia. Jäähdytä 10 minuuttia, jos voi tuntuu pehmeältä.",
+      "Ripottele murut tasaisesti päärynöiden päälle paakkuina, älä painele. Aseta vuoka folioidulle pellille. Paista 45–55 minuuttia, kunnes pinta on syvän kullanruskea ja täyte kuplii reunoilta paksuna. Peitä foliolla, jos pinta ruskistuu liian aikaisin.",
+      "Anna jäähtyä ritilällä vähintään 20 minuuttia, jotta mehut sakenevat. Tarjoa lämpimänä vaniljajäätelön tai kevyesti makeutetun kermavaahdon kanssa."
+    ]
+  },
+  {
+    "id": "forkrecipe-pecan-pie-filling",
+    "title": "Pekaanipähkinäpiirakka",
+    "description": "Syvän meripihkanvärinen, karamellintuoksuinen täyte siirapista ja kananmunista, joka kaadetaan paahdettujen pekaanipähkinöiden päälle. Pähkinät nousevat pintaan ja paistuvat kiiltäväksi, rapsahtelevaksi kruunuksi.",
+    "servings": 8,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 75,
+    "category": "Jälkiruoat",
+    "tags": ["amerikkalainen", "kasvis", "piirakka", "juhla"],
+    "ingredients": [
+      "2,4 dl tummaa siirappia (tai tummaa maissisiirappia)",
+      "100 g tummaa fariinisokeria",
+      "3 kananmunaa, huoneenlämpöisiä",
+      "60 g suolatonta voita, sulatettuna ja jäähdytettynä",
+      "150 g pekaanipähkinöitä, puolikkaina",
+      "½ tl suolaa",
+      "2 tl vaniljauutetta",
+      "1 paistamaton piirakkapohja (23 cm), esim. pâte brisée"
+    ],
+    "instructions": [
+      "Levitä pekaanipähkinät kuivalle pellille yhdeksi kerrokseksi ja paahda 175 °C:ssa 8–10 minuuttia, kerran sekoittaen.",
+      "Vatkaa isossa kulhossa siirappi, fariinisokeri, jäähtynyt voi, suola ja vanilja tasaiseksi. Voin on oltava alle 50-asteista, ettei se kypsennä munia.",
+      "Lisää kananmunat yksitellen ja vatkaa kukin kevyesti joukkoon. Älä vatkaa ilmaa seokseen, ettei täyte kohoa ja halkeile uunissa.",
+      "Asettele paahdetut pekaanipähkinät piirakkapohjalle tasainen puoli alaspäin. Kaada täyte varovasti päälle; pähkinät nousevat pintaan itsestään. Täytä 1 cm:n päähän reunasta.",
+      "Paista 175 °C:ssa uunin keskiosan alapuolella 50–60 minuuttia. Suojaa reunat foliolla 20 minuutin kuluttua. Täyte hyytyy reunoilta keskelle, ja keskusta saa vielä hytkyä uunista otettaessa; se hyytyy jäähtyessään."
+    ]
+  },
+  {
+    "id": "forkrecipe-peking-duck",
+    "title": "Pekingin ankka",
+    "description": "Kiinalaisen paahtamisen huippu: kokonainen ankka kuivatetaan vuorokauden ajan ja lakataan maltoosilla ja soijalla, kunnes nahka rapisee kosketuksesta ja rasva on sulanut kokonaan kiiltävän mahonginruskean kuoren alta.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 60,
+    "totalTimeMin": 1800,
+    "category": "Pääruoat",
+    "tags": ["kiinalainen", "liha", "juhla", "uuniruoka"],
+    "ingredients": [
+      "1 kokonainen ankka (2,2–2,5 kg), puhdistettuna",
+      "60 g maltoosisiirappia",
+      "2 rkl shaoxing-riisiviiniä",
+      "2 rkl vaaleaa soijakastiketta",
+      "2 l kiehuvaa vettä (kalttaamiseen)",
+      "2 tl viiden mausteen seosta",
+      "2 tl suolaa",
+      "20 g tuoretta inkivääriä, viipaleina",
+      "30 g kevätsipulia, paloina"
+    ],
+    "instructions": [
+      "Sekoita viiden mausteen seos ja suola. Poista kaula ja sisälmykset ja kuivaa vatsaontelo huolellisesti. Hiero mausteseos vatsaontelon sisäpintaan ja täytä se inkiväärillä ja kevätsipulilla. Sulje aukko vartaalla. Halutessasi erota nahka rintalihasta puhaltamalla ilmaa nahan alle kaulan aukosta (esim. pyöränpumpulla), jolloin nahasta tulee erityisen rapea.",
+      "Pidä ankkaa ison kattilan tai wokin päällä ja valele koko nahka hitaasti kiehuvalla vedellä 2–3 minuutin ajan. Nahka kiristyy ja muuttuu vaaleaksi.",
+      "Lämmitä maltoosi pienessä kattilassa hyvin miedolla lämmöllä juoksevaksi ja sekoita joukkoon shaoxing-viini ja soija. Sivele ohut, tasainen kerros koko nahalle. Ripusta ankka viileään, ilmavaan paikkaan (tai tuulettimen eteen) ja toista lakkaus 4 tunnin välein, yhteensä 3–4 kertaa vuorokauden aikana. Nahan on kuivuttava kokonaan kerrosten välillä.",
+      "Kuumenna uuni 220 asteeseen. Aseta ankka rinta alaspäin ritilälle syvän uunipannun päälle, jonka pohjalla on 2 cm vettä. Paahda 25 minuuttia. Käännä rinta ylöspäin, nosta lämpö 240 asteeseen ja paahda vielä 20–25 minuuttia, kunnes nahka on rapea ja syvän kiiltävä."
+    ],
+    "notes": ["Tarjoa ohuiden lettujen, hoisin-kastikkeen, kevätsipulin ja kurkkutikkujen kanssa."]
+  },
+  {
+    "id": "forkrecipe-peperonata",
+    "title": "Peperonata – italialainen paprikamuhennos",
+    "description": "Makeat paprikat, sipuli ja tomaatti haudutetaan hitaasti reilussa oliiviöljyssä, kunnes jokainen suikale on painunut silkkiseksi, hillomaiseksi muhennokseksi, joka maistuu paljon makeammalta ja tiiviimmältä kuin raaka paprika koskaan.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 15,
+    "totalTimeMin": 60,
+    "category": "Lisukkeet",
+    "tags": ["italialainen", "vegaaninen", "kasvis", "gluteeniton"],
+    "ingredients": [
+      "750 g sekalaisia paprikoita (punainen, keltainen, oranssi), 1 cm suikaleina",
+      "2 keltasipulia (n. 300 g), puolitettuina ja ohuina viipaleina",
+      "225 g kypsiä luumutomaatteja, karkeasti pilkottuina",
+      "4 valkosipulinkynttä, ohuina viipaleina",
+      "1 dl ekstra-neitsytoliiviöljyä",
+      "2 tl suolaa",
+      "1 rkl punaviinietikkaa (valinnainen)",
+      "1 kourallinen tuoreita basilikanlehtiä"
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy leveässä paksupohjaisessa kattilassa keskilämpöä miedommalla lämmöllä. Lisää sipuli ja valkosipuli ja ripaus suolaa. Kypsennä hyvin hiljaa välillä sekoittaen 15 minuuttia, kunnes sipuli on täysin pehmeää ja kullankeltaista, ei ruskistunutta.",
+      "Lisää paprikasuikaleet ja suolaa. Sekoita, peitä kannella ja kypsennä keskilämpöä miedommalla lämmöllä 20 minuuttia, sekoittaen 5 minuutin välein. Paprikat päästävät runsaasti nestettä, mikä on tarkoituskin.",
+      "Lisää tomaatit ja poista kansi. Kypsennä vielä 20–25 minuuttia 5 minuutin välein sekoittaen, kunnes tomaatit ovat hajonneet ja neste on tiivistynyt paksuksi, kiiltäväksi kastikkeeksi. Paprikoiden pitää olla täysin pehmeitä ja silkkisiä.",
+      "Nosta liedeltä ja lisää halutessasi tilkka punaviinietikkaa. Tarkista suola ja sekoita joukkoon revitty basilika. Tarjoa lämpimänä, huoneenlämpöisenä tai kylmänä lisukkeena, bruschettan päällä tai pastakastikkeena."
+    ]
+  },
+  {
+    "id": "forkrecipe-peri-peri-chicken",
+    "title": "Peri-peri-kana",
+    "description": "Kokonainen, litistetty kana marinoidaan tulisessa piri-piri-chili-, valkosipuli-, sitruuna- ja savupaprikakastikkeessa ja grillataan hitaasti, kunnes nahka on kiiltävä ja rakkulainen ja tulisuus nousee kurkusta eteenpäin.",
+    "servings": 4,
+    "servingsEstimated": true,
+    "prepTimeMin": 20,
+    "totalTimeMin": 140,
+    "category": "Pääruoat",
+    "tags": ["eteläafrikkalainen", "kana", "grilli", "tulinen"],
+    "ingredients": [
+      "1 kokonainen kana (n. 1,5 kg), selkäranka poistettuna ja litistettynä",
+      "10–15 piri-piri-chiliä (lintusilmächiliä), kannat poistettuina",
+      "6 valkosipulinkynttä",
+      "2 sitruunaa (mehu ja raastettu kuori)",
+      "2 tl savupaprikajauhetta",
+      "1 tl kuivattua oreganoa",
+      "½ dl oliiviöljyä",
+      "2 tl suolaa"
+    ],
+    "instructions": [
+      "Soseuta chilit, valkosipuli, sitruunamehu ja -kuori, savupaprika, oregano, oliiviöljy ja suola tehosekoittimessa sileäksi. Kastikkeen pitää olla hyvin tulista, hapokasta ja suolaista. Miedompaa varten poista chilien siemenet.",
+      "Viillä kanan nahkaan ristikkokuvio, 4–5 viiltoa kummallekin puolelle. Hiero kastiketta joka puolelle, nahan alle, viiltoihin ja vatsaonteloon. Säästä 3 rkl kastiketta valeluun. Marinoi peitettynä jääkaapissa vähintään 2 tuntia tai yön yli.",
+      "Valmista grilliin kaksi aluetta: suora kova lämpö ja epäsuora keskilämpö. Aloita kana nahkapuoli ylöspäin epäsuoralla puolella ja kypsennä kannen alla 35–40 minuuttia, valellen 10 minuutin välein säästetyllä kastikkeella. Kun reiden paksuimman kohdan sisälämpötila on 68 °C, siirrä kana suoralle lämmölle nahkapuoli alaspäin 5–8 minuutiksi, jotta nahka hiiltyy ja kiiltää.",
+      "Anna levätä rintapuoli alaspäin leikkuulaudalla 10 minuuttia. Paloittele ja tarjoa sämpylöiden, ranskalaisten ja salaatin kanssa. Valuta lepuutusnesteet lihan päälle."
+    ]
+  },
+  {
+    "id": "forkrecipe-pernil",
+    "title": "Pernil – puertoricolainen haudutettu porsaanlapa",
+    "description": "Luullinen porsaanlapa marinoidaan vuorokauden valkosipuli-sazón-adobossa, paahdetaan hitaasti, kunnes liha hajoaa, ja kuumennetaan lopuksi kovaan lämpöön, jolloin paksu nahka muuttuu rapeaksi cueritoksi – koko ruoan halutuimmaksi osaksi.",
+    "servings": 10,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 600,
+    "category": "Pääruoat",
+    "tags": ["karibialainen", "liha", "juhla", "uuniruoka"],
+    "ingredients": [
+      "3,5 kg luullista, nahallista porsaan lapaa",
+      "40 g valkosipulinkynsiä (n. 10 kpl)",
+      "1½ rkl kuivattua oreganoa",
+      "2 rkl hienoa merisuolaa",
+      "1 rkl mustapippuria, karkeaksi rouhittuna",
+      "3 rkl valkoviinietikkaa",
+      "3 rkl oliiviöljyä",
+      "1 rkl sazón-mausteseosta (achiote ja culantro)",
+      "2 tl jauhettua juustokuminaa",
+      "20 g tuoretta korianteria varsineen, karkeasti hienonnettuna",
+      "1½ rkl karkeaa merisuolaa (nahalle)"
+    ],
+    "instructions": [
+      "Survo huhmaressa tai soseuta monitoimikoneessa valkosipuli, oregano, suola, pippuri ja kumina karkeaksi tahnaksi. Lisää etikka ja oliiviöljy ja sekoita paksuksi adoboksi. Sekoita joukkoon sazón ja korianteri.",
+      "Viillä nahkaan ristikkokuvio nahan ja rasvan läpi lihaan asti mutta ei lihaan. Tee ohuella veitsellä 20–30 syvää pistoa lihaan joka puolelle ja painele niihin reilusti adoboa sormella. Hiero loput adobosta lihaan. Hiero karkea suola vain nahalle. Aseta paistovuokaan nahkapuoli ylöspäin ja anna marinoitua peittämättä jääkaapissa 24–36 tuntia.",
+      "Nosta liha ritilälle syvään paistovuokaan nahkapuoli ylöspäin. Kaada vuoan pohjalle 5 dl vettä ja peitä tiiviisti foliolla. Paahda 160 °C:ssa 5–6 tuntia (noin 1½ tuntia kiloa kohden), kunnes sisälämpötila paksuimmasta kohdasta on 90 °C.",
+      "Poista folio ja nosta uunin lämpö 230 asteeseen. Paahda ilman kantta valvoen 30–45 minuuttia, kunnes nahka kuplii ja rapeutuu kullanruskeaksi. Käännä vuokaa 10 minuutin välein.",
+      "Anna levätä peittämättä 15 minuuttia. Nyhdä liha isoiksi paloiksi kahdella haarukalla ja riko rapea nahka erikseen paloiksi. Tarjoa riisin ja kyyhkyhernepadan (arroz con gandules) ja paistettujen jauhobanaanien kanssa."
+    ]
+  },
+  { "id": "forkrecipe-persian-rice-tahdig", "skip": "lähes kaksoiskappale (persialainen chelo-riisi ja tahdig)" },
+  {
+    "id": "forkrecipe-persian-rice",
+    "title": "Persialainen chelo-riisi ja tahdig",
+    "description": "Iranilaisen pöydän kruununjalokivi: pitkäjyväinen basmati esikeitetään, valutetaan ja höyrytetään voin ja perunan päällä, joista muodostuu tahdig – uskomattoman rapea, kullanruskea pohja, josta jokainen kilpailee.",
+    "servings": 6,
+    "servingsEstimated": true,
+    "prepTimeMin": 30,
+    "totalTimeMin": 90,
+    "category": "Lisukkeet",
+    "tags": ["iranilainen", "kasvis", "riisi", "gluteeniton"],
+    "ingredients": [
+      "500 g basmatiriisiä",
+      "2 rkl suolaa (liotukseen ja esikeittoon)",
+      "60 g suolatonta voita tai rypsiöljyä",
+      "0,5 g sahramia, liotettuna 2 rkl:ssa kuumaa vettä",
+      "1 keskikokoinen peruna (n. 200 g), kuorittuna ja 5 mm viipaleina"
+    ],
+    "instructions": [
+      "Huuhtele basmati kylmässä vedessä vähintään 5–6 kertaa, kunnes vesi on kirkasta. Liota kylmässä vedessä 1 rkl:n suolaa kanssa vähintään 30 minuuttia (enintään 4 tuntia). Valuta ja huuhtele.",
+      "Kuumenna iso kattilallinen reilusti suolattua vettä kiehuvaksi. Lisää riisi ja keitä ilman kantta tasan 5–7 minuuttia kerran varovasti sekoittaen. Riisi on valmista, kun jyvät ovat pidentyneet ja ulkoa pehmeitä mutta keskeltä vielä napakan valkoisia. Valuta heti ja huuhtele kylmällä vedellä.",
+      "Sulata voi paksupohjaisessa tarttumattomassa kattilassa keskikovalla lämmöllä. Asettele perunaviipaleet tasaiseksi kerrokseksi pohjalle. Kasaa esikeitetty riisi päälle löyhäksi kartioksi painelematta. Valuta sahramivesi riisin yläosan päälle. Kääri kattilan kansi puhtaaseen liinaan ja aseta tiiviisti paikalleen. Kuumenna keskikovalla lämmöllä 3 minuuttia ja laske sitten miedoimmalle. Höyrytä 35–45 minuuttia. Kumoa koko kattila tarjoiluvadille, jolloin kullanruskea tahdig jää päällimmäiseksi."
+    ]
+  },
+  { "id": "forkrecipe-persian-saffron-rice", "skip": "lähes kaksoiskappale (persialainen chelo-riisi ja tahdig)" },
+  { "id": "forkrecipe-persian-tahdig", "skip": "lähes kaksoiskappale (persialainen chelo-riisi ja tahdig)" }
+]
