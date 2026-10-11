@@ -65,10 +65,25 @@ spice mixes: *powdour douce* = sugar, cinnamon, ginger (nutmeg); *powdour fort* 
 The build keeps the original text and year (shown on the recipe page under the modern version),
 adds the tags `historiallinen` and the century (`1300-luku`, `1800-luku`; Beeton 1861 gets them too),
 and the app's "Vanhat reseptit" chip filters on that tag. Historical recipes are not used in
-automatic meal suggestions. The same Gutenberg book also holds *Ancient Cookery* (1381) after the
-roll – not parsed yet. Robert May's *The Accomplisht Cook* (1660, ebook #22790) is another candidate.
+automatic meal suggestions. Remaining work for the old books is listed under Backlog.
 
 ## Backlog
+
+**Old cookbooks (Project Gutenberg, public domain).** The user especially wants these: tag them
+`historiallinen` + century (automatic via `year` in `OPEN_SOURCES`), keep the original wording, add a
+modern Finnish reading as in *Historical cookbooks* above. Oldest first:
+
+| Book | Year | Gutenberg | Notes |
+|---|---|---|---|
+| *Apicius*, De re coquinaria – "Cookery and Dining in Imperial Rome" | c. 400 AD (Roman) | [#29728](https://www.gutenberg.org/ebooks/29728) | English translation by J. D. Vehling (1936); Vehling is reported to have died in 1950, which would make it public domain in Finland too (70 years) – verify before translating. ~470 short recipes. |
+| *Ancient Cookery* | 1381 | [#8102](https://www.gutenberg.org/ebooks/8102) | In the same ebook as The Forme of Cury, after the roll ("ANCIENT COOKERY. A.D. 1381"); headings like "I. FOR TO MAKE FURMENTY." – needs its own parser. |
+| *The Forme of Cury* | c. 1390 | [#8102](https://www.gutenberg.org/ebooks/8102) | **In the catalogue**; batches 001–007 (165 recipes) to translate. |
+| *The Accomplisht Cook* (Robert May) | 1660 | [#22790](https://www.gutenberg.org/ebooks/22790) | Large Restoration-era book, hundreds of recipes. |
+| *American Cookery* (Amelia Simmons) | 1796 | [#12815](https://www.gutenberg.org/ebooks/12815) | First American cookbook. |
+| *Modern Cookery for Private Families* (Eliza Acton) | 1845 | [#72482](https://www.gutenberg.org/ebooks/72482) | Influential; first to list ingredients with quantities. |
+| *Domestic Cookery* (Elizabeth E. Lea) | 1845 | [#28753](https://www.gutenberg.org/ebooks/28753) | American household cookery. |
+| *Kokki-kirja* (J. F. Granlund) | 1849 | [#73445](https://www.gutenberg.org/ebooks/73445) | **In the catalogue**; batches 001–015 (357 recipes) to translate. Skip the non-food tips at the end (moths, stains). |
+
 
 - **Foodista** ([foodista.com](https://www.foodista.com/)) – recipe text is **CC BY 3.0** (site footer, checked via the
   Wayback Machine in October 2026); tens of thousands of recipes, many with photos. To translate later.
