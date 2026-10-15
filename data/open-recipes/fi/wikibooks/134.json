@@ -1,0 +1,778 @@
+[
+ {
+  "id": "wikibooks-sunshine-cake",
+  "title": "Sunshine-kakku (sokerikakku)",
+  "description": "Kakkuista ei voi tehdä mitään herkullisempaa kuin auringonkakkua. Se sopii erityisen hyvin tarjoiltavaksi jonkinlaisen jäätelön kanssa, sillä se ei ole liian rasvainen ja sen väri on houkutteleva.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "6 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+   "⅓ tl viinikiveä",
+   "2,5 dl valkoista kidesokeria",
+   "2 dl vehnäjauhoja",
+   "1 tl sitruunamehua",
+   "1 tl vaniljauutetta"
+  ],
+  "instructions": [
+   "Vatkaa keltuaiset paksuksi ja vaaleaksi.",
+   "Vatkaa valkuaiset vaahdoksi, lisää viinikivi ja vatkaa kiinteäksi.",
+   "Sekoita sokeri munanvalkuaisiin ja lisää sitten keltuaiset tähän seokseen.",
+   "Siivilöi jauhot useita kertoja ja lisää ne.",
+   "Lisää sitruunamehu ja vanilja.",
+   "Kaada voitelemattomaan kakkuvuokaan ja paista 165 asteessa noin 45 minuuttia. Jäähdytä vuoka ylösalaisin."
+  ],
+  "notes": [
+   "Alkuperäinen lähde on Woman's Institute Library of Cookery, osa 4, Project Gutenbergissa."
+  ]
+ },
+ {
+  "id": "wikibooks-super-foamy-milkshake",
+  "skip": "vaatii erikoisjauheita (inuliini, herajauhe), ei tavallinen resepti"
+ },
+ {
+  "id": "wikibooks-super-moist-corn-bread",
+  "title": "Mehevä maissileipä",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "maissi",
+   "amerikkalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "2,5 dl maissijauhoa",
+   "2,5 dl vehnäjauhoja",
+   "2 tl leivinjauhetta",
+   "½ tl ruokasoodaa",
+   "½ dl fariinisokeria (valinnainen)",
+   "1 dl maitoa",
+   "1 dl maustamatonta jogurttia",
+   "1 kananmuna, kevyesti vatkattuna",
+   "½ dl sulatettua voita tai oliiviöljyä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 220 asteeseen ja voitele 20 × 20 cm vuoka.",
+   "Sekoita suuressa kulhossa maissijauhoja, jauhoja, leivinjauhetta, ruokasoodaa ja ruskeaa sokeria, jos sitä käytetään.",
+   "Sekoita toisessa kulhossa maito, jogurtti, muna ja sulatettu voi tai oliiviöljy.",
+   "Lisää kuiva seos vähitellen märkään seokseen ja sekoita, kunnes ainekset ovat juuri ja juuri sekoittuneet, ei enempää.",
+   "Kaada seos välittömästi voideltuun vuokaan ja paista 15–20 minuuttia tai kunnes keskelle pistetty hammastikku tulee ulos puhtaana."
+  ],
+  "notes": [
+   "Jos sekoitat liikaa sen jälkeen, kun olet yhdistänyt nestemäiset ja kuivat ainekset, taikina kovettuu!"
+  ]
+ },
+ {
+  "id": "wikibooks-superkanja-gambian-okra-stew",
+  "title": "Superkanja (gambialainen okra-muhennos)",
+  "description": "Superkanja on erittäin ravitseva ja maukas muhennos, jossa yhdistyvät monenlaiset lehtivihannekset, kuten pinaatti, lehtikaali, okra ja bataatinlehdet. Tästä ruokalajista on erilaisia muunnelmia ympäri Länsi-Afrikkaa, kuten ghanalainen kontomire. Tämä herkullinen ruokalaji, jota pidetään Gambian superkeittoina, voidaan nauttia monissa maissa. Sen nimi on peräisin portugalinkielisen keittoa tarkoittavan sanan (sopa) ja okraa tarkoittavan länsi-afrikkalaisen termin (kanja) yhdistelmästä, joka antaa ruoalle sen ainutlaatuisen tekstuurin.",
+  "servings": 6,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "gambialainen",
+   "okra",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g vähärasvaista naudanlihaa, paloina",
+   "450 g savukalaa",
+   "2 keskikokoista sipulia, hienonnettuna",
+   "½ tl mustapippuria",
+   "900 g okraa, pieninä paloina",
+   "1 dl palmuöljyä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kiehauta kattilallinen vettä ja lisää siihen liha ja kala. Anna kiehua 15 minuuttia, poista sitten kala kattilasta.",
+   "Lisää kattilaan suolaa, sipulia, pippuria ja kuutioitua okraa. Sekoita kaikki ainekset hyvin.",
+   "Keitä seosta keskilämmöllä 15 minuuttia, lisää sitten palmuöljy.",
+   "Vähennä lämpöä matalalle ja anna kiehua hiljalleen 20 minuuttia, sekoittaen välillä.",
+   "Sen jälkeen laita kala takaisin kattilaan ja anna hautua vielä 6–10 minuuttia miedolla lämmöllä.",
+   "Tarjoile superkanja-muhennos valkoisen riisin tai fufun kanssa."
+  ],
+  "notes": [
+   "Voit myös lisätä rapuja ja katkarapuja ruoan maun parantamiseksi."
+  ]
+ },
+ {
+  "id": "wikibooks-suqaar-somali-spiced-meat-stir-fry",
+  "title": "Suqaar (somalialainen maustettu lihapaistos)",
+  "description": "Suqaar on maukas ja tuoksuva somalialainen lihapannu, jota tarjoillaan yleensä pääruokana. Tässä ruokalajissa pehmeät lihapalat kypsennetään herkullisen mauste-, sipuli- ja paprikaseoksen kanssa, mikä luo maukkaan ja täyttävän aterian.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "somalialainen",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g naudanlihaa, ohuiksi viipaleiksi leikattuna",
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 tomaatti, kuutioituna",
+   "1 paprika, ohuiksi viipaleiksi leikattu",
+   "1 tl jauhettua kuminaa",
+   "1 tl jauhettua korianteria",
+   "1 tl jauhettua kurkumaa",
+   "½ tl cayennepippuria",
+   "1 tl suolaa",
+   "korianteria tai persiljaa"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy keskilämmöllä suuressa paistinpannussa tai paistokasarissa.",
+   "Lisää hienonnettu sipuli kuumaan öljyyn ja paista, kunnes se pehmenee ja muuttuu läpikuultavaksi.",
+   "Lisää hienonnettu valkosipuli ja paista vielä minuutti, kunnes tuoksuu hyvältä.",
+   "Lisää ohuiksi viipaloitu naudanliha pannulle ja paista, kunnes se ruskistuu ja molemmat puolet saavat kauniin paistopinnan.",
+   "Lisää kuutioidut tomaatit ja ohuiksi viipaloidut paprikat. Jatka paistamista, kunnes vihannekset pehmenevät hieman.",
+   "Ripottele jauhettua kuminaa, korianteria, kurkumaa ja cayenne-pippuria lihan ja vihannesten päälle. Sekoita hyvin, jotta mausteet tarttuvat tasaisesti kaikkiin aineksiin.",
+   "Mausta suolalla maun mukaan ja säädä mausteita oman maun mukaan.",
+   "Vähennä lämpöä keskilämpötilaan, peitä paistinpannu kannella ja anna suqaar-ruoan hautua muutama minuutti, jotta maut sulautuvat yhteen ja liha pehmenee.",
+   "Kun liha on täysin kypsynyt ja pehmeää, ota paistinpannu pois liedeltä.",
+   "Koristele tuoreella hienonnetulla korianterilla tai persiljalla ennen tarjoilua."
+  ],
+  "notes": [
+   "Suqaar nautitaan yleensä somalialaisen leivän tai riisin kanssa, ja se sopii hyvin somalialaisen salaatin tai chutneyn kanssa.",
+   "Voit vapaasti säätää mausteisuutta lisäämällä cayennepippuria enemmän tai vähemmän makusi mukaan.",
+   "Voit myös lisätä muita vihanneksia, kuten porkkanoita tai herneitä, parantaaksesi ruoan ravintoarvoa ja tuodaksesi väriä annokseen.",
+   "Kasvissyöjille sopivassa versiossa voit korvata naudanlihan tofulla tai tempehillä ja säätää kypsennysaikaa sen mukaan.",
+   "Naudanliha on runsas proteiinin, raudan ja erilaisten B-vitamiinien lähde."
+  ]
+ },
+ {
+  "id": "wikibooks-surinamese-cassava-and-coconut-dessert-bojo",
+  "title": "Bojo (surinamilainen maniokki-kookoskakku)",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "surinamilainen",
+   "kookos",
+   "leivonta",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg maniokkia",
+   "1 tuore kookospähkinä (tai 300 g kookosraastetta)",
+   "4 kananmunaa",
+   "1 rkl kanelia",
+   "1 tl manteliaromia",
+   "1 rkl vaniljauutetta",
+   "200 grammaa sokeria",
+   "75 grammaa voita",
+   "1 ripaus suolaa",
+   "2,5 dl maitoa",
+   "100 grammaa rusinoita"
+  ],
+  "instructions": [
+   "Kuori ja raasta maniokki. Raasta valkoinen kookosliha.",
+   "Vatkaa munat ja sokeri vaahdoksi. Lisää vanilja- ja manteliuute.",
+   "Sekoita munat ja sokeri raastetun kookospähkinän ja maniokin kanssa.",
+   "Lisää kaneli, maito, rusinat ja suola.",
+   "Sulata voi ja lisää se seokseen.",
+   "Hiero käyttämäsi astia voilla tai käytä Pam-ruoanpaistorasvaa.",
+   "Kaada voideltuun vuokaan ja paista 175 asteessa noin tunti, kunnes pinta on kullanruskea."
+  ],
+  "notes": [
+   "Ripottele bojon päälle hieman kanelia ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-surinamese-chicken-pot-pie-pastei",
+  "title": "Pastei (surinamilainen kanapiiras)",
+  "description": "Pastei on hyvin vanha ruokalaji, jonka juutalaiset uudisasukkaat toivat Surinameen. Se on yksinkertainen ruokalaji, joka valmistetaan kanasta, porkkanoista ja herneistä, ja se muistuttaa hyvin paljon kanapiirakkaa. Se maistuu parhaiten tavallisen valkoisen riisin kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "surinamilainen",
+   "piirakka",
+   "kana",
+   "juhla"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "200 g voita tai margariinia",
+   "250 g vehnäjauhoja",
+   "2 dl kylmää vettä",
+   "2 tl leivinjauhetta",
+   "1 tl suolaa",
+   "Täyte:",
+   "3 isoa broilerin palaa (koipi, reisi, rinta)",
+   "1 iso sipuli, hienonnettuna",
+   "150 g voita",
+   "2–3 kanaliemikuutiota",
+   "1 chili (valinnainen)",
+   "1 laakerinlehti",
+   "5 maustepippuria",
+   "1 tlk (400 g) herneitä ja porkkanoita",
+   "2 isoa tomaattia, hienonnettuna",
+   "1 varsiselleri, hienonnettuna",
+   "3 suolakurkkua, hienonnettuna",
+   "2 rkl ketsuppia",
+   "1 tl worcestershirekastiketta (valinnainen)",
+   "1 rkl piccalillia tai sinappia",
+   "3 kovaksi keitettyä kananmunaa",
+   "1 kananmuna voiteluun"
+  ],
+  "instructions": [
+   "Vatkaa voi sähkövatkaimella tai puulusikalla. Lisää vettä vähän kerrallaan, kunnes voi on imenyt kaiken veden.",
+   "Siivilöi jauhot, leivinjauhe ja suola yhdessä ja lisää ne vähitellen voihin. Tarkista, onko taikina valmis rullattavaksi, painamalla sitä sormella: jos taikina ei tartu sormeen, se on valmis. Jos taikina kuitenkin tarttuu, lisää noin 25 grammaa jauhoja.",
+   "Jaa taikina kahtia ja kauli kumpikin pala.",
+   "Vuoraa voideltu leivontavuoka tai alumiinifoliovuoka yhdellä taikinalevyllä. Painele taikinaa vuoan kulmiin, jotta täytettä mahtuu sisään mahdollisimman paljon.",
+   "Pese kana tarvittaessa.",
+   "Hauduta kanaa, 100 g voita, osa hienonnetusta sipulista, 2–3 liemikuutiota, tuoretta pippuria, laakerinlehteä ja hieman maustepippuria noin 1–1½ kupillisessa vedessä 30 minuuttia.",
+   "Ota kana uunista ja revi se pieniksi paloiksi, heitä luut pois.",
+   "Lisää loput voista liemeen, jossa kanaa oli keitetty.",
+   "Kuumenna hieman öljyä paistinpannussa ja lisää sitten loput hienonnetut sipulit.",
+   "Lisää kana. Lisää minuutin kuluttua hienonnetut tomaatit, herneet, porkkanat ja selleri. Lisää pannulle silloin tällöin hieman kanaliemiä, jotta se ei pala pohjaan.",
+   "Lisää hienonnetut suolakurkut.",
+   "Kun kaikki liemi on lisätty ja ruoka näyttää hyvältä, maista, onko suolaa tarpeeksi; jos ei, lisää hieman. Jäähdytä hieman, ja sekoita sitten ketsuppi ja Worcestershire-kastike joukkoon.",
+   "Kaada kanaseos taikinalla vuorattuun vuokaan, kunnes se on hyvin täytetty.",
+   "Viipaloi keitetyt munat ja aseta ne pannulla olevan täytteen päälle.",
+   "Peitä seos toisella taikinalevyllä. Tiivistä reunat mahdollisimman hyvin.",
+   "Paista 180 asteessa noin 45 minuuttia.",
+   "Muutama minuutti ennen kuin otat sen uunista, voit sivellä pinnan kevyesti vatkatulla munalla, jotta pinta tulee kiiltäväksi ja hieman rapeaksi."
+  ],
+  "notes": [
+   "Jos aikataulusi on tiukka, kaupasta ostettu lehtitaikina toimii yhtä hyvin, joten voit käyttää sitä itse tehdyn taikinan sijaan."
+  ]
+ },
+ {
+  "id": "wikibooks-sushi-rice",
+  "title": "Sushiriisi",
+  "description": "Sushiriisi, jota japaniksi kutsutaan nimellä sushi meshi tai shari, on sushin tärkein ainesosa ja japanilaisen keittiön perusraaka-aine. Se koostuu lyhytjyväisestä riisistä, joka on maustettu sushisu-nimisellä maustetulla etikalla. Riisi jäähdytetään ja kuivataan, jotta sitä on helpompi käsitellä ja jotta se saa kiiltävän ulkonäön. Japanilaiset mittaavat raakariisiä käyttämällä mittayksikköä nimeltä Gō. Se vastaa suunnilleen 150 grammaa, kun sitä käytetään japanilaisen riisin mittaamiseen. Yksi Gō on myös riisinkeittimen mittakupin vakiokoko.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "japanilainen",
+   "sushi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g lyhytjyväistä japanilaista riisiä",
+   "4 dl vettä",
+   "8 cm pala kombua (valinnainen)",
+   "1 rkl sakea (valinnainen)",
+   "3 rkl riisiviinietikkaa",
+   "1–2 rkl sokeria",
+   "1–1½ tl merisuolaa"
+  ],
+  "instructions": [
+   "Kostuta puinen hangiri-kulho (tai iso kulho) vedellä noin 30 minuuttia ennen aloittamista.",
+   "Valmista sushisu: Sekoita etikka, sokeri ja suola. Kuumenna seosta kattilassa, kunnes kaikki ainekset ovat liuenneet, mutta älä anna kiehua. Anna jäähtyä.",
+   "Huuhtele riisi. Laita riisi kattilaan, joka on puoliksi täytetty kylmällä vedellä, ja pyöritä sitä kädelläsi. Vesi muuttuu kalkinvalkoiseksi. Kaada vesi varovasti pois ja toista prosessi useita kertoja, kunnes vesi pysyy kirkkaana.",
+   "Anna riisin seistä 30 minuuttia. Joissakin resepteissä sanotaan, että riisin tulisi jäädä keittoastiaan keittoveteen upotettuna; toisissa taas kehotetaan siirtämään se väliaikaisesti siivilään valumaan.",
+   "Lisää kattilaan 8 cm:n kokoinen kombu-levy sekä sake, jos käytät sitä.",
+   "Keitä vesi kattilassa.",
+   "Poista kombu kattilasta heti, kun vesi alkaa kiehua, ja vähennä lämpöä. Hauduta vettä ja riisiä kattilassa 20 minuuttia.",
+   "Sammuta liesi, mutta älä poista kattilan kantta 10 minuuttiin (älä kurkista).",
+   "Siirrä riisi keittokattilasta hangiriin; jos sinulla ei ole sellaista, käytä isoa kulhoa tai leivänpaistolevyä.",
+   "Sekoita sushisu varovasti riisiin lastalla, yrittäen olla rikkomatta riisinjyviä. Länsimaisille kokkeille: tämä \"leikkaava\" liike on samanlainen kuin \"leikkaa ja taita\" -tekniikka, jota käytetään munanvalkuaisen hellävaraiseen käsittelyyn. Kun olet valmis, riisi on tasaisesti kastettu kastikkeeseen, mikä antaa sille kiiltävän ulkonäön.",
+   "Peitä riisi liinalla muutamaksi minuutiksi, jotta kastike imeytyy.",
+   "Jäähdytä riisi kehonlämpötilaan tuulettamalla sitä ja jatka samalla sen sekoittamista lastalla. Voit käyttää perinteistä käsituuletinta tai modernia paristokäyttöistä tuuletinta."
+  ],
+  "notes": [
+   "Keittokattilan sijaan käytetään usein riisinkeitintä; näillä saadaan yleensä hyviä ja tasalaatuisia tuloksia. Valmistajan ohjeet ovat yleensä samanlaiset kuin yllä.",
+   "Riisi ja sushisu tulee sekoittaa heti, kun riisi on kypsynyt, ja sushisu tulee olla huoneenlämpöistä.",
+   "Jotkut sushikokit suosivat luonnollista jäähdytystä tuulettamisen sijaan ja antavat riisin levätä hangirissa 15 minuuttia, minkä jälkeen he leikkaavat riisin uudelleen ja jatkavat tätä prosessia, kunnes riisi on jäähtynyt.",
+   "Joidenkin mielestä riisi on sitä parempaa, mitä nopeammin se jäähtyy (katso kuitenkin edellä mainittu luonnollinen jäähtyminen, joka tuottaa hieman erilaisen tekstuurin). Riisi on parhaimmillaan, kun se käytetään nopeasti: sitä voi käyttää sushin valmistukseen muutaman tunnin ajan; sitä ei todellakaan voi valmistaa päivää aikaisemmin."
+  ]
+ },
+ {
+  "id": "wikibooks-svelekake-norwegian-yogurt-pancakes",
+  "title": "Svele (norjalaiset paksut letut)",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "pannukakku",
+   "norjalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "4 kananmunaa",
+   "1 dl valkoista kidesokeria",
+   "6 dl vehnäjauhoja",
+   "1 l kefiiriä tai piimää",
+   "1 tl leivinjauhetta",
+   "1 tl ruokasoodaa",
+   "ripaus hirvensarvisuolaa",
+   "1 tl vaniljasokeria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset varovasti (älä käytä sekoitinta).",
+   "Anna taikinan seistä ½ tuntia.",
+   "Paista kuumalla paistinpannulla.",
+   "Tarjoa voin, sokerin tai norjalaisen ruskean vuohenjuuston (brunost) kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-swedish-cabbage-soup-klsoppa",
+  "title": "Kålsoppa (ruotsalainen kaalikeitto)",
+  "description": "Tämä ruotsalaisen kaalikeiton (Kålsoppa) resepti perustuu 1 kg:aan valkokaalia. Koska kaalipäät eivät yleensä paina tarkalleen 1 kg:aa, mukauta reseptin määrää tarpeen mukaan.",
+  "servings": 4,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kaali",
+   "ruotsalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl voita",
+   "1 keltainen sipuli (valinnainen), hienonnettuna",
+   "1 kg valkokaalia",
+   "1,5 l sianliha- tai lihalientä",
+   "1 tl suolaa",
+   "½ tl valkopippuria",
+   "12 maustepippuria"
+  ],
+  "instructions": [
+   "Leikkaa kaali neljään osaan. Poista sisempi varsi.",
+   "Leikkaa kaali poikittain 3 mm:n tai ohuemmiksi suikaleiksi.",
+   "Sulata voita valurautapannussa ja lisää sipulit. Paista, kunnes sipulit pehmenevät.",
+   "Lisää viipaloitu kaali ja paista, kunnes se on hieman ruskistunut.",
+   "Lisää liemi niin, että se peittää kaalin. Mausta suolalla, valkopippurilla ja 12 kokonaisella maustepippurijyvällä.",
+   "Keitä keittoa hiljalleen 30–45 minuuttia.",
+   "Tarjoile kovan leivän, voin ja juuston kanssa."
+  ],
+  "notes": [
+   "Kaalin varsi voidaan käyttää, jos sen kova ja sitkeä ulkokerros poistetaan tai se hienonnetaan hyvin pieniksi paloiksi.",
+   "Hienonnetun sipulin paistaminen yhdessä kaalin kanssa antaa ruoalle enemmän makua."
+  ]
+ },
+ {
+  "id": "wikibooks-swedish-meatballs-i",
+  "title": "Ruotsalaiset lihapullat (köttbullar)",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "jauheliha",
+   "ruotsalainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "1–2 dl vettä, maitoa tai kermaa",
+   "½ dl korppujauhoja",
+   "250 g naudan jauhelihaa",
+   "250 g sian jauhelihaa",
+   "1 kananmuna",
+   "1 pieni sipuli, hienonnettuna tai raastettuna",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "2 rkl voita paistamiseen"
+  ],
+  "instructions": [
+   "Sekoita neste ja leivänmurut kulhossa ja anna seoksen seistä 7–8 minuuttia.",
+   "Sekoita jauhettu naudanliha, jauhettu sianliha, muna, sipuli, suola ja pippuri.",
+   "Pyöritä 2–3 cm lihapullia.",
+   "Paista lihapullia keskilämmöllä paistinpannulla voissa noin 3–5 minuuttia. Paista niitä kaikilta puolilta, kunnes ne ovat ruskeita eivätkä enää vaaleanpunaisia keskeltä. Ravistelemalla pannua silloin tällöin lihapullat paistuvat tasaisesti.",
+   "Tarjoile perunamuusin kanssa, johon on lisätty kermaista vasikanlihasta valmistettua ruskeaa kastiketta sekä puolukkahilloa tai karpalohilloa."
+  ]
+ },
+ {
+  "id": "wikibooks-swedish-meatballs-ii",
+  "title": "Ruotsalaiset lihapullat kermakastikkeessa",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "jauheliha",
+   "ruotsalainen",
+   "kermakastike"
+  ],
+  "ingredients": [
+   "Lihapullat:",
+   "350 g naudan jauhelihaa",
+   "225 g vasikan jauhelihaa",
+   "125 g sian jauhelihaa",
+   "3,5 dl korppujauhoja",
+   "½ dl maitoa",
+   "1 dl sipulia, hienonnettuna",
+   "2 rkl voita",
+   "2,5 dl ruokakermaa",
+   "½ dl persiljaa, hienonnettuna",
+   "1 tl suolaa",
+   "½ tl jauhettua inkivääriä",
+   "¼ tl mustapippuria",
+   "Kastike:",
+   "1 rkl vehnäjauhoja",
+   "2 dl ruokakermaa",
+   "2 rkl voita",
+   "1 tl pikakahvijauhetta (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita jauhettu naudan-, vasikan- ja sianliha.",
+   "Liota leivänmuruja maidossa.",
+   "Paista sipulia voissa, kunnes se on pehmeää.",
+   "Sekoita liha, liotetut korppujauhot, sipuli, kerma, persilja, suola, inkivääri ja pippuri.",
+   "Muodosta seoksesta lihapullia, joiden halkaisija on noin 3 cm.",
+   "Ruskista lihapullat hyvin kevyesti pannulla keskilämmöllä. Ota lihapullat pannulta ja aseta sivuun.",
+   "Kun lihapullat ovat hieman ruskistuneet, sekoita jauhot pannulla jäljelle jääneeseen lihapullien paistomehuun ja lisää sitten puolikermamaito, voi ja kahvi. Kuumenna ja sekoita, kunnes seos on paksuuntunut.",
+   "Laita lihapullat ja kastike hidaskeittoon ja hauduta, kunnes ruoka on valmista, tai lisää lihapullat kattilassa olevaan kastikkeeseen ja hauduta 10 minuuttia.",
+   "Tarjoile kuumana."
+  ],
+  "notes": [
+   "Alkuperäisessä ½ dl inkivääriä, mikä on selvä virhe; määrä on korjattu ½ teelusikalliseksi."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-sour-chinese-pork",
+  "title": "Hapanimelä porsas",
+  "description": "Jing du eli makean ja hapan sianliha on kiinalainen ruokalaji, joka koostuu paistetusta ja glaseeratusta sianlihasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "kiinalainen",
+   "wokki",
+   "makeahapan"
+  ],
+  "ingredients": [
+   "600 g porsaan ulkofilettä, 3 cm paloina ja kevyesti nuijittuna",
+   "Marinadi:",
+   "3 rkl kuivaa sherryä tai shaoxing-riisiviiniä",
+   "2 rkl soijakastiketta",
+   "2 tl maissitärkkelystä",
+   "Kastike:",
+   "½ dl ketsuppia",
+   "2 rkl riisiviinietikkaa",
+   "1 rkl soijakastiketta",
+   "1 rkl worcestershirekastiketta",
+   "½ tl chili-valkosipulikastiketta",
+   "1 rkl sokeria",
+   "Paistamiseen:",
+   "1 kananmuna, kevyesti vatkattuna",
+   "2 tl maissitärkkelystä",
+   "½ dl rypsiöljyä",
+   "1 tl inkivääriä, hienonnettuna",
+   "1 tl valkosipulia, hienonnettuna",
+   "1 rkl korianteria (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita marinadin ainekset suuressa kulhossa ja lisää liha. Sekoita hyvin, jotta marinadi peittää lihan, ja laita jääkaappiin 2 tunniksi (tai yön yli).",
+   "Sekoita kastikeainekset ja aseta sivuun.",
+   "Ota sianliha jääkaapista ja poista ylimääräinen neste (jos sitä on).",
+   "Vatkaa muna ja maissitärkkelys ja sekoita lihaan huolellisesti.",
+   "Kaada 2 rkl öljyä wokkiin ja paista puolet lihasta, kunnes se ei enää näytä vaaleanpunaiselta, kun sitä viillataan (noin 2 minuuttia).",
+   "Poista liha, lisää jäljellä oleva öljy ja paista loput lihasta.",
+   "Aseta kypsynyt liha sivuun ja kaada paistinrasva pois.",
+   "Lisää inkivääri ja valkosipuli wokkiin, sekoita ja paista, kunnes tuoksuu hyvältä.",
+   "Laita sianliha takaisin wokkiin sekoittaen nopeasti ja lisää kastike (pysy loitolla kastiketta lisätessäsi, tai se puhdistaa nenäontelosi todella tehokkaasti).",
+   "Sekoita lihaa ja kastiketta, kunnes liha on hyvin kastikkeessa, ja tarjoile heti."
+  ],
+  "notes": [
+   "Käytetään erittäin kevyttä oliiviöljyä, jotta ruokaan ei tule oliiviöljyn makua."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-sour-fish-casserole",
+  "title": "Hapanimelä kalapata",
+  "description": "Tämä on uunissa paistettu makean ja hapan makuinen kalapata. Se sopii hyvin riisin ja vihreän salaatin kanssa. Resepti on mukailtu Pamela Grau Twenan kirjasta The Sephardic Table.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "uuniruoka",
+   "makeahapan",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 dl sitruunamehua",
+   "1 rkl tomaattipyreetä",
+   "2 rkl sokeria",
+   "½ tl kurkumaa",
+   "2–3 rkl rypsiöljyä",
+   "2–3 keskikokoista sipulia, viipaloituna niin, että niitä tulee 2,5 dl",
+   "2 vihreää paprikaa, viipaloituna",
+   "1 chili, hienonnettuna",
+   "6 keskikokoista tomaattia, viipaloituna",
+   "2–3 valkosipulinkynttä, ohuiksi viipaleiksi leikattuina",
+   "½ tl suolaa",
+   "½ tl mustapippuria",
+   "500–700 g vaaleaa kalafileetä (turska, kolja, seiti)",
+   "2 rkl hienonnettua persiljaa tai korianteria (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita sitruunamehu, tomaattipyree, sokeri ja kurkuma pienessä kulhossa, kunnes seos on tasainen. Aseta kastike sivuun.",
+   "Esilämmitä uuni 175 asteeseen.",
+   "Kuumenna öljy suuressa kattilassa. Lisää sipulit ja paista, kunnes ne ovat kullanruskeita ja alkavat menettää kosteuttaan. Nosta sipulit sitten reikäkauhalla pois ja asettele ne kerroksittain uuninkestävään astiaan.",
+   "Paista paprikat ja chilipaprikat samassa öljyssä 2 minuuttia tai kunnes ne ovat pehmenneet, siirrä ne reikäkauhalla uuninkestävään astiaan ja asettele ne sipulien päälle kerroksittain",
+   "Levitä puolet tomaattiviipaleista paprikoiden päälle.",
+   "Levitä valkosipuli tomaattien päälle ja mausta puolella suolasta ja pippurista.",
+   "Paista kalaa samassa öljyssä 1 minuutti, siirrä sitten lautaselle, aseta tomaattien päälle ja mausta jäljellä olevalla suolalla ja pippurilla.",
+   "Aseta loput tomaattiviipaleet kalan päälle. Levitä sitruuna-tomaattipastakastike päällimmäiseksi kerrokseksi.",
+   "Peitä astia alumiinifoliolla ja paista 20 minuuttia.",
+   "Poista alumiinifolio ja jatka paistamista vielä 10 minuuttia tai kunnes kala hajoaa helposti, kun sitä kokeilet.",
+   "Ripottele päälle persiljaa tai korianteria koristeeksi, jos haluat.",
+   "Tarjoile heti."
+  ],
+  "notes": [
+   "Chilipaprika voidaan korvata chilijauheella tai jättää kokonaan pois, jos halutaan vähemmän tulista ruokaa.",
+   "Tuoreet tomaatit voidaan korvata tomaattipurkilla."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-sour-grilled-tuna",
+  "title": "Hapanimelä grillattu tonnikala",
+  "description": "Et usko, kuinka hyvin ahi-tonnikala sopii yhteen etikan ja soijakastikkeen kanssa. Se on aivan kuin omena ja sianliha. Ne on luotu toisilleen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "grilli",
+   "makeahapan"
+  ],
+  "ingredients": [
+   "900 g tonnikalan selkäfileetä, kahtena palana",
+   "½ dl ketsuppia",
+   "½ dl riisiviinietikkaa",
+   "½ dl vaaleaa fariinisokeria",
+   "2 rkl soijakastiketta",
+   "2 rkl maapähkinäöljyä"
+  ],
+  "instructions": [
+   "Sekoita ketsuppi, etikka, soija ja sokeri. Ota ½ dl seosta sivuun ja marinoi tonnikala lopussa.",
+   "Sytytä hiiligrilli erittäin kuumaksi.",
+   "Öljyä ritilä ja ruskista tonnikalaa 15–30 sekuntia joka puolelta – sisus jää raa'aksi.",
+   "Siirrä lautaselle ja peitä tiiviisti muovikelmulla. Anna levätä 3 minuuttia.",
+   "Viipaloi ohuiksi viipaleiksi syiden poikki ja tarjoile varatun marinadin kanssa tai kääri tiiviisti uuteen muovikelmuun ja säilytä jääkaapissa enintään 3 päivää."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-sour-pork-loin",
+  "title": "Hapanimelä porsaanpaisti",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "uuniruoka",
+   "makeahapan"
+  ],
+  "ingredients": [
+   "1,8 kg luutonta porsaan ulkofilettä",
+   "2,5 dl suolaa (suolaliemeen)",
+   "2 dl hunajaa",
+   "5 dl kookosmaitoa",
+   "5 dl vettä",
+   "1 rkl hienonnettua valkosipulia",
+   "2 rkl hienonnettua inkivääriä",
+   "2,5 dl ketsuppia",
+   "1 rkl seesamiöljyä",
+   "½ dl riisiviinietikkaa",
+   "½ dl vaaleaa fariinisokeria",
+   "2 rkl soijakastiketta",
+   "1½ thaichiliä, hienonnettuna"
+  ],
+  "instructions": [
+   "Sekoita suola, hunaja, vesi ja kookosmaito isossa pakastepussissa, lisää liha ja anna maustua jääkaapissa yön yli.",
+   "Valuta sianliha ja kuivaa se paperipyyhkeillä. Hävitä jäljellä oleva suolaliemi.",
+   "Sekoita ketsuppi, etikka, öljy ja soijakastike. Sekoita paistettu porsaanliha seokseen ja aseta se paistopellille paistovuokaan.",
+   "Hiero mausteseos lihaan, laita paistomittari lihan keskelle ja paahda 175 asteessa, kunnes sisälämpö on 65 astetta.",
+   "Siirrä lautaselle ja anna levätä 7 minuuttia. Tarjoile lämpimänä, ja tarjoile makean ja hapan kastikkeen kera."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-sour-sauce",
+  "title": "Hapanimelä ananaskastike lihalle ja riisille",
+  "description": "Tämä on yksinkertainen makean ja hapan kastike, joka sopii hyvin arkiruokaksi, jopa lihajäämien kanssa. Se maistuu parhaiten riisin kanssa, ja ehkä myös höyrytettyjen vihannesten kera. Pelkkä kastike (ilman lihaa, kirsikoita tai ananaspaloja) voidaan kaataa riisin päälle tai käyttää dippikastikkeena kevätkääryleille.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "makeahapan",
+   "ananas",
+   "kiinalainen"
+  ],
+  "ingredients": [
+   "1 dl fariinisokeria",
+   "1 rkl maissitärkkelystä",
+   "1 dl punaviinietikkaa",
+   "1 rkl soijakastiketta",
+   "1 tlk (565 g) ananaspaloja mehussa",
+   "10 cocktailkirsikkaa",
+   "2 varsiselleriä, hienonnettuna",
+   "400 g kypsää kanaa tai porsasta (valinnainen)",
+   "keitettyä riisiä tarjoiluun"
+  ],
+  "instructions": [
+   "Sekoita ruskea sokeri ja maissitärkkelys kattilassa.",
+   "Lisää etikka, soijakastike ja suurin osa ananasmehusta",
+   "Kuumenna kiehuvaksi sekoittaen jatkuvasti.",
+   "Vähennä lämpöä ja lisää sitten ananaspalat, kirsikat, selleri ja kypsennetty liha.",
+   "Kypsennä, kunnes selleri alkaa pehmetä.",
+   "Tarjoile kastike keitetyn riisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-spicy-asian-chicken",
+  "title": "Makea ja mausteinen aasialainen kana",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "rasvassa paistettu",
+   "aasialainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "450 g broilerin rintafileetä, 4 cm paloina",
+   "3 kananmunaa, vatkatut",
+   "2 tl broilerimaustetta",
+   "maissijauhoa tai maissitärkkelystä kierittämiseen",
+   "rypsiöljyä friteeraukseen",
+   "2 tl chilihiutaleita",
+   "1 rkl soijakastiketta",
+   "½ rkl riisiviinietikkaa",
+   "1 rkl hunajaa",
+   "½ dl appelsiinimehutiivistettä, kiehautettuna",
+   "1½ tl kidesokeria"
+  ],
+  "instructions": [
+   "Kasta kananpalat munaan. Mausta runsaasti siipikarjan maustejauheella ja pyöritä maissijauhoissa, siirrä sitten lautaselle ja anna levätä 2–3 minuuttia.",
+   "Samalla kuumenna öljy 175 asteeseen. Lisää kananpalat, tarvittaessa useammassa erässä, ja paista, kunnes ne ovat kullanruskeita ja rapeita pinnalta ja sisälämpötila on 75 asteeseenja mehu on kirkasta. Valuta rasva pois jäähdytysritilällä, joka on asetettu puolilevyisen uunipellin päälle.",
+   "Sekoita loput ainekset keskenään. Lisää kananpalat ja sekoita, jotta ne peittyvät tasaisesti.",
+   "Tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-spicy-shrimp",
+  "title": "Makeat ja mausteiset katkaravut",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "rasvassa paistettu",
+   "aasialainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "450 g katkarapuja, kuorittuja",
+   "2,5 dl yleiskäyttöjauhoja",
+   "2,5 dl maissijauhoa",
+   "1 sitruunan mehu",
+   "1 dl appelsiinimehutiivistettä",
+   "½ dl hoisin-kastiketta",
+   "2 tl hunajaa",
+   "2 rkl soijakastiketta",
+   "1 tl srirachaa",
+   "1 tl hienonnettua valkosipulia",
+   "1 rkl raastettua inkivääriä",
+   "1 l maapähkinäöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Kierätä katkaravut jauhoissa, kasta sitruunamehuun ja kierätä maissijauhossa. Anna seistä 2–3 minuuttia.",
+   "Samalla kuumenna öljy friteerauskeittimessä tai kattilassa 190 asteeseen. Lisää katkaravut ja paista ne kullanruskeiksi. Valuta öljy pois ritilällä.",
+   "Samalla kuumenna loput ainekset suuressa kattilassa keskilämmöllä kiehuvaksi. Lisää katkaravut ja sekoita, jotta ne peittyvät kastikkeella.",
+   "Tarjoile heti."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-and-spicy-smoked-chicken",
+  "skip": "ohje loppuu kesken (savustusaika ja -lämpö puuttuvat)"
+ },
+ {
+  "id": "wikibooks-sweet-beef",
+  "skip": "ainesosissa tupakkaa – ei turvallinen"
+ },
+ {
+  "id": "wikibooks-sweet-carrot-juice",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-sweet-charoset",
+  "title": "Makea charoset (pääsiäisen hedelmätahna)",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "juutalainen",
+   "pääsiäinen",
+   "hedelmät",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 omenaa, kuorittuna, ytimenä poistettuna ja raastettuna",
+   "3 banaania, paloiteltuna ja soseutettuna",
+   "½ sitruunan mehu ja kuori",
+   "½ appelsiinin mehu ja kuori",
+   "15 taatelia, kivettömiä ja hienonnettuja",
+   "1 dl jauhettuja saksanpähkinöitä",
+   "1 tl kanelia",
+   "½ dl punaviiniä",
+   "3 tl matsojauhoja",
+   "1–2 rkl hunajaa"
+  ],
+  "instructions": [
+   "Sekoita kulhossa omenat, banaanit, sitruunamehu, sitruunankuori, appelsiinimehu, appelsiininkuori, taatelit ja pähkinät.",
+   "Lisää kaneli, viini ja matzojauho ja sekoita huolellisesti.",
+   "Lisää hunajaa maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-sweet-corn-chicken-soup",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-sweet-cornbread",
+  "title": "Makea maissileipä vaahterasiirapilla",
+  "description": "Makea maissileipä on muunnos Skillet Cornbread -leivästä, jota valmistetaan Ontarion keski- ja itäosissa sekä Quebecissä, ja sitä kutsutaan toisinaan myös nimellä Johnny Cake.[1] Sen esiintymisen näillä Kanadan eteläisillä alueilla uskotaan johtuvan siitä, että brittiläiset lojalistit muuttivat nykyisen Yhdysvaltojen eteläosista tuolloin Englannin hallinnassa olleisiin siirtokuntiin Yhdysvaltojen itsenäisyyssodan aikana.",
+  "servings": 8,
+  "totalTimeMin": 30,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "maissi",
+   "amerikkalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "2,5 dl maissijauhoa",
+   "noin 5 dl vehnäjauhoja",
+   "1½ tl leivinjauhetta",
+   "1 dl vaahterasiirappia",
+   "1 dl fariinisokeria",
+   "100 g pehmeää voita",
+   "1 tl suolaa",
+   "2 kananmunaa"
+  ],
+  "instructions": [
+   "Vatkaa munat isossa kulhossa kevyesti ja sekoita pehmeä voi joukkoon.",
+   "Voi-muna-seoksen tulee olla juoksevaa. Lisää sokeri ja vaahterasiirappi, sekoita hyvin ja lisää sitten suola nestemäiseen seokseen.",
+   "Sekoita maissijauho ja leivinjauhe ja sekoita ne sitten nesteisiin.",
+   "Lisää jauhoja hitaasti tarpeen mukaan, kunnes kakku taikina on sopivan konsistenssin. Sen tulisi olla pehmeämpää kuin keksitaikina, tarttua sekoituslusikkaan ja irrota siitä paloina. Et välttämättä tarvitse kaikkia jauhoja, tai saatat tarvita jopa hieman enemmän riippuen munista ja siitä, kuinka tarkasti olet mitannut ainekset.",
+   "Kaada voideltuun vuokaan, laita 200 asteeseen esilämmitettyyn uuniin ja paista 15–25 minuuttia."
+  ],
+  "notes": [
+   "Kun sekoitat taikinaa, varmista, että se on tarpeeksi pehmeää tavalliseen kakkuun; se ei saa olla liian kosteaa tai kuivaa. Lisää tarvittavaa nestettä maidon avulla ja, jos taikina on liian kosteaa, lisää puolet jauhoja ja puolet maissijauhoja.",
+   "Seuraa kakkua tarkasti paistamisen aikana: se kovettuu nopeasti, jos et ota sitä uunista ajoissa.",
+   "Jos haluat saada rapeamman kuoren, sekoita tasaisiksi osuuksiksi 3 osaa jauhoja, maissijauhoja ja ruskeaa sokeria. Lisää seos kakun päälle puolivälissä paistamista, mutta tee tämä hyvin nopeasti: jos uunin luukku on auki liian kauan, kakusta tulee kova kuin kivi. Tarvittava määrä vaihtelee käyttämäsi vuoan mukaan, joten arvioi silmämääräisesti, kuinka paljon tarvitset (yhteensä alle kupillisen). Vaikka ohjeessa kehotetaan avaamaan uunin luukku puolivälissä paistamista, seoksen lisääminen jo alussa toimii myös hyvin.",
+   "Voit korvata vaahterasiirapin hunajalla tai tavallisella sokerilla. Vaahterasiirappia käytetään sekä makuaineena että makeuttajana.",
+   "Tähän sopii yhtä hyvin margariini tai kasviöljy kuin voi. Perinteisesti on käytetty voita, joten se on mainittu tässä.",
+   "Tämä ruokalaji valmistetaan yleensä aterian jälkeen tai aterian ulkopuolella, toisin kuin sen serkku, paistinpannulla paistettu maissileipä. Kuitenkin kun syödään vaahterasiirappipapuja ja kinkkua, makeaa maissileipää tarjoillaan usein niiden kanssa."
+  ]
+ }
+]

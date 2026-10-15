@@ -1,0 +1,601 @@
+[
+ {
+  "id": "wikibooks-shrimp-hooman-goan-shrimp-curry",
+  "title": "Ambot tik / hooman (goalainen katkarapucurry)",
+  "servings": 3,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "intialainen",
+   "curry",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl raastettua kookospähkinää, mieluiten tuoretta",
+   "2 kuivattua punaista chilipaprikaa",
+   "½ tl kurkumajauhetta",
+   "4 mustapippuria",
+   "1 rkl tamarinditahnaa",
+   "½ sipulia, hienonnettuna",
+   "8–10 kokum-palaa tai 1 rkl limettimehua",
+   "300 g katkarapuja, kuorittuina",
+   "ripaus asafoetidaa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Laita katkaravut, sipuli, kokum ja asafoetida kattilaan, lisää vähän vettä ja keitä, kunnes katkaravut ovat kypsiä.",
+   "Jauha raastettu kookos, chilipaprikat, kurkuma, pippuri ja tamarindi hienoksi tahnaksi. Lisää tarvittaessa pieni määrä vettä, jotta saat aikaan paksun, hienon tahnan. Vältä tahnan laimentamista niin paljon kuin mahdollista.",
+   "Lisää katkarapuseokseen ja kiehauta. Jos käytät valkoista kalaa, lisää se tässä vaiheessa.",
+   "Lisää suolaa maun mukaan.",
+   "Tarjoile kuuman valkoisen riisin kanssa."
+  ],
+  "notes": [
+   "Perinteisesti hooman-katkarapuja syödään kuuman höyrytetyn riisin ja raakamangon pikkelin kera.",
+   "Resepti voidaan valmistaa myös millä tahansa valkoisella kalalla (vellyo, muddashi, shevtali, visvaan).",
+   "Jos käytät pakastettua raastettua kookospähkinää, sulata se ennen käyttöä."
+  ]
+ },
+ {
+  "id": "wikibooks-shrimp-scampi-angel-hair-pasta-with-lemon-and-pine-nuts",
+  "skip": "perustuu valmiiseen pakastetuotteeseen"
+ },
+ {
+  "id": "wikibooks-shuku-shuku-coconut-milk-balls",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-silog",
+  "skip": "kokoamisohje ilman määriä"
+ },
+ {
+  "id": "wikibooks-silvash-gombotz-hungarian-plum-dumplings",
+  "title": "Szilvás gombóc (unkarilaiset luumunyytit)",
+  "description": "Silvash gombotz (unkarinkielinen kirjoitusasu: Szilvás gombóc) on perinteinen unkarilainen luumupyörykkäreseptejä. Pakkasilla tällaiset lämpimät jälkiruoat ovat erittäin suosittuja.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "unkarilainen",
+   "luumu",
+   "peruna",
+   "kasvis"
+  ],
+  "ingredients": [
+   "900 g perunoita",
+   "1 muna",
+   "ripaus suolaa",
+   "3 rkl rypsiöljyä",
+   "noin 4 dl vehnäjauhoja",
+   "12 tuoretta luumua puolitettuna tai 4 rkl luumuhilloa",
+   "50 g voita",
+   "1 dl korppujauhoja",
+   "2 rkl sokeria ja ½ tl kanelia"
+  ],
+  "instructions": [
+   "Keitä perunat kuorineen pehmeiksi, kuori ja soseuta.",
+   "Lisää muna seokseen yhdessä pienen määrän suolaa ja öljyä kanssa. Sekoita hyvin.",
+   "Sekoita mukaan tarpeeksi jauhoja, jotta taikina tulee tasaiseksi.",
+   "Vaivaa perunataikina, kauli se ohueksi levyksi (noin 5 mm paksuiseksi) ja leikkaa neliöiksi.",
+   "Laita jokaiselle neliölle puoli luumua tai 1 tl luumuhilloa. Kääri taikina täytteen ympärille ja sulje reunat.",
+   "Keitä kiehuvassa vedessä 10–15 minuuttia.",
+   "Paista korppujauhot voissa kullanruskeiksi, sekoita sokeri ja kaneli joukkoon ja kierätä nyytit seoksessa."
+  ],
+  "notes": [
+   "Kun nyytit täytetään aprikoosilla, niitä kutsutaan nimellä \"barackos gombóc\" tai \"Baratzkosh Gombotz\"."
+  ]
+ },
+ {
+  "id": "wikibooks-simmering-tofu-stir-fry",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-simple-ayurvedic-sprout-salad",
+  "title": "Mungpavunitusalaatti",
+  "description": "Tämä on yksinkertainen ja maukas salaatti, joka valmistetaan erilaisista ituista ja vihanneksista.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "idut",
+   "intialainen",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl tuoreita mungopapujen ituja (kasvata itse ja käytä niitä, kun ituja on noin 1 cm pitkiä)",
+   "1 dl kuorittua, siemenet poistettua, kuutioitua kurkkua",
+   "1 dl varsiselleriä, hienonnettuna",
+   "1 rkl sitruunamehua",
+   "1 rkl ekstra-neitsytoliiviöljyä",
+   "1 rkl hienonnettua tuoretta korianteria",
+   "1 rkl auringonkukansiemeniä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita vihannekset ja ituja lasikulhossa.",
+   "Sekoita suola, pippuri, sitruunamehu ja oliiviöljy erillisessä kulhossa. Lisää seos salaattiin ja sekoita hyvin.",
+   "Koristele korianterilla ja auringonkukansiemenillä ja tarjoile huoneenlämpöisenä tai viileänä."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-biryani",
+  "title": "Helppo kanabiryani",
+  "description": "Perinteisissä biryani-resepteissä käytetään usein monia ainesosia, joista joitakin voi olla vaikea löytää. Tässä yksinkertaisessa biryani-reseptissä käytetään vain muutamia ainesosia, ja se voidaan valmistaa yhdellä pannulla, joten siitä tulee nopea ja helppo ateria.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "riisi",
+   "intialainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "300 g basmatiriisiä, liotettu lämpimässä vedessä 30 minuuttia",
+   "600 g broilerin reisifileitä, paloina",
+   "1 iso sipuli, hienonnettuna",
+   "30 g voita",
+   "1 laakerinlehti",
+   "1 tl kurkumaa",
+   "3 kardemummakapselia",
+   "1 kanelitanko",
+   "4 rkl currytahnaa (esim. tikka masala)",
+   "100 g rusinoita",
+   "8,5 dl kanalientä",
+   "2 rkl tuoretta korianteria"
+  ],
+  "instructions": [
+   "Pese riisi kylmällä vedellä, kunnes vesi on kirkasta.",
+   "Paista sipulia, kardemummakapselia, laakerinlehtiä ja kanelia voissa 10 minuuttia.",
+   "Lisää kana, kurkuma ja currytahna ja paista 5 minuuttia.",
+   "Lisää riisi ja rusinat ja sitten kanaliemi.",
+   "Peitä pannu tiiviisti ja kiehauta.",
+   "Laske lämpö pienimmälle ja hauduta kannen alla 12–15 minuuttia.",
+   "Ota kattila pois liedeltä ja anna seistä 10 minuuttia, jotta riisi imee jäljellä olevan kosteuden.",
+   "Sekoita puolet korianterista seokseen ja tarjoile loput korianterin ripoteltuna päälle."
+  ],
+  "notes": [
+   "Lisää hienonnettuja chilipaprikoita, jotta ruoka saa hieman lisää tulisuutta.",
+   "Ripottele paahdettuja pähkinöitä ja korianteria, jotta saat ruokaan rapeaa tekstuuria."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-boiled-chickpeas",
+  "title": "Keitetyt kikherneet",
+  "description": "Kuivatut kikherneet ovat melko helppoja valmistaa, jos varaat niihin tarpeeksi aikaa, ja ne maistuvat paljon paremmalta kuin purkkikikherneet.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kikherneet",
+   "perusohje",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl kuivattuja kikherneitä",
+   "4 varsiselleriä, hienonnettuna"
+  ],
+  "instructions": [
+   "Peitä kikherneet kokonaan vedellä ja anna niiden liota yön yli. Valuta kikherneet.",
+   "Sekoita kikherneet ja selleri kattilassa. Lisää vettä niin paljon, että se peittää sisällön kokonaan muutaman tuuman syvyydeltä.",
+   "Kuumenna kattila keskilämmöllä kiehuvaksi. Keitä noin 2 tuntia, kunnes kikherneet ovat pehmeitä – kypsymisaika ei ole tarkka tiede, joten sinun on maistettava kikherneitä nähdäksesi, ovatko ne täysin kypsiä.",
+   "Valuta keitinliemi. Sen voi säästää aquafabaksi.",
+   "Käytä keitettyjä kikherneitä samalla tavalla kuin purkkikikherneitä. Vaihtoehtoisesti voit maustaa ne suolalla, pippurilla sekä ripauksella oliiviöljyä ja etikkaa, jos haluat syödä ne sellaisenaan."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-buttercream",
+  "title": "Helppo voikreemi",
+  "description": "Yksinkertainen voikreemi (jota kutsutaan joskus myös amerikkalaiseksi voikreemiksi, mock creamiksi tai voikuorrutukseksi) on eräänlainen kuorrutus, jota käytetään kakkujen täytteenä, päällysteenä ja koristeena.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 5,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kuorrute",
+   "voikreemi",
+   "leivonta",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g suolatonta voita, pehmennettyä",
+   "1 tl vaniljauutetta",
+   "450 g tomusokeria, siivilöitynä",
+   "2 rkl maitoa"
+  ],
+  "instructions": [
+   "Sekoita voi ja vanilja vaahdoksi sekoittimella.",
+   "Lisää tomusokeri pienissä erissä vatkaten ja kulhon reunoja kaapien.",
+   "Kun kaikki sokeri on sekoittunut joukkoon, lisää maito ja vatkaa, kunnes seos on tasainen."
+  ],
+  "notes": [
+   "Valmistaaksesi suklaavoikreemin, lisää 150 g (¾ cup) makeuttamatonta kaakaojauhetta tai 3 oz (84 g) sulatettua makeuttamatonta leivontasuklaata ja lisää maidon määrää 45–60 ml:aan (3–4 tbsp).",
+   "Valmistaaksesi sitruunavoikreemin, jätä maito pois ja lisää 1 sitruunan kuori ja mehu.",
+   "Tämä on yksinkertaisin versio monista olemassa olevista resepteistä. Yksi yleisimmistä muutoksista on korvata osa tai koko voimäärä margariinilla tai kasvisrasvalla. Tämä on yleistä erityisesti ammattikeittiöissä, koska se on edullisempaa ja parantaa kuorrutteen stabiilisuutta huoneenlämmössä, jolloin sen käsittely on helpompaa etenkin suurissa määrissä tai pitkään jatkuvassa käytössä. Suolattomasta voista valmistetut voikreemit tarjoavat kuitenkin hienostuneemman tekstuurin sekä paremman maun ja suutuntuman (tekstuurin) kuin kasvisrasvalla valmistetut voikreemit."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-chicken-salad",
+  "skip": "määrät epämääräiset"
+ },
+ {
+  "id": "wikibooks-simple-chocolate-cheese-pie",
+  "title": "Helppo suklaajuustopiiras",
+  "description": "Suklaajuustokakku on nopea ja maukas jälkiruoka, joka on helppo valmistaa yksinkertaisista aineksista.",
+  "servings": 8,
+  "totalTimeMin": 10,
+  "category": "Jälkiruoat",
+  "tags": [
+   "juustokakku",
+   "suklaa",
+   "helppo",
+   "kasvis"
+  ],
+  "ingredients": [
+   "200 g tuorejuustoa",
+   "½ dl kaakaojauhetta",
+   "½ dl tomusokeria",
+   "2,5 dl vaahdotettua kermaa tai kasvikermavaahtoa",
+   "1 valmis keksipohja (tai 200 g digestive-keksejä ja 75 g voita)"
+  ],
+  "instructions": [
+   "Pehmennä tuorejuusto huoneenlämmössä ja vatkaa sileäksi.",
+   "Sekoita joukkoon kaakaojauhe ja tomusokeri.",
+   "Kääntele kermavaahto joukkoon.",
+   "Kaada seos valmiiseen pohjaan",
+   "Peitä ja laita jääkaappiin/pakastimeen. Ota esiin, kun se on jähmettynyt.",
+   "Tarjoile."
+  ],
+  "notes": [
+   "Tuoreet hedelmät, kuten mustikat ja kirsikat, sopivat hyvin lisukkeeksi.",
+   "Sulatettu karamelli tuo mukavan lisän, kun sitä ripotellaan päälle.",
+   "Käytä kaakaon sijaan fudgea tai sulatettua suklaata."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-chocolate-fudge",
+  "title": "Helppo suklaafudge",
+  "description": "Suklaafudge on yksinkertainen, sokeripitoinen herkku, joka on tarkoitettu syötäväksi huoneenlämpöisenä tai jääkaapissa säilytettynä.",
+  "servings": 10,
+  "totalTimeMin": 30,
+  "category": "Jälkiruoat",
+  "tags": [
+   "makeiset",
+   "suklaa",
+   "helppo",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g suklaanappeja tai -rouhetta",
+   "1 tlk (400 g) makeutettua kondensoitua maitoa",
+   "1 tl vaniljauutetta (valinnainen)"
+  ],
+  "instructions": [
+   "Sulata suklaa vesihauteessa.",
+   "Lisää makeutettu tiivistetty maito. Sekoita, kunnes ainekset ovat sekoittuneet.",
+   "Kaada leivinpaperilla vuorattuun vuokaan ja tasoita.",
+   "Anna jäähtyä useita tunteja."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-flatbread",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-simple-italian-sausage-spaghetti-dinner",
+  "title": "Makkaraspagetti tomaattikastikkeessa",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "makkara",
+   "italialainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "225 g täysjyväspagettia",
+   "1 tl oliiviöljyä",
+   "1 pieni sipuli",
+   "225 g mietoa tai tulista italialaista makkaraa",
+   "1 dl punaviiniä tai kuivaa valkoviiniä",
+   "2 tlk (á 400 g) tomaattikuutioita",
+   "1 prk (170 g) tomaattipyreetä",
+   "1 tl hienonnettua valkosipulia",
+   "1 tl sokeria",
+   "1 tl italialaista yrttisekoitusta",
+   "½ dl raastettua parmesaanijuustoa"
+  ],
+  "instructions": [
+   "Valmista pasta pakkauksen ohjeiden mukaisesti.",
+   "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+   "Kuori ja hienonna sipuli, lisää se pannulle sitä mukaa kun hienonnet.",
+   "Poista tarvittaessa makkaran kuori ja murusta makkara pannulle. Sekoita ja paista murennaen makkaraa, kunnes se on kypsynyt ja sipuli pehmennyt, noin 5 minuuttia.",
+   "Lisää viiniä pannulle ja sekoita, jotta pannun pohjalle tarttuneet ruskeat palat irtoavat.",
+   "Lisää tomaattisäilykkeet ja niiden mehu, tomaattipyree, valkosipuli, sokeri ja italialaiset mausteet.",
+   "Sekoita ainekset keskenään ja vähennä sitten lämpöä keskilämpötilaan.",
+   "Sekoita parmesaanijuusto joukkoon ja keitä, kunnes pasta on valmista.",
+   "Tarjoile kastike keitetyn pastan kanssa."
+  ],
+  "notes": [
+   "Pienen sipulin voi korvata ½ kupillisella hienonnettua sipulia.",
+   "Kastike voi hautua miedolla lämmöllä juuston lisäämisen jälkeen tarvittaessa jopa 30 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-nachos",
+  "title": "Yksinkertaiset nachot",
+  "servings": 4,
+  "category": "Välipalat",
+  "tags": [
+   "nachot",
+   "meksikolainen",
+   "jauheliha",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g vähärasvaista naudan jauhelihaa",
+   "1 tlk (400 g) tomaattikuutioita ja vihreää chiliä",
+   "1–2 tl tacomaustetta",
+   "2 rkl smetanaa",
+   "ripaus meksikolaista maustetta",
+   "200 g maissitortillalastuja"
+  ],
+  "instructions": [
+   "Ruskista jauheliha paistinpannulla meksikolaisen mausteyhdistelmän ja Taco Mixin kanssa.",
+   "Kun naudanliha on ruskistunut, lisää tölkki kuutioituja tomaatteja ja vihreitä chiliä, peitä ja anna hautua vielä 5 minuuttia.",
+   "Laita tortillalastut suurelle lautaselle. Laita lautaselle 2 rkl smetanaa. Ripottele naudanliha- ja tomaattikuutio-seos tortillalastujen päälle.",
+   "Tarjoile ja nauti."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-restaurant-miso-soup",
+  "title": "Misokeitto",
+  "description": "Tämä misokeitto on hyvin lähellä sitä, mitä useimmissa edullisissa länsi-japanilaisissa ravintoloissa tarjoillaan. Kaikkien ainesosien määrä on makusi mukaan; tärkeintä on mison ja dashin suhde.",
+  "servings": 1,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "japanilainen",
+   "miso",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl dashilientä",
+   "1 tl kuivattua wakamea",
+   "50 g tofua, 1 cm kuutioina",
+   "1 rkl misotahnaa"
+  ],
+  "instructions": [
+   "Kuumenna dashi kevyesti kiehuvaksi.",
+   "Kun se kuumenee, ota esiin kulho ja laita wakame ja tofu sen pohjalle.",
+   "Kun dashi kiehuu hiljalleen, ota sivuun noin yksi kauhallinen nestettä ja sekoita se misotahnaan.",
+   "Ota dashi-kattila liedeltä ja sekoita misoseos joukkoon.",
+   "Kaada valmis keitto kulhoon ja tarjoile."
+  ],
+  "notes": [
+   "Jotkut pitävät vähemmästä misosta, toiset taas enemmän. Annettu määrä tuottaa ravintoloissa ennen ateriaa suositun, kohtalaisen suolaisen version.",
+   "Älä anna mison kiehua, sillä se muuttaa makua."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-roasted-oysters",
+  "title": "Pannulla paahdetut osterit",
+  "description": "Tämän moduulin tiedot on otettu julkisesti saatavilla olevasta teoksesta 1881 Household Cyclopedia, ja Wikibooksin toimittajat ovat päivittäneet ne nykyaikaan sopiviksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "25 pientä elävää osteria",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Huuhtele osterit siivilässä ja valuta ne hyvin.",
+   "Laita elävät osterit kuorineen isolle pannulle keskilämmölle ja pidä, kunnes kuoret aukeavat (5–10 minuuttia). Hylkää avautumattomat.",
+   "Ota ne pois liedeltä, avaa ne lautaselle ja mausta suolalla ja pippurilla."
+  ]
+ },
+ {
+  "id": "wikibooks-simple-spaghetti",
+  "title": "Helppo spagetti",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "helppo",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2,25 l vettä",
+   "225 g spagettia",
+   "6 dl valmista tomaatti-pastakastiketta",
+   "1 tl suolaa",
+   "1 tl rypsiöljyä"
+  ],
+  "instructions": [
+   "Kiehauta vesi liedellä korkealla lämmöllä sen jälkeen, kun olet lisännyt suolaa ja kasviöljyä (katso vinkit alla).",
+   "Vähennä lämpöä keskilämmölle ja lisää pasta.",
+   "Kun spagetti kiehuu, kaada haluttu määrä kastiketta pannulle ja säädä liesi keskilämmölle.",
+   "Aseta ajastin 7 minuutiksi. Kun ajastin soi, ota spagettisäie vedestä ja maista sitä. Tavoitteena on al dente -kypsyysaste, eli pasta on juuri tarpeeksi pehmeää syötäväksi: se ei ole enää keskeltä rapeaa, mutta ei myöskään pehmeää ja ylikypsää. Perinteisempi (mutta sotkuisempi) tapa tarkistaa spagettien kypsyys on heittää muutama säie seinälle. Jos ne tarttuvat seinään, pasta on valmista syötäväksi.",
+   "Kun kastike alkaa kuplia, vähennä lämpöä pienimmälle ja peitä kattila kannella.",
+   "Kun pasta on valmis, valuta se varovasti siivilän läpi pesualtaan päälle.",
+   "Kaada kastike pastan päälle kulhoihin."
+  ],
+  "notes": [
+   "Suolan lisääminen keittoveteen korostaa pastan makua ja saa veden kiehumaan nopeammin. Kasviöljyn lisääminen keittoveteen estää spagettia tarttumasta toisiinsa.",
+   "Kokeile lisätä veteen yrttejä tai hedelmiä (kuten ananaspaloja) ennen kuin vesi kiehuu, jotta ne jäävät pastan sekaan siivilöinnin jälkeen ja antavat lisää makua ja tekstuuria.",
+   "Ennen kastikkeen valmistamista kannattaa paistaa hienoksi hienonnettua sipulia, valkosipulia, jauhettua naudanlihaa (tai sianlihaa, makkaraa, vasikanlihaa jne.), juustoa (parmesaania, mozzarellaa jne.), sieniä tai mitä tahansa muuta, mikä miellyttää makuasi. Lisää sitten kastike.",
+   "Hätätapauksessa voit valmistaa tavallista spagettia ja lisätä siihen ketsuppia, jos pastakastiketta ei ole saatavilla.",
+   "Seuraavat ruoat sopivat hyvin spagetin kanssa ja niitä voidaan tarjoilla yhdessä: Brokkoli (tai muut vihannekset). Valkosipulileipä Lihapullat Ananas (tai muut hedelmät) pikkupalat (keitetyt, grillatut tai paistetut) Silputtu ja/tai raastettu juusto Tomaatti-, alfredo- tai muut kastikkeet (voi valita yhden, toisen tai sekoittaa ne yhteen)",
+   "Brokkoli (tai muut vihannekset).",
+   "Valkosipulileipä",
+   "Lihapullat",
+   "Ananaspaloja (tai muita hedelmiä) (keitettyjä, grillattuja tai paistettuja)",
+   "Silputtu ja/tai raastettu juusto",
+   "Tomaatti-, alfredo- tai muut kastikkeet (voi valita yhden, toisen tai sekoittaa ne yhteen)",
+   "Ruoanlaitto on kokeilua – älä koskaan pelkää kokeilla mitään edes kerran!"
+  ]
+ },
+ {
+  "id": "wikibooks-simple-syrup",
+  "title": "Sokerisiirappi",
+  "description": "Yksinkertainen siirappi, joka tunnetaan myös nimellä sokerisiirappi tai baarisiirappi, on sokerista ja vedestä valmistettu makeutusaine. Sitä käytetään usein kylmien juomien makeuttamiseen, joissa kiinteä sokeri ei liukene helposti. Kuten nimestäkin voi päätellä, yksinkertainen siirappi on erittäin helppo valmistaa. Valmistettu siirappi säilyy jääkaapissa jopa viikon. Se on 30 % makeampaa kuin tavallinen sokeri.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "siirappi",
+   "perusohje",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl vettä",
+   "2,5–5 dl sokeria"
+  ],
+  "instructions": [
+   "Sekoita sokeri ja kylmä vesi kattilassa.",
+   "Kiehauta vesi voimakkaalla lämmöllä jatkuvasti sekoittaen.",
+   "Kun kaikki sokeri on liuennut, ota kattila pois liedeltä ja anna sen jäähtyä huoneenlämpötilaan. Tämä kestää vain muutaman minuutin.",
+   "Siirrä säilytysastiaan ja säilytä jääkaapissa, kunnes tarvitset sitä."
+  ],
+  "notes": [
+   "Väriainetta voidaan lisätä, jotta siirapeista saadaan eri värisiä.",
+   "Makuaineita ja uutteita voidaan lisätä sokerin liukenemisen jälkeen maustettujen siirappien valmistamiseksi.",
+   "Sokerin ja veden suhdetta voi muuttaa, jotta siirappi tulee ohuemmaksi tai paksummaksi. Vaihtoehtoisesti voi lisätä pektiiniä, jotta se hyytyy."
+  ]
+ },
+ {
+  "id": "wikibooks-sinasir-nigerian-rice-pancake",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-sindhi-chickpea-confection",
+  "title": "Besan laddoo -tyylinen kikhernemakeinen",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "intialainen",
+   "makeiset",
+   "pähkinät",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g kikhernejauhoa (besan)",
+   "250 g gheetä",
+   "150 g sokeria",
+   "12 cashewpähkinää, hienonnettuna",
+   "12 mantelia, hienonnettuna",
+   "8 pistaasipähkinää, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuumenna ghee pannulla. Lisää kikhernejauho ja sekoita, kunnes se on paahdettu.",
+   "Ota kattila pois liedeltä ja sekoita sokeri joukkoon.",
+   "Laita takaisin liedelle ja sekoita, kunnes sokeri sulaa.",
+   "Siirrä seos kulhoon ja koristele pähkinöillä.",
+   "Tarjoile kuumana tai kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-sindhi-fried-potatoes",
+  "title": "Sindhiläiset mausteperunat",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "intialainen",
+   "rasvassa paistettu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 isoa perunaa, kuorittuna ja kuutioituna",
+   "rypsiöljyä friteeraukseen",
+   "½ tl suolaa",
+   "½ tl chilijauhetta",
+   "½ tl jauhettua korianteria",
+   "¼ tl mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna kattilassa tarpeeksi öljyä uppopaistamista varten.",
+   "Lisää perunat ja paista ne kullanruskeiksi.",
+   "Nosta perunat öljystä ja aseta ne paperipyyhkeiden päälle valumaan.",
+   "Siirrä perunat tarjoilulautaselle. Ripottele päälle suolaa, chilijauhetta, korianteria ja pippuria.",
+   "Tarjoile kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-sindhi-pulao",
+  "title": "Sindhiläinen pulao",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "intialainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "3 rkl rypsiöljyä",
+   "5 keskikokoista sipulia, hienonnettuna",
+   "3–5 vihreää chilipaprikaa, hienonnettuna",
+   "10 curryn lehteä",
+   "7–10 cashewpähkinää",
+   "1 rkl garam masalaa",
+   "1 tl mustapippuria",
+   "1 tl punaista chilijauhetta",
+   "1 laakerinlehti",
+   "1½ tl suolaa",
+   "5 dl kypsentämätöntä basmatiriisiä"
+  ],
+  "instructions": [
+   "Kuumenna öljyä kattilassa ja lisää sipulit. Paista, kunnes sipulit ovat tummanruskeita.",
+   "Lisää chilipaprikat, currylehdet, cashewpähkinät, garam masala, pippuri, chilijauhe, laakerinlehti ja suola.",
+   "Lisää riisi ja 1 litra vettä. Keitä kannetta, kunnes vesi on imeytynyt, ja anna hautua kannen alla vielä 10 minuuttia.",
+   "Tarjoile kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-sindhi-raitha",
+  "title": "Sindhiläinen raita",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "raita",
+   "intialainen",
+   "jogurtti",
+   "kasvis",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "100 g paksua maustamatonta jogurttia",
+   "50 g hienonnettua sipulia",
+   "2–3 kappaletta vihreää chiliä, hienonnettuna",
+   "2 tomaattia, hienonnettuna",
+   "ripaus mangojauhetta (amchur)",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset keskenään.",
+   "Tarjoile viileänä."
+  ]
+ }
+]

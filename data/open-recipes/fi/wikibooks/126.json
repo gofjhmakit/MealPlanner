@@ -1,0 +1,577 @@
+[
+ {
+  "id": "wikibooks-soso-coconut-rice",
+  "title": "Kookosriisi",
+  "description": "Soso, joka tunnetaan myös nimellä kookosriisi, on suosittu ruokalaji monissa keittiöissä, erityisesti Afrikassa ja Karibialla. Se on maukas riisiruoka, jossa yhdistyvät kookosmaidon täyteläinen ja kermainen maku.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "kookos",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 dl vettä",
+   "5 dl pitkäjyväistä riisiä",
+   "1 tlk (400 ml) kookosmaitoa",
+   "1 tl suolaa",
+   "2–3 pandanlehteä (valinnainen)",
+   "1 rkl rypsiöljyä (valinnainen)"
+  ],
+  "instructions": [
+   "Huuhtele riisi huolellisesti kylmällä vedellä, kunnes vesi on kirkasta. Valuta ylimääräinen vesi pois.",
+   "Sekoita huuhdeltu riisi, kookosmaito, vesi, suola ja pandanlehdet (jos käytät niitä) isossa kattilassa. Sekoita hyvin, jotta ainekset sekoittuvat. Halutessasi voit lisätä tässä vaiheessa kasviöljyä, jotta riisi ei tartu toisiinsa.",
+   "Aseta kattila keskilämmölle ja kiehauta seos sekoittaen välillä.",
+   "Kun seos kiehuu, laske lämpö pienimmälle, peitä tiiviisti ja hauduta noin 18 minuuttia.",
+   "Kun kypsennysaika on kulunut, ota kattila pois liedeltä, mutta jätä kansi päälle. Anna sen seistä vielä 5–10 minuuttia, jotta höyry kypsyttää riisin loppuun.",
+   "Puhdista riisi haarukalla, jotta jyvät irtoavat toisistaan, ja poista pandanlehdet, jos niitä on käytetty.",
+   "Tarjoile kookosriisi kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-sosso-ngondi-ground-cassava-porridge",
+  "title": "Sosso ngondi (maniokkipuuro kookosmaidossa)",
+  "description": "Sosso-ngondi on perinteinen Länsi-Afrikan ruokalaji, joka valmistetaan jauhetusta maniokista. Se on pehmeää, paksua ja kermaista puuroa, jota nautitaan usein aamiaisena tai täyttävänä välipalana. Tämä lohduttava ruokalaji on suosittu monissa alueen maissa, ja sitä rakastetaan sen yksinkertaisen mutta tyydyttävän maun vuoksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "puuro",
+   "maniokki",
+   "afrikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl raastettua maniokkia (tuore tai pakaste)",
+   "1 l vettä",
+   "2,5 dl kookosmaitoa (tai tavallista maitoa, jos haluat maidottoman vaihtoehdon)",
+   "½ dl sokeria",
+   "½ tl jauhettua kanelia",
+   "ripaus suolaa",
+   "kookoshiutaleita",
+   "1 banaani, viipaleina",
+   "2 rkl pähkinöitä, hienonnettuna",
+   "hunajaa"
+  ],
+  "instructions": [
+   "Laita raastettu maniokki suureen kulhoon ja lisää vettä. Sekoita ja purista maniokkia käsin, jotta tärkkelys irtoaa. Jatka tätä, kunnes vesi muuttuu sameaksi ja maniokkipalat laskeutuvat kulhon pohjalle.",
+   "Kaada maniokki-seos hienojakoisen siivilän tai toisen kulhon päälle asetetun juustoliinan läpi ja säilytä neste. Anna seoksen levätä, jotta tärkkelys laskeutuu pohjalle. Tätä tärkkelystä käytetään puuron valmistukseen. Kaada vesi varovasti pois ja säilytä tärkkelys.",
+   "Kaada maniokkitärkkelys tehosekoittimeen tai monitoimikoneeseen. Lisää kookosmaito, sokeri, jauhettu kaneli ja ripaus suolaa. Sekoita, kunnes saat tasaisen ja kermaisen konsistenssin.",
+   "Kaada sekoitettu seos keskikokoiseen kattilaan. Kuumenna seosta keskilämmöllä sekoittaen jatkuvasti puulusikalla tai lastalla, jotta seos ei paakkuunnu tai tartu pohjaan.",
+   "Puuro sakeutuu kypsyessään. Sekoita, kunnes se saavuttaa haluamasi konsistenssin. Sen tulisi olla sileää ja kermaista, samanlaista kuin kaurapuuro tai maissijauho.",
+   "Ota kattila pois liedeltä. Tarjoile lämmin puuro kulhoissa ja koristele raastetulla kookospähkinällä, banaaniviipaleilla, hienonnettuilla pähkinöillä tai ripauksella hunajaa."
+  ]
+ },
+ {
+  "id": "wikibooks-soto-ayam-indonesian-chicken-noodle-soup",
+  "title": "Soto ayam (indonesialainen kanakeitto)",
+  "description": "Soto ayam -ruokaa on monia erilaisia versioita riippuen aineksista, tarjoilutavasta ja käytettyjen mausteiden määrästä.",
+  "servings": 6,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kana",
+   "indonesialainen",
+   "nuudelit"
+  ],
+  "ingredients": [
+   "Maustetahna:",
+   "1 tl kurkumaa",
+   "½ tl mustapippuria",
+   "2 kukuinpähkinää tai makadamiapähkinää",
+   "15 g inkivääriä",
+   "3 salottisipulia",
+   "2 valkosipulinkynttä",
+   "2 tl suolaa",
+   "2 rkl rypsiöljyä",
+   "Keitto:",
+   "1 broileri tai 1 kg broilerin paloja luineen",
+   "1,8 l kanalientä",
+   "25 g galangalia",
+   "3 kaffirlimetin lehteä",
+   "½ sitruunaruohon vartta",
+   "2 laakerinlehteä",
+   "1 kevätsipuli",
+   "Tarjoiluun:",
+   "200 g valkokaalia, ohuina suikaleina",
+   "200 g mungpavun ituja, ryöpättyinä",
+   "4 perunaa, keitettyinä, kuorittuina ja friteerattuina",
+   "2 tomaattia, lohkoina",
+   "25 g lasinuudeleita, liotettuina",
+   "3 rkl paahdettua sipulia",
+   "3 kovaksi keitettyä kananmunaa"
+  ],
+  "instructions": [
+   "Jauha maustepastan ainekset yhdessä monitoimikoneessa. Paista maustepastaa hitaalla lämmöllä, kunnes se tuoksuu. Ota pois lämmöltä.",
+   "Valmista keitto keittämällä kokonainen kana maustepastan, galangalin, limenlehtien, sitruunaruohon ja laakerinlehtien kanssa kattilassa vähintään 30 minuuttia, kunnes liha on pehmeää. Käytä painekattilaa, jotta keitto valmistuu nopeammin ja liemi tulee parempaa. Perinteisellä menetelmällä kiehauta keitto, peitä kattila, sammuta liesi ja anna keiton hautua 30–40 minuuttia – näin liha pehmenee paremmin.",
+   "Lisää hieman suolaa tai pippuria maun mukaan.",
+   "Jätä kana kattilaan, kunnes keitto on jäähtynyt.",
+   "Irrota liha luista ja leikkaa se haarukalla ja veitsellä pieniksi paloiksi, ja laita sivuun.",
+   "Laita luut takaisin keittoon, lisää kevätsipuli ja kiehauta. Kokoa kulhoihin nuudelit, kaali, idut, peruna, tomaatti, kana ja muna ja kaada kuuma liemi päälle; ripottele paahdettu sipuli pinnalle."
+  ],
+  "notes": [
+   "Asettele kulhoon seuraavat kerrokset: viipaloidut perunat, viipaloidut tomaatit, vermicelli, kaali, pavunidut, viipaloitu muna ja lopuksi liha.",
+   "Kaada kiehuva keitto ainesosien päälle, mutta varo, ettei luita tai kanan nahkaa pääse kulhoon.",
+   "Lisää päälle paistettuja salottisipuleita ja purista päälle sitruunaviipaleen mehu.",
+   "Tarjoile kuuman höyrytettyjen riisin tai lontong-viipaleiden (höyrytetty riisirulla) kanssa.",
+   "Monissa soto ayam -versioissa ei ole tomaattia.",
+   "Jotkut eivät halua sekoittaa kaalia ja pavunituja keskenään.",
+   "Paistettujen perunoiden sijaan jotkut lisäävät keittoon mielellään perunalastuja."
+  ]
+ },
+ {
+  "id": "wikibooks-soup-alla-canavese",
+  "skip": "määrät puuttuvat osin"
+ },
+ {
+  "id": "wikibooks-soup-alla-lombarda",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-soup-du-pecheur-fisherman-soup",
+  "title": "Soupe du pêcheur (kalastajan keitto attiéké-kuskusin kanssa)",
+  "description": "Soup du pecheur on mausteinen ja herkullinen ruokalaji, jota syödään attieken kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kala",
+   "äyriäiset",
+   "norsunluurannikkolainen"
+  ],
+  "ingredients": [
+   "12 dl vettä",
+   "900 g rapuja tai taskurapuja, murskattuina",
+   "4 keskikokoista sipulia, hienonnettuna",
+   "4 keskikokoista tomaattia, hienonnettuna",
+   "15 njangsa-siementä (valinnainen)",
+   "5 laakerinlehteä",
+   "450 g katkarapuja",
+   "1 iso valkosipulin pää, raastettuna",
+   "2 kuivattua sitruunaruohon lehteä",
+   "1–3 habanerochiliä, hienonnettuna",
+   "6 rkl punaista palmuöljyä",
+   "suolaa",
+   "mustapippuria",
+   "1,8 kg tilapiaa tai muuta vaaleaa kalaa, paloina",
+   "2 murskattua kanaliemikuutiota",
+   "750 g attiékétä (maniokkikuskusia)"
+  ],
+  "instructions": [
+   "Kaada kattilaan 1 l vettä ja lisää ravut, sipulit, tomaatit, siemenet, laakerinlehdet, valkosipuli, sitruunaruoho ja chili. Keitä 20 minuuttia; lisää katkaravut ja kala viimeisiksi 10 minuutiksi.",
+   "Poista tomaatit, sipulit, djansang-siemenet ja valkosipuli ja jauha ne. Laita ne takaisin kattilaan kalan kanssa.",
+   "Vähennä lämpöä matalalle ja lisää liemikuutiot. Anna kiehua noin 25 minuuttia.",
+   "Aloita sillä välin attieke-ruoan valmistus pakkauksen ohjeiden mukaisesti.",
+   "Kun maniokkikuskus on kuuma, lisää jäljellä oleva punainen öljy ja suola maun mukaan. Sekoita hyvin, kunnes kuskus muuttuu oranssiksi.",
+   "Tarjoile keitto attieke-leivän kanssa."
+  ],
+  "notes": [
+   "Kun keität keittoa, vältä käyttämästä liian kovaa lämpöä, sillä se voi saada keiton kiehumaan liian nopeasti, jolloin kala hajoaa."
+  ]
+ },
+ {
+  "id": "wikibooks-soup-joumou-haitian-beef-and-squash-soup",
+  "title": "Soup joumou (haitilainen kurpitsa-naudanlihakeitto)",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "naudanliha",
+   "kurpitsa",
+   "haitilainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 valkosipulinkynttä",
+   "2 kevätsipulia, viipaloituna, sekä lisää koristeluun",
+   "½ dl karkeasti hienonnettua persiljaa",
+   "½ tl kuivattua timjamia",
+   "1 keskikokoinen salottisipuli, viipaloituna",
+   "1 scotch bonnet -chili, varsi ja siemenet poistettu",
+   "1 limetin mehu ja lohkoja tarjoiluun",
+   "suolaa",
+   "mustapippuria",
+   "450 g naudan lapaa, 1 cm paloina",
+   "2 rkl oliiviöljyä",
+   "2 l naudanlientä",
+   "2 porkkanaa, leikattuina 4 cm paloiksi",
+   "2 varsiselleriä, 4 cm paloina",
+   "1 pieni purjo, puhdistettu, halkaistu pituussuunnassa ja leikattu 4 cm paloiksi; huuhdeltu",
+   "1 pieni keltainen sipuli, leikattu 4 cm paloiksi",
+   "1 iso peruna, kuorittuna ja paloina",
+   "1 keskikokoinen nauris, kuorittu ja leikattu 4 cm paloiksi",
+   "½ pientä valkokaalia, paloina",
+   "½ pientä kabochakurpitsaa, 3 cm paloina"
+  ],
+  "instructions": [
+   "Soseuta valkosipuli, kevätsipuli, persilja, timjami, salotti, chili, limettimehu, suola ja pippuri marinadiksi. Marinoi liha jääkaapissa vähintään tunti.",
+   "Ota naudanliha marinadista ja kuivaa se talouspaperilla; aseta sivuun.",
+   "Kuumenna öljy isossa kattilassa ja ruskista liha. Lisää liemi ja hauduta 40 minuuttia. Lisää juurekset ja kaali ja keitä 20 minuuttia.",
+   "Keitä sillä välin kurpitsa 5 dl:ssa vettä pehmeäksi, soseuta ja sekoita keittoon.",
+   "Mausta keitto suolalla ja pippurilla ja tarjoile kevätsipulin ja limen viipaleiden kera."
+  ]
+ },
+ {
+  "id": "wikibooks-soup-with-suppl",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-sour-cream-chili-sauce",
+  "title": "Smetana-chilikastike",
+  "servings": 6,
+  "totalTimeMin": 5,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "dippi",
+   "nopea",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,7 dl majoneesia",
+   "1,7 dl smetanaa",
+   "1–4 rkl chilikastiketta",
+   "ripaus cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset hyvin keskenään."
+  ]
+ },
+ {
+  "id": "wikibooks-sour-cream-dip",
+  "title": "Yrttismetanadippi",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "dippi",
+   "yrtit",
+   "nopea",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl smetanaa tai kermaviiliä",
+   "½ dl (60 ml) majoneesia",
+   "2 rkl hienonnettua tuoretta tilliä tai 1 rkl kuivattua ja murskattua tilliä",
+   "2 rkl raastettua sipulia",
+   "2 rkl hienonnettua ruohosipulia",
+   "1 rkl hienonnettua persiljaa",
+   "½ tl suolaa",
+   "¼ tl mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita smetana, majoneesi, tilli, sipuli, ruohosipuli ja persilja.",
+   "Mausta suolalla ja pippurilla maun mukaan ja laita sitten jääkaappiin."
+  ]
+ },
+ {
+  "id": "wikibooks-sour-mashed-sweet-potato",
+  "title": "Fermentoitu bataattisose inkiväärillä",
+  "description": "Hapan bataattimuusi on loistava tapa hyödyntää paistettujen vihannesten tähteitä. Tätä reseptiä voi käyttää useiden paistettujen vihannesten kanssa, kuten bataatin, taron ja kurpitsan. Se sopii erinomaisesti dippikastikkeeksi juhliin, maistuvaksi kylmäksi soseeksi piknikille, loistavaksi lisukkeeksi leivänpäällisille sekä grillattujen lampaan kyljysten kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 2880,
+  "category": "Säilykkeet",
+  "tags": [
+   "bataatti",
+   "fermentoitu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g bataattia tai muita vihanneksia",
+   "3 cm pala inkivääriä",
+   "1 tl jodittamatonta suolaa",
+   "1 tl kefiiriä tai jogurttia (vegaaniversioon hapankaalinlientä)"
+  ],
+  "instructions": [
+   "Kuori ja paista bataatti tai muut vihannekset. Ihannetapauksessa tämä olisi ylimääräinen pala bataattia, kurpitsaa, taroa jne., joka heitetään uuniin muiden pääruokaa varten paistettavien ruokien kanssa. 500 g:n pala bataattia paistuu hyvin 1½ tunnissa 150 asteeseenssa tai nopeammin korkeammassa lämpötilassa.",
+   "Anna vihannesten jäähtyä noin huoneenlämpötilaan.",
+   "Murskaa vihannekset kulhossa. Yritä murskata kaikki suuret palat, mutta älä ole liian tarkka – muutama pieni palanen ei haittaa ketään!",
+   "Kuori inkivääri ja murskaa se morttelissa tai hienonna se monitoimikoneessa. Lisää se kulhoon ja sekoita hyvin.",
+   "Lisää suola ja kefiiri tai jogurtti ja sekoita hyvin. Pyri saamaan tasainen koostumus, mutta älä huoli, vaikka joukkoon jää muutama kokkare.",
+   "Pakkaa mäski saviruukkuun tai purkkiin, jossa se voi käydä. Valitse kaunis astia, josta voit myöhemmin myös tarjoilla mäskin. Tasoita mäskin pinta lastalla.",
+   "Täytä vahva muovipussi vedellä, sulje se (solmi tai vetoketju) ja aseta se soseen päälle. Koska muovipussi on joustava, se mukautuu soseen pintaan ja sulkee ilman pois, mikä estää homeen muodostumisen.",
+   "Anna seistä lämpimässä (ei kuumassa!) paikassa 48 tuntia käymiseksi.",
+   "Kun fermentointi on valmis, poista muovipussi ja sulje ruukku tai purkki kannella, ja laita se sitten jääkaappiin säilyvyyden takaamiseksi."
+  ]
+ },
+ {
+  "id": "wikibooks-sour-mix-vegan",
+  "skip": "cocktailien sekoitusaines"
+ },
+ {
+  "id": "wikibooks-sour-mix-with-egg",
+  "skip": "cocktailien sekoitusaines (raaka valkuainen)"
+ },
+ {
+  "id": "wikibooks-sourdough-starter-recipe",
+  "skip": "lähes sama kuin aiemmin käännetty hapanjuuren aloitus"
+ },
+ {
+  "id": "wikibooks-south-african-traditional-fried-bread-vetkoek",
+  "skip": "määrät puuttuvat; vetkoek on jo mukana"
+ },
+ {
+  "id": "wikibooks-south-indian-millet-swallow-mudde",
+  "title": "Ragi mudde (eteläintialaiset hirssipallot)",
+  "description": "Mudde on sormimilletistä valmistettu tiivis pallomainen ruoka. Se on lounasruoka, jota syödään säännöllisesti maaseutuyhteisöissä Karnatakassa, Tamil Nadussa ja Andhra Pradeshissa Etelä-Intiassa, ja se on tärkeä pitkäkestoisen energian lähde maaseudun köyhille.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "intialainen",
+   "hirssi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4,5 dl ragi-hirssijauhoa",
+   "1,2 l vettä",
+   "1 rkl gheetä tai kasviöljyä"
+  ],
+  "instructions": [
+   "Keitä vesi kattilassa, lisää hieman jauhoja tahnan muodostamiseksi ja lisää sitten loput jauhot.",
+   "Sekoita kerran puulusikan varrella ja jätä se kattilaan.",
+   "Pidä matalalla lämmöllä noin 10 minuuttia, kunnes ruoka tuoksuu kypsältä.",
+   "Sekoita, kunnes seos muuttuu tumman punaruskeaksi. Kun seos alkaa irrota kattilan reunoista, ota kattila pois liedeltä ja sekoita voimakkaasti 5–10 minuuttia – se on kovaa työtä, mutta mitä kauemmin jatkat, sitä vaaleammaksi seos muuttuu.",
+   "Ota seos ulos ja muotoile siitä nyrkin kokoisia palloja."
+  ]
+ },
+ {
+  "id": "wikibooks-south-side-cocktail",
+  "skip": "cocktail, alkoholi pääasia"
+ },
+ {
+  "id": "wikibooks-south-side-fizz",
+  "skip": "cocktail, alkoholi pääasia"
+ },
+ {
+  "id": "wikibooks-south-texan-pinto-beans",
+  "title": "Texasilaiset pintopavut",
+  "servings": 10,
+  "category": "Lisukkeet",
+  "tags": [
+   "pavut",
+   "amerikkalainen",
+   "tex-mex",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g kuivattuja pinto-papuja",
+   "2 l vettä liotukseen",
+   "1½ rkl paprikajauhetta",
+   "1½ rkl sokeria",
+   "2 tl suolaa",
+   "1 ½ rkl chilijauhetta",
+   "¼ tl (tai enemmän) valkosipulijauhetta",
+   "½ sipulia, hienoksi kuutioituna",
+   "1–2 laakerinlehteä",
+   "1,2 l vettä keittämiseen"
+  ],
+  "instructions": [
+   "Pese pavut huolellisesti ja liota niitä yön yli 8 kupillisessa vedessä.",
+   "Valuta vesi pois ja lisää tilalle 12 dl vettä.",
+   "Lisää kaikki muut ainekset.",
+   "Kiehauta ja anna hautua vähintään tunti tai kunnes ainekset ovat pehmeitä.",
+   "Poista laakerinlehdet.",
+   "Älä valuta nestettä pois ennen tarjoilua, sillä neste on tärkeä osa ruokaa. Ruoka voidaan tarjoilla reikäkauhalla, jotta neste valuu pois, tai kauhalla pieniin lisukekulhoihin."
+  ]
+ },
+ {
+  "id": "wikibooks-southern-barbecue-ribs",
+  "title": "Etelävaltioiden savustetut ribsit",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "savustettu",
+   "grilli",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "2 porsaan kylkiribsilevyä (St. Louis -leikkaus)",
+   "6 rkl grillimaustetta",
+   "2,5 dl barbecuekastiketta",
+   "omenapuuta savustukseen"
+  ],
+  "instructions": [
+   "Mausta kyljykset grillimausteella. Anna maustua jääkaapissa vähintään 1 tunti.",
+   "Kuumenna savustin tai epäsuoran lämmön hiiligrilli 120 asteeseen ja lisää savustuspuut.",
+   "Savusta ribsejä kannen alla 5–6 tuntia, kunnes liha on mureaa.",
+   "Sivele kastiketta runsaasti kyljysten ylä- ja alapuolelle, aseta ne sitten keskilämpöiselle grillille ja sivele kastiketta jatkuvasti, kunnes ne ovat kauniin ruskeat. Käännä sitten kyljykset ympäri ja toista sama vielä kerran.",
+   "Kaada jäljellä oleva kastike ruiskupulloon. Poista sillä välin kylkiluut ja anna niiden levätä 10 minuuttia.",
+   "Tarjoile kastike ruiskupullosta."
+  ]
+ },
+ {
+  "id": "wikibooks-southern-clam-chowder",
+  "title": "Simpukka-perunakeitto (clam chowder)",
+  "description": "Tämä resepti on peräisin North Carolina Seafood Cookbook -kirjasta, jonka on julkaissut Pohjois-Carolinan maatalous- ja kuluttajapalveluministeriö.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "simpukat",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "9,5 dl simpukanlihaa (purkki tai tuore)",
+   "9,5 dl täysmaitoa, kuumennettu",
+   "125 g suolasilavaa tai pekonia",
+   "suolaa",
+   "mustapippuria",
+   "9,5 dl kuutioituja perunoita",
+   "2 rkl voita (valinnainen)",
+   "1 sipuli, kuutioituna tai hienonnettuna"
+  ],
+  "instructions": [
+   "Poista simpukoista mustat osat ja säilytä neste.",
+   "Leikkaa sianliha pieniksi paloiksi ja paista, kunnes ne ovat rapeita ja kullanruskeita, ja poista sitten pienet sianlihapalat rasvasta. Hävitä rasva.",
+   "Lisää perunat ja sipuli sekä juuri niin paljon kuumaa vettä, että se peittää perunat.",
+   "Kypsennä miedolla lämmöllä – anna vain hautua – kunnes ruoka on valmista.",
+   "Kun perunat ovat kypsiä, lisää simpukat ja sianliha ja keitä 2 minuuttia kiehumisen jälkeen. Pidempi keittoaika tekee simpukoista sitkeitä.",
+   "Ota chowder pois liedeltä ja anna sen seistä muutama minuutti, lisää sitten kuuma maito, simpukoiden liemi ja mausteet maun mukaan. Jos mausteet lisätään ennen kuumaa maitoa, chowder voi juoksettua.",
+   "Tarjoile kuumana. Voit lisätä voita jokaiseen kulhoon maun parantamiseksi."
+  ],
+  "notes": [
+   "Chowder maistuu yleensä paremmalta, jos sen antaa seistä seuraavaan päivään asti."
+  ]
+ },
+ {
+  "id": "wikibooks-southern-cornbread",
+  "title": "Etelävaltioiden maissileipä",
+  "description": "Eteläinen maissileipä on runsas, makeuttamaton maissileipä, jota tarjoillaan laajalti Yhdysvaltojen kaakkoisosissa. Se on helppo valmistaa ja sitä tarjoillaan yleensä leivän osana lounaalla tai illallisella. Joillekin ihmisille on tavallista nauttia toisinaan yksinkertainen ja nopea ateria – jopa aamiainen – murentamalla maissileipää lasilliseen kirnupiimää ja syömällä sen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "totalTimeMin": 45,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "maissi",
+   "amerikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl maissijauhoa + 3 tl leivinjauhetta ja ½ tl suolaa",
+   "1 kananmuna",
+   "3–3,5 dl piimää tai maitoa",
+   "½ dl rypsiöljyä"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 220 asteeseen. Jos käytät valurautapannua, laita se uuniin lämpenemään. Älä esilämmitä muita pannuja tai leivontavuokia.",
+   "Jos käytät muuta kuin valurautapannua tai -vuokaa, voitele se tarttumattomalla ruiskutusöljyllä.",
+   "Vatkaa muna kulhossa. Lisää kirnupiimä ja öljy sekoittaen.",
+   "Lisää maissijauho ja sekoita, kunnes seos on juuri ja juuri kostunut. Taikina on hieman paakkuista. Varo sekoittamasta liikaa.",
+   "Kaada taikina paistinpannulle ja laita uuniin.",
+   "Paista, kunnes pinta on vaalean kullanruskea ja keskelle pistetty hammastikku tulee ulos puhtaana. 20 cm paistinpannulla tämä voi kestää 25–30 minuuttia; 25 cm paistinpannulla tai 8x20 cm leivontavuoalla noin 20–25 minuuttia.",
+   "Anna jäähtyä pannulla 5 minuuttia ennen tarjoilua."
+  ],
+  "notes": [
+   "Jäljelle jäänyt maissileipä voidaan kääriä kosteaan pyyhkeeseen (jotta se pysyy kosteana) ja säilyttää jääkaapissa useita päiviä. Se voidaan pakastaa säilytyspusseissa useiksi kuukausiksi, mutta yleensä se muuttuu tällaisessa säilytyksessä murenevammaksi."
+  ]
+ },
+ {
+  "id": "wikibooks-southern-fried-chicken-sliders",
+  "title": "Rapeat kanaminiburgerit",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "rasvassa paistettu",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "4 kpl luutonta ja nahatonta kananrintaa",
+   "2 tl broilerimaustetta",
+   "2 dl maissijauhoa",
+   "50 g sulatettua voita",
+   "6 minisämpylää, halkaistuina",
+   "1 l maapähkinäöljyä friteeraukseen",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sivele sämpylöiden leikatut pinnat sulatetulla voilla ja mausta suolalla ja vastajauhetulla mustapippurilla. Paista leikatut pinnat alaspäin kuumalla pannulla. Aseta sivuun.",
+   "Päällystä kana sulatetulla voilla. Mausta runsaasti siipikarjan mausteella ja pyöritä maissijauhoissa. Anna levätä 2–3 minuuttia.",
+   "Kuumenna öljy 175 asteeseen. Lisää kananrinnat ja paista niitä yksi kerrallaan noin 10 minuuttia. Valuta rasva pois jäähdytysritilällä.",
+   "Leikkaa kana sämpylöihin sopiviksi paloiksi. Aseta yksi kananpala jokaisen sämpylän alaosaan ja peitä toisella puoliskolla. Tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-southern-style-greens",
+  "title": "Etelävaltioiden haudutetut lehtivihannekset",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "lehtivihannekset",
+   "pekoni",
+   "amerikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g tummia lehtivihanneksia (lehtikaali, mangoldi, sinapinlehdet)",
+   "8 pekoniviipaletta, leikattu noin 1 cm paloiksi",
+   "1 rkl pekonirasvaa (valinnainen)",
+   "1 tl suolaa",
+   "1 tl mustapippuria",
+   "1 dl kanaliemiä"
+  ],
+  "instructions": [
+   "Paista pekoni hieman raakaksi suuressa ruostumattomasta teräksestä valmistetussa kattilassa. Valuta rasva pois.",
+   "Kaada halutessasi 1 rkl pekonirasvaa takaisin kattilaan. Lisää vihannekset ja paista keskilämmöllä 7 minuuttia.",
+   "Lisää loput ainekset ja vähennä lämpöä keskilämpötilaan. Kypsennä 45 minuuttia. Poista rasva tarvittaessa.",
+   "Tarjoile lämpimänä, etikkapohjaisen, kirkkaan kuuman kastikkeen kera."
+  ]
+ },
+ {
+  "id": "wikibooks-southwest-pasta",
+  "title": "Tex-mex-pasta mustilla pavuilla",
+  "description": "Pasta, johon on sekoitettu mausteita ja vihanneksia Yhdysvaltojen lounaisosista.",
+  "servings": 4,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "tex-mex",
+   "pavut",
+   "vegaaninen",
+   "nopea"
+  ],
+  "ingredients": [
+   "340 g simpukka- tai muuta pastaa",
+   "2 rkl oliiviöljyä",
+   "1 sipuli, hienonnettuna",
+   "1 vihreä paprika, hienonnettuna",
+   "1 tlk (300 g) maissia, valutettuna",
+   "1 tlk (400 g) mustia papuja, valutettuna",
+   "1 tlk (400 g) tomaattikuutioita",
+   "½ dl salsaa",
+   "½ dl viipaloituja mustia oliiveja, valutettuina",
+   "1½ rkl tacomaustetta",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kiehauta isossa kattilassa runsaasti kevyesti suolattua vettä.",
+   "Lisää pasta ja keitä 8–10 minuuttia, kunnes pasta on al dente; valuta vesi pois.",
+   "Kun pasta kiehuu, kuumenna oliiviöljyä suuressa paistinpannussa keskilämmöllä.",
+   "Paista sipulia ja paprikaa öljyssä, kunnes ne ovat hieman ruskistuneet, noin 10 minuuttia.",
+   "Sekoita joukkoon maissi, pavut, tomaatit, salsa, oliivit, tacomauste, suola ja pippuri. Kypsennä, kunnes seos on täysin lämmennyt, noin 5 minuuttia.",
+   "Sekoita kuumennetut vihannekset pastan sekaan, sekoita hyvin ja tarjoile.",
+   "Tarjoile lämpimänä tai kylmänä."
+  ]
+ }
+]

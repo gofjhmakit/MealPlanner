@@ -1,87 +1,90 @@
 # Tunnistamattomat ainekset
 
-Generoitu 2026-10-15 10:59 komennolla `npm run recipes:build`. Älä muokkaa käsin.
+Generoitu 2026-10-15 11:06 komennolla `npm run recipes:build`. Älä muokkaa käsin.
 
 Ainekset, joita Fineli-vastaavuuksien haku ei tunnistanut (varmuus alle 50 %). Yleisimmät kannattaa lisätä
 ainessanastoon (`src/domain/ingredients.ts`) tai korjata käännösten sanamuotoa.
 
-Yhteensä 2468 eri nimeä, 5186 riviä.
+Yhteensä 2504 eri nimeä, 5321 riviä.
 
 | Kertaa | Aines (tunnistettu nimi) | Esimerkkirivit | Reseptit |
 |---:|---|---|---|
-| 123 | sahramia | ripaus sahramia · ripaus sahramia (valinnainen) | kg-berry-biryani, kg-chicken-and-chorizo-paella, kg-mango-lassi |
-| 90 | worcestershirekastiketta | 2 rkl worcestershirekastiketta · 1 rkl worcestershirekastiketta | kg-beef-stew, kg-classic-bbq-sauce, kg-classic-smash-burgers |
-| 48 | gheetä | 3 rkl gheetä · 1 rkl gheetä | forkrecipe-dal-tadka, forkrecipe-gulab-jamun, forkrecipe-kadhi |
+| 125 | sahramia | ripaus sahramia · ripaus sahramia (valinnainen) | kg-berry-biryani, kg-chicken-and-chorizo-paella, kg-mango-lassi |
+| 94 | worcestershirekastiketta | 2 rkl worcestershirekastiketta · 1 rkl worcestershirekastiketta | kg-beef-stew, kg-classic-bbq-sauce, kg-classic-smash-burgers |
+| 50 | gheetä | 3 rkl gheetä · 1 rkl gheetä | forkrecipe-dal-tadka, forkrecipe-gulab-jamun, forkrecipe-kadhi |
 | 46 | miriniä | 1 tl miriniä · 1 rkl miriniä | kg-japanese-chawanmushi, kg-japanese-goma-dressing, kg-japanese-gyudon-beef-bowl |
+| 42 | kapriksia | 1 rkl kapriksia · 1 tl kapriksia | kg-baked-cod-with-tomatoes, kg-cod-with-tomato-olive-braise, kg-remoulade |
 | 41 | laardia | 3 rkl laardia tai rypsiöljyä · 120 g laardia (tai voita), sulatettuna | unitools-goulash, unitools-empanadas-argentinas, unitools-empanadas-de-pino |
-| 39 | kapriksia | 1 rkl kapriksia · 1 tl kapriksia | kg-baked-cod-with-tomatoes, kg-cod-with-tomato-olive-braise, kg-remoulade |
-| 35 | raastettua sitruunankuorta | 1 tl raastettua sitruunankuorta (valinnainen) · 1 tl raastettua sitruunankuorta | myplate-grilled-asparagus-and-shrimp-quinoa-salad-lemon-vinaigrette, forkrecipe-alfajores, forkrecipe-anchovy-butter |
-| 31 | tamarinditahnaa | 1 rkl tamarinditahnaa · 2 rkl tamarinditahnaa | kg-dal-dhokli, kg-hyderabadi-khatti-dal, kg-malaysian-rojak-buah |
-| 31 | jauhettua kuminaa | 2 tl jauhettua kuminaa · 1 tl jauhettua kuminaa | myplate-white-chicken-chili, myplate-white-chili, unitools-shakshuka-tunisian |
-| 30 | sinappijauhetta | 1 tl sinappijauhetta · ¼ tl sinappijauhetta | kg-baked-mac-and-cheese, kg-cauliflower-potato-cheddar-soup, myplate-baked-beans |
+| 38 | raastettua sitruunankuorta | 1 tl raastettua sitruunankuorta (valinnainen) · 1 tl raastettua sitruunankuorta | myplate-grilled-asparagus-and-shrimp-quinoa-salad-lemon-vinaigrette, forkrecipe-alfajores, forkrecipe-anchovy-butter |
+| 33 | tamarinditahnaa | 1 rkl tamarinditahnaa · 2 rkl tamarinditahnaa | kg-dal-dhokli, kg-hyderabadi-khatti-dal, kg-malaysian-rojak-buah |
+| 33 | jauhettua kuminaa | 2 tl jauhettua kuminaa · 1 tl jauhettua kuminaa | myplate-white-chicken-chili, myplate-white-chili, unitools-shakshuka-tunisian |
+| 31 | sinappijauhetta | 1 tl sinappijauhetta · ¼ tl sinappijauhetta | kg-baked-mac-and-cheese, kg-cauliflower-potato-cheddar-soup, myplate-baked-beans |
 | 28 | shaoxing-riisiviiniä | 1 rkl shaoxing-riisiviiniä · 1 rkl shaoxing-riisiviiniä (tai kuivaa sherryä) | kg-ants-climbing-a-tree, kg-steamed-fish-with-ginger-and-scallion, kg-zha-jiang-mian |
-| 27 | leivontarasvaa | 100 g leivontarasvaa tai margariinia · 3½ dl leivontarasvaa | myplate-banana-cupcakes, myplate-master-mix-oregon, unitools-baleadas |
+| 28 | leivontarasvaa | 100 g leivontarasvaa tai margariinia · 3½ dl leivontarasvaa | myplate-banana-cupcakes, myplate-master-mix-oregon, unitools-baleadas |
+| 27 | curryn lehteä | 8 curryn lehteä · 10 curryn lehteä | kg-coconut-moong-dal, kg-dal-dhokli, kg-horse-gram-dal-kollu |
 | 26 | tähtianista | 4 tähtianista · 2 tähtianista | kg-chinese-chili-oil-homemade, kg-chinese-tea-eggs, kg-lanzhou-beef-noodle-soup |
+| 26 | ricottaa | 3 dl ricottaa, vähärasvaista · 500 g ricottaa | myplate-pumpkin-ricotta-stuffed-shells, unitools-pastizzi, forkrecipe-sfogliatelle |
 | 26 | korintteja | 30 g korintteja tai rusinoita · 2½ dl korintteja tai rusinoita | forkrecipe-stuffed-peppers, wikibooks-butter-tart, wikibooks-mincemeat-tart |
-| 25 | curryn lehteä | 8 curryn lehteä · 10 curryn lehteä | kg-coconut-moong-dal, kg-dal-dhokli, kg-horse-gram-dal-kollu |
-| 24 | ricottaa | 3 dl ricottaa, vähärasvaista · 500 g ricottaa | myplate-pumpkin-ricotta-stuffed-shells, unitools-pastizzi, forkrecipe-sfogliatelle |
+| 24 | italialaista yrttisekoitusta | 1 tl italialaista yrttisekoitusta · italialaista yrttisekoitusta | kg-baked-ziti, kg-italian-wedding-soup, kg-one-pot-lasagna |
 | 23 | jääpaloja | jääpaloja (valinnainen) · 2½ dl jääpaloja | kg-berry-smoothie, myplate-batido-smoothie, myplate-peanut-butter-banana-smoothie |
 | 23 | kurpitsasosetta | 1¼ dl kurpitsasosetta · 2½ dl kurpitsasosetta | myplate-apple-wedges-pumpkin-almond-butter, myplate-cinnamon-sugared-pumpkin-pecan-muffins, myplate-cranberry-pumpkin-muffins |
 | 23 | tulista kastiketta | ripaus tulista kastiketta · ¼ tl tulista kastiketta | myplate-falafel-yogurt-sandwich, myplate-grape-salsa, myplate-grapefruit-spinach-salad |
-| 21 | sakea | 2 rkl sakea · ½ dl sakea | kg-teriyaki-sauce-homemade, unitools-shoyu-ramen, unitools-gyudon |
-| 20 | italialaista yrttisekoitusta | 1 tl italialaista yrttisekoitusta · italialaista yrttisekoitusta | kg-baked-ziti, kg-italian-wedding-soup, kg-one-pot-lasagna |
+| 22 | sakea | 2 rkl sakea · ½ dl sakea | kg-teriyaki-sauce-homemade, unitools-shoyu-ramen, unitools-gyudon |
+| 22 | asafoetidaa | ripaus asafoetidaa · ripaus asafoetidaa (hing) | unitools-dal-tadka, unitools-rogan-josh, forkrecipe-khichdi |
+| 21 | viinikiveä | 1 tl viinikiveä · ½ tl viinikiveä | myplate-angel-food-cake, myplate-pineapple-angel-food-cake, myplate-pumpkin-angel-food-cake |
 | 20 | konjakkia | 60 ml konjakkia tai brandya · 2 tl konjakkia (valinnainen) | kg-peppercorn-sauce, forkrecipe-beef-tartare, forkrecipe-lobster-bisque-base |
 | 20 | tomaattipaloja | 2 tlk (à 400 g) tomaattipaloja, valutettuna · 5 dl tomaattipaloja (tai tuoreita tomaatteja) | myplate-easy-beef-supper, myplate-fish-spinach, myplate-green-bean-and-rice-casserole |
 | 20 | limemehua | 2 rkl limemehua · 1 rkl limemehua | myplate-farmers-market-salsa, myplate-fiesta-hummus, myplate-fresh-tomato-salsa |
-| 20 | asafoetidaa | ripaus asafoetidaa · ripaus asafoetidaa (hing) | unitools-dal-tadka, unitools-rogan-josh, forkrecipe-khichdi |
 | 19 | hoisinkastiketta | 1 rkl hoisinkastiketta · 2 rkl hoisinkastiketta | kg-beef-lo-mein, kg-chicken-lettuce-wraps, kg-chinese-sweet-soy-dressing |
+| 19 | vaniljajäätelöä | vaniljajäätelöä · 2 palloa vaniljajäätelöä (fior di latte) | kg-berry-crumble, forkrecipe-affogato, wikibooks-banana-caramel-dessert |
 | 19 | porsaan kylkeä | 150 g porsaan kylkeä, viipaloituna · 200 g porsaan kylkeä, kuutioituna | kg-kimchi-jjigae, kg-korean-jjajangmyeon, kg-malaysian-hokkien-mee |
-| 19 | viinikiveä | 1 tl viinikiveä · ½ tl viinikiveä | myplate-angel-food-cake, myplate-pineapple-angel-food-cake, myplate-pumpkin-angel-food-cake |
 | 19 | sitruunaruohoa | 2 vartta sitruunaruohoa, murskattuna ja paloiteltuna · 3 vartta sitruunaruohoa | unitools-tom-yum-goong, unitools-rendang, unitools-laksa-lemak |
-| 18 | vaniljajäätelöä | vaniljajäätelöä · 2 palloa vaniljajäätelöä (fior di latte) | kg-berry-crumble, forkrecipe-affogato, wikibooks-banana-caramel-dessert |
 | 18 | gochujangia | 3 rkl gochujangia (korealaista chilitahnaa) · 1 rkl gochujangia (korealaista chilitahnaa) | kg-gochujang-sauce, kg-kimchi-udon-stir-fry, kg-korean-bibim-guksu |
 | 18 | suklaarakeita | 80 g suklaarakeita (granulado) · 1¾ dl suklaarakeita | forkrecipe-brigadeiros, wikibooks-1-2-chocolate-cake, wikibooks-brigadeiro-brazilian-chocolate-fudge |
 | 17 | melassia | 2 rkl melassia tai tummaa siirappia · 1 tl melassia (tai siirappia) | kg-beef-brisket-chilli, kg-classic-bbq-sauce, myplate-baked-beans |
-| 16 | okraa | 100 g okraa, viipaloituna · 200 g okraa | kg-vietnamese-canh-chua-sour-soup, unitools-thieboudienne, unitools-callaloo |
-| 16 | maniokkia | 450 g maniokkia, kuorittuna ja 7 cm:n paloiksi leikattuna (tai 450 g kuorittua pakastemaniokkia) · 700 g maniokkia (kassavaa), kuorittuna ja tikkuina | myplate-oven-fried-yucca, unitools-encebollado, unitools-thieboudienne |
+| 17 | okraa | 100 g okraa, viipaloituna · 200 g okraa | kg-vietnamese-canh-chua-sour-soup, unitools-thieboudienne, unitools-callaloo |
+| 17 | maniokkia | 450 g maniokkia, kuorittuna ja 7 cm:n paloiksi leikattuna (tai 450 g kuorittua pakastemaniokkia) · 700 g maniokkia (kassavaa), kuorittuna ja tikkuina | myplate-oven-fried-yucca, unitools-encebollado, unitools-thieboudienne |
+| 16 | sitruunankuorta | sitruunankuorta (valinnainen) · 1 tl sitruunankuorta, raastettuna | myplate-baked-fish-and-vegetables, myplate-garlic-stuffed-chicken, myplate-lemon-corn-cake |
 | 16 | tuoretta limemehua | 1 rkl tuoretta limemehua (n. ½ limeä) · 2 rkl tuoretta limemehua | myplate-pan-roasted-tilapia-tomatillo-salsa, forkrecipe-jerk-chicken, forkrecipe-jerk-marinade |
 | 16 | katkaraputahnaa | 1 tl katkaraputahnaa (terasi) · 1 rkl katkaraputahnaa (belacan) | unitools-nasi-goreng, unitools-laksa-lemak, unitools-nasi-lemak |
 | 16 | berbere-mausteseosta | 3 rkl berbere-mausteseosta · 6 rkl berbere-mausteseosta | forkrecipe-berbere-lamb-shoulder, forkrecipe-doro-wat, forkrecipe-misir-wot |
+| 15 | sitruunaruohon vartta | 2 sitruunaruohon vartta, murskattuna · 2 sitruunaruohon vartta, hienonnettuna | kg-burmese-mohinga-fish-noodle-soup, kg-lemongrass-tofu-rice-noodles, kg-rice-noodles-with-lemongrass-pork |
 | 15 | gochugarua | 1 rkl gochugarua (korealaista chilijauhetta) · 1 tl gochugarua (korealaista chilijauhetta) | kg-kimchi-jjigae, kg-korean-bean-sprout-salad-kongnamul-muchim, kg-korean-cucumber-salad-oi-muchim |
-| 14 | sitruunaruohon vartta | 2 sitruunaruohon vartta, murskattuna · 2 sitruunaruohon vartta, hienonnettuna | kg-burmese-mohinga-fish-noodle-soup, kg-lemongrass-tofu-rice-noodles, kg-rice-noodles-with-lemongrass-pork |
 | 14 | verkkorasvaa | 75 g verkkorasvaa (vatsakalvoa), huuhdeltuna · 100 g verkkorasvaa tai pekonia | forkrecipe-isicia-omentata, apicius-046, apicius-047 |
+| 14 | korianterijauhetta | 3 g korianterijauhetta · 1 tl korianterijauhetta | forkrecipe-moroccan-roasted-carrots, wikibooks-chicken-vindaloo, wikibooks-egg-roast |
 | 14 | raastettua muskottipähkinää | raastettua muskottipähkinää · ½ tl raastettua muskottipähkinää | wikibooks-fondue-neuchateloise, wikibooks-fried-apple-pies, wikibooks-gingerbread-pancakes-ii |
-| 13 | sitruunankuorta | sitruunankuorta (valinnainen) · 1 tl sitruunankuorta, raastettuna | myplate-baked-fish-and-vegetables, myplate-garlic-stuffed-chicken, myplate-lemon-corn-cake |
 | 13 | punaista | ½ punaista tai vihreää paprikaa, viipaloituna · 2 rkl punaista tai vihreää paprikaa, pilkottuna | myplate-grilled-vegetable-packets, myplate-microwave-denver-scramble-slider, myplate-peanut-peach-n-pineapple-wrap |
 | 13 | naudan paistia | 115 g naudan paistia, pilkottuna · 340 g naudan paistia (esim. ulkopaisti) | myplate-hearty-beef-soup, myplate-marinated-beef, myplate-pot-roasted-beef |
 | 13 | filotaikinaa | 450 g filotaikinaa · 500 g filotaikinaa | unitools-spanakopita, unitools-banitsa, unitools-byrek-me-spinaq |
-| 13 | korianterijauhetta | 3 g korianterijauhetta · 1 tl korianterijauhetta | forkrecipe-moroccan-roasted-carrots, wikibooks-chicken-vindaloo, wikibooks-egg-roast |
 | 13 | m makkarasuolta | 3 m makkarasuolta · 4 m makkarasuolta | kokkikirja-249, kokkikirja-250, kokkikirja-251 |
 | 12 | rakuunaa | 1 rkl rakuunaa, hienonnettuna · 1 tl rakuunaa tai timjamia | kg-bearnaise-sauce, kg-green-goddess-dressing, myplate-tasty-chicken-and-veggie-packets |
 | 12 | idättämiä | 100 g idättämiä (mungpavun ituja) · 150 g idättämiä (mungpavun ituja) | kg-char-kway-teow, kg-classic-chicken-chow-mein, kg-indonesian-gado-gado-salad |
 | 12 | jäitä | 7 dl jäitä · jäitä | myplate-fruit-juice-slush, myplate-fruit-slush, myplate-orange-cow |
+| 12 | rommia | 2 rkl rommia · 1¼ dl rommia (valinnainen) | unitools-potica, wikibooks-chiles-en-nogada-stuffed-chile-peppers-with-almonds, wikibooks-germkndel-plum-and-poppy-seed-dumpling |
 | 12 | vasikanlihaa | 700 g vasikanlihaa, suikaleina · 400 g vasikanlihaa (valinnainen) | unitools-zuercher-geschnetzeltes, unitools-begova-corba, wikibooks-albanian-meat-with-walnuts |
 | 12 | tuoretta rakuunaa | 1 nippu (20 g) tuoretta rakuunaa, jaettuna · 1 rkl tuoretta rakuunaa, hienonnettuna (lisäksi rakuunan varsia reduktioon) | forkrecipe-bearnaise-sauce, forkrecipe-choron, forkrecipe-gribiche |
 | 12 | sellerinvartta | 4 sellerinvartta, ½ cm:n paloina · 2 sellerinvartta, puolitettuina tai neljään osaan (lehtineen) | wikibooks-chicken-and-andouille-sausage-gumbo, wikibooks-chicken-bog-iii, wikibooks-chicken-soup-with-cream-and-lemon |
 | 11 | inkivääritahnaa | 1 tl inkivääritahnaa · 1 tl inkivääritahnaa (tai raastettua inkivääriä) | kg-bengali-masoor-dal, kg-spinach-chana-dal, forkrecipe-tandoori-leg-of-lamb |
 | 11 | jääpalaa | 2 jääpalaa · 3 jääpalaa | kg-mango-turmeric-lassi, myplate-coffee-cooler, myplate-fruit-milk-shakes |
 | 11 | tomatilloja | 500 g tomatilloja, kuoret poistettuna · 450 g tomatilloja | kg-salsa-verde, myplate-pan-roasted-tilapia-tomatillo-salsa, unitools-pepian |
-| 11 | rommia | 2 rkl rommia · 1¼ dl rommia (valinnainen) | unitools-potica, wikibooks-chiles-en-nogada-stuffed-chile-peppers-with-almonds, wikibooks-germkndel-plum-and-poppy-seed-dumpling |
+| 11 | porsaankylkeä | 900 g porsaankylkeä · 500 g porsaankylkeä tai lapaa, ohuiksi (5 mm) viipaleiksi | unitools-gua-bao, forkrecipe-banh-mi-pork, wikibooks-bicol-express |
 | 11 | tummaa rommia | 5 rkl tummaa rommia · 1,5 dl tummaa rommia (siirappiin) | forkrecipe-canele, forkrecipe-rum-baba, wikibooks-caramelized-pineapple |
+| 11 | worcestershire-kastiketta | 2 rkl Worcestershire-kastiketta · ½ dl Worcestershire-kastiketta | wikibooks-dry-rub-barbecue-ribs, wikibooks-dutch-oven-beans, wikibooks-firecracker-ribs |
 | 11 | keitettyjä aivoja | 200 g keitettyjä aivoja · 300 g keitettyjä aivoja | apicius-083, apicius-131, apicius-136 |
 | 10 | kardemummankotaa | 12 kardemummankotaa · 6 kardemummankotaa | kg-curry-goat-serves-56, unitools-mansaf, unitools-kabuli-pulao |
 | 10 | tomaattimehua | 1¼ dl tomaattimehua · 6 dl tomaattimehua | myplate-carrots-tomatoes-and-macaroni, myplate-easy-beef-supper, myplate-farmers-market-gazpacho |
-| 10 | porsaankylkeä | 900 g porsaankylkeä · 500 g porsaankylkeä tai lapaa, ohuiksi (5 mm) viipaleiksi | unitools-gua-bao, forkrecipe-banh-mi-pork, wikibooks-bicol-express |
 | 10 | sianrasvaa | 250 g sianrasvaa, kuutioina · 250 g sianrasvaa | unitools-verivorst, forkrecipe-carnitas, forkrecipe-chicken-mole-poblano |
 | 10 | raastettua appelsiininkuorta | ½ tl hienoksi raastettua appelsiininkuorta · 4 tl raastettua appelsiininkuorta | wikibooks-cherries-jubilee, wikibooks-chicken-with-orange-spinach-and-cherry-tomatoes, wikibooks-chocolate-bananas-foster |
-| 10 | worcestershire-kastiketta | 2 rkl Worcestershire-kastiketta · ½ dl Worcestershire-kastiketta | wikibooks-dry-rub-barbecue-ribs, wikibooks-dutch-oven-beans, wikibooks-firecracker-ribs |
+| 10 | ankka | 1 ankka · 1 ankka tai 2 sorsaa | wikibooks-valencian-inspired-paella, kokkikirja-012, kokkikirja-095 |
+| 9 | kefiiriä | 2½ dl kefiiriä · 2,5 dl kefiiriä tai piimää | kg-berry-beet-recovery-smoothie, unitools-varenyky-z-vyshnyamy, unitools-pelekie-zirni-ar-speki |
 | 9 | lime | 1 lime · 1 lime (puolikas salsaan ja puolikas koristeluun) | myplate-flavored-water, myplate-grilled-shrimp-cantaloupe-avocado-salsa, myplate-kale-salad-yogurt-dressing |
 | 9 | juustokuminajauhetta | ½ tl juustokuminajauhetta · 8 g juustokuminajauhetta | myplate-masoor-dal-red-lentils-onion, forkrecipe-moroccan-chermoula-fish, forkrecipe-moroccan-roasted-carrots |
+| 9 | murskattua jäätä | 2½ dl murskattua jäätä · 50 g murskattua jäätä | myplate-orange-delight-juice, unitools-pelmeni, forkrecipe-oysters-mignonette |
 | 9 | italialaista maustesekoitusta | 1¼ rkl italialaista maustesekoitusta · 1 rkl italialaista maustesekoitusta | myplate-skillet-lasagna, myplate-spaghetti-quick-meat-sauce, myplate-whole-wheat-garlic-bread-sticks |
 | 9 | mustakuminaa | 1 tl mustakuminaa (nigellansiemeniä) · 2 tl mustakuminaa (nigellansiemeniä) | unitools-shorshe-ilish, unitools-bint-al-sahn, unitools-kleicha |
 | 9 | katsuobushia | 30 g katsuobushia (bonitohiutaleita) · 50 g katsuobushia (korkealaatuisia hana katsuo -bonitohiutaleita) | forkrecipe-dashi-stock, forkrecipe-dashi, forkrecipe-ichiban-dashi |
+| 9 | kuivattua sitruunankuorta | ½ dl kuivattua sitruunankuorta · 1¼ dl kuivattua sitruunankuorta | wikibooks-barbecue-rub, wikibooks-chipotle-bbq-rub, wikibooks-chop-rub |
 | 9 | puolimakeita suklaarakeita | puolimakeita suklaarakeita · 1,2 dl puolimakeita suklaarakeita | wikibooks-cheescake-cups, wikibooks-cherry-brownies, wikibooks-chocolate-balls |
-| 9 | ankka | 1 ankka · 1 ankka tai 2 sorsaa | kokkikirja-012, kokkikirja-095, apicius-212 |
 | 9 | leivänkuorta | 2 viipaletta leivänkuorta · 1 viipale leivänkuorta | formeofcury-eles-in-brewet, formeofcury-fylettes-in-galytyne, formeofcury-muskels-in-brewet |
 | 8 | doubanjiangia | 2 rkl doubanjiangia (chilipapupastaa) · 1 rkl doubanjiangia (chilipapupastaa) | kg-ants-climbing-a-tree, kg-mapo-tofu-light, kg-taiwanese-beef-noodle-soup |
 | 8 | naudan kuvetta | 250 g naudan kuvetta tai sisäpaistia, ohuina suikaleina · 450 g naudan kuvetta (skirt steak) | kg-beef-lo-mein, myplate-argentinean-grilled-steak-salsa-criolla, unitools-ropa-vieja |
@@ -89,21 +92,21 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 8 | vihreää | 2 vihreää tai keltaista paprikaa · 1¼ dl vihreää tai punaista paprikaa, pilkottuna (valinnainen) | kg-roasted-green-veg-with-burrata, myplate-barley-pilaf, myplate-scrambled-eggs-zucchini |
 | 8 | paistosprayta | paistosprayta tai öljyä pellin voiteluun · paistosprayta tarvittaessa | myplate-easy-oven-fish-spinach-basil-dipping-sauce-spiced-apples, myplate-fish-tacos, myplate-lite-fried-okra |
 | 8 | tilapiafileetä | 450 g tilapiafileetä, tuoretta tai pakastettua (4 fileetä, à n. 115 g) · 450 g tilapiafileetä, tuoretta tai sulatettua | myplate-easy-oven-packet-caribbean-tilapia-pears-and-carnival-roasted-potatoes, myplate-fiesta-lettuce-wraps-and-pepper-boats, myplate-fish-tacos |
-| 8 | murskattua jäätä | 2½ dl murskattua jäätä · 50 g murskattua jäätä | myplate-orange-delight-juice, unitools-pelmeni, forkrecipe-oysters-mignonette |
+| 8 | appelsiininkuorta | 1 rkl appelsiininkuorta, raastettuna · 1 tl appelsiininkuorta, raastettuna | myplate-frosted-cake, myplate-ginger-orange-muffins, myplate-honey-pumpkin-bar |
+| 8 | appelsiinimehutiivistettä | 1¾ dl appelsiinimehutiivistettä, sulatettuna · 1 rkl appelsiinimehutiivistettä, sulatettuna | myplate-frozen-fruit-pops, myplate-frozen-pear-pops, myplate-fruit-dip |
+| 8 | mungpavun ituja | 150 g mungpavun ituja · 200 g mungpavun ituja | unitools-pad-thai, unitools-soto-ayam, unitools-char-kway-teow |
 | 8 | tuoretta kurkumaa | 20 g tuoretta kurkumaa · 30 g tuoretta kurkumaa (tai 1 tl kurkumajauhetta) | unitools-rendang, unitools-fish-amok, unitools-soto-ayam |
 | 8 | banaaninlehteä | 4 banaaninlehteä (tai annosvuoat) · 4 banaaninlehteä (tai foliota) | unitools-fish-amok, unitools-shuwa, unitools-tamales-guatemaltecos |
 | 8 | kombua | 5 g kombua (valinnainen, n. 5 cm:n pala) · 20 g kombua (kuivattua merilevää), pyyhittynä puhtaaksi | forkrecipe-dashi-shiitake, forkrecipe-dashi-stock, forkrecipe-ichiban-dashi |
-| 8 | kuivattua sitruunankuorta | ½ dl kuivattua sitruunankuorta · 1¼ dl kuivattua sitruunankuorta | wikibooks-barbecue-rub, wikibooks-chipotle-bbq-rub, wikibooks-chop-rub |
+| 8 | manteliaromia | ½ tl manteliaromia · ½ tl manteliaromia tai 1 dl mantelirouhetta | wikibooks-agar-jelly, wikibooks-almond-fudge-brownies, wikibooks-almond-pancakes |
+| 8 | pikakahvijauhetta | 1 tl pikakahvijauhetta · 1 rkl pikakahvijauhetta | wikibooks-banana-coffee-frappe, wikibooks-chili-cornbread-casserole, wikibooks-chocolate-jalapeno-truffles |
 | 8 | chipotlejauhetta | 1¼ dl chipotlejauhetta · 3 rkl chipotlejauhetta | wikibooks-chipotle-bbq-rub, wikibooks-chipotle-fried-chicken, wikibooks-chipotle-sliders |
 | 8 | munuaistalia | 50 g munuaistalia tai voita · 200 g munuaistalia tai voita | kokkikirja-062, kokkikirja-216, kokkikirja-218 |
 | 8 | viinikastiketta | 2 dl viinikastiketta · 1 dl viinikastiketta | apicius-047, apicius-121, apicius-147 |
-| 7 | kefiiriä | 2½ dl kefiiriä · 2,5 dl kefiiriä tai piimää | kg-berry-beet-recovery-smoothie, unitools-varenyky-z-vyshnyamy, unitools-pelekie-zirni-ar-speki |
 | 7 | adobokastiketta | 1 tl adobokastiketta · 3 rkl adobokastiketta | kg-chipotle-mayo, wikibooks-chipotle-bbq-salmon-burgers, wikibooks-chipotle-dip |
 | 7 | naudan potkaa | 500 g naudan potkaa · 1 kg naudan potkaa tai lapaa, 3 cm:n kuutioina | kg-lanzhou-beef-noodle-soup, unitools-goulash, unitools-rendang |
 | 7 | minivaahtokarkkeja | 1¾ dl minivaahtokarkkeja · 1,5–2 l minivaahtokarkkeja | myplate-ambrosia, wikibooks-ambrosia-fruit-salad, wikibooks-marshmallow-rice-squares-i |
 | 7 | suolakeksiä | 6 suolakeksiä, murskattuna · 16 suolakeksiä, murskattuna (n. 1¼ dl) | myplate-broccoli-and-corn-bake, myplate-hooked-salmon-sticks, wikibooks-egg-pie |
-| 7 | appelsiininkuorta | 1 rkl appelsiininkuorta, raastettuna · 1 tl appelsiininkuorta, raastettuna | myplate-frosted-cake, myplate-ginger-orange-muffins, myplate-honey-pumpkin-bar |
-| 7 | mungpavun ituja | 150 g mungpavun ituja · 200 g mungpavun ituja | unitools-pad-thai, unitools-soto-ayam, unitools-char-kway-teow |
 | 7 | savustettuja porsaan ribsejä | 500 g savustettuja porsaan ribsejä · 200 g savustettuja porsaan ribsejä | unitools-feijoada, unitools-solyanka, unitools-sarmale |
 | 7 | paneeria | 300 g paneeria, 2 cm:n kuutioina · 200 g paneeria, 2 cm kuutioina | unitools-palak-paneer, forkrecipe-palak-paneer, forkrecipe-paneer-tikka |
 | 7 | nahallista porsaan kylkeä | 900 g nahallista porsaan kylkeä, 3 cm:n kuutioina · 600 g nahallista porsaan kylkeä | unitools-hong-shao-rou, unitools-bandeja-paisa, forkrecipe-porchetta |
@@ -113,9 +116,8 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 7 | maustekimppu | 1 maustekimppu (timjamia ja laakerinlehti) · 1 maustekimppu | forkrecipe-french-bouillabaisse, forkrecipe-sauce-robert, forkrecipe-sauce-tomate |
 | 7 | ras el hanout mausteseosta | 4 tl ras el hanout -mausteseosta · 2 rkl ras el hanout -mausteseosta | forkrecipe-lamb-tagine, forkrecipe-moroccan-couscous, forkrecipe-moroccan-lamb-tagine |
 | 7 | pavunituja | 80 g pavunituja, huuhdeltuina · 40 g pavunituja | forkrecipe-pad-thai, forkrecipe-prawn-laksa, wikibooks-cao-lu-vietnamese-pork-noodles-with-greens |
-| 7 | manteliaromia | ½ tl manteliaromia · ½ tl manteliaromia tai 1 dl mantelirouhetta | wikibooks-agar-jelly, wikibooks-almond-fudge-brownies, wikibooks-almond-pancakes |
 | 7 | omenahyytelöä | 1¾ dl omenahyytelöä · 1¼ dl omenahyytelöä | wikibooks-apple-bbq-sauce, wikibooks-apple-stuffing, wikibooks-cheese-stuffed-chicken-breasts |
-| 7 | pikakahvijauhetta | 1 tl pikakahvijauhetta · 1 rkl pikakahvijauhetta | wikibooks-banana-coffee-frappe, wikibooks-chili-cornbread-casserole, wikibooks-chocolate-jalapeno-truffles |
+| 7 | valkosipulikrutonkeja | 170 g valkosipulikrutonkeja · valkosipulikrutonkeja | wikibooks-barbecue-meatloaf, wikibooks-caesar-salad, wikibooks-italian-crispy-chicken |
 | 7 | kananmaksaa | 200 g kananmaksaa paistettuna · 150 g kananmaksaa hienonnettuna | apicius-125, apicius-144, apicius-166 |
 | 7 | karitsanpaistia | 800 g karitsanpaistia · 1,5 kg karitsanpaistia | apicius-358, apicius-359, apicius-361 |
 | 6 | kuivattuja sarviapilan lehtiä | 1 tl kuivattuja sarviapilan lehtiä (kasuri methi) · ½ tl kuivattuja sarviapilan lehtiä (kasuri methi) | kg-dal-fry-restaurant-style, kg-dal-makhani-light, unitools-murgh-makhani |
@@ -126,8 +128,8 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 6 | pancettaa | 200 g pancettaa tai savustettua pekonia, pieninä suikaleina · 100 g pancettaa | kg-spaghetti-alla-carbonara, unitools-lasagne-alla-bolognese, unitools-buseca |
 | 6 | naudan patalihaa | 1 kg naudan patalihaa, kuutioituna · 1 kg naudan patalihaa, 5 cm:n kuutioiksi leikattuna | myplate-bosnian-pot, wikibooks-cognac-beef-stew, wikibooks-julia-childs-boeuf-bourguignon |
 | 6 | herkkusientä | 16 herkkusientä, viipaloituna · 8 isoa herkkusientä (n. 7 cm) | myplate-broccoli-omelet, myplate-daves-herb-stuffed-mushrooms, myplate-spanish-omelet |
+| 6 | suklaakastiketta | suklaakastiketta (valinnainen) · 2 rkl suklaakastiketta | myplate-easiest-banana-ice-cream, wikibooks-banana-split-i, wikibooks-creamy-mascarpone-dessert |
 | 6 | kuivattua sipulisilppua | 1¾ dl kuivattua sipulisilppua · 1 tl kuivattua sipulisilppua | myplate-eating-smart-seasoning-mix, myplate-egg-foo-young, myplate-homemade-ranch-dressing |
-| 6 | appelsiinimehutiivistettä | 1¾ dl appelsiinimehutiivistettä, sulatettuna · 1 rkl appelsiinimehutiivistettä, sulatettuna | myplate-frozen-fruit-pops, myplate-frozen-pear-pops, myplate-fruit-dip |
 | 6 | marinarakastiketta | 1¼ dl marinara- tai tomaattikastiketta, lämmitettynä · 2½ dl marinarakastiketta | myplate-mozz-totz, myplate-quick-and-easy-pizza, wikibooks-matzah-lasagne |
 | 6 | sienikeittotiivistettä | 1 tlk (300 g) sienikeittotiivistettä, vähäsuolaista · 1,2 dl sienikeittotiivistettä | myplate-potato-beef-casserole, myplate-quick-tuna-casserole, wikibooks-chicken-rice-salad |
 | 6 | sitruunalohkoja | sitruunalohkoja (valinnainen) · sitruunalohkoja | myplate-sauteed-walleye-tarragon, forkrecipe-kitchari, forkrecipe-moroccan-chermoula-fish |
@@ -140,8 +142,8 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 6 | mirinia | 1 rkl mirinia · ½ dl mirinia (hon-mirin) | forkrecipe-agedashi-tofu, forkrecipe-dashi-beurre-blanc, forkrecipe-dashimaki-tamago |
 | 6 | niter kibbehiä | 4 rkl niter kibbehiä (etiopialaista mausteista voita) tai ghee-voita · 2 rkl niter kibbehiä (etiopialaista mausteista kirkastettua voita) tai voita/öljyä | forkrecipe-berbere-lamb-shoulder, wikibooks-doro-dabo-ethiopian-chicken-with-spiced-bread, wikibooks-gored-gored-ethiopian-raw-beef |
 | 6 | vesikrassia | 80 g vesikrassia, pestynä ja kuivattuna · vesikrassia koristeeksi | forkrecipe-bo-luc-lac, wikibooks-coronation-chicken, wikibooks-eggs-connaught |
+| 6 | pekonirasvaa | 60 g pekonirasvaa, sulatettuna · pekonirasvaa, laardia tai muuta rasvaa | forkrecipe-cornbread, wikibooks-chicken-paprikash, wikibooks-chicken-fried-steak |
 | 6 | bourbonia | 0,6 dl bourbonia · 1¾ dl bourbonia | forkrecipe-maple-bourbon-glaze, wikibooks-bourbon-apples, wikibooks-chocolate-bourbon-pecan-pie |
-| 6 | valkosipulikrutonkeja | 170 g valkosipulikrutonkeja · valkosipulikrutonkeja | wikibooks-barbecue-meatloaf, wikibooks-caesar-salad, wikibooks-meatloaf-dinner |
 | 6 | piparkakkumaustetta | 1 tl piparkakkumaustetta · ½ tl piparkakkumaustetta | wikibooks-cornish-fairing, wikibooks-maltese-rabbit-stew-stuffat-tal-fenek, wikibooks-nut-roast |
 | 6 | ravunlihaa | 450 g ravunlihaa tai ravunjäljitelmää · 2,4 dl ravunlihaa (200 g) | wikibooks-crab-cakes, wikibooks-crab-dip, wikibooks-crab-fried-rice |
 | 6 | rasvaa | rasvaa friteeraukseen · 40 g rasvaa (kylmää paistinfondia tai voita) | wikibooks-crullers-round, wikibooks-crullers-twisted, wikibooks-philosophers-stew |
@@ -150,7 +152,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 6 | keitettyä spelttiä | 3 dl keitettyä spelttiä · 2 dl keitettyä spelttiä | apicius-063, apicius-092, apicius-121 |
 | 5 | mustaa irtoteetä | 2 rkl mustaa irtoteetä · 8 g mustaa irtoteetä (Assam tai Ceylon) | kg-chinese-tea-eggs, forkrecipe-kombucha, wikibooks-basic-chai |
 | 5 | nori-levy | 1 nori-levy, suikaleina · 1 nori-levy | kg-japanese-mazesoba, kg-lentil-miso-soup, kg-light-miso-ramen-broth-bowl |
-| 5 | suklaakastiketta | suklaakastiketta (valinnainen) · 2 rkl suklaakastiketta | myplate-easiest-banana-ice-cream, wikibooks-banana-split-i, wikibooks-creamy-mascarpone-dessert |
 | 5 | soijantaimia | 2½ dl soijantaimia · 7 dl soijantaimia | myplate-egg-foo-young, myplate-five-happiness-fried-noodles, unitools-laksa-singapore |
 | 5 | tuoretta okraa | 4¾ dl tuoretta okraa, viipaloituna · 400 g tuoretta okraa, kannat poistettuna | myplate-lite-fried-okra, forkrecipe-okra-stew, wikibooks-fried-okra |
 | 5 | sinapinjauhetta | ½ tl sinapinjauhetta · 1 tl sinapinjauhetta | myplate-one-dish-roasted-potatoes-and-apples-chicken-sausage, wikibooks-california-curry-chicken, wikibooks-chicken-rice-salad |
@@ -168,8 +169,10 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 5 | masa harinaa | 500 g masa harinaa · 150 g masa harinaa | unitools-pastelitos-hondurenos, unitools-indio-viejo, forkrecipe-corn-tortillas |
 | 5 | scotch bonnet- | ½ scotch bonnet- tai habanero-chiliä, hienonnettuna · 2 scotch bonnet- tai punaista chiliä, hienonnettuna | forkrecipe-akara-bean-fritters, wikibooks-jamaican-curry-chicken-with-bullga, wikibooks-jerk-grilled-salmon |
 | 5 | daikonia | 300 g daikonia, kuorittuna ja 3 mm:n tikuiksi · 50 g daikonia tai retikkaa, raastettuna | forkrecipe-banh-mi-pickles, forkrecipe-shrimp-tempura, forkrecipe-sinigang-na-hipon |
-| 5 | pekonirasvaa | 60 g pekonirasvaa, sulatettuna · pekonirasvaa, laardia tai muuta rasvaa | forkrecipe-cornbread, wikibooks-chicken-paprikash, wikibooks-chicken-fried-steak |
+| 5 | tapiokatärkkelystä | 3 rkl tapiokatärkkelystä tai maissitärkkelystä · ½ dl tapiokatärkkelystä | forkrecipe-banh-xeo-batter, wikibooks-classic-american-apple-pie, wikibooks-lemon-meringue-pie-vegan |
+| 5 | mangojauhetta | 1 tl mangojauhetta (amchoor) · 1 tl mangojauhetta (amchur) | forkrecipe-chana-masala, wikibooks-aloo-tikki-spiced-potato-patties, wikibooks-bread-filled-with-potato-curry-pani-puri |
 | 5 | matchajauhetta | 1 tl matchajauhetta (valinnainen, väriksi) · 2 rkl matchajauhetta (n. 12 g) | forkrecipe-daifuku-mochi, forkrecipe-matcha-castella, forkrecipe-matcha-cheesecake |
+| 5 | sitruunahappoa | 25 g sitruunahappoa · 1 rkl sitruunahappoa | forkrecipe-elderflower-cordial, wikibooks-acid-drops, wikibooks-dolma-stuffed-grape-leaves |
 | 5 | kecap manista | 2 rkl kecap manista (makeaa soijakastiketta) · 20 ml kecap manista (makeaa soijakastiketta) | forkrecipe-gado-gado-sauce, forkrecipe-nasi-goreng-paste, forkrecipe-nasi-goreng |
 | 5 | curryn lehtiä | 8 g curryn lehtiä, tuoreita tai kuivattuja · 1 oksa curryn lehtiä | forkrecipe-kadhi, wikibooks-basin-ki-kadi-sindhi-chickpea-flour-curry, wikibooks-karnataka-style-rasam-tamarind-and-tomato-soup |
 | 5 | sianihraa | 1 kg sianihraa tai ankanrasvaa · sianihraa | forkrecipe-pork-belly-confit, wikibooks-fried-potato-slices, wikibooks-holzknechtnocken-austrian-boiled-dumplings |
@@ -193,6 +196,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 4 | tonkatsu-kastiketta | tonkatsu-kastiketta · 3 rkl tonkatsu-kastiketta (worcestershire-pohjainen) | kg-chicken-katsu-with-shredded-cabbage, forkrecipe-japanese-curry, forkrecipe-japanese-tonkatsu |
 | 4 | tzatzikia | 150 g tzatzikia (kurkkujogurttia) · 2½ dl tzatzikia | kg-crispy-chickpea-shawarma-bowls, kg-gyro-bowls, wikibooks-chicken-gyros |
 | 4 | vuohenlihaa | 1,5 kg vuohenlihaa (luineen), paloiteltuna · 2 kg vuohenlihaa (reisi tai kylki), isoina paloina | kg-curry-goat-serves-56, unitools-nyama-choma, wikibooks-goat-meat-stew |
+| 4 | krutonkeja | krutonkeja (valinnainen) · krutonkeja | kg-gazpacho-soup, wikibooks-alsatian-fish-stew-matelote-de-poissons-dalsace, wikibooks-cao-lu-vietnamese-pork-noodles-with-greens |
 | 4 | yuzumehua | 4 rkl yuzu- tai sitruunamehua · 1 dl yuzumehua (tai puoliksi sitruuna- ja limetinmehua) | kg-japanese-ponzu-sauce, forkrecipe-ponzu, forkrecipe-tuna-tataki |
 | 4 | kimchiä | 150 g kimchiä, pilkottuna · 1 dl kimchiä | kg-kimchi-udon-stir-fry, kg-korean-bibim-guksu, kg-spicy-korean-ramyeon-upgrade |
 | 4 | porsaan kylkiluita | 500 g porsaan kylkiluita · 800 g porsaan kylkiluita | kg-sinigang-na-baboy-filipino-sour-pork-soup, unitools-curanto-en-olla, wikibooks-brazilian-feijoada |
@@ -223,19 +227,19 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 4 | naudan pötsiä | 1 kg naudan pötsiä, puhdistettuna · naudan pötsiä (valinnainen) | unitools-buseca, wikibooks-ayamase-jollof-rice, wikibooks-menudo-mexican-tripe-and-hominy-soup |
 | 4 | banaanilehteä | 20 banaanilehteä · 5 banaanilehteä (tarjoilualustaksi) | unitools-hallaca, unitools-vigoron, unitools-koki-corn |
 | 4 | mejoranaa | 1 tl mejoranaa · 2 rkl mejoranaa | unitools-kugelis, unitools-verivorst, unitools-kolduny |
-| 4 | tapiokatärkkelystä | 3 rkl tapiokatärkkelystä tai maissitärkkelystä · ½ dl tapiokatärkkelystä | forkrecipe-banh-xeo-batter, wikibooks-classic-american-apple-pie, wikibooks-raspberry-shortbread-bars |
-| 4 | mangojauhetta | 1 tl mangojauhetta (amchoor) · 1 tl mangojauhetta (amchur) | forkrecipe-chana-masala, wikibooks-aloo-tikki-spiced-potato-patties, wikibooks-bread-filled-with-potato-curry-pani-puri |
-| 4 | sitruunahappoa | 25 g sitruunahappoa · 1 rkl sitruunahappoa | forkrecipe-elderflower-cordial, wikibooks-acid-drops, wikibooks-dolma-stuffed-grape-leaves |
 | 4 | tuoretta kirveliä | 1 rkl tuoretta kirveliä, hienonnettuna · tuoretta kirveliä tai rakuunaa koristeeksi | forkrecipe-gribiche, forkrecipe-lobster-bisque, forkrecipe-ravigote |
 | 4 | kalmaria | 100 g kalmaria, puhdistettuna ja renkaiksi leikattuna · 1,4 kg kalmaria, kuutioituna | forkrecipe-korean-haemul-pajeon, wikibooks-arroz-negro-valencian-squid-rice, wikibooks-mc-nhi-tht-vietnamese-stuffed-squid |
 | 4 | pikaespressojauhetta | 2 rkl pikaespressojauhetta · 1 rkl pikaespressojauhetta | forkrecipe-opera-cake, wikibooks-atkins-friendly-mock-tiramisu, wikibooks-espresso-brownies |
 | 4 | juustokuminansiemeniä | 20 g juustokuminansiemeniä · 1 rkl juustokuminansiemeniä | forkrecipe-ras-el-hanout, wikibooks-chili-powder-ii, wikibooks-deep-fried-black-lentil-and-rice-flour-dough-balls-murukku |
+| 4 | cm pala kombua | 10 cm pala kombua · 5 cm pala kombua | forkrecipe-shoyu-tare, forkrecipe-soba-tsuyu, forkrecipe-soft-boiled-ramen-eggs |
 | 4 | vihreä | 1 vihreä ja 1 punainen paprika, renkaina · 1 vihreä tai punainen paprika, pilkottuna | forkrecipe-shrimp-moqueca, wikibooks-corn-and-kelp-chowder, wikibooks-meatloaf-dinner |
 | 4 | makeutettua maitotiivistettä | ½ dl makeutettua maitotiivistettä · 1 tlk (397 g) makeutettua maitotiivistettä | forkrecipe-thai-iced-tea, forkrecipe-tres-leches-cake, forkrecipe-vietnamese-iced-coffee |
 | 4 | tähtianis | 1 tähtianis (valinnainen) · 1 tähtianis, jauhettuna | forkrecipe-thai-iced-tea, wikibooks-asian-grilled-duck-breasts, wikibooks-indian-baked-yoghurt-with-saffron-and-cardamom |
+| 4 | raastettua maniokkia | 1,4 kg raastettua maniokkia (myös pakaste) · 5 dl raastettua maniokkia | wikibooks-accra-cassava-cameroonian-cassava-fritters, wikibooks-chishimba-zambian-cassava-cake, wikibooks-mbatata-a-matenda-malawian-cassava-fritters |
 | 4 | hiivauutetta | ½ rkl hiivauutetta (Marmite) · 1 tl hiivauutetta (Marmite) | wikibooks-ale-mustard-and-winter-vegetable-pie, wikibooks-brown-gravy, wikibooks-ground-tofu |
 | 4 | colaa | 1¾ dl colaa · 1½ tlk (n. 5 dl) colaa | wikibooks-apple-crusted-ham, wikibooks-cola-bbq-sauce, wikibooks-cola-cake |
 | 4 | perunamuusia | perunamuusia · 225 g perunamuusia | wikibooks-austrian-meatloaf-faschierter-braten, wikibooks-cullen-skink-haddock-and-potato-soup, wikibooks-daniel-websters-chowder |
+| 4 | nestemäistä savuaromia | 4 tl nestemäistä savuaromia · ¼ tl nestemäistä savuaromia | wikibooks-barbecue-sauce-kansas-city-style, wikibooks-beef-jerky, wikibooks-mexican-tequila-marinade |
 | 4 | kirsikkapiirakkatäytettä | 600 g kirsikkapiirakkatäytettä tai kirsikkakiisseliä · 1 tlk (450 g) kirsikkapiirakkatäytettä | wikibooks-black-forest-torte, wikibooks-cherry-cobbler-in-a-crock-pot, wikibooks-cherry-delight |
 | 4 | raaka piirakkapohja | 1 raaka piirakkapohja (23 cm) · 1 raaka piirakkapohja | wikibooks-blueberry-cream-pie, wikibooks-choco-nutty-pie, wikibooks-pumpkin-pie-i |
 | 4 | tamarindimehua | 3 rkl tamarindimehua (tai 1 tl tamarinditiivistettä) · 1,2 dl tamarindimehua | wikibooks-burmese-pork-curry, wikibooks-curried-chiles-mirchi-ka-salan, wikibooks-pad-thai |
@@ -255,11 +259,11 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | tomaattiviipaleita | tomaattiviipaleita · tomaattiviipaleita (valinnainen) | kg-classic-smash-burgers, myplate-falafel-yogurt-sandwich, myplate-pear-salad |
 | 3 | piparjuuritahnaa | 2 rkl piparjuuritahnaa · piparjuuritahnaa | kg-cocktail-sauce, wikibooks-alabama-white-sauce, wikibooks-mustard-dip |
 | 3 | minttulehteä | 8 minttulehteä · 3 minttulehteä (valinnainen) | kg-cucumber-mint-buttermilk-cooler, myplate-banana-split-oatmeal, wikibooks-summer-pudding |
-| 3 | krutonkeja | krutonkeja (valinnainen) · krutonkeja | kg-gazpacho-soup, wikibooks-alsatian-fish-stew-matelote-de-poissons-dalsace, wikibooks-cao-lu-vietnamese-pork-noodles-with-greens |
 | 3 | sambalia | sambalia | kg-malaysian-hokkien-mee, kg-malaysian-laksa-lemak-noodles, kg-mee-siam-tangy-rice-vermicelli |
 | 3 | kalakakkua | 100 g kalakakkua, viipaloituna | kg-malaysian-laksa-lemak-noodles, kg-okinawa-soba, kg-udon-in-light-curry-broth |
 | 3 | jicama | 1 jicama (mukulapapu), kuutioituna · 1 pieni jicama, suikaleina (valinnainen) | kg-malaysian-rojak-buah, myplate-grilled-lamb-salad, myplate-tangy-jicama-slaw |
 | 3 | sambar-mausteseosta | 2 rkl sambar-mausteseosta · 3 rkl sambar-mausteseosta | kg-mixed-dal-with-drumstick, kg-toor-dal-sambar, forkrecipe-sambar |
+| 3 | mangochutneyta | 2 tl mangochutneyta · 1 rkl mangochutneyta | kg-quick-chicken-korma, wikibooks-beef-curry, wikibooks-sweet-southern-chicken-salad |
 | 3 | vasikanleikettä | 8 ohutta vasikanleikettä · 4 vasikanleikettä (à 150 g) | kg-rolitos-stuffed-veal-rolls, unitools-wiener-schnitzel, forkrecipe-saltimbocca |
 | 3 | aktiivista hapanjuurta | 1 rkl aktiivista hapanjuurta · 100 g aktiivista hapanjuurta | kg-sourdough, forkrecipe-sourdough-focaccia, forkrecipe-sourdough-sandwich-loaf |
 | 3 | osterivinokkaita | 400 g osterivinokkaita, hienonnettuna · 100 g osterivinokkaita, revittyinä | kg-thai-larb-salad-mushroom, forkrecipe-tom-kha-gai, forkrecipe-tom-yum-soup |
@@ -287,6 +291,8 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | ruskeita | 1¼ dl ruskeita tai punaisia linssejä · 200 g ruskeita tai vihreitä linssejä | myplate-lentil-minestrone, forkrecipe-mujaddara, wikibooks-nigerian-lentil-porridge |
 | 3 | punainen | 1 iso punainen, keltainen tai valkoinen sipuli, hienonnettuna · 1 punainen ja 1 vihreä paprika, kuutioituna | myplate-lentil-soup, wikibooks-igbindodo-nigerian-snail-and-plantain-stew, wikibooks-shakshuka-ii |
 | 3 | limelohkoja | limelohkoja · limelohkoja (tarjoiluun) | myplate-lime-marinated-flank-steak-stuffed-poblano-peppers, forkrecipe-camarones-mojo-de-ajo, forkrecipe-tacos-al-pastor |
+| 3 | kuivattua rakuunaa | ¼ tl kuivattua rakuunaa · ½ tl kuivattua rakuunaa | myplate-low-fat-ranch-dip, wikibooks-garlic-and-tarragon-dressing, wikibooks-smoked-salmon-chowder |
+| 3 | persikkaviipaleita | 1 tlk (425 g) persikkaviipaleita, valutettuina · 1 tlk (410 g) persikkaviipaleita | myplate-peanut-peach-n-pineapple-wrap, wikibooks-bltkake-norwegian-berries-and-cream-cake, wikibooks-sweet-peach-cobbler |
 | 3 | lehtiselleriversaa | 4 keskikokoista lehtiselleriversaa, puhdistettuina ja 7–8 cm:n paloiksi leikattuina · 3 lehtiselleriversaa, pilkottuina | myplate-pears-pod, myplate-potato-salad-0, myplate-potato-skins-buffalo-chicken |
 | 3 | porsaan sisäfilettä | 450 g porsaan sisäfilettä, 4 cm:n kuutioina · 600 g porsaan sisäfilettä | myplate-pork-power-bowl, formeofcury-fylettes-of-galyntyne, formeofcury-vyne-grace |
 | 3 | vähäsuolaista tomaattimehua | 1¼ dl vähäsuolaista tomaattimehua · 6 dl vähäsuolaista tomaattimehua | myplate-pot-roasted-beef, myplate-two-bean-chili, myplate-zesty-skillet-zucchini |
@@ -295,6 +301,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | vaniljavanukasjauhetta | 1 pkt (100 g) vaniljavanukasjauhetta (pikavanukas) · 2 pkt (à 100 g) vaniljavanukasjauhetta (pikavanukas) | myplate-shake-pudding, myplate-southern-banana-pudding, wikibooks-mandarin-orange-cake |
 | 3 | vähäsuolaisia tomaattipaloja | 2 tlk (à 400 g) vähäsuolaisia tomaattipaloja · 1 tlk (400 g) vähäsuolaisia tomaattipaloja, valumatta | myplate-skillet-meals, myplate-spanish-rice, myplate-spicy-okra |
 | 3 | paperipillejä | paperipillejä tai jäätelötikkuja · paperipillejä tai tikkuja | myplate-strawberry-kiwi-yogurt-pops, myplate-strawberry-yogurt-pops, myplate-tropical-yogurt-pops |
+| 3 | paistamaton piirakkapohja | 1 paistamaton piirakkapohja (n. 23 cm) · 1 paistamaton piirakkapohja (23 cm), esim. pâte brisée | myplate-sweet-potato-pie, forkrecipe-pecan-pie-filling, wikibooks-layered-pecan-pie |
 | 3 | kiinteää | 400 g kiinteää tai extrakiinteää tofua (tai silkkitofua), kuivattuna ja 1¼ cm kuutioiksi leikattuna · 2 kiinteää, hapanta omenaa (esim. Granny Smith), lohkoina | myplate-tofu-tomato-and-spinach-soup, forkrecipe-cider-braised-pork-shoulder, wikibooks-mango-chutney-chunky |
 | 3 | vihanneksia | 7½ dl vihanneksia, paloiteltuna (esim. parsakaalia, herkkusieniä, pinaattia ja punaista paprikaa, tai suosikkivihanneksiasi) · n. 500 g vihanneksia (esim. tomaattia, porkkanaa ja perunaa), paloina | myplate-tortilla-pizzas, wikibooks-damoda-groundnut-stew, apicius-146 |
 | 3 | sitruunalohko | sitruunalohko (valinnainen) · 1 iso sitruunalohko | myplate-veggie-loaded-mashed-potato-bowl, wikibooks-pan-fried-white-brined-cheese-saganaki, wikibooks-pear-and-almond-smoothie-vegan |
@@ -303,6 +310,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | kokonaisia vehnänjyviä | 400 g kokonaisia vehnänjyviä, liotettuna yön yli · 300 g kokonaisia vehnänjyviä, liotettuna yön yli | unitools-harees, unitools-haleem, wikibooks-hyderabadi-haleem-ground-meat-and-wheat |
 | 3 | tuoretta raastettua kookosta | 200 g tuoretta raastettua kookosta · 4,8 dl tuoretta raastettua kookosta | unitools-mas-huni, wikibooks-coconut-chutney-north-indian, wikibooks-rice-modak-coconut-pastries-i |
 | 3 | pandaaninlehti | 1 pandaaninlehti | unitools-garudhiya, unitools-sri-lankan-fish-curry, wikibooks-bubur-candil-sweet-glutinous-rice-balls-in-coconut-sauce |
+| 3 | urad dalia | 100 g urad dalia (mustia linssejä), liotettuna 6 tuntia · 2½ dl urad dalia (mustaa linssiä) | unitools-masala-dosa, wikibooks-ragi-dosa-south-indian-millet-and-rice-pancake, wikibooks-upma-indian-semolina-porridge |
 | 3 | hikkori- | 300 g hikkori- tai omenapuulastuja · hikkori- ja omenapuulastuja | unitools-pulled-pork, wikibooks-baby-back-ribs, wikibooks-maple-barbecue-baby-back-ribs |
 | 3 | sellerinlehtiä | 30 g sellerinlehtiä · sellerinlehtiä, hienonnettuna | unitools-erwtensoep, wikibooks-kawlata-maltese-vegetable-and-pork-soup, wikibooks-tripes-la-mode-de-caen-norman-stewed-tripe |
 | 3 | häränhäntää | 1,5 kg häränhäntää, paloina · 1,4 kg häränhäntää, 4–5 cm paloina | unitools-kare-kare, forkrecipe-tamarind-braised-oxtail, wikibooks-kare-kare-oxtail-and-vegetables-in-peanut-sauce |
@@ -316,6 +324,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | dashia | 2½ dl dashia (kombu ja katsuobushi) · 3,5 dl dashia, haaleaa | forkrecipe-agedashi-tofu, forkrecipe-chawanmushi, forkrecipe-japanese-mayonnaise |
 | 3 | kuivattuja hibiskuksenkukkia | 60 g kuivattuja hibiskuksenkukkia (jamaica) · 100 g kuivattuja hibiskuksenkukkia (zobo) | forkrecipe-agua-de-jamaica, wikibooks-zobo-nigerian-roselle-beverage, wikibooks-zobo-and-ginger-fruit-punch |
 | 3 | tuoretta muskottipähkinää | ripaus tuoretta muskottipähkinää · ¼ tl tuoretta muskottipähkinää | forkrecipe-bechamel, forkrecipe-butternut-squash-sage-pasta, forkrecipe-butternut-squash-veloute |
+| 3 | agar-agar-jauhetta | 1 tl agar-agar-jauhetta (4 g) · 5 g agar-agar-jauhetta | forkrecipe-black-sesame-pudding, wikibooks-agar-jelly, wikibooks-lemon-meringue-pie-vegan |
 | 3 | kananrunkoja | 2 kg kananrunkoja ja siipiä · 1,5 kg kananrunkoja ja luita | forkrecipe-brown-chicken-stock, forkrecipe-chicken-bone-broth, wikibooks-chicken-stock |
 | 3 | kuivaa marsalaviiniä | 1,8 dl kuivaa marsalaviiniä · 2,4 dl kuivaa marsalaviiniä | forkrecipe-chicken-marsala, wikibooks-chicken-marsala-ii, wikibooks-marsala-chicken-scallopini |
 | 3 | ankanrasvaa | 800 g ankanrasvaa · 700 g ankanrasvaa | forkrecipe-confit-canard, forkrecipe-duck-confit, wikibooks-choucroute-sauerkraut-with-meat-and-potatoes |
@@ -330,15 +339,14 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | aktiivista vehnähapanjuurta | 80 g aktiivista vehnähapanjuurta (100 % hydraatio) · 100 g aktiivista vehnähapanjuurta (100 % hydraatio) | forkrecipe-pain-de-campagne, forkrecipe-sourdough-boule, forkrecipe-sourdough-country-loaf |
 | 3 | porsaan sorkkaa | 2 porsaan sorkkaa, halkaistuina · 2 porsaan sorkkaa, 1 cm:n paloiksi sahattuna | forkrecipe-pozole-rojo, wikibooks-vietnamese-rice-noodle-and-beef-soup-bn-b-hu, apicius-255 |
 | 3 | sukaattia | 50 g sukaattia tai tuoreita marjoja koristeeksi · 25 g sukaattia | forkrecipe-semifreddo, wikibooks-christmas-pudding-i, wikibooks-nuremberg-gingerbread |
-| 3 | cm pala kombua | 10 cm pala kombua · 5 cm pala kombua | forkrecipe-shoyu-tare, forkrecipe-soba-tsuyu, forkrecipe-soft-boiled-ramen-eggs |
+| 3 | savustuspuuta | savustuspuuta (tammi tai pyökki) · savustuspuuta (mesquite tai leppä) | forkrecipe-smoked-brisket, wikibooks-smoked-garlic-chicken, wikibooks-smoked-pork-roast |
 | 3 | luullista karitsanlapaa | 2,2 kg luullista karitsanlapaa · 1,2 kg luullista karitsanlapaa, 7 cm paloina | forkrecipe-spiced-lamb-shoulder, forkrecipe-tagine-lamb-chickpea, forkrecipe-tagine-lamb |
 | 3 | tamarinditiivistettä | 1 rkl tamarinditiivistettä · 2½ dl tamarinditiivistettä (tamarinditahnaliuosta) | forkrecipe-thai-nam-jim-jaew, wikibooks-pulikkachal-tamil-spiced-tamarind-paste, wikibooks-puliyodarai-south-indian-tamarind-rice |
-| 3 | raastettua maniokkia | 1,4 kg raastettua maniokkia (myös pakaste) · 5 dl raastettua maniokkia | wikibooks-accra-cassava-cameroonian-cassava-fritters, wikibooks-chishimba-zambian-cassava-cake, wikibooks-mbatata-a-matenda-malawian-cassava-fritters |
+| 3 | kardemummakapselia | 4 kardemummakapselia, murskattuina · 3 kardemummakapselia | forkrecipe-worcestershire-sauce, wikibooks-simple-biryani, kokkikirja-298 |
 | 3 | raastettua fontinaa | 60 g raastettua fontinaa · ½ dl raastettua fontinaa | wikibooks-adult-macaroni-and-cheese, wikibooks-apple-stuffing, wikibooks-stovetop-mac-n-cheese |
 | 3 | naudan munuaisrasvaa | 50–60 g naudan munuaisrasvaa, hienonnettuna · 250 g naudan munuaisrasvaa (tai kasvisrasvaa), hienoksi jauhettuna | wikibooks-arambasici-croatian-sour-cabbage-rolls, wikibooks-mincemeat-tart, wikibooks-original-texas-style-chili |
 | 3 | culantro-lehteä | 10 culantro-lehteä (tai kourallinen korianteria lisää) · 5 culantro-lehteä (tai lisää korianteria) | wikibooks-arroz-con-gandules-puerto-rican-rice-and-pigeon-peas, wikibooks-pion-spanish-stovetop-pot-pie, wikibooks-recato-puerto-rican-culantro-sauce |
 | 3 | sahraminlankaa | 8 sahraminlankaa · 10 sahraminlankaa | wikibooks-arroz-con-pollo-rice-and-chicken, wikibooks-bouillabaisse |
-| 3 | nestemäistä savuaromia | 4 tl nestemäistä savuaromia · ¼ tl nestemäistä savuaromia | wikibooks-barbecue-sauce-kansas-city-style, wikibooks-beef-jerky, wikibooks-mexican-tequila-marinade |
 | 3 | täytettä | 1 dl täytettä (esim. paistettuja sieniä, pinaattia, tomaattia, juustoa tai kinkkua) · ½ dl täytettä (ks. vaihtoehdot) | wikibooks-basic-omelet, wikibooks-quesadilla, wikibooks-yeasted-kifli |
 | 3 | guacamolea | guacamolea · 1 dl guacamolea | wikibooks-beef-fajitas, wikibooks-macho-nachos, wikibooks-roasted-chicken-nachos-with-green-chili-cheese-sauce |
 | 3 | vaniljakastiketta | 3 dl vaniljakastiketta (paksua) · vaniljakastiketta | wikibooks-bltkake-norwegian-berries-and-cream-cake, wikibooks-germkndel-plum-and-poppy-seed-dumpling, wikibooks-trifle |
@@ -362,6 +370,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | kananmaksoja | 225 g kananmaksoja (valinnainen) · 350 g kananmaksoja, puolitettuina | wikibooks-dirty-rice, wikibooks-rumaki-bacon-wrapped-chicken-liver-and-water-chestnut, formeofcury-crotoun |
 | 3 | ananasviipaleita | 1 tlk (n. 400 g) ananasviipaleita tai -murskaa · 1 tlk ananasviipaleita | wikibooks-dole-pineapple-upside-down-cake, wikibooks-pineapple-upside-down-cake-i, wikibooks-pineapple-upside-down-cake-in-a-skillet |
 | 3 | berberemaustesekoitusta | 1 rkl berberemaustesekoitusta · 1 tl berberemaustesekoitusta | wikibooks-fasolia-ethiopian-green-bean-stew, wikibooks-firfir-ethiopian-spicy-scrambled-eggs-with-injera, wikibooks-fit-fit-ethiopian-bread-salad |
+| 3 | munanvalkuaisia | 250 g munanvalkuaisia · 225 g munanvalkuaisia (n. 7 kpl) | wikibooks-french-meringue, wikibooks-italian-meringue, wikibooks-swiss-meringue |
 | 3 | kasvisrasvaa | 70 g kasvisrasvaa · 2 rkl kasvisrasvaa | wikibooks-fried-apple-pies, wikibooks-fry-bread-i, wikibooks-fusion-spice-cookie-gluten-free |
 | 3 | paratiisinjyviä | paratiisinjyviä (alligaattoripippuria) · ¼ tl paratiisinjyviä tai mustapippuria | wikibooks-fura-da-nono-milk-and-kefir-porridge, wikibooks-jerk-grilled-salmon, formeofcury-sawse-noyre-for-capouns-yrosted |
 | 3 | habanero- | 2 habanero- tai scotch bonnet -chiliä (rodo) · ¼ habanero- tai scotch bonnet -chiliä, siemenet poistettuina ja hienonnettuna | wikibooks-gbegiri-yoruba-bean-soup, wikibooks-shrimp-and-sea-bass-ceviche, wikibooks-spicy-mexican-omelet |
@@ -373,11 +382,15 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 3 | elintarvikeväriä | elintarvikeväriä (valinnainen) · elintarvikeväriä | wikibooks-jhilinga-nepalese-rice-fritters, wikibooks-khanom-salim-sweet-mung-bean-threads-with-coconut-syrup, wikibooks-kuih-lapis-malaysian-layered-steamed-confection |
 | 3 | ukpakaa | 100 g ukpakaa (fermentoituja öljypuun siemeniä) · 100 g ukpakaa, murskattuna | wikibooks-ji-abubo-nigerian-yam-and-vegetable-sauce, wikibooks-ji-akwukwo-nigerian-yam-and-vegetables, wikibooks-ugba-stew |
 | 3 | lampaan- | 900 g lampaan- tai lampaankaulaa · n. 500 g lampaan- tai naudanmaksaa, viipaloituna | wikibooks-lancashire-hotpot, wikibooks-liver-and-onions, apicius-292 |
+| 3 | simpukanlihaa | 650 g simpukanlihaa (purkissa tai pakasteena), liemi talteen · 450 g simpukanlihaa (purkki tai pakaste), hienonnettuna, liemi talteen | wikibooks-manhattan-clam-chowder-ii, wikibooks-new-england-clam-chowder, wikibooks-southern-clam-chowder |
 | 3 | ribsimaustetta | 1 dl ribsimaustetta · 6 rkl ribsimaustetta | wikibooks-maple-barbecue-baby-back-ribs, wikibooks-memphis-style-bbq-ribs, wikibooks-north-carolina-style-bbq-ribs |
 | 3 | porsaan kylkiribsejä 1 | 1 levy porsaan kylkiribsejä (n. 1,5 kg) | wikibooks-maple-glazed-bbq-ribs, wikibooks-memphis-style-bbq-ribs, wikibooks-north-carolina-style-bbq-ribs |
 | 3 | banaaninlehtiä | banaaninlehtiä (valinnainen) · banaaninlehtiä tai kuumuutta kestäviä muovipusseja | wikibooks-obuwunga-ugandan-traditional-bread, wikibooks-okpa-boiled-bambara-bean-pudding, wikibooks-pepes-ikan-indonesian-steamed-fish |
 | 3 | pippurinjyviä | ½ dl pippurinjyviä, murskattuna · 1 tl pippurinjyviä | wikibooks-pepper-crusted-flank-steak, wikibooks-ph-g-vietnamese-chicken-noodle-soup, wikibooks-roasted-brined-turkey-i |
+| 3 | hoisin-kastiketta | hoisin-kastiketta · hoisin-kastiketta (1 tl per annos) | wikibooks-ph-b-vietnamese-beef-noodle-soup, wikibooks-ph-g-vietnamese-chicken-noodle-soup, wikibooks-sweet-and-spicy-shrimp |
 | 3 | currylehteä | 5 currylehteä · 4–5 currylehteä | wikibooks-potato-curry-aloo-masala, wikibooks-puliyodarai-south-indian-tamarind-rice, wikibooks-rasam-tamarind-and-tomato-soup |
+| 3 | luutonta porsaan ulkofilettä | 1,8 kg luutonta porsaan ulkofilettä | wikibooks-smoked-pork-roast, wikibooks-sweet-and-sour-pork-loin, wikibooks-wine-roasted-pork-roast |
+| 3 | ydinluita | 900 g ydinluita · 450 g ydinluita | wikibooks-tripes-la-mode-de-caen-norman-stewed-tripe, wikibooks-veal-stock, kokkikirja-006 |
 | 3 | persiljanjuuri | 1 persiljanjuuri | kokkikirja-001, kokkikirja-003, kokkikirja-010 |
 | 3 | sahtia | 1,3 l sahtia tai tummaa olutta · 3 dl sahtia tai tummaa olutta | kokkikirja-036, kokkikirja-037, kokkikirja-155 |
 | 3 | lampaanrintaa | 1,2 kg lampaanrintaa paloina · 1 kg lampaanrintaa | kokkikirja-076, kokkikirja-077, kokkikirja-078 |
@@ -409,7 +422,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | kombu-levän pala | 1 kombu-levän pala | kg-japanese-ponzu-sauce, kg-japanese-tsukemono-quick-pickles |
 | 2 | soijapavun ituja | 400 g soijapavun ituja · 150 g soijapavun ituja | kg-korean-bean-sprout-salad-kongnamul-muchim, unitools-bibimbap |
 | 2 | perillanlehtiä | perillanlehtiä tarjoiluun (valinnainen) · 10 g perillanlehtiä, viipaloituna | kg-korean-dak-galbi, wikibooks-euneo-juk-korean-sweetfish-porridge |
-| 2 | mangochutneyta | 2 tl mangochutneyta · 1 rkl mangochutneyta | kg-quick-chicken-korma, wikibooks-beef-curry |
+| 2 | daikon | 1 daikon (valkoretiisi), viipaloituna · 1 daikon tai retikka, viipaleina | kg-lanzhou-beef-noodle-soup, wikibooks-sinigang-philippine-sour-soup |
 | 2 | kuivattua yrttisekoitusta | 1 tl kuivattua yrttisekoitusta · 1 rkl kuivattua yrttisekoitusta | kg-roast-salmon-with-peas-potatoes-chorizo, wikibooks-stuffing |
 | 2 | polentaa | polentaa · polentaa tai maissijauhoja leivinpaperille | kg-sarmale, kg-sourdough-pizza |
 | 2 | nestesavua | 1 tl nestesavua | kg-seitan-steak, wikibooks-dutch-oven-beans |
@@ -429,18 +442,18 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | banaaniviipaleita | 2½ dl banaaniviipaleita · 3½ dl banaaniviipaleita (n. 16 viipaletta) | myplate-fruit-and-peanut-butter-dip, myplate-fruit-kabob |
 | 2 | vesimelonipaloja | 4¾ dl vesimelonipaloja · 2½ dl vesimelonipaloja | myplate-fruit-feta-salad, myplate-fruit-kabobs-yogurt-dip |
 | 2 | vesimelonikuutioita | 3½ dl vesimelonikuutioita (n. 16 kuutiota) · 7 dl vesimelonikuutioita | myplate-fruit-kabob, myplate-melon-and-mint |
+| 2 | jicamaa | 7 dl jicamaa, pieninä viipaleina · 3,5 dl jicamaa tai retikkaa, hienonnettuna | myplate-fruit-salad-jicama, wikibooks-island-salsa-salad |
 | 2 | bambuvartaita | bambuvartaita | myplate-grilled-lamb-salad, myplate-grilled-shrimp-cantaloupe-avocado-salsa |
 | 2 | vähäsuolaista tomaattikeittotiivistettä | 1 tlk (300 g) vähäsuolaista tomaattikeittotiivistettä | myplate-ground-beef-stew, myplate-round-steak-casserole |
 | 2 | maissihiutalemurskaa | 2½ dl maissihiutalemurskaa (n. 5 dl hiutaleita) · 1¼ dl maissihiutalemurskaa (tai tavallista korppujauhoa) | myplate-hot-wing-flavored-chicken-ranch-sauce, myplate-mouth-watering-oven-fried-fish |
 | 2 | grahamkeksiä | 8 grahamkeksiä, murskattuna · 2 grahamkeksiä | myplate-lemon-velvet-supreme, wikibooks-campfire-smores |
-| 2 | kuivattua rakuunaa | ¼ tl kuivattua rakuunaa · ½ tl kuivattua rakuunaa | myplate-low-fat-ranch-dip, wikibooks-garlic-and-tarragon-dressing |
 | 2 | pakastekasviksia | 5 dl pakastekasviksia, suolattomia (tai tuoreita tai tähteitä) · 450 g pakastekasviksia | myplate-magic-crust-quiche, wikibooks-bean-soup-vegetarian |
 | 2 | samettijalkoja | 225 g samettijalkoja tai ruskeita herkkusieniä · 7½ dl samettijalkoja tai herkkusieniä, viipaloituna | myplate-mushroom-beef-sloppy-joes, myplate-mushroom-steak-fajitas |
 | 2 | raparperipaloja | 10 dl raparperipaloja (1 cm:n paloja) · 6 dl raparperipaloja (n. 550 g) | myplate-passover-rhubarb-cobbler, wikibooks-strawberry-rhubarb-pie |
 | 2 | italialaista salaattikastiketta | ½ dl italialaista salaattikastiketta · 1 dl italialaista salaattikastiketta (pullossa) | myplate-pasta-vegetable-salad, wikibooks-corn-bread-fish |
 | 2 | granolaa | 2 rkl granolaa · 2,5 dl granolaa tai kaurahiutaleita | myplate-peanut-butter-and-apple-wraps, wikibooks-chocolate-chip-pumpkin-cookies |
-| 2 | persikkaviipaleita | 1 tlk (425 g) persikkaviipaleita, valutettuina · 1 tlk (410 g) persikkaviipaleita | myplate-peanut-peach-n-pineapple-wrap, wikibooks-bltkake-norwegian-berries-and-cream-cake |
 | 2 | kurpitsapiirakkamausteseosta | 1¼ tl kurpitsapiirakkamausteseosta · 1 tl kurpitsapiirakkamausteseosta | myplate-perfect-pumpkin-pancakes, myplate-pumpkin-angel-food-cake |
+| 2 | porsaan ulkofilettä | 550 g porsaan ulkofilettä · 600 g porsaan ulkofilettä, 3 cm paloina ja kevyesti nuijittuna | myplate-pork-loin-roast-veggies, wikibooks-sweet-and-sour-chinese-pork |
 | 2 | rasvatonta ricottaa | 1¾ dl rasvatonta ricottaa (tai raejuustoa) · 1¼ dl rasvatonta ricottaa (tai raejuustoa) | myplate-potato-spinach-lasagna, myplate-roasted-brussels-sprouts-potatoes-and-chicken |
 | 2 | kevyttä italialaista salaattikastiketta | 1¼ dl kevyttä italialaista salaattikastiketta | myplate-rainbow-veggie-salad, myplate-spinach-rice-salad |
 | 2 | vähäsuolaisia tomaattipalkkoja | 2 tlk (400 g) vähäsuolaisia tomaattipalkkoja · 2 tlk (400 g) vähäsuolaisia tomaattipalkkoja, valutettuina | myplate-red-beans-and-rice1, myplate-salsa1 |
@@ -452,7 +465,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | tulikastiketta | 2 rkl tulikastiketta · tulikastiketta | myplate-spicy-oven-baked-chicken, forkrecipe-baja-fish-tacos |
 | 2 | tuoretta herkkusientä | 6 isoa tuoretta herkkusientä, ohuiksi viipaleiksi · 2–3 tuoretta herkkusientä, ohuina viipaleina (valinnainen) | myplate-summer-salad, wikibooks-miso-soup |
 | 2 | leivontaseosta | 2½ dl leivontaseosta · 4 dl leivontaseosta | myplate-summer-squash-squares, myplate-wild-rice-muffins |
-| 2 | paistamaton piirakkapohja | 1 paistamaton piirakkapohja (n. 23 cm) · 1 paistamaton piirakkapohja (23 cm), esim. pâte brisée | myplate-sweet-potato-pie, forkrecipe-pecan-pie-filling |
 | 2 | lehtimangoldia | 450 g lehtimangoldia, varret paloiteltuna ja lehdet viipaloituna · 238 g lehtimangoldia tai lehtikaalta (n. 6 lehteä) | myplate-swiss-chard-and-cranberries, wikibooks-green-leaf-juice |
 | 2 | salaatinkerää | ½ salaatinkerää, revittynä · ½ salaatinkerää | myplate-taco-salad, wikibooks-tarbes-salad |
 | 2 | pikapuuroainesta | 1¼ dl pikapuuroainesta (kaurahiutaleita) · ½ dl pikapuuroainesta (kaurahiutaleita) | myplate-three-grain-peanut-bread, myplate-three-sisters-stew |
@@ -479,7 +491,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | attiékéta | 500 g attiékéta (maniokkicouscousia) · 400 g attiékéta tai riisiä tarjoiluun | unitools-attieke-poisson, unitools-kedjenou |
 | 2 | pomeranssia | 3 pomeranssia tai limettiä · 3 pomeranssia (tai 2 appelsiinia ja 1 sitruuna), kuori suikaleina ja mehu | unitools-nacatamal, forkrecipe-duck-a-lorange |
 | 2 | culantroa | 40 g culantroa tai korianteria · 30 g culantroa tai korianteria | unitools-sancocho-panameno, unitools-ropa-vieja-panamena |
-| 2 | urad dalia | 100 g urad dalia (mustia linssejä), liotettuna 6 tuntia · 2½ dl urad dalia (mustaa linssiä) | unitools-masala-dosa, wikibooks-ragi-dosa-south-indian-millet-and-rice-pancake |
 | 2 | morcillaa | 200 g morcillaa (verimakkaraa) · 500 g morcillaa (verimakkaraa) | unitools-fabada-asturiana, unitools-asado-argentino |
 | 2 | kinkunluu | 1 kinkunluu · 1 kinkunluu tai vastaava määrä suolapekonia | unitools-fabada-asturiana, wikibooks-central-texan-pinto-beans |
 | 2 | riisipaperia | 16 riisipaperia · riisipaperia | unitools-goi-cuon, wikibooks-maltese-almond-cookies-biskuttini-tal-lewz |
@@ -506,7 +517,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | limetinlohkoja | limetinlohkoja · limetinlohkoja (tarjoiluun) | forkrecipe-baja-fish-tacos, forkrecipe-birria |
 | 2 | naudan kylkiluita luineen | 1,5 kg naudan kylkiluita (short ribs) luineen · 1,8 kg naudan kylkiluita luineen (englantilainen leikkaus) | forkrecipe-birria-tacos, forkrecipe-braised-short-ribs |
 | 2 | hapankirsikoita | 200 g hapankirsikoita, kivettöminä (purkki tai tuore) · 300 g hapankirsikoita | forkrecipe-black-forest-gateau, kokkikirja-140 |
-| 2 | agar-agar-jauhetta | 1 tl agar-agar-jauhetta (4 g) · 5 g agar-agar-jauhetta | forkrecipe-black-sesame-pudding, wikibooks-agar-jelly |
 | 2 | hanhenrasvaa | 2 rkl hanhenrasvaa, ankanrasvaa tai rypsiöljyä · 2 rkl hanhenrasvaa | forkrecipe-braised-red-cabbage, wikibooks-roast-beef |
 | 2 | kuivattua sarviapilanlehteä | 1 tl kuivattua sarviapilanlehteä (kasuri methi), murskattuna kämmenten välissä · 2 tl kuivattua sarviapilanlehteä (kasuri methi) | forkrecipe-butter-chicken, forkrecipe-chicken-tikka-masala |
 | 2 | tummia minisuklaarakeita | 50 g tummia minisuklaarakeita · 60 g tummia minisuklaarakeita | forkrecipe-cannoli-cream, forkrecipe-cannoli |
@@ -536,6 +546,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | korianterinjuurta | 10 g korianterinjuurta, raaputettuna puhtaaksi (tai varsia) · 20 g korianterinjuurta tai -vartta | forkrecipe-nam-jim-seafood, forkrecipe-thai-green-curry-paste |
 | 2 | ndujaa | 60 g ndujaa (levitettävää kalabrialaista makkaraa) · 100 g ndujaa (kalabrialaista levitettävää salamia) | forkrecipe-nduja-butter, forkrecipe-nduja-sauce |
 | 2 | daikon-retikkaa | 300 g daikon-retikkaa, kuorittuna ja suikaloituna (tulitikkutikku) · 150 g daikon-retikkaa, puolikuunmuotoisiksi paloiksi leikattuna | forkrecipe-nuoc-cham-pickles, forkrecipe-quick-tsukemono |
+| 2 | vasikanpotkaa | 1,5 kg vasikanpotkaa, poikkiviipaleina (osso buco, 4–5 cm paksuja), narulla sidottuina · 2,25 kg vasikanpotkaa, 5 cm paloina | forkrecipe-osso-buco, wikibooks-veal-stock |
 | 2 | tuoretta curryn lehteä | 12 tuoretta curryn lehteä · 15 tuoretta curryn lehteä | forkrecipe-palak-dal, forkrecipe-sambar |
 | 2 | kokonainen ankka 2 | 1 kokonainen ankka (2,2–2,5 kg), puhdistettuna · 1 kokonainen ankka (n. 2,5 kg), huoneenlämpöinen | forkrecipe-peking-duck, wikibooks-stuffed-duck-breast-with-cabbage-and-dumplings |
 | 2 | tuoreita fenkolinlehtiä | 20 g tuoreita fenkolinlehtiä · 1 pieni nippu tuoreita fenkolinlehtiä | forkrecipe-porchetta, forkrecipe-salt-baked-branzino |
@@ -551,8 +562,8 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | chipotlea adobokastikkeessa | 1–2 chipotlea adobokastikkeessa, hienonnettuna · 1 rkl chipotlea adobokastikkeessa, soseutettuna | forkrecipe-tacos-de-pescado, wikibooks-spicy-crab-cakes |
 | 2 | vahvaa mustaa teetä | 4 dl vahvaa mustaa teetä · noin 3 dl vahvaa mustaa teetä | forkrecipe-tea-eggs, wikibooks-welsh-fruit-bread-bara-brith-iii |
 | 2 | tempeh'ä | 600 g tempeh'ä, 3 cm kuutioina · 400 g tempeh'ä, 5 mm viipaleina | forkrecipe-tempeh-rendang, forkrecipe-tempeh-sambal |
+| 2 | piloncilloa | 250 g piloncilloa tai tummaa fariinisokeria · 2 dl piloncilloa tai tummaa ruokosokeria | forkrecipe-tepache, wikibooks-sweet-mole-with-vanilla-bean-ice-cream |
 | 2 | norilevy | 1 norilevy, suikaleina · 1 norilevy (tarvittaessa) | forkrecipe-tuna-poke-bowl, wikibooks-nigiri-sushi |
-| 2 | kardemummakapselia | 4 kardemummakapselia, murskattuina · 7 kardemummakapselia | forkrecipe-worcestershire-sauce, kokkikirja-298 |
 | 2 | herkkusienikeittotiivistettä | 1 tlk (300 g) herkkusienikeittotiivistettä · 1–2 tlk (300 g) herkkusienikeittotiivistettä | wikibooks-20-minute-beef-stroganoff, wikibooks-meatloaf-i |
 | 2 | irtoteetä | 3–5 tl irtoteetä tai 3–5 teepussia · 2–6 tl irtoteetä | wikibooks-a-nice-cup-of-tea, wikibooks-traditional-british-brewed-tea |
 | 2 | sokeripalaa | 10 sokeripalaa (valinnainen) · 10 sokeripalaa | wikibooks-algerian-mint-tea, wikibooks-austrian-apricot-dumplings-marillenkndel |
@@ -564,10 +575,12 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | mesquite-savupuupaloja | isoja mesquite-savupuupaloja | wikibooks-barbecue-beef-brisket-sandwiches, wikibooks-barbecue-prime-rib |
 | 2 | porsaan kylkiribsejä | 900 g porsaan kylkiribsejä · 1 levy porsaan kylkiribsejä (St. Louis -leikkaus) | wikibooks-barbecued-spare-ribs, wikibooks-mexican-ribs |
 | 2 | inkiväärimurskaa | ½ tl inkiväärimurskaa · 1 rkl inkiväärimurskaa | wikibooks-basic-indian-tomato-gravy, wikibooks-behari-kabab |
+| 2 | persiljanvartta | 6 persiljanvartta · 10 persiljanvartta | wikibooks-beef-stock, wikibooks-veal-stock |
 | 2 | tuoreita karhunvatukoita | 9 dl tuoreita karhunvatukoita · 1¾ dl tuoreita karhunvatukoita | wikibooks-blackberry-oat-bars-gluten-free, wikibooks-cherry-berry-jumble-fruit-pie |
 | 2 | vehnäleseitä | 2½ dl vehnäleseitä · 1,8 dl vehnäleseitä | wikibooks-bran-muffins, wikibooks-chunky-cran-apple-bran-muffins |
 | 2 | espressojauhetta | 2 tl espressojauhetta · 2 rkl espressojauhetta (pikakahvi) | wikibooks-brown-butter-toffee-chocolate-chip-cookies, wikibooks-mocha-delight |
 | 2 | sinihomejuustokastiketta | sinihomejuustokastiketta tarjoiluun · 340 g paksua sinihomejuustokastiketta | wikibooks-buffalo-chicken-sandwich, wikibooks-new-orleans-style-chicken-wing-dipping-sauce |
+| 2 | kuivattua omenarengasta | 3 kuivattua omenarengasta, hienoksi silputtuina · 8 kuivattua omenarengasta | wikibooks-cheese-stuffed-chicken-breasts, wikibooks-slow-cooker-pork-chops |
 | 2 | tuoreita kurpitsanlehtiä | 4,8 dl tuoreita kurpitsanlehtiä, pilkottuina (tai pinaattia) · 1 nippu tuoreita kurpitsanlehtiä (tai 300 g pinaattia) | wikibooks-chibwabwa-zambian-pumpkin-leaves-with-groundnut-sauce, wikibooks-muboora-zimbabwean-pumpkin-leaves-stew |
 | 2 | montreal-pihvimaustetta | Montreal-pihvimaustetta · 1 tl Montreal-pihvimaustetta | wikibooks-chicago-sirloin-with-cabernet-balsamic-reduction, wikibooks-firecracker-burgers |
 | 2 | kardemummanpalkoa | 8 kardemummanpalkoa | wikibooks-chicken-biryani, wikibooks-chicken-madras |
@@ -577,6 +590,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | kuivattua chana dalia | 250 g kuivattua chana dalia (halkaistuja kikherneitä) · 150 g kuivattua chana dalia (halkaistuja kikherneitä) | wikibooks-chola-and-roti, wikibooks-sai-bhaji-sindhi-vegetable-curry |
 | 2 | raastettua tuoretta kookosta | 2,4 dl hienoksi raastettua tuoretta kookosta · 2,4 dl raastettua tuoretta kookosta | wikibooks-coconut-chutney-south-indian, wikibooks-kanom-piak-poon-thai-coconut-and-pandan-pudding |
 | 2 | inkiväärisosetta | 1 tl inkiväärisosetta · 2 rkl inkiväärisosetta | wikibooks-coconut-chutney-south-indian, wikibooks-kedjenou-chicken-chicken-and-vegetable-stew |
+| 2 | meksikolaista maustetta | 1 tl meksikolaista maustetta tai chilijauhetta · ripaus meksikolaista maustetta | wikibooks-cottage-cheese-eggs, wikibooks-simple-nachos |
 | 2 | murskattuja vaniljakeksejä | murskattuja vaniljakeksejä ja puolimakeaa suklaata nokareina koristeeksi · 2,5 dl hienoksi murskattuja vaniljakeksejä | wikibooks-creamy-mascarpone-dessert, wikibooks-rum-balls |
 | 2 | 2 | 2 × 2,2 dl vettä · 4 kpl (yht. n. 550–800 g) n. 2,5 cm paksuja sisäfileepihvejä | wikibooks-crystallised-orange-peel, wikibooks-grilled-filet-mignon |
 | 2 | pikakahvia | 2 rkl pikakahvia · 1–2 tl pikakahvia | wikibooks-dalgona-coffee, wikibooks-frapp-coffee |
@@ -593,6 +607,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | perunakuutioita | 2,4 dl perunakuutioita · 2,5 dl perunakuutioita | wikibooks-entula-ugandan-eggplant-stew, wikibooks-russian-salad |
 | 2 | maitohorsman kukkia | 1¼ dl maitohorsman kukkia · 5 dl maitohorsman kukkia ja nuppuja | wikibooks-fireweed-scones, wikibooks-fireweed-vinegar |
 | 2 | jäljellä olevaa injeraa | 4–6 palaa jäljellä olevaa injeraa, revittynä pieniksi paloiksi · 4–6 palaa jäljellä olevaa injeraa, revittynä suupaloiksi | wikibooks-firfir-ethiopian-spicy-scrambled-eggs-with-injera, wikibooks-fit-fit-ethiopian-bread-salad |
+| 2 | mietoa | 500 g mietoa tai tulista makkaraa · 225 g mietoa tai tulista italialaista makkaraa | wikibooks-fried-cheese-balls-with-sausage, wikibooks-simple-italian-sausage-spaghetti-dinner |
 | 2 | maissisiruja | 7 dl maissisiruja (esim. Fritos) · 280 g maissisiruja (esim. Fritos) | wikibooks-frito-pie-baked, wikibooks-frito-pie-no-bake |
 | 2 | hirssiä | hirssiä · 2,5 dl hirssiä | wikibooks-fura-da-nono-milk-and-kefir-porridge, wikibooks-kunun-tsamiya-nigerian-powdered-millet-and-tsamiya-drink |
 | 2 | viipaloitua okraa | 5 dl viipaloitua okraa · 2½ dl viipaloitua okraa | wikibooks-gambian-mbamba-soup, wikibooks-gambian-superkanja-soup |
@@ -601,6 +616,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | persikkanektaria | 2½ dl persikkanektaria · ½ dl persikkanektaria | wikibooks-ginger-glazed-grilled-peaches, wikibooks-grilled-peaches-with-vanilla-maple-sauce |
 | 2 | keltaista kakkusekoitusta | 1 pkt (n. 520 g) keltaista kakkusekoitusta · 1 pkt keltaista kakkusekoitusta (n. 500 g) | wikibooks-gooey-butter-cake, wikibooks-quick-and-delicious-pineapple-upside-down-cake |
 | 2 | naudan muhennuslihaa | 750 g naudan muhennuslihaa, kuutioituna · 900 g naudan muhennuslihaa, kuutioituna | wikibooks-goulash, wikibooks-green-chili-beef-stew |
+| 2 | jääkuutioita | 6 kpl jääkuutioita · 450 g jääkuutioita | wikibooks-grape-lassi, wikibooks-smoked-pork-roast |
 | 2 | paahdettuja juustokuminansiemeniä | 1 tl paahdettuja juustokuminansiemeniä | wikibooks-green-mango-and-cumin-drink-aam-panna, wikibooks-roasted-chicken-nachos-with-green-chili-cheese-sauce |
 | 2 | sulatettua pekonirasvaa | sulatettua pekonirasvaa · 2 rkl sulatettua pekonirasvaa | wikibooks-grilled-cornish-hens, wikibooks-grilled-radicchio-with-bacon-dressing |
 | 2 | liotettuja mesquitelastuja | 1½ dl liotettuja mesquitelastuja · 2½ dl liotettuja mesquitelastuja | wikibooks-grilled-filet-mignon, wikibooks-grilled-mesquite-meatloaf |
@@ -610,16 +626,20 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | appelsiiniuutetta | ½ tl appelsiiniuutetta · appelsiiniuutetta tai -aromia | wikibooks-hot-chocolate-orange, wikibooks-passover-orange-walnut-cake |
 | 2 | käymisen starttiainetta | käymisen starttiainetta (valinnainen) · käymisen starttiainetta (valinnainen, ks. huomautukset) | wikibooks-idli-steamed-rice-and-black-gram-bread, wikibooks-injera-ethiopian-teff-flatbread |
 | 2 | ponmoa | 100 g ponmoa (naudan nahkaa) · 6 palaa ponmoa (naudannahkaa), puhdistettuna ja pieninä paloina | wikibooks-ila-alasepo-nigerian-stewed-okra, wikibooks-nigerian-yam-and-potato-porridge |
+| 2 | naudan kylkipaloja | 1,35 kg naudan kylkipaloja (short ribs) | wikibooks-italian-braised-shortribs, wikibooks-wine-braised-shortribs |
+| 2 | kuminaa jauheena | 1 tl kuminaa jauheena | wikibooks-jal-jeera-cumin-mango-lemonade, wikibooks-sindhi-spiced-fish |
+| 2 | viinikiviä | ⅛ tl viinikiviä · ¼ tl viinikiviä | wikibooks-jalebi-fritters-in-syrup, wikibooks-lemon-meringue-pie-american |
 | 2 | tuoretta raastettua muskottipähkinää | ¼ tl tuoretta raastettua muskottipähkinää | wikibooks-jamaican-jerk-chicken, wikibooks-jerk-grilled-salmon |
 | 2 | ogiria | 1 rkl ogiria (fermentoitua siementahnaa) · ogiria (fermentoitua siementahnaa) | wikibooks-ji-abubo-nigerian-yam-and-vegetable-sauce, wikibooks-ugba-stew |
 | 2 | keitettyä naudan pötsiä | keitettyä naudan pötsiä (valinnainen) · 675 g keitettyä naudan pötsiä | wikibooks-ji-abubo-nigerian-yam-and-vegetable-sauce, wikibooks-tripe-soup-shkembe-chorba |
 | 2 | yrttisekoitusta | yrttisekoitusta | wikibooks-lancashire-hotpot, wikibooks-shepherds-pie-i |
+| 2 | sitruunaviipaletta | 2 sitruunaviipaletta (1 cm) · 4 sitruunaviipaletta | wikibooks-lemon-chicken-pasta, wikibooks-microwave-salmon-in-a-parchment-envelope |
 | 2 | kypsää hummerinlihaa | 225 g kypsää hummerinlihaa, mieluiten pyrstöstä · 400 g kypsää hummerin- tai ravunlihaa | wikibooks-lobster-thermidor, apicius-043 |
 | 2 | kevätkääryleen taikinalevyä | 40 pientä kevätkääryleen taikinalevyä (tai wonton-levyä) · 20 kevätkääryleen taikinalevyä | wikibooks-lumpia-fried-filipino-spring-rolls, wikibooks-nigerian-spring-rolls |
 | 2 | täytteitä | 200 g täytteitä, esim. sushilaatuista lohta tai tonnikalaa, savulohta, kurkkua tai avokadoa, suikaleina · 300 g täytteitä, esim. sushilaatuista lohta tai tonnikalaa, katkarapuja tai munakasta, ohuina viipaleina | wikibooks-makizushi-maki-roll, wikibooks-nigiri-sushi |
 | 2 | norilevyä | 4 norilevyä · 2 norilevyä | wikibooks-makizushi-maki-roll, wikibooks-taro-fish |
 | 2 | wasabitahnaa | wasabitahnaa | wikibooks-makizushi-maki-roll, wikibooks-nigiri-sushi |
-| 2 | simpukanlihaa | 650 g simpukanlihaa (purkissa tai pakasteena), liemi talteen · 450 g simpukanlihaa (purkki tai pakaste), hienonnettuna, liemi talteen | wikibooks-manhattan-clam-chowder-ii, wikibooks-new-england-clam-chowder |
+| 2 | porsaan selkäribsejä | 2 levyä porsaan selkäribsejä (n. 2 kg) · 1,1 kg porsaan selkäribsejä, paloiteltuna | wikibooks-maple-barbecue-baby-back-ribs, wikibooks-slow-cooker-baby-back-ribs |
 | 2 | hikkoripuupaloja savustukseen | hikkoripuupaloja savustukseen | wikibooks-maple-glazed-bbq-ribs, wikibooks-memphis-style-bbq-ribs |
 | 2 | tuoretta laakerinlehteä | 2 tuoretta laakerinlehteä, pilkottuna · 6 tuoretta laakerinlehteä | wikibooks-marinated-mackerel, apicius-373 |
 | 2 | riisimuroja | 2,5 dl riisimuroja · 1 kg riisimuroja (ruutumuroja) | wikibooks-marshmallow-rice-squares-i, wikibooks-nibbles |
@@ -634,10 +654,10 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | browniejauhetta | 1 pkt (640 g) browniejauhetta (ja pakkauksen ohjeen mukaiset lisäainekset) · 1 pkt browniejauhetta (ja pakkauksen ohjeen mukaiset lisäainekset) | wikibooks-mocha-delight, wikibooks-nutty-brownie-bars |
 | 2 | kuivattua mustaa sientä | 2 kuivattua mustaa sientä (shiitake), liotettuna, jalat poistettuna ja hienonnettuna · 2 kuivattua mustaa sientä, liotettuna 30 minuuttia ja neljään osaan leikattuna (liotusvesi talteen) | wikibooks-mc-nhi-tht-vietnamese-stuffed-squid |
 | 2 | psylliumia | 2 rkl psylliumia | wikibooks-nigerian-cauliflower-fufu, wikibooks-nigerian-eggplant-fufu |
+| 2 | tuoretta artisokkaa | 12 pientä tuoretta artisokkaa, viipaleina (tai säilykeartisokkia) · 1–2 tuoretta artisokkaa (valinnainen) | wikibooks-nioise-salad, wikibooks-valencian-inspired-paella |
 | 2 | karvasmeloni | 1 karvasmeloni (ampalaya), viipaloituna · 1 karvasmeloni (n. 225 g), puolitettuna pituussuunnassa, siemenet poistettuna ja 6 mm:n viipaleiksi | wikibooks-paksiw-na-bangus-milkfish-stewed-in-vinegar, wikibooks-pinakbet |
 | 2 | ankanrintaa | 2 ankanrintaa, luuttomia · 4 ankanrintaa (n. 800 g) | wikibooks-pan-seared-duck-breast-with-cabernet-reduction, wikibooks-spicy-grilled-duck-breasts |
 | 2 | manteliuutetta | ¼ tl manteliuutetta · ½ tl manteliuutetta | wikibooks-peach-pie, wikibooks-pecan-sweet-potatoes |
-| 2 | hoisin-kastiketta | hoisin-kastiketta · hoisin-kastiketta (1 tl per annos) | wikibooks-ph-b-vietnamese-beef-noodle-soup, wikibooks-ph-g-vietnamese-chicken-noodle-soup |
 | 2 | sianjalkaa | 4 sianjalkaa · 2 sianjalkaa | wikibooks-pigs-trotters-and-ginger-vinegar-stew, formeofcury-gele-of-flessh |
 | 2 | toor dalia | 1,2 dl toor dalia · 500 g toor dalia (keltaisia kyyhkynherneitä) | wikibooks-pigeon-pea-and-fenugreek-curry-methi-tadka-dal, wikibooks-vedhmi-sweet-stuffed-flatbread |
 | 2 | kaprista | 1–2 tl kaprista · 2 rkl kaprista, huuhdeltuna ja valutettuna | wikibooks-potato-and-chicken-stew-ajiaco, wikibooks-red-and-white-onion-tapenade |
@@ -647,8 +667,9 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 2 | sekavihanneksia | 1 kourallinen sekavihanneksia, esim. maissia tai porkkanaa (valinnainen) · 1 kourallinen sekavihanneksia | wikibooks-shepherds-pie-i, wikibooks-shepherds-pie-iii |
 | 2 | muutama sahraminlanka | muutama sahraminlanka | wikibooks-shirmal-persian-saffron-flatbread, wikibooks-zereshk-palau-iranian-rice-with-barberries-i |
 | 2 | shiro-jauhetta | 2,4 dl shiro-jauhetta (kikherne- tai linssijauhoa) · 4 rkl shiro-jauhetta (hernejauhoa) | wikibooks-shiro-ethiopian-spiced-chickpea-or-lentil-stew, wikibooks-shiro-wat-ethiopian-pea-stew |
+| 2 | broilerimaustetta | 2 tl broilerimaustetta | wikibooks-southern-fried-chicken-sliders, wikibooks-sweet-and-spicy-asian-chicken |
 | 2 | vihreää plantainia | 2 vihreää plantainia (keittobanaania), soseutettuna · 3 vihreää plantainia (keittobanaania) | wikibooks-spicy-plantain-chips, wikibooks-turkey-with-plantain-stuffing-pavo-relleno-de-mofongo |
-| 2 | ydinluita | 900 g ydinluita · 1 kg ydinluita | wikibooks-tripes-la-mode-de-caen-norman-stewed-tripe, kokkikirja-006 |
+| 2 | cocktailkirsikkaa | 10 cocktailkirsikkaa · 10 cocktailkirsikkaa, puolitettuna | wikibooks-sweet-and-sour-sauce, wikibooks-waldorf-salad |
 | 2 | salaatinkerä | 1 salaatinkerä | wikibooks-turkey-and-bacon-salad, kokkikirja-209 |
 | 2 | kypsää kalkkunanlihaa | 9,5 dl kypsää kalkkunanlihaa, pilkottuna · 6 dl kypsää kalkkunanlihaa | wikibooks-turkey-biscuit, wikibooks-turkey-wrap |
 | 2 | korppuja | korppuja tarjoiluun | kokkikirja-022, kokkikirja-042 |
@@ -713,7 +734,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | misokeittoa | misokeittoa (valinnainen) | kg-japanese-salmon-shioyaki |
 | 1 | yuzu kosho tahnaa | 1 tl yuzu kosho -tahnaa | kg-japanese-yuzu-kosho-dressing |
 | 1 | kypsynyttä kimchiä | 5 dl kypsynyttä kimchiä, pilkottuna | kg-kimchi-jjigae |
-| 1 | daikon | 1 daikon (valkoretiisi), viipaloituna | kg-lanzhou-beef-noodle-soup |
 | 1 | laksatahnaa | 2 rkl laksatahnaa | kg-malaysian-laksa-lemak-noodles |
 | 1 | tuoreita laksanlehtiä | tuoreita laksanlehtiä (vietnaminkorianteria) | kg-malaysian-laksa-lemak-noodles |
 | 1 | rojak-kastiketta | 1 rkl rojak-kastiketta (katkaraputahnakastiketta) | kg-malaysian-rojak-buah |
@@ -798,7 +818,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | cm:n bambuvartaita | 15 cm:n bambuvartaita | myplate-fruit-kabobs-yogurt-dip |
 | 1 | täysjyväenglantilainen muffini | 1 täysjyväenglantilainen muffini | myplate-fruit-pizza-go |
 | 1 | mandariinilohkoa | 2 mandariinilohkoa | myplate-fruit-pizza-go |
-| 1 | jicamaa | 7 dl jicamaa, pieninä viipaleina | myplate-fruit-salad-jicama |
 | 1 | cantaloupe- | 7 dl cantaloupe- tai vesimelonia, karkeasti pilkottuna, siemenet ja kuori poistettuna | myplate-fruit-slush |
 | 1 | persikkaviipaleita 100-prosenttisessa mehussa | 2 tlk (à 425 g) persikkaviipaleita 100-prosenttisessa mehussa | myplate-fruit-sorbet |
 | 1 | rapeaa myslia | ½ dl rapeaa myslia tai granolaa | myplate-fruit-yogurt-parfait |
@@ -865,7 +884,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | kanelikeksejä | kanelikeksejä (valinnainen) | myplate-pear-party-salsa |
 | 1 | vähäsuolaisia mustia | 1 tlk (400 g) vähäsuolaisia mustia tai pinto-papuja, huuhdeltuina | myplate-polenta-pepper-and-cheese |
 | 1 | minikaroteja | 5 dl minikaroteja (tai 340 g tavallisia porkkanoita viipaloituina) | myplate-pork-loin-roast-veggies |
-| 1 | porsaan ulkofilettä | 550 g porsaan ulkofilettä | myplate-pork-loin-roast-veggies |
 | 1 | violettia | 2 keskikokoista violettia tai oranssia porkkanaa, kuorittuina nauhoiksi | myplate-pork-power-bowl |
 | 1 | kylmää perunamuusia | 5 dl kylmää perunamuusia (perunamuusijauheesta tehtyä) | myplate-potato-cakes |
 | 1 | makeaa kurkkurelishiä | ½ dl makeaa kurkkurelishiä | myplate-potato-salad |
@@ -1227,7 +1245,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | korarimaa | 4 g korarimaa (etiopialaista kardemummaa) tai mustaa kardemummaa, vain siemenet | forkrecipe-niter-kibbeh |
 | 1 | possunkylkeä | 150 g possunkylkeä, ohuina viipaleina (3 mm) | forkrecipe-okonomiyaki |
 | 1 | okonomiyaki-kastiketta | 30 g okonomiyaki-kastiketta (tai worcestershire-kastiketta + ketsuppia suhteessa 2:1) | forkrecipe-okonomiyaki |
-| 1 | vasikanpotkaa | 1,5 kg vasikanpotkaa, poikkiviipaleina (osso buco, 4–5 cm paksuja), narulla sidottuina | forkrecipe-osso-buco |
 | 1 | pernod'ta | 1 rkl Pernod'ta tai muuta anislikööriä | forkrecipe-oysters-rockefeller |
 | 1 | edellisen päivän briossia | 4 viipaletta edellisen päivän briossia tai pullaa (2,5 cm paksuja) | forkrecipe-pain-perdu |
 | 1 | sazón-mausteseosta | 1 rkl sazón-mausteseosta (achiote ja culantro) | forkrecipe-pernil |
@@ -1282,7 +1299,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | cajun-maustesekoitusta | 1 tl cajun-maustesekoitusta | forkrecipe-shrimp-and-grits |
 | 1 | säilöttyä retikkaa | 2 rkl säilöttyä retikkaa (valinnainen) | forkrecipe-shrimp-pad-thai |
 | 1 | kiinalaista viisimaustetta | 2 rkl kiinalaista viisimaustetta | forkrecipe-slow-roasted-pork-belly |
-| 1 | savustuspuuta | savustuspuuta (tammi tai pyökki) | forkrecipe-smoked-brisket |
 | 1 | naudantalia | 2 rkl naudantalia tai rypsiöljyä | forkrecipe-smoked-brisket |
 | 1 | hapanjuuren ylijäämää | 2,4 dl hapanjuuren ylijäämää | forkrecipe-sourdough-discard-pancakes |
 | 1 | kypsää hapanjuurta | 100 g kypsää hapanjuurta | forkrecipe-sourdough-pizza-dough |
@@ -1299,7 +1315,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | gheetä valeluun | 40 g gheetä valeluun | forkrecipe-tandoori-leg-of-lamb |
 | 1 | kuivattua mandariininkuorta | 1 pala kuivattua mandariininkuorta tai appelsiininkuorta | forkrecipe-tea-eggs |
 | 1 | ananaksen kuoret | 1 ananaksen kuoret ja kara, hyvin pestyinä | forkrecipe-tepache |
-| 1 | piloncilloa | 250 g piloncilloa tai tummaa fariinisokeria | forkrecipe-tepache |
 | 1 | sitruunaruohon pehmeää sisäosaa | 40 g sitruunaruohon pehmeää sisäosaa | forkrecipe-thai-green-curry-paste |
 | 1 | thaiteeseosta | 40 g thaiteeseosta (cha yen) | forkrecipe-thai-iced-tea |
 | 1 | vahvaa espressoa | 3 dl vahvaa espressoa, jäähdytettynä | forkrecipe-tiramisu |
@@ -1388,7 +1403,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | naudan säären luita | 1,4 kg naudan säären luita, 5 cm:n paloina | wikibooks-beef-stock |
 | 1 | naudan luullista kylkeä | 900 g naudan luullista kylkeä, paloina | wikibooks-beef-stock |
 | 1 | vasikan potkaa | 900 g vasikan potkaa, paloina | wikibooks-beef-stock |
-| 1 | persiljanvartta | 6 persiljanvartta | wikibooks-beef-stock |
 | 1 | sipulirenkaita | 2½ dl ohuita sipulirenkaita | wikibooks-beef-tenderloin-steak |
 | 1 | pihvikastiketta | 2 rkl pihvikastiketta | wikibooks-beef-tenderloin-steak |
 | 1 | naudankieli 1 | 1 naudankieli (n. 1,5 kg) | wikibooks-beef-tongue-with-chiles-corn-and-tomato-lengua-de-res |
@@ -1460,7 +1474,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | raastettua queso frescoa | 225 g raastettua queso frescoa tai cheddaria | wikibooks-chalupa |
 | 1 | valutettuja kaprisia | 3 rkl valutettuja kaprisia | wikibooks-chargrilled-asparagus-salad |
 | 1 | tapiokatärkkelystä hapanta | 4,8 dl tapiokatärkkelystä (hapanta tai makeaa maniokkijauhoa, hienoa) | wikibooks-cheese-puffs-po-de-queijo |
-| 1 | kuivattua omenarengasta | 3 kuivattua omenarengasta, hienoksi silputtuina | wikibooks-cheese-stuffed-chicken-breasts |
 | 1 | köynnösjuustotikun palaa 2 | 7 köynnösjuustotikun palaa (2,5 cm) | wikibooks-cheese-stuffed-crust-pizza |
 | 1 | raastettua italialaista juustosekoitusta | 4,8 dl raastettua italialaista juustosekoitusta | wikibooks-cheese-stuffed-crust-pizza |
 | 1 | grahamkeksejä | 250 g grahamkeksejä, murskattuna hienoksi muruksi | wikibooks-cherry-delight |
@@ -1546,7 +1559,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | violettia ruokaväriä | violettia ruokaväriä (geeli) | wikibooks-coronet-cupcakes |
 | 1 | makeista | 60 pientä makeista (jalokivikarkkia), joista 12 keltaista erikseen | wikibooks-coronet-cupcakes |
 | 1 | syötävää kultasuihketta | syötävää kultasuihketta tai -glitteriä | wikibooks-coronet-cupcakes |
-| 1 | meksikolaista maustetta | 1 tl meksikolaista maustetta tai chilijauhetta | wikibooks-cottage-cheese-eggs |
 | 1 | maalaiskanan mausteseosta | ½ dl maalaiskanan mausteseosta (ks. seuraava resepti) | wikibooks-country-roast-chicken |
 | 1 | ravunjäljitelmää | 225 g ravunjäljitelmää (surimia) | wikibooks-crab-and-corn-salad |
 | 1 | béchamelkastiketta | 2,4 dl béchamelkastiketta | wikibooks-crab-meat-canap |
@@ -1682,9 +1694,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | valmista pizzapohjataikinaa | 1 prk valmista pizzapohjataikinaa | wikibooks-four-in-one-pizza |
 | 1 | vahvaa suodatinkahvia | 4 dl vahvaa suodatinkahvia | wikibooks-fred-steak-marinade |
 | 1 | tamarikastiketta | ¾ dl tamarikastiketta | wikibooks-fred-steak-marinade |
-| 1 | munanvalkuaisia | 250 g munanvalkuaisia | wikibooks-french-meringue |
 | 1 | murskattuja paistettuja sipulirenkaita | 2 dl murskattuja paistettuja sipulirenkaita | wikibooks-french-onioned-chicken |
-| 1 | mietoa | 500 g mietoa tai tulista makkaraa | wikibooks-fried-cheese-balls-with-sausage |
 | 1 | hienoa keksimurua | 1¾ dl hienoa keksimurua | wikibooks-fried-cheese-balls-with-sausage |
 | 1 | kuivattuja mausteita | kuivattuja mausteita maun mukaan (esim. pippuria, paprikaa, sipulijauhetta, valkosipulijauhetta) | wikibooks-fried-chicken |
 | 1 | säilyke- | säilyke- tai pakastemaissia | wikibooks-fried-corn |
@@ -1745,7 +1755,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | naudan sisäfileepaistia | 500 g naudan sisäfileepaistia, keskeltä kokonaista fileetä leikattuna | wikibooks-gorgonzola-stuffed-chateaubriand |
 | 1 | pekonisiivuja | pekonisiivuja (hyvin ohuita ja vähärasvaisia) | wikibooks-grand-union-bacon |
 | 1 | kiinteää leivontarasvaa | 128 g kiinteää leivontarasvaa | wikibooks-grandmas-pie-crust |
-| 1 | jääkuutioita | 6 kpl jääkuutioita | wikibooks-grape-lassi |
 | 1 | keitettyjä parsan kärkiä | 8 kpl keitettyjä parsan kärkiä | wikibooks-grapefruit-and-crab-cocktail |
 | 1 | taskuravun lihaa | 200 g taskuravun lihaa | wikibooks-grapefruit-and-crab-cocktail |
 | 1 | äyriäismausteseosta | 2 rkl äyriäismausteseosta | wikibooks-grapefruit-and-crab-cocktail |
@@ -1869,9 +1878,14 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | frittaustaikinaa | frittaustaikinaa (samaa taikinaa kuin kalalle) | wikibooks-irish-pastie |
 | 1 | pompanofileetä | 225 g pompanofileetä, ohuiksi viipaleiksi leikattuna | wikibooks-island-ceviche |
 | 1 | mahi mahi fileetä | 200 g mahi mahi -fileetä, ohuiksi viipaleiksi leikattuna | wikibooks-island-ceviche |
-| 1 | kuminaa jauheena | 1 tl kuminaa jauheena | wikibooks-jal-jeera-cumin-mango-lemonade |
+| 1 | pientä | 4 pientä, kypsää avokadoa, kuorittuna ja kuutioituna | wikibooks-island-salsa-salad |
+| 1 | maniokinlehtiä pakaste | 500 g maniokinlehtiä (pakaste, afrikkalaisista kaupoista) | wikibooks-isombe-rwandan-cassava-leaves-with-eggplant |
+| 1 | za'atar-maustetta | 1 tl za'atar-maustetta (tai ¼ tl timjamia) | wikibooks-israeli-salad |
+| 1 | valutettuja kapriksia | ½ dl valutettuja kapriksia | wikibooks-italian-dressing-i |
+| 1 | pektiiniä | 2 tl pektiiniä tai hillosokerin pektiiniä | wikibooks-italian-dressing-ii |
+| 1 | kuivattua italialaista maussekoitusta | ¼ tl kuivattua italialaista maussekoitusta | wikibooks-italian-dressing-ii |
+| 1 | täysmaidon seosta | 7 dl täysmaidon ja kerman seosta | wikibooks-italian-rice-pudding |
 | 1 | minttutahnaa | ¼ tl minttutahnaa tai kuivattua minttua | wikibooks-jal-jeera-cumin-mango-lemonade |
-| 1 | viinikiviä | ⅛ tl viinikiviä | wikibooks-jalebi-fritters-in-syrup |
 | 1 | muutama tippa oranssia elintarvikeväriä | muutama tippa oranssia elintarvikeväriä | wikibooks-jalebi-fritters-in-syrup |
 | 1 | hunajasinappikastiketta | 1 dl hunajasinappikastiketta | wikibooks-jamaican-chicken-fingers-with-honey-mustard-sauce |
 | 1 | jamaikalaista currya | 3 rkl jamaikalaista currya | wikibooks-jamaican-curry-chicken-with-bullga |
@@ -1926,6 +1940,13 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | tabboulehia | tabboulehia | wikibooks-lamb-shawarma |
 | 1 | valmis sokerikakkupohja | 1 valmis sokerikakkupohja | wikibooks-lamington |
 | 1 | corned beef säilykelihaa | 1 tlk (340 g) corned beef -säilykelihaa | wikibooks-lancashire-corned-beef-hash |
+| 1 | artisokansydäntä | 2 artisokansydäntä, neljänneksinä | wikibooks-lemon-chicken-pasta |
+| 1 | vermuttia | 1 dl vermuttia | wikibooks-lemon-cream-sauce |
+| 1 | tuoretta raastettua sitruunankuorta | 2 rkl tuoretta raastettua sitruunankuorta | wikibooks-lemon-curd |
+| 1 | paistettu piirakkapohja | 1 paistettu piirakkapohja (23 cm) | wikibooks-lemon-meringue-pie-american |
+| 1 | paistettu vegaaninen piirakkapohja | 1 paistettu vegaaninen piirakkapohja | wikibooks-lemon-meringue-pie-vegan |
+| 1 | kasvimaitoa | 1,5 dl kasvimaitoa | wikibooks-lemon-meringue-pie-vegan |
+| 1 | guarkumia | ¾ tl guarkumia | wikibooks-lemon-meringue-pie-vegan |
 | 1 | potaskaa | ½ tl potaskaa (country soda) tai 2 ripausta ruokasoodaa lämpimään veteen liuotettuna | wikibooks-liberian-country-beans-torborgee |
 | 1 | lihaa nautaa | 450 g lihaa (nautaa, kanaa tai vuohta) paloina tai kalaa (tilapiaa tai monnia), puhdistettuna | wikibooks-liberian-eggplant-stew |
 | 1 | bataatinlehtiä | 3 isoa nippua bataatinlehtiä (tai pinaattia) | wikibooks-liberian-potato-greens |
@@ -1955,7 +1976,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | mangoviipaleita | 2 tlk mangoviipaleita (tai 2 tuoretta mangoa), viipaloituna | wikibooks-mango-and-yellow-split-pea-curry |
 | 1 | kuivattuja sarviapilanlehtiä | 1 tl kuivattuja sarviapilanlehtiä | wikibooks-mango-and-yellow-split-pea-curry |
 | 1 | nuoren kookoksen maltoa | 1 dl nuoren kookoksen maltoa, suikaloituna | wikibooks-mango-coconut-sticky-rice |
-| 1 | porsaan selkäribsejä | 2 levyä porsaan selkäribsejä (n. 2 kg) | wikibooks-maple-barbecue-baby-back-ribs |
 | 1 | savuista grillimaustetta | ½ dl savuista grillimaustetta | wikibooks-maple-barbecue-sauce |
 | 1 | käsittelemätöntä vaahteralankkua | 2 käsittelemätöntä vaahteralankkua, liotettuna vedessä vähintään tunti | wikibooks-maple-planked-chicken-breasts |
 | 1 | käsittelemätön vaahteralankku | 1 iso käsittelemätön vaahteralankku, liotettuna vedessä vähintään tunti | wikibooks-maple-planked-salmon-with-rum-glaze |
@@ -1994,7 +2014,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | ancho-enchiladakastiketta | 5 rkl ancho-enchiladakastiketta, siivilöitynä | wikibooks-mexican-rice-ii |
 | 1 | sitruunatahnaa | 6 rkl sitruunatahnaa (lemon curd) | wikibooks-microwave-lemon-puddings |
 | 1 | valko- | 1 ripaus valko- tai mustapippuria | wikibooks-microwave-risotto |
-| 1 | sitruunaviipaletta | 4 sitruunaviipaletta | wikibooks-microwave-salmon-in-a-parchment-envelope |
 | 1 | artisokka | 1 keskikokoinen artisokka | wikibooks-microwaved-artichoke |
 | 1 | dippiä | dippiä, esim. sulatettua voita tai majoneesia | wikibooks-microwaved-artichoke |
 | 1 | jauhettua muskottikukkaa | ¼ tl jauhettua muskottikukkaa | wikibooks-mince-pie-tartlets-with-pork |
@@ -2039,7 +2058,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | paahdettua rasvatonta maapähkinäjauhetta | 1 dl paahdettua, rasvatonta maapähkinäjauhetta (kuli kuli) | wikibooks-nigerian-suya-skewers |
 | 1 | uda-siemenpalkoa | 4 uda-siemenpalkoa (selim-pippuria), murskattuna (valinnainen) | wikibooks-nigerian-suya-skewers |
 | 1 | jamssi | 1 keskikokoinen jamssi (n. 800 g), kuorittuna ja paksuiksi viipaleiksi leikattuna | wikibooks-nigerian-yam-and-potato-porridge |
-| 1 | tuoretta artisokkaa | 12 pientä tuoretta artisokkaa, viipaleina (tai säilykeartisokkia) | wikibooks-nioise-salad |
 | 1 | raastettuja kasviksia | 5 dl raastettuja kasviksia (esim. porkkanaa, kaalia, sipulia ja vihreitä papuja) | wikibooks-nkhwani-wa-ndiwo-malawian-vegetable-fritters |
 | 1 | suklaahippukeksiä | 26 suklaahippukeksiä (n. 450 g) | wikibooks-no-bake-chocolate-chip-cookie-pie |
 | 1 | valmis keksipiirakkapohja | 1 valmis keksipiirakkapohja (n. 270 g) tai itse painettu keksipohja | wikibooks-no-bake-chocolate-chip-cookie-pie |
@@ -2204,6 +2222,18 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | kurkunpaloja | kurkunpaloja | wikibooks-shashlik-russian-skewered-meat |
 | 1 | kuivaa vermiselliä | 200 g kuivaa vermiselliä | wikibooks-sheer-khurma |
 | 1 | paistetun riisin maustetta | 1 tl paistetun riisin maustetta (tai currya) | wikibooks-shrimp-fried-rice |
+| 1 | kokum-palaa | 8–10 kokum-palaa tai 1 rkl limettimehua | wikibooks-shrimp-hooman-goan-shrimp-curry |
+| 1 | tuoreita mungopapujen ituja kasvata itse | 2,5 dl tuoreita mungopapujen ituja (kasvata itse ja käytä niitä, kun ituja on noin 1 cm pitkiä) | wikibooks-simple-ayurvedic-sprout-salad |
+| 1 | valmis keksipohja | 1 valmis keksipohja (tai 200 g digestive-keksejä ja 75 g voita) | wikibooks-simple-chocolate-cheese-pie |
+| 1 | keltaista moong dalia | 200 g keltaista moong dalia | wikibooks-sindhi-spiced-moong-dal |
+| 1 | taro-juurta | 250 g taro-juurta, kuutioituna tai paloiksi leikattuna | wikibooks-sinigang-philippine-sour-soup |
+| 1 | tomaattikeittoa | 1 tlk (300 g) tomaattikeittoa tai 3 dl tomaattikastiketta | wikibooks-six-layer-casserole |
+| 1 | savustettua kalkkunanrintaleikettä | 2 viipaletta savustettua kalkkunanrintaleikettä | wikibooks-smokehouse-turkey-panini |
+| 1 | pandanlehteä | 2–3 pandanlehteä (valinnainen) | wikibooks-soso-coconut-rice |
+| 1 | kuivattua sitruunaruohon lehteä | 2 kuivattua sitruunaruohon lehteä | wikibooks-soup-du-pecheur-fisherman-soup |
+| 1 | attiékétä | 750 g attiékétä (maniokkikuskusia) | wikibooks-soup-du-pecheur-fisherman-soup |
+| 1 | porsaan kylkiribsilevyä | 2 porsaan kylkiribsilevyä (St. Louis -leikkaus) | wikibooks-southern-barbecue-ribs |
+| 1 | omenapuuta savustukseen | omenapuuta savustukseen | wikibooks-southern-barbecue-ribs |
 | 1 | anjovisfilettä | 2 anjovisfilettä, liotettuina | wikibooks-spaghetti-a-la-monegasque |
 | 1 | kivettömiä mustia | ½ dl kivettömiä mustia tai vihreitä oliiveja | wikibooks-spaghetti-a-la-monegasque |
 | 1 | eläviä venus- | 1 kg eläviä venus- tai sydänsimpukoita | wikibooks-spaghetti-with-clams |
@@ -2234,6 +2264,12 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | riisipaperiarkkia | 4 riisipaperiarkkia | wikibooks-summer-rolls |
 | 1 | makeita kurkkusäilykkeitä | 340 g makeita kurkkusäilykkeitä, valutettuna ja jauhettuna | wikibooks-sunglow-motel-cafe-pickle-pie |
 | 1 | paistamatonta 23 cm:n piirakkapohjaa | 2 paistamatonta 23 cm:n piirakkapohjaa | wikibooks-sunglow-motel-cafe-pickle-pie |
+| 1 | piccalillia | 1 rkl piccalillia tai sinappia | wikibooks-surinamese-chicken-pot-pie-pastei |
+| 1 | maustamatonta kefiiriä | 2,5 dl maustamatonta kefiiriä | wikibooks-sweet-elderflower-kefir |
+| 1 | seljankukkamehua | 2 rkl seljankukkamehua (tiiviste) | wikibooks-sweet-elderflower-kefir |
+| 1 | provolone- | 55 g provolone- tai mozzarellaraastetta | wikibooks-sweet-italian-sausage-skillet |
+| 1 | mangonektaria | 1 l mangonektaria tai -sosetta | wikibooks-sweet-mango-lassi |
+| 1 | kypsää myskikurpitsasosetta | 2,5 dl kypsää myskikurpitsasosetta | wikibooks-sweet-pumpkin-scones |
 | 1 | anjoviskastiketta | 1 rkl anjoviskastiketta | wikibooks-sydney-smiths-salad-dressing |
 | 1 | hatkora-sitrushedelmää | ½ hatkora-sitrushedelmää (Citrus macroptera), paloina | wikibooks-sylheti-beef-curry |
 | 1 | kokonaisia juustokuminansiemeniä | ¼ tl kokonaisia juustokuminansiemeniä | wikibooks-sylheti-biryani |
@@ -2269,6 +2305,9 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | speltin jyviä | 2,5 dl speltin tai vehnän jyviä | wikibooks-tuscan-bean-soup |
 | 1 | ohuiksi suikaloitua endiiviä | 7 dl ohuiksi suikaloitua endiiviä tai pinaattia | wikibooks-tuscan-soup-meatless |
 | 1 | ruokapotaskaa | ½ rkl ruokapotaskaa (akanwu) | wikibooks-ugba-stew |
+| 1 | kuutioituja | 500 g kuutioituja tai raastettuja tomaatteja | wikibooks-valencian-inspired-paella |
+| 1 | vasikan luita | 900 g vasikan luita | wikibooks-veal-stock |
+| 1 | vasikan olkapäätä | 675 g vasikan olkapäätä, leikattu 3 cm kuutioiksi | wikibooks-veal-with-lima-beans |
 | 1 | vegemitea | 1 tl Vegemitea | wikibooks-vegemite-sandwich |
 | 1 | muutama sipulirengas | muutama sipulirengas (valinnainen) | wikibooks-vegemite-sandwich |
 | 1 | refried beans papumuhennosta | 1 tlk (430 g) refried beans -papumuhennosta | wikibooks-vegetarian-soft-tacos |
@@ -2282,7 +2321,6 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | durranlehteä | 3–4 durranlehteä, pestynä | wikibooks-waakye-ghanian-rice-and-beans |
 | 1 | kuivattua hirssinvarren lehteä | 4 kuivattua hirssinvarren lehteä, huuhdottuna | wikibooks-waakyne-ghanaian-rice-and-beans |
 | 1 | tulista porsaan makkaramassaa | 450 g tulista porsaan makkaramassaa, kypsennettynä, valutettuna ja muruiksi rikottuna | wikibooks-wakeup-sausage-casserole |
-| 1 | cocktailkirsikkaa | 10 cocktailkirsikkaa, puolitettuna | wikibooks-waldorf-salad |
 | 1 | appelsiiniviipaleita | appelsiiniviipaleita | wikibooks-wassel |
 | 1 | pistaasivanukasjauhetta | 4 pkt pistaasivanukasjauhetta | wikibooks-watergate-salad |
 | 1 | pakastettuja vesimelonikuutioita | 3,5 dl pakastettuja vesimelonikuutioita | wikibooks-watermelon-mojito-smoothie |
@@ -2295,9 +2333,7 @@ Yhteensä 2468 eri nimeä, 5186 riviä.
 | 1 | luutonta vasikanlihaa | 225 g luutonta vasikanlihaa (valinnainen) | wikibooks-wiejska-polish-pork-and-veal-sausage |
 | 1 | m sianohutsuolta | noin 2 m sianohutsuolta | wikibooks-wiejska-polish-pork-and-veal-sausage |
 | 1 | makeaa jälkiruokaviiniä | 1,5 dl makeaa jälkiruokaviiniä | wikibooks-windsor-pudding |
-| 1 | naudan kylkipaloja | 1,35 kg naudan kylkipaloja (short ribs) | wikibooks-wine-braised-shortribs |
 | 1 | grillimaustetta porsaalle | 3 rkl grillimaustetta porsaalle | wikibooks-wine-glazed-pork-chops |
-| 1 | luutonta porsaan ulkofilettä | 1,8 kg luutonta porsaan ulkofilettä | wikibooks-wine-roasted-pork-roast |
 | 1 | kuivattuja hibiskuksen kukkia | 5 dl kuivattuja hibiskuksen kukkia | wikibooks-wonjo-bissap-gambian-hibiscus-beverage |
 | 1 | kiharaendiiviä | 2 kiharaendiiviä (frisée) | wikibooks-xat-catalan-endives-and-fish |
 | 1 | sitrusmakuista limsaa | 2,5 dl sitrusmakuista limsaa (Mountain Dew) | wikibooks-yoda-soda |
