@@ -1,0 +1,499 @@
+[
+ {
+  "id": "simmons-diet-bread-no-3",
+  "skip": "lähes sama kuin hiivalla kohotettu voikakku"
+ },
+ {
+  "id": "simmons-diet-bread-no-4",
+  "skip": "puutteellinen ohje"
+ },
+ {
+  "id": "simmons-diet-bread-no-5",
+  "skip": "puutteellinen ohje (vain esitaikina, ei jauhoja)"
+ },
+ {
+  "id": "simmons-diet-bread-no-6",
+  "title": "Kanelisämpylät sokerikuorrutuksella",
+  "description": "Voilla, sokerilla, munilla ja maidolla rikastettu kanelitaikina kohotetaan hiivalla, muotoillaan pikkuleiviksi ja sivellään kuumina valkuais-sokeriseoksella.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "pulla",
+   "kaneli",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "170 g voita, sulatettuna",
+   "225 g sokeria",
+   "3 kananmunaa",
+   "2,4 dl maitoa, haaleaa",
+   "15 g tuorehiivaa",
+   "1 rkl kanelia",
+   "n. 7 dl vehnäjauhoja",
+   "Pinnalle: 1 munanvalkuainen ja 2 rkl sokeria"
+  ],
+  "instructions": [
+   "Liuota hiiva maitoon. Lisää voi, sokeri, munat ja kaneli.",
+   "Lisää jauhoja sen verran, että taikina on pehmeää. Anna kohota hyvin kuohkeaksi, noin 1½ tuntia.",
+   "Muotoile pieniksi sämpylöiksi voidellulle pellille ja anna kohota uunin kuumetessa.",
+   "Paista 220 asteessa noin 15 minuuttia ja sivele kuumat sämpylät heti valkuais-sokeriseoksella."
+  ],
+  "notes": [
+   "Määrät neljäsosa alkuperäisestä. Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-biscuit",
+  "title": "Yksinkertaiset maitokeksit",
+  "description": "Naula jauhoja, unssi voita ja muna kostutetaan maidolla ja vaivataan uunin kuumetessa – kovia, pitkään säilyviä keksejä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g vehnäjauhoja",
+   "30 g voita",
+   "1 kananmuna",
+   "n. 2 dl maitoa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Nypi voi jauhoihin, lisää muna, suola ja maito ja vaivaa jäykäksi taikinaksi.",
+   "Lyö ja vaivaa taikinaa uunin kuumetessa, kunnes se on sileää.",
+   "Kauli 1 cm paksuksi, ota pyöreitä keksejä ja pistele haarukalla.",
+   "Paista 200 asteessa noin 20 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-butter-biscuit",
+  "title": "Hiivalla kohotetut voikeksit",
+  "description": "Maidosta ja hiivasta tehty esitaikina seisoo yön yli; aamulla joukkoon vaivataan sulatettu voi, lämmin maito ja jauhot pehmeäksi taikinaksi.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "sämpylät",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "4,7 dl maitoa, haaleaa",
+   "25 g tuorehiivaa",
+   "n. 1,3 kg vehnäjauhoja",
+   "450 g voita, sulatettuna",
+   "4,7 dl maitoa lisäksi, lämmintä",
+   "2 tl suolaa"
+  ],
+  "instructions": [
+   "Liuota hiiva haaleaan maitoon, sekoita joukkoon noin 5 dl jauhoja ja anna esitaikinan seistä viileässä yön yli.",
+   "Lisää aamulla sulatettu (ei kuuma) voi, lämmin maito, suola ja jauhoja pehmeäksi taikinaksi.",
+   "Anna kohota, muotoile pieniksi kekseiksi tai sämpylöiksi, anna kohota vielä ja paista 220 asteessa 12–15 minuuttia."
+  ],
+  "notes": [
+   "Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-butter-drop",
+  "title": "Ruusuvesi-voikakkuset",
+  "description": "Pienet kakkuset munista, jauhoista, voista ja sokerista, maustettuna ruusuvedellä ja muskottikukalla, paistettuna peltivuoissa.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "4 munankeltuaista ja 2 valkuaista",
+   "450 g vehnäjauhoja",
+   "115 g voita",
+   "450 g sokeria",
+   "2 rkl ruusuvettä",
+   "¼ tl muskottikukkaa"
+  ],
+  "instructions": [
+   "Hiero voi ja sokeri jauhoihin.",
+   "Lisää vatkatut munat, ruusuvesi ja muskottikukka ja sekoita.",
+   "Annostele voideltuihin pikkuvuokiin ja paista 180 asteessa noin 15 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-preserving-quinces",
+  "title": "Kvitteni-appelsiinihillo",
+  "description": "Kvitteneiden kuoret ja kodat keitetään rypäleiden kanssa hyytyväksi liemeksi, johon kvittenit ja appelsiinit hauduttuvat hiljaisella tulella viisi tuntia.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 360,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg kvittenejä",
+   "450 g viinirypäleitä",
+   "2 l vettä",
+   "1,9 kg sokeria (1¼ kertaa kvittenien paino)",
+   "2 appelsiinia, pieninä paloina"
+  ],
+  "instructions": [
+   "Kuori kvittenit ja poista kodat. Keitä kuoria, kotia ja rypäleitä vedessä noin 1½ tuntia, kunnes liemi sakeutuu, ja siivilöi.",
+   "Lisää sokeri liemeen, kiehauta ja kuori vaahto, kunnes siirappi on kirkasta.",
+   "Lisää kvittenit (kokonaisina tai lohkoina) ja appelsiinit ja hauduta hyvin hiljaisella lämmöllä, kunnes kvittenit ovat punertavia ja läpikuultavia (alkuperäisessä 5 tuntia).",
+   "Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin."
+  ],
+  "notes": [
+   "Määrät noin neljäsosa alkuperäisestä (peck ≈ 9 l kvittenejä)."
+  ]
+ },
+ {
+  "id": "simmons-preserving-quinces-in-loaf-sugar",
+  "title": "Kvittenit sokeriliemessä",
+  "description": "Kvittenit keitetään ensin pehmeiksi, kuoritaan ja lohkotaan ja keitetään sitten puoli tuntia kirkkaassa sokeriliemessä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg kvittenejä",
+   "sokeria kuorittujen kvittenien painon verran (n. 1,2 kg)",
+   "5 dl vettä",
+   "1–2 appelsiinia (valinnainen)"
+  ],
+  "instructions": [
+   "Laita kvittenit kylmään veteen ja keitä pehmeiksi. Nosta pois ja jäähdytä.",
+   "Kuori kvittenit ja lohko tai puolita ne. Punnitse.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi vaahto kuorien.",
+   "Lisää kvittenit (ja halutessa appelsiinipalat) ja keitä 30 minuuttia.",
+   "Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin."
+  ]
+ },
+ {
+  "id": "simmons-preserving-strawberries",
+  "title": "Kokonaiset mansikat siirapissa",
+  "description": "Puristetusta mansikkamehusta ja sokerista keitetään siirappi, jossa kokonaiset kantaiset mansikat kiehautetaan; sama sopii herukoille ja kirsikoille hieman lisätyllä sokerilla.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "mansikka"
+  ],
+  "ingredients": [
+   "1 l mansikoita mehuksi",
+   "1,2 dl vettä",
+   "900 g sokeria",
+   "900 g kokonaisia mansikoita kantoineen"
+  ],
+  "instructions": [
+   "Purista mansikoista mehu liinan läpi. Keitä mehu, vesi ja sokeri ja kuori vaahto.",
+   "Lisää kokonaisia mansikoita kannat ylöspäin sen verran kuin mahtuu murskaamatta ja keitä hiljalleen noin 10 minuuttia.",
+   "Nosta mansikat varovasti haarukalla purkkeihin ja toista loppujen kanssa.",
+   "Kaada kuuma siirappi mansikoiden päälle. Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin."
+  ]
+ },
+ {
+  "id": "simmons-american-citron",
+  "title": "Vesimelonin kuorisukaatti (American citron)",
+  "description": "Simmonsin kotimainen korvike tuontisukaatille: vesimelonin vaalea kuoriosa haudutetaan sokeriliemessä neljä tuntia.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 240,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "vesimeloni"
+  ],
+  "ingredients": [
+   "n. 900 g vesimelonin kuoren vaaleaa osaa (vihreä pinta ja punainen hedelmäliha poistettuina)",
+   "900 g sokeria",
+   "4,7 dl vettä"
+  ],
+  "instructions": [
+   "Leikkaa kuori pieniksi kuutioiksi.",
+   "Laita kuutiot, sokeri ja vesi kattilaan ja hauduta hiljalleen noin 4 tuntia, kunnes palat ovat läpikuultavia.",
+   "Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin. Käytä sukaatin tapaan kakkuihin."
+  ]
+ },
+ {
+  "id": "simmons-keep-white-bullace-pears-plumbs-or-damsons-c-for-tarts-or-pies",
+  "skip": "vanha säilöntätapa (öljykansi), ei turvallinen nykyohjeiden mukaan"
+ },
+ {
+  "id": "simmons-make-marmalade",
+  "title": "Kvittenimarmeladi",
+  "description": "Kvittenit keitetään sokerin ja lähdeveden kanssa pehmeiksi, survotaan ja keitetään liemessään paksuksi.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "kvitteni"
+  ],
+  "ingredients": [
+   "900 g kvittenejä, kuorittuina ja kodat poistettuina",
+   "340 g sokeria",
+   "4,7 dl vettä"
+  ],
+  "instructions": [
+   "Keitä kvittenit, sokeri ja vesi pehmeiksi.",
+   "Nosta kvittenit pois ja survo tai soseuta. Palauta liemeen.",
+   "Keitä sekoittaen noin 45 minuuttia, kunnes marmeladi on paksua.",
+   "Kaada purkkeihin tai matalille vadeille hyytymään; säilytä viileässä."
+  ]
+ },
+ {
+  "id": "simmons-preserve-mulberries-whole",
+  "skip": "mulperia ei juuri saa"
+ },
+ {
+  "id": "simmons-preserve-goosberries-damsons-or-plumbs",
+  "skip": "vanha säilöntätapa (korkitetut pullot), ei turvallinen nykyohjeiden mukaan"
+ },
+ {
+  "id": "simmons-preserve-peaches",
+  "title": "Persikat konjakissa",
+  "description": "Kevyesti kalvotut kokonaiset persikat ladotaan leveäsuisiin pulloihin, peitetään kirkastetulla sokeriliemellä ja täytetään konjakilla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "persikka",
+   "konjakki",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "6 persikkaa",
+   "115 g sokeria",
+   "1 dl vettä",
+   "n. 5 dl konjakkia"
+  ],
+  "instructions": [
+   "Kasta persikat kiehuvaan veteen hetkeksi (älä keitä), sitten kylmään veteen. Kuivaa.",
+   "Keitä sokeri ja vesi kirkkaaksi siirapiksi ja jäähdytä hieman.",
+   "Laita persikat isoon leveäsuiseen lasipurkkiin, kaada päälle siirappi ja täytä konjakilla. Sulje tiiviisti.",
+   "Anna maustua viileässä ja pimeässä vähintään kuukausi."
+  ]
+ },
+ {
+  "id": "simmons-preserve-apricots",
+  "title": "Aprikoosit hyytelösiirapissa",
+  "description": "Kuoritut, kivettömät aprikoosit keitetään kevyesti, liemi keitetään sokerin kanssa hyytyväksi siirapiksi ja aprikoosit peitetään hyytelöllä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "aprikoosi"
+  ],
+  "ingredients": [
+   "1 kg aprikooseja",
+   "4,7 dl vettä",
+   "sokeria aprikoosien painon verran (n. 900 g)"
+  ],
+  "instructions": [
+   "Kuori aprikoosit (kalvo hetki kiehuvassa vedessä) ja poista kivet niin, että hedelmät pysyvät mahdollisimman ehjinä.",
+   "Keitä aprikooseja kevyesti vedessä muutama minuutti ja nosta pois.",
+   "Keitä liemi ja sokeri siirapiksi, lisää aprikoosit ja keitä hiljalleen vaahto kuorien, kunnes siirappi hyytyy lautasella.",
+   "Nosta aprikoosit purkkeihin ja peitä hyytelöllä. Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin."
+  ]
+ },
+ {
+  "id": "simmons-preserve-cherries",
+  "title": "Kirsikkahillo",
+  "description": "Kirsikat keitetään ensin hiljaa, kunnes sokeri on sulanut, sitten reippaasti ja ravistellen, kunnes siirappi hyytyy.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "kirsikka"
+  ],
+  "ingredients": [
+   "900 g kirsikoita (halutessa kivettöminä)",
+   "675 g sokeria",
+   "2,4 dl vettä"
+  ],
+  "instructions": [
+   "Liuota osa sokerista veteen, lisää loput sokerit ja kirsikat.",
+   "Keitä hiljalleen, kunnes sokeri on sulanut, sitten reippaasti vaahto kuorien. Nosta kattila välillä liedeltä ja ravistele.",
+   "Kun kirsikat ovat kauniin värisiä ja siirappi hyytyy lautasella, hillo on valmis. Purkita kuumana puhtaisiin, kuumennettuihin lasipurkkeihin ja säilytä viileässä; avattu purkki jääkaappiin."
+  ]
+ },
+ {
+  "id": "simmons-preserve-raspberries",
+  "title": "Kokonaiset vadelmat siirapissa",
+  "description": "Ei liian kypsät vadelmat keitetään varovasti sokerissa, nostetaan pois, siirappi keitetään paksuksi ja vadelmat palautetaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "vadelma"
+  ],
+  "ingredients": [
+   "500 g vadelmia, ei ylikypsiä",
+   "500 g sokeria",
+   "½ dl vettä"
+  ],
+  "instructions": [
+   "Kostuta sokeri vedellä, lisää vadelmat ja keitä hiljalleen rikkomatta niitä, kunnes ne ovat läpikuultavia.",
+   "Nosta vadelmat pois ja keitä siirappi paksuksi.",
+   "Palauta vadelmat siirappiin, jäähdytä ja purkita lasipurkkeihin; säilytä jääkaapissa."
+  ]
+ },
+ {
+  "id": "simmons-preserve-currants",
+  "title": "Herukat siirapissa",
+  "description": "Herukat keitetään hitaasti sokeriliemessä, nostetaan pois, liemi keitetään paksuksi ja marjat palautetaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "herukka"
+  ],
+  "ingredients": [
+   "500 g punaherukoita",
+   "500 g sokeria",
+   "1,2 dl vettä"
+  ],
+  "instructions": [
+   "Liuota sokeri veteen, lisää herukat ja keitä hyvin hiljalleen vaahto kuorien.",
+   "Nosta marjat pois ja keitä siirappia, kunnes se paksunee.",
+   "Palauta marjat ja keitä, kunnes ne ovat kirkkaita ja siirappi riittävän paksua. Jäähdytä ja purkita lasipurkkeihin."
+  ]
+ },
+ {
+  "id": "simmons-preserve-plumbs",
+  "skip": "toisto aprikoosiohjeen loppuosasta"
+ },
+ {
+  "id": "simmons-keep-damsons",
+  "skip": "vanha säilöntätapa (korkitetut pullot), ei turvallinen nykyohjeiden mukaan"
+ },
+ {
+  "id": "simmons-currant-jelly",
+  "title": "Herukkahyytelö",
+  "description": "Herukat hautuvat suljetussa ruukussa vesihauteessa, mehu siivilöidään ja keitetään naula sokeria pinttiä kohti kirkkaaksi hyytelöksi.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "hillo",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "herukka",
+   "hyytelö"
+  ],
+  "ingredients": [
+   "1,5 kg punaherukoita",
+   "sokeria 450 g jokaista 4,7 dl mehua kohti"
+  ],
+  "instructions": [
+   "Laita kannattomat herukat kannelliseen kulhoon tai purkkiin ja kuumenna kiehuvassa vesihauteessa 30 minuuttia.",
+   "Siivilöi mehu ja mittaa.",
+   "Keitä mehu ja sokeri kovalla lämmöllä koko ajan sekoittaen, kunnes sokeri on sulanut, ja kuori vaahto.",
+   "Kun hyytelö on kirkasta ja hyytyy lautasella, kaada kuumana puhtaisiin purkkeihin. Alkuperäisessä pinnalle laitetaan konjakkiin kastettu paperi."
+  ]
+ },
+ {
+  "id": "simmons-dry-peaches",
+  "title": "Sokeroidut kuivatut persikat",
+  "description": "Persikat keitetään ohuessa siirapissa, kivetään, keitetään pehmeiksi, liotetaan yön yli paksussa sokeriliemessä ja kuivataan lämpimässä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 480,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "persikka",
+   "makeiset",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg kypsiä persikoita",
+   "sokeria persikoiden painon verran (n. 1 kg), jaettuna",
+   "1 l vettä"
+  ],
+  "instructions": [
+   "Kuori persikat. Keitä puolet sokerista ja vesi ohueksi siirapiksi.",
+   "Keitä persikoita siirapissa, kunnes ne ovat kirkkaita, halkaise, poista kivet ja keitä pehmeiksi. Valuta.",
+   "Keitä loput sokerit pienen vesimäärän kanssa lähes karamelliksi, lisää persikat ja anna seistä yön yli.",
+   "Levitä persikat leivinpaperille ja kuivata 50–60-asteisessa uunissa luukku raollaan, kunnes ne ovat kuivia (useita tunteja). Jos pinta on liian sokerinen, pyyhi kostealla liinalla."
+  ]
+ },
+ {
+  "id": "simmons-pickle-or-make-mangoes-of-melons",
+  "skip": "raakoja meloneja ei juuri saa"
+ }
+]

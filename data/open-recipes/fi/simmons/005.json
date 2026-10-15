@@ -1,0 +1,290 @@
+[
+ {
+  "id": "simmons-pickle-barberries",
+  "skip": "happomarjoja ei juuri saa"
+ },
+ {
+  "id": "simmons-pickle-cucumbers",
+  "title": "Maustekurkut 1700-luvun tapaan",
+  "description": "Pienet kurkut suolataan vuorokaudeksi kiehuvassa suolaliemessä ja säilötään sitten mausteisessa viinietikassa neilikan, muskottikukan, muskotin, valko- ja pitkäpippurin ja inkiväärin kanssa viininlehtien kera.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Säilykkeet",
+  "tags": [
+   "säilöntä",
+   "kurkku",
+   "etikka",
+   "amerikkalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg pieniä avomaankurkkuja",
+   "Suolaliemi:",
+   "1 l vettä",
+   "1,5 dl suolaa",
+   "Etikkaliemi:",
+   "7,5 dl valkoviinietikkaa",
+   "6 neilikkaa",
+   "1 tl muskottikukkaa",
+   "½ muskottipähkinä, viipaleina",
+   "1 tl valkopippuria",
+   "2 pitkäpippuria (tai 1 tl mustapippuria)",
+   "3 cm pala inkivääriä, viipaleina",
+   "1 tl suolaa",
+   "muutama viininlehti (tai mustaherukan lehtiä)"
+  ],
+  "instructions": [
+   "Kiehauta suolaliemi, kuori vaahto ja kaada kurkkujen päälle. Paina kurkut liemen alle ja anna seistä 24 tuntia.",
+   "Valuta ja kuivaa kurkut liinalla.",
+   "Kiehauta etikka mausteiden kanssa, lisää kurkut, lehdet ja suola ja kuumenna, kunnes kurkkujen väri alkaa muuttua.",
+   "Ladoa kurkut puhtaisiin purkkeihin, kaada liemi päälle ja sulje. Säilytä viileässä."
+  ]
+ },
+ {
+  "id": "simmons-alamode-beef",
+  "title": "À la mode -naudanpaisti munatäytteellä",
+  "description": "Naudanpaisti täytetään suolasianlihan, voin, leivän, kovaksi keitettyjen munien, yrttien ja neilikan seoksella, nastoitetaan neilikoilla, sidotaan ja haudutetaan viinissä.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 240,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "paisti",
+   "täyte",
+   "juhla",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "2,5 kg naudan paistia (esim. kulmapaisti)",
+   "Täyte:",
+   "115 g suolapossua tai pekonia",
+   "115 g voita",
+   "200 g vaalean leivän sisusta",
+   "4 kovaksi keitettyä kananmunaa, hienonnettuna",
+   "2 raakaa kananmunaa",
+   "1 tl kuivattua meiramia",
+   "½ tl kuivattua salviaa",
+   "2 rkl persiljaa",
+   "1 tl kuivattua kynteliä",
+   "1 tl jauhettua neilikkaa",
+   "½ dl valkoviiniä",
+   "1½ tl suolaa",
+   "1 tl mustapippuria",
+   "Lisäksi:",
+   "20 kokonaista neilikkaa",
+   "1,5 l vettä",
+   "1,2 dl viiniä"
+  ],
+  "instructions": [
+   "Hienonna ja sekoita täytteen ainekset; mausta reilusti suolalla ja pippurilla.",
+   "Leikkaa paistiin syviä taskuja ja täytä ne. Painele pintaan kokonaiset neilikat.",
+   "Sido paisti narulla tiiviiksi, jotta se pysyy pyöreänä.",
+   "Aseta paisti padassa ritilän päälle, kaada pohjalle vesi ja viini ja kypsennä kannen alla 160 asteessa 3–4 tuntia, kunnes liha on mureaa."
+  ]
+ },
+ {
+  "id": "simmons-dressing-codfish",
+  "title": "Haudutettu suolaturska",
+  "description": "Simmonsin mukaan suolaturska kannattaa hauduttaa kuumassa vedessä keittämisen sijaan: liotus kuumassa vedessä kuusi tuntia ja haudutus puhtaassa vedessä tunti.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "turska",
+   "amerikkalainen",
+   "gluteeniton",
+   "maidoton"
+  ],
+  "ingredients": [
+   "800 g suolaturskaa (bacalao)",
+   "vettä"
+  ],
+  "instructions": [
+   "Pese kala kylmässä vedessä.",
+   "Liota kalaa lähes kiehuvassa, hiljaisella lämmöllä pidetyssä vedessä 6 tuntia (tai nykytapaan kylmässä vedessä 1–2 vuorokautta jääkaapissa vettä vaihtaen).",
+   "Siirrä kala puhtaaseen kuumaan veteen ja hauduta kiehumatta noin 1 tunti, kunnes se on kypsää ja hiutaloituvaa.",
+   "Tarjoa perunoiden ja sulatetun voin tai munakastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "simmons-boil-all-kinds-of-garden-stuff",
+  "skip": "yleisohje vihannesten puhdistamisesta"
+ },
+ {
+  "id": "simmons-keep-green-peas-till-christmas",
+  "skip": "vanha säilöntätapa (talilla suljetut pullot), botulismiriski"
+ },
+ {
+  "id": "simmons-boil-french-beans",
+  "title": "Keitetyt vihreät pavut",
+  "description": "Pavut leikataan, suolataan ja keitetään nopeasti kiehuvassa vedessä, jolloin niistä tulee Simmonsin mukaan vihreämpiä kuin kasvamassa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Lisukkeet",
+  "tags": [
+   "vihannekset",
+   "lisuke",
+   "amerikkalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g vihreitä papuja",
+   "1 tl suolaa",
+   "vettä"
+  ],
+  "instructions": [
+   "Poista pavuista kärjet ja säikeet, halkaise ja leikkaa poikittain. Hyvin nuoret pavut vain katkotaan kahtia.",
+   "Sekoita pavut suolan kanssa.",
+   "Laita kiehuvaan veteen ja keitä nopeasti kovalla lämmöllä 4–6 minuuttia, kunnes ne ovat juuri kypsiä ja kirkkaanvihreitä. Valuta ja tarjoa."
+  ]
+ },
+ {
+  "id": "simmons-boil-broad-beans",
+  "title": "Keitetyt härkäpavut persiljalla",
+  "description": "Härkäpavut kuoritaan vasta juuri ennen keittämistä, keitetään runsaassa vedessä persiljan ja suolan kanssa ja tarjotaan sulatetun voin kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Lisukkeet",
+  "tags": [
+   "vihannekset",
+   "lisuke",
+   "amerikkalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg härkäpapuja paloissaan (n. 500 g kuorittuina)",
+   "1 nippu persiljaa",
+   "1 tl suolaa",
+   "50 g voita, sulatettuna"
+  ],
+  "instructions": [
+   "Kuori pavut juuri ennen keittämistä.",
+   "Kiehauta runsaasti vettä, lisää pavut, persilja ja suola ja keitä kovalla lämmöllä, kunnes pavut alkavat pehmetä (n. 5 minuuttia).",
+   "Valuta, koristele keitetyllä persiljalla ja tarjoa sulatettu voi erikseen."
+  ]
+ },
+ {
+  "id": "simmons-boil-green-peas",
+  "title": "Keitetyt herneet mintulla ja voilla",
+  "description": "Herneet keitetään niukassa vedessä muutaman mintunlehden kanssa, voinokare lisätään kiehumisen alkaessa ja tarjotaan sulatetun voin kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 10,
+  "category": "Lisukkeet",
+  "tags": [
+   "vihannekset",
+   "lisuke",
+   "amerikkalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g tuoreita tai pakasteherneitä",
+   "muutama mintunlehti",
+   "1 rkl voita",
+   "½ tl suolaa",
+   "Tarjoiluun: 30 g sulatettua voita"
+  ],
+  "instructions": [
+   "Kiehauta vettä juuri sen verran, että se peittää herneet. Lisää herneet ja minttu.",
+   "Kun vesi kiehuu, lisää voi ja sekoita. Keitä, kunnes herneet ovat kypsiä (3–5 minuuttia).",
+   "Valuta, ripottele suola ja ravista, kunnes vesi on valunut. Tarjoa kuumana sulatetun voin kanssa."
+  ]
+ },
+ {
+  "id": "simmons-boil-asparagus",
+  "title": "Parsa paahtoleivällä ja appelsiinilla",
+  "description": "Parsat sidotaan nipuiksi ja keitetään nopeasti; ne tarjotaan parsaveteen kastetun paahtoleivän päällä voilla ja appelsiinipaloilla koristeltuina.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Lisukkeet",
+  "tags": [
+   "parsa",
+   "lisuke",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "500 g valkoista tai vihreää parsaa",
+   "1 tl suolaa",
+   "1 viipale vaaleaa leipää",
+   "50 g voita, sulatettuna",
+   "1 appelsiini, pieninä paloina"
+  ],
+  "instructions": [
+   "Leikkaa parsoista puiset tyvet ja kuori varret. Liota kylmässä vedessä hetki ja sido pieniksi tasaisiksi nipuiksi.",
+   "Keitä kiehuvassa suolavedessä nopeasti, kunnes parsat ovat juuri kypsiä (vihreät 3–4, valkoiset 8–10 minuuttia); ylikeitettyinä latvat irtoavat.",
+   "Paahda leipä molemmin puolin ruskeaksi, kasta parsaveteen ja aseta vadin pohjalle.",
+   "Asettele parsat leivälle latvat keskelle, kaada sulatettu voi latvojen päälle ja koristele appelsiinipaloilla."
+  ]
+ },
+ {
+  "id": "simmons-boil-cabbage",
+  "title": "Keitetty kaali",
+  "description": "Kaali lohkotaan, keitetään reippaasti suolatussa vedessä, kunnes kanta on pehmeä, ja tarjotaan mahdollisimman kuumana. Kurttukaali samoin.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Lisukkeet",
+  "tags": [
+   "vihannekset",
+   "lisuke",
+   "amerikkalainen",
+   "kasvis",
+   "gluteeniton",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1 kaalinpää (tai kurttukaali)",
+   "2 tl suolaa",
+   "vettä"
+  ],
+  "instructions": [
+   "Leikkaa iso kaali neljään, pieni kahteen osaan.",
+   "Kiehauta vesi, lisää suola ja kaali ja ripottele kaalin päälle vielä vähän suolaa.",
+   "Keitä kovalla lämmöllä, kunnes kanta on pehmeä (n. 10–15 minuuttia).",
+   "Valuta siivilässä ja tarjoa heti kuumana."
+  ]
+ },
+ {
+  "id": "simmons-brewing-spruce-beer",
+  "skip": "kotipanimo-ohje alkoholijuomalle, kuusiuutetta ei juuri saa"
+ },
+ {
+  "id": "simmons-emptins",
+  "title": "Emptins (humalahiiva)",
+  "description": "1700-luvun amerikkalainen kotihiiva: humalaliemi suurustetaan jauhoilla, ja jäähtyneeseen liemeen lisätään edellistä erää käymisen aloittamiseksi. Säilyy korkitettuna viikkoja.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "hiiva",
+   "leivonta",
+   "perusohje",
+   "amerikkalainen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1 kourallinen (n. 10 g) kuivattuja humalia",
+   "2,8 l vettä",
+   "1 dl vehnäjauhoja, sekoitettuna 2 dl:aan kylmää vettä",
+   "1 dl edellistä erää (tai 5 g tuorehiivaa ensimmäiseen erään)"
+  ],
+  "instructions": [
+   "Keitä humalia vedessä noin 15 minuuttia.",
+   "Suurusta liemi jauhovedellä kuten tärkkelys ja siivilöi.",
+   "Kun liemi on jäähtynyt haaleaksi, lisää edellinen erä tai hiiva ja anna käydä lämpimässä vuorokausi.",
+   "Säilytä korkitetussa pullossa viileässä; säilyy 5–6 viikkoa. Käytä taikinoissa hiivan sijaan."
+  ]
+ }
+]

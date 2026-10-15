@@ -56,8 +56,8 @@ Open Recipes (scraped), TheMealDB (not openly licensed).
 ## Historical cookbooks
 
 `node scripts/open-recipes/normalize-gutenberg.ts` splits the Project Gutenberg texts (download
-`pg73445.txt` and `pg8102.txt` into `raw/gutenberg/`) into `en/kokkikirja.json` and
-`en/formeofcury.json`, one record per recipe with the **original wording** and no ingredient list.
+`pg73445.txt`, `pg8102.txt`, `pg29728.txt` and `pg12815.txt` into `raw/gutenberg/`) into `en/kokkikirja.json`,
+`en/formeofcury.json`, `en/apicius.json` and `en/simmons.json`, one record per recipe with the **original wording** and no ingredient list.
 The Finnish file adds a modern interpretation: a modern title, an ingredient list in today's
 units (old measures such as naula ≈ 425 g, tooppi ≈ 1,3 l, kannu ≈ 2,6 l, kortteli ≈ 3,3 dl are
 converted, unstated amounts estimated for ~4–6 servings, `servingsEstimated: true`) and modern steps.
@@ -80,7 +80,7 @@ modern Finnish reading as in *Historical cookbooks* above. Oldest first:
 | *Ancient Cookery* | 1381 | [#8102](https://www.gutenberg.org/ebooks/8102) | In the same ebook as The Forme of Cury, after the roll ("ANCIENT COOKERY. A.D. 1381"); headings like "I. FOR TO MAKE FURMENTY." – needs its own parser. |
 | *The Forme of Cury* | c. 1390 | [#8102](https://www.gutenberg.org/ebooks/8102) | **Done** – all 190 entries; 171 recipes. A few later recipes (Crème of almaundes, Pomme dorryle, Ypocras, Pety peruaunt) are merged into the preceding entry by the parser and not translated separately. |
 | *The Accomplisht Cook* (Robert May) | 1660 | [#22790](https://www.gutenberg.org/ebooks/22790) | Large Restoration-era book, hundreds of recipes. |
-| *American Cookery* (Amelia Simmons) | 1796 | [#12815](https://www.gutenberg.org/ebooks/12815) | First American cookbook. |
+| *American Cookery* (Amelia Simmons) | 1796 | [#12815](https://www.gutenberg.org/ebooks/12815) | **Done** – all 138 entries; 116 recipes, the rest (fragments, general advice, spruce beer, unsafe old bottling methods, unobtainable fruit) skipped. First American cookbook. |
 | *Modern Cookery for Private Families* (Eliza Acton) | 1845 | [#72482](https://www.gutenberg.org/ebooks/72482) | Influential; first to list ingredients with quantities. |
 | *Domestic Cookery* (Elizabeth E. Lea) | 1845 | [#28753](https://www.gutenberg.org/ebooks/28753) | American household cookery. |
 | *Kokki-kirja* (J. F. Granlund) | 1849 | [#73445](https://www.gutenberg.org/ebooks/73445) | **Done** – all 382 entries; 344 recipes, the rest (general methods, salting/drying techniques, household tips) skipped. |

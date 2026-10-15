@@ -1,0 +1,745 @@
+[
+ {
+  "id": "simmons-plain-cake-2",
+  "title": "Yksinkertainen voikakku",
+  "description": "Lyhyt ohje: sokeri, voi ja munat sekoitetaan naulaan jauhoja – lähes paundikakku.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "340 g sokeria",
+   "450 g voita, pehmeänä",
+   "6 kananmunaa",
+   "450 g vehnäjauhoja"
+  ],
+  "instructions": [
+   "Vaahdota voi ja sokeri.",
+   "Lisää munat yksitellen vatkaten ja sekoita joukkoon jauhot.",
+   "Paista voidellussa vuoassa 160 asteessa noin 1 tunti, kunnes kakkuun pistetty tikku tulee puhtaana ulos."
+  ]
+ },
+ {
+  "id": "simmons-rich-cake",
+  "title": "Runsas rusinakakku konjakilla",
+  "description": "Voilla, munilla ja viinillä rikastettu hiivataikina kohoaa yön yli; aamulla joukkoon vaivataan konjakissa liotetut rusinat, ruusuvesi, sokeri ja kaneli.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "cookTimeMin": 75,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "rusina",
+   "juhla",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g voita",
+   "1,1 kg vehnäjauhoja",
+   "6 kananmunaa",
+   "25 g tuorehiivaa",
+   "1,2 dl maitoa, haaleaa",
+   "1,2 dl valkoviiniä",
+   "550 g rusinoita",
+   "½ dl konjakkia",
+   "½ dl ruusuvettä",
+   "550 g sokeria",
+   "2 rkl kanelia"
+  ],
+  "instructions": [
+   "Nypi voi jauhoihin. Liuota hiiva maitoon ja lisää munat ja viini. Vaivaa jäykäksi taikinaksi, peitä ja anna kohota jääkaapissa yön yli.",
+   "Liota rusinat konjakissa yön yli.",
+   "Vaivaa aamulla taikinaan rusinat, ruusuvesi, sokeri ja kaneli.",
+   "Jaa voideltuihin vuokiin, anna kohota tunti ja paista 170 asteessa noin 1–1¼ tuntia."
+  ],
+  "notes": [
+   "Määrät noin puolet alkuperäisestä. Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-potato-cake",
+  "title": "Perunakakkuset viinikastikkeella",
+  "description": "Keitetyt perunat survotaan keltuaisten, viinin, voin ja jauhojen kanssa taikinaksi, muotoillaan ja paistetaan; päälle kaadetaan sulatettua voita, viiniä ja sokeria.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Jälkiruoat",
+  "tags": [
+   "peruna",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "500 g jauhoisia perunoita",
+   "3 munankeltuaista",
+   "2 rkl valkoviiniä",
+   "50 g voita, sulatettuna",
+   "n. 2 dl vehnäjauhoja",
+   "Kastike:",
+   "50 g voita",
+   "½ dl valkoviiniä",
+   "2 rkl sokeria"
+  ],
+  "instructions": [
+   "Keitä, kuori ja survo perunat.",
+   "Sekoita joukkoon keltuaiset, viini, voi ja sen verran jauhoja, että taikinaa voi muotoilla.",
+   "Muotoile pieniksi kakkusiksi ja paista pellillä 200 asteessa noin 20 minuuttia.",
+   "Kuumenna kastikkeen ainekset ja kaada kakkusten päälle."
+  ]
+ },
+ {
+  "id": "simmons-johny-cake-or-hoe-cake",
+  "title": "Johnnycake eli hoe cake (maissileipä)",
+  "description": "Kuumalla maidolla tai vedellä kostutettu maissijauhotaikina paistetaan tulen edessä – amerikkalaisen keittiön alkuperäisiä leipiä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "maissi",
+   "leipä",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "4,7 dl maitoa",
+   "1,4 l (n. 800 g) maissijauhoa",
+   "2,4 dl vehnäjauhoja",
+   "1 tl suolaa",
+   "Toinen tapa: 2 rkl siirappia ja 2 rkl voita, kylmää vettä"
+  ],
+  "instructions": [
+   "Kiehauta maito ja kaada se maissijauhojen ja vehnäjauhojen päälle. Lisää suola ja sekoita.",
+   "Taputtele taikina noin 1,5 cm paksuiksi kakuiksi.",
+   "Paista voidellulla valurautapannulla keskilämmöllä tai 220-asteisessa uunissa, kunnes pinta on rapea (n. 20 minuuttia). Alkuperäisessä kakku paistetaan tulen edessä laudalla tai kuokan terällä.",
+   "Toinen tapa: kostuta kaksi kolmasosaa jauhoista kiehuvalla maidolla tai vedellä, lisää suola, siirappi ja voi ja vaivaa kylmällä vedellä melko jäykäksi."
+  ]
+ },
+ {
+  "id": "simmons-indian-slapjack",
+  "title": "Maissijauholätyt (Indian slapjack)",
+  "description": "Maidosta, maissijauhosta, munista ja vähästä vehnäjauhosta tehdyt lätyt paistetaan parilalla tai rasvatulla pannulla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 30,
+  "category": "Aamiainen",
+  "tags": [
+   "maissi",
+   "lätyt",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "9,5 dl maitoa",
+   "4,7 dl maissijauhoa",
+   "4 kananmunaa",
+   "4 rkl vehnäjauhoja",
+   "½ tl suolaa",
+   "voita tai laardia paistamiseen"
+  ],
+  "instructions": [
+   "Vatkaa kaikki ainekset tasaiseksi taikinaksi ja anna turvota 10 minuuttia.",
+   "Paista ohuita lettuja voidellulla pannulla tai parilalla molemmin puolin kullanruskeiksi."
+  ]
+ },
+ {
+  "id": "simmons-loaf-cakes",
+  "title": "Juhlava rusinakakku kuorrutuksella (loaf cake)",
+  "description": "Suuri hiivalla kohotettu juhlakakku, maustettu kanelilla, muskotilla ja korianterilla, rikastettu konjakilla ja viinillä ja kuorrutettu kuumana munanvalkuais-sokerikuorrutteella.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "rusina",
+   "juhla",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1,35 kg vehnäjauhoja",
+   "675 g sokeria",
+   "225 g laardia (tai voita)",
+   "340 g voita",
+   "4 kananmunaa",
+   "2,4 dl maitoa, haaleaa",
+   "25 g tuorehiivaa",
+   "2 rkl kanelia",
+   "½ muskottipähkinä",
+   "2 rkl korianterinsiemeniä, jauhettuna",
+   "1,2 dl konjakkia",
+   "½ dl valkoviiniä",
+   "675 g rusinoita",
+   "Kuorrute:",
+   "2 munanvalkuaista",
+   "350 g tomusokeria"
+  ],
+  "instructions": [
+   "Hiero sokeri, laardi ja voi jauhoihin huolellisesti (Simmonsin mukaan puoli tuntia, jotta kakusta tulee vaalea ja kevyt).",
+   "Liuota hiiva maitoon. Lisää munat, maito, mausteet, konjakki ja viini ja vaivaa taikinaksi. Lisää rusinat.",
+   "Jaa voideltuihin vuokiin, anna kohota kaksinkertaiseksi ja paista 170 asteessa 1¼–1½ tuntia.",
+   "Vatkaa valkuaiset vaahdoksi, lisää tomusokeri ja levitä paksusti kuumien kakkujen päälle. Älä palauta uuniin, ettei kuorrute kellastu."
+  ],
+  "notes": [
+   "Määrät noin yhdeksäsosa alkuperäisestä. Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-loaf-cakes-2",
+  "skip": "lähes sama kuin juhlava rusinakakku"
+ },
+ {
+  "id": "simmons-loaf-cakes-3",
+  "skip": "lähes sama kuin juhlava rusinakakku"
+ },
+ {
+  "id": "simmons-loaf-cakes-4",
+  "title": "Viini-rusinakakku ruusuvedellä",
+  "description": "Rusinakakku, jossa voi, sokeri, munat, viini, ruusuvesi ja konjakki kohotetaan hiivalla.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 75,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "rusina",
+   "juhla",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "900 g vehnäjauhoja",
+   "360 g voita",
+   "450 g sokeria",
+   "450 g rusinoita",
+   "5 kananmunaa",
+   "1,6 dl valkoviiniä",
+   "15 g tuorehiivaa",
+   "½ dl maitoa, haaleaa",
+   "1 rkl kanelia",
+   "½ dl ruusuvettä",
+   "½ dl konjakkia"
+  ],
+  "instructions": [
+   "Liuota hiiva maitoon. Nypi voi jauhoihin ja sekoita joukkoon sokeri ja kaneli.",
+   "Lisää munat, viini, ruusuvesi, konjakki ja hiivaseos ja vaivaa taikinaksi. Lisää rusinat.",
+   "Jaa kahteen voideltuun vuokaan, anna kohota kaksinkertaiseksi ja paista 170 asteessa noin 1¼ tuntia."
+  ],
+  "notes": [
+   "Määrät noin kolmasosa alkuperäisestä. Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-loaf-cakes-5",
+  "title": "Siiderillä maustettu arkikakku",
+  "description": "Kuumennettu maito, sokeri ja rasva juoksutetaan makealla siiderillä, ja taikinaan tulee munia, maustepippuria ja appelsiinia tai fenkolin-, kuminan- tai korianterinsiemeniä.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "5 dl maitoa",
+   "340 g sokeria",
+   "340 g voita tai voin ja laardin seosta",
+   "2,4 dl makeaa omenasiideriä tai omenamehua",
+   "4 kananmunaa",
+   "1 tl jauhettua maustepippuria",
+   "1 appelsiinin raastettu kuori (tai 1 rkl kuminan-, fenkolin- tai korianterinsiemeniä)",
+   "2 kg vehnäjauhoja",
+   "50 g tuorehiivaa"
+  ],
+  "instructions": [
+   "Kuumenna maito, sokeri ja rasva, lisää siideri ja jäähdytä haaleaksi.",
+   "Liuota hiiva seokseen, lisää munat, mausteet ja jauhot ja vaivaa taikinaksi.",
+   "Anna kohota kaksinkertaiseksi, jaa kolmeen voideltuun vuokaan, anna kohota vielä ja paista 175 asteessa noin 1 tunti."
+  ],
+  "notes": [
+   "Määrät noin neljäsosa alkuperäisestä. Simmonsin oman virheluettelon korjaus on huomioitu. (jauhoja 18 naulaa) Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-cookies",
+  "title": "Korianterikeksit",
+  "description": "Amerikan ensimmäinen painettu cookie-resepti: sokeriliemellä kostutettu, korianterilla maustettu taikina kohotetaan potaskalla. Joulukeksit paranevat Simmonsin mukaan säilyessään puoli vuotta.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "korianteri",
+   "joulu",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g sokeria",
+   "2,4 dl vettä",
+   "2 tl potaskaa (tai 1 tl ruokasoodaa), liuotettuna 2 rkl:aan maitoa",
+   "1,1 kg vehnäjauhoja",
+   "115 g voita",
+   "2 rkl jauhettuja korianterinsiemeniä"
+  ],
+  "instructions": [
+   "Keitä sokeri vedessä hiljalleen siirapiksi, kuori vaahto ja jäähdytä. Lisää potaskaliuos.",
+   "Nypi voi jauhoihin ja sekoita joukkoon korianteri. Kostuta siirapilla ja vaivaa taikinaksi.",
+   "Kauli noin 1 cm paksuksi ja leikkaa haluamasi muotoisiksi.",
+   "Paista 160 asteessa 15–20 minuuttia. Säilyvät kolme viikkoa."
+  ],
+  "notes": [
+   "Joulukeksiversiossa 1,35 kg jauhoja, 1 dl korianteria, 450 g voita, 675 g sokeria ja 3 tl potaskaa kupillisessa maitoa; taikina kaulitaan 2 cm paksuksi ja keksien annetaan pehmetä ruukussa kellarissa."
+  ]
+ },
+ {
+  "id": "simmons-molasses-gingerbread",
+  "title": "Siirappipiparkakku",
+  "description": "Kanelilla ja korianterilla maustettu siirappitaikina kohotetaan potaskalla, vaivataan jäykäksi ja paistetaan nopeasti; pinta sivellään sokeroidulla valkuaisella.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "piparkakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 rkl kanelia",
+   "1 tl jauhettua korianteria tai maustepippuria",
+   "4 tl potaskaa (tai 2 tl ruokasoodaa)",
+   "1,2 dl vettä",
+   "900 g vehnäjauhoja",
+   "5 dl tummaa siirappia",
+   "115 g voita",
+   "Voiteluun: 1 munanvalkuainen ja 1 rkl sokeria"
+  ],
+  "instructions": [
+   "Liuota potaska veteen. Sekoita mausteet jauhoihin.",
+   "Lämmitä siirappi ja voi ja kaada jauhojen joukkoon potaskaliuoksen kanssa (kesällä voi voi nyppiä jauhoihin).",
+   "Vaivaa jäykäksi taikinaksi – mitä enemmän, sitä kevyempi tulos.",
+   "Kauli levyksi tai muotoile, sivele valkuais-sokeriseoksella ja paista 200 asteessa noin 15 minuuttia polttamatta."
+  ]
+ },
+ {
+  "id": "simmons-gingerbread-cakes-or-butter-and-sugar-gingerbread",
+  "title": "Voi-sokeripiparkakut",
+  "description": "Inkiväärillä ja muskotilla maustetut, potaskalla kohotetut piparkakut voista, sokerista ja munista.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "piparkakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "675 g vehnäjauhoja",
+   "½ muskottipähkinä, raastettuna",
+   "2 rkl inkivääriä",
+   "225 g sokeria",
+   "1½ tl potaskaa (tai ¾ tl ruokasoodaa), liuotettuna 2 rkl:aan kermaa",
+   "225 g voita",
+   "2 kananmunaa"
+  ],
+  "instructions": [
+   "Sekoita jauhot, mausteet ja sokeri ja nypi joukkoon voi.",
+   "Lisää munat ja potaskaliuos ja vaivaa jäykäksi taikinaksi.",
+   "Muotoile tai kauli ja leikkaa haluamasi muotoisiksi.",
+   "Paista 180 asteessa noin 15 minuuttia."
+  ],
+  "notes": [
+   "Määrät puolet alkuperäisestä."
+  ]
+ },
+ {
+  "id": "simmons-soft-gingerbread-to-be-baked-in-pans",
+  "title": "Pehmeä piparkakku vuoassa",
+  "description": "Runsaasti munia sisältävä pehmeä inkiväärikakku ruusuvedellä, paistettuna vuoassa.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "piparkakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "340 g sokeria",
+   "225 g voita",
+   "450 g vehnäjauhoja",
+   "5 kananmunaa",
+   "2 rkl inkivääriä",
+   "1 rkl ruusuvettä"
+  ],
+  "instructions": [
+   "Hiero sokeri ja voi jauhoihin.",
+   "Lisää vatkatut munat, inkivääri ja ruusuvesi ja sekoita tasaiseksi.",
+   "Paista voidellussa vuoassa 170 asteessa noin 45 minuuttia."
+  ],
+  "notes": [
+   "Määrät neljäsosa alkuperäisestä."
+  ]
+ },
+ {
+  "id": "simmons-butter-drop-do",
+  "title": "Muskottikukka-voipisarat",
+  "description": "Pienet pisarakeksit voista, sokerista, muskottikukasta, jauhoista, munista ja ruusuvedestä.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "115 g voita",
+   "450 g sokeria",
+   "½ tl muskottikukkaa",
+   "560 g vehnäjauhoja",
+   "4 kananmunaa",
+   "½ dl ruusuvettä"
+  ],
+  "instructions": [
+   "Hiero voi, sokeri ja muskottikukka jauhoihin.",
+   "Lisää munat ja ruusuvesi ja sekoita tahmeaksi taikinaksi.",
+   "Nostele lusikalla pieniä nokareita leivinpaperille ja paista 180 asteessa 12–15 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-gingerbread",
+  "title": "Sokeripiparkakku munilla",
+  "description": "Runsaasti sokeria, inkivääriä ja munia sisältävä vaalea piparkakku ruusuvedellä.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "piparkakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "340 g sokeria",
+   "55 g voita",
+   "30 g (n. 4 rkl) inkivääriä",
+   "3 kananmunaa",
+   "½ dl ruusuvettä",
+   "340 g vehnäjauhoja"
+  ],
+  "instructions": [
+   "Hiero sokeri, voi ja inkivääri jauhoihin.",
+   "Lisää munat ja ruusuvesi ja sekoita tasaiseksi.",
+   "Paista voidellussa vuoassa 170 asteessa noin 40 minuuttia tai pieninä keksinä 15 minuuttia."
+  ],
+  "notes": [
+   "Määrät neljäsosa alkuperäisestä."
+  ]
+ },
+ {
+  "id": "simmons-cheap-seed-cake",
+  "title": "Edullinen kuminakakku",
+  "description": "Maustepippurilla ja kuminalla maustettu hiivakakku, johon voi lisätä korintteja tai rusinoita; leivotaan kahtena limppuna.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "kumina",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g sokeria",
+   "1 tl jauhettua maustepippuria",
+   "2,2 kg (3,8 l) vehnäjauhoja",
+   "450 g voita",
+   "4,7 dl maitoa",
+   "9 kananmunaa",
+   "25 g tuorehiivaa",
+   "1 rkl kuminansiemeniä",
+   "2 dl korintteja tai rusinoita (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita sokeri ja maustepippuri jauhoihin.",
+   "Sulata voi maitoon, jäähdytä haaleaksi ja liuota hiiva joukkoon. Lisää munat.",
+   "Vaivaa nesteet jauhoihin, lisää kumina ja halutessa korintit.",
+   "Muotoile kaksi limppua, anna kohota kaksinkertaisiksi ja paista 175 asteessa 1–1½ tuntia."
+  ],
+  "notes": [
+   "Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-queens-cake",
+  "title": "Kuningattarenkakut",
+  "description": "Vaahdotetusta voista, sokerista, munista, viinistä ja ruusuvedestä tehdyt pikkukakut paistetaan kuumassa uunissa paperin alla.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "cookTimeMin": 16,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g voita, pehmeänä",
+   "450 g sokeria",
+   "10 kananmunaa",
+   "½ dl valkoviiniä",
+   "½ dl ruusuvettä",
+   "½ tl muskottipähkinää tai kanelia",
+   "560 g vehnäjauhoja"
+  ],
+  "instructions": [
+   "Vaahdota voi kermaiseksi ja lisää sokeri.",
+   "Lisää munat vähitellen vatkaten, sitten viini, ruusuvesi ja mausteet. Sekoita joukkoon jauhot.",
+   "Annostele voideltuihin muffinivuokiin.",
+   "Paista 200 asteessa 12–16 minuuttia (peitä tarvittaessa leivinpaperilla)."
+  ]
+ },
+ {
+  "id": "simmons-pound-cake",
+  "title": "Paundikakku ruusuvedellä",
+  "description": "Naula sokeria, voita, jauhoja ja munia – klassinen paundikakku, joka maustetaan ruusuvedellä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g sokeria",
+   "450 g voita, pehmeänä",
+   "450 g vehnäjauhoja",
+   "9 kananmunaa (450 g)",
+   "1,2 dl ruusuvettä",
+   "½ tl muskottipähkinää tai muskottikukkaa"
+  ],
+  "instructions": [
+   "Vaahdota voi ja sokeri.",
+   "Lisää munat yksitellen vatkaten, sitten ruusuvesi ja mauste. Sekoita joukkoon jauhot.",
+   "Paista kahdessa voidellussa leipävuoassa 160 asteessa noin 1 tunti (pieninä kakkuina noin 15–20 minuuttia, kuten alkuperäisessä)."
+  ]
+ },
+ {
+  "id": "simmons-pound-cake-2",
+  "title": "Kevyt paundikakku konjakilla",
+  "description": "Vaalea paundikakku, jossa valkuaiset vatkataan erikseen vaahdoksi; mausteina ruusuvesi ja konjakki.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "340 g voita, pehmeänä",
+   "450 g sokeria",
+   "10 kananmunaa, valkuaiset ja keltuaiset erikseen",
+   "1 rkl ruusuvettä",
+   "2 rkl konjakkia",
+   "560 g vehnäjauhoja"
+  ],
+  "instructions": [
+   "Vaahdota voi ja sokeri hyvin vaaleaksi.",
+   "Vatkaa valkuaiset vaahdoksi, lisää keltuaiset ja vatkaa yhdessä.",
+   "Yhdistä voiseokseen, lisää ruusuvesi ja konjakki ja sekoita joukkoon jauhot.",
+   "Paista kahdessa voidellussa vuoassa 160 asteessa noin 1 tunti."
+  ]
+ },
+ {
+  "id": "simmons-soft-cakes-in-little-pans",
+  "title": "Pehmeät pikkukakut",
+  "description": "Runsaasti munia sisältävät pikkukakut viinillä, ruusuvedellä ja muskotilla.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "cookTimeMin": 18,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "340 g sokeria",
+   "115 g voita",
+   "450 g vehnäjauhoja",
+   "½ dl valkoviiniä",
+   "½ dl ruusuvettä",
+   "4 kananmunaa",
+   "½ muskottipähkinä, raastettuna"
+  ],
+  "instructions": [
+   "Hiero sokeri ja voi jauhoihin.",
+   "Lisää viini, ruusuvesi, munat ja muskotti ja vatkaa tasaiseksi.",
+   "Annostele voideltuihin muffinivuokiin ja paista 190 asteessa noin 15–18 minuuttia."
+  ],
+  "notes": [
+   "Määrät neljäsosa alkuperäisestä."
+  ]
+ },
+ {
+  "id": "simmons-light-cake-to-bake-in-small-cups",
+  "title": "Kevyet korinttikakut kupeissa",
+  "description": "Hiivalla kohotetut pienet kakut viinillä, ruusuvedellä, muskotilla, kanelilla ja korinteilla.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g sokeria",
+   "225 g voita",
+   "900 g vehnäjauhoja",
+   "½ dl valkoviiniä",
+   "½ dl ruusuvettä",
+   "25 g tuorehiivaa, liuotettuna 1 dl:aan haaleaa maitoa",
+   "½ muskottipähkinä",
+   "1 tl kanelia",
+   "1,5 dl korintteja"
+  ],
+  "instructions": [
+   "Hiero sokeri ja voi jauhoihin.",
+   "Lisää viini, ruusuvesi, hiivaseos, mausteet ja korintit ja vaivaa pehmeäksi taikinaksi.",
+   "Annostele voideltuihin kuppeihin tai muffinivuokiin, anna kohota tunti ja paista 190 asteessa noin 20 minuuttia."
+  ],
+  "notes": [
+   "Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ },
+ {
+  "id": "simmons-shrewsbury-cake",
+  "title": "Shrewsbury-keksit",
+  "description": "Englantilaiset voikeksit muskottikukalla: voi, sokeri ja munat vatkataan käsin hyvin kevyiksi ennen jauhoja.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "cookTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "englantilainen",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g voita, pehmeänä",
+   "340 g sokeria",
+   "½ tl muskottikukkaa",
+   "4 kananmunaa",
+   "450 g vehnäjauhoja"
+  ],
+  "instructions": [
+   "Vatkaa voi, sokeri, muskottikukka ja munat hyvin kuohkeiksi.",
+   "Sekoita joukkoon jauhot.",
+   "Kauli tai muotoile pieniksi kekseiksi ja paista miedossa 170-asteisessa uunissa noin 12–15 minuuttia, kunnes reunat vaalenevat.",
+   "Simmonsin yleisohje: mausteet jauhetaan ja siivilöidään, sokeri kuivataan ja jauhetaan, jauhot kuivataan uunissa ja munat vatkataan \"raivoavaksi vaahdoksi\"."
+  ]
+ },
+ {
+  "id": "simmons-diet-bread-no-1",
+  "title": "Diet bread (kevyt sokerikakku)",
+  "description": "Sokeri ja munat vatkataan tunnin ajan, ja jauhot, ruusuvesi ja kaneli tai korianteri lisätään vasta lopuksi – varhainen sokerikakku.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g sokeria",
+   "9 kananmunaa",
+   "400 g vehnäjauhoja",
+   "1 rkl ruusuvettä",
+   "1 rkl kanelia tai jauhettua korianteria"
+  ],
+  "instructions": [
+   "Vatkaa sokeri ja munat sähkövatkaimella hyvin vaaleaksi ja paksuksi vaahdoksi, noin 10 minuuttia (alkuperäisessä tunti käsin).",
+   "Siivilöi joukkoon jauhot ja mauste ja lisää ruusuvesi varovasti kääntäen.",
+   "Paista voidellussa vuoassa 180 asteessa noin 40 minuuttia."
+  ],
+  "notes": [
+   "Alkuperäisen perässä on korppujen (rusk) ohje: 225 g sokeria ja 225 g voita 1,8 kg:aan jauhoja, pintti maitoa ja pintti hiivaa; kohotetaan ja paistetaan vuoissa nopeasti 10 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-diet-bread-no-2",
+  "title": "Hiivalla kohotettu voikakku",
+  "description": "Sokeri, voi ja munat nypitään jauhoihin, kohotetaan hiivalla ja kostutetaan maidolla.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "cookTimeMin": 25,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g sokeria",
+   "225 g voita",
+   "3 kananmunaa",
+   "1,1 kg vehnäjauhoja",
+   "25 g tuorehiivaa",
+   "n. 3 dl maitoa, haaleaa"
+  ],
+  "instructions": [
+   "Nypi sokeri, voi ja munat jauhoihin.",
+   "Liuota hiiva maitoon ja vaivaa taikinaksi.",
+   "Anna kohota, muotoile vuokiin, anna kohota vielä ja paista 200 asteessa noin 20–25 minuuttia."
+  ],
+  "notes": [
+   "Määrät puolet alkuperäisestä. Alkuperäisessä kohotusaineena on emptins, humalasta ja jauhoista tehty kotihiiva; tilalla on tuorehiiva."
+  ]
+ }
+]
