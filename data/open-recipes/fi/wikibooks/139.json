@@ -1,0 +1,793 @@
+[
+ {
+  "id": "wikibooks-texas-easy-chili",
+  "title": "Helppo texasilainen chili",
+  "description": "Texas easy chili on chilijauheeseen ja tomaattimehuun perustuva kastike, johon lisätään kuutioitua tai jauhettua naudanlihaa. Chili on peräisin Texasista 1800-luvulta. Chilistä on monia erilaisia versioita. Tässä versiossa ei ole papuja.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "chili",
+   "pata",
+   "texmex"
+  ],
+  "ingredients": [
+   "1,35 kg naudan paistia kuutioina (tai jauhelihaa pieninä pyöryköinä)",
+   "2 rkl rypsiöljyä",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "6 rkl mietoa chilijauhetta (chili powder)",
+   "5 rkl vehnäjauhoja",
+   "1 rkl kuivattua oreganoa",
+   "1 tl juustokuminaa",
+   "7 dl tomaattimehua",
+   "3 lihaliemikuutiota",
+   "suolaa",
+   "mustapippuria",
+   "limelohkoja",
+   "smetanaa"
+  ],
+  "instructions": [
+   "Leikkaa naudanpaisti suupaloiksi tai muotoile jauhelihasta pieniä lihapullia (3 cm / 25 mm).",
+   "Paista naudanlihaa ruokaöljyssä, kunnes pinta on ruskistunut.",
+   "Lisää hienonnettu valkosipuli ja paista 2 minuuttia.",
+   "Sekoita chilijauhe, jauhot, oregano ja kumina kulhossa ja sekoita hyvin. Ripottele seos paistuvan naudanlihan päälle ja sekoita, kunnes liha on tasaisesti mausteiden peitossa. Paista 1 minuutti.",
+   "Lisää tomaattimehua ja liemikuutioita. Sekoita noin 15 sekuntia.",
+   "Hauduta 45 minuuttia sekoittaen välillä.",
+   "Ota kattila pois liedeltä ja mausta suolalla ja mustapippurilla maun mukaan."
+  ],
+  "notes": [
+   "Jäähdytä ja säilytä jääkaapissa yön yli, jotta maut kehittyvät (jos jaksat odottaa; jos et, nauti heti).",
+   "Kuumenna ja tarjoile kulhoissa, joihin on lisätty 1 rkl limemehua ja 1 rkl smetanaa.",
+   "Tarjoile maissileivän tai hapanleivän kanssa.",
+   "Saat herkullisen lisän, kun laitat chilin päälle ruokalusikallisen ranch-kastiketta ja hieman juustoa!"
+  ]
+ },
+ {
+  "id": "wikibooks-texas-style-barbecue-ribs",
+  "title": "Texasilaiset savustetut porsaan ribsit",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "grilli",
+   "savustus",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "Mop-liemi:",
+   "2,5 dl omenaviinietikkaa",
+   "1 dl hunajaa",
+   "½ dl worcestershirekastiketta",
+   "2 rkl cayennepippuria",
+   "Maustehieronta:",
+   "6 rkl tummaa fariinisokeria",
+   "2 rkl cayennepippuria",
+   "2 rkl savupaprikajauhetta",
+   "2 rkl karkeaa suolaa",
+   "2 rkl mustapippuria",
+   "2 rkl Old Bay -maustetta (tai sellerisuolaa)",
+   "1 rkl chilihiutaleita",
+   "2 rkl valkosipulijauhetta",
+   "2 rkl sipulijauhetta",
+   "2 rkl kuivattua rosmariinia",
+   "2 rkl kuivattua timjamia",
+   "Lisäksi:",
+   "2 porsaan ribsilevyä (St. Louis -leikkaus)"
+  ],
+  "instructions": [
+   "Sekoita kaikki Mop-ainekset ja kaada ne suihkepulloon. Sekoita kaikki Rub-ainekset ja hiero ne sianlihaan. Säilytä sianlihaa jääkaapissa yön yli.",
+   "Seuraavana päivänä laita hickory-paloja savustimen tulipesään. Kuumenna lämpötila 105 asteeseen.",
+   "Aseta kyljykset savustimeen ja kypsennä niitä suihkuttamalla niille säännöllisesti Mop-kastiketta.",
+   "Grillaa kyljyksiä korkealla lämmöllä, käännä niitä usein ja suihkuta grillattua puolta joka kerta, kun käännät niitä, kunnes molemmat puolet ovat kauniin ruskeat.",
+   "Ota uunista ja anna levätä 7 minuuttia.",
+   "Leikkaa kyljykset yksittäisiksi annoksiksi ja laita ne suureen ruostumattomasta teräksestä valmistettuun kulhoon. Kaada päälle noin 1 dl Mop-kastiketta ja sekoita, jotta kastike tarttuu kyljyksiin. Tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-texas-style-chicken-fried-steak",
+  "title": "Chicken fried steak (paneroitu pihvi kermakastikkeella)",
+  "description": "Jos olet koskaan käynyt Texasissa ja maistanut siellä chicken-fried steak -pihviä, tiedät, että ne ovat uskomattoman hyviä! Ne ovat ulkopuolelta rapeita, sisältä mureita, savuisia ja pippurisia, hieman tulisia ja kastettuja täyteläiseen kermakastikkeeseen. Se on yksinkertaisesti uskomatonta.",
+  "servings": 3,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "paneroitu",
+   "amerikkalainen",
+   "kermakastike"
+  ],
+  "ingredients": [
+   "3 naudan pihviä (esim. paahtopaisti), 1 cm paksuiksi nuijittuina",
+   "1 tl suolaa",
+   "½ dl mustapippuria, jaettuna",
+   "2 rkl savustettua paprikajauhetta",
+   "1 rkl cayennepippuria",
+   "3 rkl pekonirasvaa tai voita, jaettuna",
+   "2,5 dl kanalientä",
+   "2,5 dl täysmaitoa + ½ dl kermaa",
+   "2 kananmunaa, vatkattuna",
+   "vehnäjauhoja pyörittelyyn + 3 rkl kastikkeeseen"
+  ],
+  "instructions": [
+   "Mausta pihvit suolalla ja 2 rkl tuorejauhettua mustapippuria.",
+   "Sekoita munat, paprikajauhe ja cayennepippuri piirakkavuoassa. Kasta pihvit munaseokseen.",
+   "Laita toiseen piirakkavuokaan hieman yleiskäyttöistä jauhoa. Pyöritä taikinaan kastetut pihvit jauhoissa.",
+   "Siirrä jäähdytysritilälle ja anna levätä 10–15 minuuttia. Pese tämä, kun alat paistaa, tai ota puhdas.",
+   "Kuumenna 30 cm valurautapannu keskilämmöllä. Kun pannu on kuuma, kaada siihen 2 rkl paistinrasvaa. Aseta pihvit kolmiomuodostelmassa pannun reunoille. Paista 4 minuuttia kummaltakin puolelta.",
+   "Nosta pihvit pannulta ja anna niiden valua jäähdytysritilällä uunipellin päällä. Pidä pihvit lämpiminä 120-asteisessa uunissa.",
+   "Lisää jäljellä olevat paistomehut ja 3 rkl jauhoja. Vatkaa jatkuvasti, kunnes seos on vaaleanruskeaa.",
+   "Lisää kanaliemi ja irrota pohjalle tarttuneet palat. Kiehauta keskilämmöllä, kunnes neste on vähentynyt ¾.",
+   "Lisää maitoseos ja loput mustapippurit. Hauduta keskilämmöllä, kunnes kastike peittää lusikan takaosan.",
+   "Siirrä pihvit tarjoilulautasille ja kaada päälle kastiketta. Tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-green-curry-paste",
+  "title": "Thaimaalainen vihreä currytahna",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "currytahna",
+   "thaimaalainen",
+   "tulinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "16 vihreää thaichiliä, hienonnettuna",
+   "2 sitruunaruohonvartta, murskattuina",
+   "3 valkosipulinkynttä, puristettuna",
+   "3 kevätsipulia, hienonnettuna",
+   "1 rkl raastettua inkivääriä",
+   "1 rkl korianterinsiemeniä",
+   "1 rkl kuminansiemeniä",
+   "4 neilikkaa",
+   "1 tl muskottipähkinää",
+   "1 rkl katkaraputahnaa (trassi)",
+   "3 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Jauha vihreät chilipaprikat, valkosipuli, sitruunaruoho ja kevätsipulit morttelissa.",
+   "Lisää muut ainekset paitsi öljy ja jauha seosta, kunnes siitä tulee nestemäinen tahna.",
+   "Sekoita öljy joukkoon.",
+   "Säilytä ilmatiiviissä astiassa jääkaapissa enintään 1 kuukauden ajan."
+  ],
+  "notes": [
+   "Vaihtoehtoisesti voit morttelin ja survimen sijaan laittaa kaikki ainekset monitoimikoneeseen tai tehosekoittimeen ja sekoittaa tasaiseksi. Ohenna tarvittaessa vedellä tai öljyllä."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-green-curry-with-chicken",
+  "title": "Thaimaalainen vihreä kanacurry",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "curry",
+   "thaimaalainen",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 rkl rypsiöljyä",
+   "2 rkl vihreää currytahnaa (maun mukaan)",
+   "1 rkl tummaa fariinisokeria",
+   "1–2 sitruunaruohonvartta, nuijittuina",
+   "750 g broilerin rinta- tai paistileikettä, paloina",
+   "6–8 kaffirlimetin lehteä, revittyinä (tai 1 limetin raastettu kuori)",
+   "400 ml kookosmaitoa",
+   "reilu loraus kalakastiketta tai vaaleaa soijakastiketta",
+   "pieni kourallinen korianterinlehtiä, karkeasti hienonnettuna",
+   "½–1 limetin mehu"
+  ],
+  "instructions": [
+   "Kuumenna öljy wokissa tai suuressa paistinpannussa.",
+   "Lisää vihreä currytahna ja sokeri ja paista melko kovalla lämmöllä noin minuutin ajan sekoittaen samalla sitruunaruohoa, jos käytät sitä.",
+   "Vähennä hieman lämpöä ja sekoita kananpalat ja limenlehdet tai -kuori mukaan, kunnes ne ovat peittyneet tahnalla.",
+   "Lisää kookosmaito, kalakastike tai soijakastike ja anna kiehua hiljalleen 25–30 minuuttia, kunnes seos on hieman sakeutunut.",
+   "Sekoita joukkoon korianteri ja limemehu.",
+   "Maista ja lisää tarvittaessa kalakastiketta tai soijakastiketta.",
+   "Anna curryn seistä muutama minuutti, jotta kastike muuttuu kermaisemmaksi. Hieman jäähtyneenä maistat myös currytahnan ainesosien aidot maut.",
+   "Tarjoa jasmiiniriisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-grilled-chicken-i",
+  "title": "Thaimaalainen grillikana chilimarinadissa",
+  "description": "Tämä marinadi sopii erinomaisesti myös naudanlihan paistokastikkeeksi, porsaankyljysten marinadiksi tai yksinkertaisesti dippikastikkeeksi.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "grilli",
+   "thaimaalainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "2 thaichiliä, varret poistettuina",
+   "½ dl soijakastiketta",
+   "1 rkl kalakastiketta",
+   "1 tl srirachaa tai muuta thaichilikastiketta",
+   "2 rkl hienonnettua valkosipulia",
+   "2 rkl hienonnettua inkivääriä",
+   "2 rkl riisiviinietikkaa",
+   "4 broilerin rintafileetä (yht. n. 680 g)",
+   "rypsiöljyä ritilän voiteluun"
+  ],
+  "instructions": [
+   "Sekoita tehosekoittimessa chilipaprikat, chilipasta, kastikkeet, valkosipuli, inkivääri ja etikka tasaiseksi massaksi. Kaada seos gallonan kokoiseen vetoketjulliseen pussiin ja lisää kananrinnat. Anna marinoitua jääkaapissa vähintään 1 tunti.",
+   "Kuumenna grilli keskilämmölle ja voitele ritilä öljyyn kastetulla talouspaperilla. Grillaa kanaa 4–6 minuuttia kummaltakin puolelta, kunnes sisälämpö on 75 astetta.",
+   "Siirrä lautaselle ja anna levätä 5 minuuttia. Tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-grilled-chicken-ii",
+  "title": "Hunaja-limegrillikana",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "grilli",
+   "hunaja",
+   "lime"
+  ],
+  "ingredients": [
+   "4 broilerin rintafileetä (yht. n. 500 g)",
+   "1 tl hienonnettua valkosipulia",
+   "½ dl soijakastiketta",
+   "½ tl chilihiutaleita",
+   "2 rkl hunajaa",
+   "1 rkl limemehua"
+  ],
+  "instructions": [
+   "Valmistele grilli. Aseta kana matalaan astiaan.",
+   "Sekoita soijakastike, valkosipuli ja pippurihiutaleet mittakupissa. Kaada seos kanan päälle ja käännä kanaa, jotta se peittyy tasaisesti.",
+   "Anna seistä 10 minuuttia.",
+   "Sekoita hunaja ja limemehu pienessä kulhossa, kunnes ne ovat sekoittuneet. Aseta sivuun.",
+   "Aseta kana ritilälle keskilämpöisten hiilien päälle. Sivele kanaa astiaan jääneellä marinadilla. Hävitä loput marinadista.",
+   "Peitä ja grillaa 5 minuuttia. Sivele kanaa puolella hunajaseoksesta, käännä ja sivele lopulla seoksella.",
+   "Grillaa, kunnes kana on täysin kypsä."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-lemonade",
+  "title": "Sitruunaruoho-inkiväärilimonadi",
+  "description": "Tämä on thaimaalainen versio limonadista.",
+  "servings": 4,
+  "category": "Juomat",
+  "tags": [
+   "sitruunaruoho",
+   "inkivääri",
+   "alkoholiton",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,25 dl vettä",
+   "100 g sokeria",
+   "2 sitruunaruohonvartta",
+   "2 cm pala inkivääriä, kuorittuna ja paloiteltuna",
+   "1 l kivennäisvettä",
+   "limettiviipaleita koristeeksi"
+  ],
+  "instructions": [
+   "Kiehauta vesi sokerin, sitruunaruohon ja inkiväärin kanssa. Keitä 20 minuuttia.",
+   "Anna siirapin jäähtyä ja poista sitten sitruunaruoho ja inkivääri.",
+   "Kaada siirappi neljään suureen lasiin ja lisää hiilihapotettua vettä.",
+   "Koristele lasit limen viipaleilla."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-peanut-fried-rice",
+  "title": "Maapähkinä-currypaistettu riisi",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "maapähkinä",
+   "thaimaalainen",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 rkl soijakastiketta",
+   "1 rkl vettä",
+   "2 tl siirappia",
+   "2 tl maapähkinävoita",
+   "1 rkl thaimaalaista punaista currytahnaa",
+   "1 rkl kiinalaista mustaa etikkaa (tai riisiviinietikkaa)",
+   "3 rkl rypsiöljyä",
+   "2 kananmunaa",
+   "5 dl keitettyä, jäähtynyttä riisiä",
+   "2,5 dl pakaste-edamamepapuja",
+   "1 iso porkkana, raastettuna",
+   "1 dl suolattuja paahdettuja maapähkinöitä"
+  ],
+  "instructions": [
+   "Sekoita kastikeainekset pienessä kulhossa.",
+   "Kuumenna pannulla 1 rkl öljyä. Paista munat, pilko ne ja ota pois pannulta.",
+   "Kuumenna 2 rkl öljyä samassa pannussa. Paista pakastettuja edamame-papuja 2–3 minuuttia, kunnes ne ovat kypsiä.",
+   "Lisää riisi ja kastike ja sekoita. Lisää sitten raastettu porkkana, maapähkinät ja munat ja paista vielä 2–3 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-peanut-fried-rice-vegan",
+  "skip": "lähes sama kuin maapähkinä-currypaistettu riisi"
+ },
+ {
+  "id": "wikibooks-thai-red-curry-paste",
+  "title": "Thaimaalainen punainen currytahna",
+  "description": "Thaimaalainen punainen currytahna (thaiksi: phrik kaeng phet) on mausteinen tahna, jota käytetään yleisesti curryruokien valmistuksessa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "currytahna",
+   "thaimaalainen",
+   "tulinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "12 pientä punaista thaichiliä, hienonnettuna",
+   "1 sitruunaruohonvarsi",
+   "3 valkosipulinkynttä, puristettuna",
+   "1 pieni sipuli",
+   "1 rkl raastettua inkivääriä",
+   "2 rkl tuoretta korianteria varsineen, hienonnettuna",
+   "ripaus juustokuminaa",
+   "1 rkl katkaraputahnaa (trassi)",
+   "2 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Jauha punaiset chilipaprikat, valkosipuli, sitruunaruoho ja sipuli morttelissa.",
+   "Lisää muut ainekset paitsi öljy ja jauha edelleen, kunnes saat tasaisen tahnan.",
+   "Sekoita öljy seokseen. Säilytä ilmatiiviissä astiassa jääkaapissa enintään 1 kuukausi."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-rice-balls-in-coconut-milk-bua-loi",
+  "title": "Bua loi (riisipallot kookoskermassa)",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "thaimaalainen",
+   "kookos",
+   "riisi",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "7 dl tahmeaa riisijauhoa (glutinous rice flour)",
+   "1½ tl pandanuutetta",
+   "9,5 dl kookoskermaa",
+   "3–5 dl sokeria",
+   "1 tl suolaa",
+   "3 kananmunaa (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita riisijauhoa ja vettä niin paljon, että saat aikaan kiinteän taikinan. Lisää pandan-uute veteen ennen kuin sekoitat sen riisijauhoon. Vaivaa taikinaa hyvin ja muotoile siitä herneen kokoisia palloja.",
+   "Kiehauta suuri kattilallinen vettä. Lisää riisipallot ja ota ne pois, kun ne nousevat pintaan. Valuta vesi pois.",
+   "Kiehauta puolet kookoskermasta jatkuvasti sekoittaen, jotta se ei erotu, ja lisää sitten jauhopallot.",
+   "Kun seos alkaa kiehua uudelleen, ota se pois liedeltä ja sekoita siihen loput kookoskerma.",
+   "Jos tarjoat tämän ruokalajin munien kanssa, kiehauta vesi erillisessä kattilassa, vähennä lämpöä ja riko munat yksi kerrallaan veteen. Kun munat ovat valmiita, ota ne vedestä ja aseta sivuun.",
+   "Tarjoile jälkiruokana pienissä kulhoissa, lisäämällä yksi muna kulhoa kohti. Thaimaalaiset lisäävät usein valmiiseen ruokaan makeita maissin jyviä."
+  ]
+ },
+ {
+  "id": "wikibooks-thai-shrimp",
+  "title": "Tulinen katkarapuwokki",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "katkarapu",
+   "thaimaalainen",
+   "wokki",
+   "nopea"
+  ],
+  "ingredients": [
+   "½ dl soijakastiketta",
+   "2–3 rkl thaichilikastiketta (esim. sriracha)",
+   "2 rkl riisiviinietikkaa",
+   "1 rkl sokeria",
+   "2 tl maissitärkkelystä",
+   "2 tl seesamiöljyä",
+   "1 dl kanalientä",
+   "1 rkl maapähkinä- tai rypsiöljyä",
+   "24 isoa katkarapua, kuorittuina ja suolistettuina",
+   "¼ punaista paprikaa, suikaloituna",
+   "¼ vihreää paprikaa, suikaloituna",
+   "2 tl hienonnettua valkosipulia",
+   "suolaa",
+   "mustapippuria",
+   "1 rkl paahdettuja seesaminsiemeniä",
+   "keitettyä riisiä tai nuudeleita"
+  ],
+  "instructions": [
+   "Sekoita soijakastike, chilitahna, etikka, sokeri, maissitärkkelys, seesamiöljy ja liemi. Aseta sivuun.",
+   "Kuumenna suuri paistinpannu tai wok korkealla lämmöllä. Lisää maapähkinäöljyä ja katkarapuja ja paista, kunnes katkaravut ovat vaaleanpunaisia. Ota pois pannulta ja pidä lämpimänä.",
+   "Lisää paprika ja valkosipuli ja paista, kunnes paprika on hieman ruskistunut. Ota pois pannulta ja pidä lämpimänä.",
+   "Kaada nesteseos pannulle ja kiehauta. Keitä, kunnes neste on tiivistynyt ½ dl:ksi.",
+   "Lisää katkaravut ja vihannekset takaisin pannulle ja sekoita. Kuumenna läpi.",
+   "Koristele seesaminsiemenillä ja tarjoile heti riisin tai nuudelien kera."
+  ],
+  "notes": [
+   "Jos tarjoat tätä ruokaa jollekin, jolla on maapähkinäallergia, älä huoli. Allergeenit ovat proteiiniosassa, eivät rasvaosassa. Vältä kuitenkin seuraavia maapähkinäöljyjä: kylmäpuristettuja ja luomua, joita emme kuitenkaan käyttäisi, koska niiden savupiste on liian matala."
+  ]
+ },
+ {
+  "id": "wikibooks-thalassery-biryani",
+  "skip": "vaikeasti saatavia aineksia (kaima-riisi, dalda), epäselvät määrät"
+ },
+ {
+  "id": "wikibooks-thick-crust-pizza",
+  "title": "Paksupohjainen pellillinen pizza",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pizza",
+   "uuniruoka",
+   "leivonta",
+   "juhla"
+  ],
+  "ingredients": [
+   "1 tölkki (340 g) tomaattikastiketta tai passataa",
+   "1 tl sokeria",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "1 tl kuivattua persiljaa",
+   "1 tl kuivattua basilikaa",
+   "1 rkl valkosipulimurskaa",
+   "¼ tl kuivattua oreganoa",
+   "14 g kuivahiivaa",
+   "5 dl lämmintä vettä",
+   "n. 14 dl vehnäjauhoja",
+   "2–3 rkl rypsiöljyä",
+   "mozzarellaraastetta",
+   "täytteitä (esim. pepperonia, sipulia, paprikaa)"
+  ],
+  "instructions": [
+   "Kaada tölkki tomaattikastiketta sekoituskulhoon.",
+   "Lisää kulhoon sokeri, suola, pippuri, persilja, basilika, oregano ja murskattu valkosipuli.",
+   "Sekoita ja aseta sivuun.",
+   "Sekoita hiiva lämpimään veteen. Sekoita, kunnes ainekset ovat sekoittuneet.",
+   "Kaada hiivavesi kulhoon, jossa on 12 dl jauhoja, ja sekoita. Lisää jauhoja tarpeen mukaan, kunnes taikina irtoaa kulhon reunoista.",
+   "Levitä leivinpaperia ja ripottele sen päälle jauhoja. Siirrä taikina sekoituskulhosta leivinpaperille. Vaivaa taikinaa. Lisää jauhoja toistuvasti, kunnes taikina tuntuu melko kuivalta ja tasaiselta.",
+   "Ripottele kulhoon jauhoja. Muodosta taikinasta pallo, ripottele sen pinnalle jauhoja ja laita kulhoon.",
+   "Peitä kulho pyyhkeellä. Anna nousta 2 tuntia.",
+   "Kuumenna uuni 180 asteeseen.",
+   "Voitele uunipellin tai ison vuoan pohja ja reunat öljyllä.",
+   "Levitä leivinpaperia ja ripottele sen päälle kerros jauhoja.",
+   "Tasoita taikina leivinpaperin päällä kaulinalla.",
+   "Laita taikina pannulle.",
+   "Tee taikinan ulkoreunaan reunus kuoren muodostamiseksi.",
+   "Levitä valmistettu kastike taikinan päälle. Ripottele mozzarella ja täytteet kastikkeen päälle.",
+   "Paista esilämmitetyssä uunissa 30 minuuttia, kunnes juusto on sulanut ja kuori on ruskistunut ja kypsynyt.",
+   "Viipaloi ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-thin-fish-fillets",
+  "title": "Grillatut kampelafileet vermutilla",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "nopea",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 kampelafileetä tai muuta ohutta kalafileetä (yht. n. 670 g)",
+   "oliiviöljyä",
+   "1 dl kuivaa vermuttia tai valkoviiniä",
+   "2 rkl voita, pehmeänä",
+   "suolaa",
+   "mustapippuria",
+   "4 sitruunaviipaletta"
+  ],
+  "instructions": [
+   "Kuumenna uunin grillivastus hyvissä ajoin.",
+   "Voitele kevyesti uunivuoka (n. 23 x 33 cm) öljyllä.",
+   "Asettele fileet uunivuokaan yhdeksi kerrokseksi.",
+   "Kaada vuokaan vermutti.",
+   "Aseta pannu grillin alle ja grillaa kalaa mahdollisimman lähellä lämmönlähdettä noin 2 minuuttia.",
+   "Ota fileet uunista ja levitä niille nopeasti pehmennettyä voita.",
+   "Laita pannu takaisin grillivastuksen alle ja paista vielä noin 5 minuuttia, kunnes kala on juuri kypsynyt.",
+   "Ota kala uunista.",
+   "Mausta jokainen filee suolalla ja pippurilla ja tarjoile sitruunaviipaleiden kera."
+  ]
+ },
+ {
+  "id": "wikibooks-thin-waffles",
+  "title": "Ohuet vohvelit",
+  "description": "Nämä vohvelit voidaan tarjoilla heti tai käyttää vohvelikakun valmistukseen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vohvelit",
+   "kasvis",
+   "leivonta"
+  ],
+  "ingredients": [
+   "6 kananmunaa",
+   "2,5 dl sokeria",
+   "2,5 dl vehnäjauhoja",
+   "200 g voita, sulatettuna"
+  ],
+  "instructions": [
+   "Riko munat sekoituskulhoon ja lisää sokeri.",
+   "Sekoita jauhot vähitellen munaseokseen. Lisää sitten sulatettu voi vähitellen seokseen.",
+   "Kuumenna vohvelirauta valmistajan ohjeiden mukaisesti, kunnes se on käyttövalmis.",
+   "Kaada vohvelirautaan riittävä määrä taikinaa – sen tulisi peittää pinta juuri ja juuri. Sulje rauta ja paista, kunnes vohveli on keskiruskea (noin 2 minuuttia). Ota valmis vohveli raudasta.",
+   "Toista vohvelien paistaminen, kunnes vohvelitaikina on käytetty loppuun.",
+   "Tarjoile vohvelit sellaisenaan tai käytä niitä vohvelikakun valmistukseen."
+  ]
+ },
+ {
+  "id": "wikibooks-thobwa-la-mtedza-malawian-sesame-seed-drink",
+  "title": "Thobwa la mtedza (malawilainen seesamijuoma)",
+  "description": "Thobwa la mtedza on perinteinen malawilainen juoma, joka valmistetaan seesaminsiemenistä. Tämä ravitseva ja virkistävä juoma on suosittu valinta kuumina päivinä, ja sitä nauttivat kaiken ikäiset ihmiset.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "seesami",
+   "maapähkinä",
+   "afrikkalainen",
+   "maidoton",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl seesaminsiemeniä",
+   "½ dl maapähkinöitä",
+   "2 rkl hunajaa tai sokeria (tai maun mukaan)",
+   "9,5 dl vettä"
+  ],
+  "instructions": [
+   "Paista seesaminsiemeniä ja maapähkinöitä kuivalla paistinpannulla tai paistokasarilla keskilämmöllä. Sekoita niitä jatkuvasti, jotta ne eivät pala, kunnes ne muuttuvat kullanruskeiksi ja alkavat tuoksua.",
+   "Ota pannu pois liedeltä ja anna paahdettujen siementen ja maapähkinöiden jäähtyä muutama minuutti.",
+   "Sekoita paahdetut seesaminsiemenet ja maapähkinät veden kanssa tehosekoittimessa.",
+   "Sekoita seosta, kunnes se muuttuu tasaiseksi ja kermaiseksi.",
+   "Kaada seos pähkinämaitopussin tai hienojakoisen siivilän läpi suureen kulhoon, jotta neste erottuu kiinteistä aineista.",
+   "Purista tai paina pussia, jotta saat siitä irti mahdollisimman paljon nestettä.",
+   "Makeuta hunajalla. Sekoita hyvin, jotta makeutusaine liukenee.",
+   "Jäähdytä juomaa jääkaapissa vähintään tunnin ajan ennen tarjoilua.",
+   "Sekoita ennen tarjoilua, sillä seos saattaa erottua luonnollisesti ajan myötä."
+  ],
+  "notes": [
+   "Jos haluat juomasta kermaisemman, voit lisätä siihen pienen määrän kookosmaitoa tai lehmänmaitoa.",
+   "Säädä thobwa la mtedzan makeutta lisäämällä hunajaa tai sokeria makusi mukaan.",
+   "Tämän juoman muunnelmissa voidaan lisätä mausteita, kuten kanelia, muskottipähkinää tai vaniljaa, antamaan juomalle lisää makua.",
+   "Seesaminsiemenet ja maapähkinät ovat erinomaisia proteiinin, terveellisten rasvojen ja erilaisten välttämättömien ravintoaineiden, kuten kalsiumin ja raudan, lähteitä."
+  ]
+ },
+ {
+  "id": "wikibooks-thong-yib-thai-candied-egg-yolks",
+  "skip": "vaikeasti saatavia aineksia (15 ankanmunaa, jasmiinivesi)"
+ },
+ {
+  "id": "wikibooks-thousand-island-dressing",
+  "title": "Thousand Island -kastike",
+  "description": "Thousand Island on salaattikastike, jota käytetään yleisesti vihreissä salaateissa. Sitä voidaan käyttää myös voileipien levitteenä tai moniin muihin tarkoituksiin.",
+  "servings": 8,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "salaatinkastike",
+   "amerikkalainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl majoneesia",
+   "½ dl ketsuppia",
+   "2 rkl valkoviinietikkaa",
+   "1 rkl sokeria",
+   "1 rkl makeaa kurkkurelishiä",
+   "2 tl sipulia, hienonnettuna",
+   "¼ tl suolaa",
+   "ripaus mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset tehosekoittimessa, kunnes seos on tasainen. Tavoitteena on saada vaaleanpunainen, tasainen kastike.",
+   "Kaada kastike kulhoon ja anna sen jäähtyä peitettynä jääkaapissa vähintään 30 minuuttia ennen käyttöä."
+  ],
+  "notes": [
+   "Älä käytä tehosekoitinta, vaan vatkaa ainekset kulhossa."
+  ]
+ },
+ {
+  "id": "wikibooks-three-bean-confetti-salad",
+  "title": "Kolmen pavun salaatti",
+  "servings": 8,
+  "totalTimeMin": 10,
+  "category": "Salaatit",
+  "tags": [
+   "pavut",
+   "maissi",
+   "nopea",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 tlk (400 g) pintopapuja, huuhdeltuina",
+   "1 tlk (400 g) kidneypapuja, huuhdeltuina",
+   "1 tlk (400 g) mustapapuja, huuhdeltuina",
+   "1 tlk (n. 200 g) maissinjyviä, valutettuina",
+   "1 tlk (400 g) tomaattimurskaa (valkosipulilla), nesteineen",
+   "1 dl italialaista salaatinkastiketta",
+   "2 tl italialaista yrttisekoitusta",
+   "¼ tl mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita kulhossa pavut, maissi, tomaatit, italialainen salaatinkastike, italialaiset mausteet ja pippuri.",
+   "Tarjoile jäähdytettynä tai huoneenlämpöisenä."
+  ]
+ },
+ {
+  "id": "wikibooks-three-ginger-soup",
+  "title": "Kolmen inkiväärin keitto",
+  "description": "Tämä resepti löytyi ravintolasta La Cascade[1] Ranskan Languedoc-alueella.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "inkivääri",
+   "appelsiini",
+   "tomaatti",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l tuoretta, makeuttamatonta appelsiinimehua",
+   "1 l tuoretta tomaattimehua",
+   "150 g sipulia",
+   "2 rkl oliiviöljyä",
+   "1 tl inkiväärijauhetta",
+   "3 tl tuoretta inkivääriä, hienoksi raastettuna",
+   "3 tl sokeriliemessä säilöttyä inkivääriä (stem ginger)",
+   "1 tl persiljaa, hienonnettuna",
+   "1 tl suolaa",
+   "1 timjaminoksa",
+   "1 laakerinlehti",
+   "1 iso porkkana"
+  ],
+  "instructions": [
+   "Kuori, pilko ja paista sipulit; älä ruskista niitä.",
+   "Kuori ja pilko porkkana.",
+   "Lisää kaikki muut ainekset paitsi säilötty inkivääri ja hauduta 40 minuuttia.",
+   "Poista timjami ja laakerinlehti ja soseuta keitto. Hienonna säilötty inkivääri ja sekoita se keittoon.",
+   "Lämmitä uudelleen, mausta tarvittaessa ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-three-sisters-soup",
+  "title": "Kolmen sisaren keitto",
+  "description": "Kolmen sisaren keitto on klassinen alkuperäiskansojen resepti, joka juontaa juurensa Pohjois-Amerikan alkuperäiskansojen kulttuurien kolmesta perusraaka-aineesta: maissista, kurpitsasta ja pavuista. Tämä runsas ja herkullinen keitto on kunnianosoitus alkuperäiskansojen yhteisöjen rikkaalle perinnölle ja maatalousperinteille. Se maistuu erinomaiselta sellaisenaan tai tuoreen alkuperäiskansojen leivän kera.",
+  "servings": 6,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "maissi",
+   "pavut",
+   "kurpitsa",
+   "alkuperäisamerikkalainen"
+  ],
+  "ingredients": [
+   "5 dl hominy-maissia tai maissinjyviä, valutettuna",
+   "5 dl tuoreita vihreitä papuja, paloina",
+   "5 dl myskikurpitsaa, kuorittuna ja kuutioituna",
+   "3,5 dl perunaa, kuorittuna ja kuutioituna",
+   "12 dl vettä",
+   "1½ rkl kanaliemijauhetta",
+   "2 rkl sulatettua voita",
+   "2 rkl vehnäjauhoja",
+   "¼ tl mustapippuria",
+   "suolaa"
+  ],
+  "instructions": [
+   "Yhdistä isossa kattilassa maissi, pavut, kurpitsa ja perunat.",
+   "Lisää vesi ja liemijauhe.",
+   "Kiehauta, vähennä sitten lämpöä ja anna hautua, kunnes vihannekset ovat pehmeitä (noin 10 minuuttia).",
+   "Sulata voi erillisessä pannussa ja sekoita siihen jauhot vispilällä. Sekoita seos keittoon.",
+   "Nosta lämpötila keskilämmölle ja keitä, kunnes keitto sakeutuu (noin 5 minuuttia).",
+   "Mausta suolalla ja pippurilla maun mukaan.",
+   "Tarjoile herkullinen kolmen sisaren keitto. Koristele tuoreilla yrtteillä tai alkuperäiskansojen mausteilla maun vahvistamiseksi."
+  ],
+  "notes": [
+   "Alkuperäiskansojen makuja voi korostaa käyttämällä perinteisiä alkuperäiskansojen mausteita tai yrttejä.",
+   "Voit vapaasti säätää vihannesten määriä oman maun mukaan.",
+   "Katso myös Three Sisters Stew -ruokaohje, jossa on toinen muunnelma."
+  ]
+ },
+ {
+  "id": "wikibooks-three-sisters-stew",
+  "title": "Kolmen sisaren pata",
+  "description": "Kolmen sisaren muhennos on perinteinen ja nykyaikainen amerikkalaisten alkuperäiskansojen ruokalaji. Ruokalaji sisältää kolme sisarruokaa: maissia, papuja ja kurpitsaa, jotka ovat yleisiä monien amerikkalaisten alkuperäiskansojen ruokavaliossa. Nämä kolme perinteistä ainesosaa valmistetaan yhdessä, koska viljelymenetelmissä nämä kolme viljelykasvia kasvatettiin usein samalla pellolla keskinäisessä riippuvuussuhteessa. Pavut kiipeävät korkeiden maissin varsien ylle ja lannoittavat maaperää koko elinkaarensa ajan. Kurpitsa peittää maissin varsien välisen maan ja suojaa pavun ja maissin juuria.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pata",
+   "kurpitsa",
+   "pavut",
+   "maissi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 pieni (n. 900 g) myskikurpitsa",
+   "1 rkl oliiviöljyä",
+   "1 keskikokoinen sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "½ vihreä tai punainen paprika, kapeina suikaleina",
+   "1 tlk (400 g) tomaattimurskaa, nesteineen",
+   "5 dl keitettyjä tai säilöttyjä pintopapuja",
+   "5 dl maissinjyviä (2 tähkästä tai pakasteesta)",
+   "2,5 dl vettä tai kasvislientä",
+   "1–2 tuoretta chiliä, siemenet poistettuna ja hienonnettuna",
+   "1 tl juustokuminaa",
+   "1 tl kuivattua oreganoa",
+   "suolaa",
+   "mustapippuria",
+   "3–4 rkl tuoretta korianteria, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Leikkaa kurpitsa tai squash pituussuunnassa kahtia ja poista siemenet ja kuidut. Kääri puolikkaat alumiinifoliolla ja aseta ne leikkauspuoli ylöspäin folioilla vuorattuun matalaan uunivuokaan.",
+   "Paista 40–50 minuuttia tai kunnes se on helposti läpäistävissä veitsellä, mutta silti kiinteä (jos käytät kurpitsaa, valmista se samalla tavalla). Kun se on jäähtynyt tarpeeksi käsiteltäväksi, kaavi sisus pois ja leikkaa se suuriksi kuutioiksi. Aseta sivuun, kunnes tarvitset niitä.",
+   "Kuumenna öljy keittokattilassa. Lisää sipuli ja paista keskilämmöllä, kunnes sipuli on läpikuultavaa. Lisää valkosipuli ja jatka paistamista, kunnes sipuli on kullanruskeaa.",
+   "Lisää kurpitsa ja kaikki muut ainekset paitsi kaksi viimeistä ja anna kiehua hiljalleen. Hauduta kannen alla, kunnes kaikki vihannekset ovat pehmeitä, noin 20–25 minuuttia. Mausta suolalla ja pippurilla maun mukaan.",
+   "Jos aikaa riittää, anna muhennoksen seistä 1–2 tuntia ennen tarjoilua ja lämmitä sitten tarvittaessa. Sekoita korianteri mukaan juuri ennen tarjoilua. Muhennoksen tulee olla paksua ja hyvin mehevää, mutta ei liemimäistä; lisää tarvittaessa lisää liemiä tai vettä. Tarjoile matalissa kulhoissa."
+  ],
+  "notes": [
+   "Pataan proteiinipitoisuutta voi lisätä lisäämällä siihen kupillisen quinoa-jyviä ja/tai naulan keitettyä kalkkunalihaa, joka on leikattu suupaloiksi.",
+   "Katso myös Three Sisters -keitto, jossa on toinen muunnos."
+  ]
+ },
+ {
+  "id": "wikibooks-thumbprint-jam-cookies",
+  "title": "Hillosilmät",
+  "description": "Herkullinen keksi, jonka keskellä on hillon muodostama \"silmä\".",
+  "servings": 30,
+  "totalTimeMin": 25,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "hillo",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g pehmeää voita",
+   "2,5 dl sokeria",
+   "1 kananmuna",
+   "2 tl vaniljauutetta",
+   "3,5 dl vehnäjauhoja (tarvittaessa lisää, jotta taikina on muotoiltavaa)",
+   "½ tl leivinjauhetta",
+   "1 dl vadelma- tai mansikkahilloa"
+  ],
+  "instructions": [
+   "Sekoita voi ja sokeri vaahdoksi sekoittimessa.",
+   "Kun seos on kermaista, lisää muna ja vanilja. Vatkaa tasaiseksi.",
+   "Sekoita jauhot ja leivinjauhe keskenään sekoituskulhossa.",
+   "Lisää jauhot kermaiseen seokseen. Vatkaa hitaalla nopeudella, kunnes ainekset ovat täysin sekoittuneet.",
+   "Jaa taikina pyöreiksi, kiinteiksi palloiksi. Aseta ne uunipelille. Painele taikinaa puulusikan kärjellä, jotta pallojen keskelle muodostuu kuopat.",
+   "Täytä jokainen kuoppa hillolla. Älä täytä kuoppia liikaa, sillä ne vuotavat yli ja palavat. Samasta syystä pidä taikinan reunat puhtaina.",
+   "Paista 150 asteessa 22–24 minuuttia, kunnes keksit ovat vaalean kullanruskeita."
+  ],
+  "notes": [
+   "Nämä keksit maistuvat parhaiten vielä lämpiminä."
+  ]
+ }
+]

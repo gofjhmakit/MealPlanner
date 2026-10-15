@@ -1,0 +1,692 @@
+[
+ {
+  "id": "wikibooks-saj-bread-ii",
+  "skip": "lähes sama kuin saj-leipä III, vesimäärä epäselvä"
+ },
+ {
+  "id": "wikibooks-saj-bread-iii",
+  "title": "Saj-leipä (libanonilainen ohut leipä)",
+  "description": "Tämä on turkkilainen valmistustapa.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "libanonilainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 kg vehnäjauhoja",
+   "4 dl vettä",
+   "2 dl maitoa",
+   "1 rkl kuivahiivaa",
+   "2 tl suolaa"
+  ],
+  "instructions": [
+   "Sekoita ainekset ja vaivaa huolellisesti.",
+   "Peitä taikina ja anna sen levätä noin 30 minuuttia.",
+   "Vaivaa taikina uudelleen ja jaa 12 palloon. Kauli kukin hyvin ohueksi kiekoksi.",
+   "Paista kuumalla kuperalla saj-pannulla tai kuivalla valurautapannulla noin minuutti per puoli.",
+   "Pinoa liinan alle jäähtymään."
+  ]
+ },
+ {
+  "id": "wikibooks-saka-saka-cassava-leaf-stew",
+  "title": "Saka-saka (maniokinlehtipata)",
+  "description": "Saka-saka on suosittu Länsi-Afrikan ruokalaji, jossa pehmeät maniokilehdet kypsennetään maukkaiden mausteiden ja ainesosien kanssa. Tätä ravitsevaa muhennosta nautitaan yleisesti esimerkiksi Nigeriassa, Ghanassa, Kamerunissa ja Kongossa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kongolainen",
+   "maniokki",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g maniokinlehtiä (tuore tai pakaste)",
+   "3 rkl palmuöljyä (tai rypsiöljyä)",
+   "1 iso sipuli, hienonnettuna",
+   "4–5 valkosipulinkynttä, hienonnettuna",
+   "500 g kanaa, naudanlihaa tai vuohenlihaa, paloina",
+   "1–2 tuoretta tomaattia, kuutioituna",
+   "1 scotch bonnet -chili",
+   "1 rkl kuivattuja jauhettuja rapuja (valinnainen)",
+   "1 rkl kuivattuja katkarapuja (valinnainen, mutta lisää makua)",
+   "1 savustettu kala (makrilli), ruodottuna ja paloiteltuna",
+   "5 dl kana- tai kasvislientä",
+   "1 tl suolaa",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Pese maniokilehdet huolellisesti vesiastiassa, jotta lika ja roskat irtoavat. Valuta vesi pois ja aseta sivuun.",
+   "Sekoita maniokilehdet tehosekoittimessa tai monitoimikoneessa, kunnes ne ovat hienoksi silputtuja. Aseta sivuun.",
+   "Kuumenna palmuöljy suuressa kattilassa tai uunipadassa keskilämmöllä. Lisää kattilaan hienonnetut sipulit ja valkosipuli ja paista, kunnes ne muuttuvat läpikuultaviksi ja tuoksuviksi.",
+   "Lisää liha kattilaan ja paista, kunnes se on ruskistunut joka puolelta.",
+   "Lisää kattilaan kuutioidut tomaatit, Scotch Bonnet -paprikat, jauhetut ravut ja kuivatut katkaravut. Sekoita ainekset hyvin keskenään ja anna seoksen kypsyä muutama minuutti, kunnes tomaatit alkavat pehmetä.",
+   "Lisää tehosekoittimessa hienonnetut maniokilehdet kattilaan yhdessä savustetun kalan hiutaleiden kanssa. Sekoita kaikki ainekset keskenään, jotta lehdet imevät makuja kunnolla.",
+   "Kaada seokseen niin paljon kana- tai kasvisliemiä, että se peittää seoksen. Jos haluat paksumman muhennoksen, lisää vähemmän liemiä.",
+   "Vähennä lämpöä matalalle, peitä kattila kannella ja anna muhennoksen hautua noin 1–2 tuntia. Sekoita välillä, jotta ruoka ei tartu pohjaan ja kypsyy tasaisesti.",
+   "Kun muhennos on hautunut ja maut ovat sulautuneet yhteen, maista ja mausta suolalla ja pippurilla maun mukaan.",
+   "Tarjoile kuumana keitetyn riisin, fufun tai plantainien kera. Hyvää ruokahalua!"
+  ],
+  "notes": [
+   "Saka-saka maistuu vieläkin paremmalta, kun sitä annetaan seistä muutama tunti tai yön yli ennen tarjoilua. Maut kehittyvät ja voimistuvat ajan myötä."
+  ]
+ },
+ {
+  "id": "wikibooks-salad-shirazi",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-salade-frisee",
+  "title": "Friséesalaatti vuohenjuustolla ja pekonilla",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "juusto",
+   "ranskalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 kiharaendiiviä (frisée), revittyinä",
+   "1 dl samppanjaviinietikka-vinegrettiä",
+   "8 paksua viipaletta vuohenjuustoa (tai lämmitettyjä vuohenjuustokakkuja)",
+   "150 g pekonia, rapeaksi paistettuna ja murennettuna"
+  ],
+  "instructions": [
+   "Sekoita frisee ja samppanjavinegretti suuressa sekoituskulhossa.",
+   "Jaa salaatti 8 salaattilautaselle.",
+   "Koristele jokainen salaatti vuohenjuustokakulla.",
+   "Koristele murskatulla pekonilla."
+  ]
+ },
+ {
+  "id": "wikibooks-salata-hara-libyan-spicy-salad",
+  "title": "Salata hara (libyalainen tulinen paprikasalaatti)",
+  "description": "Salata hara on värikäs ja mausteinen salaatti, jota nautitaan yleisesti libyalaisessa keittiössä. Se tunnetaan voimakkaista makuistaan ja tulisuudestaan, minkä ansiosta se sopii erinomaisesti grillatun lihan lisukkeeksi tai virkistäväksi sivuruoaksi. Salaatti koostuu tuoreista vihanneksista, yrtteistä ja mausteista, jotka luovat houkuttelevan makuyhdistelmän.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "libyalainen",
+   "tulinen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 punaista paprikaa, paahdettuja, kuorittuja ja hienonnettuja",
+   "1 vihreä paprika, hienonnettuna",
+   "1 jalapeño, hienonnettuna",
+   "1 tomaatti, hienonnettuna",
+   "1 pieni sipuli, hienonnettuna",
+   "1 valkosipulinkynsi, hienonnettuna",
+   "1 rkl sitruunamehua",
+   "2 rkl oliiviöljyä",
+   "1 tl juustokuminaa",
+   "½ tl cayennepippuria",
+   "½ tl suolaa",
+   "mustapippuria",
+   "persiljaa tai korianteria"
+  ],
+  "instructions": [
+   "Sekoita kulhossa paahdetut ja hienonnetut punaiset paprikat, vihreä paprika, tulinen chilipaprika, tomaatti, sipuli ja valkosipuli.",
+   "Sekoita pienessä kulhossa sitruunamehu, oliiviöljy, kumina, cayennepippuri, suola ja pippuri.",
+   "Kaada kastike vihannesten päälle ja sekoita hyvin, jotta kastike tarttuu kaikkiin aineksiin.",
+   "Peitä kulho muovikelmulla ja laita se jääkaappiin vähintään 30 minuutiksi, jotta maut ehtivät sulautua yhteen.",
+   "Koristele salaatti ennen tarjoilua hienonnetulla persiljalla tai korianterilla."
+  ],
+  "notes": [
+   "Säädä salaatin mausteisuutta lisäämällä tai vähentämällä chilipaprikoita makusi mukaan.",
+   "Saadaksesi savuisen maun, voit paahtaa paprikat avotulella tai grillin alla, kunnes kuori on hiiltynyt. Kuori sitten paprikat ennen pilkkomista.",
+   "Tämä salaatti voidaan valmistaa etukäteen ja säilyttää jääkaapissa enintään yhden päivän ajan. Sekoita salaattia nopeasti ennen tarjoilua, jotta maut sekoittuvat tasaisesti.",
+   "Miedomman version saat, kun poistat tulisen chilipaprikan siemenet ja kalvot ennen pilkkomista.",
+   "Tarjoile salaatti jäähdytettynä, jotta se on raikas ja rapea.",
+   "Lisää kuutioitua kurkkua tai oliiveja, jotta saat lisää rapeutta ja makua.",
+   "Ripottele salaatin päälle hieman sumakkia tai paprikaa, jotta saat lisää väriä ja kirpeyttä."
+  ]
+ },
+ {
+  "id": "wikibooks-salat-de-boeuf-romanian-beef-salad",
+  "title": "Salată de boeuf (romanialainen lihasalaatti)",
+  "description": "Tämä on perinteinen romanialainen ruokalaji, jota tarjoillaan yleensä kaikissa juhlissa ja erityistilaisuuksissa. Se koostuu hienoksi hienonnetusta naudanlihasta ja juurikasveista, jotka sekoitetaan majoneesiin ja viimeistellään marinoitujen vihannesten koristeilla. Nimi viittaa ranskalaisiin vaikutteisiin, sillä sana boeuf on vanhaa ranskaa ja tarkoittaa lehmää, ja useissa tunnetuissa ranskalaisissa ruokalajeissa, kuten Beef Bourguignonissa, käytetään edelleen tätä termiä. Ruoka valmistetaan yleensä suurina määrinä koko juhlaväelle. Sitä syödään lisukkeena tai salaattina paistetun lihan kanssa tai alkupalana. Määrissä on pieniä eroja, ja ne vaihtelevat maun mukaan. Alla oleva resepti on äitini ja isoäitini resepti. Siihen tarvitaan kotitekoista majoneesia, jonka resepti on mukana.",
+  "servings": 10,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "romanialainen",
+   "juhla",
+   "naudanliha",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg punaisia perunoita",
+   "350 g porkkanoita, kuorittuna ja halkaistuna poikittain ja pituussuunnassa",
+   "350 g naudan paistilihaa",
+   "1 tlk (300 g) herneitä",
+   "350 g suolakurkkuja",
+   "2 kovaksi keitettyä kananmunaa (keltuaiset kastikkeeseen)",
+   "1 pastöroitu munankeltuainen",
+   "2,5 dl rypsiöljyä",
+   "1 sitruunan mehu",
+   "1 tl dijonsinappia",
+   "keitettyjen munien valkuaiset suikaleina",
+   "maustekurkkuja suikaleina",
+   "marinoitua punaista paprikaa suikaleina",
+   "oliiveja viipaleina"
+  ],
+  "instructions": [
+   "Keitä perunat kuorineen miedolla lämmöllä, kunnes ne ovat pehmeitä. Jäähdytä ja poista sitten kuoret.",
+   "Keitä porkkanat pehmeiksi.",
+   "Keitä naudanlihaa hiljalleen 1 tunti.",
+   "Jos käytät tuoreita herneitä, keitä tai höyrytä ne kunnolla.",
+   "Leikkaa perunat, porkkanat ja naudanliha noin 5 mm:n kokoisiksi kuutioiksi – käytännössä kaiken tulisi olla noin herneen kokoisia.",
+   "Leikkaa suolakurkut hyvin pieniksi kuutioiksi.",
+   "Sekoita kaikki ainekset varovasti yhteen. Älä mausta.",
+   "Vatkaa keitetyt munankeltuaiset ja raaka munankeltuainen, kunnes ne ovat hyvin sekoittuneet.",
+   "Lisää öljyä hitaasti samalla kun vatkaat munia, kunnes ne alkavat sakeutua ja muodostavat majoneesia.",
+   "Lisää sitruunan mehu ja sinappi.",
+   "Jätä pieni määrä majoneesia koristeluun.",
+   "Sekoita loput majoneesista kuutioituun lihaan ja vihanneksiin niin, että saat aikaan tasaisen konsistenssin, jossa ainekset ovat hyvin majoneesin peitossa, mutta eivät kellu siinä.",
+   "Mausta suolalla ja pippurilla.",
+   "Laita salata de boeuf yhteen suureen tai useampaan pienempään kulhoon.",
+   "Levitä varattu majoneesi päälle ja koristele annos koristeilla, järjestäen ne kauniiksi kuvioiksi."
+  ]
+ },
+ {
+  "id": "wikibooks-salmon-cakes",
+  "title": "Lohipihvit",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "575 g nahatonta lohifileetä",
+   "noin 1,5 dl pankojauhoja",
+   "1 tl suolaa",
+   "1 tl vastajauhettua mustapippuria",
+   "1 sitruunan mehu",
+   "1 rkl raastettua sitruunankuorta",
+   "2,5 dl oliiviöljyä paistamiseen",
+   "50 g sulatettua voita tarjoiluun"
+  ],
+  "instructions": [
+   "Jauha lohi lihamyllyllä tai monitoimikoneella karkeaksi.",
+   "Sekoita lohi, ½ dl pankoa, suola, pippuri, sitruunamehu ja -kuori. Muotoile 4 pihviä ja kierätä loput pankossa.",
+   "Paista pihvejä 160-asteisessa uunissa voidellussa vuoassa, kunnes sisälämpö on noin 50 astetta.",
+   "Kuumenna öljy valurautapannulla 190 asteeseen ja paista pihvit nopeasti rapeiksi molemmin puolin.",
+   "Tarjoa heti sulatetun voin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-salmon-seasoning",
+  "title": "Lohen grillimauste",
+  "servings": 30,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "kala",
+   "grilli",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 dl paprikajauhetta",
+   "½ dl kuivattua sitruunankuorta",
+   "½ dl valkosipulijauhetta",
+   "3 rkl kidesokeria",
+   "½ dl mustapippuria, rouhittuna",
+   "1 dl suolaa",
+   "3 rkl chilihiutaleita",
+   "1 rkl cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset hyvin keskenään.",
+   "Siirrä se ilmatiiviiseen astiaan, jossa on ravistelukansi, ja säilytä viileässä ja pimeässä paikassa."
+  ]
+ },
+ {
+  "id": "wikibooks-salmon-spaghetti",
+  "title": "Lohi-kermaspagetti tillillä ja piparjuurella",
+  "description": "Tässä lohispagettiruoassa lohi, tilli ja piparjuuri tekevät ihmeitä vieraillesi! Jopa ne, jotka eivät aiemmin olleet innostuneita lohesta, ovat rakastaneet tätä ruokaa. Lohilla on hyvin omaleimainen maku, joten täydellinen yrtti herkulliseen lohiruokaan on tilli, jonka pehmeä ja hienostunut maku tasapainottaa lohen melko voimakasta makua.",
+  "servings": 2,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "lohi",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 rkl oliiviöljyä",
+   "1 pieni sipuli, hienonnettuna",
+   "250 g savustettua tai tuoretta lohta, paloina",
+   "½ dl valkoviiniä",
+   "2,5 dl kuohukermaa",
+   "1 rkl ranskankermaa",
+   "1 rkl tuoretta tilliä, hienonnettuna",
+   "1 tl tuoretta raastettua piparjuurta",
+   "1 ripaus tuoretta jauhettua mustapippuria",
+   "1 ripaus suolaa",
+   "250 g spagettia"
+  ],
+  "instructions": [
+   "Kuumenna öljy suuressa paistinpannussa ja paista sipulia hiljalleen noin 2 minuuttia, kunnes se muuttuu lasimaiseksi.",
+   "Laita lohi pannulle ja paista vielä 3 minuuttia.",
+   "Lisää valkoviiniä, mutta ole varovainen! Liian suuri määrä viiniä antaa ruoalle voimakkaan viinin maun.",
+   "Odota noin 1 minuutti, lisää sitten kerma; sekoita crème fraîche joukkoon ja lisää piparjuuri.",
+   "Anna kastikkeen hautua, kunnes se sakeutuu ja imee lohiin ominaisen maun. Lisää tilli viimeiseksi ja mausta ripauksella tuoretta mustapippuria ja suolaa. Ole suolan kanssa erityisen varovainen, kun käytät savulohta, sillä se sisältää jo huomattavan määrän suolaa.",
+   "Jaa spagetti kahdelle lautaselle ja lisää kastike. Koristele lautaset sitruunaviipaleella ja tillinlehdillä. Tarjoile heti ja tarjoa ruoan kanssa valkoviiniä."
+  ],
+  "notes": [
+   "Lisää ruokaan piparjuurta, jotta siitä tulee hieman ylellinen. Sanotaan, että lompakkoon laitettu piparjuuriviipale estää lompakkoa tyhjenemästä enää koskaan."
+  ]
+ },
+ {
+  "id": "wikibooks-salmon-with-rice-and-sauce",
+  "title": "Uunilohi tulisella ranskankermakastikkeella ja riisillä",
+  "servings": 2,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "uuniruoka",
+   "riisi",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "250 g lohifileetä",
+   "3 dl jasmiiniriisiä",
+   "5,75 dl vettä",
+   "1 dl ranskankermaa",
+   "½ dl tulista kastiketta (esim. sriracha)",
+   "100 g porkkanaa",
+   "100 g pakastettuja herneitä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 170 asteeseen.",
+   "Huuhdo riisi ja keitä se 5,75 dl:ssa vettä kannen alla noin 20 minuuttia.",
+   "Kuori ja leikkaa porkkanat tikuiksi. Sulata herneet.",
+   "Laita lohi uunivuokaan. Sekoita ranskankerma ja tulinen kastike ja levitä lohen päälle.",
+   "Paista noin 15 minuuttia, kunnes lohi on kypsää.",
+   "Tarjoa riisin, porkkanatikkujen ja herneiden kanssa."
+  ],
+  "notes": [
+   "Tämän reseptin vakiotarvikkeet voidaan korvata seuraavilla aineksilla:",
+   "Mikä tahansa lohilaji",
+   "Herneiden sijaan romainesalaattia – leikkaa salaatti 1 cm:n paloiksi ja jatka reseptin mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-salmorejo-spanish-tomato-garlic-pure",
+  "title": "Salmorejo (kylmä tomaatti-leipäkeitto)",
+  "description": "Salmorejo on tomaatista ja leivästä valmistettu sose, joka on peräisin Córdobasta, Espanjasta. Se valmistetaan tomaateista, leivästä, öljystä ja valkosipulista. Tomaatit kuoritaan ja soseutetaan sitten muiden aineksien kanssa. Sose tarjoillaan kylmänä, ja sitä voidaan koristella kuutioidulla espanjalaisella serrano-kinkulla ja kuutioidulla kovaksi keitetyllä munalla.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "espanjalainen",
+   "kylmä",
+   "tomaatti"
+  ],
+  "ingredients": [
+   "450 g tomaattia",
+   "1–2 valkosipulinkynttä",
+   "60 g vaaleaa leipää",
+   "1 rkl sherry- tai viinietikkaa",
+   "1 dl oliiviöljyä",
+   "½ tl suolaa",
+   "2 viipaletta serranokinkkua, hienonnettuna",
+   "2 kovaksi keitettyä munaa",
+   "leipää tarjoiluun"
+  ],
+  "instructions": [
+   "Kuori tomaatit ja poista niiden siemenet. Jos käytät kokonaisia tomaattisäilykkeitä, lisää ne nesteineen.",
+   "Sekoita tomaatit ja valkosipuli tehosekoittimessa soseeksi ja lisää etikka ja suola.",
+   "Liota leipää vedessä, kunnes se pehmenee, ja purista sitten ylimääräinen vesi pois.",
+   "Lisää puolet leivästä ja sekoita tasaiseksi.",
+   "Lisää leipää ja hieman oliiviöljyä ja sekoita, kunnes keitto on tasaisen kermamaista.",
+   "Jäähdytä sose ja tarjoile se matalassa kulhossa, koristele kinkulla ja munalla ja tarjoile tuoreen leivän kera."
+  ],
+  "notes": [
+   "Tomaattien kuorimiseksi voit ensin blancheroida ne ja kuoria ne sen jälkeen.",
+   "Ydin on yksinkertaisesti tomaatin yläosassa oleva kova osa, lähellä kohtaa, jossa se kasvoi kasvissa.",
+   "Resepti voidaan valmistaa myös purkitetuilla tomaateilla."
+  ]
+ },
+ {
+  "id": "wikibooks-salsa-fermented",
+  "title": "Fermentoitu salsa",
+  "description": "Tämä fermentoidun salsan resepti tuottaa kirpeän tomaattikastikkeen, jolla on voimakas maku. Ruoanlaittoa ei tarvita.",
+  "servings": 8,
+  "category": "Säilykkeet",
+  "tags": [
+   "salsa",
+   "fermentoitu",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg tuoreita tomaatteja",
+   "1 iso paprika",
+   "3–6 tuoretta chilipaprikaa",
+   "1 tuore punasipuli",
+   "3–4 valkosipulinkynttä",
+   "1 nippu tuoretta korianteria (korianterinlehtiä, kiinalaista persiljaa)",
+   "1–2 tl jodittamatonta suolaa"
+  ],
+  "instructions": [
+   "Puhdista ja kuivaa iso (1 litran) säilöntäpurkki ja iso kulho",
+   "Leikkaa tomaatit kuutioiksi",
+   "Leikkaa paprika neljään osaan ja viipaloi se.",
+   "Viipaloi chilipaprikat ohuiksi viipaleiksi ja poista siemenet, jos haluat. Muista pestä kädet heti chilipaprikoiden leikkaamisen jälkeen, äläkä kosketa silmiäsi tai kasvojasi jonkin aikaa chilipaprikoiden käsittelyn jälkeen – jos kosketat, chilimehun jäämät voivat aiheuttaa erittäin kivuliaan polttavan tunteen.)",
+   "Kuori ja hienonna sipuli ja valkosipuli hienoksi. Hienonna korianteri karkeasti.",
+   "Sekoita kaikki ainekset kulhossa suolan ja (halutessasi) mausteiden kanssa; sekoita hyvin!",
+   "Pakkaa tiiviisti purkkiin, jättäen 1 cm tilaa yläreunaan.",
+   "Peitä purkki liinalla tai elintarvikekalvolla. Aseta purkki kulhoon tai lautaselle, jotta mahdollisesti ylivuotava mehu kerääntyy sinne eikä aiheuta sotkua. Anna käydä huoneenlämmössä.",
+   "Salsa käy 2–3 päivässä, ilmastosta riippuen. Pyyhi ylimääräinen neste purkin reunalta ja sulje kansi tiukasti ennen kuin siirrät purkin jääkaappiin. Se säilyy hyvin jääkaapissa, mutta käy edelleen hitaasti ja muuttuu ajan myötä yhä happamammaksi."
+  ],
+  "notes": [
+   "Edellä mainittujen tuoreiden ainesosien ansiosta mikrobimäärä on riittävä, jotta salsa alkaa käydä itsestään. Kuplia alkaa nousta purkin pinnalle, mikä osoittaa, että käyminen on alkanut – tämän pitäisi näkyä purkin sivusta. Älä sulje purkkia tiiviisti käymisen aikana, sillä kaasun paine kasvaa ja purkki saattaa rikkoutua. Jos olet huolissasi siitä, ettei käyminen käynnisty itsestään, voit lisätä käynnistyskulttuuria. Hyvä käynnistyskulttuuri on pieni määrä äskettäin käyneen hapankaalin tai kimchin mehua, sillä se tuo mukanaan tarvittavat maitohappobakteerit ja hiivat.",
+   "Tämä on parasta muutaman päivän kuluessa, ellet sitten pidä siitä melko happamana!",
+   "Käytä mahdollisuuksien mukaan jodittamatonta suolaa (esim. suolakurkkusuolaa tai kosher-suolaa). Tämä johtuu siitä, että joditetun ruokasuolan sisältämä jodi hidastaa hieman käymistä. Käytä sitä, mitä sinulla on, mutta parhaat tulokset saat ilman jodia.",
+   "Käytä mahdollisuuksien mukaan tuoreita aineksia; jos käytät säilykkeitä tai kuivattuja aineksia, saatat tarvita käynnistysainetta (katso yllä).",
+   "Tämä resepti fermentoituu parhaiten 18–22 °C:n (64–72 °F) lämpötilassa. Se fermentoituu hyvin myös tämän lämpötila-alueen ulkopuolella, mutta jos haluat pitää sen tässä lämpötila-alueessa, löydät vinkkejä fermentointisivulta.",
+   "Keskustelusivulla on ehdotus, että suolaa tarvitaan enemmän; lue keskustelu ja päätä itse, mutta perinteisissä ranskalaisissa resepteissä murskattujen tomaattien käymisen aikana ei lisätä suolaa. Suolan määrää koskevat suositukset, joissa ei mainita tuotemerkkiä (ja siten rakeiden kokoa ja muotoa), eivät ole missään tapauksessa tarkkoja."
+  ]
+ },
+ {
+  "id": "wikibooks-salsa-recipe",
+  "title": "Tomaattisalsa",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "salsa",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 tlk (400 g) tomaattikuutioita",
+   "1 nippu tuoretta korianteria (eli korianterinlehtiä, meksikolaista persiljaa)",
+   "3–6 serrano- tai jalapeñochiliä",
+   "½ tuoretta, hienonnettua sipulia",
+   "1 tl suolaa",
+   "ripaus mustapippuria ja valkosipulia (valinnainen)"
+  ],
+  "instructions": [
+   "Lisää sipuli tehosekoittimeen.",
+   "Pese ja pilko korianteri, poista vain varren alaosa. Lisää tehosekoittimeen.",
+   "Pese ja pilko chilipaprikat ja laita ne tehosekoittimeen.",
+   "Avaa tomaattisäilyke ja kaada sisältö tehosekoittimeen.",
+   "Lisää suola.",
+   "Sekoita hitaasti, jotta ainekset sekoittuvat kunnolla; älä sekoita täysin tasaiseksi.",
+   "Tarjoile jäähdytettynä, aterian yhteydessä, maissitortillalastujen dippinä, koristeena jne."
+  ],
+  "notes": [
+   "Voidaan säilyttää helposti suljetussa astiassa jääkaapissa viikon tai kymmenen päivän ajan.",
+   "Varo ehdottomasti koskettamasta silmiäsi, nenääsi tai suutasi chilipaprikoiden pilkkomisen tai käsittelyn jälkeen, sillä kipu voi olla voimakasta. Pese kädet huolellisesti käsittelyn jälkeen."
+  ]
+ },
+ {
+  "id": "wikibooks-salsa-fresca",
+  "title": "Salsa fresca (pico de gallo)",
+  "servings": 3,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "salsa",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 valkosipulinkynsiä",
+   "2–4 jalapeñoa, siemenet poistettuna",
+   "1 keskikokoinen sipuli",
+   "½ dl korianterinlehtiä",
+   "2 isoa tai 6 pientä tomaattia, siemenet poistettu",
+   "½ tl suolaa",
+   "1 rkl limettimehua"
+  ],
+  "instructions": [
+   "Pilko ainekset luettelossa mainitussa järjestyksessä.",
+   "Jos käytät monitoimikoneita tai tehosekoitinta, lisää ainekset terien pyöriessä, mutta vältä tomaattien muuttumista nestemäisiksi."
+  ],
+  "notes": [
+   "Jos aiot säilyttää kastiketta jääkaapissa, laita se purkkiin ja kaada päälle ruokalusikallinen kasviöljyä."
+  ]
+ },
+ {
+  "id": "wikibooks-salt-cod-and-potato-casserole-bacalhau-gomes-de-s",
+  "title": "Bacalhau à Gomes de Sá (portugalilainen suolaturska-perunavuoka)",
+  "description": "Bacalhau à Gomes de Sá on portugalilainen suolakalaa ja perunoita sisältävä ruokalaji, jonka Gomes de Sá loi 1800-luvulla Restaurante Lisbonense -ravintolassa Porton kaupungissa.[1]",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "portugalilainen",
+   "uuniruoka",
+   "peruna",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g kuivattua suolaturskaa",
+   "2,5 dl oliiviöljyä",
+   "4 sipulia, viipaleina",
+   "1 tl hienonnettua valkosipulia",
+   "6 keskikokoista perunaa",
+   "20 kivettömää mustaa oliivia",
+   "6 kovaksi keitettyä munaa, viipaloituna",
+   "2 rkl hienonnettua persiljaa"
+  ],
+  "instructions": [
+   "Liota suolakalaa edellisenä päivänä alkaen jääkaapissa vesiastiassa 16–24 tuntia ja vaihda vesi 3–4 kertaa.",
+   "Valuta ja huuhtele turska. Laita se kattilaan ja lisää vettä niin, että se peittää kalan 3 cm syvyydeltä. Kiehauta ja anna sitten hautua noin 20 minuuttia, kunnes kala hajoaa helposti haarukalla kokeiltaessa. Valuta vesi huolellisesti pois ja pilko kala karkeasti, poistaen nahka ja ruodot kuorimaveitsellä. Aseta sivuun.",
+   "Keitä perunat kuorineen, kunnes ne ovat helposti läpäistävissä haarukalla tai vartaalla, mutta eivät vielä pehmeitä. Valuta vesi pois, anna jäähtyä ja kuori. Viipaloi 1 cm (6 mm) paksuisiksi viipaleiksi. Aseta sivuun.",
+   "Kuumenna 1 dl oliiviöljyä paksupohjaisessa paistinpannussa keskilämmöllä kahden minuutin ajan. Lisää viipaloitu sipuli ja paista noin 6–7 minuuttia, kunnes sipulit ovat läpikuultavia ja hieman ruskeita. Sekoita valkosipuli joukkoon ja ota pannu pois liedeltä.",
+   "Kokoa ruoka asettamalla puolet perunoista uunivuoan pohjalle. Peitä ne puolella turskaa ja sitten puolella sipulia. Toista sama lopuilla aineksilla ja ripottele loput oliiviöljystä päälle.",
+   "Paista 200 asteessa noin 20 minuuttia, kunnes pinta on kevyesti ruskistunut.",
+   "Koristele oliiveilla ja kovaksi keitettyjen munien viipaleilla. Ripottele päälle persiljaa.",
+   "Tarjoile uuniruokasta ja tarjoa sen kanssa oliiviöljyä ja portviinietikkaa erillisessä astiassa."
+  ],
+  "notes": [
+   "↑ Bacalhau on portugalinkielinen sana, jolla tarkoitetaan turskaa, suolattua turskaa sekä siitä valmistettuja ruokia."
+  ]
+ },
+ {
+  "id": "wikibooks-salt-cod-and-potato-casserole-bacalhau-z-do-pipo",
+  "skip": "lähes sama kuin bacalhau à Gomes de Sá"
+ },
+ {
+  "id": "wikibooks-salted-fish-fried-rice",
+  "title": "Paistettu riisi suolakalalla ja kanalla",
+  "servings": 2,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "kala",
+   "aasialainen",
+   "wokki"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "20 g hienonnettua valkosipulia",
+   "1 punainen chili, hienonnettuna",
+   "20 g hienonnettua kevätsipulia",
+   "100 g suolattua kuivattua kalaa, liotettuna ja pilkottuna",
+   "100 g kypsää kananlihaa",
+   "75 g mungpavun ituja",
+   "2,5 dl keitettyä jasmiiniriisiä",
+   "½ tl suolaa",
+   "1 rkl kalakastiketta",
+   "½ tl valkopippuria"
+  ],
+  "instructions": [
+   "Kuumenna öljy tarttumattomassa pannussa. Lisää valkosipuli, chili ja kevätsipuli ja paista 1 minuutti, kunnes tuoksuu hyvältä.",
+   "Lisää suolattu kala ja kana. Sekoita, kunnes kanan ja suolatun kalan väri muuttuu.",
+   "Lisää riisi ja pavunidut, sitten suola, pippuri ja kalakastike."
+  ],
+  "notes": [
+   "Alkuperäisessä 1 rkl suolaa ja 2 rkl pippuria; suolakala on jo suolaista."
+  ]
+ },
+ {
+  "id": "wikibooks-salted-mustard-greens-and-shredded-meat-noodle-soup",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-salty-namkin-lassi",
+  "title": "Namkeen lassi (suolainen lassi)",
+  "description": "Lassi on jogurttipohjainen juoma, jota on saatavana sekä makeana että suolaisena. Yleisimpiä makuja ovat mango, ruusuvesi ja tavallinen sokerilla makeutettu lassi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "lassi",
+   "intialainen",
+   "jogurtti",
+   "kasvis",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 l maustamatonta jogurttia",
+   "7 dl kylmää vettä",
+   "1–2 vihreää chiliä, hienonnettuna",
+   "1 tl kuminaa, paahdettua ja jauhettua",
+   "3 rkl limetti- tai sitruunamehua",
+   "1 tl suolaa",
+   "2,5 dl murskattua jäätä"
+  ],
+  "instructions": [
+   "Laita kaikki ainekset paitsi jää tehosekoittimeen ja sekoita tasaiseksi.",
+   "Lisää jäitä ja sekoita, kunnes seos on vaahtomaista."
+  ]
+ },
+ {
+  "id": "wikibooks-salza-criolla-south-american-onion-relish",
+  "title": "Salsa criolla (perulainen sipulisalaatti)",
+  "description": "Sarza criolla on raikas lisuke hiilihydraatti- ja lihapitoisille ruoille. Se on eteläamerikkalainen vastine salsalle ja sopii hyvin paahtoleivälle, keitettyjen perunoiden viipaleille, mereneläville, lihalle, riisille, tamaleille ja quesadilloille.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "perulainen",
+   "sipuli",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 punasipuli",
+   "1 limetin mehu",
+   "½ tl suolaa",
+   "2 rkl korianteria, hienonnettuna (valinnainen)",
+   "1 keitetty peruna, kuutioina (valinnainen)",
+   "1 keitetty punajuuri, kuutioina (valinnainen)",
+   "½ avokado, kuutioina (valinnainen)"
+  ],
+  "instructions": [
+   "Halkaise sipuli ylhäältä alas, syiden suuntaan, ja viipaloi se sitten ohuiksi puolirenkaiksi syiden poikkisuuntaan.",
+   "Huuhtele kylmällä vedellä, liota kylmässä vedessä noin 5 minuuttia ja huuhtele uudelleen. Tämä menettely huuhtelee pois veitsen tuhoamien kasvisolujen sisällön, mikä poistaa sipulin pistävän maun.",
+   "Purista sen päälle limen mehu.",
+   "Voit halutessasi lisätä korianteria, perunoita, punajuuria tai avokadoa."
+  ]
+ },
+ {
+  "id": "wikibooks-salzburger-nockerl-sweet-austrian-souffl",
+  "title": "Salzburger Nockerl (salzburgilainen kohokas)",
+  "description": "Salzburger nockerl on itävaltalaiselle keittiölle tyypillinen makea ruokalaji, joka on nimensä mukaisesti erityisen suosittu Salzburgissa. Sen maku on hienovaraisen makea; se ei ole liian sokerinen, mutta ilahduttaa silti makuhermoja joka kerta, kun sitä syöt. Sitä voi tarjoilla pääruokana, jälkiruokana tai jopa kahvin ja teen kanssa, eikä ole juuri ketään, joka ei pitäisi siitä.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kohokas",
+   "itävaltalainen",
+   "jälkiruoka"
+  ],
+  "ingredients": [
+   "7 munanvalkuaista",
+   "2 munankeltuaista",
+   "1 dl hienosokeria",
+   "1 rkl vaniljasokeria",
+   "1 ½ rkl jauhoja",
+   "Puolen sitruunan kuori",
+   "puolukkahilloa tai vaniljakastiketta"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 200 asteeseen.",
+   "Vatkaa munanvalkuaiset ja lisää sokeria vähitellen, kunnes ne ovat hyvin kovia.",
+   "Sekoita nopeasti 2 keltuaista, sitruunankuori ja vaniljasokeri sekoittamatta liian voimakkaasti.",
+   "Sekoita jauhot varovasti taikinaan.",
+   "Voitele kaksi uuninkestävää vuokaa (voit nyt halutessasi levittää vuoan pohjalle hilloa tai vaniljakastiketta).",
+   "Laita kolme isoa nokareita munaseosta astiaan vierekkäin, hieman limittäin. Muotoile ne niin, että ne näyttävät kolmelta pieneltä vuorelta.",
+   "Paista uunissa 10 minuuttia, kunnes Nockerl-leivonnaisten pinta on hieman ruskistunut."
+  ]
+ },
+ {
+  "id": "wikibooks-sambal-tempoyak-anchovies-with-fermented-durian-chili-paste",
+  "skip": "vaatii fermentoitua duriania ja petaipapuja"
+ },
+ {
+  "id": "wikibooks-sambar-i",
+  "title": "Sambar (eteläintialainen linssi-kasviskeitto)",
+  "description": "Sambar tai sambhar (kannada: ಸಾಂಬಾರ್‍, malajalam: സാമ്പാർ, tamil saambaar (Sri Lankassa saambaaru), telugu: ساಂಬారు), lausutaan ”saambaar”, on Etelä-Intiassa ja Sri Lankassa yleinen ruokalaji, joka valmistetaan dalista (yleensä punaisesta gram-papusta, jota kutsutaan myös toor daliksi) ja vihanneksista mausteisessa tamarindi- ja daljauho-liemessä. Sambar kaadetaan yleensä höyrytettyjen riisin päälle tai sen viereen. Etelä-Intiassa vada sambar ja idli sambar ovat suosittuja aamiaisruokia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "intialainen",
+   "linssit",
+   "kasvis",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl toor dalia",
+   "7 dl vettä",
+   "1 tl suolaa",
+   "2 rkl sambar-maustetta",
+   "1 rkl sokeria",
+   "2,5 dl kasviksia paloina (munakoiso, porkkana, kurpitsa)",
+   "1 iso sipuli, neljään osaan leikattuna",
+   "1 rkl tamarinditahnaa",
+   "2 rkl rypsiöljyä tai gheetä",
+   "2 tl sinapinsiemeniä",
+   "2–3 kokonaisia kuivattuja punaisia chilipaprikoita",
+   "8 curryn lehteä",
+   "1 rkl hienonnettuja korianterinlehtiä koristeeksi"
+  ],
+  "instructions": [
+   "Pese dal ja keitä sitä vedessä suolan kanssa, kunnes se on täysin pehmeää eikä siinä ole enää yhtään jyvää.",
+   "Lisää sambhar masala, sokeri ja vihannekset, mukaan lukien sipulit, ja kypsennä, kunnes vihannekset ovat pehmeitä. Lisää tamarindi, kun vihannekset ovat pehmeitä.",
+   "Kuumenna öljy kattilassa ja lisää sinappinsiemenet. Kun ne alkavat poksua, lisää kokonaiset punaiset paprikat ja currylehdet.",
+   "Sekoita 2–3 kertaa ja lisää sitten dal-seos. Kiehauta ja anna sitten hautua noin 5 minuuttia.",
+   "Koristele korianterinlehdillä."
+  ],
+  "notes": [
+   "Sekoitettuihin vihanneksiin voidaan käyttää erilaisia ainesosia, kuten tomaattia, perunaa, munakoisoa (brinjal, aubergine, kath tharik kaai), moringa-palkoja (drumsticks), okraa (lady's fingers) ja/tai sipulia.",
+   "Sambar masala valmistetaan paahtamalla kevyesti ja jauhamalla yhdessä seuraavat mausteet: 5 rkl korianterin siemeniä, 3 rkl halkaistua kuivattua channa dalia, 2 rkl seesaminsiemeniä, 20 chilisäiettä, 3 rkl kuivattua kookospähkinää, 20 currylehteä, ½ rkl fenugreek-siemeniä ja 1 rkl asafoetida-jauhetta. Sitä voi säilyttää 1 kuukauden ajan."
+  ]
+ },
+ {
+  "id": "wikibooks-sambar-ii-kerala-tamil-style",
+  "skip": "lähes sama kuin sambar I"
+ }
+]

@@ -1,0 +1,605 @@
+[
+ {
+  "id": "wikibooks-spinach-fufu",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-spinach-mushroom-pesto-spaghetti",
+  "title": "Pinaatti-sienispagetti pestolla",
+  "description": "Tämä pinaatti-sieni-pesto-spagettiresepti on mukautettu YouTube-kanavan Tasty reseptistä.[1]",
+  "servings": 4,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "pinaatti",
+   "sienet",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "225 g spagettia",
+   "2 rkl oliiviöljyä",
+   "140 g pinaattia",
+   "200 g sieniä, viipaloituina",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "1,5–2,5 dl pestoa",
+   "1 dl parmesaania, raastettuna, + lisää päälle"
+  ],
+  "instructions": [
+   "Keitä spagettia vedessä, kunnes se on al dente.",
+   "Samalla kuumenna öljy pannulla keskilämmöllä.",
+   "Kuullota pinaattia öljyssä, kunnes se on pehmennyt.",
+   "Lisää sienet, suola ja pippuri ja paista vielä 3 minuuttia sekoittaen välillä.",
+   "Sekoita pesto ja juusto joukkoon ja kypsennä 2 minuuttia.",
+   "Valuta pasta siivilässä ja sekoita kastikkeeseen.",
+   "Jaa pasta neljälle lautaselle ja tarjoile.",
+   "Tarjoilun yhteydessä ripottele päälle vielä hieman juustoa."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-pakoras",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-spinach-pesto-linguine",
+  "skip": "epätarkat määrät"
+ },
+ {
+  "id": "wikibooks-spinach-pie-pascualina",
+  "title": "Pascualina (pinaatti-kananmunapiirakka)",
+  "description": "Pascualina on Uruguayssa yleisesti syöty pinaattipiirakka. Se valmistetaan pinaatista tai hopeajuurikkaasta, paistetuista sipuleista ja kotitekoisesta leivonnaisesta. Voit helpottaa valmistusta käyttämällä kaupasta ostettua lehtitaikinaa.",
+  "servings": 8,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "pinaatti",
+   "kananmuna",
+   "uruguaylainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "3 sipulia, hienonnettuna",
+   "1 kg pakastettua pinaattia, sulatettuna",
+   "½ tl tuoretta raastettua muskottipähkinää",
+   "250 g tuorejuustoa tai ricottaa",
+   "6 kananmunaa",
+   "500 g pakastelehtitaikinaa, sulatettuna",
+   "2 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria",
+   "1 kananmuna voiteluun, vatkattuna"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 190 asteeseen.",
+   "Paista sipulia, kunnes se on kullanruskeaa.",
+   "Lisää pinaatti, tuorejuusto, muskottipähkinä sekä suolaa ja pippuria maun mukaan. Sekoita, kunnes kaikki ainekset ovat sekoittuneet keskenään. Anna seoksen jäähtyä hieman.",
+   "Vuoraa suorakulmainen uunipelti lehtitaikinalla niin, että taikina ulottuu aivan pelin reunaan asti.",
+   "Levitä täyte lehtitaikinan päälle ja tee lusikalla 6 reikää täytteeseen, jotta voit kaataa niihin kokonaiset munat.",
+   "Riko munat yksi kerrallaan ja kaada ne kuoppiin.",
+   "Peitä piirakka lisää taikinalla ja sulje reunat.",
+   "Voitele pinta munalla ja paista 190 asteessa noin 40 minuuttia, kunnes kuori on kullanruskea.",
+   "Tarjoile paistetun bataatin ja höyrytettyjen vihreiden papujen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-salad",
+  "title": "Pinaattisalaatti kananmunalla ja pekonilla",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 20,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "pinaatti",
+   "kananmuna",
+   "pekoni"
+  ],
+  "ingredients": [
+   "2 dl oliiviöljyä",
+   "½ dl punaviinietikkaa",
+   "¼ tl mustapippuria",
+   "¼ tl sinappijauhetta",
+   "½ tl suolaa (valinnainen)",
+   "1 rkl worcestershirekastiketta",
+   "1½ tl paprikajauhetta",
+   "2 tl sokeria",
+   "450 g pinaattia, kuivattuna",
+   "3 kovaksi keitettyä kananmunaa, hienonnettuna",
+   "6 viipaletta pekonia tai kasvispekonia, paistettuna ja murennettuna",
+   "1 punasipuli, viipaloituna"
+  ],
+  "instructions": [
+   "Sekoita kaikki kastikeainekset keskenään. Sekoita hyvin.",
+   "Sekoita pinaatti, munat ja viipaloitu sipuli suuressa kulhossa.",
+   "Kaada kastike salaatin päälle, sekoita ja ripottele pinnalle pekonimurut."
+  ],
+  "notes": [
+   "Salaattia sekoitettaessa munankeltuaiset murentuvat ja häviävät salaattiin – tämä on normaalia.",
+   "Lisää kastike ja pekonipalat vasta viime hetkellä.",
+   "Jos et löydä Worcestershire-kastiketta, voit käyttää hätätapauksessa soijakastiketta."
+  ]
+ },
+ {
+  "id": "wikibooks-split-peas-cooked",
+  "title": "Keitetyt halkaistut herneet",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Lisukkeet",
+  "tags": [
+   "herneet",
+   "palkokasvit",
+   "perusohje",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl kuivattuja halkaistuja herneitä, roskat poimittuna",
+   "1–1,5 l vettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Huuhtele herneet huolellisesti ja kaada vesi pois.",
+   "Hauduta herneitä suolatussa vedessä 45–60 minuuttia, kunnes ne ovat pehmeitä.",
+   "Tarjoile."
+  ],
+  "notes": [
+   "Jos alueellasi on kovaa vettä, ⅛ teelusikallista ruokasoodaa lisäämällä voit lyhentää kypsennysaikaa.",
+   "Ruoanlaittoon voi lisätä pekonia, kinkkua, kielbasaa, suolattua sianlihaa tai savustettua makkaraa maun vahvistamiseksi."
+  ]
+ },
+ {
+  "id": "wikibooks-sponge-cake-i",
+  "title": "Victoria-kakku (hillotäytteinen voikakku)",
+  "description": "Sponge cake on Britanniassa tunnetuin leivonnaislaji. Se on makeaa ja maustetaan usein vaniljalla, suklaalla tai muilla lisäaineilla. Se voidaan leikata ja esille laittaa monin eri tavoin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "leivonta",
+   "hillo",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 kananmunaa",
+   "110 g vehnäjauhoja",
+   "2½ tl leivinjauhetta",
+   "110 g hienoa sokeria",
+   "110 g voita tai margariinia",
+   "1 tl vaniljauutetta (valinnainen)",
+   "elintarvikeväriä (valinnainen)",
+   "2–4 rkl hilloa, notkeaksi sekoitettuna",
+   "voikreemiä (valinnainen)",
+   "1 rkl tomusokeria"
+  ],
+  "instructions": [
+   "Kuumenna uuni 190 asteeseen.",
+   "Sekoita sokeri ja voi vaahdoksi sekoituskulhossa. Niiden tulisi muodostua kermaiseksi massaksi, jonka koostumus on melko paksu. Mitä pidempään ja nopeammin voita ja sokeria vaahdotetaan, sitä kevyempi kakku on paistamisen jälkeen.",
+   "Lisää molemmat munat ja sekoita hyvin.",
+   "Lisää kaikki jauhot hienon siivilän läpi korkealta, jotta jauhoihin tulee ilmaa, ja sekoita puulusikalla pyöreillä liikkeillä yrittäen saada seokseen mahdollisimman paljon ilmaa.",
+   "Lisää tässä vaiheessa mahdolliset elintarvikevärit, aromit jne. Jos lisäät nestemäisiä ainesosia, lisää sama määrä sokeri-jauho-seosta tasapainottamaan. Jos lisäät kuivia ainesosia, varmista, että käytät yhtä paljon vähemmän jauhoja kuin mitä ylimääräisiä ainesosia lisäät.",
+   "Voitele 1–2 kakkuvuokaa voilla. Tähän reseptiin kannattaa käyttää irtopohjavuokaa.",
+   "Kaada taikina vuokaan tai vuokiin. Jos käytät kahta vuokaa, varmista, että molemmissa on yhtä paljon taikinaa ja että kumpikaan ei ole täytetty yli ¾:n verran.",
+   "Laita kakkuvuoat uuniin ja anna niiden paistua noin 10 minuuttia ennen kuin tarkistat ne. Paistoaika on lopulta noin 15 minuuttia: tarkista kakkuja säännöllisesti noin 8 minuutin kuluttua, sillä uunit vaihtelevat.",
+   "Käännä kakku jäähtymään ritilälle.",
+   "Jos koot kaksi kakkukerrosta, käännä toinen niistä ylösalaisin ja levitä hilloa tai voikreemiä sen pohjalle. Aseta toinen kakku yläpuoli ylöspäin ylösalaisin käännettyä kakkua vasten.",
+   "Siivilöi kakun päälle tomusokeria hienon siivilän avulla."
+  ],
+  "notes": [
+   "Voit valmistaa suklaavariantin korvaamalla jauhoista saman määrän kaakaojauhetta maun mukaan. Jos käytät esimerkiksi 4 rkl kaakaojauhetta, jätä pois 4 rkl jauhoja."
+  ]
+ },
+ {
+  "id": "wikibooks-sponge-cake-ii",
+  "skip": "lähes sama kuin Victoria-kakku"
+ },
+ {
+  "id": "wikibooks-spoonbread",
+  "title": "Spoonbread (amerikkalainen maissijauhokohokas)",
+  "servings": 5,
+  "totalTimeMin": 60,
+  "category": "Lisukkeet",
+  "tags": [
+   "maissi",
+   "amerikkalainen",
+   "juusto",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "7 dl maitoa",
+   "2,5 dl maissijauhoja (polentaa)",
+   "¼ tl mustapippuria",
+   "ripaus–1 tl chilihiutaleita",
+   "2,5 dl hienonnettua kevätsipulia",
+   "1 tl suolaa",
+   "4 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+   "1 dl juustoraastetta (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Voitele 20 x 20 cm uunivuoka runsaasti.",
+   "Vatkaa munanvalkuaiset kovaksi vaahdoksi ja aseta sivuun.",
+   "Kuumenna maito keskikokoisessa kattilassa keskilämmöllä, kunnes se alkaa juuri ja juuri kuplia reunoilta.",
+   "Vähennä lämpöä ja sekoita samalla, kun lisäät maissijauhoja hitaasti.",
+   "Sekoita jatkuvasti matalalla lämmöllä 5 minuuttia.",
+   "Ota kattila pois liedeltä ja sekoita joukkoon mustapippuria, punaisia paprikahiutaleita, suolaa ja kevätsipulia.",
+   "Sekoita mukaan munankeltuaiset ja juusto.",
+   "Sekoita joukkoon vaahdotetut munanvalkuaiset.",
+   "Kaada vuokaan.",
+   "Paista noin 30 minuuttia tai kunnes keskelle pistetty hammastikku tulee ulos puhtaana."
+  ]
+ },
+ {
+  "id": "wikibooks-spring-onion-spelt-spread",
+  "skip": "epätarkat määrät, raaka jauho"
+ },
+ {
+  "id": "wikibooks-springerle",
+  "title": "Springerle (saksalaiset aniskeksit)",
+  "servings": 40,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "saksalainen",
+   "joulu",
+   "anis",
+   "leivonta"
+  ],
+  "ingredients": [
+   "4 kananmunaa",
+   "450 g tomusokeria, siivilöitynä",
+   "450 g (n. 7,5 dl) vehnäjauhoja",
+   "1 tl leivinjauhetta",
+   "2 rkl aniksen siemeniä, murskattuina"
+  ],
+  "instructions": [
+   "Vatkaa munia, kunnes ne ovat vaaleita ja lähes kuivia – tämä vie kauan, joten sähkövatkaimen käyttöä suositellaan.",
+   "Vatkaa sokeri munien sekaan.",
+   "Sekoita jauhot ja leivinjauhe. Lisää munat ja sekoita, kunnes taikina on pehmeää.",
+   "Voitele useita leivontapellit ja ripottele niille runsaasti murskattuja aniksen siemeniä.",
+   "Rullaa taikina varovasti ja paina siihen kevyesti springerle-muotti. Leikkaa paloiksi ja siirrä leivontapellille. Anna kuivua yön yli.",
+   "Paista 150 asteessa 25–30 minuuttia, kunnes pohjat ovat vaaleanruskeita mutta pinta vaalea."
+  ]
+ },
+ {
+  "id": "wikibooks-spritzgeback-german-spritz-butter-cookies",
+  "title": "Spritzgebäck (saksalaiset pursotetut voikeksit)",
+  "description": "Spritzgebäck on saksalainen keksilaji.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "totalTimeMin": 180,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "saksalainen",
+   "joulu",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g voita, pehmeänä",
+   "1,5 dl tomusokeria",
+   "1 kananmuna",
+   "1 munankeltuainen",
+   "1 tl manteli-, vanilja- tai sitruunauutetta",
+   "6 dl vehnäjauhoja",
+   "¼ tl suolaa",
+   "½ tl leivinjauhetta"
+  ],
+  "instructions": [
+   "Vatkaa voita ja sokeria, kunnes seos on vaaleaa.",
+   "Sekoita mukaan muna, munankeltuainen ja aromi.",
+   "Siivilöi jauhot, suola ja leivinjauhe yhteen; lisää jauhosekoitus vähitellen munien joukkoon.",
+   "Jäähdytä taikinaa ½ tuntia.",
+   "Täytä keksipuristin tai pursotinpussi neljäsosalla taikinasta.",
+   "Säilytä jäljellä oleva taikina jääkaapissa.",
+   "Muotoile keksit voidellulle leivontapellille.",
+   "Paista 200 asteessa 7–10 minuuttia, kunnes reunat ovat vaaleanruskeita.",
+   "Jäähdytä ritilällä ja säilytä ilmatiiviissä tölkeissä."
+  ]
+ },
+ {
+  "id": "wikibooks-sprout-salad",
+  "title": "Itusalaatti tomaatilla ja pekonilla",
+  "description": "Ituista saa erinomaisen salaatin, joka on sekä maukkaampi että ravitsevampi kuin lehtisalaattipohjainen salaatti. Ohjeiden mukainen asettelu varmistaa, että salaattia on helppo syödä haarukalla (haarukka menee helposti yläkerrosten läpi ja tarttuu alimpaan kerrokseen) ja että öljy ei kerry kokonaan pohjalle. Tämä salaatti riittää kahdelle aikuiselle, joiden oletetaan syövän samasta astiasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "idut",
+   "tomaatti",
+   "pekoni"
+  ],
+  "ingredients": [
+   "1 rasia (n. 100 g) alfalfa-ituja",
+   "½ dl paistettuja pekonimuruja",
+   "2–4 hyvin kypsää keskikokoista tomaattia",
+   "3 sellerinvartta",
+   "1 dl rypsiöljyä",
+   "1 dl punaviinietikkaa"
+  ],
+  "instructions": [
+   "Leikkaa tomaatit noin 3 cm paloiksi.",
+   "Leikkaa selleri 3–5 cm paloiksi.",
+   "Levitä selleri- ja tomaattipalat tasaisesti leveän kulhon pohjalle.",
+   "Pidä ituja kiinni niin, etteivät ne irtoa toisistaan ja sotkeudu, ja pese ne juoksevan veden alla.",
+   "Laita idut vesiä täynnä olevaan kulhoon. Upota ne varovasti veteen ja vaihda vesi muutaman kerran, poistaen siemenkuoret ilman, että idut menevät sekaisin.",
+   "Valuta ituja hyvin. Saatat joutua ravistelemaan niitä hieman.",
+   "Levitä ituja tomaattien ja sellerin päälle varoen, ettei niistä tule sotkuista sekamelskaa.",
+   "Ripottele pekonimurut itujen päälle.",
+   "Pirskottele öljy pekonin päälle.",
+   "Ripottele etikkaa kaiken päälle."
+  ],
+  "notes": [
+   "Koristele se rusinoilla ja rapeilla kuivapaahdetuilla maapähkinöillä."
+  ]
+ },
+ {
+  "id": "wikibooks-sriracha-oatmeal-and-lentils",
+  "title": "Tulinen linssi-kaurapuuro srirachalla",
+  "description": "Kananliemessä Srirachan kanssa keitetyt kaurapuuro ja punaiset linssit. Tämän voi valmistaa pelkästään kaurapuurolla, mutta punaiset linssit tuovat makua.",
+  "servings": 2,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "kaura",
+   "tulinen",
+   "edullinen"
+  ],
+  "ingredients": [
+   "2 dl punaisia linssejä",
+   "2 dl kaurahiutaleita",
+   "n. 5 dl kanalientä",
+   "Enintään 1 rkl hunajaa",
+   "enintään ¾ rkl srirachaa",
+   "suolaa"
+  ],
+  "instructions": [
+   "Keitä linssejä vedessä, kunnes ne ovat hyvin pehmeitä.",
+   "Jos vettä on jäljellä, siivilöi linssit.",
+   "Murskaa linssit.",
+   "Kuumenna kanaliemi kattilassa.",
+   "Laita linssit takaisin liedelle ja lisää kuumennettu kanaliemi ja kaura.",
+   "Kun kaura on kypsynyt, lisää Sriracha-kastiketta. Sriracha-kastikkeen määrä riippuu täysin omasta mausta.",
+   "Lisää noin ½ rkl hunajaa ja tarpeeksi suolaa maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-stargazy-pie",
+  "skip": "epätarkat määrät"
+ },
+ {
+  "id": "wikibooks-steak-and-ale-pie",
+  "title": "Naudanliha-olutpiirakka",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "piirakka",
+   "brittiläinen",
+   "olut",
+   "juhla"
+  ],
+  "ingredients": [
+   "900 g naudan haudutuslihaa, huoneenlämpöistä",
+   "1–2 rkl rypsiöljyä",
+   "1 keskikokoinen sipuli, kuorittu ja kuutioitu",
+   "1 rkl vehnäjauhoja",
+   "1 rkl worcestershirekastiketta",
+   "kourallinen tuoretta timjamia, meiramia ja persiljaa, hienonnettuna",
+   "1 tl englantilaista sinappia",
+   "1 laakerinlehti",
+   "suolaa",
+   "mustapippuria",
+   "1,5 dl naudanlihalientä",
+   "1,25 dl tummaa olutta (ale)",
+   "450 g lehtitaikinaa"
+  ],
+  "instructions": [
+   "Leikkaa liha noin 3 cm kuutioiksi.",
+   "Kuumenna öljy kattilassa ja paista sipulia, jotta se ei ruskistu.",
+   "Lisää naudanliha, varmistaen ensin, että liha on huoneenlämpöistä, ja paista, kunnes se on keskiruskeaa.",
+   "Sekoita jauhot joukkoon ja paista, kunnes ne ovat tummanruskeita (noin 1 minuutti)",
+   "Lisää Worcestershire-kastike, timjami, meirami, sinappi, laakerinlehti ja mausteet.",
+   "Lisää hitaasti naudanliemi ja ale, ja kiehauta sitten.",
+   "Hauduta hiljalleen, kunnes naudanliha on melkein pehmeää, noin 1 ½ tuntia.",
+   "Esilämmitä uuni 200 asteeseen.",
+   "Ota liha pois liedeltä, poista rasva pinnalta, mausta ja lisää tuoretta hienonnettua persiljaa.",
+   "Aseta taikina piirakkavuokaan tai yksittäisiin vuokiin. Peitä piirakkavuoka (tai vuoat) taikinalla ja leikkaa reunat ylimääräiset pois.",
+   "Paista 20–25 minuuttia tai kunnes leivonnainen on noussut hyvin ja on kullanruskea."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-and-kidney-pudding",
+  "skip": "taikinan ohje puuttuu"
+ },
+ {
+  "id": "wikibooks-steak-and-mushrooms",
+  "title": "Pihvit ja paistetut herkkusienet",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "pihvi",
+   "sienet",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "3,5 dl viipaloituja herkkusieniä",
+   "2 rkl voita",
+   "4 naudan ulkofileepihviä (à 170–225 g)",
+   "suolaa",
+   "mustapippuria",
+   "oliiviöljyä",
+   "2 tl tuoretta hienonnettua valkosipulia",
+   "½ dl kuutioitua sipulia"
+  ],
+  "instructions": [
+   "Sivele pihvi oliiviöljyllä. Mausta molemmat puolet runsaasti suolalla ja vastajauhetulla mustapippurilla.",
+   "Esilämmitä grilli. Lisää pihvit ja paista 4–5 minuuttia kummaltakin puolelta, jotta pihvit jäävät medium rare -kypsyyteen. Käännä pihvejä puolivälissä 90 astetta, jotta niihin muodostuu grilliraitoja.",
+   "Kun pihvi paistuu, valmistele sienet. Sulata voi suuressa suoraseinäisessä paistinpannussa keskilämmöllä. Lisää valkosipuli ja paista sitä sekoittaen, kunnes se on kullanruskeaa. Lisää sipuli ja sienet ja paista niitä sekoittaen silloin tällöin, kunnes sienet ovat haluamasi ruskeita.",
+   "Tarjoile pihvit paistettujen sienien ja haluamiesi lisukkeiden kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-and-pepper-stir-fry",
+  "title": "Naudanliha-paprikawokki",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "wokki",
+   "paprika",
+   "nopea"
+  ],
+  "ingredients": [
+   "170 g naudan entrecôtea, ohuina suikaleina syitä vastaan",
+   "suolaa",
+   "mustapippuria",
+   "2 rkl soijakastiketta",
+   "1 rkl maapähkinä- tai rypsiöljyä",
+   "½ punaista ja ½ vihreää paprikaa, suikaloituna",
+   "1 rkl hienonnettua inkivääriä",
+   "1 rkl hienonnettua valkosipulia",
+   "1 thaichili, hienonnettuna"
+  ],
+  "instructions": [
+   "Mausta naudanliha runsaasti suolalla ja mustapippurilla. Aseta sivuun.",
+   "Kuumenna suuri ruostumattomasta teräksestä tai valuraudasta valmistettu paistinpannu tai wok keskilämmöllä. Lisää maapähkinäöljyä ja maustettua naudanlihaa ja paista sekoittaen usein, kunnes liha on ruskistunut ja hieman hiiltynyt molemmin puolin. Ota pois pannulta ja pidä lämpimänä.",
+   "Sekoita loput ainekset keskenään ja laita ne wokkiin. Paista sekoittaen usein, kunnes vihannesten reunat ovat hieman ruskistuneet.",
+   "Lisää pihvi ja kuumenna se läpi. Tarjoile lämpimänä soijakastikkeen kera."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-and-peppers",
+  "title": "Naudanlihaa, paprikaa ja tomaattia",
+  "description": "Pihvi ja paprikat on helppo ruoka, jonka voi valmistaa nopeasti lihajäämistä. Viipaloitu seitan, paistettu kyljyspihvi tai mikä tahansa muu proteiininlähde sopii todennäköisesti yhtä hyvin. Ruoka sopii hyvin myös pääruoaksi yhdessä pinaatin, valkosipulin ja risotton kanssa.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "paprika",
+   "tomaatti",
+   "italialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "½ isoa sipulia, viipaloituna",
+   "2 isoa paprikaa, viipaloituna",
+   "2 rkl oliiviöljyä",
+   "335 g naudanlihasuikaleita",
+   "335 g tomaattimurskaa",
+   "1 tl kapriksia",
+   "7–10 tuoretta basilikanlehteä",
+   "¼ tl suolaa",
+   "ripaus chilihiutaleita"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy suuressa paistinpannussa. Paista pihviviipaleita, paprikaa ja sipulia yhdessä suolan ja punaisen paprikajauheen kanssa muutaman minuutin ajan, laske sitten lämpöä ja lisää murskattuja tomaatteja ja kapriksia.",
+   "Hauduta kannen alla 10 minuuttia tai kunnes pihvi on kypsynyt ja pehmeä.",
+   "Leikkaa basilika hienoksi ja lisää se, sitten anna hautua vielä pari minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-au-poivre-pepper-steak",
+  "title": "Steak au poivre (pippuripihvi)",
+  "description": "Pippuripihvi on ruokalaji, jossa mureat naudanlihapihvit kuorrutetaan rouhituilla pippurimuruilla ja paistetaan sitten kuumalla pannulla. Lihan paistomehusta voidaan sitten valmistaa pannukastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "pihvi",
+   "ranskalainen",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "karkeaa suolaa",
+   "4 naudan sisäfileepihviä (à 170–225 g), 3 cm paksuja",
+   "2 rkl mustapippuria, rouhittuna",
+   "1 dl konjakkia",
+   "2,5 dl kuohukermaa",
+   "50 g voita, jaettuna",
+   "2 tl oliiviöljyä"
+  ],
+  "instructions": [
+   "Ripottele pihveihin runsaasti kosher-suolaa molemmin puolin. Painele pippurikornit pihvien molemmille puolille. Anna pihvien seistä 30 minuuttia tai kunnes ne ovat huoneenlämpöisiä.",
+   "Sulata 1 rkl voita ja öljyä suuressa ruostumattomasta teräksestä valmistetussa paistinpannussa keskilämmöllä. Lisää pihvit ja paista 5 minuuttia kummaltakin puolelta, jos haluat pihvin medium rare -kypsyyden, 6 minuuttia medium-kypsyyden ja 7 minuuttia well done -kypsyyden. Nosta pannusta ja pidä lämpimänä.",
+   "Nosta pihvit lämpimään. Sammuta liesi ja lisää konjakki pannulle varovasti (voi leimahtaa).",
+   "Aseta lämpötila keskilämmölle ja sekoita jatkuvasti, jotta pohjalle tarttunut aines irtoaa. Kiehauta ja keitä, kunnes neste on vähentynyt puoleen.",
+   "Sekoita kerma joukkoon. Kiehauta ja keitä, kunnes kastiketta on noin 1 dl.",
+   "Lisää voi hitaasti vispilällä, 1 rkl kerrallaan. Kaada kastike pihvien päälle ja tarjoile lämpimänä."
+  ],
+  "notes": [
+   "Älä edes ajattele käyttäväsi teflonpannua. Teflonpannulla ei voi valmistaa pannukastiketta.",
+   "Jos et halua sytyttää konjakkia, sinun ei tarvitse tehdä sitä. Se on vain esitys, joka saa ihmiset tuijottamaan sinua ihmeissään."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-enchiladas",
+  "skip": "suurtalousmäärät (4 kg sisäfilee), hankalasti saatavat ainekset"
+ },
+ {
+  "id": "wikibooks-steak-melts",
+  "title": "Lämpimät pihvi-juustoleivät",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "voileipä",
+   "juusto",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 paistettua naudan ulkofileepihviä (à 170–225 g)",
+   "4 viipaletta vaaleaa leipää",
+   "sulatettua voita",
+   "4 viipaletta Monterey Jack- tai muuta sulavaa juustoa"
+  ],
+  "instructions": [
+   "Viipaloi pihvit ohuiksi viistosti lihasuuntaan nähden. Aseta ¼ suikaleista jokaiselle leipäviipaleelle.",
+   "Aseta juustoviipale sen päälle, paina kaksi viipaletta yhteen ja toista sama toisella viipaleella. Sivele ulospäin osoittavat sivut sulatetulla voilla.",
+   "Kuumenna paistinpannu korkealla lämmöllä. Lisää voileivät ja paista, kunnes ne ovat molemmin puolin kullanruskeita. Tarjoile heti."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-rub",
+  "title": "Pihvin mausteseos",
+  "description": "Upeita mausteita, kuten korianteria, valkosipulia ja savustettua paprikajauhetta. Ruoka on myös cayennepippurin ansiosta varsin tulista, joten se ei sovi niille, jotka eivät pidä kovasta tulisuudesta.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "totalTimeMin": 2,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "grilli",
+   "nauta",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 dl chilijauhetta",
+   "½ dl karkeaksi jauhettua mustapippuria",
+   "7 rkl karkeaksi jauhettuja korianterinsiemeniä",
+   "3 rkl valkosipulijauhetta",
+   "½ dl savupaprikajauhetta",
+   "1–3 rkl cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset ilmatiiviissä astiassa, jossa on ravistelukansi."
+  ]
+ }
+]

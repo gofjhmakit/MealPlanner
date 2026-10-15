@@ -1,0 +1,717 @@
+[
+ {
+  "id": "wikibooks-khanom-tian-thai-coconut-rice-dumplings",
+  "title": "Khanom tian (thaimaalaiset kookostäytteiset riisinyytit)",
+  "description": "Khanom Tian (ขนมเทียน) on pyramidinmuotoinen kiinalais-thaimaalainen jälkiruoka, jota tarjoillaan usein juhlapäivinä, kuten Sat Chin -juhlassa (kiinalainen haamujuhla) ja kiinalaisessa uusivuodessa. Tämä jälkiruoka koostuu taikinasta ja suolaisesta tai makeasta täytteestä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "thaimaalainen",
+   "kookos",
+   "riisi",
+   "höyrytetty",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "100 g palmusokeria",
+   "5 dl kookosmaitoa",
+   "200 g tahmeaa riisijauhoa",
+   "Täyte:",
+   "100 g palmusokeria",
+   "5 dl raastettua tuoretta kookosta tai 3 dl kookoshiutaleita",
+   "2,5 dl vettä",
+   "Käärimiseen:",
+   "6 isoa banaanilehteä (aasialaiset kaupat)"
+  ],
+  "instructions": [
+   "Sulata palmusokeri kattilassa kookosmaidon kanssa ja anna jäähtyä huoneenlämpöiseksi.",
+   "Sekoita glutinous-riisijauhoa ja kookosmaitoa, kunnes muodostuu tasainen ja hieman tahmea taikina.",
+   "Peitä taikina ja anna sen levätä 3 tuntia tai yön yli.",
+   "Sekoita palmusokeri ja vesi kattilassa ja hauduta, kunnes seos on riittävän kuiva.",
+   "Lisää kookos ja hauduta, kunnes seos on tahmeaa.",
+   "Anna seistä 10–15 minuuttia.",
+   "Öljyä kätesi. Pyöritä 3 cm:n pala taikinaa palloksi ja litistä se ympyräksi.",
+   "Laita täytettä sisältävä pallo taikinaan. Taita taikina varovasti täytteen ympärille ja purista saumat kiinni.",
+   "Aseta taikinapallot voideltuun astiaan, jotta ne eivät tartu kiinni.",
+   "Pese banaanilehdet. Leikkaa lehdet saksilla kahteen eri kokoon: toisen halkaisijan tulisi olla 16–18 cm ja toisen 12–14 cm.",
+   "Aseta suuri lehtiosa ja pieni lehtiosa yhteen niin, että niiden sileät puolet ovat vastakkain. Tämä kaksinkertaistaa lehtien paksuuden ja tekee niistä vahvempia. Tee näin kaikille lehdille.",
+   "Taita banaanilehden toinen pää kartion muotoon ja laita täytetty taikinapallo sen sisään.",
+   "Taita kartion lyhyempi sivu kaksinkerroin.",
+   "Taita banaanilehden molemmat sivut kohtisuoraan kartion saumaa kohti.",
+   "Työnnä pitkä häntä pieneen aukkoon.",
+   "Taita jäljelle jäänyt pitkä pää taaksepäin ja laita se aukkoon. Taita pyramidin taitokset hieman, jotta se vahvistuu.",
+   "Aseta kaikki nyytit yhtenä kerroksena höyrykeittimeen. Höyrytä 20–30 minuuttia.",
+   "Anna nyyttien jäähtyä hieman ennen syömistä."
+  ],
+  "notes": [
+   "Tässä videossa näytetään, miten banaanilehdet muotoillaan ruoan valmistuksen aikana."
+  ]
+ },
+ {
+  "id": "wikibooks-khao-pad-thai-fried-rice",
+  "title": "Khao pad (thaimaalainen paistettu riisi)",
+  "description": "Khao pad on thaimaalainen paistettu riisi.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "thaimaalainen",
+   "wokki",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 rkl rypsiöljyä",
+   "1 rkl hienonnettua valkosipulia",
+   "2 kananmunaa",
+   "5 dl keitettyä jasmiiniriisiä, jäähdytettynä",
+   "1 rkl kalakastiketta",
+   "1 rkl soijakastiketta",
+   "2,5 dl kypsää lihaa tai katkarapuja",
+   "2 tl sokeria",
+   "½ tl jauhettua mustapippuria",
+   "2 kevätsipulia, renkaina"
+  ],
+  "instructions": [
+   "Kuumenna paistinpannu tai wok ja lisää öljy, sitten hienonnettu valkosipuli. Paista, kunnes tuoksuu hyvältä.",
+   "Lisää munat ja paista niitä, kunnes ne ovat kypsiä.",
+   "Lisää riisi ja paista sekoittaen.",
+   "Mausta kalakastikkeella, soijakastikkeella ja sokerilla, ja jatka paistamista, kunnes riisi on murumaista.",
+   "Lisää liha, pippuri ja kevätsipulit. Sekoita uudelleen, kunnes seos on lämmennyt kauttaaltaan, ja siirrä sitten tarjoiluastiaan."
+  ]
+ },
+ {
+  "id": "wikibooks-khao-pad-gai-thai-chicken-fried-rice",
+  "title": "Khao pad gai (thaimaalainen kanapaistettu riisi)",
+  "description": "Khao pad gai on thaimaalaista tyyliä oleva kanaa sisältävä paistettu riisi, jota Thaimaan keskialueen katukauppiaat valmistavat. Huomaa, että tämä on hyvin epätarkka resepti, joten ”kupit” tarkoittaa ”kourallisia”. Mikä tahansa mitta-astia, johon mahtuu noin suuri kourallinen, käy hyvin.",
+  "servings": 3,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "riisi",
+   "thaimaalainen",
+   "wokki"
+  ],
+  "ingredients": [
+   "4 rkl maapähkinäöljyä",
+   "1 iso broilerin rintafilee, ohuina suikaleina",
+   "2 kananmunaa",
+   "9,5 dl kylmää keitettyä jasmiiniriisiä",
+   "½ keltaista sipulia, suikaloituna",
+   "1 tomaatti, suikaleina",
+   "2 vihreää sipulia, ohuiksi viipaleiksi leikattuina",
+   "½ dl korianteria, hienonnettuna",
+   "1 rkl kalakastiketta",
+   "1 rkl soijakastiketta",
+   "1 rkl palmusokeria tai sokeria",
+   "½ tl suolaa",
+   "2 valkosipulinkynttä, hienonnettuna ja paistettuna",
+   "1 tl etikkaa",
+   "2 rkl thaimaalaista chilikastiketta",
+   "3 viipaletta kurkkua, kuorittuna (huom.: haluttaessa voi viillata kurkkua kevyesti haarukalla kaikilta sivuilta)",
+   "3 viipaletta roma-tomaattia",
+   "3 kevätsipulinvartta",
+   "salaatinlehtiä"
+  ],
+  "instructions": [
+   "Varmista, että kaikki ainekset on valmistettu ja asetettu pieniin kulhoihin lieden viereen.",
+   "Lisää wokkiin noin 4 rkl maapähkinäöljyä ja käännä liesi täyteen tehoon.",
+   "Kun öljy on melkein savuaa, lisää kanasuikaleet ja sekoita voimakkaasti wok-lusikalla tai lastalla.",
+   "Kun kana näyttää alkavan ruskistua, työnnä se wokin reunaa vasten ja riko munat wokkiin.",
+   "Sekoita munia hieman. Kun munat ovat melkein täysin kypsiä, lisää kana ja sekoita vielä 30 sekuntia.",
+   "Työnnä munat ja kana sivuun, lisää hieman lisää öljyä ja heitä tomaatti ja sipuli pannulle. Paista noin 5 minuuttia. Ne eivät näytä vielä kypsiltä, mutta lopulta ne ovat valmiita.",
+   "Lisää kylmä keitetty riisi ja sekoita kaikki yhteen.",
+   "Vähennä lämpöä ja lisää sitten muutama tippa kalakastiketta ja soijakastiketta maun mukaan.",
+   "Lisää sokeri, suola, tilkka etikkaa ja halutessa chilikastiketta.",
+   "Asettele koristeet salaatinlehdelle suurelle tarjoilulautaselle ja laita paistettu riisi sen viereen.",
+   "Syö lisukkeet paistetun riisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-khara-pongal-rice-and-lentil-porridge",
+  "title": "Khara pongal (eteläintialainen riisi-linssipuuro)",
+  "description": "Khara pongal on suolainen puuroa muistuttava ruokalaji, jota valmistetaan perinteisesti Etelä-Intiassa Makar Sankranti -juhlaan, joka merkitsee kesän alkua. Makea pongal-versio eroaa vain lisättyjen mausteiden osalta, ja molemmat valmistetaan usein yhdessä samasta riisi- ja dhal-erästä.",
+  "servings": 3,
+  "totalTimeMin": 40,
+  "category": "Aamiainen",
+  "tags": [
+   "intialainen",
+   "riisi",
+   "linssit",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 dl valkoista riisiä",
+   "1 dl kuorittuja mung-linssejä",
+   "7 dl vettä",
+   "½ tl kurkumaa",
+   "½ dl hienonnettuja cashewpähkinöitä",
+   "10 currylehteä",
+   "1 tl mustapippuria, karkeasti rouhittuna",
+   "1 tl kuminansiemeniä",
+   "2 vihreää chilipaprikaa, halkaistuna pituussuunnassa",
+   "1 rkl rypsiöljyä",
+   "1 rkl gheeta (tai korvaa voilla)",
+   "½ tl sinapinsiemeniä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä riisi ja dhal yhdessä kurkumajauheen kanssa kattilassa tai painekattilassa, kunnes ne ovat pehmeitä.",
+   "Kuumenna hieman gheeta suuressa pannussa ja paista cashewpähkinät kullanruskeiksi. Nosta ne pannusta.",
+   "Lisää loput gheestä ja öljystä ja kuumenna.",
+   "Lisää kaikki mausteet, aloita sinapinsiemenistä ja lopeta cashewpähkinöillä.",
+   "Sekoita riisi ja dhal joukkoon ja lämmitä. Jos seos on liian paksua, lisää hieman vettä.",
+   "Lisää suolaa ja gheeta maun mukaan. Voit myös lisätä lopuksi hieman raastettua kookospähkinää."
+  ]
+ },
+ {
+  "id": "wikibooks-khatti-dal-spiced-tamarind-pigeon-peas",
+  "title": "Khatti dal (hapan tamarindidal)",
+  "description": "Tämä on eräs dal-ruokalaji, joka on Etelä-Aasian yleinen perusruoka ja valmistetaan dalista muodostamalla muhennos tai paksu keitto. Dal on monissa Etelä-Aasian kielissä nimi halkaistuille palkokasveille (katso dal-sivu). Khatti tarkoittaa hindin kielessä hapanta ja tulee tamarindin käytöstä, joka on itsessään erittäin hapan hedelmä. Tarjoile minkä tahansa roti-lajin (pyöreä, litteä leipä) kanssa tai riisin päällä, ja lisukkeeksi vihannesruokaa sekä acharia (suolakurkkua) tai chutneyta mausteeksi. Rotia käytetään dalin ja vihannespalojen kauhoimiseen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "intialainen",
+   "linssit",
+   "tamarindi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl toor dalia (keltaisia kyyhkynherneitä)",
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna",
+   "½ tl inkivääripastaa",
+   "1 tl valkosipulitahnaa",
+   "1 tomaatti, kuutioituna",
+   "1 rkl tamarinditahnaa",
+   "1 tl chilijauhetta",
+   "½ tl kurkumaa",
+   "1 tl sinapinsiemeniä",
+   "1 tl kuminansiemeniä",
+   "8 curryn lehteä",
+   "1 tl suolaa",
+   "korianteria"
+  ],
+  "instructions": [
+   "Pese toor daal ja keitä sitä noin 20 minuuttia, kunnes se on pehmeää. Valuta vesi pois ja murskaa dal.",
+   "Kuumenna öljy kadai-pannussa kuumaksi. Lisää currylehdet, sinapinsiemenet ja jeera-siemenet. Paista minuutin ajan. Aluksi ne poksahtelevat, joten kansi auttaa välttämään sotkua.",
+   "Lisää sipuli ja paista, kunnes se on hieman ruskeaa.",
+   "Lisää inkivääri- ja valkosipulitahna. Paista minuutti, lisää sitten tomaatit. Kypsennä, kunnes öljy erottuu.",
+   "Lisää tamarindinpalat, kurkumajauhe ja punainen chilijauhe. Kypsennä 4–5 minuuttia.",
+   "Lisää toor daal ja tarpeeksi vettä halutun paksuuden saavuttamiseksi.",
+   "Lisää suolaa maun mukaan ja koristele korianterinlehdillä.",
+   "Tarjoile rotin kanssa tai kaada riisin päälle."
+  ]
+ },
+ {
+  "id": "wikibooks-kheer-rice-pudding",
+  "title": "Kheer (intialainen riisivanukas)",
+  "description": "Kheer tai payasam on paksu riisipuuro.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "intialainen",
+   "riisi",
+   "jälkiruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l maitoa",
+   "1 dl pitkäjyväistä riisiä",
+   "1,25 dl sokeria",
+   "½ dl rusinoita",
+   "6 kardemummakapselia",
+   "½ dl mantelilastuja",
+   "1 rkl ruusuvettä"
+  ],
+  "instructions": [
+   "Kiehauta maito. Sekoita säännöllisesti, jotta se ei pala pohjaan.",
+   "Lisää riisi ja hauduta hiljalleen, kunnes seos on paksuuntunut (noin 20 minuuttia).",
+   "Sekoita joukkoon sokeri, rusinat ja jauhetut kardemuminsiemenet. Keitä 5 minuuttia.",
+   "Ota kattila pois liedeltä, sekoita joukkoon mantelit ja ruusuvesi ja peitä, kunnes ruoka on valmis tarjoiltavaksi."
+  ],
+  "notes": [
+   "Alkuperäisen 2,5 dl riisiä litraan maitoa on puolitettu, jotta vanukas jää notkeaksi."
+  ]
+ },
+ {
+  "id": "wikibooks-khichdi-south-asian-rice-and-lentils",
+  "title": "Khichdi (riisi-linssipuuro)",
+  "description": "Khichdi on suosittu ruokalaji Intian Gujaratin osavaltiossa, jossa monet perheet syövät sitä mieluiten illalliseksi. Siitä on myös monia muunnelmia eri puolilla Intiaa.",
+  "servings": 3,
+  "category": "Pääruoat",
+  "tags": [
+   "intialainen",
+   "riisi",
+   "linssit",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 dl riisiä",
+   "1,5 dl mung- tai punaisia linssejä",
+   "1 tl suolaa",
+   "1 tl kurkumajauhetta"
+  ],
+  "instructions": [
+   "Pese riisi ja linssit ja liota niitä vedessä 10–15 minuuttia.",
+   "Lisää suolaa ja kurkumajauhetta.",
+   "Keitä 7–9 dl:ssa vettä painekattilassa tai tavallisessa kattilassa kannen alla noin 25 minuuttia, kunnes seos on puuromaista.",
+   "Tarjoa gheen ja jogurtin tai piimän kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-khubz-muluwah-yemenite-layered-flatbread",
+  "title": "Malawach (jemeniläinen kerroslehtileipä)",
+  "description": "Khubz muluwah on lehtimäinen leipä, jota leivotaan ja syödään laajalti Jemenissä sekä muualla Arabiassa. Se valmistetaan perinteisesti saviuunissa (tannur), mutta sitä voidaan leipoa myös kuumalla paistolevyllä.",
+  "servings": 8,
+  "totalTimeMin": 5,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "jemeniläinen",
+   "leipä",
+   "leivonta"
+  ],
+  "ingredients": [
+   "9,5 dl vehnäjauhoja",
+   "5,5 dl vettä",
+   "1 rkl suolaa",
+   "200 g gheetä tai sulatettua voita",
+   "3 rkl mustakuminaa (nigella)"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja suola isossa kulhossa.",
+   "Lisää vesi vähitellen, kunnes taikina on tasalaatuista.",
+   "Kastele vedellä ja anna taikinan levätä 45 minuuttia.",
+   "Aloita taikinan työstäminen uudelleen venyttämällä ja taittamalla sitä päällekkäin. Peitä taikina ja anna sen levätä 15 minuuttia.",
+   "Aseta leikkuulaudalle ja leikkaa kahteen yhtä suureen osaan. Muotoile kumpikin pala palloksi.",
+   "Tasoita taikina käsin jauhotetulla pinnalla. Rullaa taikina kaulinalla hyvin ohueksi ympyräksi.",
+   "Voitele taikinan pinta gheellä ja ripottele päälle hieman mustakuminaa.",
+   "Leikkaa tasoitettu taikina pitkänomaisiksi suikaleiksi ja taita yksi pää pituussuunnassa itsensä päälle. Voitele gheellä (tai voilla) ja ripottele mustakuminaa päälle.",
+   "Toista sama menettely toisen taikinapallon kanssa.",
+   "Kun molemmat taikinapallot on litistetty ja kukin niistä on taiteltu toistuvasti kaksinkerroin (lisäämällä jokaiseen taitokseen gheeta ja mustakuminaa), yhdistä kaksi pitkänomaista taikinapalaa asettamalla toinen toisen päälle.",
+   "Aloita taikinan rullaaminen toisesta päästä, aivan kuten makuupussia rullattaessa. Kun taikina on kokonaan rullattu, käännä se niin, että se makaa kyljellään (kiertyneet renkaat ylöspäin).",
+   "Kun taikina on rullattu tällä tavalla, peitä se ja anna sen levätä 15 minuuttia.",
+   "Ota taikina käteen, sivele sitä gheellä (tai voilla) ja ripottele sen pinnalle hieman mustakuminaa. Kauli taikina uudelleen kaulinalla (säilyttäen sen pyöreän muodon). Ripottele tasaiselle pinnalle tarvittaessa jauhoja, jotta taikina ei tartu kiinni.",
+   "Nosta tasoitettu taikina ja aseta se kuumalle paistinpannulle. Lisää vielä kerran gheeta ja paista, kunnes molemmat puolet ovat kullanruskeat."
+  ]
+ },
+ {
+  "id": "wikibooks-khus-khus-halwa",
+  "skip": "epäselvä ohje (nimi ja ainekset eivät vastaa toisiaan)"
+ },
+ {
+  "id": "wikibooks-kibbeh",
+  "title": "Kibbeh (bulgur-lihanyytit)",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "libanonilainen",
+   "bulgur",
+   "jauheliha",
+   "nyytit"
+  ],
+  "ingredients": [
+   "Täyte:",
+   "1 kg jauhelihaa (lammas tai nauta)",
+   "3 sipulia, hienonnettuna",
+   "1 tl suolaa",
+   "½ dl rusinoita (valinnainen)",
+   "½ dl pinjansiemeniä (valinnainen)",
+   "½ tl chilijauhetta tai paprikaa",
+   "Kuori:",
+   "500 g hienoa bulguria",
+   "500 g karkeaa bulguria",
+   "5 dl mannasuurimoita",
+   "1 tl kurkumaa",
+   "1 rkl suolaa",
+   "1 kananmuna"
+  ],
+  "instructions": [
+   "Paista sipulit ja jauheliha yhdessä. Lisää suolaa maun mukaan.",
+   "Sekoita mukaan rusinoita, pinjansiemeniä ja mausteita maun mukaan.",
+   "Jäähdytä täyte.",
+   "Sekoita hieno ja karkea bulgur kulhossa. Peitä bulgur muutaman senttimetrin paksuisella kerroksella lämmintä vettä. Anna bulgurin liota noin 1 tunti, kunnes se on imenyt vettä.",
+   "Valuta bulgur. Purista ylimääräinen vesi pois käsin. Laita valutettu bulgur kulhoon.",
+   "Sekoita mannasuurimot, kurkuma, suola ja muna kulhossa. Vaivaa ainekset yhteen, kunnes taikina muuttuu hieman purukumimaiseksi. Lisää enintään 1 dl mannasuurimoita, jos taikina ei ole tarpeeksi tahmeaa.",
+   "Muodosta taikinasta isoja palloja ja aseta ne sivuun.",
+   "Tee taikinapalloihin aukko, laita niihin lusikallinen lihaa ja sulje aukko.",
+   "Keitä kattilassa vettä, johon on lisätty hieman suolaa ja ripaus kurkumaa. Kun vesi kiehuu, litistä täytetyt kibbeh-pallot litteiksi, pienen lautasen kokoisiksi täysikuun muotoisiksi. Laske kukin kibbeh varovasti kiehuvaan veteen ja keitä, kunnes se nousee pintaan. Pintaan nouseminen on merkki siitä, että kibbeh on kypsynyt ja valmis syötäväksi.",
+   "Tarjoile heti kypsymisen jälkeen tai paista pannulla molemmin puolin."
+  ]
+ },
+ {
+  "id": "wikibooks-kid-friendly-pasta",
+  "title": "Lasten kasvispasta",
+  "description": "Tämä helppo pastaresepti on suunniteltu lapsille valmistettavaksi ja syötäväksi. Valvo lapsia ruoanlaittoa.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "lapset",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "450 g täysjyväspagettia",
+   "2 porkkanaa, ohuiksi suikaleiksi leikattuina",
+   "225 g vihreitä papuja",
+   "3 dl tomaatti-pastakastiketta"
+  ],
+  "instructions": [
+   "Kiehauta kattilallinen vettä.",
+   "Lisää spagetti ja porkkanat kiehuvaan veteen ja keitä 4 minuuttia.",
+   "Lisää vihreät pavut ja kypsennä vielä 4 minuuttia.",
+   "Sillä välin kuumenna tomaattikastike.",
+   "Valuta spagetti ja vihannekset ja sekoita ne lämmitettyyn kastikkeeseen.",
+   "Lisää tarvittaessa ripaus suolaa.",
+   "Tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-kid-friendly-pizza",
+  "title": "Lasten pizza",
+  "description": "Pizza on maukas välipala, jota monet ihmiset ympäri maailmaa nauttivat. Sen syöminen voi olla hauskaa, ja sen valmistaminen vieläkin hauskempaa! Tämä resepti on suunniteltu erityisesti lapsille valmistettavaksi ja syötäväksi.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "pizza",
+   "lapset",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 valmis täysjyväpizzapohja",
+   "1 dl tomaattikastiketta",
+   "2,5 dl pizzajuustoraastetta",
+   "1 dl kuutioitua kypsennettyä kananrintaa (valinnainen)",
+   "1 punainen paprika, kuutioituna"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Levitä tomaattikastike pizzapohjalle.",
+   "Lisää päälle puolet raastetusta juustosta.",
+   "Lisää kana ja paprika.",
+   "Ripottele loput juustosta päälle.",
+   "Paista 10–12 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-kids-vegetable-puree",
+  "skip": "vauvanruoka (sisältää äidinmaidonkorviketta)"
+ },
+ {
+  "id": "wikibooks-kik-alicha-yellow-split-pea-stew",
+  "title": "Kik alicha (etiopialainen keltainen hernepata)",
+  "description": "Kik alicha on lohduttava ja maukas etiopialainen herneenpata, joka valmistetaan keittämällä keltaisia herneitä miedossa ja aromaattisessa kastikkeessa. Tämä kasvisruoka on etiopialaisen keittiön perusruoka, ja sitä tarjoillaan usein osana perinteistä etiopialaista ateriaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "etiopialainen",
+   "herneet",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl keltaisia halkaistuja herneitä",
+   "1 iso sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 rkl raastettua inkivääriä",
+   "2 rkl niter kibbehiä tai kasviöljyä",
+   "1 tl kurkumaa",
+   "½ tl juustokuminaa",
+   "½ tl paprikajauhetta",
+   "1 tl suolaa",
+   "korianteria tai persiljaa"
+  ],
+  "instructions": [
+   "Huuhtele keltaiset halkaistut herneet kylmällä vedellä siivilässä, jotta lika ja roskat poistuvat. Valuta siivilässä.",
+   "Sekoita keskikokoisessa kattilassa huuhdellut halkaistut herneet, hienonnettu sipuli, hienonnettu valkosipuli, raastettu inkivääri, niter kibbeh, kurkuma, kumina, paprikajauhe ja suola.",
+   "Lisää vettä niin paljon, että se peittää halkaistut herneet noin tuuman verran.",
+   "Kiehauta, laske lämpö, peitä ja hauduta noin 45 minuuttia, kunnes herneet ovat hajonneet.",
+   "Maista muhennosta ja mausta tarvittaessa suolalla.",
+   "Ota kattila pois liedeltä ja anna muhennoksen levätä muutama minuutti, jotta maut ehtivät sulautua yhteen.",
+   "Koristele tuoreella hienonnetulla korianterilla tai persiljalla. Tarjoile kuumana pääruokana tai osana perinteistä etiopialaista ateriaa, injeran (etiopialaisen leivän) tai riisin kera."
+  ],
+  "notes": [
+   "Jotta koostumus olisi kermaisempi, voit murskata osan keitetyistä halkaistuista herneistä osittain lusikan takapuolella.",
+   "Kik alicha voidaan valmistaa etukäteen ja lämmittää uudelleen. Se maistuu usein vielä paremmalta seuraavana päivänä, kun maut ehtivät kehittyä.",
+   "Herkkherneiden liottaminen yön yli ennen keittämistä voi lyhentää keittoaikaa.",
+   "Säädä mausteiden määrää makusi mukaan. Lisää kurkumaa, jos haluat kirkkaamman keltaisen värin, tai paprikaa, jos haluat mausteisempaa makua.",
+   "Voit muokata kik alichaa lisäämällä muhennokseen vihanneksia, kuten porkkanoita, perunoita tai tomaatteja.",
+   "Joissakin resepteissä lisätään pieni määrä jauhettua mitmita-maustetta, jotta ruoka saa lisää tulisuutta ja monipuolista makua.",
+   "Keltaiset halkaistut herneet ovat hyvä kasviproteiinin, ravintokuidun ja välttämättömien ravintoaineiden lähde. Ne ovat myös vähärasvaisia ja sisältävät runsaasti vitamiineja ja kivennäisaineita."
+  ]
+ },
+ {
+  "id": "wikibooks-kilishi-nigerian-beef-jerky",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-killer-queso-dip",
+  "skip": "amerikkalaiset valmistuotteet (Velveeta, Rotel)"
+ },
+ {
+  "id": "wikibooks-kipspek-bacon-wrapped-chicken",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-kisra-sudanese-bread",
+  "title": "Kisra (sudanilainen hapan ohukaisleipä)",
+  "description": "Kisra on perinteinen sudanilainen leipä, joka valmistetaan durra- tai hirssijauhosta. Se on Sudanin peruselintarvike, jota nautitaan monenlaisten ruokien, kuten muhennosten, keittojen ja dippien, kanssa. Kisra on ohut ja joustava, ja sen maku on fermentaatioprosessin ansiosta hieman kirpeä. Kisraa tarjoillaan perinteisesti sudanilaisten muhennosten, kuten bamian tai mulahwan, lisukkeena. Nauti siitä repimällä siitä pala ja käyttämällä sitä valitsemasi ruokalajin herkullisten makujen keräämiseen. Sen monipuolisuuden ansiosta sitä voidaan käyttää myös kääreenä tai nauttia sellaisenaan voin tai hunajan kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "sudanilainen",
+   "leipä",
+   "hirssi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl durra- tai hirssijauhoa",
+   "1 tl suolaa",
+   "5 dl lämmintä vettä",
+   "½ tl kuivahiivaa (valinnainen)",
+   "1 rkl rypsiöljyä pannun voiteluun"
+  ],
+  "instructions": [
+   "Sekoita sorghum- tai hirssijauho ja suola sekoituskulhossa. Lisää lämmin vesi vähitellen samalla jatkuvasti vispilällä sekoittaen tai sekoittaen, kunnes taikina on tasainen. Varmista, ettei seoksessa ole kokkareita.",
+   "Jos taikinaa annetaan käydä, sekoita hiiva taikinaan. Peitä kulho puhtaalla keittiöpyyhkeellä ja anna taikinan levätä lämpimässä paikassa 8–12 tuntia. Näin taikina käy ja maku kehittyy. Jos haluat käymättömän kisran, ohita tämä vaihe.",
+   "Kuumenna tarttumaton paistinpannu tai paistolevy keskilämmöllä. Varmista, että pannu on kuuma ennen taikinan kaatamista.",
+   "Sekoita taikinaa huolellisesti ennen kuin kaadat kauhallisen kuumalle pannulle. Kallista ja pyöritä pannua välittömästi ympyräliikkein, jotta taikina levittyy tasaisesti ohueksi kerrokseksi. Kisran tulee olla ohut ja joustava.",
+   "Anna kisran paistua toiselta puolelta muutama minuutti, kunnes reunat alkavat nousta ja pohja on kullanruskea. Kun pinta on kuiva ja reunat rapeat, nosta se pannulta lastalla (sitä tulisi paistaa vain toiselta puolelta). Toista paistaminen lopun taikinan kanssa.",
+   "Pinoa kypsät kisrat lautaselle tai kääri ne puhtaaseen keittiöpyyhkeeseen, jotta ne pysyvät pehmeinä ja taipuisina. Niitä voi säilyttää huoneenlämmössä muutaman päivän ajan tai jääkaapissa, jolloin ne säilyvät pidempään."
+  ],
+  "notes": [
+   "Kisra valmistetaan yleensä durra- tai hirssijauhosta, mutta jos niitä ei ole saatavilla, voit käyttää korvikkeena vehnäjauhon ja maissijauhon sekoitusta."
+  ]
+ },
+ {
+  "id": "wikibooks-kitfo-ethiopian-minced-raw-meat",
+  "skip": "raaka jauheliha – ei suositeltava"
+ },
+ {
+  "id": "wikibooks-kiwi-and-asian-pear-in-lemon-dressing",
+  "title": "Kiivi-nashipäärynäsalaatti sitruunakastikkeella",
+  "description": "Kiivi ja aasialainen päärynä sitruunakastikkeessa (kiwo to nashi no lemon ae) on herkullinen ja virkistävä kesäruoka.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kiivi",
+   "hedelmät",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 pienen sitruunan hienoksi raastettu tuore kuori",
+   "½ dl tuoretta sitruunamehua",
+   "2 rkl sokeria",
+   "¼ tl suolaa",
+   "½ tl seesamiöljyä",
+   "2 kiiviä, kuorittuna, viipaloituna ja ohuiksi suikaleiksi leikattuna",
+   "1 nashipäärynä (tai rapea päärynä), suikaleina",
+   "½ keltaista tai punaista paprikaa, leikattu ohuiksi suikaleiksi",
+   "½ kurkku, siemenet poistettuna ja suikaleina",
+   "1 rkl kevyesti paahdettuja mustia seesaminsiemeniä"
+  ],
+  "instructions": [
+   "Sekoita sitruunakastikkeen ainekset keskenään tarjoiluastiaan ja aseta sivuun.",
+   "Lisää hedelmät sitruunakastikkeen kulhoon. Sekoita, peitä ja anna jäähtyä noin tunnin ajan."
+  ]
+ },
+ {
+  "id": "wikibooks-klepon-indonesian-sweet-boiled-rice-cake",
+  "title": "Klepon (pandan-riisipallot palmusokeritäytteellä)",
+  "description": "Klepon (lausutaan Klê-pon) on perinteinen indonesialainen riisikakku, joka on peräisin jaavalaisesta keittiöstä. Se on keitetty riisikakku, joka on täytetty nestemäisellä gula jawa -palmusokerilla ja pyöritelty raastetussa kookospähkinässä. Klepon on vihreä pandan-lehden ansiosta.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "indonesialainen",
+   "kookos",
+   "riisi",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "8–10 pandanlehteä tai 1 tl pandantahnaa",
+   "300 g tahmeaa riisijauhoa",
+   "30 g saago- tai tapiokajauhoa",
+   "150 g palmusokeria (gula jawa), pieniksi paloiksi",
+   "300 g tuoretta raastettua kookosta tai kookoshiutaleita",
+   "noin 2,5 dl vettä"
+  ],
+  "instructions": [
+   "Jos käytät kokonaisia pandanlehtiä, jauha ne tasaiseksi tahnaksi, tarvittaessa lisäämällä hieman vettä.",
+   "Sekoita glutinous-riisijauho ja sagojauho, kunnes ne ovat hyvin sekoittuneet. Lisää pandan-tahna ja sekoita, ja lisää sitten vettä vähitellen, kunnes muodostuu pehmeä vihreä taikina.",
+   "Muotoile taikina pieniksi, halkaisijaltaan noin 2–3 cm:n kokoisiksi palloiksi. Tee palloihin sormella pieni reikä. Täytä reikä palmusokerilla ja sulje taikina niin, että sokeri jää sisälle. Muotoile pallo tarvittaessa varovasti uudelleen.",
+   "Kiehauta runsaasti vettä suuressa kattilassa. Laita pienet pallot yksi kerrallaan kiehuvaan veteen. Keitä noin 5 minuuttia, kunnes ne nousevat pintaan.",
+   "Valuta nyytit.",
+   "Pyöritä nyytit raastetussa kookospähkinässä ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-knoephla-small-flour-dumplings",
+  "title": "Knoephla (pienet jauhonyytit keittoon)",
+  "description": "Knoephla ovat nyyttejä, joita käytetään yleisesti knoephla-keitossa, joka on suosittu ruokalaji Yhdysvaltain Keskilännessä.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Muut",
+  "tags": [
+   "nyytit",
+   "saksalainen",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "5 dl yleiskäyttöjauhoja",
+   "1 tl (5 ml) leivinjauhetta",
+   "1 kananmuna",
+   "1 dl maitoa tai vettä"
+  ],
+  "instructions": [
+   "Sekoita kulhossa jauhot, leivinjauhe, muna ja sitten maito tai vesi. Sekoita, kunnes taikina on kiinteää eikä tartu käsiin. Lisää tarvittaessa hieman jauhoja, jotta taikina ei tartu käsiin, tai hieman nestettä, jos taikina on liian kuivaa.",
+   "Rullaa taikinapaloja käsien välissä lyijykynän pituisiksi (15 cm / 15 cm). Leikkaa pienet palat veitsellä tai saksilla.",
+   "Käytä knoephlaa annetun reseptin ohjeiden mukaisesti."
+  ]
+ },
+ {
+  "id": "wikibooks-knoephla-soup",
+  "title": "Knoephla-keitto (kermainen peruna-nyyttikeitto)",
+  "description": "Knoephla-keitto on yleinen ruokalaji, jota tarjoillaan Yhdysvaltojen Pohjois-Dakotan ja Minnesotan osavaltioissa. Tämä resepti on peräisin Preacherman777:n artikkelista englanninkielisessä Wikipediassa.",
+  "servings": 6,
+  "totalTimeMin": 120,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "peruna",
+   "nyytit",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1 annos knoephla-nyyttejä (5 dl jauhoista)",
+   "2 l vettä",
+   "2 rkl kanaliemijauhetta",
+   "2,5 dl hienonnettua sipulia",
+   "100 g voita",
+   "900 g perunoita, kuutioituna",
+   "2,5 dl kuohukermaa",
+   "1 tl (5 ml) hienonnettua persiljaa (valinnainen)",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sulata voi suuressa keittokattilassa keskilämmöllä. Lisää sipuli ja paista, kunnes sipuli on pehmeää.",
+   "Lisää vesi ja keittopohja. Kuumenna voimakkaalla lämmöllä, kunnes se kiehuu voimakkaasti. Lisää knoephla-nyytit pudottamalla ne kiehuvaan liemeen. Sekoita, kunnes ne kaikki nousevat pintaan, ja keitä, kunnes nyytit ovat pehmeitä.",
+   "Lisää perunat ja anna kiehua keskilämmöllä, kunnes nyytit ja perunat ovat kypsiä kauttaaltaan.",
+   "Ota kattila pois liedeltä. Lisää kerma ja mausta persiljalla sekä suolalla ja pippurilla maun mukaan."
+  ],
+  "notes": [
+   "Jos keittoa on lämmitettävä uudelleen, käytä matalaa lämpöä, jotta kerma ei juokseta."
+  ]
+ },
+ {
+  "id": "wikibooks-koeksisters-fried-braided-pastry-in-syrup",
+  "title": "Koeksisters (siirappiin kastetut punotut munkit)",
+  "servings": 16,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "eteläafrikkalainen",
+   "rasvassa paistettu",
+   "siirappi",
+   "leivonta"
+  ],
+  "ingredients": [
+   "Siirappi (tee edellisenä päivänä):",
+   "1 kg sokeria",
+   "5 dl vettä",
+   "3 cm pala inkivääriä, murskattuna, tai 2 kanelitankoa",
+   "ripaus viinikiveä",
+   "ripaus suolaa",
+   "2½ tl sitruunamehua",
+   "Taikina:",
+   "240 g vehnäjauhoja",
+   "4 tl leivinjauhetta",
+   "ripaus suolaa",
+   "2 rkl voita",
+   "1,25 dl piimää",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset kattilassa. Kuumenna kiehuvaksi sekoittaen, kunnes sokeri on liuennut.",
+   "Vähennä lämpöä ja anna kiehua hiljalleen 5–8 minuuttia.",
+   "Jäähdytä siirappi huoneenlämpötilaan.",
+   "Jaa se kahteen astiaan ja laita jääkaappiin jäähtymään yön yli.",
+   "Siivilöi jauhot, leivinjauhe ja suola yhteen.",
+   "Hiero voi sekaan.",
+   "Lisää kirnupiimä. Sekoita pehmeäksi taikinaksi ja vaivaa huolellisesti. Taikinan vaivaamisen aloittamisessa auttaa, jos rasvaat kätesi kevyesti öljyllä.",
+   "Peitä taikina kostealla liinalla ja anna sen levätä 15 minuuttia.",
+   "Kauli taikina 5 mm paksuiseksi ja leikkaa 1 × 7 cm suikaleiksi. Punokset kolmesta suikaleesta ja painele päät yhteen.",
+   "Paista kuumassa öljyssä, kunnes molemmat puolet ovat kullanruskeat.",
+   "Nosta reikäkauhalla ja kasta palat välittömästi jääkylmään siirappiin.",
+   "Ota koeksisterit uunista ja aseta ne ritilälle, jotta ylimääräinen siirappi valuu pois.",
+   "Säilytä koeksisterit suljetussa astiassa jääkaapissa. Ne sopivat hyvin pakastettaviksi ja voidaan tarjoilla suoraan pakastimesta."
+  ],
+  "notes": [
+   "Tästä reseptistä saat noin 3 tusinaa pienikokoisia koeksistereitä – voit tehdä niistä isompia, jos haluat runsasemman herkun."
+  ]
+ },
+ {
+  "id": "wikibooks-koesisters-with-coconut",
+  "title": "Koesisters (Kapkaupungin maustemunkit kookoksella)",
+  "description": "Koesisters ovat eteläafrikkalaisia Cape Malay -donitseja, jotka on kastettu siirappiin ja ripoteltu kookospähkinällä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "eteläafrikkalainen",
+   "rasvassa paistettu",
+   "kookos",
+   "leivonta"
+  ],
+  "ingredients": [
+   "14,5 dl vehnäjauhoja",
+   "1 rkl hienosokeria",
+   "1 tl leivinjauhetta",
+   "3 tl jauhettua kanelia",
+   "1 rkl jauhettua inkivääriä",
+   "2 tl jauhettua aniksen siementä",
+   "1 tl jauhettua kardemummaa",
+   "1 tl suolaa",
+   "10 g pikahiivaa",
+   "1 rkl kuivattua appelsiininkuorta (valinnainen)",
+   "250 ml haaleaa maitoa",
+   "100 g voita tai margariinia",
+   "1 muna, vatkatuna",
+   "Noin 5 dl haaleaa vettä",
+   "rypsiöljyä friteeraukseen",
+   "5 kanelitankoa",
+   "2,5 dl sokeria",
+   "5 dl vettä siirappiin",
+   "2,5 dl kuivattua kookospähkinää"
+  ],
+  "instructions": [
+   "Siivilöi kuivat ainekset kulhoon ja tee keskelle kuoppa.",
+   "Lämmitä maito ja voi, kunnes ne ovat haaleita, ja lisää sitten vatkatut munat. Kaada seos kuivien aineiden joukkoon yhdessä riittävän määrän haaleaa vettä ja sekoita, kunnes muodostuu pehmeä taikina.",
+   "Peitä taikina ja anna sen nousta lämpimässä paikassa, kunnes se on kaksinkertaistunut.",
+   "Ota pieniä määriä taikinaa ja muotoile niistä soikeita palloja.",
+   "Paista taikinaa öljyssä keskilämmöllä, kunnes se on tasaisesti kullanruskea. Nosta paperipyyhkeiden päälle jäähtymään (noin 30 minuuttia).",
+   "Kuumenna sokeria, kanelitankoja ja vettä miedolla lämmöllä sekoittaen jatkuvasti, kunnes muodostuu paksu siirappi.",
+   "Kun koesisterit ovat jäähtyneet, liota niitä kuplivassa siirapissa 1 minuutin ajan.",
+   "Ota ne siirapista ja ripottele päälle kookoshiutaleita."
+  ]
+ }
+]

@@ -1,0 +1,673 @@
+[
+ {
+  "id": "wikibooks-sambar-iii",
+  "skip": "lähes sama kuin sambar I"
+ },
+ {
+  "id": "wikibooks-samosa",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-samp-and-beans",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-san-francisco-sourdough-bread",
+  "title": "San Franciscon hapanleipä",
+  "servings": 1,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "hapanjuuri",
+   "amerikkalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "450 g viinirypäleitä (juuren aloitukseen)",
+   "335 g vehnäjauhoja juureen",
+   "Vettä tarpeen mukaan",
+   "2,4 dl lämmintä vettä (45 astetta)",
+   "15 g aktiivista kuivahiivaa",
+   "2,5 dl aktiivista hapanjuurta",
+   "450 g vehnäjauhoja",
+   "1 rkl (15 ml) suolaa",
+   "1 munanvalkuainen, vatkatuna"
+  ],
+  "instructions": [
+   "Murskaa viinirypäleet huolellisesti ja laita ne löyhästi peitettyyn astiaan. Anna seistä huoneenlämmössä 48 tuntia.",
+   "Siivilöi käynyt mehu ja heitä hedelmäliha pois.",
+   "Lisää mehuun lämmintä vettä, jotta tilavuus on 4,5 dl.",
+   "Sekoita jauhot seokseen ja jätä se huoneenlämpötilaan yön yli.",
+   "Lisää päivittäin 4,5 dl lämmintä vettä ja 5 dl jauhoja, jos hapatetta säilytetään huoneenlämmössä. Jos hapatetta säilytetään jääkaapissa, lisää aineksia kahdesti viikossa.",
+   "Ripottele kuivahiiva lasiseen mittakuppiin 4 ruokalusikallisen lämpimän veden päälle ja anna seistä, kunnes se vaahtoutuu.",
+   "Sekoita kulhossa loput vedestä ja hapanleipätaikina.",
+   "Lisää 2,5 dl jauhoja. Sekoita, kunnes taikina alkaa muodostua, ja lisää sitten hiivaseos. Sekoita 5 minuuttia.",
+   "Lisää loput jauhot ja suola. Vaivaa taikinaa, kunnes se on pehmeää ja joustavaa, vähintään 10 minuuttia.",
+   "Laita taikina voideltuun kulhoon ja peitä se kostealla liinalla. Anna taikinan kohota lämpimässä paikassa (noin 25 asteeseen/27 asteeseen– 30 asteeseen/32 asteeseen), kunnes se on kaksinkertaistunut.",
+   "Työnnä taikina alas ja muotoile siitä pyöreä leipä. Aseta leipä voidellulle ja maissijauholla pölytetylle uunipelille.",
+   "Anna leivän nousta lämpimässä paikassa, kostealla liinalla peitettynä, kunnes se on kaksinkertaistunut kooltaan.",
+   "Sivele leipä vatkatulla munanvalkuaisella ja tee leivän pintaan ristikkäisiä viiltoja terävällä veitsellä.",
+   "Paista 230 asteessa 10 minuuttia, uunin pohjalla vesiastia höyryä varten.",
+   "Laske lämpö 190 asteeseen, poista vesiastia ja paista vielä noin 30 minuuttia, kunnes leipä kopisee ontosti.",
+   "Jäähdytä ritilällä."
+  ]
+ },
+ {
+  "id": "wikibooks-san-francisco-style-scallop-ceviche",
+  "title": "Kampasimpukkaceviche paahdetulla paprikakastikkeella",
+  "description": "Ceviche on Perusta peräisin oleva mereneläviä sisältävä ruokalaji, jossa kala kypsennetään lämmön sijaan hapon avulla. Tässä reseptissä on hieman kalifornialaista vivahdetta, sillä ruokaan lisätään viipaloitua avokadoa.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "kampasimpukat",
+   "kylmä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g kampasimpukoita",
+   "1 dl sitruunamehua (noin 3–4 sitruunaa)",
+   "4 punaista paprikaa, paahdettuina ja kuorittuina (tai 1 prk grillattuja paprikoita)",
+   "2 rkl balsamietikkaa",
+   "2 rkl oliiviöljyä",
+   "½ tl cayennepippuria",
+   "½ tl suolaa",
+   "1 avokado, kuorittu ja viipaloitu"
+  ],
+  "instructions": [
+   "Sekoita kampasimpukat ja sitruunamehu reaktiivisuudeltaan neutraalissa kulhossa. Lisää mehua tarpeen mukaan, kunnes kampasimpukat ovat kokonaan peitossa.",
+   "Säilytä peitettynä jääkaapissa ja sekoita usein 2 tunnin ajan, kunnes kampasimpukat muuttuvat läpikuultamattomiksi.",
+   "Laita paprikat, etikka, öljy, cayennepippuri ja suola monitoimikoneeseen tai tehosekoittimeen ja soseuta.",
+   "Tarjoilua varten kaada kastike lautasille, valuta kampasimpukat ja aseta ne kastikkeen päälle. Koristele avokadoviipaleilla."
+  ],
+  "notes": [
+   "Jos haluat ruoalle enemmän lounaismainen maku, korvaa ¼ kupillista sitruunamehua limemehulla ja paprikat New Mexico -chilipaprikoilla."
+  ]
+ },
+ {
+  "id": "wikibooks-sancocho-dominican-meat-and-vegetable-soup",
+  "title": "Sancocho (dominikaaninen kana-juureskeitto)",
+  "description": "Sancocho on suosittu ruokalaji Dominikaanisessa tasavallassa, ja monet pitävät sitä maan kansallisruokana.",
+  "servings": 6,
+  "totalTimeMin": 120,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "dominikaaninen",
+   "kana",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 iso appelsiini, mehustettu",
+   "1 rkl tuoretta sitruunamehua",
+   "½ nippua persiljaa",
+   "½ nippua korianteria",
+   "2 rkl tuoreita oreganonlehtiä",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "500 g broilerin rintafileetä, suupaloina",
+   "1 rkl rypsiöljyä",
+   "5 dl kasvislientä",
+   "1 l vettä",
+   "1 keskikokoinen valkoinen sipuli, hienonnettuna",
+   "1 keskikokoinen bataatti, kuorittu ja leikattu 1 cm paloiksi",
+   "1 keskikokoinen keittoperuna, kuorimatta ja suupaloiksi leikattuna",
+   "1 vihreä plantain (keittobanaani), 1 cm viipaleina",
+   "1 maissintähkä, neljään osaan leikattu",
+   "1 jalapeño, siemenet poistettuna ja hienonnettuna",
+   "suolaa",
+   "mustapippuria",
+   "keitettyä riisiä tarjoiluun (valinnainen)",
+   "korianteria (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita ruoanvalmistuskoneen tai tehosekoittimen kulhossa appelsiinimehu, sitruunamehu, persilja, korianteri, oregano, valkosipuli, suola ja pippuri, kunnes ainekset ovat sekoittuneet.",
+   "Kaada seos ei-reaktiiviseen kulhoon, lisää kana ja sekoita ainekset keskenään.",
+   "Peitä ja laita jääkaappiin 1–2 tunniksi.",
+   "Kuumenna öljy suuressa keittokattilassa keskilämmöllä. Kun öljy on kuuma, nosta kana reikäkauhalla marinadista ja laita kattilaan, säästä marinadi. Paista kanaa, kunnes se on läpikuultamatonta, sekoittaen välillä.",
+   "Lisää kattilaan varattu marinadi, kasvisliemi ja vesi ja kiehauta.",
+   "Lisää sipuli, bataatti, peruna, plantain, maissi, jalapeño, suola ja pippuri.",
+   "Kiehauta uudelleen, vähennä lämpöä ja anna kiehua osittain peitettynä 1–1½ tuntia."
+  ],
+  "notes": [
+   "Tarjoiluun kaada keitto kulhoihin ja lisää päälle pieni kauhallinen riisiä, jos haluat. Tarjoile pöydässä tulista kastiketta ja korianteria.",
+   "Koska tämän keiton kypsymisaika on pitkä, valitse kypsymätön vihreä plantain kypsän keltaisen tai mustan plantainin sijaan, sillä kypsä plantain on pehmeämpi.",
+   "Jokainen kokki laatii oman sancocho-reseptinsä yhdistelemällä juurikasveja erilaisiin lihalajeihin, joissakin jopa seitsemään eri lihalajiin.",
+   "Jotta keitto olisi vieläkin aitoa, lisää liemeen pieni kuorittu ja kuutioitu yuca-juuri muiden vihannesten lisäksi."
+  ]
+ },
+ {
+  "id": "wikibooks-sandwich-layer-cake",
+  "title": "Katkarapuvoileipäkakku",
+  "description": "Smörgåstårta eli voileipäkakku on tyypillinen ruotsalainen juhlaruoka, jota ei pidä sekoittaa smörgåsbordin kanssa. Sandwichkakku on erittäin runsas voileipä, jonka täytettä on niin paljon, että se muistuttaa kakkua. Se sopii erinomaisesti vastaanottoihin ja juhliin, koska se tarjoillaan kylmänä ja voidaan valmistaa etukäteen. Täytteitä on myös mahdollista vaihdella monipuolisesti, jotta ne sopivat useimpien makuun. Ruokalaji voidaan tarjoilla kokonaisena kakuna tai pienempinä paloina alkupaloina.",
+  "servings": 12,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "voileipäkakku",
+   "katkaravut",
+   "juhla",
+   "skandinaavinen"
+  ],
+  "ingredients": [
+   "4 kananmunaa",
+   "1 kg katkarapuja kuorineen (tai 400 g kuorittuja)",
+   "4,5 dl raejuustoa",
+   "4 dl majoneesia",
+   "1 dl smetanaa",
+   "1 voileipäkakkupohja tai 2 vaaleaa vuokaleipää",
+   "suolaa",
+   "mustapippuria",
+   "tillinoksia ja sitruunaviipaleita koristeeksi",
+   "tilliä tai persiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Keitä munat koviksi ja kuori katkaravut.",
+   "Säästä osa katkaravuista (noin ⅓) koristeeksi. Pilko loput katkaravut, joita käytetään täytteeksi.",
+   "Sekoita 1 dl majoneesia ja 1 dl smetanaa kupissa tai kulhossa ja laita seos jääkaappiin.",
+   "Sekoita jäljellä oleva majoneesi ja raejuusto toisessa kulhossa yhdessä hienonnettujen katkarapujen kanssa; tämä on täyte.",
+   "Leikkaa leipä pituussuunnassa kahdeksaksi 1 cm paksuiseksi viipaleeksi. Hävitä ylin ja alin viipale.",
+   "Aseta kaksi leipäviipaletta vierekkäin, mieluiten leikkuulaudalle. Levitä kolmasosa täytteestä leipäviipaleiden päälle. Lisää päälle vielä kaksi leipäviipaletta. Levitä puolet jäljellä olevasta täytteestä ja toista sama viimeiselle kerrokselle. Kakussa pitäisi nyt olla neljä leipäkerrosta, joiden välissä on kolme täytekerrosta.",
+   "Tasoita tarvittaessa kakun reunat terävällä veitsellä.",
+   "Ota majoneesi-smetana-seos jääkaapista ja levitä se ohuena ja tasaisena kerroksena kakun sivuille ja päälle.",
+   "Koristele kakun reunat hienonnetulla persiljalla tai tillillä. Koristele katkaravuilla, viipaloiduilla munilla sekä tillinoksilla tai sitruunaviipaleilla."
+  ],
+  "notes": [
+   "Yllä olevassa reseptissä kuvataan nelikerroksinen kakku, jossa on vain yksi täytetyyppi. Kakun eri kerroksiin voi käyttää erilaisia täytteitä. Varmista kuitenkin, että täytteiden maut sopivat yhteen. Kakun voi valmistaa myös kolmikerroksisena.",
+   "Sen sijaan, että tarjoaisit kerroskakun kokonaisena, voit leikata sen paloiksi ennen tarjoilua. Se sopii erinomaisesti alkupalaksi, tai se voi olla kätevämpi tapa tarjoilla kakkua, koska vieraiden ei tarvitse leikata sitä itse.",
+   "Koska kerroskakku voi olla melko raskas, sen kanssa tarjoillaan yleensä sekasalaattia. Lisukkeena voidaan tarjoilla myös tortillalastuja, erilaisia pähkinöitä tai manteleita (paahdettuja tai tuoreita).",
+   "Kun valmistat \"alkupalatyylistä\" kerroskakkua, älä leikkaa leipää pituussuunnassa, vaan leikkaa siitä tavallisia viipaleita. Voit käyttää myös valmiiksi viipaloitua leipää. Käytä alkupaloissa vain kahta kerrosta ja kiinnitä ne toisiinsa hammastikulla.",
+   "Perustäyte koostuu noin puoliksi majoneesista ja puoliksi raejuustosta. Suhteita voi muuttaa maun mukaan. Vähärasvaisen version valmistamiseksi käytä enemmän raejuustoa ja/tai korvaa majoneesi vähärasvaisella (älä käytä rasvatonta) majoneesia. Perustäytteeseen voi lisätä erilaisia mausteita, joista seuraavassa on muutamia esimerkkejä.",
+   "Hienonnettu tonnikalasäilyke",
+   "Hienonnettu paté ja suolakurkku",
+   "Savustettu kinkku ja paprika",
+   "Munat, suolakurkku ja curry"
+  ]
+ },
+ {
+  "id": "wikibooks-sangah-cameroonian-corn-and-cassava-leaf",
+  "skip": "vaatii palmupähkinäkermaa, määrät puutteelliset"
+ },
+ {
+  "id": "wikibooks-sangra",
+  "skip": "alkoholijuoma"
+ },
+ {
+  "id": "wikibooks-sarmale-romanian-cabbage-rolls",
+  "title": "Sarmale (romanialaiset kaalikääryleet)",
+  "description": "Sarmale on pieni kourallinen jauhettua lihaa (yleensä sianlihaa), joka sekoitetaan riisiin ja kääritään suolakaalin tai viinirypäleen lehtiin ja keitetään sitten. Liha maustetaan tietysti maun mukaan, muun muassa valkosipulilla, suolalla ja pippurilla.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kaali",
+   "romanialainen",
+   "jauheliha",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 isoa valkokaalia",
+   "1,5 dl puuroriisiä",
+   "6 viipaletta pekonia, hienonnettuna",
+   "1,2 kg sian jauhelihaa",
+   "4 sipulia, hienonnettuna",
+   "1 tlk (400 g) tomaattimurskaa",
+   "5 dl tomaattimehua",
+   "1 nippu persiljaa, hienonnettuna",
+   "1 prk (n. 500 g) hapankaalia",
+   "vettä",
+   "2 rkl oliiviöljyä",
+   "2 tl suolaa",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Aloita kuumentamalla oliiviöljyä pannulla; lisää sipulit ja pekoni ja paista, kunnes sipulit ovat läpikuultavia. Hienonna persilja ja lisää se seokseen, kun paistaminen on melkein valmis. Anna seoksen jäähtyä.",
+   "Sekoita jauheliha keskikokoisessa tai suuressa kulhossa. Lisää sipuliseos, kun se on jäähtynyt. Lisää kuiva riisi, suola ja pippuri. Anna seoksen jäähtyä, sillä kylmää lihaa on helpompi käsitellä.",
+   "Laita vesi kiehumaan erittäin suuressa kattilassa ja vähennä sitten lämpöä niin, että vesi vain kiehuu hiljalleen. Tee kaaliin useita syviä viiltoja varren ympärille: näin lehdet on helpompi irrottaa. Upota kaali kiehuvaan veteen ja peitä kattila; anna kaalin höyryttää, kunnes se muuttuu kirkkaan vihreäksi. Tee näin molemmille kaaleille. Älä käytä kovia tai liian pieniä sisimpiä lehtiä; ne voidaan hienontaa ja lisätä paistopannulle.",
+   "Kun kaali höyryää, poista ulommat lehdet paistohaarukalla; pyöritä kaalia löytääksesi varren, kuori lehdet alhaalta ylöspäin, laita ne astiaan jäähtymään ja anna uusien \"ulompien lehtien\" höyryä.",
+   "Ripottele oliiviöljyä hyvin suuren paistovuuan pohjalle ja vuoraa vuoka kaalin uloimmilla lehdillä.",
+   "Kun lehdet on höyrytetty ja annettu jäähtyä, leikkaa pois varren kova osa ja seuraa viiltoa lehden kärkeen asti, leikkaamalla jokainen lehti kahdeksi kääreeksi.",
+   "Aloita seoksen kääriminen: laita 1 rkl lihaseosta kääreeseen, taita sivut sisäänpäin ja rullaa pituussuunnassa. Aseta rullatut kaalirullat uunivuokaan riveittäin, kerrostaen ne päällekkäin, kun vuoan pohja on täynnä. Ripottele kerrosten väliin muutama ruokalusikallinen hapankaalia sekä osa tomaattikastikkeesta ja -mehusta.",
+   "Kun kaikki kaali on rullattu, kaada hapankaali sekä loput tomaattikastikkeesta ja -mehusta rullien päälle. Lisää vettä, kunnes neste ulottuu noin tuuman päähän astian reunasta.",
+   "Paista peitettynä 175 asteessa 3–4 tuntia, kunnes liha on kypsää ja vesi lähes haihtunut.",
+   "Sarmale voidaan syödä sellaisenaan tai lisukkeena. Sen kanssa voi nauttia hieman smetanaa tai maustamatonta jogurttia."
+  ],
+  "notes": [
+   "Voit käyttää myös muita jauhelihoja, mutta perinteisesti käytetään sianlihaa."
+  ]
+ },
+ {
+  "id": "wikibooks-sauce-feuilles-greens-stew",
+  "title": "Sauce feuilles (länsiafrikkalainen lehtivihannespata)",
+  "description": "Sauce feuilles on herkullinen Länsi-Afrikan ruokalaji, joka valmistetaan erilaisista vihanneksista ja tarjoillaan yleensä riisin tai fufun kanssa. Se on suosittu ruokalaji Länsi-Afrikan keittiössä. Pata valmistetaan usein palmuöljyllä, mikä antaa sille omaleimaisen maun ja kirkkaan värin.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "länsiafrikkalainen",
+   "lehtivihannekset",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g pinaattia",
+   "300 g lehtikaalia",
+   "1 nippu bitterleaf-lehtiä (tai lisää pinaattia)",
+   "1 keskikokoinen sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 tomaattia, kuutioituna",
+   "1–2 scotch bonnet -chiliä, hienonnettuna",
+   "450 g kanaa, naudanlihaa tai savukalaa",
+   "½ dl palmuöljyä",
+   "1 rkl jauhettua rapua (valinnainen)",
+   "1 rkl kuivattuja katkarapuja tai jättikatkarapuja (valinnainen)",
+   "1 kanaliemikuutio",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Pese pinaatti, lehtikaali (tai collard-kaali) ja bitterleaf huolellisesti, jotta lika ja hiekka poistuvat. Poista vihanneksista kovat varret ja pilko ne pieniksi paloiksi. Laita sivuun.",
+   "Jos käytät lihaa, leikkaa se suupaloiksi. Jos käytät savustettua kalaa, poista ruodot ja revi kala pieniksi paloiksi.",
+   "Mausta liha tai kala suolalla ja muilla haluamillasi mausteilla.",
+   "Kuumenna palmuöljy suuressa kattilassa keskilämmöllä. Jos haluat miedomman maun, voit sekoittaa palmuöljyä kasviöljyn kanssa. Lisää hienonnetut sipulit ja valkosipuli kattilaan ja paista, kunnes ne muuttuvat läpikuultaviksi ja tuoksuviksi.",
+   "Lisää kuutioidut tomaatit ja scotch bonnet -paprikat. Kypsennä muutama minuutti, kunnes tomaatit pehmenevät.",
+   "Lisää maustettu liha tai kala kattilaan ja paista, kunnes se on ruskistunut ja kypsynyt. Jos käytät savustettua kalaa, lisää se vasta lopussa, jotta se ei kypsy liikaa.",
+   "Lisää hienonnettu pinaatti, lehtikaali (tai collard-kaali) ja bitterleaf kattilaan. Sekoita hyvin, jotta ne sekoittuvat lihaan tai kalaan ja mausteisiin. Jos kattila on liian kuiva, voit lisätä hieman vettä tarttumisen estämiseksi. Peitä kattila ja anna vihannesten kypsyä noin 10–15 minuuttia tai kunnes ne ovat pehmenneet ja muuttuneet pehmeiksi.",
+   "Lisää kattilaan jauhetut raput (jos käytät niitä), kuivatut katkaravut tai jättikatkaravut (jos käytät niitä) sekä liemijauhe tai -kuutiot. Sekoita hyvin, jotta maut sekoittuvat.",
+   "Maista muhennosta ja mausta tarvittaessa suolalla ja muilla mausteilla.",
+   "Vähennä lämpöä matalalle, peitä kattila kannella ja anna hautua vielä 10–15 minuuttia, jotta maut sulautuvat yhteen.",
+   "Koristele halutessasi hienonnetulla sipulilla tai tuoreilla yrtteillä ja nauti."
+  ],
+  "notes": [
+   "Muista, että aineksia ja määriä voi muokata oman maun ja saatavuuden mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-sauce-gombo-okra-stew",
+  "title": "Sauce gombo (okrapata)",
+  "description": "Sauce gombo on Länsi-Afrikasta peräisin oleva muhennos, jonka pääraaka-aineena on okra. Se valmistetaan tyypillisesti lihan tai merenelävien, tomaattien, sipulien ja erilaisten mausteiden yhdistelmästä. Okra antaa muhennokselle paksun ja hieman liukkaan konsistenssin, joka on tyypillistä tälle perinteiselle ruokalajille. Sitä tarjoillaan usein riisin tai fufun, tärkkelyspitoisen peruselintarvikkeen, kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "okra",
+   "länsiafrikkalainen",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g okraa",
+   "500 g kanaa, naudanlihaa tai katkarapuja",
+   "2 rkl palmu- tai rypsiöljyä",
+   "2 keskikokoista sipulia, hienonnettuna",
+   "3 kypsää tomaattia, kuutioituna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 rkl tomaattipyreetä",
+   "1–2 scotch bonnet -chiliä (valinnainen)",
+   "1 tl jauhettua rapua (valinnainen)",
+   "½ tl muskottipähkinää",
+   "1 tl jauhettua inkivääriä",
+   "1 tl paprikajauhetta",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "korianteria tai persiljaa",
+   "3–5 dl vettä tai lientä"
+  ],
+  "instructions": [
+   "Pese okra ja leikkaa sen päät pois. Leikkaa okra pieniksi renkaiksi tai viipaloi ne pituussuunnassa. Aseta sivuun.",
+   "Jos käytät lihaa, pese se ja mausta suolalla, pippurilla ja mausteilla. Jos käytät mereneläviä, puhdista ne ja mausta suolalla ja pippurilla. Anna lihan tai merenelävien marinoitua vähintään 30 minuuttia.",
+   "Kuumenna palmuöljy tai kasviöljy suuressa kattilassa tai uunipadassa keskilämmöllä. Lisää hienonnetut sipulit ja valkosipuli ja paista, kunnes ne muuttuvat läpikuultaviksi ja tuoksuviksi.",
+   "Lisää maustettu liha tai äyriäiset kattilaan ja paista, kunnes ne ovat ruskistuneet joka puolelta. Sekoita välillä, jotta ne eivät tartu pohjaan.",
+   "Kun liha tai äyriäiset ovat ruskistuneet, lisää kuutioidut tomaatit, tomaattipyree, scotch bonnet -paprika, jauhetut rapu, muskottipähkinä, inkivääri ja paprikajauhe. Sekoita hyvin, jotta kaikki ainekset sekoittuvat keskenään.",
+   "Anna seoksen kypsyä muutama minuutti, kunnes tomaatit alkavat pehmetä ja vapauttaa mehuaan.",
+   "Lisää hienonnettu okra kattilaan ja sekoita, jotta okra peittyy tomaattiseoksella. Okra vapauttaa liukasta nestettä, joka auttaa paksuntamaan muhennosta. Halutessasi voit lisätä hieman vettä tai liemiä, jotta muhennos ei tule liian paksuksi.",
+   "Peitä kattila kannella ja anna muhennoksen hautua miedolla lämmöllä noin 30–40 minuuttia tai kunnes okra on pehmeää ja kypsää. Sekoita välillä, jotta se ei tartu pohjaan.",
+   "Maista muhennosta ja mausta se suolalla ja pippurilla makusi mukaan.",
+   "Kun muhennos on kypsynyt ja maut ovat sulautuneet yhteen, ota se pois liedeltä. Koristele tuoreella hienonnetulla korianterilla tai persiljalla.",
+   "Tarjoile kuumana keitetyn riisin tai fufun kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-sauce-mornay",
+  "title": "Mornay-kastike (juustobešamel)",
+  "description": "Mornay-kastike on bechamel-kastike, johon on lisätty raastettua juustoa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "juusto",
+   "ranskalainen"
+  ],
+  "ingredients": [
+   "½ dl parmesaania, hienoksi raastettuna",
+   "½ dl gruyèrea, hienoksi raastettuna",
+   "3,5 dl bešamelkastiketta",
+   "¼ tl cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita molemmat raastetut juustot keskenään.",
+   "Sekoita kattilassa bechamel-kastike ja cayennepippuri.",
+   "Kuumenna kastike jatkuvasti sekoittaen, kunnes se alkaa kiehua hiljalleen.",
+   "Ota kattila pois liedeltä ja sekoita raastettu juusto joukkoon.",
+   "Maista ja mausta tarvittaessa suolalla ja pippurilla.",
+   "Jos ruokaa ei tarjoilla heti, voit levittää sen pinnalle voita, jotta siihen ei muodostu kuorta."
+  ]
+ },
+ {
+  "id": "wikibooks-saucepan-fudge-crackle-cookies",
+  "title": "Halkeilevat suklaakeksit",
+  "description": "Nämä kattilassa valmistetut fudge-crackle-keksit ovat aitoja suklaakeksejä. Ne muistuttavat brownieita tai kakkuja. Niiden pinta on yleensä kupumainen, korkeudeltaan ½–¾ tuumaa ja halkaisijaltaan 2,5–5 tuumaa. Pinta on halkeillut.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "suklaa",
+   "leivonta"
+  ],
+  "ingredients": [
+   "2,5 dl vehnäjauhoja",
+   "1 tl leivinjauhetta",
+   "¼ tl suolaa",
+   "50 g margariinia tai voita",
+   "85 g tummaa leivontasuklaata (100 %)",
+   "2,5 dl valkoista kidesokeria",
+   "2 kananmunaa",
+   "1 tl vaniljauutetta",
+   "1 dl pähkinöitä, karkeasti hienonnettuna",
+   "tomusokeria tai sokeria pyörittelyyn"
+  ],
+  "instructions": [
+   "Sekoita jauhot, leivinjauhe ja suola.",
+   "Sulata margariini ja suklaa kattilassa miedolla lämmöllä.",
+   "Ota suklaaseos pois liedeltä.",
+   "Sekoita suklaaseokseen munat, sokeri, vanilja ja pähkinät.",
+   "Sekoita jauhosekoitus suklaaseokseen.",
+   "Peitä ja säilytä jääkaapissa, kunnes seos on kiinteä. Yö yli olisi hyvä.",
+   "Pyöritä 3 cm palloja, kierätä sokerissa ja asettele leivinpaperille.",
+   "Paista 160 asteessa noin 15 minuuttia.",
+   "Poista keksit välittömästi leivontapelliltä. Jos viivyttelet, keksit tarttuvat erittäin tiukasti leivontapelliin."
+  ],
+  "notes": [
+   "Voit käyttää voita margariinin sijaan, vaikka se saattaa peittää suklaan maun.",
+   "Eristetty leivontapellin ansiosta keksin osat eivät pala, vaikka toiset osat eivät kypsy täysin.",
+   "Tähän reseptiin sopivat hyvin hasselpähkinät ja macadamiapähkinät."
+  ]
+ },
+ {
+  "id": "wikibooks-sauerkraut-i",
+  "skip": "lähes sama kuin aiemmin käännetty hapankaali"
+ },
+ {
+  "id": "wikibooks-sauerkraut-ii",
+  "skip": "lähes sama kuin aiemmin käännetty hapankaali"
+ },
+ {
+  "id": "wikibooks-sauerkraut-pierogi-filling",
+  "title": "Hapankaalitäyte pierogeihin",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "täyte",
+   "hapankaali",
+   "puolalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 prk (n. 800 g) hapankaalia",
+   "1 keskikokoinen sipuli, kuutioituna",
+   "115 g voita",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Laita hapankaali ja neste kattilaan, jossa on juuri niin paljon vettä, että se peittää hapankaalin. Kuumenna kiehuvaksi, poista sitten liedeltä ja siirrä siivilään.",
+   "Valuta hapankaali ja huuhtele se hyvin kylmällä vedellä, jotta se ei kypsy enää. Purista käsin hapankaalista pois niin paljon nestettä kuin mahdollista, jotta täyte ei tule liian vetiseksi.",
+   "Aseta hapankaali suurelle leikkuulaudalle ja pilko se hienoksi suurella, tasateräisellä veitsellä.",
+   "Paista sipulia, kunnes se on läpikuultavaa, ja lisää sitten valutettu hapankaali. Mausta suolalla ja pippurilla maun mukaan.",
+   "Hauduta 15 minuuttia ja anna jäähtyä ennen käyttöä. Parhaan tuloksen saat, kun laitat seoksen jääkaappiin muutamaksi tunniksi ennen pierogien täyttämistä."
+  ],
+  "notes": [
+   "Hapankaalin keittovaihe voidaan jättää pois, jos pidät todella vahvasta hapankaalista."
+  ]
+ },
+ {
+  "id": "wikibooks-sausage-and-egg-breakfast-roll",
+  "title": "Makkara-munasämpylä",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "makkara",
+   "voileipä",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 pientä aamiaismakkaraa tai nakkia",
+   "1 kananmuna",
+   "2 rkl tuorejuustoa",
+   "1 ciabattasämpylä, halkaistuna",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Leikkaa makkarat pieniksi paloiksi ja paista ne kypsiksi. Valuta rasva pois tarvittaessa ja huuhtele halutessasi hyvin kevyesti siivilän avulla, minkä jälkeen laita ne takaisin pannulle.",
+   "Lisää muna ja sekoita makkarapaloihin, kunnes kaikki neste on imeytynyt. Mausta suolalla ja pippurilla maun mukaan.",
+   "Levitä tuorejuustoa paksusti ciabatta-sämpylän päälle ja täytä sämpylä muna-makkaraseoksella.",
+   "Tarjoile klassisena voileipänä tai jätä puolikkaat erillään."
+  ]
+ },
+ {
+  "id": "wikibooks-sausage-and-tortellini-soup",
+  "title": "Makkara-tortellinikeitto",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "makkara",
+   "pasta",
+   "italialainen"
+  ],
+  "ingredients": [
+   "1 tl oliiviöljyä",
+   "600 g italialaista makkaraa",
+   "300 g herkkusieniä, viipaleina",
+   "150 g babypinaattia",
+   "2 tlk (á 400 g) tomaattikuutioita",
+   "1,8 l kanalientä",
+   "500 g tuoretta juustotäytteistä tortellinia",
+   "parmesaania tarjoiluun (valinnainen)"
+  ],
+  "instructions": [
+   "Ruiskuta suuri keittokattila kasvisruiskulla tai 1 teelusikalla oliiviöljyä.",
+   "Poista makkara suolesta ja kuumenna sitä keskilämmöllä kattilassa, kunnes makkara on murentunut eikä ole enää vaaleanpunaista.",
+   "Kun makkara on täysin kypsynyt, lisää viipaloidut sienet ja paista niitä sekoittaen silloin tällöin, kunnes ne ovat paistuneet.",
+   "Lisää koko pussi vauvanpinaattia.",
+   "Paista sekoittaen silloin tällöin, kunnes pinaatti on hieman paistunut.",
+   "Lisää kuutioidut tomaatit ja sekoita huolellisesti.",
+   "Lisää kanaliemi ja kiehauta.",
+   "Lisää tortellinit ja hauduta miedolla lämmöllä 10–15 minuuttia, kunnes pasta on kypsynyt.",
+   "Kaada keitto keittokulhoihin ja ripottele päälle runsaasti parmesaanijuustoa."
+  ],
+  "notes": [
+   "Alkuperäisen 1,1 kg makkaraa ja 800 g tortellinia on vähennetty."
+  ]
+ },
+ {
+  "id": "wikibooks-sausage-sizzle",
+  "skip": "kokoamisohje, ei varsinainen resepti"
+ },
+ {
+  "id": "wikibooks-sausage-egg-breakfast-dish",
+  "title": "Makkara-munavuoka (strata)",
+  "servings": 8,
+  "totalTimeMin": 180,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "makkara",
+   "uuniruoka",
+   "brunssi"
+  ],
+  "ingredients": [
+   "450 g salvialla maustettua makkaraa (tai makkaramassaa)",
+   "ripaus mustapippuria",
+   "6 kananmunaa",
+   "3,5 dl maitoa",
+   "9,5 dl vanhan leivän kuutioita",
+   "110 g cheddarjuustoraastetta"
+  ],
+  "instructions": [
+   "Paista makkaraa ja ripottele päälle pippuria.",
+   "Kaada ylimääräinen rasva pois ja anna makkaran jäähtyä.",
+   "Vatkaa munat ja lisää maito.",
+   "Sekoita joukkoon kuutioiksi leikatut kuivatut leipäpalat, juusto ja jäähtynyt makkara.",
+   "Kaada voideltuun noin 20 × 30 cm uunivuokaan.",
+   "Jäähdytä vähintään tunnin ajan (tai pakasta myöhempää käyttöä varten).",
+   "Kuumenna uuni 165 asteeseen ja paista noin tunti.",
+   "Jäähdytä ja leikkaa neliöiksi."
+  ]
+ },
+ {
+  "id": "wikibooks-sausagemeat-pie",
+  "title": "Makkaramassapiiras",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "makkara",
+   "brittiläinen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "225 g vehnäjauhoja + 2 tl leivinjauhetta",
+   "1 ripaus suolaa",
+   "ripaus sinappijauhetta",
+   "110 g talia tai kylmää voita, raastettuna",
+   "noin 1 dl kylmää vettä",
+   "675 g makkaramassaa",
+   "1 iso sipuli",
+   "1 tl kuivattua timjamia",
+   "½ tl mustapippuria",
+   "voita vuokaan"
+  ],
+  "instructions": [
+   "Lisää jauhoihin 1 ripaus suolaa ja 1 ripaus sinappijauhetta.",
+   "Sekoita talia ja jauhoja yhteen riittävän määrän vettä, jotta seoksesta tulee taikinamaista.",
+   "Leikkaa taikina kahteen osaan, joista toinen on hieman suurempi kuin toinen.",
+   "Kauli suurempi osa taikinasta ohueksi ja vuoraa sillä pieni, voilla voideltu piirakkavuoka.",
+   "Pilko sipuli hienoksi.",
+   "Sekoita yhteen makkaramassa, kuutioitu sipuli, ripaus timjamia ja runsaasti mustapippuria.",
+   "Murskaa seos piirakkavuokaan ja varmista, ettei siihen jää tyhjiä kohtia.",
+   "Kostuta leivonnaisen reuna sieltä, missä se peittää piirakkavuoan reunan.",
+   "Kauli jäljellä oleva taikina ja peitä piirakka sillä.",
+   "Purista reunaa kevyesti peukalolla ja leikkaa ylimääräinen osa pois.",
+   "Leikkaa piirakan yläosaan keskelle reikä, jotta höyry pääsee poistumaan.",
+   "Paista uunissa 180 asteessa, kunnes pinta on kullanruskea (30–40 minuuttia).",
+   "Tarjoile kaatamalla päälle hieman kastiketta."
+  ]
+ },
+ {
+  "id": "wikibooks-sauteed-mushrooms",
+  "title": "Paistetut korvasienet tai huhtasienet",
+  "description": "Kokeile tätä seuraavan pihvisi kanssa. Se on melkein kuin kastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "sienet",
+   "nopea",
+   "kasvis",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g huhtasieniä tai muita metsäsieniä, viipaleina",
+   "½ tl suolaa",
+   "¼ tl mustapippuria",
+   "2 tl hienonnettua valkosipulia",
+   "½ isoa sipulia, kuutioituna",
+   "1 rkl ekstra-neitsytoliiviöljyä"
+  ],
+  "instructions": [
+   "Ripottele sieniin ja sipuliin suolaa ja mustapippuria.",
+   "Kuumenna öljy suuressa paistinpannussa keskilämmöllä.",
+   "Lisää valkosipuli ja paista 30–45 sekuntia. Lisää loput ainekset ja paista vielä 7–10 minuuttia.",
+   "Ota pannusta ja kaada päälle pannun mehua. Tarjoile."
+  ],
+  "notes": [
+   "Korvasienet ovat raakoina myrkyllisiä: käytä vain esikäsiteltyjä (kahdesti keitettyjä ja huuhdottuja) tai kuivattuja ja liotettuja korvasieniä."
+  ]
+ },
+ {
+  "id": "wikibooks-sauted-broccoli-rabe-with-garlic-and-olive-oil",
+  "title": "Paistettu cime di rapa valkosipulilla",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "italialainen",
+   "nopea",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 nippua cime di rapaa (broccoli rabe) tai parsakaalinversoja",
+   "2 rkl ekstra-neitsytoliiviöljyä",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "½ tl chilihiutaleita",
+   "mustapippuria",
+   "suolaa"
+  ],
+  "instructions": [
+   "Poista broccoli rabesta kovat tai vaurioituneet ulkolehdet. Kuori paksut, alemmat varret ja revi rabe suuriksi paloiksi. Pese kylmässä vedessä, kunnes kaikki lika on poistunut.",
+   "Blanchoi broccoli rabea useissa litroissa suolattua, kiehuvaa vettä, kunnes se on kirkkaanvihreää ja lehdet ovat pehmeitä, noin 2–3 minuuttia. Nosta pois kuumasta vedestä ja upota välittömästi jääveteen, jotta kypsymisprosessi pysähtyy. Valuta hyvin ja aseta sivuun.",
+   "Kuumenna öljy pannulla, paista valkosipulia ja chiliä hetki, lisää valutettu vihannes ja kääntele kuumaksi. Mausta."
+  ],
+  "notes": [
+   "Lisää pannulle valkosipulin kanssa suikaloituja punaisia paprikoita ja lisää lopuksi kivettömät, öljyssä säilötyt mustat oliivit, jotta ruoka saa värikkään vivahteen.",
+   "Lisää 3 purkitettua anjovisfileetä oliiviöljyyn valkosipulin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-savory-mustard-sauce",
+  "title": "Dijonsinappikastike",
+  "description": "Tämä maukas sinappikastike sopii erinomaisesti filet mignoniin tai porsaan sisäfileeseen tai grillattavan kanan kastikkeeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "sinappi",
+   "ranskalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 dl dijonsinappia",
+   "½ dl kanalientä",
+   "1¼ tl maissitärkkelystä",
+   "1 ripaus suolaa",
+   "¼ tl vastajauhettua mustapippuria",
+   "1 rkl oliiviöljyä",
+   "1 salottisipuli, hyvin hienoksi hienonnettuna",
+   "40 g voita, jaettuna"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy suuressa, viistoreunaisessa paistinpannussa keskilämmöllä. Lisää salottisipuli ja paista, kunnes se on kullanruskeaa.",
+   "Sillä välin sekoita liemi ja tärkkelys. Aseta sivuun.",
+   "Kun salottisipuli on kypsynyt, lisää pannulle sinappi, suola ja pippuri. Vähennä lämpöä keskilämpötilaan.",
+   "Kun kastike on lämmennyt juuri kiehumispisteen alapuolelle, lisää liemiseos. Keitä sekoittaen jatkuvasti, kunnes kastike sakeutuu hieman.",
+   "Sekoita voita 1 rkl kerrallaan ja odota, että edellinen annos on sulanut kokonaan, ennen kuin lisäät seuraavan.",
+   "Kun kaikki voi on käytetty, ota kastike pois liedeltä.",
+   "Tarjoile pihvin tai porsaan sisäfileen kanssa tai käytä grillauskastikkeena."
+  ]
+ }
+]

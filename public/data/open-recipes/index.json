@@ -1,6 +1,6 @@
 {
- "version": "2026-10-15-1uqneve",
- "generatedAt": "2026-10-15T11:06:04.034Z",
+ "version": "2026-10-15-1h2exrr",
+ "generatedAt": "2026-10-15T11:25:20.309Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -54,8 +54,8 @@
    "attribution": "Wikibooksin Cookbook-hankkeen kirjoittajat (aineistokooste: gossminn/wikibooks-cookbook, 2024-07-31).",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).",
    "file": "wikibooks.json",
-   "count": 2799,
-   "withImage": 629
+   "count": 3071,
+   "withImage": 682
   },
   {
    "id": "recipearchive",

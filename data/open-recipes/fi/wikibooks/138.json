@@ -1,0 +1,553 @@
+[
+ {
+  "id": "wikibooks-tarte-tatin",
+  "skip": "lähes sama kuin aiemmin käännetty tarte tatin"
+ },
+ {
+  "id": "wikibooks-tartiflette",
+  "title": "Tartiflette",
+  "description": "Tartiflette on ranskalainen ruokalaji Savoyn alueelta. Se on peräisin Aravisin laaksosta, joka on reblochon-juuston kotiseutu. Se ei kuitenkaan ole perinteinen ruokalaji, vaan se keksittiin ja tuotiin markkinoille vasta 1980-luvulla Reblochon-ammattiliiton toimesta, kun juuston myyntiä haluttiin lisätä. Alueen eri laaksoissa on erilaisia tapoja valmistaa tartiflettea, ja luultavasti jokaisessa kylässä on useampi kuin yksi resepti. Kaikissa resepteissä on perunoita, juustoa ja jonkinlaista lihaa, kuten pekoniviipaleita tai suolattua sianlihaa. Yksi esimerkki reseptistä on esitetty alla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "peruna",
+   "juusto",
+   "ranskalainen",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "800 g kiinteitä perunoita, samankokoisia",
+   "150 g pekonia tai savusilavaa, suikaleina",
+   "2 rkl voita",
+   "1 kpl (noin 170 g) keskikokoista sipulia, hienonnettuna",
+   "½ dl kuivaa valkoviiniä tai vermuttia",
+   "6 rkl kuohukermaa",
+   "½ tl suolaa tai maun mukaan",
+   "mustapippuria",
+   "1 reblochon-juusto (n. 450 g) tai muu pehmeä pesty kuorijuusto"
+  ],
+  "instructions": [
+   "Keitä perunat kuorineen tarkalleen 20 minuuttia, kunnes ne alkavat juuri pehmetä. Älä keitä liikaa! Huuhtele kylmällä vedellä, jotta kypsyminen pysähtyy.",
+   "Kuori perunat sormillasi vielä lämpiminä ja leikkaa ne sitten suurella, erittäin terävällä veitsellä noin 1 cm paksuisiksi viipaleiksi. Leikkaa viipaleet sitten karkeiksi kuutioiksi.",
+   "Kun perunat kypsyvät, leikkaa pekoni tai suolattu sianliha noin 1 cm paksuisiksi viipaleiksi. Leikkaa ne sitten noin 1 cm levyisiksi suikaleiksi.",
+   "Sulata voi suuressa paistinpannussa ja paista pekonikuutiot keskilämmöllä, kunnes ne ovat rapeita ja kullanruskeita. Nosta ne reikäkauhalla pois pannusta ja aseta sivuun, jättäen pekonirasva pannuun.",
+   "Esilämmitä uuni 175 asteeseen.",
+   "Paista sipulit pekonirasvassa keskilämmöllä sekoittaen usein, kunnes ne ovat pehmenneet ja hieman kullanruskeita. Valuta ne siivilässä painamalla lusikalla, jotta rasva poistuu mahdollisimman hyvin, ja jätä ne siivilään.",
+   "Kaada rasva pois pannusta, laita pekoni ja sipulit takaisin pannulle ja lisää viini. Kypsennä kovalla lämmöllä, kunnes viini on lähes haihtunut.",
+   "Lisää kuutioidut perunat ja paista noin minuutti, sekoittaen jatkuvasti, kunnes kaikki ainekset ovat sekoittuneet hyvin keskenään.",
+   "Lisää kerma, suola ja pippuri.",
+   "Voitele noin 25 cm uunivuoka ja levitä perunaseos siihen.",
+   "Leikkaa Reblochon-juusto poikittain kahtia yläosasta, jolloin saat kaksi puolikuun muotoista palaa. Laita toinen palo sivuun toista käyttötarkoitusta varten. Viillele terävällä veitsellä jäljellä olevan puolikkaan juuston kuorta kevyesti noin tuuman välein, myös sivulta. Leikkaa sitten varovasti vaakasuoraan keskeltä läpi, jolloin saat kaksi puolikuun muotoista palaa.",
+   "Aseta kaksi juustopalaa kuoripuoli ylöspäin perunoiden päälle niin, että ne muodostavat jälleen pyöreän juustokerroksen.",
+   "Peitä astia tiiviisti alumiinifoliolla ja paista uunin keskitasolla 1 tunti.",
+   "Poista folio ja sekoita juusto, kuori mukaan lukien, perunoihin, sekoittaen hyvin.",
+   "Ruskista pinta grillivastuksen alla."
+  ],
+  "notes": [
+   "Käytä samankokoisia perunoita, jotta ne kypsyvät tasaisesti."
+  ]
+ },
+ {
+  "id": "wikibooks-tater-tot-casserole",
+  "skip": "pelkkä keittotiiviste ja pakasteperunat, epämääräiset määrät"
+ },
+ {
+  "id": "wikibooks-tattie-scones",
+  "title": "Tattie scones (skotlantilaiset perunaleivät)",
+  "description": "Tattie-sconesit, joita kutsutaan myös perunasconesiksi tai perunaleiväksi, ovat alueellinen muunnos suolaisesta \"griddle scone\" -leivoksesta, joka on erityisen suosittu Skotlannissa. Reseptistä on olemassa monia muunnelmia, mutta niissä käytetään yleensä runsaasti keitettyjä Tatties-perunoita ja suolaa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "peruna",
+   "skotlantilainen",
+   "aamiainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 kg jauhoisia perunoita",
+   "50 g voita",
+   "suolaa ja mustapippuria",
+   "noin 2,5 dl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Keitä perunat suolalla maustetussa kiehuvassa vedessä, kunnes ne ovat pehmeitä, valuta ne hyvin ja laita ne takaisin kuumaan kattilaan kuivumaan hieman.",
+   "Murskaa ne hyvin runsaalla voilla, suolalla ja pippurilla, mutta älä lisää maitoa tai muuta nestettä. Anna niiden jäähtyä.",
+   "Kun perunat ovat jäähtyneet, sekoita niihin jauhoja ja hieman lisää sulatettua voita, jotta taikina tulee tasaiseksi. Kauli taikina noin 5 mm:n paksuiseksi ja leikkaa siitä 8 cm suikaleita.",
+   "Kauli taikina noin 5 mm paksuksi, leikkaa kolmioiksi ja paista voidellulla pannulla kullanruskeiksi, noin 3 minuuttia per puoli.",
+   "Tarjoile perunaskonit heti kylmän voin kanssa levitettäväksi päälle tai säilytä niitä jääkaapissa, kunnes haluat käyttää ne, ja lämmitä ne hyvin voidellussa paistinpannussa.",
+   "Jotkut tyytyvät syömään niitä kylminä voin kera tai lämmittävät ne leivänpaahtimessa voin levittämistä varten. Ne myös sopivat erittäin hyvin pakastettaviksi."
+  ]
+ },
+ {
+  "id": "wikibooks-taameya-falafel",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-tchakpolo-togolese-meat-and-vegetable-stew",
+  "title": "Togolainen liha-kasvispata maapähkinällä",
+  "description": "Tchakpalo tai tchakpala on suosittu perinteinen ruokalaji Togosta. Se on maukas muhennos, joka valmistetaan lihasta, vihanneksista ja mausteista. Ruokalajia tarjoillaan usein riisin tai fufun kanssa, joka on Länsi-Afrikassa yleisesti käytetty tärkkelyspitoinen peruselintarvike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pata",
+   "togolainen",
+   "maapähkinä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "2 sipulia, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "500 grammaa lihaa (naudanlihaa, vuohenlihaa tai kananlihaa), paloiteltuna",
+   "2 tomaattia, kuutioituna",
+   "2 paprikaa (mikä tahansa väri), kuutioituna",
+   "2 porkkanaa, viipaloituna",
+   "5 dl vettä tai naudanlientä",
+   "2 rkl tomaattipyreetä",
+   "2 rkl maapähkinävoita",
+   "1 tl jauhettua inkivääriä",
+   "1 tl jauhettua korianteria",
+   "½ tl jauhettua neilikkaa",
+   "½ tl muskottipähkinää",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "persiljaa tai korianteria"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy suuressa kattilassa tai uunivuoassa keskilämmöllä. Lisää hienonnetut sipulit ja valkosipuli ja paista, kunnes ne pehmenevät ja muuttuvat läpikuultaviksi.",
+   "Lisää lihapalat kattilaan ja paista, kunnes ne ovat ruskistuneet joka puolelta. Sekoita välillä, jotta ruskistuminen on tasainen.",
+   "Kun liha on ruskistunut, lisää kattilaan kuutioidut tomaatit ja paprikat. Jatka kypsentämistä muutaman minuutin ajan, kunnes vihannekset alkavat pehmetä.",
+   "Sekoita tomaattipasta pienessä kulhossa hieman vettä kanssa tasaiseksi tahnaksi. Lisää tomaattipastaseos kattilaan ja sekoita hyvin, jotta se sekoittuu lihaan ja vihanneksiin.",
+   "Lisää kattilaan jauhettua inkivääriä, jauhettua korianteria, jauhettua neilikkaa, jauhettua muskottipähkinää, suolaa ja pippuria. Sekoita, jotta mausteet jakautuvat tasaisesti.",
+   "Kaada vesi tai naudanliemi kattilaan niin, että se peittää lihan ja vihannekset. Kuumenna seos kiehuvaksi, vähennä sitten lämpöä ja anna hautua noin 1–1,5 tuntia tai kunnes liha on pehmeää.",
+   "Sekoita erillisessä kulhossa maapähkinävoita ja vähän vettä, kunnes saat tasaisen tahnan. Lisää maapähkinävoiseos kattilaan ja sekoita hyvin, jotta se sulautuu muhennokseen. Tämä sakeuttaa kastiketta ja lisää siihen täyteläistä makua.",
+   "Lisää viipaloidut porkkanat kattilaan ja anna kiehua hiljalleen vielä 15–20 minuuttia tai kunnes porkkanat ovat pehmeitä.",
+   "Maista tchakpaloa ja mausta tarvittaessa lisäämällä suolaa ja pippuria maun mukaan.",
+   "Kun muhennos on valmis, ota se pois liedeltä. Koristele tuoreella hienonnetulla persiljalla tai korianterilla.",
+   "Tarjoile kuumana höyrytettyjen riisin, fufun tai muun mieluisan lisukkeen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-tchari-jollof-rice",
+  "title": "Jollof-riisi",
+  "description": "Tchari, joka tunnetaan myös nimellä jollof-riisi, on suosittu Länsi-Afrikan ruokalaji, jota nautitaan useissa alueen maissa, kuten Nigeriassa, Ghanassa, Senegalissa ja monissa muissa. Tämä eloisa ja värikäs yhden kattilan riisiruoka valmistetaan täyteläisessä tomaattipohjaisessa kastikkeessa, johon on lisätty runsaasti mausteita ja vihanneksia. Tuloksena on maukas ja tuoksuva ateria, joka sopii erinomaisesti kokoontumisiin, juhliin ja jokapäiväiseen herkutteluun.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "länsiafrikkalainen",
+   "tulinen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "1 iso sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 tl hienonnettua inkivääriä",
+   "3–4 kypsää tomaattia, soseutettuna",
+   "1 punainen paprika, soseutettuna",
+   "1 vihreä paprika, soseutettuna",
+   "1–2 scotch bonnet- tai habanerochiliä",
+   "1 tl kuivattua timjamia",
+   "1 tl currya",
+   "1 tl paprikajauhetta",
+   "½ tl muskottipähkinää",
+   "1 laakerinlehti",
+   "7 dl kasvis- tai kanalientä",
+   "5 dl pitkäjyväistä riisiä (parboiled)",
+   "2,5 dl pakastekasviksia",
+   "suolaa",
+   "mustapippuria",
+   "1 rkl voita (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy suuressa kattilassa keskilämmöllä. Lisää hienonnetut sipulit ja paista, kunnes ne muuttuvat läpikuultaviksi.",
+   "Lisää hienonnettu valkosipuli ja raastettu inkivääri kattilaan ja paista noin 1 minuutti, kunnes tuoksuu hyvältä.",
+   "Sekoita mukaan soseutetut tai hienonnetut tomaatit, punaiset ja vihreät paprikat sekä soseutetut Scotch Bonnet -chilit. Kypsennä seosta 10–15 minuuttia sekoittaen välillä, kunnes kastike sakeutuu ja öljy alkaa erottua.",
+   "Lisää kastikkeeseen timjami, curryjauhe, paprikajauhe, jauhettu muskottipähkinä ja laakerinlehti. Sekoita hyvin, jotta mausteet jakautuvat tasaisesti.",
+   "Huuhtele riisi huolellisesti kylmällä vedellä, kunnes vesi on kirkasta. Valuta ylimääräinen vesi pois.",
+   "Lisää riisi kattilaan kastikkeen joukkoon ja sekoita varovasti, jotta riisi peittyy maukkaalla seoksella.",
+   "Kaada kana- tai kasvisliemi (tai vesi) kattilaan. Nesteen pinnan tulisi olla noin 3 cm riisin yläpuolella. Mausta suolalla ja pippurilla maun mukaan.",
+   "Kiehauta seos ja vähennä sitten lämpöä matalalle. Peitä kattila kannella ja varmista, että se sulkeutuu tiiviisti, jotta höyry pysyy sisällä.",
+   "Anna riisin hautua noin 20–25 minuuttia tai kunnes riisi on pehmeää ja täysin kypsää. Vältä avaamasta kantta liian usein, sillä se voi häiritä kypsymisprosessia. Jos neste imeytyy ennen kuin riisi on täysin kypsää, lisää tarvittaessa hieman vettä tai lientä.",
+   "Kun riisi on kypsynyt, lisää pakastetut vihannessekoitukset kattilaan. Sekoita ne varovasti riisin sekaan.",
+   "Halutessasi voit lisätä ruokalusikallisen voita, jotta ruoka maistuu vieläkin täyteläisemmältä. Sekoita se riisiin, kunnes se sulaa.",
+   "Ota kattila pois liedeltä ja anna sen seistä kannen alla muutama minuutti, jotta maut sulautuvat yhteen.",
+   "Puhdista riisi haarukalla ja tarjoile kuumana, halutessasi koristeltuna tuoreilla yrtteillä."
+  ]
+ },
+ {
+  "id": "wikibooks-tea-eggs",
+  "skip": "lähes sama kuin aiemmin käännetyt teemunat"
+ },
+ {
+  "id": "wikibooks-tegabino-shiro-ethiopian-spiced-chickpea-dip",
+  "skip": "lähes sama kuin shiro (etiopialainen kikhernejauhopata)"
+ },
+ {
+  "id": "wikibooks-tekka-japanese-root-vegetables-in-miso",
+  "title": "Tekka (miso-juuresmauste)",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "japanilainen",
+   "makrobioottinen",
+   "mauste",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1 dl paahdettua seesamiöljyä",
+   "1,5 dl takiaisenjuurta (gobo), hyvin hienoksi hienonnettuna",
+   "½ tl tuoretta raastettua inkivääriä",
+   "1,5 dl hienonnettua lootuksenjuurta",
+   "1 dl hatcho-misoa (tummaa soijamisoa)",
+   "1,5 dl hienonnettua porkkanaa"
+  ],
+  "instructions": [
+   "Kuumenna pannu ja kaada siihen seesamiöljyä.",
+   "Lisää ison takiaisen juuri ja paista muutama minuutti.",
+   "Lisää porkkanat ja lootusjuuri ja paista muutama minuutti.",
+   "Lisää miso ja inkivääri. Vähennä lämpöä ja anna kiehua hiljalleen 4 tuntia.",
+   "Sekoita usein, kunnes kaikki vesi on haihtunut ja seos näyttää kuivalta ja tummalta.",
+   "Jäähdytä ja säilytä lasipurkissa. Ripottele riisin tai puuron päälle mausteeksi."
+  ]
+ },
+ {
+  "id": "wikibooks-tembleque-puerto-rican-coconut-pudding",
+  "title": "Tembleque (puertoricolainen kookospudding)",
+  "description": "Tembleque on paksunnettu kookospudding, joka on peräisin Puerto Ricosta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kookos",
+   "puertoricolainen",
+   "vanukas",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 tlk (400 ml) kookosmaitoa",
+   "1 tlk (400 ml) kookoskermaa",
+   "1 dl kuohukermaa",
+   "½ dl maissitärkkelystä tai riisijauhoa",
+   "½ tl appelsiininkukkavettä (valinnainen)",
+   "2 dl valkoista kidesokeria",
+   "1 ripaus suolaa",
+   "kanelia koristeeksi"
+  ],
+  "instructions": [
+   "Laita sokeri, kookosmaito, kookoskerma ja suola kattilaan. Keitä, kunnes sokeri liukenee ja maito alkaa kiehua.",
+   "Sekoita maissitärkkelykseen vähintään 3 rkl kylmää rasvaista kermavaahtoa. Vatkaa, kunnes maissitärkkelys on liuennut kokonaan, mutta seos on edelleen paksua. Tavoitteena on tasainen, paksu tahna, jossa ei ole kokkareita.",
+   "Kun maito alkaa kiehua, lisää kattilaan loput kermasta ja maissitärkkelysseoksesta.",
+   "Pidä lämpö matalalla ja sekoita jatkuvasti, kunnes vanukas sakeutuu.",
+   "Kaada vanukkuvuokiin tai pieniin kulhoihin.",
+   "Jäähdytä jääkaapissa 2 tuntia.",
+   "Tarjoilua varten käännä vanukaskulhot lautaselle, jotta vanukas irtoaa, ja ripottele päälle kanelia."
+  ]
+ },
+ {
+  "id": "wikibooks-tempe-mendoan-i",
+  "title": "Tempe mendoan (taikinassa paistettu tempeh)",
+  "description": "Tempe mendoan on ohuesta tempehistä valmistettu ruokalaji, joka paistetaan jauhojen kanssa, jolloin siitä tulee herkullisen pikanttia. Perinteisesti Banyumasin alueella tempe mendoan valmistettiin ohuesta, leveästä tempehistä, jota paistettiin yksi tai kaksi levyä kerrallaan. Tempe mendoan voidaan kuitenkin valmistaa myös tavallisesta tempehistä, joka on leikattu hyvin ohuiksi mutta leveiksi viipaleiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "tempeh",
+   "indonesialainen",
+   "rasvassa paistettu",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "100 g riisijauhoa",
+   "1 rkl vehnäjauhoja",
+   "2 valkosipulinkynttä, murskattuna",
+   "1 salottisipuli, murskattuna",
+   "1 tl jauhettua korianteria",
+   "¼ tl jauhettua valkopippuria",
+   "1 tl suolaa",
+   "1,25 dl vettä",
+   "2 kpl kevätsipulia, ohuiksi viipaleiksi leikattuna",
+   "300 g tempeh'ä, ohuina levyinä",
+   "rypsiöljyä paistamiseen"
+  ],
+  "instructions": [
+   "Sekoita riisijauho, vehnäjauho, valkosipuli, salottisipuli, korianteri, pippuri, suola, vesi ja kevätsipuli ohueksi taikinaksi.",
+   "Kasta jokainen tempeh-pala taikinaan ja peitä se kokonaan.",
+   "Kuumenna öljy paistinpannussa ja laita se liedelle, kunnes se on kuuma. Laita jokainen tempeh-pala kuumaan öljyyn.",
+   "Paista tempehiä, kunnes se on kovettunut ja kypsynyt kunnolla. Älä odota, että se muuttuu keltaiseksi ja rapeaksi.",
+   "Nosta tempeh öljystä ja anna öljyn valua pois, jotta tempehissä ei jää liikaa öljyä.",
+   "Tarjoile tempeh soijakastikkeen ja viipaloitujen pienten chilipaprikoiden kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-tempe-mendoan-ii",
+  "skip": "lähes sama kuin tempe mendoan I"
+ },
+ {
+  "id": "wikibooks-tempoyak-fermented-durian",
+  "skip": "durian vaikea saada"
+ },
+ {
+  "id": "wikibooks-tempura",
+  "skip": "lähes sama kuin aiemmin käännetyt tempurat"
+ },
+ {
+  "id": "wikibooks-tempura-baked-halibut-with-cilantro-aioli",
+  "title": "Uunissa paistettu tempurapallas korianteriaiolilla",
+  "servings": 2,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "uuniruoka",
+   "japanilainen"
+  ],
+  "ingredients": [
+   "450 g ruijanpallasta, kahtena palana",
+   "2,5 dl vehnäjauhoja",
+   "1 muna",
+   "2,5 dl jäävettä",
+   "½ dl vähärasvaista majoneesia",
+   "1 rkl ekstra-neitsytoliiviöljyä",
+   "1 rkl hienonnettua valkosipulia",
+   "1 rkl hienonnettua korianteria",
+   "1 tl sitruunamehua",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Vatkaa muna keskikokoisessa kulhossa. Lisää hyvin kylmää jäävettä.",
+   "Lisää jauhoja. Sekoita, mutta älä liikaa.",
+   "Voitele uunivuoka öljyllä.",
+   "Kasta kala taikinaan ja aseta se valmistettuun vuokaan.",
+   "Paista 175 asteessa noin 20 minuuttia, kunnes kuori on kevyesti kullanruskea.",
+   "Sekoita pienessä kulhossa majoneesi, oliiviöljy, valkosipuli, korianteri, sitruunamehu ja mustapippuri aiolin valmistamiseksi.",
+   "Tarjoile ja nauti"
+  ],
+  "notes": [
+   "Älä sekoita tempura-taikinaa liikaa! Siinä saa olla hieman kokkareita.",
+   "Tarjoile natriumia sisältämättömän soijakastikkeen kera.",
+   "Lisää aioliin cayennepippuria tai murskattua punapippuria, jos haluat mausteisempaa tulosta."
+  ]
+ },
+ {
+  "id": "wikibooks-tequeos-venezuelan-breaded-cheese-sticks",
+  "title": "Tequeños (venezuelalaiset juustotikut)",
+  "description": "Tequeño valmistetaan leiväntaikinasta, jonka keskelle laitetaan valkoista juustoa (queso blanco). Taikina muotoillaan leipätikkuksi ja paistetaan. Se on yksi suosituimmista juhlapaloista, erityisesti häissä. Sanotaan, että juhla ei ole aito venezuelalainen juhla ilman tequeñoja.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "juusto",
+   "venezuelalainen",
+   "rasvassa paistettu",
+   "juhla"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja",
+   "1,25 dl rypsiöljyä",
+   "1 muna",
+   "½ tl suolaa",
+   "½ tl sokeria",
+   "500 g kiinteää valkoista juustoa (halloumi, queso blanco)",
+   "noin ½ dl vettä",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita jauhot, öljy, muna, suola ja sokeri kulhossa taikinaksi.",
+   "Lisää taikinaa vaivaamisen aikana 1–2 rkl vettä. Jatka vaivaamista, kunnes taikina ei enää tartu käsiin.",
+   "Anna taikinan levätä 1–2 tuntia.",
+   "Kun taikina lepää, leikkaa juusto sormenpaksuisiksi suikaleiksi, noin 1 x 1 x 7 cm (½ x ½ x 8 cm).",
+   "Kun taikina on levännyt, muotoile siitä kämmenen kokoisia palloja.",
+   "Kauli taikina noin 3 mm paksuiseksi.",
+   "Leikkaa rullattu taikina 1½ cm leveiksi pitkiksi suikaleiksi.",
+   "Kääri juustoliuskat taikinaliuskoihin.",
+   "Varmista, että peität juuston kokonaan ja suljet sen taikinan sisään, sillä muuten juusto valuu taikinan ulkopuolelle paistamisen aikana.",
+   "Kierätä tequeñot kevyesti jauhoissa ja friteeraa 180-asteisessa öljyssä kullanruskeiksi.",
+   "Tarjoile guasacacan kanssa, joko miedon (vihreän) tai mausteisen (punaisen) versiona."
+  ],
+  "notes": [
+   "Alkuperäisen 1 kg jauhoja ja 1 kg juustoa on puolitettu."
+  ]
+ },
+ {
+  "id": "wikibooks-tequila-lime-hot-wings",
+  "skip": "tequila pääosassa"
+ },
+ {
+  "id": "wikibooks-tequila-lime-strip-steak",
+  "skip": "tequila pääosassa"
+ },
+ {
+  "id": "wikibooks-teriyaki-grilled-salmon-steaks",
+  "title": "Teriyaki-grillilohi",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "grilli",
+   "japanilainen"
+  ],
+  "ingredients": [
+   "4 lohipihviä (yht. 450 g)",
+   "1 tl mustapippuria",
+   "1 rkl rypsiöljyä",
+   "2 rkl vähäsuolaista soijakastiketta",
+   "½ dl vettä",
+   "1 rkl hunajaa",
+   "2 rkl hienonnettua inkivääriä",
+   "2 rkl hienonnettua valkosipulia"
+  ],
+  "instructions": [
+   "Mausta lohi pippurilla.",
+   "Sekoita loput ainekset teriyakimarinadiksi ja marinoi lohta 15–30 minuuttia.",
+   "Grillaa kuumalla grillillä 3–4 minuuttia per puoli, sivellen marinadilla.",
+   "Tarjoile ja nauti."
+  ],
+  "notes": [
+   "Koristele tuoreella hienonnetulla korianterilla, mustilla tai valkoisilla seesaminsiemenillä ja/tai hienonnetuilla kevätsipuleilla.",
+   "Jos haluat lisätä tulisuutta, lisää marinadiin paprikaa, cayennepippuria tai punaisen paprikan hiutaleita.",
+   "Voit korvata rypsiöljyn oliiviöljyllä oman mieltymyksesi mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-teriyaki-salmon",
+  "title": "Tulinen teriyakilohi grillissä",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "grilli",
+   "tulinen"
+  ],
+  "ingredients": [
+   "4 lohifileepalaa nahkoineen (yht. 670 g)",
+   "1 dl soijakastiketta",
+   "1 rkl hienonnettua inkivääriä",
+   "2 tl hienonnettua valkosipulia",
+   "2 rkl riisiviinietikkaa",
+   "1 ½ tl raastettua sitruunankuorta",
+   "1 rkl vaaleaa fariinisokeria",
+   "2 thaichiliä",
+   "1 rkl seesamiöljyä"
+  ],
+  "instructions": [
+   "Soseuta kaikki ainekset paitsi lohi ja öljy. Kaada pussiin, lisää lohi ja marinoi jääkaapissa 1–2 tuntia.",
+   "Ota lohi marinadista ja kuivaa se paperipyyhkeillä. Sivele öljyä lohiin joka puolelta.",
+   "Kuumenna hiiligrilli kuumaksi.",
+   "Aseta lohi grillin kuumimpaan kohtaan nahkapuoli ylöspäin ja grillaa 3–5 minuuttia kummaltakin puolelta, jotta lohi kypsyy medium-kypsyyteen. Käännä lohi puolivälissä 90 astetta, jotta siihen muodostuu grillausjäljet.",
+   "Siirrä lautaselle ja peitä tiiviisti alumiinifoliolla. Anna levätä 5 minuuttia ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-teriyaki-sauce",
+  "skip": "lähes sama kuin aiemmin käännetty teriyakiglaseeri"
+ },
+ {
+  "id": "wikibooks-teurgoule-norman-cinnamon-rice-pudding",
+  "title": "Teurgoule (normandialainen kaneliriisivanukas)",
+  "description": "Teurgoule on kanelilla maustettu riisipuuro, joka on Normandian erikoisuus. Nimi on peräisin normandinkielestä ja tarkoittaa ”vääntynyttä suuta”, mikä viittaa ilmeisiin, joita ruoan maistajan väitetään tekevän sen mausteisuuden vuoksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "riisi",
+   "ranskalainen",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g hienoa kidesokeria",
+   "175 g pyöreäjyväistä riisiä",
+   "1 ripaus suolaa",
+   "¼ tl kanelijauhetta",
+   "2 l täysmaitoa"
+  ],
+  "instructions": [
+   "Kuumenna uuni 150 asteeseen.",
+   "Sekoita sokeri, maito, riisi, suola ja kaneli terrinikulhossa.",
+   "Laita seos uuniin viideksi tunniksi ja varmista, ettei kukaan avaa uunin luukkua.",
+   "Riisin on imettävä itseensä noin kolme neljäsosaa maidosta, ja sen pinnan on oltava ruskean kalvon peitossa.",
+   "Anna vanukkaan jäähtyä ja tarjoile huoneenlämpöisenä."
+  ]
+ },
+ {
+  "id": "wikibooks-tex-mex-sliders",
+  "title": "Tex-mex-minihampurilaiset",
+  "description": "Miksi niitä kutsutaan slidereiksi? Luultavasti siksi, että ne liukuvat suuhun niin nopeasti!",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "hampurilainen",
+   "tex-mex",
+   "naudanliha"
+  ],
+  "ingredients": [
+   "450 g naudan jauhelihaa (20 % rasvaa)",
+   "¼ tl tuorejauhettua kuminaa",
+   "½ tl valkosipulijauhetta",
+   "½ tl kosher-suolaa",
+   "½ tl vastajauhettua mustapippuria",
+   "1 tl chipotlejauhetta",
+   "4 ohutta viipaletta Monterey Jack- tai cheddarjuustoa",
+   "16 minisämpylää, halkaistuina ja paahdettuina",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Kuumenna parilapannu tai grilli.",
+   "Sekoita mausteet. Aseta sivuun.",
+   "Aseta liha leivinpaperilla vuoratulle uunipelille ja peitä se muovikelmulla. Kauli lihaa kaulinalla, kunnes se täyttää uunipellin.",
+   "Poista koko leivinpaperi, liha mukaan lukien, pannulta. Ota liha pois ja leikkaa se pizzaleikkurilla 16 yhtä suureen pihviin.",
+   "Ripottele mausteeseosta jokaisen pihvin molemmille puolille. Paista esilämmitetyllä paistinpannulla 1 minuutti kummaltakin puolelta ja lisää juusto paistetulle puolelle kääntämisen jälkeen.",
+   "Sillä välin levitä voita jokaiselle sämpylälle. Aseta pihvi jokaisen sämpylän väliin ja sulje sämpylä. Tarjoile lämpimänä haluamillasi lisukkeilla."
+  ]
+ },
+ {
+  "id": "wikibooks-texas-brisket-sandwiches",
+  "title": "Texasilaiset savubrisket-voileivät",
+  "servings": 9,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "savustettu",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "3,6 kg naudanrintaa, rasvakerros 1 cm",
+   "2 rkl suolaa",
+   "2 rkl mustapippuria, rouhittuna",
+   "2 dl omenaviinietikkaa",
+   "2 dl keltaista sinappia, jaettuna",
+   "2 tl cayennepippuria",
+   "1 rkl valkosipulijauhetta",
+   "½ dl paprikajauhetta",
+   "2 rkl tulista kastiketta",
+   "9 hampurilaissämpylää",
+   "3 rkl melassia tai tummaa siirappia",
+   "savustuspuuta (mesquite tai leppä)"
+  ],
+  "instructions": [
+   "Sekoita tulinen kastike, melassi, etikka ja ½ dl sinappia. Kaada seos suihkepulloon ja aseta sivuun.",
+   "Levitä 1 dl sinappia brisketin pinnalle. Aseta sivuun.",
+   "Sekoita mausteet ja suola. Hiero seos brisketin molemmille puolille. Laita jääkaappiin yön yli.",
+   "Kuumenna savustin 95 asteeseen ja savusta rintaa, kunnes sisälämpö on noin 90 astetta (10–12 tuntia), suihkuttaen välillä etikkaseosta.",
+   "Ota rintapala savustimesta ja anna sen levätä puoli tuntia. Leikkaa se rasvaviivan mukaan ja viipaloi ohuiksi viipaleiksi syiden suuntaan.",
+   "Hienonna viipaleet ja sekoita ne jäljellä olevaan etikkaseokseen. Laita 1/9 osaa jokaiseen sämpylään ja tarjoile lämpimänä."
+  ],
+  "notes": [
+   "Jos sinulla ei ole savustinta, esilämmitä uuni 190°F:een. Aseta ¾ cup liotettuja mesquite-lastuja paistopellin pohjalle, lisää ritilä ja maustettu brisket. Peitä tiiviisti foliolla ja kypsennä samalla tavalla."
+  ]
+ }
+]

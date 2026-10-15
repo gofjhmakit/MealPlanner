@@ -1,0 +1,681 @@
+[
+ {
+  "id": "wikibooks-spanish-flan",
+  "title": "Espanjalainen flan",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vanukas",
+   "espanjalainen",
+   "karamelli",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 kananmunaa",
+   "1 tl vaniljauutetta",
+   "1 tölkki (400 g) makeutettua kondensoitua maitoa",
+   "1 tölkki (410 g) maustamatonta kondensoitua maitoa (evaporated milk)",
+   "karamellikastiketta"
+  ],
+  "instructions": [
+   "Kuumenna uuni 190 asteeseen.",
+   "Sekoita kaikki ainekset paitsi karamellikastike tehosekoittimessa. Sekoita 2 minuuttia.",
+   "Levitä ohut kerros karamellikastiketta pyöreän piirakkavuoan pohjalle. Kaada munaseos karamellikastikkeen päälle.",
+   "Aseta vuoka isompaan uunivuokaan ja kaada isompaan vuokaan kuumaa vettä noin puoleen väliin.",
+   "Laita molemmat vuoat uuniin. Paista 1 tunti tai kunnes keskusta on kiinteä.",
+   "Ota uunista ja anna jäähtyä.",
+   "Aseta tarjoiluvati vuoan päälle ja käännä ylösalaisin niin, että flan irtoaa vadille karamellipuoli ylöspäin."
+  ]
+ },
+ {
+  "id": "wikibooks-spanish-omelet",
+  "skip": "lähes sama kuin espanjalainen perunamunakas"
+ },
+ {
+  "id": "wikibooks-spanish-potato-omelette",
+  "title": "Tortilla española (espanjalainen perunamunakas)",
+  "description": "Tortilla de patatas on joidenkin mielestä tyypillisin espanjalainen ruokalaji, ja sitä kutsutaan paikallisesti nimellä \"Tortilla española\" (espanjalainen munakas). Sitä tarjoillaan usein baareissa tapana. Sen voi valmistaa myös ilman sipulia.",
+  "servings": 4,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kananmuna",
+   "peruna",
+   "espanjalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "1 kg kiinteää perunaa",
+   "1 sipuli",
+   "5 dl oliiviöljyä (paistamiseen, suurin osa jää jäljelle)",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Kuori perunat, pese ne ja kuivaa ne liinalla. Leikkaa ne 1 cm:n kuutioiksi tai 2 mm:n viipaleiksi. Pese ja kuivaa ne uudelleen. Lisää suolaa maun mukaan ja sekoita.",
+   "Kuumenna öljy ja paista perunat, kun öljy on kuuma, mutta älä anna niiden ruskistua. Kun perunat ovat valmiita, valuta öljy pois ja säilytä perunat.",
+   "Pilko tai viipaloi sipuli ja paista sitä, kunnes se on läpikuultavaa.",
+   "Vatkaa 8 kananmunaa kulhossa pienen määrän suolan kanssa, kunnes seos on tasainen, ja sekoita sitten perunat ja sipuli seokseen.",
+   "Kuumenna 3 rkl oliiviöljyä tyhjään pannuun (tai voit käyttää edellistä pannua, kun olet poistanut siitä suurimman osan öljystä).",
+   "Kun pannu on kuumennettu, lisää muna, sipuli ja perunat.",
+   "7–8 minuutin kuluttua pohjan pitäisi olla kypsä. Aseta lautanen pannun päälle, käännä munakas lautaselle ja liu'uta se takaisin pannulle raaka puoli alaspäin.",
+   "Muutaman minuutin kuluttua ruoka on valmis ja voidaan tarjoilla."
+  ]
+ },
+ {
+  "id": "wikibooks-spanish-rice",
+  "title": "Espanjalainen riisi chorizolla",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "meksikolainen",
+   "chili",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl raakaa riisiä",
+   "2 rkl suolatonta voita",
+   "½ dl tuoretta korianteria, hienonnettuna (valinnainen)",
+   "1 vihreä paprika, hienoksi pilkottu",
+   "2 serranochiliä tai 1 jalapeño, hienonnettuna",
+   "1 dl kypsää kanaa tai porsasta, revittynä",
+   "1 sipuli, hienoksi hienonnettuna",
+   "7 dl kanalientä",
+   "3 laakerinlehteä",
+   "½ dl chorizoa, hienonnettuna",
+   "1 rkl hienonnettua valkosipulia"
+  ],
+  "instructions": [
+   "Sulata voi suuressa kattilassa keskilämmöllä. Lisää sipuli, chilipaprikat, valkosipuli, liha ja riisi ja paista, kunnes chorizo ja riisi ovat kullanruskeita.",
+   "Lisää liemi ja laakerinlehdet. Kiehauta ja keitä, kunnes neste on haihtunut ja riisi on pehmeää.",
+   "Ripottele korianteria päälle ennen tarjoilua, jos haluat."
+  ]
+ },
+ {
+  "id": "wikibooks-sparkling-lemonade-with-fresh-herbs",
+  "title": "Kuohuva yrttilimonadi",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Juomat",
+  "tags": [
+   "sitruuna",
+   "minttu",
+   "alkoholiton",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 sitruunaa",
+   "4 rkl sokeria",
+   "1 l kivennäisvettä",
+   "muutama lehti tuoretta minttua ja/tai sitruunamelissaa"
+  ],
+  "instructions": [
+   "Purista sitruunoista mehu ja liuota sokeri mehuun.",
+   "Lisää hiilihapotettua vettä ja tuoreita yrttilehtiä.",
+   "Tarjoile kylmänä."
+  ],
+  "notes": [
+   "Sitruunamehu voidaan haluttaessa korvata appelsiinimehulla tai muulla sitrusmehulla."
+  ]
+ },
+ {
+  "id": "wikibooks-speculaas-dutch-spiced-cookies",
+  "title": "Speculaas (hollantilaiset maustekeksit)",
+  "description": "Speculaas on perinteinen hollantilainen maustekeksi. Sitä syödään ympäri vuoden, mutta se yhdistetään useimmiten pakjesavondiin, pyhän Nikolauksen juhlaan 5. joulukuuta. Speculaas voi olla tämän pyhimyksen muotoinen, vaikka tuulimyllyt ovat myös suosittu kuvio. Speculaasin kuvio syntyy ”speculaasplankiksi” kutsutun mallilevyn avulla. Se on puulevy, johon on veistetty muotoja tai kuvioita. Kuvio säilyy paremmin, kun taikinaan lisätään enemmän jauhoja, mutta tämä ei enää vastaa nykypäivän makua.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "keksit",
+   "hollantilainen",
+   "joulu",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "110 g voita",
+   "90 g fariinisokeria",
+   "ripaus suolaa",
+   "3 tl speculaas- tai piparkakkumaustetta",
+   "100 g vehnäjauhoja",
+   "100 g vehnäjauhoja + 1 tl leivinjauhetta",
+   "1 kananmuna, vatkattuna"
+  ],
+  "instructions": [
+   "Sekoita voi, sokeri, suola ja mausteet tasaiseksi massaksi.",
+   "Lisää muna ja jauhot ja sekoita pehmeäksi taikinaksi.",
+   "Halutessasi anna taikinan levätä 2 päivää jääkaapissa. Tämä antaa kekseille voimakkaamman mausteen.",
+   "Jauhota speculaas-muotti, jotta taikina ei tartu kiinni. Ilman muottia taikinan voi kaulita ja leikata muotilla.",
+   "Paina taikinaa muottiin. Leikkaa ylimääräinen taikina pois narun avulla tai veitsellä, pitäen sitä tasaisesti mallin vasten.",
+   "Käännä muotti ympäri ja lyö sitä voimakkaasti etupuoli alaspäin keittiön työtasolle. Tämän pitäisi irrottaa speculaas-keksit muotista.",
+   "Asettele speculaas-keksit hyvin voidellulle leivontapellille, jättäen niiden väliin tarpeeksi tilaa, jotta ne voivat levitä paistamisen aikana.",
+   "Paista 170 asteessa. Pienet keksit ovat valmiita noin 20 minuutissa, isommat tarvitsevat pidempään.",
+   "Anna speculaasien jäähtyä kokonaan. Nauti teetä tai kaakaota kera."
+  ],
+  "notes": [
+   "Speculaas-mauste on sekoitus, joka koostuu pääasiassa kanelista, mutta sisältää myös korianteria, muskottipähkinää, neilikkaa, inkivääriä, kardemummaa, valkopippuria ja appelsiininkuoria. Tätä sekoitusta käytetään myös kruidnoten-keksien valmistuksessa. Usein sekoitukseen lisätään myös salainen lisäaine."
+  ]
+ },
+ {
+  "id": "wikibooks-spelt-bread",
+  "title": "Spelttileipä",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "speltti",
+   "leivonta",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "750 g spelttijauhoja",
+   "2 tl suolaa",
+   "1 tl valkoista kidesokeria",
+   "1 pussi (11 g) kuivahiivaa",
+   "2½ rkl oliiviöljyä",
+   "500 ml haaleaa vettä"
+  ],
+  "instructions": [
+   "Sekoita jauhot, suola, sokeri ja hiiva.",
+   "Lisää kuiviin aineksiin öljy ja tarpeeksi vettä, jotta taikina tulee kiinteäksi.",
+   "Vaivaa taikinaa noin 10 minuuttia.",
+   "Laita taikina voideltuun 1,5 litran leipävuokaan, peitä ja anna kohota lämpimässä paikassa noin kaksinkertaiseksi.",
+   "Poista liina ja paista 200 asteessa noin 35 minuuttia."
+  ],
+  "notes": [
+   "Muotoilemalla taikinan pyöreäksi ja asettamalla sen voidellulle leivontapellille voit valmistaa maalaisleivän."
+  ]
+ },
+ {
+  "id": "wikibooks-spelt-burger",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-spelt-yellow-cake",
+  "title": "Spelttikakku",
+  "description": "Resepti spelttikakulle, joka on muinaisen vehnän vaihtoehto keltaiselle kakulle.",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "speltti",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 tl vaniljauutetta",
+   "225 g voita",
+   "2,5 dl maitoa",
+   "5 dl valkoista kidesokeria",
+   "7 dl spelttijauhoja",
+   "3 tl leivinjauhetta",
+   "½ tl suolaa",
+   "4 kananmunaa"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 175 asteeseen.",
+   "Vatkaa voi ja sokeri vaahdoksi.",
+   "Sekoita munat joukkoon.",
+   "Sekoita vanilja joukkoon.",
+   "Siivilöi kuivat ainekset vähitellen seokseen vuorotellen pienien maitomäärien kanssa.",
+   "Siirrä voideltuun ja jauhotettuun leivontavuokaan.",
+   "Paista 175 asteessa, kunnes kakkuun pistetty tikku tulee puhtaana ulos (noin 45–50 minuuttia)."
+  ]
+ },
+ {
+  "id": "wikibooks-spice-rub",
+  "title": "Savuinen grillimauste",
+  "description": "Mausteyhdistelmä on suolan, yrttien ja mausteiden sekoitus. Se voi olla niin yksinkertainen kuin suuri määrä pippuria, kuten Steak au Poivressa, tai niin monimutkainen kuin 100 erilaista maustetta. Yksi hyvä mausteyhdistelmän resepti on valita pohja, kuten paprika, ja lisätä siihen muita mausteita. Varo kuitenkin kaupallisia mausteseoksia. Monet niistä ovat suolapohjaisia, koska suola lisää tilavuutta, on halpaa ja korvaa mausteita, joita valmistaja ei pysty hankkimaan.",
+  "servings": 40,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "grilli",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl paprikajauhetta",
+   "½ dl suolaa",
+   "½ dl mustapippuria",
+   "1 dl chipotlejauhetta (tai savupaprikaa)",
+   "1 dl fariinisokeria",
+   "2 dl kuivattua sitruunankuorta",
+   "½ dl kuivattua rosmariinia",
+   "2 rkl cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset ilmatiiviissä astiassa.",
+   "Säilytettynä viileässä ja pimeässä paikassa tämä säilyy pitkään."
+  ]
+ },
+ {
+  "id": "wikibooks-spice-rub-for-chicken",
+  "title": "Kanan mausteseos",
+  "servings": 12,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "kana",
+   "grilli",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 tl mustapippuria",
+   "2 tl cayennepippuria",
+   "2 tl jauhettuja sellerinsiemeniä tai sellerisuolaa",
+   "2 rkl valkosipulijauhetta",
+   "1 dl paprikajauhetta",
+   "2 rkl karkeaa suolaa",
+   "1 rkl kuivattua timjamia"
+  ],
+  "instructions": [
+   "Sekoita mausteet kulhossa.",
+   "Hiero seos kanan pintaan ja sisälle.",
+   "Anna maustua hetki ja kypsennä kana tavalliseen tapaan."
+  ]
+ },
+ {
+  "id": "wikibooks-spice-rubbed-grilled-chicken-breast",
+  "title": "Grillattu maustekana Dijon-sinapilla",
+  "servings": 5,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "grilli",
+   "mausteet",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl paprikajauhetta",
+   "3 rkl savupaprikajauhetta",
+   "1 rkl suolaa",
+   "1 rkl vastajauhettua mustapippuria",
+   "2 tl kuivattua rosmariinia",
+   "1–2 rkl cayennepippuria",
+   "1 tl kanelia",
+   "3 rkl kuivattua sitruunankuorta",
+   "5 broilerin rintafileetä",
+   "2,5 dl Dijon-sinappia"
+  ],
+  "instructions": [
+   "Sekoita paprikat, suola, pippuri, rosmariini, cayennepippuri, kaneli ja sitruunankuori. Aseta sivuun.",
+   "Hiero sinappia kanan pintaan. Levitä mausteeseos ja paina kevyesti, jotta se tarttuu paremmin.",
+   "Grillaa kuumalla grillillä usein kääntäen, kunnes sisälämpö on 72 astetta.",
+   "Nosta grilliltä ja anna levätä 3 minuuttia. Tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-spiced-chicken-with-sour-cream",
+  "title": "Maustekana smetanakastikkeessa",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "intialainen",
+   "kardemumma",
+   "smetana"
+  ],
+  "ingredients": [
+   "4 rkl öljyä",
+   "6 kardemummankotaa, siemenet",
+   "2 tl kokonaisia korianterin siemeniä",
+   "ripaus kanelia",
+   "¼ tl kuminansiemeniä",
+   "1 laakerinlehti",
+   "1 valkosipulinkynsi, hienonnettuna",
+   "2,5 dl hienonnettua sipulia",
+   "900 g broilerin paloja",
+   "1 dl korintteja tai rusinoita",
+   "2,5 dl smetanaa (tai 2,5 dl maustamatonta jogurttia + 1 dl smetanaa)",
+   "½–1 dl mantelilastuja (halutessa paahdettuina)",
+   "2 rkl kookoshiutaleita",
+   "suolaa",
+   "mustapippuria",
+   "vehnäjauhoja pyörittelyyn"
+  ],
+  "instructions": [
+   "Kuumenna öljyä pannulla, kunnes se on melko kuuma, mutta ei savua.",
+   "Lisää kardemumman siemeniä, korianteria, kanelia, kuminaa ja laakerinlehteä. Paista, kunnes siemenet halkeilevat (1–2 minuuttia).",
+   "Vähennä lämpöä ja lisää sitten valkosipuli ja sipuli. Paista, kunnes ne ovat pehmeitä ja läpikuultavia.",
+   "Laita sipuliseos sivuun astiaan.",
+   "Mausta kana suolalla ja pippurilla ja pyöritä sitten jauhoissa.",
+   "Paista kanaa pannulla, lisää öljyä tarvittaessa, kunnes se on melkein kypsä.",
+   "Lisää varattu sipuliseos ja korintit.",
+   "Lisää smetanaa (tai smetanan ja jogurtin sekoitusta) ja hauduta, kunnes kana on pehmeää ja kastike on hieman tiivistynyt.",
+   "Tarjoa sahramiriisin kanssa."
+  ],
+  "notes": [
+   "Ruoanlaittamisen jälkeen mausteet jatkavat vaikutustaan kanaan ja pehmentävät sen makua. Ruoan säilyttäminen jääkaapissa yhden päivän ajan ja sen lämmittäminen sen jälkeen parantaa sen makua!",
+   "Ruoka voidaan jäähdyttää ja pakastaa ennen smetanan lisäämistä, minkä jälkeen se voidaan sulattaa ja valmistaa myöhemmin.",
+   "Lisää mausteita, jos käytät paljon enemmän sipulia, muuten maku jää laimeaksi.",
+   "Kanan voi korvata kiinteällä tofulla."
+  ]
+ },
+ {
+  "id": "wikibooks-spiced-crme-caramel",
+  "title": "Maustettu crème caramel",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vanukas",
+   "karamelli",
+   "tähtianis",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 rkl voita",
+   "1½ rkl sokeria",
+   "7,5 dl täysmaitoa",
+   "1,5 dl makeutettua kondensoitua maitoa",
+   "4 rkl sokeria",
+   "2 tähtianista",
+   "2 kanelitankoa",
+   "2–3 viipaletta kuivahtanutta vaaleaa leipää",
+   "2,5 dl kylmää maitoa",
+   "1 dl maissitärkkelystä",
+   "1–2 tl vaniljauutetta",
+   "1 dl huoneenlämpöistä maitoa"
+  ],
+  "instructions": [
+   "Kuumenna voi ja sokeri kattilassa keskilämmöllä sekoittaen, kunnes se karamellisoituu.",
+   "Jäähdytä karamellia hieman ja kaada se sitten muottiin.",
+   "Anna jäähtyä kokonaan.",
+   "Kiehauta 7,5 dl maitoa, kondensoitu maito, sokeri, tähtianis ja kanelitangot. Siivilöi mausteet pois.",
+   "Jauha leipä tehosekoittimessa jauheeksi. Lisää kylmää maitoa ja sekoita tasaiseksi. Varmista, ettei seoksessa ole kokkareita.",
+   "Sekoita maissitärkkelys, vanilja ja 1 dl maitoa.",
+   "Sekoita leipäseos ja maissitärkkelysseos kuumaan maitoon. Hauduta seosta jatkuvasti sekoittaen, kunnes seos muuttuu paksuksi ja tasaiseksi. Varo, ettei se tartu pohjaan.",
+   "Ota kattila pois liedeltä ja kaada seos muottiin jäähtyneen karamellin päälle.",
+   "Anna jäähtyä huoneenlämpötilaan ja laita sitten jääkaappiin 3–4 tunniksi.",
+   "Tarjoile kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-spiced-flour",
+  "title": "Maustettu jauhoseos paneroimiseen",
+  "description": "Malli:Ravintoarvot Keittokirja | Reseptit | Ainesosat | Tarvikkeet | Tekniikat | Keittokirjan täsmennyssivut | Reseptit | Amerikkalainen keittiö | Kasvisruokakeittiö | Juhlareseptit",
+  "servings": 6,
+  "totalTimeMin": 2,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "paneroiminen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1,5 dl vehnäjauhoja",
+   "1 tl paprikajauhetta",
+   "½ tl valkosipulijauhetta",
+   "ripaus mustapippuria",
+   "ripaus cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita ainekset huolellisesti keskenään."
+  ]
+ },
+ {
+  "id": "wikibooks-spiced-kefir",
+  "title": "Maustettu kefiiri",
+  "description": "Kefirin maustamisessa on paljon kokeiltavaa; tässä on esimerkki, joka muistuttaa hieman mausteista lassia.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "kefiiri",
+   "mausteet",
+   "kurkuma",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl maustamatonta kefiiriä",
+   "1 tl kanelia",
+   "½ tl kardemummaa",
+   "¼ tl muskottipähkinää",
+   "½–1½ tl kurkumaa",
+   "1 tl jauhettua korianteria"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset keskenään.",
+   "Sekoita hyvin ja tarjoile."
+  ],
+  "notes": [
+   "Jos tätä seosta pidetään huoneenlämmössä useita päiviä ja sekoitetaan säännöllisesti, kefirin kerma muodostaa spontaanisti pieniä mausteisia, voisia pisaroita, jotka kelluvat pinnalla – tämä on kefirin erottuminen juustomassaksi ja heraksi. Ne ovat muodoltaan hieman popcornin kaltaisia ja kooltaan herneen ja viinirypäleen väliltä. Ne ovat herkullisia, mausteisia ja kermaisia, jos uskallat maistaa niitä. Voit myös poimia ne pois, jolloin saat luonnollisesti vähärasvaista kefiriä (jos se on sinun makuusi)."
+  ]
+ },
+ {
+  "id": "wikibooks-spiced-oysters",
+  "skip": "suurtalousmäärät (100 osteria), säilöntä ilman turvallisia ohjeita"
+ },
+ {
+  "id": "wikibooks-spiced-pumpkin-soup",
+  "title": "Maustettu kurpitsakeitto",
+  "description": "Tämä mausteisen kurpitsakeiton resepti on peräisin Seattlen ja King Countyn terveysvirastolta osoitteesta http://www.metrokc.gov/HEALTH/nutrition/recipes/pumpkinsoup.htm. Malli:Ravintoarvot",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kurpitsa",
+   "bataatti",
+   "curry"
+  ],
+  "ingredients": [
+   "1 rkl voita",
+   "2,5 dl hienonnettua sipulia",
+   "3 rkl vehnäjauhoja",
+   "½ tl curryjauhetta",
+   "¼ tl juustokuminaa",
+   "¼ tl muskottipähkinää",
+   "2 valkosipulinkynttä, murskattuna",
+   "2,5 dl kuorittua ja kuutioitua bataattia",
+   "¼ tl suolaa",
+   "8 dl vähäsuolaista kana- tai kasvislientä",
+   "420 g kurpitsasosetta",
+   "2,5 dl kevytmaitoa",
+   "1 rkl tuoretta limemehua"
+  ],
+  "instructions": [
+   "Sulata voi uunipadassa tai suuressa kattilassa keskilämmöllä. Paista sipulia 3–4 minuuttia. Lisää jauhot, curry, kumina ja muskottipähkinä ja paista 1 minuutti.",
+   "Lisää bataatti, suola, kanaliemi ja kurpitsa ja kiehauta. Vähennä lämpöä keskilämpötilaan ja hauduta osittain peitettynä noin 20–25 minuuttia tai kunnes bataatit ovat kypsiä ja pehmeitä. Ota liedeltä ja anna seistä 10 minuuttia jäähtymään.",
+   "Laita puolet kurpitsaseoksesta tehosekoittimeen ja sekoita tasaiseksi. Kaada keitto siivilän läpi takaisin kattilaan. Toista sama lopun keiton kanssa.",
+   "Nosta lämpötila keskilämmölle, lisää maito sekoittaen ja keitä 5 minuuttia tai kunnes keitto on lämmennyt kauttaaltaan.",
+   "Ota kattila pois liedeltä ja lisää limemehu."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-apple-glazed-ribs",
+  "title": "Omenaglaseeratut porsaan ribsit",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "grilli",
+   "omena",
+   "juhla"
+  ],
+  "ingredients": [
+   "1–1,5 kg porsaan ribsejä",
+   "½ dl grillimaustetta",
+   "2,5 dl omenamehua (tai omenasiideriä)",
+   "2 rkl omenaviinietikkaa",
+   "2 rkl worcestershirekastiketta",
+   "2 rkl hunajaa",
+   "2 rkl soijakastiketta"
+  ],
+  "instructions": [
+   "Mausta sianliha grillimausteella ja anna marinoitua jääkaapissa vähintään 1 tunti.",
+   "Sekoita nestemäiset ainekset ja kiehauta voimakkaalla lämmöllä 5–10 minuuttia. Aseta sivuun.",
+   "Kypsennä ribsejä savustimessa, epäsuoralla grillillä tai uunissa 120 asteessa 3–4 tuntia, kunnes liha on mureaa.",
+   "Sivele runsaasti omenaseoksella ja siirrä kuumalle grillille. Käännä ja sivele muutaman kerran, kunnes pinta on tahmea ja ruskistunut.",
+   "Nosta grilliltä ja anna levätä 10 minuuttia. Tarjoa lopun omenaseoksen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-australian-placenta",
+  "skip": "ihmisen istukka, ei sovellu luetteloon"
+ },
+ {
+  "id": "wikibooks-spicy-black-beans",
+  "title": "Tuliset mustapavut",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "pavut",
+   "tulinen",
+   "nopea",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1½ rkl chiliöljyä",
+   "½ rkl rypsiöljyä",
+   "5 dl mustapapuja (säilyke), huuhdeltuina",
+   "1 tl suolaa",
+   "1 tl mustapippuria",
+   "2 tl riisiviinietikkaa",
+   "1½ tl soijakastiketta",
+   "1 thaichili, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuumenna molemmat öljyt suuressa paistinpannussa keskilämmöllä. Lisää kaikki muut ainekset ja sekoita; kypsennä vain, kunnes ainekset ovat lämmenneet.",
+   "Tarjoile heti lisukkeena tai anna hieman jäähtyä ja tarjoile salaattina."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-carrot-aioli",
+  "title": "Tulinen porkkana-aioli",
+  "description": "Jokaisen vegaanin tulisi tuntea aioli ja siihen liittyvät kastikkeet. Ne tuovat ruokaan kermaisuutta, jota muuten harvoin löytyy vegaanisesta ruoasta. Avain aiolin herkullisuuteen, joka ei maistu vegaaniselta, on valkosipuli-oliiviöljy-emulsio. Sama periaate pätee hummukseen (tai marinaraan). Muita yleisiä emulgointiaineita ovat glyseriini, soijalesitiini (jota on soijamaidossa, tofussa jne.) ja munankeltuainen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "porkkana",
+   "valkosipuli",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 porkkana",
+   "2 rkl oliiviöljyä + lisää tarpeen mukaan",
+   "ripaus suolaa",
+   "5 valkosipulinkynttä",
+   "1 serranochili tai jalapeño",
+   "1–2 dl appelsiinimehua (tai muuta sitrusmehua)",
+   "1 tl Dijon-sinappia"
+  ],
+  "instructions": [
+   "Leikkaa porkkanat erittäin ohuiksi (eli 1 mm:n suikaleiksi), jotta tehosekoitin pystyy käsittelemään ne.",
+   "Sekoita kaikki ainekset. Aloita sekoittaminen tehosekoittimella.",
+   "Lisää oliiviöljyä sekoittaen, kunnes seos saavuttaa halutun kermaisuuden.",
+   "Mausta makusi mukaan."
+  ],
+  "notes": [
+   "Porkkanat voivat vahingoittaa joitakin tehosekoittimia. On suositeltavaa leikata ne todella pieniksi paloiksi, jotta ne on helpompi sekoittaa."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-cheddar-dip-with-olives",
+  "title": "Lämmin cheddar-oliividippi pitasipseillä",
+  "description": "Mausteinen cheddar-dip oliiveilla on alkupalojen a ja o. Ihmiset jonottavat saadakseen vielä yhden maistiaisen tästä. Siinä on niin paljon kaloreita, että se vie jalat alta. Ole varovainen, kun tarjoat sitä ennen illallista, sillä se on varsin täyttävää. Jotkut syövät sitä niin paljon, etteivät enää jaksa pääruokaa! Tämä sopii erinomaisesti pöydän keskipisteeksi urheilukatselun yhteydessä tai ihanaksi herkuksi juhlissa.",
+  "servings": 8,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "dippi",
+   "juusto",
+   "oliivi",
+   "juhla"
+  ],
+  "ingredients": [
+   "6 pitaleipää",
+   "225 g vahvaa cheddaria, raastettuna",
+   "2,5 dl majoneesia",
+   "85 g mustia oliiveja, renkaina",
+   "110 g säilöttyjä vihreitä chilejä (tai jalapeñoja), kuutioina",
+   "1 pieni tomaatti, kuutioituna",
+   "2 kevätsipulia, 1 cm paloina",
+   "1–2 tl valkosipulijauhetta",
+   "1–2 rkl tulista kastiketta"
+  ],
+  "instructions": [
+   "Leikkaa pitaleivät kolmioiksi, halkaise kolmiot ja asettele pellille.",
+   "Paahda 200 asteessa, kunnes ne ovat kullanruskeita ja rapeita.",
+   "Sekoita juusto, majoneesi, chilipaprikat, puolet oliiveista, valkosipulijauhe ja tulinen kastike.",
+   "Kuumenna mikroaaltouunissa täydellä teholla, kunnes reunat sulavat ja alkavat kuplia, ja sekoita sitten, kunnes seos on tasalaatuista. Toista tätä, kunnes koko kulho on kermainen ja väriltään syvän oranssi.",
+   "Koristele dippi jäljellä olevilla oliiveilla, kevätsipuleilla ja tomaateilla. Tavallisessa koristelutekniikassa jäljellä olevat mustat oliivit, kevätsipulit ja kuutioidut tomaatit asetellaan ympyränmuotoon.",
+   "Tarjoile dippi pitaleipäpalojen kanssa."
+  ],
+  "notes": [
+   "Reseptin määrän lisääminen on helppoa. Hanki vain isompi kulho ja lisää ainesosien määrää.",
+   "ÄLÄ käytä Miracle Whip -kastiketta majoneesin sijaan – se muuttaa dippikastikkeen maun täysin."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-chicken-casserole",
+  "skip": "perustuu amerikkalaisiin säilykekeittoihin, joita ei saa Suomesta"
+ },
+ {
+  "id": "wikibooks-spicy-chicken-cutlets",
+  "title": "Tuliset kanaleikkeet tomaatti-limekastikkeessa",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "tomaatti",
+   "jalapeño",
+   "nopea"
+  ],
+  "ingredients": [
+   "450 g broilerin ohutleikkeitä",
+   "suolaa",
+   "mustapippuria",
+   "½ dl vehnäjauhoja",
+   "3 rkl rypsiöljyä",
+   "1 dl kanaliemiä",
+   "½ dl kuivaa vermuttia tai valkoviiniä (valinnainen)",
+   "1 limen mehu",
+   "2 rkl hienonnettuja marinoituja jalapeñoja",
+   "1 tölkki (400 g) tomaattimurskaa",
+   "1 tl maissitärkkelystä",
+   "1 rkl kylmää vettä",
+   "2 rkl hienonnettua tuoretta korianteria"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 95 asteeseen.",
+   "Mausta kananrintapalat molemmin puolin suolalla ja pippurilla.",
+   "Kaada jauhot lautaselle ja pyöritä kananrinnat niissä niin, että molemmat puolet peittyvät kevyesti jauhoilla.",
+   "Laita sivuun.",
+   "Kuumenna öljy suuressa paistinpannussa keskilämmöllä.",
+   "Lisää rintapalat ja paista 3 minuuttia tai kunnes ne ovat hieman ruskistuneet.",
+   "Käännä ja paista vielä 2–3 minuuttia tai kunnes se on kypsynyt.",
+   "Siirrä kana uuninkestävälle lautaselle ja laita uuniin pysymään lämpimänä.",
+   "Laita tyhjä paistinpannu takaisin liedelle.",
+   "Nosta lämpö korkeaksi ja lisää kanaliemi ja vermutti.",
+   "Kun neste kiehuu, raaputa pannun pohja puhtaaksi puulusikalla.",
+   "Lisää puolet limemehusta ja jalapeñot ja kypsennä 30 sekuntia.",
+   "Lisää tomaatit ja anna kiehua hiljalleen.",
+   "Lisää maissitärkkelys veteen pienessä lasissa ja kaada se sitten paistinpannulle.",
+   "Keitä sekoittaen jatkuvasti, kunnes seos on sakeutunut, noin 2 minuuttia.",
+   "Ota paistinpannu pois liedeltä.",
+   "Sekoita joukkoon jäljellä oleva limemehu.",
+   "Aseta kukin kananrinta lautaselle ja kaada päälle pannukastike.",
+   "Koristele korianterilla."
+  ]
+ }
+]

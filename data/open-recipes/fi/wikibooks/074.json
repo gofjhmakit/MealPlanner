@@ -1,0 +1,834 @@
+[
+ {
+  "id": "wikibooks-lemon-mille-feuille",
+  "title": "Sitruuna-millefeuille",
+  "description": "Mille-feuille (kirjaimellisesti ”tuhat lehteä”) on ranskalainen leivonnainen, joka koostuu monista lehtitaikinakerroksista.",
+  "servings": 8,
+  "totalTimeMin": 20,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leivonnainen",
+   "sitruuna",
+   "lehtitaikina",
+   "ranskalainen"
+  ],
+  "ingredients": [
+   "375 g lehtitaikinaa",
+   "1 muna, vatkatuna",
+   "2 rkl tomusokeria",
+   "3 munankeltuaista",
+   "1 kananmuna",
+   "75 g sokeria",
+   "2,75 dl maitoa",
+   "40 g vehnäjauhoja",
+   "3 isoa sitruunaa, raastettu kuori ja puristettu mehu"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Levitä leivonnaiset kevyesti jauhotetulle pinnalle.",
+   "Leikkaa taikinasta noin 23 × 25 cm suorakaide.",
+   "Kauli se noin 30 × 30 cm neliöksi.",
+   "Siirrä taikina voidellulle pellille.",
+   "Pistele taikinan pintaa haarukalla. Sivele taikinaa kauttaaltaan vatkatulla munalla.",
+   "Aseta uunipelti uunin ylimmälle hyllylle ja paista 12–15 minuuttia, kunnes se on rapea ja kullanruskea.",
+   "Jotta leivonnainen tulisi erityisen rapeaksi, lämmitä uuni korkeimmalle lämpötilalle, siivilöi 1 tl tomusokeria leivonnaisen päälle ja paista sitä hetken grillivastuksen alla.",
+   "Ota grillistä ja leikkaa neliö terävällä veitsellä kolmeen yhtä suureen suikaleeseen.",
+   "Käännä suikaleet ympäri, siivilöi loput tomusokeri niiden päälle ja paista niitä vielä hetki grillissä.",
+   "Jäähdytä ritilällä ja säilytä sitten muovilaatikossa, jossa jokainen kerros on erotettu leivinpaperilla.",
+   "Laita munankeltuaiset ja kokonaiset munat tilavaan kulhoon.",
+   "Vatkaa munat ja hienosokeri sähkövatkaimella, kunnes seos on vaaleaa, paksua ja kermaista (4–5 minuuttia). Lisää maito sekoittaen.",
+   "Siivilöi jauhot seokseen ja vatkaa uudelleen, kunnes seos on tasainen.",
+   "Lisää sitruunan kuori ja mehu.",
+   "Aseta leivonnaisnauha lautaselle ja peitä se puolella sitruunatäytteestä.",
+   "Aseta toinen leivonnaisnauha kermakerroksen päälle ja peitä se jäljellä olevalla sitruunatäytteellä.",
+   "Lopuksi peitä viimeisellä leivonnaisnauhallla."
+  ],
+  "notes": [
+   "Alkuperäisen ohjeen sitruunatäyte on keittämätön; kuumenna kreemi kattilassa sekoittaen paksuksi ennen kokoamista."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-pickle-i",
+  "title": "Intialainen sitruunapikkelsi",
+  "description": "Sitruunapikkelssi on perinteinen intialaisen ruoan lisuke. Monissa intialaisissa pikkelssireseptissä käytetään öljyä säilyvyyden parantamiseksi, mutta tässä reseptissä ei käytetä öljyä.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "category": "Säilykkeet",
+  "tags": [
+   "intialainen",
+   "sitruuna",
+   "pikkelsi",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "12 pientä tai 6 isoa sitruunaa (mieluiten ohutkuorisia)",
+   "1–2 sitruunan mehu",
+   "1 dl suolaa",
+   "½ dl chilijauhetta",
+   "1 dl sokeria",
+   "3 tl kurkumajauhetta",
+   "1 tl sarviapilan siemeniä",
+   "1 tl mustia sinapinsiemeniä",
+   "¼ tl asafoetidaa"
+  ],
+  "instructions": [
+   "Pese sitruunat ja kuivaa ne huolellisesti niin, ettei niihin jää vettä. Leikkaa varret ja mahdolliset epämuodostumat pois.",
+   "Leikkaa sitruunat noin 2 cm:n (2 cm) kokoisiksi paloiksi ja laita ne kulhoon.",
+   "Paahda fenugreekia, mustaa sinappia ja asafoetidaa yhdessä pannulla keskilämmöllä noin 5 minuuttia. Älä polta niitä!",
+   "Jauha paahdetut mausteet jauhimessa tai morttelissa.",
+   "Lisää jauhetut mausteet, kurkumajauhe, suola, sokeri ja chilijauhe kulhoon ja sekoita hyvin.",
+   "Täytä noin 2 litran lasipurkki (tai useampi pienempi) ja sulje.",
+   "Anna kypsyä aurinkoisessa ikkunassa tai lämpimässä 2–3 viikkoa, ravistellen päivittäin."
+  ],
+  "notes": [
+   "Älä huoli reseptissä mainitusta sokerin määrästä, sillä se käy ajan myötä pois.",
+   "Asafoetida-jauheeseen lisätään yleensä vehnäjauhoa, jotta se valuu paremmin. Voit jättää tämän ainesosan pois, jos haluat valmistaa ruoan gluteenittomana."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-pickle-ii",
+  "skip": "lähes sama kuin sitruunapikkelsi I"
+ },
+ {
+  "id": "wikibooks-lemon-poppy-seed-muffins-glazed",
+  "title": "Sitruuna-unikonsiemenmuffinit kuorrutteella",
+  "description": "Tämä herkullinen muffiniresepti on herkku erityiseen aamuun.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 24,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "muffinit",
+   "sitruuna",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 dl maitoa",
+   "½ dl rypsiöljyä",
+   "1,5 dl sitruunajogurttia",
+   "1 kananmuna",
+   "4,5 dl vehnäjauhoja",
+   "½ dl sokeria",
+   "2 rkl unikonsiemeniä",
+   "1 rkl sitruunankuorta",
+   "¼ tl sitruuna-aromia",
+   "2½ tl leivinjauhetta",
+   "½ tl ruokasoodaa",
+   "½ tl suolaa",
+   "1 dl tomusokeria",
+   "2 ½ tl sitruunamehua"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Voitele 12-kuppinen muffinssivuoka.",
+   "Siivilöi jauhot, sokeri, unikonsiemenet, sitruunankuori, sitruuna-uute, leivinjauhe ja suola keskikokoiseen kulhoon.",
+   "Sekoita erillisessä kulhossa maito, öljy, sitruunajogurtti ja muna.",
+   "Sekoita kuivat ainekset märkään seokseen kolmessa vaiheessa. Varo sekoittamasta taikinaa liikaa.",
+   "Jaa taikina muffinivuokiin.",
+   "Paista 16 minuuttia tai kunnes muffinit ovat kullanruskeita. Muffinit tuntuvat joustavilta kosketettaessa, ja niihin pistetty hammastikku tulee ulos puhtaana.",
+   "Kun muffinit paistuvat, valmista kuorrutus: sekoita tomusokeria ja sitruunamehua, kunnes seos on tasainen.",
+   "Kastele muffinit kuorrutteella.",
+   "Anna jäähtyä ritilällä 10 minuuttia ja ota pois muffinssivuoasta."
+  ],
+  "notes": [
+   "⅛ cup (30 g) viipaloituja manteleita voidaan ripotella päälle lasituksen jälkeen koristeeksi.",
+   "Tuoreiden hedelmien ja jogurtin parfait: Leikkaa muffinit kahtia ja kerrosta niihin tuoreita marjoja, jogurttia ja ripaus hunajaa – näin saat virkistävän aamiaisen."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-poppy-seed-pancakes",
+  "skip": "lähes sama kuin sitruuna-mustikkalettuset"
+ },
+ {
+  "id": "wikibooks-lemon-pound-cake",
+  "title": "Sitruunainen pound cake",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kakku",
+   "sitruuna",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 rkl pehmennettyä voita pannun voiteluun",
+   "1 rkl jauhoja vuoan pölyttämiseen",
+   "3,5 dl vehnäjauhoja (mieluiten kakkujauhoja)",
+   "1 tl leivinjauhetta",
+   "½ tl suolaa",
+   "225 g voita, sulatettuna",
+   "3 dl valkoista sokeria",
+   "2 rkl raastettua sitruunankuorta",
+   "2 tl sitruunamehua",
+   "4 kananmunaa",
+   "1½ tl vaniljauutetta",
+   "1 dl sokeria",
+   "½ dl sitruunamehua siirappiin"
+  ],
+  "instructions": [
+   "Aseta uuniritilä keskelle uunia ja lämmitä uuni 175 asteeseen.",
+   "Voitele noin 1,5 litran leipävuoka ja jauhota.",
+   "Sekoita keskikokoisessa kulhossa jauhot, leivinjauhe ja suola; aseta sivuun.",
+   "Sulata voi ja anna jäähtyä hiukan.",
+   "Vatkaa sokeri, sitruunankuori, munat ja sitruunamehu kuohkeaksi ja vatkaa sulatettu voi joukkoon ohuena nauhana.",
+   "Siivilöi jauhosekoitus taikinan päälle kolmessa erässä, sekoittaen varovasti jokaisen lisäyksen jälkeen.",
+   "Kaada taikina valmisteltuun vuokaan ja paista 15 minuuttia.",
+   "Laske lämpö 160 asteeseen ja paista vielä noin 35 minuuttia, kunnes pinta on syvän kullanruskea ja tikku tulee puhtaana.",
+   "Jäähdytä vuoassa 10 minuuttia ja kumoa ritilälle.",
+   "Kun kakku jäähtyy, kiehauta sokeri ja sitruunamehu pienessä, ei-reaktiivisessa kattilassa sekoittaen silloin tällöin, jotta sokeri liukenee.",
+   "Vähennä lämpöä matalalle ja anna kiehua hiljalleen, kunnes seos on hieman sakeutunut, noin 2 minuuttia.",
+   "Levitä kuorrutus kakun päälle siveltimellä."
+  ],
+  "notes": [
+   "Jäähtyessään kakku voidaan kääriä tiiviisti muovikelmuun ja säilyttää huoneenlämmössä enintään 5 päivää.",
+   "Sitruuna-unikonsiemenpundikakku: Noudata yllä olevaa reseptiä vaiheeseen 2 asti. Sekoita 1 rkl jauhoja ja ⅔ kuppia unikonsiemeniä pienessä kulhossa; aseta sivuun. Jatka reseptiä vaiheesta 3 alkaen ja sekoita unikonsiemenseos taikinaan, kun jauhot on lisätty."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-puddings-baked",
+  "title": "Sitruunainen lehtitaikinavanukas",
+  "description": "Tämä resepti on mukautettu julkisen omaisuuden piiriin kuuluvasta keittokirjasta Seventy-Five Receipts for Pastry, Cakes, and Sweetmeats.[1]",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "vanukas",
+   "sitruuna",
+   "brittiläinen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 ison sitruunan kuori ja mehu",
+   "3 kananmunaa, vatkatut",
+   "1 dl sokeria + pinnalle",
+   "125 g pehmeää voita + vuokaan",
+   "1 dl valkoviiniä",
+   "½ dl konjakkia",
+   "1 tl ruusuvettä",
+   "1 levy (n. 275 g) lehtitaikinaa",
+   "vehnäjauhoja kaulimiseen"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 180 asteeseen.",
+   "Vatkaa voi ja sokeri sekoituskulhossa vaaleaksi ja kuohkeaksi.",
+   "Sekoita munat, sitten viini ja konjakki.",
+   "Sekoita joukkoon sitruunan kuori ja mehu.",
+   "Voitele uuninkestävä kulho. Rullaa leivonnaiset auki jauhotetulle pinnalle.",
+   "Leikkaa ympyrä, joka on juuri tarpeeksi suuri peittämään kulhon pohjan, ja vuoraa kulho taikinalla.",
+   "Kaada seos astiaan.",
+   "Paista 30 minuuttia, kunnes pinta on vaaleanruskea.",
+   "Ota vanukas uunista ja anna sen jäähtyä.",
+   "Siivilöi vanukkaan päälle hieman lisää sokeria."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-rice",
+  "title": "Sitruunariisi (chitranna)",
+  "description": "Sitruunariisi on Etelä-Intian rannikkovaltion Tamil Nadun erikoisuus.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "intialainen",
+   "sitruuna",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "9,5 dl keitettyä valkoista riisiä",
+   "1 tl sinapinsiemeniä",
+   "3 rkl seesamiöljyä",
+   "2 rkl chana dalia (halkaistuja kikherneitä)",
+   "2 rkl maapähkinöitä",
+   "¼ tl asafoetidaa",
+   "3–4 kuivattua punaista chiliä, paloiteltuna",
+   "5 curryn lehteä",
+   "2 sitruunan mehu",
+   "1 tl kurkumajauhetta",
+   "2 tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna öljy pannulla.",
+   "Lisää maapähkinät ja halkaistut herneet ja paista, kunnes ne ovat kullanruskeita.",
+   "Lisää sinapinsiemeniä, asafoetidaa, currylehtiä ja punaisia chiliä. Odota, kunnes sinapinsiemenet alkavat poksua.",
+   "Sekoita joukkoon hieman suolaa, kurkumajauhetta ja sitruunatiivistettä.",
+   "Anna kiehua ja haihduta.",
+   "Ota pannu liedeltä, lisää se riisiin ja sekoita hyvin."
+  ],
+  "notes": [
+   "Lisää raakaa riisiä keittämistä varten hieman öljyä. Näin riisi saa paremman rakenteen.",
+   "Tarjoile perunalastujen tai suolakurkkujen kanssa.",
+   "1 tl seesaminsiemeniä voidaan paahtaa ja lisätä makua antamaan."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-rosemary-pork-tenderloin",
+  "title": "Sitruuna-rosmariiniporsaanfilee",
+  "servings": 6,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "uuniruoka",
+   "yrtit",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 keskikokoinen sipuli, hienonnettuna",
+   "2 rkl oliivi- tai rypsiöljyä",
+   "1 rkl sitruunamehua",
+   "1 tl hienonnettua tuoretta rosmariinia",
+   "1 tl hienonnettua tuoretta timjamia",
+   "1 tl raastettua sitruunankuorta",
+   "1 valkosipulinkynsi, hienonnettuna",
+   "½ tl suolaa",
+   "½ tl mustapippuria",
+   "2 porsaan sisäfilettä (yht. 900 g)"
+  ],
+  "instructions": [
+   "Sekoita hienonnettu sipuli, öljy, sitruunamehu, rosmariini, timjami, sitruunankuori, hienonnettu valkosipuli, suola ja pippuri. Hiero seos fileiden pintaan.",
+   "Anna sisäfileiden marinoitua jääkaapissa niin kauan kuin haluat, tai aloita ruoanlaitto heti.",
+   "Aseta liha ritilälle matalaan paistovuokaan.",
+   "Paahda 200 asteessa, kunnes sisälämpö on 65 astetta (noin 25 minuuttia).",
+   "Peitä foliolla ja anna seistä 10 minuuttia ennen leikkaamista."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-sharbat",
+  "title": "Nimbu sharbat (intialainen suolainen sitruunajuoma)",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "intialainen",
+   "sitruuna",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl vettä",
+   "3 rkl tuoretta sitruunamehua",
+   "1 tl sokeria",
+   "1 ripaus suolaa",
+   "ripaus mustapippuria",
+   "ripaus mustasuolaa (kala namak)"
+  ],
+  "instructions": [
+   "Sekoita sitruunamehu ja vesi.",
+   "Lisää sokeria ja suolaa.",
+   "Lisää mustapippuria ja mustaa suolaa maun mukaan.",
+   "Sekoita hyvin ja tarjoile jäiden kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-sponge",
+  "title": "Sitruunainen kohokasvanukas (lemon sponge)",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "sitruuna",
+   "vanukas",
+   "leivonta"
+  ],
+  "ingredients": [
+   "2 dl sokeria",
+   "3 rkl vehnäjauhoja",
+   "1 sitruuna, raastettu kuori ja puristettu mehu",
+   "2 kananmunaa, keltuaiset ja valkuaiset erotettuina",
+   "1 rkl voita",
+   "1 ripaus suolaa",
+   "2,5 dl maitoa"
+  ],
+  "instructions": [
+   "Vatkaa munankeltuaiset kevyesti.",
+   "Sekoita sokeri ja jauhot keskenään, lisää sitten sitruunamehu ja -kuori, keltuaiset, voi ja suola.",
+   "Lisää maito ja sekoita hyvin.",
+   "Vatkaa munanvalkuaiset kovaksi vaahdoksi ja sekoita ne ensimmäiseen seokseen.",
+   "Kaada taikina vaniljakastike- tai ramekin-vuokiin.",
+   "Aseta kupit kuumavesialtaaseen ja paista 175 asteeseen lämpötilassa noin 40 minuuttia."
+  ],
+  "notes": [
+   "Kakku voidaan paistaa myös piirakkakuoressa."
+  ]
+ },
+ {
+  "id": "wikibooks-lemon-squares",
+  "title": "Sitruunapalat",
+  "description": "Ihana neliönmuotoinen resepti, jossa maistuu sitruuna.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leivonnainen",
+   "sitruuna",
+   "leivonta"
+  ],
+  "ingredients": [
+   "Pohja:",
+   "5 dl vehnäjauhoja",
+   "1 dl tomusokeria",
+   "225 g pehmeää voita tai margariinia",
+   "Täyte:",
+   "4 kananmunaa",
+   "1 dl sitruunamehua",
+   "1 rkl raastettua sitruunankuorta",
+   "4 dl sokeria",
+   "½ dl vehnäjauhoja",
+   "1 tl leivinjauhetta",
+   "tomusokeria pinnalle"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja sokeri keskikokoisessa sekoituskulhossa.",
+   "Sekoita margariinia, kunnes seos muistuttaa hienoja muruja.",
+   "Painele tiiviisti voideltuun noin 23 × 23 cm vuokaan.",
+   "Paista 175 asteessa 20–30 minuuttia vaalean kullanruskeaksi.",
+   "Vatkaa munat suuressa kulhossa vaahtoisiksi. Lisää sitruunamehu ja -kuori sekoittaen.",
+   "Sekoita toisessa kulhossa sokeri, jauhot ja leivinjauhe.",
+   "Lisää kuiva seos märkään seokseen. Sekoita, kunnes seos on juuri ja juuri kostunut.",
+   "Levitä tasaisesti kuumalle pohjalle ja laita takaisin uuniin paistumaan 20–25 minuutiksi tai kunnes se on jähmettynyt.",
+   "Anna neliöiden jäähtyä ennen kuin otat ne vuoasta ja leikkaat ne. Siivilöi päälle tomusokeria."
+  ]
+ },
+ {
+  "id": "wikibooks-lemonade",
+  "title": "Limonadi",
+  "description": "Limonadi on makeutettu juoma, joka valmistetaan sitruunoista, sokerista ja vedestä. Se on suosittu Yhdysvalloissa keväällä ja kesällä, jolloin sitä yleensä tarjoillaan jäähdytettynä jäiden kera. Joissakin maissa sanaa ”limonadi” käytetään myös kuvaamaan mitä tahansa kirkasta hiilihappopitoista juomaa; toisissa maissa se tarkoittaa mitä tahansa hedelmämaustettua virvoitusjuomaa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "sitruuna",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl tuoretta sitruunamehua",
+   "1–2 dl sokeria",
+   "1,2–1,5 l vettä"
+  ],
+  "instructions": [
+   "Sekoita sitruunamehu ja sokeri kannussa tai kulhossa. Sekoita, kunnes sokeri on liuennut.",
+   "Sekoita vesi joukkoon.",
+   "Jäähdytä ja/tai tarjoile jäiden kera."
+  ],
+  "notes": [
+   "Turbinado-sokerin käyttö antaa ruoalle kullanruskean värin ja miedon karamellin maun.",
+   "Koska sokeri liukenee helpommin lämpimään nesteeseen, kannattaa lämmittää osa vedestä ja liuottaa sokeri siihen ennen kuin sekoitat sen muihin aineksiin.",
+   "Hard lemonade -juomassa limonadiin lisätään alkoholia, kuten tequilaa, giniä tai vodkaa.",
+   "Värin ja maun lisäämiseksi voidaan lisätä erilaisia hedelmiä, kuten mansikoita ja vadelmia. Pieni määrä punajuurimehua tuottaa vaaleanpunaisen limonadin, jonka maku ei juurikaan muutu.",
+   "Yrtit, kuten minttu, kurkkuyrtti, laventeli ja sitruunaverbena, voivat muuttaa juoman tuoksua.",
+   "Kun mukaan lisätään murskatut ja viipaloidut sitruunankuoret, maku on raikkaampi ja tuoksu voimakkaampi.",
+   "Voit käyttää myös muita sitrushedelmiä, kuten limettiä, appelsiinia ja greippiä. Sokerin ja veden määrää voi säätää maun mukaan. Amerikkalaisessa kielenkäytössä nämä eivät ole teknisesti ottaen limonadeja, vaan limeadeja, orangeadeja jne.",
+   "Sokeri voidaan korvata muilla makeutusaineilla."
+  ]
+ },
+ {
+  "id": "wikibooks-lemonade-extra-sour",
+  "skip": "lähes sama kuin limonadi"
+ },
+ {
+  "id": "wikibooks-lentil-and-sausage-stew",
+  "title": "Saksalainen linssipata makkaroilla",
+  "description": "Tämä linssi- ja makkarapata on tarkoitettu syötäväksi spätzlen kanssa. Resepti on hieman muokattu; perinteisessä versiossa ei ole tomaattia eikä hunajaa. Mutta kuten monien ”kansallisruokien” kohdalla, mielipiteitä on erilaisia. Kokeile erilaisia muunnelmia, kunnes löydät oman makusi; perinteisen maun kannalta tärkeimpiä ainesosia ovat etikka ja laakerinlehdet.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "makkara",
+   "saksalainen",
+   "pata"
+  ],
+  "ingredients": [
+   "250 grammaa kuivia ruskeita linssejä",
+   "1 l vettä",
+   "1 porkkana, kuutioituna",
+   "1 sipuli, hienonnettuna",
+   "2–3 perunaa, kuorittuna ja kuutioituna",
+   "2 valkosipulinkynttä",
+   "4 nakkia tai wienerinmakkaraa",
+   "200 g savustettua porsaankylkeä",
+   "1 laakerinlehti",
+   "40 grammaa voita",
+   "40 grammaa jauhoja",
+   "½ litraa vettä",
+   "1 rkl tomaattipyreetä",
+   "2 rkl punaviinietikkaa",
+   "1 tl hunajaa",
+   "noin 1 tl suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Pese linssit siivilässä ja keitä niitä miedolla lämmöllä 1 litrassa vettä 40–50 minuuttia.",
+   "Noin 20 minuuttia ennen kypsymisen loppua lisää porkkana, sipuli, perunat, valkosipuli, makkarat, laakerinlehti ja siankylki.",
+   "Kun ruoka on valmis, aseta kattila sivuun ja pidä se lämpimänä.",
+   "Sulata voi pienessä kattilassa, lisää jauhot ja paista varovasti ruskeaksi sekoittaen koko ajan.",
+   "Lisää vähitellen 3,3 dl vettä sekoittaen ja kiehauta.",
+   "Lisää tomaattipyree, etikka ja hunaja. Mausta suolalla ja pippurilla maun mukaan.",
+   "Sekoita kastike linsseihin, sekoita hyvin ja pidä lämpimänä."
+  ],
+  "notes": [
+   "Ehkä ajattelet aluksi: ”Miten etikka voi sopia tähän muhennokseen?”; tulet yllättymään siitä, kuinka hyvin se sopii, joten älä säästele sitä. Voit myös tarjoilla lisää etikkaa aterian yhteydessä.",
+   "Poista laakerinlehdet ennen syömistä.",
+   "Kuten monet muutkin muhennokset, linssimuhennos kannattaa lämmittää uudelleen, ja se maistuu paremmalta seuraavana päivänä."
+  ]
+ },
+ {
+  "id": "wikibooks-lentil-burgers",
+  "title": "Linssipihvit",
+  "description": "Alun perin julkaistu Foodistassa käyttäjän dad1337 toimesta. Foodistan reseptit julkaistaan CC-BY-lisenssillä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "kasvispihvit",
+   "kasvis"
+  ],
+  "ingredients": [
+   "3,5 dl kuivattuja linssejä, lajiteltuina",
+   "noin 9 dl vettä tai kasvislientä",
+   "1 tl valkosipulisuolaa",
+   "1 rkl voita",
+   "1 tl oliiviöljyä",
+   "1 keskikokoinen tai suuri porkkana, hienoksi kuutioituna",
+   "1 varsiselleri, hienoksi kuutioituna",
+   "2 rkl sipulia, hienonnettuna",
+   "2 rkl kuivattua persiljaa",
+   "1 rkl worcestershirekastiketta",
+   "2 kananmunaa",
+   "noin 1 dl korppujauhoja",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Laita linssit suureen kattilaan ja lisää vettä tai liemiä niin, että se peittää linssit vähintään 5 cm (tarkista käyttämäsi linssityypin kypsennysohjeet, sillä jotkut linssit saattavat vaatia liottamista ennen kypsentämistä).",
+   "Keitä linssejä noin niin kauan kuin pakkauksessa on suositeltu (yleensä 30–45 minuuttia kiehuvassa vedessä).",
+   "Laita keitetyt linssit hienoon siivilään ja anna niiden valua ja jäähtyä.",
+   "Paista porkkanaa ja selleriä voissa ja öljyssä keskilämmöllä, kunnes ne pehmenevät (noin 10 minuuttia).",
+   "Juuri ennen kuin porkkana ja selleri ovat valmiita, lisää kuivattu sipuli ja persilja.",
+   "Laita valutetut ja jäähtyneet linssit suureen kulhoon, lisää porkkanaseos ja soseuta kaikki perunasoseuttimella. Älä soseuta liikaa; osa linsseistä voi jäädä kokonaisiksi.",
+   "Maista ja mausta tarvittaessa.",
+   "Lisää munat ja noin ½ dl leivänmuruja ja sekoita, jotta kaikki ainekset yhdistyvät. Lisää leivänmuruja, kunnes seos on hieman kosteaa, mutta ei märkää.",
+   "Muodosta seoksesta pihvejä. Aseta muodostetut pihvit lautaselle ja laita niiden väliin vahapaperia. Peitä ja säilytä jääkaapissa vähintään 1 tunti.",
+   "Valmistukseen sopii parhaiten joko suuri paistinpannu tai grillin paistolevy – nämä hampurilaiset eivät onnistu hyvin grilliritilällä. Paista keskilämmöllä tai hieman korkeammalla lämmöllä, kunnes hampurilaiset ovat lämmenneet läpikotaisin ja niiden pinnalle on muodostunut kaunis kuori. Hampurilaisten paksuudesta riippuen tämä kestää 3–7 minuuttia kummaltakin puolelta.",
+   "Tarjoiluun voit laittaa täytteen sämpylään tavallisten lisukkeiden kera tai antaa mielikuvituksesi lentää ja lisätä mitä ikinä keksitkään (valkosipuli-aiolia, paahdettuja paprikoita jne.). Voit myös tarjoilla ilman sämpylää grillatun ananaksen, barbequekastikkeen jne. kanssa – vaihtoehtoja on loputtomasti."
+  ],
+  "notes": [
+   "Alkuperäisessä 1 rkl valkosipulisuolaa; määrä on vähennetty."
+  ]
+ },
+ {
+  "id": "wikibooks-lentil-rice-loaf",
+  "title": "Linssi-riisimureke",
+  "description": "Linssi-riisileipä ei ole varsinaisesti lihamurekkeen jäljitelmä, mutta se on runsas versio kasvisruokaklassikosta.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "riisi",
+   "uuniruoka",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 dl linssejä",
+   "6 dl kasvislientä",
+   "1 laakerinlehti",
+   "1 dl tummaa riisiä",
+   "1 muna, vatkatuna",
+   "2 rkl maustettuja korppujauhoja",
+   "½ hienonnettua sipulia",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Keitä linssit ja laakerinlehti 3,5 dl:ssa lientä kannen alla noin 40 minuuttia.",
+   "Keitä riisi 2,5 dl:ssa lientä.",
+   "Kaada noin kolme neljäsosaa riisistä kulhoon yhdessä linssien kanssa. Lisää hieman linssien nestettä – ehkä 2–3 rkl, mutta älä liikaa.",
+   "Lisää muna, sipuli, oliiviöljy ja leivänmuruja linssi-riisiseokseen. Säädä riisin ja linssien suhdetta lisäämällä riisiä halutessasi. Sekoita leivänmuruja seokseen, kunnes seos pysyy koossa.",
+   "Kaada seos pieneen, rasvattuun uunivuokaan ja paista 175 asteessa 35 minuuttia tai kunnes reunoille muodostuu kuori.",
+   "Anna jäähtyä vähintään 10 minuuttia ennen leikkaamista ja tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-lentil-soup",
+  "title": "Punalinssikeitto",
+  "servings": 4,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "linssit",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1–2 rkl oliiviöljyä",
+   "1 sipuli, kuutioituna",
+   "2 porkkanaa, kuutioituna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "225 g kuivia punaisia linssejä",
+   "1,5 l vettä tai kasvislientä",
+   "1 laakerinlehti",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Huuhdo linssit ja poista mahdolliset roskat.",
+   "Kuumenna oliiviöljy suuressa pannussa keskilämmöllä. Kun öljy on kuuma, lisää sipuli ja porkkanat. Paista muutama minuutti, kunnes vihannekset ovat alkaneet pehmetä, ja lisää sitten valkosipuli.",
+   "Lisää linssit, laakerinlehti ja vesi kattilaan. Hauduta miedolla tai keskilämmöllä 20–30 minuuttia, kunnes linssit ovat pehmenneet.",
+   "Tarjoile kuumana."
+  ],
+  "notes": [
+   "Paistettaviin vihanneksiin voi lisätä yrttejä ja/tai mausteita, kuten kuminaa, timjamia, oreganoa ja/tai punaisen paprikan hiutaleita.",
+   "Mausteista kastiketta voi lisätä maun mukaan. Tuorepuristettu sitruunamehu on mukava lisä, mieluiten juuri ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-lentil-barley-and-tomato-soup",
+  "title": "Linssi-ohra-tomaattikeitto",
+  "description": "Alexandra-keitto on soseutettu vihanneskeitto, joka sisältää linssejä, ohraa ja tomaattia. Se on lämmittävä ateria.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "linssit",
+   "ohra",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2,5 dl linssejä",
+   "2 rkl ohrasuurimoita",
+   "1 rkl (15 ml) voita",
+   "1 sipuli, kuutioituna",
+   "7 dl vettä",
+   "2 tomaattia, kuorittuna, siemenet poistettuna ja kuutioituna",
+   "1 tl suolaa",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Liota linssejä ja ohraa yhdessä yön yli ja valuta sitten vesi pois. Tämä vaihe on vapaaehtoinen.",
+   "Paista sipuli voissa, kunnes se pehmenee.",
+   "Lisää linssit, ohra ja vesi.",
+   "Keitä, kunnes linssit ovat pehmeitä – tämä kestää kauemmin, jos linssejä ei ole liotettu.",
+   "Lisää tomaatit, kun keitto on melkein valmis.",
+   "Soseuta ruoanvalmistuskoneella, tehosekoittimella tai monitoimikoneella.",
+   "Lämmitä uudelleen ja mausta maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-lentil-potato-and-tomato-curry",
+  "title": "Linssi-peruna-tomaatticurry",
+  "description": "Tämä resepti tuottaa terveellisen, edullisen ja helpon muhennoksen, jossa on monipuolinen maku. Resepti on melko mieto, mutta voit lisätä cayennepippuria maun mukaan, jos haluat lisätä tulisuutta. Ruoka sopii erinomaisesti chapatien tai riisin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "peruna",
+   "curry",
+   "intialainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl punaisia halkaistuja linssejä",
+   "9,5 dl vettä",
+   "1 tl suolaa",
+   "1 laakerinlehti",
+   "1 rkl margariinia tai öljyä",
+   "1 rkl oliiviöljyä",
+   "2 isoa perunaa, leikattuina 1 cm kuutioiksi",
+   "1 tl kurkumaa",
+   "½ tl cayenne-pippuria",
+   "2 tlk (á 400 g) tomaattikuutioita",
+   "2 tl garam masalaa",
+   "1 tl hunajaa tai sokeria"
+  ],
+  "instructions": [
+   "Sekoita vesi, linssit, suola ja laakerinlehti isossa kattilassa ja keitä.",
+   "Sekoita perunat, kurkuma, cayennepippuri ja oliiviöljy suuressa paistinpannussa. Paista 5–10 minuuttia.",
+   "Lisää perunaseos linssien kanssa kattilaan yhdessä kaikkien muiden aineksien kanssa. Keitä, kunnes perunat ovat pehmeitä ja mureita.",
+   "Poista laakerinlehti ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-lentils-and-rice-mjeddrah",
+  "title": "Mujaddara (linssit ja riisi)",
+  "description": "Mjeddrah on täyteläinen linssi- ja riisipata, joka on libanonilaisen ruokavalion perusruoka.",
+  "servings": 3,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "linssit",
+   "riisi",
+   "lähi-itä",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 dl ruskeita linssejä, liotettuina vähintään tunnin ajan",
+   "1 dl sipulia, viipaloituna",
+   "½ porkkana ja ½ varsiselleri, hienonnettuna (valinnainen)",
+   "2 rkl oliiviöljyä",
+   "1 dl tummaa pitkäjyväistä riisiä, huuhdottuna",
+   "7 dl vettä",
+   "½ tl juustokuminaa",
+   "1 valkosipulinkynsi, hienonnettuna (valinnainen)",
+   "1 kuivattu chili (valinnainen)",
+   "½ kanelitankoa (valinnainen)",
+   "3 kardemummakapselia (valinnainen)",
+   "1 tl suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Lajittele linssit ja poista niistä mahdolliset kivet.",
+   "Paista sipulia ja muita vihanneksia oliiviöljyssä minuutin tai kahden ajan.",
+   "Halutessasi voit paistaa riisiä hetken, mutta älä anna sen palaa.",
+   "Lisää linssit, riisi, vesi ja mausteet. Kiehauta, peitä ja hauduta miedolla lämmöllä noin 45 minuuttia, kunnes riisi ja linssit ovat kypsiä.",
+   "Mausta suolalla ja pippurilla."
+  ],
+  "notes": [
+   "Pieni määrä parmesaanijuustoa maistuu hyvältä ripoteltuna koristeeksi.",
+   "Paista hienonnettua sipulia ja valkosipulia nopeasti öljyssä, kunnes ne ruskistuvat (lievä paahtuminen on hyvä asia), sekoita sitten ne luonnonjogurttiin ja käytä koristeena."
+  ]
+ },
+ {
+  "id": "wikibooks-leongs-cashew-chicken",
+  "title": "Springfieldin cashew-kana",
+  "description": "Cashew-kana keksittiin Leong's Tea House -kahvilassa Springfieldissä, Missourissa. Leongilla oli vaikeuksia saada kiinalaista ruokaa suosituksi alueella, joten hän kehitti ruokalajin Ozark-vuoristossa yleisten paistettujen ruokien pohjalta. Ruokalaji ei ole varsinaisesti kiinalainen, vaan pikemminkin amerikkalainen ruokalaji, jossa on \"kiinalainen\" teema.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "amerikkalais-kiinalainen",
+   "rasvassa paistettu",
+   "pähkinät"
+  ],
+  "ingredients": [
+   "2 keskikokoista kananrintaa",
+   "3 kananmunaa",
+   "2,5 dl maitoa",
+   "2,5 dl yleiskäyttöjauhoja",
+   "1 tl suolaa",
+   "1 dl cashewpähkinöitä",
+   "3 kevätsipulia, hienonnettuna",
+   "4 dl kanalientä",
+   "1 rkl maissitärkkelystä",
+   "2 rkl kylmää vettä",
+   "2 rkl soijakastiketta",
+   "2 rkl osterikastiketta",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Poista luut ja leikkaa kananrinnat suupaloiksi.",
+   "Vatkaa munat ja sekoita ne maitoon.",
+   "Sekoita jauhot ja suola.",
+   "Kasta rintapalat muna-maito-seokseen ja sitten jauhoihin.",
+   "Paista kanaa friteerausöljyssä, kunnes se on kullanruskea ja kypsä.",
+   "Kastikkeen valmistamiseksi kuumenna liemi kattilassa matalalla tai keskilämmöllä.",
+   "Sekoita maissitärkkelys ja kylmä vesi tasaiseksi liuokseksi. Aseta sivuun.",
+   "Lisää osterikastike ja soijakastike liemeen. Jatka kastikkeen lämmittämistä.",
+   "Lisää maissitärkkelysliuosta tarpeen mukaan, kunnes kastike on saavuttanut halutun paksuuden.",
+   "Tarjoile kana paistetun riisin päällä, kaada päälle runsaasti kastiketta ja koristele cashewpähkinöillä ja kevätsipulilla."
+  ]
+ },
+ {
+  "id": "wikibooks-lettuce-soup",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-liberian-butter-rice",
+  "title": "Liberialainen voiriisi",
+  "description": "Liberialainen voiriisi on maukas ja lohduttava ruokalaji, joka on suosittu perusruoka liberialaisessa keittiössä. Aromikkaista raaka-aineista valmistettu ja voissa kypsennetty riisiruoka on makultaan täyteläinen ja herkullinen, ja se sopii hyvin monenlaisten proteiinien ja vihannesten kanssa. Se on monipuolinen lisuke, jota voi tarjoilla joko yksinään tai muiden liberialaisten ruokien lisäkkeenä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "liberialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl pitkäjyväistä riisiä",
+   "9,5 dl kana- tai kasvislientä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "2 rkl voita",
+   "1 laakerinlehti",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "persiljaa tai korianteria"
+  ],
+  "instructions": [
+   "Huuhtele riisi huolellisesti kylmällä vedellä, kunnes vesi on kirkasta. Valuta riisi ja aseta se sivuun.",
+   "Sulata voi keskilämmöllä suuressa kattilassa.",
+   "Lisää hienonnettu sipuli ja valkosipulimurska kattilaan. Paista, kunnes sipuli muuttuu läpikuultavaksi ja valkosipuli tuoksuu.",
+   "Sekoita valutettu riisi joukkoon ja sekoita se hyvin voiseoksen kanssa.",
+   "Kaada liemi kattilaan ja lisää laakerinlehti. Mausta suolalla ja mustapippurilla maun mukaan. Sekoita hyvin.",
+   "Kiehauta seos ja vähennä sitten lämpöä matalalle. Peitä kattila kannella ja anna riisin hautua noin 15–20 minuuttia tai kunnes kaikki neste on imeytynyt ja riisi on kypsää ja kuohkeaa.",
+   "Ota kattila pois liedeltä ja anna riisin levätä muutama minuutti ennen kuin sekoitat sen haarukalla.",
+   "Koristele hienonnetulla tuoreella persiljalla tai korianterilla ennen tarjoilua."
+  ],
+  "notes": [
+   "Rikkaamman maun saat käyttämällä kasvisliemen sijaan kanaliemiä.",
+   "Voit lisätä riisiin kuutioituja vihanneksia, kuten porkkanaa tai herneitä, jotta saat lisää makua ja väriä.",
+   "Jäljelle jäänyt riisi voidaan säilyttää ilmatiiviissä astiassa jääkaapissa enintään 3 päivää. Lämmitä ennen tarjoilua.",
+   "Liberialainen voiriisi sopii erinomaisesti monien proteiinien ja vihannesten kanssa, mikä tekee siitä monipuolisen ja maukkaan lisän aterioihisi."
+  ]
+ },
+ {
+  "id": "wikibooks-liberian-cassava-leaf-soup",
+  "title": "Liberialainen maniokinlehtikeitto",
+  "description": "Liberialainen maniokilehtikeitto on herkullinen ja runsas ruokalaji, jota nautitaan laajalti Liberiassa. Maniokilehdistä, lihasta ja erilaisista vihanneksista valmistettu keitto on maukas ja ravitseva ateria, joka sopii erinomaisesti juhliin ja erityistilaisuuksiin.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "liberialainen",
+   "maniokki",
+   "tulinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g maniokinlehtiä (tuore tai pakaste)",
+   "450 g naudanlihaa, kanaa tai kalaa, suupaloina",
+   "1 sipuli, hienonnettuna",
+   "2–3 valkosipulinkynttä, hienonnettuna",
+   "3 cm pala inkivääriä, raastettuna",
+   "1–2 scotch bonnet -chiliä, hienonnettuna",
+   "2 rkl palmuöljyä",
+   "1 l kanalientä tai vettä",
+   "1 bataatti, kuorittu ja kuutioitu",
+   "1 plantain (keittobanaani), viipaleina",
+   "1 tl suolaa",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Jos käytät tuoreita maniokilehtiä, pese ne huolellisesti ja poista kovat varret. Jos käytät pakastettuja maniokilehtiä, sulata ne pakkauksen ohjeiden mukaisesti.",
+   "Kuumenna palmuöljy keskilämmöllä suuressa kattilassa.",
+   "Lisää kattilaan hienonnettu sipuli, hienonnettu valkosipuli ja raastettu inkivääri. Paista, kunnes sipuli muuttuu läpikuultavaksi ja tuoksuu hyvältä.",
+   "Sekoita hienonnetut Scotch Bonnet -paprikat seokseen ja paista muutama minuutti, jotta maut vapautuvat.",
+   "Lisää liha kattilaan ja paista, kunnes se on ruskistunut joka puolelta.",
+   "Kaada kananliemi tai vesi kattilaan ja anna seoksen kiehua hiljalleen. Peitä kattila kannella ja anna lihan kypsyä noin 20–25 minuuttia tai kunnes se on pehmeää.",
+   "Lisää kuutioitu bataatti ja viipaloitu plantain kattilaan. Anna keiton hautua vielä 10–15 minuuttia tai kunnes vihannekset ovat kypsiä.",
+   "Sekoita kassavalehdet sekaan ja anna keiton hautua vielä 45 minuuttia – 1 tunti, sekoittaen välillä, jotta se ei tartu pohjaan.",
+   "Mausta keitto suolalla ja jauhetulla mustapippurilla maun mukaan. Säädä mausteita oman maun mukaan.",
+   "Ota kattila pois liedeltä ja anna keiton levätä muutama minuutti ennen tarjoilua."
+  ],
+  "notes": [
+   "Kassavanlehtiä löytyy afrikkalaisista tai kansainvälisistä ruokakaupoista. Jos niitä ei ole saatavilla, voit korvata ne pinaatilla tai muilla lehtivihanneksilla, mutta maku muuttuu.",
+   "Mitä kauemmin maniokilehtikeittoa keitetään, sitä maukkaammaksi se muuttuu. Perinteisesti sitä haudutetaan useita tunteja, jotta sen rikas maku pääsee esiin.",
+   "Tätä keittoa tarjoillaan usein riisin tai fufun kanssa, joka on tärkkelyspitoinen lisuke, joka valmistetaan maniokista, plantaneista tai muista ainesosista.",
+   "Kassavan lehdet ovat hyvä A- ja C-vitamiinien sekä kalsiumin ja raudan lähde.",
+   "Keiton liha ja vihannekset sisältävät proteiinia, vitamiineja ja kivennäisaineita."
+  ]
+ }
+]

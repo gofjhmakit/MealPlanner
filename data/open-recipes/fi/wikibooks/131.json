@@ -1,0 +1,629 @@
+[
+ {
+  "id": "wikibooks-steak-sandwiches",
+  "title": "Lämmin pihvipatonki",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "voileipä",
+   "juusto",
+   "pekoni"
+  ],
+  "ingredients": [
+   "2 paistettua naudan sisäfileepihviä, ohuina viipaleina",
+   "6 viipaletta Monterey Jack- tai muuta sulavaa juustoa",
+   "6 viipaletta pekonia, rapeaksi paistettuna",
+   "1 patonki (n. 30 cm), halkaistuna"
+  ],
+  "instructions": [
+   "Täytä patonki pihviviipaleilla, pekonilla ja juustolla.",
+   "Lämmitä 100 asteen uunissa, kunnes juusto on sulanut ja leipä lämmin."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-tacos",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-steak-tartare",
+  "skip": "raaka liha"
+ },
+ {
+  "id": "wikibooks-steak-bacon-and-arugula-salad",
+  "title": "Pihvi-pekonisalaatti rucolalla",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "nauta",
+   "pekoni",
+   "rucola",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl rucolaa",
+   "2 naudan entrecôtepihviä (à 350–450 g)",
+   "suolaa",
+   "mustapippuria",
+   "2 dl oliiviöljyä, jaettuna",
+   "½ dl punaviinietikkaa",
+   "1¼ tl Dijon-sinappia",
+   "5 viipaletta pekonia, leikattu 4 cm paloiksi ja paistettu rapeaksi",
+   "2 rkl sulatettua pekonin paistorasvaa"
+  ],
+  "instructions": [
+   "Sivele pihvit 1 rkl:lla oliiviöljyä. Ripottele päälle runsaasti suolaa ja vastajauhettua mustapippuria.",
+   "Grillaa kovalla lämmöllä 1 minuutti, käännä pihviä 90 astetta ja grillaa vielä minuutti. Käännä pihvit ja toista toisella puolella.",
+   "Siirrä keskilämmölle ja paista kääntelemällä usein, kunnes haluttu kypsyysaste on saavutettu (65 asteeseen medium rare, 70 asteeseen medium ja 75 asteeseen hyvin paistettu).",
+   "Jäähdytä pihvit jääkaapissa.",
+   "Sekoita jäljellä oleva öljy ja pekonirasva. Sekoita toisessa kulhossa sinappi ja etikka. Lisää oliiviöljyä hitaasti samalla jatkuvasti vispilällä sekoittaen.",
+   "Viipaloi pihvit ohuiksi viipaleiksi lihasuuntaan nähden 45 asteen kulmassa. Sekoita muut ainekset ja kastike tarjoiluastiaan ja laita jääkaappiin, kunnes seos on jäähtynyt. Tarjoile kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-steak-bacon-and-gruyere-paninis",
+  "skip": "epätarkat määrät"
+ },
+ {
+  "id": "wikibooks-steakhouse-dinner",
+  "skip": "kokonainen menu, epäselvät ja ylisuuret määrät"
+ },
+ {
+  "id": "wikibooks-steakhouse-marinade",
+  "title": "Konjakki-yrttimarinadi pihveille",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "marinadi",
+   "nauta",
+   "grilli",
+   "yrtit"
+  ],
+  "ingredients": [
+   "2,5 dl naudanlihalientä",
+   "1 dl oliiviöljyä",
+   "1 dl konjakkia",
+   "3 rosmariininoksaa",
+   "8 timjaminoksaa"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset isossa kattilassa.",
+   "Kuumenna noin 90-asteiseksi (ei kiehuvaksi) ja pidä lämpimänä 10 minuuttia.",
+   "Siivilöi, jäähdytä ja kaada isoon minigrip-pussiin. Säilyy jääkaapissa enintään 1½ viikkoa."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-artichoke",
+  "title": "Keitetty artisokka",
+  "description": "Perusresepti artisokkien valmistamiseen.",
+  "servings": 2,
+  "totalTimeMin": 60,
+  "category": "Lisukkeet",
+  "tags": [
+   "artisokka",
+   "kasvis",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 tl suolaa",
+   "1 rkl oliiviöljyä",
+   "1 artisokka",
+   "1 sitruuna",
+   "persiljaa",
+   "1–2 valkosipulinkynttä",
+   "mustapippuria",
+   "2 rkl valkoviiniä"
+  ],
+  "instructions": [
+   "Leikkaa artisokan varsi ja pää pois.",
+   "Poista alalehdet ja leikkaa ylälehtien terävät päät pois.",
+   "Hiero artisokkaa sitruunalla, jotta väri säilyy.",
+   "Lisää suola, öljy ja mausteet noin 8 cm syvään veteen ja kiehauta.",
+   "Aseta artisokka yläpuoli alaspäin kattilaan, joka on riittävän korkea, jotta kansi mahtuu päälle koskettamatta artisokkaa.",
+   "Keitä miedolla lämmöllä 30–45 minuuttia, kunnes artisokan pohjaan voi pistää neulan ilman vastusta.",
+   "Aseta artisokka ylösalaisin valumaan.",
+   "Tarjoile kokonaisena, yhden tai useamman dippikastikkeen kera. Ruokailijoiden tulee irrottaa lehti, kastaa lehden tyvi dippikastikkeeseen ja syödä lehden mehevä tyvi.",
+   "Kun kaikki lehdet on poistettu, poista keskiosa, leikkaa artisokan sydän suupaloiksi ja tarjoile dippikastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-basmati-rice",
+  "title": "Basmatiriisi",
+  "description": "Tämä on tuoksuva, pitkäjyväinen riisilajike, jota käytetään usein intialaisissa resepteissä. Basmatia voidaan keittää samalla tavalla kuin muuta riisiä, suhteessa kaksi kupillista vettä yhtä kupillista riisiä kohti. Alla oleva resepti auttaa tuomaan esiin basmatin maun.",
+  "servings": 4,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "intialainen",
+   "perusohje",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g valkoista basmatiriisiä",
+   "600 ml vettä",
+   "1 rkl voita (valinnainen)",
+   "1 tl suolaa",
+   "2 tl sitruunamehua",
+   "ripaus sahramia (valinnainen)"
+  ],
+  "instructions": [
+   "Jos lisäät sahramia, liota sitä 1–2 rkl kuumaa vettä 10 minuuttia ja lisää vesi ja sahramisäikeet sitruunamehun sekaan.",
+   "Huuhtele riisiä siivilässä kylmän veden alla, kunnes vesi on kirkasta.",
+   "Lisää vesi, riisi, voi ja suola kattilaan.",
+   "Kiehauta voimakkaasti.",
+   "Sekoita joukkoon sitruunamehu ja sahramiseos, jos käytät sitä.",
+   "Peitä kattila tiiviisti, vähennä lämpöä minimiin ja anna hautua 8½ minuuttia.",
+   "Maista riisiä ja tarkista sen koostumus. Keitä vielä 1–5 minuuttia riippuen siitä, kuinka raakaa riisi on.",
+   "Sekoita haarukalla ja tarjoile kuumana suosikkireseptisi kanssa."
+  ],
+  "notes": [
+   "Höyrytetty basmatiriisi sopii hyvin seuraavien ruokien kanssa:",
+   "Intialaiset curryt",
+   "Chili con carne"
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-buns-with-bbq-pork",
+  "title": "Höyrytetyt bao-sämpylät grillipossulla",
+  "description": "Tämä on hiivataikinasta valmistettu sämpylä, joka täytetään lihalla ja höyrytetään kypsäksi.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 20,
+  "category": "Välipalat",
+  "tags": [
+   "höyrytys",
+   "kiinalainen",
+   "porsas",
+   "leivonta"
+  ],
+  "ingredients": [
+   "Täyte:",
+   "225 g kypsää porsasta tai kanaa, revittynä",
+   "1 dl grillikastiketta",
+   "1 rkl soijakastiketta",
+   "1 rkl rypsiöljyä",
+   "1 rkl sokeria",
+   "1 rkl teriyakikastiketta",
+   "1 tl valkosipuli-chilikastiketta",
+   "¼ tl viiden mausteen seosta",
+   "¼ tl seesamiöljyä",
+   "Taikina:",
+   "3,5 dl lämmintä (n. 35-asteista) vettä",
+   "1 pussi (11 g) kuivahiivaa",
+   "3 rkl sokeria",
+   "9,5 dl vehnäjauhoja",
+   "2 rkl rypsiöljyä",
+   "1 tl leivinjauhetta",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Laita kaikki täytteen ainekset monitoimikoneeseen.",
+   "Aja, kunnes ainekset ovat hienontuneet ja sekoittuneet.",
+   "Sekoita hiiva ja 1 rkl sokeria lämpimään veteen. Anna seistä 15 minuuttia.",
+   "Lisää hiivaveteen loput 2 rkl sokeria, jauhot, öljy, leivinjauhe ja suola.",
+   "Sekoita, kunnes taikina muodostuu. Vaivaa taikinaa 10 minuuttia.",
+   "Anna taikinan kohota lämpimässä paikassa 1½ tuntia.",
+   "Lyö taikina alas ja jaa se 12 osaan.",
+   "Pyöritä jokainen taikinapala palloksi ja litistä se sitten kaulinalla 15 cm ympyräksi.",
+   "Laita 1 rkl lihantäytettä jokaisen tasoitetun taikinapalan keskelle.",
+   "Nosta tasoitetun taikinan reunat täytteen ympärille ja tuo reunat yhteen. Purista reunat kiinni, jotta muodostuu täytetty sämpylä.",
+   "Aseta sämpylät leivinpaperille. Anna kohota lämpimässä paikassa 1 tunti, kunnes ne ovat kaksinkertaistaneet kokonsa.",
+   "Höyrytä sämpylöitä höyrykeittimessä kiehuvan veden päällä 20 minuuttia.",
+   "Ota höyrykeittimestä. Kun se on jäähtynyt tarpeeksi käsiteltäväksi, poista pohjalta leivinpaperi.",
+   "Tarjoile lämpimänä."
+  ],
+  "notes": [
+   "Säilytä jäämät jääkaapissa. Lämmitä mikroaaltouunissa 30–45 sekuntia."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-pork-with-mustard-greens",
+  "title": "Porsasta ja sinappikaalia mustapapukastikkeessa",
+  "description": "Höyrytettyä sianlihaa sinappikaalin kera (梅菜扣肉, pinyin: Méicàikòuròu) eli mei cai kou rou on hakka-kansan peräisin oleva kiinalainen ruokalaji. Se on erittäin suosittu ja maukas, mutta sisältää paljon tyydyttyneitä rasvoja.",
+  "servings": 3,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "kiinalainen",
+   "wokki",
+   "vihannekset"
+  ],
+  "ingredients": [
+   "300 g sinappikaalia (tai pak choita)",
+   "1 tl maissitärkkelystä sekoitettuna 1 tl:aan kylmää vettä",
+   "½ tl sokeria",
+   "2 tl vaaleaa soijakastiketta",
+   "1 tl riisiviiniä tai vettä",
+   "350 g porsaan sisäfileetä, ohuina viipaleina",
+   "2 rkl rypsiöljyä",
+   "2 rkl mustapapu-valkosipulikastiketta",
+   "Noin 2 rkl vettä",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Pese vihannekset ja poista kovat varret.",
+   "Kiehauta suuri kattilallinen vettä, lisää vihannekset ja keitä 2 minuuttia.",
+   "Valuta vihannekset ja huuhtele ne kylmällä vedellä, jotta kypsyminen pysähtyy. Valuta ne uudelleen ja leikkaa sitten vihannekset pitkiksi vinoksi suikaleiksi.",
+   "Sekoita maissitärkkelys ja vesi keskikokoisessa kulhossa. Lisää sokeri, soijakastike ja riisiviini ja sekoita. Leikkaa sianliha ohuiksi viipaleiksi ja lisää seokseen. Anna marinoitua noin 20 minuuttia, sekoittaen välillä.",
+   "Kuumenna öljy esilämmitetyssä wokissa tai suuressa, raskaassa paistinpannussa keskilämmöllä. Lisää mustapapukastike ja paista sekoittaen 1 minuutti.",
+   "Lisää sianliha ja paista 2 minuuttia.",
+   "Lisää sinappikaali ja vesi. Sekoita hyvin ja hauduta miedolla lämmöllä noin 4–5 minuuttia, kunnes sianliha on kypsynyt ja kaali on pehmeää.",
+   "Mausta pippurilla ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-rice",
+  "title": "Keitetty riisi",
+  "description": "Höyrytetty riisi on yksinkertainen ruoka, mutta joillakin ihmisillä on vaikeuksia sen valmistamisessa. Yleisiä ongelmia ovat liian suuren riisi- tai vesimäärän lisääminen sekä pakkauksessa olevien ohjeiden noudattamatta jättäminen. Tämä höyrytettyä riisiä koskeva resepti on varma menestys eikä vaadi erityistä riisinkeittimen tai mikroaaltouunin käyttöä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "perusohje",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl kuivaa riisiä",
+   "5 dl vettä",
+   "¼ tl suolaa (valinnainen)"
+  ],
+  "instructions": [
+   "Huuhtele riisi halutessasi.",
+   "Laita riisi, vesi ja halutessasi suola kannelliseen kattilaan ja sekoita, jotta pinnalla kelluva riisi vajoaa.",
+   "Kiehauta kannetta voimakkaalla lämmöllä ja sekoita.",
+   "Laske lämpö pienimmälle, laita kansi päälle ja keitä 12 minuuttia.",
+   "Sammuta liesi, poista kansi ja kuohkeuta riisi haarukalla."
+  ],
+  "notes": [
+   "Tätä kaavaa voidaan helposti suurentaa tai pienentää. Höyryriisin keittämisen yleissääntö on, että veden määrän tulisi olla kaksinkertainen riisin määrään verrattuna. Jos käytät yhtä kupillista riisiä, sinun on käytettävä kaksi kupillista vettä. Jos käytät kahta kupillista riisiä, sinun on käytettävä neljä kupillista vettä.",
+   "1 kuppi kuivaa riisiä riittää kolmelle aikuiselle."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-salmon",
+  "title": "Höyrytetty lohi",
+  "servings": 2,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "nopea",
+   "gluteeniton",
+   "maidoton"
+  ],
+  "ingredients": [
+   "2 lohifileepalaa (à 150 g)",
+   "2,5 dl kiehuvaa vettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Laita lohi kattilaan.",
+   "Lisää kiehuvaa vettä ja ripottele suolaa päälle.",
+   "Peitä kattila kannella ja höyrytä miedolla lämmöllä, kunnes liha on juuri kypsynyt."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-sweet-rice",
+  "title": "Höyrytetty tahmea riisi",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "japanilainen",
+   "höyrytys",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "3,5 dl tahmeaa riisiä (mochigome, glutinous rice)",
+   "vettä liotukseen ja höyrytykseen"
+  ],
+  "instructions": [
+   "Laita makeaa tahmeaa riisiä keskikokoiseen kulhoon.",
+   "Pese riisi huolellisesti kylmässä vedessä, huuhtele ja toista, kunnes vesi on kirkasta, valuta vesi pois ja laita riisi takaisin kulhoon.",
+   "Lisää riisiin 7 dl vettä. Anna liota 6 tuntia tai yön yli.",
+   "Valuta vesi hyvin pois, levitä riisi tasaisesti matalaan, noin 20 cm vuokaan ja lisää 0,8 dl vettä.",
+   "Kiehauta wokissa noin 9,5 dl vettä keskilämmöllä.",
+   "Aseta höyrytysastia wokkiin.",
+   "Peitä riisipannu ja aseta se kiehuvan veden päälle asetetulle tarjottimelle.",
+   "Höyrytä 30 minuuttia. Jos riisi ei ole pehmeää, ripottele päälle 2–3 rkl vettä ja höyrytä vielä 5 minuuttia.",
+   "Kun ainekset ovat pehmeitä, poista höyrytysastia wokista."
+  ]
+ },
+ {
+  "id": "wikibooks-steamed-tuna-bao-buns",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-stewed-oysters-i",
+  "title": "Haudutetut osterit",
+  "description": "Ostereita voi hauduttaa monella eri tavalla. Alla on kaksi reseptiä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "osterit",
+   "vanha resepti",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "24 tuoretta osteria",
+   "55 g voita",
+   "½ dl kermaa",
+   "¼ tl muskottipähkinää",
+   "2 laakerinlehteä",
+   "suolaa, mustapippuria ja muskottia"
+  ],
+  "instructions": [
+   "Avaa osterit ja säilytä osterin sisältämä neste.",
+   "Laita osterit ja niiden neste kattilaan; lisää voi, suola, mustapippuri, muskottipähkinä ja laakerinlehdet.",
+   "Anna kiehua hiljalleen 5 minuuttia. Lisää kerma ja sekoita kaikki hyvin keskenään samalla kun lämmität.",
+   "Kaada lautaselle tai tarjoiluvadille ja raasta hieman tuoretta muskottipähkinää jokaisen kastikkeessa olevan osterin päälle."
+  ],
+  "notes": [
+   "Lähde: vuoden 1881 keittokirja."
+  ]
+ },
+ {
+  "id": "wikibooks-stewed-oysters-ii",
+  "skip": "lähes sama kuin haudutetut osterit"
+ },
+ {
+  "id": "wikibooks-stewed-vegan-maki",
+  "title": "Maki-rullat misohaudutetuilla kasviksilla",
+  "description": "Alkuperäinen reseptin lähettäjä kertoi seuraavan anekdootin:",
+  "servings": 2,
+  "category": "Välipalat",
+  "tags": [
+   "sushi",
+   "japanilainen",
+   "miso",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "½ dl hienoksi raastettua porkkanaa",
+   "½ dl sipulia, ohuina suikaleina",
+   "½ dl varsiselleriä, pieninä kuutioina",
+   "½ dl daikon-retiisiä, ohuina suikaleina",
+   "2 rkl misotahnaa",
+   "½ dl sakea",
+   "1 dl vettä",
+   "½ tl riisiviinietikkaa",
+   "½ tl wasabia",
+   "3,5 dl keitettyä sushiriisiä",
+   "2 nori-levyä"
+  ],
+  "instructions": [
+   "Sekoita vihannekset ja sake wokissa tai kattilassa. Anna kiehua hiljalleen ja anna kypsyä, kunnes suurin osa sakesta on haihtunut, sekoittaen usein.",
+   "Lisää vesi ja miso, anna kiehua hiljalleen ja anna kypsyä, kunnes vihannekset ovat pehmeitä (mutta eivät liiskaantuneita), sekoittaen usein.",
+   "Ota vihannekset pannusta ja keitä jäljellä oleva neste paksuksi kastikkeeksi.",
+   "Kaada kastike vihannesten päälle ja sekoita huolellisesti. Anna jäähtyä ja sekoita sitten etikka joukkoon.",
+   "Levitä riisi tasaisesti norilevyn päälle, levitä puolet wasabista jokaisen päälle ja aseta sitten vihannesseos tämän päälle. Kääri tiukasti."
+  ]
+ },
+ {
+  "id": "wikibooks-sticky-date-pudding",
+  "title": "Tahmea taatelikakku karamellikastikkeella",
+  "description": "Sticky date pudding on suosittu australialainen jälkiruoka, erityisesti eteläisillä alueilla talvikuukausina. Perheesi ja ystäväsi rakastavat sinua ikuisesti, jos valmistat heille seuraavan reseptin.",
+  "servings": 12,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "taateli",
+   "karamelli",
+   "australialainen"
+  ],
+  "ingredients": [
+   "Karamellisiirappi:",
+   "5 dl fariinisokeria",
+   "2,5 dl vettä",
+   "Kakku:",
+   "2,5 dl kivettömiä taateleita",
+   "1 tl ruokasoodaa (taateleille)",
+   "5 dl vehnäjauhoja",
+   "1 tl ruokasoodaa",
+   "½ tl suolaa",
+   "2 tl piparkakkumaustetta",
+   "4 kananmunaa, huoneenlämpöisiä",
+   "3,5 dl sokeria",
+   "2,5 dl rypsiöljyä",
+   "2 tl vaniljauutetta",
+   "Tarjoiluun:",
+   "5 dl kuohukermaa tai jäätelöä"
+  ],
+  "instructions": [
+   "Laita fariinisokeri ja vesi vesihauteen päälle asetettuun kulhoon tai kattilaan.",
+   "Sekoita miedolla lämmöllä, kunnes kaikki ruskea sokeri on liuennut.",
+   "Ota pois liedeltä ja anna jäähtyä.",
+   "Pilko taatelit karkeasti, laita ne kattilaan ja lisää ruokasooda sekä juuri sen verran vettä, että taatelit peittyvät.",
+   "Kiehauta ja anna kiehua hiljalleen 1 minuutti. Ruokasoodan vaikutuksesta se alkaa vaahtoutua; kun vaahto nousee kattilan reunaan asti, ota kattila pois liedeltä.",
+   "Anna jäähtyä.",
+   "Esilämmitä uuni 180 asteeseen.",
+   "Siivilöi jauhot, ruokasooda, suola ja maussekoitus kahdesti.",
+   "Vatkaa munat kevyesti. Lisää hienosokeria ja vatkaa kuten kakkutaikinaa; taikinan tulee olla todella kevyttä ja kuohkeaa.",
+   "Sekoita öljy ja vaniljaesanssi joukkoon, mutta älä sekoita liikaa, jotta munaseoksesta ei karkaa ilmaa.",
+   "Sekoita joukkoon siivilöidyt kuivat aineet ja lopuksi jäähtynyt taateliseos.",
+   "Kaada taikina voideltuun vuokaan ja paista 180 asteessa noin 80–90 minuuttia. Kiertoilmauunissa lämpöä ja aikaa voi hieman vähentää.",
+   "Tarkista kakun kypsyys puikolla, jonka pitäisi tulla ulos kuivana. Ota uunista ja jätä kakku vuokaan.",
+   "Tee kuumaan vanukkaan runsaasti reikiä vartaalla.",
+   "Kaada noin 2,5 dl karamelliseosta kuuman vanukkaan päälle; se imeytyy vanukkaan reikiin",
+   "Leikkaa haluttuihin annoksiin ja tarjoile heti kermalla tai jäätelöllä."
+  ]
+ },
+ {
+  "id": "wikibooks-sticky-toffee-pudding-with-dates",
+  "title": "Sticky toffee pudding (taatelikakku toffeekastikkeella)",
+  "servings": 8,
+  "totalTimeMin": 70,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "taateli",
+   "toffee",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "Kakku:",
+   "4 dl vehnäjauhoja + 2 tl leivinjauhetta",
+   "100 g voita, huoneenlämpöistä",
+   "2,5 dl sokeria",
+   "2–3 kananmunaa",
+   "6 dl kivettömiä taateleita, hienonnettuna",
+   "3 dl vettä",
+   "1 tl ruokasoodaa",
+   "1 tl vaniljauutetta",
+   "Toffeekastike:",
+   "4 dl kuohukermaa",
+   "1,5 dl tummaa muscovado- tai fariinisokeria",
+   "1 tl vaniljauutetta",
+   "150 g voita"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen.",
+   "Sekoita voi, sokeri ja vanilja tasaiseksi massaksi. Voit tehdä tämän vatkaamalla aineksia kulhossa puulusikalla noin 5 minuuttia, jolloin huolehdit siitä, että sokerikiteet hajoavat ja seos muuttuu mahdollisimman tasaiseksi. Voit myös käyttää sähkövatkainta, jos haluat.",
+   "Lisää munat yksi kerrallaan ja vatkaa seosta jokaisen munan lisäämisen jälkeen.",
+   "Sekoita jauhot taikinaan.",
+   "Kiehauta vesi ja lisää taatelit. Lisää ruokasooda ja ota kattila heti pois liedeltä. Anna seoksen jäähtyä hieman ja lisää se sitten taikinaan.",
+   "Kaada taikina voideltuun kakkuvuokaan – varmista, että käytät vuokaa, jossa on tarpeeksi tilaa kakun kohoamiselle.",
+   "Paista uunissa 40 minuuttia tai kunnes kakkuun pistetty puikko tulee ulos puhtaana.",
+   "Ota uunista ja anna jäähtyä hieman, kun valmistat kastiketta.",
+   "Sekoita kastikeainekset kattilassa. Kuumenna hitaasti sekoittaen usein, jotta seos ei erotu, kunnes se on tasainen kastike – älä anna sen kiehua.",
+   "Jaa kakku annoksiksi ja puhkaise sen pintaan reikiä ympäriinsä vartaalla tai syömäpuikolla.",
+   "Kaada kastike kakun päälle ja varmista, että se imeytyy reikiin. Tarjoile kermavaahdon, vaniljakastikkeen tai jäätelön kanssa."
+  ],
+  "notes": [
+   "Alkuperäisessä kastikkeessa 340 g voita; määrää on vähennetty."
+  ]
+ },
+ {
+  "id": "wikibooks-sticky-toffee-pudding-without-dates",
+  "title": "Toffeekakku saksanpähkinöillä",
+  "description": "Sticky Toffee Pudding (STP) on täyteläinen, tiivis ja tahmea jälkiruoka, joka on peräisin Yhdistyneestä kuningaskunnasta ja jota nykyään löytyy ympäri maailmaa. Tämä klassinen jälkiruoka, jota löytyy usein pubien ruokalistoilta tai brittiläisten ja Kansainyhteisön maiden kouluruokailuista, tuli suosituksi 1970-luvulla. Tällä reseptillä valmistuu erinomainen STP, mutta ilman taateleita![1] Tam ja Laura julkaisivat tämän Creative Commons Attribution-ShareAlike 2.5 -lisenssillä; haettu 29.11.2008 osoitteesta http://tamandlaura.blogspot.com/2007/03/how-english-can-you-get.html. Laura on antanut luvan sen uudelleenjulkaisuun täällä Wikikirjojen lisenssin nojalla (lupa saatu 18.12.2008 sähköpostitse, mcld).",
+  "servings": 9,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "toffee",
+   "saksanpähkinä",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "Kakku:",
+   "3,5 dl vehnäjauhoja",
+   "2 tl leivinjauhetta",
+   "¾ tl ruokasoodaa",
+   "½ tl neilikkaa",
+   "¼ tl muskottipähkinää",
+   "2,5 dl tummaa fariinisokeria, tiiviisti mitattuna",
+   "55 g voita, huoneenlämpöistä",
+   "2 kananmunaa",
+   "2,5 dl paahdettuja saksanpähkinöitä, hienonnettuna",
+   "Toffeekastike:",
+   "2,5 dl kuohukermaa",
+   "1,5 dl sokeria",
+   "55 g voita"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 175 asteeseen.",
+   "Siivilöi kuivat ainekset yhteen.",
+   "Vatkaa voi, sokeri ja munat yhteen.",
+   "Sekoita nestemäiset ja kuivat ainekset keskenään, kunnes ne ovat juuri ja juuri sekoittuneet. Lisää seokseen pähkinät.",
+   "Kaada taikina voideltuun 20 x 20 cm vuokaan ja paista, kunnes tikku tulee puhtaana ulos, noin 25 minuuttia.",
+   "Valmista sillä välin toffeekastike:",
+   "Sekoita puolet kermasta, sokeri ja voi paksupohjaisessa suuressa kattilassa.",
+   "Keitä keskilämmöllä, kunnes seos sakeutuu hieman ja saa syvän kullanruskean värin, sekoittaen jatkuvasti, noin 10 minuuttia.",
+   "Ota pois liedeltä; anna jäähtyä 5 minuuttia.",
+   "Lisää loput kermasta vähitellen vispilällä sekoittaen (seos kuplii voimakkaasti). Sekoita miedolla lämmöllä, kunnes seos on tasainen.",
+   "Pistele lämmintä kakkua kauttaaltaan puikolla tai puulusikan varrella. Kaada puolet toffeekastikkeesta kakun päälle ja varmista, että se imeytyy kakun kaikkiin osiin. Anna kakun seistä vähintään 30 minuuttia.",
+   "Tarjoile lämpimänä, koristele jäljellä olevalla toffeekastikkeella ja crème fraîchella tai makeuttamattomalla kermavaahdolla."
+  ]
+ },
+ {
+  "id": "wikibooks-stinging-nettle-pesto",
+  "title": "Nokkospesto",
+  "description": "Kerää nokkosia paikasta, jossa ei ole käytetty kemiallisia torjunta-aineita, käyttäen paksuja käsineitä ja saksia.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "pesto",
+   "nokkonen",
+   "villiyrtit",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "12 dl tuoreita nokkosenlehtiä",
+   "1 dl hasselpähkinöitä, pinjansiemeniä ja/tai saksanpähkinöitä",
+   "3 valkosipulinkynttä",
+   "1 dl oliiviöljyä",
+   "½ dl parmesaania, raastettuna",
+   "2 tl sitruunamehua",
+   "½–1 tl mustapippuria",
+   "suolaa"
+  ],
+  "instructions": [
+   "Paista pähkinät kuivana tai paahda niitä, kunnes ne ovat hieman ruskeita.",
+   "Laita nokkoset paksut käsineet kädessä kiehuvaan veteen 1 minuutiksi. Siirrä nokkoset jääveteen, jotta kypsymisprosessi pysähtyy. Valuta vesi pois.",
+   "Sekoita kaikki ainekset tasaiseksi massaksi. Vaihtoehtoisesti voit murskata ainekset morttelissa ja survin avulla, jolloin saat karkeamman konsistenssin."
+  ],
+  "notes": [
+   "Pestoa voi käyttää monenlaisissa ruoissa, yksinkertaisesta mutta maukkaasta pastasta lihan ja kalan mausteseoksiin. Hasselpähkinöitä, saksanpähkinöitä ja pinjansiemeniä voi käyttää erikseen tai sekoitettuna riippuen siitä, mitä on saatavilla."
+  ]
+ },
+ {
+  "id": "wikibooks-stir-fried-seafood-with-noodles",
+  "title": "Wokatut munanuudelit katkaravuilla",
+  "servings": 4,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "nuudelit",
+   "äyriäiset",
+   "kiinalainen",
+   "wokki"
+  ],
+  "ingredients": [
+   "500 g munanuudeleita, keitettyinä",
+   "2 rkl rypsiöljyä",
+   "2 valkosipulinkynttä, murskattu",
+   "5 kalapullaa, 1 cm paloina",
+   "200 g katkarapuja, kuorittuna",
+   "100 g kaalia, leikattu suupaloiksi",
+   "2 kevätsipulia, leikattuina 1 cm:n paloiksi",
+   "150 g pavunituja, huuhdeltuina kuumalla vedellä",
+   "2 rkl kevyttä soijakastiketta",
+   "1 tl suolaa",
+   "1 tl sokeria",
+   "½ tl valkopippuria",
+   "2 rkl paistettua sipulia (valmis)"
+  ],
+  "instructions": [
+   "Kuumenna öljy tarttumattomassa pannussa, lisää valkosipuli ja paista noin 10 sekuntia, kunnes se on kullanruskeaa.",
+   "Lisää kalapallot ja katkaravut. Paista, kunnes katkaravut ja kalapallot alkavat juuri muuttaa väriään.",
+   "Lisää kaali ja kevätsipuli ja paista, kunnes kaikki ainekset ovat kuumia.",
+   "Lisää nuudelit ja paista, kunnes kaikki ainekset ovat kuumia.",
+   "Lisää pavunidut, vaalea soijakastike, suola, sokeri ja pippuri. Sekoita hyvin ja paista (mahdollisesti pienemmällä lämmöllä), kunnes kaikki ainekset ovat kuumia, varoen kuitenkin paistamasta liian kauan, jotta pavunidut eivät pehmene liikaa.",
+   "Tarjoile heti paistetun sipulin kera."
+  ]
+ },
+ {
+  "id": "wikibooks-stir-fried-chicken-spaghetti",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-stir-fried-jollof-spaghetti",
+  "skip": "ei määriä"
+ }
+]

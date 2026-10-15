@@ -55,6 +55,12 @@ function metric(line: string): string {
     .replace(/(\d[\d,½¼¾]*\s*(?:dl|g|ml|l|kg|cm))\s*\((?:~?\s*[\d.,]+\s*(?:g|ml|dl|l|cm|US fl oz)[^)]*)\)/g, '$1')
     .replace(/\s*\(\d+ asteeseen\)/g, '')
     .replace(/asteeseen asteeseen/g, 'asteeseen')
+    // DeepL glues case endings onto the converted degrees ("190 asteeseenssa", "120 asteeseenuunissa").
+    .replace(/(\d+) asteeseen ?(?:ssa|ssä)\b/g, '$1 asteessa')
+    .replace(/(\d+) asteeseen ?uunissa\b/g, '$1-asteisessa uunissa')
+    .replace(/(\d+) asteeseen ?uuniin\b/g, '$1-asteiseen uuniin')
+    .replace(/asteeseen(?=[a-zäö])/g, 'asteeseen ')
+    .replace(/\b(on|olla) (\d+) asteeseen/g, '$1 $2 astetta')
     .replace(/\s+\./g, '.')
     .replace(/\.$/, (m) => (/^\d/.test(line) ? '' : m))
 }

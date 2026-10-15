@@ -1,56 +1,724 @@
 [
-  {
-    "id": "wikibooks-gravy-vegetarian",
-    "title": "Kasvisversio amerikkalaisesta gravy-kastikkeesta",
-    "description": "Maitopohjainen kasviskastike, joka tarjoillaan yleensä suolaisten sämpylöiden kanssa.",
-    "servings": 4,
-    "servingsEstimated": true,
-    "category": "Kastikkeet ja dipit",
-    "tags": ["kasvis", "kastike"],
-    "ingredients": ["4 rkl rypsiöljyä", "4 rkl vehnäjauhoja", "4,8 dl maitoa", "2 rkl soijapohjaisia pekonimuruja", "1 rkl voita", "suolaa maun mukaan", "pippuria maun mukaan"],
-    "instructions": ["Kuumenna öljy pannulla keskilämmöllä.", "Lisää jauhot koko ajan sekoittaen ja paista, kunnes seos ruskistuu hieman.", "Kaada maito vähitellen joukkoon samalla vispaten, jotta kastikkeeseen ei jää paakkuja.", "Lisää kasvispohjaiset pekonimurut ja hauduta, kunnes kastike sakenee.", "Nosta pannu liedeltä, sekoita voi joukkoon ja mausta suolalla ja pippurilla.", "Tarjoa suolaisten sämpylöiden kanssa."]
-  },
-  {
-    "id": "wikibooks-lemonade",
-    "title": "Kotitekoinen sitruunalimonadi",
-    "description": "Sitruunamehusta, sokerista ja vedestä tehty alkoholiton juoma.",
-    "servings": 6,
-    "servingsEstimated": true,
-    "totalTimeMin": 10,
-    "category": "Juomat",
-    "tags": ["alkoholiton", "sitruuna"],
-    "ingredients": ["2,5 dl tuoretta sitruunamehua", "160–225 g sokeria", "1,2–1,5 l vettä"],
-    "instructions": ["Sekoita sitruunamehu ja sokeri kannussa, kunnes sokeri liukenee.", "Lisää vesi ja sekoita.", "Jäähdytä tai tarjoa jäiden kanssa."]
-  },
-  {
-    "id": "wikibooks-lemonade-extra-sour",
-    "title": "Kirpeä sitruunalimonadi",
-    "servings": 5,
-    "servingsEstimated": true,
-    "category": "Juomat",
-    "tags": ["alkoholiton", "sitruuna"],
-    "ingredients": ["noin 6 keskikokoista sitruunaa (2,5 dl mehua)", "8,5 dl vettä", "160 g hienoa sokeria"],
-    "instructions": ["Purista sitruunoista mehu ja poista siemenet. Siivilöi halutessasi hedelmäliha pois.", "Liuota sokeri veteen; voit lämmittää osan vedestä helpottaaksesi liukenemista.", "Yhdistä sitruunamehu ja sokerivesi kannussa ja sekoita.", "Jäähdytä tai tarjoa jäiden kanssa."]
-  },
-  {
-    "id": "wikibooks-kulfi-south-asian-frozen-custard",
-    "title": "Kardemummakulfi",
-    "description": "Eteläaasialainen maitojäätelö, jossa on pistaasia.",
-    "servings": 6,
-    "servingsEstimated": true,
-    "category": "Jälkiruoat",
-    "tags": ["jäätelö", "pistaasi"],
-    "ingredients": ["9,6 dl maitoa", "8 tl sokeria", "½ tl jauhettuja vihreitä kardemummansiemeniä", "1 rkl ohueksi viipaloituja pistaasipähkinöitä", "1 rkl viipaloituja manteleita (valinnainen)"],
-    "instructions": ["Kuumenna maito leveässä paksupohjaisessa kattilassa kiehuvaksi jatkuvasti sekoittaen.", "Laske lämpöä ja keitä sekoittaen noin 40–45 minuuttia, kunnes maitoa on jäljellä noin 1,8 dl. Kaavi myös kattilan reunoja, jotta maito ei pala kiinni.", "Sekoita joukkoon sokeri, kardemumma ja pähkinät. Anna jäähtyä.", "Jaa seos pieniin muotteihin, peitä ja pakasta noin 6 tuntia.", "Irrota kulfit muoteista lämpimään veteen kastetulla veitsellä ja tarjoa."]
-  },
-  {
-    "id": "wikibooks-watalappam-sri-lankan-coconut-custard",
-    "title": "Watalappam – srilankalainen kookosvanukas",
-    "servings": 6,
-    "servingsEstimated": true,
-    "category": "Jälkiruoat",
-    "tags": ["kookos", "vanukas"],
-    "ingredients": ["4,8 dl paksua kookosmaitoa", "225 g fariinisokeria", "4 kananmunaa", "ripaus jauhettua kardemummaa (valinnainen)", "3 neilikkaa (valinnainen)", "12 cashewpähkinää"],
-    "instructions": ["Vatkaa kananmunat. Lisää kookosmaito, fariinisokeri ja halutessasi kardemumma sekä neilikat. Sekoita hyvin.", "Kaada seos kuumuutta kestävään vuokaan ja höyrytä noin 20 minuuttia tai kunnes vanukas on hyytynyt.", "Lisää cashewpähkinät ja anna jäähtyä ennen tarjoilua."]
-  }
+ {
+  "id": "wikibooks-rolex-ugandan-flatbread-rolled-omelet",
+  "title": "Rolex (ugandalainen munakas-chapatirulla)",
+  "description": "Rolex (\"rullatut munat\") on vihanneksilla täytetty omeletti, joka on kääritty chapati-leivän sisään. Se on ravitseva ja herkullinen ruoka. Se maistuu parhaiten kuumana ja sopii lähes mihin tahansa ateriaan.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "ugandalainen",
+   "katuruoka",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 kananmunaa",
+   "1 keskikokoinen tomaatti, hienonnettuna",
+   "1 keskikokoinen sipuli, hienonnettuna",
+   "2 dl kaalia, hienoksi silputtuna",
+   "2 rkl korianteria, hienonnettuna (valinnainen)",
+   "½ tl mustapippuria",
+   "½ tl suolaa",
+   "2 chapatia tai vehnätortillaa",
+   "2 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Kuumenna pannu keskilämmöllä.",
+   "Riko munat keskikokoiseen kulhoon. Sekoita joukkoon sipulit, tomaatti, kaali, korianteri, suola ja pippuri.",
+   "Lisää 1 rkl öljyä kuumaan pannuun ja kaada puolet munaseoksesta pannulle. Anna paistua noin 3 minuuttia.",
+   "Kun pinta on vain hieman kostea, aseta chapati sen päälle.",
+   "Käännä omeletti ja chapati ympäri niin, että chapati on alhaalla. Anna chapatin lämmetä 2 minuuttia.",
+   "Kääri omeletti rullalle niin, että chapati on ulkopuolella.",
+   "Kääri halutessasi folioon ja tarjoa heti.",
+   "Toista edellä mainitut vaiheet jäljellä olevan munaseoksen ja chapatin kanssa."
+  ],
+  "notes": [
+   "Punaiset sipulit ovat suosittu valinta.",
+   "Voit lisätä mitä tahansa vihanneksia. Voit lisätä myös hienonnettua inkivääriä.",
+   "Jos et voi valmistaa chapati-leipää kotona eikä sitä ole muuten saatavilla, voit käyttää valmiita lehtimäisiä paratha-leipiä."
+  ]
+ },
+ {
+  "id": "wikibooks-rolitos-gibraltarian-beef-rolls",
+  "title": "Rolitos (gibraltarilaiset lihakääryleet)",
+  "description": "Tätä ruokaa tarjoillaan perinteisesti perunamuusin kera. On olemassa myös vaihtoehtoinen valmistustapa, jossa ruskean kastikkeen sijaan käytetään tomaattikastiketta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikka",
+   "kinkku",
+   "gibraltarilainen",
+   "pata"
+  ],
+  "ingredients": [
+   "8 ohutta vasikan- tai naudanleikettä",
+   "4 viipaletta keittokinkkua, puolitettuna",
+   "2 kovaksi keitettyä kananmunaa, neljänneksinä",
+   "8 paprikatäytteistä oliivia, puolitettuna",
+   "1 valkosipulinkynsi, hienonnettuna",
+   "1 sipuli, hienonnettuna",
+   "2,5 dl naudanlihalientä",
+   "suolaa",
+   "mustapippuria",
+   "2 tl kastikejauhetta tai maizenaa (tarpeen mukaan)"
+  ],
+  "instructions": [
+   "Aseta yksi viipale vasikanlihaa työtasolle; laita sen päälle puoli viipaletta kinkkua, neljännes munaa ja 2 puolikkaista oliivia.",
+   "Kääri vasikanliha varovasti rullalle niin, että kaikki ainekset jäävät sisälle. Kiinnitä rulla kahdella hammastikulla.",
+   "Asettele kääryleet lautaselle ja pidä jääkaapissa kypsennykseen asti.",
+   "Paista valkosipuli ja sipulit pehmeiksi.",
+   "Lisää liemi ja kastikejauhe ja kiehauta.",
+   "Laske vasikanliharullat varovasti kiehuvaan seokseen varoen, etteivät ne hajoa.",
+   "Vähennä lämpöä ja anna hautua, kunnes ruoka on valmista. Jos kastike on liian ohutta, lisää kastikejauhetta, kunnes oikea konsistenssi on saavutettu."
+  ]
+ },
+ {
+  "id": "wikibooks-roman-sauce-i",
+  "skip": "vaatii erillisen espagnole-pohjakastikkeen"
+ },
+ {
+  "id": "wikibooks-roman-sauce-ii",
+  "skip": "vaatii erillisen espagnole-pohjakastikkeen"
+ },
+ {
+  "id": "wikibooks-roman-soup",
+  "skip": "epätarkat määrät"
+ },
+ {
+  "id": "wikibooks-romanian-grilled-sausages-mititei",
+  "skip": "ei määriä"
+ },
+ {
+  "id": "wikibooks-rooibos-tea",
+  "title": "Rooibos-tee maidolla",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "tee",
+   "rooibos",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 rooibos-teepussi",
+   "2,5 dl vettä",
+   "1 tl fariinisokeria",
+   "1 tl maitoa"
+  ],
+  "instructions": [
+   "Kaada vesi vedenkeittimeen ja anna sen kiehua.",
+   "Laita teepussi kuppiin ja kaada kuumaa vettä kuppiin.",
+   "Sekoita joukkoon fariinisokeri ja maito.",
+   "Tarjoile kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-ropa-vieja-caribbean-shredded-beef",
+  "title": "Ropa vieja (kuubalainen revitty naudanlihapata)",
+  "description": "Ropa vieja, joka espanjaksi tarkoittaa ”vanhoja vaatteita”, on suosittu karibialainen ruokalaji, joka koostuu silputusta naudanlihasta (usein hännän- tai kyljyspihvistä), vihanneksista ja kastikkeesta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "kuubalainen",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg naudan kylkeä tai muuta pitkäsyistä lihaa",
+   "1 dl oliiviöljyä",
+   "1 sipuli",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 vihreä paprika",
+   "1 punainen paprika",
+   "3,5 dl tomaattikastiketta",
+   "1 tl suolaa",
+   "1 laakerinlehti",
+   "2,5 dl punaviiniä tai olutta"
+  ],
+  "instructions": [
+   "Leikkaa liha paloiksi, ei liian pieniksi eikä liian suuriksi. Keitä lihaa painekattilassa noin 15 minuuttia. Lisää veteen teelusikallinen oliiviöljyä vaahdon muodostumisen estämiseksi sekä teelusikallinen suolaa. Kun liha on keitetty, säästä 2,5 dl liemiä.",
+   "Revi liha ohuiksi suikaleiksi haarukalla. Pilko sipuli, leikkaa paprikat ohuiksi suikaleiksi ja hienonna valkosipulinkynnet.",
+   "Paista valkosipulia ja sipulia hetki kuumassa öljyssä, lisää sitten paprikat ja paista vielä hetki. Lisää liha ja muut ainekset, mukaan lukien kuppi liemiä.",
+   "Keitä seosta miedolla lämmöllä 20–30 minuuttia. Sekoita muutaman kerran. Mausta maun mukaan."
+  ],
+  "notes": [
+   "Voit myös lisätä ripauksen punaviiniä antamaan ruoalle lisää makua."
+  ]
+ },
+ {
+  "id": "wikibooks-rosehip-soup",
+  "title": "Ruusunmarjakeitto",
+  "description": "Tämä on juutalaisen ruusunmarjakeiton perusresepti ja valmistusohje. Keitto on suosittu myös Islannissa ja osissa Skandinaviaa, missä sitä käytetään kylmien säiden vuoksi usein flunssan ja kurkkukivun hoitoon.",
+  "servings": 6,
+  "totalTimeMin": 15,
+  "category": "Jälkiruoat",
+  "tags": [
+   "ruusunmarja",
+   "ruotsalainen",
+   "keitto",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l tuoreita ruusunmarjoja (tai 2,5 dl kuivattuja)",
+   "2 l vettä",
+   "1½ rkl sokeria litraa keittoa kohti",
+   "1½ rkl perunajauhoja litraa keittoa kohti",
+   "½ dl mantelilastuja"
+  ],
+  "instructions": [
+   "Huuhtele ruusunmarjat (kuivatut ruusunmarjat murskataan). Keitä vedessä, kunnes ne ovat pehmeitä.",
+   "Siivilöi ja mittaa liemi. Laimenna tarvittaessa vedellä.",
+   "Kiehauta hedelmäliha ja lisää sokeria. Lisää sokeria, jos maku on liian hapan.",
+   "Sekoita perunajauhoa ja hieman kylmää vettä. Sakeuta keittoa samalla sekoittaen ja kiehauta. Lisää blanchoidut ja silputut mantelit."
+  ],
+  "notes": [
+   "Kuumaa keittoa tarjoillaan usein vaniljajäätelön ja/tai makroonien kanssa.",
+   "Kylmää keittoa voi laimentaa, jolloin siitä tulee mukava janojuoma.",
+   "Islantilainen resepti eroaa siitä, että siinä on vähemmän sokeria (noin 1 rkl) ja sakeuttamiseen käytetään maissitärkkelystä perunajauhon sijaan."
+  ]
+ },
+ {
+  "id": "wikibooks-rosehip-tea",
+  "title": "Ruusunmarjatee",
+  "description": "Ruusunmarjat sisältävät erittäin paljon C-vitamiinia, ja niistä voidaan keittää yrttiteetä. Valmis tee voi olla vaaleanpunertavaa ja maistua happamalta, mutta ei niin happamalta kuin sitruunamehu.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "tee",
+   "ruusunmarja",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl kuivattuja ruusunmarjoja",
+   "2,5 dl vettä",
+   "hunajaa tai sokeria (valinnainen)"
+  ],
+  "instructions": [
+   "Keitä ruusunmarjoja vedessä vähintään 10 minuuttia ja siivilöi.",
+   "Anna jäähtyä hetken ja lisää makeutusainetta halutessasi."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-and-citrus-cordial",
+  "title": "Rosmariini-sitrussiirappi",
+  "description": "Tämä rosmariini- ja sitrushedelmäjuoman resepti on mukautettu Tesco-lehden huhtikuun 2023 numeron sivulta 26.",
+  "servings": 10,
+  "totalTimeMin": 30,
+  "category": "Juomat",
+  "tags": [
+   "siirappi",
+   "sitrus",
+   "rosmariini",
+   "alkoholiton",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1 punainen greippi, pesty",
+   "3 sitruunaa, pestyjä",
+   "½ dl (n. 20 g) rosmariininoksia",
+   "6 cm pala inkivääriä, ohuina viipaleina",
+   "1,5 dl hienoa sokeria",
+   "2,5 dl vettä",
+   "kivennäisvettä tarjoiluun"
+  ],
+  "instructions": [
+   "Kuori greipistä ja kahdesta sitruunasta pitkät kuorisuikaleet kuorimaveitsellä. Varo, ettei valkoista kuorikerrosta tule mukaan.",
+   "Laita kuoret kattilaan. Purista sitruunoista ja greipeistä mehu ja lisää se kattilaan.",
+   "Kaulitse rosmariininoksia muutaman kerran leikkuulaudalla kaulimella, jotta öljyt vapautuvat.",
+   "Lisää rosmariini pannulle inkiväärin, sokerin ja veden kanssa.",
+   "Kuumenna 5 minuuttia matalalla tai keskilämmöllä sekoittaen silloin tällöin, jotta sokeri liukenee.",
+   "Vähennä lämpöä matalalle ja keitä 15 minuuttia, kunnes saat hieman paksua siirappia. Anna sen jäähtyä, käytä sitten heti tai jäähdytä yön yli, jotta maut kehittyvät.",
+   "Siivilöi siirappi siivilän läpi kulhoon tai kannuun. Kaada pulloon.",
+   "Tarjoile sekoittamalla 1–2 rkl siirappia 1,5 dl:aan kivennäisvettä."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-balsamic-chicken-wings",
+  "title": "Rosmariini-balsamicokanansiivet",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "siivet",
+   "rosmariini",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "36 kanansiipipalaa (n. 1,5 kg)",
+   "2,5 dl balsamietikkaa",
+   "3 rosmariininoksaa, hienonnettuna",
+   "1 rkl suolaa",
+   "1 rkl mustapippuria",
+   "1–1½ rkl cayennepippuria",
+   "½ dl paprikajauhetta",
+   "1 rkl valkosipulijauhetta",
+   "maissitärkkelystä pyörittelyyn",
+   "rypsiöljyä uppopaistamiseen"
+  ],
+  "instructions": [
+   "Laita kana vetoketjulliseen muovipussiin. Sekoita yhteen muut ainekset paitsi öljy ja maissijauho ja laita jääkaappiin yön yli.",
+   "Kuumenna öljy 175 asteeseen. Samalla pyöritä kana maissijauhoissa. Paista erissä 12 minuuttia. Valuta rasva pois jäähdytysritilällä.",
+   "Anna levätä 5 minuuttia ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-bread",
+  "title": "Rosmariinileivät",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "rosmariini",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 rkl kuivahiivaa",
+   "2,5 dl haaleaa (n. 40-asteista) vettä",
+   "1 rkl sokeria",
+   "5–6 dl vehnäjauhoja",
+   "1 tl suolaa",
+   "1 rkl oliiviöljyä",
+   "2 rkl tuoretta rosmariinia, hienonnettuna",
+   "2 rkl voita"
+  ],
+  "instructions": [
+   "Laita hiiva, sokeri ja vesi suureen kulhoon ja anna seoksen kuplia.",
+   "Sekoita 5 dl jauhoja hiivaseokseen, johon on lisätty suolaa ja 1 rkl rosmariinia. Siirrä taikina leivänleikkuulaudalle ja vaivaa 10 minuuttia. Lisää loput jauhot tarpeen mukaan, kunnes taikina on sileää ja joustavaa.",
+   "Voitele kulho oliiviöljyllä, laita taikina siihen ja peitä se pyyhkeellä.",
+   "Anna taikinan kohota lämpimässä paikassa 1 tunti, kunnes se on kaksinkertaistunut.",
+   "Työnnä taikina alas ja jaa se kahtia. Anna taikinan levätä 5–10 minuuttia.",
+   "Sulata voi ja sivele se leipien päälle. Ripottele jäljellä oleva rosmariini leipien päälle ja paina se kevyesti pintaan. Ripottele päälle hieman suolaa.",
+   "Voitele uunipelti. Muotoile taikinapuolikkaista pyöreät leivät pellille.",
+   "Paista 200 asteessa noin 13–15 minuuttia, kunnes pinta on kullanruskea."
+  ],
+  "notes": [
+   "Leivät voidaan pakastaa valmistuksen jälkeen, jotta ne voidaan myöhemmin sulattaa ja lämmittää uudelleen. Tällöin ota leivät pakastimesta 1 tunti ennen valmistusta ja laita ne 350°F:n uuniin 5 minuutiksi."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-garlic-baked-potatoes",
+  "title": "Rosmariini-valkosipuliuuniperunat",
+  "description": "Rosmariini-valkosipuli-uuni-perunat ovat herkullinen lisuke, joka koostuu rosmariinilla ja valkosipulilla maustetuista uuni-perunoista.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "rosmariini",
+   "valkosipuli",
+   "uuniruoka",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 isoa uuniperunaa",
+   "4 rkl oliiviöljyä",
+   "2–4 valkosipulinkynttä, hienonnettuna",
+   "1 tl kuivattua rosmariinia, murskattuna",
+   "¼ tl suolaa",
+   "ripaus mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Pese perunat ja puhkaise ne kauttaaltaan haarukalla.",
+   "Aseta kukin peruna omalle noin 23 x 23 cm foliopalalle.",
+   "Kaada 1 rkl oliiviöljyä jokaisen perunan päälle. Varmista, että koko perunan kuori on öljyn peitossa.",
+   "Ripottele jokaisen perunan päälle neljännes valkosipulista, rosmariinista, suolasta ja pippurista.",
+   "Kääri jokainen peruna alumiinifolioon.",
+   "Aseta folioon käärittyjä perunoita uunipellille (jotta vuotava oliiviöljy valuu pellille).",
+   "Paista uunissa 1 tunti."
+  ],
+  "notes": [
+   "Ruokasuolan sijaan voidaan käyttää merisuolaa tai kidesuolaa. Myös tuoretta, hienonnettua rosmariinia voidaan käyttää."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-garlic-fish",
+  "title": "Rosmariini-valkosipulikala",
+  "description": "Tämä on Catsoulis-perheen resepti Kreikan Kytheran saarelta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "rosmariini",
+   "valkosipuli",
+   "nopea"
+  ],
+  "ingredients": [
+   "4 kampela- tai muuta ohutta kalafileetä (n. 500 g)",
+   "vehnäjauhoja, maustettuna suolalla ja pippurilla",
+   "1 rkl oliiviöljyä",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 oksa tuoretta rosmariinia, lehdet hienonnettuna",
+   "1 dl mallasetikkaa"
+  ],
+  "instructions": [
+   "Pyöritä fileet maustetussa jauhoissa, kunnes ne ovat tasaisesti jauhojen peitossa.",
+   "Kuumenna öljy paistinpannussa ja lisää valkosipuli ja rosmariinilehdet. Paista hetki ja lisää sitten kala.",
+   "Kun kala on kypsynyt, ota se pannusta ja valuta ylimääräinen öljy pois.",
+   "Pannussa pitäisi olla tarpeeksi jauhoja (jotka ovat irronneet kalasta) kastikkeen valmistamiseen. Jos niitä ei ole, lisää ruokalusikallinen jauhoja pannun nesteeseen ja ruskista. Lisää etikkaa (ja pysy loitolla). Lisää vähän vettä ja sekoita kastike tasaiseksi.",
+   "Kaada kastike kalan päälle ja tarjoile kreikkalaisen salaatin kera."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-garlic-oil",
+  "skip": "valkosipuliöljyn säilytykseen liittyy botulismiriski"
+ },
+ {
+  "id": "wikibooks-rosemary-garlic-pork-roast",
+  "title": "Rosmariini-valkosipuliporsaanpaisti",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "paisti",
+   "rosmariini",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 luuton porsaan ulkofilee (n. 1,5 kg)",
+   "omenaviinietikkaa",
+   "½ dl mausteseosta (esim. grillimaustetta)",
+   "1 rosmariininoksa",
+   "5 valkosipulinkynttä",
+   "öljyä vuoan voiteluun"
+  ],
+  "instructions": [
+   "Sivele sianlihaa runsaasti omenaviinietikalla. Levitä mausteita painamalla niitä kevyesti, jotta ne tarttuvat paremmin. Suihkuta lihaan tarttumatonta ruoanlaittosuihketta. Laita jääkaappiin vähintään 1 tunniksi.",
+   "Aseta rosmariini paistopellin pohjalle ja järjestä valkosipuli ympyräksi sen ympärille. Aseta sianliha päälle. Jotkut saattavat haluta olla hieman rohkeampia ja tehdä lihaan viillot, joihin rosmariini ja valkosipuli voidaan työntää.",
+   "Työnnä paistolämpömittari paistin keskelle ja paista 190 asteessa, kunnes sisälämpö on 63–65 astetta.",
+   "Ota uunista ja anna levätä 10 minuuttia. Tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-garlic-strip-steak",
+  "title": "Rosmariini-valkosipulipihvit",
+  "description": "Täydellinen isälle isänpäivänä.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "pihvi",
+   "grilli",
+   "rosmariini",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 naudan ulkofileepihviä",
+   "1 ½ tl hienonnettua valkosipulia",
+   "2 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria",
+   "2 rosmariininoksaa"
+  ],
+  "instructions": [
+   "Hiero pihvejä molemmin puolin valkosipulilla ja sivele ne oliiviöljyllä.",
+   "Ripottele pihveihin suolaa ja mustapippuria ja aseta ne grillin korkeimmalle lämpötilalle. Aseta rosmariinia jokaisen pihvin päälle.",
+   "Paista 2–3 minuuttia kummaltakin puolelta ja siirrä keskilämpötilaan. Kypsennä, kunnes sisälämpötila saavuttaa halutun kypsyysasteen.",
+   "Anna levätä 10 minuuttia; viipaloi ohuiksi viistosti syiden poikki ja tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-rosemary-grilled-salmon-steaks",
+  "title": "Rosmariinilla grillatut lohipihvit",
+  "servings": 5,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "grilli",
+   "rosmariini",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 lohipihviä (à 85 g)",
+   "1 rkl rypsiöljyä",
+   "1 rkl omenaviinietikkaa",
+   "1 rosmariininoksa",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita öljy, etikka, rosmariini ja pippuri. Lisää lohipalat ja anna marinoitua 15 minuuttia.",
+   "Aseta pihvit kuumalle grillille ja paista kumpaakin puolta 3 minuuttia, kunnes liha on mureaa."
+  ],
+  "notes": [
+   "Käytä setri- tai leppälautoja tai puuhiiltä maun vahvistamiseksi."
+  ]
+ },
+ {
+  "id": "wikibooks-rosogulla-bengali-milk-balls-in-syrup",
+  "title": "Rosogulla (bengalilaiset tuorejuustopallot sokeriliemessä)",
+  "description": "Rasgulla on maitopohjainen bengalilainen makeinen, joka on suosittu Orissassa ja Länsi-Bengalissa.",
+  "servings": 8,
+  "totalTimeMin": 45,
+  "category": "Jälkiruoat",
+  "tags": [
+   "intialainen",
+   "maito",
+   "juhla",
+   "kasvis"
+  ],
+  "ingredients": [
+   "½ tl sitruunahappoa",
+   "1 dl vettä",
+   "1 litra maitoa",
+   "12 dl sokeria",
+   "1 dl maitoa",
+   "7 dl vettä",
+   "3 tl vehnäjauhoja"
+  ],
+  "instructions": [
+   "Liuota sitruunahappo veteen ja aseta sivuun.",
+   "Kiehauta maito kattilassa jatkuvasti sekoittaen.",
+   "Ota kattila pois liedeltä ja sekoita 5–7 minuuttia, kunnes maito on hieman jäähtynyt.",
+   "Lisää sitruunahappoliuos ja sekoita maitoa varovasti.",
+   "Maito juoksettuu ja hera erottuu. Heran on oltava kirkasta, mikä osoittaa, että maito on juoksettunut kokonaan. Anna sen levätä 3–4 minuuttia.",
+   "Siivilöi kaikki hera pois puhtaalla, kostealla musliiniliinalla.",
+   "Taita musliinikankaan kaikki neljä reunaa ja pyöritä sitä varovasti, jotta maitojauheesta kaikki hera valuu tasaisesti pois.",
+   "Kerää kangas kasaan kaikilta neljältä sivulta ja purista chennaa kevyesti noin 3–4 kertaa, jotta suurin osa herasta valuu pois.",
+   "Siirrä chenna puhtaalle lautaselle ja vaivaa sitä varovasti, jotta siitä poistuvat kokkareet. Varo kuitenkin painamasta liian kovaa chennaa vaivaamisen aikana.",
+   "On suositeltavaa käyttää tätä lähes välittömästi.",
+   "Sekoita sokeri, maito ja vesi isossa (n. 20 cm halkaisijaltaan, 15 cm korkeassa) kattilassa. Kuumenna jatkuvasti sekoittaen, kunnes sokeri on liuennut.",
+   "Kun siirappi alkaa kiehua, sokerin epäpuhtaudet nousevat pintaan muodostaen harmaan kerroksen. Älä sekoita tässä vaiheessa, sillä kerros hajoaa eikä siirappi kirkastu.",
+   "Noin 5 minuutin kuluttua kaada hitaasti 2,5 dl vettä kattilan reunoilta kauhan avulla. Vesi laskee siirapin lämpötilaa ja estää harmaata kerrosta hajoamasta.",
+   "Anna siirapin kiehua hiljalleen keskilämmöllä noin 10 minuuttia ja poista sitten harmaa kerros varovasti reikäkauhalla.",
+   "Kiehauta siirappi uudelleen ja kaada hitaasti toiset 2,5 dl vettä kattilan reunoilta. Poista loput epäpuhtaudet reikäkauhalla.",
+   "Lisää lämpöä ja keitä voimakkaasti 1–2 minuuttia. Aseta sivuun.",
+   "Jaa chenna 16 yhtä suureen osaan ja pyöritä jokaisesta osasta pallo, varmistaen, ettei pinnassa ole halkeamia.",
+   "Pölytä litteän lautasen (thali) takaosa kevyesti jauholla ja aseta sille rullatut chenna-pallot.",
+   "Sekoita 2 tl jauhoja ja 2 dl vettä, jotta saat jauholiuoksen. Aseta sivuun.",
+   "Kuumenna sokerisiirappi syvässä kattilassa voimakkaalla lämmöllä ja anna sen kiehua voimakkaasti.",
+   "Kun se kiehuu, ripottele puolet jauho-liuoksesta sokerisiirappiin. Kun jauho-liuos lisätään, siirapin pinnalle muodostuu vaahtokerros.",
+   "Lisää chenna-pallot kääntämällä lautasen ylösalaisin. Älä kosketa chenna-palloja tässä vaiheessa, sillä ne ovat herkkiä.",
+   "Kun vaahtokerros alkaa laskeutua, ripottele päälle jäljellä oleva puolet jauho-liuoksesta.",
+   "Tämän jälkeen jatka veden (vähintään 2,5 dl) ripottelua sokerisiirapin pinnalle. Varmista, että siirappi vaahtoutuu koko ajan rasgullien kypsennyksen aikana.",
+   "Keitä noin 15 minuuttia ja ripottele jatkuvasti vettä, jotta vaahtoa muodostuu.",
+   "Tarkista, ovatko rasgullat kypsiä. Tämä selvitetään koskettamalla. Jos rasgulla palautuu takaisin muotoonsa painettaessa, se on kypsä. Toinen tapa tarkistaa kypsyys on pudottaa rasgulla kylmään veteen. Jos se vajoaa pohjaan, se on kypsä.",
+   "Ota pois liedeltä.",
+   "Siirrä rasgullat kulhoon yhdessä 2 kauhallisen sokerisiirappia ja 2,5 dl vettä kanssa.",
+   "Jäähdytä ja anna jäähtyä noin 3–4 tuntia ennen tarjoilua."
+  ],
+  "notes": [
+   "Rasgullat tulee aina valmistaa erittäin kovalla lämmöllä.",
+   "Rasgullia valmistettaessa sokerisiirapin on vaahdotettava jatkuvasti.",
+   "Sokerisiirapin tulisi täyttää noin ⅓ pannusta.",
+   "Kun muotoilet rasgulla-palloja (katso muunnelma alla), varmista aina, ettei pallojen pinnalla ole halkeamia.",
+   "Ruoanlaittoaikana rasgullat turpoavat vähintään nelinkertaiseksi alkuperäisestä koostaan.",
+   "Kun ripottelet vettä siirappiin rasgullien kypsyessä, varmista, että ripottelet vettä vain vähän kerrallaan (noin 1 teelusikallinen kerrallaan käsin) eikä suuria määriä.",
+   "Rasgullien kypsymisaika vaihtelee niiden koon mukaan. Suuret rasgullat tarvitsevat enemmän kypsymisaikaa ja päinvastoin."
+  ]
+ },
+ {
+  "id": "wikibooks-rosti-swiss-potato-patties",
+  "title": "Rösti (sveitsiläiset perunaröstit)",
+  "description": "Rösti on sveitsiläinen perunaruoka. Alun perin se oli Bernin kantonin maanviljelijöiden yleinen aamiainen, mutta nykyään sitä syödään kaikkialla Sveitsissä. Monet sveitsiläiset pitävät röstiä kansallisruokana. Nykyään sitä tarjoillaan useimmiten muiden ruokien lisukkeena eikä niinkään aamiaisena.",
+  "servings": 1,
+  "category": "Lisukkeet",
+  "tags": [
+   "peruna",
+   "sveitsiläinen",
+   "nopea",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 iso peruna, pestynä tai kuorittuna",
+   "1 rkl rypsiöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Raasta peruna astiaan, purista ylimääräinen neste pois ja heitä neste pois.",
+   "Jaa seos kahteen yhtä suureen kasaan.",
+   "Kaada öljy paistinpannuun ja kuumenna kohtuullisella lämmöllä.",
+   "Aseta molemmat kasat erikseen pannulle ja paina niitä alas lastalla, jotta kasat pysyvät ehjinä.",
+   "Paista, kunnes alapuoli on kullanruskea, käännä sitten varovasti ympäri ja paista toinen puoli.",
+   "Mausta suolalla ja pippurilla maun mukaan ja tarjoile."
+  ],
+  "notes": [
+   "Röstistä on monia erilaisia versioita.",
+   "Erilaisissa rösti-resepteissä käytetään munia, pekonia, sipulia tai juustoa. Nämä voidaan sekoittaa perunoihin ennen röstin paistamisen aloittamista.",
+   "Yleensä kaikki kuivat ainekset tulisi raastaa tai pilkkoa ennen niiden lisäämistä seokseen.",
+   "Rostin pinnan tulee olla rapea. Tämän saavuttamiseksi perunan tulee olla mahdollisimman kuiva ennen paistamista."
+  ]
+ },
+ {
+  "id": "wikibooks-rosto",
+  "title": "Rosto (porsaspata pastan kanssa)",
+  "description": "Rosto on italialaisperäinen ruokalaji, joka koostuu kahdesta täydellisestä ruokalajista, jotka valmistetaan yhdessä kattilassa ilman uunia. Alun perin pasta tarjoiltiin ensimmäisenä ruokalajina tomaattikastikkeen kera. Sen jälkeen tarjoiltiin viipaloitua lihaa, yleensä edullisempaa sianlihaa selän sijaan ja vieläpä vain pieni pala, sekä perunoita, porkkanoita ja sieniä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "pasta",
+   "pata",
+   "gibraltarilainen"
+  ],
+  "ingredients": [
+   "1 kg porsaan sisäfileetä",
+   "2 porkkanaa",
+   "4 perunaa, neljään osaan leikattuina",
+   "1 sipuli, hienonnettuna",
+   "500 g pennettä tai makaronia",
+   "250 g sieniä",
+   "500 g tuoreita tomaatteja",
+   "1 tlk (400 g) tomaattimurskaa",
+   "suolaa",
+   "mustapippuria",
+   "1 valkosipulinkynsi",
+   "oliiviöljyä paistamiseen",
+   "1 dl valkoviiniä",
+   "ripaus sokeria",
+   "juustoraastetta (edam tai parmesaani)"
+  ],
+  "instructions": [
+   "Paista murskattu valkosipulinkynsi ja hienonnetut sipulit pehmeiksi.",
+   "Lisää tomaatit; paista 5 minuuttia, lisää sitten porsaanfilee ja paista, kunnes pinta on ruskistunut.",
+   "Lisää tomaattimurska ja loraus valkoviiniä.",
+   "Lisää perunat ja porkkanat ja kypsennä, kunnes liha, perunat ja porkkanat ovat kypsiä.",
+   "Lisää sienet noin 10 minuuttia ennen valmistumista.",
+   "Lisää suolaa, pippuria ja sokeria maun mukaan.",
+   "Keitä makaronia, kunnes se on al dente.",
+   "Ota liha muhennoksesta ja viipaloi se.",
+   "Tarjoile liha, perunat ja pasta samalla lautasella, kaada kastike pastan päälle ja ripottele päälle raastettua juustoa."
+  ]
+ },
+ {
+  "id": "wikibooks-ros-polish-meat-soup",
+  "title": "Rosół (puolalainen kanaliemikeitto)",
+  "description": "Rosół on perinteinen puolalainen lihaliemi. Suosituin laji on Rosół z kury eli kirkas kanaliemi. Sitä tarjoillaan yleensä hienojen, usein kotitekoisten nuudelien, kuten juutalaisten lokshen-nuudelien, kanssa. On tärkeää erottaa toisistaan tämän ruokalajin valmistuksessa käytettävät lihalajit. Nuoren kanan liha antaa erilaisen maun kuin vanhemman keittokanan liha. Lisäksi lihalajista riippuu myös rasvapitoisuus. Lopuksi voidaan mainita, että ruoan valmistuksessa voidaan käyttää myös muita lihalajeja tai naudan- ja/tai vasikanlihan sekoitusta.",
+  "servings": 6,
+  "totalTimeMin": 90,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kana",
+   "puolalainen",
+   "liemi",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 broileri (n. 1,5 kg)",
+   "1 sipuli, halkaistuna",
+   "1 pieni purjo",
+   "2 porkkanaa, kuorittuna ja pituussuunnassa viipaloituna",
+   "½ juuriselleri",
+   "2–3 sellerinvartta",
+   "1–2 persiljanjuurta",
+   "1 nippu persiljaa",
+   "suolaa",
+   "mustapippuria",
+   "⅛ kaalinpää",
+   "1 valkosipulinkynsi",
+   "1–2 laakerinlehteä",
+   "3–4 katajanmarjaa",
+   "muutama kuivattu metsäsieni",
+   "3–4 maustepippuria"
+  ],
+  "instructions": [
+   "Leikkaa kana neljään osaan ja laita ne keittokattilaan, jossa on noin 1,5 kylmää vettä. Älä lisää suolaa tässä vaiheessa, sillä se voi kovettaa lihaa. Kuumenna kiehuvaksi kovalla lämmöllä ja anna sitten hautua 30–45 minuuttia. Poista (kuori) tässä vaiheessa pinnalle nousseet jätteet (proteiinin ja rasvan sekoitus).",
+   "Lisää kuorittu valkosipulinkynsi, porkkanat, samalla tavalla valmistettu selleri ja persiljanjuuri sekä muut aiemmin pestyt vihannekset.",
+   "Paista sipulipuolikkaat vähäisessä öljyssä, jotta sipulin sisus karamellisoituu. Lisää keittoon. Jos tämä vaihe jätetään väliin, lopputulos on kirkkaampi ja vähemmän keltainen.",
+   "Hauduta miedolla lämmöllä noin 2 tuntia tai pidempään. Rosół ei saa kiehua, sillä se tekee keitosta sameaa.",
+   "Mausta maun mukaan suolalla, pippurilla, laakerinlehdillä, maustepippurilla, katajanmarjoilla, kuivatuilla metsäsienillä jne.",
+   "Jatka hauduttamista. Voit halutessasi poistaa rasvan pinnalta (perinteisesti ruoan tulisi olla mahdollisimman rasvainen).",
+   "Poista kaali, persilja, juuriselleri ja muut \"ei-toivotut\" vihannekset. Porkkanat jätetään yleensä keittoon ja tarjoillaan liemen mukana.",
+   "Tarjoile kuumana nuudeleiden ja tuoreen persiljan kera. Mausta halutessasi Maggi-mausteella, soijakastikkeella, vastajauhetulla mustapippurilla ja/tai chilihiutaleilla."
+  ],
+  "notes": [
+   "Kanan sijaan voit käyttää ½ kg (1 lb) vasikan- tai naudanlihaa.",
+   "Perinteisen puolalaisen tavan mukaan kanaa ei paloitella neljään osaan eikä leikata millään tavalla.",
+   "Jotta pinnalle nousevia roskia ei tarvitse poistaa, käytä blanchointitekniikkaa: kiehauta suuri määrä vettä (suolatonta). Muista jättää tarpeeksi tilaa kanalle. Kun vesi kiehuu voimakkaasti, laita kana veteen. Anna sen kiehua noin minuutin ajan. Ota kana pois vedestä ja juokse sitä kylmän juoksevan veden alla, kunnes se on jäähtynyt. Nyt voit lisätä kanan rosół-keittoosi ilman, että sinun tarvitsee huolehtia pinnalle nousevista roskista. Tämä tekee rosółista myös kirkkaamman, mikä on yksi hyvän rosół-ruoan tunnusmerkkejä.",
+   "Vihannesliemen tai liemikuution lisääminen on henkilökohtainen valinta. Jotkut väittävät, että se on tarpeetonta, koska vihannekset ja liha antavat liemelle riittävästi makua."
+  ]
+ },
+ {
+  "id": "wikibooks-royal-icing",
+  "title": "Royal icing (kovettuva kuorrute)",
+  "description": "Kuninkaallinen kuorrutus on kuorrutustyyppi, joka kuivuu kovaksi ja kiiltäväksi.",
+  "servings": 1,
+  "totalTimeMin": 10,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kuorrute",
+   "leivonta",
+   "koristelu",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 isoa munanvalkuaista",
+   "ripaus viinikiveä",
+   "5 dl tomusokeria",
+   "elintarvikeväriä (valinnainen)"
+  ],
+  "instructions": [
+   "Vatkaa munanvalkuaiset vatkainlisäosalla varustetun pöytämikserin kulhossa matalalla nopeudella noin 1 minuutin ajan, kunnes ne muuttuvat kuohkeiksi.",
+   "Lisää viinikivi ja jatka sekoittamista matalalla nopeudella, kunnes valkuaiset vaahtoutuvat, noin 2 minuuttia.",
+   "Lisää tomusokeria vähitellen sekoittaen hitaalla nopeudella.",
+   "Jatka sekoittamista, kunnes kuorrutus muodostaa jäykän piikin ja näyttää himmeältä, noin 2 minuuttia. Kuorrutus on valmis käytettäväksi viivojen piirtämiseen."
+  ],
+  "notes": [
+   "Jos olet huolissasi ruokaperäisistä sairauksista, käytä pastöroituja munia.",
+   "Halutessasi voit jakaa kuorrutteen pienempiin kulhoihin ja lisätä niihin väriaineita.",
+   "Kuorrutteen säilyttäminen myöhempää käyttöä varten:",
+   "Puhdista kulhon tai astian sisäpinnat tippojen poistamiseksi.",
+   "Aseta kostutettu paperipyyhe suoraan kuorrutteen pinnalle ja peitä kulho sitten tiiviisti muovikelmulla.",
+   "Säilytä jääkaapissa enintään 5 päivää."
+  ]
+ },
+ {
+  "id": "wikibooks-roz-bel-laban-egyptian-rice-pudding",
+  "title": "Roz bel laban (egyptiläinen riisivanukas)",
+  "description": "Roz bel laban on klassinen egyptiläinen jälkiruoka, jota rakastetaan sen kermaisen ja miellyttävän tekstuurin vuoksi. Se valmistetaan yksinkertaisista ainesosista, kuten riisistä, maidosta, sokerista ja aromaattisista mausteista, ja se on herkullinen herkku, jota voi nauttia sekä lämpimänä että kylmänä. Sitä tarjoillaan usein erityistilaisuuksissa ja juhlissa, ja se tuo iloa niille, jotka nauttivat sen makeasta mausta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "riisi",
+   "maito",
+   "egyptiläinen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl puuroriisiä",
+   "9,5 dl maitoa",
+   "1 dl kidesokeria",
+   "1 tl vaniljauutetta",
+   "¼ tl kanelia",
+   "ripaus muskottipähkinää",
+   "1 ripaus suolaa",
+   "pistaaseja tai manteleita, hienonnettuna"
+  ],
+  "instructions": [
+   "Huuhtele riisi kylmällä vedellä, kunnes vesi on kirkasta. Valuta vesi hyvin pois.",
+   "Sekoita kattilassa huuhdeltu riisi, maito, sokeri, vaniljauute, kaneli, muskottipähkinä ja suola. Sekoita ainekset hyvin keskenään.",
+   "Aseta kattila keskilämmölle ja anna seoksen kiehua hiljalleen, sekoittaen silloin tällöin, jotta riisi ei tartu kattilan pohjaan.",
+   "Vähennä lämpöä matalalle ja anna seoksen hautua kannen avoinna, sekoittaen silloin tällöin, noin 30–40 minuuttia tai kunnes riisi on pehmeää ja seos on sakeutunut kermaiseksi.",
+   "Ota kattila pois liedeltä ja anna roz bel labanin jäähtyä muutama minuutti.",
+   "Kun vanukas on hieman jäähtynyt, jaa se tarjoiluastioihin tai kuppeihin.",
+   "Jos haluat nauttia vanukasta lämpimänä, se voidaan tarjoilla heti. Jos haluat sen kylmänä, laita vanukas jääkaappiin vähintään 2 tunniksi tai kunnes se on kylmä ja jähmettynyt.",
+   "Koristele ennen tarjoilua hienonnettuilla pistaaseilla tai manteleilla, jotta saat lisää tekstuuria ja makua."
+  ],
+  "notes": [
+   "Roz bel laban -reseptiä voi muokata lisäämällä siihen esimerkiksi rusinoita, sahramia tai ruusuveden, jotka antavat sille lisää makua."
+  ]
+ }
 ]
