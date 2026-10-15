@@ -1,0 +1,743 @@
+[
+ {
+  "id": "forkrecipe-turkish-cilbir",
+  "title": "Çılbır (turkkilaiset uppomunat jogurtilla)",
+  "description": "Uppomunat valkosipulijogurtin päällä, päälle kuumaa Aleppo-pippurivoita ja tilliä.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "turkkilainen",
+   "kasvis",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 dl täysrasvaista kreikkalaista jogurttia, huoneenlämpöisenä",
+   "1 valkosipulinkynsi, tahnaksi",
+   "½ tl suolaa",
+   "2 hyvin tuoretta kananmunaa",
+   "1 rkl valkoviinietikkaa",
+   "40 g voita",
+   "2 tl Aleppo-pippuria (pul biber)",
+   "tilliä"
+  ],
+  "instructions": [
+   "Sekoita valkosipulitahna ja suola jogurttiin ja levitä lautaselle.",
+   "Kuumenna vesi ja etikka juuri kiehumispisteen alle ja uppokeitä munat 3–4 minuuttia. Nosta jogurtin päälle.",
+   "Kuumenna voi vaahtoavaksi ja kullanruskeaksi, nosta liedeltä ja sekoita Aleppo-pippuri joukkoon.",
+   "Kaada kuuma voi munien päälle, ripottele tilli ja tarjoa leivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-turkish-coffee",
+  "title": "Turkkilainen kahvi",
+  "description": "Hienoksi jauhettu kahvi, kylmä vesi, sokeri ja kardemumma kuumennetaan cezvessä hitaasti vaahtoavaksi.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 15,
+  "category": "Juomat",
+  "tags": [
+   "kahvi",
+   "turkkilainen",
+   "kuuma juoma",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "2 rkl erittäin hienoksi jauhettua kahvia",
+   "1,2 dl kylmää vettä",
+   "1 rkl sokeria",
+   "ripaus kardemummaa"
+  ],
+  "instructions": [
+   "Sekoita vesi, kahvi, sokeri ja kardemumma cezvessä tai pienessä kattilassa.",
+   "Kuumenna hyvin miedolla lämmöllä, kunnes pinnalle nousee vaahto. Lusikoi vaahtoa kuppeihin ja nosta liedeltä ennen kuin kahvi kiehuu yli.",
+   "Kaada kahvi hitaasti kuppeihin vaahdon alle ja anna sumpin laskeutua 30 sekuntia ennen juomista."
+  ]
+ },
+ {
+  "id": "forkrecipe-turkish-lentil-soup",
+  "title": "Turkkilainen punalinssikeitto (mercimek çorbası)",
+  "description": "Punaiset linssit, sipuli ja peruna keitetään kasvisliemessä ja soseutetaan samettiseksi; päälle paprika-chili-minttuvoita ja sitruunaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "linssit",
+   "turkkilainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g punaisia linssejä, huuhdottuina",
+   "1 iso sipuli, kuutioituna",
+   "3 valkosipulinkynttä, murskattuina",
+   "1 peruna, kuorittuna ja kuutioituna",
+   "1½ tl savustettua paprikajauhetta, jaettuna",
+   "1 tl juustokuminaa",
+   "½ tl chilihiutaleita (pul biber)",
+   "½ tl kuivattua minttua",
+   "2 rkl oliiviöljyä",
+   "1 rkl voita",
+   "1,2 l kasvislientä tai vettä",
+   "1½ tl suolaa",
+   "1 sitruuna"
+  ],
+  "instructions": [
+   "Kuullota sipulia ja valkosipulia öljyssä 10–12 minuuttia. Lisää kumina ja puolet paprikasta ja paista minuutti.",
+   "Lisää peruna, linssit ja liemi. Keitä kannetta 25–30 minuuttia, kunnes linssit hajoavat.",
+   "Soseuta sileäksi, suolaa ja ohenna tarvittaessa vedellä.",
+   "Sulata voi ja lisää loput paprikasta, chili ja minttu. Valuta voi keiton pinnalle ja tarjoa sitruunalohkon kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-turkish-red-lentil-soup",
+  "skip": "lähes sama kuin turkkilainen punalinssikeitto"
+ },
+ {
+  "id": "forkrecipe-turkish-roasted-vegetables",
+  "title": "Turkkilaiset uunikasvikset granaattiomenalla ja jogurtilla",
+  "description": "Kesäkurpitsa, munakoiso, paprika ja punasipuli paahdetaan ja kääntellään granaattiomenasiirapin, sumakin ja yrttien kanssa; tarjoillaan paksun jogurtin päällä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 45,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "turkkilainen",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g kesäkurpitsaa, 3 cm kuutioina",
+   "300 g munakoisoa, 3 cm kuutioina",
+   "1 punainen paprika, suikaleina",
+   "1 punasipuli, lohkoina",
+   "4 valkosipulinkynttä kuorineen",
+   "½ dl oliiviöljyä",
+   "2 rkl granaattiomenasiirappia",
+   "15 g minttua",
+   "15 g lehtipersiljaa",
+   "2 tl sumakkia",
+   "1½ tl suolaa",
+   "2 dl paksua turkkilaista tai kreikkalaista jogurttia"
+  ],
+  "instructions": [
+   "Kuumenna uuni ja pelti 220 asteeseen. Kääntele kasvikset ja valkosipulit öljyssä ja suolassa ja levitä kuumalle pellille.",
+   "Paahda 25–30 minuuttia kerran käännellen, kunnes kasvikset ovat pehmeitä ja ruskistuneita.",
+   "Purista valkosipulit kuoristaan kasvisten joukkoon, valuta granaattiomenasiirappi ja ripottele sumakki.",
+   "Levitä jogurtti vadille ja kasaa lämpimät kasvikset päälle. Ripottele yrtit."
+  ]
+ },
+ {
+  "id": "forkrecipe-tzatziki",
+  "title": "Tzatziki",
+  "description": "Raastettu ja puristettu kurkku sekoitetaan valutettuun kreikkalaiseen jogurttiin valkosipulin, oliiviöljyn, etikan ja tillin kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 80,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kreikkalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 dl kreikkalaista jogurttia (10 %)",
+   "1 kurkku (n. 200 g valmiina), raastettuna",
+   "2 valkosipulinkynttä, tahnaksi raastettuna",
+   "3 rkl oliiviöljyä",
+   "1 rkl punaviinietikkaa tai sitruunamehua",
+   "2 rkl tilliä, hienonnettuna",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Raasta kurkku, sekoita kolmannes suolasta joukkoon ja anna valua siivilässä 15–20 minuuttia. Purista liinassa kuivaksi.",
+   "Vatkaa jogurtti sileäksi ja lisää valkosipuli, öljy ohuena nauhana ja etikka.",
+   "Kääntele kurkku ja tilli joukkoon ja mausta suolalla. Anna maustua jääkaapissa vähintään tunti."
+  ]
+ },
+ {
+  "id": "forkrecipe-vegan-green-curry-paste",
+  "skip": "lähes sama kuin vihreä currytahna (miso katkaraputahnan tilalla)"
+ },
+ {
+  "id": "forkrecipe-vegetable-stock",
+  "title": "Kasvisliemi",
+  "description": "Sipuli, porkkana, selleri, purjo ja valkosipuli hauduttuvat hetken öljyssä, ja liemi keitetään hiljaa tomaatin, yrttikimpun ja pippurin kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 75,
+  "category": "Muut",
+  "tags": [
+   "liemi",
+   "kasvis",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä tai voita",
+   "1 sipuli kuorineen, puolitettuna",
+   "1 porkkana, karkeasti pilkottuna",
+   "2 varsiselleriä lehtineen",
+   "1 purjon vaalea osa, halkaistuna ja huuhdottuna",
+   "1 tomaatti tai 1 rkl tomaattipyreetä",
+   "4 valkosipulinkynttä, murskattuina",
+   "yrttikimppu: persiljanvarsia, timjamia, laakerinlehti",
+   "1 tl mustapippureita, murskattuina",
+   "2 l kylmää vettä"
+  ],
+  "instructions": [
+   "Hauduta sipuli, porkkana, selleri, purjo ja valkosipuli öljyssä miedolla lämmöllä 8–10 minuuttia ruskistamatta.",
+   "Lisää tomaatti ja paista minuutti. Lisää yrttikimppu, pippurit ja kylmä vesi.",
+   "Keitä hyvin hiljaa 40–45 minuuttia, kuoria pois kuorien.",
+   "Siivilöi kauhalla harsokankaan läpi. Säilyy jääkaapissa 4 päivää tai pakasteessa."
+  ]
+ },
+ {
+  "id": "forkrecipe-veloute",
+  "title": "Velouté-kastike",
+  "description": "Vaalea voi-jauhosuurus suurustetaan vaalealla kana- tai vasikanliemellä ja keitetään hiljaa sileäksi perus­kastikkeeksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 45,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "ranskalainen"
+  ],
+  "ingredients": [
+   "6 dl vaaleaa kana- tai vasikanlientä, lämpimänä",
+   "50 g voita",
+   "50 g vehnäjauhoja",
+   "½ tl suolaa",
+   "ripaus valkopippuria"
+  ],
+  "instructions": [
+   "Sulata voi miedolla lämmöllä, vatkaa jauhot joukkoon ja kypsennä 3–4 minuuttia vaaleana.",
+   "Nosta liedeltä ja vatkaa lämmin liemi joukkoon useassa erässä. Palauta liedelle ja kiehauta.",
+   "Hauduta hiljaa 20–30 minuuttia, kuorien kalvo pinnalta.",
+   "Mausta suolalla ja valkopippurilla ja siivilöi."
+  ]
+ },
+ {
+  "id": "forkrecipe-vichyssoise",
+  "title": "Vichyssoise (kylmä purjo-perunakeitto)",
+  "description": "Voissa haudutettu purjo ja jauhoinen peruna keitetään liemessä, soseutetaan sileäksi, kermaa joukkoon ja tarjoillaan kylmänä ruohosipulin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 80,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "peruna",
+   "purjo",
+   "ranskalainen",
+   "kylmä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "3 purjon vaaleaa osaa, viipaleina (n. 450 g)",
+   "400 g jauhoisia perunoita, kuorittuina ja kuutioituna",
+   "75 g voita",
+   "8 dl kana- tai kasvislientä",
+   "1,5 dl kuohukermaa",
+   "1½ tl suolaa",
+   "ripaus valkopippuria",
+   "2 rkl ruohosipulia, hienonnettuna"
+  ],
+  "instructions": [
+   "Hauduta purjoja voissa ripauksen suolaa kanssa 10–12 minuuttia pehmeiksi ruskistamatta.",
+   "Lisää perunat ja lämmin liemi ja keitä 20–25 minuuttia, kunnes perunat ovat täysin pehmeitä.",
+   "Soseuta erittäin sileäksi ja sekoita kerma joukkoon. Mausta suolalla ja valkopippurilla.",
+   "Jäähdytä jääkaapissa vähintään tunti, mieluiten 4. Tarkista suola kylmänä ja tarjoa ruohosipulin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-vietnamese-caramel-fish",
+  "title": "Cá kho tộ (vietnamilainen karamellikala)",
+  "description": "Kalapalat haudutetaan tummassa karamellissa kalakastikkeen, kookosveden, salotin, valkosipulin, inkiväärin ja pippurin kanssa siirappiseksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "vietnamilainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g pangasius- tai monnifileetä, 3 cm paloina",
+   "60 g sokeria",
+   "3 rkl kalakastiketta",
+   "1,2 dl kookosvettä tai vettä",
+   "3 salottisipulia, ohuina viipaleina",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "10 g inkivääriä, ohuina viipaleina",
+   "1 punainen chili, viipaleina",
+   "½ tl karkeaa mustapippuria",
+   "2 kevätsipulia, renkaina"
+  ],
+  "instructions": [
+   "Sulata sokeri savipadassa tai paksupohjaisessa kattilassa sekoittamatta tummaksi meripihkaksi.",
+   "Kaada kalakastike ja kookosvesi karamelliin varovasti ja sekoita, kunnes karamelli liukenee. Lisää salotti, valkosipuli, inkivääri ja chili.",
+   "Lisää kala ja hauduta kannen alla miedolla lämmöllä 15 minuuttia, kerran kääntäen.",
+   "Poista kansi ja keitä 5–8 minuuttia valellen, kunnes kastike on paksua ja tummaa. Ripottele pippuri ja kevätsipuli ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-vietnamese-caramel-pork",
+  "title": "Thit kho (vietnamilainen karamelliporsas ja munat)",
+  "description": "Porsaankylki ruskistetaan karamellissa ja haudutetaan kookosvedessä ja kalakastikkeessa; lopuksi joukkoon keitetyt munat, jotka imevät tummaa lientä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "vietnamilainen",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "800 g porsaan kylkeä kamaroineen, 4 cm paloina",
+   "4 dl kookosvettä",
+   "4 rkl kalakastiketta",
+   "80 g sokeria",
+   "20 g palmusokeria tai fariinisokeria",
+   "3 salottisipulia, viipaleina",
+   "4 valkosipulinkynttä, viipaleina",
+   "4 kovaksi keitettyä kananmunaa, kuorittuina",
+   "½ tl mustapippuria",
+   "2 kevätsipulia",
+   "1 thaichili (valinnainen)"
+  ],
+  "instructions": [
+   "Sulata sokeri kattilassa sekoittamatta meripihkan väriseksi.",
+   "Lisää porsaanpalat ja kääntele karamellissa 3–4 minuuttia.",
+   "Lisää salotti ja valkosipuli ja minuutin päästä kookosvesi, kalakastike ja palmusokeri. Hauduta kannen alla 45 minuuttia.",
+   "Lisää munat ja hauduta kannetta 20–25 minuuttia valellen, kunnes liemi on tummaa ja liha mureaa.",
+   "Ripottele pippuri, kevätsipuli ja chili ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-vietnamese-iced-coffee",
+  "title": "Cà phê sữa đá (vietnamilainen jääkahvi)",
+  "description": "Tumma kahvi tippuu phin-suodattimen läpi makeutetun maitotiivisteen päälle, sekoitetaan ja kaadetaan jäille.",
+  "servings": 1,
+  "prepTimeMin": 10,
+  "totalTimeMin": 15,
+  "category": "Juomat",
+  "tags": [
+   "kahvi",
+   "vietnamilainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "20 g tummapaahtoista kahvia, karkeasti jauhettuna",
+   "9 cl kuumaa vettä (92–96 astetta)",
+   "3 rkl makeutettua maitotiivistettä",
+   "6 isoa jääpalaa"
+  ],
+  "instructions": [
+   "Laita maitotiiviste lasin pohjalle.",
+   "Laita kahvi phin-suodattimeen, paina kevyesti ja kaada ensin vähän vettä kostuttamaan. Anna turvota 30 sekuntia ja kaada loput vedestä. Anna tippua 4–5 minuuttia.",
+   "Sekoita kahvi ja maitotiiviste tasaiseksi ja kaada jäiden päälle."
+  ]
+ },
+ {
+  "id": "forkrecipe-vietnamese-pork-meatballs",
+  "title": "Bún chả -pihvit nuoc cham -liemessä",
+  "description": "Kalakastikkeella ja salotilla maustetut porsaspihvit grillataan ja upotetaan makeahappamaan limetti-kalakastikeliemeen; tarjoillaan riisinuudelien ja yrttien kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "vietnamilainen",
+   "grilli"
+  ],
+  "ingredients": [
+   "450 g sian jauhelihaa",
+   "3 rkl salottisipulia, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 rkl kalakastiketta",
+   "1½ tl sokeria",
+   "½ tl mustapippuria",
+   "Liemi:",
+   "1,8 dl lämmintä vettä",
+   "3 rkl limettimehua",
+   "3 rkl kalakastiketta",
+   "2 rkl sokeria",
+   "2 valkosipulinkynttä, ohuina viipaleina",
+   "1 pieni punainen chili, viipaleina",
+   "Tarjoiluun:",
+   "riisivermiselliä, tuoreita yrttejä (minttu, korianteri, thaibasilika)"
+  ],
+  "instructions": [
+   "Sekoita jauheliha, salotti, valkosipuli, kalakastike, sokeri ja pippuri käsin 2–3 minuuttia. Jäähdytä 30 minuuttia.",
+   "Liuota sokeri lämpimään veteen, lisää kalakastike, limettimehu, valkosipuli ja chili.",
+   "Muotoile litteitä 2 cm pihvejä ja grillaa tai paista kuumalla valurautapannulla 3–4 minuuttia per puoli.",
+   "Laita kuumat pihvit liemikulhoihin ja tarjoa nuudelien ja yrttien kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-vinaigrette",
+  "title": "Klassinen vinegretti",
+  "description": "Hienonnettu salottisipuli liotetaan punaviinietikassa ja suolassa, joukkoon dijonsinappi ja oliiviöljy ohuena nauhana vatkaten.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "salaatinkastike",
+   "ranskalainen",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 rkl punaviinietikkaa",
+   "1 rkl dijonsinappia",
+   "1 salottisipuli, hyvin hienoksi hienonnettuna",
+   "½ tl suolaa",
+   "½ tl mustapippuria",
+   "9 rkl oliiviöljyä",
+   "1 tl hunajaa (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita salotti, etikka ja suola ja anna seistä 10 minuuttia.",
+   "Vatkaa joukkoon sinappi (ja hunaja).",
+   "Lisää öljy ohuena nauhana koko ajan vatkaten, kunnes kastike emulgoituu.",
+   "Mausta pippurilla ja maista salaatinlehdellä."
+  ]
+ },
+ {
+  "id": "forkrecipe-vitello-tonnato",
+  "title": "Vitello tonnato",
+  "description": "Valkoviinissä haudutettu vasikanpaisti jäähdytetään, leikataan hyvin ohueksi ja peitetään tonnikala-kapriskastikkeella.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 180,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikanliha",
+   "italialainen",
+   "kylmä",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "800 g vasikan paahtopaistia tai ulkofilettä",
+   "2,5 dl kuivaa valkoviiniä",
+   "2 laakerinlehteä",
+   "8 mustapippuria",
+   "Kastike:",
+   "160 g öljysäilöttyä tonnikalaa, valutettuna",
+   "40 g kapriksia",
+   "2 munankeltuaista",
+   "1,2 dl oliiviöljyä",
+   "2 rkl sitruunamehua",
+   "kapriksia ja sitruunaviipaleita koristeeksi"
+  ],
+  "instructions": [
+   "Sido liha tarvittaessa. Laita kattilaan viinin, laakerinlehtien, pippurien ja veden kanssa ja hauduta hiljaa 40–50 minuuttia (sisälämpö 58–60 astetta). Jäähdytä liemessään.",
+   "Soseuta tonnikala, kaprikset ja keltuaiset, ja lisää öljy ohuena nauhana koneen käydessä kuin majoneesiin. Mausta sitruunalla ja ohenna tarvittaessa haudutusliemellä.",
+   "Leikkaa kylmä liha 2–3 mm viipaleiksi.",
+   "Levitä kastiketta vadille, kerrosta viipaleet päälle ja peitä kastikkeella. Koristele kapriksilla ja sitruunalla ja anna maustua jääkaapissa tunti."
+  ]
+ },
+ {
+  "id": "forkrecipe-water-kefir",
+  "title": "Vesikefiiri",
+  "description": "Vesikefiirijyvät käyttävät sokerivettä aprikoosin ja sitruunan kanssa vuorokauden tai kaksi; toinen käyminen pulloissa hedelmämehulla tekee juomasta poreilevan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "fermentoitu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "3 rkl vesikefiirijyviä",
+   "60 g ruokosokeria",
+   "1 l kloorittomia vettä",
+   "2 kuivattua aprikoosia (rikitöntä)",
+   "1 sitruunaviipale",
+   "½ dl hedelmämehua tai inkivääriviipaleita toiseen käymiseen"
+  ],
+  "instructions": [
+   "Liuota sokeri kupilliseen lämmintä vettä, jäähdytä ja sekoita loppuun veteen lasipurkissa.",
+   "Lisää jyvät, aprikoosit ja sitruuna. Peitä liinalla.",
+   "Anna käydä 22–28 asteessa 24–48 tuntia.",
+   "Siivilöi muovisiivilällä pulloihin, lisää mehu tai inkivääri ja sulje. Anna käydä huoneenlämmössä 1–2 päivää ja siirrä jääkaappiin. Avaa varovasti."
+  ]
+ },
+ {
+  "id": "forkrecipe-welsh-rarebit",
+  "title": "Welsh rarebit (juustopaahtoleipä)",
+  "description": "Kypsytetystä cheddarista, tummasta oluesta, sinapista ja worcestershirestä keitetty juustokastike levitetään paahtoleivälle ja gratinoidaan kuplivaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Välipalat",
+  "tags": [
+   "juusto",
+   "brittiläinen",
+   "leipä",
+   "nopea"
+  ],
+  "ingredients": [
+   "250 g kypsytettyä cheddaria, raastettuna",
+   "6 rkl tummaa olutta tai stoutia",
+   "20 g voita",
+   "1 tl sinappijauhetta",
+   "2 tl worcestershirekastiketta",
+   "4 paksua viipaletta hapanjuuri- tai maalaisleipää"
+  ],
+  "instructions": [
+   "Paahda leipä grillivastuksen alla vain toiselta puolelta.",
+   "Sulata voi, lisää olut ja kuumenna hiljaa kiehuvaksi. Lisää sinappi ja worcestershire.",
+   "Lisää juusto erissä miedolla lämmöllä sekoittaen, kunnes kastike on sileää.",
+   "Levitä paksu kerros leivän paahdetulle puolelle ja gratinoi kuumassa grillissä 3–4 minuuttia kuplivaksi ja täplikkääksi."
+  ]
+ },
+ {
+  "id": "forkrecipe-white-bean-kale-parmesan-soup",
+  "title": "Valkopapu-lehtikaalikeitto parmesaanilla",
+  "description": "Hitaasti haudutetut juurekset, cannellinipavut ja parmesaanin kuori keitetään liemessä; lopuksi lehtikaali, sitruuna ja raastettu parmesaani.",
+  "servings": 6,
+  "prepTimeMin": 25,
+  "totalTimeMin": 60,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "pavut",
+   "lehtikaali",
+   "italialainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "3 rkl oliiviöljyä + viimeistelyyn",
+   "1 sipuli, hienoksi kuutioituna",
+   "1 porkkana, hienoksi kuutioituna",
+   "1 varsiselleri, hienoksi kuutioituna",
+   "5 valkosipulinkynttä, ohuina viipaleina",
+   "½ tl chilihiutaleita",
+   "2 rosmariininoksaa",
+   "900 g keitettyjä cannellinipapuja (tai 3 tlk valutettuna)",
+   "60 g parmesaanin kuorta",
+   "1,5 l kasvislientä",
+   "250 g lehtikaalia (cavolo nero), suikaleina",
+   "1 rkl sitruunamehua",
+   "60 g parmesaania, raastettuna",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Hauduta sipuli, porkkana ja selleri öljyssä ripauksen suolaa kanssa 10–12 minuuttia. Lisää valkosipuli, chili ja rosmariini.",
+   "Lisää pavut, parmesaanin kuori ja liemi. Keitä hiljaa 25–30 minuuttia.",
+   "Lisää lehtikaali ja keitä 5–8 minuuttia. Poista kuori ja rosmariini.",
+   "Nosta liedeltä, lisää sitruunamehu ja puolet parmesaanista ja mausta. Tarjoa lopun parmesaanin ja oliiviöljyn kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-whole-wheat-roti",
+  "title": "Täysjyväroti (chapati)",
+  "description": "Atta-täysjyvävehnäjauhosta ja lämpimästä vedestä vaivattu taikina kaulitaan ohuiksi levyiksi ja paistetaan kuivalla pannulla pullistuviksi; voidellaan gheellä.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 45,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "intialainen",
+   "täysjyvä",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "300 g atta-jauhoja tai hienoa täysjyvävehnäjauhoa",
+   "1,7 dl lämmintä vettä",
+   "1 tl suolaa",
+   "1 rkl öljyä tai gheetä (valinnainen)",
+   "2 rkl gheetä voiteluun"
+  ],
+  "instructions": [
+   "Sekoita jauhot, suola ja öljy ja lisää vesi vähitellen. Vaivaa 8–10 minuuttia pehmeäksi taikinaksi. Lepuuta peitettynä 30 minuuttia.",
+   "Jaa 10–12 palloon ja kauli kukin noin 20 cm ohueksi levyksi.",
+   "Kuumenna kuiva valurautapannu kuumaksi. Paista rotia 30 sekuntia, käännä ja paista 30–45 sekuntia. Käännä vielä ja painele liinalla, jotta se pullistuu.",
+   "Voitele gheellä ja pidä liinan alla lämpimänä."
+  ]
+ },
+ {
+  "id": "forkrecipe-whole-wheat-sandwich-bread",
+  "title": "Täysjyvävehnävuokaleipä",
+  "description": "Puolet täysjyvä- ja puolet vehnäjauhoja liotetaan vedessä, vaivataan hiivan, hunajan ja öljyn kanssa ja paistetaan pehmeäksi vuokaleiväksi.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 210,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "täysjyvä",
+   "leivonta"
+  ],
+  "ingredients": [
+   "250 g täysjyvävehnäjauhoja",
+   "250 g vehnäjauhoja",
+   "3,6 dl lämmintä vettä (40 astetta)",
+   "6 g kuivahiivaa",
+   "1 rkl hunajaa",
+   "9 g suolaa",
+   "1 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja vesi ja anna levätä 20 minuuttia.",
+   "Lisää hiiva, hunaja, suola ja öljy ja vaivaa 8–10 minuuttia. Kohota kaksinkertaiseksi 1–1½ tuntia.",
+   "Taputtele suorakaiteeksi, taita ja rullaa tiukaksi ja laita voideltuun leipävuokaan. Kohota, kunnes taikina on 2 cm reunan yläpuolella.",
+   "Paista 190 asteessa 30–35 minuuttia (sisälämpö 88–90 astetta). Jäähdytä ritilällä."
+  ]
+ },
+ {
+  "id": "forkrecipe-wild-mushroom-risotto",
+  "title": "Metsäsienirisotto",
+  "description": "Kovalla lämmöllä ruskistetut metsäsienet kääntellään risottoon, joka keitetään valkoviinillä ja lämpimällä liemellä ja viimeistellään kylmällä voilla ja parmesaanilla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 55,
+  "category": "Pääruoat",
+  "tags": [
+   "risotto",
+   "sienet",
+   "italialainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g carnaroli- tai arboriorisottoriisiä",
+   "250 g metsäsieniä (herkkutatti, kantarelli, herkkusieni), viipaleina",
+   "1,2 l lämmintä kasvis- tai kanalientä",
+   "2 salottisipulia, hienonnettuna",
+   "60 g kylmää voita, kuutioina",
+   "75 g Parmigiano-Reggianoa, hienoksi raastettuna",
+   "1 dl kuivaa valkoviiniä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Ruskista sienet nokareessa voita kuumalla pannulla koskematta 2–3 minuuttia ja mausta. Nosta sivuun.",
+   "Sulata puolet voista leveässä kattilassa ja kuullota salotteja 3–4 minuuttia. Lisää riisi ja paahda 2 minuuttia.",
+   "Lisää viini ja anna imeytyä. Lisää lämmin liemi kauhallinen kerrallaan sekoittaen, kunnes riisi on al dente (17–20 minuuttia).",
+   "Nosta liedeltä, lisää sienet, kylmä voi ja parmesaani ja sekoita voimakkaasti kermaiseksi. Anna levätä 2 minuuttia ja tarjoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-winter-vegetable-minestrone",
+  "title": "Talvikasvisminestrone",
+  "description": "Juurekset, tomaatti, myskikurpitsa, borlottipavut ja savoijinkaali keitetään parmesaanin kuoren kanssa; lopuksi pientä pastaa.",
+  "servings": 6,
+  "prepTimeMin": 40,
+  "totalTimeMin": 90,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "italialainen",
+   "pavut",
+   "kasvis"
+  ],
+  "ingredients": [
+   "½ dl oliiviöljyä + viimeistelyyn",
+   "1 sipuli, kuutioituna",
+   "2 porkkanaa, kuutioituna",
+   "2 varsiselleriä, kuutioituna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "2 rkl tomaattipyreetä",
+   "1 rosmariininoksa",
+   "¼ tl chilihiutaleita",
+   "1 tlk (400 g) kokonaisia tomaatteja, käsin murskattuina",
+   "2 l vettä tai kasvislientä",
+   "60 g parmesaanin kuorta",
+   "2 tl suolaa",
+   "500 g myskikurpitsaa, 1,5 cm kuutioina",
+   "480 g keitettyjä borlottipapuja",
+   "300 g savoijinkaalia, suikaleina",
+   "120 g pientä pastaa (ditalini)",
+   "50 g parmesaania, raastettuna"
+  ],
+  "instructions": [
+   "Hauduta sipulia, porkkanaa ja selleriä öljyssä 12–15 minuuttia. Lisää valkosipuli, tomaattipyree, rosmariini ja chili ja paista 2 minuuttia.",
+   "Lisää tomaatit, vesi, parmesaanin kuori ja suola ja kiehauta. Lisää kurpitsa ja pavut ja keitä 25–30 minuuttia.",
+   "Lisää kaali ja keitä 10 minuuttia. Poista rosmariini ja kuori.",
+   "Lisää pasta ja keitä, kunnes se on kypsä. Tarjoa parmesaanin ja oliiviöljyn kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-wonton-broth",
+  "skip": "liemi ja wontonit sisältyvät wonton-keittoon"
+ },
+ {
+  "id": "forkrecipe-wonton-soup",
+  "title": "Wonton-keitto",
+  "description": "Porsas-katkarapuwontonit keitetään erikseen ja tarjoillaan kirkkaassa inkivääri-kevätsipulikanaliemessä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 50,
+  "totalTimeMin": 80,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kiinalainen",
+   "sianliha",
+   "äyriäiset"
+  ],
+  "ingredients": [
+   "200 g sian jauhelihaa",
+   "150 g raakoja katkarapuja, karkeasti hienonnettuna",
+   "30 wonton-kuorta",
+   "1 rkl vaaleaa soijakastiketta",
+   "2 tl shaoxing-riisiviiniä",
+   "2 tl seesamiöljyä",
+   "10 g inkivääriä, raastettuna",
+   "2 kevätsipulin vaaleaa osaa, hienonnettuna",
+   "1 munanvalkuainen",
+   "1,2 l kirkasta kanalientä",
+   "15 g inkivääriä, viipaleina",
+   "2 kevätsipulia solmuna liemeen",
+   "suolaa",
+   "valkopippuria",
+   "kevätsipulin vihreää osaa"
+  ],
+  "instructions": [
+   "Sekoita jauheliha, katkaravut, soija, riisiviini, seesamiöljy, raastettu inkivääri, kevätsipuli ja valkuainen voimakkaasti sitkeäksi täytteeksi. Jäähdytä.",
+   "Laita teelusikallinen täytettä kuoren keskelle, kostuta reunat ja taita kolmioksi, ja yhdistä kulmat.",
+   "Kuumenna liemi inkivääriviipaleiden ja kevätsipulisolmun kanssa juuri kiehuvaksi ja mausta suolalla ja valkopippurilla.",
+   "Keitä wontoneja erissä runsaassa kiehuvassa vedessä 3–4 minuuttia, kunnes ne nousevat pintaan. Siirrä kulhoihin, kaada kuuma liemi päälle ja ripottele kevätsipuli."
+  ]
+ }
+]

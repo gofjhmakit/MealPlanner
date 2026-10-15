@@ -1,0 +1,656 @@
+[
+ {
+  "id": "forkrecipe-tom-kha-gai-broth",
+  "skip": "lähes sama kuin tom kha gai"
+ },
+ {
+  "id": "forkrecipe-tom-kha-gai",
+  "title": "Tom kha gai (thaimaalainen kookos-kanakeitto)",
+  "description": "Kookosmaito ja kanaliemi maustetaan galangalilla, sitruunaruoholla ja kaffirlimetin lehdillä; kana ja osterivinokkaat kypsyvät liemessä, ja lopuksi kalakastike ja limetti.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kana",
+   "thaimaalainen",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 dl kookosmaitoa",
+   "3 dl kanalientä",
+   "250 g luuttomia broilerin reisifileitä, 5 mm suikaleina",
+   "30 g galangalia, 3 mm viipaleina",
+   "2 sitruunaruohon vartta, murskattuina ja 5 cm paloina",
+   "6 kaffirlimetin lehteä, revittyinä",
+   "2 rkl kalakastiketta",
+   "2 rkl limettimehua",
+   "100 g osterivinokkaita, revittyinä",
+   "3 thaichiliä, kevyesti murskattuina",
+   "10 g korianteria",
+   "1 rkl palmusokeria tai fariinisokeria"
+  ],
+  "instructions": [
+   "Kuumenna kookosmaito, liemi, galangal, sitruunaruoho, limetinlehdet ja chilit hiljaa kiehuvaksi ja hauduta 5 minuuttia.",
+   "Lisää sienet ja minuutin päästä kana. Hauduta 6–8 minuuttia, kunnes kana on kypsää.",
+   "Nosta liedeltä ja lisää kalakastike, sokeri ja limettimehu. Maista: keiton tulee olla täyteläinen, hapan, suolainen ja hiukan makea.",
+   "Annostele kulhoihin ja ripottele korianteri pinnalle."
+  ]
+ },
+ {
+  "id": "forkrecipe-tom-yum-broth",
+  "skip": "lähes sama kuin tom yum goong"
+ },
+ {
+  "id": "forkrecipe-tom-yum-paste",
+  "title": "Tom yum -tahna",
+  "description": "Sitruunaruoho, galangal, kaffirlimetin kuori, liotetut kuivatut chilit, salotti, valkosipuli ja paahdettu katkaraputahna survotaan huhmareessa tahnaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 25,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "thaimaalainen",
+   "currytahna",
+   "tulinen"
+  ],
+  "ingredients": [
+   "60 g sitruunaruohon valkoista osaa, ohuina viipaleina",
+   "40 g galangalia, kuorittuna",
+   "20 g kaffirlimetin kuorta",
+   "60 g kuivattuja punaisia chilejä, siemenet poistettuina ja liotettuina",
+   "40 g salottisipulia",
+   "30 g valkosipulia",
+   "20 g katkaraputahnaa, paahdettuna foliossa",
+   "10 g kuivattuja kaffirlimetin lehtiä, murennettuina",
+   "10 g suolaa",
+   "1 rkl kalakastiketta"
+  ],
+  "instructions": [
+   "Survo sitruunaruoho, galangal, limetinkuori ja suola huhmareessa kuiduiksi.",
+   "Lisää valutetut chilit, salotti ja valkosipuli vähitellen ja survo tasaiseksi.",
+   "Lisää paahdettu katkaraputahna ja limetinlehdet ja survo sekaisin. Mausta kalakastikkeella. Säilyy jääkaapissa viikon."
+  ]
+ },
+ {
+  "id": "forkrecipe-tom-yum-soup",
+  "title": "Tom yum goong (hapan-tulinen katkarapukeitto)",
+  "description": "Liemi maustetaan sitruunaruoholla, galangalilla, limetinlehdillä ja chilillä; sienet ja katkaravut kypsyvät nopeasti, ja lopuksi kalakastike ja limettimehu.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "äyriäiset",
+   "thaimaalainen",
+   "tulinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l vettä tai kevyttä kanalientä",
+   "3 sitruunaruohon vartta, murskattuina ja 5 cm paloina",
+   "25 g galangalia, viipaleina",
+   "6 kaffirlimetin lehteä, revittyinä",
+   "4–5 thaichiliä, murskattuina",
+   "400 g isoja katkarapuja",
+   "150 g osterivinokkaita, puolitettuina",
+   "3 rkl kalakastiketta",
+   "4 rkl limettimehua",
+   "1 rkl nam prik pao -chilitahnaa (valinnainen)",
+   "korianteria ja kevätsipulia"
+  ],
+  "instructions": [
+   "Kiehauta vesi sitruunaruohon, galangalin, limetinlehtien ja chilien kanssa ja keitä 10–12 minuuttia. Lisää halutessa chilitahna.",
+   "Lisää sienet ja keitä 3–4 minuuttia.",
+   "Lisää katkaravut ja keitä 1–2 minuuttia, kunnes ne juuri muuttuvat vaaleanpunaisiksi.",
+   "Nosta liedeltä ja mausta kalakastikkeella ja limettimehulla. Tarjoa korianterin ja kevätsipulin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tomatillo-salsa-verde",
+  "title": "Tomatillo-salsa verde",
+  "description": "Keitetyt tomatillot ja valkosipuli, hiillostetut serranochilit, raaka sipuli, korianteri ja limetti soseutetaan raikkaaksi vihreäksi salsaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "salsa",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g tomatilloja (tai vihreitä tomaatteja), kuorittuina",
+   "2–3 serrano- tai jalapeñochiliä",
+   "1 pieni valkosipuli (sipuli), karkeasti pilkottuna",
+   "3 valkosipulinkynttä",
+   "1 nippu korianteria",
+   "1 tl suolaa",
+   "3 rkl limettimehua"
+  ],
+  "instructions": [
+   "Keitä tomatilloja ja valkosipulinkynsiä vedessä 8–10 minuuttia, kunnes tomatillot vaalenevat. Valuta ja ota keitinlientä talteen.",
+   "Hiillosta chilit liekissä tai grillivastuksen alla mustiksi.",
+   "Soseuta tomatillot, valkosipuli, chilit, sipuli, korianteri, suola ja limettimehu tehosekoittimessa haluttuun rakenteeseen, ohentaen keitinliemellä."
+  ]
+ },
+ {
+  "id": "forkrecipe-tomato-confit",
+  "title": "Tomaattikonfit",
+  "description": "Halkaistut luumutomaatit paahdetaan hitaasti oliiviöljyssä valkosipulin, timjamin, sokerin ja suolan kanssa makeiksi ja tiiviiksi; säilötään omaan öljyynsä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 195,
+  "category": "Säilykkeet",
+  "tags": [
+   "tomaatti",
+   "välimeri",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg luumutomaatteja, pituussuunnassa halkaistuina",
+   "2,5 dl oliiviöljyä",
+   "6 valkosipulinkynttä kuorineen",
+   "6 timjaminoksaa",
+   "2 rkl sokeria",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "muutama tippa balsamietikkaa (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna uuni 110 asteeseen. Asettele tomaatit leikkuupinta ylöspäin tiiviisti vuokaan.",
+   "Ripottele sokeri, suola ja pippuri, lisää valkosipulit ja timjami ja kaada öljy päälle.",
+   "Paahda 2½–3 tuntia, kunnes tomaatit ovat kutistuneet ja tummuneet.",
+   "Lisää halutessa tippa balsamietikkaa ja anna jäähtyä. Purkita tomaatit öljyn alle; säilyy jääkaapissa kaksi viikkoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tonkatsu-sauce",
+  "title": "Tonkatsukastike",
+  "description": "Worcestershire, ketsuppi, osterikastike, riisiviinietikka, sokeri ja dijonsinappi sekoitetaan makeahkoksi tummaksi kastikkeeksi.",
+  "servings": 6,
+  "prepTimeMin": 5,
+  "totalTimeMin": 5,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "japanilainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "4 rkl worcestershirekastiketta",
+   "3 rkl ketsuppia",
+   "1 rkl osterikastiketta",
+   "2 tl riisiviinietikkaa",
+   "2 tl sokeria",
+   "1 tl dijonsinappia",
+   "ripaus valkosipulijauhetta"
+  ],
+  "instructions": [
+   "Vatkaa kaikki ainekset tasaiseksi.",
+   "Anna seistä 30 minuuttia ennen tarjoilua. Säilyy jääkaapissa viikkoja."
+  ]
+ },
+ {
+  "id": "forkrecipe-tonkatsu",
+  "title": "Tonkatsu (japanilainen porsasleike)",
+  "description": "Paksu porsaanleike leivitetään jauhoilla, munalla ja pankolla, friteerataan rapeaksi ja tarjotaan tonkatsukastikkeen ja kaalisalaatin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "japanilainen",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "4 porsaanselkäpihviä (2,5 cm, á 150 g)",
+   "1 dl vehnäjauhoja",
+   "2 kananmunaa, vatkattuna",
+   "2 dl pankojauhoja",
+   "1 l rypsiöljyä friteeraukseen",
+   "1½ tl suolaa",
+   "½ tl valkopippuria",
+   "tonkatsukastiketta tarjoiluun"
+  ],
+  "instructions": [
+   "Nuija pihvit tasaisen 2 cm paksuisiksi ja viillä reunan rasva 2 cm välein. Mausta suolalla ja pippurilla.",
+   "Kierätä jauhoissa (ravista ylimäärä pois), munassa ja pankossa painellen.",
+   "Kuumenna öljy 170 asteeseen ja friteeraa pihvejä 3–4 minuuttia per puoli kullanruskeiksi.",
+   "Lepuuta ritilällä 3 minuuttia ja leikkaa 2 cm suikaleiksi. Tarjoa kastikkeen, kaalisalaatin ja riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tonkotsu-broth",
+  "title": "Tonkotsu-ramenliemi",
+  "description": "Ryöpätyt sianjalat ja kaulaluut keitetään kovassa kiehumisessa 12 tuntia silavan, inkiväärin, kevätsipulin ja valkosipulin kanssa maitomaisen samean täyteläiseksi liemeksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 60,
+  "totalTimeMin": 840,
+  "category": "Muut",
+  "tags": [
+   "liemi",
+   "sianliha",
+   "japanilainen",
+   "ramen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg sianjalkoja, halkaistuina",
+   "1 kg porsaan kaulaluita",
+   "200 g selkäsilavaa",
+   "20 g kuivattuja shiitakesieniä",
+   "50 g inkivääriä, paksuina viipaleina",
+   "4 kevätsipulia",
+   "6 valkosipulinkynttä, murskattuina",
+   "4 l kylmää vettä",
+   "2 tl suolaa"
+  ],
+  "instructions": [
+   "Peitä luut kylmällä vedellä, kiehauta ja keitä 5 minuuttia. Kaada vesi pois ja pese luut ja kattila.",
+   "Laita luut takaisin silavan, sienten, inkiväärin, kevätsipulin ja valkosipulin kanssa, lisää 4 l kylmää vettä ja keitä täydellä kiehumisella.",
+   "Keitä 12 tuntia lisäten vettä tarvittaessa; kuori vaahto vain ensimmäisen tunnin aikana.",
+   "Siivilöi harsokankaan läpi ja mausta suolalla."
+  ]
+ },
+ {
+  "id": "forkrecipe-tonkotsu-ramen-broth",
+  "skip": "lähes sama kuin tonkotsu-ramenliemi"
+ },
+ {
+  "id": "forkrecipe-tonnato-sauce",
+  "title": "Tonnato-kastike",
+  "description": "Öljysäilötty tonnikala, anjovis, kaprikset, sitruuna ja etikka soseutetaan majoneesin kanssa samettiseksi kastikkeeksi vitello tonnatoon tai kasviksille.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "italialainen",
+   "kala",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g öljysäilöttyä tonnikalaa, valutettuna",
+   "60 g anjovisfileitä",
+   "40 g kapriksia, huuhdottuina",
+   "1,6 dl majoneesia",
+   "4 rkl sitruunamehua",
+   "2 rkl valkoviinietikkaa",
+   "4 rkl oliiviöljyä",
+   "½ tl suolaa",
+   "¼ tl valkopippuria"
+  ],
+  "instructions": [
+   "Soseuta tonnikala, anjovis, kaprikset, sitruunamehu ja etikka tehosekoittimessa sileäksi.",
+   "Lisää majoneesi ja sekoita lyhyesti.",
+   "Vatkaa öljy joukkoon käsin ja mausta. Ohenna tarvittaessa tilkalla vettä. Tarjoa ohueksi viipaloidun vasikanpaistin tai kananmunien kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tonnato",
+  "skip": "lähes sama kuin tonnato-kastike"
+ },
+ {
+  "id": "forkrecipe-torta-caprese",
+  "title": "Torta caprese (suklaa-mantelikakku)",
+  "description": "Jauhoton italialainen kakku: jauhetut mantelit, tumma suklaa, voi, sokeri ja munat, joiden valkuaiset vatkataan vaahdoksi.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 75,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "suklaa",
+   "mantelit",
+   "italialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g kuorittuja manteleita tai mantelijauhoa",
+   "200 g tummaa suklaata (60–70 %)",
+   "100 g voita",
+   "130 g sokeria",
+   "4 kananmunaa, erotettuina",
+   "ripaus suolaa",
+   "1 tl vaniljauutetta",
+   "tomusokeria pinnalle"
+  ],
+  "instructions": [
+   "Jauha mantelit hienoksi rouheeksi.",
+   "Sulata suklaa ja voi vesihauteessa ja jäähdytä hiukan.",
+   "Vatkaa keltuaiset ja sokeri vaaleaksi, sekoita suklaa, vanilja ja mantelit joukkoon. Vatkaa valkuaiset suolan kanssa kiinteäksi vaahdoksi ja kääntele joukkoon.",
+   "Kaada leivinpaperilla vuorattuun 22 cm irtopohjavuokaan ja paista 170 asteessa 30–35 minuuttia.",
+   "Jäähdytä vuoassa vähintään tunti ennen irrottamista. Siivilöi tomusokeri pinnalle."
+  ]
+ },
+ {
+  "id": "forkrecipe-tortilla-espanola",
+  "title": "Tortilla española (espanjalainen perunamunakas)",
+  "description": "Ohuet perunaviipaleet ja sipuli hauduttuvat pehmeiksi oliiviöljyssä, sekoitetaan munien kanssa ja paistetaan paksuksi munakkaaksi, joka käännetään lautasen avulla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kananmuna",
+   "peruna",
+   "espanjalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g kiinteitä perunoita, kuorittuina ja 3 mm viipaleina",
+   "6 kananmunaa",
+   "1 iso sipuli, ohuina viipaleina",
+   "3 dl oliiviöljyä",
+   "1½ tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna öljy 24 cm pannussa miedolla lämmöllä ja hauduta perunoita ja sipulia 20–25 minuuttia pehmeiksi ruskistamatta. Valuta ja ota öljy talteen.",
+   "Vatkaa munat haarukalla, suolaa ja sekoita perunat ja sipuli joukkoon. Anna seistä 10 minuuttia.",
+   "Kuumenna 2 rkl öljyä pannussa, kaada seos ja paista keskilämmöllä 5–6 minuuttia, reunoja irrotellen.",
+   "Kumoa lautaselle, lisää pannuun tilkka öljyä ja liu'uta munakas takaisin. Paista vielä 3–4 minuuttia. Tarjoa lämpimänä tai huoneenlämpöisenä."
+  ]
+ },
+ {
+  "id": "forkrecipe-toum",
+  "title": "Toum (libanonilainen valkosipulikastike)",
+  "description": "Valkosipuli soseutetaan suolan kanssa ja emulgoidaan neutraalin öljyn, sitruunamehun ja jääveden kanssa valkoiseksi, kuohkeaksi kastikkeeksi.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "lähi-itä",
+   "valkosipuli",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "80 g valkosipulinkynsiä, ituineen poistettuna",
+   "4 dl auringonkukka- tai rypsiöljyä",
+   "3 rkl sitruunamehua",
+   "3 rkl jäävettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Halkaise kynnet ja poista vihreä itu.",
+   "Jauha valkosipuli ja suola monitoimikoneessa 30 sekuntia tahnaksi.",
+   "Valuta koneen käydessä öljyä erittäin ohuena nauhana, vuorotellen sitruunamehun ja jääveden kanssa 30–45 sekunnin välein, kunnes kastike on valkoinen ja kuohkea.",
+   "Maista ja mausta. Säilyy jääkaapissa kuukauden."
+  ]
+ },
+ {
+  "id": "forkrecipe-tournedos-rossini",
+  "title": "Tournedos Rossini",
+  "description": "Naudan sisäfileepihvi kuoreleivän päällä, päällä paistettu hanhenmaksa ja tryffeli, ja Madeira-demi-glace-kastike – ranskalainen juhlaklassikko.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 50,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "ranskalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 naudan sisäfileepihviä (4 cm, á 180 g)",
+   "2 viipaletta hanhenmaksaa (á 60 g), kylmänä",
+   "2 viipaletta vaaleaa leipää",
+   "3 rkl kirkastettua voita",
+   "½ dl kuivaa madeiraa",
+   "1 dl demi-glacea tai vasikan tummaa lientä",
+   "1 salottisipuli, hienonnettuna",
+   "10 g mustaa tryffeliä (valinnainen)",
+   "25 g kylmää voita",
+   "sormisuolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Leikkaa leivästä pihvin kokoiset pyörylät ja paista kirkastetussa voissa rapeiksi.",
+   "Kuivaa ja mausta pihvit. Paista kuumalla pannulla noin 3 minuuttia per puoli puolikypsiksi ja lepuuta.",
+   "Viillä hanhenmaksaan ristikko, mausta ja paista kuumalla pannulla 30–45 sekuntia per puoli.",
+   "Kuullota salotti maksan rasvassa, kaada madeira ja keitä puoleen. Lisää demi-glace ja hauduta, lisää tryffeli.",
+   "Nosta liedeltä ja vatkaa kylmä voi joukkoon. Kokoa: leipä, pihvi, hanhenmaksa ja kastike, päälle tryffeliviipaleita."
+  ]
+ },
+ {
+  "id": "forkrecipe-tres-leches-cake",
+  "title": "Tres leches -kakku",
+  "description": "Kevyt sokerikakku kostutetaan kolmen maidon seoksella – maitotiiviste, kondensoitu maito ja kerma – ja kuorrutetaan kermavaahdolla ja kanelilla.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 240,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "meksikolainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "150 g vehnäjauhoja",
+   "5 kananmunaa, erotettuina",
+   "150 g sokeria",
+   "2 tl leivinjauhetta",
+   "1 tlk (397 g) makeutettua maitotiivistettä",
+   "1 tlk (340 g) kondensoitua maitoa",
+   "4 dl kuohukermaa, jaettuna",
+   "1 rkl vaniljauutetta",
+   "2 rkl tomusokeria",
+   "½ tl kanelia"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen. Vatkaa keltuaiset ja kaksi kolmasosaa sokerista vaaleaksi vaahdoksi. Vatkaa valkuaiset ja loput sokerista kiinteäksi vaahdoksi.",
+   "Siivilöi jauhot ja leivinjauhe keltuaisvaahtoon ja kääntele, sitten valkuaisvaahto.",
+   "Paista voidellussa 23 × 33 cm vuoassa 22–28 minuuttia.",
+   "Sekoita maitotiiviste, kondensoitu maito, 1,5 dl kermaa ja vanilja. Pistele lämmin kakku haarukalla ja kaada seos hitaasti päälle. Jäähdytä jääkaapissa vähintään 3 tuntia.",
+   "Vatkaa loput kermasta tomusokerin kanssa vaahdoksi, levitä kakulle ja siivilöi kaneli pinnalle."
+  ]
+ },
+ {
+  "id": "forkrecipe-tres-leches",
+  "skip": "lähes sama kuin tres leches -kakku"
+ },
+ {
+  "id": "forkrecipe-tteokbokki-sauce",
+  "skip": "kastike sisältyy tteokbokki-reseptiin"
+ },
+ {
+  "id": "forkrecipe-tteokbokki",
+  "title": "Tteokbokki (korealaiset riisikakut chilikastikkeessa)",
+  "description": "Lieriön muotoiset riisikakut ja kalakakkusuikaleet haudutetaan anjovis-kombuliemen, gochujangin, gochugarun, sokerin ja soijan kastikkeessa paksuksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "korealainen",
+   "tulinen",
+   "katuruoka"
+  ],
+  "ingredients": [
+   "500 g garae-tteokia (riisikakkuja)",
+   "4 dl anjovis-kombulientä tai vettä",
+   "100 g gochujangia",
+   "2 rkl gochugarua",
+   "3 rkl sokeria",
+   "2 rkl soijakastiketta",
+   "150 g korealaisia kalakakkulevyjä (eomuk), suikaleina",
+   "3 kevätsipulia, vinoina paloina",
+   "1 tl paahdettua seesamiöljyä"
+  ],
+  "instructions": [
+   "Liota jääkaappikylmät riisikakut lämpimässä vedessä 10 minuuttia.",
+   "Vatkaa liemi, gochujang, gochugaru, sokeri ja soija leveässä pannussa ja kiehauta.",
+   "Lisää riisikakut ja kalakakut ja keitä keskilämmöllä 8–10 minuuttia usein sekoittaen, kunnes kastike sakenee ja kakut ovat pehmeitä.",
+   "Lisää kevätsipuli viimeisellä minuutilla ja sekoita seesamiöljy joukkoon liedeltä nostettuna."
+  ]
+ },
+ {
+  "id": "forkrecipe-tuna-poke-bowl",
+  "title": "Tonnikala-pokekulho",
+  "description": "Sashimilaatuinen tonnikala kuutioidaan ja marinoidaan soija-seesamikastikkeessa ja tarjoillaan lämpimän riisin, avokadon, kurkun ja norin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "havaijilainen",
+   "riisi",
+   "nopea"
+  ],
+  "ingredients": [
+   "400 g sashimilaatuista tonnikalaa, 2 cm kuutioina",
+   "3 rkl soijakastiketta tai tamaria",
+   "1 rkl paahdettua seesamiöljyä",
+   "3 kevätsipulia, ohuina renkaina",
+   "1 rkl paahdettuja seesaminsiemeniä",
+   "1 tl srirachaa (valinnainen)",
+   "6 dl keitettyä japanilaista riisiä, lämpimänä",
+   "1 kypsä avokado, viipaleina",
+   "½ kurkku, ohuina viipaleina",
+   "1 norilevy, suikaleina"
+  ],
+  "instructions": [
+   "Leikkaa kylmä tonnikala terävällä veitsellä syitä vastaan 2 cm kuutioiksi.",
+   "Sekoita soija, seesamiöljy, kevätsipuli, seesaminsiemenet ja sriracha. Kääntele tonnikala kastikkeessa ja marinoi jääkaapissa 10–15 minuuttia.",
+   "Annostele riisi kulhoihin, lusikoi tonnikala päälle ja asettele avokado, kurkku ja nori viereen."
+  ]
+ },
+ {
+  "id": "forkrecipe-tuna-tataki",
+  "title": "Tonnikalatataki ponzun kanssa",
+  "description": "Jäähdytetty tonnikalapala ruskistetaan pinnalta erittäin kuumalla pannulla, viipaloidaan ohueksi ja tarjoillaan ponzun, inkiväärin, kevätsipulin ja seesamin kanssa.",
+  "servings": 4,
+  "prepTimeMin": 15,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "japanilainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "400 g sashimilaatuista keltaevätonnikalaa yhtenä palana",
+   "6 rkl ponzukastiketta",
+   "10 g tuoretta inkivääriä, hienoksi raastettuna",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "2 rkl rypsiöljyä",
+   "2 kevätsipulia, ohuina renkaina",
+   "2 tl paahdettuja seesaminsiemeniä",
+   "2 tl paahdettua seesamiöljyä",
+   "50 g daikonia, suikaleina (valinnainen)",
+   "2 tl yuzu- tai sitruunamehua (valinnainen)"
+  ],
+  "instructions": [
+   "Laita tonnikala pakastimeen 30–40 minuutiksi. Mausta suolalla ja pippurilla.",
+   "Kuumenna pannu erittäin kuumaksi 3 minuuttia, lisää öljy ja ruskista tonnikalaa 20–30 sekuntia joka puolelta.",
+   "Jäähdytä heti kylmällä lautasella ja viipaloi 5 mm viipaleiksi.",
+   "Asettele viipaleet, kaada ponzu päälle ja viimeistele inkiväärillä, seesamiöljyllä, kevätsipulilla, seesaminsiemenillä ja daikonilla."
+  ]
+ },
+ {
+  "id": "forkrecipe-turkey-white-bean-chili",
+  "title": "Kalkkuna-valkopapuchili (vihreä chili)",
+  "description": "Ruskistettu kalkkunan jauheliha haudutetaan poblano- ja jalapeñochilien, kuminan, paahdettujen vihreiden chilien ja valkoisten papujen kanssa; sakeutetaan masa harinalla.",
+  "servings": 6,
+  "prepTimeMin": 30,
+  "totalTimeMin": 70,
+  "category": "Keitot",
+  "tags": [
+   "kalkkuna",
+   "pavut",
+   "amerikkalainen",
+   "meksikolainen"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "900 g kalkkunan jauhelihaa",
+   "2 tl suolaa, jaettuna",
+   "1 sipuli, kuutioituna",
+   "2 poblanochiliä tai vihreää paprikaa, kuutioituna",
+   "1 jalapeño, hienonnettuna",
+   "5 valkosipulinkynttä, hienonnettuna",
+   "1 rkl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "1 tl kuivattua oreganoa",
+   "200 g paahdettuja vihreitä chilejä (purkki)",
+   "900 g keitettyjä valkoisia papuja, valutettuina",
+   "1 l kanalientä",
+   "20 g masa harinaa sekoitettuna 1,2 dl:aan vettä",
+   "2 rkl limettimehua",
+   "korianteria, kevätsipulia ja smetanaa tarjoiluun"
+  ],
+  "instructions": [
+   "Kuumenna öljy padassa, lisää kalkkuna litteänä kerroksena, suolaa puolella suolasta ja ruskista koskematta 4–5 minuuttia. Murenna ja nosta sivuun.",
+   "Kuullota sipuli, poblanot ja jalapeño loppusuolan kanssa 8 minuuttia. Lisää valkosipuli ja mausteet ja paista minuutti.",
+   "Lisää vihreät chilit, pavut, liemi ja kalkkuna. Hauduta kannetta 25–30 minuuttia ja murskaa neljännes pavuista kattilan reunaa vasten.",
+   "Sekoita masa-vesi joukkoon ja keitä 5 minuuttia. Lisää limettimehu ja tarkista suola. Tarjoa lisukkeiden kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-turkey-zucchini-meatballs-marinara",
+  "title": "Kalkkuna-kesäkurpitsapyörykät nopeassa tomaattikastikkeessa",
+  "description": "Raastettu kesäkurpitsa pitää kalkkunapyörykät mehevinä; pyörykät ruskistetaan ja kypsennetään valkosipuli-chili-tomaattikastikkeessa.",
+  "servings": 4,
+  "prepTimeMin": 30,
+  "totalTimeMin": 50,
+  "category": "Pääruoat",
+  "tags": [
+   "kalkkuna",
+   "jauheliha",
+   "italialainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "250 g kesäkurpitsaa, karkeasti raastettuna",
+   "1½ tl suolaa, jaettuna",
+   "450 g kalkkunan jauhelihaa",
+   "40 g pankojauhoja",
+   "1 kananmuna, vatkattuna",
+   "30 g parmesaania + tarjoiluun",
+   "2 valkosipulinkynttä, raastettuna",
+   "1 tl kuivattua oreganoa",
+   "mustapippuria",
+   "2 rkl oliiviöljyä",
+   "3 valkosipulinkynttä, ohuina viipaleina",
+   "¼ tl chilihiutaleita",
+   "800 g tomaattimurskaa",
+   "8 basilikanlehteä"
+  ],
+  "instructions": [
+   "Sekoita kesäkurpitsaan ½ tl suolaa, anna seistä 10 minuuttia ja purista liinassa kuivaksi.",
+   "Sekoita kurpitsa, panko, muna, parmesaani, raastettu valkosipuli, oregano, 1 tl suolaa ja pippuri. Lisää liha ja muotoile 16 pyörykkää.",
+   "Ruskista pyörykät 1 rkl:ssa öljyä 5–6 minuuttia ja nosta sivuun.",
+   "Lisää loput öljystä, valkosipuliviipaleet ja chili ja paista minuutti. Lisää tomaattimurska, kiehauta ja palauta pyörykät. Hauduta kannen alla 12–15 minuuttia.",
+   "Revi basilika päälle ja tarjoa parmesaanin kanssa pastan, polentan tai leivän kanssa."
+  ]
+ }
+]
