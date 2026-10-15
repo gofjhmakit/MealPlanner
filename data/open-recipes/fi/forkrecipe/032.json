@@ -1,0 +1,772 @@
+[
+ {
+  "id": "forkrecipe-soubise",
+  "title": "Soubise-kastike (sipulibešamel)",
+  "description": "Voissa pehmeiksi haudutetut sipulit soseutetaan vaaleaan bešamelkastikkeeseen samettiseksi kastikkeeksi lihalle, kanalle tai kasviksille.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 55,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "ranskalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "5 dl maitoa, lämmitettynä",
+   "50 g voita",
+   "50 g vehnäjauhoja",
+   "1 tl suolaa",
+   "ripaus muskottipähkinää",
+   "ripaus valkopippuria",
+   "400 g sipulia, ohuina viipaleina",
+   "50 g voita sipuleille"
+  ],
+  "instructions": [
+   "Sulata voi miedolla lämmöllä, lisää sipulit ja ripaus suolaa ja hauduta kannen alla 20–30 minuuttia täysin pehmeiksi ruskistamatta.",
+   "Sulata toisessa kattilassa voi, vatkaa jauhot joukkoon ja kypsennä vaaleana 2–3 minuuttia.",
+   "Vatkaa lämmin maito joukkoon ohuena nauhana ja keitä hiljaa 8–10 minuuttia. Mausta muskotilla ja valkopippurilla.",
+   "Sekoita sipulit kastikkeeseen, keitä hetki ja soseuta sileäksi. Siivilöi halutessa ja tarkista suola."
+  ]
+ },
+ {
+  "id": "forkrecipe-souffle-au-fromage",
+  "title": "Juustokohokas",
+  "description": "Gruyèresta ja parmesaanista maustettu kohokaspohja kevennetään kovaksi vatkatuilla valkuaisilla ja paistetaan korkeaksi annosvuoissa.",
+  "servings": 4,
+  "prepTimeMin": 45,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kananmuna",
+   "juusto",
+   "ranskalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "30 g voita + vuokiin",
+   "25 g vehnäjauhoja",
+   "2 dl lämmintä maitoa",
+   "80 g gruyèrea, hienoksi raastettuna",
+   "20 g parmesaania + vuokiin",
+   "4 munankeltuaista",
+   "5 munanvalkuaista, huoneenlämpöisinä",
+   "¾ tl suolaa",
+   "ripaus muskottipähkinää",
+   "ripaus cayennepippuria"
+  ],
+  "instructions": [
+   "Kuumenna uuni 190 asteeseen. Voitele neljä 2 dl:n annosvuokaa ylöspäin vedoin ja pölytä parmesaanilla.",
+   "Sulata voi, lisää jauhot ja kypsennä 90 sekuntia. Nosta liedeltä, vatkaa maito joukkoon ja keitä paksuksi. Sekoita juustot, keltuaiset ja mausteet joukkoon.",
+   "Vatkaa valkuaiset ripauksen suolaa kanssa kiinteäksi kiiltäväksi vaahdoksi.",
+   "Sekoita neljännes vaahdosta reippaasti juustopohjaan ja kääntele loput varovasti joukkoon.",
+   "Täytä vuoat 1 cm reunan alapuolelle ja vedä peukalolla ura reunaan. Paista 20–25 minuuttia, kunnes kohokkaat ovat nousseet ja ruskistuneet. Tarjoa heti."
+  ]
+ },
+ {
+  "id": "forkrecipe-soupe-a-loignon",
+  "title": "Ranskalainen sipulikeitto (gratinoitu)",
+  "description": "Hitaasti tummaksi karamellisoitu sipuli keitetään valkoviinin ja naudanliemen kanssa; kulhoihin paahdettu patonki ja gruyère, ja gratinoidaan kuplivaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 90,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "sipuli",
+   "ranskalainen",
+   "juusto"
+  ],
+  "ingredients": [
+   "1 kg sipulia, ohuina viipaleina",
+   "100 g voita",
+   "2 dl kuivaa valkoviiniä",
+   "1,5 l naudanlientä",
+   "8 viipaletta patonkia, paahdettuna",
+   "250 g gruyèrea, karkeasti raastettuna",
+   "4 timjaminoksaa",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sulata voi leveässä paksupohjaisessa kattilassa, lisää sipulit ja reilusti suolaa. Kypsennä kannetta keskilämmöllä 45–60 minuuttia välillä sekoittaen, kunnes sipulit ovat syvän ruskeat.",
+   "Kaada viini joukkoon, raaputa pohja ja lisää timjami. Keitä, kunnes viini on lähes haihtunut.",
+   "Lisää liemi ja keitä hiljaa 20 minuuttia. Mausta ja poista timjaminoksat.",
+   "Kaada keitto uuninkestäviin kulhoihin, lisää paahdetut leivät ja runsaasti juustoa. Gratinoi grillivastuksen alla, kunnes juusto kuplii ja ruskistuu."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-boule",
+  "title": "Hapanjuurileipä (boule)",
+  "description": "Klassinen pyöreä vaalea hapanjuurileipä: autolyysi, venytykset ja taitokset, yön kylmäkohotus ja paisto kuumassa valurautapadassa.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 1440,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "hapanjuuri",
+   "leivonta"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja (vahva leipäjauho)",
+   "3,75 dl huoneenlämpöistä vettä",
+   "100 g aktiivista vehnähapanjuurta (100 % hydraatio)",
+   "10 g suolaa"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja vesi, kunnes kuivaa jauhoa ei ole. Anna levätä peitettynä 45–60 minuuttia.",
+   "Lisää juuri ja suola ja painele ne taikinaan. Tee neljä venytys- ja taittokierrosta 30 minuutin välein ja anna taikinan kohota huoneenlämmössä yhteensä 4–5 tuntia, kunnes se on kasvanut noin puolella.",
+   "Muotoile kevyesti jauhotetulla pöydällä tiukaksi palloksi ja siirrä jauhotettuun kohotuskoriin sauma ylöspäin.",
+   "Kohota peitettynä jääkaapissa 10–16 tuntia.",
+   "Kuumenna valurautapata uunissa 260 asteessa 45 minuuttia. Kumoa leipä leivinpaperille ja viillä.",
+   "Laske leipä pataan, peitä ja paista 20 minuuttia. Poista kansi, laske lämpö 230 asteeseen ja paista vielä 20–25 minuuttia syvän ruskeaksi. Jäähdytä ritilällä vähintään tunti."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-bread",
+  "skip": "lähes sama kuin hapanjuurileipä (boule)"
+ },
+ {
+  "id": "forkrecipe-sourdough-country-loaf",
+  "title": "Maalaishapanjuurileipä täysjyvävehnällä",
+  "description": "Hapanjuurileipä, jossa kymmenesosa täysjyvävehnää: autolyysi, nipistys ja taittelut, yön kylmäkohotus ja paisto padassa.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "prepTimeMin": 90,
+  "totalTimeMin": 1440,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "hapanjuuri",
+   "täysjyvä",
+   "leivonta"
+  ],
+  "ingredients": [
+   "450 g vehnäjauhoja (vahva leipäjauho)",
+   "50 g täysjyvävehnäjauhoja",
+   "3,75 dl lämmintä vettä (26 astetta), josta 30 g suolalle",
+   "100 g aktiivista vehnähapanjuurta",
+   "10 g suolaa"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja vesi (30 g varattuna) ja anna levätä tunti.",
+   "Liuota suola varattuun veteen ja lisää juuren kanssa taikinaan nipistellen. Tee taittelut puolen tunnin välein kahden tunnin ajan ja anna kohota yhteensä 4–5 tuntia.",
+   "Esimuotoile, lepuuta 20 minuuttia ja muotoile tiukaksi leiväksi. Siirrä jauhotettuun koriin ja kohota jääkaapissa yön yli.",
+   "Kuumenna pata 260 asteessa 45 minuuttia. Kumoa leipä leivinpaperille ja viillä.",
+   "Paista kannen alla 20 minuuttia, sitten ilman kantta 230 asteessa 20–25 minuuttia. Jäähdytä ennen leikkaamista."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-discard-pancakes",
+  "title": "Hapanjuuren ylijäämästä tehdyt pannukakut",
+  "description": "Ylimääräinen hapanjuuri, maito, munat ja voi sekoitetaan jauhojen ja soodan kanssa kuohkeiksi, hiukan hapanmakuisiksi lettusiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Aamiainen",
+  "tags": [
+   "pannukakku",
+   "hapanjuuri",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2,4 dl vehnäjauhoja",
+   "2,4 dl hapanjuuren ylijäämää",
+   "1,2 dl maitoa",
+   "2 kananmunaa",
+   "3 rkl sulatettua voita",
+   "1 rkl vaahterasiirappia tai sokeria",
+   "½ tl ruokasoodaa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Vatkaa hapanjuuri, maito, munat, voi ja siirappi tasaiseksi.",
+   "Sekoita jauhot, sooda ja suola ja kääntele märkiin aineksiin 10–15 vedolla; kokkareet saavat jäädä.",
+   "Kuumenna pannu keskilämmölle 3 minuuttia, voitele ohuelti ja paista ¼ dl:n lettusia, kunnes pinnalle nousee kuplia. Käännä ja paista vielä minuutti."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-focaccia",
+  "title": "Hapanjuurifocaccia",
+  "description": "Runsasvetinen hapanjuuritaikina kohotetaan yön yli öljytyllä pellillä, kuopitetaan sormin ja paistetaan rosmariinin ja sormisuolan kanssa rapeapohjaiseksi.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "prepTimeMin": 35,
+  "totalTimeMin": 1440,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "hapanjuuri",
+   "italialainen",
+   "leivonta",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja (vahva leipäjauho)",
+   "100 g aktiivista hapanjuurta",
+   "3,75 dl lämmintä vettä (30 astetta)",
+   "40 g oliiviöljyä taikinaan",
+   "11 g suolaa",
+   "75 g oliiviöljyä pellille ja pinnalle",
+   "1 tl sormisuolaa",
+   "2 rosmariininoksaa"
+  ],
+  "instructions": [
+   "Sekoita vesi, juuri ja öljy, lisää jauhot ja suola ja sekoita tasaiseksi.",
+   "Tee neljä taittokierrosta 30 minuutin välein ja anna kohota huoneenlämmössä 4–6 tuntia.",
+   "Kaada runsaasti öljyä pellille, siirrä taikina pellille ja venytä kevyesti. Peitä ja kohota jääkaapissa yön yli.",
+   "Anna lämmetä 2–3 tuntia. Valuta pinnalle öljyä ja painele sormilla syviä kuoppia pohjaan asti. Ripottele rosmariini ja sormisuola.",
+   "Paista 230 asteessa 20–25 minuuttia, kunnes pinta on syvän kullanruskea ja pohja rapea."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-pizza-dough",
+  "title": "Hapanjuuripizzataikina",
+  "description": "Tipo 00 -jauhosta, vedestä, suolasta ja kypsästä hapanjuuresta tehty taikina, joka kohoaa hitaasti ja kypsyy jääkaapissa 12–24 tuntia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 2160,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "pizza",
+   "hapanjuuri",
+   "italialainen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "500 g tipo 00 -vehnäjauhoja",
+   "3,25 dl viileää vettä",
+   "14 g suolaa",
+   "100 g kypsää hapanjuurta"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja vesi, kunnes kuivaa jauhoa ei ole. Anna levätä 45–60 minuuttia.",
+   "Lisää juuri ja suola ja puristele ne taikinaan. Tee neljä venytys- ja taittokierrosta 30 minuutin välein.",
+   "Kohota peitettynä huoneenlämmössä 6–10 tuntia, kunnes taikina on kasvanut 50–75 %.",
+   "Jaa neljään osaan, esimuotoile palloiksi, lepuuta 15 minuuttia ja muotoile tiukoiksi palloiksi. Kypsytä jääkaapissa 12–24 tuntia ennen käyttöä."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-sandwich-loaf",
+  "title": "Hapanjuurivuokaleipä",
+  "description": "Pehmeä, hiukan hunajainen vuokaleipä hapanjuurella ja voilla – helppo viipaloida voileiviksi.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 1080,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "hapanjuuri",
+   "leivonta"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja (vahva leipäjauho)",
+   "3,6 dl lämmintä vettä (30–34 astetta)",
+   "100 g aktiivista hapanjuurta",
+   "10 g suolaa",
+   "25 g pehmeää voita",
+   "15 g hunajaa"
+  ],
+  "instructions": [
+   "Sekoita jauhot, vesi, juuri ja hunaja ja anna levätä 30–60 minuuttia.",
+   "Puristele suola joukkoon ja lisää voi pieninä paloina vaivaten, kunnes taikina on sileää.",
+   "Kohota öljytyssä astiassa huoneenlämmössä 8–10 tuntia tai jääkaapissa 12–14 tuntia.",
+   "Taputtele suorakaiteeksi, taita kirjeen tapaan ja rullaa tiukaksi. Laita voideltuun leipävuokaan sauma alaspäin.",
+   "Kohota 3–5 tuntia, kunnes taikina nousee 2 cm vuoan reunan yli.",
+   "Viillä ja paista 200 asteessa 35–40 minuuttia, ensimmäiset 20 minuuttia folion alla. Jäähdytä ritilällä."
+  ]
+ },
+ {
+  "id": "forkrecipe-sourdough-starter",
+  "title": "Hapanjuuren aloitus",
+  "description": "Ruisjauhosta ja vedestä aloitettu juuri, jota ruokitaan päivittäin vehnäjauholla ja vedellä, kunnes se kaksinkertaistuu luotettavasti noin viikossa.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "category": "Muut",
+  "tags": [
+   "hapanjuuri",
+   "leivonta",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "50 g täysjyväruisjauhoja (aloitukseen)",
+   "5 dl lämmintä vettä (28–30 astetta), jaettuna",
+   "noin 500 g vehnäjauhoja ruokintoihin"
+  ],
+  "instructions": [
+   "Sekoita ruisjauho ja 50 g lämmintä vettä puhtaassa lasipurkissa tahnaksi. Merkitse taso ja anna seistä löysän kannen alla lämpimässä vuorokausi.",
+   "Aloita päivittäiset ruokinnat: poista kaikki paitsi noin 50 g, ja lisää 50 g vehnäjauhoja ja 50 g lämmintä vettä.",
+   "Noin viidennestä päivästä alkaen ruoki kahdesti päivässä 12 tunnin välein. Juuri on valmis, kun se kaksinkertaistuu 4–8 tunnissa ruokinnasta ja tuoksuu raikkaan happamalta.",
+   "Ylläpidä ruokkimalla 1:1:1 (juuri:jauho:vesi). Jos leivot harvoin, säilytä jääkaapissa ja ruoki kerran viikossa."
+  ]
+ },
+ {
+  "id": "forkrecipe-south-african-bobotie",
+  "title": "Bobotie (eteläafrikkalainen jauhelihavuoka)",
+  "description": "Currylla, aprikoosihillolla ja etikalla makeahappamaksi maustettu jauheliha paistetaan vuoassa munamaitokuorrutteen ja laakerinlehtien kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 75,
+  "category": "Pääruoat",
+  "tags": [
+   "jauheliha",
+   "uuniruoka",
+   "afrikkalainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "800 g lampaan tai naudan jauhelihaa",
+   "2 sipulia, hienonnettuna",
+   "2 rkl öljyä",
+   "1 rkl currya",
+   "1 tl kurkumaa",
+   "½ tl kanelia",
+   "¼ tl maustepippuria",
+   "4 rkl aprikoosihilloa",
+   "2 rkl valkoviinietikkaa",
+   "2 viipaletta vaaleaa leipää",
+   "3 dl täysmaitoa",
+   "3 kananmunaa",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "4 laakerinlehteä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen. Kuullota sipuli öljyssä kullankeltaiseksi, lisää mausteet ja paista minuutti.",
+   "Lisää jauheliha ja ruskista 8–10 minuuttia. Lisää hillo, etikka, suola ja pippuri.",
+   "Liota leipä osassa maitoa, purista ja murenna lihaan. Painele seos voideltuun vuokaan.",
+   "Vatkaa munat ja loput maidosta ripauksen kurkumaa ja suolaa kanssa ja kaada lihan päälle. Työnnä laakerinlehdet pintaan.",
+   "Paista 35–40 minuuttia, kunnes kuorrute on hyytynyt ja ruskistunut. Lepuuta 5 minuuttia ja tarjoa keltaisen riisin ja chutneyn kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-south-indian-idli-batter",
+  "title": "Idli-taikina (eteläintialaiset höyrykakut)",
+  "description": "Liotetut riisi ja urad-linssit jauhetaan erikseen, sekoitetaan ja annetaan käydä yön yli kuohkeaksi taikinaksi, josta höyrytetään pehmeitä idli-kakkuja.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 960,
+  "category": "Aamiainen",
+  "tags": [
+   "intialainen",
+   "fermentoitu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4,5 dl idli-riisiä tai keskijyväistä riisiä",
+   "1,5 dl kuorittuja urad-linssejä",
+   "¼ tl sarviapilan siemeniä",
+   "2 tl jodioimatonta suolaa",
+   "kylmää vettä jauhamiseen",
+   "öljyä muotteihin"
+  ],
+  "instructions": [
+   "Huuhdo riisi ja urad-linssit. Liota riisiä ja linssejä sarviapilan kanssa erillisissä kulhoissa 6–8 tuntia.",
+   "Jauha linssit kylmän veden kanssa tehosekoittimessa erittäin kuohkeaksi tahnaksi. Jauha riisi erikseen hiukan karkeaksi.",
+   "Sekoita taikinat ja suola käsin. Anna käydä peitettynä lämpimässä 8–14 tuntia, kunnes taikina on noussut lähes kaksinkertaiseksi.",
+   "Voitele idli-muotit, täytä ¾ täyteen ja höyrytä 10–12 minuuttia. Anna jäähtyä hetki ennen irrottamista. Tarjoa sambarin ja kookoschutneyn kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanakopita-filling",
+  "skip": "sama täyte sisältyy spanakopita-reseptiin"
+ },
+ {
+  "id": "forkrecipe-spanakopita",
+  "title": "Spanakopita (kreikkalainen pinaattipiiras)",
+  "description": "Pinaatti, feta, kevätsipuli, tilli ja munat kerrostetaan öljyllä siveltyjen filolevyjen väliin ja paistetaan kullanruskeaksi.",
+  "servings": 8,
+  "prepTimeMin": 45,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "pinaatti",
+   "juusto",
+   "kreikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "400 g filotaikinaa",
+   "1 kg tuoretta pinaattia (tai 500 g pakastepinaattia sulatettuna)",
+   "400 g fetaa, murennettuna",
+   "3 kananmunaa, vatkattuna",
+   "4 kevätsipulia, renkaina",
+   "30 g tilliä, hienonnettuna",
+   "1,2 dl oliiviöljyä tai sulatettua voita",
+   "½ tl mustapippuria",
+   "ripaus muskottipähkinää"
+  ],
+  "instructions": [
+   "Kuumenna tuore pinaatti kuivassa kattilassa painuneeksi, jäähdytä ja purista erittäin kuivaksi. Hienonna.",
+   "Sekoita pinaatti, feta, munat, kevätsipuli, tilli, pippuri ja muskotti.",
+   "Kuumenna uuni 190 asteeseen. Voitele 30 × 22 cm vuoka. Levitä pohjalle puolet filolevyistä, sivellen jokainen öljyllä.",
+   "Levitä täyte tasaisesti, käännä reunat päälle ja peitä lopuilla öljytyillä levyillä. Viillä pintaan annospalat.",
+   "Paista 45–55 minuuttia syvän kullanruskeaksi. Anna seistä 15 minuuttia ennen leikkaamista."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanish-bacalao-al-pil-pil",
+  "title": "Bacalao al pil-pil (turskaa valkosipuliemulsiossa)",
+  "description": "Liotettu suolaturska haudutetaan hiljaa valkosipuliöljyssä, ja pannua pyöritellään, kunnes kalan gelatiini ja öljy emulgoituvat paksuksi kastikkeeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 1800,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "espanjalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g kuivattua suolaturskaa nahkoineen",
+   "3,5 dl oliiviöljyä",
+   "6 valkosipulinkynttä, ohuina viipaleina",
+   "2 kuivattua chiliä",
+   "10 g lehtipersiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Liota turskaa kylmässä vedessä jääkaapissa 24–48 tuntia, vaihtaen vedet 8 tunnin välein, kunnes suolaisuus on miellyttävä. Kuivaa ja paloittele.",
+   "Kuumenna öljy, valkosipuli ja chilit leveässä padassa hyvin miedolla lämmöllä 60–65 asteeseen. Nosta valkosipulit ja chilit sivuun, kun valkosipuli on vaaleankultainen.",
+   "Laita turska nahka alaspäin öljyyn ja hauduta 60–65 asteessa 15–20 minuuttia, kunnes kala valuttaa gelatiinista nestettä. Nosta kala sivuun.",
+   "Jäähdytä öljy hiukan ja pyörittele pannua (tai vatkaa) kunnes kastike emulgoituu paksuksi ja vaaleaksi. Palauta kala, lämmitä varovasti ja tarjoa valkosipulin, chilin ja persiljan kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanish-chorizo-clams",
+  "title": "Simpukat chorizon ja valkoviinin kanssa",
+  "description": "Venussimpukat höyrytetään valkoviinissä chorizon ja valkosipulin punaisessa rasvassa ja viimeistellään persiljalla ja sitruunalla.",
+  "servings": 4,
+  "prepTimeMin": 20,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "simpukat",
+   "espanjalainen",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg venussimpukoita",
+   "150 g kypsytettyä chorizoa, viipaleina",
+   "4 valkosipulinkynttä, ohuina viipaleina",
+   "2 dl kuivaa valkoviiniä",
+   "2 rkl oliiviöljyä",
+   "15 g lehtipersiljaa, hienonnettuna",
+   "2 rkl sitruunamehua",
+   "½ tl savustettua paprikajauhetta",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Liota simpukoita suolavedessä (30 g suolaa litraan) 30 minuuttia, harjaa ja hylkää rikkinäiset tai auki jäävät.",
+   "Kuumenna öljy kannellisessa pannussa ja paista chorizoa 2–3 minuuttia. Lisää valkosipuli ja paprika ja paista minuutti.",
+   "Lisää simpukat ja viini, peitä ja keitä kovalla lämmöllä 4–5 minuuttia ravistellen, kunnes simpukat aukeavat. Hylkää kiinni jääneet.",
+   "Lisää sitruunamehu, pippuri ja persilja ja tarjoa heti leivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanish-churros",
+  "title": "Churrot ja suklaakastike",
+  "description": "Keitetystä taikinasta pursotetut churrot friteerataan rapeiksi ja kierätetään kanelisokerissa; kastettavaksi paksu tumma suklaakastike.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 45,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "espanjalainen",
+   "rasvassa paistettu",
+   "suklaa"
+  ],
+  "ingredients": [
+   "2,4 dl vettä",
+   "60 g voita",
+   "½ tl suolaa",
+   "1 rkl sokeria",
+   "150 g vehnäjauhoja",
+   "7 dl rypsiöljyä friteeraukseen",
+   "Pinnalle:",
+   "60 g sokeria",
+   "2 tl kanelia",
+   "Suklaakastike:",
+   "100 g tummaa suklaata (70 %), paloiteltuna",
+   "2 dl maitoa",
+   "2 rkl sokeria",
+   "1 rkl maissitärkkelystä"
+  ],
+  "instructions": [
+   "Kiehauta vesi, voi, suola ja sokeri. Lisää jauhot kerralla ja sekoita voimakkaasti palloksi. Kuivata taikinaa liedellä minuutti ja anna jäähtyä 5 minuuttia.",
+   "Kuumenna öljy 180 asteeseen. Pursota tähtipursottimella 15–20 cm pätkiä öljyyn ja paista 4–5 kerrallaan 2–3 minuuttia kullanruskeiksi.",
+   "Kierätä kuumat churrot kanelisokerissa.",
+   "Sekoita tärkkelys kolmeen ruokalusikalliseen kylmää maitoa. Kuumenna loppu maito ja sokeri, sulata suklaa joukkoon ja sakeuta tärkkelyksellä. Tarjoa churrojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanish-gambas-al-ajillo",
+  "title": "Gambas al ajillo (valkosipulikatkaravut)",
+  "description": "Katkaravut paistetaan nopeasti valkosipuli-chiliöljyssä savipadassa ja maustetaan sherryllä ja persiljalla – tarjotaan kuplivana leivän kanssa.",
+  "servings": 4,
+  "prepTimeMin": 15,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "espanjalainen",
+   "tapas",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g isoja raakoja katkarapuja",
+   "1,2 dl oliiviöljyä",
+   "8 valkosipulinkynttä, ohuina viipaleina",
+   "2 kuivattua chiliä",
+   "1 tl suolaa",
+   "2 rkl kuivaa sherryä",
+   "15 g lehtipersiljaa",
+   "1 sitruuna, lohkoina"
+  ],
+  "instructions": [
+   "Laita öljy, valkosipuli ja chilit savipataan tai paksupohjaiseen pannuun ja kuumenna miedolla lämmöllä, kunnes valkosipuli porisee ja vaalenee kullankeltaiseksi.",
+   "Nosta lämpö, lisää katkaravut ja suola ja kaada sherry ympäri pannua. Paista 1–2 minuuttia per puoli, kunnes katkaravut ovat juuri kypsiä.",
+   "Nosta liedeltä ja ripottele persilja. Tarjoa kuplivana leivän ja sitruunalohkojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spanish-lentil-stew",
+  "title": "Lentejas estofadas (espanjalainen linssipata)",
+  "description": "Vihreät linssit hauduttuvat chorizon, sipulin, porkkanan, perunan, savupaprikan ja kuminan kanssa paksuksi padaksi; lopuksi tilkka sherryetikkaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 75,
+  "category": "Keitot",
+  "tags": [
+   "linssit",
+   "espanjalainen",
+   "keitto",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g vihreitä tai ruskeita linssejä, huuhdottuina",
+   "120 g chorizoa, viipaleina",
+   "1 sipuli, hienonnettuna",
+   "1 porkkana, viipaleina",
+   "2 kiinteää perunaa, 2 cm kuutioina",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 rkl savustettua paprikajauhetta",
+   "1 tl juustokuminaa",
+   "2 laakerinlehteä",
+   "3 rkl oliiviöljyä",
+   "8,5 dl vettä tai kanalientä",
+   "1½ tl suolaa",
+   "2 rkl sherryetikkaa"
+  ],
+  "instructions": [
+   "Kuumenna öljy kattilassa ja paista chorizoa 3 minuuttia. Lisää sipuli ja porkkana ja kypsennä 8–10 minuuttia.",
+   "Lisää valkosipuli, sitten paprika ja kumina ja paahda 30–45 sekuntia.",
+   "Lisää linssit, laakerinlehdet ja vesi. Kiehauta, kuori vaahto ja hauduta hiljaa 20 minuuttia.",
+   "Lisää perunat ja suola ja hauduta 20–25 minuuttia, kunnes perunat ovat pehmeitä ja pata sakeaa.",
+   "Nosta liedeltä, sekoita etikka joukkoon ja anna levätä 5 minuuttia."
+  ]
+ },
+ {
+  "id": "forkrecipe-spatchcocked-herb-chicken-potatoes",
+  "title": "Litistetty yrttikana ja uuniperunat",
+  "description": "Selkärangasta avattu kana voidellaan nahan alta yrtti-sitruunavoilla ja paahdetaan kovassa lämmössä perunoiden päällä, jotka imevät paistonesteet.",
+  "servings": 4,
+  "prepTimeMin": 30,
+  "totalTimeMin": 135,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "peruna",
+   "uuniruoka",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kokonainen broileri (n. 2 kg)",
+   "4 tl suolaa, jaettuna",
+   "45 g pehmeää voita",
+   "4 valkosipulinkynttä, raastettuna",
+   "6 timjaminoksaa, lehdet",
+   "2 rosmariininoksaa, lehdet hienonnettuna",
+   "1 sitruuna",
+   "1,3 kg kiinteitä perunoita, 4 cm paloina",
+   "2 rkl oliiviöljyä",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Leikkaa selkäranka pois keittiösaksilla, käännä kana ja litistä painamalla rintaluusta. Kuivaa ja suolaa noin 3 tl suolalla (mieluiten yön yli jääkaapissa).",
+   "Kuumenna uuni 230 asteeseen. Sekoita voi, valkosipuli, yrtit, sitruunankuori ja pippuri ja levitä nahan alle ja päälle.",
+   "Kääntele perunat öljyssä, lopussa suolassa ja pippurissa ja levitä uunipannuun. Lisää halkaistu sitruuna. Asettele kana perunoiden päälle.",
+   "Paahda 45–55 minuuttia, kunnes rinnan sisälämpö on 65 ja reiden 80 astetta.",
+   "Lepuuta kanaa 10–15 minuuttia. Kääntele perunat paistonesteissä ja paahda tarvittaessa vielä 5 minuuttia. Paloittele kana."
+  ]
+ },
+ {
+  "id": "forkrecipe-spiced-apple-butter",
+  "title": "Maustettu omenavoi",
+  "description": "Hapanomenat keitetään omenamehussa, soseutetaan mausteiden ja fariinisokerin kanssa ja haudutetaan tunteja tummaksi, levitettäväksi omenatahnaksi.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 240,
+  "category": "Säilykkeet",
+  "tags": [
+   "omena",
+   "säilöntä",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 kg happamia omenoita (esim. Granny Smith), kuorittuina ja paloiteltuina",
+   "6 dl sameaa omenamehua",
+   "500 g tummaa fariinisokeria",
+   "1 rkl kanelia",
+   "½ tl jauhettua neilikkaa",
+   "½ tl muskottipähkinää",
+   "½ tl maustepippuria",
+   "4 rkl omenaviinietikkaa",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä omenat ja mehu leveässä paksupohjaisessa kattilassa kannen alla 20–30 minuuttia pehmeiksi.",
+   "Lisää sokeri, mausteet, etikka ja suola ja soseuta sauvasekoittimella sileäksi.",
+   "Hauduta kannetta miedoimmalla lämmöllä 2–3 tuntia, sekoittaen 10–15 minuutin välein, kunnes tahna on tummaa ja pysyy lusikalla.",
+   "Purkita kuumiin puhtaisiin purkkeihin. Säilyy jääkaapissa 3–4 viikkoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-spiced-lamb-shoulder",
+  "title": "Marokkolainen haudutettu karitsanlapa",
+  "description": "Ras el hanout -mausteseoksella, säilötyllä sitruunalla, sahramilla ja hunajalla maustettu lapa haudutetaan folion alla 4 tuntia ja paahdetaan lopuksi pinnaltaan rapeaksi.",
+  "servings": 6,
+  "prepTimeMin": 30,
+  "totalTimeMin": 300,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "marokkolainen",
+   "uuniruoka",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,2 kg luullista karitsanlapaa",
+   "25 g ras el hanout -mausteseosta",
+   "8 valkosipulinkynttä",
+   "30 g säilöttyä sitruunaa (kuori), hienonnettuna",
+   "4 rkl oliiviöljyä",
+   "1 rkl suolaa",
+   "20 g tuoretta korianteria, hienonnettuna",
+   "2 rosmariininoksaa",
+   "3 dl kana- tai lammaslientä",
+   "0,5 g sahramia liotettuna 2 rkl:ssa lämmintä vettä",
+   "1 rkl hunajaa",
+   "Tarjoiluun:",
+   "korianteria ja persiljaa",
+   "30 g paahdettuja manteleita tai pinjansiemeniä"
+  ],
+  "instructions": [
+   "Survo valkosipuli suolan kanssa tahnaksi ja sekoita säilötty sitruuna, ras el hanout, öljy, korianteri, sahramivesi ja hunaja.",
+   "Tee lapaan 12–16 syvää viiltoa ja painele niihin tahnaa. Hiero loput pintaan ja marinoi halutessa yön yli.",
+   "Laita lapa uunivuokaan rosmariinin kanssa, kaada liemi ympärille ja peitä tiiviisti kahdella foliokerroksella. Hauduta 160 asteessa 3½–4 tuntia.",
+   "Poista folio, nosta lämpö 200 asteeseen ja paahda 20–25 minuuttia valellen.",
+   "Lepuuta 15 minuuttia, ripottele yrtit ja pähkinät ja revi liha haarukoilla pöydässä."
+  ]
+ },
+ {
+  "id": "forkrecipe-spinach-ricotta-stuffed-shells",
+  "title": "Pinaatti-ricottatäytteiset pastasimpukat",
+  "description": "Suuret pastasimpukat täytetään pinaatti-ricotta-parmesaaniseoksella, asetellaan tomaattikastikkeeseen, peitetään mozzarellalla ja paistetaan kuplivaksi.",
+  "servings": 4,
+  "prepTimeMin": 35,
+  "totalTimeMin": 75,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "pinaatti",
+   "juusto",
+   "uuniruoka",
+   "italialainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "4 valkosipulinkynttä, viipaleina",
+   "¼ tl chilihiutaleita",
+   "800 g tomaattimurskaa",
+   "10 basilikanlehteä",
+   "250 g jättipastasimpukoita (conchiglioni, n. 24 kpl)",
+   "450 g ricottaa",
+   "280 g pakastepinaattia, sulatettuna ja kuivaksi puristettuna",
+   "1 kananmuna",
+   "50 g parmesaania, raastettuna",
+   "1 tl raastettua sitruunankuorta",
+   "¼ tl muskottipähkinää",
+   "200 g mozzarellaa, raastettuna",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna öljy, paista valkosipulia ja chiliä 1–2 minuuttia, lisää tomaattimurska, basilika, 1 tl suolaa ja pippuria ja hauduta 20 minuuttia.",
+   "Keitä pastasimpukat 2 minuuttia pakkauksen ohjetta lyhyemmin, huuhdo ja asettele öljytylle alustalle.",
+   "Sekoita ricotta, pinaatti, muna, parmesaani, sitruunankuori, muskotti, 80 g mozzarellaa, ¾ tl suolaa ja pippuria.",
+   "Levitä kaksi kolmasosaa kastikkeesta 23 × 33 cm vuokaan. Täytä simpukat noin 2 rkl:lla täytettä ja asettele tiiviisti. Lusikoi loput kastikkeesta päälle.",
+   "Ripottele loput mozzarellasta, peitä foliolla ja paista 190 asteessa 20 minuuttia. Poista folio ja paista vielä 10–15 minuuttia. Anna seistä 10 minuuttia."
+  ]
+ },
+ {
+  "id": "forkrecipe-split-pea-soup-smoked-turkey",
+  "title": "Hernekeitto savukalkkunalla",
+  "description": "Vihreät halkaistut herneet keitetään savustetun kalkkunankoiven, juuresten ja yrttien kanssa paksuksi keitoksi; liha revitään takaisin joukkoon.",
+  "servings": 6,
+  "prepTimeMin": 25,
+  "totalTimeMin": 120,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "herneet",
+   "kalkkuna",
+   "savustettu"
+  ],
+  "ingredients": [
+   "30 g voita tai oliiviöljyä",
+   "1 sipuli, kuutioituna",
+   "2 porkkanaa, kuutioituna",
+   "2 varsiselleriä, kuutioituna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "450 g vihreitä halkaistuja herneitä, huuhdottuina",
+   "700 g savustettua kalkkunankoipea tai -siipiä",
+   "2,25 l vettä",
+   "2 laakerinlehteä",
+   "3 timjaminoksaa",
+   "1 tl mustapippuria",
+   "suolaa (vasta lopuksi)",
+   "2 tl omenaviinietikkaa",
+   "lehtipersiljaa ja krutonkeja tarjoiluun"
+  ],
+  "instructions": [
+   "Sulata voi isossa kattilassa ja kuullota sipulia, porkkanaa ja selleriä 8–10 minuuttia. Lisää valkosipuli.",
+   "Lisää herneet, kalkkuna, vesi, laakerinlehdet, timjami ja pippuri. Kiehauta, kuori vaahto ja keitä hiljaa osittain kannen alla 1¼–1½ tuntia, pohjaa välillä sekoittaen.",
+   "Nosta kalkkuna ja yrtit pois. Revi liha ja poista nahka, luut ja jänteet. Soseuta keitto halutessa osittain.",
+   "Palauta liha, lisää etikka ja suolaa maun mukaan. Tarjoa persiljan ja krutonkien kanssa."
+  ]
+ }
+]

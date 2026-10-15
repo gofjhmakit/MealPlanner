@@ -1,0 +1,757 @@
+[
+ {
+  "id": "forkrecipe-shrimp-tempura",
+  "title": "Ebi tempura (katkaraputempura)",
+  "description": "Isot katkaravut upotetaan jääkylmään, kevyesti sekoitettuun tempurataikinaan ja friteerataan rapeiksi; tarjotaan tentsuyu-kastikkeen ja raastetun daikonin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "japanilainen",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "500 g isoja tiikerirapuja kuorineen",
+   "150 g vehnäjauhoja (mieluiten leivosjauhoja), siivilöitynä",
+   "25 g perunajauhoja",
+   "1,8 dl jääkylmää kivennäisvettä",
+   "1 munankeltuainen, kylmä",
+   "1 l rypsiöljyä friteeraukseen",
+   "Tentsuyu:",
+   "1 dl dashilientä",
+   "2 rkl soijakastiketta",
+   "2 rkl miriniä",
+   "50 g daikonia tai retikkaa, raastettuna"
+  ],
+  "instructions": [
+   "Kuori katkaravut pyrstöä lukuun ottamatta ja poista suoli. Tee vatsapuolelle muutama viilto ja painele suoriksi.",
+   "Kiehauta dashi, soija ja mirin 2 minuuttia tentsuyu-kastikkeeksi.",
+   "Kuumenna öljy 175 asteeseen. Sekoita kylmä vesi ja keltuainen, lisää jauhot ja tärkkelys ja sekoita puikoilla vain muutama veto – kokkareet saavat jäädä.",
+   "Kasta katkaravut jauhoissa ja taikinassa ja friteeraa muutama kerrallaan 1½–2 minuuttia vaalean rapeiksi. Valuta ritilällä ja tarjoa heti kastikkeen ja daikonin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrub-syrup",
+  "title": "Vadelma-shrub (etikkasiirappi)",
+  "description": "Vadelmat ja sokeri annetaan maustua vuorokausi, mehu siivilöidään ja sekoitetaan omenaviinietikkaan – raikas siirappi kivennäisveteen.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 2880,
+  "category": "Juomat",
+  "tags": [
+   "vadelma",
+   "juoma",
+   "säilöntä",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g tuoreita vadelmia",
+   "300 g sokeria",
+   "3 dl omenaviinietikkaa"
+  ],
+  "instructions": [
+   "Murskaa vadelmat ja sokeri kulhossa haarukalla kevyesti.",
+   "Peitä ja anna seistä jääkaapissa 24 tuntia, kunnes marjat ovat luovuttaneet mehunsa.",
+   "Siivilöi painellen ja sekoita etikka siirappiin. Pullota ja anna maustua jääkaapissa vielä vuorokausi. Laimenna 1:5 kivennäisvedellä."
+  ]
+ },
+ {
+  "id": "forkrecipe-sichuan-chili-bean-sauce",
+  "title": "Sichuanilainen chili-papukastike",
+  "description": "Valmis doubanjiang paistetaan pitkään öljyssä, jossa on uutettu kuivattuja chilejä, sichuaninpippuria, tähtianista ja kanelia, valkosipulin ja inkiväärin kanssa.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kiinalainen",
+   "tulinen",
+   "kastike",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "200 g doubanjiangia (Pixian-härkäpapuchilitahnaa)",
+   "30 g kuivattuja chilejä",
+   "1 rkl sichuaninpippuria",
+   "6 valkosipulinkynttä, hienonnettuna",
+   "20 g inkivääriä, hienonnettuna",
+   "1,6 dl rypsiöljyä",
+   "2 rkl shaoxing-riisiviiniä",
+   "1 rkl tummaa soijakastiketta",
+   "2 tähtianista",
+   "1 pieni kanelitanko"
+  ],
+  "instructions": [
+   "Laita öljy, chilit, sichuaninpippuri, tähtianis ja kaneli kylmään wokkiin ja kuumenna hitaasti miedolla lämmöllä 8–10 minuuttia.",
+   "Lisää valkosipuli ja inkivääri ja paista hitaasti 3–4 minuuttia.",
+   "Lisää doubanjiang, nosta lämpöä ja paista sekoittaen 10–12 minuuttia, kunnes öljy muuttuu syvän punaiseksi.",
+   "Lisää riisiviini ja soija ja keitä minuutti. Poista kokonaiset mausteet, jäähdytä ja purkita. Säilyy jääkaapissa kuukausia."
+  ]
+ },
+ {
+  "id": "forkrecipe-sichuan-mapo-tofu",
+  "title": "Mapo-tofu",
+  "description": "Pehmeä tofu haudutetaan sianjauhelihan, doubanjiangin, fermentoitujen mustapapujen ja sichuaninpippurin tulisessa kastikkeessa.",
+  "servings": 3,
+  "prepTimeMin": 25,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "kiinalainen",
+   "tofu",
+   "sianliha",
+   "tulinen"
+  ],
+  "ingredients": [
+   "400 g pehmeää (silken) tofua, 2 cm kuutioina",
+   "100 g sian jauhelihaa",
+   "40 g doubanjiangia",
+   "20 g fermentoituja mustapapuja, karkeasti hienonnettuna",
+   "1 tl sichuaninpippuria, paahdettuna ja jauhettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "10 g inkivääriä, hienonnettuna",
+   "2,5 dl kana- tai kasvislientä",
+   "2 rkl rypsiöljyä",
+   "1 rkl maissitärkkelystä + 2 rkl vettä",
+   "2 kevätsipulia, renkaina"
+  ],
+  "instructions": [
+   "Laske tofukuutiot kevyesti suolattuun hiljaa kiehuvaan veteen 2 minuutiksi ja valuta.",
+   "Kuumenna öljy wokissa savuavaksi ja paista jauheliha rapeaksi.",
+   "Lisää doubanjiang, mustapavut, valkosipuli ja inkivääri ja paista 2–3 minuuttia, kunnes öljy punertuu.",
+   "Lisää liemi, kiehauta ja liu'uta tofu joukkoon. Hauduta 5 minuuttia sekoittamatta, kastiketta päälle valellen.",
+   "Sakeuta tärkkelysvedellä ravistellen. Ripottele sichuaninpippuri ja kevätsipuli ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-sinigang-na-hipon",
+  "title": "Sinigang na hipon (filippiiniläinen hapan katkarapukeitto)",
+  "description": "Tamarindilla happamaksi maustettu liemi, jossa tomaatti, daikon, munakoiso, pinaatti ja kokonaiset katkaravut.",
+  "servings": 4,
+  "prepTimeMin": 20,
+  "totalTimeMin": 40,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "äyriäiset",
+   "filippiiniläinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g isoja raakoja katkarapuja kuorineen",
+   "60 g tamarinditahnaa",
+   "1 sipuli, lohkoina",
+   "3 tomaattia, lohkoina",
+   "200 g daikonia tai retikkaa, 1 cm viipaleina",
+   "200 g munakoisoa, paloina",
+   "150 g pinaattia",
+   "2 pitkää vihreää chiliä",
+   "2 rkl kalakastiketta",
+   "1,5 l vettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kiehauta vesi ja keitä sipulia ja tomaatteja 8–10 minuuttia, tomaatteja murskaten.",
+   "Sekoita tamarinditahna liemeen. Lisää daikon ja munakoiso ja keitä 8–10 minuuttia.",
+   "Lisää katkaravut ja chilit ja keitä 3–5 minuuttia.",
+   "Lisää pinaatti ja anna painua. Mausta kalakastikkeella ja suolalla ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-skillet-chicken-lemon-orzo",
+  "title": "Pannukana sitruunaorzon ja pinaatin kanssa",
+  "description": "Ruskistetut kanan reidet kypsyvät samalla pannulla liemessä haudutetun orzon päällä; lopuksi pinaattia, voita, parmesaania ja sitruunaa.",
+  "servings": 4,
+  "prepTimeMin": 20,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "pasta",
+   "arkiruoka",
+   "italialainen"
+  ],
+  "ingredients": [
+   "700 g luuttomia broilerin reisifileitä",
+   "suolaa",
+   "mustapippuria",
+   "1 tl paprikajauhetta",
+   "1 rkl oliiviöljyä",
+   "1 sipuli, hienonnettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "250 g orzoa (kritharaki)",
+   "7,5 dl kanalientä",
+   "1 sitruunan kuori ja mehu",
+   "120 g babypinaattia",
+   "20 g voita",
+   "30 g parmesaania, raastettuna",
+   "2 rkl tilliä tai persiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuivaa reidet ja mausta suolalla, pippurilla ja paprikalla. Ruskista öljyssä kannellisessa pannussa 4 minuuttia per puoli ja nosta sivuun.",
+   "Kuullota sipulia rasvassa 3 minuuttia, lisää valkosipuli ja orzo ja paahda 1–2 minuuttia.",
+   "Lisää liemi ja sitruunankuori ja kiehauta. Asettele kana orzon päälle, peitä ja hauduta miedolla lämmöllä 12–14 minuuttia välillä sekoittaen.",
+   "Nosta kana laudalle. Sekoita pinaatti, voi, parmesaani ja 2 rkl sitruunamehua orzoon ja mausta. Tarjoa kana orzon päällä yrttien kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-slow-roasted-pork-belly",
+  "title": "Kantonilainen rapeakamarainen porsaankylki",
+  "description": "Viisimaustemarinoitu porsaankylki kuivatetaan yön yli suolakuoren alla, paahdetaan ensin hitaasti ja lopuksi kovassa lämmössä, kunnes kamara paukahtaa rapeaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 1560,
+  "category": "Pääruoat",
+  "tags": [
+   "sianliha",
+   "kiinalainen",
+   "uuniruoka",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 kg porsaan kylkeä kamaroineen",
+   "2 rkl kiinalaista viisimaustetta",
+   "2 rkl suolaa lihapuolelle",
+   "4 rkl karkeaa suolaa kamaralle",
+   "1 rkl sokeria",
+   "3 rkl soijakastiketta",
+   "2 rkl valkosipulia ja inkivääriä raastettuna",
+   "3 rkl shaoxing-riisiviiniä",
+   "2 rkl riisiviinietikkaa"
+  ],
+  "instructions": [
+   "Viillä kamaraan 1 cm ristikko läpäisemättä rasvaa. Sekoita viisimauste, suola, sokeri, soija, valkosipuli, inkivääri ja riisiviini tahnaksi ja hiero lihapuolelle (ei kamaralle).",
+   "Kuivaa kamara, peitä se karkealla suolalla ja anna kuivua jääkaapissa kannettomana yön yli.",
+   "Harjaa suola pois, sivele kamara etikalla ja paahda 150 asteessa ritilällä vesipellin yläpuolella noin 1½ tuntia.",
+   "Nosta lämpö maksimiin (240–250 astetta tai grilli) ja paahda 20–30 minuuttia valvoen, kunnes kamara kuplii rapeaksi.",
+   "Lepuuta kannettomana 10–15 minuuttia ja leikkaa raskaalla veitsellä 3–4 cm paloiksi."
+  ]
+ },
+ {
+  "id": "forkrecipe-slow-roasted-salmon-herb-sauce",
+  "title": "Hitaasti paahdettu lohi vihreän yrttikastikkeen kanssa",
+  "description": "Kokonainen lohifilee kypsyy matalassa lämmössä mehevän pehmeäksi ja tarjotaan persilja-tilli-ruohosipuli-kapriskastikkeen kanssa.",
+  "servings": 6,
+  "prepTimeMin": 20,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "lohi",
+   "uuniruoka",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,1 kg lohifileetä nahkoineen, ruodottuna",
+   "2 tl suolaa",
+   "1,4 dl oliiviöljyä, jaettuna",
+   "30 g lehtipersiljaa, hienonnettuna",
+   "15 g tilliä, hienonnettuna",
+   "10 g ruohosipulia, hienonnettuna",
+   "1 salottisipuli, hienonnettuna",
+   "25 g kapriksia, hienonnettuna",
+   "1 sitruunan kuori ja mehu",
+   "¼ tl chilihiutaleita",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna uuni 135 asteeseen. Laita lohi leivinpaperille, mausta suolalla ja pippurilla ja sivele 1 rkl öljyä.",
+   "Paahda 25–35 minuuttia, kunnes paksuimman kohdan sisälämpö on 49–52 astetta.",
+   "Sekoita salottisipuli, sitruunamehu ja ripaus suolaa ja anna seistä 10 minuuttia. Lisää sitruunankuori, kaprikset, chili, yrtit ja loput öljystä.",
+   "Siirrä lohi vadille, jaa lusikalla luonnollisiksi paloiksi ja lusikoi kastike päälle."
+  ]
+ },
+ {
+  "id": "forkrecipe-smash-burger-sauce",
+  "title": "Smash burger -kastike",
+  "description": "Majoneesi, ketsuppi, suolakurkkuliemi, sinappi, valkosipulijauhe ja cayenne – klassinen hampurilaiskastike.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 5,
+  "totalTimeMin": 5,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "amerikkalainen",
+   "nopea",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 dl majoneesia",
+   "½ dl ketsuppia",
+   "2 rkl suolakurkun lientä",
+   "1 rkl miedosti keltaista sinappia",
+   "½ tl valkosipulijauhetta",
+   "ripaus cayennepippuria",
+   "1 rkl suolakurkkua, pieninä kuutioina (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita majoneesi, ketsuppi, kurkkuliemi, sinappi, valkosipulijauhe ja cayenne tasaiseksi.",
+   "Lisää kurkkukuutiot ja maista. Anna maustua jääkaapissa 15–30 minuuttia."
+  ]
+ },
+ {
+  "id": "forkrecipe-smash-burger",
+  "title": "Smash burger",
+  "description": "Löysät jauhelihapallot litistetään erittäin kuumalle pannulle ohuiksi, rapeareunaisiksi pihveiksi; päälle juustoviipale, ja voissa paahdettuun sämpylään sinapin, ketsupin ja sipulin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "hampurilainen",
+   "amerikkalainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "680 g naudan jauhelihaa (20 % rasvaa)",
+   "2 tl suolaa",
+   "1 tl karkeaa mustapippuria",
+   "8 viipaletta cheddar- tai hampurilaisjuustoa",
+   "4 pehmeää hampurilaissämpylää",
+   "2 rkl pehmeää voita",
+   "Tarjoiluun:",
+   "sinappia",
+   "ketsuppia",
+   "1 valkosipuli (sipuli), pieninä kuutioina"
+  ],
+  "instructions": [
+   "Muotoile liha löysiksi 85 g palloiksi. Kuumenna valurautapannu kuivana kovimmalla lämmöllä vähintään 3 minuuttia.",
+   "Paahda sämpylät voideltu puoli alaspäin kullanruskeiksi ja pidä lämpimänä.",
+   "Laita pallo pannulle ja litistä heti tukevalla lastalla hyvin ohueksi. Mausta suolalla ja pippurilla. Paista koskematta noin 2 minuuttia, kunnes reunat ovat rapeat.",
+   "Käännä raaputtaen pohja mukaan, laita juusto päälle (halutessa toinen pihvi päälle) ja paista vielä 30 sekuntia.",
+   "Kokoa sämpylään sinapin, ketsupin ja sipulin kanssa ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "forkrecipe-smoked-brisket",
+  "title": "Texasilainen savustettu naudanrinta (brisket)",
+  "description": "Kokonainen naudanrinta maustetaan pelkällä suolalla ja pippurilla ja savustetaan matalassa lämmössä 10–12 tuntia, kääritään paperiin ja lepuutetaan tunteja ennen viipalointia.",
+  "servings": 16,
+  "servingsEstimated": true,
+  "prepTimeMin": 90,
+  "totalTimeMin": 840,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "savustettu",
+   "grilli",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "1 kokonainen naudanrinta (6–7 kg)",
+   "1,2 dl karkeaa suolaa",
+   "1,2 dl karkeaksi rouhittua mustapippuria",
+   "savustuspuuta (tammi tai pyökki)",
+   "2 rkl naudantalia tai rypsiöljyä"
+  ],
+  "instructions": [
+   "Trimmaa rasvakerros tasaisesti noin 6 mm paksuiseksi.",
+   "Sivele ohut kerros talia, sekoita suola ja pippuri 1:1 ja ripottele tasaisesti joka puolelle.",
+   "Savusta 107–121 asteessa ohuella sinisellä savulla, kunnes sisälämpö on noin 74 astetta ja pinta tumma (6–8 tuntia).",
+   "Kääri tiiviisti kahteen kerrokseen leivinpaperia tai teurastajanpaperia ja jatka, kunnes sisälämpö on 95 astetta ja lämpömittari liukuu sisään kuin voihin.",
+   "Lepuuta käärittynä kylmälaukussa vähintään tunti, mieluiten 2–3.",
+   "Viipaloi syitä vastaan noin 6 mm viipaleiksi; erota rasvaisempi pää ja viipaloi se erikseen."
+  ]
+ },
+ {
+  "id": "forkrecipe-smoked-turkey-stock",
+  "title": "Savukalkkunaliemi",
+  "description": "Savustetun kalkkunan ruho tai siivet keitetään hitaasti paahdettujen vihannesten, yrttien ja tilkan omenaviinietikkaa kanssa syvän savuiseksi liemeksi.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 240,
+  "category": "Muut",
+  "tags": [
+   "liemi",
+   "kalkkuna",
+   "savustettu",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg savustetun kalkkunan ruhoa tai siipiä",
+   "3,5 l kylmää vettä",
+   "1 sipuli, lohkoina",
+   "2 varsiselleriä lehtineen",
+   "1 porkkana, halkaistuna",
+   "4 valkosipulinkynttä, murskattuina",
+   "2 rkl omenaviinietikkaa",
+   "3 laakerinlehteä",
+   "5 timjaminoksaa",
+   "6 salvianlehteä",
+   "1 tl mustapippureita"
+  ],
+  "instructions": [
+   "Paahda sipuli, selleri ja porkkana kuivalla pellillä 220 asteessa 15–20 minuuttia.",
+   "Laita kalkkuna, vihannekset, vesi, valkosipuli, etikka, yrtit ja pippurit kattilaan. Kuumenna hiljaa kiehuvaksi.",
+   "Kuori vaahto ensimmäisen 30–45 minuutin aikana. Keitä hiljaa yhteensä 3–3½ tuntia.",
+   "Siivilöi kostutetun harsokankaan läpi, jäähdytä nopeasti ja nosta jähmettynyt rasva pinnalta. Säilyy jääkaapissa 4 päivää tai pakasteessa."
+  ]
+ },
+ {
+  "id": "forkrecipe-snickerdoodle-bars",
+  "title": "Snickerdoodle-palat",
+  "description": "Voinen, pehmeä peltileivonnainen viinikivellä ja ruokasoodalla, pinnalla kanelisokeri.",
+  "servings": 24,
+  "prepTimeMin": 20,
+  "totalTimeMin": 105,
+  "category": "Jälkiruoat",
+  "tags": [
+   "leivonnainen",
+   "kaneli",
+   "amerikkalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "225 g pehmeää voita",
+   "2,5 dl sokeria",
+   "1 dl fariinisokeria",
+   "2 kananmunaa",
+   "2 tl vaniljauutetta",
+   "5,5 dl vehnäjauhoja",
+   "1 tl viinikiveä",
+   "½ tl ruokasoodaa",
+   "¾ tl suolaa",
+   "Pinnalle:",
+   "½ dl sokeria",
+   "1 rkl kanelia"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen. Vuoraa 23 × 33 cm vuoka leivinpaperilla.",
+   "Vaahdota voi ja sokerit kuohkeaksi. Lisää munat yksitellen ja vanilja.",
+   "Sekoita kuivat aineet ja lisää taikinaan juuri ja juuri sekoittaen.",
+   "Levitä vuokaan, sekoita sokeri ja kaneli ja ripottele pinnalle. Paista 22–28 minuuttia, kunnes reunat ovat kullanruskeat ja keskikohta juuri hyytynyt.",
+   "Jäähdytä vuoassa vähintään tunti ja leikkaa 24 palaksi."
+  ]
+ },
+ {
+  "id": "forkrecipe-soba-noodle-salad",
+  "title": "Kylmä sobanuudelisalaatti",
+  "description": "Tattarinuudelit huuhdellaan jääkylmiksi ja kääntellään soija-seesami-riisiviinietikkakastikkeessa inkiväärin kanssa; päälle seesaminsiemeniä ja kevätsipulia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Salaatit",
+  "tags": [
+   "nuudelit",
+   "japanilainen",
+   "kylmä",
+   "vegaaninen",
+   "nopea"
+  ],
+  "ingredients": [
+   "250 g sobanuudeleita",
+   "4 rkl vähäsuolaista soijakastiketta",
+   "2 rkl paahdettua seesamiöljyä",
+   "2 rkl riisiviinietikkaa",
+   "1½ rkl miriniä",
+   "2 tl tuoretta inkivääriä, raastettuna",
+   "2 rkl paahdettuja seesaminsiemeniä",
+   "3 kevätsipulia, renkaina"
+  ],
+  "instructions": [
+   "Vatkaa soija, seesamiöljy, etikka, mirin ja inkivääri kastikkeeksi.",
+   "Keitä nuudelit pakkauksen ohjeen mukaan (4–6 minuuttia). Valuta ja huuhtele kylmässä vedessä hieroen, kunnes tärkkelys irtoaa. Valuta hyvin.",
+   "Kääntele nuudelit kastikkeessa.",
+   "Ripottele seesaminsiemenet ja kevätsipuli ja tarjoa 10 minuutin sisällä."
+  ]
+ },
+ {
+  "id": "forkrecipe-soba-tsuyu",
+  "title": "Soba tsuyu (sobanuudelien kastoliemi)",
+  "description": "Kombusta ja katsuobushista uutettu dashi yhdistetään soijasta, mirinistä ja sokerista tehtyyn kaeshiin – kastoliemi kylmille sobanuudeleille.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "japanilainen",
+   "liemi",
+   "kastike"
+  ],
+  "ingredients": [
+   "2,5 dl tummaa soijakastiketta",
+   "1 dl miriniä",
+   "2 rkl sokeria",
+   "10 cm pala kombua",
+   "15 g katsuobushia",
+   "4 dl vettä"
+  ],
+  "instructions": [
+   "Liota kombua kylmässä vedessä 30 minuuttia. Kuumenna hitaasti 60–65 asteeseen ja poista kombu.",
+   "Kuumenna dashi 80 asteeseen, lisää katsuobushi sekoittamatta ja anna hautua 3 minuuttia. Siivilöi.",
+   "Lämmitä soija, mirin ja sokeri miedosti, kunnes sokeri liukenee (kaeshi).",
+   "Sekoita 1 osa kaeshia ja noin 3 osaa dashia. Kylmille nuudeleille väkevämpi 1:2,5. Jäähdytä."
+  ]
+ },
+ {
+  "id": "forkrecipe-socca",
+  "title": "Socca (kikhernejauholetut Nizzan tapaan)",
+  "description": "Kikhernejauhosta, vedestä ja oliiviöljystä tehty ohut taikina paistetaan erittäin kuumassa valurautapannussa grillivastuksen alla rapeareunaiseksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 70,
+  "category": "Välipalat",
+  "tags": [
+   "kikherneet",
+   "ranskalainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl kikhernejauhoa",
+   "5 dl kylmää vettä",
+   "3 rkl oliiviöljyä + paistamiseen",
+   "1 tl suolaa",
+   "½ tl karkeaa mustapippuria"
+  ],
+  "instructions": [
+   "Vatkaa kylmä vesi vähitellen kikhernejauhoon tasaiseksi. Lisää öljy ja suola ja anna levätä vähintään 30 minuuttia.",
+   "Kuumenna 30 cm valurautapannu uunin grillivastuksen alla 10 minuuttia.",
+   "Kaada pannuun 2 rkl öljyä ja ohut kerros taikinaa. Paista vastuksen alla 5–7 minuuttia, kunnes pinta on täplikkään ruskea ja reunat rapeat.",
+   "Leikkaa paloiksi, rouhi päälle pippuria ja tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "forkrecipe-soffritto",
+  "title": "Italialainen soffritto",
+  "description": "Sipuli, selleri ja porkkana hienoksi kuutioituina hauduttuvat hitaasti oliiviöljyssä makeaksi pohjaksi kastikkeille ja keitoille.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 35,
+  "totalTimeMin": 35,
+  "category": "Muut",
+  "tags": [
+   "italialainen",
+   "pohja",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 sipulia, 2–3 mm kuutioina",
+   "2 varsiselleriä, hienoksi kuutioituna",
+   "2 porkkanaa, hienoksi kuutioituna",
+   "1 dl oliiviöljyä",
+   "½ tl suolaa",
+   "2 valkosipulinkynttä, hienonnettuna (valinnainen)"
+  ],
+  "instructions": [
+   "Kuutioi kaikki vihannekset tasakokoisiksi, enintään 5 mm.",
+   "Kuumenna öljy leveässä pannussa miedolla lämmöllä, lisää sipuli ja ripaus suolaa ja hauduta 8–10 minuuttia.",
+   "Lisää selleri ja porkkana ja hauduta vielä 15–20 minuuttia välillä sekoittaen, ruskistamatta. Lisää halutessa valkosipuli viimeisinä minuutteina.",
+   "Maista ja suolaa. Käytä heti tai pakasta annoksina."
+  ]
+ },
+ {
+  "id": "forkrecipe-sofrito-catala",
+  "title": "Katalonialainen sofrito",
+  "description": "Sipuli karamellisoituu oliiviöljyssä hitaasti, ja raastettu tomaatti keitetään sen kanssa tummaksi, hilloiseksi pohjaksi paellaan ja patoihin.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 45,
+  "category": "Muut",
+  "tags": [
+   "espanjalainen",
+   "pohja",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g hyvin kypsiä tomaatteja, raastettuina",
+   "2 sipulia, hyvin hienoksi kuutioituna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "1,5 dl oliiviöljyä",
+   "2 tl suolaa",
+   "2–3 timjaminoksaa (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna öljy leveässä pannussa miedolla lämmöllä, lisää sipuli ja suola ja hauduta 20–25 minuuttia välillä sekoittaen kullanruskeaksi.",
+   "Lisää valkosipuli ja timjami ja kypsennä 2 minuuttia.",
+   "Lisää raastettu tomaatti ja keitä keskilämmöllä 20–25 minuuttia sekoitellen, kunnes seos on tummaa ja hilloista ja öljy erottuu."
+  ]
+ },
+ {
+  "id": "forkrecipe-sofrito",
+  "title": "Sofrito (paprika-tomaattipohja)",
+  "description": "Sipuli ja punainen paprika hauduttuvat oliiviöljyssä pehmeiksi, joukkoon valkosipuli, savupaprika ja raastettu tomaatti; keitetään makeaksi pohjaksi.",
+  "servings": 8,
+  "prepTimeMin": 15,
+  "totalTimeMin": 75,
+  "category": "Muut",
+  "tags": [
+   "espanjalainen",
+   "pohja",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g sipulia, hienoksi kuutioituna",
+   "400 g kypsiä luumutomaatteja, raastettuina",
+   "1 punainen paprika, hienoksi kuutioituna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "0,8 dl oliiviöljyä",
+   "1 tl suolaa",
+   "1 laakerinlehti tai timjaminoksa",
+   "1 tl savustettua paprikajauhetta"
+  ],
+  "instructions": [
+   "Hauduta sipulia ja paprikaa öljyssä ja suolassa miedolla lämmöllä 20–25 minuuttia pehmeiksi.",
+   "Lisää valkosipuli ja paista 90 sekuntia. Nosta hetkeksi liedeltä ja sekoita savupaprika joukkoon.",
+   "Lisää tomaatti ja laakerinlehti ja hauduta 30–40 minuuttia, kunnes seos on paksua ja öljy erottuu. Poista laakerinlehti."
+  ]
+ },
+ {
+  "id": "forkrecipe-soft-boiled-ramen-eggs",
+  "title": "Ajitsuke tamago (marinoidut ramenmunat)",
+  "description": "Tasan 6½ minuuttia keitetyt munat marinoidaan yön yli soija-mirin-sake-liemessä, jolloin keltuainen jää hilloiseksi ja valkuainen saa meripihkan värin.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 780,
+  "category": "Välipalat",
+  "tags": [
+   "kananmuna",
+   "japanilainen",
+   "ramen"
+  ],
+  "ingredients": [
+   "6 kananmunaa jääkaappikylminä",
+   "1 dl soijakastiketta",
+   "1 dl miriniä",
+   "½ dl sakea",
+   "½ dl vettä",
+   "5 cm pala kombua"
+  ],
+  "instructions": [
+   "Laske kylmät munat kiehuvaan veteen ja keitä tasan 6½ minuuttia. Siirrä jääveteen 10 minuutiksi.",
+   "Kuori munat varovasti juoksevan veden alla.",
+   "Kiehauta soija, mirin, sake, vesi ja kombu 3 minuuttia ja jäähdytä.",
+   "Laita munat pussiin tai pieneen astiaan, kaada marinadi päälle ja marinoi jääkaapissa 8–12 tuntia. Halkaise ja tarjoa ramenin päällä."
+  ]
+ },
+ {
+  "id": "forkrecipe-soft-pretzel",
+  "title": "Baijerilaiset pretzelit",
+  "description": "Kiinteästä vehnätaikinasta muotoillut pretzelit kastetaan kiehuvaan ruokasoodaliuokseen ja paistetaan syvän mahonginruskeiksi karkean suolan kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 60,
+  "totalTimeMin": 180,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "saksalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "600 g puolikarkeita vehnäjauhoja (vahva jauho)",
+   "3,5 dl lämmintä vettä (41 astetta)",
+   "9 g kuivahiivaa",
+   "12 g suolaa",
+   "20 g pehmeää voita",
+   "1 rkl mallasuutetta tai fariinisokeria",
+   "Liemeen:",
+   "2 l vettä",
+   "80 g ruokasoodaa",
+   "Pinnalle:",
+   "2 rkl karkeaa suolaa"
+  ],
+  "instructions": [
+   "Sekoita jauhot, hiiva ja mallas. Lisää vesi ja voi ja sekoita, lisää suola ja vaivaa 10–12 minuuttia kiinteäksi taikinaksi. Kohota tunti.",
+   "Jaa 8 osaan ja kauli 50–60 cm pötköiksi, keskeltä paksummiksi. Muotoile pretzeliksi: ristitä päät kahdesti ja paina ne pohjan päälle.",
+   "Kiehauta vesi ja lisää sooda varovasti. Uita pretzeleitä yksi kerrallaan 20–30 sekuntia ja nosta leivinpaperille.",
+   "Ripottele karkea suola ja paista 220 asteessa 16–20 minuuttia syvän ruskeiksi."
+  ]
+ },
+ {
+  "id": "forkrecipe-soft-pretzels",
+  "skip": "lähes sama kuin edellinen pretzelresepti (lipeäliuos)"
+ },
+ {
+  "id": "forkrecipe-sole-meuniere",
+  "title": "Kielikampela meunière",
+  "description": "Jauhotettu kielikampela paistetaan kirkastetussa voissa ja kastetaan ruskistetulla voilla, sitruunalla ja persiljalla.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "kampela",
+   "ranskalainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 kokonaista kielikampelaa (n. 450 g kpl), nyljettyinä",
+   "50 g vehnäjauhoja",
+   "suolaa",
+   "valkopippuria",
+   "60 g kirkastettua voita",
+   "100 g kylmää voita",
+   "1 sitruunan mehu + lohkoja tarjoiluun",
+   "2 rkl lehtipersiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuivaa kalat ja mausta suolalla ja valkopippurilla. Jauhota juuri ennen paistamista ja taputtele ylimääräinen jauho pois.",
+   "Kuumenna kirkastettu voi leveässä pannussa ja paista kaloja koskematta 3–4 minuuttia, käännä ja paista vielä 2–3 minuuttia. Nosta lämpimille lautasille.",
+   "Pyyhi pannu, lisää kylmä voi ja kuumenna, kunnes se vaahtoaa ja ruskistuu pähkinäiseksi.",
+   "Nosta liedeltä, purista joukkoon sitruunamehu ja lisää persilja. Lusikoi kalojen päälle ja tarjoa sitruunalohkojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-som-tam",
+  "title": "Som tam (vihreä papaijasalaatti)",
+  "description": "Huhmareessa survottu chili, valkosipuli, palmusokeri, kuivatut katkaravut, tomaatti ja parsapapu, johon kääntellään suikaloitu raaka papaija limetin ja kalakastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Salaatit",
+  "tags": [
+   "thaimaalainen",
+   "salaatti",
+   "tulinen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "400 g raakaa vihreää papaijaa, suikaloituna",
+   "2–5 thaichiliä",
+   "2 valkosipulinkynttä",
+   "1½ rkl kalakastiketta",
+   "2 rkl limettimehua",
+   "1 rkl palmusokeria tai fariinisokeria",
+   "1 rkl kuivattuja katkarapuja",
+   "3 rkl paahdettuja maapähkinöitä, rouhittuina",
+   "8 kirsikkatomaattia, puolitettuina",
+   "50 g parsapapuja tai vihreitä papuja, 5 cm paloina"
+  ],
+  "instructions": [
+   "Survo chilit ja valkosipuli huhmareessa karkeiksi.",
+   "Lisää palmusokeri ja kuivatut katkaravut ja survo kevyesti, kunnes sokeri liukenee.",
+   "Lisää tomaatit ja pavut ja mustele kevyesti. Lisää kalakastike ja limettimehu.",
+   "Lisää papaija erissä ja survo ja kääntele kevyesti, kunnes se on kastikkeen peitossa. Tarjoa heti maapähkinöiden kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-som-tum",
+  "skip": "lähes sama kuin edellinen papaijasalaatti"
+ }
+]

@@ -1,0 +1,858 @@
+[
+ {
+  "id": "forkrecipe-tacos-de-pescado",
+  "title": "Bajan kalatacot",
+  "description": "Oluttaikinassa friteeratut vaalean kalan suikaleet maissitortilloissa kaalin, chipotle-kerman, korianterin ja limetin kanssa.",
+  "servings": 4,
+  "prepTimeMin": 30,
+  "totalTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "meksikolainen",
+   "tacot",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "600 g kiinteää vaaleaa kalaa (turska, kuha), nahattomana",
+   "2 dl vehnäjauhoja",
+   "1 tl leivinjauhetta",
+   "2 dl jääkylmää vaaleaa olutta",
+   "1 tl suolaa",
+   "1 tl juustokuminaa",
+   "1 tl savustettua paprikajauhetta",
+   "1 l rypsiöljyä friteeraukseen",
+   "12 maissitortillaa, lämmitettyinä",
+   "200 g valkokaalia, hienoksi suikaloituna",
+   "1,2 dl smetanaa tai ranskankermaa",
+   "1–2 chipotlea adobokastikkeessa, hienonnettuna",
+   "3 limettiä, lohkoina",
+   "20 g korianteria",
+   "marinoituja jalapeñoja tai salsaa"
+  ],
+  "instructions": [
+   "Sekoita chipotle smetanaan; aloita puolesta ja maista.",
+   "Sekoita jauhot, leivinjauhe, suola, kumina ja paprika. Vatkaa kylmä olut joukkoon juuri ja juuri – kokkareet saavat jäädä.",
+   "Kuumenna öljy 185 asteeseen. Leikkaa kala 2,5 × 8 cm suikaleiksi ja kuivaa. Kasta taikinaan ja friteeraa 4–5 kerrallaan 3–4 minuuttia kullanruskeiksi. Valuta ritilällä.",
+   "Lämmitä tortillat kuivalla pannulla ja laita kaksi päällekkäin. Täytä kaalilla, kalalla, chipotle-kermalla, korianterilla ja jalapeñoilla; tarjoa limettilohkojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tagine-lamb-chickpea",
+  "title": "Karitsa-kikherne-aprikoositagine",
+  "description": "Ras el hanoutilla maustettu karitsanlapa ruskistetaan ja haudutetaan aprikoosien, kikherneiden, säilötyn sitruunan ja sahramin kanssa mureaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "marokkolainen",
+   "pata",
+   "kikherneet",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,2 kg luullista karitsanlapaa, 7 cm paloina",
+   "60 g ras el hanout -mausteseosta",
+   "1 iso sipuli, hienonnettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "120 g kuivattuja aprikooseja, puolitettuina",
+   "1 tlk (240 g valutettuna) kikherneitä",
+   "60 g säilötyn sitruunan kuorta, suikaleina",
+   "0,3 g sahramia liotettuna 2 rkl:ssa kuumaa vettä",
+   "1 dl oliiviöljyä",
+   "1 nippu korianteria ja persiljaa, hienonnettuna",
+   "2 tl suolaa",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Hiero liha ras el hanoutin, valkosipulin, suolan ja pippurin kanssa ja marinoi vähintään tunti, mieluiten yön yli.",
+   "Kuumenna öljy tagine-pohjassa tai valurautapadassa ja ruskista liha erissä. Kuullota sipuli rasvassa pehmeäksi.",
+   "Palauta liha, lisää aprikoosit, kikherneet, säilötty sitruuna ja sahrami liemineen. Lisää vettä lihan puoliväliin.",
+   "Hauduta kannen alla miedolla lämmöllä 1½–2 tuntia, kunnes liha irtoaa luusta.",
+   "Tarkista maku ja ripottele yrtit pinnalle. Tarjoa couscousin tai leivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tagine-lamb-prune",
+  "title": "Karitsatagine luumuilla ja manteleilla",
+  "description": "Karitsanlapa haudutetaan raastetun sipulin, inkiväärin, kanelin, kurkuman ja sahramin liemessä; lopuksi luumut ja hunaja ja pinnalle paahdetut mantelit.",
+  "servings": 4,
+  "prepTimeMin": 30,
+  "totalTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "marokkolainen",
+   "pata",
+   "luumu",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg karitsanlapaa, 5 cm paloina",
+   "1 sipuli, raastettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "15 g tuoretta inkivääriä, raastettuna",
+   "1 rkl ras el hanout -mausteseosta",
+   "1 tl juustokuminaa",
+   "1 tl kanelia",
+   "1 tl kurkumaa",
+   "0,3 g sahramia liotettuna 3 rkl:ssa lämmintä vettä",
+   "150 g kivettömiä kuivattuja luumuja",
+   "2 rkl juoksevaa hunajaa",
+   "60 g kuorittuja manteleita, paahdettuina",
+   "20 g korianteria",
+   "4 dl lammas- tai kanalientä",
+   "4 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kuivaa ja mausta liha. Ruskista öljyssä erissä ja nosta sivuun.",
+   "Lisää raastettu sipuli ja kypsennä 8–10 minuuttia pohjaa raaputtaen. Lisää valkosipuli, inkivääri ja kuivat mausteet ja paahda minuutti.",
+   "Lisää liemi ja sahrami, palauta liha ja hauduta kannen alla miedolla lämmöllä 1½ tuntia.",
+   "Lisää luumut ja hunaja ja keitä kannetta 20–25 minuuttia, kunnes kastike on siirappista.",
+   "Ripottele mantelit ja korianteri pinnalle ja tarjoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tagine-lamb",
+  "title": "Karitsatagine säilötyllä sitruunalla ja oliiveilla",
+  "description": "Raastetun sipulin ja mausteiden kanssa marinoitu karitsanlapa ruskistetaan ja haudutetaan sahramiliemessä säilötyn sitruunan kanssa; lopuksi vihreät oliivit ja yrtit.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 180,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "marokkolainen",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g luullista karitsanlapaa, 5 cm paloina",
+   "2 sipulia, raastettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "3 rkl oliiviöljyä",
+   "1½ tl juustokuminaa",
+   "1 tl jauhettua inkivääriä",
+   "½ tl kanelia",
+   "½ tl kurkumaa",
+   "1 tl ras el hanout -mausteseosta",
+   "¼ tl sahramia liotettuna 2 rkl:ssa lämmintä vettä",
+   "2,4 dl kana- tai lammaslientä",
+   "1 säilötyn sitruunan kuori, hienonnettuna",
+   "1,2 dl vihreitä oliiveja, kivettöminä",
+   "½ dl korianteria",
+   "½ dl lehtipersiljaa",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita mausteet, raastettu sipuli ja valkosipuli ja kääntele liha seoksessa.",
+   "Kuumenna öljy padassa ja ruskista liha erissä vähintään kahdelta puolelta.",
+   "Palauta liha, lisää sahrami, liemi ja säilötty sitruuna. Nesteen tulee ulottua puoliväliin lihaa. Hauduta kannen alla miedolla lämmöllä 2–2½ tuntia.",
+   "Lisää oliivit ja keitä kannetta 15 minuuttia. Tarkista suola ja ripottele yrtit."
+  ]
+ },
+ {
+  "id": "forkrecipe-tahini-sauce",
+  "title": "Tahinikastike",
+  "description": "Tahini, sitruunamehu ja valkosipuli vatkataan; jäävettä lisätään lusikallinen kerrallaan, kunnes kastike on vaalea ja silkkinen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "lähi-itä",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "1,5 dl tahinia, hyvin sekoitettuna",
+   "0,7 dl sitruunamehua",
+   "1 valkosipulinkynsi, tahnaksi raastettuna",
+   "1 dl jääkylmää vettä",
+   "1 tl suolaa",
+   "½ tl juustokuminaa (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita tahini purkissa pohjasta asti ennen mittaamista.",
+   "Vatkaa sitruunamehu ja valkosipuli tahiniin – seos paksuuntuu ja muuttuu murumaiseksi.",
+   "Lisää jäävettä lusikallinen kerrallaan vatkaten, kunnes kastike on vaalea, sileä ja kaatuva. Mausta suolalla ja kuminalla."
+  ]
+ },
+ {
+  "id": "forkrecipe-tahini",
+  "title": "Tahini (seesamitahna)",
+  "description": "Seesaminsiemenet paahdetaan kuivalla pannulla vaalean kullanruskeiksi, jäähdytetään ja jauhetaan pitkään tehosekoittimessa juoksevaksi tahnaksi.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Muut",
+  "tags": [
+   "seesami",
+   "lähi-itä",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g kuorittuja seesaminsiemeniä",
+   "1 rkl neutraalia öljyä (tarvittaessa)"
+  ],
+  "instructions": [
+   "Paahda siemeniä leveällä kuivalla pannulla miedolla lämmöllä jatkuvasti sekoittaen 5–8 minuuttia vaalean kullanruskeiksi.",
+   "Levitä siemenet viileälle lautaselle ja jäähdytä vähintään 5 minuuttia.",
+   "Jauha tehosekoittimessa tai monitoimikoneessa 3–4 minuuttia, kaapien välillä reunat, kunnes massa muuttuu juoksevaksi tahnaksi. Lisää tarvittaessa öljyä. Säilyy jääkaapissa kuukausia."
+  ]
+ },
+ {
+  "id": "forkrecipe-takoyaki-sauce",
+  "title": "Takoyaki-kastike",
+  "description": "Worcestershire, osterikastike, ketsuppi, hunaja, soija ja riisiviinietikka keitetään hetki paksuksi makeasuolaiseksi kastikkeeksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 5,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "japanilainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "4 rkl worcestershirekastiketta",
+   "2 rkl osterikastiketta",
+   "2 rkl ketsuppia",
+   "1 rkl hunajaa",
+   "1 rkl soijakastiketta",
+   "1 tl riisiviinietikkaa",
+   "ripaus valkosipulijauhetta"
+  ],
+  "instructions": [
+   "Vatkaa kaikki ainekset, kunnes hunaja on liuennut.",
+   "Kuumenna pienessä kattilassa kiehuvaksi ja keitä miedolla lämmöllä 3–4 minuuttia sekoittaen, kunnes kastike sakenee.",
+   "Jäähdytä. Säilyy jääkaapissa kaksi viikkoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamago-gohan",
+  "title": "Tamago kake gohan (riisiä ja raakaa munaa)",
+  "description": "Höyryävän kuuman riisin joukkoon vatkataan vaahdotettu valkuainen, ja keskelle asetetaan raaka keltuainen ja tilkka soijaa – japanilainen arkiaamiainen.",
+  "servings": 1,
+  "prepTimeMin": 5,
+  "totalTimeMin": 5,
+  "category": "Aamiainen",
+  "tags": [
+   "japanilainen",
+   "kananmuna",
+   "riisi",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 dl (200 g) vastakeitettyä japanilaista riisiä, hyvin kuumana",
+   "1 hyvin tuore kananmuna (salmonellavapaa)",
+   "2 tl soijakastiketta",
+   "1 kevätsipuli, ohuina renkaina"
+  ],
+  "instructions": [
+   "Erota muna. Vatkaa valkuaista puikoilla 30 sekuntia vaahtoavaksi.",
+   "Kaada valkuainen kuuman riisin päälle ja sekoita nopeasti 20–30 sekuntia, kunnes riisi on kuohkeaa.",
+   "Tee keskelle kuoppa, laita keltuainen siihen, pirskota soija ja ripottele kevätsipuli. Tarjoa heti."
+  ],
+  "notes": [
+   "Käytä vain hyvin tuoreita munia; suomalaiset kananmunat ovat salmonellavalvottuja."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamagoyaki",
+  "title": "Tamagoyaki (japanilainen munakasrulla)",
+  "description": "Dashilla, soijalla, mirinillä ja sokerilla maustettu munaseos paistetaan ohuina kerroksina ja rullataan suorakaiteen muotoiseksi munakasrullaksi.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "japanilainen",
+   "bento"
+  ],
+  "ingredients": [
+   "4 kananmunaa",
+   "½ dl dashilientä",
+   "2 tl vaaleaa soijakastiketta",
+   "1 rkl miriniä",
+   "2 tl sokeria",
+   "1 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Sekoita munat, dashi, soija, mirin ja sokeri puikoilla leikkaavin liikkein vaahdottamatta.",
+   "Kuumenna tamagoyaki-pannu tai pieni pannu keskilämmölle ja pyyhi öljyllä. Kaada kolmannes seoksesta, anna hyytyä osittain ja rullaa reunaa kohti.",
+   "Öljyä paljas pinta, kaada lisää seosta ja nosta rullaa niin, että seos valuu sen alle. Rullaa uudelleen. Toista.",
+   "Kääri kuuma rulla bambumattoon tai kelmuun ja paina suorakaiteeksi. Anna asettua 5 minuuttia ja leikkaa paloiksi."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamale-masa",
+  "title": "Tamale-taikina (masa)",
+  "description": "Masa harina sekoitetaan lämpimään liemeen ja vatkataan kuohkeaksi vatkatun laardin kanssa – pohja tamaleille.",
+  "servings": 24,
+  "servingsEstimated": true,
+  "prepTimeMin": 40,
+  "totalTimeMin": 180,
+  "category": "Muut",
+  "tags": [
+   "meksikolainen",
+   "maissi",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g masa harinaa",
+   "200 g laardia, huoneenlämpöisenä",
+   "4,5 dl lämmintä kanalientä tai kasvislientä",
+   "10 g leivinjauhetta",
+   "10 g suolaa",
+   "1 tl kanaliemijauhetta (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita masa harina ja lämmin liemi kiinteähköksi taikinaksi.",
+   "Vatkaa laardi sähkövatkaimella 3–4 minuuttia valkoiseksi ja kuohkeaksi. Lisää leivinjauhe, suola ja liemijauhe.",
+   "Lisää kostutettu masa neljässä erässä vatkaten 2 minuuttia joka lisäyksen välillä, kunnes seos on kuohkeaa. Testi: nokare kelluu kylmässä vedessä.",
+   "Peitä kelmulla pintaa myöten ja lepuuta 30 minuuttia ennen levittämistä maissinlehdille."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamales-de-pollo",
+  "title": "Kanatamalet salsa verden kanssa",
+  "description": "Tomatillo-chililiemessä haudutettu revitty kana kääritään kuohkean masataikinan kanssa maissinlehtiin ja höyrytetään.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 120,
+  "totalTimeMin": 210,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "meksikolainen",
+   "maissi",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g masa harinaa",
+   "160 g laardia, pehmeänä",
+   "4,8 dl lämmintä kanalientä",
+   "6 g leivinjauhetta",
+   "12 g suolaa",
+   "600 g broilerin reisiä luineen",
+   "300 g tomatilloja (tai vihreitä tomaatteja), puolitettuina",
+   "2–3 serrano- tai jalapeñochiliä",
+   "1 sipuli",
+   "4 valkosipulinkynttä",
+   "30–35 kuivattua maissinlehteä, liotettuna kuumassa vedessä tunnin"
+  ],
+  "instructions": [
+   "Keitä kana, tomatillot, chilit, puolet sipulista ja valkosipuli vedessä 35–40 minuuttia. Revi kana. Soseuta tomatillot, chilit ja lopun sipulin kanssa salsaksi ja sekoita kanaan.",
+   "Vatkaa laardi kuohkeaksi, lisää masa harina ja leivinjauhe ja vähitellen lämmin liemi ja suola, kunnes taikina on kevyttä.",
+   "Levitä maissinlehdelle noin 60 g masaa ohueksi suorakaiteeksi, laita päälle kanatäytettä ja taita lehti tiiviiksi paketiksi.",
+   "Asettele tamalet pystyyn tiiviisti höyrytyskattilaan ja höyrytä peitettynä 1–1½ tuntia, kunnes masa irtoaa lehdestä."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamarind-agua-fresca",
+  "title": "Agua de tamarindo (tamarindijuoma)",
+  "description": "Tamarindin hedelmäliha liotetaan kuumassa vedessä, siivilöidään ja makeutetaan; laimennetaan kylmällä vedellä raikkaaksi juomaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g tamarindipalkoja tai siemenetöntä tamarindiblokkia",
+   "5 dl kiehuvaa vettä",
+   "1 l kylmää vettä",
+   "1 dl sokeria",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Kuori tamarindipalot ja poista kuidut. Liota hedelmälihaa kiehuvassa vedessä 15 minuuttia, hieroen sitä irti siemenistä.",
+   "Siivilöi painellen ja hylkää siemenet ja kuidut.",
+   "Sekoita sokeri ja suola lämpimään tiivisteeseen ja laimenna kylmällä vedellä maistellen. Tarjoa jäiden kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamarind-braised-oxtail",
+  "title": "Tamarindissa haudutettu häränhäntä",
+  "description": "Karibialaistyylinen pata: ruskistettu häränhäntä haudutetaan tamarindin, fariinisokerin, maustepippurin, timjamin ja kokonaisen habanero-chilin kanssa, lopuksi voipavut.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 240,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "pata",
+   "karibialainen"
+  ],
+  "ingredients": [
+   "1,4 kg häränhäntää, 4–5 cm paloina",
+   "60 g tamarinditahnaa",
+   "30 g tummaa fariinisokeria",
+   "1 kokonainen habanero- tai scotch bonnet -chili",
+   "1 sipuli, kuutioituna",
+   "5 valkosipulinkynttä, hienonnettuna",
+   "4 kevätsipulia, karkeasti pilkottuna",
+   "4 timjaminoksaa",
+   "6 maustepippuria",
+   "2 rkl worcestershirekastiketta",
+   "2 rkl soijakastiketta",
+   "1 tlk (240 g valutettuna) voipapuja",
+   "6 dl naudanlientä tai vettä",
+   "2 rkl rypsiöljyä",
+   "2 tl suolaa",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Mausta häntäpalat suolalla ja pippurilla ja ruskista padassa öljyssä pienissä erissä syvän ruskeiksi.",
+   "Kuullota sipuli rasvassa 8–10 minuuttia, lisää valkosipuli, kevätsipuli, timjami ja maustepippurit.",
+   "Lisää tamarindi, sokeri, worcestershire ja soija. Palauta liha, lisää liemi kahteen kolmasosaan lihasta ja kokonainen chili. Hauduta kannen alla miedolla lämmöllä 2½–3 tuntia.",
+   "Poista kansi, lisää pavut ja keitä 25–30 minuuttia, kunnes kastike on paksua ja kiiltävää. Poista chili ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamarind-chutney",
+  "title": "Tamarindi-taatelichutney",
+  "description": "Tamarindi ja taatelit keitetään jaggeryn, kuminan, inkiväärin ja chilin kanssa ja siivilöidään kiiltäväksi makeahapaksi chaat-kastikkeeksi.",
+  "servings": 10,
+  "prepTimeMin": 15,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "chutney",
+   "intialainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "100 g tamarindiblokkia",
+   "2,5 dl kuumaa vettä",
+   "80 g medjool-taateleita, kivettöminä",
+   "60 g jaggerya tai tummaa muscovado-sokeria",
+   "1 tl juustokuminaa, paahdettuna ja jauhettuna",
+   "½ tl jauhettua inkivääriä",
+   "½ tl kashmirinchilijauhetta",
+   "1 tl suolaa",
+   "½ tl mustasuolaa (kala namak)"
+  ],
+  "instructions": [
+   "Liota tamarindia kuumassa vedessä 15 minuuttia hieroen ja siivilöi kattilaan.",
+   "Lisää taatelit, sokeri ja mausteet ja keitä miedolla lämmöllä 10–12 minuuttia, kunnes taatelit hajoavat.",
+   "Siivilöi painellen sileäksi kastikkeeksi.",
+   "Jäähdytä – chutney paksuuntuu jäähtyessään. Säilyy jääkaapissa kuukauden."
+  ]
+ },
+ {
+  "id": "forkrecipe-tamarind-shrimp",
+  "title": "Keralalainen tamarindi-katkarapucurry",
+  "description": "Sinapinsiemenet, sarviapila ja curryn lehdet kookosöljyssä, kullanruskea sipulipohja, tamarindi ja kookosmaito – katkaravut kypsyvät kastikkeessa muutamassa minuutissa.",
+  "servings": 4,
+  "prepTimeMin": 20,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "intialainen",
+   "curry",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g raakoja katkarapuja, kuorittuina",
+   "40 g tamarinditahnaa",
+   "2 dl kookosmaitoa",
+   "2 sipulia, ohuina viipaleina",
+   "5 valkosipulinkynttä, hienonnettuna",
+   "20 g inkivääriä, hienonnettuna",
+   "4 kuivattua punaista chiliä",
+   "15 curryn lehteä",
+   "1 tl mustia sinapinsiemeniä",
+   "½ tl sarviapilan siemeniä",
+   "½ tl kurkumaa",
+   "1½ tl jauhettua korianteria",
+   "1 tl chilijauhetta",
+   "2 rkl kookosöljyä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna öljy ja lisää sinapinsiemenet; kun ne poksahtavat, lisää sarviapila, chilit ja curryn lehdet.",
+   "Lisää sipulit ja kypsennä 10–12 minuuttia kullanruskeiksi. Lisää valkosipuli ja inkivääri.",
+   "Lisää kurkuma, korianteri ja chilijauhe ja paista 90 sekuntia.",
+   "Lisää tamarindi, kookosmaito ja suola ja kiehauta.",
+   "Lisää katkaravut ja kypsennä 4–5 minuuttia kääntäen. Tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tandoori-chicken",
+  "title": "Tandoorikana",
+  "description": "Viillellyt kananpalat marinoidaan kahdessa vaiheessa jogurtti-mausteseoksessa ja paahdetaan uunin kovimmalla lämmöllä hiiltyneiksi reunoiltaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 240,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "intialainen",
+   "uuniruoka",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,4 kg broilerin paloja luineen ja nahkoineen",
+   "2,4 dl täysrasvaista jogurttia",
+   "2 rkl sitruunamehua",
+   "6 valkosipulinkynttä, tahnaksi raastettuna",
+   "1½ rkl tuoretta inkivääriä, raastettuna",
+   "2 rkl kashmirinchilijauhetta",
+   "1½ tl garam masalaa",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "½ tl kurkumaa",
+   "½ tl kuivattuja sarviapilan lehtiä (kasuri methi)",
+   "2 rkl rypsiöljyä",
+   "1½ tl suolaa",
+   "chaat masalaa ja sitruunalohkoja tarjoiluun"
+  ],
+  "instructions": [
+   "Viillä kananpaloihin 3–4 syvää viiltoa luuhun asti.",
+   "Hiero ensin sitruunamehu, suola ja osa chilistä paloihin ja anna seistä 20 minuuttia.",
+   "Vatkaa jogurtti, valkosipuli, inkivääri, mausteet ja öljy marinadiksi ja hiero kanaan. Marinoi jääkaapissa 4–24 tuntia.",
+   "Kuumenna uuni kuumimpaan asentoon (250–275 astetta). Ravista ylimääräinen marinadi pois ja paahda ritilällä pellin päällä 25–35 minuuttia, kunnes reunat hiiltyvät ja sisälämpö on 74 astetta.",
+   "Ripottele chaat masala ja tarjoa sitruunan, naanin ja raa'an sipulin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tandoori-leg-of-lamb",
+  "title": "Tandoorikaritsanpaisti",
+  "description": "Syvään viilletty karitsanpaisti marinoidaan kahdesti – ensin sitruuna-chilillä, sitten maustetulla jogurtilla – ja paahdetaan voilla valellen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 360,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "intialainen",
+   "uuniruoka",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 kg luullista karitsanpaistia",
+   "2,5 dl täysrasvaista jogurttia",
+   "4 rkl sitruunamehua",
+   "2 rkl rypsiöljyä",
+   "20 g kashmirinchilijauhetta",
+   "1 rkl juustokuminaa",
+   "1 rkl jauhettua korianteria",
+   "2 tl garam masalaa",
+   "1½ tl kurkumaa",
+   "30 g inkivääritahnaa",
+   "25 g valkosipulitahnaa",
+   "16 g suolaa",
+   "40 g gheetä valeluun"
+  ],
+  "instructions": [
+   "Tee paistiin 6–8 syvää viiltoa kummallekin puolelle.",
+   "Sekoita sitruunamehu, puolet chilistä ja suola ja hiero viiltoihin. Anna seistä 30 minuuttia.",
+   "Vatkaa jogurtti, öljy, loput mausteista, inkivääri ja valkosipuli ja levitä paistiin. Marinoi jääkaapissa vähintään 8 tuntia.",
+   "Anna lämmetä 2 tuntia. Paahda ritilällä 220 asteessa 15 minuuttia, laske 180 asteeseen ja paahda 1½–2 tuntia gheellä valellen, kunnes sisälämpö on 60–63 astetta (puolikypsä).",
+   "Lepuuta löysästi folion alla vähintään 20 minuuttia ennen leikkaamista."
+  ]
+ },
+ {
+  "id": "forkrecipe-tandoori-marinade",
+  "title": "Tandoorimarinadi",
+  "description": "Valutettu jogurtti, valkosipuli- ja inkivääritahna, sitruuna ja tandoorimausteet – marinadi kanalle tai kukkakaalille.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "marinadi",
+   "intialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 dl valutettua täysrasvaista jogurttia",
+   "3 valkosipulinkynttä, tahnaksi",
+   "30 g inkivääriä, tahnaksi",
+   "3 rkl sitruunamehua",
+   "1 rkl kashmirinchilijauhetta",
+   "2 tl garam masalaa",
+   "1½ tl juustokuminaa",
+   "1½ tl jauhettua korianteria",
+   "½ tl kurkumaa",
+   "1½ tl suolaa",
+   "2 rkl rypsi- tai sinappiöljyä",
+   "1 tl chaat masalaa"
+  ],
+  "instructions": [
+   "Sekoita valkosipuli, inkivääri, sitruunamehu, mausteet, suola ja öljy tahnaksi.",
+   "Kääntele jogurtti joukkoon tasaisen oranssiksi.",
+   "Viillä kana tai kukkakaali ja marinoi 4–24 tuntia jääkaapissa.",
+   "Paista grillissä tai uunin grillivastuksen alla kovalla lämmöllä, kunnes reunat hiiltyvät."
+  ]
+ },
+ {
+  "id": "forkrecipe-tapenade",
+  "title": "Tapenade",
+  "description": "Mustat oliivit, kaprikset, anjovis ja valkosipuli survotaan karkeaksi tahnaksi, joka maustetaan timjamilla, sitruunalla ja oliiviöljyllä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "provencelainen",
+   "levite",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "250 g kivettömiä mustia oliiveja (Kalamata tai Niçoise)",
+   "50 g kapriksia, huuhdottuina",
+   "25 g anjovisfileitä öljyssä",
+   "1 pieni valkosipulinkynsi",
+   "1 tl timjaminlehtiä",
+   "2 tl sitruunamehua",
+   "1 rkl konjakkia tai sherryä (valinnainen)",
+   "½ dl oliiviöljyä",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Survo oliivit, kaprikset, anjovis ja valkosipuli huhmareessa (tai sykäytä monitoimikoneessa) karkeaksi tahnaksi.",
+   "Sekoita joukkoon timjami, sitruunamehu ja konjakki ja valuta öljy sekoittaen.",
+   "Maista ennen suolaamista – yleensä vain pippuria tarvitaan. Tarjoa leivän tai kasvisten kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-taramasalata",
+  "title": "Taramasalata (mätitahna)",
+  "description": "Suolattu mäti, liotettu leipä, sitruuna ja raastettu sipuli soseutetaan ja emulgoidaan oliiviöljyllä kuohkeaksi vaaleanpunaiseksi tahnaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kala",
+   "kreikkalainen",
+   "levite",
+   "nopea"
+  ],
+  "ingredients": [
+   "75 g suolattua turskan- tai karpinmätiä (tarama)",
+   "150 g kuoretonta vanhaa vaaleaa leipää",
+   "3 rkl sitruunamehua",
+   "½ pientä sipulia, raastettuna",
+   "2 dl mietoa oliiviöljyä",
+   "oliiviöljyä ja mustia oliiveja tarjoiluun"
+  ],
+  "instructions": [
+   "Liota leipä kylmässä vedessä 5 minuuttia ja purista kosteaksi.",
+   "Soseuta leipä, mäti, sitruunamehu ja sipuli monitoimikoneessa sileäksi.",
+   "Valuta öljy koneen käydessä hyvin ohuena nauhana, kunnes tahna on kuohkea kuin majoneesi.",
+   "Tarjoa öljyllä ja oliiveilla pita-leivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tarator",
+  "title": "Tarator (pähkinä-tahinikastike)",
+  "description": "Paahdetut saksanpähkinät, etikassa liotettu leipä, tahini ja valkosipuli soseutetaan jääveden ja oliiviöljyn kanssa – kastike kalalle ja kasviksille.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "lähi-itä",
+   "pähkinät",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "200 g saksanpähkinöitä, paahdettuina",
+   "50 g kuoretonta vanhaa vaaleaa leipää",
+   "50 g tahinia",
+   "2 valkosipulinkynttä",
+   "½ dl valkoviinietikkaa",
+   "0,8 dl jääkylmää vettä",
+   "3 rkl oliiviöljyä",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Paahda pähkinöitä 175 asteessa 6–8 minuuttia ja jäähdytä.",
+   "Liota leipä etikassa 3–5 minuuttia.",
+   "Jauha pähkinät, leipä, tahini, valkosipuli ja suola monitoimikoneessa. Lisää koneen käydessä jäävesi ja öljy, kunnes kastike on paksua mutta kaatuvaa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tarte-au-citron",
+  "title": "Sitruunatorttu (tarte au citron)",
+  "description": "Murea sokeroitu torttupohja täytetään vesihauteessa kypsennetyllä, voilla viimeistellyllä sitruunatäytteellä ja hyydytetään jääkaapissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 180,
+  "category": "Jälkiruoat",
+  "tags": [
+   "torttu",
+   "sitruuna",
+   "ranskalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "Pohja:",
+   "200 g vehnäjauhoja",
+   "120 g kylmää voita, kuutioina",
+   "70 g tomusokeria",
+   "1 munankeltuainen",
+   "ripaus suolaa",
+   "1–2 rkl kylmää vettä",
+   "Täyte:",
+   "1,2 dl sitruunamehua (n. 4 sitruunaa)",
+   "2 rkl raastettua sitruunankuorta",
+   "4 kananmunaa",
+   "140 g sokeria",
+   "100 g kylmää voita, kuutioina"
+  ],
+  "instructions": [
+   "Nypi jauhot, tomusokeri, suola ja voi hienoksi muruksi. Lisää keltuainen ja vesi ja painele taikinaksi. Jäähdytä tunti.",
+   "Kauli ja vuoraa 23 cm torttuvuoka. Esipaista 180 asteessa painojen kanssa 15 minuuttia ja ilman 10 minuuttia kullanruskeaksi. Jäähdytä.",
+   "Vatkaa munat, sokeri, sitruunamehu ja -kuori. Kypsennä vesihauteessa jatkuvasti sekoittaen, kunnes seos sakenee (82 astetta).",
+   "Nosta liedeltä ja vatkaa voi joukkoon. Siivilöi pohjaan ja hyydytä jääkaapissa vähintään 2 tuntia."
+  ]
+ },
+ {
+  "id": "forkrecipe-tarte-tatin",
+  "title": "Tarte tatin (ylösalaisin omenapiirakka)",
+  "description": "Omenalohkot kypsyvät pannussa voikaramellissa, päälle levitetään murotaikina, paistetaan ja kumotaan kiiltäväksi karamellipiirakaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 90,
+  "category": "Jälkiruoat",
+  "tags": [
+   "omena",
+   "piirakka",
+   "ranskalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1,2 kg omenoita (Granny Smith tai Golden), kuorittuina ja lohkottuina",
+   "80 g voita",
+   "150 g sokeria",
+   "1 rkl sitruunamehua",
+   "1 vaniljatanko tai 1 tl vaniljauutetta",
+   "Taikina:",
+   "180 g vehnäjauhoja",
+   "100 g kylmää voita, kuutioina",
+   "20 g sokeria",
+   "½ tl suolaa",
+   "4 rkl jääkylmää vettä"
+  ],
+  "instructions": [
+   "Nypi jauhot, sokeri, suola ja voi karkeaksi muruksi, lisää vesi ja painele levyksi. Jäähdytä 30 minuuttia.",
+   "Sulata voi 24 cm uuninkestävässä pannussa, ripottele sokeri tasaisesti ja anna karamellisoitua sekoittamatta meripihkan väriseksi.",
+   "Asettele omenat tiiviisti ympyröihin karamelliin, lisää vanilja ja sitruunamehu ja kypsennä 10–15 minuuttia keskilämmöllä.",
+   "Kuumenna uuni 200 asteeseen. Kauli taikina pannua 2 cm suuremmaksi, levitä omenoiden päälle ja työnnä reunat sisään. Paista 25–30 minuuttia.",
+   "Anna jäähtyä 5 minuuttia, aseta vati pannun päälle ja kumoa yhdellä nopealla liikkeellä."
+  ]
+ },
+ {
+  "id": "forkrecipe-tea-eggs",
+  "title": "Teemunat (cha ye dan)",
+  "description": "Keitettyjen munien kuoret rikotaan ja munat haudutetaan teessä, soijassa ja mausteissa, jolloin valkuaiseen syntyy marmorikuvio.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 300,
+  "category": "Välipalat",
+  "tags": [
+   "kananmuna",
+   "kiinalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "4 dl vahvaa mustaa teetä",
+   "1 dl tummaa soijakastiketta",
+   "½ dl vaaleaa soijakastiketta",
+   "3–4 tähtianista",
+   "1 kanelitanko",
+   "3–4 neilikkaa",
+   "1 tl sichuaninpippuria, murskattuna",
+   "1 rkl sokeria",
+   "1 pala kuivattua mandariininkuorta tai appelsiininkuorta"
+  ],
+  "instructions": [
+   "Peitä munat kylmällä vedellä, kiehauta, peitä ja anna seistä liedeltä nostettuna 10 minuuttia. Jäähdytä.",
+   "Napauta kuoret lusikalla rikki joka puolelta poistamatta niitä.",
+   "Kiehauta tee, soijat, mausteet, sokeri ja kuori. Lisää munat ja hauduta 20 minuuttia.",
+   "Anna munien maustua liemessä jääkaapissa vähintään 4 tuntia tai yön yli. Kuori – pinta on marmoroitu."
+  ]
+ },
+ {
+  "id": "forkrecipe-tempeh-rendang",
+  "title": "Tempeh-rendang",
+  "description": "Tempeh haudutetaan kookosmaidossa chili-salottitahnan, sitruunaruohon, galangalin ja kaffirlimetin lehtien kanssa, kunnes neste kiehuu tummaksi, öljyiseksi kastikkeeksi.",
+  "servings": 4,
+  "prepTimeMin": 45,
+  "totalTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "tempeh",
+   "indonesialainen",
+   "curry",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g tempeh'ä, 3 cm kuutioina",
+   "8 dl kookosmaitoa",
+   "2 sitruunaruohon vartta, murskattuina",
+   "30 g galangalia, viipaleina",
+   "8 kaffirlimetin lehteä",
+   "25 g kuivattuja chilejä, liotettuina",
+   "100 g salottisipulia",
+   "6 valkosipulinkynttä",
+   "20 g inkivääriä",
+   "1 rkl jauhettua korianteria",
+   "½ tl juustokuminaa",
+   "2 tl suolaa",
+   "20 g palmusokeria",
+   "2 rkl kookosöljyä",
+   "3 rkl paahdettua sipulia tarjoiluun"
+  ],
+  "instructions": [
+   "Soseuta chilit, salotit, valkosipuli, inkivääri, korianteri ja kumina tahnaksi.",
+   "Paista tahnaa öljyssä keskilämmöllä jatkuvasti sekoittaen 8–12 minuuttia, kunnes se tummuu ja öljy erottuu.",
+   "Lisää tempeh, kookosmaito, sitruunaruoho, galangal, lehdet, suola ja sokeri. Kiehauta ja laske lämpöä.",
+   "Hauduta kannetta 1–1½ tuntia, sekoittaen yhä useammin, kunnes neste on haihtunut ja kastike on tummaa ja öljyistä.",
+   "Ripottele paahdettu sipuli pinnalle ja tarjoa riisin kanssa."
+  ]
+ }
+]

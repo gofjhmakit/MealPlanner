@@ -1,0 +1,744 @@
+[
+ {
+  "id": "forkrecipe-scotch-egg",
+  "title": "Skotlantilaiset munat",
+  "description": "Pehmeiksi keitetyt munat kääritään maustettuun makkaramassaan, leivitetään pankolla ja friteerataan kullanruskeiksi – keltuainen jää notkeaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 60,
+  "category": "Välipalat",
+  "tags": [
+   "kananmuna",
+   "sianliha",
+   "rasvassa paistettu",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "4 kananmunaa keitettäväksi",
+   "480 g porsaan makkaramassaa",
+   "1,5 dl pankojauhoja",
+   "1 kananmuna leivitykseen",
+   "3 rkl vehnäjauhoja",
+   "1 tl suolaa",
+   "¼ tl mustapippuria",
+   "¼ tl valkopippuria",
+   "ripaus muskottikukkaa",
+   "1 l rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Laske munat kiehuvaan veteen ja keitä tasan 6½ minuuttia. Jäähdytä jäävedessä 10 minuuttia ja kuori varovasti.",
+   "Mausta makkaramassa suolalla ja mausteilla. Paista pieni koepala ja maista. Jaa massa neljään osaan ja litistä kukin ohueksi kiekoksi kelmun päälle.",
+   "Jauhota munat kevyesti. Kääri makkaramassa kelmun avulla munan ympärille ja sulje saumat kostein käsin. Kierätä jauhoissa, vatkatussa munassa ja pankossa.",
+   "Kuumenna öljy 170 asteeseen. Friteeraa munia 7–8 minuuttia käännellen, kunnes kuori on tummanruskea ja makkaran sisälämpö 70 astetta. Valuta talouspaperilla."
+  ]
+ },
+ {
+  "id": "forkrecipe-scotch-eggs",
+  "skip": "lähes sama kuin edellinen skotlantilaisten munien resepti"
+ },
+ {
+  "id": "forkrecipe-scottish-kedgeree",
+  "title": "Kedgeree (savukolja-curryriisi)",
+  "description": "Maidossa haudutettu savukolja, currylla maustettu basmatiriisi, puolikypsät munat, persilja ja sitruuna – brittiläinen aamiaisklassikko.",
+  "servings": 4,
+  "prepTimeMin": 25,
+  "totalTimeMin": 45,
+  "category": "Aamiainen",
+  "tags": [
+   "kala",
+   "riisi",
+   "kananmuna",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "400 g savustettua koljaa tai muuta savukalaa",
+   "4 dl maitoa",
+   "3 dl basmatiriisiä, huuhdottuna",
+   "50 g voita",
+   "1 sipuli, hienonnettuna",
+   "1 rkl mietoa currya",
+   "1 tl suolaa",
+   "4 kananmunaa",
+   "1 nippu lehtipersiljaa, hienonnettuna",
+   "1 sitruuna",
+   "½ dl kuohukermaa (valinnainen)"
+  ],
+  "instructions": [
+   "Laita kala nahkapuoli alaspäin leveään pannuun ja kaada maito päälle. Kuumenna juuri ja juuri kiehumaan, sammuta liesi ja anna hautua kannen alla 8 minuuttia. Nosta kala, ota maito talteen ja revi kala isoiksi hiutaleiksi.",
+   "Keitä munat 8 minuuttia, jäähdytä jäävedessä, kuori ja lohko.",
+   "Sulata voi kattilassa ja kuullota sipulia 8–10 minuuttia. Lisää curry ja paista minuutti. Lisää riisi ja kääntele. Kaada joukkoon 6 dl vettä tai kalan haudutusmaitoa ja suolaa. Keitä kannen alla miedolla lämmöllä 12 minuuttia ja anna seistä 5 minuuttia.",
+   "Kääntele joukkoon kerma, kala ja puolet persiljasta varovasti. Mausta sitruunamehulla. Tarjoa munien, lopun persiljan ja sitruunalohkojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-seared-scallops",
+  "title": "Paistetut kampasimpukat ruskistetulla voilla ja kapriksilla",
+  "description": "Kuivatut kampasimpukat paistetaan kuumalla pannulla tummaksi pinnaltaan ja kastetaan ruskistetulla voilla, kapriksilla, sitruunalla ja persiljalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "nopea",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g kampasimpukoita",
+   "1 tl suolaa",
+   "2 rkl rypsiöljyä",
+   "75 g kylmää voita, kuutioina",
+   "2 rkl kapriksia, huuhdottuina ja kuivattuina",
+   "1 rkl sitruunamehua",
+   "1 rkl lehtipersiljaa, hienonnettuna",
+   "ripaus sormisuolaa"
+  ],
+  "instructions": [
+   "Asettele kampasimpukat ritilälle, suolaa molemmin puolin ja anna kuivahtaa jääkaapissa kannettomana 20–60 minuuttia. Taputtele kuiviksi.",
+   "Kuumenna valurauta- tai teräspannu erittäin kuumaksi vähintään 3 minuuttia. Lisää öljy ja asettele simpukat väljästi. Paista koskematta 2 minuuttia, kunnes pinta on syvän ruskea, ja käännä.",
+   "Lisää kylmä voi heti. Kun vaahto laantuu ja voi ruskistuu, lisää kaprikset ja valele simpukoita voilla 30–60 sekuntia.",
+   "Nosta simpukat lämpimille lautasille. Purista sitruunamehu pannuun, lisää persilja ja kaada kastike simpukoiden päälle. Viimeistele sormisuolalla."
+  ]
+ },
+ {
+  "id": "forkrecipe-semifreddo",
+  "title": "Sitruunasemifreddo",
+  "description": "Vesihauteessa vaahdotettu sitruuna-zabaione kevennetään valkuaisvaahdolla ja kermavaahdolla ja pakastetaan leikattavaksi jäädykkeeksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 35,
+  "totalTimeMin": 300,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "jäätelö",
+   "sitruuna",
+   "italialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 dl kuohukermaa",
+   "4 kananmunaa, erotettuina",
+   "150 g sokeria",
+   "2 sitruunan kuori ja mehu",
+   "ripaus suolaa",
+   "50 g sukaattia tai tuoreita marjoja koristeeksi"
+  ],
+  "instructions": [
+   "Vatkaa keltuaiset, sokeri, sitruunankuori ja -mehu lämmönkestävässä kulhossa vesihauteen päällä 8–10 minuuttia, kunnes seos on hyvin paksua ja vaaleaa. Jäähdytä.",
+   "Vatkaa kerma pehmeäksi vaahdoksi. Vatkaa valkuaiset ja suola kiinteäksi vaahdoksi.",
+   "Kääntele ensin valkuaisvaahto ja sitten kermavaahto jäähtyneeseen zabaioneen varovasti kahdessa erässä.",
+   "Kaada kelmulla vuorattuun leipävuokaan, peitä ja pakasta vähintään 4 tuntia, mieluiten yön yli. Kumoa, viipaloi ja koristele."
+  ]
+ },
+ {
+  "id": "forkrecipe-sfogliatelle",
+  "title": "Sfogliatelle ricce",
+  "description": "Napolilainen simpukkaleivos: ohueksi kaulittu ja rasvalla kerrostettu mannaryynitaikina rullataan, muotoillaan suppiloiksi ja täytetään ricotta-mannakreemillä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "prepTimeMin": 180,
+  "totalTimeMin": 360,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leivonnainen",
+   "italialainen",
+   "leivonta",
+   "juhla"
+  ],
+  "ingredients": [
+   "500 g hienoa durumvehnäjauhoa (semola)",
+   "1,8 dl lämmintä vettä",
+   "1 tl suolaa",
+   "1 kananmuna",
+   "150 g laardia tai pehmeää voita",
+   "Täyte:",
+   "2,5 dl maitoa",
+   "80 g mannasuurimoita",
+   "120 g sokeria",
+   "400 g ricottaa, hyvin valutettuna",
+   "60 g appelsiinisukaattia, hienonnettuna",
+   "1 tl vaniljauutetta",
+   "20 g tomusokeria"
+  ],
+  "instructions": [
+   "Sekoita jauho ja suola, lisää muna ja vesi ja vaivaa 10–12 minuuttia kiinteäksi, sileäksi taikinaksi. Kääri kelmuun ja lepuuta tunti.",
+   "Kiehauta maito, ripottele mannasuurimot joukkoon vatkaten ja keitä paksuksi 5–7 minuuttia. Sekoita sokeri joukkoon ja jäähdytä.",
+   "Vatkaa jäähtynyt mannapuuro ja ricotta tasaiseksi, lisää sukaatti ja vanilja.",
+   "Kaulitse taikina pastakoneella hyvin ohueksi pitkäksi levyksi, voitele runsaalla pehmeällä rasvalla ja rullaa tiukaksi pötköksi, venyttäen levyä rullatessa. Jäähdytä pötkö vähintään tunti.",
+   "Leikkaa 1,5 cm kiekoiksi. Painele peukaloilla kiekon keskeltä suppiloksi niin, että kerrokset liukuvat toistensa päälle. Täytä ja painele reunat kevyesti yhteen.",
+   "Paista 200 asteessa 20–25 minuuttia syvän kullanruskeiksi. Sirottele tomusokeria ja tarjoa lämpiminä."
+  ]
+ },
+ {
+  "id": "forkrecipe-shakshuka-green",
+  "title": "Vihreä shakshuka",
+  "description": "Pannulla mustaksi paahdetut tomatillot, mangoldi ja pinaatti muodostavat vihreän kastikkeen, johon munat hauduttuvat; päälle fetaa ja korianteria.",
+  "servings": 4,
+  "prepTimeMin": 35,
+  "totalTimeMin": 45,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "kasvis",
+   "lähi-itä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g tomatilloja (tai vihreitä tomaatteja), halkaistuina",
+   "200 g babypinaattia",
+   "200 g mangoldia, varret ja lehdet erikseen",
+   "1 sipuli, hienonnettuna",
+   "4 valkosipulinkynttä, ohuina viipaleina",
+   "1 jalapeño, viipaloituna",
+   "1 tl juustokuminaa",
+   "½ tl jauhettua korianteria",
+   "3 rkl oliiviöljyä",
+   "6 kananmunaa",
+   "80 g fetaa, murennettuna",
+   "½ dl tuoretta korianteria",
+   "1 tl suolaa",
+   "½ dl vettä tai kasvislientä"
+  ],
+  "instructions": [
+   "Paahda tomatilloja leikkuupinta alaspäin kuivalla valurautapannulla kovalla lämmöllä 4–5 minuuttia, kunnes pinta mustuu. Nosta sivuun.",
+   "Kuumenna öljy samassa pannussa ja kuullota sipulia ja pilkottuja mangoldinvarsia 6–8 minuuttia. Lisää valkosipuli, jalapeño ja mausteet ja paista minuutti.",
+   "Lisää tomatillot murskaten, mangoldinlehdet, pinaatti, vesi ja suola. Hauduta, kunnes lehdet ovat painuneet ja kastike sakeutunut.",
+   "Tee kastikkeeseen kuusi kuoppaa ja riko kuhunkin muna. Ripottele feta, peitä ja kypsennä miedolla lämmöllä 5–7 minuuttia, kunnes valkuaiset ovat hyytyneet.",
+   "Ripottele korianteri ja tarjoa pannusta pitaleivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shakshuka-verde",
+  "skip": "lähes sama kuin vihreä shakshuka"
+ },
+ {
+  "id": "forkrecipe-shakshuka",
+  "title": "Shakshuka",
+  "description": "Hitaasti makeaksi haudutettu sipuli ja paprika, kuminalla, paprikalla ja Aleppo-pippurilla maustettu tomaattikastike ja sen keskellä hauduttuneet munat.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 45,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "kasvis",
+   "lähi-itä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "½ dl oliiviöljyä",
+   "1 sipuli, hienonnettuna",
+   "1 punainen paprika, kuutioituna",
+   "4 valkosipulinkynttä, viipaloituna",
+   "1 tl juustokuminaa",
+   "1 tl paprikajauhetta",
+   "1 tl Aleppo-pippuria tai ripaus chilihiutaleita",
+   "2 tlk (800 g) kokonaisia kuorittuja tomaatteja, käsin murskattuina",
+   "1 tl suolaa",
+   "4 kananmunaa",
+   "2 rkl lehtipersiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuumenna öljy leveässä pannussa ja hauduta sipulia ja paprikaa ripaus suolaa 10–12 minuuttia pehmeiksi, ruskistamatta.",
+   "Työnnä vihannekset sivuun, lisää valkosipuli ja paista hetki. Lisää mausteet ja paahda 30–60 sekuntia.",
+   "Lisää tomaatit ja suola ja keitä 10–15 minuuttia, kunnes kastike sakenee ja tummuu.",
+   "Laske lämpö, tee kuopat ja riko munat niihin. Peitä ja hauduta 5–8 minuuttia, kunnes valkuaiset hyytyvät mutta keltuaiset jäävät notkeiksi.",
+   "Ripottele persilja ja tarjoa leivän kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shawarma-marinade",
+  "title": "Shawarmamarinadi",
+  "description": "Jogurtti, baharat, kumina, kurkuma, sitruuna ja valkosipuli – marinadi kanan reisille tai lampaalle.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "marinadi",
+   "lähi-itä",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 rkl täysrasvaista maustamatonta jogurttia",
+   "2 tl baharat-maustesekoitusta",
+   "1 tl juustokuminaa",
+   "½ tl kurkumaa",
+   "2 rkl sitruunamehua",
+   "3 valkosipulinkynttä, tahnaksi raastettuina",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Vatkaa kaikki ainekset tasaiseksi oranssiksi marinadiksi. Maista: sen pitää olla reilusti maustettu ja suolainen.",
+   "Viiltele 600–800 g kanan reisiä tai lampaanlihaa, kääntele marinadissa ja marinoi kannen alla jääkaapissa vähintään 4 tuntia, mieluiten 12–24.",
+   "Anna lihan lämmetä 30 minuuttia ennen grillausta tai paistamista."
+  ]
+ },
+ {
+  "id": "forkrecipe-sheet-pan-gnocchi-sausage-peppers",
+  "title": "Pellillä paahdetut gnocchit, makkara ja paprika",
+  "description": "Keittämättömät gnocchit paahtuvat pellillä rapeiksi makkaran, paprikan ja punasipulin kanssa; lopuksi punaviinietikkaa, parmesaania ja basilikaa.",
+  "servings": 4,
+  "prepTimeMin": 10,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "makkara",
+   "uuniruoka",
+   "italialainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "500 g perunagnocchia (ei pakaste)",
+   "450 g italialaista makkaraa, 2 cm paloina",
+   "350 g punaista ja keltaista paprikaa, suikaleina",
+   "1 punasipuli, lohkoina",
+   "2 rkl oliiviöljyä",
+   "1 tl kuivattua oreganoa",
+   "½ tl chilihiutaleita",
+   "suolaa",
+   "mustapippuria",
+   "1 rkl punaviinietikkaa",
+   "30 g parmesaania, raastettuna",
+   "10 basilikanlehteä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 220 asteeseen. Irrota toisiinsa tarttuneet gnocchit. Kääntele gnocchit, paprika ja sipuli pellillä öljyn, oreganon, chilin, suolan ja pippurin kanssa.",
+   "Asettele makkaranpalat väleihin. Paahda 12 minuuttia, kääntele ja paahda vielä 10–14 minuuttia, kunnes gnocchit ovat rapeita ja makkara kypsää.",
+   "Pirskota etikka kuuman pellin päälle ja kääntele. Ripottele parmesaani ja anna sulaa minuutti, lisää revityt basilikanlehdet ja tarkista suola."
+  ]
+ },
+ {
+  "id": "forkrecipe-sheet-pan-gochujang-chicken-broccoli",
+  "title": "Pellillä paahdettu gochujang-kana ja parsakaali",
+  "description": "Gochujang-hunajaglaseerattu kana ja parsakaali paahdetaan samalla pellillä; lopuksi lisäglaseeri, kevätsipuli ja seesaminsiemenet.",
+  "servings": 4,
+  "prepTimeMin": 15,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "korealainen",
+   "uuniruoka",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "45 g gochujangia",
+   "2 rkl soijakastiketta",
+   "1 rkl hunajaa",
+   "1 rkl riisiviinietikkaa",
+   "2 tl paahdettua seesamiöljyä",
+   "3 valkosipulinkynttä, raastettuna",
+   "10 g tuoretta inkivääriä, raastettuna",
+   "800 g luuttomia broilerin reisifileitä",
+   "500 g parsakaalia, kukintoina",
+   "2 rkl rypsiöljyä",
+   "½ tl suolaa",
+   "3 kevätsipulia, ohuina renkaina",
+   "2 tl paahdettuja seesaminsiemeniä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 220 asteeseen. Vatkaa gochujang, soija, hunaja, etikka, seesamiöljy, valkosipuli ja inkivääri. Ota 3 rkl glaseeria sivuun.",
+   "Kääntele kana lopussa glaseerissa ja anna seistä 10 minuuttia. Kääntele parsakaali öljyssä ja suolassa. Levitä molemmat folioidulle pellille.",
+   "Paahda 18–22 minuuttia, parsakaali kerran käännellen, kunnes kanan sisälämpö on 74–79 astetta.",
+   "Sivele sivuun otettu glaseeri kanalle ja grillaa 1–2 minuuttia vastuksen alla. Lepuuta 3 minuuttia, viipaloi ja ripottele kevätsipuli ja seesaminsiemenet."
+  ]
+ },
+ {
+  "id": "forkrecipe-shellfish-bisque-base",
+  "title": "Äyriäisbisquen pohja",
+  "description": "Katkaravun ja hummerin kuoret paahdetaan voissa, liekitetään konjakilla ja keitetään vihannesten, tomaattipyreen, viinin ja liemen kanssa; soseutettu ja siivilöity liemi viimeistellään kermalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 105,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "äyriäiset",
+   "ranskalainen",
+   "juhla",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "400 g katkaravun kuoria ja päitä",
+   "200 g hummerin kuoria, murskattuina",
+   "50 g voita",
+   "1 sipuli, hienonnettuna",
+   "1 varsiselleri, hienonnettuna",
+   "1 porkkana, hienonnettuna",
+   "2 valkosipulinkynttä",
+   "2 rkl tomaattipyreetä",
+   "½ dl konjakkia",
+   "1,5 dl kuivaa valkoviiniä",
+   "8 dl kalalientä tai vettä",
+   "3 dl kuohukermaa",
+   "2 rakuunanoksaa",
+   "1 laakerinlehti",
+   "suolaa",
+   "valkopippuria"
+  ],
+  "instructions": [
+   "Kuumenna voi leveässä kattilassa ruskeaksi ja paahda kuoria koskematta 3–4 minuuttia.",
+   "Kaada konjakki kuorille ja liekitä varovasti.",
+   "Lisää vihannekset ja valkosipuli ja hauduta 6–8 minuuttia. Lisää tomaattipyree ja paista hetki. Lisää viini, liemi ja yrtit ja keitä hiljaa 30 minuuttia.",
+   "Poista laakerinlehti ja rakuuna. Soseuta kuoret kauhallisen liemen kanssa tehosekoittimessa ja siivilöi koko liemi hienon siivilän läpi painellen.",
+   "Kiehauta, lisää kerma ja keitä 10–15 minuuttia hieman sakeaksi. Mausta suolalla ja valkopippurilla."
+  ]
+ },
+ {
+  "id": "forkrecipe-shellfish-bisque-stock",
+  "skip": "lähes sama kuin äyriäisbisquen pohja"
+ },
+ {
+  "id": "forkrecipe-shellfish-stock",
+  "title": "Äyriäisliemi",
+  "description": "Katkaravunkuoret paahdetaan öljyssä, joukkoon juurekset, tomaattipyree ja valkoviini; keitetään hiljaa vain 20–25 minuuttia, ettei liemi kitkeröidy.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 60,
+  "category": "Muut",
+  "tags": [
+   "liemi",
+   "äyriäiset",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g katkaravun kuoria ja päitä",
+   "1 porkkana, karkeasti pilkottuna",
+   "1 varsiselleri, viipaloituna",
+   "1 sipuli, karkeasti pilkottuna",
+   "2 rkl tomaattipyreetä",
+   "1,5 dl kuivaa valkoviiniä",
+   "2 laakerinlehteä",
+   "3 timjaminoksaa",
+   "2 tl mustapippureita, murskattuina",
+   "1,5 l kylmää vettä",
+   "2 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Kuumenna öljy kattilassa ja paahda kuoria 5–7 minuuttia, kunnes ne ovat syvän punaiset ja tuoksuvat.",
+   "Lisää kasvikset ja hauduta 5–6 minuuttia.",
+   "Lisää tomaattipyree ja paista 1–2 minuuttia. Kaada viini joukkoon ja raaputa pohja irti.",
+   "Lisää vesi, laakerinlehdet, timjami ja pippurit. Keitä hiljaa 20–25 minuuttia, kuoria pois kuorien.",
+   "Anna seistä 5 minuuttia ja siivilöi painelematta. Säilyy jääkaapissa 2 päivää tai pakasteessa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shio-koji",
+  "title": "Shio koji (suolakoji)",
+  "description": "Riisikoji, suola ja vesi käytetään huoneenlämmössä viikon ajan makeaksi, umamiseksi maustetahnaksi lihan ja kalan marinointiin.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "category": "Säilykkeet",
+  "tags": [
+   "japanilainen",
+   "fermentoitu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "200 g kuivattua riisikojia (kome koji)",
+   "60 g jodioimatonta suolaa",
+   "2 dl huoneenlämpöistä vettä"
+  ],
+  "instructions": [
+   "Sekoita koji, suola ja vesi puhtaassa lasipurkissa, murskaten paakut.",
+   "Peitä löysästi ja anna käydä huoneenlämmössä (18–25 astetta) 7–10 päivää. Sekoita kerran päivässä.",
+   "Kun jyvät ovat pehmenneet ja tahna maistuu makealta ja suolaiselta, siirrä tiiviiseen astiaan jääkaappiin. Säilyy 3–6 kuukautta."
+  ]
+ },
+ {
+  "id": "forkrecipe-shish-tawook",
+  "title": "Shish tawook (libanonilaiset kanavartaat)",
+  "description": "Jogurtti-sitruuna-valkosipulimarinadissa maustuneet kanakuutiot grillataan vartaissa ja tarjotaan toumin, leivän ja suolakurkun kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 180,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "grilli",
+   "lähi-itä",
+   "libanonilainen"
+  ],
+  "ingredients": [
+   "800 g luuttomia broilerin reisifileitä, 4 cm kuutioina",
+   "150 g täysrasvaista jogurttia",
+   "4 rkl sitruunamehua",
+   "5 valkosipulinkynttä, raastettuina",
+   "2 rkl tomaattipyreetä",
+   "3 rkl oliiviöljyä",
+   "1 rkl baharat-maustesekoitusta",
+   "1 tl paprikajauhetta",
+   "1½ tl suolaa",
+   "Tarjoiluun:",
+   "toumia (libanonilaista valkosipulikastiketta)",
+   "lämpimiä rieskoja tai pitaleipiä",
+   "suolakurkkuja",
+   "lehtipersiljaa"
+  ],
+  "instructions": [
+   "Vatkaa jogurtti, sitruunamehu, valkosipuli, tomaattipyree, öljy, mausteet ja suola. Kääntele kana marinadissa ja marinoi jääkaapissa 2–12 tuntia.",
+   "Pujota kana vartaisiin (liota puuvartaat 30 minuuttia). Grillaa kovalla suoralla lämmöllä 10–12 minuuttia käännellen, kunnes reunat hiiltyvät ja sisälämpö on 74 astetta.",
+   "Lepuuta vartaita 3–5 minuuttia.",
+   "Ripottele persilja ja tarjoa toumin, leivän ja suolakurkkujen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shito",
+  "title": "Shito (ghanalainen chiliöljy)",
+  "description": "Kuivatut katkaravut ja savukala jauhetaan ja paistetaan öljyssä sipuli-chili-inkivääritahnan ja tomaattipyreen kanssa tummaksi, rapeaksi chilikastikkeeksi.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 45,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "chili",
+   "afrikkalainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "80 g kuivattuja katkarapuja",
+   "60 g savumakrillia, ruodottuna",
+   "40 g kuivattuja chilejä",
+   "1 punasipuli, karkeasti pilkottuna",
+   "6 valkosipulinkynttä",
+   "30 g tuoretta inkivääriä",
+   "2,4 dl rypsiöljyä",
+   "60 g tomaattipyreetä",
+   "1,2 dl lientä tai vettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Jauha katkaravut ja kala karkeaksi jauheeksi.",
+   "Liota chilejä lämpimässä vedessä 15 minuuttia ja valuta. Soseuta chilit, sipuli, valkosipuli ja inkivääri karkeaksi tahnaksi.",
+   "Kuumenna öljy leveässä pannussa ja paista tahnaa miedolla lämmöllä sekoittaen 15–20 minuuttia, kunnes se tummuu.",
+   "Lisää kala-katkarapujauhe ja paista 5–7 minuuttia.",
+   "Lisää tomaattipyree ja paista 2 minuuttia. Lisää liemi ja suola ja paista, kunnes neste on haihtunut ja öljy erottuu. Jäähdytä ja purkita; säilyy jääkaapissa viikkoja."
+  ]
+ },
+ {
+  "id": "forkrecipe-shoyu-tare",
+  "title": "Shoyu tare (ramenin soijamauste)",
+  "description": "Soijakastike, mirin ja sake haudutetaan kombun, kuivattujen shiitakejen ja valkosipulin kanssa ja keitetään hieman kokoon ramenin maustepohjaksi.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "japanilainen",
+   "ramen",
+   "kastike"
+  ],
+  "ingredients": [
+   "1,5 dl tummaa soijakastiketta",
+   "½ dl miriniä",
+   "½ dl sakea",
+   "10 cm pala kombua",
+   "2 kuivattua shiitakea",
+   "2 valkosipulinkynttä, murskattuina"
+  ],
+  "instructions": [
+   "Laita kaikki ainekset pieneen kattilaan ja kuumenna hyvin hitaasti juuri kiehumispisteen alle (60–70 astetta). Pidä tässä lämmössä 15 minuuttia.",
+   "Poista kombu. Keitä hiljaa kannetta 10–15 minuuttia, kunnes neste on vähentynyt kolmanneksen.",
+   "Siivilöi ja jäähdytä. Käytä 2–3 rkl ramen-annosta kohden; säilyy jääkaapissa kuukausia."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-aguachile",
+  "title": "Katkarapu-aguachile",
+  "description": "Perhosleikatut raa'at katkaravut kypsyvät hetken limetti-kurkku-serranomehussa; tarjoillaan punasipulin, kurkun ja korianterin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 35,
+  "category": "Salaatit",
+  "tags": [
+   "äyriäiset",
+   "meksikolainen",
+   "kylmä",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "500 g isoja raakoja katkarapuja, kuorittuina ja suolistettuina",
+   "3 dl limettimehua (n. 8 limettiä)",
+   "1 kurkku (puolet kastikkeeseen, puolet viipaleina)",
+   "2 serrano- tai jalapeñochiliä",
+   "1 pieni valkosipuli (sipuli), ohuina puolikuina",
+   "1 tl suolaa",
+   "1 nippu korianteria"
+  ],
+  "instructions": [
+   "Perhosleikkaa katkaravut halkaisemalla ne selkäpuolelta lähes läpi ja avaa ne litteiksi. Laita kylmälle vadille.",
+   "Soseuta kuorittu puolikas kurkku, limettimehu, chilit ja suola tehosekoittimessa ja siivilöi.",
+   "Kaada kastike katkarapujen päälle ja anna kypsyä 7–10 minuuttia, kunnes ne ovat läpikotaisin vaaleanpunaisia.",
+   "Asettele sipuli ja kurkkuviipaleet päälle, lusikoi lisää kastiketta ja ripottele korianteria. Tarjoa heti tostadojen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-and-grits",
+  "title": "Katkaravut ja maissipuuro (shrimp and grits)",
+  "description": "Kermainen cheddar-maissipuuro, jonka päällä paahdetut katkaravut, kinkkukuutiot, valkosipuli ja kevätsipuli – Yhdysvaltain etelävaltioiden klassikko.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 35,
+  "totalTimeMin": 55,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "amerikkalainen",
+   "maissi"
+  ],
+  "ingredients": [
+   "2 dl karkeaa maissijauhoa (polentaa)",
+   "4 dl maitoa",
+   "4 dl kanalientä",
+   "75 g voita",
+   "50 g cheddarjuustoa, raastettuna",
+   "300 g isoja katkarapuja, kuorittuina",
+   "75 g savustettua kinkkua tai chorizoa, pieninä kuutioina",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "4 kevätsipulia, renkaina",
+   "1 rkl sitruunamehua",
+   "1 tl suolaa",
+   "1 tl cajun-maustesekoitusta"
+  ],
+  "instructions": [
+   "Kiehauta maito ja liemi, suolaa ja ripottele maissijauho joukkoon koko ajan vatkaten. Keitä hyvin miedolla lämmöllä 30–40 minuuttia välillä sekoittaen.",
+   "Sekoita kylmä voi ja juusto kuumaan puuroon. Pidä lämpimänä kannen alla.",
+   "Paista kinkku kuumalla pannulla rapeaksi. Lisää kevätsipulin valkoiset osat ja valkosipuli ja paista minuutti.",
+   "Mausta katkaravut cajun-mausteella ja paista pannulla 90 sekuntia toiselta ja minuutti toiselta puolelta.",
+   "Kaada sitruunamehu pannuun ja raaputa pohja irti. Annostele puuro, päälle katkaravut kastikkeineen ja kevätsipulin vihreät osat."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-moqueca",
+  "title": "Moqueca de camarão (brasilialainen katkarapupata)",
+  "description": "Sipuli, tomaatti ja paprika kerrostetaan pataan, hauduttuvat kookosmaidossa ja palmuöljyssä, ja lopuksi limetissä marinoidut katkaravut kypsyvät pinnalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "brasilialainen",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "500 g isoja katkarapuja, kuorittuina",
+   "3 rkl limettimehua",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 sipuli, ohuina renkaina",
+   "2 tomaattia, viipaleina",
+   "1 vihreä ja 1 punainen paprika, renkaina",
+   "1 tlk (400 ml) kookosmaitoa",
+   "3 rkl punaista palmuöljyä (dendê) tai rypsiöljyä ja ½ tl paprikajauhetta",
+   "1 nippu korianteria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kääntele katkaravut limettimehussa, valkosipulissa ja suolassa ja marinoi jääkaapissa 15–20 minuuttia, ei yli 30.",
+   "Kerrosta leveään pataan ohut kerros palmuöljyä, sipulirenkaat, tomaatit ja paprikat. Kaada kookosmaito ja loput öljystä päälle.",
+   "Kuumenna kannen alla hiljaa kiehuvaksi ja hauduta 8–10 minuuttia, kunnes vihannekset ovat juuri pehmeitä.",
+   "Asettele katkaravut pinnalle, peitä ja kypsennä 3–4 minuuttia. Lisää korianteri, tarkista suola ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-pad-thai",
+  "title": "Katkarapu-pad thai",
+  "description": "Kuumassa wokissa paistetut riisinuudelit, katkaravut, tamarindi-kalakastike-palmusokerikastike, muna, ituja ja maapähkinöitä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "thaimaalainen",
+   "nuudelit",
+   "wokki"
+  ],
+  "ingredients": [
+   "250 g leveitä riisinuudeleita (3 mm), liotettuina",
+   "250 g katkarapuja, kuorittuina",
+   "2 kananmunaa",
+   "50 g tamarinditahnaa liotettuna 1 dl:ssa kuumaa vettä ja siivilöitynä",
+   "3 rkl kalakastiketta",
+   "2 rkl palmusokeria tai fariinisokeria",
+   "3 rkl rypsiöljyä",
+   "2 salottisipulia, ohuina viipaleina",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "2 rkl säilöttyä retikkaa (valinnainen)",
+   "100 g kiinteää tofua, pieninä kuutioina (valinnainen)",
+   "100 g mungpavun ituja",
+   "3 rkl paahdettuja maapähkinöitä, rouhittuina",
+   "tuoretta korianteria",
+   "1 limetti, lohkoina",
+   "1 tl chilihiutaleita",
+   "4 kevätsipulia, 4 cm paloina"
+  ],
+  "instructions": [
+   "Sekoita tamarindivesi, kalakastike ja sokeri kastikkeeksi.",
+   "Kuumenna wokki savuavaksi, lisää öljy ja paista katkarapuja minuutti. Lisää salotit, valkosipuli, retikka ja tofu ja paista hetki.",
+   "Lisää liotetut nuudelit ja kastike ja kääntele 2–3 minuuttia, kunnes nuudelit ovat imeneet kastikkeen.",
+   "Työnnä nuudelit sivuun, riko munat tyhjään kohtaan ja sekoita, kun valkuaiset alkavat hyytyä. Kääntele nuudelien joukkoon kevätsipulin kanssa.",
+   "Nosta liedeltä ja kääntele idut joukkoon. Tarjoa maapähkinöiden, korianterin, limetin ja chilin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-scampi",
+  "title": "Katkarapuscampi",
+  "description": "Kuumalla pannulla voissa paistetut katkaravut, valkosipuli ja chili, valkoviinillä ja sitruunalla viimeistelty kastike – halutessa linguinen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "italialainen",
+   "nopea",
+   "pasta"
+  ],
+  "ingredients": [
+   "500 g isoja katkarapuja, kuorittuina",
+   "150 g voita, jaettuna",
+   "4 valkosipulinkynttä, ohuina viipaleina",
+   "1,5 dl kuivaa valkoviiniä",
+   "4 rkl sitruunamehua",
+   "1 tl raastettua sitruunankuorta",
+   "½ tl chilihiutaleita",
+   "2 rkl lehtipersiljaa, hienonnettuna",
+   "1 tl suolaa",
+   "400 g linguinea tai spagettia, keitettynä (valinnainen)"
+  ],
+  "instructions": [
+   "Taputtele katkaravut kuiviksi ja suolaa. Anna seistä 5 minuuttia.",
+   "Kuumenna pannu savuavaksi, lisää puolet voista ja paista katkarapuja yhdessä kerroksessa 60–90 sekuntia per puoli. Nosta sivuun.",
+   "Laske lämpö keskitasolle, lisää valkosipuli ja chili ja paista 30–45 sekuntia vaalean kullankeltaiseksi.",
+   "Kaada viini pannuun, nosta lämpöä ja keitä puoleen. Lisää sitruunamehu ja -kuori, nosta liedeltä ja vatkaa loput voista joukkoon.",
+   "Palauta katkaravut ja pasta pannuun ja kääntele. Ripottele persilja ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "forkrecipe-shrimp-stock",
+  "skip": "lähes sama kuin äyriäisliemi"
+ }
+]

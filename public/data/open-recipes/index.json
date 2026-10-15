@@ -1,6 +1,6 @@
 {
- "version": "2026-10-11-plnjl7",
- "generatedAt": "2026-10-11T19:16:11.563Z",
+ "version": "2026-10-15-1ys9fqo",
+ "generatedAt": "2026-10-15T06:23:11.809Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -43,8 +43,8 @@
    "attribution": "ForkRecipe open recipe dataset (forkrecipe.com) ja sen tekijät.",
    "changes": "Suomennettu ja mitat muunnettu metrisiksi (koneellinen käännös). Suhteelliset määrät (osat) muunnettu noin neljän annoksen määriksi. Osa kuvista Wikimedia Commonsista (kuvaaja ja lisenssi reseptin kohdalla; ”esimerkkikuva” = kuva samasta ruokalajista, ei juuri tästä reseptistä).",
    "file": "forkrecipe.json",
-   "count": 693,
-   "withImage": 29
+   "count": 785,
+   "withImage": 32
   },
   {
    "id": "wikibooks",
