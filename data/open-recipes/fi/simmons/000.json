@@ -1,0 +1,731 @@
+[
+ {
+  "id": "simmons-roast-beef",
+  "title": "Paahtopaisti 1700-luvun tapaan",
+  "description": "Amelia Simmonsin perusohje: kova kuuma tuli, valelu suolavedellä ja vartti paistoaikaa naulaa kohti – ja punertavaksi jätetty liha, jota pidettiin terveellisimpänä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 75,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "paisti",
+   "amerikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg naudan paahtopaistia tai ulkofileetä",
+   "1 rkl suolaa",
+   "2 dl vettä"
+  ],
+  "instructions": [
+   "Ota liha huoneenlämpöön tunti ennen paistamista. Kuumenna uuni 225 asteeseen.",
+   "Sekoita suola veteen. Nosta liha ritilälle uunipellin päälle ja valele suolavedellä.",
+   "Paista 15 minuuttia, laske lämpö 175 asteeseen ja jatka valellen, kunnes sisälämpö on 55 astetta (punertava, kuten Simmons suosittaa), noin 45–60 minuuttia.",
+   "Anna levätä foliossa 15 minuuttia ennen leikkaamista. Alkuperäisessä paisti kääntyy vartaassa tai riippuu narussa avotulen edessä; uunissa lopputulos on lähes sama."
+  ]
+ },
+ {
+  "id": "simmons-roast-mutton",
+  "title": "Paahdettu lampaanviulu piparjuurella",
+  "description": "Lampaanviulu paahdetaan hiljaisemmalla lämmöllä ja kypsemmäksi kuin naudanliha ja tarjotaan raastetun piparjuuren, perunoiden ja kapriskastikkeen kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "paisti",
+   "amerikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 kg lampaanviulua",
+   "2 tl suolaa",
+   "1 tl mustapippuria",
+   "3 rkl tuoretta piparjuurta, raastettuna",
+   "Tarjoiluun: keitettyjä perunoita, papuja tai kukkakaalia ja kapriskastiketta"
+  ],
+  "instructions": [
+   "Kuumenna uuni 160 asteeseen. Hiero viuluun suola ja pippuri.",
+   "Paista ritilällä, kunnes sisälämpö on 65–70 astetta, noin 2 tuntia. Valele välillä paistoliemellä.",
+   "Anna levätä 15 minuuttia. Koristele raastetulla piparjuurella ja tarjoa perunoiden, kasvisten ja kapriskastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "simmons-roast-veal",
+  "title": "Paahdettu vasikanpaisti sitruunalla ja persiljalla",
+  "description": "Vasikanliha palaa helposti, joten Simmons käärii sen paperiin ja lämmittää ensin hiljaa. Koristeena persiljaa ja sitruunaviipaleita.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikka",
+   "paisti",
+   "amerikkalainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,5 kg vasikanpaistia",
+   "2 tl suolaa",
+   "50 g voita, sulatettuna",
+   "persiljaa",
+   "1 sitruuna, viipaleina"
+  ],
+  "instructions": [
+   "Kuumenna uuni 150 asteeseen. Suolaa paisti ja peitä rasvaiset kohdat leivinpaperilla.",
+   "Paista valellen voilla ja paistoliemellä, kunnes sisälämpö on 65 astetta, noin 1½ tuntia. Poista paperi lopussa, jotta pinta ruskistuu.",
+   "Koristele persiljalla ja sitruunaviipaleilla."
+  ]
+ },
+ {
+  "id": "simmons-roast-lamb",
+  "title": "Paahdettu karitsa voilla ja persiljalla",
+  "description": "Karitsaa valellaan voilla, pinnalle pölytetään jauhoja ja lopuksi lisää voita, suolaa ja hienonnettua persiljaa. Tarjotaan salaatin, herneiden tai parsan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 80,
+  "category": "Pääruoat",
+  "tags": [
+   "lammas",
+   "karitsa",
+   "paisti",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1,5 kg karitsanpaistia (esim. viulu tai lapa)",
+   "75 g voita",
+   "1 rkl vehnäjauhoja",
+   "1 tl suolaa",
+   "2 rkl persiljaa, hienonnettuna",
+   "Tarjoiluun: vihreää salaattia, herneitä tai parsaa"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen. Sivele paisti puolella voista ja pölytä pinnalle jauhot.",
+   "Paista valellen paistoliemellä, kunnes sisälämpö on 60–65 astetta, noin 1¼ tuntia.",
+   "Sivele lopuksi loppu voi pinnalle, ripottele suola ja persilja ja paista vielä 5 minuuttia.",
+   "Tarjoa salaatin, herneiden, papujen tai parsan kanssa."
+  ]
+ },
+ {
+  "id": "simmons-stuff-a-turkey",
+  "title": "Leipä-yrttitäyte kalkkunalle",
+  "description": "Simmonsin täyte raastetusta vehnäleivästä, voista, suolasianlihasta ja kotimaisista yrteistä. Sama täyte sopii riistalinnuille, vesilinnuille sipulin kera sekä vasikalle ja porsaalle.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "täyte",
+   "kalkkuna",
+   "yrtit",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "400 g vaaleaa vehnäleipää, raastettuna tai murennettuna",
+   "115 g voita, pehmeänä",
+   "115 g suolapossua tai pekonia, hienoksi hienonnettuna",
+   "2 kananmunaa",
+   "1 tl kuivattua meiramia",
+   "1 tl kuivattua kynteliä",
+   "2 rkl persiljaa, hienonnettuna",
+   "½ tl kuivattua salviaa",
+   "½ tl mustapippuria",
+   "suolaa tarvittaessa",
+   "Vesilinnuille: 1 sipuli, hienonnettuna"
+  ],
+  "instructions": [
+   "Sekoita leivänmurut, voi, possu, munat ja yrtit. Mausta pippurilla ja tarvittaessa suolalla.",
+   "Täytä lintu (n. 4–5 kg kalkkuna) väljästi ja ompele tai kiinnitä aukko cocktailtikuilla.",
+   "Vesilinnuille (ankka, hanhi) lisää täytteeseen sipuli.",
+   "Paista lintu niin, että täytteen sisälämpö on vähintään 74 astetta."
+  ]
+ },
+ {
+  "id": "simmons-stuff-and-roast-a-turkey-or-fowl",
+  "title": "Täytetty paahtokalkkuna karpalokastikkeella",
+  "description": "Ensimmäisessä amerikkalaisessa keittokirjassa kalkkuna tarjotaan karpalokastikkeen kanssa – ensimmäinen painettu maininta parista. Täyte on leivästä, munuaisrasvasta ja yrteistä.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 210,
+  "category": "Pääruoat",
+  "tags": [
+   "kalkkuna",
+   "juhla",
+   "amerikkalainen",
+   "karpalo",
+   "joulu"
+  ],
+  "ingredients": [
+   "1 kalkkuna (4–5 kg)",
+   "Täyte:",
+   "450 g pehmeää vehnäleipää, murennettuna",
+   "85 g naudan munuaisrasvaa tai voita",
+   "3 kananmunaa",
+   "1 tl kuivattua timjamia",
+   "1 tl kuivattua meiramia",
+   "½ tl mustapippuria",
+   "1 tl suolaa",
+   "1,2 dl valkoviiniä (valinnainen)",
+   "Paistamiseen:",
+   "1 rkl suolaa liuotettuna 2 dl:aan vettä",
+   "150 g voita",
+   "2 rkl vehnäjauhoja",
+   "Tarjoiluun: keitettyjä sipuleita ja karpalokastiketta"
+  ],
+  "instructions": [
+   "Sekoita täytteen ainekset ja täytä kalkkuna. Ompele tai kiinnitä aukko.",
+   "Paista 170 asteessa valellen välillä suolavedellä, kunnes reiden ja täytteen sisälämpö on 74 astetta (n. 3–3½ tuntia).",
+   "Lisää voi paistoliemeen. Pölytä linnun pinnalle jauhot ja valele paistoliemellä; paista vielä 10 minuuttia, kunnes pinta on rapea.",
+   "Tarjoa keitettyjen sipulien ja karpalokastikkeen kanssa (Simmons mainitsee myös pikkelsit ja sellerin).",
+   "Muunnelma: korvaa leipätäyte 1,4 litralla keitettyjä, voilla ja yrteillä maustettuja perunasoseita."
+  ]
+ },
+ {
+  "id": "simmons-stuff-and-roast-a-goslin",
+  "title": "Paahdettu hanhi sisälmys-sipulitäytteellä",
+  "description": "Nuori hanhi täytetään hienonnetuista sisälmyksistä, leivänmuruista, voista ja keitetystä sipulista. Simmonsin mukaan sama täyte sopii kaikille vesilinnuille.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "hanhi",
+   "juhla",
+   "amerikkalainen",
+   "joulu"
+  ],
+  "ingredients": [
+   "1 nuori hanhi (3–4 kg) sisälmyksineen (maksa, sydän, kivipiira)",
+   "5 dl vaaleita leivänmuruja",
+   "115 g voita",
+   "4 sipulia",
+   "2 kananmunaa",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "1 tl kuivattua salviaa tai timjamia (valinnainen)",
+   "1 dl valkoviiniä"
+  ],
+  "instructions": [
+   "Keitä sisälmykset pehmeiksi (n. 30 min) ja hienonna. Ryöppää sipulit 5 minuuttia ja hienonna.",
+   "Sekoita sisälmykset, sipulit, leivänmurut, voi, munat, mausteet ja viini.",
+   "Täytä hanhi, kiinnitä aukko ja paista 180 asteessa noin 2½ tuntia, kunnes reiden sisälämpö on 80 astetta. Kaada liika rasva välillä pois.",
+   "Tarjoa sipulikastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "simmons-smother-a-fowl-in-oysters",
+  "title": "Osterintäytteinen keitetty kana osterikastikkeessa",
+  "description": "Kana täytetään ostereilla, keitetään ja peitetään voilla ja pippurilla haudutetuilla ostereilla. Kalkkuna koristellaan persiljalla tai sellerinlehdillä.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "cookTimeMin": 70,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "osterit",
+   "äyriäiset",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1 broileri (n. 1,3 kg)",
+   "12 osteria, avattuina ja valutettuina",
+   "suolaa",
+   "Osterikastike:",
+   "4,7 dl osteria nesteineen (n. 24 kpl)",
+   "50 g voita",
+   "½ tl mustapippuria",
+   "persiljaa koristeeksi"
+  ],
+  "instructions": [
+   "Täytä kana ostereilla ja ompele aukko kiinni.",
+   "Laita kana kattilaan, kaada päälle vettä juuri peittoon, suolaa ja keitä hiljalleen, kunnes kana on kypsä (n. 1 tunti).",
+   "Hauduta loput osterit nesteineen voin ja pippurin kanssa juuri kypsiksi, 2–3 minuuttia.",
+   "Nosta kana syvälle vadille, kaada osterit päälle ja koristele persiljalla."
+  ]
+ },
+ {
+  "id": "simmons-stuff-a-leg-of-veal",
+  "title": "Täytetty vasikanreisi",
+  "description": "Vasikanreisi pistellään täyteen reikiä ja täytetään vasikan- ja suolasianlihasta, leivänmuruista ja persiljasta tehdyllä täytteellä. Kypsennetään pataan ja ruskistetaan voissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikka",
+   "täyte",
+   "juhla",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1 vasikanreisi tai -paisti (n. 2,5 kg)",
+   "Täyte:",
+   "450 g vasikan jauhelihaa",
+   "225 g suolapossua tai pekonia, hienonnettuna",
+   "450 g vaaleita leivänmuruja",
+   "1 kourallinen persiljaa, hienonnettuna",
+   "½ tl mustapippuria",
+   "85 g voita",
+   "3 kananmunaa",
+   "Lisäksi:",
+   "suolaa, mustapippuria ja vehnäjauhoja",
+   "50 g voita ruskistukseen",
+   "1 rkl ketsuppia (alkuperäisessä sienikastiketta)"
+  ],
+  "instructions": [
+   "Sekoita täytteen ainekset.",
+   "Leikkaa reiteen syviä taskuja ja täytä ne täytteellä. Hiero pintaan suolaa ja pippuria ja pölytä jauhoilla.",
+   "Kypsennä padassa 2–3 dl vettä pohjalla 160 asteessa kannen alla, kunnes liha on mureaa (n. 2½ tuntia). Lisää vettä tarvittaessa.",
+   "Ruskista reisi lopuksi padassa voissa. Suurusta paistoliemi jauhoilla, lisää nokare voita ja ketsuppi ja tarjoa kastikkeena."
+  ]
+ },
+ {
+  "id": "simmons-stuff-a-leg-of-pork-to-bake-or-roast",
+  "title": "Makkaratäytteinen porsaankinkku",
+  "description": "Porsaan reisi suolataan kevyesti kaksi vuorokautta, täytetään makkaramassalla ja paistetaan kuumassa uunissa kaksi ja puoli tuntia.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "porsas",
+   "kinkku",
+   "makkara",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "2,5 kg luutonta porsaan kinkkua",
+   "1 dl karkeaa suolaa",
+   "1 rkl sokeria",
+   "500 g makkaramassaa (tai kuorittua raakamakkaraa)"
+  ],
+  "instructions": [
+   "Hiero kinkkuun suola ja sokeri, laita pussiin ja anna suolaantua jääkaapissa 48 tuntia. Huuhtele ja kuivaa.",
+   "Avaa kinkku tai leikkaa siihen tasku, täytä makkaramassalla ja sido narulla.",
+   "Paista 180 asteessa noin 2½ tuntia, kunnes sisälämpö on 70 astetta."
+  ]
+ },
+ {
+  "id": "simmons-alamode-a-round-of-beef",
+  "title": "Täytetty à la mode -naudanpaisti höyryssä",
+  "description": "Iso naudanpaisti täytetään naudan- ja suolasianlihasta sekä leivänmuruista tehdyllä täytteellä, kypsennetään vartaiden päällä höyryssä ja ruskistetaan voissa. Määrät pienennetty noin seitsemäsosaan.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 240,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "paisti",
+   "täyte",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 kg naudan paistia (esim. kulmapaisti)",
+   "Täyte:",
+   "200 g naudan jauhelihaa",
+   "150 g suolapossua tai pekonia, hienonnettuna",
+   "280 g vaaleita leivänmuruja",
+   "70 g voita",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "ripaus cayennepippuria",
+   "1 tl kuivattua kynteliä",
+   "1 tl kuivattua timjamia",
+   "Kastike:",
+   "2 rkl voita",
+   "2 rkl vehnäjauhoja",
+   "1 rkl ketsuppia",
+   "1 dl punaviiniä"
+  ],
+  "instructions": [
+   "Alkuperäisessä paistia suolataan salpietarilla kaksi vuorokautta; nykyään voi suolata lihan kevyesti tai jättää vaiheen pois.",
+   "Sekoita täytteen ainekset. Leikkaa paistiin syviä viiltoja ja täytä ne.",
+   "Aseta paisti padassa ritilän tai luiden päälle, kaada pohjalle 4 dl kuumaa vettä ja kypsennä kannen alla 150 asteessa 3–4 tuntia, kunnes liha on mureaa. Lisää vettä tarvittaessa.",
+   "Kaada liemi talteen ja suurusta voi-jauhoseoksella. Ruskista paisti voissa ja mausta kastike ketsupilla ja viinillä."
+  ],
+  "notes": [
+   "Alkuperäinen ohje on 6–7 kilon paistille."
+  ]
+ },
+ {
+  "id": "simmons-alamode-a-round",
+  "title": "Silavoitu naudanpaisti punaviinissä",
+  "description": "Paisti silavoidaan maustetulla silavalla edellisenä iltana ja haudutetaan bordeauxin ja veden seoksessa tiiviisti suljetussa padassa. Pinta ruskistetaan leivänmuruilla tulen edessä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 250,
+  "category": "Pääruoat",
+  "tags": [
+   "nauta",
+   "pata",
+   "punaviini",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 kg naudan paistia (esim. kulmapaisti)",
+   "200 g silavaa, ohuina suikaleina",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "1 tl kuivattua meiramia",
+   "1 tl kuivattua timjamia",
+   "¼ tl jauhettua neilikkaa",
+   "¼ tl muskottikukkaa",
+   "¼ tl muskottipähkinää",
+   "7,5 dl punaviiniä (bordeaux)",
+   "7,5 dl vettä",
+   "1 sipuli",
+   "1 dl vaaleita leivänmuruja"
+  ],
+  "instructions": [
+   "Sekoita mausteet ja pyörittele silavasuikaleet niissä. Pistele paistiin reikiä ja työnnä suikaleet niihin. Anna maustua jääkaapissa yön yli.",
+   "Laita padan pohjalle muutama luu tai ritilä, kaada joukkoon viini, vesi ja sipuli ja nosta paisti päälle.",
+   "Sulje kansi tiiviisti (alkuperäisessä reunat tiivistetään taikinalla) ja hauduta hiljalleen 2 tuntia, käännä paisti ja jatka vielä 2 tuntia.",
+   "Ripottele pinnalle leivänmurut ja ruskista 225-asteisessa uunissa 10 minuuttia. Kuori rasva kastikkeesta ja tarjoa kastike erikseen."
+  ]
+ },
+ {
+  "id": "simmons-dress-a-turtle",
+  "skip": "merikilpikonnat ovat rauhoitettuja"
+ },
+ {
+  "id": "simmons-dress-a-calve-s-head-turtle-fashion",
+  "skip": "vasikanpäätä ja -sorkkia ei juuri saa"
+ },
+ {
+  "id": "simmons-stew-pie",
+  "title": "Vasikkapata keksitaikinakerroksin",
+  "description": "Keitetty vasikanlapa ladotaan pataan kerroksittain suolasianlihan, voin ja keksitaikinan kanssa ja haudutetaan kannen alla puoli tuntia.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "vasikka",
+   "pata",
+   "taikina",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1,2 kg vasikan- tai naudanlapaa",
+   "200 g suolapossua tai pekonia, ohuina viipaleina",
+   "115 g voita",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "Keksitaikina:",
+   "5 dl vehnäjauhoja",
+   "3 tl leivinjauhetta",
+   "½ tl suolaa",
+   "50 g voita",
+   "2 dl maitoa"
+  ],
+  "instructions": [
+   "Keitä liha suolalla maustetussa vedessä kypsäksi (n. 1½ tuntia) ja paloittele. Säästä 1 litra keitinlientä.",
+   "Nypi taikinan jauhot, leivinjauhe, suola ja voi muruksi, lisää maito ja kauli 1 cm levyksi. Leikkaa paloiksi.",
+   "Ladoa pataan kerroksittain lihaa, possua, voinokareita, suolaa, pippuria ja taikinapaloja.",
+   "Kaada päälle keitinliemi, sulje kansi tiiviisti ja hauduta hiljalleen 30 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-sea-pie",
+  "title": "Merimiespiirakka (sea pie)",
+  "description": "Merimiesten pataruoka: kattila vuorataan taikinalla, täytetään kyyhkysillä, kanalla, vasikalla tai lampaalla ja suolasianlihalla, peitetään taikinakannella ja haudutetaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 150,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "pata",
+   "kana",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "450 g vehnäjauhoja",
+   "170 g voita",
+   "½ tl suolaa",
+   "n. 2 dl kylmää vettä",
+   "Täyte:",
+   "1 kg lihaa paloina (kanaa, vasikkaa, lammasta tai riistalintua)",
+   "150 g suolapossua tai pekonia, viipaleina",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "2 rkl vehnäjauhoja",
+   "7 dl vettä"
+  ],
+  "instructions": [
+   "Nypi voi ja jauhot muruksi, lisää suola ja vesi ja kauli taikina. Vuoraa voideltu valurautapata noin kahdella kolmasosalla taikinasta.",
+   "Ladoa pataan kerroksittain lihaa ja possua, mausta suolalla ja pippurilla ja pölytä jauhoilla.",
+   "Kaada vesi joukkoon ja peitä loppu taikinalla; painele reunat kiinni.",
+   "Hauduta kannen alla miedolla lämmöllä tai 160-asteisessa uunissa 2½ tuntia."
+  ],
+  "notes": [
+   "Alkuperäinen taikina on nelinkertainen (n. 1,8 kg jauhoja)."
+  ]
+ },
+ {
+  "id": "simmons-chicken-pie",
+  "title": "Kanapiirakka voilla",
+  "description": "Paloiteltu kana ja runsaasti voita paksussa piirakkakuoressa; heikossa uunissa kana esikeitetään ja kastike lisätään valmiiseen piirakkaan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "piirakka",
+   "amerikkalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "1 broileri (n. 1,3 kg), paloiteltuna, ja sen maksa ja sydän",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "115 g voita, ohuina viipaleina",
+   "Taikina:",
+   "7 dl vehnäjauhoja",
+   "250 g kylmää voita",
+   "½ tl suolaa",
+   "n. 1,5 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Valmista taikina nyppimällä voi ja jauhot muruksi ja lisäämällä suola ja vesi. Anna levätä kylmässä.",
+   "Mausta kananpalat ja sisälmykset suolalla ja pippurilla.",
+   "Kauli kaksi kolmasosaa taikinasta ja vuoraa syvä piirakkavuoka. Ladoa kerroksittain kanaa ja voiviipaleita.",
+   "Peitä paksulla taikinakannella, tee höyryreikä ja paista 180 asteessa 1½ tuntia, kunnes kuori on kullanruskea ja kana kypsää (sisälämpö 74 astetta)."
+  ],
+  "notes": [
+   "Alkuperäisessä kuusi kanaa ja 700 g voita."
+  ]
+ },
+ {
+  "id": "simmons-minced-pies-a-foot-pie",
+  "skip": "naudansorkkia ei juuri saa; lähes sama kuin naudanliha-mincepiirakka"
+ },
+ {
+  "id": "simmons-tongue-pie",
+  "title": "Kieli-omenapiirakka rusinoilla",
+  "description": "1700-luvun mincepiirakka keitetystä naudankielestä, omenasta, rusinoista, voista, viinistä ja mausteista.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "nauta",
+   "omena",
+   "rusina",
+   "joulu",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "450 g keitettyä naudankieltä, hienonnettuna",
+   "450 g omenoita, kuorittuina ja hienonnettuina",
+   "150 g sokeria",
+   "115 g voita, sulatettuna",
+   "2,5 dl punaviiniä tai omenamehua",
+   "450 g rusinoita ja/tai korintteja",
+   "1 tl kanelia",
+   "1 tl muskottikukkaa",
+   "Piirakkataikina:",
+   "5 dl vehnäjauhoja",
+   "200 g kylmää voita",
+   "ripaus suolaa",
+   "1 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Nypi voi ja jauhot muruksi, lisää suola ja kylmä vesi ja kokoa taikinaksi. Anna levätä kylmässä 30 minuuttia.",
+   "Sekoita täytteen ainekset.",
+   "Vuoraa piirakkavuoka puolella taikinasta, lisää täyte ja peitä loppu taikinalla. Tee kanteen höyryreiät.",
+   "Paista 190 asteessa noin 45 minuuttia."
+  ]
+ },
+ {
+  "id": "simmons-minced-pie-of-beef",
+  "title": "Naudanliha-mincepiirakka",
+  "description": "Keitetystä naudanlihasta, raa'asta omenasta, munuaisrasvasta, rusinoista ja viinistä tehty piirakka – nykyisen joulun mincepien esikuva.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "cookTimeMin": 45,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "nauta",
+   "omena",
+   "rusina",
+   "joulu",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "450 g keitettyä naudanlihaa, hienonnettuna",
+   "700 g omenoita, hienonnettuina",
+   "115 g naudan munuaisrasvaa tai voita",
+   "1 tl suolaa",
+   "2,5 dl viiniä tai makeaa omenasiideriä",
+   "1 tl muskottikukkaa",
+   "1 tl kanelia",
+   "½ muskottipähkinä, raastettuna",
+   "225 g rusinoita",
+   "Piirakkataikina:",
+   "5 dl vehnäjauhoja",
+   "200 g kylmää voita",
+   "ripaus suolaa",
+   "1 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Nypi voi ja jauhot muruksi, lisää suola ja kylmä vesi ja kokoa taikinaksi. Anna levätä kylmässä 30 minuuttia.",
+   "Sekoita täytteen ainekset.",
+   "Vuoraa vuoka puolella taikinasta, lisää täyte ja peitä loppu taikinalla.",
+   "Paista 200 asteessa 45 minuuttia."
+  ],
+  "notes": [
+   "Määrät noin neljäsosa alkuperäisestä."
+  ]
+ },
+ {
+  "id": "simmons-observations",
+  "skip": "yleisohje piirakoiden paistamisesta, ei resepti"
+ },
+ {
+  "id": "simmons-apple-pie",
+  "title": "Omenapiirakka sitruunalla ja ruusuvedellä",
+  "description": "Simmonsin omenapiirakassa omenat haudutetaan ja siivilöidään soseeksi, joka maustetaan sitruunankuorella, kanelilla, muskottikukalla, ruusuvedellä ja sokerilla.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "omena",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1,5 kg omenoita (tai 1,4 l omenasosetta)",
+   "1 sitruunan raastettu kuori",
+   "1 tl kanelia",
+   "¼ tl muskottikukkaa",
+   "1 rkl ruusuvettä",
+   "1–1,5 dl sokeria",
+   "Piirakkataikina:",
+   "5 dl vehnäjauhoja",
+   "200 g kylmää voita",
+   "ripaus suolaa",
+   "1 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Kuori ja lohko omenat, hauduta tilkassa vettä pehmeiksi ja soseuta. Mausta sitruunankuorella, mausteilla, ruusuvedellä ja sokerilla.",
+   "Nypi voi ja jauhot muruksi, lisää suola ja kylmä vesi ja kokoa taikinaksi. Anna levätä kylmässä 30 minuuttia.",
+   "Vuoraa piirakkavuoka puolella taikinasta, lisää sose ja peitä loppu taikinalla.",
+   "Paista 200 asteessa noin 40 minuuttia.",
+   "Simmonsin mukaan muut hedelmät (päärynät, luumut, vadelmat, karhunvatukat) sopivat samoin pelkällä sokerilla ilman mausteita."
+  ]
+ },
+ {
+  "id": "simmons-currant-pies",
+  "title": "Herukkapiirakka",
+  "description": "Täysikasvuiset raa'at herukat ja kolmasosa niiden määrästä sokeria leivotaan piirakaksi kuten omenapiirakka.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 40,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "herukka",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "7 dl punaherukoita (tai karviaisia)",
+   "2,5 dl sokeria",
+   "2 rkl perunajauhoja",
+   "Piirakkataikina:",
+   "5 dl vehnäjauhoja",
+   "200 g kylmää voita",
+   "ripaus suolaa",
+   "1 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Nypi voi ja jauhot muruksi, lisää suola ja kylmä vesi ja kokoa taikinaksi. Anna levätä kylmässä 30 minuuttia.",
+   "Sekoita marjat, sokeri ja perunajauhot.",
+   "Vuoraa piirakkavuoka puolella taikinasta, lisää täyte ja peitä loppu taikinalla.",
+   "Paista 200 asteessa noin 40 minuuttia."
+  ],
+  "notes": [
+   "Perunajauhot on lisätty sitomaan mehua."
+  ]
+ },
+ {
+  "id": "simmons-buttered-apple-pie",
+  "title": "Voideltu omenapiirakka",
+  "description": "Omenalohkot paistetaan kuoren alla, minkä jälkeen kansi nostetaan ja sisään lisätään sokeria, voita, kanelia, muskottikukkaa ja viiniä tai ruusuvettä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "cookTimeMin": 35,
+  "category": "Jälkiruoat",
+  "tags": [
+   "piirakka",
+   "omena",
+   "amerikkalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1 kg happamia omenoita",
+   "1 dl sokeria",
+   "50 g voita",
+   "1 tl kanelia",
+   "¼ tl muskottikukkaa",
+   "2 rkl valkoviiniä tai ruusuvettä",
+   "Piirakkataikina:",
+   "5 dl vehnäjauhoja",
+   "200 g kylmää voita",
+   "ripaus suolaa",
+   "1 dl kylmää vettä"
+  ],
+  "instructions": [
+   "Nypi voi ja jauhot muruksi, lisää suola ja kylmä vesi ja kokoa taikinaksi. Anna levätä kylmässä 30 minuuttia.",
+   "Kuori, lohko ja poista omenoista siemenkodat. Vuoraa vuoka puolella taikinasta, lisää omenat ja peitä loppu taikinalla.",
+   "Paista 200 asteessa noin 30–35 minuuttia.",
+   "Nosta kansi varovasti, lisää sokeri, voinokareet, mausteet ja viini tai ruusuvesi ja laske kansi takaisin. Tarjoa lämpimänä."
+  ]
+ },
+ {
+  "id": "simmons-rice-pudding-no-1",
+  "title": "Riisivanukas ruusuvedellä ja muskotilla",
+  "description": "Maidossa kanelitangon kanssa keitetty riisi sekoitetaan muskotin, ruusuveden ja munien kanssa ja paistetaan voidellussa vuoassa tai lehtitaikinan päällä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 90,
+  "category": "Jälkiruoat",
+  "tags": [
+   "riisi",
+   "vanukas",
+   "amerikkalainen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1,4 dl puuroriisiä",
+   "1 kanelitanko",
+   "9,5 dl maitoa",
+   "½ muskottipähkinä, raastettuna",
+   "4 rkl ruusuvettä",
+   "8 kananmunaa",
+   "1 dl sokeria",
+   "voita vuokaan"
+  ],
+  "instructions": [
+   "Keitä riisi maidossa kanelitangon kanssa usein sekoittaen pehmeäksi, noin 30 minuuttia. Jäähdytä ja poista kaneli.",
+   "Sekoita joukkoon muskotti, ruusuvesi, sokeri ja vatkatut munat.",
+   "Kaada voideltuun vuokaan (tai lehtitaikinalla vuorattuun) ja paista 160 asteessa noin 1 tunti, kunnes vanukas on hyytynyt."
+  ],
+  "notes": [
+   "Alkuperäisestä puuttuu sokeri; se on lisätty."
+  ]
+ }
+]

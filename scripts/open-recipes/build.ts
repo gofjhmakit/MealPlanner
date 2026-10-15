@@ -113,6 +113,15 @@ export const OPEN_SOURCES = [
     year: 1390,
   },
   {
+    id: 'simmons',
+    name: 'American Cookery (1796)',
+    homepage: 'https://www.gutenberg.org/ebooks/12815',
+    license: 'Public domain',
+    attribution: 'Amelia Simmons, American Cookery. Hartford: Hudson & Goodwin, 1796 – ensimmäinen yhdysvaltalainen keittokirja. Digitointi: Project Gutenberg.',
+    changes: HISTORICAL,
+    year: 1796,
+  },
+  {
     id: 'openrecipeproject',
     name: 'Open Recipe Project',
     homepage: 'https://github.com/reZach/open-recipe-project',

@@ -4,7 +4,8 @@
  * catalogue version (fi/<source>/) adds a modern interpretation; the build keeps the original text.
  *
  *   node scripts/open-recipes/normalize-gutenberg.ts
- * Expects data/open-recipes/raw/gutenberg/pg73445.txt (Kokki-kirja, 1849) and pg8102.txt (The Forme of Cury, c. 1390).
+ * Expects data/open-recipes/raw/gutenberg/pg73445.txt (Kokki-kirja, 1849), pg8102.txt (The Forme of Cury, c. 1390),
+ * pg29728.txt (Apicius) and pg12815.txt (American Cookery, 1796).
  */
 import { readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -227,4 +228,88 @@ interface Historical {
   flush()
   writeFileSync(join(ROOT, 'en/apicius.json'), JSON.stringify(out, null, 1))
   console.log(`apicius: ${out.length} recipes`)
+}
+
+// --- American Cookery (Amelia Simmons, Hartford 1796): "_To Roast Beef._" headings after "_RECEIPTS._";
+//     numbered variants ("No. 2. Boil 6 ounces rice …") become recipes of their own ---
+{
+  const text = body(raw(12815))
+  const part = text.slice(text.indexOf('_RECEIPTS._') + '_RECEIPTS._'.length, text.indexOf('\nADVERTISEMENT.'))
+  const lines = part.split('\n')
+  const out: Historical[] = []
+  const seen = new Set<string>()
+  let last = ''
+  let current: { title: string; lines: string[] } | null = null
+  const push = (title: string, paras: string[]) => {
+    const base = `simmons-${title.toLowerCase().replace(/\(another.*\)/, '').replace(/^(to|a|an|the|for) /, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}`
+    let id = base
+    for (let n = 2; seen.has(id); n++) id = `${base}-${n}`
+    seen.add(id)
+    out.push({
+      id,
+      source: 'simmons',
+      title,
+      ingredients: [],
+      tags: [],
+      instructions: paras,
+      sourceUrl: 'https://www.gutenberg.org/ebooks/12815',
+      author: 'Amelia Simmons',
+      license: 'Public domain',
+      year: 1796,
+    })
+  }
+  const flush = () => {
+    if (!current) return
+    // Chapter captions ("PUDDINGS.") trail the previous recipe; plain sub-headings ("A Sea Pie.", "A Chicken Pie.")
+    // start recipes of their own.
+    const groups: { title: string; paras: string[] }[] = [{ title: current.title, paras: [] }]
+    for (const p of paragraphs(current.lines.join('\n'))) {
+      if (/^[A-Z][A-Z .,&]+\.$/.test(p)) continue
+      if (/^An? [A-Z][A-Za-z ]{2,20}\.$/.test(p)) groups.push({ title: p.replace(/\.$/, ''), paras: [] })
+      else groups[groups.length - 1].paras.push(p)
+    }
+    for (const g of groups) {
+      // "No. 1. …", "No. 2. …" are separate receipts under one heading; text before the first one (or a
+      // trailing "N.B." remark) belongs to the first.
+      const variants: string[][] = []
+      for (const p of g.paras) {
+        const no = p.match(/^No\. ?(\d+)\.? (.*)$/)
+        if (no && (variants.length === 0 || Number(no[1]) > 1)) variants.push([no[2]])
+        else if (no) variants[0].push(no[2])
+        else if (variants.length) variants[variants.length - 1].push(p)
+        else variants.push([p])
+      }
+      if (variants.length > 1) variants.forEach((v, k) => push(`${g.title}, No. ${k + 1}`, v))
+      else if (variants[0]?.join(' ').length) push(g.title, variants[0])
+    }
+    current = null
+  }
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim()
+    // A heading is a paragraph of its own: "_A Rice Pudding_.", "_Potato Pudding_. Baked.", "_Minced Pies_, A Foot Pie.",
+    // or one running over two lines ("_To keep White Bullace, Pears, … for tarts or / pies_.").
+    let head = ''
+    if (!lines[i - 1]?.trim() && line.startsWith('_')) {
+      let joined = line
+      let j = i
+      while (!/_/.test(joined.slice(1)) && lines[j + 1]?.trim()) joined += ` ${lines[++j].trim()}`
+      const m = joined.match(/^_([^_]+)_\.?(.*)$/)
+      if (m && !lines[j + 1]?.trim() && m[2].length < 36 && /^(\s*$|\.|,|\s+[A-Z])/.test(m[2])) {
+        head = (m[1].replace(/\.$/, '') + m[2].replace(/\.$/, '')).replace(/\s+/g, ' ').trim()
+        i = j
+      }
+    }
+    if (head) {
+      flush()
+      // "Another" follows the recipe it is a variant of.
+      const title = /^Another\b/i.test(head) ? `${last} (${head.replace(/_/g, '').toLowerCase()})` : head
+      if (!/^Another\b/i.test(head)) last = head
+      current = { title, lines: [] }
+      continue
+    }
+    current?.lines.push(lines[i])
+  }
+  flush()
+  writeFileSync(join(ROOT, 'en/simmons.json'), JSON.stringify(out, null, 1))
+  console.log(`simmons: ${out.length} recipes`)
 }

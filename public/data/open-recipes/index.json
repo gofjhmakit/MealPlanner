@@ -1,6 +1,6 @@
 {
- "version": "2026-10-15-1h2exrr",
- "generatedAt": "2026-10-15T11:25:20.309Z",
+ "version": "2026-10-15-8pgzty",
+ "generatedAt": "2026-10-15T12:12:17.902Z",
  "sources": [
   {
    "id": "kitchengadget",
@@ -103,6 +103,18 @@
    "year": 1390,
    "file": "formeofcury.json",
    "count": 171,
+   "withImage": 0
+  },
+  {
+   "id": "simmons",
+   "name": "American Cookery (1796)",
+   "homepage": "https://www.gutenberg.org/ebooks/12815",
+   "license": "Public domain",
+   "attribution": "Amelia Simmons, American Cookery. Hartford: Hudson & Goodwin, 1796 – ensimmäinen yhdysvaltalainen keittokirja. Digitointi: Project Gutenberg.",
+   "changes": "Alkuperäinen teksti säilytetty sellaisenaan; lisätty nykykielinen tulkinta, jossa ainekset ja määrät on arvioitu nykymitoin.",
+   "year": 1796,
+   "file": "simmons.json",
+   "count": 21,
    "withImage": 0
   },
   {
