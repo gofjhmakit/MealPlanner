@@ -1,0 +1,724 @@
+[
+ {
+  "id": "wikibooks-egyptian-milk-pudding-mahalabiya",
+  "title": "Mahalabiya (egyptiläinen maitovanukas)",
+  "description": "Maissitärkkelyksellä suurustettu, ruusuvedellä ja appelsiininkukkavedellä maustettu maitovanukas, joka tarjoillaan kylmänä pistaasien ja kanelin kera.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 20,
+  "totalTimeMin": 140,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "vanukas",
+   "egyptiläinen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l maitoa",
+   "1,2 dl sokeria",
+   "½ dl maissitärkkelystä (Maizena)",
+   "1 tl ruusuvettä",
+   "1 tl appelsiininkukkavettä",
+   "kanelia koristeluun",
+   "murskattuja pistaasipähkinöitä tai manteleita koristeluun"
+  ],
+  "instructions": [
+   "Sekoita maito, sokeri ja maissitärkkelys kattilassa, kunnes tärkkelys ja sokeri ovat liuenneet.",
+   "Kuumenna keskilämmöllä jatkuvasti sekoittaen, kunnes seos sakenee ja alkaa hiljalleen kiehua. Tähän menee 10–15 minuuttia.",
+   "Alenna lämpöä ja keitä vielä 2–3 minuuttia sekoittaen, kunnes vanukas on sileää ja kermaista.",
+   "Nosta liedeltä ja sekoita joukkoon ruusuvesi ja appelsiininkukkavesi.",
+   "Jaa vanukas annoskulhoihin. Anna jäähtyä hetki ja siirrä jääkaappiin vähintään 2 tunniksi hyytymään.",
+   "Ripottele ennen tarjoilua pinnalle kanelia ja reilusti murskattuja pähkinöitä. Tarjoa kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-okra",
+  "skip": "liian puutteellinen (määrät puuttuvat kokonaan)"
+ },
+ {
+  "id": "wikibooks-egyptian-okra-stew",
+  "title": "Egyptiläinen okrapata",
+  "description": "Okrat haudutetaan tomaattikastikkeessa juustokuminan, korianterin ja kurkuman kanssa pehmeiksi. Tarjoa riisin tai leivän kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 50,
+  "category": "Pääruoat",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "egyptiläinen",
+   "pata"
+  ],
+  "ingredients": [
+   "450 g tuoreita okria, pestyinä ja päistä siistittyinä",
+   "1 sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 rkl rypsiöljyä",
+   "5 dl tomaattisosetta tai tomaattimurskaa",
+   "1 tl juustokuminaa",
+   "½ tl jauhettua korianteria",
+   "½ tl kurkumaa",
+   "¼ tl cayennepippuria (valinnainen)",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna öljy isossa kattilassa keskilämmöllä.",
+   "Kuullota sipulia, kunnes se on läpikuultava ja kevyesti kullanruskea.",
+   "Lisää valkosipuli ja paista minuutti, kunnes se tuoksuu.",
+   "Lisää tomaatti, juustokumina, korianteri, kurkuma, cayennepippuri, suola ja pippuri ja sekoita.",
+   "Hauduta kastiketta noin 10 minuuttia, jotta maut tasaantuvat.",
+   "Lisää okrat ja sekoita varovasti, niin että ne peittyvät kastikkeella.",
+   "Alenna lämpöä, laita kansi päälle ja hauduta 20–25 minuuttia, kunnes okrat ovat pehmeitä. Sekoita välillä, ettei pata pala pohjaan.",
+   "Tarkista maku ja anna padan vetäytyä muutama minuutti liedeltä nostettuna. Tarjoa kuumana riisin tai leivän kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-rice-with-vermicelli",
+  "title": "Egyptiläinen vermicelliriisi",
+  "description": "Voissa paahdetut ohuet nuudelinpätkät keitetään yhdessä pitkäjyväisen riisin kanssa – arkinen lisuke egyptiläisille ruoille.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 35,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "lisuke",
+   "egyptiläinen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 rkl voita tai oliiviöljyä",
+   "½ dl vermicelliä 2–5 cm:n paloiksi katkottuna",
+   "2,4 dl pitkäjyväistä riisiä",
+   "5 dl vettä tai kasvislientä",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kuumenna voi tai öljy keskikokoisessa kattilassa keskilämmöllä.",
+   "Lisää nuudelit ja paahda niitä jatkuvasti sekoittaen kullanruskeiksi.",
+   "Lisää riisi ja sekoita nuudelien joukkoon.",
+   "Kaada joukkoon vesi tai liemi ja lisää suola.",
+   "Kiehauta, alenna lämpö pienelle ja laita kansi päälle.",
+   "Hauduta 15–20 minuuttia, kunnes neste on imeytynyt ja riisi on kypsää.",
+   "Nosta liedeltä ja anna hautua kannen alla vielä 5 minuuttia.",
+   "Kuohkeuta riisi haarukalla ja tarjoa lisukkeena, halutessasi tuoreilla yrteillä koristeltuna."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-roast-lamb-kharouf-mahshi",
+  "title": "Egyptiläinen lampaanpaisti",
+  "description": "Kokonainen lampaanviulu maustetaan valkosipulilla, sitruunalla, juustokuminalla, korianterilla, paprikalla ja kanelilla ja paahdetaan uunissa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "lammas",
+   "uuniruoka",
+   "egyptiläinen",
+   "juhla"
+  ],
+  "ingredients": [
+   "4 valkosipulinkynttä, hienonnettuna",
+   "2 rkl oliiviöljyä",
+   "2 rkl sitruunamehua",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "1 tl paprikajauhetta",
+   "1 tl kanelia",
+   "1 tl suolaa",
+   "½ tl mustapippuria",
+   "1 lampaanviulu (n. 2,5–3 kg)"
+  ],
+  "instructions": [
+   "Sekoita kulhossa valkosipuli, öljy, sitruunamehu ja mausteet marinadiksi.",
+   "Nosta lampaanviulu uunivuokaan ja hiero marinadi tasaisesti koko pinnalle.",
+   "Peitä vuoka foliolla ja marinoi jääkaapissa vähintään 2 tuntia, mieluiten yön yli.",
+   "Ota liha huoneenlämpöön noin 30 minuuttia ennen paistamista. Kuumenna uuni 180 asteeseen.",
+   "Paahda noin 55 minuuttia kiloa kohden, kunnes paistomittari näyttää noin 60 astetta (puolikypsä). Valele lihaa välillä paistonesteellä.",
+   "Ota paisti uunista, peitä löyhästi foliolla ja anna levätä 15–20 minuuttia.",
+   "Leikkaa viipaleiksi ja tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-stuffed-eggplant-mahshi-betinjan",
+  "title": "Mahshi betinjan (täytetyt munakoisot)",
+  "description": "Puolitetut munakoisot täytetään jauheliha-riisiseoksella, joka maustetaan tuoreilla yrteillä, tomaattipyreellä ja mausteilla, ja kypsennetään uunissa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 100,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "jauheliha",
+   "uuniruoka",
+   "egyptiläinen",
+   "riisi"
+  ],
+  "ingredients": [
+   "6 keskikokoista munakoisoa",
+   "250 g naudan tai lampaan jauhelihaa",
+   "2,4 dl riisiä, huuhdottuna",
+   "1 pieni sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "½ dl persiljaa, hienonnettuna",
+   "½ dl tilliä, hienonnettuna",
+   "½ dl minttua, hienonnettuna",
+   "2 rkl tomaattipyreetä",
+   "1 tl juustokuminaa",
+   "1 tl paprikajauhetta",
+   "½ tl kanelia",
+   "suolaa",
+   "mustapippuria",
+   "oliiviöljyä pinnalle"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen.",
+   "Pese munakoisot, poista kanta ja halkaise ne pituussuunnassa.",
+   "Kaiverra puolikkaat lusikalla niin, että kuoren reunaan jää noin 1 cm. Ota sisus talteen täytettä varten.",
+   "Sekoita jauheliha, riisi, sipuli, valkosipuli, yrtit, tomaattipyree, mausteet, suola ja pippuri tasaiseksi täytteeksi. Hienonna halutessasi munakoisojen sisus mukaan.",
+   "Täytä munakoisonpuolikkaat painellen ja asettele ne tiiviisti uunivuokaan.",
+   "Valuta pinnalle oliiviöljyä.",
+   "Peitä vuoka foliolla ja paista 45–50 minuuttia, kunnes munakoisot ovat pehmeitä ja täyte kypsää.",
+   "Poista folio ja paista vielä 10–15 minuuttia, kunnes pinta ruskistuu.",
+   "Anna jäähtyä hetki ja tarjoa kuumana, halutessasi tuoreilla yrteillä, leivän, riisin tai salaatin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-stuffed-grape-leaves-warak-enab-mahshi",
+  "title": "Warak enab (täytetyt viininlehdet)",
+  "description": "Viininlehtikääryleet, joiden täytteenä on riisiä, sipulia, persiljaa, tilliä, minttua, sitruunaa ja oliiviöljyä. Tarjoillaan lämpiminä tai huoneenlämpöisinä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 100,
+  "category": "Lisukkeet",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "egyptiläinen",
+   "riisi",
+   "meze"
+  ],
+  "ingredients": [
+   "1 prk suolavedessä säilöttyjä viininlehtiä, huuhdottuina ja valutettuina",
+   "2,4 dl pitkäjyväistä riisiä",
+   "1 keskikokoinen sipuli, hienonnettuna",
+   "½ dl persiljaa, hienonnettuna",
+   "½ dl tilliä, hienonnettuna",
+   "½ dl minttua, hienonnettuna",
+   "½ dl oliiviöljyä",
+   "2 rkl sitruunamehua",
+   "1 tl juustokuminaa",
+   "½ tl jauhettua korianteria",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Ryöppää viininlehtiä kiehuvassa vedessä 1–2 minuuttia, jotta ne pehmenevät. Valuta.",
+   "Sekoita kulhossa riisi, sipuli, yrtit, öljy, sitruunamehu, mausteet, suola ja pippuri.",
+   "Levitä lehti työtasolle kiiltävä puoli alaspäin ja leikkaa tarvittaessa ruoti pois.",
+   "Nosta lehden keskelle noin ruokalusikallinen täytettä, käännä sivut sisään ja kääri tiukaksi rullaksi.",
+   "Toista, kunnes täyte on käytetty.",
+   "Vuoraa ison kattilan pohja muutamalla lehdellä ja asettele kääryleet kerroksittain tiiviisti kattilaan.",
+   "Lisää vettä niin, että kääryleet peittyvät, ja paina ne alas lämmönkestävällä lautasella.",
+   "Laita kansi päälle ja hauduta miedolla lämmöllä 45–60 minuuttia, kunnes riisi on kypsää ja lehdet pehmeitä.",
+   "Nosta kääryleet varovasti tarjoiluvadille. Tarjoa lämpiminä tai huoneenlämpöisinä alkupalana, halutessasi jogurtin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-sweet-rice-pudding-roz-bil-laban",
+  "title": "Roz bil laban (egyptiläinen riisivanukas)",
+  "description": "Riisi keitetään maidossa sokerin, vaniljan ja kanelitangon kanssa kermaiseksi vanukkaaksi, joka koristellaan kanelilla, pähkinöillä ja rusinoilla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 50,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "vanukas",
+   "riisi",
+   "egyptiläinen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2,4 dl valkoista riisiä",
+   "1 l maitoa",
+   "1,2 dl sokeria (maun mukaan)",
+   "1 tl vaniljauutetta",
+   "1 kanelitanko",
+   "kanelia koristeluun",
+   "pilkottuja manteleita tai pistaasipähkinöitä koristeluun",
+   "rusinoita koristeluun"
+  ],
+  "instructions": [
+   "Huuhtele riisi kylmällä vedellä, kunnes vesi on kirkasta. Valuta.",
+   "Laita riisi, maito, sokeri, vanilja ja kanelitanko kattilaan.",
+   "Kuumenna keskilämmöllä hiljaa kiehuvaksi välillä sekoittaen.",
+   "Alenna lämpöä ja hauduta 30–40 minuuttia säännöllisesti sekoittaen, kunnes riisi on kypsää ja seos kermaisen paksua.",
+   "Nosta liedeltä ja poista kanelitanko.",
+   "Jaa vanukas kulhoihin ja koristele kanelilla, pähkinöillä ja rusinoilla. Tarjoa lämpimänä tai kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-egyptian-tomato-salad",
+  "title": "Egyptiläinen tomaattisalaatti",
+  "description": "Raikas salaatti tomaateista, punasipulista, kurkusta, persiljasta ja mintusta sitruunaisella oliiviöljykastikkeella.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kasvis",
+   "vegaaninen",
+   "egyptiläinen",
+   "nopea"
+  ],
+  "ingredients": [
+   "4–5 kypsää tomaattia, viipaloituna",
+   "1 pieni punasipuli, ohuina viipaleina",
+   "1 kurkku, kuorittuna ja kuutioituna",
+   "½ dl persiljaa, hienonnettuna",
+   "½ dl minttua, hienonnettuna",
+   "2 rkl sitruunamehua",
+   "2 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Yhdistä kulhossa tomaatit, punasipuli, kurkku, persilja ja minttu ja sekoita kevyesti.",
+   "Vatkaa sitruunamehu, oliiviöljy, suola ja pippuri kastikkeeksi.",
+   "Kaada kastike salaatille ja sekoita varovasti.",
+   "Tarkista maku ja lisää tarvittaessa suolaa, pippuria tai sitruunamehua.",
+   "Anna maustua huoneenlämmössä 15–20 minuuttia. Tarjoa lisukkeena tai osana mezepöytää."
+  ]
+ },
+ {
+  "id": "wikibooks-eierpunsch-german-egg-punch",
+  "skip": "alkoholijuoma (viinipohjainen munabooli)"
+ },
+ {
+  "id": "wikibooks-eko-nigerian-cooked-cornstarch",
+  "skip": "liian puutteellinen (määrät puuttuvat kokonaan)"
+ },
+ {
+  "id": "wikibooks-ekpang-nkwukwo",
+  "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)"
+ },
+ {
+  "id": "wikibooks-ekuru-white-bean-pudding",
+  "skip": "liian puutteellinen (määrät puuttuvat kokonaan)"
+ },
+ {
+  "id": "wikibooks-ekwang-cameroonian-taro-leaf-stew",
+  "title": "Ekwang (kamerunilainen taronlehtipata)",
+  "description": "Naudanliha haudutetaan palmuöljyssä sipulin, valkosipulin, ravun ja kitkerien lehtien kanssa, ja lopuksi joukkoon kypsennetään taronlehdet.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 110,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "naudanliha",
+   "afrikkalainen",
+   "pata"
+  ],
+  "ingredients": [
+   "900 g taron (kokojamin) lehtiä",
+   "450 g naudanlihaa, kuutioituna",
+   "2,4 dl kuivattuja jokirapuja",
+   "2 sipulia, hienonnettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "2 rkl palmuöljyä",
+   "2 rkl maapähkinäöljyä",
+   "2 rkl jauhettuja kuivattuja rapuja",
+   "2 rkl kuivattuja bitterleaf-lehtiä",
+   "2 rkl kuivattuja utazi-lehtiä",
+   "5 dl vettä",
+   "suolaa"
+  ],
+  "instructions": [
+   "Pese taronlehdet huolellisesti ja poista kovat ruodit. Silppua lehdet pienemmiksi.",
+   "Kuumenna palmu- ja maapähkinäöljy isossa kattilassa keskilämmöllä. Kuullota sipuli ja valkosipuli.",
+   "Lisää lihakuutiot ja ruskista ne joka puolelta.",
+   "Lisää kuivatut ja jauhetut ravut sekä bitterleaf- ja utazi-lehdet ja sekoita.",
+   "Kaada joukkoon vesi ja mausta suolalla.",
+   "Kiehauta, alenna lämpö ja hauduta noin tunti, kunnes liha on mureaa.",
+   "Lisää taronlehdet, laita kansi päälle ja kypsennä vielä 15–20 minuuttia, kunnes lehdet ovat pehmeitä.",
+   "Tarkista maku ja mausta tarvittaessa lisää."
+  ],
+  "notes": [
+   "Taronlehdet on aina kypsennettävä hyvin – raakana ne kirvelevät suuta."
+  ]
+ },
+ {
+  "id": "wikibooks-elephant-grass-soup-ofe-achara",
+  "skip": "liian puutteellinen (määrät puuttuvat, erikoisainekset)"
+ },
+ {
+  "id": "wikibooks-empanada",
+  "title": "Empanadat (argentiinalaiset ja chileläiset)",
+  "description": "Itse tehty taikina täytetään maustetulla jauhelihalla ja rusinoilla. Argentiinalaisessa täytteessä on kanelia ja muskottia, chileläisessä pinossa runsaasti sipulia, oliiveja ja kananmunaa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "jauheliha",
+   "argentiinalainen",
+   "chileläinen",
+   "leivonnainen"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "1 tl suolaa",
+   "5–7 dl kylmää vettä",
+   "1 kg vehnäjauhoja",
+   "2 kananmunaa",
+   "200 g voita tai margariinia",
+   "maissitärkkelystä leivinalustalle",
+   "rypsiöljyä friteeraukseen (tai sulatettua voita uunissa paistamiseen)",
+   "Argentiinalainen täyte:",
+   "1 kg naudan jauhelihaa",
+   "1 iso sipuli, hienonnettuna",
+   "2 rkl rypsiöljyä",
+   "2 rkl sokeria",
+   "1½ tl mustapippuria",
+   "1½ tl paprikajauhetta",
+   "1 tl suolaa",
+   "½ tl juustokuminaa (valinnainen)",
+   "½ tl kanelia",
+   "¼ tl muskottipähkinää",
+   "¼ tl neilikkajauhetta",
+   "1,2 dl rusinoita",
+   "vihreitä oliiveja (valinnainen)",
+   "kovaksi keitettyä kananmunaa, kuutioituna (valinnainen)",
+   "keitettyä perunaa, kuutioituna (valinnainen)",
+   "Chileläinen täyte (pino):",
+   "1 kg naudan jauhelihaa",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "3 isoa sipulia, hienonnettuna",
+   "2 rkl oliiviöljyä",
+   "1 rkl sokeria",
+   "1½ tl mustapippuria",
+   "1½ tl paprikajauhetta",
+   "1 tl suolaa",
+   "½ tl juustokuminaa",
+   "1 laakerinlehti",
+   "1,2 dl rusinoita",
+   "mustia oliiveja",
+   "kovaksi keitettyä kananmunaa, kuutioituna"
+  ],
+  "instructions": [
+   "Taikina: liuota suola veteen. Sekoita munat, jauhot, voi ja 2,5 dl suolavettä taikinaksi. Vaivaa ja lisää vettä vähitellen, kunnes taikina on pehmeää ja joustavaa. Jos taikina tarttuu, lisää jauhoja.",
+   "Anna taikinan levätä hetki ja kauli se 2–3 mm paksuiseksi. Leikkaa 10–15 cm:n kiekkoja.",
+   "Argentiinalainen täyte: kuullota sipuli öljyssä isolla pannulla, lisää jauheliha ja ruskista. Mausta suolalla, sokerilla ja mausteilla ruskistamisen aikana. Nosta liedeltä ja lisää rusinat sekä halutessasi oliivit, kananmuna tai peruna.",
+   "Chileläinen täyte: kuullota sipulit oliiviöljyssä, lisää valkosipuli ja ruskista jauheliha. Lisää suola, sokeri, mausteet ja laakerinlehti ja hauduta noin 20 minuuttia. Poista laakerinlehti ja lisää oliivit ja rusinat.",
+   "Nosta kiekon keskelle 1–2 rkl täytettä. Chileläisiin empanadoihin lisätään täytteen viereen pala kananmunaa.",
+   "Kostuta kiekon reuna kylmällä vedellä ja taita kiekko puoliksi niin, ettei sisään jää ilmaa.",
+   "Sulje reuna nipistämällä ja kiertämällä pieni pala kerrallaan koko reunan matkalta. Reunan voi myös painaa kiinni haarukalla.",
+   "Friteeraa empanadat keskikuumassa öljyssä kullanruskeiksi, tai voitele ne sulatetulla voilla ja paista 200-asteisessa uunissa 8–10 minuuttia, kunnes ne ovat vaaleanruskeita.",
+   "Anna jäähtyä hetki ennen syömistä."
+  ]
+ },
+ {
+  "id": "wikibooks-enchiladas-rojas",
+  "title": "Enchiladas rojas",
+  "description": "Tortillat kastetaan ancho-chili-tomaattikastikkeeseen, paistetaan, täytetään chorizolla ja juustolla ja paistetaan uunissa kastikkeen alla.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "makkara",
+   "meksikolainen",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "6 kuivattua ancho-chiliä",
+   "2,5–5 dl kiehuvaa vettä",
+   "6 tomaattia, kuorittuna, siemenet poistettuina ja pilkottuina (tai 5 dl säilyketomaatteja, valutettuina)",
+   "1,2 dl sipulikuutioita",
+   "1 tl hienonnettua valkosipulia",
+   "½ tl kuivattua epazotea, murennettuna",
+   "sokeria",
+   "suolaa",
+   "¼ tl mustapippuria",
+   "5 rkl oliiviöljyä",
+   "2 kananmunaa",
+   "2,5 dl kuohukermaa tai ruokakermaa",
+   "6 chorizomakkaraa (n. 350 g), kuorittuina ja pilkottuina",
+   "2,5 dl murennettua queso blancoa tai raastettua parmesaania",
+   "12 maissitortillaa",
+   "1,2 dl kevätsipulia, hienonnettuna"
+  ],
+  "instructions": [
+   "Liota chilejä kiehuvassa vedessä 30 minuuttia.",
+   "Poista käsineet kädessä chileistä kannat ja siemenet ja pilko ne.",
+   "Soseuta chilit ja 2,5 dl liotusvettä tehosekoittimessa.",
+   "Lisää tomaatit, sipuli, valkosipuli, epazote, sokeri, suola ja pippuri ja soseuta sileäksi.",
+   "Kuumenna 1 rkl öljyä pannulla kovalla lämmöllä, kaada kastike pannulle ja keitä 5 minuuttia usein sekoittaen. Nosta liedeltä.",
+   "Vatkaa munat ja kerma ja kaada seos ohuena nauhana kastikkeeseen jatkuvasti sekoittaen. Peitä ja nosta sivuun.",
+   "Paista makkaraa toisella pannulla keskilämmöllä noin 5 minuuttia kevyesti ruskeaksi. Valuta talouspaperilla ja kaada rasva pois.",
+   "Sekoita makkaraan 3 rkl kastiketta ja puolet juustosta. Kuumenna uuni 175 asteeseen.",
+   "Kuumenna loput öljystä paksupohjaisella pannulla. Kasta tortilla kastikkeeseen ja paista minuutti kummaltakin puolelta. Nosta lämpimälle lautaselle, lusikoi keskelle noin ½ dl täytettä ja kääri rullalle. Toista kaikilla tortilloilla.",
+   "Asettele rullat uunivuokaan sauma alaspäin ja kaada loput kastikkeesta päälle.",
+   "Ripottele pinnalle kevätsipuli ja loput juustosta.",
+   "Paista noin 15 minuuttia, kunnes juusto on sulanut ja pinta kevyesti ruskistunut."
+  ]
+ },
+ {
+  "id": "wikibooks-english-breakfast",
+  "title": "Englantilainen aamiainen",
+  "description": "Täysi englantilainen aamiainen: pekonia, makkaraa, kananmunia, tomaattia, sieniä, paahtoleipää ja halutessa uunipapuja. Ohjeessa kevyempi grillattu versio ja perinteinen paistettu versio.",
+  "servings": 4,
+  "totalTimeMin": 35,
+  "category": "Aamiainen",
+  "tags": [
+   "aamiainen",
+   "kananmuna",
+   "pekoni",
+   "makkara",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "4 viipaletta pekonia (mieluiten savustettua, vähärasvaista)",
+   "4 kananmunaa",
+   "4 englantilaista porsaanmakkaraa",
+   "4 keskikokoista tomaattia, puolitettuna",
+   "400 g herkkusieniä, viipaloituna",
+   "4–8 viipaletta vaaleaa leipää",
+   "1 tlk (400 g) uunipapuja tomaattikastikkeessa (valinnainen)",
+   "voita",
+   "rypsiöljyä"
+  ],
+  "instructions": [
+   "Grillattu versio: kuumenna uunin grillivastus keskiteholle ja grillaa makkaroita 10–15 minuuttia usein käännellen.",
+   "Kuumenna paistinpannussa noin 1 cm vettä kiehuvaksi, riko munat veteen ja alenna lämpö hyvin hiljaiselle. Valele munien pintaa vedellä, kunnes valkuainen on hyytynyt ja keltuainen vielä pehmeä. Nosta reikäkauhalla.",
+   "Lisää tomaatit grillivastuksen alle makkaroiden viereen noin 6 minuutiksi.",
+   "Lämmitä pavut kattilassa noin 5 minuuttia.",
+   "Paista sienet pienessä määrässä öljyä pehmeiksi noin 4 minuutissa.",
+   "Grillaa pekonia 2 minuuttia kummaltakin puolelta tai pidempään, jos haluat sen rapeampana. Paahda leivät samalla.",
+   "Annostele munat, pekoni, sienet, makkarat, tomaatit ja pavut kuumille lautasille. Tarjoa paahtoleivät erikseen voin ja hillon kanssa sekä maitoteetä.",
+   "Perinteinen paistettu versio: paahda ja voitele leivät ensin ja lämmitä lautaset uunin miedolla lämmöllä. Ruskista makkarat kuumassa rasvassa, alenna lämpöä ja paista noin 4 minuuttia. Lisää pekoni ja paista kypsäksi käännellen, nosta lämpimään uuniin.",
+   "Paista sienet ja tomaatit samassa rasvassa 2–4 minuuttia ja nosta uuniin. Lämmitä pavut erikseen.",
+   "Siirrä makkarat pannun reunalle, riko munat rasvaan ja valele kuumaa rasvaa keltuaisen päälle noin minuutin ajan. Kokoa annokset lautasille ja tarjoa voideltujen paahtoleipien kanssa."
+  ],
+  "notes": [
+   "Halutessasi voit paistaa mustan makkaran (black pudding) pekonin kanssa ja leipäviipaleen jäljelle jääneessä rasvassa."
+  ]
+ },
+ {
+  "id": "wikibooks-english-field-bean-pate",
+  "title": "Härkäpapupatee",
+  "description": "Liotetut ja keitetyt kuivatut härkäpavut survotaan oliiviöljyn, valkosipulin ja yrttien kanssa tahnaksi, joka tarjotaan paahtoleivän kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "cookTimeMin": 60,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "pavut",
+   "kasvis",
+   "vegaaninen",
+   "levite",
+   "brittiläinen"
+  ],
+  "ingredients": [
+   "250 g kuivattuja härkäpapuja",
+   "1,5 dl oliiviöljyä",
+   "suolaa",
+   "mustapippuria",
+   "1 iso valkosipulinkynsi, hienonnettuna",
+   "1 tl hienonnettua timjamia, salviaa tai rosmariinia"
+  ],
+  "instructions": [
+   "Liota papuja vedessä yön yli.",
+   "Keitä pavut runsaassa suolaamattomassa vedessä noin tunti pehmeiksi. Valuta.",
+   "Muussaa pavut haarukalla, survo huhmareessa tai paseeraa siivilän läpi.",
+   "Sekoita joukkoon oliiviöljy, suola, pippuri, yrtit ja valkosipuli. Jos tahna on liian jäykkää, lisää sitruunamehua, vettä tai öljyä.",
+   "Jäähdytä ja tarjoa paahtoleivän kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-english-pea-salad",
+  "title": "Englantilainen hernesalaatti",
+  "description": "Säilykeherneet sekoitetaan majoneesin, kovaksi keitetyn kananmunan ja sipulin kanssa kylmäksi lisukesalaatiksi.",
+  "servings": 3,
+  "servingsEstimated": true,
+  "totalTimeMin": 40,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kasvis",
+   "lisuke",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 tlk (425 g) herneitä",
+   "1–2 rkl majoneesia",
+   "1–2 rkl hienonnettua sipulia (valinnainen)",
+   "1 kovaksi keitetty kananmuna",
+   "suolaa",
+   "mustapippuria",
+   "persiljaa koristeluun (valinnainen)"
+  ],
+  "instructions": [
+   "Halutessasi ryöppää sipulisilppu pienessä vesimäärässä, jotta maku miedontuu. Valuta ja jäähdytä.",
+   "Valuta herneet, huuhtele ne kevyesti siivilässä ja laita kulhoon.",
+   "Pilko kananmuna noin 0,5 cm:n paloiksi. Halutessasi survo keltuainen ja sekoita se majoneesiin.",
+   "Lisää kananmuna, sipuli ja majoneesi herneisiin ja sekoita kevyesti.",
+   "Mausta suolalla ja pippurilla.",
+   "Jäähdytä jääkaapissa vähintään 30 minuuttia. Tarjoa kylmänä lisukkeena, pinnalla hieman persiljaa."
+  ]
+ },
+ {
+  "id": "wikibooks-english-style-aged-cheese",
+  "skip": "juustonvalmistusohje (19 l pastöroimatonta maitoa, puristin ja 60 päivän kypsytys), ei ateriaresepti"
+ },
+ {
+  "id": "wikibooks-ensalada-de-pallares-peruvian-lima-bean-salad",
+  "title": "Ensalada de pallares (perulainen limapapusalaatti)",
+  "description": "Isot kuivatut limapavut keitetään pehmeiksi ja sekoitetaan sinappisen vinegretin, punasipulin, tomaatin ja persiljan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "pavut",
+   "kasvis",
+   "vegaaninen",
+   "perulainen"
+  ],
+  "ingredients": [
+   "500 g kuivattuja isoja limapapuja (voipapuja)",
+   "vettä",
+   "suolaa",
+   "2,4 dl oliiviöljyä",
+   "2–3 tl valkoviinietikkaa",
+   "1 rkl dijonsinappia",
+   "mustapippuria",
+   "1 punasipuli, hienoksi kuutioituna",
+   "2 tomaattia, siemenet poistettuina ja kuutioituna",
+   "muutama persiljanoksa, hienonnettuna"
+  ],
+  "instructions": [
+   "Liota papuja yön yli tai vähintään 6 tuntia ja vaihda vesi 2–3 kertaa.",
+   "Keitä pavut ilman suolaa runsaassa vedessä. Kuori vaahto kiehumisen alettua, alenna lämpöä ja hauduta noin tunti. Kypsymisaika riippuu papujen kuivuudesta.",
+   "Kun pavut ovat pulleita ja pehmeitä, valuta ne. Keitinliemen voi säästää keittoa varten.",
+   "Suolaa pavut kevyesti ja anna niiden jäähtyä sillä aikaa, kun teet vinegretin.",
+   "Sekoita oliiviöljy, etikka, sinappi, suola, pippuri, punasipuli ja tomaatit.",
+   "Kun pavut ovat huoneenlämpöisiä, tarkista vinegretin maku – sen pitää olla hieman voimakkaampaa kuin luulisi.",
+   "Sekoita vinegretti varovasti papuihin ja lisää persilja. Koristele pinta persiljalla ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-ensalada-rusa-uruguayan-potato-salad",
+  "title": "Ensalada rusa (uruguaylainen perunasalaatti)",
+  "description": "Yksinkertainen salaatti keitetyistä peruna-, porkkana- ja hernekuutioista majoneesilla.",
+  "servings": 3,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "peruna",
+   "kasvis",
+   "lisuke",
+   "uruguaylainen"
+  ],
+  "ingredients": [
+   "2 isoa perunaa, kuutioituna",
+   "2,4 dl herneitä",
+   "2 porkkanaa, kuutioituna",
+   "1,2–1,8 dl majoneesia",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Keitä kasvikset erikseen kypsiksi mutta ei liian pehmeiksi.",
+   "Anna jäähtyä kokonaan.",
+   "Sekoita joukkoon majoneesi, suola ja pippuri.",
+   "Tarjoa lisukkeena."
+  ]
+ },
+ {
+  "id": "wikibooks-entula-ugandan-eggplant-stew",
+  "title": "Entula (ugandalainen munakoisopata)",
+  "description": "Munakoisoa, tomaattia, paprikaa, porkkanaa, kesäkurpitsaa ja perunaa haudutetaan currylla, juustokuminalla ja korianterilla maustetussa liemessä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "afrikkalainen",
+   "pata",
+   "peruna"
+  ],
+  "ingredients": [
+   "2 isoa munakoisoa, kuutioituna",
+   "2,4 dl tomaattikuutioita",
+   "2,4 dl sipulikuutioita",
+   "2,4 dl paprikakuutioita",
+   "2,4 dl porkkanakuutioita",
+   "2,4 dl kesäkurpitsakuutioita",
+   "2,4 dl perunakuutioita",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 cm pala inkivääriä, raastettuna",
+   "2 rkl rypsiöljyä",
+   "1 rkl currya",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "½ tl kurkumaa",
+   "½ tl chilijauhetta (valinnainen)",
+   "5 dl kasvislientä tai vettä",
+   "suolaa",
+   "mustapippuria",
+   "korianteria tai persiljaa koristeluun"
+  ],
+  "instructions": [
+   "Kuumenna öljy isossa kattilassa keskilämmöllä ja kuullota sipulit.",
+   "Lisää valkosipuli ja inkivääri ja paista minuutti, kunnes ne tuoksuvat.",
+   "Lisää munakoiso, tomaatit, paprika, porkkana, kesäkurpitsa ja peruna ja sekoita.",
+   "Ripottele mausteet kasvisten päälle ja mausta suolalla ja pippurilla.",
+   "Kaada joukkoon liemi tai vesi, kiehauta ja alenna lämpö.",
+   "Hauduta kannen alla 20–25 minuuttia, kunnes kasvikset ovat pehmeitä.",
+   "Tarkista maku ja tarjoa kuumana, pinnalla tuoretta korianteria tai persiljaa."
+  ]
+ },
+ {
+  "id": "wikibooks-ertesuppe-pea-soup",
+  "title": "Ertesuppe (norjalainen hernekeitto)",
+  "description": "Keltaisista kuivatuista herneistä keitetty paksu keitto, johon lisätään keitettyä savustettua porsaanlapaa, sipulia ja timjamia.",
+  "servings": 12,
+  "totalTimeMin": 120,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "hernekeitto",
+   "liha",
+   "sianliha",
+   "norjalainen"
+  ],
+  "ingredients": [
+   "450 g kuivattuja keltaisia herneitä",
+   "2,8 l vettä",
+   "1–1,4 kg savustettua porsaanlapaa",
+   "1 iso keltasipuli, kuorittuna ja hienonnettuna",
+   "1 tl mustapippuria",
+   "1 tl suolaa",
+   "¼ tl timjamia"
+  ],
+  "instructions": [
+   "Liota herneitä yön yli noin litrassa kylmää vettä.",
+   "Lisää liotusveteen 1,8 l vettä ja keitä herneet hiljalleen pehmeiksi.",
+   "Keitä savulapaa toisessa kattilassa noin 1½ tuntia kiloa kohden.",
+   "Leikkaa liha pieniksi kuutioiksi ja lisää hernekeittoon.",
+   "Lisää sipuli sekä puolet suolasta ja pippurista. Tarkista maku ja lisää timjami.",
+   "Keitä yhdessä vähintään 5 minuuttia. Jos keitto on liian paksua, ohenna lihan keitinliemellä; jos liian ohutta, keitä pidempään."
+  ]
+ }
+]

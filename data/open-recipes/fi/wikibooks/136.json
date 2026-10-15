@@ -1,0 +1,756 @@
+[
+ {
+  "id": "wikibooks-sydney-smiths-salad-dressing",
+  "title": "Sydney Smithin salaatinkastike",
+  "description": "Vanha englantilainen salaatinkastike, jossa keitetyt perunat ja kovaksi keitetyt keltuaiset sidotaan sinapin, öljyn, etikan ja anjoviskastikkeen kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "salaatinkastike",
+   "brittiläinen",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 keitettyä perunaa",
+   "1 rkl sinappia",
+   "2 tl suolaa",
+   "4 rkl oliiviöljyä",
+   "2 rkl etikkaa",
+   "2 kovaksi keitetyn kananmunan keltuaista, survottuna",
+   "1 rkl hienonnettua sipulia",
+   "1 rkl anjoviskastiketta"
+  ],
+  "instructions": [
+   "Paseeraa perunat siivilän tai perunapuristimen läpi.",
+   "Sekoita perunoihin muut ainekset ja sekoita tasaiseksi."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa suolaa on 2 lusikallista; vähennä määrää maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-beef-curry",
+  "title": "Sylhetiläinen naudanlihacurry",
+  "description": "Bangladeshilainen naudanlihacurry, jossa liha haudutetaan pitkään kokonaisten mausteiden, tomaatin ja hapokkaan hatkora-sitruksen kanssa.",
+  "servings": 4,
+  "totalTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "naudanliha",
+   "curry",
+   "bangladeshilainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "½ hatkora-sitrushedelmää (Citrus macroptera), paloina",
+   "500 g naudanlihaa, kuutioituna",
+   "2 sipulia, hienonnettuna",
+   "3 rkl rypsiöljyä",
+   "2 rkl inkivääri-valkosipulitahnaa",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "½ tl kurkumaa",
+   "½ tl chilijauhetta",
+   "2 tomaattia, pilkottuna",
+   "2 vihreää chiliä, halkaistuna",
+   "2 laakerinlehteä",
+   "4–5 neilikkaa",
+   "4–5 viherkardemummaa",
+   "1 kanelitanko",
+   "suolaa",
+   "tuoretta korianteria koristeluun"
+  ],
+  "instructions": [
+   "Kuumenna öljy isossa paksupohjaisessa pannussa keskilämmöllä.",
+   "Lisää neilikat, kardemummat, kanelitanko ja laakerinlehdet ja paista minuutti, kunnes ne tuoksuvat.",
+   "Lisää sipulit ja paista kullanruskeiksi.",
+   "Lisää inkivääri-valkosipulitahna ja paista 2 minuuttia, kunnes raaka tuoksu häviää.",
+   "Lisää lihakuutiot ja ruskista ne joka puolelta.",
+   "Lisää juustokumina, korianteri, kurkuma ja chilijauhe ja paahda pari minuuttia.",
+   "Lisää hatkora, tomaatit ja vihreät chilit. Kypsennä, kunnes tomaatit ovat pehmenneet ja öljy alkaa erottua.",
+   "Lisää vettä niin, että liha peittyy, mausta suolalla ja kiehauta.",
+   "Alenna lämpö, laita kansi päälle ja hauduta 1½–2 tuntia, kunnes liha on mureaa.",
+   "Koristele korianterilla ja tarjoa kuumana riisin tai naanin kanssa."
+  ],
+  "notes": [
+   "Hatkoraa saa aasialaisista kaupoista pakasteena. Sen voi korvata limetin kuorella ja mehulla."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-biryani",
+  "title": "Sylhetiläinen biryani",
+  "description": "Basmatiriisi ja liha kypsennetään yhdessä gheessä paahdettujen kokonaisten mausteiden kanssa ja viimeistellään kewra- ja ruusuvedellä.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "kana",
+   "bangladeshilainen",
+   "intialainen"
+  ],
+  "ingredients": [
+   "4,8 dl basmatiriisiä",
+   "1 sipuli, ohuina viipaleina",
+   "1 rkl gheetä",
+   "¼ tl kokonaisia juustokuminansiemeniä",
+   "½ rkl inkivääri-valkosipulitahnaa",
+   "4 viherkardemummaa",
+   "2 cm pala kanelitankoa, paloiksi murrettuna",
+   "2 laakerinlehteä",
+   "5 neilikkaa",
+   "6 mustapippuria",
+   "suolaa",
+   "4–5 vihreää chiliä",
+   "1 tl kewravettä (kewra-aromia)",
+   "1 tl ruusuvettä",
+   "500 g kanaa, lammasta tai naudanlihaa, paloina"
+  ],
+  "instructions": [
+   "Huuhtele riisi huolellisesti ja liota sitä vedessä noin 30 minuuttia. Valuta.",
+   "Kuumenna ghee isossa paksupohjaisessa kattilassa keskilämmöllä.",
+   "Lisää juustokumina, inkivääri-valkosipulitahna, sipuli, kardemummat, kaneli, laakerinlehdet, neilikat ja pippurit. Paista, kunnes sipuli on kullanruskeaa.",
+   "Lisää liha ja paista, kunnes se ei ole enää pinnalta raakaa.",
+   "Lisää valutettu riisi ja sekoita niin, että se peittyy mausteilla.",
+   "Kaada joukkoon noin 9,5 dl vettä niin, että riisi peittyy, ja mausta suolalla.",
+   "Kiehauta, alenna lämpö pienelle, laita kansi päälle ja hauduta 15–20 minuuttia, kunnes riisi on kypsää ja vesi imeytynyt. Varmista, että liha on kypsää.",
+   "Viillä chileihin halkiot sillä aikaa.",
+   "Nosta liedeltä ja anna hautua kannen alla muutama minuutti.",
+   "Tarjoa kuumana chilien kanssa, pirskottele pinnalle kewravettä ja ruusuvettä."
+  ],
+  "notes": [
+   "Lähteessä lihan määrää ei ole annettu; 500 g sopii neljälle. Kana kypsyy riisin aikana, mutta lammas ja naudanliha kannattaa esikypsentää."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-doner-kebab",
+  "title": "Sylhetiläinen döner kebab",
+  "description": "Ohuet lihasuikaleet marinoidaan jogurtissa, valkosipulissa, mausteissa ja hatkorassa, grillataan vartaissa ja tarjoillaan pitaleivässä kasvisten ja kastikkeen kanssa.",
+  "servings": 4,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "grilli",
+   "bangladeshilainen",
+   "kebab"
+  ],
+  "ingredients": [
+   "500 g luutonta kanaa, lammasta tai naudanlihaa, ohuina suikaleina",
+   "2 rkl maustamatonta jogurttia",
+   "2 rkl rypsiöljyä",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 pieni sipuli, hienonnettuna",
+   "1 tl hatkoraa (Citrus macroptera), hienonnettuna",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "1 tl paprikajauhetta",
+   "suolaa",
+   "mustapippuria",
+   "4 pitaleipää",
+   "salaattia, tomaattia ja sipulia viipaleina",
+   "valkosipuli-, tomaatti- tai tulista naga-kastiketta tarjoiluun"
+  ],
+  "instructions": [
+   "Sekoita jogurtti, öljy, valkosipuli, sipuli, hatkora, mausteet, suola ja pippuri marinadiksi.",
+   "Lisää lihasuikaleet ja sekoita hyvin. Marinoi jääkaapissa peitettynä vähintään tunti.",
+   "Kuumenna grilli tai grillipannu keskikovalle lämmölle.",
+   "Pujota liha vartaisiin.",
+   "Grillaa 10–15 minuuttia välillä käännellen, kunnes liha on kypsää ja pinnalta paahtunut.",
+   "Lämmitä pitaleivät grillissä.",
+   "Irrota liha vartaista, täytä leivät lihalla ja kasviksilla ja lisää kastiketta. Kääri rullalle ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-fried-rice",
+  "title": "Sylhetiläinen paistettu riisi",
+  "description": "Yksinkertainen tapa käyttää edellisen päivän keitetty riisi: paistetaan sipulin kanssa rapeaksi ja viimeistellään korianterilla ja mintulla.",
+  "servings": 4,
+  "totalTimeMin": 15,
+  "category": "Lisukkeet",
+  "tags": [
+   "riisi",
+   "lisuke",
+   "kasvis",
+   "vegaaninen",
+   "nopea",
+   "bangladeshilainen"
+  ],
+  "ingredients": [
+   "4,8 dl keitettyä riisiä (vähintään 12 tuntia jääkaapissa jäähtynyttä)",
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna (valinnainen)",
+   "suolaa",
+   "tuoretta korianteria ja minttua koristeluun"
+  ],
+  "instructions": [
+   "Kuumenna öljy isolla pannulla tai wokissa keskilämmöllä.",
+   "Kuullota sipuli läpikuultavaksi.",
+   "Lisää riisi ja sekoita.",
+   "Mausta suolalla – huomioi, että riisi voi olla jo suolattua.",
+   "Paista muutama minuutti välillä sekoittaen, kunnes riisi on kuumaa ja alkaa rapeutua.",
+   "Nosta liedeltä ja koristele korianterilla ja mintulla."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-handesh",
+  "title": "Handesh (sylhetiläiset riisijauholeivokset)",
+  "description": "Taatelisiirapista tai melassista ja riisijauhoista vaivattu taikina muotoillaan pieniksi kiekoiksi ja friteerataan pulleiksi ja kullanruskeiksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "bangladeshilainen",
+   "friteerattu",
+   "gluteeniton",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "2,4 dl taatelisiirappia, melassia tai sokeria",
+   "4,8 dl riisijauhoja",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita siirappi ja riisijauhot kulhossa ja vaivaa sileäksi, notkeaksi taikinaksi. Jos taikina on liian kuivaa, lisää hieman vettä.",
+   "Kuumenna öljy syvässä kattilassa keskikovalla lämmöllä.",
+   "Muotoile taikinasta pieniä, kämmenen kokoisia pyöreitä tai soikeita kiekkoja.",
+   "Liu'uta kiekot varovasti kuumaan öljyyn ja paista, kunnes ne pullistuvat ja muuttuvat kullanruskeiksi.",
+   "Nosta talouspaperille valumaan.",
+   "Anna jäähtyä hetki. Tarjoa lämpiminä tai huoneenlämpöisinä."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-onion-and-rice-fritters",
+  "title": "Sylhetiläiset sipuli-riisijauhorinkelit",
+  "description": "Sipuli ja inkivääri soseutetaan ja keitetään kiehuvan veden ja riisijauhojen kanssa tahnaksi, joka vaivataan, kaulitaan, leikataan paloiksi ja friteerataan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "välipala",
+   "friteerattu",
+   "bangladeshilainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 keskikokoista sipulia, pilkottuna",
+   "1 peukalonpään kokoinen pala inkivääriä",
+   "1 valkosipulinkynsi",
+   "5,7 dl kiehuvaa vettä",
+   "suolaa",
+   "kurkumaa",
+   "panch phoron -mausteseosta (valinnainen)",
+   "300 g riisijauhoja",
+   "120 g riisirouhetta",
+   "hienonnettua korianteria (valinnainen)",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Soseuta sipulit, inkivääri ja valkosipuli ja laita ne kattilaan kiehuvan veden kanssa.",
+   "Mausta suolalla ja kurkumalla, halutessasi myös panch phoronilla ja korianterilla.",
+   "Sekoita joukkoon riisijauhot ja riisirouhe, kunnes seos on pehmeää, kuohkeaa tahnaa.",
+   "Kun tahna on kypsynyt, nosta se kattilasta ja anna jäähtyä.",
+   "Vaivaa tahna jauhotetulla alustalla taikinaksi.",
+   "Kauli tai painele taikina litteäksi ja leikkaa paloiksi.",
+   "Friteeraa palat kuumassa öljyssä kullanruskeiksi, valuta talouspaperilla ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-sylheti-rice-pudding",
+  "skip": "liian puutteellinen: keittonesteen määrä ei riitä riisin kypsentämiseen (maito valinnainen)"
+ },
+ {
+  "id": "wikibooks-sylheti-tangy-curry",
+  "title": "Sylhetiläinen hapokas tomaatticurry",
+  "description": "Yksinkertainen curry, jossa tomaatit kypsennetään runsaan valkosipulin ja sipulitahnan kanssa ja ohennetaan kiehuvalla vedellä.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "curry",
+   "kasvis",
+   "vegaaninen",
+   "bangladeshilainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 kg tomaatteja, pilkottuna",
+   "3 rkl rypsiöljyä",
+   "1,2 dl valkosipulia, hienonnettuna",
+   "1,2 dl sipulitahnaa (soseutettua sipulia)",
+   "suolaa",
+   "½ tl kurkumaa",
+   "5 dl kiehuvaa vettä"
+  ],
+  "instructions": [
+   "Kuumenna öljy isolla pannulla.",
+   "Lisää valkosipuli ja paista, kunnes se tuoksuu.",
+   "Lisää sipulitahna ja paista kullanruskeaksi.",
+   "Lisää tomaatit ja kypsennä, kunnes ne pehmenevät ja öljy alkaa erottua.",
+   "Mausta kurkumalla ja suolalla.",
+   "Kaada joukkoon kiehuva vesi ja hauduta, kunnes curry on sopivan paksua."
+  ]
+ },
+ {
+  "id": "wikibooks-szegedin-goulash",
+  "title": "Szegediniläinen gulassi",
+  "description": "Unkarilainen porsaanlihapata, jossa liha haudutetaan paprikan, tomaatin ja hapankaalin kanssa ja viimeistellään smetanalla.",
+  "servings": 4,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "sianliha",
+   "pata",
+   "unkarilainen"
+  ],
+  "ingredients": [
+   "100 g laardia (tai 3 rkl rypsiöljyä)",
+   "600 g porsaan lapaa, suupaloiksi kuutioituna",
+   "1 iso sipuli, hienonnettuna",
+   "1–2 rkl tomaattipyreetä",
+   "1½ tl paprikajauhetta",
+   "5–7 dl vettä tai lihalientä",
+   "2 laakerinlehteä",
+   "1–2 valkosipulinkynttä, hienonnettuna",
+   "suolaa",
+   "mustapippuria",
+   "700 g hapankaalia",
+   "1,25 dl smetanaa"
+  ],
+  "instructions": [
+   "Kuumenna laardi padassa, lisää liha ja paista noin 3 minuuttia. Nosta liha lautaselle.",
+   "Paista sipuli samassa padassa kullanruskeaksi.",
+   "Sekoita joukkoon tomaattipyree ja paprikajauhe ja lisää tilkka vettä tai lientä. Lisää liha, laakerinlehdet ja valkosipuli, kaada loput nesteestä ja mausta suolalla ja pippurilla. Alenna lämpöä ja hauduta noin 30 minuuttia.",
+   "Lisää hapankaali ja hauduta vielä 40 minuuttia.",
+   "Sekoita smetana huolellisesti joukkoon ja tarjoa lämpimiltä lautasilta."
+  ]
+ },
+ {
+  "id": "wikibooks-tabbouleh-i",
+  "title": "Tabbouleh",
+  "description": "Libanonilainen bulgursalaatti, jossa on runsaasti persiljaa, tomaattia ja paprikaa sekä sitruunainen oliiviöljykastike.",
+  "servings": 8,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kasvis",
+   "vegaaninen",
+   "libanonilainen",
+   "bulgur"
+  ],
+  "ingredients": [
+   "2,4 dl bulguria (keskikarkeaa)",
+   "1,2 dl oliiviöljyä",
+   "1,2 dl sitruunamehua",
+   "1 rkl suolaa",
+   "mustapippuria",
+   "1 nippu persiljaa",
+   "½ vihreää paprikaa (valinnainen)",
+   "½ punaista paprikaa (valinnainen)",
+   "viipaloituja mustia oliiveja (valinnainen)",
+   "ripaus muskottipähkinää (valinnainen)",
+   "2–3 kypsää tomaattia"
+  ],
+  "instructions": [
+   "Kaada bulgurin päälle kiehuvaa vettä niin, että se peittyy, ja anna seistä 5 minuuttia. Valuta.",
+   "Sekoita bulguriin sitruunamehu, öljy, suola ja pippuri. Laita jääkaappiin siksi aikaa, kun pilkot kasvikset.",
+   "Poista paprikoista siemenet ja hienonna ne.",
+   "Poista persiljasta paksuimmat varret ja hienonna.",
+   "Halutessasi kuori tomaatit: upota ne kiehuvaan veteen 20 sekunniksi, huuhtele kylmällä ja vedä kuoret pois.",
+   "Lohko tomaatit, poista siemenet ja hienonna.",
+   "Sekoita kasvikset, oliivit ja muskotti bulguriin.",
+   "Anna maustua jääkaapissa vähintään 4 tuntia."
+  ]
+ },
+ {
+  "id": "wikibooks-tabbouleh-ii",
+  "skip": "lähes sama resepti kuin aiempi tabbouleh"
+ },
+ {
+  "id": "wikibooks-tabbouleh-iii",
+  "skip": "lähes sama resepti kuin aiempi tabbouleh; osa määristä puuttuu"
+ },
+ {
+  "id": "wikibooks-tabbouleh-iv",
+  "title": "Minttu-tabbouleh",
+  "description": "Tabbouleh-muunnelma, jossa bulgurin kanssa on persiljaa, tuoretta minttua, tomaattia, kevätsipulia ja raastettua sipulia.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 80,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kasvis",
+   "vegaaninen",
+   "libanonilainen",
+   "bulgur"
+  ],
+  "ingredients": [
+   "2,4 dl keskikarkeaa bulguria",
+   "2,4 dl persiljaa, hienonnettuna",
+   "1,2 dl tuoretta minttua, hienonnettuna",
+   "1 iso tomaatti, kuorittuna, siemenet poistettuina ja kuutioituna",
+   "2,4 dl kevätsipulia",
+   "1 keskikokoinen sipuli, karkeaksi raastettuna",
+   "1 dl ekstra-neitsytoliiviöljyä",
+   "1,2 dl sitruunamehua",
+   "ripaus suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Liota bulguria vedessä 15 minuuttia. Valuta ja purista siitä mahdollisimman paljon vettä pois.",
+   "Hienonna kevätsipulien valkoinen osa pieneksi ja vihreät osat hieman karkeammin.",
+   "Sekoita isossa kulhossa bulgur, tomaatti, kevätsipulit, raastettu sipuli, persilja ja minttu.",
+   "Vatkaa öljy ja sitruunamehu ja kaada salaatille. Mausta suolalla ja pippurilla.",
+   "Anna maustua jääkaapissa noin tunti. Käytä vain tuoretta minttua."
+  ]
+ },
+ {
+  "id": "wikibooks-tabbouleh-vi",
+  "skip": "lähes sama resepti kuin aiemmat tabbouleh-ohjeet"
+ },
+ {
+  "id": "wikibooks-table-point-boiled-beef-and-vegetables-tafelspitz",
+  "title": "Tafelspitz (itävaltalainen keitetty naudanliha)",
+  "description": "Naudanlihapala haudutetaan hiljalleen suolatussa vedessä valkosipulin, katajanmarjojen, porkkanan, sipulin ja persiljan kanssa mureaksi. Tarjoillaan omena-piparjuurikastikkeen ja kasvisten kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 180,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "naudanliha",
+   "itävaltalainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "1,2 kg naudan rintaa, paahtopaistia tai ulkofilettä",
+   "3 valkosipulinkynttä, kevyesti murskattuna ja kuorittuna",
+   "3 vihreää tai valkoista pippuria",
+   "2 katajanmarjaa (tai 1 laakerinlehti)",
+   "3 keskikokoista porkkanaa (n. 110 g), kuorittuna",
+   "1 pieni sipuli kuorineen, puolitettuna",
+   "3 persiljanoksaa",
+   "suolaa"
+  ],
+  "instructions": [
+   "Täytä noin 5 litran paksupohjainen kattila vedellä, suolaa ja kiehauta keskilämmöllä.",
+   "Kun vesi kiehuu, lisää liha, valkosipuli, pippurit ja katajanmarjat ja laita kansi päälle.",
+   "Kun vesi kiehuu uudelleen, lisää porkkanat, sipuli ja persilja. Hauduta kannen alla 60 minuuttia.",
+   "Käännä liha, lisää suolaa ja hauduta kannen alla vielä 90 minuuttia.",
+   "Sammuta lämpö ja anna lihan hautua liemessä 20 minuuttia.",
+   "Nosta liha liemestä ja leikkaa syitä vastaan viipaleiksi.",
+   "Tarjoa omena-piparjuurikastikkeen (apfelkren) sekä raakojen ja keitettyjen kasvisten kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-taboon-bread",
+  "title": "Taboon-leipä",
+  "description": "Palestiinalainen litteä leipä, joka paistetaan kuumien kivien päällä uunissa, jolloin pintaan jää tyypilliset kuopat.",
+  "servings": 10,
+  "totalTimeMin": 90,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "palestiinalainen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "4,8 dl vehnäjauhoja",
+   "2,4 dl täysjyvävehnäjauhoja",
+   "1 tl suolaa",
+   "1 tl kuivahiivaa",
+   "1 rkl oliiviöljyä",
+   "n. 4 dl kädenlämpöistä vettä"
+  ],
+  "instructions": [
+   "Sekoita kuivat ainekset.",
+   "Lisää oliiviöljy ja vaivaa joukkoon vähitellen sen verran vettä, että syntyy taikina. Vaivaa 10 minuuttia.",
+   "Jaa taikina palloiksi ja anna kohota noin tunti.",
+   "Ripottele jauhoja työtasolle ja kauli pallot litteiksi pyöreiksi leiviksi.",
+   "Kuumenna uuni, jossa on pellillä tai vuoassa kerros sileitä, puhtaita rantakiviä, 200 asteeseen.",
+   "Nosta leivät kivien päälle ja paista noin 8 minuuttia, kunnes pintaan tulee kuplia.",
+   "Tarjoa kuumana."
+  ],
+  "notes": [
+   "Kivien sijaan voi käyttää leivinkiveä tai kuumaa uunipeltiä."
+  ]
+ },
+ {
+  "id": "wikibooks-taco-casserole",
+  "title": "Tacovuoka",
+  "description": "Maustettu jauheliha, tortillapalat ja juustoraaste sekoitetaan uunivuokaan ja paistetaan.",
+  "servings": 6,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "jauheliha",
+   "meksikolainen",
+   "uuniruoka",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "450 g naudan jauhelihaa",
+   "1 ps tacomaustetta",
+   "3 rkl chilijauhetta",
+   "3 rkl valkosipulijauhetta",
+   "225 g tomaattikastiketta",
+   "3 tortillaa, paloiksi revittynä",
+   "7 dl juustoraastetta"
+  ],
+  "instructions": [
+   "Ruskista jauheliha paistinpannulla keskilämmöllä.",
+   "Valuta rasva pois ja palauta liha pannulle.",
+   "Sekoita joukkoon tacomauste, chilijauhe, valkosipulijauhe ja tomaattikastike.",
+   "Hauduta 5 minuuttia välillä sekoittaen. Kuumenna uuni 190 asteeseen.",
+   "Sekoita jauhelihaseos, tortillapalat ja juusto uunivuoassa.",
+   "Paista 20 minuuttia ja tarjoa kuumana."
+  ],
+  "notes": [
+   "Alkuperäinen chili- ja valkosipulijauheen määrä on suuri; aloita pienemmästä määrästä."
+  ]
+ },
+ {
+  "id": "wikibooks-taco-meat",
+  "title": "Tacojauheliha",
+  "description": "Jauheliha ruskistetaan sipulin kanssa ja haudutetaan tomaatin, chilin, oreganon ja juustokuminan kanssa tacojen täytteeksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "jauheliha",
+   "meksikolainen",
+   "nopea",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "450 g naudan tai kalkkunan jauhelihaa",
+   "1 keskikokoinen sipuli, hienonnettuna (tai 1½ tl sipulijauhetta)",
+   "1 keskikokoinen tomaatti, pilkottuna (tai 1 pieni tlk tomaattikastiketta)",
+   "1 tl chilijauhetta",
+   "1 tl oreganoa",
+   "¼ tl juustokuminaa",
+   "ripaus mustapippuria"
+  ],
+  "instructions": [
+   "Ruskista jauheliha ja sipuli yhdessä. Valuta rasva pois.",
+   "Lisää muut ainekset ja sekoita hyvin.",
+   "Kuumenna seos huolellisesti. Lisää tomaattikastiketta, jos seos on kuivaa.",
+   "Hauduta kannen alla 20 minuuttia, tai lyhyemmin, jos seos alkaa kuivua."
+  ]
+ },
+ {
+  "id": "wikibooks-taco-salad",
+  "title": "Tacosalaatti",
+  "description": "Täyttävä salaatti, jossa on paistettua kanaa ja kidneypapuja, tomaattia, salaattia, juustoa, avokadoa ja tortillalastuja.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "kana",
+   "pavut",
+   "meksikolainen"
+  ],
+  "ingredients": [
+   "450 g luutonta kanaa, kuutioituna",
+   "1 tlk (400 g) kidneypapuja, valutettuna",
+   "½ tl suolaa",
+   "1 tl chilijauhetta",
+   "1 rkl rypsiöljyä",
+   "1 keskikokoinen sipuli, pilkottuna",
+   "3 keskikokoista tomaattia, kuutioituna",
+   "450 g jäävuorisalaattia (n. ½ isoa kerää), pilkottuna",
+   "110 g cheddarjuustoa, raastettuna",
+   "2,4 dl thousand island -salaatinkastiketta",
+   "½ dl salsaa (picante-kastiketta)",
+   "1 iso avokado, kuorittuna ja viipaloituna",
+   "340 g maissilastuja"
+  ],
+  "instructions": [
+   "Kuumenna öljy isolla pannulla, kunnes se alkaa savuta.",
+   "Paista kanakuutioita keskikovalla lämmöllä usein sekoittaen 2–3 minuuttia, kunnes ne ruskistuvat.",
+   "Lisää pavut, suola ja chilijauhe. Alenna lämpöä ja hauduta 10 minuuttia, kunnes kana on kypsää.",
+   "Pilko tomaatit, sipuli ja salaatti ja raasta juusto.",
+   "Sekoita ne salaattikulhossa kastikkeen ja salsan kanssa.",
+   "Lisää avokado ja murskatut maissilastut.",
+   "Sekoita kana ja pavut kylmän salaatin joukkoon.",
+   "Koristele lastuilla, avokadolla ja tomaatilla ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-taco-sauce",
+  "title": "Tacokastike",
+  "description": "Kotitekoinen tomaattipohjainen tacokastike, joka maustetaan chilillä, cayennepippurilla, valkosipulilla ja etikalla.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 40,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "meksikolainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 tl cayennepippuria",
+   "2 tl suolaa",
+   "1½ rkl chilijauhetta",
+   "3 rkl väkiviinaetikkaa (5 %)",
+   "170 g tomaattipyreetä",
+   "½ tl valkosipulijauhetta",
+   "2¼ tl maissitärkkelystä",
+   "7 dl vettä"
+  ],
+  "instructions": [
+   "Kuumenna vesi kiehuvaksi ja lisää maissitärkkelys, suola, etikka, chilijauhe, valkosipulijauhe ja cayennepippuri.",
+   "Sekoita, kunnes vesi kiehuu uudelleen, ja lisää tomaattipyree.",
+   "Sekoita, kunnes kastike kiehuu ja pyree on liuennut kokonaan.",
+   "Alenna lämpöä ja hauduta kannettomana 20–30 minuuttia.",
+   "Säilytä jääkaapissa enintään 3 päivää."
+  ]
+ },
+ {
+  "id": "wikibooks-tacos",
+  "skip": "liian puutteellinen (määrät puuttuvat)"
+ },
+ {
+  "id": "wikibooks-tadka-dhal-spiced-lentil-curry-i",
+  "title": "Tadka dhal (punaiset linssit)",
+  "description": "Punaiset linssit haudutetaan tomaatin, sipulin, valkosipulin, inkiväärin ja mausteiden kanssa pehmeäksi currymaiseksi dhaliksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 50,
+  "category": "Pääruoat",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "linssit",
+   "intialainen",
+   "curry"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "4 keskikokoista sipulia (n. 400 g), mahdollisimman hienoksi hienonnettuna",
+   "1 pieni chili",
+   "2 isoa valkosipulinkynttä, hienonnettuna",
+   "1 pala inkivääriä (valkosipulin kokoinen), hienonnettuna",
+   "250 g punaisia linssejä",
+   "3 tlk (á 400 g) tomaattimurskaa",
+   "1 kasvisliemikuutio",
+   "vettä tarpeen mukaan",
+   "12 kardemummaa",
+   "1 tl garam masalaa",
+   "1 tl paprikajauhetta",
+   "mustapippuria",
+   "¼ tl sinapinsiemeniä",
+   "tuoretta chiliä maun mukaan"
+  ],
+  "instructions": [
+   "Kuullota sipulit öljyssä kattilassa rauhassa pehmeiksi.",
+   "Lisää loput ainekset luettelon järjestyksessä: chili, valkosipuli, inkivääri, linssit, tomaattimurska, liemikuutio, tarvittaessa vettä ja mausteet.",
+   "Laita kansi päälle ja hauduta välillä sekoittaen, kunnes linssit ovat haluamasi pehmeyden mukaan kypsiä, noin 30 minuuttia. Lisää vettä, jos seos paksuuntuu liikaa."
+  ],
+  "notes": [
+   "Lähteessä öljyä ei mainita; lisäsimme sen sipulien kuullottamista varten."
+  ]
+ },
+ {
+  "id": "wikibooks-tadka-dhal-spiced-lentil-curry-ii",
+  "title": "Tadka dhal (mung-linssit)",
+  "description": "Mung-dhal keitetään pehmeäksi ja maustetaan lopuksi öljyssä paahdetuilla sinapin-, juustokuminan- ja sarviapilansiemenillä, curry-lehdillä, sipulilla, valkosipulilla ja tomaatilla.",
+  "servings": 2,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "linssit",
+   "intialainen",
+   "curry"
+  ],
+  "ingredients": [
+   "1,2 dl mung-dhalia (halkaistuja mungpapuja), pestynä",
+   "5 dl vettä",
+   "2–3 rkl rypsiöljyä",
+   "3–4 rkl hienonnettua sipulia",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 pieni pala inkivääriä, hienonnettuna (tai ¼ tl inkivääritahnaa)",
+   "4–5 curry-lehteä",
+   "¼ tl sinapinsiemeniä",
+   "¼ tl juustokuminansiemeniä",
+   "¼ tl sarviapilansiemeniä",
+   "¼ tl asafetidaa (valinnainen)",
+   "1–2 tomaattia, kahdeksaan lohkoon leikattuna",
+   "1–2 vihreää chiliä, pituussuunnassa halkaistuna",
+   "¼ tl kurkumaa",
+   "¼ tl chilijauhetta",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Keitä dhal vedessä kannettomassa kattilassa keskilämmöllä, kunnes se on hyvin pehmeää, 30–60 minuuttia. Lisää vettä, jos se kuivuu, ja sekoita välillä. Painekattilassa aika on 10–12 minuuttia.",
+   "Kuumenna öljy pannulla ja lisää sinapinsiemenet – varo roiskeita.",
+   "Lisää juustokumina, sarviapila, curry-lehdet, vihreät chilit ja sipuli.",
+   "Kun sipuli on läpikuultavaa, lisää valkosipuli ja inkivääri ja alenna lämpöä, kunnes valkosipuli tummuu hieman. Älä anna sen karamellisoitua. Lisää kurkuma, chilijauhe ja asafetida.",
+   "Lisää tomaatit ja paista 2–3 minuuttia. Kaada joukkoon keitetty dhal ja mausta suolalla.",
+   "Hauduta välillä sekoittaen 5–10 minuuttia, kunnes tomaatit pehmenevät.",
+   "Tarjoa riisin tai chapatien kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-tagliatelle-bake",
+  "title": "Uunitagliatelle",
+  "description": "Tuore tagliatelle kerrostetaan jauheliha-tomaattikastikkeen, mozzarellan, kerman ja parmesaanin kanssa ja paistetaan uunissa kullanruskeaksi.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "jauheliha",
+   "italialainen",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "500 g tuoretta tagliatellea",
+   "5 rkl oliiviöljyä",
+   "1 sipuli, hienonnettuna",
+   "½ porkkanaa, hienonnettuna",
+   "1 varsi selleriä, hienonnettuna",
+   "200 g naudan jauhelihaa",
+   "1 kourallinen persiljaa, hienonnettuna",
+   "1 dl valkoviiniä",
+   "1 tlk (400 g) tomaattimurskaa",
+   "200 g parmesaania, raastettuna",
+   "200 g mozzarellaa, kuutioituna",
+   "2 dl kuohukermaa",
+   "muskottipähkinää",
+   "muutama basilikanlehti",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen (kiertoilma 160 astetta).",
+   "Kuumenna 3 rkl öljyä isossa pannussa. Kypsennä sipuli, porkkana ja selleri miedolla lämmöllä pehmeiksi ruskistamatta.",
+   "Lisää jauheliha ja ruskista se murennellen.",
+   "Lisää persilja ja valkoviini ja keitä 5 minuuttia.",
+   "Mausta ja lisää tomaattimurska. Hauduta miedolla lämmöllä 30 minuuttia välillä sekoittaen.",
+   "Keitä pasta runsaassa suolatussa vedessä al denteksi ja valuta.",
+   "Voitele uunivuoka loppuöljyllä ja levitä pohjalle ohut kerros kastiketta. Lisää puolet pastasta, puolet mozzarellasta, puolet kastikkeesta, puolet kermasta ja puolet parmesaanista.",
+   "Tee toinen kerros loppupastasta, -mozzarellasta, -kastikkeesta ja -kermasta ja peitä parmesaanilla ja raastetulla muskottipähkinällä.",
+   "Paista noin 30 minuuttia, kunnes pinta on kullanruskea. Anna jäähtyä muutama minuutti.",
+   "Koristele basilikalla ja tarjoa."
+  ]
+ }
+]

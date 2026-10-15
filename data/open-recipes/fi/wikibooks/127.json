@@ -1,0 +1,809 @@
+[
+ {
+  "id": "wikibooks-southwestern-black-beans-and-rice",
+  "title": "Mustapavut ja riisi lounaisvaltioiden tapaan",
+  "description": "Nopea arkiruoka: mustapavut lämmitetään tomaatin, vihreän chilin ja juustokuminan kanssa ja tarjotaan riisin päällä.",
+  "servings": 4,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kasvis",
+   "vegaaninen",
+   "riisi",
+   "nopea",
+   "meksikolainen",
+   "palkokasvit"
+  ],
+  "ingredients": [
+   "5 dl keitettyä riisiä",
+   "1 tlk (400 g) mustapapuja, valutettuina",
+   "1 tlk (300 g) tomaattikuutioita",
+   "1–2 vihreää chiliä, hienonnettuna",
+   "½ tl juustokuminaa"
+  ],
+  "instructions": [
+   "Yhdistä kattilassa pavut, tomaatit, chili ja juustokumina.",
+   "Kuumenna läpikotaisin.",
+   "Tarjoa kuuman riisin päällä."
+  ],
+  "notes": [
+   "Alkuperäisessä reseptissä käytetään valmista tomaatti–vihreä chili -säilykettä (esim. Ro-Tel)."
+  ]
+ },
+ {
+  "id": "wikibooks-southwestern-dip",
+  "title": "Chipotledippi",
+  "description": "Savuisen tulinen dippi kermaviilistä ja adobokastikkeessa säilötyistä chipotle-chileistä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "dippi",
+   "kasvis",
+   "meksikolainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl kermaviiliä",
+   "3 chipotle-chiliä adobokastikkeessa, hienonnettuna",
+   "2 rkl adobokastiketta",
+   "suolaa",
+   "mustapippuria",
+   "¼ tl vastajauhettua juustokuminaa"
+  ],
+  "instructions": [
+   "Vispaa kaikki ainekset tarjoilukulhossa sekaisin.",
+   "Tarjoa tortillalastujen tai muiden naposteltavien kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-southwestern-scramble",
+  "title": "Tex-mex-munakokkeli",
+  "description": "Pehmeä munakokkeli punasipulin, jalapeñon ja vihreän paprikan kanssa.",
+  "servings": 4,
+  "totalTimeMin": 15,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "kasvis",
+   "nopea",
+   "meksikolainen"
+  ],
+  "ingredients": [
+   "8 kananmunaa",
+   "2 rkl maitoa",
+   "voita, margariinia tai paistosuihketta pannulle",
+   "1 keskikokoinen punasipuli, hienonnettuna",
+   "1 keskikokoinen vihreä chili (esim. jalapeño), siemenet poistettuina ja hienonnettuna",
+   "1 vihreä paprika, siemenet poistettuina ja suikaloituna",
+   "suolaa",
+   "mustapippuria",
+   "tulista kastiketta (esim. Tabasco) tarjoiluun"
+  ],
+  "instructions": [
+   "Riko munat isoon kulhoon, lisää maito ja vatkaa tasaiseksi.",
+   "Kuumenna iso paistinpannu keskilämmöllä ja sulata rasva. Lisää sipuli, chili ja paprika ja kuullota 2–4 minuuttia.",
+   "Kaada munat pannulle ja anna kypsyä 30 sekunnista minuuttiin, kunnes ne alkavat juuri hyytyä.",
+   "Nosta lämpö korkeaksi ja ala sekoittaa kokkelia kaapimalla lastalla pannun pohjaa ja kääntämällä kypsynyttä munaa raa'an joukkoon.",
+   "Kun munat ovat vielä kosteita mutta pääosin kypsiä, nosta pannu liedeltä ja annostele lautasille. Mausta suolalla ja pippurilla.",
+   "Tarjoa heti kuumana tulisen kastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-soy-ginger-barbecue-sauce",
+  "title": "Soija-inkivääri-grillikastike",
+  "description": "Helppo aasialaistyylinen grilli- ja marinadikastike soijasta, hoisinista ja inkivääristä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "vegaaninen",
+   "aasialainen",
+   "grilli",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl soijakastiketta",
+   "2,5 dl hoisinkastiketta",
+   "½ dl riisiviinietikkaa",
+   "3 rkl valkosipulijauhetta",
+   "1 rkl inkiväärijauhetta",
+   "½ dl vastapuristettua sitruunamehua"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset kannelliseen lasipurkkiin.",
+   "Säilytä jääkaapissa. Kastike säilyy yhtä kauan kuin sen ainesosista lyhyimmin säilyvä."
+  ]
+ },
+ {
+  "id": "wikibooks-soy-milk-i",
+  "title": "Kotitekoinen soijamaito",
+  "description": "Soijapavuista liottamalla, soseuttamalla ja keittämällä valmistettu kasvijuoma; sivutuotteena syntyy okaraa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "vegaaninen",
+   "juoma",
+   "soija",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "125 g kuivattuja soijapapuja",
+   "n. 3,5 l vettä"
+  ],
+  "instructions": [
+   "Laita soijapavut ja 1 l vettä kattilaan ja anna liota 8–12 tuntia.",
+   "Irrota liotettujen papujen kuoret hieromalla tai murskaamalla niitä sormien välissä. Kaada ylimääräinen vesi pois. Kuoria voi erotella kaatamalla kulhoon vettä ja kaatamalla sen pois sopivan nopeasti, niin että kuoret lähtevät veden mukana mutta pavut jäävät kulhoon. Muutama kuori ei haittaa.",
+   "Lisää ½ l raikasta vettä ja soseuta kermaiseksi. Lisää vielä ½ l vettä ja soseuta täysin tasaiseksi.",
+   "Kuumenna raaka maito sekoittaen kiehuvaksi, alenna lämpö minimiin, laita kansi päälle ja hauduta 20 minuuttia. Huom! Seos kuohuu helposti yli, joten tarkkaile sitä usein. Kannen raottaminen tai kylmän veden kaataminen kannen päälle vähentää vaahtoa.",
+   "Raa'an maidon kitkerän tuoksun pitäisi nyt olla poissa. Nosta kattila liedeltä ja lisää 1 l kylmää vettä.",
+   "Vuoraa kannu tai iso kulho juustokankaalla niin, että kankaan reunat roikkuvat reunojen yli.",
+   "Kaada keitetty, suodattamaton maito varovasti kankaan läpi. Kokoa kankaan reunat yhteen, nosta pussi ja anna maidon valua astiaan. Kierrä pussia ja purista soijamassaa käsin. Varo polttamasta itseäsi.",
+   "Kun massasta ei enää irtoa merkittävästi maitoa, avaa kangas ja siirrä kuiva, mureneva okara rasiaan. Okara säilyy viileässä enintään 3 päivää, ja sen voi myös pakastaa."
+  ],
+  "notes": [
+   "Valmista soijamaitoa tulee noin 2 litraa. Okaraa voi käyttää esimerkiksi leivonnaisiin ja pihveihin."
+  ]
+ },
+ {
+  "id": "wikibooks-soy-milk-ii",
+  "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi"
+ },
+ {
+  "id": "wikibooks-soy-mustard-lamb-chops",
+  "title": "Soija-sinappimarinoidut lampaankyljykset",
+  "description": "Grillatut lampaankyljykset, joita kastetaan paiston aikana soija-sinappi-hunajamarinadissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 90,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "lammas",
+   "grilli",
+   "juhla"
+  ],
+  "ingredients": [
+   "½ dl soijakastiketta",
+   "2 rkl mietoa oliiviöljyä",
+   "2 tl seesamiöljyä",
+   "2 tl tuoreen rosmariinin lehtiä",
+   "1 rkl ruskeaa sinappia",
+   "1 rkl hunajaa",
+   "8 lampaan kyljystä (2 henkeä kohden)"
+  ],
+  "instructions": [
+   "Sekoita marinadin ainekset keskenään.",
+   "Viillä kyljysten rasvapuoli ja laita kyljykset marinadiin. Marinoi noin 30 minuuttia usein käännellen. Varmista, että marinadia tulee myös reunoille.",
+   "Kuumenna grilli hyvin kuumaksi.",
+   "Nosta kyljykset marinadista (säästä marinadi) ja ruskista toinen puoli 3 minuuttia.",
+   "Nosta kyljykset, kasta ne kummaltakin puolelta marinadiin ja laita takaisin grilliin raaka puoli alaspäin.",
+   "Paista vielä 3 minuuttia, niin että liha ruskistuu.",
+   "Nosta kyljykset, kasta marinadiin ja grillaa minuutti miedommalla lämmöllä kansi suljettuna.",
+   "Toista sama toiselle puolelle ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-soy-protein-bread",
+  "title": "Soijasämpylät",
+  "description": "Pehmeät maitosämpylät, joiden taikinaan on lisätty soijarouhetta proteiiniksi.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "leivonnaiset",
+   "kasvis",
+   "soija"
+  ],
+  "ingredients": [
+   "30 g tuorehiivaa",
+   "2 kananmunaa",
+   "2,5 dl rypsiöljyä",
+   "7 dl maitoa",
+   "1 rkl sokeria",
+   "1 rkl suolaa",
+   "2,5 dl soijarouhetta",
+   "n. 1 kg vehnäjauhoja (noin 19 dl)"
+  ],
+  "instructions": [
+   "Kuumenna maito lähes kiehuvaksi ja lisää suola ja soijarouhe. Sekoita, kunnes suola on liuennut. Anna jäähtyä kädenlämpöiseksi.",
+   "Laita maitoseos ja muut ainekset hiivaa myöten tehosekoittimeen ja sekoita muutama sekunti tasaiseksi.",
+   "Kaada seos kulhoon ja alusta joukkoon jauhoja vähitellen, niin että taikina pysyy koko ajan tasaisena.",
+   "Vaivaa taikinaa käsin ja pidä se sileänä. Lisää tarvittaessa jauhoja. Jatka, kunnes taikina ei enää tartu.",
+   "Anna kohota lämpimässä noin 25 minuuttia.",
+   "Muotoile taikinasta pieniä, noin 2,5 cm:n levyisiä ja puolet siitä korkeita sämpylöitä.",
+   "Asettele sämpylät uunipellille väljästi ja anna kohota vielä 15 minuuttia.",
+   "Kuumenna uuni 200 asteeseen ja laita pelti uunin keskitasolle.",
+   "Paista noin 20 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-soy-sauce-chicken",
+  "title": "Soijakana",
+  "description": "Kiinalaistyylinen kotiruoka: ruskistetut kanan palat haudutetaan soijakastikkeessa, riisiviinissä ja inkiväärissä, kunnes liemi on lähes haihtunut.",
+  "servings": 3,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "kiinalainen",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "n. 600 g broilerin koipia tai siipiä",
+   "2 kevätsipulia, paloiteltuina",
+   "1 rkl ruokaöljyä",
+   "2–3 rkl soijakastiketta",
+   "2–3 rkl riisiviiniä (shaoxing)",
+   "1 rkl inkivääriä, hienonnettuna",
+   "enintään 1 rkl sokeria",
+   "vettä"
+  ],
+  "instructions": [
+   "Paista kanan palat pannulla kevätsipulin ja öljyn kanssa, kunnes pinta on ruskea.",
+   "Lisää soijakastike, riisiviini, inkivääri ja sokeri. Lisää vettä niin, että kana peittyy.",
+   "Hauduta ilman kantta miedolla lämmöllä, kunnes suurin osa nesteestä on haihtunut ja kana on kypsää."
+  ],
+  "notes": [
+   "Kanan, kevätsipulin ja inkiväärin määrät on arvioitu; alkuperäinen ohje ei kerro niitä."
+  ]
+ },
+ {
+  "id": "wikibooks-space-cake",
+  "skip": "sisältää kannabista (huumausaine), ei ruokaresepti tässä käytössä"
+ },
+ {
+  "id": "wikibooks-spaetzle",
+  "title": "Spätzle",
+  "description": "Eteläsaksalaiset munataikinasta valmistetut pienet pastanyytit, joita tarjotaan lisukkeena tai juuston kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "pasta",
+   "saksalainen",
+   "kasvis",
+   "lisuke"
+  ],
+  "ingredients": [
+   "500 g vehnäjauhoja",
+   "5 kananmunaa",
+   "1,5–2 dl vettä",
+   "suolaa"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset käsin tai sähkövatkaimella.",
+   "Lisää vettä sen verran, että taikina on hieman tahmeaa mutta silti joustavaa ja jäykkää.",
+   "Vatkaa taikinaa niin kauan, että siihen nousee ilmakuplia.",
+   "Kiehauta iso kattilallinen suolalla maustettua vettä.",
+   "Jos käytät leikkuulautaa, levitä lusikallinen taikinaa lautaselle ja raaputa siitä veitsellä tai kaapimella pieniä paloja kiehuvaan veteen. Jos käytät spätzle-raastinta, laita siihen lusikallinen taikinaa ja painele se reikien läpi veteen. Spätzlet ovat kypsiä, kun ne nousevat pintaan.",
+   "Nosta spätzlet reikäkauhalla kevyesti öljyttyyn kulhoon."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-a-la-monegasque",
+  "title": "Spagetti monacolaiseen tapaan",
+  "description": "Spagettia tomaatti-oliivikastikkeessa, jossa on anjovista, kapriksia ja rakuunaa tai basilikaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "kala",
+   "välimerellinen",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 valkosipulinkynttä, kuorittuina",
+   "3 rkl oliiviöljyä",
+   "3 tomaattia, kuorittuina, siemenet poistettuina ja viipaloituina",
+   "2 anjovisfilettä, liotettuina",
+   "1 rkl kapriksia",
+   "½ dl kivettömiä mustia tai vihreitä oliiveja",
+   "3 oksaa tuoretta rakuunaa tai basilikaa (tai 1 tl kuivattua)",
+   "450 g spagettia",
+   "raastettua juustoa"
+  ],
+  "instructions": [
+   "Hauduta kokonaisia valkosipulinkynsiä 2 ruokalusikallisessa oliiviöljyä. Lisää tomaattiviipaleet ja kypsennä.",
+   "Liuota anjovikset erikseen pienessä kattilassa 1 ruokalusikalliseen oliiviöljyä. Sekoita joukkoon kaprikset, oliivit ja rakuuna tai basilika. Yhdistä tomaatti- ja oliiviseokset.",
+   "Keitä spagetti isossa kattilassa suolalla maustetussa vedessä. Valuta ja palauta kattilaan.",
+   "Lisää tomaatti-oliiviseos pastaan ja sekoita. Hauduta 3–4 minuuttia ja tarjoa heti.",
+   "Tarjoa raastettu juusto erikseen annoksille ripoteltavaksi."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-aglio-e-olio",
+  "title": "Spaghetti aglio e olio",
+  "description": "Italialainen klassikko: spagettia valkosipulilla maustetussa oliiviöljyssä, mustapippuria ja persiljaa.",
+  "servings": 1,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "italialainen",
+   "vegaaninen",
+   "nopea"
+  ],
+  "ingredients": [
+   "100–150 g spagettia",
+   "1–2 valkosipulinkynttä",
+   "oliiviöljyä",
+   "mustapippuria",
+   "lehtipersiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Keitä spagetti runsaasti suolatussa vedessä al denteksi.",
+   "Kuori valkosipulinkynnet ja murskaa ne kevyesti kämmenpohjalla.",
+   "Kuumenna pannulla 2–3 mm kerros oliiviöljyä. Lisää valkosipuli ja kypsennä kullankeltaiseksi. Älä anna valkosipulin tummua liikaa, sillä se muuttuu kitkeräksi.",
+   "Nosta valkosipuli öljystä.",
+   "Valuta spagetti ja lisää se pannulle öljyn joukkoon.",
+   "Mausta pippurilla, sekoita ja tarjoa persiljan kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-alla-carbonara",
+  "title": "Spaghetti alla carbonara",
+  "description": "Roomalainen carbonara guancialesta tai pancettasta, keltuaisista, pecorinosta ja parmesaanista – ilman kermaa.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "italialainen",
+   "liha",
+   "kananmuna"
+  ],
+  "ingredients": [
+   "450 g spagettia",
+   "225–500 g guancialea tai pancettaa",
+   "5 keltuaista",
+   "1,8 dl raastettua pecorino romanoa",
+   "1,8 dl raastettua parmesaania",
+   "3–4 rkl oliiviöljyä",
+   "½ rkl vastajauhettua mustapippuria",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kuutioi guanciale tai pancetta 2,5 cm:n paloiksi.",
+   "Kiehauta iso kattilallinen vettä ja suolaa se, kun se alkaa kiehua.",
+   "Keitä spagetti al denteksi ja säästä 2,5 dl keitinvettä.",
+   "Kuumenna sillä välin oliiviöljy isossa pannussa keskikovalla lämmöllä. Kun öljy on kuumaa, lisää pancetta ja paista miedolla lämmöllä noin 10 minuuttia, kunnes suurin osa rasvasta on sulanut, mutta liha on vielä sitkeää ja vain hieman ruskistunutta.",
+   "Vispaa kulhossa noin 1,2 dl keitinvettä hitaasti keltuaisten joukkoon. Lisää juustoraaste ja sekoita huolellisesti haarukalla.",
+   "Valuta spagetti ja siirrä se heti pannulle pancettan kanssa. Sekoita ja sammuta lämpö.",
+   "Lisää muna-juustoseos pastaan ja sekoita samalla joukkoon loput keitinvedestä, jotta kastike ohenee ja emulgoituu.",
+   "Lisää pippuri ja sekoita, kunnes pasta on kauttaaltaan kastikkeen peitossa."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-alla-puttanesca",
+  "title": "Spaghetti alla puttanesca",
+  "description": "Napolilaista spagettia tulisessa tomaattikastikkeessa, jossa on anjovista, oliiveja, kapriksia ja valkosipulia.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "italialainen",
+   "kala",
+   "tomaatti"
+  ],
+  "ingredients": [
+   "600 g spagettia",
+   "50 g voita",
+   "3 rkl oliiviöljyä",
+   "115 g suolattomia anjovisfileitä, tahnaksi murskattuina (jätä pois napolilaisesta versiosta)",
+   "5 valkosipulinkynttä, hienonnettuna",
+   "200 g kivettömiä mustia oliiveja, hienonnettuina",
+   "2 rkl suolattuja kapriksia, hyvin huuhdottuina ja karkeasti hienonnettuina",
+   "1–3 pientä kuivattua chiliä, hienonnettuna (valinnainen)",
+   "900 g luumutomaatteja, kuorittuina ja soseutettuina",
+   "2 rkl hienonnettua persiljaa",
+   "suolaa"
+  ],
+  "instructions": [
+   "Laita voi, oliiviöljy, valkosipuli ja anjovistahna paistinpannuun keskilämmölle.",
+   "Ennen kuin valkosipuli ruskistuu, lisää oliivit, kaprikset, tomaattisose ja chili.",
+   "Lisää 2–3 hyppysellistä suolaa ja sekoita kovalla lämmöllä.",
+   "Keitä sillä välin spagetti suolalla maustetussa vedessä (vähintään 4 l vettä 450 grammaa pastaa kohden). Valuta, kun pasta on al dente.",
+   "Laita pasta isoon tarjoilukulhoon ja sekoita kastike joukkoon. Ripottele päälle persilja.",
+   "Sekoita ja tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-and-beans",
+  "skip": "ainesmäärät puuttuvat, liian puutteellinen valmistettavaksi"
+ },
+ {
+  "id": "wikibooks-spaghetti-and-meatballs",
+  "title": "Spagetti ja lihapullat",
+  "description": "Amerikanitalialainen klassikko: mehevät naudan- ja porsaanlihapullat tomaattikastikkeessa spagetin kera.",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "liha",
+   "italialainen",
+   "juhla"
+  ],
+  "ingredients": [
+   "Pasta:",
+   "3 rkl suolaa",
+   "5,75 l vettä",
+   "450 g spagettia",
+   "Lihapullat:",
+   "900 g naudan jauhelihaa",
+   "900 g porsaan jauhelihaa",
+   "340 g maustettua korppujauhoa",
+   "2,4 dl raastettua parmesaania tai pecorino romanoa",
+   "1,8 dl tuoretta persiljaa, hienonnettuna",
+   "4 kananmunaa",
+   "1½ rkl hienonnettua valkosipulia",
+   "½ tl valkosipulijauhetta",
+   "½ tl sipulijauhetta",
+   "½ tl mustapippuria",
+   "½ tl suolaa",
+   "oliiviöljyä",
+   "3 valkosipulinkynttä",
+   "Kastike:",
+   "½ tl chilihiutaleita",
+   "4 valkosipulinkynttä, murskattuina tai hienonnettuina",
+   "1 pieni sipuli, hienonnettuna",
+   "2,4 dl lihalientä",
+   "800 g tomaattimurskaa",
+   "1 kourallinen hienonnettua lehtipersiljaa",
+   "10 tuoretta basilikanlehteä, revittyinä tai suikaloituina"
+  ],
+  "instructions": [
+   "Täytä suurin kattilasi 5,75 litralla vettä, lisää 3 rkl suolaa ja laita kattila kuumenemaan kovalle lämmölle.",
+   "Yhdistä jauhelihat, korppujauho, juustoraaste, persilja ja kevyesti vatkatut munat (lisää munat yksi kerrallaan sekoittaen). Ripottele päälle hienonnettu valkosipuli, 2 rkl oliiviöljyä ja mausteet ja sekoita tasaiseksi.",
+   "Muotoile taikinasta lihapullia jäätelökauhalla tai käsin. Paina vain sen verran, että liha pysyy koossa – liian tiiviistä pullista tulee sitkeitä ja kuivia.",
+   "Kuumenna paksupohjaisessa paistinpannussa oliiviöljyä keskimiedolla lämmöllä. Lisää kokonaiset valkosipulinkynnet ja kääntele niitä, kunnes ne saavat väriä kauttaaltaan. Painele ne öljyyn ja nosta pois, kun ne ovat ruskistuneet.",
+   "Kun öljy on kuumaa, lisää lihapullat pannulle noin 4 cm:n välein, jotta niitä on helppo käännellä. Käännä niitä usein lastalla tai isolla lusikalla, jotta ne eivät tartu. Öljyä pitää olla pannussa noin 1 cm.",
+   "Kun pullat ovat ruskistuneet joka puolelta, nosta ne talouspaperille valumaan. Paista seuraava erä samoin, kunnes kaikki pullat ovat kypsiä.",
+   "Lisää pasta kiehuvaan veteen ja keitä al denteksi, noin 12 minuuttia.",
+   "Lisää lihapullien paistoöljyyn chilihiutaleet, valkosipuli ja sipuli. Kuullota 5–7 minuuttia, kunnes sipuli on pehmeää. Lisää liemi, tomaattimurska ja yrtit. Kiehauta ja hauduta noin 10 minuuttia.",
+   "Sekoita kuuma, valutettu pasta muutamaan kauhalliseen kastiketta. Kääntele lihapullat lopussa kastikkeessa.",
+   "Annostele pasta lautasille. Nosta päälle lihapullia ja kastiketta ja ripottele päälle juustoraastetta."
+  ],
+  "notes": [
+   "Lihapullia tulee runsaasti suhteessa pastaan; ylimääräiset pullat voi pakastaa."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-bake",
+  "title": "Spagettivuoka",
+  "description": "Kerroksellinen uunivuoka spagetista, kermaisesta juustotäytteestä ja jauheliha-tomaattikastikkeesta.",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "liha",
+   "uuniruoka",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "450 g kalkkunan tai naudan jauhelihaa",
+   "½ sipuli, hienonnettuna",
+   "1 prk (730 g) valmista pastakastiketta",
+   "2 tl italialaista yrttisekoitusta",
+   "225 g tuorejuustoa",
+   "5 dl raejuustoa",
+   "1,2 dl kevytkermaviiliä",
+   "500 g spagettia",
+   "2 rkl korppujauhoja",
+   "1,2 dl parmesaania raastettuna",
+   "paistosuihketta"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen.",
+   "Ruskista jauheliha sipulin kanssa. Kun liha on kypsää, sekoita joukkoon pastakastike ja yrttimauste.",
+   "Sekoita tuorejuusto, raejuusto ja kermaviili tasaiseksi.",
+   "Keitä spagetti pakkauksen ohjeen mukaan.",
+   "Suihkuta noin 3 litran uunivuokaan paistosuihketta.",
+   "Levitä puolet spagetista vuoan pohjalle.",
+   "Lusikoi juustoseos spagetin päälle.",
+   "Levitä loput spagetista juustoseoksen päälle.",
+   "Levitä lihakastike toisen spagettikerroksen päälle.",
+   "Sekoita korppujauho ja parmesaani ja ripottele pinnalle.",
+   "Paista 30 minuuttia, kunnes vuoka kuplii ja on kuuma läpikotaisin."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-pie",
+  "title": "Spagettipiirakka",
+  "description": "Uunissa paistettu spagettipohja, jonka päällä on ricottakerros, jauhelihakastike ja mozzarellaa.",
+  "servings": 8,
+  "totalTimeMin": 70,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "liha",
+   "uuniruoka",
+   "italialainen"
+  ],
+  "ingredients": [
+   "115 g spagettia",
+   "2 rkl voita + vuoan voiteluun",
+   "2 valkosipulinkynttä",
+   "1 kananmuna",
+   "2 rkl korppujauhoja",
+   "125 g parmesaania raastettuna",
+   "2 rkl rypsiöljyä",
+   "½ sipuli, hienonnettuna",
+   "225 g naudan jauhelihaa",
+   "1 tlk (400 g) tomaattimurskaa",
+   "3 rkl tomaattipyreetä",
+   "1 rkl tuoretta basilikaa, hienonnettuna",
+   "Täyte:",
+   "275 g ricottaa",
+   "1 kananmuna",
+   "1 tl kuivattua oreganoa",
+   "180 g mozzarellaa raastettuna"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen. Voitele uunivuoka.",
+   "Katko spagetti 5 cm:n paloiksi.",
+   "Keitä spagetti al denteksi.",
+   "Valuta pasta ja siirrä se kulhoon. Sekoita joukkoon voi ja murskattu valkosipuli.",
+   "Lisää pastaan 1 kananmuna, puolet korppujauhoista ja parmesaani ja sekoita tasaiseksi.",
+   "Kaada pastaseos vuokaan ja ripottele päälle loput korppujauhot.",
+   "Paista 20 minuuttia, kunnes pinta on vaaleanruskea.",
+   "Kuumenna sillä välin öljy pannulla keskilämmöllä.",
+   "Lisää sipuli ja kypsennä 3 minuuttia välillä sekoittaen.",
+   "Lisää jauheliha ja ruskista sitä mureneksi hajottaen noin 7 minuuttia.",
+   "Poista ylimääräinen rasva pannulta.",
+   "Lisää tomaattimurska ja tomaattipyree ja sekoita.",
+   "Lisää basilika ja anna hautua miedolla lämmöllä sillä aikaa, kun teet täytteen.",
+   "Vatkaa kulhossa ricotta, kananmuna ja oregano tasaiseksi.",
+   "Ota pastapohja uunista ja levitä ricottaseos sen päälle.",
+   "Kaada päälle jauhelihakastike ja ripottele pinnalle mozzarella.",
+   "Paista 25 minuuttia, kunnes pinta on ruskistunut.",
+   "Leikkaa 8 palaksi ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-sauce",
+  "title": "Yksinkertainen tomaattikastike spagetille",
+  "description": "Nopea tomaattikastike passatasta, oreganosta ja basilikasta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "vegaaninen",
+   "tomaatti",
+   "nopea",
+   "italialainen"
+  ],
+  "ingredients": [
+   "920 g tomaattisosetta (passata)",
+   "1 tl kuivattua oreganoa",
+   "2 tl kuivattua basilikaa",
+   "½ tl suolaa",
+   "säilykeherkkusieniä viipaleina (valinnainen)",
+   "kypsää jauhelihaa tai pihvinpaloja (valinnainen, voi lisätä myös pöydässä)"
+  ],
+  "instructions": [
+   "Jotta yrtit maistuvat paremmin, jauha ne huhmareessa suolan kanssa – suola auttaa jauhamisessa. Jos jätät vaiheen väliin, lisää yrttien määrää. Voit myös tuplata yrtit makusi mukaan.",
+   "Sekoita kaikki ainekset kattilassa.",
+   "Kuumenna kiehuvaksi sekoittaen, ettei kastike pala pohjaan.",
+   "Nosta heti liedeltä ja tarjoa. Kuumana seisova tomaatti menettää makuaan, joten älä viivyttele."
+  ],
+  "notes": [
+   "Kasvisruoka, jos lihaa ei lisätä."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-with-bolognese-meat-sauce",
+  "title": "Spagetti bolognese",
+  "description": "Hitaasti haudutettu ragù kinkusta, naudan jauhelihasta, kasviksista, punaviinistä ja tomaatista.",
+  "servings": 4,
+  "totalTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "liha",
+   "italialainen"
+  ],
+  "ingredients": [
+   "125 g kinkkua tai pekonia, kuutioituna",
+   "450 g naudan jauhelihaa",
+   "1 rkl oliiviöljyä",
+   "2,25 dl karkeasti pilkottua sipulia",
+   "½ dl karkeasti pilkottua selleriä",
+   "½ dl karkeasti pilkottua porkkanaa",
+   "½ dl karkeasti pilkottua fenkolia (valinnainen)",
+   "50 g voita",
+   "2,25 dl säilykeluumutomaatteja",
+   "1,25 dl punaviiniä",
+   "5 dl lihalientä",
+   "½ dl tomaattipyreetä",
+   "1 suikale sitruunankuorta",
+   "1 laakerinlehti",
+   "450 g spagettia, mieluiten durumvehnästä",
+   "2,5 dl vastaraastettua parmesaania tarjoiluun",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Hienonna sipuli, porkkana, selleri ja fenkoli yhdessä hienoksi silpuksi (italiaksi battuto).",
+   "Kuutioi kinkku tai pekoni pieniksi paloiksi ja ruskista paksupohjaisessa pannussa.",
+   "Lisää voi ja anna sen sulaa. Lisää kasvissilppu.",
+   "Kypsennä välillä sekoittaen, kunnes silppu on aivan kevyesti ruskistunut. Siirrä seos paksupohjaiseen kattilaan.",
+   "Kuumenna oliiviöljy samassa pannussa ja ruskista jauheliha hyvin paakkuja rikkoen.",
+   "Lisää liha kattilaan.",
+   "Kaada viini pannuun ja kiehauta kovalla lämmöllä, irrottaen pohjaan tarttuneet ruskistuneet palat.",
+   "Lisää tomaattipyree ja liemi, sekoita tasaiseksi ja kaada kattilaan.",
+   "Valuta ja pilko tomaatit karkeasti ja lisää kattilaan.",
+   "Lisää laakerinlehti ja sitruunankuori. Kiehauta ja alenna lämpö niin, että kastike juuri ja juuri poreilee.",
+   "Hauduta välillä sekoittaen vähintään tunti, kunnes kastike on paksua.",
+   "Mausta suolalla ja pippurilla.",
+   "Kun kastike on valmis, kiehauta isossa kattilassa 4 l vettä.",
+   "Lisää pasta ja sekoita reippaasti, jotta se peittyy vedellä eikä tartu yhteen. Keitä noin 10–12 minuuttia al denteksi.",
+   "Valuta pasta hyvin ja tarjoa heti.",
+   "Poista kastikkeesta laakerinlehti ja sitruunankuori, lusikoi kastike pastan päälle ja anna ruokailijoiden ripotella päälle parmesaania."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-with-clams",
+  "title": "Spagetti simpukoilla (spaghetti alle vongole)",
+  "description": "Spagettia tuoreiden simpukoiden, tomaatin, valkosipulin ja peperoncinon kanssa.",
+  "servings": 6,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "äyriäiset",
+   "italialainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "4 l vettä",
+   "suolaa",
+   "450 g spagettia",
+   "oliiviöljyä",
+   "20 g valkosipulia, hienonnettuna",
+   "1 kg eläviä venus- tai sydänsimpukoita",
+   "225 g kuutioituja luumutomaatteja",
+   "225 g säilykesimpukoita, hyvin huuhdottuina (valinnainen)",
+   "1,2 dl simpukkalientä (valinnainen)",
+   "1 kourallinen persiljaa, hienonnettuna",
+   "peperoncinoa (kuivattua chiliä) tai mustapippuria"
+  ],
+  "instructions": [
+   "Kiehauta vesi isossa kattilassa ruokalusikallisen suolaa kanssa.",
+   "Lisää spagetti, kun vesi kiehuu. Keitä al denteksi, noin 7–8 minuuttia.",
+   "Kaada isoon, leveään pannuun sen verran oliiviöljyä, että pohja juuri peittyy, ja kuumenna.",
+   "Lisää valkosipuli ja peperoncino ja kuullota kullanruskeaksi, noin minuutti. Varo polttamasta valkosipulia.",
+   "Lisää elävät simpukat ja tomaattikuutiot.",
+   "Laita kansi päälle ja kypsennä noin 8 minuuttia. Ravistele pannua noin minuutin välein, jotta simpukat aukeavat. Heitä pois ne, jotka eivät aukea.",
+   "Valuta spagetti ja lisää se pannulle simpukoiden ja tomaattien joukkoon. Alenna lämpöä.",
+   "Lisää säilykesimpukat ja simpukkaliemi.",
+   "Mausta suolalla (ja pippurilla, jos et käyttänyt peperoncinoa) ja sekoita, kunnes pasta on kauttaaltaan tomaatin ja öljyn peitossa. Lisää halutessasi vielä ruokalusikallinen oliiviöljyä.",
+   "Ripottele päälle persilja.",
+   "Tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-with-clams-in-white-wine-sauce",
+  "title": "Spagetti simpukoilla ja valkoviinikastikkeella",
+  "description": "Simpukat haudutetaan valkoviinissä, ja pasta viimeistellään valkosipulilla, chilillä, sitrushedelmien kuorella, persiljalla ja voilla.",
+  "servings": 6,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "äyriäiset",
+   "italialainen"
+  ],
+  "ingredients": [
+   "oliiviöljyä",
+   "225 g simpukoita (esim. venussimpukoita)",
+   "2 valkosipulinkynttä, hienonnettuna tai puristettuna",
+   "1 reilu ripaus chilihiutaleita",
+   "1,2 dl valkoviiniä",
+   "1 sitruunan kuori tai mehu",
+   "½ limetin kuori",
+   "600 g spagettia (n. 100 g/hlö)",
+   "1 kourallinen lehtipersiljaa, hienonnettuna",
+   "30 g suolaista voita"
+  ],
+  "instructions": [
+   "Kiehauta iso kattilallinen vettä. Lisää spagetti ja tarkkaile keittoaikaa, ettei pasta kypsy liikaa.",
+   "Laita simpukat erilliseen pieneen kattilaan valkoviinin kanssa ja hauduta hiljalleen noin 2 minuuttia. Nosta liedeltä.",
+   "Kaada pieneen paistinpannuun reilusti oliiviöljyä ja kuumenna.",
+   "Lisää valkosipuli, chilihiutaleet, persilja ja sitruunankuori. Kuumenna noin 3 minuuttia.",
+   "Lisää noin puolet simpukoiden keitinviinistä.",
+   "Keitä kovalla lämmöllä muutama minuutti, jotta kastike hieman suurustuu.",
+   "Lisää simpukat kastikkeeseen ja sammuta lämpö.",
+   "Kun pasta on kypsää, valuta se ja palauta kattilaan.",
+   "Sekoita voi huolellisesti pastaan, jolloin kastike paksuuntuu hieman.",
+   "Lisää simpukat kastikkeineen pastaan.",
+   "Sekoita huolellisesti simpukoita rikkomatta.",
+   "Tarjoa korkeareunaisista kulhoista ja varmista, että jokainen saa osansa simpukoista."
+  ]
+ },
+ {
+  "id": "wikibooks-spaghetti-with-meat-sauce-naporitan",
+  "title": "Napolitan-spagetti",
+  "description": "Japanilainen kahvilaklassikko: spagetti paistetaan pannulla makkaran, paprikan, sipulin ja ketsupin kanssa.",
+  "servings": 2,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "liha",
+   "japanilainen",
+   "nopea",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "170 g spagettia",
+   "1 vihreä paprika, ohuina suikaleina",
+   "½ pieni sipuli, ohuina viipaleina",
+   "110 g makkaraa tai kinkkua, viipaloituna",
+   "¾ dl ketsuppia",
+   "2 tl voita",
+   "2 tl rypsiöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kiehauta isossa kattilassa noin 2 l vettä ja 2 rkl suolaa. Keitä spagetti pakkauksen ohjeen mukaan.",
+   "Kuumenna sillä välin öljy isossa pannussa ja paista sipulia, paprikaa ja makkaraa keskilämmöllä, kunnes ne ovat pehmenneet. Mausta suolalla ja pippurilla.",
+   "Lisää valutettu spagetti pannulle ja paista sekoitellen muiden ainesten kanssa.",
+   "Lisää ketsuppi ja paista sekoitellen. Sekoita joukkoon voi ja nosta pannu liedeltä."
+  ]
+ },
+ {
+  "id": "wikibooks-spanakopita",
+  "title": "Spanakopita (kreikkalainen pinaattipiirakka)",
+  "description": "Rapeiden filotaikinakerrosten väliin leivottu pinaatti-fetatäyte, jossa on tilliä, persiljaa ja kevätsipulia.",
+  "servings": 8,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "kreikkalainen",
+   "kasvis",
+   "piirakka",
+   "uuniruoka",
+   "juusto"
+  ],
+  "ingredients": [
+   "900 g tuoretta pinaattia tai 580 g pakastepinaattia, sulatettuna ja valutettuna",
+   "1 iso sipuli, hienonnettuna",
+   "½ dl oliiviöljyä",
+   "2,5 dl hienonnettua kevätsipulia",
+   "1,2 dl tuoretta persiljaa, hienonnettuna",
+   "1 rkl tuoretta tilliä, hienonnettuna",
+   "¼ tl vastaraastettua muskottipähkinää",
+   "1 rkl sitruunamehua",
+   "1,8 dl murennettua fetaa",
+   "1,8 dl raejuustoa",
+   "½ dl vastaraastettua parmesaania",
+   "4 kananmunaa, vatkattuna",
+   "12–20 filotaikinalevyä",
+   "1,6 dl kirkastettua voita",
+   "¼ tl vastajauhettua mustapippuria",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen.",
+   "Pese pinaatti, poista isot ruodit ja pilko. Höyrytä kiehuvan veden päällä 2 minuuttia tai kunnes pinaatti on nuutunut. Valuta ja purista neste pois lusikan selällä.",
+   "Kuumenna öljy isossa paistinpannussa. Lisää sipuli ja kuullota keskilämmöllä, kunnes se hieman pehmenee. Lisää kevätsipuli ja kypsennä, kunnes se nuutuu. Nosta liedeltä. Sekoita joukkoon persilja, tilli, muskottipähkinä, suola ja pippuri.",
+   "Lisää juustot, pinaatti ja sitruunamehu ja sekoita. Lisää munat ja sekoita varovasti uudelleen.",
+   "Sivele noin 23 × 30 cm:n uunivuokaan voita. Aseta filolevy vuoan pohjalle niin, että se peittää koko pohjan ja reunat nousevat seinämille. Sivele voilla ja aseta toinen levy päälle. Jatka kerroksia (sivele jokainen levy), kunnes pohjalla on noin 8 levyä.",
+   "Levitä puolet pinaattitäytteestä filon päälle ja tasoita lastalla.",
+   "Peitä täyte 5–8 filolevyllä, jokainen kerros voilla sivellen. Levitä loput täytteestä päälle ja tasoita.",
+   "Peitä 5–8 filolevyllä voilla sivellen. Rullaa yli roikkuvat levyt reunoille ja murenna rikkoutuneet palat pinnalle. Valuta loput voista pinnalle.",
+   "Paista uunin keskitasolla 45 minuuttia tai kunnes piirakka on kohonnut ja kullanruskea. Anna seistä 10 minuuttia ennen leikkaamista ja tarjoilua."
+  ]
+ }
+]

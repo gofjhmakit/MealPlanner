@@ -1,0 +1,921 @@
+[
+ {
+  "id": "wikibooks-gzleme-turkish-flatbread",
+  "title": "Gözleme – turkkilaiset täytetyt lättyleivät",
+  "description": "Ohuet hiivataikinaleivät taitellaan täytteen ympärille ja paistetaan voidellulla parilalla tai valurautapannulla.",
+  "servings": 10,
+  "totalTimeMin": 90,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "turkkilainen",
+   "leipä",
+   "kasvis"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "600 g vehnäjauhoja",
+   "15 g suolaa (2½ tl)",
+   "7 g kuivahiivaa (2 tl)",
+   "1 tl sokeria",
+   "3 dl lämmintä vettä",
+   "1 dl öljyä",
+   "65 g voita",
+   "Täyte (esimerkiksi):",
+   "200 g fetajuustoa, murennettuna",
+   "200 g pinaattia, hienonnettuna",
+   "1 sipuli, hienonnettuna"
+  ],
+  "instructions": [
+   "Siivilöi jauhot isoon kulhoon ja jätä noin 2,5 dl sivuun.",
+   "Ripottele suola joukkoon ja sekoita. Tee keskelle kuoppa.",
+   "Sekoita hiiva ja sokeri pienessä kulhossa. Lisää ½ dl lämmintä vettä.",
+   "Kaada hiivaseos jauhojen keskelle tehtyyn kuoppaan.",
+   "Peitä hiivaseos jauhoilla. Anna kohota 10 minuuttia.",
+   "Lisää loppu vesi ja sekoita hyvin. Vaivaa 5 minuuttia keskipehmeäksi taikinaksi. Lisää sivuun jätettyjä jauhoja tarpeen mukaan.",
+   "Peitä ja anna kohota lämpimässä tunti tai kunnes taikina on kaksinkertaistunut.",
+   "Nosta taikina kevyesti jauhotetulle alustalle. Jaa jauhotetuin käsin kymmeneen osaan.",
+   "Pyörittele palat palloiksi ja kauli jokainen 5 mm paksuksi suorakaiteeksi. Sivele öljyllä.",
+   "Taita vastakkaiset reunat keskelle niin, että ne kohtaavat.",
+   "Levitä täyte toiselle puoliskolle. Taita toinen puolisko täytteen päälle pitkulaiseksi leiväksi.",
+   "Painele reunat hyvin kiinni.",
+   "Kuumenna parilalevy tai valurautapannu.",
+   "Voitele voilla ja nosta gözleme pannulle.",
+   "Paista ruskeaksi molemmin puolin.",
+   "Tarjoa kuumana ayranin kanssa."
+  ],
+  "notes": [
+   "Alkuperäinen ohje ei kerro täytettä; feta-pinaattitäyte on perinteinen vaihtoehto. Muita tavallisia täytteitä ovat perunamuusi ja jauheliha."
+  ]
+ },
+ {
+  "id": "wikibooks-habas-con-jamon-broad-beans-with-ham",
+  "title": "Habas con jamón – härkäpapuja ja kinkkua",
+  "description": "Espanjalainen nopea lisuke tai tapas: härkäpavut paistetaan sipulin ja kinkun kanssa oliiviöljyssä.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Lisukkeet",
+  "tags": [
+   "espanjalainen",
+   "nopea",
+   "pavut",
+   "kinkku"
+  ],
+  "ingredients": [
+   "300 g härkäpapuja (tuoreita tai säilykettä)",
+   "1 sipuli, viipaloituna",
+   "2 viipaletta ilmakuivattua kinkkua tai pekonia",
+   "oliiviöljyä"
+  ],
+  "instructions": [
+   "Paista sipuli ja kinkku pannulla tilkassa oliiviöljyä.",
+   "Lisää härkäpavut ja paista muutama minuutti, kunnes pavut ovat pehmeitä.",
+   "Tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-habet-hlawa-algerian-anise-beverage",
+  "title": "Habet hlawa – algerialainen anissisiirappijuoma",
+  "description": "Anissinsiemenistä keitetty siirappi, joka laimennetaan jääkylmällä vedellä tai kivennäisvedellä.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 40,
+  "category": "Juomat",
+  "tags": [
+   "algerialainen",
+   "juoma",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "2,5 dl anissinsiemeniä",
+   "1,2 l vettä",
+   "5–8 dl sokeria",
+   "jääkylmää vettä tai kivennäisvettä tarjoiluun"
+  ],
+  "instructions": [
+   "Kaada vesi kattilaan, lisää anissinsiemenet ja kiehauta keskilämmöllä.",
+   "Sammuta lämpö, peitä kannella ja anna hautua 30 minuuttia.",
+   "Siivilöi siemenet pois.",
+   "Lisää sokeria maun mukaan ja kiehauta uudelleen keskilämmöllä. Keitä, kunnes siirappi valuu lusikasta ohuena nauhana.",
+   "Siivilöi uudelleen.",
+   "Anna jäähtyä ja pullota. Tarjoa laimennettuna jääkylmällä hiilihapotetulla tai tavallisella vedellä."
+  ]
+ },
+ {
+  "id": "wikibooks-habichuela-con-dulce-dominican-sweet-beans",
+  "title": "Habichuela con dulce – dominikaaninen makea papukeitto",
+  "description": "Pääsiäisen perinneherkku: punaisista pavuista, maidosta ja bataatista keitetty makea, mausteinen kermainen keitto.",
+  "servings": 10,
+  "totalTimeMin": 65,
+  "category": "Jälkiruoat",
+  "tags": [
+   "dominikaaninen",
+   "pavut",
+   "kasvis",
+   "juhla"
+  ],
+  "ingredients": [
+   "1 l keitettyjä punaisia kidneypapuja keitinliemineen",
+   "1,2 dl rusinoita",
+   "7 dl kondensoitua maitoa (makeuttamatonta, evaporated milk)",
+   "5 dl makeutettua kondensoitua maitoa",
+   "½ tl suolaa",
+   "2,5 dl sokeria",
+   "1 tl vaniljauutetta",
+   "2 kanelitankoa",
+   "10 neilikkaa",
+   "1 bataatti, pieninä kuutioina",
+   "maitokeksejä tarjoiluun"
+  ],
+  "instructions": [
+   "Soseuta keitetyt pavut keitinliemineen.",
+   "Siivilöi sose kattilaan, jotta kuoret jäävät pois.",
+   "Sekoita joukkoon makeutettu ja makeuttamaton kondensoitu maito, vanilja, suola, sokeri, bataatti, kanelitangot ja neilikat.",
+   "Hauduta miedolla lämmöllä, kunnes bataatti on kypsää. Sekoita välillä, ettei seos tartu pohjaan.",
+   "Lisää rusinat ja hauduta 10 minuuttia. Voit lisätä myös maitokeksit, jos haluat niiden pehmenevän.",
+   "Nosta liedeltä.",
+   "Poista halutessasi kanelitangot ja neilikat.",
+   "Tarjoa kulhoista maitokeksien kera lämpimänä tai kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-hachee-dutch-beef-stew",
+  "title": "Hachee – hollantilainen sipulilihapata",
+  "description": "Hollantilainen talvipata, jossa naudanliha ja runsas sipuli haudutetaan tummassa oluessa mausteiden ja etikan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 200,
+  "category": "Pääruoat",
+  "tags": [
+   "hollantilainen",
+   "liha",
+   "pata"
+  ],
+  "ingredients": [
+   "450 g naudanlihaa pataan, suupaloina",
+   "½ dl vehnäjauhoja",
+   "suolaa",
+   "mustapippuria",
+   "1 tl voita tai margariinia",
+   "3–4 isoa sipulia, renkaina",
+   "5 neilikkaa",
+   "2 laakerinlehteä",
+   "1 lihaliemikuutio",
+   "2,5 dl vettä liemikuutiolle",
+   "2,5 dl lämmintä vettä",
+   "2 rkl väkiviinaetikkaa (10 %)",
+   "3,3 dl tummaa olutta tai lihalientä"
+  ],
+  "instructions": [
+   "Sekoita jauhot, suola ja pippuri. Pyörittele lihapalat seoksessa.",
+   "Sulata voi paksupohjaisessa kattilassa, lisää liha ja ruskista kevyesti.",
+   "Lisää sipulit ja mausteet. Kypsennä sekoittaen, kunnes sipulit alkavat muuttua läpikuultaviksi.",
+   "Liuota liemikuutio veteen. Lisää lihan ja sipulin joukkoon lämpimän veden, etikan ja oluen kanssa.",
+   "Kiehauta, alenna lämpöä ja hauduta noin 3 tuntia, kunnes liha on mureaa. Sekoita välillä, ettei pata pala pohjaan.",
+   "Tarkista maku ja lisää tarvittaessa suolaa ja pippuria.",
+   "Tarjoa keitetyn riisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-haggis",
+  "title": "Haggis",
+  "description": "Skotlantilainen kansallisruoka: sydämestä, maksasta ja lampaanlihasta, paahdetusta kaurasta ja mausteista tehty täyte höyrytetään suoleen täytettynä.",
+  "servings": 3,
+  "totalTimeMin": 240,
+  "category": "Pääruoat",
+  "tags": [
+   "skotlantilainen",
+   "liha",
+   "sisäelimet",
+   "juhla"
+  ],
+  "ingredients": [
+   "450 g naudan sydäntä, 5 cm leveinä suikaleina",
+   "450 g naudan maksaa",
+   "225 g lampaanlihaa pataan, 2,5 cm:n kuutioina",
+   "3,5 dl sipulia, kuorittuna ja hienonnettuna",
+   "4 rkl skotlantilaista viskiä",
+   "1 rkl kermaa",
+   "5 dl kaurahiutaleita, uunissa 200 asteessa 10 minuuttia paahdettuna",
+   "2 tl suolaa",
+   "½ tl mustapippuria",
+   "1 tl kuivattua timjamia",
+   "½ tl kuivattua rosmariinia",
+   "¼ tl muskottipähkinää, raastettuna",
+   "3 naudan umpisuolta (kysy makkarakaupasta tai lihakaupasta)",
+   "2,5 dl väkiviinaetikkaa",
+   "½ rkl suolaa liotukseen"
+  ],
+  "instructions": [
+   "Laita naudan sydän noin 3–3,5 litran kattilaan ja peitä juuri ja juuri kylmällä vedellä. Hauduta kannen alla 1 tunti 10 minuuttia.",
+   "Lisää maksa ja lampaanliha, peitä ja hauduta 20 minuuttia. Nosta lihat kattilasta ja jäähdytä. Säästä 2,5 dl keitinlientä. Jauha kaikki liha karkeaksi.",
+   "Sekoita isossa kulhossa kaikki ainekset paitsi suolet, etikka ja liotussuola. Sekoita hyvin ja laita sivuun.",
+   "Huuhtele suolet kylmällä vedellä. Käännä ne nurin ja liota puoli tuntia 2 litrassa kylmää vettä, johon on lisätty suola ja etikka. Valuta ja huuhtele erittäin hyvin sisältä ja ulkoa.",
+   "Jaa lihaseos kolmeen osaan. Täytä suolet seoksella ja sido päät narulla. Pistele haggikset joka puolelta terävällä haarukalla. Höyrytä 1 tunti 20 minuuttia.",
+   "Tarjoa viipaloituna lihakastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-hake-in-herby-breadcrumbs",
+  "title": "Kummeliturska yrttikorppukuoressa",
+  "description": "Uunissa paistetut kalafileet rapeassa yrtti-pinjansiemenkuoressa.",
+  "servings": 2,
+  "totalTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "uuniruoka",
+   "nopea",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "2,5 dl korppujauhoja tai tuoreita leivänmuruja",
+   "1,2 dl yrttejä, hienonnettuna (esim. persiljaa ja rakuunaa)",
+   "1 rkl pinjansiemeniä",
+   "2 rkl avokado- tai oliiviöljyä + öljyä pirskotteluun",
+   "suolaa",
+   "mustapippuria",
+   "2 kummeliturskafiletta (à 200 g)",
+   "1 kananmuna, vatkattuna",
+   "sitruunamehua"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180 asteeseen.",
+   "Sekoita korppuseoksen ainekset monitoimikoneessa ja lisää öljy viimeiseksi. Seoksen pitää olla hieman kosteaa.",
+   "Kasta kalafileet vatkattuun munaan ja sitten korppuseokseen. Yritä saada kuori tasaiseksi.",
+   "Nosta fileet uunivuokaan ja pirskottele päälle hieman öljyä.",
+   "Paista uunissa 20 minuuttia, kunnes kuori on ruskistunut.",
+   "Purista päälle sitruunamehua.",
+   "Tarjoa salaatin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-halibut-cheek-stir-fry",
+  "title": "Ruijanpallasposkia wokissa",
+  "description": "Nopea wokki, jossa pallaksen poskipalat paistetaan inkiväärin, valkosipulin ja kasvisten kanssa.",
+  "servings": 5,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "wokki",
+   "nopea",
+   "aasialainen"
+  ],
+  "ingredients": [
+   "1 rkl maapähkinäöljyä",
+   "450 g ruijanpallaksen poskia (tai pallasfileetä paloina)",
+   "2 rkl porkkanaa, hienonnettuna",
+   "2 rkl selleriä, hienonnettuna",
+   "1 rkl tuoretta inkivääriä, hienonnettuna",
+   "1 rkl valkosipulia, hienonnettuna",
+   "2 rkl kevätsipulia, hienonnettuna",
+   "1 rkl vähäsuolaista soijakastiketta",
+   "1 rkl kalalientä",
+   "1 tl mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna öljy wokissa tai paistinpannulla keskilämpöä kovemmalla lämmöllä.",
+   "Lisää kalapalat ja liikuttele niitä öljyssä, kunnes ne alkavat ruskistua.",
+   "Lisää porkkana ja selleri ja sekoita.",
+   "Lisää inkivääri ja valkosipuli koko ajan sekoittaen.",
+   "Lisää soijakastike, kalaliemi ja pippuri. Sekoita ja kuumenna kiehuvaksi.",
+   "Ripottele päälle kevätsipuli.",
+   "Tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-hallaca-venezuelan-stuffed-corn-dough",
+  "title": "Hallaca – venezuelalaiset maissitaikinanyytit (kasvisversio)",
+  "description": "Venezuelalainen jouluruoka kasvisversiona: annattoöljyllä värjätty maissitaikina täytetään monilla täytteillä ja keitetään banaaninlehtikääreissä.",
+  "servings": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "venezuelalainen",
+   "kasvis",
+   "juhla",
+   "maissi"
+  ],
+  "ingredients": [
+   "banaaninlehtiä käärimiseen",
+   "alumiinifoliota ja keittiönarua",
+   "Taikina:",
+   "5 tl oliiviöljyä",
+   "1 tl annatonsiemeniä (achiote)",
+   "1 tl juustokuminan siemeniä",
+   "1 tl mustapippureita",
+   "1 tl korianterinsiemeniä",
+   "4 sipulia, viipaloituna",
+   "1 kasvisliemikuutio",
+   "1 sieniliemikuutio",
+   "1 tl Marmitea",
+   "2 purjoa, 2,5 cm:n paloina",
+   "1 iso nippu tuoreita yrttejä (korianteria, timjamia, persiljaa, selleriä)",
+   "2 nippua kevätsipulia, hienonnettuna (jaettuna)",
+   "1 valkosipuli, halkaistuna",
+   "1 prk vihreitä oliiveja liemineen",
+   "1 prk kapriksia liemineen",
+   "1 kg pikapolentaa (karkeaa maissijauhoa)",
+   "500 g keitettyjä, muussattuja uusia perunoita",
+   "Täytteet:",
+   "oliiviöljyä",
+   "2 punaista paprikaa grillattavaksi",
+   "2 porkkanaa, raastettuna",
+   "6 ruusukaalia, suikaloituna",
+   "1 kourallinen vihreitä papuja, pilkottuna",
+   "100 g rusinoita ja korintteja",
+   "ruokaviiniä tai omenamehua liotukseen",
+   "20 kuivattua luumua",
+   "1 tlk kikherneitä",
+   "1 prk sinappikastikkeeseen säilöttyjä sekavihanneksia (piccalilli)",
+   "50 g manteleita",
+   "1 tlk seitania tai 1 pkt marinoitua tofua",
+   "1 tlk artisokansydämiä",
+   "1 tlk parsaa",
+   "Kastike:",
+   "oliiviöljyä",
+   "2 punasipulia, viipaloituna",
+   "1 purjon valkoinen osa, hienonnettuna",
+   "1 pkt puolikuivattuja tomaatteja tai 1 tuubi tomaattipyreetä",
+   "2 punaista paprikaa",
+   "2 vihreää paprikaa",
+   "soijakastiketta",
+   "chilikastiketta",
+   "juustokuminaa",
+   "ruokaviiniä (valinnainen)",
+   "vehnäjauhoja tai maissitärkkelystä suurustukseen"
+  ],
+  "instructions": [
+   "Pyyhi banaaninlehdet kostealla liinalla.",
+   "Lämmitä lehtiä liekin yllä, kunnes ne pehmenevät, tummuvat ja tuoksuvat savuisilta.",
+   "Leikkaa kova reunaruoti pois rikkomatta lehtiä. Leikkaa lehdet poikittaisten suonten suuntaisesti noin 30 cm:n paloiksi.",
+   "Lämmitä pienessä kattilassa 5 tl oliiviöljyä annatonsiementen kanssa hyvin miedolla lämmöllä 20 minuuttia, kunnes öljy muuttuu punaiseksi. Siivilöi siemenet pois.",
+   "Paista sillä välin syvässä kattilassa juustokumina, mustapippurit ja korianterinsiemenet 2–3 tl:ssa oliiviöljyä.",
+   "Lisää sipulit, 1,2 l kiehuvaa vettä, liemikuutiot, Marmite, purjot, yrtit, kolme neljäsosaa kevätsipulista ja valkosipuli.",
+   "Hauduta lientä 15 minuuttia.",
+   "Soseuta kattilan sisältö monitoimikoneessa. Siivilöi huolellisesti: säästä neste ja hävitä kiinteät osat.",
+   "Kaada liemi isoon kulhoon ja lisää annattoöljy sekä oliivi- ja kapristölkkien liemet.",
+   "Lisää polenta 2,5 dl kerrallaan hyvin sekoittaen, kunnes saat tasaisen taikinan.",
+   "Sekoita perunamuusi taikinaan.",
+   "Testaa taikina: kääri teelusikallinen taikinaa pieneen banaaninlehden palaan ja folioon ja keitä vedessä 15 minuuttia. Jos taikina pitää muotonsa, se on valmista. Jos se murenee tai liukenee, lisää polentaa; jos se on kivikovaa, lisää vettä. Tarkista myös suola.",
+   "Sivele 2 punaista paprikaa oliiviöljyllä ja grillaa niitä, kunnes kuori hiiltyy.",
+   "Poista kuori ja siemenet ja leikkaa 1 cm leveiksi suikaleiksi. Laita sivuun pieneen kulhoon.",
+   "Sekoita porkkana, ruusukaali ja pavut ja laita sivuun.",
+   "Liota rusinat ja luumut kumpikin erikseen ruokaviinissä tai omenamehussa.",
+   "Valuta kikherneet. Laita säilötyt vihannekset omaan kulhoonsa.",
+   "Kalttaa ja paahda mantelit.",
+   "Valuta seitan tai tofu ja leikkaa 1 cm:n kuutioiksi.",
+   "Laita oliivit ja kaprikset omiin kulhoihinsa.",
+   "Valuta artisokansydämet ja leikkaa neljään osaan. Valuta parsat ja nosta lautaselle.",
+   "Paista punasipulit, purjo ja loput kevätsipulit nopeasti öljyssä.",
+   "Soseuta tomaatit ja paprikat monitoimikoneessa. Lisää sipulien joukkoon ja sekoita minuutti.",
+   "Mausta soijakastikkeella, chilikastikkeella ja juustokuminalla. Lisää halutessasi ruokaviiniä. Hauduta vielä minuutti.",
+   "Suurusta kastike jauhoilla ja laita sivuun.",
+   "Leikkaa 35 cm:n pala foliota pöydälle. Nosta päälle banaaninlehti niin, että suonet ovat vaakasuunnassa.",
+   "Voitele lehti öljyllä. Nosta keskelle reilu puoli kauhallista taikinaa ja levitä lusikalla noin 14 cm:n ympyräksi.",
+   "Laita keskelle 1 tl kastiketta ja sen päälle 1½ tl kasvissuikaleita. Aseta taikinan kulmiin 2 oliivia ja 2 kaprista. Asettele loput täytteet kuin kollaasiksi: 1 tl rusinoita, 1 luumu, 2 tl säilykevihanneksia, 1 tl kikherneitä, 3 tofukuutiota, 1 parsa, 2 paprikasuikaletta ja muutama persiljanlehti.",
+   "Kääri banaaninlehti täytteen ympärille suonten suuntaisesti. Taita folio lehtinyytin päiden yli ja kääri koko nyytti folioon. Sido keittiönarulla. Toista lopuilla aineksilla.",
+   "Keitä hallacoja kannellisessa kattilassa vedessä 20–30 minuuttia, tarvittaessa useassa erässä.",
+   "Valuta hallacat ja anna jäähtyä 10 tuntia. Säilytä jääkaapissa tai pakastimessa.",
+   "Lämmitä hallacat ennen tarjoilua hiljalleen kiehuvassa vedessä 10 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-halo-halo-filipino-layered-dessert",
+  "title": "Halo-halo – filippiiniläinen jäädessertti",
+  "description": "Filippiiniläinen kerrosjälkiruoka: jäähilettä, makeita papuja, kookosgeeliä, ube-hilloa, jäätelöä ja leche flania.",
+  "servings": 2,
+  "totalTimeMin": 10,
+  "category": "Jälkiruoat",
+  "tags": [
+   "filippiiniläinen",
+   "jäätelö",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "3,5 dl jäähilettä",
+   "1,2 dl siirappiin säilöttyjä kikherneitä",
+   "1,2 dl siirappiin säilöttyjä punaisia mungpapuja",
+   "¾ dl nata de cocoa (kookosgeeliä siirapissa)",
+   "½ dl kaongia (palmunhedelmiä siirapissa)",
+   "1 rkl ube-hilloa (violettia jamssitahnaa)",
+   "2 palloa ube-jäätelöä",
+   "2 noin 5 cm:n kuutiota leche flania",
+   "1,2 dl kondensoitua maitoa (makeuttamatonta)",
+   "pinipigiä (paahdettua litistettyä riisiä) tarjoiluun (valinnainen)"
+  ],
+  "instructions": [
+   "Peitä kahden tarjoilukulhon tai lasin pohja jäähileellä.",
+   "Lisää jään päälle kikherneet, mungpavut, nata de coco, kaong ja ube-hillo.",
+   "Nosta päälle ube-jäätelö ja leche flan ja kaada maito kaiken päälle.",
+   "Ripottele pinnalle pinipigiä, jos käytät sitä."
+  ]
+ },
+ {
+  "id": "wikibooks-halva-wheat-based",
+  "title": "Vehnähalva",
+  "description": "Voissa kullanruskeaksi paahdetuista jauhoista ja sokerisiirapista tehty lämmin makeinen.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "totalTimeMin": 65,
+  "category": "Jälkiruoat",
+  "tags": [
+   "lähi-itä",
+   "kasvis",
+   "makeinen"
+  ],
+  "ingredients": [
+   "2,5 dl vehnäjauhoja",
+   "225 g voita tai margariinia",
+   "3 dl sokeria",
+   "1,2 l vettä"
+  ],
+  "instructions": [
+   "Sulata rasva kattilassa hyvin varovasti. Lisää jauhot ja kypsennä miedolla tai keskilämmöllä sekoitellen noin 40 minuuttia, kunnes seos on kullanruskeaa.",
+   "Kun jauhot alkavat saada vaaleaa kullanruskeaa väriä, yhdistä sokeri ja vesi toisessa kattilassa ja keitä hiljalleen siirapiksi.",
+   "Lisää siirappi jauhoseokseen ja hauduta 20 minuuttia.",
+   "Ota halvasta puulusikalla pieniä annoksia, muotoile palloiksi ja nosta tarjoiluvadille.",
+   "Tarjoa lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-ham-and-cheese-crepes",
+  "title": "Kinkku-juustokrepit",
+  "description": "Valmiit ohukaiset täytetään kinkulla ja juusto-kermaviilitäytteellä ja paistetaan uunissa rapean korppupinnan alla.",
+  "servings": 6,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "ohukaiset",
+   "kinkku",
+   "juusto",
+   "uuniruoka",
+   "nopea"
+  ],
+  "ingredients": [
+   "12 valmista ohukaista tai lettua",
+   "3,5 dl cheddarjuustoa, raastettuna",
+   "12 ohutta viipaletta keitettyä kinkkua",
+   "2 rkl kevätsipulia, hienonnettuna",
+   "½ tl suolaa",
+   "1 ripaus mustapippuria",
+   "1,2 dl kermaviiliä",
+   "½ tl sinappia",
+   "¾ dl korppujauhoja",
+   "3 rkl voita, sulatettuna"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen.",
+   "Sekoita pienessä kulhossa juusto, kevätsipuli, suola, pippuri, kermaviili ja sinappi.",
+   "Aseta jokaisen ohukaisen päälle kinkkuviipale.",
+   "Levitä kunkin kinkkuviipaleen päälle noin 1 rkl täytettä.",
+   "Kääri ohukaiset rulliksi ja lado noin 23 x 33 cm:n uunivuokaan.",
+   "Sekoita sulatettu voi ja korppujauhot ja ripottele ohukaisten päälle.",
+   "Peitä vuoka löyhästi foliolla.",
+   "Paista 175 asteessa 15–20 minuuttia."
+  ]
+ },
+ {
+  "id": "wikibooks-ham-sauce-historic",
+  "title": "Kinkkukastike (historiallinen)",
+  "description": "Vanha kastike paahtopaistien kanssa: survottua kinkkua, makeaa viiniä, etikkaa ja basilikaa.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kinkku",
+   "historiallinen",
+   "nopea"
+  ],
+  "ingredients": [
+   "28 g kinkkua",
+   "3 jälkiruokalusikallista (n. 3 rkl) muskattiviiniä tai makeaa portviiniä",
+   "1 tl etikkaa",
+   "kuivattua basilikaa",
+   "1 ripaus maustepippuria"
+  ],
+  "instructions": [
+   "Pilko kinkku ja survo se huhmareessa.",
+   "Lisää viini, etikka, hieman basilikaa ja ripaus maustetta.",
+   "Kiehauta seos, paina se siivilän läpi ja lämmitä vesihauteessa.",
+   "Tarjoa paahdetun lihan kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-ham-sauce-modern",
+  "title": "Kinkkukastike (moderni)",
+  "description": "Nopea liemipohjainen kastike kinkkusuikaleista ja tomaattipyreestä riisin tai pastan kanssa.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "kinkku",
+   "nopea"
+  ],
+  "ingredients": [
+   "85–110 g kinkkua tai prosciuttoa, suikaleina",
+   "1 tl tomaattipyreetä",
+   "30 g voita",
+   "5 dl kasvis- tai lihalientä"
+  ],
+  "instructions": [
+   "Sulata voi pienessä kattilassa ja kuullota lihasuikaleita kevyesti.",
+   "Sekoita joukkoon tomaattipyree.",
+   "Lisää liemi ja hauduta noin 5 minuuttia.",
+   "Tarjoa riisin päällä tai sekoita pastaan."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburger",
+  "title": "Hampurilainen",
+  "description": "Perushampurilainen naudan jauhelihasta, jonka voi maustaa ja täyttää oman maun mukaan.",
+  "servings": 4,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "hampurilainen",
+   "nopea",
+   "grilli"
+  ],
+  "ingredients": [
+   "500 g naudan jauhelihaa",
+   "yrttejä ja mausteita (valinnainen)",
+   "juustoa (valinnainen)",
+   "kasviksia, kuten salaattia, ituja, tomaattia ja sipulia (valinnainen)",
+   "4 hampurilaissämpylää"
+  ],
+  "instructions": [
+   "Muotoile jauhelihasta käsin pihvejä. 500 grammasta tulee 4–6 pihviä.",
+   "Jos käytät mausteita, mausta pihvien pinta tai sekoita mausteet jauhelihaan ennen muotoilua. Sekoita mahdollisimman vähän ja käsin, sillä liiallinen vaivaaminen tekee lihasta mössöä, joka ei pysy koossa.",
+   "Paista pannulla tai grillaa ohuehkoja pihvejä noin 4–5 minuuttia kummaltakin puolelta. Varmista, että pihvit ovat läpikypsiä: sisäosan pitää olla ruskea, tai sisälämpömittarin pitää näyttää vähintään 71 astetta.",
+   "Anna pihvien levätä muutama minuutti ennen tarjoilua, jotta mehut eivät valu ulos ensimmäisestä haukkauksesta.",
+   "Tarjoa sämpylässä halutessasi kurkkusalsan, suolakurkkujen, ketsupin, majoneesin, sinapin, juuston, salaatin, tomaatin ja sipulin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburger-deluxe",
+  "title": "Deluxe-hampurilainen",
+  "description": "Mehevä nauta-lammaspihvi, jossa on kauraa, sinappia ja chipotlea, tarjottuna paistettujen sipulien ja sienten kanssa.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "hampurilainen",
+   "grilli"
+  ],
+  "ingredients": [
+   "Pihvit:",
+   "350 g vähärasvaista naudan jauhelihaa",
+   "110 g lampaan jauhelihaa",
+   "1 kananmuna",
+   "1,2 dl kaurahiutaleita",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 rkl rypsiöljyä",
+   "1 rkl dijoninsinappia",
+   "1 tl juustokuminaa",
+   "½ tl worcestershirekastiketta",
+   "1 rkl chipotle-grillikastiketta tai ripaus chipotlejauhetta",
+   "½ tl suolaa",
+   "Täytteet:",
+   "savustettua cheddarjuustoa tai muuta juustoa viipaleina",
+   "kermaviiliä",
+   "maustamatonta tuorejuustoa ohuina viipaleina",
+   "1 mieto sipuli, karkeasti hienonnettuna",
+   "110 g herkkusieniä, ohuina viipaleina",
+   "1 rkl voita",
+   "mustapippuria",
+   "hampurilaiskastikkeita oman maun mukaan",
+   "4 hampurilaissämpylää"
+  ],
+  "instructions": [
+   "Paista sipulia ja sieniä voissa, kunnes ne saavat hieman väriä. Laita sivuun.",
+   "Sekoita pihvien ainekset tasaiseksi ja anna levätä 15 minuuttia.",
+   "Kuumenna grilli keskikuumaksi tai kuumaksi.",
+   "Jaa seos neljään yhtä suureen palloon.",
+   "Muotoile pihvit taputtelemalla niitä kämmeneltä toiselle, kunnes ne ovat noin 2,5 cm paksuja.",
+   "Grillaa pihvit haluamaasi kypsyyteen muutaman minuutin välein kääntäen. Lisää juusto viimeisen käännön jälkeen.",
+   "Tarjoa sämpylöissä sipuli-sieniseoksen, nokareen kermaviiliä ja ohuen tuorejuustoviipaleen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburger-fried-rice",
+  "title": "Jauhelihapaistettu riisi",
+  "description": "Tulinen aasialaistyylinen paistettu riisi jauhelihan, inkiväärin, chilin ja tumman soijan kera.",
+  "servings": 3,
+  "totalTimeMin": 30,
+  "category": "Pääruoat",
+  "tags": [
+   "aasialainen",
+   "liha",
+   "riisi",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 rkl rypsiöljyä",
+   "4 valkosipulinkynttä, 0,5 cm:n viipaleina",
+   "4 pientä punasalottisipulia, 0,5 cm:n viipaleina",
+   "3 cm inkivääriä, kuorittuna ja hienonnettuna",
+   "2 punaista chiliä, hienonnettuna",
+   "400 g naudan jauhelihaa",
+   "3 kevätsipulia, 1 cm:n paloina",
+   "2 sellerinvartta, hienonnettuna",
+   "600 g keitettyä riisiä",
+   "1–2 tl suolaa",
+   "1 tl mustapippuria",
+   "2 rkl tummaa soijakastiketta"
+  ],
+  "instructions": [
+   "Kuumenna öljy tarttumattomalla paistinpannulla. Kun öljy on erittäin kuumaa, paista valkosipuli, salottisipuli, inkivääri ja chilit. Sekoita 20 sekunnin välein, kunnes seos tuoksuu.",
+   "Lisää jauheliha ja paista, kunnes se on ruskistunut ja kypsä.",
+   "Lisää selleri ja kevätsipuli. Lisää riisi, suola, pippuri ja soijakastike. Paista, kunnes kaikki on sekoittunut ja kuumaa.",
+   "Tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburger-skillet-dinner",
+  "title": "Jauheliha-makaronipannu",
+  "description": "Amerikkalainen yhden pannun arkiruoka: jauhelihaa, tomaattikeittoa ja pastaa.",
+  "servings": 4,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "amerikkalainen",
+   "liha",
+   "pasta",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "2,5 dl makaronia tai muuta pientä pastaa",
+   "500 g naudan jauhelihaa",
+   "valkosipulisuolaa",
+   "kuivattua sipulirouhetta",
+   "1–2 tlk (à 300 g) tomaattikeittotiivistettä"
+  ],
+  "instructions": [
+   "Keitä pasta 1–1,5 litrassa suolalla ja tilkalla öljyä maustettua vettä al denteksi. Valuta.",
+   "Ripottele samalla noin 25 cm:n paistinpannulle valkosipulisuolaa ja sipulirouhetta ja ruskista jauheliha.",
+   "Lisää tomaattikeitto ja kuumenna minuutti tai pari.",
+   "Sekoita joukkoon valutettu pasta."
+  ],
+  "notes": [
+   "Tomaattikeittotiivisteen tilalle sopii 4 dl tomaattisosetta ja ripaus sokeria."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburger-stoup",
+  "title": "Jauheliha-kasvispata uunissa",
+  "description": "Iso satsi paksua keiton ja padan välimuotoa: jauhelihaa, tomaattia, maissia, perunaa ja riisiä haudutettuna uunissa kuusi tuntia.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "amerikkalainen",
+   "liha",
+   "keitto",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "900 g naudan jauhelihaa",
+   "1 iso sipuli, hienonnettuna",
+   "tilkka öljyä",
+   "3 tlk (à 400 g) tomaattimurskaa",
+   "2 tlk (à 450 g) maissia",
+   "1 tlk (225 g) herneitä",
+   "6 isoa sellerinvartta, pilkottuna",
+   "6 isoa perunaa, kuutioituna",
+   "2,5 dl lihalientä",
+   "2,5 dl kanalientä",
+   "2,5 dl riisiä",
+   "1 rkl suolaa",
+   "1 rkl mustapippuria",
+   "n. 5 dl vettä",
+   "keitettyä pastaa (valinnainen)"
+  ],
+  "instructions": [
+   "Kuullota sipulit pannulla tilkassa öljyä läpikuultaviksi.",
+   "Lisää jauheliha ja ruskista se murustellen.",
+   "Yhdistä lihaseos ja muut ainekset isossa uuninkestävässä kattilassa. Lisää vettä niin, että kaikki on muutaman sentin peitossa (yleensä noin 5 dl).",
+   "Kypsennä kattila 165-asteisessa uunissa 6 tuntia.",
+   "Jos käytät pastaa, sekoita se joukkoon uunista ottamisen jälkeen."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa on 2 rkl suolaa ja 2 rkl pippuria; tässä määrät on puolitettu, tarkista maku lopuksi."
+  ]
+ },
+ {
+  "id": "wikibooks-hamburgers-encrusted-with-black-pepper",
+  "title": "Pippurikuorrutetut hampurilaiset",
+  "description": "Hiiligrillissä paistetut pihvit karkean mustapippurikuoren kera, tarjottuna chipotlemajoneesin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "hampurilainen",
+   "grilli",
+   "tulinen"
+  ],
+  "ingredients": [
+   "Chipotlemajoneesi:",
+   "1,2 dl majoneesia",
+   "2–4 chipotle-chiliä, hienonnettuna",
+   "½ tl suolaa",
+   "½ tl mustapippuria",
+   "Hampurilaiset:",
+   "450 g naudan jauhelihaa",
+   "suolaa",
+   "½ dl karkeaksi murskattuja mustapippureita",
+   "4 viipaletta hyvin sulavaa juustoa (valinnainen)",
+   "dijoninsinappia",
+   "4 hampurilaissämpylää, halkaistuna"
+  ],
+  "instructions": [
+   "Vispaa chipotlemajoneesin ainekset tasaiseksi. Säilytä jääkaapissa käyttöön asti.",
+   "Muotoile jauhelihasta 4 yhtä suurta pihviä. Sivele pihvit molemmin puolin dijoninsinapilla ja ripottele runsaasti suolaa.",
+   "Laita pippurit piirakkavuokaan. Painele pihvejä kevyesti pippureihin molemmin puolin.",
+   "Sytytä noin 25 grillibrikettiä sytytyshormissa ja levitä ne grilliin. Aseta ritilä paikalleen.",
+   "Grillaa pihvejä usein kääntäen, kunnes sisälämpö on 62 astetta (puolikypsä), 69 astetta (keskikypsä) tai 75 astetta (kypsä). Jauhelihan suositeltava sisälämpö on vähintään 71 astetta.",
+   "Nosta pihvit lautaselle ja anna levätä 5 minuuttia. Jos käytät juustoa, nosta viipale kunkin pihvin päälle. Paahda sillä välin sämpylät grillissä.",
+   "Levitä sämpylöihin chipotlemajoneesia. Nosta pihvi alaosan päälle ja peitä yläosalla. Tarjoa lämpiminä."
+  ]
+ },
+ {
+  "id": "wikibooks-hamli-ethiopian-spinach-stew",
+  "title": "Hamli – etiopialainen pinaattipata",
+  "description": "Mausteinen pinaattipata, joka tarjotaan lisukkeena injeran tai riisin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 35,
+  "category": "Lisukkeet",
+  "tags": [
+   "etiopialainen",
+   "vegaaninen",
+   "pinaatti",
+   "pata"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "1 iso sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 tl inkivääriä, raastettuna",
+   "1 tl kurkumaa",
+   "½ tl juustokuminaa",
+   "½ tl korianterijauhetta",
+   "½ tl cayennepippuria",
+   "900 g tuoretta pinaattia, pestynä ja hienonnettuna",
+   "suolaa",
+   "2,5 dl kasvislientä tai vettä",
+   "tuoretta korianteria tai persiljaa koristeluun"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy isossa kattilassa keskilämmöllä. Lisää sipuli ja kuullota läpikuultavaksi.",
+   "Sekoita joukkoon valkosipuli, inkivääri, kurkuma, juustokumina, korianteri, cayennepippuri ja suola niin, että mausteet peittävät sipulit.",
+   "Lisää pinaatti ja sekoita mausteseoksen joukkoon.",
+   "Peitä kattila ja kypsennä noin 10–15 minuuttia, kunnes pinaatti on painunut kasaan ja pehmennyt. Sekoita välillä.",
+   "Lisää liemi tai vesi ja jatka kypsentämistä vielä 5–10 minuuttia, jotta maut sekoittuvat. Tarkista suola.",
+   "Nosta liedeltä ja anna levätä muutama minuutti.",
+   "Koristele korianterilla tai persiljalla. Tarjoa kuumana lisukkeena injeran tai riisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-hanjin-ligidi-nigerian-lollipops",
+  "title": "Hanjin ligidi – nigerialaiset tamarinditikkarit",
+  "description": "Tamarindin liotusliemestä ja sokerista keitetyt kartiomaiset tikkarit.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "nigerialainen",
+   "makeinen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "100 g tamarindia (tsamiya)",
+   "2,5 dl vettä",
+   "4 dl sokeria",
+   "aromia ja elintarvikeväriä maun mukaan",
+   "tikkuja tai hammastikkuja"
+  ],
+  "instructions": [
+   "Muotoile elintarvikekäyttöön sopivasta paperista tai alumiinifoliosta kartioita.",
+   "Puhdista tamarindi liasta ja pölystä.",
+   "Pese tamarindi kulhollisessa puhdasta vettä ja valuta huolellisesti.",
+   "Liota tamarindia kuumassa vedessä noin 5 minuuttia.",
+   "Siirrä liotusliemi kattilaan keskilämmölle.",
+   "Lisää sokeria vähitellen sekoittaen niin, että se liukenee, kunnes seos on hyvin paksua.",
+   "Sekoita joukkoon aromi ja väri.",
+   "Jaa siirappi kartioihin. Anna jäähtyä hieman ja työnnä tikku jokaiseen.",
+   "Anna jähmettyä ja kovettua kokonaan. Irrota kartioista ja tarjoa."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; ne on arvioitu. Kuuma sokerisiirappi polttaa pahasti, käsittele varoen."
+  ]
+ },
+ {
+  "id": "wikibooks-hard-tack",
+  "title": "Laivakorput (hardtack)",
+  "description": "Erittäin kovaksi paistettu, pitkään säilyvä jauho-vesikeksi, perinteinen merimiesten ja sotilaiden muonaa.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 120,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "vegaaninen",
+   "historiallinen"
+  ],
+  "ingredients": [
+   "5 dl vehnäjauhoja",
+   "1,8 dl vettä",
+   "¾ tl suolaa (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita ainekset taikinaksi ja painele se voidellulle leivinpellille noin 1 cm paksuksi levyksi.",
+   "Paista 200-asteisessa uunissa puoli tuntia. Älä leikkaa vielä.",
+   "Ota pelti uunista ja leikkaa levy 7,5 cm:n neliöiksi. Pistele jokaiseen haarukalla neljä riviä, neljä reikää kuhunkin.",
+   "Käännä keksit ja paista vielä puoli tuntia."
+  ]
+ },
+ {
+  "id": "wikibooks-harissa-bil-djaj-libyan-chicken-harissa",
+  "title": "Harissa bil djaj – libyalainen harissakana",
+  "description": "Kokonaisen kanan paloista, tomaatista ja harissasta haudutettu mausteinen pata.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 80,
+  "category": "Pääruoat",
+  "tags": [
+   "libyalainen",
+   "kana",
+   "pata",
+   "tulinen"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "1 sipuli, hienonnettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "1 broileri, paloiteltuna",
+   "2 tomaattia, kuutioituna",
+   "2 rkl tomaattipyreetä",
+   "1 rkl harissatahnaa",
+   "1 tl juustokuminaa",
+   "1 tl paprikajauhetta",
+   "½ tl cayennepippuria",
+   "½ tl korianterijauhetta",
+   "½ tl jauhettua kuminaa",
+   "suolaa",
+   "mustapippuria",
+   "1 l vettä tai kanalientä",
+   "tuoretta persiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy isossa kattilassa keskilämmöllä.",
+   "Lisää sipuli ja valkosipuli. Kuullota, kunnes sipuli on läpikuultavaa ja tuoksuvaa.",
+   "Lisää broilerinpalat ja ruskista ne joka puolelta.",
+   "Sekoita joukkoon tomaatit, tomaattipyree, harissa, juustokumina, paprika, cayennepippuri, korianteri, kumina, suola ja pippuri niin, että mausteet peittävät palat.",
+   "Lisää vesi tai liemi ja kiehauta.",
+   "Alenna lämpö miedoksi, peitä kannella ja hauduta noin tunti, kunnes broileri on mureaa ja kypsää.",
+   "Tarkista maku.",
+   "Tarjoa kuumana persiljalla koristeltuna. Lisäksi sopii leipä tai kuskus kastikkeen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-harrisa",
+  "title": "Harissa",
+  "description": "Pohjoisafrikkalainen tulinen chilitahna, jossa on valkosipulia ja lämpimiä mausteita.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "pohjoisafrikkalainen",
+   "vegaaninen",
+   "tulinen",
+   "nopea"
+  ],
+  "ingredients": [
+   "100 g kuivattuja tai tuoreita chilejä, kannat ja siemenet poistettuina",
+   "½ dl oliiviöljyä",
+   "3 valkosipulinkynttä",
+   "1 tl juustokuminaa",
+   "1 ripaus kanelia",
+   "1 tl korianterinsiemeniä",
+   "1 tl kuminaa",
+   "½ tl suolaa"
+  ],
+  "instructions": [
+   "Soseuta kaikki ainekset sileäksi tahnaksi. Jos käytät kuivattuja chilejä, liota ne ensin kuumassa vedessä pehmeiksi.",
+   "Käytä heti tai säilytä jääkaapissa."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; ne on arvioitu."
+  ]
+ }
+]

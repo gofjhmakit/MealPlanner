@@ -1,0 +1,948 @@
+[
+ {
+  "id": "wikibooks-jersey-breakfast-dog",
+  "title": "Jerseyn aamiaisnakki",
+  "description": "New Jerseyn tyylinen aamiaishodari: pekoniin kääritty, friteerattu nakki ja paistettu kananmuna juuston kera sämpylässä.",
+  "servings": 1,
+  "totalTimeMin": 10,
+  "category": "Aamiainen",
+  "tags": [
+   "liha",
+   "pekoni",
+   "kananmuna",
+   "nopea",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "1 nautanakki (hot dog -makkara)",
+   "1 viipale pekonia",
+   "1 iso kananmuna",
+   "1 viipale cheddarjuustoa",
+   "1 hot dog -sämpylä",
+   "rypsiöljyä friteeraukseen",
+   "ketsuppia ja sinappia tarjoiluun"
+  ],
+  "instructions": [
+   "Kuumenna friteerausöljy 180 asteeseen.",
+   "Kääri pekoni nakin ympärille ja kiinnitä päät hammastikuilla.",
+   "Kun öljy on kuumaa, laske kääritty nakki varovasti öljyyn.",
+   "Kuumenna paistinpannu ja paista kananmuna.",
+   "Nosta paistettu kananmuna pienelle lautaselle.",
+   "Avaa sämpylä ja paahda sitä kevyesti pannulla miedolla lämmöllä tai minigrillissä.",
+   "Kun pekoni on kiinteää ja rapeaa, nosta nakki öljystä.",
+   "Laita juustoviipale kananmunan päälle ja lämmitä mikroaaltouunissa 7–10 sekuntia.",
+   "Nosta kananmuna ja juusto sämpylään.",
+   "Poista hammastikut nakista ja lisää nakki sämpylään.",
+   "Lisää mausteet ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-jhilinga-nepalese-rice-fritters",
+  "title": "Jhilinga (nepalilaiset riisirinkilät)",
+  "description": "Nepalilainen rapea välipala: ohuiksi suikaleiksi puristettu riisijauhotaikina kuivatetaan renkaiksi ja friteerataan.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "nepalilainen",
+   "friteerattu",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "2,5 dl riisijauhoja",
+   "5 dl vettä",
+   "elintarvikeväriä (valinnainen)",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Kuumenna vesi kiehuvaksi syvässä kattilassa.",
+   "Lisää riisijauhot ja haluamasi elintarvikeväri vähitellen kiehuvaan veteen koko ajan puulusikalla sekoittaen. Taikinan tulee olla tasaista ja melko jäykkää.",
+   "Kun taikina on kypsää, purista se pastakoneen tai puristimen läpi hyvin ohuiksi suikaleiksi.",
+   "Muotoile suikaleista renkaita ja kuivata niitä aurinkoisessa ja ilmavassa paikassa muutama päivä, kunnes ne ovat täysin kuivia ja kiinteitä.",
+   "Friteeraa kuivat renkaat kuumassa öljyssä rapeiksi."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; jauhojen ja veden suhde on arvio."
+  ]
+ },
+ {
+  "id": "wikibooks-ji-abubo-nigerian-yam-and-vegetable-sauce",
+  "title": "Ji abubo (nigerialainen jamssi ja vihanneskastike)",
+  "description": "Igbo-keittiön ruoka: keitettyä jamssia ja kurpitsanlehdistä, ukpakasta ja palmuöljystä survottua tulista kastiketta.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nigerialainen",
+   "afrikkalainen",
+   "jamssi"
+  ],
+  "ingredients": [
+   "800 g jamssia, kuorimattomana paloiksi leikattuna",
+   "1 nippu ugwu-kurpitsanlehtiä",
+   "100 g ukpakaa (fermentoituja öljypuun siemeniä)",
+   "1 habanero-chili",
+   "1 dl palmuöljyä",
+   "suolaa",
+   "1 rkl ogiria (fermentoitua siementahnaa)",
+   "1 rkl jauhettua kuivattua katkarapua (valinnainen)",
+   "kuivattua kalaa (valinnainen)",
+   "keitettyä naudan pötsiä (valinnainen)",
+   "keitettyä naudan nahkaa eli ponmoa (valinnainen)"
+  ],
+  "instructions": [
+   "Huuhtele kurpitsanlehdet ja ukpaka. Sido ne naruilla nipuiksi.",
+   "Laita jamssipalat, kurpitsanlehdet ja ukpaka kattilaan. Peitä vedellä ja keitä, kunnes vihannekset ovat pehmeitä.",
+   "Nosta vihannekset pois ja jatka jamssin keittämistä, kunnes se on kypsää.",
+   "Survo habanero huhmareessa tasaiseksi. Lisää keitetty ukpaka ja kurpitsanlehdet ja survo tasaiseksi. Sekoita joukkoon palmuöljyä, kunnes koostumus on sopiva.",
+   "Mausta tahna suolalla ja ogirilla ja survo vielä tasaiseksi.",
+   "Valuta keitetty jamssi ja tarjoa kuumana survotun kastikkeen kanssa."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; ne ovat arvioita."
+  ]
+ },
+ {
+  "id": "wikibooks-ji-akwukwo-nigerian-yam-and-vegetables",
+  "title": "Ji akwukwo (nigerialainen jamssi-vihannespata)",
+  "description": "Yksinkertainen nigerialainen ruoka, jossa keitetty jamssi höyrytetään sipulin, chilin, ukpakan, palmuöljyn ja amarantinlehtien kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nigerialainen",
+   "afrikkalainen",
+   "jamssi",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "800 g jamssia, kuorittuna ja kuutioituna",
+   "2 sipulia, hienonnettuna",
+   "1 scotch bonnet -chili, hienonnettuna",
+   "100 g ukpakaa, murskattuna",
+   "suolaa",
+   "½ dl palmuöljyä",
+   "1 nippu vihreitä amarantinlehtiä (tai pinaattia), suikaloituna"
+  ],
+  "instructions": [
+   "Laita jamssikuutiot kattilaan ja peitä vedellä. Kuumenna kiehuvaksi ja keitä hiljalleen, kunnes jamssi on pehmeää.",
+   "Kaada vesi pois ja palauta jamssi kattilaan.",
+   "Lisää sipuli, chili ja ukpaka ja sekoita keskikorkealla lämmöllä.",
+   "Mausta suolalla ja palmuöljyllä.",
+   "Sekoita joukkoon amarantinlehdet, peitä kattila kannella ja anna höyrystyä, kunnes lehdet ovat pehmenneet."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; ne ovat arvioita."
+  ]
+ },
+ {
+  "id": "wikibooks-jigarthanda-milk",
+  "title": "Jigarthanda",
+  "description": "Maduraista kotoisin oleva eteläintialainen viilentävä juoma: karamellimaitoa, mantelikumia, sarsaparillasiirappia ja kotitekoista jäätelöä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "intialainen",
+   "jälkiruoka",
+   "kasvis"
+  ],
+  "ingredients": [
+   "Mantelikumi:",
+   "2 rkl mantelikumia (badam pisin)",
+   "2,5 dl vettä",
+   "Sarsaparillasiirappi:",
+   "25 g intialaista sarsaparillanjuurta (nannari)",
+   "3 dl vettä",
+   "150 g sokeria",
+   "Jäätelö:",
+   "1,5 l täysmaitoa",
+   "½ dl sokeria",
+   "2 rkl sokeria (karamelliin)",
+   "3 rkl khoyaa (kuivattua maitomassaa)",
+   "1,2 dl kuohukermaa",
+   "Jigarthanda-maito:",
+   "1 l täysmaitoa",
+   "½ dl sokeria"
+  ],
+  "instructions": [
+   "Pese mantelikumi ja liota sitä vedessä 3–4 tuntia tai yön yli. Se paisuu ja muuttuu hyytelömäiseksi. Säilytä tiiviissä rasiassa jääkaapissa.",
+   "Pese ja murskaa sarsaparillanjuuri.",
+   "Kuumenna vesi kiehuvaksi kattilassa ja lisää sarsaparilla. Alenna lämpöä ja keitä hiljalleen, kunnes vedestä on haihtunut puolet.",
+   "Lisää sokeri ja keitä, kunnes siirappi muodostaa ohuen langan sormien välissä. Jäähdytä ja säilytä tiiviissä astiassa.",
+   "Jäätelö: Keitä maitoa koko ajan sekoittaen, kunnes se vaahtoaa. Kerää pinnalle muodostuva kermakalvo (malai) talteen.",
+   "Vatkaa kerma ja sekoita se maitoon. Alenna lämpö keskimiedoksi.",
+   "Sekoita joukkoon ½ dl sokeria, kunnes se on liuennut.",
+   "Lisää khoya ja sekoita hyvin. Anna jäähtyä hieman.",
+   "Kuumenna 2 rkl sokeria paksupohjaisessa kattilassa miedolla lämmöllä, kunnes se sulaa ja karamellisoituu.",
+   "Lisää kuuma maitoseos nopeasti ja varovasti – se sihisee. Jos karamelli jähmettyy, jatka kuumentamista, niin se sulaa vähitellen.",
+   "Anna jäähtyä, kaada tiiviiseen rasiaan ja peitä kelmulla. Pakasta 4–5 tuntia.",
+   "Kun seos on jähmettynyt, vatkaa se hyvin vispilällä tai tehosekoittimella. Toista 3–4 kertaa, niin jäätelöstä tulee kermaisempaa. Pakasta vielä 5–6 tuntia.",
+   "Jigarthanda-maito: Keitä maitoa hiljalleen paksupohjaisessa kattilassa, kunnes se on sakeutunut ja puolittunut. Kerää muodostuva kermakalvo talteen.",
+   "Karamellisoi sokeri toisessa kattilassa miedolla lämmöllä.",
+   "Sekoita karamelli maitoon, kunnes se on liuennut ja maito on kullanruskeaa. Keitä hiljalleen 10 minuuttia.",
+   "Anna jäähtyä ja säilytä jääkaapissa.",
+   "Kokoa: Laita korkeaan lasiin 1–2 rkl liotettua mantelikumia ja 1 rkl sarsaparillasiirappia.",
+   "Lisää jigarthanda-maitoa, kunnes lasi on ¾ täynnä.",
+   "Lisää pallo jigarthanda-jäätelöä.",
+   "Lusikoi päälle talteen otettua kermakalvoa ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-jollof-couscous",
+  "title": "Jollof-couscous",
+  "description": "Nigerialainen versio jollofista, jossa riisin sijaan käytetään pikacouscousia tomaattikastikkeessa naudanlihan ja vihannesten kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "nigerialainen",
+   "afrikkalainen",
+   "liha",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 rkl rypsiöljyä",
+   "300 g kypsää naudanlihaa, suupaloiksi leikattuna",
+   "1 sipuli, hienonnettuna",
+   "1 porkkana, pilkottuna",
+   "1 punainen paprika, pilkottuna",
+   "1 vihreä paprika, pilkottuna",
+   "1 dl vihreitä herneitä",
+   "1 liemikuutio",
+   "suolaa",
+   "1 dl maissinjyviä",
+   "3 tomaattia, soseutettuna",
+   "2 rkl tomaattipyreetä",
+   "4 dl lihalientä",
+   "3 dl pikacouscousia"
+  ],
+  "instructions": [
+   "Kuumenna öljy pannulla. Lisää naudanliha ja paista kullanruskeaksi. Nosta sivuun.",
+   "Lisää sipuli ja porkkana ja paista minuutin ajan.",
+   "Lisää paprikat ja herneet.",
+   "Mausta liemikuutiolla ja suolalla.",
+   "Sekoita joukkoon maissi.",
+   "Nosta kypsät vihannekset lautaselle odottamaan.",
+   "Kuumenna samalla pannulla vähän lisää öljyä ja lisää tomaattisose.",
+   "Sekoita joukkoon tomaattipyree ja paista 3 minuuttia.",
+   "Lisää lihaliemi tai vesi.",
+   "Sekoita joukkoon couscous niin, että kastike peittää sen hyvin. Peitä kannella, nosta liedeltä ja anna seistä, kunnes neste on imeytynyt.",
+   "Sekoita joukkoon liha ja vihannekset.",
+   "Tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-julia-childs-boeuf-bourguignon",
+  "title": "Julia Childin boeuf bourguignon",
+  "description": "Ranskalaisen keittiön klassikko Julia Childin tapaan: punaviinissä haudutettua naudanlihaa, pekonia, helmisipuleita ja sieniä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "ranskalainen",
+   "juhla",
+   "uuniruoka",
+   "pata"
+  ],
+  "ingredients": [
+   "170 g kokonaista pekonia (savustettua kylkeä)",
+   "3½ rkl oliiviöljyä",
+   "1,4 kg naudan patalihaa, 5 cm:n kuutioina",
+   "1 porkkana, viipaloituna",
+   "1 sipuli, viipaloituna",
+   "suolaa",
+   "mustapippuria",
+   "2 rkl vehnäjauhoja",
+   "7 dl täyteläistä punaviiniä (esim. Beaujolais, Côtes du Rhône tai Burgundy)",
+   "6–8 dl lihalientä",
+   "1 rkl tomaattipyreetä",
+   "2 valkosipulinkynttä, murskattuna",
+   "½ tl timjamia",
+   "1 laakerinlehti, murskattuna",
+   "18–24 helmisipulia",
+   "3½ rkl voita",
+   "yrttinippu (4 persiljanoksaa, ½ laakerinlehteä, ¼ tl timjamia harsoon sidottuna)",
+   "450 g herkkusieniä, neljäsosiin leikattuna"
+  ],
+  "instructions": [
+   "Poista pekonista kamara ja leikkaa pekoni noin 0,5 cm paksuiksi ja 4 cm pitkiksi tikuiksi. Keitä kamaraa ja pekonitikkuja 10 minuuttia 1,5 litrassa vettä. Valuta ja kuivaa.",
+   "Kuumenna uuni 230 asteeseen.",
+   "Ruskista pekonitikkuja 1 rkl:ssa oliiviöljyä liedenkestävässä padassa keskilämmöllä 2–3 minuuttia. Nosta reikäkauhalla sivuun.",
+   "Kuivaa liha talouspaperilla – kostea liha ei ruskistu. Kuumenna rasva padassa lähes savuavaksi. Ruskista liha muutama pala kerrallaan joka puolelta ja nosta pekonin joukkoon.",
+   "Ruskista viipaloidut vihannekset samassa rasvassa. Kaada ylimääräinen rasva pois.",
+   "Palauta liha ja pekoni pataan ja sekoita joukkoon ½ tl suolaa ja ¼ tl pippuria.",
+   "Ripottele päälle jauhot ja sekoita niin, että liha peittyy kevyesti. Laita pata kannetta uunin keskitasolle 4 minuutiksi.",
+   "Sekoita liha ja laita takaisin uuniin 4 minuutiksi; jauhot ruskistuvat ja lihan pinnalle muodostuu kevyt kuori.",
+   "Ota pata uunista ja laske uunin lämpö 160 asteeseen.",
+   "Sekoita joukkoon viini ja 5–7 dl lientä – juuri sen verran, että liha on hädin tuskin peitossa.",
+   "Lisää tomaattipyree, valkosipuli, yrtit ja pekonin kamara. Kuumenna liedellä hiljaiselle kiehumiselle.",
+   "Peitä pata kannella ja siirrä uunin alakolmannekseen. Säädä lämpöä niin, että neste porisee hyvin hiljaa 3–4 tuntia. Liha on valmista, kun haarukka uppoaa siihen helposti.",
+   "Valmista lihan hautuessa sipulit ja sienet. Kuumenna 1½ rkl voita ja 1½ rkl öljyä paistinpannulla kuplivaksi.",
+   "Lisää sipulit ja paista keskilämmöllä noin 10 minuuttia pyöritellen niitä, jotta ne ruskistuvat mahdollisimman tasaisesti. Varo rikkomasta kuoria.",
+   "Lisää 1 dl lientä, suolaa ja pippuria maun mukaan sekä yrttinippu.",
+   "Peitä ja hauduta hiljalleen 40–50 minuuttia, kunnes sipulit ovat pehmeitä mutta pitävät muotonsa ja neste on haihtunut. Poista yrttinippu ja nosta sipulit sivuun.",
+   "Pyyhi pannu ja kuumenna loput öljystä ja voista kovalla lämmöllä. Kun voin vaahto alkaa laskea, lisää sienet.",
+   "Pyöritä ja ravista pannua 4–5 minuuttia. Kun sienet alkavat ruskistua kevyesti, nosta pannu liedeltä.",
+   "Kun liha on kypsää, kaada padan sisältö siivilään kattilan päälle.",
+   "Pese pata ja palauta liha ja pekoni siihen. Levitä sipulit ja sienet päälle.",
+   "Kuori rasva kastikkeen pinnalta. Keitä kastiketta minuutti pari ja kuori pintaan nouseva rasva. Kastiketta pitäisi olla noin 6 dl, ja sen pitäisi olla niin paksua, että se peittää lusikan kevyesti.",
+   "Jos kastike on liian ohutta, keitä sitä kovalla lämmöllä kokoon. Jos liian paksua, lisää muutama ruokalusikallinen lientä. Tarkista maku.",
+   "Kaada kastike lihan ja vihannesten päälle. Peitä ja hauduta 2–3 minuuttia valellen lihaa ja vihanneksia kastikkeella muutaman kerran.",
+   "Tarjoa padasta tai asettele vadille perunoiden, nuudeleiden tai riisin kanssa ja koristele persiljalla."
+  ],
+  "notes": [
+   "Lähde: Julia Child, Mastering the Art of French Cooking (2. painos, 1983)."
+  ]
+ },
+ {
+  "id": "wikibooks-kaak-savory-ring-shaped-biscuit",
+  "title": "Ka'ak (suolaiset rinkelikeksit)",
+  "description": "Lähi-idän rapeat suolaiset rinkelikeksit seesaminsiemenillä ja halutessa mustakuminalla, za'atarilla tai mahlebilla maustettuina.",
+  "servings": 32,
+  "totalTimeMin": 50,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leivonnainen",
+   "välipala",
+   "libanonilainen"
+  ],
+  "ingredients": [
+   "1,2 dl haaleaa vettä",
+   "1,2 dl rypsiöljyä",
+   "100 g pehmeää margariinia tai voita",
+   "7 dl vehnäjauhoja",
+   "1 rkl leivinjauhetta (tai kuivahiivaa)",
+   "1 tl fariinisokeria",
+   "2 tl suolaa",
+   "2 rkl seesaminsiemeniä",
+   "1 tl mustakuminaa (nigellansiemeniä) (valinnainen)",
+   "10 g kuivattua meiramia, za'ataria tai oreganoa (valinnainen)",
+   "¾ tl jauhettua mahlebia (valinnainen)",
+   "2 keltuaista voiteluun, vatkattuna"
+  ],
+  "instructions": [
+   "Sekoita vesi, öljy ja pehmeä margariini (tai voi) kulhossa.",
+   "Sekoita toisessa kulhossa jauhot, leivinjauhe (tai hiiva), fariinisokeri, suola ja mausteet.",
+   "Yhdistä kuivat ja märät aineet (keltuaisia lukuun ottamatta) taikinaksi.",
+   "Anna taikinan levätä 30 minuuttia.",
+   "Jaa taikina kahtia ja pyöritä kummastakin pötkö käsin.",
+   "Halkaise pötköt ja pyöritä niistä ohuempia pötköjä – nyt niitä on neljä.",
+   "Halkaise taas ja pyöritä – nyt pötköjä on kahdeksan.",
+   "Leikkaa kukin pötkö vinoittain neljään yhtä suureen osaan. Paloja on nyt 32.",
+   "Purista kunkin palan päät yhteen renkaaksi. Nosta pellille ja anna kohota.",
+   "Voitele renkaat keltuaisella.",
+   "Paista esilämmitetyssä uunissa matalassa lämmössä (100–170 astetta), kunnes keksit ovat kuivuneet ja saaneet hieman väriä."
+  ]
+ },
+ {
+  "id": "wikibooks-kabab-barg-persian-grilled-meat",
+  "title": "Kabab barg (persialaiset lammasvartaat)",
+  "description": "Iranilainen grilliherkku: sahramilla, sipulilla ja valkosipulilla yön yli marinoitua lammasta vartaissa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "lammas",
+   "grilli",
+   "iranilainen"
+  ],
+  "ingredients": [
+   "1 dl oliiviöljyä",
+   "3 sipulia, raastettuna",
+   "3 valkosipulinkynttä, murskattuna",
+   "½ tl sahramia",
+   "suolaa",
+   "mustapippuria",
+   "1 kg lampaanlihaa, 1 x 5 cm:n paloina"
+  ],
+  "instructions": [
+   "Sekoita oliiviöljy, sipulit, valkosipuli, sahrami, suola ja pippuri marinadiksi.",
+   "Pyöritä lihapalat marinadissa. Peitä ja marinoi jääkaapissa yön yli.",
+   "Pujota liha metallivartaisiin.",
+   "Voitele liha marinadilla. Grillaa avotulella 5–10 minuuttia kummaltakin puolelta."
+  ]
+ },
+ {
+  "id": "wikibooks-kabab-kobide-persian-minced-meat-kebab",
+  "title": "Kabab koobideh (persialaiset jauhelihavartaat)",
+  "description": "Iranilaiset jauhelihavartaat sumakilla ja kurkumalla maustettuina, tarjoiltuna grillatun tomaatin, sipulin ja riisin tai naanin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "grilli",
+   "iranilainen",
+   "jauheliha"
+  ],
+  "ingredients": [
+   "600 g naudan tai lampaan jauhelihaa",
+   "1 tl mustapippuria",
+   "1 tl sumakkia",
+   "1 tl kurkumaa",
+   "1 sipuli, hyvin hienoksi hienonnettuna",
+   "1 tl suolaa",
+   "Lisäksi:",
+   "4 tomaattia",
+   "2 sipulia",
+   "keitettyä riisiä tai naanleipää",
+   "sumakkia koristeluun"
+  ],
+  "instructions": [
+   "Sekoita jauheliha, pippuri, sumakki, kurkuma, sipuli ja suola. Peitä ja jäähdytä 4 tuntia tai yön yli. Lihan tulisi muuttua hieman keltaiseksi kurkumasta.",
+   "Muotoile lihaseos vartaiden ympärille.",
+   "Grillaa vartaat, tomaatit ja sipulit kypsiksi.",
+   "Tarjoa vartaat tomaattien ja sipulien kanssa riisin tai naanin kera. Ripottele päälle sumakkia maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-kabalagala-ugandan-pancakes",
+  "title": "Kabalagala (ugandalaiset banaanimunkit)",
+  "description": "Ugandalainen katuruoka: kypsistä banaaneista tehdyt friteeratut pikkupannukakut teen tai kahvin seuraksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "ugandalainen",
+   "afrikkalainen",
+   "banaani",
+   "friteerattu",
+   "kasvis"
+  ],
+  "ingredients": [
+   "2 kypsää banaania, soseutettuna",
+   "2,4 dl vehnäjauhoja",
+   "½ dl sokeria",
+   "½ tl leivinjauhetta",
+   "1 ripaus suolaa",
+   "1,2 dl maitoa",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita kulhossa banaanisose, jauhot, sokeri, leivinjauhe ja suola.",
+   "Lisää maito vähitellen koko ajan vispilällä tai lusikalla sekoittaen, kunnes taikina on tasaista ja paksua kuin tavallinen pannukakkutaikina.",
+   "Kuumenna öljy syvässä pannussa tai kattilassa keskikorkealla lämmöllä. Öljyä tulee olla niin paljon, että munkit uppoavat siihen kokonaan.",
+   "Pudota taikinaa lusikallinen kerrallaan kuumaan öljyyn, muutama kerrallaan. Kunkin munkin halkaisija on noin 8–10 cm.",
+   "Paista kullanruskeiksi ja rapeiksi molemmin puolin, noin 2–3 minuuttia per puoli.",
+   "Nosta munkit reikäkauhalla talouspaperin päälle valumaan.",
+   "Tarjoa lämpiminä sellaisenaan tai teen tai kahvin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-kaiserschmarrn-austrian-shredded-pancake",
+  "title": "Kaiserschmarrn (itävaltalainen keisarin lettu)",
+  "description": "Itävaltalainen pannulla paistettu kuohkea pannukakku, joka revitään paloiksi ja tarjotaan tomusokerilla.",
+  "servings": 2,
+  "totalTimeMin": 15,
+  "category": "Jälkiruoat",
+  "tags": [
+   "itävaltalainen",
+   "kasvis",
+   "nopea",
+   "kananmuna"
+  ],
+  "ingredients": [
+   "3 kananmunaa",
+   "5 dl maitoa",
+   "1 rkl sokeria",
+   "1 ripaus suolaa",
+   "350 g vehnäjauhoja",
+   "1 rkl rusinoita",
+   "30 g voita tai margariinia",
+   "tomusokeria"
+  ],
+  "instructions": [
+   "Erottele valkuaiset keltuaisista.",
+   "Laita keltuaiset, maito, sokeri ja suola kulhoon ja vatkaa hyvin.",
+   "Lisää jauhot hyvin sekoittaen, kunnes taikina on tahnamaista.",
+   "Lisää rusinat.",
+   "Vatkaa valkuaiset kovaksi vaahdoksi ja kääntele ne taikinaan.",
+   "Sulata voi paistinpannulla ja kaada taikina pannulle.",
+   "Paista, kunnes pohja on hyytynyt.",
+   "Jaa taikina neljään osaan puulastalla ja käännä palat. Hetken kuluttua ala repiä paloja pienemmiksi.",
+   "Käännä ja sekoita, kunnes kaiserschmarrn on kypsää.",
+   "Tarjoa tomusokerilla siivilöitynä."
+  ]
+ },
+ {
+  "id": "wikibooks-kaju-barfi-indian-cashew-milk-confection",
+  "title": "Kaju barfi (intialainen cashewmakeinen)",
+  "description": "Intialainen juhlamakeinen cashewpähkinäjauheesta, sokerisiirapista ja gheestä, koristeltuna syötävällä hopealehdellä.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "intialainen",
+   "makeinen",
+   "juhla",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1,8 dl vettä",
+   "200 g sokeria",
+   "1 ripaus sahramia",
+   "1 rkl gheetä",
+   "250 g cashewpähkinäjauhetta",
+   "syötävää hopealehteä (valinnainen)"
+  ],
+  "instructions": [
+   "Laita sokeri ja vesi kattilaan ja kuumenna kiehuvaksi.",
+   "Lisää sahrami ja keitä, kunnes siirappi on paksua (sormien välissä venyy useita lankoja).",
+   "Sulata ghee ja sekoita se siirappiin.",
+   "Lisää cashewjauhe ja sekoita huolellisesti.",
+   "Anna jäähtyä hieman.",
+   "Vaivaa massa hyvin ja kauli se 0,5 cm paksuksi suorakaiteeksi.",
+   "Painele hopealehti pinnalle. Leikkaa noin 4 cm:n vinoneliöiksi."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole sokerin, gheen ja cashewjauheen määriä; ne ovat arvioita."
+  ]
+ },
+ {
+  "id": "wikibooks-kal-kals-sweet-curled-fritters",
+  "title": "Kal kal (makeat rullamunkit)",
+  "description": "Pakistanilainen ja intialainen jouluherkku: haarukalla kierretyt pienet taikinakierukat friteerataan ja pyöritellään tomusokerissa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "friteerattu",
+   "joulu",
+   "kasvis",
+   "pakistanilainen"
+  ],
+  "ingredients": [
+   "4,8 dl (280 g) vehnäjauhoja",
+   "1 kananmuna",
+   "½ tl leivinjauhetta",
+   "1,2 dl (120 g) tomusokeria + lisää pyörittelyyn",
+   "½ tl vaniljauutetta",
+   "1,2 dl öljyä + öljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita jauhot, kananmuna, leivinjauhe, tomusokeri ja vanilja kosteaksi mutta ei tahmeaksi taikinaksi.",
+   "Litistä teelusikallisen kokoisia taikinapalloja haarukan selkää vasten (mieluiten pyöreäpiikkisen) ja rullaa ne irti niin, että syntyy pieniä etanankuoren mallisia kierukoita.",
+   "Friteeraa kuumassa (180-asteisessa) öljyssä kuusi kerrallaan kullanruskeiksi.",
+   "Pyörittele kuumina tomusokerissa."
+  ]
+ },
+ {
+  "id": "wikibooks-kala-liberian-fritters",
+  "title": "Kala (liberialaiset hiivamunkit)",
+  "description": "Liberialaiset pehmeät hiivataikinamunkit, jotka paistetaan rasvassa ja pyöritellään halutessa sokerissa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "liberialainen",
+   "afrikkalainen",
+   "friteerattu",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "1 rkl suolaa",
+   "2,4 dl sokeria",
+   "7–9 dl lämmintä vettä",
+   "1½ rkl kuivahiivaa",
+   "14–17 dl vehnäjauhoja",
+   "rypsiöljyä friteeraukseen",
+   "tomusokeria tai sokeria pyörittelyyn (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita keskikokoisessa kulhossa suola, sokeri, lämmin vesi ja hiiva. Anna seistä 5–7 minuuttia.",
+   "Lisää jauhot ja sekoita hyvin – yleiskone helpottaa.",
+   "Anna taikinan kohota noin 2 tuntia.",
+   "Kaada öljyä isoon kattilaan vähintään 5 cm:n syvyydeltä – liian vähäisessä öljyssä munkeista tulee litteitä. Kuumenna keskilämmöllä, kunnes öljyyn pudotettu taikinatippa nousee pintaan ja alkaa sihistä.",
+   "Pudota taikinaa lusikalla tai käsin kuumaan öljyyn. Paista muutama minuutti, kunnes alapuoli on kullanruskea, käännä ja paista toinenkin puoli kullanruskeaksi.",
+   "Nosta munkit reikäkauhalla talouspaperille valumaan.",
+   "Pyörittele halutessasi tomusokerissa tai sokerissa."
+  ]
+ },
+ {
+  "id": "wikibooks-kale-and-garlic-pasta",
+  "title": "Lehtikaali-valkosipulipasta",
+  "description": "Yksinkertainen pasta, jossa pehmeäksi haudutettu lehtikaali, runsas valkosipuli ja parmesaani sekoitetaan linguinen joukkoon.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "kasvis",
+   "italialainen"
+  ],
+  "ingredients": [
+   "4 rkl voita",
+   "¾ dl oliiviöljyä",
+   "1 valkosipuli, kynnet kuorittuina ja ohuesti viipaloituina",
+   "1 ripaus chilihiutaleita",
+   "1–2 nippua lehtikaalia, ruodit poistettuina ja suupaloiksi revittynä",
+   "suolaa",
+   "450 g kuivaa linguinea",
+   "1,2 dl hienoksi raastettua parmesaania"
+  ],
+  "instructions": [
+   "Laita voi ja oliiviöljy isolle paistinpannulle ja kuumenna keskilämmöllä, kunnes voi sulaa.",
+   "Lisää valkosipuli ja chilihiutaleet. Kypsennä sekoittaen, kunnes valkosipuli pehmenee. Jos valkosipuli alkaa ruskistua, sammuta lämpö siksi aikaa, kunnes lisäät kaalin.",
+   "Keitä lehtikaalia isossa kattilassa reilusti suolatussa vedessä noin 4 minuuttia, kunnes se muuttuu kirkkaanvihreäksi. Siirrä kaali reikäkauhalla valkosipulipannulle niin, että vettä tulee mukaan mahdollisimman vähän.",
+   "Kypsennä kaalia ja valkosipulia keskilämmöllä sekoittaen, kunnes neste on lähes kokonaan haihtunut ja kaali on tummaa ja pehmeää. Lisää loraus vettä tai öljyä, jos se tarttuu pannuun.",
+   "Keitä pasta samassa suolavedessä al denteksi. Nosta pasta pihdeillä pannulle kaalin joukkoon.",
+   "Sekoita pasta ja kaali. Jos pannu on liian pieni, siirrä kaikki isoon kulhoon ja sekoita, kunnes pasta on kauttaaltaan kastikkeen peittämää.",
+   "Lisää parmesaani ja sekoita, kunnes se on sulanut ja sekoittunut.",
+   "Tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-kanachi-armenian-herb-salad",
+  "title": "Kanachi (armenialainen yrttilautanen)",
+  "description": "Armenialaisen pöydän tuoreyrttilautanen: basilikaa, krassia, rakuunaa, minttua, retiisejä ja kevätsipulia raakana tarjottuna.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Salaatit",
+  "tags": [
+   "armenialainen",
+   "vegaaninen",
+   "nopea",
+   "yrtit"
+  ],
+  "ingredients": [
+   "1 nippu punaista basilikaa",
+   "1 nippu sitruunabasilikaa",
+   "1 ruukku vesikrassia",
+   "1 nippu rakuunaa",
+   "1 nippu retiisejä",
+   "1 nippu kevätsipulia",
+   "1 nippu minttua"
+  ],
+  "instructions": [
+   "Poista yrteistä ylimääräiset varret, kellastuneet lehdet ja vioittuneet kohdat ja pese ne huolellisesti. Valuta.",
+   "Poista kevätsipuleista ja retiiseistä juuret ja suurin osa retiisin lehdistä (jätä vain nuorimmat). Pese huolellisesti ja valuta.",
+   "Sekoita tai asettele kaikki vadille.",
+   "Syö raakana."
+  ]
+ },
+ {
+  "id": "wikibooks-kanafeh-egyptian-sweet-cheese-pastry",
+  "title": "Kunafa (egyptiläinen juustoleivos)",
+  "description": "Lähi-idän juhlaleivos: voissa pyöriteltyä kataifitaikinaa, sulavaa juustotäytettä ja ruusuvesisiirappia.",
+  "servings": 8,
+  "totalTimeMin": 60,
+  "category": "Jälkiruoat",
+  "tags": [
+   "juhla",
+   "egyptiläinen",
+   "leivonnainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g kataifitaikinaa",
+   "340 g voita, sulatettuna",
+   "325 g sokeria",
+   "225 g mozzarellaa",
+   "140 g tuorejuustoa",
+   "2 rkl sitruunamehua",
+   "2,4 dl vettä",
+   "1 tl ruusuvettä",
+   "½ tl appelsiininkukkavettä",
+   "85 g saksanpähkinöitä, rouhittuna"
+  ],
+  "instructions": [
+   "Aseta ritilä uunin keskialatasolle ja kuumenna uuni 200 asteeseen.",
+   "Sekoita mozzarella ja tuorejuusto keskikokoisessa kulhossa ja nosta sivuun.",
+   "Leikkaa kataifitaikina poikittain 0,5–1 cm:n pätkiksi ja siirrä isoon kulhoon.",
+   "Kaada sulatettu voi taikinan päälle. Sekoittele käsin varovasti noin 5 minuuttia, kunnes kaikki suikaleet ovat voin peitossa.",
+   "Levitä puolet taikinasta tasaisesti uunin kestävän paistinpannun pohjalle.",
+   "Levitä juustoseos tasaisesti taikinan päälle jättäen reunaan noin 1 cm:n kaistale.",
+   "Levitä loput taikinasta juuston päälle ja painele tiiviiksi.",
+   "Paista uunissa syvän kullanruskeaksi, noin 40 minuuttia.",
+   "Valmista siirappi leivoksen paistuessa: sekoita kattilassa sokeri, sitruunamehu ja vesi.",
+   "Keitä siirappia, kunnes sen lämpötila on 112 astetta tai jääveteen pudotettu tippa muodostaa pehmeän pallon. Nosta liedeltä ja jäähdytä.",
+   "Kun leivos on valmis, sekoita siirappiin ruusuvesi ja appelsiininkukkavesi.",
+   "Kumoa leivos tarjoiluvadille ja valuta siirappi sen päälle. Ripottele pinnalle saksanpähkinät ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-kanda-peanut-stew",
+  "title": "Kanda (maapähkinäpata)",
+  "description": "Keski-Afrikan maapähkinäpata, jossa kana tai naudanliha haudutetaan tomaatin, paprikan ja maapähkinöiden kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "afrikkalainen",
+   "kana",
+   "liha",
+   "pata",
+   "maapähkinä"
+  ],
+  "ingredients": [
+   "900 g kanaa tai naudanlihaa paloina (luullisena tai luuttomana)",
+   "2,4 dl suolaamattomia kuorittuja maapähkinöitä",
+   "2 keskikokoista sipulia, hienonnettuna",
+   "2 tomaattia, kuutioituna",
+   "2 paprikaa, kuutioituna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "2 rkl tomaattipyreetä",
+   "2 rkl maapähkinävoita",
+   "2 rkl öljyä",
+   "1 l kana- tai lihalientä",
+   "1 tl paprikajauhetta",
+   "1 tl timjamia",
+   "suolaa",
+   "mustapippuria",
+   "tuoretta persiljaa tai korianteria koristeluun (valinnainen)"
+  ],
+  "instructions": [
+   "Jos maapähkinöissä on kuoret, paahda niitä uunissa muutama minuutti, kunnes kalvot irtoavat. Hiero ne irti käsien välissä tai puhtaalla keittiöpyyhkeellä.",
+   "Jauha maapähkinät tehosekoittimessa tai monitoimikoneessa hienoksi jauheeksi. Nosta sivuun.",
+   "Kuumenna öljy isossa kattilassa keskilämmöllä. Lisää sipulit ja kuullota.",
+   "Lisää kana- tai lihapalat ja ruskista joka puolelta.",
+   "Sekoita joukkoon valkosipuli, tomaatit ja paprikat. Kypsennä muutama minuutti, kunnes vihannekset alkavat pehmetä.",
+   "Lisää tomaattipyree, maapähkinävoi, maapähkinäjauhe, paprikajauhe, timjami, suola ja pippuri. Sekoita hyvin.",
+   "Kaada joukkoon liemi ja sekoita. Kuumenna kiehuvaksi.",
+   "Alenna lämpö mietoon ja peitä kattila kannella. Hauduta noin 1–1,5 tuntia, kunnes liha on mureaa ja maut ovat sekoittuneet.",
+   "Maista ja tarkista mausteet.",
+   "Tarjoa kuumana persiljalla tai korianterilla koristeltuna. Pata tarjoillaan yleensä riisin tai fufun kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-kanom-piak-poon-thai-coconut-and-pandan-pudding",
+  "title": "Khanom piak poon (thaimaalainen pandan-kookosvanukas)",
+  "description": "Thaimaalainen hyytelömäinen vanukas pandanmehusta, kookosmaidosta ja riisijauhoista, tarjoiltuna raastetun kookoksen kanssa.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "thaimaalainen",
+   "kookos",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "80 g riisijauhoja",
+   "40 g arrowroot-tärkkelystä",
+   "200 g sokeria",
+   "6 dl kalkkivettä (kylläinen kalsiumhydroksidiliuos)",
+   "2 dl tuoretta pandanmehua",
+   "2 dl kookosmaitoa",
+   "1 tl suolaa",
+   "2,4 dl raastettua tuoretta kookosta"
+  ],
+  "instructions": [
+   "Sekoita riisijauhot, arrowroot ja kalkkivesi. Lisää sokeri, pandanmehu, kookosmaito ja suola ja sekoita, kunnes sokeri on liuennut. Siivilöi seos kattilaan.",
+   "Kuumenna miedolla lämmöllä koko ajan sekoittaen, jottei seos tartu pohjaan.",
+   "Keitä, kunnes seos on kiiltävää ja sakeaa, noin 30–40 minuuttia.",
+   "Kaada seos öljyttyyn vuokaan. Tasoita pinta ja anna jäähtyä.",
+   "Leikkaa jäähtynyt vanukas haluamasi muotoisiksi paloiksi. Tarjoa raastetun kookoksen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-kansas-city-barbecue-sauce",
+  "title": "Kansas Cityn barbecuekastike",
+  "description": "Makea ja tulinen amerikkalainen grillikastike ketsupista ja melassista.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "amerikkalainen",
+   "grilli",
+   "kastike"
+  ],
+  "ingredients": [
+   "1 l ketsuppia",
+   "1,8 dl melassia (tai tummaa siirappia)",
+   "½ dl worcestershirekastiketta",
+   "½ dl soijakastiketta",
+   "½ dl omenaviinietikkaa",
+   "2 rkl cayennepippuria"
+  ],
+  "instructions": [
+   "Laita kaikki ainekset isoon kattilaan ja kuumenna kiehuvaksi kovalla lämmöllä.",
+   "Keitä usein sekoittaen 15 minuuttia.",
+   "Jäähdytä ja säilytä jääkaapissa lasi- tai muovipurkissa enintään 2 kuukautta."
+  ]
+ },
+ {
+  "id": "wikibooks-kanya-liberian-okra-soup",
+  "title": "Liberialainen okrakeitto",
+  "description": "Palmuöljyllä maustettu liberialainen okrakeitto kanan tai kalan kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "liberialainen",
+   "afrikkalainen",
+   "keitto",
+   "kana",
+   "okra"
+  ],
+  "ingredients": [
+   "2 rkl palmuöljyä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "450 g kanaa tai kalaa paloina",
+   "5 dl kanalientä tai vettä",
+   "1 tomaatti, kuutioituna",
+   "5 dl tuoretta okraa, viipaloituna",
+   "1 tl cayennepippuria",
+   "1 rkl jauhettua kuivattua katkarapua (valinnainen)",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kuumenna palmuöljy isossa kattilassa keskilämmöllä.",
+   "Lisää sipuli ja valkosipuli ja kuullota, kunnes sipuli on pehmeää.",
+   "Lisää kana- tai kalapalat ja ruskista ne joka puolelta.",
+   "Lisää liemi ja tomaatti ja kuumenna hiljaiselle kiehumiselle.",
+   "Lisää okra ja sekoita hyvin.",
+   "Keitä hiljalleen noin 20 minuuttia, kunnes okra on kypsää.",
+   "Sekoita joukkoon katkarapujauhe, cayenne ja suolaa maun mukaan.",
+   "Keitä vielä 5 minuuttia, jotta maut sekoittuvat.",
+   "Nosta kattila liedeltä ja anna keiton levätä hetki ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-kare-kare-oxtail-and-vegetables-in-peanut-sauce",
+  "title": "Kare-kare (häränhäntä maapähkinäkastikkeessa)",
+  "description": "Filippiiniläinen juhlapata: mureaksi keitettyä häränhäntää ja vihanneksia paksussa maapähkinä-riisikastikkeessa, tarjoiltuna katkaraputahnan kanssa.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "filippiiniläinen",
+   "liha",
+   "pata",
+   "maapähkinä"
+  ],
+  "ingredients": [
+   "800 g häränhäntää",
+   "1,5 l vettä",
+   "1,2 dl annattonsiemeniä (värjäykseen)",
+   "3 munakoisoa",
+   "450 g leikkopapuja",
+   "1 banaaninkukka",
+   "1 valkosipuli, hienonnettuna",
+   "1 sipuli, viipaloituna",
+   "½ dl öljyä",
+   "2,4 dl jauhettuja maapähkinöitä",
+   "2,4 dl paahdettua jauhettua riisiä",
+   "kalakastiketta",
+   "keitettyä riisiä ja katkaraputahnaa (bagoong) tarjoiluun"
+  ],
+  "instructions": [
+   "Keitä häränhäntää vedessä, kunnes se on mureaa.",
+   "Liota annattonsiemeniä 1,2 dl:ssa vettä. Hiero siemeniä tarvittaessa, jotta väri irtoaa.",
+   "Leikkaa pavut 8 cm:n paloiksi.",
+   "Leikkaa munakoisot vinoittain 1 cm paksuiksi viipaleiksi.",
+   "Leikkaa banaaninkukka vinoittain 1 cm paksuiksi viipaleiksi.",
+   "Ryöppää pavut, munakoisot ja banaaninkukka ja nosta sivuun.",
+   "Kuullota valkosipuli ja sipuli öljyssä.",
+   "Poista annattonsiemenet liotusvedestä, lisää värjätty vesi pataan ja keitä 5 minuuttia.",
+   "Sekoita joukkoon jauhetut maapähkinät ja riisi.",
+   "Kuumenna kiehuvaksi ja lisää häränhäntä ja vihannekset.",
+   "Lisää tarvittaessa vettä, jotta kastiketta on riittävästi; sen tulee olla paksua eikä vetistä. Mausta kalakastikkeella.",
+   "Tarjoa höyrytetyn riisin ja katkaraputahnan kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-karedok-indonesian-raw-vegetable-salad-with-peanut-dressing",
+  "title": "Karedok (indonesialainen raakasalaatti maapähkinäkastikkeella)",
+  "description": "Länsi-Jaavalainen raikas salaatti raaoista vihanneksista tulisen maapähkinäkastikkeen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Salaatit",
+  "tags": [
+   "indonesialainen",
+   "salaatti",
+   "maapähkinä",
+   "nopea"
+  ],
+  "ingredients": [
+   "Kastike:",
+   "1 punainen chili",
+   "2 valkosipulinkynttä",
+   "3 linnunsilmächiliä",
+   "1 tl raastettua galangaa",
+   "1,5 dl paahdettuja maapähkinöitä",
+   "2 rkl palmusokeria",
+   "½ tl suolaa",
+   "1 tl katkaraputahnaa (terasi)",
+   "1 rkl suolaista vettä",
+   "½ dl kuumaa vettä",
+   "Salaatti:",
+   "1 kurkku, viipaloituna",
+   "200 g pavunituja",
+   "¼ kaalinpää, hyvin ohueksi suikaloituna",
+   "100 g leikkopapuja, pilkottuna",
+   "1 kourallinen thaibasilikaa",
+   "1 pieni munakoiso, pieniksi kuutioiksi",
+   "Lisäksi:",
+   "paistettuja katkarapusipsejä (krupuk)"
+  ],
+  "instructions": [
+   "Survo chilit, valkosipuli, galanga, maapähkinät, palmusokeri, suola ja katkaraputahna huhmareessa tahnaksi.",
+   "Lisää suolainen ja kuuma vesi ja sekoita tasaiseksi kastikkeeksi.",
+   "Lisää kurkku, pavunidut, kaali, pavut, basilika ja munakoiso. Sekoita niin, että kastike peittää vihannekset.",
+   "Ripottele päälle katkarapusipsejä."
+  ],
+  "notes": [
+   "Alkuperäisessä ohjeessa ei ole määriä; ne ovat arvioita."
+  ]
+ },
+ {
+  "id": "wikibooks-karelian-pasties-karjalanpiirakat",
+  "title": "Karjalanpiirakat",
+  "description": "Perinteiset karjalanpiirakat ohuesta ruiskuoresta ja riisipuurotäytteestä, tarjoiltuna munavoin kanssa.",
+  "servings": 20,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "suomalainen",
+   "leivonnainen",
+   "riisi",
+   "kasvis",
+   "perinneruoka"
+  ],
+  "ingredients": [
+   "Riisipuuro:",
+   "5 dl vettä",
+   "3 dl puuroriisiä",
+   "9 dl maitoa",
+   "1½ tl suolaa",
+   "Kuoritaikina:",
+   "2 dl kylmää vettä",
+   "1½ tl suolaa",
+   "3,5 dl ruisjauhoja",
+   "1,5 dl vehnäjauhoja",
+   "Voitelu:",
+   "1 dl maitoa",
+   "50 g voita",
+   "Munavoi:",
+   "50 g voita, pehmennettynä",
+   "2 kovaksi keitettyä kananmunaa, hienonnettuna",
+   "¼ tl suolaa (valinnainen)",
+   "125 g raejuustoa (valinnainen)"
+  ],
+  "instructions": [
+   "Lisää riisi kiehuvaan veteen. Keitä, kunnes vesi on imeytynyt riisiin.",
+   "Lisää maito ja sekoita muutaman minuutin ajan. Alenna lämpöä ja keitä puuroa noin 40 minuuttia välillä sekoittaen. Valmis puuro on paksua.",
+   "Sekoita joukkoon suola ja jäähdytä puuro.",
+   "Sekoita jauhot ja suola kylmään veteen.",
+   "Vaivaa taikina tasaiseksi ja notkeaksi.",
+   "Muotoile taikinasta tanko ja jaa se noin 20 palaan.",
+   "Pyöritä palat palloiksi, litistä pieniksi kiekoiksi ja peitä kelmulla.",
+   "Kauli kiekot ohuiksi, noin 17 cm:n levyisiksi pyöreiksi kuoriksi.",
+   "Levitä kuoren keskelle soikeaksi riisitäytettä.",
+   "Rypytä reunat sormin täytteen päälle.",
+   "Paista piirakoita hyvin kuumassa uunissa (250–300 astetta) noin 15 minuuttia, kunnes kuori on ruskistunut.",
+   "Kuumenna voi ja maito yhdessä, kunnes voi on sulanut.",
+   "Voitele piirakat kuumalla voi-maitoseoksella.",
+   "Pinoa piirakat päällekkäin ja anna niiden pehmetä leivinpaperin ja pyyhkeen alla.",
+   "Sekoita munavoin ainekset ja levitä piirakoiden päälle."
+  ]
+ }
+]

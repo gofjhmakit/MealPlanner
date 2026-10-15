@@ -1,0 +1,723 @@
+[
+ {
+  "id": "wikibooks-stir-fried-shrimp-with-broccoli",
+  "title": "Wokattu katkarapu ja parsakaali",
+  "description": "Nopea kiinalaistyylinen wokki: katkaravut ja parsakaalinkukinnot paistetaan valkosipulin kanssa ja maustetaan osterikastikkeella.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "kiinalainen",
+   "wokki",
+   "nopea",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "1 rkl rypsi- tai maapähkinäöljyä",
+   "1 rkl hienonnettua valkosipulia",
+   "200 g kuorittuja katkarapuja",
+   "300 g parsakaalia, kukintoina ja huuhdottuna",
+   "1 tl suolaa",
+   "1 rkl osterikastiketta"
+  ],
+  "instructions": [
+   "Kuumenna pannu tai wokki, lisää öljy ja valkosipuli ja paista kullanruskeaksi.",
+   "Lisää katkaravut ja parsakaali. Mausta suolalla ja osterikastikkeella, lisää tilkka vettä ja sekoita, kunnes katkaravut ovat kypsiä ja parsakaali kirkkaan vihreää.",
+   "Nosta lautaselle ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-stir-fried-veggies-and-poached-egg",
+  "skip": "liian puutteellinen (määrät puuttuvat kokonaan)"
+ },
+ {
+  "id": "wikibooks-stoofvlees-flemish-beef-stew",
+  "title": "Stoofvlees (flaamilainen olutpata)",
+  "description": "Belgialainen naudanlihapata, jossa jauhotettu liha haudutetaan tumman oluen ja kirsikkaoluen kanssa. Sinapilla sivelty leipäviipale sakeuttaa kastikkeen.",
+  "servings": 4,
+  "totalTimeMin": 180,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "naudanliha",
+   "pata",
+   "belgialainen"
+  ],
+  "ingredients": [
+   "2 rkl vehnäjauhoja",
+   "mustapippuria",
+   "suolaa",
+   "500 g haudutukseen sopivaa naudanlihaa (esim. niskaa)",
+   "2 rkl voita",
+   "2 sipulia, hienonnettuna",
+   "1 pullo (33 cl) tummaa olutta (mieluiten trappistiolutta)",
+   "1 pullo (33 cl) kirsikkaolutta tai vaaleaa olutta",
+   "2 laakerinlehteä",
+   "1 tl timjamia",
+   "1 viipale leipää",
+   "1 rkl sinappia",
+   "tilkka etikkaa (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita jauhot, pippuri ja suola.",
+   "Leikkaa liha 2 cm:n kuutioiksi ja pyörittele kevyesti jauhoseoksessa.",
+   "Ruskista liha pannulla voissa (ei öljyssä) joka puolelta ruskeaksi – ruskistus antaa kastikkeelle värin. Nosta sivuun.",
+   "Kuullota sipulit padassa voissa. Kun ne alkavat saada väriä, lisää liha ja kaada oluet päälle.",
+   "Lisää laakerinlehdet ja timjami. Sivele leipäviipale sinapilla ja nosta se lihan päälle sinappipuoli alaspäin.",
+   "Peitä pata ja laita kattilan ja kannen väliin pala kosteaa leivinpaperia tiivisteeksi, ettei pata kuivu ja pala.",
+   "Hauduta miedolla lämmöllä 2–3 tuntia tai 100-asteisessa uunissa 4–5 tuntia.",
+   "Mausta halutessasi tilkalla etikkaa.",
+   "Tarjoa ranskanperunoiden, salaatin ja tomaattien kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-stovetop-mac-n-cheese",
+  "title": "Kattilassa tehty makaronijuusto",
+  "description": "Kermainen makaronijuusto neljästä juustosta: cheddar, gruyère, fontina ja Monterey Jack sulatetaan voi-jauhopohjaan, ja keltuaiset tekevät kastikkeesta samettisen.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "juusto",
+   "kasvis",
+   "amerikkalainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "225 g makaronia",
+   "1,8 dl kuohukermaa",
+   "3 rkl suolatonta voita",
+   "3 rkl vehnäjauhoja",
+   "2,4 dl raastettua mietoa cheddarjuustoa",
+   "2,4 dl raastettua gruyèrea",
+   "2,4 dl raastettua fontinaa",
+   "2,4 dl raastettua Monterey Jack -juustoa",
+   "4 kananmunankeltuaista, vatkattuna",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kiehauta 4 litraa vettä, lisää suola ja keitä makaronit al denteksi.",
+   "Sulata sillä välin voi kattilassa keskimiedolla lämmöllä ja kuumenna, kunnes kuplinta lakkaa.",
+   "Vatkaa joukkoon jauhot ja kypsennä koko ajan vatkaten, kunnes seos on vaalean kullanruskeaa.",
+   "Vatkaa joukkoon kerma. Temperoi keltuaiset sekoittamalla niihin ensin vähän kuumaa kastiketta ja kaada ne sitten kattilaan. Lisää juustot ja kuumenna kiehumispisteen alapuolelle koko ajan vatkaten, kunnes kastike hieman sakenee.",
+   "Kääntele makaronit kastikkeeseen ja tarjoa lämpimänä."
+  ],
+  "notes": [
+   "Lähteen ohjeessa kerman lisäämistä ei mainita; se lisätään ennen keltuaisia."
+  ]
+ },
+ {
+  "id": "wikibooks-stovies",
+  "title": "Stovies (skotlantilainen perunapata)",
+  "description": "Skotlantilainen tähderuoka: perunat ja sipulit hautuvat paistinrasvassa kannen alla pehmeiksi, ja lopuksi joukkoon sekoitetaan edellisen päivän paistin lihaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "peruna",
+   "skotlantilainen",
+   "arkiruoka",
+   "tähteet"
+  ],
+  "ingredients": [
+   "1 kg perunoita",
+   "50 g naudan paistinrasvaa tai voita",
+   "3 keskikokoista sipulia, karkeasti pilkottuna",
+   "125–250 g kypsää naudan- tai lampaanlihaa (paistin tähteitä)",
+   "2–3 rkl hienonnettua persiljaa, ruohosipulia tai kevätsipulia",
+   "maustesuolaa (valinnainen)",
+   "mustapippuria (valinnainen)",
+   "maustepippuria tai muskottipähkinää (valinnainen)"
+  ],
+  "instructions": [
+   "Kuori perunat (uudet perunat voi jättää kuorimatta) ja viipaloi noin 5 mm paksuiksi. Halutessasi viipaloi eri paksuisiksi, jolloin ohuet hajoavat sosemaiseksi ja paksut jäävät kokonaisiksi.",
+   "Kuumenna rasva isossa paksupohjaisessa kattilassa, jossa on tiivis kansi, ja paista sipulit kevyesti ruskeiksi. Lisää perunat ja sekoita, niin että ne peittyvät rasvalla.",
+   "Laita kansi päälle ja kypsennä hyvin miedolla lämmöllä, kunnes perunat ovat kypsiä. Ravista kattilaa välillä, etteivät perunat tartu pohjaan.",
+   "Lisää liha, sekoita ja nosta lämpöä hetkeksi, jotta pinta ruskistuu hieman.",
+   "Tarjoa ruskean kastikkeen ja persiljan kanssa ja mausta halutessasi."
+  ]
+ },
+ {
+  "id": "wikibooks-stracciatella-i",
+  "title": "Stracciatella (italialainen munakeitto)",
+  "description": "Kiehuvaan kanaliemeen vatkataan parmesaanilla ja persiljalla maustettu munaseos, joka hyytyy ohuiksi riekaleiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kananmuna",
+   "italialainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 l kanalientä",
+   "2 isoa kananmunaa",
+   "1,2 dl raastettua parmesaania",
+   "½ dl tuoretta persiljaa, hienonnettuna",
+   "1 tl mustapippuria",
+   "½ tl muskottipähkinää (valinnainen)",
+   "chilihiutaleita (valinnainen)"
+  ],
+  "instructions": [
+   "Kiehauta liemi isossa kattilassa.",
+   "Vatkaa erikseen kananmunat, juusto ja persilja.",
+   "Kun liemi kiehuu voimakkaasti, pyöritä lientä vispilällä pyörteeksi.",
+   "Lisää munaseos hitaasti ja pidä liemi koko ajan kiehumassa, jotta muna hyytyy nopeasti.",
+   "Nosta liedeltä ja mausta pippurilla (ja halutessasi muskotilla ja chilillä).",
+   "Tarjoa heti tai kuumenna uudelleen ja tarjoa hyvin kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-stracciatella-ii",
+  "skip": "liian puutteellinen (määrät puuttuvat); lähes sama kuin edellinen stracciatella"
+ },
+ {
+  "id": "wikibooks-strawberry-and-banana-smoothie",
+  "title": "Mansikka-banaanismoothie",
+  "description": "Mansikoista, banaanista, omenamehusta ja jogurtista tehty smoothie, jota makeutetaan tarvittaessa hunajalla.",
+  "servings": 2,
+  "totalTimeMin": 5,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "smoothie",
+   "marjat",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "125 g mansikoita",
+   "2 banaania",
+   "2 dl omenamehua",
+   "150 g maustamatonta jogurttia",
+   "50 g jääpaloja",
+   "1 rkl hunajaa"
+  ],
+  "instructions": [
+   "Poista mansikoista kannat.",
+   "Kuori banaanit.",
+   "Soseuta kaikki ainekset tehosekoittimessa sileäksi.",
+   "Lisää hunajaa maun mukaan ja kaada kahteen lasiin."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-cream-pie",
+  "title": "Mansikka-kermapiirakka",
+  "description": "Esipaistettu piirakkapohja täytetään makeutetulla kermavaahdolla ja tuoreilla mansikoilla ja jäähdytetään yön yli.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "piirakka",
+   "marjat",
+   "mansikka"
+  ],
+  "ingredients": [
+   "5,7 dl kuohukermaa",
+   "½ dl sokeria",
+   "1 valmis piirakkapohja, esipaistettuna",
+   "900 g tuoreita mansikoita, puhdistettuna ja viipaloituna"
+  ],
+  "instructions": [
+   "Vatkaa kerma ja sokeri isossa kulhossa pehmeäksi, kuohkeaksi vaahdoksi.",
+   "Levitä kermavaahto piirakkapohjaan.",
+   "Levitä mansikat kermavaahdon päälle.",
+   "Peitä ja jäähdytä yön yli."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-daiquiri",
+  "skip": "alkoholijuoma (cocktail)"
+ },
+ {
+  "id": "wikibooks-strawberry-dumplings",
+  "title": "Mansikkanyytit (Erdbeerknödel)",
+  "description": "Itävaltalaiset rahkataikinanyytit, joiden sisällä on kokonainen mansikka. Nyytit keitetään ja pyöritellään voissa ja sokerissa paahdetuissa korppujauhoissa.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "marjat",
+   "mansikka",
+   "itävaltalainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "50 g voita",
+   "200 g korppujauhoja",
+   "50 g sokeria",
+   "1 kananmuna",
+   "500 g rahkaa",
+   "ripaus suolaa",
+   "125 g vehnäjauhoja + jauhoja käsittelyyn",
+   "12 kypsää keskikokoista mansikkaa, huuhdottuna ja kannat poistettuna",
+   "tomusokeria"
+  ],
+  "instructions": [
+   "Sulata voi paistinpannulla.",
+   "Lisää korppujauhot ja sokeri ja paahda ruskeiksi. Sekoita hyvin, sillä sokeri saa murut palamaan nopeasti.",
+   "Laita kananmuna ja rahka isoon kulhoon ja lisää ripaus suolaa. Sekoita tasaiseksi.",
+   "Lisää jauhot vähitellen sekoittaen, kunnes taikina irtoaa kulhon reunasta.",
+   "Anna taikinan levätä noin 5 minuuttia. Jos se on liian kosteaa, lisää jauhoja.",
+   "Jauhota kädet. Ota iso ruokalusikallinen taikinaa kämmenelle, lisää hieman jauhoja ja pyörittele pieneksi palloksi.",
+   "Litistä pallo, nosta mansikka keskelle, peitä mansikka taikinalla ja nipistä kiinni.",
+   "Jauhota nyytti ja kädet ja pyörittele nyytti sileäksi palloksi. Nosta jauhotetulle lautaselle niin, että nyytit eivät koske toisiinsa.",
+   "Kiehauta isossa kattilassa noin 3 litraa vettä.",
+   "Laske nyytit kiehuvaan veteen ja keitä kannettomana noin 10 minuuttia. Nyytit ovat valmiita, kun ne nousevat pintaan ja ikään kuin tanssivat.",
+   "Nosta nyytit vedestä ja pyöritä ne paahdetuissa korppujauhoissa, kun pinta on vielä kostea.",
+   "Tarjoa paahdettujen murujen kanssa ja siivilöi pinnalle tomusokeria."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-fromage-frais",
+  "title": "Mansikkarahkahyytelö",
+  "description": "Kevyt jälkiruoka: rahkaa, sokeritonta mansikkahilloa ja valkuaisvaahtoa hyydytetään liivatteella ja koristellaan tuoreilla marjoilla.",
+  "servings": 6,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "rahka",
+   "marjat",
+   "mansikka",
+   "kevyt"
+  ],
+  "ingredients": [
+   "6 liivatelehteä",
+   "6 dl rasvatonta maitorahkaa tai fromage fraisia",
+   "1½ tl sokeritonta mansikkahilloa",
+   "2 kananmunanvalkuaista",
+   "¾ tl sokeria tai makeutusainetta",
+   "½ dl kiehuvaa vettä",
+   "tuoreita marjoja koristeluun"
+  ],
+  "instructions": [
+   "Liota liivatelehtiä kylmässä vedessä.",
+   "Vatkaa rahka ja hillo tasaiseksi.",
+   "Vatkaa valkuaiset sokerin kanssa kovaksi vaahdoksi ja kääntele rahkaseokseen.",
+   "Purista liivatteet ja liuota ne kiehuvaan veteen. Sekoita liivate varovasti rahkaseokseen.",
+   "Annostele seos annoskuppeihin tai kulhoon ja hyydytä jääkaapissa useita tunteja.",
+   "Koristele tuoreilla marjoilla ja tarjoa."
+  ],
+  "notes": [
+   "Jälkiruoassa on kypsentämätöntä kananmunanvalkuaista; käytä pastöroitua valkuaista, jos tarjoat sitä raskaana oleville, pienille lapsille tai iäkkäille."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-frozen-yogurt",
+  "title": "Mansikkajogurttijäätelö",
+  "description": "Sokerissa ja sitruunassa maceroidut mansikat soseutetaan, sekoitetaan kreikkalaiseen jogurttiin ja jäädytetään jäätelökoneessa.",
+  "servings": 4,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "jäätelö",
+   "marjat",
+   "mansikka"
+  ],
+  "ingredients": [
+   "450 g tuoreita mansikoita",
+   "2,4 dl kreikkalaista jogurttia (2 %)",
+   "1 sitruuna",
+   "1,2 dl sokeria",
+   "1 rkl appelsiinilikööriä"
+  ],
+  "instructions": [
+   "Pese ja kuivaa mansikat ja sitruuna.",
+   "Leikkaa mansikat pieniksi paloiksi ja sekoita sokerin kanssa.",
+   "Pyörittele sitruunaa pöydällä painaen, halkaise se ja purista mehu siivilän läpi mansikoihin.",
+   "Lisää myös sitruunanpuolikkaat kuorineen mansikoiden joukkoon.",
+   "Anna maceroitua 1–2 tuntia välillä sekoittaen, kunnes sokeri on liuennut.",
+   "Poista sitruunanpuolikkaat ja lisää likööri.",
+   "Soseuta seos tehosekoittimessa, mutta älä liian hienoksi.",
+   "Sekoita jogurtti joukkoon.",
+   "Jäähdytä jääkaapissa vähintään 4 tuntia.",
+   "Kaada seos jäätelökoneeseen ja pyöritä noin 20 minuuttia, kunnes jogurttijäätelö on kiinteää. Tarjoa heti tai pakasta myöhemmäksi."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-italian-ice",
+  "title": "Mansikkagranita",
+  "description": "Mansikat, sokeri, sitruunamehu ja jäät soseutetaan ja jäädytetään vuoassa rakeiseksi italialaiseksi jääjälkiruoaksi.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 50,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "marjat",
+   "mansikka",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "450 g tuoreita mansikoita, kannat poistettuna",
+   "½ dl hienoa sokeria",
+   "2 tl sitruunamehua",
+   "5 dl (n. 11) jääpaloja"
+  ],
+  "instructions": [
+   "Laita 23–25 cm:n metallinen kakkuvuoka pakastimeen.",
+   "Soseuta mansikat, sokeri ja sitruunamehu tehosekoittimessa sileäksi, kunnes sokeri on liuennut.",
+   "Lisää jääpalat ja soseuta sileäksi. Kaada kylmään vuokaan ja pakasta 30–40 minuuttia, kunnes reunat ovat jäätyneet mutta keskusta on vielä pehmeä.",
+   "Sekoita ja murskaa jäätyneet osat haarukalla. Annostele kahteen kulhoon."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-milkshake",
+  "skip": "liian puutteellinen (määrät puuttuvat kokonaan)"
+ },
+ {
+  "id": "wikibooks-strawberry-pie",
+  "title": "Mansikkapiirakka",
+  "description": "Yksinkertainen piirakka, jonka täytteenä on sokerisiirapiksi keitetyt mansikat. Tarjoillaan kermavaahdon kanssa.",
+  "servings": 6,
+  "totalTimeMin": 45,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "piirakka",
+   "marjat",
+   "mansikka"
+  ],
+  "ingredients": [
+   "1 valmis piirakkapohja",
+   "2,4 dl viipaloituja mansikoita",
+   "½ dl vettä",
+   "1,6 dl sokeria",
+   "1 rkl sitruunamehua",
+   "kermavaahtoa tarjoiluun"
+  ],
+  "instructions": [
+   "Laita mansikat kattilaan ja lisää vesi, sokeri ja sitruunamehu. Kiehauta ja keitä välillä sekoittaen, kunnes seos on paksua ja siirappimaista.",
+   "Asettele piirakkapohja vuokaan ja kaada täyte pohjaan.",
+   "Paista 175-asteisessa uunissa noin 60 minuuttia tai kunnes pohja on kullanruskea. Anna jäähtyä.",
+   "Tarjoa kermavaahdon kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-rhubarb-pie",
+  "title": "Mansikka-raparperipiirakka",
+  "description": "Amerikkalainen kaksikuorinen piirakka, jonka täytteenä ovat raparperi ja mansikat sokerin ja maissitärkkelyksen kera.",
+  "servings": 8,
+  "totalTimeMin": 105,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "piirakka",
+   "raparperi",
+   "mansikka",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 murea piirakkataikina (pohja ja kansi)",
+   "6 dl raparperipaloja (n. 550 g)",
+   "6 dl viipaloituja mansikoita",
+   "3 dl sokeria",
+   "½ dl maissitärkkelystä tai tapiokahelmiä",
+   "¼ tl suolaa"
+  ],
+  "instructions": [
+   "Valmista piirakkataikina ja laita se jääkaappiin täytteen valmistuksen ajaksi.",
+   "Puhdista mansikat ja poista kannat. Halkaise ne (isot neljään osaan).",
+   "Puhdista ja siisti raparperinvarret ja leikkaa 1–2 cm:n paloiksi.",
+   "Sekoita hedelmiin sokeri, maissitärkkelys ja suola niin, että raparperi peittyy tasaisesti.",
+   "Kauli puolet taikinasta vuokaan, kaada täyte pohjaan ja peitä toisella taikinalevyllä. Painele reunat kiinni ja tee kanteen muutama viilto.",
+   "Paista 220-asteisessa uunissa 20 minuuttia, laske lämpö 180 asteeseen ja paista vielä 40–50 minuuttia, kunnes kuori on kullanruskea ja täyte kuplii. Anna jäähtyä ennen leikkaamista."
+  ],
+  "notes": [
+   "Lähde viittaa paistamisessa erilliseen piirakkataikinaohjeeseen; paistoaika ja -lämpötila ovat tavanomaiset kaksikuoriselle piirakalle."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-shortcake",
+  "title": "Strawberry shortcake (mansikkakakku)",
+  "description": "Kaksi paistettua scone-tyyppistä pohjaa halkaistaan, täytetään voikreemillä ja lämmitetyillä mansikoilla ja kuorrutetaan kermavaahdolla.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "kakku",
+   "marjat",
+   "mansikka",
+   "leivonta"
+  ],
+  "ingredients": [
+   "275 g vehnäjauhoja",
+   "4 tl leivinjauhetta",
+   "½ tl suolaa",
+   "2 tl sokeria",
+   "1,85 dl maitoa",
+   "60 g voita",
+   "200 g mansikoita",
+   "1 rkl sokeria",
+   "225 g voikreemiä",
+   "2,5 dl kuohukermaa, vaahdotettuna pienen sokerimäärän kanssa"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen. Voitele pelti ja vuoraa leivinpaperilla.",
+   "Sekoita kuivat ainekset kulhossa.",
+   "Nypi voi jauhoseokseen sormin murumaiseksi.",
+   "Lisää maito vähitellen ja sekoita pehmeäksi taikinaksi.",
+   "Kumoa taikina jauhotetulle alustalle ja jaa kahteen osaan.",
+   "Painele osia hieman litteiksi ja kauli ne pyöreiksi levyiksi. Nosta pellille.",
+   "Paista 12 minuuttia ja anna jäähtyä kokonaan.",
+   "Halkaise kumpikin pohja vaakasuunnassa ja levitä jokaiselle kerrokselle voikreemiä.",
+   "Makeuta mansikat sokerilla ja lämmitä ne kattilassa.",
+   "Nosta liedeltä ja murskaa mansikat kevyesti.",
+   "Kerrosta mansikat pohjien väliin ja levitä osa päällimmäiseen kerrokseen.",
+   "Peitä pinta kermavaahdolla."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-shortcut-cake",
+  "title": "Mansikka-vaahtokarkkikakku",
+  "description": "Amerikkalainen uunivuokakakku: vuoan pohjalle ripotellut vaahtokarkit nousevat paistaessa pintaan, ja taikinan päälle lusikoitu mansikka-hyytelöseos valuu pohjalle.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "kakku",
+   "mansikka",
+   "leivonta",
+   "amerikkalainen"
+  ],
+  "ingredients": [
+   "2,4 dl minivaahtokarkkeja",
+   "570 g pakastettuja makeutettuja mansikkaviipaleita siirapissa, kokonaan sulatettuna",
+   "1 ps (85 g) mansikkahyytelöjauhetta",
+   "5,5 dl vehnäjauhoja",
+   "3,5 dl sokeria",
+   "3 tl leivinjauhetta",
+   "½ tl suolaa",
+   "1,2 dl leivontarasvaa",
+   "2,4 dl maitoa",
+   "3 kananmunaa",
+   "1 tl vaniljauutetta"
+  ],
+  "instructions": [
+   "Voitele 23 × 33 cm:n uunivuoan pohja reilusti.",
+   "Ripottele vaahtokarkit tasaisesti vuoan pohjalle.",
+   "Sekoita sulatetut mansikat siirappeineen hyytelöjauheeseen ja nosta sivuun.",
+   "Sekoita loput ainekset isossa kulhossa pienellä nopeudella, kunnes jauhot kostuvat. Vatkaa sitten keskinopeudella 3 minuuttia, reunoja välillä kaapien.",
+   "Kaada taikina vaahtokarkkien päälle ja levitä. Lusikoi mansikkaseos tasaisesti taikinan päälle.",
+   "Paista 175-asteisessa uunissa 45–60 minuuttia, kunnes kakku on kullanruskea ja keskelle työnnetty tikku tulee ulos puhtaana.",
+   "Tarjoa lämpimänä tai jäähtyneenä jäätelön tai kermavaahdon kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-strawberry-vanilla-lassi",
+  "title": "Mansikka-vaniljalassi",
+  "description": "Intialaistyylinen jogurttijuoma, jossa on mansikoita, vaniljajäätelöä ja ripaus sitruunaa.",
+  "servings": 2,
+  "totalTimeMin": 5,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "lassi",
+   "mansikka",
+   "intialainen",
+   "nopea"
+  ],
+  "ingredients": [
+   "10 mansikkaa",
+   "4 rkl hienoa sokeria",
+   "1 tl vaniljasokeria",
+   "4 palloa vaniljajäätelöä",
+   "1,5 dl vettä",
+   "1 rkl sitruunamehua",
+   "200 g maustamatonta jogurttia"
+  ],
+  "instructions": [
+   "Soseuta kaikki ainekset tehosekoittimessa tasaiseksi ja tarjoa heti."
+  ]
+ },
+ {
+  "id": "wikibooks-strip-steaks-with-pepper-cream-reduction",
+  "title": "Naudan ulkofileepihvit ja pippurikermakastike",
+  "description": "Paksut ulkofileepihvit paistetaan voissa ja öljyssä, ja pannu deglasoidaan lihaliemellä ja kermalla pippuriseksi kastikkeeksi.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "totalTimeMin": 25,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "naudanliha",
+   "pihvi",
+   "nopea",
+   "juhla"
+  ],
+  "ingredients": [
+   "2 naudan ulkofileepihviä (n. 2,5 cm, á 340–450 g)",
+   "suolaa",
+   "1 rkl karkeaksi murskattuja mustapippureita, jaettuna",
+   "2 rkl suolatonta voita",
+   "1½ tl oliiviöljyä (ei ekstra-neitsyt)",
+   "½ dl lihalientä",
+   "2,4 dl kuohukermaa",
+   "2 tl worcestershirekastiketta"
+  ],
+  "instructions": [
+   "Mausta pihvit molemmin puolin suolalla ja ripauksella murskattua pippuria.",
+   "Sulata voi öljyn kanssa ruostumattomalla (ei tarttumattomalla) paistinpannulla keskikovalla lämmöllä.",
+   "Paista pihvejä 4–5 minuuttia puolelta (medium rare), 6–7 minuuttia (medium) tai 8–9 minuuttia (kypsä).",
+   "Nosta pihvit pannulta ja pidä lämpimänä.",
+   "Kaada paistorasva pois, mutta jätä ruskistuneet jäämät pannulle. Kaada liemi pannulle ja keitä kovalla lämmöllä, kunnes siitä on jäljellä kolmannes.",
+   "Lisää kerma, worcestershirekastike ja loput pippurista. Kiehauta ja keitä, kunnes kastiketta on noin 1,2 dl.",
+   "Valuta kastike pihvien päälle ja tarjoa lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-strong-candied-sweet-potatoes",
+  "title": "Konjakkiset sokeroidut bataatit",
+  "description": "Bataattiviipaleet paahdetaan uunissa fariinisokerista, appelsiininkuoresta, mausteista ja brandystä keitetyssä siirapissa ja tarjotaan kylminä.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "totalTimeMin": 60,
+  "category": "Lisukkeet",
+  "tags": [
+   "bataatti",
+   "lisuke",
+   "amerikkalainen",
+   "juhla",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "5 isoa bataattia",
+   "5,5 dl fariinisokeria",
+   "5 neilikkaa",
+   "1 appelsiinin raastettu kuori",
+   "5 dl vettä",
+   "1,2 dl brandyä tai konjakkia",
+   "1 tl muskottipähkinää",
+   "1 kanelitanko"
+  ],
+  "instructions": [
+   "Kuori ja viipaloi bataatit ja asettele ne syvään uunivuokaan kanelitangon kanssa.",
+   "Sekoita kattilassa vesi, brandy, appelsiininkuori, neilikat, fariinisokeri ja muskotti. Kiehauta ja keitä 5 minuuttia.",
+   "Kaada siirappi bataattien päälle.",
+   "Peitä foliolla ja paista 175-asteisessa uunissa noin 30 minuuttia, kunnes bataatit ovat pehmeitä ja kiiltäviä.",
+   "Jäähdytä 3 tuntia ja tarjoa kylmänä."
+  ]
+ },
+ {
+  "id": "wikibooks-stroopwafels",
+  "title": "Stroopwafels (hollantilaiset siirappivohvelit)",
+  "description": "Ohuet hiivataikinavohvelit paistetaan vohveliraudassa, halkaistaan ja täytetään kanelilla maustetulla toffee-siirappitäytteellä.",
+  "servings": 12,
+  "totalTimeMin": 120,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leivonta",
+   "keksi",
+   "hollantilainen",
+   "makea"
+  ],
+  "ingredients": [
+   "Vohvelit:",
+   "1 ps (n. 7 g) kuivahiivaa",
+   "1,2 dl lämmintä vettä",
+   "9,5 dl vehnäjauhoja",
+   "225 g suolatonta voita, pehmeänä",
+   "½ tl kanelia",
+   "1,2 dl sokeria",
+   "2 isoa kananmunaa",
+   "Täyte:",
+   "3,5 dl fariinisokeria",
+   "225 g suolatonta voita",
+   "1 tl kanelia",
+   "6 rkl tummaa siirappia",
+   "1,2 dl hienoksi jauhettuja hasselpähkinöitä (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna pizzelle- tai ohut vohvelirauta.",
+   "Liuota hiiva lämpimään veteen.",
+   "Nypi voi jauhoihin ja sekoita joukkoon sokeri, kaneli, munat ja hiivaseos.",
+   "Sekoita hyvin ja anna kohota 30–60 minuuttia.",
+   "Pyörittele taikinasta 12 pientä palloa. Paina pallo kerrallaan kuumaan vohvelirautaan ja paista noin 30 sekuntia.",
+   "Keitä täytteen fariinisokeri, voi, kaneli ja siirappi kattilassa pehmeän pallon asteelle (112–115 astetta).",
+   "Sekoita halutessasi joukkoon jauhetut hasselpähkinät.",
+   "Halkaise kukin vohveli lämpimänä kahdeksi ohueksi levyksi ja levitä väliin täytettä.",
+   "Toista, kunnes kaikki vohvelit ja täyte on käytetty."
+  ]
+ },
+ {
+  "id": "wikibooks-strudel",
+  "title": "Omenastrudeli filotaikinasta",
+  "description": "Helppo omenastrudeli: kanelilla ja sokerilla maustettu omenatäyte kerrostetaan voilla siveltyjen filotaikinalevyjen väliin ja paistetaan kullanruskeaksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 50,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "omena",
+   "leivonta",
+   "kasvis"
+  ],
+  "ingredients": [
+   "4 omenaa, mieluiten punaisia",
+   "½ tl kanelia",
+   "2 rkl sokeria",
+   "1,2 dl voita, sulatettuna",
+   "1 pkt (n. 250 g) filotaikinalevyjä"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Kuori omenat, poista siemenkodat ja kuutioi.",
+   "Sekoita omenat, kaneli ja sokeri hyvin.",
+   "Sivele filotaikinalevyt reilusti voilla.",
+   "Levitä omenaseosta taikinalevyn päälle.",
+   "Jatka kerroksittain: kaksi filolevyä jokaista omenakerrosta kohden.",
+   "Sivele pinta sulatetulla voilla.",
+   "Paista noin 30 minuuttia, kunnes taikina on kullanruskeaa."
+  ]
+ },
+ {
+  "id": "wikibooks-struffoli-neapolitan-honey-fried-dough",
+  "title": "Struffoli (napolilaiset hunajapallot)",
+  "description": "Napolilainen jouluherkku: pienet friteeratut taikinapallot kastetaan appelsiininkuorella maustettuun hunajasiirappiin.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "italialainen",
+   "joulu",
+   "friteerattu",
+   "juhla"
+  ],
+  "ingredients": [
+   "Taikina:",
+   "6 kananmunaa",
+   "6 rkl rypsiöljyä",
+   "3 tl leivinjauhetta",
+   "½ tl viinikiveä",
+   "3,5 dl sokeria",
+   "1,2 dl kuivaa sherryä",
+   "n. 9–10 dl vehnäjauhoja",
+   "leivontarasvaa tai öljyä friteeraukseen",
+   "Kuorrute:",
+   "3,5 dl sokeria",
+   "5 dl hunajaa",
+   "1 rkl appelsiininkuoriraastetta"
+  ],
+  "instructions": [
+   "Sekoita munat, öljy, leivinjauhe, viinikivi, sokeri ja sherry. Lisää jauhoja sen verran, että syntyy hieman tahmea mutta käsiteltävä taikina.",
+   "Pyörittele taikinasta pieniä, noin 1 cm:n palloja.",
+   "Kuumenna rasva 175–190 asteeseen ja friteeraa pallot kullanruskeiksi ja läpikypsiksi.",
+   "Kuumenna kuorrutteen ainekset miedolla lämmöllä, kunnes sokeri on liuennut. Kasta pallot kuorrutteeseen ja nosta tarjoiluvadille."
+  ]
+ }
+]
