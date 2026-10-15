@@ -1,0 +1,765 @@
+[
+ {
+  "id": "wikibooks-torta-de-acelga-chard-pie",
+  "title": "Torta de acelga (mangoldipiiras)",
+  "description": "Eteläamerikkalainen ja espanjalainen lehtitaikinapiiras mangoldista, kananmunista ja juustosta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "piirakka",
+   "kasvis",
+   "argentiinalainen",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "1 pkt (n. 500 g) lehtitaikinaa",
+   "1,5 kg mangoldia",
+   "6 kananmunaa",
+   "1 dl korppujauhoja",
+   "1,5 dl juustoraastetta",
+   "1 nippu persiljaa, hienonnettuna",
+   "2 tl hienonnettua valkosipulia",
+   "2 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Poista mangoldista varret (ne voi käyttää muuhun ruokaan).",
+   "Pese lehdet huolellisesti hiekan ja mullan poistamiseksi. Keitä lehdet, valuta erittäin hyvin ja hienonna. Paista niitä muutama minuutti kuumassa oliiviöljyssä ja nosta sivuun.",
+   "Kauli lehtitaikina ja vuoraa sillä uunin kestävä piirakkavuoka niin, että taikinaa jää reunojen yli piirakan sulkemiseen.",
+   "Vatkaa kananmunat ja sekoita joukkoon korppujauhot, juusto, persilja, valkosipuli ja mausteet.",
+   "Lisää seos mangoldin joukkoon ja sekoita.",
+   "Täytä vuoka täytteellä ja sulje piirakka taikinalla.",
+   "Paista uunissa 150 asteessa noin 30 minuuttia tai kunnes piirakka on kullanruskea."
+  ]
+ },
+ {
+  "id": "wikibooks-tortellini-in-sweet-potato-sauce",
+  "title": "Tortellinit bataattikastikkeessa",
+  "description": "Helppo arkipasta: tortellinit kermaisessa bataatti-valkosipulikastikkeessa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pasta",
+   "kasvis",
+   "arkiruoka",
+   "bataatti"
+  ],
+  "ingredients": [
+   "1 iso bataatti",
+   "450 g pakastettuja tortelleneita",
+   "1 rkl voita",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "2,4 dl maitoa",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Kypsennä bataatti kuorineen uunissa tai mikroaaltouunissa pehmeäksi. Anna jäähtyä.",
+   "Keitä tortellinit pakkauksen ohjeen mukaan, valuta ja palauta kattilaan.",
+   "Kuumenna voi pienellä pannulla. Lisää valkosipuli ja kuullota miedolla lämmöllä kullankeltaiseksi (noin minuutti) ja nosta liedeltä.",
+   "Kuori bataatti ja muussaa hyvin pienessä kulhossa. Lisää valkosipuli ja voi sekä sen verran maitoa, että syntyy paksu kastike. Mausta suolalla ja pippurilla.",
+   "Yhdistä kastike ja pasta kattilassa. Kuumenna, kunnes kastike on lämmennyt läpikotaisin."
+  ]
+ },
+ {
+  "id": "wikibooks-tortilla-canaria",
+  "title": "Tortilla canaria (Kanarian munakas)",
+  "description": "Kanariansaarten tyylinen munakas, joka täytetään tomaatilla, sipulilla ja rakuunalla.",
+  "servings": 2,
+  "totalTimeMin": 20,
+  "category": "Aamiainen",
+  "tags": [
+   "espanjalainen",
+   "kananmuna",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "150 g keltasipulia, kuutioituna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 tl persiljaa",
+   "1 tl rakuunaa",
+   "300 g tomaatteja, kuutioituna",
+   "suolaa",
+   "6 kananmunaa, vatkattuna"
+  ],
+  "instructions": [
+   "Kuullota sipuli ja valkosipuli oliiviöljyssä persiljan ja rakuunan kanssa, kunnes valkosipuli on hieman ruskistunut.",
+   "Lisää tomaatit ja suola. Kuullota, kunnes tomaatit ovat pehmenneet. Nosta liedeltä.",
+   "Paista vatkatuista munista kaksi munakasta.",
+   "Laita vihannekset kunkin munakkaan keskelle ja taita munakas niiden päälle.",
+   "Tarjoa kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-tortilla-de-patatas",
+  "title": "Tortilla de patatas (espanjalainen perunamunakas)",
+  "description": "Espanjan klassikko: öljyssä hitaasti kypsennetyt perunat paistetaan paksuksi munakkaaksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "espanjalainen",
+   "kananmuna",
+   "peruna",
+   "kasvis"
+  ],
+  "ingredients": [
+   "1,2 kg perunoita",
+   "4 kananmunaa",
+   "5 dl oliiviöljyä",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kuori perunat ja leikkaa ne pieniksi kuutioiksi tai ohuiksi viipaleiksi. Ripottele päälle suolaa ja anna ylimääräisen nesteen valua, kun kuumennat öljyn noin 175 asteeseen isolla paistinpannulla.",
+   "Paista perunaviipaleita, kunnes ne ovat hyvin kevyesti kullanruskeita. Rapeammista perunoista tulee mehevämpi munakas; kuivempaa ja paksumpaa tortillaa varten alenna lämpöä ja kypsennä perunat hitaasti pehmeiksi.",
+   "Nosta perunat öljystä ja valuta. Vatkaa munat, mausta suolalla ja sekoita perunoiden joukkoon. Anna seistä 10 minuuttia.",
+   "Kuumenna 1 rkl öljyä paistinpannulla savuavan kuumaksi ja lisää peruna-munaseos. Pienemmällä pannulla munakkaasta tulee paksumpi ja pyöreämpi. Ravistele pannua, jottei munakas tartu tai pala.",
+   "Käännä munakas muutaman minuutin kuluttua kannen tai ison lautasen avulla ja paista toinenkin puoli kullanruskeaksi.",
+   "Tarjoa kuumana tai kylmänä salaatin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-tortilla-espaola",
+  "skip": "lähes sama kuin jo käännetty tortilla de patatas"
+ },
+ {
+  "id": "wikibooks-tortilla-espaola-de-patatas",
+  "skip": "lähes sama kuin jo käännetty tortilla de patatas"
+ },
+ {
+  "id": "wikibooks-tortilla-soup",
+  "title": "Meksikolainen tortillakeitto",
+  "description": "Haudutettu kana-tomaattikeitto, joka tarjotaan tortillasipsien, juuston ja oliivien kanssa – haudutuspadassa tai liedellä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "meksikolainen",
+   "keitto",
+   "kana"
+  ],
+  "ingredients": [
+   "3 rkl oliiviöljyä (valinnainen)",
+   "1 sipuli, hienonnettuna",
+   "1 valkosipulinkynsi, hienonnettuna",
+   "1 tlk (400 g) tomaattikuutioita",
+   "1 pieni tlk (170–220 g) tomaattipyreetä",
+   "1,4 l kanalientä",
+   "1 rkl hienonnettua tuoretta korianteria",
+   "2–3 luutonta broilerin rintafilettä",
+   "½ tl suolaa (valinnainen)",
+   "½ tl vastajauhettua mustapippuria",
+   "1 jalapeño, siemenet poistettuina ja kuutioituna (valinnainen)",
+   "Tarjoiluun:",
+   "tortillasipsejä",
+   "raastettua Monterey Jack -juustoa tai muuta mietoa juustoa",
+   "mustia oliiveja, viipaloituna"
+  ],
+  "instructions": [
+   "Laita öljy, sipuli, valkosipuli, tomaatit, tomaattipyree, korianteri, kana, liemi, suola, pippuri ja jalapeño haudutuspataan. Kypsennä matalalla teholla 6–9 tuntia.",
+   "Liedellä: kuullota ensin sipuli ja valkosipuli öljyssä, lisää muut ainekset ja hauduta keskilämmöllä, kunnes kana on kypsää.",
+   "Kun kana on kypsää, nosta se keitosta, paloittele karkeasti ja palauta keittoon.",
+   "Tarjoa keitto annoskulhoissa tortillasipsien, juuston ja oliivien kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-tortillas-with-spicy-chocolate-sauce",
+  "title": "Sokeroidut tortillalastut ja tulinen suklaakastike",
+  "description": "Uunissa rapeiksi paahdetut sokeriset tortillalastut, joiden päälle valutetaan habanerolla maustettua suklaakastiketta.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "totalTimeMin": 30,
+  "category": "Jälkiruoat",
+  "tags": [
+   "meksikolainen",
+   "suklaa",
+   "kasvis",
+   "jälkiruoka"
+  ],
+  "ingredients": [
+   "140 g tummaa leivontasuklaata, karkeasti rouhittuna",
+   "1,8 dl sokeria, jaettuna",
+   "ripaus suolaa",
+   "3 keltuaista, vatkattuna",
+   "1 habanero-chili, siemenet poistettuina ja hienonnettuna",
+   "12 vehnätortillaa, kukin 10 lohkoon leikattuna",
+   "115 g suolatonta voita, sulatettuna",
+   "1 rkl vastapuristettua appelsiinimehua",
+   "2 tl vaniljauutetta"
+  ],
+  "instructions": [
+   "Pyöritä tortillalohkot sulatetussa voissa. Ripottele päälle ½ dl sokeria ja levitä pellille.",
+   "Paista 190 asteessa 15 minuuttia. Ota uunista ja nosta sivuun.",
+   "Kuumenna kattilassa pari senttiä vettä hiljaiselle kiehumiselle. Aseta päälle teräskulho vesihauteeksi.",
+   "Nosta kulho pois, lisää keltuaiset ja suola koko ajan vatkaten ja palauta kulho kattilan päälle. Vatkaa jatkuvasti, kunnes seos valuu vispilästä nauhana.",
+   "Lisää suklaa, chili, appelsiinimehu, loput sokerista ja vanilja. Vatkaa jatkuvasti, kunnes suklaa on sulanut ja kaikki on lämmennyt.",
+   "Valuta kastike tortillalastujen päälle ja tarjoa lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-tostones-fried-plantains",
+  "title": "Paistettu jauhobanaani",
+  "description": "Yksinkertainen latinalaisamerikkalainen lisuke: kypsää jauhobanaania paistettuna oliiviöljyssä kullanruskeaksi.",
+  "servings": 2,
+  "totalTimeMin": 10,
+  "category": "Lisukkeet",
+  "tags": [
+   "karibialainen",
+   "vegaaninen",
+   "nopea",
+   "jauhobanaani"
+  ],
+  "ingredients": [
+   "4 rkl oliiviöljyä",
+   "1 iso kypsä jauhobanaani"
+  ],
+  "instructions": [
+   "Kuumenna öljy paistinpannulla miedolla lämmöllä.",
+   "Kuori jauhobanaani ja leikkaa se pitkittäin tai pyöreiksi viipaleiksi.",
+   "Paista viipaleita pannulla molemmin puolin noin minuutti tai kunnes ne ovat kullanruskeita.",
+   "Valuta, jäähdytä hetki ja tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-tostn-fried-plantains",
+  "title": "Tostones (kahdesti paistetut jauhobanaanit)",
+  "description": "Venezuelalaiset ja karibialaiset rapeat jauhobanaanilastut, jotka paistetaan, litistetään ja paistetaan uudelleen.",
+  "servings": 4,
+  "totalTimeMin": 30,
+  "category": "Lisukkeet",
+  "tags": [
+   "venezuelalainen",
+   "vegaaninen",
+   "jauhobanaani",
+   "friteerattu"
+  ],
+  "ingredients": [
+   "2 vihreää (raakaa) jauhobanaania",
+   "öljyä friteeraukseen",
+   "suolaa"
+  ],
+  "instructions": [
+   "Kuumenna öljy friteerauskeittimessä tai kattilassa 180 asteeseen.",
+   "Viipaloi jauhobanaani hyvin ohuesti ja paista kuumassa öljyssä kullanruskeaksi.",
+   "Nosta öljystä ja ripottele päälle suolaa, kun viipaleita voi käsitellä. Litistä jokainen viipale nuijalla hyvin ohueksi.",
+   "Kuumenna öljy uudelleen hyvin kuumaksi ja paista litistetyt viipaleet molemmin puolin rapeiksi ja kullanruskeiksi. Valuta talouspaperilla."
+  ]
+ },
+ {
+  "id": "wikibooks-toum-lebanese-garlic-sauce",
+  "title": "Toum (libanonilainen valkosipulikastike)",
+  "description": "Libanonilainen kuohkea valkosipulikastike, joka emulgoidaan oliiviöljystä ja sitruunamehusta – grilliruokien ja kanan kumppani.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "libanonilainen",
+   "valkosipuli",
+   "vegaaninen",
+   "kastike"
+  ],
+  "ingredients": [
+   "10–40 g kuorittuja valkosipulinkynsiä",
+   "1,8 dl oliiviöljyä",
+   "1 sitruunan mehu, siivilöitynä",
+   "¼–½ tl suolaa"
+  ],
+  "instructions": [
+   "Survo valkosipulit ja suola huhmareessa (perinteisesti puisessa) hyvin tasaiseksi tahnaksi.",
+   "Lisää öljy vähitellen: aloita tippa kerrallaan ja sekoita öljy survimella valkosipuliin. Kun noin 1 rkl öljyä on sekoittunut, voit lisätä öljyä ohuena nauhana. Kun puolet öljystä on lisätty, lisää vuorotellen vähän sitruunamehua ja vähän öljyä. Älä pidä pitkiä taukoja, vaan sekoita jatkuvasti.",
+   "Valmis toum on paksun majoneesin kaltaista. Säilytä jääkaapissa."
+  ]
+ },
+ {
+  "id": "wikibooks-tourte-la-lorraine",
+  "title": "Tourte à la lorraine (lorrainelainen lihapiiras)",
+  "description": "Ranskalainen juhlapiiras: rieslingissä marinoitua porsaan- ja vasikanlihaa voitaikinakuoressa, viimeisteltynä kermaseoksella.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "ranskalainen",
+   "liha",
+   "piirakka",
+   "juhla",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "115 g lehtitaikinaa",
+   "115 g piirakkataikinaa (murotaikinaa)",
+   "115 g porsaanlihaa, kuutioituna",
+   "115 g vasikanlihaa, kuutioituna",
+   "2,4 dl Riesling-valkoviiniä",
+   "2 salottisipulia, hienonnettuna",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "2 laakerinlehteä",
+   "2 timjaminoksaa",
+   "4 neilikkaa",
+   "suolaa",
+   "mustapippuria",
+   "1 ripaus quatre épices -mausteseosta",
+   "persiljaa, hienonnettuna",
+   "1,2 dl kuohukermaa",
+   "1 kananmuna",
+   "1 keltuainen",
+   "muskottipähkinää"
+  ],
+  "instructions": [
+   "Sekoita liha, viini, suola, pippuri, mausteseos, salottisipulit, valkosipuli, sipuli, persilja, laakerinlehdet, timjami ja neilikat.",
+   "Marinoi jääkaapissa 48 tuntia.",
+   "Kuumenna uuni 200 asteeseen.",
+   "Painele piirakkataikina voideltuun ja jauhotettuun piirakkavuokaan tai leivinpaperilla vuorattuun kakkuvuokaan.",
+   "Nosta liha (ilman marinadia ja mausteoksia) taikinan päälle niin, että reunaan jää kapea kaistale. Peitä lehtitaikinalla ja liimaa reunat yhteen vedellä kostuttamalla.",
+   "Voitele pinta keltuaisella ja tee keskelle pieni savupiippu (esim. foliolla päällystetystä pahviputkesta). Koristele pinta veitsen kärjellä.",
+   "Paista kuumassa uunissa 45 minuuttia.",
+   "Vatkaa sillä välin kananmuna ja keltuainen kerman kanssa. Mausta raastetulla muskottipähkinällä, suolalla ja pippurilla.",
+   "Ota piiras uunista ja kaada kermaseos suppilon avulla savupiipusta sisään vähän kerrallaan; kallistele vuokaa, jotta neste leviää tasaisesti.",
+   "Palauta uuniin 10 minuutiksi."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-beef-stroganoff",
+  "title": "Perinteinen stroganoff",
+  "description": "Mureaksi haudutettuja naudanlihasuikaleita sieni-smetanakastikkeessa.",
+  "servings": 6,
+  "totalTimeMin": 80,
+  "category": "Pääruoat",
+  "tags": [
+   "liha",
+   "venäläinen",
+   "pata"
+  ],
+  "ingredients": [
+   "900 g naudan etuselkää tai lapaa",
+   "½ tl suolaa",
+   "½ tl mustapippuria",
+   "110 g voita",
+   "4 kevätsipulia (vain valkoiset osat), viipaloituna",
+   "4 rkl vehnäjauhoja",
+   "3 dl vahvaa lihalientä",
+   "1 tl sinappia",
+   "150 g säilöttyjä herkkusieniä viipaleina, valutettuna",
+   "1,6 dl smetanaa",
+   "1,6 dl valkoviiniä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Poista lihasta rasva ja kalvot ja leikkaa 1 cm paksuiksi ja 5 cm pitkiksi suikaleiksi. Mausta ½ tl:lla suolaa ja pippuria.",
+   "Sulata voi isolla paistinpannulla keskilämmöllä ja ruskista lihasuikaleet nopeasti. Siirrä liha pannun reunalle. Lisää sipulit ja kypsennä hitaasti 3–5 minuuttia, siirrä nekin reunalle.",
+   "Sekoita jauhot pannun tyhjällä puolella paistonesteeseen. Kaada joukkoon liemi ja kuumenna kiehuvaksi koko ajan sekoittaen. Alenna lämpöä ja sekoita joukkoon sinappi.",
+   "Peitä ja hauduta tunti tai kunnes liha on mureaa.",
+   "Sekoita joukkoon sienet, smetana ja valkoviini viisi minuuttia ennen tarjoilua. Kuumenna hetki ja mausta suolalla ja pippurilla."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-british-brewed-tea",
+  "title": "Perinteinen brittiläinen tee",
+  "description": "Näin keität teetä kannussa brittiläisittäin – maidon kanssa ja kenties keksin kera.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 10,
+  "category": "Juomat",
+  "tags": [
+   "brittiläinen",
+   "juoma",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "2–6 tl irtoteetä",
+   "1 l vettä",
+   "maitoa (mieluiten täysmaitoa)",
+   "sokeria (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna raikas vesi kiehuvaksi vedenkeittimessä.",
+   "Valmistele teekannu: kaada siihen vähän kuumaa vettä, anna kannun lämmetä ja kaada vesi pois. Tuo kannu veden luo, älä vettä kannun luo.",
+   "Lisää tee kannun koon ja haluamasi vahvuuden mukaan. Isoon (4 kupin) kannuun 2 tl antaa melko miedon teen; vahvempaan teehen tarvitaan enemmän, kovaan sydänsuruun ehkä 6 tl.",
+   "Kaada vesi kannuun heti, kun se kiehuu, ja anna hautua 5 minuuttia (ei pidempään).",
+   "Lisää maitoa maun mukaan. Jos tunnet teesi vahvuuden ja kuppiesi koon, voit kaataa maidon kuppiin ensin; muuten lisää maito teen joukkoon, jotta väristä tulee oikea.",
+   "Lisää sokeria maun mukaan.",
+   "Tarjoa keksin tai parin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-finnish-lemon-mead-sima",
+  "title": "Sima",
+  "description": "Perinteinen suomalainen vappujuoma: sitruunalla maustettu, hiivalla kevyesti käytetty sokerijuoma rusinoiden kera.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "suomalainen",
+   "vappu",
+   "juoma",
+   "perinneruoka"
+  ],
+  "ingredients": [
+   "8 l vettä",
+   "500 g fariinisokeria",
+   "500 g sokeria + 1 rkl pulloa kohden",
+   "2–3 sitruunaa",
+   "¼ tl hiivaa (tuore- tai kuivahiivaa)",
+   "1 kourallinen rusinoita"
+  ],
+  "instructions": [
+   "Puhdista kaikki välineet huolellisesti. Koska siman käymisaika on lyhyt ja se juodaan viikon sisällä, riittää yleensä astioiden ja pullojen hyvä pesu ja huuhtelu kiehuvalla vedellä juuri ennen käyttöä.",
+   "Kuumenna 4 litraa vettä kiehuvaksi.",
+   "Pese sitruunat hyvin ja kuori niistä ohut keltainen kuori ilman kitkerää valkoista osaa. Laita kuoret astiaan.",
+   "Viipaloi sitruunat ja poista valkoinen kalvo viipaleiden ympäriltä. Lisää viipaleet astiaan.",
+   "Lisää kaikki sokeri astiaan sitruunoiden kanssa.",
+   "Kaada kiehuva vesi päälle ja sekoita, kunnes sokeri on suurimmaksi osaksi liuennut.",
+   "Lisää 4 litraa kylmää vettä, jotta seos on kädenlämpöistä (35–45 astetta), jolloin hiiva aktivoituu.",
+   "Lisää hiiva, kun lämpötila on sopiva: liuota se pieneen määrään seosta ja sekoita takaisin astiaan. Myös pieni murunen tuorehiivaa suoraan astiaan toimii.",
+   "Anna seistä huoneenlämmössä yön yli.",
+   "Pullota seuraavana päivänä: laita jokaiseen pulloon lusikallinen sokeria ja muutama rusina ennen kuin kaadat siman.",
+   "Anna pullojen seistä huoneenlämmössä suoralta auringonvalolta suojassa vielä 2 päivää. Rusinat turpoavat ja nousevat pintaan.",
+   "Siirrä pullot jääkaappiin. Sima on valmista, ja se tarjoillaan kylmänä. Se säilyy jääkaapissa vähintään viikon."
+  ],
+  "notes": [
+   "Sima sisältää käymisen vuoksi hieman alkoholia (yleensä alle 1 %)."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-lasagne",
+  "title": "Perinteinen lasagne",
+  "description": "Klassinen italialaistyylinen lasagne punaviinillä haudutetusta jauhelihakastikkeesta ja bechamelista.",
+  "servings": 8,
+  "category": "Pääruoat",
+  "tags": [
+   "italialainen",
+   "pasta",
+   "liha",
+   "uuniruoka",
+   "jauheliha"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "1 iso sipuli, hienonnettuna",
+   "2 porkkanaa, hienonnettuna",
+   "2 vartta varsiselleriä, hienonnettuna",
+   "680 g naudan jauhelihaa",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "1 tlk (800 g) tomaattimurskaa",
+   "10–15 basilikanlehteä, revittynä",
+   "½ tl kuivattua oreganoa",
+   "¼ tl mustapippuria",
+   "1 tl suolaa",
+   "½ tl sokeria",
+   "2,25 dl kuivaa punaviiniä",
+   "1 pkt lasagnelevyjä",
+   "8,5 dl bechamelkastiketta",
+   "hienoksi raastettua parmesaania"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy paksupohjaisessa kattilassa keskikorkealla lämmöllä. Lisää sipuli, porkkanat, selleri ja valkosipuli ja kuullota hetki. Lisää jauheliha ja paista puulusikalla rikkoen, kunnes neste on haihtunut ja liha alkaa paistua (10–15 minuuttia).",
+   "Lisää viini ja irrota pohjaan tarttunut paistos. Keitä, kunnes viini on haihtunut.",
+   "Lisää tomaattimurska ja sokeri, kuumenna kiehuvaksi, peitä ja hauduta 20 minuuttia. Valmista sillä välin bechamelkastike.",
+   "Kuumenna uuni 190 asteeseen.",
+   "Sekoita basilika, oregano, suola ja pippuri lihakastikkeeseen.",
+   "Levitä uunivuoan pohjalle ohut kerros lihakastiketta ja peitä yhdellä kerroksella lasagnelevyjä. Levitä levyjen päälle bechamelia. Toista, kunnes lihakastike loppuu; jätä bechamelia riittävästi ylimmän levykerroksen peittämiseen.",
+   "Ripottele pinnalle parmesaania.",
+   "Paista uunin ylätasolla noin 45 minuuttia, kunnes pinta on kevyesti ruskistunut ja kastike kuplii.",
+   "Tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-pie-crust",
+  "title": "Perinteinen piirakkapohja laardista",
+  "description": "Yksinkertainen murea piirakkataikina jauhoista ja laardista.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "totalTimeMin": 15,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leivonnainen",
+   "taikina",
+   "piirakka"
+  ],
+  "ingredients": [
+   "450 g vehnäjauhoja",
+   "1 tl suolaa",
+   "110 g laardia, paloina",
+   "n. 1–1,5 dl kylmää vettä tai maitoa"
+  ],
+  "instructions": [
+   "Sekoita jauhot ja suola.",
+   "Lisää laardi ja nypi se jauhoihin.",
+   "Sekoita varovasti joukkoon vain sen verran vettä, että taikinasta tulee kiinteää.",
+   "Kauli taikina viileässä ja käytä ohjeesi mukaan."
+  ],
+  "notes": [
+   "Annosmäärä tarkoittaa yhtä isoa piirakkapohjaa kansineen."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-pilau-rice",
+  "title": "Pilauriisi jauhelihalla ja kikherneillä",
+  "description": "Pakistanilaistyylinen pilau, jossa karamellisoitu sipuli, jauheliha, kikherneet ja mausteet keitetään basmatiriisin kanssa.",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Pääruoat",
+  "tags": [
+   "pakistanilainen",
+   "riisi",
+   "liha",
+   "kikherneet"
+  ],
+  "ingredients": [
+   "4,25 dl basmatiriisiä",
+   "1 keskikokoinen sipuli, kuorittuna ja hienonnettuna",
+   "1–2 valkosipulinkynttä",
+   "1 tl garam masalaa",
+   "1 tl juustokuminaa",
+   "1½ tl jauhettua korianteria",
+   "250 g lampaan tai naudan jauhelihaa",
+   "1 tlk (400 g) kikherneitä, valutettuna",
+   "1 iso tomaatti, kuutioituna",
+   "1 dl pakasteherneitä (valinnainen)",
+   "suolaa",
+   "3 rkl rypsiöljyä tai gheetä",
+   "5,75 dl vettä"
+  ],
+  "instructions": [
+   "Pese riisi useassa vedessä ja jätä se likoamaan muiden ainesten valmistelun ajaksi; vaihda vesi aina kun ehdit.",
+   "Kuumenna öljy tai ghee kattilassa ja lisää sipuli. Paista hyvin miedolla lämmöllä usein sekoittaen, kunnes sipuli karamellisoituu. Sipulin on oltava ruskeaa, ei kuultavaa; tähän menee vähintään 15 minuuttia. Voit käyttää myös valmiita paistettuja sipuleita.",
+   "Valmistele sipulien ruskistuessa muut ainekset: survo valkosipuli suolan kanssa huhmareessa, pilko tomaatti ja valuta kikherneet.",
+   "Kun sipulit alkavat ruskistua, lisää valkosipuli ja mausteet. Älä lisää niitä aiemmin, tai ne palavat.",
+   "Kun sipulit ja valkosipuli ovat valmiita, lisää tomaatti ja sekoita noin minuutti. Nosta lämpöä ja lisää jauheliha. Paista, kunnes liha on kauttaaltaan ruskistunut (5–10 minuuttia).",
+   "Valuta riisi siivilässä ja kuumenna vesi kiehuvaksi. Kun liha on kypsää, lisää riisi kattilaan ja tarvittaessa vähän lisää öljyä. Sekoita varovasti, kunnes riisi on öljyn peitossa; varo rikkomasta jyviä.",
+   "Lisää kuuma vesi, kikherneet ja mahdolliset kokonaiset mausteet (laakerinlehdet, kardemummankodat, neilikat). Lisää suola ja kuumenna kiehuvaksi.",
+   "Kun vesi kiehuu, laita tiivis kansi päälle ja käännä lämpö hyvin pieneksi. Kypsennä 25 minuuttia nostamatta kantta.",
+   "Nosta kansi 25 minuutin kuluttua, lisää herneet, peitä puhtaalla keittiöpyyhkeellä ja laita kansi takaisin. Sammuta lämpö ja anna levätä 5 minuuttia; herneet kypsyvät jälkilämmössä ja pyyhe imee ylimääräisen kosteuden.",
+   "Kumoa tarjoiluvadille tai annostele lautasille. Tarjoa jogurtin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-pound-cake",
+  "title": "Perinteinen paunakakku",
+  "description": "Brittiläinen kakku, jossa on yhtä paljon jauhoja, voita, munia ja sokeria – halutessa kuivattujen hedelmien kera.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "kakku",
+   "brittiläinen",
+   "kasvis",
+   "leivonnainen"
+  ],
+  "ingredients": [
+   "225 g vehnäjauhoja + 2 tl leivinjauhetta (tai riisijauhoja gluteenittomaan versioon)",
+   "225 g voita",
+   "4 kananmunaa (n. 225 g)",
+   "225 g hienoa sokeria",
+   "1 tl vaniljauutetta (valinnainen)",
+   "225 g kuivattuja hedelmiä, esim. korintteja, sultanarusinoita, rusinoita ja kandeerattuja kirsikoita (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen.",
+   "Vaahdota voi ja sokeri kuohkeaksi.",
+   "Vatkaa joukkoon munat ja lisää vanilja.",
+   "Siivilöi kuivat aineet vähitellen joukkoon ja sekoita lopuksi hedelmät.",
+   "Siirrä taikina voideltuun ja jauhotettuun vuokaan.",
+   "Paista 35 minuuttia tai kunnes kakkuun työnnettyyn tikkuun ei tartu kosteaa taikinaa."
+  ]
+ },
+ {
+  "id": "wikibooks-traditional-tuna-casserole",
+  "title": "Tonnikala-makaronivuoka",
+  "description": "Amerikkalainen arkiklassikko: tonnikalaa, makaronia, herneitä ja sieniä kermaisessa kastikkeessa juustokuorrutuksella.",
+  "servings": 4,
+  "totalTimeMin": 80,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pasta",
+   "uuniruoka",
+   "arkiruoka"
+  ],
+  "ingredients": [
+   "1–2 tlk (yht. n. 300 g) tonnikalaa, valutettuna",
+   "2,4 dl makaronia, keittämättömänä",
+   "1 tlk herneitä, valutettuna",
+   "1 tlk herkkusieniä, valutettuna",
+   "2 rkl hienonnettua sipulia",
+   "½ dl maitoa",
+   "1 tlk (300 g) kermaista sienikeittotiivistettä (tai 2 dl ruokakermaa + ½ liemikuutiota)",
+   "2,5–3,5 dl vettä",
+   "muutama viipale juustoa"
+  ],
+  "instructions": [
+   "Kuumenna uuni 180–200 asteeseen.",
+   "Sekoita kaikki ainekset juustoviipaleita lukuun ottamatta isossa uunivuoassa. Lisää vettä niin, että makaronit peittyvät.",
+   "Paista tunti ja sekoita 2–3 kertaa.",
+   "Kun makaroni on kypsää, peitä pinta juustoviipaleilla ja palauta uuniin 5 minuutiksi, jotta juusto sulaa.",
+   "Pannulla: yhdistä ainekset (juustoa lukuun ottamatta) isolla pannulla 2,5–3,5 dl:n kuumaa vettä kanssa. Kuumenna kiehuvaksi ja hauduta 15 minuuttia usein sekoittaen. Sulata juusto pinnalla ennen tarjoilua."
+  ],
+  "notes": [
+   "Alkuperäinen käyttää amerikkalaista sienikeittotiivistettä; ruokakerma ja liemikuutio ovat lähin korvike."
+  ]
+ },
+ {
+  "id": "wikibooks-tres-leches-cake-i",
+  "title": "Tres leches -kakku",
+  "description": "Latinalaisamerikkalainen kolmen maidon kakku: kevyt sokerikakku liotetaan maitoseoksessa ja kuorrutetaan paahdetulla marengilla.",
+  "servings": 12,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "meksikolainen",
+   "kakku",
+   "kasvis",
+   "juhla"
+  ],
+  "ingredients": [
+   "Kakkupohja:",
+   "5 kananmunaa, keltuaiset ja valkuaiset eroteltuina",
+   "2,4 dl sokeria",
+   "1 rkl vaniljauutetta",
+   "2,4 dl vehnäjauhoja + 1½ tl leivinjauhetta",
+   "Maitoseos:",
+   "1 tlk (400 g) makeutettua kondensoitua maitoa",
+   "1 tlk (410 g) kondensoimatonta maitoa (evaporated milk)",
+   "3,5 dl kuohukermaa",
+   "1 rkl vaniljauutetta",
+   "Marenki:",
+   "3 kananmunanvalkuaista",
+   "2,4 dl sokeria",
+   "½ tl viinikiveä (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna uuni 175 asteeseen. Voitele ja jauhota kakkuvuoka.",
+   "Vatkaa valkuaiset yleiskoneen vispilällä vaahdoksi: nosta nopeutta vähitellen ja pidä jokaisella nopeudella noin minuutti.",
+   "Lisää sokeri ja vanilja vähitellen vatkaten.",
+   "Sekoita joukkoon keltuaiset ja lopuksi jauhot.",
+   "Siirrä taikina vuokaan ja paista 20 minuuttia.",
+   "Anna kakun jäähtyä huoneenlämpöiseksi. Pistele kakkuun useita reikiä.",
+   "Sekoita kondensoitu maito, kondensoimaton maito, kerma ja vanilja.",
+   "Lämmitä 5 minuuttia koko ajan sekoittaen; tarkoitus on vain sekoittaa maut, joten älä ylikuumenna.",
+   "Anna maitoseoksen jäähtyä huoneenlämpöiseksi.",
+   "Kaada maitoseos hitaasti kakun päälle. Maito valuu kakun ympärille ja alle, ja kakku imee suurimman osan siitä.",
+   "Vatkaa marengin valkuaiset yleiskoneessa: nosta nopeutta vähitellen ja pysähdy noin minuutiksi kullekin nopeudelle.",
+   "Lisää viinikivi.",
+   "Lisää sokeri vähitellen vatkaten.",
+   "Levitä marenki kakun pinnalle.",
+   "Paahda marenki kevyesti kaasupolttimella tai uunin grillivastuksen alla. Kun marenki alkaa saada väriä, se palaa muutamassa sekunnissa, joten ole tarkkana."
+  ],
+  "notes": [
+   "Alkuperäinen käyttää itsestään kohoavia jauhoja; tässä ne on korvattu vehnäjauhoilla ja leivinjauheella."
+  ]
+ },
+ {
+  "id": "wikibooks-tres-leches-cake-ii",
+  "skip": "lähes sama kuin jo käännetty tres leches -kakku (tässä valmiista kakkujauhoseoksesta)"
+ },
+ {
+  "id": "wikibooks-tri-colored-autumn-rice-balls",
+  "title": "Kolmiväriset syyspallot (ohagi)",
+  "description": "Japanilaiset makeat riisipallot kolmella päällyksellä: punapapu-tahna, seesami ja paahdettu soijajauho.",
+  "servings": 6,
+  "category": "Jälkiruoat",
+  "tags": [
+   "japanilainen",
+   "riisi",
+   "vegaaninen",
+   "makeinen"
+  ],
+  "ingredients": [
+   "7 dl höyrytettyä tahmeaa riisiä (mochiriisiä)",
+   "½ dl paahdettuja mustia seesaminsiemeniä, kevyesti murskattuna",
+   "1 rkl sokeria",
+   "2,4 dl sileää japanilaista punapapu-tahnaa (koshi-an), kylmänä",
+   "1,2 dl paahdettua soijajauhoa (kinako) tai paahdettuja jauhettuja pekaanipähkinöitä"
+  ],
+  "instructions": [
+   "Sekoita seesaminsiemenet ja sokeri pienessä kulhossa.",
+   "Kostuta kädet vedellä ja jaa lämmin riisi 12 yhtä suureen osaan.",
+   "Muotoile neljästä osasta pallot. Kostuta puhdas keittiöpyyhe ja purista se kuivaksi.",
+   "Laita pyyhkeelle 2½ rkl papu-tahnaa ja taputtele se noin 10 cm:n ympyräksi.",
+   "Laita riisipallo papuympyrän keskelle ja muotoile tahna pyyhkeen avulla pallon ympärille.",
+   "Toista vielä kolme kertaa käyttäen ½ dl papu-tahnaa ja loput kolme palloa.",
+   "Nosta pallot tarjoiluvadille. Litistä jäljellä olevat kahdeksan riisiosaa.",
+   "Pyöritä loppu papu-tahna kahdeksaksi palloksi (noin 2 tl kukin). Aseta tahnapallo kunkin litistetyn riisin keskelle ja muotoile riisi sen ympärille.",
+   "Muotoile täytetyt pallot soikeiksi. Pyöritä neljä seesami-sokeriseoksessa ja neljä soijajauhossa. Lisää ne tarjoiluvadille."
+  ]
+ },
+ {
+  "id": "wikibooks-trifle",
+  "title": "Trifle",
+  "description": "Brittiläinen kerrosjälkiruoka: sherryllä kostutettua kääretorttua, persikoita, hyytelöä, vaniljakastiketta ja kermavaahtoa.",
+  "servings": 6,
+  "totalTimeMin": 25,
+  "category": "Jälkiruoat",
+  "tags": [
+   "brittiläinen",
+   "jälkiruoka",
+   "juhla"
+  ],
+  "ingredients": [
+   "1 kääretorttu tai sokerikakkupohja",
+   "½–1 dl kuivaa sherryä",
+   "1 pss hedelmähyytelöjauhetta (tai liivatetta ja mehua)",
+   "1 tlk persikkalohkoja",
+   "5 dl vaniljakastiketta",
+   "2 dl kuohukermaa, vaahdotettuna",
+   "nonparelleja tai muuta koristetta (valinnainen)"
+  ],
+  "instructions": [
+   "Leikkaa kääretorttu noin 2 cm paksuiksi viipaleiksi ja vuoraa niillä lasivuoan pohja.",
+   "Kaada sherry kakun päälle.",
+   "Valuta persikat ja ota liemi talteen. Asettele persikat kakun päälle.",
+   "Valmista hyytelö pakkauksen ohjeen mukaan, halutessasi persikkaliemeä käyttäen. Kaada hyytelö vuokaan ja anna hyytyä jääkaapissa.",
+   "Valmista vaniljakastike ohjeen mukaan. Anna jäähtyä haaleaksi ja kaada vuokaan. Anna jähmettyä jääkaapissa.",
+   "Vaahdota kerma ja levitä se vaniljakastikkeen päälle. Koristele nonparelleilla tai muilla koristeilla.",
+   "Tarjoa."
+  ]
+ },
+ {
+  "id": "wikibooks-tripe-soup-shkembe-chorba",
+  "title": "Škembe čorba (bulgarialainen sisälmyskeitto)",
+  "description": "Bulgarialainen pötsikeitto paprikalla ja tomaatilla, tarjoiltuna valkosipulin, persiljan ja juuston kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "bulgarialainen",
+   "keitto",
+   "liha",
+   "sisäelimet"
+  ],
+  "ingredients": [
+   "1 rkl voita",
+   "8,5 dl lihalientä",
+   "1 sipuli, hienonnettuna",
+   "1 tl suolaa",
+   "1 punainen paprika, ohuina suikaleina",
+   "½ tl kuivattua meiramia",
+   "1 laakerinlehti",
+   "2 rkl vehnäjauhoja",
+   "2 rkl persiljaa, hienonnettuna",
+   "1 tlk (180 g) tomaattipyreetä",
+   "1 valkosipulinkynsi, murskattuna",
+   "675 g keitettyä naudan pötsiä",
+   "1,6 dl raastettua kashkaval-juustoa"
+  ],
+  "instructions": [
+   "Kuullota sipuli ja paprika voissa isossa kattilassa.",
+   "Ripottele jauhot sipuliseoksen päälle ja sekoita joukkoon tomaattipyree.",
+   "Leikkaa pötsi ohuiksi suikaleiksi.",
+   "Lisää pötsi, liemi, suola, meirami ja laakerinlehti sipuliseokseen.",
+   "Peitä kattila osittain kannella ja keitä hiljalleen 30 minuuttia.",
+   "Poista laakerinlehti.",
+   "Kaada keitto liemikulhoon tai annoskulhoihin.",
+   "Sekoita pienessä kulhossa persilja, valkosipuli ja juusto. Ripottele kuuman keiton päälle ja tarjoa heti."
+  ]
+ }
+]

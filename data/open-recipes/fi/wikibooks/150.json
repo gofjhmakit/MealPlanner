@@ -1,0 +1,792 @@
+[
+ {
+  "id": "wikibooks-yemenite-charoset-ii",
+  "title": "Jemeniläinen charoset II",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "juutalainen",
+   "pääsiäinen",
+   "taateli",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "300 g taateleita, hienonnettuna",
+   "300 g rusinoita, hienonnettuna",
+   "100 g kuivattuja viikunoita, hienonnettuina",
+   "200 g paahdettuja seesaminsiemeniä",
+   "1 granaattiomena",
+   "100 g manteleita",
+   "100 g saksanpähkinöitä",
+   "2 tl mustapippuria",
+   "1 rkl juustokuminaa",
+   "1 rkl kanelia",
+   "1 rkl jauhettua inkivääriä",
+   "muutaman kardemummakapselin siemenet",
+   "tilkka makeaa punaviiniä"
+  ],
+  "instructions": [
+   "Jauha kaikki ainekset, hedelmiä lukuun ottamatta, erikseen morttelissa ja survin avulla.",
+   "Sekoita kaikki kuivat ainekset keskenään (pähkinät, mantelit, seesaminsiemenet jne.) ja sekoita sitten kaikki nestemäiset ainekset keskenään (rusinat, taatelit, viikunat jne.).",
+   "Sekoita kaikki ainekset käsin ja sormilla suuressa kulhossa.",
+   "Pääsiäisenä kaikille ruokailijoille jaetaan pienempiä annoksia. Jokaiselle pienelle lautaselle lisätään ripaus punaviiniä, rypälemehua tai etikkaa juuri ennen kuin matza kastetaan charosetiin."
+  ]
+ },
+ {
+  "id": "wikibooks-yemiser-selatta-ethiopian-lentil-salad",
+  "title": "Yemiser Selatta (etiopialainen linssisalaatti)",
+  "description": "Yemiser selatta on värikäs ja raikas etiopialainen salaatti, joka valmistetaan keitetyistä linsseistä, tuoreista vihanneksista ja kirpeästä kastikkeesta. Tämä salaatti on suosittu ruokalaji etiopialaisessa keittiössä, ja sitä nautitaan lisukkeena tai kevyenä ateriana.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "linssit",
+   "etiopialainen",
+   "salaatti",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl punaisia linssejä",
+   "5 dl vettä",
+   "½ tl suolaa",
+   "1 iso tomaatti, kuutioituna",
+   "1 pieni punasipuli, hienonnettuna",
+   "1 pieni kurkku, kuutioituna",
+   "1 dl hienonnettua persiljaa",
+   "½ dl hienonnettua tuoretta minttua",
+   "1 sitruunan mehu",
+   "2 rkl oliiviöljyä",
+   "½ tl juustokuminaa",
+   "½ tl jauhettua korianteria",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Huuhtele linssit huolellisesti epäpuhtauksien poistamiseksi.",
+   "Kiehauta vesi keskikokoisessa kattilassa. Lisää huuhdellut linssit ja suola. Vähennä lämpöä matalalle, peitä kattila kannella ja anna linssien hautua noin 15–20 minuuttia tai kunnes ne ovat pehmeitä mutta säilyttävät vielä muotonsa. Kaada ylimääräinen vesi pois ja anna linssien jäähtyä.",
+   "Sekoita kulhossa keitetyt linssit, kuutioitu tomaatti, hienonnettu punasipuli, kuutioitu kurkku, hienonnettu persilja ja hienonnettu minttu.",
+   "Sekoita erillisessä pienessä kulhossa sitruunamehu, oliiviöljy, kumina, korianteri, suola ja pippuri kastikkeeksi.",
+   "Kaada kastike linssiseoksen päälle ja sekoita varovasti, jotta linssit ja vihannekset peittyvät tasaisesti kastikkeella.",
+   "Maista ja mausta tarvittaessa suolalla ja pippurilla.",
+   "Jäähdytä salaattia jääkaapissa vähintään 30 minuuttia, jotta maut ehtivät sulautua yhteen.",
+   "Sekoita salaattia kevyesti ennen tarjoilua ja mausta tarvittaessa.",
+   "Tarjoile jäähdytettynä lisukkeena tai kevyenä ateriana."
+  ],
+  "notes": [
+   "Jos haluat pehmeämmän tekstuurin, voit keittää linssejä pidempään, kunnes ne ovat täysin pehmeitä.",
+   "Tämä salaatti voidaan valmistaa etukäteen ja säilyttää jääkaapissa päivän tai pari. Sekoita se vain huolellisesti ennen tarjoilua.",
+   "Varo, ettet keitä linssejä liian pitkään, sillä ne voivat muuttua pehmeiksi ja menettää muotonsa.",
+   "Voit lisätä muita vihanneksia, kuten paprikaa, porkkanaa tai retiisiä, jotta saat lisää rapeutta ja makua.",
+   "Voit vapaasti muokata kastiketta lisäämällä siihen suosikkiyrttejäsi tai -mausteitasi.",
+   "Yemiser selatta on ravitseva salaatti, joka sisältää runsaasti proteiinia, kuitua, vitamiineja ja kivennäisaineita linsseistä ja tuoreista vihanneksista. Se on terveellinen ja täyttävä vaihtoehto kasvissyöjille ja vegaaneille."
+  ]
+ },
+ {
+  "id": "wikibooks-yerushalmi-kugel-sweet-noodle-casserole",
+  "title": "Jerusalemin kugel (karamelli-pippuri-nuudelivuoka)",
+  "description": "Yerushalmi-kugel on saanut nimensä Jerusalemin kaupungin mukaan. Legendan mukaan se sai alkunsa Jerusalemissa Vilnan Gaonin seuraajien keskuudessa 1700-luvulla.",
+  "servings": 8,
+  "totalTimeMin": 40,
+  "category": "Lisukkeet",
+  "tags": [
+   "juutalainen",
+   "pasta",
+   "uuniruoka",
+   "kasvis"
+  ],
+  "ingredients": [
+   "225 g munanuudeleita",
+   "1,5 dl sokeria (valkoinen sokeri on kätevää, koska sen ruskeutuminen on helpompi havaita)",
+   "4 rkl oliiviöljyä",
+   "1 dl rusinoita",
+   "1–2 tl mustapippuria",
+   "1 tl kanelia",
+   "3 kananmunaa"
+  ],
+  "instructions": [
+   "Keitä nuudelit pakkauksen ohjeiden mukaisesti ja valuta vesi pois.",
+   "Kuumenna oliiviöljy paistinpannussa ja lisää 1 dl sokeria.",
+   "Sekoita jatkuvasti, kunnes sokeri alkaa ruskistua. Ota pois liedeltä.",
+   "Sokeri ruskistuu vielä muutaman minuutin ajan, jolloin muodostuu paksua karamellia.",
+   "Lisää karamelli nuudeleihin.",
+   "Lisää loput sokerista, munat, kaneli, pippuri ja rusinat. Sekoita ja kaada voideltuun vuokaan.",
+   "Paista 175 asteessa noin 40 minuuttia, kunnes pinta ruskistuu."
+  ]
+ },
+ {
+  "id": "wikibooks-yetakelt-alicha-ethiopian-vegetable-stew",
+  "skip": "lähes sama kuin etiopialainen kasvispata (yataklete kilkil)"
+ },
+ {
+  "id": "wikibooks-yetakelt-wot-ethiopian-spiced-vegetable-stew",
+  "title": "Yetakelt wot (etiopialainen berbere-kasvispata)",
+  "description": "Yetakelt wot on maukas ja tuoksuva ruokalaji, joka valmistetaan erilaisista vihanneksista, joita kypsennetään täyteläisessä ja mausteisessa kastikkeessa. Tämä kasvismuhennos on suosittu ruokalaji Etiopian keittiössä, ja sitä tarjoillaan usein pääruokana injeran (etiopialaisen leivän) tai riisin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "etiopialainen",
+   "pata",
+   "tulinen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl oliiviöljyä",
+   "1 iso sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "1 rkl raastettua inkivääriä",
+   "2 tl berbere-mausteseosta",
+   "1 tl paprikajauhetta",
+   "½ tl kurkumaa",
+   "½ tl juustokuminaa",
+   "½ tl cayennepippuria",
+   "1 tl suolaa",
+   "2 keskikokoista porkkanaa, kuorittuna ja viipaloituna",
+   "2 keskikokoista perunaa, kuorittuna ja kuutioituna",
+   "1 keskikokoinen paprika, kuutioituna",
+   "2,5 dl vihreitä papuja, paloiteltuna",
+   "2,5 dl kukkakaalin kukintoja",
+   "2,5 dl parsakaalin kukintoja",
+   "2,5 dl kasvislientä tai vettä",
+   "korianteria tai persiljaa"
+  ],
+  "instructions": [
+   "Kuumenna oliiviöljy suuressa kattilassa tai pannussa keskilämmöllä. Lisää hienonnettu sipuli ja paista, kunnes se muuttuu läpikuultavaksi.",
+   "Sekoita joukkoon hienonnettu valkosipuli ja raastettu inkivääri ja paista vielä minuutti, kunnes tuoksuu hyvältä.",
+   "Lisää berbere-mausteseos, paprika, kurkuma, kumina, cayennepippuri ja suola. Sekoita hyvin, jotta mausteet tarttuvat sipuliin, valkosipuliin ja inkivääriin.",
+   "Lisää kattilaan viipaloidut porkkanat, kuutioidut perunat, kuutioitu paprika, vihreät pavut, kukkakaalin kukinnot ja parsakaalin kukinnot. Sekoita, jotta vihannekset sekoittuvat mausteiden kanssa.",
+   "Kaada kasvisliemi tai vesi kattilaan ja anna seoksen kiehua hiljalleen. Vähennä lämpöä matalalle, peitä kattila kannella ja anna muhennoksen kypsyä noin 20–25 minuuttia tai kunnes vihannekset ovat pehmeitä.",
+   "Tarkista mausteet ja mausta tarvittaessa suolalla tai lisäämällä mausteita.",
+   "Ota kattila pois liedeltä ja anna ruoan levätä muutama minuutti, jotta maut ehtivät sulautua yhteen.",
+   "Koristele muhennos tuoreella hienonnetulla korianterilla tai persiljalla. Tarjoile kuumana pääruokana injeran tai riisin kera."
+  ],
+  "notes": [
+   "Säädä muhennoksen mausteisuutta lisäämällä cayennepippuria enemmän tai vähemmän makusi mukaan.",
+   "Voit muokata muhennoksessa käytettäviä vihanneksia mieltymystesi ja sesongin tarjonnan mukaan.",
+   "Jos haluat paksumman kastikkeen, voit soseuttaa osan keitetyistä vihanneksista haarukalla tai perunasoseuttajalla.",
+   "Joissakin resepteissä lisätään tomaatteja tai tomaattipyreetä, jotta ruoka saa kirpeän vivahteen.",
+   "Voit lisätä muhennokseen muita vihanneksia, kuten kesäkurpitsaa, munakoisoa tai kaalia, jotta saat vaihtelua ruokaan.",
+   "Yetakelt wot on ravitseva ruokalaji, joka sisältää runsaasti erilaisia vihanneksia."
+  ]
+ },
+ {
+  "id": "wikibooks-yetsom-beyaynetu-ethiopian-vegan-platter",
+  "title": "Yetsom beyaynetu (etiopialainen vegaanilautanen injeran kanssa)",
+  "description": "Yetsom beyaynetu on perinteinen etiopialainen vegaaninen ruokalaji, joka koostuu monipuolisesta valikoimasta maukkaita vihannes- ja linssiruoista, joita tarjoillaan injeran, perinteisen etiopialaisen leivän, kanssa. Tämä värikäs ja ravitseva ruokalaji on vakiintunut osa paastokausia, ja sitä nauttivat niin vegaanit kuin ei-vegaanitkin.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "etiopialainen",
+   "linssit",
+   "injera",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "Linssit ja kasvikset:",
+   "2,5 dl punaisia linssejä",
+   "5 dl vettä",
+   "1 iso sipuli, hienonnettuna",
+   "3 valkosipulinkynttä, hienonnettuna",
+   "2 tomaattia, kuutioituna",
+   "2 porkkanaa, kuutioituna",
+   "2 perunaa, kuutioituna",
+   "2,5 dl valkokaalia, suikaloituna",
+   "2,5 dl lehtikaalia, suikaloituna",
+   "2,5 dl pinaattia",
+   "½ dl oliiviöljyä",
+   "1 rkl berbere-mausteseosta",
+   "1 tl juustokuminaa",
+   "½ tl kurkumaa",
+   "1 tl suolaa",
+   "Injera:",
+   "5 dl teffijauhoja",
+   "7 dl vettä",
+   "½ tl suolaa",
+   "rypsiöljyä pannun voiteluun"
+  ],
+  "instructions": [
+   "Sekoita punaiset linssit ja vesi isossa kattilassa. Kuumenna kiehuvaksi, vähennä sitten lämpöä ja anna hautua noin 20 minuuttia tai kunnes linssit ovat pehmeitä. Kaada ylimääräinen vesi pois ja aseta sivuun.",
+   "Kuumenna oliiviöljy keskilämmöllä paistinpannussa tai paistokasarissa. Lisää hienonnetut sipulit ja paista, kunnes ne muuttuvat läpikuultaviksi.",
+   "Lisää hienonnettu valkosipuli ja kuutioidut tomaatit pannulle. Paista muutama minuutti, kunnes tomaatit alkavat pehmetä.",
+   "Sekoita mukaan berbere-mausteseos, kumina, kurkuma ja suola. Sekoita hyvin, jotta mausteet tarttuvat sipuliin ja tomaatteihin.",
+   "Lisää porkkanat, perunat, kaali, lehtikaali ja pinaatti paistinpannuun. Sekoita, jotta vihannekset sekoittuvat mausteiden kanssa.",
+   "Peitä paistinpannu kannella ja kypsennä noin 15–20 minuuttia tai kunnes vihannekset ovat pehmeitä mutta säilyttävät vielä muotonsa. Sekoita välillä, jotta ruoka ei tartu pohjaan.",
+   "Valmista sillä välin injera-taikina. Sekoita teffijauho, vesi ja suola sekoituskulhossa. Vatkaa hyvin, kunnes taikina on tasainen ja ilman kokkareita. Anna taikinan levätä 15–20 minuuttia.",
+   "Kuumenna injera-pannu tai tarttumaton paistinpannu keskilämmöllä. Voitele pannu kevyesti ruokaöljyllä.",
+   "Kaada kauhalla ohut kerros injera-taikinaa pannulle ja pyöritä pannua, jotta taikina leviää tasaisesti. Paista noin 1–2 minuuttia, kunnes pinnalle muodostuu pieniä kuplia ja reunat alkavat nousta.",
+   "Ota kypsynyt injera pannulta ja toista sama prosessi lopun taikinan kanssa. Pinoa injerat lautaselle sitä mukaa kuin ne valmistuvat.",
+   "Tarjoiluun asettele keitetyt linssit ja kasvisruoat suurelle tarjoilulautaselle. Aseta injera ruokien viereen.",
+   "Repi injeraa paloiksi ja käytä niitä linssien ja vihannesten kauhoimiseen. Nauti yetsom beyaynetun eloisista mauista ja tekstuureista!"
+  ],
+  "notes": [
+   "Perinteinen injera-taikina käytetään 1–3 päivää ennen paistamista; tämä pikaversio paistetaan heti."
+  ]
+ },
+ {
+  "id": "wikibooks-yetsom-shiro-ethiopian-vegan-chickpea-stew",
+  "title": "Shiro (etiopialainen kikhernejauhopata)",
+  "description": "Yetsom shiro on maukas ja täyttävä ruokalaji, joka valmistetaan jauhetuista kikherneistä ja aromaattisten mausteiden sekoituksesta. Tämä vegaaninen muhennos on etiopialaisen keittiön perusruoka, jota nautitaan pääruokana injeran (etiopialaisen leivän) tai riisin kera.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "etiopialainen",
+   "kikherneet",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl kikhernejauhoa",
+   "2 rkl oliiviöljyä",
+   "1 iso sipuli, hienonnettuna",
+   "4 valkosipulinkynttä, hienonnettuna",
+   "1 rkl berbere-mausteseosta",
+   "1 tl paprikajauhetta",
+   "½ tl kurkumaa",
+   "½ tl kuminaa",
+   "¼ tl cayennepippuria",
+   "1 tl suolaa",
+   "7 dl kasvislientä tai vettä",
+   "korianteria tai persiljaa"
+  ],
+  "instructions": [
+   "Paahda kikhernejauhoa kuivassa keskikokoisessa kattilassa keskilämmöllä muutaman minuutin ajan, kunnes se tuoksuu ja on hieman ruskistunut. Ota kattila pois liedeltä ja aseta sivuun.",
+   "Kuumenna oliiviöljy samassa kattilassa keskilämmöllä. Lisää hienonnettu sipuli ja valkosipuli ja paista, kunnes sipuli muuttuu läpikuultavaksi.",
+   "Lisää seokseen berbere-mausteseos, paprikajauhe, kurkuma, kumina, cayennepippuri ja suola. Sekoita hyvin, jotta mausteet tarttuvat sipuliin ja valkosipuliin.",
+   "Lisää paahdettu kikhernejauho kattilaan ja sekoita se mausteiden kanssa.",
+   "Lisää kasvisliemi tai vesi vähitellen kattilaan sekoittaen jatkuvasti, jotta ei muodostu kokkareita.",
+   "Vähennä lämpöä matalalle ja hauduta muhennosta noin 20–25 minuuttia, sekoittaen silloin tällöin, kunnes kikhernejauho on täysin kypsynyt ja muhennos on sakeutunut haluamaasi konsistenssiin.",
+   "Maista ja mausta tarvittaessa suolalla tai muilla mausteilla.",
+   "Ota kattila pois liedeltä ja anna muhennoksen levätä muutama minuutti, jotta maut ehtivät sulautua yhteen.",
+   "Koristele tuoreella hienonnetulla korianterilla tai persiljalla. Tarjoile kuumana pääruokana injeran tai riisin kera."
+  ],
+  "notes": [
+   "Säädä muhennoksen mausteisuutta lisäämällä cayennepippuria enemmän tai vähemmän makusi mukaan.",
+   "Jos haluat kermaisemman tekstuurin, voit sekoittaa ruokaan ruokalusikallisen maidotonta jogurttia tai kookoskermaa kypsennyksen loppuvaiheessa.",
+   "Sekoita muhennosta jatkuvasti, kun lisäät kikhernejauhoa, jotta siihen ei muodostu kokkareita.",
+   "Jos muhennos muuttuu liian paksuksi, voit lisätä kasvislientä tai vettä, kunnes se on halutun paksuista.",
+   "Voit lisätä yetsom shiroon vihanneksia, kuten porkkanoita, perunoita tai herneitä, jotta saat ruokaan lisää tekstuuria ja makua.",
+   "Joissakin resepteissä lisätään tomaattipyreetä, jotta ruoka saa kirpeän vivahteen.",
+   "Yetsom shiro sisältää runsaasti kasviproteiinia ja kuitua kikhernejauhoista."
+  ]
+ },
+ {
+  "id": "wikibooks-yeung-chow-fried-rice",
+  "title": "Yangzhou-paistettu riisi pekonilla",
+  "servings": 7,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "kiinalainen",
+   "wokki",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 rkl rypsiöljyä",
+   "2 rkl hienonnettua tai hienoksi pilkottua valkosipulia",
+   "1 dl pekonia, kuutioituna",
+   "1 dl katkarapuja, kuutioituna",
+   "50 g char siu -possua, kuutioituna",
+   "3 kevätsipulia, kuutioituna",
+   "50 g herneitä",
+   "2 kananmunaa, vatkattuna",
+   "7 dl keitettyä jasmiiniriisiä",
+   "1 tl suolaa",
+   "½ tl valkopippuria",
+   "1 jalapeño, kuutioituna (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna öljy tarttumattomassa paistinpannussa ja paista valkosipuli kullanruskeaksi.",
+   "Lisää pekoni, katkarapu ja char siu ja paista kevyesti 5 minuuttia.",
+   "Lisää kevätsipuli, herneet ja muna ja kypsennä, kunnes kaikki on kypsää.",
+   "Sekoita riisi, suola, pippuri ja jalapeno seokseen."
+  ]
+ },
+ {
+  "id": "wikibooks-yoda-soda",
+  "title": "Yoda Soda (jäätelölimsa)",
+  "description": "Yoda Soda on hauska juoma, joka näyttää mestari Yodan päältä.",
+  "servings": 1,
+  "totalTimeMin": 5,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "jäätelö",
+   "lapset",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl sitrusmakuista limsaa (Mountain Dew)",
+   "2 palloa vaniljajäätelöä",
+   "ripaus suklaarouhetta"
+  ],
+  "instructions": [
+   "Täytä lasi soodalla.",
+   "Lisää jäätelöä.",
+   "Ripottele jäätelön päälle muutama suklaahippu, jotta ne näyttävät hiuksilta."
+  ]
+ },
+ {
+  "id": "wikibooks-yoghurt-bread",
+  "skip": "pelkkä juuren aloitus, viittaa toiseen reseptiin"
+ },
+ {
+  "id": "wikibooks-yogi-tea",
+  "title": "Yogi-tee (maustettu tee)",
+  "description": "Yogi-tee on chai-teetä muistuttava maustettu tee. Se on myös yrttiteesarjan tuotemerkki.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "category": "Juomat",
+  "tags": [
+   "tee",
+   "mausteet",
+   "kuuma juoma",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "15 neilikkaa",
+   "20 mustapippuria",
+   "3 kanelitankoa",
+   "20 vihreää kardemummakapselia, murskattuna",
+   "8 inkivääriviipaletta (1 cm)",
+   "½ tl mustaa teetä",
+   "2 l vettä",
+   "hunajaa tai vaahterasiirappia makeuttamiseen",
+   "maitoa tai soijamaitoa"
+  ],
+  "instructions": [
+   "Kiehauta 2 l vettä isossa kattilassa.",
+   "Lisää neilikat ja keitä 1 minuutti.",
+   "Lisää pippurikornit, kaneli, kardemummakapselit ja inkivääri.",
+   "Peitä ja hauduta hiljalleen vähintään 30 minuuttia. Parhaan maun saat, kun peität astian tiiviisti ja haudutat matalalla lämmöllä 2–3 tuntia.",
+   "Ota kattila pois liedeltä ja lisää tee.",
+   "Anna jäähtyä.",
+   "Siivilöi ainekset valmiista teestä.",
+   "Kun juoma on valmis, makeuta se maun mukaan hunajalla tai vaahterasiirapilla. Lisää soijamaitoa tai lehmänmaitoa."
+  ]
+ },
+ {
+  "id": "wikibooks-yogurt-cupcakes-vegan",
+  "title": "Vegaaniset jogurttikuppikakut",
+  "servings": 12,
+  "servingsEstimated": true,
+  "totalTimeMin": 45,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "muffinit",
+   "vegaaninen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "1 dl vaniljasoijajogurttia",
+   "1,5 dl soijamaitoa",
+   "½ dl omenasosetta",
+   "2 dl sokeria",
+   "3 dl vehnäjauhoja",
+   "3 rkl rypsiöljyä",
+   "2 rkl maissitärkkelystä",
+   "¾ tl leivinjauhetta",
+   "½ tl ruokasoodaa",
+   "¼ tl suolaa",
+   "1½ tl vaniljauutetta",
+   "Kuorrute ja täyte:",
+   "½ dl kaurakermaa tai soijakermaa",
+   "100–150 g tummaa suklaata",
+   "mantelilastuja",
+   "marsipaania tai nougatia"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 175 asteeseen ja aseta muffinivuokiin paperivuokapussit.",
+   "Sekoita nestemäiset ja kuivat ainekset erikseen, ja sekoita sitten nestemäinen ja kuiva seos yhteen.",
+   "Täytä vuoat noin 75 % täyteen ja paista niitä 22–24 minuuttia.",
+   "Anna niiden jäähtyä kokonaan, ja irrota ne sitten muotista.",
+   "Sulata suklaa ja kerma yhdessä tasaiseksi kuorrutteeksi ja jäähdytä hiukan.",
+   "Leikkaa jokaisen muffinin keskeltä pieni kartio. Täytä ontelo hedelmillä, nougatilla tai marsipaanilla, jotta cupcake saa pienen sydämen. Aseta leikattu kartio takaisin paikalleen.",
+   "Koristele muffinit suklaakastikkeella ja viipaloiduilla pähkinöillä."
+  ],
+  "notes": [
+   "Voit korvata vaniljajogurtin mansikkajogurtilla.",
+   "Silikoniset cupcake-vuoat toimivat paremmin kuin paperiset."
+  ]
+ },
+ {
+  "id": "wikibooks-yogurt-curry-soup-kadhi",
+  "title": "Kadhi (gujaratilainen jogurttikeitto)",
+  "description": "Kadhi, joka tunnetaan myös nimillä Karhi tai Gujarati Kadhi, on makea jogurttikastike, jota syödään Intiassa yleensä roti-nimisen happamattoman leivän ja sabzin kanssa.",
+  "servings": 4,
+  "totalTimeMin": 15,
+  "category": "Keitot",
+  "tags": [
+   "intialainen",
+   "jogurtti",
+   "keitto",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "½ dl kikhernejauhoa (besan)",
+   "3,5 dl maustamatonta jogurttia",
+   "1 tl inkivääri-chilitahnaa",
+   "4 curryn lehteä",
+   "2 rkl sokeria",
+   "1 tl suolaa",
+   "2 tl gheetä",
+   "½ tl kuminansiemeniä",
+   "½ tl mustia sinapinsiemeniä",
+   "ripaus asafoetidaa",
+   "1 punainen chili, paloiteltuna",
+   "2 rkl korianteria, hienonnettuna"
+  ],
+  "instructions": [
+   "Vatkaa kikhernejauho, jogurtti ja 7 dl vettä kattilassa tasaiseksi.",
+   "Lisää chili-inkivääripasta, currylehdet, sokeri ja suola. Kiehauta.",
+   "Keitä sekoittaen hetken aikaa.",
+   "Kuumenna ghee pannulla, lisää kumina- ja sinappinsiemeniä ja paahda niitä, kunnes ne ovat vaaleanruskeita. Älä anna niiden palaa.",
+   "Lisää asafoetida ja punainen chili.",
+   "Lisää mausteeseos curryyn ja keitä muutama minuutti.",
+   "Ripottele päälle korianteria ja tarjoile kuumana."
+  ],
+  "notes": [
+   "Alkuperäisessä 2 kupillista kikhernejauhoa, mikä tekisi keitosta puuroa; tavanomainen määrä on noin ½ dl."
+  ]
+ },
+ {
+  "id": "wikibooks-yogurt-dip",
+  "title": "Jogurtti-kurkkudippi",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "dippi",
+   "jogurtti",
+   "kurkku",
+   "kasvis",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "5 dl maustamatonta jogurttia",
+   "½ kurkkua, siemenet poistettu ja hienonnettu hyvin pieniksi paloiksi",
+   "¼ tl kuivattua minttua, murskattuna, tai 1 tl tuoretta, hienonnettuna"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset ja anna seoksen jäähtyä kunnolla, jotta maut pääsevät kehittymään."
+  ]
+ },
+ {
+  "id": "wikibooks-yorkshire-pudding",
+  "skip": "lähes sama kuin aiemmin käännetty yorkshire pudding"
+ },
+ {
+  "id": "wikibooks-yorkshire-pudding-vegan",
+  "title": "Vegaaninen yorkshire pudding",
+  "description": "Yorkshire-pudding on koko Yhdistyneessä kuningaskunnassa suosittu ruokalaji, joka on peräisin Englannin Yorkshiren kreivikunnasta. Sitä syödään perinteisesti naudan- tai lampaanlihan ja vihannesten kanssa.",
+  "servings": 4,
+  "category": "Lisukkeet",
+  "tags": [
+   "brittiläinen",
+   "uuniruoka",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "2,5 dl vehnäjauhoja",
+   "2,5 dl täysjyvävehnäjauhoja",
+   "1 tl suolaa",
+   "munankorviketta 2 kananmunan verran",
+   "2,5 dl soijamaitoa",
+   "2,5 dl hyvin kylmää vettä",
+   "2 rkl sulatettua vegaanista margariinia"
+  ],
+  "instructions": [
+   "Esilämmitä uuni 220 asteeseen.",
+   "Sekoita jauhot ja suola sekoituskulhossa. Tee keskelle kuoppa ja lisää siihen munankorvikeseos. Sekoita ainekset yhteen, kunnes ne ovat juuri sekoittuneet, ja lisää sitten soijamaito ja vesi vähän kerrallaan. Sekoita, kunnes taikina on tasainen, mutta älä sekoita liikaa.",
+   "Levitä sulatettu margariini matalaan 22 × 32 cm uunivuokaan ja kuumenna vuoka uunissa. Kaada taikina kuumaan vuokaan.",
+   "Paista 20 minuuttia tai kunnes pinta on kullanruskea ja veitsi, joka työnnetään keskelle, tulee ulos puhtaana. Anna jäähtyä ja leikkaa sitten neliöiksi tarjoilua varten."
+  ]
+ },
+ {
+  "id": "wikibooks-yoruba-yam-porridge",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-yubeshi-japanese-walnut-mochi-confection",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-yuvarlak-greek-meatballs",
+  "title": "Youvarlakia (kreikkalainen lihapullakeitto avgolemonolla)",
+  "description": "Yuvarlak, yuvarlak köfte tai γιουβαρλάκια (youvarlakia), joka tarkoittaa turkiksi pyöreää, on eräänlainen suuri lihapulla kastikkeessa. Lihaseokseen kuuluu riisiä tai bulguria. Ne kypsennetään kosteassa lämmössä ja kastike sakeutetaan avgolemonolla. Niitä löytyy sekä turkkilaisesta että kreikkalaisesta keittiöstä.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Keitot",
+  "tags": [
+   "kreikkalainen",
+   "jauheliha",
+   "riisi",
+   "keitto"
+  ],
+  "ingredients": [
+   "1 kg jauhettua naudanlihaa",
+   "5 dl lyhytjyväistä riisiä, jaettuna",
+   "2 isoa kananmunaa",
+   "1 iso sipuli, kuutioituna",
+   "2 tl suolaa",
+   "60 g voita tai 6 rkl oliiviöljyä",
+   "1 sitruunan mehu",
+   "mustapippuria",
+   "vehnäjauhoja kierittämiseen"
+  ],
+  "instructions": [
+   "Sekoita jauheliha, 1 muna, 2,5 dl riisiä, suola ja pippuri.",
+   "Sekoita huolellisesti ja muotoile pingispallon kokoisiksi (4 cm) lihapulliksi.",
+   "Kääri jokainen pallo valkoisen jauhon kerrokseen.",
+   "Kuullota sipuli voissa isossa kattilassa, lisää 2 l vettä ja kiehauta.",
+   "Pudota jokainen lihapulla kiehuvaan veteen.",
+   "Lisää 30 minuutin kuluttua loput riisistä keittoon. Keitä vielä 15 minuuttia ja nosta liedeltä.",
+   "Vatkaa toinen muna ja sitruunamehu kulhossa vaahdoksi (avgolemono).",
+   "Kaada hitaasti 2,5 dl kuumaa keittoa avgolemonoon samalla jatkuvasti vispilällä sekoittaen (jotta muna ehtii lämmetä keiton lämpötilaan, jolloin se ei muutu omelettiksi) ja kaada sitten seos kattilaan sekoittaen sen keittoon.",
+   "Tarjoile kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-zalabiyeh-sweet-fritters-i",
+  "title": "Zalabiyeh (rasvassa paistetut hiivamunkit) I",
+  "description": "Zalabiyeh on monissa kulttuureissa syötävä friteerattu leivonnainen, joka valmistetaan lähes kokonaan vehnäjauhosta, hiivasta, suolasta ja vedestä. Se maustetaan makeaksi ripottelemalla sen päälle tomusokeria tai kastamalla se hunajaan.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "lähi-itä",
+   "rasvassa paistettu",
+   "leivonta",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "600 g vehnäjauhoja",
+   "3 rkl sokeria",
+   "1 tl suolaa",
+   "1½ rkl kuivahiivaa",
+   "6 dl haaleaa vettä (tai niin paljon kuin tarvitaan taikinan vaivaamiseen)",
+   "rypsiöljyä paistamiseen",
+   "sokerisiirappia tai hunajaa tarjoiluun"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset paitsi öljy ja vaivaa niitä, kunnes saat puolihienon ja tahmean taikinan.",
+   "Peitä taikina pyyhkeellä ja anna sen levätä 45 minuuttia lämpimässä paikassa.",
+   "Pese kädet ja vaivaa taikinaa vielä kerran. Anna taikinan levätä 20 minuuttia.",
+   "Kuumenna öljy paistinpannussa liedellä keskilämmöllä (öljyn tulisi olla matalassa kerroksessa).",
+   "Pese kädet, rasvaa ne ja ota pieniä annoksia taikinaa, jotka laitetaan paistinpannussa kiehuvaan öljyyn.",
+   "Paista miedolla lämmöllä, ja kun taikina on saanut pohjasta kullanruskean värin, käännä se ympäri ja paista toiselta puolelta.",
+   "Kun ruoka on paistunut, ota se öljystä ja aseta paperipyyhkeiden päälle, jotta ylimääräinen öljy imeytyy pois."
+  ]
+ },
+ {
+  "id": "wikibooks-zalabiyeh-sweet-fritters-ii",
+  "title": "Zalabiyeh II (matsojauholetut)",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Jälkiruoat",
+  "tags": [
+   "juutalainen",
+   "pääsiäinen",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "500 g matsojauhoja",
+   "1 tl suolaa",
+   "5 kananmunaa",
+   "noin 12 dl vettä",
+   "rypsiöljyä paistamiseen"
+  ],
+  "instructions": [
+   "Sekoita suola ja matzah-jauho kulhossa.",
+   "Lisää 9,5 dl vettä ja sekoita huolellisesti.",
+   "Lisää vielä vettä, kunnes taikina on paksua mutta muotoiltavaa.",
+   "Lisää munat ja sekoita aineksia, kunnes taikina on tasalaatuista.",
+   "Jos taikina on liian ohutta, anna sen levätä 7–10 minuuttia, kunnes se sakeutuu.",
+   "Kostuta kädet vedellä ja muotoile taikina pyöreiksi, litteiksi pihveiksi käyttäen kostutettua lautasta työpohjana.",
+   "Paista pihvit öljyllä paistinpannulla."
+  ]
+ },
+ {
+  "id": "wikibooks-zambian-beans-and-rice",
+  "title": "Sambialaiset pavut ja riisi",
+  "description": "Zambian pavut ja riisi ovat terveellinen perusruoka zambialaisessa keittiössä. Tämä maukas pavun ja riisin yhdistelmä on täyttävä ja tyydyttävä ateria, jota nautitaan usein perheissä ympäri Zambiaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pavut",
+   "riisi",
+   "sambialainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 tomaatti, kuutioituna",
+   "1 chili, hienonnettuna (valinnainen)",
+   "2,5 dl riisiä",
+   "2,5 dl kuivattuja mustasilmä- tai kidneypapuja, liotettuina yön yli",
+   "9,5 dl vettä",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy keskilämmöllä suuressa kattilassa.",
+   "Lisää hienonnettu sipuli ja valkosipulimurska kattilaan. Paista, kunnes sipulit ovat pehmeitä ja läpikuultavia.",
+   "Lisää kattilaan kuutioidut tomaatit ja hienonnettu tulinen paprika (jos käytät sitä). Kypsennä, kunnes tomaatit ovat pehmeitä ja neste on hieman haihtunut.",
+   "Valuta ja huuhtele liotetut pavut ja lisää ne sitten kattilaan paistettujen vihannesten joukkoon.",
+   "Kaada vesi ja mausta suolalla maun mukaan. Sekoita hyvin, jotta kaikki ainekset sekoittuvat.",
+   "Kiehauta seos, vähennä sitten lämpöä matalalle, peitä kattila kannella ja anna hautua noin 1–1,5 tuntia tai kunnes pavut ovat pehmeitä ja täysin kypsiä. Sekoita välillä kypsennyksen aikana, jotta seos ei tartu pohjaan ja pavut kypsyvät tasaisesti.",
+   "Keitä riisi erillisessä kattilassa haluamallasi tavalla.",
+   "Kun pavut ovat pehmeitä ja riisi kypsää, tarjoile ruoka kuumana. Voit sekoittaa pavut ja riisin yhteen tai tarjoilla ne vierekkäin lautasella."
+  ],
+  "notes": [
+   "Voit lisätä ruokaan muita vihanneksia, kuten porkkanoita tai paprikoita, jotta saat lisää makua ja ravintoarvoa.",
+   "Jos haluat kermaisemman tekstuurin, voit soseuttaa osan keitetyistä pavuista ja sekoittaa ne riisin joukkoon.",
+   "Sambialaiset pavut ja riisi voidaan tarjoilla itsenäisenä ateriana tai vihannesten tai salaatin kera.",
+   "Vihannesten lisääminen tuo ruokaan tärkeitä vitamiineja ja kivennäisaineita, mikä tekee siitä tasapainoisen aterian."
+  ]
+ },
+ {
+  "id": "wikibooks-zambian-beef-stew",
+  "title": "Sambialainen naudanlihapata",
+  "description": "Sambialainen naudanlihakeitto on runsas ja lohduttava ruoka, jossa yhdistyvät murea naudanliha sekä maukas sekoitus vihanneksia ja mausteita. Tämä keitto on suosittu valinta sambialaisessa keittiössä, ja sitä nautitaan nshiman tai riisin kanssa täyttävänä ateriana.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "pata",
+   "sambialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "450 g naudanlihaa, leikattu suupaloiksi",
+   "5 dl naudanlientä tai vettä",
+   "1 porkkana, kuorittu ja kuutioitu",
+   "1 peruna, kuorittu ja kuutioitu",
+   "1 tomaatti, kuutioituna",
+   "1 vihreä paprika, kuutioituna",
+   "1 punainen paprika, kuutioituna",
+   "1 tl paprikajauhetta",
+   "½ tl cayennepippuria",
+   "½ tl jauhettua kuminaa",
+   "½ tl jauhettua korianteria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy keskilämmöllä suuressa kattilassa.",
+   "Lisää hienonnettu sipuli ja valkosipulimurska kattilaan. Paista, kunnes sipulit ovat pehmeitä ja läpikuultavia.",
+   "Lisää suupalan kokoiset naudanlihapalat kattilaan ja ruskista ne joka puolelta.",
+   "Kaada naudanliemi tai vesi seokseen ja anna sen kiehua hiljalleen.",
+   "Lisää kattilaan kuutioidut porkkana, peruna, tomaatti, vihreä paprika ja punainen paprika. Sekoita hyvin, jotta ainekset sekoittuvat toisiinsa.",
+   "Mausta muhennos paprikalla, cayennepippurilla, jauhetulla kuminaa, jauhetulla korianterilla ja suolalla maun mukaan. Säädä mausteita oman maun mukaan.",
+   "Anna muhennoksen hautua noin 1–1,5 tuntia tai kunnes naudanliha on pehmeää ja täysin kypsää. Sekoita välillä kypsennyksen aikana, jotta ruoka ei tartu pohjaan ja naudanliha sekä vihannekset kypsyvät tasaisesti.",
+   "Ota kattila pois liedeltä ja anna muhennoksen levätä muutama minuutti ennen tarjoilua."
+  ],
+  "notes": [
+   "Voit lisätä muhennokseen muita vihanneksia, kuten herneitä, maissia tai vihreitä papuja, jotta saat lisää makua ja ravintoarvoa.",
+   "Rikkaamman maun saat käyttämällä naudanluuliemiä tai lisäämällä pataan ruokalusikallisen Worcestershire-kastiketta.",
+   "Tämä muhennos voidaan valmistaa etukäteen, ja se maistuu seuraavana päivänä vielä paremmalta, kun maut ehtivät kehittyä."
+  ]
+ },
+ {
+  "id": "wikibooks-zambian-fish-stew",
+  "title": "Sambialainen kalapata",
+  "description": "Sambialainen kalapata on herkullinen ja maukas ruokalaji, joka tuo esiin kalan rikkaan maun sambialaisessa keittiössä. Tämä pata valmistetaan mureista kalapaloista, jotka kypsennetään maukkaassa tomaattipohjaisessa kastikkeessa, johon on sekoitettu aromaattisia mausteita. Se on suosittu ja lohduttava ruokalaji Sambiassa, ja sitä tarjoillaan usein nshiman tai riisin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "pata",
+   "sambialainen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 rkl rypsiöljyä",
+   "1 sipuli, hienonnettuna",
+   "2 valkosipulinkynttä, hienonnettuna",
+   "1 tomaatti, kuutioituna",
+   "1 vihreä paprika, kuutioituna",
+   "1 punainen paprika, kuutioituna",
+   "1 chili, hienonnettuna (valinnainen)",
+   "450 g kiinteää vaaleaa kalaa (tilapia, kuha), paloina",
+   "2,5 dl kalalientä",
+   "½ tl cayennepippuria",
+   "1 tl paprikajauhetta",
+   "1 tl juustokuminaa",
+   "1 tl jauhettua korianteria",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Kuumenna kasviöljy keskilämmöllä suuressa kattilassa.",
+   "Lisää hienonnettu sipuli ja valkosipulimurska kattilaan. Paista, kunnes sipulit ovat pehmeitä ja läpikuultavia.",
+   "Lisää kattilaan kuutioidut tomaatit, vihreä paprika ja punainen paprika. Kypsennä, kunnes vihannekset ovat pehmeitä.",
+   "Kaada kalaliemi tai vesi seokseen ja anna sen kiehua hiljalleen.",
+   "Laita kalapalat varovasti kattilaan ja varmista, että ne ovat kokonaan nesteen peitossa.",
+   "Mausta muhennos jauhetulla cayennepippurilla, jauhetulla paprikalla, jauhetulla kuminaa, jauhetulla korianterilla ja suolalla. Sekoita hyvin, jotta mausteet jakautuvat tasaisesti.",
+   "Peitä kattila kannella ja anna muhennoksen hautua noin 15–20 minuuttia tai kunnes kala on kypsynyt ja hajoaa helposti haarukalla.",
+   "Maista muhennosta ja mausta tarvittaessa lisäämällä suolaa tai mausteita oman maun mukaan.",
+   "Ota kattila pois liedeltä ja anna ruoan levätä muutama minuutti ennen tarjoilua."
+  ],
+  "notes": [
+   "Sambialainen kalapata voidaan tarjoilla nshiman, paksun maissipuuroa, tai riisin kanssa.",
+   "Voit vapaasti lisätä muita vihanneksia, kuten okraa tai pinaattia, muhennokseen maun ja ravintoarvon parantamiseksi.",
+   "Jos haluat mausteisempaa muhennosta, voit lisätä tulisen paprikan määrää tai lisätä hieman chilijauhetta.",
+   "Kala on erinomainen proteiinin, omega-3-rasvahappojen ja erilaisten välttämättömien ravintoaineiden lähde.",
+   "Vihannesten ja aromaattisten mausteiden yhdistelmä lisää pataan vitamiineja ja antioksidantteja."
+  ]
+ },
+ {
+  "id": "wikibooks-zambian-tomato-and-onion-salad",
+  "title": "Sambialainen tomaatti- ja sipulisalaatti",
+  "description": "Sambialainen tomaatti- ja sipulisalaatti on raikas ja yksinkertainen salaatti, jossa tuoreiden tomaattien ja sipulien eloisat maut pääsevät oikeuksiinsa. Tämä salaatti on suosittu lisuke Sambiassa ja sopii monenlaisten pääruokien kanssa, mikä tekee siitä ihanan lisän mihin tahansa ateriaan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "salaatti",
+   "sambialainen",
+   "vegaaninen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "4 kypsää tomaattia, kuutioituna",
+   "1 sipuli, ohuiksi viipaleiksi leikattu",
+   "1 vihreä chili (valinnainen, mausteeksi), hienonnettuna",
+   "2 rkl rypsiöljyä",
+   "1 sitruunan mehu",
+   "suolaa",
+   "korianterinlehtiä (valinnainen)"
+  ],
+  "instructions": [
+   "Sekoita kulhossa kuutioidut tomaatit, ohuiksi viipaloidut sipulit ja hienonnettu vihreä chili (jos käytät).",
+   "Kastele vihannekset kasviöljyllä ja sitruunamehulla.",
+   "Sekoita aineksia varovasti, kunnes vihannekset ovat peittyneet öljyllä ja sitruunamehulla.",
+   "Mausta salaatti suolalla maun mukaan. Säädä mausteita oman maun mukaan.",
+   "Anna salaatin seistä muutama minuutti, jotta maut ehtivät sulautua yhteen.",
+   "Koristele salaatti halutessasi tuoreilla korianterinlehdillä ennen tarjoilua."
+  ],
+  "notes": [
+   "Jos haluat lisätä salaattiin tulisuutta ja mausteisuutta, voit lisätä siihen hienonnettua vihreää chiliä.",
+   "Jos haluat hieman kirpeämmän maun, voit lisätä hieman enemmän sitruunamehua.",
+   "Voit vapaasti muokata salaattia lisäämällä siihen muita vihanneksia tai yrttejä, kuten kurkkua, paprikaa tai persiljaa.",
+   "Tämä salaatti sopii hyvin grillatun lihan ja kalan kanssa tai perinteisten sambialaisten ruokien, kuten nshiman (maissipuuro), lisukkeeksi."
+  ]
+ }
+]

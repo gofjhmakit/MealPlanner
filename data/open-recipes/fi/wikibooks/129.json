@@ -1,0 +1,834 @@
+[
+ {
+  "id": "wikibooks-spicy-chicken-stew",
+  "title": "Mausteinen kanapata",
+  "description": "Oletko kyllästynyt samoihin vanhoihin muhennoksiin? Tämä mausteinen kanamuhennos saa makuhermosi tanssimaan!",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "pata",
+   "thaimaalainen",
+   "tulinen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "900 g luuttomia broilerin reisifileitä, 2,5 cm kuutioina",
+   "3 rkl vehnäjauhoja",
+   "½ dl rypsiöljyä",
+   "1 iso sipuli, hienoksi kuutioituna",
+   "½ dl punaista currytahnaa",
+   "5 thaimaalaista chiliä, varret poistettu",
+   "3 rkl kalakastiketta",
+   "2,5 dl kanalientä",
+   "1 dl tomaattipyreetä",
+   "4 punakuorista perunaa, 5 cm kuutioina",
+   "1 rkl hienonnettua valkosipulia",
+   "persiljaa, hienonnettuna"
+  ],
+  "instructions": [
+   "Pyöritä kana jauhoissa. Aseta sivuun.",
+   "Kuumenna öljy valurautapadassa ja ruskista kana erissä joka puolelta. Nosta sivuun.",
+   "Paista sipulia jäljellä olevassa öljyssä, kunnes se on läpikuultavaa ja reunoiltaan hieman ruskeaa. Sekoita joukkoon currytahna, chilipaprikat, kalakastike, liemi, tomaattipyree, perunat ja valkosipuli.",
+   "Palauta kana pataan, peitä tiiviisti ja hauduta 120-asteisessa uunissa 4½ tuntia.",
+   "Ripottele hienonnettua persiljaa yksittäisiin annoskulhoihin ja tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-chickpea-soup",
+  "title": "Mausteinen kikhernekeitto",
+  "servings": 4,
+  "totalTimeMin": 20,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "kikherneet",
+   "intialainen",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 tlk (á 400 g) kikherneitä, valutettuna",
+   "1 tlk (400 ml) kevytkookosmaitoa",
+   "2,5 dl kanalientä",
+   "1 dl valmista salsaa",
+   "1½ tl garam masalaa",
+   "1 tl jauhettua inkivääriä",
+   "2 rkl omenamehutiivistettä",
+   "½ dl korianterinlehtiä"
+  ],
+  "instructions": [
+   "Sekoita kaikki ainekset tehosekoittimessa tasaiseksi soseeksi.",
+   "Kuumenna suuressa kattilassa tai uunikattilassa ja anna kiehua hiljalleen.",
+   "Hauduta sekoittaen usein 4–5 minuuttia, jotta maut sekoittuvat."
+  ],
+  "notes": [
+   "Koristele ¼ kupillisella maustamatonta jogurttia ja ¼ kupillisella ohuiksi viipaloituja kevätsipuleita.",
+   "Korvaa kanaliemi kasvisliemellä, jos haluat valmistaa vegaanisen ruokalajin."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-chickpeas",
+  "title": "Mausteiset kikherneet",
+  "description": "Mausteiset kikherneet ovat hyvä varasuunnitelma, sillä ne valmistetaan aineksista, joita monien ruokakaapissa lojuu usein pölyisessä nurkassa, mutta jotka ovat myös edullisia hankkia.",
+  "servings": 2,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "kikherneet",
+   "nopea",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 tlk (240 g valutettuna) kikherneitä",
+   "2 rkl rypsiöljyä",
+   "2 tl Dijon-sinappia",
+   "mustapippuria",
+   "suolaa"
+  ],
+  "instructions": [
+   "Siivilöi kikherneet ja kuivaa ne pyyhkeellä.",
+   "Kuumenna öljy suuressa paistinpannussa. Lisää kikherneet ja paista niitä, kunnes ne saavat hieman väriä, noin 6 minuuttia.",
+   "Lisää Dijon-sinappia ja sekoita.",
+   "Mausta pippurilla ja suolalla maun mukaan."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-chilli-chicken",
+  "title": "Mausteinen chilikana",
+  "description": "Chilekanaa, valmistettu Keralan tyyliin.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "intialainen",
+   "indokiinalainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "450 g luutonta kananlihaa",
+   "1 rkl garam masalaa",
+   "1 dl sitruunamehua",
+   "1 tl suolaa",
+   "3 rkl rypsiöljyä",
+   "1½ punasipulia, hienonnettuna",
+   "2 tl chilijauhetta",
+   "¾ tl kurkumajauhetta",
+   "1 tl savustettua paprikajauhetta",
+   "1 tl jauhettua korianteria",
+   "3 keskikokoista tomaattia, paloiteltuna",
+   "½ rkl hienonnettua inkivääriä",
+   "2 rkl hienonnettua valkosipulia",
+   "6 rkl ketsuppia",
+   "4 rkl soijakastiketta",
+   "4 vihreää chiliä, hienonnettuna",
+   "2 vihreää paprikaa, viipaloituna"
+  ],
+  "instructions": [
+   "Marinoi kanaa sitruunamehulla, masalalla ja suolalla 1 tunnin ajan.",
+   "Paista marinoitua kanaa suuressa kattilassa rypsiöljyssä, kunnes se on kullanruskeaa (5–7 minuuttia).",
+   "Ota kana kattilasta ja leikkaa paloiksi.",
+   "Lisää jäljellä olevaan öljyyn sipulit, punainen chilijauhe, kurkuma, paprikajauhe ja korianterijauhe ja paista, kunnes sipulit pehmenevät.",
+   "Lisää tomaatit, inkivääri ja valkosipuli ja kypsennä, kunnes tomaatit ovat pehmenneet ja hajoavat.",
+   "Laita ketsuppi, soijakastike, paistetut kanapalat, vihreät chilipaprikat ja vihreät paprikat kattilaan ja hauduta, kunnes paprikat ovat pehmeitä ja kana on täysin kypsynyt.",
+   "Tarjoile höyrytettyjen riisin kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-corn-bread",
+  "title": "Tulinen jalapeño-maissileipä",
+  "servings": 8,
+  "totalTimeMin": 120,
+  "category": "Leivät ja leivonnaiset",
+  "tags": [
+   "leipä",
+   "maissi",
+   "amerikkalainen",
+   "leivonta"
+  ],
+  "ingredients": [
+   "2,5 dl maissijauhoa",
+   "2,5 dl vehnäjauhoja",
+   "4 tl leivinjauhetta",
+   "½ tl suolaa",
+   "2,5 dl maitoa",
+   "1 kananmuna",
+   "½ dl leivontarasvaa tai sulatettua voita",
+   "1–3 rkl jalapeñoja, hienonnettuna",
+   "½ dl sokeria (valinnainen)",
+   "1 dl maissinjyviä, valutettuna (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna uuni 220 asteeseen. Voitele 20 × 20 cm vuoka.",
+   "Sekoita maissijauho, vehnäjauho, leivinjauhe, suola ja sokeri suuressa sekoituskulhossa.",
+   "Lisää maito, muna, rasva ja jalapeñot.",
+   "Sekoita noin minuutti tasaiseksi ja kaada vuokaan.",
+   "Paista 20–25 minuuttia tai kunnes keskelle pistetty hammastikku tulee ulos puhtaana. Jos taikinaan lisätään maissia, pidennä paistoaikaa noin 50 %.",
+   "Tarjoile kuumana!"
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-crab-and-arugula-salad",
+  "title": "Mausteinen rapu- ja rucolasalaatti",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Salaatit",
+  "tags": [
+   "äyriäiset",
+   "salaatti",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "½ dl tuoretta sitruunamehua",
+   "½ dl ekstra-neitsytoliiviöljyä",
+   "½ tl cayennepippuria",
+   "2 rkl lehtipersiljaa",
+   "10 oksaa tuoretta tilliä",
+   "400 g rapusäilykettä tai -lihaa",
+   "2,5 dl rucolaa"
+  ],
+  "instructions": [
+   "Sekoita sitruuna, öljy, cayennepippuri, persilja ja tilli tehosekoittimessa tai monitoimikoneessa tasaiseksi soseeksi.",
+   "Lisää rapu ja rucola ja sekoita, jotta ainekset peittyvät tasaisesti.",
+   "Jäähdytä halutessasi ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-crab-cakes",
+  "title": "Mausteiset rapukakut",
+  "description": "Nämä mausteiset rapukakut saavat ylimääräistä potkua cayennepippurista.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "äyriäiset",
+   "amerikkalainen",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "Chipotle-remoulade:",
+   "½ dl majoneesia",
+   "2 rkl dijonsinappia",
+   "2 rkl tilliä, hienonnettuna",
+   "2 rkl lehtipersiljaa, hienonnettuna",
+   "1 rkl chipotlea adobokastikkeessa, soseutettuna",
+   "suolaa",
+   "mustapippuria",
+   "Rapukakut:",
+   "450 g rapulihaa",
+   "1 rkl Old Bay -maustetta tai merenelävämaustetta",
+   "1 tl cayennepippuria",
+   "1½ tl suolaa",
+   "1½ tl mustapippuria",
+   "3 rkl dijonsinappia",
+   "2 rkl majoneesia",
+   "2 sitruunan mehu",
+   "1 kananmuna, vatkattuna",
+   "2–3 dl pankojauhoja",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita remouladen ainekset pienessä kulhossa.",
+   "Sekoita rapukakkujen ainekset paitsi muna, panko ja öljy ja muotoile neljäksi pihviksi.",
+   "Kasta pihvit munaan ja kierätä pankossa. Friteeraa 190 asteessa kullanruskeiksi ja läpikuumiksi.",
+   "Tarjoa chipotle-remouladen kanssa."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-feta-burger",
+  "title": "Mausteinen fetahampurilainen",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "hampurilainen",
+   "juusto",
+   "nopea"
+  ],
+  "ingredients": [
+   "450 g naudan jauhelihaa",
+   "1 tl suolaa",
+   "1 tl mustapippuria",
+   "1 tl valkosipulijauhetta",
+   "1 tl cayennepippuria",
+   "1 dl murennettua fetaa"
+  ],
+  "instructions": [
+   "Sekoita mausteet naudanlihaan käsin, kunnes ne ovat hyvin sekoittuneet.",
+   "Muodosta lihasta 8 pientä palloa ja paina ne sitten hyvin litteiksi pihveiksi.",
+   "Lisää neljän päälle noin 2 rkl murennettua fetajuustoa ja peitä sitten lopuilla neljällä.",
+   "Paina seos tiukasti tasaiseksi ja purista reunat tiukasti kiinni, jotta saat neljä hampurilaista. Jäähdytä.",
+   "Paista kuten tavallisia hampurilaisia paistinpannulla tai grillissä. Käsittele varovasti, jotta ne eivät murene.",
+   "Tarjoile paahdetulla valko- tai ruisleivällä mausteisen sinapin kera."
+  ],
+  "notes": [
+   "Tässä reseptissä fetan voi korvata millä tahansa muulla juustolla, joka ei sula helposti. Vaihtoehtoja ovat esimerkiksi parmesan, sveitsiläinen juusto ja Jarlsberg. Jos kuitenkin käytät juustoa, joka sulaa ja muuttuu juoksevaksi, se valuu kokonaan pois.",
+   "Jos aiot grillata hampurilaiset, voit sekoittaa fetan naudanlihaan ja valmistaa ne kuten tavalliset hampurilaiset. Älä kuitenkaan yritä tätä paistinpannulla, sillä juusto tarttuu ja palaa kiinni."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-fried-okra",
+  "title": "Mausteinen paistettu okra",
+  "description": "Tämä resepti ei sovi niille, jotka soittavat palokunnalle, jos maistavat chilipaprikaa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Lisukkeet",
+  "tags": [
+   "okra",
+   "amerikkalainen",
+   "rasvassa paistettu",
+   "kasvis"
+  ],
+  "ingredients": [
+   "40 okraa, varret poistettuna ja pituussuunnassa halkaistuina",
+   "2 tl suolaa",
+   "2 tl mustapippuria",
+   "1 tl cayennepippuria",
+   "2,5 dl vehnäjauhoja, jaettuna",
+   "1 dl tulista kastiketta",
+   "2,5 l maapähkinäöljyä friteeraukseen",
+   "sormisuolaa"
+  ],
+  "instructions": [
+   "Sekoita suola, pippurit ja 1 dl jauhoja. Pyöritä okraa jauhojen seoksessa.",
+   "Kasta okra kuumaan kastikkeeseen ja pyöritä jäljellä olevassa jauhoissa, lisäämällä jauhoja tarpeen mukaan. Anna levätä 2–3 minuuttia.",
+   "Kuumenna öljy suuressa kattilassa tai friteerauskeittimessä 190 asteeseen. Lisää okraa 6 kappaletta kerrallaan ja paista 3–4 minuuttia, kunnes ne ovat kullanruskeita ja rapeita. Valuta öljy pois jäähdytysritilällä ja toista, kunnes kaikki okra on paistettu.",
+   "Ripottele paistettuun okraan lisää kosher-suolaa ja vastamyllyttyä mustapippuria ja tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-fried-rice",
+  "title": "Mausteinen paistettu riisi",
+  "servings": 3,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "tulinen",
+   "nopea",
+   "aasialainen"
+  ],
+  "ingredients": [
+   "2 rkl kookosöljyä",
+   "1 iso sipuli, kuutioituna",
+   "3 valkosipulinkynttä, murskattuna",
+   "2 cm pala inkivääriä, hienonnettuna",
+   "2 kevätsipulia, leikattuina 1,5 cm:n paloiksi",
+   "50 g punaista chiliä, paloina",
+   "2,5 dl basmatiriisiä, keitettynä",
+   "1 rkl chilijauhetta",
+   "3 rkl vaaleaa soijakastiketta",
+   "2 rkl kalakastiketta",
+   "1 tl kanaliemijauhetta",
+   "½ tl suolaa",
+   "½ tl mustapippuria"
+  ],
+  "instructions": [
+   "Kuumenna öljy tarttumattomassa pannussa ja paista isoa sipulia, valkosipulia, punaista chiliä, inkivääriä ja kevätsipulia. Sekoita noin 30 minuuttia, kunnes tuoksuu hyvältä.",
+   "Lisää basmatiriisi, chilijauhe, vaalea soijakastike, kalakastike, kanajauhe, suola ja pippuri. Kypsennä sekoittaen, kunnes ainekset ovat hyvin sekoittuneet ja läpikuumennetut.",
+   "Tarjoile kuumana."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-fried-wings",
+  "title": "Mausteiset paistetut siivet",
+  "description": "Siipikastiketta ei tarvita. Nämä ovat jo tarpeeksi tulisia.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "rasvassa paistettu",
+   "amerikkalainen",
+   "tulinen"
+  ],
+  "ingredients": [
+   "12 broilerin siipeä, kärjet poistettuina ja nivelestä halkaistuina",
+   "2 tl cayennepippuria",
+   "2 rkl sitruunapippuria",
+   "1 tl mustapippuria",
+   "1 tl suolaa",
+   "1 rkl savustettua paprikajauhetta",
+   "1 muna, vatkatuna",
+   "2 rkl hienoksi raastettua sitruunankuorta",
+   "maissijauhoa kierittämiseen",
+   "rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita kaikki mausteet paitsi sitruunankuori ja ripottele seos kanan päälle. Anna marinoitua jääkaapissa vähintään 1 tunti.",
+   "Sekoita muna ja sitruunankuori piirakkavuoassa ja laita maissijauho toiseen piirakkavuokaan.",
+   "Kuumenna öljy 175 asteeseen.",
+   "Kasta kana munaseokseen ja pyöritä sitten maissijauhoissa.",
+   "Paista erissä 11–12 minuuttia. Valuta rasva ritilällä. Älä käytä talouspaperia, ellet halua rasvaista kanaa.",
+   "Ripottele päälle punaisia paprikahiutaleita, jos haluat tulisemmat siivet, mutta tämä on täysin vapaaehtoista. Tarjoile."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-garlic-oil",
+  "title": "Tulinen valkosipuliöljy",
+  "description": "Tämä mausteinen valkosipuliöljy sopii hyvin kanan, kalan ja perunoiden paistamiseen.",
+  "servings": 20,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "öljy",
+   "valkosipuli",
+   "tulinen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "5 dl rypsi- tai maapähkinäöljyä",
+   "10 valkosipulinkynttä",
+   "2 thaichiliä, halkaistuina",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Laita kaikki ainekset kattilaan.",
+   "Kuumenna hyvin miedolla lämmöllä tunti.",
+   "Siivilöi, jäähdytä nopeasti ja säilytä jääkaapissa; käytä viikon kuluessa."
+  ],
+  "notes": [
+   "Valkosipuliöljyä ei saa säilyttää huoneenlämmössä (botulismiriski)."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-grilled-duck-breasts",
+  "title": "Mausteiset grillatut ankanrinnat",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "ankka",
+   "grilli",
+   "nopea",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "4 ankanrintaa (n. 800 g)",
+   "1 rkl oliiviöljyä",
+   "suolaa",
+   "Tuorejauhettua mustapippuria",
+   "1 rkl chilihiutaleita"
+  ],
+  "instructions": [
+   "Sivele ankka oliiviöljyllä. Mausta runsaasti suolalla, mustapippurilla ja punaisilla paprikahiutaleilla. Aseta sivuun.",
+   "Kuumenna grilli keskilämmölle. Grillaa ankanrintoja kannen alla 4–5 minuuttia, käännä ja grillaa vielä 3–4 minuuttia (sisälämpö 57 astetta).",
+   "Siirrä lautaselle ja anna levätä 5 minuuttia.",
+   "Tarjoile lämpimänä, vinosti viipaloituna."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-hot-salsa",
+  "skip": "määrät puuttuvat"
+ },
+ {
+  "id": "wikibooks-spicy-mexican-omelet",
+  "title": "Mausteinen meksikolainen munakas",
+  "description": "Tässä vinkki hyvien omelettien valmistamiseen: Kypsennä ainekset, jotka haluat kypsiksi, ennen kuin lisäät ne munien sekaan, ja varmista, että kaikki ainekset ovat huoneenlämpöisiä.",
+  "servings": 1,
+  "servingsEstimated": true,
+  "category": "Aamiainen",
+  "tags": [
+   "kananmuna",
+   "meksikolainen",
+   "tulinen",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "3 kananmunaa, ehjiä",
+   "ripaus merisuolaa",
+   "1 habanero- tai serranochili, hienonnettuna",
+   "1 dl salsaa, huoneenlämpöistä",
+   "2,5 dl juustoraastetta (Monterey Jack tai cheddar)",
+   "2 rkl tuoretta korianteria, hienonnettuna",
+   "1 rkl voita"
+  ],
+  "instructions": [
+   "Peitä kokonaiset munat lämpimällä, mutta ei kiehuvalla vedellä. Anna seistä 5 minuuttia tai kunnes ne ovat huoneenlämpöisiä.",
+   "Vatkaa munat suolan kanssa. Aseta sivuun.",
+   "Sekoita chilipaprikat, salsa, korianteri ja juusto. Aseta sivuun.",
+   "Kuumenna suuri teflonpannu keskilämmöllä. Pyöritä pannua nopeasti voin kanssa ja riko munat pannulle. Paista, kunnes muna on jähmettynyt ja pannun puoleinen sivu on kauniisti ruskistunut.",
+   "Ripottele salsaseosta tasaisesti munan kypsymättömälle puolelle. Taita muna kahtia ja paista kypsymätöntä puolta, kunnes se on kiinteä ja kauniin ruskea.",
+   "Ripottele päälle hienonnettua korianteria ja tarjoile lämpimänä."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-miso-udon",
+  "title": "Mausteinen miso-udon",
+  "description": "Tämä on mausteinen miso-udon-keitto, joka valmistetaan kuivista udon-nuudeleista. Tämän keiton valmistaminen voi olla hieman haastavampaa, koska lämpötilaa on säädettävä tarkasti. Hienostuneet maut eivät kestä korkeita lämpötiloja, joten jos keitto kuumenee liikaa tai alkaa kiehua, se pilaantuu.",
+  "servings": 2,
+  "totalTimeMin": 45,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "japanilainen",
+   "nuudelit"
+  ],
+  "ingredients": [
+   "5 dl kanalientä",
+   "10 g katsuobushia",
+   "200 g kuivia udonnuudeleita",
+   "12 ohutta viipaletta sucukia tai chorizoa",
+   "1 vihreä paprika tai jalapeño, hienonnettuna",
+   "1 sipuli, viipaloituna",
+   "2,5 dl silputtua kaalia",
+   "½ tl tulista paprikajauhetta",
+   "1–2 rkl punapippuripastaa",
+   "kourallinen mungpavun ituja",
+   "1 rkl misotahnaa",
+   "½ rkl hunajaa tai maun mukaan",
+   "muutama tippa tabascoa",
+   "1 pkt (100 g) enokisieniä",
+   "1 tlk (120 g) sardiineja",
+   "1–2 kananmunaa",
+   "kevätsipulia koristeeksi",
+   "1 rkl oliiviöljyä"
+  ],
+  "instructions": [
+   "Kiehauta kanaliemi. Lisää katsuobushi-hiutaleet, ota kattila pois liedeltä ja anna seistä 1 minuutti.",
+   "Siivilöi katsuobushi-hiutaleet pois ja heitä ne pois, ja aseta liemi sivuun.",
+   "Keitä udon-nuudelit suolavedessä, kunnes ne ovat al dente. Valuta vesi pois, huuhtele kylmällä vedellä ja aseta sivuun.",
+   "Paista sucukia, vihreää paprikaa ja sipulia oliiviöljyssä keskikokoisessa keittokattilassa.",
+   "Lisää kaali, paprikajauhe ja punapippuripasta. Sekoita ainekset keskenään.",
+   "Lisää varattu liemi ja anna kiehua hiljalleen matalalla tai keskilämmöllä; älä anna sen kuumentua liikaa, sillä katsuobushin maku on hyvin herkkä.",
+   "Lisää pavunituja. Anna kiehua hiljalleen, kunnes vihannekset saavuttavat halutun pehmeyden.",
+   "Lisää keitetyt nuudelit, miso, hunaja ja tabasco. Älä anna keiton kiehua, sillä liian kuuma lämpö tuhoaa keiton rikkaan maun.",
+   "Lisää enoki-sieniä ja sardiineja ja hauduta vain niin kauan, että ne lämpenevät.",
+   "Riko yksi tai kaksi munaa liemeen ja tarjoile, kun keltuainen on juuri jähmettynyt.",
+   "Koristele kevätsipulilla."
+  ],
+  "notes": [
+   "Tässä reseptissä käytetään kuivia vehnänuudeleita, ja valmistusohjeet voivat poiketa tapiokaa ja muita ainesosia sisältävistä \"joustavista\" nuudeleista.",
+   "Tämä resepti voidaan valmistaa esimerkiksi kanalla tai sianlihalla; jos säilykesardiinien sijaan käytetään jotakin lihalajia, valmistusohjeita on mukautettava lihan kypsentämiseen sopiviksi.",
+   "Aito dashi valmistetaan merileväliemestä, ei kanaliemestä."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-plantain-chips",
+  "title": "Mausteiset plantain-sirut",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Välipalat",
+  "tags": [
+   "plantaini",
+   "rasvassa paistettu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2 vihreää plantainia (keittobanaania), soseutettuna",
+   "1 tl suolaa",
+   "1 tl vastajauhettua mustapippuria",
+   "1 serranochili, hienonnettuna",
+   "1 rkl hienonnettua valkosipulia",
+   "2 l maapähkinä- tai rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Sekoita plantainit, suola, mustapippuri, chili ja valkosipuli. Muotoile seoksesta pyöreitä paloja, jotka ovat noin ohuen perunalohkon kokoisia.",
+   "Kuumenna öljy 190 asteeseen. Lisää pyöreitä paloja 6–8 kerrallaan ja paista, kunnes ne ovat kullanruskeita ja rapeita pinnalta.",
+   "Valuta ruoka uunipeltiä vasten asetetulla jäähdytysritilällä ja mausta välittömästi suolalla ja vastamyllyllä jauhetulla mustapippurilla.",
+   "Tarjoile lämpimänä tai huoneenlämpöisenä."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-roast-brisket",
+  "title": "Mausteinen haudutettu naudanrinta",
+  "description": "Tämä resepti on mausteiselle naudanrintapihvipaistille. Sen kanssa voi tarjoilla perunamuusia.",
+  "servings": 4,
+  "category": "Pääruoat",
+  "tags": [
+   "naudanliha",
+   "pata",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 rkl rypsiöljyä",
+   "1 kg naudanrintapalaa",
+   "2,5 dl sipulia, viipaloituna",
+   "2,5 dl varsiselleriä, ohuina viipaleina",
+   "2 tl hienonnettua valkosipulia",
+   "1 tl juustokuminaa, paahdettuna ja jauhettuna",
+   "½ tl mustapippuria, rouhittuna",
+   "2 tl sinappijauhetta",
+   "2 tl kuivattua oreganoa",
+   "½ tl suolaa",
+   "5 dl tomaattikuutioita",
+   "1 dl naudanlientä",
+   "2 rkl punaviinietikkaa",
+   "1 rkl fariinisokeria",
+   "2 laakerinlehteä",
+   "1 vihreä tai punainen paprika, suikaleina",
+   "1 chili (valinnainen)"
+  ],
+  "instructions": [
+   "Kuumenna öljy suuressa, raskaassa kattilassa, lisää rintapala ja ruskista se joka puolelta.",
+   "Työnnä liha sivuun. Lisää sipulit ja selleri ja paista keskilämmöllä, kunnes ne pehmenevät.",
+   "Lisää valkosipuli, kumina, pippurit, sinappi ja oregano sekä suola ja sekoita.",
+   "Lisää tomaatit, naudanliemi, etikka, sokeri ja laakerinlehdet. Lisää tomaattimehua halutessasi.",
+   "Lisää 2,5 dl kiehuvaa vettä, peitä kattila kannella ja anna hautua 2 tuntia miedolla lämmöllä.",
+   "Tarkista säännöllisesti, että nestettä on tarpeeksi, ja lisää vettä tarvittaessa.",
+   "Lisää paprika ja chilipaprikat 30 minuuttia ennen tarjoilua."
+  ],
+  "notes": [
+   "Jos käytät suurempaa palasta rintapalaa, säädä muiden ainesosien määriä vastaavasti.",
+   "Älä lisää lihaan kylmää nestettä ruoanlaittoon aikana, ja varmista, että lihan päälle kaadetaan lämpimiä tomaatteja. Muuten liha voi kovettua."
+  ]
+ },
+ {
+  "id": "wikibooks-spicy-tomato-soup",
+  "title": "Mausteinen tomaattikeitto",
+  "servings": 4,
+  "totalTimeMin": 60,
+  "category": "Keitot",
+  "tags": [
+   "keitto",
+   "tomaatti",
+   "kasvis",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 l tomaattikuutioita (tai 2 tlk)",
+   "5 dl ruokakermaa",
+   "1 tl sokeria",
+   "½ tl jauhettua valkopippuria",
+   "¼ tl suolaa",
+   "¼ tl valkosipulijauhetta",
+   "ripaus cayennepippuria"
+  ],
+  "instructions": [
+   "Sekoita tehosekoittimessa tai monitoimikoneessa, tarvittaessa useammassa erässä, tomaatit, kerma, sokeri, pippuri, suola, valkosipuli ja cayennepippuri soseeksi.",
+   "Kaada keitto kattilaan ja kiehauta se voimakkaalla lämmöllä.",
+   "Vähennä lämpöä ja anna kiehua hiljalleen, sekoittaen silloin tällöin, kunnes keitto sakeutuu, 20–30 minuuttia.",
+   "Tarjoile kuumana."
+  ],
+  "notes": [
+   "Kokeile koristella keittoa keitetyillä katkaravuilla tai andouille-makkaran viipaleilla."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-and-ricotta-gnocchi",
+  "title": "Pinaatti-ricottagnocchit (gnudi)",
+  "description": "Nämä houkuttelevat vihreät pinaatti- ja ricotta-gnocchit ovat peräisin Toscanasta, jossa niitä kutsuttiin hämmentävästi ravioleiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "category": "Pääruoat",
+  "tags": [
+   "pinaatti",
+   "juusto",
+   "italialainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "350 g keitettyä pinaattia, hyvin puristettuna ja hienonnettuna",
+   "250 g ricottaa",
+   "suolaa",
+   "mustapippuria",
+   "ripaus muskottipähkinää",
+   "2 kananmunaa",
+   "2,5 dl tuoretta raastettua parmesaanijuustoa",
+   "3 rkl vehnäjauhoja + kierittämiseen",
+   "75 g sulatettua voita"
+  ],
+  "instructions": [
+   "Laita pinaatti, ricotta ja mausteet kattilaan. Kypsennä miedolla lämmöllä jatkuvasti sekoittaen 5 minuuttia.",
+   "Sammuta liesi ja sekoita joukkoon munat, 3 rkl parmesaania ja jauhot taikinan valmistamiseksi.",
+   "Jäähdytä taikinaa vähintään 4 tuntia.",
+   "Muotoile taikina varovasti pieniksi pyöreiksi palloksi ja pyöritä ne hyvin pienessä määrässä jauhoja.",
+   "Keitä niitä kiehuvassa vedessä, kunnes ne nousevat pintaan. Valuta vesi pois ja aseta sivuun.",
+   "Sekoita gnocchit sulatetun voin kanssa ja ripottele päälle jäljellä oleva parmesaanijuusto."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-and-ricotta-lasagna",
+  "title": "Pinaatti- ja ricottalasagne",
+  "description": "Lasagne on tunnettu italialainen uunissa paistettu pastaruoka. Tässä runsas, lihattomassa reseptissä pyritään yhdistämään tomaattikastikkeen kirpeys, ricottan kermaisuus ja pinaatin makeus.",
+  "servings": 12,
+  "totalTimeMin": 195,
+  "category": "Pääruoat",
+  "tags": [
+   "lasagne",
+   "pinaatti",
+   "juusto",
+   "italialainen",
+   "kasvis",
+   "uuniruoka"
+  ],
+  "ingredients": [
+   "2 tlk (á 800 g) San Marzano -tomaatteja",
+   "1 valkosipuli (n. 12 kynttä), kuorittuna",
+   "½ dl oliiviöljyä",
+   "suolaa",
+   "750 g ricottaa",
+   "2 kananmunaa",
+   "750 g pakastepinaattia",
+   "450 g lasagnelevyjä",
+   "350 g mozzarellaraastetta"
+  ],
+  "instructions": [
+   "Aseta paksupohjainen kattila keskilämmölle. Lisää öljy ja valkosipuli ja sekoita, kunnes tuoksuu hyvältä ja valkosipuliin alkaa muodostua kuplia.",
+   "Lisää tomaatit ja vähennä lämpöä matalalle.",
+   "Hauduta, kunnes seos on kastikeen konsistenssia ja sen määrä on vähentynyt noin ⅔ alkuperäisestä (noin 1½ tuntia).",
+   "Sammuta liesi ja poista valkosipulinkynnet, jotta voit murskata ne haarukalla. Lisää valkosipulipyree kastikkeeseen.",
+   "Lisää suolaa maun mukaan, peitä ja anna levätä 30 minuuttia.",
+   "Kaada ricottajuusto siivilään, joka on asetettu juustoliinan tai keittiöpyyhkeen päälle, ja anna valua 30 minuuttia.",
+   "Sekoita munat ja ricotta ja vatkaa käsivatkaimella, kunnes seos on kermainen.",
+   "Peitä ja säilytä, varmistaen, että se on huoneenlämpöistä kokoamisen aikana.",
+   "Sulata pakastettu pinaatti, valuta se ja purista neste pois.",
+   "Säilytä, kunnes olet valmis kokoamaan annoksen.",
+   "Keitä pasta valmistajan ohjeiden mukaisesti, valuta vesi pois ja laita pasta takaisin kattilaan kylmän veden kanssa.",
+   "Aseta arkit puhtaalle, märälle keittiöpyyhkeelle ja rullaa pyyhe käyttövalmiiksi.",
+   "Levitä kastiketta 23 × 33 cm vuoan pohjalle ja asettele lasagnelevyjä päälle.",
+   "Levitä pinaattia ohuesti nuudeleiden päälle ja levitä juustoseos kumilastalla.",
+   "Lisää lisää kastiketta ja toista edellinen vaihe, kunnes pannu on lähes täynnä ja peitetty lasagnekerroksella.",
+   "Lisää kastike ja peitä raastetulla mozzarellalla.",
+   "Paista 175 asteessa noin 30 minuuttia, kunnes sisälämpö on 65 astetta.",
+   "Anna levätä 15–20 minuuttia ennen tarjoilua."
+  ],
+  "notes": [
+   "Kastikkeen hautuessa voi valmistella kaikki muut ainekset.",
+   "Tomaattien varsi voidaan nipistää pois, jotta tomaatti irtoaa ilman, että se murskautuu.",
+   "Jos asetat puulusikan poikittain kattilaan ennen kannen sulkemista, se mahdollistaa höyryn haihtumisen ja estää roiskeita.",
+   "Tomaattikastike sopii erinomaisesti myös pizzan päälle.",
+   "Tuoreen pinaatin käyttöä ei suositella.",
+   "Lasagne-levyjen asettaminen vuorotellen eri suuntiin (pitkittäin, poikittain, pitkittäin jne.) lisää rakenteen lujuutta.",
+   "Jos esillepano sitä vaatii, lasagnea voidaan paistaa uunin grillitoiminnolla muutama minuutti paistamisen lopuksi."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-and-ricotta-ravioli-filling",
+  "title": "Pinaatti- ja ricotta-raviolien täyte",
+  "servings": 6,
+  "servingsEstimated": true,
+  "category": "Muut",
+  "tags": [
+   "täyte",
+   "pinaatti",
+   "juusto",
+   "italialainen",
+   "kasvis"
+  ],
+  "ingredients": [
+   "400 g keitettyä pinaattia",
+   "450 g ricottaa tai raejuustoa",
+   "2 dl tuoreita leivänmuruja",
+   "½ dl raastettua parmesaania",
+   "2 rkl tuoretta persiljaa, hienonnettuna",
+   "¼ tl suolaa",
+   "ripaus mustapippuria",
+   "½ tl raastettua tai hienonnettua valkosipulia",
+   "1 kananmuna"
+  ],
+  "instructions": [
+   "Purista pinaatista ylimääräinen vesi pois. Laita se sekoituskulhoon.",
+   "Lisää muut ainekset ja sekoita hyvin haarukalla."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-artichoke-dip",
+  "title": "Pinaatti-artisokkakastike",
+  "description": "Olipa kyseessä sitten muodollinen tai epämuodollinen tilaisuus, pinaatti-artisokkakastike on loistava alkupala mihin tahansa juhliin. Se on nopea ja helppo valmistaa, eikä sen valmistaminen vie juurikaan aikaa. Kastiketta voi tarjoilla erilaisien keksejen, leivän tai sipulilastujen kanssa.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "dippi",
+   "pinaatti",
+   "juusto",
+   "juhla",
+   "kasvis"
+  ],
+  "ingredients": [
+   "450 g tuorejuustoa",
+   "2 dl ruokakermaa",
+   "1 dl raastettua parmesaanijuustoa",
+   "¼ tl valkosipulijauhetta",
+   "450 g pakastettua lehtipinaattia, sulatettuna ja hyvin valutettuna",
+   "1 tlk (400 g) artisokan sydämiä neljänneksinä, huuhdottuna ja valutettuna",
+   "1,5 dl juustoraastetta (Monterey Jack tai cheddar)",
+   "2,5 dl valmista salsaa",
+   "keksejä tai tortillalastuja tarjoiluun"
+  ],
+  "instructions": [
+   "Sekoita metalliterällä varustetussa monitoimikoneessa tuorejuustoa, kermaa, parmesaanijuustoa ja valkosipulijauhetta, kunnes seos on tasainen ja kermainen. Lisää pinaatti ja sekoita, kunnes seos on tasainen. Lisää artisokat ja sekoita, kunnes ne ovat karkeasti hienonnettuja.",
+   "Kaada seos hitaaseen keittimeen (n. 3,5 l) ja tasoita pinta. Lisää pinaatti, artisokat ja salsa ja sekoita.",
+   "Kypsennä kannen alla korkealla teholla 1¼–1½ tuntia. Ripottele juusto päälle ja anna sulaa.",
+   "Vähennä lämpöä matalalle ja tarjoile lämpimänä keksien tai tortillalastujen kanssa dippinä. Säilytä jäämät jääkaapissa."
+  ],
+  "notes": [
+   "Tämä dippi maistuu parhaiten lämpimänä, mutta sitä voi tarjoilla myös kylmänä.",
+   "Jos ruoka tarjoillaan leipäkulhossa, siitä voi murtaa paloja ja käyttää niitä dippausvälineinä, jotta ruoasta saa vielä enemmän nautintoa.",
+   "Muita mausteita, jotka sopivat erinomaisesti tämän dippikastikkeen kanssa, ovat esimerkiksi salsa, guacamole tai smetana.",
+   "Tämä on loistava alkupala kasvissyöjille, ja tarvittaessa voi käyttää vegaanista tuorejuustoa."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-calzones",
+  "title": "Pinaatticalzonet",
+  "servings": 8,
+  "category": "Pääruoat",
+  "tags": [
+   "pinaatti",
+   "juusto",
+   "italialainen",
+   "kasvis",
+   "leivonta"
+  ],
+  "ingredients": [
+   "425 g ricottaa",
+   "2 kananmunaa",
+   "1 rkl kuivattua italialaista yrttisekoitusta",
+   "340 g mozzarellaraastetta",
+   "100 g parmesaania, raastettuna",
+   "280 g pakastepinaattia, sulatettuna ja puristettuna",
+   "suolaa",
+   "mustapippuria",
+   "900 g pakastettua leipätaikinaa tai pizzataikinaa, sulatettuna"
+  ],
+  "instructions": [
+   "Kuumenna uuni 200 asteeseen.",
+   "Sekoita suuressa kulhossa ricottajuusto, munat, italialaiset mausteet, mozzarellajuusto, parmesanjuusto ja pinaatti. Aseta sivuun.",
+   "Jaa taikina 8 osaan ja kauli kukin noin 20 cm ympyräksi. Laita kullekin noin 1 dl täytettä, taita ja painele reunat kiinni.",
+   "Paista 30 minuuttia esilämmitetyssä uunissa tai kunnes pinta ja pohja ovat kauniisti ruskistuneet."
+  ]
+ },
+ {
+  "id": "wikibooks-spinach-fritters",
+  "title": "Pinaattiletut",
+  "description": "Nämä ovat herkullisia ja terveellisiä pinaattilettuja.",
+  "servings": 18,
+  "totalTimeMin": 30,
+  "category": "Välipalat",
+  "tags": [
+   "pinaatti",
+   "kasvis",
+   "nopea"
+  ],
+  "ingredients": [
+   "2,5 dl kreikkalaista jogurttia",
+   "2,5 dl vehnäjauhoja",
+   "3 kourallista pinaattia ja rucolaa",
+   "3 kananmunaa",
+   "1 tl leivinjauhetta",
+   "1 tl hienonnettua valkosipulia",
+   "1 rkl oliiviöljyä",
+   "suolaa",
+   "mustapippuria"
+  ],
+  "instructions": [
+   "Sekoita jogurtti, jauhot, hienonnettu valkosipuli, oliiviöljy, suola ja pippuri sekoituskulhossa.",
+   "Pilko pinaatti ja rucola ja lisää ne sekoituskulhoon.",
+   "Sekoita leivinjauhe seokseen.",
+   "Kuumenna paistinpannu ja voitele se oliiviöljyllä.",
+   "Laita taikinaa lusikallinen kerrallaan pannulle niin, että muodostuu muutama fritteri noin 3 cm:n välein toisistaan.",
+   "Paista, kunnes pohja on kullanruskea, käännä ja paista toinenkin puoli.",
+   "Toista ruoanlaittovaiheet, kunnes taikina on käytetty loppuun."
+  ]
+ }
+]
