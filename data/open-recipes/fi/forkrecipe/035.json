@@ -1,0 +1,637 @@
+[
+ {
+  "id": "forkrecipe-tempeh-sambal",
+  "title": "Tempe kering (rapea tempeh-sambal)",
+  "description": "Ohuet tempehviipaleet paistetaan rapeiksi ja kääntellään salottien, chilin, valkosipulin ja sitruunaruohon kanssa kecap manis -soijassa karamellisoituneiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 35,
+  "category": "Pääruoat",
+  "tags": [
+   "tempeh",
+   "indonesialainen",
+   "tulinen",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "400 g tempeh'ä, 5 mm viipaleina",
+   "2–3 punaista chiliä, viipaleina",
+   "4 salottisipulia, ohuina viipaleina",
+   "1 sitruunaruohon varsi, murskattuna",
+   "4 valkosipulinkynttä, ohuina viipaleina",
+   "4 rkl kecap manista (makeaa soijaa)",
+   "1 dl kookos- tai rypsiöljyä",
+   "1 tl suolaa",
+   "2 laakerinlehteä (tai salam-lehteä)"
+  ],
+  "instructions": [
+   "Kuumenna 1 cm öljyä pannulla ja paista tempehviipaleet erissä kullanruskeiksi ja rapeiksi. Valuta.",
+   "Jätä pannuun ruokalusikallinen öljyä ja paista salotteja 5 minuuttia kullanruskeiksi. Lisää chili, valkosipuli, sitruunaruoho ja lehdet ja paista 2 minuuttia.",
+   "Lisää tempeh ja kecap manis ja kääntele kovalla lämmöllä 2–3 minuuttia, kunnes kastike karamellisoituu pinnalle. Suolaa ja tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tempura-batter",
+  "skip": "sama taikina sisältyy kasvistempuraan"
+ },
+ {
+  "id": "forkrecipe-tempura-sauce",
+  "title": "Tentsuyu (tempuran kastoliemi)",
+  "description": "Dashi, mirin ja soija suhteessa 4:1:1 kiehautetaan ja tarjoillaan raastetun daikonin ja inkiväärin kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 5,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "japanilainen",
+   "kastike",
+   "nopea"
+  ],
+  "ingredients": [
+   "2 dl dashilientä",
+   "½ dl miriniä",
+   "½ dl soijakastiketta",
+   "2 rkl daikonia tai retikkaa, hienoksi raastettuna",
+   "1 tl tuoretta inkivääriä, raastettuna (valinnainen)"
+  ],
+  "instructions": [
+   "Kiehauta dashi, mirin ja soija pienessä kattilassa.",
+   "Raasta daikon hienoksi ja purista kevyesti.",
+   "Kaada kuuma kastike pieniin kulhoihin ja tarjoa daikonin ja inkiväärin kanssa tempuran rinnalla."
+  ]
+ },
+ {
+  "id": "forkrecipe-tempura-vegetables",
+  "title": "Kasvistempura",
+  "description": "Bataatti, shiitake, vihreät pavut, lootuksenjuuri ja paprika kastetaan jääkylmään tempurataikinaan ja friteerataan kevyen rapeiksi.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 45,
+  "category": "Pääruoat",
+  "tags": [
+   "japanilainen",
+   "rasvassa paistettu",
+   "kasvis"
+  ],
+  "ingredients": [
+   "600 g kasviksia: bataattia, shiitakesieniä, vihreitä papuja, lootuksenjuurta, punaista paprikaa",
+   "120 g kylmiä vehnäjauhoja",
+   "30 g perunajauhoja",
+   "1 munankeltuainen",
+   "1,8 dl jääkylmää kivennäisvettä",
+   "1,5 l rypsiöljyä friteeraukseen",
+   "1 tl suolaa"
+  ],
+  "instructions": [
+   "Viipaloi bataatti 6 mm ja lootuksenjuuri 5 mm paksuiksi, viillä shiitakejen hatut ja leikkaa paprika leveiksi suikaleiksi. Kuivaa kaikki huolellisesti.",
+   "Kuumenna öljy 170–175 asteeseen.",
+   "Sekoita juuri ennen paistamista keltuainen ja kylmä vesi, lisää jauhot kerralla ja sekoita puikoilla vain muutama veto.",
+   "Kasta kasvikset taikinaan ja friteeraa pienissä erissä 2–3 minuuttia vaalean rapeiksi. Valuta ritilällä, suolaa ja tarjoa heti tentsuyun kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tepache",
+  "title": "Tepache (fermentoitu ananasjuoma)",
+  "description": "Ananaksen kuoret ja kara käytetään sokerivedessä kanelin ja neilikan kanssa 2–3 päivää kevyesti poreilevaksi, hapanimeläksi juomaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "meksikolainen",
+   "fermentoitu",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 ananaksen kuoret ja kara, hyvin pestyinä",
+   "250 g piloncilloa tai tummaa fariinisokeria",
+   "1 kanelitanko",
+   "4 neilikkaa",
+   "1,5 l kloorittomia vettä"
+  ],
+  "instructions": [
+   "Liuota sokeri kupilliseen lämmintä (40 asteista) vettä ja sekoita loppuun veteen isossa lasipurkissa.",
+   "Lisää ananaksen kuoret ja kara, kaneli ja neilikat.",
+   "Peitä liinalla ja anna käydä huoneenlämmössä 2–3 päivää, sekoittaen kerran päivässä. Kuori mahdollinen valkoinen vaahto pois.",
+   "Siivilöi ja siirrä jääkaappiin. Tarjoa jäiden kanssa; säilyy jääkaapissa noin viikon."
+  ]
+ },
+ {
+  "id": "forkrecipe-teriyaki-glaze",
+  "title": "Teriyakiglaseeri",
+  "description": "Soija, mirin, sake ja sokeri keitetään puoleen siirappimaiseksi kiiltäväksi glaseeriksi kanalle, lohelle tai tofulle.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "japanilainen",
+   "kastike",
+   "nopea"
+  ],
+  "ingredients": [
+   "1 dl soijakastiketta",
+   "1 dl miriniä",
+   "½ dl sakea",
+   "2 rkl sokeria",
+   "1 ohut viipale tuoretta inkivääriä (valinnainen)"
+  ],
+  "instructions": [
+   "Laita kaikki ainekset pieneen kattilaan ja kiehauta keskilämmöllä sekoittaen, kunnes sokeri liukenee.",
+   "Keitä miedolla lämmöllä sekoittamatta 8–10 minuuttia, kunnes neste on vähentynyt puoleen ja on siirappimaista.",
+   "Poista inkivääri. Glaseeri paksuuntuu jäähtyessään."
+  ]
+ },
+ {
+  "id": "forkrecipe-teriyaki-sauce",
+  "skip": "lähes sama kuin teriyakiglaseeri"
+ },
+ {
+  "id": "forkrecipe-thai-basil-chicken",
+  "title": "Pad krapow gai (thaibasilikakana)",
+  "description": "Kanan jauheliha paistetaan kuumassa wokissa valkosipulin ja chilin kanssa, maustetaan osteri- ja kalakastikkeella ja viimeistellään pyhällä basilikalla.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 15,
+  "totalTimeMin": 20,
+  "category": "Pääruoat",
+  "tags": [
+   "kana",
+   "thaimaalainen",
+   "wokki",
+   "nopea",
+   "tulinen"
+  ],
+  "ingredients": [
+   "500 g broilerin reisijauhelihaa tai hienoksi hakattua reisilihaa",
+   "5 valkosipulinkynttä, hienonnettuna",
+   "3–5 thaichiliä, viipaleina",
+   "kourallinen pyhää basilikaa (tai thaibasilikaa)",
+   "3 rkl osterikastiketta",
+   "2 rkl kalakastiketta",
+   "2 tl tummaa soijakastiketta",
+   "3 rkl rypsiöljyä"
+  ],
+  "instructions": [
+   "Sekoita osterikastike, kalakastike ja soija valmiiksi.",
+   "Kuumenna öljy wokissa savuavaksi, lisää valkosipuli ja chili ja paista 30–45 sekuntia.",
+   "Lisää jauheliha, painele litteäksi ja paista kovalla lämmöllä 2–3 minuuttia, kunnes se on kypsää ja paikoin ruskistunutta. Lisää kastike ja kääntele.",
+   "Nosta liedeltä, lisää basilika ja kääntele 10–15 sekuntia. Tarjoa riisin ja paistetun kananmunan kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-basil-fried-rice",
+  "title": "Khao pad krapao (thaibasilika-paistettu riisi)",
+  "description": "Päivän vanha jasmiiniriisi paistetaan kuumassa wokissa sianjauhelihan, valkosipulin, chilin ja kastikkeiden kanssa; viimeistellään pyhällä basilikalla ja paistetulla munalla.",
+  "servings": 2,
+  "prepTimeMin": 10,
+  "totalTimeMin": 15,
+  "category": "Pääruoat",
+  "tags": [
+   "riisi",
+   "sianliha",
+   "thaimaalainen",
+   "wokki",
+   "nopea"
+  ],
+  "ingredients": [
+   "600 g kylmää keitettyä jasmiiniriisiä",
+   "300 g sian jauhelihaa",
+   "6 valkosipulinkynttä, karkeasti hienonnettuna",
+   "3–6 thaichiliä",
+   "2 rkl kalakastiketta",
+   "2 rkl osterikastiketta",
+   "1 rkl vaaleaa soijakastiketta",
+   "5 rkl rypsiöljyä",
+   "kourallinen pyhää basilikaa",
+   "2 kananmunaa"
+  ],
+  "instructions": [
+   "Kuumenna wokki savuavaksi, lisää 3 rkl öljyä, valkosipuli ja chilit ja paista 15–20 sekuntia.",
+   "Lisää jauheliha ja paista rapeaksi.",
+   "Lisää riisi paakut rikkoen ja kaada kastikkeet wokin reunoille. Paista kovalla lämmöllä 2–3 minuuttia.",
+   "Nosta liedeltä ja kääntele basilika joukkoon.",
+   "Paista munat lopussa öljyssä rapeareunaisiksi ja asettele riisin päälle."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-basil-pork",
+  "skip": "lähes sama kuin thaibasilikakana (sianlihasta)"
+ },
+ {
+  "id": "forkrecipe-thai-fish-cakes",
+  "title": "Tod mun pla (thaimaalaiset kalakakut)",
+  "description": "Karkeaksi jauhettu vaalea kala maustetaan punaisella currytahnalla, kalakastikkeella ja kaffirlimetin lehdillä, sekaan papuja; muotoillaan kakuiksi ja friteerataan.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 30,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "thaimaalainen",
+   "rasvassa paistettu"
+  ],
+  "ingredients": [
+   "400 g vaaleaa kalafileetä (esim. tilapia tai kuha)",
+   "30 g punaista currytahnaa",
+   "2 rkl kalakastiketta",
+   "1 kananmuna",
+   "8 kaffirlimetin lehteä, hienoksi suikaloituna",
+   "60 g vihreitä papuja, ohuina renkaina",
+   "20 g maissitärkkelystä",
+   "5 dl rypsiöljyä friteeraukseen"
+  ],
+  "instructions": [
+   "Jauha kala monitoimikoneessa sykäyksin karkeaksi tahnaksi. Lisää currytahna, kalakastike, muna ja tärkkelys ja sekoita sitkeäksi.",
+   "Kääntele joukkoon limetinlehdet ja pavut voimakkaasti.",
+   "Kuumenna öljy 175 asteeseen. Muotoile märin käsin 7 cm litteitä kakkuja ja paista 2–3 minuuttia per puoli kullanruskeiksi.",
+   "Valuta minuutti ja tarjoa heti makean chilikastikkeen tai kurkku-salottiliemen kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-fish-curry",
+  "title": "Punainen thaikalacurry",
+  "description": "Punainen currytahna kuumennetaan kookoskerman kanssa, joukkoon kalakastike ja palmusokeri, ja kalanpalat haudutetaan kastikkeessa; lopuksi basilika ja limetti.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 25,
+  "totalTimeMin": 40,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "thaimaalainen",
+   "curry",
+   "kookos",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "600 g kiinteää vaaleaa kalaa, 5 cm paloina",
+   "90 g punaista currytahnaa",
+   "6 dl kookoskermaa",
+   "3 rkl kalakastiketta",
+   "2 rkl palmusokeria",
+   "200 g thaimunakoisoa tai bambunversoja",
+   "kourallinen thaibasilikaa",
+   "4 kaffirlimetin lehteä, revittyinä",
+   "3 rkl limettimehua"
+  ],
+  "instructions": [
+   "Kuumenna 4 rkl paksua kookoskermaa wokissa, kunnes rasva erottuu. Paista currytahnaa siinä 2–3 minuuttia.",
+   "Lisää loput kookoskermasta, kalakastike, sokeri, lehdet ja munakoiso. Hauduta 5 minuuttia ja maista.",
+   "Lisää kala, peitä ja hauduta miedolla lämmöllä 4–6 minuuttia.",
+   "Nosta liedeltä, revi basilika joukkoon ja purista limettimehu päälle. Tarjoa riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-green-curry-paste",
+  "title": "Vihreä currytahna",
+  "description": "Vihreät chilit, sitruunaruoho, galangal, salottisipuli, valkosipuli, korianterinjuuri, kaffirlimetin kuori, katkaraputahna ja paahdettu korianteri survotaan huhmareessa tahnaksi.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 45,
+  "totalTimeMin": 60,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "thaimaalainen",
+   "currytahna",
+   "tulinen"
+  ],
+  "ingredients": [
+   "40 g vihreitä thaichilejä",
+   "40 g sitruunaruohon pehmeää sisäosaa",
+   "20 g galangalia",
+   "60 g salottisipulia",
+   "40 g valkosipulia",
+   "10 g kaffirlimetin kuorta, raastettuna",
+   "20 g korianterinjuurta tai -vartta",
+   "10 g katkaraputahnaa",
+   "1 rkl korianterinsiemeniä"
+  ],
+  "instructions": [
+   "Paahda korianterinsiemenet kuivalla pannulla ja jauha.",
+   "Survo huhmareessa ensin chilit, sitruunaruoho ja galangal kuiduiksi.",
+   "Lisää salotti, valkosipuli ja korianterinjuuri ja survo, kunnes ne sulautuvat tahnaan.",
+   "Lisää limetinkuori, katkaraputahna ja korianteri ja survo, kunnes tahna irtoaa huhmareesta. Säilyy jääkaapissa viikon tai pakasteessa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-iced-tea",
+  "title": "Thaimaalainen jäätee (cha yen)",
+  "description": "Mausteinen thaitee haudutetaan vahvaksi, makeutetaan maitotiivisteellä ja kaadetaan jäille; pinnalle kerros kondensoitua maitoa.",
+  "servings": 1,
+  "prepTimeMin": 10,
+  "totalTimeMin": 30,
+  "category": "Juomat",
+  "tags": [
+   "juoma",
+   "thaimaalainen",
+   "tee",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "40 g thaiteeseosta (cha yen)",
+   "3,5 dl kiehuvaa vettä",
+   "½ dl makeutettua maitotiivistettä",
+   "3 rkl kondensoitua maitoa (makeuttamaton)",
+   "1 rkl sokeria (valinnainen)",
+   "200 g isoja jääpaloja",
+   "1 tähtianis (valinnainen)"
+  ],
+  "instructions": [
+   "Hauduta tee (ja tähtianis) kiehuvassa vedessä 5 minuuttia ja siivilöi. Sekoita sokeri ja anna jäähtyä.",
+   "Täytä lasi jäillä ja kaada maitotiiviste pohjalle. Kaada tee jäiden päälle.",
+   "Valuta kondensoitu maito lusikan selän kautta pinnalle kerrokseksi ja tarjoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-larb",
+  "title": "Larb gai (thaimaalainen kanasalaatti)",
+  "description": "Kuivalla pannulla paistettu kanan jauheliha maustetaan limetillä, kalakastikkeella ja chilillä ja sekoitetaan salottien, mintun, korianterin ja paahdetun riisijauheen kanssa.",
+  "servings": 4,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 25,
+  "category": "Salaatit",
+  "tags": [
+   "kana",
+   "thaimaalainen",
+   "lämmin salaatti",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "400 g kanan jauhelihaa",
+   "2 rkl tahmeaa riisiä raakana",
+   "3 rkl limettimehua",
+   "2 rkl kalakastiketta",
+   "1 tl kuivattuja chilihiutaleita",
+   "60 g salottisipulia, ohuina renkaina",
+   "20 g minttua",
+   "15 g korianteria",
+   "3 kevätsipulia, renkaina",
+   "1 rkl sitruunaruohoa, hienonnettuna",
+   "½ tl sokeria (valinnainen)"
+  ],
+  "instructions": [
+   "Paahda riisi kuivalla pannulla 5–8 minuuttia kullanruskeaksi ja jauha karkeaksi jauheeksi.",
+   "Paista kana kuumassa wokissa ilman öljyä, kunnes se on kypsää. Lisää tilkka vettä, jos se tarttuu.",
+   "Lisää kuumaan lihaan kalakastike, limettimehu, chili ja sokeri ja kääntele. Maista.",
+   "Kääntele joukkoon salotit, yrtit, kevätsipuli ja sitruunaruoho. Ripottele riisijauhe ja tarjoa salaatinlehtien ja tahmean riisin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-milk-tea",
+  "skip": "lähes sama kuin thaimaalainen jäätee"
+ },
+ {
+  "id": "forkrecipe-thai-nam-jim-jaew",
+  "title": "Nam jim jaew (paahdettu riisi-chilidippi)",
+  "description": "Kalakastike, limetti, tamarindi ja palmusokeri maustetaan chilillä, salotilla ja paahdetulla riisijauheella – dippi grillilihalle.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 15,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "thaimaalainen",
+   "tulinen",
+   "gluteeniton",
+   "nopea"
+  ],
+  "ingredients": [
+   "3 rkl kalakastiketta",
+   "3 rkl limettimehua",
+   "1 rkl tamarinditiivistettä",
+   "20 g palmusokeria",
+   "1 rkl kuivattuja chilihiutaleita",
+   "2 rkl raakaa valkoista riisiä",
+   "2 salottisipulia, ohuina viipaleina",
+   "10 g korianteria"
+  ],
+  "instructions": [
+   "Paahda riisi kuivalla pannulla 5–8 minuuttia kullanruskeaksi, jäähdytä ja jauha karkeaksi.",
+   "Liuota palmusokeri kalakastikkeeseen ja limettimehuun. Lisää tamarindi ja chili.",
+   "Sekoita joukkoon salotti, korianteri ja riisijauhe juuri ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-pad-thai",
+  "skip": "lähes sama kuin katkarapu-pad thai"
+ },
+ {
+  "id": "forkrecipe-thai-peanut-sauce",
+  "title": "Thaimaalainen maapähkinäkastike",
+  "description": "Punainen currytahna kuumennetaan kookosmaidossa, joukkoon maapähkinävoi, palmusokeri, kalakastike ja limetti – satay-kastike.",
+  "servings": 8,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 30,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "thaimaalainen",
+   "pähkinät",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "2,5 dl maapähkinävoita",
+   "2 dl kookosmaitoa",
+   "50 g palmusokeria",
+   "2 rkl kalakastiketta",
+   "2 rkl limettimehua",
+   "50 g punaista currytahnaa",
+   "2 valkosipulinkynttä, tahnaksi",
+   "2 rkl paahdettuja maapähkinöitä, rouhittuina",
+   "1 punainen chili, viipaleina"
+  ],
+  "instructions": [
+   "Kuumenna puolet kookosmaidosta ja paista currytahnaa ja valkosipulia siinä 2–3 minuuttia.",
+   "Vatkaa joukkoon maapähkinävoi ja loput kookosmaidosta ja hauduta miedolla lämmöllä, kunnes kastike sakenee.",
+   "Nosta liedeltä ja sekoita sokeri, kalakastike ja limettimehu. Ohenna tarvittaessa vedellä.",
+   "Tarjoa pähkinärouheen ja chilin kanssa."
+  ]
+ },
+ {
+  "id": "forkrecipe-thai-som-tum",
+  "skip": "lähes sama kuin som tam"
+ },
+ {
+  "id": "forkrecipe-thieboudienne",
+  "title": "Thiéboudienne (senegalilainen kala ja riisi)",
+  "description": "Persilja-valkosipulitahnalla täytetty kala paistetaan ja haudutetaan tomaattiliemessä juuresten kanssa; liemessä keitetään riisi punaiseksi.",
+  "servings": 6,
+  "servingsEstimated": true,
+  "prepTimeMin": 60,
+  "totalTimeMin": 120,
+  "category": "Pääruoat",
+  "tags": [
+   "kala",
+   "afrikkalainen",
+   "riisi",
+   "pata"
+  ],
+  "ingredients": [
+   "1 kg kokonaisia kiinteitä kaloja (esim. kuha tai ahven), viilleltyinä",
+   "5 dl pitkäjyväistä riisiä (parboiled), huuhdottuna",
+   "3 rkl tomaattipyreetä",
+   "2 sipulia",
+   "1 nippu lehtipersiljaa",
+   "4 valkosipulinkynttä",
+   "1 scotch bonnet -chili, puolitettuna",
+   "600 g juureksia: porkkanaa, naurista, kassavaa, munakoisoa",
+   "1 dl rypsiöljyä",
+   "2 tl suolaa",
+   "1 tl mustapippuria",
+   "1 kasvisliemikuutio",
+   "1 rkl kuivattuja katkarapuja"
+  ],
+  "instructions": [
+   "Soseuta persilja, valkosipuli, puolikas sipuli, puolikas chili, suola ja pippuri tahnaksi ja täytä kalan viillot.",
+   "Paista kala öljyssä 3 minuuttia per puoli ja nosta sivuun. Kuullota loput sipulista, lisää tomaattipyree ja paista 5 minuuttia. Lisää 1 l vettä, liemikuutio ja kuivatut katkaravut.",
+   "Lisää kala ja juurekset ja hauduta kannen alla 20–25 minuuttia. Nosta kala ja kasvikset lämpimään.",
+   "Mittaa liemi (1,5 osaa lientä 1 osaan riisiä), lisää riisi ja keitä kannen alla miedolla lämmöllä 20–25 minuuttia.",
+   "Kumoa riisi vadille, asettele kala ja kasvikset päälle ja tarjoa."
+  ]
+ },
+ {
+  "id": "forkrecipe-tiramisu",
+  "title": "Tiramisu",
+  "description": "Vesihauteessa vaahdotetut keltuaiset ja sokeri sekoitetaan mascarponeen ja kermavaahtoon, ja kahvissa ja marsalassa kastetut savoiardi-keksit kerrostetaan kreemin kanssa.",
+  "servings": 8,
+  "prepTimeMin": 35,
+  "totalTimeMin": 395,
+  "category": "Jälkiruoat",
+  "tags": [
+   "jälkiruoka",
+   "italialainen",
+   "kahvi"
+  ],
+  "ingredients": [
+   "5 munankeltuaista",
+   "100 g sokeria",
+   "500 g mascarponea, kylmänä",
+   "2 dl kuohukermaa",
+   "250 g savoiardi-keksejä",
+   "3 dl vahvaa espressoa, jäähdytettynä",
+   "3 rkl marsalaa tai tummaa rommia",
+   "2 rkl kaakaojauhetta",
+   "ripaus suolaa"
+  ],
+  "instructions": [
+   "Vatkaa keltuaiset, sokeri ja suola vesihauteessa 5–7 minuuttia vaaleaksi, paksuksi vaahdoksi (70 astetta). Jäähdytä.",
+   "Sekoita mascarpone notkeaksi ja kääntele vaahtoon. Vatkaa kerma pehmeäksi vaahdoksi ja kääntele joukkoon.",
+   "Sekoita marsala kahviin. Kasta keksit sekunti per puoli ja asettele kerrokseksi vuokaan.",
+   "Levitä puolet kreemistä, toinen kerros keksejä ja loput kreemistä.",
+   "Anna tekeytyä jääkaapissa vähintään 6 tuntia. Siivilöi kaakao pinnalle juuri ennen tarjoilua."
+  ]
+ },
+ {
+  "id": "forkrecipe-tkemali",
+  "title": "Tkemali (georgialainen luumukastike)",
+  "description": "Happamat luumut keitetään ja siivilöidään, ja sose maustetaan valkosipulilla, korianterilla, tillillä, mintulla ja chilillä – kastike grillilihalle ja perunalle.",
+  "servings": 10,
+  "servingsEstimated": true,
+  "prepTimeMin": 20,
+  "totalTimeMin": 45,
+  "category": "Kastikkeet ja dipit",
+  "tags": [
+   "kastike",
+   "luumu",
+   "georgialainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "1 kg happamia raakoja luumuja",
+   "2 dl vettä",
+   "3 valkosipulinkynttä",
+   "1 nippu korianteria",
+   "½ nippua tilliä",
+   "1 rkl tuoretta minttua tai 1 tl kuivattua",
+   "2 tl jauhettua korianteria",
+   "1 tl chilihiutaleita",
+   "2 tl suolaa"
+  ],
+  "instructions": [
+   "Keitä luumut ja vesi osittain kannen alla 20–25 minuuttia, kunnes luumut hajoavat.",
+   "Paina sose siivilän läpi ja hylkää kivet ja kuoret.",
+   "Lisää valkosipuli, jauhettu korianteri ja chili ja hauduta 10–12 minuuttia sekoitellen paksuksi.",
+   "Nosta liedeltä ja sekoita hienonnetut yrtit ja suola joukkoon. Säilyy jääkaapissa viikkoja."
+  ]
+ },
+ {
+  "id": "forkrecipe-toasted-farro-salad",
+  "title": "Paahdettu farrosalaatti uunikasviksilla",
+  "description": "Paahdettu ja keitetty farro kääntellään lämpimien uunikasvisten, sitruunan, oliiviöljyn, yrttien ja paahdettujen pähkinöiden kanssa.",
+  "servings": 4,
+  "prepTimeMin": 30,
+  "totalTimeMin": 60,
+  "category": "Salaatit",
+  "tags": [
+   "vilja",
+   "kasvis",
+   "välimeri",
+   "vegaaninen"
+  ],
+  "ingredients": [
+   "300 g farroa (täysjyvä, ei helmiä)",
+   "9 dl vettä tai kasvislientä",
+   "1 kesäkurpitsa, 2 cm paloina",
+   "200 g kirsikkatomaatteja, puolitettuina",
+   "1 punasipuli, lohkoina",
+   "1 munakoiso, 2 cm kuutioina",
+   "8 rkl oliiviöljyä, jaettuna",
+   "3 rkl sitruunamehua",
+   "1 sitruunan raastettu kuori",
+   "20 g lehtipersiljaa",
+   "10 g minttua",
+   "1½ tl suolaa",
+   "½ tl chilihiutaleita",
+   "40 g paahdettuja pinjansiemeniä tai saksanpähkinöitä"
+  ],
+  "instructions": [
+   "Paahda farroa kuivalla pannulla 4–6 minuuttia. Keitä suolatussa vedessä 30–40 minuuttia pehmeäksi mutta purutuntumaiseksi ja valuta.",
+   "Kääntele kasvikset öljyssä, suolassa ja chilissä ja paahda pellillä 220 asteessa 25–30 minuuttia.",
+   "Yhdistä lämpimät farro ja kasvikset, lisää loput öljystä, sitruunamehu ja -kuori, yrtit ja pähkinät. Tarkista suola."
+  ]
+ },
+ {
+  "id": "forkrecipe-togarashi",
+  "title": "Shichimi togarashi (japanilainen seitsemän mausteen sekoitus)",
+  "description": "Chili, mandariininkuori, valkoiset ja mustat seesaminsiemenet, sanshopippuri, nori, hampun- tai unikonsiemenet ja inkivääri sekoitetaan mausteeksi.",
+  "servings": 30,
+  "servingsEstimated": true,
+  "prepTimeMin": 10,
+  "totalTimeMin": 10,
+  "category": "Muut",
+  "tags": [
+   "mausteet",
+   "japanilainen",
+   "vegaaninen",
+   "gluteeniton"
+  ],
+  "ingredients": [
+   "20 g kuivattua chiliä, rouhittuna",
+   "15 g kuivattua mandariinin- tai appelsiininkuorta, jauhettuna",
+   "20 g paahdettuja valkoisia seesaminsiemeniä",
+   "10 g mustia seesaminsiemeniä",
+   "8 g sansho- tai sichuaninpippuria, jauhettuna",
+   "10 g paahdettua noria, murennettuna",
+   "10 g hampun- tai unikonsiemeniä",
+   "5 g jauhettua inkivääriä"
+  ],
+  "instructions": [
+   "Jos teet kuoren itse, kuori värillinen kuori ja kuivata 90 asteessa 25–30 minuuttia. Jauha.",
+   "Sekoita kaikki ainekset.",
+   "Säilytä tiiviissä purkissa valolta suojassa, enintään 3 kuukautta."
+  ]
+ }
+]
