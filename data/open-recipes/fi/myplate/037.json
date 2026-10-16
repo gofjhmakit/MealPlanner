@@ -49,7 +49,7 @@
       "Lisää öljy, makkarat, sipuli, paprika ja valkosipuli pannuun bataattien joukkoon.",
       "Kypsennä noin 20 minuuttia, sekoitellen välillä, kunnes sipuli on kevyesti ruskistunut ja bataatit ovat pehmeitä.",
       "Jaa seos neljälle lautaselle ja laita pannu takaisin liedelle.",
-      "Kuumenna pannu uudelleen keski-kovalla lämmöllä ja lisää jäljellä oleva 1 tl öljyä, kun se on kuuma.",
+      "Kuumenna pannu uudelleen keskikovalla lämmöllä ja lisää jäljellä oleva 1 tl öljyä, kun se on kuuma.",
       "Lisää munat yksitellen ja paista noin 3–5 minuuttia, kunnes valkuainen on kiinteä ja keltuainen alkaa sakeutua mutta ei ole kovaksi kypsynyt.",
       "Käännä muna ja paista vielä minuutin ajan.",
       "Lisää bataattisekoituksen päälle muna ja tarjoa heti."
@@ -314,7 +314,7 @@
   {
     "id": "myplate-taco-salad",
     "title": "Tacosalaatti",
-    "description": "Naudan jauheliha ja pavut maustetaan juustokuminalla ja chilijauheella ja tarjoillaan salaatin ja muiden vihannesten päällä nopeaksi arki-illan aterianaksi. Viimeistele juustolla ja kastikkeella.",
+    "description": "Naudan jauheliha ja pavut maustetaan juustokuminalla ja chilijauheella ja tarjoillaan salaatin ja muiden vihannesten päällä nopeaksi arki-illan ateriaksi. Viimeistele juustolla ja kastikkeella.",
     "servings": 4,
     "category": "Salaatit",
     "tags": ["liha", "meksikolainen", "salaatti"],

@@ -64,7 +64,7 @@
       "Kerää talteen kaikki hedelmäliha ja neste.",
       "Raasta cheddarjuusto.",
       "Huuhtele ja valuta pavut siivilässä.",
-      "Kypsennä iso pannu keski-kovalla lämmöllä: ruskista liha, paprika ja valkosipuli, kunnes liha on kevyesti ruskistunut.",
+      "Kypsennä iso pannu keskikovalla lämmöllä: ruskista liha, paprika ja valkosipuli, kunnes liha on kevyesti ruskistunut.",
       "Valuta ylimääräinen rasva pois.",
       "Lisää pakastemaissi, pavut, vesi ja mausteet.",
       "Kuumenna kiehuvaksi.",
@@ -255,7 +255,7 @@
       "¼ tl suolaa"
     ],
     "instructions": [
-      "Ruskista jauheliha ja sipuli pienessä pannussa keski-kovalla lämmöllä 8–10 minuuttia.",
+      "Ruskista jauheliha ja sipuli pienessä pannussa keskikovalla lämmöllä 8–10 minuuttia.",
       "Valuta rasva pois.",
       "Yhdistä kypsennetty jauheliha, vesi ja punaiset perunat isossa kattilassa.",
       "Kiehauta ja keitä 15 minuuttia.",
@@ -324,7 +324,7 @@
   {
     "id": "myplate-tofu-salad",
     "title": "Tofusalaatti",
-    "description": "Etsitkö hyvää kasvisruokavaihtoehtoa lounaaksi? Nauti tätä tofu-vihannessalaattia täysjyväleivällä ja hedelmän kanssa täyttävänä ja maukkaana aterianaksi.",
+    "description": "Etsitkö hyvää kasvisruokavaihtoehtoa lounaaksi? Nauti tätä tofu-vihannessalaattia täysjyväleivällä ja hedelmän kanssa täyttävänä ja maukkaana ateriaksi.",
     "servings": 4,
     "category": "Salaatit",
     "tags": ["kasvis", "vegaaninen", "salaatti"],
@@ -438,7 +438,7 @@
       "Kuumenna uuni 150 asteeseen. Leikkaa leipä kuutioiksi; sekoita öljyn ja valkosipulin kanssa pienessä kulhossa.",
       "Levitä kuutiot uunipellille yhteen kerrokseen ja paahda uunissa 15–25 minuuttia, kunnes kullanruskeita, käännellen kerran tai kahdesti.",
       "Siirrä lautaselle jäähtymään.",
-      "Suihkuta keskikokoinen pannu paistosprayllä ja kuumenna keski-kovalla lämmöllä.",
+      "Suihkuta keskikokoinen pannu paistosprayllä ja kuumenna keskikovalla lämmöllä.",
       "Kaada kananmunavalmiste pannuun.",
       "Kun muna alkaa hyytyä, levitä se tasaisesti pannun pohjalle ja laske lämpö miedoksi.",
       "Kun munan pintakerros on lähes kypsä, ripottele juusto ja basilika päälle ja levitä tomaatit ja leipäkuutiot omeletin toiselle puoliskolle; taita toinen puolisko täytteen päälle.",
@@ -448,7 +448,7 @@
   {
     "id": "myplate-tomato-basil-and-bean-pasta-salad",
     "title": "Tomaatti-basilika-papupastasalaatti",
-    "description": "Pavut, tomaatit ja basilika sekoitetaan pastan ja maukkaan vinaigretten kanssa helpoksi ja maukkaaksi aterianaksi. Tuo tämä pastasalaatti seuraaviin grilli- tai juhlakutsuihin. Lisää mitä tahansa vihanneksia, joita sinulla on.",
+    "description": "Pavut, tomaatit ja basilika sekoitetaan pastan ja maukkaan vinaigretten kanssa helpoksi ja maukkaaksi ateriaksi. Tuo tämä pastasalaatti seuraaviin grilli- tai juhlakutsuihin. Lisää mitä tahansa vihanneksia, joita sinulla on.",
     "servings": 12,
     "category": "Salaatit",
     "tags": ["kasvis", "vegaaninen", "pasta", "salaatti"],

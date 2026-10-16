@@ -29,7 +29,7 @@
   "instructions": [
    "Laske munat kiehuvaan veteen ja keitä tasan 6½ minuuttia. Jäähdytä jäävedessä 10 minuuttia ja kuori varovasti.",
    "Mausta makkaramassa suolalla ja mausteilla. Paista pieni koepala ja maista. Jaa massa neljään osaan ja litistä kukin ohueksi kiekoksi kelmun päälle.",
-   "Jauhota munat kevyesti. Kääri makkaramassa kelmun avulla munan ympärille ja sulje saumat kostein käsin. Kierätä jauhoissa, vatkatussa munassa ja pankossa.",
+   "Jauhota munat kevyesti. Kääri makkaramassa kelmun avulla munan ympärille ja sulje saumat kostein käsin. Pyörittele jauhoissa, vatkatussa munassa ja pankossa.",
    "Kuumenna öljy 170 asteeseen. Friteeraa munia 7–8 minuuttia käännellen, kunnes kuori on tummanruskea ja makkaran sisälämpö 70 astetta. Valuta talouspaperilla."
   ]
  },
@@ -176,7 +176,7 @@
  {
   "id": "forkrecipe-shakshuka-green",
   "title": "Vihreä shakshuka",
-  "description": "Pannulla mustaksi paahdetut tomatillot, mangoldi ja pinaatti muodostavat vihreän kastikkeen, johon munat hauduttuvat; päälle fetaa ja korianteria.",
+  "description": "Pannulla mustaksi paahdetut tomatillot, mangoldi ja pinaatti muodostavat vihreän kastikkeen, johon munat hautuvat; päälle fetaa ja korianteria.",
   "servings": 4,
   "prepTimeMin": 35,
   "totalTimeMin": 45,
@@ -512,7 +512,7 @@
   ],
   "ingredients": [
    "80 g kuivattuja katkarapuja",
-   "60 g savumakrillia, ruodottuna",
+   "60 g savumakrillia, ruodittuna",
    "40 g kuivattuja chilejä",
    "1 punasipuli, karkeasti pilkottuna",
    "6 valkosipulinkynttä",
@@ -629,7 +629,7 @@
  {
   "id": "forkrecipe-shrimp-moqueca",
   "title": "Moqueca de camarão (brasilialainen katkarapupata)",
-  "description": "Sipuli, tomaatti ja paprika kerrostetaan pataan, hauduttuvat kookosmaidossa ja palmuöljyssä, ja lopuksi limetissä marinoidut katkaravut kypsyvät pinnalla.",
+  "description": "Sipuli, tomaatti ja paprika kerrostetaan pataan, hautuvat kookosmaidossa ja palmuöljyssä, ja lopuksi limetissä marinoidut katkaravut kypsyvät pinnalla.",
   "servings": 4,
   "servingsEstimated": true,
   "prepTimeMin": 25,

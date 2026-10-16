@@ -480,7 +480,7 @@
  {
   "id": "forkrecipe-spanish-churros",
   "title": "Churrot ja suklaakastike",
-  "description": "Keitetystä taikinasta pursotetut churrot friteerataan rapeiksi ja kierätetään kanelisokerissa; kastettavaksi paksu tumma suklaakastike.",
+  "description": "Keitetystä taikinasta pursotetut churrot friteerataan rapeiksi ja pyöritellään kanelisokerissa; kastettavaksi paksu tumma suklaakastike.",
   "servings": 4,
   "servingsEstimated": true,
   "prepTimeMin": 30,
@@ -511,7 +511,7 @@
   "instructions": [
    "Kiehauta vesi, voi, suola ja sokeri. Lisää jauhot kerralla ja sekoita voimakkaasti palloksi. Kuivata taikinaa liedellä minuutti ja anna jäähtyä 5 minuuttia.",
    "Kuumenna öljy 180 asteeseen. Pursota tähtipursottimella 15–20 cm pätkiä öljyyn ja paista 4–5 kerrallaan 2–3 minuuttia kullanruskeiksi.",
-   "Kierätä kuumat churrot kanelisokerissa.",
+   "Pyörittele kuumat churrot kanelisokerissa.",
    "Sekoita tärkkelys kolmeen ruokalusikalliseen kylmää maitoa. Kuumenna loppu maito ja sokeri, sulata suklaa joukkoon ja sakeuta tärkkelyksellä. Tarjoa churrojen kanssa."
   ]
  },
@@ -549,7 +549,7 @@
  {
   "id": "forkrecipe-spanish-lentil-stew",
   "title": "Lentejas estofadas (espanjalainen linssipata)",
-  "description": "Vihreät linssit hauduttuvat chorizon, sipulin, porkkanan, perunan, savupaprikan ja kuminan kanssa paksuksi padaksi; lopuksi tilkka sherryetikkaa.",
+  "description": "Vihreät linssit hautuvat chorizon, sipulin, porkkanan, perunan, savupaprikan ja kuminan kanssa paksuksi padaksi; lopuksi tilkka sherryetikkaa.",
   "servings": 4,
   "servingsEstimated": true,
   "prepTimeMin": 20,

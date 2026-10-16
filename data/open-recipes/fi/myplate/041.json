@@ -26,7 +26,7 @@
       "Sekoita hyvin.",
       "Muotoile seoksesta 6 yhtä suurta n. 1¼ cm paksuista pihviä ja jäähdytä tunti.",
       "Kuumenna uuni 175 asteeseen. Suihkuta pihvien molemmat puolet paistosprayllä.",
-      "Ruskista pihvien molemmat puolet isossa pannussa keski-kovalla lämmöllä 5–8 minuuttia.",
+      "Ruskista pihvien molemmat puolet isossa pannussa keskikovalla lämmöllä 5–8 minuuttia.",
       "Paista pihvejä uunissa 10 minuuttia.",
       "Paahda vehnätortillat uunissa 8 minuuttia.",
       "Aseta pihvi tortillan puolikkaan päälle ja taita tortilla pihvin päälle niin, että syntyy tacon kaltainen annos."
@@ -56,7 +56,7 @@
       "Pese kädet saippualla ja vedellä.",
       "Valmista nuudelit pakkauksen ohjeen mukaan.",
       "Valuta ja jätä odottamaan.",
-      "Kypsennä sipuli ja valkosipuli öljyssä isossa paistinpannussa minuutin ajan keski-kovalla lämmöllä.",
+      "Kypsennä sipuli ja valkosipuli öljyssä isossa paistinpannussa minuutin ajan keskikovalla lämmöllä.",
       "Lisää porkkana, kanaliemijauhe ja tulinen kastike.",
       "Sekoita.",
       "Lisää parsakaali, selleri ja paprika ja jatka sekoittamista.",
@@ -154,10 +154,10 @@
       "Pese kädet saippualla ja vedellä.",
       "Kiehauta vesi kattilassa.",
       "Lisää pasta.",
-      "Laske lämpö keski-miedoksi; kypsennä pakkauksen ohjeen mukaan.",
+      "Laske lämpö keskimiedoksi; kypsennä pakkauksen ohjeen mukaan.",
       "Kaada pasta ja vesi siivilään valumaan.",
       "Lisää vihannekset ja spagettikastike kattilaan.",
-      "Kypsennä keski-miedolla lämmöllä, kunnes vihannekset ovat kuumia.",
+      "Kypsennä keskimiedolla lämmöllä, kunnes vihannekset ovat kuumia.",
       "Palauta kypsennetty, valutettu pasta kattilaan ja sekoita yhteen.",
       "Ripottele juustoa päälle juuri ennen tarjoilua."
     ]
@@ -462,7 +462,7 @@
     ],
     "instructions": [
       "Pese kädet saippualla ja vedellä.",
-      "Kuumenna voi isossa kattilassa keski-kovalla lämmöllä.",
+      "Kuumenna voi isossa kattilassa keskikovalla lämmöllä.",
       "Lisää selleri ja sipuli ja kuullota pehmeiksi.",
       "Sekoita joukkoon jauhot ja tee jauho-rasvaseos, jota käytetään kastikkeiden tai keittojen paksuntamiseen.",
       "Vatkaa maito hitaasti joukkoon.",
@@ -549,7 +549,7 @@
     "instructions": [
       "Leikkaa patonki vinosti ohuiksi viipaleiksi (noin 12 viipaletta patongista).",
       "Kuumenna isossa paistinpannussa 2 rkl oliiviöljyä keskilämmöllä.",
-      "Laita leipäviipaleet pannuun ja paista keski-kovalla lämmöllä, kunnes ne sihisevät ja kullanruskeita.",
+      "Laita leipäviipaleet pannuun ja paista keskikovalla lämmöllä, kunnes ne sihisevät ja kullanruskeita.",
       "Ennen leivän kääntämistä lisää pannuun vielä rkl oliiviöljyä ja paista toinenkin puoli kullanruskeaksi.",
       "Täytettä varten kuullota sipulia lopussa olevassa rkl:ssa oliiviöljyä keskilämmöllä, kunnes sipuli on pehmeää, noin 7 minuuttia.",
       "Lisää valkosipuli, basilika ja oregano ja kypsennä vielä minuutti tai kaksi, kunnes tuoksuu hyvältä.",
@@ -681,7 +681,7 @@
   {
     "id": "myplate-whole-wheat-garlic-bread-sticks",
     "title": "Täysjyvä-valkosipulileipätikut",
-    "description": "Nämä helpot ja herkulliset valkosipulileipätikut ovat loistava lisuke kana-spagettiimme tai välipalaksi.",
+    "description": "Nämä helpot ja herkulliset valkosipulileipätikut ovat loistava lisuke kanaspagetille tai välipalaksi.",
     "servings": 6,
     "category": "Lisukkeet",
     "tags": ["kasvis", "vegaaninen", "täysjyvä"],

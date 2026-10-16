@@ -12,7 +12,7 @@
       "1,2 dl tummaa fariinisokeria, jaettuna",
       "1,2 dl kuohukermaa",
       "3 rkl tummaa rommia",
-      "1 vaniljatanko, halkaistuna ja siemenet kaapittuna"
+      "1 vaniljatanko, halkaistuna ja siemenet kaavittuna"
     ],
     "instructions": [
       "Laita kattilaan vaniljatanko ja siemenet, kerma ja ½ dl fariinisokeria.",
@@ -386,14 +386,14 @@
   {
     "id": "wikibooks-carrot-salad",
     "title": "Porkkanasalaatti pinjansiemenillä",
-    "description": "Nopea porkkanasalaatti mantelioljyllä ja valkoisella balsamietikalla.",
+    "description": "Nopea porkkanasalaatti manteliöljyllä ja valkoisella balsamietikalla.",
     "servings": 2,
     "totalTimeMin": 5,
     "category": "Salaatit",
     "tags": ["vegaaninen", "salaatti", "porkkana", "nopea"],
     "ingredients": [
       "4 keskikokoista porkkanaa",
-      "1–2 rkl mantelioljyä",
+      "1–2 rkl manteliöljyä",
       "1 rkl valkoista balsamietikkaa (tai 2 osaa punaviinietikkaa ja 1 osa balsamietikkaa)",
       "karkeaa suolaa",
       "vastajauhettua mustapippuria",
@@ -403,7 +403,7 @@
     ],
     "instructions": [
       "Leikkaa porkkanat ohuiksi tikuiksi (tai raasta).",
-      "Kääntele mantelioljyssä.",
+      "Kääntele manteliöljyssä.",
       "Ripottele reilusti etikkaa, suolaa ja pippuria.",
       "Lisää reilusti pinjansiemeniä."
     ],
@@ -470,7 +470,7 @@
   {
     "id": "wikibooks-cauliflower-cheese",
     "title": "Kukkakaali-juustovuoka",
-    "description": "Perinteinen brittiläinen uuniruoka: kukkakaalta valkokastikkeessa ja parmesaanin kuorruttamana.",
+    "description": "Perinteinen brittiläinen uuniruoka: kukkakaalia valkokastikkeessa ja parmesaanin kuorruttamana.",
     "servings": 4,
     "servingsEstimated": true,
     "totalTimeMin": 20,
@@ -486,7 +486,7 @@
       "mustapippuria"
     ],
     "instructions": [
-      "Leikkaa kukkakaali pieniksi nuppuiksi ja laita ne kukinnot alaspäin suolaveteen tunniksi.",
+      "Leikkaa kukkakaali pieniksi nupuiksi ja laita ne kukinnot alaspäin suolaveteen tunniksi.",
       "Valuta nuput ja lisää ne kiehuvaan suolattuun veteen. Keitä kannettomana ja tarkista veitsellä, milloin ovat valmiita. Veitsen tulee mennä kevyesti läpi, mutta kaalin tulee olla vielä hieman napakkaa.",
       "Kuumenna uuni 200 asteeseen.",
       "Valuta kypsät nuput ja laita ne vuokaan. Sekoita valkokastike ja ⅔ parmesaanista ja kaada kukkakaalin päälle. Ripottele päälle korppujauhot ja loppu juusto. Lisää voinokareita.",

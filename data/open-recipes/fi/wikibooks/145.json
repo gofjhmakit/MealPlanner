@@ -390,7 +390,7 @@
    "Lisää suolaa ja vaniljaa.",
    "Lisää munat yksi kerrallaan seokseen.",
    "Sekoita jauhot seokseen taikinan valmistamiseksi.",
-   "Muodosta taikinasta pieniä palloja ja paina ne pyöreiksi muotoiksi rasvattomalle leivontapellille.",
+   "Muodosta taikinasta pieniä palloja ja paina ne pyöreiksi muodoiksi rasvattomalle leivontapellille.",
    "Paista 8–10 minuuttia.",
    "Ota heti pannulta ja anna jäähtyä."
   ],
@@ -537,7 +537,7 @@
    "Sekoita voi ja sokeri vaahdoksi suuressa sekoituskulhossa. Lisää munankeltuaiset ja vanilja ja sekoita. Lisää jauhot vähitellen ja sekoita taikina tasaiseksi.",
    "Muodosta palloksi, peitä ja anna seistä huoneenlämmössä 2 tuntia.",
    "Esilämmitä uuni 190 asteeseen.",
-   "Muodosta puolikuut rullamalla noin 1 rkl taikinaa kämmenilläsi. Jatka sitten rullaamista, kunnes muodostuu noin 8 cm pitkä ja 1 cm paksu nauha. Taivuta nauha puolikuun muotoon. Toista sama lopun taikinan kanssa ja aseta puolikuut voitelemattomille leivontapellille noin 3 cm välein.",
+   "Muodosta puolikuut pyörittämällä noin 1 rkl taikinaa kämmenilläsi. Jatka sitten rullaamista, kunnes muodostuu noin 8 cm pitkä ja 1 cm paksu nauha. Taivuta nauha puolikuun muotoon. Toista sama lopun taikinan kanssa ja aseta puolikuut voitelemattomille leivontapellille noin 3 cm välein.",
    "Paista noin 10–12 minuuttia. Keksien tulee olla väriltään valkoisia. Anna jäähtyä leivontapellillä 5 minuuttia, jotta ne eivät hajoa. Pyöritä sitten keksit varovasti vaniljasokerissa, kun ne ovat vielä lämpimiä. Toista sama lopuille kekseille. Anna keksien jäähtyä kokonaan.",
    "Sulata suklaa vesihauteessa miedolla lämmöllä. Kun keksit ovat jäähtyneet, kasta kunkin keksin kärki sulatettuun suklaaseen ja aseta ne sitten vahapaperille jähmettymään."
   ]
@@ -545,7 +545,7 @@
  {
   "id": "wikibooks-vanillekipferl-almond-crescent-cookies",
   "title": "Vanillekipferl (itävaltalaiset mantelisarvet)",
-  "description": "Vanillekipferl ovat pieniä, puolikuun muotoisia mantelikeksejä. Ne ovat erityisen suosittuja Itävallassa ja Saksassa, missä ne kuuluvat joululeivonnaisten herkkuihin. Useimmissa itävaltalaisissa kodeissa keksien leipominen on olennainen osa jouluvalmisteluja, perheen yhteinen harrastus, josta nautitaan talvisina päivinä, kun ulkona sataa lunta. Lapset rakastavat taikinan vaivaamista ja keksien leikkaamista. He nauttivat Vanillekipferlin tunnusomaisen muodon luomisesta, joka syntyy rullamalla taikinaa kämmenten välissä. Lisäksi kahta täysin samanlaista Vanillekipferliä ei ole olemassa, sillä kämmenten koko ja painalluksen voimakkuus vaihtelevat. Vaikka Vanillekipferl vaikuttaa aluksi vaatimattomalta, pieneltä keksiltä kaikkien värikkäiden ja toisinaan taidokkaasti koristeltujen joululeivonnaisten joukossa, se on selvä suosikki.",
+  "description": "Vanillekipferl ovat pieniä, puolikuun muotoisia mantelikeksejä. Ne ovat erityisen suosittuja Itävallassa ja Saksassa, missä ne kuuluvat joululeivonnaisten herkkuihin. Useimmissa itävaltalaisissa kodeissa keksien leipominen on olennainen osa jouluvalmisteluja, perheen yhteinen harrastus, josta nautitaan talvisina päivinä, kun ulkona sataa lunta. Lapset rakastavat taikinan vaivaamista ja keksien leikkaamista. He nauttivat Vanillekipferlin tunnusomaisen muodon luomisesta, joka syntyy pyörittämällä taikinaa kämmenten välissä. Lisäksi kahta täysin samanlaista Vanillekipferliä ei ole olemassa, sillä kämmenten koko ja painalluksen voimakkuus vaihtelevat. Vaikka Vanillekipferl vaikuttaa aluksi vaatimattomalta, pieneltä keksiltä kaikkien värikkäiden ja toisinaan taidokkaasti koristeltujen joululeivonnaisten joukossa, se on selvä suosikki.",
   "servings": 50,
   "servingsEstimated": true,
   "totalTimeMin": 10,

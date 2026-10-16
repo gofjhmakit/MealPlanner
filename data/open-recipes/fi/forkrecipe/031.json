@@ -250,7 +250,7 @@
    "gluteeniton"
   ],
   "ingredients": [
-   "1,1 kg lohifileetä nahkoineen, ruodottuna",
+   "1,1 kg lohifileetä nahkoineen, ruodittuna",
    "2 tl suolaa",
    "1,4 dl oliiviöljyä, jaettuna",
    "30 g lehtipersiljaa, hienonnettuna",
@@ -439,7 +439,7 @@
  {
   "id": "forkrecipe-soba-noodle-salad",
   "title": "Kylmä sobanuudelisalaatti",
-  "description": "Tattarinuudelit huuhdellaan jääkylmiksi ja kääntellään soija-seesami-riisiviinietikkakastikkeessa inkiväärin kanssa; päälle seesaminsiemeniä ja kevätsipulia.",
+  "description": "Tattarinuudelit huuhdellaan jääkylmiksi ja käännellään soija-seesami-riisiviinietikkakastikkeessa inkiväärin kanssa; päälle seesaminsiemeniä ja kevätsipulia.",
   "servings": 4,
   "servingsEstimated": true,
   "prepTimeMin": 20,
@@ -530,7 +530,7 @@
  {
   "id": "forkrecipe-soffritto",
   "title": "Italialainen soffritto",
-  "description": "Sipuli, selleri ja porkkana hienoksi kuutioituina hauduttuvat hitaasti oliiviöljyssä makeaksi pohjaksi kastikkeille ja keitoille.",
+  "description": "Sipuli, selleri ja porkkana hienoksi kuutioituina hautuvat hitaasti oliiviöljyssä makeaksi pohjaksi kastikkeille ja keitoille.",
   "servings": 8,
   "servingsEstimated": true,
   "prepTimeMin": 35,
@@ -589,7 +589,7 @@
  {
   "id": "forkrecipe-sofrito",
   "title": "Sofrito (paprika-tomaattipohja)",
-  "description": "Sipuli ja punainen paprika hauduttuvat oliiviöljyssä pehmeiksi, joukkoon valkosipuli, savupaprika ja raastettu tomaatti; keitetään makeaksi pohjaksi.",
+  "description": "Sipuli ja punainen paprika hautuvat oliiviöljyssä pehmeiksi, joukkoon valkosipuli, savupaprika ja raastettu tomaatti; keitetään makeaksi pohjaksi.",
   "servings": 8,
   "prepTimeMin": 15,
   "totalTimeMin": 75,
@@ -718,7 +718,7 @@
  {
   "id": "forkrecipe-som-tam",
   "title": "Som tam (vihreä papaijasalaatti)",
-  "description": "Huhmareessa survottu chili, valkosipuli, palmusokeri, kuivatut katkaravut, tomaatti ja parsapapu, johon kääntellään suikaloitu raaka papaija limetin ja kalakastikkeen kanssa.",
+  "description": "Huhmareessa survottu chili, valkosipuli, palmusokeri, kuivatut katkaravut, tomaatti ja parsapapu, johon käännellään suikaloitu raaka papaija limetin ja kalakastikkeen kanssa.",
   "servings": 4,
   "servingsEstimated": true,
   "prepTimeMin": 15,
@@ -746,7 +746,7 @@
   "instructions": [
    "Survo chilit ja valkosipuli huhmareessa karkeiksi.",
    "Lisää palmusokeri ja kuivatut katkaravut ja survo kevyesti, kunnes sokeri liukenee.",
-   "Lisää tomaatit ja pavut ja mustele kevyesti. Lisää kalakastike ja limettimehu.",
+   "Lisää tomaatit ja pavut ja murskaa kevyesti. Lisää kalakastike ja limettimehu.",
    "Lisää papaija erissä ja survo ja kääntele kevyesti, kunnes se on kastikkeen peitossa. Tarjoa heti maapähkinöiden kanssa."
   ]
  },
