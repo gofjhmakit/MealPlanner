@@ -70,6 +70,17 @@ export const sharePayloadSchema = z.object({
 })
 export type SharePayload = z.infer<typeof sharePayloadSchema>
 
+/**
+ * A bundle carries several recipes in one transfer. It rides the exact same
+ * frame transport as a single recipe – the importer never has to know in
+ * advance whether a code holds one recipe or many.
+ */
+export const shareBundleSchema = z.object({
+  v: z.literal(SHARE_VERSION),
+  b: z.array(sharePayloadSchema).min(1), // the recipes in this bundle
+})
+export type ShareBundle = z.infer<typeof shareBundleSchema>
+
 /** Drop keys whose value is undefined so they never reach the JSON. */
 function clean<T extends Record<string, unknown>>(o: T): T {
   for (const k of Object.keys(o)) if (o[k] === undefined) delete o[k]
@@ -159,8 +170,9 @@ export interface EncodedShare {
   frames: string[]
 }
 
-export function encodePayload(payload: SharePayload): EncodedShare {
-  const json = JSON.stringify(payload)
+/** JSON → DEFLATE → base64url → self-describing frames. The heart of both paths. */
+function encodeJson(obj: unknown): EncodedShare {
+  const json = JSON.stringify(obj)
   const compressed = deflateSync(strToU8(json), { level: 9 })
   const text = bytesToBase64url(compressed)
   const parts = text.length <= SINGLE_MAX_CHARS ? [text] : sliceChunks(text, CHUNK_CHARS)
@@ -170,8 +182,24 @@ export function encodePayload(payload: SharePayload): EncodedShare {
   return { id, total, frames }
 }
 
+export function encodePayload(payload: SharePayload): EncodedShare {
+  return encodeJson(payload)
+}
+
 export function encodeRecipe(recipe: Recipe): EncodedShare {
-  return encodePayload(recipeToSharePayload(recipe))
+  return encodeJson(recipeToSharePayload(recipe))
+}
+
+/**
+ * Encode one *or many* recipes into a single transfer. One recipe is sent as a
+ * plain payload (smallest code); several travel as a bundle. Either way the
+ * result is the same stream of frames, so the importer handles both the same.
+ */
+export function encodeRecipes(recipes: Recipe[]): EncodedShare {
+  const payloads = recipes.map(recipeToSharePayload)
+  if (payloads.length === 1) return encodeJson(payloads[0])
+  const bundle: ShareBundle = { v: SHARE_VERSION, b: payloads }
+  return encodeJson(bundle)
 }
 
 // ---- decoding -------------------------------------------------------------
@@ -209,8 +237,11 @@ export function parseFrame(text: string): ParsedFrame | null {
   return { id, seq, total, chunk }
 }
 
-/** Reassemble a complete set of frames (same id) into a validated payload. */
-export function decodeFrames(frames: ParsedFrame[]): SharePayload {
+/**
+ * Reassemble a complete set of frames (same id) into one or more validated
+ * recipe payloads – a single recipe yields one, a bundle yields several.
+ */
+export function decodeFrames(frames: ParsedFrame[]): SharePayload[] {
   if (frames.length === 0) throw new ShareDecodeError('empty', 'Ei luettavia QR-kuvia.')
   const { id, total } = frames[0]
   const bySeq = new Map<number, string>()
@@ -239,17 +270,19 @@ export function decodeFrames(frames: ParsedFrame[]): SharePayload {
   } catch {
     throw new ShareDecodeError('corrupt', 'QR-koodin tiedot ovat vioittuneet. Yritä skannata uudelleen.')
   }
-  const parsed = sharePayloadSchema.safeParse(obj)
-  if (!parsed.success) {
-    throw new ShareDecodeError('invalid', 'QR-koodi ei sisältänyt kelvollista reseptiä (väärä tai liian uusi muoto).')
-  }
-  return parsed.data
+  // A bundle (many recipes) and a single recipe are unambiguous: a bundle has
+  // the required `b` array and no title; a single recipe has the required title.
+  const bundle = shareBundleSchema.safeParse(obj)
+  if (bundle.success) return bundle.data.b
+  const single = sharePayloadSchema.safeParse(obj)
+  if (single.success) return [single.data]
+  throw new ShareDecodeError('invalid', 'QR-koodi ei sisältänyt kelvollista reseptiä (väärä tai liian uusi muoto).')
 }
 
 export type CollectorResult =
   | { status: 'ignored' }
   | { status: 'progress'; have: number; total: number }
-  | { status: 'complete'; payload: SharePayload }
+  | { status: 'complete'; payloads: SharePayload[] }
   | { status: 'error'; code: ShareErrorCode; message: string }
 
 /**
@@ -281,9 +314,9 @@ export function createFrameCollector() {
     if (chunks.size < total) return { status: 'progress', have: chunks.size, total }
     const collected: ParsedFrame[] = [...chunks.entries()].map(([seq, chunk]) => ({ id: activeId!, seq, total, chunk }))
     try {
-      const payload = decodeFrames(collected)
+      const payloads = decodeFrames(collected)
       reset()
-      return { status: 'complete', payload }
+      return { status: 'complete', payloads }
     } catch (e) {
       const err = e as ShareDecodeError
       reset()

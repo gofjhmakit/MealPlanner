@@ -136,6 +136,13 @@ export async function findRecipeBySourceUrl(urls: (string | null | undefined)[],
   return database.recipes.filter((r) => r.origin !== 'catalogue' && !!r.sourceUrl && keys.has(sourceUrlKey(r.sourceUrl) ?? '')).first()
 }
 
+/** Finds an already saved own/imported recipe with the same title – for de-duping QR-shared recipes that carry no source URL. */
+export async function findRecipeByTitle(title: string, database: MealPlannerDB = defaultDb): Promise<Recipe | undefined> {
+  const key = title.trim().toLowerCase()
+  if (!key) return undefined
+  return database.recipes.filter((r) => r.origin !== 'catalogue' && r.title.trim().toLowerCase() === key).first()
+}
+
 /** Rating 1–5, or null to clear. */
 export async function setRecipeRating(recipeId: string, rating: number | null, database: MealPlannerDB = defaultDb) {
   const value = rating === null ? null : Math.min(5, Math.max(1, Math.round(rating)))

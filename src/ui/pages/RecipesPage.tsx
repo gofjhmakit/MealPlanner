@@ -3,7 +3,7 @@
  * and favourites are tabs. Quick chips for the common needs, everything else in "Suodata".
  * Fineli dishes (ingredients only, no instructions) appear in searches but not in browsing.
  */
-import { BookOpen, Download, Plus, Search, SlidersHorizontal } from 'lucide-react'
+import { BookOpen, CheckSquare, Download, Plus, Search, Share2, SlidersHorizontal, X } from 'lucide-react'
 import { useMemo, useState, type ReactNode } from 'react'
 import { Link, useSearchParams } from 'react-router'
 import { EMPTY_FILTERS, filterRecipes, queryRelevance, LOW_CALORIE_MAX_KCAL, QUICK_MAX_MIN, recipeNutritionCached, type RecipeFilters } from '../../domain/recipeInfo'
@@ -12,6 +12,7 @@ import type { Recipe } from '../../domain/types'
 import { useApp } from '../AppContext'
 import { PageHeader } from '../components/Layout'
 import { RecipeCard } from '../components/recipe'
+import { ShareRecipesSheet } from '../components/ShareRecipesSheet'
 import { allergensIn, householdAllergies } from '../../domain/allergies'
 import { Button, Chip, cx, EmptyState, Select, Spinner } from '../components/ui'
 import { Segmented, Sheet } from '../components/v2'
@@ -51,6 +52,22 @@ export function RecipesPage() {
   const [sort, setSort] = useEntryState<Sort>('sort', 'recommended')
   const [limit, setLimit] = useEntryState('limit', PAGE)
   const [sheet, setSheet] = useState(false)
+  const [selecting, setSelecting] = useState(false)
+  const [selected, setSelected] = useState<Set<string>>(new Set())
+  const [shareOpen, setShareOpen] = useState(false)
+
+  const toggleSelect = (id: string) =>
+    setSelected((prev) => {
+      const next = new Set(prev)
+      if (next.has(id)) next.delete(id)
+      else next.add(id)
+      return next
+    })
+  const exitSelect = () => {
+    setSelecting(false)
+    setSelected(new Set())
+  }
+  const selectedRecipes = useMemo(() => (recipes ?? []).filter((r) => selected.has(r.id)), [recipes, selected])
 
   const setParam = (key: string, value: string | null) => {
     const next = new URLSearchParams(params)
@@ -149,6 +166,9 @@ export function RecipesPage() {
         title="Reseptit"
         actions={
           <>
+            <Button variant={selecting ? 'primary' : 'secondary'} icon={selecting ? <X size={16} /> : <CheckSquare size={16} />} onClick={() => (selecting ? exitSelect() : setSelecting(true))}>
+              {selecting ? 'Peruuta' : 'Valitse'}
+            </Button>
             <Link to="/reseptit/tuo">
               <Button variant="secondary" icon={<Download size={16} />}>Tuo</Button>
             </Link>
@@ -158,9 +178,18 @@ export function RecipesPage() {
           </>
         }
         mobileActions={
-          <Link to="/reseptit/uusi" className="flex h-9 w-9 items-center justify-center rounded-full bg-surface-2 text-ink-2" aria-label="Uusi resepti">
-            <Plus size={18} />
-          </Link>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => (selecting ? exitSelect() : setSelecting(true))}
+              className={cx('flex h-9 w-9 items-center justify-center rounded-full', selecting ? 'bg-brand text-on-brand' : 'bg-surface-2 text-ink-2')}
+              aria-label={selecting ? 'Peruuta valinta' : 'Valitse reseptejä'}
+            >
+              {selecting ? <X size={18} /> : <CheckSquare size={18} />}
+            </button>
+            <Link to="/reseptit/uusi" className="flex h-9 w-9 items-center justify-center rounded-full bg-surface-2 text-ink-2" aria-label="Uusi resepti">
+              <Plus size={18} />
+            </Link>
+          </div>
         }
       />
 
@@ -220,7 +249,19 @@ export function RecipesPage() {
           <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 3xl:grid-cols-6">
             {results.slice(0, limit).map((r) => {
               const n = recipeNutritionCached(r, ctx).perServing
-              return <RecipeCard key={r.id} recipe={r} favourite={favourites.has(r.id)} kcal={n.energyKcal} protein={n.protein} allergens={allergensIn(r, allergies)} />
+              return (
+                <RecipeCard
+                  key={r.id}
+                  recipe={r}
+                  favourite={favourites.has(r.id)}
+                  kcal={n.energyKcal}
+                  protein={n.protein}
+                  allergens={allergensIn(r, allergies)}
+                  selectable={selecting}
+                  selected={selected.has(r.id)}
+                  onSelect={() => toggleSelect(r.id)}
+                />
+              )
             })}
           </div>
           {results.length > limit && (
@@ -297,6 +338,20 @@ export function RecipesPage() {
           </p>
         </div>
       </Sheet>
+
+      {selecting && (
+        <div className="no-print pointer-events-none fixed inset-x-0 bottom-0 z-40 flex justify-center px-4 pb-[calc(env(safe-area-inset-bottom,0px)+4.75rem)] lg:pb-6">
+          <div className="pointer-events-auto flex items-center gap-2 rounded-full border border-line bg-surface/95 py-2 pl-4 pr-2 shadow-2xl backdrop-blur">
+            <span className="text-sm font-medium tabular">{selected.size} valittu</span>
+            {selected.size > 0 && (
+              <button onClick={() => setSelected(new Set())} className="rounded-full px-2 py-1 text-sm text-ink-2 hover:bg-surface-2">Tyhjennä</button>
+            )}
+            <Button size="sm" icon={<Share2 size={15} />} disabled={selected.size === 0} onClick={() => setShareOpen(true)}>Jaa</Button>
+          </div>
+        </div>
+      )}
+
+      <ShareRecipesSheet recipes={selectedRecipes} open={shareOpen} onClose={() => setShareOpen(false)} />
     </div>
   )
 }

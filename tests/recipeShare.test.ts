@@ -4,10 +4,12 @@ import {
   createFrameCollector,
   decodeFrames,
   encodeRecipe,
+  encodeRecipes,
   parseFrame,
   recipeToSharePayload,
   SINGLE_MAX_CHARS,
   type ParsedFrame,
+  type SharePayload,
 } from '../src/share/recipeShare'
 import { sharePayloadToRecipe } from '../src/share/importShare'
 import { fineliLookup } from './helpers'
@@ -84,15 +86,21 @@ function noisyLines(n: number, seed = 7): string[] {
   })
 }
 
-function collectAll(frames: string[]) {
+/** Collect frames and return the first (often only) recipe, for single-recipe assertions. */
+function collectAll(frames: string[]): SharePayload | undefined {
+  return collectAllMany(frames)?.[0]
+}
+
+/** Collect frames and return every recipe in the transfer (single recipe → length 1, bundle → many). */
+function collectAllMany(frames: string[]): SharePayload[] | undefined {
   const collector = createFrameCollector()
-  let payload
+  let payloads: SharePayload[] | undefined
   for (const f of frames) {
     const r = collector.add(f)
-    if (r.status === 'complete') payload = r.payload
+    if (r.status === 'complete') payloads = r.payloads
     if (r.status === 'error') throw new Error('collector error: ' + r.message)
   }
-  return payload
+  return payloads
 }
 
 describe('recipe QR share – single frame', () => {
@@ -159,6 +167,44 @@ describe('recipe QR share – multi frame', () => {
   })
 })
 
+describe('recipe QR share – multiple recipes (bundle)', () => {
+  it('encodes a single recipe through encodeRecipes exactly like one recipe (no bundle wrapper)', () => {
+    const one = collectAllMany(encodeRecipes([makeRecipe()]).frames)
+    expect(one).toHaveLength(1)
+    expect(one![0].t).toBe('Mummon pannukakku')
+  })
+
+  it('packs several recipes into one transfer and unpacks them all in order', () => {
+    const a = makeRecipe({ title: 'Pannukakku' })
+    const b = makeRecipe({ title: 'Lihapullat', instructions: ['Pyörittele pullat.', 'Paista.'] })
+    const c = makeRecipe({ title: 'Kaurapuuro', ingredients: [ing('1 dl kaurahiutaleita'), ing('2 dl vettä')] })
+    const enc = encodeRecipes([a, b, c])
+    const payloads = collectAllMany(enc.frames)
+    expect(payloads).toHaveLength(3)
+    expect(payloads!.map((p) => p.t)).toEqual(['Pannukakku', 'Lihapullat', 'Kaurapuuro'])
+    expect(payloads![2].i.map((x) => x.r)).toEqual(['1 dl kaurahiutaleita', '2 dl vettä'])
+  })
+
+  it('reassembles a multi-recipe bundle even out of order and with a stray QR', () => {
+    const recipes = Array.from({ length: 4 }, (_, i) => makeRecipe({ title: `Resepti ${i + 1}`, instructions: noisyLines(20, i + 1) }))
+    const enc = encodeRecipes(recipes)
+    expect(enc.total).toBeGreaterThan(1)
+    const scanned = ['WIFI:S:home;;', ...[...enc.frames].reverse(), enc.frames[0]]
+    const payloads = collectAllMany(scanned)
+    expect(payloads!.map((p) => p.t)).toEqual(['Resepti 1', 'Resepti 2', 'Resepti 3', 'Resepti 4'])
+  })
+
+  it('full bundle → scan → import rebuilds every recipe against Fineli', () => {
+    const recipes = [makeRecipe({ title: 'A' }), makeRecipe({ title: 'B', notes: 'Bee' })]
+    const payloads = collectAllMany(encodeRecipes(recipes).frames)!
+    const rebuilt = payloads.map((p) => sharePayloadToRecipe(p, { fineli: fineliLookup() }, 2))
+    expect(rebuilt.map((r) => r.title)).toEqual(['A', 'B'])
+    expect(rebuilt.every((r) => r.origin === 'imported')).toBe(true)
+    expect(rebuilt[1].notes).toBe('Bee')
+    expect(new Set(rebuilt.map((r) => r.id)).size).toBe(2) // fresh, distinct ids
+  })
+})
+
 describe('frame parsing and collector robustness', () => {
   it('ignores anything that is not an LR1 frame', () => {
     expect(parseFrame('https://example.com/recipe')).toBeNull()
@@ -184,7 +230,7 @@ describe('frame parsing and collector robustness', () => {
     const collector = createFrameCollector()
     collector.add(a.frames[0]) // partial A
     const r = collector.add(b.frames[0]) // whole B appears → should finish B
-    expect(r.status === 'complete' && r.payload.t).toBe('Toinen resepti')
+    expect(r.status === 'complete' && r.payloads[0].t).toBe('Toinen resepti')
   })
 
   it('reports incomplete when a frame is missing', () => {

@@ -2,20 +2,25 @@ import { Pause, Play } from 'lucide-react'
 import QRCode from 'qrcode'
 import { useEffect, useMemo, useRef, useState } from 'react'
 import type { Recipe } from '../../domain/types'
-import { encodeRecipe } from '../../share/recipeShare'
+import { encodeRecipes } from '../../share/recipeShare'
 import { Button, Modal } from './ui'
 
 /** How long each frame of a multi-part code is shown before the next. */
 const FRAME_MS = 450
 
-export function QrShareDialog({ recipe, open, onClose }: { recipe: Recipe; open: boolean; onClose: () => void }) {
-  const encoded = useMemo(() => encodeRecipe(recipe), [recipe])
+/** Share one recipe, or a whole selection, as one or more QR codes. */
+export function QrShareDialog({ recipes, open, onClose }: { recipes: Recipe[]; open: boolean; onClose: () => void }) {
+  const sig = recipes.map((r) => r.id).join(',')
+  // eslint-disable-next-line react-hooks/exhaustive-deps -- `sig` captures the recipe identities the encode depends on
+  const encoded = useMemo(() => encodeRecipes(recipes), [sig])
   const multi = encoded.total > 1
+  const many = recipes.length > 1
+  const heading = many ? `${recipes.length} reseptiä` : (recipes[0]?.title ?? 'Resepti')
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const [frame, setFrame] = useState(0)
   const [paused, setPaused] = useState(false)
 
-  // Restart from the first frame whenever the dialog opens or the recipe changes.
+  // Restart from the first frame whenever the dialog opens or the selection changes.
   useEffect(() => {
     if (open) {
       setFrame(0)
@@ -43,17 +48,23 @@ export function QrShareDialog({ recipe, open, onClose }: { recipe: Recipe; open:
   }, [frame, open, encoded])
 
   return (
-    <Modal open={open} onClose={onClose} title="Jaa QR-koodina" footer={<Button onClick={onClose}>Valmis</Button>}>
+    <Modal open={open} onClose={onClose} title={many ? 'Jaa reseptit QR-koodina' : 'Jaa QR-koodina'} footer={<Button onClick={onClose}>Valmis</Button>}>
       <div className="flex flex-col items-center text-center">
         <p className="text-sm text-ink-2">
           Pyydä toista avaamaan <strong>Tuo reseptejä → Skannaa QR-koodi</strong> ja osoittamaan kamera tähän koodiin.
         </p>
 
         <div className="mt-4 rounded-2xl bg-white p-3 shadow-sm ring-1 ring-black/5">
-          <canvas ref={canvasRef} width={288} height={288} className="block h-72 w-72" aria-label={`QR-koodi reseptille ${recipe.title}`} />
+          <canvas ref={canvasRef} width={288} height={288} className="block h-72 w-72" aria-label={many ? `QR-koodi ${recipes.length} reseptin jakamiseen` : `QR-koodi reseptille ${heading}`} />
         </div>
 
-        <p className="mt-3 font-display text-lg font-semibold">{recipe.title}</p>
+        <p className="mt-3 font-display text-lg font-semibold">{heading}</p>
+        {many && (
+          <p className="mt-1 max-w-xs text-xs text-muted">
+            {recipes.slice(0, 4).map((r) => r.title).join(', ')}
+            {recipes.length > 4 ? ` +${recipes.length - 4}` : ''}
+          </p>
+        )}
 
         {multi ? (
           <div className="mt-2 w-full">
@@ -73,11 +84,11 @@ export function QrShareDialog({ recipe, open, onClose }: { recipe: Recipe; open:
               ))}
             </div>
             <p className="mt-3 text-xs text-muted">
-              Iso resepti jaetaan {encoded.total} kuvaan, jotka vaihtuvat itsestään. Pidä koodi näkyvissä – toisen laitteen tarvitsee vain odottaa, että kaikki kuvat on luettu.
+              {many ? 'Reseptit jaetaan' : 'Iso resepti jaetaan'} {encoded.total} kuvaan, jotka vaihtuvat itsestään. Pidä koodi näkyvissä – toisen laitteen tarvitsee vain odottaa, että kaikki kuvat on luettu.
             </p>
             {encoded.total >= 6 && (
               <p className="mt-2 text-xs text-muted">
-                Hyvin pitkä resepti. Jos lukeminen ei tahdo onnistua, voit jakaa sen myös tiedostona: <strong>Asetukset → Vie tiedot</strong>.
+                Paljon dataa. Jos lukeminen ei tahdo onnistua, voit jakaa {many ? 'reseptit' : 'sen'} myös tiedostona: <strong>Asetukset → Vie tiedot</strong>.
               </p>
             )}
           </div>

@@ -6,8 +6,8 @@ import { Button, Card, cx } from './ui'
 
 type Phase = 'idle' | 'starting' | 'scanning' | 'error'
 
-/** Scan a shared recipe QR (one or many frames) with the device camera, fully offline. */
-export function QrScanner({ onComplete }: { onComplete: (payload: SharePayload) => void }) {
+/** Scan a shared recipe QR (one or many frames, one or many recipes) with the device camera, fully offline. */
+export function QrScanner({ onComplete }: { onComplete: (payloads: SharePayload[]) => void }) {
   const videoRef = useRef<HTMLVideoElement>(null)
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const streamRef = useRef<MediaStream | null>(null)
@@ -39,7 +39,7 @@ export function QrScanner({ onComplete }: { onComplete: (payload: SharePayload) 
         stop()
         setPhase('idle')
         setProgress(null)
-        onComplete(result.payload)
+        onComplete(result.payloads)
       }
     },
     [onComplete, stop],

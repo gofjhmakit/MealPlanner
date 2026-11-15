@@ -1,4 +1,4 @@
-import { Clock, Heart, Info, Star } from 'lucide-react'
+import { Check, Clock, Heart, Info, Star } from 'lucide-react'
 import { useState, type ReactNode } from 'react'
 import { Link } from 'react-router'
 import { CONFIDENT_THRESHOLD, type NutritionCoverage } from '../../domain/nutrition'
@@ -150,31 +150,73 @@ export function SourceBadge({ recipe }: { recipe: Pick<Recipe, 'origin' | 'sourc
   return <Badge>Oma</Badge>
 }
 
-export function RecipeCard({ recipe, kcal, protein, favourite, action, allergens }: { recipe: Recipe; kcal?: number | null; protein?: number | null; favourite?: boolean; action?: ReactNode; allergens?: string[] }) {
+export function RecipeCard({
+  recipe,
+  kcal,
+  protein,
+  favourite,
+  action,
+  allergens,
+  selectable,
+  selected,
+  onSelect,
+}: {
+  recipe: Recipe
+  kcal?: number | null
+  protein?: number | null
+  favourite?: boolean
+  action?: ReactNode
+  allergens?: string[]
+  selectable?: boolean
+  selected?: boolean
+  onSelect?: () => void
+}) {
   const time = recipeTime(recipe)
-  return (
-    <article className="group relative flex flex-col overflow-hidden rounded-[20px] border border-line bg-surface transition hover:-translate-y-0.5 hover:shadow-lg">
-      <Link to={`/reseptit/${recipe.id}`} className="flex flex-1 flex-col">
-        <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" />
-        <div className="flex flex-1 flex-col gap-1.5 p-3 sm:p-3.5">
-          <h3 className="line-clamp-2 text-[15px] font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>
-          {allergens && allergens.length > 0 && (
-            <p className="w-fit rounded-full bg-accent-soft px-2 py-0.5 text-[11px] font-semibold text-accent">Allergia: {allergens.join(', ')}</p>
-          )}
-          <div className="mt-auto flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs text-muted">
-            {kcal ? <span className="tabular font-medium text-ink-2">{Math.round(kcal)} kcal</span> : null}
-            {protein ? <span className="tabular">P {Math.round(protein)} g</span> : null}
-            {time ? (
-              <span className="inline-flex items-center gap-1">
-                <Clock size={12} /> {time} min
-              </span>
-            ) : null}
-            {recipe.rating ? <span className="text-accent">★ {recipe.rating}</span> : null}
-          </div>
+  const inner = (
+    <>
+      <RecipeImage recipe={recipe} className="aspect-[4/3] w-full" rounded="rounded-none" />
+      <div className="flex flex-1 flex-col gap-1.5 p-3 sm:p-3.5">
+        <h3 className="line-clamp-2 text-[15px] font-medium leading-snug hyphens-auto [overflow-wrap:anywhere] group-hover:text-brand">{recipe.title}</h3>
+        {allergens && allergens.length > 0 && (
+          <p className="w-fit rounded-full bg-accent-soft px-2 py-0.5 text-[11px] font-semibold text-accent">Allergia: {allergens.join(', ')}</p>
+        )}
+        <div className="mt-auto flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs text-muted">
+          {kcal ? <span className="tabular font-medium text-ink-2">{Math.round(kcal)} kcal</span> : null}
+          {protein ? <span className="tabular">P {Math.round(protein)} g</span> : null}
+          {time ? (
+            <span className="inline-flex items-center gap-1">
+              <Clock size={12} /> {time} min
+            </span>
+          ) : null}
+          {recipe.rating ? <span className="text-accent">★ {recipe.rating}</span> : null}
         </div>
-      </Link>
-      {favourite && <Heart size={18} className="absolute right-2.5 top-2.5 fill-accent text-accent drop-shadow" aria-label="Suosikki" />}
-      {action && <div className="absolute right-2 top-2">{action}</div>}
+      </div>
+    </>
+  )
+  return (
+    <article className={cx('group relative flex flex-col overflow-hidden rounded-[20px] border bg-surface transition', selected ? 'border-brand ring-2 ring-brand' : 'border-line', !selectable && 'hover:-translate-y-0.5 hover:shadow-lg')}>
+      {selectable ? (
+        <button type="button" onClick={onSelect} aria-pressed={selected} className="flex flex-1 flex-col text-left">
+          {inner}
+        </button>
+      ) : (
+        <Link to={`/reseptit/${recipe.id}`} className="flex flex-1 flex-col">
+          {inner}
+        </Link>
+      )}
+      {selectable && (
+        <span
+          aria-hidden
+          className={cx(
+            'pointer-events-none absolute left-2.5 top-2.5 flex h-6 w-6 items-center justify-center rounded-full border-2 shadow',
+            selected ? 'border-brand bg-brand text-on-brand' : 'border-white/90 bg-black/25 text-transparent',
+          )}
+        >
+          <Check size={14} strokeWidth={3} />
+        </span>
+      )}
+      {!selectable && favourite && <Heart size={18} className="absolute right-2.5 top-2.5 fill-accent text-accent drop-shadow" aria-label="Suosikki" />}
+      {!selectable && action && <div className="absolute right-2 top-2">{action}</div>}
     </article>
   )
 }

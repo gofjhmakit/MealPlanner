@@ -1,7 +1,7 @@
 import { AlertTriangle, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, QrCode, XCircle } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
-import { findRecipeBySourceUrl, matchContext, saveRecipe } from '../../db/repo'
+import { findRecipeBySourceUrl, findRecipeByTitle, matchContext, saveRecipe } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
 import { CONFIDENT_THRESHOLD } from '../../domain/nutrition'
 import type { Recipe } from '../../domain/types'
@@ -96,14 +96,19 @@ export function ImportPage() {
     }
   }
 
-  async function onQrPayload(payload: SharePayload) {
+  async function onQrPayloads(payloads: SharePayload[]) {
     const ctx = await matchContext(fineli)
-    const recipe = sharePayloadToRecipe(payload, ctx, settings.defaultServings)
-    const diagnostics = shareDiagnostics(payload)
-    const existing = recipe.sourceUrl ? await findRecipeBySourceUrl([recipe.sourceUrl]) : undefined
+    const built: RowState[] = []
+    for (const payload of payloads) {
+      const recipe = sharePayloadToRecipe(payload, ctx, settings.defaultServings)
+      const diagnostics = shareDiagnostics(payload)
+      // Shared own recipes usually carry no source URL, so fall back to matching the title.
+      const existing = (recipe.sourceUrl ? await findRecipeBySourceUrl([recipe.sourceUrl]) : undefined) ?? (await findRecipeByTitle(recipe.title))
+      built.push({ url: recipe.sourceUrl ?? recipe.title, status: 'done', outcome: { recipe, diagnostics }, saved: false, existing: existing && { id: existing.id, title: existing.title } })
+    }
     scrollToResults.current = true
-    setRows([{ url: recipe.sourceUrl ?? recipe.title, status: 'done', outcome: { recipe, diagnostics }, saved: false, existing: existing && { id: existing.id, title: existing.title } }])
-    toast(`Resepti luettu: ${recipe.title}`)
+    setRows(built)
+    toast(payloads.length === 1 ? `Resepti luettu: ${payloads[0].t}` : `${payloads.length} reseptiä luettu`)
   }
 
   async function save(i: number, openAfter: 'view' | 'edit' | null) {
@@ -182,9 +187,9 @@ export function ImportPage() {
       ) : (
         <div className="space-y-4">
           <p className="text-sm text-ink-2">
-            Tuo resepti toiselta laitteelta: avaa resepti siellä, valitse <strong>Jaa QR-koodina</strong>, ja skannaa koodi alla olevalla kameralla. Moniosaiset koodit luetaan automaattisesti, eikä mitään lähetetä verkkoon.
+            Tuo reseptejä toiselta laitteelta: avaa resepti (tai valitse useampi reseptilistalla) siellä, valitse <strong>Jaa QR-koodina</strong>, ja skannaa koodi alla olevalla kameralla. Moniosaiset koodit ja useamman reseptin koodit luetaan automaattisesti, eikä mitään lähetetä verkkoon.
           </p>
-          <QrScanner onComplete={onQrPayload} />
+          <QrScanner onComplete={onQrPayloads} />
         </div>
       )}
 

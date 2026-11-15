@@ -9,7 +9,7 @@ import jsQR from 'jsqr'
 import QRCode from 'qrcode'
 import { describe, expect, it } from 'vitest'
 import type { Recipe, RecipeIngredient } from '../src/domain/types'
-import { createFrameCollector, encodeRecipe } from '../src/share/recipeShare'
+import { createFrameCollector, encodeRecipe, encodeRecipes } from '../src/share/recipeShare'
 
 function ing(raw: string): RecipeIngredient {
   return { id: 'i-' + raw, raw, group: null, quantity: null, unit: null, name: raw, confidence: 1, matchMethod: 'exact', userOverride: false, scaling: 'linear', optional: false, canonicalId: null, fineliId: null }
@@ -80,7 +80,7 @@ describe('QR generate → scan round trip (real qrcode + jsQR)', () => {
     const collector = createFrameCollector()
     const r = collector.add(decoded)
     expect(r.status).toBe('complete')
-    expect(r.status === 'complete' && r.payload.t).toBe('Uunipannukakku')
+    expect(r.status === 'complete' && r.payloads[0].t).toBe('Uunipannukakku')
   })
 
   it('every frame stays within the scannable QR version range', () => {
@@ -98,10 +98,28 @@ describe('QR generate → scan round trip (real qrcode + jsQR)', () => {
     // scan each rendered frame once, as the animation cycles through them
     for (const frame of enc.frames) {
       const res = collector.add(scan(frame))
-      if (res.status === 'complete') payload = res.payload
+      if (res.status === 'complete') payload = res.payloads[0]
     }
     expect(payload).toBeDefined()
     expect(payload!.n).toEqual(instructions)
     expect(payload!.i).toHaveLength(4)
+  })
+
+  it('a multi-recipe bundle renders to scannable codes and unpacks every recipe', () => {
+    const recipes = [
+      makeRecipe({ id: 'a', title: 'Uunipannukakku' }),
+      makeRecipe({ id: 'b', title: 'Lihapullat', instructions: noisyLines(10) }),
+      makeRecipe({ id: 'c', title: 'Kaurapuuro' }),
+    ]
+    const enc = encodeRecipes(recipes)
+    expect(enc.total).toBeGreaterThan(1)
+    for (const f of enc.frames) expect(renderFrame(f).version).toBeLessThanOrEqual(27)
+    const collector = createFrameCollector()
+    let payloads
+    for (const frame of enc.frames) {
+      const res = collector.add(scan(frame))
+      if (res.status === 'complete') payloads = res.payloads
+    }
+    expect(payloads!.map((p) => p.t)).toEqual(['Uunipannukakku', 'Lihapullat', 'Kaurapuuro'])
   })
 })

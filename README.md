@@ -48,10 +48,10 @@ See also [REVIEW.md](REVIEW.md) – product-owner, customer and security review 
 | Area | What works |
 |---|---|
 | **Tänään** (today) | A timeline of today's meals (eaten → now → still empty) with "Aloita kokkaus" for the next meal, suggestions that fit what is left of the day, and a ring for the day's kcal, protein and fibre against your goal. Also: tomorrow and the coming days with "+ täytä", a two-week kcal/protein/fibre chart, the week's balance (fish, vegetarian days, cooking time, missing meals), weekly micronutrients against reference intakes, tonight's ingredients, snack ideas, the next shopping trip and a weight log. 1 280 px+: three columns; 1 920 px+: a month column |
-| **Reseptit** | "Löydä" (the whole catalogue, ~5 000 translated open recipes + own recipes, sorted by recommendation) plus own recipes and favourites. Every card shows kcal and protein per serving. Search across name, ingredients, description, tags and category, with Finnish inflections and synonyms ("kana" finds "broilerin fileesuikale"). Quick chips (light and filling, protein, ≤ 30 min, vegetarian, from what's at home, breakfasts) and a "Suodata" sheet with all filters and sorts (incl. protein per kcal). Fineli dishes without instructions appear only in searches |
+| **Reseptit** | "Löydä" (the whole catalogue, ~5 000 translated open recipes + own recipes, sorted by recommendation) plus own recipes and favourites. Every card shows kcal and protein per serving. Search across name, ingredients, description, tags and category, with Finnish inflections and synonyms ("kana" finds "broilerin fileesuikale"). Quick chips (light and filling, protein, ≤ 30 min, vegetarian, from what's at home, breakfasts) and a "Suodata" sheet with all filters and sorts (incl. protein per kcal). Fineli dishes without instructions appear only in searches. **Valitse** enters multi-select to **share several recipes at once** (QR codes offline, or links where available) |
 | **Recipe page** | Phones: full-width photo, "Sopii päivääsi" (this dish against the rest of the day and your target), ingredients marked "kotona", instructions with tappable timers, and a sticky **"Lisää · <first suitable empty slot>"** button. Desktop: a spread with the photo fixed on the left and ingredients beside the steps; 1 920 px+: nutrition and "your week" column. Matching details (confidence dots, corrections) live behind "Ainesten tarkistus". **Cook mode**: one step at a time in large type, that step's ingredients, parsed timers, keyboard (→ ← T Esc), screen kept awake. Ratings, notes, favourites, print, edit as own copy, **share as a QR code** |
 | **Ingredient correction** | Tap an ingredient to see why it was matched, then pick another dictionary ingredient or *any* Fineli food. You can also set a manual weight and a scaling rule. "Remember" applies the choice to every recipe using the same wording |
-| **Tuo reseptejä** (import) | Paste several URLs at once; each gets a diagnostics card (detected fields, matched/approximated ingredients, ambiguous ones). Warns when the recipe was already imported. Fallback: paste the page HTML when a site blocks automated fetching. **Skannaa QR-koodi**: receive a recipe from another device's screen with the camera, fully offline — one code or several that read automatically |
+| **Tuo reseptejä** (import) | Paste several URLs at once; each gets a diagnostics card (detected fields, matched/approximated ingredients, ambiguous ones). Warns when the recipe was already imported. Fallback: paste the page HTML when a site blocks automated fetching. **Skannaa QR-koodi**: receive one recipe or a whole selection from another device's screen with the camera, fully offline — single or multi-frame codes read automatically, duplicates flagged |
 | **Suunnittele viikko** (auto-planning) | One screen: the plan is shown immediately with smart defaults (household servings, your calorie target, leftovers) and updates as you change week, meals or anything under "Säädä" (diet, calorie maximum, cooking times, ingredients to use or avoid, favourites, repeats, catalogue, replace). Swap single meals, then save. **"Täytä tyhjät"** fills empty slots in one tap from Today, Week and the command bar |
 | **Omat tuotteet** (own products) | Add products Fineli doesn't have. **Import from K-Ruoka or S-kaupat product pages**: nutrition per 100 g, EAN, brand, image, package size, category and allergen-based diet markers, from the page source (automatic fetch where the store allows it, otherwise paste the source). Copied label text ("Proteiini 19 g") also works, and everything can be entered by hand. Recipes match products by name, brand + name or your own aliases, and products work in nutrition, shopping lists and diet checks |
 | **Viikko** (week) | Phones: one row per day with meals as chips, gaps as "+ Lounas" and a bar against the goal. 1 024 px+: a 7 × 4 grid with **drag and drop** (preview of the day's kcal before dropping, ⌥ copies), keyboard navigation (arrows, ↵, ⌫, N = next empty), a per-day nutrition row and, from 1 280 px, a side panel (recipes to drag in, the selected meal, shopping). Two-week and month views (two weeks by default on 1 920 px+). Tapping a meal opens the **meal sheet**: ready-made swaps with kcal differences, leftovers for tomorrow, move, copy, servings, eaten/skipped, cook, remove with undo |
@@ -315,12 +315,16 @@ Fetching goes through the fetch service. When a site blocks automated requests, 
 offers **"Liitä sivun HTML"**: open the recipe in your browser, view source, paste it.
 The same pipeline then runs entirely in the browser.
 
-### Sharing a recipe by QR code
+### Sharing recipes by QR code
 
-A recipe can be handed to another device as one or more QR codes, with no server, no
-account and no network — useful for passing an own or imported recipe to a partner's
-phone. On the recipe page: **⋯ → Jaa QR-koodina**. On the other device:
-**Tuo reseptejä → Skannaa QR-koodi**, point the camera at the screen.
+One recipe, or a whole selection, can be handed to another device as one or more QR
+codes, with no server, no account and no network — useful for passing own or imported
+recipes to a partner's phone. On the recipe page: **⋯ → Jaa QR-koodina**. To send
+several at once, on the recipe list tap **Valitse**, pick the recipes, then **Jaa →
+QR-koodeina** (the same sheet also offers **Linkkeinä** for recipes that have a public
+address). On the other device: **Tuo reseptejä → Skannaa QR-koodi**, point the camera at
+the screen — one recipe or many are read in the same scan, and each already-saved recipe
+is flagged "jo tallennettu" rather than imported twice.
 
 The pipeline (`src/share/`):
 
@@ -333,7 +337,9 @@ The pipeline (`src/share/`):
    self-describing — `LR1.<id>.<seq>.<total>.<chunk>` — so the scanner knows from the
    first frame it sees how many to expect. Multi-frame codes animate; the scanner
    collects frames (in any order, duplicates and foreign QR codes ignored) until the set
-   is complete, then validates (Zod) and rebuilds.
+   is complete, then validates (Zod) and rebuilds. A multi-recipe share rides the exact
+   same frames — a bundle (`{ v, b: [...] }`) instead of a single payload — so the scanner
+   never needs a "one recipe or many" switch; it just unpacks whatever the code held.
 4. **Re-match on import** – the receiver re-parses the raw ingredient lines and matches
    them against *its own* Fineli dataset, exactly like a web import, and shows the same
    diagnostics card before saving.

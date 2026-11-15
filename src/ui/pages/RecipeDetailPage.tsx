@@ -500,7 +500,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
       </div>
       <div className="h-24 lg:hidden" />
 
-      <QrShareDialog recipe={recipe} open={qrOpen} onClose={() => setQrOpen(false)} />
+      <QrShareDialog recipes={[recipe]} open={qrOpen} onClose={() => setQrOpen(false)} />
       <AddToPlanDialog recipe={recipe} open={planOpen} onClose={() => setPlanOpen(false)} />
       <AddToShoppingListDialog recipe={recipe} servings={servings} open={shopOpen} onClose={() => setShopOpen(false)} />
       {cooking && <CookingMode recipe={recipe} factor={factor} servings={servings} leftoverNote={leftoverNote} onClose={() => setCooking(false)} />}
