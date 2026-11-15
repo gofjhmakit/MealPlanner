@@ -1,5 +1,5 @@
 import { AlertTriangle, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, QrCode, XCircle } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { findRecipeBySourceUrl, matchContext, saveRecipe } from '../../db/repo'
 import { getIngredient } from '../../domain/ingredients'
@@ -42,6 +42,18 @@ export function ImportPage() {
   const [html, setHtml] = useState('')
 
   const update = (i: number, row: RowState) => setRows((r) => r.map((x, j) => (j === i ? row : x)))
+
+  // After a QR scan the result lands below the (now idle) scanner; pull the eye there.
+  const resultsRef = useRef<HTMLDivElement>(null)
+  const scrollToResults = useRef(false)
+  useEffect(() => {
+    if (!scrollToResults.current || rows.length === 0) return
+    scrollToResults.current = false
+    const el = resultsRef.current
+    if (!el) return
+    el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    el.querySelector<HTMLElement>('[data-results-heading]')?.focus({ preventScroll: true })
+  }, [rows])
 
   async function runUrls() {
     const urls = parseUrlList(text)
@@ -89,7 +101,9 @@ export function ImportPage() {
     const recipe = sharePayloadToRecipe(payload, ctx, settings.defaultServings)
     const diagnostics = shareDiagnostics(payload)
     const existing = recipe.sourceUrl ? await findRecipeBySourceUrl([recipe.sourceUrl]) : undefined
+    scrollToResults.current = true
     setRows([{ url: recipe.sourceUrl ?? recipe.title, status: 'done', outcome: { recipe, diagnostics }, saved: false, existing: existing && { id: existing.id, title: existing.title } }])
+    toast(`Resepti luettu: ${recipe.title}`)
   }
 
   async function save(i: number, openAfter: 'view' | 'edit' | null) {
@@ -175,9 +189,9 @@ export function ImportPage() {
       )}
 
       {rows.length > 0 && (
-        <div className="mt-6 space-y-4">
+        <div ref={resultsRef} className="mt-6 scroll-mt-20 space-y-4">
           <div className="flex items-center justify-between">
-            <h2 className="font-display text-lg font-semibold">Tuonnin tulokset</h2>
+            <h2 data-results-heading tabIndex={-1} className="font-display text-lg font-semibold outline-none">Tuonnin tulokset</h2>
             {unsaved > 1 && <Button variant="soft" onClick={saveAll}>Tallenna kaikki ({unsaved})</Button>}
           </div>
           {rows.map((row, i) => (
