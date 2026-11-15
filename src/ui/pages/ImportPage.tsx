@@ -1,4 +1,4 @@
-import { AlertTriangle, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, XCircle } from 'lucide-react'
+import { AlertTriangle, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, QrCode, XCircle } from 'lucide-react'
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { findRecipeBySourceUrl, matchContext, saveRecipe } from '../../db/repo'
@@ -8,8 +8,11 @@ import type { Recipe } from '../../domain/types'
 import { ADAPTERS } from '../../import/adapters'
 import { FETCH_AVAILABLE, importFromHtml, importFromUrl, parseUrlList, type ImportOutcome } from '../../import/client'
 import type { ImportError } from '../../import/pipeline'
+import { sharePayloadToRecipe, shareDiagnostics } from '../../share/importShare'
+import type { SharePayload } from '../../share/recipeShare'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
+import { QrScanner } from '../components/QrScanner'
 import { ConfidenceDot, RecipeImage } from '../components/recipe'
 import { Badge, Button, Card, cx, Field, TextInput } from '../components/ui'
 
@@ -25,11 +28,13 @@ const EXAMPLES = [
   'https://www.k-ruoka.fi/reseptit/texmex-salaatti',
 ]
 
+type ImportMode = 'url' | 'html' | 'qr'
+
 export function ImportPage() {
   const { fineli, settings } = useApp()
   const toast = useToast()
   const navigate = useNavigate()
-  const [mode, setMode] = useState<'url' | 'html'>(FETCH_AVAILABLE ? 'url' : 'html')
+  const [mode, setMode] = useState<ImportMode>(FETCH_AVAILABLE ? 'url' : 'html')
   const [text, setText] = useState('')
   const [rows, setRows] = useState<RowState[]>([])
   const [busy, setBusy] = useState(false)
@@ -79,6 +84,14 @@ export function ImportPage() {
     }
   }
 
+  async function onQrPayload(payload: SharePayload) {
+    const ctx = await matchContext(fineli)
+    const recipe = sharePayloadToRecipe(payload, ctx, settings.defaultServings)
+    const diagnostics = shareDiagnostics(payload)
+    const existing = recipe.sourceUrl ? await findRecipeBySourceUrl([recipe.sourceUrl]) : undefined
+    setRows([{ url: recipe.sourceUrl ?? recipe.title, status: 'done', outcome: { recipe, diagnostics }, saved: false, existing: existing && { id: existing.id, title: existing.title } }])
+  }
+
   async function save(i: number, openAfter: 'view' | 'edit' | null) {
     const row = rows[i]
     if (row.status !== 'done') return
@@ -102,18 +115,21 @@ export function ImportPage() {
     <div className="fade-in">
       <PageHeader title="Tuo reseptejä" subtitle={FETCH_AVAILABLE ? 'Liitä reseptien verkko-osoitteet. Tuetut sivustot: K-Ruoka, Yhteishyvä / S-kaupat, Valio, Arla ja Kotikokki.net. Muilta sivuilta voit liittää sivun HTML-koodin.' : 'Liitä reseptisivun HTML-lähdekoodi. Tunnistus toimii parhaiten K-Ruoan, Yhteishyvän / S-kauppojen, Valion, Arlan ja Kotikokki.netin sivuilla.'} />
 
-      {FETCH_AVAILABLE && <div className="mb-4 inline-flex rounded-xl bg-surface-2 p-1" role="tablist">
+      <div className="mb-4 inline-flex rounded-xl bg-surface-2 p-1" role="tablist">
         {(
           [
             ['url', 'Verkko-osoitteista', Link2],
             ['html', 'Liitä sivun HTML', Clipboard],
-          ] as const
-        ).map(([m, label, Icon]) => (
+            ['qr', 'Skannaa QR-koodi', QrCode],
+          ] as [ImportMode, string, typeof QrCode][]
+        )
+          .filter(([m]) => m !== 'url' || FETCH_AVAILABLE)
+          .map(([m, label, Icon]) => (
           <button key={m} role="tab" aria-selected={mode === m} onClick={() => setMode(m)} className={cx('inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium', mode === m ? 'bg-surface shadow-sm' : 'text-ink-2')}>
             <Icon size={16} /> {label}
           </button>
         ))}
-      </div>}
+      </div>
 
       {mode === 'url' ? (
         <Card className="p-5">
@@ -136,7 +152,7 @@ export function ImportPage() {
             Sivut haetaan sovelluksen omalla, rajatulla hakupalvelulla (vain tuetut reseptisivustot) ja käsitellään selaimessasi. Ruokalistojasi tai muita tietojasi ei lähetetä minnekään.
           </p>
         </Card>
-      ) : (
+      ) : mode === 'html' ? (
         <Card className="space-y-4 p-5">
           <p className="text-sm text-ink-2">
             {FETCH_AVAILABLE ? 'Jos sivusto estää automaattisen haun (esim. K-Ruoka käyttää bottisuojausta), avaa' : 'Tässä versiossa reseptejä ei haeta osoitteesta, vaan sivun lähdekoodi liitetään: avaa'} resepti selaimessa, valitse <em>Näytä sivun lähdekoodi</em> (Ctrl/Cmd + U), kopioi kaikki ja liitä alle. Sivu käsitellään kokonaan selaimessasi.
@@ -149,6 +165,13 @@ export function ImportPage() {
           </Field>
           <Button onClick={runHtml}>Lue resepti</Button>
         </Card>
+      ) : (
+        <div className="space-y-4">
+          <p className="text-sm text-ink-2">
+            Tuo resepti toiselta laitteelta: avaa resepti siellä, valitse <strong>Jaa QR-koodina</strong>, ja skannaa koodi alla olevalla kameralla. Moniosaiset koodit luetaan automaattisesti, eikä mitään lähetetä verkkoon.
+          </p>
+          <QrScanner onComplete={onQrPayload} />
+        </div>
       )}
 
       {rows.length > 0 && (

@@ -15,6 +15,7 @@ import {
   NotebookPen,
   Pencil,
   Printer,
+  QrCode,
   Share,
   ShoppingBasket,
   ShoppingCart,
@@ -46,6 +47,7 @@ import { hostnameOf, safeHttpUrl } from '../../domain/url'
 import { DIAGNOSTIC_FIELDS } from '../../import/pipeline'
 import { useApp, useToast } from '../AppContext'
 import { AddToPlanDialog, AddToShoppingListDialog, IngredientMappingDialog } from '../components/dialogs'
+import { QrShareDialog } from '../components/QrShareDialog'
 import { ConfidenceDot, EstimateNote, NutritionSummary, RecipeImage, SourceBadge, StarRating } from '../components/recipe'
 import { Badge, Button, Card, cx, EmptyState, IconButton, Spinner, Stepper } from '../components/ui'
 import { useFavouriteIds, useMealItems, usePlanNutrition, useRecipe, useRecipeNutrition, useRecipesById, useBack } from '../hooks'
@@ -86,6 +88,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const leftoverNote = leftoverPortions > 0 && servings > leftoverPortions ? ` · ${formatNumber(servings - leftoverPortions, 1)} nyt + ${formatNumber(leftoverPortions, 1)} huomisen lounaaksi` : ''
   const [planOpen, setPlanOpen] = useState(false)
   const [shopOpen, setShopOpen] = useState(false)
+  const [qrOpen, setQrOpen] = useState(false)
   const cooking = params.get('kokkaa') === '1'
   const setCooking = (on: boolean) => {
     const next = new URLSearchParams(params)
@@ -176,7 +179,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
           <button onClick={() => shareRecipe(recipe, sourceUrl, toast)} aria-label="Jaa resepti" className="flex h-10 w-10 items-center justify-center rounded-full bg-surface/90 text-ink shadow backdrop-blur">
             <Share size={18} />
           </button>
-          <MoreMenu recipe={recipe} onEdit={onEdit} onDelete={onDelete} onShop={() => setShopOpen(true)} onPlan={() => setPlanOpen(true)} onCheck={() => setCheckMode((v) => !v)} checkMode={checkMode} />
+          <MoreMenu recipe={recipe} onEdit={onEdit} onDelete={onDelete} onShop={() => setShopOpen(true)} onPlan={() => setPlanOpen(true)} onShareQr={() => setQrOpen(true)} onCheck={() => setCheckMode((v) => !v)} checkMode={checkMode} />
         </span>
       </div>
       {recipe.imageUrl && recipe.attribution?.imageCredit && (
@@ -497,6 +500,7 @@ function RecipeDetail({ recipe }: { recipe: Recipe }) {
       </div>
       <div className="h-24 lg:hidden" />
 
+      <QrShareDialog recipe={recipe} open={qrOpen} onClose={() => setQrOpen(false)} />
       <AddToPlanDialog recipe={recipe} open={planOpen} onClose={() => setPlanOpen(false)} />
       <AddToShoppingListDialog recipe={recipe} servings={servings} open={shopOpen} onClose={() => setShopOpen(false)} />
       {cooking && <CookingMode recipe={recipe} factor={factor} servings={servings} leftoverNote={leftoverNote} onClose={() => setCooking(false)} />}
@@ -547,7 +551,7 @@ async function shareRecipe(recipe: Recipe, sourceUrl: string | null, toast: (msg
   }
 }
 
-function MoreMenu({ recipe, onEdit, onDelete, onShop, onPlan, onCheck, checkMode }: { recipe: Recipe; onEdit: () => void; onDelete: () => void; onShop: () => void; onPlan: () => void; onCheck: () => void; checkMode: boolean }) {
+function MoreMenu({ recipe, onEdit, onDelete, onShop, onPlan, onShareQr, onCheck, checkMode }: { recipe: Recipe; onEdit: () => void; onDelete: () => void; onShop: () => void; onPlan: () => void; onShareQr: () => void; onCheck: () => void; checkMode: boolean }) {
   const [open, setOpen] = useState(false)
   const item = 'flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left text-sm text-ink-2 hover:bg-surface-2 hover:text-ink'
   const run = (f: () => void) => () => {
@@ -565,6 +569,7 @@ function MoreMenu({ recipe, onEdit, onDelete, onShop, onPlan, onCheck, checkMode
           <span role="menu" className="fade-in absolute right-0 top-full z-40 mt-2 block w-60 rounded-2xl border border-line bg-surface p-2 shadow-xl">
             <button role="menuitem" className={item} onClick={run(onPlan)}><CalendarPlus size={16} /> Lisää tiettyyn päivään</button>
             <button role="menuitem" className={item} onClick={run(onShop)}><ShoppingCart size={16} /> Lisää ostoslistalle</button>
+            <button role="menuitem" className={item} onClick={run(onShareQr)}><QrCode size={16} /> Jaa QR-koodina</button>
             <button role="menuitem" className={item} onClick={run(() => window.print())}><Printer size={16} /> Tulosta</button>
             <button role="menuitem" className={item} onClick={run(onEdit)}><Pencil size={16} /> {recipe.origin === 'catalogue' ? 'Muokkaa omana kopiona' : 'Muokkaa'}</button>
             <button role="menuitem" className={item} onClick={run(onCheck)}><CheckCircle2 size={16} /> {checkMode ? 'Lopeta ainesten tarkistus' : 'Ainesten tarkistus'}</button>
