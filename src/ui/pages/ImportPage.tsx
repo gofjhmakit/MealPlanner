@@ -5,7 +5,7 @@ import { findRecipeBySourceUrl, findRecipeByTitle, matchContext, saveRecipe } fr
 import { getIngredient } from '../../domain/ingredients'
 import { CONFIDENT_THRESHOLD } from '../../domain/nutrition'
 import type { Recipe } from '../../domain/types'
-import { ADAPTERS } from '../../import/adapters'
+import { FETCHABLE_ADAPTERS, FINNISH_PASTE_ADAPTERS, INTERNATIONAL_ADAPTERS } from '../../import/adapters'
 import { FETCH_AVAILABLE, importFromHtml, importFromUrl, parseUrlList, type ImportOutcome } from '../../import/client'
 import type { ImportError } from '../../import/pipeline'
 import { sharePayloadToRecipe, shareDiagnostics } from '../../share/importShare'
@@ -218,22 +218,27 @@ export function ImportPage() {
 
         <p className="mt-3 text-xs font-semibold uppercase tracking-wider text-muted">{FETCH_AVAILABLE ? 'Automaattinen haku tai liittämällä' : 'Liittämällä sivun lähdekoodi'}</p>
         <ul className="mt-2 grid gap-3 text-sm sm:grid-cols-3">
-          {ADAPTERS.filter((a) => !a.pasteOnly).map((a) => (
+          {FETCHABLE_ADAPTERS.map((a) => (
             <SourceItem key={a.id} name={a.name} homepage={a.homepage} domains={a.domains} />
           ))}
-          <SourceItem name="Arla" homepage="https://www.arla.fi/reseptit/" domains={['arla.fi']} />
-          <SourceItem name="Kotikokki.net" homepage="https://www.kotikokki.net/" domains={['kotikokki.net']} />
         </ul>
+
+        <p className="mt-5 text-xs font-semibold uppercase tracking-wider text-muted">Suomalaiset sivustot – liittämällä sivun lähdekoodi</p>
+        <div className="mt-2 flex flex-wrap gap-2">
+          {FINNISH_PASTE_ADAPTERS.map((a) => (
+            <SourceChip key={a.id} name={a.name} homepage={a.homepage} />
+          ))}
+        </div>
 
         <p className="mt-5 text-xs font-semibold uppercase tracking-wider text-muted">Kansainväliset sivustot – liittämällä sivun lähdekoodi</p>
-        <ul className="mt-2 grid gap-3 text-sm sm:grid-cols-3">
-          {ADAPTERS.filter((a) => a.pasteOnly).map((a) => (
-            <SourceItem key={a.id} name={a.name} homepage={a.homepage} domains={a.domains} />
+        <div className="mt-2 flex flex-wrap gap-2">
+          {INTERNATIONAL_ADAPTERS.map((a) => (
+            <SourceChip key={a.id} name={a.name} homepage={a.homepage} />
           ))}
-        </ul>
+        </div>
 
         <p className="mt-4 text-sm text-ink-2">
-          Mikä tahansa <strong>Schema.org-reseptitiedot</strong> julkaiseva sivu luetaan liittämällä sen lähdekoodi, vaikka sitä ei olisi listattu tässä. Kansainvälisiä sivustoja ei haeta automaattisesti: avaat reseptin, kopioit sivun lähdekoodin (iOS: kirjanmerkki-pikakomento) ja liität sen <strong>Liitä sivun HTML</strong> -välilehdelle.
+          Mikä tahansa <strong>Schema.org-reseptitiedot</strong> julkaiseva sivu luetaan liittämällä sen lähdekoodi, vaikka sitä ei olisi listattu tässä. Listattuja suomalaisia ja kansainvälisiä sivustoja ei haeta automaattisesti: avaat reseptin, kopioit sivun lähdekoodin (iOS: kirjanmerkki-pikakomento) ja liität sen <strong>Liitä sivun HTML</strong> -välilehdelle.
         </p>
         <p className="mt-2 text-xs text-muted">
           Tuodut reseptit tallennetaan vain omaan käyttöösi tälle laitteelle lähdetietoineen – kuten reseptin kirjoittaisi itselleen muistiin. Reseptien tekstit ovat lähdesivustojen tekijänoikeudenalaista sisältöä, joten älä jaa niitä eteenpäin, ellei lähteen lisenssi sitä salli.
@@ -368,6 +373,19 @@ function SourceItem({ name, homepage, domains }: { name: string; homepage: strin
       </a>
       <p className="mt-1 text-xs text-muted">{domains.join(', ')}</p>
     </li>
+  )
+}
+
+function SourceChip({ name, homepage }: { name: string; homepage: string }) {
+  return (
+    <a
+      href={homepage}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center gap-1 rounded-full bg-surface-2 px-3 py-1 text-xs font-medium text-ink-2 hover:text-brand"
+    >
+      {name} <ExternalLink size={11} />
+    </a>
   )
 }
 

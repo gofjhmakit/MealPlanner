@@ -30,6 +30,11 @@ describe('adapter selection', () => {
     expect(adapterForUrl(new URL('https://example.com/recipe')).id).toBe('generic')
   })
 
+  it('names Arla and Kotikokki rather than falling back to the hostname', () => {
+    expect(adapterForUrl(new URL('https://www.arla.fi/reseptit/x/')).name).toBe('Arla')
+    expect(adapterForUrl(new URL('https://www.kotikokki.net/reseptit/nayta/1/X/')).name).toBe('Kotikokki.net')
+  })
+
   it('recognises the international paste-only sites by domain', () => {
     expect(adapterForUrl(new URL('https://cooking.nytimes.com/recipes/123')).name).toBe('NYT Cooking')
     expect(adapterForUrl(new URL('https://www.bonappetit.com/recipe/x')).name).toBe('Bon Appétit')
@@ -37,16 +42,32 @@ describe('adapter selection', () => {
     expect(adapterForUrl(new URL('https://tasty.co/recipe/x')).name).toBe('Tasty')
     expect(adapterForUrl(new URL('https://damndelicious.net/2020/x/')).name).toBe('Damn Delicious')
     expect(adapterForUrl(new URL('https://www.greatbritishchefs.com/recipes/x')).name).toBe('Great British Chefs')
+    expect(adapterForUrl(new URL('https://www.allrecipes.com/recipe/x')).name).toBe('Allrecipes')
+    expect(adapterForUrl(new URL('https://www.bbcgoodfood.com/recipes/x')).name).toBe('BBC Good Food')
+    expect(adapterForUrl(new URL('https://www.recipetineats.com/x/')).name).toBe('RecipeTin Eats')
+  })
+
+  it('recognises the Finnish paste-only sites by domain', () => {
+    expect(adapterForUrl(new URL('https://www.chocochili.net/2024/x/')).name).toBe('Chocochili')
+    expect(adapterForUrl(new URL('https://www.kinuskikissa.fi/x/')).name).toBe('Kinuskikissa')
+    expect(adapterForUrl(new URL('https://www.hellapoliisi.fi/reseptit/x')).name).toBe('Hellapoliisi')
+    expect(adapterForUrl(new URL('https://www.liemessa.fi/2024/x/')).name).toBe('Liemessä')
+    expect(adapterForUrl(new URL('https://kotiliesi.fi/ruoka/reseptit/x/')).name).toBe('Kotiliesi')
+    expect(adapterForUrl(new URL('https://www.soppa365.fi/reseptit/x')).name).toBe('Soppa365')
+    expect(adapterForUrl(new URL('https://www.snellman.fi/fi/reseptit/x/')).name).toBe('Snellman')
+    expect(adapterForUrl(new URL('https://www.martat.fi/reseptit/x/')).name).toBe('Martat')
   })
 
   it('keeps the international sources out of the fetch allowlist (paste only)', () => {
     for (const a of ADAPTERS.filter((x) => x.pasteOnly)) {
       for (const d of a.domains) expect(isAllowedHost(d)).toBe(false)
     }
-    // the Finnish grocery sites remain fetchable
+    // the verified Finnish sites remain fetchable
     expect(isAllowedHost('valio.fi')).toBe(true)
     expect(isAllowedHost('yhteishyva.fi')).toBe(true)
     expect(isAllowedHost('k-ruoka.fi')).toBe(true)
+    expect(isAllowedHost('arla.fi')).toBe(true)
+    expect(isAllowedHost('kotikokki.net')).toBe(true)
   })
 
   it('extracts URLs from pasted text', () => {

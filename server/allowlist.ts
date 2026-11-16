@@ -7,7 +7,8 @@ export const ALLOWED_DOMAINS = [
   'k-ruoka.fi', 'pirkka.fi', // K-Ruoka adapter
   'yhteishyva.fi', 's-kaupat.fi', 'foodie.fi', // Yhteishyvä adapter
   'valio.fi', // Valio adapter
-  'arla.fi', 'kotikokki.net', // generic Schema.org JSON-LD (verified 2026-10)
+  'arla.fi', 'kotikokki.net', // Arla + Kotikokki adapters, Schema.org JSON-LD (fetch verified 2026-10)
+  // Note: all other recipe-site adapters are pasteOnly and intentionally NOT listed here.
 ]
 
 function extraDomains(): string[] {

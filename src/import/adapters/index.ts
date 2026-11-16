@@ -169,28 +169,58 @@ export const GenericRecipeAdapter: RecipeSourceAdapter = {
 }
 
 /**
- * A paste-only source that publishes standard Schema.org recipe data. It adds no
- * site-specific extraction – the shared chain (JSON-LD first) does all the work – it
- * only lets the app recognise the site and show its proper name on the saved recipe.
- * Never auto-fetched (not in the server allowlist): the user pastes the page source,
- * which for personal use is akin to copying a recipe into a notebook by hand.
+ * A source that publishes standard Schema.org recipe data and needs no site-specific
+ * extraction – the shared chain (JSON-LD first) does all the work. The adapter only lets
+ * the app recognise the site and show its proper name on the saved recipe.
+ *
+ * `pasteOnly` (the default) marks all-rights-reserved sites that are NEVER auto-fetched
+ * and stay out of the server allowlist: the user pastes the page source, which for
+ * personal use is akin to copying a recipe into a notebook by hand. Pass `{ pasteOnly:
+ * false }` only for a site whose live auto-fetch has actually been verified and whose
+ * domain is in the allowlist.
  */
-function schemaOrgSource(id: string, name: string, homepage: string, domains: string[]): RecipeSourceAdapter {
+function schemaOrgSource(id: string, name: string, homepage: string, domains: string[], opts: { pasteOnly?: boolean } = {}): RecipeSourceAdapter {
   return {
     id,
     name,
     homepage,
     domains,
-    pasteOnly: true,
+    pasteOnly: opts.pasteOnly ?? true,
     extract(): AdapterResult {
       return { data: {}, methods: [], warnings: [] }
     },
   }
 }
 
+/** Arla: Schema.org JSON-LD (the @type attribute is entity-encoded, which the DOM decodes). Fetch verified live. */
+export const ArlaAdapter = schemaOrgSource('arla', 'Arla', 'https://www.arla.fi/reseptit/', ['arla.fi'], { pasteOnly: false })
+/** Kotikokki.net: Schema.org JSON-LD. Fetch verified live. */
+export const KotikokkiAdapter = schemaOrgSource('kotikokki', 'Kotikokki.net', 'https://www.kotikokki.net/', ['kotikokki.net'], { pasteOnly: false })
+
+/** Grocery/brand sites whose automated fetch is verified and allowlisted. */
+export const FETCHABLE_ADAPTERS: RecipeSourceAdapter[] = [KRuokaAdapter, YhteishyvaAdapter, ValioAdapter, ArlaAdapter, KotikokkiAdapter]
+
+/**
+ * Finnish recipe blogs, magazines and food brands recognised from pasted page source only.
+ * Standard Schema.org recipe data; all-rights-reserved content saved for personal use, so
+ * intentionally kept out of the fetch allowlist.
+ */
+export const FINNISH_PASTE_ADAPTERS: RecipeSourceAdapter[] = [
+  schemaOrgSource('chocochili', 'Chocochili', 'https://www.chocochili.net/', ['chocochili.net']),
+  schemaOrgSource('kinuskikissa', 'Kinuskikissa', 'https://www.kinuskikissa.fi/', ['kinuskikissa.fi']),
+  schemaOrgSource('hellapoliisi', 'Hellapoliisi', 'https://www.hellapoliisi.fi/', ['hellapoliisi.fi']),
+  schemaOrgSource('liemessa', 'Liemessä', 'https://www.liemessa.fi/', ['liemessa.fi']),
+  schemaOrgSource('kotiliesi', 'Kotiliesi', 'https://kotiliesi.fi/ruoka/', ['kotiliesi.fi']),
+  schemaOrgSource('martat', 'Martat', 'https://www.martat.fi/reseptit/', ['martat.fi']),
+  schemaOrgSource('soppa365', 'Soppa365', 'https://www.soppa365.fi/', ['soppa365.fi']),
+  schemaOrgSource('myllarin', 'Myllärin', 'https://www.myllarin.fi/reseptit/', ['myllarin.fi']),
+  schemaOrgSource('myllyn-paras', 'Myllyn Paras', 'https://myllynparas.fi/', ['myllynparas.fi']),
+  schemaOrgSource('snellman', 'Snellman', 'https://www.snellman.fi/fi/reseptit/', ['snellman.fi']),
+]
+
 /**
  * International recipe sites recognised from pasted page source only. All-rights-reserved
- * content saved for personal use; they are intentionally absent from the fetch allowlist.
+ * content saved for personal use; intentionally absent from the fetch allowlist.
  */
 export const INTERNATIONAL_ADAPTERS: RecipeSourceAdapter[] = [
   schemaOrgSource('nyt-cooking', 'NYT Cooking', 'https://cooking.nytimes.com/', ['cooking.nytimes.com']),
@@ -202,9 +232,26 @@ export const INTERNATIONAL_ADAPTERS: RecipeSourceAdapter[] = [
   schemaOrgSource('americas-test-kitchen', "America's Test Kitchen", 'https://www.americastestkitchen.com/', ['americastestkitchen.com']),
   schemaOrgSource('damn-delicious', 'Damn Delicious', 'https://damndelicious.net/', ['damndelicious.net']),
   schemaOrgSource('cooking-classy', 'Cooking Classy', 'https://www.cookingclassy.com/', ['cookingclassy.com']),
+  schemaOrgSource('allrecipes', 'Allrecipes', 'https://www.allrecipes.com/', ['allrecipes.com']),
+  schemaOrgSource('food-network', 'Food Network', 'https://www.foodnetwork.com/', ['foodnetwork.com']),
+  schemaOrgSource('epicurious', 'Epicurious', 'https://www.epicurious.com/', ['epicurious.com']),
+  schemaOrgSource('bbc-good-food', 'BBC Good Food', 'https://www.bbcgoodfood.com/', ['bbcgoodfood.com']),
+  schemaOrgSource('simply-recipes', 'Simply Recipes', 'https://www.simplyrecipes.com/', ['simplyrecipes.com']),
+  schemaOrgSource('the-kitchn', 'The Kitchn', 'https://www.thekitchn.com/', ['thekitchn.com']),
+  schemaOrgSource('king-arthur', 'King Arthur Baking', 'https://www.kingarthurbaking.com/', ['kingarthurbaking.com']),
+  schemaOrgSource('smitten-kitchen', 'Smitten Kitchen', 'https://smittenkitchen.com/', ['smittenkitchen.com']),
+  schemaOrgSource('budget-bytes', 'Budget Bytes', 'https://www.budgetbytes.com/', ['budgetbytes.com']),
+  schemaOrgSource('recipetin-eats', 'RecipeTin Eats', 'https://www.recipetineats.com/', ['recipetineats.com']),
+  schemaOrgSource('minimalist-baker', 'Minimalist Baker', 'https://minimalistbaker.com/', ['minimalistbaker.com']),
+  schemaOrgSource('food52', 'Food52', 'https://food52.com/', ['food52.com']),
+  schemaOrgSource('love-and-lemons', 'Love and Lemons', 'https://www.loveandlemons.com/', ['loveandlemons.com']),
+  schemaOrgSource('half-baked-harvest', 'Half Baked Harvest', 'https://www.halfbakedharvest.com/', ['halfbakedharvest.com']),
+  schemaOrgSource('taste-of-home', 'Taste of Home', 'https://www.tasteofhome.com/', ['tasteofhome.com']),
+  schemaOrgSource('jamie-oliver', 'Jamie Oliver', 'https://www.jamieoliver.com/', ['jamieoliver.com']),
+  schemaOrgSource('pinch-of-yum', 'Pinch of Yum', 'https://pinchofyum.com/', ['pinchofyum.com']),
 ]
 
-export const ADAPTERS: RecipeSourceAdapter[] = [KRuokaAdapter, YhteishyvaAdapter, ValioAdapter, ...INTERNATIONAL_ADAPTERS]
+export const ADAPTERS: RecipeSourceAdapter[] = [...FETCHABLE_ADAPTERS, ...FINNISH_PASTE_ADAPTERS, ...INTERNATIONAL_ADAPTERS]
 
 export function adapterForUrl(url: URL): RecipeSourceAdapter {
   const host = url.hostname.toLowerCase().replace(/^www\./, '')
