@@ -51,7 +51,7 @@ See also [REVIEW.md](REVIEW.md) – product-owner, customer and security review 
 | **Reseptit** | "Löydä" (the whole catalogue, ~5 000 translated open recipes + own recipes, sorted by recommendation) plus own recipes and favourites. Every card shows kcal and protein per serving. Search across name, ingredients, description, tags and category, with Finnish inflections and synonyms ("kana" finds "broilerin fileesuikale"). Quick chips (light and filling, protein, ≤ 30 min, vegetarian, from what's at home, breakfasts) and a "Suodata" sheet with all filters and sorts (incl. protein per kcal). Fineli dishes without instructions appear only in searches. **Valitse** enters multi-select to **share several recipes at once** (QR codes offline, or links where available) |
 | **Recipe page** | Phones: full-width photo, "Sopii päivääsi" (this dish against the rest of the day and your target), ingredients marked "kotona", instructions with tappable timers, and a sticky **"Lisää · <first suitable empty slot>"** button. Desktop: a spread with the photo fixed on the left and ingredients beside the steps; 1 920 px+: nutrition and "your week" column. Matching details (confidence dots, corrections) live behind "Ainesten tarkistus". **Cook mode**: one step at a time in large type, that step's ingredients, parsed timers, keyboard (→ ← T Esc), screen kept awake. Ratings, notes, favourites, print, edit as own copy, **share as a QR code** |
 | **Ingredient correction** | Tap an ingredient to see why it was matched, then pick another dictionary ingredient or *any* Fineli food. You can also set a manual weight and a scaling rule. "Remember" applies the choice to every recipe using the same wording |
-| **Tuo reseptejä** (import) | Paste several URLs at once; each gets a diagnostics card (detected fields, matched/approximated ingredients, ambiguous ones). Warns when the recipe was already imported. Fallback: paste the page HTML when a site blocks automated fetching. **Skannaa QR-koodi**: receive one recipe or a whole selection from another device's screen with the camera, fully offline — single or multi-frame codes read automatically, duplicates flagged |
+| **Tuo reseptejä** (import) | Paste several URLs at once; each gets a diagnostics card (detected fields, matched/approximated ingredients, ambiguous ones). Warns when the recipe was already imported. Paste the page HTML when a site blocks automated fetching or is paste-only (Finnish grocery sites plus international ones — NYT Cooking, Bon Appétit, Serious Eats, Delish, Tasty, Great British Chefs, America's Test Kitchen, Damn Delicious, Cooking Classy — recognised and named from Schema.org source). **Skannaa QR-koodi**: receive one recipe or a whole selection from another device's screen with the camera, fully offline — single or multi-frame codes read automatically, duplicates flagged |
 | **Suunnittele viikko** (auto-planning) | One screen: the plan is shown immediately with smart defaults (household servings, your calorie target, leftovers) and updates as you change week, meals or anything under "Säädä" (diet, calorie maximum, cooking times, ingredients to use or avoid, favourites, repeats, catalogue, replace). Swap single meals, then save. **"Täytä tyhjät"** fills empty slots in one tap from Today, Week and the command bar |
 | **Omat tuotteet** (own products) | Add products Fineli doesn't have. **Import from K-Ruoka or S-kaupat product pages**: nutrition per 100 g, EAN, brand, image, package size, category and allergen-based diet markers, from the page source (automatic fetch where the store allows it, otherwise paste the source). Copied label text ("Proteiini 19 g") also works, and everything can be entered by hand. Recipes match products by name, brand + name or your own aliases, and products work in nutrition, shopping lists and diet checks |
 | **Viikko** (week) | Phones: one row per day with meals as chips, gaps as "+ Lounas" and a bar against the goal. 1 024 px+: a 7 × 4 grid with **drag and drop** (preview of the day's kcal before dropping, ⌥ copies), keyboard navigation (arrows, ↵, ⌫, N = next empty), a per-day nutrition row and, from 1 280 px, a side panel (recipes to drag in, the selected meal, shopping). Two-week and month views (two weeks by default on 1 920 px+). Tapping a meal opens the **meal sheet**: ready-made swaps with kcal differences, leftovers for tomorrow, move, copy, servings, eaten/skipped, cook, remove with undo |
@@ -273,9 +273,13 @@ Researched options:
   (≈1 500 after excluding baby foods, drinks and supplements). Limitation: no
   preparation instructions, which the UI states clearly. Ingredients are source-mapped
   to Fineli with confidence 1.0.
-- Commercial Finnish recipe sites (K-Ruoka, Valio, Yhteishyvä…): copyrighted content, so
-  they're **not scraped in bulk**. They're only imported one recipe at a time on the
-  user's request, for personal use.
+- Commercial recipe sites — Finnish (K-Ruoka, Valio, Yhteishyvä…) and international (NYT
+  Cooking, Bon Appétit, Serious Eats, Delish, Tasty, Great British Chefs, America's Test
+  Kitchen, Damn Delicious, Cooking Classy): copyrighted content, so they're **not scraped
+  in bulk**. They're only imported one recipe at a time on the user's request, for personal
+  use — the equivalent of copying a recipe into your own notebook. The international sites
+  are **paste-only** (never auto-fetched): the user opens the recipe, copies the page
+  source and pastes it in. Nothing is shared or republished.
 - **Open recipe collections, translated into Finnish** – KitchenGadget8000, USDA MyPlate
   Kitchen (public domain), UniTools, ForkRecipe and the Wikibooks Cookbook (CC BY-SA 4.0).
   Translated to Finnish with metric units, loaded from `public/data/open-recipes/` by
@@ -359,7 +363,8 @@ What was actually observed on the live sites during development (September 2026)
 | **K-Ruoka** (`k-ruoka.fi`) | The site answers automated requests with a Cloudflare "Just a moment…" challenge, so its HTML structure couldn't be inspected. The adapter tries JSON-LD, then embedded app state (e.g. `__NEXT_DATA__`), then heading-based HTML, plus K-Ruoka's visible "6 annosta" / "15–30 min" text. The live site format is **unverified**, and the test fixture is synthetic. Use the paste-HTML fallback. | ⚠️ Auto-fetch blocked; paste HTML |
 | **Arla** (`arla.fi`) | Schema.org JSON-LD (the `type` attribute is HTML-entity-encoded, which the DOM decodes). Ingredient lines use Arla product names; "Apetina" etc. are recognized as product names. | ✅ Fetch + parse verified live |
 | **Kotikokki.net** | Schema.org JSON-LD. Lines often lack a space between number and unit ("1l vettä", "100g …"), which the parser handles. | ✅ Fetch + parse verified live |
-| Any other site | Generic chain (JSON-LD → app state → microdata/headings). Fetching needs the domain allowlisted (`RECIPE_FETCH_EXTRA_DOMAINS`); pasting HTML always works. | ✅ Best effort |
+| **International sites, paste-only** — NYT Cooking (`cooking.nytimes.com`), Bon Appétit, Serious Eats, Delish, Tasty, Great British Chefs, America's Test Kitchen, Damn Delicious, Cooking Classy | Standard Schema.org Recipe JSON-LD, read from the pasted page source. Thin named adapters (`pasteOnly: true`) only so the saved recipe shows the proper source name. **Never auto-fetched** — all-rights-reserved content saved for personal use, so these domains are deliberately kept out of the fetch allowlist. | 📋 Paste HTML only |
+| Any other site | Generic chain (JSON-LD → app state → microdata/headings). Pasting HTML always works; automated fetching additionally needs the domain allowlisted (`RECIPE_FETCH_EXTRA_DOMAINS`). | ✅ Best effort |
 
 ## Adding another recipe source
 
@@ -375,7 +380,7 @@ What was actually observed on the live sites during development (September 2026)
    }
    ```
 2. Add it to `ADAPTERS`.
-3. Add the domain to `ALLOWED_DOMAINS` in [`server/allowlist.ts`](server/allowlist.ts).
+3. Add the domain to `ALLOWED_DOMAINS` in [`server/allowlist.ts`](server/allowlist.ts) — **unless** the site is all-rights-reserved and only ever read from pasted source: set `pasteOnly: true` on the adapter and leave it out of the allowlist. A site that already publishes clean Schema.org JSON-LD needs no custom `extract`; the `schemaOrgSource(id, name, homepage, domains)` helper makes a thin paste-only adapter.
 4. Save a (trimmed) page as a fixture in `tests/fixtures/` and add a test in `tests/import.test.ts`.
 
 ## Own products and store-page import

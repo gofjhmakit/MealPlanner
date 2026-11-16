@@ -8,7 +8,8 @@
 import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
-import { adapterForUrl } from '../src/import/adapters'
+import { adapterForUrl, ADAPTERS } from '../src/import/adapters'
+import { isAllowedHost } from '../server/allowlist'
 import { parseUrlList } from '../src/import/client'
 import { detectBlockedPage, extractRecipe, ImportError, toRecipe } from '../src/import/pipeline'
 import { fineliLookup } from './helpers'
@@ -29,8 +30,50 @@ describe('adapter selection', () => {
     expect(adapterForUrl(new URL('https://example.com/recipe')).id).toBe('generic')
   })
 
+  it('recognises the international paste-only sites by domain', () => {
+    expect(adapterForUrl(new URL('https://cooking.nytimes.com/recipes/123')).name).toBe('NYT Cooking')
+    expect(adapterForUrl(new URL('https://www.bonappetit.com/recipe/x')).name).toBe('Bon Appétit')
+    expect(adapterForUrl(new URL('https://www.seriouseats.com/x-recipe')).name).toBe('Serious Eats')
+    expect(adapterForUrl(new URL('https://tasty.co/recipe/x')).name).toBe('Tasty')
+    expect(adapterForUrl(new URL('https://damndelicious.net/2020/x/')).name).toBe('Damn Delicious')
+    expect(adapterForUrl(new URL('https://www.greatbritishchefs.com/recipes/x')).name).toBe('Great British Chefs')
+  })
+
+  it('keeps the international sources out of the fetch allowlist (paste only)', () => {
+    for (const a of ADAPTERS.filter((x) => x.pasteOnly)) {
+      for (const d of a.domains) expect(isAllowedHost(d)).toBe(false)
+    }
+    // the Finnish grocery sites remain fetchable
+    expect(isAllowedHost('valio.fi')).toBe(true)
+    expect(isAllowedHost('yhteishyva.fi')).toBe(true)
+    expect(isAllowedHost('k-ruoka.fi')).toBe(true)
+  })
+
   it('extracts URLs from pasted text', () => {
     expect(parseUrlList('https://a.fi/x\nhttps://b.fi/y, https://a.fi/x')).toEqual(['https://a.fi/x', 'https://b.fi/y'])
+  })
+})
+
+describe('International site via pasted Schema.org JSON-LD', () => {
+  const { recipe, diagnostics } = parse(fixture('nyt-cooking-pancakes.html'), 'https://cooking.nytimes.com/recipes/1234-classic-pancakes')
+
+  it('parses a generic Schema.org recipe and names the source nicely', () => {
+    expect(recipe.title).toBe('Classic Pancakes')
+    expect(recipe.sourceName).toBe('NYT Cooking') // not the bare hostname
+    expect(recipe.sourceId).toBe('nyt-cooking')
+    expect(recipe.servings).toBe(4)
+    expect(recipe.prepTimeMin).toBe(10)
+    expect(recipe.cookTimeMin).toBe(15)
+    expect(recipe.totalTimeMin).toBe(25)
+    expect(recipe.author).toBe('Sam Sifton')
+    expect(recipe.ingredients.map((i) => i.raw)).toContain('2 cups all-purpose flour')
+    expect(recipe.ingredients).toHaveLength(6)
+    expect(diagnostics.methods).toContain('json-ld')
+  })
+
+  it('keeps the HowToSection headings in the instructions', () => {
+    expect(recipe.instructions[0]).toBe('Make the batter:')
+    expect(recipe.instructions).toContain('Cook spoonfuls of batter on a hot griddle until golden on both sides.')
   })
 })
 

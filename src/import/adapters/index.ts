@@ -6,7 +6,9 @@
  * pipeline always runs afterwards to fill whatever the adapter left empty.
  *
  * Adding a new site = add an adapter object here and list its domains.
- * Remember to add the domain to the server's fetch allowlist (server/allowlist.ts).
+ * Remember to add the domain to the server's fetch allowlist (server/allowlist.ts)
+ * — unless the adapter is `pasteOnly` (saved from pasted page source for personal
+ * use only), in which case it must stay OUT of the allowlist.
  */
 import { extractEmbeddedState } from '../extractors/embeddedState'
 import { extractJsonLd } from '../extractors/jsonLd'
@@ -166,7 +168,43 @@ export const GenericRecipeAdapter: RecipeSourceAdapter = {
   },
 }
 
-export const ADAPTERS: RecipeSourceAdapter[] = [KRuokaAdapter, YhteishyvaAdapter, ValioAdapter]
+/**
+ * A paste-only source that publishes standard Schema.org recipe data. It adds no
+ * site-specific extraction – the shared chain (JSON-LD first) does all the work – it
+ * only lets the app recognise the site and show its proper name on the saved recipe.
+ * Never auto-fetched (not in the server allowlist): the user pastes the page source,
+ * which for personal use is akin to copying a recipe into a notebook by hand.
+ */
+function schemaOrgSource(id: string, name: string, homepage: string, domains: string[]): RecipeSourceAdapter {
+  return {
+    id,
+    name,
+    homepage,
+    domains,
+    pasteOnly: true,
+    extract(): AdapterResult {
+      return { data: {}, methods: [], warnings: [] }
+    },
+  }
+}
+
+/**
+ * International recipe sites recognised from pasted page source only. All-rights-reserved
+ * content saved for personal use; they are intentionally absent from the fetch allowlist.
+ */
+export const INTERNATIONAL_ADAPTERS: RecipeSourceAdapter[] = [
+  schemaOrgSource('nyt-cooking', 'NYT Cooking', 'https://cooking.nytimes.com/', ['cooking.nytimes.com']),
+  schemaOrgSource('bon-appetit', 'Bon Appétit', 'https://www.bonappetit.com/', ['bonappetit.com']),
+  schemaOrgSource('serious-eats', 'Serious Eats', 'https://www.seriouseats.com/', ['seriouseats.com']),
+  schemaOrgSource('delish', 'Delish', 'https://www.delish.com/', ['delish.com']),
+  schemaOrgSource('tasty', 'Tasty', 'https://tasty.co/', ['tasty.co']),
+  schemaOrgSource('great-british-chefs', 'Great British Chefs', 'https://www.greatbritishchefs.com/', ['greatbritishchefs.com']),
+  schemaOrgSource('americas-test-kitchen', "America's Test Kitchen", 'https://www.americastestkitchen.com/', ['americastestkitchen.com']),
+  schemaOrgSource('damn-delicious', 'Damn Delicious', 'https://damndelicious.net/', ['damndelicious.net']),
+  schemaOrgSource('cooking-classy', 'Cooking Classy', 'https://www.cookingclassy.com/', ['cookingclassy.com']),
+]
+
+export const ADAPTERS: RecipeSourceAdapter[] = [KRuokaAdapter, YhteishyvaAdapter, ValioAdapter, ...INTERNATIONAL_ADAPTERS]
 
 export function adapterForUrl(url: URL): RecipeSourceAdapter {
   const host = url.hostname.toLowerCase().replace(/^www\./, '')

@@ -215,19 +215,28 @@ export function ImportPage() {
 
       <Card className="mt-8 p-5">
         <h2 className="font-display text-lg font-semibold">Tuetut lähteet</h2>
-        <ul className="mt-3 grid gap-3 text-sm sm:grid-cols-3">
-          {ADAPTERS.map((a) => (
-            <li key={a.id} className="rounded-xl bg-surface-2 p-3">
-              <a href={a.homepage} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 font-medium hover:text-brand">
-                {a.name} <ExternalLink size={12} />
-              </a>
-              <p className="mt-1 text-xs text-muted">{a.domains.join(', ')}</p>
-            </li>
+
+        <p className="mt-3 text-xs font-semibold uppercase tracking-wider text-muted">{FETCH_AVAILABLE ? 'Automaattinen haku tai liittämällä' : 'Liittämällä sivun lähdekoodi'}</p>
+        <ul className="mt-2 grid gap-3 text-sm sm:grid-cols-3">
+          {ADAPTERS.filter((a) => !a.pasteOnly).map((a) => (
+            <SourceItem key={a.id} name={a.name} homepage={a.homepage} domains={a.domains} />
+          ))}
+          <SourceItem name="Arla" homepage="https://www.arla.fi/reseptit/" domains={['arla.fi']} />
+          <SourceItem name="Kotikokki.net" homepage="https://www.kotikokki.net/" domains={['kotikokki.net']} />
+        </ul>
+
+        <p className="mt-5 text-xs font-semibold uppercase tracking-wider text-muted">Kansainväliset sivustot – liittämällä sivun lähdekoodi</p>
+        <ul className="mt-2 grid gap-3 text-sm sm:grid-cols-3">
+          {ADAPTERS.filter((a) => a.pasteOnly).map((a) => (
+            <SourceItem key={a.id} name={a.name} homepage={a.homepage} domains={a.domains} />
           ))}
         </ul>
-        <p className="mt-3 text-sm text-ink-2">Lisäksi {FETCH_AVAILABLE ? 'automaattinen haku' : 'tunnistus'} toimii sivustoilla <strong>arla.fi</strong> ja <strong>kotikokki.net</strong> (Schema.org-reseptitiedot).</p>
+
+        <p className="mt-4 text-sm text-ink-2">
+          Mikä tahansa <strong>Schema.org-reseptitiedot</strong> julkaiseva sivu luetaan liittämällä sen lähdekoodi, vaikka sitä ei olisi listattu tässä. Kansainvälisiä sivustoja ei haeta automaattisesti: avaat reseptin, kopioit sivun lähdekoodin (iOS: kirjanmerkki-pikakomento) ja liität sen <strong>Liitä sivun HTML</strong> -välilehdelle.
+        </p>
         <p className="mt-2 text-xs text-muted">
-          Tuodut reseptit tallennetaan vain omaan käyttöösi tälle laitteelle lähdetietoineen. Reseptien tekstit ovat lähdesivustojen tekijänoikeudenalaista sisältöä.
+          Tuodut reseptit tallennetaan vain omaan käyttöösi tälle laitteelle lähdetietoineen – kuten reseptin kirjoittaisi itselleen muistiin. Reseptien tekstit ovat lähdesivustojen tekijänoikeudenalaista sisältöä, joten älä jaa niitä eteenpäin, ellei lähteen lisenssi sitä salli.
         </p>
       </Card>
     </div>
@@ -348,6 +357,17 @@ function ImportResultCard({
         )}
       </div>
     </Card>
+  )
+}
+
+function SourceItem({ name, homepage, domains }: { name: string; homepage: string; domains: string[] }) {
+  return (
+    <li className="rounded-xl bg-surface-2 p-3">
+      <a href={homepage} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 font-medium hover:text-brand">
+        {name} <ExternalLink size={12} />
+      </a>
+      <p className="mt-1 text-xs text-muted">{domains.join(', ')}</p>
+    </li>
   )
 }
 

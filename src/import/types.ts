@@ -45,6 +45,12 @@ export interface RecipeSourceAdapter {
   homepage: string
   /** Registrable domains this adapter handles (subdomains included). */
   domains: string[]
+  /**
+   * True for sites we only ever read from pasted page source, never fetch automatically –
+   * typically all-rights-reserved sites saved for personal use. These are deliberately NOT
+   * in the server fetch allowlist; the app just recognises the source and names it nicely.
+   */
+  pasteOnly?: boolean
   /** Site-specific extraction. Missing fields are filled by the generic pipeline afterwards. */
   extract(doc: Document, url: URL): AdapterResult
 }
