@@ -1,4 +1,4 @@
-import { AlertTriangle, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, QrCode, XCircle } from 'lucide-react'
+import { AlertTriangle, Bookmark, CheckCircle2, Clipboard, ExternalLink, Link2, Loader2, QrCode, XCircle } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate } from 'react-router'
 import { findRecipeBySourceUrl, findRecipeByTitle, matchContext, saveRecipe } from '../../db/repo'
@@ -12,6 +12,7 @@ import { sharePayloadToRecipe, shareDiagnostics } from '../../share/importShare'
 import type { SharePayload } from '../../share/recipeShare'
 import { useApp, useToast } from '../AppContext'
 import { PageHeader } from '../components/Layout'
+import { BookmarkletDialog } from '../components/BookmarkletDialog'
 import { QrScanner } from '../components/QrScanner'
 import { ConfidenceDot, RecipeImage } from '../components/recipe'
 import { Badge, Button, Card, cx, Field, TextInput } from '../components/ui'
@@ -40,6 +41,7 @@ export function ImportPage() {
   const [busy, setBusy] = useState(false)
   const [htmlUrl, setHtmlUrl] = useState('')
   const [html, setHtml] = useState('')
+  const [bookmarkletOpen, setBookmarkletOpen] = useState(false)
 
   const update = (i: number, row: RowState) => setRows((r) => r.map((x, j) => (j === i ? row : x)))
 
@@ -176,6 +178,9 @@ export function ImportPage() {
           <p className="text-sm text-ink-2">
             {FETCH_AVAILABLE ? 'Jos sivusto estää automaattisen haun (esim. K-Ruoka käyttää bottisuojausta), avaa' : 'Tässä versiossa reseptejä ei haeta osoitteesta, vaan sivun lähdekoodi liitetään: avaa'} resepti selaimessa, valitse <em>Näytä sivun lähdekoodi</em> (Ctrl/Cmd + U), kopioi kaikki ja liitä alle. Sivu käsitellään kokonaan selaimessasi.
           </p>
+          <button type="button" onClick={() => setBookmarkletOpen(true)} className="inline-flex items-center gap-1.5 text-sm font-medium text-brand underline">
+            <Bookmark size={14} /> iPhonella? Kopioi sivun HTML yhdellä napautuksella kirjanmerkillä
+          </button>
           <Field label="Reseptin osoite (lähdetiedoksi)">
             <TextInput value={htmlUrl} onChange={(e) => setHtmlUrl(e.target.value)} placeholder="https://www.k-ruoka.fi/reseptit/…" />
           </Field>
@@ -238,12 +243,15 @@ export function ImportPage() {
         </div>
 
         <p className="mt-4 text-sm text-ink-2">
-          Mikä tahansa <strong>Schema.org-reseptitiedot</strong> julkaiseva sivu luetaan liittämällä sen lähdekoodi, vaikka sitä ei olisi listattu tässä. Listattuja suomalaisia ja kansainvälisiä sivustoja ei haeta automaattisesti: avaat reseptin, kopioit sivun lähdekoodin (iOS: kirjanmerkki-pikakomento) ja liität sen <strong>Liitä sivun HTML</strong> -välilehdelle.
+          Mikä tahansa <strong>Schema.org-reseptitiedot</strong> julkaiseva sivu luetaan liittämällä sen lähdekoodi, vaikka sitä ei olisi listattu tässä. Listattuja suomalaisia ja kansainvälisiä sivustoja ei haeta automaattisesti: avaat reseptin, kopioit sivun lähdekoodin (iOS:{' '}
+          <button type="button" onClick={() => setBookmarkletOpen(true)} className="font-medium text-brand underline">kirjanmerkki-pikakomento</button>) ja liität sen <strong>Liitä sivun HTML</strong> -välilehdelle.
         </p>
         <p className="mt-2 text-xs text-muted">
           Tuodut reseptit tallennetaan vain omaan käyttöösi tälle laitteelle lähdetietoineen – kuten reseptin kirjoittaisi itselleen muistiin. Reseptien tekstit ovat lähdesivustojen tekijänoikeudenalaista sisältöä, joten älä jaa niitä eteenpäin, ellei lähteen lisenssi sitä salli.
         </p>
       </Card>
+
+      <BookmarkletDialog open={bookmarkletOpen} onClose={() => setBookmarkletOpen(false)} />
     </div>
   )
 }

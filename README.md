@@ -356,6 +356,12 @@ historical cookbook entries need several frames. For very large recipes the JSON
 
 ## Supported recipe sites
 
+To get a page's source on iOS (where "view source" is awkward), the import page offers a
+**copy-HTML bookmarklet** (⋯ "Kopioi sivun HTML -kirjanmerkki"): a dialog with one-tap copy
+to the clipboard and install steps. Tapping the bookmarklet on a recipe page copies the
+rendered `documentElement.outerHTML` to the clipboard, ready to paste into **Liitä sivun
+HTML**. It runs only on the open page and sends nothing. Source: `src/ui/components/bookmarklet.ts`.
+
 What was actually observed on the live sites during development (September 2026):
 
 | Site | Mechanism | Status |
